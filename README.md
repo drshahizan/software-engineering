@@ -27,16 +27,16 @@ This course is designed to give students an introduction to an engineering appro
 | 3 | 3: Agile Software Development | Agile methods, Agile development techniques, Agile project management, scaling Agile methods |
 | 4 | 4: Requirements Engineering | Types of requirements, functional and non-functional requirements, requirements specification, requirements engineering processes |
 | 5 | 5: Requirements Analysis and modelling ME  | Use case modelling and specification, domain modelling, activity diagram, sequence diagram, state chart/state machine diagram |
-| 6 | | **Industry Day I** Project requirement sharing. |
+| 6 | | **Industry Day I:** Project requirement sharing. |
 | 7 | | **MID-SEMESTER BREAK** |
-| 8 | 2:  |  |
-| 9 | 2:  |  |
-| 10 | 2:  |  |
-| 11 | 2:  |  |
-| 12 | 2:  |  |
-| 13 | 2:  |  |
-| 14 | 2:  |  |
-| 15 | 2:  |  |
+| 8 | | Software Engineering project – Requirements analysis and models.  Produce requirements document* that includes all the required analysis models |
+| 9 | 6: Architectural Design | Architectural design and detailed design, Architectural design decision, architectural view, component diagram in relation to architectural view, architectural pattern: Model-View-Controller (MVC), layered, repository, client server and pipe filter |
+| 10 | 7: Object-Oriented Detailed Design | Relationships among analysis, design and implementation, object-oriented design using UML, object-oriented design principles, elaborating UML diagrams from analysis.|
+| 11 | | Software Engineering project – Design model. Produce design document* that includes all the required design models |
+| 12 | 8: Software verification, validation and testing  | Introduction to verification and validation, verification and validation planning, software inspections. System testing, Component testing, Test case design, Test Case Design using Black-box and white box |
+| 13 | | Software Engineering project – Test case design. Produce testing document* that includes all the required test cases |
+| 14 | | TENTATIVE - ALTERNATIVE ASSESSMENT (TBC)|
+| 15 | | Industry Day II. Project demonstration and hand over. |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
