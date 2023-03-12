@@ -18,6 +18,12 @@ This course is designed to give students an introduction to an engineering appro
 3. Construct software requirements model, software architecture, object-oriented design model and test cases with state-of-the-art methods and tools for a real-world software engineering problem.
 4. Ability to establish good rapport, interact with others, work effectively in a team and comprehend the interchangeable role of leaders and followers with team members.
 
+## Weekly Schedule
+
+| Weekly | Module | Description | 
+| :-----: | ------ | ------ |
+| 1 | Module 1: Introduction to Software Engineering | Software definition, software engineering as a layered technology, types of software, inherent difficulties in software engineering, SE quality focus, Documentation Standard.|
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
