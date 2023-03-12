@@ -35,8 +35,8 @@ This course is designed to give students an introduction to an engineering appro
 | 11 | | Software Engineering project – Design model. Produce design document* that includes all the required design models |
 | 12 | 8: Software verification, validation and testing  | Introduction to verification and validation, verification and validation planning, software inspections. System testing, Component testing, Test case design, Test Case Design using Black-box and white box |
 | 13 | | Software Engineering project – Test case design. Produce testing document* that includes all the required test cases |
-| 14 | | TENTATIVE - ALTERNATIVE ASSESSMENT (TBC)|
-| 15 | | Industry Day II. Project demonstration and hand over. |
+| 14 | | **TENTATIVE - ALTERNATIVE ASSESSMENT (TBC)**|
+| 15 | | **Industry Day II:** Project demonstration and hand over. |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
