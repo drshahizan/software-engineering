@@ -27,8 +27,8 @@ This course is designed to give students an introduction to an engineering appro
 | 3 | 3: Agile Software Development | Agile methods, Agile development techniques, Agile project management, scaling Agile methods |
 | 4 | 4: Requirements Engineering | Types of requirements, functional and non-functional requirements, requirements specification, requirements engineering processes |
 | 5 | 5: Requirements Analysis and modelling ME  | Use case modelling and specification, domain modelling, activity diagram, sequence diagram, state chart/state machine diagram |
-| 6 | 2:  |  |
-| 7 | 2:  |  |
+| 6 | | **Industry Day I** Project requirement sharing. |
+| 7 | | **MID-SEMESTER BREAK** |
 | 8 | 2:  |  |
 | 9 | 2:  |  |
 | 10 | 2:  |  |
