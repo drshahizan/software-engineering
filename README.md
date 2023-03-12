@@ -38,6 +38,8 @@ This course is designed to give students an introduction to an engineering appro
 | 14 | | **TENTATIVE - ALTERNATIVE ASSESSMENT (TBC)**|
 | 15 | | **Industry Day II:** Project demonstration and hand over. |
 
+## Student Information
+
 | No | Name | ID |  Github | Project |
 | ----- | ----- | ------ | :------: | :------: |
 | 1 | ALIATUL IZZAH BINTI JASMAN |  | [:octocat:]() | <a href="https://github.com/users/drshahizan/projects/1" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
