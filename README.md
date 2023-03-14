@@ -76,7 +76,7 @@ This course is designed to give students an introduction to an engineering appro
 - [Software Engineering | Introduction to Software Engineering](https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/)
 - [Software Engineering Tutorial](https://www.javatpoint.com/software-engineering)
 - [Tools EVERY Software Engineer Should Know](https://youtu.be/D4JkWoUovdo)
-- []()
+- [The Anatomy of A Skilled Software Engineer](https://manilarecruitment.com/manila-recruitment-articles-advice/anatomy-skilled-software-engineer-infographic/)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
