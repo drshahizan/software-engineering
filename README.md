@@ -80,7 +80,7 @@ This course is designed to give students an introduction to an engineering appro
 - [Software developer road map 2023](https://youtu.be/41zmHpaFR9g)
 - Document standards by IEEE
   - [830-1998 - IEEE Recommended Practice for Software Requirements Specifications](https://ieeexplore.ieee.org/document/720574)
-  - [IEEE 1016-2009 - IEEE Standard for Information Technology--Systems Design--Software Design Descriptions](https://standards.ieee.org/ieee/1016/4502/)
+  - [1016-2009 - IEEE Standard for Information Technology--Systems Design--Software Design Descriptions](https://standards.ieee.org/ieee/1016/4502/)
 - [IEEE Standards](https://standards.ieee.org/search/?q=software%20standard)
 
 ## Contribution 🛠️
