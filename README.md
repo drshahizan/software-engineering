@@ -74,8 +74,8 @@ This course is designed to give students an introduction to an engineering appro
 
 ### Introduction to Software Engineering
 - [Software Engineering | Introduction to Software Engineering](https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/)
-- []()
-- []()
+- [Software Engineering Tutorial](https://www.javatpoint.com/software-engineering)
+- [Tools EVERY Software Engineer Should Know](https://youtu.be/D4JkWoUovdo)
 - []()
 
 ## Contribution 🛠️
