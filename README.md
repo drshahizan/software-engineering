@@ -70,6 +70,14 @@ This course is designed to give students an introduction to an engineering appro
 | 26 | VINESH A/L VIJAYA KUMAR |  | [:octocat:]() | <a href="https://github.com/users/drshahizan/projects/1" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 27 | WAN NUR SOFEA BINTI MOHD HASBULLAH |  | [:octocat:]() | <a href="https://github.com/users/drshahizan/projects/1" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 
+## Notes
+
+### Introduction to Software Engineering
+- [Software Engineering | Introduction to Software Engineering](https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/)
+- []()
+- []()
+- []()
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
