@@ -81,7 +81,7 @@ This course is designed to give students an introduction to an engineering appro
 - Document standards by IEEE
   - [830-1998 - IEEE Recommended Practice for Software Requirements Specifications](https://ieeexplore.ieee.org/document/720574)
   - [1016-2009 - IEEE Standard for Information Technology--Systems Design--Software Design Descriptions](https://standards.ieee.org/ieee/1016/4502/)
-  - [IEEE 829 - Standard for Test Documentation Overview-Test Plan Outline](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=573169)
+  - [829 - IEEE Standard for Test Documentation Overview-Test Plan Outline](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=573169)
   - [829-2008 - IEEE Standard for Software and System Test Documentation](https://ieeexplore.ieee.org/document/4578383)
 - [IEEE Standards](https://standards.ieee.org/search/?q=software%20standard)
 
