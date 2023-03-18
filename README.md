@@ -66,7 +66,7 @@ This course is designed to give students an introduction to an engineering appro
 | 22 | ONG YI YAN | ONGYIYAN | [:octocat:](https://github.com/ONGYIYAN) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 23 | SALINI RAVINTHIRAN | Salini1 | [:octocat:](https://github.com/Salini1) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 24 | TANG YAN QING | yan-qing09 | [:octocat:](https://github.com/yan-qing09) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 25 | THEVAN RAJU A/L JEGANATH |  | [:octocat:](https://github.com/) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
+| 25 | THEVAN RAJU A/L JEGANATH | ThevanRaju | [:octocat:](https://github.com/ThevanRaju) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 26 | VINESH A/L VIJAYA KUMAR | vinesh06 | [:octocat:](https://github.com/vinesh06) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 27 | WAN NUR SOFEA BINTI MOHD HASBULLAH | wannursofea | [:octocat:](https://github.com/wannursofea) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 
