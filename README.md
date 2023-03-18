@@ -47,7 +47,7 @@ This course is designed to give students an introduction to an engineering appro
 | 3 | DANIAL HARRIZ BIN MOHD ASINEH @MOHD ASNEH | danialharriz | [:octocat:](https://github.com/danialharriz) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 4 | KOH SU XUAN | kohxuan | [:octocat:](https://github.com/kohxuan) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 5 | KUGEN A/L KALIDAS |  | [:octocat:](https://github.com/) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 6 | LEE YIK HONG |  | [:octocat:](https://github.com/) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
+| 6 | LEE YIK HONG | YIKHONGLEE | [:octocat:](https://github.com/YIKHONGLEE) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 7 | MUHAMMAD ANAS BIN MOHD PIKRI | MuhdAnass | [:octocat:](https://github.com/MuhdAnass) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 8 | MUHAMMAD ARIFF DANISH BIN HASHNAN |  | [:octocat:](https://github.com/) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 9 | MUHAMMAD IMAN FIRDAUS BIN BAHARUDDIN | MuhammadImanFirdaus | [:octocat:](https://github.com/MuhammadImanFirdaus) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
@@ -61,7 +61,7 @@ This course is designed to give students an introduction to an engineering appro
 | 17 | NIK ZULAIKHAA BINTI ZURAIDI AFANDI |  | [:octocat:](https://github.com/) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 18 | NUR ALEYSHA QURRATU'AINI BINTI MAT SALLEH | NurAleysha | [:octocat:](https://github.com/NurAleysha) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 19 | NUR ARINI FATIHAH BINTI MOHD SABIR |  | [:octocat:](https://github.com/) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 20 | NUR FARAH ADIBAH BINTI IDRIS |  | [:octocat:](https://github.com/) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
+| 20 | NUR FARAH ADIBAH BINTI IDRIS | nurfarahadibah | [:octocat:](https://github.com/nurfarahadibah) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 21 | NURUL ERINA BINTI ZAINUDDIN | nrulerina | [:octocat:](https://github.com/nrulerina) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 22 | ONG YI YAN | ONGYIYAN | [:octocat:](https://github.com/ONGYIYAN) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 23 | SALINI RAVINTHIRAN | Salini1 | [:octocat:](https://github.com/Salini1) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
