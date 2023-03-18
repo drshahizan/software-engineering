@@ -49,7 +49,7 @@ This course is designed to give students an introduction to an engineering appro
 | 5 | KUGEN A/L KALIDAS |  | [:octocat:](https://github.com/) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 6 | LEE YIK HONG | YIKHONGLEE | [:octocat:](https://github.com/YIKHONGLEE) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 7 | MUHAMMAD ANAS BIN MOHD PIKRI | MuhdAnass | [:octocat:](https://github.com/MuhdAnass) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 8 | MUHAMMAD ARIFF DANISH BIN HASHNAN |  | [:octocat:](https://github.com/) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
+| 8 | MUHAMMAD ARIFF DANISH BIN HASHNAN | ariffdanish | [:octocat:](https://github.com/ariffdanish) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 9 | MUHAMMAD IMAN FIRDAUS BIN BAHARUDDIN | MuhammadImanFirdaus | [:octocat:](https://github.com/MuhammadImanFirdaus) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 10 | MUHAMMAD LUQMAN HAKIM BIN MOHD RIZAUDIN | Luqman08 | [:octocat:](https://github.com/Luqman08) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 11 | MUHAMMAD NUR AZHAR BIN MOHD YAZID |  | [:octocat:](https://github.com/) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
