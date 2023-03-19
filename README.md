@@ -46,18 +46,18 @@ This course is designed to give students an introduction to an engineering appro
 | 2 | CHE MARHUMI BIN CHE AB RAHIM | CheMrhumi | [:octocat:](https://github.com/CheMrhumi) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 3 | DANIAL HARRIZ BIN MOHD ASINEH @MOHD ASNEH | danialharriz | [:octocat:](https://github.com/danialharriz) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 4 | KOH SU XUAN | kohxuan | [:octocat:](https://github.com/kohxuan) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 5 | KUGEN A/L KALIDAS |  | [:octocat:](https://github.com/) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
+| 5 | KUGEN A/L KALIDAS | Kugen_gen | [:octocat:](https://github.com/Kugen_gen) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 6 | LEE YIK HONG | YIKHONGLEE | [:octocat:](https://github.com/YIKHONGLEE) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 7 | MUHAMMAD ANAS BIN MOHD PIKRI | MuhdAnass | [:octocat:](https://github.com/MuhdAnass) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 8 | MUHAMMAD ARIFF DANISH BIN HASHNAN | ariffdanish | [:octocat:](https://github.com/ariffdanish) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 9 | MUHAMMAD IMAN FIRDAUS BIN BAHARUDDIN | MuhammadImanFirdaus | [:octocat:](https://github.com/MuhammadImanFirdaus) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 10 | MUHAMMAD LUQMAN HAKIM BIN MOHD RIZAUDIN | Luqman08 | [:octocat:](https://github.com/Luqman08) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 11 | MUHAMMAD NUR AZHAR BIN MOHD YAZID | mnazhar13 | [:octocat:](https://github.com/mnazhar13) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 12 | MUHAMMAD SAFWAN BIN MOHD AZMI	 | safwan031 | [:octocat:](https://github.com/safwan031) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
+| 12 | MUHAMMAD SAFWAN BIN MOHD AZMI | safwan031 | [:octocat:](https://github.com/safwan031) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 13 | MULYANI BINTI SARIPUDDIN | Mulyani28 | [:octocat:](https://github.com/Mulyani28) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 14 | NADHRAH NURSABRINA BINTI ZULAINI | SabrinaNadhrah | [:octocat:](https://github.com/SabrinaNadhrah) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 15 | NAVACHANDER NAVASANTAR	 | Navachander1 | [:octocat:](https://github.com/Navachander1) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 16 | NAVASARATHY A/L S.GANESWARAN |  | [:octocat:](https://github.com/) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
+| 16 | NAVASARATHY A/L S.GANESWARAN | Navasarathy | [:octocat:](https://github.com/Navasarathy) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 17 | NIK ZULAIKHAA BINTI ZURAIDI AFANDI | nikzulaikhaa | [:octocat:](https://github.com/nikzulaikhaa) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 18 | NUR ALEYSHA QURRATU'AINI BINTI MAT SALLEH | NurAleysha | [:octocat:](https://github.com/NurAleysha) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 19 | NUR ARINI FATIHAH BINTI MOHD SABIR | arinifthh | [:octocat:](https://github.com/arinifthh) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
