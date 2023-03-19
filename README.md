@@ -46,7 +46,7 @@ This course is designed to give students an introduction to an engineering appro
 | 2 | CHE MARHUMI BIN CHE AB RAHIM | CheMrhumi | [:octocat:](https://github.com/CheMrhumi) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 3 | DANIAL HARRIZ BIN MOHD ASINEH @MOHD ASNEH | danialharriz | [:octocat:](https://github.com/danialharriz) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 4 | KOH SU XUAN | kohxuan | [:octocat:](https://github.com/kohxuan) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
-| 5 | KUGEN A/L KALIDAS | Kugen_gen | [:octocat:](https://github.com/Kugen_gen) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
+| 5 | KUGEN A/L KALIDAS | kugen03 | [:octocat:](https://github.com/kugen03) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 6 | LEE YIK HONG | YIKHONGLEE | [:octocat:](https://github.com/YIKHONGLEE) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 7 | MUHAMMAD ANAS BIN MOHD PIKRI | MuhdAnass | [:octocat:](https://github.com/MuhdAnass) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
 | 8 | MUHAMMAD ARIFF DANISH BIN HASHNAN | ariffdanish | [:octocat:](https://github.com/ariffdanish) | <a href="https://github.com/" ><img src="./images/calendar-24.svg" width="20px" height="20px" ></a> |
