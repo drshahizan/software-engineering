@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # Week 1
 
-The Importance of Software Engineering
+## The Importance of Software Engineering
 
 Software engineering is a critical field that plays a vital role in the development and success of modern technology. Here are some of the reasons why software engineering is important:
 
@@ -25,7 +25,7 @@ Collaboration: Software engineering promotes collaboration between developers, d
 
 In summary, software engineering is important for the efficient development, quality assurance, innovation, maintenance, and collaboration in the development of software systems.
 
-Software Engineering Costs
+## Software Engineering Costs
 Software engineering costs can vary depending on various factors such as the complexity of the software, the size of the development team, the time frame for development, the technology used, and the location of the development team. Here are some of the costs associated with software engineering:
 
 Development Costs: This includes the cost of developing the software, including the salaries and benefits of the development team, equipment and software licenses, and other development-related expenses such as hosting and infrastructure costs.
@@ -40,7 +40,7 @@ Opportunity Costs: Developing software takes time and resources, which can be us
 
 In summary, software engineering costs include development costs, maintenance costs, testing costs, training costs, and opportunity costs. These costs can vary depending on various factors, and it's essential to consider them when planning for software development.
 
-Software Engineering in Software Development
+## Software Engineering in Software Development
 Software engineering plays a crucial role in software development. It provides a systematic and structured approach to software development that helps to ensure that the software is reliable, efficient, and meets the needs of the end-user. Here are some of the ways in which software engineering is used in software development:
 
 Requirements Analysis: Software engineering begins with requirements analysis, where the development team identifies the needs of the end-user and determines the features and functionalities that the software should have.
@@ -53,11 +53,11 @@ Testing: Software engineering principles are used to conduct various types of te
 
 Maintenance: Once the software is deployed, software engineering principles are used to maintain the software by conducting bug fixes, software updates, and security patches. This maintenance phase helps to ensure that the software remains functional and secure.
 
-Software Engineering Definition
+## Software Engineering Definition
 
 Software engineering is the discipline of designing, developing, testing, and maintaining software systems in a systematic and structured way. It involves applying principles, methods, and tools to create high-quality software that meets user requirements, is efficient, reliable, secure, and maintainable. Software engineering covers the entire software development life cycle, from requirements gathering to design, coding, testing, deployment, and maintenance. It also includes the use of various software development methodologies, such as agile and waterfall, to manage software development projects effectively. The goal of software engineering is to produce software systems that meet user needs and are cost-effective, efficient, and scalable.
 
-Software Engineering as a Layered Technology
+## Software Engineering as a Layered Technology
 
 Software engineering can be viewed as a layered technology, with each layer building upon the previous one. The layers include:
 
@@ -73,7 +73,7 @@ Management Layer: This layer includes the project management techniques used to 
 
 Each layer in software engineering is essential for the successful development of software systems. Each layer builds upon the previous layer to provide a comprehensive approach to software development that results in high-quality, reliable, and efficient software systems.
 
-Software Products and Product Specification
+## Software Products and Product Specification
 
 Software products are the result of the software development process, which involves designing, coding, testing, and deploying software. A software product is typically a program, application, or system that provides a specific set of functionality to end-users.
 
@@ -94,6 +94,28 @@ Technical Architecture: A description of the technical architecture used by the 
 Testing and Quality Assurance: A description of the testing and quality assurance processes used to ensure that the software product meets its requirements and quality standards.
 
 The product specification serves as a critical communication tool between the development team and other stakeholders, such as product managers, designers, and customers. It ensures that everyone involved in the software development process has a shared understanding of the product's requirements, features, and functionality.
+
+## Software Engineering Diversity: Types of Software
+
+Software engineering is a diverse field that covers a wide range of software types. Here are some of the most common types of software:
+
+System Software: This is software that provides a platform or framework for other software to run on. Examples include operating systems, device drivers, and firmware.
+
+Application Software: This is software that provides specific functionality to end-users, such as word processors, web browsers, and email clients.
+
+Embedded Software: This is software that is embedded in hardware devices, such as medical devices, automotive systems, and home appliances.
+
+Enterprise Software: This is software that is used by organizations to manage business processes, such as customer relationship management (CRM) systems, enterprise resource planning (ERP) systems, and supply chain management (SCM) systems.
+
+Gaming Software: This is software that provides entertainment to end-users through games, such as console games, mobile games, and PC games.
+
+Artificial Intelligence (AI) Software: This is software that uses machine learning algorithms and other AI techniques to automate tasks, make predictions, and improve decision-making.
+
+Web-Based Software: This is software that is accessed through a web browser, such as web applications, e-commerce websites, and social media platforms.
+
+Mobile Software: This is software that is designed for mobile devices, such as smartphones and tablets. Examples include mobile applications, mobile games, and mobile web applications.
+
+Each type of software requires a different approach to software engineering, and software engineers need to have a diverse set of skills and knowledge to develop high-quality software in each category.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
