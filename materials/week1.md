@@ -174,6 +174,27 @@ Software complexity refers to the level of intricacy, interdependence, and heter
 
 Managing software complexity is crucial for creating software that is reliable, maintainable, and scalable. Software engineers must use best practices, such as modular design, abstraction, encapsulation, and standardization, to simplify software systems and reduce their complexity. They must also use tools and techniques, such as testing, debugging, refactoring, and monitoring, to identify and address issues related to software complexity.
 
+## Software Changeability
+Software changeability refers to the ability of software systems to adapt and evolve over time in response to changing requirements, environments, and user needs. Changeability is an essential characteristic of software because requirements for software can change frequently, and software must be able to accommodate these changes without disrupting its overall functionality.
+
+There are several factors that can affect software changeability, including:
+
+- Modularity: Modularity refers to the division of software into smaller, independent components or modules. Modular software is more changeable because changes to one module are less likely to affect other modules.
+
+- Design Patterns: Design patterns are reusable solutions to common software design problems. Using design patterns can make software more flexible and changeable.
+
+- Abstraction: Abstraction refers to the ability to hide complex details and provide simpler interfaces. Abstraction can make software more adaptable to changes because it allows changes to be made at a high level, without affecting lower-level details.
+
+- Documentation: Documentation can help software engineers understand how software systems work and how they can be modified. Good documentation can make software changeable by enabling engineers to make changes quickly and accurately.
+
+- Testing: Testing is crucial for identifying software defects and ensuring that changes to software do not introduce new defects. Good testing practices can make software more changeable by reducing the risk of introducing new defects during changes.
+
+To improve software changeability, software engineers should use best practices such as modular design, design patterns, abstraction, documentation, and testing. They should also adopt agile software development practices, which emphasize flexibility, adaptability, and responsiveness to change.
+
+
+
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
