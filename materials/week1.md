@@ -73,3 +73,10 @@ Management Layer: This layer includes the project management techniques used to 
 
 Each layer in software engineering is essential for the successful development of software systems. Each layer builds upon the previous layer to provide a comprehensive approach to software development that results in high-quality, reliable, and efficient software systems.
 
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
+
