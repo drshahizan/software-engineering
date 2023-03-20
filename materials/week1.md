@@ -139,6 +139,23 @@ There are different ways to categorize software, based on various criteria such 
 
 These are just some examples of the many different types of software available. Each type of software has its unique requirements, design, and development considerations, and software engineers must understand these differences to create high-quality software.
 
+## Software inherent difficulties
+
+Software development is a complex process that involves various challenges and difficulties. Here are some of the inherent difficulties that software development faces:
+
+- Complexity: Software systems can be extremely complex, involving multiple components, layers, and interactions. Managing this complexity and ensuring the software works as intended can be a daunting task.
+
+- Changing Requirements: Requirements for software can change rapidly, and keeping up with these changes can be difficult. This can result in delays and additional costs, as developers must adjust the software accordingly.
+
+- Time and Cost Constraints: Developing high-quality software takes time and resources, but businesses often face tight deadlines and budgets. This can result in shortcuts being taken or compromises being made, which can impact the quality and reliability of the software.
+
+- Software Defects: Even with the best testing and quality assurance processes, software defects can still occur. Identifying and fixing these defects can be time-consuming and costly, especially if they are discovered after the software has been deployed.
+
+- Security Risks: Software can be vulnerable to security risks, such as hacking, viruses, and malware. Developing software that is secure and robust requires specialized knowledge and expertise.
+
+- Scalability: As software systems grow and become more complex, they can become difficult to scale and maintain. Ensuring that software can handle increasing amounts of data and traffic requires careful design and planning.
+
+Software engineers must be aware of these inherent difficulties and be prepared to address them throughout the software development process. This requires a combination of technical expertise, project management skills, and a commitment to delivering high-quality software.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
