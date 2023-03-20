@@ -117,6 +117,29 @@ Software engineering is a diverse field that covers a wide range of software typ
 
 Each type of software requires a different approach to software engineering, and software engineers need to have a diverse set of skills and knowledge to develop high-quality software in each category.
 
+## Different Types of Software
+
+There are different ways to categorize software, based on various criteria such as functionality, usage, platform, and development method. Here are some common types of software categorized based on their functionality:
+
+- System Software: This is software that provides a platform or framework for other software to run on. Examples include operating systems, device drivers, and firmware.
+
+- Application Software: This is software that provides specific functionality to end-users, such as word processors, web browsers, and email clients.
+
+- Database Software: This is software that is used to manage data, such as relational database management systems (RDBMS), NoSQL databases, and data warehouses.
+
+- Business Software: This is software that is used by organizations to manage business processes, such as customer relationship management (CRM) systems, enterprise resource planning (ERP) systems, and supply chain management (SCM) systems.
+
+- Multimedia Software: This is software that is used to create, edit, and play multimedia content, such as audio and video editing software, media players, and graphic design software.
+
+- Educational Software: This is software that is designed to support teaching and learning, such as educational games, simulations, and e-learning platforms.
+
+- Entertainment Software: This is software that provides entertainment to end-users through games, such as console games, mobile games, and PC games.
+
+- Utility Software: This is software that performs tasks that are not directly related to the computer's operation, such as file compression software, antivirus software, and backup software.
+
+These are just some examples of the many different types of software available. Each type of software has its unique requirements, design, and development considerations, and software engineers must understand these differences to create high-quality software.
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
