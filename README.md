@@ -22,7 +22,7 @@ This course is designed to give students an introduction to an engineering appro
 
 | Weekly | Module | Description | 
 | :-----: | ------ | ------ |
-| [1](./materials/week1.md) | 1: [Introduction to Software Engineering](./materials/week1.md) | Software definition, software engineering as a layered technology, types of software, inherent difficulties in software engineering, SE quality focus, Documentation Standard.|
+| [1](./materials/week1.md) | [1: Introduction to Software Engineering](./materials/week1.md) | Software definition, software engineering as a layered technology, types of software, inherent difficulties in software engineering, SE quality focus, Documentation Standard.|
 | 2 | 2: Software Process Model | Plan Driven or Agile Process Model, general software process model waterfall, incremental, reuse oriented, software process model which cope with change spiral model and Rational Unified Process |
 | 3 | 3: Agile Software Development | Agile methods, Agile development techniques, Agile project management, scaling Agile methods |
 | 4 | 4: Requirements Engineering | Types of requirements, functional and non-functional requirements, requirements specification, requirements engineering processes |
