@@ -224,7 +224,20 @@ Software quality is an important aspect of software development, and it can be a
 
 In summary, software quality can be approached from different perspectives, and each focus is important for ensuring that the software meets the needs of the users and performs well in different contexts.
 
+## Quality Focus: Example of Software Quality
+An example of software quality in practice could be a web application that allows users to purchase products online.
 
+- Functionality: The web application must meet the functional requirements of the users, such as allowing them to browse products, add items to their cart, and complete the checkout process successfully. To ensure functionality, thorough testing should be conducted to identify and fix any bugs or errors.
+
+- Reliability: The web application must be reliable and perform consistently under different conditions, such as heavy traffic or varying network speeds. This can be achieved by conducting performance and load testing to ensure the application can handle high volumes of traffic and identifying and fixing any issues related to crashes or data loss.
+
+- Usability: The web application must be easy to use and navigate, with a user-friendly interface and clear instructions. User testing can be conducted to identify any usability issues and improve the user experience.
+
+- Performance: The web application must perform well, with fast page load times and quick response to user actions. Performance testing can be conducted to identify and fix any issues related to speed, responsiveness, or resource usage.
+
+- Security: The web application must be secure, with appropriate measures in place to protect user data and prevent unauthorized access. Security testing can be conducted to identify and fix any vulnerabilities or weaknesses in the security measures, such as implementing encryption, authentication, and access controls.
+
+By ensuring that the web application meets these quality focuses, users can have a positive experience with the application, and the business can have confidence that the application will perform well and meet user needs.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
