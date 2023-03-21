@@ -5,3 +5,4 @@
 ##### HOROSCOPE =  AQUARIUS
 ##### NICKNAME =  WANO
 
+##### ABOUT ME = A first year student in Computer Science Data Engineering from Universiti Teknologi Malaysia 
