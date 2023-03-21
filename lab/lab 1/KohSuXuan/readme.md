@@ -1,5 +1,6 @@
 
-# About Me
+# About Me <img src="https://user-images.githubusercontent.com/128119778/226613292-8c6f693d-a42a-4226-b515-6aea42358b4f.gif" width="35" >
+
 Name : Koh Su Xuan
 
 Matrix No. : A22EC0060
