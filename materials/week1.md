@@ -258,6 +258,25 @@ In general, the priority of software quality depends on the following factors:
 
 By considering these factors, software development teams can prioritize software quality aspects and focus their efforts on ensuring that the software meets the highest priority aspects first, while also ensuring that other aspects of software quality are not neglected.
 
+## Software Standard and Document
+Software standards and documentation are important aspects of software engineering that help to ensure software quality, maintainability, and reliability.
+
+Software Standards refer to the set of guidelines, procedures, and best practices that govern software development activities. These standards can be industry-specific, such as ISO/IEC 12207 for software life cycle processes, or general, such as the IEEE Standards Association's Software Engineering Standards. These standards help ensure that software development processes are consistent, reliable, and produce high-quality software products.
+
+Software Documentation is a crucial part of software development that involves creating and maintaining various documents throughout the software development process. These documents include requirements documents, design documents, test plans, user manuals, and other technical documentation. They provide a clear understanding of the software, its features, its architecture, and its functionalities. Documentation also facilitates communication and collaboration among stakeholders, such as developers, testers, users, and project managers.
+
+Some benefits of software standards and documentation include:
+
+- Improved software quality: By following established standards and documenting the software development process, developers can ensure that the software is reliable, maintainable, and high quality.
+
+- Enhanced collaboration and communication: Standardized documentation and procedures facilitate communication and collaboration among stakeholders, improving overall efficiency and reducing errors.
+
+- Easier maintenance and troubleshooting: Clear and detailed documentation makes it easier to troubleshoot problems and maintain the software over its lifetime.
+
+- Compliance with regulations: Following industry-specific software standards helps ensure compliance with regulatory requirements.
+
+In summary, software standards and documentation play an important role in software development, helping to ensure software quality, maintainability, and compliance with industry regulations.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
