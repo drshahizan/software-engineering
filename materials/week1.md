@@ -191,6 +191,24 @@ There are several factors that can affect software changeability, including:
 
 To improve software changeability, software engineers should use best practices such as modular design, design patterns, abstraction, documentation, and testing. They should also adopt agile software development practices, which emphasize flexibility, adaptability, and responsiveness to change.
 
+## Computer Science vs. Software Engineering
+Computer Science and Software Engineering are two closely related fields, but they have different focuses and objectives.
+
+Computer Science is concerned with the theoretical foundations of computing, including topics such as algorithms, data structures, programming languages, and computer architecture. It involves the study of the principles and theories that underpin computation, as well as the development of new algorithms, tools, and technologies.
+
+Software Engineering, on the other hand, is concerned with the practical aspects of software development, including designing, building, testing, and maintaining software systems. It involves the application of engineering principles to the software development process, including project management, requirements engineering, software design, and testing.
+
+In other words, computer science focuses on the theoretical underpinnings of computation, while software engineering focuses on the practical application of those principles to the development of software systems. Both fields are important for the development of software and computing technologies, and they often overlap in practice.
+
+## Software Engineering vs. Software Programming
+Software Engineering and Software Programming are both important aspects of software development, but they differ in their focus and scope.
+
+Software Engineering is concerned with the entire software development process, from requirements gathering and analysis, to design, implementation, testing, deployment, and maintenance. It involves applying engineering principles to the development of software systems to ensure that they are reliable, efficient, and maintainable. Software engineers use a variety of tools and techniques to manage the complexity of software development, including software design patterns, project management methodologies, and software development life cycles.
+
+Software Programming, on the other hand, is a specific part of the software development process that involves writing code to implement software functionality. It involves selecting an appropriate programming language, writing code that meets the software requirements, testing the code, and debugging any issues that arise. Software programming is a critical component of software engineering, but it is only one part of the overall software development process.
+
+In summary, Software Engineering is a broader discipline that encompasses all aspects of software development, while Software Programming focuses specifically on the implementation of software functionality through code.
+
 
 
 
