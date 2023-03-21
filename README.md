@@ -91,7 +91,7 @@ This course is designed to give students an introduction to an engineering appro
 
 ### Five great tools for creating diagrams and flowcharts
 
-1. Mermaid.js: As mentioned earlier, Mermaid.js is a popular JavaScript library for creating diagrams and flowcharts using Markdown syntax. It's open source, easy to use, and supports a wide range of diagram types.
+1. Mermaid.js: Mermaid.js is a popular JavaScript library for creating diagrams and flowcharts using Markdown syntax. It's open source, easy to use, and supports a wide range of diagram types.
 
 2. PlantUML: PlantUML is a tool for creating UML diagrams using a simple textual syntax. It supports a variety of diagram types, including class diagrams, use case diagrams, sequence diagrams, and more.
 
