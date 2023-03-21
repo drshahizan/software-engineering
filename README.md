@@ -87,6 +87,37 @@ This course is designed to give students an introduction to an engineering appro
   - [829-2008 - IEEE Standard for Software and System Test Documentation](https://ieeexplore.ieee.org/document/4578383)
 - [IEEE Standards](https://standards.ieee.org/search/?q=software%20standard)
 
+## Markdown Tools
+
+### Five great tools for creating diagrams and flowcharts
+
+1. Mermaid.js: As mentioned earlier, Mermaid.js is a popular JavaScript library for creating diagrams and flowcharts using Markdown syntax. It's open source, easy to use, and supports a wide range of diagram types.
+
+2. PlantUML: PlantUML is a tool for creating UML diagrams using a simple textual syntax. It supports a variety of diagram types, including class diagrams, use case diagrams, sequence diagrams, and more.
+
+3. Graphviz: Graphviz is a powerful tool for creating graphs and diagrams using a simple textual syntax. It supports a wide range of graph types, including directed and undirected graphs, flowcharts, and more.
+
+4. Diagrams.net: Diagrams.net (formerly known as Draw.io) is a web-based diagramming tool that supports a variety of diagram types, including flowcharts, network diagrams, and more. It has a simple interface and supports Markdown syntax for creating diagrams.
+
+5. yEd Graph Editor: yEd Graph Editor is a desktop application for creating diagrams and flowcharts. It supports a wide range of diagram types and has a simple interface that makes it easy to create and edit diagrams. It also supports Markdown syntax for creating diagrams.
+
+### Five tools that can help you create system architecture diagrams
+
+1. Structurizr: Structurizr is a powerful tool for creating system architecture diagrams using code. It supports a range of diagram types, including context diagrams, container diagrams, and component diagrams. You can create and maintain diagrams using a simple DSL written in Markdown.
+
+2. C4-PlantUML: C4-PlantUML is an extension to PlantUML that provides support for creating system architecture diagrams. It uses a simple textual syntax to describe the system architecture, and supports a range of diagram types including context diagrams, container diagrams, and component diagrams.
+
+3. Nomnoml: Nomnoml is a tool for creating UML diagrams using a simple textual syntax. It's lightweight and easy to use, and supports a range of diagram types, including class diagrams, sequence diagrams, and more. You can use Nomnoml to create system architecture diagrams using Markdown syntax.
+
+4. Mermaid.js: Mermaid.js, which was mentioned earlier as a tool for creating diagrams and flowcharts using Markdown syntax, also supports system architecture diagrams. It supports a range of diagram types, including sequence diagrams, flowcharts, and more.
+
+5. Vega-Lite: Vega-Lite is a declarative visualization tool that can be used to create a range of visualizations, including system architecture diagrams. It supports a simple JSON-based syntax, which can be generated using a Markdown document, and can be used to create interactive and static diagrams.
+
+
+
+
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
