@@ -239,6 +239,25 @@ An example of software quality in practice could be a web application that allow
 
 By ensuring that the web application meets these quality focuses, users can have a positive experience with the application, and the business can have confidence that the application will perform well and meet user needs.
 
+## Software Quality Priority
+The priority of software quality depends on the context, requirements, and needs of the users and stakeholders. Generally, all aspects of software quality are important, and a balance needs to be struck among them based on the project's needs. However, some quality aspects may have higher priority than others, depending on the project's goals and objectives.
+
+For example, if the software's primary goal is to provide high levels of security, then security may be the top priority, and all other aspects of software quality may be secondary. Similarly, if the software is time-critical, performance may have a higher priority, and usability may be secondary.
+
+In general, the priority of software quality depends on the following factors:
+
+- The software's purpose and intended use.
+
+- The users' needs and expectations.
+
+- The organization's goals and objectives.
+
+- The constraints and limitations of the project, such as time, budget, and resources.
+
+- The risks associated with the software, such as security vulnerabilities, performance issues, or usability problems.
+
+By considering these factors, software development teams can prioritize software quality aspects and focus their efforts on ensuring that the software meets the highest priority aspects first, while also ensuring that other aspects of software quality are not neglected.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
