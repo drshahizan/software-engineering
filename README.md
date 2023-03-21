@@ -40,8 +40,8 @@ This course is designed to give students an introduction to an engineering appro
 
 ## Student Information
 
-| No | Name | ID |  Github | Project |
-| ----- | ----- | ------ | :------: | :------: |
+| No | Name | ID |  Github 
+| ----- | ----- | ------ | :------: |
 | 1 | ALIATUL IZZAH BINTI JASMAN | oishylea | [:octocat:](https://github.com/oishylea) |
 | 2 | CHE MARHUMI BIN CHE AB RAHIM | CheMrhumi | [:octocat:](https://github.com/CheMrhumi) |
 | 3 | DANIAL HARRIZ BIN MOHD ASINEH @MOHD ASNEH | danialharriz | [:octocat:](https://github.com/danialharriz) |
