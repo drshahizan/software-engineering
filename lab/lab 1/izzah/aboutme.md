@@ -1,4 +1,5 @@
-I'm a 1st year student in degree on data engineering from Shah Alam, Selangor. I'm passionate about data analysis and software development. 🤖💻📊
+I'm a 1st year student in degree on data engineering from Shah Alam, Selangor.
+Age : 20 years old
 
 ## Current Projects
 
