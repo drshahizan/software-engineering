@@ -18,9 +18,9 @@ This course is designed to give students an introduction to an engineering appro
 3. Construct software requirements model, software architecture, object-oriented design model and test cases with state-of-the-art methods and tools for a real-world software engineering problem.
 4. Ability to establish good rapport, interact with others, work effectively in a team and comprehend the interchangeable role of leaders and followers with team members.
 
-## [Lecture Notes](https://drive.google.com/drive/folders/1M_HkzALta9GPX4CATPML_l_WbM9euEEt?usp=sharing)
-
-### [Task 1](https://./materials/Task1.md)
+## 🔥 Important things
+1. [Lecture Notes](https://drive.google.com/drive/folders/1M_HkzALta9GPX4CATPML_l_WbM9euEEt?usp=sharing)
+2. [Task 1](https://./materials/Task1.md)
 
 ## Weekly Schedule
 
