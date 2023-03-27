@@ -1,28 +1,24 @@
-# Module  7 : Object-Oriented Detailed Design
+# Module 7: Object-Oriented Detailed Design 🤖
 
-Link for lecture notes [module 7](https://docs.google.com/presentation/d/17xkv_kk2-amLLzpfOump2mSayx359pMx/edit#slide=id.p1)
+Link to lecture notes: [here](https://docs.google.com/presentation/d/17xkv_kk2-amLLzpfOump2mSayx359pMx/edit#slide=id.p1)
 
-### 💻 Understanding The Relationship Among Analysis, Design And Implementation.
+## Understanding the Relationship Between Analysis, Design, and Implementation 💡
 
+- Software design is a creative activity. 🎨
+- The stages of "software design and implementation" are:
+    - The process of developing an executable software system. 🏗️
+- Implementation is:
+    - The process of executing the program design. ⚙️
 
-🤍 Design And Implementation 🤍
-<ul>Software designing is a creative activity. </ul>
+## Object-Oriented Design Process 📏
 
-<ul>What is stage of "Software design and implementation" ?
-<ul>-> The process at which an executable software system is developed.
-</ul></ul>
+- Involves developing several system models. 📐
+- Requires a significant effort in terms of development and maintenance. 🧰
+- Design models are important communication mechanisms. 🗣️
 
-<ul>What is implementation ?
-<ul>-> The process of perceiving the design of the program.
-</ul></ul>
+## Understanding Object-Oriented Design Principles 🚩
 
-🤍 Object - Oriented Design Process 🤍
-<ul>Involve developing a number of various system models.</ul>
-<ul>Require a lot of effort in terms of development and maintenance.</ul>
-<ul>Designing models are an important communication mechanism</ul>
-
-### 💻 Understanding The Object - Oriented Design Principles
-
-🤍 Well - Formed Design Class 🤍
-<ul>Complete and sufficient
- <ul>Primitive
+- Well-formed class:
+    - Complete: Has all necessary components (data and methods) ✅
+    - Sufficient: Has only necessary components (no excess) ✅
+    - Cohesive: Related components that work together ✨
