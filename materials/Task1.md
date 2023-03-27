@@ -18,6 +18,7 @@ Task 1 requires you to create supplementary notes for one module, based on the p
 4. Ensure that the additional notes are completed before the topic is taught.
 5. When submitting the notes, include the information of the student who produced the module using the comment code provided.
 
+```html
 <!---
 Module X: XX
 
@@ -27,7 +28,7 @@ Group XXX
 3. Name, matrix no
 4. Name, matrix no
 -->
-
+```
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
