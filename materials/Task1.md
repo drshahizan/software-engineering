@@ -9,14 +9,14 @@ Don't forget to hit the :star: if you like this repo.
 
 # Task 1: Additional Notes
 
-Anda perlu menyediakan nota tambahan satu modul. Nota ini mestilah berasaskan lecture notes. Sila dapat nota tambahan yang bersesuaian. Anda boleh menggunakan ChatGPT, laman web, artikel, buku dan lain-lain untuk menyediakan nota tambahan ini.
+Task 1 requires you to create supplementary notes for one module, based on the provided lecture notes. You are allowed to use various resources such as ChatGPT, websites, articles, and books to generate these notes. Please follow these instructions:
 
 ## Instruction
-1. Tugasan ini perlu dilaksakan di dalam kumpulan (empat orang satu kumpulan).
-2. Sila simpan fail di dalam folder materials dan namakan fail sebagai modX.md. Nilai X merujuk kepada nombor modul.
-3. Anda hanya boleh menggunakan fail markdown sahaja. Anda boleh menggunakan https://stackedit.io/, Visual Studio Code dan sebagainya untuk menghasilkan nota tambahan.
-4. Nota tambahan perlu disiapkan sebelum topik tersebut diajar.
-5. Sila masukkan maklumat pelajar yang menghasilkan modul tersebut. Menggunakan kod komen seperti berikut:
+1. This task should be completed in a group of four people.
+2. Save the file in the materials folder and name it modX.md, where X refers to the module number.
+3. Use only markdown files and you can utilize tools like https://stackedit.io/ or Visual Studio Code to create the notes.
+4. Ensure that the additional notes are completed before the topic is taught.
+5. When submitting the notes, include the information of the student who produced the module using the comment code provided.
 
 <!---
 Module X: XX
