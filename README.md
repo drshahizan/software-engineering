@@ -20,6 +20,8 @@ This course is designed to give students an introduction to an engineering appro
 
 ## [Lecture Notes](https://drive.google.com/drive/folders/1M_HkzALta9GPX4CATPML_l_WbM9euEEt?usp=sharing)
 
+### [Task 1](https://./materials/Task1.md)
+
 ## Weekly Schedule
 
 | Weekly | Module | Description | 
