@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Week 1: Introduction to Software Engineering
+# Module 1: Introduction to Software Engineering
 
 ## The Importance of Software Engineering
 
