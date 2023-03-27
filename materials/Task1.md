@@ -17,6 +17,7 @@ Anda perlu menyediakan nota tambahan satu modul. Nota ini mestilah berasaskan le
 3. Anda hanya boleh menggunakan fail markdown sahaja. Anda boleh menggunakan https://stackedit.io/, Visual Studio Code dan sebagainya untuk menghasilkan nota tambahan.
 4. Nota tambahan perlu disiapkan sebelum topik tersebut diajar.
 5. Sila masukkan maklumat pelajar yang menghasilkan modul tersebut. Menggunakan kod komen seperti berikut:
+
 <!---
 Module X: XX
 
@@ -26,8 +27,6 @@ Group XXX
 3. Name, matrix no
 4. Name, matrix no
 -->
-
-    cuba ini kod
 
 
 ## Contribution 🛠️
