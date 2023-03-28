@@ -19,7 +19,7 @@ This course is designed to give students an introduction to an engineering appro
 4. Ability to establish good rapport, interact with others, work effectively in a team and comprehend the interchangeable role of leaders and followers with team members.
 
 ## 🔥 Important things
-1. [Lecture Notes](https://drive.google.com/drive/folders/1M_HkzALta9GPX4CATPML_l_WbM9euEEt?usp=sharing)
+1. [Lecture Notes](https://drive.google.com/drive/folders/1fFqVSa7WdQ2Uet0UdvbQcALUVcqme6gw?usp=sharing)
 2. [Task 1](./materials/Task1.md)
 3. [Software Engineering Project](./proposal/se-project.md)
 4. [Guideline for Software Engineering Proposal](./proposal/guideline.md)
