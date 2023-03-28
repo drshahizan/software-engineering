@@ -21,7 +21,7 @@ This course is designed to give students an introduction to an engineering appro
 ## 🔥 Important things
 1. [Lecture Notes](https://drive.google.com/drive/folders/1M_HkzALta9GPX4CATPML_l_WbM9euEEt?usp=sharing)
 2. [Task 1](./materials/Task1.md)
-3. [Guideline for Software Engineering Proposal]()
+3. [Guideline for Software Engineering Proposal](./proposal/guideline.md)
 
 ## Weekly Schedule
 
