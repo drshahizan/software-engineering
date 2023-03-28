@@ -22,7 +22,7 @@
 
    ------
 
-   #### What is software process❓
+   ### What is software process❓
 
    Software processes are the activities for designing, implementing, and testing a software system.
 
@@ -32,7 +32,7 @@
 
    <p align="center"><img src="https://kitelytech.com/wp-content/uploads/2017/06/SDLC.png" width="500">  </p>
 
-   #### Plan-driven process 🆚 Agile process
+   ### Plan-driven process 🆚 Agile process
 
    |     Plan-driven process      |            Agile process            |
    | :--------------------------: | :---------------------------------: |
@@ -44,30 +44,31 @@
 
 ------
 
-#### What is a software process model❓
+### What is a software process model❓
 
-A software process model describes the sequence in which the phases of the software lifecycle will be performed.
+A software process model describes the **sequence** in which the phases of the software lifecycle will be performed.
 
-#### Waterfall Model 
+### Waterfall Model 
 Each phase is carried out completely before proceeding to the next phase. <img src="https://i.pinimg.com/originals/d8/23/11/d8231172c129ef4e296f212d9aa1efa4.gif" alt="Pin on Aniamtion Gif" width="15" />
 
 <p align="center"><img src="https://kruschecompany.com/wp-content/uploads/2021/09/Waterfall-methodology-infographic-showing-software-development-models-linear-life-cycle-phases.jpg" width="700"/></p>
 
-#### Incremental Model
+### Incremental Model
 
  Each increment passes through the requirements, design, coding and testing phases.
  
  <p align="center"><img src="https://www.visual-paradigm.com/servlet/editor-content/guide/software-development-process/what-is-a-software-process-model/sites/7/2019/12/incremental-model.png" width="650"/></p>
 
-#### Spiral Model   
+### Spiral Model   
 
 During each iteration, the system is explored at greater depth and more details are added.<img src="https://thumbs.gfycat.com/BoringShadyBluemorphobutterfly-max-1mb.gif" width="20" />
 
 <p align="center"><img src="https://biplus.com.vn/wp-content/uploads/2022/11/spiral-mode.png" width="650"/></p>
 
 
-#### The Rational Unified Process
+### The Rational Unified Process
 
-![The Rational Unified Proces Methodology (RUP) explained - Toolshero](https://www.toolshero.com/wp-content/uploads/2022/03/rational-unified-process-rup-example-toolshero.jpg)
+<p align="center"><img src="https://www.toolshero.com/wp-content/uploads/2022/03/rational-unified-process-rup-example-toolshero.jpg" width="650"/></p>
+
 
 
