@@ -24,10 +24,10 @@ Don't forget to hit the :star: if you like this repo.
 | 11 |  LIM JING YONG | | [:octocat:](https://github.com/) |
 | 12 |  LOO JIA CHANG | | [:octocat:](https://github.com/) |
 | 13 |  LOW JIE SHENG | jiesheng4616 | [:octocat:](https://github.com/jiesheng4616) |
-| 14|  LOW YING XI | lowyingxi | [:octocat:](https://github.com/lowyingxi) |
+| 14 |  LOW YING XI | lowyingxi | [:octocat:](https://github.com/lowyingxi) |
 | 15 |  MARCUS JOEY SAYNER | | [:octocat:](https://github.com/) |
 | 16 |  MUHAMMAD DANIAL BIN AHMAD SYAHIR | | [:octocat:](https://github.com/) |
-| 17 |  NEO ZHENG WENG | | [:octocat:](https://github.com/) |
+| 17 |  NEO ZHENG WENG | zw-weng | [:octocat:](https://github.com/zw-weng) |
 | 18 |  NG SHU YU | | [:octocat:](https://github.com/) |
 | 19 |  NICOLE LIM TZE YEE | | [:octocat:](https://github.com/) |
 | 20 |  NURFARRAHIN BINTI CHE ALIAS | | [:octocat:](https://github.com/) |
