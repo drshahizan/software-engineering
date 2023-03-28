@@ -119,11 +119,6 @@ This course is designed to give students an introduction to an engineering appro
 
 5. [Vega-Lite](https://vega.github.io/vega-lite/): Vega-Lite is a declarative visualization tool that can be used to create a range of visualizations, including system architecture diagrams. It supports a simple JSON-based syntax, which can be generated using a Markdown document, and can be used to create interactive and static diagrams.
 
-
-
-
-
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
