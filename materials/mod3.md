@@ -17,6 +17,9 @@ Group: Coders
 - [Balance of Plan-Driven or Agile Development](#Balance-of-Plan-Driven-or-Agile-Development)
 - [Comparison between Plan-Driven and Agile Development](#Comparison-between-Plan-Driven-and-Agile-Development)
 - [Agile Methods](Agile-Methods)
+- [Agile Manifesto](Agile-Manifesto)
+- [The Principles of Agile Methods](The-Principles-of-Agile-Methods)
+- [Agile Methods Applicability](Agile-Methods-Applicability)
 
 ## Rapid Software Development
 Rapid software development (RSD) is an approach to software development that emphasizes speed and efficiency in the delivery of working software. It is characterized by short development cycles, frequent releases, and a focus on delivering value to customers quickly.
@@ -163,6 +166,107 @@ Overall, Agile methods provide a flexible and adaptable approach to project mana
 teams to respond quickly to changing requirements and customer needs while delivering high-quality 
 products on time and within budget.
 
+## Agile Manifesto
 
+The Agile Manifesto is a set of guiding values and principles for Agile software development. It 
+was created by a group of software developers in 2001 as a response to the limitations of 
+traditional, plan-driven development methods.
+The manifesto consists of four values and twelve principles that prioritize customer 
+collaboration, working software, and flexibility over rigid plans and processes. The four values 
+of the Agile Manifesto are:
+1. Individuals and interactions over processes and tools
+2. Working software over comprehensive documentation
+3. Customer collaboration over contract negotiation
+4. Responding to change over following a plan
 
+These values emphasize the importance of collaboration, communication, and adaptability in 
+software development. They prioritize delivering value to the customer quickly and efficiently, 
+and encourage a focus on working software over extensive documentation or planning.
+
+The twelve principles of the Agile Manifesto expand upon these values, outlining specific 
+guidelines for Agile development. These principles include: welcoming changing requirements, 
+delivering working software frequently, building projects around motivated individuals, face-to-face communication, sustainable development, continuous attention to technical excellence and good design, simplicity, self-organizing teams, regular reflections and adaptations, and 
+responding to change quickly.
+
+Overall, the Agile Manifesto represents a shift away from traditional, plan-driven development 
+methods and towards a more collaborative and adaptable approach to software development. 
+It has had a significant impact on the software development industry, influencing the 
+development of Agile methodologies such as Scrum, Kanban, and Extreme Programming. 
+
+## The Principles of Agile Methods
+The Principles of Agile Methods are a set of guidelines that support the Agile Manifesto and 
+describe how to implement Agile software development in practice. These principles were 
+developed by the creators of the Agile Manifesto and are intended to help teams work more 
+collaboratively and deliver value to customers quickly and efficiently. The principles are:
+1. Customer satisfaction through early and continuous software delivery: Agile 
+development prioritizes delivering working software frequently to get feedback from 
+the customer and ensure that their needs are being met.
+2. Accommodate changing requirements throughout the development process: Agile 
+development embraces change and recognizes that requirements may change over 
+time. It encourages teams to be flexible and adaptable to changing circumstances.
+3. Deliver working software frequently, with a preference to the shorter timescale: Agile 
+development emphasizes delivering small, working increments of software frequently, 
+rather than waiting until the end of the development cycle to deliver a large, complex 
+product.
+4. Collaboration between business stakeholders and developers throughout the project: 
+Agile development encourages collaboration between all stakeholders involved in the 
+project, including business stakeholders, developers, and testers, to ensure that 
+everyone is working towards a common goal.
+5. Supportive and trustful team environment: Agile development emphasizes building a 
+supportive and trustful team environment, where team members are empowered to
+make decisions and work together to achieve common goals.
+6. Enable face-to-face interactions: Agile development encourages face-to-face 
+interactions between team members, including business stakeholders, developers, and 
+testers, to facilitate communication and collaboration.
+7. Working software is the primary measure of progress: Agile development prioritizes 
+delivering working software as the primary measure of progress, rather than relying on 
+metrics such as lines of code or hours worked.
+8. Sustainable development: Agile development prioritizes sustainable development 
+practices, including a focus on technical excellence, continuous improvement, and 
+regular feedback.
+9. Continuous attention to technical excellence and good design: Agile development 
+emphasizes the importance of technical excellence and good design, including practices 
+such as automated testing, refactoring, and continuous integration.
+10. Simplicity: Agile development encourages teams to keep things simple and avoid 
+unnecessary complexity, both in the software they develop and in their development 
+processes.
+11. Self-organizing teams: Agile development encourages self-organizing teams, where 
+team members are empowered to make decisions and work collaboratively towards 
+common goals.
+12. Regular reflections and adaptations to improve efficiency: Agile development 
+emphasizes regular reflection and adaptation to improve efficiency, including practices 
+such as retrospectives and continuous improvement cycles.
+
+Overall, the Principles of Agile Methods provide a framework for implementing Agile 
+development in practice, and emphasize the importance of collaboration, flexibility, and 
+continuous improvement in software development.
+
+## Agile Methods Applicability
+
+Agile methods are applicable in a wide variety of software development contexts, including:
+1. Rapidly changing environments: Agile methods are well-suited to environments where 
+requirements are likely to change frequently, as they are designed to be flexible and 
+adaptable.
+2. Complex projects: Agile methods can be effective in complex projects where traditional 
+plan-driven approaches may struggle to cope with uncertainty and changing 
+requirements.
+3. Small teams: Agile methods are particularly effective for small teams that require a high 
+degree of collaboration and communication to deliver value to the customer.
+4. Innovative projects: Agile methods are well-suited to innovative projects where 
+experimentation and exploration are required to develop new ideas and solutions.
+5. Customer-focused development: Agile methods prioritize delivering value to the 
+customer and seek to involve the customer in the development process as much as 
+possible.
+6. Continuous improvement: Agile methods emphasize continuous improvement and 
+encourage teams to reflect on their processes and make changes to improve efficiency 
+and quality.
+7. Software maintenance: Agile methods can be effective in software maintenance 
+contexts, where small changes or enhancements need to be made frequently to existing 
+software.
+
+Overall, Agile methods are most applicable in contexts where flexibility, collaboration, and 
+customer focus are key priorities, and where traditional plan-driven approaches may struggle to 
+cope with uncertainty and change. However, it is important to note that not all software 
+development contexts are well-suited to Agile methods, and it is important to carefully consider 
+the requirements of each project when selecting a development approach.
 
