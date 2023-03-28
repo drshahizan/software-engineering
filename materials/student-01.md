@@ -23,7 +23,7 @@ Don't forget to hit the :star: if you like this repo.
 | 10 |  LEE SOON DER | LeeSoonDer | [:octocat:](https://github.com/LeeSoonDer) |
 | 11 |  LIM JING YONG | | [:octocat:](https://github.com/) |
 | 12 |  LOO JIA CHANG | | [:octocat:](https://github.com/) |
-| 13 |  LOW JIE SHENG | | [:octocat:](https://github.com/) |
+| 13 |  LOW JIE SHENG | jiesheng4616 | [:octocat:](https://github.com/jiesheng4616) |
 | 14|  LOW YING XI | lowyingxi | [:octocat:](https://github.com/lowyingxi) |
 | 15 |  MARCUS JOEY SAYNER | | [:octocat:](https://github.com/) |
 | 16 |  MUHAMMAD DANIAL BIN AHMAD SYAHIR | | [:octocat:](https://github.com/) |
