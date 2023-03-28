@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Student Information: Section 02
+## Student Information: Section 01
 
 | No | Name | ID |  Github 
 | ----- | ----- | ------ | :------: |
