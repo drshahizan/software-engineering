@@ -31,7 +31,7 @@ Don't forget to hit the :star: if you like this repo.
 | 18 |  NG SHU YU | | [:octocat:](https://github.com/) |
 | 19 |  NICOLE LIM TZE YEE | | [:octocat:](https://github.com/) |
 | 20 |  NURFARRAHIN BINTI CHE ALIAS | | [:octocat:](https://github.com/) |
-| 21 |  SOH HAN WEI | | [:octocat:](https://github.com/) |
+| 21 |  SOH HAN WEI | wei2030 | [:octocat:](https://github.com/wei2030) |
 | 22 |  TAN JUN YUAN | | [:octocat:](https://github.com/) |
 | 23 |  TIEW CHUAN RONG | | [:octocat:](https://github.com/) |
 | 24 |  TIEW CHUAN SHEN | | [:octocat:](https://github.com/) |
