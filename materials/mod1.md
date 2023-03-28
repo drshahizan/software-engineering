@@ -30,6 +30,19 @@ Don't forget to hit the :star: if you like this repo.
 - [Software Standard and Document]()
 - [Software Documentation]()
 ### Others
+- [Software Engineering | Introduction to Software Engineering](https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/)
+- [Software Engineering Tutorial](https://www.javatpoint.com/software-engineering)
+- [The Importance of Software Engineering](https://ncube.com/blog/why-is-software-engineering-important)
+- [Software Cost Estimation](https://www.javatpoint.com/software-cost-estimation)
+- [Tools EVERY Software Engineer Should Know](https://youtu.be/D4JkWoUovdo)
+- [The Anatomy of A Skilled Software Engineer](https://manilarecruitment.com/manila-recruitment-articles-advice/anatomy-skilled-software-engineer-infographic/)
+- [Software developer road map 2023](https://youtu.be/41zmHpaFR9g)
+- Document standards by IEEE
+  - [830-1998 - IEEE Recommended Practice for Software Requirements Specifications](https://ieeexplore.ieee.org/document/720574)
+  - [1016-2009 - IEEE Standard for Information Technology--Systems Design--Software Design Descriptions](https://standards.ieee.org/ieee/1016/4502/)
+  - [829 - IEEE Standard for Test Documentation Overview-Test Plan Outline](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=573169)
+  - [829-2008 - IEEE Standard for Software and System Test Documentation](https://ieeexplore.ieee.org/document/4578383)
+- [IEEE Standards](https://standards.ieee.org/search/?q=software%20standard)
 
 ## The Importance of Software Engineering
 
