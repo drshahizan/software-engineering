@@ -16,6 +16,7 @@ Group: Coders
 - [Plan-Driven and Agile Development](#Plan-Driven-and-Agile-Development)
 - [Balance of Plan-Driven or Agile Development](#Balance-of-Plan-Driven-or-Agile-Development)
 - [Comparison between Plan-Driven and Agile Development](#Comparison-between-Plan-Driven-and-Agile-Development)
+- [Agile Methods](Agile-Methods)
 
 ## Rapid Software Development
 Rapid software development (RSD) is an approach to software development that emphasizes speed and efficiency in the delivery of working software. It is characterized by short development cycles, frequent releases, and a focus on delivering value to customers quickly.
@@ -123,4 +124,45 @@ timeline
 • Focus on delivering value to the customer quickly and frequently
 
 • Works best when the project requirements are unclear or subject to change
+
+• Focus on adaptive approach
+
+• Requires less documentation and up-front planning
+
+• Changes are expected and can be accommodated easily
+
+• Emphasizes collaboration and communication among team members and customers
+
+• Generally follows an iterative and incremental approach, such as Scrum or Kanban
+
+• Quality is measured by the working software and customer satisfaction
+
+Overall, Plan-Driven development emphasizes planning and control, while Agile development 
+emphasizes flexibility and adaptability. Plan-Driven development is best suited for projects with 
+a clear and well-defined scope, while Agile development is best suited for projects with 
+changing requirements or a high degree of innovation.
+
+## Agile Methods
+
+Agile methods are a set of practices and values used in Agile methodology, which is an iterative and 
+collaborative approach to project management. Agile methods are designed to help teams deliver high quality products quickly and efficiently, while continuously adapting to changing requirements and 
+feedback from customers.
+
+Some common Agile methods include Scrum, Kanban, and Lean. Scrum is a framework for managing and 
+completing complex projects, with a focus on delivering a potentially shippable product increment at 
+the end of each sprint. Kanban is a visual workflow management system that emphasizes continuous 
+delivery and improvement. Lean is a set of principles and practices that emphasizes delivering value to 
+customers while minimizing waste.
+
+Agile methods typically involve breaking a project down into small, manageable pieces and organizing 
+work into short iterations or sprints. Teams work closely with customers and stakeholders to understand 
+their needs and provide frequent opportunities for feedback. Agile methods also emphasize teamwork, 
+communication, and collaboration, with a focus on empowering individuals and allowing them to self organize to get work done.
+
+Overall, Agile methods provide a flexible and adaptable approach to project management, allowing 
+teams to respond quickly to changing requirements and customer needs while delivering high-quality 
+products on time and within budget.
+
+
+
 
