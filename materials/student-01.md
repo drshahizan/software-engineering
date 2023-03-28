@@ -11,7 +11,7 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Name | ID |  Github |
 | ----- | ----- | ------ | :------: |
-| 1 | BERNICE LIM JING XUAN | | [:octocat:](https://github.com/) |
+| 1 | BERNICE LIM JING XUAN | BerniceLimJX | [:octocat:](https://github.com/BerniceLimJX) |
 | 2 |  CAMILY TANG JIA LEI | camilytang | [:octocat:](https://github.com/camilytang) |
 | 3 |  CHAI YU TONG | | [:octocat:](https://github.com/) |
 | 4 | CHEN PYNG HAW | | [:octocat:](https://github.com/) |
@@ -20,11 +20,11 @@ Don't forget to hit the :star: if you like this repo.
 | 7 |  JOSEPH LAU YEO KAI | | [:octocat:](https://github.com/) |
 | 8 |  KEK JESSLYN | | [:octocat:](https://github.com/) |
 | 9 |  KOH LI HUI | | [:octocat:](https://github.com/) |
-| 10 |  LEE SOON DER | | [:octocat:](https://github.com/) |
+| 10 |  LEE SOON DER | LeeSoonDer | [:octocat:](https://github.com/LeeSoonDer) |
 | 11 |  LIM JING YONG | | [:octocat:](https://github.com/) |
 | 12 |  LOO JIA CHANG | | [:octocat:](https://github.com/) |
 | 13 |  LOW JIE SHENG | | [:octocat:](https://github.com/) |
-| 14|  LOW YING XI | | [:octocat:](https://github.com/) |
+| 14|  LOW YING XI | lowyingxi | [:octocat:](https://github.com/lowyingxi) |
 | 15 |  MARCUS JOEY SAYNER | | [:octocat:](https://github.com/) |
 | 16 |  MUHAMMAD DANIAL BIN AHMAD SYAHIR | | [:octocat:](https://github.com/) |
 | 17 |  NEO ZHENG WENG | | [:octocat:](https://github.com/) |
