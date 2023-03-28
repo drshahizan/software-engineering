@@ -38,7 +38,7 @@ The budget section should outline the costs associated with the development of t
 
 ### 7. System Architecture:
 - Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
-- Explain how the data will be stored, managed, and analyzed using MongoDB, as well as the hardware and software requirements needed to support the system.
+- Explain how the data will be stored, managed, and analyzed, as well as the hardware and software requirements needed to support the system.
 - Discuss the tools and frameworks that will be used for data visualization and analysis.
 - Provide a flowchart or block diagram of the system architecture.
 
@@ -47,7 +47,7 @@ The budget section should outline the costs associated with the development of t
 - It should also describe the plans and strategies to mitigate those risks.
 
 ### 9. Resources:
-- Provide a detailed breakdown of the resources required for the proposed data science project, including staff, equipment, software, and other expenses.
+- Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
 
 ### 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
