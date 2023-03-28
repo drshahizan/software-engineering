@@ -15,7 +15,8 @@ Group: Coders
 - [Agile Development](#Agile-Development)
 - [Plan-Driven and Agile Development](#Plan-Driven-and-Agile-Development)
 - [Balance of Plan-Driven or Agile Development](#Balance-of-Plan-Driven-or-Agile-Development)
-- 
+- [Comparison between Plan-Driven and Agile Development](#Comparison-between-Plan-Driven-and-Agile-Development)
+
 ## Rapid Software Development
 Rapid software development (RSD) is an approach to software development that emphasizes speed and efficiency in the delivery of working software. It is characterized by short development cycles, frequent releases, and a focus on delivering value to customers quickly.
 RSD is often associated with agile methodologies such as Scrum and Kanban, which emphasize collaboration, flexibility, and continuous improvement. RSD also often involves the use of rapid prototyping and iterative design, allowing developers to quickly test and refine their ideas based on feedback from customers and stakeholders.
@@ -87,3 +88,39 @@ Ultimately, the balance of plan-driven and Agile development will depend on the 
 of the project and the stakeholders involved. It is important to carefully consider the trade-offs 
 and benefits of each approach and choose the approach that is best suited to achieving the 
 project's goals. 
+
+## Comparison between Plan-Driven and Agile Development:
+
+### Plan-Driven Development:
+
+• Emphasizes planning and control
+
+• Detailed plan is developed at the beginning of the project
+
+• Focus on following the plan and adhering to a strict schedule
+
+• Works best when the project has a clear and well-defined scope, fixed budget, and strict 
+timeline
+
+• Focus on predictive approach
+
+• Requires a lot of documentation and up-front planning
+
+• Changes to the plan are costly and require extensive review and approval
+
+• Emphasizes specialization and division of labor
+
+• Generally follows a waterfall or V-model approach
+
+• Quality is measured by adherence to the plan and specifications
+
+### Agile Development:
+
+• Emphasizes flexibility and adaptability
+
+• Project is broken down into small, manageable pieces
+
+• Focus on delivering value to the customer quickly and frequently
+
+• Works best when the project requirements are unclear or subject to change
+
