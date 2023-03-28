@@ -9,8 +9,9 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Student Information: Section 01
 
-| No | Name | ID |  Github 
-| ----- | ----- | ------ | :------: | 
+| No | Name | ID |  Github |
+| ----- | ----- | ------ | :------: |
+
 | 1 | BERNICE LIM JING XUAN | | [:octocat:](https://github.com/) |
 | 2 |  CAMILY TANG JIA LEI | | [:octocat:](https://github.com/) |
 | 3 |  CHAI YU TONG | | [:octocat:](https://github.com/) |
