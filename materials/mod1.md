@@ -280,16 +280,16 @@ In summary, software standards and documentation play an important role in softw
 
 ## Software Documentation
 
-a) Proposal:
+1. Proposal:
 A software engineering project proposal is a document that outlines the objectives, scope, and plan for a software project. The proposal should include a description of the problem that the software will solve, the goals and objectives of the project, the methodology that will be used to develop the software, the resources that will be required, and the timeline for completing the project. The proposal should also identify the expected benefits of the software and any potential risks or challenges that may need to be addressed.
 
-b) Software Requirements Specification:
-A software requirements specification (SRS) is a document that outlines the functional and non-functional requirements for a software project. The SRS describes the behavior of the software and the constraints that it must operate within. The SRS typically includes a detailed description of the system's user interfaces, inputs and outputs, data structures, algorithms, and performance requirements. The SRS serves as a communication tool between the development team and the stakeholders to ensure that everyone understands what the software is expected to do.
+2. Software Requirements Specification:
+ A software requirements specification (SRS) is a document that outlines the functional and non-functional requirements for a software project. The SRS describes the behavior of the software and the constraints that it must operate within. The SRS typically includes a detailed description of the system's user interfaces, inputs and outputs, data structures, algorithms, and performance requirements. The SRS serves as a communication tool between the development team and the stakeholders to ensure that everyone understands what the software is expected to do.
 
-c) Software Design Document:
+3. Software Design Document:
 A software design document (SDD) is a document that outlines the architecture, modules, and interfaces of the software project. The SDD provides a detailed description of the system's internal structure and how it will meet the requirements specified in the SRS. The SDD typically includes diagrams, flowcharts, and other visual aids to help illustrate the design of the software. The SDD serves as a roadmap for the development team to ensure that the software is designed correctly and can be implemented efficiently.
 
-d) Software Testing Document:
+4. Software Testing Document:
 A software testing document (STD) is a document that outlines the testing strategy, plan, and procedures for a software project. The STD describes the types of testing that will be performed, the tools that will be used, and the expected results of each test. The STD typically includes a description of the testing environment, the test cases, and the expected outcomes. The STD serves as a guide for the testing team to ensure that the software is tested thoroughly and meets the quality standards specified in the SRS.
 
 ## Contribution 🛠️
