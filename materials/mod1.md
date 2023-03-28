@@ -9,6 +9,28 @@ Don't forget to hit the :star: if you like this repo.
 
 # Module 1: Introduction to Software Engineering
 
+### Contents:
+#### Notes
+- [The Importance of Software Engineering]()
+- [Software Engineering Costs]()
+- [Software Engineering in Software Development]()
+- [Software Engineering Definition]()
+- [Software Engineering as a Layered Technology]()
+- [Software Products and Product Specification]()
+- [Software Engineering Diversity: Types of Software]()
+- [Different Types of Software]()
+- [Software inherent difficulties]()
+- [Software Complexity]()
+- [Software Changeability
+- [Computer Science vs. Software Engineering]()
+- [Software Engineering vs. Software Programming]()
+- [Software Quality Focus]()
+- [Quality Focus: Example of Software Quality]()
+- [Software Quality Priority]()
+- [Software Standard and Document]()
+- [Software Documentation]()
+### Others
+
 ## The Importance of Software Engineering
 
 Software engineering is a critical field that plays a vital role in the development and success of modern technology. Here are some of the reasons why software engineering is important:
