@@ -7,11 +7,9 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Guideline for Data Science Proposal
+# Guideline for Software Engineering Proposal
 
-A data science project proposal is a detailed document that outlines the objectives, scope, and methodology of a data science project. It should provide a clear understanding of the problem to be addressed, the methods that will be used, and the expected outcomes. The proposal should be well-written, organized, and persuasive to convince stakeholders to invest in the project.
-
-Understand the problem: Before starting to write the proposal, make sure you fully understand the problem you are trying to solve. Talk to stakeholders, gather requirements, and clearly define the scope of the project.
+A software engineering proposal is a document that outlines a plan for developing software. It describes the purpose of the software, its objectives, scope, and methodology for its development, as well as a detailed timeline, budget, and risk assessment. The proposal is typically submitted to stakeholders, such as clients or project sponsors, who use it to make informed decisions about the project. The proposal is an important step in the software development process as it serves as a blueprint for the development team, providing guidance and direction throughout the project's lifecycle. It ensures that all parties involved are on the same page and have a clear understanding of the project's goals and objectives.
 
 ## Key components
 The following are the key components of a data science project proposal:
