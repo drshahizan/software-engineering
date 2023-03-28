@@ -33,6 +33,33 @@ In the maintenance phase, software engineers monitor the software to ensure that
 
 In summary, a software engineering project involves multiple stages, including planning, requirements gathering, design, development, testing, deployment, and maintenance. Each stage requires specific skills, tools, and techniques to ensure that the software is of high quality, meets user needs, and is delivered on time and within budget.
 
+# Type of software engineering project
+
+Software engineering projects can vary widely in terms of scope, objectives, and complexity. Here are some types of software engineering projects:
+
+1. Web application development:
+Web application development involves creating software that runs on a web browser. This type of project may involve designing and developing websites, e-commerce platforms, or web-based enterprise applications.
+
+2. Mobile application development:
+Mobile application development involves creating software that runs on mobile devices such as smartphones and tablets. This type of project may involve designing and developing mobile apps for Android, iOS, or other mobile platforms.
+
+3. Desktop application development:
+Desktop application development involves creating software that runs on desktop or laptop computers. This type of project may involve designing and developing productivity software, graphics software, or multimedia applications.
+
+4. Cloud application development:
+Cloud application development involves creating software that runs on cloud infrastructure. This type of project may involve designing and developing software as a service (SaaS) applications or cloud-based enterprise applications.
+
+5. Embedded software development:
+Embedded software development involves creating software that runs on embedded systems, such as microcontrollers or embedded processors. This type of project may involve designing and developing software for IoT devices, automotive systems, or medical devices.
+
+6. Open-source software development:
+Open-source software development involves creating software that is freely available and can be modified by anyone. This type of project may involve designing and developing open-source software libraries, frameworks, or applications.
+
+7. Enterprise software development:
+Enterprise software development involves creating software that is used by large organizations to manage their operations. This type of project may involve designing and developing enterprise resource planning (ERP) systems, customer relationship management (CRM) systems, or supply chain management systems.
+
+In summary, software engineering projects can be classified into various types based on the platform, application domain, and target audience. Each type of project requires specific skills, tools, and techniques to ensure that the software is of high quality, meets user needs, and is delivered on time and within budget.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
