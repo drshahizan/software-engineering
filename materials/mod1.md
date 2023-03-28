@@ -259,6 +259,7 @@ In general, the priority of software quality depends on the following factors:
 By considering these factors, software development teams can prioritize software quality aspects and focus their efforts on ensuring that the software meets the highest priority aspects first, while also ensuring that other aspects of software quality are not neglected.
 
 ## Software Standard and Document
+
 Software standards and documentation are important aspects of software engineering that help to ensure software quality, maintainability, and reliability.
 
 Software Standards refer to the set of guidelines, procedures, and best practices that govern software development activities. These standards can be industry-specific, such as ISO/IEC 12207 for software life cycle processes, or general, such as the IEEE Standards Association's Software Engineering Standards. These standards help ensure that software development processes are consistent, reliable, and produce high-quality software products.
@@ -276,6 +277,20 @@ Some benefits of software standards and documentation include:
 - Compliance with regulations: Following industry-specific software standards helps ensure compliance with regulatory requirements.
 
 In summary, software standards and documentation play an important role in software development, helping to ensure software quality, maintainability, and compliance with industry regulations.
+
+## Software Documentation
+
+a) Proposal:
+A software engineering project proposal is a document that outlines the objectives, scope, and plan for a software project. The proposal should include a description of the problem that the software will solve, the goals and objectives of the project, the methodology that will be used to develop the software, the resources that will be required, and the timeline for completing the project. The proposal should also identify the expected benefits of the software and any potential risks or challenges that may need to be addressed.
+
+b) Software Requirements Specification:
+A software requirements specification (SRS) is a document that outlines the functional and non-functional requirements for a software project. The SRS describes the behavior of the software and the constraints that it must operate within. The SRS typically includes a detailed description of the system's user interfaces, inputs and outputs, data structures, algorithms, and performance requirements. The SRS serves as a communication tool between the development team and the stakeholders to ensure that everyone understands what the software is expected to do.
+
+c) Software Design Document:
+A software design document (SDD) is a document that outlines the architecture, modules, and interfaces of the software project. The SDD provides a detailed description of the system's internal structure and how it will meet the requirements specified in the SRS. The SDD typically includes diagrams, flowcharts, and other visual aids to help illustrate the design of the software. The SDD serves as a roadmap for the development team to ensure that the software is designed correctly and can be implemented efficiently.
+
+d) Software Testing Document:
+A software testing document (STD) is a document that outlines the testing strategy, plan, and procedures for a software project. The STD describes the types of testing that will be performed, the tools that will be used, and the expected results of each test. The STD typically includes a description of the testing environment, the test cases, and the expected outcomes. The STD serves as a guide for the testing team to ensure that the software is tested thoroughly and meets the quality standards specified in the SRS.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
