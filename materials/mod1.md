@@ -21,7 +21,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Different Types of Software]()
 - [Software inherent difficulties]()
 - [Software Complexity]()
-- [Software Changeability
+- [Software Changeability]()
 - [Computer Science vs. Software Engineering]()
 - [Software Engineering vs. Software Programming]()
 - [Software Quality Focus]()
