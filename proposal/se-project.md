@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Software engineering project
+# Software Engineering project
 A software engineering project is a complex process that involves multiple stages, including planning, designing, developing, testing, and deploying software. The goal of a software engineering project is to create high-quality software that meets the needs of its users and is delivered on time and within budget. Here are the key components of a software engineering project:
 
 1. Planning:
