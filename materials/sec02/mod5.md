@@ -40,7 +40,7 @@ Use case modeling is a type of interaction model that is commonly used in softwa
 
 - For example, a use case diagram for a banking application might include actors such as customers, tellers, and managers, and use cases such as "withdraw money," "deposit money," and "transfer funds." The diagram would show how each actor interacts with the system to perform these different actions.
   
-<p align="center"><img src= "https://www.uml-diagrams.org/examples/use-case-example-atm.png" width="600"/>
+<p align="center"><img src= "https://www.uml-diagrams.org/examples/use-case-example-atm.png" width="400"/>
 
 Use case modeling is a useful tool for software engineers because it allows them to design systems that are user-centered and that meet the needs of the people who will be using the system. By modeling the different interactions between users and the system, engineers can ensure that the system is intuitive and easy to use, and that it provides users with the functionality that they need.
 
@@ -48,7 +48,7 @@ Use case modeling is a useful tool for software engineers because it allows them
   
 In Unified Modeling Language (UML), stereotypes are a way of extending the basic modeling elements to provide additional information or semantics. Stereotypes can be used to define new modeling elements or modify existing ones, and they are identified by a name enclosed in guillemets (<< >>).
   
-  <p align="center"><img src= "https://sparxsystems.com/enterprise_architect_user_guide/16.1/images/mvc-pattern.png" width="600"/>
+  <p align="center"><img src= "https://sparxsystems.com/enterprise_architect_user_guide/16.1/images/mvc-pattern.png" width="400"/>
 
 Stereotypes are a useful tool in UML modeling because they allow developers to extend the basic modeling elements and provide additional information or semantics. By using stereotypes, developers can create more detailed and accurate models that better reflect the complexity of the systems they are designing. However, it is important to use stereotypes judiciously and to ensure that they are properly understood by all stakeholders involved in the modeling process.
 
