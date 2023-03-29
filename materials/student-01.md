@@ -32,8 +32,8 @@ Don't forget to hit the :star: if you like this repo.
 | 19 | NICOLE LIM TZE YEE | nicolelimty | [:octocat:](https://github.com/nicolelimty) |
 | 20 | SOH HAN WEI | wei2030 | [:octocat:](https://github.com/wei2030) |
 | 21 | TAN JUN YUAN | TanJunYuan03 | [:octocat:](https://github.com/TanJunYuan03) |
-| 22 |  | | [:octocat:](https://github.com/) |
-| 23 | TIEW CHUAN SHEN | 	tiewshen | [:octocat:](https://github.com/tiewshen) |
+| 22 | TIEW CHUAN RONG | tiewrong | [:octocat:](https://github.com/tiewrong) |
+| 23 | TIEW CHUAN SHEN | tiewshen | [:octocat:](https://github.com/tiewshen) |
 | 24 | WONG JUN JI | jjwong2003 | [:octocat:](https://github.com/jjwong2003) |
 | 25 | WONG KHAI SHIAN NICHOLAS | nicholas0377 | [:octocat:](https://github.com/nicholas0377) |
 | 26 | WONG QIAO YING | alovey1014 | [:octocat:](https://github.com/alovey1014) |
