@@ -113,7 +113,7 @@ A software process model describes the **sequence** in which the phases of the s
 ## The Rational Unified Process (RUP)
 -  Known as the **Unified Process Model**
 -  An **iterative and incremental** software development process that emphasizes **collaboration** between stakeholders, including customers, developers, and testers, throughout the development lifecycle
--  RUP can be **time-consuming and resource-intensive**, and may not be appropriate for **small or simple software** development projects
+-  Can be **time-consuming and resource-intensive**, and may not be appropriate for **small or simple software** development projects
 
 <p align="center"><img src="https://www.toolshero.com/wp-content/uploads/2022/03/rational-unified-process-rup-example-toolshero.jpg" width="600"/>
 
