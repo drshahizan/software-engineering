@@ -37,8 +37,6 @@ Group: Coders
 ## Introduction
 ![image](https://user-images.githubusercontent.com/128228505/228555152-c7e00dba-3e16-42a1-87bc-721e62a7d303.png)
 
-
-
 ## Rapid Software Development
 
 ![Rapid-application-development](https://user-images.githubusercontent.com/128196055/228461054-7cc859e0-3191-4db8-9dae-6b31dc17412a.png)
@@ -298,7 +296,7 @@ the requirements of each project when selecting a development approach.
 
 ## Agile Development Techniques
 
-![testing_techniques_of_agile_methodology_agile_development_methodology_slide01](https://user-images.githubusercontent.com/128196055/228490250-cf332692-8050-4262-b5a7-d2b050d993b7.jpg)
+![kanban-zone-agile-umbrella-287x300](https://user-images.githubusercontent.com/128196055/228492351-8762434b-8c1f-4ec2-a2b4-fa009788428c.png)
 
 Agile development is an approach to software development that emphasizes flexibility, collaboration, and rapid iteration. 
 Extreme Programming (**XP**), **DSDM**, **FDD**, **RUP**, **Kanban**, **Crystal**, and **Scrum** are all software development methodologies with different approaches and techniques.
@@ -311,8 +309,6 @@ Extreme Programming (**XP**), **DSDM**, **FDD**, **RUP**, **Kanban**, **Crystal*
 7.  **Scrum** is a framework for managing and completing complex projects. Scrum emphasizes self-organizing teams and a flexible, iterative approach to development.
 
 ### XP(Extreme Programming)
-
-![kanban-zone-agile-umbrella-287x300](https://user-images.githubusercontent.com/128196055/228492351-8762434b-8c1f-4ec2-a2b4-fa009788428c.png)
 
 A very influential agile method, developed in the late 1990s, that introduced a range of agile development techniques. 
 Extreme Programming (XP) also takes an ‘extreme’ approach to iterative development:
