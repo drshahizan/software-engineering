@@ -34,11 +34,15 @@ Link to lecture notes: [here](https://docs.google.com/presentation/d/17xkv_kk2-a
 
 ## Design Principles
 
-- Encapsulation         : Each object is a self-contained unit containing
-both data and program logic
-- Object reuse          : Standard objects can be used over and over again
-within a system
-- Information hiding    : Data associated with an object is not visible
+- Encapsulation         : Each object is a self-contained unit containing both data and program logic 📐
+- Object reuse          : Standard objects can be used over and over again within a system ⚙️
+- Information hiding    : Data associated with an object is not visible 📐
+- Navigation visibility : Describes which objects can interact with each other ⚙️
+- Coupling              : Measures how closely classes are linked 📐
+- Cohesion              : Measures the consistency of functions in a class ⚙️
+
+## High Cohesion
+- High cohesion can be achieved if most of the interaction is within subsystems, rather than across subsystem boundaries
 
 
 ## Contribution 🛠️
