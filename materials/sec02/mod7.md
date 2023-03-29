@@ -47,6 +47,12 @@ Link to lecture notes: [here](https://docs.google.com/presentation/d/17xkv_kk2-a
 ## Low Coupling
 - Can be achieved if a calling class or interface does not need to know anything about the internals of the called class
 
+## OBJECT-ORIENTED DESIGN MODELS USING UML
+-Design model elaborates on the analysis model with technical solutions.
+-Design model includes the same components as the analysis model, but with more fully formed artifacts and implementation details.
+-An analysis class may only be a sketch with few attributes and key operations.
+-A design class must be fully specified with all attributes and operations, including return types and parameter
+
 ![Cohesion and Couping](https://naiwaen.debuggingsoft.com/blog/wp-content/uploads/2014/07/2017-02-24_114927.png)
 
 ## Contribution 🛠️
