@@ -112,9 +112,6 @@ Overall, a UML component diagram provides a high-level view of the system's stru
 
 
 
-Regenerate response
-
-ChatGPT Mar 14 Version. Free Research Preview. Our goal is to make AI systems more natural and safe to interact with. Your feedback will h
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
