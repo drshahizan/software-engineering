@@ -11,7 +11,7 @@ Don't forget to hit the :star: if you like this repo.
 Module 2: Software Process Model
 
 Group 2
-1. NAVACHANDER NAVASANTAR, matrix no
+1. NAVACHANDER NAVASANTAR, A22EC0226
 2. ONG YI YAN, A22EC0101
 3. CHE MARHUMI BIN CHE AB RAHIM, matrix no
 4. TANG YAN QING, A22EC0109
@@ -114,6 +114,33 @@ A software process model describes the **sequence** in which the phases of the s
 -  Can be **time-consuming and resource-intensive**, and may not be appropriate for **small or simple software** development projects
 
 <p align="center"><img src="https://www.toolshero.com/wp-content/uploads/2022/03/rational-unified-process-rup-example-toolshero.jpg" width="600"/>
+
+##  Software Prototyping
+
+Software prototyping is an **iterative** and **collaborative** process that helps to ensure that the final product meets the needs of its users and stakeholders.
+
+##  Benefits of Prototyping
+
+| Benefit                   | Waterfall Model |
+| :-------------------------| :-------------: |
+| Early feedback            | Prototyping allows for early user feedback, helping to identify                                 issues and areas for improvement before development is complete.| 
+| Reduced risk              | By identifying potential issues early on, prototyping can reduce                                 the risk of costly mistakes or missteps in the final product.|     
+| Faster development        | Prototyping can speed up the development process by identifying                                 potential issues early on and allowing for faster iterations and                                 improvements.| 
+| Improved collaboration    | Prototyping can improve collaboration between developers,                                       designers, and stakeholders by providing a tangible, visual                                     representation of the product. |
+| Improved user experience  | Prototyping allows for testing and refining of the user                                         experience, leading to a more intuitive and user-friendly final                                 product. |
+| Cost savings              | By identifying potential issues early on, prototyping can help to                               reduce the cost of making changes or fixing problems later in the                               development process. |   
+
+
+## Process of Prototype Development
+   
+   ![image](https://user-images.githubusercontent.com/128206862/228537799-7978f8c5-f764-464a-a310-1f431974ea21.png)
+
+## Throw-Away Prototypes
+
+A throw-away prototype is a quickly created software prototype that is **not intended for use** in the final product. It is used to **test** and **refine the design**, **gather feedback**, and **identify potential issue**s before moving on to more detailed development. It is **discarded** once its purpose is served
+   
+   ![image](https://user-images.githubusercontent.com/128206862/228539454-92366289-b5d5-4ee8-a4cb-821fde4bc08d.png)
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
