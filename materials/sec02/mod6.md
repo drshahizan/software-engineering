@@ -235,6 +235,76 @@ Controller: The controller would act as an intermediary between the model and th
 The MVC architecture would allow for a clear separation of responsibilities between the different components of the dashboard application. This would make it easier to modify or extend the application without affecting the other components, and would also make it easier to maintain and understand the codebase. Additionally, the MVC architecture would allow for the reuse of components across different dashboards, improving the scalability and maintainability of the application.
 
 
+## Layered Architecture
+
+The layered architecture style is one of the most common architectural styles. The idea behind
+Layered Architecture is that modules or components with similar functionalities are
+organized into horizontal layers. As a result, each layer performs a specific role within the
+application.
+
+The layered architecture style does not have a restriction on the number of layers that the
+application can have, as the purpose is to have layers that promote the concept of separation of
+concerns. The layered architecture style abstracts the view of the system as a whole while
+providing enough detail to understand the roles and responsibilities of individual layers and
+the relationship between them. 
+
+
+## Layered Architecture Pattern
+
+The Layered Architecture pattern is a software architecture pattern that structures an application into separate layers that interact with each other in a hierarchical manner. Each layer provides a specific set of services to the layer above it and consumes services from the layer below it. The Layered Architecture pattern typically includes three layers:
+
+Presentation Layer: This layer is responsible for providing the user interface to the application. It is the layer that interacts directly with the user, and its main responsibility is to present the data to the user in a meaningful way. This layer typically includes user interface components, such as forms, web pages, and views.
+
+Business Layer: This layer is responsible for implementing the business logic of the application. It contains the application's rules and policies that govern the behavior of the application. This layer typically includes business components, such as services, managers, and controllers.
+
+Data Layer: This layer is responsible for storing and retrieving data. It interacts with the application's data sources, such as databases, files, or web services. This layer typically includes data access components, such as repositories, DAOs (Data Access Objects), and gateways.
+
+The main advantage of using the Layered Architecture pattern is that it provides a clear separation of concerns and a high degree of modularity, which makes it easier to maintain, test, and evolve the application. The separation of concerns also makes it easier to distribute the work among multiple developers or teams. Another advantage of the Layered Architecture pattern is that it allows for greater flexibility in choosing the implementation technology for each layer, which can lead to better performance, scalability, and reliability.
+
+However, one potential downside of the Layered Architecture pattern is that it can lead to excessive coupling between layers, especially if the layers are not well defined and do not adhere to their responsibilities strictly. Another potential downside is that it can result in an increase in the number of layers, which can lead to an increase in complexity and difficulty in maintaining the application.
+
+
+
+## Generic Layered Architecture
+
+![]( https://csis.pace.edu/~marchese/SE616_New/L6/L6_files/image008.png )
+
+
+
+## Example : Architecture of iLearn System
+
+Presentation layer : Browse-based user interface, iLearn app
+Configuration services layer : Group management, Application management, Identity management
+Application services layer : Email, Messaging, Video conferencing, Newspaper archive, Word processing, Simulation, Video storage, Resource finder, Spreadsheet, Virtual learning environment, History archive
+Utility services layer : Authentication, Logging and monitoring, Interfacing, User storage, Application storage, Search
+
+
+## Example : Architecture of Mentcare System
+
+Presentation layer : Web browser, Login, Role checking, Form and menu manager, Data validation
+Business layer : Security management, Patient information management, Data import and export Report generation
+Data access layer : Transaction management, Patient database
+
+## Three and Four Layer Architectures
+
+Three layer architecture only consists of :
+-	Presentation layer
+-	Business logic layer
+-	Database layer
+
+But, business logic layer can be split into two layers which is application logic layer and domain layer, 
+
+Therefore, four layer architecture consists of :
+-	Presentation layer
+-	Application logic layer
+-	Domain layer
+-	Database layer
+
+## Example : Partitioned Subsytems in Four Layer Architecture
+
+Partitioned subsystems is a loosely coupled subsystems, each delivering a sigle service or coherent group of services. 
+Example of partitioned subsystems is an agate campaign management system.
+
 
 
 
