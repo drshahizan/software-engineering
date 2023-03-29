@@ -37,7 +37,7 @@ Don't forget to hit the :star: if you like this repo.
 | 24 |  TIEW CHUAN SHEN | | [:octocat:](https://github.com/) |
 | 25 |  WONG JUN JI | | [:octocat:](https://github.com/) |
 | 26 |  WONG KHAI SHIAN NICHOLAS | | [:octocat:](https://github.com/) |
-| 27 |  WONG QIAO YING | | [:octocat:](https://github.com/) |
+| 27 |  WONG QIAO YING | alovey1014 | [:octocat:](https://github.com/alovey1014) |
 | 28 |  YEOH CHONG YI | | [:octocat:](https://github.com/) |
 | 29 |  YONG WERN JIE | | [:octocat:](https://github.com/) |
 
