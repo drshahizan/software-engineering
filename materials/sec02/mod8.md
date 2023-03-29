@@ -85,12 +85,12 @@ There are several techniques used for V&V, including:
 4 stages of commercial software testing 
 ### stage 1 : Component test 
 Component or unit testing is a form of testing that analyses individual parts of a software system. It is performed by the developer and attempts to detect errors in the functionality, boundary conditions, and error handling of the component. Individual functions or procedures, object classes, or composite components are all examples of components.
-#### two kinds of component testing. 
+#### Two types of component testing. 
 1. Object Class Testing
 2. Interface Testing
 ### stage 2:  Integration test
 Integration testing during software development involves integrating system components and testing them together to ensure proper system interaction. The testing workers, which has access to the system source code, oversees this. The purpose of integration testing is to determine whether the components are compatible, interact correctly, and transfer data across their interfaces at the appropriate moment. 
-#### two common approaches for integration testing :
+#### Two common approaches for integration testing :
 1. Top-down integration
 2. Bottom-up integration 
 
