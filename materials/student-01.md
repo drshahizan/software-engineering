@@ -17,7 +17,7 @@ Don't forget to hit the :star: if you like this repo.
 | 4 | CHEN PYNG HAW | | [:octocat:](https://github.com/) |
 | 5 |  GOH JING YANG | | [:octocat:](https://github.com/) |
 | 6 |  JASLENE YU | jaslene-u | [:octocat:](https://github.com/jaslene-u) |
-| 7 |  JOSEPH LAU YEO KAI | | [:octocat:](https://github.com/) |
+| 7 |  JOSEPH LAU YEO KAI | josephlau2003 | [:octocat:](https://github.com/josephlau2003) |
 | 8 |  KEK JESSLYN | | [:octocat:](https://github.com/) |
 | 9 |  KOH LI HUI | kohlihui | [:octocat:](https://github.com/kohlihui) |
 | 10 |  LEE SOON DER | LeeSoonDer | [:octocat:](https://github.com/LeeSoonDer) |
