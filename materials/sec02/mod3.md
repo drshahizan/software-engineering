@@ -32,6 +32,9 @@ Group: Coders
 - [Agile Methods Applicability](Agile-Methods-Applicability)
 
 ## Rapid Software Development
+
+![Rapid-application-development](https://user-images.githubusercontent.com/128196055/228461054-7cc859e0-3191-4db8-9dae-6b31dc17412a.png)
+
 Rapid software development (RSD) is an approach to software development that emphasizes speed and efficiency in the delivery of working software. It is characterized by short development cycles, frequent releases, and a focus on delivering value to customers quickly.
 RSD is often associated with agile methodologies such as Scrum and Kanban, which emphasize collaboration, flexibility, and continuous improvement. RSD also often involves the use of rapid prototyping and iterative design, allowing developers to quickly test and refine their ideas based on feedback from customers and stakeholders.
 One of the key benefits of RSD is the ability to respond quickly to changing requirements and customer needs. By breaking down development into small, manageable pieces, and focusing on delivering working software as quickly as possible, RSD allows teams to be more responsive to changing market conditions and customer feedback.
@@ -39,10 +42,11 @@ However, RSD can also present some challenges, such as the need for effective co
 
 **Overall, rapid software development is a flexible and adaptable approach to software development that can help teams deliver high-quality software quickly and efficiently while responding to changing requirements and customer needs**.
 
-![Rapid-application-development](https://user-images.githubusercontent.com/128196055/228461054-7cc859e0-3191-4db8-9dae-6b31dc17412a.png)
-
 
 ## Agile Development
+
+<img width="819" alt="Screen-Shot-2019-11-04-at-1 13 10-PM" src="https://user-images.githubusercontent.com/128196055/228467011-be65e68e-d918-4d86-962a-7c069a43ce68.png">
+
 Agile development is an approach to software development that emphasizes collaboration, flexibility, and continuous improvement. 
 It is a subset of the Agile methodology and is characterized by short development cycles, frequent releases, and a focus on delivering value 
 to customers quickly.
@@ -83,6 +87,9 @@ Overall, plan-driven development and Agile development represent two different a
 
 
 ## Balance of Plan-Driven or Agile Development
+
+![ju](https://user-images.githubusercontent.com/128196055/228469060-1ed46e53-eb51-4716-be89-853d7ebdce91.jpg)
+
 The balance of plan-driven and Agile development depends on the nature of the project and 
 the needs of the stakeholders. Both plan-driven and Agile development have their strengths 
 and weaknesses, and choosing the right approach requires careful consideration of the 
@@ -111,6 +118,8 @@ project's goals.
 
 ## Comparison between Plan-Driven and Agile Development:
 ![3-Table1-1](https://user-images.githubusercontent.com/128196055/228464550-c2287bab-70cd-4da8-9309-69b6df4d8f49.png)
+
+![1 Agile Process Vs WaterFall Process](https://user-images.githubusercontent.com/128196055/228471611-60dda1b7-2b9f-439f-bad8-2309c58ac642.jpg)
 
 ### Plan-Driven Development:
 
@@ -198,6 +207,9 @@ It has had a significant impact on the software development industry, influencin
 development of Agile methodologies such as Scrum, Kanban, and Extreme Programming. 
 
 ## The Principles of Agile Methods
+
+![image](https://user-images.githubusercontent.com/128196055/228471340-305cdbbb-2245-4771-b336-cfcf650a9ce1.png)
+
 The Principles of Agile Methods are a set of guidelines that support the Agile Manifesto and 
 describe how to implement Agile software development in practice. These principles were 
 developed by the creators of the Agile Manifesto and are intended to help teams work more 
@@ -247,6 +259,8 @@ continuous improvement in software development.
 
 ## Agile Methods Applicability
 
+![2-Figure1-1](https://user-images.githubusercontent.com/128196055/228471661-4985e730-1f23-441e-a52c-953bcae46be5.png)
+
 Agile methods are applicable in a wide variety of software development contexts, including:
 1. Rapidly changing environments: Agile methods are well-suited to environments where 
 requirements are likely to change frequently, as they are designed to be flexible and 
@@ -275,6 +289,9 @@ development contexts are well-suited to Agile methods, and it is important to ca
 the requirements of each project when selecting a development approach.
 
 ## Agile Development Techniques
+
+![agile-lifecycle_0](https://user-images.githubusercontent.com/128196055/228472792-126220e2-38cc-486c-89c5-6cbc203ecd1a.png)
+
 
 Agile development is an approach to software development that emphasizes flexibility, collaboration, and rapid iteration. 
 Extreme Programming (**XP**), **DSDM**, **FDD**, **RUP**, **Kanban**, **Crystal**, and **Scrum** are all software development methodologies with different approaches and techniques.
