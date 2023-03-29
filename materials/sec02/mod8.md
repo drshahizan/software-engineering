@@ -100,6 +100,8 @@ Test Case: Enter valid username and password and verify that access is granted t
 
 ### Black-box Testing :
 
+<p align="center" ><img src="https://www.imperva.com/learn/wp-content/uploads/sites/13/2020/03/thumbnail_Black-box.jpg" alt="Black box image" width="300"> </p>
+
 1. Identify the input and output parameters of the system
 2. Create test cases that cover different combinations of inputs and expected outputs
 3. Execute the test cases and verify the actual output against the expected output
