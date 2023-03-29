@@ -181,6 +181,7 @@ products on time and within budget.
 
 ## Agile Manifesto
 
+![1556449377314](https://user-images.githubusercontent.com/128196055/228457967-834ce7d1-5dc9-447e-bb8c-03a828d51bdf.png)
 
 The Agile Manifesto is a set of guiding values and principles for Agile software development. It 
 was created by a group of software developers in 2001 as a response to the limitations of 
