@@ -10,10 +10,10 @@ Don't forget to hit the :star: if you like this repo.
 <!---
 Module 8: Software Verification, Validation and Testing
 
-Group 2
+Group TEMPEST
 1. DANIAL HARRIZ BIN MOHD ASINEH @ MOHD ASNEH, A22EC0152
 2. KUGEN A/L KALIDAS, 
-3. LUQMAN, matrix no
+3. MUHAMMAD LUQMAN HAKIM BIN MOHD RIZAUDIN, A22EC0086
 4. ANAS,
 
 -->
@@ -24,9 +24,10 @@ Click [here](https://drive.google.com/drive/folders/1fFqVSa7WdQ2Uet0UdvbQcALUVcq
 
 ## Contents
 1. [**Verification and Validation (V&V)**](#verification-and-validation-(V&V))
+2. [**Software Testing Process**](#software-testing-process)
 
 
-## Verification and Validation (V&V)
+# Verification and Validation (V&V)
 
 <p align="center"><img src="https://goktl.com/wp-content/uploads/2021/02/validation_verification.png" alt="Verification and Validation" width="800"> </p>
   
@@ -81,7 +82,24 @@ There are several techniques used for V&V, including:
 
 
 
+# Software Testing Process
 
+The software testing process is an essential aspect of the software verification, validation, and testing (VV&T) topic. The software testing process is a crucial step in ensuring that software products are of high quality, reliable, and meet the requirements of the end-users.
+
+The software testing process involves the following steps:
+
+1.  Planning: This involves defining the objectives and goals of the software testing process, including the scope of testing, the testing strategies, and the test cases to be used.
+    
+2.  Design: This step involves developing test cases based on the requirements and specifications of the software. The test cases should be designed to test all possible scenarios and conditions that the software may encounter.
+    
+3.  Execution: This step involves executing the test cases to identify defects and errors in the software. The results of the tests are recorded, and defects are reported to the developers for resolution.
+    
+4.  Reporting: This step involves documenting the results of the testing process and providing feedback to the development team. The feedback should include information about defects, errors, and other issues that were encountered during testing.
+    
+5.  Analysis: This step involves analyzing the results of the testing process to identify patterns and trends in the software's behavior. This information is then used to refine the testing process and improve the quality of the software.
+    
+
+The software testing process is a continuous process that should be performed throughout the software development life cycle. It is essential to ensure that the software is of high quality and meets the needs of the end-users.
   
 ## Test-Case Approach 1 : Requirements-Based Testing
 
