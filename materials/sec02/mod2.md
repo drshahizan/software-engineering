@@ -7,6 +7,16 @@
 
 Don't forget to hit the :star: if you like this repo.
 
+<!---
+Module 2: Software Process Model
+
+Group 2
+1. NAVACHANDER NAVASANTAR, matrix no
+2. ONG YI YAN, A22EC0101
+3. CHE MARHUMI BIN CHE AB RAHIM, matrix no
+
+-->
+
 # Module 2 : Software Process Model
 
 ## We will learn the following : 
@@ -103,16 +113,10 @@ A software process model describes the **sequence** in which the phases of the s
 
 <p align="center"><img src="https://www.toolshero.com/wp-content/uploads/2022/03/rational-unified-process-rup-example-toolshero.jpg" width="650"/></p>
 
-
-
-
 ## Contribution 🛠️
-<!---
-Module 2: Software Process Model
+Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
-Group 2
-1. NAVACHANDER NAVASANTAR, matrix no
-2. ONG YI YAN, A22EC0101
-3. CHE MARHUMI BIN CHE AB RAHIM, matrix no
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
--->
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
+
