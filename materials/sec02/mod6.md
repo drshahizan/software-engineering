@@ -142,6 +142,20 @@ The controller : manages user interaction and passes to the model and the view
 
 ![](https://media.cheggcdn.com/media/06e/06e33833-d852-42f1-8a73-4f6bf1919024/php6EqJQo.png)
 
+## Example : MVC Architecture Used for a Dashboard
+
+The Model-View-Controller (MVC) architecture can be used for a dashboard application in the following way:
+
+Model: The model would be responsible for managing the data that is displayed on the dashboard. This could include data from multiple sources, such as databases, APIs, or other applications. The model would also be responsible for defining how the data can be manipulated, such as filtering, sorting, or aggregating data.
+
+View: The view would be responsible for presenting the data to the user in a visual format, such as charts, tables, or graphs. The view would allow the user to interact with the data, such as selecting a date range or changing the type of chart being displayed.
+
+Controller: The controller would act as an intermediary between the model and the view. It would receive input from the user through the view, such as selecting a date range, and then update the model accordingly. The controller would then update the view to reflect any changes made to the data.
+
+The MVC architecture would allow for a clear separation of responsibilities between the different components of the dashboard application. This would make it easier to modify or extend the application without affecting the other components, and would also make it easier to maintain and understand the codebase. Additionally, the MVC architecture would allow for the reuse of components across different dashboards, improving the scalability and maintainability of the application.
+
+
+
 
 
 
