@@ -35,10 +35,6 @@ Group: Coders
 - [Agile Development Techniques](#Agile-Development-Techniques)
 - [XP(Extreme Programming)](#XP)
 - [The Extreme Programming Release Cycle](#The-Extreme-Programming-Release-Cycle)
-- [Agile Project Management](#Agile-Project-Management)
-- [Scrum](#Scrum)
-- [Agile DevOps](#Agile-DevOps)
-
 
 ## Introduction
 ![image](https://user-images.githubusercontent.com/128228505/228555152-c7e00dba-3e16-42a1-87bc-721e62a7d303.png)
@@ -320,7 +316,6 @@ Extreme Programming (**XP**), **DSDM**, **FDD**, **RUP**, **Kanban**, **Crystal*
 
 A very influential agile method, developed in the late 1990s, that introduced a range of agile development techniques. 
 Extreme Programming (XP) also takes an ‘extreme’ approach to iterative development:
-
 o New versions may be built several times per day
 -To ensure that the code is always working and can be delivered quickly. This practice is known as continuous integration. Continuous integration is important in XP because it helps to catch errors early and ensures that the code is always in a releasable state. By integrating code changes frequently, XP teams can detect and fix errors quickly, reducing the risk of costly delays and rework later in the development process.
 
@@ -337,129 +332,6 @@ The goal of XP is to produce software that meets the needs of the customer while
 
 ![extreme-programming-overview](https://user-images.githubusercontent.com/128196055/228489075-9e1d6376-26dd-4ad7-aad8-18484cf6bfe8.png)
 
-Selecting user stories is an important part of the Extreme Programming (XP) method. User stories are a way of capturing requirements from the perspective of the end-users or customers who will be using the software. XP emphasizes the importance of understanding the customer's needs and continuously delivering working software that meets those needs.
-
-The XP process typically starts with the customer or product owner identifying the user stories that are the highest priority or provide the most value. These user stories are then broken down into smaller, more manageable tasks that can be completed within a short time frame, typically one to two weeks.
-
-Once the user stories have been identified and broken down into tasks, the XP team estimates the effort required to complete each task. This helps the team to plan the work and prioritize the tasks based on their estimated effort and value to the customer.
-
-The XP team then works on developing and testing the software in short iterations, typically one to two weeks, with the goal of delivering working software at the end of each iteration. During each iteration, the team collaborates closely with the customer or product owner to ensure that the software is meeting the customer's needs and that any changes or new requirements are addressed quickly.
-
-Overall, the XP method places a strong emphasis on collaboration, communication, and feedback, with the goal of delivering high-quality software that meets the customer's needs in a timely and efficient manner.
-
-### XP and Agile Principles
-
-**Incremental development**
-
-- Both XP and Agile emphasize the importance of delivering working software early and often, and incremental development is a key part of achieving this goal. Instead of trying to deliver a complete system all at once, incremental development breaks the development process down into smaller, more manageable pieces that can be completed and tested quickly.
-
-**Customer involvement**
-
-- Both XP and Agile emphasize the importance of delivering working software early and often, and incremental development is a key part of achieving this goal. Instead of trying to deliver a complete system all at once, incremental development breaks the development process down into smaller, more manageable pieces that can be completed and tested quickly. The customer is involved in all stages of the development process, from planning and design to testing and deployment.
-
-**People not process**
-
-- The principle of "people over process" is a core tenet of both Extreme Programming (XP) and Agile software development. Both XP and Agile emphasize the importance of valuing people and their interactions over rigid processes and tools. In XP, people over process means that the focus is on building a strong team of talented individuals who can work together collaboratively to deliver high-quality software. XP teams prioritize open communication, knowledge sharing, and collaboration, which are essential for building a cohesive team that can work effectively together.
-
-**Change**
-
-- The principle of change is critical for successful software development. By prioritizing flexibility, adaptability, and collaboration, XP and Agile teams can respond quickly to changing requirements and deliver high-quality software that meets the needs of the customer in a timely and efficient manner.
-
-**Maintaining Simplicity**
-
-- Maintaining simplicity is critical for successful software development. By prioritizing simplicity, XP and Agile teams can ensure that their software is easy to maintain, easy to modify, and easy to use, delivering high-quality software that meets the needs of the customer in a timely and efficient manner.
-
-
-### Influential XP Practices
-• Extreme programming has a technical focus and
-is not easy to integrate with management
-practice in most organizations
-• Consequently, while agile development uses
-practices from XP, the method as originally
-defined is not widely used
-
-#### Key Practices:
-These practices work together to enable XP teams to deliver high-quality software that meets the needs of the customer in a timely and efficient manner, while prioritizing collaboration, communication, and feedback.
-
-**1. User stories for specifications**
-This practice involves creating short, simple descriptions of the functionality that the software should provide, from the perspective of the end user. User stories help to ensure that the software is aligned with the needs of the customer and that the team is focused on delivering value.
-
-Example:
-1.  Identify User Roles: The team starts by identifying the different types of users who will interact with the software, such as customers, administrators, and support staff.    
-2.  Create User Stories: For each user role, the team creates a set of user stories that describe the functionality that the software should provide from the perspective of that user. For example:
-    -   As a customer, I want to be able to search for products by category so that I can quickly find what I'm looking for.
-    -   As an administrator, I want to be able to view a dashboard that shows me key metrics about the system, so that I can monitor its performance.   
-3.  Prioritize User Stories: The team works together to prioritize the user stories, based on the value they will provide to the customer and the effort required to implement them.  
-4.  Estimate Effort: The team estimates the effort required to implement each user story, using techniques such as Planning Poker or relative sizing.
-5.  Create Sprint Backlog: Based on the prioritized user stories and effort estimates, the team creates a Sprint Backlog that defines the work to be done in the upcoming sprint. 
-6.  Develop Incrementally: The team works on the Sprint Backlog, developing the software incrementally and continuously testing and integrating their work to ensure that the software is stable and meets the needs of the customer.
-
-**2. Refactoring**
-This practice involves improving the design and structure of existing code to make it more maintainable and easier to understand. Refactoring helps to reduce technical debt and improve overall code quality.
-
-Example:
-Suppose a development team is working on an e-commerce website, and they notice that the checkout process is becoming slow and cumbersome for customers. Upon investigating, they find that the checkout code is complex and difficult to understand, and it has grown over time as new features were added. They decide to refactor the checkout code to make it simpler and more maintainable.
-
-1.  Identify Opportunities for Refactoring: The team begins by reviewing the checkout code and identifying areas where it can be simplified and made more efficient.  
-2.  Prioritize Refactoring Tasks: The team works together to prioritize the refactoring tasks based on the value they will provide to the customer and the effort required to implement them. 
-3.  Develop a Plan: The team develops a plan for refactoring the checkout code, breaking the work down into smaller, manageable tasks that can be completed incrementally.
-4.  Refactor the Code: The team begins refactoring the checkout code, working in small, incremental steps to ensure that the code remains stable and functional throughout the process.
-1.  Test the Code: As the team refactors the code, they continuously test it to ensure that it remains functional and that no new bugs are introduced.
-2.  Integrate the Changes: Once the refactoring is complete, the team integrates the changes back into the main codebase and tests the entire system to ensure that everything is functioning as expected.
-
-**3. Test-First Development**
-This practice involves writing automated tests for code before writing the code itself. It helps to ensure that the code is correct and maintainable, and enables developers to refactor code with confidence.
-
-Example:
-Suppose a developer is building a function that will take two numbers and return their sum. The developer wants to use TDD to ensure that the function is correct and robust.
-Here's how the developer would use TDD to build this function:
-
-1.  Write a Test: The developer writes a test for the function, specifying what it should do and how it should behave.
-2.  Run the Test: The developer runs the test and sees that it fails, since they haven't yet written the function to perform the calculation.
-3.  Write the Code: The developer writes the function to perform the calculation, based on the requirements of the test.
-4.  Run the Test Again: The developer runs the test again and sees that it passes, indicating that the function is working correctly.
-5.  Refactor the Code: The developer reviews the code and looks for opportunities to improve it. In this case, since the code is very simple, there is no need to refactor it.
-6.  Write Additional Tests: The developer writes additional tests to ensure that the function is working correctly under different conditions. For example, they might write tests for adding negative numbers, adding decimals, or adding very large numbers.
-7.  Repeat the Cycle: The developer continues to repeat this cycle, writing tests, running them, writing code, running tests again, and refactoring as needed, until the function is complete and working correctly under all desired conditions.
-
-**4. Pair Programming**
-This practice involves improving the design and structure of existing code to make it more maintainable and easier to understand. Refactoring helps to reduce technical debt and improve overall code quality.
-
-Example:
-Suppose two developers, Alice and Bob, are working together on a feature for their software project. They decide to use pair programming to ensure that the feature is implemented correctly and to improve the overall quality of the code.
-
-1.  Set Up the Environment: Alice and Bob set up their workstations so that they can both see the same screen and keyboard. They decide who will start as the driver (the person who is typing) and who will start as the navigator (the person who is reviewing the code).    
-2.  Define the Task: Alice and Bob review the requirements for the feature they are working on and define the task that they need to complete.  
-3.  Start Programming: Alice begins typing and writing code to implement the feature, while Bob reviews the code and provides feedback and suggestions for improvement. 
-4.  Switch Roles: After a period of time, Alice and Bob switch roles, with Bob taking over as the driver and Alice becoming the navigator. This allows both developers to contribute to the code and to review each other's work.   
-5.  Refactor the Code: As they work, Alice and Bob look for opportunities to improve the code by refactoring it, simplifying it, and making it more readable.   
-6.  Test the Code: Throughout the process, Alice and Bob run tests to ensure that the code is working correctly and to catch any bugs or errors that might be introduced.   
-7.  Complete the Task: Once the feature is implemented and tested, Alice and Bob submit the code for review and integration into the main codebase.
-
-### Agile Project Management
-
-Agile project management is an iterative and flexible approach to project management that prioritizes collaboration, rapid delivery, and adaptation to change.
-
-![Agile](https://user-images.githubusercontent.com/128196055/228596440-b3dcc690-385e-417e-bb45-dca80fb32994.jpg)
-
-Key characteristics of agile project management include:
-
-- Breaking projects down into smaller, manageable parts called sprints
-- Emphasizing communication and collaboration between team members and stakeholders
-- Encouraging frequent testing and feedback to quickly -identify and address problems
-- Prioritizing delivering working software or products early and often
-- Adapting to changing requirements and priorities throughout the project
-- Continuously improving processes and practices through retrospective reviews
-
-Overall, agile project management aims to increase efficiency, productivity, and customer satisfaction by focusing on delivering value through a flexible and collaborative process.
-
-### Scrum
-
-![image01](https://user-images.githubusercontent.com/128196055/228596457-28cc6d3b-8a8b-471f-8bc0-04603293584c.jpg)
-
-### Agile DevOps
-
-![Agile-DevOps (1)](https://user-images.githubusercontent.com/128196055/228598102-8f123f47-8390-418f-b632-5f7f707467e6.png)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
@@ -467,4 +339,84 @@ Please create an [Issue](https://github.com/drshahizan/software-engineering/issu
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
+
+## Scaling Agile Methods
+
+Scaling Agile methods refers to the process of applying Agile principles and practices to larger and more complex projects that involve multiple teams and stakeholders. Here are some tips for scaling Agile methods:
+
+1. Adopt a framework: There are several frameworks available for scaling Agile, such as Scrum of Scrums, SAFe (Scaled Agile Framework), LeSS (Large-Scale Scrum), Nexus, etc. Choose a framework that aligns with your organization's needs and goals.
+2. Create cross-functional teams: To scale Agile, it is essential to have cross-functional teams that include representatives from various departments or areas of expertise. This allows for better collaboration, improved communication, and shared ownership of the project.
+3. Establish a shared vision: To ensure that all teams are working towards the same goal, it is important to establish a shared vision for the project. This will help to align everyone's efforts and ensure that they are working towards a common purpose.
+4. Focus on communication: Communication is essential in Agile, but it becomes even more critical when scaling Agile. Encourage open and transparent communication channels between teams, stakeholders, and customers
+5. Implement Agile practices: Scaling Agile requires a consistent approach to Agile practices, such as daily stand-ups, retrospectives, and sprint planning sessions. These practices help teams stay focused, prioritize work, and deliver value to customers.
+6. Invest in training and coaching: Scaling Agile can be challenging, so it is essential to invest in training and coaching for teams and stakeholders. This will help to ensure that everyone understands Agile principles and practices and can work effectively in an Agile environment
+7. Continuously improve: Agile is an iterative process, so it is important to continuously evaluate and improve the way you scale Agile. Encourage teams to regularly review their processes and identify areas for improvement
+
+## Large System Development
+
+![](https://northell.design/wp-content/uploads/2022/09/4.jpg)
+
+o Large systems development refers to the process of designing, building, and implementing software systems that are complex and often require collaboration among multiple teams or organizations. These systems typically have a large number of components and interactions, and require careful planning and management to ensure that they are delivered on time and within budget.
+
+o Large systems development involves several stages, including requirements gathering, design, implementation, testing, and deployment. During the requirements gathering phase, stakeholders and end-users are consulted to identify the features and functionalities that the system should have. In the design phase, the architecture and overall structure of the system are defined, often using modeling tools to visualize and communicate the design to stakeholder
+
+o In summary, large systems development is a complex process that requires careful planning, design, implementation, testing, and deployment, as well as effective management and coordination. It is a challenging but rewarding field that plays a critical role in enabling organizations to leverage technology to improve their operations and achieve their goals.
+
+
+
+
+## Scaling Out and Scaling Up
+
+![](https://mercuryworks.com/wp-content/uploads/2021/04/Scale-1.png)
+
+Scaling out and scaling up are two approaches used to increase the capacity of a system to handle more load or to meet higher performance demands.
+
+**Scaling out** refers to adding more nodes or servers to a distributed system to handle more traffic or requests. This approach involves adding more hardware resources to distribute the workload across a larger number of machines. This can be achieved by adding more servers to a load-balanced cluster, or by deploying additional instances of a service in a cloud environment. Scaling out can be cost-effective, as it allows for more granular control over resource allocation, and can help to avoid a single point of failure.
+
+**Scaling up** on the other hand, involves increasing the capacity of a single server or machine to handle more traffic or requests. This approach involves adding more resources to a single machine, such as increasing CPU or memory capacity, or upgrading to a more powerful server. Scaling up can be more expensive than scaling out, as it requires purchasing more powerful hardware, but it can be useful when a system is reaching the limit of what it can handle with its existing resources.
+
+Both scaling out and scaling up can be effective ways to increase the capacity of a system, and the choice between them depends on the specific needs of the system and the resources available. A combination of both approaches can also be used to achieve the desired level of performance and scalability
+
+## Scaling Up to Large Systems
+
+Scaling up to a large system can be a complex and challenging task, but it is essential for organizations that want to grow and expand their operations. Here are some general tips that can help you scale up a large system:
+
+1. Plan ahead: Before scaling up, you need to have a clear plan in place. This should include identifying potential bottlenecks and risks, as well as establishing metrics for success.
+2. Optimize performance: To scale up a large system, you need to optimize its performance. This can involve improving hardware resources, optimizing software and databases, and using techniques like load balancing to distribute traffic evenly across multiple servers
+3. Automate processes: Automation can help streamline processes and reduce the risk of errors. This includes automating deployment, testing, and monitoring processes.
+4. Focus on security: As your system grows, so does the risk of security breaches. Make sure to implement appropriate security measures, such as encryption, access controls, and regular security audits.
+
+
+![](https://t1.daumcdn.net/cfile/tistory/99E7E74E5C761CF119)
+
+## Scaling Out to Large Companies
+
+Scaling out to large companies can be a complex process that requires careful planning and execution. Here are some general tips to consider:
+
+1. Understand the needs of your customers: Large companies have different needs than small businesses, and it's important to understand their requirements in order to tailor your products or services to meet their needs.
+2. Build a strong team: Scaling to a large company requires a strong team that can handle the increased workload and demands of a larger customer base. Make sure to hire experienced professionals who are committed to your company's goals
+3. Develop scalable systems: Your systems need to be able to handle the increased volume of customers and transactions. This may require investing in technology and infrastructure to support your growth
+4. Monitor and measure your progress: Keep track of key metrics to measure your progress and identify areas for improvement. This will help you make data-driven decisions as you continue to scale your busines
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.router-switch.com%2F2021%2F03%2Fwhat-is-the-difference-between-scale-up-and-scale-out%2F&psig=AOvVaw16UuAprNmh1jZV09ZtInVE&ust=1680203933397000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjn5sftgf4CFQAAAAAdAAAAABAE)
+
+## Agile and Plan-Based Factors
+
+Agile and plan-based approaches are two different methodologies used in software development. Agile development emphasizes flexibility and adaptability, while plan-based approaches rely on detailed planning and documentation. Both approaches have their advantages and disadvantages, and the choice of which approach to use depends on the specific needs of the project.
+
+
+![](https://www.liamwho.com/wp-content/uploads/Agile-and-Plan-based-Factors.jpg)
+
+## Agile and Waterfall: Agifall
+
+o Agile and Waterfall are two different software development methodologies that have been used for many years. Agile is an iterative and flexible approach that prioritizes collaboration and communication between team members and customers. Waterfall, on the other hand, is a linear approach that involves a sequential process of planning, development, testing, and deployment.
+
+o Agile and Waterfall have different strengths and weaknesses, and each methodology is better suited to certain types of projects. Some organizations have attempted to combine elements of both methodologies to create a hybrid approach that takes advantage of the strengths of each methodology while minimizing their weaknesses
+
+Overall, the success of any hybrid approach will depend on a variety of factors, including the specific needs of the project, the skillset and experience of the development team, and the preferences of the organization's stakeholders.
+
+![](https://hackr.io/blog/media/agile-vs-waterfall-min.png)
+
+![](https://www.oldstreetsolutions.com/wp-content/uploads/2021/11/Agile-Waterfall-and-Hybrid-Project-Management.png)
+
 
