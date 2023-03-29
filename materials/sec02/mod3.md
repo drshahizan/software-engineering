@@ -20,6 +20,7 @@ Group: Coders
 
 ### Contents:
 #### Notes
+- [Agile Method](#Agile-Method)
 - [**Rapid Software Development**](#Rapid-Software-Development)
 - [Agile Development](#Agile-Development)
 - [Plan-Driven and Agile Development](#Plan-Driven-and-Agile-Development)
@@ -36,7 +37,7 @@ RSD is often associated with agile methodologies such as Scrum and Kanban, which
 One of the key benefits of RSD is the ability to respond quickly to changing requirements and customer needs. By breaking down development into small, manageable pieces, and focusing on delivering working software as quickly as possible, RSD allows teams to be more responsive to changing market conditions and customer feedback.
 However, RSD can also present some challenges, such as the need for effective communication and collaboration among team members and the need for adequate testing and quality assurance to ensure that the software is stable and reliable.
 
-Overall, rapid software development is a flexible and adaptable approach to software development that can help teams deliver high-quality software quickly and efficiently while responding to changing requirements and customer needs.
+**Overall, rapid software development is a flexible and adaptable approach to software development that can help teams deliver high-quality software quickly and efficiently while responding to changing requirements and customer needs**.
 
 ![Rapid-application-development](https://user-images.githubusercontent.com/128196055/228461054-7cc859e0-3191-4db8-9dae-6b31dc17412a.png)
 
@@ -57,6 +58,8 @@ development that can help teams deliver high-quality software quickly and effici
 responding to changing requirements and customer needs.
 
 ## Plan-Driven and Agile Development
+
+![Plan-driven-and-Agile-RE](https://user-images.githubusercontent.com/128196055/228466110-aaab7c4a-d120-4950-8ecc-5e8a889921ee.png)
 Plan-driven development and Agile development are two different approaches to software 
 development, with different philosophies and methodologies.
 Plan-driven development is a traditional approach to software development that emphasizes 
@@ -106,52 +109,35 @@ and benefits of each approach and choose the approach that is best suited to ach
 project's goals. 
 
 ## Comparison between Plan-Driven and Agile Development:
+![3-Table1-1](https://user-images.githubusercontent.com/128196055/228464550-c2287bab-70cd-4da8-9309-69b6df4d8f49.png)
 
 ### Plan-Driven Development:
 
-• Emphasizes planning and control
-
-• Detailed plan is developed at the beginning of the project
-
-• Focus on following the plan and adhering to a strict schedule
-
-• Works best when the project has a clear and well-defined scope, fixed budget, and strict 
-timeline
-
-• Focus on predictive approach
-
-• Requires a lot of documentation and up-front planning
-
-• Changes to the plan are costly and require extensive review and approval
-
-• Emphasizes specialization and division of labor
-
-• Generally follows a waterfall or V-model approach
-
-• Quality is measured by adherence to the plan and specifications
+-  Emphasizes planning and control
+-  Detailed plan is developed at the beginning of the project
+- Focus on following the plan and adhering to a strict schedule
+- Works best when the project has a clear and well-defined scope, fixed budget, and strict 
+  timeline
+- Focus on predictive approach
+- Requires a lot of documentation and up-front planning
+- Changes to the plan are costly and require extensive review and approval
+- Emphasizes specialization and division of labor
+- Generally follows a waterfall or V-model approach
+- Quality is measured by adherence to the plan and specifications
 
 
 ### Agile Development:
 
-• Emphasizes flexibility and adaptability
-
-• Project is broken down into small, manageable pieces
-
-• Focus on delivering value to the customer quickly and frequently
-
-• Works best when the project requirements are unclear or subject to change
-
-• Focus on adaptive approach
-
-• Requires less documentation and up-front planning
-
-• Changes are expected and can be accommodated easily
-
-• Emphasizes collaboration and communication among team members and customers
-
-• Generally follows an iterative and incremental approach, such as Scrum or Kanban
-
-• Quality is measured by the working software and customer satisfaction
+- Emphasizes flexibility and adaptability
+- Project is broken down into small, manageable pieces
+- Focus on delivering value to the customer quickly and frequently
+- Works best when the project requirements are unclear or subject to change
+- Focus on adaptive approach
+- Requires less documentation and up-front planning
+- Changes are expected and can be accommodated easily
+- Emphasizes collaboration and communication among team members and customers
+- Generally follows an iterative and incremental approach, such as Scrum or Kanban
+- Quality is measured by the working software and customer satisfaction
 
 Overall, Plan-Driven development emphasizes planning and control, while Agile development 
 emphasizes flexibility and adaptability. Plan-Driven development is best suited for projects with 
