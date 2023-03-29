@@ -58,3 +58,10 @@ The two common black-box testing strategies are:
 Internal Function: A function that checks if a given number is prime
 Test Case: Pass a prime number as input and verify that the function returns true. Pass a composite number as input and verify that the function returns false.
 
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
+
