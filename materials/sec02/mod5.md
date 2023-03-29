@@ -69,6 +69,14 @@ In Unified Modeling Language (UML), stereotypes are a way of extending the basic
 
 Stereotypes are a useful tool in UML modeling because they allow developers to extend the basic modeling elements and provide additional information or semantics. By using stereotypes, developers can create more detailed and accurate models that better reflect the complexity of the systems they are designing. However, it is important to use stereotypes judiciously and to ensure that they are properly understood by all stakeholders involved in the modeling process.
 
+ ##STRUCTURAL MODEL
+ A structural model is a simplified representation of a physical system or structure that is used to study its behavior and predict its response to various stimuli or inputs. Structural models can be mathematical, physical, or conceptual, depending on the nature of the system being studied and the level of detail required.
+
+In engineering and science, structural models are used to analyze and design a wide range of systems, including buildings, bridges, aircraft, and materials. For example, a structural engineer might use a mathematical model to predict the behavior of a building under different loads, or a physical model to study the aerodynamics of an aircraft.
+
+The purpose of a structural model is to provide insight into the behavior of the system being studied and to help engineers make informed decisions about its design and performance. By analyzing the response of the model to different inputs, engineers can identify potential weaknesses or failure modes in the system, and make changes to improve its safety, reliability, or efficiency.
+
+In summary, a structural model is a simplified representation of a physical system or structure that is used to study its behavior and predict its response to various inputs or stimuli. It is an essential tool for engineers and scientists working in a wide range of fields to design, analyze, and improve the performance of complex systems.
 
  ## BEHAVIORAL MODEL
     
