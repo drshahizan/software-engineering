@@ -35,6 +35,9 @@ Group: Coders
 - [Agile Development Techniques](#Agile-Development-Techniques)
 - [XP(Extreme Programming)](#XP)
 - [The Extreme Programming Release Cycle](#The-Extreme-Programming-Release-Cycle)
+- [Agile Project Management](#Agile-Project-Management)
+- [Scrum](#Scrum)
+- [Agile DevOps](#Agile-DevOps)
 
 
 ## Introduction
@@ -354,7 +357,7 @@ Overall, agile project management aims to increase efficiency, productivity, and
 
 ![image01](https://user-images.githubusercontent.com/128196055/228596457-28cc6d3b-8a8b-471f-8bc0-04603293584c.jpg)
 
-### DevOps
+### Agile DevOps
 
 ![Agile-DevOps (1)](https://user-images.githubusercontent.com/128196055/228598102-8f123f47-8390-418f-b632-5f7f707467e6.png)
 
