@@ -20,7 +20,7 @@ Group: Coders
 
 ### Contents:
 #### Notes
-- [Agile Method](#Agile-Method)
+
 - [**Rapid Software Development**](#Rapid-Software-Development)
 - [Agile Development](#Agile-Development)
 - [Plan-Driven and Agile Development](#Plan-Driven-and-Agile-Development)
