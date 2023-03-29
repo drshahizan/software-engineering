@@ -60,6 +60,7 @@ responding to changing requirements and customer needs.
 ## Plan-Driven and Agile Development
 
 ![Plan-driven-and-Agile-RE](https://user-images.githubusercontent.com/128196055/228466110-aaab7c4a-d120-4950-8ecc-5e8a889921ee.png)
+
 Plan-driven development and Agile development are two different approaches to software 
 development, with different philosophies and methodologies.
 Plan-driven development is a traditional approach to software development that emphasizes 
