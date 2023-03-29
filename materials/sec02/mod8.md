@@ -85,13 +85,13 @@ Inspections are a static process that may recognize errors before the code is ex
 ## stage 1 : Component test 
 Component or unit testing is a form of testing that analyses individual parts of a software system. It is performed by the developer and attempts to detect errors in the functionality, boundary conditions, and error handling of the component. Individual functions or procedures, object classes, or composite components are all examples of components.
 ### two kinds of component testing. 
--Object Class Testing
- -Interface Testing
+1. Object Class Testing
+2. Interface Testing
 ## stage 2:  Integration test
 Integration testing during software development involves integrating system components and testing them together to ensure proper system interaction. The testing workers, which has access to the system source code, oversees this. The purpose of integration testing is to determine whether the components are compatible, interact correctly, and transfer data across their interfaces at the appropriate moment. 
 ### two common approaches for integration testing :
--Top-down integration
--Bottom-up integration 
+1. Top-down integration
+2. Bottom-up integration 
 These tests involve either starting with the main components and adding details or starting with the smaller components and working up to the larger ones. It is suggested that the system be integrated incrementally to facilitate error localization.
 
 
