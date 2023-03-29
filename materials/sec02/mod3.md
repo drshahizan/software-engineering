@@ -38,6 +38,7 @@ However, RSD can also present some challenges, such as the need for effective co
 
 Overall, rapid software development is a flexible and adaptable approach to software development that can help teams deliver high-quality software quickly and efficiently while responding to changing requirements and customer needs.
 
+
 ## Agile Development
 Agile development is an approach to software development that emphasizes collaboration, flexibility, and continuous improvement. 
 It is a subset of the Agile methodology and is characterized by short development cycles, frequent releases, and a focus on delivering value 
@@ -127,6 +128,7 @@ timeline
 
 • Quality is measured by adherence to the plan and specifications
 
+
 ### Agile Development:
 
 • Emphasizes flexibility and adaptability
@@ -156,6 +158,8 @@ changing requirements or a high degree of innovation.
 
 ## Agile Methods
 
+![agile-methodology-chicago](https://user-images.githubusercontent.com/128196055/228456786-59cea47d-a27c-42a2-b7af-0cd8fcc9aac1.png)
+
 Agile methods are a set of practices and values used in Agile methodology, which is an iterative and 
 collaborative approach to project management. Agile methods are designed to help teams deliver high quality products quickly and efficiently, while continuously adapting to changing requirements and 
 feedback from customers.
@@ -176,6 +180,7 @@ teams to respond quickly to changing requirements and customer needs while deliv
 products on time and within budget.
 
 ## Agile Manifesto
+
 
 The Agile Manifesto is a set of guiding values and principles for Agile software development. It 
 was created by a group of software developers in 2001 as a response to the limitations of 
