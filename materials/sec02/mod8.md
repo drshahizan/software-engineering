@@ -31,9 +31,9 @@ Click [here](https://drive.google.com/drive/folders/1fFqVSa7WdQ2Uet0UdvbQcALUVcq
 
 <p align="center"><img src="https://goktl.com/wp-content/uploads/2021/02/validation_verification.png" alt="Verification and Validation" width="800"> </p>
   
-Verification: The process of evaluating a software system or component to determine whether                 it meets the specified requirements and standards.
+**Verification** : The process of evaluating a software system or component to determine whether it meets the specified requirements and standards.
 
-Validation: The process of evaluating a software system or component during or at the end of               the development process to determine whether it satisfies the customer or end-user             requirements.
+**Validation** : The process of evaluating a software system or component during or at the end of the development process to determine whether it satisfies the customer or end-user requirements.
 
 #### Goals : 
 
