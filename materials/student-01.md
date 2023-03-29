@@ -22,7 +22,7 @@ Don't forget to hit the :star: if you like this repo.
 | 9 | KOH LI HUI | kohlihui | [:octocat:](https://github.com/kohlihui) |
 | 10 | LEE SOON DER | LeeSoonDer | [:octocat:](https://github.com/LeeSoonDer) |
 | 11 | LIM JING YONG | Jingyong14 | [:octocat:](https://github.com/Jingyong14) |
-| 12 | LOO JIA CHANG | | [:octocat:](https://github.com/) |
+| 12 | LOO JIA CHANG | 	jcl03 | [:octocat:](https://github.com/jcl03) |
 | 13 | LOW JIE SHENG | jiesheng4616 | [:octocat:](https://github.com/jiesheng4616) |
 | 14 | LOW YING XI | lowyingxi | [:octocat:](https://github.com/lowyingxi) |
 | 15 | MARCUS JOEY SAYNER | | [:octocat:](https://github.com/) |
@@ -30,16 +30,15 @@ Don't forget to hit the :star: if you like this repo.
 | 17 | NEO ZHENG WENG | zw-weng | [:octocat:](https://github.com/zw-weng) |
 | 18 | NG SHU YU | ShuYu03 | [:octocat:](https://github.com/ShuYu03) |
 | 19 | NICOLE LIM TZE YEE | nicolelimty | [:octocat:](https://github.com/nicolelimty) |
-| 20 | NURFARRAHIN BINTI CHE ALIAS | | [:octocat:](https://github.com/) |
-| 21 | SOH HAN WEI | wei2030 | [:octocat:](https://github.com/wei2030) |
-| 22 | TAN JUN YUAN | TanJunYuan03 | [:octocat:](https://github.com/TanJunYuan03) |
-| 23 | TIEW CHUAN RONG | | [:octocat:](https://github.com/) |
-| 24 | TIEW CHUAN SHEN | 	tiewshen | [:octocat:](https://github.com/tiewshen) |
-| 25 | WONG JUN JI | | [:octocat:](https://github.com/) |
-| 26 | WONG KHAI SHIAN NICHOLAS | | [:octocat:](https://github.com/) |
-| 27 | WONG QIAO YING | alovey1014 | [:octocat:](https://github.com/alovey1014) |
-| 28 | YEOH CHONG YI | | [:octocat:](https://github.com/) |
-| 29 | YONG WERN JIE | | [:octocat:](https://github.com/) |
+| 20 | SOH HAN WEI | wei2030 | [:octocat:](https://github.com/wei2030) |
+| 21 | TAN JUN YUAN | TanJunYuan03 | [:octocat:](https://github.com/TanJunYuan03) |
+| 22 | TIEW CHUAN RONG | | [:octocat:](https://github.com/) |
+| 23 | TIEW CHUAN SHEN | 	tiewshen | [:octocat:](https://github.com/tiewshen) |
+| 24 | WONG JUN JI | | [:octocat:](https://github.com/) |
+| 25 | WONG KHAI SHIAN NICHOLAS | | [:octocat:](https://github.com/) |
+| 26 | WONG QIAO YING | alovey1014 | [:octocat:](https://github.com/alovey1014) |
+| 27 | YEOH CHONG YI | | [:octocat:](https://github.com/) |
+| 28 | YONG WERN JIE | | [:octocat:](https://github.com/) |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
