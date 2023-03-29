@@ -28,18 +28,18 @@ This course is designed to give students an introduction to an engineering appro
 
 | Weekly | Module | Description | 
 | :-----: | ------ | ------ |
-| 1 | [1: Introduction to Software Engineering](./materials/sec01/mod1.md) | Software definition, software engineering as a layered technology, types of software, inherent difficulties in software engineering, SE quality focus, Documentation Standard.|
-| 2 | [2: Software Process Model](./materials/mod2.md) | Plan Driven or Agile Process Model, general software process model waterfall, incremental, reuse oriented, software process model which cope with change spiral model and Rational Unified Process |
-| 3 | [3: Agile Software Development](./materials/mod3.md) | Agile methods, Agile development techniques, Agile project management, scaling Agile methods |
-| 4 | [4: Requirements Engineering](./materials/mod4.md) | Types of requirements, functional and non-functional requirements, requirements specification, requirements engineering processes |
-| 5 | [5: Requirements Analysis and modelling ME](./materials/mod5.md)  | Use case modelling and specification, domain modelling, activity diagram, sequence diagram, state chart/state machine diagram |
+| 1 | [1: Introduction to Software Engineering](./materials/sec02/mod1.md) | Software definition, software engineering as a layered technology, types of software, inherent difficulties in software engineering, SE quality focus, Documentation Standard.|
+| 2 | [2: Software Process Model](./materials/sec02/mod2.md) | Plan Driven or Agile Process Model, general software process model waterfall, incremental, reuse oriented, software process model which cope with change spiral model and Rational Unified Process |
+| 3 | [3: Agile Software Development](./materials/sec02/mod3.md) | Agile methods, Agile development techniques, Agile project management, scaling Agile methods |
+| 4 | [4: Requirements Engineering](./materials/sec02/mod4.md) | Types of requirements, functional and non-functional requirements, requirements specification, requirements engineering processes |
+| 5 | [5: Requirements Analysis and modelling ME](./materials/sec02/mod5.md)  | Use case modelling and specification, domain modelling, activity diagram, sequence diagram, state chart/state machine diagram |
 | 6 | | **Industry Day I:** Project requirement sharing. |
 | 7 | | **MID-SEMESTER BREAK** |
 | 8 | | Software Engineering project – Requirements analysis and models.  Produce requirements document* that includes all the required analysis models |
-| 9 | [6: Architectural Design](./materials/mod6.md) | Architectural design and detailed design, Architectural design decision, architectural view, component diagram in relation to architectural view, architectural pattern: Model-View-Controller (MVC), layered, repository, client server and pipe filter |
-| 10 | [7: Object-Oriented Detailed Design](./materials/mod7.md) | Relationships among analysis, design and implementation, object-oriented design using UML, object-oriented design principles, elaborating UML diagrams from analysis.|
+| 9 | [6: Architectural Design](./materials/sec02/mod6.md) | Architectural design and detailed design, Architectural design decision, architectural view, component diagram in relation to architectural view, architectural pattern: Model-View-Controller (MVC), layered, repository, client server and pipe filter |
+| 10 | [7: Object-Oriented Detailed Design](./materials/sec02/mod7.md) | Relationships among analysis, design and implementation, object-oriented design using UML, object-oriented design principles, elaborating UML diagrams from analysis.|
 | 11 | | Software Engineering project – Design model. Produce design document* that includes all the required design models |
-| 12 | [8: Software verification, validation and testing](./materials/mod8.md)  | Introduction to verification and validation, verification and validation planning, software inspections. System testing, Component testing, Test case design, Test Case Design using Black-box and white box |
+| 12 | [8: Software verification, validation and testing](./materials/sec02/mod8.md)  | Introduction to verification and validation, verification and validation planning, software inspections. System testing, Component testing, Test case design, Test Case Design using Black-box and white box |
 | 13 | | Software Engineering project – Test case design. Produce testing document* that includes all the required test cases |
 | 14 | | **TENTATIVE - ALTERNATIVE ASSESSMENT (TBC)**|
 | 15 | | **Industry Day II:** Project demonstration and hand over. |
