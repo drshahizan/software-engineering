@@ -75,6 +75,27 @@ There are several techniques used for V&V, including:
 7. V&V is not a one-time activity, but an ongoing process that continues even after the software system has been deployed and is in use. Maintenance activities, such as bug fixes and updates, should also be subject to V&V to ensure that they do not introduce new defects or issues into the system.
 
 
+#Verification [ Inspection (static) ] and Validation [Testing (Dynamic) ]
+
+##Inspections vs Dynamic Testing
+Inspections are a static process that may recognize errors before the code is executed, making it simpler to isolate and identify specific errors. Incomplete versions of a system can be examined for free, whereas dynamic testing requires specialised tests that must be linked. Inspections can look at a programme's overall quality characteristics, such as standard compliance, portability, and maintainability.
+
+##Stages of Testing
+4 stages of commercial software testing 
+##stage 1 : Component test 
+Component or unit testing is a form of testing that analyses individual parts of a software system. It is performed by the developer and attempts to detect errors in the functionality, boundary conditions, and error handling of the component. Individual functions or procedures, object classes, or composite components are all examples of components.
+###two kinds of component testing. 
+-Object Class Testing
+ -Interface Testing
+##stage 2:  Integration test
+Integration testing during software development involves integrating system components and testing them together to ensure proper system interaction. The testing workers, which has access to the system source code, oversees this. The purpose of integration testing is to determine whether the components are compatible, interact correctly, and transfer data across their interfaces at the appropriate moment. 
+###two common approaches for integration testing :
+-Top-down integration
+-Bottom-up integration 
+These tests involve either starting with the main components and adding details or starting with the smaller components and working up to the larger ones. It is suggested that the system be integrated incrementally to facilitate error localization.
+
+
+
 
 
 
