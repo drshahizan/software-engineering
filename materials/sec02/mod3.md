@@ -34,6 +34,7 @@ Group: Coders
 - [Agile Methods Applicability](#Agile-Methods-Applicability)
 - [Agile Development Techniques](#Agile-Development-Techniques)
 - [XP(Extreme Programming)](#XP-(Extreme-Programming))
+- [The Extreme Programming Release Cycle](#The-Extreme-Programming-Release-Cycle)
 
 ## Introduction
 ![image](https://user-images.githubusercontent.com/128228505/228555152-c7e00dba-3e16-42a1-87bc-721e62a7d303.png)
