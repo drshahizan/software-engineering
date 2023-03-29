@@ -93,7 +93,7 @@ Group XXX
 
 # ARCHITECTURAL DESIGN DECISION 
 
-## Architectural Design Decision
+## Architectural Design Decisions
 
 Architectural design decisions refer to the choices made during the process of designing a building or structure. These decisions can have a significant impact on the functionality, aesthetics, and cost-effectiveness of the building.
 
@@ -112,7 +112,7 @@ Sustainable design features: Incorporating sustainable design features such as g
 Accessibility: Designing for accessibility ensures that a building can be used by people with a wide range of abilities. This includes features such as ramps, elevators, and wide doorways.
 
 
-## Architectural Reuse 
+## Architecture Reuse 
 
 Architecture reuse refers to the practice of using existing architectural designs, components, or systems in new construction projects. The goal of architecture reuse is to improve the efficiency, cost-effectiveness, and sustainability of construction by reducing the need for new designs and components.
 
