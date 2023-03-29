@@ -336,6 +336,133 @@ The goal of XP is to produce software that meets the needs of the customer while
 
 ![extreme-programming-overview](https://user-images.githubusercontent.com/128196055/228489075-9e1d6376-26dd-4ad7-aad8-18484cf6bfe8.png)
 
+## Agile Development Techniques
+
+Agile development is an approach to software development that emphasizes flexibility, collaboration, and rapid iteration. 
+Extreme Programming (**XP**), **DSDM**, **FDD**, **RUP**, **Kanban**, **Crystal**, and **Scrum** are all software development methodologies with different approaches and techniques.
+1. **XP** (Extreme Programming)is an Agile software development methodology that focuses on rapid feedback, continuous testing and integration, and customer involvement to produce high-quality software efficiently.
+2. **DSDM** (Dynamic Systems Development Method) is an Agile software development methodology that emphasizes frequent delivery of working software, active user involvement, and prioritization of requirements based on business value to ensure that the final product meets the customer's needs.
+3. **FDD** (Feature-Driven Development) is an Agile software development methodology that focuses on creating and delivering high-quality software features in a timely and efficient manner.
+4. **RUP** (Rational Unified Process) is a comprehensive software development process framework that emphasizes iterative development, risk management, and architecture-centric approach.
+5. **Kanban** is a visual system for managing workflow. Kanban boards display the status of work items, and the team limits the amount of work in progress to improve efficiency.
+6. **Crystal** is a family of Agile software development methodologies that emphasizes teamwork, communication, and simplicity, with a focus on tailoring the process to the needs of the project based on its size, criticality, and priorities.
+7.  **Scrum** is a framework for managing and completing complex projects. Scrum emphasizes self-organizing teams and a flexible, iterative approach to development.
+
+### XP(Extreme Programming)
+
+A very influential agile method, developed in the late 1990s, that introduced a range of agile development techniques. 
+Extreme Programming (XP) also takes an ‘extreme’ approach to iterative development:
+
+o New versions may be built several times per day
+-To ensure that the code is always working and can be delivered quickly. This practice is known as continuous integration. Continuous integration is important in XP because it helps to catch errors early and ensures that the code is always in a releasable state. By integrating code changes frequently, XP teams can detect and fix errors quickly, reducing the risk of costly delays and rework later in the development process.
+
+o Increments are delivered to customers every 2 weeks
+-This is part of the practice known as "iterative and incremental development". Iterative and incremental development in XP involves breaking down the development process into small, manageable iterations or sprints. Each iteration is focused on delivering a working increment of the software that can be demonstrated to stakeholders and customers for feedback.
+By delivering increments of working software every 2 weeks, XP teams can ensure that they are building the right product for the customer and that the software meets their needs. This frequent feedback helps to reduce the risk of building software that doesn't meet the customer's expectations or requirements, which can result in costly rework later in the development process.
+
+o All tests must be run for every build and the build is only accepted if tests run successfully
+-This practice is known as "test-driven development" or TDD.
+TDD in XP involves writing tests for a specific piece of functionality before writing the code to implement it. The tests are run frequently and automatically as part of the build process to ensure that the code works as expected and meets the requirements.
+The goal of XP is to produce software that meets the needs of the customer while maximizing the value of the development effort. It emphasizes close collaboration between the development team and the customer to ensure that the software meets the customer's needs and is delivered on time and within budget.
+
+### The Extreme Programming Release Cycle
+
+![xp release cycle](https://www.google.com/url?sa=i&url=https://slideplayer.com/slide/6938506/&psig=AOvVaw2E5_QmUqTBHoKHvHnS1Hfq&ust=1680168746046000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNir_7_qgP4CFQAAAAAdAAAAABAZ)
+
+Selecting user stories is an important part of the Extreme Programming (XP) method. User stories are a way of capturing requirements from the perspective of the end-users or customers who will be using the software. XP emphasizes the importance of understanding the customer's needs and continuously delivering working software that meets those needs.
+
+The XP process typically starts with the customer or product owner identifying the user stories that are the highest priority or provide the most value. These user stories are then broken down into smaller, more manageable tasks that can be completed within a short time frame, typically one to two weeks.
+
+Once the user stories have been identified and broken down into tasks, the XP team estimates the effort required to complete each task. This helps the team to plan the work and prioritize the tasks based on their estimated effort and value to the customer.
+
+The XP team then works on developing and testing the software in short iterations, typically one to two weeks, with the goal of delivering working software at the end of each iteration. During each iteration, the team collaborates closely with the customer or product owner to ensure that the software is meeting the customer's needs and that any changes or new requirements are addressed quickly.
+
+Overall, the XP method places a strong emphasis on collaboration, communication, and feedback, with the goal of delivering high-quality software that meets the customer's needs in a timely and efficient manner.
+
+### XP and Agile Principles
+
+**Incremental development**
+Both XP and Agile emphasize the importance of delivering working software early and often, and incremental development is a key part of achieving this goal. Instead of trying to deliver a complete system all at once, incremental development breaks the development process down into smaller, more manageable pieces that can be completed and tested quickly.
+
+**Customer involvement**
+Both XP and Agile emphasize the importance of delivering working software early and often, and incremental development is a key part of achieving this goal. Instead of trying to deliver a complete system all at once, incremental development breaks the development process down into smaller, more manageable pieces that can be completed and tested quickly. The customer is involved in all stages of the development process, from planning and design to testing and deployment.
+
+**People not process**
+The principle of "people over process" is a core tenet of both Extreme Programming (XP) and Agile software development. Both XP and Agile emphasize the importance of valuing people and their interactions over rigid processes and tools. In XP, people over process means that the focus is on building a strong team of talented individuals who can work together collaboratively to deliver high-quality software. XP teams prioritize open communication, knowledge sharing, and collaboration, which are essential for building a cohesive team that can work effectively together.
+
+**Change**
+The principle of change is critical for successful software development. By prioritizing flexibility, adaptability, and collaboration, XP and Agile teams can respond quickly to changing requirements and deliver high-quality software that meets the needs of the customer in a timely and efficient manner.
+
+**Maintaining Simplicity**
+Maintaining simplicity is critical for successful software development. By prioritizing simplicity, XP and Agile teams can ensure that their software is easy to maintain, easy to modify, and easy to use, delivering high-quality software that meets the needs of the customer in a timely and efficient manner.
+
+
+### Influential XP Practices
+• Extreme programming has a technical focus and
+is not easy to integrate with management
+practice in most organizations
+• Consequently, while agile development uses
+practices from XP, the method as originally
+defined is not widely used
+
+#### Key Practices:
+These practices work together to enable XP teams to deliver high-quality software that meets the needs of the customer in a timely and efficient manner, while prioritizing collaboration, communication, and feedback.
+
+**1. User stories for specifications**
+This practice involves creating short, simple descriptions of the functionality that the software should provide, from the perspective of the end user. User stories help to ensure that the software is aligned with the needs of the customer and that the team is focused on delivering value.
+
+Example:
+1.  Identify User Roles: The team starts by identifying the different types of users who will interact with the software, such as customers, administrators, and support staff.    
+2.  Create User Stories: For each user role, the team creates a set of user stories that describe the functionality that the software should provide from the perspective of that user. For example:
+    -   As a customer, I want to be able to search for products by category so that I can quickly find what I'm looking for.
+    -   As an administrator, I want to be able to view a dashboard that shows me key metrics about the system, so that I can monitor its performance.   
+3.  Prioritize User Stories: The team works together to prioritize the user stories, based on the value they will provide to the customer and the effort required to implement them.  
+4.  Estimate Effort: The team estimates the effort required to implement each user story, using techniques such as Planning Poker or relative sizing.
+5.  Create Sprint Backlog: Based on the prioritized user stories and effort estimates, the team creates a Sprint Backlog that defines the work to be done in the upcoming sprint. 
+6.  Develop Incrementally: The team works on the Sprint Backlog, developing the software incrementally and continuously testing and integrating their work to ensure that the software is stable and meets the needs of the customer.
+
+**2. Refactoring**
+This practice involves improving the design and structure of existing code to make it more maintainable and easier to understand. Refactoring helps to reduce technical debt and improve overall code quality.
+
+Example:
+Suppose a development team is working on an e-commerce website, and they notice that the checkout process is becoming slow and cumbersome for customers. Upon investigating, they find that the checkout code is complex and difficult to understand, and it has grown over time as new features were added. They decide to refactor the checkout code to make it simpler and more maintainable.
+
+1.  Identify Opportunities for Refactoring: The team begins by reviewing the checkout code and identifying areas where it can be simplified and made more efficient.  
+2.  Prioritize Refactoring Tasks: The team works together to prioritize the refactoring tasks based on the value they will provide to the customer and the effort required to implement them. 
+3.  Develop a Plan: The team develops a plan for refactoring the checkout code, breaking the work down into smaller, manageable tasks that can be completed incrementally.
+4.  Refactor the Code: The team begins refactoring the checkout code, working in small, incremental steps to ensure that the code remains stable and functional throughout the process.
+1.  Test the Code: As the team refactors the code, they continuously test it to ensure that it remains functional and that no new bugs are introduced.
+2.  Integrate the Changes: Once the refactoring is complete, the team integrates the changes back into the main codebase and tests the entire system to ensure that everything is functioning as expected.
+
+**3. Test-First Development**
+This practice involves writing automated tests for code before writing the code itself. It helps to ensure that the code is correct and maintainable, and enables developers to refactor code with confidence.
+
+Example:
+Suppose a developer is building a function that will take two numbers and return their sum. The developer wants to use TDD to ensure that the function is correct and robust.
+Here's how the developer would use TDD to build this function:
+
+1.  Write a Test: The developer writes a test for the function, specifying what it should do and how it should behave.
+2.  Run the Test: The developer runs the test and sees that it fails, since they haven't yet written the function to perform the calculation.
+3.  Write the Code: The developer writes the function to perform the calculation, based on the requirements of the test.
+4.  Run the Test Again: The developer runs the test again and sees that it passes, indicating that the function is working correctly.
+5.  Refactor the Code: The developer reviews the code and looks for opportunities to improve it. In this case, since the code is very simple, there is no need to refactor it.
+6.  Write Additional Tests: The developer writes additional tests to ensure that the function is working correctly under different conditions. For example, they might write tests for adding negative numbers, adding decimals, or adding very large numbers.
+7.  Repeat the Cycle: The developer continues to repeat this cycle, writing tests, running them, writing code, running tests again, and refactoring as needed, until the function is complete and working correctly under all desired conditions.
+
+**4. Pair Programming**
+This practice involves improving the design and structure of existing code to make it more maintainable and easier to understand. Refactoring helps to reduce technical debt and improve overall code quality.
+
+Example:
+Suppose two developers, Alice and Bob, are working together on a feature for their software project. They decide to use pair programming to ensure that the feature is implemented correctly and to improve the overall quality of the code.
+
+1.  Set Up the Environment: Alice and Bob set up their workstations so that they can both see the same screen and keyboard. They decide who will start as the driver (the person who is typing) and who will start as the navigator (the person who is reviewing the code).    
+2.  Define the Task: Alice and Bob review the requirements for the feature they are working on and define the task that they need to complete.  
+3.  Start Programming: Alice begins typing and writing code to implement the feature, while Bob reviews the code and provides feedback and suggestions for improvement. 
+4.  Switch Roles: After a period of time, Alice and Bob switch roles, with Bob taking over as the driver and Alice becoming the navigator. This allows both developers to contribute to the code and to review each other's work.   
+5.  Refactor the Code: As they work, Alice and Bob look for opportunities to improve the code by refactoring it, simplifying it, and making it more readable.   
+6.  Test the Code: Throughout the process, Alice and Bob run tests to ensure that the code is working correctly and to catch any bugs or errors that might be introduced.   
+7.  Complete the Task: Once the feature is implemented and tested, Alice and Bob submit the code for review and integration into the main codebase.
+
 ### Agile Project Management
 
 Agile project management is an iterative and flexible approach to project management that prioritizes collaboration, rapid delivery, and adaptation to change.
