@@ -21,7 +21,7 @@ Group: Coders
 ### Contents:
 #### Notes
 
-- [**Rapid Software Development**](#Rapid-Software-Development)
+- [Rapid Software Development](#Rapid-Software-Development)
 - [Agile Development](#Agile-Development)
 - [Plan-Driven and Agile Development](#Plan-Driven-and-Agile-Development)
 - [Balance of Plan-Driven or Agile Development](#Balance-of-Plan-Driven-or-Agile-Development)
@@ -30,6 +30,7 @@ Group: Coders
 - [Agile Manifesto](Agile-Manifesto)
 - [The Principles of Agile Methods](The-Principles-of-Agile-Methods)
 - [Agile Methods Applicability](Agile-Methods-Applicability)
+- [Agile Development Techniques](Agile-Development-Techniques)
 
 ## Rapid Software Development
 
