@@ -36,6 +36,7 @@ Group: Coders
 - [XP(Extreme Programming)](#XP)
 - [The Extreme Programming Release Cycle](#The-Extreme-Programming-Release-Cycle)
 
+
 ## Introduction
 ![image](https://user-images.githubusercontent.com/128228505/228555152-c7e00dba-3e16-42a1-87bc-721e62a7d303.png)
 
@@ -332,6 +333,30 @@ The goal of XP is to produce software that meets the needs of the customer while
 
 ![extreme-programming-overview](https://user-images.githubusercontent.com/128196055/228489075-9e1d6376-26dd-4ad7-aad8-18484cf6bfe8.png)
 
+### Agile Project Management
+
+Agile project management is an iterative and flexible approach to project management that prioritizes collaboration, rapid delivery, and adaptation to change.
+
+![Agile](https://user-images.githubusercontent.com/128196055/228596440-b3dcc690-385e-417e-bb45-dca80fb32994.jpg)
+
+Key characteristics of agile project management include:
+
+- Breaking projects down into smaller, manageable parts called sprints
+- Emphasizing communication and collaboration between team members and stakeholders
+- Encouraging frequent testing and feedback to quickly -identify and address problems
+- Prioritizing delivering working software or products early and often
+- Adapting to changing requirements and priorities throughout the project
+- Continuously improving processes and practices through retrospective reviews
+
+Overall, agile project management aims to increase efficiency, productivity, and customer satisfaction by focusing on delivering value through a flexible and collaborative process.
+
+### Scrum
+
+![image01](https://user-images.githubusercontent.com/128196055/228596457-28cc6d3b-8a8b-471f-8bc0-04603293584c.jpg)
+
+### DevOps
+
+![Agile-DevOps (1)](https://user-images.githubusercontent.com/128196055/228598102-8f123f47-8390-418f-b632-5f7f707467e6.png)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
