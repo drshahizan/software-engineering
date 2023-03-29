@@ -33,7 +33,7 @@ Group: Coders
 - [The Principles of Agile Methods](#The-Principles-of-Agile-Methods)
 - [Agile Methods Applicability](#Agile-Methods-Applicability)
 - [Agile Development Techniques](#Agile-Development-Techniques)
-- [XP(Extreme Programming)](#XP-(Extreme-Programming))
+- [XP(Extreme Programming)](#XP)
 - [The Extreme Programming Release Cycle](#The-Extreme-Programming-Release-Cycle)
 
 ## Introduction
@@ -310,7 +310,7 @@ Extreme Programming (**XP**), **DSDM**, **FDD**, **RUP**, **Kanban**, **Crystal*
 6. **Crystal** is a family of Agile software development methodologies that emphasizes teamwork, communication, and simplicity, with a focus on tailoring the process to the needs of the project based on its size, criticality, and priorities.
 7.  **Scrum** is a framework for managing and completing complex projects. Scrum emphasizes self-organizing teams and a flexible, iterative approach to development.
 
-### XP(Extreme Programming)
+### XP
 
 A very influential agile method, developed in the late 1990s, that introduced a range of agile development techniques. 
 Extreme Programming (XP) also takes an ‘extreme’ approach to iterative development:
