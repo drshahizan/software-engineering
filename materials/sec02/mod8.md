@@ -10,7 +10,61 @@ Don't forget to hit the :star: if you like this repo.
 ## Module 8 : Software Verification, Validation and Testing
 
 (Click [here](https://drive.google.com/drive/folders/1fFqVSa7WdQ2Uet0UdvbQcALUVcqme6gw) for the PDF file for this module)
+## Verification and Validation ( V&V )
+  
+Verification: The process of evaluating a software system or component to determine whether                 it meets the specified requirements and standards.
 
+Validation: The process of evaluating a software system or component during or at the end of               the development process to determine whether it satisfies the customer or end-user             requirements.
+
+#### Goals : 
+
+1. Ensure that the software system meets the requirements and specifications.
+2. Detect and eliminate defects and errors in the software system.
+3. Ensure that the software system is reliable, efficient, and maintainable.
+4. Ensure that the software system is easy to use and meets the user's needs.
+
+#### Techniques:
+There are several techniques used for V&V, including:
+
+ Verification Technique:
+
+1. Prototyping
+2. Model Analysis  (can be validation)
+3. Inspection and review (Static testing)
+
+• Validation Technique:
+
+1. Software Testing (Dynamic testing)
+2. Code Inspection (Static analysis)
+
+• Independent V&V
+
+### Description
+
+1.Verification and validation are two separate but related processes. Verification is focused on ensuring that the software system meets its requirements and specifications, while validation is focused on ensuring that the software system meets the customer's needs.
+
+2.V&V is an ongoing process that starts early in the software development lifecycle and continues throughout the development process.
+
+3.V&V is essential to the development of high-quality software systems, as it helps to identify and eliminate defects and errors early in the development process, reducing the cost and time required for rework.
+
+4.V&V is often performed by a separate team from the software development team, to ensure that there is an independent and unbiased evaluation of the software system.
+
+5.V&V can be performed manually, using techniques such as reviews and testing, or it can be automated using tools and techniques such as static analysis and model checking.
+
+6.The goals, techniques, and purposes of V&V may vary depending on the type of software system being developed, the development methodology being used, and the specific requirements of the customer or end-user.
+
+7.V&V is not a one-time activity, but an ongoing process that continues even after the software system has been deployed and is in use. Maintenance activities, such as bug fixes and updates, should also be subject to V&V to ensure that they do not introduce new defects or issues into the system.
+
+
+
+
+
+
+
+
+
+
+  
 ## Test-Case Approach 1 : Requirements-Based Testing
 
 ### Requirement-Based Testing :
