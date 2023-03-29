@@ -298,6 +298,50 @@ Therefore, four layer architecture consists of :
 Partitioned subsystems is a loosely coupled subsystems, each delivering a sigle service or coherent group of services. 
 Example of partitioned subsystems is an agate campaign management system.
 
+## Repository Architecture
+
+A repository architecture consists of a central data structure (often a database) and a collection of independent components which operate on the central data structure.
+A sub-systems must exchange data that may be done in two ways :
+-	Shared data is held in a central database or repository and may be accessed by all sub-systems.
+-	Each sub-system maintains its own database and passes data explicitly to other sub-systems.
+When large amounts of data are to be shared, the repository model of sharing is most commonly used as this is an efficient data sharing mechanism.
+
+## Repository Pattern
+
+The Repository pattern is a software architecture pattern that provides a way to isolate the application's business logic from the underlying data storage technology. It is a popular pattern for designing the data access layer of an application and is commonly used in conjunction with other patterns, such as the Layered Architecture pattern.
+
+The Repository pattern is based on the principle of separation of concerns, where the data access logic is separated from the business logic of the application. The Repository acts as a mediator between the data source and the application, providing a clean and consistent interface for the application to interact with the data source. The Repository pattern also provides a way to centralize the data access logic, making it easier to maintain and modify the application.
+
+The main components of the Repository pattern are:
+
+-	Repository interface: This is an interface that defines the contract between the data access layer and the application. It defines the methods that the application can use to interact with the data source.
+-	Repository implementation: This is the implementation of the Repository interface. It provides the implementation of the methods defined in the interface and interacts with the data source to retrieve or store data.
+-	Data source: This is the underlying data storage technology, such as a database, file system, or web service.
+
+The advantages of using the Repository pattern are:
+
+-	Separation of concerns: The Repository pattern separates the data access logic from the application's business logic, making it easier to maintain and modify the application.
+-	Centralized data access logic: The Repository pattern provides a way to centralize the data access logic, making it easier to maintain and modify the application.
+-	Testability: The Repository pattern makes it easier to write unit tests for the application, as the data access logic is isolated from the application's business logic.
+-	Flexibility: The Repository pattern provides a flexible way to interact with different data sources, as the data access logic is abstracted away from the underlying data storage technology.
+
+The disadvantages of using the Repository pattern are:
+
+-	Additional complexity: The Repository pattern adds an additional layer of complexity to the application, which can make it more difficult to understand and maintain.
+-	Performance overhead: The Repository pattern can introduce performance overhead, especially if the data source is remote and the application needs to make multiple round trips to retrieve or store data.
+
+Overall, the Repository pattern is a useful pattern for designing the data access layer of an application, as it provides a way to isolate the data access logic from the business logic of the application and centralizes the data access logic, making it easier to maintain and modify the application.
+
+## Example : Repository Architecture for an IDE
+
+
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--EetJYuzI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fsjop0q5om8aeu1njkjj.png)
+
+## Example : Repository Architecture for Language Processing System
+
+![](https://slideplayer.com/slide/15253036/92/images/42/A+repository+architecture+for+a+language+processing+system.jpg)
+
+
 
 
 
