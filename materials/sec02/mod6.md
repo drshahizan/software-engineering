@@ -91,7 +91,30 @@ Group XXX
 - [Example : Pipe and Filter Used for Compiler Architecture](#example-pipe-and-filter-used-for-compiler-architecture)
 - [Key Points](#key-points)
 
+## UML Component Diagram
+A UML component diagram is a type of diagram that shows the structure of a system or application in terms of its components and the relationships between them. Components are modular parts of the system that perform specific functions and can be assembled together to create the larger system. Here are some key elements that you might see in a UML component diagram:
 
+Components: These are the building blocks of the system, representing the modular parts that perform specific functions. Each component can have its own interface, ports, and properties.
+
+Interfaces: These define the methods and services that a component provides to other components or to the outside world. Interfaces can be depicted as a small circle on the edge of a component shape.
+
+Ports: These are specific points on a component where connections can be made to other components or to the outside world. Ports can be depicted as small squares or circles on the edge of a component shape.
+
+Connectors: These represent the relationships between components, showing how they communicate and interact with each other. Connectors can be depicted as lines with arrows or other symbols to show the direction of communication.
+
+Dependencies: These show that one component depends on another component for its functionality. Dependencies can be depicted as dashed lines with an arrow pointing from the dependent component to the component it depends on.
+
+Deployment nodes: These show the physical hardware or software environment in which the system or application is deployed. Deployment nodes can be depicted as boxes or clouds with the components deployed on them.
+
+Overall, a UML component diagram provides a high-level view of the system's structure, showing how the different components interact with each other and with the outside world. It can be used to help design and communicate the system architecture to stakeholders and developers.
+
+
+
+
+
+Regenerate response
+
+ChatGPT Mar 14 Version. Free Research Preview. Our goal is to make AI systems more natural and safe to interact with. Your feedback will h
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
