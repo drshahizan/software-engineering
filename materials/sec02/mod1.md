@@ -109,6 +109,9 @@ Software engineering plays a crucial role in software development. It provides a
 
 Software engineering is the discipline of designing, developing, testing, and maintaining software systems in a systematic and structured way. It involves applying principles, methods, and tools to create high-quality software that meets user requirements, is efficient, reliable, secure, and maintainable. Software engineering covers the entire software development life cycle, from requirements gathering to design, coding, testing, deployment, and maintenance. It also includes the use of various software development methodologies, such as agile and waterfall, to manage software development projects effectively. The goal of software engineering is to produce software systems that meet user needs and are cost-effective, efficient, and scalable.
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1jhLI2blR9nvrjeU1SFleFsXWKw7_CtFXOg&usqp=CAU" width="600px">   
+
+
 ## Software Engineering as a Layered Technology
 
 Software engineering can be viewed as a layered technology, with each layer building upon the previous one. The layers include:
