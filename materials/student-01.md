@@ -26,7 +26,7 @@ Don't forget to hit the :star: if you like this repo.
 | 13 |  LOW JIE SHENG | jiesheng4616 | [:octocat:](https://github.com/jiesheng4616) |
 | 14 |  LOW YING XI | lowyingxi | [:octocat:](https://github.com/lowyingxi) |
 | 15 |  MARCUS JOEY SAYNER | | [:octocat:](https://github.com/) |
-| 16 |  MUHAMMAD DANIAL BIN AHMAD SYAHIR | | [:octocat:](https://github.com/) |
+| 16 |  MUHAMMAD DANIAL BIN AHMAD SYAHIR | daniallllllll | [:octocat:](https://github.com/daniallllllll) |
 | 17 |  NEO ZHENG WENG | zw-weng | [:octocat:](https://github.com/zw-weng) |
 | 18 |  NG SHU YU | ShuYu03 | [:octocat:](https://github.com/ShuYu03) |
 | 19 |  NICOLE LIM TZE YEE | nicolelimty | [:octocat:](https://github.com/nicolelimty) |
