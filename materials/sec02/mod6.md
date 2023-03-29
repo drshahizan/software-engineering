@@ -92,6 +92,8 @@ Group XXX
 - [Key Points](#key-points)
 
 ## UML Component Diagram
+
+UML-Unified Modelling Language
 A UML component diagram is a type of diagram that **shows the structure** of a system or application in terms of its components and the relationships between them. Components are modular parts of the system that perform specific functions and can be assembled together to create the larger system. Here are some key elements that you might see in a UML component diagram:
 
 **Components**: These are the building blocks of the system, representing the modular parts that perform specific functions. Each component can have its own interface, ports, and properties.
