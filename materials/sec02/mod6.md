@@ -234,7 +234,6 @@ Controller: The controller would act as an intermediary between the model and th
 
 The MVC architecture would allow for a clear separation of responsibilities between the different components of the dashboard application. This would make it easier to modify or extend the application without affecting the other components, and would also make it easier to maintain and understand the codebase. Additionally, the MVC architecture would allow for the reuse of components across different dashboards, improving the scalability and maintainability of the application.
 
-
 ## Layered Architecture
 
 The layered architecture style is one of the most common architectural styles. The idea behind
@@ -247,7 +246,6 @@ application can have, as the purpose is to have layers that promote the concept 
 concerns. The layered architecture style abstracts the view of the system as a whole while
 providing enough detail to understand the roles and responsibilities of individual layers and
 the relationship between them. 
-
 
 ## Layered Architecture Pattern
 
@@ -263,13 +261,9 @@ The main advantage of using the Layered Architecture pattern is that it provides
 
 However, one potential downside of the Layered Architecture pattern is that it can lead to excessive coupling between layers, especially if the layers are not well defined and do not adhere to their responsibilities strictly. Another potential downside is that it can result in an increase in the number of layers, which can lead to an increase in complexity and difficulty in maintaining the application.
 
-
-
 ## Generic Layered Architecture
 
 ![]( https://csis.pace.edu/~marchese/SE616_New/L6/L6_files/image008.png )
-
-
 
 ## Example : Architecture of iLearn System
 
@@ -277,7 +271,6 @@ Presentation layer : Browse-based user interface, iLearn app
 Configuration services layer : Group management, Application management, Identity management
 Application services layer : Email, Messaging, Video conferencing, Newspaper archive, Word processing, Simulation, Video storage, Resource finder, Spreadsheet, Virtual learning environment, History archive
 Utility services layer : Authentication, Logging and monitoring, Interfacing, User storage, Application storage, Search
-
 
 ## Example : Architecture of Mentcare System
 
