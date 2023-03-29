@@ -23,7 +23,7 @@ Don't forget to hit the :star: if you like this repo.
    
    2.3 [Spiral model: coping with change](#spiral-model)
 
-   2.4 [Reuse-oriented model](#reuseoriented-model)
+   2.4 [Reuse-oriented model](#reuse-oriented-model)
 
    2.5 [The Rational Unified Process (RUP)](#the-rational-unified-process-rup)
 
