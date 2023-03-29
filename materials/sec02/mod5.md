@@ -69,10 +69,10 @@ In Unified Modeling Language (UML), stereotypes are a way of extending the basic
 
 Stereotypes are a useful tool in UML modeling because they allow developers to extend the basic modeling elements and provide additional information or semantics. By using stereotypes, developers can create more detailed and accurate models that better reflect the complexity of the systems they are designing. However, it is important to use stereotypes judiciously and to ensure that they are properly understood by all stakeholders involved in the modeling process.
 
- ##STRUCTURAL MODEL
+ ## STRUCTURAL MODEL
 A structural model is a simplified representation of a physical system or structure that is used to study its behavior and predict its response to various stimuli or inputs. It can be in the form of a mathematical, physical, or conceptual model, and is widely used in engineering and science to design, analyze, and improve the performance of complex systems. By analyzing the response of the model to different inputs, engineers can identify potential weaknesses or failure modes in the system, and make changes to improve its safety, reliability, or efficiency. Overall, a structural model is a crucial tool for understanding and predicting the behavior of physical systems.
     
-    A domain model class diagram is a type of diagram used in software engineering and design to depict the classes and relationships between objects in a system. It represents the concepts, relationships, and rules of a particular domain, and is typically used to support communication between software developers and domain experts.
+A domain model class diagram is a type of diagram used in software engineering and design to depict the classes and relationships between objects in a system. It represents the concepts, relationships, and rules of a particular domain, and is typically used to support communication between software developers and domain experts.
 
 The notation used in a domain model class diagram is similar to that used in a UML (Unified Modeling Language) class diagram, but with some additional conventions specific to domain modeling. Some of the key elements of a domain model class diagram and their notation are:
 
@@ -85,7 +85,7 @@ Inheritance: A solid line with an open arrowhead pointing from the subclass to t
 Composition: A diamond shape at the end of an association line pointing to the class that is composed of the other class.
 These elements and notations are used to create a visual representation of the domain model, showing the classes, attributes, methods, relationships, and rules that define the domain being modeled.
     
-    Class stereotypes are predefined characteristics applied to classes to indicate their roles in a system.
+Class stereotypes are predefined characteristics applied to classes to indicate their roles in a system.
 Some common types of class stereotypes are:
 Entity: representing a persistent object that is stored in a database.
 Boundary: representing the interface between the system and external actors or systems.
