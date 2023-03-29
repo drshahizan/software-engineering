@@ -34,7 +34,7 @@ Don't forget to hit the :star: if you like this repo.
 | 21 | SOH HAN WEI | wei2030 | [:octocat:](https://github.com/wei2030) |
 | 22 | TAN JUN YUAN | TanJunYuan03 | [:octocat:](https://github.com/TanJunYuan03) |
 | 23 | TIEW CHUAN RONG | | [:octocat:](https://github.com/) |
-| 24 | TIEW CHUAN SHEN | | [:octocat:](https://github.com/) |
+| 24 | TIEW CHUAN SHEN | 	tiewshen | [:octocat:](https://github.com/tiewshen) |
 | 25 | WONG JUN JI | | [:octocat:](https://github.com/) |
 | 26 | WONG KHAI SHIAN NICHOLAS | | [:octocat:](https://github.com/) |
 | 27 | WONG QIAO YING | alovey1014 | [:octocat:](https://github.com/alovey1014) |
