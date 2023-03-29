@@ -334,12 +334,48 @@ Overall, the Repository pattern is a useful pattern for designing the data acces
 
 ## Example : Repository Architecture for an IDE
 
-
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--EetJYuzI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fsjop0q5om8aeu1njkjj.png)
 
 ## Example : Repository Architecture for Language Processing System
 
 ![](https://slideplayer.com/slide/15253036/92/images/42/A+repository+architecture+for+a+language+processing+system.jpg)
+
+## Client-Server Architecture
+
+The client-server architecture refers to a system that hosts, delivers, and manages most of the resources and services that the client requests. In this model, all requests and services are delivered over a network, and it is also referred to as the networking computing model or client server network. 
+A client-server architecture is a distributed system model which shows how data and processing is distributed across a range of components. It can be implemented on a single computer.
+This type of architecture is a set of stand-alone servers which provide specific services such as printing, data management, etc. It has set of clients which call on these services and a network which allows the clients to access servers.
+
+## Client-Server Pattern
+
+Client-server architecture is a software architecture pattern that divides an application into two separate parts, a client and a server, which communicate with each other over a network. In this pattern, the client is responsible for presenting the user interface to the user and sending requests to the server, while the server is responsible for processing the requests and returning responses.
+
+The client-server architecture pattern is widely used in distributed computing environments, where the client and server may be located on different computers, or even in different geographical locations. This pattern provides a way to distribute the processing load of an application across multiple servers, which can improve performance and scalability.
+
+The main components of the client-server architecture pattern are:
+
+-	Client: The client is the application or device that interacts with the user and sends requests to the server. The client can be a web browser, mobile app, desktop application, or any other application that communicates with the server.
+-	Server: The server is the application or device that processes the requests from the client and sends responses back to the client. The server can be a web server, application server, database server, or any other server that provides services to the client.
+-	Network: The network is the communication medium that connects the client and server. The network can be a local area network (LAN), wide area network (WAN), or the internet.
+
+The advantages of using the client-server architecture pattern are:
+
+-	Scalability: The client-server architecture pattern provides a way to distribute the processing load of an application across multiple servers, which can improve performance and scalability.
+-	Flexibility: The client-server architecture pattern provides a flexible way to design and develop applications, as the client and server can be developed independently and can be located on different platforms or devices.
+-	Security: The client-server architecture pattern provides a way to implement security mechanisms, such as authentication and encryption, to protect the communication between the client and server.
+-	Maintenance: The client-server architecture pattern provides a way to maintain and upgrade the application components independently, without affecting the other components.
+
+The disadvantages of using the client-server architecture pattern are:
+
+-	Network dependency: The client-server architecture pattern relies on the network to communicate between the client and server, which can introduce network latency and affect the application's performance.
+-	Complexity: The client-server architecture pattern can be more complex than other architectures, as it involves multiple components and requires additional mechanisms, such as load balancing and caching, to manage the communication between the client and server.
+
+Overall, the client-server architecture pattern is a useful pattern for designing distributed applications, as it provides a way to distribute the processing load across multiple servers, improve performance and scalability, and implement security mechanisms to protect the communication between the client and server.
+
+## Example : Client-Server Architecture for Film Library
+
+![]( https://csis.pace.edu/~marchese/SE616_New/L6/L6_files/image014.png )
+
 
 
 
