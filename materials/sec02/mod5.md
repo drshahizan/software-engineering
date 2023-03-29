@@ -70,7 +70,39 @@ In Unified Modeling Language (UML), stereotypes are a way of extending the basic
 Stereotypes are a useful tool in UML modeling because they allow developers to extend the basic modeling elements and provide additional information or semantics. By using stereotypes, developers can create more detailed and accurate models that better reflect the complexity of the systems they are designing. However, it is important to use stereotypes judiciously and to ensure that they are properly understood by all stakeholders involved in the modeling process.
 
 
- 
+ ## BEHAVIORAL MODEL
+    
+A behavioral model is *a type of model that describes or predicts the behavior of a system or process*. In the context of psychology and sociology, a behavioral model is a theoretical framework that explains human behavior based on observable actions and responses to **stimuli**.
+
+In a simple way to understand, behavioral model is a way of describing how people or animals act in certain situations. It tries to explain why we behave the way we do and what factors influence our behavior. For example, if we see someone crying, we might assume that they are sad and try to comfort them. This is because we have learned through experience that crying is often a sign of sadness. Behavioral models help us understand why we behave in certain ways and predict how we might behave in the future.
+
+### Data-Driven Modeling
+
+Data-driven modeling is an approach to modeling that uses data as the primary source of information for building models. In this approach, models are developed based on patterns and relationships found within the data, rather than relying solely on theoretical assumptions or expert knowledge.
+
+   <p align="center"><img src="https://www.researchgate.net/publication/355490376/figure/fig1/AS:1082505562193925@1635100846915/Illustration-of-the-data-driven-modeling-and-optimization-approach-5-6.png" width="500">  </p>
+
+For example, a company may use data-driven modeling to predict customer behavior and develop targeted marketing campaigns. They could collect data on customer demographics, purchasing history, and online behavior, and then use machine learning algorithms to identify patterns and relationships within the data. From this analysis, they could develop a predictive model that forecasts which customers are most likely to purchase a particular product or service.
+
+### Activity Diagram
+
+An activity diagram is a visual representation of a process or workflow, using symbols and arrows to show the sequence of activities and decision points involved. It is a type of flowchart that can help you understand the steps involved in a process, and identify any bottlenecks or areas for improvement.
+
+In an activity diagram, the process is broken down into a series of activities, represented by rectangular boxes. The activities are connected by arrows that show the sequence in which they occur. Decision points are represented by diamond-shaped boxes, with multiple arrows branching out to show the different paths that the process can take based on the outcome of the decision.
+
+Some common elements of an activity diagram include:
+
+1.  Initial and final nodes: These represent the start and end points of the process or activity.
+    
+2.  Action states: These represent specific actions or activities that are performed during the process.
+    
+3.  Decision points: These are represented by diamond-shaped nodes and represent decision points where the flow of control may diverge based on a condition or decision.
+    
+4.  Fork and join nodes: These are used to represent parallel processing or concurrency in the process flow.
+    
+5.  Swimlanes: These are used to group related activities or actions according to the roles or departments responsible for performing them.
+
+   <p align="center"><img src="https://online.visual-paradigm.com/images/tutorials/activity-diagram-tutorial/02-activity-diagram-samples-explained.png" width="500">  </p>
 
 
 
