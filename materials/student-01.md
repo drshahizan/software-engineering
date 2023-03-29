@@ -32,7 +32,7 @@ Don't forget to hit the :star: if you like this repo.
 | 19 |  NICOLE LIM TZE YEE | nicolelimty | [:octocat:](https://github.com/nicolelimty) |
 | 20 |  NURFARRAHIN BINTI CHE ALIAS | | [:octocat:](https://github.com/) |
 | 21 |  SOH HAN WEI | wei2030 | [:octocat:](https://github.com/wei2030) |
-| 22 |  TAN JUN YUAN | | [:octocat:](https://github.com/) |
+| 22 |  TAN JUN YUAN | TanJunYuan03 | [:octocat:](https://github.com/TanJunYuan03) |
 | 23 |  TIEW CHUAN RONG | | [:octocat:](https://github.com/) |
 | 24 |  TIEW CHUAN SHEN | | [:octocat:](https://github.com/) |
 | 25 |  WONG JUN JI | | [:octocat:](https://github.com/) |
