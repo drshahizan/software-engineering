@@ -377,6 +377,51 @@ Overall, the client-server architecture pattern is a useful pattern for designin
 ![]( https://csis.pace.edu/~marchese/SE616_New/L6/L6_files/image014.png )
 
 
+## Pipe and Filter Architecture
+
+Pipe and Filter is another architectural pattern, which has independent entities called filters (components) which perform transformations on data and process the input they receive, and pipes, which serve as connectors for the stream of data being transformed, each connected to the next component in the pipeline.
+Functional transformations which process inputs to produce outputs and it may be referred to as a pipe and filter model (as in UNIX shell). Variants of this approach are very common. When transformations are sequential, this is a batch sequential model which is extensively used in data processing systems. This architecture is not really suitable for interactive systems.
+
+## Pipe and Filter Pattern
+
+The pipe and filter architecture pattern is a software architecture pattern that is used to process a stream of data. In this pattern, data flows through a series of filters that perform specific operations on the data. Each filter takes input data from a previous filter, performs its processing, and then passes the output data to the next filter in the pipeline. The filters are connected by pipes, which are used to transfer data from one filter to the next.
+
+The main components of the pipe and filter architecture pattern are:
+
+-	Pipes: Pipes are channels through which data is transferred from one filter to the next. Each filter has an input pipe and an output pipe.
+-	Filters: Filters are software components that perform a specific operation on the data that passes through them. Examples of filters include parsers, sorters, converters, and validators.
+-	Source: The source is the component that produces the data that is processed by the filters. The source can be a file, database, network stream, or any other source of data.
+-	Sink: The sink is the component that receives the final output of the filter pipeline. The sink can be a file, database, network stream, or any other destination for the data.
+
+The advantages of using the pipe and filter architecture pattern are:
+
+-	Scalability: The pipe and filter architecture pattern can be easily scaled by adding more filters to the pipeline or by running multiple instances of the same filter in parallel.
+-	Flexibility: The pipe and filter architecture pattern provides a flexible way to design and develop applications, as filters can be developed independently and can be combined in different ways to create different pipelines.
+-	Reusability: Filters can be reused in different pipelines or in different applications, which can save development time and reduce maintenance costs.
+-	Testability: Each filter can be tested independently, which makes it easier to identify and fix bugs in the pipeline.
+
+The disadvantages of using the pipe and filter architecture pattern are:
+
+-	Overhead: The pipe and filter architecture pattern can introduce additional overhead due to the communication between filters and the data transfer between pipes.
+-	Performance: The performance of the pipeline can be affected by the processing time of each filter and the data transfer rate between filters.
+-	Complexity: The pipe and filter architecture pattern can be more complex than other architectures, as it involves multiple components and requires additional mechanisms, such as synchronization and error handling, to manage the data flow between filters.
+
+Overall, the pipe and filter architecture pattern is a useful pattern for processing streams of data, as it provides a way to create flexible and scalable pipelines of filters that can be combined in different ways to perform different operations on the data.
+
+## Example : Pipe and Filter Architecture Used in Payments System
+
+![]( https://cs.ccsu.edu/~stan/classes/CS410/Notes16/images/06-pipe_filters_architecture.png )
+
+## Example : Pipe and Filter Used for Compiler Architecture
+
+![]( https://image3.slideserve.com/5771332/a-pipe-and-filter-compiler-architecture-l.jpg)
+
+## Key Points
+
+-	A software architecture is a description of how a software system is organized.
+-	Architectural design decisions include decisions on the type of application, the distribution of the system, the architectural styles to be used.
+-	Architectures may be documented from several different perspectives or views such as a conceptual view, a logical view, a process view, and a development view.
+-	Architectural patterns are a means of reusing knowledge about generic system architectures. They describe the architecture, explain when it may be used and describe its advantages and disadvantages.
 
 
 
