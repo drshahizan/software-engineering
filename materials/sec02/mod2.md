@@ -37,6 +37,8 @@ Group 2
    2.4 [Reuse-oriented model](#reuse-oriented-model)
 
    2.5 [The Rational Unified Process (RUP)](#the-rational-unified-process-rup)
+   
+   2.6 [Software Prototyping](#software-prototyping)
 
 ## What is software process❓
 
