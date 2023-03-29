@@ -77,7 +77,7 @@ Group XXX
 - [Example : Architecture of iLearn System](#example-architecture-of-ilearn-system)
 - [Example : Architecture of Mentcare System](#example-layered-of-mentcare-system)
 - [Three and Four Layer Architectures](#three-and-four-layer-architecture)
-- [Example : Partiotioned Subsytems in Four Layer Architecture](#example-partiontioned-subsytems-in-four-layer-architecture)
+- [Example : Partitioned Subsytems in Four Layer Architecture](#example-partitioned-subsytems-in-four-layer-architecture)
 - [Repository Architecture](#repository-architecture)
 - [Repository Pattern](#repository-pattern)
 - [Example : Repository Architecture for an IDE](#example-repository-architecture-for-an-IDE)
