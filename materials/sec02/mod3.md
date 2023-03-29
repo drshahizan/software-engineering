@@ -38,6 +38,8 @@ However, RSD can also present some challenges, such as the need for effective co
 
 Overall, rapid software development is a flexible and adaptable approach to software development that can help teams deliver high-quality software quickly and efficiently while responding to changing requirements and customer needs.
 
+![Rapid-application-development](https://user-images.githubusercontent.com/128196055/228461054-7cc859e0-3191-4db8-9dae-6b31dc17412a.png)
+
 
 ## Agile Development
 Agile development is an approach to software development that emphasizes collaboration, flexibility, and continuous improvement. 
