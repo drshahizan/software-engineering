@@ -70,23 +70,7 @@ In Unified Modeling Language (UML), stereotypes are a way of extending the basic
 Stereotypes are a useful tool in UML modeling because they allow developers to extend the basic modeling elements and provide additional information or semantics. By using stereotypes, developers can create more detailed and accurate models that better reflect the complexity of the systems they are designing. However, it is important to use stereotypes judiciously and to ensure that they are properly understood by all stakeholders involved in the modeling process.
 
 
- CLASS DIAGRAM: STRUCTURAL MODEL   
-    
-    Requirements analysis and modeling are crucial aspects of software engineering that help ensure the development of high-quality software systems. In this context, structural modeling refers to the process of representing the structure of the software system being developed. Here are some important notes to keep in mind regarding requirements analysis and structural modeling in software engineering:
-
-Requirements analysis: This is the process of gathering, analyzing, and documenting the needs and constraints of the software system being developed. It involves identifying the stakeholders, understanding their requirements, and documenting these requirements in a clear and concise manner. Effective requirements analysis is essential for ensuring that the software system meets the needs of its users.
-
-Structural modeling: This involves creating a graphical representation of the structure of the software system being developed. This can include diagrams such as class diagrams, component diagrams, and deployment diagrams. Structural modeling helps to identify the components of the system, their relationships, and the interactions between them.
-
-Object-oriented modeling: This is a popular approach to structural modeling that involves representing the system as a collection of objects that interact with each other. Object-oriented modeling is based on the principles of encapsulation, inheritance, and polymorphism, and is widely used in software engineering.
-
-Unified Modeling Language (UML): UML is a standardized notation for modeling software systems, and is widely used in software engineering. UML includes a variety of diagrams for representing different aspects of a software system, including class diagrams, use case diagrams, sequence diagrams, and activity diagrams.
-
-Benefits of modeling: Structural modeling can help identify design flaws early in the development process, and can also help ensure that the software system meets the requirements of its users. Modeling can also improve communication among stakeholders and help ensure that everyone involved in the development process has a clear understanding of the system being developed.
-
-Limitations of modeling: While modeling can be an effective tool for software development, it does have some limitations. Models can be complex and difficult to understand, and may not always accurately represent the system being developed. Additionally, models can become outdated over time, and may not reflect changes in the system as it evolves.
-
-In summary, requirements analysis and modeling are essential components of software engineering, and can help ensure the development of high-quality software systems. Structural modeling is a powerful tool for representing the structure of a software system, and can help identify design flaws early in the development process. However, it is important to keep in mind the limitations of modeling, and to use it in conjunction with other development methodologies to ensure the success of the software development project.
+ 
 
 
 
