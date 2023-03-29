@@ -152,8 +152,6 @@ The flow of data in the MVC pattern for a web application is as follows: the use
 
 By separating the application into these three components, the MVC pattern allows for a clear separation of responsibilities, making it easier to maintain and extend the application over time. The model can be updated independently of the view and controller, the view can be updated independently of the model and controller, and the controller can be updated independently of the model and view. This makes it easier to develop, test, and maintain each component of the application separately, which ultimately results in a more robust and maintainable application.
 
-![](https://media.cheggcdn.com/media/06e/06e33833-d852-42f1-8a73-4f6bf1919024/php6EqJQo.png)
-
 ## Example : MVC Architecture Used for a Dashboard
 
 The Model-View-Controller (MVC) architecture can be used for a dashboard application in the following way:
