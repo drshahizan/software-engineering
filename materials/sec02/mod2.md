@@ -107,9 +107,12 @@ A software process model describes the **sequence** in which the phases of the s
 
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
+<!---
+Module 2: Software Process Model
 
-You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+Group 2
+1. NAVACHANDER NAVASANTAR, matrix no
+2. ONG YI YAN, A22EC0101
+3. CHE MARHUMI BIN CHE AB RAHIM, matrix no
 
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
-
+-->
