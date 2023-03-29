@@ -320,6 +320,7 @@ Extreme Programming (**XP**), **DSDM**, **FDD**, **RUP**, **Kanban**, **Crystal*
 
 A very influential agile method, developed in the late 1990s, that introduced a range of agile development techniques. 
 Extreme Programming (XP) also takes an ‘extreme’ approach to iterative development:
+
 o New versions may be built several times per day
 -To ensure that the code is always working and can be delivered quickly. This practice is known as continuous integration. Continuous integration is important in XP because it helps to catch errors early and ensures that the code is always in a releasable state. By integrating code changes frequently, XP teams can detect and fix errors quickly, reducing the risk of costly delays and rework later in the development process.
 
@@ -336,39 +337,6 @@ The goal of XP is to produce software that meets the needs of the customer while
 
 ![extreme-programming-overview](https://user-images.githubusercontent.com/128196055/228489075-9e1d6376-26dd-4ad7-aad8-18484cf6bfe8.png)
 
-## Agile Development Techniques
-
-Agile development is an approach to software development that emphasizes flexibility, collaboration, and rapid iteration. 
-Extreme Programming (**XP**), **DSDM**, **FDD**, **RUP**, **Kanban**, **Crystal**, and **Scrum** are all software development methodologies with different approaches and techniques.
-1. **XP** (Extreme Programming)is an Agile software development methodology that focuses on rapid feedback, continuous testing and integration, and customer involvement to produce high-quality software efficiently.
-2. **DSDM** (Dynamic Systems Development Method) is an Agile software development methodology that emphasizes frequent delivery of working software, active user involvement, and prioritization of requirements based on business value to ensure that the final product meets the customer's needs.
-3. **FDD** (Feature-Driven Development) is an Agile software development methodology that focuses on creating and delivering high-quality software features in a timely and efficient manner.
-4. **RUP** (Rational Unified Process) is a comprehensive software development process framework that emphasizes iterative development, risk management, and architecture-centric approach.
-5. **Kanban** is a visual system for managing workflow. Kanban boards display the status of work items, and the team limits the amount of work in progress to improve efficiency.
-6. **Crystal** is a family of Agile software development methodologies that emphasizes teamwork, communication, and simplicity, with a focus on tailoring the process to the needs of the project based on its size, criticality, and priorities.
-7.  **Scrum** is a framework for managing and completing complex projects. Scrum emphasizes self-organizing teams and a flexible, iterative approach to development.
-
-### XP(Extreme Programming)
-
-A very influential agile method, developed in the late 1990s, that introduced a range of agile development techniques. 
-Extreme Programming (XP) also takes an ‘extreme’ approach to iterative development:
-
-o New versions may be built several times per day
--To ensure that the code is always working and can be delivered quickly. This practice is known as continuous integration. Continuous integration is important in XP because it helps to catch errors early and ensures that the code is always in a releasable state. By integrating code changes frequently, XP teams can detect and fix errors quickly, reducing the risk of costly delays and rework later in the development process.
-
-o Increments are delivered to customers every 2 weeks
--This is part of the practice known as "iterative and incremental development". Iterative and incremental development in XP involves breaking down the development process into small, manageable iterations or sprints. Each iteration is focused on delivering a working increment of the software that can be demonstrated to stakeholders and customers for feedback.
-By delivering increments of working software every 2 weeks, XP teams can ensure that they are building the right product for the customer and that the software meets their needs. This frequent feedback helps to reduce the risk of building software that doesn't meet the customer's expectations or requirements, which can result in costly rework later in the development process.
-
-o All tests must be run for every build and the build is only accepted if tests run successfully
--This practice is known as "test-driven development" or TDD.
-TDD in XP involves writing tests for a specific piece of functionality before writing the code to implement it. The tests are run frequently and automatically as part of the build process to ensure that the code works as expected and meets the requirements.
-The goal of XP is to produce software that meets the needs of the customer while maximizing the value of the development effort. It emphasizes close collaboration between the development team and the customer to ensure that the software meets the customer's needs and is delivered on time and within budget.
-
-### The Extreme Programming Release Cycle
-
-![xp release cycle](https://www.google.com/url?sa=i&url=https://slideplayer.com/slide/6938506/&psig=AOvVaw2E5_QmUqTBHoKHvHnS1Hfq&ust=1680168746046000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNir_7_qgP4CFQAAAAAdAAAAABAZ)
-
 Selecting user stories is an important part of the Extreme Programming (XP) method. User stories are a way of capturing requirements from the perspective of the end-users or customers who will be using the software. XP emphasizes the importance of understanding the customer's needs and continuously delivering working software that meets those needs.
 
 The XP process typically starts with the customer or product owner identifying the user stories that are the highest priority or provide the most value. These user stories are then broken down into smaller, more manageable tasks that can be completed within a short time frame, typically one to two weeks.
@@ -382,19 +350,24 @@ Overall, the XP method places a strong emphasis on collaboration, communication,
 ### XP and Agile Principles
 
 **Incremental development**
-Both XP and Agile emphasize the importance of delivering working software early and often, and incremental development is a key part of achieving this goal. Instead of trying to deliver a complete system all at once, incremental development breaks the development process down into smaller, more manageable pieces that can be completed and tested quickly.
+
+- Both XP and Agile emphasize the importance of delivering working software early and often, and incremental development is a key part of achieving this goal. Instead of trying to deliver a complete system all at once, incremental development breaks the development process down into smaller, more manageable pieces that can be completed and tested quickly.
 
 **Customer involvement**
-Both XP and Agile emphasize the importance of delivering working software early and often, and incremental development is a key part of achieving this goal. Instead of trying to deliver a complete system all at once, incremental development breaks the development process down into smaller, more manageable pieces that can be completed and tested quickly. The customer is involved in all stages of the development process, from planning and design to testing and deployment.
+
+- Both XP and Agile emphasize the importance of delivering working software early and often, and incremental development is a key part of achieving this goal. Instead of trying to deliver a complete system all at once, incremental development breaks the development process down into smaller, more manageable pieces that can be completed and tested quickly. The customer is involved in all stages of the development process, from planning and design to testing and deployment.
 
 **People not process**
-The principle of "people over process" is a core tenet of both Extreme Programming (XP) and Agile software development. Both XP and Agile emphasize the importance of valuing people and their interactions over rigid processes and tools. In XP, people over process means that the focus is on building a strong team of talented individuals who can work together collaboratively to deliver high-quality software. XP teams prioritize open communication, knowledge sharing, and collaboration, which are essential for building a cohesive team that can work effectively together.
+
+- The principle of "people over process" is a core tenet of both Extreme Programming (XP) and Agile software development. Both XP and Agile emphasize the importance of valuing people and their interactions over rigid processes and tools. In XP, people over process means that the focus is on building a strong team of talented individuals who can work together collaboratively to deliver high-quality software. XP teams prioritize open communication, knowledge sharing, and collaboration, which are essential for building a cohesive team that can work effectively together.
 
 **Change**
-The principle of change is critical for successful software development. By prioritizing flexibility, adaptability, and collaboration, XP and Agile teams can respond quickly to changing requirements and deliver high-quality software that meets the needs of the customer in a timely and efficient manner.
+
+- The principle of change is critical for successful software development. By prioritizing flexibility, adaptability, and collaboration, XP and Agile teams can respond quickly to changing requirements and deliver high-quality software that meets the needs of the customer in a timely and efficient manner.
 
 **Maintaining Simplicity**
-Maintaining simplicity is critical for successful software development. By prioritizing simplicity, XP and Agile teams can ensure that their software is easy to maintain, easy to modify, and easy to use, delivering high-quality software that meets the needs of the customer in a timely and efficient manner.
+
+- Maintaining simplicity is critical for successful software development. By prioritizing simplicity, XP and Agile teams can ensure that their software is easy to maintain, easy to modify, and easy to use, delivering high-quality software that meets the needs of the customer in a timely and efficient manner.
 
 
 ### Influential XP Practices
