@@ -14,7 +14,7 @@ Don't forget to hit the :star: if you like this repo.
 | 1 | BERNICE LIM JING XUAN | BerniceLimJX | [:octocat:](https://github.com/BerniceLimJX) |
 | 2 |  CAMILY TANG JIA LEI | camilytang | [:octocat:](https://github.com/camilytang) |
 | 3 |  CHAI YU TONG | Yutongchai | [:octocat:](https://github.com/Yutongchai) |
-| 4 | CHEN PYNG HAW | | [:octocat:](https://github.com/) |
+| 4 | CHEN PYNG HAW | jingyang26 | [:octocat:](https://github.com/jingyang26) |
 | 5 |  GOH JING YANG | | [:octocat:](https://github.com/) |
 | 6 |  JASLENE YU | jaslene-u | [:octocat:](https://github.com/jaslene-u) |
 | 7 |  JOSEPH LAU YEO KAI | josephlau2003 | [:octocat:](https://github.com/josephlau2003) |
