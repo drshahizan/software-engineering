@@ -78,15 +78,6 @@ Writing a system requirements specification is a critical task in software engin
 
 Overall, writing a system requirements specification requires careful planning, communication, and collaboration between stakeholders, developers, and other project team members. By following these best practices, you can ensure that the system requirements specification accurately reflects the needs of the stakeholders and provides a solid foundation for the development of the software system.
 
-
-
-
-
-
-
-
-
-
 ## USE CASE DIAGRAM : INTERACTION MODEL
 
 **INTERACTION MODEL**
@@ -191,6 +182,51 @@ Some common elements of an activity diagram include:
 
    <p align="center"><img src="https://online.visual-paradigm.com/images/tutorials/activity-diagram-tutorial/02-activity-diagram-samples-explained.png" width="500">  </p>
 
+## Software Requirements Document
+A Software Requirements Document (SRD) is a document that outlines the functional and non-functional requirements of a software system. It is a formal document that serves as a foundation for software development, providing a clear and concise understanding of what the software is expected to do and how it will function.
+An SRD typically includes the following sections:
+1.	Introduction: This section provides an overview of the software system, its purpose, and the stakeholders involved.
+2.	Functional requirements: This section describes the functional requirements of the system, including the features, user interactions, inputs and outputs, and the overall behavior of the system.
+3.	Non-functional requirements: This section describes the non-functional requirements of the system, such as performance, scalability, security, and usability.
+4.	System architecture: This section provides an overview of the system's architecture, including its components, modules, and interfaces.
+5.	System constraints: This section describes any constraints or limitations on the system, such as hardware or software limitations, regulatory requirements, or budgetary constraints.
+6.	Acceptance criteria: This section outlines the acceptance criteria for the system, including how it will be tested and evaluated.
+7.	Appendices: This section includes any additional information that is relevant to the system requirements, such as diagrams, use cases, or sample data.
+The purpose of an SRD is to provide a clear and concise understanding of the software requirements, which helps to ensure that the software system meets the needs of the stakeholders and is delivered on time and within budget. It serves as a formal agreement between stakeholders and development teams, ensuring that everyone has a common understanding of the system's requirements and expectations. Like any software document, an SRD should be regularly reviewed and updated throughout the software development lifecycle to ensure that the requirements are still relevant and accurate.
+
+## User and System Requirements
+User requirements and system requirements are two different types of requirements in software engineering that describe different aspects of a software system.
+User requirements refer to the needs, goals, and objectives of the end-users of the software system. These requirements describe what the software system should do from the perspective of the users and how it should behave. User requirements are typically elicited from user interviews, surveys, focus groups, and other techniques that involve direct engagement with the users of the software system.
+Examples of user requirements include:
+- The software must be easy to use and navigate for non-technical users.
+- The software must be available in multiple languages to accommodate global users.
+- The software must have a fast response time to prevent user frustration.
+
+System requirements, on the other hand, refer to the technical and functional specifications of the software system. These requirements describe how the software system should function and operate, including its hardware and software components, interfaces, and interactions with other systems. System requirements are typically defined by the development team and are based on the user requirements.
+Examples of system requirements include:
+- The software must be compatible with Windows 10 and macOS 11.
+- The software must be able to handle up to 10,000 simultaneous users.
+- The software must have a RESTful API for integration with other systems.
+
+Both user requirements and system requirements are important for the successful development of a software system. User requirements ensure that the software system meets the needs of its intended users, while system requirements ensure that the software system functions as intended and meets its technical and functional specifications.
+## Users of a Requirements Document
+A requirements document serves as a formal agreement between stakeholders and development teams and provides a clear and concise understanding of what the software system is expected to do, how it will function, and what its limitations are. The following are the key users of a requirements document:
+1.	Clients or Customers: Clients or customers are the primary users of a requirements document as they are the ones who require a software system to be developed. They are the ones who define their needs, requirements, and expectations from the software system. A requirements document is crucial for clients to ensure that the software system meets their business goals and objectives.
+2.	Project Managers: Project managers are responsible for overseeing the development of the software system and ensuring that the project is completed on time and within budget. They use the requirements document to monitor the progress of the project, make decisions, and allocate resources.
+3.	Development Teams: Development teams are responsible for implementing the requirements outlined in the document. They use the requirements document to understand the scope of the project, define the technical specifications, and design and develop the software system accordingly.
+4.	Quality Assurance Teams: Quality assurance teams use the requirements document to develop test plans and ensure that the software system meets the specified requirements. They use the document as a reference to ensure that the software system functions as intended.
+5.	Stakeholders: Other stakeholders such as investors, regulatory bodies, and external vendors may also use the requirements document to understand the goals and objectives of the software system and ensure that it meets their expectations.
+
+In summary, a requirements document is a critical document in software engineering that serves as a common reference point for stakeholders involved in the development of a software system. It ensures that everyone has a clear understanding of what the software system is supposed to do and how it will function, ensuring that the system meets the needs of the stakeholders and is delivered on time and within budget.
+## Requirements Document Variability
+Requirements document variability refers to the changes or modifications made to the requirements document throughout the software development life cycle. Variability can occur due to a variety of reasons such as changes in user needs, new regulations or policies, technological advancements, and feedback from stakeholders.
+The following are some common sources of requirements document variability:
+1.	Changing User Needs: User needs and expectations can change over time, which can lead to changes in the requirements document. As users gain a better understanding of what they need and want from the software system, they may request modifications to the requirements document to better align with their needs.
+2.	Technological Advancements: Technological advancements can impact the functionality and features of a software system. Changes in technology may require updates to the requirements document to ensure that the software system remains up-to-date and relevant.
+3.	Regulatory or Policy Changes: Changes in regulations or policies can impact the requirements of a software system. Compliance with new regulations or policies may require modifications to the requirements document.
+4.	Feedback from Stakeholders: Feedback from stakeholders such as clients, project managers, development teams, and quality assurance teams can result in changes to the requirements document. Stakeholder feedback can identify gaps or deficiencies in the initial requirements document and suggest modifications to ensure that the software system meets the needs of all stakeholders.
+
+It is important to manage requirements document variability carefully to avoid scope creep and ensure that the software development project stays within budget and on schedule. This can be achieved by having a well-defined change control process in place that includes documenting and tracking all changes made to the requirements document, obtaining approval from all stakeholders before implementing changes, and ensuring that changes are implemented in a timely and efficient manner.
 
 
 
