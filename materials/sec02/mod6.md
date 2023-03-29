@@ -112,6 +112,35 @@ A UML component diagram is a type of diagram that **shows the structure** of a s
 Overall, a UML component diagram provides *a high-level view of the system's structure, showing how the different components interact with each other and with the outside world*. It can be used to help design and communicate the system architecture to stakeholders and developers.
 
 
+## Architectural Patterns
+
+Architectural patterns are high-level, abstract design patterns that provide solutions to common problems that arise in software architecture. They are reusable solutions to design problems that can be applied to different systems or applications. These patterns help architects and designers to create a robust, scalable, and maintainable system by providing a proven set of guidelines and best practices. Patterns (also known as styles) are a means of representing, sharing and reusing knowledge.
+
+## Common Architectural Patterns
+
+-	Model-View-Controller (MVC)
+-	Layered
+-	Repository
+-	Client-Server
+-	Pipe and Filter
+
+## Model-View-Controller (MVC) Pattern
+
+The Model-View-Controller (MVC) pattern is a software architectural pattern that separates an application into three interconnected components: the model, the view, and the controller. The goal of the MVC pattern is to provide a clean separation of concerns between these three components, improving the modularity and maintainability of the application.
+
+The model : manages the system data and associate operation with the date
+
+The view : manages how the data is presented to the user
+
+The controller : manages user interaction and passes to the model and the view
+
+## Organization of MVC
+
+![](https://csis.pace.edu/~marchese/SE616_New/L6/L6_files/image004.png)
+
+## Web Application Architecture Using MVC
+
+![](https://www.researchgate.net/profile/Mehmet-Bakir-3/publication/332246257/figure/fig11/AS:744718996611076@1554566253833/Web-application-architecture-using-the-MVC-pattern-68.ppm)
 
 
 
