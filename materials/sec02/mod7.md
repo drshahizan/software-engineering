@@ -32,6 +32,14 @@ Link to lecture notes: [here](https://docs.google.com/presentation/d/17xkv_kk2-a
     - Sufficient : Has only necessary components (no excess) ✅
     - Cohesive   : Related components that work together ✨
 
+## Design Principles
+
+- Encapsulation         : Each object is a self-contained unit containing
+both data and program logic
+- Object reuse          : Standard objects can be used over and over again
+within a system
+- Information hiding    : Data associated with an object is not visible
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
