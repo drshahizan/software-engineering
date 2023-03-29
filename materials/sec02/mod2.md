@@ -38,8 +38,6 @@ Group 2
 
    2.5 [The Rational Unified Process (RUP)](#the-rational-unified-process-rup)
 
-   ------
-
 ## What is software process❓
 
 Software processes are the **activities for designing, implementing, and testing a software system.**
