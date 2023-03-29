@@ -24,7 +24,7 @@ There are several types of interaction models that are commonly used in software
 
 Overall, interaction models are a key tool in software engineering for understanding how different components of a system interact with each other, and for ensuring that the system is designed in a way that is efficient, effective, and user-friendly.
 
-<p align="center"><img src= "https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/1_interaction-model.jpg" width="600"/>
+<p align="center"><img src= "https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/1_interaction-model.jpg" width="400"/>
 
 Use case modeling is a type of interaction model that is commonly used in software engineering to describe the interactions between actors (such as users or other systems) and the software system. It is a visual representation of the system's functionality from the user's perspective, and it is often used to guide the development process and ensure that the system meets user requirements.
 
