@@ -22,7 +22,7 @@ Group: Coders
 #### Notes
 - [Introduction](#Introduction)
 - [Rapid Software Development](#Rapid-Software-Development)
-- [Agile Development](#Agile-Development)
+- [Agile Development](#Agile-(Development))
 - [Plan-Driven and Agile Development](#Plan-Driven-and-Agile-Development)
 - [Balance of Plan-Driven or Agile Development](#Balance-of-Plan-Driven-or-Agile-Development)
 - [Comparison between Plan-Driven and Agile Development](#Comparison-between-Plan-Driven-and-Agile-Development)
@@ -33,12 +33,12 @@ Group: Coders
 - [The Principles of Agile Methods](#The-Principles-of-Agile-Methods)
 - [Agile Methods Applicability](#Agile-Methods-Applicability)
 - [Agile Development Techniques](#Agile-Development-Techniques)
-- [XP(Extreme Programming)](#X-P-(-Extreme-Programming-))
+- [XP(Extreme Programming)](#XP(Extreme-Programming))
 
 ## Introduction
 ![image](https://user-images.githubusercontent.com/128228505/228555152-c7e00dba-3e16-42a1-87bc-721e62a7d303.png)
 
-## Rapid Software Development
+## Rapid Software (Development)
 
 ![Rapid-application-development](https://user-images.githubusercontent.com/128196055/228461054-7cc859e0-3191-4db8-9dae-6b31dc17412a.png)
 
