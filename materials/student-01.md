@@ -21,7 +21,7 @@ Don't forget to hit the :star: if you like this repo.
 | 8 |  KEK JESSLYN | | [:octocat:](https://github.com/) |
 | 9 |  KOH LI HUI | kohlihui | [:octocat:](https://github.com/kohlihui) |
 | 10 |  LEE SOON DER | LeeSoonDer | [:octocat:](https://github.com/LeeSoonDer) |
-| 11 |  LIM JING YONG | | [:octocat:](https://github.com/) |
+| 11 |  LIM JING YONG | Jingyong14 | [:octocat:](https://github.com/Jingyong14) |
 | 12 |  LOO JIA CHANG | | [:octocat:](https://github.com/) |
 | 13 |  LOW JIE SHENG | jiesheng4616 | [:octocat:](https://github.com/jiesheng4616) |
 | 14 |  LOW YING XI | lowyingxi | [:octocat:](https://github.com/lowyingxi) |
