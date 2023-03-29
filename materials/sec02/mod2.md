@@ -14,6 +14,7 @@ Group 2
 1. NAVACHANDER NAVASANTAR, matrix no
 2. ONG YI YAN, A22EC0101
 3. CHE MARHUMI BIN CHE AB RAHIM, matrix no
+4. TANG YAN QING, A22EC0109
 
 -->
 
@@ -110,8 +111,11 @@ A software process model describes the **sequence** in which the phases of the s
 <p align="center"><img src="https://user-images.githubusercontent.com/128159572/228398709-573f5a4c-5629-4826-b427-d2ae54a80be5.png" width="400"/></p>
 
 ## The Rational Unified Process (RUP)
+-  Known as the **Unified Process Model**
+-  An **iterative and incremental** software development process that emphasizes **collaboration** between stakeholders, including customers, developers, and testers, throughout the development lifecycle
+-  RUP can be **time-consuming and resource-intensive**, and may not be appropriate for **small or simple software** development projects
 
-<p align="center"><img src="https://www.toolshero.com/wp-content/uploads/2022/03/rational-unified-process-rup-example-toolshero.jpg" width="650"/></p>
+<p align="center"><img src="https://www.toolshero.com/wp-content/uploads/2022/03/rational-unified-process-rup-example-toolshero.jpg" width="600"/>
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
