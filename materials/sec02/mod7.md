@@ -42,8 +42,12 @@ Link to lecture notes: [here](https://docs.google.com/presentation/d/17xkv_kk2-a
 - Cohesion              : Measures the consistency of functions in a class ⚙️
 
 ## High Cohesion
-- High cohesion can be achieved if most of the interaction is within subsystems, rather than across subsystem boundaries
+- Can be achieved if most of the interaction is within subsystems, rather than across subsystem boundaries
 
+## Low Coupling
+- Can be achieved if a calling class or interface does not need to know anything about the internals of the called class
+
+![Cohesion and Couping](https://naiwaen.debuggingsoft.com/blog/wp-content/uploads/2014/07/2017-02-24_114927.png)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
