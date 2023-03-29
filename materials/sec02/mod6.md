@@ -91,6 +91,67 @@ Group XXX
 - [Example : Pipe and Filter Used for Compiler Architecture](#example-pipe-and-filter-used-for-compiler-architecture)
 - [Key Points](#key-points)
 
+
+# ARCHITECTURAL DESIGN DECISION 
+
+## Architectural Design Decisions
+
+Architectural design decisions refer to the choices made during the process of designing a building or structure. These decisions can have a significant impact on the functionality, aesthetics, and cost-effectiveness of the building.
+
+Some examples of architectural design decisions include:
+
+Building orientation: The orientation of a building can have a significant impact on its energy efficiency. For example, a building with large windows facing south can take advantage of natural sunlight to reduce the need for artificial lighting and heating.
+
+Material selection: The choice of building materials can impact the durability, maintenance, and aesthetic of a building. For example, using sustainable materials such as bamboo or recycled steel can reduce the environmental impact of a building.
+Space planning: The arrangement of spaces within a building can impact its functionality and efficiency. For example, designing an open floor plan can encourage collaboration and communication between occupants.
+
+Structural system: The choice of structural system can impact the cost, speed of construction, and aesthetic of a building. For example, a steel frame structure can be faster and more cost-effective to build than a traditional masonry structure.
+
+Building envelope: The design of the building envelope, including the roof, walls, and windows, can impact the building's energy efficiency, ventilation, and acoustics.
+
+Sustainable design features: Incorporating sustainable design features such as green roofs, solar panels, and rainwater harvesting systems can reduce a building's environmental impact and operating costs.
+Accessibility: Designing for accessibility ensures that a building can be used by people with a wide range of abilities. This includes features such as ramps, elevators, and wide doorways.
+
+
+## Architecture Reuse 
+
+Architecture reuse refers to the practice of using existing architectural designs, components, or systems in new construction projects. The goal of architecture reuse is to improve the efficiency, cost-effectiveness, and sustainability of construction by reducing the need for new designs and components.
+
+Some examples of architecture reuse include:
+
+Standardization of building components: Standardizing building components such as doors, windows, and HVAC systems can reduce design and construction time, as well as costs.
+
+Modular construction: Modular construction involves the use of pre-fabricated modules or components that can be assembled on-site. This can reduce construction time, costs, and waste.
+
+Adaptive reuse: Adaptive reuse involves the conversion of existing buildings or structures for new uses. This can reduce the need for new construction and preserve historic or culturally significant buildings.
+
+Design libraries: Design libraries are collections of pre-designed architectural plans and components that can be used in new construction projects. This can reduce design time and costs, as well as ensure consistency and quality.
+
+Building information modeling (BIM): BIM involves the use of digital models to design, construct, and manage buildings. BIM can facilitate architecture reuse by allowing designers to easily modify and reuse existing designs and components.
+
+By promoting architecture reuse, construction projects can become more efficient, cost-effective, and sustainable. This can also lead to greater consistency and quality in construction projects, as well as the preservation of historic and cultural landmarks.
+
+
+## Architecture and System Characteristics (Non-Functional Requirements)
+
+Architecture and system characteristics, also known as non-functional requirements, refer to the qualities or attributes that a software system or architecture should possess. These characteristics define how the system behaves or performs, rather than what it does. Here are some examples of architecture and system characteristics:
+
+Performance: This refers to the ability of a system to process a large number of transactions or requests within a given time frame. Performance characteristics include throughput, response time, and scalability.
+
+Security: This refers to the ability of a system to protect against unauthorized access or malicious attacks. Security characteristics include confidentiality, integrity, and availability.
+
+Reliability: This refers to the ability of a system to perform consistently and predictably under normal and abnormal conditions. Reliability characteristics include fault tolerance, recoverability, and availability.
+
+Maintainability: This refers to the ability of a system to be easily modified, tested, and repaired. Maintainability characteristics include modularity, testability, and simplicity.
+
+Usability: This refers to the ability of a system to be easily learned, used, and understood by its users. Usability characteristics include learnability, efficiency, and satisfaction.
+
+Interoperability: This refers to the ability of a system to communicate and work with other systems or components. Interoperability characteristics include compatibility, adaptability, and portability.
+
+Scalability: This refers to the ability of a system to handle increased workload or users without compromising performance or reliability.
+
+
+
 ## UML Component Diagram
 
 UML-Unified Modelling Language.
