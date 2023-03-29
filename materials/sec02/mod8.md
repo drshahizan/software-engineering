@@ -96,6 +96,18 @@ Integration testing during software development involves integrating system comp
 
 These tests involve either starting with the main components and adding details or starting with the smaller components and working up to the larger ones. It is suggested that the system be integrated incrementally to facilitate error localization.
 
+### stage 3: System test
+An independent testing team verifies that the entire system meets specified criteria through function tests, function interaction testing, and evaluation of non-functional attributes when undergo the process of testing an integrated system.
+#### Example of non-functional system testing test
+1. stress testing
+2. performance testing
+3. usability testing
+
+Testing also one of the process that is used to increase assurance that a system meets its requirements before it is released. It usually consists of functional testing based on system specifications without knowledge of its implementation.
+
+### stage 4 : Acceptance test
+
+
 
 
 
