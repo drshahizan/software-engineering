@@ -29,7 +29,7 @@ Don't forget to hit the :star: if you like this repo.
 | 16 |  MUHAMMAD DANIAL BIN AHMAD SYAHIR | | [:octocat:](https://github.com/) |
 | 17 |  NEO ZHENG WENG | zw-weng | [:octocat:](https://github.com/zw-weng) |
 | 18 |  NG SHU YU | ShuYu03 | [:octocat:](https://github.com/ShuYu03) |
-| 19 |  NICOLE LIM TZE YEE | | [:octocat:](https://github.com/) |
+| 19 |  NICOLE LIM TZE YEE | nicolelimty | [:octocat:](https://github.com/nicolelimty) |
 | 20 |  NURFARRAHIN BINTI CHE ALIAS | | [:octocat:](https://github.com/) |
 | 21 |  SOH HAN WEI | wei2030 | [:octocat:](https://github.com/wei2030) |
 | 22 |  TAN JUN YUAN | | [:octocat:](https://github.com/) |
