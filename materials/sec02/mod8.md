@@ -78,8 +78,8 @@ There are several techniques used for V&V, including:
 # Verification [ Inspection (static) ] and Validation [Testing (Dynamic) ]
 
 ## Inspections vs Dynamic Testing
--Inspections are a static process that may recognize errors before the code is executed, making it simpler to isolate and identify specific errors. Incomplete versions of a system can be examined for free.
--Dynamic testing requires specialised tests that must be linked. Inspections can look at a programme's overall quality characteristics, such as standard compliance, portability, and maintainability.
+1. Inspections are a static process that may recognize errors before the code is executed, making it simpler to isolate and identify specific errors. Incomplete versions of a system can be examined for free.
+2. Dynamic testing requires specialised tests that must be linked. Inspections can look at a programme's overall quality characteristics, such as standard compliance, portability, and maintainability.
 
 ## Stages of Testing
 4 stages of commercial software testing 
@@ -93,6 +93,7 @@ Integration testing during software development involves integrating system comp
 #### two common approaches for integration testing :
 1. Top-down integration
 2. Bottom-up integration 
+
 These tests involve either starting with the main components and adding details or starting with the smaller components and working up to the larger ones. It is suggested that the system be integrated incrementally to facilitate error localization.
 
 
