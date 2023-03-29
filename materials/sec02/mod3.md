@@ -26,6 +26,8 @@ Group: Coders
 - [Plan-Driven and Agile Development](#Plan-Driven-and-Agile-Development)
 - [Balance of Plan-Driven or Agile Development](#Balance-of-Plan-Driven-or-Agile-Development)
 - [Comparison between Plan-Driven and Agile Development](#Comparison-between-Plan-Driven-and-Agile-Development)
+- [Plan-Driven Development](Plan-Driven-Development)
+- [Agile Development](Agile-Development)
 - [Agile Methods](Agile-Methods)
 - [Agile Manifesto](Agile-Manifesto)
 - [The Principles of Agile Methods](The-Principles-of-Agile-Methods)
