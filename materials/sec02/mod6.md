@@ -140,7 +140,7 @@ The controller : manages user interaction and passes to the model and the view
 
 ## Web Application Architecture Using MVC
 
-![](https://www.researchgate.net/profile/Mehmet-Bakir-3/publication/332246257/figure/fig11/AS:744718996611076@1554566253833/Web-application-architecture-using-the-MVC-pattern-68.ppm)
+![]([https://www.researchgate.net/profile/Mehmet-Bakir-3/publication/332246257/figure/fig11/AS:744718996611076@1554566253833/Web-application-architecture-using-the-MVC-pattern-68.ppm](https://www.researchgate.net/profile/Mehmet-Bakir-3/publication/332246257/figure/fig11/AS:744718996611076@1554566253833/Web-application-architecture-using-the-MVC-pattern-68.ppm))
 
 
 
