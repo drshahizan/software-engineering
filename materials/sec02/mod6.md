@@ -91,7 +91,7 @@ Group XXX
 - [Example : Pipe and Filter Used for Compiler Architecture](#example-pipe-and-filter-used-for-compiler-architecture)
 - [Key Points](#key-points)
 
-
+# ARCHITECTURAL DESIGN and Detailed Design
 # ARCHITECTURAL DESIGN DECISION 
 
 ## Architectural Design Decisions
