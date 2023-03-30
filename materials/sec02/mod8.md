@@ -23,11 +23,14 @@ Group TEMPEST
 Click [here](https://drive.google.com/drive/folders/1fFqVSa7WdQ2Uet0UdvbQcALUVcqme6gw) to access the PDF file for this module (including other modules)
 
 ## Contents
-- [**Verification and Validation (V&V)**](#verification-and-validation-(V&V))
+- [**Verification and Validation (V&V)**](#verification-and-validation-vv)
+  - [**Techniques for V&V**](#techniques)
+  - [**Description of V&V**](#description)
+  - [**Verification Inspection and Validation Testing**](#verification-inspection-static-and-validation-testing-dynamic)
 - [**Software Testing Process**](#software-testing-process)
-  - [**Test Case Approach 1**](#requirements--based-testing)
-  - [**Test Case Approach 2**](#black--box-testing)
-  - [**Test Case Approach 3**](#white--box-testing)
+  - [**Test Case Approach 1**](#test-case-approach-1--requirements-based-testing)
+  - [**Test Case Approach 2**](#test-case-approach-2--black-box-testing)
+  - [**Test Case Approach 3**](#test-case-approach-3--white-box-testing)
 
 
 # Verification and Validation (V&V)
