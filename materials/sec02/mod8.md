@@ -114,8 +114,11 @@ Integration testing during software development involves integrating system comp
 
 #### Two common approaches for integration testing :
 1. Top-down integration
+
 •	Develop the system's skeleton and then complete it with components.
+
 2. Bottom-up integration 
+
 •	Integrate infrastructure components before implementing useful components.
 
 These tests involve either starting with the main components and adding details or starting with the smaller components and working up to the larger ones. It is suggested that the system be integrated incrementally to facilitate error localization.
