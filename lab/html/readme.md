@@ -13,7 +13,7 @@ Don't forget to hit the :star: if you like this repo.
 
 | Lab | Topic | Title | Files |
 | -----: | ----- | ----- | :------: | 
-| 0 | HTML | Your first HTML Page |<a href="https://github.com/drshahizan/learn-php/tree/main/lab/html/lab0" ><img src="../images/folder_info.png" width="24px" height="24px" ></a> |
+| 0 | HTML | Your first HTML Page |<a href="https://github.com/drshahizan/learn-php/tree/main/lab/html/lab0" ><img src="./images/folder_info.png" width="24px" height="24px" ></a> |
 | 1 | HTML | HTML Text Appearance |<a href="https://github.com/drshahizan/learn-php/tree/main/lab/html/lab1" ><img src="../images/folder_info.png" width="24px" height="24px" ></a> |
 | 2 | HTML | Troubleshooting HTML 🔥 |<a href="https://github.com/drshahizan/learn-php/tree/main/lab/html/lab2" ><img src="../images/folder_info.png" width="24px" height="24px" ></a> |
 | 3 | HTML | Format an article with HTML 🔥 |<a href="https://github.com/drshahizan/learn-php/tree/main/lab/html/lab3" ><img src="../images/folder_info.png" width="24px" height="24px" ></a> |
