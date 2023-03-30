@@ -64,7 +64,7 @@ Software engineering is an essential field of study that deals with the design, 
 
 In summary, software engineering is important for the efficient development, reducing development costs, quality assurance, innovation, maintenance, managing software complexity and collaboration in the development of software systems.
 
-![](https://qph.cf2.quoracdn.net/main-qimg-e91bd2d4b63b8f8aa781c2a9c4dd687e-lq)
+<br>![](https://qph.cf2.quoracdn.net/main-qimg-e91bd2d4b63b8f8aa781c2a9c4dd687e-lq)<br>
 
 ## Software Engineering Costs
 Software engineering costs can vary depending on various factors such as the complexity of the software, the size of the development team, the time frame for development, the technology used, and the location of the development team. Here are some of the costs associated with software engineering:
@@ -86,7 +86,7 @@ Software engineering costs can vary depending on various factors such as the com
 In summary, software engineering costs include development costs, maintenance costs, testing costs, training costs, infrastructure costs, risk management costs, and opportunity costs. These costs can vary depending on various factors, and it's essential to consider them when planning for software development.
   
   
-<img src="https://financesonline.com/uploads/2018/04/oric.png" width="600px">  
+<br><img src="https://financesonline.com/uploads/2018/04/oric.png" width="600px"><br>  
 
 
 ## Software Engineering in Software Development
@@ -102,14 +102,14 @@ Software engineering plays a crucial role in software development. It provides a
 
 - Maintenance: Once the software is deployed, software engineering principles are used to maintain the software by conducting bug fixes, software updates, and security patches. This maintenance phase helps to ensure that the software remains functional and secure.
 
-<img src="https://acqnotes.com/wp-content/uploads/2014/09/Waterfall-Image.png" width="600px">  
+<br><img src="https://acqnotes.com/wp-content/uploads/2014/09/Waterfall-Image.png" width="600px"><br>  
 
 
 ## Software Engineering Definition
 
 Software engineering is the discipline of designing, developing, testing, and maintaining software systems in a systematic and structured way. It involves applying principles, methods, and tools to create high-quality software that meets user requirements, is efficient, reliable, secure, and maintainable. Software engineering covers the entire software development life cycle, from requirements gathering to design, coding, testing, deployment, and maintenance. It also includes the use of various software development methodologies, such as agile and waterfall, to manage software development projects effectively. The goal of software engineering is to produce software systems that meet user needs and are cost-effective, efficient, and scalable.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1jhLI2blR9nvrjeU1SFleFsXWKw7_CtFXOg&usqp=CAU" width="600px">   
+<br><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1jhLI2blR9nvrjeU1SFleFsXWKw7_CtFXOg&usqp=CAU" width="600px"><br>   
 
 
 ## Software Engineering as a Layered Technology
