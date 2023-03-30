@@ -25,7 +25,7 @@ Click [here](https://drive.google.com/drive/folders/1fFqVSa7WdQ2Uet0UdvbQcALUVcq
 ## Contents
 - [**Verification and Validation (V&V)**](#verification-and-validation-(V&V))
 - [**Software Testing Process**](#software-testing-process)
-  - [**Test Case Approach 1**](#test-case-approach-1)
+  - [**Test Case Approach 1**](#test-case-approach-1-:-requirement-based-testing)
 
 
 # Verification and Validation (V&V)
