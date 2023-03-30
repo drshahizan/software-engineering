@@ -23,8 +23,9 @@ Group TEMPEST
 Click [here](https://drive.google.com/drive/folders/1fFqVSa7WdQ2Uet0UdvbQcALUVcqme6gw) to access the PDF file for this module (including other modules)
 
 ## Contents
-1. [**Verification and Validation (V&V)**](#verification-and-validation-(V&V))
-2. [**Software Testing Process**](#software-testing-process)
+- [**Verification and Validation (V&V)**](#verification-and-validation-(V&V))
+- [**Software Testing Process**](#software-testing-process)
+  - [**Test Case Approach 1**](#test-case-approach-1)
 
 
 # Verification and Validation (V&V)
@@ -134,7 +135,7 @@ Testing also one of the process that is used to increase assurance that a system
 
 
 
-# Software Testing Process
+## Software Testing Process
 
 The software testing process is an essential aspect of the software verification, validation, and testing (VV&T) topic. The software testing process is a crucial step in ensuring that software products are of high quality, reliable, and meet the requirements of the end-users.
 
