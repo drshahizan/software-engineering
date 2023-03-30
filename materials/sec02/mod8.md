@@ -128,12 +128,70 @@ An independent testing team verifies that the entire system meets specified crit
 
 #### Example of non-functional system testing test
 1. Stress testing
+
+-Load testing involves running an application to high-stress or high-load scenarios, such as complex numerical values or a large number of inputs or queries, in order to determine the application's ability for withstanding stress or heavy loads.
+
 2. Performance testing
-3. Stability testing
+
+-Before releasing a system to users, it is essential to test the new features of the system, such as how well it functions and how reliable it is. This is done to ensure that the system fulfils all of the requirements and is ready for the intended users to use.
+
+3. Usability testing
+
+-Used to determine how easy a system or component is for a user to operate and understand. Usability testing is typically performed by specialists who observe how users interact with the system in order to identify any issues that may interfere with the user's ability to use the system effectively. Usability testing aims to improve the user experience by making the system simpler and user-friendly.
+
 
 Testing also one of the process that is used to increase assurance that a system meets its requirements before it is released. It usually consists of functional testing based on system specifications without knowledge of its implementation.
 
+##### System testing 
+
+-Typically involves black-box or functional testing, where testers depend on the system specification to test the system's functionality without knowing how it is implemented.
+
+##### Requirements testing
+
+-A separate process that includes testing against specific requirements.
+
+
 ## Stage 4 : Acceptance test
+
+-Acceptance testing is a formal testing process performed by customers to determine whether a system meets the minimum requirements and is ready for release,
+because the user environment cannot be replicated in a testing environment.
+
+-Acceptance testing also is a phase in the testing process where users or customers provide input and suggestions on system testing.
+
+
+#### Goal of Aceeptance test 
+
+To create reliability in the system/part-system or particular non-functional characteristics
+
+-To ensure that the system meets the requirements for production deployment
+
+#### Types of Acceptance test
+
+##### 1. Alpha testing
+
+-Software users work alongside the development team to assess the software and this process is an in-house test or an internal exercise.
+
+##### 2. Beta Testing
+
+-A stable product is made accessible to clients or customers for testing while identifying any issues to the system developers. Beta testing can also include the publication of test results reviews, which can have a major effect on the success of a product, especially within industries such as PC games.
+
+##### 3. User Acceptance Test (UAT)
+
+-User acceptance testing (UAT) is the final phase of validation which involves end users and customers. UAT is based on user requirements and shares the same methodology as functional system testing, with the goal of ensuring that the system is prepared for deployment and meets the needs of the users.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
