@@ -75,9 +75,9 @@ There are several techniques used for V&V, including:
 7. V&V is not a one-time activity, but an ongoing process that continues even after the software system has been deployed and is in use. Maintenance activities, such as bug fixes and updates, should also be subject to V&V to ensure that they do not introduce new defects or issues into the system.
 
 
-# Verification [ Inspection (static) ] and Validation [Testing (Dynamic) ]
+# Verification [Inspection (Static)] and Validation [Testing (Dynamic)]
 
-## Inspections vs Dynamic Testing
+### Inspections vs Dynamic Testing
 1. Inspections are a static process that may recognize errors before the code is executed, making it simpler to isolate and identify specific errors. Incomplete versions of a system can be examined for free.
 2. Dynamic testing requires specialised tests that must be linked. Inspections can look at a programme's overall quality characteristics, such as standard compliance, portability, and maintainability.
 
@@ -88,8 +88,20 @@ The 4 stages of commercial software testing :
 Component or unit testing is a form of testing that analyses individual parts of a software system. It is performed by the developer and attempts to detect errors in the functionality, boundary conditions, and error handling of the component. Individual functions or procedures, object classes, or composite components are all examples of components.
 
 #### Two types of component testing. 
-1. Object Class Testing
-2. Interface Testing
+ 1. Object Class Testing
+- Object Class Testing is a type of testing that focuses on testing the behavior and functionality of individual object classes in an object-oriented program. Object classes are the blueprints that define the properties and behavior of objects, so testing them thoroughly is crucial to ensure the quality and reliability of the software. Object Class Testing involves creating test cases that cover all possible scenarios and edge cases for each method and attribute of the class, and verifying that the class behaves as expected under each scenario.
+
+ 2. Interface testing
+- Interface Testing is a type of testing that focuses on testing the interfaces between objects in an object-oriented program. Interfaces are the contracts that define the methods and properties that an object must expose to interact with other objects, so testing them thoroughly is crucial to ensure the correct functioning of the overall system. Interface Testing involves creating test cases that cover all possible scenarios and edge cases for each method and property of the interface, and verifying that the interface behaves as expected under each scenario. Interface Testing also involves testing the compatibility and interoperability of the interface with other objects that use it.
+
+### Interface Testing Types
+- Parameter interface
+– Data passed from one procedure to another
+- Procedural interface
+– Sub-system encapsulates a set of procedures
+to be called by other sub-systems
+- Message passing interface
+– Sub-systems request services from other sub
 
 ## Stage 2:  Integration test
 Integration testing during software development involves integrating system components and testing them together to ensure proper system interaction. The testing workers, which has access to the system source code, oversees this. The purpose of integration testing is to determine whether the components are compatible, interact correctly, and transfer data across their interfaces at the appropriate moment.
