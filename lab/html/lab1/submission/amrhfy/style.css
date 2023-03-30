@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 2px;
+}
+
+body {
+    text-align: justify;
+}
+
+body > #title {
+    font-weight: 500;
+    font-family: Arial;
+    font-size: 2.5rem;
+    color: red;
+}
+
+body > #fdl {
+    font-style: italic;
+}
+
+body > #arab {
+    font-weight: 600;
+}
+
+body > #sc {
+    font-weight: bold;
+}
+
+body > #ms {
+    background-color: yellow;
+}
+
+body > #as {
+    text-decoration: underline;
+}
+
+body > #klang {
+    text-decoration: line-through;
+}
+
+body > #orange {
+    font-weight: bold;
+    font-style: italic;
+    color: orange;
+}
+
+body > #end {
+    font-weight: 600;
+}
+
+body > iframe {
+    height: 400px;
+    width: 800px;
+}

@@ -1,0 +1,89 @@
+<!--
+Name: Mohamad Zul Ikmal Bin Mohammad Razal
+Matrix No: SX210548ECRHS04
+Github id: lamki
+
+Lab 9
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical Information</title>
+    <style>
+        div{
+            width:50%;
+        }
+        th,
+        td {
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+    <h1><b><font family="Verdana" align="center">Medical Form</font></b></h1>
+    <form method="POST" action="process.php">
+    <fieldset>
+        <legend>Personal Information</legend>
+        <table border="1" width="100%">
+            <tr>
+                <td>First Name  </td>
+                <td><input type="text" name="fName"></td>
+                <td>Gender</td>
+                <td>
+                    <select name="genSelect" id="gender">
+                        <option value="male">Male</option>
+                        <option value="female">Female</option>                   
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Last Name</td>
+                <td><input type="text" name="lName"></td>
+                <td>Nationality</td>
+                <td>
+                    <select name="natSelect" id="national">
+                        <option value="my">Malaysian</option>
+                        <option value="oth">Other</option>                   
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Address</td>
+                <td colspan="3">
+                    <textarea cols="40" rows="5">
+
+                    </textarea>
+                </td>
+            </tr>
+        </table>
+    </fieldset>
+
+    <fieldset>
+        <legend>Medical History</legend>
+        <input type="checkbox" value="sp"> Smallpox
+        <input type="checkbox" value="mp"> Mumps
+        <input type="checkbox" value="dz"> Dizziness
+        <input type="checkbox" value="sn"> Sneezing
+    </fieldset>
+
+    <fieldset>
+        <legend>Current Medication</legend>
+            Are you currently taking any medication? 
+            <input type="radio" name="medication" value="Y"> Yes
+            <input type="radio" name="medication" value="N"> No
+            <br>
+            If you are currently taking medication, please indicate it in the space below:
+            <textarea rows="10" cols="65">
+
+            </textarea>
+    </fieldset>
+    <input type="Submit" value="Submit">      <input type="reset" value="Reset">
+    </form>
+</div>
+</body>
+</html>

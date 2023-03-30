@@ -1,0 +1,45 @@
+.card-body
+{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h1 
+{
+    text-align: left;
+}
+
+.hr
+{
+    color: rgb(255, 0, 0);
+    border-style: solid;
+    border-width: 2px;
+}
+
+img.align-left 
+{
+    float: left;
+    border: 5px solid;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    width: 700px;
+    height: 450px;
+}
+
+img.align-right 
+{
+    float: right;
+    border: 5px solid;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    width: 700px;
+    height: 450px;
+}
+
+figcaption
+{
+    text-align: justify;
+}
