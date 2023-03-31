@@ -27,8 +27,8 @@ This course is designed to give students an introduction to an engineering appro
 
 ## Weekly Schedule
 
-| Weekly | Module | Description | 
-| :-----: | ------ | ------ |
+| Weekly | Module | Description | 01 | 02 |
+| :-----: | ------ | ------ | 01 | 02 |
 | 1 | [1: Introduction to Software Engineering](./materials/sec02/mod1.md) | Software definition, software engineering as a layered technology, types of software, inherent difficulties in software engineering, SE quality focus, Documentation Standard.|
 | 2 | [2: Software Process Model](./materials/sec02/mod2.md) | Plan Driven or Agile Process Model, general software process model waterfall, incremental, reuse oriented, software process model which cope with change spiral model and Rational Unified Process |
 | 3 | [3: Agile Software Development](./materials/sec02/mod3.md) | Agile methods, Agile development techniques, Agile project management, scaling Agile methods |
