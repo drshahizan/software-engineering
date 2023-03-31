@@ -57,6 +57,101 @@ activities that are elicitation, analysis and validation
 |May state what the system should not do|Often apply to the system as a whole rather than individual features or services|
 
 ## Requirements Specification 📖
+### Software Requirements Document
+The software requirements document is a statement of what the system developers need to do. It should include what the user wants and what the system needs. It's not a design document and should focus on what the system should do, not how it should do it
+### Agile Methods and Requirements
+Agile methods suggest that creating a requirements document is not useful as the requirements keep changing frequently, making the document outdated. Instead, methods like XP use incremental requirements engineering and represent requirements as user stories. While this approach works well for business systems, it can be challenging for critical systems or projects developed by multiple teams that require a lot of pre-delivery analysis.
+### Requirements Specification
+1-User requirements should be easy to understand for people without technical knowledge.
+
+2-System requirements are more detailed and technical.
+
+3-Complete requirements are important, especially if they are part of a system development contract
+### Ways of Writing a System Requirements Specification
+Identify the purpose of the system - What is the system supposed to do?
+
+Define the features and functions - What specific features should be included? What functions should the system perform?
+
+List the hardware and software requirements - What operating systems and other software are required for the system to operate? What hardware is necessary?
+
+Determine performance expectations - What performance metrics should be met by the system?
+
+Define user roles and permissions - Who will be using the system and what are their access levels?
+
+Establish security requirements - What security measures should be implemented to protect the system and its data?
+
+Define data requirements - What data will be used and how will it be stored, processed and shared?
+
+List any external interfaces - What external systems or services will the system interact with?
+
+Include any relevant regulations or standards - Are there any specific regulations or industry standards that must be followed?
+
+Provide clear and concise documentation - Ensure that the specification is easy to understand and use as a reference for the development team
+### Requirements and Design
+Requirements tell us what the system should do, while design describes how it will achieve this goal. However, in reality, requirements and design are closely related. The system's architecture is designed to meet the requirements, and other systems may generate design requirements. Non-functional requirements may also dictate the use of a specific architecture, which could be a regulatory requirement. Therefore, requirements and design are not completely separable in practice
+### Natural Language Specification
+Requirements are statements written in regular language and sometimes supported by visual aids like diagrams or tables. They are used to express what a project needs to achieve. Natural language is preferred as it is easy to understand and universally accessible. This allows users and customers to comprehend the requirements
+### Guidelines for Writing Requirements
+1-Create a standardized format for requirements and use it consistently.
+
+2-Use language consistently.
+
+3-Use "shall" for mandatory requirements and "should" for desirable requirements.
+
+4-Highlight important parts of the requirement.
+
+5-Avoid computer jargon.
+
+6-Include an explanation for why a requirement is necessary.
+### Problems With Natural Language
+#### • Not clear
+
+It's hard to be precise without making the document hard to read.
+#### • Confusing requirements
+
+The functional and non-functional requirements are often mixed up.
+#### • Combined requirements
+
+Multiple requirements may be expressed together.
+### Example of Requirements for the Insulin Pump Software System
+1-The system must accurately calculate and deliver insulin doses based on the user's blood glucose levels and other input parameters.
+
+2-The system must have a user-friendly interface that allows the user to easily input and adjust their insulin dosing regimen.
+
+3-The system must be able to communicate with compatible glucose monitoring devices and other healthcare providers as needed.
+
+4-The system must have built-in safety features to prevent over-dosing or under-dosing of insulin.
+
+5-The system must be able to provide alerts and notifications to the user and/or healthcare providers in the event of any issues or concerns.
+
+6-The system must be reliable and consistent in its operation, with minimal downtime or malfunctions.
+
+7-The system must be secure and protect the user's personal and medical information.
+
+8-The system must be easily updatable and maintainable over time to ensure continued optimal performance.
+### Structured Specifications
+"Writing requirements in a standardized way with limited freedom is a useful approach for some types of requirements, like those for embedded control systems, but can be too rigid for business system requirements."
+### A Structured Specification of a Requirements for an Insulin Pump
+### Form-Based Specifications
+Function/Entity: A specific task or process that takes inputs and produces outputs.
+
+Inputs: Data or information that is provided to the function/entity as its input. Inputs can come from various sources such as user input, database, sensors, or other functions/entities.
+
+Outputs: The result or outcome produced by the function/entity after processing its inputs. Outputs can be sent to various destinations such as a display, database, or another function/entity.
+
+Computation Information: Information required to perform the computation within the function/entity, such as algorithms, formulas, or rules. Other entities used may refer to other functions or entities that the current function/entity relies on to perform its task.
+
+Action: The specific task that the function/entity is designed to perform on the inputs to produce the outputs. The action can be a simple or complex process depending on the function/entity's purpose.
+
+Pre-conditions: The required conditions that must be met before the function/entity can execute properly. These can include specific inputs or settings that must be in place before the function/entity can start its process.
+
+Post-conditions: The expected results or conditions that should be met after the function/entity completes its task. These can include the output produced, changes made to the system or environment, or other effects.
+
+Side-effects: Any additional outcomes or changes that occur as a result of executing the function/entity. These can include changes to the system or environment, resource usage, or other effects that may impact other functions or entities
+### Template for Writing Functional Requirements
+### Templated for Writing Non-Functional Requirements
+### Tabular Specification
+### Tabular Specification of Computation for an Insulin Pump
 ## Requirement Engineering Process 🏗️ 
 
 

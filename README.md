@@ -20,7 +20,7 @@ This course is designed to give students an introduction to an engineering appro
 
 ## 🔥 Important things
 1. [Lecture Notes](https://drive.google.com/drive/folders/1fFqVSa7WdQ2Uet0UdvbQcALUVcqme6gw?usp=sharing)
-2. [Task 1](./materials/Task1.md)
+2. [Task 1: Additional Notes](./materials/Task1.md)
 3. [Lab exercise](./lab/)
 3. [Software Engineering Project](./proposal/se-project.md)
 4. [Guideline for Software Engineering Proposal](./proposal/guideline.md)
