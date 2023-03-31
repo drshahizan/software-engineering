@@ -51,6 +51,11 @@ activities that are elicitation, analysis and validation
 
 
 ## Functional and Non-funtional Requirements ⚙️
+|**Functional**|**Non-Functional Requirements**|
+|--|--|
+|**Statements of services** the system should provide, how the system should **react** to particular inputs and how the system should behave in particular situations|**Constraints on the services** or functions offered by the system such as timing constraints, constraints on the development process, standards, etc.|
+|May state what the system should not do|Often apply to the system as a whole rather than individual features or services|
+
 ## Requirements Specification 📖
 ## Requirement Engineering Process 🏗️ 
 
