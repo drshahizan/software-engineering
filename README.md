@@ -24,6 +24,7 @@ This course is designed to give students an introduction to an engineering appro
 3. [Lab exercise](./lab/)
 3. [Software Engineering Project](./proposal/se-project.md)
 4. [Guideline for Software Engineering Proposal](./proposal/guideline.md)
+5. [Dokumen Tender](./proposal/)
 
 ## Weekly Schedule
 
