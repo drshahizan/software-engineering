@@ -27,7 +27,7 @@ Perbezaan antara sebut harga dan tender dibincangkan dalam perkara yang diberika
 2. [Senarai semak dokumen yang diperlukan untuk cadangan teknikal](https://www.pmo.gov.my/dokumenattached/tender/files/LAMPIRAN_TENDER_SMPKE_01_2018.pdf)
 
 ### Sebut harga
-1. [Dokumen sebutharga: membangun, membekal dan memasang aplikasi sistem log fail Majlis Perbandaran Batu Pahat(https://www.mpbp.gov.my/sites/default/files/122.pdf)
+1. [Dokumen sebutharga: membangun, membekal dan memasang aplikasi sistem log fail Majlis Perbandaran Batu Pahat](https://www.mpbp.gov.my/sites/default/files/122.pdf)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
