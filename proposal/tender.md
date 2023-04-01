@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Tender
+# Tender dan sebut harga
 **Definisi ténder**: tawaran utk membuat sesuatu pekerjaan atau membekalkan barang dgn menyatakan sekali harga atau bayaran yg dikehendaki: syarikat kerjasama kilang kertas dan baja Malaya telah pun mengeluarkan ~ utk membuat kilang itu;menender membuat tender: kementerian telah ~ kerja membekalkan perabot pejabat kpd beberapa firma;penenderan perihal (proses, usaha atau tindakan) menender;penender orang (pihak dsb) yg membuat atau memberi tender;petender orang (syarikat dsb) yg mendapat tender.
 
 **Definisi sebut harga**: (Eko) pernyataan harga yg diberi-kan oleh pembekal kpd bakal pembeli utk sesuatu barangan yg dipesan; menyebut harga menyatakan atau memberikan sebut harga bagi sesuatu barang atau perkhidmatan yg ditawarkan: kontraktor itu ~ RM2000.00 bagi kerja membaiki longkang berkenaan. (Kamus Dewan Edisi Keempat)
