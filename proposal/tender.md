@@ -25,7 +25,7 @@ Perbezaan antara sebut harga dan tender dibincangkan dalam perkara yang diberika
 2. [PK 2.2 - Pekeliling Perbendaharaan](https://ppp.treasury.gov.my/sub-topik/fail/202/muat-turun)
 3. [Senarai semak dokumen yang diperlukan untuk cadangan teknikal](https://www.pmo.gov.my/dokumenattached/tender/files/LAMPIRAN_TENDER_SMPKE_01_2018.pdf)
 4. [Projek : perkhidmatan membekal, menghantar, memasang, menguji dan menyelenggara perkakasan ICT secara sewaan di Pejabat DYMM Sultan Selangor dan istana-istana negeri Selangor](https://tender.selangor.my/uploads/BHERsFIdDwZJqeWsxPVSCGFrrAcjHpYIk25MFEnx/DOKUMEN%20TENDER%20ICT%20PEJABAT%20DYMM%20SULTAN%20SELANGOR.pdf)
-5. [Sistem Maklumat Bersepadu Perolehan Kerajaan (MyGPIS)[https://ppp.treasury.gov.my/sub-topik/fail/259/muat-turun]
+5. [Sistem Maklumat Bersepadu Perolehan Kerajaan (MyGPIS)](https://ppp.treasury.gov.my/sub-topik/fail/259/muat-turun)
 
 ### Sebut harga
 1. [Sistem e-Perolehan (SEP), UTM](https://ecommerce.utm.my/etender/page.php?pageid=quotation_listold)
