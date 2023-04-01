@@ -56,6 +56,44 @@ activities that are elicitation, analysis and validation
 |**Statements of services** the system should provide, how the system should **react** to particular inputs and how the system should behave in particular situations|**Constraints on the services** or functions offered by the system such as timing constraints, constraints on the development process, standards, etc.|
 |May state what the system should not do|Often apply to the system as a whole rather than individual features or services|
 
+-Besides FR and NFR, there are **domain requirements**
+ Constraints on the system from the domain of operation
+
+## Functional Requirement
+
+• Describe functionality or system services
+
+• Depend on the type of software, expected users and
+the type of system where the software is used
+
+• Functional **user requirements** may be high-level
+statements of what the system should do
+
+• Functional **system requirements** should describe the
+system services in detail
+
+## Functional Requirements for the MHC-PMS
+
+• A user **shall** be able to search the appointments lists
+for all clinics
+
+• The system **shall** generate each day, for each clinic, a list of patients who are expected to attend appointments that day
+
+• Each staff member using the system **shall** be uniquely identified by his or her 8-digit employee number Requirements Imprecision
+
+• Problems arise when requirements are not precisely stated
+
+• Ambiguous requirements may be interpreted in different ways by developers and users
+
+• Consider the term ‘search’ in requirement 1:
+
+– User intention: search for a patient name across all appointments in all clinics
+
+– Developer interpretation: Search for a patient name in an individual clinic. User chooses clinic then search.
+
+ex:A user shall be able to search the appointments lists for all clinicsA user shall be able to search the appointments lists for all clinics
+
+
 ## Requirements Specification 📖
 ### Software Requirements Document
 The software requirements document is a statement of what the system developers need to do. It should include what the user wants and what the system needs. It's not a design document and should focus on what the system should do, not how it should do it

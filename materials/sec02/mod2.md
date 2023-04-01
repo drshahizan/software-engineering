@@ -13,7 +13,7 @@ Module 2: Software Process Model
 Group 2
 1. NAVACHANDER NAVASANTAR, A22EC0226
 2. ONG YI YAN, A22EC0101
-3. CHE MARHUMI BIN CHE AB RAHIM, matrix no
+3. CHE MARHUMI BIN CHE AB RAHIM, A22EC0147
 4. TANG YAN QING, A22EC0109
 
 -->
@@ -140,6 +140,8 @@ Software prototyping is an **iterative** and **collaborative** process that help
 ## Throw-Away Prototypes
 
 A throw-away prototype is a quickly created software prototype that is **not intended for use** in the final product. It is used to **test** and **refine the design**, **gather feedback**, and **identify potential issue**s before moving on to more detailed development. It is **discarded** once its purpose is served
+   
+The main idea of a throw away prototype is to quickly create a rough version of a product or design idea to test and refine it before spending a lot of time and resources on developing it further. It's like making a rough draft before writing a final version. The throw away prototype is not meant to be the final product, but rather a tool for exploring and improving ideas. Once it has served its purpose, it is discarded or recycled. This approach allows for faster experimentation and iteration with fewer constraints.   
    
    ![image](https://user-images.githubusercontent.com/128206862/228539454-92366289-b5d5-4ee8-a4cb-821fde4bc08d.png)
 
