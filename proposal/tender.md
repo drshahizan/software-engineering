@@ -13,7 +13,7 @@ Don't forget to hit the :star: if you like this repo.
 **Definisi sebut harga**: (Eko) pernyataan harga yg diberi-kan oleh pembekal kpd bakal pembeli utk sesuatu barangan yg dipesan; menyebut harga menyatakan atau memberikan sebut harga bagi sesuatu barang atau perkhidmatan yg ditawarkan: kontraktor itu ~ RM2000.00 bagi kerja membaiki longkang berkenaan. (Kamus Dewan Edisi Keempat)
 - [Sistem e-Perolehan (SEP), UTM](https://ecommerce.utm.my/etender/page.php?pageid=tender_listold)
 
-### Perbezaan Utama Antara Sebutharga dan Tender
+### Perbezaan utama antara sebut harga dan tender
 Perbezaan antara sebut harga dan tender dibincangkan dalam perkara yang diberikan di bawah:
 1. Sebut harga adalah tawaran harga tetap, yang sekali diterima oleh pelanggan, tidak dapat diubah atau diubah. Sebaliknya, tender adalah tindak balas kepada pelawaan tender, yang digunakan untuk mencari nilai terbaik untuk wang, dari calon pembekal.
 2.Kedua-dua sebut harga dan tender adalah tawaran. Petikan adalah tindak balas terhadap Permintaan Penawaran (RFQ), sedangkan tender digunakan sebagai respons terhadap Permintaan Tender (RFT).
