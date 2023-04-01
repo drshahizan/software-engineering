@@ -11,7 +11,6 @@ Don't forget to hit the :star: if you like this repo.
 **Definisi ténder**: tawaran utk membuat sesuatu pekerjaan atau membekalkan barang dgn menyatakan sekali harga atau bayaran yg dikehendaki: syarikat kerjasama kilang kertas dan baja Malaya telah pun mengeluarkan ~ utk membuat kilang itu;menender membuat tender: kementerian telah ~ kerja membekalkan perabot pejabat kpd beberapa firma;penenderan perihal (proses, usaha atau tindakan) menender;penender orang (pihak dsb) yg membuat atau memberi tender;petender orang (syarikat dsb) yg mendapat tender.
 
 **Definisi sebut harga**: (Eko) pernyataan harga yg diberi-kan oleh pembekal kpd bakal pembeli utk sesuatu barangan yg dipesan; menyebut harga menyatakan atau memberikan sebut harga bagi sesuatu barang atau perkhidmatan yg ditawarkan: kontraktor itu ~ RM2000.00 bagi kerja membaiki longkang berkenaan. (Kamus Dewan Edisi Keempat)
-- [Sistem e-Perolehan (SEP), UTM](https://ecommerce.utm.my/etender/page.php?pageid=tender_listold)
 
 ### Perbezaan utama antara sebut harga dan tender
 Perbezaan antara sebut harga dan tender dibincangkan dalam perkara yang diberikan di bawah:
@@ -26,9 +25,10 @@ Perbezaan antara sebut harga dan tender dibincangkan dalam perkara yang diberika
 2. [PK 2.2 - Pekeliling Perbendaharaan](https://ppp.treasury.gov.my/sub-topik/fail/202/muat-turun)
 3. [Senarai semak dokumen yang diperlukan untuk cadangan teknikal](https://www.pmo.gov.my/dokumenattached/tender/files/LAMPIRAN_TENDER_SMPKE_01_2018.pdf)
 4. [Projek : perkhidmatan membekal, menghantar, memasang, menguji dan menyelenggara perkakasan ICT secara sewaan di Pejabat DYMM Sultan Selangor dan istana-istana negeri Selangor](https://tender.selangor.my/uploads/BHERsFIdDwZJqeWsxPVSCGFrrAcjHpYIk25MFEnx/DOKUMEN%20TENDER%20ICT%20PEJABAT%20DYMM%20SULTAN%20SELANGOR.pdf)
+5. [Sistem Maklumat Bersepadu Perolehan Kerajaan (MyGPIS)[https://ppp.treasury.gov.my/sub-topik/fail/259/muat-turun]
 
 ### Sebut harga
-1.[Sistem e-Perolehan (SEP), UTM](https://ecommerce.utm.my/etender/page.php?pageid=quotation_listold)
+1. [Sistem e-Perolehan (SEP), UTM](https://ecommerce.utm.my/etender/page.php?pageid=quotation_listold)
 2. [Dokumen sebutharga: membangun, membekal dan memasang aplikasi sistem log fail Majlis Perbandaran Batu Pahat](https://www.mpbp.gov.my/sites/default/files/122.pdf)
 
 ## Contribution 🛠️
