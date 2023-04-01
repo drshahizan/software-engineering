@@ -61,35 +61,36 @@ activities that are elicitation, analysis and validation
 
 Functional Requirement
 • Describe functionality or system services
+
 • Depend on the type of software, expected users and
 the type of system where the software is used
+
 • Functional **user requirements** may be high-level
 statements of what the system should do
+
 • Functional **system requirements** should describe the
 system services in detail
+
 Functional Requirements for the MHC-PMS
+
 • A user **shall** be able to search the appointments lists
 for all clinics
-• The system **shall** generate each day, for each clinic, a
-list of patients who are expected to attend
-appointments that day
-• Each staff member using the system **shall** be uniquely
-identified by his or her 8-digit employee number
 
-Requirements Imprecision
-• Problems arise when requirements are not precisely
-stated
-• Ambiguous requirements may be interpreted in
-different ways by developers and users
+• The system **shall** generate each day, for each clinic, a list of patients who are expected to attend appointments that day
+
+• Each staff member using the system **shall** be uniquely identified by his or her 8-digit employee number Requirements Imprecision
+
+• Problems arise when requirements are not precisely stated
+
+• Ambiguous requirements may be interpreted in different ways by developers and users
+
 • Consider the term ‘search’ in requirement 1:
-– User intention: search for a patient name across
-all appointments in all clinics
-– Developer interpretation: Search for a patient
-name in an individual clinic. User chooses clinic
-then search.
-ex:A user shall be able to search the appointments lists
-for all clinicsA user shall be able to search the appointments lists
-for all clinics
+
+– User intention: search for a patient name across all appointments in all clinics
+
+– Developer interpretation: Search for a patient name in an individual clinic. User chooses clinic then search.
+
+ex:A user shall be able to search the appointments lists for all clinicsA user shall be able to search the appointments lists for all clinics
 
 
 ## Requirements Specification 📖
