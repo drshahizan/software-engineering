@@ -23,11 +23,13 @@ Perbezaan antara sebut harga dan tender dibincangkan dalam perkara yang diberika
 
 ## Dokumen tender dan sebut harga
 ### Tender
-1. [PK 2.2 - Pekeliling Perbendaharaan](https://ppp.treasury.gov.my/sub-topik/fail/202/muat-turun)
-2. [Senarai semak dokumen yang diperlukan untuk cadangan teknikal](https://www.pmo.gov.my/dokumenattached/tender/files/LAMPIRAN_TENDER_SMPKE_01_2018.pdf)
+1. - [Sistem e-Perolehan (SEP), UTM](https://ecommerce.utm.my/etender/page.php?pageid=tender_listold)
+2. [PK 2.2 - Pekeliling Perbendaharaan](https://ppp.treasury.gov.my/sub-topik/fail/202/muat-turun)
+3. [Senarai semak dokumen yang diperlukan untuk cadangan teknikal](https://www.pmo.gov.my/dokumenattached/tender/files/LAMPIRAN_TENDER_SMPKE_01_2018.pdf)
 
 ### Sebut harga
-1. [Dokumen sebutharga: membangun, membekal dan memasang aplikasi sistem log fail Majlis Perbandaran Batu Pahat](https://www.mpbp.gov.my/sites/default/files/122.pdf)
+1.[Sistem e-Perolehan (SEP), UTM](https://ecommerce.utm.my/etender/page.php?pageid=quotation_listold)
+2. [Dokumen sebutharga: membangun, membekal dan memasang aplikasi sistem log fail Majlis Perbandaran Batu Pahat](https://www.mpbp.gov.my/sites/default/files/122.pdf)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
