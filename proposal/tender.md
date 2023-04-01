@@ -20,12 +20,12 @@ Perbezaan antara sebut harga dan tender dibincangkan dalam perkara yang diberika
 3. Satu-satunya elemen utama sebut harga adalah harga yang menjelaskan kos kontrak, yang dikemukakan oleh pembekal. Sebaliknya, tender mempunyai dua elemen utama, harga dan kualiti, di mana harga menentukan harga terbaik yang ditawarkan oleh pembekal, yang dibandingkan dengan pembekal lain dan kualiti menentukan potensi pembekal untuk menyampaikan barang yang ditentukan.
 4. Skop tender lebih luas dibandingkan dengan tender, kerana sebut harga adalah bahagian tender, yang berisi harga bahan yang akan dibekalkan.
 
-
 ## Dokumen tender dan sebut harga
 ### Tender
-1. - [Sistem e-Perolehan (SEP), UTM](https://ecommerce.utm.my/etender/page.php?pageid=tender_listold)
+1. [Sistem e-Perolehan (SEP), UTM](https://ecommerce.utm.my/etender/page.php?pageid=tender_listold)
 2. [PK 2.2 - Pekeliling Perbendaharaan](https://ppp.treasury.gov.my/sub-topik/fail/202/muat-turun)
 3. [Senarai semak dokumen yang diperlukan untuk cadangan teknikal](https://www.pmo.gov.my/dokumenattached/tender/files/LAMPIRAN_TENDER_SMPKE_01_2018.pdf)
+4. [Projek : perkhidmatan membekal, menghantar, memasang, menguji dan menyelenggara perkakasan ICT secara sewaan di Pejabat DYMM Sultan Selangor dan istana-istana negeri Selangor](https://tender.selangor.my/uploads/BHERsFIdDwZJqeWsxPVSCGFrrAcjHpYIk25MFEnx/DOKUMEN%20TENDER%20ICT%20PEJABAT%20DYMM%20SULTAN%20SELANGOR.pdf)
 
 ### Sebut harga
 1.[Sistem e-Perolehan (SEP), UTM](https://ecommerce.utm.my/etender/page.php?pageid=quotation_listold)
