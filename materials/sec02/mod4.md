@@ -59,7 +59,8 @@ activities that are elicitation, analysis and validation
 -Besides FR and NFR, there are **domain requirements**
  Constraints on the system from the domain of operation
 
-Functional Requirement
+## Functional Requirement
+
 • Describe functionality or system services
 
 • Depend on the type of software, expected users and
@@ -71,7 +72,7 @@ statements of what the system should do
 • Functional **system requirements** should describe the
 system services in detail
 
-Functional Requirements for the MHC-PMS
+## Functional Requirements for the MHC-PMS
 
 • A user **shall** be able to search the appointments lists
 for all clinics
