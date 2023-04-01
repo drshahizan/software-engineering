@@ -8,8 +8,10 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Tender
-[PK 2.2 - Pekeliling Perbendaharaan](https://ppp.treasury.gov.my/sub-topik/fail/202/muat-turun)
-[Senarai semak dokumen yang diperlukan untuk cadangan teknikal](https://www.pmo.gov.my/dokumenattached/tender/files/LAMPIRAN_TENDER_SMPKE_01_2018.pdf)
+
+## Dokumen tender
+1. [PK 2.2 - Pekeliling Perbendaharaan](https://ppp.treasury.gov.my/sub-topik/fail/202/muat-turun)
+2. [Senarai semak dokumen yang diperlukan untuk cadangan teknikal](https://www.pmo.gov.my/dokumenattached/tender/files/LAMPIRAN_TENDER_SMPKE_01_2018.pdf)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
