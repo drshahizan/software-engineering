@@ -27,6 +27,7 @@ Perbezaan antara sebut harga dan tender dibincangkan dalam perkara yang diberika
 4. [Projek : perkhidmatan membekal, menghantar, memasang, menguji dan menyelenggara perkakasan ICT secara sewaan di Pejabat DYMM Sultan Selangor dan istana-istana negeri Selangor](https://tender.selangor.my/uploads/BHERsFIdDwZJqeWsxPVSCGFrrAcjHpYIk25MFEnx/DOKUMEN%20TENDER%20ICT%20PEJABAT%20DYMM%20SULTAN%20SELANGOR.pdf)
 5. [Sistem Maklumat Bersepadu Perolehan Kerajaan (MyGPIS)](https://ppp.treasury.gov.my/sub-topik/fail/259/muat-turun)
 6. [Spesifikasi tender](./Spesifikasi%20tender.pdf)
+7. [Keputusan Mesyuarat Lembaga Perolehan Jabatan Perdana Menteri Bilangan 5 Tahun 2022]([K2JaSkhHTEUxZ0NWUWZCZWNRbDI3dz09](https://www.dosm.gov.my/v1/index.php?r=column3/article&menu_id=SjhnNk9Zc2RVSHk3OGZHM2s3TFZoQT09&bul_id=K2JaSkhHTEUxZ0NWUWZCZWNRbDI3dz09#))
 
 ### Sebut harga
 1. [Sistem e-Perolehan (SEP), UTM](https://ecommerce.utm.my/etender/page.php?pageid=quotation_listold)
