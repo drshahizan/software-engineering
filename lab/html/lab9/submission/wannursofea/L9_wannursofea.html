@@ -11,11 +11,13 @@
 </head>
 <body>
     <style>
-        #medBorder{
+        .medBorder{
             height:100%;
-            background-color: blue;
-            border:10px solid;
+            background-color: whiteS;
+            border:2px outset blue;
             padding:10px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 12px;
         }
         table{
             border-style: ridge;
@@ -23,9 +25,27 @@
             height: fit-content;
             width: 100%s;
             font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 12px;
         }
+        td, th {
+          border: 1px inset black;
+          padding: 1px;
+        }
+        .checkbox-round {
+            width: 1.3em;
+            height: 1.3em;
+            background-color: white;
+            border-radius: 50%;
+            vertical-align: middle;
+            border: 1px solid #ddd;
+            appearance: none;
+            -webkit-appearance: none;
+            outline: none;
+            cursor: pointer;
+        }
+
     </style>
-    <div class="#medBorder">
+    <div class="medBorder">
         <table class="table">
             <h3>Personal Information</h3>
             <tr>
@@ -34,9 +54,9 @@
                     <textarea placeholder="Insert text here" required></textarea>
                 </div></td>                
                 <td>Gender
-                    <input type="checkbox" value="">
+                    <input type="checkbox" value="" class="checkbox-round">
                     <label for="female">Female</label>
-                    <input type="checkbox" value="">
+                    <input type="checkbox" value="" class="checkbox-round">
                     <label for="male">Male</label>
         
                 </td>
