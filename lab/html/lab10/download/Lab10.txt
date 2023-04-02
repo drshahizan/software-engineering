@@ -1,0 +1,33 @@
+Web Programming: Application Form
+Personal Details
+Name	
+--Select --
+ 
+Gender	Male Female 	Date of Birth	
+dd/mm/yyyy
+Marital Status	
+--Select--
+Religion	
+--Select--
+Contact Details
+Phone	
+E-mail	
+Address Line 1	
+Address Line 2	
+City	
+State	
+--Select--
+Qualification Details
+No.	Qualification	University	Passing Year	CGPA
+1.	
+--Select--
+2.	
+--Select--
+Language Knowledge
+Language	Reading	Writing	Speaking
+B. Melayu			
+English			
+Identification Details
+Identity Card Number	
+Passport Number	
+Upload Photo		Upload Signature
