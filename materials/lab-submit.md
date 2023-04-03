@@ -14,16 +14,17 @@ Don't forget to hit the :star: if you like this repo.
 | -----: | ----- | :------: | :------: | ------:|------:|------:| ------:|------:|------:|------:| ------:|
 | 1 | [akim730](https://github.com/akim730) |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 2 | [ariffdanish](https://github.com/ariffdanish) |:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|
-| 3 | [arinifthh](https://github.com/arinifthh) |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
+| 3 | [arinifthh](https://github.com/arinifthh) |:white_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 4 | [CheMrhumi](https://github.com/CheMrhumi) |:white_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
-| 6 | [danialharriz](https://github.com/danialharriz)  |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:|:x:|:x:|:x:|
+| 5 | [danialharriz](https://github.com/danialharriz)  |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:|:x:|:x:|:x:|
+| 6 | [daniel_hakim](https://github.com/daniel_hakim)  |:white_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 7 | [Jialegoh](https://github.com/Jialegoh)  |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:|
 | 8 | [kohxuan](https://github.com/kohxuan)  |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:|:x:|:x:|:x:|:x:|
 | 9 | [kugen03](https://github.com/kugen03)  |:white_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 10 | [Luqman08](https://github.com/Luqman08)  |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:|:x:|:x:|:x:|
 | 11 | [mnazhar13](https://github.com/mnazhar13)  |:white_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 12 | [MuhammadImanFirdaus](https://github.com/MuhammadImanFirdaus)  |:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|
-| 13 | [MuhdAnass](https://github.com/MuhdAnass)  |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
+| 13 | [MuhdAnass](https://github.com/MuhdAnass)  |:white_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 14 | [Mulyani28](https://github.com/Mulyani28)  |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:|:x:|:x:|:x:|
 | 15 | [mysarahzal](https://github.com/mysarahzal)  |:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
 | 16 | [Navachander1](https://github.com/Navachander1) |:white_check_mark:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|:x:|
