@@ -1,4 +1,5 @@
 <html>
+
 <head>
     <title>Medical Form</title>
     <!--
@@ -9,115 +10,98 @@
     Lab 9: HTML Forms
     -->
 </head>
+
 <body>
     <style>
-        .medBorder{
-            height:100%;
+        .medBorder {
+            height: 100%;
+            width: 100%;
             background-color: whiteS;
-            border:2px outset blue;
-            padding:10px;
-            font-family: Verdana, Geneva, Tahoma, sans-serif;
-            font-size: 12px;
-        }
-        table{
-            border-style: ridge;
-            border-collapse: collapse;
-            height: fit-content;
-            width: 100%s;
-            font-family: Verdana, Geneva, Tahoma, sans-serif;
-            font-size: 12px;
-        }
-        td, th {
-          border: 1px inset black;
-          padding: 1px;
-        }
-        .checkbox-round {
-            width: 1.3em;
-            height: 1.3em;
-            background-color: white;
-            border-radius: 50%;
-            vertical-align: middle;
-            border: 1px solid #ddd;
-            appearance: none;
-            -webkit-appearance: none;
-            outline: none;
-            cursor: pointer;
+            border: 2px outset blue;
+            padding: 10px;
         }
 
+        table,
+        td,
+        th {
+            border: 1px inset black;
+            padding: 1px;
+        }
     </style>
-    <div class="medBorder">
-        <table class="table">
-            <h3>Personal Information</h3>
-            <tr>
-                <td>First Name
-                    <div class="width:100px">
-                    <textarea placeholder="Insert text here" required></textarea>
-                </div></td>                
-                <td>Gender
-                    <input type="checkbox" value="" class="checkbox-round">
-                    <label for="female">Female</label>
-                    <input type="checkbox" value="" class="checkbox-round">
-                    <label for="male">Male</label>
-        
-                </td>
+    <form action="/action_page.php">
+        <fieldset style="width:75%">
+            <table>
+                <legend>Personal Information</legend>
+                <tr>
+                    <td>First Name
+        <textarea name="firstname" cols="20" rows="2"></textarea>
+    </td>
+    <td>Gender
+        <input type="radio" value="female">
+        <label for="female">Female</label>
+        <input type="radio" value="male">
+        <label for="male">Male</label>
 
-            </tr>
-            <tr>
-                <td>Last Name
-                        <div class="width:100px">
-                        <textarea placeholder="Insert text here" required></textarea>
-                        </div>
-                </td>
-                <td>Nationality</td>
-                <td>
-                <select>
-                    <option value=" ">Canadian</option>
-                    <option value=" ">American</option>
-                    <option value=" ">Europian</option>
-                    <option value=" ">Asian</option>
-                    <option value=" ">African</option>
-                </td>
-                </select>
-            </tr>
-            <tr>
-                <td>Address
-                <div class="col25 colleft">
-                    <div class="width:100px">
-                    <textarea placeholder="Insert text here" required></textarea>
-                    </div>
-                </div></td>
-            </tr>
-            </table>
-            
-            <br><br>
+    </td>
 
-            <h3>Medical Form</h3>
-            <form action="/action_page.php">
-                <input type="checkbox" value="">
-                <label for="smallpox">Smallpox</label>
-                <input type="checkbox" value="">
-                <label for="mumps">Mumps</label>
-                <input type="checkbox" value="">
-                <label for="dizzy">Dizzines</label>
-                <input type="checkbox" value="">
-                <label for="sneeze">Sneezing</label>
-            </form>
+    </tr>
+    <tr>
+        <form>
+            <td>Last Name
+        </form>
+            <textarea name="lastname" rows="2" cols="20"></textarea>
+        </td>
+        <td>Nationality</td>
+        <td>
+            <select id="Nationality" name="Nationality">
+                <option value=" ">Canadian</option>
+                <option value=" ">American</option>
+                <option value=" ">Europian</option>
+                <option value=" ">Asian</option>
+                <option value=" ">African</option>
+            </select>
+        </td>
+        </select>
+    </tr>
+    <tr style="height: 60px;">
+        <td>Address
+            <textarea name="address" rows="6" cols="30"></textarea>
+        </td>
+    </tr>
+    </table>
+    </fieldset>
 
-            <br><br>
-
-            <h3>Current Medication</h3>
-            <p>Are you currently taking any medication?
-            <input type="checkbox" value="">
+    <br><br>
+        <fieldset>
+            <legend>Medical Form</legend>
+    <form action="/action_page.php">
+        <input type="checkbox" value="">
+        <label for="smallpox">Smallpox</label>
+        <input type="checkbox" value="">
+        <label for="mumps">Mumps</label>
+        <input type="checkbox" value="">
+        <label for="dizzy">Dizzines</label>
+        <input type="checkbox" value="">
+        <label for="sneeze">Sneezing</label>
+    </form>
+    </fieldset>
+    <br><br>
+        <fieldset>
+            <legend>Current Medication</legend>
+            Are you currently taking any medication?
+            <input type="radio" value="">
             <label for="yes">Yes</label>
-            <input type="checkbox" value="">
+            <input type="radio" value="">
             <label for="no">No</label>
             <br>
-            If you are currently taking medication, please indicate it in the space below:
-            <div style="height: 50px; width: 100px;">
-                <div class="width:100px">
-                <textarea placeholder="Insert text here" required></textarea>
-                </div>
-            </div></p>
-    </div>
-        </body>
-        </html>
+            If you are currently taking medication, please indicate it in the space below:<br>
+            <textarea name="medication" rows="5" cols="60"></textarea>
+        </fieldset>
+        
+        <input type="sumbit" value="sumbit">
+        <input type="reset" value="reset">
+    </form>
+        
+</body>
+
+</html>
