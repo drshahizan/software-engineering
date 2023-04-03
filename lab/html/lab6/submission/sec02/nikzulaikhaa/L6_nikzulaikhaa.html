@@ -1,0 +1,94 @@
+<html>
+    <head>
+        <title>
+            HTML Table
+        </title>
+        <!--
+            Name: Nik Zulaikhaa Binti Zuraidi Afandi
+            Matrix No: A22EC0232
+            Github id: nikzulaikhaa
+
+            Lab 6: HTML Table
+        -->
+        <style>
+            table,td,th
+            {
+                border: 1px solid black;
+                border-collapse:collapse;
+                table-layout:fixed;
+                width:100%;
+                text-align:center;
+            }
+        </style>
+    </head>
+
+    <body>
+        <table>
+            <tr>
+                <th>Flight No</th>
+                <th>Place</th>
+                <th>Destination</th>
+                <th colspan="2">Time</th>
+            </tr>
+            <tr>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Arrival</td>
+                <td>Departure</td>
+            </tr>
+
+        </table>
+        <br>
+        <table>
+            <tr>
+                <td rowspan="2">Time</td>
+                <th>Johor Bahru</th>
+                <th>Jakarta</th>
+                <th>Dhaka</th>
+                <th>Jeddah</th>
+            </tr>
+            <tr>
+                <td>3:30 pm</td>
+                <td>2:30 pm</td>
+                <td>1:30 pm</td>
+                <td>10:30 am</td>
+            </tr>
+        </table>
+        <br>
+        <table>
+            <tr height="40px">
+                <td colspan="3" bgcolor="BLUE"> BLUE </td>
+            </tr>
+            <tr height="40px">
+                <td bgcolor="RED">RED</td>
+                <td bgcolor="GREEN">GREEN</td>
+                <td bgcolor="YELLOW">YELLOW</td>
+            </tr>
+        </table>
+        <br>
+        <table>
+            <tr>
+                <td>1</td>
+                <td>2</td>
+                <td>3</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <th colspan="2" rowspan="2">Image</th>
+                <td>6</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>10</td>
+                <td>11</td>
+                <td>12</td>
+            </tr>
+        </table>
+    </body>
+</html>
