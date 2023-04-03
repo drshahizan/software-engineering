@@ -18,15 +18,21 @@ Lab 9: HTML Forms
 <body>
 
     <style>
+        h1{text-align: center;}
         table, td{
             border: 1px solid black;
         }
     </style>
 
-   <table>
+    <h1 style="font-family: Verdana, Geneva, Tahoma, sans-serif; color: blue;"><b>Medical Form</b></h1>
+    
+    
+    <form action="/action_page.php">
+   <fieldset style="width: 75%;">
+    <legend>Personal Information</legend>
+    <table>
         <tr>
-            <td><form >
-                <label for="fname">First name:</label></form></td>
+            <td><label for="fname">First name:</label></form></td>
             <td> <input type="text" id="fname" name="fname" value=""><br></td>
             <td>Gender</td>
             <td><input type="radio" id="female" name="gender" value="Female">
@@ -55,8 +61,13 @@ Lab 9: HTML Forms
                 </textarea></td>
         </tr>
    </table>
+
+   </fieldset>
    <br>
-   <form>
+
+   <fieldset style="width: 75%;">
+    <legend>Medical History</legend>
+   
     <input type="checkbox" id="symptom1" name="symptom1" value="smallpox">
     <label for="vehicle1"> Smallpox</label>
     <input type="checkbox" id="symptom2" name="symptom2" value="mumps">
@@ -65,22 +76,27 @@ Lab 9: HTML Forms
     <label for="vehicle3"> Dizziness</label>
     <input type="checkbox" id="symptom4" name="symptom4" value="sneeze">
     <label for="vehicle3"> Sneezing</label>
-  </form>
+  
+  </fieldset>
    
-   <form> 
-    Are you currently taking any nmedication? 
+  <fieldset>
+    <legend>Current Medication</legend>
+   
+    Are you currently taking any medication? 
     <input type="radio" id="yes" name="yes" value="yes">
     <label for="yes">Yes</label>
     <input type="radio" id="no" name="no" value="no">
     <label for="no">No</label><br>
     If you are currently taking medication, please indicate it in the space below:<br>
-    <textarea name="medication" rows="6" cols="70"></textarea>
-   </form>
-    
-   <form>
+    <textarea name="medication" rows="10" cols="200"></textarea>
+   
+   </fieldset>
+ 
+   
     <input type="submit" value="Submit">
     <input type="reset" value="Reset">
-   </form>
+   
+</form>
     
     
 </body>
