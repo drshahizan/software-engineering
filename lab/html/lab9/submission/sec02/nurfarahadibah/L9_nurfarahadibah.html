@@ -22,17 +22,25 @@ Lab 9: HTML Forms
         table, td{
             border: 1px solid black;
         }
+        .Border {
+            height: 100%;
+            width: 100%;
+            background-color: whiteS;
+            border: 2px outset blue;
+            padding: 10px;
+        }
     </style>
-
+    <div class= "Border">
     <h1 style="font-family: Verdana, Geneva, Tahoma, sans-serif; color: blue;"><b>Medical Form</b></h1>
     
+   
     
     <form action="/action_page.php">
    <fieldset style="width: 75%;">
     <legend>Personal Information</legend>
     <table>
         <tr>
-            <td><label for="fname">First name:</label></form></td>
+            <td><label for="fname">First name:</label></td>
             <td> <input type="text" id="fname" name="fname" value=""><br></td>
             <td>Gender</td>
             <td><input type="radio" id="female" name="gender" value="Female">
@@ -41,8 +49,8 @@ Lab 9: HTML Forms
                 <label for="male">Male</label></td>
         </tr>
         <tr>
-            <td><form>
-                <label for="lname">Last name:</label></form></td>
+            <td>
+                <label for="lname">Last name:</label></td>
             <td> <input type="text" id="lname" name="lname" value=""><br></td>
             <td>Nationality</td>
             <td><select id="Nationality" name="Nationality">
@@ -97,7 +105,7 @@ Lab 9: HTML Forms
     <input type="reset" value="Reset">
    
 </form>
-    
+</div>  
     
 </body>
 </html>
