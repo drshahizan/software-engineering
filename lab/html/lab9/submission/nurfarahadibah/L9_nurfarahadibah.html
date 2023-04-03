@@ -18,12 +18,17 @@ Lab 9: HTML Forms
 <body>
 
     <style>
+        h1{text-align: center;}
         table, td{
             border: 1px solid black;
         }
     </style>
 
-   <table>
+    <h1 style="font-family: Verdana, Geneva, Tahoma, sans-serif; color: blue;"><b>Medical Form</b></h1>
+   
+   <fieldset style="width: 75%;">
+    <legend>Personal Information</legend>
+    <table>
         <tr>
             <td><form >
                 <label for="fname">First name:</label></form></td>
@@ -55,7 +60,11 @@ Lab 9: HTML Forms
                 </textarea></td>
         </tr>
    </table>
+   </fieldset>
    <br>
+
+   <fieldset style="width: 75%;">
+    <legend>Medical History</legend>
    <form>
     <input type="checkbox" id="symptom1" name="symptom1" value="smallpox">
     <label for="vehicle1"> Smallpox</label>
@@ -66,7 +75,10 @@ Lab 9: HTML Forms
     <input type="checkbox" id="symptom4" name="symptom4" value="sneeze">
     <label for="vehicle3"> Sneezing</label>
   </form>
+  </fieldset>
    
+  <fieldset>
+    <legend>Current Medication</legend>
    <form> 
     Are you currently taking any nmedication? 
     <input type="radio" id="yes" name="yes" value="yes">
@@ -76,7 +88,8 @@ Lab 9: HTML Forms
     If you are currently taking medication, please indicate it in the space below:<br>
     <textarea name="medication" rows="6" cols="70"></textarea>
    </form>
-    
+   </fieldset>
+ 
    <form>
     <input type="submit" value="Submit">
     <input type="reset" value="Reset">
