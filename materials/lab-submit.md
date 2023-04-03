@@ -1,0 +1,52 @@
+<a href="https://github.com/drshahizan/software-engineering/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/software-engineering" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/software-engineering/network/members"><img src="https://img.shields.io/github/forks/drshahizan/software-engineering" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/software-engineering/issues"><img src="https://img.shields.io/github/issues/drshahizan/software-engineering" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/software-engineering/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/software-engineering?color=2b9348"></a>
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/software-engineering)
+
+Don't forget to hit the :star: if you like this repo.
+
+## Lab Submission
+
+
+| No | GithubID | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| -----: | ----- | :------: | :------: | ------:|------:|------:| ------:|------:|------:|------:| ------:|
+| 1 | [akim730](https://github.com/akim730) |N|
+| 2 | [ariffdanish](https://github.com/ariffdanish) |Y|
+| 3 | [arinifthh](https://github.com/arinifthh) |N|
+| 4 | [CheMrhumi](https://github.com/CheMrhumi) |Y|
+| 6 | [danialharriz](https://github.com/danialharriz)  |Y|
+| 7 | [Jialegoh](https://github.com/Jialegoh)  |Y|
+| 8 | [kohxuan](https://github.com/kohxuan)  |Y|
+| 9 | [kugen03](https://github.com/kugen03)  |Y|
+| 10 | [Luqman08](https://github.com/Luqman08)  |Y|
+| 11 | [mnazhar13](https://github.com/mnazhar13)  |Y|
+| 12 | [MuhammadImanFirdaus](https://github.com/MuhammadImanFirdaus)  |Y|
+| 13 | [MuhdAnass](https://github.com/MuhdAnass)  |N|
+| 14 | [Mulyani28](https://github.com/Mulyani28)  |Y|
+| 15 | [mysarahzal](https://github.com/mysarahzal)  |N|
+| 16 | [Navachander1](https://github.com/Navachander1) |Y|
+| 17 | [Navasarathy](https://github.com/Navasarathy)  |N|
+| 18 | [nikzulaikhaa](https://github.com/nikzulaikhaa)  |Y|
+| 19 | [nrulerina](https://github.com/nrulerina)  |Y|
+| 20 | [NurAleysha](https://github.com/NurAleysha)  |Y|
+| 21 | [nurfarahadibah](https://github.com/nurfarahadibah)  |Y|
+| 22 | [oishylea](https://github.com/oishylea)  | Y|
+| 23 | [ONGYIYAN](https://github.com/ONGYIYAN)  |Y|
+| 24 | [SabrinaNadhrah](https://github.com/SabrinaNadhrah)  |Y|
+| 25 | [safwan031](https://github.com/safwan031)  |Y|
+| 26 | [Salini1](https://github.com/Salini1)  |Y|
+| 27 | [ThevanRaju](https://github.com/ThevanRaju)  |Y|
+| 28 | [vinesh06](https://github.com/vinesh06)  |Y|
+| 29 | [wannursofea](https://github.com/wannursofea)  |Y|
+| 30 | [yan-qing09](https://github.com/yan-qing09)  |Y|
+| 31 | [YIKHONGLEE](https://github.com/YIKHONGLEE)  |N|
+
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
