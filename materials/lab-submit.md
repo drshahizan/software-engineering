@@ -12,10 +12,10 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | GithubID | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | -----: | ----- | :------: | :------: | ------:|------:|------:| ------:|------:|------:|------:| ------:|
-| 1 | [akim730](https://github.com/akim730) | N |
+| 1 | [akim730](https://github.com/akim730) |N|
 | 2 | [ariffdanish](https://github.com/ariffdanish) |Y|
 | 3 | [arinifthh](https://github.com/arinifthh) |N|
-| 4 | [CheMrhumi](https://github.com/CheMrhumi) | Y|
+| 4 | [CheMrhumi](https://github.com/CheMrhumi) |Y|
 | 6 | [danialharriz](https://github.com/danialharriz)  |Y|
 | 7 | [Jialegoh](https://github.com/Jialegoh)  |Y|
 | 8 | [kohxuan](https://github.com/kohxuan)  |Y|
@@ -23,11 +23,11 @@ Don't forget to hit the :star: if you like this repo.
 | 10 | [Luqman08](https://github.com/Luqman08)  |Y|
 | 11 | [mnazhar13](https://github.com/mnazhar13)  |Y|
 | 12 | [MuhammadImanFirdaus](https://github.com/MuhammadImanFirdaus)  |Y|
-| 13 | [MuhdAnass](https://github.com/MuhdAnass)  |
+| 13 | [MuhdAnass](https://github.com/MuhdAnass)  |N|
 | 14 | [Mulyani28](https://github.com/Mulyani28)  |Y|
 | 15 | [mysarahzal](https://github.com/mysarahzal)  |
 | 16 | [Navachander1](https://github.com/Navachander1) |Y|
-| 17 | [Navasarathy](https://github.com/Navasarathy)  |
+| 17 | [Navasarathy](https://github.com/Navasarathy)  |N|
 | 18 | [nikzulaikhaa](https://github.com/nikzulaikhaa)  |Y|
 | 19 | [nrulerina](https://github.com/nrulerina)  |Y|
 | 20 | [NurAleysha](https://github.com/NurAleysha)  |Y|
@@ -41,7 +41,7 @@ Don't forget to hit the :star: if you like this repo.
 | 28 | [vinesh06](https://github.com/vinesh06)  |Y|
 | 29 | [wannursofea](https://github.com/wannursofea)  |Y|
 | 30 | [yan-qing09](https://github.com/yan-qing09)  |Y|
-| 31 | [YIKHONGLEE](https://github.com/YIKHONGLEE)  | |
+| 31 | [YIKHONGLEE](https://github.com/YIKHONGLEE)  |N|
 
 
 ## Contribution 🛠️
