@@ -14,12 +14,12 @@ Don't forget to hit the :star: if you like this repo.
 | -----: | ----- | :------: | :------: | ------:|------:|------:| ------:|------:|------:|------:| ------:|
 | 1 | [akim730](https://github.com/akim730) |N|N|
 | 2 | [ariffdanish](https://github.com/ariffdanish) |Y|Y|
-| 3 | [arinifthh](https://github.com/arinifthh) |N|
-| 4 | [CheMrhumi](https://github.com/CheMrhumi) |Y|
+| 3 | [arinifthh](https://github.com/arinifthh) |N|N|
+| 4 | [CheMrhumi](https://github.com/CheMrhumi) |Y|N|
 | 6 | [danialharriz](https://github.com/danialharriz)  |Y|Y|
 | 7 | [Jialegoh](https://github.com/Jialegoh)  |Y|Y|
 | 8 | [kohxuan](https://github.com/kohxuan)  |Y|Y|
-| 9 | [kugen03](https://github.com/kugen03)  |Y||N|
+| 9 | [kugen03](https://github.com/kugen03)  |Y|N|
 | 10 | [Luqman08](https://github.com/Luqman08)  |Y|Y|
 | 11 | [mnazhar13](https://github.com/mnazhar13)  |Y|N|
 | 12 | [MuhammadImanFirdaus](https://github.com/MuhammadImanFirdaus)  |Y|Y|
@@ -27,7 +27,7 @@ Don't forget to hit the :star: if you like this repo.
 | 14 | [Mulyani28](https://github.com/Mulyani28)  |Y|Y|
 | 15 | [mysarahzal](https://github.com/mysarahzal)  |N|N|
 | 16 | [Navachander1](https://github.com/Navachander1) |Y|N|
-| 17 | [Navasarathy](https://github.com/Navasarathy)  |N||N|
+| 17 | [Navasarathy](https://github.com/Navasarathy)  |N|N|
 | 18 | [nikzulaikhaa](https://github.com/nikzulaikhaa)  |Y|Y|
 | 19 | [nrulerina](https://github.com/nrulerina)  |Y|Y|
 | 20 | [NurAleysha](https://github.com/NurAleysha)  |Y|Y|
