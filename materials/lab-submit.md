@@ -23,26 +23,25 @@ Don't forget to hit the :star: if you like this repo.
 | 10 | [Luqman08](https://github.com/Luqman08)  |
 | 11 | [mnazhar13](https://github.com/mnazhar13)  | :white_check_mark: |
 | 12 | [MuhammadImanFirdaus](https://github.com/MuhammadImanFirdaus)  |
-| 13 | [fahmiwahab29](https://github.com/fahmiwahab29)  |
-| 14 | [Faizal994](https://github.com/Faizal994)  | :white_check_mark: |
-| 15 | [harismazlan](https://github.com/harismazlan)  |
-| 16 | [hazida](https://github.com/hazida) | 
-| 17 | [lamki](https://github.com/lamki)  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |:white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| 18 | [Logeswary98](https://github.com/Logeswary98)  | :white_check_mark: |
-| 19 | [mhafiziskandar](https://github.com/mhafiziskandar)  | :white_check_mark: |
-| 20 | [mohdnoorhafiz](https://github.com/mohdnoorhafiz)  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| 21 | [nabilaharahman](https://github.com/nabilaharahman)  |
-| 22 | [oldpistol](https://github.com/oldpistol)  | :white_check_mark: |
-| 23 | [RN1310](https://github.com/RN1310)  | :white_check_mark: |
-| 24 | [sepz36](https://github.com/sepz36)  | :white_check_mark: |
-| 25 | [Shan9821](https://github.com/Shan9821)  | :white_check_mark: |
-| 26 | [Sharvin01](https://github.com/Sharvin01)  |
-| 27 | [Spek1993](https://github.com/Spek1993)  | :white_check_mark: |
-| 28 | [sreshila30](https://github.com/sreshila30)  |
-| 29 | [Subahshini15](https://github.com/Subahshini15)  | :white_check_mark: |
-| 30 | [syaifulalfraiza](https://github.com/syaifulalfraiza)  |
-| 31 | [syazreel28](https://github.com/syazreel28)  | :white_check_mark: |
-| 32 | [twilighttttt](https://github.com/twilighttttt)  |
+| 13 | [MuhdAnass](https://github.com/MuhdAnass)  |
+| 14 | [Mulyani28](https://github.com/Mulyani28)  | :white_check_mark: |
+| 15 | [mysarahzal](https://github.com/mysarahzal)  |
+| 16 | [Navachander1](https://github.com/Navachander1) | 
+| 17 | [Navasarathy](https://github.com/Navasarathy)  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |:white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 18 | [nikzulaikhaa](https://github.com/nikzulaikhaa)  | :white_check_mark: |
+| 19 | [nrulerina](https://github.com/nrulerina)  | :white_check_mark: |
+| 20 | [NurAleysha](https://github.com/NurAleysha)  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 21 | [nurfarahadibah](https://github.com/nurfarahadibah)  |
+| 22 | [oishylea](https://github.com/oishylea)  | :white_check_mark: |
+| 23 | [ONGYIYAN](https://github.com/ONGYIYAN)  | :white_check_mark: |
+| 24 | [SabrinaNadhrah](https://github.com/SabrinaNadhrah)  | :white_check_mark: |
+| 25 | [safwan031](https://github.com/safwan031)  | :white_check_mark: |
+| 26 | [Salini1](https://github.com/Salini1)  |
+| 27 | [ThevanRaju](https://github.com/ThevanRaju)  | :white_check_mark: |
+| 28 | [vinesh06](https://github.com/vinesh06)  |
+| 29 | [wannursofea](https://github.com/wannursofea)  | :white_check_mark: |
+| 30 | [yan-qing09](https://github.com/yan-qing09)  |
+| 31 | [YIKHONGLEE](https://github.com/YIKHONGLEE)  | :white_check_mark: |
 
 
 ## Contribution 🛠️
