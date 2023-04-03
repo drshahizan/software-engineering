@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+
+<head>   
+    <title>Lab 6: HTML Table</title>
+    <!--
+    Name: TANG YAN QING
+    Matrix No: A22EC0109
+    Github id: yan-qing09
+    
+    Lab 6: HTML Table
+    -->
+
+    <style>
+        th,td{
+            border:1px solid black;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align:center;
+        }
+
+        table{
+            border-collapse: collapse;
+            width:700px;
+            height:50px;
+            margin-top:20px;
+            margin-bottom:20px;
+            table-layout:fixed;
+        }
+
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>Flight No</th>
+            <th>Place</th>
+            <th>Destination</th>
+            <th colspan="2">Time</th>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>Arrival</td>
+            <td>Departure</td>
+        </tr>    
+    </table>
+
+    <table>
+        <tr>
+            <td rowspan="2" style="vertical-align:top">Time</td>
+            <th>Johor Bahru</th>
+            <th>Jakarta</th>
+            <th>Dhaka</th>
+            <th>Jeddah</th>
+        </tr>
+        <tr>
+            <td>3:30 pm</td>
+            <td>2:30 pm</td>
+            <td>1:30 pm</td>
+            <td>10:30 am</td>
+        </tr>
+    </table>
+
+    <table style="height:150px;">
+        <tr>
+            <td colspan="3"; style="background-color: rgba(0, 0, 255, 0.681);">BLUE</td>
+        <tr>
+            <td style="background-color: rgba(255, 0, 0, 0.766);">RED</td>
+            <td style="background-color: rgba(53, 129, 53, 0.83);">GREEN</td>
+            <td style="background-color: rgba(255, 255, 0, 0.922);">YELLOW</td>
+        </tr>
+    </table>
+
+    <table>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <th rowspan="2" colspan="2">Image</th>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>10</td>
+            <td>11</td>
+            <td>12</td>
+        </tr>
+    </table>
+
+</body>
+</html>
