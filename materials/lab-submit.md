@@ -9,39 +9,39 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Lab Submission
 
+
 | No | GithubID | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | -----: | ----- | :------: | :------: | ------:|------:|------:| ------:|------:|------:|------:| ------:|
-| 1 | [akim730](https://github.com/akim730) | :white_check_mark: |
-| 2 | [ariffdanish](https://github.com/ariffdanish) |
-| 3 | [arinifthh](https://github.com/arinifthh) |
-| 4 | [CheMrhumi](https://github.com/CheMrhumi) | :white_check_mark: |
-| 5 | [amrhfy](https://github.com/amrhfy) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| 6 | [danialharriz](https://github.com/danialharriz)  |
-| 7 | [Jialegoh](https://github.com/Jialegoh)  |
-| 8 | [kohxuan](https://github.com/kohxuan)  | :white_check_mark: |
-| 9 | [kugen03](https://github.com/kugen03)  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| 10 | [Luqman08](https://github.com/Luqman08)  |
-| 11 | [mnazhar13](https://github.com/mnazhar13)  | :white_check_mark: |
-| 12 | [MuhammadImanFirdaus](https://github.com/MuhammadImanFirdaus)  |
+| 1 | [akim730](https://github.com/akim730) | N |
+| 2 | [ariffdanish](https://github.com/ariffdanish) |Y|
+| 3 | [arinifthh](https://github.com/arinifthh) |N|
+| 4 | [CheMrhumi](https://github.com/CheMrhumi) | Y|
+| 6 | [danialharriz](https://github.com/danialharriz)  |Y|
+| 7 | [Jialegoh](https://github.com/Jialegoh)  |Y|
+| 8 | [kohxuan](https://github.com/kohxuan)  |Y|
+| 9 | [kugen03](https://github.com/kugen03)  |Y|
+| 10 | [Luqman08](https://github.com/Luqman08)  |Y|
+| 11 | [mnazhar13](https://github.com/mnazhar13)  |Y|
+| 12 | [MuhammadImanFirdaus](https://github.com/MuhammadImanFirdaus)  |Y|
 | 13 | [MuhdAnass](https://github.com/MuhdAnass)  |
-| 14 | [Mulyani28](https://github.com/Mulyani28)  | :white_check_mark: |
+| 14 | [Mulyani28](https://github.com/Mulyani28)  |Y|
 | 15 | [mysarahzal](https://github.com/mysarahzal)  |
-| 16 | [Navachander1](https://github.com/Navachander1) | 
-| 17 | [Navasarathy](https://github.com/Navasarathy)  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |:white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| 18 | [nikzulaikhaa](https://github.com/nikzulaikhaa)  | :white_check_mark: |
-| 19 | [nrulerina](https://github.com/nrulerina)  | :white_check_mark: |
-| 20 | [NurAleysha](https://github.com/NurAleysha)  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| 21 | [nurfarahadibah](https://github.com/nurfarahadibah)  |
-| 22 | [oishylea](https://github.com/oishylea)  | :white_check_mark: |
-| 23 | [ONGYIYAN](https://github.com/ONGYIYAN)  | :white_check_mark: |
-| 24 | [SabrinaNadhrah](https://github.com/SabrinaNadhrah)  | :white_check_mark: |
-| 25 | [safwan031](https://github.com/safwan031)  | :white_check_mark: |
-| 26 | [Salini1](https://github.com/Salini1)  |
-| 27 | [ThevanRaju](https://github.com/ThevanRaju)  | :white_check_mark: |
-| 28 | [vinesh06](https://github.com/vinesh06)  |
-| 29 | [wannursofea](https://github.com/wannursofea)  | :white_check_mark: |
-| 30 | [yan-qing09](https://github.com/yan-qing09)  |
-| 31 | [YIKHONGLEE](https://github.com/YIKHONGLEE)  | :white_check_mark: |
+| 16 | [Navachander1](https://github.com/Navachander1) |Y|
+| 17 | [Navasarathy](https://github.com/Navasarathy)  |
+| 18 | [nikzulaikhaa](https://github.com/nikzulaikhaa)  |Y|
+| 19 | [nrulerina](https://github.com/nrulerina)  |Y|
+| 20 | [NurAleysha](https://github.com/NurAleysha)  |Y|
+| 21 | [nurfarahadibah](https://github.com/nurfarahadibah)  |Y|
+| 22 | [oishylea](https://github.com/oishylea)  | Y|
+| 23 | [ONGYIYAN](https://github.com/ONGYIYAN)  |Y|
+| 24 | [SabrinaNadhrah](https://github.com/SabrinaNadhrah)  |Y|
+| 25 | [safwan031](https://github.com/safwan031)  |Y|
+| 26 | [Salini1](https://github.com/Salini1)  |Y|
+| 27 | [ThevanRaju](https://github.com/ThevanRaju)  |Y|
+| 28 | [vinesh06](https://github.com/vinesh06)  |Y|
+| 29 | [wannursofea](https://github.com/wannursofea)  |Y|
+| 30 | [yan-qing09](https://github.com/yan-qing09)  |Y|
+| 31 | [YIKHONGLEE](https://github.com/YIKHONGLEE)  | |
 
 
 ## Contribution 🛠️
