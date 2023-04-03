@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>L6_Jialegoh</title>
+    
+    <!--
+		Name:		Goh Jiale
+		Matrix No:	A22EA0043
+		Github id:	Jialegoh
+
+		Lab 6: HTML Table
+	-->
+
+</head>
+
+<body>
+
+<table style="border-collapse: collapse;width:100%">
+    <tr>
+        <th style="border: 1px solid black;width:20%;text-align:center;">Flight No</th>
+        <th style="border: 1px solid black;width:20%;text-align:center;">Place</th>
+        <th style="border: 1px solid black;width:20%;text-align:center;">Destination</th>
+        <th style="border: 1px solid black;width:40%;text-align:center;" colspan="2">Time</th>
+
+    </tr>
+    <tr>
+        <td style="border: 1px solid black;width:20%;text-align:center;"></td>
+        <td style="border: 1px solid black;width:20%;text-align:center;"></td>
+        <td style="border: 1px solid black;width:20%;text-align:center;"></td>
+        <td style="border: 1px solid black;width:20%;text-align:center;">Arrival</td>
+        <td style="border: 1px solid black;width:20%;text-align:center;">Departure</td>
+
+    </tr>
+</table><br>
+   
+   
+<table style="border-collapse: collapse;width:100%">
+    <tr>
+        <td style="border: 1px solid black;width:20%;text-align:center;" rowspan="2">Time</td>
+        <th style="border: 1px solid black;width:20%;text-align:center;">Johor Bahru</th>
+        <th style="border: 1px solid black;width:20%;text-align:center;">Jakarta</th>
+        <th style="border: 1px solid black;width:20%;text-align:center;">Dhaka</th>
+        <th style="border: 1px solid black;width:20%;text-align:center;">Jeddah</th>
+
+    </tr>
+    <tr>
+        <td style="border: 1px solid black;width:20%;text-align:center;">3:30 pm</td>
+        <td style="border: 1px solid black;width:20%;text-align:center;">2:30 pm</td>
+        <td style="border: 1px solid black;width:20%;text-align:center;">1:30 pm</td>
+        <td style="border: 1px solid black;width:20%;text-align:center;">10:30 pm</td>
+
+    </tr>
+</table><br>
+
+
+<table style="border-collapse: collapse;width:100%">
+    <tr>
+        <td style="border: 1px solid black;width:100%;text-align:center; background-color: lightblue;" colspan="3">BLUE</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; width:33%;text-align:center; background-color: rgb(255, 128, 128);">RED</td>
+        <td style="border: 1px solid black; width:33%;text-align:center; background-color: lightgreen;">GREEN</td>
+        <td style="border: 1px solid black; width:33%;text-align:center; background-color: lightyellow;">YELLOW</td>
+
+    </tr>
+</table><br>
+
+
+
+<table style="border-collapse: collapse;width:100%">
+    <tr>
+        <td style="border: 1px solid black; width:25%;text-align:center;">1</td>
+        <td style="border: 1px solid black; width:25%;text-align:center;">2</td>
+        <td style="border: 1px solid black; width:25%;text-align:center;">3</td>
+        <td style="border: 1px solid black; width:25%;text-align:center;">4</td>
+
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; width:25%;text-align:center;">5</td>
+        <th style="border: 1px solid black;width:50%;text-align:center;" colspan="2" rowspan="2">Image</th>
+        <td style="border: 1px solid black; width:25%;text-align:center;">6</td>
+        
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; width:25%;text-align:center;">7</td>
+        <td style="border: 1px solid black; width:25%;text-align:center;">8</td>
+
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; width:25%;text-align:center;">9</td>
+        <td style="border: 1px solid black; width:25%;text-align:center;">10</td>
+        <td style="border: 1px solid black; width:25%;text-align:center;">11</td>
+        <td style="border: 1px solid black; width:25%;text-align:center;">12</td>
+
+    </tr>
+</table><br>
+   
+   
+   
+</body>
+</html>
