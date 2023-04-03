@@ -25,7 +25,7 @@ Don't forget to hit the :star: if you like this repo.
 | 12 | [MuhammadImanFirdaus](https://github.com/MuhammadImanFirdaus)  |Y|
 | 13 | [MuhdAnass](https://github.com/MuhdAnass)  |N|
 | 14 | [Mulyani28](https://github.com/Mulyani28)  |Y|
-| 15 | [mysarahzal](https://github.com/mysarahzal)  |
+| 15 | [mysarahzal](https://github.com/mysarahzal)  |N|
 | 16 | [Navachander1](https://github.com/Navachander1) |Y|
 | 17 | [Navasarathy](https://github.com/Navasarathy)  |N|
 | 18 | [nikzulaikhaa](https://github.com/nikzulaikhaa)  |Y|
