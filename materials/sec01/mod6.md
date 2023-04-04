@@ -8,7 +8,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 <!---
-Module X: XXX
+Module 6: Architectural Design
 
 Group LimaPuluh
 1. Lim Jing Yong
