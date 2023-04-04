@@ -12,6 +12,42 @@ Lab 9: HTML Forms
 </head>
 
 <body>
+    <style>
+        table, td, th
+        {
+            border: 1px solid black;
+            table-layout: auto;
+        }
+        .Border
+        {
+            border: 3px blue;
+            background-color: white;
+            width: 900px;
+            height: 500px;
+            padding: auto;
+        }
+    </style>
+    <div class="Border">
+    <h1 style="font-family: Verdana, Geneva, Tahoma, sans-serif; color: blue; text-align: center;"><b>Medical Form</b></h1><br>
+
+    <form action="/action_page.php" id="medicalform">
+        <fieldset style="border: 3px; color:blue; width: 900px;">
+            <fieldset style="width: 600px; border: 1px solid black;">
+                <legend>Personal Information</legend><br>
+                <table>
+                    <tr>
+                        <td><label for="fname">First Name</label></td>
+                        <td><input type="text" id="fname" name="fname"></td>
+                        <td><label for="gender">Gender</label></td>
+                        <td><input type="radio" name="gender" value="male">male
+                            <input type="radio" name="gender" value="female">female
+                        </td>
+                    </tr>
+                </table>
+            </fieldset>
+        </fieldset>
+    </form>
+
 
 </body>
 
