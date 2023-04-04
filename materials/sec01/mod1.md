@@ -11,7 +11,7 @@ Don't forget to hit the :star: if you like this repo.
 Module 1: Introduction to Software Engineering 
 
 Group Explorer
-1. KOH LI HUI
+1. KOH LI HUI A22EC0059
 2. LOW JIE SHENG
 3. CHEN PYNG HAW
 
