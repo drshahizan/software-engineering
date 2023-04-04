@@ -7,16 +7,16 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-<!---
-Module X: XXX
 
-Group XXXX
-1. XXXX
-2. XXXX
-3. XXXX
+Module 3: Agile Software Development
+
+Group Curiousity
+1. Ng Shu Yu
+2. Camily Tang Jia Lei
+3. Tan Jun Yuan
 4. Low Ying Xi
 
--->
+
 
 # Module 1: Introduction to Software Engineering 
 
