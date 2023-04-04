@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 Module 4: Requirements Engineering
 
-Group XXXX
+Group dunno
 1. GOH JING YANG
 2. LOO JIA CHANG
 3. TIEW CHUAN SHEN
