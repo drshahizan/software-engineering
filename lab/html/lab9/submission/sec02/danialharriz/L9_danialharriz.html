@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Medical Form</title>
+
+<!--
+Name: Danial Harriz bin Mohd Asineh @ Mohd Asneh
+Matrix No: A22EC0152
+Github id: danialharriz
+
+Lab 9: HTML Forms
+-->
+
+    <body>
+        <style>
+            .outerBorder
+            {
+                border: 1px solid blue;
+                height: 600px;
+            }
+            fieldset
+            {
+                border: 1px grey;
+                border-width: 2px;
+                border-style: solid;
+                width: 50%;
+
+            }
+            legend 
+            {
+                color: black;
+                padding: 5px;
+            }
+            table, td,tr 
+            {
+                border: 1px solid black;
+            }
+
+            select 
+            {
+                text-align: center;
+                width: 150px;
+            }
+        </style>
+
+        <h1 style="text-align: center; color: blue; font-family: Verdana, Geneva, Tahoma, sans-serif;" ><b>Medical Form</b></h1>
+        <div class="outerBorder">
+        <form action="/action_page.php">
+            <fieldset>
+                <legend>Personal Information</legend>
+                <table>
+                    <tr>
+                        <td>First name</td>
+                        <td><input type="text" id="first" name="first"></td>
+                        <td>Gender</td>
+                        <td><input type="radio" id="female" name="gender" value="female">
+                                <label for="female">Female</label>
+                                <input type="radio" id="male" name="gender" value="male">
+                                <label for="male">Male</label></td>
+                    </tr>
+
+                    <tr>
+                        <td>Last Name</td>
+                        <td><input type="text" id="second" name="second"></td>
+                        <td>Nationality</td>
+                        <td>
+                            <select name="nationality">
+                                <option value="">--SELECT--</option>
+                                <option value="Malaysian">Malaysia</option>
+                                <option value="Singaporean">Singapore</option>
+                            </select>
+                        </td>
+                    </tr>
+
+                    <tr style="height: 150px;">
+                        <td>Address</td>
+                        <td colspan="3">
+                            <textarea cols="30" rows="8" name="address"></textarea>
+                        </td>  
+                    </tr>
+                </table>
+            </fieldset>
+
+            <fieldset>
+                <legend>Medical History</legend>
+                
+                <tr>
+                    <td><input type="checkbox" id="smallpox" name="mh1" value="smallpox"></td>
+                    <td>Smallpox</td>
+                    <td><input type="checkbox" id="mumps" name="mh2" value="mumps"></td>
+                    <td>Mumps</td>
+                    <td><input type="checkbox" id="dizziness" name="mh3" value="dizziness"></td>
+                    <td>Dizziness</td>
+                    <td><input type="checkbox" id="sneezing" name="mh4" value="sneezing"></td>
+                    <td>Sneezing</td>
+                </tr>
+                
+            </fieldset>
+
+            <fieldset>
+                <legend>Current Medication</legend>
+
+    
+                    Are you currently taking any medication?
+                    <input type="radio" id="y/n" name="yes" value="yes">
+                    <label>Yes</label>
+                    <input type="radio" id="y/n" name="no" value="no">
+                    <label>No</label>
+
+                    <br>
+                    If you are currently taking medication, please indicate it in the space below:
+                    <textarea style="width: 100%;" name="medication" rows="8" cols="100"></textarea>
+            </fieldset>
+            
+            <input type="submit" value="Submit">
+            <input type="reset" value="Reset">
+
+        </form>
+        </div>
+    </body>
+</head>
+</html>

@@ -7,18 +7,17 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-<!---
-Module X: XXX
+Module 4: Requirements Engineering
 
-Group XXXX
-1. XXXX
-2. XXXX
-3. XXXX
-4. XXXX
+Group dunno
+1. GOH JING YANG
+2. LOO JIA CHANG
+3. TIEW CHUAN SHEN
 
--->
 
-# Module 1: Introduction to Software Engineering 
+
+
+# Module 4:  Requirements Engineering
 
 ### Contents:
 #### Notes
