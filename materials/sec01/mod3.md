@@ -18,7 +18,7 @@ Group Curiousity
 
 
 
-# Module 1: Introduction to Software Engineering 
+# Module 3: Agile Software Development
 
 ### Contents:
 #### Notes
