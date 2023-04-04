@@ -18,7 +18,7 @@ Group F4
 
 -->
 
-# Module 8: Software verification, validation and Testing 
+# Module 8: Software Verification, Validation and Testing 
 
 ### Contents:
 #### Notes
