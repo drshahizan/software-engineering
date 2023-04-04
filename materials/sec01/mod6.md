@@ -12,7 +12,7 @@ Module 6: Architectural Design
 
 Group LimaPuluh
 1. Lim Jing Yong
-2. Yong Wern Jie
+2. Yong Wern Jie A22EC0121
 3. Lee Soon Der
 4. Marcus Joey Sayner
 
