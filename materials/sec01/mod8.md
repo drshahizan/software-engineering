@@ -11,9 +11,9 @@ Don't forget to hit the :star: if you like this repo.
 Module 8: XXX
 
 Group XXXX
-1. XXXX
+1. CHAI YU TONG
 2. MUHAMMAD DANIAL BIN AHMAD SYAHIR
-3. CHAI YU TONG
+3. WONG QIAO YING
 4. YEOH CHONG YI
 
 -->
