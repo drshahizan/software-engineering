@@ -13,7 +13,7 @@ Module 2: Software Process Model
 Group NikoNikoNee
 1. Wong Jun Ji
 2. Tiew Chuan Rong
-3. XXXX
+3. Nicole Lim Tze Yee
 4. JASLENE YU
 
 
