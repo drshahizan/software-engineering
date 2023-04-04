@@ -22,7 +22,7 @@ This course is designed to give students an introduction to an engineering appro
 1. [Lecture Notes](https://drive.google.com/drive/folders/1fFqVSa7WdQ2Uet0UdvbQcALUVcqme6gw?usp=sharing)
 2. [Task 1: Additional Notes](./materials/Task1.md)
 3. [Lab exercise](./lab/)
-4. [Project 1: Personal Portfolio Website]
+4. [Project 1: Personal Portfolio Website](./project/1-portfolio/readme.md)
 5. [Software Engineering Project](./proposal/se-project.md)
 6. [Guideline for Software Engineering Proposal](./proposal/guideline.md)
 7. [Tender dan sebut harga](./proposal/tender.md)
