@@ -8,9 +8,9 @@
 Don't forget to hit the :star: if you like this repo.
 
 <!---
-Module 8: XXX
+Module 8: Software Verification, Validation and Testing
 
-Group XXXX
+Group F4
 1. CHAI YU TONG
 2. MUHAMMAD DANIAL BIN AHMAD SYAHIR
 3. WONG QIAO YING
