@@ -188,17 +188,11 @@ Post-conditions: The expected results or conditions that should be met after the
 Side-effects: Any additional outcomes or changes that occur as a result of executing the function/entity. These can include changes to the system or environment, resource usage, or other effects that may impact other functions or entities
 ### Template for Writing Functional Requirements
 > # Template: Requirements Statement Example
->
 > - The <user> shall be able to <capability>
->
 > - The **librarian** shall be able to **register library user**
->
 > - There shall be a <system function>
-> -
 > - There shall be a **library registration information facility**
->
 > - The <system function> shall able to <action> <entity>
->
 > - The **library registration information facility** shall be able to **store information**
  
 ### Templated for Writing Non-Functional Requirements
