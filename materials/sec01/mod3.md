@@ -10,9 +10,9 @@ Don't forget to hit the :star: if you like this repo.
 <!---
 Module X: XXX
 
-Group XXXX
+Group Curiosity
 1. XXXX
-2. XXXX
+2. Camily Tang Jia Lei
 3. XXXX
 4. XXXX
 
