@@ -18,7 +18,7 @@ Group LimaPuluh
 
 -->
 
-# Module 1: Introduction to Software Engineering 
+# Module 6: Architectural Design
 
 ### Contents:
 #### Notes
