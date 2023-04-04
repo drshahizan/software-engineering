@@ -12,6 +12,7 @@ Lab 6: HTML Table
 <style>
 	table, tr, td,th {
 	  font-family: Calibri;
+	  font-size: 120%;
 	  border:  solid black;
 	  border-collapse: collapse;
 	  padding: 20px;
@@ -36,7 +37,38 @@ Lab 6: HTML Table
 	  <td>Arrival</td>
 	  <td>Departure</td>
    </tr>
+<table>	
+<br>
+      <table style="width:100%">
+      <tr>
+        <th rowspan="2" text-align="top">Time</th>
+        <th>Johor Bahru</th>
+        <th>Jakarta</th>
+        <th>Osaka</th>
+        <th>Jeddah</th>
+        </tr>
+        <tr>
+          <td>3:30 pm</td>
+          <td>2.30 pm</td>
+          <td>1.30 pm</td>
+          <td>10.30 am</td>
+      </tr>
+      </table>
+<br>
 </table>
+	
+<br>
+<table style="width:100%">
+      <tr>
+        <th colspan="3" style="background-color: blue">BLUE</th>
+        </tr>
+        <tr>
+          <td style="background-color: red;">RED</td>
+          <td style="background-color: green;">GREEN</td>
+          <td style="background-color: yellow;">YELLOW</td>
+        </tr>
+</table>
+<br>
 
 </body>
 </html>
