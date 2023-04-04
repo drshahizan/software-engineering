@@ -7,6 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
+<!---
 Module 8: Software Verification, Validation and Testing
 
 Group F4
@@ -15,8 +16,9 @@ Group F4
 3. WONG QIAO YING
 4. YEOH CHONG YI
 
+-->
 
-# Module 1: Introduction to Software Engineering 
+# Module 8: Software verification, validation and Testing 
 
 ### Contents:
 #### Notes
