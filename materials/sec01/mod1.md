@@ -13,7 +13,7 @@ Module 1: Introduction to Software Engineering
 Group Explorer
 1. XXXX
 2. CHEN PYNG HAW A22EC0042
-3. XXXX
+3. LOW JIE SHENG
 4. XXXX
 
 
