@@ -18,8 +18,8 @@ Lab 10: Application Form
             <legend>Personal Detail</legend>
             <table>
                 <tr>
-                    <td>Name</td>
-                    <td>
+                    <td style="width:20%">Name</td>
+                    <td style="width:0%">
                         <select id="Name" name="name">
                             <option value="select">--Select--</option>
                             <option value="Tuan">Tuan</option>
@@ -29,21 +29,24 @@ Lab 10: Application Form
                             <option value="Encik">Encik</option>
                             <option value="Cik">Cik</option>
                         </select>
-                    </td>
-                    <td><!--nape text tu ke kanan sgt?-->
+                    </td >
+                    <td style="width:30%;">
                         <input type="text">
                     </td>
                 </tr>
                 <tr>
                     <td>Gender</td>
                     <td>
+                        <label for="male">Male</label>
                         <input type="radio" value="male">
-                        <label for="female">Male</label>
-                        <input type="radio" value="female">
-                        <label for="male">Female</label>
                     </td>
-                    <td></td>
                     <td>
+                        <label for="female">Female</label>
+                        <input type="radio" value="female">
+                    </td>
+                    
+                    <td></td>
+                    <td style="float: right;">
                         Date of Birth
                     </td>
                     <td>
@@ -60,6 +63,7 @@ Lab 10: Application Form
                             <option value="widow">Widow</option>
                         </select>
                     </td>
+                    <td></td>
                     <td>
                     <td>Religion</td>
                     <td>
