@@ -12,7 +12,7 @@ Module X: XXX
 
 Group XXXX
 1. XXXX
-2. XXXX
+2. KOH LI HUI
 3. LOW JIE SHENG
 4. XXXX
 
