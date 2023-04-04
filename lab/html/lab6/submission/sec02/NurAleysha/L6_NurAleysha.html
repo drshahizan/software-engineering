@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Nested List</title>
+
+    <!--
+        Name: Nur Aleysha Qurratu'aini Binti Mat Salleh
+        Matric No: A22EC0241
+        Github id: NurAleysha
+        Lab 6: HTML Table
+    -->
+    </head>
+
+    <body>
+        <style>
+            table {
+                font-family: arial, sans-serif;
+                border-collapse: collapse;
+                width: 100%;
+            }
+            td,th {
+                border: 1px solid black;
+                text-align: center;
+                padding: 1px;
+            }
+        </style>
+        <table>
+            <tr>
+                <th width="25%">Flight No</th>
+                <th width="25%">Place</th>
+                <th width="25%">Destination</th>
+                <th width="50%"; colspan="2">Time</th>
+                    <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>    
+                    <td>Arrival</td>
+                    <td>Departure</td>
+                    </tr>
+            </tr>
+        </table><br>
+
+        <table>
+            <tr>
+                <td rowspan="2">Time</td>
+                <th>Johor Bahru</th>
+                <th>Jakarta</th>
+                <th>Dhaka</th>
+                <th>Jeddah</th>       
+            </tr> 
+            <tr>
+                <td>3:30 pm</td>
+                <td>2:30 pm</td>
+                <td>2:30 pm</td>
+                <td>10:30 am</td>
+            </tr>
+        </table><br>
+
+        <table style="height: 130px">
+            <tr>
+                <td colspan="3"; style="background-color: blue">BLUE</td>
+            </tr>
+            <tr>
+                <td width="25%"; style="background-color: red">RED</td>
+                <td width="25%"; style="background-color: green">GREEN</td>
+                <td width="25%"; style="background-color: yellow">YELLOW</td>
+            </tr>
+        </table><br>
+
+        <table>
+            <tr>
+                <td>1</td>
+                <td>2</td>
+                <td>3</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <th rowspan="2"; colspan="2">Image</th>
+                <td>6</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>10</td>
+                <td>11</td>
+                <td>12</td>
+            </tr>
+        </table>
+
+    </body>
+</html>
