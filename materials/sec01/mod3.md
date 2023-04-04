@@ -12,7 +12,7 @@ Module 3: Agile Software Development
 
 Group Curiousity
 1. Ng Shu Yu
-2. XXXX
+2. Camily Tang Jia Lei
 3. XXXX
 4. XXXX
 
