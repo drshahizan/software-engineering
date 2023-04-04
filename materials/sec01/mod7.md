@@ -13,7 +13,7 @@ Module 7: XXX
 Group Four Peas in Pod
 1. Bernice Lim Jing Xuan , A22EC0038
 2. Kek Jesslyn, A22EC0057
-3. XXXX
+3. Soh Han Wei , A22EC0273
 4. Tan Jun Yuan, A22EC0107
 
 
