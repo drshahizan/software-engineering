@@ -8,12 +8,12 @@
 Don't forget to hit the :star: if you like this repo.
 
 <!---
-Module 5: 
+Module 5: XXX
 
-Group XXXX
-1. XXXX
-2. WONG KHAI SHIAN NICHOLAS
-3. XXXX
+Group PowerPuff Boys
+1. Neo Zheng Weng
+2. XXXX
+3. JOSEPH LAU YEO KAI
 4. XXXX
 
 -->
