@@ -8,13 +8,12 @@
 Don't forget to hit the :star: if you like this repo.
 
 <!---
-Module 5: XXX
+Module 5: Requirement Analysis and Modeling ME
 
 Group PowerPuff Boys
-1. Neo Zheng Weng
+1. Neo Zheng Weng A22EC0093
 2. NICHOLAS WONG KHAI SHIAN A22EC0292
 3. JOSEPH LAU YEO KAI A22EC0055
-4. XXXX
 
 -->
 
