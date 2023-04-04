@@ -31,7 +31,7 @@ Lab 9: HTML Forms
     <h1 style="font-family: Verdana, Geneva, Tahoma, sans-serif; color: blue; text-align: center;"><b>Medical Form</b></h1><br>
 
     <form action="/action_page.php" id="medicalform">
-        <fieldset style="border: 3px; color:blue; width: 900px;">
+        <fieldset style="border: 3px; color:black; width: 900px;">
             <fieldset style="width: 600px; border: 1px solid black;">
                 <legend>Personal Information</legend><br>
                 <table>
@@ -43,6 +43,18 @@ Lab 9: HTML Forms
                             <input type="radio" name="gender" value="female">female
                         </td>
                     </tr>
+                    <tr>
+                        <td><label for="lname">Last Name</label></td>
+                        <td><input type="text" id="lname" name="lname"></td>
+                        <td><label for="nationality">Nationality</label></td>
+                        <td><select id="nationality" name="nationality">
+                                <option value="Canadian">Canadian</option>
+                                <option value="American">American</option>
+                                <option value="Malaysian">Malaysian</option>
+                            </select>
+                        </td>
+                    </tr>
+                    
                 </table>
             </fieldset>
         </fieldset>
