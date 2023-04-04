@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-Module X: XXX
+Module 4: Requirements Engineering
 
 Group XXXX
 1. GOH JING YANG
@@ -17,7 +17,7 @@ Group XXXX
 
 
 
-# Module 4:  
+# Module 4:  Requirements Engineering
 
 ### Contents:
 #### Notes
