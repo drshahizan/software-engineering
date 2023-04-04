@@ -13,7 +13,7 @@ Module X: XXX
 Group LimaPuluh
 1. Lim Jing Yong
 2. Yong Wern Jie
-3. XXXX
+3. Lee Soon Der
 4. XXXX
 
 -->
