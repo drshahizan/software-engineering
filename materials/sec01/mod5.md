@@ -8,7 +8,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 <!---
-Module 5: Requirement Analysis and Modeling ME
+Module 5: Requirements Analysis and Modeling ME
 
 Group PowerPuff Boys
 1. Neo Zheng Weng A22EC0093
@@ -17,7 +17,7 @@ Group PowerPuff Boys
 
 -->
 
-# Module 5:  Requirement Analysis and Modeling ME
+# Module 5:  Requirements Analysis and Modeling ME
 
 ### Contents:
 #### Notes
