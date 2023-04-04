@@ -8,12 +8,12 @@
 Don't forget to hit the :star: if you like this repo.
 
 <!---
-Module X: XXX
+Module 8: XXX
 
 Group XXXX
 1. XXXX
 2. XXXX
-3. XXXX
+3. CHAI YU TONG
 4. XXXX
 
 -->
