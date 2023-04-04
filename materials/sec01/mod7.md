@@ -10,9 +10,9 @@ Don't forget to hit the :star: if you like this repo.
 <!---
 Module X: XXX
 
-Group XXXX
+Group Three Peas in Pod
 1. XXXX
-2. XXXX
+2. Kek Jesslyn, A22EC0057
 3. XXXX
 4. XXXX
 
