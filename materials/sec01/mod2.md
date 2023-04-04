@@ -14,7 +14,7 @@ Group NikoNikoNee
 1. Wong Jun Ji
 2. Tiew Chuan Rong
 3. Nicole Lim Tze Yee
-4. JASLENE YU
+4. Jaslene Yu
 
 
 
