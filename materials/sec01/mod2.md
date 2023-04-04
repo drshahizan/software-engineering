@@ -12,7 +12,7 @@ Module 2: XXX
 
 Group NikoNikoNee
 1. Wong Jun Ji
-2. XXXX
+2. Tiew Chuan Rong
 3. XXXX
 4. XXXX
 
