@@ -11,7 +11,7 @@ Don't forget to hit the :star: if you like this repo.
 Module X: XXX
 
 Group XXXX
-1. XXXX
+1. 
 2. XXXX
 3. XXXX
 4. XXXX
