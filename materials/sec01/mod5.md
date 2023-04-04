@@ -8,17 +8,16 @@
 Don't forget to hit the :star: if you like this repo.
 
 <!---
-Module X: XXX
+Module 5: Requirements Analysis and Modeling ME
 
-Group XXXX
-1. XXXX
-2. XXXX
-3. XXXX
-4. XXXX
+Group PowerPuff Boys
+1. Neo Zheng Weng A22EC0093
+2. NICHOLAS WONG KHAI SHIAN A22EC0292
+3. JOSEPH LAU YEO KAI A22EC0055
 
 -->
 
-# Module 1: Introduction to Software Engineering 
+# Module 5:  Requirements Analysis and Modeling ME
 
 ### Contents:
 #### Notes
