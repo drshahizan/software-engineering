@@ -12,8 +12,8 @@ Module 1: Introduction to Software Engineering
 
 Group Explorer
 1. KOH LI HUI A22EC0059
-2. LOW JIE SHENG
-3. CHEN PYNG HAW
+2. LOW JIE SHENG A22EC0075
+3. CHEN PYNG HAW A22EC0042
 
 
 
@@ -33,9 +33,4 @@ Software engineering is an essential field of study that deals with the design, 
 
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
-
-You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
-
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
-
+Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any 
