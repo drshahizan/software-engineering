@@ -10,7 +10,7 @@ Don't forget to hit the :star: if you like this repo.
 # Project 1: Personal Portfolio Website
 
 ## Description:
-Create a personal portfolio website that showcases your skills and experiences. The website should include an introduction section, a skills section, an experience section, and a contact section.
+Create a personal portfolio website that showcases your skills and experiences. The website should include an introduction section, a skills section, an experience section, and a contact section. You can refer to further explanation at [learn PHP github](https://github.com/drshahizan/learn-php/blob/main/materials/html-portfolio.md)
 
 ## Requirements:
 1. The website must be created using standard HTML code.
