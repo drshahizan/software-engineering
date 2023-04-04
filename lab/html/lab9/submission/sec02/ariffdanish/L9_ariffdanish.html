@@ -69,13 +69,17 @@ Lab 9: HTML Forms
             </fieldset>
             <fieldset style="width: 600px; border: 1px solid black;">
                 <legend>Current Medication</legend>
-                
-
+                <label for="currentmedication">Are you taking any medication ?</label>
+                <input type="radio" name="medication" value="Yes">Yes
+                <input type="radio" name="medication" value="No">No<br>
+                <label for="medication">If you currently taking medication, please indicate it in the space below :</label><br>
+                <textarea rows="10" cols="100" name="medication" form="medicalform"></textarea><br>
             </fieldset>
+            <input type="submit" value="Submit">
+            <input type="reset" value="Reset">
         </fieldset>
     </form>
-
-
+    </div>
 </body>
 
 </html>
