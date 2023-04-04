@@ -8,17 +8,17 @@
 Don't forget to hit the :star: if you like this repo.
 
 <!---
-Module X: XXX
+Module 8: Software Verification, Validation and Testing
 
-Group XXXX
-1. XXXX
-2. XXXX
-3. XXXX
-4. XXXX
+Group F4
+1. CHAI YU TONG
+2. MUHAMMAD DANIAL BIN AHMAD SYAHIR
+3. WONG QIAO YING
+4. YEOH CHONG YI
 
 -->
 
-# Module 1: Introduction to Software Engineering 
+# Module 8: Software Verification, Validation and Testing 
 
 ### Contents:
 #### Notes

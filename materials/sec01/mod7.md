@@ -7,16 +7,16 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-<!---
-Module X: XXX
 
-Group XXXX
-1. XXXX
-2. XXXX
-3. XXXX
-4. XXXX
+Module 7: XXX
 
--->
+Group Four Peas in Pod
+1. Bernice Lim Jing Xuan , A22EC0038
+2. Kek Jesslyn, A22EC0057
+3. Soh Han Wei , A22EC0273
+4. Tan Jun Yuan, A22EC0107
+
+
 
 # Module 1: Introduction to Software Engineering 
 

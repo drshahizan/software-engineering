@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<!--
+Name: MUHAMMAD ARIFF DANISH BIN HASHNAN
+Matrix No: A22EC0204
+Github id: ariffdanish
+    
+Lab 9: HTML Forms
+-->
+
+<head>
+    <title>Medical Form</title>
+</head>
+
+<body>
+    <style>
+        table, td, th
+        {
+            border: 1px inset solid black;
+            table-layout: auto;
+        }
+        .Border
+        {
+            border: 3px outset blue;
+            background-color: white;
+            width: 1000px;
+            height: 650px;
+            padding: auto;
+        }
+    </style>
+    <div class="Border">
+    <h1 style="font-family: Verdana, Geneva, Tahoma, sans-serif; color: blue; text-align: center;"><b>Medical Form</b></h1><br>
+
+    <form action="/action_page.php" id="medicalform">
+        <fieldset style="border: 3px; color:black; width: 900px;">
+            <fieldset style="width: 600px; border: 1px solid black;">
+                <legend>Personal Information</legend><br>
+                <table>
+                    <tr>
+                        <td><label for="fname">First Name</label></td>
+                        <td><input type="text" id="fname" name="fname"></td>
+                        <td><label for="gender">Gender</label></td>
+                        <td><input type="radio" name="gender" value="male">male
+                            <input type="radio" name="gender" value="female">female
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><label for="lname">Last Name</label></td>
+                        <td><input type="text" id="lname" name="lname"></td>
+                        <td><label for="nationality">Nationality</label></td>
+                        <td><select id="nationality" name="nationality">
+                                <option value="Canadian">Canadian</option>
+                                <option value="American">American</option>
+                                <option value="Malaysian">Malaysian</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><label for="address">Addresses</label></td>
+                        <td colspan="3"><textarea rows="5" cols="30" name="address" form="medicalform"></textarea></td>
+                    </tr>
+                </table>
+            </fieldset>
+            <fieldset style="width: 600px; border: 1px solid black;">
+                <legend>Medical History</legend>
+                <input type="checkbox" name="history" value="Smallpox">Smallpox
+                <input type="checkbox" name="history" value="Mumps">Smallpox
+                <input type="checkbox" name="history" value="Dizziness">Smallpox
+                <input type="checkbox" name="history" value="Sneezing">Smallpox
+            </fieldset>
+            <fieldset style="width: 600px; border: 1px solid black;">
+                <legend>Current Medication</legend>
+                <label for="currentmedication">Are you taking any medication ?</label>
+                <input type="radio" name="medication" value="Yes">Yes
+                <input type="radio" name="medication" value="No">No<br>
+                <label for="medication">If you currently taking medication, please indicate it in the space below :</label><br>
+                <textarea rows="10" cols="100" name="medication" form="medicalform"></textarea><br>
+            </fieldset>
+            <input type="submit" value="Submit">
+            <input type="reset" value="Reset">
+        </fieldset>
+    </form>
+    </div>
+</body>
+
+</html>
