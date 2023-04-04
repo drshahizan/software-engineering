@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- 
+        Name: Navachander Navasantar
+        Matrix No: A22EC0226
+        Github id: navachander01
+
+        LAb 6: HTML Table
+    -->
+    
+    <title>HTML Table</title>
+</head>
+
+
+<body>
+   
+    <style>
+        table {
+          border-collapse: collapse;
+          width: 100%;
+        }
+        
+        th, td {
+          border: 1px solid black;
+          padding: 8px;
+          text-align: center;
+        }
+        
+        th {
+          background-color: #dddddd;
+        }
+      </style>
+    
+    <table>
+        
+       <tr>
+         <td>Flight No</td>
+         <td>Place</td>
+         <td>Destination</td>
+         <td colspan="2">Time</td>
+       </tr>
+
+    </table>
+
+    <br>
+
+    <table>
+        <tr>
+            <td rowspan="2">Time</td>
+            <td>Johor Bahru</td>
+            <td>Jakarta</td>
+            <td>Dhaka</td>
+            <td>Jeddah</td>
+
+        </tr>
+
+        <tr>
+            <td>3:30 pm</td>
+            <td>2:30 pm</td>
+            <td>1:30 pm</td>
+            <td>10:30 am</td>
+        </tr>
+    </table>
+
+    <br>
+
+    <table>
+        <tr>
+            <td style="background-color: blue;" colspan="3" height="100">BLUE</td>
+
+        </tr>
+
+        <tr>
+            <td style="background-color: red;" height="100">RED</td>
+            <td style="background-color: green;">GREEN</td>
+            <td style="background-color: yellow;">YELLOW</td>  
+        </tr>
+    </table>
+
+    <table>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td>4</td>
+        </tr>
+
+        <tr>
+            <td>5</td>
+            <td colspan="2" rowspan="2">Image</td>
+            <td>6</td>
+        </tr>
+
+        <tr>
+            <td>7</td>
+            <td>8</td>
+        </tr>
+
+        <tr>
+            <td>9</td>
+            <td>10</td>
+            <td>11</td>
+            <td>12</td>
+        </tr>
+
+    </table>
+
+
+
+</body>
+</html>
