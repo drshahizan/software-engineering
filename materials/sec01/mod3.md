@@ -8,13 +8,13 @@
 Don't forget to hit the :star: if you like this repo.
 
 <!---
-Module 3: Agile Software Development
+Module X: XXX
 
-Group Curiousity
-1. Ng Shu Yu
-2. Camily Tang Jia Lei
+Group XXXX
+1. XXXX
+2. XXXX
 3. XXXX
-4. XXXX
+4. Low Ying Xi
 
 -->
 
