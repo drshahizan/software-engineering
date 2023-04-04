@@ -8,7 +8,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 
-Module 2: XXX
+Module 2: Software Process Model
 
 Group NikoNikoNee
 1. Wong Jun Ji
