@@ -1,6 +1,9 @@
 <html>
 
 <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Application Form</title>
     <!--
 Name: Wan Nur Sofea Binti Mohd Hasbullah
@@ -16,7 +19,7 @@ Lab 10: Application Form
     <form>
         <fieldset>
             <legend>Personal Detail</legend>
-            <table>
+            <table style="width:100%">
                 <tr>
                     <td style="width:20%">Name</td>
                     <td style="width:0%">
@@ -30,23 +33,23 @@ Lab 10: Application Form
                             <option value="Cik">Cik</option>
                         </select>
                     </td >
-                    <td style="width:30%;">
-                        <input type="text">
+                    <td style="width:40%">
+                        <input type="text" style="width:80%">
                     </td>
                 </tr>
                 <tr>
-                    <td>Gender</td>
+                    <td style="width:20%">Gender</td>
                     <td>
                         <label for="male">Male</label>
                         <input type="radio" value="male">
                     </td>
-                    <td>
+                    <td style="width:40%">
                         <label for="female">Female</label>
                         <input type="radio" value="female">
                     </td>
                     
                     <td></td>
-                    <td style="float: right;">
+                    <td>
                         Date of Birth
                     </td>
                     <td>
@@ -54,7 +57,7 @@ Lab 10: Application Form
                     </td>
                 </tr>
                 <tr>
-                    <td>Marital Status</td>
+                    <td style="width:20%">Marital Status</td>
                     <td>
                         <select id="marital" name="maritul1">
                             <option value="select">--Select--</option>
@@ -81,39 +84,39 @@ Lab 10: Application Form
         <br>
         <fieldset>
             <legend>Contact Details</legend>
-            <table>
+            <table style="width:100%">
                 <tr>
-                    <td>Phone</td>
-                    <td>
+                    <td style="width:21%">Phone</td>
+                    <td style="width:40%">
                         <input type="text">
                     </td>
                     <td>      </td>
                     <td>      </td>
-                    <td>E-mail</td>
+                    <td style="width:21%">E-mail</td>
                     <td>
                         <input type="text">
                     </td>
                 </tr>
                 <tr>
-                    <td>Address Line 1</td>
-                    <td>
+                    <td style="width:21%">Address Line 1</td>
+                    <td style="width:40%">
                         <input type="text">
                     </td>
                     <td>      </td> 
                     <td>      </td>
-                    <td>Address Line 2</td>
+                    <td style="width:21%">Address Line 2</td>
                     <td>
                         <input type="text">
                     </td>
                 </tr>
                 <tr>
-                    <td>City</td>
-                    <td>
+                    <td style="width:21%">City</td>
+                    <td style="width:40%">
                         <input type="text">
                     </td>
                     <td>      </td>
                     <td>      </td>
-                    <td>State</td>
+                    <td style="width:21%">State</td>
                     <td>
                         <select id="state" name="state">
                             <option value="select">--Select--</option>
@@ -138,12 +141,13 @@ Lab 10: Application Form
         </fieldset>
         <fieldset>
             <legend>Qualification Detail</legend>
-            <table>
+            <table style="width:100%">
                 <tr>
-                    <td><b>No</b></td>
-                    <td><b>Qualification</b></td>
-                    <td><b>Passing Year</b></td>
-                    <td><b>CGPA</b></td>
+                    <td style="width:5%"><b>No</b></td>
+                    <td style="width:15%"><b>Qualification</b></td>
+                    <td style="width:60%"><b>University</b></td>
+                    <td style="width:10%"><b>Passing Year</b></td>
+                    <td style="width:10%"><b>CGPA</b></td>
                 </tr>
                 <tr>
                     <td>1.</td>
@@ -162,10 +166,13 @@ Lab 10: Application Form
                         </select>
                     </td>
                     <td>
-                        <input type="text">
+                        <input type="text" style="width:80%">
                     </td>
                     <td>
-                        <input type="text">
+                        <input type="text" style="width:40%">
+                    </td>
+                    <td>
+                        <input type="text" style="width:40%">
                     </td>
                 </tr>
                 <tr>
@@ -185,17 +192,20 @@ Lab 10: Application Form
                         </select>
                     </td>
                     <td>
-                        <input type="text">
+                        <input type="text" style="width:80%">
                     </td>
                     <td>
-                        <input type="text">
+                        <input type="text" style="width:40%">
+                    </td>
+                    <td>
+                        <input type="text" style="width:40%">
                     </td>
                 </tr>
             </table>
         </fieldset>
         <fieldset>
             <legend>Language Knowledge</legend>
-            <table>
+            <table style="width:100%">
                 <tr>
                     <td>Language</td>
                     <td>Reading</td>
@@ -218,7 +228,7 @@ Lab 10: Application Form
         </fieldset>
         <fieldset>
             <legend>Identification Details</legend>
-            <table>
+            <table style="width:100%">
                 <tr>
                     <td>Identity Card Number</td>
                     <td>
@@ -241,8 +251,10 @@ Lab 10: Application Form
                 </tr>
             </table>
         </fieldset>
-        <input type="submit" value="submit">
-        <input type="reset" value="reset">
+        <p style="text-align: center;">
+            <input type="submit" value="submit">
+            <input type="reset" value="reset">
+        </p>
     </form>
 
 </body>
