@@ -26,6 +26,9 @@ This course is designed to give students an introduction to an engineering appro
 5. [Software Engineering Project](./proposal/se-project.md)
 6. [Guideline for Software Engineering Proposal](./proposal/guideline.md)
 7. [Tender dan sebut harga](./proposal/tender.md)
+8. [Kajian Keperluan Pengguna MACA](https://drive.google.com/file/d/1cd-FGUqqFLkMai73DE2qAh2vrXksbpaT/view?usp=sharing)
+9. [Final Year Project](https://github.com/drshahizan/undergraduate-project)
+10. [Agile concept: UTMSmart](https://drive.google.com/file/d/1B6AX646-zXVLZwstzDatENmk05u1Hegu/view?usp=sharing)
 
 ## Weekly Schedule
 
