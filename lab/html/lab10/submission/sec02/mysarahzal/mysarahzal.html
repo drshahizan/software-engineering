@@ -1,0 +1,126 @@
+<html>
+
+<head>
+    <!--
+        Name: MAISARAH BINTI RIZAL
+        Matrix No: A22EC0192
+        Github id: mysarahzal
+
+        Lab 10: Application Form
+        -->
+</head>
+
+<body>
+    <h2>Web Programming: Application Form</h2>
+    <form>
+        <fieldset>
+            <legend>Personal Details</legend>
+            <p><label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+            </p>
+            <p>
+                <label for="Gender">Gender</label>
+                <input type="radio" id="female" name="gender" value="female" required>
+                <label for="female">Female</label>
+                <input type="radio" id="male" name="gender" value="male" required>
+                <label for="male">Male</label>
+            </p>
+            <p>
+                <label for="marital status">Marital Status</label>
+                <select>
+                    <option value="select">--Select--</option>
+                </select>
+            </p>
+        </fieldset>
+
+        <fieldset>
+            <legend>Contact Details</legend>
+            <p><label for="phone">Phone</label>
+                <input type="text" id="phone" name="phone" required>
+            </p>
+            <p><label for="add1">Address Line 1</label>
+                <input type="text" id="add1" name="add1" required>
+            </p>
+            <p><label for="city">City</label>
+                <input type="text" id="city" name="city" required>
+            </p>
+        </fieldset>
+
+        <fieldset>
+            <legend>Qualification Details</legend>
+            <table>
+                <tr>
+                    <th>No.</th>
+                    <th>Qualification</th>
+                    <th>University</th>
+                    <th>Passing Year</th>
+                    <th>CGPA</th>
+                </tr>
+                <tr>
+                    <td>1.</td>
+                    <td><select>
+                            <option value="select">--Select--</option>
+                        </select></td>
+                    <td><input type="text" id="uni" name="uni" required></td>
+                    <td><input type="text" id="pass" name="pass" required></td>
+                    <td><input type="number" id="cgpa" name="cgpa" required></td>
+                </tr>
+                <tr>
+                    <td>2.</td>
+                    <td><select>
+                            <option value="select">--Select--</option>
+                        </select></td>
+                    <td><input type="text" id="uni" name="uni" required></td>
+                    <td><input type="text" id="pass" name="pass" required></td>
+                    <td><input type="text" id="cgpa" name="cgpa" required></td>
+                </tr>
+            </table>
+        </fieldset>
+
+        <fieldset>
+            <legend>Language Knowledge</legend>
+            <table>
+                <tr>
+                    <th>Language</th>
+                    <td>Reading</td>
+                    <td>Writing</td>
+                    <td>Speaking</td>
+                </tr>
+                <tr>
+                    <th>B. Melayu</th>
+                    <td><input type="checkbox" id="read" name="read" value="read" required></td>
+                    <td><input type="checkbox" id="write" name="write" value="write" required></td>
+                    <td><input type="checkbox" id="speak" name="speak" value="speak" required></td>
+                </tr>
+                <tr>
+                    <th>English</th>
+                    <td><input type="checkbox" id="read" name="read" value="read" required></td>
+                    <td><input type="checkbox" id="write" name="write" value="write" required></td>
+                    <td><input type="checkbox" id="speak" name="speak" value="speak" required></td>
+                </tr>
+            </table>
+        </fieldset>
+
+        <fieldset>
+            <legend>Identification Details</legend>
+            <table>
+                <tr>
+                    <td>Identity Card Number</td>
+                    <td><input type="text" id="icnum" name="icnum" required></td>
+                    <td>Passport Number</td>
+                    <td><input type="text" id="passport" name="passport" required></td>
+                </tr>
+                <tr>
+                    <td>Upload Photo</td>
+                    <td><input type="number" id="icnum" name="icnum" required></td>
+                    <td>Upload Signature</td>
+                    <td><input type="number" id="passport" name="passport" required></td>
+                </tr>
+            </table>
+        </fieldset>
+        <input type="submit" value="Submit">
+        <input type="button" value="Back">
+    </form>
+</body>
+
+</html>
