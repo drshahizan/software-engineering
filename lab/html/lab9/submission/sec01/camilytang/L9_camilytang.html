@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+
+<head>
+    <!--
+    Name: Camily Tang Jia Lei
+    Matrix No: A22EC0039
+    Github id: camilytang
+
+    Lab 9: HTML Forms
+    -->
+
+    <title>Medical form</title>
+
+</head>
+
+<body>
+    <h1 style="text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif; color: blue;"><b>Medical Form</b></h1>   
+    
+    <style>
+        table {
+            border: 1px solid black;
+            margin: auto;
+        }
+
+        td, th {
+            border: 1px solid #000000;
+            text-align: left;
+        }
+    </style>
+
+    <div style="border: 1px solid blue; padding: 10px;">
+            <div class="border">
+                <form action="/action_page.php">
+                    <fieldset style="width:85%">
+                        <legend>Personal Information</legend>
+                            <table style="width:80%" align="left">
+                                <tr>
+                                    <td>First Name</td>
+                                    <td><input type="text" id="name" name="name" style="text-align: center; vertical-align: middle;"></td>
+                                    <td>Gender</td>
+                                    <td>
+                                        <input type="radio" name="gender" value="female" id="female">
+                                        <label for="female">Female</label>
+                                        
+                                        <input type="radio" name="gender" value="male" id="male">
+                                        <label for="male">Male</label>
+                                    </td>
+                                </tr>
+
+
+
+                            </table>
+                    </fieldset>
+                </form>
+            </div>
+    </div>
+       
+      
+
+
+</body>
+</html>
