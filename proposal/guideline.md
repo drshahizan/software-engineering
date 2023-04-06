@@ -89,13 +89,6 @@ Additionally, GitHub has many resources and tutorials available for learning how
 - [What is README.md File?](https://www.geeksforgeeks.org/what-is-readme-md-file/)
 - [How to write a readme.md file? (markdown file)](https://google.github.io/styleguide/docguide/READMEs.html)
 
-## Template file
-- [Project Proposal](https://datascienceinpractice.github.io/projects/ProjectProposal.html)
-- [Project-README-template.md](https://github.com/sfbrigade/data-science-wg/blob/master/dswg_project_resources/Project-README-template.md)
-- [GitHub workflow for data science project proposals](http://www.citizen-statistician.org/2020/11/github-workflow-for-data-science-project-proposals/)
-- [Capstone proposal](https://github.com/swissbib/clustering_metadata/blob/master/project-proposal-andreas-jud.ipynb)
-- [Proposal example 1](https://gist.github.com/jamesdlacroix/5a99eec3d11a5c745504)
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
