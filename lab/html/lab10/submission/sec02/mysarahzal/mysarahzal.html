@@ -15,35 +15,61 @@
     <form>
         <fieldset>
             <legend>Personal Details</legend>
-            <p><label for="name">Name:</label>
-                <input type="text" id="name" name="name" required>
-            </p>
-            <p>
-                <label for="Gender">Gender</label>
-                <input type="radio" id="female" name="gender" value="female" required>
-                <label for="female">Female</label>
-                <input type="radio" id="male" name="gender" value="male" required>
-                <label for="male">Male</label>
-            </p>
-            <p>
-                <label for="marital status">Marital Status</label>
-                <select>
-                    <option value="select">--Select--</option>
-                </select>
-            </p>
+            <table>
+                <tr>
+                    <td><label for="name">Name</label></td>
+                    <td><select>
+                            <option value="select">--Select--</option>
+                        </select> <input type="text" id="name" name="name" required></td>
+                </tr>
+                <tr>
+                    <td><label for="Gender">Gender</label></td>
+                    <td>
+                        <input type="radio" id="female" name="gender" value="female" required>
+                        <label for="female">Female</label>
+                        <input type="radio" id="male" name="gender" value="male" required>
+                        <label for="male">Male</label>
+                    </td>
+                    <td><label for="DOB">Date of Birth</label></td>
+                    <td><input type="date" required></td>
+                </tr>
+                <tr>
+                    <td><label for="marital status">Marital Status</label></td>
+                    <td><select>
+                            <option value="select">--Select--</option>
+                        </select></td>
+                    <td>Religion</td>
+                    <td><select>
+                            <option value="select">--Select--</option>
+                        </select></td>
+                </tr>
+            </table>
         </fieldset>
 
         <fieldset>
             <legend>Contact Details</legend>
-            <p><label for="phone">Phone</label>
-                <input type="text" id="phone" name="phone" required>
-            </p>
-            <p><label for="add1">Address Line 1</label>
-                <input type="text" id="add1" name="add1" required>
-            </p>
-            <p><label for="city">City</label>
-                <input type="text" id="city" name="city" required>
-            </p>
+            <table>
+                <tr>
+                    <td><label for="phone">Phone</label></td>
+                    <td><input type="text" id="phone" name="phone" required></td>
+                    <td><label for="mail">E-mail</label></td>
+                    <td><input type="text" id="mail" name="mail" required></td>
+                </tr>
+                <tr>
+                    <td><label for="add1">Address Line 1</label></td>
+                    <td><input type="text" id="add1" name="add1" required></td>
+                    <td><label for="add2">Address Line 2</label></td>
+                    <td><input type="text" id="add2" name="add2" required></td>
+                </tr>
+                <tr>
+                    <td><label for="city">City</label></td>
+                    <td><input type="text" id="city" name="city" required></td>
+                    <td>State</td>
+                    <td><select>
+                            <option value="select">--Select--</option>
+                        </select></td>
+                </tr>
+            </table>
         </fieldset>
 
         <fieldset>
@@ -112,9 +138,9 @@
                 </tr>
                 <tr>
                     <td>Upload Photo</td>
-                    <td><input type="number" id="icnum" name="icnum" required></td>
+                    <td><input type="button" value="Choose File" required> No file chosen</td>
                     <td>Upload Signature</td>
-                    <td><input type="number" id="passport" name="passport" required></td>
+                    <td><input type="button" value="Choose File" required> No file chosen</td>
                 </tr>
             </table>
         </fieldset>
