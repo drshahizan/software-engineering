@@ -34,21 +34,6 @@ Software engineering projects are complex, multi-step processes that involve des
 | 19 | Student Sports Management System| A system that manages student sports teams, schedules, and game results|
 | 20 | Student Organization Management System| A system that manages student organizations, event planning, and communication|
 
-## List of activities required to complete a software engineering system development project
-These system development projects can also be customized to meet the specific needs and requirements of the university and its students. The key is to identify the areas that require improvement and develop a system that addresses those issues while providing value to the student community.
-| No | Topic | Description | 
-| :-----: | ------ | ------ |
-| 1 | Choose a Project Idea | Brainstorm a list of potential project ideas as a group, then select one that interests everyone. It's important to choose an idea that is challenging enough to showcase your skills but also feasible to complete within the given timeline|
-| 2 | Define the Project Scope | Clearly define the project's scope, goals, objectives, and expected outcomes. This will help ensure that everyone is on the same page about what needs to be achieved|
-| 3 | Develop a Project Proposal | Create a project proposal that outlines the project's purpose, scope, requirements, deliverables, timeline, and estimated budget| Use this proposal to pitch your project idea to your instructor for approval|
-| 4 | Divide Roles and Responsibilities | Divide roles and responsibilities among the group members based on their skills and strengths| This will help ensure that everyone has a specific role to play in the project and that all aspects of the project are covered|
-| 5 | Create a Project Plan | Develop a comprehensive project plan that outlines the project's timeline, milestones, deliverables, and resource allocation| Use project management tools such as Trello or Asana to track progress and assign tasks|
-| 6 | Choose the Technology Stack | Choose the appropriate technology stack for the project based on the requirements| This should include the programming language, frameworks, and libraries | Make sure that everyone in the group has a basic understanding of the chosen technology stack |
-| 7 | Develop the System | Begin developing the system according to the project plan| Divide the project into manageable sprints and set goals for each sprint| Use version control tools such as Git to manage code changes|
-| 8 | Test and Debug the System | Thoroughly test and debug the system to ensure that it meets all of the requirements and functions as intended. This should include both functional and non-functional testing|
-| 9 | Document the System | Document the system to ensure that it is easy to maintain and update.This should include documentation of the system architecture, design, and functionality|
-| 10 | Present the Project| Prepare a presentation to showcase the project to your instructor and classmates. The presentation should include an overview of the project, its features, and the technologies used. Demonstrate the system's functionality and highlight any challenges and lessons learned during the project|
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
