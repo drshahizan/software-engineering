@@ -22,10 +22,11 @@ If the case study is an existing computerized/automated system that is having pr
 
 1. This task must be completed in groups of no more than **five** persons (miniumum 4 persons).
 2. You must establish a project group and enter your title in Google Sheets [section 01](https://docs.google.com/spreadsheets/d/1iVamYLFglM-v4twd29Qi4-z1N5RqPQ5FpucFI0Qv-wI/edit?usp=sharing) or [section 02](https://docs.google.com/spreadsheets/d/1CXVsz0EJqPTc0nS7GggXjWV8f3SXR0l_kG_dLg1IO5M/edit?usp=sharing).
-3. Each group must submit their proposal to either [sec01](../submission/sec01) or [sec02](../submission/sec01). Please save your proposal file in a new folder named after your group. The proposal should be formatted in **markdown**.
-4. The proposal should be created with the participation of **all group members**.
-5. You can get ideas for system development from [List of Software Engineering Projects](./list-se-topic.md).
-6. This project requires **stakeholders**. Stakeholders are individuals or groups who have an interest or investment in the project's success. They are individuals who are either directly or indirectly affected by the project's outcomes. Stakeholders can include project sponsors, project team members, customers, users, suppliers, regulatory bodies, and the wider community.
+3. Please use the [proposal template](./template-proposal.md) provided.
+4. Each group must submit their proposal to either [sec01](../submission/sec01) or [sec02](../submission/sec01). Please save your proposal file in a new folder named after your group. The proposal should be formatted in **markdown**.
+5. The proposal should be created with the participation of **all group members**.
+6. You can get ideas for system development from [List of Software Engineering Projects](./list-se-topic.md).
+7. This project requires **stakeholders**. Stakeholders are individuals or groups who have an interest or investment in the project's success. They are individuals who are either directly or indirectly affected by the project's outcomes. Stakeholders can include project sponsors, project team members, customers, users, suppliers, regulatory bodies, and the wider community.
 
 ## List of activities
 These system development projects can also be customized to meet the specific needs and requirements of the university and its students. The key is to identify the areas that require improvement and develop a system that addresses those issues while providing value to the student community.
