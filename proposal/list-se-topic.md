@@ -11,26 +11,26 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Topic | Description | 
 | :-----: | ------ | ------ |
-| 1 | Course Management System|  A system that allows students to view course schedules, register for classes, and track their academic progress.|
-| 2 | Campus Map and Navigation System| A system that provides a virtual map of the university campus and helps students navigate the campus more efficiently.|
-| 3 | Student Information Management System: A system that allows university staff to manage student information such as personal details, academic records, and financial information.
-| 4 | Online Exam System: A system that allows students to take exams online and provides real-time feedback and grading.
-| 5 | Student Social Network System: A system that connects students and allows them to interact with each other in a social media-like platform.
-| 6 | Student Accommodation Management System: A system that manages student accommodation requests, bookings, and payments.
-| 7 | Library Management System: A system that helps students manage library resources, reserve books, and track book borrowing history.
-| 8 | Student Health and Wellness Management System: A system that tracks student health and wellness data, provides health tips and advice, and connects students with on-campus health services.
-| 9 | Campus Events Management System: A system that manages university events such as seminars, workshops, and extracurricular activities.
-| 10 | Academic Advising System: A system that connects students with academic advisors and provides guidance on academic planning and course selection.
-| 111 | Career Services Management System: A system that connects students with career advisors, provides job listings, and helps students prepare for job interviews.
-| 12 | Student Feedback Management System: A system that collects and analyzes student feedback on courses, instructors, and university services.
-| 13 | Student Attendance Management System: A system that tracks student attendance for lectures, tutorials, and other academic activities.
-| 14 | Student Financial Aid Management System: A system that manages student financial aid applications, disbursements, and repayments.
-| 15 | Student Volunteer Management System: A system that connects students with volunteer opportunities and tracks their volunteer hours.
-| 16 | Research Proposal Management System: A system that manages research proposal submissions, reviews, and approvals.
-| 17 | Student Mentoring System: A system that connects students with mentors in their field of study and provides guidance on academic and career development.
-| 18 | Student Counseling Management System: A system that manages student counseling sessions, provides mental health resources, and connects students with professional counselors.
-| 19 | Student Sports Management System: A system that manages student sports teams, schedules, and game results.
-| 20 | Student Organization Management System: A system that manages student organizations, event planning, and communication.
+| 1 | Course Management System|  A system that allows students to view course schedules, register for classes, and track their academic progress|
+| 2 | Campus Map and Navigation System| A system that provides a virtual map of the university campus and helps students navigate the campus more efficiently|
+| 3 | Student Information Management System| A system that allows university staff to manage student information such as personal details, academic records, and financial information|
+| 4 | Online Exam System| A system that allows students to take exams online and provides real-time feedback and grading|
+| 5 | Student Social Network System| A system that connects students and allows them to interact with each other in a social media-like platform|
+| 6 | Student Accommodation Management System| A system that manages student accommodation requests, bookings, and payments|
+| 7 | Library Management System| A system that helps students manage library resources, reserve books, and track book borrowing history|
+| 8 | Student Health and Wellness Management System| A system that tracks student health and wellness data, provides health tips and advice, and connects students with on-campus health services|
+| 9 | Campus Events Management System| A system that manages university events such as seminars, workshops, and extracurricular activities|
+| 10 | Academic Advising System| A system that connects students with academic advisors and provides guidance on academic planning and course selection|
+| 111 | Career Services Management System| A system that connects students with career advisors, provides job listings, and helps students prepare for job interviews|
+| 12 | Student Feedback Management System| A system that collects and analyzes student feedback on courses, instructors, and university services|
+| 13 | Student Attendance Management System| A system that tracks student attendance for lectures, tutorials, and other academic activities|
+| 14 | Student Financial Aid Management System| A system that manages student financial aid applications, disbursements, and repayments|
+| 15 | Student Volunteer Management System| A system that connects students with volunteer opportunities and tracks their volunteer hours|
+| 16 | Research Proposal Management System| A system that manages research proposal submissions, reviews, and approvals|
+| 17 | Student Mentoring System| A system that connects students with mentors in their field of study and provides guidance on academic and career development|
+| 18 | Student Counseling Management System| A system that manages student counseling sessions, provides mental health resources, and connects students with professional counselors|
+| 19 | Student Sports Management System| A system that manages student sports teams, schedules, and game results|
+| 20 | Student Organization Management System| A system that manages student organizations, event planning, and communication|
 
 These system development projects can also be customized to meet the specific needs and requirements of the university and its students. The key is to identify the areas that require improvement and develop a system that addresses those issues while providing value to the student community.
 
