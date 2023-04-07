@@ -18,7 +18,7 @@ If the case study is a manual or not fully computerized/automated system, your t
 2. Existing computerized/automated systems that are having problems:
 If the case study is an existing computerized/automated system that is having problems, your team will need to identify and analyze the problems with the current system. This analysis should identify any inefficiencies or issues with the current system that could be addressed through enhancements or improvements. The proposed solution should include the design and development of an improved system that addresses the identified issues.
 
-## More information on the proposal:
+## Additional details about the proposal:
 
 1. This task must be completed in groups of no more than **five** persons.
 2. Each group must submit their proposal to either [sec01](./submission/sec01) or [sec02](./submission/sec01). Please save your proposal file in a new folder named after your group. The proposal should be formatted in **markdown**.
