@@ -18,6 +18,14 @@ If the case study is a manual or not fully computerized/automated system, your t
 2. Existing computerized/automated systems that are having problems:
 If the case study is an existing computerized/automated system that is having problems, your team will need to identify and analyze the problems with the current system. This analysis should identify any inefficiencies or issues with the current system that could be addressed through enhancements or improvements. The proposed solution should include the design and development of an improved system that addresses the identified issues.
 
+## More information on the proposal:
+
+1. This task must be completed in groups of no more than **five** persons.
+2. Each group must submit their proposal to either [sec01](./submission/sec01) or [sec02](./submission/sec01). Please save your proposal file in a new folder named after your group. The proposal should be formatted in **markdown**.
+3. The proposal should be created with the participation of **all group members**.
+4. You can get ideas for system development from [List of Software Engineering Projects](./materials/list-se-topic.md).
+5. This project requires stakeholders. Stakeholders are individuals or groups who have an interest or investment in the project's success. They are individuals who are either directly or indirectly affected by the project's outcomes. Stakeholders can include project sponsors, project team members, customers, users, suppliers, regulatory bodies, and the wider community.
+
 ## List of activities
 These system development projects can also be customized to meet the specific needs and requirements of the university and its students. The key is to identify the areas that require improvement and develop a system that addresses those issues while providing value to the student community.
 
