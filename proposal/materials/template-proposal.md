@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Project Proposal
+#  Proposal Template
 
 ## Project Title
 
