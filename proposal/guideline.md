@@ -12,10 +12,10 @@ Don't forget to hit the :star: if you like this repo.
 A software engineering proposal is a document that outlines a plan for developing software. It describes the purpose of the software, its objectives, scope, and methodology for its development, as well as a detailed timeline, budget, and risk assessment. The proposal is typically submitted to stakeholders, such as clients or project sponsors, who use it to make informed decisions about the project. The proposal is an important step in the software development process as it serves as a blueprint for the development team, providing guidance and direction throughout the project's lifecycle. It ensures that all parties involved are on the same page and have a clear understanding of the project's goals and objectives.
 
 Your team will need to identify a system as a case study to be proposed for the project. This case study can be either a newly designed system or an enhancement of the current available system. The proposed case study can also be derived from two situations: 
-1. Manual or not fully computerized/automated system yet, or 
+1. Manual or not fully computerized/automated system yet:
 If the case study is a manual or not fully computerized/automated system, your team will need to identify and analyze the problems with the current system. This analysis should identify any inefficiencies or issues with the current system that could be addressed through automation or computerization. The proposed solution should include the design and development of a new system that improves upon the current system and addresses the identified issues.
 
-2. Existing computerized/automated systems that are having problems.
+2. Existing computerized/automated systems that are having problems:
 If the case study is an existing computerized/automated system that is having problems, your team will need to identify and analyze the problems with the current system. This analysis should identify any inefficiencies or issues with the current system that could be addressed through enhancements or improvements. The proposed solution should include the design and development of an improved system that addresses the identified issues.
 
 ## List of activities
