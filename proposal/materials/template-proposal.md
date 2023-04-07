@@ -7,6 +7,20 @@
 
 Don't forget to hit the :star: if you like this repo.
 
+# Project Proposal
+
+## Project Title
+
+
+### Prepared by: <Group name>
+  1. Name and matrix no
+  2. Name and matrix no
+  3. Name and matrix no
+  4. Name and matrix no
+
+### Table of Contents
+- [Table of Contents](#table-of-contents)
+  
 ### 1. Executive Summary
 - Start the proposal with a brief summary that highlights the main points of the project, including its goals, objectives, and expected outcomes.
 
