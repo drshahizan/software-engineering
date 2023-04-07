@@ -25,7 +25,8 @@ This course is designed to give students an introduction to an engineering appro
 4. [Project 1: Personal Portfolio Website](./project/1-portfolio/readme.md)
 
 ## 🎯 Proposal 🆕 
-5. [Software Engineering Project](./proposal/se-project.md)
+1. [List of Software Engineering Projects](./proposal/list-se-topic.md)
+2. [Software Engineering Project](./proposal/se-project.md)
 6. [Guideline for Software Engineering Proposal](./proposal/guideline.md)
 7. [Tender dan sebut harga](./proposal/tender.md)
 8. [Kajian Keperluan Pengguna MACA](https://drive.google.com/file/d/1cd-FGUqqFLkMai73DE2qAh2vrXksbpaT/view?usp=sharing)
