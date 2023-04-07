@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+
+<head>
+    <!--
+    Name: Camily Tang Jia Lei
+    Matrix No: A22EC0039
+    Github id: camilytang
+
+    Lab 9: HTML Forms
+    -->
+
+    <title>Medical form</title>
+
+</head>
+
+<body>
+    <h1 style="text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif; color: blue;"><b>Medical Form</b>
+    </h1>
+
+    <style>
+        table {
+            border: 1px solid black;
+            margin: auto;
+        }
+
+        td,
+        th {
+            border: 1px solid #000000;
+            text-align: left;
+        }
+    </style>
+
+    <div style="border: 1px solid blue; padding: 10px;">
+        <div class="border">
+            <form action="/action_page.php">
+                <fieldset style="width:85%">
+                    <legend>Personal Information</legend>
+                    <table style="width:60%; float:left;">
+                        <tr>
+                            <td>
+                                First Name
+                            </td>
+                            <td style="width: 15%">
+                                <input type="text" id="name" name="name" style=width:100%">
+                            </td>
+
+                            <td>
+                                Gender
+                            </td>
+                            <td style="width: 20%;">
+                                <input type="radio" name="gender" value="female" id="female">
+                                <label for="female">Female</label>
+
+                                <input type="radio" name="gender" value="male" id="male">
+                                <label for="male">Male</label>
+                            </td>
+                        </tr>
+
+
+                        <tr>
+                            <td>
+                                Last Name
+                            </td>
+
+                            <td style="width: 15%">
+                                <input type="text" id="name" name="name" style=width:100%">
+                            </td>
+
+                            <td>
+                                Nationality
+                            </td>
+
+                            <td style="width: 20%;">
+                                <select name="Nationality" id="Nationality">
+                                    <option value="Canadian">Canadian</option>
+                                    <option value="Danish">Danish</option>
+                                    <option value="German">German</option>
+                                    <option value="Malaysian">Malaysian</option>
+                                    <option value="Korean">Korean</option>
+                                </select>
+                            </td>
+                        </tr>
+
+
+                        <tr>
+                            <td>
+                                Address
+                            </td>
+
+                            <td colspan="3">
+                                <textarea id="Address" name="Address" rows="8" cols="40"></textarea>
+                            </td>
+                        </tr>
+                    </table>
+                </fieldset>
+
+
+                <fieldset>
+                    <legend>Medical History</legend>
+                    <td>
+                        <input type="checkbox" id="history1" name="history1" value="Smallpox">
+                        <label for="history1"> Smallpox</label>
+                        <input type="checkbox" id="history2" name="history2" value="Mumps">
+                        <label for="history"> Mumps</label>
+                        <input type="checkbox" id="history3" name="history3" value="Dizziness">
+                        <label for="history3"> Dizziness</label>
+                        <input type="checkbox" id="history4" name="history4" value="Sneezing">
+                        <label for="history4">Sneezing</label>
+                    </td>
+                </fieldset>
+
+                <fieldset>
+                    <legend>Current Medication</legend>
+                    <label for="medication">Are you currently taking any medication?</label>
+                    <input type="radio" name="option" value="Yes" id="Yes">
+                    <label for="Yes">Yes</label>
+
+                    <input type="radio" name="option" value="No" id="No">
+                    <label for="No">No</label>
+
+                    <br>
+
+                    <label for="medication">If you are currently taking medication, please indicate it in the space
+                        below:</label><br>
+                    <textarea id="w3review" name="w3review" rows="12" cols="190"></textarea>
+                </fieldset>
+
+                <br>
+
+                <input type="submit">
+                <input type="reset">
+
+            </form>
+        </div>
+    </div>
+
+</body>
+</html>
