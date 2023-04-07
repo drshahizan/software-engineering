@@ -64,8 +64,12 @@ A software engineering project proposal should contain several key components to
 - The scope section defines the boundaries of the project and outlines what features and functionality will be included in the software. 
 - It should also describe any limitations or constraints that may affect the project.
 
-### 5. Methodology:
-- The methodology section describes the development process, tools, and techniques that will be used to create the software. 
+### 5. Software Process Model:
+This section describe the ideal software process model for this system development. The write-up must consist of:
+- Explanation of the goal of the software process model.
+- Choose the ideal software process model and give justification.
+- The illustration of chosen software process model that relates to your project and shows every phase involved in the chosen software process model
+- Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. 
 - It should also describe the testing methodologies, project management practices, and quality assurance processes.
 
 ### 6. Budget:
