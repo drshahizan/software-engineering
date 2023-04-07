@@ -1,1 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<head>
+    <!--
+     Name       : ALIATUL IZZAH BINTI JASMAN
+     Matric No  : A22EC0136
+     Github id  : oishylea
+     Lab 9
+    -->
+
+    <title>Medical form | lab 9</title>
+
+</head>
+
+<body>
+    <h1 style="text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif; color: blue;"><b>Medical Form</b></h1>   
+    
+    <style>
+        table {
+            border: 1px solid black;
+            margin: auto;
+        }
+
+        td, th {
+            border: 1px solid #000000;
+            text-align: left;
+        }
+    </style>
+
+    <div style="border: 1px solid blue; padding: 10px;">
+        <div class="border">
+        <form action="/action_page.php">
+                    
+        <fieldset style="width:85%">
+        <legend>Personal Information</legend>
+        <table style="width:80%" align="left">
+
+            <tr>
+            <td style="padding-left: 5px;">First Name</td>
+            <td><input type="text" id="name" name="name" style="text-align: center; vertical-align: middle;"></td>
+            <td style="padding-left: 5px;">Gender</td>
+            <td style="padding-right: 5px;">
+            <input type="radio" name="gender" value="female" id="female">
+            <label for="female">Female</label>                             
+            <input type="radio" name="gender" value="male" id="male">
+            <label for="male">Male</label></td>
+            </tr>
+
+            <tr>
+            <td style="padding-left: 5px;">Last Name</td>
+            <td><input type="text" id="last" name="last" style="text-align: center; vertical-align: middle;"></td>
+            <td style="padding-left: 5px;">Nationality</td>
+            <td style="padding-left: 5px;"><label for="national"></label>
+            <select id="national" name="national">
+            <option value="malay">Malay</option>
+            <option value="chinese">Chinese</option>
+            <option value="indian">Indian</option>
+            <option value="other">other</option>
+            </select></td>
+            </tr>
+
+            <tr>
+            <td style="padding-left:5px; height: 100px;">Address</td>
+            <td colspan="3"style="padding-left: 5px;">
+            <textarea type="text"  rows="90" cols="40" id="address" style="text-align: left; height: 90px;"></textarea>
+            </tr>
+
+        </table></fieldset>
+        </div>
+    <br>
+        <div class="border">
+            <form action="/action_page.php">
+            <fieldset style="width:85%">
+            <legend>Medical History</legend>
+            <tr>
+            <td>
+            <input type="checkbox">
+            <label for="smallpox">Smallpox</label>
+            <input type="checkbox">
+            <label for="mumps">Mumps</label>
+            <input type="checkbox">
+            <label for="dizziness">Dizziness</label>
+            <input type="checkbox">
+            <label for="Sneezing">Sneezing</label> 
+            </td>
+            </tr>
+             </fieldset>
+        </div>
+    <br>
+        <div class="border">
+            <form action="/action_page.php">
+            <fieldset style="width:85%">
+        
+            <legend>Current Medication</legend>
+            <text>Are you currently taking any medication?  </text>
+            <input type="radio" name="answer" value="yes" id="yes">
+            <label for="yes">Yes</label>
+            <input type="radio" name="answer" value="no" id="no">
+            <label for="No">No</label>
+            <br>
+            <text>If you are currently taking medication, please indicate it in the space below: </text><br>
+            <textarea type="text" rows="120" cols="80" id="address" style="text-align: left; height: 150px;"></textarea>
+            </fieldset>
+        </div><br>
+    </div>
+     
+    <input type="submit"><input type="reset" value="Reset the form" />
+      </form></form>
+
+
+</body>
+</html>
