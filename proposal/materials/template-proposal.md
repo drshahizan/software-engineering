@@ -7,13 +7,20 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Guideline for Software Engineering Proposal
+#  Proposal Template
 
-A software engineering proposal is a document that outlines a plan for developing software. It describes the purpose of the software, its objectives, scope, and methodology for its development, as well as a detailed timeline, budget, and risk assessment. The proposal is typically submitted to stakeholders, such as clients or project sponsors, who use it to make informed decisions about the project. The proposal is an important step in the software development process as it serves as a blueprint for the development team, providing guidance and direction throughout the project's lifecycle. It ensures that all parties involved are on the same page and have a clear understanding of the project's goals and objectives.
+## Project Title
 
-## Key components
-A software engineering project proposal should contain several key components to provide a clear and detailed plan for the development of software. Here are the most important components of a software engineering project proposal:
 
+### Prepared by: <Group name>
+  1. Name and matrix no
+  2. Name and matrix no
+  3. Name and matrix no
+  4. Name and matrix no
+
+### Table of Contents
+- [Table of Contents](#table-of-contents)
+  
 ### 1. Executive Summary
 - Start the proposal with a brief summary that highlights the main points of the project, including its goals, objectives, and expected outcomes.
 
@@ -29,8 +36,12 @@ A software engineering project proposal should contain several key components to
 - The scope section defines the boundaries of the project and outlines what features and functionality will be included in the software. 
 - It should also describe any limitations or constraints that may affect the project.
 
-### 5. Methodology:
-- The methodology section describes the development process, tools, and techniques that will be used to create the software. 
+### 5. Software Process Model:
+This section describe the ideal software process model for this system development. The write-up must consist of:
+- Explanation of the goal of the software process model.
+- Choose the ideal software process model and give justification.
+- The illustration of chosen software process model that relates to your project and shows every phase involved in the chosen software process model
+- Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. 
 - It should also describe the testing methodologies, project management practices, and quality assurance processes.
 
 ### 6. Budget:
@@ -65,29 +76,6 @@ A software engineering project proposal should contain several key components to
 - Summarize the proposal and reiterate the importance of the project.
 - Mention any potential limitations or challenges that may arise during the project.
 - Provide a call to action for the client to approve the proposal and proceed with the project.
-
-In summary, a software engineering project proposal should provide a clear, detailed, and comprehensive plan for the development of software. It should address all key aspects of the project, including objectives, scope, methodology, timeline, budget, risk assessment, and conclusion. A well-crafted proposal can help ensure the success of the software project by aligning all stakeholders and providing a roadmap for the development team to follow.
-
-## Markdown files and sharing it on Github
-Markdown is a simple and easy-to-use markup language for formatting plain text. It is widely used for writing documentation, README files, and proposals. 
-
-### Guidelines for writing a proposal using Markdown files and sharing it on Github
-- Create a new Markdown file in your repository and give it a descriptive name (e.g., "proposal.md").
-- Use headings, bullet points, and other formatting features to make your proposal clear and easy to read. Use Markdown syntax to format your text, including headers, bold and italic text, lists, and links.
-- Once you have written your proposal, you can share it on Github by pushing your changes to your repository. You can also use Github's issue tracker to discuss your proposal with other contributors or stakeholders, and to keep track of any feedback or changes that need to be made.
-
-### How to use Markdown files
-
-- Go to the GitHub Guides page: https://guides.github.com/features/mastering-markdown/
-- Read through the guide on how to use Markdown files in GitHub, including the basics of formatting text, creating headings, adding links and images, and creating lists and tables.
-- Practice writing Markdown files using a text editor or a Markdown editor such as Typora, MarkdownPad, or Atom.
-- Create a GitHub account if you don't have one already.
-- Create a new repository on GitHub and upload your Markdown files to it.
-- Share your repository with others or collaborate with others on your project.
-
-Additionally, GitHub has many resources and tutorials available for learning how to use their platform, including their GitHub Learning Lab and their community forum.
-- [What is README.md File?](https://www.geeksforgeeks.org/what-is-readme-md-file/)
-- [How to write a readme.md file? (markdown file)](https://google.github.io/styleguide/docguide/READMEs.html)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
