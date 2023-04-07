@@ -36,7 +36,8 @@ Software engineering projects are complex, multi-step processes that involve des
 
 ## List of activities required to complete a software engineering system development project
 These system development projects can also be customized to meet the specific needs and requirements of the university and its students. The key is to identify the areas that require improvement and develop a system that addresses those issues while providing value to the student community.
-
+| No | Topic | Description | 
+| :-----: | ------ | ------ |
 | 1 | Choose a Project Idea | Brainstorm a list of potential project ideas as a group, then select one that interests everyone. It's important to choose an idea that is challenging enough to showcase your skills but also feasible to complete within the given timeline|
 | 2 | Define the Project Scope | Clearly define the project's scope, goals, objectives, and expected outcomes. This will help ensure that everyone is on the same page about what needs to be achieved|
 | 3 | Develop a Project Proposal | Create a project proposal that outlines the project's purpose, scope, requirements, deliverables, timeline, and estimated budget| Use this proposal to pitch your project idea to your instructor for approval|
