@@ -16,8 +16,15 @@ Project 1: Personal Portfolio Website
 </head>
 
 <body>
+    <!--tukar background image yang tak terlalu shiny and banyak colour-->
     <style>
-        h1,
+        h1 {
+            color: #2b1242;
+            font-style: italic;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            text-align: center;
+        }
+
         h2 {
             color: #2b1242;
             font-style: oblique;
@@ -45,14 +52,14 @@ Project 1: Personal Portfolio Website
             border-bottom: #ffffff 5px dashed;
             width: 100%;
             float: center;
-            background-image: linear-gradient(#32005c, #470087, #4D0092, #813EB6, #BC90DB, #ecdffc);
+            background-image: url(https://i.pinimg.com/564x/74/cc/1e/74cc1e84a37cbdfcc783f5888f7fbc00.jpg);
         }
-
+        
         body {
             margin: 0;
             padding: 0;
-            background-image: url(https://i.pinimg.com/564x/f7/cc/3b/f7cc3b79408cfd99ca19ff9ee80590ad.jpg);
             background-size: cover;
+            background-image: linear-gradient(#470087, #4D0092, #813EB6, #BC90DB, #ecdffc);
         }
 
         p {
@@ -65,34 +72,38 @@ Project 1: Personal Portfolio Website
             font-weight: bolder;
             font-family: Georgia, 'Times New Roman', Times, serif;
             color: #2b1242;
-            font-size: 15px;
+            font-size: 20px;
             text-align: center;
         }
 
         li {
-            font-size: 15px;
+            font-size: 20px;
             text-align: center;
-            text-decoration: wavy;
+            text-decoration: solid;
             font-family: Georgia, 'Times New Roman', Times, serif;
             color: #370522;
         }
     </style>
     <header>
+        <!--kena tukar border supaya tak penuhkan ruang web page sahaja-->
+        <!--tukar background colour, line border style dan font nama-->
         <div class="headDiv">
             <!--My Name-->
             <h1>Wan Nur Sofea</h1>
         </div>
         <!--Image-->
-        <div style="border-style: dotted ; border-top-right-radius: 30%; border-bottom-left-radius: 30%;">
+        <!--kena tukar border supaya tak penuhkan ruang web page sahaja-->
+        <div
+            style="border-style: dotted; border-top-right-radius: 50%;border-color: #ecdffc; border-bottom-left-radius: 50%;">
             <div style="display: flex; justify-content: center;">
-                <img src="https://raw.githubusercontent.com/wannursofea/Mypicture/main/UTM_GAMBAR_ID_CARD-removebg-preview.png?token=GHSAT0AAAAAACAGPBP2MT7JYYATTTFP4IZKZBPDK3Q"
+                <img src="https://github.com/wannursofea/Mypicture/blob/main/UTM_GAMBAR_ID_CARD-removebg-preview.png?raw=true"
                     alt="My Profile Picture" width="200" height="300">
             </div>
         </div>
         <br>
         <!--Introduction Section-->
         <div class="aboutMe">
-            <p style="color: #ffffff;">
+            <p style="color: #322f2f; font-size: 20px;">
                 Hi! I'm Wan Nur Sofea Binti Mohd Hasbullah, an undergraduate student at the University Teknologi
                 Malaysia.
                 <br>
@@ -116,45 +127,78 @@ Project 1: Personal Portfolio Website
                 <a href="#contact">Contact Me</a>
         </div>
 
-        <section id="skill">
-            <h2><u>Skills</u></h2>
-            <ul>Programming Skills</ul>
-            <li>C++</li>
-            <ul> Language</ul>
-            <li>Malay - fluent</li>
-            <li>English - fluent</li>
-            <li>Chinese - Amature</li>
-            <ul>Technical Skills</ul>
-            <li>Excel</li>
-        </section>
+        <br><br><br>
+        <!--tgh tengok macam mana kedudukan table utk information tambahan ni-->
+        <table width="100%" height="100%" border="">
+            <tr>
+                <td align="center">
+                    <table width="100%" border="0" height="700">
+                        <tr>
+                            <td width="50">
+                                <table id="Table_01" width="325" height="100" border="0" align="left">
+                                    <section id="skill">
+                                        <h2><u>Skills</u></h2>
+                                        <ul>Programming Skills</ul>
+                                        <li>C++</li>
+                                        <ul> Language</ul>
+                                        <li>Malay - fluent</li>
+                                        <li>English - fluent</li>
+                                        <li>Chinese - Amature</li>
+                                        <ul>Technical Skills</ul>
+                                        <li>Excel</li>
+                                    </section>
+                                    <br>
+                                    <section id="education">
+                                        <h2><u>Education</u></h2>
+                                        <ul>
+                                            <li>Universiti Teknologi Malaysia (2022-now)</li>
+                                            <li>Kolej Mara Kuala Nerang (2021-2022)</li>
+                                            <li>Sekolah Menengah Sains Tuanku Aishah Rohani (2016-2021)</li>
+                                        </ul>
+                                    </section>
+                                </table>
+                            <td width="325">
+                                <table id="Table_01" width="325" height="100" border="0" align="right">
+                                    <section id="experience">
+                                        <h2><u>Experience</u></h2>
+                                        <ul>
+                                            <li>
+                                                <h3>Part-timer Tamam Tea & Coffee</h3>
+                                                <p style="color: #370522;">Jun-September 2022</p>
+                                                <p style="color: #370522;">Worked in an f&b department to gain the first
+                                                    real life work<br>
+                                                    and the struggle of getting money for daily life.<br>
+                                                    Three to four days a week shift, with 4 hours each.<br>
+                                                </p>
+                                            </li>
+                                        </ul>
+                                    </section>
+                                    <br>
+                                    <section id="curricullar">
+                                        <h2><u>Extra-Curicullar</u></h2>
+                                        <ul>
+                                            <li>Sinar crew for English Camp at SMK Taman Nusajaya</li>
+                                            <li>Innovation, Invention & Entrepreneurship Carnival <br>(IIEC)
+                                                2022</li>
+                                            <li>Vice President of Volunteering Club (BAKSIS) KMKN 2021/2022</li>
+                                        </ul>
+                                    </section>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+
+                </td>
+            </tr>
+        </table>
+
+        </td>
+        </tr>
+        </table>
         <br>
-        <section id="experience">
-            <h2><u>Experience</u></h2>
-            <ul>
-                <li>
-                    <h3>Part-timer Tamam Tea & Coffee</h3>
-                    <p style="color: #591e8d;">Jun-September 2022</p>
-                    <p style="color: #591e8d;">Worked in an f&b department to gain the first real life work<br>
-                        and the struggle of getting money for daily life.<br>
-                        Three to four days a week shift, with 4 hours each.<br>
-                    </p>
-                </li>
-            </ul>
-        </section>
-        <br>
-        <section id="education">
-            <h2><u>Education</u></h2>
-            <ul>
-                <li>Universiti Teknologi Malaysia (2022-now)</li>
-                <li>Kolej Mara Kuala Nerang (2021-2022)</li>
-                <li>Sekolah Menengah Sains Tuanku Aishah Rohani (2016-2021)</li>
-            </ul>
-        </section>
-        <br>
-        <section id="curricullar">
-            <h2><u>Extra-Curicullar</u></h2>
-        </section>
-        <br>
+        <!--tambah lain2 contact link mcm telegram, linkedin ngan github id-->
+        <!--besarkan sikit kotak text supaya nmpak tak terlalu kecik-->
+        <!--besarkan font detail-->
         <section id="contact" style="text-align: center;">
             <h2><u>Contact Me</u></h2>
             <button><a href="013-2807791">Contact Me</a></button>
@@ -167,7 +211,6 @@ Project 1: Personal Portfolio Website
                 <input type="email" id="email" name="email" required /><br>
                 <label for="message">Message:</label>
                 <textarea id="message" name="message" required></textarea><br>
-                <button type="submit">Submit</button>
                 <input type="submit" value="submit">
             </form>
         </section>

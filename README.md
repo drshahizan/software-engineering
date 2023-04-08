@@ -26,18 +26,6 @@ This course is designed to give students an introduction to an engineering appro
 5. [Final Year Project](https://github.com/drshahizan/undergraduate-project)
 6. [Agile concept: UTMSmart](https://drive.google.com/file/d/1B6AX646-zXVLZwstzDatENmk05u1Hegu/view?usp=sharing)
 
-## 🎯 Proposal 🆕 
-1. [List of Software Engineering Projects](./proposal/materials/list-se-topic.md)
-2. [Steps in Software Engineering Projects](./proposal/materials/se-project.md)
-3. [Guideline for Software Engineering Proposal](./proposal/materials/guideline.md)
-4. [Proposal Template](./proposal/materials/template-proposal.md)
-
-## Others
-1. [Tender dan sebut harga](./proposal/materials/tender.md)
-2. [Kajian Keperluan Pengguna MACA](https://drive.google.com/file/d/1cd-FGUqqFLkMai73DE2qAh2vrXksbpaT/view?usp=sharing)
-3. [Final Year Project](https://github.com/drshahizan/undergraduate-project)
-4. [Agile concept: UTMSmart](https://drive.google.com/file/d/1B6AX646-zXVLZwstzDatENmk05u1Hegu/view?usp=sharing)
-
 ## Weekly Schedule
 
 | Week | Module | Description | 01 | 02 |
@@ -58,11 +46,25 @@ This course is designed to give students an introduction to an engineering appro
 | 14 | | **TENTATIVE - ALTERNATIVE ASSESSMENT (TBC)**|
 | 15 | | **Industry Day II:** Project demonstration and hand over. |
 
+## [Labs](./lab)
+
 ## Student Information
 - [Section 01](./materials/student-01.md)
 - [Section 02](./materials/student-02.md)
 
 ## Notes
+
+### 🎯 Proposal 🆕 
+1. [List of Software Engineering Projects](./proposal/materials/list-se-topic.md)
+2. [Steps in Software Engineering Projects](./proposal/materials/se-project.md)
+3. [Guideline for Software Engineering Proposal](./proposal/materials/guideline.md)
+4. [Proposal Template](./proposal/materials/template-proposal.md)
+
+### Others
+1. [Tender dan sebut harga](./proposal/materials/tender.md)
+2. [Kajian Keperluan Pengguna MACA](https://drive.google.com/file/d/1cd-FGUqqFLkMai73DE2qAh2vrXksbpaT/view?usp=sharing)
+3. [Final Year Project](https://github.com/drshahizan/undergraduate-project)
+4. [Agile concept: UTMSmart](https://drive.google.com/file/d/1B6AX646-zXVLZwstzDatENmk05u1Hegu/view?usp=sharing)
 
 ### Introduction to Software Engineering
 - [Software Engineering | Introduction to Software Engineering](https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/)

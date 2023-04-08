@@ -8,29 +8,320 @@
 Don't forget to hit the :star: if you like this repo.
 
 
+<!---
 Module 3: Agile Software Development
+Group: Curiosity
+1. Camily Tang Jia Lei, A22EC0039
+2. Low Ying xi, A22EC0187
+3. Ng Shu Yu, A22EC
 
-Group Curiousity
-1. Ng Shu Yu
-2. Camily Tang Jia Lei
-3. Tan Jun Yuan
-4. Low Ying Xi
-
+-->
 
 
 # Module 3: Agile Software Development
 
 ### Contents:
 #### Notes
-- [The Importance of Software Engineering](#the-importance-of-software-engineering)
 
-### Others
-- [Software Engineering | Introduction to Software Engineering](https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/)
+#### AGILE METHODS
+- [Introduction](#Introduction)
+- [Rapid Software Development](#Rapid-Software-Development)
+- [Agile Development](#Agile-Development)
+- [Plan-Driven and Agile Development](#Plan-Driven-and-Agile-Development)
+- [Balance of Plan-Driven or Agile Development](#Balance-of-Plan-Driven-or-Agile-Development)
+- [Comparison between Plan-Driven and Agile Development](#Comparison-between-Plan-Driven-and-Agile-Development)
+- [Agile Methods](#Agile-Methods)
+- [Agile Manifesto](#Agile-Manifesto)
+- [The Principles of Agile Methods](#The-Principles-of-Agile-Methods)
+- [Agile Methods Applicability](#Agile-Methods-Applicability)
+
+#### AGILE DEVELOPMENT TECHNIQUES
+- [Agile Development Techniques](#Agile-Development-Techniques)
+- [XP(Extreme Programming)](#XP)
+- [The Extreme Programming Release Cycle](#The-Extreme-Programming-Release-Cycle)
+- [XP and Agile Principles](#XP-and-Agile-Principles)
+- [Influential XP Practices](#Influential-XP=Practices)
+- [1: User Stories for Specification](#User-Stories=For-Specifications)
+- [2: Refactoring](#Refactoring)
+- [3: Test-First Development](#Test-First-Development)
+- [4: Pair Programming](#Pair-Programming)
+
+#### AGILE PROJECT MANAGEMENT
+- [Agile Project Management](#Agile-Project-Management)
+- [Scrum](#Scrum)
+- [The Scrum Process](#The-Scrum-Process)
+- [Task Board](#Task-Board)
+- [The Scrum Sprint Cycle](#The-Scrum-Sprint-Cycle)
+- [The Spring Cycle](#The-Sprint-Cycle)
+- [Teamwork in Scrum](#Teamwork-In-Scrum)
+- [Scrum Benefits](#Scrum-Benefits)
+- [Example of Agile Project Management: JIRA Software](#Example-of-Agile-Project-management-JIRA-Software)
+- [DevOps: Agile & Learn to Operations Work](#DevOps-Agile-&-Learn-to-Operations-Work)
+- [DevOps and Tools](#DevOps-and-Tools)
+- [Agile DevOps](#Agile-DevOps)
+
+#### SCALING AGILE METHODS
+- [Scaling Agile Methods](#Scaling-Agile-Methods)
+- [Practical Problems with Agile Methods](#Practical-Problems-with-Agile-Methods)
+- [Large Systems Development](#Large-Systems-Development)
+- [Scaling Out and Scaling Up](#Scalilng-Out-and-Scaling-Up)
+- [Scaling Up to Large Systems](#Scaling-Up-to-Large-Systems)
+- [Scaling Out to Large Companies](#Scaling-Out-to-Large-Companies)
+- [Agile Methods and Software Maintenance](#Agile-Methods-and-Software-Maintenance)
+- [Agile Maintenance](#Agile-Maintenance)
+- [Agile and Plan-Based Factors](#Agile-and-Plan-Based-Factors)
+- [Agile and Waterfall: AgiFall](#Agile-and-Waterfall-Agifall)
+- [Agile-Waterfall Hybrid](#Agile-Waterfall-Hybrid)
+
+# AGILE METHODS
+## Introduction
+Agile methodology is a project management approach that was introduced in 2001 as an alternative to traditional, rigid project management approaches like the waterfall model. Unlike the waterfall model, which follows a sequential, linear approach to software development, agile methodology is an iterative and incremental approach that emphasizes flexibility, collaboration, and customer satisfaction.
+
+The main difference between agile and the waterfall model is that the waterfall model follows a sequential process where each phase must be completed before the next can begin. This approach can lead to delays and difficulty adapting to changes in customer needs or market conditions. In contrast, agile methodology focuses on delivering a working product in short development cycles, with frequent releases and continuous improvement. This approach allows for greater flexibility and the ability to respond quickly to changing requirements.
+
+Agile methodology is based on the Agile Manifesto, which outlines the values and principles of the approach. The manifesto emphasizes the importance of individuals and interactions, working software, customer collaboration, and responding to change. Agile methodology encourages cross-functional teams to work together and collaborate with stakeholders to deliver a high-quality product that meets customer needs.
+
+Overall, agile methodology offers a more flexible and adaptable approach to project management and software development than traditional waterfall models. By emphasizing collaboration, customer satisfaction, and continuous improvement, agile methodology can help teams deliver better products in less time while also fostering a more collaborative and engaged work environment.
+
+## Rapid Software Development
+Agile methodology is a project management approach that emphasizes rapid development and delivery, planning, and agile development techniques. In software development, these principles are often implemented using tools like GitHub, which is a popular code hosting and collaboration platform that allows teams to work together on software development projects.
+
+1. **Rapid development and delivery:** Agile methodology focuses on delivering a working product in short development cycles, with frequent releases and continuous improvement. With GitHub, teams can work together to rapidly develop and deliver software by collaborating on code, reviewing and merging pull requests, and automating tests and deployment.
+
+2. **Plan development:** Agile methodology encourages teams to plan development based on user stories, which are short descriptions of a feature or requirement from the perspective of the end-user. In GitHub, teams can create and manage user stories using issues and project boards, which help to organize and prioritize work and track progress towards milestones.
+
+3. **Agile development:** Agile development techniques, such as Scrum and Kanban, are often used to implement agile methodology in software development. With GitHub, teams can use these techniques to manage and complete complex projects by organizing work into sprints, creating backlogs and prioritizing tasks, and visualizing work in progress using project boards and dashboards.
+
+## Agile Development
+Agile development is a methodology that emphasizes iterative and incremental development, collaboration, and flexibility. Some key characteristics of agile development that aligns include:
+
+1. **Interleaved development:** Agile development often involves interleaved development, where multiple features or components of a project are developed and tested concurrently. This approach helps to reduce overall development time and can allow for more efficient use of resources.
+
+2. **Series of versions:** Agile development typically involves the creation of a series of versions, with each version representing a subset of the overall project requirements. These versions are often released on a regular basis, with each release incorporating feedback and improvements from previous versions.
+
+3. **Frequent delivery:** Agile development places a strong emphasis on frequent delivery of working software. This helps to ensure that the project stays on track and meets customer needs, while also allowing for feedback and improvements throughout the development process.
+
+4. **Extensive toolset:** Agile development often involves the use of an extensive toolset to help manage the development process. This can include project management software, collaboration platforms, automated testing and deployment tools, and more.
+
+5. **Minimal documentation:** Agile development places a greater emphasis on working software than on comprehensive documentation. While some documentation may be necessary, the focus is on delivering working software and incorporating feedback and improvements as quickly as possible.
+
+All in all, the agile development methodology emphasizes flexibility, collaboration, and rapid delivery of working software. By using interleaved development, creating a series of versions, delivering software frequently, using an extensive toolset, and minimizing documentation, agile development can help teams to be more productive, efficient, and responsive to changing requirements and customer needs.
+
+## Plan-Driven and Agile Development
+#### Plan-Driven Development
+**Plan-driven development:** Also known as the Waterfall model, it is a software development methodology that follows a sequential approach to building software products. In this methodology, the development process is divided into a series of distinct phases, and each phase must be completed before the next one begins.
+
+**Separate development stages:** The phases in the plan-driven development model typically include requirements gathering, design, implementation, testing, and maintenance. This approach requires extensive planning and documentation before development begins, with a detailed project plan that includes project scope, schedule, and budget.
+
+**Iteration:** To address the inflexibility of the plan-driven approach, some organizations have adopted an iterative approach, where each phase is broken down into smaller iterations. This allows for more frequent feedback and the ability to make changes based on that feedback. However, even with an iterative approach, the plan-driven model is still characterized by a linear, sequential development process.
+
+**Advantages and disadvantages:** The plan-driven approach is suitable for large, complex projects with well-defined requirements. However, it can be inflexible in the face of changing requirements, and changes made later in the development process can lead to delays and increased costs.
+
+**Example:** An example of plan-driven development is the software development process used by NASA for space missions, where a detailed plan is necessary to ensure the success of the mission.
+
+### Agile Development
+**Agile development:** Agile is a software development methodology that emphasizes flexibility, collaboration, and continuous improvement. This approach is characterized by short development cycles, frequent feedback, and the ability to adapt to changing requirements.
+
+**Separate development stages:** Agile development involves breaking down the development process into smaller, more manageable pieces that can be completed in a short amount of time. These pieces, called iterations or sprints, typically last between 1-4 weeks and include requirements gathering, design, implementation, testing, and deployment.
+
+**Inter-leaved:** In Agile development, different development stages can be inter-leaved or performed simultaneously within an iteration, allowing for quick feedback and the ability to make changes based on that feedback. This approach allows for a more flexible and adaptable development process, which can lead to faster delivery of working software.
+
+**Advantages and disadvantages:** Agile development is suitable for projects with rapidly changing requirements or uncertain scope, where flexibility and adaptability are more important than a detailed plan. However, Agile development can be more challenging to manage for large, complex projects, and the need for continuous feedback and collaboration can lead to communication and coordination challenges.
+
+**Example:** An example of Agile development is the development process used by a software development team building a mobile app. The team breaks down the development process into short sprints, each focusing on a specific feature or functionality. Within each sprint, the team inter-leaves development stages, allowing for quick feedback and the ability to make changes based on that feedback.
+
+## Balance of Plan-Driven or Agile Development
+
+## Comparison between Plan-Driven and Agile Development
+
+## Agile Methods
+
+## Agile Manifesto
+
+## The Principles of Agile Methods
+
+## Agile Methods Applicability
 
 
-## The Importance of Software Engineering
+# AGILE DEVELOPMENT TECHNIQUES
+## Agile Development Techniques
+Agile development is often implemented through various frameworks or methodologies such as Scrum, Kanban, Lean, and Extreme Programming (XP). Each methodology has its unique approach to implementing agile principles, but they all share the same values and principles. 
+## XP(Extreme Programming)
+Extreme Programming (XP) is an Agile methodology that focuses on continuous feedback, continuous testing, and continuous delivery. XP was developed in the 1990s as a response to the traditional "waterfall" software development process. The XP methodology is based on a set of practices that are intended to increase software quality and reduce the time it takes to deliver working software. Here are the key practices of XP:
 
-Software engineering is an essential field of study that deals with the design, development, and maintenance of software applications. It plays a vital role in the development and success of modern technology. Here are some of the reasons why software engineering is important:
+- Pair Programming: Two developers work together on a single computer, continuously reviewing each other's code and providing feedback.
+
+- Test-Driven Development (TDD): Developers write automated tests before writing code to ensure that the code is working as intended.
+
+- Continuous Integration: Developers integrate their code changes frequently, usually several times a day, to detect issues early and ensure that the code is working together.
+
+- Refactoring: Developers improve the code continuously, making it easier to understand, maintain, and modify.
+
+- Simple Design: The focus is on keeping the design simple, avoiding unnecessary complexity.
+
+- Coding Standards: The team agrees on a set of coding standards to ensure consistency and maintainability of the codebase.
+
+- Planning Game: A collaborative approach to planning where the development team and the customer work together to prioritize and estimate the work to be done.
+
+The XP methodology places a strong emphasis on teamwork, communication, and feedback, enabling teams to deliver high-quality software quickly and efficiently. By prioritizing customer needs, continuous testing, and continuous delivery, XP helps to ensure that the product is always aligned with customer expectations.
+ 
+ Example of Extreme Approuch to Iterative Development
+ - New Versions may be built several times per day
+ 
+ - Increments are delivered to customers every 2 weeks
+ 
+ - All tests must be run for every build
+
+ - Build is only accepted when the tests sucessfully run
+
+<br><img src=https://i.imgur.com/mUZHPws.png width="600px"></br>
+## The Extreme Programming Release Cycle
+
+#### <b>Step 1 User Story Selection<b>
+1. Identify the Stakeholders
+The first step in choosing user stories is to identify the stakeholders who will be impacted by the software. Stakeholders can include end-users, customers, managers, and other stakeholders who have an interest in the software.
+
+2. Brainstorm User Stories
+Once the stakeholders have been identified, the development team should brainstorm user stories that capture the stakeholders' requirements. User stories should be written in a simple, non-technical language and should describe the desired outcome or value to the user.
+
+3. Prioritize User Stories
+Once the user stories have been identified, the team should prioritize them based on the customer's needs and the value they provide. Prioritization can be done collaboratively with the customer and the development team.
+
+4. Estimate User Stories
+After prioritization, the team should estimate the effort required to complete each user story. This can be done using story points or another relative estimation technique. Estimation should be done collaboratively with the development team and should take into account the team's capacity and expertise.
+
+ #### <b>Step 2 Break Down Stories to Tasks</b>
+1. Break Down User Stories
+User stories should be broken down into smaller, manageable tasks that can be completed in a single iteration. Breaking down user stories helps to identify any dependencies or technical challenges and ensures that the work is manageable for the team.
+
+2. Validate user stories
+Once the user stories have been prioritized, estimated, and broken down, the team should validate them with the customer. This ensures that the user stories capture the customer's requirements and that the priorities and estimates are aligned with the customer's needs.
+
+ 
+<br><img src=https://static.vecteezy.com/system/resources/previews/008/150/839/non_2x/finishing-project-tasks-or-work-done-conclusion-project-management-or-process-plan-concept-smart-businessman-using-pen-to-check-on-project-list-checkbox-marked-as-completed-flat-illustration-vector.jpg width="600px"></br>
+ #### <b>Step 3 Plan Release</b>
+ After all the steps above are completed, the team need to create a release plan based on the priority and dependencies of the stories.
+ 
+ <br><img src=https://www.aihr.com/wp-content/uploads/Learning-and-development-manager.png width="600px"></br>
+ #### <b>Step 4 Development</b>
+ In the development step of the Extreme Programming (XP) release cycle, the actual coding of the software takes place. This step is crucial as it involves turning the requirements and user stories into functional code. The development process in XP is characterized by several practices that are designed to ensure high-quality code that meets the needs of the customer. Some of these practices include:
+
+I. Pair programming:
+ In XP, developers work in pairs on the same code. This practice ensures that the code is reviewed as it is being written, reducing the likelihood of errors and improving the quality of the code.
+
+II. Continuous integration: 
+ XP emphasizes frequent integration of code changes into the main codebase. This ensures that code is tested and integrated early, reducing the risk of problems being discovered later in the development process.
+
+III. Test-driven development: 
+ XP follows a test-driven development approach, where developers write automated tests for their code before writing the code itself. This ensures that the code meets the requirements and reduces the likelihood of introducing bugs into the codebase.
+
+IV. Refactoring:
+ XP encourages frequent refactoring of the codebase to keep it clean and maintainable. This ensures that the code remains easy to work with and reduces the likelihood of introducing bugs into the codebase.
+
+Overall, the development step in the XP release cycle is focused on producing high-quality code that meets the needs of the customer while ensuring that the code remains easy to work with and maintainable.
+
+<br><img src=https://www.altexsoft.com/media/2018/02/XP-values-and-principles.png width="600px"></br>
+## XP and Agile Principles
+ XP is based on a set of principles that align with the Agile Manifesto, which was created in 2001 as a way to promote agility and flexibility in software development.
+
+Here are some of the key principles of XP and how they relate to the Agile Manifesto:
+
+1. Communication: XP places a strong emphasis on communication between developers, stakeholders, and customers. This aligns with the Agile Manifesto's principle of "Individuals and interactions over processes and tools."
+
+2. Simplicity: XP promotes simplicity in software design and development, with the goal of delivering the most valuable software with the least amount of complexity. This aligns with the Agile Manifesto's principle of "Simplicity--the art of maximizing the amount of work not done--is essential."
+
+3. Feedback: XP emphasizes the importance of frequent feedback from stakeholders, customers, and end-users. This aligns with the Agile Manifesto's principle of "Working software is the primary measure of progress."
+
+4. Respect: XP encourages respect for everyone involved in the software development process, including developers, stakeholders, and customers. This aligns with the Agile Manifesto's principle of "Respect for people and continuous improvement."
+
+5. Courage: XP promotes courage in the face of uncertainty and encourages developers to take risks and experiment. This aligns with the Agile Manifesto's principle of "Responding to change over following a plan."
+
+6. Iteration: XP emphasizes delivering software in small, frequent iterations rather than in one large release. This aligns with the Agile Manifesto's principle of "Delivering working software frequently, with a preference to the shorter timescale."
+
+## Influential XP Practices
+Key Practice:
+- User stories for specification
+- Refactoring
+- Test-first development
+- Pair programming
+
+Key Practice #1 – Pair Programming
+One of the most unique traits of XP is the practice of pair-programming, where two (and possibly more) engineers work side-by-side to develop code together. This practice involves two programmers working together on the same codebase, sharing knowledge and collaborating to improve the quality of the code. This approach is designed to optimize quality due to the built-in validation mechanism that is expected between two engineers which contribute to a single unit of code. While some organizations embrace this technique, this approach will require careful selection of partners to ensure maximum effectiveness. Culturally, there may also be a need to educate leadership folks who may not understand the value and see this as increased overhead/cost.
+
+Key Practice #2 – Planning Game
+XP receives credit for introducing a different approach to planning work through planning small batches of work frequently and through a consistent schedule. This practice involves regular planning meetings where the team collaboratively decides what work to do next, based on the customer's priorities. This was a precursor to what many of us know as “Sprint Planning” or “Iteration Planning” today within Scrum or other Agile approaches. Planning iteratively and applying a popular technique called “user stories” is one of the most important aspects of XP that has trickled down to Scrum, the most popular Agile method in the world today.
+
+Key Practice #3 – Continuous Process
+This practice involves regular planning meetings where the team collaboratively decides what work to do next, based on the customer's priorities.The practice of integrating code regularly and releasing the code on a cadence has been recently popularized by the movement also known as “DevOps” which originated the XP practices. Building code iteratively and releasing frequently enables the team to assess state of the product and resolve issues as early and often as possible which ultimately leads to higher overall quality in the end.
+
+Key Practice #4 – Coding Standards
+One of the most important and often forgotten practices amongst new Agile teams is the concept of coding standards. If a team of engineers do not construct a common set of rules, the end product will suffer a lack of consistency and increase the likelihood of technical debt as well as defects.
+
+Key Practice #5 – Sustainable Pace
+One of the key tenets of Agile Manifesto is to respect work-life balance for teams and encourage sustainable development, which enhances morale as well as product quality. XP reinforces this value in order to maximize team effectiveness.
+
+Key Practice #6 – Test Driven Development (TDD)
+Test Driven Development(TDD) is a specific practice of Test First that is commonly associated with Extreme Programming (XP).  XP states that unit tests must be written prior to code, which is a practice that many organizations are not accustomed to. TDD enhances code quality because it requires a test to be written which means that code will always pass the test before it is submitted and integrated with the work from other members of the team.
+
+## 1: User Stories for Specification
+
+## 2: Refactoring
+
+## 3: Test-First Development
+
+## 4: Pair Programming
+
+
+# AGILE PROJECT MANAGEMENT
+## Agile Project Management
+
+## Scrum
+
+## The Scrum Process
+
+## Task Board
+
+## The Scrum Sprint Cycle
+
+## The Spring Cycle
+
+## Teamwork in Scrum
+
+## Scrum Benefits
+
+## Example of Agile Project Management: JIRA Software
+
+## DevOps: Agile & Learn to Operations Work-Learn-to-Operations-Work
+
+## DevOps and Tools
+
+## Agile DevOps
+
+
+# SCALING AGILE METHODS
+## Scaling Agile Methods
+
+## Practical Problems with Agile Methods
+
+## Large Systems Development
+
+## Scaling Out and Scaling Up
+
+## Scaling Up to Large Systems
+
+## Scaling Out to Large Companies
+
+## Agile Methods and Software Maintenance
+
+## Agile Maintenance
+
+## Agile and Plan-Based Factors
+
+## Agile and Waterfall: AgiFall
+
+## Agile-Waterfall Hybrid
+
+
 
 
 ## Contribution 🛠️
