@@ -128,19 +128,19 @@ Agile development is often implemented through various frameworks or methodologi
 ## XP(Extreme Programming)
 Extreme Programming (XP) is an Agile methodology that focuses on continuous feedback, continuous testing, and continuous delivery. XP was developed in the 1990s as a response to the traditional "waterfall" software development process. The XP methodology is based on a set of practices that are intended to increase software quality and reduce the time it takes to deliver working software. Here are the key practices of XP:
 
--Pair Programming: Two developers work together on a single computer, continuously reviewing each other's code and providing feedback.
+- Pair Programming: Two developers work together on a single computer, continuously reviewing each other's code and providing feedback.
 
--Test-Driven Development (TDD): Developers write automated tests before writing code to ensure that the code is working as intended.
+- Test-Driven Development (TDD): Developers write automated tests before writing code to ensure that the code is working as intended.
 
--Continuous Integration: Developers integrate their code changes frequently, usually several times a day, to detect issues early and ensure that the code is working together.
+- Continuous Integration: Developers integrate their code changes frequently, usually several times a day, to detect issues early and ensure that the code is working together.
 
--Refactoring: Developers improve the code continuously, making it easier to understand, maintain, and modify.
+- Refactoring: Developers improve the code continuously, making it easier to understand, maintain, and modify.
 
--Simple Design: The focus is on keeping the design simple, avoiding unnecessary complexity.
+- Simple Design: The focus is on keeping the design simple, avoiding unnecessary complexity.
 
--Coding Standards: The team agrees on a set of coding standards to ensure consistency and maintainability of the codebase.
+- Coding Standards: The team agrees on a set of coding standards to ensure consistency and maintainability of the codebase.
 
--Planning Game: A collaborative approach to planning where the development team and the customer work together to prioritize and estimate the work to be done.
+- Planning Game: A collaborative approach to planning where the development team and the customer work together to prioritize and estimate the work to be done.
 
 The XP methodology places a strong emphasis on teamwork, communication, and feedback, enabling teams to deliver high-quality software quickly and efficiently. By prioritizing customer needs, continuous testing, and continuous delivery, XP helps to ensure that the product is always aligned with customer expectations.
  
