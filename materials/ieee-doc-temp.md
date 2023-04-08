@@ -96,23 +96,23 @@ Overall, the SDD document is a critical document for software engineering projec
 
 The IEEE document template for Software Test Plan (STP) is a document that outlines the plan for testing the software developed as part of a software engineering project. The STP document is an important document for software engineering projects, as it provides a roadmap for testing the software to ensure that it meets the requirements and functions as intended. This document outlines the plan for testing the software, including the testing approach, test cases, and testing procedures.The following are some of the key sections included in the STP document:
 
-Introduction: This section provides an overview of the software test plan document, including the purpose of the document, scope, and intended audience.
+1. Introduction: This section provides an overview of the software test plan document, including the purpose of the document, scope, and intended audience.
 
-Test Objectives: This section describes the objectives of the testing process, including the specific goals that need to be achieved through testing.
+2. Test Objectives: This section describes the objectives of the testing process, including the specific goals that need to be achieved through testing.
 
-Test Strategy: This section outlines the overall strategy for testing the software, including the types of tests that will be performed, the resources required, and the timeline for testing.
+3. Test Strategy: This section outlines the overall strategy for testing the software, including the types of tests that will be performed, the resources required, and the timeline for testing.
 
-Test Environment: This section describes the environment in which the testing will take place, including the hardware and software components, tools, and other resources required for testing.
+4. Test Environment: This section describes the environment in which the testing will take place, including the hardware and software components, tools, and other resources required for testing.
 
-Test Plan Management: This section outlines the roles and responsibilities of the test team, including the management of the testing process, communication channels, and reporting mechanisms.
+5. Test Plan Management: This section outlines the roles and responsibilities of the test team, including the management of the testing process, communication channels, and reporting mechanisms.
 
-Test Cases and Procedures: This section describes the specific test cases and procedures that will be used to test the software, including the inputs, expected outputs, and conditions for each test case.
+6. Test Cases and Procedures: This section describes the specific test cases and procedures that will be used to test the software, including the inputs, expected outputs, and conditions for each test case.
 
-Test Schedule: This section outlines the schedule for testing, including the timeline for each testing phase, the resources required, and any milestones or deadlines that need to be met.
+7. Test Schedule: This section outlines the schedule for testing, including the timeline for each testing phase, the resources required, and any milestones or deadlines that need to be met.
 
-Test Reporting: This section describes the reporting process for the testing, including the types of reports that will be generated, the frequency of reporting, and the recipients of the reports.
+8. Test Reporting: This section describes the reporting process for the testing, including the types of reports that will be generated, the frequency of reporting, and the recipients of the reports.
 
-Test Risks and Contingencies: This section identifies potential risks and contingencies that could impact the testing process, and outlines strategies for mitigating those risks and contingencies.
+9. Test Risks and Contingencies: This section identifies potential risks and contingencies that could impact the testing process, and outlines strategies for mitigating those risks and contingencies.
 
 Overall, the STP document is a critical document for software engineering projects. It provides a detailed plan for testing the software, ensuring that all aspects of the software are thoroughly tested and that any issues or bugs are identified and addressed before the software is released to users. By following the STP document, project managers and software developers can ensure that the software is developed on time, within budget, and to the required level of quality.
 
