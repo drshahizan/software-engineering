@@ -72,8 +72,7 @@ In conclusion,software engineering is important for reduces complexity, handling
 
 
 <br><<img src="https://upplabs.com/wp-content/uploads/2021/06/Functional-and-non-functional-requirements.jpeg" width="450px"><br>
-
-
+<br><<img src="https://www.computerhope.com/jargon/s/software-engineering.jpg" width="450px"><br>
 
 
 
