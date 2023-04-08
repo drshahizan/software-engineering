@@ -1,9 +1,9 @@
-<a href="https://github.com/drshahizan/learn-php/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/learn-php" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/learn-php/network/members"><img src="https://img.shields.io/github/forks/drshahizan/learn-php" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/learn-php/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/learn-php" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/learn-php/issues"><img src="https://img.shields.io/github/issues/drshahizan/learn-php" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/learn-php/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/learn-php?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/learn-php)
+<a href="https://github.com/drshahizan/software-engineering/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/software-engineering" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/software-engineering/network/members"><img src="https://img.shields.io/github/forks/drshahizan/software-engineering" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/software-engineering/issues"><img src="https://img.shields.io/github/issues/drshahizan/software-engineering" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/software-engineering/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/software-engineering?color=2b9348"></a>
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/software-engineering)
 
 Don't forget to hit the :star: if you like this repo.
 
@@ -76,7 +76,7 @@ We use CSS to style the form elements, including adding margins and padding, set
 You are required to produce a simple form layout. There are four lab practise questions in this lab that must be answered. You've been given raw HTML and images to work with for this lab. You can download the files **lab16.zip**. The following files can be found in the [**lab16.zip**](./download/lab16.zip) file:
 
 <p align="center">
-<img src="https://github.com/drshahizan/learn-php/blob/main/lab/css/lab16/download/lab16a.png" width="200" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/lab/css/lab16/download/lab16a.png" width="200" />
 </p>
 
 ## Lab 1: Survey Form
@@ -85,7 +85,7 @@ Forms are always an important part of any project that collects user input infor
 
 Figure 1.1
 <p align="center">
-<img src="https://github.com/drshahizan/learn-php/blob/main/lab/css/lab16/download/lab16b.png" width="400" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/lab/css/lab16/download/lab16b.png" width="400" />
 </p>
 
 ### Output
@@ -95,7 +95,7 @@ You must create the interface depicted in Figure 1.2. Please enter the appropria
 
 Figure 1.2
 <p align="center">
-<img src="https://github.com/drshahizan/learn-php/blob/main/lab/css/lab16/download/lab16c.png" width="600" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/lab/css/lab16/download/lab16c.png" width="600" />
 </p>
 
 ## Lab 2: Persaka Survey Form
@@ -104,7 +104,7 @@ You have been tasked with creating an appealing survey form interface for Persak
 
 Figure 2.1
 <p align="center">
-<img src="https://github.com/drshahizan/learn-php/blob/main/lab/css/lab16/download/lab16d.png" width="600" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/lab/css/lab16/download/lab16d.png" width="600" />
 </p>
 
 ## Lab 3: Login Page
@@ -113,12 +113,12 @@ Before users can access the system, they must first enter a username and passwor
 
 Figure 3.1
 <p align="center">
-<img src="https://github.com/drshahizan/learn-php/blob/main/lab/css/lab16/download/lab16e.png" width="600" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/lab/css/lab16/download/lab16e.png" width="600" />
 </p>
 
 Figure 3.2
 <p align="center">
-<img src="https://github.com/drshahizan/learn-php/blob/main/lab/css/lab16/download/lab16f.png" width="300" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/lab/css/lab16/download/lab16f.png" width="300" />
 </p>
 
 ## Lab 4: UTMtravel
@@ -127,12 +127,12 @@ You have been tasked with creating a search interface for UTMTravel. Users can s
 
 Figure 4.1
 <p align="center">
-<img src="https://github.com/drshahizan/learn-php/blob/main/lab/css/lab16/download/lab16g.png" width="600" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/lab/css/lab16/download/lab16g.png" width="600" />
 </p>
 
 Figure 4.2
 <p align="center">
-<img src="https://github.com/drshahizan/learn-php/blob/main/lab/css/lab16/download/lab16h.png" width="300" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/lab/css/lab16/download/lab16h.png" width="300" />
 </p>
 
 ## Submission
@@ -158,7 +158,7 @@ Group:
 
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 

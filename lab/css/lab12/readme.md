@@ -1,9 +1,9 @@
-<a href="https://github.com/drshahizan/learn-php/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/learn-php" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/learn-php/network/members"><img src="https://img.shields.io/github/forks/drshahizan/learn-php" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/learn-php/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/learn-php" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/learn-php/issues"><img src="https://img.shields.io/github/issues/drshahizan/learn-php" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/learn-php/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/learn-php?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/learn-php)
+<a href="https://github.com/drshahizan/software-engineering/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/software-engineering" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/software-engineering/network/members"><img src="https://img.shields.io/github/forks/drshahizan/software-engineering" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/software-engineering/issues"><img src="https://img.shields.io/github/issues/drshahizan/software-engineering" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/software-engineering/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/software-engineering?color=2b9348"></a>
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/software-engineering)
 
 Don't forget to hit the :star: if you like this repo.
 
@@ -141,7 +141,7 @@ In the above example, we have applied different styles to the heading and paragr
 Your task is to change the appearance of text using CSS. The following is the original interface:
 
 <p align="center">
-<img src="https://github.com/drshahizan/learn-php/blob/main/lab/css/lab12/download/lab12a.png"  height="600" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/lab/css/lab12/download/lab12a.png"  height="600" />
 </p>
 
 
@@ -155,7 +155,7 @@ Your task is to change the appearance of text using CSS. The following is the or
 - Part of the HTML code is as follows:
 
 <p align="center">
-<img src="https://github.com/drshahizan/learn-php/blob/main/lab/css/lab12/download/lab12b.png"  height="400" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/lab/css/lab12/download/lab12b.png"  height="400" />
 </p>
 
 ## Output
@@ -163,7 +163,7 @@ Your task is to change the appearance of text using CSS. The following is the or
 You must create the interface as shown below.
 
 <p align="center">
-<img src="https://github.com/drshahizan/learn-php/blob/main/lab/css/lab12/download/lab12c.png"  width="600" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/lab/css/lab12/download/lab12c.png"  width="600" />
 </p>
 
 ### Lab 1: Google Font
@@ -173,7 +173,7 @@ You must create the interface as shown below.
 - You can use properties such as width, border, text align, padding, and margin.
 
 <p align="center">
-<img src="https://github.com/drshahizan/learn-php/blob/main/lab/css/lab12/download/lab12d.png" width="600" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/lab/css/lab12/download/lab12d.png" width="600" />
 </p>
 
 ### Lab 2: Style first letter, first line & last line
@@ -185,7 +185,7 @@ You must create the interface as shown below.
 - You must also comply to the text align settings for each paragraph.
 
 <p align="center">
-<img src="https://github.com/drshahizan/learn-php/blob/main/lab/css/lab12/download/lab12e.png"  width="600" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/lab/css/lab12/download/lab12e.png"  width="600" />
 </p>
 
 ### Lab 3: Border
@@ -197,7 +197,7 @@ You must create the interface as shown below.
 - For this lab, you can also use features like background, colour, font, display, height, margin, padding top, text align, and width.
 
 <p align="center">
-<img src="https://github.com/drshahizan/learn-php/blob/main/lab/css/lab12/download/lab12f.png" width="600" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/lab/css/lab12/download/lab12f.png" width="600" />
 </p>
 
 ### Lab 4: Box Model 1
@@ -207,7 +207,7 @@ You must create the interface as shown below.
 - The box's background colour is yellow.
 
 <p align="center">
-<img src="https://github.com/drshahizan/learn-php/blob/main/lab/css/lab12/download/lab12g.png"  width="600" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/lab/css/lab12/download/lab12g.png"  width="600" />
 </p>
 
 ### Lab 5: Box Model 2
@@ -219,7 +219,7 @@ You must create the interface as shown below.
 - Please create a box like the image below.
 
 <p align="center">
-<img src="https://github.com/drshahizan/learn-php/blob/main/lab/css/lab12/download/lab12h.png"  width="600" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/lab/css/lab12/download/lab12h.png"  width="600" />
 </p>
 
 ### Lab 6: Box Model 3
@@ -231,13 +231,13 @@ box3 is the id for creating a model box. This box is located in the centre of th
 - The text3 class is used to make text bold or underlined.
 
 <p align="center">
-<img src="https://github.com/drshahizan/learn-php/blob/main/lab/css/lab12/download/lab12i.png"  width="600" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/lab/css/lab12/download/lab12i.png"  width="600" />
 </p>
 
 - The following is the interface display when the text is scrolled.
 
 <p align="center">
-<img src="https://github.com/drshahizan/learn-php/blob/main/lab/css/lab12/download/lab12h.png"  width="600" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/lab/css/lab12/download/lab12h.png"  width="600" />
 </p>
 
 ## Submission
@@ -262,7 +262,7 @@ Group:
 > (Note: please replace [Name], [Matrix Number], [Github ID], [group-name], and [your-file] with the appropriate information)
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
