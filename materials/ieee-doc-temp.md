@@ -160,7 +160,10 @@ These documents are essential for managing and executing a software engineering 
 
 | No | Name | ID |  Github |
 | ----- | ----- | ------ | :------: |
-| 1 |  |  |  |
+| 1 | Software Requirements Specification |  |  |
+| 2 | Software Design Description |  |  |
+| 3 | Software Test Plan |  |  |
+| 4 | Software Requirements Specification |  |  |
 
 
 ## Contribution 🛠️
