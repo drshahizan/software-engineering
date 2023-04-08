@@ -22,7 +22,7 @@ The IEEE document template is typically used by project managers, software devel
 
 | No | Name | File |  
 | ----- | ----- | ------ | 
-| 1 | [Software Requirements Specification(#2-software-requirements-specification-srs) | <a href="https://drive.google.com/file/d/1LASMFtcF32bsyvW0tpXm2mTPSQkgBgoZ/view?usp=sharing" ><img src="../images/pdf64.png" width="24px" height="24px" ></a> | 
+  | 1 | [Software Requirements Specification](#2-software-requirements-specification-srs) | <a href="https://drive.google.com/file/d/1LASMFtcF32bsyvW0tpXm2mTPSQkgBgoZ/view?usp=sharing" ><img src="../images/pdf64.png" width="24px" height="24px" ></a> | 
 | 2 | Software Design Description | <a href="https://drive.google.com/file/d/1PvWaFIDyTOAeORIrPmhfHJmtVZsuliuI/view?usp=sharing" ><img src="../images/pdf64.png" width="24px" height="24px" ></a> |
 | 3 | Software Test Documentation | <a href="https://drive.google.com/file/d/1Z0dwgzK6P6rx17iWTHDYeZOVlB6fvCqE/view?usp=sharing" ><img src="../images/pdf64.png" width="24px" height="24px" ></a> |
 | 4 | Software Test Plan | <a href="https://drive.google.com/file/d/1dlwdkYVPQ2ON739BpmSYi1nv_sN5_Cts/view?usp=sharing" ><img src="../images/pdf64.png" width="24px" height="24px" ></a> |
