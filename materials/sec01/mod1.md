@@ -118,6 +118,35 @@ Overall, software engineering is a vital discipline that underpins the developme
 
 <br><img src="https://www.computerhope.com/jargon/s/software-engineering.jpg" width="600px"><br>  
 
+## Software Engineering as a Layered Technology
+
+- Quality Focus: Quality orientation is an important aspect of software engineering that focuses on the quality of the software system throughout the development process. This means that software engineers must focus on continuously improving the development process and ensuring that the final product meets the required quality standards. A quality orientation requires the use of various quality assurance processes and techniques, such as code reviews, testing and documentation.
+ 
+- Process: Process is the foundation of software engineering and provides a framework for the streamlined and timely development of computer software. A well-defined and structured process enables software engineers to manage the complexity of software development and ensure that the software system is developed on time and within budget. The process includes various phases, such as requirements analysis, design, implementation, testing, deployment, and maintenance.
+
+- Methods: Methods provide technical guidelines and guidance for building software. They encompass various tasks, including requirements analysis, design, program development, testing, and support. Methods also include modeling activities, such as creating diagrams and other representations of the software system. By following well-defined methods, software engineers can ensure that the software system is developed in a structured and systematic manner.
+
+- Tools: Tools provide automatic or semi-automatic support for the software development process and methods. They help automate repetitive tasks, provide support for testing and debugging, and improve collaboration between software development teams. Tools include integrated development environments (IDEs), version control systems, testing frameworks and other utilities for software development. 
+
+In summary, quality focus, process, methods, and tools are essential components of software engineering that work together to ensure the development of high-quality software systems that meet the needs of end-users.
+
+<br><img src="https://kuliahso.files.wordpress.com/2012/03/software-layers.png" width="600px"><br>
+
+## Software Products and Product Specification
+
+Software products are software systems or applications that are developed to meet the specific needs of end-users. A software product can be anything from a simple mobile app to a complex enterprise-level software system.
+
+Product specification is a critical aspect of software product development that involves defining the functional and non-functional requirements of the software product. Product specification provides a detailed description of the software product, including its features, functionality, performance, and other relevant characteristics.
+
+- Generic products: software systems or applications that are tailored to meet the needs of a broad range of users or organizations. These products are usually preconfigured and sold as off-the-shelf solutions that are easy to implement and configure. Generic products are often less expensive than custom products because they are developed for a broader audience and can be sold to multiple customers.
+
+- Custom products: software systems or applications that are tailored to the specific needs of a particular customer or business. These products are usually developed from scratch or are based on existing software products that are customized to meet the customer's specific requirements. Customized products are often more expensive than generic products because they require a higher degree of customization and development effort.
+
+The choice between generic and custom products depends on several factors, including the customer's specific requirements, the degree of customization required, and the available budget. Generic products are often a good choice for companies that need a software solution that can be implemented quickly and requires minimal customization. Custom products are often a better choice for companies that have specific requirements that cannot be met by a generic product and are willing to invest the time and money required to develop a custom solution.
+
+Product specification plays a crucial role in software product development because it helps to ensure that the software product meets the needs of end-users and is delivered on time and within budget. A well-defined product specification helps to ensure that the software product is developed in a structured and systematic way, and that all stakeholders are clear on the product's requirements and goals.
+
+<br><img src="https://www.marketing91.com/wp-content/uploads/2020/02/What-does-a-Product-Specification-include.jpg" width="600px"><br>
 
 
 
