@@ -8,29 +8,148 @@
 Don't forget to hit the :star: if you like this repo.
 
 
+<!---
 Module 3: Agile Software Development
-
-Group Curiousity
-1. Ng Shu Yu
-2. Camily Tang Jia Lei
-3. Tan Jun Yuan
-4. Low Ying Xi
-
+Group: Curiosity
+1. Camily Tang Jia Lei, A22EC0039
+2. Low Ying xi, A22EC
+3. Ng Shu Yu, A22EC
+4. Tan Jun Yuan, A22EC
+-->
 
 
 # Module 3: Agile Software Development
 
 ### Contents:
 #### Notes
-- [The Importance of Software Engineering](#the-importance-of-software-engineering)
+- [Introduction](#Introduction)
+- [Rapid Software Development](#Rapid-Software-Development)
+- [Agile Development](#Agile-Development)
+- [Plan-Driven and Agile Development](#Plan-Driven-and-Agile-Development)
+- [Balance of Plan-Driven or Agile Development](#Balance-of-Plan-Driven-or-Agile-Development)
+- [Comparison between Plan-Driven and Agile Development](#Comparison-between-Plan-Driven-and-Agile-Development)
+- [Agile Methods](#Agile-Methods)
+- [Agile Manifesto](#Agile-Manifesto)
+- [The Principles of Agile Methods](#The-Principles-of-Agile-Methods)
+- [Agile Methods Applicability](#Agile-Methods-Applicability)
+- [Agile Development Techniques](#Agile-Development-Techniques)
+- [XP(Extreme Programming)](#XP)
+- [The Extreme Programming Release Cycle](#The-Extreme-Programming-Release-Cycle)
+- [XP and Agile Principles](#XP-and-Agile-Principles)
+- [Influential XP Practices](#Influential-XP=Practices)
+- [1: User Stories for Specification](#User-Stories=For-Specifications)
+- [2: Refactoring](#Refactoring)
+- [3: Test-First Development](#Test-First-Development)
+- [4: Pair Programming](#Pair-Programming)
+- [Agile Project Management](#Agile-Project-Management)
+- [Scrum](#Scrum)
+- [The Scrum Process](#The-Scrum-Process)
+- [Task Board](#Task-Board)
+- [The Scrum Sprint Cycle](#The-Scrum-Sprint-Cycle)
+- [The Spring Cycle](#The-Sprint-Cycle)
+- [Teamwork in Scrum](#Teamwork-In-Scrum)
+- [Scrum Benefits](#Scrum-Benefits)
+- [Example of Agile Project Management: JIRA Software](#Example-of-Agile-Project-management-JIRA-Software)
+- [DevOps: Agile & Learn to Operations Work](#DevOps-Agile-&-Learn-to-Operations-Work)
+- [DevOps and Tools](#DevOps-and-Tools)
+- [Agile DevOps](#Agile-DevOps)
+- [Scaling Agile Methods](#Scaling-Agile-Methods)
+- [Practical Problems with Agile Methods](#Practical-Problems-with-Agile-Methods)
+- [Large Systems Development](#Large-Systems-Development)
+- [Scaling Out and Scaling Up](#Scalilng-Out-and-Scaling-Up)
+- [Scaling Up to Large Systems](#Scaling-Up-to-Large-Systems)
+- [Scaling Out to Large Companies](#Scaling-Out-to-Large-Companies)
+- [Agile Methods and Software Maintenance](#Agile-Methods-and-Software-Maintenance)
+- [Agile Maintenance](#Agile-Maintenance)
+- [Agile and Plan-Based Factors](#Agile-and-Plan-Based-Factors)
+- [Agile and Waterfall: AgiFall](#Agile-and-Waterfall-Agifall)
+- [Agile-Waterfall Hybrid](#Agile-Waterfall-Hybrid)
 
-### Others
-- [Software Engineering | Introduction to Software Engineering](https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/)
+## Introduction
+
+## Rapid Software Development
+
+## Agile Development
+
+## Plan-Driven and Agile Development
+
+## Balance of Plan-Driven or Agile Development
+
+## Comparison between Plan-Driven and Agile Development
+
+## Agile Methods
+
+## Agile Manifesto
+
+## The Principles of Agile Methods
+
+## Agile Methods Applicability
+
+## Agile Development Techniques
+
+## XP(Extreme Programming)
+
+## The Extreme Programming Release Cycle
+
+## XP and Agile Principles
+
+## Influential XP Practices
+
+## 1: User Stories for Specification
+
+## 2: Refactoring
+
+## 3: Test-First Development
+
+## 4: Pair Programming
+
+## Agile Project Management
+
+## Scrum
+
+## The Scrum Process
+
+## Task Board
+
+## The Scrum Sprint Cycle
+
+## The Spring Cycle
+
+## Teamwork in Scrum
+
+## Scrum Benefits
+
+## Example of Agile Project Management: JIRA Software
+
+## DevOps: Agile & Learn to Operations Work-Learn-to-Operations-Work
+
+## DevOps and Tools
+
+## Agile DevOps
+
+## Scaling Agile Methods
+
+## Practical Problems with Agile Methods
+
+## Large Systems Development
+
+## Scaling Out and Scaling Up
+
+## Scaling Up to Large Systems
+
+## Scaling Out to Large Companies
+
+## Agile Methods and Software Maintenance
+
+## Agile Maintenance
+
+## Agile and Plan-Based Factors
+
+## Agile and Waterfall: AgiFall
+
+## Agile-Waterfall Hybrid
 
 
-## The Importance of Software Engineering
-
-Software engineering is an essential field of study that deals with the design, development, and maintenance of software applications. It plays a vital role in the development and success of modern technology. Here are some of the reasons why software engineering is important:
 
 
 ## Contribution 🛠️
