@@ -17,7 +17,15 @@ The IEEE document template is a comprehensive and structured document that outli
 
 The IEEE document template is typically used by project managers, software developers, and other stakeholders involved in the software engineering project. It helps to ensure that all aspects of the project are properly planned and documented, and that everyone involved in the project has a clear understanding of their roles and responsibilities.
 
-# IEEE Document Template
+
+## IEEE Document Template
+
+| No | Name | File |  
+| ----- | ----- | ------ | 
+| 1 | [Software Requirements Specification(#2-software-requirements-specification-srs) | <a href="https://drive.google.com/file/d/1LASMFtcF32bsyvW0tpXm2mTPSQkgBgoZ/view?usp=sharing" ><img src="../images/pdf64.png" width="24px" height="24px" ></a> | 
+| 2 | Software Design Description | <a href="https://drive.google.com/file/d/1PvWaFIDyTOAeORIrPmhfHJmtVZsuliuI/view?usp=sharing" ><img src="../images/pdf64.png" width="24px" height="24px" ></a> |
+| 3 | Software Test Documentation | <a href="https://drive.google.com/file/d/1Z0dwgzK6P6rx17iWTHDYeZOVlB6fvCqE/view?usp=sharing" ><img src="../images/pdf64.png" width="24px" height="24px" ></a> |
+| 4 | Software Test Plan | <a href="https://drive.google.com/file/d/1dlwdkYVPQ2ON739BpmSYi1nv_sN5_Cts/view?usp=sharing" ><img src="../images/pdf64.png" width="24px" height="24px" ></a> |
 
 The IEEE document template is a comprehensive document that is used for software engineering project management. It includes several documents that are required to properly manage and execute a software engineering project. These documents are:
 
@@ -156,14 +164,9 @@ The IEEE document template for Software Maintenance Plan (SMP) is a document tha
 
 Overall, the SMP document is a critical document for software engineering projects. It provides a detailed plan for maintaining the software after it has been released to users, ensuring that the software remains functional, reliable, and secure. By following the SMP document, project managers and software developers can ensure that the software continues to meet the needs of its users, and that any issues or bugs are identified and addressed in a timely and effective manner.
 
+### Summary
 These documents are essential for managing and executing a software engineering project. They provide a structured approach to project management, ensuring that all aspects of the project are properly planned and documented. By following these documents, project managers and software developers can ensure that the project is completed on time, within budget, and to the required level of quality.
 
-| No | Name | File |  
-| ----- | ----- | ------ | 
-| 1 | Software Requirements Specification | <a href="https://drive.google.com/file/d/1LASMFtcF32bsyvW0tpXm2mTPSQkgBgoZ/view?usp=sharing" ><img src="../images/pdf64.png" width="24px" height="24px" ></a> | 
-| 2 | Software Design Description | <a href="https://drive.google.com/file/d/1PvWaFIDyTOAeORIrPmhfHJmtVZsuliuI/view?usp=sharing" ><img src="../images/pdf64.png" width="24px" height="24px" ></a> |
-| 3 | Software Test Documentation | <a href="https://drive.google.com/file/d/1Z0dwgzK6P6rx17iWTHDYeZOVlB6fvCqE/view?usp=sharing" ><img src="../images/pdf64.png" width="24px" height="24px" ></a> |
-| 4 | Software Test Plan | <a href="https://drive.google.com/file/d/1dlwdkYVPQ2ON739BpmSYi1nv_sN5_Cts/view?usp=sharing" ><img src="../images/pdf64.png" width="24px" height="24px" ></a> |
 
 
 ## Contribution 🛠️
