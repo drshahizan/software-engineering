@@ -145,15 +145,19 @@ Extreme Programming (XP) is an Agile methodology that focuses on continuous feed
 The XP methodology places a strong emphasis on teamwork, communication, and feedback, enabling teams to deliver high-quality software quickly and efficiently. By prioritizing customer needs, continuous testing, and continuous delivery, XP helps to ensure that the product is always aligned with customer expectations.
  
  Example of Extreme Approuch to Iterative Development
- -New Versions may be built several times per day
- -Increments are delivered to customers every 2 weeks
- -All tests must be run for every build
- -Build is only accepted when the tests sucessfully run
+ - New Versions may be built several times per day
+ 
+ - Increments are delivered to customers every 2 weeks
+ 
+ - All tests must be run for every build
 
-
+ - Build is only accepted when the tests sucessfully run
 
 Regenerate response
 ## The Extreme Programming Release Cycle
+##### Step 1 Identify The Stakeholders
+
+
 
 ## XP and Agile Principles
 
