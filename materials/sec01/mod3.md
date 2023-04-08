@@ -266,7 +266,7 @@ One of the key tenets of Agile Manifesto is to respect work-life balance for tea
 Key Practice #6 – Test Driven Development (TDD)
 Test Driven Development(TDD) is a specific practice of Test First that is commonly associated with Extreme Programming (XP).  XP states that unit tests must be written prior to code, which is a practice that many organizations are not accustomed to. TDD enhances code quality because it requires a test to be written which means that code will always pass the test before it is submitted and integrated with the work from other members of the team.
 
-<br><img src=https://creately.com/static/assets/landing-3/hero-images/user-story-mapping-tool.webp width="600px"></br>
+<br><img src=https://cdn-images.visual-paradigm.com/guide/agile/what-is-user-story/07-three-level-user-story-map.png width="600px"></br>
 
 ## 1: User Stories for Specification
 A user story is a short, simple description of a feature or functionality of a software system that is written from the perspective of an end-user or customer. User stories are used in Agile software development methodologies to capture the requirements of the system and guide the development process.
