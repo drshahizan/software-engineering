@@ -198,9 +198,24 @@ IV. Refactoring:
  XP encourages frequent refactoring of the codebase to keep it clean and maintainable. This ensures that the code remains easy to work with and reduces the likelihood of introducing bugs into the codebase.
 
 Overall, the development step in the XP release cycle is focused on producing high-quality code that meets the needs of the customer while ensuring that the code remains easy to work with and maintainable.
- 
+
+<br><img src=https://www.altexsoft.com/media/2018/02/XP-values-and-principles.png width="600px"></br>
 ## XP and Agile Principles
- 
+ XP is based on a set of principles that align with the Agile Manifesto, which was created in 2001 as a way to promote agility and flexibility in software development.
+
+Here are some of the key principles of XP and how they relate to the Agile Manifesto:
+
+1. Communication: XP places a strong emphasis on communication between developers, stakeholders, and customers. This aligns with the Agile Manifesto's principle of "Individuals and interactions over processes and tools."
+
+2. Simplicity: XP promotes simplicity in software design and development, with the goal of delivering the most valuable software with the least amount of complexity. This aligns with the Agile Manifesto's principle of "Simplicity--the art of maximizing the amount of work not done--is essential."
+
+3. Feedback: XP emphasizes the importance of frequent feedback from stakeholders, customers, and end-users. This aligns with the Agile Manifesto's principle of "Working software is the primary measure of progress."
+
+4. Respect: XP encourages respect for everyone involved in the software development process, including developers, stakeholders, and customers. This aligns with the Agile Manifesto's principle of "Respect for people and continuous improvement."
+
+5. Courage: XP promotes courage in the face of uncertainty and encourages developers to take risks and experiment. This aligns with the Agile Manifesto's principle of "Responding to change over following a plan."
+
+6. Iteration: XP emphasizes delivering software in small, frequent iterations rather than in one large release. This aligns with the Agile Manifesto's principle of "Delivering working software frequently, with a preference to the shorter timescale."
 
 ## Influential XP Practices
 
