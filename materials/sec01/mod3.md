@@ -12,9 +12,9 @@ Don't forget to hit the :star: if you like this repo.
 Module 3: Agile Software Development
 Group: Curiosity
 1. Camily Tang Jia Lei, A22EC0039
-2. Low Ying xi, A22EC
+2. Low Ying xi, A22EC0187
 3. Ng Shu Yu, A22EC
-4. Tan Jun Yuan, A22EC
+
 -->
 
 
