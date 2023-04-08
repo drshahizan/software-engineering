@@ -93,6 +93,19 @@ Agile methodology is a project management approach that emphasizes rapid develop
 3. **Agile development:** Agile development techniques, such as Scrum and Kanban, are often used to implement agile methodology in software development. With GitHub, teams can use these techniques to manage and complete complex projects by organizing work into sprints, creating backlogs and prioritizing tasks, and visualizing work in progress using project boards and dashboards.
 
 ## Agile Development
+Agile development is a methodology that emphasizes iterative and incremental development, collaboration, and flexibility. Some key characteristics of agile development that aligns include:
+
+1. **Interleaved development:** Agile development often involves interleaved development, where multiple features or components of a project are developed and tested concurrently. This approach helps to reduce overall development time and can allow for more efficient use of resources.
+
+2. **Series of versions:** Agile development typically involves the creation of a series of versions, with each version representing a subset of the overall project requirements. These versions are often released on a regular basis, with each release incorporating feedback and improvements from previous versions.
+
+3. **Frequent delivery:** Agile development places a strong emphasis on frequent delivery of working software. This helps to ensure that the project stays on track and meets customer needs, while also allowing for feedback and improvements throughout the development process.
+
+4. **Extensive toolset:** Agile development often involves the use of an extensive toolset to help manage the development process. This can include project management software, collaboration platforms, automated testing and deployment tools, and more.
+
+5. **Minimal documentation:** Agile development places a greater emphasis on working software than on comprehensive documentation. While some documentation may be necessary, the focus is on delivering working software and incorporating feedback and improvements as quickly as possible.
+
+All in all, the agile development methodology emphasizes flexibility, collaboration, and rapid delivery of working software. By using interleaved development, creating a series of versions, delivering software frequently, using an extensive toolset, and minimizing documentation, agile development can help teams to be more productive, efficient, and responsive to changing requirements and customer needs.
 
 ## Plan-Driven and Agile Development
 
