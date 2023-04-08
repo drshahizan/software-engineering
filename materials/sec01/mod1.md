@@ -94,6 +94,52 @@ Software engineering costs can be significant, and it's essential to estimate an
 
 <br><img src="https://cdn-icons-png.flaticon.com/512/5329/5329260.png" width="500px"><br>  
 
+## Software Engineering in Software Development
+
+In software development, software engineers use software engineering principles to create high-quality software systems that meet the requirements of end-users. The software development process includes requirements analysis, design, implementation, testing, and maintenance.
+
+Software engineering is a field in which technical principles and practices are applied to the design, development, testing, deployment, and maintenance of software systems. It is a systematic approach to software development that uses formal methods, processes, and tools to ensure that software systems are reliable, efficient, and maintainable.
+
+Software engineering also involves the use of quality assurance processes to ensure that the software is developed to a high standard. These processes may include testing, code reviews, and documentation. Software engineering also includes project management and collaboration, as software development is usually a team effort involving multiple developers and stakeholders.
+
+Overall, software engineering provides a structured and disciplined approach to software development that helps ensure that software systems are developed to high standards and meet end-user requirements.
+
+<br><img src="https://miro.medium.com/v2/resize:fit:500/1*tGKCSfTfV8E8t4atqrLE4A.png" width="600px"><br>  
+
+## Software Engineering Definition
+
+Software engineering is a discipline that involves the application of engineering principles, methods, and techniques to the design, development, testing, deployment, and maintenance of software systems. It is a structured and systematic approach to software development that aims to ensure the reliability, efficiency, and maintainability of software systems.
+
+Software engineering involves a range of activities, including requirements gathering, design, coding, testing, and documentation. It also involves the use of various tools and techniques to manage the software development process, including project management tools, version control systems, and automated testing tools.
+
+The goal of software engineering is to create high-quality software systems that meet the needs of end-users, are reliable and efficient, and can be maintained and updated easily. Software engineering is a collaborative discipline that involves software engineers, project managers, quality assurance specialists, and other stakeholders in the software development process.
+
+Overall, software engineering is a vital discipline that underpins the development of the software systems that are used in many areas of modern life, from business and finance to healthcare and entertainment.
+
+<br><img src="https://www.computerhope.com/jargon/s/software-engineering.jpg" width="600px"><br>  
+
+## Software Engineering as a Layered Technology
+
+- Quality Focus: Quality orientation is an important aspect of software engineering that focuses on the quality of the software system throughout the development process. This means that software engineers must focus on continuously improving the development process and ensuring that the final product meets the required quality standards. A quality orientation requires the use of various quality assurance processes and techniques, such as code reviews, testing and documentation.
+ 
+- Process: Process is the foundation of software engineering and provides a framework for the streamlined and timely development of computer software. A well-defined and structured process enables software engineers to manage the complexity of software development and ensure that the software system is developed on time and within budget. The process includes various phases, such as requirements analysis, design, implementation, testing, deployment, and maintenance.
+
+- Methods: Methods provide technical guidelines and guidance for building software. They encompass various tasks, including requirements analysis, design, program development, testing, and support. Methods also include modeling activities, such as creating diagrams and other representations of the software system. By following well-defined methods, software engineers can ensure that the software system is developed in a structured and systematic manner.
+
+- Tools: Tools provide automatic or semi-automatic support for the software development process and methods. They help automate repetitive tasks, provide support for testing and debugging, and improve collaboration between software development teams. Tools include integrated development environments (IDEs), version control systems, testing frameworks and other utilities for software development. 
+
+In summary, quality focus, process, methods, and tools are essential components of software engineering that work together to ensure the development of high-quality software systems that meet the needs of end-users.
+
+<br><img src="https://kuliahso.files.wordpress.com/2012/03/software-layers.png" width="600px"><br>
+
+
+
+
+
+
+
+
+
 
 
 
