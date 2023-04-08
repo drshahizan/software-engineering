@@ -24,7 +24,7 @@ Don't forget to hit the :star: if you like this repo.
 
 1. This task must be done in groups (**4** people per group).
 2. Please make a **new group**. Group members cannot be the same as Proposal task group members.
-3. Please enter the group member's name into **Google Sheets** [Section 01]() or [Section 02](https://docs.google.com/spreadsheets/d/1CXVsz0EJqPTc0nS7GggXjWV8f3SXR0l_kG_dLg1IO5M/edit?usp=sharing).
+3. Please enter the group member's name into **Google Sheets** [Section 01](https://docs.google.com/spreadsheets/d/1iVamYLFglM-v4twd29Qi4-z1N5RqPQ5FpucFI0Qv-wI/edit?usp=sharing) or [Section 02](https://docs.google.com/spreadsheets/d/1CXVsz0EJqPTc0nS7GggXjWV8f3SXR0l_kG_dLg1IO5M/edit?usp=sharing).
 4. Provide your contact information in the HTML `<head>`.
 ```html
 <!--
