@@ -124,11 +124,53 @@ All in all, the agile development methodology emphasizes flexibility, collaborat
 
 # AGILE DEVELOPMENT TECHNIQUES
 ## Agile Development Techniques
-
+Agile development is often implemented through various frameworks or methodologies such as Scrum, Kanban, Lean, and Extreme Programming (XP). Each methodology has its unique approach to implementing agile principles, but they all share the same values and principles. 
 ## XP(Extreme Programming)
+Extreme Programming (XP) is an Agile methodology that focuses on continuous feedback, continuous testing, and continuous delivery. XP was developed in the 1990s as a response to the traditional "waterfall" software development process. The XP methodology is based on a set of practices that are intended to increase software quality and reduce the time it takes to deliver working software. Here are the key practices of XP:
 
+- Pair Programming: Two developers work together on a single computer, continuously reviewing each other's code and providing feedback.
+
+- Test-Driven Development (TDD): Developers write automated tests before writing code to ensure that the code is working as intended.
+
+- Continuous Integration: Developers integrate their code changes frequently, usually several times a day, to detect issues early and ensure that the code is working together.
+
+- Refactoring: Developers improve the code continuously, making it easier to understand, maintain, and modify.
+
+- Simple Design: The focus is on keeping the design simple, avoiding unnecessary complexity.
+
+- Coding Standards: The team agrees on a set of coding standards to ensure consistency and maintainability of the codebase.
+
+- Planning Game: A collaborative approach to planning where the development team and the customer work together to prioritize and estimate the work to be done.
+
+The XP methodology places a strong emphasis on teamwork, communication, and feedback, enabling teams to deliver high-quality software quickly and efficiently. By prioritizing customer needs, continuous testing, and continuous delivery, XP helps to ensure that the product is always aligned with customer expectations.
+ 
+ Example of Extreme Approuch to Iterative Development
+ - New Versions may be built several times per day
+ 
+ - Increments are delivered to customers every 2 weeks
+ 
+ - All tests must be run for every build
+
+ - Build is only accepted when the tests sucessfully run
+
+Regenerate response
+<br><img src=https://i.imgur.com/mUZHPws.png width="600px"></br>
 ## The Extreme Programming Release Cycle
 
+##### Step 1 User Story Selection
+1. Identify the Stakeholders
+The first step in choosing user stories is to identify the stakeholders who will be impacted by the software. Stakeholders can include end-users, customers, managers, and other stakeholders who have an interest in the software.
+
+2. Brainstorm User Stories
+Once the stakeholders have been identified, the development team should brainstorm user stories that capture the stakeholders' requirements. User stories should be written in a simple, non-technical language and should describe the desired outcome or value to the user.
+
+3. Prioritize User Stories
+Once the user stories have been identified, the team should prioritize them based on the customer's needs and the value they provide. Prioritization can be done collaboratively with the customer and the development team.
+
+4. Estimate User Stories
+After prioritization, the team should estimate the effort required to complete each user story. This can be done using story points or another relative estimation technique. Estimation should be done collaboratively with the development team and should take into account the team's capacity and expertise.
+
+#####Step 2
 ## XP and Agile Principles
 
 ## Influential XP Practices
