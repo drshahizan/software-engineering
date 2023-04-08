@@ -92,7 +92,7 @@ Software engineering costs refer to the expenses incurred during the development
 Software engineering costs can be significant, and it's essential to estimate and manage them effectively to ensure that the software is developed within the allocated budget and timeframe. By carefully considering all the costs associated with software engineering, development teams can make informed decisions about resource allocation, and ensure that the software is built efficiently and effectively.
 
 
-<br><img src="https://cdn-icons-png.flaticon.com/512/5329/5329260.png" width="600px"><br>  
+<br><img src="https://cdn-icons-png.flaticon.com/512/5329/5329260.png" width="500px"><br>  
 
 
 
