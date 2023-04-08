@@ -118,6 +118,19 @@ Overall, software engineering is a vital discipline that underpins the developme
 
 <br><img src="https://www.computerhope.com/jargon/s/software-engineering.jpg" width="600px"><br>  
 
+## Software Engineering as a Layered Technology
+
+- Quality Focus: Quality orientation is an important aspect of software engineering that focuses on the quality of the software system throughout the development process. This means that software engineers must focus on continuously improving the development process and ensuring that the final product meets the required quality standards. A quality orientation requires the use of various quality assurance processes and techniques, such as code reviews, testing and documentation.
+ 
+- Process: Process is the foundation of software engineering and provides a framework for the streamlined and timely development of computer software. A well-defined and structured process enables software engineers to manage the complexity of software development and ensure that the software system is developed on time and within budget. The process includes various phases, such as requirements analysis, design, implementation, testing, deployment, and maintenance.
+
+- Methods: Methods provide technical guidelines and guidance for building software. They encompass various tasks, including requirements analysis, design, program development, testing, and support. Methods also include modeling activities, such as creating diagrams and other representations of the software system. By following well-defined methods, software engineers can ensure that the software system is developed in a structured and systematic manner.
+
+- Tools: Tools provide automatic or semi-automatic support for the software development process and methods. They help automate repetitive tasks, provide support for testing and debugging, and improve collaboration between software development teams. Tools include integrated development environments (IDEs), version control systems, testing frameworks and other utilities for software development. 
+
+In summary, quality focus, process, methods, and tools are essential components of software engineering that work together to ensure the development of high-quality software systems that meet the needs of end-users.
+
+<br><img src="https://kuliahso.files.wordpress.com/2012/03/software-layers.png" width="600px"><br>
 
 
 
