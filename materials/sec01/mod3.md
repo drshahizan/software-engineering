@@ -12,9 +12,9 @@ Don't forget to hit the :star: if you like this repo.
 Module 3: Agile Software Development
 Group: Curiosity
 1. Camily Tang Jia Lei, A22EC0039
-2. Low Ying xi, A22EC
+2. Low Ying xi, A22EC0187
 3. Ng Shu Yu, A22EC
-4. Tan Jun Yuan, A22EC
+
 -->
 
 
@@ -124,12 +124,83 @@ All in all, the agile development methodology emphasizes flexibility, collaborat
 
 # AGILE DEVELOPMENT TECHNIQUES
 ## Agile Development Techniques
-
+Agile development is often implemented through various frameworks or methodologies such as Scrum, Kanban, Lean, and Extreme Programming (XP). Each methodology has its unique approach to implementing agile principles, but they all share the same values and principles. 
 ## XP(Extreme Programming)
+Extreme Programming (XP) is an Agile methodology that focuses on continuous feedback, continuous testing, and continuous delivery. XP was developed in the 1990s as a response to the traditional "waterfall" software development process. The XP methodology is based on a set of practices that are intended to increase software quality and reduce the time it takes to deliver working software. Here are the key practices of XP:
 
+- Pair Programming: Two developers work together on a single computer, continuously reviewing each other's code and providing feedback.
+
+- Test-Driven Development (TDD): Developers write automated tests before writing code to ensure that the code is working as intended.
+
+- Continuous Integration: Developers integrate their code changes frequently, usually several times a day, to detect issues early and ensure that the code is working together.
+
+- Refactoring: Developers improve the code continuously, making it easier to understand, maintain, and modify.
+
+- Simple Design: The focus is on keeping the design simple, avoiding unnecessary complexity.
+
+- Coding Standards: The team agrees on a set of coding standards to ensure consistency and maintainability of the codebase.
+
+- Planning Game: A collaborative approach to planning where the development team and the customer work together to prioritize and estimate the work to be done.
+
+The XP methodology places a strong emphasis on teamwork, communication, and feedback, enabling teams to deliver high-quality software quickly and efficiently. By prioritizing customer needs, continuous testing, and continuous delivery, XP helps to ensure that the product is always aligned with customer expectations.
+ 
+ Example of Extreme Approuch to Iterative Development
+ - New Versions may be built several times per day
+ 
+ - Increments are delivered to customers every 2 weeks
+ 
+ - All tests must be run for every build
+
+ - Build is only accepted when the tests sucessfully run
+
+<br><img src=https://i.imgur.com/mUZHPws.png width="600px"></br>
 ## The Extreme Programming Release Cycle
 
+#### <b>Step 1 User Story Selection<b>
+1. Identify the Stakeholders
+The first step in choosing user stories is to identify the stakeholders who will be impacted by the software. Stakeholders can include end-users, customers, managers, and other stakeholders who have an interest in the software.
+
+2. Brainstorm User Stories
+Once the stakeholders have been identified, the development team should brainstorm user stories that capture the stakeholders' requirements. User stories should be written in a simple, non-technical language and should describe the desired outcome or value to the user.
+
+3. Prioritize User Stories
+Once the user stories have been identified, the team should prioritize them based on the customer's needs and the value they provide. Prioritization can be done collaboratively with the customer and the development team.
+
+4. Estimate User Stories
+After prioritization, the team should estimate the effort required to complete each user story. This can be done using story points or another relative estimation technique. Estimation should be done collaboratively with the development team and should take into account the team's capacity and expertise.
+
+ #### <b>Step 2 Break Down Stories to Tasks</b>
+1. Break Down User Stories
+User stories should be broken down into smaller, manageable tasks that can be completed in a single iteration. Breaking down user stories helps to identify any dependencies or technical challenges and ensures that the work is manageable for the team.
+
+2. Validate user stories
+Once the user stories have been prioritized, estimated, and broken down, the team should validate them with the customer. This ensures that the user stories capture the customer's requirements and that the priorities and estimates are aligned with the customer's needs.
+
+ 
+<br><img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQYbO8DxznMYSImk9kQe2-mPANn2w9yvAIA&usqp=CAU width="600px"></br>
+ #### <b>Step 3 Plan Release</b>
+ After all the steps above are completed, the team need to create a release plan based on the priority and dependencies of the stories.
+ 
+ <br><img src=https://www.aihr.com/wp-content/uploads/Learning-and-development-manager.png width="600px"></br>
+ ####<b>Step 4 Development</b>
+ In the development step of the Extreme Programming (XP) release cycle, the actual coding of the software takes place. This step is crucial as it involves turning the requirements and user stories into functional code. The development process in XP is characterized by several practices that are designed to ensure high-quality code that meets the needs of the customer. Some of these practices include:
+
+I. Pair programming:
+ In XP, developers work in pairs on the same code. This practice ensures that the code is reviewed as it is being written, reducing the likelihood of errors and improving the quality of the code.
+
+II. Continuous integration: 
+ XP emphasizes frequent integration of code changes into the main codebase. This ensures that code is tested and integrated early, reducing the risk of problems being discovered later in the development process.
+
+III. Test-driven development: 
+ XP follows a test-driven development approach, where developers write automated tests for their code before writing the code itself. This ensures that the code meets the requirements and reduces the likelihood of introducing bugs into the codebase.
+
+IV. Refactoring:
+ XP encourages frequent refactoring of the codebase to keep it clean and maintainable. This ensures that the code remains easy to work with and reduces the likelihood of introducing bugs into the codebase.
+
+Overall, the development step in the XP release cycle is focused on producing high-quality code that meets the needs of the customer while ensuring that the code remains easy to work with and maintainable.
+ 
 ## XP and Agile Principles
+ 
 
 ## Influential XP Practices
 
