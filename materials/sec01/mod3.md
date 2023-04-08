@@ -225,9 +225,30 @@ T**echnical excellence:** The Agile Manifesto values technical excellence, which
 Overall, the Agile Manifesto provides a set of guiding principles for Agile development that prioritize customer satisfaction, collaboration, flexibility, and continuous improvement. By following these principles, development teams can deliver high-quality software that meets customer needs and adapts to changing requirements over time.
 
 ## The Principles of Agile Methods
+**Customer involvement:** Agile development places a strong emphasis on customer involvement throughout the development process. This means that customers are involved in the planning, design, and testing phases of the project, and their feedback is taken into account to ensure that the final product meets their needs. By involving customers early and often, development teams can reduce the risk of building a product that doesn't meet the customer's expectations and ensure that the final product is aligned with customer needs.
+
+**Incremental delivery:** Agile development emphasizes incremental delivery, which means that the software is delivered in small, working increments rather than as a single, large release. This approach enables teams to get feedback from customers and stakeholders early and often, which can help identify issues and opportunities for improvement. Incremental delivery also helps reduce risk by allowing teams to test and validate each increment before moving on to the next.
+
+**People not process:** Agile development places a strong emphasis on people over processes. This means that development teams are given the autonomy and flexibility to make decisions and adapt to changing requirements, rather than being constrained by rigid processes and procedures. This approach encourages creativity, innovation, and collaboration, and allows development teams to be more responsive and agile in their approach.
+
+**Embrace change:** Agile development embraces change and prioritizes the ability to adapt to changing requirements and circumstances. This means that development teams should be prepared to make changes to the project scope, timeline, and requirements as needed to ensure that the final product meets customer needs. By embracing change, development teams can reduce the risk of building a product that is obsolete or no longer meets customer needs.
+
+**Maintain simplicity:** Agile development prioritizes simplicity and avoids unnecessary complexity. This means that development teams should focus on building the simplest solution that meets the customer's needs, rather than adding unnecessary features or functionality. By maintaining simplicity, development teams can reduce the risk of building a product that is difficult to use or maintain, and ensure that the final product is aligned with the customer's needs.
 
 ## Agile Methods Applicability
+Agile methods are highly applicable to software development projects where requirements are complex and continuously evolving. However, the applicability of Agile methods is not limited to software development and can be used in a variety of contexts where there is a need for flexibility, collaboration, and rapid iteration. Some of the contexts where Agile methods are highly applicable include:
 
+**Dynamic and changing environments:** Agile methods are highly applicable in dynamic and changing environments where requirements are continuously evolving. These methods are well-suited for projects where there is a high level of uncertainty, and the project scope is likely to change frequently.
+
+**Small to medium-sized teams:** Agile methods are highly applicable to small to medium-sized teams where communication and collaboration are essential. These methods are well-suited for teams that work closely together and have a high level of interaction.
+
+**Customer-facing projects:** Agile methods are highly applicable to customer-facing projects where customer involvement is critical to the success of the project. These methods are well-suited for projects where there is a need to quickly deliver working software to the customer to get feedback and incorporate changes.
+
+**Innovative projects:** Agile methods are highly applicable to innovative projects where there is a need to experiment, explore new ideas, and quickly iterate. These methods are well-suited for projects where there is a high level of creativity and innovation.
+
+**Cross-functional teams:** Agile methods are highly applicable to cross-functional teams where there is a need for collaboration between different departments or areas of expertise. These methods are well-suited for projects that require input from multiple stakeholders and teams.
+
+In summary, Agile methods are highly applicable in projects that require flexibility, collaboration, and rapid iteration, and where requirements are continuously evolving. These methods can be used in a variety of contexts beyond software development, and their applicability will depend on the specific project requirements and characteristics.
 
 # AGILE DEVELOPMENT TECHNIQUES
 ## Agile Development Techniques
