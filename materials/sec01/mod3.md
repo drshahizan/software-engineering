@@ -73,9 +73,15 @@ Group: Curiosity
 - [Agile and Waterfall: AgiFall](#Agile-and-Waterfall-Agifall)
 - [Agile-Waterfall Hybrid](#Agile-Waterfall-Hybrid)
 
-### AGILE METHODS
-
+# AGILE METHODS
 ## Introduction
+Agile methodology is a project management approach that was introduced in 2001 as an alternative to traditional, rigid project management approaches like the waterfall model. Unlike the waterfall model, which follows a sequential, linear approach to software development, agile methodology is an iterative and incremental approach that emphasizes flexibility, collaboration, and customer satisfaction.
+
+The main difference between agile and the waterfall model is that the waterfall model follows a sequential process where each phase must be completed before the next can begin. This approach can lead to delays and difficulty adapting to changes in customer needs or market conditions. In contrast, agile methodology focuses on delivering a working product in short development cycles, with frequent releases and continuous improvement. This approach allows for greater flexibility and the ability to respond quickly to changing requirements.
+
+Agile methodology is based on the Agile Manifesto, which outlines the values and principles of the approach. The manifesto emphasizes the importance of individuals and interactions, working software, customer collaboration, and responding to change. Agile methodology encourages cross-functional teams to work together and collaborate with stakeholders to deliver a high-quality product that meets customer needs.
+
+Overall, agile methodology offers a more flexible and adaptable approach to project management and software development than traditional waterfall models. By emphasizing collaboration, customer satisfaction, and continuous improvement, agile methodology can help teams deliver better products in less time while also fostering a more collaborative and engaged work environment.
 
 ## Rapid Software Development
 
@@ -96,8 +102,7 @@ Group: Curiosity
 ## Agile Methods Applicability
 
 
-### AGILE DEVELOPMENT TECHNIQUES
-
+# AGILE DEVELOPMENT TECHNIQUES
 ## Agile Development Techniques
 
 ## XP(Extreme Programming)
@@ -117,7 +122,7 @@ Group: Curiosity
 ## 4: Pair Programming
 
 
-### AGILE PROJECT MANAGEMENT
+# AGILE PROJECT MANAGEMENT
 ## Agile Project Management
 
 ## Scrum
@@ -143,7 +148,7 @@ Group: Curiosity
 ## Agile DevOps
 
 
-### SCALING AGILE METHODS
+# SCALING AGILE METHODS
 ## Scaling Agile Methods
 
 ## Practical Problems with Agile Methods
