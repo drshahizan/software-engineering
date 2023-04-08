@@ -37,7 +37,7 @@ Group: Curiosity
 
 #### AGILE DEVELOPMENT TECHNIQUES
 - [Agile Development Techniques](#Agile-Development-Techniques)
-- [XP(Extreme Programming)](#XP)
+- [XP(Extreme Programming)](#XP(Extreme-Programming))
 - [The Extreme Programming Release Cycle](#The-Extreme-Programming-Release-Cycle)
 - [XP and Agile Principles](#XP-and-Agile-Principles)
 - [Influential XP Practices](#Influential-XP=Practices)
