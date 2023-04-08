@@ -71,7 +71,7 @@ The Software will be reliable if software engineering, testing, and maintenance 
 In conclusion,software engineering is important for reduces complexity, handling big projects, minimize software costs, decrease time, effectiveness,  reliable software and collaboration in the development of software systems.
 
 
-<br><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS02524qB_d6wnlMqjbzR5xIsO3THFBwBi_cg&usqp=CAU" width=600px"><br>
+<br><img src="https://miro.medium.com/max/875/0*GD_XmCiR-l1cPrzh" width="600px"><br>  
 
 
 
