@@ -22,9 +22,9 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Instruction
 
-1. This task must be done in groups (4 people per group).
-2. Please make a new group. Group members cannot be the same as Proposal task group members.
-3. Please enter the group member's name into Google Sheets.
+1. This task must be done in groups (**4** people per group).
+2. Please make a **new group**. Group members cannot be the same as Proposal task group members.
+3. Please enter the group member's name into **Google Sheets** []() or []().
 4. Provide your contact information in the HTML `<head>`.
 ```html
 <!--
