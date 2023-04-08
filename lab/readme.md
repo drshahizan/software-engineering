@@ -24,16 +24,17 @@ Don't forget to hit the :star: if you like this repo.
 | 9 | HTML | Form |<a href="https://github.com/drshahizan/software-engineering/tree/main/lab/html/lab9" ><img src="../images/folder_info.png" width="24px" height="24px" ></a> |
 | 10 | HTML | Form |<a href="https://github.com/drshahizan/software-engineering/tree/main/lab/html/lab10" ><img src="../images/folder_info.png" width="24px" height="24px" ></a> |
 
+
 ## Cascading Style Sheets (CSS)
 
 | Lab | Topic | Title | Files |
 | -----: | ----- | ----- | :------: | 
-| 1 | CSS | CSS |<a href="" ><img src="../images/folder_info.png" width="24px" height="24px" ></a> |
-| 2 | CSS | Text and Box Model |<a href="" ><img src="../images/folder_info.png" width="24px" height="24px"></a>|
-| 3 | CSS | Layout (Mock & Style) |<a href="" ><img src="../images/folder_info.png" width="24px" height="24px" ></a> |
-| 4 | CSS | CSS Layout |<a href="" ><img src="../images/folder_info.png" width="24px" height="24px" ></a> |
-| 5 | CSS | Website Layout |<a href="" ><img src="../images/folder_info.png" width="24px" height="24px" ></a> |
-| 6 | CSS | Form Layout |<a href="" ><img src="../images/folder_info.png" width="24px" height="24px" ></a> |
+| 11 | CSS | HTML Text Appearance |<a href="https://github.com/drshahizan/learn-php/tree/main/lab/css/lab11" ><img src="../images/folder_info.png" width="24px" height="24px" ></a> |
+| 12 | CSS | Text and Box Model |<a href="https://github.com/drshahizan/learn-php/tree/main/lab/css/lab12" ><img src="../images/folder_info.png" width="24px" height="24px"></a>|
+| 13 | CSS | Layout (Mock & Style) |<a href="https://github.com/drshahizan/learn-php/tree/main/lab/css/lab13" ><img src="../images/folder_info.png" width="24px" height="24px" ></a> |
+| 14 | CSS | Website Layout |<a href="https://github.com/drshahizan/learn-php/tree/main/lab/css/lab14" ><img src="../images/folder_info.png" width="24px" height="24px" ></a> |
+| 15 | CSS | Layout |<a href="https://github.com/drshahizan/learn-php/tree/main/lab/css/lab15" ><img src="../images/folder_info.png" width="24px" height="24px" ></a> |
+| 16 | CSS | Form Layout |<a href="https://github.com/drshahizan/learn-php/tree/main/lab/css/lab16" ><img src="../images/folder_info.png" width="24px" height="24px" ></a> |
 
 ## JavaScript
 
