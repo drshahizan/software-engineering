@@ -73,6 +73,30 @@ In conclusion,software engineering is important for reduces complexity, handling
 
 <br><img src="https://miro.medium.com/max/875/0*GD_XmCiR-l1cPrzh" width="600px"><br>  
 
+## Software Engineering Costs
+
+Software engineering costs refer to the expenses incurred during the development, maintenance, and deployment of software.Software engineering costs can be categorized into several types, including:
+
+- Development costs: These include the costs associated with creating the software, such as salaries of the development team, tools, hardware, and software licenses.
+
+- Maintenance costs: These include the costs of fixing bugs, adding new features, and ensuring that the software remains up to date with changes in the operating system or other dependencies.
+
+- Testing costs: These include the costs of testing the software to ensure that it is functioning as intended and is free from bugs or errors.
+
+- Deployment costs: These include the costs associated with deploying the software to the production environment, such as server costs, deployment tools, and user training.
+
+- Support costs: These include the costs of providing customer support and responding to user inquiries or issues.
+
+- Upgrading costs: These include the costs of upgrading the software to a newer version or technology, such as migrating from an on-premise system to a cloud-based one.
+
+Software engineering costs can be significant, and it's essential to estimate and manage them effectively to ensure that the software is developed within the allocated budget and timeframe. By carefully considering all the costs associated with software engineering, development teams can make informed decisions about resource allocation, and ensure that the software is built efficiently and effectively.
+
+
+<br><img src="https://cdn-icons-png.flaticon.com/512/5329/5329260.png" width="500px"><br>  
+
+
+
+
 
 
 ## Contribution 🛠️
