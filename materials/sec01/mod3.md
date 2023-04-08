@@ -108,19 +108,147 @@ Agile development is a methodology that emphasizes iterative and incremental dev
 All in all, the agile development methodology emphasizes flexibility, collaboration, and rapid delivery of working software. By using interleaved development, creating a series of versions, delivering software frequently, using an extensive toolset, and minimizing documentation, agile development can help teams to be more productive, efficient, and responsive to changing requirements and customer needs.
 
 ## Plan-Driven and Agile Development
+### Plan-Driven Development
+**Plan-driven development:** Also known as the Waterfall model, it is a software development methodology that follows a sequential approach to building software products. In this methodology, the development process is divided into a series of distinct phases, and each phase must be completed before the next one begins.
+
+**Separate development stages:** The phases in the plan-driven development model typically include requirements gathering, design, implementation, testing, and maintenance. This approach requires extensive planning and documentation before development begins, with a detailed project plan that includes project scope, schedule, and budget.
+
+**Iteration:** To address the inflexibility of the plan-driven approach, some organizations have adopted an iterative approach, where each phase is broken down into smaller iterations. This allows for more frequent feedback and the ability to make changes based on that feedback. However, even with an iterative approach, the plan-driven model is still characterized by a linear, sequential development process.
+
+**Advantages and disadvantages:** The plan-driven approach is suitable for large, complex projects with well-defined requirements. However, it can be inflexible in the face of changing requirements, and changes made later in the development process can lead to delays and increased costs.
+
+**Example:** An example of plan-driven development is the software development process used by NASA for space missions, where a detailed plan is necessary to ensure the success of the mission.
+
+### Agile Development
+**Agile development:** Agile is a software development methodology that emphasizes flexibility, collaboration, and continuous improvement. This approach is characterized by short development cycles, frequent feedback, and the ability to adapt to changing requirements.
+
+**Separate development stages:** Agile development involves breaking down the development process into smaller, more manageable pieces that can be completed in a short amount of time. These pieces, called iterations or sprints, typically last between 1-4 weeks and include requirements gathering, design, implementation, testing, and deployment.
+
+**Inter-leaved:** In Agile development, different development stages can be inter-leaved or performed simultaneously within an iteration, allowing for quick feedback and the ability to make changes based on that feedback. This approach allows for a more flexible and adaptable development process, which can lead to faster delivery of working software.
+
+**Advantages and disadvantages:** Agile development is suitable for projects with rapidly changing requirements or uncertain scope, where flexibility and adaptability are more important than a detailed plan. However, Agile development can be more challenging to manage for large, complex projects, and the need for continuous feedback and collaboration can lead to communication and coordination challenges.
+
+**Example:** An example of Agile development is the development process used by a software development team building a mobile app. The team breaks down the development process into short sprints, each focusing on a specific feature or functionality. Within each sprint, the team inter-leaves development stages, allowing for quick feedback and the ability to make changes based on that feedback.
 
 ## Balance of Plan-Driven or Agile Development
+When deciding whether to use agile in a project, there are several factors to consider. These factors include criticality, personnel, dynamism, size, and culture.
+
+**Criticality:** The criticality of the project refers to how important the project is to the organization. If the project is mission-critical, with high stakes and no margin for error, a more plan-driven approach may be necessary to ensure that all requirements are met and risks are mitigated. However, if the project is less critical, an agile approach may be more suitable, as it can allow for flexibility and adaptability.
+
+**Personnel:** The personnel involved in the project also play a role in determining whether agile is appropriate. Agile development requires a highly collaborative and cross-functional team with strong communication skills. If the team is capable of working in an agile environment, it may be the best approach. However, if the team lacks the necessary skills or experience, a more plan-driven approach may be necessary.
+
+**Dynamism:** The level of dynamism in the project refers to how quickly requirements and priorities are likely to change. If the project requirements are highly dynamic and subject to change, an agile approach may be more suitable, as it allows for continuous feedback and adaptation. However, if the requirements are relatively stable, a more plan-driven approach may be more appropriate.
+
+**Size:** The size of the project also plays a role in determining whether to use agile. Small projects with a limited scope may benefit from an agile approach, as it allows for faster delivery of working software. However, larger projects with many interdependent parts may require a more plan-driven approach to ensure that all requirements are met.
+
+**Culture:** The organizational culture can also influence the decision to use agile. Agile development requires a culture of collaboration, trust, and transparency, where team members are empowered to make decisions and take ownership of their work. If the organizational culture supports these values, agile may be a good fit. However, if the culture is more hierarchical or bureaucratic, a more plan-driven approach may be necessary.
+
+In summary, when deciding whether to use agile in a project, it is important to consider factors such as criticality, personnel, dynamism, size, and culture. Project managers should carefully evaluate these factors to determine whether agile is the right approach for their project.
 
 ## Comparison between Plan-Driven and Agile Development
+### Plan-Driven Development:
+
+**Emphasis on upfront planning and documentation:** Plan-driven development emphasizes thorough planning and documentation before any coding begins. This is because the plan is seen as the blueprint for the entire development process, and the success of the project is measured against how well the team adheres to the plan.
+
+**Strict control over the development process:** In plan-driven development, there is a high degree of control over the development process. This is achieved through detailed planning, monitoring, and tracking of progress against the plan. This approach provides a sense of predictability and stability, which can be reassuring to stakeholders.
+
+**Separate development stages with a focus on completing each stage before moving to the next:** Plan-driven development is typically structured into distinct development stages, such as requirements gathering, design, development, testing, and deployment. The focus is on completing each stage before moving to the next, with minimal overlap between stages.
+
+**Detailed project plan that outlines all requirements and tasks:** In plan-driven development, a detailed project plan is created that outlines all of the requirements and tasks for the entire project. This plan is seen as the roadmap for the entire project, and it provides a clear and defined path for the development team to follow.
+
+**Heavy reliance on formal processes and procedures:** Plan-driven development relies heavily on formal processes and procedures to ensure that the project is completed on time and within budget. These processes and procedures provide a level of structure and consistency to the development process.
+
+**Limited ability to adapt to changing requirements:** Plan-driven development is not well-suited for projects with rapidly changing requirements. Since the plan is seen as the blueprint for the entire development process, changes to the plan can be difficult to accommodate.
+
+**Suitable for large, complex projects with well-defined requirements:** Plan-driven development is best suited for large, complex projects with well-defined requirements. This approach provides a high degree of structure and predictability, which is necessary for these types of projects.
+
+**High documentation and reporting requirements:** Plan-driven development requires a significant amount of documentation and reporting to ensure that the development process is well-documented and transparent.
+
+### Agile Development:
+
+**Emphasis on collaboration and flexibility:** Agile development emphasizes collaboration and flexibility over rigid plans and processes. The focus is on delivering value to the customer through iterative and incremental development.
+
+**Emphasis on self-organizing teams:** In agile development, teams are self-organizing and empowered to make decisions. This approach allows teams to be more responsive to changing requirements and to take ownership of the development process.
+
+**Inter-leaved development with frequent iterations:** Agile development is structured around frequent iterations, where the development team delivers working software at the end of each iteration. This approach allows the team to respond quickly to feedback and changing requirements.
+
+**Iterative planning and incremental delivery of working software:** Agile development uses iterative planning and incremental delivery of working software to ensure that the team is always delivering value to the customer. This approach allows the team to prioritize work based on customer needs and to adapt quickly to changing requirements.
+
+**Emphasis on informal communication and face-to-face interaction:** Agile development places a high value on informal communication and face-to-face interaction. This approach fosters collaboration and ensures that the team is working towards a shared vision.
+
+**Ability to adapt to changing requirements throughout the development process:** Agile development is well-suited for projects with rapidly changing requirements. The iterative approach allows the team to adapt quickly to changing requirements and to deliver value to the customer at each iteration.
+
+**Suitable for small to medium-sized projects with less defined requirements:** Agile development is best suited for small to medium-sized projects with less defined requirements. This approach allows the team to be flexible and to respond quickly to changing requirements, which is often necessary for these types of projects. Additionally, since agile development is focused on delivering value to the customer, it is particularly well-suited for projects where customer feedback is critical.
 
 ## Agile Methods
+**Focus on the code:** Agile development places a strong emphasis on the code itself. The code is seen as the primary artifact of the development process, and the focus is on delivering high-quality, working code that meets customer needs.
+
+**Iterative approach:** Agile development is structured around an iterative approach, where the development team delivers working software at the end of each iteration. This approach allows the team to receive feedback from stakeholders and to make adjustments quickly.
+
+**Delivery of working software quickly:** The iterative approach of Agile development is designed to deliver working software quickly. This allows stakeholders to see progress early and often, and it ensures that the team is delivering value to the customer at each iteration.
+
+**Reduction of overheads:** Agile development methods aim to reduce overheads by focusing on the essentials of software development. This means that unnecessary documentation and processes are minimized, and the focus is on delivering working software quickly.
+
+**Ability to respond quickly:** Agile development methods allow the team to respond quickly to changing requirements and to adapt the development process as needed. This is because the iterative approach provides regular opportunities for feedback and adjustment.
+
+**Emphasis on collaboration and communication:** Agile development methods emphasize collaboration and communication between team members and stakeholders. This ensures that everyone is working towards a shared goal and that the development process is transparent and inclusive.
+
+**Customer involvement:** Agile development methods prioritize customer involvement throughout the development process. This means that the customer is involved in decision-making and feedback is regularly sought to ensure that the software being developed meets their needs.
+
+**Self-organizing teams:** Agile development methods typically involve self-organizing teams, where team members are empowered to make decisions and take ownership of the development process. This approach fosters creativity and innovation, and it allows teams to be more responsive to changing requirements.
+
+**Continuous improvement:** Agile development methods are designed to continuously improve the development process. This is achieved through regular retrospectives, where the team reflects on their performance and identifies areas for improvement.
 
 ## Agile Manifesto
+The Agile Manifesto is a set of guiding values and principles for Agile software development. It was created by a group of software developers in 2001 who were frustrated with the rigid, plan-driven approach to software development that was prevalent at the time. The Agile Manifesto is designed to provide a more flexible, iterative, and collaborative approach to software development that prioritizes customer satisfaction, working software, and continuous improvement. It emphasizes the importance of collaboration, communication, and responding to change, and provides a framework for teams to work together effectively to deliver high-quality software products. The Agile Manifesto has since become widely adopted as a standard for Agile development practices in software development and beyond.
+
+**Customer satisfaction:** The Agile Manifesto places a strong emphasis on customer satisfaction. This means that the needs of the customer should be at the forefront of the development process.
+
+**Responding to change:** The Agile Manifesto values responding to change over following a plan. This means that the development process should be flexible and able to adapt to changing requirements.
+
+**Working software:** The Agile Manifesto prioritizes working software over comprehensive documentation. This means that the focus is on delivering functional software that meets customer needs.
+
+**Collaboration:** The Agile Manifesto values collaboration between team members and stakeholders. This means that everyone involved in the development process should work together to achieve a shared goal.
+
+**Individuals and interactions:** The Agile Manifesto values individuals and interactions over processes and tools. This means that the focus should be on empowering team members and fostering communication and collaboration.
+
+**Responding to change:** The Agile Manifesto values responding to change over following a plan. This means that the development process should be flexible and able to adapt to changing requirements.
+
+**Sustainable development:** The Agile Manifesto values sustainable development, which means that the development process should be able to continue indefinitely without causing burnout or other negative consequences.
+
+**Technical excellence:** The Agile Manifesto values technical excellence, which means that the development process should prioritize high-quality, maintainable code.
+
+**Self-organizing teams:** The Agile Manifesto values self-organizing teams, which means that team members should be empowered to make decisions and take ownership of the development process.
+
+**Regular reflection and adjustment:** The Agile Manifesto values regular reflection and adjustment, which means that the development process should be continuously evaluated and adjusted to improve performance and achieve better outcomes.
+
+Overall, the Agile Manifesto provides a set of guiding principles for Agile development that prioritize customer satisfaction, collaboration, flexibility, and continuous improvement. By following these principles, development teams can deliver high-quality software that meets customer needs and adapts to changing requirements over time.
 
 ## The Principles of Agile Methods
+**Customer involvement:** Agile development places a strong emphasis on customer involvement throughout the development process. This means that customers are involved in the planning, design, and testing phases of the project, and their feedback is taken into account to ensure that the final product meets their needs. By involving customers early and often, development teams can reduce the risk of building a product that doesn't meet the customer's expectations and ensure that the final product is aligned with customer needs.
+
+**Incremental delivery:** Agile development emphasizes incremental delivery, which means that the software is delivered in small, working increments rather than as a single, large release. This approach enables teams to get feedback from customers and stakeholders early and often, which can help identify issues and opportunities for improvement. Incremental delivery also helps reduce risk by allowing teams to test and validate each increment before moving on to the next.
+
+**People not process:** Agile development places a strong emphasis on people over processes. This means that development teams are given the autonomy and flexibility to make decisions and adapt to changing requirements, rather than being constrained by rigid processes and procedures. This approach encourages creativity, innovation, and collaboration, and allows development teams to be more responsive and agile in their approach.
+
+**Embrace change:** Agile development embraces change and prioritizes the ability to adapt to changing requirements and circumstances. This means that development teams should be prepared to make changes to the project scope, timeline, and requirements as needed to ensure that the final product meets customer needs. By embracing change, development teams can reduce the risk of building a product that is obsolete or no longer meets customer needs.
+
+**Maintain simplicity:** Agile development prioritizes simplicity and avoids unnecessary complexity. This means that development teams should focus on building the simplest solution that meets the customer's needs, rather than adding unnecessary features or functionality. By maintaining simplicity, development teams can reduce the risk of building a product that is difficult to use or maintain, and ensure that the final product is aligned with the customer's needs.
 
 ## Agile Methods Applicability
+Agile methods are highly applicable to software development projects where requirements are complex and continuously evolving. However, the applicability of Agile methods is not limited to software development and can be used in a variety of contexts where there is a need for flexibility, collaboration, and rapid iteration. Some of the contexts where Agile methods are highly applicable include:
 
+**Dynamic and changing environments:** Agile methods are highly applicable in dynamic and changing environments where requirements are continuously evolving. These methods are well-suited for projects where there is a high level of uncertainty, and the project scope is likely to change frequently.
+
+**Small to medium-sized teams:** Agile methods are highly applicable to small to medium-sized teams where communication and collaboration are essential. These methods are well-suited for teams that work closely together and have a high level of interaction.
+
+**Customer-facing projects:** Agile methods are highly applicable to customer-facing projects where customer involvement is critical to the success of the project. These methods are well-suited for projects where there is a need to quickly deliver working software to the customer to get feedback and incorporate changes.
+
+**Innovative projects:** Agile methods are highly applicable to innovative projects where there is a need to experiment, explore new ideas, and quickly iterate. These methods are well-suited for projects where there is a high level of creativity and innovation.
+
+**Cross-functional teams:** Agile methods are highly applicable to cross-functional teams where there is a need for collaboration between different departments or areas of expertise. These methods are well-suited for projects that require input from multiple stakeholders and teams.
+
+In summary, Agile methods are highly applicable in projects that require flexibility, collaboration, and rapid iteration, and where requirements are continuously evolving. These methods can be used in a variety of contexts beyond software development, and their applicability will depend on the specific project requirements and characteristics.
 
 # AGILE DEVELOPMENT TECHNIQUES
 ## Agile Development Techniques
@@ -177,7 +305,7 @@ User stories should be broken down into smaller, manageable tasks that can be co
 Once the user stories have been prioritized, estimated, and broken down, the team should validate them with the customer. This ensures that the user stories capture the customer's requirements and that the priorities and estimates are aligned with the customer's needs.
 
  
-<br><img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQYbO8DxznMYSImk9kQe2-mPANn2w9yvAIA&usqp=CAU width="600px"></br>
+<br><img src=https://static.vecteezy.com/system/resources/previews/008/150/839/non_2x/finishing-project-tasks-or-work-done-conclusion-project-management-or-process-plan-concept-smart-businessman-using-pen-to-check-on-project-list-checkbox-marked-as-completed-flat-illustration-vector.jpg width="600px"></br>
  #### <b>Step 3 Plan Release</b>
  After all the steps above are completed, the team need to create a release plan based on the priority and dependencies of the stories.
  
@@ -198,9 +326,24 @@ IV. Refactoring:
  XP encourages frequent refactoring of the codebase to keep it clean and maintainable. This ensures that the code remains easy to work with and reduces the likelihood of introducing bugs into the codebase.
 
 Overall, the development step in the XP release cycle is focused on producing high-quality code that meets the needs of the customer while ensuring that the code remains easy to work with and maintainable.
- 
+
+<br><img src=https://www.altexsoft.com/media/2018/02/XP-values-and-principles.png width="600px"></br>
 ## XP and Agile Principles
- 
+ XP is based on a set of principles that align with the Agile Manifesto, which was created in 2001 as a way to promote agility and flexibility in software development.
+
+Here are some of the key principles of XP and how they relate to the Agile Manifesto:
+
+1. Communication: XP places a strong emphasis on communication between developers, stakeholders, and customers. This aligns with the Agile Manifesto's principle of "Individuals and interactions over processes and tools."
+
+2. Simplicity: XP promotes simplicity in software design and development, with the goal of delivering the most valuable software with the least amount of complexity. This aligns with the Agile Manifesto's principle of "Simplicity--the art of maximizing the amount of work not done--is essential."
+
+3. Feedback: XP emphasizes the importance of frequent feedback from stakeholders, customers, and end-users. This aligns with the Agile Manifesto's principle of "Working software is the primary measure of progress."
+
+4. Respect: XP encourages respect for everyone involved in the software development process, including developers, stakeholders, and customers. This aligns with the Agile Manifesto's principle of "Respect for people and continuous improvement."
+
+5. Courage: XP promotes courage in the face of uncertainty and encourages developers to take risks and experiment. This aligns with the Agile Manifesto's principle of "Responding to change over following a plan."
+
+6. Iteration: XP emphasizes delivering software in small, frequent iterations rather than in one large release. This aligns with the Agile Manifesto's principle of "Delivering working software frequently, with a preference to the shorter timescale."
 
 ## Influential XP Practices
 

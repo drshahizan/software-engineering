@@ -52,7 +52,9 @@ Group Explorer
 
 ## The Importance of Software Engineering
 
-Software engineering is an essential field of study that deals with the design, development, and maintenance of software applications. It plays a vital role in the development and success of modern technology. Here are some of the reasons why software engineering is important:
+Software engineering is an essential field of study that deals with the design, development, and maintenance of software applications. It plays a vital role in the development and success of modern technology. The importance of software engineering can be seen in many areas of modern society, including business, healthcare, education, and entertainment.
+
+<b> Why software engineering is important?</b>
 
 - Reduces Complexity
 Dealing with big Software is very complicated and challenging. Thus to reduce the complications of projects, software engineering has great solutions. It simplifies complex problems and solves those issues one by one.
