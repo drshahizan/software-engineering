@@ -153,11 +153,10 @@ The XP methodology places a strong emphasis on teamwork, communication, and feed
 
  - Build is only accepted when the tests sucessfully run
 
-Regenerate response
 <br><img src=https://i.imgur.com/mUZHPws.png width="600px"></br>
 ## The Extreme Programming Release Cycle
 
-##### Step 1 User Story Selection
+#### <b>Step 1 User Story Selection<b>
 1. Identify the Stakeholders
 The first step in choosing user stories is to identify the stakeholders who will be impacted by the software. Stakeholders can include end-users, customers, managers, and other stakeholders who have an interest in the software.
 
@@ -170,8 +169,19 @@ Once the user stories have been identified, the team should prioritize them base
 4. Estimate User Stories
 After prioritization, the team should estimate the effort required to complete each user story. This can be done using story points or another relative estimation technique. Estimation should be done collaboratively with the development team and should take into account the team's capacity and expertise.
 
-#####Step 2
+ #### <b>Step 2 Break Down Stories to Tasks</b>
+1. Break Down User Stories
+User stories should be broken down into smaller, manageable tasks that can be completed in a single iteration. Breaking down user stories helps to identify any dependencies or technical challenges and ensures that the work is manageable for the team.
+
+2. Validate user stories
+Once the user stories have been prioritized, estimated, and broken down, the team should validate them with the customer. This ensures that the user stories capture the customer's requirements and that the priorities and estimates are aligned with the customer's needs.
+
+ 
+<br><img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQYbO8DxznMYSImk9kQe2-mPANn2w9yvAIA&usqp=CAUwidth="600px"></br>
+ #### <b>Step 3 Plan Release</b>
+ After all the steps above are completed, the team need to create a release plan based on the priority and dependencies of the stories.
 ## XP and Agile Principles
+ 
 
 ## Influential XP Practices
 
