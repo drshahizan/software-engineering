@@ -12,139 +12,89 @@
 </head>
 
 <body>
-	<header>
-		<h1>Course Registration Form</h1>
-	</header>
- 
-            <fieldset>
-                <legend>Personal Information</legend>
-                <table border=1px height="150">
-                    <tr>
-                        <td>
-                            <label for="first">First Name</label>
-                        </td>
-                        <td>
-                            <input type="text" id="first" name="first" required>
-                        </td>
-                        <td>
-                            <label for="gender">Gender</label>
-                        </td>
-                        <td>
-                            <input type="radio" id="female" name="gender" value="female" required>
-                            <label for="female">Female</label>
-                            <input type="radio" id="male" name="gender" value="female" required>
-                            <label for="male">Male</label>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <label for="last">Last Name</label>
-                        </td>
-                        <td>
-                            <input type="text" id="last" name="last" required>
-                        </td>
-                        <td>
-                            <label for="nationality">Nationality</label>
-                        </td>
-                        <td>
-                            <select id="nationality" name="nationality" required>
-                                <option value="Canadian">Canadian</option>
-                                <option value="Italian">Italian</option>
-                                <option value="Australian">Australian</option>
-                                <option value="Malaysian">Malaysian</option>
-				            </select>
-                        </td>
-                    </tr>
-                    <tr height="100">
-                        <td>
-                            <label for="address">Address</label>
-                        </td>
-                        <td colspan="3">
-                            <textarea id="address" name="address" style="width: 220px; height: 100px;" required></textarea>
-                        </td>
-                    </tr>
-                </table>
-            </fieldset>
+    <header>
+        <h1 style="text-align: center; font-family: Verdana; color: blue; ">Medical Form</h1>
+    </header>
+    <form action="/action_page.php">
+        <fieldset>
+            <legend>Personal Information</legend>
+            <table border=1px height="150">
+                <tr>
+                    <td>
+                        <label for="first">First Name</label>
+                    </td>
+                    <td>
+                        <input type="text" id="first" name="first" value="" required>
+                    </td>
+                    <td>
+                        <label for="gender">Gender</label>
+                    </td>
+                    <td>
+                        <input type="radio" id="female" name="gender" value="" required>
+                        <label for="female">Female</label>
+                        <input type="radio" id="male" name="gender" value="" required>
+                        <label for="male">Male</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="last">Last Name</label>
+                    </td>
+                    <td>
+                        <input type="text" id="last" name="last" value="" required>
+                    </td>
+                    <td>
+                        <label for="nationality">Nationality</label>
+                    </td>
+                    <td>
+                        <select id="nationality" name="nationality" required>
+                            <option value="Canadian">Canadian</option>
+                            <option value="Italian">Italian</option>
+                            <option value="Australian">Australian</option>
+                            <option value="Malaysian">Malaysian</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr height="100">
+                    <td>
+                        <label for="address">Address</label>
+                    </td>
+                    <td colspan="3">
+                        <textarea id="address" name="address" style="width: 220px; height: 100px;" required></textarea>
+                    </td>
+                </tr>
+            </table>
+        </fieldset>
 
-            <fieldset>
-                <legend>Medical History</legend>
-                
-                <input type="checkbox" id="Smallpox" name="Smallpox" value="Smallpox" required>
-                <label for="Smallpox">Smallpox</label>
-                <input type="checkbox" id="Mumps" name="Mumps" value="Mumps" required>
-                <label for="Mumps">Mumps</label>
-                <input type="checkbox" id="Dizziness" name="Dizziness" value="Dizziness" required>
-                <label for="Dizziness">Dizziness</label>
-                <input type="checkbox" id="Sneezing" name="Sneezing" value="Sneezing" required>
-                <label for="Sneezing">Sneezing</label>
-            </fieldset>
+        <fieldset>
+            <legend>Medical History</legend>
 
-            <fieldset>
-                <legend>Current Medication</legend>
-                <label for="current">Are you currently taking any medication?</label>
-                <input type="radio" id="Yes" name="current" value="Yes" required>
-                <label for="Yes">Yes</label>
-                <input type="radio" id="No" name="current" value="No" required>
-                <label for="No">No</label>
-                <br>
-                <label for="indicate">If you are currently taking medication, please indicate it in the space below:</label><br>
-                <textarea id="indicate" name="indicate" style="width: 800px; height: 180px;" required></textarea>
-            </fieldset>
+            <input type="checkbox" id="Smallpox" name="Smallpox" value="">
+            <label for="Smallpox">Smallpox</label>
+            <input type="checkbox" id="Mumps" name="Mumps" value="">
+            <label for="Mumps">Mumps</label>
+            <input type="checkbox" id="Dizziness" name="Dizziness" value="">
+            <label for="Dizziness">Dizziness</label>
+            <input type="checkbox" id="Sneezing" name="Sneezing" value="">
+            <label for="Sneezing">Sneezing</label>
+        </fieldset>
+
+        <fieldset>
+            <legend>Current Medication</legend>
+            <label for="current">Are you currently taking any medication?</label>
+            <input type="radio" id="Yes" name="current" value="" required>
+            <label for="Yes">Yes</label>
+            <input type="radio" id="No" name="current" value="" required>
+            <label for="No">No</label>
             <br>
-            <input type="submit"> <input type="reset">
-        <!--
-            </tr>
-				<label for="email">Email:</label>
-				<input type="email" id="email" name="email" required>
-                <p></p>
-				<label for="phone">Phone:</label>
-				<input type="tel" id="phone" name="phone" required>
-                <p></p>
-				<label for="address">Address:</label>
-				<input type="text" id="address" name="address" required>
-                <p></p>
-				<label for="city">City:</label>
-				<input type="text" id="city" name="city" required>
-                <p></p>
-				<label for="state">State:</label>
-				<input type="text" id="state" name="state" required>
-                <p></p>
-				<label for="zip">Zip Code:</label>
-				<input type="text" id="zip" name="zip" required>
-                </table>
-			</fieldset>
-
-			<fieldset>
-				<legend>Course Information</legend>
-				<label for="course">Course:</label>
-				<select id="course" name="course" required>
-					<option value="">Select a course</option>
-					<option value="html">HTML</option>
-					<option value="css">CSS</option>
-					<option value="js">JavaScript</option>
-					<option value="php">PHP</option>
-				</select><br>
-
-				<label for="level">Level:</label>
-				<input type="radio" id="beginner" name="level" value="beginner" required>
-				<label for="beginner">Beginner</label>
-
-				<input type="radio" id="intermediate" name="level" value="intermediate" required>
-				<label for="intermediate">Intermediate</label>
-
-				<input type="radio" id="advanced" name="level" value="advanced" required>
-				<label for="advanced">Advanced</label>
-                <p></p>
-				<label for="start">Start Date:</label>
-				<input type="date" id="start" name="start" required>
-			</fieldset>
-
-			<input type="submit" value="Submit">
-		</form>
-	</main>
-	<footer>
-		<p>&copy; 2023 Course Registration Form</p>
-	</footer>
-    -->
+            <label for="indicate">If you are currently taking medication, please indicate it in the space
+                below:</label><br>
+            <textarea id="indicate" name="indicate" style="width: 800px; height: 180px;"></textarea>
+        </fieldset>
+        <br>
+        <input type="submit">
+        <input type="reset">
+    </form>
 </body>
+
 </html>
