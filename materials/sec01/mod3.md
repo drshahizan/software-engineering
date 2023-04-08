@@ -311,7 +311,7 @@ Test-First Development is an approach to writing software that involves writing 
 
 In summary, TFD is an effective approach to software development that offers several benefits to programmers and organizations alike. By enforcing rigorous testing, clarifying function specification, reducing debugging time, improving code quality, reducing overall development time, and offering psychological benefits, TFD helps to ensure that software is of high quality and meets the requirements of end-users or customers.
 
-<br><img src=https://railsware.com/blog/wp-content/uploads/2021/11/pair-programming-1024x538.jpg></br>
+<br><img src=https://railsware.com/blog/wp-content/uploads/2021/11/pair-programming-1024x538.jpg width="600px"></br>
 
 ## 4: Pair Programming
 Pair programming is a software development technique where two programmers collaborate and work together at a single workstation. The process involves two roles: the driver, who is responsible for writing code, and the observer or navigator, who reviews each line of code as it is typed in. The two programmers frequently switch roles to maintain an equal share of work and knowledge.
