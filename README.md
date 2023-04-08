@@ -58,6 +58,8 @@ This course is designed to give students an introduction to an engineering appro
 | 14 | | **TENTATIVE - ALTERNATIVE ASSESSMENT (TBC)**|
 | 15 | | **Industry Day II:** Project demonstration and hand over. |
 
+## [Labs](./lab)
+
 ## Student Information
 - [Section 01](./materials/student-01.md)
 - [Section 02](./materials/student-02.md)
