@@ -198,7 +198,7 @@ User stories should be broken down into smaller, manageable tasks that can be co
 Once the user stories have been prioritized, estimated, and broken down, the team should validate them with the customer. This ensures that the user stories capture the customer's requirements and that the priorities and estimates are aligned with the customer's needs.
 
  
-<br><img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQYbO8DxznMYSImk9kQe2-mPANn2w9yvAIA&usqp=CAU width="600px"></br>
+<br><img src=https://static.vecteezy.com/system/resources/previews/008/150/839/non_2x/finishing-project-tasks-or-work-done-conclusion-project-management-or-process-plan-concept-smart-businessman-using-pen-to-check-on-project-list-checkbox-marked-as-completed-flat-illustration-vector.jpg width="600px"></br>
  #### <b>Step 3 Plan Release</b>
  After all the steps above are completed, the team need to create a release plan based on the priority and dependencies of the stories.
  
