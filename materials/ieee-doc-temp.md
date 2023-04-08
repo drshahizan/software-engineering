@@ -162,8 +162,8 @@ These documents are essential for managing and executing a software engineering 
 | ----- | ----- | ------ | :------: |
 | 1 | Software Requirements Specification |  |  |
 | 2 | Software Design Description |  |  |
-| 3 | Software Test Plan |  |  |
-| 4 | Software Requirements Specification |  |  |
+| 3 | Software Test Documentation |  |  |
+| 4 | Software Test Plan |  |  |
 
 
 ## Contribution 🛠️
