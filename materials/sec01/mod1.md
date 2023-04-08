@@ -70,7 +70,7 @@ Software engineering is an essential field of study that deals with the design, 
    - The software will be reliable if software engineering, testing, and maintenance are given.
    - By applying engineering principles and rigorous testing methodologies, software engineers can identify and correct potential issues before they impact end-users.
 8. Collaboration
-   - - Software engineering fosters collaboration among developers, designers, and stakeholders, which helps ensure that software systems are developed with the end user in mind. This collaboration also helps improve communication, reduce errors, and ensure that software meets the needs of all stakeholders.
+   - Software engineering fosters collaboration among developers, designers, and stakeholders, which helps ensure that software systems are developed with the end user in mind. This collaboration also helps improve communication, reduce errors, and ensure that software meets the needs of all stakeholders.
 10. Ensuring security and privacy
    - Software engineers can design systems that are resistant to cyberattacks and ensure that user data is protected.
 
