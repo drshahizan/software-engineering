@@ -158,12 +158,12 @@ Overall, the SMP document is a critical document for software engineering projec
 
 These documents are essential for managing and executing a software engineering project. They provide a structured approach to project management, ensuring that all aspects of the project are properly planned and documented. By following these documents, project managers and software developers can ensure that the project is completed on time, within budget, and to the required level of quality.
 
-| No | Name | ID |  Github |
-| ----- | ----- | ------ | :------: |
-| 1 | Software Requirements Specification | <a href="https://github.com/drshahizan/special-topic-data-engineering/blob/main/materials/notes/mod2.md" ><img src="../images/pdf64.png" width="24px" height="24px" ></a> |  |
-| 2 | Software Design Description |  |  |
-| 3 | Software Test Documentation |  |  |
-| 4 | Software Test Plan |  |  |
+| No | Name | File |  
+| ----- | ----- | ------ | 
+| 1 | Software Requirements Specification | <a href="https://github.com/drshahizan/special-topic-data-engineering/blob/main/materials/notes/mod2.md" ><img src="../images/pdf64.png" width="24px" height="24px" ></a> | 
+| 2 | Software Design Description | <a href="https://github.com/drshahizan/special-topic-data-engineering/blob/main/materials/notes/mod2.md" ><img src="../images/pdf64.png" width="24px" height="24px" ></a> |
+| 3 | Software Test Documentation | <a href="https://github.com/drshahizan/special-topic-data-engineering/blob/main/materials/notes/mod2.md" ><img src="../images/pdf64.png" width="24px" height="24px" ></a> |
+| 4 | Software Test Plan | <a href="https://github.com/drshahizan/special-topic-data-engineering/blob/main/materials/notes/mod2.md" ><img src="../images/pdf64.png" width="24px" height="24px" ></a> |
 
 
 ## Contribution 🛠️
