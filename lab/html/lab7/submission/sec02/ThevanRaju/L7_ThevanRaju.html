@@ -1,14 +1,87 @@
-Web Programming: Time Table
-Day/Period	I
-9:30-10:20	II
-10:20-11:10	III
-12:00-12:40	12:00-12:40	IV
-12:40-1:30	V
-1:30-2:20	VI
-2:20-3:10	VII
-3:10-4:00
-Monday	Eng	Mat	Che	LUNCH	LAB	Phy
-Tuesday	LAB	Eng	Che	Mat	SPORTS
-Wednesday	Mat	Phy	Eng	Che	LIBRARY
-Thursday	Phy	Eng	Che	LAB	Mat
-Friday	Phy	Eng	Che	LAB	Mat
+<!DOCTYPE html>
+<html>
+<head>
+<!--
+Name: Thevan Raju a/l Jeganath
+Matrix No: A22EC0286
+Github id: ThevanRaju
+
+Lab 6: HTML Table
+-->
+
+<title>Lab 7</title>
+<style>
+table, th, td {
+    border: 1px solid black;  
+  }
+</style>
+
+</head>
+<body>
+
+
+<h4 style="font-family:'Times New Roman', Times, serif New Roman;text-align:center;"> Web Programming: Time Table </h4>
+<table style="width:45%; margin-left:auto;margin-right:auto;">
+    <tr>
+      <th style= "width:35%">Day/Period </th>
+      <th><b>I<br>9:30-10:20</b></th>
+      <th><b>II<br>10:20-11:10</b></th>
+      <th><b>III<br>12:00-12:40</b></th>
+      <th>12:00-12:40 </th>
+      <th><b>IV<br>12:40-1:30</b></th>
+      <th><b>V<br>1:30-2:20</b></th>
+      <th><b>VI<br>2:20- 3:10</b></th>
+      <th><b>VII<br>3:10-4.00</b></th>
+    </tr>
+    <tr>
+      <th style="text-align: left"><i>Monday</i></th>
+      <td>Eng</td>
+      <td>Mat</td>
+      <td>Che</td>
+      <td rowspan="6" style="background-color: green;">LUNCH</td>
+      <td colspan="3" style="background-color: yellow; text-align: center">Lab</td>
+      <td>Phy</td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><i>Tuesday</i></th>
+      <td colspan="3" style="background-color: yellow; text-align: center">Lab</td>
+      <td>Eng</td>
+      <td>Che</td>
+      <td>Math</td>
+      <td style="background-color: blue;">SPORTS</td>
+    </tr>
+    <tr>
+      <th style="text-align: left"><i>Wednesday</i></th>
+      <td>Mat</td>
+      <td>Phy</td>
+      <td>Eng</td>
+      <td>Che</td>
+      <td colspan="3"; style= "text-align: center" >LIBRARY</td>
+    </tr>
+    <tr>
+        <th style="text-align: left"><i>Thursday</i></th>
+        <td>Phy</td>
+        <td>Eng</td>
+        <td>Chem</td>
+        <td colspan="3" style="background-color: yellow;text-align: center">Lab</td>
+        <td>Mat</td>
+      </tr>
+      <tr>
+        <th style="text-align: left"><i>Friday</i></th>
+        <td>Phy</td>
+        <td>Eng</td>
+        <td>Chem</td>
+        <td colspan="3" style="background-color: yellow;text-align: center"">Lab</td>
+        <td>Mat</td>
+      </tr>
+    
+  </table>
+
+
+
+</body>
+</html>
+
+
+
+

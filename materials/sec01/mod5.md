@@ -21,10 +21,10 @@ Group PowerPuff Boys
 
 ### Contents:
 #### Notes
-- [The Importance of Software Engineering](#the-importance-of-software-engineering)
+- [Requirements Analysis and Modeling ME](#requirement-analysis-and-modeling-me)
 
 ### Others
-- [Software Engineering | Introduction to Software Engineering](https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/)
+- [What Is Requirements Analysis and Modelling?](https://techcanvass.com/blogs/requirements-analysis-and-modelling.aspx)
 
 
 ## The Importance of Software Engineering

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!--
+     Name: Lim Jing Yong
+     Matric No: A22EC0182
+     Lab 9: HTML Forms
+    -->
+</head>
+<body>
+    <h1 style="position:relative; left:35%; font-family:Verdana, Geneva, Tahoma, sans-serif; color :blue">Medical Form</h1>
+    <fieldset>
+        <legend>Personal Information</legend>
+            <table border="1" width="70%">
+                <tr>
+                    <td>First Name</td><td><input type="text" id="fname" name="fname"></td><td>Gender</td>
+                    <td>
+                        <input type="radio" id="f" name="f" value="f"><label for="f">Female</label>
+                        <input type="radio" id="m" name="m" value="m"><label for="m">Male</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Last Name</td><td><input type="text" id="lname" name="lname"></td><td>Nationality</td>
+                    <td>
+                    <select id="nat" name="nat">
+                        <option value="c">Canadian</option>
+                        <option value="m">Malaysian</option>
+                        <option value="a">American</option>
+                        <option value="i">Indonesian</option>
+                    </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td height="100px">Address</td><td colspan="3"><input type="text" name="ad" id="ad" style="height:100px;width:300px"></td>
+                </tr>
+            </table>
+    </fieldset>
+
+    <fieldset>
+        <legend>Medical History</legend>
+            <input type="checkbox" id="sp" name="sp" value="sp"><label for="sp">Smallpox</label>
+            <input type="checkbox" id="mps" name="mps" value="mps"><label for="mps">Mumps</label>
+            <input type="checkbox" id="dz" name="dz" value="dz"><label for="dz">Dizziness</label>
+            <input type="checkbox" id="snz" name="snz" value="snz"><label for="snz">Sneezing</label>
+    </fieldset>
+
+    <fieldset>
+        <legend>Current Medication</legend>
+            <p>
+                Are you currently taking any medication? 
+                <input type="radio" id="y" name="y" value="y"><label for="y">Yes</label>
+                <input type="radio" id="n" name="n" value="n"><label for="n">No</label>
+            </p>
+            <p>
+                If you are currently taking medication, please indicate it in the space below:
+            </p>
+               <textarea name="meds" cols="125" rows="10"></textarea>
+    </fieldset>
+    <br>
+    <input type="submit" value="Submit"> <input type="reset" value="Reset">
+</body>
+</html>
