@@ -22,6 +22,8 @@ Group: Curiosity
 
 ### Contents:
 #### Notes
+
+#### AGILE METHODS
 - [Introduction](#Introduction)
 - [Rapid Software Development](#Rapid-Software-Development)
 - [Agile Development](#Agile-Development)
@@ -32,6 +34,8 @@ Group: Curiosity
 - [Agile Manifesto](#Agile-Manifesto)
 - [The Principles of Agile Methods](#The-Principles-of-Agile-Methods)
 - [Agile Methods Applicability](#Agile-Methods-Applicability)
+
+#### AGILE DEVELOPMENT TECHNIQUES
 - [Agile Development Techniques](#Agile-Development-Techniques)
 - [XP(Extreme Programming)](#XP)
 - [The Extreme Programming Release Cycle](#The-Extreme-Programming-Release-Cycle)
@@ -41,6 +45,8 @@ Group: Curiosity
 - [2: Refactoring](#Refactoring)
 - [3: Test-First Development](#Test-First-Development)
 - [4: Pair Programming](#Pair-Programming)
+
+#### AGILE PROJECT MANAGEMENT
 - [Agile Project Management](#Agile-Project-Management)
 - [Scrum](#Scrum)
 - [The Scrum Process](#The-Scrum-Process)
@@ -53,6 +59,8 @@ Group: Curiosity
 - [DevOps: Agile & Learn to Operations Work](#DevOps-Agile-&-Learn-to-Operations-Work)
 - [DevOps and Tools](#DevOps-and-Tools)
 - [Agile DevOps](#Agile-DevOps)
+
+#### SCALING AGILE METHODS
 - [Scaling Agile Methods](#Scaling-Agile-Methods)
 - [Practical Problems with Agile Methods](#Practical-Problems-with-Agile-Methods)
 - [Large Systems Development](#Large-Systems-Development)
@@ -64,6 +72,8 @@ Group: Curiosity
 - [Agile and Plan-Based Factors](#Agile-and-Plan-Based-Factors)
 - [Agile and Waterfall: AgiFall](#Agile-and-Waterfall-Agifall)
 - [Agile-Waterfall Hybrid](#Agile-Waterfall-Hybrid)
+
+### AGILE METHODS
 
 ## Introduction
 
@@ -85,6 +95,9 @@ Group: Curiosity
 
 ## Agile Methods Applicability
 
+
+### AGILE DEVELOPMENT TECHNIQUES
+
 ## Agile Development Techniques
 
 ## XP(Extreme Programming)
@@ -103,6 +116,8 @@ Group: Curiosity
 
 ## 4: Pair Programming
 
+
+### AGILE PROJECT MANAGEMENT
 ## Agile Project Management
 
 ## Scrum
@@ -127,6 +142,8 @@ Group: Curiosity
 
 ## Agile DevOps
 
+
+### SCALING AGILE METHODS
 ## Scaling Agile Methods
 
 ## Practical Problems with Agile Methods
