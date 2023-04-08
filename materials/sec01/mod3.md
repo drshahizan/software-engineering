@@ -108,6 +108,27 @@ Agile development is a methodology that emphasizes iterative and incremental dev
 All in all, the agile development methodology emphasizes flexibility, collaboration, and rapid delivery of working software. By using interleaved development, creating a series of versions, delivering software frequently, using an extensive toolset, and minimizing documentation, agile development can help teams to be more productive, efficient, and responsive to changing requirements and customer needs.
 
 ## Plan-Driven and Agile Development
+#### Plan-Driven Development
+**Plan-driven development:** Also known as the Waterfall model, it is a software development methodology that follows a sequential approach to building software products. In this methodology, the development process is divided into a series of distinct phases, and each phase must be completed before the next one begins.
+
+**Separate development stages:** The phases in the plan-driven development model typically include requirements gathering, design, implementation, testing, and maintenance. This approach requires extensive planning and documentation before development begins, with a detailed project plan that includes project scope, schedule, and budget.
+
+**Iteration:** To address the inflexibility of the plan-driven approach, some organizations have adopted an iterative approach, where each phase is broken down into smaller iterations. This allows for more frequent feedback and the ability to make changes based on that feedback. However, even with an iterative approach, the plan-driven model is still characterized by a linear, sequential development process.
+
+**Advantages and disadvantages:** The plan-driven approach is suitable for large, complex projects with well-defined requirements. However, it can be inflexible in the face of changing requirements, and changes made later in the development process can lead to delays and increased costs.
+
+**Example:** An example of plan-driven development is the software development process used by NASA for space missions, where a detailed plan is necessary to ensure the success of the mission.
+
+#### Agile Development
+**Agile development:** Agile is a software development methodology that emphasizes flexibility, collaboration, and continuous improvement. This approach is characterized by short development cycles, frequent feedback, and the ability to adapt to changing requirements.
+
+**Separate development stages:** Agile development involves breaking down the development process into smaller, more manageable pieces that can be completed in a short amount of time. These pieces, called iterations or sprints, typically last between 1-4 weeks and include requirements gathering, design, implementation, testing, and deployment.
+
+**Inter-leaved:** In Agile development, different development stages can be inter-leaved or performed simultaneously within an iteration, allowing for quick feedback and the ability to make changes based on that feedback. This approach allows for a more flexible and adaptable development process, which can lead to faster delivery of working software.
+
+**Advantages and disadvantages:** Agile development is suitable for projects with rapidly changing requirements or uncertain scope, where flexibility and adaptability are more important than a detailed plan. However, Agile development can be more challenging to manage for large, complex projects, and the need for continuous feedback and collaboration can lead to communication and coordination challenges.
+
+**Example:** An example of Agile development is the development process used by a software development team building a mobile app. The team breaks down the development process into short sprints, each focusing on a specific feature or functionality. Within each sprint, the team inter-leaves development stages, allowing for quick feedback and the ability to make changes based on that feedback.
 
 ## Balance of Plan-Driven or Agile Development
 
