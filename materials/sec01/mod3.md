@@ -200,6 +200,29 @@ In summary, when deciding whether to use agile in a project, it is important to 
 **Continuous improvement:** Agile development methods are designed to continuously improve the development process. This is achieved through regular retrospectives, where the team reflects on their performance and identifies areas for improvement.
 
 ## Agile Manifesto
+The Agile Manifesto is a set of guiding values and principles for Agile software development. It was created by a group of software developers in 2001 who were frustrated with the rigid, plan-driven approach to software development that was prevalent at the time. The Agile Manifesto is designed to provide a more flexible, iterative, and collaborative approach to software development that prioritizes customer satisfaction, working software, and continuous improvement. It emphasizes the importance of collaboration, communication, and responding to change, and provides a framework for teams to work together effectively to deliver high-quality software products. The Agile Manifesto has since become widely adopted as a standard for Agile development practices in software development and beyond.
+
+**Customer satisfaction:** The Agile Manifesto places a strong emphasis on customer satisfaction. This means that the needs of the customer should be at the forefront of the development process.
+
+**Responding to change:** The Agile Manifesto values responding to change over following a plan. This means that the development process should be flexible and able to adapt to changing requirements.
+
+**Working software:** The Agile Manifesto prioritizes working software over comprehensive documentation. This means that the focus is on delivering functional software that meets customer needs.
+
+**Collaboration:** The Agile Manifesto values collaboration between team members and stakeholders. This means that everyone involved in the development process should work together to achieve a shared goal.
+
+**Individuals and interactions:** The Agile Manifesto values individuals and interactions over processes and tools. This means that the focus should be on empowering team members and fostering communication and collaboration.
+
+**Responding to change:** The Agile Manifesto values responding to change over following a plan. This means that the development process should be flexible and able to adapt to changing requirements.
+
+**Sustainable development:** The Agile Manifesto values sustainable development, which means that the development process should be able to continue indefinitely without causing burnout or other negative consequences.
+
+T**echnical excellence:** The Agile Manifesto values technical excellence, which means that the development process should prioritize high-quality, maintainable code.
+
+**Self-organizing teams:** The Agile Manifesto values self-organizing teams, which means that team members should be empowered to make decisions and take ownership of the development process.
+
+**Regular reflection and adjustment:** The Agile Manifesto values regular reflection and adjustment, which means that the development process should be continuously evaluated and adjusted to improve performance and achieve better outcomes.
+
+Overall, the Agile Manifesto provides a set of guiding principles for Agile development that prioritize customer satisfaction, collaboration, flexibility, and continuous improvement. By following these principles, development teams can deliver high-quality software that meets customer needs and adapts to changing requirements over time.
 
 ## The Principles of Agile Methods
 
