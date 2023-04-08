@@ -160,7 +160,7 @@ These documents are essential for managing and executing a software engineering 
 
 | No | Name | ID |  Github |
 | ----- | ----- | ------ | :------: |
-| 1 | Software Requirements Specification | <a href="https://github.com/drshahizan/special-topic-data-engineering/blob/main/materials/notes/mod2.md" ><img src="../images/markdownp.png" width="24px" height="24px" ></a> |  |
+| 1 | Software Requirements Specification | <a href="https://github.com/drshahizan/special-topic-data-engineering/blob/main/materials/notes/mod2.md" ><img src="../images/pdf64.png" width="24px" height="24px" ></a> |  |
 | 2 | Software Design Description |  |  |
 | 3 | Software Test Documentation |  |  |
 | 4 | Software Test Plan |  |  |
