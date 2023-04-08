@@ -216,7 +216,7 @@ The Agile Manifesto is a set of guiding values and principles for Agile software
 
 **Sustainable development:** The Agile Manifesto values sustainable development, which means that the development process should be able to continue indefinitely without causing burnout or other negative consequences.
 
-T**echnical excellence:** The Agile Manifesto values technical excellence, which means that the development process should prioritize high-quality, maintainable code.
+**Technical excellence:** The Agile Manifesto values technical excellence, which means that the development process should prioritize high-quality, maintainable code.
 
 **Self-organizing teams:** The Agile Manifesto values self-organizing teams, which means that team members should be empowered to make decisions and take ownership of the development process.
 
