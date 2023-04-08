@@ -73,6 +73,51 @@ In conclusion,software engineering is important for reduces complexity, handling
 
 <br><img src="https://miro.medium.com/max/875/0*GD_XmCiR-l1cPrzh" width="600px"><br>  
 
+## Software Engineering Costs
+
+Software engineering costs refer to the expenses incurred during the development, maintenance, and deployment of software.Software engineering costs can be categorized into several types, including:
+
+- Development costs: These include the costs associated with creating the software, such as salaries of the development team, tools, hardware, and software licenses.
+
+- Maintenance costs: These include the costs of fixing bugs, adding new features, and ensuring that the software remains up to date with changes in the operating system or other dependencies.
+
+- Testing costs: These include the costs of testing the software to ensure that it is functioning as intended and is free from bugs or errors.
+
+- Deployment costs: These include the costs associated with deploying the software to the production environment, such as server costs, deployment tools, and user training.
+
+- Support costs: These include the costs of providing customer support and responding to user inquiries or issues.
+
+- Upgrading costs: These include the costs of upgrading the software to a newer version or technology, such as migrating from an on-premise system to a cloud-based one.
+
+Software engineering costs can be significant, and it's essential to estimate and manage them effectively to ensure that the software is developed within the allocated budget and timeframe. By carefully considering all the costs associated with software engineering, development teams can make informed decisions about resource allocation, and ensure that the software is built efficiently and effectively.
+
+
+<br><img src="https://cdn-icons-png.flaticon.com/512/5329/5329260.png" width="500px"><br>  
+
+## Software Engineering in Software Development
+
+In software development, software engineers use software engineering principles to create high-quality software systems that meet the requirements of end-users. The software development process includes requirements analysis, design, implementation, testing, and maintenance.
+
+Software engineering is a field in which technical principles and practices are applied to the design, development, testing, deployment, and maintenance of software systems. It is a systematic approach to software development that uses formal methods, processes, and tools to ensure that software systems are reliable, efficient, and maintainable.
+
+Software engineering also involves the use of quality assurance processes to ensure that the software is developed to a high standard. These processes may include testing, code reviews, and documentation. Software engineering also includes project management and collaboration, as software development is usually a team effort involving multiple developers and stakeholders.
+
+Overall, software engineering provides a structured and disciplined approach to software development that helps ensure that software systems are developed to high standards and meet end-user requirements.
+
+<br><img src="https://miro.medium.com/v2/resize:fit:500/1*tGKCSfTfV8E8t4atqrLE4A.png" width="600px"><br>  
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Contribution 🛠️

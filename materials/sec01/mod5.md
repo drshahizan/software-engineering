@@ -24,7 +24,7 @@ Group PowerPuff Boys
 - [Requirements Analysis and Modeling ME](#requirement-analysis-and-modeling-me)
 
 ### Others
-- [Software Engineering | Introduction to Software Engineering](https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/)
+- [What Is Requirements Analysis and Modelling?](https://techcanvass.com/blogs/requirements-analysis-and-modelling.aspx)
 
 
 ## The Importance of Software Engineering
