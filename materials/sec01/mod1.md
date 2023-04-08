@@ -71,7 +71,7 @@ The Software will be reliable if software engineering, testing, and maintenance 
 In conclusion,software engineering is important for reduces complexity, handling big projects, minimize software costs, decrease time, effectiveness,  reliable software and collaboration in the development of software systems.
 
 
-
+https://upplabs.com/wp-content/uploads/2021/06/Functional-and-non-functional-requirements.jpeg
 
 
 
