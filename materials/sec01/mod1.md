@@ -40,6 +40,12 @@ Group Explorer
 - [Software Standard and Document](#software-standard-and-document)
 - [The expectation](#the-expectation)
 
+### Objectives
+-[To understand the importance of software engineering in software development]
+-[To understand the definition of software engineering]
+-[To know the difference between Software Engineering and Computer Science, Software Engineering and Software Programming]
+-[To understand the importance of software quality and documentation standard]
+
 ### Others
 - [Software Engineering | Introduction to Software Engineering](https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/)
 
