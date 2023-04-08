@@ -37,7 +37,7 @@ Group: Curiosity
 
 #### AGILE DEVELOPMENT TECHNIQUES
 - [Agile Development Techniques](#Agile-Development-Techniques)
-- [XP(Extreme Programming)](#XP(Extreme-Programming))
+- [XP(Extreme Programming)](#XP)
 - [The Extreme Programming Release Cycle](#The-Extreme-Programming-Release-Cycle)
 - [XP and Agile Principles](#XP-and-Agile-Principles)
 - [Influential XP Practices](#Influential-XP=Practices)
@@ -180,6 +180,25 @@ Once the user stories have been prioritized, estimated, and broken down, the tea
 <br><img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQYbO8DxznMYSImk9kQe2-mPANn2w9yvAIA&usqp=CAU width="600px"></br>
  #### <b>Step 3 Plan Release</b>
  After all the steps above are completed, the team need to create a release plan based on the priority and dependencies of the stories.
+ 
+ <br><img src=https://www.aihr.com/wp-content/uploads/Learning-and-development-manager.png width="600px"></br>
+ ####<b>Step 4 Development</b>
+ In the development step of the Extreme Programming (XP) release cycle, the actual coding of the software takes place. This step is crucial as it involves turning the requirements and user stories into functional code. The development process in XP is characterized by several practices that are designed to ensure high-quality code that meets the needs of the customer. Some of these practices include:
+
+I. Pair programming:
+ In XP, developers work in pairs on the same code. This practice ensures that the code is reviewed as it is being written, reducing the likelihood of errors and improving the quality of the code.
+
+II. Continuous integration: 
+ XP emphasizes frequent integration of code changes into the main codebase. This ensures that code is tested and integrated early, reducing the risk of problems being discovered later in the development process.
+
+III. Test-driven development: 
+ XP follows a test-driven development approach, where developers write automated tests for their code before writing the code itself. This ensures that the code meets the requirements and reduces the likelihood of introducing bugs into the codebase.
+
+IV. Refactoring:
+ XP encourages frequent refactoring of the codebase to keep it clean and maintainable. This ensures that the code remains easy to work with and reduces the likelihood of introducing bugs into the codebase.
+
+Overall, the development step in the XP release cycle is focused on producing high-quality code that meets the needs of the customer while ensuring that the code remains easy to work with and maintainable.
+ 
 ## XP and Agile Principles
  
 
