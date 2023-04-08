@@ -1,1 +1,104 @@
+<html>
 
+<head>
+    <title></title>
+    <!--
+	Name: Koh Su Xuan
+	Matrix No: A22EC0060
+	Github id: kohxuan
+
+	Lab 6: HTML Table
+	-->
+    <style>
+        div{
+            margin-left:10%;
+            margin-top:10%;
+            margin-bottom:10%;
+            margin-right:10%;
+        }
+        table,
+        th,
+        td {
+            width: 100%;
+            border: 1px solid black;
+            border-collapse:collapse;
+            table-layout:fixed;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        th, td {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+    <table>
+        <tr>
+          <th>Flight No</th>
+          <th>Place</th>
+          <th>Destination</th>
+          <th colspan="2">Time</th>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>Arrival</td>
+          <td>Departure</td>
+        </tr>
+      </table>
+      <br>
+      <table>
+        <tr>
+          <td rowspan="2" valign="top">Time</td>
+          <th>Johor Bahru</th>
+          <th>Jakarta</th>
+          <th>Dhaka</th>
+          <th>Jeddah</th>
+        </tr>
+        <tr>
+          <td>3:30 pm</td>
+          <td>2:30 pm</td>
+          <td>1.30 pm</td>
+          <td>10:30 am</td>
+        </tr>
+      </table>
+      <br>
+      <table>
+        <tr>
+          <td colspan="3" bgcolor="#556CD8" style=height:50px >BLUE</td>
+        </tr>
+        <tr>
+          <td bgcolor="red" style=height:50px>RED</td>
+          <td bgcolor="green" style=height:50px>GREEN</td>
+          <td bgcolor="yellow" style=height:50px>YELLOW</td>
+        </tr>
+      </table>
+      <br>
+      <table>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td>4</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <th colspan="2" rowspan="2">Image</th>
+          <td>6</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>10</td>
+            <td>11</td>
+            <td>12</td>
+        </tr>
+      </table>
+    </div>
+</body>
+</html>
