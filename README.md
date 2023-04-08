@@ -54,13 +54,13 @@ This course is designed to give students an introduction to an engineering appro
 
 ## Notes
 
-## 🎯 Proposal 🆕 
+### 🎯 Proposal 🆕 
 1. [List of Software Engineering Projects](./proposal/materials/list-se-topic.md)
 2. [Steps in Software Engineering Projects](./proposal/materials/se-project.md)
 3. [Guideline for Software Engineering Proposal](./proposal/materials/guideline.md)
 4. [Proposal Template](./proposal/materials/template-proposal.md)
 
-## Others
+### Others
 1. [Tender dan sebut harga](./proposal/materials/tender.md)
 2. [Kajian Keperluan Pengguna MACA](https://drive.google.com/file/d/1cd-FGUqqFLkMai73DE2qAh2vrXksbpaT/view?usp=sharing)
 3. [Final Year Project](https://github.com/drshahizan/undergraduate-project)
