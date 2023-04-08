@@ -20,7 +20,7 @@ Group Four Peas in Pod
 
 # Module 7: Object-Oriented Detailed Design 
 
-##Objectives:
+## Objectives:
 <ul type=bullet>
   <li>To understand the relationship among analysis, design and implementation</li>
   <li>To comprehend object-oriented design principles</li>
