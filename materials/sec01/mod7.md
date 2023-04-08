@@ -26,6 +26,7 @@ Group Four Peas in Pod
   <li>To comprehend object-oriented design principles</li>
   <li>To further understand object-oriented design using UML</li?
   <li>To elaborate the related diagrams from analysis in design phase in use case realization</li>
+</ul>
 
 ### Contents:
 #### Notes
