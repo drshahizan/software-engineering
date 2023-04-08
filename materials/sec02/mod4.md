@@ -195,9 +195,6 @@ Side-effects: Any additional outcomes or changes that occur as a result of execu
 - The <system function> shall able to `<action>` `<entity>`
 - The **library registration information facility** shall be able to **store information**
  
-### Templated for Writing Non-Functional Requirements
-### Tabular Specification
-### Tabular Specification of Computation for an Insulin Pump
 ## Requirement Engineering Process 🏗️ 
 
 

@@ -22,6 +22,29 @@ Group Explorer
 ### Contents:
 #### Notes
 - [The Importance of Software Engineering](#the-importance-of-software-engineering)
+- [Software Engineering Costs](#software-engineering-costs)
+- [Software Engineering in Software Development](#software-engineering-in-software-development)
+- [Software Engineering Definition](#software-engineering-definition)
+- [Software Engineering as a Layered Technology](#software-engineering-as-a-layered-technology)
+- [Software Products and Product Specification](#software-products-and-product-specification)
+- [Software Engineering Diversity:Types of Software](#software-engineering-diversity-types-of-software)
+- [Different Types of Software](#different-types-of-software)
+- [Inherent Difficulties](#inherent-difficulties)
+- [Software Complexity](#software-complexity)
+- [Software Changeability](#software-changeability)
+- [Computer Science vs.Software Engineering](#computer-science-vs-software-engineering)
+- [Software Engineering vs.Software Programming](#software-engineering-vs-software-programming)
+- [Quality Focus](#quality-focus)
+- [Quality Focus: Example of Software Quality](#quality-focus-example-of-software-quality)
+- [Quality Priority](#quality-priority)
+- [Software Standard and Document](#software-standard-and-document)
+- [The expectation](#the-expectation)
+
+## Objectives
+- To understand the importance of software engineering in software development
+- To understand the definition of software engineering
+- To know the difference between Software Engineering and Computer Science, Software Engineering and Software Programming
+- To understand the importance of software quality and documentation standard
 
 ### Others
 - [Software Engineering | Introduction to Software Engineering](https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/)

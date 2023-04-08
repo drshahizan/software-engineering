@@ -19,18 +19,20 @@ Group F4
 -->
 
 # Module 8: Software Verification, Validation and Testing 
+Click [here](https://drive.google.com/drive/folders/1fFqVSa7WdQ2Uet0UdvbQcALUVcqme6gw) to access PDF file for this topic(other topics also can)
 
 ### Contents:
+- [**Verification vs Validation(V&V)**](#verification-vs-validation-vv)
 #### Notes
-- [The Importance of Software Engineering](#the-importance-of-software-engineering)
+
 
 ### Others
 - [Software Engineering | Introduction to Software Engineering](https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/)
 
 
-## The Importance of Software Engineering
+# Verification vs Validation (V & V)
 
-Software engineering is an essential field of study that deals with the design, development, and maintenance of software applications. It plays a vital role in the development and success of modern technology. Here are some of the reasons why software engineering is important:
+<p><img src="[path/to/image.jpg](https://www.bplogix.com/hubfs/Verification%20vs.%20validation.png)" alt="Verification & Validation"></p>
 
 
 ## Contribution 🛠️
