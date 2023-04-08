@@ -54,6 +54,50 @@ Group Explorer
 
 Software engineering is an essential field of study that deals with the design, development, and maintenance of software applications. It plays a vital role in the development and success of modern technology. Here are some of the reasons why software engineering is important:
 
+- Reduces Complexity
+Dealing with big Software is very complicated and challenging. Thus to reduce the complications of projects, software engineering has great solutions. It simplifies complex problems and solves those issues one by one.
+- Handling Big Projects
+Big projects need lots of patience, planning, and management, which you never get from any company. The company will invest its resources; therefore, it should be completed within the deadline. It is only possible if the company uses software engineering to deal with big projects without problems.
+- To Minimize Software Costs
+Software engineers are paid highly as Software needs a lot of hard work and workforce development. These are developed with the help of a large number of codes. But programmers in software engineering project all things and reduce the things which are not needed. As a result of the production of Software, costs become less and more affordable for Software that does not use this method.
+- To Decrease Time
+If things are not made according to the procedures, it becomes a huge loss of time. Accordingly, complex Software must run much code to get definitive running code. So it takes lots of time if not handled properly. And if you follow the prescribed software engineering methods, it will save your precious time by decreasing it.
+-  Effectiveness
+Making standards decides the effectiveness of things. Therefore a company always targets the software standard to make it more effective. And Software becomes more effective only with the help of software engineering.
+- Reliable Software
+The Software will be reliable if software engineering, testing, and maintenance are given. As a software developer, you must ensure that the Software is secure and will work for the period or subscription you have agreed upon.
+- Collaboration: Software engineering fosters collaboration among developers, designers, and stakeholders, which helps ensure that software systems are developed with the end user in mind. This collaboration also helps improve communication, reduce errors, and ensure that software meets the needs of all stakeholders.
+
+In conclusion,software engineering is important for reduces complexity, handling big projects, minimize software costs, decrease time, effectiveness,  reliable software and collaboration in the development of software systems.
+
+
+<br><img src="https://miro.medium.com/max/875/0*GD_XmCiR-l1cPrzh" width="600px"><br>  
+
+## Software Engineering Costs
+
+Software engineering costs refer to the expenses incurred during the development, maintenance, and deployment of software.Software engineering costs can be categorized into several types, including:
+
+- Development costs: These include the costs associated with creating the software, such as salaries of the development team, tools, hardware, and software licenses.
+
+- Maintenance costs: These include the costs of fixing bugs, adding new features, and ensuring that the software remains up to date with changes in the operating system or other dependencies.
+
+- Testing costs: These include the costs of testing the software to ensure that it is functioning as intended and is free from bugs or errors.
+
+- Deployment costs: These include the costs associated with deploying the software to the production environment, such as server costs, deployment tools, and user training.
+
+- Support costs: These include the costs of providing customer support and responding to user inquiries or issues.
+
+- Upgrading costs: These include the costs of upgrading the software to a newer version or technology, such as migrating from an on-premise system to a cloud-based one.
+
+Software engineering costs can be significant, and it's essential to estimate and manage them effectively to ensure that the software is developed within the allocated budget and timeframe. By carefully considering all the costs associated with software engineering, development teams can make informed decisions about resource allocation, and ensure that the software is built efficiently and effectively.
+
+
+<br><img src="https://cdn-icons-png.flaticon.com/512/5329/5329260.png" width="500px"><br>  
+
+
+
+
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any 
