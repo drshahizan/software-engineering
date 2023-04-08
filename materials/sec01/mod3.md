@@ -154,11 +154,23 @@ The XP methodology places a strong emphasis on teamwork, communication, and feed
  - Build is only accepted when the tests sucessfully run
 
 Regenerate response
+<br><img src=https://i.imgur.com/mUZHPws.png width="600px"></br>
 ## The Extreme Programming Release Cycle
-##### Step 1 Identify The Stakeholders
 
+##### Step 1 User Story Selection
+1. Identify the Stakeholders
+The first step in choosing user stories is to identify the stakeholders who will be impacted by the software. Stakeholders can include end-users, customers, managers, and other stakeholders who have an interest in the software.
 
+2. Brainstorm User Stories
+Once the stakeholders have been identified, the development team should brainstorm user stories that capture the stakeholders' requirements. User stories should be written in a simple, non-technical language and should describe the desired outcome or value to the user.
 
+3. Prioritize User Stories
+Once the user stories have been identified, the team should prioritize them based on the customer's needs and the value they provide. Prioritization can be done collaboratively with the customer and the development team.
+
+4. Estimate User Stories
+After prioritization, the team should estimate the effort required to complete each user story. This can be done using story points or another relative estimation technique. Estimation should be done collaboratively with the development team and should take into account the team's capacity and expertise.
+
+#####Step 2
 ## XP and Agile Principles
 
 ## Influential XP Practices
