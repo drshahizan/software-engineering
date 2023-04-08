@@ -22,8 +22,10 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Instruction
 
-1. This task must be done in groups (4 people per group). 
-2. Please provide your contact information in the HTML `<head>`.
+1. This task must be done in groups (4 people per group).
+2. Please make a new group. Group members cannot be the same as Proposal task group members.
+3. Please enter the group member's name into Google Sheets.
+4. Provide your contact information in the HTML `<head>`.
 ```html
 <!--
 Lab XX: XXX
@@ -35,7 +37,7 @@ Group:
 -->
 ```
 
-3. You must place your file in the submission folder. Within the submission folder, create a folder named after your group.
+5. You must place your file in the submission folder. Within the submission folder, create a folder named after your group.
 
 > Example: /submission/[group-name]/[your-file]
 >
