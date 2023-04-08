@@ -4,11 +4,20 @@
     Github ID : SabrinaNadhrah
     Lab 6 : HTML Table
 -->
-<html>
+<html lang="eng">
 
 <head>
     <title> Table HTML </title>
 </head>
+
+<style>
+    table, tr, td, th {
+        border: solid black;
+        border-collapse: collapse;
+        padding: 20px;
+        text-align: center;
+    }
+</style>
 
 <body>
 
@@ -50,10 +59,34 @@
         <tr>
             <td rowspan="2"> <b> Time </b></td>
             <td><b> Johor Bahru </b></td>
+            <td><b> Jakarta </b></td>
             <td><b> Dhaka </b></td>
             <td><b> Jeddah </b></td>
         </tr>
 
+        <tr>
+            <td> 3.30 pm </td>
+            <td> 2.30 pm </td>
+            <td> 1.30 pm </td>
+            <td> 10.30 am </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <table>
+        <tr>
+            <th colspan="3" style="background-color: blue"> BLUE </th>
+        </tr>
+        <tr>
+            <td style="background-color: red;"> RED </td>
+            <td style="background-color: green;"> GREEN </td>
+            <td style="background-color: yellow;"> YELLOW </td>
+        </tr>
+    </table>
+
+    <br>
+    <table>
         <tr>
             <td> 1 </td>
             <td> 2 </td>
