@@ -119,7 +119,7 @@ All in all, the agile development methodology emphasizes flexibility, collaborat
 
 **Example:** An example of plan-driven development is the software development process used by NASA for space missions, where a detailed plan is necessary to ensure the success of the mission.
 
-#### Agile Development
+### Agile Development
 **Agile development:** Agile is a software development methodology that emphasizes flexibility, collaboration, and continuous improvement. This approach is characterized by short development cycles, frequent feedback, and the ability to adapt to changing requirements.
 
 **Separate development stages:** Agile development involves breaking down the development process into smaller, more manageable pieces that can be completed in a short amount of time. These pieces, called iterations or sprints, typically last between 1-4 weeks and include requirements gathering, design, implementation, testing, and deployment.
