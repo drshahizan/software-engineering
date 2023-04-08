@@ -199,10 +199,12 @@ Once the user stories have been prioritized, estimated, and broken down, the tea
 
  
 <br><img src=https://static.vecteezy.com/system/resources/previews/008/150/839/non_2x/finishing-project-tasks-or-work-done-conclusion-project-management-or-process-plan-concept-smart-businessman-using-pen-to-check-on-project-list-checkbox-marked-as-completed-flat-illustration-vector.jpg width="600px"></br>
+ 
  #### <b>Step 3 Plan Release</b>
  After all the steps above are completed, the team need to create a release plan based on the priority and dependencies of the stories.
  
  <br><img src=https://www.aihr.com/wp-content/uploads/Learning-and-development-manager.png width="600px"></br>
+ 
  #### <b>Step 4 Development</b>
  In the development step of the Extreme Programming (XP) release cycle, the actual coding of the software takes place. This step is crucial as it involves turning the requirements and user stories into functional code. The development process in XP is characterized by several practices that are designed to ensure high-quality code that meets the needs of the customer. Some of these practices include:
 
@@ -221,6 +223,7 @@ IV. Refactoring:
 Overall, the development step in the XP release cycle is focused on producing high-quality code that meets the needs of the customer while ensuring that the code remains easy to work with and maintainable.
 
 <br><img src=https://www.altexsoft.com/media/2018/02/XP-values-and-principles.png width="600px"></br>
+
 ## XP and Agile Principles
  XP is based on a set of principles that align with the Agile Manifesto, which was created in 2001 as a way to promote agility and flexibility in software development.
 
@@ -263,9 +266,17 @@ One of the key tenets of Agile Manifesto is to respect work-life balance for tea
 Key Practice #6 – Test Driven Development (TDD)
 Test Driven Development(TDD) is a specific practice of Test First that is commonly associated with Extreme Programming (XP).  XP states that unit tests must be written prior to code, which is a practice that many organizations are not accustomed to. TDD enhances code quality because it requires a test to be written which means that code will always pass the test before it is submitted and integrated with the work from other members of the team.
 
+<br><img src=https://cdn-images.visual-paradigm.com/guide/agile/what-is-user-story/07-three-level-user-story-map.png width="600px"></br>
+
 ## 1: User Stories for Specification
+A user story is a short, simple description of a feature or functionality of a software system that is written from the perspective of an end-user or customer. User stories are used in Agile software development methodologies to capture the requirements of the system and guide the development process.
+
+User stories are typically written on index cards or sticky notes and are arranged on a physical or digital board called a "product backlog". The product backlog is a prioritized list of user stories that guides the development team in their work, with the highest priority user stories being completed first.
+
+By using user stories, development teams can ensure that they are focused on delivering features and functionality that meet the needs of the end-user or customer, and can prioritize their work based on the value that each user story delivers. This helps to ensure that the development process is aligned with the goals of the business or organization and that the resulting software is of high quality and provides value to the end-users.
 
 ## 2: Refactoring
+
 
 ## 3: Test-First Development
 
