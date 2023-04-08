@@ -182,7 +182,7 @@ Once the user stories have been prioritized, estimated, and broken down, the tea
  After all the steps above are completed, the team need to create a release plan based on the priority and dependencies of the stories.
  
  <br><img src=https://www.aihr.com/wp-content/uploads/Learning-and-development-manager.png width="600px"></br>
- ####<b>Step 4 Development</b>
+ #### <b>Step 4 Development</b>
  In the development step of the Extreme Programming (XP) release cycle, the actual coding of the software takes place. This step is crucial as it involves turning the requirements and user stories into functional code. The development process in XP is characterized by several practices that are designed to ensure high-quality code that meets the needs of the customer. Some of these practices include:
 
 I. Pair programming:
