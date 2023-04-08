@@ -106,6 +106,18 @@ Overall, software engineering provides a structured and disciplined approach to 
 
 <br><img src="https://miro.medium.com/v2/resize:fit:500/1*tGKCSfTfV8E8t4atqrLE4A.png" width="600px"><br>  
 
+## Software Engineering Definition
+
+Software engineering is a discipline that involves the application of engineering principles, methods, and techniques to the design, development, testing, deployment, and maintenance of software systems. It is a structured and systematic approach to software development that aims to ensure the reliability, efficiency, and maintainability of software systems.
+
+Software engineering involves a range of activities, including requirements gathering, design, coding, testing, and documentation. It also involves the use of various tools and techniques to manage the software development process, including project management tools, version control systems, and automated testing tools.
+
+The goal of software engineering is to create high-quality software systems that meet the needs of end-users, are reliable and efficient, and can be maintained and updated easily. Software engineering is a collaborative discipline that involves software engineers, project managers, quality assurance specialists, and other stakeholders in the software development process.
+
+Overall, software engineering is a vital discipline that underpins the development of the software systems that are used in many areas of modern life, from business and finance to healthcare and entertainment.
+
+<br><img src="https://www.computerhope.com/jargon/s/software-engineering.jpg" width="600px"><br>  
+
 
 
 
