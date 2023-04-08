@@ -1,1 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical Forms</title>
+    <!--
+Name: Tiew Chuan Rong
+Matrix No: A22EC0112
+Github id: tiewrong
+
+Lab 9: HTML Forms
+-->
+</head>
+
+<body>
+    <header>
+        <h1 style="text-align: center; font-family: verdana; color:blue"><b>Medical Forms</b></h1>
+    </header>
+    <form>
+
+            <fieldset>
+                <legend>Personal Information</legend>
+                <table border="1" style="width:900px; height:50px">
+                    <tr style="width:900px; height:50px">
+                        <td>First Name</td>
+                        <td><input type="text" id="fname" name="fname"></td>
+                        <td>Gender</td>
+                        <td><lable><input type="radio" name="gender" value="male">Male</lable>
+                            <lable><input type="radio" name="gender" value="Female">Female</lable></td>
+
+                    </tr>
+                    <tr style="width:900px; height:50px" >
+                        <td>Last Name</td>
+                        <td><input type="text" id="lname" name="lname"></td>
+                        <td>Nationality</td>
+                        <td><select id="nationality" name="nationality" required>
+                            <option value="">Select yout nationality</option>
+                            <option value="Malaysian">Malaysian</option>
+                            <option value="Canadian">Canadian</option>
+                            <option value="American">American</option>
+                            <option value="Korean">Korean</option>
+                            <option value="Singaporean">Singaporean</option>
+                            </select>
+                        </td>
+
+                    </tr>
+                    <tr style="width:900px; height:150px">
+                        <td >Address</td>
+                        <td colspan="3"><input type="text" id="address" name="address" style="height: 100px; width:300px;"></td>
+                    </tr>
+
+                </table>
+            </fieldset>
+
+            <fieldset>
+                <legend>Medical History</legend>
+                <label><input type="radio" name="mh" value="smallpox">Smallpox</label>
+                <label><input type="radio" name="mh" value="mumps">Mumps</label>
+                <label><input type="radio" name="mh" value="dizziness">Dizziness</label>
+                <label><input type="radio" name="mh" value="sneezing">Sneezing</label>
+            </fieldset>
+
+            <fieldset>
+                <legend>Current Medication</legend>
+                Are you currently taking medication?  <label><input type="radio" name="selection" value="yes">Yes</label> <label><input type="radio" name="selection" value="no">No</label><br>
+                If you are currently taking medication, please indicate it in the space below:
+                <textarea type="text" id="medication" name="medication" style="width:900px; height:150px"></textarea>
+            </fieldset>
+            <input type="submit" value="Submit"><input type="reset" value="Reset">
+</form>
+</body>
