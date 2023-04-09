@@ -23,8 +23,7 @@ This course is designed to give students an introduction to an engineering appro
 2. [Task 1: Additional Notes](./materials/Task1.md)
 3. [Lab exercise](./lab/)
 4. [Project 1: Personal Portfolio Website](./project/1-portfolio/readme.md)
-5. [Final Year Project](https://github.com/drshahizan/undergraduate-project)
-6. [Agile concept: UTMSmart](https://drive.google.com/file/d/1B6AX646-zXVLZwstzDatENmk05u1Hegu/view?usp=sharing)
+
 
 ## Weekly Schedule
 
@@ -59,6 +58,7 @@ This course is designed to give students an introduction to an engineering appro
 2. [Steps in Software Engineering Projects](./proposal/materials/se-project.md)
 3. [Guideline for Software Engineering Proposal](./proposal/materials/guideline.md)
 4. [Proposal Template](./proposal/materials/template-proposal.md)
+5. [IEEE Document Template](https://github.com/drshahizan/software-engineering/blob/main/materials/ieee-doc-temp.md)
 
 ### Others
 1. [Tender dan sebut harga](./proposal/materials/tender.md)

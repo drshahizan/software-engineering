@@ -108,6 +108,27 @@ Agile development is a methodology that emphasizes iterative and incremental dev
 All in all, the agile development methodology emphasizes flexibility, collaboration, and rapid delivery of working software. By using interleaved development, creating a series of versions, delivering software frequently, using an extensive toolset, and minimizing documentation, agile development can help teams to be more productive, efficient, and responsive to changing requirements and customer needs.
 
 ## Plan-Driven and Agile Development
+#### Plan-Driven Development
+**Plan-driven development:** Also known as the Waterfall model, it is a software development methodology that follows a sequential approach to building software products. In this methodology, the development process is divided into a series of distinct phases, and each phase must be completed before the next one begins.
+
+**Separate development stages:** The phases in the plan-driven development model typically include requirements gathering, design, implementation, testing, and maintenance. This approach requires extensive planning and documentation before development begins, with a detailed project plan that includes project scope, schedule, and budget.
+
+**Iteration:** To address the inflexibility of the plan-driven approach, some organizations have adopted an iterative approach, where each phase is broken down into smaller iterations. This allows for more frequent feedback and the ability to make changes based on that feedback. However, even with an iterative approach, the plan-driven model is still characterized by a linear, sequential development process.
+
+**Advantages and disadvantages:** The plan-driven approach is suitable for large, complex projects with well-defined requirements. However, it can be inflexible in the face of changing requirements, and changes made later in the development process can lead to delays and increased costs.
+
+**Example:** An example of plan-driven development is the software development process used by NASA for space missions, where a detailed plan is necessary to ensure the success of the mission.
+
+### Agile Development
+**Agile development:** Agile is a software development methodology that emphasizes flexibility, collaboration, and continuous improvement. This approach is characterized by short development cycles, frequent feedback, and the ability to adapt to changing requirements.
+
+**Separate development stages:** Agile development involves breaking down the development process into smaller, more manageable pieces that can be completed in a short amount of time. These pieces, called iterations or sprints, typically last between 1-4 weeks and include requirements gathering, design, implementation, testing, and deployment.
+
+**Inter-leaved:** In Agile development, different development stages can be inter-leaved or performed simultaneously within an iteration, allowing for quick feedback and the ability to make changes based on that feedback. This approach allows for a more flexible and adaptable development process, which can lead to faster delivery of working software.
+
+**Advantages and disadvantages:** Agile development is suitable for projects with rapidly changing requirements or uncertain scope, where flexibility and adaptability are more important than a detailed plan. However, Agile development can be more challenging to manage for large, complex projects, and the need for continuous feedback and collaboration can lead to communication and coordination challenges.
+
+**Example:** An example of Agile development is the development process used by a software development team building a mobile app. The team breaks down the development process into short sprints, each focusing on a specific feature or functionality. Within each sprint, the team inter-leaves development stages, allowing for quick feedback and the ability to make changes based on that feedback.
 
 ## Balance of Plan-Driven or Agile Development
 
@@ -153,24 +174,151 @@ The XP methodology places a strong emphasis on teamwork, communication, and feed
 
  - Build is only accepted when the tests sucessfully run
 
-Regenerate response
+<br><img src=https://i.imgur.com/mUZHPws.png width="600px"></br>
 ## The Extreme Programming Release Cycle
-##### Step 1 Identify The Stakeholders
 
+#### <b>Step 1 User Story Selection<b>
+1. Identify the Stakeholders
+The first step in choosing user stories is to identify the stakeholders who will be impacted by the software. Stakeholders can include end-users, customers, managers, and other stakeholders who have an interest in the software.
 
+2. Brainstorm User Stories
+Once the stakeholders have been identified, the development team should brainstorm user stories that capture the stakeholders' requirements. User stories should be written in a simple, non-technical language and should describe the desired outcome or value to the user.
+
+3. Prioritize User Stories
+Once the user stories have been identified, the team should prioritize them based on the customer's needs and the value they provide. Prioritization can be done collaboratively with the customer and the development team.
+
+4. Estimate User Stories
+After prioritization, the team should estimate the effort required to complete each user story. This can be done using story points or another relative estimation technique. Estimation should be done collaboratively with the development team and should take into account the team's capacity and expertise.
+
+ #### <b>Step 2 Break Down Stories to Tasks</b>
+1. Break Down User Stories
+User stories should be broken down into smaller, manageable tasks that can be completed in a single iteration. Breaking down user stories helps to identify any dependencies or technical challenges and ensures that the work is manageable for the team.
+
+2. Validate user stories
+Once the user stories have been prioritized, estimated, and broken down, the team should validate them with the customer. This ensures that the user stories capture the customer's requirements and that the priorities and estimates are aligned with the customer's needs.
+
+ 
+<br><img src=https://static.vecteezy.com/system/resources/previews/008/150/839/non_2x/finishing-project-tasks-or-work-done-conclusion-project-management-or-process-plan-concept-smart-businessman-using-pen-to-check-on-project-list-checkbox-marked-as-completed-flat-illustration-vector.jpg width="600px"></br>
+ 
+ #### <b>Step 3 Plan Release</b>
+ After all the steps above are completed, the team need to create a release plan based on the priority and dependencies of the stories.
+ 
+ <br><img src=https://www.aihr.com/wp-content/uploads/Learning-and-development-manager.png width="600px"></br>
+ 
+ #### <b>Step 4 Development</b>
+ In the development step of the Extreme Programming (XP) release cycle, the actual coding of the software takes place. This step is crucial as it involves turning the requirements and user stories into functional code. The development process in XP is characterized by several practices that are designed to ensure high-quality code that meets the needs of the customer. Some of these practices include:
+
+I. Pair programming:
+ In XP, developers work in pairs on the same code. This practice ensures that the code is reviewed as it is being written, reducing the likelihood of errors and improving the quality of the code.
+
+II. Continuous integration: 
+ XP emphasizes frequent integration of code changes into the main codebase. This ensures that code is tested and integrated early, reducing the risk of problems being discovered later in the development process.
+
+III. Test-driven development: 
+ XP follows a test-driven development approach, where developers write automated tests for their code before writing the code itself. This ensures that the code meets the requirements and reduces the likelihood of introducing bugs into the codebase.
+
+IV. Refactoring:
+ XP encourages frequent refactoring of the codebase to keep it clean and maintainable. This ensures that the code remains easy to work with and reduces the likelihood of introducing bugs into the codebase.
+
+Overall, the development step in the XP release cycle is focused on producing high-quality code that meets the needs of the customer while ensuring that the code remains easy to work with and maintainable.
+
+<br><img src=https://www.altexsoft.com/media/2018/02/XP-values-and-principles.png width="600px"></br>
 
 ## XP and Agile Principles
+ XP is based on a set of principles that align with the Agile Manifesto, which was created in 2001 as a way to promote agility and flexibility in software development.
+
+Here are some of the key principles of XP and how they relate to the Agile Manifesto:
+
+1. Communication: XP places a strong emphasis on communication between developers, stakeholders, and customers. This aligns with the Agile Manifesto's principle of "Individuals and interactions over processes and tools."
+
+2. Simplicity: XP promotes simplicity in software design and development, with the goal of delivering the most valuable software with the least amount of complexity. This aligns with the Agile Manifesto's principle of "Simplicity--the art of maximizing the amount of work not done--is essential."
+
+3. Feedback: XP emphasizes the importance of frequent feedback from stakeholders, customers, and end-users. This aligns with the Agile Manifesto's principle of "Working software is the primary measure of progress."
+
+4. Respect: XP encourages respect for everyone involved in the software development process, including developers, stakeholders, and customers. This aligns with the Agile Manifesto's principle of "Respect for people and continuous improvement."
+
+5. Courage: XP promotes courage in the face of uncertainty and encourages developers to take risks and experiment. This aligns with the Agile Manifesto's principle of "Responding to change over following a plan."
+
+6. Iteration: XP emphasizes delivering software in small, frequent iterations rather than in one large release. This aligns with the Agile Manifesto's principle of "Delivering working software frequently, with a preference to the shorter timescale."
 
 ## Influential XP Practices
+Key Practice:
+- User stories for specification
+- Refactoring
+- Test-first development
+- Pair programming
+
+Key Practice #1 – Pair Programming
+One of the most unique traits of XP is the practice of pair-programming, where two (and possibly more) engineers work side-by-side to develop code together. This practice involves two programmers working together on the same codebase, sharing knowledge and collaborating to improve the quality of the code. This approach is designed to optimize quality due to the built-in validation mechanism that is expected between two engineers which contribute to a single unit of code. While some organizations embrace this technique, this approach will require careful selection of partners to ensure maximum effectiveness. Culturally, there may also be a need to educate leadership folks who may not understand the value and see this as increased overhead/cost.
+
+Key Practice #2 – Planning Game
+XP receives credit for introducing a different approach to planning work through planning small batches of work frequently and through a consistent schedule. This practice involves regular planning meetings where the team collaboratively decides what work to do next, based on the customer's priorities. This was a precursor to what many of us know as “Sprint Planning” or “Iteration Planning” today within Scrum or other Agile approaches. Planning iteratively and applying a popular technique called “user stories” is one of the most important aspects of XP that has trickled down to Scrum, the most popular Agile method in the world today.
+
+Key Practice #3 – Continuous Process
+This practice involves regular planning meetings where the team collaboratively decides what work to do next, based on the customer's priorities.The practice of integrating code regularly and releasing the code on a cadence has been recently popularized by the movement also known as “DevOps” which originated the XP practices. Building code iteratively and releasing frequently enables the team to assess state of the product and resolve issues as early and often as possible which ultimately leads to higher overall quality in the end.
+
+Key Practice #4 – Coding Standards
+One of the most important and often forgotten practices amongst new Agile teams is the concept of coding standards. If a team of engineers do not construct a common set of rules, the end product will suffer a lack of consistency and increase the likelihood of technical debt as well as defects.
+
+Key Practice #5 – Sustainable Pace
+One of the key tenets of Agile Manifesto is to respect work-life balance for teams and encourage sustainable development, which enhances morale as well as product quality. XP reinforces this value in order to maximize team effectiveness.
+
+Key Practice #6 – Test Driven Development (TDD)
+Test Driven Development(TDD) is a specific practice of Test First that is commonly associated with Extreme Programming (XP).  XP states that unit tests must be written prior to code, which is a practice that many organizations are not accustomed to. TDD enhances code quality because it requires a test to be written which means that code will always pass the test before it is submitted and integrated with the work from other members of the team.
+
+<br><img src=https://cdn-images.visual-paradigm.com/guide/agile/what-is-user-story/07-three-level-user-story-map.png width="600px"></br>
 
 ## 1: User Stories for Specification
+A user story is a short, simple description of a feature or functionality of a software system that is written from the perspective of an end-user or customer. User stories are used in Agile software development methodologies to capture the requirements of the system and guide the development process.
+
+User stories are typically written on index cards or sticky notes and are arranged on a physical or digital board called a "product backlog". The product backlog is a prioritized list of user stories that guides the development team in their work, with the highest priority user stories being completed first.
+
+By using user stories, development teams can ensure that they are focused on delivering features and functionality that meet the needs of the end-user or customer, and can prioritize their work based on the value that each user story delivers. This helps to ensure that the development process is aligned with the goals of the business or organization and that the resulting software is of high quality and provides value to the end-users.
+
+<br><img src=https://lvivity.com/wp-content/uploads/2020/09/refactoring-process-1536x534.png width="600px"></br>
 
 ## 2: Refactoring
+Refactoring is a software development technique that involves improving the quality and structure of existing code without changing its behavior. The goal of refactoring is to make code more readable, maintainable, and efficient, while also reducing technical debt and improving overall software design.
+
+Refactoring involves making a series of small, incremental changes to code, rather than rewriting entire sections of the code all at once. Examples of refactoring techniques include renaming variables and methods to make their purpose clearer, breaking down large functions into smaller, more focused ones, simplifying complex logic and conditionals, and eliminating code duplication.
+
+Refactoring is often used in Agile software development methodologies, where it is performed regularly throughout the development process to improve the quality and maintainability of the codebase. In Agile, refactoring is seen as a continuous process that is performed alongside development and testing, rather than a separate phase of the software development lifecycle.
+
+There are several benefits to refactoring, including:
+
+Improved code quality: Refactoring helps to improve the readability, maintainability, and efficiency of code, making it easier to understand and work with.
+
+Reduced technical debt: By improving the quality of the codebase, refactoring helps to reduce technical debt, which is the cost of maintaining and fixing poorly written or designed code.
+
+Better software design: Refactoring can help to identify and eliminate design flaws in the code, leading to a more robust and scalable software architecture.
+
+Increased productivity: By making the codebase easier to work with, refactoring can increase developer productivity and reduce the time needed to add new features or fix bugs.
+
+Overall, refactoring is an important technique for improving the quality and maintainability of software code, and is a key part of Agile software development methodologies.
+
+<br><img src=https://wp.qtm4j.com/wp-content/uploads/2021/12/img_test_first_approach.jpg width="600px"></br>
 
 ## 3: Test-First Development
+Test-First Development is an approach to writing software that involves writing a unit test for a function before writing the function. Test-First Development (TFD) is a software development approach that involves writing unit tests before writing any code. This process ensures that unit tests are written, leading to higher-quality, robust code, with fewer bugs. TFD offers several benefits, some of which are:
+
+1. Improved code quality: TFD helps to improve the quality of code by enforcing rigorous testing and forcing the programmer to clarify the function specification. Writing tests first helps the programmer to practice specification-based testing, leading to code that meets the requirements and has fewer bugs.
+
+2. Reduced debugging time: TFD reduces debugging time as programmers get instant feedback on whether the function is working or not. If the function fails to pass the test, the benefits of unit testing in helping the programmer to quickly diagnose and fix the problem are instantly available. The test-debug cycle is rapid.
+
+3. Faster development time: TFD helps to reduce overall development time as the programmer writes more code (the unit tests) which speeds up the overall development process. The existing unit tests also serve as a safety net when modifying an existing function for which unit tests already exist.
+
+4. Improved psychological benefits: TFD offers psychological benefits to programmers as they work on the project, creating little tests and then writing code that passes those tests, leading to a sense of accomplishment and satisfaction every time a new test passes. This process leads to more visible and regular successes, reducing the hours of frustration debugging a new function in the context of a complex program, with few visible results.
+
+In summary, TFD is an effective approach to software development that offers several benefits to programmers and organizations alike. By enforcing rigorous testing, clarifying function specification, reducing debugging time, improving code quality, reducing overall development time, and offering psychological benefits, TFD helps to ensure that software is of high quality and meets the requirements of end-users or customers.
+
+<br><img src=https://railsware.com/blog/wp-content/uploads/2021/11/pair-programming-1024x538.jpg width="600px"></br>
 
 ## 4: Pair Programming
+Pair programming is a software development technique where two programmers collaborate and work together at a single workstation. The process involves two roles: the driver, who is responsible for writing code, and the observer or navigator, who reviews each line of code as it is typed in. The two programmers frequently switch roles to maintain an equal share of work and knowledge.
 
+The observer plays a crucial role in the pair programming process. Along with reviewing the code, the observer also considers the "strategic" direction of the work, offering ideas for improvements and identifying potential future problems to address. This frees the driver to focus solely on the "tactical" aspects of completing the current task while using the observer as a safety net and guide.
+
+Pair programming has become a popular practice in software development due to its ability to improve code quality, reduce errors and bugs, and enhance communication between team members. It also fosters a collaborative and supportive work environment, leading to increased job satisfaction and team cohesion. By combining the strengths and knowledge of two programmers, pair programming helps to produce high-quality code and improve overall project outcomes.
 
 # AGILE PROJECT MANAGEMENT
 ## Agile Project Management
