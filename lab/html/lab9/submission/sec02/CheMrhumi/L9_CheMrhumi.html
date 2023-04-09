@@ -19,12 +19,28 @@
     <h1 style="text-align: center; color: blue; font-family: Verdana, Geneva, Tahoma, sans-serif;" ><b>Medical Form</b></h1>
 
     <form action="action_page.php">
-        <fieldset style="color: blue; margin: auto;">
+        <fieldset style="border-color: blue; margin: auto;">
+        <fieldset>
+            <legend>Personal Information </legend>
+
+            <table style="width: 80%; border: 1px solid black;">
+                <tr>
+                    <td>First Name</td>
+                    <td><input type="text"></td>
+                    <td>Gender</td>
+                    <td>
+                        <input type="radio" id="Female">
+                        <label for="Female">Female</label>
+                        <input type="radio" name="" id="Male">
+                        <label for="Male">Male</label>
+                    </td>
+    
+     
+                </tr>
+            </table>
         </fieldset>
-            <fieldset style="color: black;">
-            <legend>Personal Information</legend>
+
         </fieldset>
-        
     </form>
     
 </body>
