@@ -19,8 +19,21 @@ Group LimaPuluh
 
 # Module 6: Architectural Design
 
-### Contents:
-#### Notes
+### Supplementary Notes 
+#### Topics
+- Architectural Design and Detailed Design
+- Architectural Design Decision
+- Architectural View
+- Architectural Pattern
+
+
+
+
+
+
+
+
+
 
 
 ## Contribution 🛠️
