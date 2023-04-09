@@ -26,14 +26,17 @@ Group LimaPuluh
 - Architectural View
 - Architectural Pattern
 
+#### Architectural Design and Detailed Design
+<hr>
 
+#### Architectural Design Decision
+<hr>
 
+#### Architectural View
+<hr>
 
-
-
-
-
-
+#### Architectural Pattern
+<hr>
 
 
 ## Contribution 🛠️
