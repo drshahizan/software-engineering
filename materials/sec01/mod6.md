@@ -15,22 +15,12 @@ Group LimaPuluh
 2. Yong Wern Jie A22EC0121
 3. Lee Soon Der A22EC0065
 4. Marcus Joey Sayner A22EC0193
-
 -->
 
 # Module 6: Architectural Design
 
 ### Contents:
 #### Notes
-- [The Importance of Software Engineering](#the-importance-of-software-engineering)
-
-### Others
-- [Software Engineering | Introduction to Software Engineering](https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/)
-
-
-## The Importance of Software Engineering
-
-Software engineering is an essential field of study that deals with the design, development, and maintenance of software applications. It plays a vital role in the development and success of modern technology. Here are some of the reasons why software engineering is important:
 
 
 ## Contribution 🛠️
