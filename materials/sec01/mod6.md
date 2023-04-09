@@ -44,6 +44,13 @@ Group LimaPuluh
 <hr>
 <ul>
   <li>Model-View-Controller</li>
+    <p>Separates an application into three main components: Model, View, and Controller</p>
+        <ul>
+            <li>Model: Data and business logic of the application. Responsible for managing data, processing business logic, and interacting with data sources such as databases, APIs, or external services. The Model is independent of the user interface and communicates with the View and Controller through well-defined interfaces.</li>
+            <li>View: Responsible for rendering the user interface and presenting data to the user. Displays the data from the Model to the user and provides a way for the user to interact with the application. View receives input from the user and communicates it to the Controller for further processing.</li>
+            <li>Controller: Controller acts as an intermediary between the Model and View. It receives input from the View, processes it, updates the Model, and communicates back to the View to update the user interface. Controller also handles user interactions, such as handling user input, validating data, and making decisions about how to update the Model and View.</li>
+        </ul>
+<br>
   <li>Layered</li>
   <li>Repository</li>
   <li>Client-Server</li>
