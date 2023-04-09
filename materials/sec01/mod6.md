@@ -19,8 +19,8 @@ Group LimaPuluh
 
 # Module 6: Architectural Design
 
-### Supplementary Notes 
-#### Topics
+## Supplementary Notes 
+### Topics
 - Architectural Design and Detailed Design
 - Architectural Design Decision
 - Architectural View
@@ -34,9 +34,21 @@ Group LimaPuluh
 
 #### Architectural View
 <hr>
+<ol type="A">
+    <li>4+1 View Model</li>
+    <li></li>
+    <li></li>
+</ol>
 
 #### Architectural Pattern
 <hr>
+<ul>
+  <li>Model-View-Controller</li>
+  <li>Layered</li>
+  <li>Repository</li>
+  <li>Client-Server</li>
+  <li>Pipe and filter</li>
+</ul>
 
 
 ## Contribution 🛠️
