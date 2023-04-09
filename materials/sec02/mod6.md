@@ -46,7 +46,6 @@ Group XXX
 - [Architecture Views](#architecture-views)
 - [4 + 1 View Model of Software Architecture](#4-+-1-view-model-of-software-architecture)
 - [UML Diagrams to Represent Architectural Views (4 + 1 View Model](#UML-diagrams-to-represent-archictectural-views-4-+-1-view-model)
-- [From Design to Implementation](#from-design-to-implementation)
 - [Relationship between Implementation Model and Design Model](#relationship-between-implementation-model-and-design-model)
 - [Relationship between Design Subsystems and Implementation Subsytems](#relationship-between-design-subsytems-and-implementation-subsystems)
 
@@ -65,34 +64,56 @@ Group XXX
 - [Example : Component Diagram for Online Shopping](#example-component-diagram-for-online-shopping)
 
 #### ARCHITECTURAL PATTERN
-- [Architectural Patterns](#architectural-patterns)
-- [Common Architectural Patterns](#common-architectural-patterns)
-- [Model-View-Controller (MVC) Pattern](#model-view-controller-mvc-pattern)
-- [Organization of MVC](#organization-of-MVC)
-- [Web Application Architecture Using MVC](#web-application-architecture-using-MVC)
-- [Example : MVC Architecture Used for a Dashboard](#example-MVC-architecture-used-for-a-dashboard)
-- [Layered Architecture](#layered-architecture)
-- [Layered Architecture Pattern](#layered-architecture-pattern)
-- [Generic Layered Architecture](#generic-layered-architecture)
-- [Example : Architecture of iLearn System](#example-architecture-of-ilearn-system)
-- [Example : Architecture of Mentcare System](#example-layered-of-mentcare-system)
-- [Three and Four Layer Architectures](#three-and-four-layer-architecture)
-- [Example : Partitioned Subsytems in Four Layer Architecture](#example-partitioned-subsytems-in-four-layer-architecture)
-- [Repository Architecture](#repository-architecture)
-- [Repository Pattern](#repository-pattern)
-- [Example : Repository Architecture for an IDE](#example-repository-architecture-for-an-IDE)
-- [Example : Repository Architecture for Language Processing System](#example-repository-architecture-for-language-processing-system)
-- [Client-Server Architecture](#client-server-architecture)
-- [Client-Server Pattern](#client-server-pattern)
-- [Example : Client-Server Architecture for Film Library](#example-client-server-architecture-for-film-library)
-- [Pipe and Filter Architecture](#pipe-and-filter-architecture)
-- [Pipe and Filter Pattern](#pipe-and-filter-pattern)
-- [Example : Pipe and Filter Architecture Used in Payments System](#example-pipe-and-filter-architecture-used-in-payments-system)
-- [Example : Pipe and Filter Used for Compiler Architecture](#example-pipe-and-filter-used-for-compiler-architecture)
-- [Key Points](#key-points)
+- [Module 6: Architectural Design](#module-6-architectural-design)
+    - [Contents:](#contents)
+      - [Notes](#notes)
+      - [ARCHITECTURAL DESIGN AND DETAILED DESIGN](#architectural-design-and-detailed-design)
+      - [ARCHITECTURAL DESIGN DECISION](#architectural-design-decision)
+      - [ARCHITECTURAL VIEW](#architectural-view)
+      - [COMPONENTS DIAGRAM AS AN IMPLEMENTATION VIEW](#components-diagram-as-an-implementation-view)
+      - [ARCHITECTURAL PATTERN](#architectural-pattern)
+- [ARCHITECTURAL DESIGN and Detailed Design](#architectural-design-and-detailed-design-1)
+- [ARCHITECTURAL DESIGN DECISION](#architectural-design-decision-1)
+  - [Architectural Design Decisions](#architectural-design-decisions)
+  - [Architecture Reuse](#architecture-reuse)
+  - [Architecture and System Characteristics (Non-Functional Requirements)](#architecture-and-system-characteristics-non-functional-requirements)
+  - [Architecture View](#architecture-view)
+  - [4 + 1 View Model of Software Architecture](#4--1-view-model-of-software-architecture)
+  - [UML Diagrams to Represent Architectural Views (4 + 1 View Model)](#uml-diagrams-to-represent-architectural-views-4--1-view-model)
+  - [Relationship between Implementation Model and Design Model](#relationship-between-implementation-model-and-design-model)
+  - [Relationship between Design Subsystems and Implementation Subsytems](#relationship-between-design-subsystems-and-implementation-subsytems)
+  - [UML Component Diagram](#uml-component-diagram)
+  - [Types of Interface in Components](#types-of-interface-in-components)
+  - [Architectural Patterns](#architectural-patterns)
+  - [Common Architectural Patterns](#common-architectural-patterns)
+  - [Model-View-Controller (MVC) Pattern](#model-view-controller-mvc-pattern)
+  - [Organization of MVC](#organization-of-mvc)
+  - [Web Application Architecture Using MVC](#web-application-architecture-using-mvc)
+  - [Example : MVC Architecture Used for a Dashboard](#example--mvc-architecture-used-for-a-dashboard)
+  - [Layered Architecture](#layered-architecture)
+  - [Layered Architecture Pattern](#layered-architecture-pattern)
+  - [Generic Layered Architecture](#generic-layered-architecture)
+  - [Example : Architecture of iLearn System](#example--architecture-of-ilearn-system)
+  - [Example : Architecture of Mentcare System](#example--architecture-of-mentcare-system)
+  - [Three and Four Layer Architectures](#three-and-four-layer-architectures)
+  - [Example : Partitioned Subsytems in Four Layer Architecture](#example--partitioned-subsytems-in-four-layer-architecture)
+  - [Repository Architecture](#repository-architecture)
+  - [Repository Pattern](#repository-pattern)
+  - [Example : Repository Architecture for an IDE](#example--repository-architecture-for-an-ide)
+  - [Example : Repository Architecture for Language Processing System](#example--repository-architecture-for-language-processing-system)
+  - [Client-Server Architecture](#client-server-architecture)
+  - [Client-Server Pattern](#client-server-pattern)
+  - [Example : Client-Server Architecture for Film Library](#example--client-server-architecture-for-film-library)
+  - [Pipe and Filter Architecture](#pipe-and-filter-architecture)
+  - [Pipe and Filter Pattern](#pipe-and-filter-pattern)
+  - [Example : Pipe and Filter Architecture Used in Payments System](#example--pipe-and-filter-architecture-used-in-payments-system)
+  - [Example : Pipe and Filter Used for Compiler Architecture](#example--pipe-and-filter-used-for-compiler-architecture)
+  - [Key Points](#key-points)
+  - [Contribution 🛠️](#contribution-️)
 
 # ARCHITECTURAL DESIGN and Detailed Design
 # ARCHITECTURAL DESIGN DECISION 
+
 
 ## Architectural Design Decisions
 
@@ -150,7 +171,84 @@ Interoperability: This refers to the ability of a system to communicate and work
 
 Scalability: This refers to the ability of a system to handle increased workload or users without compromising performance or reliability.
 
+## Architecture View
 
+In software engineering, an architecture view refers to a high-level abstraction or representation of a software system's structure or components. It is a way to organize and understand the system's architecture by breaking it down into smaller, more manageable pieces.
+
+An architecture view typically consists of a set of diagrams, models, and descriptions that provide a comprehensive overview of the system's design and functionality. Each view may focus on a specific aspect of the system, such as the components, modules, interfaces, or deployment architecture.
+
+The purpose of creating architecture views is to facilitate communication and collaboration among stakeholders, including developers, architects, and users. It helps them to understand the system's architecture, identify potential design issues, and make informed decisions about the system's development and maintenance.
+
+Some common types of architecture views include the functional view, which describes the system's functional components and how they interact; the data view, which describes the system's data model and how data is stored and accessed; the deployment view, which describes the system's physical architecture and how components are distributed across hardware and software platforms; and the process view, which describes the system's operational processes and how they are executed.
+
+## 4 + 1 View Model of Software Architecture
+
+The 4 + 1 model of software engineering is a popular architectural model that provides a comprehensive view of software systems. It was proposed by Philippe Kruchten in 1995 and is often used in conjunction with the Rational Unified Process (RUP).
+
+The 4 + 1 model consists of five architectural views or perspectives:
+
+Logical View: This view describes the system's functionality in terms of modules, components, and their interactions. It defines the system's interfaces, abstractions, and relationships between various components.
+
+Development View: This view describes the system's organization in terms of its development and implementation. It defines the development environment, tools, and processes required to build and maintain the system.
+
+Process View: This view describes the system's runtime behavior in terms of its concurrency, synchronization, and communication. It defines the system's operational processes and how they interact with each other.
+
+Physical View: This view describes the system's hardware and software architecture in terms of its deployment and distribution. It defines the system's hardware components, network topology, and software configuration.
+
+Scenarios View: This view describes the system's behavior in response to different scenarios and use cases. It defines the system's external interfaces and how they interact with the system's internal components.
+
+The "plus one" aspect of the 4 + 1 model refers to the use of scenarios as a cross-cutting view that provides a context for understanding the other four views. It helps to validate and verify the system's requirements and functionality by illustrating how the system behaves in different situations.
+
+## UML Diagrams to Represent Architectural Views (4 + 1 View Model)
+
+![] https://www.google.com/url?sa=i&url=https%3A%2F%2Fsoftwareengineering.stackexchange.com%2Fquestions%2F233257%2Fmapping-between-41-architectural-view-model-uml&psig=AOvVaw2_vARC1J26Tuyz2uDV1CVy&ust=1681025287149000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNC7m63hmf4CFQAAAAAdAAAAABAD
+
+The 4 + 1 model does not prescribe a specific set of UML diagrams for each architectural view, but rather suggests a set of views and documentation that can be represented using various UML diagrams. However, here are some examples of UML diagrams that could be used to represent each architectural view:
+
+Logical View:
+Class Diagrams: Shows the classes, interfaces, attributes, and methods that make up the system's logical architecture.
+Package Diagrams: Shows the organization of the system's components into packages and their dependencies.
+Sequence Diagrams: Shows how messages are exchanged between objects and the sequence of actions that take place during a use case.
+Development View:
+Component Diagrams: Shows the system's components and how they are deployed across different machines or nodes.
+Deployment Diagrams: Shows the physical architecture of the system and the hardware and software components used.
+Package Diagrams: Shows the organization of the system's components into packages and their dependencies.
+Process View:
+Activity Diagrams: Shows the system's processes and how they are executed.
+State Machine Diagrams: Shows the system's states and the events that trigger state transitions.
+Interaction Diagrams: Shows how different components and processes interact with each other.
+Physical View:
+Deployment Diagrams: Shows the physical architecture of the system and the hardware and software components used.
+Component Diagrams: Shows the system's components and how they are deployed across different machines or nodes.
+Package Diagrams: Shows the organization of the system's components into packages and their dependencies.
+Scenarios View:
+Use Case Diagrams: Shows the system's use cases and the actors that interact with them.
+Activity Diagrams: Shows the flow of actions and decisions during a use case scenario.
+Sequence Diagrams: Shows how messages are exchanged between objects and the sequence of actions that take place during a use case.
+
+## Relationship between Implementation Model and Design Model
+
+The implementation model and design model are closely related as the implementation model is derived from the design model. The design model defines the architecture of the system, which includes the structure, behavior, and interactions between its components. The implementation model, on the other hand, is the actual implementation of the design model in code.
+
+The design model specifies the high-level details of the system's architecture, including its components, modules, interfaces, and interactions. It also defines the relationships between these components and the overall structure of the system. The implementation model, however, provides the low-level details of how the system is actually built and implemented in code. This includes the actual implementation of the components, modules, and interfaces, as well as the code that defines the interactions between them.
+
+In other words, the design model specifies what needs to be done, while the implementation model specifies how it will be done. The implementation model is a detailed version of the design model that is used by developers to actually implement the system. The implementation model is typically created after the design model has been finalized and approved, and it is used as a blueprint for writing the actual code.
+
+The implementation model may also inform changes to the design model. During implementation, developers may encounter issues or constraints that were not apparent in the design phase. These issues may require changes to the design model to ensure that the system can be implemented effectively. As such, the design model and the implementation model are closely related and may evolve together throughout the development process.
+
+## Relationship between Design Subsystems and Implementation Subsytems
+
+Design subsystems and implementation subsystems are closely related, as the design subsystems define the high-level structure and behavior of the system, while the implementation subsystems specify the actual components and modules that make up the system.
+
+The design subsystems represent the logical grouping of related functionality within the system. They are typically defined based on the functional and non-functional requirements of the system, and they describe how the system should behave and what it should do. The design subsystems also specify the interfaces between the subsystems and how they interact with each other.
+
+The implementation subsystems, on the other hand, represent the actual components and modules that are used to implement the system. They are typically defined based on the design subsystems, and they describe the physical structure of the system. The implementation subsystems specify the actual code, libraries, frameworks, and other components that are used to implement the functionality specified by the design subsystems.
+
+In other words, the design subsystems define the "what" of the system, while the implementation subsystems define the "how." The design subsystems provide a high-level view of the system's structure and behavior, while the implementation subsystems provide a more detailed view of how the system is actually implemented.
+
+During the implementation phase, developers typically start with the design subsystems and use them as a guide to create the implementation subsystems. They may also make adjustments to the design subsystems as they implement the system, based on practical considerations and technical constraints.
+
+Overall, the relationship between design subsystems and implementation subsystems is one of translation and refinement. The design subsystems provide a high-level blueprint for the system, which is refined and translated into the actual code and components used to implement the system.
 
 ## UML Component Diagram
 

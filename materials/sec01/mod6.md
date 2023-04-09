@@ -15,22 +15,47 @@ Group LimaPuluh
 2. Yong Wern Jie A22EC0121
 3. Lee Soon Der A22EC0065
 4. Marcus Joey Sayner A22EC0193
-
 -->
 
 # Module 6: Architectural Design
 
-### Contents:
-#### Notes
-- [The Importance of Software Engineering](#the-importance-of-software-engineering)
+## Supplementary Notes 
+### Topics
+- Architectural Design and Detailed Design
+- Architectural Design Decision
+- Architectural View
+- Architectural Pattern
 
-### Others
-- [Software Engineering | Introduction to Software Engineering](https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/)
+#### Architectural Design and Detailed Design
+<hr>
 
+#### Architectural Design Decision
+<hr>
 
-## The Importance of Software Engineering
+#### Architectural View
+<hr>
+<ol type="A">
+    <li>4+1 View Model</li>
+    <li></li>
+    <li></li>
+</ol>
 
-Software engineering is an essential field of study that deals with the design, development, and maintenance of software applications. It plays a vital role in the development and success of modern technology. Here are some of the reasons why software engineering is important:
+#### Architectural Pattern
+<hr>
+<ul>
+  <li>Model-View-Controller</li>
+    <p>Separates an application into three main components: Model, View, and Controller</p>
+        <ul>
+            <li>Model: Data and business logic of the application. Responsible for managing data, processing business logic, and interacting with data sources such as databases, APIs, or external services. The Model is independent of the user interface and communicates with the View and Controller through well-defined interfaces.</li>
+            <li>View: Responsible for rendering the user interface and presenting data to the user. Displays the data from the Model to the user and provides a way for the user to interact with the application. View receives input from the user and communicates it to the Controller for further processing.</li>
+            <li>Controller: Controller acts as an intermediary between the Model and View. It receives input from the View, processes it, updates the Model, and communicates back to the View to update the user interface. Controller also handles user interactions, such as handling user input, validating data, and making decisions about how to update the Model and View.</li>
+        </ul>
+<br>
+  <li>Layered</li>
+  <li>Repository</li>
+  <li>Client-Server</li>
+  <li>Pipe and filter</li>
+</ul>
 
 
 ## Contribution 🛠️
