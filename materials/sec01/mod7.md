@@ -8,7 +8,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 
-Module 7: XXX
+Module 7: Object-Oriented Detailed Design
 
 Group Four Peas in Pod
 1. Bernice Lim Jing Xuan , A22EC0038
@@ -18,7 +18,15 @@ Group Four Peas in Pod
 
 
 
-# Module 1: Introduction to Software Engineering 
+# Module 7: Object-Oriented Detailed Design 
+
+## Objectives:
+<ul type=bullet>
+  <li>To understand the relationship among analysis, design and implementation</li>
+  <li>To comprehend object-oriented design principles</li>
+  <li>To further understand object-oriented design using UML</li>
+  <li>To elaborate the related diagrams from analysis in design phase in use case realization</li>
+</ul>
 
 ### Contents:
 #### Notes

@@ -1,0 +1,100 @@
+<html>
+<!--
+        Name: NG SHU YU
+        Matrix No: A22EC0228
+        Github id: ShuYu03
+
+        Lab 3: HTML Forms
+    -->
+
+<head>
+    <title>Medical Form</title>
+</head>
+
+<body>
+    <header>
+        <h1 style="text-align: center; font-family: Verdana; color: blue; ">Medical Form</h1>
+    </header>
+    <form action="/action_page.php">
+        <fieldset>
+            <legend>Personal Information</legend>
+            <table border=1px height="150">
+                <tr>
+                    <td>
+                        <label for="first">First Name</label>
+                    </td>
+                    <td>
+                        <input type="text" id="first" name="first" value="" required>
+                    </td>
+                    <td>
+                        <label for="gender">Gender</label>
+                    </td>
+                    <td>
+                        <input type="radio" id="female" name="gender" value="" required>
+                        <label for="female">Female</label>
+                        <input type="radio" id="male" name="gender" value="" required>
+                        <label for="male">Male</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="last">Last Name</label>
+                    </td>
+                    <td>
+                        <input type="text" id="last" name="last" value="" required>
+                    </td>
+                    <td>
+                        <label for="nationality">Nationality</label>
+                    </td>
+                    <td>
+                        <select id="nationality" name="nationality" required>
+                            <option value="Canadian">Canadian</option>
+                            <option value="Italian">Italian</option>
+                            <option value="Australian">Australian</option>
+                            <option value="Malaysian">Malaysian</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr height="100">
+                    <td>
+                        <label for="address">Address</label>
+                    </td>
+                    <td colspan="3">
+                        <textarea id="address" name="address" style="width: 220px; height: 100px;" required></textarea>
+                    </td>
+                </tr>
+            </table>
+        </fieldset>
+
+        <fieldset>
+            <legend>Medical History</legend>
+
+            <input type="checkbox" id="Smallpox" name="Smallpox" value="">
+            <label for="Smallpox">Smallpox</label>
+            <input type="checkbox" id="Mumps" name="Mumps" value="">
+            <label for="Mumps">Mumps</label>
+            <input type="checkbox" id="Dizziness" name="Dizziness" value="">
+            <label for="Dizziness">Dizziness</label>
+            <input type="checkbox" id="Sneezing" name="Sneezing" value="">
+            <label for="Sneezing">Sneezing</label>
+        </fieldset>
+
+        <fieldset>
+            <legend>Current Medication</legend>
+            <label for="current">Are you currently taking any medication?</label>
+            <input type="radio" id="Yes" name="current" value="" required>
+            <label for="Yes">Yes</label>
+            <input type="radio" id="No" name="current" value="" required>
+            <label for="No">No</label>
+            <br>
+            <label for="indicate">If you are currently taking medication, please indicate it in the space
+                below:</label><br>
+            <textarea id="indicate" name="indicate" style="width: 800px; height: 180px;"></textarea>
+        </fieldset>
+        <br>
+        <input type="submit">
+        <input type="reset">
+    </form>
+</body>
+
+</html>
