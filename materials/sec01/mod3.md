@@ -275,6 +275,8 @@ User stories are typically written on index cards or sticky notes and are arrang
 
 By using user stories, development teams can ensure that they are focused on delivering features and functionality that meet the needs of the end-user or customer, and can prioritize their work based on the value that each user story delivers. This helps to ensure that the development process is aligned with the goals of the business or organization and that the resulting software is of high quality and provides value to the end-users.
 
+<br><img src=https://lvivity.com/wp-content/uploads/2020/09/refactoring-process-1536x534.png width="600px"></br>
+
 ## 2: Refactoring
 Refactoring is a software development technique that involves improving the quality and structure of existing code without changing its behavior. The goal of refactoring is to make code more readable, maintainable, and efficient, while also reducing technical debt and improving overall software design.
 
@@ -294,6 +296,8 @@ Increased productivity: By making the codebase easier to work with, refactoring 
 
 Overall, refactoring is an important technique for improving the quality and maintainability of software code, and is a key part of Agile software development methodologies.
 
+<br><img src=https://wp.qtm4j.com/wp-content/uploads/2021/12/img_test_first_approach.jpg width="600px"></br>
+
 ## 3: Test-First Development
 Test-First Development is an approach to writing software that involves writing a unit test for a function before writing the function. Test-First Development (TFD) is a software development approach that involves writing unit tests before writing any code. This process ensures that unit tests are written, leading to higher-quality, robust code, with fewer bugs. TFD offers several benefits, some of which are:
 
@@ -307,8 +311,14 @@ Test-First Development is an approach to writing software that involves writing 
 
 In summary, TFD is an effective approach to software development that offers several benefits to programmers and organizations alike. By enforcing rigorous testing, clarifying function specification, reducing debugging time, improving code quality, reducing overall development time, and offering psychological benefits, TFD helps to ensure that software is of high quality and meets the requirements of end-users or customers.
 
-## 4: Pair Programming
+<br><img src=https://railsware.com/blog/wp-content/uploads/2021/11/pair-programming-1024x538.jpg width="600px"></br>
 
+## 4: Pair Programming
+Pair programming is a software development technique where two programmers collaborate and work together at a single workstation. The process involves two roles: the driver, who is responsible for writing code, and the observer or navigator, who reviews each line of code as it is typed in. The two programmers frequently switch roles to maintain an equal share of work and knowledge.
+
+The observer plays a crucial role in the pair programming process. Along with reviewing the code, the observer also considers the "strategic" direction of the work, offering ideas for improvements and identifying potential future problems to address. This frees the driver to focus solely on the "tactical" aspects of completing the current task while using the observer as a safety net and guide.
+
+Pair programming has become a popular practice in software development due to its ability to improve code quality, reduce errors and bugs, and enhance communication between team members. It also fosters a collaborative and supportive work environment, leading to increased job satisfaction and team cohesion. By combining the strengths and knowledge of two programmers, pair programming helps to produce high-quality code and improve overall project outcomes.
 
 # AGILE PROJECT MANAGEMENT
 ## Agile Project Management
