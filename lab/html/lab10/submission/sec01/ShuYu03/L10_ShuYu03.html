@@ -225,7 +225,7 @@
                 </tr>
                 <tr>
                     <td>
-                        <label for="BM"><i>B. Melayu</i></label>
+                        <label for="BM">B. Melayu</label>
                     </td>
                     <td>
                         <input type="checkbox" id="Reading" name="BM" value="Reading">
@@ -239,7 +239,7 @@
                 </tr>  
                 <tr>
                     <td>
-                        <label for="English"><i>English</i></label>
+                        <label for="English"></label>English</label>
                     </td>
                     <td>
                         <input type="checkbox" id="Reading" name="English" value="Reading">
@@ -258,16 +258,16 @@
             <legend>Identification Details</legend>
             <table width=100% height="100">
                 <tr>
-                    <td width="18%">
+                    <td width="11%">
                         <label for="IC">Identity Card Number</label>
                     </td>
-                    <td width="22%">
+                    <td width="30%">
                         <input type="text" size="30" id="IC" name="IC" value="" required>
                     </td>
-                    <td width="16%">
+                    <td width="9%">
                         <label for="Passport">Passport Number</label>
                     </td>
-                    <td width="44%">
+                    <td width="52%">
                         <input type="text" size="30" id="Passport" name="Passport" value="" required>
                     </td>
                 </tr>
@@ -276,15 +276,21 @@
                         <label for="Photo">Upload Photo</label>
                     </td>
                     <td>
-                        <input type="text" size="30" id="IC" name="IC" value="" required>
+                        <input type="file" id="Photo" name="Photo" required>
                     </td>
                     <td>
                         <label for="Signature">Upload Signature</label>
                     </td>
                     <td>
-                        <input type="text" size="30" id="Passport" name="Passport" value="" required>
+                        <input type="file" id="Photo" name="Photo" required>
                     </td>
                 </tr>
+            </table>
+        </fieldset>
+        <div align="center">
+            <input type="submit">
+            <button onclick="history.back()">Back</button>
+        </div>
     </form>
 </body>
 
