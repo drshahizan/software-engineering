@@ -43,6 +43,9 @@ Group Four Peas in Pod
   <li>
     Implementation is the process of writing the code, integrating the modules, and testing the software. It involves translating the design into actual code and making sure that the software is functioning as expected. This phase requires technical expertise and attention to detail. The output of this phase is the final software product, which can then be deployed and used by the end-users.
   </li>
+  <li>
+    In summary, analysis defines the requirements of the software, design creates the solution to meet those requirements, and implementation makes the solution a reality by writing the actual code. All three phases are interdependent and require careful planning and execution to ensure the success of the software development project.
+  </li>
 </ul>
 
 
