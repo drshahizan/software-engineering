@@ -1,0 +1,22 @@
+<html>
+    <head>
+     <!--
+    Name:Bernice Lim Jing Xuan
+    Matrix No:A22EC0038
+    Github id:BerniceLimJX
+
+    Lab 2: Troubleshooting HTML
+    -->
+    <title>
+        Greatest Tabloid Headlines     
+    </title>
+    </head>
+    <body>
+    <h2>Greatest Tabloid Headlines</h2>    
+    <p><strong>FORD TO CITY:DROP DEAD</strong> (<em>Daily News</em>, 1975)</p>
+    <p><strong>KISS YOUR ASTEROID GOODBYE!</strong>(Meteor misses earth; <em>Post</em>, 1998)</p>
+    <p>SOMOZA SLAIN BY BAZOOKA(<em>News</em>, 1980)</p>
+    <p><a href="www.capitalnewyork.com/article/media/2012/01/5137028/real-story-headless-body-topless-bar-argued-veterans-post"><strong>HEADLESS BODY IN TOPLESS BAR</strong> (<em>New York Post<em>, 1982)</p>
+    <p><strong>&#226&#8364&#8764I AM DEATH WISH VIGILANTE&#226&#8364&#8482(Bernie Goetz turns himself in;<em>Post</em>, 1985)</strong></p>
+    </body>
+</html>
