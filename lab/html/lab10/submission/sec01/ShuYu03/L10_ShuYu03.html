@@ -1,0 +1,291 @@
+<html>
+<!--
+        Name: NG SHU YU
+        Matrix No: A22EC0228
+        Github id: ShuYu03
+
+        Lab 10: HTML Forms
+    -->
+
+<head>
+    <title>Application Form</title>
+</head>
+
+<body>
+    <header>
+        <h1 style="text-align: center;">Web Programming:Application Form</h1>
+    </header>
+    <form action="/action_page.php">
+        <fieldset>
+            <legend>Personal Details</legend>
+            <table width=100% height="150">
+                <tr>
+                    <td width="12%">
+                        <label for="Name">Name</label>
+                    </td>
+                    <td width="55%">
+                        <select id="title" name="title" required>
+                            <option value="select">--Select--</option>
+                            <option value="Mr">Mr</option>
+                            <option value="Mrs">Mrs</option>
+                            <option value="Miss">Miss</option>
+                            <option value="Ms">Ms</option>
+                        </select>
+                        <input type="text" size="60" id="Name" name="Name" value="" required>
+                    </td>
+                    <td width="11%"></td>
+                    <td width="22%"></td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="Gender">Gender</label>
+                    </td>
+                    <td>
+                        <label for="Male">Male</label>
+                        <input type="radio" id="Male" name="Gender" value="" required>
+                        <label for="Female">Female</label>
+                        <input type="radio" id="Female" name="Gender" value="" required>
+                    </td>
+                    <td>
+                        <label for="date">Date of Birth</label>
+                    </td>
+                    <td>
+                        <input type="date" id="date" name="date" value="" required>
+                    </td>   
+                </tr>
+                <tr>
+                    <td>
+                        <label for="Marital">Marital Status</label>
+                    </td>
+                    <td>
+                        <select id="Marital" name="Marital" required>
+                            <option value="select">--Select--</option>
+                            <option value="Married">Married</option>
+                            <option value="Divorced">Divorced</option>
+                            <option value="Never married">Never Married</option>
+                        </select>
+                    </td>    
+                    <td>
+                        <label for="Religion">Religion</label>
+                    </td>
+                    <td>
+                        <select id="Religion" name="Religion" required>
+                            <option value="select">--Select--</option>
+                            <option value="Muslim">Muslim</option>
+                            <option value="Buddhist">Buddhist</option>
+                            <option value="Christian">Christian</option>
+                            <option value="Hindu">Hindu</option>
+                            <option value="Other">Other</option>
+                        </select>
+                    </td> 
+                </tr>
+            </table>
+        </fieldset>
+
+        <fieldset>
+            <legend>Contact Details</legend>
+            <table width=100% height="150">
+                <tr>
+                    <td width="25%">
+                        <label for="Phone">Phone</label>
+                    </td>
+                    <td width="25%">
+                        <input type="tel" size="30" id="Phone" name="Phone" value="" required>
+                    </td>
+                    <td width="25%">
+                        <label for="email">E-mail</label>
+                    </td>
+                    <td width="25%">
+                        <input type="email" size="30" id="email" name="email" value="" required>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="address1">Address Line 1</label>
+                    </td>
+                    <td>
+                        <input type="text" size="30" id="address1" name="address1" value="" required>
+                    </td>
+                    <td>
+                        <label for="address2">Address Line 2</label>
+                    </td>
+                    <td>
+                        <input type="text" size="30" id="address2" name="address2" value="" required>
+                    </td>
+                </tr> 
+                <tr>
+                    <td>
+                        <label for="City">City</label>
+                    </td>
+                    <td>
+                        <input type="text" size="30" id="City" name="City" value="" required>
+                    </td>
+                    <td>
+                        <label for="State">State</label>
+                    </td>
+                    <td>
+                        <select id="State" name="State" required>
+                            <option value="select">--Select--</option>
+                            <option value="Johor">Johor</option>
+                            <option value="Seremban">Seremban</option>
+                            <option value="Melaka">Christian</option>
+                            <option value="Selangor">Selangor</option>
+                            <option value="Pahang">Pahang</option>
+                        </select>
+                    </td>
+                </tr>
+            </table>
+        </fieldset>
+
+        <fieldset>
+            <legend>Qualification Details</legend>
+            <table width=100% height="150">
+                <tr style="text-align: left">
+                    <th width="5%">
+                        <label for="No">No.</label>
+                    </th>
+                    <th width="15%">
+                        <label for="Qualification">Qualification</label>
+                    </th>
+                    <th width="60%">
+                        <label for="University">University</label>
+                    </th>
+                    <th width="10%">
+                        <label for="Passing Year">Passing Year</label>
+                    </th>
+                    <th width="10%">
+                        <label for="CGPA">CGPA</label>
+                    </th>
+                </tr>
+                <tr>
+                    <td>1.</td>
+                    <td>
+                        <select id="Qualification" name="Qualification" required>
+                            <option value="select">--Select--</option>
+                            <option value="SPM">SPM</option>
+                            <option value="STPM">STPM</option>
+                            <option value="Diploma">Diploma</option>
+                            <option value="Bachelor degree">Bachelor degree</option>
+                            <option value="Master degree">Master degree</option>
+                            <option value="Doctoral degree">Doctoral degree</option>
+                        </select>
+                    </td>
+                    <td>
+                        <input type="text" size="70" id="University" name="University" value="" required>
+                    </td>
+                    <td>
+                        <input type="text" size="5" id="Passing Year" name="Passing Year" value="" required>
+                    </td>
+                    <td>
+                        <input type="text" size="5" id="CGPA" name="CGPA" value="" required>
+                    </td>
+                </tr>
+                <tr>
+                    <td>2.</td>
+                    <td>
+                        <select id="Qualification" name="Qualification" required>
+                            <option value="select">--Select--</option>
+                            <option value="SPM">SPM</option>
+                            <option value="STPM">STPM</option>
+                            <option value="Diploma">Diploma</option>
+                            <option value="Bachelor degree">Bachelor degree</option>
+                            <option value="Master degree">Master degree</option>
+                            <option value="Doctoral degree">Doctoral degree</option>
+                        </select>
+                    </td>
+                    <td>
+                        <input type="text" size="70" id="University" name="University" value="" required>
+                    </td>
+                    <td>
+                        <input type="text" size="5" id="Passing Year" name="Passing Year" value="" required>
+                    </td>
+                    <td>
+                        <input type="text" size="5" id="CGPA" name="CGPA" value="" required>
+                    </td>
+                </tr>
+            </table> 
+        </fieldset>
+
+        <fieldset>
+            <legend>Language Knowledge</legend>
+            <table width=100% height="100">
+                <tr style="text-align: left">
+                    <th width="35%">
+                        <label for="Language"><i>Language</i></label>
+                    </th>
+                    <td width="20%">
+                        <label for="Reading"><i>Reading</i></label>
+                    </td>
+                    <td width="20%">
+                        <label for="Writing"><i>Writing</i></label>
+                    </td>
+                    <td width="25%">
+                        <label for="Speaking"><i>Speaking</i></label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="BM"><i>B. Melayu</i></label>
+                    </td>
+                    <td>
+                        <input type="checkbox" id="Reading" name="BM" value="Reading">
+                    </td>
+                    <td>
+                        <input type="checkbox" id="Writing" name="BM" value="Writing">
+                    </td>
+                    <td>
+                        <input type="checkbox" id="Speaking" name="BM" value="Speaking">
+                    </td>
+                </tr>  
+                <tr>
+                    <td>
+                        <label for="English"><i>English</i></label>
+                    </td>
+                    <td>
+                        <input type="checkbox" id="Reading" name="English" value="Reading">
+                    </td>
+                    <td>
+                        <input type="checkbox" id="Writing" name="English" value="Writing">
+                    </td>
+                    <td>
+                        <input type="checkbox" id="Speaking" name="English" value="Speaking">
+                    </td>
+                </tr>  
+            </table>
+        </fieldset>
+
+        <fieldset>
+            <legend>Identification Details</legend>
+            <table width=100% height="100">
+                <tr>
+                    <td width="18%">
+                        <label for="IC">Identity Card Number</label>
+                    </td>
+                    <td width="22%">
+                        <input type="text" size="30" id="IC" name="IC" value="" required>
+                    </td>
+                    <td width="16%">
+                        <label for="Passport">Passport Number</label>
+                    </td>
+                    <td width="44%">
+                        <input type="text" size="30" id="Passport" name="Passport" value="" required>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="Photo">Upload Photo</label>
+                    </td>
+                    <td>
+                        <input type="text" size="30" id="IC" name="IC" value="" required>
+                    </td>
+                    <td>
+                        <label for="Signature">Upload Signature</label>
+                    </td>
+                    <td>
+                        <input type="text" size="30" id="Passport" name="Passport" value="" required>
+                    </td>
+                </tr>
+    </form>
+</body>
+
+</html>
