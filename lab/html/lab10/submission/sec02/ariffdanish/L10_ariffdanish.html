@@ -14,12 +14,12 @@
     <h1 style="text-align: center;"><b>Web Programming : Application Form</b></h1>
     <form>
         
-        <fieldset style="border: 1px solid black; width: 1400px;">
+        <fieldset style="border: 1px solid black; width: 1450px; margin: auto;">
             <legend>Personal Details</legend>
                 <table style="width: 100%;">
-                    <tr style="height : 30px">
+                    <tr style="height : 45px">
                         <td style="width: 15%;"><label>Name</label></td>
-                        <td style="width: 30%;">
+                        <td style="width: 50%;">
                             <select id="Name" name="name">
                                 <option value="--Select--">--Select--</option>
                                 <option value="Mr.">Mr.</option>
@@ -28,7 +28,7 @@
                             <input type="text" id="Name" name="name" size="40">
                         </td>
                     </tr>
-                    <tr style="height : 30px">
+                    <tr style="height : 45px">
                         <td style="width: 15%;"><label>Gender</label></td>
                         <td>
                             <label for="male">Male</label>
@@ -42,7 +42,7 @@
                         <td style="width: 15%;">Date of Birth</td>
                         <td><input type="date"></td>
                     </tr>
-                    <tr style="height : 30px">
+                    <tr style="height : 45px">
                         <td style="width: 15%"><label>Marital Status</label></td>
                         <td>
                             <select id="marital" name="maritul1">
@@ -69,7 +69,51 @@
                 </table>
         </fieldset>
 
-
+        <fieldset style="border:solid 1px black;width: 1450px; margin: auto;">
+            <legend>Contact Details</legend>
+                <table style="width:100%">
+                    <tr style="height : 45px">
+                        <td style="width:15%"><label for="phone">Phone</label></td>
+                        <td style="width:15%"><input type="text" id="phone" maxlength="11"></td>
+                        <td style="width:15%"></td>
+                        <td style="width:15%"><label for="email">Email</label></td>
+                        <td style="width:15%"><input type="email" id="email"></td>
+                    </tr>
+                    <tr style="height : 45px">
+                        <td style="width:15%"><label for="address1">Address Line 1</label></td>
+                        <td style="width:15%"><input type="text" id="address1"></td>
+                        <td style="width:15%"></td>
+                        <td style="width:15%"><label for="address2">Address Line 2</label></td>
+                        <td style="width:15%"><input type="text" id="address2"></td>
+                    </tr>
+                    <tr style="height : 45px">
+                        <td style="width:15%"><label for="city">City</label></td>
+                        <td style="width:15%"><input type="text" id="city"></td>
+                        <td style="width:15%"></td>
+                        <td style="width:15%"><label for="state">State</label></td>
+                        <td style="width:15%">
+                            <select id="state" name="state">
+                                <option value="--Select--">--Select--</option>
+                                <option value="select">--Select--</option>
+                                <option value="perlis">Perlis</option>
+                                <option value="kelantan">Kelantan</option>
+                                <option value="perak">Perak</option>
+                                <option value="pahang">Pahang</option>
+                                <option value="terengganu">Terengganu</option>
+                                <option value="selangor">Selangor</option>
+                                <option value="negeri9">Negeri Sembilan</option>
+                                <option value="melaka">Melaka</option>
+                                <option value="johor">Johor</option>
+                                <option value="sabah">Sabah</option>
+                                <option value="sarawak">Sarawak</option>
+                                <option value="kl">Kuala Lumpur</option>
+                                <option value="labuan">Labuan</option>
+                                <option value="putrajaya">Putrajaya</option>
+                            </select>
+                        </td>
+                    </tr>
+                </table>
+        </fieldset>
     </form>
 </body>
 
