@@ -13,10 +13,11 @@
 <body>
     <h1 style="text-align: center;"><b>Web Programming : Application Form</b></h1>
     <form>
+        
         <fieldset style="border: 1px solid black; width: 1400px;">
             <legend>Personal Details</legend>
                 <table style="width: 100%;">
-                    <tr>
+                    <tr style="height : 30px">
                         <td style="width: 15%;"><label>Name</label></td>
                         <td style="width: 30%;">
                             <select id="Name" name="name">
@@ -24,9 +25,51 @@
                                 <option value="Mr.">Mr.</option>
                                 <option value="Ms.">Ms.</option>
                             </select>
+                            <input type="text" id="Name" name="name" size="40">
                         </td>
                     </tr>
+                    <tr style="height : 30px">
+                        <td style="width: 15%;"><label>Gender</label></td>
+                        <td>
+                            <label for="male">Male</label>
+                            <input type="radio" value="male">
+                            <label for="female">Female</label>
+                            <input type="radio" value="female">
+                        </td>
+                      
+                        <td></td>
+
+                        <td style="width: 15%;">Date of Birth</td>
+                        <td><input type="date"></td>
+                    </tr>
+                    <tr style="height : 30px">
+                        <td style="width: 15%"><label>Marital Status</label></td>
+                        <td>
+                            <select id="marital" name="maritul1">
+                                <option value="select">--Select--</option>
+                                <option value="married">Married</option>
+                                <option value="single">Single</option>
+                                <option value="widow">Widow</option>
+                            </select>
+                        </td>
+
+                        <td></td>
+
+                        <td style="width : 15%"><label>Religion</label></td>
+                        <td>
+                            <select id="Name" name="name">
+                                <option value="--Select--">--Select--</option>
+                                <option value="Islam">Islam</option>
+                                <option value="Buddha">Buddha</option>
+                                <option value="Christian">Christian</option>
+                                <option value="Other">Other</option>
+                            </select>
+                        </td>
+                    </tr>
+                </table>
         </fieldset>
+
+
     </form>
 </body>
 
