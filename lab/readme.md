@@ -7,6 +7,10 @@
 
 Don't forget to hit the :star: if you like this repo.
 
+# Lab Submission - HTML
+- [Section 01]
+- [Section 02](https://docs.google.com/spreadsheets/d/1CXVsz0EJqPTc0nS7GggXjWV8f3SXR0l_kG_dLg1IO5M/edit#gid=1217701197)
+
 # Lab Exercise
 
 ## Hypertext Markup Language (HTML)
