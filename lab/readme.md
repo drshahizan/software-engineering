@@ -8,7 +8,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Lab Submission - HTML
-- [Section 01]
+- [Section 01](https://docs.google.com/spreadsheets/d/1iVamYLFglM-v4twd29Qi4-z1N5RqPQ5FpucFI0Qv-wI/edit#gid=1161167578)
 - [Section 02](https://docs.google.com/spreadsheets/d/1CXVsz0EJqPTc0nS7GggXjWV8f3SXR0l_kG_dLg1IO5M/edit#gid=1217701197)
 
 # Lab Exercise
