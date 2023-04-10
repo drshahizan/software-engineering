@@ -1,1 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Medical Form</title>
+	<!--
+	Name: Koh Su Xuan
+	Matrix No: A22EC0060
+	Github id: kohxuan
 
+	Lab 9: HTML Forms
+	-->
+    <style>
+        table,
+        th,
+        td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+		<form action="process.php" >
+			<h1 align="center" style="font-family: Verdana; color:blue"><strong>Medical Form</strong></h1>
+			<div style="border:2px solid blue; padding:10px; margin-left:250px; margin-right:250px">
+			<fieldset style="width:80%">
+				<legend>Personal Information</legend>
+                <table align="left" style="table-layout:auto;">
+                <tr>
+				<td><label for="fname">First Name</label></td>
+				<td><input type="text" id="fname" name="fname" required></td>
+
+				<td><label for="gender">Gender</label></td>
+				<td><input type="radio" id="female" name="gender" value="female" required>
+				<label for="female">Female</label>
+                <input type="radio" id="male" name="gender" value="male" required>
+                <label for="male">Male</label>
+                </td>
+
+                </tr>
+				<tr>
+				<td><label for="lname">Last Name</label></td>
+				<td><input type="text" id="lname" name="lname" required></td>
+
+				<td><label for="nationality">Nationality</label>
+				<td><select id="nationality" name="nationality" required>
+					<option value="">Canadian</option>
+					<option value="malaysian">Malaysian</option>
+					<option value="singaporian">Singaporian</option>
+					<option value="indonesian">Indonesian</option>
+				</select></td>
+				</tr>
+
+				<tr>
+				<td ><label for="address">Address:</label></td>
+				<td colspan="3"><textarea type="text" id="address" name="address" required  style="height:100px; width:55%"></textarea></td>
+				</tr>
+                </table>
+			</fieldset>
+
+			<fieldset style="width:80%">
+				<legend>Medical History</legend>
+				<input type="checkbox" id="smallpox" name="smallpox" value="smallpox" required>
+				<label for="smallpox">Smallpox</label>
+                <input type="checkbox" id="mumps" name="mumps" value="mumps" required>
+                <label for="mumps">Mumps</label>
+				<input type="checkbox" id="dizziness" name="dizziness" value="dizziness" required>
+				<label for="dizziness">Dizziness</label>
+                <input type="checkbox" id="sneezing" name="sneezing" value="sneezing" required>
+                <label for="sneezing">Sneezing</label>
+			</fieldset>
+
+			<fieldset>
+				<legend>Current Medication</legend>
+				<label for="medication">Are you currently taking any medication? </label>
+				<input type="radio" id="yes" name="medication" value="yes" required>
+				<label for="yes">Yes</label>
+                <input type="radio" id="no" name="medication" value="no" required>
+                <label for="no">No</label>
+				<br>
+				<label for="indication">If you are currently taking medication, please indicate it in the space below:</label>
+				<br>
+				<textarea type="text" id="indication" name="indication" required style="height:200px; width:99%"></textarea>
+			</fieldset>
+		
+			<input type="submit" value="Submit" style="margin-top:5px">
+			<input type="reset" value="Reset" style="margin-top:5px">
+		</div>
+		</form>
+</body>
+</html>
