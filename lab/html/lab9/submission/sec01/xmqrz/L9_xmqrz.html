@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Medical Form</title>
+
+    <!--
+     Name: Marcus Joey Sayner
+     Matric No: A22EC0193
+     Github ID : xmqrz
+
+     Lab 9: HTML Forms
+    -->
+    <h1 style="text-align:center">
+        <font style="font-family:verdana" ; color="blue"><b>Medical Form</b></font>
+    </h1>
+</head>
+
+<body>
+    <form action="/process.php">
+        <fieldset style="width:80%">
+            <legend>Personal Information</legend>
+            <table border="1">
+                <tr>
+                    <td>First Name</td>
+                    <td><label for="fname"></label>
+                        <input type="text" id="fname" name="fname" required>
+                    </td>
+                    <td>Gender</td>
+                    <td><label for="Gender"></label>
+                        <input type="radio" id="female" name="gender" value="female" required>
+                        <label for="female">Female</label>
+
+                        <input type="radio" id="male" name="gender" value="male" required>
+                        <label for="male">Male</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Last Name</td>
+                    <td><label for="lname"></label>
+                        <input type="text" id="lname" name="lname" required>
+                    </td>
+                    <td>Nationality</td>
+                    <td><select>
+                            <option value="my">Malaysian</option>
+                            <option value="sg">Singaporean</option>
+                            <option value="chi">Chinese</option>
+                            <option value="indo">Indonesian</option>
+                        </select></td>
+                </tr>
+                <tr>
+                    <td>Address</td>
+                    <td colspan="3"><textarea rows="4" cols="50" required></textarea></td>
+                </tr>
+            </table>
+
+        </fieldset>
+        <fieldset style="width:80%">
+            <legend>Medical History</legend>
+
+            <span style="position:relative;left:20px">
+                <label for="medication"></label>
+                <input type="checkbox" id="smallpox" name="medication" value="smallpox">
+                <label for="smallpox">Smallpox</label></span>
+
+            <span style="position:relative;left:20px">
+
+                <input type="checkbox" id="mumps" name="medication" value="mumps">
+                <label for="mumps">Mumps</label></span>
+
+
+            <span style="position:relative;left:20px">
+
+                <input type="checkbox" id="dizziness" name="medication" value="dizziness">
+                <label for="dizziness">Dizziness</label></span>
+
+            <span style="position:relative;left:20px">
+
+                <input type="checkbox" id="sneezing" name="medication" value="sneezing">
+                <label for="sneezing">Sneezing</label></span>
+        </fieldset>
+        <fieldset>
+            <legend>Current Medication</legend>
+            <p style="margin:0">Are you currently taking any medication? <input type="radio" id="yes" name="medication"
+                    required><label for="yes">Yes</label>
+                <input type="radio" id="no" name="medication" required><label for="no">No</label>
+            </p>
+            <p style="margin:0">If you are currently taking medication, please indicate it in the space below:</p>
+            <textarea rows="10" cols="200"></textarea>
+        </fieldset>
+        <input type="submit" value="Submit">
+        <input type="reset" value="Reset">
+    </form>
+</body>
+
+</html>

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!--
+    Name: Neo Zheng Weng
+    Matrix No: A22EC0093
+    Github id: zw-weng
+
+    Lab 6: HTML Table
+    -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Table</title>
+</head>
+
+<body>
+    <style>
+        table {
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+            padding: 2px;
+            border: 1px solid black;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th,
+        td {
+            vertical-align: middle;
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+    </style>
+
+    <table>
+        <tr>
+            <th width="25%">Flight No</th>
+            <th width="25%">Place</th>
+            <th width="25%">Destination</th>
+            <th width="25%" colspan="2">Time</th>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>Arrival</td>
+            <td>Departure</td>
+        </tr>
+    </table><br>
+
+    <table>
+        <tr>
+            <td width="20%" rowspan="2" style="vertical-align: top;">Time</td>
+            <th width="20%">Johor Bahru</th>
+            <th width="20%">Jakarta</th>
+            <th width="20%">Dhaka</th>
+            <th width="20%">Jeddah</th>
+        </tr>
+        <tr>
+            <td>3:30 pm</td>
+            <td>2:30 pm</td>
+            <td>1:30 pm</td>
+            <td>10:30 am</td>
+        </tr>
+    </table><br>
+
+    <table>
+        <tr>
+            <td colspan="3" ; style="background-color: blue; height: 70px">BLUE</td>
+        </tr>
+        <tr>
+            <td style="background-color: red; width: 33.33%; height: 70px;">RED</td>
+            <td style="background-color: green; width: 33.33%; height: 70px;">GREEN</td>
+            <td style="background-color: yellow; width: 33.33%; height: 70px;">YELLOW</td>
+        </tr>
+    </table><br>
+
+    <table>
+        <tr>
+            <td width="20%">1</td>
+            <td width="20%">2</td>
+            <td width="20%">3</td>
+            <td width="20%">4</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td colspan="2" rowspan="2">Image</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>10</td>
+            <td>11</td>
+            <td>12</td>
+        </tr>
+    </table>
+</body>
+
+</html>
