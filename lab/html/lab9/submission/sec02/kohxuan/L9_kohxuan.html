@@ -1,1 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Medical Form</title>
+	<!--
+	Name: Koh Su Xuan
+	Matrix No: A22EC0060
+	Github id: kohxuan
 
+	Lab 9: HTML Forms
+	-->
+    <style>
+        table,
+        th,
+        td {
+            width: 100%;
+            border: 1px solid black;
+            table-layout: fixed;
+            height: 40px;
+        }
+    </style>
+</head>
+<body>
+		<form action="submit-form.php" method="post">
+			<fieldset>
+				<legend>Personal Information</legend>
+                <table>
+                <tr>
+				<td><label for="name">First Name</label></td>
+				<td><input type="text" id="name" name="name" required></td>
+
+				<td><label for="level">Gender</label></td>
+				<td><input type="radio" id="female" name="level" value="female" required>
+				<label for="female">Female</label>
+                <input type="radio" id="male" name="level" value="male" required>
+                <label for="male">Male</label>
+                </td>
+                </tr>
+				<label for="phone">Phone:</label>
+				<input type="tel" id="phone" name="phone" required>
+
+				<label for="address">Address:</label>
+				<input type="text" id="address" name="address" required>
+
+				<label for="city">City:</label>
+				<input type="text" id="city" name="city" required>
+
+				<label for="state">State:</label>
+				<input type="text" id="state" name="state" required>
+
+				<label for="zip">Zip Code:</label>
+				<input type="text" id="zip" name="zip" required>
+                </table>
+			</fieldset>
+
+			<fieldset>
+				<legend>Course Information</legend>
+				<label for="course">Course:</label>
+				<select id="course" name="course" required>
+					<option value="">Select a course</option>
+					<option value="html">HTML</option>
+					<option value="css">CSS</option>
+					<option value="js">JavaScript</option>
+					<option value="php">PHP</option>
+				</select><br>
+
+				<label for="level">Level:</label>
+				<input type="radio" id="beginner" name="level" value="beginner" required>
+				<label for="beginner">Beginner</label>
+
+				<input type="radio" id="intermediate" name="level" value="intermediate" required>
+				<label for="intermediate">Intermediate</label>
+
+				<input type="radio" id="advanced" name="level" value="advanced" required>
+				<label for="advanced">Advanced</label>
+
+				<label for="start">Start Date:</label>
+				<input type="date" id="start" name="start" required>
+			</fieldset>
+
+			<input type="submit" value="Submit">
+		</form>
+	<footer>
+		<p>&copy; 2023 Course Registration Form</p>
+	</footer>
+</body>
+</html>
