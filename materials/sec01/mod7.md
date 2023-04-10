@@ -28,7 +28,7 @@ Group Four Peas in Pod
   <li>To elaborate the related diagrams from analysis in design phase in use case realization</li>
 </ul>
 
-### 7.1 Relationships among analysis, design and implementation
+## 7.1 Relationships among analysis, design and implementation
 <p>
   Analysis, design, and implementation are three important phases of the software development life cycle (SDLC). Each phase plays a critical role in the overall process of software development.
 </p>
@@ -49,7 +49,7 @@ Group Four Peas in Pod
   In summary, analysis defines the requirements of the software, design creates the solution to meet those requirements, and implementation makes the solution a reality by writing the actual code. All three phases are interdependent and require careful planning and execution to ensure the success of the software development project.
 </p>
 
-#### 7.1.1 Design and Implementation
+### 7.1.1 Design and Implementation
 <p>Software design and implementation is the stage in the software engineering process at which an <b>executable software system</b> is developed.
   
  <ul type="circle">
@@ -94,7 +94,7 @@ Group Four Peas in Pod
  </li>
 </ul>
 
-#### 7.1.2 Object-Oriented Design Process
+### 7.1.2 Object-Oriented Design Process
 <p>
  Object-oriented design process (OODP) is a software engineering methodology that involves using the principles of object-oriented programming to design and develop software systems. It is a process that involves several steps, including analysis, design, and implementation. OODP is based on the concept of objects, which are self-contained modules of data and behavior that interact with each other to form a software system.
 
@@ -108,11 +108,11 @@ Group Four Peas in Pod
  </ul>
 </p>
   
-### 7.2 Object-Oriented Design Principles
+## 7.2 Object-Oriented Design Principles
 
-### 7.3 Object-Oriented Design Models using UML
+## 7.3 Object-Oriented Design Models using UML
 
-### 7.4 Use Case Realization
+## 7.4 Use Case Realization
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
