@@ -50,60 +50,63 @@ Group Four Peas in Pod
 </p>
 
 #### 7.1.1 Design and Implementation
-
-  <p>Software design and implementation is the stage in the software engineering process at which an <b>executable software system</b> is developed.
+<p>Software design and implementation is the stage in the software engineering process at which an <b>executable software system</b> is developed.
   
-    <ul type="circle">
-      <li>Software design is a creative activity that identifies software components and their relationships, based on a customer's requirements</li>
-      <li>Software design is the process of creating a detailed plan or blueprint for how a software application will be developed. It involves identifying the requirements of the software, analyzing them, and then creating a design that will meet those requirements. The goal of software design is to create a solution that is robust, scalable, maintainable, and efficient. The design phase is critical because it sets the stage for the implementation phase.</li>
-      <li>Software implementation is the process of realizing the design as a program</li>
-      <li>Software implementation is the process of turning the design into a working software application. It involves writing code, integrating different modules, and testing the software to ensure it functions as expected. The implementation phase requires technical expertise, attention to detail, and the ability to work with different programming languages, software tools, and libraries. Once the software is implemented, it can be deployed and used by end-users.</li>
-      <li>Both software design and implementation are critical phases of the software development life cycle (SDLC). Software design provides a blueprint for how the software will be developed, while software implementation brings that design to life. To ensure the success of a software development project, both phases must be carefully planned and executed.</li>
-    </ul>
-  </p>
+ <ul type="circle">
+    <li>Software design is a creative activity that identifies software components and their relationships, based on a customer's requirements</li>
+    <li>Software design is the process of creating a detailed plan or blueprint for how a software application will be developed. It involves identifying the requirements of the software, analyzing them, and then creating a design that will meet those requirements. The goal of software design is to create a solution that is robust, scalable, maintainable, and efficient. The design phase is critical because it sets the stage for the implementation phase.</li>
+    <li>Software implementation is the process of realizing the design as a program</li>
+    <li>Software implementation is the process of turning the design into a working software application. It involves writing code, integrating different modules, and testing the software to ensure it functions as expected. The implementation phase requires technical expertise, attention to detail, and the ability to work with different programming languages, software tools, and libraries. Once the software is implemented, it can be deployed and used by end-users.</li>
+    <li>Both software design and implementation are critical phases of the software development life cycle (SDLC). Software design provides a blueprint for how the software will be developed, while software implementation brings that design to life. To ensure the success of a software development project, both phases must be carefully planned and executed.</li>
+ </ul>
+</p>
 
-  ##### Some specification of each design stage
-  <ul type="dics">
-    <li>
-      <ol type="a">Design inputs
-        <li>Platform information</li>
-        <li>Requirement specification</li>
-        <li>Data description</li>
-      </ol>
-    </li>
+#### Some specification of each design stage
+<ul type="dics">
+ <li>
+   <ol type="a">Design inputs
+     <li>Platform information</li>
+     <li>Requirement specification</li>
+     <li>Data description</li>
+   </ol>
+ </li>
+  
+ <br>
+  
+ <li>
+   <ol type="a">Design activities
+     <li>Architectural</li>
+     <li>Interface design</li>
+     <li>Component design</li>
+     <li>Database design</li>
+   </ol>
+ </li>
+  
+ <br>
 
-    <li>
-      <ol type="a">Design activities
-        <li>Architectural</li>
-        <li>Interface design</li>
-        <li>Component design</li>
-        <li>Database design</li>
-      </ol>
-    </li>
+ <li>
+   <ol type="a">Design outputs
+     <li>System architecture</li>
+     <li>Database specification</li>
+     <li>Interface specification</li>
+     <li>Component specification</li>
+   </ol>
+ </li>
+</ul>
 
-    <li>
-      <ol type="a">Design outputs
-        <li>System architecture</li>
-        <li>Database specification</li>
-        <li>Interface specification</li>
-        <li>Component specification</li>
-      </ol>
-    </li>
-  </ul>
+#### 7.1.2 Object-Oriented Design Process
+<p>
+ Object-oriented design process (OODP) is a software engineering methodology that involves using the principles of object-oriented programming to design and develop software systems. It is a process that involves several steps, including analysis, design, and implementation. OODP is based on the concept of objects, which are self-contained modules of data and behavior that interact with each other to form a software system.
 
-  #### 7.1.2 Object-Oriented Design Process
-  <p>
-    Object-oriented design process (OODP) is a software engineering methodology that involves using the principles of object-oriented programming to design and develop software systems. It is a process that involves several steps, including analysis, design, and implementation. OODP is based on the concept of objects, which are self-contained modules of data and behavior that interact with each other to form a software system.
-
-    <ul type="circle">
-      <li>Structured object-oriented design processes involve developing a number of different system models</li>
-      <li>They require a lot of effort for development and maintenance of these models and, for small systems, this may not be cost-effective</li>
-      <li>However, for large systems developed by different groups, design models are an important communication machanism</li>
-      <li>The OODP starts with identifying the requirements and goals of the software system, and then proceeds to design the system by creating a set of interacting objects that meet those requirements. The design process involves several steps, including identifying classes, defining attributes and methods, specifying relationships between classes, and defining interfaces.</li>
-      <li>Once the design is complete, the implementation phase begins, which involves writing the code and integrating the different components of the system. The OODP emphasizes the use of reusable code, which promotes modularity and reduces the complexity of the software.</li>
-      <li>Overall, the object-oriented design process is a structured and systematic approach to designing software systems. It emphasizes the use of objects, encapsulation, inheritance, and polymorphism to create software systems that are modular, extensible, and maintainable.</li>
-    </ul>
-  </p>
+ <ul type="circle">
+   <li>Structured object-oriented design processes involve developing a number of different system models</li>
+   <li>They require a lot of effort for development and maintenance of these models and, for small systems, this may not be cost-effective</li>
+   <li>However, for large systems developed by different groups, design models are an important communication machanism</li>
+   <li>The OODP starts with identifying the requirements and goals of the software system, and then proceeds to design the system by creating a set of interacting objects that meet those requirements. The design process involves several steps, including identifying classes, defining attributes and methods, specifying relationships between classes, and defining interfaces.</li>
+   <li>Once the design is complete, the implementation phase begins, which involves writing the code and integrating the different components of the system. The OODP emphasizes the use of reusable code, which promotes modularity and reduces the complexity of the software.</li>
+   <li>Overall, the object-oriented design process is a structured and systematic approach to designing software systems. It emphasizes the use of objects, encapsulation, inheritance, and polymorphism to create software systems that are modular, extensible, and maintainable.</li>
+ </ul>
+</p>
   
 ### 7.2 Object-Oriented Design Principles
 
