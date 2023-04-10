@@ -1,0 +1,286 @@
+<html>
+
+<head>
+    <!--
+        Name: WONG QIAO YING
+        Matrix No: A22EC0118
+        Github id: alovey1014
+
+        Lab 10: Application Form
+    -->
+    <style>
+        table,
+        th,
+        td {
+            text-align: left;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 style="text-align:center">Web Programming: Application Form</h1>
+    <form padding="10px">
+        <fieldset style="border:1px solid black">
+            <legend>Personal Details</legend>
+            <table width="100%">
+                <tr>
+                    <td>Name</td>
+                    <td>
+                        <select id="nationality" name="nationality">
+                            <option value="" selected="selected" disabled="disabled">--Select--</option>
+                            <option value="mr">Mr.</option>
+                            <option value="mrs">Mrs.</option>
+                            <option value="Ms">Miss</option>
+                        </select>
+                        <input type="text" id="name" name="name" style="width: 400px;">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Gender</td>
+                    <td width="50%">
+                        <label for="html">Male</label>
+                        <input type="radio" id="male" name="gender" value="Male">
+                        <label for="html">Female</label>
+                        <input type="radio" id="female" name="gender" value="Female">
+                    </td>
+                    <td width="13%">Date of Birth</td>
+                    <td><input type="date" id="dob" name="dob"></td>
+                </tr>
+                <tr>
+                    <td width="13%">Marital Status</td>
+                    <td>
+                        <select id="nationality" name="nationality">
+                            <option value="" selected="selected" disabled="disabled">--Select--</option>
+                            <option value="Single">Single</option>
+                            <option value="Married">Married</option>
+                            <option value="Seperated">Seperated</option>
+                            <option value="widowed">Widowed</option>
+                            <option value="divorced">Divorced</option>
+                        </select>
+                    </td>
+                    <td>Religion</td>
+                    <td>
+                        <select class="form-control dropdown" id="religion" name="religion">
+                            <option value="" selected="selected" disabled="disabled">--Select--</option>
+                            <option value="African Traditional &amp; Diasporic">African Traditional &amp; Diasporic
+                            </option>
+                            <option value="Agnostic">Agnostic</option>
+                            <option value="Atheist">Atheist</option>
+                            <option value="Baha'i">Baha'i</option>
+                            <option value="Buddhism">Buddhism</option>
+                            <option value="Cao Dai">Cao Dai</option>
+                            <option value="Chinese traditional religion">Chinese traditional religion</option>
+                            <option value="Christianity">Christianity</option>
+                            <option value="Hinduism">Hinduism</option>
+                            <option value="Islam">Islam</option>
+                            <option value="Jainism">Jainism</option>
+                            <option value="Juche">Juche</option>
+                            <option value="Judaism">Judaism</option>
+                            <option value="Neo-Paganism">Neo-Paganism</option>
+                            <option value="Nonreligious">Nonreligious</option>
+                            <option value="Rastafarianism">Rastafarianism</option>
+                            <option value="Secular">Secular</option>
+                            <option value="Shinto">Shinto</option>
+                            <option value="Sikhism">Sikhism</option>
+                            <option value="Spiritism">Spiritism</option>
+                            <option value="Tenrikyo">Tenrikyo</option>
+                            <option value="Unitarian-Universalism">Unitarian-Universalism</option>
+                            <option value="Zoroastrianism">Zoroastrianism</option>
+                            <option value="primal-indigenous">primal-indigenous</option>
+                            <option value="Other">Other</option>
+                        </select>
+                    </td>
+                </tr>
+            </table width="100%">
+        </fieldset>
+        <fieldset style="border:1px solid black">
+            <legend>Contact Details</legend>
+            <table width="100%">
+                <tr>
+                    <td WIDTH="30px">Phone</td>
+                    <td WIDTH="35%">
+                        <input type="text" id="phone" name="phone">
+                    </td>
+                    <td WIDTH="10%">E-mail</td>
+                    <td WIDTH="35%">
+                        <input type="text" id="email" name="email">
+                    </td>
+                </tr>
+                <tr>
+                    <td WIDTH="30px">Address Line 1</td>
+                    <td WIDTH="35%">
+                        <input type="text" id="phone" name="phone">
+                    </td>
+                    <td WIDTH="10%">Address Line 2</td>
+                    <td WIDTH="35%">
+                        <input type="text" id="email" name="email">
+                    </td>
+                </tr>
+                <tr>
+                    <td WIDTH="30px">City</td>
+                    <td WIDTH="35%">
+                        <input type="text" id="phone" name="phone">
+                    </td>
+                    <td WIDTH="10%">State</td>
+                    <td WIDTH="35%">
+                        <select class="form-control dropdown" id="religion" name="religion">
+                            <option value="" selected="selected" disabled="disabled">--Select--</option>
+                            <option value="Johor">Johor</option>
+                            <option value="Kedah">Kedah</option>
+                            <option value="Kelantan">Kelantan</option>
+                            <option value="Kuala Lumpur">Kuala Lumpur</option>
+                            <option value="Labuan">Labuan</option>
+                            <option value="Melaka">Melaka</option>
+                            <option value="Negeri Sembilan">Negeri Sembilan</option>
+                            <option value="Pahang">Pahang</option>
+                            <option value="Penang">Penang</option>
+                            <option value="Perak">Perak</option>
+                            <option value="Perlis">Perlis</option>
+                            <option value="Putrajaya">Putrajaya</option>
+                            <option value="Sabah">Sabah</option>
+                            <option value="Sarawak">Sarawak</option>
+                            <option value="Selangor">Selangor</option>
+                            <option value="Terengganu">Terengganu</option>
+                        </select>
+                    </td>
+                </tr>
+            </table>
+        </fieldset>
+        <fieldset style="border:1px solid black">
+            <legend>Qualification Detials</legend>
+            <table width="100%">
+                <tr>
+                    <th width="3%">No.</th>
+                    <th width="20%">Qualification</th>
+                    <th width="50%">University</th>
+                    <th width="10%">Passing Year</th>
+                    <th width="10%">CGPA</th>
+                </tr>
+                <tr>
+                    <td height="50px">1.</td>
+                    <td>
+                        <select class="form-control dropdown" id="qualification" name="qualification">
+                            <option value="" selected="selected" disabled="disabled">--Select--</option>
+                            <option value="pt3">PT3</option>
+                            <option value="spm">SPM</option>
+                            <option value="stpm">STPM</option>
+                            <option value="foundation">Foundation</option>
+                            <option value="alvl">A-level</option>
+                            <option value="ausmat">AUSMAT</option>
+                            <option value="ib">IB</option>
+                            <option value="diploma">Diploma</option>
+                            <option value="bachelor">Bachelor's degree</option>
+                            <option value="master">Masters</option>
+                            <option value="postgrade">PHD</option>
+                    </td>
+                    <td>
+                        <input type="text" id="qualification" name="qualification" size="60">
+                    </td>
+                    <td>
+                        <input type="text" id="passingyear" name="passingyear" size="10">
+                    </td>
+                    <td>
+                        <input type="text" id="cgpa" name="cgpa" size="10">
+                    </td>
+                </tr>
+                <tr>
+                    <td height="50px">2.</td>
+                    <td>
+
+                        <select class="form-control dropdown" id="qualification" name="qualification">
+                            <option value="" selected="selected" disabled="disabled">--Select--</option>
+                            <option value="pt3">PT3</option>
+                            <option value="spm">SPM</option>
+                            <option value="stpm">STPM</option>
+                            <option value="foundation">Foundation</option>
+                            <option value="alvl">A-level</option>
+                            <option value="ausmat">AUSMAT</option>
+                            <option value="ib">IB</option>
+                            <option value="diploma">Diploma</option>
+                            <option value="bachelor">Bachelor's degree</option>
+                            <option value="master">Masters</option>
+                            <option value="postgrade">PHD</option>
+                    </td>
+                    <td>
+                        <input type="text" id="qualification" name="qualification" size="60">
+                    </td>
+                    <td>
+                        <input type="text" id="passingyear" name="passingyear" size="10">
+                    </td>
+                    <td>
+                        <input type="text" id="cgpa" name="cgpa" size="10">
+                    </td>
+                </tr>
+            </table>
+        </fieldset>
+        <fieldset style="border:1px solid black">
+            <legend>Language Knowledge</legend>
+            <table width="100%">
+                <tr>
+                    <th width="30%">Language</th>
+                    <td width="20%"><i>Reading</i></td>
+                    <td width="20%"><i>Reading</i></td>
+                    <td width="20%"><i>Reading</i></td>
+                </tr>
+                <tr>
+                    <td>B.Melayu</td>
+                    <td>
+                        <input type="checkbox" id="reading" name="melayu">
+                    </td>
+                    <td>
+                        <input type="checkbox" id="writing" name="melayu">
+                    </td>
+                    <td>
+                        <input type="checkbox" id="speaking" name="melayu">
+                    </td>
+                </tr>
+                <tr>
+                    <td>English</td>
+                    <td>
+                        <input type="checkbox" id="reading" name="english">
+                    </td>
+                    <td>
+                        <input type="checkbox" id="writing" name="english">
+                    </td>
+                    <td>
+                        <input type="checkbox" id="speaking" name="english">
+                    </td>
+                </tr>
+            </table>
+        </fieldset>
+        <fieldset style="border:1px solid black">
+            <legend>Identification Details</legend>
+            <table width="100%">
+                <tr>
+                    <td width="13%">Identity Card Number</td>
+                    <td width="25%">
+                        <input type="text" id="ic" name="ic">
+                    </td>
+                    <td width="13%">Passport Number</td>
+                    <td>
+                        <input type="text" id="passport" name="passport">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Upload Photo</td>
+                    <td>
+                        <input type="file" id="photo" name="photo">
+                    </td>
+                    <td>Upload Signature</td>
+                    <td>
+                        <input type="file" id="signature" name="signature">
+                    </td>
+                </tr>
+            </table>
+        </fieldset>
+        <br>
+        <div style="text-align:center">
+            <button type="submit">Submit</button>
+            <input type="button" value="Back" onclick="history.back()">
+
+        </div>
+
+    </form>
+</body>
+
+</html>
