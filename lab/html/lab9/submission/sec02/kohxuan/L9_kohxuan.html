@@ -17,6 +17,7 @@
             border: 1px solid black;
             table-layout: fixed;
             height: 40px;
+			margin:auto;
         }
     </style>
 </head>
@@ -26,62 +27,63 @@
 				<legend>Personal Information</legend>
                 <table>
                 <tr>
-				<td><label for="name">First Name</label></td>
-				<td><input type="text" id="name" name="name" required></td>
+				<td><label for="fname">First Name</label></td>
+				<td><input type="text" id="fname" name="fname" required></td>
 
-				<td><label for="level">Gender</label></td>
-				<td><input type="radio" id="female" name="level" value="female" required>
+				<td><label for="gender">Gender</label></td>
+				<td><input type="radio" id="female" name="gender" value="female" required>
 				<label for="female">Female</label>
-                <input type="radio" id="male" name="level" value="male" required>
+                <input type="radio" id="male" name="gender" value="male" required>
                 <label for="male">Male</label>
                 </td>
+
                 </tr>
-				<label for="phone">Phone:</label>
-				<input type="tel" id="phone" name="phone" required>
+				<tr>
+				<td><label for="lname">Last Name</label></td>
+				<td><input type="text" id="lname" name="lname" required></td>
 
-				<label for="address">Address:</label>
-				<input type="text" id="address" name="address" required>
+				<td><label for="nationality">Nationality</label>
+				<td><select id="nationality" name="nationality" required>
+					<option value="">Canadian</option>
+					<option value="malaysian">Malaysian</option>
+					<option value="singaporian">Singaporian</option>
+					<option value="indonesian">Indonesian</option>
+				</select></td>
+				</tr>
 
-				<label for="city">City:</label>
-				<input type="text" id="city" name="city" required>
-
-				<label for="state">State:</label>
-				<input type="text" id="state" name="state" required>
-
-				<label for="zip">Zip Code:</label>
-				<input type="text" id="zip" name="zip" required>
+				<tr>
+				<td height:10px><label for="address">Address:</label></td>
+				<td><input type="text" id="address" name="address" required></td>
+				</tr>
                 </table>
 			</fieldset>
 
 			<fieldset>
-				<legend>Course Information</legend>
-				<label for="course">Course:</label>
-				<select id="course" name="course" required>
-					<option value="">Select a course</option>
-					<option value="html">HTML</option>
-					<option value="css">CSS</option>
-					<option value="js">JavaScript</option>
-					<option value="php">PHP</option>
-				</select><br>
+				<legend>Medical History</legend>
+				<input type="checkbox" id="smallpox" name="smallpox" value="smallpox" required>
+				<label for="smallpox">Smallpox</label>
+                <input type="checkbox" id="mumps" name="mumps" value="mumps" required>
+                <label for="mumps">Mumps</label>
+				<input type="checkbox" id="dizziness" name="dizziness" value="dizziness" required>
+				<label for="dizziness">Dizziness</label>
+                <input type="checkbox" id="sneezing" name="sneezing" value="sneezing" required>
+                <label for="sneezing">Sneezing</label>
+			</fieldset>
 
-				<label for="level">Level:</label>
-				<input type="radio" id="beginner" name="level" value="beginner" required>
-				<label for="beginner">Beginner</label>
-
-				<input type="radio" id="intermediate" name="level" value="intermediate" required>
-				<label for="intermediate">Intermediate</label>
-
-				<input type="radio" id="advanced" name="level" value="advanced" required>
-				<label for="advanced">Advanced</label>
-
-				<label for="start">Start Date:</label>
-				<input type="date" id="start" name="start" required>
+			<fieldset>
+				<legend>Current Medication</legend>
+				<label for="medication">Are you currently taking any medication? </label>
+				<input type="radio" id="yes" name="medication" value="yes" required>
+				<label for="yes">Yes</label>
+                <input type="radio" id="no" name="medication" value="no" required>
+                <label for="no">No</label>
+				<br>
+				<label for="indication">If you are currently taking medication, please indicate it in the space below:</label>
+				<input type="text" id="indication" name="indication" required>
 			</fieldset>
 
 			<input type="submit" value="Submit">
+			<input type="reset" value="Reset">
 		</form>
-	<footer>
-		<p>&copy; 2023 Course Registration Form</p>
-	</footer>
 </body>
 </html>
