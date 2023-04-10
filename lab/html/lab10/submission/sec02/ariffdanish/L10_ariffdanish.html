@@ -114,6 +114,118 @@
                     </tr>
                 </table>
         </fieldset>
+
+        <fieldset style="border:solid 1px black;width: 1450px; margin: auto;">
+            <legend>Qualification Detail</legend>
+            <table style="width:100%">
+                <tr style="height : 45px">
+                    <td style="width:5%"><b>No</b></td>
+                    <td style="width:15%"><b>Qualification</b></td>
+                    <td style="width:60%"><b>University</b></td>
+                    <td style="width:10%"><b>Passing Year</b></td>
+                    <td style="width:10%"><b>CGPA</b></td>
+                </tr>
+                <tr style="height : 45px">
+                    <td>1.</td>
+                    <td>
+                        <select id="qualification" name="qualification">
+                            <option value="select">--Select--</option>
+                            <option value="SPM">SPM</option>
+                            <option value="STPM">STPM</option>
+                            <option value="matrics">Matrics</option>
+                            <option value="foundation">Foundation</option>
+                            <option value="alevel">A-Level</option>
+                            <option value="diploma">Diploma</option>
+                            <option value="degree">Degree</option>
+                            <option value="master">Master</option>
+                            <option value="phd">Phd</option>
+                        </select>
+                    </td>
+                    <td>
+                        <input type="text" style="width:80%">
+                    </td>
+                    <td>
+                        <input type="text" style="width:40%">
+                    </td>
+                    <td>
+                        <input type="text" style="width:40%">
+                    </td>
+                </tr>
+                <tr style="height : 45px">
+                    <td>2.</td>
+                    <td>
+                        <select id="qualification" name="qualification">
+                            <option value="select">--Select--</option>
+                            <option value="SPM">SPM</option>
+                            <option value="SPTM">SPTM</option>
+                            <option value="matrics">Matrics</option>
+                            <option value="foundation">Foundation</option>
+                            <option value="alevel">A-Level</option>
+                            <option value="diploma">Diploma</option>
+                            <option value="degree">Degree</option>
+                            <option value="master">Master</option>
+                            <option value="phd">Phd</option>
+                        </select>
+                    </td>
+                    <td>
+                        <input type="text" style="width:80%">
+                    </td>
+                    <td>
+                        <input type="text" style="width:40%">
+                    </td>
+                    <td>
+                        <input type="text" style="width:40%">
+                    </td>
+                </tr>
+            </table>
+        </fieldset>
+
+        <fieldset style="border:solid 1px black;width: 1450px; margin: auto;">
+            <legend>Language Knowledge</legend>
+            <table style="width:100%">
+                <tr>
+                    <td>Language</td>
+                    <td>Reading</td>
+                    <td>Writing</td>
+                    <td>Speaking</td>
+                </tr>
+                <tr>
+                    <td>B.Melayu</td>
+                    <td><input type="checkbox"></td>
+                    <td><input type="checkbox"></td>
+                    <td><input type="checkbox"></td>
+                </tr>
+                <tr>
+                    <td>English</td>
+                    <td><input type="checkbox"></td>
+                    <td><input type="checkbox"></td>
+                    <td><input type="checkbox"></td>
+                </tr>
+            </table>
+        </fieldset>
+
+        <fieldset style="border:solid 1px black;width: 1450px; margin: auto;">
+            <legend>Identification Details</legend>
+            <table>
+                <tr style="height : 45px">
+                    <td colspan="2" style="width:500px"><label for="ic">Identification Number
+                            <input type="text" id="ic" maxlength="12"></td>
+                    <td style="width:500px"><label for="passport">Passport Number
+                            <input type="text" id="passport" maxlength="9"></td>
+                </tr>
+                <tr style="height : 45px">
+                    <td style="width:145px"><label for="photo">Upload Photo</label></td>
+                    <td><input type="file" id="photo"></td>
+                    <td><label for="signature">Upload Signature
+                    <input type="file" id="signature"></td>
+                </tr>
+            </table>
+        </fieldset> 
+
+        <p style="text-align: center;">
+            <input type="submit" value="submit">
+            <input type="reset" value="reset">
+        </p>
     </form>
 </body>
 
