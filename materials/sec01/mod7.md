@@ -20,7 +20,7 @@ Group Four Peas in Pod
 
 # Module 7: Object-Oriented Detailed Design 
 
-## Objectives:
+## Important part of this topic:
 <ul type=bullet>
   <li>To understand the relationship among analysis, design and implementation</li>
   <li>To comprehend object-oriented design principles</li>
@@ -28,18 +28,30 @@ Group Four Peas in Pod
   <li>To elaborate the related diagrams from analysis in design phase in use case realization</li>
 </ul>
 
-### Contents:
-#### Notes
-- [The Importance of Software Engineering](#the-importance-of-software-engineering)
+### 7.1 Relationships among analysis, design and implementation
+<p>
+  Analysis, design, and implementation are three important phases of the software development life cycle (SDLC). Each phase plays a critical role in the overall process of software development.
+</p>
 
-### Others
-- [Software Engineering | Introduction to Software Engineering](https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/)
+<ul type=circle>
+  <li>
+    Analysis involves the process of understanding and defining the requirements and objectives of the software to be developed. It involves studying the existing system, identifying problems and opportunities, and defining the requirements that the new system should meet. The output of this phase is a comprehensive analysis report, which serves as a foundation for the next phase.
+  </li>
+  <li>
+    Design is the process of creating a solution that meets the requirements defined in the analysis phase. It involves designing the architecture, modules, interfaces, and data structures of the software. The design phase is critical because it sets the stage for the implementation phase. The output of this phase is a design document that contains all the technical details of the software to be developed.
+  </li>
+  <li>
+    Implementation is the process of writing the code, integrating the modules, and testing the software. It involves translating the design into actual code and making sure that the software is functioning as expected. This phase requires technical expertise and attention to detail. The output of this phase is the final software product, which can then be deployed and used by the end-users.
+  </li>
+</ul>
 
 
-## The Importance of Software Engineering
 
-Software engineering is an essential field of study that deals with the design, development, and maintenance of software applications. It plays a vital role in the development and success of modern technology. Here are some of the reasons why software engineering is important:
+### 7.2 Object-Oriented Design Principles
 
+### 7.3 Object-Oriented Design Models using UML
+
+### 7.4 Use Case Realization
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
