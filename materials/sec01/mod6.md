@@ -26,11 +26,12 @@ Group LimaPuluh
 - Architectural View
 - Architectural Pattern
 
-### Architectural Design and Detailed Design
-<br>
-### Architecture Analogy for Software vs. House?
-<img src="https://media.licdn.com/dms/image/C5612AQEH0VXsQ_hVag/article-cover_image-shrink_600_2000/0/1520203112384?e=2147483647&v=beta&t=wePYqDGqj2_M-0I8NfkVqEZDAppoKdEIR6RILQ-z7Us" width="300" height="200">
-<br>
+# Architectural Design and Detailed Design
+
+## Recap on Design Stage<br>
+<img src="https://raw.githubusercontent.com/Wernjie0713/Image/main/Screenshot%202023-04-11%20224547.jpg" width="600" height="400">
+
+## Architecture Analogy for Software vs. House?<br>
 <li><b>Building Blocks</b></li>
 In a house, the building blocks are the bricks, mortar, wood, and other materials used to construct the physical structure. In software, the building blocks are the components, libraries, frameworks, and other software artifacts used to construct the software system.
 <br>
@@ -52,11 +53,15 @@ In a house, maintenance involves repairing and replacing physical elements that 
 <br>
 <br>
 By understanding the analogy between software architecture and house architecture, software engineers can better understand the importance of good software architecture and the principles of good design. Just as a well-designed house is functional, efficient, and comfortable, a well-designed software system is functional, efficient, and easy to use and maintain.
+<br><br>
+
+## Analogy: Residential Styles<br>
+<img src="https://raw.githubusercontent.com/Wernjie0713/Image/main/image.png" width="600" height="400">
+
+## Design Discipline Activities
+Segmented into <b>6 major activities</b>:
 <br>
-<br>
-### Design Discipline Activities
-<li>Segmented into <b>6 major activities</b>:</li>
-<br>
+
 <b>1. Design the Support Services Architecture and Deployment Environment:</b>
 This activity involves designing the architecture of the support services that the software system will need, such as networking, web servers, databases, and other infrastructure components. It also involves designing the deployment environment, which includes the hardware, software, and network configurations needed to deploy the software system.
 <br>
@@ -83,15 +88,15 @@ This activity involves designing the security and access controls for the softwa
 <br>
 <br>
 By following a disciplined approach to these design activities, software engineers can ensure that the software system they are building meets the needs of its users, is scalable and maintainable, and provides a secure and reliable platform for its intended use.
-<br>
-<br>
-### From Analysis to Design: Design Artefacts Metamodel
+<br><br>
+
+## From Analysis to Design: Design Artefacts Metamodel<br>
 Design model contains exactly one design system that contains many design subsystems (also known as <b>“package”</b> that can also be introduced in the analysis)
 <br>
-<br>
-### Relationships between Analysis and Design (Model and System)
-<br>
-<br>
+<img src="https://raw.githubusercontent.com/Wernjie0713/Image/main/Screenshot%202023-04-11%20225353.jpg" width="300" height="200">
+<br><br>
+
+## Relationships between Analysis and Design (Model and System)
 <b>Analysis and Design are Interrelated:</b>
 Analysis and design are closely related activities that are both essential to the software development process. Analysis involves understanding the problem domain, defining requirements, and identifying constraints and assumptions. Design involves creating a solution that meets the identified requirements and constraints.
 <br>
@@ -113,10 +118,9 @@ The software development process is often iterative, with feedback and refinemen
 <br>
 <br>
 In summary, analysis and design are two closely related activities that are essential to the software development process. Analysis provides the foundation for design, with design building on the information and knowledge gained during analysis. Models are used in both analysis and design, and the software development process is often iterative, with feedback and refinement occurring between analysis and design.
-<br>
-<br>
-### Architectural Design: Design the Software Architecture
-<br>
+<br><br>
+
+## Architectural Design: Design the Software Architecture
 Architectural design is a key activity in the software development process, which involves understanding how a software system should be organized and designing the overall structure of that system. The main goal of architectural design is to identify the main structural components of a system and the relationships between them. This is important because the structure of a software system can have a significant impact on its quality attributes, such as its maintainability, scalability, reliability, and performance.
 <br><br>
 Architectural design is the critical link between design and requirements engineering because it helps to bridge the gap between the high-level requirements of a system and the detailed design of its components. By defining the overall structure of a system, architectural design helps to ensure that the system meets the requirements and constraints specified by stakeholders, while also providing a framework for the detailed design of the system components.
@@ -127,6 +131,75 @@ To design a software architecture, software engineers need to have a deep unders
 <br><br>
 In summary, architectural design is a critical activity in the software development process that involves designing the overall structure of a software system. It helps to bridge the gap between requirements engineering and detailed design, and provides a framework for designing the system components. The output of the architectural design process is an architectural model that describes the organization of the system as a set of communicating components. To design an effective software architecture, software engineers need to have a deep understanding of the problem domain, stakeholders' needs, and technical options available for implementing the system.
 <br><br>
+
+## Design Use Case Realizations<br>
+Designing use case realizations involves creating a lower-level view of how a software system will support specific use cases. This process involves focusing on <b>two</b> main areas:
+<br>
+1. Class interactions that support a particular use case, which involves designing how the different classes in the system will interact with each other to achieve the goals of the use case.
+2. Interactions among the software system, users, and external systems, which involves designing how the system will interact with its environment to support the use case.
+
+
+Designing use case realizations typically requires multiple iterations, as software engineers refine and improve the design over time. They use UML design class diagrams and interaction diagrams, such as sequence diagrams, to document the design and ensure that it meets the requirements of the use case.
+<br>
+
+In summary, designing use case realizations involves creating a lower-level view of how a software system will support specific use cases. This involves designing how classes in the system will interact with each other, as well as how the system will interact with users and external systems. Software engineers typically use UML diagrams to document the design and refine it over time.
+<br><br>
+
+## Example: Architecture of a Packing Robot Control System<br>
+<img src="https://raw.githubusercontent.com/Wernjie0713/Image/main/Screenshot%202023-04-11%20225437.jpg" width="300" height="200">
+
+## Example: High Level Architecture of Weather Station System
+<img src="https://raw.githubusercontent.com/Wernjie0713/Image/main/Screenshot%202023-04-11%20225501.jpg" width="300" height="200">
+
+## Architectural Abstraction<br>
+Architectural abstraction refers to the process of breaking down a software system into smaller components to better understand its structure and design. This process can be applied at different levels, such as the architecture of <b>individual programs</b> or the architecture of <b>large enterprise systems</b>.
+
+Architecture in the small refers to the architecture of individual programs. This involves breaking down a program into smaller components or modules and understanding how they interact with each other to achieve the program's goals.
+
+Architecture in the large refers to the architecture of complex enterprise systems that may include multiple programs, systems, and components. These enterprise systems are often distributed across different computers and may be owned and managed by different companies. Understanding the architecture of these systems involves analyzing how the different components interact with each other to achieve the system's overall goals.
+
+In summary, architectural abstraction involves breaking down a software system into smaller components to better understand its structure and design. This process can be applied at different levels, such as the architecture of individual programs or the architecture of large enterprise systems. Understanding these architectures involves analyzing how the components interact with each other to achieve the system's goals.
+<br><br>
+
+## Advantages of Explicit Architecture<br>
+Explicit architecture in software design has several advantages:
+
+<b>1. Stakeholder communication:</b> An explicit architecture can serve as a focal point for communication among system stakeholders, helping to ensure that everyone involved in the project has a shared understanding of the system's structure and design.
+
+<b>2. System analysis:</b> An explicit architecture makes it possible to analyze whether the system can meet its non-functional requirements, such as performance, scalability, and security. This analysis can help identify potential problems early in the design process, allowing them to be addressed before they become more costly to fix.
+
+<b>3. Large-scale reuse:</b> An explicit architecture can be reusable across a range of systems. This means that designers can create product-line architectures that can be used across multiple products or systems, reducing design and development time and increasing efficiency.
+
+<b>4. Improved quality:</b> Explicit architecture can help ensure that the system is designed to meet its functional and non-functional requirements. This can lead to higher quality software with fewer bugs, better performance, and greater user satisfaction.
+
+<b>5. Reduced costs:</b> By providing a clear and explicit architecture, developers can avoid costly design mistakes and reduce the likelihood of system failures, leading to overall cost savings for the project.
+<br><br>
+
+## Architectural Representations<br>
+When documenting software architectures, the most commonly used method is simple, informal block diagrams that show entities and relationships. However, these diagrams have been criticized for not providing enough information about the types of relationships between entities or the visible properties of entities in the architecture. To address this issue, designers can use architectural models that provide more detailed information about the system's components and how they interact with each other. The choice of representation depends on the requirements for model semantics, or the meaning and interpretation of the models used to describe the system's architecture.
+<br><br>
+
+## Box and Line Diagrams<br>
+<li>Very <b>abstract</b> - they do not show the nature of component relationships nor the externally visible properties of the sub-systems.</li>
+<li>However, <b>useful for communication</b> with stakeholders and for project planning.</li>
+<br><br>
+
+## Use of Architectural Models<br>
+Architectural models can be used in various ways, including:
+
+• <b>Facilitating communication:</b> A high-level architectural view of a system is useful for communicating with stakeholders and project planning. It provides an abstract view of the system that stakeholders can easily understand and discuss without being overwhelmed by details.
+
+• <b>Documenting design:</b> Architectural models are used to document an architecture that has been designed. The aim is to create a complete system model that shows the different components in a system, their interfaces, and their connections.
+
+• <b>Analysis and evaluation:</b> Architectural models are used to analyze and evaluate the system's properties and behavior. This helps to ensure that the system meets its requirements and functions as intended.
+
+• <b>Performance prediction:</b> Architectural models are used to predict the system's performance. This helps to ensure that the system performs adequately under expected workloads and identifies potential bottlenecks.
+
+• <b>Design exploration:</b> Architectural models are used to explore alternative system designs. This helps to identify the most suitable design that meets the system's requirements and constraints.
+
+• <b>Code generation:</b> Architectural models are used to generate code automatically. This reduces the time and effort required to develop and maintain software systems.
+<br><br>
+
 #### Architectural Design Decision
 <hr>
 
