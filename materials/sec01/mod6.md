@@ -21,10 +21,10 @@ Group LimaPuluh
 
 ## Supplementary Notes 
 ### Topics
-- Architectural Design and Detailed Design
-- Architectural Design Decision
-- Architectural View
-- Architectural Pattern
+<b>- Architectural Design and Detailed Design</b><br>
+<b>- Architectural Design Decision</b><br>
+<b>- Architectural View</b><br>
+<b>- Architectural Pattern</b><br>
 
 # Architectural Design and Detailed Design
 
@@ -56,7 +56,7 @@ By understanding the analogy between software architecture and house architectur
 <br><br>
 
 ## Analogy: Residential Styles<br>
-<img src="https://raw.githubusercontent.com/Wernjie0713/Image/main/image.png" width="600" height="400">
+<img src="https://raw.githubusercontent.com/Wernjie0713/Image/main/image.png">
 
 ## Design Discipline Activities
 Segmented into <b>6 major activities</b>:
@@ -93,7 +93,7 @@ By following a disciplined approach to these design activities, software enginee
 ## From Analysis to Design: Design Artefacts Metamodel<br>
 Design model contains exactly one design system that contains many design subsystems (also known as <b>“package”</b> that can also be introduced in the analysis)
 <br>
-<img src="https://raw.githubusercontent.com/Wernjie0713/Image/main/Screenshot%202023-04-11%20225353.jpg" width="300" height="200">
+<img src="https://raw.githubusercontent.com/Wernjie0713/Image/main/Screenshot%202023-04-11%20225353.jpg" >
 <br><br>
 
 ## Relationships between Analysis and Design (Model and System)
@@ -146,10 +146,10 @@ In summary, designing use case realizations involves creating a lower-level view
 <br><br>
 
 ## Example: Architecture of a Packing Robot Control System<br>
-<img src="https://raw.githubusercontent.com/Wernjie0713/Image/main/Screenshot%202023-04-11%20225437.jpg" width="300" height="200">
+<img src="https://raw.githubusercontent.com/Wernjie0713/Image/main/Screenshot%202023-04-11%20225437.jpg">
 
 ## Example: High Level Architecture of Weather Station System
-<img src="https://raw.githubusercontent.com/Wernjie0713/Image/main/Screenshot%202023-04-11%20225501.jpg" width="300" height="200">
+<img src="https://raw.githubusercontent.com/Wernjie0713/Image/main/Screenshot%202023-04-11%20225501.jpg">
 
 ## Architectural Abstraction<br>
 Architectural abstraction refers to the process of breaking down a software system into smaller components to better understand its structure and design. This process can be applied at different levels, such as the architecture of <b>individual programs</b> or the architecture of <b>large enterprise systems</b>.
@@ -200,11 +200,9 @@ Architectural models can be used in various ways, including:
 • <b>Code generation:</b> Architectural models are used to generate code automatically. This reduces the time and effort required to develop and maintain software systems.
 <br><br>
 
-#### Architectural Design Decision
-<hr>
+# Architectural Design Decision
 
-#### Architectural View
-<hr>
+# Architectural View
 <ol type="A">
     <li>4+1 View Model</li>
     <li></li>
