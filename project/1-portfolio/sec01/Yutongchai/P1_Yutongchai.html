@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <!--
+  Name: CHAI YU TONG
+  Matrix No: A22EC0145
+  Github id: Yutongchai
+
+  Project 1: Personal Portfolio Website
+  -->
+    <title>Personal Profile Portfolio</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+      .fa {
+      padding: 20px;
+      font-size: 30px;
+      width: 50px;
+      text-align: center;
+      text-decoration: none;
+      margin: 5px 2px;
+      }
+
+      .fa:hover {
+      opacity: 0.7;
+      }
+
+      .fa-facebook {
+      background: #3B5998;
+      color: white;
+      }
+
+      .fa-linkedin {
+      background: #007bb5;
+      color: white;
+      }
+
+      .fa-instagram {
+      background: #125688;
+      color: white;
+      }
+
+      input[type=text], [type=email],select, textarea {
+      width: 100%;
+      padding: 12px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+      margin-top: 6px;
+      margin-bottom: 16px;
+      resize: vertical;
+      }
+
+      input[type=submit] {
+      background-color: #04AA6D;
+      color: white;
+      padding: 12px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      }
+
+      input[type=submit]:hover {
+      background-color: #45a049;
+      }
+
+      .container {
+      border-radius: 5px;
+      background-color: #f2f2f2;
+      padding: 20px;
+      }
+
+      body {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+      }
+      h1 {
+        text-align: center;
+        margin-top: 50px;
+      }
+      .profile-pic {
+        display: block;
+        margin: auto;
+        width: 150px;
+        border-radius: 40%;
+      }
+      .profile-details {
+        margin-top: 50px;
+      }
+      .profile-details h2 {
+        font-size: 24px;
+        margin-bottom: 20px;
+      }
+      .profile-details p {
+        font-size: 18px;
+        line-height: 1.5;
+      }
+    </style>
+  </head>
+
+  <body>
+
+    <div class="content" style="width: 900px;margin:0 auto;">
+      <section>
+        <h1>Chai Yu Tong</h1>
+        <img src="photo_2023-04-08_20-00-01.jpg" alt="Yutong" class="profile-pic">
+        <div class="profile-details">
+        <h2>About Me</h2>
+        <p>
+        Hello, my name is <b>Chai Yu Tong</b>, and I am a first-year Data Engineering student at University of Technology Malaysia. 
+        I was born on <b>March 13, 2003</b>, which makes me 20 years old. 
+        I am thrilled to be a YTM Scholarship holder, as it allows me to focus on my studies and pursue my passion for data engineering without worrying about financial barriers. 
+        Ever since I was introduced to the field of data engineering, I have been fascinated by the power of data and its potential to transform businesses and industries. 
+        I am excited to learn more about data modeling, data integration, data warehousing, and other essential data engineering concepts during my studies. 
+        In my free time, I enjoy exploring new technologies and experimenting with coding projects. I am eager to connect with fellow students, professors, and industry professionals who share my interest 
+        in data engineering and look forward to the opportunities that lie ahead.
+        </p>
+
+        <h3>Contact Me</h3>
+        <a href="https://www.facebook.com/yutong0313?mibextid=LQQJ4d" class="fa fa-facebook"></a>
+        <a href="https://www.linkedin.com/in/yu-tong-chai-073b131a7" class="fa fa-linkedin"></a>
+        <a href="https://instagram.com/yyutongg__?igshid=YmMyMTA2M2Y=" class="fa fa-instagram"></a>
+      </section>
+ 
+
+      <section>
+        <h2>Skills</h2>
+        <ul>
+          <li>HTML</li>
+          <li>C++</li>
+        </ul>
+      </section>
+
+      <section>
+      <div class="experience-section">
+        <h2>Experience</h2>
+        <ul class="timeline">
+          <li>
+            <div class="timeline-content">
+              <h3>SJK(C)Pulai</h3>
+              <p>2010-2015</p>
+              <p>Primary School</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-content">
+              <h3>SMK Kangkar Pulai</h3>
+              <p>2016-2020</p>
+              <p>High School</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-content">
+              <h3>Johor Engineering Matriculation College</h3>
+              <p>2021-2022</p>
+              <p>Pre-University</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-content">
+              <h3>University of Technology Malaysia</h3>
+              <p>2022-present</p>
+            </div>
+          </li>
+        </ul>
+      </div>
+      </section>
+
+      <section>
+        <h2>Contact</h2>
+
+        <div class="container">
+        <form action="/action_page.php">
+          <label for="fname">First Name</label>
+          <input type="text" id="fname" name="firstname" placeholder="Your name..">
+      
+          <label for="lname">Last Name</label>
+          <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" placeholder="Please enter your email">
+      
+          <label for="subject">Subject</label>
+          <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+      
+          <input type="submit" value="Submit">
+        </form>
+        </div>
+      </section>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,77 @@
+h1 {
+    color: #502776;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: #2b1242;
+    font-style: oblique;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.headDiv {
+    background-image: linear-gradient(#813EB6, #BC90DB, #ecdffc);
+    border-style: groove;
+    border-radius: 80%;
+    border-color: #bca5d0;
+    width: 90%;
+}
+
+.aboutMe {
+    border-inline: #ffffff 5px dashed;
+    border-top: #fffeff 5px dashed;
+    border-bottom: #ffffff 5px dashed;
+    width: 90%;
+    background-image: url(https://i.pinimg.com/564x/74/cc/1e/74cc1e84a37cbdfcc783f5888f7fbc00.jpg);
+}
+
+.myPic{
+    border-style: dotted; 
+    border-width: 10px;
+    border-color: #ecdffc; 
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%; 
+    width: 90%;
+}
+body {
+    padding: 0px;
+    text-align: center;
+    background-size: cover;
+    background-color: #BC90DB;
+}
+
+p {
+    text-align: center;
+    float: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul {
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #2b1242;
+    font-size: 20px;
+    text-align: center;
+}
+
+li {
+    font-size: 20px;
+    text-align: center;
+    text-decoration: solid;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #370522;
+}
+.content {
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+  }
