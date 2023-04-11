@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>L9_Exercise</title>
+    <!--
+        Name: Koh Li Hui
+        Matrix No: A22EC0059
+        Github id: kohlihui
+        
+        Lab 9: HTML Forms
+    -->
+</head>
+
+<body>
+    <h1 style="font-family: Verdana, Geneva, Tahoma, sans-serif; text-align: center; color: blue;"><b>Medical Form</b>
+    </h1>
+    <form action="/process.php">
+        <table style="border: 1px solid darkblue; width: 100%; margin-right: 10px;">
+            <tr>
+                <td>
+                    <fieldset style="width: 80%;">
+                        <legend>Personal Information</legend>
+                        <table border="auto">
+                            <tr>
+                                <td>First Name</td>
+                                <td><input type="text" name="First_name" size="20"></td>
+                                <td>Gender</td>
+                                <td><input type="radio"><label for="Female">Female</label>
+                                    <input type="radio"><label for="Male">Male</label>
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td>Last Name</td>
+                                <td><input type="text" name="Last_name" size="20"></td>
+                                <td>Nationality</td>
+                                <td><select name="nationality" id="nationality">
+                                        <option value="Canadian">Canadian</option>
+                                        <option value="Malaysian">Malaysian</option>
+                                        <option value="American">American</option>
+                                        <option value="Indonesian">Indonesian</option>
+                                    </select></td>
+                            </tr>
+
+                            <tr>
+                                <td>Address</td>
+                                <td colspan="3"><textarea name="address" rows="5" cols="30"></textarea></td>
+                            </tr>
+                        </table>
+                    </fieldset>
+
+                    <fieldset style="width: 80%;">
+                        <legend>Medical History</legend>
+                        <input type="radio"><label for="Smallpox">Smallpox</label>
+                        <input type="radio"><label for="Mumps">Mumps</label>
+                        <input type="radio"><label for="Dizziness">Dizziness</label>
+                        <input type="radio"><label for="Sneezing">Sneezing</label>
+                    </fieldset>
+
+                    <fieldset>
+                        <legend>Current Medication</legend>
+                        Are you currently taking any medication?
+                        <input type="radio"><label for="Yes">Yes</label>
+                        <input type="radio"><label for="No">No</label><br>
+                        If you are currently taking medication, please indicate it in the space below:<br>
+                        <textarea id="name" name="address" rows="10" cols="200"></textarea>
+                    </fieldset><br>
+
+                    <input type="submit" value="Submit">
+                    <input type="reset" value="Reset">
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+
+</html>
