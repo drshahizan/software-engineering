@@ -173,6 +173,7 @@ entertainment, personal and business financial applications.
 
 - Artificial intelligence software: Artificial intelligence (AI) software refers to software applications that use machine learning algorithms and other AI techniques to simulate human intelligence and perform tasks that typically require human intervention. These software applications can be used for a wide range of purposes, from automating business processes to assisting with medical diagnosis and treatment.
 
+
 <br><img src="https://i.ytimg.com/vi/BTB86HeZVwk/sddefault.jpg" width="600px"><br>
 
 
