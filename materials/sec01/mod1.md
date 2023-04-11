@@ -28,7 +28,6 @@ Group Explorer
 - [Software Engineering as a Layered Technology](#software-engineering-as-a-layered-technology)
 - [Software Products and Product Specification](#software-products-and-product-specification)
 - [Software Engineering Diversity:Types of Software](#software-engineering-diversity-types-of-software)
-- [Different Types of Software](#different-types-of-software)
 - [Inherent Difficulties](#inherent-difficulties)
 - [Software Complexity](#software-complexity)
 - [Software Changeability](#software-changeability)
@@ -153,12 +152,34 @@ Product specification plays a crucial role in software product development becau
 
 <br><img src="https://www.marketing91.com/wp-content/uploads/2020/02/What-does-a-Product-Specification-include.jpg" width="600px"><br>
 
+## Software Engineering Diversity: Types of Software
+
+Software diversity is a research field about the comprehension and engineering of diversity in the context of software.To build a software at first we fixed our requirements and according to our requirements we have to choose perfect software design and implementation techniques. For different software we have to select different kinds of techniques.
+
+- System software: This type of software is designed to provide a platform for other software to run on. It includes operating systems, device drivers, utilities, and programming language translators. Examples of system software include Windows, Linux, device drivers, and compilers.
+
+- Real-time software: Real-time software is a type of software that is designed to respond to events or input within a specific timeframe. In real-time software, the output or response to an input is required within a specified time interval to meet the system's requirements. Real-time software is commonly used in systems that require high reliability and safety, such as aerospace, defense, and medical equipment.
+
+- Business Software: Business software is any software or set of computer programs used by business users to perform various business functions. These business applications are used to increase productivity, measure productivity,  providing real-time insights, streamlining processes and perform other business functions accurately.
+
+- Embedded software: Embedded software is a type of software that is designed to be embedded into a hardware device or system to control its functionality. It is used in a wide range of applications, including consumer electronics, automotive systems, medical devices, and industrial control systems.It is often programmed in low-level languages, such as C and Assembly, to optimize performance and reduce memory usage.
+
+- System for modeling and simulation: A system for modeling and simulation is a software tool or platform that allows users to create, run, and analyze models of complex systems in various domains, such as engineering, physics, economics, and biology. These systems use mathematical and computational models to simulate the behavior of real-world systems, and they can be used to explore different scenarios, make predictions, and test hypotheses.
+
+- Stand alone application: A stand-alone application is a software application that can run on a computer system without requiring any additional software or resources. These types of applications are often referred to as "native applications" because they are designed specifically for a particular operating system or platform, such as Windows, Mac OS, or Linux. Examples of stand-alone applications include Word processing, spreadsheets, computer graphics, multimedia,
+entertainment, personal and business financial applications.
+
+- Interactive transaction-based software: Interactive transaction-based software is a type of software application that allows users to interact with a computer system to complete transactions or tasks. These types of software are designed to facilitate interactions between users and computer systems, allowing users to perform tasks such as making a purchase, booking a reservation, or completing a financial transaction. Examples of interactive transaction-based software include online banking systems, e-commerce websites, and reservation booking systems.
+
+- Artificial intelligence software: Artificial intelligence (AI) software refers to software applications that use machine learning algorithms and other AI techniques to simulate human intelligence and perform tasks that typically require human intervention. These software applications can be used for a wide range of purposes, from automating business processes to assisting with medical diagnosis and treatment.
+
+<br><img src="https://i.ytimg.com/vi/BTB86HeZVwk/sddefault.jpg" width="600px"><br>
+
+
+
 
 
 </body>
-
-
-
 
 
 
