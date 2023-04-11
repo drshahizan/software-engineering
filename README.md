@@ -23,6 +23,7 @@ This course is designed to give students an introduction to an engineering appro
 2. [Task 1: Additional Notes](./materials/Task1.md)
 3. [Lab exercise](./lab/)
 4. [Project 1: Personal Portfolio Website](./project/1-portfolio/readme.md)
+5. [Personal Portfolio Website](https://drshahizan.github.io/)🆕
 
 
 ## Weekly Schedule
