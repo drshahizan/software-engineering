@@ -112,6 +112,10 @@ Group XXX
   - [Contribution 🛠️](#contribution-️)
 
 # ARCHITECTURAL DESIGN and Detailed Design
+## Recap on Design Stage
+<img src="https://user-images.githubusercontent.com/128198038/231023188-6ebd1ecc-a78c-4c1e-baaf-381f83302f16.jpg" width="300" height="200">
+
+
 # ARCHITECTURAL DESIGN DECISION 
 
 
