@@ -162,6 +162,18 @@ contains many design subsystems (also known as
 relationships between them. <br>
 • The output of the architectural design process is an architectural model that describes how the system is organized as a set of communicating components. <br>
 
+## Design Use Case Realizations
+
+• Use case realizations offer a lower-level view <br>
+• Two-tiered focus:<br>
+– Class interactions supporting a particular use case<br> 
+– Interactions among software, users, and external systems <br>
+• Design typically spread over many iterations <br>
+• UML design class diagrams and interaction diagrams (sequence diagram) è document design <br>
+
+## Example: Architecture of a Packing Robot Control System
+
+<img src="https://user-images.githubusercontent.com/128198038/231027803-84f0b737-862d-4713-8f6d-fd69a93ceda5.jpg" width="300" height="200">
 
 # ARCHITECTURAL DESIGN DECISION 
 ## Architectural Design Decisions
