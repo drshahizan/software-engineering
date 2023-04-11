@@ -171,9 +171,43 @@ relationships between them. <br>
 • Design typically spread over many iterations <br>
 • UML design class diagrams and interaction diagrams (sequence diagram) è document design <br>
 
-## Example: Architecture of a Packing Robot Control System
+## Achitecture of a Packing Robot Control System
 
 <img src="https://user-images.githubusercontent.com/128198038/231027803-84f0b737-862d-4713-8f6d-fd69a93ceda5.jpg" width="300" height="200">
+
+## High Level Architecture of Weather Station System
+
+<img src="https://user-images.githubusercontent.com/128198038/231043804-1475c9a5-80e8-4197-849b-c99d6ee9b6c4.jpg" width="300" height="200">
+
+## Architectural Abstraction
+
+• Architecture in the small is concerned with the architecture of individual programs<br>
+– Concerned with the way that an individual program is decomposed into components<br>
+• Architecture in the large is concerned with the architecture of complex enterprise systems that include other systems, programs, and program components<br>
+– These enterprise systems are distributed over different computers, which may be owned and managed by different companies<br>
+
+## Architectural Representations
+
+• The most common way for describing software architectures is through the use of straightforward, informal block diagrams that represent entities and relationships.
+However, these have come under fire for lacking semantics, failing to depict the different kinds of links between entities, and failing to highlight the distinguishable characteristics of entities in the architecture.
+
+• Relies on how architectural models are utilised; how models are used determines the model semantics requirements.
+
+## Box and Line Diagrams
+
+• Extremely abstract; they don't depict the nature of component interactions or the characteristics of the subsystems that may be seen from the outside.
+
+• Nonetheless, helpful for project planning and stakeholder communication.
+
+## Use of Architectural Models
+
+• To facilitate conversation regarding the system's design.
+- Because it is not cluttered with detail, a high-level architectural view of a system is helpful for communication with system stakeholders and project planning.
+- Stakeholders can discuss the system as a whole without becoming bogged down in details since they can relate to it and comprehend an abstract perspective of it.
+
+• As a technique to preserve the design of an architecture.
+- The goal is to create a full system model that displays all of the system's components, their interfaces, and their linkages.
+  
 
 # ARCHITECTURAL DESIGN DECISION 
 ## Architectural Design Decisions
