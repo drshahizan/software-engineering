@@ -17,6 +17,7 @@ Lab 10: Application Form
 
 <body>
     <h1 style="text-align: center;">Web Programming: Application Form</h1>
+    <form>
     <fieldset>
         <legend>Personal Details</legend>
         <table style="width:1200px; height:30px;">
@@ -100,7 +101,93 @@ Lab 10: Application Form
                 </select> </td>
             </tr>
         </table>
-    </fieldset>
+        </fieldset>
 
+        <fieldset>
+            <legend>Qualification Details</legend>
+            <table  style="width:1200px; height:30px">
+                <tr>
+                    <td >No.</td>
+                    <td  >Qualification</td>
+                    <td >University</td>
+                    <td>Passing Year</td>
+                    <td>CGPA</td>
+                </tr>
+                <tr>
+                    <td style=" height:30px">1</td>
+                    <td><select id="q" name="q">
+                        <option value="">--select--</option>
+                        <option value="SPM">SPM</option>
+                        <option value="PT3">PT3</option>
+                        <option value="STPM">STPM</option>
+                        <option value="Matriculation">Matriculation</option>
+                        <option value="A-Level">A-Level</option>
+                    </select></td>
+                    <td><input type="text" id="u" name="u" style="width:300px;"> </td>
+                    <td><input type="text" id="p" name="p" style="width:100px;"> </td>
+                    <td><input type="text" id="c" name="c" style="width:100px;"> </td>
+                </tr>
+                <tr>
+                    <td style="height:30px">2</td>
+                    <td><select id="q" name="q">
+                        <option value="">--select--</option>
+                        <option value="SPM">SPM</option>
+                        <option value="PT3">PT3</option>
+                        <option value="STPM">STPM</option>
+                        <option value="Matriculation">Matriculation</option>
+                        <option value="A-Level">A-Level</option>
+                    </select></td>
+                    <td><input type="text" id="u" name="u" style="width:300px;"> </td>
+                    <td><input type="text" id="p" name="p" style="width:100px;"> </td>
+                    <td><input type="text" id="c" name="c" style="width:100px;"> </td>
+                </tr>
+            </table>
+        </fieldset>
 
+        <fieldset>
+            <legend>Language Knowledge</legend>
+            <table style="width:1200px; height:30px">
+                <tr>
+                    <td><b>Language</b></td>
+                    <td><i>Reading</i></td>
+                    <td><i>Writing</i></td>
+                    <td><i>Speaking</i></td>
+                </tr>
+                <tr>
+                    <td>B.Melayu</td>
+                    <td><input type="checkbox" id="r" name="r"></td>
+                    <td><input type="checkbox" id="w" name="w"> </td>
+                    <td><input type="checkbox" id="s" name="s"> </td>
+                </tr>
+                <tr>
+                    <td>English</td>
+                    <td><input type="checkbox" id="r" name="r"></td>
+                    <td><input type="checkbox" id="w" name="w"> </td>
+                    <td><input type="checkbox" id="s" name="s"> </td>
+                </tr>
+            </table>
+        </fieldset>
+
+        <fieldset>
+            <legend>Identification Details</legend>
+            <table style="width:900px; height:30px">
+                <tr  >
+                    <td>Identication Card Number</td>
+                    <td style="width:300px;"><input type="text" id="ic" name="ic"> </td>
+                    <td >Passport Number</td>
+                    <td><input type="text" id="pn" name="pn"> </td>
+                </tr>
+                <tr>
+                    <td>Upload Photo</td>
+                    <td><input type="file" id="photo" name="photo"> </td>
+                    <td>Upload Signature</td>
+                    <td><input type="file" id="signature" name="signature"> </td>
+                </tr>
+
+            </table>
+        </fieldset>
+        <div style="text-align: center;">
+<input type="submit" value="submit" > <button onclick="history.back()">back</button>
+</div>
+ </form>       
 </body>
