@@ -15,7 +15,7 @@ Group Explorer
 2. LOW JIE SHENG A22EC0075
 3. CHEN PYNG HAW A22EC0042
 
-
+<body>
 
 # Module 1: Introduction to Software Engineering 
 
@@ -28,7 +28,6 @@ Group Explorer
 - [Software Engineering as a Layered Technology](#software-engineering-as-a-layered-technology)
 - [Software Products and Product Specification](#software-products-and-product-specification)
 - [Software Engineering Diversity:Types of Software](#software-engineering-diversity-types-of-software)
-- [Different Types of Software](#different-types-of-software)
 - [Inherent Difficulties](#inherent-difficulties)
 - [Software Complexity](#software-complexity)
 - [Software Changeability](#software-changeability)
@@ -50,26 +49,31 @@ Group Explorer
 - [Software Engineering | Introduction to Software Engineering](https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/)
 
 
-## The Importance of Software Engineering
+<h2><u> The Importance of Software Engineering </u></h2>
 
-Software engineering is an essential field of study that deals with the design, development, and maintenance of software applications. It plays a vital role in the development and success of modern technology. Here are some of the reasons why software engineering is important:
+Software engineering is an essential field of study that deals with the design, development, and maintenance of software applications. It plays a vital role in the development and success of modern technology. The importance of software engineering can be seen in many areas of modern society, including business, healthcare, education, and entertainment.
 
-- Reduces Complexity
-Dealing with big Software is very complicated and challenging. Thus to reduce the complications of projects, software engineering has great solutions. It simplifies complex problems and solves those issues one by one.
-- Handling Big Projects
-Big projects need lots of patience, planning, and management, which you never get from any company. The company will invest its resources; therefore, it should be completed within the deadline. It is only possible if the company uses software engineering to deal with big projects without problems.
-- To Minimize Software Costs
-Software engineers are paid highly as Software needs a lot of hard work and workforce development. These are developed with the help of a large number of codes. But programmers in software engineering project all things and reduce the things which are not needed. As a result of the production of Software, costs become less and more affordable for Software that does not use this method.
-- To Decrease Time
-If things are not made according to the procedures, it becomes a huge loss of time. Accordingly, complex Software must run much code to get definitive running code. So it takes lots of time if not handled properly. And if you follow the prescribed software engineering methods, it will save your precious time by decreasing it.
--  Effectiveness
-Making standards decides the effectiveness of things. Therefore a company always targets the software standard to make it more effective. And Software becomes more effective only with the help of software engineering.
-- Reliable Software
-The Software will be reliable if software engineering, testing, and maintenance are given. As a software developer, you must ensure that the Software is secure and will work for the period or subscription you have agreed upon.
-- Collaboration: Software engineering fosters collaboration among developers, designers, and stakeholders, which helps ensure that software systems are developed with the end user in mind. This collaboration also helps improve communication, reduce errors, and ensure that software meets the needs of all stakeholders.
+<b> Why software engineering is important?</b>
 
-In conclusion,software engineering is important for reduces complexity, handling big projects, minimize software costs, decrease time, effectiveness,  reliable software and collaboration in the development of software systems.
+1. Reduces Complexity
+   - Help to simplify complex problems and solve those issues one by one.</li>
+2. Handling Big Projects
+   - Big projects need lots of patience, planning, and management, which you never get from any company. The company will invest its resources; therefore, it should be completed within the deadline. It is only possible if the company uses software engineering to deal with big projects without problems.
+3. Minimize Software Costs
+   - Software engineers are paid highly as Software needs a lot of hard work and workforce development. These are developed with the help of a large number of codes. But programmers in software engineering project all things and reduce the things which are not needed. As a result of the production of Software, costs become less and more affordable for Software that does not use this method.
+5. Decrease Time
+   - If follow the prescribed software engineering methods, it will save the precious time by decreasing it.
+6. Enables the creation of complex software systems that can automate tasks and increase efficiency
+   - This can be seen in industries such as finance and manufacturing, where software is used to automate processes and reduce the likelihood of human error.
+7. Ensure the quality and reliability of software systems
+   - The software will be reliable if software engineering, testing, and maintenance are given.
+   - By applying engineering principles and rigorous testing methodologies, software engineers can identify and correct potential issues before they impact end-users.
+8. Collaboration
+   - Software engineering fosters collaboration among developers, designers, and stakeholders, which helps ensure that software systems are developed with the end user in mind. This collaboration also helps improve communication, reduce errors, and ensure that software meets the needs of all stakeholders.
+9. Ensuring security and privacy
+   - Software engineers can design systems that are resistant to cyberattacks and ensure that user data is protected.
 
+Overall, software engineering is a vital discipline that plays an important role in many areas of modern society. Its benefits include improved quality and reliability of software systems, increased efficiency and automation, improved security and privacy, and the ability to drive innovation and advance technology.
 
 <br><img src="https://miro.medium.com/max/875/0*GD_XmCiR-l1cPrzh" width="600px"><br>  
 
@@ -148,6 +152,91 @@ Product specification plays a crucial role in software product development becau
 
 <br><img src="https://www.marketing91.com/wp-content/uploads/2020/02/What-does-a-Product-Specification-include.jpg" width="600px"><br>
 
+## Software Engineering Diversity: Types of Software
+
+Software diversity is a research field about the comprehension and engineering of diversity in the context of software.To build a software at first we fixed our requirements and according to our requirements we have to choose perfect software design and implementation techniques. For different software we have to select different kinds of techniques.
+
+- System software: This type of software is designed to provide a platform for other software to run on. It includes operating systems, device drivers, utilities, and programming language translators. Examples of system software include Windows, Linux, device drivers, and compilers.
+
+- Real-time software: Real-time software is a type of software that is designed to respond to events or input within a specific timeframe. In real-time software, the output or response to an input is required within a specified time interval to meet the system's requirements. Real-time software is commonly used in systems that require high reliability and safety, such as aerospace, defense, and medical equipment.
+
+- Business Software: Business software is any software or set of computer programs used by business users to perform various business functions. These business applications are used to increase productivity, measure productivity,  providing real-time insights, streamlining processes and perform other business functions accurately.
+
+- Embedded software: Embedded software is a type of software that is designed to be embedded into a hardware device or system to control its functionality. It is used in a wide range of applications, including consumer electronics, automotive systems, medical devices, and industrial control systems.It is often programmed in low-level languages, such as C and Assembly, to optimize performance and reduce memory usage.
+
+- System for modeling and simulation: A system for modeling and simulation is a software tool or platform that allows users to create, run, and analyze models of complex systems in various domains, such as engineering, physics, economics, and biology. These systems use mathematical and computational models to simulate the behavior of real-world systems, and they can be used to explore different scenarios, make predictions, and test hypotheses.
+
+- Stand alone application: A stand-alone application is a software application that can run on a computer system without requiring any additional software or resources. These types of applications are often referred to as "native applications" because they are designed specifically for a particular operating system or platform, such as Windows, Mac OS, or Linux. Examples of stand-alone applications include Word processing, spreadsheets, computer graphics, multimedia,
+entertainment, personal and business financial applications.
+
+- Interactive transaction-based software: Interactive transaction-based software is a type of software application that allows users to interact with a computer system to complete transactions or tasks. These types of software are designed to facilitate interactions between users and computer systems, allowing users to perform tasks such as making a purchase, booking a reservation, or completing a financial transaction. Examples of interactive transaction-based software include online banking systems, e-commerce websites, and reservation booking systems.
+
+- Artificial intelligence software: Artificial intelligence (AI) software refers to software applications that use machine learning algorithms and other AI techniques to simulate human intelligence and perform tasks that typically require human intervention. These software applications can be used for a wide range of purposes, from automating business processes to assisting with medical diagnosis and treatment.
+
+
+Each of these software types requires a different set of skills and expertise, and each has its own challenges and opportunities for diversity and inclusion in software engineering.
+
+
+<br><img src="https://i.ytimg.com/vi/BTB86HeZVwk/sddefault.jpg" width="600px"><br>
+
+## Inherent Difficulties
+
+Inherent difficulties refer to challenges or obstacles that are inherent or intrinsic to a particular task or activity. In the context of software development, inherent difficulties refer to challenges that are specific to software development processes and projects. Some inherent difficulties in software development include:
+
+- Complexity: Software development involves working with complex systems and processes, which can be difficult to manage and maintain.
+
+- Changing requirements: Requirements for software projects can change frequently, making it difficult to deliver a product that meets all of the customer's needs.
+
+- Integration: Software development often involves integrating multiple systems and technologies, which can be challenging and time-consuming.
+
+- Security: Ensuring the security of software applications is a major challenge, as new vulnerabilities and threats are constantly emerging.
+
+- Testing and debugging: Identifying and fixing bugs in software applications can be time-consuming and difficult, particularly for complex applications.
+
+- Project management: Managing software development projects requires careful planning, coordination, and communication, which can be difficult to achieve in practice.
+
+- Scalability: Developing software that can scale to handle large numbers of users or data volumes can be challenging, particularly when dealing with complex systems and architectures.
+
+Planning, managing, and executing software projects effectively is crucial to mitigating the effects of these inherent difficulties. In order to address some of these challenges, and to improve the efficiency and effectiveness of the software development process, software engineering best practices, such as agile development, continuous integration, and automated testing, can be utilized effectively.
+
+
+<br><img src="https://www.contradodigital.com/wp-content/uploads/2016/03/Software-Development-Technology-Landscape.png" width="600px"><br>
+
+
+## Software Complexity
+
+Software complexity is a natural byproduct of the functional complexity that the code is attempting to enable. With multiple system interfaces and complex requirements, the complexity of software systems sometimes grows beyond control, rendering applications and portfolios overly costly to maintain and risky to enhance. The software complexity are come from:
+
+- Application domain: Application domain refers to the specific area of application or field in which a software system is designed to operate. It encompasses the knowledge, concepts, and terminology that are relevant to a particular application area, as well as the constraints and requirements that are specific to that domain.
+
+- Communication among stakeholders (clients, developers): Effective communication between domain experts and developers is crucial for the success of software projects. Domain experts have deep knowledge of the application domain, including its terminology, concepts, and requirements. Developers, on the other hand, have expertise in software development, including programming languages, software design, and testing.
+
+- Management of large software development projects: Management of large software development projects is a complex task that requires careful planning, effective communication, and efficient use of resources. The key strategies that can be used to manage large software development projects are develop a detailed project plan, break down the project into smaller tasks, define clear roles and responsibilities, use project management tools and monitor project risks. 
+
+Software complexity can lead to software quality problems. The reason that lead to these problems are:
+
+- Increased likelihood of defects: As software becomes more complex, the likelihood of defects increases. This is because there are more opportunities for errors to occur, and it becomes more difficult to ensure that all possible scenarios have been tested. As a result, complex software may be more likely to contain bugs or other defects that can impact its quality.
+
+- Difficulty in understanding and maintaining the code: Complex software can be difficult to understand and maintain, which can lead to quality problems. Developers may struggle to identify bugs or make changes to the code, leading to errors and defects. This can be particularly problematic when multiple developers are working on the same codebase, as inconsistencies and conflicts can arise.
+
+- Poor performance: Complex software can also suffer from poor performance, as it may require more processing power or memory to run effectively. This can lead to crashes or other quality problems that impact the user experience.
+
+- Inconsistencies in user experience: Complex software can also lead to inconsistencies in the user experience, as different parts of the software may behave differently or have different design patterns. This can lead to confusion and frustration among users, which can impact their perception of the software's quality.
+
+Here are some of the examples of software quality problems that have occurred around the world:
+
+- Y2K Bug: In the late 1990s, there was concern that many computer systems would experience problems when the year 2000 arrived, due to the way dates were stored. This was known as the Y2K bug, and many organizations spent significant time and resources updating their software to prevent problems.
+
+- Ariane 5 Rocket Failure: In 1996, the maiden flight of the Ariane 5 rocket ended in failure due to a software error. The rocket's software was not designed to handle the faster speed of the new rocket, leading to a crash that destroyed the rocket and its payload.
+
+- Volkswagen Emissions Scandal: In 2015, it was discovered that Volkswagen had installed software in its diesel cars that allowed them to cheat emissions tests. This led to a scandal that affected millions of cars around the world, and caused significant damage to Volkswagen's reputation.
+- 
+- Healthcare.gov Launch Issues: In 2013, the launch of the Healthcare.gov website in the United States was marred by numerous software quality problems. The website was slow, buggy, and difficult to use, which led to significant criticism and delays in the enrollment process.
+
+Overall, software complexity can have a significant impact on software quality. To mitigate these issues, developers should focus on simplifying the software design, reducing the number of components, and thoroughly testing the software to identify and fix defects before release. Additionally, they should prioritize effective communication and collaboration among team members, to ensure that everyone is on the same page and working towards the same goals.
+
+
+<br><img src="https://thumbs.dreamstime.com/b/cartoon-y-k-millennium-bug-vector-hand-drawn-illustration-huge-crawling-towards-frightened-looking-computer-isolated-78280302.jpg" width="600px"><br>
 
 
 
@@ -155,6 +244,8 @@ Product specification plays a crucial role in software product development becau
 
 
 
+
+</body>
 
 
 
@@ -162,4 +253,40 @@ Product specification plays a crucial role in software product development becau
 
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any 
+Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any e</li>
+        <ul>
+            <li> If follow the prescribed software engineering methods, it will save the precious time by decreasing it.
+            </li>
+        </ul>
+        <li>Enables the creation of complex software systems that can automate tasks and increase efficiency</li>
+        <ul>
+            <li>This can be seen in industries such as finance and manufacturing, where software is used to automate
+                processes and reduce the likelihood of human error.</li>
+        </ul>
+        <li>Ensure the quality and reliability of software systems</li>
+        <ul>
+            <li>The software will be reliable if software engineering, testing, and maintenance are given.</li>
+            <li>By applying engineering principles and rigorous testing methodologies, software engineers can identify
+                and correct potential issues before they impact end-users. </li>
+        </ul>
+        <li>Collaboration</li>
+        <ul>
+            <li>Software engineering fosters collaboration among developers, designers, and stakeholders, which helps
+                ensure that software systems are developed with the end user in mind. This collaboration also helps
+                improve communication, reduce errors, and ensure that software meets the needs of all stakeholders.</li>
+        </ul>
+
+        <li>Ensuring security and privacy</li>
+        <ul>
+            <li>Software engineers can design systems that are resistant to cyberattacks and ensure that user data is
+                protected.</li>
+        </ul>
+    </ol>
+    <p> Overall, software engineering is a vital discipline that plays an important role in many areas of modern
+        society.
+        Its benefits include improved quality and reliability of software systems, increased efficiency and automation,
+        improved security and privacy, and the ability to drive innovation and advance technology.</p>
+
+</body>
+
+
