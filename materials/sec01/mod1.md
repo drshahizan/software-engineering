@@ -201,12 +201,6 @@ Please create an [Issue](https://github.com/drshahizan/software-engineering/issu
         Its benefits include improved quality and reliability of software systems, increased efficiency and automation,
         improved security and privacy, and the ability to drive innovation and advance technology.</p>
 
-
-<br><img src="https://miro.medium.com/max/875/0*GD_XmCiR-l1cPrzh" width="600px"><br>  
-
-
-
-
 </body>
 
 
