@@ -174,7 +174,38 @@ entertainment, personal and business financial applications.
 - Artificial intelligence software: Artificial intelligence (AI) software refers to software applications that use machine learning algorithms and other AI techniques to simulate human intelligence and perform tasks that typically require human intervention. These software applications can be used for a wide range of purposes, from automating business processes to assisting with medical diagnosis and treatment.
 
 
+Each of these software types requires a different set of skills and expertise, and each has its own challenges and opportunities for diversity and inclusion in software engineering.
+
+
 <br><img src="https://i.ytimg.com/vi/BTB86HeZVwk/sddefault.jpg" width="600px"><br>
+
+## Inherent Difficulties
+
+Inherent difficulties refer to challenges or obstacles that are inherent or intrinsic to a particular task or activity. In the context of software development, inherent difficulties refer to challenges that are specific to software development processes and projects. Some inherent difficulties in software development include:
+
+- Complexity: Software development involves working with complex systems and processes, which can be difficult to manage and maintain.
+
+- Changing requirements: Requirements for software projects can change frequently, making it difficult to deliver a product that meets all of the customer's needs.
+
+- Integration: Software development often involves integrating multiple systems and technologies, which can be challenging and time-consuming.
+
+- Security: Ensuring the security of software applications is a major challenge, as new vulnerabilities and threats are constantly emerging.
+
+- Testing and debugging: Identifying and fixing bugs in software applications can be time-consuming and difficult, particularly for complex applications.
+
+- Project management: Managing software development projects requires careful planning, coordination, and communication, which can be difficult to achieve in practice.
+
+- Scalability: Developing software that can scale to handle large numbers of users or data volumes can be challenging, particularly when dealing with complex systems and architectures.
+
+These inherent difficulties in software development require careful planning, management, and execution to mitigate their impact and ensure the success of the project. Effective use of software engineering best practices, such as agile development, continuous integration, and automated testing, can help address some of these challenges and improve the software development process's efficiency and effectiveness.
+
+
+<br><img src="https://www.contradodigital.com/wp-content/uploads/2016/03/Software-Development-Technology-Landscape.png" width="600px"><br>
+
+
+
+
+
 
 
 
