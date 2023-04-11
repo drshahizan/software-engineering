@@ -1,12 +1,11 @@
 body {
     background-color: salmon;
-}
-
-h1 {
+  }
+  
+  h1 {
     color: white;
     margin-left: 20px;
-}
-
+  }
 #para1{
     font-size: 50px;
     text-align: center;

@@ -27,8 +27,60 @@ Group LimaPuluh
 - Architectural Pattern
 
 #### Architectural Design and Detailed Design
-<hr>
+<br>
+#### Architecture Analogy for Software vs. House?
+<img src="https://media.licdn.com/dms/image/C5612AQEH0VXsQ_hVag/article-cover_image-shrink_600_2000/0/1520203112384?e=2147483647&v=beta&t=wePYqDGqj2_M-0I8NfkVqEZDAppoKdEIR6RILQ-z7Us" width="300" height="200">
+<br>
+<li><b>Building Blocks</b></li>
+In a house, the building blocks are the bricks, mortar, wood, and other materials used to construct the physical structure. In software, the building blocks are the components, libraries, frameworks, and other software artifacts used to construct the software system.
+<br>
+<br>
+<li><b>Design</b></li>
+In a house, the design determines the layout, size, shape, and other characteristics of the physical structure. In software, the design determines the layout, size, shape, and other characteristics of the software system.
+<br>
+<br>
+<li><b>Components</b></li>
+In a house, the components include the walls, floors, windows, doors, roof, and other physical elements that make up the physical structure. In software, the components include the modules, classes, functions, and other software artifacts that make up the software system.
+<br>
+<br>
+<li><b>Interface</b></li>
+In a house, the interface between the physical structure and the outside world includes the windows, doors, and other openings that allow people to enter and exit the house. In software, the interface between the software system and the outside world includes the user interface, APIs, and other mechanisms that allow users to interact with the software system.
+<br>
+<br>
+<li><b>Maintenance</b></li>
+In a house, maintenance involves repairing and replacing physical elements that wear out or become damaged over time. In software, maintenance involves updating and modifying the software system to address changing requirements and to fix bugs and other issues.
+<br>
+<br>
+By understanding the analogy between software architecture and house architecture, software engineers can better understand the importance of good software architecture and the principles of good design. Just as a well-designed house is functional, efficient, and comfortable, a well-designed software system is functional, efficient, and easy to use and maintain.
+<br>
+#### Design Discipline Activities
+<li>Segmented into <b>6 major activities</b>:</li>
+<br>
+<b>Design the Support Services Architecture and Deployment Environment:</b>
+This activity involves designing the architecture of the support services that the software system will need, such as networking, web servers, databases, and other infrastructure components. It also involves designing the deployment environment, which includes the hardware, software, and network configurations needed to deploy the software system.
+<br>
+<br>
+<b>Design the Software Architecture:</b>
+This activity involves designing the overall structure of the software system, including the components, modules, and subsystems that make up the system. It also involves defining the relationships between these components and the interfaces that they expose to each other and to external systems.
+<br>
+<br>
+<b>Design the Use Case Realizations:</b>
+Design the Use Case Realizations:
+This activity involves designing the detailed behavior of the software system in response to the various use cases that it needs to support. This includes designing the user interfaces, the flow of control between different parts of the system, and the specific algorithms and data structures used to implement the system's functionality.
+<br>
+<br>
+<b>Design the Database:</b>
+This activity involves designing the database schema and data model that the software system will use to store and retrieve data. It includes defining the tables, fields, relationships, and constraints that will be used in the database, as well as designing the queries and other data access mechanisms used by the system.
+<br>
+<br>
+<b>Design the System and User Interfaces:</b>
+This activity involves designing the overall user interface of the software system, including the layout, navigation, and visual design of the system. It also involves designing the specific interactions that users will have with the system, such as data entry and retrieval, and defining the usability and accessibility requirements of the system.
+<br>
+<br>
+<b>Design the System Security and Controls:</b>
+This activity involves designing the security and access controls for the software system, including authentication, authorization, encryption, and other mechanisms used to protect the system and its data from unauthorized access or modification. It also involves designing the audit and logging mechanisms used to track system activity and detect potential security breaches.
 
+By following a disciplined approach to these design activities, software engineers can ensure that the software system they are building meets the needs of its users, is scalable and maintainable, and provides a secure and reliable platform for its intended use.
 #### Architectural Design Decision
 <hr>
 
