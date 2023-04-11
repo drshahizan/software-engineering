@@ -197,12 +197,46 @@ Inherent difficulties refer to challenges or obstacles that are inherent or intr
 
 - Scalability: Developing software that can scale to handle large numbers of users or data volumes can be challenging, particularly when dealing with complex systems and architectures.
 
-These inherent difficulties in software development require careful planning, management, and execution to mitigate their impact and ensure the success of the project. Effective use of software engineering best practices, such as agile development, continuous integration, and automated testing, can help address some of these challenges and improve the software development process's efficiency and effectiveness.
+Planning, managing, and executing software projects effectively is crucial to mitigating the effects of these inherent difficulties. In order to address some of these challenges, and to improve the efficiency and effectiveness of the software development process, software engineering best practices, such as agile development, continuous integration, and automated testing, can be utilized effectively.
 
 
 <br><img src="https://www.contradodigital.com/wp-content/uploads/2016/03/Software-Development-Technology-Landscape.png" width="600px"><br>
 
 
+## Software Complexity
+
+Software complexity is a natural byproduct of the functional complexity that the code is attempting to enable. With multiple system interfaces and complex requirements, the complexity of software systems sometimes grows beyond control, rendering applications and portfolios overly costly to maintain and risky to enhance. The software complexity are come from:
+
+- Application domain: Application domain refers to the specific area of application or field in which a software system is designed to operate. It encompasses the knowledge, concepts, and terminology that are relevant to a particular application area, as well as the constraints and requirements that are specific to that domain.
+
+- Communication among stakeholders (clients, developers): Effective communication between domain experts and developers is crucial for the success of software projects. Domain experts have deep knowledge of the application domain, including its terminology, concepts, and requirements. Developers, on the other hand, have expertise in software development, including programming languages, software design, and testing.
+
+- Management of large software development projects: Management of large software development projects is a complex task that requires careful planning, effective communication, and efficient use of resources. The key strategies that can be used to manage large software development projects are develop a detailed project plan, break down the project into smaller tasks, define clear roles and responsibilities, use project management tools and monitor project risks. 
+
+Software complexity can lead to software quality problems. The reason that lead to these problems are:
+
+- Increased likelihood of defects: As software becomes more complex, the likelihood of defects increases. This is because there are more opportunities for errors to occur, and it becomes more difficult to ensure that all possible scenarios have been tested. As a result, complex software may be more likely to contain bugs or other defects that can impact its quality.
+
+- Difficulty in understanding and maintaining the code: Complex software can be difficult to understand and maintain, which can lead to quality problems. Developers may struggle to identify bugs or make changes to the code, leading to errors and defects. This can be particularly problematic when multiple developers are working on the same codebase, as inconsistencies and conflicts can arise.
+
+- Poor performance: Complex software can also suffer from poor performance, as it may require more processing power or memory to run effectively. This can lead to crashes or other quality problems that impact the user experience.
+
+- Inconsistencies in user experience: Complex software can also lead to inconsistencies in the user experience, as different parts of the software may behave differently or have different design patterns. This can lead to confusion and frustration among users, which can impact their perception of the software's quality.
+
+Here are some of the examples of software quality problems that have occurred around the world:
+
+- Y2K Bug: In the late 1990s, there was concern that many computer systems would experience problems when the year 2000 arrived, due to the way dates were stored. This was known as the Y2K bug, and many organizations spent significant time and resources updating their software to prevent problems.
+
+- Ariane 5 Rocket Failure: In 1996, the maiden flight of the Ariane 5 rocket ended in failure due to a software error. The rocket's software was not designed to handle the faster speed of the new rocket, leading to a crash that destroyed the rocket and its payload.
+
+- Volkswagen Emissions Scandal: In 2015, it was discovered that Volkswagen had installed software in its diesel cars that allowed them to cheat emissions tests. This led to a scandal that affected millions of cars around the world, and caused significant damage to Volkswagen's reputation.
+- 
+- Healthcare.gov Launch Issues: In 2013, the launch of the Healthcare.gov website in the United States was marred by numerous software quality problems. The website was slow, buggy, and difficult to use, which led to significant criticism and delays in the enrollment process.
+
+Overall, software complexity can have a significant impact on software quality. To mitigate these issues, developers should focus on simplifying the software design, reducing the number of components, and thoroughly testing the software to identify and fix defects before release. Additionally, they should prioritize effective communication and collaboration among team members, to ensure that everyone is on the same page and working towards the same goals.
+
+
+<br><img src="https://thumbs.dreamstime.com/b/cartoon-y-k-millennium-bug-vector-hand-drawn-illustration-huge-crawling-towards-frightened-looking-computer-isolated-78280302.jpg" width="600px"><br>
 
 
 
@@ -212,7 +246,6 @@ These inherent difficulties in software development require careful planning, ma
 
 
 </body>
-
 
 
 
