@@ -28,7 +28,6 @@ Group Explorer
 - [Software Engineering as a Layered Technology](#software-engineering-as-a-layered-technology)
 - [Software Products and Product Specification](#software-products-and-product-specification)
 - [Software Engineering Diversity:Types of Software](#software-engineering-diversity-types-of-software)
-- [Different Types of Software](#different-types-of-software)
 - [Inherent Difficulties](#inherent-difficulties)
 - [Software Complexity](#software-complexity)
 - [Software Changeability](#software-changeability)
@@ -153,13 +152,100 @@ Product specification plays a crucial role in software product development becau
 
 <br><img src="https://www.marketing91.com/wp-content/uploads/2020/02/What-does-a-Product-Specification-include.jpg" width="600px"><br>
 
+## Software Engineering Diversity: Types of Software
+
+Software diversity is a research field about the comprehension and engineering of diversity in the context of software.To build a software at first we fixed our requirements and according to our requirements we have to choose perfect software design and implementation techniques. For different software we have to select different kinds of techniques.
+
+- System software: This type of software is designed to provide a platform for other software to run on. It includes operating systems, device drivers, utilities, and programming language translators. Examples of system software include Windows, Linux, device drivers, and compilers.
+
+- Real-time software: Real-time software is a type of software that is designed to respond to events or input within a specific timeframe. In real-time software, the output or response to an input is required within a specified time interval to meet the system's requirements. Real-time software is commonly used in systems that require high reliability and safety, such as aerospace, defense, and medical equipment.
+
+- Business Software: Business software is any software or set of computer programs used by business users to perform various business functions. These business applications are used to increase productivity, measure productivity,  providing real-time insights, streamlining processes and perform other business functions accurately.
+
+- Embedded software: Embedded software is a type of software that is designed to be embedded into a hardware device or system to control its functionality. It is used in a wide range of applications, including consumer electronics, automotive systems, medical devices, and industrial control systems.It is often programmed in low-level languages, such as C and Assembly, to optimize performance and reduce memory usage.
+
+- System for modeling and simulation: A system for modeling and simulation is a software tool or platform that allows users to create, run, and analyze models of complex systems in various domains, such as engineering, physics, economics, and biology. These systems use mathematical and computational models to simulate the behavior of real-world systems, and they can be used to explore different scenarios, make predictions, and test hypotheses.
+
+- Stand alone application: A stand-alone application is a software application that can run on a computer system without requiring any additional software or resources. These types of applications are often referred to as "native applications" because they are designed specifically for a particular operating system or platform, such as Windows, Mac OS, or Linux. Examples of stand-alone applications include Word processing, spreadsheets, computer graphics, multimedia,
+entertainment, personal and business financial applications.
+
+- Interactive transaction-based software: Interactive transaction-based software is a type of software application that allows users to interact with a computer system to complete transactions or tasks. These types of software are designed to facilitate interactions between users and computer systems, allowing users to perform tasks such as making a purchase, booking a reservation, or completing a financial transaction. Examples of interactive transaction-based software include online banking systems, e-commerce websites, and reservation booking systems.
+
+- Artificial intelligence software: Artificial intelligence (AI) software refers to software applications that use machine learning algorithms and other AI techniques to simulate human intelligence and perform tasks that typically require human intervention. These software applications can be used for a wide range of purposes, from automating business processes to assisting with medical diagnosis and treatment.
+
+
+Each of these software types requires a different set of skills and expertise, and each has its own challenges and opportunities for diversity and inclusion in software engineering.
+
+
+<br><img src="https://i.ytimg.com/vi/BTB86HeZVwk/sddefault.jpg" width="600px"><br>
+
+## Inherent Difficulties
+
+Inherent difficulties refer to challenges or obstacles that are inherent or intrinsic to a particular task or activity. In the context of software development, inherent difficulties refer to challenges that are specific to software development processes and projects. Some inherent difficulties in software development include:
+
+- Complexity: Software development involves working with complex systems and processes, which can be difficult to manage and maintain.
+
+- Changing requirements: Requirements for software projects can change frequently, making it difficult to deliver a product that meets all of the customer's needs.
+
+- Integration: Software development often involves integrating multiple systems and technologies, which can be challenging and time-consuming.
+
+- Security: Ensuring the security of software applications is a major challenge, as new vulnerabilities and threats are constantly emerging.
+
+- Testing and debugging: Identifying and fixing bugs in software applications can be time-consuming and difficult, particularly for complex applications.
+
+- Project management: Managing software development projects requires careful planning, coordination, and communication, which can be difficult to achieve in practice.
+
+- Scalability: Developing software that can scale to handle large numbers of users or data volumes can be challenging, particularly when dealing with complex systems and architectures.
+
+Planning, managing, and executing software projects effectively is crucial to mitigating the effects of these inherent difficulties. In order to address some of these challenges, and to improve the efficiency and effectiveness of the software development process, software engineering best practices, such as agile development, continuous integration, and automated testing, can be utilized effectively.
+
+
+<br><img src="https://www.contradodigital.com/wp-content/uploads/2016/03/Software-Development-Technology-Landscape.png" width="600px"><br>
+
+
+## Software Complexity
+
+Software complexity is a natural byproduct of the functional complexity that the code is attempting to enable. With multiple system interfaces and complex requirements, the complexity of software systems sometimes grows beyond control, rendering applications and portfolios overly costly to maintain and risky to enhance. The software complexity are come from:
+
+- Application domain: Application domain refers to the specific area of application or field in which a software system is designed to operate. It encompasses the knowledge, concepts, and terminology that are relevant to a particular application area, as well as the constraints and requirements that are specific to that domain.
+
+- Communication among stakeholders (clients, developers): Effective communication between domain experts and developers is crucial for the success of software projects. Domain experts have deep knowledge of the application domain, including its terminology, concepts, and requirements. Developers, on the other hand, have expertise in software development, including programming languages, software design, and testing.
+
+- Management of large software development projects: Management of large software development projects is a complex task that requires careful planning, effective communication, and efficient use of resources. The key strategies that can be used to manage large software development projects are develop a detailed project plan, break down the project into smaller tasks, define clear roles and responsibilities, use project management tools and monitor project risks. 
+
+Software complexity can lead to software quality problems. The reason that lead to these problems are:
+
+- Increased likelihood of defects: As software becomes more complex, the likelihood of defects increases. This is because there are more opportunities for errors to occur, and it becomes more difficult to ensure that all possible scenarios have been tested. As a result, complex software may be more likely to contain bugs or other defects that can impact its quality.
+
+- Difficulty in understanding and maintaining the code: Complex software can be difficult to understand and maintain, which can lead to quality problems. Developers may struggle to identify bugs or make changes to the code, leading to errors and defects. This can be particularly problematic when multiple developers are working on the same codebase, as inconsistencies and conflicts can arise.
+
+- Poor performance: Complex software can also suffer from poor performance, as it may require more processing power or memory to run effectively. This can lead to crashes or other quality problems that impact the user experience.
+
+- Inconsistencies in user experience: Complex software can also lead to inconsistencies in the user experience, as different parts of the software may behave differently or have different design patterns. This can lead to confusion and frustration among users, which can impact their perception of the software's quality.
+
+Here are some of the examples of software quality problems that have occurred around the world:
+
+- Y2K Bug: In the late 1990s, there was concern that many computer systems would experience problems when the year 2000 arrived, due to the way dates were stored. This was known as the Y2K bug, and many organizations spent significant time and resources updating their software to prevent problems.
+
+- Ariane 5 Rocket Failure: In 1996, the maiden flight of the Ariane 5 rocket ended in failure due to a software error. The rocket's software was not designed to handle the faster speed of the new rocket, leading to a crash that destroyed the rocket and its payload.
+
+- Volkswagen Emissions Scandal: In 2015, it was discovered that Volkswagen had installed software in its diesel cars that allowed them to cheat emissions tests. This led to a scandal that affected millions of cars around the world, and caused significant damage to Volkswagen's reputation.
+- 
+- Healthcare.gov Launch Issues: In 2013, the launch of the Healthcare.gov website in the United States was marred by numerous software quality problems. The website was slow, buggy, and difficult to use, which led to significant criticism and delays in the enrollment process.
+
+Overall, software complexity can have a significant impact on software quality. To mitigate these issues, developers should focus on simplifying the software design, reducing the number of components, and thoroughly testing the software to identify and fix defects before release. Additionally, they should prioritize effective communication and collaboration among team members, to ensure that everyone is on the same page and working towards the same goals.
+
+
+<br><img src="https://thumbs.dreamstime.com/b/cartoon-y-k-millennium-bug-vector-hand-drawn-illustration-huge-crawling-towards-frightened-looking-computer-isolated-78280302.jpg" width="600px"><br>
+
+
+
+
+
+
 
 
 </body>
-
-
-
-
 
 
 
@@ -201,96 +287,6 @@ Please create an [Issue](https://github.com/drshahizan/software-engineering/issu
         Its benefits include improved quality and reliability of software systems, increased efficiency and automation,
         improved security and privacy, and the ability to drive innovation and advance technology.</p>
 
-
-<br><img src="https://miro.medium.com/max/875/0*GD_XmCiR-l1cPrzh" width="600px"><br>  
-
-## Software Engineering Costs
-
-Software engineering costs refer to the expenses incurred during the development, maintenance, and deployment of software.Software engineering costs can be categorized into several types, including:
-
-- Development costs: These include the costs associated with creating the software, such as salaries of the development team, tools, hardware, and software licenses.
-
-- Maintenance costs: These include the costs of fixing bugs, adding new features, and ensuring that the software remains up to date with changes in the operating system or other dependencies.
-
-- Testing costs: These include the costs of testing the software to ensure that it is functioning as intended and is free from bugs or errors.
-
-- Deployment costs: These include the costs associated with deploying the software to the production environment, such as server costs, deployment tools, and user training.
-
-- Support costs: These include the costs of providing customer support and responding to user inquiries or issues.
-
-- Upgrading costs: These include the costs of upgrading the software to a newer version or technology, such as migrating from an on-premise system to a cloud-based one.
-
-Software engineering costs can be significant, and it's essential to estimate and manage them effectively to ensure that the software is developed within the allocated budget and timeframe. By carefully considering all the costs associated with software engineering, development teams can make informed decisions about resource allocation, and ensure that the software is built efficiently and effectively.
-
-
-<br><img src="https://cdn-icons-png.flaticon.com/512/5329/5329260.png" width="500px"><br>  
-
-## Software Engineering in Software Development
-
-In software development, software engineers use software engineering principles to create high-quality software systems that meet the requirements of end-users. The software development process includes requirements analysis, design, implementation, testing, and maintenance.
-
-Software engineering is a field in which technical principles and practices are applied to the design, development, testing, deployment, and maintenance of software systems. It is a systematic approach to software development that uses formal methods, processes, and tools to ensure that software systems are reliable, efficient, and maintainable.
-
-Software engineering also involves the use of quality assurance processes to ensure that the software is developed to a high standard. These processes may include testing, code reviews, and documentation. Software engineering also includes project management and collaboration, as software development is usually a team effort involving multiple developers and stakeholders.
-
-Overall, software engineering provides a structured and disciplined approach to software development that helps ensure that software systems are developed to high standards and meet end-user requirements.
-
-<br><img src="https://miro.medium.com/v2/resize:fit:500/1*tGKCSfTfV8E8t4atqrLE4A.png" width="600px"><br>  
-
-## Software Engineering Definition
-
-Software engineering is a discipline that involves the application of engineering principles, methods, and techniques to the design, development, testing, deployment, and maintenance of software systems. It is a structured and systematic approach to software development that aims to ensure the reliability, efficiency, and maintainability of software systems.
-
-Software engineering involves a range of activities, including requirements gathering, design, coding, testing, and documentation. It also involves the use of various tools and techniques to manage the software development process, including project management tools, version control systems, and automated testing tools.
-
-The goal of software engineering is to create high-quality software systems that meet the needs of end-users, are reliable and efficient, and can be maintained and updated easily. Software engineering is a collaborative discipline that involves software engineers, project managers, quality assurance specialists, and other stakeholders in the software development process.
-
-Overall, software engineering is a vital discipline that underpins the development of the software systems that are used in many areas of modern life, from business and finance to healthcare and entertainment.
-
-<br><img src="https://www.computerhope.com/jargon/s/software-engineering.jpg" width="600px"><br>  
-
-## Software Engineering as a Layered Technology
-
-- Quality Focus: Quality orientation is an important aspect of software engineering that focuses on the quality of the software system throughout the development process. This means that software engineers must focus on continuously improving the development process and ensuring that the final product meets the required quality standards. A quality orientation requires the use of various quality assurance processes and techniques, such as code reviews, testing and documentation.
- 
-- Process: Process is the foundation of software engineering and provides a framework for the streamlined and timely development of computer software. A well-defined and structured process enables software engineers to manage the complexity of software development and ensure that the software system is developed on time and within budget. The process includes various phases, such as requirements analysis, design, implementation, testing, deployment, and maintenance.
-
-- Methods: Methods provide technical guidelines and guidance for building software. They encompass various tasks, including requirements analysis, design, program development, testing, and support. Methods also include modeling activities, such as creating diagrams and other representations of the software system. By following well-defined methods, software engineers can ensure that the software system is developed in a structured and systematic manner.
-
-- Tools: Tools provide automatic or semi-automatic support for the software development process and methods. They help automate repetitive tasks, provide support for testing and debugging, and improve collaboration between software development teams. Tools include integrated development environments (IDEs), version control systems, testing frameworks and other utilities for software development. 
-
-In summary, quality focus, process, methods, and tools are essential components of software engineering that work together to ensure the development of high-quality software systems that meet the needs of end-users.
-
-<br><img src="https://kuliahso.files.wordpress.com/2012/03/software-layers.png" width="600px"><br>
-
-## Software Products and Product Specification
-
-Software products are software systems or applications that are developed to meet the specific needs of end-users. A software product can be anything from a simple mobile app to a complex enterprise-level software system.
-
-Product specification is a critical aspect of software product development that involves defining the functional and non-functional requirements of the software product. Product specification provides a detailed description of the software product, including its features, functionality, performance, and other relevant characteristics.
-
-- Generic products: software systems or applications that are tailored to meet the needs of a broad range of users or organizations. These products are usually preconfigured and sold as off-the-shelf solutions that are easy to implement and configure. Generic products are often less expensive than custom products because they are developed for a broader audience and can be sold to multiple customers.
-
-- Custom products: software systems or applications that are tailored to the specific needs of a particular customer or business. These products are usually developed from scratch or are based on existing software products that are customized to meet the customer's specific requirements. Customized products are often more expensive than generic products because they require a higher degree of customization and development effort.
-
-The choice between generic and custom products depends on several factors, including the customer's specific requirements, the degree of customization required, and the available budget. Generic products are often a good choice for companies that need a software solution that can be implemented quickly and requires minimal customization. Custom products are often a better choice for companies that have specific requirements that cannot be met by a generic product and are willing to invest the time and money required to develop a custom solution.
-
-Product specification plays a crucial role in software product development because it helps to ensure that the software product meets the needs of end-users and is delivered on time and within budget. A well-defined product specification helps to ensure that the software product is developed in a structured and systematic way, and that all stakeholders are clear on the product's requirements and goals.
-
-<br><img src="https://www.marketing91.com/wp-content/uploads/2020/02/What-does-a-Product-Specification-include.jpg" width="600px"><br>
-
-
-
 </body>
 
 
-
-
-
-
-
-
-
-
-## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any 
