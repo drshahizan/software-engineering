@@ -148,6 +148,21 @@ security; database security) <br>
 contains many design subsystems (also known as 
 “package” that can also be introduced in the analysis) <br>
 
+## Relationships between Analysis and  Design (Model and System)
+
+• The analysis and design models have a straightforward relationship, where the design model is an elaboration and refinement of the analysis model. <br>
+• Similarly, there is a direct correspondence between the analysis system and the design system, with each analysis system having a corresponding design system. <br>
+
+<img src="https://user-images.githubusercontent.com/128198038/231027073-f9c2f9e9-a318-4d1b-9ea0-57bbd9d1e903.jpg" width="300" height="200">
+
+## Architectural Design: Design the Software Architecture
+
+• Architectural design is concerned with understanding how a software system should be organized and designing the overall structure of that system.  <br>
+• Architectural design is the critical link between design and requirements engineering, as it identifies the main structural components in a system and the 
+relationships between them. <br>
+• The output of the architectural design process is an architectural model that describes how the system is organized as a set of communicating components. <br>
+
+
 # ARCHITECTURAL DESIGN DECISION 
 ## Architectural Design Decisions
 
