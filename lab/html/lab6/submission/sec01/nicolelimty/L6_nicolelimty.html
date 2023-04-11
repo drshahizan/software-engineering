@@ -1,0 +1,104 @@
+<!--
+Name: Nicole Lim Tze Yee
+Matrix No: A22EC0123
+Github id: nicolelimty
+
+Lab 6: HTML Table
+-->
+
+<html>
+    <head>
+        <title>HTMLtable</title>
+    </head>
+
+
+
+    <body>
+
+        <style>
+            table, td, th{
+              outline: 1px solid black;
+            }
+        </style>
+
+        <table style="border-collapse:collapse ; width: 500px; height: 50px;">
+            <tr style="text-align: center;">
+                <th>Flight No</th>
+                <th>Place</th>
+                <th>Destination</th>
+                <th colspan="2">Time</th>
+            </tr>
+            <tr style="text-align: center;">
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>Arrival</td>
+                <td>Departure</td>
+            </tr>
+        </table>
+
+    <br>
+    <br>
+
+        <table style="border-collapse:collapse ; width: 500px; height: 50px; text-align: ;">
+            <tr>
+                <th rowspan="2">Time</th>
+                <th>Johor Bahru</th>
+                <th>Jakarta</th>
+                <th>Dhaka</th>
+                <th>Jeddah</th>
+            </tr>
+            <tr>
+                <th>3:30 pm</th>
+                <th>2:30 pm</th>
+                <th>1:30 pm</th>
+                <th>10:30 am</th>
+        </table>
+
+    <br>
+    <br>
+
+        <table style="border-collapse:collapse ; width: 500px; height: 50px;">
+            <tr style="text-align: center; background-color: blue;">
+                <th colspan="3">BLUE</th>
+            </tr>
+
+            <tr style="text-align: center;">
+                <th style="background-color: red;">RED</th>
+                <th style="background-color: green;">GREEN</th>
+                <th style="background-color: yellow;">YELLOW</th>
+            </tr>
+        </table>
+
+    <br>
+    <br>
+
+        <table style="border-collapse:collapse ; width: 500px; height: 50px; text-align: center;">
+            <tr>
+                <th>1</th>
+                <th>2</th>
+                <th>3</th>
+                <th>4</th>
+            </tr>
+
+            <tr>
+                <th>5</th>
+                <th colspan="2" rowspan="2">Image</th>
+                <th>6</th>
+            </tr>
+
+            <tr>
+                <th>7</th>
+                <th>8</th>
+            </tr>
+
+            <tr>
+                <th>9</th>
+                <th>10</th>
+                <th>11</th>
+                <th>12</th>
+            </tr>
+        </table>
+  
+    </body>
+</html>
