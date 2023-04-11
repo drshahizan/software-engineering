@@ -115,10 +115,40 @@ Group XXX
 ## Recap on Design Stage
 <img src="https://user-images.githubusercontent.com/128198038/231023188-6ebd1ecc-a78c-4c1e-baaf-381f83302f16.jpg" width="300" height="200">
 
+## Architecture Analogy for Software vs. House?
+
+Software and houses can be compared in terms of architecture, as both require careful planning and construction to ensure that they are functional, secure, and meet the needs of their users.
+
+In the case of software, the "blueprint" is the code, which must be carefully written and organized to ensure that the program runs smoothly and without errors. Like an architect designing a building, a software engineer must take into account factors such as scalability, maintainability, and user experience.
+
+Similarly, a house requires a blueprint or plan, which takes into account factors such as layout, materials, and structural integrity. A good architect will also consider factors such as energy efficiency, safety, and aesthetics when designing a house.
+
+In both cases, the finished product must be tested and inspected to ensure that it meets the desired standards. Software must be tested for bugs and functionality, while a house must be inspected for structural soundness and safety.
+
+Ultimately, both software and houses require careful planning, attention to detail, and skilled craftsmanship to create a functional and reliable product.
+
+## Analogy: Residential Styles
+<img src="https://user-images.githubusercontent.com/128198038/231025100-31b0f817-13d2-45a1-b0e7-21ba97785139.jpg" width="300" height="200">
+
+## Design Discipline Activities
+
+• Segmented into 6 major activities: <br>
+– Design the support services architecture and 
+deployment environment à(network course) <br>
+– Design the software architecture àfocus of SE lecture <br>
+– Design the use case realizations àfocus of SE lecture <br>
+– Design the database à (database course) <br>
+– Design the system and user interfaces (HCI course) <br>
+– Design the system security and controls (network 
+security; database security) <br>
+
+## From Analysis to Design: Design Artefacts Metamodel
+
+• Design model contains exactly one design system that 
+contains many design subsystems (also known as 
+“package” that can also be introduced in the analysis) <br>
 
 # ARCHITECTURAL DESIGN DECISION 
-
-
 ## Architectural Design Decisions
 
 Architectural design decisions refer to the choices made during the process of designing a building or structure. These decisions can have a significant impact on the functionality, aesthetics, and cost-effectiveness of the building.
