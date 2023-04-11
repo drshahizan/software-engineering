@@ -40,3 +40,80 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 ![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
 
+
+###  What is Software Process?
+Software process is a set of related activities that leads to the production of the software
+
+<table>
+  <tr>
+    <td>Models</td>
+    <td>Waterfall</td>
+    <td>Incremental development</td>
+    <td>Reuse-oriented</td>
+  </tr>
+  <tr>
+    <td>Description</td>
+    <td>
+      <ul>
+        <li>plan-driven</li>
+        <li>sequential phases</li>
+        <li>next step rely on the previous step</li>
+        <li>distinct phases of specification and development</li>
+        <li>used for large system</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>plan-driven/agile</li>
+        <li>built piece-by-piece(subsystem)</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>plan-driven/agile</li>
+        <li>integrated from existing components or COTS (Comersial-off-the-shelf)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Benefits</td>
+    <td>___________</td>
+    <td> <ul>
+        <li>reduce cost</li>
+        <li>easier to get customers' feedback</li>
+        <li>rapid delivery and deployment</li>
+        <li>distinct phases of specification and development</li>
+      </ul>
+    </td>
+    <td> 
+      <ul>
+        <li>reduce overall cost</li>
+        <li>save time</li>
+       </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Drawbacks</td>
+    <td>
+       <ul>
+        <li>cannot go back</li>
+        <li>changes is limited</li>
+       </ul>
+    </td>
+    <td>
+      <ul>
+        <li>process not visible</li>
+        <li>structure tends to degrade(final costs exceed the initial cost projected)</li>
+       </ul>
+    </td>
+    <td>
+      <ul>
+        <li>----------</li>
+        <li>----------</li>
+       </ul>
+    </td>
+  </tr>
+    
+
+</table>
+

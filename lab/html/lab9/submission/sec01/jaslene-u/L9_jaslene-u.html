@@ -1,0 +1,90 @@
+<html>
+
+<head>
+
+</head>
+<body>
+   <!--
+Name:JASLENE YU
+Matrix No:A22EC0171
+Github id:jaslene-u
+
+Lab 9: HTML Forms
+-->
+<h1 style="font-family: Verdana, Geneva, Tahoma, sans-serif;text-align: center;"><font color="blue" >Medical Form</font></h1>
+<table style="border-collapse: collapse" bordercolor="blue" border="1">
+    <tr>
+        <td>
+<fieldset>
+    <legend>Personal Information</legend>
+
+    <table border="1">
+    
+        <tr>
+            <td>First Name</td>
+            <td><input type="text" id="firstname" name="firstname" style="width: 290px"></td>
+            <td>Gender</td>
+            <td>
+                <input type="radio" id="gender" name="female" value="female">
+                <label for="female">Female</label>
+                <input type="radio" id="gender" name="male" value="male">
+                <label for="male">Male</label>
+              </td>
+        </tr>
+        <tr>
+            <td>Last Name</td>
+            <td><input type="text" id="lastname" name="lastname" style="width: 290px"></td>
+            <td>Nationality</td>
+            <td>
+                <select name="Nationality" id="Nationality">
+                    <option value="canadian">Canadian</option>
+                    <option value="malaysian">Malaysian</option>
+                    <option value="korean">Korean</option>
+                    <option value="american">American</option>
+                </select>
+            </td>
+        </tr>
+
+        <tr>
+            <td height="100px">Address</td>
+            <td colspan="3"><input type="text" id="address" name="address" style="width: 510px; height:100px"></td>
+        </tr>
+    
+    </table>
+</fieldset>
+
+<fieldset>
+    <legend>Medical History</legend>
+
+<input type="checkbox" id="smallpox" name="smallpox" value="smallpox">
+<label for="smallpox"> Smallpox</label>
+<input type="checkbox" id="mumps" name="mumps" value="mumps">
+<label for="mumps"> Mumps</label>
+<input type="checkbox" id="dizziness" name="dizziness" value="dizziness">
+<label for="dizziness"> Dizziness</label>
+<input type="checkbox" id="sneezing" name="sneezing" value="sneezing">
+<label for="sneezing"> Sneezing</label>
+</fieldset>
+
+<fieldset>
+    <legend>Current Medication</legend>
+<div>
+    Are you currently taking any medication?
+    <input type="radio" id="yesno" name="yes" value="yes">
+    <label for="yes">Yes</label>
+    <input type="radio" id="yesno" name="no" value="no">
+    <label for="no">No</label>
+</div>
+<div>
+    If you are currently taking medication, please indicate it in the space below:
+</div>
+<br>
+<textarea name="paragraph_text" cols="200" rows="10"></textarea>
+<br>
+
+<input type="submit" value="Submit"> <input type="reset" value="Reset">
+</td>
+</tr>
+</table>
+</body>
+</html>
