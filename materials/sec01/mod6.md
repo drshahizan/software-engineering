@@ -208,7 +208,7 @@ Architectural models can be used in various ways, including:
 
 <p>Examples of architecture design decisions include choosing a programming language, selecting a database management system, deciding on the use of microservices or monolithic architecture, and determining the deployment model (on-premises or cloud-based).</p>
 
-<h2><u>Questions that usually asked during Architecture Design Process<u><h2>
+<h2><u>Questions that usually asked during Architecture Design Process<u></h2>
     
     
  <p style="position:relative ; left:200px"><b>Question</b> : Is there a generic application architecture that can act as a template for the system that is being designed?
