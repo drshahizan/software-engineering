@@ -356,6 +356,25 @@ There are various factors that contribute to software quality, including functio
 
 <br><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6byfPv_j3kinc4yMtuZritov8BHxIEK6YEQ&usqp=CAU" width="600px"><br>
 
+## Quality Priority
+
+The priority of software quality varies depending on the software development project, the intended users, and the organization's goals. However, in general, software quality should always be a top priority, as it has a significant impact on the success of a software product and the overall reputation of the organization.
+
+Here are some factors that can influence the priority of software quality:
+
+- Customer requirements: The quality of the software should meet or exceed the customer's requirements and expectations. If the customer requires a high-quality software product, then the priority of software quality should be high.
+
+- Time-to-market: If a software product needs to be released quickly to meet market demand or competition, then the priority of software quality may be lower. However, this should not compromise the software's functional or performance requirements.
+
+- Cost: The priority of software quality may be affected by the project's budget. If there are limited resources, the focus may be on meeting the minimum requirements while ensuring the software is reliable and maintainable.
+
+- Criticality of the software: If the software product is critical to the organization's operations or safety, then the priority of software quality should be high. For example, software used in healthcare, aviation, or finance must meet strict quality standards to ensure safety and reliability.
+
+- Technical complexity: If the software product is complex, with many components or integration points, then the priority of software quality should be high. Complex software requires more testing and verification to ensure that it operates correctly.
+
+In summary, software quality should always be a priority, but the level of priority may vary depending on the specific project's requirements, time-to-market, budget, criticality, and technical complexity. The ultimate goal should always be to deliver a high-quality software product that meets or exceeds customer expectations, is reliable, scalable, and maintainable over the long term.
+
+<br><img src="https://www.slideteam.net/media/catalog/product/cache/1280x720/p/r/priority_pyramid_for_total_quality_management_slide01.jpg" width="600px"><br>
 
 
 
