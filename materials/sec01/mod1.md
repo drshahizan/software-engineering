@@ -238,6 +238,47 @@ Overall, software complexity can have a significant impact on software quality. 
 
 <br><img src="https://thumbs.dreamstime.com/b/cartoon-y-k-millennium-bug-vector-hand-drawn-illustration-huge-crawling-towards-frightened-looking-computer-isolated-78280302.jpg" width="600px"><br>
 
+## Software Changeability
+
+Software changeability refers to the ease with which modifications can be made to a software system. In other words, it refers to the ability of software to adapt to changes and evolve over time. Changeability is an important factor in software development as it can affect the maintenance, scalability, and overall quality of the software.
+
+The changeability of a software system is influenced by various factors, such as the design of the system, the programming language used, the tools and techniques employed, and the level of documentation and testing. A well-designed software system that is modular and loosely coupled can be more changeable as changes to one component will have minimal impact on the others. Similarly, using a programming language that supports features such as inheritance, polymorphism, and abstraction can make the software more adaptable to changes.
+
+To improve the changeability of a software system, it is important to follow best practices such as writing clean code, using version control systems, writing automated tests, and documenting the code. By doing so, developers can make it easier to understand, modify, and maintain the software over time, which can ultimately lead to a more robust and reliable system.
+
+<br><img src="https://www.cgsinc.com/sites/default/files/styles/blog_details/public/software%20with%20clocks-SMALL.jpg?itok=nXRfzVN7" width="600px"><br>
+
+
+
+## Computer Science vs.Software Engineering
+
+Computer science and software engineering may share some overlapping commonalities, however, the principles behind each field can offer several differences. One is that computer science deals with the science behind the interaction between hardware and software systems and computational applications, whereas software engineering typically deals with the engineering principles of building, designing and testing software products.The differences of computer science and software engineering are:
+
+- Core educational studies: Computer science and software engineering may share some overlapping core studies, however, when studying computer science students may typically complete courses that focus on the computing, analysis, storage and application of data and data systems of computer programs and software. Computer science education program focuses on the science behind making computers work, while software engineering applies those scientific and mathematical principles to the building, designing and implementation of hardware and software programs.
+
+- Career paths: Generally, computer science degrees may offer candidates a broad range of job options in the informational technology industry, from computer programming for website design and working in IT support roles to working as a game developer. Conversely, a degree in software engineering can narrow a candidate's career path to specialized roles in corporations, companies and even mid-sized businesses developing and building applications and software programs.
+
+- Hardware and software interaction: Computer science may deal with the interaction between software programs with computer hardware. For instance, a computer scientist might determine ways to create software programs that are compatible with computer hardware. A software engineer, however, deals only with software programs, specifically creating, maintaining, testing and producing software products.
+
+- Programming and development: Computer science will focus on computing and calculating the best ways to program software as well as finding calculations that allow engineers and developers to build software programs that meet product requirements. Software engineers essentially use the analysis and outlines from computer scientists to aid in the full development and construction of new frameworks and software programs.
+
+- Software design: When approaching software design, a computer scientist may typically work with theories and algorithms for how a program works, how it may be best designed and how to apply programming languages to the application. When software engineers work with software design, they may use a computer scientist's information and analyses to design the framework to build a specific program.
+
+-  Scientific theories: Computer science is also different from software engineering because it focuses heavily on scientific theories behind computer operations, computing and data systems as well as how software is designed. Software engineering, however, can use these theories to aid in the design and processes of building frameworks, software programs and applications. So while computer science studies and develops theories behind computer operations, software engineering applies these theories to build real-world computer applications.
+
+- Computer coding: Computer science and software engineering may both focus on computer coding and languages, however, software engineering may focus more heavily on learning coding to use it when developing and building software. A computer scientist may focus on coding as it relates to computer languages, and they may also use various computer coding to calculate compatibility between hardware and software applications.
+
+In summary, computer science is the study of computing and computational systems, while software engineering is the practical application of computer science principles to software development.
+
+Both are the best in their own aspects. However, you should opt for the Software engineering if you are interested in software testing, software development and overall software life cycle or you can opt for Computer Science if you have an interest in artificial intelligence, machine learning, security, database management, etc.
+
+<br><img src="https://cdn.educba.com/academy/wp-content/uploads/2021/03/Computer-Engineering-vs-Software-Engineering.jpg" width="600px"><br>
+
+
+
+
+
+
 
 
 

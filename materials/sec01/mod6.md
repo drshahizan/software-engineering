@@ -21,38 +21,206 @@ Group LimaPuluh
 
 ## Supplementary Notes 
 ### Topics
-- Architectural Design and Detailed Design
-- Architectural Design Decision
-- Architectural View
-- Architectural Pattern
+<b>- Architectural Design and Detailed Design</b><br>
+<b>- Architectural Design Decision</b><br>
+<b>- Architectural View</b><br>
+<b>- Architectural Pattern</b><br>
 
-#### Architectural Design and Detailed Design
-<hr>
+# Architectural Design and Detailed Design
 
-#### Architectural Design Decision
-<hr>
+## Recap on Design Stage<br>
+<img src="https://raw.githubusercontent.com/Wernjie0713/Image/main/Screenshot%202023-04-11%20224547.jpg" width="600" height="400">
 
-#### Architectural View
-<hr>
+## Architecture Analogy for Software vs. House?<br>
+<li><b>Building Blocks</b></li>
+In a house, the building blocks are the bricks, mortar, wood, and other materials used to construct the physical structure. In software, the building blocks are the components, libraries, frameworks, and other software artifacts used to construct the software system.
+<br>
+<br>
+<li><b>Design</b></li>
+In a house, the design determines the layout, size, shape, and other characteristics of the physical structure. In software, the design determines the layout, size, shape, and other characteristics of the software system.
+<br>
+<br>
+<li><b>Components</b></li>
+In a house, the components include the walls, floors, windows, doors, roof, and other physical elements that make up the physical structure. In software, the components include the modules, classes, functions, and other software artifacts that make up the software system.
+<br>
+<br>
+<li><b>Interface</b></li>
+In a house, the interface between the physical structure and the outside world includes the windows, doors, and other openings that allow people to enter and exit the house. In software, the interface between the software system and the outside world includes the user interface, APIs, and other mechanisms that allow users to interact with the software system.
+<br>
+<br>
+<li><b>Maintenance</b></li>
+In a house, maintenance involves repairing and replacing physical elements that wear out or become damaged over time. In software, maintenance involves updating and modifying the software system to address changing requirements and to fix bugs and other issues.
+<br>
+<br>
+By understanding the analogy between software architecture and house architecture, software engineers can better understand the importance of good software architecture and the principles of good design. Just as a well-designed house is functional, efficient, and comfortable, a well-designed software system is functional, efficient, and easy to use and maintain.
+<br><br>
+
+## Analogy: Residential Styles<br>
+<img src="https://raw.githubusercontent.com/Wernjie0713/Image/main/image.png">
+
+## Design Discipline Activities
+Segmented into <b>6 major activities</b>:
+<br>
+
+<b>1. Design the Support Services Architecture and Deployment Environment:</b>
+This activity involves designing the architecture of the support services that the software system will need, such as networking, web servers, databases, and other infrastructure components. It also involves designing the deployment environment, which includes the hardware, software, and network configurations needed to deploy the software system.
+<br>
+<br>
+<b>2. Design the Software Architecture:</b>
+This activity involves designing the overall structure of the software system, including the components, modules, and subsystems that make up the system. It also involves defining the relationships between these components and the interfaces that they expose to each other and to external systems.
+<br>
+<br>
+<b>3. Design the Use Case Realizations:</b>
+Design the Use Case Realizations:
+This activity involves designing the detailed behavior of the software system in response to the various use cases that it needs to support. This includes designing the user interfaces, the flow of control between different parts of the system, and the specific algorithms and data structures used to implement the system's functionality.
+<br>
+<br>
+<b>4. Design the Database:</b>
+This activity involves designing the database schema and data model that the software system will use to store and retrieve data. It includes defining the tables, fields, relationships, and constraints that will be used in the database, as well as designing the queries and other data access mechanisms used by the system.
+<br>
+<br>
+<b>5. Design the System and User Interfaces:</b>
+This activity involves designing the overall user interface of the software system, including the layout, navigation, and visual design of the system. It also involves designing the specific interactions that users will have with the system, such as data entry and retrieval, and defining the usability and accessibility requirements of the system.
+<br>
+<br>
+<b>6. Design the System Security and Controls:</b>
+This activity involves designing the security and access controls for the software system, including authentication, authorization, encryption, and other mechanisms used to protect the system and its data from unauthorized access or modification. It also involves designing the audit and logging mechanisms used to track system activity and detect potential security breaches.
+<br>
+<br>
+By following a disciplined approach to these design activities, software engineers can ensure that the software system they are building meets the needs of its users, is scalable and maintainable, and provides a secure and reliable platform for its intended use.
+<br><br>
+
+## From Analysis to Design: Design Artefacts Metamodel<br>
+Design model contains exactly one design system that contains many design subsystems (also known as <b>“package”</b> that can also be introduced in the analysis)
+<br>
+<img src="https://raw.githubusercontent.com/Wernjie0713/Image/main/Screenshot%202023-04-11%20225353.jpg" >
+<br><br>
+
+## Relationships between Analysis and Design (Model and System)
+<b>Analysis and Design are Interrelated:</b>
+Analysis and design are closely related activities that are both essential to the software development process. Analysis involves understanding the problem domain, defining requirements, and identifying constraints and assumptions. Design involves creating a solution that meets the identified requirements and constraints.
+<br>
+<br>
+<b>Analysis Drives Design:</b>
+The analysis phase provides the foundation for the design phase. The analysis phase identifies the requirements and constraints that the system must meet, and the design phase creates a solution that meets those requirements and constraints.
+<br>
+<br>
+<b>Design is an Extension of Analysis:</b>
+Design is an extension of analysis, building on the information and knowledge gained during the analysis phase. The design phase takes the requirements and constraints identified during analysis and transforms them into a concrete solution that meets the needs of the stakeholders.
+<br>
+<br>
+<b>Models are Used in Both Analysis and Design:</b>
+Models are used in both analysis and design to represent the system being developed. In the analysis phase, models are used to represent the problem domain, requirements, and constraints. In the design phase, models are used to represent the solution being developed.
+<br>
+<br>
+<b>Iterative Process:</b>
+The software development process is often iterative, with feedback and refinement occurring between analysis and design. As the design progresses, it may become apparent that additional analysis is needed to refine the requirements and constraints of the system. Similarly, as the analysis progresses, new design solutions may be identified that better meet the needs of the stakeholders.
+<br>
+<br>
+In summary, analysis and design are two closely related activities that are essential to the software development process. Analysis provides the foundation for design, with design building on the information and knowledge gained during analysis. Models are used in both analysis and design, and the software development process is often iterative, with feedback and refinement occurring between analysis and design.
+<br><br>
+
+## Architectural Design: Design the Software Architecture
+Architectural design is a key activity in the software development process, which involves understanding how a software system should be organized and designing the overall structure of that system. The main goal of architectural design is to identify the main structural components of a system and the relationships between them. This is important because the structure of a software system can have a significant impact on its quality attributes, such as its maintainability, scalability, reliability, and performance.
+<br><br>
+Architectural design is the critical link between design and requirements engineering because it helps to bridge the gap between the high-level requirements of a system and the detailed design of its components. By defining the overall structure of a system, architectural design helps to ensure that the system meets the requirements and constraints specified by stakeholders, while also providing a framework for the detailed design of the system components.
+<br><br>
+The output of the architectural design process is an architectural model that describes how the system is organized as a set of communicating components. This model includes a description of the main architectural components of the system, their interfaces, and their interactions. It also includes information about the allocation of functionality to these components and how they will be implemented and deployed.
+<br><br>
+To design a software architecture, software engineers need to have a deep understanding of the problem domain, the stakeholders' needs, and the technical options available for implementing the system. They also need to consider the quality attributes that are important for the system and how the architecture can be designed to achieve them. This involves making trade-offs between different design options and evaluating the impact of design decisions on the overall system.
+<br><br>
+In summary, architectural design is a critical activity in the software development process that involves designing the overall structure of a software system. It helps to bridge the gap between requirements engineering and detailed design, and provides a framework for designing the system components. The output of the architectural design process is an architectural model that describes the organization of the system as a set of communicating components. To design an effective software architecture, software engineers need to have a deep understanding of the problem domain, stakeholders' needs, and technical options available for implementing the system.
+<br><br>
+
+## Design Use Case Realizations<br>
+Designing use case realizations involves creating a lower-level view of how a software system will support specific use cases. This process involves focusing on <b>two</b> main areas:
+<br>
+1. Class interactions that support a particular use case, which involves designing how the different classes in the system will interact with each other to achieve the goals of the use case.
+2. Interactions among the software system, users, and external systems, which involves designing how the system will interact with its environment to support the use case.
+
+
+Designing use case realizations typically requires multiple iterations, as software engineers refine and improve the design over time. They use UML design class diagrams and interaction diagrams, such as sequence diagrams, to document the design and ensure that it meets the requirements of the use case.
+<br>
+
+In summary, designing use case realizations involves creating a lower-level view of how a software system will support specific use cases. This involves designing how classes in the system will interact with each other, as well as how the system will interact with users and external systems. Software engineers typically use UML diagrams to document the design and refine it over time.
+<br><br>
+
+## Example: Architecture of a Packing Robot Control System<br>
+<img src="https://raw.githubusercontent.com/Wernjie0713/Image/main/Screenshot%202023-04-11%20225437.jpg">
+
+## Example: High Level Architecture of Weather Station System
+<img src="https://raw.githubusercontent.com/Wernjie0713/Image/main/Screenshot%202023-04-11%20225501.jpg">
+
+## Architectural Abstraction<br>
+Architectural abstraction refers to the process of breaking down a software system into smaller components to better understand its structure and design. This process can be applied at different levels, such as the architecture of <b>individual programs</b> or the architecture of <b>large enterprise systems</b>.
+
+Architecture in the small refers to the architecture of individual programs. This involves breaking down a program into smaller components or modules and understanding how they interact with each other to achieve the program's goals.
+
+Architecture in the large refers to the architecture of complex enterprise systems that may include multiple programs, systems, and components. These enterprise systems are often distributed across different computers and may be owned and managed by different companies. Understanding the architecture of these systems involves analyzing how the different components interact with each other to achieve the system's overall goals.
+
+In summary, architectural abstraction involves breaking down a software system into smaller components to better understand its structure and design. This process can be applied at different levels, such as the architecture of individual programs or the architecture of large enterprise systems. Understanding these architectures involves analyzing how the components interact with each other to achieve the system's goals.
+<br><br>
+
+## Advantages of Explicit Architecture<br>
+Explicit architecture in software design has several advantages:
+
+<b>1. Stakeholder communication:</b> An explicit architecture can serve as a focal point for communication among system stakeholders, helping to ensure that everyone involved in the project has a shared understanding of the system's structure and design.
+
+<b>2. System analysis:</b> An explicit architecture makes it possible to analyze whether the system can meet its non-functional requirements, such as performance, scalability, and security. This analysis can help identify potential problems early in the design process, allowing them to be addressed before they become more costly to fix.
+
+<b>3. Large-scale reuse:</b> An explicit architecture can be reusable across a range of systems. This means that designers can create product-line architectures that can be used across multiple products or systems, reducing design and development time and increasing efficiency.
+
+<b>4. Improved quality:</b> Explicit architecture can help ensure that the system is designed to meet its functional and non-functional requirements. This can lead to higher quality software with fewer bugs, better performance, and greater user satisfaction.
+
+<b>5. Reduced costs:</b> By providing a clear and explicit architecture, developers can avoid costly design mistakes and reduce the likelihood of system failures, leading to overall cost savings for the project.
+<br><br>
+
+## Architectural Representations<br>
+When documenting software architectures, the most commonly used method is simple, informal block diagrams that show entities and relationships. However, these diagrams have been criticized for not providing enough information about the types of relationships between entities or the visible properties of entities in the architecture. To address this issue, designers can use architectural models that provide more detailed information about the system's components and how they interact with each other. The choice of representation depends on the requirements for model semantics, or the meaning and interpretation of the models used to describe the system's architecture.
+<br><br>
+
+## Box and Line Diagrams<br>
+<li>Very <b>abstract</b> - they do not show the nature of component relationships nor the externally visible properties of the sub-systems.</li>
+<li>However, <b>useful for communication</b> with stakeholders and for project planning.</li>
+<br><br>
+
+## Use of Architectural Models<br>
+Architectural models can be used in various ways, including:
+
+• <b>Facilitating communication:</b> A high-level architectural view of a system is useful for communicating with stakeholders and project planning. It provides an abstract view of the system that stakeholders can easily understand and discuss without being overwhelmed by details.
+
+• <b>Documenting design:</b> Architectural models are used to document an architecture that has been designed. The aim is to create a complete system model that shows the different components in a system, their interfaces, and their connections.
+
+• <b>Analysis and evaluation:</b> Architectural models are used to analyze and evaluate the system's properties and behavior. This helps to ensure that the system meets its requirements and functions as intended.
+
+• <b>Performance prediction:</b> Architectural models are used to predict the system's performance. This helps to ensure that the system performs adequately under expected workloads and identifies potential bottlenecks.
+
+• <b>Design exploration:</b> Architectural models are used to explore alternative system designs. This helps to identify the most suitable design that meets the system's requirements and constraints.
+
+• <b>Code generation:</b> Architectural models are used to generate code automatically. This reduces the time and effort required to develop and maintain software systems.
+<br><br>
+
+# Architectural Design Decision
+
+# Architectural View
 <ol type="A">
     <li>4+1 View Model</li>
     <li></li>
     <li></li>
 </ol>
 
-#### Architectural Pattern
-<hr>
+# Architectural Pattern
 <ul>
-  <li>Model-View-Controller</li>
-    <p>>Separates an application into three main components: Model, View, and Controller</p>
+    <li><h2>Model-View-Controller</h2></li>
+    <p>Separates an application into three main components: Model, View, and Controller</p>
         <ul>
             <li>Model: Data and business logic of the application. Responsible for managing data, processing business logic, and interacting with data sources such as databases, APIs, or external services. The Model is independent of the user interface and communicates with the View and Controller through well-defined interfaces.</li>
             <li>View: Responsible for rendering the user interface and presenting data to the user. Displays the data from the Model to the user and provides a way for the user to interact with the application. View receives input from the user and communicates it to the Controller for further processing.</li>
             <li>Controller: Controller acts as an intermediary between the Model and View. It receives input from the View, processes it, updates the Model, and communicates back to the View to update the user interface. Controller also handles user interactions, such as handling user input, validating data, and making decisions about how to update the Model and View.</li>
         </ul>
 <br>
-  <li>Layered</li>
-    <p>>Involves organizing the application into distinct layers or tiers based on their responsibilities and functionality. Each layer performs a specific set of tasks, and communication between layers follows a predefined set of rules, typically with higher layers depending on lower layers.</p>
+    <li><h2>Layered</h2></li>
+    <p>Involves organizing the application into distinct layers or tiers based on their responsibilities and functionality. Each layer performs a specific set of tasks, and communication between layers follows a predefined set of rules, typically with higher layers depending on lower layers.</p>
     <ul>
         <li>Presentation Layer: User Interface (UI) layer, responsible for rendering the user interface and handling user interactions</li>
         <li>Application Layer: Business Logic layer. Contains the core business logic and processing rules of the application. It encapsulates application-specific logic and orchestrates interactions between the Presentation Layer and the Data Layer. Contains business rules, domain-specific logic, and data validation.</li>
@@ -60,22 +228,22 @@ Group LimaPuluh
         <li>Data Layer: Persistence Layer, layer is responsible for handling data storage and retrieval. Includes components such as databases, data access objects (DAOs), and ORMs (Object-Relational Mappers). The Data Layer is responsible for abstracting the underlying data storage and providing interfaces for the upper layers to interact with the data.</li>
     </ul>
 <br>
-  <li>Repository</li>
-    <p>>Also known as the Repository Design pattern. Provides an abstraction layer between the data access logic and the rest of the application. Commonly used in applications that need to interact with persistent data sources, such as databases, APIs, or external services, and aims to separate the data access logic from the business logic, promoting maintainability, testability, and modularity.</p>
+    <li><h2>Repository</h2></li>
+    <p>Also known as the Repository Design pattern. Provides an abstraction layer between the data access logic and the rest of the application. Commonly used in applications that need to interact with persistent data sources, such as databases, APIs, or external services, and aims to separate the data access logic from the business logic, promoting maintainability, testability, and modularity.</p>
     <ul>
         <li>Repository: Repository is responsible for providing a high-level abstraction over the data source, encapsulating the details of data storage and retrieval. Consists of a well-defined interface that allows the application to perform operations such as create, read, update, and delete (CRUD) on the data.</li>
         <li>Data Sources: Data Source represents the persistent storage where the data is stored, such as a database, API, or external service. Communicates with the Data Source to perform data operations.</li>
         <li>Domain Objects: Domain Objects represent the business entities or data models of the application. These are the objects that are manipulated by the Repository and used by the application to represent and manipulate data.</li>
     </ul>
-  <li>Client-Server</li>
-    <p>>Divides an application into two main components: the client and the server. The client represents the user interface or front-end, while the server represents the back-end that processes requests, manages data, and performs business logic.</p>
+    <li><h2>Client-Server</h2></li>
+    <p>Divides an application into two main components: the client and the server. The client represents the user interface or front-end, while the server represents the back-end that processes requests, manages data, and performs business logic.</p>
     <ul>
         <li>Client: The client represents the user interface or front-end of the application, typically responsible for rendering the user interface, capturing user input, and sending requests to the server for processing. Clients can be various types of devices, such as desktop computers, mobile devices, or web browsers.</li>
         <li>Server: The server represents the back-end of the application. Responsible for processing requests from clients, managing data storage and retrieval, and performing business logic. Servers can be physical machines or virtual servers that run software applications and handle requests from clients.</li>
         <li>Communication Protocol: Defines the rules and conventions for communication between clients and servers. It includes protocols such as HTTP, TCP/IP, REST (Representational State Transfer), SOAP (Simple Object Access Protocol), and others. The communication protocol allows clients and servers to exchange data and requests in a standardized and interoperable manner.</li>
     </ul>
-  <li>Pipe and filter</li>
-    <p>>The Pipe and Filter Architecture pattern is a software architectural pattern that involves processing data through a series of interconnected components, called filters, in a sequential manner. Each filter performs a specific operation on the data and passes it to the next filter in the pipeline until the data has been processed through all the filters.</p>
+    <li><h2>Pipe and filter</h2></li>
+    <p>The Pipe and Filter Architecture pattern is a software architectural pattern that involves processing data through a series of interconnected components, called filters, in a sequential manner. Each filter performs a specific operation on the data and passes it to the next filter in the pipeline until the data has been processed through all the filters.</p>
     <ul>
         <li>Source: The source is the component that provides the input data to the pipeline. It could be a data source such as a file, a database, or an external service, or it could be generated by the application itself.</li>
         <li>Filter: A filter is a component that performs a specific operation on the input data. Filters can perform tasks such as filtering out unwanted data, transforming data into a different format, validating data, or aggregating data. Filters are connected in a sequential manner, forming a processing pipeline, where the output of one filter is passed as input to the next filter.</li>
