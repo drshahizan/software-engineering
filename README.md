@@ -22,8 +22,9 @@ This course is designed to give students an introduction to an engineering appro
 1. [Lecture Notes](https://drive.google.com/drive/folders/1fFqVSa7WdQ2Uet0UdvbQcALUVcqme6gw?usp=sharing)
 2. [Task 1: Additional Notes](./materials/Task1.md)
 3. [Lab exercise](./lab/)
-4. [Project 1: Personal Portfolio Website](./project/1-portfolio/readme.md)
-5. [Personal Portfolio Website](https://drshahizan.github.io/) 🆕
+4. [Project 1: Student Portfolio Showcase (HTML)](./project/1-portfolio/readme.md)
+5. [Project 2: Student Portfolio Showcase (Bootstrap)](./project/2-bootstrap/readme.md)
+6. [Student Portfolio Showcase](https://drshahizan.github.io/) 🆕
 
 
 ## Weekly Schedule
