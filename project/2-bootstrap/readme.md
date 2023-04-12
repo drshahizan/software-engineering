@@ -84,15 +84,10 @@ Github id:
 Project 1: Personal Portfolio Website
 -->
 ```
-4. You must place your file in the submission folder. Within the [sec01](./sec01) or [sec02](./sec02) folder, create a folder called your `id github`. Name the default file as `index.html`.
-> Example: 
-> /sec01/drshahizan/index.html or
-> /sec02/drshahizan/index.html
-
-suggested folder structure for the Student Portfolio Showcase project using Bootstrap:
+4. You must place your file in the submission folder. Within the [sec01](./sec01) or [sec02](./sec02) folder, create a folder called your `id github`. Name the default file as `index.html`. Suggested folder structure for this project:
 
 ```html
-student-portfolio-showcase/
+githud_id/
 ├── index.html
 ├── css/
 │   ├── bootstrap.min.css
