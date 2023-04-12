@@ -272,16 +272,47 @@ In summary, computer science is the study of computing and computational systems
 
 <br><img src="https://cdn.educba.com/academy/wp-content/uploads/2021/03/Computer-Engineering-vs-Software-Engineering.jpg" width="600px"><br>
 
+## Software Engineering vs.Software Programming
 
+Software Programming , also known as software development or coding, refers to the process of writing and maintaining the source code of software programs. This includes designing, coding, testing, and debugging software applications. A software programmer's main focus is on writing efficient and functional code that meets the requirements of the project.For software programming:
 
+- Programming is primarily a single person activity.
 
+- A computer programmer writes an entire program.
 
+- Programming is simply one side of software system development.
 
+- On an average computer, the programmer makes a salary of $78,260 a year.
 
+- A computer programmer is aware of the way to code and will have the technical skills required to create significant merchandise.
 
+- A programmer tends to work alone.
 
+- Computer Programmer takes a broad approach to the study of the principles and use of computers that covers each theory and application.
 
+- A computer programmer hired to produce the code of a computer program. It will imply that you know how to write code, can understand an algorithm and             follow  specification.
 
+In essence, software programming is a subset of software engineering. While software programming is primarily concerned with the implementation of code, software engineering is focused on the entire software development process, including requirements analysis, design, implementation, testing, and maintenance. For software programming:
+
+- Software Engineer develops a software system part which will be combined with parts written by different software system engineers to create a system.
+
+- Software Engineering is basically a team activity.
+
+- Large software system systems should be developed like different engineering practices.
+
+- The software system engineers can take a salary of $93,280 a year.
+
+- A software engineer follows a scientific method of understanding necessities, operating with stakeholders and developing an answer that fulfills their needs.
+
+- A software engineer is an element of a bigger team.
+
+- On the opposite hand, Software Engineering could be a field mostly involved with the appliance of engineering processes to the creation, maintenance, and style of a software system for a range of various functions.
+
+- A software engineer is a developer who has a specific type of degree, some knowledge of engineering, and is capable of designing a system. Basically, software engineer sees a wider picture, and are capable of designing and explaining it and separating it into smaller modules.
+
+In summary, software programming is a subset of software engineering. While software programming is concerned with the creation of software applications by writing code, software engineering focuses on the entire software development lifecycle, including the management of the process, development of best practices, and design of software systems that are efficient, scalable, and maintainable.
+
+<br><img src="https://media.licdn.com/dms/image/C5612AQGhERKv2iF-RQ/article-cover_image-shrink_423_752/0/1582104123023?e=1686787200&v=beta&t=lvon40ORPwihigAZYWiGap_t3U3e6FkWvj8B4hayEuk" width="600px"><br>
 
 
 </body>
