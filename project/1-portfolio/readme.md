@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Project 1: Personal Portfolio Website
+# Project 1: Student Portfolio Showcase (HTML)
 
 ## Description:
 Create a personal portfolio website that showcases your skills and experiences. The website should include an introduction section, a skills section, an experience section, and a contact section. You can refer to HTML code example at [learn PHP github](https://github.com/drshahizan/learn-php/blob/main/materials/html-portfolio.md).
