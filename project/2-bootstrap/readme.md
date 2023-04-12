@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # Project 2: Student Portfolio Showcase (Bootstrap)
 
-## Description:
+## Project Overview:
 This project is a continuation of Project 1, in which you created your portfolio using HTML tags. This task requires you to use Bootstrap to improve and upgrade your portfolio from Project 1. The additional instructions are as follows:
 
 When selecting a free web template, make sure it fits your needs as well as your personal style and branding. You can personalise the template by adding your own content, images, and colours, as well as changing the layout and design to suit your tastes.
