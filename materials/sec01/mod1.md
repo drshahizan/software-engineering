@@ -45,7 +45,8 @@ Group Explorer
 - To understand the importance of software quality and documentation standard
 
 ### Others
-- [Software Engineering | Introduction to Software Engineering](https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/)        Document standards by IEEE:
+- [Software Engineering | Introduction to Software Engineering](https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/)
+- Document standards by IEEE  
 - [830-1998 - IEEE Recommended Practice for Software Requirements Specifications](https://ieeexplore.ieee.org/document/720574)
 - [1016-2009 - IEEE Standard for Information Technology--Systems Design--Software Design Descriptions](https://standards.ieee.org/ieee/1016/4502/)
 - [829 - IEEE Standard for Test Documentation Overview-Test Plan Outline](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=573169)
