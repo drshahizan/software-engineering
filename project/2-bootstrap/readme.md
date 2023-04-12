@@ -39,6 +39,22 @@ The following are the steps to construct a Student Portfolio Showcase utilizing 
 
 By following these steps, you can create a professional-looking student portfolio showcase website using a Bootstrap web template. Remember to keep the website simple, clear, and easy to navigate, and to showcase your best work and achievements.
 
+## Free web templates for a Student Portfolio Showcase project
+Here are some options:
+1. [Free CSS](https://www.free-css.com/free-css-templates)
+2. [Start Bootstrap](https://startbootstrap.com/)
+3. [BootstrapMade](https://bootstrapmade.com/)
+4. [Themezy](https://www.themezy.com/)
+5. [Creative Tim](https://www.creative-tim.com/)
+6. [Colorlib](https://colorlib.com/)
+7. [FreeHTML5](https://freehtml5.co/)
+8. [TemplateMonster](https://www.templatemonster.com/)
+9. [W3Layouts](https://w3layouts.com/)
+10. [HTML5Up](https://html5up.net/)
+11. [Templated](https://templated.co/)
+
+All of these websites offer a variety of free Bootstrap templates that can be used for a Student Portfolio Showcase project. Simply browse through the templates, find one that suits your needs, and download the files to get started.
+
 ## Requirements:
 1. The website must be created using standard HTML code.
 2. The introduction section should provide a brief introduction about yourself, along with a photo and a call-to-action button that links to the contact section.
