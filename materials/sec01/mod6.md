@@ -201,6 +201,30 @@ Architectural models can be used in various ways, including:
 <br><br>
 
 # Architectural Design Decision
+<hr>
+ <p><b>Architecture design decision</b> refers to <i>the process of making key choices during the design and development of a software or system architecture</i>. These decisions have a significant impact on the overall structure and behavior of the system and can affect its quality attributes such as performance, scalability, maintainability, security, and usability.</p>
+
+<p>Architectural design decisions involve evaluating trade-offs among various options based on factors such as requirements, constraints, technical feasibility, cost, and risks. These decisions are often documented in an architectural design document and communicated to stakeholders to ensure alignment and understanding.</p>
+
+<p>Examples of architecture design decisions include choosing a programming language, selecting a database management system, deciding on the use of microservices or monolithic architecture, and determining the deployment model (on-premises or cloud-based).</p>
+
+<h2><u>Questions that usually asked during Architecture Design Process<u><h2>
+    
+    
+ <p style="position:relative ; left:200px"><b>Question</b> : Is there a generic application architecture that can act as a template for the system that is being designed?
+     <br>
+     Yes, there are several generic application architecture templates that can be used as a starting point when designing a system. These templates are often referred to as architectural patterns, and they provide a set of proven solutions to common design problems. Some examples of widely used architectural patterns include:
+     
+     <ol style="text-align:center">
+         <li>Model-View-Controller (MVC) pattern: This pattern separates an application into three interconnected components: the model (data and business logic), the view (user interface), and the controller (handles user input and manages interactions between the model and the view).</li>
+         <li>Layered architecture pattern: This pattern separates an application into layers, where each layer is responsible for a specific set of tasks. Typically, there is a presentation layer (user interface), business logic layer, and data access layer.</li>
+         <li>Service-oriented architecture (SOA) pattern: This pattern breaks an application down into smaller, modular services that communicate with each other through a network. Each service performs a specific task and can be developed, deployed, and scaled independently.</li>
+         <li>Microservices architecture pattern: This pattern is similar to SOA but places a stronger emphasis on independently deployable and scalable services. Microservices are typically smaller in scope than SOA services and often communicate with each other through lightweight protocols like REST.</li>
+    
+    
+        How will the system be distributed across hardware cores or processors?</li>
+        What architecture patterns of style 
+                                                                                              
 
 # Architectural View
 <ol type="A">
