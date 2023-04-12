@@ -201,29 +201,109 @@ Architectural models can be used in various ways, including:
 <br><br>
 
 # Architectural Design Decision
-<hr>
- <p><b>Architecture design decision</b> refers to <i>the process of making key choices during the design and development of a software or system architecture</i>. These decisions have a significant impact on the overall structure and behavior of the system and can affect its quality attributes such as performance, scalability, maintainability, security, and usability.</p>
+
+
+<p><b>Architecture design decision</b> refers to <i>the process of making key choices during the design and development of a software or system architecture</i>. These decisions have a significant impact on the overall structure and behavior of the system and can affect its quality attributes such as performance, scalability, maintainability, security, and usability.</p>
+
+  
 
 <p>Architectural design decisions involve evaluating trade-offs among various options based on factors such as requirements, constraints, technical feasibility, cost, and risks. These decisions are often documented in an architectural design document and communicated to stakeholders to ensure alignment and understanding.</p>
 
+  
+
 <p>Examples of architecture design decisions include choosing a programming language, selecting a database management system, deciding on the use of microservices or monolithic architecture, and determining the deployment model (on-premises or cloud-based).</p>
 
-<h2><u>Questions that usually asked during Architecture Design Process<u></h2>
+
+<h1>QNA</h1>
+
+<hr>
+
+<h3  align="center"><b>Question</b> : Is there a generic application architecture that can act as a template for the system that is being designed?</h3>
+
+<p>Yes, there are several generic application architecture templates that can be used as a starting point when designing a system. These templates are often referred to as architectural patterns, and they provide a set of proven solutions to common design problems. Some examples of widely used architectural patterns include:</p>
+
+- Model-View-Controller (MVC) pattern: This pattern separates an application into three interconnected components: the model (data and business logic), the view (user interface), and the controller (handles user input and manages interactions between the model and the view).
+
+  
+
+- Layered architecture pattern: This pattern separates an application into layers, where each layer is responsible for a specific set of tasks. Typically, there is a presentation layer (user interface), business logic layer, and data access layer.
+
+  
+
+= Service-oriented architecture (SOA) pattern: This pattern breaks an application down into smaller, modular services that communicate with each other through a network. Each service performs a specific task and can be developed, deployed, and scaled independently.
+
+  
+
+- Microservices architecture pattern: This pattern is similar to SOA but places a stronger emphasis on independently deployable and scalable services. Microservices are typically smaller in scope than SOA services and often communicate with each other through lightweight protocols like REST.
+
+  
+
+<p>It's important to note that while these architectural patterns can be helpful in providing a starting point for system design, they are not one-size-fits-all solutions. The specific needs and requirements of the system being designed should always be taken into consideration, and the architecture should be tailored accordingly.</p>
+
+<br>
+  
+
+<h3  align="center"><b>Question</b> : How will the system be distributed across hardware cores or processors?</h3>
+
+  
+
+<p>The distribution of a system across hardware cores or processors will depend on several factors, including the system requirements, the available hardware resources, and the design decisions made during the development process. In general, the distribution of a system across hardware cores or processors can be achieved through parallelization or through the use of distributed computing techniques.</p>
+
+  
+
+<p>Parallelization involves dividing a system's workload into smaller, independent tasks that can be executed concurrently across multiple cores or processors. This approach can improve system performance and scalability by reducing processing time and enabling the system to handle larger workloads. Parallelization can be achieved through techniques such as multithreading, multiprocessing, and vectorization.</p>
+
+  
+
+<p>
+
+Distributed computing techniques involve dividing a system's workload across multiple machines connected through a network. This approach can improve system reliability, fault tolerance, and scalability by enabling the system to handle larger workloads and providing redundancy in case of hardware failures. Distributed computing techniques can be achieved through approaches such as client-server architecture, peer-to-peer architecture, and message passing.</p>
+
+  
+
+<p>
+
+The choice between parallelization and distributed computing techniques will depend on the specific requirements of the system being developed. If the system requires high performance and is running on a single machine with multiple cores, parallelization may be the best approach. If the system requires high availability and redundancy, distributed computing techniques may be the better option. In many cases, a combination of both approaches may be used to achieve the desired system performance and reliability.</p>
+
+  
+
+<h3  align="center"><b>Question</b> : What architectural patterns or styles might be used?</h3>
+
+There are several architectural patterns or styles that can be used to design a software system, depending on the specific requirements and constraints of the system being developed. Here are some examples of commonly used patterns or styles:
+
+1.  Layered Architecture: This pattern separates the system into layers, where each layer is responsible for a specific set of tasks. Typically, there is a presentation layer (user interface), business logic layer, and data access layer.
     
+2.  Model-View-Controller (MVC): This pattern separates an application into three interconnected components: the model (data and business logic), the view (user interface), and the controller (handles user input and manages interactions between the model and the view).
     
- <p style="position:relative ; left:200px"><b>Question</b> : Is there a generic application architecture that can act as a template for the system that is being designed?
-     <br>
-     Yes, there are several generic application architecture templates that can be used as a starting point when designing a system. These templates are often referred to as architectural patterns, and they provide a set of proven solutions to common design problems. Some examples of widely used architectural patterns include:
-     
-     <ol style="text-align:center">
-         <li>Model-View-Controller (MVC) pattern: This pattern separates an application into three interconnected components: the model (data and business logic), the view (user interface), and the controller (handles user input and manages interactions between the model and the view).</li>
-         <li>Layered architecture pattern: This pattern separates an application into layers, where each layer is responsible for a specific set of tasks. Typically, there is a presentation layer (user interface), business logic layer, and data access layer.</li>
-         <li>Service-oriented architecture (SOA) pattern: This pattern breaks an application down into smaller, modular services that communicate with each other through a network. Each service performs a specific task and can be developed, deployed, and scaled independently.</li>
-         <li>Microservices architecture pattern: This pattern is similar to SOA but places a stronger emphasis on independently deployable and scalable services. Microservices are typically smaller in scope than SOA services and often communicate with each other through lightweight protocols like REST.</li>
+3.  Microservices Architecture: This pattern divides the system into smaller, independent services that can be developed, deployed, and scaled independently. Each service performs a specific task and communicates with other services through lightweight protocols like REST.
     
+4.  Event-Driven Architecture: This pattern is based on the idea that events trigger actions within the system. The system is designed to react to events and initiate actions in response to them.
     
-        How will the system be distributed across hardware cores or processors?</li>
-        What architecture patterns of style 
+5.  Service-Oriented Architecture (SOA): This pattern breaks the system down into smaller, modular services that communicate with each other through a network. Each service performs a specific task and can be developed, deployed, and scaled independently.
+    
+6.  Domain-Driven Design (DDD): This pattern focuses on the domain model of the system and aims to create a clear and well-defined understanding of the problem domain. The system is designed around the domain model, with each component representing a specific aspect of the domain.
+    
+
+These are just a few examples of architectural patterns or styles that can be used in software system design. The choice of pattern or style will depend on the specific requirements, constraints, and goals of the system being developed.
+
+<h3  align="center"><b>Question</b> : What strategy will be used to control the operation of the components in the system?</h3>
+
+The strategy used to control the operation of components in a system will depend on the specific requirements and design decisions of the system. Here are some common strategies that can be used:
+
+1.  Centralized Control: This strategy involves a central component that controls the operation of all other components in the system. The central component can be responsible for coordinating communication between components, managing resources, and enforcing system-wide policies.
+    
+2.  Distributed Control: This strategy involves distributing control across multiple components in the system. Each component may be responsible for managing its own resources, and communication between components may be peer-to-peer or through a messaging system.
+    
+3.  Hierarchical Control: This strategy involves organizing components into a hierarchical structure, with higher-level components responsible for coordinating the operation of lower-level components. This approach can help to simplify system management and improve scalability.
+    
+4.  Reactive Control: This strategy involves components reacting to events or changes in the system environment. The components may be designed to adapt to changing conditions and adjust their behavior accordingly.
+    
+5.  Proactive Control: This strategy involves components proactively monitoring the system environment and taking action to prevent potential problems or errors. This approach can help to improve system reliability and reduce downtime.
+    
+
+The choice of strategy will depend on several factors, including the system requirements, the complexity of the system, and the desired level of control and flexibility. In many cases, a combination of strategies may be used to achieve the desired system behavior and performance.
+
+<h3  align="center"><b>Question</b> : How should the architecture of the system be documented?</h3>
                                                                                               
 
 # Architectural View
