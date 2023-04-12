@@ -1,0 +1,86 @@
+<body>
+
+    <h1 style="text-align:center;font-family: verdana; color:blue">Medical Form</h1>
+    <style>
+        table,th,td
+        {
+            border: 1px solid black;
+        }
+    </style>
+
+<div style="border: 1px solid blue; padding:10px">
+<div class="border">
+<form action="/action_page.php">
+  <fieldset style="border:1px solid rgb(156, 154, 154);width:80%">
+    <legend>Personal Information</legend>
+    <table>
+        <tr>
+            <td><label for="fname">First name:</label></td>
+            <td><input type="text" id="fname" name="fname"></td>
+            <td><label for="gndr">Gender:</label></td>
+            <td>
+                <input type="radio" id="gender1" name="choose" value="Yes">
+                <label for="gender1">Female</label>
+                <input type="radio" id="gender2" name="choose" value="No">
+                <label for="gender2">Male</label>
+            </td>
+        </tr>
+
+        <tr>
+            <td><label for="lname">Last name:</label></td>
+            <td><input type="text" id="lname" name="lname"></td>
+            <td><label for="ntnlt">Nationality:</label></td>
+            <td>
+                <label for="ntnlt"></label>
+                <select id="ntnlt" name="ntnlt">
+                    <option value="">--SELECT--</option>
+                    <option value="canada">Canada</option>
+                    <option value="malaysia">Malaysia</option>
+                    <option value="australia">Australia</option>
+                    <option value="arab">Saudi Arab</option>
+                </select>
+            </td>
+
+        </tr>
+
+        <tr>
+            <td>Address</td>
+            <td colspan="3" width="85%">
+                <textarea rows="8" cols="30" name="address">
+                </textarea>
+            </td>
+
+        </tr>
+    </table>
+  </fieldset>
+
+  <fieldset style="border:1px solid rgb(156, 154, 154);width:80%">
+    <legend>Medical History</legend>
+        <input type="checkbox" id="history1" name="history1" value="smallpox">
+        <label for="history1">Small pox</label>
+        <input type="checkbox" id="history2" name="history2" value="smallpox">
+        <label for="history2">Mumps</label>
+        <input type="checkbox" id="history3" name="history3" value="smallpox">
+        <label for="history2">Dizziness</label>
+        <input type="checkbox" id="history4" name="history4" value="smallpox">
+        <label for="history2">Sneezing</label>
+  </fieldset>
+
+  <fieldset style="border:1px solid rgb(156, 154, 154);width:97%">
+    <legend>Current Medicaiton</legend>
+        Are you currently taking any medication?
+        <input type="radio" id="choice1" name="one" value="Yes">
+        <label for="choice1">Yes</label>
+        <input type="radio" id="choice2" name="one" value="No">
+        <label for="choice2">No</label>
+    <p>If you are currently taking medication, please indicate it in the space below:</p>
+        <textarea style="width:100%" rows="8" cols="100" name="address"></textarea>
+    </fieldset>
+    <input type="submit" value="Submit">
+    <input type="reset" value="Reset">
+
+</form>
+</div>
+</div>
+</body>
+</html>
