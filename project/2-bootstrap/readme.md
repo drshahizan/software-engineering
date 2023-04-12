@@ -21,7 +21,7 @@ This project is a continuation of Project 1, in which you created your portfolio
 7. Make sure that your HTML code is well-structured, properly indented, and uses semantic HTML tags.
 8. Ensure that your portfolio is accessible and search engine optimized by using relevant meta tags and alt attributes.
 
-## An Overview of the File and Contents of Bootstrap"
+## An Overview of the File and Contents of Bootstrap
 Bootstrap is a popular front-end web development framework that is widely used to create responsive and mobile-first websites. It is a free and open-source framework that includes pre-built HTML, CSS, and JavaScript components that help developers create websites quickly and easily.
 
 Bootstrap web templates are pre-designed website layouts that are built using the Bootstrap framework. They provide a solid foundation for developers and designers to create responsive and mobile-friendly websites without having to start from scratch. Bootstrap templates come with pre-built components such as navigation menus, buttons, forms, modals, and much more, making it easy to create a professional-looking website.
@@ -30,9 +30,9 @@ Using a Bootstrap web template can save a lot of time and effort in website deve
 
 Bootstrap consists of several files that work together to create a responsive and attractive website. The main files in Bootstrap are:
 
-1. **HTML files: These are the main files that contain the content of your website. They use the Bootstrap CSS and JavaScript files to create the layout and functionality of the website.
+1. **HTML files**: These are the main files that contain the content of your website. They use the Bootstrap CSS and JavaScript files to create the layout and functionality of the website.
 
-2. **CSS files: These files contain the styles that are applied to the HTML elements on the website. Bootstrap includes several CSS files, including a main CSS file and additional files for specific components.
+2. **CSS files**: These files contain the styles that are applied to the HTML elements on the website. Bootstrap includes several CSS files, including a main CSS file and additional files for specific components.
 
 3. **JavaScript files**: These files provide interactivity and functionality to the website. Bootstrap includes several JavaScript files, including jQuery and Bootstrap-specific JavaScript files.
 
