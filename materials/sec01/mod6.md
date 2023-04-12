@@ -201,7 +201,7 @@ Architectural models can be used in various ways, including:
 <br><br>
 
 # Architectural Design Decision
-<img src="https://www.researchgate.net/publication/224606007/figure/fig4/AS:669974284759042@1536745725112/Architectural-Design-Decision.png" width="200" height="200">
+<img src="https://www.researchgate.net/profile/Silvio-Gonnet/publication/224606007/figure/fig4/AS:669974284759042@1536745725112/Architectural-Design-Decision.png" width="200" height="200">
 
 <p><b>Architecture design decision</b> refers to <i>the process of making key choices during the design and development of a software or system architecture</i>. These decisions have a significant impact on the overall structure and behavior of the system and can affect its quality attributes such as performance, scalability, maintainability, security, and usability.</p>
 
@@ -359,15 +359,15 @@ Overall, the process of decomposing structural components into sub-components sh
 <h3  align="center"><b>Question</b> : What will be the fundamental approach used to structure the system?</h3>
 The fundamental approach used to structure a system will depend on the specific requirements and constraints of the system being developed. Here are some possible approaches that can be used to structure a system:
 
-1.  Object-Oriented Approach: The object-oriented approach is a popular approach used to structure software systems. It involves breaking down the system into objects, each with its own properties and behavior. Objects can be grouped into classes, which define a set of objects with similar properties and behavior.
+1.  **Object-Oriented Approach**: The object-oriented approach is a popular approach used to structure software systems. It involves breaking down the system into objects, each with its own properties and behavior. Objects can be grouped into classes, which define a set of objects with similar properties and behavior.
     
-2.  Component-Based Approach: The component-based approach involves breaking down the system into independent components, each with a well-defined interface. Components can be developed independently and then integrated into the system.
+2.  **Component-Based Approach**: The component-based approach involves breaking down the system into independent components, each with a well-defined interface. Components can be developed independently and then integrated into the system.
     
-3.  Service-Oriented Approach: The service-oriented approach involves breaking down the system into services, each providing a specific functionality. Services can be loosely coupled and independently deployable, making them flexible and adaptable to changing requirements.
+3.  **Service-Oriented Approach**: The service-oriented approach involves breaking down the system into services, each providing a specific functionality. Services can be loosely coupled and independently deployable, making them flexible and adaptable to changing requirements.
     
-4.  Event-Driven Approach: The event-driven approach involves structuring the system around events, where each component responds to specific events. This approach can be useful for real-time and near real-time systems.
+4.  **Event-Driven Approach**: The event-driven approach involves structuring the system around events, where each component responds to specific events. This approach can be useful for real-time and near real-time systems.
     
-5.  Layered Approach: The layered approach involves breaking down the system into layers, each responsible for a specific set of functionality. Each layer can be optimized for specific non-functional requirements, such as performance or modifiability.
+5.  **Layered Approach**: The layered approach involves breaking down the system into layers, each responsible for a specific set of functionality. Each layer can be optimized for specific non-functional requirements, such as performance or modifiability.
     
 
 Overall, the choice of approach will depend on the specific requirements and constraints of the system being developed. The chosen approach should enable the system to meet its functional and non-functional requirements, while also being maintainable and scalable. The approach should be well-documented, to ensure that it is easy to understand and maintain over time.
