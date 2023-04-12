@@ -201,7 +201,7 @@ Architectural models can be used in various ways, including:
 <br><br>
 
 # Architectural Design Decision
-<img src="https://i.imgur.com/njg5lrp.png" height="500" width="500">
+<img src="https://i.imgur.com/njg5lrp.png" height="300" width="500">
 
 <p><b>Architecture design decision</b> refers to <i>the process of making key choices during the design and development of a software or system architecture</i>. These decisions have a significant impact on the overall structure and behavior of the system and can affect its quality attributes such as performance, scalability, maintainability, security, and usability.</p>
 
@@ -402,11 +402,11 @@ Overall, architecture reuse can be a valuable approach to system design that can
 
 ## Architecture and System Characteristic
  > Five system characteristics are :
-  >- Performance
-   >- Security
-	>- Safety
-	>- Availability
-	>- Maintainability
+ >- Performance
+ >- Security
+ >- Safety
+ >- Availability
+ >- Maintainability
 
 Architecture and system characteristics are closely related concepts in the field of software engineering. The architecture of a software system is a high-level view of the system's structure, components, and interactions, while the system characteristics refer to the system's qualities or attributes, such as its performance, scalability, reliability, and maintainability.
 
