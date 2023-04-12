@@ -10,7 +10,28 @@ Don't forget to hit the :star: if you like this repo.
 # Project 2: Student Portfolio Showcase (Bootstrap)
 
 ## Description:
-Create a personal portfolio website that showcases your skills and experiences. The website should include an introduction section, a skills section, an experience section, and a contact section. You can refer to HTML code example at [learn PHP github](https://github.com/drshahizan/learn-php/blob/main/materials/html-portfolio.md).
+In addition to creating your own portfolio website from scratch, you can also use free web templates as a starting point. There are many free templates available online that are built with Bootstrap and other web technologies, and you can use them to save time and effort in designing and developing your website.
+
+When selecting a free web template, make sure it fits your needs as well as your personal style and branding. You can personalise the template by adding your own content, images, and colours, as well as changing the layout and design to suit your tastes.
+
+While free web templates can save you time and effort, they can also limit your flexibility and creativity. To add specific features or functionality, you may need to modify the template code, and you may not be able to achieve a completely unique or custom look.
+
+Overall, if you want to quickly create a professional-looking portfolio website without investing a lot of time or money, using a free web template can be a good option. Choose a template that meets your needs and goals, and be prepared to make some changes to make it your own.
+
+## Bootstrap web template
+The following are the steps to construct a Student Portfolio Showcase utilizing a Bootstrap web template
+
+1. **Choose a Bootstrap template**: Start by choosing a Bootstrap web template that is suitable for your project. You can find many free and paid Bootstrap templates online, such as on the Bootstrap official website or on marketplaces like ThemeForest. Look for a template that has a clean and modern design, and that includes features such as a portfolio section, contact form, and responsive layout. Some examples of templates that could work well for a student portfolio showcase project are "ResumeX" or "DevFolio" by ThemeWagon.
+
+2. **Download the template**: Once you have chosen a template, download the template files and extract them to your computer. Make sure to read the documentation and instructions that come with the template to understand how to use it.
+
+3. **Customize the template**: Open the template files in a code editor and customize them to fit your project requirements. Replace the demo content with your own content, such as your name, photo, bio, skills, education, and work experience. Add your own projects to the portfolio section, including descriptions, images, and links. Customize the color scheme, typography, and layout to match your personal branding.
+
+4. **Add your own features**: Depending on your project requirements, you may need to add some additional features to the template. For example, you could add a section to showcase your achievements or awards, or include testimonials from your clients or colleagues. You could also integrate social media links, a blog section, or a resume download feature. Use Bootstrap's built-in components and plugins, or add your own custom HTML, CSS, or JavaScript code to implement these features.
+
+5. **Test and deploy**: Once you have customized the template and added your own features, test your website thoroughly to ensure that it looks and functions correctly on different devices and browsers. Make sure to optimize your website for performance, security, and search engine optimization (SEO). When you are satisfied with your website, deploy it to a web server or a hosting service. You can use a free hosting service like GitHub Pages or Netlify, or a paid hosting service like Bluehost or HostGator.
+
+By following these steps, you can create a professional-looking student portfolio showcase website using a Bootstrap web template. Remember to keep the website simple, clear, and easy to navigate, and to showcase your best work and achievements.
 
 ## Requirements:
 1. The website must be created using standard HTML code.
