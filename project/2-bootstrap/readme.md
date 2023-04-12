@@ -42,7 +42,7 @@ Bootstrap consists of several files that work together to create a responsive an
 
 6. **Images**: Bootstrap does not include any images by default, but you can add your own images to the website as needed.
 
-## Bootstrap web template
+## How to Create a Student Portfolio Showcase with Bootstrap Web Template: Step-by-Step Guide
 The following are the steps to construct a Student Portfolio Showcase utilizing a Bootstrap web template:
 
 1. **Plan your website**: Before you start coding, plan out the content and layout of your portfolio website. Decide what sections you want to include (e.g. about me, projects, contact), what information you want to display in each section, and how you want to arrange the content on the page.
