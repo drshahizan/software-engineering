@@ -354,7 +354,7 @@ There are various factors that contribute to software quality, including functio
 
 - Portability: Software that can run on different hardware platforms and operating systems. For example, a web application that can run on different web browsers and operating systems.
 
-<br><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6byfPv_j3kinc4yMtuZritov8BHxIEK6YEQ&usqp=CAU"width="600px"><br>
+<br><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6byfPv_j3kinc4yMtuZritov8BHxIEK6YEQ&usqp=CAU" width="600px"><br>
 
 
 
