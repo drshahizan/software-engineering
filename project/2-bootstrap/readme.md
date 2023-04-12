@@ -9,14 +9,17 @@ Don't forget to hit the :star: if you like this repo.
 
 # Project 2: Student Portfolio Showcase (Bootstrap)
 
-## Project Overview:
+## Project Overview
 This project is a continuation of Project 1, in which you created your portfolio using HTML tags. This task requires you to use Bootstrap to improve and upgrade your portfolio from Project 1. The additional instructions are as follows:
 
-When selecting a free web template, make sure it fits your needs as well as your personal style and branding. You can personalise the template by adding your own content, images, and colours, as well as changing the layout and design to suit your tastes.
-
-While free web templates can save you time and effort, they can also limit your flexibility and creativity. To add specific features or functionality, you may need to modify the template code, and you may not be able to achieve a completely unique or custom look.
-
-Overall, if you want to quickly create a professional-looking portfolio website without investing a lot of time or money, using a free web template can be a good option. Choose a template that meets your needs and goals, and be prepared to make some changes to make it your own.
+1. Utilize Bootstrap framework to create a more visually appealing and responsive layout for your portfolio.
+2. Implement Bootstrap's predefined CSS classes and JavaScript plugins to add interactive features to your portfolio.
+3. Ensure that your portfolio is compatible with different screen sizes and devices.
+4. Use Bootstrap's grid system to create a well-organized and structured layout for your content.
+5. Incorporate your personal information, skills, and experiences into your portfolio using appropriate HTML tags and Bootstrap components.
+6. Add a contact form to your portfolio to enable visitors to get in touch with you.
+7. Make sure that your HTML code is well-structured, properly indented, and uses semantic HTML tags.
+8. Ensure that your portfolio is accessible and search engine optimized by using relevant meta tags and alt attributes.
 
 ## Bootstrap web template
 The following are the steps to construct a Student Portfolio Showcase utilizing a Bootstrap web template:
