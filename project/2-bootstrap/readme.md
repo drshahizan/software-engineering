@@ -56,13 +56,21 @@ Here are some options:
 All of these websites offer a variety of free Bootstrap templates that can be used for a Student Portfolio Showcase project. Simply browse through the templates, find one that suits your needs, and download the files to get started.
 
 ## Requirements:
-1. The website must be created using standard HTML code.
-2. The introduction section should provide a brief introduction about yourself, along with a photo and a call-to-action button that links to the contact section.
-3. The skills section should list your skills using a table or a list.
-4. The experience section should detail your work or education experience using a timeline or a list.
-5. The contact section should include a form that collects user input for their name, email, and message.
-6. The HTML code should be well-organized and easy to read.
-7. The HTML code should use semantic HTML tags to improve accessibility and SEO.
+1. **Use Bootstrap**: Use the Bootstrap framework to create the Student Portfolio Showcase project.
+
+2. **Required files**: Use HTML, CSS, and JavaScript files to create the website.
+
+3. **Introduction section**: Create an introduction section that includes a brief bio about yourself, a photo, and a call-to-action button that directs users to the contact section.
+
+4. **Skills section**: Create a skills section that lists your skills in a clear and organized way, using either a table or a list.
+
+5. **Experience section**: Create an experience section that details your work and education history in a timeline or a list format.
+
+6. **Contact section**: Include a contact section with a form that allows users to input their name, email, and message.
+
+7. **Well-organized HTML code**: Ensure that the HTML code is well-organized and easy to read, making it easier to make changes or additions later.
+
+8. **Semantic HTML tags**: Use semantic HTML tags to improve the accessibility and search engine optimization (SEO) of the website.
 
 ## Instructions
 1. Please include your contact information in the HTML `<head>`.
