@@ -246,6 +246,10 @@ The changeability of a software system is influenced by various factors, such as
 
 To improve the changeability of a software system, it is important to follow best practices such as writing clean code, using version control systems, writing automated tests, and documenting the code. By doing so, developers can make it easier to understand, modify, and maintain the software over time, which can ultimately lead to a more robust and reliable system.
 
+<br><img src="https://www.cgsinc.com/sites/default/files/styles/blog_details/public/software%20with%20clocks-SMALL.jpg?itok=nXRfzVN7" width="600px"><br>
+
+
+
 ## Computer Science vs.Software Engineering
 
 Computer science and software engineering may share some overlapping commonalities, however, the principles behind each field can offer several differences. One is that computer science deals with the science behind the interaction between hardware and software systems and computational applications, whereas software engineering typically deals with the engineering principles of building, designing and testing software products.The differences of computer science and software engineering are:
@@ -269,8 +273,6 @@ In summary, computer science is the study of computing and computational systems
 Both are the best in their own aspects. However, you should opt for the Software engineering if you are interested in software testing, software development and overall software life cycle or you can opt for Computer Science if you have an interest in artificial intelligence, machine learning, security, database management, etc.
 
 <br><img src="https://cdn.educba.com/academy/wp-content/uploads/2021/03/Computer-Engineering-vs-Software-Engineering.jpg" width="600px"><br>
-
-
 
 
 
