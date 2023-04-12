@@ -314,6 +314,51 @@ In summary, software programming is a subset of software engineering. While soft
 
 <br><img src="https://media.licdn.com/dms/image/C5612AQGhERKv2iF-RQ/article-cover_image-shrink_423_752/0/1582104123023?e=1686787200&v=beta&t=lvon40ORPwihigAZYWiGap_t3U3e6FkWvj8B4hayEuk" width="600px"><br>
 
+## Quality Focus
+
+Quality focus in software development refers to the emphasis placed on delivering high-quality software products that meet or exceed customer expectations. It involves the integration of quality standards and practices throughout the entire software development process.
+
+External quality focus refers to the quality of the software product that is delivered to the end-users or customers. It ensures that the software meets or exceeds the customer's expectations and provides a positive user experience. External quality focus involves the following:
+
+- Functional requirements: The software meets the functional requirements that the customer has specified.
+
+- Performance: The software performs efficiently, has good response times, and can handle large amounts of data.
+
+- Reliability: The software operates reliably, with minimal downtime or errors.
+
+- Usability: The software is easy to use and understand, with a good user interface.
+
+- Security: The software is secure and protects sensitive data from unauthorized access or theft.
+
+Internal quality focus refers to the quality of the software development process itself. It ensures that the software development process is efficient, effective, and produces high-quality software products. Internal quality focus involves the following:
+
+- Code quality: The code is well-structured, follows coding standards, and is easy to read and maintain.
+
+- Testing: The software is thoroughly tested, with automated testing and manual testing, to ensure that it meets the functional and non-functional requirements.
+
+- Documentation: The software is well-documented, with clear and concise documentation for developers, testers, and end-users.
+
+- Continuous integration and delivery: The software development process includes continuous integration and delivery, which ensures that code changes are frequently and automatically integrated and tested.
+
+There are various factors that contribute to software quality, including functionality, reliability, usability, efficiency, maintainability, and portability. Here are a few examples of software quality:
+
+- Functionality: Software that performs its intended functions correctly and completely. For example, a word processing software that allows users to create, edit, and format documents without errors.
+
+- Reliability: Software is more reliable if it has fewer failures. Since software engineers do not deliberately plan for their software to fail, reliability depends on the number and types of mistakes they make.
+
+- Usability: The higher the usability of software, the easier it is for users to work with it. There are several aspects of usability, including learnability for novices, efficiency of use for experts and handling of errors.
+
+- Efficiency: Software should not make wasteful use of system resources such as memory and processor cycles. Efficiency therefore includes responsiveness, processing time, memory utilisation, etc.
+
+- Maintainability: Software should be written in such a way so that it can evolve to meet the changing needs of customers. This is a critical attribute because software change is an inevitable requirement of a changing business environment.
+
+- Portability: Software that can run on different hardware platforms and operating systems. For example, a web application that can run on different web browsers and operating systems.
+
+<br><img src="https://thumbs.dreamstime.com/z/focus-quality-written-document-office-desk-office-accessories-focus-quality-written-document-213436097.jpg" width="600px"><br>
+
+
+
+
 
 </body>
 
