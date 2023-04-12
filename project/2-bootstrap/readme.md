@@ -76,7 +76,7 @@ All of these websites offer a variety of free Bootstrap templates that can be us
 1. Please include your contact information in the HTML `<head>`.
 
 ``` 
-<!--
+<!--html
 Name:a
 Matrix No:
 Github id:
@@ -84,10 +84,30 @@ Github id:
 Project 1: Personal Portfolio Website
 -->
 ```
-4. You must place your file in the submission folder. Within the [sec01](./sec01) or [sec02](./sec02) folder, create a folder called your `id github`. Name the file as `P1_Githubid.html`.
+4. You must place your file in the submission folder. Within the [sec01](./sec01) or [sec02](./sec02) folder, create a folder called your `id github`. Name the default file as `index.html`.
 > Example: 
-> /sec01/drshahizan/P1_drshahizan.html or
-> /sec02/drshahizan/P1_drshahizan.html
+> /sec01/drshahizan/index.html or
+> /sec02/drshahizan/index.html
+
+suggested folder structure for the Student Portfolio Showcase project using Bootstrap:
+
+```html
+student-portfolio-showcase/
+├── index.html
+├── css/
+│   ├── bootstrap.min.css
+│   └── style.css
+├── js/
+│   ├── jquery.min.js
+│   └── bootstrap.min.js
+└── images/
+    ├── profile-pic.jpg
+    └── project-1.jpg
+```
+
+In this folder structure, the main index.html file is located in the root folder. The CSS files are located in the css folder, while the JavaScript files are located in the js folder. The images used in the project are stored in the images folder.
+
+Note that this is just one possible folder structure and can be adjusted based on personal preferences or project requirements.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
