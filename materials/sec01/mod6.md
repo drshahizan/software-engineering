@@ -201,6 +201,244 @@ Architectural models can be used in various ways, including:
 <br><br>
 
 # Architectural Design Decision
+<img src="https://i.imgur.com/njg5lrp.png" height="300" width="400">
+
+<p><b>Architecture design decision</b> refers to <i>the process of making key choices during the design and development of a software or system architecture</i>. These decisions have a significant impact on the overall structure and behavior of the system and can affect its quality attributes such as performance, scalability, maintainability, security, and usability.</p>
+
+  
+
+<p>Architectural design decisions involve evaluating trade-offs among various options based on factors such as requirements, constraints, technical feasibility, cost, and risks. These decisions are often documented in an architectural design document and communicated to stakeholders to ensure alignment and understanding.</p>
+
+  
+
+<p>Examples of architecture design decisions include choosing a programming language, selecting a database management system, deciding on the use of microservices or monolithic architecture, and determining the deployment model (on-premises or cloud-based).</p>
+
+
+## QNA
+
+
+<h3  align="center"><b>Question</b> : Is there a generic application architecture that can act as a template for the system that is being designed?</h3>
+
+<p>Yes, there are several generic application architecture templates that can be used as a starting point when designing a system. These templates are often referred to as architectural patterns, and they provide a set of proven solutions to common design problems. Some examples of widely used architectural patterns include:</p>
+
+- **Model-View-Controller (MVC) pattern**: This pattern separates an application into three interconnected components: the model (data and business logic), the view (user interface), and the controller (handles user input and manages interactions between the model and the view).
+
+  
+
+- **Layered architecture pattern**: This pattern separates an application into layers, where each layer is responsible for a specific set of tasks. Typically, there is a presentation layer (user interface), business logic layer, and data access layer.
+
+  
+
+- **Service-oriented architecture (SOA) pattern**: This pattern breaks an application down into smaller, modular services that communicate with each other through a network. Each service performs a specific task and can be developed, deployed, and scaled independently.
+
+  
+
+- **Microservices architecture pattern**: This pattern is similar to SOA but places a stronger emphasis on independently deployable and scalable services. Microservices are typically smaller in scope than SOA services and often communicate with each other through lightweight protocols like REST.
+
+  
+
+<p>It's important to note that while these architectural patterns can be helpful in providing a starting point for system design, they are not one-size-fits-all solutions. The specific needs and requirements of the system being designed should always be taken into consideration, and the architecture should be tailored accordingly.</p>
+
+<br>
+  
+
+<h3  align="center"><b>Question</b> : How will the system be distributed across hardware cores or processors?</h3>
+
+  
+
+<p>The distribution of a system across hardware cores or processors will depend on several factors, including the system requirements, the available hardware resources, and the design decisions made during the development process. In general, the distribution of a system across hardware cores or processors can be achieved through parallelization or through the use of distributed computing techniques.</p>
+
+  
+
+<p>Parallelization involves dividing a system's workload into smaller, independent tasks that can be executed concurrently across multiple cores or processors. This approach can improve system performance and scalability by reducing processing time and enabling the system to handle larger workloads. Parallelization can be achieved through techniques such as multithreading, multiprocessing, and vectorization.</p>
+
+  
+
+<p>
+
+Distributed computing techniques involve dividing a system's workload across multiple machines connected through a network. This approach can improve system reliability, fault tolerance, and scalability by enabling the system to handle larger workloads and providing redundancy in case of hardware failures. Distributed computing techniques can be achieved through approaches such as client-server architecture, peer-to-peer architecture, and message passing.</p>
+
+  
+
+<p>
+
+The choice between parallelization and distributed computing techniques will depend on the specific requirements of the system being developed. If the system requires high performance and is running on a single machine with multiple cores, parallelization may be the best approach. If the system requires high availability and redundancy, distributed computing techniques may be the better option. In many cases, a combination of both approaches may be used to achieve the desired system performance and reliability.</p>
+
+  
+
+<h3  align="center"><b>Question</b> : What architectural patterns or styles might be used?</h3>
+
+There are several architectural patterns or styles that can be used to design a software system, depending on the specific requirements and constraints of the system being developed. Here are some examples of commonly used patterns or styles:
+
+1.  **Layered Architecture**: This pattern separates the system into layers, where each layer is responsible for a specific set of tasks. Typically, there is a presentation layer (user interface), business logic layer, and data access layer.
+    
+2.  **Model-View-Controller (MVC)**: This pattern separates an application into three interconnected components: the model (data and business logic), the view (user interface), and the controller (handles user input and manages interactions between the model and the view).
+    
+3.  **Microservices Architecture**: This pattern divides the system into smaller, independent services that can be developed, deployed, and scaled independently. Each service performs a specific task and communicates with other services through lightweight protocols like REST.
+    
+4.  **Event-Driven Architecture**: This pattern is based on the idea that events trigger actions within the system. The system is designed to react to events and initiate actions in response to them.
+    
+5.  **Service-Oriented Architecture (SOA)**: This pattern breaks the system down into smaller, modular services that communicate with each other through a network. Each service performs a specific task and can be developed, deployed, and scaled independently.
+    
+6.  Domain-Driven Design (DDD): This pattern focuses on the domain model of the system and aims to create a clear and well-defined understanding of the problem domain. The system is designed around the domain model, with each component representing a specific aspect of the domain.
+    
+
+These are just a few examples of architectural patterns or styles that can be used in software system design. The choice of pattern or style will depend on the specific requirements, constraints, and goals of the system being developed.
+
+<h3  align="center"><b>Question</b> : What strategy will be used to control the operation of the components in the system?</h3>
+
+The strategy used to control the operation of components in a system will depend on the specific requirements and design decisions of the system. Here are some common strategies that can be used:
+
+1.  **Centralized Control**: This strategy involves a central component that controls the operation of all other components in the system. The central component can be responsible for coordinating communication between components, managing resources, and enforcing system-wide policies.
+    
+2.  **Distributed Control**: This strategy involves distributing control across multiple components in the system. Each component may be responsible for managing its own resources, and communication between components may be peer-to-peer or through a messaging system.
+    
+3.  **Hierarchical Control**: This strategy involves organizing components into a hierarchical structure, with higher-level components responsible for coordinating the operation of lower-level components. This approach can help to simplify system management and improve scalability.
+    
+4.  **Reactive Control**: This strategy involves components reacting to events or changes in the system environment. The components may be designed to adapt to changing conditions and adjust their behavior accordingly.
+    
+5.  **Proactive Control**: This strategy involves components proactively monitoring the system environment and taking action to prevent potential problems or errors. This approach can help to improve system reliability and reduce downtime.
+    
+
+The choice of strategy will depend on several factors, including the system requirements, the complexity of the system, and the desired level of control and flexibility. In many cases, a combination of strategies may be used to achieve the desired system behavior and performance.
+
+<h3  align="center"><b>Question</b> : How should the architecture of the system be documented?</h3>
+
+Documenting the architecture of a system is essential for ensuring that everyone involved in the development, maintenance, and use of the system has a clear understanding of its design, components, and behavior. Here are some best practices for documenting the architecture of a system:
+
+1.  **Use standard notation**: Use standard notations such as Unified Modeling Language (UML) to document the architecture of the system. This will help ensure that the documentation is consistent and can be easily understood by others.
+    
+2.  **Use diagrams**: Use diagrams to illustrate the various components, interactions, and relationships within the system. Examples of diagrams that can be used include use case diagrams, sequence diagrams, activity diagrams, and class diagrams.
+    
+3.  **Include descriptions**: Along with diagrams, provide descriptions of each component and its behavior within the system. This will help ensure that everyone involved in the system has a clear understanding of its design and operation.
+    
+4.  **Document non-functional requirements**: Document non-functional requirements such as performance, reliability, and scalability. These requirements should be clearly defined and measurable to ensure that the system meets the desired performance standards.
+    
+5.  **Use a consistent structure**: Use a consistent structure for the documentation to ensure that it is easy to navigate and understand. For example, organize the documentation into sections such as overview, components, interactions, and non-functional requirements.
+    
+6.  **Keep the documentation up-to-date**: The documentation should be kept up-to-date throughout the development and maintenance of the system. Any changes to the system design should be reflected in the documentation to ensure that it remains accurate and relevant.
+    
+
+Overall, the documentation of the architecture of a system should be clear, concise, and easy to understand. It should provide a comprehensive view of the system's design, components, and behavior, and should be regularly updated to ensure its accuracy and relevance.
+
+<h3  align="center"><b>Question</b> : What architectural organization is best for delivering the non-functional requirements of the system?</h3>
+
+The architectural organization that is best for delivering the non-functional requirements of a system will depend on the specific requirements and constraints of the system being developed. Here are some examples of architectural organizations that can help deliver non-functional requirements:
+
+1.  **Layered Architecture**: A layered architecture can help deliver non-functional requirements such as modifiability, maintainability, and scalability. By separating the system into layers, each layer can be optimized for a specific set of non-functional requirements. For example, the data access layer can be optimized for performance, while the business logic layer can be optimized for maintainability.
+    
+2.  **Microservices Architecture**: A microservices architecture can help deliver non-functional requirements such as scalability, resilience, and fault tolerance. By breaking the system down into smaller, independent services, each service can be optimized for a specific set of non-functional requirements. This can help improve overall system performance and availability.
+    
+3.  **Service-Oriented Architecture (SOA)**: A service-oriented architecture can help deliver non-functional requirements such as interoperability, scalability, and modifiability. By breaking the system down into smaller, modular services, each service can be designed to be loosely coupled and independently deployable. This can help improve system flexibility and adaptability.
+    
+4.  **Event-Driven Architecture**: An event-driven architecture can help deliver non-functional requirements such as responsiveness, scalability, and flexibility. By designing the system to react to events, the system can be optimized for real-time or near real-time processing, and can be easily scaled up or down to handle changes in event volumes.
+    
+5.  **Domain-Driven Design**: Domain-driven design can help deliver non-functional requirements such as modifiability, maintainability, and scalability. By focusing on the domain model of the system, the system can be designed to be more maintainable and scalable, as well as more closely aligned with the needs of its users.
+    
+
+Overall, the choice of architectural organization will depend on the specific requirements and constraints of the system being developed, and on the desired non-functional requirements that need to be delivered. The architecture should be designed to optimize the system's performance, availability, and maintainability while also ensuring that it meets the needs of its users.
+
+<h3  align="center"><b>Question</b> : How will the structural components in the system be decomposed into sub-components?</h3>
+
+Decomposing structural components into sub-components is a crucial step in system design as it helps to break down complex systems into smaller, more manageable pieces. Here are some steps that can be followed to decompose structural components into sub-components:
+
+1.  **Identify the major structural components**: The first step is to identify the major structural components of the system. These are the high-level components that are essential for the functioning of the system.
+    
+2.  **Identify the responsibilities of each major component**: Once the major components are identified, their responsibilities should be identified. This will help in breaking down each component into smaller sub-components.
+    
+3.  **Identify sub-components**: Based on the identified responsibilities, sub-components can be identified for each major component. Each sub-component should have a clearly defined responsibility, and it should be able to perform a specific function or set of functions.
+    
+4.  **Identify relationships between sub-components**: The relationships between sub-components should be identified, and they should be organized in a hierarchical structure. This will help in understanding the dependencies between sub-components.
+    
+5.  **Determine the interface for each sub-component**: The interface for each sub-component should be determined, including the input and output parameters, and the communication protocols.
+    
+6.  **Refine the design**: Once the initial sub-component decomposition is complete, the design should be refined, and any necessary changes should be made to ensure that the sub-components work together seamlessly.
+    
+
+Overall, the process of decomposing structural components into sub-components should be iterative, with regular reviews and updates to ensure that the design is optimal for the system's requirements. The final design should be well-documented, clearly indicating the relationships between sub-components and their interfaces, to ensure that it is easy to understand and maintain.
+<h3  align="center"><b>Question</b> : What will be the fundamental approach used to structure the system?</h3>
+The fundamental approach used to structure a system will depend on the specific requirements and constraints of the system being developed. Here are some possible approaches that can be used to structure a system:
+
+1.  **Object-Oriented Approach**: The object-oriented approach is a popular approach used to structure software systems. It involves breaking down the system into objects, each with its own properties and behavior. Objects can be grouped into classes, which define a set of objects with similar properties and behavior.
+    
+2.  **Component-Based Approach**: The component-based approach involves breaking down the system into independent components, each with a well-defined interface. Components can be developed independently and then integrated into the system.
+    
+3.  **Service-Oriented Approach**: The service-oriented approach involves breaking down the system into services, each providing a specific functionality. Services can be loosely coupled and independently deployable, making them flexible and adaptable to changing requirements.
+    
+4.  **Event-Driven Approach**: The event-driven approach involves structuring the system around events, where each component responds to specific events. This approach can be useful for real-time and near real-time systems.
+    
+5.  **Layered Approach**: The layered approach involves breaking down the system into layers, each responsible for a specific set of functionality. Each layer can be optimized for specific non-functional requirements, such as performance or modifiability.
+    
+
+Overall, the choice of approach will depend on the specific requirements and constraints of the system being developed. The chosen approach should enable the system to meet its functional and non-functional requirements, while also being maintainable and scalable. The approach should be well-documented, to ensure that it is easy to understand and maintain over time.
+
+## Architecture Reuse
+
+**Architecture reuse** is the *practice of utilizing existing architectural components, patterns, and styles from previous projects or established industry standards to design a new system*. This approach can save time, effort, and resources by avoiding the need to design everything from scratch.
+
+Architecture reuse can take various forms, such as:
+
+1.  **Reusing existing software components**: Instead of developing new software components, existing components can be used and integrated into the system.
+    
+2.  **Reusing existing architectural patterns and styles**: Well-established architectural patterns and styles, such as layered architecture, can be reused to design the new system.
+    
+3.  **Reusing existing domain models: Domain models**, representing the domain concepts and relationships, can be reused from previous projects or established industry standards.
+    
+4.  **Reusing existing design principles**: Established design principles, such as the SOLID principles, can be reused to ensure the new system is designed with good design practices.
+    
+## Benefits of Architecture Reuse
+The **benefits** of architecture reuse include:
+
+1.  **Reduced development time and cost**: Reusing existing architectural components, patterns, and styles can significantly reduce the time and cost required to design and develop a new system.
+    
+2.  **Improved quality**: Reusing established components and patterns can improve the quality of the system by leveraging well-tested, proven solutions.
+    
+3.  **Consistency**: Reusing architectural components and patterns can ensure consistency across different projects and systems, making it easier to maintain and support the systems.
+    
+4.  **Flexibility**: Architecture reuse can provide a flexible framework that can be adapted and modified to meet the specific needs of the new system.
+    
+
+Overall, architecture reuse can be a valuable approach to system design that can save time and resources while ensuring high quality and consistency across projects.
+
+## Architecture and System Characteristic
+ > Five system characteristics are :
+ >- Performance
+ >- Security
+ >- Safety
+ >- Availability
+ >- Maintainability
+
+Architecture and system characteristics are closely related concepts in the field of software engineering. The architecture of a software system is a high-level view of the system's structure, components, and interactions, while the system characteristics refer to the system's qualities or attributes, such as its performance, scalability, reliability, and maintainability.
+
+The architecture of a software system can have a significant impact on the system's characteristics. For example, a well-designed architecture can result in a system that is scalable, reliable, and maintainable, while a poorly designed architecture can result in a system that is difficult to maintain, lacks performance, or is unreliable.
+
+Some examples of how architecture can affect system characteristics include:
+
+1.  Performance: Performance is a critical system characteristic that can be affected by many factors, including the architecture. The architecture can impact performance by enabling or restricting parallelism, providing efficient communication between components, and optimizing data storage and retrieval. For example, a well-designed service-oriented architecture (SOA) can improve performance by allowing for distributed processing and reducing bottlenecks.
+    
+2.  Security: Security is an essential characteristic of any software system, and the architecture plays a significant role in determining the level of security. The architecture should incorporate security mechanisms and policies to protect the system from unauthorized access and malicious attacks. For example, a layered architecture can provide a security perimeter that restricts access to sensitive components.
+    
+3.  Safety: Safety is critical in certain software systems, such as those used in aviation, healthcare, and transportation. The architecture can incorporate safety mechanisms to minimize the risk of accidents or failures. For example, a redundant architecture can ensure that critical components are duplicated to reduce the risk of a single point of failure.
+    
+4.  Availability: Availability refers to the ability of a system to remain operational and accessible to users. The architecture can impact availability by enabling redundancy, load balancing, and failover mechanisms. For example, a microservices architecture can provide redundancy by replicating services across multiple servers.
+    
+5.  Maintainability: Maintainability refers to the ease of modifying and updating a system. The architecture can impact maintainability by enabling modularization, providing clear separation of concerns, and enabling version control. For example, a modular architecture can make it easier to isolate and modify specific components without affecting the rest of the system.
+    
+
+In summary, the architecture of a software system can significantly impact system characteristics such as performance, security, safety, availability, and maintainability. It is important to consider these characteristics when designing the architecture and to continuously evaluate and improve it throughout the system's lifecycle.
+
+## Summary for Architecture Design Decision
+
+Architecture design decisions are critical to the success of any software system. These decisions involve selecting an appropriate architecture, defining the system's components and interactions, and making trade-offs to meet the system's functional and non-functional requirements.
+
+The architecture design decisions include selecting an architectural style or pattern that fits the system's requirements, decomposing the system into components, determining the system's distribution and communication mechanisms, and defining the strategies for controlling the system's operation.
+
+The choice of architecture can have a significant impact on the system's characteristics, including performance, security, safety, availability, and maintainability. A well-designed architecture can improve the system's characteristics and enable the system to meet its functional and non-functional requirements.
+
+Documentation is also a critical part of architecture design decisions. Documenting the architecture can help communicate design decisions, enable stakeholders to understand the system's components and interactions, and facilitate maintenance and evolution of the system.
+
+In conclusion, architecture design decisions are crucial to the success of any software system. The design decisions made at the beginning of the development process can have significant consequences throughout the system's lifecycle. Therefore, it is important to carefully consider the system's requirements, its stakeholders, and its environment when making these decisions. Additionally, architecture design decisions should be reviewed and evaluated regularly to ensure that they continue to meet the system's requirements and support its evolution over time.
+                                                                                              
 
 # Architectural View
 <ol type="A">
