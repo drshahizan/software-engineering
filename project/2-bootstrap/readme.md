@@ -55,7 +55,7 @@ Here are some options:
 
 All of these websites offer a variety of free Bootstrap templates that can be used for a Student Portfolio Showcase project. Simply browse through the templates, find one that suits your needs, and download the files to get started.
 
-## Requirements:
+## Requirements
 1. **Use Bootstrap**: Use the Bootstrap framework to create the Student Portfolio Showcase project.
 
 2. **Required files**: Use HTML, CSS, and JavaScript files to create the website.
