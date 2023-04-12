@@ -384,8 +384,6 @@ In summary, software quality should always be a priority, but the level of prior
 
 
 
-
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any e</li>
         <ul>
