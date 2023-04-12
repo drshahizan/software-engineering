@@ -37,7 +37,6 @@ Group Explorer
 - [Quality Focus: Example of Software Quality](#quality-focus-example-of-software-quality)
 - [Quality Priority](#quality-priority)
 - [Software Standard and Document](#software-standard-and-document)
-- [The expectation](#the-expectation)
 
 ## Objectives
 - To understand the importance of software engineering in software development
@@ -376,6 +375,19 @@ In summary, software quality should always be a priority, but the level of prior
 
 <br><img src="https://www.slideteam.net/media/catalog/product/cache/1280x720/p/r/priority_pyramid_for_total_quality_management_slide01.jpg" width="600px"><br>
 
+## Software Standard and Document
+
+Software standards are a set of guidelines or criteria that describe best practices for the development, design, and maintenance of software. These standards are typically developed by professional organizations or regulatory bodies to ensure consistency and quality across software products.
+
+There are various types of software standards, including coding standards, testing standards, and documentation standards. Coding standards define the rules and conventions for writing source code, while testing standards specify the procedures and techniques for testing software. Documentation standards dictate the format and content of documents produced during the software development process, such as design documents, user manuals, and technical specifications.
+
+Software documentation is an important part of the software development process. It involves creating and maintaining various types of documents that describe the software's design, functionality, and operation. Documentation can include user manuals, technical specifications, design documents, code comments, and help files.
+
+The purpose of software documentation is to provide a clear and comprehensive understanding of the software to users, developers, and other stakeholders. Good documentation can help to reduce errors, improve maintainability, and facilitate collaboration among team members. It can also help to ensure compliance with industry standards and regulations.
+
+Overall, software standards and documentation are essential components of the software development process. By following established standards and producing high-quality documentation, software developers can improve the quality, reliability, and usability of their products.
+
+<br><img src="https://document360.com/wp-content/uploads/2020/11/Software_documentation-Document360-scaled.jpg" width="600px"><br>
 
 
 
