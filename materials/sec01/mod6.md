@@ -201,7 +201,7 @@ Architectural models can be used in various ways, including:
 <br><br>
 
 # Architectural Design Decision
-![Example of Architecture Design Decision](https://i.imgur.com/njg5lrp.png)
+<img src="https://i.imgur.com/njg5lrp.png" height="200" width="200">
 
 <p><b>Architecture design decision</b> refers to <i>the process of making key choices during the design and development of a software or system architecture</i>. These decisions have a significant impact on the overall structure and behavior of the system and can affect its quality attributes such as performance, scalability, maintainability, security, and usability.</p>
 
