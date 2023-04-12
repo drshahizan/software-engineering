@@ -8,7 +8,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Book
-- [Softwaare Engineering](https://drive.google.com/file/d/1R20Wdz3TNrPth8OXo9X-rfZCOAANAk_h/view?usp=sharing)
+- [Software Engineering](https://drive.google.com/file/d/1R20Wdz3TNrPth8OXo9X-rfZCOAANAk_h/view?usp=sharing)
 - [UML](https://drive.google.com/file/d/1EkX2Xzj5O2nOHtUnBpJQ8HoFtgHSUfh4/view?usp=sharing)
 
 
