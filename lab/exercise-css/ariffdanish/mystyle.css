@@ -1,0 +1,13 @@
+body {
+    background-color: yellow;
+  }
+  
+  h1 {
+    color: black;
+    margin-left: 20px;
+  }
+  p {
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+  }
