@@ -201,7 +201,7 @@ Architectural models can be used in various ways, including:
 <br><br>
 
 # Architectural Design Decision
-
+<img src="https://www.researchgate.net/publication/224606007/figure/fig4/AS:669974284759042@1536745725112/Architectural-Design-Decision.png" width="200" height="200">
 
 <p><b>Architecture design decision</b> refers to <i>the process of making key choices during the design and development of a software or system architecture</i>. These decisions have a significant impact on the overall structure and behavior of the system and can affect its quality attributes such as performance, scalability, maintainability, security, and usability.</p>
 
@@ -229,7 +229,7 @@ Architectural models can be used in various ways, including:
 
   
 
-= Service-oriented architecture (SOA) pattern: This pattern breaks an application down into smaller, modular services that communicate with each other through a network. Each service performs a specific task and can be developed, deployed, and scaled independently.
+- Service-oriented architecture (SOA) pattern: This pattern breaks an application down into smaller, modular services that communicate with each other through a network. Each service performs a specific task and can be developed, deployed, and scaled independently.
 
   
 
