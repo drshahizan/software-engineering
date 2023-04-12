@@ -72,7 +72,7 @@ All of these websites offer a variety of free Bootstrap templates that can be us
 
 8. **Semantic HTML tags**: Use semantic HTML tags to improve the accessibility and search engine optimization (SEO) of the website.
 
-## Instructions
+## File and Folder Structure 
 1. Please include your contact information in the HTML `<head>`.
 
 ``` 
@@ -81,10 +81,10 @@ Name:a
 Matrix No:
 Github id:
 
-Project 1: Personal Portfolio Website
+Project 2: Student Portfolio Showcase (Bootstrap)
 -->
 ```
-4. You must place your file in the submission folder. Within the [sec01](./sec01) or [sec02](./sec02) folder, create a folder called your `id github`. Name the default file as `index.html`. Suggested folder structure for this project:
+2. You must place your file in the submission folder. Within the [sec01](./sec01) or [sec02](./sec02) folder, create a folder called your `id github`. Name the default file as `index.html`. Suggested folder structure for this project:
 
 ```html
 githud_id/
@@ -100,7 +100,7 @@ githud_id/
     └── project-1.jpg
 ```
 
-In this folder structure, the main index.html file is located in the root folder. The CSS files are located in the css folder, while the JavaScript files are located in the js folder. The images used in the project are stored in the images folder.
+In this folder structure, the main `index.html` file is located in the root folder. The `CSS` files are located in the css folder, while the `JavaScript` files are located in the js folder. The `images` used in the project are stored in the images folder.
 
 Note that this is just one possible folder structure and can be adjusted based on personal preferences or project requirements.
 
