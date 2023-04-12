@@ -10,7 +10,7 @@ Don't forget to hit the :star: if you like this repo.
 # Project 2: Student Portfolio Showcase (Bootstrap)
 
 ## Description:
-In addition to creating your own portfolio website from scratch, you can also use free web templates as a starting point. There are many free templates available online that are built with Bootstrap and other web technologies, and you can use them to save time and effort in designing and developing your website.
+This project is a continuation of Project 1, in which you created your portfolio using HTML tags. This task requires you to use Bootstrap to improve and upgrade your portfolio from Project 1. The additional instructions are as follows:
 
 When selecting a free web template, make sure it fits your needs as well as your personal style and branding. You can personalise the template by adding your own content, images, and colours, as well as changing the layout and design to suit your tastes.
 
