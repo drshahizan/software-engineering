@@ -268,9 +268,7 @@ Computer science and software engineering may share some overlapping commonaliti
 
 - Computer coding: Computer science and software engineering may both focus on computer coding and languages, however, software engineering may focus more heavily on learning coding to use it when developing and building software. A computer scientist may focus on coding as it relates to computer languages, and they may also use various computer coding to calculate compatibility between hardware and software applications.
 
-In summary, computer science is the study of computing and computational systems, while software engineering is the practical application of computer science principles to software development.
-
-Both are the best in their own aspects. However, you should opt for the Software engineering if you are interested in software testing, software development and overall software life cycle or you can opt for Computer Science if you have an interest in artificial intelligence, machine learning, security, database management, etc.
+In summary, computer science is the study of computing and computational systems, while software engineering is the practical application of computer science principles to software development.Both are the best in their own aspects. However, you should optional for the Software engineering if you are interested in software testing, software development and overall software life cycle or you can optional for Computer Science if you have an interest in artificial intelligence, machine learning, security, database management, etc.
 
 <br><img src="https://cdn.educba.com/academy/wp-content/uploads/2021/03/Computer-Engineering-vs-Software-Engineering.jpg" width="600px"><br>
 
