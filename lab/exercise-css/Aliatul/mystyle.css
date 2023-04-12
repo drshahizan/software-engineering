@@ -1,0 +1,14 @@
+body {
+    background-color: white;
+  }
+  
+  h1 {
+    color: rgb(224, 163, 58);
+    margin-left: 20px;
+  }
+
+  #para2{
+    text-align: left;
+    color: blue;
+    text-align: center;
+    }
