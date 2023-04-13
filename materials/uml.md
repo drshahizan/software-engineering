@@ -12,7 +12,7 @@ This tutorial from Sparx Systems covers the basics of UML, including class diagr
 ### 3. [OMG UML Specification](https://www.omg.org/spec/UML/)
 The Object Management Group (OMG) is the organization responsible for defining the UML standard. Their website provides access to the UML specification, as well as other resources related to UML.
 
-### 4. [UMLetino] (https://www.umletino.com/) 
+### 4. [UMLetino](https://www.umletino.com/) 
 UMLetino is a free online tool for creating UML diagrams. Their website also offers a UML tutorial that covers the basics of UML modeling.
 
 ### 5. [PlantUML](https://plantuml.com/en/)
