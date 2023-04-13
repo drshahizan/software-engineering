@@ -1,0 +1,13 @@
+body {
+    background-color: slateblue;
+}
+
+h1 {
+    color: orchid;
+    margin-left: 20px;
+}
+
+#paraname{ 
+    text-align: center;
+    font-size: 30px;
+}
