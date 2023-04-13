@@ -8,7 +8,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Book
-## [Software Engineering](https://mycourses.aalto.fi/pluginfile.php/1177979/mod_resource/content/1/Sommerville-Software-Engineering-10ed.pdf)
+## [Software Engineering 10th Edition by Ian Sommerville](https://mycourses.aalto.fi/pluginfile.php/1177979/mod_resource/content/1/Sommerville-Software-Engineering-10ed.pdf)
 **Software Engineering** is a comprehensive book by Ian Sommerville that provides a thorough introduction to the principles and practices of software engineering. The book covers the entire software development lifecycle, from requirements gathering and specification, to design, implementation, testing, and maintenance.
 
 The book is organized into four main sections. The first section introduces the fundamental concepts of software engineering, including the software process, software development models, and software requirements. The second section covers software design, implementation, and testing, with an emphasis on object-oriented programming and design patterns. The third section focuses on software evolution and maintenance, including techniques for managing and evolving legacy systems.
@@ -17,7 +17,7 @@ The final section of the book covers advanced topics in software engineering, in
 
 Overall, "Software Engineering" is a valuable resource for students and professionals alike who are interested in learning the principles and practices of software engineering. It provides a comprehensive and practical guide to software development that is based on solid engineering principles and best practices.
 
-## [UML 2 And The Unified Process: Practical Object-Oriented Analysis And Design 2nd Edition](https://drive.google.com/file/d/1EkX2Xzj5O2nOHtUnBpJQ8HoFtgHSUfh4/view?usp=sharing)
+## [UML 2 and the Unified Process: Practical Object-Oriented Analysis and Design 2nd Edition](https://drive.google.com/file/d/1EkX2Xzj5O2nOHtUnBpJQ8HoFtgHSUfh4/view?usp=sharing)
 
 
 ## Contribution 🛠️
