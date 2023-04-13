@@ -37,7 +37,6 @@ Group Explorer
 - [Quality Focus: Example of Software Quality](#quality-focus-example-of-software-quality)
 - [Quality Priority](#quality-priority)
 - [Software Standard and Document](#software-standard-and-document)
-- [The expectation](#the-expectation)
 
 ## Objectives
 - To understand the importance of software engineering in software development
@@ -47,7 +46,12 @@ Group Explorer
 
 ### Others
 - [Software Engineering | Introduction to Software Engineering](https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/)
-
+- Document standards by IEEE  
+- [830-1998 - IEEE Recommended Practice for Software Requirements Specifications](https://ieeexplore.ieee.org/document/720574)
+- [1016-2009 - IEEE Standard for Information Technology--Systems Design--Software Design Descriptions](https://standards.ieee.org/ieee/1016/4502/)
+- [829 - IEEE Standard for Test Documentation Overview-Test Plan Outline](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=573169)
+- [829-2008 - IEEE Standard for Software and System Test Documentation](https://ieeexplore.ieee.org/document/4578383)
+- [IEEE Standards](https://standards.ieee.org/search/?q=software%20standard)
 
 <h2><u> The Importance of Software Engineering </u></h2>
 
@@ -238,16 +242,161 @@ Overall, software complexity can have a significant impact on software quality. 
 
 <br><img src="https://thumbs.dreamstime.com/b/cartoon-y-k-millennium-bug-vector-hand-drawn-illustration-huge-crawling-towards-frightened-looking-computer-isolated-78280302.jpg" width="600px"><br>
 
+## Software Changeability
+
+Software changeability refers to the ease with which modifications can be made to a software system. In other words, it refers to the ability of software to adapt to changes and evolve over time. Changeability is an important factor in software development as it can affect the maintenance, scalability, and overall quality of the software.
+
+The changeability of a software system is influenced by various factors, such as the design of the system, the programming language used, the tools and techniques employed, and the level of documentation and testing. A well-designed software system that is modular and loosely coupled can be more changeable as changes to one component will have minimal impact on the others. Similarly, using a programming language that supports features such as inheritance, polymorphism, and abstraction can make the software more adaptable to changes.
+
+To improve the changeability of a software system, it is important to follow best practices such as writing clean code, using version control systems, writing automated tests, and documenting the code. By doing so, developers can make it easier to understand, modify, and maintain the software over time, which can ultimately lead to a more robust and reliable system.
+
+<br><img src="https://www.cgsinc.com/sites/default/files/styles/blog_details/public/software%20with%20clocks-SMALL.jpg?itok=nXRfzVN7" width="600px"><br>
 
 
 
+## Computer Science vs.Software Engineering
 
+Computer science and software engineering may share some overlapping commonalities, however, the principles behind each field can offer several differences. One is that computer science deals with the science behind the interaction between hardware and software systems and computational applications, whereas software engineering typically deals with the engineering principles of building, designing and testing software products.The differences of computer science and software engineering are:
+
+- Core educational studies: Computer science and software engineering may share some overlapping core studies, however, when studying computer science students may typically complete courses that focus on the computing, analysis, storage and application of data and data systems of computer programs and software. Computer science education program focuses on the science behind making computers work, while software engineering applies those scientific and mathematical principles to the building, designing and implementation of hardware and software programs.
+
+- Career paths: Generally, computer science degrees may offer candidates a broad range of job options in the informational technology industry, from computer programming for website design and working in IT support roles to working as a game developer. Conversely, a degree in software engineering can narrow a candidate's career path to specialized roles in corporations, companies and even mid-sized businesses developing and building applications and software programs.
+
+- Hardware and software interaction: Computer science may deal with the interaction between software programs with computer hardware. For instance, a computer scientist might determine ways to create software programs that are compatible with computer hardware. A software engineer, however, deals only with software programs, specifically creating, maintaining, testing and producing software products.
+
+- Programming and development: Computer science will focus on computing and calculating the best ways to program software as well as finding calculations that allow engineers and developers to build software programs that meet product requirements. Software engineers essentially use the analysis and outlines from computer scientists to aid in the full development and construction of new frameworks and software programs.
+
+- Software design: When approaching software design, a computer scientist may typically work with theories and algorithms for how a program works, how it may be best designed and how to apply programming languages to the application. When software engineers work with software design, they may use a computer scientist's information and analyses to design the framework to build a specific program.
+
+-  Scientific theories: Computer science is also different from software engineering because it focuses heavily on scientific theories behind computer operations, computing and data systems as well as how software is designed. Software engineering, however, can use these theories to aid in the design and processes of building frameworks, software programs and applications. So while computer science studies and develops theories behind computer operations, software engineering applies these theories to build real-world computer applications.
+
+- Computer coding: Computer science and software engineering may both focus on computer coding and languages, however, software engineering may focus more heavily on learning coding to use it when developing and building software. A computer scientist may focus on coding as it relates to computer languages, and they may also use various computer coding to calculate compatibility between hardware and software applications.
+
+In summary, computer science is the study of computing and computational systems, while software engineering is the practical application of computer science principles to software development.Both are the best in their own aspects. However, you should optional for the Software engineering if you are interested in software testing, software development and overall software life cycle or you can optional for Computer Science if you have an interest in artificial intelligence, machine learning, security, database management, etc.
+
+<br><img src="https://cdn.educba.com/academy/wp-content/uploads/2021/03/Computer-Engineering-vs-Software-Engineering.jpg" width="600px"><br>
+
+## Software Engineering vs.Software Programming
+
+Software Programming , also known as software development or coding, refers to the process of writing and maintaining the source code of software programs. This includes designing, coding, testing, and debugging software applications. A software programmer's main focus is on writing efficient and functional code that meets the requirements of the project.For software programming:
+
+- Programming is primarily a single person activity.
+
+- A computer programmer writes an entire program.
+
+- Programming is simply one side of software system development.
+
+- On an average computer, the programmer makes a salary of $78,260 a year.
+
+- A computer programmer is aware of the way to code and will have the technical skills required to create significant merchandise.
+
+- A programmer tends to work alone.
+
+- Computer Programmer takes a broad approach to the study of the principles and use of computers that covers each theory and application.
+
+- A computer programmer hired to produce the code of a computer program. It will imply that you know how to write code, can understand an algorithm and             follow  specification.
+
+In essence, software programming is a subset of software engineering. While software programming is primarily concerned with the implementation of code, software engineering is focused on the entire software development process, including requirements analysis, design, implementation, testing, and maintenance. For software programming:
+
+- Software Engineer develops a software system part which will be combined with parts written by different software system engineers to create a system.
+
+- Software Engineering is basically a team activity.
+
+- Large software system systems should be developed like different engineering practices.
+
+- The software system engineers can take a salary of $93,280 a year.
+
+- A software engineer follows a scientific method of understanding necessities, operating with stakeholders and developing an answer that fulfills their needs.
+
+- A software engineer is an element of a bigger team.
+
+- On the opposite hand, Software Engineering could be a field mostly involved with the appliance of engineering processes to the creation, maintenance, and style of a software system for a range of various functions.
+
+- A software engineer is a developer who has a specific type of degree, some knowledge of engineering, and is capable of designing a system. Basically, software engineer sees a wider picture, and are capable of designing and explaining it and separating it into smaller modules.
+
+In summary, software programming is a subset of software engineering. While software programming is concerned with the creation of software applications by writing code, software engineering focuses on the entire software development lifecycle, including the management of the process, development of best practices, and design of software systems that are efficient, scalable, and maintainable.
+
+<br><img src="https://media.licdn.com/dms/image/C5612AQGhERKv2iF-RQ/article-cover_image-shrink_423_752/0/1582104123023?e=1686787200&v=beta&t=lvon40ORPwihigAZYWiGap_t3U3e6FkWvj8B4hayEuk" width="600px"><br>
+
+## Quality Focus
+
+Quality focus in software development refers to the emphasis placed on delivering high-quality software products that meet or exceed customer expectations. It involves the integration of quality standards and practices throughout the entire software development process.
+
+External quality focus refers to the quality of the software product that is delivered to the end-users or customers. It ensures that the software meets or exceeds the customer's expectations and provides a positive user experience. External quality focus involves the following:
+
+- Functional requirements: The software meets the functional requirements that the customer has specified.
+
+- Performance: The software performs efficiently, has good response times, and can handle large amounts of data.
+
+- Reliability: The software operates reliably, with minimal downtime or errors.
+
+- Usability: The software is easy to use and understand, with a good user interface.
+
+- Security: The software is secure and protects sensitive data from unauthorized access or theft.
+
+Internal quality focus refers to the quality of the software development process itself. It ensures that the software development process is efficient, effective, and produces high-quality software products. Internal quality focus involves the following:
+
+- Code quality: The code is well-structured, follows coding standards, and is easy to read and maintain.
+
+- Testing: The software is thoroughly tested, with automated testing and manual testing, to ensure that it meets the functional and non-functional requirements.
+
+- Documentation: The software is well-documented, with clear and concise documentation for developers, testers, and end-users.
+
+- Continuous integration and delivery: The software development process includes continuous integration and delivery, which ensures that code changes are frequently and automatically integrated and tested.
+
+There are various factors that contribute to software quality, including functionality, reliability, usability, efficiency, maintainability, and portability. Here are a few examples of software quality:
+
+- Functionality: Software that performs its intended functions correctly and completely. For example, a word processing software that allows users to create, edit, and format documents without errors.
+
+- Reliability: Software is more reliable if it has fewer failures. Since software engineers do not deliberately plan for their software to fail, reliability depends on the number and types of mistakes they make.
+
+- Usability: The higher the usability of software, the easier it is for users to work with it. There are several aspects of usability, including learnability for novices, efficiency of use for experts and handling of errors.
+
+- Efficiency: Software should not make wasteful use of system resources such as memory and processor cycles. Efficiency therefore includes responsiveness, processing time, memory utilisation, etc.
+
+- Maintainability: Software should be written in such a way so that it can evolve to meet the changing needs of customers. This is a critical attribute because software change is an inevitable requirement of a changing business environment.
+
+- Portability: Software that can run on different hardware platforms and operating systems. For example, a web application that can run on different web browsers and operating systems.
+
+<br><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6byfPv_j3kinc4yMtuZritov8BHxIEK6YEQ&usqp=CAU" width="600px"><br>
+
+## Quality Priority
+
+The priority of software quality varies depending on the software development project, the intended users, and the organization's goals. However, in general, software quality should always be a top priority, as it has a significant impact on the success of a software product and the overall reputation of the organization.
+
+Here are some factors that can influence the priority of software quality:
+
+- Customer requirements: The quality of the software should meet or exceed the customer's requirements and expectations. If the customer requires a high-quality software product, then the priority of software quality should be high.
+
+- Time-to-market: If a software product needs to be released quickly to meet market demand or competition, then the priority of software quality may be lower. However, this should not compromise the software's functional or performance requirements.
+
+- Cost: The priority of software quality may be affected by the project's budget. If there are limited resources, the focus may be on meeting the minimum requirements while ensuring the software is reliable and maintainable.
+
+- Criticality of the software: If the software product is critical to the organization's operations or safety, then the priority of software quality should be high. For example, software used in healthcare, aviation, or finance must meet strict quality standards to ensure safety and reliability.
+
+- Technical complexity: If the software product is complex, with many components or integration points, then the priority of software quality should be high. Complex software requires more testing and verification to ensure that it operates correctly.
+
+In summary, software quality should always be a priority, but the level of priority may vary depending on the specific project's requirements, time-to-market, budget, criticality, and technical complexity. The ultimate goal should always be to deliver a high-quality software product that meets or exceeds customer expectations, is reliable, scalable, and maintainable over the long term.
+
+<br><img src="https://www.slideteam.net/media/catalog/product/cache/1280x720/p/r/priority_pyramid_for_total_quality_management_slide01.jpg" width="600px"><br>
+
+## Software Standard and Document
+
+Software standards are a set of guidelines or criteria that describe best practices for the development, design, and maintenance of software. These standards are typically developed by professional organizations or regulatory bodies to ensure consistency and quality across software products.
+
+There are various types of software standards, including coding standards, testing standards, and documentation standards. Coding standards define the rules and conventions for writing source code, while testing standards specify the procedures and techniques for testing software. Documentation standards dictate the format and content of documents produced during the software development process, such as design documents, user manuals, and technical specifications.
+
+Software documentation is an important part of the software development process. It involves creating and maintaining various types of documents that describe the software's design, functionality, and operation. Documentation can include user manuals, technical specifications, design documents, code comments, and help files.
+
+The purpose of software documentation is to provide a clear and comprehensive understanding of the software to users, developers, and other stakeholders. Good documentation can help to reduce errors, improve maintainability, and facilitate collaboration among team members. It can also help to ensure compliance with industry standards and regulations.
+
+Overall, software standards and documentation are essential components of the software development process. By following established standards and producing high-quality documentation, software developers can improve the quality, reliability, and usability of their products.
+
+<br><img src="https://document360.com/wp-content/uploads/2020/11/Software_documentation-Document360-scaled.jpg" width="600px"><br>
 
 
 
 </body>
-
-
 
 
 

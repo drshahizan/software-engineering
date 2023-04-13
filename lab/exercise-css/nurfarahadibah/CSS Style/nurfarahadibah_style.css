@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+
+}
+
+h1{
+    color: grey;
+    margin-left: 20px;
+}
+
+#title{
+    text-align: center;
+    font-size: x-large;
+    color: blue;
+}
