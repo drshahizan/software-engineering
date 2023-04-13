@@ -1,8 +1,7 @@
 # UML Tutorial 
 Six websites that offer tutorials on UML
 
-### 1. [Visual Paradigm's UML Tutorial](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/).
-    
+### 1. [Visual Paradigm's UML Tutorial](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/)
 This tutorial provides a comprehensive and practical introduction to UML, covering all of the major UML diagrams and modeling concepts. The tutorial is divided into multiple sections, each focusing on a different aspect of UML, such as use case diagrams, class diagrams, sequence diagrams, and state machine diagrams.The tutorial also includes interactive examples and exercises to help reinforce the concepts presented, as well as a glossary of key terms and concepts. Visual Paradigm is a well-respected vendor of UML modeling tools, and their tutorial is a great resource for anyone looking to learn UML.
 
 
