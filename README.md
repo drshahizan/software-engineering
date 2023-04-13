@@ -25,6 +25,7 @@ This course is designed to give students an introduction to an engineering appro
 4. [Project 1: Student Portfolio Showcase (HTML)](./project/1-portfolio/readme.md)
 5. [Project 2: Student Portfolio Showcase (Bootstrap)](./project/2-bootstrap/readme.md)
 6. [Student Portfolio Showcase](https://drshahizan.github.io/) 🆕
+7. [Book](./materials/book.md)
 
 
 ## Weekly Schedule

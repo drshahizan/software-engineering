@@ -202,12 +202,194 @@ Architectural models can be used in various ways, including:
 
 # Architectural Design Decision
 
+
+<p><b>Architecture design decision</b> refers to <i>the process of making key choices during the design and development of a software or system architecture</i>. These decisions have a significant impact on the overall structure and behavior of the system and can affect its quality attributes such as performance, scalability, maintainability, security, and usability.</p>
+
+  
+
+<p>Architectural design decisions involve evaluating trade-offs among various options based on factors such as requirements, constraints, technical feasibility, cost, and risks. These decisions are often documented in an architectural design document and communicated to stakeholders to ensure alignment and understanding.</p>
+
+  
+
+<p>Examples of architecture design decisions include choosing a programming language, selecting a database management system, deciding on the use of microservices or monolithic architecture, and determining the deployment model (on-premises or cloud-based).</p>
+
+
+<h1>QNA</h1>
+
+<hr>
+
+<h3  align="center"><b>Question</b> : Is there a generic application architecture that can act as a template for the system that is being designed?</h3>
+
+<p>Yes, there are several generic application architecture templates that can be used as a starting point when designing a system. These templates are often referred to as architectural patterns, and they provide a set of proven solutions to common design problems. Some examples of widely used architectural patterns include:</p>
+
+- Model-View-Controller (MVC) pattern: This pattern separates an application into three interconnected components: the model (data and business logic), the view (user interface), and the controller (handles user input and manages interactions between the model and the view).
+
+  
+
+- Layered architecture pattern: This pattern separates an application into layers, where each layer is responsible for a specific set of tasks. Typically, there is a presentation layer (user interface), business logic layer, and data access layer.
+
+  
+
+= Service-oriented architecture (SOA) pattern: This pattern breaks an application down into smaller, modular services that communicate with each other through a network. Each service performs a specific task and can be developed, deployed, and scaled independently.
+
+  
+
+- Microservices architecture pattern: This pattern is similar to SOA but places a stronger emphasis on independently deployable and scalable services. Microservices are typically smaller in scope than SOA services and often communicate with each other through lightweight protocols like REST.
+
+  
+
+<p>It's important to note that while these architectural patterns can be helpful in providing a starting point for system design, they are not one-size-fits-all solutions. The specific needs and requirements of the system being designed should always be taken into consideration, and the architecture should be tailored accordingly.</p>
+
+<br>
+  
+
+<h3  align="center"><b>Question</b> : How will the system be distributed across hardware cores or processors?</h3>
+
+  
+
+<p>The distribution of a system across hardware cores or processors will depend on several factors, including the system requirements, the available hardware resources, and the design decisions made during the development process. In general, the distribution of a system across hardware cores or processors can be achieved through parallelization or through the use of distributed computing techniques.</p>
+
+  
+
+<p>Parallelization involves dividing a system's workload into smaller, independent tasks that can be executed concurrently across multiple cores or processors. This approach can improve system performance and scalability by reducing processing time and enabling the system to handle larger workloads. Parallelization can be achieved through techniques such as multithreading, multiprocessing, and vectorization.</p>
+
+  
+
+<p>
+
+Distributed computing techniques involve dividing a system's workload across multiple machines connected through a network. This approach can improve system reliability, fault tolerance, and scalability by enabling the system to handle larger workloads and providing redundancy in case of hardware failures. Distributed computing techniques can be achieved through approaches such as client-server architecture, peer-to-peer architecture, and message passing.</p>
+
+  
+
+<p>
+
+The choice between parallelization and distributed computing techniques will depend on the specific requirements of the system being developed. If the system requires high performance and is running on a single machine with multiple cores, parallelization may be the best approach. If the system requires high availability and redundancy, distributed computing techniques may be the better option. In many cases, a combination of both approaches may be used to achieve the desired system performance and reliability.</p>
+
+  
+
+<h3  align="center"><b>Question</b> : What architectural patterns or styles might be used?</h3>
+
+There are several architectural patterns or styles that can be used to design a software system, depending on the specific requirements and constraints of the system being developed. Here are some examples of commonly used patterns or styles:
+
+1.  Layered Architecture: This pattern separates the system into layers, where each layer is responsible for a specific set of tasks. Typically, there is a presentation layer (user interface), business logic layer, and data access layer.
+    
+2.  Model-View-Controller (MVC): This pattern separates an application into three interconnected components: the model (data and business logic), the view (user interface), and the controller (handles user input and manages interactions between the model and the view).
+    
+3.  Microservices Architecture: This pattern divides the system into smaller, independent services that can be developed, deployed, and scaled independently. Each service performs a specific task and communicates with other services through lightweight protocols like REST.
+    
+4.  Event-Driven Architecture: This pattern is based on the idea that events trigger actions within the system. The system is designed to react to events and initiate actions in response to them.
+    
+5.  Service-Oriented Architecture (SOA): This pattern breaks the system down into smaller, modular services that communicate with each other through a network. Each service performs a specific task and can be developed, deployed, and scaled independently.
+    
+6.  Domain-Driven Design (DDD): This pattern focuses on the domain model of the system and aims to create a clear and well-defined understanding of the problem domain. The system is designed around the domain model, with each component representing a specific aspect of the domain.
+    
+
+These are just a few examples of architectural patterns or styles that can be used in software system design. The choice of pattern or style will depend on the specific requirements, constraints, and goals of the system being developed.
+
+<h3  align="center"><b>Question</b> : What strategy will be used to control the operation of the components in the system?</h3>
+
+The strategy used to control the operation of components in a system will depend on the specific requirements and design decisions of the system. Here are some common strategies that can be used:
+
+1.  Centralized Control: This strategy involves a central component that controls the operation of all other components in the system. The central component can be responsible for coordinating communication between components, managing resources, and enforcing system-wide policies.
+    
+2.  Distributed Control: This strategy involves distributing control across multiple components in the system. Each component may be responsible for managing its own resources, and communication between components may be peer-to-peer or through a messaging system.
+    
+3.  Hierarchical Control: This strategy involves organizing components into a hierarchical structure, with higher-level components responsible for coordinating the operation of lower-level components. This approach can help to simplify system management and improve scalability.
+    
+4.  Reactive Control: This strategy involves components reacting to events or changes in the system environment. The components may be designed to adapt to changing conditions and adjust their behavior accordingly.
+    
+5.  Proactive Control: This strategy involves components proactively monitoring the system environment and taking action to prevent potential problems or errors. This approach can help to improve system reliability and reduce downtime.
+    
+
+The choice of strategy will depend on several factors, including the system requirements, the complexity of the system, and the desired level of control and flexibility. In many cases, a combination of strategies may be used to achieve the desired system behavior and performance.
+
+<h3  align="center"><b>Question</b> : How should the architecture of the system be documented?</h3>
+                                                                                              
+
 # Architectural View
+<h2>The 4 + 1 View Model</h2>
+The 4 + 1 View Model of Software Architecture comprises different perspectives that showcase the system's key features and functions.
 <ol type="A">
-    <li>4+1 View Model</li>
-    <li></li>
-    <li></li>
+    <li>The Logical view highlights the fundamental abstractions of the system as objects or object classes. </li>
+    <li>The Process view illustrates how the system is composed of interconnected processes during runtime.</li>
+    <li>The Development view presents how the software is divided and organized for development purposes.</li>
+    <li>The Physical view depicts the hardware components of the system and how software components are distributed across processors. </li>
 </ol>
+
+Finally, the +1 element relates these different views using use cases or scenarios to provide a more comprehensive understanding of the system.
+
+<img src="https://i.stack.imgur.com/5zzFg.gif" width="600" height="400">
+
+<h2>Two type of diagram</h2>
+
+<ul>
+  <li>Component diagram</li> 
+Models the dependencies
+between the software components that constitute the
+system
+  <li>Deployment diagram</li>
+Models the physical
+computational nodes on which the software will be
+deployed, and the relationships between those nodes
+</ul>
+
+<h2>Relationship between Implementation Model and Design Model</h2>
+
+<img src="![Screenshot 2023-04-12 204236](https://user-images.githubusercontent.com/129196395/231461033-6681d1b7-6cdc-45fa-9400-82063a1f2811.png)
+"
+     
+<h3>Relationship between Design Subsystems and Implementation Subsystems</h3>
+
+There is a one-to-one «trace» relationship between design subsystems and implementation subsystems.Design subsystems contain design classes but
+implementation subsystems contain components that package those classes.
+
+<h2>COMPONENT DIAGRAM AS AN IMPLEMENTATION VIEW</h2>
+
+<h3>UML Component Diagram</h3>
+
+<ul>
+  <li>Used to model the top-level view of the system design in terms of components and dependencies among the components.</li>
+  <li>Components can be linkable libraries, executables.</li>
+  <li>Components can be identified based on influence from the system environment e.g. existing framework used for the software, connection to
+legacy system or external system, hardware driver used and also if the software used any web serviceavailable</li>
+</ul>
+
+<h3><b>Types of Interface in Components</b></h3>
+
+<ul>
+  <li>A provided interface is modeled using the lollipop notation</li>
+  <li>A required interface is modeled using the socket notation</li>
+</ul>
+
+<h3>Influence from the System Environment</h3>
+<ul>
+  <li>Existing Framework</li>
+  The impact of the system's environment on its development and operation is significant, particularly when considering existing frameworks. These frameworks, which are pre-established systems or structures, can greatly influence the design and implementation of a new system. Therefore, understanding the existing frameworks in the system environment is crucial in developing a successful and effective system.
+  <li>Legacy System</li>
+  The system environment, specifically legacy systems, can have a significant impact on the development and operation of a new system. Legacy systems are older, established systems that may still be in use, and as such, they can impose constraints or requirements on the development of a new system. Therefore, it is important to consider legacy systems when designing and implementing a new system to ensure compatibility and integration with the existing system environment.
+  <li>External System</li>
+  The system environment can be influenced by external systems, which are systems that are outside of the scope of the system being developed. External systems can impact the design and functionality of the new system, as it may need to interact with these external systems to achieve its goals. Therefore, it is important to consider the presence and requirements of external systems when developing a new system to ensure effective communication and integration with these systems.
+  <li>Hardware Driver</li>
+  The system environment can be influenced by hardware drivers, which are software components that allow the operating system to communicate with hardware devices. Hardware drivers can impact the development and operation of a new system, as they may require specific software or hardware configurations. Therefore, it is important to consider hardware drivers when designing and implementing a new system to ensure compatibility and proper communication with the hardware devices in the system environment.
+  <li>Web Service</li>
+  The system environment can be influenced by web services, which are software systems that enable communication and exchange of data between different devices or applications over the internet. Web services can impact the development and operation of a new system, as it may need to interact with these services to perform certain tasks. Therefore, it is important to consider the presence and requirements of web services when developing a new system to ensure effective communication and integration with these services.
+</ul>
+
+<h2>Combination of Architectural Style: Layered, Subystems and Components</h2>
+
+![image](https://user-images.githubusercontent.com/129196395/231467787-14151dcd-1831-4ee3-91ed-fd2a2ce2b71c.png)
+
+<h2>Two-Layer Architectural Design of Internet Systems</h2>
+
+![image](https://user-images.githubusercontent.com/129196395/231468230-087ada3e-3d23-4de1-ad0e-09f877efbac6.png)
+
+<h2>Three-Layer Architectural Design of Internet Systems</h2>
+
+![image](https://user-images.githubusercontent.com/129196395/231468930-35865af7-f7ce-4e9e-ae8b-e5b7f0c0c366.png)
+
+<h2>Component Diagram for Online Shopping</h2>
+
+![image](https://user-images.githubusercontent.com/129196395/231469137-01837f6c-cd8d-4353-b4f9-39e7df8d1d1a.png)
 
 # Architectural Pattern
 <ul>
