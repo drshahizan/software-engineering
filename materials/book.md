@@ -8,7 +8,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Book
-## [Software Engineering 10th Edition by Ian Sommerville](https://mycourses.aalto.fi/pluginfile.php/1177979/mod_resource/content/1/Sommerville-Software-Engineering-10ed.pdf)
+## 1. [Software Engineering 10th Edition by Ian Sommerville](https://mycourses.aalto.fi/pluginfile.php/1177979/mod_resource/content/1/Sommerville-Software-Engineering-10ed.pdf)
 **Software Engineering** is a comprehensive book by Ian Sommerville that provides a thorough introduction to the principles and practices of software engineering. The book covers the entire software development lifecycle, from requirements gathering and specification, to design, implementation, testing, and maintenance.
 
 The book is organized into four main sections. The first section introduces the fundamental concepts of software engineering, including the software process, software development models, and software requirements. The second section covers software design, implementation, and testing, with an emphasis on object-oriented programming and design patterns. The third section focuses on software evolution and maintenance, including techniques for managing and evolving legacy systems.
@@ -16,7 +16,7 @@ The book is organized into four main sections. The first section introduces the 
 The final section of the book covers advanced topics in software engineering, including software reuse, software metrics, and software project management. Throughout the book, the author provides numerous examples, case studies, and exercises to help reinforce the concepts presented.
 
 
-## [UML 2 and the Unified Process: Practical Object-Oriented Analysis and Design](https://www.amazon.com/UML-Unified-Process-Practical-Object-Oriented/dp/0321321278)
+## 2. [UML 2 and the Unified Process: Practical Object-Oriented Analysis and Design](https://www.amazon.com/UML-Unified-Process-Practical-Object-Oriented/dp/0321321278)
 "UML 2 and the Unified Process: Practical Object-Oriented Analysis and Design" is a book written by Jim Arlow and Ila Neustadt that provides a comprehensive guide to the Unified Modeling Language (UML) 2 and the Unified Process (UP) for object-oriented analysis and design.
 
 The book is organized into three main parts. The first part introduces the basic concepts of UML 2 and the UP, including use case modeling, class modeling, and sequence modeling. The second part covers advanced topics such as activity modeling, state machine modeling, and component modeling. The third part provides practical guidance on how to apply UML 2 and the UP to real-world software development projects.
