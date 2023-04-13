@@ -15,9 +15,13 @@ The book is organized into four main sections. The first section introduces the 
 
 The final section of the book covers advanced topics in software engineering, including software reuse, software metrics, and software project management. Throughout the book, the author provides numerous examples, case studies, and exercises to help reinforce the concepts presented.
 
-Overall, "Software Engineering" is a valuable resource for students and professionals alike who are interested in learning the principles and practices of software engineering. It provides a comprehensive and practical guide to software development that is based on solid engineering principles and best practices.
 
-## [UML 2 and the Unified Process: Practical Object-Oriented Analysis and Design 2nd Edition](https://drive.google.com/file/d/1EkX2Xzj5O2nOHtUnBpJQ8HoFtgHSUfh4/view?usp=sharing)
+## [UML 2 and the Unified Process: Practical Object-Oriented Analysis and Design](https://www.amazon.com/UML-Unified-Process-Practical-Object-Oriented/dp/0321321278)
+"UML 2 and the Unified Process: Practical Object-Oriented Analysis and Design" is a book written by Jim Arlow and Ila Neustadt that provides a comprehensive guide to the Unified Modeling Language (UML) 2 and the Unified Process (UP) for object-oriented analysis and design.
+
+The book is organized into three main parts. The first part introduces the basic concepts of UML 2 and the UP, including use case modeling, class modeling, and sequence modeling. The second part covers advanced topics such as activity modeling, state machine modeling, and component modeling. The third part provides practical guidance on how to apply UML 2 and the UP to real-world software development projects.
+
+The authors emphasize a practical, hands-on approach to software development, with a focus on using UML 2 and the UP to improve the quality and maintainability of software systems. The book includes numerous examples, case studies, and exercises that demonstrate how to apply UML 2 and the UP in practice.
 
 
 ## Contribution 🛠️
