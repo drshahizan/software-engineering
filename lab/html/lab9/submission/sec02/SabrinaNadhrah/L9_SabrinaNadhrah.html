@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Forms </title>
+
+    <!--
+    Name: Nadhrah NurSabrina Binti Zulaini
+    Matrics No: A22EC0224
+    Github id: SabrinaNadhrah
+    Lab 9: HTML Forms
+    -->
+</head>
+
+<body>
+    <style>
+        h1{
+            text-align: center;
+        }
+        table, td {
+            border: 1px solid black;
+        }
+
+        .Border {
+            height: 100%;
+            width: 100%;
+            background-color: whiteS;
+            border: 2px outset blue;
+            padding: 10px;
+        }
+    </style>
+
+    <div class = "Border">
+        <h1 style = "font-family: Verdana, Geneva, Tahoma, sans-serif; color: blue;"><b> Medical Form</b></h1>
+
+        <form action ="/action_page.php">
+            <fieldset style="width: 75%;">
+                <legend> Personal Information </legend>
+                <table>
+                    <tr>
+                        <td><label for="fname"> First name : </label></td>
+                        <td><input type = "text" id="fname" name="fname" value=""><br></td>
+                        <td> Gender </td>
+                        <td><input type="radio" id="female" name="gender" value="Female">
+                        <label for="female"> Female </label>
+                        <input type="radio" id="male" name="gender" value="Male"> 
+                        <label for="male"> Male </label> </td>
+                    </tr>
+
+                    <tr>
+                        <td>
+                            <label for="lname"> Last name : </label>
+                        </td>
+                        <td> <input type="text" id="lname" name="lname" value=""><br></td>
+                        <td> Nationality </td>
+                        <td><select id="Nationality" name="Nationality">
+                                <option value="canadian"> Canadian </option>
+                                <option value="malaysian"> Malaysian </option>
+                                <option value="american"> American </option>
+                                <option value="south korean"> South Korean </option>
+                            </select> </td>
+                        </td>
+                    </tr>
+                </table>
+            </fieldset>
+
+            <br>
+
+            <fieldset style="width: 75%;">
+                <legend> Medical History </legend>
+
+                <input type="checkbox" id="symptom1" name="symptom1" value="smallpox">
+                <label for="vehicle1"> Smallpox </label>
+                <input type="checkbox" id="symptom2" name="symptom2" value="mumps">
+                <label for="vehicle2"> Mumps </label>
+                <input type="checkbox" id="symptom3" name="symptom3" value="dizzy">
+                <label for="vehicle3"> Dizziness </label>
+                <input type="checkbox" id="symptom4" name="symptom4" value="sneeze">
+                <label for="vehicle3"> Sneezing </label>
+            </fieldset>
+
+        </form>
+    </div>
+    
+</body>
+</html>
