@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <!--
+         Name: Bernice Lim Jing Xuan
+         Matric No: A22EC0038
+         GitHub id:BerniceLimJX
+         
+         Lab 7: HTML Timetable
+        -->
+    </head>
+
+    <body>
+        <style>
+            table
+        {
+            margin:0 auto;
+            font-family: 'Times New Roman';
+            border: 1px solid black;
+            width: 700px;
+            text-align: center;
+        }
+        td,th
+        {
+            border: 1px solid black;
+            text-align:left;
+            height:30px;
+        }
+        #para1{
+            text-align:center;
+        }
+        </style>
+        <h1><p style= text-align:center;>Web programming : Time Table</h1>
+        
+        <table>
+            <tr>
+                <td >Day/Period</td>
+                <td>I<br>
+                    9:30-10:20</td>
+                <td>II<br>
+                    10:20-11:10</td>
+                <td>III<br>
+                    12:00-12:40</td>
+                <td>12:00-12:40</td>
+                <td>IV<br>
+                    12:40-1:30</td>
+                <td>V<br>
+                    1:30-2:20</td>
+                <td>VI<br>
+                    2:20-3:10</td>
+                <td>VII<br>
+                    3:10-4:00</td>
+
+            </tr>
+
+            <tr>
+                <td><i><b>Monday</b></i></td>
+                <td id="para1">Eng</td>
+                <td id="para1">Mat</td>
+                <td id="para1">Che</td>
+                <th id="para1"; rowspan="5"; style="background-color:green">LUNCH</th>
+                <td id="para1"; colspan="3"; style="background-color:Yellow;">LAB</td>
+                <td id="para1">Phy</td>
+            </tr>
+
+            <tr>
+            <td><i><b>Tuesday</b></i></td>
+            <td id="para1"; colspan="3"; style="background-color:Yellow;">LAB</td>
+            <td id="para1">Eng</td>
+            <td id="para1">Che</td>
+            <td id="para1">Mat</td>
+            <td id="para1"; style="background-color:blue">SPORTS</td>
+            </tr>
+
+            <tr>
+                <td><i><b>Wednesday</b></i></td>
+                <td id="para1">Mat</td>
+                <td id="para1">Phy</td>
+                <td id="para1">Eng</td>
+                <td id="para1">Che</td>
+                <td id="para1"; colspan="3";>LIBRARY</td>
+            </tr>
+
+            <tr>
+                <td><i><b>Thursday</b></i></td>
+                <td id="para1">Phy</td>
+                <td id="para1">Eng</td>
+                <td id="para1">Che</td>
+                <td id="para1">Mat</td>
+                <td id="para1"; colspan="3"; style="background-color:Yellow;">LAB</td>
+            </tr>
+            
+            <tr>
+                <td><i><b>Friday</b></i></td>
+                <td id="para1">Phy</td>
+                <td id="para1">Eng</td>
+                <td id="para1">Che</td>
+                <td id="para1">Mat</td>
+                <td id="para1"; colspan="3"; style="background-color:Yellow;">LAB</td>
+            </tr>
+        </table>
+
+    </body>
+</html>

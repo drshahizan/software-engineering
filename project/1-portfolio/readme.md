@@ -7,10 +7,10 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Project 1: Personal Portfolio Website
+# Project 1: Student Portfolio Showcase (HTML)
 
 ## Description:
-Create a personal portfolio website that showcases your skills and experiences. The website should include an introduction section, a skills section, an experience section, and a contact section. You can refer to HTML code example at [learn PHP github](https://github.com/drshahizan/learn-php/blob/main/materials/html-portfolio.md).
+Create a personal portfolio website that showcases your skills and experiences. The website should include an introduction section, a skills section, an experience section, and a contact section. You can refer to HTML code example at [learn PHP github](https://github.com/drshahizan/learn-php/blob/main/materials/html/html-portfolio.md).
 
 ## Requirements:
 1. The website must be created using standard HTML code.
@@ -33,10 +33,10 @@ Github id:
 Project 1: Personal Portfolio Website
 -->
 ```
-4. You must place your file in the submission folder. Within the [sec01](./sec01) or [sec02](./sec02) folder, create a folder called your `id github`. Name the file as `P1_Githubid.html`.
+4. You must place your file in the submission folder. Within the [sec01](./sec01) or [sec02](./sec02) folder, create a folder called your `github_id`. Name the file as `P1_Githubid.html`.
 > Example: 
-> /sec01/drshahizan/P1_drshahizan.html or
-> /sec02/drshahizan/P1_drshahizan.html
+> /sec01/drshahizan/index.html or
+> /sec02/drshahizan/index.html
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
