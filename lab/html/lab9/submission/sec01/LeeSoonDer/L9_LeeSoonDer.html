@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--
+Name:LeeSoonDer
+Matrix No:A22EC0065
+Github id:LeeSoonDer
+
+Lab 8:HTML Form
+-->
+
+<h1 span style="font-family: verdana;"> <span style="color:blue;">Medical Form</span></span></h1>
+<fieldset>
+    <legend>Personal Information</legend>
+<table border="1px";>
+<tr>
+<th>First Name</th>
+<th><input type="text"></th>
+<th>Gender</th>
+<th><input type="Radio" name="Gender">Female<input type="Radio" name="Gender">Male</th>
+</tr>
+
+<tr>
+<th>Last Name</th>
+<th><input type="text"></th>
+<th>Nationality</th>
+<th><select id="skills" name="skils"><option value="c">Canadian</option><option value="a">American</option><option value="M">Malaysia</option><optio value="S">Sinagaporean</option></select></th>
+</tr>
+
+<tr>
+<th>Address</th>
+<th colspan="3" span style="height: 150px;"><input type="text" style="height: 200px; width:200px"></th>
+</tr>
+
+
+</table>
+</fieldset>
+
+<fieldset>
+    <legend>Medical History</legend>
+    <table>
+    <th><input type="Radio" name="Medical">Smallpox<input type="Radio" name="Medical">Mumps<input type="Radio" name="Medical">Dizziness<input type="Radio" name="Medical">Sneezing</th>
+    </table>
+</fieldset>
+
+<fieldset>
+    <legend>Medical Information</legend>
+    Are you currently taking any medication? <input type="Radio" name="Yes">Yes<input type="Radio" name="No">No
+    <br>If you are currently taking medication,please indicate it in the space below:</br>
+    <br><input type="text" style="width: 300px;height: 300px;"></br>
+
+</fieldset>
+
+<input type="reset">
+</body>
+</html>

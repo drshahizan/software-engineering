@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Medical Form</title>
+    <!--
+    Name: TANG YAN QING
+    Matrix No: A22EC0109
+    Github id: yan-qing09
+    
+    Lab 9: HTML Forms
+    -->
+
+    <style>
+        table,td,tr{
+            border:1px solid black;
+        }
+    </style>
+
+</head>
+<body>
+    <form action="process.php">
+        <h1 style="text-align:center; font-family:verdana; color:blue;"><b>Medical Form</b></h1>
+        <div style="border:2px solid blue; padding:8px; margin-left:200px; margin-right:200px">
+            <fieldset style="border:1px solid grey; width:800px">
+                <legend>Personal Information</legend>
+                <table style="table-layout:auto;">
+                    <tr>
+                        <td><label for="first name">First Name</label></td>
+                        <td><input type="text" id="first name" name="first name" required /></td>
+                        <td><label for="gender">Gender</label></td>
+                        <td colspan="2"><input type="radio" id="female" name="gender" value="female" required>
+                            <label for="female">Female</label>
+                            <input type="radio" id="male" name="gender" value="male" required>
+                            <label for="male">Male</label>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><label for="last name">Last Name</label></td>
+                        <td><input type="text" id="last name" name="last name" required></td>
+                        <td><label for="nationality">Nationality</label></td>
+                        <td><select id="nationality" name="nationality" required>
+                            <option value="Canadian">Canadian</option>
+                            <option value="Malaysian">Malaysian</option>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><label for="address">Address</label></td>
+                        <td colspan="3"><textarea id="address" name="address" cols="27" rows="6" required></textarea></td>
+                    </tr>
+                </table>
+            </fieldset>
+            <fieldset style="border:1px solid grey; width:800px">
+                <legend>Medical History</legend>
+                <input type="checkbox" id="smallpox" name="mhistory" value="smallpox">Smallpox
+                <input type="checkbox" id="mumps" name="mhistory" value="mumps">Mumps
+                <input type="checkbox" id="dizziness" name="mhistory" value="dizziness">Dizziness
+                <input type="checkbox" id="sneezing" name="mhistory" value="sneezing">Sneezing
+            </fieldset>
+            <fieldset style="border:1px solid black">
+                <legend>Current Medication</legend>
+                <label for="currentmedication">Are you currently taking any medication?</label>
+                <input type="radio" id="yes" name="currentmedication" value="yes" required>
+                <label for="yes">Yes</label>
+                <input type="radio" id="no" name="currentmedication" value="no" required>
+                <label for="no">No</label>
+                <br/>
+                <label for="indicatemedication">If you are currently taking medication, please indicate it in the space below:</label>
+                <br/>
+                <textarea id="indicatemedication" name="indicatemedication" cols="135" rows="15"></textarea>
+            </fieldset>
+            <input type="submit" value="Submit" style="margin-top:5px">
+            <input type="reset" value="Reset" style="margin-top:5px">
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!--
+        Name: Lim Jing Yong
+        Matrix No: A22EC0182
+        Github id: Jingyong14
+
+        Lab 10: Application Form
+    -->
+</head>
+<body>
+    <h2 style="text-align: center;">Web Programming: Application Form</h2>
+    <fieldset>
+        <legend>Personal Details</legend>
+        <table width="100%">
+            <tr>
+                <td width="12%" height="55px">Name</td>
+                <td width="5%">
+                    <select name="n" id="n">
+                        <option value="1">--Select--</option>
+                        <option value="2">Mr.</option>
+                        <option value="3">Mrs.</option>
+                    </select>
+                </td>
+                <td width="40%">
+                    <input type="text" id="name" name="name" style="width:60%">
+                </td>
+            </tr>
+            <tr>
+                <td height="55px">Gender</td>
+                <td colspan="2">
+                    <input type="radio" id="m" name="m" value="m"><label for="m">Male</label>
+                    <input type="radio" id="f" name="f" value="f"><label for="f">Female</label>
+                </td>
+                <td>Date of Birth</td>
+                <td>
+                    <input type="date" id="dmy" name="dmy">
+                </td>
+            </tr>
+            <tr>
+                <td height="55px">Marital Status</td>
+                <td width="5%" colspan="2">
+                    <select name="ms" id="ms">
+                        <option value="1">--Select--</option>
+                        <option value="2">Single</option>
+                        <option value="3">Married</option>
+                        <option value="4">Divorced</option>
+                        <option value="5">Widowed</option>
+                    </select>
+                </td>
+                <td>Religion</td>
+                <td>
+                    <select name="rel" id="rel">
+                        <option value="1">--Select--</option>
+                        <option value="2">Buddha</option>
+                        <option value="3">Christian</option>
+                        <option value="4">Hindu</option>
+                        <option value="5">Other</option>
+                    </select>
+                </td>
+            </tr>
+        </table>
+    </fieldset>
+
+    <fieldset>
+        <legend>Contact Details</legend>
+            <table width="100%">
+                <tr>
+                    <td width="15%" height="55px">Phone</td>
+                    <td><input type="text" name="phone" id="phone"></td>
+                    <td width="15%">E-mail</td>
+                    <td><input type="text" name="email" id="email"></td>
+                </tr>
+                <tr>
+                    <td width="15%" height="55px">Address Line 1</td>
+                    <td><input type="text" name="al1" id="al1"></td>
+                    <td width="15%">Address Line 2</td>
+                    <td><input type="text" name="al2" id="al2"></td>
+                </tr>
+                <tr>
+                    <td width="15%" height="55px">City</td>
+                    <td><input type="text" name="city" id="city"></td>
+                    <td width="15%">State</td>
+                    <td>
+                        <select name="state" id="state">
+                            <option value="1">--Select--</option>
+                            <option value="2">Negeri Sembilan</option>
+                            <option value="3">Johor</option>
+                            <option value="4">Selangor</option>
+                            <option value="5">Perak</option>
+                        </select>
+                    </td>
+                </tr>
+            </table>
+    </fieldset>
+
+    <fieldset>
+        <legend>Qualification Details</legend>
+            <table width="100%">
+                <tr style="height:35px">
+                    <td width="8%"><b>No.</b></td>
+                    <td width="18%"><b>Qualification</b></td>
+                    <td width="45%"><b>University</b></td>
+                    <td width="15%"><b>Passing Year</b></td>
+                    <td width="15%"><b>CGPA</b></td>
+                </tr>
+                <tr style="height:35px">
+                    <td>1.</td>
+                    <td>
+                        <select name="qual1" id="qual1">
+                            <option value="1">--Select--</option>
+                            <option value="2">PT3</option>
+                            <option value="3">SPM</option>
+                            <option value="4">STPM</option>
+                            <option value="5">Matriculation</option>
+                            <option value="6">A-levels</option>
+                        </select>
+                    </td>
+                    <td><input type="text" name="uni1" id="uni1" style="width:80%"></td>
+                    <td><input type="number" name="py1" id="py1" style="width:40%"></td>
+                    <td><input type="number" step="0.01" name="cgpa1" id="cgpa1" style="width:40%"></td>
+                </tr>
+                <tr style="height:35px">
+                    <td>2.</td>
+                    <td>
+                        <select name="qual2" id="qual2">
+                            <option value="1">--Select--</option>
+                            <option value="2">PT3</option>
+                            <option value="3">SPM</option>
+                            <option value="4">STPM</option>
+                            <option value="5">Matriculation</option>
+                            <option value="6">A-levels</option>
+                        </select>
+                    </td>
+                    <td><input type="text" name="uni2" id="uni2" style="width:80%"></td>
+                    <td><input type="number" id="py2" style="width:40%"></td>
+                    <td><input type="number" step="0.01" name="cgpa2" id="cgpa2" style="width:40%"></td>
+                </tr>
+            </table>
+    </fieldset>
+
+    <fieldset>
+        <legend>Language Knowledge</legend>
+            <table width="100%">
+                <tr>
+                    <td width="25%"><b>Language</b></td>
+                    <td width="25%"><i>Reading</i></td>
+                    <td width="25%"><i>Writing</i></td>
+                    <td width="25%"><i>Speaking</i></td>
+                </tr>
+                <tr>
+                    <td>B.Melayu</td>
+                    <td><input type="checkbox" name="bmr" id="bmr"></td>
+                    <td><input type="checkbox" name="bmw" id="bmw"></td>
+                    <td><input type="checkbox" name="bms" id="bms"></td>
+                </tr>
+                <tr>
+                    <td>English</td>
+                    <td><input type="checkbox" name="er" id="er"></td>
+                    <td><input type="checkbox" name="ew" id="ew"></td>
+                    <td><input type="checkbox" name="es" id="es"></td>
+                </tr>
+            </table>
+    </fieldset>
+
+    <fieldset>
+        <legend>Identification Details</legend>
+            <table width="100%">
+                <tr>
+                    <td width="145px">Identity Card Number</td>
+                    <td width="300px"><input type="text" id="icn" name="icn" style="width:130px"></td>
+                    <td>Passport Number</td>
+                    <td><input type="number" name="pn" ic="pn" style="width:130px"></td>
+                </tr>
+                <tr>
+                    <td>Upload Photo</td>
+                    <td><input type="file" name="photo" id="photo" style="width:200px"></td>
+                    <td>Upload Signature</td>
+                    <td><input type="file" name="sign" id="sign"></td>
+                </tr>
+            </table>
+    </fieldset>
+    <br>
+    <div style="text-align:center">
+        <input type="submit" value="Submit">
+        <input type="button" value="Back" onclick="history.back()">
+    </div>
+</body>
+</html>
