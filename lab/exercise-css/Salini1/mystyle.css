@@ -1,0 +1,8 @@
+p {
+    color: red;  /* Set text color to red */
+  }
+#name{
+    color:blue;
+    font-size: x-large;
+    text-align: center;
+}

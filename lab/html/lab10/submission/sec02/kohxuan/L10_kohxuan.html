@@ -1,33 +1,192 @@
-Web Programming: Application Form
-Personal Details
-Name	
---Select --
- 
-Gender	Male Female 	Date of Birth	
-dd/mm/yyyy
-Marital Status	
---Select--
-Religion	
---Select--
-Contact Details
-Phone	
-E-mail	
-Address Line 1	
-Address Line 2	
-City	
-State	
---Select--
-Qualification Details
-No.	Qualification	University	Passing Year	CGPA
-1.	
---Select--
-2.	
---Select--
-Language Knowledge
-Language	Reading	Writing	Speaking
-B. Melayu			
-English			
-Identification Details
-Identity Card Number	
-Passport Number	
-Upload Photo		Upload Signature
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Web Programming: Application Form</title>
+    <!--
+	Name: Koh Su Xuan
+	Matrix No: A22EC0060
+	Github id: kohxuan
+
+	Lab 10: Application Form
+	-->
+    <!--<style>
+		table,
+		th,
+		td {
+			border: 1px solid black;
+		}
+	</style>-->
+    <style>
+        .heightbox {
+            height: 1em;
+        }
+    </style>
+</head>
+
+<body>
+    <form action="process.php">
+        <h3 align="center" style="padding-top: 10px;"><strong>Web Programming: Application Form</strong></h3>
+        <div style="margin-left:300px; margin-right:300px">
+            <fieldset>
+                <legend>Personal Details</legend>
+                <table align="left" style="padding: 10px;">
+                    <tr>
+                        <td><label for="name">Name</label></td>
+                        <td colspan="2"><select id="name" name="name" required>
+                                <option value="" style="padding-right: 5px">--Select --</option>
+                            </select>
+                            <input class="heightbox" type="text" id="name" name="name" size="35" required>
+                        </td>
+                    </tr>
+
+                    <tr style="height:10px"></tr>
+
+                    <tr>
+                        <td style="width:18%"><label for="gender">Gender</label></td>
+                        <td style="width:52%"><label for="male">Male</label>
+                            <input type="radio" id="male" name="gender" value="male" required>
+                            <label for="female">Female</label>
+                            <input type="radio" id="female" name="gender" value="female" required>
+                        </td>
+                        <td style="width:15%"><label for="dob">Date of Birth</label></td>
+                        <td><input type="date" id="dob" name="dob" required></td>
+                    </tr>
+
+                    <tr style="height:10px"></tr>
+
+                    <tr>
+                        <td><label for="maritalstatus">Marital Status</label></td>
+                        <td><select id="maritalstatus" name="maritalstatus" required>
+                                <option value="">--Select--</option>
+                            </select></td>
+                        <td><label for="religion">Religion</label></td>
+                        <td><select id="religion" name="religion" required>
+                                <option value="">--Select--</option>
+                            </select></td>
+                    </tr>
+                </table>
+            </fieldset>
+
+            <fieldset>
+                <legend>Contact Details</legend>
+                <table align="left" style="padding: 10px;">
+                    <tr>
+                        <td style="width:26%"><label for="phone">Phone</label></td>
+                        <td style="width:31%"><input type="text" id="phone" name="phone" size="15" required>
+                        <td style="width:25%"><label for="email">E-mail</label></td>
+                        <td><input type="text" id="email" name="email" size="15" required>
+                    </tr>
+
+                    <tr style="height:10px"></tr>
+
+                    <tr>
+                        <td><label for="addressline1">Address Line 1</label></td>
+                        <td><input type="address" id="addressline1" name="addressline1" size="15" required>
+                        <td><label for="addressline2">Address Line 2</label></td>
+                        <td><input type="address" id="addressline2" name="addressline2" size="15" required>
+                    </tr>
+
+                    <tr style="height:10px"></tr>
+
+                    <tr>
+                        <td><label for="city">City</label></td>
+                        <td><input type="text" id="city" name="city" size="15" required>
+                        <td><label for="state">State</label></td>
+                        <td><select id="state" name="state" required>
+                                <option value="">--Select--</option>
+                            </select></td>
+                    </tr>
+                </table>
+            </fieldset>
+
+            <fieldset>
+                <legend>Qualification Details</legend>
+                <table align="left" style="padding: 10px;">
+                    <tr align="left">
+                        <th style="width:55px">No.</th>
+                        <th style="width:150px">Qualification</th>
+                        <th style="width:400px">University</th>
+                        <th style="width:150px">Passing Year</th>
+                        <th style="width:55px">CGPA</th>
+                    </tr>
+
+                    <tr style="height:10px"></tr>
+
+                    <tr>
+                        <td>1.</td>
+                        <td><select id="qualification1" name="qualification1" width="100px" required>
+                                <option value="">--Select--</option>
+                            </select></td>
+                        <td><input type="text" id="university1" name="university1" size="40" required></td>
+                        <td><input type="text" id="passingyear1" name="passingyear1" size="3" required></td>
+                        <td><input type="text" id="cgpa1" name="cgpa1" size="4" required></td>
+                    </tr>
+
+                    <tr style="height:10px"></tr>
+
+                    <tr>
+                        <td>2.</td>
+                        <td><select id="qualification2" name="qualification2" required>
+                                <option value="">--Select--</option>
+                            </select></td>
+                        <td><input type="text" id="university2" name="university2" size="40" required></td>
+                        <td><input type="text" id="passingyear2" name="passingyear2" size="3" required></td>
+                        <td><input type="text" id="cgpa2" name="cgpa2" size="4" required></td>
+                    </tr>
+                </table>
+            </fieldset>
+
+            <fieldset>
+                <legend>Language Knowledge</legend>
+                <table align="left" style="table-layout:auto;">
+                    <tr align="left">
+                        <th style="width:250px">Language</th>
+                        <td style="width:200px"><em>Reading</em></td>
+                        <td style="width:200px"><em>Writing</em></td>
+                        <td style="width:200px"><em>Speaking</em></td>
+                    </tr>
+
+                    <tr>
+                        <td>B. Melayu</td>
+                        <td><input type="checkbox" id="reading" name="reading" value="reading" required></td>
+                        <td><input type="checkbox" id="writing" name="writing" value="writing" required></td>
+                        <td><input type="checkbox" id="speaking" name="speaking" value="speaking" required></td>
+                    </tr>
+
+                    <tr>
+                        <td>English</td>
+                        <td><input type="checkbox" id="reading" name="reading" value="reading" required></td>
+                        <td><input type="checkbox" id="writing" name="writing" value="writing" required></td>
+                        <td><input type="checkbox" id="speaking" name="speaking" value="speaking" required></td>
+                    </tr>
+                </table>
+            </fieldset>
+
+            <fieldset>
+                <legend>Identification Details</legend>
+                <table align="left" style="table-layout:auto;">
+                    <tr>
+                        <td><label for="ic">Identity Card Number</label></td>
+                        <td><input type="text" id="ic" name="ic" required>
+                        <td><label for="passport">Passport Number</label></td>
+                        <td><input type="text" id="passport" name="passport" required>
+                    </tr>
+
+                    <tr>
+                        <td><label for="photo">Upload Photo </label></td>
+                        <td><input type="file" id="photo" name="photo" required>
+                        <td><label for="signature">Upload Signature</label></td>
+                        <td><input type="file" id="signature" name="signature" required>
+                    </tr>
+                </table>
+            </fieldset>
+            <center>
+                <input type="submit" value="Submit" style="margin-top:15px">
+                <input type="button" value="Back" onclick="history.back()" style="margin-top:15px">
+            </center>
+        </div>
+    </form>
+</body>
+
+</html>
