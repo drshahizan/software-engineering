@@ -1,61 +1,158 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <!--
+
+<head>
+  <!--
     Name: Neo Zheng Weng
     Matrix No: A22EC0093
     Github id: zw-weng
 
     Project 1: Personal Portfolio Website
     -->
-    <meta charset="UTF-8" />
-    <title>Personal Portfolio Website</title>
-  </head>
-  <body style="background-color: lemonchiffon;">
-    <header>
+  <meta charset="UTF-8" />
+  <title>Personal Portfolio Website</title>
+  <style>
+    body {
+      background: url(my_picture/wallpaperflare.com_wallpaper.jpg) no-repeat;
+      background-size: cover;
+      color: white;
+      text-align: center;
+      font-family: 'Century Gothic', sans-serif;
+    }
+
+    .box {
+      width: 900px;
+      margin: auto;
+      padding: 20px;
+      background: rgba(0, 0, 0, 0.4);
+      border-radius: 12px;
+    }
+
+    button {
+      border-radius: 12px;
+      background-color: whitesmoke;
+      border: none;
+      color: black;
+      padding: 12px 20px;
+      width: 120px;
+      cursor: pointer;
+      margin-right: 30px;
+      margin-left: 30px;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    input[type=text],
+    text,
+    textarea {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid darkblue;
+      border-radius: 12px;
+      box-sizing: border-box;
+      margin-top: 6px;
+      margin-bottom: 16px;
+      resize: vertical;
+    }
+
+    input[type=submit] {
+      background-color: wheat;
+      color: black;
+      padding: 12px 20px;
+      border: none;
+      border-radius: 12px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <div class="box">
       <h1>Neo Zheng Weng</h1>
-      <img src="my_picture.jpg" alt="My Picture" />
-      <p>Brief introduction about myself.</p>
+      <img src="my_picture/photograph_neo_zheng_weng.jpg" alt="My Picture" width="200px" height="200px"
+        style="border-radius: 50%;">
+      <h4>Data Engineering Student</h4>
+      <a href="https://www.linkedin.com/in/neo-zheng-weng-b81b90254/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="neoweng@graduate.utm.my">
+        <img src="https://img.shields.io/badge/-Gmail-lightblue?style=for-the-badge&logo=Gmail&logoColor=black=mailto:neoweng@graduate.utm.my" alt="Gmail Badge"/>
+      </a>
+      <a href="https://www.instagram.com/zw_weng/">
+        <img src="https://img.shields.io/badge/Instagram-darkblue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+      </a>
+    </div>
+    <br>
+    <button><a href="#about">About Me</a></button>
+      <button><a href="#skills">My Skills</a></button>
+      <button><a href="#experience">Experience</a></button>
       <button><a href="#contact">Contact Me</a></button>
-    </header>
+  </header>
 
-    <section>
-      <h2>Skills</h2>
-      <ul>
-        <li>Skill 1</li>
-        <li>Skill 2</li>
-        <li>Skill 3</li>
-        <li>Skill 4</li>
-      </ul>
-    </section>
+  <section id="about">
+    <h2>About Me</h2>
+    <div class="box">
+    <p>Hi there! I'm <strong>Neo Zheng Weng</strong> and I'm currently studying at the Universiti Teknologi Malaysia as
+      a 1st-year Computer Science undergraduate, majoring in <i>Data Engineering</i>. A rookie in the technology
+      industry who expects to be a big data engineer.</p>
+    </div>
+  </section>
 
-    <section>
-      <h2>Experience</h2>
-      <ul>
-        <li>
-          <h3>Job/Position 1</h3>
-          <p>Date</p>
-          <p>Description</p>
-        </li>
-        <li>
-          <h3>Job/Position 2</h3>
-          <p>Date</p>
-          <p>Description</p>
-        </li>
-      </ul>
-    </section>
+  <section id="skills">
+    <h2>Skills</h2>
+    <div class="box"">
+    </div>
+  </section>
 
-    <section id="contact">
-      <h2>Contact Me</h2>
-      <form>
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name" required />
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required />
-        <label for="message">Message:</label>
-        <textarea id="message" name="message" required></textarea>
-        <button type="submit">Submit</button>
+  <section id="experience">
+    <table style="margin: auto; width: 900px;">
+    <h2>Experience</h2>
+    <tr>
+      <td class="box">
+      <h2><u>Education</u></h2>
+      <h3>2022 - Current</h3>
+      <li>Bachelor's Degree in Computer Science (Data Engineering), <i>UTM</i></li>
+      <h3>2020 - 2021</h3>
+      <li>UTM Foundation, <i>UTM</i></li>
+      <h3>2016 - 2020</h3>
+      <li>SPM, <i>SMK RAJA JUMAAT</i></li>
+      </td>
+      <td></td>
+      <td class="box">
+        <h2><u>Position</u></h2>
+        <h3>2022 - Current</h3>
+        <li>Commitee member of UTM Diabolo Club</li>
+        <h3>2016 - 2020</h3>
+        <li>Executive member of SMK RJ Library</li>
+      </td>
+      </tr>
+    </div>
+    </table>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <div class="box">
+      <form action="/action_page.php">
+        <label for="fname">First Name</label>
+        <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+        <label for="lname">Last Name</label>
+        <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+        <label for="email">Email</label>
+        <input type="text" id="email" name="email" placeholder="Your email..">
+
+        <label for="subject">Subject</label>
+        <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+        <input type="submit" value="Submit">
       </form>
-    </section>
-  </body>
+    </div>
+  </section>
+</body>
+
 </html>
