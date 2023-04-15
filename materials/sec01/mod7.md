@@ -168,6 +168,8 @@ Group Four Peas in Pod
 ## 7.3 Object-Oriented Design Models using UML
 
 ## 7.4 Use Case Realization
+## An Example of a Complete Design Sequence Diagram
+<br>![]([https://qph.cf2.quoracdn.net/main-qimg-e91bd2d4b63b8f8aa781c2a9c4dd687e-lq](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sciencedirect.com%2Ftopics%2Fcomputer-science%2Fsequence-diagram&psig=AOvVaw2zSojM1oCQdEQomgQtAenG&ust=1681616070919000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDSpJn6qv4CFQAAAAAdAAAAABAE>)<br>
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
