@@ -13,7 +13,7 @@ Module 3: Agile Software Development
 Group: Curiosity
 1. Camily Tang Jia Lei, A22EC0039
 2. Low Ying xi, A22EC0187
-3. Ng Shu Yu, A22EC
+3. Ng Shu Yu, A22EC0228
 
 -->
 
@@ -322,6 +322,19 @@ Pair programming has become a popular practice in software development due to it
 
 # AGILE PROJECT MANAGEMENT
 ## Agile Project Management
+Agile project management is an iterative and flexible approach to managing software development projects. It emphasizes collaboration, adaptability, and customer satisfaction. In contrast to traditional plan-driven project management methods, agile project management focuses on delivering working software in incremental iterations.
+
+- Agile project management is designed to be responsive to changing customer needs and priorities. This is in contrast to plan-driven project management, which is based on a detailed plan that is created at the start of the project and followed throughout.
+
+- Agile project management emphasizes collaboration between developers, project managers, and customers. This helps ensure that everyone is on the same page and working towards the same goals.
+
+- Agile project management typically involves working in short iterations or sprints. Each sprint focuses on delivering a specific set of features or functionality.
+
+- Agile project management prioritizes working software over comprehensive documentation. This means that developers focus on creating code that works and is tested, rather than spending time on extensive documentation.
+
+- Agile project management encourages continuous improvement and learning. This means that project teams should regularly reflect on their processes and look for ways to improve.
+
+Overall, agile project management is a flexible and adaptable approach to software development that can help software project managers deliver high-quality software in a timely and efficient manner.
 
 ## Scrum
 
