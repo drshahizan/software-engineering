@@ -1077,13 +1077,16 @@ a:hover {
 
 
 /*--------------------------------------------------------------
-# Portfolio
+# Extracurricular Activities
 --------------------------------------------------------------*/
 .work-box {
   margin-bottom: 3rem;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-color: #fff;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
 }
 
 .work-box:hover img {
@@ -1093,6 +1096,11 @@ a:hover {
 .work-img {
   display: block;
   overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  width: 100%;
 }
 
 .work-img img {
