@@ -198,10 +198,10 @@ Group Four Peas in Pod
     <b>The purpose of DAO is for:</b>
     <li>Easier to change database without changing other classes
     <li>Security where only certain classes (DAO) can access the database information.
-    <li>Click the video link below to know more about Data Access Object Design Pattern
-    <br>![](https://1.bp.blogspot.com/-4c2D0TOeewk/UhUXaNUBSlI/AAAAAAAAABM/M4WvmXrtIJ8/s640/DAO.JPG)<br></li>
+    <li>Click the video link below to know more about Data Access Object Design Pattern</li>
+   <br>![](http://agilemodeling.com/images/models/sequenceDiagramEnrollInSeminar.jpg)<br>
+    <br>![](https://1.bp.blogspot.com/-4c2D0TOeewk/UhUXaNUBSlI/AAAAAAAAABM/M4WvmXrtIJ8/s640/DAO.JPG)<br>
     https://www.youtube.com/watch?v=9fVQ_mvzV48
-    
     </ul>
      <b>Example of implentation:</b>
      <li>Cloud database without sql such as Firebase</li>
