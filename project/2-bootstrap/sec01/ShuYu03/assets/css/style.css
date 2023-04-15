@@ -20,7 +20,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg.jpg") top right no-repeat;
+  background: #040404 url("../img/bg.png") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -514,9 +514,9 @@ section .container {
 }
 
 /*--------------------------------------------------------------
-# Interests
+# Languages
 --------------------------------------------------------------*/
-.interests .icon-box {
+.Languages .icon-box {
   display: flex;
   align-items: center;
   padding: 20px;
@@ -524,13 +524,13 @@ section .container {
   transition: ease-in-out 0.3s;
 }
 
-.interests .icon-box i {
+.Languages .icon-box i {
   font-size: 32px;
   padding-right: 10px;
   line-height: 1;
 }
 
-.interests .icon-box h3 {
+.Languages .icon-box h3 {
   font-weight: 700;
   margin: 0;
   padding: 0;
@@ -539,7 +539,7 @@ section .container {
   color: #fff;
 }
 
-.interests .icon-box:hover {
+.Languages .icon-box:hover {
   background: rgba(255, 255, 255, 0.12);
 }
 

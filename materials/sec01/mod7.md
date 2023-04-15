@@ -173,9 +173,43 @@ Group Four Peas in Pod
 
 <b>Steps for Use Case Realization : Three Refinement Steps</b>
 <ol type="1">
-  <li>Add <<boundary>> classes in sequence diagram for View Layer (already done inanalysis but can be added in design)</li>
-  <li>Add <<control>> class in sequence diagram for Business Layer (already done in analysis but can be added in design)</li>
-  <li>Add <<dataAccess>> class in sequence diagram for Data Access Layer</li>
+  <li>Add <b>boundary</b> classes in sequence diagram for View Layer (already done inanalysis but can be added in design)</li>
+  <li>Add <b>control</b>  class in sequence diagram for Business Layer (already done in analysis but can be added in design)</li>
+  <li>Add <b>Data Access</b>  class in sequence diagram for Data Access Layer</li>
+ </ol>
+ 
+ #### Step 1: Add BOUNDARY Classes in Sequence Diagram
+ <ul type="bullet">
+  <li>GUI layer has been added</li>
+  <li>Object construction is also shown by an explicit constructor method invocation</li>
+  <li>Click the link below to know more about <b>The Entity-Control-Boundary Pattern</b><br></li>
+  http://www.cs.sjsu.edu/~pearce/modules/lectures/ooa/analysis/ecb.htm
+  </ul>
+  
+   #### Step 2: Add CONTROL Classes in Sequence Diagram
+   <ul type="bullet">
+    <li>An artifact invented by the designer to <b>handle a system function</b>
+    <li>A <b>single</b> use case controller results in <b>low cohesion</b>
+    <li><b>Several</b> use case controllers raise coupling but result in <b>high cohesion</b>
+    </ul>
+    
+   #### Step 3: Add DATA ACESS Classes in Sequence Diagram
+   <ul type="bullet">
+    <b>The purpose of DAO is for:</b>
+    <li>Easier to change database without changing other classes
+    <li>Security where only certain classes (DAO) can access the database information.
+    <li>Click the video link below to know more about Data Access Object Design Pattern</li>
+    https://www.youtube.com/watch?v=9fVQ_mvzV48
+    <ul type="bullet">
+     <b>Example of implentation:</b>
+     <li>Cloud database without sql such as Firebase</li>
+     <li>JDBC</li>
+     
+  
+ 
+  
+ 
+ 
 
 
 

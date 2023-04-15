@@ -30,8 +30,10 @@
   background-size: cover;
   background-position: center;
 }
-.chunghwa{
-  margin-left: auto;
+.hero{
+  position: relative;
+  width: 100%;
+  background: white;
 }
 
 
