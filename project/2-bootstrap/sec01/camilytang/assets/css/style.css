@@ -937,6 +937,146 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
+# Experience
+--------------------------------------------------------------*/
+
+.experience {
+  background-color: #f5f5f5;
+  padding: 80px 0;
+}
+
+.experience .section-title {
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: 60px;
+  text-align: center;
+  color: #333;
+}
+
+.experience .timeline {
+  position: relative;
+  padding: 0;
+  list-style-type: none;
+}
+
+.experience .timeline:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  width: 3px;
+  margin-left: -2px;
+  background-color: #0078ff;
+  height: 100%;
+}
+
+.experience .timeline > li {
+  position: relative;
+  min-height: 50px;
+  margin-bottom: 60px;
+}
+
+.experience .timeline > li:before,
+.experience .timeline > li:after {
+  content: "";
+  display: table;
+}
+
+.experience .timeline > li:after {
+  clear: both;
+}
+
+.experience .timeline > li .timeline-panel {
+  position: absolute;
+  top: 0;
+  width: 46%;
+  right: 5%;
+  padding: 0 30px;
+  text-align: right;
+}
+
+.experience .timeline > li .timeline-panel:before {
+  content: "";
+  position: absolute;
+  top: 26px;
+  right: -15px;
+  display: inline-block;
+  border-top: 15px solid transparent;
+  border-left: 15px solid #0078ff;
+  border-right: 0 solid #0078ff;
+  border-bottom: 15px solid transparent;
+  z-index: 1;
+}
+
+.experience .timeline > li .timeline-panel:after {
+  content: "";
+  position: absolute;
+  top: 27px;
+  right: -14px;
+  display: inline-block;
+  border-top: 14px solid transparent;
+  border-left: 14px solid #fff;
+  border-right: 0 solid #fff;
+  border-bottom: 14px solid transparent;
+  z-index: 2;
+}
+
+.experience .timeline > li .timeline-panel .timeline-heading {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.experience .timeline > li .timeline-panel .timeline-body {
+  margin-top: 0;
+  font-size: 14px;
+  color: #555;
+}
+
+.experience .timeline > li.timeline-inverted > .timeline-panel {
+  right: auto;
+  left: 5%;
+  text-align: left;
+}
+
+.experience .timeline > li.timeline-inverted > .timeline-panel:before {
+  right: -15px;
+  left: auto;
+  border-left-width: 0;
+  border-right-width: 15px;
+}
+
+.experience .timeline > li.timeline-inverted > .timeline-panel:after {
+  right: -14px;
+  left: auto;
+  border-left-width: 0;
+  border-right-width: 14px;
+}
+
+.experience .timeline > li.timeline-inverted > .timeline-panel .timeline-heading {
+  text-align: right;
+}
+
+.experience .timeline > li.timeline-inverted > .timeline-panel .timeline-body {
+  text-align: right;
+}
+
+.experience .timeline > li:last-child {
+  margin-bottom: 0;
+}
+
+.experience .timeline-heading h4 {
+  margin-top: 0;
+}
+
+.experience .timeline-body p {
+  margin-bottom: 0;
+}
+
+
+/*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
 .work-box {
