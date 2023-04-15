@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+
+<head>
+
+    <!--
+    Name: JOSEPH LAU YEO KAI
+    Matrix No: A22EC0055
+    Github id: josephlau2003
+    Lab 6: HTML Table
+    -->
+
+    <title>HTML Table</title>
+
+</head>
+
+<body>
+    <style>
+        table {
+            border: 1px solid black;
+            border-collapse: collapse;
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        td,
+        th {
+            border: 1px solid black;
+            text-align: center;
+            font-family: 'Times New Roman', Times, serif
+        }
+    </style>
+
+
+    <table style="width:100%">
+        <tr>
+            <th>Flight No</th>
+            <th style=width:20%;>Place</th>
+            <th>Destination</th>
+            <th colspan="2">Time</th>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td style=width:20%;>Arrival</td>
+            <td>Departure</td>
+        </tr>
+    </table>
+
+
+    <br><br>
+
+
+    <table style="width: 100%">
+        <tr>
+            <td rowspan="2" style="vertical-align: top;">Time</td>
+            <th>Johor Bahru</th>
+            <th>Jakarta</th>
+            <th>Dhaka</th>
+            <th>Jeddah</th>
+        </tr>
+
+        <tr>
+            <td>3:30 pm</td>
+            <td>2:30 pm</td>
+            <td>1.30 pm</td>
+            <td>10:30 am</td>
+        </tr>
+    </table>
+
+
+    <br><br>
+
+
+    <table style="width: 100%">
+        <tr style="height:60px">
+            <td colspan="3" style="background-color:blue">BLUE</td>
+        </tr>
+
+        <tr style="height:60px">
+            <td rowspan="3" style="background-color:red; width:33%;">RED</td>
+            <td rowspan="3" style="background-color:green; width:33%;">GREEN</td>
+            <td rowspan="3" style="background-color:yellow; width:33%;">YELLOW</td>
+        </tr>
+    </table>
+
+
+    <br><br>
+
+
+    <table style="width: 100%">
+        <tr>
+            <td style=width:25%;>1</td>
+            <td style=width:25%;>2</td>
+            <td style=width:25%;>3</td>
+            <td style=width:25%;>4</td>
+        </tr>
+
+        <tr>
+            <td>5</td>
+            <th rowspan="2" colspan="2">Image</th>
+            <td>6</td>
+        </tr>
+
+        <tr>
+            <td>7</td>
+            <td>8</td>
+        </tr>
+
+        <tr>
+            <td>9</td>
+            <td>10</td>
+            <td>11</td>
+            <td>12</td>
+        </tr>
+    </table>
+
+</body>
+
+</html>
