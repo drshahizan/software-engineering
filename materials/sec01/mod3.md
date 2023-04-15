@@ -326,15 +326,15 @@ Agile project management is an iterative and flexible approach to managing softw
 
 **Key points** to keep in mind about agile project management:
 
-- Agile project management is designed to be responsive to changing customer needs and priorities. This is in contrast to plan-driven project management, which is based on a detailed plan that is created at the start of the project and followed throughout.
+- Agile project management is designed to be **responsive to changing customer needs and priorities**. This is in contrast to plan-driven project management, which is based on a detailed plan that is created at the start of the project and followed throughout.
 
-- Agile project management emphasizes collaboration between developers, project managers, and customers. This helps ensure that everyone is on the same page and working towards the same goals.
+- Agile project management emphasizes **collaboration** between developers, project managers, and customers. This helps ensure that everyone is on the **same page** and working towards the **same goals**.
 
-- Agile project management typically involves working in short iterations or sprints. Each sprint focuses on delivering a specific set of features or functionality.
+- Agile project management typically involves working in **short iterations or sprints**. Each sprint focuses on delivering a specific set of features or functionality.
 
-- Agile project management prioritizes working software over comprehensive documentation. This means that developers focus on creating code that works and is tested, rather than spending time on extensive documentation.
+- Agile project management **prioritizes working software** over comprehensive documentation. This means that developers focus on creating code that works and is tested, rather than spending time on extensive documentation.
 
-- Agile project management encourages continuous improvement and learning. This means that project teams should regularly reflect on their processes and look for ways to improve.
+- Agile project management encourages **continuous improvement and learning**. This means that project teams should regularly reflect on their processes and look for ways to improve.
 
 Overall, agile project management is a flexible and adaptable approach to software development that can help software project managers deliver high-quality software in a timely and efficient manner.
 
@@ -343,15 +343,15 @@ Scrum is a popular framework for managing iterative development in agile softwar
 
 **Key points** to keep in mind about agile project management:
 
-- Scrum is based on a series of sprint cycles. Each sprint typically lasts two to four weeks and focuses on delivering a small set of features or functionality.
+- Scrum is based on a **series of sprint cycles**. Each sprint typically lasts two to four weeks and focuses on delivering a small set of features or functionality.
 
-- Scrum teams are self-organizing and cross-functional. This means that they are responsible for managing their own work and have all the skills necessary to deliver a working product.
+- Scrum teams are **self-organizing** and **cross-functional**. This means that they are responsible for managing their own work and have all the skills necessary to deliver a working product.
 
 - The Scrum framework includes several roles, including the product owner, the Scrum master, and the development team. Each role has specific responsibilities and works together to deliver the product.
 
-- Scrum emphasizes frequent communication and collaboration between team members. This helps ensure that everyone is working towards the same goals and that any issues are addressed quickly.
+- Scrum emphasizes frequent **communication** and **collaboration** between team members. This helps ensure that everyone is working towards the same goals and that any issues are addressed quickly.
 
-- At the end of each sprint, the team holds a sprint review meeting to demonstrate the work they have completed and gather feedback from stakeholders.
+- At the end of each sprint, the team holds a **sprint review meeting** to demonstrate the work they have completed and gather feedback from stakeholders.
 
 - The final sprint in a Scrum project is the sprint where the product is completed and released. This sprint is known as the "sprint 0" or the "release sprint".
 
