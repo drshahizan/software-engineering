@@ -182,7 +182,9 @@ Group Four Peas in Pod
  <ul type="bullet">
   <li>GUI layer has been added</li>
   <li>Object construction is also shown by an explicit constructor method invocation</li>
- <br>![]([http://agilemodeling.com/images/models/sequenceDiagramEnrollInSeminar.jpg](http://www.cs.sjsu.edu/~pearce/modules/lectures/ooa/analysis/ecb.htm))<br>
+  Click the link below to know more about <b>The Entity-Control-Boundary Pattern</b><br>
+  http://www.cs.sjsu.edu/~pearce/modules/lectures/ooa/analysis/ecb.htm
+ 
   
  
  
