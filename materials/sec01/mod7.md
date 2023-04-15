@@ -171,6 +171,14 @@ Group Four Peas in Pod
 ### An Example of a Complete Design Sequence Diagram
 <br>![](http://agilemodeling.com/images/models/sequenceDiagramEnrollInSeminar.jpg)<br>
 
+<b>Steps for Use Case Realization : Three Refinement Steps</b>
+<ol type="1">
+  <li>Add <<boundary>> classes in sequence diagram for View Layer (already done inanalysis but can be added in design)</li>
+  <li>Add <<control>> class in sequence diagram for Business Layer (already done in analysis but can be added in design)</li>
+  <li>Add <<dataAccess>> class in sequence diagram for Data Access Layer</li>
+
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
