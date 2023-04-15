@@ -358,11 +358,11 @@ Overall, Scrum is a flexible and adaptable framework that can help teams manage 
 
 ## The Scrum Process
 Scrum is a popular agile framework for managing complex projects. It emphasizes transparency, inspection, and adaptation to deliver high-quality software in an iterative and incremental manner. The Scrum process consists of roles, events, artifacts, and rules that work together to facilitate efficient project management and continuous improvement.
-<br><img src="https://www.ntaskmanager.com/wp-content/uploads/2019/08/What-is-a-standard-scrum-process.jpg" width="600px"></br>
+<br><img src="https://www.ntaskmanager.com/wp-content/uploads/2019/08/What-is-a-standard-scrum-process.jpg" width="600px"><br>
 
 ## Task Board
 A task board is a visual tool used in agile project management to track the progress of work and improve team communication. It is a physical or digital board that displays the status of tasks in various stages of completion, allowing team members to quickly see what needs to be done and who is responsible for it. The task board is a key component of agile project management and can help teams stay organized and focused on delivering high-quality software in an efficient and effective manner.
-<br><img src="https://i2.wp.com/manifesto.co.uk/wp-content/uploads/2014/10/scrum-task-board.png" width="600px"></br>
+<br><img src="https://i2.wp.com/manifesto.co.uk/wp-content/uploads/2014/10/scrum-task-board.png" width="600px"><br>
 
 ## The Scrum Sprint Cycle
 The sprint cycle is a time-boxed iteration in which the team works to deliver a potentially releasable increment of the product.
@@ -373,7 +373,7 @@ The sprint cycle is a time-boxed iteration in which the team works to deliver a 
 
 ## Teamwork in Scrum
 In Scrum, a popular Agile framework, teamwork plays a critical role in project success. The team works together to complete tasks and deliver high-quality software in an iterative and incremental manner. The Scrum Master facilitates the team's collaboration by ensuring that everyone is aligned with the project goals and objectives. Additionally, the whole team attends short daily meetings called stand-ups or daily scrums, which provide an opportunity for team members to synchronize their work and discuss any impediments. By working together as a cohesive unit, the team can achieve better results and deliver value to the customer.
-<br><img src="https://www.proofhub.com/wp-content/uploads/2019/01/Build-Your-Teamwork-and-Collaboration-Skills.jpeg" width="600px"></br>
+<br><br><img src="https://www.proofhub.com/wp-content/uploads/2019/01/Build-Your-Teamwork-and-Collaboration-Skills.jpeg" width="600px"><br>
 
 ## Scrum Benefits
 - Scrum helps teams deliver **high-quality** software in an iterative and incremental manner.
@@ -386,14 +386,18 @@ In Scrum, a popular Agile framework, teamwork plays a critical role in project s
 
 ## Example of Agile Project Management: JIRA Software
 JIRA Software is a popular project management tool used in Agile software development. It is designed to help teams plan, track, and release software products in an iterative and incremental manner. JIRA provides a variety of features and functionalities that support Agile practices such as Scrum and Kanban, including the ability to create and manage product backlogs, track sprint progress, and visualize team workflows.
-<br><img src="https://th.bing.com/th/id/R.cc6038a6bbc15a0d52538c32b6d76fbe?rik=cAnlSj5Hatdgbw&riu=http%3a%2f%2fcurvc.com%2fcurvc%2fstatic%2fimg%2fproduct%2fatlassian%2fjirasoft%2fjirasoft02.png&ehk=lV%2bzy5IwbxM2Q8Qw3PzukfS9BsaOvApV3IiAYfcx1rs%3d&risl=&pid=ImgRaw&r=0" width="600px"></br>
+<br><br><img src="https://th.bing.com/th/id/R.cc6038a6bbc15a0d52538c32b6d76fbe?rik=cAnlSj5Hatdgbw&riu=http%3a%2f%2fcurvc.com%2fcurvc%2fstatic%2fimg%2fproduct%2fatlassian%2fjirasoft%2fjirasoft02.png&ehk=lV%2bzy5IwbxM2Q8Qw3PzukfS9BsaOvApV3IiAYfcx1rs%3d&risl=&pid=ImgRaw&r=0" width="600px"><br>
 
 ## DevOps: Agile & Learn to Operations Work-Learn-to-Operations-Work
+DevOps is a methodology that combines Agile and Lean principles with operations. It streamlines the development lifecycle, breaks down silos between teams, and creates a culture of collaboration, automation, and continuous improvement. By integrating operations into development, it enables faster and more reliable delivery of high-quality software products. Ultimately, DevOps delivers value to customers and the business by ensuring a more efficient and effective software development process.
 
 ## DevOps and Tools
+<br><img src="https://www.opptrends.com/wp-content/uploads/2020/09/Devops-1068x698.jpg" width="600px"><br><br>
+DevOps is a software development methodology that emphasizes collaboration and communication between development and operations teams, with a focus on automating repetitive tasks to improve efficiency and reliability. To support these goals, a series of tools have emerged in recent years to help DevOps teams manage their workflows, including tools for continuous integration and delivery, containerization, configuration management, and monitoring. By using these tools, DevOps teams can automate manual processes, reduce errors, and improve overall productivity. The result is a more efficient and effective software development process that delivers high-quality software products quickly and reliably.
 
 ## Agile DevOps
-
+<br><img src="https://www.thinkebiz.net/wp-content/uploads/2018/06/DevOps-1024x853.png" width="600px"><br><br>
+Agile DevOps is an approach to software development that combines Agile methodologies with DevOps practices. It involves breaking down silos between development and operations teams and creating a culture of collaboration, automation, and continuous improvement. Agile DevOps aims to deliver high-quality software products more quickly and reliably by integrating Agile practices such as Scrum and Kanban with DevOps tools and processes. This approach emphasizes the importance of collaboration, automation, and feedback throughout the entire software development lifecycle, from planning and development to testing, deployment, and monitoring. The result is a more efficient and effective software development process that delivers value to customers and the business.
 
 # SCALING AGILE METHODS
 ## Scaling Agile Methods
