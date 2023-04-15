@@ -173,7 +173,7 @@ Group Four Peas in Pod
 
 <b>Steps for Use Case Realization : Three Refinement Steps</b>
 <ol type="1">
-  <li>Add <boundary> classes in sequence diagram for View Layer (already done inanalysis but can be added in design)</li>
+  <li>Add <<<boundary>>> classes in sequence diagram for View Layer (already done inanalysis but can be added in design)</li>
   <li>Add <<control>> class in sequence diagram for Business Layer (already done in analysis but can be added in design)</li>
   <li>Add <<dataAccess>> class in sequence diagram for Data Access Layer</li>
 
