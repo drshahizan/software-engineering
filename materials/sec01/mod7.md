@@ -199,7 +199,7 @@ Group Four Peas in Pod
     <li>Easier to change database without changing other classes
     <li>Security where only certain classes (DAO) can access the database information.
     <li>Click the video link below to know more about Data Access Object Design Pattern</li>
-   <br><img src="(https://1.bp.blogspot.com/-4c2D0TOeewk/UhUXaNUBSlI/AAAAAAAAABM/M4WvmXrtIJ8/s640/DAO.JPG)"><br>  
+   <br><![]"(https://1.bp.blogspot.com/-4c2D0TOeewk/UhUXaNUBSlI/AAAAAAAAABM/M4WvmXrtIJ8/s640/DAO.JPG)"><br>  
     https://www.youtube.com/watch?v=9fVQ_mvzV48
     <ul type="bullet">
      <b>Example of implentation:</b>
