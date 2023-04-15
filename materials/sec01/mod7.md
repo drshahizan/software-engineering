@@ -175,7 +175,17 @@ Group Four Peas in Pod
 <ol type="1">
   <li>Add <b>boundary</b> classes in sequence diagram for View Layer (already done inanalysis but can be added in design)</li>
   <li>Add <b>control</b>  class in sequence diagram for Business Layer (already done in analysis but can be added in design)</li>
-  <li>Add <b>dataAccess</b>  class in sequence diagram for Data Access Layer</li>
+  <li>Add <b>Data Access</b>  class in sequence diagram for Data Access Layer</li>
+ </ol>
+ 
+ #### Step 1: Add BOUNDARY Classes in Sequence Diagram
+ <ul type="bullet">
+  <li>GUI layer has been added</li>
+  <li>Object construction is also shown by an explicit constructor method invocation</li>
+ <br>![]([http://agilemodeling.com/images/models/sequenceDiagramEnrollInSeminar.jpg](http://www.cs.sjsu.edu/~pearce/modules/lectures/ooa/analysis/ecb.htm))<br>
+  
+ 
+ 
 
 
 
