@@ -324,6 +324,8 @@ Pair programming has become a popular practice in software development due to it
 ## Agile Project Management
 Agile project management is an iterative and flexible approach to managing software development projects. It emphasizes collaboration, adaptability, and customer satisfaction. In contrast to traditional plan-driven project management methods, agile project management focuses on delivering working software in incremental iterations.
 
+**Key points** to keep in mind about agile project management:
+
 - Agile project management is designed to be responsive to changing customer needs and priorities. This is in contrast to plan-driven project management, which is based on a detailed plan that is created at the start of the project and followed throughout.
 
 - Agile project management emphasizes collaboration between developers, project managers, and customers. This helps ensure that everyone is on the same page and working towards the same goals.
@@ -337,8 +339,27 @@ Agile project management is an iterative and flexible approach to managing softw
 Overall, agile project management is a flexible and adaptable approach to software development that can help software project managers deliver high-quality software in a timely and efficient manner.
 
 ## Scrum
+Scrum is a popular framework for managing iterative development in agile software development. It is a lightweight process that helps teams deliver high-quality software in a flexible and adaptive way. Scrum is based on a series of sprint cycles that allow teams to focus on delivering small, incremental improvements to the product.
+
+**Key points** to keep in mind about agile project management:
+
+- Scrum is based on a series of sprint cycles. Each sprint typically lasts two to four weeks and focuses on delivering a small set of features or functionality.
+
+- Scrum teams are self-organizing and cross-functional. This means that they are responsible for managing their own work and have all the skills necessary to deliver a working product.
+
+- The Scrum framework includes several roles, including the product owner, the Scrum master, and the development team. Each role has specific responsibilities and works together to deliver the product.
+
+- Scrum emphasizes frequent communication and collaboration between team members. This helps ensure that everyone is working towards the same goals and that any issues are addressed quickly.
+
+- At the end of each sprint, the team holds a sprint review meeting to demonstrate the work they have completed and gather feedback from stakeholders.
+
+- The final sprint in a Scrum project is the sprint where the product is completed and released. This sprint is known as the "sprint 0" or the "release sprint".
+
+Overall, Scrum is a flexible and adaptable framework that can help teams manage iterative development in a way that is efficient and effective. By focusing on delivering small, incremental improvements to the product, Scrum helps teams stay focused and on track, ultimately leading to a successful product that wraps up the project.
 
 ## The Scrum Process
+Scrum is a popular agile framework for managing complex projects. It emphasizes transparency, inspection, and adaptation to deliver high-quality software in an iterative and incremental manner. The Scrum process consists of roles, events, artifacts, and rules that work together to facilitate efficient project management and continuous improvement.
+<br><img src="https://www.ntaskmanager.com/wp-content/uploads/2019/08/What-is-a-standard-scrum-process.jpg" width="600px"></br>
 
 ## Task Board
 
