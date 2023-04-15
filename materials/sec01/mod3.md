@@ -362,6 +362,8 @@ Scrum is a popular agile framework for managing complex projects. It emphasizes 
 <br><img src="https://www.ntaskmanager.com/wp-content/uploads/2019/08/What-is-a-standard-scrum-process.jpg" width="600px"></br>
 
 ## Task Board
+A task board is a visual tool used in agile project management to track the progress of work and improve team communication. It is a physical or digital board that displays the status of tasks in various stages of completion, allowing team members to quickly see what needs to be done and who is responsible for it. The task board is a key component of agile project management and can help teams stay organized and focused on delivering high-quality software in an efficient and effective manner.
+<br><img src="https://i2.wp.com/manifesto.co.uk/wp-content/uploads/2014/10/scrum-task-board.png" width="600px"></br>
 
 ## The Scrum Sprint Cycle
 
