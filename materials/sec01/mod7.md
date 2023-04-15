@@ -169,7 +169,7 @@ Group Four Peas in Pod
 
 ## 7.4 Use Case Realization
 ##An Example of a Complete Design Sequence Diagram
-<img src = https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sciencedirect.com%2Ftopics%2Fcomputer-science%2Fsequence-diagram&psig=AOvVaw2zSojM1oCQdEQomgQtAenG&ust=1681616070919000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDSpJn6qv4CFQAAAAAdAAAAABAE>
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sciencedirect.com%2Ftopics%2Fcomputer-science%2Fsequence-diagram&psig=AOvVaw2zSojM1oCQdEQomgQtAenG&ust=1681616070919000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDSpJn6qv4CFQAAAAAdAAAAABAE>
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
