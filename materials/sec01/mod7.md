@@ -168,7 +168,7 @@ Group Four Peas in Pod
 ## 7.3 Object-Oriented Design Models using UML
 
 ## 7.4 Use Case Realization
-## An Example of a Complete Design Sequence Diagram
+### An Example of a Complete Design Sequence Diagram
 <br>![](http://agilemodeling.com/images/models/sequenceDiagramEnrollInSeminar.jpg)<br>
 
 ## Contribution 🛠️
