@@ -177,7 +177,7 @@ The XP methodology places a strong emphasis on teamwork, communication, and feed
 <br><img src=https://i.imgur.com/mUZHPws.png width="600px"></br>
 ## The Extreme Programming Release Cycle
 
-#### <b>Step 1 User Story Selection<b>
+#### <b>Step 1 User Story Selection</b>
 1. Identify the Stakeholders
 The first step in choosing user stories is to identify the stakeholders who will be impacted by the software. Stakeholders can include end-users, customers, managers, and other stakeholders who have an interest in the software.
 
