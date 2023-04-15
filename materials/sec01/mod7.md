@@ -193,12 +193,13 @@ Group Four Peas in Pod
     <li><b>Several</b> use case controllers raise coupling but result in <b>high cohesion</b>
     </ul>
     
-     #### Step 3: Add DATA ACESS Classes in Sequence Diagram
+   #### Step 3: Add DATA ACESS Classes in Sequence Diagram
    <ul type="bullet">
     <b>The purpose of DAO is for:</b>
     <li>Easier to change database without changing other classes
     <li>Security where only certain classes (DAO) can access the database information.
-    <li>Click the video link below to know more about Data Access Object Design Pattern<br>![](https://1.bp.blogspot.com/-4c2D0TOeewk/UhUXaNUBSlI/AAAAAAAAABM/M4WvmXrtIJ8/s640/DAO.JPG)<br></li>
+    <li>Click the video link below to know more about Data Access Object Design Pattern
+    <br>![](https://1.bp.blogspot.com/-4c2D0TOeewk/UhUXaNUBSlI/AAAAAAAAABM/M4WvmXrtIJ8/s640/DAO.JPG)<br></li>
     https://www.youtube.com/watch?v=9fVQ_mvzV48
     
     </ul>
