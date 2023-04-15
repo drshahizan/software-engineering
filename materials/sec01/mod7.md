@@ -182,8 +182,31 @@ Group Four Peas in Pod
  <ul type="bullet">
   <li>GUI layer has been added</li>
   <li>Object construction is also shown by an explicit constructor method invocation</li>
-  Click the link below to know more about <b>The Entity-Control-Boundary Pattern</b><br>
+  <li>Click the link below to know more about <b>The Entity-Control-Boundary Pattern</b><br></li>
   http://www.cs.sjsu.edu/~pearce/modules/lectures/ooa/analysis/ecb.htm
+  </ul>
+  
+   #### Step 2: Add CONTROL Classes in Sequence Diagram
+   <ul type="bullet">
+    <li>An artifact invented by the designer to <b>handle a system function</b>
+    <li>A <b>single</b> use case controller results in <b>low cohesion</b>
+    <li><b>Several</b> use case controllers raise coupling but result in <b>high cohesion</b>
+    </ul>
+    
+     #### Step 3: Add DATA ACESS Classes in Sequence Diagram
+   <ul type="bullet">
+    <b>The purpose of DAO is for:</b>
+    <li>Easier to change database without changing other classes
+    <li>Security where only certain classes (DAO) can access the database information.
+    <li>Click the video link below to know more about Data Access Object Design Pattern<br>![](https://1.bp.blogspot.com/-4c2D0TOeewk/UhUXaNUBSlI/AAAAAAAAABM/M4WvmXrtIJ8/s640/DAO.JPG)<br></li>
+    https://www.youtube.com/watch?v=9fVQ_mvzV48
+    
+    </ul>
+     <b>Example of implentation:</b>
+     <li>Cloud database without sql such as Firebase</li>
+     <li>JDBC</li>
+     
+  
  
   
  
