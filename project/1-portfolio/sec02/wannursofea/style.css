@@ -24,10 +24,6 @@ h3 {
     border-radius: 80%;
     border-color: #bca5d0;
     width: 90%;
-    padding-top: 5%;
-    padding-bottom: 5%;
-    padding-left: 3%;
-    padding-right: 3%;
 }
 
 .aboutMe {
@@ -40,16 +36,15 @@ h3 {
 
 .myPic{
     border-style: dotted; 
-    border-top-right-radius: 50%;
+    border-width: 10px;
     border-color: #ecdffc; 
+    border-top-right-radius: 50%;
     border-bottom-left-radius: 50%; 
     width: 90%;
-    align-self: center;
 }
 body {
-    margin-left: 10px;
-    
     padding: 0px;
+    text-align: center;
     background-size: cover;
     background-color: #BC90DB;
 }
@@ -75,3 +70,8 @@ li {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #370522;
 }
+.content {
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+  }
