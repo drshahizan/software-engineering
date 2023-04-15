@@ -22,7 +22,13 @@ Group NikoNikoNee
 
 ### Contents:
 #### Notes
-- [The Importance of Software Engineering](#the-importance-of-software-engineering)
+- Software process models
+- Plan Driven and Agile process
+- Waterfall Model
+- Incremental model
+- Reuse oriented software engineering
+- Spiral model: coping with change
+- The Rational Unified Process(RUP)
 
 ### Others
 - [Software Engineering | Introduction to Software Engineering](https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/)
