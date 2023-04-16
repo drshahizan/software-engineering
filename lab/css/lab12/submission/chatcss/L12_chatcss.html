@@ -1,22 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <title>Lab: Text & Box Model</title>
-        <!--
+    <!--
     Lab 12: Text and Box Model
-        Group:
-    1. Name: [Name], Matrix No: [Matrix Number], Github ID: [Github ID]
-    2. Name: [Name], Matrix No: [Matrix Number], Github ID: [Github ID]
-    3. Name: [Name], Matrix No: [Matrix Number], Github ID: [Github ID]
-    4. Name: [Name], Matrix No: [Matrix Number], Github ID: [Github ID]
+    Group:
+    1. Name: CAMILY TANG JIA LEI, Matrix No: A22EC0039, Github ID: camilytang
+    2. Name: CHAI YU TONG, Matrix No: A22EC0145, Github ID: Yutongchai
+    3. Name: MUHAMMAD DANIAL BIN AHMAD SYAHIR, Matrix No: A22EC0206, Github ID: daniallllllll
+    4. Name: NEO ZHENG WENG, Matrix No: A2EC0093, Github ID: zw-weng
     -->
 
-    <link
-        href="https://fonts.googleapis.com/css?family=Indie+Flower"
-        rel = "stylesheet"
-        type="text/css"
-    />
+    <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet" type="text/css" />
 
     <style>
         #header {
@@ -64,18 +61,147 @@
             text-align: right;
         }
 
+        #text3 {
+            text-align: center;
+            display: flex;
+            align-items: center;
+            border: 0;
+            padding-left: 8%;
+            padding-right: 5%;
+        }
+
+        #text3 span {
+            background-color: #eaeaf0;
+            width: 100px;
+            height: 100px;
+            margin: 2%;
+            justify-content: center;
+            display: flex;
+            align-items: center;
+        }
+
+        #text3-box1 {
+            border: 2px solid #9799a7;
+        }
+
+        #text3-box2 {
+            border: 6px double #9799a7;
+        }
+
+        #text3-box3 {
+            border: 8px dashed #9799a7;
+        }
+
+        #text3-box4 {
+            border: 4px dotted #9799a7;
+        }
+
+
+        #text3-box5 {
+            border-radius: 5px;
+        }
+
+        #text3-box6 {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+        }
+
+        #text3-box7 {
+            width: 15px;
+            height: 75px;
+            border-radius: 50%;
+            transform: skew(-155deg);
+        }
+
+        #text4 {
+            border: 0px;
+            height: 450px;
+            width: 600px;
+            padding-left: 8%;
+            padding-right: 5%;
+        }
+
+        #text4-box {
+            width: 400px;
+            height: 170px;
+            align-items: center;
+            background-color: yellow;
+            padding: 40px;
+            margin: 30px;
+            border: inset 15px blue;
+        }
+
+        .box2 {
+            border: 40px solid greenyellow;
+            width: 300px;
+            height: 200px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        .item1 {
+            text-align: center;
+            font-weight: bold;
+            font-size: 16px;
+        }
+
+        .item2 {
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: orange;
+            width: 200px;
+            height: 70px;
+            font-weight: bold;
+            font-size: 24px;
+            margin: 0 auto;
+        }
+
+        .box3 {
+            margin: 0 auto;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border: 3px solid rgb(42, 75, 165);
+            background-color: rgba(1, 247, 177, 0.483);
+            width: 500px;
+            height: 500px;
+        }
+
+        .photo {
+            border: 5px dotted rgb(251, 0, 255);
+        }
+
+        #lab6-text2 {
+            border: 6px dashed rgb(248, 80, 3);
+            overflow-y: scroll;
+            text-align: left;
+            height: 200px;
+            width: 470px;
+        }
+
+        .lab6-text3 {
+            font-weight: bold;
+            text-decoration: underline;
+        }
     </style>
 </head>
+
 <body>
     <!-- Lab 1 -->
     <h1 id="header">Lab 1: Google Font</h1>
-    <div id = "text1">
-        UTM has three campuses ─ the main campus is in Skudai, and was the first university in the state of <br> 
-        Johor. It has an area of 1148 hectares[9] and is the second largest university after Universiti Putra <br> 
-        Malaysia (UPM). It is about 20 km north of the state capiral, Johor Bahru. The branch campus is situated <br> 
-        in Jalan Semarak within Kuala Lumpur, with an area of 38 hectares.[9] The branch campus <br> 
+    <div id="text1">
+        UTM has three campuses ─ the main campus is in Skudai, and was the first university in the state of <br>
+        Johor. It has an area of 1148 hectares[9] and is the second largest university after Universiti Putra <br>
+        Malaysia (UPM). It is about 20 km north of the state capital, Johor Bahru. The branch campus is situated <br>
+        in Jalan Semarak within Kuala Lumpur, with an area of 38 hectares.[9] The branch campus <br>
         accomodate diploma students, part-time students (also known as the SPACE program), <br>
-        undergraduate students (Malaysia-Jalan International Institute of Technology) and foreign students taking <br> 
+        undergraduate students (Malaysia-Jalan International Institute of Technology) and foreign students taking <br>
         business courses.
     </div>
 
@@ -84,8 +210,9 @@
     <h1 id="header">Lab 2: Style first letter, first line & last line</h1>
     <div id="text2">
         <p id="text2-para1">
-            <span id="text2-firstletter">T</span>he history of technical education in this country has been a century old. It all began in
-            1904 when a Tehnical School began its operation on Weld Road (now Jalan Raja Chulan) to 
+            <span id="text2-firstletter">T</span>he history of technical education in this country has been a century
+            old. It all began in
+            1904 when a Tehnical School began its operation on Weld Road (now Jalan Raja Chulan) to
             teach Technical Assistants for the Federated Malay States Department of Railways, Survey
             and Public Works.
         </p>
@@ -93,7 +220,8 @@
         <br>
 
         <p id="text2-para2">
-            <span id="text2-firstletter">T</span>he school was officially known as Treacher Technical School, named after Sir William <br>
+            <span id="text2-firstletter">T</span>he school was officially known as Treacher Technical School, named
+            after Sir William <br>
             Treacher, the Resident General during that time. Students followed classes on part-time <br>
             bases; they worked and trained specifically according to the technical needs of their <br>
             employment.
@@ -102,7 +230,8 @@
         <br>
 
         <p id="text2-para3">
-            <span id="text2-firstletter">D</span>epartment In 1941, Advisory Committee of Technical Schools and the Education <br>
+            <span id="text2-firstletter">D</span>epartment In 1941, Advisory Committee of Technical Schools and the
+            Education <br>
             recommended that the Technical School be elevated to a college status and proposed that a <br>
             new Technical College he constructed. The new college was to be built on a 47-acre piece of <br>
             Government land in Gurney Road (now Jalan Semarak), Kuala Lumpur. Plans for the <br>
@@ -110,5 +239,75 @@
             Peninsular Malaysia.
         </p>
     </div>
+
+
+    <!-- Lab 3 -->
+    <h1 id="header">Lab 3: Border</h1>
+    <div id="text3">
+        <span id="text3-box1"> 2px <br> solid </span>
+        <span id="text3-box2"> 6px <br> double </span>
+        <span id="text3-box3"> 8px <br> dashed </span>
+        <span id="text3-box4"> 4px <br> dotted </span>
+
+        <br>
+
+        <span id="text3-box5"> 5px </span>
+        <span id="text3-box6"> 50% </span>
+        <span id="text3-box7">15px 75px</span>
+    </div>
+
+
+    <!-- Lab 4 -->
+    <h1 id="header">Lab 4: Box Model 1</h1>
+    <div id="text4-box">
+        <div id="text4">
+            <p>
+                This text is the content of the box. We have added a <br>
+                40px padding, 30px margin and a 15px inset blue.
+            </p>
+
+            <p>
+                University of Technology Malaysia (UTM) (Malay: <br>
+                Universiti Teknologi Malaysia) is a premier <br>
+                Malaysian public research-intensive university ranked <br>
+                187th in the world by QS University rankings. Its <br>
+                medium of instruction is English.
+            </p>
+        </div>
+    </div>
+
+
+    <!-- Lab 5 -->
+    <h1 id="header">Lab 5: Box Model 2</h1>
+    <div class="box2">
+        <div class="item2">Web <br> Programming</div>
+        <div class="item1">CSS Box Model</div>
+    </div>
+
+
+    <!-- Lab 6 -->
+    <h1 id="header">Lab 6: Box Model 3</h1>
+    <div class="box3">
+        <span id="lab6-text2">
+            <span class="lab6-text3"> UTM has three campuses ─ the main campus is in Skudai, and was the first university in the state of
+            Johor.</span> It has an area of 1148 hectares[9] and is the second largest university after Universiti Putra
+            Malaysia (UPM). It is about 20 km north of the state capital, Johor Bahru. The new branch campus located
+            in Pagoh was officially opened on 2 May 2017. Universiti Teknologi Malaysia Innovation Centre in
+            Agritechnology
+            for Advanced Bioprocessing (UTM-ICA) is strategically located off the Pagoh interchange on the north-south
+            expressway, in the district of Muar, Johor. <br>
+
+            <span class="lab6-text3"> The branch campus is situated in Jalan Semarak within, with an area of 38 hectares. </span> 
+            The branch campus accommodates diploma students, part-time students (also known as the SPACE program), undergraduate
+            students (Malaysia-Japan International Institute of Technology) and foreign students taking business courses. <br>
+
+            <span class="lab6-text3"> The new branch campus located in Pagoh was officially opened on 2 May 2017. </span> 
+            Universiti Teknologi Malaysia Innovation Centre in Agritechnology for Advanced Bioprocessing (UTM-ICA) is strategically located off the
+            Pagoh interchange on the north–south expressway, in the district of Muar, Johor. A 50-hectare campus equipped with
+            shared facilities integrated with Bandar University Pagoh.
+        </span>
+
+    </div>
 </body>
+
 </html>
