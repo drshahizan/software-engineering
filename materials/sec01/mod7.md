@@ -183,12 +183,14 @@ components so that we can build our system piece by piece. An object is the fund
   <li><b>Abstraction – </b>Mechanism by which implementation details are hidden from user</li>
   <li><b>Encapsulation – </b>Binding data together and protecting it from the outer world is referred to as encapsulation.</li>
   <li><b>Polymorphism – </b>Mechanism by which functions or entities are able to exist in different forms.</li>
+</ul>
   
 ### Why we need UML?
 <ul type="bullet">
   <li>Complex applications need collaboration and planning from multiple teams and hence require a clear and concise way to communicate amongst them.</li>
   <li>Businessmen do not understand code. So UML becomes essential to communicate with non programmers essential requirements, functionalities and processes of the system.</li>
   <li>A lot of time is saved down the line when teams are able to visualize processes, user interactions and static structure of the system.</li>
+</ul>
 
 ## 7.4 Use Case Realization
 ### An Example of a Complete Design Sequence Diagram
