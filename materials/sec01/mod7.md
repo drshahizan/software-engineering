@@ -171,8 +171,18 @@ Group Four Peas in Pod
   Unified Modeling Language (UML) is a general purpose modelling language. The main aim of UML is to define a standard way to visualize the way a system has been designed. It is quite similar to blueprints used in other fields of engineering.
 
 UML is not a programming language, it is rather a visual language. We use UML diagrams to portray the behavior and structure of a system. UML helps software engineers, businessmen and system architects with modelling, design and analysis. The Object Management Group (OMG) adopted Unified Modelling Language as a standard in 1997. Its been managed by OMG ever since. International Organization for Standardization (ISO) published UML as an approved standard in 2005. UML has been revised over the years and is reviewed periodically.
-  
-  </p>
+</p>
+
+### Object Oriented Concepts Used in UML
+
+<ul typr ="bullet">
+  <li><b>Class - </b>A class defines the blue print i.e. structure and functions of an object.</li>
+  <li><b>Objects – </b>Objects help us to decompose large systems and help us to modularize our system. Modularity helps to divide our system into understandable
+components so that we can build our system piece by piece. An object is the fundamental unit (building block) of a system which is used to depict an entity.</li>
+  <li><b>Inheritance – </b>Inheritance is a mechanism by which child classes inherit the properties of their parent classes.</li>
+  <li><b>Abstraction – </b>Mechanism by which implementation details are hidden from user</li>
+  <li><b>Encapsulation – </b>Binding data together and protecting it from the outer world is referred to as encapsulation.</li>
+  <li><b>Polymorphism – </b>Mechanism by which functions or entities are able to exist in different forms.</li>
 
 ## 7.4 Use Case Realization
 ### An Example of a Complete Design Sequence Diagram
