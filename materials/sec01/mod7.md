@@ -200,11 +200,12 @@ Group Four Peas in Pod
     <li>Security where only certain classes (DAO) can access the database information.
     <li>Click the video link below to know more about Data Access Object Design Pattern</li>
     https://www.youtube.com/watch?v=9fVQ_mvzV48
-    <ul type="bullet">
+  
+   <ul type="bullet">
      <b>Example of implentation:</b>
      <li>Cloud database without sql such as Firebase</li>
      <li>JDBC</li>
-    </ul>
+   </ul>
      
  #### Update Design Class Diagram
  <ul type="bullet">
