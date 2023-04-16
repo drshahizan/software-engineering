@@ -186,28 +186,29 @@ Group Four Peas in Pod
   http://www.cs.sjsu.edu/~pearce/modules/lectures/ooa/analysis/ecb.htm
   </ul>
   
-   #### Step 2: Add CONTROL Classes in Sequence Diagram
+#### Step 2: Add CONTROL Classes in Sequence Diagram
    <ul type="bullet">
     <li>An artifact invented by the designer to <b>handle a system function</b>
     <li>A <b>single</b> use case controller results in <b>low cohesion</b>
     <li><b>Several</b> use case controllers raise coupling but result in <b>high cohesion</b>
     </ul>
     
-   #### Step 3: Add DATA ACESS Classes in Sequence Diagram
+ #### Step 3: Add DATA ACESS Classes in Sequence Diagram
    <ul type="bullet">
     <b>The purpose of DAO is for:</b>
     <li>Easier to change database without changing other classes
     <li>Security where only certain classes (DAO) can access the database information.
     <li>Click the video link below to know more about Data Access Object Design Pattern</li>
     https://www.youtube.com/watch?v=9fVQ_mvzV48
+  </ul>
   
    <ul type="bullet">
      <b>Example of implentation:</b>
      <li>Cloud database without sql such as Firebase</li>
      <li>JDBC</li>
    </ul>
-     
- #### Update Design Class Diagram
+    
+#### Update Design Class Diagram
  <ul type="bullet">
   <li>Add classes for the <b>view & data access layes</li>
   <li>Update Classes with method signatures:
@@ -218,10 +219,34 @@ Group Four Peas in Pod
   <li>Every <b>message</b> in a sequence diagram requires a method in the destination object</li>
  </ul>
  
- #####Sequence Diagram vs Domain Model 
- What is the difference between domain model and design class diagram?
- ###### In design model you have to specify the type of properties and methods etc, while in domain model you only have to write them without anything additional(just like in real world). For example, value: int in design model will be written as value in domain model.
-<img src="SQvsDM.png">
+#####  Sequence Diagram vs Domain Model 
+<ul type="bullet">
+  <li>What is the difference between domain model and design class diagram?</li>
+In design model you have to specify the type of properties and methods etc, while in domain model you only have to write them without anything additional(just like in real world). For example, value: int in design model will be written as value in domain model.
+<li>What is Sequence Diagram ? Know more by clicking the link below</li>
+  https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/
+ <li>What is Domain Model?Find out more by entering the link below.</li>
+https://en.wikipedia.org/wiki/Domain_model#:~:text=In%20software%20engineering%2C%20a%20domain,grounded%20in%20a%20description%20logic.
+</ul>
+  
+  
+### KeyPoints
+<ul type="bullet">
+  <li>Object-oriented detailed design is a low level design involves the identification and description of sets of objects that must work together for each use case</li>
+  <li>Fundamental design principles include encapsulation, object reuse, information hiding, navigation visibility, cohesion, coupling and separation of responsibilities.</li>
+  <li>Models involved in detailed design from analysis stage are class diagram and sequence diagram</li>
+  <li>Classes with related resonsibilites should be grouped in a package as a subsystem of the system</li>
+  </ul>
+ 
+### Finding more infomation or Videos about Object-Oriented Detailed Design ?
+### Here are some videos for you !
+<ol type=1>
+  <li>https://youtu.be/VnVHgj6OPrQ</li>
+  <li>https://youtu.be/m_MQYyJpIjg</li>
+  <li>https://youtu.be/Ej_02ICOIgs</li>
+  <li>https://youtu.be/VnVHgj6OPrQ</li>
+  
+
  
   
  
