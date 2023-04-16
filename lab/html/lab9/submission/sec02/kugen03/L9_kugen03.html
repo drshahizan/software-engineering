@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab 9</title>
+</head>
+<!--Name : Kugen a/l Kalidas
+    Matrix No : A22EC0178
+    Github ID : kugen03
+-->
+<body>
+    <style>
+        h1{
+            text-align: center;
+
+        }
+
+    </style>
+    <h1 style = " font-family: verdana ;color: blue;">Medical form</h1>
+
+    <form action="/action_page.php">
+
+        <fieldset style="width: 70%;">
+            <legend>Persoanl Information</legend>
+            <style>
+                table,th, td {
+                  border:1px solid black;
+                }
+            </style>
+            <table style="width:50%">
+
+                <tr>
+                    <td><label for="fname">First name</label></td>
+                    <td style="width:10%"><input type="text" id="fname" name="fname"></td>
+                    <td>Gender</td>
+                    <td style="width:25%"><input type="radio" id="html" name="fav_language" value="HTML"><label for="html">Female</label><input type="radio" id="html" name="fav_language" value="HTML"><label for="html">Male</label></td>
+                </tr>
+
+                <tr>
+                    <td><label for="fname">Last name</label></td>
+                    <td style="width:10%"><input type="text" id="fname" name="fname"></td>
+                    <td>Nationality</td>
+                    <td style="width:25%">
+                        <select id="cars" name="cars">
+                        <option value="volvo">Malaysian</option>
+                        <option value="saab">Canadian</option>
+                        <option value="fiat">Japanese</option>
+                        <option value="audi">Korean</option>
+                      </select>
+                </tr>
+
+                <tr>
+                    <td>Address</td>
+                    <td colspan="3" style="height:10%"><textarea name="message" rows="5" cols="30"></textarea></td>
+                </tr>
+
+            </table>
+        
+            <br>
+        </fieldset>
+    
+
+    
+
+        <fieldset style="width:70%">
+            <legend>Medical History</legend>
+            <input type="checkbox" id="dis1" name="dis1" value="Smallpox">
+            <label for="dis1"> Smallpox</label>
+            <input type="checkbox" id="dis2" name="dis2" value="Mumps">
+            <label for="dis2"> Mumps</label>
+            <input type="checkbox" id="dis3" name="dis3" value="Dizziness">
+            <label for="dis3"> Dizziness</label>
+            <input type="checkbox" id="dis4" name="dis4" value="Sneezing">
+            <label for="dis4"> Sneezing</label>
+            <br>
+        </fieldset>
+    
+
+
+        <fieldset style="width:90%">
+            <legend>Current Medication</legend>
+            <td>Are you currently taking any medication? <td style="width:25%"><input type="radio" id="html" name="fav_language" value="HTML"><label for="html">Yes</label><input type="radio" id="html" name="fav_language" value="HTML"><label for="html">No</label></td></td>
+            <br><td>If you are currently taking medication, please indicate it in the space below:</td><br>
+            <textarea name="message" rows="10" cols="200"></textarea>
+        </fieldset>
+        <br>
+
+
+
+        <input type="submit" value="Submit">
+        <input type="reset" value="Reset">
+
+    </form>
+
+
+    
+
+
+    
+</body>
+</html>
