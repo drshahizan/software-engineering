@@ -47,7 +47,7 @@ By the end of this module, students will be able to:
 
 ## Module outline 
 ## I. Introduction
-#### Overview of requirements analysis and modeling
+#### -Overview of requirements analysis and modeling
 <p>Requirement analysis is the process of identifying, defining, and documenting the needs and constraints of a system, product, or project. It involves gathering and analyzing information from stakeholders, users, and other sources to determine the features and functions that the system should have to meet the desired outcomes.</p>
 
 <p>Requirement analysis includes activities such as eliciting and documenting user requirements, prioritizing and evaluating requirements, validating requirements against business objectives, and developing use cases and other specifications. The goal of requirement analysis is to ensure that the final product or system meets the needs of the stakeholders and end-users and is delivered within the constraints of time, budget, and other resources.</p>
@@ -61,38 +61,47 @@ By the end of this module, students will be able to:
 
 <p>These are just a few examples, but requirement analysis is a critical component of any project or system development effort, regardless of the industry or sector.</p>
   
-#### Importance of requirements analysis and modeling in software development
+#### -Importance of requirements analysis and modeling in software development
 ## II. Part I: Requirements Modeling Concept
 ### A. Understanding the Concept of Requirements Modeling
-#### Definition of requirements modeling
-#### Importance of requirements modeling in software development
-#### Key characteristics of effective requirements models
-- Techniques for eliciting requirements
-- Stakeholder identification and analysis
-- Interviews, surveys, and focus groups
-- Prototyping and brainstorming
-- Observations and ethnography
-
-### 3. Requirements Modeling
-- Overview of requirements modeling
-- Use case diagrams
-- Activity diagrams
-- State diagrams
-- Other modeling techniques
-
-### 4. Requirements Validation and Prioritization
-- Overview of requirements validation and prioritization
-- Validation techniques, such as prototyping and reviews
-- Prioritization techniques, such as MoSCoW and Kano analysis
-
-### 5. Requirements Management
-- Overview of requirements management
-- Traceability and change management
-- Tools for requirements management, such as requirements management software and version control systems
-
-### 6. Conclusion
-- Recap of key concepts
-- Future directions in requirements analysis and modeling
+#### -Definition of requirements modeling
+#### -Importance of requirements modeling in software development
+#### -Key characteristics of effective requirements models
+### B. Techniques for Requirements Modeling
+### 1. Use Case Modeling and Specification
+#### -Definition and purpose of use case modeling and specification
+#### -Techniques for creating use case models (e.g. actors, use cases, scenarios)
+#### -Best practices for creating effective use case models
+### 2. Domain Modeling
+#### -Definition and purpose of domain modeling
+#### -Techniques for creating domain models (e.g. identifying objects, classes, and relationships)
+#### -Best practices for creating effective domain models
+### 3. Activity Diagram
+#### -Definition and purpose of activity diagrams
+#### -Techniques for creating activity diagrams (e.g. actions, transitions, branches)
+#### -Best practices for creating effective activity diagrams
+### 4. Sequence Diagram
+#### -Definition and purpose of sequence diagrams
+#### -Techniques for creating sequence diagrams (e.g. actors, objects, messages)
+#### -Best practices for creating effective sequence diagrams
+### 5. State Chart/State Machine Diagram
+#### -Definition and purpose of state chart/state machine diagrams
+#### -Techniques for creating state chart/state machine diagrams (e.g. states, events, transitions)
+#### -Best practices for creating effective state chart/state machine diagrams
+## III. Part II: Requirements Document
+### A. Understanding the Requirements Document
+#### -Definition of the requirements document
+#### -Importance of the requirements document in software development
+#### -Key components of the requirements document
+### B. Software Requirements Specification (SRS)
+#### 1. Definition and purpose of SRS
+#### 2. Importance of SRS in software development
+#### 3. Key components of SRS (e.g. functional requirements, non-functional requirements, system constraints)
+#### 4. Techniques for creating effective SRS documents
+#### 5. Best practices for reviewing and validating SRS documents
+### C. Managing Changes to the Requirements Document
+#### -Techniques for managing changes to the requirements document (e.g. traceability matrix, change control)
+#### -Best practices for managing changes to the requirements document
 
 
 ## Contribution 🛠️
