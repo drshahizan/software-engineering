@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab: Text & Box Model</title>
+        <!--
+    Lab 12: Text and Box Model
+        Group:
+    1. Name: [Name], Matrix No: [Matrix Number], Github ID: [Github ID]
+    2. Name: [Name], Matrix No: [Matrix Number], Github ID: [Github ID]
+    3. Name: [Name], Matrix No: [Matrix Number], Github ID: [Github ID]
+    4. Name: [Name], Matrix No: [Matrix Number], Github ID: [Github ID]
+    -->
+
+    <link
+        href="https://fonts.googleapis.com/css?family=Indie+Flower"
+        rel = "stylesheet"
+        type="text/css"
+    />
+
+    <style>
+        #header {
+            text-align: center;
+        }
+
+        #text1 {
+            font-family: indie flower;
+            text-align: center;
+            border: 3px solid green;
+            height: 210px;
+            width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #text2 {
+            border: 0px;
+            height: 450px;
+            width: 600px;
+            padding-left: 8%;
+            padding-right: 5%;
+        }
+
+        #text2-firstletter {
+            color: red;
+            font-weight: bold;
+            font-size: 150%;
+        }
+
+        #text2-para1 {
+            color: salmon;
+            text-align: justify;
+        }
+
+        #text2-para2 {
+            text-align: left;
+        }
+
+        #text2-para3 {
+            color: green;
+            text-align: right;
+        }
+
+    </style>
+</head>
+<body>
+    <!-- Lab 1 -->
+    <h1 id="header">Lab 1: Google Font</h1>
+    <div id = "text1">
+        UTM has three campuses ─ the main campus is in Skudai, and was the first university in the state of <br> 
+        Johor. It has an area of 1148 hectares[9] and is the second largest university after Universiti Putra <br> 
+        Malaysia (UPM). It is about 20 km north of the state capiral, Johor Bahru. The branch campus is situated <br> 
+        in Jalan Semarak within Kuala Lumpur, with an area of 38 hectares.[9] The branch campus <br> 
+        accomodate diploma students, part-time students (also known as the SPACE program), <br>
+        undergraduate students (Malaysia-Jalan International Institute of Technology) and foreign students taking <br> 
+        business courses.
+    </div>
+
+
+    <!-- Lab 2 -->
+    <h1 id="header">Lab 2: Style first letter, first line & last line</h1>
+    <div id="text2">
+        <p id="text2-para1">
+            <span id="text2-firstletter">T</span>he history of technical education in this country has been a century old. It all began in
+            1904 when a Tehnical School began its operation on Weld Road (now Jalan Raja Chulan) to 
+            teach Technical Assistants for the Federated Malay States Department of Railways, Survey
+            and Public Works.
+        </p>
+
+        <br>
+
+        <p id="text2-para2">
+            <span id="text2-firstletter">T</span>he school was officially known as Treacher Technical School, named after Sir William <br>
+            Treacher, the Resident General during that time. Students followed classes on part-time <br>
+            bases; they worked and trained specifically according to the technical needs of their <br>
+            employment.
+        </p>
+
+        <br>
+
+        <p id="text2-para3">
+            <span id="text2-firstletter">D</span>epartment In 1941, Advisory Committee of Technical Schools and the Education <br>
+            recommended that the Technical School be elevated to a college status and proposed that a <br>
+            new Technical College he constructed. The new college was to be built on a 47-acre piece of <br>
+            Government land in Gurney Road (now Jalan Semarak), Kuala Lumpur. Plans for the <br>
+            construction of the college, however, were put on hold when World War II erupted in <br>
+            Peninsular Malaysia.
+        </p>
+    </div>
+</body>
+</html>

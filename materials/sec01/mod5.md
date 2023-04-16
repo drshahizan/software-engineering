@@ -47,21 +47,28 @@ By the end of this module, students will be able to:
 
 ## Module outline 
 ## I. Introduction
-#### -Overview of requirements analysis and modeling
-<p>Requirement analysis is the process of identifying, defining, and documenting the needs and constraints of a system, product, or project. It involves gathering and analyzing information from stakeholders, users, and other sources to determine the features and functions that the system should have to meet the desired outcomes.</p>
+### Overview of requirements analysis and modeling
+Requirements analysis is a crucial phase in the software development life cycle that involves understanding, documenting, and validating the needs of stakeholders for a software system. This phase helps to ensure that the final product meets the expectations of users, business owners, and other stakeholders.
 
-<p>Requirement analysis includes activities such as eliciting and documenting user requirements, prioritizing and evaluating requirements, validating requirements against business objectives, and developing use cases and other specifications. The goal of requirement analysis is to ensure that the final product or system meets the needs of the stakeholders and end-users and is delivered within the constraints of time, budget, and other resources.</p>
+Requirements modeling, on the other hand, involves creating a visual representation of the requirements using various techniques and tools. These models help to communicate the requirements clearly to all stakeholders and provide a basis for designing and developing the software system.
 
-<p>Here are some examples of requirement analysis:</p>
-<ul><li>Developing a new software application: In this case, requirement analysis involves identifying the key features and functionalities that the software must have, such as user interfaces, data storage and retrieval, security, and performance. The analysis may involve gathering input from stakeholders, creating user stories and use cases, and prioritizing requirements based on their importance and feasibility.</li>
+There are different approaches to requirements analysis and modeling, but some common steps include:
 
-<li>Building a new website: Requirement analysis for a website may involve identifying the target audience, understanding their needs and preferences, and defining the content and layout of the website. It may also involve determining the necessary technical specifications, such as the required hosting environment, database integration, and content management system.</li>
+**Elicitation:** This involves gathering information from stakeholders to understand their needs, expectations, and constraints.
 
-<li>Designing a new car: In this case, requirement analysis would involve identifying the needs and preferences of potential customers, as well as regulatory and safety requirements. The analysis would consider factors such as performance, fuel efficiency, safety features, and design elements, such as color and style.</li></ul>
+**Analysis:** This involves organizing and categorizing the requirements to identify commonalities, conflicts, and ambiguities.
 
-<p>These are just a few examples, but requirement analysis is a critical component of any project or system development effort, regardless of the industry or sector.</p>
-  
-#### -Importance of requirements analysis and modeling in software development
+**Specification:** This involves documenting the requirements in a clear and concise manner using techniques such as use cases, user stories, or functional requirements.
+
+**Validation:** This involves reviewing and testing the requirements to ensure they are complete, correct, and consistent.
+
+**Modeling:** This involves creating visual representations of the requirements using techniques such as data flow diagrams, entity-relationship diagrams, or use case diagrams.
+
+Requirements modeling techniques help to represent the requirements in a way that is easy to understand for stakeholders with varying levels of technical expertise. For example, use case diagrams show the interactions between actors and the system, while data flow diagrams show how data moves through the system.
+
+Overall, requirements analysis and modeling are critical for the success of software development projects as they ensure that the software system meets the needs of stakeholders and is delivered on time and within budget.
+<p align="center"><img src="https://static.wixstatic.com/media/04b97c_f2ddf302a9e940ae872dfa8145629a7c~mv2.jpg/v1/fit/w_1000%2Ch_720%2Cal_c%2Cq_80,enc_auto/file.jpg" width="700px" height="300px"/></p>
+
 ## II. Part I: Requirements Modeling Concept
 ### A. Understanding the Concept of Requirements Modeling
 #### -Definition of requirements modeling
