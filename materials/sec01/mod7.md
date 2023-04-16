@@ -175,7 +175,7 @@ UML is not a programming language, it is rather a visual language. We use UML di
 
 ### Object Oriented Concepts Used in UML
 
-<ul typr ="bullet">
+<ul type ="bullet">
   <li><b>Class - </b>A class defines the blue print i.e. structure and functions of an object.</li>
   <li><b>Objects – </b>Objects help us to decompose large systems and help us to modularize our system. Modularity helps to divide our system into understandable
 components so that we can build our system piece by piece. An object is the fundamental unit (building block) of a system which is used to depict an entity.</li>
@@ -183,6 +183,12 @@ components so that we can build our system piece by piece. An object is the fund
   <li><b>Abstraction – </b>Mechanism by which implementation details are hidden from user</li>
   <li><b>Encapsulation – </b>Binding data together and protecting it from the outer world is referred to as encapsulation.</li>
   <li><b>Polymorphism – </b>Mechanism by which functions or entities are able to exist in different forms.</li>
+  
+### Why we need UML?
+<ul type="bullet">
+  <li>Complex applications need collaboration and planning from multiple teams and hence require a clear and concise way to communicate amongst them.</li>
+  <li>Businessmen do not understand code. So UML becomes essential to communicate with non programmers essential requirements, functionalities and processes of the system.</li>
+  <li>A lot of time is saved down the line when teams are able to visualize processes, user interactions and static structure of the system.</li>
 
 ## 7.4 Use Case Realization
 ### An Example of a Complete Design Sequence Diagram
