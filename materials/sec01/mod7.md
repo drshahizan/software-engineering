@@ -205,8 +205,21 @@ Group Four Peas in Pod
      <li>Cloud database without sql such as Firebase</li>
      <li>JDBC</li>
      
-   #### Update Design Class Diagram
-    
+ #### Update Design Class Diagram
+ <ul type="bullet">
+  <li>Add classes for the <b>view & data access layes</li>
+  <li>Update Classes with method signatures:
+      <ol type="1">
+      <li>Constructir and get and set methods are optional</li>
+      <li>Use case specific methods are required</li>
+      </ol>
+  <li>Every <b>message</b> in a sequence diagram requires a method in the destination object</li>
+ </ul>
+ 
+ #####Sequence Diagram vs Domain Model 
+ What is the difference between domain model and design class diagram?
+ ###### In design model you have to specify the type of properties and methods etc, while in domain model you only have to write them without anything additional(just like in real world). For example, value: int in design model will be written as value in domain model.
+<img src="SQvsDM.png">
  
   
  
