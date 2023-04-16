@@ -47,7 +47,7 @@ By the end of this module, students will be able to:
 
 ## Module outline 
 ## I. Introduction
-### A. Overview of requirements analysis and modeling
+#### Overview of requirements analysis and modeling
 <p>Requirement analysis is the process of identifying, defining, and documenting the needs and constraints of a system, product, or project. It involves gathering and analyzing information from stakeholders, users, and other sources to determine the features and functions that the system should have to meet the desired outcomes.</p>
 
 <p>Requirement analysis includes activities such as eliciting and documenting user requirements, prioritizing and evaluating requirements, validating requirements against business objectives, and developing use cases and other specifications. The goal of requirement analysis is to ensure that the final product or system meets the needs of the stakeholders and end-users and is delivered within the constraints of time, budget, and other resources.</p>
@@ -61,8 +61,12 @@ By the end of this module, students will be able to:
 
 <p>These are just a few examples, but requirement analysis is a critical component of any project or system development effort, regardless of the industry or sector.</p>
   
-### B. Importance of requirements analysis and modeling in software development
-### 2. Requirements Elicitation
+#### Importance of requirements analysis and modeling in software development
+## II. Part I: Requirements Modeling Concept
+### A. Understanding the Concept of Requirements Modeling
+#### Definition of requirements modeling
+#### Importance of requirements modeling in software development
+#### Key characteristics of effective requirements models
 - Techniques for eliciting requirements
 - Stakeholder identification and analysis
 - Interviews, surveys, and focus groups
