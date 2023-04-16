@@ -206,8 +206,8 @@ Group Four Peas in Pod
      <li>Cloud database without sql such as Firebase</li>
      <li>JDBC</li>
    </ul>
-     
- #### Update Design Class Diagram
+    
+#### Update Design Class Diagram
  <ul type="bullet">
   <li>Add classes for the <b>view & data access layes</li>
   <li>Update Classes with method signatures:
@@ -237,7 +237,6 @@ https://en.wikipedia.org/wiki/Domain_model#:~:text=In%20software%20engineering%2
   <li>Classes with related resonsibilites should be grouped in a package as a subsystem of the system</li>
   </ul>
  
-  
 ### Finding more infomation or Videos about Object-Oriented Detailed Design ?<br>
 ### Here are some videos for you !
 <ol type=1>
