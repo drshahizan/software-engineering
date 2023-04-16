@@ -218,10 +218,35 @@ Group Four Peas in Pod
   <li>Every <b>message</b> in a sequence diagram requires a method in the destination object</li>
  </ul>
  
- #####Sequence Diagram vs Domain Model 
- What is the difference between domain model and design class diagram?
- ###### In design model you have to specify the type of properties and methods etc, while in domain model you only have to write them without anything additional(just like in real world). For example, value: int in design model will be written as value in domain model.
-<img src="SQvsDM.png">
+#####  Sequence Diagram vs Domain Model 
+<ul type="bullet">
+  <li>What is the difference between domain model and design class diagram?</li>
+<p>In design model you have to specify the type of properties and methods etc, while in domain model you only have to write them without anything additional(just like in real world). For example, value: int in design model will be written as value in domain model.</p>
+  <li>What is Sequence Diagram ? Know more by clicking the link below</li>
+  https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/
+  <li>What is Domain Model?Find out more by entering the link below.</li>
+  https://en.wikipedia.org/wiki/Domain_model#:~:text=In%20software%20engineering%2C%20a%20domain,grounded%20in%20a%20description%20logic.
+</ul>
+  
+  
+### KeyPoints
+<ul type="bullet">
+  <li>Object-oriented detailed design is a low level design involves the identification and description of sets of objects that must work together for each use case</li>
+  <li>Fundamental design principles include encapsulation, object reuse, information hiding, navigation visibility, cohesion, coupling and separation of responsibilities.</li>
+  <li>Models involved in detailed design from analysis stage are class diagram and sequence diagram</li>
+  <li>Classes with related resonsibilites should be grouped in a package as a subsystem of the system</li>
+  </ul>
+ 
+  
+### Finding more infomation or Videos about Object-Oriented Detailed Design ?<br>
+### Here are some videos for you !
+<ol type=1>
+  <li>https://youtu.be/VnVHgj6OPrQ</li>
+  <li>https://youtu.be/m_MQYyJpIjg</li>
+  <li>https://youtu.be/Ej_02ICOIgs</li>
+  <li>https://youtu.be/VnVHgj6OPrQ</li>
+  
+
  
   
  
