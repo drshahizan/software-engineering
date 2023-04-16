@@ -46,11 +46,24 @@ By the end of this module, students will be able to:
 - Manage changes in requirements throughout the software development lifecycle
 
 ## Module outline 
-### 1. Introduction to Requirements Analysis
-- Definition of requirements analysis
-- Importance of requirements analysis in software development
-- Overview of the requirements analysis process
-- Different types of requirements
+## 1. Introduction to Requirements Analysis
+### A. Definition of requirements analysis
+<p>Requirement analysis is the process of identifying, defining, and documenting the needs and constraints of a system, product, or project. It involves gathering and analyzing information from stakeholders, users, and other sources to determine the features and functions that the system should have to meet the desired outcomes.</p>
+
+<p>Requirement analysis includes activities such as eliciting and documenting user requirements, prioritizing and evaluating requirements, validating requirements against business objectives, and developing use cases and other specifications. The goal of requirement analysis is to ensure that the final product or system meets the needs of the stakeholders and end-users and is delivered within the constraints of time, budget, and other resources.</p>
+
+<p>Here are some examples of requirement analysis:</p>
+<ul><li>Developing a new software application: In this case, requirement analysis involves identifying the key features and functionalities that the software must have, such as user interfaces, data storage and retrieval, security, and performance. The analysis may involve gathering input from stakeholders, creating user stories and use cases, and prioritizing requirements based on their importance and feasibility.</li>
+
+<li>Building a new website: Requirement analysis for a website may involve identifying the target audience, understanding their needs and preferences, and defining the content and layout of the website. It may also involve determining the necessary technical specifications, such as the required hosting environment, database integration, and content management system.</li>
+
+<li>Designing a new car: In this case, requirement analysis would involve identifying the needs and preferences of potential customers, as well as regulatory and safety requirements. The analysis would consider factors such as performance, fuel efficiency, safety features, and design elements, such as color and style.</li></ul>
+
+<p>These are just a few examples, but requirement analysis is a critical component of any project or system development effort, regardless of the industry or sector.</p>
+  
+### B. Importance of requirements analysis in software development
+### C. Overview of the requirements analysis process
+### D. Different types of requirements
 
 ### 2. Requirements Elicitation
 - Techniques for eliciting requirements
