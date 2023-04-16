@@ -186,20 +186,21 @@ Group Four Peas in Pod
   http://www.cs.sjsu.edu/~pearce/modules/lectures/ooa/analysis/ecb.htm
   </ul>
   
-   #### Step 2: Add CONTROL Classes in Sequence Diagram
+#### Step 2: Add CONTROL Classes in Sequence Diagram
    <ul type="bullet">
     <li>An artifact invented by the designer to <b>handle a system function</b>
     <li>A <b>single</b> use case controller results in <b>low cohesion</b>
     <li><b>Several</b> use case controllers raise coupling but result in <b>high cohesion</b>
     </ul>
     
-   #### Step 3: Add DATA ACESS Classes in Sequence Diagram
+ #### Step 3: Add DATA ACESS Classes in Sequence Diagram
    <ul type="bullet">
     <b>The purpose of DAO is for:</b>
     <li>Easier to change database without changing other classes
     <li>Security where only certain classes (DAO) can access the database information.
     <li>Click the video link below to know more about Data Access Object Design Pattern</li>
     https://www.youtube.com/watch?v=9fVQ_mvzV48
+  </ul>
   
    <ul type="bullet">
      <b>Example of implentation:</b>
