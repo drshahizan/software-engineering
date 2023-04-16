@@ -46,8 +46,8 @@ By the end of this module, students will be able to:
 - Manage changes in requirements throughout the software development lifecycle
 
 ## Module outline 
-## 1. Introduction to Requirements Analysis
-### A. Definition of requirements analysis
+## I. Introduction
+### Overview of requirements analysis and modeling
 <p>Requirement analysis is the process of identifying, defining, and documenting the needs and constraints of a system, product, or project. It involves gathering and analyzing information from stakeholders, users, and other sources to determine the features and functions that the system should have to meet the desired outcomes.</p>
 
 <p>Requirement analysis includes activities such as eliciting and documenting user requirements, prioritizing and evaluating requirements, validating requirements against business objectives, and developing use cases and other specifications. The goal of requirement analysis is to ensure that the final product or system meets the needs of the stakeholders and end-users and is delivered within the constraints of time, budget, and other resources.</p>
