@@ -204,6 +204,7 @@ Group Four Peas in Pod
      <b>Example of implentation:</b>
      <li>Cloud database without sql such as Firebase</li>
      <li>JDBC</li>
+    </ul>
      
  #### Update Design Class Diagram
  <ul type="bullet">
