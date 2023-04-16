@@ -167,6 +167,13 @@ Group Four Peas in Pod
 
 ## 7.3 Object-Oriented Design Models using UML
 
+<p>
+  Unified Modeling Language (UML) is a general purpose modelling language. The main aim of UML is to define a standard way to visualize the way a system has been designed. It is quite similar to blueprints used in other fields of engineering.
+
+UML is not a programming language, it is rather a visual language. We use UML diagrams to portray the behavior and structure of a system. UML helps software engineers, businessmen and system architects with modelling, design and analysis. The Object Management Group (OMG) adopted Unified Modelling Language as a standard in 1997. Its been managed by OMG ever since. International Organization for Standardization (ISO) published UML as an approved standard in 2005. UML has been revised over the years and is reviewed periodically.
+  
+  </p>
+
 ## 7.4 Use Case Realization
 ### An Example of a Complete Design Sequence Diagram
 <br>![](http://agilemodeling.com/images/models/sequenceDiagramEnrollInSeminar.jpg)<br>
