@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<!--
+Name: Loo Jia Chang
+Matrix No: A22EC0074
+Github id: jcl03
+
+Lab 6: HTML Table
+-->
+<head>
+    <style>
+        body{
+            font-family: 'Times New Roman', Times, serif;
+        }
+        h1{
+            text-align: center;
+        }
+        table,th,td{
+            text-align: left;
+            border: 2px groove black;
+        }
+        .c{
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Web Programming: Time Table</h1>
+    <table>
+        <tr>
+            <th class = "c">Day/Period</th>
+            <th class = "c">I<br> 9:30-10:20</th>
+            <th class = "c">II<br> 10:20-11:10</th>
+            <th class = "c">III<br> 10:20-11:10</th>
+            <th class = "c">12:40-1:30</th>
+            <th class = "c">IV <br>12:40-1:30</th>
+            <th class = "c">V<br> 1:30-2:20</th>
+            <th class = "c">VI<br> 2:20-3:10</th>
+            <th class = "c">VII<br> 3:10-4:00</th>
+        </tr>
+        <tr>
+            <th><i>Monday</i></th>
+            <th>Eng</th>
+            <th>Math</th>
+            <th>Che</th>
+            <th rowspan="5" style="text-align:center; background-color: green;">LUNCH</th>
+            <th colspan="3" style="text-align:center; background-color: yellow;">LAB</th>
+            <th>Phy</th>
+        </tr>
+        <tr>
+            <th><i>Tuesday</i></th>
+            <th colspan="3" style="text-align:center; background-color: yellow;">LAB</th>
+            <th>Eng</th>
+            <th>Che</th>
+            <th>Math</th>
+            <th style="text-align:center; background-color: blue;">Sport</th>
+        </tr>
+        <tr>
+            <th><i>Wednesday</i></th>
+            <th>Math</th>
+            <th>Phy</th>
+            <th>Eng</th>
+            <th>Che</th>
+            <th colspan="3" class = "c">LIBRARY</th>
+
+        </tr>
+        <tr>
+            <th><i>Thursday</i></th>
+            <th>Phy</th>
+            <th>Eng</th>
+            <th>Che</th>
+            <th colspan="3" style="text-align:center; background-color: yellow;">LAB</th>
+            <th>Math</th>
+        </tr>
+        <tr>
+            <th><i>Friday</i></th>
+            <th>Phy</th>
+            <th>Eng</th>
+            <th>Che</th>
+            <th colspan="3" style="text-align:center; background-color: yellow;">LAB</th>
+            <th>Math</th>
+        </tr>
+    </table>
+</body>

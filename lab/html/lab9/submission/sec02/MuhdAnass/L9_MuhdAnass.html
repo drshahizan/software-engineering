@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>HTML Forms</title>
+        <!--
+            Name : Muhammad Anas Bin Mohd Pikri
+            Matric No : A21SC0464
+            Github ID: MuhdAnass
+        -->
+
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device width,initial-scale=2.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    </head>
+    <body>
+        <style>
+            .medBorder
+            {
+                height:150%;
+                font-family: verdana,Geneva,sans-serif;
+                background-color: white;
+                border:10px outset blue;
+                padding: 10px;
+            }
+
+        </style>
+        <style>
+            table,th,td
+            {
+                border:1px solid black;
+
+            }
+        </style>
+        <div class="medBorder">
+            <h1 style="text-align:center; font-family:Verdana,Geneva,sans-serif; color: blue"><b>Medical Form</b></h1>
+            <form action="/action_page.php">
+                <fieldset style="width:70%">
+                <legend>Personal Information</legend>
+                <table>
+                    <tr>
+                    <td><label for="fname">First Name</label></td>
+                    <td><input type="text" id="fname" name="fname"><br></td>
+                    <td>Gender</td>
+                    <td><input type="radio" id="html" name="gender" value="Female"></td>
+                    <label for="html">Female</label>
+                    <input type="radio" id="male" name="gender" value="Male">
+                    <label for="male">Male</label>
+                    </tr>
+
+                    <tr>
+                        <td>
+                            <label for="lname">Last Name</label>
+                        </td>
+                        <td>
+                            <input type="text" id="lname" name="lname"><br>
+                        </td>
+                        <td>
+                            Nationality
+                        </td>
+                        <td>
+                            <select id="Nationality" name="Nationality">
+                                <option value="Canadian">
+                                    Canadian
+                                </option>
+                            </select>
+                        </td>
+
+                    </tr>
+                    <tr style="height:100px">
+                        <td>
+                            Address
+                        </td>
+                        <td colspan="3">
+                            <textarea name="address" rows="6" cols="30"></textarea>
+                        </td>
+                    </tr>
+                    </tr>
+                </table>
+                </fieldset>
+            </form>
+        </div>
+    </body>
+</html>
