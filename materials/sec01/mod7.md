@@ -173,6 +173,17 @@ Group Four Peas in Pod
 UML is not a programming language, it is rather a visual language. We use UML diagrams to portray the behavior and structure of a system. UML helps software engineers, businessmen and system architects with modelling, design and analysis. The Object Management Group (OMG) adopted Unified Modelling Language as a standard in 1997. Its been managed by OMG ever since. International Organization for Standardization (ISO) published UML as an approved standard in 2005. UML has been revised over the years and is reviewed periodically.
 </p>
 
+### Design Models Artefacts
+<ul type="bullet">
+  <li>Involves an elaboration of the analysis model where we add detail and specific technical solutions</li>
+  <li>Contains the same sorts of things as the analysis model, but
+  <ul type="bullet">
+    <li>all the artefacts are more fully formed</li>
+    <li>must now include implementation details</li>
+  </ul>
+  <li>A fully specified design class with all completed attributes and operations including return types and parameter lists</li>
+</ul>
+
 ### Object Oriented Concepts Used in UML
 
 <ul type ="bullet">
