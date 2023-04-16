@@ -21,56 +21,88 @@ Group PowerPuff Boys
 
 ## Contents:
 ### Notes
-- [Introduction to Requirements Analysis](#1-introduction-to-requirements-analysis)
-- [Requirements Elicitation](#2-requirements-elicitation)
-- [Requirements Modeling](#3-requirements-modeling)
-- [Requirements Validation and Prioritization](#4-requirements-validation-and-prioritization)
-- [Requirements Management](#5-requirements-management)
+- [Overview of requirements analysis and modeling](#overview-of-requirements-analysis-and-modeling)
+- [Understanding the Concept of Requirements Modeling](#a-understanding-the-concept-of-requirements-modeling)
+- [Techniques for Requirements Modeling](#b-techniques-for-requirements-modeling)
+- [Understanding the Requirements Document](#a-understanding-the-requirements-document)
+- [Software Requirements Specification (SRS)](#b-software-requirements-specification-srs)
 
 ### Others
 - [What Is Requirements Analysis and Modelling?](https://techcanvass.com/blogs/requirements-analysis-and-modelling.aspx)
 
 
-## Overview
-
+<!--## Overview
 This module provides an overview of the requirements analysis and modeling process in software development. Students will learn the principles of requirements analysis, techniques for requirements elicitation, and tools for requirements modeling. Students will also gain an understanding of how to validate, prioritize, and manage requirements throughout the software development lifecycle.
-
-
 ## Learning Objectives
-
 By the end of this module, students will be able to:
 - Understand the importance of requirements analysis in software development
 - Apply techniques for eliciting requirements from stakeholders
 - Use tools for modeling requirements, such as use case diagrams, activity diagrams, and state diagrams
 - Validate and prioritize requirements based on stakeholder needs and constraints
-- Manage changes in requirements throughout the software development lifecycle
+- Manage changes in requirements throughout the software development lifecycle-->
+
 
 ## Module outline 
 ## I. Introduction
-#### -Overview of requirements analysis and modeling
-<p>Requirement analysis is the process of identifying, defining, and documenting the needs and constraints of a system, product, or project. It involves gathering and analyzing information from stakeholders, users, and other sources to determine the features and functions that the system should have to meet the desired outcomes.</p>
+### Overview of requirements analysis and modeling
 
-<p>Requirement analysis includes activities such as eliciting and documenting user requirements, prioritizing and evaluating requirements, validating requirements against business objectives, and developing use cases and other specifications. The goal of requirement analysis is to ensure that the final product or system meets the needs of the stakeholders and end-users and is delivered within the constraints of time, budget, and other resources.</p>
+Requirements analysis is a crucial phase in the software development life cycle that involves understanding, documenting, and validating the needs of stakeholders for a software system. This phase helps to ensure that the final product meets the expectations of users, business owners, and other stakeholders.
 
-<p>Here are some examples of requirement analysis:</p>
-<ul><li>Developing a new software application: In this case, requirement analysis involves identifying the key features and functionalities that the software must have, such as user interfaces, data storage and retrieval, security, and performance. The analysis may involve gathering input from stakeholders, creating user stories and use cases, and prioritizing requirements based on their importance and feasibility.</li>
+Requirements modeling, on the other hand, involves creating a visual representation of the requirements using various techniques and tools. These models help to communicate the requirements clearly to all stakeholders and provide a basis for designing and developing the software system.
 
-<li>Building a new website: Requirement analysis for a website may involve identifying the target audience, understanding their needs and preferences, and defining the content and layout of the website. It may also involve determining the necessary technical specifications, such as the required hosting environment, database integration, and content management system.</li>
+There are different approaches to requirements analysis and modeling, but some common steps include:
 
-<li>Designing a new car: In this case, requirement analysis would involve identifying the needs and preferences of potential customers, as well as regulatory and safety requirements. The analysis would consider factors such as performance, fuel efficiency, safety features, and design elements, such as color and style.</li></ul>
+<ul><li>Elicitation: This involves gathering information from stakeholders to understand their needs, expectations, and constraints.</li>
 
-<p>These are just a few examples, but requirement analysis is a critical component of any project or system development effort, regardless of the industry or sector.</p>
-  
-#### -Importance of requirements analysis and modeling in software development
+<li>Analysis: This involves organizing and categorizing the requirements to identify commonalities, conflicts, and ambiguities.</li>
+
+<li>Specification: This involves documenting the requirements in a clear and concise manner using techniques such as use cases, user stories, or functional requirements.</li>
+
+<li>Validation: This involves reviewing and testing the requirements to ensure they are complete, correct, and consistent.</li>
+
+<li>Modeling: This involves creating visual representations of the requirements using techniques such as data flow diagrams, entity-relationship diagrams, or use case diagrams.</li></ul>
+
+Requirements modeling techniques help to represent the requirements in a way that is easy to understand for stakeholders with varying levels of technical expertise. For example, use case diagrams show the interactions between actors and the system, while data flow diagrams show how data moves through the system.
+
+Overall, requirements analysis and modeling are critical for the success of software development projects as they ensure that the software system meets the needs of stakeholders and is delivered on time and within budget.
+<p align="center"><img src="https://static.wixstatic.com/media/04b97c_f2ddf302a9e940ae872dfa8145629a7c~mv2.jpg/v1/fit/w_1000%2Ch_720%2Cal_c%2Cq_80,enc_auto/file.jpg" width="700px" height="300px"/></p>
+
+
 ## II. Part I: Requirements Modeling Concept
 ### A. Understanding the Concept of Requirements Modeling
-#### -Definition of requirements modeling
-#### -Importance of requirements modeling in software development
-#### -Key characteristics of effective requirements models
-### B. Techniques for Requirements Modeling
+### <ul><li>Importance of requirements modeling in software development</li></ul>
+Requirements modeling is a critical phase in software development that involves creating a detailed description of the desired behavior and functionality of the software system to be developed. Here are some key reasons why requirements modeling is essential in software development:
+
+<ul><li>Establishing a common understanding: The process of requirements modeling helps establish a common understanding of the software system to be developed among all stakeholders. This includes the development team, customers, end-users, and other stakeholders. By creating a clear and comprehensive set of requirements, everyone involved in the project can have a shared understanding of what the software system should do.</li>
+
+<li>Defining project scope: Requirements modeling helps to define the scope of the software project by clarifying what features and functionality are within the scope of the project and what are not. This helps to avoid scope creep, which can lead to increased project costs, delays, and customer dissatisfaction.</li>
+
+<li>Minimizing rework: Requirements modeling helps to identify and correct issues early in the development process, reducing the likelihood of costly rework later. By understanding the requirements, the development team can identify potential issues or conflicts early on, reducing the risk of costly rework.</li>
+
+<li>Improving quality: Requirements modeling helps to ensure that the software system meets the needs of its users by specifying the required functionality and behavior. This helps to improve the quality of the software system and increases the likelihood that it will be successful in the market.</li>
+
+<li>Facilitating communication:** Requirements modeling provides a common language for communication between the development team and stakeholders. This helps to ensure that everyone has a clear understanding of the software system to be developed, reducing the likelihood of misunderstandings or miscommunications.</li></ul>
+
+### <ul><li>Key characteristics of effective requirements models</li></ul>
+<p align="center"><img src= "https://cs.ccsu.edu/~stan/classes/CS410/Notes16/images/05-activity_diagram_involuntary_detention.png" width="700px" height="400px"></p>
+
+
+## B. Techniques for Requirements Modeling
 ### 1. Use Case Modeling and Specification
-#### -Definition and purpose of use case modeling and specification
-#### -Techniques for creating use case models (e.g. actors, use cases, scenarios)
+### <ul><li>Definition and purpose of use case modeling and specification</li>
+  Use case modeling and specification is a technique used in software development to capture the functional requirements of a system by identifying and describing its interactions with actors, which could be users, other systems, or external entities.
+
+Use case modeling involves identifying the different use cases or scenarios that a user or system might encounter when interacting with the software. Each use case is described in terms of the steps or actions that the actor takes and the responses or outcomes of the system.
+
+Use case specification involves documenting the use cases in detail, including the actors involved, the preconditions, the steps or actions taken, the post-conditions or outcomes, and any exceptions or alternative paths that may occur.
+
+The purpose of use case modeling and specification is to ensure that the software meets the needs of the users or stakeholders, and that it is developed according to the requirements and specifications. It helps to identify and address potential problems or issues early on in the development process, and it also provides a clear and comprehensive understanding of how the system will be used and what it is supposed to do.
+</ul>
+
+### <ul><li>Techniques for creating use case models</li>
+**Narative:** 
+</ul>
+
 #### -Best practices for creating effective use case models
 ### 2. Domain Modeling
 #### -Definition and purpose of domain modeling
