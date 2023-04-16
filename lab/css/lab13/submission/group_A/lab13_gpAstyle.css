@@ -6,9 +6,24 @@
   height: 100vh;
 }
 
+.grid-container2 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 1fr 1fr ;
+  grid-gap: 20px;
+  height: 100vh;
+}
+
 .header {
   grid-column: 1 / 4;
   background-color: #333333;
+  color: #ffffff;
+  padding: 20px;
+}
+
+.header2 {
+  grid-column: 1 / 4;
+  background-color: #62349a;
   color: #ffffff;
   padding: 20px;
 }
@@ -29,5 +44,21 @@
   grid-column: 1 / 4;
   background-color: #f1fcab;
   color: #ffffff;
+  padding: 20px;
+}
+
+.red{
+  grid-row: 1 / 2;
+  background-color: lightcoral;
+  padding: 20px;
+}
+.green{
+  grid-row: 1 / 2;
+  background-color: lightgreen;
+  padding: 20px;
+}
+.mustard{
+  grid-row: 1 / 2;
+  background-color: goldenrod;
   padding: 20px;
 }
