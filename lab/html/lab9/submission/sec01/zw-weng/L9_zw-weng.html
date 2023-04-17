@@ -13,12 +13,85 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HTML Forms</title>
+    <style>
+        table {
+            float: left;
+            border: 1px solid black;
+            width: 65%;
+        }
+
+        th,
+        td {
+            text-align: left;
+            vertical-align: middle;
+            border: 1px solid black;
+        }
+    </style>
 </head>
 
 <body>
-    <style>
-        
-    </style>
+    <h1 style="text-align: center; font-family: Verdana; color: blue;"><b>Medical Form</b></h1>
+    <div style="border: 1px solid blue; padding: 8px;" class="forms">
+        <form action="process.php" method="post">
+            <fieldset style="width: 80%; border: 1px solid #9c9a9a;">
+                <legend>Personal Information</legend>
+                <table>
+                    <tr>
+                        <td><label for="fname">First Name</label></td>
+                        <td><input type="text" id="fname" name="fname"></td>
+                        <td>Gender</td>
+                        <td><input type="radio" id="gender1" name="gender" value="female">
+                            <label for="gender1">Female</label>
+                            <input type="radio" id="gender2" name="gender" value="male">
+                            <label for="gender2">Male</label>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="lname">Last Name</label></td>
+                        <td><input type="text" id="lname" name="lname"></td>
+                        <td><label for="natl">Nationality</label></td>
+                        <td><select id="natl" name="natl">
+                                <option value="can">Canadian</option>
+                                <option value="my">Malaysian</option>
+                                <option value="ors">Others</option>
+                            </select></td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="address">Address</label></td>
+                        <td colspan="3"><textarea rows="6" cols="45" id="address" name="address"></textarea></td>
+                    </tr>
+                </table>
+
+            </fieldset>
+            <fieldset style="width: 80%; border: 1px solid #9c9a9a;">
+                <legend>Medical History</legend>
+                <input type="checkbox" id="history1" name="history" value="smallpox">
+                <label for="history1">Small pox</label>
+                <input type="checkbox" id="history2" name="history" value="mumps">
+                <label for="history2">Mumps</label>
+                <input type="checkbox" id="history3" name="history" value="dizziness">
+                <label for="history2">Dizziness</label>
+                <input type="checkbox" id="history4" name="history" value="sneezing">
+                <label for="history2">Sneezing</label>
+            </fieldset>
+
+            <fieldset style="width: 95%; border: 1px solid #9c9a9a;">
+                <legend>Current Medicaiton</legend>
+                Are you currently taking any medication?
+                <input type="radio" id="choice1" name="choice" value="yes">
+                <label for="choice1">Yes</label>
+                <input type="radio" id="choice2" name="choice" value="no">
+                <label for="choice2">No</label>
+                <br>If you are currently taking medication, please indicate it in the space below:<br>
+                <textarea style="width:100%" rows="10" cols="100"></textarea>
+            </fieldset>
+
+            <input type="submit" value="Submit">
+            <input type="reset" value="Reset">
+        </form>
+    </div>
 </body>
 
 </html>
