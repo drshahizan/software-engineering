@@ -145,7 +145,7 @@ High-level diagram that represents our proposed system architecture:
         |                   |                 |
 +------------------+ +------------------+ +------------------+
 | Mobile Platform  | |    Web Platform  | |  Server-side API |
-|   (React Native)  | |     (ReactJS)    | |    (Node.js)    |
+|   (React Native) | |     (ReactJS)    | |    (Node.js)     |
 +------------------+ +------------------+ +------------------+
         ^                   ^                 ^
         |                   |                 |
