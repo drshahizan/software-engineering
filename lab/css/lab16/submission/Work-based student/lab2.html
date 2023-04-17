@@ -21,10 +21,15 @@
 
   <style>
     body {
-      background-image: linear-gradient(to right, rgb(157, 228, 51), rgb(190, 207, 130));
+      background: url("mal2.jpeg") no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
       color: white;
       font-family: 'Poppins';
       font-style: normal;
+
     }
 
     #title {
@@ -68,8 +73,7 @@
 
     #name,
     #email,
-    #number
-     {
+    #number {
       width: 810px;
       height: 33px;
       border-radius: 5px;
@@ -86,12 +90,12 @@
       height: 40px;
       font-family: 'Poppins';
     }
- 
+
     .input-checkbox,
     .input-radio {
       margin-left: 3px;
     }
-    
+
 
     .input-textarea {
       width: 810px;
@@ -110,8 +114,7 @@
       color: white;
       font-family: 'Poppins';
       margin: 20px 0 20px 0;
-    }    
-    
+    }
   </style>
 </head>
 
@@ -151,7 +154,8 @@
       <div class="form-group">
         <p style="margin-bottom:-3px;">Would you recommend Persaka to a friend?</p>
         <label>
-          <input style="padding-bottom:auto;" name="user-recommend" value="definitely" type="radio" class="input-radio" checked />Definitely</label>
+          <input style="padding-bottom:auto;" name="user-recommend" value="definitely" type="radio" class="input-radio"
+            checked />Definitely</label>
         <label>
           <input name="user-recommend" value="maybe" type="radio" class="input-radio" />Maybe</label>
 
