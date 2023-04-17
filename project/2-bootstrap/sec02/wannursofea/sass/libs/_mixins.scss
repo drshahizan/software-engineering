@@ -1,0 +1,85 @@
+@mixin clearfix {
+    *zoom:1;
+    
+    &:after {
+		content : " ";
+		clear   : both;
+		display : block; 
+		overflow: hidden; 
+		height  : 0; 
+    }
+}
+
+@mixin size($width, $height:$width){
+	width : $width;
+	height: $height;
+}
+
+@mixin cover(){
+	position:absolute;
+	left    :0;
+	right   :0;
+	top     :0;
+	bottom  :0;
+}
+
+@mixin auto_center($width, $height:$width){
+	@include cover();
+	margin: auto;
+}
+
+// retina.sass
+// A helper mixin for applying high-resolution background images (http://www.retinajs.com)
+
+// Submitted by Nathan Crank
+// nathancrank.com
+
+@mixin at2x($path, $ext: "jpg", $w: auto, $h: auto) {
+  $at1x_path: "#{$path}.#{$ext}";
+  $at2x_path: "#{$path}@2x.#{$ext}";
+
+  background-image: url("#{$at1x_path}");
+
+  @media all and (-webkit-min-device-pixel-ratio : 1.5),
+         all and (-o-min-device-pixel-ratio: 3/2),
+         all and (min--moz-device-pixel-ratio: 1.5),
+         all and (min-device-pixel-ratio: 1.5) {
+           background-image: url("#{$at2x_path}");
+           background-size: $w $h;
+  }
+}
+
+// retina.sass
+// A helper mixin for applying high-resolution background images (http://www.retinajs.com)
+
+// Submitted by Nathan Crank
+// nathancrank.com
+
+@mixin at2x($path, $ext: "jpg", $w: auto, $h: auto) {
+  $at1x_path: "#{$path}.#{$ext}";
+  $at2x_path: "#{$path}@2x.#{$ext}";
+
+  background-image: url("#{$at1x_path}");
+
+  @media all and (-webkit-min-device-pixel-ratio : 1.5),
+         all and (-o-min-device-pixel-ratio: 3/2),
+         all and (min--moz-device-pixel-ratio: 1.5),
+         all and (min-device-pixel-ratio: 1.5) {
+           background-image: url("#{$at2x_path}");
+           background-size: $w $h;
+  }
+}
+
+// Converting PX value to EM based on browser-context variable
+// Usage: @include em(16)
+$browser-context: 16; // Default
+
+@mixin em($pixels, $context: $browser-context) {
+	font-size: #{$pixels}px;
+	font-size: #{$pixels/$context}em;
+}
+
+@mixin em($pixels, $context: $browser-context) {
+	font-size: #{$pixels}px;
+	font-size: #{$pixels/$context}rem;
+}
