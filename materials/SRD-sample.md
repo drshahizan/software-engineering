@@ -11,42 +11,42 @@ Don't forget to hit the :star: if you like this repo.
 
 Here is an example of a Software Requirements Document (SRD) for an academic course registration system:
 
-## Introduction
+## 1. Introduction
 The academic course registration system is a software solution that will help students, faculty, and staff to manage the course registration process more efficiently. The purpose of this document is to outline the functional and non-functional requirements of the system.
 
-## System Overview
+## 2. System Overview
 The academic course registration system will be a web-based application that allows students to register for courses, view their academic progress, and manage their personal information. The system will be accessible through a secure login portal, and each user will have a unique login ID and password.
 
-## Functional Requirements
-3.1. Student Registration - Students should be able to register for courses online, view course schedules, and check their academic progress.
-3.2. Faculty Management - Faculty should be able to view their schedules, manage student grades and attendance, and upload course materials.
-3.3. Administrator Management - Administrators should be able to manage user accounts, monitor system usage, and generate reports.
-3.4. Course Management - Course management should include creating and updating course information, setting up course schedules, and managing course prerequisites.
-3.5. Payment Management - Payment management should include tracking payments, issuing refunds, and generating invoices.
+## 3. Functional Requirements
+- 3.1. Student Registration - Students should be able to register for courses online, view course schedules, and check their academic progress.
+- 3.2. Faculty Management - Faculty should be able to view their schedules, manage student grades and attendance, and upload course materials.
+- 3.3. Administrator Management - Administrators should be able to manage user accounts, monitor system usage, and generate reports.
+- 3.4. Course Management - Course management should include creating and updating course information, setting up course schedules, and managing course prerequisites.
+- 3.5. Payment Management - Payment management should include tracking payments, issuing refunds, and generating invoices.
 
-## Non-Functional Requirements
-4.1. Performance - The system should be able to handle a large number of users simultaneously without any delays or interruptions.
-4.2. Security - The system should have robust security measures in place to protect user data, prevent unauthorized access, and ensure system integrity.
-4.3. Usability - The system should be easy to use and navigate, with a user-friendly interface and intuitive controls.
-4.4. Reliability - The system should be reliable, with minimal downtime, and a fast response time in case of any errors or issues.
-4.5. Accessibility - The system should be accessible to users with disabilities, including support for screen readers and keyboard navigation.
+## 4. Non-Functional Requirements
+- 4.1. Performance - The system should be able to handle a large number of users simultaneously without any delays or interruptions.
+- 4.2. Security - The system should have robust security measures in place to protect user data, prevent unauthorized access, and ensure system integrity.
+- 4.3. Usability - The system should be easy to use and navigate, with a user-friendly interface and intuitive controls.
+- 4.4. Reliability - The system should be reliable, with minimal downtime, and a fast response time in case of any errors or issues.
+- 4.5. Accessibility - The system should be accessible to users with disabilities, including support for screen readers and keyboard navigation.
 
-## User Interface Requirements
+## 5. User Interface Requirements
 The user interface should be intuitive, with clear and concise instructions and help documentation. The interface should be customizable, allowing users to personalize their profiles and preferences.
 
-## Data Requirements
+## 6. Data Requirements
 The system should be able to store and manage user data, including course information, grades, and personal information. The system should also be able to generate reports based on this data.
 
-## System Architecture
+## 7. System Architecture
 The system should be a web-based application, built on a scalable and modular architecture. The system should be hosted on a reliable and secure server, with regular backups and disaster recovery plans in place.
 
-## Testing Requirements
+## 8. Testing Requirements
 The system should undergo rigorous testing, including functional and non-functional testing, user acceptance testing, and performance testing.
 
-## Acceptance Criteria
+## 9. Acceptance Criteria
 The system should meet all the requirements outlined in this document, and any additional requirements specified by the stakeholders. The system should be delivered on time and within the specified budget.
 
-## Assumptions and Constraints
+## 10. Assumptions and Constraints
 The development team will assume that the system will be compatible with all modern web browsers and operating systems. The development team will also assume that there will be no major changes to the academic environment during the development and testing process. The development team is constrained by the budget and timeline specified by the stakeholders.
 
 Overall, the SRD is a critical document that outlines the functional and non-functional requirements of the academic course registration system. By following the guidelines and specifications outlined in the SRD, the development team can ensure that the final product meets the needs of the academic environment and stakeholders.
