@@ -87,10 +87,22 @@ Requirements modeling is a critical phase in software development that involves 
 <p align="center"><img src= "https://cs.ccsu.edu/~stan/classes/CS410/Notes16/images/05-activity_diagram_involuntary_detention.png" width="700px" height="400px"></p>
 
 
-### B. Techniques for Requirements Modeling
+## B. Techniques for Requirements Modeling
 ### 1. Use Case Modeling and Specification
-#### -Definition and purpose of use case modeling and specification
-#### -Techniques for creating use case models (e.g. actors, use cases, scenarios)
+### <ul><li>Definition and purpose of use case modeling and specification</li>
+  Use case modeling and specification is a technique used in software development to capture the functional requirements of a system by identifying and describing its interactions with actors, which could be users, other systems, or external entities.
+
+Use case modeling involves identifying the different use cases or scenarios that a user or system might encounter when interacting with the software. Each use case is described in terms of the steps or actions that the actor takes and the responses or outcomes of the system.
+
+Use case specification involves documenting the use cases in detail, including the actors involved, the preconditions, the steps or actions taken, the post-conditions or outcomes, and any exceptions or alternative paths that may occur.
+
+The purpose of use case modeling and specification is to ensure that the software meets the needs of the users or stakeholders, and that it is developed according to the requirements and specifications. It helps to identify and address potential problems or issues early on in the development process, and it also provides a clear and comprehensive understanding of how the system will be used and what it is supposed to do.
+</ul>
+
+### <ul><li>Techniques for creating use case models</li>
+**Narative:** 
+</ul>
+
 #### -Best practices for creating effective use case models
 ### 2. Domain Modeling
 #### -Definition and purpose of domain modeling
