@@ -29,6 +29,7 @@ This course is designed to give students an introduction to an engineering appro
 8. [Summary proposal: Academic Course Registration System](./proposal/materials/ssummary-proposal.md) 🆕
 8. [Proposal: Academic Course Registration System](./proposal/materials/sample-proposal.md) 🆕
 9. [Software Requirements Document (SRD): Academic Course Registration System](./materials/SRD-sample.md) 🆕
+10. [Class exercise: Module 4](./materials/module4)
 
 ## Weekly Schedule
 
