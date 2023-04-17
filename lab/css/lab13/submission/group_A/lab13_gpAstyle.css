@@ -1,7 +1,7 @@
 .grid-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: auto 1fr 1fr 1fr;
   grid-gap: 20px;
   height: 100vh;
 }
@@ -32,14 +32,18 @@
 
 .main {
   grid-column: 1 / 2;
-  background-color: #9a5353;
+  background-color: #b76c6c;
   padding: 20px;
+  border-color: black;
+  border-style: solid;
 }
 
 .sidebar {
   grid-column: 4 / 2;
-  background-color: #5585cd;
+  background-color: #6791d1;
   padding: 20px;
+  border-color: black;
+  border-style: solid;
 }
 
 .footer {
@@ -47,6 +51,8 @@
   background-color: #f1fcab;
   color: #ffffff;
   padding: 20px;
+  border-color: black;
+  border-style: solid;
 }
 
 .red{
