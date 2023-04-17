@@ -91,15 +91,15 @@ The contingency budget will cover unexpected expenses that may arise during the 
 
 In conclusion, the estimated budget for the development of the academic course registration system is RM 2,500,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingency. Any changes in the budget will be communicated to stakeholders and project sponsors.
 
-### 7. System Architecture:
+## 7. System Architecture:
 The proposed system architecture for the academic course registration system will use a three-tier architecture consisting of the presentation tier, application tier, and database tier. The presentation tier will consist of a mobile application and a web-based user interface that will allow students and faculty to interact with the system. The application tier will handle the business logic and data processing, while the database tier will store and manage the data.
 
 For the mobile application, we will use React Native framework, which allows for cross-platform development, making the application accessible to both Android and iOS users. For the web-based user interface, we will use React framework. The application tier will be developed using Node.js and Express framework, which are suitable for building scalable and high-performance web applications. We will use a relational database management system (RDBMS) to store the system data, with MySQL being our preferred choice for its stability, reliability, and cost-effectiveness.
 
-#### Data Storage and Management:
+### Data Storage and Management:
 The data will be stored in the RDBMS, and the system will support various functionalities such as data retrieval, addition, and deletion. To ensure the integrity of data, the database will be hosted on a dedicated server with backup and disaster recovery systems in place.
 
-#### Hardware and Software Requirements:
+### Hardware and Software Requirements:
 
 The hardware requirements for the system include a dedicated server for the database, a cloud hosting service for the web platform, and a hosting service for the mobile application. As for the software requirements, we will use the following technologies:
 
@@ -111,13 +111,13 @@ The hardware requirements for the system include a dedicated server for the data
 - Axios for data fetching and management
 - Git for version control
 
-#### Data security and privacy
+### Data security and privacy
 To ensure data security and privacy, we will use encryption technologies such as SSL/TLS and AES to protect data transmission and storage. We will also implement authentication and authorization mechanisms to control access to the system and its resources. In addition, we will regularly back up the data to prevent data loss in the event of a system failure.
 
-#### Data visualization and analysis
+### Data visualization and analysis
 We will use various tools and frameworks such as Tableau and Power BI to generate visual reports and dashboards. We will also use SQL queries to retrieve and analyze data stored in the database.
 
-#### System Architecture Diagram:
+### System Architecture Diagram:
 
 The proposed system architecture can be visualized using the following flowchart:
 
@@ -158,14 +158,60 @@ High-level diagram that represents our proposed system architecture:
 
 In summary, the proposed system architecture for the academic course registration system will be a three-tier architecture consisting of the presentation tier, application tier, and database tier. It will utilize modern web and mobile technologies, a relational database management system, encryption technologies, and authentication and authorization mechanisms to ensure data security and privacy. Data visualization and analysis will be carried out using various tools and frameworks.
 
-### 8. Risks Assessment:
-- The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
-- It should also describe the plans and strategies to mitigate those risks.
+## 8. Risks Assessment:
+The development of an academic course registration system carries certain risks that must be identified and mitigated. The following are the potential risks that could affect the project:
 
-### 9. Resources:
-- Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
+1. Technical Challenges: The development of a complex system like an academic course registration system can pose technical challenges that may impact the timeline of the project. These technical challenges could arise due to hardware or software incompatibilities, data management issues, or other technical issues.
 
-### 10. Technical Specifications:
+2. Resource Constraints: The project requires a specific set of skills and resources to be completed. The availability of resources such as programmers, project managers, and system analysts can impact the progress of the project.
+
+3. Changes in Project Requirements: Changes in project requirements can occur due to external factors such as regulatory changes, user feedback, or market demands. These changes can impact the project timeline, budget, and quality of the final product.
+
+To mitigate these risks, the following strategies will be employed:
+
+1. Technical Challenges: A thorough technical analysis of the system will be conducted during the planning phase to identify any technical challenges that may arise. Regular testing and debugging will also be conducted throughout the development phase to ensure that any issues are addressed promptly.
+
+2. Resource Constraints: The project team will be carefully selected to ensure that the necessary skills and resources are available to complete the project within the given timeline. Contingency plans will also be developed in case of any unforeseen resource constraints.
+
+3. Changes in Project Requirements: The project scope will be reviewed regularly to ensure that it remains aligned with the project goals. Any changes in project requirements will be carefully considered, and their impact on the project timeline and budget will be assessed before implementation.
+
+Overall, the risks associated with the development of the academic course registration system will be managed proactively to ensure that the project is completed within the given timeline, budget, and quality standards.
+
+## 9. Resources:
+To successfully deliver the academic course registration system, the following resources are required:
+
+### Staff:
+- 5 Programmers: RM 180,000/year each
+- 1 System Analyst: RM 240,000/year
+- 1 Project Manager: RM 300,000/year
+Total Staff Cost: RM 1,140,000/year
+
+### Equipment:
+- Servers: RM 200,000
+- Workstations and Laptops: RM 100,000
+- Networking and Cabling: RM 50,000
+- Security and Backup: RM 50,000
+Total Equipment Cost: RM 400,000
+
+### Software:
+- Relational Database Management System (RDBMS): RM 50,000
+- Web Server: RM 20,000
+- Mobile Application Development Framework: RM 30,000
+- Data Analytics Tools: RM 50,000
+Total Software Cost: RM 150,000
+
+### Other Expenses:
+- Rent for Office Space: RM 120,000/year
+- Utilities: RM 30,000/year
+- Marketing and Advertising: RM 100,000
+- Contingency: RM 360,000
+Total Other Expenses: RM 610,000
+
+Total Estimated Cost: RM 2,300,000
+
+Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
+
+## 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
 - Mention the programming languages, frameworks, and libraries that will be used in the project.
 - Provide details about the hardware and software requirements for the proposed system.
