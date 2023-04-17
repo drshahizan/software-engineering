@@ -184,6 +184,7 @@ To successfully deliver the academic course registration system, the following r
 - 5 Programmers: RM 180,000/year each
 - 1 System Analyst: RM 240,000/year
 - 1 Project Manager: RM 300,000/year
+
 Total Staff Cost: RM 1,140,000/year
 
 ### Equipment:
@@ -191,6 +192,7 @@ Total Staff Cost: RM 1,140,000/year
 - Workstations and Laptops: RM 100,000
 - Networking and Cabling: RM 50,000
 - Security and Backup: RM 50,000
+
 Total Equipment Cost: RM 400,000
 
 ### Software:
@@ -198,6 +200,7 @@ Total Equipment Cost: RM 400,000
 - Web Server: RM 20,000
 - Mobile Application Development Framework: RM 30,000
 - Data Analytics Tools: RM 50,000
+
 Total Software Cost: RM 150,000
 
 ### Other Expenses:
@@ -205,11 +208,11 @@ Total Software Cost: RM 150,000
 - Utilities: RM 30,000/year
 - Marketing and Advertising: RM 100,000
 - Contingency: RM 360,000
-Total Other Expenses: RM 610,000
+- Total Other Expenses: RM 610,000
 
 Total Estimated Cost: RM 2,300,000
 
-Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
+> Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
 
 ## 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
