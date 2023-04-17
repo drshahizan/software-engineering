@@ -1,0 +1,14 @@
+*,
+*::after,
+*::before{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: inherit;  // To inherit box-sizing from "body" element
+}
+
+body{
+	font-family: $font-family-base;
+	color: $body-color;
+	background: $body-bg;
+	box-sizing: border-box;
+}

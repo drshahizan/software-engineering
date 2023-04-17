@@ -1,0 +1,12 @@
+p {
+	font-size: calc(14px + (16 - 14) * ((100vw - 320px) / (1200 - 320)));
+	font-weight: 300;
+	opacity: .8;
+}
+
+@include media-breakpoint-up (lg) {
+
+	p {
+		font-size: 16px;
+	}
+}
