@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!--
+    Lab 16: Form Layout
+    Group:
+    1. Name: MARCUS JOEY SAYNIER, Matrix No: [Matrix Number], Github ID: [Github ID]
+    2. Name: NICOLE LIM TZE YEE, Matrix No: A22EC0123, Github ID: nicolelimty
+    3. Name: NG SHU YU, Matrix No: A22EC0228, Github ID: ShuYu03
+    4. Name: WONG QIAO YING, Matrix No: A22EC0118, Github ID: alovey1014
+  -->
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed" rel="stylesheet" type="text/css" />
+
+  <style>
+    body {
+      background-image: linear-gradient(to right, rgb(157, 228, 51), rgb(190, 207, 130));
+      color: white;
+      font-family: 'Poppins';
+      font-style: normal;
+    }
+
+    #title {
+      font-style: normal;
+      font-weight: 1000;
+      text-align: center;
+      margin-bottom: -20px;
+    }
+
+    #description {
+      text-align: center;
+      font-style: italic;
+      font-weight: 400;
+      margin-bottom: 0;
+    }
+
+    #survey-form {
+      background-color: rgb(66, 65, 65);
+      border-radius: 1%;
+      width: 850px;
+      size: 20px;
+      margin: auto;
+    }
+
+    .form-group {
+      display: grid;
+      grid-template-rows: repeat(auto-fit, 1fr);
+      /* auto-fit ensures that the rows expand to fill the available space */
+      /* optional gap between rows */
+      padding: 10px 0 0 20px;
+    }
+
+    #name-label,
+    #email-label,
+    #number-label {
+      text-align: left;
+      font-style: normal;
+      color: white;
+      margin: 10px 0 5px 0;
+    }
+
+    #name,
+    #email,
+    #number
+     {
+      width: 810px;
+      height: 33px;
+      border-radius: 5px;
+      border: 0;
+      font-size: 15px;
+    }
+
+    #dropdown,
+    #most-like {
+      margin: -10px 0 0 0;
+      border-radius: 5px;
+      font-size: 15px;
+      width: 810px;
+      height: 40px;
+      font-family: 'Poppins';
+    }
+ 
+    .input-checkbox,
+    .input-radio {
+      margin-left: 3px;
+    }
+    
+
+    .input-textarea {
+      width: 810px;
+      height: 120px;
+      font-family: 'Poppins';
+      margin: -10px 0 0px 0;
+      font-size: 15px;
+    }
+
+    #submit {
+      width: 810px;
+      height: 33px;
+      border: 0;
+      font-size: 15px;
+      background-color: rgb(51, 164, 51);
+      color: white;
+      font-family: 'Poppins';
+      margin: 20px 0 20px 0;
+    }    
+    
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <header class="header">
+      <h1 id="title" class="text-center">Persaka Survey Form</h1>
+      <p id="description" class="description text-center">
+        Thank you for taking the time to help us improve the platform
+      </p>
+    </header>
+    <form id="survey-form">
+      <div class="form-group">
+        <label id="name-label" for="name">Name</label>
+        <input type="text" name="name" id="name" class="form-control" placeholder="Enter your name" required />
+      </div>
+      <div class="form-group">
+        <label id="email-label" for="email">Email</label>
+        <input type="email" name="email" id="email" class="form-control" placeholder="Enter your Email" required />
+      </div>
+      <div class="form-group">
+        <label id="number-label" for="number">Age<span class="clue">(optional)</span></label>
+        <input type="number" name="age" id="number" min="10" max="99" class="form-control" placeholder="Age" />
+      </div>
+      <div class="form-group">
+        <p>Which option best describes your current role?</p>
+        <select id="dropdown" name="role" class="form-control" required>
+          <option disabled selected value>Select current role</option>
+          <option value="student">Student</option>
+          <option value="job">Full Time Job</option>
+          <option value="learner">Full Time Learner</option>
+          <option value="preferNo">Prefer not to say</option>
+          <option value="other">Other</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <p style="margin-bottom:-3px;">Would you recommend Persaka to a friend?</p>
+        <label>
+          <input style="padding-bottom:auto;" name="user-recommend" value="definitely" type="radio" class="input-radio" checked />Definitely</label>
+        <label>
+          <input name="user-recommend" value="maybe" type="radio" class="input-radio" />Maybe</label>
+
+        <label><input name="user-recommend" value="not-sure" type="radio" class="input-radio" />Not sure</label>
+      </div>
+
+      <div class="form-group">
+        <p>What is your favorite feature of Persaka?</p>
+        <select id="most-like" name="mostLike" class="form-control" required>
+          <option disabled selected value>Select an option</option>
+          <option value="challenges">Challenges</option>
+          <option value="projects">Projects</option>
+          <option value="community">Community</option>
+          <option value="openSource">Open Source</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <p style="margin-bottom:-3px">
+          What would you like to see improved?
+          <span class="clue">(Check all that apply)</span>
+        </p>
+
+        <label><input name="prefer" value="front-end-projects" type="checkbox" class="input-checkbox" />Front-end
+          Projects</label>
+        <label>
+          <input name="prefer" value="back-end-projects" type="checkbox" class="input-checkbox" />Back-end
+          Projects</label>
+        <label><input name="prefer" value="data-visualization" type="checkbox" class="input-checkbox" />Data
+          Visualization</label>
+
+        <label><input name="prefer" value="open-source-community" type="checkbox" class="input-checkbox" />Open Source
+          Community</label>
+
+        <label><input name="prefer" value="additional-courses" type="checkbox" class="input-checkbox" />Additional
+          Courses</label>
+      </div>
+
+      <div class="form-group">
+        <p>Any comments or suggestions?</p>
+        <textarea id="comments" class="input-textarea" name="comment"
+          placeholder="Enter your comment here..."></textarea>
+      </div>
+
+      <div class="form-group">
+        <button type="submit" id="submit" class="submit-button">
+          Submit
+        </button>
+      </div>
+    </form>
+  </div>
+</body>
+
+</html>
