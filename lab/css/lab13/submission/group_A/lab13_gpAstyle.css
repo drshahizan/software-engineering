@@ -14,7 +14,19 @@
   height: 100vh;
 }
 
-.header {
+.grid-container3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: auto 1fr 1fr 1fr;
+  grid-gap: 20px;
+  height: 100vh;
+}
+
+h1{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.header1 {
   grid-column: 1 / 4;
   background-color: #333333;
   color: #ffffff;
@@ -30,7 +42,7 @@
   border-style: solid;
 }
 
-.main {
+.m1main {
   grid-column: 1 / 2;
   background-color: #b76c6c;
   padding: 20px;
@@ -38,7 +50,7 @@
   border-style: solid;
 }
 
-.sidebar {
+.m1sidebar {
   grid-column: 4 / 2;
   background-color: #6791d1;
   padding: 20px;
@@ -46,7 +58,7 @@
   border-style: solid;
 }
 
-.footer {
+.m1footer {
   grid-column: 1 / 4;
   background-color: #f1fcab;
   color: #ffffff;
@@ -55,21 +67,41 @@
   border-style: solid;
 }
 
-.red{
+.m2red{
   background-color: lightcoral;
   padding: 20px;
   border-color: #333333;
   border-style: solid;
 }
-.green{
+.m2green{
   background-color: lightgreen;
   padding: 20px;
   border-color: #333333;
   border-style: solid;
 }
-.mustard{
+.m2mustard{
   background-color: goldenrod;
   padding: 20px;
   border-color: #333333;
+  border-style: solid;
+}
+
+.m3green{
+  background-color: green;
+  grid-column: 1 / span 3;
+  padding: 20px;
+  border-color: black;
+  border-style: solid;
+}
+
+.m3image{
+  grid-row: 3;
+  background-image: url(https://hips.hearstapps.com/hmg-prod/images/cherry-blossom-facts-1578344148.jpg?crop=1.00xw:0.754xh;0,0.164xh&resize=1200:*)
+}
+
+.m3blue{
+  background-color: lightblue;
+  padding: 20px;
+  border-color: black;
   border-style: solid;
 }
