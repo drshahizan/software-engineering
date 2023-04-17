@@ -51,7 +51,7 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 Software process is a set of related activities that leads to the production of the software
 <br>
 <br>
-<iframe src="https://www.lotus-qa.com/wp-content/uploads/2020/04/software-development-models.png"</iframe>
+<img src="https://www.lotus-qa.com/wp-content/uploads/2020/04/software-development-models.png" alt="model"</img>
 <br>
 <br>
 
