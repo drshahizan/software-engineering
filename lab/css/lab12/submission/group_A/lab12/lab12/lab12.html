@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<!--
+Lab 12: Text & Box Model
+Group:
+1. Name: Wan Nur Sofea Binti Mohd Hasbullah, Matrix No: A22EC0115, Github ID: wannursofea
+2. Name: Danial Harriz, Matrix No: A22EC0152, Github ID: danialharriz
+3. Name: Aliatul Izzah binti Jadman, Matrix No: A22EC0136, Github ID: oishylea
+4. Name: Nur Farah Adibah binti Idris, Matrix No: A22EC0245, Github ID: nurfarahadibah 
+-->
+    <meta charset="utf-8" />
+    <title>Lab: Text & Box Model</title>
+    <link
+      href="http://fonts.googleapis.com/css?family=Indie+Flower"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <style>
+      h1
+      {
+        text-align: center;
+      }
+      
+      #text1
+      {
+        text-align: center;
+        border: 5px solid green;
+        padding: 70px;
+        font-family: "Indie Flower";
+        font-weight: bold;
+        width: 40%;
+        margin-left: 25%;
+      }
+
+      .container
+      {
+       
+        text-align: justify;
+        font-family: 'Times New Roman', Times, serif;
+        margin-right: 50%;
+        
+      }
+
+      .container p:nth-of-type(1)
+      {
+        color: salmon;
+      }
+
+      .container p:nth-of-type(3)
+      {
+        color: greenyellow;
+      }
+
+      .container p::first-letter
+      {
+        font-weight: bold;
+        color: red;
+        font-size: 150%;
+      }
+
+    
+code {
+  display: inline-block;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  background: #f1f1f1;
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+
+
+.border-solid {
+  border: 2px solid #9799a7;
+}
+
+.border-double {
+  border: 6px double #9799a7;
+}
+
+.border-dashed {
+  border: 8px dashed #9799a7;
+}
+
+.border-dotted {
+  border: 4px dotted #9799a7;
+}
+
+.border-rounded {
+  border-radius: 5px;
+}
+
+.border-circle {
+  border-radius: 50%;
+}
+
+.border-football {
+  border-radius: 15px 75px;
+}
+
+#box1
+{
+  background-color: yellow;
+  padding: 40px;
+  margin: 30px;
+  border: 15px inset blue;
+  width: 25%;
+}
+
+.box2
+{
+  border: 25px solid greenyellow;
+  width: 15%;
+  height: 20%;
+  padding: 5%;
+}
+
+.item1
+{
+  background-color: orange;
+  text-align: center;
+  font-weight: bold;
+  padding: 6.5%;
+  font-size: 24px;
+}
+
+.item2
+{
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#box3 {
+  border: 3px solid rgb(42, 75, 165);
+  background-color: rgba(1, 247, 177, 0.483);
+  width: 500px;
+  margin: auto;
+  padding: 20px;
+}
+
+.photo {
+  border: 5px dotted rgb(251, 0, 255);
+  display: block;
+  margin: auto;
+  
+}
+
+#text2 {
+  border: 6px dashed rgb(248, 80, 3);
+  overflow: scroll;
+  padding: 10px;
+}
+
+.text3 {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+    </style>
+  </head>
+  <body>
+    <h1>Lab 1: Google Font</h1>
+    <div id="text1">
+      UTM has three campuses – the main campus is in Skudai, and was the first
+      university in the state of Johor. It has an area of 1148 hectares[9] and
+      is the second largest public university after Universiti Putra Malaysia
+      (UPM). It is about 20 km north of the state capital, Johor Bahru. The
+      branch campus is situated in Jalan Semarak within Kuala Lumpur, with an
+      area of 38 hectares.[9] The branch campus accommodates diploma students,
+      part-time students (also known as the SPACE program), undergraduate
+      students (Malaysia-Japan International Institute of Technology) and
+      foreign students taking business courses.
+    </div>
+
+    <h1>Lab 2: Style first letter, first line & last line</h1>
+    <div class="container">
+      <p>
+        The history of technical education in this country has been a century
+        old. It all began in 1904 when a Technical School began its operation on
+        Weld Road (now Jalan Raja Chulan) to teach Technical Assistants for the
+        Federated Malay States Departments of Railways, Survey and Public Works.
+      </p>
+      <p>
+        The school was officially known as Treacher Technical School, named
+        after Sir William Treacher, the Resident General during that time.
+        Students followed classed on part-time basis; they worked and trained
+        specifically according to the technical needs of their employment.
+      </p>
+      <p>
+        Department In 1941, the Advisory Committee of Technical Schools and the
+        Education recommended that the Technical School be elevated to a college
+        status and proposed that a new Technical College be constructed. The new
+        college was to be built on a 47-acre piece of Government land in Gurney
+        Road (now Jalan Semarak), Kuala Lumpur. Plans for the construction of
+        the college, however, were put on hold when World War II erupted in
+        Peninsular Malaysia.
+      </p>
+    </div>
+
+    <h1>Lab 3: Border</h1>
+    <code class="border-solid">2px <br />solid</code>
+    <code class="border-double">6px <br />double</code>
+    <code class="border-dashed">8px <br />dashed</code>
+    <code class="border-dotted">4px<br />dotted</code>
+    <p></p>
+    <code class="border-rounded">5px</code>
+    <code class="border-circle">50%</code>
+    <code class="border-football">15px 75px</code>
+
+    <h1>Lab 4: Box Model 1</h1>
+    <div id="box1">
+      This text is the content of the box. We have added a 40px padding, 30px
+      margin and a 15px inset blue. <br /><br />University of Technology
+      Malaysia (UTM) (Malay: Universiti Teknologi Malaysia) is a premier
+      Malaysian public research-intensive university ranked 187th in the world
+      by QS University rankings. Its medium of instruction is English.
+    </div>
+    <p></p>
+    <h1>Lab 5: Box Model 2</h1>
+    <div class="box2">
+      <div class="item1">Web Programming</div>
+      <div class="item2">CSS Box Model</div>
+    </div>
+    <p></p>
+    <h1>Lab 6: Box Model 3</h1>
+    <div id="box3">
+      <h1>Universiti Teknologi Malaysia</h1>
+
+      <img class="photo" src="images/utm_logo.png" alt="UTM" />
+
+      <div id="text2">
+        <div>
+          <span class="text3"
+            >UTM has three campuses – the main campus is in Skudai, and was the
+            first university in the state of Johor.</span
+          >
+          It has an area of 1148 hectares[9] and is the second largest public
+          university after Universiti Putra Malaysia (UPM). It is about 20 km
+          north of the state capital, Johor Bahru. The new branch campus located
+          in Pagoh was officially opened on 2 May 2017. Universiti Teknologi
+          Malaysia Innovation Centre in Agritechnology for Advanced
+          Bioprocessing (UTM-ICA) is strategically located off the Pagoh
+          interchange on the north–south expressway, in the district of Muar,
+          Johor.
+        </div>
+
+        <div>
+          <span class="text3"
+            >The branch campus is situated in Jalan Semarak within Kuala Lumpur,
+            with an area of 38 hectares.</span
+          >
+          The branch campus accommodates diploma students, part-time students
+          (also known as the SPACE program), undergraduate students
+          (Malaysia-Japan International Institute of Technology) and foreign
+          students taking business courses.
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

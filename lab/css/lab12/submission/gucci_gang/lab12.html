@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text and Box Model</title>
+    <!--
+    Lab 12: Text and Box Model
+    Group: gucci gang
+    1. Name: LOW YING XI, Matrix No: A22EC0187, Github ID: lowyingxi
+    2. Name: WONG KHAI SHIAN NICHOLAS, Matrix No:A22EC0292, Github ID: nicholas0377
+    3. Name: LOO JIA CHANG, Matrix No: A22EC0074, Github ID: jcl03
+    4. Name: TIEW CHUAN RONG, Matrix No: A22EC0112, Github ID: tiewrong
+    -->
+
+    <link href='https://fonts.googleapis.com/css?family=Indie Flower' rel='stylesheet' type="text/css">
+    <style>
+        body{
+            max-width: 80em;
+        }
+        h1{
+            text-align: center;
+        }
+        #text1{
+            font-family: 'Indie Flower';
+            text-align: center;
+            width:35em;
+            margin: 0 auto;
+            border: 2px solid green;
+            padding: 40px;
+        }
+        #text2 {
+            max-width:35em;
+            margin:auto 0;
+        }
+        #text2 p::first-letter{
+            font-size: 150%;
+            font-weight: bold;
+            color:red;
+
+        }
+        #text2 p:first-child{
+            color: salmon;
+        }
+        #text2 p:last-child{
+            color: rgb(110, 195, 25);
+            text-align: right;
+        }
+    
+        #boxsolid{
+            display:inline-block;
+            text-align: center;
+            border: 2px solid#9799a7;
+            background-color: #dee0ec;
+            width: 50px;
+            margin: 20px;
+            padding: 35px;
+            line-height: 25px;
+        }
+        #boxdouble{
+            display:inline-block;
+            text-align: center;
+            border: 6px double#9799a7;
+            background-color: #dee0ec;
+            width: 50px;
+            margin: 20px;
+            padding: 35px;
+            line-height: 25px;
+        }
+        #boxdashed{
+            display:inline-block;
+            text-align: center;
+            border: 8px dashed#9799a7;
+            background-color: #dee0ec;
+            width: 50px;
+            margin: 20px;
+            padding: 35px;
+            line-height: 25px;
+        }
+        #boxdotted{
+            display:inline-block;
+            text-align: center;
+            border: 4px dotted#9799a7;
+            background-color: #dee0ec;
+            width: 50px;
+            margin: 20px;
+            padding: 35px;
+            line-height: 25px;
+        }
+        #boxsquare{
+            display:inline-block;
+            text-align: center;
+            vertical-align: top;
+            background-color: #dee0ec;
+            width: 52px;
+            margin: 20px;
+            padding: 37px;
+            line-height: 25px;
+        }
+        #text4{
+            width: 22em;
+            background-color: yellow;
+            padding: 40px;
+            margin: 30px;
+            border: 15px inset blue;
+        }
+        .Box2{
+            width: 25em;
+            border: 50px solid greenyellow;
+            margin: 30px;
+            padding: 90px 0;
+        }
+        .item1{
+            max-width: 8em;
+            margin:0 auto;
+            background-color: orange;
+            padding: 10px 2px;
+            text-align: center;
+            font-size: 30px;
+            font-weight: bold;
+            
+        }
+        .item2{
+            text-align: center;
+            font-size: 20px;
+            font-weight: bold;
+        }
+        .Box3{
+            width: 500px;
+            margin: 0 auto;
+            border: 3px solid rgb(42, 75, 165);
+            background-color: rgba(1, 247, 177, 0.483);
+            text-align: justify;
+        }
+        .photo{
+            width: 300px;
+            border: 5px dotted  rgb(251, 0, 255);
+            margin: 0 100px;
+            padding: 10px;
+        }
+        #text2box3{
+            height: 250px;
+            border: 6px dashed rgb(248,80,3);
+            margin:10px;
+            padding: 5px;
+            overflow: auto;
+        }
+        .text3{
+            font-weight: bold;
+            text-decoration: underline;
+        }
+
+    </style>
+</head>
+
+<body>
+    <h1>Lab 1: Google Font</h1>
+    <div id="text1">
+    UTM has three campuses - the main campus is in Skudai, and was the first university in the state of Johor. It has an
+    area of 1148 hectares [9] and is the second largest public university after Universiti Putra Malaysia (UPM). It is
+    about 20 km north of the state capital, Johor Bahru. The branch campus is situated in Jalan Semarak within Kuala
+    Lumpur, with an area of 38 hectares.[9] The branch campus accommodates diploma students, part-time students (also
+    known as the SPACE program), undergraduate students (Malaysia-Japan International Institute of Technology) and
+    foreign students taking business courses.
+    </div>
+    <h1>Lab 2: Style first letter, first line & last line</h1>
+    <div id="text2">
+        <p>The history of technical education in this country has been a century old. It all began in 1904 when a Technical
+        School began its operation on Weld Road (now Jalan Raja Chulan) to teach Technical Assistants for the Federated
+        Malay States Departments of Railways, Survey and Public Works.</p>
+        <p>The school was officially known as Treacher Technical School, named after Sir William Treacher, the Resident General
+        during that time. Students followed classed on part-time basis; they worked and trained specifically according to
+        the technical needs of their employment.</p>
+        <p>Department In 1941, the Advisory Committee of Technical Schools and the Education recommended that the Technical
+        School be elevated to a college status and proposed that a new Technical College be constructed. The new college was
+        to be built on a 47-acre piece of Government land in Gurney Road (now Jalan Semarak), Kuala Lumpur. Plans for the
+        construction of the college, however, were put on hold when World War II erupted in Peninsular Malaysia.</p>
+    </div>
+    <h1>Lab 3: Border</h1>
+    
+    <div id="boxsolid">2px solid</div>
+    <div id="boxdouble">6px double</div>
+    <div id="boxdashed">8px dashed</div> 
+    <div id="boxdotted">4px dotted</div>
+  
+    <br><div id="boxsquare">5px</div> 50% 15px 75px</br>
+    <h1>Lab 4: Box Model 1</h1>
+    <div id="text4">
+    <p>This text is the content of the box. We have added a 40px padding, 30px margin and a 15px inset blue.</p>
+    <p>University of Technology Malaysia (UTM) (Malay: Universiti Teknologi Malaysia) is a premier Malaysian public
+    research-intensive university ranked 187th in the world byS University rankings. Its medium of instruction is
+    English.</p></div>
+    <h1>Lab 5: Box Model 2</h1>
+    <div class="Box2">
+    <div class="item1">Web Programming</div>
+    <div class="item2">CSS Box Model</div> 
+    </div>
+    <h1>Lab 6: Box Model 3</h1>
+    <div class="Box3">
+    <h1>Universiti Teknologi Malaysia</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/UTM-LOGO-FULL.png/220px-UTM-LOGO-FULL.png"  class="photo">
+    
+    <div id="text2box3"><p><span class="text3">UTM has three campuses - the main campus is in Skudai, and was the first university in the state of Johor.</span> It has an
+    area of 1148 hectares[9] and is the second largest public university after Universiti Putra Malaysia (UPM). It is
+    about 20 km north of the state capital, Johor Bahru. The new branch campus located in Pagoh was officially opened on
+    2 May 2017. Universiti Teknologi Malaysia Innovation Centre in Agritechnology for Advanced Bioprocessing (UTM-ICA)
+    is strategically located off the Pagoh interchange on the north-south expressway, in the district of Muar, Johor.
+    </p>
+    <p><span class="text3">The branch campus is situated in Jalan Semarak within Kuala Lumpur, with an area of 38 hectares.</span> The branch campus
+    accommodates diploma students, part-time students (also known as the SPACE program), undergraduate students
+    (Malaysia-Japan International Institute of Technology) and foreign students.</p>
+</p></div></div>
+</body>
+
+</html>
