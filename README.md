@@ -26,6 +26,7 @@ This course is designed to give students an introduction to an engineering appro
 5. [Project 2: Student Portfolio Showcase (Bootstrap)](./project/2-bootstrap/readme.md)
 6. [Student Portfolio Showcase](https://drshahizan.github.io/) 
 7. [Book](./materials/book.md)
+8. [Summary proposal: Academic Course Registration System](./proposal/materials/ssummary-proposal.md) 🆕
 8. [Proposal: Academic Course Registration System](./proposal/materials/sample-proposal.md) 🆕
 9. [Software Requirements Document (SRD): Academic Course Registration System](./materials/SRD-sample.md) 🆕
 
