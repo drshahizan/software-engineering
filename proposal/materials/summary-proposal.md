@@ -6,30 +6,30 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/software-engineering)
 
 Don't forget to hit the :star: if you like this repo.
-Proposal Title: Improving Academic Course Registration System
+# Proposal Title: Improving Academic Course Registration System
 
-Introduction:
+## Introduction:
 The purpose of this proposal is to suggest improvements for our current academic course registration system. The current system has several limitations that are causing significant inconvenience and frustration to both students and faculty. Our proposal aims to address these issues and streamline the course registration process.
 
-Background:
+## Background:
 The current course registration system has several limitations. The system is slow, often crashes during peak registration periods, and lacks user-friendly features. Additionally, students are not always able to enroll in their desired courses due to limited seating or conflicts with other courses. This has led to several complaints from both students and faculty, resulting in a negative impact on the overall academic experience.
 
-Proposal:
+## Proposal:
 We propose the implementation of a new academic course registration system that addresses the current system's limitations. The new system will include the following features:
 
-User-Friendly Interface: The new system will have a user-friendly interface that is easy to navigate, making it easier for students and faculty to search and enroll in courses.
+1. User-Friendly Interface: The new system will have a user-friendly interface that is easy to navigate, making it easier for students and faculty to search and enroll in courses.
 
-Improved Speed and Performance: The new system will be designed to handle high traffic and registration volumes, minimizing the chance of the system crashing or experiencing delays.
+2. Improved Speed and Performance: The new system will be designed to handle high traffic and registration volumes, minimizing the chance of the system crashing or experiencing delays.
 
-Course Conflict Alert: The new system will alert students if they try to enroll in courses that conflict with their schedule. This will help students avoid scheduling conflicts and ensure that they are able to enroll in the courses they want.
+3. Course Conflict Alert: The new system will alert students if they try to enroll in courses that conflict with their schedule. This will help students avoid scheduling conflicts and ensure that they are able to enroll in the courses they want.
 
-Waitlist Management: The new system will allow students to add themselves to a waitlist for a course that has reached its seating limit. The system will automatically notify students if a seat becomes available, allowing them to enroll in the course.
+4. Waitlist Management: The new system will allow students to add themselves to a waitlist for a course that has reached its seating limit. The system will automatically notify students if a seat becomes available, allowing them to enroll in the course.
 
-Real-Time Availability: The new system will provide real-time availability updates for courses, allowing students to make informed decisions about their course selections.
+5. Real-Time Availability: The new system will provide real-time availability updates for courses, allowing students to make informed decisions about their course selections.
 
-Enhanced Reporting and Analytics: The new system will provide enhanced reporting and analytics, allowing faculty to track enrollment trends and adjust course offerings accordingly.
+6. Enhanced Reporting and Analytics: The new system will provide enhanced reporting and analytics, allowing faculty to track enrollment trends and adjust course offerings accordingly.
 
-Conclusion:
+## Conclusion:
 The proposed improvements to the academic course registration system will significantly enhance the student and faculty experience. The new system will be more user-friendly, faster, and more reliable. It will also provide students with better tools for managing their schedules and course selections, while providing faculty with valuable insights into enrollment trends. We believe that the implementation of this new system will lead to a more efficient and effective academic registration process.
 
 ## Contribution 🛠️
