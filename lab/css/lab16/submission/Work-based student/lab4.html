@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!--
+    Lab 16: Form Layout
+    Group:
+    1. Name: MARCUS JOEY SAYNIER, Matrix No: [Matrix Number], Github ID: [Github ID]
+    2. Name: NICOLE LIM TZE YEE, Matrix No: A22EC0123, Github ID: nicolelimty
+    3. Name: NG SHU YU, Matrix No: A22EC0228, Github ID: ShuYu03
+    4. Name: WONG QIAO YING, Matrix No: A22EC0118, Github ID: alovey1014
+  -->
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed" rel="stylesheet" type="text/css" />
+  <style>
+    body {
+      background-image: url("mal3.jpeg");
+      background-size: cover;
+      font-family: "Poppins";
+      padding: 10px 150px 0 70px;
+    }
+
+    a {
+      color: white;
+      text-decoration: none;
+    }
+
+    nav {
+      display: flex;
+      padding: 10px;
+      margin-right: 70px;
+      text-decoration: none;
+      position: absolute;
+      top: 0;
+      right: 0;
+      list-style-type: none;
+    }
+
+    ul {
+      list-style: none;
+      font-size: 12px;
+    }
+
+    li:last-child {
+      padding-right: 25px;
+    }
+
+    li {
+      display: inline-block;
+      padding: 10px 30px 0 0;
+    }
+
+    
+
+    .btn {
+      border: 1px red solid;
+      color: red;
+      font-weight: 600;
+      width: 90px;
+      height: 40px;
+      text-align: center;
+      padding: 10px 5px 10px 5px;
+    }
+
+    .btn:hover {
+      border: 1px red solid;
+      color: rgb(255, 255, 255);
+      background-color: red;
+      font-weight: 600;
+      width: 90px;
+      height: 40px;
+      text-align: center;
+      padding: 10px 5px 10px 5px;
+    }
+
+    .cover {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      margin: auto;
+      width: 50%;
+      padding: 20px;
+      text-align: center;
+      line-height: 1.5;
+    }
+
+    h1 {
+      color: red;
+    }
+
+    form input[type="search"] {
+      width: 270px;
+      height: 40px;
+      font-size: 12px;
+      padding: 0 0px 0 10px;
+      border: none;
+      color: black;
+    }
+
+    form input[type="search"]::placeholder {
+      color: black;
+    }
+    form input[type="submit"] {
+      width: 100px;
+      height: 40px;
+      font-size: 12px;
+      margin-left: -5px;
+      border: none;
+      color: rgb(255, 255, 255);
+      background-color: red;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <header>
+      <h2>
+        <a href="#"><i class="ion-plane"></i> UTMtravel</a>
+      </h2>
+      <nav>
+        <ul>
+          <li>
+            <a class="btn" href="#" title="Register / Log In">Register/Log In</a>
+          </li>
+          <li>
+            <a href="#" title="Hotels">Hotels</a>
+          </li>
+          <li>
+            <a href="#" title="Flights">Flights</a>
+          </li>
+          <li>
+            <a href="#" title="Tours">Tours</a>
+          </li>
+
+        </ul>
+      </nav>
+    </header>
+
+    <div class="cover">
+      <h1>Discover what's out there.</h1>
+      <form class="flex-form">
+        <label for="from">
+          <i class="ion-location"></i>
+        </label>
+        <input type="search" placeholder="Where do you want to go?" />
+        <input type="submit" value="Search" />
+      </form>
+
+    </div>
+  </div>
+</body>
+
+</html>
