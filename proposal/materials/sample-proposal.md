@@ -7,8 +7,6 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-#  Proposal Template
-
 ## Project Title:  Academic Course Registration System
   
 ### 1. Executive Summary
@@ -25,19 +23,30 @@ The proposed academic course registration system has the potential to significan
 Our proposed academic course registration system aims to achieve the following objectives:
 
 1. Improve efficiency and reduce administrative burden: The system aims to reduce the time and resources required for manual course registration processes by automating the process. The objective is to streamline the registration process, reduce administrative workload, and enable faster turnaround times.
-**Example**: By the end of the first year of implementation, the proposed system will reduce course registration processing time by 50%, resulting in a 25% reduction in administrative workload.
+>**Example**: By the end of the first year of implementation, the proposed system will reduce course registration processing time by 50%, resulting in a 25% reduction in administrative workload.
 
 2. Enhance student experience and engagement: The system aims to provide an intuitive and user-friendly interface that makes it easier for students to search, select, and enroll in courses. The objective is to improve the overall student experience, increase engagement, and promote student success.
-**Example**: By the end of the second year of implementation, the proposed system will increase student satisfaction with the course registration process by 30%, resulting in a 10% increase in student retention rates.
+>**Example**: By the end of the second year of implementation, the proposed system will increase student satisfaction with the course registration process by 30%, resulting in a 10% increase in student retention rates.
 
 3. Enable data-driven decision-making: The system aims to provide valuable insights and analytics that can be used to inform data-driven decision-making. The objective is to improve course offerings, optimize resource allocation, and enhance student outcomes.
-**Example**: By the end of the third year of implementation, the proposed system will provide data insights that enable the institution to optimize course offerings, resulting in a 15% increase in student success rates.
+>**Example**: By the end of the third year of implementation, the proposed system will provide data insights that enable the institution to optimize course offerings, resulting in a 15% increase in student success rates.
 
 Overall, these SMART objectives are specific, measurable, achievable, relevant, and time-bound. They align with the goals and objectives of the project and provide a clear roadmap for achieving the desired outcomes.
 
 ### 4. Scope: 
-- The scope section defines the boundaries of the project and outlines what features and functionality will be included in the software. 
-- It should also describe any limitations or constraints that may affect the project.
+The academic course registration system proposed in this project will be limited to the development, implementation, and maintenance of the registration system software. The scope of the project does not include any hardware or infrastructure upgrades or any changes to existing policies or procedures.
+
+The boundaries of the project will be defined by the following:
+
+1. The academic course registration system will be designed to integrate seamlessly with the existing student information system, and the development team will work closely with the system's administrators to ensure compatibility.
+
+2. The proposed system will only include features related to course registration, including the student dashboard, real-time scheduling, automated waitlisting, faculty, and administrator portal, and data analytics. Any additional features requested by stakeholders will be considered out of scope and require further analysis.
+
+3. The system will be developed using Agile methodology, with a focus on delivering a minimum viable product (MVP) within the allotted timeline and budget. Any features or functionalities that cannot be included within the MVP will be considered out of scope.
+
+4. The system's security and privacy features will be designed to comply with all relevant laws and regulations, including the Family Educational Rights and Privacy Act (FERPA).
+
+Overall, the proposed academic course registration system's scope is defined by the project's boundaries, limitations, and constraints, and it will be developed and implemented in a manner that ensures compliance with all relevant laws, regulations, and policies.
 
 ### 5. Software Process Model:
 This section describe the ideal software process model for this system development. The write-up must consist of:
