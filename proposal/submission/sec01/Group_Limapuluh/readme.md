@@ -33,6 +33,21 @@ Don't forget to hit the :star: if you like this repo.
 - The objectives section should clearly state the goals and objectives of the software project. It should describe the intended outcomes of the software and how it will address the problem it aims to solve. 
 - Objectives should be specific, measurable, achievable, relevant, and time-bound (SMART).
 
+Objective 1: Improve the quality of education
+One of the primary objectives of implementing a student feedback system in University Technology Malaysia (UTM) is to improve the quality of education. The feedback provided by students can help the faculty and administration identify areas where improvements can be made. This, in turn, can lead to better teaching methods, course materials, and assessments.
+
+Objective 2: Enhance student engagement
+A student feedback system can also help to enhance student engagement in the learning process. When students feel that their feedback is being heard and taken seriously, they are more likely to feel invested in their education. This can lead to increased motivation and better academic outcomes.
+
+Objective 3: Provide a platform for continuous improvement
+A student feedback system can also serve as a platform for continuous improvement. By collecting feedback regularly, UTM can identify trends and make adjustments as needed. This can help to ensure that the university is meeting the needs of its students and providing the best possible educational experience.
+
+Objective 4: Foster transparency and communication
+Implementing a student feedback system can also foster transparency and communication between students, faculty, and administration. When students have a platform to voice their concerns and suggestions, it can help to build trust and improve the overall culture of the university.
+
+Objective 5: Support accreditation and compliance efforts
+Finally, implementing a student feedback system can support UTM's efforts to maintain accreditation and compliance with relevant regulations. Many accrediting bodies require universities to collect and use student feedback to inform decision-making and improve educational outcomes. A robust student feedback system can help UTM meet these requirements and maintain its status as a top-tier institution.
+
 ### 4. Scope: 
 - The scope section defines the boundaries of the project and outlines what features and functionality will be included in the software. 
 - It should also describe any limitations or constraints that may affect the project.
