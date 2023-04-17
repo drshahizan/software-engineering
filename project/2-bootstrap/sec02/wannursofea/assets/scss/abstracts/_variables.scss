@@ -1,0 +1,277 @@
+
+//
+// Color system
+//
+
+// stylelint-disable
+$white:    #fff;
+$gray-100: #f8f9fa;
+$gray-200: #eaf0fc;
+$gray-300: #dee2e6;
+$gray-400: #ced4da;
+$gray-500: #adb5bd;
+$gray-600: #6c757d;
+$gray-700: #495057;
+$gray-800: #343a40;
+$gray-900: #212529;
+$black:    #000;
+
+$grays: ();
+$grays: map-merge((
+  "100": $gray-100,
+  "200": $gray-200,
+  "300": $gray-300,
+  "400": $gray-400,
+  "500": $gray-500,
+  "600": $gray-600,
+  "700": $gray-700,
+  "800": $gray-800,
+  "900": $gray-900
+), $grays);
+
+$blue:    #79A9F5;
+$indigo:  #C45F90;
+$purple:  #A16AE8;
+$pink:    #ff214f;
+$red:     #F85C70;
+$orange:  #FF8882;
+$yellow:  #FAD02C;
+$green:   #A3C14A;
+$teal:    #20c997;
+$cyan:    #47D8E0;
+
+$colors: ();
+$colors: map-merge((
+  "blue":       $blue,
+  "indigo":     $indigo,
+  "purple":     $purple,
+  "pink":       $pink,
+  "red":        $red,
+  "orange":     $orange,
+  "yellow":     $yellow,
+  "green":      $green,
+  "teal":       $teal,
+  "cyan":       $cyan,
+  "white":      $white,
+  "gray":       $gray-600,
+  "gray-dark":  $gray-800
+), $colors);
+
+$primary:       $pink;
+$secondary:     $gray-600;
+$success:       $green;
+$info:          $cyan;
+$warning:       $orange;
+$danger:        $red;
+$light:         $gray-100;
+$dark:          $gray-800;
+
+$theme-colors: ();
+$theme-colors: map-merge(
+  (
+    "primary":    #ff214f,
+    "secondary":  $secondary,
+    "success":    $success,
+    "info":       $info,
+    "warning":    $warning,
+    "danger":     $danger,
+    "light":      $light,
+    "dark":       $dark
+  ),
+  $theme-colors
+);
+
+$theme-color-interval:      8%;
+
+
+// The yiq lightness value that determines when the lightness of color changes from "dark" to "light". Acceptable values are between 0 and 255.
+$yiq-contrasted-threshold:  150;
+
+// Customize the light and dark text colors for use in our YIQ color contrast function.
+$yiq-text-dark:             $gray-900;
+$yiq-text-light:            $white;
+
+
+// Define common padding and border radius sizes and more.
+$line-height-lg:              1.5;
+$line-height-sm:              1.5;
+
+$border-width:                1px;
+$border-color:                red;
+
+$border-radius:               .2rem;
+$border-radius-lg:            .15rem;
+$border-radius-sm:            .1rem;
+
+
+
+// Body
+$body-bg:                   $white;
+$body-color:                $gray-700;
+
+
+// Fonts
+$font-family-sans-serif:      'Fira Sans', sans-serif;
+$font-family-monospace:       SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+$font-family-base:            $font-family-sans-serif;
+
+// Font, line-height, and color for body text, headings, and more.
+$font-size-base:              1rem; // Assumes the browser , typically `16px`
+$h1-font-size:                $font-size-base * 3;
+$h2-font-size:                $font-size-base * 2.5;
+$h3-font-size:                $font-size-base * 1.85;
+$h4-font-size:                $font-size-base * 1.6;
+$h5-font-size:                $font-size-base * 1.3;
+$h6-font-size:                $font-size-base;
+$text-muted:                  $gray-500;
+$section-title-font-size:     4rem;
+
+
+// sections
+$section-padding-y: 100px;
+$section-padding-x: 0;
+
+// components
+$component-active-color:      $white ;
+$component-active-bg:         theme-color("primary");
+
+// border
+$border-color:                $gray-200;
+
+// navbar
+$navbar-padding-y:                 1rem;
+$navbar-nav-link-padding-x:        .7rem;
+$navbar-nav-link-font-weight:      700;
+
+$navbar-dark-color:                $white;
+$navbar-light-color:               $gray-800;
+
+$navbar-dark-active-color:         $primary;
+$navbar-light-active-color:        $primary;
+
+
+// Links
+$link-color:                theme-color("primary");
+$link-decoration:           none;
+$link-hover-color:          darken($link-color, 15%);
+$link-hover-decoration:     underline;
+
+
+
+// Buttons + Forms
+$input-btn-padding-y:         .480rem;
+$input-btn-padding-x:         .75rem; 
+
+$input-btn-focus-width:       .2rem;
+$input-btn-focus-color:       rgba($component-active-bg, .25);
+$input-btn-focus-box-shadow:  0 0 0 $input-btn-focus-width $input-btn-focus-color;
+
+$input-btn-padding-y-sm:      .25rem;
+$input-btn-padding-x-sm:      .5rem;
+$input-btn-line-height-sm:    $line-height-sm;
+
+$input-btn-padding-y-lg:      .700rem;
+$input-btn-padding-x-lg:      .950rem;
+$input-btn-line-height-lg:    $line-height-lg;
+
+$input-btn-border-width:      $border-width; 
+
+
+$btn-padding-y:               $input-btn-padding-y;
+$btn-padding-x:               $input-btn-padding-x; 
+
+$btn-padding-y-sm:            $input-btn-padding-y-sm;
+$btn-padding-x-sm:            $input-btn-padding-x-sm;
+$btn-line-height-sm:          $input-btn-line-height-sm;
+
+$btn-padding-y-lg:            $input-btn-padding-y-lg;
+$btn-padding-x-lg:            $input-btn-padding-x-lg;
+$btn-line-height-lg:          $input-btn-line-height-lg;
+
+$input-padding-y:                       $input-btn-padding-y * 2;
+$input-padding-x:                       $input-btn-padding-x; 
+
+$input-padding-y-sm:                    $input-btn-padding-y-sm;
+$input-padding-x-sm:                    $input-btn-padding-x-sm;
+$input-line-height-sm:                  $input-btn-line-height-sm;
+
+$input-padding-y-lg:                    $input-btn-padding-y-lg;
+$input-padding-x-lg:                    $input-btn-padding-x-lg;
+$input-line-height-lg:                  $input-btn-line-height-lg;
+
+$input-focus-box-shadow:                $input-btn-focus-box-shadow;
+$input-focus-border-color:              lighten($component-active-bg, 25%);
+
+// custom forms
+$custom-form-control-bg:                     transparent;
+$custom-form-control-color: $white;
+$custom-form-control-border-width:           2px;
+$custom-form-control-active-border-color:    $primary;
+$custom-form-control-active-bg:              rgba($gray-800, .2);
+
+
+// paginations
+$pagination-color:                  $link-color;
+$pagination-bg:                     $white;
+$pagination-border-width:           $border-width;
+$pagination-border-color:           $gray-300;
+
+$pagination-focus-box-shadow:       $input-btn-focus-box-shadow;
+$pagination-focus-outline:          0;
+
+$pagination-hover-color:            $link-hover-color;
+$pagination-hover-bg:               $gray-200;
+$pagination-hover-border-color:     $gray-300;
+
+$pagination-active-color:           $component-active-color;
+$pagination-active-bg:              $component-active-bg;
+$pagination-active-border-color:    $pagination-active-bg;
+
+$pagination-disabled-color:         $gray-600;
+$pagination-disabled-bg:            $white;
+$pagination-disabled-border-color:  $gray-300;
+
+
+
+// Cards
+
+$card-border-color:                 $border-color;
+$testmonial-border-width:           2px;
+$testmonial-border-radius:          $border-radius;
+$testmonial-subtitle-font-size:     .8rem;
+$testmonial-subtitle-opacity:       .8;
+$testmonial-subtitle-spacing:       1px;
+$testmonial-title-font-size:        $h3-font-size;
+$testmonial-body-padding:           1rem;
+$testmonial-top-spacer:             30px;
+
+
+// code
+$pre-bg:                            $gray-700;
+$pre-color:                         lighten($primary, 10%);
+$pre-border-radius:                 $border-radius;
+$pre-padding:                       1rem;
+$pre-scrollable-max-height:         300px;
+
+
+// hr
+$hr-border-color:             rgba($white, .1);
+$hr-border-width:             $border-width;
+
+
+
+// Tables
+$table-border-color:          $gray-700;
+
+
+// Paginations
+$pagination-color:                  $gray-900;
+$pagination-bg:                     $gray-200;
+$pagination-border-color:           $gray-300;
+$pagination-active-color:           $component-active-color;
+$pagination-active-bg:              $component-active-bg;
+
+
+// Breadcrumb
+$breadcrumb-bg:                     transparent;
+

@@ -1,0 +1,41 @@
+@mixin custom-transition($property, $duration,$delay, $timing-function: linear) {
+    -webkit-transition: $property $duration $timing-function $delay;
+    -moz-transition: $property $duration $timing-function $delay;
+    -o-transition: $property $duration $timing-function $delay;
+    transition: $property $duration $timing-function $delay;
+}
+
+
+// box shadows
+@mixin custom-box-shadow($level,$color1,$color2,$opc1,$opc2) {
+
+    @if $level == 1 {
+        box-shadow: 0 1px 3px rgba($color1,$opc1), 0 1px 2px rgba($color2,$opc2);
+    } @else if $level == 2 {
+        box-shadow: 0 3px 6px rgba($color1,$opc1), 0 3px 6px rgba($color2,$opc2);
+    } @else if $level == 3 {
+        box-shadow: 0 10px 20px rgba($color1,$opc1), 0 6px 6px rgba($color2,$opc2);
+    } @else if $level == 4 {
+        box-shadow: 0 14px 28px rgba($color1,$opc1), 0 10px 10px rgba($color2,$opc2);
+    } @else if $level == material {
+        box-shadow: 0 4px 5px 0 rgba($color1,$opc1), 0 1px 10px 0 rgba($color2,$opc2), 0 2px 4px -1px rgba($color1,$opc1) !important;
+    } @else if $level == blur {
+        -webkit-box-shadow: 0 3px 80px rgba($color1,$opc1), 0 0 10px rgba($color1,$opc2) !important;
+		-moz-box-shadow: 0 3px 80px rgba($color1,$opc1), 0 0 10px rgba($color1,$opc2) !important;
+		box-shadow: 0 3px 80px rgba($color1,$opc1), 0 0 10px rgba($color1,$opc2) !important;
+    } @else if $level == bottom-only {
+        -webkit-box-shadow: 0 3px 30px rgba($color1,$opc1),0 1px 2px rgba($color2,$opc2);
+		-moz-box-shadow: 0 3px 30px rgba($color1,$opc1),0 1px 2px rgba($color2,$opc2);
+		box-shadow: 0 3px 30px rgba($color1,$opc1),0 7px 25px rgba($color2,$opc2);
+    }
+}
+
+@mixin material-box-shadow($name,$color,$opc) {
+
+	@if $name == material-box-shadow {
+		box-shadow: 0 2px 5px 0 rgba($color,$opc) !important;		
+	} @else if $name == material-hover-box-shadow {
+		box-shadow: 0 4px 10px 0px rgba($color,$opc) !important;	
+	}
+
+}

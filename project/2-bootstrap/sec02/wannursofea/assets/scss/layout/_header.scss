@@ -1,0 +1,59 @@
+.header {
+    height: 100%;
+    min-height: 600px;
+    background: url(../imgs/header.jpg) no-repeat center center fixed;
+    background-size: cover;
+
+    .overlay {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba($black,.45);
+        color: $white;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+
+        .subtitle {
+            margin-top: -20px;
+            font-size: calc(20px + (30 - 20) * ((100vw - 320px) / (1200 - 320)));
+            font-weight: 300;
+        }
+
+        .title {
+            font-size: calc(40px + (90 - 40) * ((100vw - 320px) / (1200 - 320)));   
+            margin-bottom: 40px;        
+        }
+    }
+
+    @include media-breakpoint-down(sm) {
+        .overlay {
+
+            .subtitle {
+                margin-top: 0;
+            }
+        }
+    }
+
+    &-title {
+        font-size: 2.4rem;
+        font-weight: bold;
+        opacity: .8;
+    }
+
+    // header mini
+    &-mini {
+        min-height: 24rem;
+        height: 24rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        padding: 1rem;
+        background: lighten($primary, 25%) !important;
+    }
+}

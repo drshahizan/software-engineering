@@ -1,0 +1,112 @@
+// Custom Navigation
+.custom-navbar {
+	min-height: 70px;
+	position: absolute;
+	top: 30px;
+	left: 0;
+	right: 0;
+	margin: auto;
+	width: 95%;
+	max-width: 1050px;
+	border: 1px solid rgba($border-color,.15);
+	border-radius: $border-radius;
+	z-index: 9999;
+	@include transition(all,.33s);
+	padding: 0 10px;
+
+	.navbar-toggler {
+		border: 1px solid rgba($gray-200,.2);
+		height: 55px;
+
+		span{
+			width: 35px;
+			height: 3px ;
+			display: block;
+			background-color: rgba($gray-200,.2);
+			border-radius: 10px;
+
+			&:after,
+			&:before {
+				content: '';
+				width: 35px;
+				display: block;
+				height: 3px;
+				color: $gray-700;
+				background-color: rgba($gray-200,.2);
+			}
+
+			&:after {
+				transform: translateY(-13px);
+			}
+			&:before {
+				transform: translateY(9px);
+				
+			}
+			
+		}
+
+	} 
+
+
+	.navbar-brand {
+
+		img {
+			width: 50px;
+		}
+	}
+
+	.nav-link {
+		margin: 0 5px;
+		font-weight: 600;
+		font-size: 14px;
+		color: $white !important;
+
+
+		&.active {
+			color: $primary !important;
+		}
+	}
+
+	&.affix {
+		position: fixed;
+		width: 100%;
+		max-width: 100%;
+		background: $white;
+		animation-name: affix;
+		animation-duration: .6s;
+		top: 0;
+		border-radius: 0;
+		border-bottom: 1px solid $gray-200; 
+
+		.navbar-toggler {
+			border-color: rgba($gray-700,.2) !important;
+
+			span,
+			span:before,
+			span:after {
+				background: rgba($gray-700,.2) !important;
+			}
+		}
+
+
+
+		.nav-link {
+			color: $gray-700 !important;
+
+			&.active {
+				color: $primary !important;
+			}
+		}
+	}
+}
+
+@keyframes affix {
+	from {
+		top: -460px;
+		width: 100%;
+	}
+
+	to {
+		top: 0;
+	}
+}

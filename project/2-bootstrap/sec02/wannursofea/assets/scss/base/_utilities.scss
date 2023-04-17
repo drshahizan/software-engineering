@@ -1,0 +1,27 @@
+.mb-6 {
+	margin-bottom: 65px !important;
+}
+.mb-4 {
+	margin-bottom: 30px !important
+}
+
+
+.bg-primary,
+.bg-secondary,
+.bg-success,
+.bg-info,
+.bg-warning,
+.bg-danger,
+.bg-dark{
+	.navbar-brand{ 
+		color: $white; 
+		&:hover { color: darken($white, 10%); }
+	}
+}
+
+.bg-light{
+	.navbar-brand{ 
+		color: $dark; 
+		&:hover { color: darken($dark, 10%); }
+	}
+}
