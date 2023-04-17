@@ -7,9 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-#  Proposal Template
-
-## Project Title
+## Student Feedback System at University Technology Malaysia (UTM)
 
 
 ### Prepared by: <Group name>
@@ -68,6 +66,28 @@ This section describe the ideal software process model for this system developme
 - Explain how the data will be stored, managed, and analyzed, as well as the hardware and software requirements needed to support the system.
 - Discuss the tools and frameworks that will be used for data visualization and analysis.
 - Provide a flowchart or block diagram of the system architecture.
+
+The proposed system architecture for a student feedback system in University Technology Malaysia (UTM) can be designed as follows:
+
+Front-end Interface:
+The front-end interface will be the part of the system that the students will interact with. It will be a user-friendly interface that allows students to provide feedback on various aspects of their learning experience, including instructors, courses, and facilities. The interface will be accessible through a web-based platform, making it easy for students to provide feedback from anywhere, at any time.
+
+Back-end Server:
+The back-end server will be responsible for storing and processing the feedback data collected from students. It will be designed to handle large volumes of data and provide secure storage and retrieval of data. The server will use a database management system to manage and store the feedback data collected.
+
+Data Processing and Analysis Module:
+The data processing and analysis module will be responsible for analyzing the feedback data collected from students. It will use data analysis techniques such as sentiment analysis, clustering, and visualization to identify patterns and trends in the feedback data. This module will help the university administration to make informed decisions about improving the quality of education and student experience.
+
+Reporting Module:
+The reporting module will be responsible for generating reports based on the feedback data collected. These reports will be designed to provide insights into the strengths and weaknesses of the educational system at UTM, as well as the needs and preferences of the students. These reports can be used by the faculty and administration to make data-driven decisions to improve the quality of education and the student experience.
+
+Authentication and Security Module:
+The authentication and security module will be responsible for ensuring that only authorized users can access the system. It will use secure authentication protocols and data encryption techniques to protect the sensitive information collected from students. This module will ensure that the feedback system is secure, confidential, and compliant with data privacy regulations.
+
+Integration Module:
+The integration module will allow for the integration of the feedback system with other systems and applications used at UTM, such as the Learning Management System (LMS). This will enable the system to access relevant student data and provide a more comprehensive analysis of the feedback data collected. The integration module will also enable the system to send alerts and notifications to relevant stakeholders, such as instructors and administrators, based on the feedback data collected.
+
+Overall, the proposed system architecture will be designed to be scalable, secure, and user-friendly, enabling the university to collect and analyze feedback data from students to improve the quality of education and the student experience at UTM.
 
 ### 8. Risks Assessment:
 - The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
