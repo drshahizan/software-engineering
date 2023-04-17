@@ -1,7 +1,7 @@
 .grid-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: auto 1fr 1fr 1fr;
   grid-gap: 20px;
   height: 100vh;
 }
@@ -9,7 +9,7 @@
 .grid-container2 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-rows: auto 1fr 4fr;
   grid-gap: 20px;
   height: 100vh;
 }
@@ -22,22 +22,28 @@
 }
 
 .header2 {
-  grid-column: 1 / 4;
+  grid-column: 1 / span 3;
   background-color: #62349a;
   color: #ffffff;
   padding: 20px;
+  border-color: black;
+  border-style: solid;
 }
 
 .main {
   grid-column: 1 / 2;
-  background-color: #9a5353;
+  background-color: #b76c6c;
   padding: 20px;
+  border-color: black;
+  border-style: solid;
 }
 
 .sidebar {
   grid-column: 4 / 2;
-  background-color: #5585cd;
+  background-color: #6791d1;
   padding: 20px;
+  border-color: black;
+  border-style: solid;
 }
 
 .footer {
@@ -45,20 +51,25 @@
   background-color: #f1fcab;
   color: #ffffff;
   padding: 20px;
+  border-color: black;
+  border-style: solid;
 }
 
 .red{
-  grid-row: 1 / 2;
   background-color: lightcoral;
   padding: 20px;
+  border-color: #333333;
+  border-style: solid;
 }
 .green{
-  grid-row: 1 / 2;
   background-color: lightgreen;
   padding: 20px;
+  border-color: #333333;
+  border-style: solid;
 }
 .mustard{
-  grid-row: 1 / 2;
   background-color: goldenrod;
   padding: 20px;
+  border-color: #333333;
+  border-style: solid;
 }
