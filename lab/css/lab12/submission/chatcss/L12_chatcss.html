@@ -133,8 +133,9 @@
         }
 
         .box2 {
+            margin: 30px;
             border: 40px solid greenyellow;
-            width: 300px;
+            width: 350px;
             height: 200px;
             display: flex;
             justify-content: center;
@@ -163,9 +164,8 @@
 
         .box3 {
             margin: 0 auto;
-            text-align: center;
             display: flex;
-            justify-content: center;
+            flex-direction: column;
             align-items: center;
             border: 3px solid rgb(42, 75, 165);
             background-color: rgba(1, 247, 177, 0.483);
@@ -173,12 +173,23 @@
             height: 500px;
         }
 
+
         .photo {
             border: 5px dotted rgb(251, 0, 255);
         }
 
+        .photo img {
+            max-width: 90%;
+            max-height: 90%;
+            align-items: center;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+        }
+
         #lab6-text2 {
             border: 6px dashed rgb(248, 80, 3);
+            background-color: rgb(115, 205, 230);
             overflow-y: scroll;
             text-align: left;
             height: 200px;
@@ -288,25 +299,35 @@
     <!-- Lab 6 -->
     <h1 id="header">Lab 6: Box Model 3</h1>
     <div class="box3">
+        <h1>Universiti Teknologi Malaysia</h1>
+        <div class="photo"><img src="images/utm_logo.png"></div>
+        <br><br>
         <span id="lab6-text2">
-            <span class="lab6-text3"> UTM has three campuses ─ the main campus is in Skudai, and was the first university in the state of
-            Johor.</span> It has an area of 1148 hectares[9] and is the second largest university after Universiti Putra
+            <span class="lab6-text3"> UTM has three campuses ─ the main campus is in Skudai, and was the first
+                university in the state of
+                Johor.</span> It has an area of 1148 hectares[9] and is the second largest university after Universiti
+            Putra
             Malaysia (UPM). It is about 20 km north of the state capital, Johor Bahru. The new branch campus located
             in Pagoh was officially opened on 2 May 2017. Universiti Teknologi Malaysia Innovation Centre in
             Agritechnology
             for Advanced Bioprocessing (UTM-ICA) is strategically located off the Pagoh interchange on the north-south
             expressway, in the district of Muar, Johor. <br>
 
-            <span class="lab6-text3"> The branch campus is situated in Jalan Semarak within, with an area of 38 hectares. </span> 
-            The branch campus accommodates diploma students, part-time students (also known as the SPACE program), undergraduate
-            students (Malaysia-Japan International Institute of Technology) and foreign students taking business courses. <br>
+            <span class="lab6-text3"> The branch campus is situated in Jalan Semarak within, with an area of 38
+                hectares. </span>
+            The branch campus accommodates diploma students, part-time students (also known as the SPACE program),
+            undergraduate
+            students (Malaysia-Japan International Institute of Technology) and foreign students taking business
+            courses. <br>
 
-            <span class="lab6-text3"> The new branch campus located in Pagoh was officially opened on 2 May 2017. </span> 
-            Universiti Teknologi Malaysia Innovation Centre in Agritechnology for Advanced Bioprocessing (UTM-ICA) is strategically located off the
-            Pagoh interchange on the north–south expressway, in the district of Muar, Johor. A 50-hectare campus equipped with
+            <span class="lab6-text3"> The new branch campus located in Pagoh was officially opened on 2 May 2017.
+            </span>
+            Universiti Teknologi Malaysia Innovation Centre in Agritechnology for Advanced Bioprocessing (UTM-ICA) is
+            strategically located off the
+            Pagoh interchange on the north–south expressway, in the district of Muar, Johor. A 50-hectare campus
+            equipped with
             shared facilities integrated with Bandar University Pagoh.
         </span>
-
     </div>
 </body>
 
