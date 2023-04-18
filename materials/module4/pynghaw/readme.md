@@ -26,7 +26,14 @@ The requirements need to be validated to ensure that they meet the needs of stak
 ### Verification: 
 The final step is to verify that the requirements have been met. This involves testing the system against the requirements, verifying that the system operates as expected, and ensuring that any defects or issues are resolved before the system is deployed.
 
+## Stakeholders:
 
+### Library staff: 
+The library staff are the primary stakeholders in the creation of a library management system. They are responsible for managing the library's resources and interacting with users on a daily basis. Engaging library staff in the process of creating a library management system is important to ensure that the system meets their needs and is easy to use.
+
+### Library users: Library users are another important stakeholder group. They rely on the library to provide access to information and resources, and they interact with the library staff and the library management system on a regular basis. Engaging library users in the process of creating a library management system is important to ensure that the system meets their needs and provides a positive user experience.
+
+### IT staff: The IT staff are responsible for developing and maintaining the library management system. Engaging IT staff in the process of creating a library management system is important to ensure that the system is technically sound and meets industry standards for security, performance, and reliability.
 
 ## Key steps in creating Library Management System
 Developing a  Library Management System for a university involves several key steps:
