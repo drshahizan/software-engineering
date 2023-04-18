@@ -150,7 +150,50 @@ The system should be designed to perform efficiently and reliably, with minimal 
 #### 6. Maintenance and support
 The system should be easy to maintain and support, with appropriate documentation and training materials provided for users and administrators.
 
+## Functional Requirements:
 
+User registration and authentication: The system should allow users to register and authenticate their accounts to access the system's functionalities.
+
+### 1. Profile Management
+The system should provide users with the ability to create and manage their profiles, including personal information, academic records, and preferences.
+
+### 2. Appointment Scheduling
+The system should provide users with the ability to schedule appointments with academic advisors, including scheduling tools, calendar integration, and appointment confirmation.
+
+### 3. Course planning and scheduling
+The system should provide students with tools to plan their course schedules, view course availability, and register for classes. Advisors should be able to help students plan their courses and approve course selections.
+
+### 4. Academic Progress Tracking
+The system should provide users with tools to track their academic progress, including grades, credits earned, and program requirements.
+
+### 5. Resource and Referral Management
+The system should provide users with access to academic resources and support services, including tutoring, counseling, and career services. Advisors should be able to refer students to relevant resources as needed.
+
+### 6. Communication and Messaging
+The system should provide users with communication tools, including messaging and email functionality, to enable easy and efficient communication between students and advisors.
+
+## Non-Functional Requirements:
+
+### 1. Security
+The system should be designed to be secure, with appropriate measures in place to protect student data and ensure compliance with relevant regulations.
+
+### 2. Performance
+The system should be designed to perform efficiently and reliably, with minimal downtime or errors.
+
+### 3. Scalability
+The system should be able to handle large volumes of users and data, and should be designed to accommodate growth over time.
+
+### 4. Usability
+The system should be user-friendly and easy to navigate, with a clear and intuitive interface.
+
+### 5. Accessibility
+The system should be accessible to users with disabilities, with features such as screen readers and keyboard navigation.
+
+### 6. Compatibility
+The system should be compatible with a variety of devices and platforms, including desktop and mobile devices, and should support multiple browsers.
+
+### 7. Maintenance and Support
+The system should be easy to maintain and support, with appropriate documentation and training materials provided for users and administrators.
 
 
 ## Contribution 🛠️
