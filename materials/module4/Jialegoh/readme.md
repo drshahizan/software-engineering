@@ -76,4 +76,45 @@ Requirement engineering is a crucial process in the development of a Student Hea
 
 -The system should be customizable to meet the individual needs of each student.
 
+
+# Users and system requirements
+
+## Users:
+
+### 1. Students: 
+The primary users of the system, who will use it to schedule appointments with health professionals and wellness coaches, access educational resources on health and wellness topics, and track and monitor their health and wellness goals and progress.
+
+### 2. Health Professionals: 
+The staff who will use the system to manage appointments, communicate with students, and access student health records.
+
+### 3. Wellness Coaches: 
+The staff who will use the system to manage appointments, communicate with students, and provide guidance on healthy living and wellness.
+
+### 4. Administrators: 
+The staff who will manage and maintain the system, including system updates, security, and user management.
+
+## System Requirements:
+
+### 1. Access Control: The system should provide different levels of access control for different user roles, allowing students to access their own health records, and health professionals and wellness coaches to access records of students they are assigned to.
+
+### 2. Appointment Scheduling: The system should allow students to schedule appointments with health professionals and wellness coaches, and allow staff to manage those appointments.
+
+### 3. Communication: The system should provide a platform for secure communication between students and health professionals, and between students and wellness coaches.
+
+### 4. Health Education: The system should provide access to educational resources on health and wellness topics, such as articles, videos, and podcasts.
+
+### 5. Goal Setting: The system should allow students to set health and wellness goals and track their progress towards those goals.
+
+### 6. Data Privacy: The system should comply with applicable laws and regulations related to the protection of sensitive health information, and should have appropriate security measures in place to protect user data.
+
+### 7. Scalability: The system should be able to handle a large number of users simultaneously and be able to scale as user numbers grow.
+
+### 8. Integration: The system should be able to integrate with existing university systems such as student information systems and electronic health records.
+
+### 9. Usability: The system should have a user-friendly interface and be easy to navigate, with clear and concise instructions.
+
+### 10. Accessibility: The system should be accessible to users with disabilities, such as those who require assistive technologies or alternative input methods.
+
+### 11. Customization: The system should be customizable to meet the individual needs of each student, allowing them to set preferences for notifications, appointments, and content.
+
 ## Contribution 🛠️
