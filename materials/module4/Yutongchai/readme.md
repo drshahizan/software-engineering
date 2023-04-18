@@ -8,6 +8,12 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): University Social Network System
+A university social networking system is a platform designed to facilitate communication and collaboration among students, faculty, and staff within a university community. It allows users to create profiles, share information, participate in discussions, join interest groups, and connect with other members of the university community.
+
+University social networking systems can provide a variety of features, including messaging, file sharing, event management, and course collaboration tools. They can be accessed through both desktop and mobile devices, providing users with the flexibility to stay connected and engaged with their university community anytime, anywhere.
+
+Overall, a university social networking system can enhance the sense of community and foster a collaborative and supportive environment for learning and growth.
+
 ## Key steps
 The development of a University Social Network system involves several key steps:
 
