@@ -44,10 +44,10 @@ The system should be easy to use and provide a user-friendly interface for both 
 
 ### The user requirements in a library management system are related to the needs and expectations of the system's users, which include librarians, library staff, and patrons. Some common user requirements for a library management system include:
 
-###### Easy-to-use interface: 
+##### Easy-to-use interface: 
 The system should have a user-friendly interface that is easy to navigate, even for users who are not technically savvy.
 
-###### Fast search and retrieval: 
+##### Fast search and retrieval: 
 The system should be able to quickly search and retrieve items from the library's collection, including books, journals, and other resources.
 
 ##### Availability of materials: 
