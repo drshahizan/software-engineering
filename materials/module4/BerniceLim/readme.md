@@ -110,11 +110,16 @@ Performance: The system should be fast and responsive, with minimal latency, to 
 
 ## Functional Requirement for Student Engagement System
 <ol type='1'> 
-  <li><b>Course management</b>:<br> The system should allow teachers to create, manage, and publish courses, including course materials, assignments, and assessments.</li>
-   <li><b>Real-time feedback</b>:<br>  The system should enable teachers to provide feedback to students in real-time, including feedback on assignments, quizzes, and exams.</li>
-   <li><b>Collaboration tools</b>:<br>  The system should include tools that facilitate collaboration between students, such as discussion forums, chat rooms, and group projects.</li>
-   <li><b>Personalization</b>:<br>  The system should enable personalized learning experiences for students, including adaptive learning paths, customized content, and tailored assessments.</li>
-   <li><b>Gamification</b>:<br>  The system should include gamification elements to keep students motivated and engaged, such as rewards, badges, and leaderboards.</li>
+  <li><b>Course management</b>:<br>
+    The system should allow teachers to create, manage, and publish courses, including course materials, assignments, and assessments.</li>
+   <li><b>Real-time feedback</b>:<br>  
+     The system should enable teachers to provide feedback to students in real-time, including feedback on assignments, quizzes, and exams.</li>
+   <li><b>Collaboration tools</b>:<br> 
+     The system should include tools that facilitate collaboration between students, such as discussion forums, chat rooms, and group projects.</li>
+   <li><b>Personalization</b>:<br> 
+     The system should enable personalized learning experiences for students, including adaptive learning paths, customized content, and tailored assessments.</li>
+   <li><b>Gamification</b>:<br>  
+     The system should include gamification elements to keep students motivated and engaged, such as rewards, badges, and leaderboards.</li>
    
   
     
