@@ -165,9 +165,33 @@ a. The system should integrate with other academic systems, such as course manag
 Meeting these functional requirements is essential for the successful implementation and use of an academic grading system, as it ensures that the system performs the necessary tasks and functions required by its users.
 
 
+## Non- Functional Requirement:
 
+Non-functional requirements in an academic grading system refer to the characteristics or qualities that the system must have or comply with, but that are not related to its specific features or functions. These requirements describe how the system should perform, rather than what it should do.
 
+The non-functional requirements for an academic grading system may include:
 
+### 1. Usability:
+a.The system should be user-friendly and easy to use for all stakeholders.
+b.The system should provide clear instructions and feedback to users
+
+### 2.Performance:
+a.The system should be responsive and perform efficiently, even with a large volume of users and data.
+b.The system should have acceptable response times for data entry and retrieval.
+
+### 3. Availability:
+a.The system should be available to users at all times, with minimal downtime or interruptions.
+b.The system should have backup and recovery mechanisms in case of system failures or disasters.
+
+### 4.Security:
+a.The system should be secure and protect against unauthorized access, data breaches, and cyber-attacks.
+b.The system should comply with industry standards and regulations for data security and privacy.
+
+### 5. Compatibility:
+a. The system should be compatible with various operating systems and web browsers.
+b. The system should support mobile devices to accommodate users who need to access the system remotely.
+
+Meeting these non-functional requirements is critical for the successful implementation and adoption of an academic grading system, as they ensure that the system performs effectively, efficiently, and safely for all its users.
 
 
 
