@@ -33,6 +33,24 @@ Determine who will be using the system, including shippers, carriers, and recipi
 
 - System requirements.
 
+  - Scalability: The system should be able to handle a high volume of package deliveries, especially during peak times, such as the start and end of the semester.
+
+  - Reliability: The system should be reliable and available 24/7 to ensure that students can access the system and track their packages at any time.
+
+  - Security: The system should have robust security features to protect student and staff data, including encryption, firewalls, and secure login credentials.
+
+  - Integration: The system should be easily integrated with the university's existing systems, such as the student information system and payment processing system.
+
+  - Mobile optimization: The system should be optimized for mobile devices, allowing students to access the system and track their packages from their smartphones and tablets.
+
+  - Real-time tracking: The system should provide real-time tracking information to students and staff, including package location, delivery status, and estimated delivery time.
+
+  - Automated notifications: The system should provide automated notifications to students and staff, including email or text message alerts, when packages are ready for pick-up or delivery.
+
+  - Payment processing: The system should integrate with the university's payment processing system to allow for seamless payment processing and tracking.
+
+  - Data analysis: The system should provide data analysis and reporting capabilities to track package delivery performance, identify areas for improvement, and provide insights to university administrators.
+
 ## 3. Define the system requirements:
 
 Determine the features and functionality required for the system, such as parcel tracking, payment processing, and delivery options. Consider the user interface, security, integration with other systems, scalability, performance, and maintenance requirements.
