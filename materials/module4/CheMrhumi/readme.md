@@ -34,7 +34,7 @@ Continuously monitor and evaluate the performance and effectiveness of the food 
 Launch the food ordering system on campus and promote its usage among the target users. Use various channels, such as campus-wide announcements, social media, and promotional campaigns, to create awareness and encourage adoption of the system.
 
 
-# System Requirements
+# ~System Requirements
 
 ## 1.Platform: 
 Determine the platform for the food ordering system, such as a web-based application, a mobile app, or a combination of both. Consider factors such as user preferences, accessibility, and ease of use.
@@ -68,3 +68,44 @@ Consider integration with other existing systems on campus, such as student info
 
 ## 11.Support and Maintenance: 
 Plan for ongoing support and maintenance of the food ordering system, including bug fixes, updates, and technical support. Ensure that the system is scalable, flexible, and can accommodate future enhancements and changes.
+
+# ~User Requirements
+
+## 1.Easy and intuitive user interface:
+Users should be able to easily navigate through the system, browse menus, customize orders, and place orders without facing any usability challenges. The user interface should be visually appealing, responsive, and accessible across different devices.
+
+## 2.Seamless order placement process: 
+Users should be able to easily select food items, customize orders based on their preferences (e.g., dietary restrictions, portion size), specify delivery or pickup options, and review their orders before finalizing them. The order placement process should be straightforward, efficient, and error-free.
+
+## 3.Clear and detailed menu information:
+Users should be able to access comprehensive and accurate information about food items, including item descriptions, images, prices, availability status, and dietary information (e.g., allergen information, vegan/vegetarian options). The menu information should be up-to-date and easily accessible.
+
+## 4.Multiple payment options: 
+Users should have the flexibility to choose from various payment methods, such as credit/debit cards, mobile wallets, or campus meal plans, based on their preferences and convenience. The payment process should be secure, reliable, and easy to use.
+
+## 5.Order tracking and history:
+Users should be able to track the status of their orders in real-time, view their order history, and receive notifications about order updates or delays. This helps users stay informed and manage their orders effectively.
+
+## 6.Guest checkout option:
+Users who do not wish to create an account should have the option to place orders as guests without needing to register or log in. This can provide a convenient and quick checkout process for users who prefer not to create an account.
+
+## 7.Flexibility in delivery and pickup options:
+Users should have options to choose from different delivery or pickup options based on their preferences, such as on-campus delivery, off-campus delivery, or self-pickup. The system should provide clear information about delivery areas, delivery times, and pickup locations.
+
+## 8.Special promotions and discounts:
+Users may expect to receive special promotions, discounts, or loyalty rewards as part of the food ordering system. The system should be able to handle and apply these promotions accurately based on predefined rules or user-specific criteria.
+
+## 9.User feedback and reviews:
+Users may want to provide feedback or reviews on their food orders or overall experience with the system. The system should provide an easy and convenient way for users to provide feedback, which can help improve the system and the quality of food services.
+
+## 10.Security and privacy: 
+Users expect that their personal information, payment details, and order history are securely stored and protected. The system should implement appropriate security measures, such as encryption, authentication, and authorization, to ensure user data privacy and security.
+
+
+
+
+
+
+
+
+
