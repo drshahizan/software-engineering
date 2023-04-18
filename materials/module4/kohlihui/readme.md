@@ -1,3 +1,5 @@
+## Key features about academic course registration system in university
+
 An academic course registration system for a university would be a web-based application that allows students to browse and select courses they want to take, and for university staff to manage the course catalog, enrollment, and scheduling. Here are some key features that could be included in such a system:
 
 Course Catalog: The system should have a searchable and filterable course catalog that lists all the courses offered by the university, along with their descriptions, prerequisites, and other relevant information.
