@@ -238,6 +238,41 @@ The system should comply with relevant legal, regulatory, and institutional poli
 
 These are some common non-functional requirements for an online student grading system in a university. It is important to consider both functional and non-functional requirements when designing, developing, and implementing such a system to ensure its effectiveness, reliability, and security in supporting the grading process for students.
 
+## What to do Before, During and After Interview with Stakeholders
+
+## Before the Interview
+
+- Research the Topic: Familiarize yourself with the concept of online student grading systems. Understand how they work, their benefits, challenges, and common features.
+
+- Prepare Questions: Develop a list of relevant questions to ask during the interview. Consider asking about the stakeholders involved, the requirements for the system, the technology used, the challenges faced, and the best practices for implementation.
+
+- Identify Interviewees: Identify potential interviewees who have expertise in online student grading systems, such as faculty members, administrators, IT personnel, or other relevant stakeholders.
+
+## During the Interview
+
+- Active Listening: Listen attentively to the interviewee's responses and ask follow-up questions to gain a deeper understanding of their experiences and perspectives on the topic.
+
+- Take Notes: Take detailed notes during the interview to capture important information and insights shared by the interviewee.
+
+- Seek Examples: Request examples or case studies of successful online student grading system implementations or challenges faced during implementation.
+
+- Respect Interviewee's Opinions: Be respectful of the interviewee's opinions and perspectives, even if they differ from your own. Avoid interrupting or challenging their views.
+
+## After the Interview
+
+- Review Notes: Review your notes from the interview to ensure accuracy and completeness.
+
+- Analyze and Synthesize: Analyze the information gathered from the interview and synthesize the findings to identify common themes, trends, and insights related to the online student grading system.
+
+- Reflect and Interpret: Reflect on the interview findings and interpret them in the context of your research topic. Consider how the information gathered can contribute to your understanding of the topic.
+
+- Follow-Up: If needed, follow up with the interviewees for any clarifications or additional information.
+
+- Reference: Properly cite and acknowledge the interviewees' contributions in your research, if applicable.
+
+Remember to conduct yourself professionally during the interview, respect the interviewee's time and opinions, and use the information gathered to enhance your understanding of the topic of online student grading systems.
+
+
 
 ## Summary
 
