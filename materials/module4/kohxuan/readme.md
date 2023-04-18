@@ -27,7 +27,7 @@ Requirements engineering is the process of eliciting, analyzing, documenting, an
 
 The following are some key steps in the requirements engineering process for a Student Health and Wellness Management System:
 
-##3 1. Elicitation of Requirements: 
+### 1. Elicitation of Requirements: 
 This involves gathering information from various stakeholders, such as students, healthcare providers, and administrators, about the needs and requirements of the system. This can be done through interviews, surveys, focus groups, and other techniques.
 
 ### 2. Analysis of Requirements: 
