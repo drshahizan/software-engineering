@@ -52,6 +52,30 @@ The primary objectives of the Student Accommodation System are:
 4. Scalability:
 - The system should be scalable and able to accommodate growth in the number of users and transactions.
 - The system should be able to handle multiple concurrent users.
+
+## User Requirements:
+
+1. User-Friendly Interface: The system should have a user-friendly interface that is easy to navigate.
+
+2. Accommodation Search Functionality: Students should be able to search for available accommodations based on criteria such as location, price, and room type.
+
+3. Accommodation Booking Functionality: Students should be able to book accommodations through the system, including selecting the accommodation, the rental period, and payment of a deposit.
+
+4. Accommodation Management Functionality: Administrators should be able to manage the accommodations listed on the system, including adding new accommodations, editing existing ones, and removing outdated listings.
+
+5. Payment Processing: The system should allow for secure online payments for accommodation bookings.
+
+## System Requirements:
+
+1. Security: The system should be secure and protect user information, including encrypting payment information and complying with relevant data protection laws.
+
+2. Performance: The system should be able to handle a large volume of users and transactions, with fast response times and minimal downtime.
+
+3. Scalability: The system should be scalable and able to accommodate growth in the number of users and transactions.
+
+4. Reporting: The system should provide reporting features for administrators, including information such as occupancy rates, revenue, and booking trends.
+
+5. Compatibility: The system should be compatible with modern web browsers and accessible on desktop and mobile devices.
 ## Conclusion:
 
 The Student Accommodation System should provide a user-friendly platform for students to search and book accommodations and an efficient system for administrators to manage the student accommodation. It should be reliable, secure, and scalable to accommodate growth in the number of users and transactions.
