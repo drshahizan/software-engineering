@@ -45,10 +45,15 @@ Requirements engineering is the process of eliciting, analyzing, specifying, val
 The requirements engineering process for an student attendance system typically involves the following steps:
 
 ### 1.Functional Requirements:
--The system should allow teachers to mark attendance for students.
--The system should be able to generate reports of attendance for individual students or for the entire    
- class.
--The system should be able to generate alerts for absenteeism or late arrivals.
+<ul>
+ <li>The system should allow teachers to mark attendance for students.</li>
+ <li>The system should be able to generate reports of attendance for individual students or for the entire 
+ class.</li>
+ <li>The system should be able to generate alerts for absenteeism or late arrivals.</li>
+ </ul>
+
+
+
 
 ### 2.Non-Functional Requirements:
 -The system should be user-friendly and easy to navigate for teachers and administrators.
