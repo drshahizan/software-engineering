@@ -137,6 +137,35 @@ The system should be able to store and manage large amounts of attendance data s
 
 By meeting these system requirements, the student attendance system can provide a reliable and efficient platform for attendance tracking and management, ensuring that it meets the needs of all stakeholders and operates smoothly and securely.
 
+## Functional requirement of student attendance system
+Functional requirements for a student attendance system define the features and capabilities that the system must have to perform its primary function of tracking and managing attendance. Some examples of functional requirements for a student attendance system could include:
+
+### 1. Attendance tracking
+The system should be able to track attendance accurately and efficiently, recording when a student arrives and leaves a class.
+
+### 2. Automated notifications
+The system should generate automatic notifications to students, teachers, and administrators when there is an attendance issue or when a student is absent.
+
+### 3. Real-time updates
+The system should provide real-time updates on attendance records, allowing students and teachers to monitor their attendance patterns.
+
+### 4. Multiple check-in options
+The system should offer different options for students to check in and out of classes, such as using student ID cards or biometric data.
+
+### 5. Reporting
+The system should generate detailed attendance reports that provide insights into attendance patterns, student absences, and overall attendance rates.
+
+### 6. Integration with other systems
+The system should integrate with other educational systems and platforms, such as learning management systems or student information systems, to provide a comprehensive view of attendance data.
+
+### 7. Data backup and recovery
+The system should have a backup and recovery plan in place to ensure that attendance data is not lost in case of a system failure or disaster.
+
+### 8. User roles and permissions
+The system should have different user roles and permissions, such as student, teacher, and administrator, with different levels of access to attendance data.
+
+By incorporating these functional requirements into the design and development of a student attendance system, the system can provide a robust and efficient platform for attendance tracking and management, ensuring that it meets the needs of all stakeholders and operates smoothly and effectively.
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
