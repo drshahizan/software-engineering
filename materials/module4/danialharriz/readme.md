@@ -103,6 +103,64 @@ Regulatory authorities may require the university to maintain electronic records
 
 #### By considering the needs and requirements of all these stakeholders, the electronic appliance registration system can be designed and implemented in a way that is effective, user-friendly, and compliant with relevant regulations and policies.
 
+## User and System Requirements
+For an electronic appliance registration system for a university, the user and system requirements might include:
+
+### User Requirements:
+
+#### 1. User-friendly interface : 
+The system should have a user-friendly interface that is easy to navigate and use, even for users who may not be technically savvy.
+
+#### 2. Device registration: 
+The system should allow students and faculty to easily register their electronic devices, including laptops, smartphones, and tablets.
+
+#### 3. Renewal and updates: 
+The system should allow users to renew their device registration annually or update their device information if needed.
+
+#### 4. Registration status: 
+The system should provide users with the ability to view their registered devices and their registration status, including expiration dates.
+
+#### 5.Notifications: 
+The system should be able to send users notifications about upcoming device expirations or renewals.
+
+#### 6. Secure access: 
+The system should only be accessible to authorized users and should use secure authentication methods, such as login credentials associated with the university.
+
+#### 7. Compatibility: 
+The system should be compatible with a variety of electronic devices, including those running on different operating systems.
+
+By gathering and addressing these user requirements, developers can ensure that the electronic appliance registration system is user-friendly, functional, and meets the needs of all stakeholders.
+
+### System Requirements:
+
+#### 1. Data storage: 
+The system should be able to store and manage device registration information, including device type, model, and serial number.
+
+#### 2. Tracking and monitoring: 
+The system should be able to track the location and status of registered devices, including their current use and location on campus.
+
+#### 3. Reporting: 
+The system should be able to generate reports on registered devices, such as inventory reports or maintenance reports.
+
+#### 4. Notifications: 
+The system should be able to send notifications to users about upcoming device expirations or renewals.
+
+#### 5. Integration: 
+The system should be able to integrate with other systems on campus, such as the campus security system or student information system.
+
+#### 6. Scalability: 
+The system should be scalable and adaptable to changing needs and requirements, such as increased numbers of registered devices or changes to university policies.
+
+#### 7. Security: 
+The system should be secure, with measures in place to protect user data and prevent unauthorized access.
+
+##### 8. Compliance: 
+The system should be compliant with relevant laws and regulations, such as data protection laws.
+
+#### 9. Accessibility: 
+The system should be accessible to users with disabilities, including those who may use assistive technologies such as screen readers.
+
+#### By addressing these system requirements, developers can ensure that the electronic appliance registration system is functional, reliable, and compliant with relevant laws and regulations.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
