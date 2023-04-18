@@ -149,7 +149,7 @@
     
     
     
-    During the interview section, it is important to ask open-ended questions and actively listen to the interviewee's responses. Here are some tips to keep in mind during the interview:
+During the interview section, it is important to ask open-ended questions and actively listen to the interviewee's responses. Here are some tips to keep in mind during the interview:
 
     Prepare a list of questions: Before the interview, prepare a list of questions that you want to ask the interviewee. These questions should be open-ended and designed to elicit detailed responses.
 
