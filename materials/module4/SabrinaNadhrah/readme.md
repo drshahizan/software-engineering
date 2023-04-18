@@ -57,6 +57,27 @@ Manage changes to the requirements throughout the development process. Ensure th
 
 Remember that requirements engineering is an iterative process, and requirements may evolve as the development process progresses. It is important to stay flexible and adapt to changing needs and constraints throughout the project.
 
+## Stakeholders
+
+In creating a college room rental system, there are various stakeholders who may have an interest in the system and its functionalities. These stakeholders may include:
+
+#### 1. Students: 
+Students are the primary users of the system. They use the system to search for available rooms, reserve a room, make payments, and manage their bookings.
+
+#### 2. College administrators: 
+College administrators are responsible for managing the college's accommodation facilities. They may use the system to monitor the availability of rooms, manage bookings, and generate reports.
+
+#### 3. Landlords: 
+Landlords who own off-campus accommodation facilities may use the system to list their rooms for rent, manage their bookings, and receive payments.
+
+#### 4. Parents/guardians: 
+Parents and guardians of students may also be stakeholders, as they may be involved in the decision-making process for their child's accommodation arrangements.
+
+#### 5. IT staff: 
+IT staff may be responsible for developing and maintaining the system.
+
+It is important to identify all stakeholders and their requirements to ensure that the system meets their needs and expectations. The requirements may differ for each stakeholder, and it is important to prioritize them based on their importance and feasibility.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
