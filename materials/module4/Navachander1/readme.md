@@ -61,6 +61,71 @@ When eliciting the requirements for a university student grading system, you nee
 
 In summary, requirements engineering is a crucial process in the development of a university student grading system. It ensures that the grading system meets the needs of all stakeholders and functions as intended.
 
+# Stakeholders
+
+# 1. Students 
+Students are the primary users of the grading system. They need to have access to their grades and understand how they are calculated. They also need to be able to track their academic progress and identify areas where they need improvement. In addition, students may need to appeal their grades if they believe there has been an error in the grading process. Therefore, the grading system needs to be designed with the student's needs in mind to ensure that it is user-friendly and provides accurate and timely information.
+
+# 2. Faculty 
+Faculty members are responsible for assigning grades to students. They need to have a clear understanding of the grading policies, grading scales, and weightage of each grade component. They also need to be able to enter grades into the system and have access to student records to review academic progress. In addition, faculty members may need to make corrections to grades or handle grade appeals. Therefore, the grading system needs to be designed to support faculty members in their grading tasks and ensure that grading is fair and consistent across different courses and instructors.
+
+# 3. Administrators 
+Administrators are responsible for managing the overall academic operations of the university. They need to have access to student records and grading data to monitor academic progress and ensure that the university is meeting its academic standards. They also need to ensure that the grading system complies with relevant laws and regulations, such as FERPA (Family Educational Rights and Privacy Act). In addition, administrators may need to generate reports and analytics to identify trends and areas for improvement. Therefore, the grading system needs to be designed to provide administrators with the information they need to make informed decisions about academic policies and procedures.
+
+
+# User requirements for university students grading system
+
+# 1. User-friendly interface 
+The grading system should have a user-friendly interface that is easy to navigate and use. It should be intuitive and require minimal training for students, faculty, and administrators.
+
+# 2. Access to real-time data 
+The grading system should provide access to real-time data on student grades, progress, and performance. Students should be able to view their grades and feedback on assignments and exams, while faculty and administrators should be able to access student records and generate reports on academic performance.
+
+# 3. Flexibility in grading policies 
+The grading system should provide flexibility in grading policies, such as the grading scale and weightage of grade components. This will allow faculty members to adjust the grading policies based on the course requirements and ensure that grades are fair and accurate.
+
+# 4. Security and privacy 
+The grading system should have robust security features to protect student data and prevent unauthorized access. It should comply with relevant laws and regulations, such as FERPA, to ensure that student privacy is maintained.
+
+# 5. Integration with other systems 
+The grading system should be able to integrate with other systems used by the university, such as the student information system and learning management system. This will ensure that student data is consistent across different systems and reduce the need for manual data entry.
+
+# 6. Grade calculation accuracy 
+The grading system should accurately calculate grades based on the grading policies and weightage of grade components. It should also provide a transparent view of how grades are calculated, so students can understand their performance and identify areas for improvement.
+
+# 7. Grade release policies 
+The grading system should have clear and consistent grade release policies to ensure that grades are released to students in a timely manner. It should also provide mechanisms for students to appeal their grades if they believe there has been an error in the grading process.
+
+
+# System requirements for university students grading system
+
+# 1. Scalability 
+The grading system should be able to handle a large volume of users and data, as it will be used by thousands of students, faculty, and administrators. It should be designed to scale up or down based on the university's needs.
+
+# 2. Reliability 
+The grading system should be highly reliable, with minimal downtime or errors. It should be able to handle heavy traffic during peak times, such as the end of the semester or exam period.
+
+# 3. Security 
+The grading system should have robust security features to protect student data and prevent unauthorized access. It should use encryption to protect data during transmission and storage, and implement access controls to ensure that only authorized users can access the system.
+
+# 4. Compatibility 
+The grading system should be compatible with different web browsers and operating systems, to ensure that all users can access the system regardless of their device or platform.
+
+# 5. Integration 
+The grading system should be able to integrate with other systems used by the university, such as the student information system and learning management system. This will ensure that student data is consistent across different systems and reduce the need for manual data entry.
+
+# 6. Performance 
+The grading system should have fast response times and be able to handle complex calculations quickly. It should be optimized for performance to ensure that users can access the system quickly and efficiently.
+
+# 7. Usability 
+The grading system should have a user-friendly interface that is easy to navigate and use. It should be intuitive and require minimal training for students, faculty, and administrators.
+
+# 8. Compliance 
+The grading system should comply with relevant laws and regulations, such as FERPA, to ensure that student privacy is maintained. It should also comply with accessibility standards to ensure that all users can access the system regardless of their abilities.
+
+# 9. Support 
+The grading system should have a support system in place to help users with technical issues or questions about the system. The support system should be responsive and provide timely assistance to users.
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
