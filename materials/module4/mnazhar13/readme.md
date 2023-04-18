@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Software Requirements Document (SRD): Your topic
+# Software Requirements Document (SRD): Online Grading System
 
 ## Developing an academic registration system for a university involves several key steps. Here's a general outline of the process:
 
