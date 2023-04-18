@@ -33,3 +33,52 @@
   ###   Review and Approval: 
     Review the Software Requirement Document with all stakeholders and
     seek their approval before proceeding with the development phase.
+    
+    
+# System Requirement
+
+## Key steps in creating a System Requirement Document for a Parcel Delivery System
+
+  ###    Identify the System Objectives: 
+    Identify the main objectives of the parcel delivery system, such as providing timely and accurate delivery of parcels, 
+    improving efficiency, reducing costs, and enhancing customer satisfaction.
+
+   ###   Define the Scope: 
+    Define the scope of the system, including the different functional areas that the system will cover, 
+    such as order management, parcel tracking, delivery scheduling, and payment processing.
+
+  ###    Identify the System Components: 
+    Identify the different system components, such as the hardware,
+    software, and network infrastructure, that will be required to support the system.
+
+  ###    Define the System Architecture: 
+    Define the overall system architecture, 
+    including the different layers of the system and the interactions between them.
+
+  ###      Specify the System Interfaces: 
+    Specify the different system interfaces, such as the user interfaces, 
+    application programming interfaces (APIs), and database interfaces.
+
+  ###     Define the System Data Requirements: 
+    Define the data requirements of the system, including the types of data that will be stored, 
+    the data formats, and the data storage locations.
+
+  ###     Identify the System Constraints: 
+    Identify the different constraints that may impact the system, such as budget, 
+    time, technology limitations, and regulatory requirements.
+
+  ###     Define the System Performance Requirements: 
+    Define the different performance requirements of the system, such as response time, 
+    throughput, and reliability.
+
+  ###     Identify the System Security Requirements: 
+    Identify the different security requirements of the system, such as authentication,
+    access control, data encryption, and audit trails.
+
+  ###     Define the System Maintenance and Support Requirements: 
+    Define the different maintenance and support requirements of the system, 
+    such as system backups, software updates, and user support.
+
+  ###     Review and Approval: 
+    Review the System Requirement Document with all stakeholders and seek 
+    their approval before proceeding with the design and implementation phase.
