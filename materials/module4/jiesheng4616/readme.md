@@ -77,9 +77,22 @@ Wearable device - a device worn on the body, such as a fitness tracker or smartw
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
-You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+## Requirement Engineering Process
+Here are the key steps in the requirement engineering process for a mobile app for fitness tracking:
 
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
+- Elicitation: Identify the requirements for the app by talking to stakeholders such as end-users, marketing teams, and development teams. Use techniques such as interviews, surveys, and brainstorming sessions to gather information about what features and functionalities are desired in the app.
+
+- Analysis: Analyze the requirements to identify any conflicts or inconsistencies. Consider how the requirements will impact other parts of the app, such as the user interface, performance, and security. Use modeling techniques such as use cases, user stories, and flowcharts to document the requirements.
+
+- Specification: Define the requirements in detail, using a standardized format such as a software requirements specification document. Include both functional and non-functional requirements, such as performance, usability, and security.
+
+- Validation: Review and validate the requirements to ensure that they meet the needs of stakeholders and are feasible to implement. Use techniques such as peer review, walkthroughs, and prototyping to validate the requirements.
+
+- Management: Manage the requirements throughout the software development life cycle. Monitor changes to the requirements and ensure that they are properly documented and communicated to stakeholders. Use tools such as requirement management software to track the status of the requirements.
+
+- Traceability: Establish traceability between the requirements and other parts of the app, such as the design, code, and testing. Use tools such as traceability matrices to track the relationships between the requirements and other parts of the app.
+
+- Maintenance: Maintain the requirements throughout the life cycle of the app. Update the requirements as needed to reflect changes in the app, such as new features or changes in the operating environment.
 
 
 
