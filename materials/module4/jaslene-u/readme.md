@@ -112,32 +112,32 @@ System requirements, on the other hand, refer to the technical and functional sp
 
 While user requirements and system requirements are distinct, they are closely related, and it is important to ensure that they are aligned. The system requirements should be designed to meet the needs and expectations of the system's users, and the user requirements should be prioritized and translated into specific system requirements. By understanding both users and system requirements, designers and developers can create a course registration system that meets the needs of its stakeholders while being technically sound and reliable.
 
-## User requirements in academic course registration system
+## User requirements in student attendance system
 
-User requirements in an academic course registration system refer to the specific needs and expectations of the system's users, which include students, faculty members, and university administrators. User requirements are typically expressed in terms of user stories, scenarios, or use cases, and they are focused on the functionality and usability of the system.
+User requirements in an student attendance system refer to the specific needs and expectations of the system's users, which include students, faculty members, and university administrators. User requirements are typically expressed in terms of user stories, scenarios, or use cases, and they are focused on the functionality and usability of the system.
 
 The following are some examples of user requirements for an academic course registration system:
 
-### 1. Course Search
-Students should be able to easily search for courses based on course code, department, instructor, time of day, and other relevant criteria.
+### 1. Ease of Use: 
+The system should be user-friendly and easy to navigate, with a clear and intuitive interface that requires minimal training.
 
-### 2. Course Registration
-Students should be able to register for courses online, including adding and dropping classes, and viewing their class schedule.
+### 2.Accessibility: 
+The system should be accessible to all users, including those with disabilities. This may involve features such as high-contrast modes, text-to-speech capabilities, and other accessibility options.
 
-### 3. Waitlist Management
-The system should be able to handle waitlists for courses, including notifying students when a spot becomes available and automatically enrolling them in the course.
+### 3.Data Security: 
+The system should be designed to protect the privacy and security of student data. This may involve features such as secure login procedures, data encryption, and regular backups.
 
-### 2. Course Management
-Faculty members should be able to manage their courses, including adding and removing students, managing course materials, and submitting grades.
+### 4.Real-Time Attendance Tracking: 
+The system should allow for real-time tracking of attendance, so that teachers and administrators can easily monitor who is present, absent, or tardy.
 
-### 4. Academic Record Management
-Students and faculty members should be able to access and view their academic records, including transcripts, grade reports, and other relevant information.
+### 5.Reporting Capabilities: 
+The system should be able to generate reports of attendance for individual students or for the entire class, as well as summary reports for teachers and administrators.
 
-### 5. Reporting and Analytics
-University administrators should be able to generate reports and analytics based on course enrollment data, including enrollment trends, course capacity, and student retention.
+### 6.Integration with Other Systems: 
+The system should be able to integrate with the school's student information system (SIS) and other relevant systems, to ensure consistency and accuracy of data.
 
-### 6. User Authentication and Authorization
-The system should have robust authentication and authorization mechanisms to ensure that only authorized users can access the system and perform certain actions.
+### 7.Flexibility: 
+The system should be able to accommodate different attendance policies and procedures, as well as varying schedules and class structures.
 
 ## System requirements in academic course registration system
 
