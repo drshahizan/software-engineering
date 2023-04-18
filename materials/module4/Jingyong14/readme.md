@@ -62,6 +62,29 @@ The requirement engineering process for developing a student feedback system for
 </ul>
 The requirement engineering process is crucial for developing a student feedback system that meets the needs and expectations of stakeholders and ensures a successful implementation. Regular review and validation of requirements throughout the development lifecycle, effective communication with stakeholders, and documentation of requirements are key factors for success.
 
+<h2>Stakeholders</h2>
+The stakeholders for a student feedback system in a university may include:
+<br>
+<ol>
+<li>Students: The primary users of the feedback system who provide feedback on their experiences with courses, instructors, and other aspects of their educational journey.</li>
+
+<li>Faculty: The recipients of feedback from students, who use the feedback to assess their teaching effectiveness and make improvements to their courses.</li>
+
+<li>Administrators: University administrators who use the feedback system to collect and analyze feedback data to assess the overall quality of courses, instructors, and other aspects of the educational programs.</li>
+
+<li>Academic support staff: Staff members who manage and administer the feedback system, including setting up surveys, collecting and analyzing data, and generating reports for stakeholders.</li>
+
+<li>Institutional researchers: Professionals who analyze the feedback data to provide insights and recommendations for decision-making at the institutional level.</li>
+
+<li>IT and technical staff: Staff responsible for maintaining and supporting the technical infrastructure of the feedback system, including server management, database administration, and software development.</li>
+
+<li>Quality assurance and compliance teams: Teams responsible for ensuring that the feedback system complies with applicable regulations, policies, and guidelines, and meets the quality standards set by the university.</li>
+
+<li>Students' representatives or student councils: Student representatives who may provide input and feedback on the design, functionality, and usability of the feedback system from the perspective of students.</li>
+
+<li>External stakeholders: External entities such as accreditation bodies, funding agencies, or other organizations that may have an interest in the feedback data collected by the system.</li>
+</ol>
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 

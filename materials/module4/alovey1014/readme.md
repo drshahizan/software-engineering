@@ -55,7 +55,7 @@ Administrators can provide insight into the larger goals and needs of the instit
 ### 4. IT department
 The IT department can provide technical expertise and support in the design and implementation of the system, as well as ensuring that it meets technical requirements and is secure.
 
-### 5. ccessibility specialists
+### 5. Accessibility specialists
 Accessibility specialists can provide guidance on how to design the system to be accessible to students with disabilities, ensuring that all students have equal access to the benefits of the system.
 
 
