@@ -132,6 +132,36 @@ The system should comply with relevant laws and regulations such as data protect
 
 These are just some examples of system requirements for a college room rental system. It is important to gather and document all system requirements in detail to ensure that the system is developed to meet technical specifications and functional requirements.
 
+## Functional in college room rental system
+
+Functional requirements in a college room rental system describe the specific functions or features that the system should provide to meet the needs of its users. Here are some examples of functional requirements that may be included in a college room rental system:
+
+#### 1. Room search function: 
+The system should allow users to search for available rooms based on different criteria such as location, price range, room type, and availability dates.
+
+#### 2. Room booking function: 
+The system should allow users to book a room online by selecting a room, choosing the booking dates, and providing their personal information. The system should confirm the booking and generate a receipt or confirmation email.
+
+#### 3. Payment processing function: 
+The system should allow users to make payments online for their room reservations using various payment options such as credit/debit cards, PayPal, or other electronic payment methods.
+
+#### 4. Room management function: 
+The system should allow college administrators and landlords to manage their rooms and update their availability status in real-time. They should be able to add or remove rooms, update room details, and set pricing and availability parameters.
+
+#### 5. User account management function: 
+The system should allow users to create and manage their user accounts, update their personal information, and view their booking history. They should be able to login securely and access their account information from anywhere.
+
+#### 6. Feedback and reviews function: 
+The system should allow users to leave feedback and reviews about the rooms they have rented, and for college administrators and landlords to view and respond to this feedback.
+
+#### 7. Room availability notification function: 
+The system should notify users when a room becomes available that meets their search criteria, either through email notifications or SMS.
+
+#### 8. Room cancellation function: 
+The system should allow users to cancel their room reservations and receive a refund if applicable, according to the cancellation policy.
+
+These are just some examples of functional requirements that may be included in a college room rental system. It is important to gather and document all functional requirements in detail to ensure that the system is developed to meet the needs of its users.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
