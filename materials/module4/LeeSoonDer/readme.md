@@ -179,6 +179,16 @@ These requirements for the requirements engineering process are just a starting 
 <li>What level of security and privacy features do you expect in the student feedback system?</li>
 <li>What training and support do you think the users of the student feedback system would need?</li>
 </ul>
+
+<h2>The Use Cases of the System</h2>
+<ul>
+  <li>Submit Feedback: Students can submit their feedback on a particular course or instructor through the system. The system should prompt the student for the relevant information (e.g., course name, instructor name, feedback text), validate the input, and store the feedback in the database.</li>
+<li>View Feedback: Instructors can view the feedback they have received from students through the system. The system should allow instructors to filter the feedback by course, date range, or other criteria, and present the feedback in an easy-to-read format.</li>
+<li>Analyze Feedback: Administrators can use the system to analyze the feedback data to identify trends, areas for improvement, or other insights. The system should provide tools for generating reports, visualizations, and other analytics based on the feedback data.</li>
+<li>Manage Feedback: Administrators can manage the feedback data in the system, such as deleting or editing feedback that violates the system's policies or guidelines.</li>
+<li>Alerting: The system can send alerts to instructors and administrators when certain feedback is received or when a specific threshold is reached.</li>
+<li>Export Feedback: The system can export the feedback data to other university systems or to external systems for further analysis.</li>
+</ul>
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
