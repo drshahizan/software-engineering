@@ -8,6 +8,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): Student Health and Wellness Management System
+## Key steps in developing the system
 
 1.<b>Identifying the requirements</b>: The first step in developing a student health and wellness management system is to identify the requirements of the system. This involves understanding the needs of the university, the students, and the health and wellness professionals who will be using the system.
 
