@@ -1,0 +1,103 @@
+/* Base Styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  /* Header Styles */
+  header {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  nav li {
+    margin: 0 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Main Styles */
+  main {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px;
+  }
+  
+  section {
+    margin: 40px 0;
+  }
+  
+  h1,
+  h2 {
+    font-weight: normal;
+  }
+  
+  /* Form Styles */
+  form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  label {
+    width: 100%;
+    max-width: 200px;
+    margin-right: 20px;
+  }
+  
+  input,
+  textarea {
+    width: 100%;
+    max-width: 400px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: #f5f5f5;
+  }
+  
+  input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #666;
+  }
+  
+  /* Responsive Styles */
+  @media only screen and (max-width: 600px) {
+    nav li {
+      margin: 10px 0;
+    }
+  
+    form label {
+      max-width: 100%;
+      margin-right: 0;
+      margin-bottom: 10px;
+    }
+  
+    input,
+    textarea {
+      max-width: 100%;
+    }
+  }
