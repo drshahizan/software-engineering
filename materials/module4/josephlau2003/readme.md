@@ -127,28 +127,29 @@
     revenue.</p>
 
   <h2>Examples of User Requirements</h2>
-  <h1>System Requirements for Easy Course Search and Registration</h1>
-  <p>The system should enable students to easily search for available courses and register for them with minimal effort
-    and confusion.</p>
+  	<h1>Reservation Management</h1>
+	<p>The system should allow hotel staff to manage room reservations, check availability, and make room assignments based on guest preferences.</p>
+  <h1>Guest Management</h1>
+<p>The system should enable hotel staff to manage guest profiles, including personal information, booking history, and preferences to provide personalized services.</p>
 
-  <h2>Personalization</h2>
-  <p>The system should be able to personalize the course recommendations and registration process based on the student's
-    academic profile and interests.</p>
+<h1>Inventory Management</h1>
+<p>The system should allow hotel staff to manage inventory and stock levels of hotel supplies, including housekeeping and room service items.</p>
 
-  <h2>Real-time updates</h2>
-  <p>The system should provide real-time updates on course availability, enrollment status, and waitlist positions to
-    help students make informed decisions.</p>
+<h1>Billing and Payment</h1>
+<p>The system should enable hotel staff to manage guest billing and payment, including room charges, additional services, and payment methods.</p>
 
-  <h2>Communication</h2>
-  <p>The system should enable students to communicate with their professors and advisors directly through the system to
-    ask questions, seek guidance, or resolve issues.</p>
+<h1>Real-time Updates</h1>
+<p>The system should provide real-time updates on room availability, occupancy status, and guest requests to help hotel staff make informed decisions and improve guest experiences.</p>
 
-  <h2>Mobile-friendly</h2>
-  <p>The system should be optimized for mobile devices to enable students to register for courses on-the-go.</p>
+<h1>Communication</h1>
+<p>The system should enable hotel staff to communicate with guests directly through the system to address their concerns, answer their questions, or fulfill their requests.</p>
 
-  <h2>Feedback mechanism</h2>
-  <p>The system should provide a feedback mechanism for students to provide feedback on the registration process and
-    suggest improvements.</p>
+<h1>Mobile-friendly</h1>
+<p>The system should be optimized for mobile devices to enable hotel staff to manage hotel operations on-the-go.</p>
+
+<h1>Feedback Mechanism</h1>
+<p>The system should provide a feedback mechanism for guests to provide feedback on their experience, including room cleanliness, service quality, and staff behavior, and enable hotel staff to respond and improve the guest experience.</p>
+
 
 </body>
 
