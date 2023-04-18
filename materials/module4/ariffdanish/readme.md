@@ -7,10 +7,10 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Software Requirements Document (SRD): Academic Course Registration System
+# Software Requirements Document (SRD): Food Ordering System Of Student UTM
 
-## Key steps in creating an Academic Course Registration System
-Developing an academic course registration system for a university involves several key steps:
+## Key steps in creating a Food Ordering System Of Student UTM
+Developing a Food Ordering System Of Student UTM involves several key steps:
 
 ### 1. System requirements gathering
 The first step is to gather requirements for the system. This involves talking to stakeholders such as students, faculty members, and university administrators to understand their needs and expectations from the system. The system requirements should include features such as course catalog, course registration, scheduling, waitlist management, grade management, and student information management.
