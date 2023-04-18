@@ -142,3 +142,26 @@ Functional requirements in a hospital information system refer to the specific c
 - The system should be able to generate reports and provide analytics on various aspects of hospital operations, such as patient outcomes, resource utilization, and financial performance.
 
 By incorporating these functional requirements into the hospital information system, healthcare providers can improve the quality of care, reduce errors, and increase efficiency in the delivery of healthcare services.
+
+# Non-functional requirement in a hospital information system
+
+Non-functional requirements in a hospital information system refer to the quality attributes or characteristics that the system must possess, beyond its core functionality. These requirements are often related to performance, usability, security, and reliability. 
+
+#### Here are some examples of non-functional requirements in a hospital information system:
+
+### 1. Performance
+- The system should be able to handle a large volume of data and transactions, with minimal latency and response time. This includes requirements such as the ability to handle a large number of concurrent users, and the capability to scale to accommodate growth in the number of users or data volume.
+
+### 2. Usability
+- The system should be easy to use, with an intuitive user interface and clear navigation. It should also provide accessibility features to accommodate users with disabilities.
+
+### 3. Security
+- The system should be secure, with appropriate access controls to protect patient data and other sensitive information. It should also provide auditing and monitoring capabilities to detect and prevent unauthorized access or use.
+
+### 4. Reliability
+- The system should be highly available, with minimal downtime or disruption to service. This includes requirements such as the ability to recover quickly from failures, and the capability to handle unexpected changes in load or demand.
+
+### 5. Compliance
+- The system should comply with applicable regulatory requirements, such as HIPAA and other privacy regulations. It should also adhere to industry standards for data security, interoperability, and other areas.
+
+By incorporating these non-functional requirements into the hospital information system, healthcare providers can ensure that the system is both functional and reliable, providing high-quality healthcare services while meeting key performance, security, and regulatory requirements.
