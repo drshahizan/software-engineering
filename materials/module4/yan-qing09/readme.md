@@ -27,10 +27,6 @@ Once the system has been developed and tested, the next step is to deploy it. Th
 The final step is to maintain the system. This will involve fixing bugs, adding new features, and ensuring that the system is running smoothly. You will also need to keep the system up-to-date with the latest security patches to protect against cyber attacks.
 
 <br/>
-Overall, creating a student health and wellness management system requires careful planning, design, development, deployment, and maintenance. It is important to involve stakeholders throughout the process to ensure that the system meets their needs and is user-friendly.
-
-
-<br/>
 
 ## Requirement Engineering
 
@@ -47,6 +43,8 @@ Overview of the steps involved in the requirement engineering process for a heal
 5. Verification: This step involves ensuring that the requirements can be implemented in the system design and development. Verification checks the feasibility of the requirements, including their compatibility with existing technology and infrastructure.
 
 6. Management: Requirement management involves tracking and controlling changes to the requirements throughout the system development process. This includes documenting any changes made to the requirements, assessing the impact of those changes, and ensuring that the changes are communicated to all stakeholders.
+
+<br/>
 
 ## User requirements and system requirements
 
