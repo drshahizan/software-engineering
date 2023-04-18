@@ -151,6 +151,28 @@ The stakeholders for a student feedback system in a university may include:
     <li>Compatibility with commonly used web browsers and devices, including desktops, laptops, tablets, and smartphones.</li>
   </ul>
 
+<h2>Functional Requirements for Student Feedback System</h2>
+  <ul>
+    <li>Secure user authentication and authorization to ensure that only authorized users can access the system.</li>
+    <li>Feedback submission process with options for feedback categories, rating scales, and open-ended comments.</li>
+    <li>Automated notifications to remind students and faculty of feedback deadlines.</li>
+    <li>Dashboard and reporting features to view and analyze feedback data, including graphical representations and data filtering options.</li>
+    <li>Customizable feedback categories and rating scales based on university's requirements.</li>
+    <li>Ability to generate reports and export feedback data in various formats (e.g., PDF, CSV) for further analysis and sharing.</li>
+    <li>Ability to track feedback history and changes for auditing purposes.</li>
+    <li>Accessibility features to ensure that the system can be used by users with disabilities, such as screen readers, keyboard navigation, and color contrast options.</li>
+  </ul>
+  
+  <h2>Non-Functional Requirements for Student Feedback System</h2>
+  <ul>
+    <li>Performance: The system should be responsive and provide fast feedback submission and data retrieval times, even with a large number of concurrent users.</li>
+    <li>Security: The system should have robust security measures in place to protect user data, including encryption, secure authentication, and authorization mechanisms.</li>
+    <li>Usability: The system should have a user-friendly interface with clear and intuitive navigation, and be accessible to a wide range of users, including those with disabilities.</li>
+    <li>Reliability: The system should be available and operational with minimal downtime, and should have backup and recovery mechanisms in place to prevent data loss.</li>
+    <li>Compatibility: The system should be compatible with commonly used web browsers and devices, including desktops, laptops, tablets, and smartphones.</li>
+    <li>Scalability: The system should be able to handle increasing numbers of users, feedback submissions, and data storage requirements as the university grows.</li>
+  </ul>
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
