@@ -111,7 +111,7 @@ By understanding these user requirements, a hospital information system can be d
 By considering these system requirements, a hospital information system can be designed to meet the needs of its users and support the delivery of high-quality healthcare services.
 
 
-# Functional requirement in a hospital information system
+# Functional requirement in a Hospital Information System
 
 Functional requirements in a hospital information system refer to the specific capabilities and features that the system must have in order to support the delivery of high-quality healthcare services. 
 
@@ -143,7 +143,7 @@ Functional requirements in a hospital information system refer to the specific c
 
 By incorporating these functional requirements into the hospital information system, healthcare providers can improve the quality of care, reduce errors, and increase efficiency in the delivery of healthcare services.
 
-# Non-functional requirement in a hospital information system
+# Non-functional requirement in a Hospital Information System
 
 Non-functional requirements in a hospital information system refer to the quality attributes or characteristics that the system must possess, beyond its core functionality. These requirements are often related to performance, usability, security, and reliability. 
 
