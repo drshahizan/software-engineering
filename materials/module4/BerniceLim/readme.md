@@ -26,6 +26,21 @@ Evaluate the system: Evaluate the system's effectiveness and gather feedback fro
 
 In summary, developing a student engagement system requires careful planning, design, development, testing, launch, and evaluation. It is essential to involve students and educators in the process to ensure that the system meets their needs and achieves the intended goals.
 
+### StakeHolders
+<ol type="1">
+  <li><b>Students</b><br>
+    Students are the primary stakeholders of a student engagement system. The system should be designed to improve their learning experience, encourage their participation, and support their academic goals.</li>
+  
+  <li><b>Teachers</b><br>
+    Teachers are another key stakeholder of a student engagement system. The system should support their teaching workflows, enable them to create interactive content, provide real-time feedback, and monitor student progress.</li>
+  
+   <li><b>Parents</b><br>
+     Parents are often involved in their children's education and may use the student engagement system to monitor their child's progress, communicate with teachers, and provide feedback.</li>
+  
+  <li><b>Administrators</b><br>
+    Educational administrators are responsible for managing the institution and ensuring that it meets its academic goals. They may use the student engagement system to monitor student engagement and performance, identify areas for improvement, and make strategic decisions about the institution's educational programs.</li>
+  </ol>
+
 ###  Required Engineering
 Requirement engineering is a <b>critical process</b> in the development of any software system, including a student engagement system. Here are some steps you can follow to perform requirement engineering for a student engagement system:
 <ol typr="1">
