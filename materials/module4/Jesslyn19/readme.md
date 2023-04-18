@@ -60,6 +60,14 @@ Manage the requirements throughout the development process by tracking changes, 
 
 In summary, requirement engineering is a critical process for developing a student engagement system that meets stakeholder needs and aligns with the system's objectives. By following these steps, you can gather, analyze, prioritize, and validate requirements to ensure that the system performs effectively and efficiently.
 
+### Some specific requirements for a student engagement system may include:
+
+- The ability to track and record student attendance and participation in class activities.
+- Real-time feedback mechanisms, such as polls or surveys, to assess student understanding and engagement.
+- The ability to provide personalized learning experiences based on individual student needs and learning styles.
+- Integration with other learning management systems, such as course management or grade tracking systems.
+- Support for multiple engagement activities, such as quizzes, group work, and discussions.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
