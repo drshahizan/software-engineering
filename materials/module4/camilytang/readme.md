@@ -4,26 +4,125 @@
 ## Key steps in creating an Event Management System
 Creating an event management system requires careful planning and execution. Here are some key steps to consider:
 
-### 1. Define the scope and objectives: 
-Determine the purpose and goals of the event management system. Identify the key stakeholders and their roles in the process.
+### 1. System Requirement Gathering: 
+The first step is to gather requirements for the event management system. This includes identifying key stakeholders who will be involved in the system, such as event planners, vendors, sponsors, attendees, and other relevant parties.
 
-### 2. Gather requirements: 
-Conduct a needs assessment to determine the specific requirements for the system. This may involve gathering feedback from stakeholders, researching industry standards and best practices, and identifying any technical or logistical constraints.
+#### a. Event Planners: 
+They are responsible for managing events and need a system that can help them manage event details, such as scheduling, logistics, and vendor management.
 
-### 3. Develop a project plan: 
-Create a detailed project plan that outlines the timeline, milestones, and deliverables for the system development. Assign roles and responsibilities to team members and establish communication protocols.
+#### b. Vendors: 
+They require a system that enables them to easily communicate with event planners, manage their inventory and orders, and track their payments.
 
-### 4. Design the system architecture: 
-Create a design document that outlines the technical specifications and architecture of the system. This should include details on the data model, user interface, and integration with other systems.
+#### c. Sponsors: 
+They need a system that allows them to promote their products and services at events, track the impact of their sponsorships, and monitor the return on their investment.
 
-### 5. Develop and test the system: 
-Use an iterative development process to build and test the system. This involves creating prototypes, testing functionality, and incorporating feedback from stakeholders.
+#### d. Attendees: 
+They require a system that enables them to register for events, purchase tickets, and receive event updates.
 
-### 6. Implement the system: 
-Once the system has been developed and tested, deploy it in a production environment. This may involve training users, migrating data, and configuring the system to meet specific business needs.
+### 2. System Design:: 
+Once the requirements are gathered, the next step is to design the system architecture. This involves identifying the technical specifications, data model, user interface, and integration with other systems. The stakeholders involved in this step include:
 
-### 7. Monitor and maintain the system: 
-Once the system is live, monitor its performance and address any issues that arise. This may involve conducting regular maintenance tasks, updating the system to address new requirements, and providing ongoing support to users.
+#### a. IT Team:
+They are responsible for designing the system architecture and ensuring that it is scalable, secure, and efficient.
+
+#### b. Event Planners: 
+They need to be involved in the design process to ensure that the system meets their specific needs and requirements.
+
+#### c. Vendors: 
+They need to be consulted on the design of the system to ensure that it is user-friendly and meets their requirements.
+
+####  d. Sponsors: 
+They need to be consulted on the design of the system to ensure that it meets their promotional needs and requirements.
+
+#### e. Attendees: 
+They need to be consulted on the design of the system to ensure that it is user-friendly and meets their registration and ticketing needs.
+
+### 3. System Development:: 
+The third step is to develop the event management system. This involves coding and building the system according to the design specifications. The stakeholders involved in this step include:
+
+#### a. Developers: 
+They are responsible for coding and building the system according to the design specifications.
+
+#### b. IT Team: 
+They need to ensure that the system is integrated with other systems and that it meets technical requirements and standards.
+
+#### c. Event Planners: 
+They need to provide feedback on the system during the development process to ensure that it meets their specific needs and requirements.
+
+#### d. Vendors: 
+They need to test the system during the development process to ensure that it meets their requirements and is user-friendly.
+
+#### e. Sponsors: 
+They need to test the system during the development process to ensure that it meets their promotional needs and requirements.
+
+#### f. Attendees: 
+They need to test the system during the development process to ensure that it is user-friendly and meets their registration and ticketing needs.
+
+### 4.System Testing:
+The fourth step is to test the event management system to ensure that it is functioning properly and meets stakeholder requirements. The stakeholders involved in this step include:
+
+#### a. Quality Assurance Team: 
+They are responsible for testing the system and identifying any defects or issues.
+
+#### b. Developers: 
+They need to address any defects or issues identified during testing.
+
+#### c. IT Team: 
+They need to ensure that the system meets technical requirements and standards.
+
+### d. Event Planners: 
+They need to test the system to ensure that it meets their specific needs and requirements.
+
+#### e. Vendors: 
+They need to test the system to ensure that it meets their requirements and is user-friendly.
+
+#### f. Sponsors:
+They need to test the system to ensure that it meets their promotional needs and requirements.
+
+#### g. Attendees: 
+They need to test the system to ensure that it is user-friendly and meets their registration and ticketing needs.
+
+### 5. System Deployment:
+The fifth step is to deploy the event management system to production. This involves installing and configuring the system in the production environment and ensuring that it is ready for use. The stakeholders involved in this step include:
+
+#### a. IT Team: 
+They are responsible for installing and configuring the system in the production environment.
+
+#### b. Developers: 
+They need to ensure that the system is properly deployed and functioning in the production environment.
+
+#### c. Event Planners: 
+They need to ensure that the system is ready for use and meets their specific needs and requirements.
+
+#### d. Vendors: 
+They need to ensure that the system is ready for use and meets their requirements.
+
+#### e. Sponsors: 
+They need to ensure that the system is ready for use and meets their promotional needs and requirements.
+
+#### f. Attendees: 
+They need to ensure that the system is ready for use and meets their registration and ticketing needs.
+
+### 6. System Maintenance:
+The final step is to maintain the event management system after it is deployed to production. This involves monitoring the system, fixing any issues or defects that arise, and updating the system as needed. The stakeholders involved in this step include:
+
+#### a. IT Team:
+They are responsible for monitoring and maintaining the system to ensure that it is functioning properly and efficiently.
+
+#### b. Developers: 
+They need to address any issues or defects that arise and update the system as needed.
+
+#### c. Event Planners: 
+They need to provide feedback on the system during maintenance to ensure that it continues to meet their specific needs and requirements.
+
+#### d. Vendors: 
+They need to test and provide feedback on the system during maintenance to ensure that it continues to meet their requirements and is user-friendly.
+
+#### e. Sponsors: 
+They need to test and provide feedback on the system during maintenance to ensure that it continues to meet their promotional needs and requirements.
+
+#### f. Attendees: 
+They need to provide feedback on the system during maintenance to ensure that it continues to meet their registration and ticketing needs.
 
 
 ## Requirement Engineering in creating an Event Management System
