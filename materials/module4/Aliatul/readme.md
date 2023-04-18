@@ -31,7 +31,12 @@ Determine who will be using the system, including shippers, carriers, and recipi
 
   - Responsive customer support: The system should provide responsive customer support, including a help desk, chat support, or email support, to assist with any issues or questions.
 
-- System requirements.
+
+## 3. Define the system requirements:
+
+Determine the features and functionality required for the system, such as parcel tracking, payment processing, and delivery options. Consider the user interface, security, integration with other systems, scalability, performance, and maintenance requirements.
+
+- System requirements : 
 
   - Scalability: The system should be able to handle a high volume of package deliveries, especially during peak times, such as the start and end of the semester.
 
@@ -50,10 +55,6 @@ Determine who will be using the system, including shippers, carriers, and recipi
   - Payment processing: The system should integrate with the university's payment processing system to allow for seamless payment processing and tracking.
 
   - Data analysis: The system should provide data analysis and reporting capabilities to track package delivery performance, identify areas for improvement, and provide insights to university administrators.
-
-## 3. Define the system requirements:
-
-Determine the features and functionality required for the system, such as parcel tracking, payment processing, and delivery options. Consider the user interface, security, integration with other systems, scalability, performance, and maintenance requirements.
 
 ## 4. Choose a technology platform:
 
