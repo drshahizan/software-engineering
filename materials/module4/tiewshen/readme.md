@@ -56,7 +56,37 @@ Finally, the requirements need to be managed throughout the software development
 
 The importance of requirement engineering cannot be overstated. It helps ensure that the software system meets the needs of its stakeholders, and that the development process is more efficient and effective. A thorough and well-executed requirement engineering process can lead to a successful software system that meets the needs of its stakeholders and delivers the desired functionality.
 
+## Stakeholders
+Stakeholders in a student attendance management system can be broadly classified into three categories:
 
+### Primary stakeholders: 
+These are the stakeholders who are directly impacted by the system, and they include:
+Students: They are the end-users of the system and can view their own attendance records and receive notifications about their attendance.
+
+### Teachers: They can mark attendance for their classes, monitor student attendance, and generate reports.
+
+### Administrative staff: They can use the system to manage attendance records, generate reports, and track attendance trends.
+
+### Secondary stakeholders: 
+These are the stakeholders who are indirectly impacted by the system, and they include:
+### Parents: 
+They can view their children's attendance records and receive notifications about their attendance.
+
+### Management: 
+They can use the system to monitor attendance rates across different classes, events, or departments and make decisions based on attendance data.
+
+### Tertiary stakeholders: 
+These are the stakeholders who provide input or support to the system, and they include:
+### IT department: 
+They can provide technical support for the system and ensure that it is running smoothly.
+
+### System developers: 
+They are responsible for developing and maintaining the system.
+
+### Regulators: 
+They may have certain requirements or regulations that need to be followed by the system.
+
+It is important to identify all stakeholders in the system and consider their needs and requirements during the development and implementation process. This ensures that the system meets the needs of all stakeholders and is more likely to be adopted and used effectively.
 
 
 
