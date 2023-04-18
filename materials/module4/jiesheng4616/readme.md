@@ -74,8 +74,6 @@ Mitigation strategies include regular communication with stakeholders, testing a
 ## Glossary
 Fitness tracking - the process of monitoring physical activity, such as workouts and daily steps, to track progress towards fitness goals
 Wearable device - a device worn on the body, such as a fitness tracker or smartwatch, that monitors physical activity and other biometric data.
-## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
 ## Requirement Engineering Process
 Here are the key steps in the requirement engineering process for a mobile app for fitness tracking:
@@ -94,5 +92,8 @@ Here are the key steps in the requirement engineering process for a mobile app f
 
 - Maintenance: Maintain the requirements throughout the life cycle of the app. Update the requirements as needed to reflect changes in the app, such as new features or changes in the operating environment.
 
+By following these steps in the requirement engineering process, you can ensure that the mobile app for fitness tracking meets the needs of stakeholders and is delivered on time and within budget.
 
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
