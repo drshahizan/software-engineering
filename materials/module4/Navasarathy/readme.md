@@ -276,6 +276,39 @@ Communicate the findings from the interview session to the project team, stakeho
 
 By following these steps, you can effectively utilize the insights and feedback gathered from the interview session with your stakeholders to inform the development of your academic grading system.
 
+## Use Cases
+
+Use cases are a common technique used in software development to describe how users interact with a system to achieve specific goals. Here are some examples of use cases for an academic grading system:
+
+### 1. Viewing grades: 
+A student can view their grades for a particular course or semester.
+
+### 2. Entering grades: 
+An instructor can enter grades for assignments, exams, and other assessments.
+
+### 3. Updating grades: 
+An instructor can update grades if there was an error or if a student submitted a late assignment.
+
+### 4. Calculating grades: 
+The academic grading system can automatically calculate the final grade for a course based on the weightings of different assessments.
+
+### 5. Assigning grades: 
+The academic grading system can automatically assign a letter grade or a grade point average (GPA) based on the final grade.
+
+### 6. Monitoring progress: 
+An advisor or academic dean can monitor a student's progress and identify potential issues, such as low grades or incomplete assignments.
+
+### 7. Notifying students: 
+The academic grading system can automatically notify students of their grades via email or other channels.
+
+### 8. Generating reports: 
+The academic grading system can generate reports for instructors, advisors, and academic administrators, such as grade reports or progress reports.
+
+### 9. Handling grade disputes: 
+The academic grading system can provide a mechanism for handling grade disputes, such as allowing students to contest a grade or allowing instructors to explain their grading decisions.
+
+By identifying and describing these use cases, you can ensure that the academic grading system meets the needs and expectations of its users, and that it is designed to support their goals and workflows.
+
 
 
 
