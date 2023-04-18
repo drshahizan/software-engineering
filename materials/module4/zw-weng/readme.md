@@ -143,6 +143,39 @@ The system should be designed to perform well under heavy load and respond quick
 
 In summary, system requirements for a university accommodation management system are focused on ensuring that the system is reliable, scalable, secure, and easy to use. It is important to consider system requirements when developing the system to ensure that it can meet the needs of its users and operate effectively in a complex and demanding environment.
 
+## Functional requirements in accommodation management system
+
+Functional requirements refer to the specific features and functions that the university accommodation management system must perform to meet the needs of its users. These requirements describe what the system should do and how it should behave in order to meet the user requirements. Here are some examples of functional requirements for a university accommodation management system:
+
+### Room Availability: 
+The system should provide real-time information on room availability and allow users to view the availability of different types of rooms, such as single, double, or suite rooms.
+
+### Room Reservation: 
+The system should allow users to reserve a room for a specific period of time, and provide confirmation of the reservation via email or other means.
+
+### Online Payments: 
+The system should allow users to make payments for their accommodation online, and provide secure payment options such as credit card, PayPal, or other payment gateways.
+
+### Maintenance Requests: 
+The system should allow users to submit maintenance requests for their rooms, and provide a way for accommodation staff to track and manage these requests.
+
+### Check-In and Check-Out: 
+The system should provide a way for users to check-in and check-out of their accommodation, and provide confirmation of the check-in and check-out via email or other means.
+
+### Room Assignments: 
+The system should provide a fair and transparent process for room assignments, and allow accommodation staff to assign rooms based on various criteria such as room type, occupancy, and availability.
+
+### Reporting and Analytics:
+The system should provide reporting and analytics features, such as room occupancy rates, payment history, and maintenance request data.
+
+### Communication: 
+The system should provide a way for users to communicate with accommodation staff, such as through a messaging or chat feature.
+
+### Security: 
+The system should provide security features such as user authentication, data encryption, and backup and recovery measures to protect user data.
+
+In summary, functional requirements for a university accommodation management system include features such as room availability, reservation, online payments, maintenance requests, check-in and check-out, room assignments, reporting and analytics, communication, and security. These requirements should be carefully considered when developing the system to ensure that it meets the needs of its users and provides a smooth and efficient experience.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 

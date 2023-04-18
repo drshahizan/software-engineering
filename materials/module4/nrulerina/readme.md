@@ -109,4 +109,40 @@
   ### Define User Experience Requirements: 
     Define the different user experience requirements, such as ease of use, 
     responsiveness, and personalization.
+    
+# Functional Requirement    
+## Key steps in creating a Functional Requirement Document for a Parcel Delivery System
 
+ ### Identify the Functions: 
+Identify the different functions that the parcel delivery system will perform, such as receiving and processing orders,
+tracking parcels, and managing delivery routes.
+
+ ### Define Input Requirements: 
+Define the different inputs that the system will require to perform its functions, 
+such as order details, customer information, and delivery addresses.
+
+ ### Define Output Requirements: 
+Define the different outputs that the system will generate, such as delivery confirmation, 
+payment receipts, and parcel tracking information.
+
+ ### Specify Functional Requirements: 
+Specify the different functional requirements of the system, such as the ability to process 
+orders in real-time, track parcels in transit, and manage delivery routes based on traffic and weather conditions.
+
+ ### Identify Data Requirements: 
+Identify the different data requirements of the system, such as the types of data that will be stored, 
+the data formats, and the data storage locations.
+
+ ### Specify Performance Requirements: 
+Specify the different performance requirements of the system, such as response time, throughput, and availability.
+
+ ### Define Error Handling Requirements: 
+Define the different error handling requirements of the system, such as the ability to detect and report errors, 
+and to recover from system failures.
+
+ ### Specify User Management Requirements: 
+Specify the different user management requirements of the system, such as user authentication, 
+access control, and user account management.
+
+ ### Identify Reporting Requirements: Identify the different reporting requirements of the system, 
+such as generating reports on delivery performance, customer satisfaction, and system usage

@@ -10,10 +10,10 @@ Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): Online Grading System
 
-## Developing an academic registration system for a university requires some steps that you can follow to develop an academic registration system for a university:
+## Developing an academic grading system for a university requires some steps to follow to develop an academic grading system for a university:
 
 ### 1. Define the Requirements:
-Start by defining the requirements of the registration system, including the features required, the user roles and permissions, and the data that needs to be captured during registration. The features may include student registration, course registration, faculty management, student records management, and reporting.
+Start by defining the requirements of the grading system, including the grading criteria, the grading scale, and the grading policies. The system should also capture other relevant information such as student name, course name, semester, and instructor name.
 
 ### 2. Design the System Architecture: 
 Once you have defined the requirements, you can start designing the system architecture. Determine the technology stack and the database schema that will be used to build the system. You may also consider whether to use a cloud-based system or an on-premise system.
@@ -30,9 +30,120 @@ Once testing is complete, deploy the system to the production environment. Ensur
 ### 6. Maintain and Update the System: 
 Finally, maintain and update the system as necessary to ensure that it remains functional and up-to-date with changing requirements and technologies.
 
+#### In addition 
+consider incorporating the following features into the academic grading system:
+
+Gradebook: a feature that allows instructors to enter grades and track student progress.
+Automatic Calculations: a feature that automatically calculates grades based on the grading criteria and policies.
+Reports: a feature that generates reports for students, instructors, and administrators to review grades and student progress.
+By following these steps and incorporating these features, you can develop an academic grading system for a university that meets the needs of students, faculty, and staff while ensuring the security and integrity of student data.
+
+## Requirements Engineering
+Requirements engineering is the process of identifying, analyzing, documenting, validating, and managing the requirements of a software system or product. It ensures that the software meets the needs of its stakeholders and provides a solid foundation for the development team to build the system.
+
+The requirements engineering process for an academic grading system typically involves the following steps:
+
+### 1. Requirements Elicitation: 
+The first step is to identify the stakeholders who will be affected by the academic grading system and gather their requirements. This involves conducting interviews, surveys, and focus groups with students, faculty, administrators, and other relevant parties to determine their needs, preferences, and expectations.
+
+### 2. Requirements Analysis: 
+Once the requirements have been gathered, they need to be analyzed and prioritized. This involves identifying any conflicts or contradictions in the requirements and resolving them. The requirements should also be categorized based on their importance and feasibility.
+
+### 3. Requirements Specification: 
+The next step is to document the requirements in a clear and concise manner. This involves creating use cases, functional and non-functional requirements, and other documentation that will serve as the basis for the system design.
+
+### 4. Requirements Validation: 
+Once the requirements have been specified, they need to be validated to ensure that they are complete, accurate, and consistent. This involves reviewing the requirements with stakeholders and conducting prototyping and testing to ensure that they meet the needs of the users.
+
+### 5. Requirements Management: 
+The final step is to manage the requirements throughout the development process. This involves tracking changes to the requirements, maintaining traceability between the requirements and the system design, and ensuring that the requirements are met in the final product.
+
+Overall, the requirements engineering process for an academic grading system is critical to ensure that the system meets the needs of its users, is reliable, and meets the expectations of all stakeholders. By following a structured approach to requirements engineering, the academic grading system can be designed and developed to achieve the desired outcomes.
+
+## Stakeholders
+
+The stakeholders in an academic grading system may include:
+
+### 1. Students: 
+The primary stakeholders in the academic grading system are the students who receive the grades. They have a vested interest in the accuracy, fairness, and transparency of the grading system.
+
+### 2. Faculty: 
+The faculty members who teach the courses and assign grades are also stakeholders in the grading system. They need a system that is easy to use and that accurately reflects student performance.
+
+### 3. Administrators: 
+University administrators, such as deans, department heads, and registrars, are also stakeholders in the grading system. They require access to student grades for a variety of purposes, such as accreditation and student retention.
+
+### 4. Employers: 
+Employers who hire graduates may also be stakeholders in the grading system. They may look at grades as an indicator of a student's knowledge, skills, and abilities.
+
+### 5. Parents: 
+Parents of students may also be stakeholders in the grading system. They may want to be informed about their child's academic progress and require access to the grading system.
+
+### 6. Accrediting bodies: 
+Accrediting bodies may also be stakeholders in the grading system. They may require access to student grades to assess the quality of education provided by the institution.
+
+Overall, the stakeholders in an academic grading system are diverse, and the grading system must meet the needs and expectations of all stakeholders to ensure its success.
+
+## Users and system requirements
+
+The users and system requirements for an academic grading system may include:
+
+## Users:
+### 1. Students:
+a.The system should provide access to their grades and academic progress.
+b.The system should allow them to view their grades for all courses and assignments.
+c.The system should notify them of any changes to their grades.
+d.The system should be user-friendly and easy to navigate.
+
+### 2. Faculty members:
+a.The system should allow them to easily enter and manage grades for all students in their courses.
+b.The system should provide access to student progress reports.
+c.The system should be integrated with course management tools, such as learning management systems.
+d.The system should be user-friendly and easy to navigate.
+
+### 3. Administrators (such as deans, department heads, and registrars):
+a.The system should allow them to access student grades and academic progress reports.
+b.The system should allow them to manage the grading policies and criteria.
+c.The system should provide data analytics and reporting capabilities to track overall academic performance.
+d.The system should be user-friendly and easy to navigate.
+
+### 4. Employers:
+a.The system should provide access to student transcripts and grades.
+b.The system should be secure and protect student data from unauthorized access.
+c.The system should be reliable and provide accurate and up-to-date information.
+
+### 5. Parents:
+a.The system should provide access to their child's grades and academic progress.
+b.The system should allow them to monitor their child's academic performance.
+c.The system should be user-friendly and easy to navigate.
+
+## System Requirement:
+
+### 1. Performance and reliability:
+a.The system should be able to handle a large volume of data and users simultaneously.
+b.The system should be reliable and available at all times.
+
+### 2. Security:
+a.The system should ensure the confidentiality and integrity of student data.
+b.The system should protect against unauthorized access and prevent data breaches.
+
+### 3.Scalability:
+a.The system should be able to accommodate future growth and changes in the academic environment.
+
+### 4.Integration:
+a. The system should be able to integrate with other academic systems, such as course management and student information systems.
+
+### 5. Flexibility:
+a.The system should be customizable to meet the unique needs of the institution and its users.
+b.The system should be able to adapt to changes in grading policies and criteria.
 
 
-By following these steps, you can develop an academic registration system for a university that meets the needs of students, faculty, and staff while ensuring the security and integrity of student data.
+
+
+
+
+
+
 
 
 ## Contribution 🛠️

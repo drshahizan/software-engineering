@@ -43,13 +43,6 @@ The following use cases have been identified for the fitness tracking app:
 - Sharing progress with friends and other users
 - Purchasing premium features such as personalized workout plans
 
-## Non-functional Requirements
-The fitness tracking app must meet the following non-functional requirements:
-- High availability and reliability, with minimal downtime
-- Fast response times for user interactions
-- Secure storage and transmission of user data
-- Compatibility with both iOS and Android devices
-
 ## Assumptions and Constraints
 Assumptions:
 - Users have basic knowledge of fitness and exercise

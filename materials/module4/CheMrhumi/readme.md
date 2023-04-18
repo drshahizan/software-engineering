@@ -101,7 +101,37 @@ Users may want to provide feedback or reviews on their food orders or overall ex
 ## 10.Security and privacy: 
 Users expect that their personal information, payment details, and order history are securely stored and protected. The system should implement appropriate security measures, such as encryption, authentication, and authorization, to ensure user data privacy and security.
 
+# ~Functional Requirements
 
+## 1.Menu management: 
+The system should allow for easy management of the menu, including adding, editing, and removing food items, categorizing items, setting prices, and updating availability status.
+
+## 2.Order management: 
+The system should support order placement, modification, and cancellation by users, as well as order tracking and notification updates. It should also allow for order history and order summary for users and order management for administrators.
+
+## 3.Customization options: 
+The system should allow users to customize their food orders based on their preferences, such as selecting options for toppings, sauces, portion sizes, and dietary requirements (e.g., vegetarian, gluten-free).
+
+## 4.Delivery and pickup options:
+The system should provide options for users to choose delivery or pickup options, including specifying delivery addresses, delivery times, or pickup locations. It should also support delivery fee calculation, if applicable.
+
+## 5.Payment processing: 
+The system should support secure and reliable payment processing, including integration with various payment methods, such as credit/debit cards, mobile wallets, or campus meal plans. It should also handle pricing calculations, tax calculations, and apply discounts or promotions accurately.
+
+## 6.User authentication and authorization: 
+The system should have a user authentication and authorization mechanism to ensure that only authorized users can access and place orders. It may include features such as user registration, login, password management, and account management.
+
+## 7.Search and filtering: 
+The system should allow users to search for food items based on keywords, categories, or dietary requirements, and provide filtering options to narrow down search results based on user preferences.
+
+## 8.Feedback and reviews:
+The system should allow users to provide feedback and reviews on food items, orders, and overall experience. It should also provide a mechanism for administrators to manage and respond to user feedback.
+
+## 9.Promotions and discounts: 
+The system should support the implementation of special promotions, discounts, or loyalty rewards, and apply them accurately based on predefined rules or user-specific criteria. It should also allow administrators to manage promotions and discounts.
+
+## 10.Reporting and analytics:
+The system should provide reporting and analytics capabilities for administrators to track orders, monitor system performance, and generate insights for decision-making and system improvements.
 
 
 

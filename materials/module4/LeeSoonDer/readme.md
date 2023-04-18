@@ -117,7 +117,7 @@ These requirements for the requirements engineering process are just a starting 
 
 </ul>
 
-<h2>Functional Requirements of Student Feedback System</h2>
+<h2>Functional Requirements for Student Feedback System</h2>
 <ul>
 <li>User authentication and authorization: The system should allow users to log in with their university credentials and only allow authorized users to access the feedback submission and viewing features.</li>
 <li>Feedback submission: The system should allow students to submit feedback on courses and instructors anonymously or with their identity if they prefer.</li>

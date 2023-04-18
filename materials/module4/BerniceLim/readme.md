@@ -50,7 +50,7 @@ In summary, developing a student engagement system requires careful planning, de
 
 ##  Required Engineering
 Requirement engineering is a <b>critical process</b> in the development of any software system, including a student engagement system. Here are some steps you can follow to perform requirement engineering for a student engagement system:
-<ol typr="1">
+<ol type="1">
 
 <li>Identify stakeholders: Identify the stakeholders who will be involved in the development, deployment, and use of the system. These stakeholders may include educators, students, administrators, and IT staff.</li>
 
@@ -106,7 +106,17 @@ Security: The system should have robust security features, including encryption,
 
 Accessibility: The system should be accessible to all users, including those with disabilities, and should comply with accessibility standards.
 
-Performance: The system should be fast and responsive, with minimal latency, to provide an optimal user experience.   
+Performance: The system should be fast and responsive, with minimal latency, to provide an optimal user experience. 
+
+## Functional Requirement for Student Engagement System
+<ol type='1'> 
+  <li><b>Course management</b>:<br> The system should allow teachers to create, manage, and publish courses, including course materials, assignments, and assessments.</li>
+   <li><b>Real-time feedback</b>:<br>  The system should enable teachers to provide feedback to students in real-time, including feedback on assignments, quizzes, and exams.</li>
+   <li><b>Collaboration tools</b>:<br>  The system should include tools that facilitate collaboration between students, such as discussion forums, chat rooms, and group projects.</li>
+   <li><b>Personalization</b>:<br>  The system should enable personalized learning experiences for students, including adaptive learning paths, customized content, and tailored assessments.</li>
+   <li><b>Gamification</b>:<br>  The system should include gamification elements to keep students motivated and engaged, such as rewards, badges, and leaderboards.</li>
+   
+  
     
 
 
