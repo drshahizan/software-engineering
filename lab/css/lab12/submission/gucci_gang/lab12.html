@@ -92,12 +92,35 @@
         #boxsquare{
             display:inline-block;
             text-align: center;
+            background-color: #dee0ec;
+            border-radius:5px;
+            width: 125px;
+            padding-top: 40px;
+            padding-bottom: 70px;
+            margin:20px;
+        }
+        #boxround{
+            display:inline-block;
+            text-align: center;
+            background-color: #dee0ec;
+            border-radius:50%;
+            padding: 60px 55px;
+            margin:20px;
+        }
+        #boxfootball{
+            display:inline-block;
             vertical-align: top;
             background-color: #dee0ec;
-            width: 52px;
+            border-radius: 50%;
             margin: 20px;
-            padding: 37px;
-            line-height: 25px;
+            width: 50px;
+            height: 30px;
+            padding: 50px;
+            
+            transform: skew(30deg);
+        }
+        .text{
+            transform: skew(-30deg);
         }
         #text4{
             width: 22em;
@@ -185,7 +208,9 @@
     <div id="boxdashed">8px dashed</div> 
     <div id="boxdotted">4px dotted</div>
   
-    <br><div id="boxsquare">5px</div> 50% 15px 75px</br>
+    <br><div id="boxsquare">5px</div>
+    <div id="boxround">50%</div> 
+    <div id="boxfootball"><div class="text">15px75px</div></div></br>
     <h1>Lab 4: Box Model 1</h1>
     <div id="text4">
     <p>This text is the content of the box. We have added a 40px padding, 30px margin and a 15px inset blue.</p>
