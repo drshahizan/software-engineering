@@ -131,12 +131,6 @@ These requirements for the requirements engineering process are just a starting 
 <li>System administration: The system should allow authorized administrators to manage user accounts, system settings, and feedback-related data.</li>
 </ul>
 
-
-
-
-
-
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
