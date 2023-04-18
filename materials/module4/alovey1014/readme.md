@@ -65,31 +65,33 @@ Administrators will have different requirements as well, focused on the overall 
 - Security features to ensure the protection of student data and information
 
 ## System Requirement
-System requirements for a student engagement system can be defined by considering the technical specifications needed to support the functionality of the system. Here are some possible system requirements that may be considered:
+When designing a student engagement system solely for students, the system requirements may be focused on meeting the specific needs of this user group. Here are some possible system requirements to consider:
 
-### 1. Hardware requirements
-The system will need to be hosted on a server or servers with sufficient processing power, memory, and storage to support the expected workload.
+### 1. User interface requirements
+The system should have a user-friendly and intuitive interface that is easy to navigate, with clear and concise instructions and prompts to guide users.
 
-### 2. Software requirements
-The system may require specific software components, such as a web server, a database management system, and other software tools necessary to support the functionality of the system.
+### 2. Communication requirements
+The system should have various communication channels available, such as messaging, email, and push notifications, to allow students to stay connected with each other, instructors, and the institution.
 
-### 3. Compatibility requirements
-The system should be compatible with various devices, including desktops, laptops, tablets, and smartphones, and across different operating systems and web browsers.
+### 3. Collaboration requirements
+The system should have collaborative features, such as discussion forums, group projects, and virtual classrooms, to encourage student interaction and collaboration.
 
-### 4. Security requirements
+### 4. Personalization requirements: 
+The system should allow students to personalize their experience, such as customizing their dashboard, choosing their preferred notification settings, and accessing personalized recommendations and resources.
+
+### 5. Analytics requirements
+The system should have analytics capabilities to track student engagement and performance, providing insights to instructors and the institution to help improve the learning experience.
+
+### 6. Mobile accessibility requirements
+The system should be designed with mobile accessibility in mind, with responsive design that adapts to various screen sizes and mobile-specific features, such as touch gestures and mobile payment integration.
+
+### 7. Accessibility requirements
+The system should meet accessibility guidelines to ensure that it can be used by students with disabilities, such as providing support for screen readers, keyboard navigation, and captioning.
+
+### 8. Security requirements
 The system should have strong security measures in place to protect the privacy and security of student data, including encryption and access control.
 
-### 5. Performance requirements
-The system should be able to handle the expected workload, including high traffic periods, and should be able to perform all functions quickly and efficiently.
 
-### 6. Availability requirements
-The system should be available 24/7 to ensure that students and faculty can access it whenever they need it, and it should have a backup and disaster recovery plan in place in case of system failure or other issues.
-
-### 7. Integration requirements
-The system should be able to integrate with other existing systems used by the institution, such as the student information system, learning management system, and other educational software.
-
-### 8. Testing and maintenance requirements
-The system should undergo regular testing to ensure that it is functioning properly and to identify any issues that need to be addressed. It should also have a maintenance plan in place to ensure that it is updated and maintained over time.
 
 ## Stakeholder
 ### 1. Students
