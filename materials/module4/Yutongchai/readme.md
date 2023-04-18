@@ -8,7 +8,8 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): University Social Network System
-## The development of a University Social Network system involves several key steps:
+## Key steps
+The development of a University Social Network system involves several key steps:
 
 <b>1. Planning: </b>
 <br>
@@ -56,6 +57,51 @@ In this stage, the requirements are documented in a clear and concise manner. Th
 <b>4. Requirements validation: </b>
 <br>
 In this stage, the requirements are reviewed and validated to ensure that they meet the needs of the stakeholders and users. This involves conducting walkthroughs, inspections, and tests to verify the requirements.
+
+## User Requirements
+<b>1.User Profiles: </b>
+<br>
+The ability for users to create and manage their own profiles, including personal information, interests, and profile pictures.
+
+<b>2. Friend Network: </b>
+<br>Users should be able to connect with other users, send friend requests, and manage their friend lists.
+
+<b>3. Messaging: </b><br>Users should be able to send and receive private messages with other users.
+
+<b>4. Newsfeed: </b><br>Users should be able to view a personalized newsfeed that includes updates from their friends and pages they follow.
+
+<b>5. Groups: <br>Users should be able to create and join groups based on interests, departments, or activities.
+
+<b>6. Events: </b><br>Users should be able to create and join events related to university activities, such as seminars, workshops, and extracurricular activities.
+
+<b>7. Notifications: </b><br>Users should receive notifications for new messages, friend requests, events, and other activities related to their account.
+
+<b>8. Privacy: </b><br>Users should be able to control their privacy settings, including who can see their profile, posts, and activities.
+
+<b>9. Mobile Compatibility: </b><br>The system should be mobile-friendly, allowing users to access the platform from their smartphones and tablets.
+
+<b>10. Integration: </b><br>The system should be able to integrate with other university systems, such as the course management system, library system, and student information system.
+
+## System Requirements
+<b>1. Scalability: </b>The system should be able to handle a large number of users and data without any performance issues.
+
+<b>2. Security: </b>The system should provide a secure environment to protect the personal and sensitive data of the users, such as their profile information, posts, messages, etc.
+
+<b>3. Accessibility: </b>The system should be easily accessible to all users, including those with disabilities, and should support multiple languages.
+
+<b>4. Mobile-friendly: </b>The system should be mobile-friendly, so users can access it on their smartphones and tablets.
+
+<b>5. Search functionality: </b>The system should have a powerful search engine to enable users to search for specific posts, people, or groups.
+
+<b>6. Notifications: </b>The system should provide notifications to users for various events such as new messages, friend requests, comments, etc.
+
+<b>7. Integration with other systems: </b>The system should be able to integrate with other systems such as the university's student information system, authentication systems, etc.
+
+<b>8. Analytics: </b>The system should have analytics capabilities to track user engagement, demographics, and other important metrics.
+
+<b>9. Moderation: </b>The system should have moderation capabilities to monitor and remove inappropriate content, and enforce community guidelines.
+
+<b>10. Privacy settings: The system should allow users to con
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
