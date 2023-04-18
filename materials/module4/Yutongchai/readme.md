@@ -65,7 +65,7 @@ In this stage, the requirements are documented in a clear and concise manner. Th
 In this stage, the requirements are reviewed and validated to ensure that they meet the needs of the stakeholders and users. This involves conducting walkthroughs, inspections, and tests to verify the requirements.
 
 ## User Requirements
-<b>1.User Profiles: </b>
+<b>1. User Profiles: </b>
 <br>
 The ability for users to create and manage their own profiles, including personal information, interests, and profile pictures.
 
