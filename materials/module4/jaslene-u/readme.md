@@ -46,12 +46,34 @@ The requirements engineering process for an student attendance system typically 
 
 ### 1.Functional Requirements:
 <ul>
- <li>The system should allow teachers to mark attendance for students.</li>
- <li>The system should be able to generate reports of attendance for individual students or for the entire 
- class.</li>
- <li>The system should be able to generate alerts for absenteeism or late arrivals.</li>
- </ul>
+<li> Attendance tracking: <br>
+The system should allow teachers to mark attendance for students in real-time and keep a record of student attendance.</li>
 
+<li> Absence reporting: <br>
+The system should generate automatic reports of student absences, tardiness, and early departures for teachers and administrators.</li>
+
+<li> Alert system: <br>
+The system should generate alerts for teachers and administrators when students are absent, tardy, or leave early.</li>
+
+<li> Reporting: <br><br>
+The system should allow teachers and administrators to generate reports of attendance for individual students or for the entire class, as well as summary reports.</li>
+
+<li> Integration with other systems: <br><br><br>
+The system should be able to integrate with other school systems, such as the student information system (SIS), to ensure consistency and accuracy of data.</li>
+
+<li> Flexibility: <br>
+The system should be able to accommodate different attendance policies and procedures, as well as varying schedules and class structures.</li>
+ 
+<li> User access and permissions: <br>
+The system should provide different levels of access and permissions for teachers, administrators, and other users based on their roles and responsibilities.</li>
+
+<li> Automatic notifications: <br>
+system should send automatic notifications to parents or guardians about student attendance, such as absence or tardiness.</li>
+
+<li> Student information: <br>
+The system should provide access to important student information, such as contact details, emergency contacts, and medical information.</li>
+</ul>
+ 
 ### 2.Non-Functional Requirements:
 <ul>
  <li>The system should be user-friendly and easy to navigate for teachers and administrators.</li>
@@ -147,32 +169,7 @@ System requirements in an student attendance system refer to the technical and f
 
 The following are some examples of system requirements for a student attendance system:
 
-### 1. Attendance tracking: 
-The system should allow teachers to mark attendance for students in real-time and keep a record of student attendance.
 
-### 2.Absence reporting: 
-The system should generate automatic reports of student absences, tardiness, and early departures for teachers and administrators.
-
-### 3.Alert system: 
-The system should generate alerts for teachers and administrators when students are absent, tardy, or leave early.
-
-### 4.Reporting: 
-The system should allow teachers and administrators to generate reports of attendance for individual students or for the entire class, as well as summary reports.
-
-### 5.Integration with other systems: 
-The system should be able to integrate with other school systems, such as the student information system (SIS), to ensure consistency and accuracy of data.
-
-### 6.Flexibility: 
-The system should be able to accommodate different attendance policies and procedures, as well as varying schedules and class structures.
-
-### 7.User access and permissions: 
-The system should provide different levels of access and permissions for teachers, administrators, and other users based on their roles and responsibilities.
-
-### 8.Automatic notifications: 
-system should send automatic notifications to parents or guardians about student attendance, such as absence or tardiness.
-
-### 9.Student information: 
-The system should provide access to important student information, such as contact details, emergency contacts, and medical information.
 
 By defining and meeting these system requirements, designers and developers can ensure that the student attendance system is reliable, secure, and scalable. System requirements are essential to the success of the system, as they directly impact its functionality, performance, and reliability. It is important to involve system administrators, developers, and other technical experts in the requirements gathering and validation process to ensure that the system meets technical standards and best practices.
 
