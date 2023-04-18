@@ -258,6 +258,20 @@ These are some common non-functional requirements for an online student grading 
 
 - Respect Interviewee's Opinions: Be respectful of the interviewee's opinions and perspectives, even if they differ from your own. Avoid interrupting or challenging their views.
 
+Here are some sample questions you can ask during the interview:
+
+  - What are your current challenges with the package delivery system on campus?
+  - What features would you like to see in a new package delivery system for the university?
+  - How frequently do you send and receive packages on campus?
+  - Have you ever experienced any issues with package theft or loss on campus?
+  - How important is package tracking and delivery status updates to you?
+  - Would you be willing to pay a fee for expedited package delivery?
+  - How do you currently manage package pickup and delivery scheduling?
+  - What do you think would be the biggest benefits of a new delivery service system for the university?
+  - How would you rate the current package delivery system on campus in terms of convenience, reliability, and efficiency?
+  - Do you have any additional suggestions or feedback for the development team working on the new delivery service system?
+
+
 ## After the Interview
 
 - Review Notes: Review your notes from the interview to ensure accuracy and completeness.
