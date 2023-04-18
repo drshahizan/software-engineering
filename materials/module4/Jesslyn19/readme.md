@@ -8,7 +8,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): Student Engagement System
-## Developing a student engagement system can be a complex and multifaceted process. However, here are some general steps you can follow to create a student engagement system:
+Developing a student engagement system can be a complex and multifaceted process. However, here are some general steps you can follow to create a student engagement system:
 
 ### Define the scope and goals:
 The first step is to define the scope of the system and identify the goals you want to achieve. Consider the target audience, learning objectives, and the types of engagement activities you want to offer.
@@ -35,7 +35,7 @@ In summary, developing a student engagement system requires careful planning, de
 
 # Requirement Engineering Process
 
-## Requirement engineering is a critical process in the development of any software system, including a student engagement system. Here are some steps you can follow to perform requirement engineering for a student engagement system:
+Requirement engineering is a critical process in the development of any software system, including a student engagement system. Here are some steps you can follow to perform requirement engineering for a student engagement system:
 
 ### Identify stakeholders:
 Identify the stakeholders who will be involved in the development, deployment, and use of the system. These stakeholders may include educators, students, administrators, and IT staff.
