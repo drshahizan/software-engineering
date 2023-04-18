@@ -79,6 +79,27 @@ Effective requirements engineering is critical to the success of a software proj
 
 It is important to note that these requirements are just a starting point and may vary depending on the specific needs and goals of the library management system. The requirements should be carefully analyzed and refined through discussions with stakeholders, including library staff and users, to ensure that the system effectively meets their needs.
 
+<h1> Functional Requirements</h1>
+Functional requirements for a library management system typically include:
+
+1.Book management: The system should be able to manage books, including adding, deleting, updating, and searching for books. It should also be able to track book loans, returns, and reservations.
+
+2.User management: The system should be able to manage library users, including adding, deleting, and updating user information. It should also be able to track user borrowing history and current book loans.
+
+3.Reservation management: The system should allow users to reserve books that are currently checked out, and should be able to manage the reservation queue.
+
+4.Loan management: The system should manage book loans, including checking books in and out, tracking due dates, and managing overdue fines.
+
+5.Catalog search: The system should allow users to search for books by title, author, ISBN, subject, or other relevant criteria.
+
+6.Reporting: The system should be able to generate reports on book availability, overdue books, popular books, and other relevant data.
+
+7.Authentication and authorization: The system should require users to authenticate with a username and password, and should restrict access to certain features based on user roles and permissions.
+
+8.Notifications: The system should be able to send notifications to users about upcoming due dates, reserved books, and other relevant events.
+
+9.Inter-library loan management: The system should be able to manage inter-library loans, including tracking loan requests, managing shipping and handling, and tracking loan status.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
