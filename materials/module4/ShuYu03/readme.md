@@ -181,6 +181,41 @@ The following are some examples of system requirements for an university event m
 
 By defining and meeting these system requirements, designers and developers can ensure that the university event management system is reliable, secure, and scalable. System requirements are essential to the success of the system, as they directly impact its functionality, performance, and reliability. It is important to involve system administrators, developers, and other technical experts in the requirements gathering and validation process to ensure that the system meets technical standards and best practices.
 
+## Functional Requirement in university event management system
+
+Functional requirements describe the specific features and functions that the university event management system must perform in order to meet the needs of its users. Here are some functional requirements for the university event management system:
+
+### 1. Event Creation and Management:
+- Ability for event organizers to create and manage events
+- Option to add event details, such as time, location, description, and registration information
+- Option to customize event pages with branding and images
+- Option to add sponsors and partners to the event page
+- 
+### 2. Event Browsing and Registration:
+- User-friendly event browsing and search functionality
+- Option to filter events by location, category, date, and keyword
+- Option to view event details, such as date, time, location, and description
+- Option to register and pay for events online
+- Option to view and download event schedules and agendas
+
+### 3. Personalized User Profiles:
+- Option for users to create personalized profiles
+- Option to save event preferences and interests
+- Option to view event history and feedback
+- Option to receive event recommendations based on profile information
+
+### 4. Communication and Feedback:
+- Option for event organizers to communicate with attendees via email and messaging platforms
+- Option for attendees to provide feedback and ratings for events
+- Option for attendees to report any issues or problems with events
+
+### 5. Payment and Security:
+- Option for attendees to pay for events securely online
+- Integration with popular payment gateways, such as PayPal and Stripe
+- Option for attendees to save payment and billing information for future transactions
+- Robust security measures to protect user information and prevent fraud
+
+The functional requirements of the university event management system focus on providing event organizers with the tools they need to create and manage events, as well as providing attendees with a user-friendly platform for browsing and registering for events. The system must also ensure the security of user data and payment information. By meeting these functional requirements, the system can effectively manage university events and provide a positive user experience for its stakeholders.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

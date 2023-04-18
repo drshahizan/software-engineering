@@ -26,7 +26,7 @@ This stage involves evaluating the system's performance and effectiveness in mee
 
 Overall, developing a Student Health and Wellness Management System for a university requires a well-defined process that involves thorough planning, requirements gathering, system design, system development, testing, deployment, maintenance, and evaluation to ensure that the system meets the needs of the stakeholders and achieves its goals.
 
-# Requirement engineering 
+## Requirement engineering 
 Requirement engineering is a crucial process in the development of a Student Health and Wellness Management System for a university. The following are some requirements that need to be considered:
 
 ### 1. Functional Requirements:
@@ -77,7 +77,7 @@ Requirement engineering is a crucial process in the development of a Student Hea
 -The system should be customizable to meet the individual needs of each student.
 
 
-# Users and system requirements
+## Users and system requirements
 
 ## Users:
 
@@ -127,5 +127,54 @@ The system should be accessible to users with disabilities, such as those who re
 
 ### 11. Customization: 
 The system should be customizable to meet the individual needs of each student, allowing them to set preferences for notifications, appointments, and content.
+
+## Functional Requirement
+Here are some potential functional requirements for a Student Health and Wellness Management System for a university:
+
+### 1. User Authentication and Authorization:
+-The system should require users to authenticate themselves before they can access their accounts or any sensitive information.
+
+-The system should use different levels of authorization to grant different types of access to users based on their roles.
+
+### 2. Appointment Scheduling:
+-The system should allow students to schedule appointments with health professionals and wellness coaches.
+
+-The system should allow staff to view and manage student appointments, including scheduling, canceling, or rescheduling appointments.
+
+-The system should provide automated reminders for scheduled appointments to both students and staff.
+
+### 3. Communication:
+-The system should provide a secure messaging platform for students to communicate with health professionals and wellness coaches.
+
+-The system should provide a way for health professionals and wellness coaches to communicate with each other about a specific student.
+
+### 4. Health Education:
+-The system should provide access to educational resources on health and wellness topics, such as articles, videos, and podcasts.
+
+-The system should provide personalized recommendations for educational resources based on a student's health records and wellness goals.
+
+### 5. Health Records Management:
+-The system should provide a platform for students to view their health records, including medical history, medications, and test results.
+
+-The system should allow health professionals and wellness coaches to add or update records related to a specific student.
+
+-The system should provide a way for students to securely share their health records with other health professionals or institutions.
+
+### 6. Goal Tracking and Progress Monitoring:
+-The system should allow students to set health and wellness goals and track their progress towards those goals.
+
+-The system should provide personalized recommendations for goals based on a student's health records and wellness goals.
+
+-The system should allow health professionals and wellness coaches to monitor a student's progress and provide feedback or guidance.
+
+### 7. Reporting and Analytics:
+-The system should generate reports and analytics on student health and wellness trends.
+
+-The system should allow administrators to view and export data related to system usage, appointments, and health records.
+
+### 8. Mobile Access:
+-The system should be accessible through mobile devices to allow students to access their health information and schedule appointments on the go.
+
+-The mobile interface should be responsive and user-friendly.
 
 ## Contribution 🛠️
