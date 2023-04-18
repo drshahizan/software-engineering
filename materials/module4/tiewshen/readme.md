@@ -134,6 +134,39 @@ The system should provide adequate support to users, such as help documentation 
 
 By identifying these user requirements, developers can design and build a student attendance management system that meets the needs of all stakeholders and delivers the desired functionality.
 
+## System requirements in student attendance management system
+
+System requirements for a student attendance management system can include the following:
+
+### 1. Performance: 
+The system should be able to handle a large volume of attendance data and should be responsive even during peak usage times.
+
+### 2. Security: 
+The system should be designed with appropriate security measures to protect attendance data, such as encryption and access controls.
+
+### 3. Scalability: 
+The system should be scalable to accommodate future growth in the number of students, classes, or events.
+
+### 4. Reliability: 
+The system should be reliable and available at all times, with minimal downtime.
+
+### 5. Compatibility: 
+The system should be compatible with a range of devices and browsers to ensure that users can access it from anywhere.
+
+### 6. Maintenance: 
+The system should be easy to maintain and update, with minimal disruption to users.
+
+### 7. Integration:
+The system should be able to integrate with other systems, such as student information systems and learning management systems, to provide a seamless user experience.
+
+### 8. Data management: 
+The system should have robust data management capabilities, including data storage, backup, and retrieval.
+
+### 9. Accessibility: 
+The system should be accessible to users with disabilities, such as those who use assistive technologies or require additional language support.
+
+By identifying these system requirements, developers can design and build a student attendance management system that is reliable, secure, scalable, and compatible with other systems
+
 
 
 ## Contribution 🛠️
