@@ -69,6 +69,47 @@ University administrators are responsible for managing the overall academic oper
 Other stakeholders may include academic advisors, department chairs, and IT staff who are responsible for maintaining and updating the course registration system.
 
 Understanding the needs and requirements of these stakeholders is crucial for designing a course registration system that is user-friendly, efficient, and meets the academic needs of the university. It is important to involve stakeholders in the requirements gathering and validation process to ensure that the system meets their expectations and addresses their pain points.
+
+## Users and system requirements
+Users and system requirements are two different aspects of an academic course registration system, and it is important to understand the differences between them.
+
+### User requirements
+Users refer to the people who will be using the system, including students, faculty members, and university administrators. They have specific needs, preferences, and expectations from the system, and their requirements are often expressed in terms of user stories, scenarios, or use cases. For example, a student may require the ability to search for courses by department, instructor, or time of day, while a faculty member may require the ability to view student transcripts or communicate with their class via email.
+
+### System requirements
+System requirements, on the other hand, refer to the technical and functional specifications of the system. They describe what the system must do, and are often expressed in terms of features, capabilities, and constraints. For example, the system may need to be able to handle a certain number of concurrent users, have robust authentication and authorization mechanisms, and integrate with other university systems such as the student information system or the learning management system.
+
+While user requirements and system requirements are distinct, they are closely related, and it is important to ensure that they are aligned. The system requirements should be designed to meet the needs and expectations of the system's users, and the user requirements should be prioritized and translated into specific system requirements. By understanding both users and system requirements, designers and developers can create a course registration system that meets the needs of its stakeholders while being technically sound and reliable.
+
+## User requirements in academic course registration system
+
+User requirements in an academic course registration system refer to the specific needs and expectations of the system's users, which include students, faculty members, and university administrators. User requirements are typically expressed in terms of user stories, scenarios, or use cases, and they are focused on the functionality and usability of the system.
+
+The following are some examples of user requirements for an academic course registration system:
+
+### 1. Course Search
+Students should be able to easily search for courses based on course code, department, instructor, time of day, and other relevant criteria.
+
+### 2. Course Registration
+Students should be able to register for courses online, including adding and dropping classes, and viewing their class schedule.
+
+### 3. Waitlist Management
+The system should be able to handle waitlists for courses, including notifying students when a spot becomes available and automatically enrolling them in the course.
+
+### 2. Course Management
+Faculty members should be able to manage their courses, including adding and removing students, managing course materials, and submitting grades.
+
+### 4. Academic Record Management
+Students and faculty members should be able to access and view their academic records, including transcripts, grade reports, and other relevant information.
+
+### 5. Reporting and Analytics
+University administrators should be able to generate reports and analytics based on course enrollment data, including enrollment trends, course capacity, and student retention.
+
+### 6. User Authentication and Authorization
+The system should have robust authentication and authorization mechanisms to ensure that only authorized users can access the system and perform certain actions.
+
+By gathering and analyzing user requirements, designers and developers can create a course registration system that meets the needs and expectations of its users. User requirements are critical to the success of the system, as they directly impact the usability and user adoption of the system. It is important to involve users in the requirements gathering and validation process to ensure that their needs and expectations are properly addressed.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
