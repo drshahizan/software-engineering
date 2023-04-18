@@ -45,25 +45,37 @@ Parents: In some cases, parents may also be stakeholders, particularly if the fe
 
 </ul>
 <h1>Requirements Engineering Process for a Student Feedback System</h1>
-The system should be accessible to all students, including those with disabilities or limited access to technology.
-
-The system should be user-friendly and easy to navigate, with clear instructions and guidance for completing feedback surveys.
-
-The feedback surveys should be designed to gather relevant and meaningful information about the teaching and learning experience.
-
-The system should allow for different types of feedback methods, such as online surveys, paper-based surveys, or focus groups.
-
-The system should be secure and protect the privacy of students, faculty, and staff.
-
-The feedback data should be stored securely and be accessible only to authorized personnel.
-
-The system should be scalable and able to handle large volumes of data, as well as be flexible enough to accommodate future changes and updates.
-
-The system should provide real-time data analysis and reporting, with visualizations and dashboards that allow stakeholders to easily interpret the feedback data.
-
-The system should allow for customizable reports and recommendations based on the specific needs of different departments or programs.
-
-The system should allow for feedback on a variety of topics, including course content, teaching methods, assessment, and student support services.
+<b>Elicitation:</b>
+Identify key stakeholders and their roles and responsibilities.
+Develop a list of questions to ask stakeholders to elicit requirements.
+Select appropriate techniques for eliciting requirements, such as interviews, surveys, focus groups, or observations.
+Document all requirements and ensure they are clear and unambiguous.
+<b>Analysis:</b>
+Review all requirements for consistency, completeness, accuracy, and feasibility.
+Identify any conflicts or overlaps between requirements.
+Prioritize requirements based on their importance to stakeholders.
+Document all changes made during the analysis process.
+<b>Specification:</b>
+Use a standard format to specify all requirements, such as use cases or functional requirements.
+Ensure that all requirements are testable and measurable.
+Define any constraints or assumptions associated with each requirement.
+Review all requirements with stakeholders to ensure they are complete and accurate.
+<b>Validation:</b>
+Develop prototypes or mockups to test requirements with stakeholders.
+Conduct simulations to validate requirements and ensure they meet the needs of stakeholders.
+Review feedback from stakeholders and make any necessary changes to the requirements.
+Document all changes made during the validation process.
+<b>Verification:</b>
+Conduct a final review of all requirements to ensure they are complete and correct.
+Verify that all requirements meet the objectives and goals of the feedback system.
+Ensure that all requirements are traceable and can be linked back to stakeholder needs.
+Document all changes made during the verification process.
+<b>Management:</b>
+Create a requirements management plan to track changes to requirements throughout the development process.
+Use a requirements management tool to manage requirements and track dependencies between requirements.
+Ensure that all changes to requirements are approved by stakeholders.
+Prioritize requirements based on their importance to stakeholders and the project goals.
+These requirements for the requirements engineering process are just a starting point and will likely vary depending on the specific needs and goals of each university. The requirements engineering process should be tailored to the needs of the feedback system, ensuring that all requirements are complete, accurate, and feasible
 
 
 ## Contribution 🛠️
