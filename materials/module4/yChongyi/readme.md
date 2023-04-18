@@ -108,6 +108,72 @@ The IT department is responsible for developing, maintaining, and supporting the
 ## 5. University Leadership:
 University leadership, such as the president, provost, and deans, are responsible for setting the strategic direction of the university. They need to ensure that the student engagement system aligns with the university's mission, goals, and values, and that it supports the university's overall strategy for student success.
 
+## User Requirements:  
+
+The user requirements for a student engagement system may include the following:
+
+## 1. User Interface: 
+The system should have a user-friendly interface that is easy to navigate and visually appealing to students, faculty, and staff.
+
+## 2. Student Records Management: 
+The system should be able to store and manage student records, including personal information, academic records, and extracurricular activities.
+
+## 3. Course Management: 
+The system should provide faculty with tools to manage course content, including posting course materials, assigning homework, and administering assessments.
+
+## 4. Communication: 
+The system should provide a platform for communication between students and faculty, as well as between students and other students.
+
+## 5. Scheduling: 
+The system should have the ability to manage schedules, including course schedules, student appointments, and event schedules.
+
+## 6. Analytics and Reporting: 
+The system should provide analytics and reporting features that allow faculty and staff to track student progress, identify areas for improvement, and assess the effectiveness of student engagement initiatives.
+
+## 7. Integration: 
+The system should integrate with other university systems, such as the student information system, learning management system, and email system.
+
+## 8. Accessibility: 
+The system should be accessible to all students, including those with disabilities, and comply with accessibility standards.
+
+## 9. Security: 
+The system should have robust security features, including user authentication and authorization, data encryption, and protection against cyber threats.
+
+By identifying and prioritizing these user requirements, you can design and develop a student engagement system that meets the needs of students, faculty, and staff and contributes to student success.  
+
+# System Requirements  
+
+The system requirements for a student engagement system can be grouped into several categories, including:
+
+## 1. Functional Requirements:
+Functional requirements define what the system should do to support student engagement. Examples of functional requirements for a student engagement system might include:
+- The ability for students to view their course schedule and access course materials.
+- The ability for faculty to post course content and assignments, grade assignments, and communicate with students.
+- The ability for students to register for clubs and organizations, sign up for events, and communicate with other students.  
+
+## 2. Non-functional Requirements:
+Non-functional requirements describe how the system should perform. Examples of non-functional requirements for a student engagement system might include:
+- Response time: the system should respond to user actions within a reasonable amount of time.
+- Security: the system should have appropriate security measures to protect sensitive data.
+- Scalability: the system should be able to handle a large number of users and data.
+
+## 3. Performance Requirements:
+Performance requirements define how well the system should perform under certain conditions. Examples of performance requirements for a student engagement system might include:
+- The system should be able to handle a large number of concurrent users without experiencing a significant decrease in performance.
+- The system should be able to handle large amounts of data without experiencing significant delays in processing.
+
+## 4. User Experience Requirements:
+User experience requirements describe the expectations for how users will interact with the system. Examples of user experience requirements for a student engagement system might include:
+- The system should be easy to use and navigate.
+- The system should have a visually appealing interface.
+- The system should be accessible to users with disabilities.  
+
+## 5. Compliance Requirements:
+Compliance requirements describe the system's compliance with external standards and regulations. Examples of compliance requirements for a student engagement system might include:
+- The system should comply with accessibility standards, such as the Web Content Accessibility Guidelines (WCAG).
+- The system should comply with data protection regulations, such as the General Data Protection Regulation (GDPR) and the Family Educational Rights and Privacy Act (FERPA).  
+
+By identifying and prioritizing these system requirements, you can design and develop a student engagement system that meets the needs of students, faculty, and staff and contributes to student success.
 
 
 ## Contribution 🛠️
