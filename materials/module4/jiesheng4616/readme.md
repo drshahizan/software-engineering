@@ -99,6 +99,53 @@ Here are the key steps in the requirement engineering process for a mobile app f
 
 By following these steps in the requirement engineering process, you can ensure that the mobile app for fitness tracking meets the needs of stakeholders and is delivered on time and within budget.
 
+## User requirements in Mobile App for Fitness Tracking
+
+Here are some user requirements that should be included in the SRD:
+
+- Tracking physical activity: The app should allow users to track their physical activity, such as steps taken, distance walked, calories burned, and active minutes.
+
+- Exercise tracking: The app should allow users to track their exercise sessions, such as running, cycling, or weight lifting. It should also allow users to set goals and track their progress towards those goals.
+
+-Personalized workout plans: The app should provide personalized workout plans based on user preferences and fitness level. It should also allow users to customize their workout plans and create their own routines.
+
+- Integration with wearable devices: The app should be able to integrate with wearable devices, such as fitness trackers or smartwatches, to collect data on physical activity and exercise sessions.
+
+- Social features: The app should allow users to connect with friends and share their progress on social media platforms. It should also include challenges and competitions to keep users motivated.
+
+- Nutrition tracking: The app should allow users to track their nutrition and calorie intake, as well as provide personalized recommendations based on their goals.
+
+- Personalized coaching: The app should provide personalized coaching based on user progress and feedback. It should also provide tips and advice on fitness and nutrition.
+
+- Gamification features: The app should include gamification features, such as badges or rewards, to motivate users to stay active and reach their goals.
+
+By including these user requirements in the SRD, you can ensure that the app meets the needs and expectations of end-users and provides a valuable and engaging experience.
+
+## System requirement for Mobile App for Fitness Tracking
+
+Here are some system requirements that should be included in the SRD:
+
+- Platform compatibility: The app should be compatible with different mobile platforms such as iOS and Android, and should be able to run on different versions of those platforms.
+
+- Performance: The app should perform well under different scenarios and conditions such as low connectivity or low battery life.
+
+- Security: The app should ensure the security of user data, including personal information and health data.
+
+- Reliability: The app should be reliable and stable, with minimum downtime or crashes.
+
+- User interface: The app should have an intuitive and user-friendly interface, allowing users to navigate through the app easily.
+
+- Storage: The app should have an efficient storage system, allowing users to save their data and preferences without consuming too much space.
+
+- Integration with third-party services: The app should be able to integrate with third-party services such as payment gateways, cloud storage, or social media platforms.
+
+- Access- ibility: The app should be accessible to users with different abilities and disabilities. This includes features like text-to-speech, high contrast mode, and larger font size.
+
+Localization: The app should be available in different languages and should be able to support different regional settings and preferences.
+
+By including these system requirements in the SRD, you can ensure that the app is technically robust and provides a seamless user experience.
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
