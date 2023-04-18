@@ -196,7 +196,35 @@ The system should provide access to library resources, such as online databases,
 
 By identifying and prioritizing these functional requirements, you can design and develop a student engagement system that meets the needs of students, faculty, and staff and contributes to student success.
 
+# Non-functional Requirements  
 
+Non-functional requirements are the attributes of a student engagement system that relate to its performance, usability, security, and other qualities that are not directly related to the system's functionality. Here are some examples of non-functional requirements for a student engagement system:
+
+## 1. Performance: 
+The system should be able to handle a large number of concurrent users without slowing down or crashing. Response times for queries and transactions should be within acceptable limits.
+
+## 2. Scalability: 
+The system should be able to handle increasing numbers of users and data volumes without requiring major architectural changes.
+
+## 3. Reliability: 
+The system should be available and functioning reliably, with minimal downtime and errors.
+
+## 4. Security: 
+The system should provide robust security features to protect user data and prevent unauthorized access, including secure login, data encryption, and role-based access controls.
+
+## 5. Usability: 
+The system should be easy to use, with an intuitive user interface, clear navigation, and helpful documentation.
+
+## 6. Accessibility: 
+The system should be accessible to all users, including those with disabilities, through features such as screen readers, text-to-speech, and keyboard navigation.
+
+## 7. Interoperability: 
+The system should be able to integrate with other university systems, such as learning management systems, student information systems, and library systems.
+
+## 8. Compliance: 
+The system should comply with relevant laws, regulations, and industry standards, such as data protection and privacy laws.
+
+By addressing these non-functional requirements, you can ensure that the student engagement system is reliable, secure, and user-friendly, while meeting the needs of the university community.
 
 
 
