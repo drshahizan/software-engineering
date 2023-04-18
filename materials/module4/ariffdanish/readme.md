@@ -53,15 +53,22 @@ Staff University also similar like students which are  They need to register/log
 
 
 ## Users and system requirements
-Users and system requirements are two different aspects of an academic course registration system, and it is important to understand the differences between them.
+Users and system requirements are two different aspects of an food ordering system, and it is important to understand the differences between them.
 
 ### User requirements
-Users refer to the people who will be using the system, including students, faculty members, and university administrators. They have specific needs, preferences, and expectations from the system, and their requirements are often expressed in terms of user stories, scenarios, or use cases. For example, a student may require the ability to search for courses by department, instructor, or time of day, while a faculty member may require the ability to view student transcripts or communicate with their class via email.
+- Who are the users of the system? (Students, Cafeteria Staff, Univerisity Staff)
+- What are their needs? (ordering food, viewing menus, tracking orders, etc.)
+- What are the common device they will use? (Mobile or Desktop)
+- How will users access the system? (web browser or mobile app)
+- What features do they need? (ordering food, customizing orders, leaving reviews, etc.)
 
 ### System requirements
-System requirements, on the other hand, refer to the technical and functional specifications of the system. They describe what the system must do, and are often expressed in terms of features, capabilities, and constraints. For example, the system may need to be able to handle a certain number of concurrent users, have robust authentication and authorization mechanisms, and integrate with other university systems such as the student information system or the learning management system.
+- What platform(s) should the system be developed on? (e.g. iOS, Android, web)
+- What programming languages and frameworks should be used?
+- What are the minimum hardware requirements?
+- What security protocols need to be in place? (e.g. encryption, authentication)
+- What data storage and backup options are required?
 
-While user requirements and system requirements are distinct, they are closely related, and it is important to ensure that they are aligned. The system requirements should be designed to meet the needs and expectations of the system's users, and the user requirements should be prioritized and translated into specific system requirements. By understanding both users and system requirements, designers and developers can create a course registration system that meets the needs of its stakeholders while being technically sound and reliable.
 
 ## User requirements in academic course registration system
 
@@ -90,34 +97,34 @@ University administrators should be able to generate reports and analytics based
 ### 6. User Authentication and Authorization
 The system should have robust authentication and authorization mechanisms to ensure that only authorized users can access the system and perform certain actions.
 
-## System requirements in academic course registration system
+## System requirements in food ordering system
 
 By gathering and analyzing user requirements, designers and developers can create a course registration system that meets the needs and expectations of its users. User requirements are critical to the success of the system, as they directly impact the usability and user adoption of the system. It is important to involve users in the requirements gathering and validation process to ensure that their needs and expectations are properly addressed.
 
-System requirements in an academic course registration system refer to the technical and functional specifications that the system must meet to perform its intended tasks effectively and efficiently. These requirements focus on the hardware, software, and network infrastructure needed to support the system's functionality and performance.
+System requirements in a food ordering system refer to the technical and functional specifications that the system must meet to perform its intended tasks effectively and efficiently. These requirements focus on the hardware, software, and network infrastructure needed to support the system's functionality and performance.
 
-The following are some examples of system requirements for an academic course registration system:
+The following are some examples of system requirements for a food ordering system:
 
 ### 1. Performance
 The system should be able to handle a large number of concurrent users, while maintaining fast response times and minimizing downtime.
 
 ### 2. Scalability
-The system should be able to scale up or down based on changing demand, without sacrificing performance or usability.
+The system should be scalable to handle a large number of users and orders during peak times, such as lunch hours.
 
 ### 3. Security
-The system should have robust security mechanisms, including user authentication and authorization, data encryption, and access controls, to protect sensitive user data and prevent unauthorized access.
+The system should ensure that all user data, including login credentials and payment details, are secure and protected.
 
 ### 4. Integration
-The system should be able to integrate with other university systems, such as the student information system, learning management system, and financial aid system.
+The system should integrate with a reliable and secure payment gateway to enable students to make payments easily and securely.
 
 ### 5. Data Management
 The system should be able to store and manage large amounts of data related to course enrollment, student records, and other relevant information.
 
 ### 6. Usability
-The system should be user-friendly and easy to use, with intuitive navigation and clear instructions.
+The system should have a mobile-friendly interface to ensure that students can order food on the go, from their mobile devices.
 
 ### 7. Accessibility
-The system should be accessible to users with disabilities, including support for assistive technologies and compliance with accessibility standards.
+The system should have a support mechanism to enable students to report issues or get help with their orders.
 
 ### 8. Maintenance
 The system should be easy to maintain and update, with clear documentation and support for troubleshooting and bug fixes.
