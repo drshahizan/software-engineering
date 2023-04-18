@@ -51,6 +51,8 @@ Provide ongoing support and maintenance for the grading system, including monito
 
 Provide training to faculty and students on how to effectively use the grading system. Create user documentation and provide support resources to help users navigate and utilize the system efficiently.
 
+## Summary
+
 Developing an online grading system for a university requires careful planning, development, and testing to ensure that it meets the specific requirements of the university and provides a reliable, secure, and user-friendly experience for faculty and students. Working with a team of experienced developers and IT professionals can help ensure a successful implementation.
 
 
