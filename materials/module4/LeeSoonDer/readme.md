@@ -21,7 +21,7 @@ Support staff: They may be responsible for collecting and analyzing feedback dat
 
 Parents: In some cases, parents may also be stakeholders, particularly if the feedback system includes questions about their involvement in their child's education.
 <ul>
-<li><h2>Developing a student feedback system for a university requires careful planning and execution. Here are some steps to develop a student feedback system for a university:</h2></li>
+<h2>Developing a student feedback system for a university requires careful planning and execution. Here are some steps to develop a student feedback system for a university:</h2>
 
 <li>Define the <b>objectives and goals</b> of the feedback system: Before creating a student feedback system, it is important to identify what the feedback will be used for, what specific goals the system will serve, and what type of data will be collected.</li>
 
