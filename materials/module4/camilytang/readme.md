@@ -3,7 +3,6 @@
 
 ## Key steps in creating an Event Management System
 Creating an event management system requires careful planning and execution. Here are some key steps to consider:
-
 ### 1. System Requirement Gathering: 
 The first step is to gather requirements for the event management system. This includes identifying key stakeholders who will be involved in the system, such as event planners, vendors, sponsors, attendees, and other relevant parties.
 
@@ -37,7 +36,7 @@ They need to be consulted on the design of the system to ensure that it meets th
 #### e. Attendees: 
 They need to be consulted on the design of the system to ensure that it is user-friendly and meets their registration and ticketing needs.
 
-### 3. System Development:: 
+### 3. System Development: 
 The third step is to develop the event management system. This involves coding and building the system according to the design specifications. The stakeholders involved in this step include:
 
 #### a. Developers: 
@@ -126,18 +125,53 @@ They need to provide feedback on the system during maintenance to ensure that it
 
 
 ## Requirement Engineering in creating an Event Management System
+### 1. Requirements elicitation: 
+This is the process of gathering information from stakeholders about their needs and requirements for the event management system. This may involve conducting interviews with event planners, vendors, sponsors, and attendees to understand their expectations for the system. It is important to identify all stakeholders who may have a vested interest in the system and gather their input.
 
-### 1. Identify stakeholders: 
-Determine who the key stakeholders are for the event management system. This may include event planners, vendors, attendees, sponsors, and other relevant parties.
+### 2. Requirements analysis: 
+Once the information has been gathered during the requirements elicitation process, it is analyzed to identify the key features and functionalities that the event management system should have. The analysis should take into account the needs and requirements of all stakeholders, and prioritize those features and functionalities that are most important.
 
-### 2. Elicit requirements: 
-Gather requirements from stakeholders by conducting interviews, surveys, workshops, and other techniques. This may involve asking questions about their needs, goals, and expectations for the system.
+### 3. Requirements specification: 
+The requirements identified during the analysis stage are documented in a formal document known as a requirements specification. This document provides a detailed description of the features and functionalities that the event management system should have, including any technical requirements and constraints.
 
-### 3. Analyze requirements: 
-Organize and analyze the requirements to identify common themes and priorities. This may involve categorizing requirements by type (e.g., functional, non-functional) and prioritizing them based on their importance.
+### 4. Requirements validation: 
+The requirements specification is reviewed to ensure that it is accurate and complete. This may involve reviewing the specification with stakeholders to ensure that their needs and requirements have been properly addressed. Validation may also involve conducting tests to ensure that the system meets the requirements specified in the document.
 
-### 4. Validate requirements: 
-Ensure that the requirements are accurate, complete, and feasible. This may involve testing the requirements with stakeholders to ensure that they meet their needs and are technically feasible.
+### 5. Requirements management: 
+Requirements management involves managing the requirements throughout the development and maintenance of the event management system. This includes ensuring that the requirements are properly documented, tracked, and updated as necessary. It also involves managing changes to the requirements as the system evolves, and ensuring that all stakeholders are informed of any changes.
 
-### 5. Manage requirements: 
-Manage requirements throughout the development lifecycle to ensure that they are implemented correctly. This may involve creating a requirements traceability matrix to link requirements to system features and testing scenarios.
+
+## User and System Requirements
+### User Requirements:
+
+#### 1. Easy Registration: 
+The system should provide an easy and seamless registration process for event attendees. Users should be able to register for the event quickly and easily, providing necessary information such as name, email address, and payment details. The system should also allow attendees to easily view and manage their registration details.
+
+#### 2. Efficient Event Scheduling: 
+The system should allow event planners to efficiently schedule events and manage conflicts. The system should provide event planners with a comprehensive calendar view of all events, sessions, and activities, and allow them to easily manage any scheduling conflicts. The system should also allow event planners to set up notifications and alerts for upcoming events.
+
+#### 3. Effective Communication:
+The system should provide event planners with an effective means of communicating important event details to attendees. This could include features such as email notifications, text message alerts, and in-app messaging. The system should also allow attendees to easily contact event organizers with questions or concerns.
+
+#### 4. Secure Payment Processing: 
+The system should provide secure payment processing for event registration fees. The system should ensure that attendees' payment details are kept confidential and that all transactions are processed securely. This could include features such as SSL encryption, tokenization, and fraud prevention measures.
+
+#### 5. Accessible Information: 
+The system should provide attendees with easy access to event information, including schedules, speaker bios, and event maps. The system should provide a user-friendly interface for attendees to view event details and allow them to easily search for and filter events based on their interests and preferences.
+
+### System Requirements:
+
+#### 1. Scalability: 
+The system should be able to handle a large number of attendees, vendors, and sponsors without any performance issues. This could include features such as load balancing, caching, and database optimization to ensure that the system remains fast and responsive even during peak usage periods.
+
+#### 2. Security: 
+The system should provide strong security measures to protect user data and prevent unauthorized access. This could include features such as firewalls, intrusion detection systems, and multi-factor authentication to ensure that user data is kept secure at all times.
+
+#### 3. Integration: 
+The system should be able to integrate with other systems, such as payment processing platforms and event management tools. This could include features such as APIs and webhooks to allow for seamless data transfer between different systems.
+
+#### 4. Performance: 
+The system should be fast and responsive, with minimal downtime and high availability. This could include features such as redundant servers, automatic failover, and load testing to ensure that the system remains available and responsive even under heavy usage.
+
+#### 5. User-friendly Interface: 
+The system should have a user-friendly interface that is easy to navigate, even for users who are not tech-savvy. The system should provide a clear and intuitive interface for attendees to view and manage event details, and for event planners to manage and schedule events. The system should also provide a customizable interface that can be tailored to meet the specific needs of different users.
