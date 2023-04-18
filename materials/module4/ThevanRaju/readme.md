@@ -41,3 +41,18 @@ Once the requirements are specified, they need to be validated to ensure that th
 ### 5. Requirements management
 Requirements Engineering is an iterative process, and as such, the requirements need to be managed throughout the lifecycle of the project. This involves tracking changes to the requirements, ensuring that they are properly prioritized, and communicating any changes to the stakeholders. The requirements should also be reviewed periodically to ensure that they are still valid and relevant to the needs of the stakeholders.
 
+## Stakeholders
+Stakeholders in an campus management system can be broadly categorized into four groups:
+
+### 1. Students
+They are the primary users of the system and are interested in features such as course registration, grade management, and access to their personal information.
+
+### 2. University administrators 
+They use the system to manage and oversee academic operations, including course offerings, scheduling, and student records.
+
+### 3. Registrar's office 
+They manage student registration, waitlist management, and transcript processing, and are key stakeholders in the campus management system.
+
+### 4. Support staff
+They use the system to manage administrative tasks such as scheduling, room assignments, and student support.
+
