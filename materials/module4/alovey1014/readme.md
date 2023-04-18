@@ -109,6 +109,33 @@ The IT department can provide technical expertise and support in the design and 
 ### 5. Accessibility specialists
 Accessibility specialists can provide guidance on how to design the system to be accessible to students with disabilities, ensuring that all students have equal access to the benefits of the system.
 
+## Functional Requirement
+Functional requirements for a student engagement system that acts like social media could include:
+
+### 1. User profiles
+Students should be able to create user profiles that include their interests, skills, and academic information.
+
+### 2. Social networking
+Students should be able to connect with other students and follow their updates, posts, and activities.
+
+### 3. Posts and updates
+Students should be able to create posts and updates, share multimedia content, and engage with other students through comments and likes.
+
+### 4. Groups and communities
+Students should be able to join or create groups and communities based on shared interests, hobbies, or academic topics.
+
+### 5. Notifications
+The system should provide notifications for new updates, messages, and activities related to the student's network.
+
+### 6. Privacy settings
+Students should be able to control their privacy settings and choose what information is visible to others.
+
+### 7. Search and discovery
+The system should provide search and discovery tools to help students find and connect with other students and groups based on their interests and academic goals.
+
+### 8. Integration with courses
+The system should integrate with courses and academic activities, such as assignments, exams, and group projects, to encourage student engagement and collaboration.
+
 
 
 
