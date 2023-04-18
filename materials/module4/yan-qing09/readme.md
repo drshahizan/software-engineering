@@ -97,7 +97,6 @@ Functional requirements are the specific features and capabilities that a studen
 
 10. System administration: The system should allow for system administration and management, including user management, system configuration, and backup and recovery.
 
-Overall, functional requirements for a student health and wellness management system should focus on providing a comprehensive set of features and capabilities that support the health and wellness needs of students, while ensuring the security and privacy of their health data. By considering these requirements, the system can provide a valuable resource for promoting health and wellness in schools.
 
 
 ## Contribution 🛠️
