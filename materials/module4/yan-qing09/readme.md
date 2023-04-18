@@ -26,6 +26,7 @@ Once the system has been developed and tested, the next step is to deploy it. Th
 ## 5.System Maintenance:
 The final step is to maintain the system. This will involve fixing bugs, adding new features, and ensuring that the system is running smoothly. You will also need to keep the system up-to-date with the latest security patches to protect against cyber attacks.
 
+<br/>
 Overall, creating a student health and wellness management system requires careful planning, design, development, deployment, and maintenance. It is important to involve stakeholders throughout the process to ensure that the system meets their needs and is user-friendly.
 
 
