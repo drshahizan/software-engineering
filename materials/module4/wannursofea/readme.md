@@ -152,24 +152,25 @@ The system should be easy to maintain and support, with appropriate documentatio
 
 ## Functional Requirements:
 
-User registration and authentication: The system should allow users to register and authenticate their accounts to access the system's functionalities.
+### 1. User registration and authentication
+The system should allow users to register and authenticate their accounts to access the system's functionalities.
 
-### 1. Profile Management
+### 2. Profile Management
 The system should provide users with the ability to create and manage their profiles, including personal information, academic records, and preferences.
 
-### 2. Appointment Scheduling
+### 3. Appointment Scheduling
 The system should provide users with the ability to schedule appointments with academic advisors, including scheduling tools, calendar integration, and appointment confirmation.
 
-### 3. Course planning and scheduling
+### 4. Course planning and scheduling
 The system should provide students with tools to plan their course schedules, view course availability, and register for classes. Advisors should be able to help students plan their courses and approve course selections.
 
-### 4. Academic Progress Tracking
+### 5. Academic Progress Tracking
 The system should provide users with tools to track their academic progress, including grades, credits earned, and program requirements.
 
-### 5. Resource and Referral Management
+### 6. Resource and Referral Management
 The system should provide users with access to academic resources and support services, including tutoring, counseling, and career services. Advisors should be able to refer students to relevant resources as needed.
 
-### 6. Communication and Messaging
+### 7. Communication and Messaging
 The system should provide users with communication tools, including messaging and email functionality, to enable easy and efficient communication between students and advisors.
 
 ## Non-Functional Requirements:
