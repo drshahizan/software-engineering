@@ -110,7 +110,7 @@ The ability for users to create and manage their own profiles, including persona
 <b>10. Privacy settings: </b>The system should allow users to control their privacy settings, such as who can view their profile, posts, and messages.
 
 ## Functional Requirements
-***
+Mark up:
 *User Profile Management: Users should be able to create and manage their profiles on the social networking system. This would include adding personal information, profile pictures, and interests.
 *Friend Management: Users should be able to add friends to their network and manage their friend list. They should also be able to view their friends' profiles and communicate with them.
 *News Feed: Users should be able to view a news feed that displays the activities of their friends and the groups they belong to.
@@ -124,7 +124,7 @@ The ability for users to create and manage their own profiles, including persona
 *Search: Users should be able to search for other users, groups, or events based on their interests or keywords.
 
 *Notification: Users should be able to receive notifications related to friend requests, group invitations, event updates, or any other important information related to their network.
-***
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
