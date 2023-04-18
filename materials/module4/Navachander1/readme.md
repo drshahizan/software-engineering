@@ -17,12 +17,16 @@ b. Define requirements: Define the grading policies, grading scales, and weighta
 
 # 2. System Design:
 a. Develop the database: Create a database to store all the relevant data, such as student records, course information, and grading components. Ensure the database supports efficient data retrieval, storage, and processing.
+
 b. Create user interfaces: Design user-friendly interfaces for faculty and administrators to enter grades and for students to view their grades. The interfaces should be designed to support various grading functions, such as grade entry, grade calculation, and grade release.
+
 c. Integrate with other systems: The grading system should be integrated with other systems used by the university, such as the student information system and the learning management system. This will ensure seamless data exchange and reduce the need for duplicate data entry.
+
 d. Develop grading rules and policies: Develop grading rules and policies to ensure consistency and fairness in grading. This includes guidelines for handling grade appeals, grade corrections, and grade confidentiality.
 
 # 3. System Development:
 a. Develop the grading system: Using the requirements and design, develop the grading system, including database schema, user interface design, integration with other systems, and grading rules and policies.
+
 b. Test the system: Test the system thoroughly to ensure that it meets the grading system requirements and functions correctly. This includes testing the user interfaces, database, and system integration.
 
 # 4. System Implementation:
