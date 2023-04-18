@@ -74,6 +74,69 @@ Parents may also be stakeholders in the attendance system, as they may want to m
 
 ### 5. Acedemic Advisors
  Academic advisors may also be stakeholders, as they may use the attendance system to monitor student attendance and provide guidance on academic progress.
+ 
+ Other stakeholders may include department chairs and IT staff who are responsible for maintaining and updating the student attendance system.
+ 
+ ## Users and system requirements
+Users and system requirements are two different aspects of an academic course registration system, and it is important to understand the differences between them.
+
+### User requirements
+User requirements are specifications that describe the needs and expectations of the users, stakeholders, or customers who will interact with the system. They define what the system should do and how it should behave to meet the users' needs. User requirements are critical in ensuring that the system is user-friendly, intuitive, and easy to use.
+
+### System requirements
+System requirements are specifications that describe the technical and functional capabilities that the system must possess to meet the user requirements. System requirements focus on the technical aspects of the system, such as the system architecture, security, performance, and reliability. They define what the system should do and how it should behave to meet the technical and functional requirements.
+
+Both user requirements and system requirements are crucial in the development of a software system. User requirements ensure that the system meets the users' needs and expectations, while system requirements ensure that the system meets the technical and functional requirements. By identifying and defining clear user requirements and system requirements, it is possible to ensure that the software system meets the needs of all stakeholders and is successful in achieving its objectives. Moreover, these requirements can serve as a basis for testing and evaluation of the system, ensuring that it meets the quality standards and is reliable and efficient in its operation.
+
+## User requirements in student attendance system
+
+User requirements for a student attendance system can include a variety of features that make it easy for students, teachers, and administrators to use and access the system. Some examples of user requirements for a student attendance system could include:
+
+### 1. Ease of use
+The system should be intuitive and easy to navigate, with clear instructions and minimal training required for users.
+
+### 2. Accessible from multiple devices
+The system should be accessible from any device with an internet connection, such as a computer, tablet, or smartphone.
+
+### 3. Multiple check-in options
+The system should offer different options for students to check in and out of classes, such as using student ID cards or biometric data.
+
+### 4. Automatic notifications
+The system should generate automatic notifications to students, teachers, and administrators when there is an attendance issue or when a student is absent.
+
+### 5. Attendance records
+Students and teachers should be able to view their attendance records and monitor their attendance patterns.
+
+### 6. Real-time attendance tracking
+The system should allow teachers to take attendance quickly and easily, with the option to use various methods such as roll call or online attendance forms.
+
+### 7. Data privacy and security
+The system should protect the privacy and security of attendance data, complying with data protection regulations such as GDPR or CCPA.
+
+## System requirements in student attendance system
+
+System requirements for a student attendance system ensure that the system is designed, developed, and deployed to meet the technical and functional needs of the educational institution. Some examples of system requirements for a student attendance system could include:
+
+### 1. Scalability
+The system should be designed to handle a large number of students and classes and should be scalable to meet future growth needs.
+
+### 2. Reliability and stability
+The system should be reliable and stable, with minimal downtime and disruptions to the attendance tracking process.
+
+### 3. Security
+TThe system should be secure, protecting against unauthorized access, data breaches, and other security threats. It should incorporate features such as encryption, firewalls, and multi-factor authentication.
+
+### 4. Integration
+The system should perform efficiently and quickly, with minimal lag time or delays in taking attendance or generating reports.
+
+### 5. Accessibility
+The system should be accessible from any device with an internet connection and should support different operating systems and web browsers.
+
+### 6. Data storage and management
+The system should be able to store and manage large amounts of attendance data securely, complying with data protection regulations such as GDPR or CCPA
+
+By meeting these system requirements, the student attendance system can provide a reliable and efficient platform for attendance tracking and management, ensuring that it meets the needs of all stakeholders and operates smoothly and securely.
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
