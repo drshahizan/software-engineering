@@ -186,3 +186,28 @@ The system should be fast and responsive, with minimal downtime and high availab
 
 #### 5. User-friendly Interface: 
 The system should have a user-friendly interface that is easy to navigate, even for users who are not tech-savvy. The system should provide a clear and intuitive interface for attendees to view and manage event details, and for event planners to manage and schedule events. The system should also provide a customizable interface that can be tailored to meet the specific needs of different users.
+
+## Functional Requirements
+Functional requirements are a type of requirement in campus event management system that describe what the system should do and how it should behave. These requirements are used to ensure that the system meets the needs of its users and stakeholders by performing specific functions or tasks. Functional requirements can be classified as either essential or desirable, and they typically specify how the system should behave in response to certain inputs or user actions.
+
+In campus event management system, functional requirements can include a wide range of capabilities and functionalities, such as:
+
+### 1. Event scheduling and management: 
+This functional requirement is crucial for managing multiple events on a single platform. The system must allow event organizers to create, schedule and manage various events, including setting up event details, selecting event dates and times, and assigning resources. It must also provide an easy-to-use interface to enable event organizers to manage multiple events effectively.
+
+### 2. Attendee registration and management: 
+ This functional requirement ensures that attendees can easily register for events, and event organizers can manage the attendee list and attendance for each event. The system should allow organizers to create attendee profiles, send registration invitations, and track attendance. This requirement is essential to ensure that the event runs smoothly and attendees receive the necessary information and support.
+
+### 3. Resource management: 
+This functional requirement allows event organizers to manage campus resources and assets, including rooms, equipment, and other event-related resources. The system should provide an easy way to manage resource availability and booking, as well as tracking resource usage and inventory. This requirement helps ensure that event organizers can easily find and allocate the necessary resources for an event.
+
+### 4. Communication: 
+This functional requirement involves the ability to communicate with event attendees and other stakeholders effectively. The system should provide an easy-to-use communication interface that enables event organizers to send reminders, updates, and notifications about event-related activities. This requirement helps ensure that attendees receive timely and relevant information about events, and stakeholders are kept up-to-date on event progress.
+
+### 5. Reporting and analytics:
+This functional requirement allows event organizers to generate reports and analytics related to event performance, attendance, and other relevant metrics. The system should provide a way to analyze data collected from events to identify trends and make informed decisions. This requirement helps event organizers evaluate the success of an event and improve future events.
+
+### 6. Financial Management: 
+This functional requirement involves the ability to manage the financial aspects of campus events, including creating budgets, tracking expenses and revenue, generating invoices, and processing payments. It should also provide financial reporting and analytics capabilities, such as budget vs. actual comparisons and forecasting tools. Proper financial management is crucial for the success of campus events, and having a robust financial management system integrated into the event management platform can help ensure that events stay within budget and are financially sustainable in the long run.
+
+Overall, functional requirements play a critical role in the design and development of a campus event management system. By specifying the desired capabilities and functionalities of the system, functional requirements ensure that the system is developed to meet the needs of its users and stakeholders, and that it is designed to be effective, efficient, and user-friendly.
