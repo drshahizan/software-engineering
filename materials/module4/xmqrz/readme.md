@@ -41,7 +41,9 @@ In this section, list any assumptions that were made during the requirements gat
 ## 10. Define Acceptance Criteria: 
 In this section, describe the criteria that must be met for the Student Feedback System to be considered complete and ready for deployment. Specify both functional and non-functional requirements. Define how the system will be tested and evaluated.
 
-By creating a comprehensive SRD, the developers of the Student Feedback System can ensure that they have a clear understanding of the requirements and can develop a system that meets the needs of the university and its students.
+<p>By creating a comprehensive SRD, the developers of the Student Feedback System can ensure that they have a clear understanding of the requirements and can develop a system that meets the needs of the university and its students.</p>
+
+<hr>
 
 # Requirements Engineering Process
 
@@ -74,7 +76,7 @@ Verify that the student feedback system meets all requirements through testing, 
 ## 9. Maintain Requirements: 
 Maintain the requirements throughout the life cycle of the student feedback system. This includes updating requirements as needed, managing changes, and ensuring that the requirements remain valid and relevant.
 
-By following these steps, you can ensure that the student feedback system meets the needs and expectations of all stakeholders at University Technology Malaysia. A thorough requirements engineering process will help you identify and prioritize the functional and non-functional requirements of the system, leading to a successful development process and a useful final product.
+<p>By following these steps, you can ensure that the student feedback system meets the needs and expectations of all stakeholders at University Technology Malaysia. A thorough requirements engineering process will help you identify and prioritize the functional and non-functional requirements of the system, leading to a successful development process and a useful final product.</p>
 
 
 
