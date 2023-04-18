@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): Student Engagement System
 
-Sure! Here's a breakdown of the system development process for a student engagement system for a university:
+Here's a breakdown of the system development process for a student engagement system for a university:
 
 ## 1. System Requirements Gathering:
 In the context of a student engagement system, requirements gathering would involve identifying the key stakeholders, such as students, faculty, staff, and administrators, and gathering information on their needs and goals for the system. Some specific requirements for a student engagement system might include features such as:
@@ -57,31 +57,31 @@ Overall, developing a student engagement system for a university requires carefu
 
 Sure! Here is a breakdown of the requirements engineering process for a student engagement system:
 
-# 1. Requirements Elicitation:
+## 1. Requirements Elicitation:
 Requirements elicitation involves identifying the stakeholders, understanding their needs and goals, and gathering information about the system's requirements. For a student engagement system, this might involve:
 - Conducting surveys, focus groups, or interviews with students, faculty, and staff to gather input on their needs and goals for the system
 - Reviewing existing university systems and processes to identify opportunities for improvement or integration with the student engagement system
 - Analyzing industry trends and best practices for student engagement systems to identify key features and functionality
 
-# 2. Requirements Analysis:
+## 2. Requirements Analysis:
 Requirements analysis involves examining the gathered information to identify patterns, gaps, and conflicts in the requirements. For a student engagement system, this might involve:
 - Developing use cases and user stories to describe how different stakeholders would interact with the system
 - Creating mockups or wireframes to visualize the system's interface and functionality
 - Conducting a feasibility analysis to determine if the proposed system is technically and financially feasible
 
-# 3. Requirements Specification:
+## 3. Requirements Specification:
 Requirements specification involves documenting the requirements in a clear, concise, and comprehensive manner. For a student engagement system, this might involve:
 - Creating a detailed requirements document that outlines the functional and non-functional requirements of the system
 - Specifying the system's architecture, database schema, and user interface design
 - Developing a data dictionary to define key terms and concepts used in the system
 
-# 4. Requirements Validation:
+## 4. Requirements Validation:
 Requirements validation involves ensuring that the requirements are accurate, complete, consistent, and verifiable. For a student engagement system, this might involve:
 - Conducting user acceptance testing to ensure that the system meets the needs of different stakeholders
 - Reviewing the requirements document with stakeholders to ensure that it accurately reflects their needs and goals
 - Conducting a traceability analysis to ensure that each requirement is linked to a specific stakeholder need or goal
 
-# 5. Requirements Management:
+## 5. Requirements Management:
 Requirements management involves tracking and controlling changes to the requirements throughout the development process. For a student engagement system, this might involve:
 - Creating a requirements traceability matrix to track each requirement from inception to implementation
 - Developing a change control process to manage changes to the requirements and ensure that they are properly documented and validated
