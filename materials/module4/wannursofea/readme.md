@@ -80,20 +80,28 @@ The system should be able to integrate with other academic systems, such as stud
 In the context of an academic advisor system, the requirements engineering process should focus on ensuring that the system provides an intuitive and efficient user interface for students and faculty members to provides a comprehensive solution for academic advising and support. The system should also be designed to handle large volumes of data and be scalable to accommodate future growth in the university's student population.
 
 ## Stakeholders
-Stakeholders in an academic course registration system can be broadly categorized into three groups:
+Stakeholders in an academic advisor system can be broadly categorized into three groups:
 
 ### 1. Students
-Students are the primary users of the course registration system. They need to be able to search for courses, register for classes, drop or swap classes, and view their schedules. They also need to be able to view their grades and academic records.
+Students are the primary users of the academic advising system. They rely on the system to access information about course schedules, academic requirements, and resources, and to connect with their advisors for guidance and support.
 
-### 2. Faculty Members
-Faculty members are responsible for managing their courses and grading students. They need to be able to view their course rosters, submit grades, and communicate with students. They may also need to view student records to identify any academic issues.
+### 2. Academic advisors
+Academic advisors use the system to manage their advising schedules, view student profiles, track student progress, and communicate with students.
 
-### 3. University Administrators
-University administrators are responsible for managing the overall academic operations of the university. They need to be able to monitor course availability, manage course scheduling and capacity, and view student enrollment data. They may also need to view student records for reporting and compliance purposes.
+### 3. Faculty and staff
+Faculty and staff members may use the system to access information about student academic records and progress, as well as to provide support to students as needed.
 
-Other stakeholders may include academic advisors, department chairs, and IT staff who are responsible for maintaining and updating the course registration system.
+### 4. Academic departments and programs
+Academic departments and programs use the system to manage student progress and to ensure that students are meeting program requirements.
 
-Understanding the needs and requirements of these stakeholders is crucial for designing a course registration system that is user-friendly, efficient, and meets the academic needs of the university. It is important to involve stakeholders in the requirements gathering and validation process to ensure that the system meets their expectations and addresses their pain points.
+### 5. Administration
+Administration may use the system to track student success and to evaluate the effectiveness of advising programs.
+
+### 6. IT department
+The IT department is responsible for managing and maintaining the academic advising system, ensuring that it is secure, reliable, and scalable.
+
+### 7. Data analysts
+Data analysts may use the system to collect and analyze data on student performance, program effectiveness, and other metrics.
 
 ## Users and system requirements
 Users and system requirements are two different aspects of an academic course registration system, and it is important to understand the differences between them.
