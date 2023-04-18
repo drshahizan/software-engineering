@@ -84,3 +84,29 @@ Alumni and Donors: They may have requirements related to alumni engagement, fund
 
 
 Government and Regulatory Bodies: They may have requirements related to compliance with laws, regulations, and policies related to education, data privacy, and financial management.
+
+## user and system requirement
+
+User Requirements:
+
+
+Functional Requirement: Students should be able to easily register for courses, view their course schedule, access course materials online, and submit assignments electronically.
+
+Usability Requirement: The UMS should have a user-friendly interface with intuitive navigation and responsive design that can be accessed from different devices, such as desktop computers, laptops, and mobile devices.
+
+Performance Requirement: The UMS should be able to handle a large number of concurrent users, with fast response times for common operations, such as course registration and grade retrieval.
+
+Security Requirement: The UMS should have robust authentication mechanisms, such as multi-factor authentication, to protect against unauthorized access and ensure the privacy and security of student data.
+
+Accessibility Requirement: The UMS should comply with accessibility standards, such as Web Content Accessibility Guidelines (WCAG), to ensure that it is usable by users with disabilities, including visual impairments and motor disabilities.
+
+System Requirements:
+Software Requirement: The UMS should be developed using modern programming languages and frameworks, such as Java, PHP, or Python, with a robust and scalable database system for storing student information, course data, and other relevant data.
+
+Hardware Requirement: The UMS should be deployed on a reliable and scalable server infrastructure with sufficient processing power, memory, and storage capacity to handle the expected load of concurrent users and data storage requirements.
+
+Performance Requirement: The UMS should have optimized database queries and caching mechanisms to ensure fast response times and efficient data retrieval and storage.
+
+Integration Requirement: The UMS should integrate with other existing university systems, such as the student information system, learning management system, and authentication system, to exchange data and provide a seamless experience for users.
+
+Deployment Requirement: The UMS should have clear documentation and installation scripts for easy deployment and configuration in the production environment, with proper security measures, such as SSL encryption and firewall protection.
