@@ -32,22 +32,6 @@ After the system is deployed, the system maintenance phase begins. The system is
 
   A university event management system is a software application designed to streamline and automate the process of planning and executing events within a university or college environment. This system can be used to manage a wide range of events, including academic conferences, sporting events, cultural events, and student organization events. It can be a powerful tool for managing events in a university or college environment. By automating and streamlining the event planning process, this system can save time and resources while improving the overall quality of events.
 
-## Stalkholders
-- Event organizers: These stakeholders are responsible for planning and organizing events on campus. They will use the event management system to create event schedules, manage event registration, and track event attendance. They may also use the system to manage event budgets, request event space and resources, and communicate with event attendees.
-
-- Students: Students are a crucial stakeholder for an event management system as they are the primary audience for campus events. They will use the system to view event schedules, register for events, and receive event reminders and updates. Students may also use the system to provide feedback on events and suggest new event ideas.
-
-- Administrative staff: Administrative staff, such as event coordinators or university officials, are responsible for overseeing and managing events on campus. They will use the event management system to track event attendance, manage event budgets, and ensure that events comply with university policies and regulations. Administrative staff may also use the system to analyze event data and metrics to improve future events.
-
-- Faculty members: Faculty members may be involved in organizing academic events, such as conferences or guest lectures, and may use the event management system to manage event logistics and communicate with event attendees.
-
-- Facilities management: Facilities management staff are responsible for managing and maintaining the physical facilities on campus. They may use the event management system to ensure that event spaces are available and properly equipped, and to coordinate with event organizers on any needed setup or cleanup.
-## Requirements Engineering
-Requirements engineering is the process of eliciting, analyzing, specifying, validating, and managing the requirements for a software system. In the context of an university event management system, the requirements engineering process is crucial for ensuring that the system meets the needs of its stakeholders, including students, faculty members, and university administrators.
-
--IT staff: IT staff are responsible for managing the technical infrastructure of the event management system, such as servers, databases, and network security. They may also provide technical support to users of the system and ensure that the system is compatible with other university systems and tools.
-The requirements engineering process for an university event management system typically involves the following steps:
-
 ### 1. Requirements Elicitation:
 During this phase, the requirements for the university event management system are gathered from various stakeholders, including event organizers, participants, university staff, and other relevant parties. This can be done through interviews, surveys, and workshops, and the information collected is documented.
 
