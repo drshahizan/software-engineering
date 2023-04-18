@@ -77,8 +77,7 @@ In summary, requirement engineering is a critical process for developing a stude
     </ul>
     
 ## User Requirements for a Student Engagement System
-   <ol type="1">
-     <li><b>Students:</b><br></li>
+  <b>Students:</b><br>
        <ul type="bullet">
          <li>Easy and intuitive interface to navigate and use the system</li>
          <li>Access to personalized learning materials and assessments</li>
@@ -88,8 +87,8 @@ In summary, requirement engineering is a critical process for developing a stude
          <li>Gamification elements to keep students motivated and engaged</li>
          <li>Tools for communication with teachers and classmates</li>
          <li>Access to resources such as learning materials, academic support services, and extracurricular activities/li>
-       </ol>
-    <li><b>Teachers:</b><br>
+       </ul>
+  <b>Teachers:</b><br>
        <ul type="bullet">
          <li>User-friendly interface for creating and managing courses and learning materials</li>
          <li>Tools for tracking student progress and identifying areas for improvement</li>
