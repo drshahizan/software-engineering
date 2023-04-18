@@ -13,7 +13,8 @@ Don't forget to hit the :star: if you like this repo.
 
 The requirements to create a library management system may vary depending on the specific needs of the library, but some common requirements include:
 
-Cataloging: The system should provide tools to catalog and classify library materials, including books, journals, multimedia resources, and other materials.
+##### Cataloging:
+The system should provide tools to catalog and classify library materials, including books, journals, multimedia resources, and other materials.
 
 ##### Circulation: 
 The system should allow patrons to check out and return library materials, manage their borrowing history, and provide automated reminders for overdue materials.
