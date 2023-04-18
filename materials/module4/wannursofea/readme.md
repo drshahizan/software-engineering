@@ -104,10 +104,9 @@ The IT department is responsible for managing and maintaining the academic advis
 ### 7. Data analysts
 Data analysts may use the system to collect and analyze data on student performance, program effectiveness, and other metrics.
 
-## Users and system requirements
-Users and system requirements are two different aspects of an academic advisor system, and it is important to understand the differences between them.
 
-### User requirements
+## User requirements
+User requirements for an academic advising system would include the features and functions that are necessary to meet the needs of the system's users, such as students, academic advisors, faculty, and administration. Some examples of user requirements for an academic advising system are:
 
 #### 1. User-friendly interface
 The system should have an intuitive and user-friendly interface that is easy for all users to navigate.
@@ -130,7 +129,7 @@ The system should provide access to academic resources, such as tutoring service
 #### 7. Communication and messaging
 The system should provide easy communication tools for students and advisors, including messaging and email functionality.
 
-### System requirements
+## System requirements
 System requirements for an academic advising system would include the technical specifications necessary to develop and implement the system, such as hardware, software, and security. Some examples of system requirements for an academic advising system are:
 
 #### 1. Security
