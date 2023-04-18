@@ -32,7 +32,27 @@ After the system is deployed, it needs to be maintained and updated to ensure th
 
 The academic course registration system should provide a user-friendly interface for students to browse and register for courses, as well as for faculty members to manage their courses and student grades. The system should also allow for automated waitlist management and scheduling conflicts. Overall, the system should streamline the course registration process and reduce administrative burden for the university staff.
 
+## Requirements Engineering
+Requirements engineering is the process of eliciting, analyzing, specifying, validating, and managing the requirements for a software system. In the context of an academic course registration system, the requirements engineering process is crucial for ensuring that the system meets the needs of its stakeholders, including students, faculty members, and university administrators.
 
+The requirements engineering process for an academic course registration system typically involves the following steps:
+
+### 1. Requirements elicitation
+This involves gathering information about the needs and expectations of the system's stakeholders. For an academic course registration system, this may involve conducting interviews and surveys with students, faculty members, and administrators to understand their requirements for the system.
+
+### 2. Requirements analysis
+Once the requirements are elicited, they need to be analyzed to determine their feasibility, relevance, and completeness. This may involve prioritizing the requirements based on their importance and identifying any conflicting or ambiguous requirements.
+
+### 3. Requirements specification
+After the requirements are analyzed, they need to be documented in a clear and concise manner. This may involve creating use cases, user stories, or formal requirement documents that describe the system's functionality and constraints.
+
+### 4. Requirements validation
+Once the requirements are specified, they need to be validated to ensure that they are accurate and complete. This may involve reviewing the requirements with stakeholders and conducting user acceptance testing to verify that the system meets their needs.
+
+### 5. Requirements management
+Finally, the requirements need to be managed throughout the development lifecycle to ensure that they remain relevant and up-to-date. This may involve tracking changes to the requirements and ensuring that they are properly implemented in the system.
+
+In the context of an academic course registration system, the requirements engineering process should focus on ensuring that the system provides an intuitive and efficient user interface for students and faculty members to browse and register for courses, as well as for administrators to manage course scheduling and student records. The system should also be designed to handle large volumes of data and be scalable to accommodate future growth in the university's student population.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
