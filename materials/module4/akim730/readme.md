@@ -74,6 +74,25 @@ The providers of the payment gateway services used by the system to process onli
 ### 4. System administrators: 
 The administrators who will manage and maintain the system, ensure its security, and provide technical support to users.
 
+## Users and system requirements
+### User Requirements:
+1. The system should be easy to use and navigate for customers with little to no technical expertise.
+2. The system should allow customers to browse menus and place orders quickly and efficiently.
+3. The system should provide clear and accurate information about menus, dishes, prices, and availability.
+4. The system should support multiple payment methods and provide a secure and streamlined checkout process.
+5. The system should provide customers with real-time updates on the status of their orders, including estimated delivery or pickup times.
+6. The system should allow customers to save their preferences and order history, and provide personalized recommendations and promotions.
+7. The system should allow customers to rate and review restaurants and dishes, and provide feedback to restaurant owners and system administrators.
+8. The system should provide responsive and reliable customer support, including the ability to contact support staff through multiple channels (e.g., phone, email, chat).
+### System Requirements:
+1. The system should be scalable and able to handle large volumes of traffic and transactions.
+2. The system should be secure and comply with relevant regulations and industry standards (e.g., PCI-DSS, GDPR).
+3. The system should provide an easy-to-use interface for restaurant owners to manage their menus, receive and fulfill orders, and track their sales and performance.
+4. The system should integrate with multiple payment gateway providers and support a variety of payment methods.
+5. The system should provide real-time tracking and monitoring of orders, inventory, and delivery operations.
+6. The system should be highly available and provide reliable uptime and performance.
+7. The system should provide detailed reporting and analytics features that enable restaurant owners to track sales, monitor customer behavior, and identify trends.
+8. The system should be flexible and easily customizable to meet the needs of different types of restaurants and cuisines.
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
