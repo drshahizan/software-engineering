@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): Student Feedback System UTM
 
-<b>1.Introduction:</b> Start with an introduction to the topic of student feedback in universities. Explain why it's important, what the current situation is like, and why there is a need for a new or improved system.
+<h1>1.Introduction:</h1> Start with an introduction to the topic of student feedback in universities. Explain why it's important, what the current situation is like, and why there is a need for a new or improved system.
 
 <b>2.Objectives:</b> Clearly state the objectives of your proposed feedback system. What do you hope to achieve? What problems do you want to solve? What benefits will the system provide for students, teachers, and the university as a whole?
 
