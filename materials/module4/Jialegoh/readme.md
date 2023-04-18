@@ -95,26 +95,37 @@ The staff who will manage and maintain the system, including system updates, sec
 
 ## System Requirements:
 
-### 1. Access Control: The system should provide different levels of access control for different user roles, allowing students to access their own health records, and health professionals and wellness coaches to access records of students they are assigned to.
+### 1. Access Control: 
+The system should provide different levels of access control for different user roles, allowing students to access their own health records, and health professionals and wellness coaches to access records of students they are assigned to.
 
-### 2. Appointment Scheduling: The system should allow students to schedule appointments with health professionals and wellness coaches, and allow staff to manage those appointments.
+### 2. Appointment Scheduling: 
+The system should allow students to schedule appointments with health professionals and wellness coaches, and allow staff to manage those appointments.
 
-### 3. Communication: The system should provide a platform for secure communication between students and health professionals, and between students and wellness coaches.
+### 3. Communication: 
+The system should provide a platform for secure communication between students and health professionals, and between students and wellness coaches.
 
-### 4. Health Education: The system should provide access to educational resources on health and wellness topics, such as articles, videos, and podcasts.
+### 4. Health Education: 
+The system should provide access to educational resources on health and wellness topics, such as articles, videos, and podcasts.
 
-### 5. Goal Setting: The system should allow students to set health and wellness goals and track their progress towards those goals.
+### 5. Goal Setting: 
+The system should allow students to set health and wellness goals and track their progress towards those goals.
 
-### 6. Data Privacy: The system should comply with applicable laws and regulations related to the protection of sensitive health information, and should have appropriate security measures in place to protect user data.
+### 6. Data Privacy: 
+The system should comply with applicable laws and regulations related to the protection of sensitive health information, and should have appropriate security measures in place to protect user data.
 
-### 7. Scalability: The system should be able to handle a large number of users simultaneously and be able to scale as user numbers grow.
+### 7. Scalability: 
+The system should be able to handle a large number of users simultaneously and be able to scale as user numbers grow.
 
-### 8. Integration: The system should be able to integrate with existing university systems such as student information systems and electronic health records.
+### 8. Integration: 
+The system should be able to integrate with existing university systems such as student information systems and electronic health records.
 
-### 9. Usability: The system should have a user-friendly interface and be easy to navigate, with clear and concise instructions.
+### 9. Usability: 
+The system should have a user-friendly interface and be easy to navigate, with clear and concise instructions.
 
-### 10. Accessibility: The system should be accessible to users with disabilities, such as those who require assistive technologies or alternative input methods.
+### 10. Accessibility:
+The system should be accessible to users with disabilities, such as those who require assistive technologies or alternative input methods.
 
-### 11. Customization: The system should be customizable to meet the individual needs of each student, allowing them to set preferences for notifications, appointments, and content.
+### 11. Customization: 
+The system should be customizable to meet the individual needs of each student, allowing them to set preferences for notifications, appointments, and content.
 
 ## Contribution 🛠️
