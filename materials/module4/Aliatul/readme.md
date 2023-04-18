@@ -57,7 +57,7 @@ Determine the features and functionality required for the system, such as parcel
 
   - Data analysis: The system should provide data analysis and reporting capabilities to track package delivery performance, identify areas for improvement, and provide insights to university administrators.
  
-### Functional requirements
+## 4. Functional requirements
 describe the specific features and functions that a delivery service system for a university must have to meet the needs of its users. Here are some functional requirements that a delivery service system for a university should consider:
 
 - User registration: The system should allow users to register for the service by providing their personal information and delivery address.
@@ -80,31 +80,31 @@ describe the specific features and functions that a delivery service system for 
 
 - Delivery personnel tracking: The system should allow administrators to track the location of delivery personnel and monitor their delivery activities.
 
-## 4. Choose a technology platform :
+## 5. Choose a technology platform :
 
 Select a technology platform for the system, including the programming language, database, and web server. Ensure that the technology platform is scalable, secure, and easy to maintain.
 
-## 5. Design the system architecture :
+## 6. Design the system architecture :
 
 Design the system architecture, including the database, user interface, and system components. Ensure that the architecture is scalable, secure, and follows best practices.
 
-## 6. Develop and test the system :
+## 7. Develop and test the system :
 
 Develop the system using a software development life cycle (SDLC) methodology. Test the system thoroughly before deployment to ensure that it meets the stakeholders' needs and requirements.
 
-## 7. Deploy and maintain the system :
+## 8. Deploy and maintain the system :
 
 Deploy the system to the production environment. Maintain and update the system regularly to ensure that it continues to meet the stakeholders' needs and requirements.
 
-## 8. Establish partnerships with carriers and payment providers :
+## 9. Establish partnerships with carriers and payment providers :
 
 Establish partnerships with carriers to ensure reliable delivery services and payment providers to process payments securely and efficiently.
 
-## 9. Implement effective parcel tracking :
+## 10. Implement effective parcel tracking :
 
 Implement an effective parcel tracking system to enable shippers and recipients to track their parcels' status in real-time.
 
-## 10. Monitor and improve system performance :
+## 11. Monitor and improve system performance :
 
 Continuously monitor the system performance, identify areas of improvement, and implement changes to enhance the system's performance.
 
