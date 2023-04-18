@@ -32,7 +32,9 @@ Deploy the system to a production environment and configure it for scalability, 
 #### 6. Maintain the system: 
 Continuously monitor the system and resolve any issues that arise. Provide support to users and make improvements and enhancements to the system as needed.
 
-## The requirements engineering process for a college room rental system involves the following steps:
+## Requirements Engineering
+
+The requirements engineering process for a college room rental system involves the following steps:
 
 ### 1. Requirements elicitation: 
 Identify stakeholders who will use or be affected by the college room rental system, and gather information about their needs and expectations. This can be done through interviews, surveys, or workshops with students, staff, and administrators.
