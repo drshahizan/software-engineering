@@ -59,42 +59,42 @@ They use the system to manage administrative tasks such as scheduling, room assi
 # User and System Requirement
 
 ## User Requirements:
-### 1.Students: 
+### 1. Students: 
 Students should be able to view and search for courses, register for classes, add/drop courses, view their schedules, view their grades, access their personal information, and pay their tuition and fees.
 
-### 2.Faculty Members: 
+### 2. Faculty Members: 
 Faculty members should be able to view their course schedule, manage their course materials, upload and grade assignments, view their students' grades and attendance, communicate with students, and access their personal information.
 
-### 3.Administrators: 
+### 3. Administrators: 
 Administrators should be able to manage course offerings, manage faculty and student information, generate reports, manage financial transactions, manage campus resources, and view system usage statistics.
 
-### 4.Staff Members: 
+### 4. Staff Members: 
 Staff members should be able to manage student information, manage enrollment and registration, manage course materials, manage campus resources, and view system usage statistics.
 
 ## System Requirements:
 Course Catalog: The system should provide a comprehensive and up-to-date catalog of courses offered at the university, including course descriptions, schedules, prerequisites, and availability.
 
-### 1.Course Registration: 
+### 1. Course Registration: 
 The system should allow students to search and register for courses, manage their course selections, view their schedule, and manage waitlists.
 
-### 2.Scheduling: 
+### 2. Scheduling: 
 The system should generate and manage schedules for courses, classrooms, and faculty members, taking into account class size, availability, and other constraints.
 
 ### 3. Grade Management: 
 The system should allow faculty members to enter and manage grades for their students, and allow students to view their grades.
 
-### 4.Student Information Management: 
+### 4. Student Information Management: 
 The system should allow students, faculty members, and administrators to manage and access student information, such as personal details, academic history, and financial records.
 
-### 5.Financial Management:
+### 5. Financial Management:
 The system should allow students to pay their tuition and fees online, and allow administrators to manage financial transactions such as scholarships, grants, and loans.
 
-### 6.Campus Resource Management: 
+### 6. Campus Resource Management: 
 The system should allow administrators and staff members to manage campus resources such as classrooms, labs, and equipment, and allow students and faculty members to book and access these resources.
 
-### 7.Reporting and Analytics: 
+### 7. Reporting and Analytics: 
 The system should provide comprehensive reporting and analytics capabilities, allowing administrators and faculty members to track key metrics such as enrollment, retention, and student performance.
 
-### 8.Security and Privacy:
+### 8. Security and Privacy:
 The system should be secure and protect sensitive information such as student records and financial data. It should also comply with relevant privacy regulations and policies.
 
