@@ -52,7 +52,7 @@ Provide ongoing support and maintenance for the grading system, including monito
 Provide training to faculty and students on how to effectively use the grading system. Create user documentation and provide support resources to help users navigate and utilize the system efficiently.
 
 
-## Requirements to creating an online student grading system
+## Requirements to Creating an Online Student Grading System
 
 When developing an online student grading system for a university, it's important to consider the specific requirements of the institution and stakeholders involved. Here are some common requirements to consider:
 
@@ -183,7 +183,9 @@ The system should have administrative features to manage user accounts, permissi
 
 The system should have robust security measures in place to protect sensitive student data, including encryption, authentication, and authorization controls. It should also comply with relevant data privacy regulations, such as GDPR or FERPA, and ensure that only authorized users have access to student grades.
 
-### 12. Scalability and Performance: The system should be scalable and able to handle a large number of users and grades, especially in a university setting where there may be a high volume of students and courses. It should also perform efficiently and provide a responsive user experience, even during peak usage times.
+### 12. Scalability and Performance
+
+The system should be scalable and able to handle a large number of users and grades, especially in a university setting where there may be a high volume of students and courses. It should also perform efficiently and provide a responsive user experience, even during peak usage times.
 
 ### 13. Support and Training
 
