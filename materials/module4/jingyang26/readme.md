@@ -29,6 +29,8 @@ The Software Requirements Document (SRD) is an essential document that outlines 
 
 By following these key steps, you can create a comprehensive SRD that outlines the requirements of your library management system, and serves as a basis for the system design and implementation.
 
+<h1> Requirements Engineering </h1>
+
 Requirements Engineering is a systematic approach used to elicit, analyze, specify, validate, and manage the requirements of a software system. The goal of requirements engineering is to ensure that the final software product meets the needs and expectations of its stakeholders, including customers, users, and developers.The process of requirements engineering involves a range of activities, including:
 
 1.Elicitation: Gathering information about the system requirements from stakeholders through interviews, surveys, workshops, and other techniques.
