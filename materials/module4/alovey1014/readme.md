@@ -47,8 +47,6 @@ Students are the primary users of the system and their requirements should be a 
 - Personalization options to tailor the experience to individual preferences
 - Accessibility features to ensure all students can use the system, regardless of disabilities
 - Communication tools to enable collaboration and interaction with peers and instructors
-- Learning management tools to track their progress, view course materials, and complete assignments
-- Notifications to alert them of important deadlines or events
 - Gamification features to keep them engaged and motivated
 
 ### 2. Administrators
@@ -119,9 +117,6 @@ The system should provide search and discovery tools to help students find and c
 ### 8. Integration with courses
 The system should integrate with courses and academic activities, such as assignments, exams, and group projects, to encourage student engagement and collaboration.
 
-
-
-### 
 
 
 
