@@ -131,6 +131,54 @@ These requirements for the requirements engineering process are just a starting 
 <li>System administration: The system should allow authorized administrators to manage user accounts, system settings, and feedback-related data.</li>
 </ul>
 
+<h2>Before the interview:</h2>
+<ul>
+<li>Define the objectives of the interview: Determine the purpose of the interview and the information that you want to obtain from the stakeholders.</li>
+
+<li>Prepare the questions: Prepare a set of open-ended questions that will help you to elicit the stakeholders' needs, expectations, and concerns regarding the student feedback system. Make sure that the questions are clear, concise, and relevant to the system requirements.</li>
+
+<li>Schedule the interview: Contact the stakeholders in advance and schedule a time and place for the interview that is convenient for them.</li>
+
+<li>Confirm the logistics: Confirm the logistics of the interview, such as the duration, location, mode of communication, and recording options.</li>
+</ul>
+<h2>During the interview:</h2>
+<ul>
+<li>Introduce yourself: Start the interview by introducing yourself and explaining the purpose of the interview.</li>
+
+<li>Explain the confidentiality: Explain to the stakeholders that their feedback will be kept confidential and that it will be used only for the purpose of improving the system.</li>
+
+<li>Ask open-ended questions: Ask open-ended questions that allow the stakeholders to express their opinions, ideas, and concerns about the system. Listen carefully to their responses and ask follow-up questions to clarify or expand on their answers.</li>
+
+<li>Take notes: Take detailed notes of the stakeholders' feedback and record their responses if they agree to it.</li>
+
+<li>Thank the stakeholders: Thank the stakeholders for their time and contributions to the interview.</li>
+</ul>
+<h2>After the interview:</h2>
+<ul>
+<li>Review and analyze the feedback: Review and analyze the feedback collected from the stakeholders and identify common themes, patterns, and issues that emerge from their responses.</li>
+
+<li>Validate the feedback: Validate the feedback with other stakeholders or domain experts to ensure that it reflects the needs and expectations of the user community.</li>
+
+<li>Prioritize the requirements: Prioritize the requirements based on their importance, feasibility, and impact on the system goals and objectives.</li>
+
+<li>Document the requirements: Document the requirements in a clear, concise, and unambiguous way, using appropriate terminology and notation.</li>
+
+<li>Communicate the findings: Communicate the findings of the interview and the requirements to the stakeholders, development team, and other relevant parties in a timely and effective manner.</li>
+</ul>
+
+<h2>Example of the Questions</h2>
+<ul>
+<li>What are your expectations from a student feedback system?</li>
+<li>What features would you like to see in the system?</li>
+<li>How do you envision using the student feedback system?</li>
+<li>What are the current challenges or pain points in the existing feedback system?</li>
+<li>How frequently do you think the student feedback should be collected?</li>
+<li>What are the most important criteria for evaluating the effectiveness of a student feedback system?</li>
+<li>What kind of reports and analytics would be useful for you to analyze the student feedback data?</li>
+<li>How do you think the student feedback system should integrate with other university systems?</li>
+<li>What level of security and privacy features do you expect in the student feedback system?</li>
+<li>What training and support do you think the users of the student feedback system would need?</li>
+</ul>
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
