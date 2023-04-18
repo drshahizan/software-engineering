@@ -47,6 +47,38 @@
 <p>Other stakeholders may include university administrators, IT staff, and security staff who are responsible for maintaining and updating the HMS.</p>
 
 <p>Understanding the needs and requirements of these stakeholders is crucial for designing an HMS that is user-friendly, efficient, and meets the operational needs of the hostel. It is important to involve stakeholders in the requirements gathering and validation process to ensure that the system meets their expectations and addresses their pain points.</p>
-
+<p>System requirements for a hostel management system refer to the technical and functional specifications that the system must meet to operate efficiently and effectively. These requirements are often expressed in terms of features, capabilities, and constraints, and they are focused on ensuring that the system meets the needs of its users while being technically sound and reliable.</p>
+    <h2>Examples of System Requirements</h2>
+    <ol>
+      <li>Room and Bed Management</li>
+      <ul>
+        <li>The system should be able to manage the allocation of rooms and beds to students, including the ability to assign, reassign, and release rooms and beds.</li>
+      </ul>
+      <li>Billing and Payment</li>
+      <ul>
+        <li>The system should be able to generate bills for students, including accommodation fees, meal charges, and other related expenses. It should also provide options for payment, such as online payment or payment at the front desk.</li>
+      </ul>
+      <li>Maintenance Management</li>
+      <ul>
+        <li>The system should be able to manage the maintenance of hostel facilities, including tracking maintenance requests, scheduling repairs, and monitoring the status of repairs.</li>
+      </ul>
+      <li>Check-In and Check-Out Management</li>
+      <ul>
+        <li>The system should be able to manage the check-in and check-out processes for students, including verifying their identity, collecting necessary information, and issuing room keys or access cards.</li>
+      </ul>
+      <li>Security Management</li>
+      <ul>
+        <li>The system should be able to manage the security of the hostel, including monitoring access to the hostel, controlling access to specific areas, and detecting and responding to security incidents.</li>
+      </ul>
+      <li>Reporting and Analytics</li>
+      <ul>
+        <li>The system should be able to generate reports and analytics based on hostel occupancy data, including room utilization, occupancy rates, and revenue generation. It should also provide options for customizing and exporting reports.</li>
+      </ul>
+      <li>User Authentication and Authorization</li>
+      <ul>
+        <li>The system should have robust authentication and authorization mechanisms to ensure that only authorized users can access the system and perform certain actions. This includes controlling access to sensitive data and functionality, such as financial information and room assignments.</li>
+      </ul>
+    </ol>
+    <p>By ensuring that the hostel management system meets both the user and system requirements, hostel managers can efficiently manage hostel operations, provide better services to students, and optimize hostel occupancy and revenue.</p>
 </body>
 </html>
