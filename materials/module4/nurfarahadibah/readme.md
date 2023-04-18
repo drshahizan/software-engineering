@@ -44,3 +44,34 @@ Document the requirements in a clear and concise way, using a format that can be
 By following these steps, you can create a solid foundation for the development of a college web room rental system that meets the needs of its users.
 
 
+## User and System Requirements
+
+Here are some potential user and system requirements for a college web room rental system:
+
+### User requirements:
+
+#### 1.	User authentication: 
+The system should require users to create an account and authenticate their identity before they can make a reservation or view their rental history.
+#### 2.	Room search and filtering: 
+Users should be able to search for available rooms based on criteria such as date, time, location, room size, and amenities.
+#### 3.	Room booking: 
+Users should be able to book a room for a specific date and time. The system should provide confirmation of the booking and a rental agreement for the user to sign.
+#### 4.	Rental management: 
+Users should be able to view their rental history, cancel or modify bookings, and request refunds.
+#### 5.	Payment processing:
+The system should be able to process payments securely and efficiently, allowing users to pay for rentals using a variety of payment methods.
+
+### System requirements:
+
+#### 1.	Room availability management: 
+The system should maintain an accurate and up-to-date record of room availability, preventing double bookings and conflicts.
+#### 2.	User data management: 
+The system should securely store and manage user data, including account information, rental history, and payment information.
+#### 3.	User interface: 
+The system should provide an intuitive and user-friendly interface that is easy to navigate and use.
+#### 4.	Performance: 
+The system should be able to handle a high volume of users and transactions without experiencing downtime or slow response times.
+#### 5.	Security: 
+The system should incorporate security measures to protect user data and prevent unauthorized access or fraud.
+These are just a few potential user and system requirements for a college web room rental system. The actual requirements may vary depending on the specific needs of the college and its users.
+
