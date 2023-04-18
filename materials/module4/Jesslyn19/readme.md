@@ -10,19 +10,19 @@ Don't forget to hit the :star: if you like this repo.
 # Software Requirements Document (SRD): Student Engagement System
 Developing a student engagement system can be a complex and multifaceted process. However, here are some general steps you can follow to create a student engagement system:
 
-### Define the scope and goals: The first step is to define the scope of the system and identify the goals you want to achieve. Consider the target audience, learning objectives, and the types of engagement activities you want to offer.
+Define the scope and goals: The first step is to define the scope of the system and identify the goals you want to achieve. Consider the target audience, learning objectives, and the types of engagement activities you want to offer.
 
-### Select appropriate technology: Consider the various technologies available and select those that align with your goals and the learning objectives. For example, you may choose to use clicker devices, mobile applications, or online discussion boards.
+Select appropriate technology: Consider the various technologies available and select those that align with your goals and the learning objectives. For example, you may choose to use clicker devices, mobile applications, or online discussion boards.
 
-### Design the user interface: The user interface should be user-friendly, easy to navigate, and visually appealing. Consider the needs and preferences of the students who will use the system, and make sure the interface is intuitive and easy to use.
+Design the user interface: The user interface should be user-friendly, easy to navigate, and visually appealing. Consider the needs and preferences of the students who will use the system, and make sure the interface is intuitive and easy to use.
 
-### Develop the engagement activities: Develop a variety of engagement activities that align with the learning objectives and the target audience. These activities may include quizzes, polls, discussions, or games.
+Develop the engagement activities: Develop a variety of engagement activities that align with the learning objectives and the target audience. These activities may include quizzes, polls, discussions, or games.
 
-### Test the system: Test the system with a group of students to ensure that it works as intended and is user-friendly. Identify any issues or bugs and address them before the system is launched.
+Test the system: Test the system with a group of students to ensure that it works as intended and is user-friendly. Identify any issues or bugs and address them before the system is launched.
 
-### Launch the system: Launch the system and provide students with the necessary training and support. Monitor the system to ensure that it is meeting the goals and learning objectives.
+Launch the system: Launch the system and provide students with the necessary training and support. Monitor the system to ensure that it is meeting the goals and learning objectives.
 
-### Evaluate the system: Evaluate the system's effectiveness and gather feedback from students and educators to identify areas for improvement. Use this feedback to refine the system and improve student engagement.
+Evaluate the system: Evaluate the system's effectiveness and gather feedback from students and educators to identify areas for improvement. Use this feedback to refine the system and improve student engagement.
 
 In summary, developing a student engagement system requires careful planning, design, development, testing, launch, and evaluation. It is essential to involve students and educators in the process to ensure that the system meets their needs and achieves the intended goals.
 
@@ -30,19 +30,19 @@ In summary, developing a student engagement system requires careful planning, de
 
 Requirement engineering is a critical process in the development of any software system, including a student engagement system. Here are some steps you can follow to perform requirement engineering for a student engagement system:
 
-### Identify stakeholders: Identify the stakeholders who will be involved in the development, deployment, and use of the system. These stakeholders may include educators, students, administrators, and IT staff.
+Identify stakeholders: Identify the stakeholders who will be involved in the development, deployment, and use of the system. These stakeholders may include educators, students, administrators, and IT staff.
 
-### Gather requirements: Gather requirements from stakeholders through interviews, surveys, and other methods. These requirements should include both functional and non-functional requirements. Functional requirements describe what the system should do, while non-functional requirements describe how the system should perform.
+Gather requirements: Gather requirements from stakeholders through interviews, surveys, and other methods. These requirements should include both functional and non-functional requirements. Functional requirements describe what the system should do, while non-functional requirements describe how the system should perform.
 
-### Analyze requirements: Analyze the requirements to identify any conflicts, ambiguities, or gaps. Ensure that the requirements are clear, complete, and consistent.
+Analyze requirements: Analyze the requirements to identify any conflicts, ambiguities, or gaps. Ensure that the requirements are clear, complete, and consistent.
 
-### Prioritize requirements: Prioritize the requirements based on their importance to stakeholders, and their impact on the system's functionality and performance.
+Prioritize requirements: Prioritize the requirements based on their importance to stakeholders, and their impact on the system's functionality and performance.
 
-### Create a requirements specification: Create a requirements specification document that outlines the functional and non-functional requirements, including use cases, user stories, and acceptance criteria.
+Create a requirements specification: Create a requirements specification document that outlines the functional and non-functional requirements, including use cases, user stories, and acceptance criteria.
 
-### Validate requirements: Validate the requirements by reviewing them with stakeholders, testing them with prototypes, and simulating system behavior. Ensure that the requirements meet stakeholder needs and align with the system's objectives.
+Validate requirements: Validate the requirements by reviewing them with stakeholders, testing them with prototypes, and simulating system behavior. Ensure that the requirements meet stakeholder needs and align with the system's objectives.
 
-### Manage requirements: Manage the requirements throughout the development process by tracking changes, communicating with stakeholders, and ensuring that the system meets the requirements.
+Manage requirements: Manage the requirements throughout the development process by tracking changes, communicating with stakeholders, and ensuring that the system meets the requirements.
 
 In summary, requirement engineering is a critical process for developing a student engagement system that meets stakeholder needs and aligns with the system's objectives. By following these steps, you can gather, analyze, prioritize, and validate requirements to ensure that the system performs effectively and efficiently.
 
