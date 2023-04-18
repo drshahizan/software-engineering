@@ -7,52 +7,47 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Software Requirements Document (SRD): Academic Course Registration System
+# Software Requirements Document (SRD): University Accomodation Management System
 
 ## Key steps in creating an Academic Course Registration System
-Developing an academic course registration system for a university involves several key steps:
+Developing a accomodation management system for a university hostel involves several key steps:
 
-### 1. System requirements gathering
-The first step is to gather requirements for the system. This involves talking to stakeholders such as students, faculty members, and university administrators to understand their needs and expectations from the system. The system requirements should include features such as course catalog, course registration, scheduling, waitlist management, grade management, and student information management.
+Identify User Requirements: The first step is to identify the user requirements for the accommodation management system. This includes understanding the needs of the university administration, staff, and students, as well as any external stakeholders.
 
-### 2. System design
-Once the requirements are gathered, the next step is to design the system. This involves creating a detailed system design document that outlines the system architecture, database design, and user interface design.
+Define System Specifications: Once the user requirements are identified, the system specifications can be defined. This includes determining the system's functionality, such as online booking, payment processing, room allocation, and inventory management.
 
-### 3. System development
-The system development involves implementing the design using programming languages, tools, and frameworks. The system should be developed with scalability and maintainability in mind, so that it can handle a large number of students and courses.
+Design the System: The next step is to design the system based on the user requirements and system specifications. This includes designing the user interface, database schema, and software architecture.
 
-### 4. System testing
-After the system is developed, it needs to be thoroughly tested to ensure that it meets the requirements and works as expected. Testing should be done for all possible scenarios, including edge cases and error handling.
+Develop the System: Once the system design is complete, the development of the system can begin. This involves coding the software, configuring the hardware, and integrating any third-party systems.
 
-### 5. System deployment
-Once the system is tested and approved, it needs to be deployed on the university's servers or cloud infrastructure. The system should be monitored for performance and availability.
+Test the System: Once the system is developed, it needs to be tested to ensure that it meets the user requirements and system specifications. This includes performing unit testing, integration testing, and system testing.
 
-### 6. System maintenance
-After the system is deployed, it needs to be maintained and updated to ensure that it continues to meet the changing needs of the university. This involves fixing bugs, adding new features, and improving performance.
+Implement the System: After testing is complete, the system can be implemented. This involves deploying the system, training users, and migrating data from any existing systems.
 
-The academic course registration system should provide a user-friendly interface for students to browse and register for courses, as well as for faculty members to manage their courses and student grades. The system should also allow for automated waitlist management and scheduling conflicts. Overall, the system should streamline the course registration process and reduce administrative burden for the university staff.
+Provide Ongoing Support and Maintenance: Once the system is implemented, ongoing support and maintenance are required. This includes providing technical support, fixing any bugs, and implementing any system updates or upgrades.
+
+Continuous Improvement: Finally, it is important to continuously improve the accommodation management system to meet the changing needs of the university and its stakeholders. This can be done through regular feedback surveys, monitoring trends in the industry, and making necessary changes to the system's functionality and user interface.
+
+In summary, creating a university accommodation management system involves identifying user requirements, defining system specifications, designing and developing the system, testing and implementing it, providing ongoing support and maintenance, and continuously improving the system.
 
 ## Requirements Engineering
-Requirements engineering is the process of eliciting, analyzing, specifying, validating, and managing the requirements for a software system. In the context of an academic course registration system, the requirements engineering process is crucial for ensuring that the system meets the needs of its stakeholders, including students, faculty members, and university administrators.
+Requirement engineering is the process of identifying, analyzing, and documenting the requirements for a system. Here are some key steps involved in requirement engineering for developing a university accommodation management system:
 
-The requirements engineering process for an academic course registration system typically involves the following steps:
+Identify Stakeholders: The first step is to identify the stakeholders who will be using the accommodation management system. This includes students, staff, university administration, and any external stakeholders such as parents or alumni.
 
-### 1. Requirements elicitation
-This involves gathering information about the needs and expectations of the system's stakeholders. For an academic course registration system, this may involve conducting interviews and surveys with students, faculty members, and administrators to understand their requirements for the system.
+Gather Requirements: Once the stakeholders have been identified, the requirements gathering process can begin. This involves gathering requirements from each stakeholder group to ensure that the system will meet the needs of all users.
 
-### 2. Requirements analysis
-Once the requirements are elicited, they need to be analyzed to determine their feasibility, relevance, and completeness. This may involve prioritizing the requirements based on their importance and identifying any conflicting or ambiguous requirements.
+Analyze Requirements: After gathering the requirements, they need to be analyzed to determine their feasibility, relevance, and priority. This involves identifying any conflicts or inconsistencies between the requirements and resolving them.
 
-### 3. Requirements specification
-After the requirements are analyzed, they need to be documented in a clear and concise manner. This may involve creating use cases, user stories, or formal requirement documents that describe the system's functionality and constraints.
+Document Requirements: Once the requirements have been analyzed, they need to be documented in a clear and concise manner. This documentation should include functional and non-functional requirements, use cases, and any other relevant information.
 
-### 4. Requirements validation
-Once the requirements are specified, they need to be validated to ensure that they are accurate and complete. This may involve reviewing the requirements with stakeholders and conducting user acceptance testing to verify that the system meets their needs.
+Validate Requirements: After the requirements have been documented, they need to be validated to ensure that they accurately reflect the needs of the stakeholders. This involves obtaining feedback from stakeholders and making any necessary changes to the requirements.
 
-### 5. Requirements management
-Finally, the requirements need to be managed throughout the development lifecycle to ensure that they remain relevant and up-to-date. This may involve tracking changes to the requirements and ensuring that they are properly implemented in the system.
+Manage Requirements: Once the requirements have been validated, they need to be managed throughout the development process. This involves tracking changes to the requirements, prioritizing them, and ensuring that they are implemented correctly.
 
-In the context of an academic course registration system, the requirements engineering process should focus on ensuring that the system provides an intuitive and efficient user interface for students and faculty members to browse and register for courses, as well as for administrators to manage course scheduling and student records. The system should also be designed to handle large volumes of data and be scalable to accommodate future growth in the university's student population.
+Verify Requirements: Finally, the requirements need to be verified to ensure that the accommodation management system meets all of the identified requirements. This involves testing the system against the requirements and making any necessary changes.
+
+In summary, requirement engineering for developing a university accommodation management system involves identifying stakeholders, gathering, analyzing, documenting, validating, managing, and verifying the requirements to ensure that the system meets the needs of all users.
 
 ## Stakeholders
 Stakeholders in an academic course registration system can be broadly categorized into three groups:
