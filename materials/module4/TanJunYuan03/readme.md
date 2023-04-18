@@ -9,6 +9,25 @@ Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): Library Management System
 
+## Requirement Engineering Process
+
+### Elicitation: 
+This step involves gathering information about the library's current operations, its goals, and its stakeholders. This can be done through interviews, surveys, focus groups, and other methods of gathering feedback.
+
+### Analysis: 
+Once the requirements have been gathered, they need to be analyzed to determine their feasibility, relevance, and priority. This involves understanding the dependencies and relationships between different requirements and ensuring that they align with the library's goals and objectives.
+
+### Specification: 
+The next step is to document the requirements in a clear and concise manner. This involves developing use cases, requirements documents, and other forms of documentation that describe the system's functionality, performance, and constraints.
+
+### Validation: 
+The requirements need to be validated to ensure that they meet the needs of stakeholders and are feasible to implement. This involves reviewing the requirements with stakeholders, conducting user acceptance testing, and verifying that the requirements are consistent with the library's goals and objectives.
+
+### Verification: 
+The final step is to verify that the requirements have been met. This involves testing the system against the requirements, verifying that the system operates as expected, and ensuring that any defects or issues are resolved before the system is deployed.
+
+
+
 ## Key steps in creating Library Management System
 Developing a  Library Management System for a university involves several key steps:
 
