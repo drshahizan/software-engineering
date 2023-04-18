@@ -77,12 +77,12 @@ University staff such as accommodation managers, maintenance staff, and administ
 Students are the primary users of the accommodation management system, and their needs and preferences should be taken into account when developing the system. Their requirements may include access to real-time information about room availability, the ability to book or cancel a room reservation, online payments, and the ability to submit maintenance requests.
 
 ### External Parties: 
-xternal parties such as vendors, suppliers, or government agencies may also be involved in the accommodation management system. Their requirements may include integration with external systems, compliance with regulations, and data security and privacy.
+External parties such as vendors, suppliers, or government agencies may also be involved in the accommodation management system. Their requirements may include integration with external systems, compliance with regulations, and data security and privacy.
 
 In summary, the different stakeholders in a university accommodation management system include university administration, staff, students, and external parties. Each stakeholder has their own unique requirements and needs, and it is important to involve all stakeholders in the requirement engineering process to ensure that the system meets their needs and expectations.
 
 ## Users and system requirements
-Users and system requirements are two different aspects of an academic course registration system, and it is important to understand the differences between them.
+Users and system requirements are two different aspects of an accommodation management system, and it is important to understand the differences between them.
 
 ### User requirements
 Users refer to the people who will be using the system, including students, faculty members, and university administrators. They have specific needs, preferences, and expectations from the system, and their requirements are often expressed in terms of user stories, scenarios, or use cases. For example, a student may require the ability to search for courses by department, instructor, or time of day, while a faculty member may require the ability to view student transcripts or communicate with their class via email.
@@ -92,67 +92,56 @@ System requirements, on the other hand, refer to the technical and functional sp
 
 While user requirements and system requirements are distinct, they are closely related, and it is important to ensure that they are aligned. The system requirements should be designed to meet the needs and expectations of the system's users, and the user requirements should be prioritized and translated into specific system requirements. By understanding both users and system requirements, designers and developers can create a course registration system that meets the needs of its stakeholders while being technically sound and reliable.
 
-## User requirements in academic course registration system
+## User requirements in accommodation management system
 
-User requirements in an academic course registration system refer to the specific needs and expectations of the system's users, which include students, faculty members, and university administrators. User requirements are typically expressed in terms of user stories, scenarios, or use cases, and they are focused on the functionality and usability of the system.
+User requirements refer to the specific needs and expectations of the users of the university accommodation management system. These requirements describe what the system should do and how it should behave from the perspective of the user. Here are some examples of user requirements for a university accommodation management system:
 
-The following are some examples of user requirements for an academic course registration system:
+### Room Reservation: 
+Users should be able to easily view room availability and reserve a room through the system. The system should provide real-time information on room availability and allow users to book a room quickly and easily.
 
-### 1. Course Search
-Students should be able to easily search for courses based on course code, department, instructor, time of day, and other relevant criteria.
+### Online Payments: 
+Users should be able to make payments for their accommodation online through the system. The system should provide secure and easy-to-use payment options and allow users to view their payment history and outstanding balances.
 
-### 2. Course Registration
-Students should be able to register for courses online, including adding and dropping classes, and viewing their class schedule.
+### Maintenance Requests: 
+Users should be able to submit maintenance requests through the system. The system should provide a simple and efficient way for users to report maintenance issues and track the progress of their requests.
 
-### 3. Waitlist Management
-The system should be able to handle waitlists for courses, including notifying students when a spot becomes available and automatically enrolling them in the course.
+### Check-In and Check-Out:
+Users should be able to check-in and check-out of their accommodation through the system. The system should provide a smooth and hassle-free process for users to check-in and check-out of their rooms.
 
-### 2. Course Management
-Faculty members should be able to manage their courses, including adding and removing students, managing course materials, and submitting grades.
+### Room Assignments: 
+Users should be able to view and request room assignments through the system. The system should provide a transparent and fair process for room assignments, and allow users to view their room assignments and make requests for changes if necessary.
 
-### 4. Academic Record Management
-Students and faculty members should be able to access and view their academic records, including transcripts, grade reports, and other relevant information.
+### Reporting and Analytics:
+Users should be able to access reports and analytics on their accommodation history, including room assignments, payment history, and maintenance requests. The system should provide clear and easy-to-understand reports and analytics, and allow users to view and download their data.
 
-### 5. Reporting and Analytics
-University administrators should be able to generate reports and analytics based on course enrollment data, including enrollment trends, course capacity, and student retention.
+In summary, user requirements for a university accommodation management system are focused on providing a smooth and efficient experience for users, including features such as room reservations, online payments, maintenance requests, check-in and check-out, room assignments, and reporting and analytics. It is important to consider user requirements when developing the system to ensure that it meets the needs and expectations of its users.
 
-### 6. User Authentication and Authorization
-The system should have robust authentication and authorization mechanisms to ensure that only authorized users can access the system and perform certain actions.
+## System requirements in accommodation management system
 
-## System requirements in academic course registration system
+System requirements refer to the technical specifications and functionalities that are needed for the university accommodation management system to operate effectively. These requirements are focused on ensuring that the system is reliable, scalable, secure, and easy to use. Here are some examples of system requirements for a university accommodation management system:
 
-By gathering and analyzing user requirements, designers and developers can create a course registration system that meets the needs and expectations of its users. User requirements are critical to the success of the system, as they directly impact the usability and user adoption of the system. It is important to involve users in the requirements gathering and validation process to ensure that their needs and expectations are properly addressed.
+### Scalability: 
+The system should be designed to accommodate a large number of users and be able to handle high levels of traffic and data.
 
-System requirements in an academic course registration system refer to the technical and functional specifications that the system must meet to perform its intended tasks effectively and efficiently. These requirements focus on the hardware, software, and network infrastructure needed to support the system's functionality and performance.
+### Security: 
+The system should have strong security measures in place to protect user data and prevent unauthorized access. This may include encryption of sensitive data, secure login processes, and firewalls to protect against external threats.
 
-The following are some examples of system requirements for an academic course registration system:
+### Compatibility: 
+The system should be compatible with a range of devices and platforms, including desktops, laptops, smartphones, and tablets.
 
-### 1. Performance
-The system should be able to handle a large number of concurrent users, while maintaining fast response times and minimizing downtime.
+### Reliability: 
+The system should be reliable and minimize downtime or system failures. This may involve redundancy and backup measures, such as regular data backups and disaster recovery plans.
 
-### 2. Scalability
-The system should be able to scale up or down based on changing demand, without sacrificing performance or usability.
+### Usability:
+The system should be intuitive and easy to use for all users, including those with limited technical skills. This may involve a user-friendly interface, clear instructions, and helpful error messages.
 
-### 3. Security
-The system should have robust security mechanisms, including user authentication and authorization, data encryption, and access controls, to protect sensitive user data and prevent unauthorized access.
+### Integration:
+The system should be able to integrate with other systems and platforms used by the university, such as financial systems and student information systems.
 
-### 4. Integration
-The system should be able to integrate with other university systems, such as the student information system, learning management system, and financial aid system.
+### Performance: 
+The system should be designed to perform well under heavy load and respond quickly to user requests. This may involve optimization of database queries, use of caching techniques, and other performance tuning measures.
 
-### 5. Data Management
-The system should be able to store and manage large amounts of data related to course enrollment, student records, and other relevant information.
-
-### 6. Usability
-The system should be user-friendly and easy to use, with intuitive navigation and clear instructions.
-
-### 7. Accessibility
-The system should be accessible to users with disabilities, including support for assistive technologies and compliance with accessibility standards.
-
-### 8. Maintenance
-The system should be easy to maintain and update, with clear documentation and support for troubleshooting and bug fixes.
-
-By defining and meeting these system requirements, designers and developers can ensure that the course registration system is reliable, secure, and scalable. System requirements are essential to the success of the system, as they directly impact its functionality, performance, and reliability. It is important to involve system administrators, developers, and other technical experts in the requirements gathering and validation process to ensure that the system meets technical standards and best practices.
-
+In summary, system requirements for a university accommodation management system are focused on ensuring that the system is reliable, scalable, secure, and easy to use. It is important to consider system requirements when developing the system to ensure that it can meet the needs of its users and operate effectively in a complex and demanding environment.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
