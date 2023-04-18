@@ -8,7 +8,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): University Course Management System
-<h3>Key steps to develop a University course management system:</h3>
+#Key steps to develop a University course management system:
 
 <b>1. Requirements gathering</b>
 <br>
@@ -38,7 +38,7 @@ Provide ongoing maintenance and support for the system, including bug fixes, fea
 <br>
 Continuously monitor and improve the system to meet changing requirements and user feedback. This includes regular updates and upgrades to the system to ensure it remains up-to-date and efficient.
 
-<h3>Requirements Engineering</h3>
+#Requirements Engineering
 The requirements engineering process for a university course management system typically involves the following steps:
 
 <b>1. Requirements Elicitation: </b>
