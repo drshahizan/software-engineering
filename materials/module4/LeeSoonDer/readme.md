@@ -50,32 +50,38 @@ Identify key stakeholders and their roles and responsibilities.
 Develop a list of questions to ask stakeholders to elicit requirements.
 Select appropriate techniques for eliciting requirements, such as interviews, surveys, focus groups, or observations.
 Document all requirements and ensure they are clear and unambiguous.
+<br>
 <b>Analysis:</b>
 Review all requirements for consistency, completeness, accuracy, and feasibility.
 Identify any conflicts or overlaps between requirements.
 Prioritize requirements based on their importance to stakeholders.
 Document all changes made during the analysis process.
+<br>
 <b>Specification:</b>
 Use a standard format to specify all requirements, such as use cases or functional requirements.
 Ensure that all requirements are testable and measurable.
 Define any constraints or assumptions associated with each requirement.
 Review all requirements with stakeholders to ensure they are complete and accurate.
+<br>
 <b>Validation:</b>
 Develop prototypes or mockups to test requirements with stakeholders.
 Conduct simulations to validate requirements and ensure they meet the needs of stakeholders.
 Review feedback from stakeholders and make any necessary changes to the requirements.
 Document all changes made during the validation process.
+<br>
 <b>Verification:</b>
 Conduct a final review of all requirements to ensure they are complete and correct.
 Verify that all requirements meet the objectives and goals of the feedback system.
 Ensure that all requirements are traceable and can be linked back to stakeholder needs.
 Document all changes made during the verification process.
+<br>
 <b>Management:</b>
 Create a requirements management plan to track changes to requirements throughout the development process.
 Use a requirements management tool to manage requirements and track dependencies between requirements.
 Ensure that all changes to requirements are approved by stakeholders.
 Prioritize requirements based on their importance to stakeholders and the project goals.
 These requirements for the requirements engineering process are just a starting point and will likely vary depending on the specific needs and goals of each university. The requirements engineering process should be tailored to the needs of the feedback system, ensuring that all requirements are complete, accurate, and feasible
+<br>
 
 
 ## Contribution 🛠️

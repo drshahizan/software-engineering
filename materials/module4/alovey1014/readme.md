@@ -22,7 +22,7 @@ Write code to implement the system features, test the system to ensure that it m
 
 ### 5. Deploy and maintain the system:
 Deploy the system to a production environment and provide ongoing technical support, making updates and improvements to the system as needed to ensure that it continues to meet the needs of the educational institution and its users.
-<br>
+
 ## Requirement Engineering Process
 The requirement engineering process for creating a Student Engagement System typically involves the following steps:
 
@@ -41,7 +41,22 @@ This step involves reviewing the requirements specification document to ensure t
 ### 5. Requirements management:
 As the project progresses, requirements may change due to evolving needs, new stakeholders, or other factors. Therefore, it is important to manage the requirements throughout the project to ensure that they remain relevant and achievable.
 
-Overall, the requirement engineering process helps to ensure that the Student Engagement System meets the needs of its stakeholders and is delivered on time and within budget.
+
+## Stakeholder
+### 1. Students
+Students are the primary users of the system and their needs and preferences should be a top priority. It is important to gather input from students to determine what features and functionality would be most helpful for them to engage with their coursework, interact with peers, and access resources.
+
+### 2. Faculty and instructors
+Faculty and instructors can provide valuable input on what features would be most helpful in supporting teaching and learning, as well as providing feedback on the usability of the system.
+
+### 3. Administrators
+Administrators can provide insight into the larger goals and needs of the institution, such as student retention and graduation rates, and help to ensure that the Student Engagement System aligns with these goals.
+
+### 4. IT department
+The IT department can provide technical expertise and support in the design and implementation of the system, as well as ensuring that it meets technical requirements and is secure.
+
+### 5. ccessibility specialists
+Accessibility specialists can provide guidance on how to design the system to be accessible to students with disabilities, ensuring that all students have equal access to the benefits of the system.
 
 
 
