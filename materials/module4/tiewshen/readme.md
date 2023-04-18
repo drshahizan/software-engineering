@@ -71,26 +71,68 @@ They can use the system to manage attendance records, generate reports, and trac
 
 ### 4. Secondary stakeholders: 
 These are the stakeholders who are indirectly impacted by the system, and they include:
-### Parents: 
+### 5. Parents: 
 They can view their children's attendance records and receive notifications about their attendance.
 
-### 5. Management: 
+### 6. Management: 
 They can use the system to monitor attendance rates across different classes, events, or departments and make decisions based on attendance data.
 
-### 6. Tertiary stakeholders: 
+### 7. Tertiary stakeholders: 
 These are the stakeholders who provide input or support to the system, and they include:
-### 7. IT department: 
+### 8. IT department: 
 They can provide technical support for the system and ensure that it is running smoothly.
 
-### 8. System developers: 
+### 9. System developers: 
 They are responsible for developing and maintaining the system.
 
-### 9. Regulators: 
+### 10. Regulators: 
 They may have certain requirements or regulations that need to be followed by the system.
 
 It is important to identify all stakeholders in the system and consider their needs and requirements during the development and implementation process. This ensures that the system meets the needs of all stakeholders and is more likely to be adopted and used effectively.
 
+## Users and system requirements
+Users and system requirements are two different aspects of an academic course registration system, and it is important to understand the differences between them.
 
+### User requirements
+Users refer to the people who will be using the system, including students, faculty members, and university administrators. They have specific needs, preferences, and expectations from the system, and their requirements are often expressed in terms of user stories, scenarios, or use cases. For example, a student may require the ability to search for courses by department, instructor, or time of day, while a faculty member may require the ability to view student transcripts or communicate with their class via email.
+
+### System requirements
+System requirements, on the other hand, refer to the technical and functional specifications of the system. They describe what the system must do, and are often expressed in terms of features, capabilities, and constraints. For example, the system may need to be able to handle a certain number of concurrent users, have robust authentication and authorization mechanisms, and integrate with other university systems such as the student information system or the learning management system.
+
+While user requirements and system requirements are distinct, they are closely related, and it is important to ensure that they are aligned. The system requirements should be designed to meet the needs and expectations of the system's users, and the user requirements should be prioritized and translated into specific system requirements. By understanding both users and system requirements, designers and developers can create a course registration system that meets the needs of its stakeholders while being technically sound and reliable.
+
+## User requirements in student attendance management system
+
+User requirements for a student attendance management system can include the following:
+
+### 1. User-friendly interface: 
+The system should have a user-friendly interface that is easy to navigate for all users, including teachers, students, and administrators.
+
+### 2. Attendance tracking: 
+The system should allow teachers to mark attendance easily and accurately for each class, and students should be able to view their own attendance records.
+
+### 3.Notifications:
+The system should send notifications to students and parents about their attendance, such as when they are absent or when their attendance is below a certain threshold.
+
+### 4. Reporting:
+The system should generate reports on attendance data, such as attendance rates for specific classes, events, or departments.
+
+### 5. Access control: 
+The system should have appropriate access controls to ensure that only authorized users can view or modify attendance data.
+
+### 6. Integration with other systems: 
+The system should integrate with other systems, such as student information systems and learning management systems.
+
+### 7. Mobile compatibility:
+The system should be compatible with mobile devices, allowing users to access the system from anywhere and at any time.
+
+### 8. Customization: 
+The system should allow for customization, such as setting up different attendance policies for different classes or departments.
+
+### 9. Support: 
+The system should provide adequate support to users, such as help documentation and customer service.
+
+By identifying these user requirements, developers can design and build a student attendance management system that meets the needs of all stakeholders and delivers the desired functionality.
 
 
 

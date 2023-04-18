@@ -56,7 +56,7 @@ They manage student registration, waitlist management, and transcript processing
 ### 4. Support staff
 They use the system to manage administrative tasks such as scheduling, room assignments, and student support.
 
-# User and System Requirement
+# User and System Requirements
 
 ## User Requirements:
 ### 1. Students: 
@@ -98,3 +98,28 @@ The system should provide comprehensive reporting and analytics capabilities, al
 ### 8. Security and Privacy:
 The system should be secure and protect sensitive information such as student records and financial data. It should also comply with relevant privacy regulations and policies.
 
+### Functional Requirements
+
+### 1. Course Catalog: 
+The system should provide an updated list of all the courses offered by the university.
+
+### 2. Course Registration: 
+The system should allow students to register for courses online and view their course schedules.
+
+### 3. Scheduling: 
+The system should automatically generate schedules for classes, exams, and other events based on predefined rules.
+
+### 4. Waitlist Management: 
+The system should manage waitlists for courses and notify students if a spot becomes available.
+
+### 5. Grade Management:
+The system should allow faculty members to enter grades and provide students with access to their grades.
+
+### 6. Student Information Management: 
+The system should maintain a database of all students and their personal information, including academic records, financial aid, and contact information.
+
+### 7. Financial Management:
+The system should manage financial transactions such as tuition payments, fee payments, and scholarship awards.
+
+### 8. Reporting: 
+The system should provide reports and data analytics to help university administrators make informed decisions.
