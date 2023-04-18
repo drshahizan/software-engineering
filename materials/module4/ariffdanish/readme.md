@@ -13,7 +13,11 @@ Don't forget to hit the :star: if you like this repo.
 Developing a Food Ordering System Of Student UTM involves several key steps:
 
 ### 1. System requirements gathering
-The first step is to gather requirements for the system. This involves talking to stakeholders such as students, faculty members, and university administrators to understand their needs and expectations from the system. The system requirements should include features such as course catalog, course registration, scheduling, waitlist management, grade management, and student information management.
+Who are the users of the system? (Students, Faculty, Staff)
+What are their needs? (ordering food, viewing menus, tracking orders, etc.)
+What are the common device they will use? (Mobile or Desktop)
+How will users access the system? (web browser or mobile app)
+What features do they need? (ordering food, customizing orders, leaving reviews, etc.) 
 
 ### 2. System design
 Once the requirements are gathered, the next step is to design the system. This involves creating a detailed system design document that outlines the system architecture, database design, and user interface design.
