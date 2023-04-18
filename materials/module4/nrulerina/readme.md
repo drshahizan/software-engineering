@@ -1,0 +1,20 @@
+   # Software Requirements Document (SRD):  Parcel Delivery System
+   ## Key steps in creating a Software Requirement Document for a parcel delivery system:
+
+    Define the Scope: Define the scope of the parcel delivery system. This includes specifying the areas and locations where the system will be used, the types of users who will be using it, and the main features of the system.
+
+    Identify the Stakeholders: Identify the key stakeholders of the system, such as the customers, the delivery drivers, the management team, and the developers. Understand their needs and requirements for the system.
+
+    Specify the Functional Requirements: Define the functional requirements of the system, such as the ability to receive and process orders, track parcels, generate delivery routes, and manage payments.
+
+    Specify the Non-Functional Requirements: Define the non-functional requirements of the system, such as performance, scalability, security, and usability.
+
+    Identify Constraints: Identify any constraints that need to be considered in the design and implementation of the system, such as budget, time, and technology limitations.
+
+    Define Use Cases: Define the different use cases for the system, such as placing an order, tracking a parcel, and managing delivery routes.
+
+    Create Mockups: Create mockups of the system to help visualize the user interface and user experience.
+
+    Define Testing Requirements: Define the testing requirements for the system, such as functional and performance testing.
+
+    Review and Approval: Review the Software Requirement Document with all stakeholders and seek their approval before proceeding with the development phase.
