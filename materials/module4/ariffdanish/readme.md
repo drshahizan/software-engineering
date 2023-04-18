@@ -13,11 +13,32 @@ Don't forget to hit the :star: if you like this repo.
 Developing a Food Ordering System Of Student UTM involves several key steps:
 
 ### 1. System requirements gathering
-Who are the users of the system? (Students, Faculty, Staff)
-What are their needs? (ordering food, viewing menus, tracking orders, etc.)
-What are the common device they will use? (Mobile or Desktop)
-How will users access the system? (web browser or mobile app)
-What features do they need? (ordering food, customizing orders, leaving reviews, etc.) 
+#### User Requirement
+- Who are the users of the system? (Students, Faculty, Staff)
+- What are their needs? (ordering food, viewing menus, tracking orders, etc.)
+- What are the common device they will use? (Mobile or Desktop)
+- How will users access the system? (web browser or mobile app)
+- What features do they need? (ordering food, customizing orders, leaving reviews, etc.) 
+#### System Requirement
+- What platform(s) should the system be developed on? (e.g. iOS, Android, web)
+- What programming languages and frameworks should be used?
+- What are the minimum hardware requirements?
+- What security protocols need to be in place? (e.g. encryption, authentication)
+- What data storage and backup options are required?
+#### Menu Management
+- How will restaurants and food vendors be added to the system?
+- How will menus and prices be managed?
+- What are the requirements for handling dietary restrictions?
+- How will order fulfillment and delivery be managed?
+#### Payment and Transaction Processing
+- What payment options will be available?
+- How will payments be processed?
+- What transaction fees will be charged?
+- What are the requirements for refunds and chargebacks?
+#### Reporting and Analytics
+- What data needs to be tracked and analyzed?
+- What reports will be generated?
+- How will the reports be accessed and shared?
 
 ### 2. System design
 Once the requirements are gathered, the next step is to design the system. This involves creating a detailed system design document that outlines the system architecture, database design, and user interface design.
