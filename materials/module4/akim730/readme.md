@@ -94,6 +94,54 @@ The administrators who will manage and maintain the system, ensure its security,
 7. The system should provide detailed reporting and analytics features that enable restaurant owners to track sales, monitor customer behavior, and identify trends.
 8. The system should be flexible and easily customizable to meet the needs of different types of restaurants and cuisines.
 
+## Functional in Food Ordering System in UTM
+A food ordering system in a university would allow students, faculty, and staff to order food from on-campus dining establishments and have it delivered or ready for pickup.
+
+### 1. User Authentication: 
+The system should require users to create an account and log in using their university credentials, such as their email address or ID number, to ensure security and privacy.
+
+### 2. Menu Browsing: 
+The system should allow users to browse menus from various dining establishments on campus, view photos, descriptions, and prices of menu items, and filter search results by cuisine type, dietary preferences, or other criteria.
+
+### 3. Ordering and Checkout: 
+The system should enable users to select menu items, customize orders as needed, and add them to their cart. Users should be able to review their order summary, choose a pickup or delivery time, and pay for their order using various payment options such as meal plans, campus cards, credit cards, or mobile payments.
+
+### 4. Real-time Order Tracking: 
+The system should provide users with real-time updates on the status of their orders, including estimated delivery or pickup times, and any delays or changes to their orders.
+
+### 5. Loyalty Programs and Rewards: 
+The system should allow users to earn loyalty points or rewards for their orders, view their order history and reward balance, and redeem rewards for discounts or free items.
+
+### 6. Feedback and Ratings: 
+The system should enable users to rate and provide feedback on the food quality, service, and overall experience, as well as report any issues or concerns to the system administrators.
+
+### 7. Restaurant Management: 
+The system should provide restaurant owners or managers with a dashboard to manage menus, view order history, track sales and inventory, and receive notifications for new orders or feedback.
+
+### 8. Integration with Campus Systems: 
+The system should be integrated with other campus systems such as course schedules or events calendars, to provide relevant and timely recommendations or reminders.
+
+## Non-Functional in Food Ordering System in UTM
+### 1.Performance: 
+The system should be fast and responsive, with quick page loading times and minimal latency between menu browsing, ordering, and checkout. It should also be able to handle a high volume of concurrent users during peak hours, without compromising the user experience or system stability.
+
+### 2.Security: 
+The system should be designed with strong security measures to protect user data, payment information, and other sensitive information. This includes encryption of all data in transit and at rest, secure user authentication, and compliance with relevant data privacy regulations.
+
+### 3.Scalability: 
+The system should be scalable to handle increasing demand and user growth over time, without the need for major system overhauls or performance degradation. This includes the ability to add new dining establishments, menu items, and payment methods as needed.
+
+### 4.Availability: 
+The system should be highly available, with minimal downtime or service interruptions, to ensure that users can access menus and place orders at any time of day or night.
+
+### 5.Accessibility: 
+The system should be designed to be accessible to all users, including those with disabilities. This includes compliance with relevant accessibility standards such as WCAG 2.1, support for assistive technologies such as screen readers, and clear and simple design and user interface.
+
+### 6.Maintainability: 
+The system should be designed to be maintainable, with clear documentation, modular code, and easy-to-use developer tools, to ensure that future updates and improvements can be made efficiently and without disrupting the system's overall functionality.
+
+### 7.Usability: 
+The system should be designed to be easy to use and intuitive for all users, with clear navigation, simple checkout process, and user-friendly design. This includes user testing and feedback loops to continuously improve the user experience over time.
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 

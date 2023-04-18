@@ -166,6 +166,33 @@ The system should have different user roles and permissions, such as student, te
 
 By incorporating these functional requirements into the design and development of a student attendance system, the system can provide a robust and efficient platform for attendance tracking and management, ensuring that it meets the needs of all stakeholders and operates smoothly and effectively.
 
+## Non-functional requirement of student attendance system
+Non-functional requirements for a student attendance system specify how the system should perform, rather than what it should do. These requirements are often related to system performance, security, usability, and other characteristics that affect the overall user experience. Some examples of non-functional requirements for a student attendance system could include:
+
+### 1. Performance
+The system should be responsive and perform well under peak loads, with minimal lag time or delays in taking attendance or generating reports.
+
+### 2. Security
+The system should be secure, with data encryption, firewalls, and multi-factor authentication to protect against unauthorized access, data breaches, and other security threats.
+
+### 3. Usability
+The system should be easy to use and navigate, with a simple and intuitive user interface, clear instructions, and minimal training required for users.
+
+### 4. Accessibility
+The system should be accessible from any device with an internet connection and should support different operating systems and web browsers.
+
+### 5. Availability
+The system should be available at all times, with minimal downtime and disruptions to the attendance tracking process.
+
+### 6. Maintainability
+The system should be easy to maintain, with clear documentation and support for upgrades and patches.
+
+### 7. Compliance
+The system should comply with data protection regulations such as GDPR or CCPA, and other relevant laws and regulations.
+
+By meeting these non-functional requirements, the student attendance system can provide a high-quality user experience, with fast, reliable, and secure attendance tracking and management.
+
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

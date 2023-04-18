@@ -191,6 +191,53 @@ The system should be scalable and able to handle a large number of users and gra
 
 The system should provide adequate support and training resources for users, including documentation, training materials, and a helpdesk or support system. This can help ensure that users are proficient in using the system and can troubleshoot any issues that may arise.
 
+## Non-Functional Requirements
+
+Non-functional requirements for an online student grading system in a university typically include the following:
+
+### 1. Reliability
+
+The system should be reliable and available for use during critical grading periods, such as the end of the semester or during exams. It should have minimal downtime, be resilient to failures, and recover quickly from any disruptions.
+
+### 1. Performance
+
+The system should perform efficiently and provide a responsive user experience, even when handling a large number of concurrent users and grades. It should have fast response times for grade input, calculation, and retrieval, and be able to handle peak loads without significant degradation in performance.
+
+### 2. Scalability
+
+The system should be scalable and able to accommodate the growing number of students, courses, and grades in a university setting. It should be able to handle increasing data volume and user concurrency, and be easily expandable to meet future needs.
+
+### 3. Security
+
+The system should have robust security measures in place to protect sensitive student data, including grades and personal information. It should have mechanisms for authentication and authorization, use encryption to protect data transmission and storage, and have proper access controls to prevent unauthorized access.
+
+### 4. Data Integrity and Privacy
+
+The system should ensure the integrity and accuracy of student grades and data, and prevent unauthorized modifications or tampering. It should also comply with relevant data privacy regulations, such as GDPR or FERPA, and protect student privacy by securely storing and handling their personal information.
+
+### 5. Usability
+
+The system should be user-friendly and easy to use for both faculty and students. It should have a well-designed user interface, provide clear instructions and guidance for users, and minimize the learning curve for new users. It should also be accessible and usable across different devices and platforms.
+
+### 6. Interoperability
+
+The system should be able to integrate with other existing university systems, such as the student information system or learning management system, to ensure seamless data flow and consistency across different systems. It should adhere to relevant standards and protocols for integration.
+
+### 7. Maintenance and Support
+
+The system should be easy to maintain and support, with proper documentation, logging, and monitoring capabilities. It should have a reliable support system in place, with timely response to user inquiries and issues, and regular system updates and patches to ensure system stability and security.
+
+### 8. Disaster Recovery
+
+The system should have proper disaster recovery mechanisms in place, such as regular data backups, redundant systems, and a plan for data recovery in case of system failures, natural disasters, or other emergencies.
+
+### 9. Compliance
+
+The system should comply with relevant legal, regulatory, and institutional policies, such as copyright laws, academic integrity policies, and university regulations related to grading and assessment.
+
+
+These are some common non-functional requirements for an online student grading system in a university. It is important to consider both functional and non-functional requirements when designing, developing, and implementing such a system to ensure its effectiveness, reliability, and security in supporting the grading process for students.
+
 
 ## Summary
 

@@ -158,6 +158,63 @@ The system should have mechanisms for monitoring system health and performance, 
 
 In summary, a hostel management system in a university must have technical specifications that support its features and functions. The system must be secure, scalable, fast, and flexible, with a user-friendly interface and integration capabilities. The system must also have mechanisms for monitoring and maintaining system health and performance.
 
+## Functional requirements
+Functional requirements in a hostel management system in a university refer to the specific features and functionalities that the system must provide to meet the needs of its users. Here are some functional requirements for a hostel management system in a university:
+
+### 1. Student registration
+The system should allow students to register for hostel accommodation online and provide relevant information such as their name, contact details, course, and year of study.
+
+### 2.Room allocation
+The system should allow the hostel management staff to allocate rooms to students based on their preferences, availability of rooms, and other criteria such as gender and medical conditions.
+
+### 3.Billing and payment
+The system should generate bills for accommodation and other services such as laundry and meals, and allow students to make payments online or through other payment modes.
+
+### 4.Room inventory management
+The system should maintain an inventory of hostel rooms, including the availability of rooms, room types, and facilities such as beds, study tables, and wardrobes.
+
+### 5.Maintenance and housekeeping
+The system should allow the hostel management staff to track maintenance requests and schedule housekeeping services for students' rooms and common areas.
+
+### 6.Reporting and analytics
+The system should provide reporting and analytics capabilities to generate insights into hostel occupancy rates, billing trends, and other metrics that can help the university management make informed decisions.
+
+### 7.Security and access control
+The system should have security and access control features to ensure the safety of students and their belongings. This may include features such as CCTV cameras, biometric access control, and security personnel.
+
+### 8.Communication
+The system should provide communication tools such as messaging and notification features to allow hostel management staff to communicate with students and vice versa.
+
+In summary, functional requirements for a hostel management system in a university include features such as student registration, room allocation, billing and payment, room inventory management, maintenance and housekeeping, reporting and analytics, security and access control, and communication tools. These features are essential to ensure that the hostel management system meets the needs of its users and supports the smooth operation of the hostel.
+
+## Non Functional requirements
+Non-functional requirements in a hostel management system in a university refer to the quality attributes that the system should possess to meet the needs of its users. Here are some non-functional requirements for a hostel management system in a university:
+
+### 1.Performance
+The system should be able to handle a large number of concurrent users and provide fast response times to ensure that students can access the system and perform their tasks efficiently.
+
+### 2.Reliability
+The system should be reliable and available 24/7, with minimal downtime to ensure that students can access the system and perform their tasks at any time.
+
+### 3.Security
+The system should be secure and protect the personal information and financial data of students, with appropriate measures such as encryption, access control, and backup and recovery mechanisms.
+
+### 4.Usability
+The system should be easy to use and navigate, with a user-friendly interface that is intuitive and requires minimal training.
+
+### 5.Accessibility
+The system should be accessible to all students, including those with disabilities, with appropriate features such as screen readers and keyboard navigation.
+
+### 6.Scalability
+The system should be scalable and able to handle an increasing number of users and data volumes as the university grows and expands.
+
+### 7.Interoperability
+The system should be interoperable with other systems used in the university, such as the student information system, to ensure that data can be exchanged seamlessly between systems.
+
+### 8.Compliance
+The system should comply with relevant laws and regulations, such as data protection and privacy laws, to ensure that the university is not exposed to legal and financial risks.
+
+In summary, non-functional requirements for a hostel management system in a university include performance, reliability, security, usability, accessibility, scalability, interoperability, and compliance. These requirements are essential to ensure that the system is of high quality, meets the needs of its users, and supports the smooth operation of the hostel.
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
