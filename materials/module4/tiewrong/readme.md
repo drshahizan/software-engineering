@@ -20,7 +20,7 @@ Here are some key steps in requirement engineering for a student financial probl
 
 1.Stakeholder identification and analysis: Identify and involve all relevant stakeholders, including students, university financial staff, administrators, and other key personnel who will use or interact with the system. Understand their perspectives, roles, and responsibilities in relation to the student financial problem system.
 
-2.Requirement elicitation: Gather requirements from stakeholders through various techniques such as interviews, surveys, workshops, and discussions. Understand their needs, challenges, and expectations related to student financial problems, and document them in a structured manner.
+2.Requirement elicitation: Gather requirements from stakeholders through various techniques such as interviews, surveys, workshops, and discussions. Understand their needs, challenges, and expectations related to student financial problems, and document them in a structured manner
 
 3.Requirement documentation: Create clear and comprehensive requirement documents that capture the gathered information. This may include functional requirements (e.g., features, capabilities, and interactions of the system), non-functional requirements (e.g., performance, security, and usability), and other relevant information.
 
@@ -91,3 +91,23 @@ System requirements in a student financial problem system outline the features, 
 
 10.Testing and Quality Assurance: The system should undergo thorough testing and quality assurance processes to identify and fix any defects, ensure system reliability, and validate that it meets the specified requirements. This may include various types of testing, such as functional testing, performance testing, and security testing.
 
+# Functional Requirement
+Functional requirements for a student financial problem system outline the features and functionalities that the system must have to meet the needs of the users. These requirements describe the specific actions, behaviors, and interactions that the system should exhibit. Some examples of functional requirements for a student financial problem system may include:
+
+1.User Registration and Authentication: The system should allow students to register for an account with their relevant information, such as name, contact details, and student ID, and provide secure authentication mechanisms, such as username and password or multi-factor authentication, to ensure secure access to their financial information.
+
+2.Financial Aid Application: The system should provide an online application process for students to apply for financial aid, allowing them to submit required documents, complete necessary forms, and provide relevant information, such as income, expenses, and dependents, as part of the application process.
+
+3.Financial Aid Verification: The system should have workflows and mechanisms for verifying the accuracy and authenticity of the financial information provided by students, such as income verification, citizenship verification, and other relevant checks, to ensure the integrity of the financial aid process.
+
+4.Financial Aid Awarding: The system should have rules and algorithms for determining the eligibility of students for different types of financial aid, such as grants, scholarships, loans, or work-study programs, based on their financial information and other criteria. It should generate award letters or notifications to inform students of their financial aid awards.
+
+5.Budgeting and Expense Tracking: The system should provide tools for students to create and manage budgets, track their expenses, and set financial goals. It should allow students to categorize expenses, set budget limits, and track their spending against budgeted amounts. It should also provide alerts or notifications when students approach or exceed budget limits.
+
+6.Billing and Payment Management: The system should generate bills or invoices for tuition fees, room and board charges, and other relevant expenses, based on the student's enrollment status and financial aid awards. It should provide options for students to make payments, view payment history, and set up payment plans, if applicable.
+
+7.Communication and Notifications: The system should have features for effective communication between students and university financial staff, such as messaging, email notifications, or alerts. It should notify students of important financial deadlines, requirements, and changes in their financial status, such as disbursement of financial aid funds or outstanding payment balances.
+
+8.Reporting and Analytics: The system should provide reporting and analytics capabilities to generate financial reports, track financial metrics, and provide insights into financial trends and patterns. It may include features such as dashboards, data visualization, and ad-hoc reporting to allow financial staff to monitor and analyze the financial status of students and the overall financial health of the university.
+
+9.Document Management: The system should allow students to upload and manage relevant financial documents, such as tax forms, bank statements, or other required documents for financial aid application and verification processes. It should provide secure storage and retrieval of these documents for financial staff to review and verify.
