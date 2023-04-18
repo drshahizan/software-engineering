@@ -118,7 +118,7 @@ Functional requirements are the specific features and capabilities that a studen
 
 <br/>
 
-## What should do BEFORE, DURING and AFTER Interview
+## Interview
 
 Before the interview
 
@@ -154,7 +154,28 @@ After the Interview:
 
 - Follow-up with Stakeholders: Follow-up with stakeholders to ensure that their concerns and suggestions have been addressed, and keep them informed of the progress of the project.
 
-Overall, conducting interviews with stakeholders is an important part of the requirements gathering process, as it provides valuable insights into the needs and preferences of the users. By preparing carefully, asking open-ended questions, and listening carefully to stakeholders' responses, you can gather valuable information that will help you to design and develop a student health and wellness management system that meets the needs of its users.
+Tools
+1. Questionnaire: Prepare a set of questions to ask stakeholders about their needs and requirements for the system. This can help you gather structured data and insights from stakeholders.
+
+2. Interview Guide: Prepare an interview guide with open-ended questions to encourage stakeholders to share their opinions and experiences. This can help you gather more qualitative data and understand stakeholders' perspectives.
+
+3. Demo or prototype: Create a demo or prototype of the system to show stakeholders how it works and gather feedback on its features and usability.
+
+4. Use cases: Prepare use cases that describe specific scenarios in which the system will be used. This can help stakeholders understand how the system will be used in practice and identify any gaps or issues in its design.
+
+5. Storyboards: Create storyboards that depict different user scenarios and use them to engage stakeholders in discussions about the system's design and functionality.
+
+6. Surveys: Prepare a survey to collect feedback from stakeholders who may not be available for an in-person interview. This can help you gather insights from a broader group of stakeholders.
+
+7. Whiteboard and markers: Use a whiteboard and markers to brainstorm and sketch out ideas during the interview. This can help stakeholders visualize the system's design and functionality and provide immediate feedback on its feasibility.
+
+
+
+
+
+
+Regenerate response
+
 
 
 ## Contribution 🛠️
