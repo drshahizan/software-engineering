@@ -79,8 +79,9 @@ The system should be able to integrate with other academic systems, such as stud
 
 In the context of an academic advisor system, the requirements engineering process should focus on ensuring that the system provides an intuitive and efficient user interface for students and faculty members to provides a comprehensive solution for academic advising and support. The system should also be designed to handle large volumes of data and be scalable to accommodate future growth in the university's student population.
 
+
 ## Stakeholders
-Stakeholders in an academic advisor system can be broadly categorized into three groups:
+Stakeholders in an academic advisor system can be broadly categorized into seven groups:
 
 ### 1. Students
 Students are the primary users of the academic advising system. They rely on the system to access information about course schedules, academic requirements, and resources, and to connect with their advisors for guidance and support.
