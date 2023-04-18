@@ -1,6 +1,6 @@
 /* Type selector styles */
 h1 {
-    color: rgb(216, 168, 9);
+    color: red;
   }
   
   p {
@@ -9,7 +9,7 @@ h1 {
   
   /* Class selector styles */
   .text {
-    color: rgb(136, 136, 170);
+    color: blue;
   }
   
   .heading {
@@ -25,9 +25,4 @@ h1 {
   .text#special-text {
     color: green;
     font-size: 24px;
-  }
-
-  .text2#special-text {
-    color: rgb(71, 69, 159);
-    font-size: 34px;
   }
