@@ -23,7 +23,7 @@ The fitness tracking app will include the following features:
 - Integration with wearable devices such as fitness trackers and heart rate monitors
 - Social features for sharing progress with friends and other users
 - In-app purchases for premium features such as personalized workout plans
-- 
+
 ## Stakeholders
 The stakeholders for this project include:
 The development team, who will be responsible for designing, developing, and maintaining the app
