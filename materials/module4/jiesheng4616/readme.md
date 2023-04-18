@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Software Requirements Document (SRD): Your topic
+# Software Requirements Document (SRD): Mobile App for Fitness Tracking
 
 
 ## Introduction
