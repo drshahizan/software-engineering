@@ -67,6 +67,40 @@ Manage the requirements throughout the development process, including tracking c
 
 By following these steps, the requirements engineering process can ensure that the Academic Advisor System is developed to meet the needs of its stakeholders and provides a reliable and efficient solution for managing academic advising.
 
+## User Requirements for Academic Advisor System
+The Academic Advisor System is a software application designed to assist academic advisors in managing student records and providing support for academic success. The system will provide features for managing student information, course recommendations, and communication with students. The following are user requirements for the Academic Advisor System:
+
+### Student Management
+The system shall allow academic advisors to manage student records, including personal information, academic history, and course registrations.
+
+### Course Recommendations
+The system shall provide academic advisors with the ability to make course recommendations to students based on their academic history and interests.
+
+### Communication
+The system shall allow academic advisors to communicate with students through messaging or email, to provide academic support and answer questions.
+
+### Scheduling
+The system shall allow academic advisors to schedule appointments with students and keep track of their availability.
+
+### Reports
+The system shall provide academic advisors with the ability to generate reports on student academic performance, course enrollments, and other relevant information.
+
+### Accessibility
+The system shall be accessible to all academic advisors, including those with disabilities.
+
+### Security
+The system shall have strong security measures in place to protect student data, including encryption and password protection.
+
+### User Interface
+The system shall have a user-friendly interface that is easy to navigate and use.
+
+### Performance
+The system shall be designed to handle a large volume of users and transactions, with fast response times and minimal downtime.
+
+### Compatibility
+The system shall be compatible with different devices, operating systems, and web browsers.
+
+
 
 
 ## Contribution 🛠️
