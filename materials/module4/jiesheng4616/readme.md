@@ -43,14 +43,6 @@ The following use cases have been identified for the fitness tracking app:
 - Sharing progress with friends and other users
 - Purchasing premium features such as personalized workout plans
 
-## Functional Requirements
-The fitness tracking app must include the following features:
-- A user-friendly interface for tracking workouts and setting goals
-- Integration with wearable devices such as fitness trackers and heart rate monitors
-- Personalized workout recommendations based on user preferences and fitness level
-- Social features for sharing progress with friends and other users
-- In-app purchases for premium features such as personalized workout plans
-
 ## Non-functional Requirements
 The fitness tracking app must meet the following non-functional requirements:
 - High availability and reliability, with minimal downtime
@@ -144,6 +136,35 @@ Here are some system requirements that should be included in the SRD:
 Localization: The app should be available in different languages and should be able to support different regional settings and preferences.
 
 By including these system requirements in the SRD, you can ensure that the app is technically robust and provides a seamless user experience.
+
+## Functional requirements in Mobile App for Fitness Tracking
+
+Here are some functional requirements that should be included in the SRD:
+
+- User registration and login: The app should allow users to create an account and log in to the app to access all the features.
+
+- Personalized dashboard: The app should display a personalized dashboard for each user, showing their progress, goals, and workout history.
+
+- Physical activity tracking: The app should track physical activity, including steps taken, distance walked, and active minutes.
+
+- Exercise tracking: The app should allow users to track their exercise sessions, such as running, cycling, or weight lifting.
+
+- Goal setting: The app should allow users to set their fitness goals, including weight loss, muscle gain, or overall fitness improvement.
+
+- Workout plans and routines: The app should provide personalized workout plans based on user preferences and fitness level. It should also allow users to customize their workout plans and create their own routines.
+
+- Nutrition tracking: The app should allow users to track their nutrition and calorie intake, as well as provide personalized recommendations based on their goals.
+
+- Social features: The app should allow users to connect with friends and share their progress on social media platforms. It should also include challenges and competitions to keep users motivated.
+
+- Personalized coaching: The app should provide personalized coaching based on user progress and feedback. It should also provide tips and advice on fitness and nutrition.
+
+- Integration with wearable devices: The app should be able to integrate with wearable devices, such as fitness trackers or smartwatches, to collect data on physical activity and exercise sessions.
+
+- Gamification features: The app should include gamification features, such as badges or rewards, to motivate users to stay active and reach their goals.
+
+By including these functional requirements in the SRD, you can ensure that the app provides all the necessary functions and features to meet the needs of users and provide a valuable and engaging experience.
+
 
 
 ## Contribution 🛠️
