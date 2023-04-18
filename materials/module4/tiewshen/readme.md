@@ -8,46 +8,51 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): Student attendance management system
-<b>Key steps in creating student attendance management system:</b>
+## Key steps in creating student attendance management system:
 
-<b>1. Define the scope:</b><br>
+### 1. Define the scope:</b><br>
 Start by defining the scope of the system. What types of attendance do you want to track (e.g., class attendance, event attendance, lab attendance)? What types of reports do you want to generate? What are the key features you want to include in the system?
 
-<b>2. Design the system architecture:</b><br> 
+### 2. Design the system architecture:</b><br> 
 Once you have defined the scope of the system, you can start designing the system architecture. This will involve deciding on the programming language, database system, and other tools you will use to build the system.
 
-<b>3. Develop the student database:</b> <br>
+### 3. Develop the student database:</b> <br>
 The first step in building the system is to develop a student database. This database should include information such as student names, student IDs, and class schedules.
 
-<b>4. Implement the attendance tracking system:</b> <br>
+### 4. Implement the attendance tracking system:</b> <br>
 Once you have developed the student database, you can start implementing the attendance tracking system. This system should allow teachers to mark attendance for each student in their classes. It should also allow students to view their own attendance records.
 
-<b>5. Generate reports:</b> <br>
+### 5. Generate reports:</b> <br>
 Once the attendance data has been collected, the system should be able to generate reports. Reports can be used to track attendance trends over time, identify students who are frequently absent, and monitor attendance rates for specific classes or events.
 
-<b>6. Add analysis tools:</b> <br>
+### 6. Add analysis tools:</b> <br>
 In addition to reports, the system should include analysis tools. These tools can be used to identify patterns in attendance data, such as which classes have the highest attendance rates or which students are most likely to be absent.
 
-<b>7. Test and refine the system:</b> <br>
+### 7. Test and refine the system:</b> <br>
 After the system has been developed, it should be thoroughly tested to ensure that it is functioning as expected. Any bugs or issues should be addressed, and the system should be refined based on feedback from users.
 
-<b>8. Deploy the system:</b> <br>
+### 8. Deploy the system:</b> <br>
 Once the system has been tested and refined, it can be deployed to the university. Training should be provided to teachers and students to ensure that they understand how to use the system.
 
-##Requirement Engineering
+## Requirement Engineering
 Requirement engineering is the process of eliciting, analyzing, specifying, validating, and managing the requirements of a software system. The goal of requirement engineering is to ensure that the software system meets the needs of its stakeholders and delivers the desired functionality.
 
 The following are the key activities involved in requirement engineering:
 
-###Eliciting requirements: The first step in requirement engineering is to elicit requirements from stakeholders, such as customers, users, and domain experts. This can be done through various techniques, such as interviews, surveys, and workshops.
+### Eliciting requirements: 
+The first step in requirement engineering is to elicit requirements from stakeholders, such as customers, users, and domain experts. This can be done through various techniques, such as interviews, surveys, and workshops.
 
-###Analyzing requirements: Once the requirements have been elicited, they need to be analyzed to ensure that they are complete, consistent, and unambiguous. This can involve breaking down the requirements into smaller, more manageable parts, and identifying any conflicts or inconsistencies.
+### Analyzing requirements: 
+Once the requirements have been elicited, they need to be analyzed to ensure that they are complete, consistent, and unambiguous. This can involve breaking down the requirements into smaller, more manageable parts, and identifying any conflicts or inconsistencies.
 
-###Specifying requirements: The next step is to specify the requirements in a clear and precise manner. This involves documenting the requirements in a format that can be easily understood by all stakeholders. Common formats for specifying requirements include use cases, user stories, and functional requirements.
+### Specifying requirements: 
+The next step is to specify the requirements in a clear and precise manner. This involves documenting the requirements in a format that can be easily understood by all stakeholders. Common formats for specifying requirements include use cases, user stories, and functional requirements.
 
-###Validating requirements: After the requirements have been specified, they need to be validated to ensure that they meet the needs of stakeholders. This can be done through various techniques, such as reviews, inspections, and testing.
+### Validating requirements: 
+After the requirements have been specified, they need to be validated to ensure that they meet the needs of stakeholders. This can be done through various techniques, such as reviews, inspections, and testing.
 
-###Managing requirements: Finally, the requirements need to be managed throughout the software development process. This involves tracking changes to the requirements, managing conflicts, and ensuring that the requirements are being met as the software is being developed.
+### Managing requirements: 
+Finally, the requirements need to be managed throughout the software development process. This involves tracking changes to the requirements, managing conflicts, and ensuring that the requirements are being met as the software is being developed.
 
 The importance of requirement engineering cannot be overstated. It helps ensure that the software system meets the needs of its stakeholders, and that the development process is more efficient and effective. A thorough and well-executed requirement engineering process can lead to a successful software system that meets the needs of its stakeholders and delivers the desired functionality.
 
