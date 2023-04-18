@@ -81,6 +81,40 @@ Executives may be responsible for approving the budget for the attendance system
 
 It's important to engage with all these stakeholders throughout the development process to ensure that their requirements and concerns are addressed and that the system meets their needs.
 
+## Functional requirements<br>
+Functional requirements for an employee attendance system can include:
+
+#### 1.Time tracking
+The system should allow employees to track their hours worked, including start and end times, breaks, and overtime. It should also allow for different time tracking methods, such as clocking in and out, manual time entry, or scanning a badge.
+
+#### 2.Time off requests
+The system should allow employees to request time off, such as vacation, sick leave, or personal days. Managers should be able to approve or deny these requests and view employee time-off balances.
+
+#### 3.Reporting and analytics
+The system should provide managers with a range of reports and analytics, including attendance summaries, overtime calculations, and absenteeism trends. This information can help managers identify issues and make informed decisions.
+
+#### 4.Integration with payroll
+The system should integrate with the organization's payroll system to ensure accurate and timely payment of employees.
+
+#### 5.Compliance with regulations
+The system should comply with relevant labor laws and regulations, such as minimum wage requirements, overtime rules, and record-keeping requirements.
+
+#### 6.Mobile accessibility
+The system should be accessible from mobile devices, allowing employees to track their time and request time off on-the-go.
+
+#### 7.Multiple location support
+The system should support multiple locations, allowing employees to clock in and out at different sites and allowing managers to track attendance across multiple locations.
+
+#### 8.Customization
+The system should allow for customization of attendance policies, such as rules for overtime, breaks, and shift differentials.
+
+#### 9.Real-time updates
+The system should provide real-time updates of employee attendance, allowing managers to respond quickly to attendance issues.
+
+#### 10.User-friendly interface
+The system should have a user-friendly interface that is easy to use for both employees and managers.
+
+These functional requirements are just a starting point and can vary depending on the specific needs of the organization. It's important to engage with stakeholders to identify their requirements and to ensure that the system meets their needs.
 
 
 
