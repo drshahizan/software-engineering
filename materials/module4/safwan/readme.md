@@ -101,6 +101,7 @@ Security Requirement: The UMS should have robust authentication mechanisms, such
 Accessibility Requirement: The UMS should comply with accessibility standards, such as Web Content Accessibility Guidelines (WCAG), to ensure that it is usable by users with disabilities, including visual impairments and motor disabilities.
 
 System Requirements:
+
 Software Requirement: The UMS should be developed using modern programming languages and frameworks, such as Java, PHP, or Python, with a robust and scalable database system for storing student information, course data, and other relevant data.
 
 Hardware Requirement: The UMS should be deployed on a reliable and scalable server infrastructure with sufficient processing power, memory, and storage capacity to handle the expected load of concurrent users and data storage requirements.
