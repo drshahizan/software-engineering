@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Software Requirements Document (SRD): Electronic Appliance Registration System
+# Software Requirements Document (SRD): Electronic Appliance Registration System for Universities
 
 ### 1. Define the Purpose and Scope: 
 
