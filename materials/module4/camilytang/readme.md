@@ -141,6 +141,17 @@ The requirements specification is reviewed to ensure that it is accurate and com
 Requirements management involves managing the requirements throughout the development and maintenance of the event management system. This includes ensuring that the requirements are properly documented, tracked, and updated as necessary. It also involves managing changes to the requirements as the system evolves, and ensuring that all stakeholders are informed of any changes.
 
 
+## Stakeholders
+### 1. Event Planners/Organizers: 
+Event planners/organizers are the primary stakeholders involved in the creation of an event management system. They are responsible for designing, planning, and executing the event and use the system to manage various aspects of the event such as registration, scheduling, and communication with attendees.
+
+### 2. Attendees: 
+Attendees are another important stakeholder in the event management system. They use the system to register for the event, view the event schedule, and receive updates and notifications regarding the event. It is essential to design the system in a way that is user-friendly and meets the needs of attendees.
+
+### 3. University Administrators
+University administrators are an important stakeholder in the event management system, especially if the event is being hosted by a university or educational institution. They can provide valuable guidance and input on a variety of aspects related to the event, such as budgetary constraints, branding guidelines, and specific policies and procedures that must be followed.
+
+
 ## User and System Requirements
 ### User Requirements:
 
