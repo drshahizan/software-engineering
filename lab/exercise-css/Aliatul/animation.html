@@ -12,11 +12,22 @@
         background-color: #f2f2f2;
       }
       .box {
-        width: 200px;
+        width: 100px;
         height: 200px;
         margin: 20px;
-        background-color: #0077b6;
-        border-radius: 5px;
+        background-color: #5895b5;
+        border-radius: 2px;
+        animation: box 2s ease-in-out infinite alternate;
+        transition: transform 0.5s ease-out;
+        cursor: pointer;
+      }
+
+      .box2 {
+        width: 100px;
+        height: 200px;
+        margin: 20px;
+        background-color: #c87dba;
+        border-radius: 2px;
         animation: box 2s ease-in-out infinite alternate;
         transition: transform 0.5s ease-out;
         cursor: pointer;
@@ -37,8 +48,10 @@
   <body>
     <div class="container">
       <div class="box"></div>
+      <div class="box2"></div>
       <div class="box"></div>
-      <div class="box"></div>
+      <div class="box2"></div>
+
     </div>
   </body>
 </html>
