@@ -5,9 +5,9 @@
 <a href="https://github.com/drshahizan/software-engineering/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/software-engineering?color=2b9348"></a>
 ![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/software-engineering)
 
-Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): Student Engagement System
+## Key steps in creating an Event Management System
 ### 1.Identify needs and goals
 One key step in creating a Student Engagement System is to identify the specific needs and goals of the educational institution and its students. This involves conducting research and gathering input from various stakeholders, such as students, instructors, and administrators.
 ### 2.Define system requirements
@@ -19,12 +19,7 @@ After the system architecture and user interface have been designed, the next st
 ### 5.Deploy and maintain the system
 Finally, the system must be deployed and maintained to ensure that it continues to meet the needs of the educational institution and its users. This includes providing ongoing technical support and making updates and improvements to the system as needed.
 
-## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
-You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
-
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
 
 
 
