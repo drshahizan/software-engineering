@@ -36,3 +36,5 @@ Data Integrity: The system should ensure data integrity, accuracy, and consisten
 Integration: The system should support integration with other relevant university systems, such as student information systems, financial systems, and learning management systems, to enable seamless data exchange and workflow integration.
 
 Compliance: The system should comply with relevant laws, regulations, and policies, such as data privacy regulations, copyright laws, and institutional policies related to academic and administrative processes.
+
+## The requirements engineering process
