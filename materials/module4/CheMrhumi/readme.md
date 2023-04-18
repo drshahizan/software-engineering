@@ -1,4 +1,4 @@
-# food ordering system on campus
+# Software Requirements Documents (SRD) : Food Ordering System on Campus
 
 #1.Define the Scope and Requirements:
 This step involves clearly defining the scope and requirements of the food ordering system. Consider factors such as types of food to be offered, delivery or pickup options, payment methods, integration with existing systems (such as a campus ID card system or a dining services platform), and any specific needs or preferences of the campus community. This step sets the foundation for the development process by outlining what the system needs to achieve and what functionalities it should have.
