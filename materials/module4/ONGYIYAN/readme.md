@@ -89,6 +89,21 @@ Don't forget to hit the :star: if you like this repo.
 
 7. **Dashboard and User Interface:** The system should provide an intuitive and user-friendly dashboard and user interface, allowing users to easily navigate and access key functions and information within the system.
 
+## Non-functional requirements
+1. **Usability:** The system should be easy to use, with a clear and intuitive user interface that allows users to easily navigate and access key functions and information. The system should also provide clear and concise error messages when errors occur.
+
+3. **Performance:** The system should be fast and responsive, with minimal load times and latency. The system should also be able to handle a large number of users and data transactions without significant slowdowns or delays.
+
+5. **Reliability:** The system should be reliable and available at all times, with minimal downtime or disruptions. The system should also be able to recover quickly from any failures or errors.
+
+7. **Security:** The system should be secure, with robust access controls, data encryption, and authentication mechanisms to protect sensitive student health information and ensure compliance with relevant privacy regulations.
+
+9. **Scalability:** The system should be scalable to accommodate growth and expansion, with the ability to handle an increasing number of users, data, and functionality without significant reconfiguration or upgrades.
+
+11. **Accessibility:** The system should be accessible to users with disabilities, such as visual impairments or mobility limitations, with support for assistive technologies such as screen readers and keyboard shortcuts.
+
+13. **Interoperability:** The system should be able to integrate with other systems and applications, such as electronic health records, student information systems, and appointment scheduling software, to streamline processes and ensure data consistency across systems.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 

@@ -55,10 +55,10 @@ The system should generate automatic reports of student absences, tardiness, and
 <li> Alert system: <br>
 The system should generate alerts for teachers and administrators when students are absent, tardy, or leave early.</li>
 
-<li> Reporting: <br><br>
+<li> Reporting: <br>
 The system should allow teachers and administrators to generate reports of attendance for individual students or for the entire class, as well as summary reports.</li>
 
-<li> Integration with other systems: <br><br><br>
+<li> Integration with other systems: <br>
 The system should be able to integrate with other school systems, such as the student information system (SIS), to ensure consistency and accuracy of data.</li>
 
 <li> Flexibility: <br>

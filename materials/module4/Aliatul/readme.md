@@ -80,31 +80,54 @@ Describe the specific features and functions that a delivery service system for 
 
 - Delivery personnel tracking : The system should allow administrators to track the location of delivery personnel and monitor their delivery activities.
 
-## 5. Choose a technology platform :
+## 5. Non Functional requirements
+Describe the characteristics that a delivery service system for a university must have to perform effectively and efficiently. Here are some non-functional requirements that a delivery service system for a university should consider:
+
+  - Performance: The system should be able to handle a large volume of requests and data processing within a reasonable time frame.
+
+  - Availability: The system should be available 24/7 with minimal downtime for maintenance or upgrades.
+
+  - Reliability: The system should be reliable and ensure the delivery of packages on time with minimal errors.
+
+  - Security: The system should have strong security measures to ensure the protection of user data, including encryption, authentication, and authorization.
+
+  - Scalability: The system should be able to accommodate an increasing number of users and packages without affecting performance.
+
+  - Usability: The system should be easy to use and navigate for both users and administrators.
+
+  - Accessibility: The system should be accessible to all users, including those with disabilities.
+
+  - Compatibility: The system should be compatible with various devices, platforms, and web browsers.
+
+  - Maintainability: The system should be easy to maintain and upgrade with minimal disruption to users.
+
+  - Compliance: The system should comply with relevant regulations and standards, such as data privacy laws and industry standards.
+
+## 6. Choose a technology platform :
 
 Select a technology platform for the system, including the programming language, database, and web server. Ensure that the technology platform is scalable, secure, and easy to maintain.
 
-## 6. Design the system architecture :
+## 7. Design the system architecture :
 
 Design the system architecture, including the database, user interface, and system components. Ensure that the architecture is scalable, secure, and follows best practices.
 
-## 7. Develop and test the system :
+## 8. Develop and test the system :
 
 Develop the system using a software development life cycle (SDLC) methodology. Test the system thoroughly before deployment to ensure that it meets the stakeholders' needs and requirements.
 
-## 8. Deploy and maintain the system :
+## 9. Deploy and maintain the system :
 
 Deploy the system to the production environment. Maintain and update the system regularly to ensure that it continues to meet the stakeholders' needs and requirements.
 
-## 9. Establish partnerships with carriers and payment providers :
+## 10. Establish partnerships with carriers and payment providers :
 
 Establish partnerships with carriers to ensure reliable delivery services and payment providers to process payments securely and efficiently.
 
-## 10. Implement effective parcel tracking :
+## 11. Implement effective parcel tracking :
 
 Implement an effective parcel tracking system to enable shippers and recipients to track their parcels' status in real-time.
 
-## 11. Monitor and improve system performance :
+## 12. Monitor and improve system performance :
 
 Continuously monitor the system performance, identify areas of improvement, and implement changes to enhance the system's performance.
 

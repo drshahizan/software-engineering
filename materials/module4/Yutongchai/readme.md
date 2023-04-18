@@ -127,6 +127,19 @@ The ability for users to create and manage their own profiles, including persona
 
 <b>8.Notification: </b>Users should be able to receive notifications related to friend requests, group invitations, event updates, or any other important information related to their network.
 
+##Non-Functional Requirements
+Non-functional requirements in a University Social Networking System are related to the system's performance, usability, security, reliability, and maintainability. These requirements are important to ensure that the system meets the needs of the users and operates effectively and efficiently.
+
+* Performance requirements include aspects such as response time, throughput, and capacity. Users of the system expect it to respond quickly to their requests and provide a fast and seamless experience. The system should be able to handle a large number of users simultaneously and provide adequate bandwidth and processing power to support its operation.
+
+* Usability requirements focus on how easy and intuitive the system is to use for the target users. The system should have a user-friendly interface that is easy to navigate and understand. The system should also be accessible to all users, including those with disabilities.
+
+* Security requirements are critical to ensure that the system is secure and protected against unauthorized access, data breaches, and cyber-attacks. The system should implement appropriate security measures such as authentication, encryption, and access control to protect users' data and maintain confidentiality.
+
+* Reliability requirements ensure that the system is available and functional when needed. The system should have a high level of availability and uptime to ensure that users can access the system whenever they need it.
+
+* Maintainability requirements focus on how easy it is to maintain and update the system. The system should have well-documented code, be easy to troubleshoot, and allow for easy updates and enhancements.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
