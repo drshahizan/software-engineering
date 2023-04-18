@@ -30,34 +30,23 @@ The final step is to maintain the system. This will involve fixing bugs, adding 
 Overall, creating a student health and wellness management system requires careful planning, design, development, deployment, and maintenance. It is important to involve stakeholders throughout the process to ensure that the system meets their needs and is user-friendly.
 
 
----
-# Requirement Engineering
+<br/>
+
+## Requirement Engineering
 
 Overview of the steps involved in the requirement engineering process for a health and wellness management system:
 
-## 1. Elicitation:
-This involves identifying and gathering information from stakeholders such as students, healthcare professionals, and school administrators. Different techniques can be used for elicitation, including interviews, surveys, focus groups, and observation. The goal of this step is to understand the needs and requirements of the stakeholders for the health and wellness management system.
+1. Elicitation: This involves identifying and gathering information from stakeholders such as students, healthcare professionals, and school administrators. Different techniques can be used for elicitation, including interviews, surveys, focus groups, and observation. The goal of this step is to understand the needs and requirements of the stakeholders for the health and wellness management system.
 
-## 2. Analysis:
-This step involves analyzing the information gathered during the elicitation process. The aim is to identify the features, functions, and requirements of the system. The analysis also helps to identify any constraints, risks, and challenges that may affect the system development.
+2. Analysis: This step involves analyzing the information gathered during the elicitation process. The aim is to identify the features, functions, and requirements of the system. The analysis also helps to identify any constraints, risks, and challenges that may affect the system development.
 
-## 3. Specification:
-In this step, the requirements are documented in detail. The specification includes a description of the system's features, functions, and constraints. The requirements specification can take the form of a software requirements specification document, which provides a detailed description of the system requirements.
+3. Specification: In this step, the requirements are documented in detail. The specification includes a description of the system's features, functions, and constraints. The requirements specification can take the form of a software requirements specification document, which provides a detailed description of the system requirements.
 
-## 4. Validation:
-Once the requirements specification is complete, it must be validated to ensure that it is complete, accurate, and consistent. This can be done through peer review, walkthroughs, and inspections. Validation ensures that the requirements accurately represent the stakeholders' needs and requirements for the health and wellness management system.
+4. Validation: Once the requirements specification is complete, it must be validated to ensure that it is complete, accurate, and consistent. This can be done through peer review, walkthroughs, and inspections. Validation ensures that the requirements accurately represent the stakeholders' needs and requirements for the health and wellness management system.
 
-## 5. Verification:
-This step involves ensuring that the requirements can be implemented in the system design and development. Verification checks the feasibility of the requirements, including their compatibility with existing technology and infrastructure.
+5. Verification: This step involves ensuring that the requirements can be implemented in the system design and development. Verification checks the feasibility of the requirements, including their compatibility with existing technology and infrastructure.
 
-## 6. Management:
-Requirement management involves tracking and controlling changes to the requirements throughout the system development process. This includes documenting any changes made to the requirements, assessing the impact of those changes, and ensuring that the changes are communicated to all stakeholders.
-
-<br/>
-Overall, the requirement engineering process for a health and wellness management system is a critical step in the development of the system. It helps to ensure that the system meets the needs and requirements of stakeholders, is feasible to implement, and is documented and validated throughout the development process.
-
-
-
+6. Management: Requirement management involves tracking and controlling changes to the requirements throughout the system development process. This includes documenting any changes made to the requirements, assessing the impact of those changes, and ensuring that the changes are communicated to all stakeholders.
 
 
 

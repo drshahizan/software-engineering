@@ -9,6 +9,16 @@ Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): Bus Tracking System
 
+## Stackholder
+### 1.Students: 
+Students are the primary users of the bus tracking system. They need to know the real-time location and arrival time of buses to plan their journeys, avoid delays, and reach their classes and other activities on time.
+
+### 2.Faculty and staff:
+Faculty and staff members also use the bus system to commute to and from the campus. They need to know the bus schedules and routes to plan their travel and avoid any disruptions.
+
+### 3.University administration:
+The university administration is responsible for managing the bus system and ensuring that it operates efficiently and effectively. They need to monitor the system's performance, track usage statistics, and identify areas for improvement.
+
 ## Key step in creating Bus tracking system for university
 
 ### 1.Define the requirements:
@@ -36,27 +46,27 @@ Deploy the bus tracking system on a production environment that can handle high 
 Regularly maintain and improve the bus tracking system based on user feedback and changing needs. Keep the system up-to-date with the latest technology and security standards to ensure its continued reliability and functionality.
 
 
-##Requirement Engineering process for bus tracking system in university
+## Requirement Engineering process for bus tracking system in university
 
-Requirements elicitation:
+### 1.Requirements elicitation:
 This step involves gathering requirements from different stakeholders, such as bus passengers, bus operators, and other relevant parties. The requirements can be collected through interviews, surveys, focus groups, and other methods. The aim is to identify the needs and expectations of the stakeholders and translate them into specific functional and non-functional requirements.
 
-Requirements analysis:
+### 2.Requirements analysis:
 In this step, the requirements are analyzed to identify any inconsistencies, conflicts, or missing information. The requirements are categorized and prioritized based on their importance to the stakeholders and the feasibility of implementing them. The requirements analysis helps to ensure that the requirements are complete, unambiguous, and achievable within the given constraints.
 
-Requirements specification:
+### 3.Requirements specification:
 The requirements are documented in a software requirement specification (SRS) document that serves as the basis for designing and developing the system. The SRS document should include a description of the system, the functional and non-functional requirements, user interface specifications, and other relevant details.
 
-Requirements validation:
+### 4.Requirements validation:
 The requirements are validated to ensure that they are accurate, complete, and feasible. Validation can be done through reviews, walkthroughs, or simulations. The aim is to detect and correct any errors or inconsistencies in the requirements before the system is developed.
 
-Requirements management:
+### 5.Requirements management:
 This step involves managing changes to the requirements throughout the software development life cycle. Any changes to the requirements should be documented and communicated to all relevant stakeholders. The aim is to ensure that the system meets the evolving needs and expectations of the stakeholders.
 
-Requirements traceability:
+### 6.Requirements traceability:
 Requirements traceability involves establishing links between the requirements and other artifacts in the software development process, such as design documents, test cases, and code. The aim is to ensure that the requirements are met at each stage of the development process and that any changes to the requirements are reflected in the final product.
 
-Requirements prioritization:
+### 7.Requirements prioritization:
 Requirements prioritization involves ranking the requirements based on their importance to the stakeholders and the feasibility of implementing them. The aim is to ensure that the most critical requirements are implemented first and that the system meets the needs and expectations of the stakeholders.
 
 
