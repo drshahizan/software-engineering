@@ -135,6 +135,60 @@ Depending on the specific requirements of the university, other stakeholders suc
 
 Involving key stakeholders throughout the development process can help ensure that the online student grading system meets the needs and expectations of all relevant parties, and is effectively integrated into the university's academic processes and policies.
 
+## Functional Requirements
+
+Functional requirements for an online student grading system in a university typically include the following:
+
+### 1. User Authentication and Authorization
+
+The system should have secure user authentication and authorization mechanisms to ensure that only authorized users, such as faculty and administrators, can access and manage grades. This may include features such as password protection, multi-factor authentication, and role-based access control.
+
+### 2. Grade Input and Management
+
+The system should allow faculty to input and manage grades for students, including the ability to input grades for different types of assessments, such as assignments, exams, or projects. It should support various grading methods, such as points-based, weighted, or percentage-based, and allow for customization of grading scales or rubrics.
+
+### 3. Grade Calculation and Aggregation
+
+The system should accurately calculate and aggregate grades based on the input provided by faculty. It should support automated grade calculations, including weighted averages or other custom calculations, and allow for customization of grade calculation methods based on the university's grading policies.
+
+### 4. Grade Display and Access
+
+The system should allow students to view their grades, providing them with access to their own grades in a secure and confidential manner. It should display grades in a clear and organized format, and provide options for students to review and seek clarification on their grades, if needed.
+
+### 5. Reporting and Analytics
+
+The system should provide reporting and analytics capabilities, allowing faculty and administrators to generate reports on student performance, class averages, and other relevant metrics. Reports should be customizable, exportable, and provide insights into student performance trends, class statistics, and other relevant data.
+
+### 6. Communication and Feedback
+
+The system should facilitate communication and feedback between faculty and students regarding grades. It should allow faculty to provide comments, feedback, or explanations for grades, and provide a mechanism for students to communicate with faculty regarding their grades or seek clarification.
+
+### 7. Grade Revision and Appeals
+
+The system should allow for grade revision or appeals, providing a formal process for students to request a review of their grades if they believe there has been an error or discrepancy. The system should track and manage grade revision or appeal requests, and provide a transparent and documented process for resolution.
+
+### 8. Academic Integrity
+
+The system should support measures to ensure academic integrity, such as plagiarism detection, and provide tools for faculty to detect and manage instances of academic dishonesty. It should also provide mechanisms for reporting and addressing academic integrity violations.
+
+### 9. Integration with Existing Systems
+
+The system should integrate with existing university systems, such as the student information system or learning management system, to ensure seamless data flow and consistency across different systems. This may include integration with student enrollment data, course information, or student profiles.
+
+### 10. System Administration
+
+The system should have administrative features to manage user accounts, permissions, system settings, and other system-level configurations. This may include features such as user management, system backups, system updates, and monitoring.
+
+### 11. Security and Data Privacy
+
+The system should have robust security measures in place to protect sensitive student data, including encryption, authentication, and authorization controls. It should also comply with relevant data privacy regulations, such as GDPR or FERPA, and ensure that only authorized users have access to student grades.
+
+### 12. Scalability and Performance: The system should be scalable and able to handle a large number of users and grades, especially in a university setting where there may be a high volume of students and courses. It should also perform efficiently and provide a responsive user experience, even during peak usage times.
+
+### 13. Support and Training
+
+The system should provide adequate support and training resources for users, including documentation, training materials, and a helpdesk or support system. This can help ensure that users are proficient in using the system and can troubleshoot any issues that may arise.
+
 
 ## Summary
 
