@@ -1,9 +1,9 @@
 # Software Requirements Document (SRD) for a Student Accommodation System
-Introduction:
+## Introduction:
 
 The purpose of this document is to outline the requirements and features of a software system that will manage student accommodation for universities or colleges. The system will allow students to search and book accommodations within the university or college, and the administration to manage these accommodations efficiently.
 
-Objectives:
+## Objectives:
 
 The primary objectives of the Student Accommodation System are:
 
@@ -52,6 +52,6 @@ The primary objectives of the Student Accommodation System are:
 4. Scalability:
 - The system should be scalable and able to accommodate growth in the number of users and transactions.
 - The system should be able to handle multiple concurrent users.
-- Conclusion:
+## Conclusion:
 
 The Student Accommodation System should provide a user-friendly platform for students to search and book accommodations and an efficient system for administrators to manage the student accommodation. It should be reliable, secure, and scalable to accommodate growth in the number of users and transactions.
