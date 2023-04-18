@@ -108,7 +108,40 @@ University administrators should be able to generate reports and analytics based
 ### 6. User Authentication and Authorization
 The system should have robust authentication and authorization mechanisms to ensure that only authorized users can access the system and perform certain actions.
 
+## System requirements in academic course registration system
+
 By gathering and analyzing user requirements, designers and developers can create a course registration system that meets the needs and expectations of its users. User requirements are critical to the success of the system, as they directly impact the usability and user adoption of the system. It is important to involve users in the requirements gathering and validation process to ensure that their needs and expectations are properly addressed.
+
+System requirements in an academic course registration system refer to the technical and functional specifications that the system must meet to perform its intended tasks effectively and efficiently. These requirements focus on the hardware, software, and network infrastructure needed to support the system's functionality and performance.
+
+The following are some examples of system requirements for an academic course registration system:
+
+### 1. Performance
+The system should be able to handle a large number of concurrent users, while maintaining fast response times and minimizing downtime.
+
+### 2. Scalability
+The system should be able to scale up or down based on changing demand, without sacrificing performance or usability.
+
+### 3. Security
+The system should have robust security mechanisms, including user authentication and authorization, data encryption, and access controls, to protect sensitive user data and prevent unauthorized access.
+
+### 4. Integration
+The system should be able to integrate with other university systems, such as the student information system, learning management system, and financial aid system.
+
+### 5. Data Management
+The system should be able to store and manage large amounts of data related to course enrollment, student records, and other relevant information.
+
+### 6. Usability
+The system should be user-friendly and easy to use, with intuitive navigation and clear instructions.
+
+### 7. Accessibility
+The system should be accessible to users with disabilities, including support for assistive technologies and compliance with accessibility standards.
+
+### 8. Maintenance
+The system should be easy to maintain and update, with clear documentation and support for troubleshooting and bug fixes.
+
+By defining and meeting these system requirements, designers and developers can ensure that the course registration system is reliable, secure, and scalable. System requirements are essential to the success of the system, as they directly impact its functionality, performance, and reliability. It is important to involve system administrators, developers, and other technical experts in the requirements gathering and validation process to ensure that the system meets technical standards and best practices.
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
