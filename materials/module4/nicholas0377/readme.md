@@ -76,6 +76,29 @@ The primary objectives of the Student Accommodation System are:
 4. Reporting: The system should provide reporting features for administrators, including information such as occupancy rates, revenue, and booking trends.
 
 5. Compatibility: The system should be compatible with modern web browsers and accessible on desktop and mobile devices.
+
+## Functional requirements
+
+1. Accommodation Search: The system should allow students to search for available accommodations based on location, price, and room type.
+
+2. Accommodation Booking: The system should allow students to book accommodations through the system, including selecting the accommodation, the rental period, and payment of a deposit.
+
+3. Accommodation Listing: The system should allow landlords and property managers to list their accommodations on the system, including providing details such as the location, price, and room type.
+
+4. User Registration: The system should allow users to create an account, providing their personal information and contact details.
+
+5. User Login: The system should allow registered users to log in and access their account.
+
+6. Payment Processing: The system should allow for secure online payments for accommodation bookings, with options for different payment methods.
+
+7. Booking Confirmation: The system should send an email or notification to the user and landlord to confirm the booking once the payment is made.
+
+8. Accommodation Management: The system should allow landlords and property managers to manage their accommodations, including adding new listings, editing existing ones, and removing outdated listings.
+
+9. Rating and Feedback: The system should allow students to rate and leave feedback on their accommodation after their stay, which can be viewed by other users.
+
+10. User Support: The system should provide user support, such as a helpdesk or a knowledge base, to assist users with any issues they may encounter.
+
 ## Conclusion:
 
 The Student Accommodation System should provide a user-friendly platform for students to search and book accommodations and an efficient system for administrators to manage the student accommodation. It should be reliable, secure, and scalable to accommodate growth in the number of users and transactions.

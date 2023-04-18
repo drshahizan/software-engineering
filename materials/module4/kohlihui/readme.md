@@ -109,3 +109,36 @@ By understanding these user requirements, a hospital information system can be d
 7. The system should be compliant with relevant regulatory requirements, such as HIPAA, to ensure that patient data is kept secure and confidential.
 
 By considering these system requirements, a hospital information system can be designed to meet the needs of its users and support the delivery of high-quality healthcare services.
+
+
+# Functional requirement in a hospital information system
+
+Functional requirements in a hospital information system refer to the specific capabilities and features that the system must have in order to support the delivery of high-quality healthcare services. 
+
+#### Here are some examples of functional requirements in a hospital information system:
+
+### 1. Patient Management
+- The system must be able to manage patient records and track their medical history, including diagnoses, medications, test results, and allergies. It should also be able to schedule and manage appointments, as well as track patient demographics and insurance information.
+
+### 2. Clinical Decision Support
+- The system should be able to provide clinical decision support, such as alerts for potential drug interactions or reminders for preventive care measures.
+
+### 3. Medical Imaging
+- The system should be able to manage and store medical images, such as X-rays and CT scans, and provide tools for image analysis and diagnosis.
+
+### 4. Laboratory Management
+- The system should be able to manage laboratory tests and results, including ordering and tracking of specimens, as well as communication of results to healthcare providers and patients.
+
+### 5. Prescription Management
+- The system should be able to manage prescriptions and medication orders, including electronic prescribing and drug utilization review.
+
+### 6. Billing and Claims Management
+- The system should be able to manage billing and claims processing, including generating invoices, managing insurance claims, and processing payments.
+
+### 7. Inventory Management
+- The system should be able to manage hospital inventory, including tracking of supplies, equipment, and medications, and providing real-time updates on availability and utilization.
+
+### 8. Reporting and Analytics
+- The system should be able to generate reports and provide analytics on various aspects of hospital operations, such as patient outcomes, resource utilization, and financial performance.
+
+By incorporating these functional requirements into the hospital information system, healthcare providers can improve the quality of care, reduce errors, and increase efficiency in the delivery of healthcare services.

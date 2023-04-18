@@ -15,7 +15,7 @@ Features of the student financial problem system may include:
 
 7.Confidentiality and security: The system ensures the confidentiality and security of students' financial information by implementing strict data privacy measures and adhering to relevant regulations, such as the Family Educational Rights and Privacy Act (FERPA) and the General Data Protection Regulation (GDPR).
 
-#Requirement Enginnering
+# Requirement Enginnering
 Here are some key steps in requirement engineering for a student financial problem system:
 
 1.Stakeholder identification and analysis: Identify and involve all relevant stakeholders, including students, university financial staff, administrators, and other key personnel who will use or interact with the system. Understand their perspectives, roles, and responsibilities in relation to the student financial problem system.
@@ -36,7 +36,7 @@ Here are some key steps in requirement engineering for a student financial probl
 
 9.Collaboration and communication: Foster effective communication and collaboration among stakeholders, including regular meetings, documentation, and feedback mechanisms, to ensure that the requirements are well understood and aligned with the needs of all stakeholders.
 
-#Stakeholders
+# Stakeholders
 1.Students: Students are the primary users of the system as they are directly impacted by financial problems related to tuition fees, housing costs, textbooks, and other educational expenses. They may use the system to track their expenses, manage their budgets, apply for financial aid, and seek financial counseling or support.
 
 2.University financial staff: University financial staff, including financial aid officers, bursar's office personnel, and other financial administrators, are responsible for managing and processing financial transactions, financial aid applications, and other financial-related tasks. They may use the system to review and process financial aid applications, manage student accounts, generate reports, and communicate with students about their financial status.
@@ -45,7 +45,7 @@ Here are some key steps in requirement engineering for a student financial probl
 
 4.Financial counselors: Financial counselors, who may be part of the university's counseling or student services department, can provide one-on-one guidance and support to students facing financial challenges. They may use the system to access student financial information, provide financial counseling services, and monitor student progress in resolving their financial problems.
 
-#User Requirement In Student Financial Problem
+# User Requirement In Student Financial Problem
 1.User requirements in a student financial problem system refer to the features, functionalities, and capabilities that are needed to meet the needs and expectations of the system's users, primarily students, in addressing their financial challenges. Some examples of user requirements for a student financial problem system may include:
 
 2.Financial Aid Application and Management: The system should allow students to easily apply for financial aid, submit required documentation, and track the status of their application. It should also provide university financial staff with tools to efficiently process and manage financial aid applications, including verification, awarding, and disbursement of funds.
@@ -68,7 +68,7 @@ Here are some key steps in requirement engineering for a student financial probl
 
 User-Friendly Interface: The system should have a user-friendly interface that is easy to navigate, visually appealing, and responsive. It should be designed with a user-centric approach, considering the needs, expectations, and preferences of students in terms of usability and user experience.
 
-#System Requirement In Student Financial Problem
+# System Requirement In Student Financial Problem
 System requirements in a student financial problem system outline the features, functionalities, and technical specifications needed to develop and implement the system effectively. These requirements provide guidance to the development team and serve as a blueprint for building the system. Some examples of system requirements for a student financial problem system may include:
 
 1.Platform and Technology: The system should be developed using appropriate technologies and platforms that are scalable, secure, and capable of handling the expected workload. This may include specifying the programming languages, frameworks, databases, and other software tools to be used in the development of the system.

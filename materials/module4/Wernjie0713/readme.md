@@ -89,6 +89,29 @@ These user requirements should provide a good foundation for developing a Studen
 <br><br>
 These system requirements should help ensure that the Student Feedback System in university is robust, secure, and provides a seamless user experience for students and faculty.
 
+<h2>Functional requirements</h2>
+<b>1.Feedback submission:</b> The system should allow students to submit feedback on courses, instructors, and the overall learning experience.
+<br><br>
+<b>2.Feedback forms:</b> The system should support various types of feedback forms, including multiple choice questions, rating scales, and open-ended questions.
+<br><br>
+<b>3.Feedback tracking:</b> The system should track when feedback is submitted, by whom, and for which course or instructor.
+<br><br>
+<b>4.Feedback analytics:</b> The system should provide analytics tools that enable faculty and administrators to analyze feedback data and identify trends.
+<br><br>
+<b>5.Faculty response:</b> The system should allow faculty to respond to student feedback and follow up on any concerns or suggestions.
+<br><br>
+<b>6.Feedback reporting:</b> The system should generate reports on feedback data, allowing faculty and administrators to track progress over time and make data-driven decisions.
+<br><br>
+<b>7.Reminder notifications:</b> The system should send reminders to students to submit feedback if they haven't already done so.
+<br><br>
+<b>8.Feedback management:</b> The system should allow administrators to manage feedback, including archiving old feedback and deleting inappropriate comments.
+<br><br>
+<b>9.Feedback access control:</b> The system should provide access control mechanisms to ensure that only authorized personnel can access feedback data.
+<br><br>
+<b>10.Feedback history:</b> The system should maintain a history of all feedback submitted, allowing for comparison and analysis over time.
+<br><br>
+These functional requirements should help ensure that the Student Feedback System in university is robust, user-friendly, and provides valuable insights to faculty and administrators.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 

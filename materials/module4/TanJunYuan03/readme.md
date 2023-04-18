@@ -107,6 +107,37 @@ The system should comply with legal and regulatory requirements, such as copyrig
 
 ##### Overall, the system requirements for a library management system should be defined based on the technical needs of the system, and it is important to involve technical experts in the requirement engineering process to ensure that the system meets these needs.
 
+### Functional requirements in a library management system describe the specific tasks and functionalities that the system should be able to perform. Some common functional requirements for a library management system include:
+
+##### Cataloging: 
+The system should allow librarians to catalog new materials, including books, journals, and other resources, by entering metadata such as author, title, publication date, and subject keywords.
+
+##### Search and retrieval: 
+The system should allow users to search for library materials based on various criteria such as author, title, subject, or keywords, and retrieve them quickly and accurately.
+
+##### Circulation management:
+The system should manage the circulation of library materials, including checkouts, returns, and renewals, and handle fines and fees for overdue or lost materials.
+
+##### Holds and reservations:
+The system should allow users to place holds or reservations on materials that are currently checked out or not available, and provide notification when the materials become available.
+
+##### User management: 
+The system should manage user accounts, including registration, authentication, and access control, and allow users to update their personal information and preferences.
+
+##### Reporting and analytics: 
+The system should generate reports and analytics on library usage, such as circulation statistics, user demographics, and collection analysis.
+
+##### Interlibrary loan management: 
+The system should manage interlibrary loan requests, including borrowing and lending of materials between different libraries.
+
+##### Digital resources management: 
+The system should manage the library's digital resources, such as e-books, online journals, and databases, and provide access to them for users.
+
+##### Mobile and web access:
+The system should provide mobile and web access to library services, allowing users to search, request, and access library materials from any device with internet access.
+
+##### Overall, the functional requirements in a library management system should be defined based on the specific needs of the library and its users, and it is important to involve librarians and other stakeholders in the requirement engineering process to ensure that the system meets their needs and expectations.
+
 
 
 ## Key steps in creating Library Management System

@@ -59,31 +59,33 @@ The importance of requirement engineering cannot be overstated. It helps ensure 
 ## Stakeholders
 Stakeholders in a student attendance management system can be broadly classified into three categories:
 
-### Primary stakeholders: 
+### 1. Primary stakeholders: 
 These are the stakeholders who are directly impacted by the system, and they include:
 Students: They are the end-users of the system and can view their own attendance records and receive notifications about their attendance.
 
-### Teachers: They can mark attendance for their classes, monitor student attendance, and generate reports.
+### 2. Teachers: 
+They can mark attendance for their classes, monitor student attendance, and generate reports.
 
-### Administrative staff: They can use the system to manage attendance records, generate reports, and track attendance trends.
+### 3. Administrative staff: 
+They can use the system to manage attendance records, generate reports, and track attendance trends.
 
-### Secondary stakeholders: 
+### 4. Secondary stakeholders: 
 These are the stakeholders who are indirectly impacted by the system, and they include:
 ### Parents: 
 They can view their children's attendance records and receive notifications about their attendance.
 
-### Management: 
+### 5. Management: 
 They can use the system to monitor attendance rates across different classes, events, or departments and make decisions based on attendance data.
 
-### Tertiary stakeholders: 
+### 6. Tertiary stakeholders: 
 These are the stakeholders who provide input or support to the system, and they include:
-### IT department: 
+### 7. IT department: 
 They can provide technical support for the system and ensure that it is running smoothly.
 
-### System developers: 
+### 8. System developers: 
 They are responsible for developing and maintaining the system.
 
-### Regulators: 
+### 9. Regulators: 
 They may have certain requirements or regulations that need to be followed by the system.
 
 It is important to identify all stakeholders in the system and consider their needs and requirements during the development and implementation process. This ensures that the system meets the needs of all stakeholders and is more likely to be adopted and used effectively.

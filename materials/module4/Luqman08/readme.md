@@ -157,6 +157,48 @@ The system should generate reports on key performance indicators (KPIs) to help 
 ### 12. Disaster Recovery: 
 The system should have a disaster recovery plan in place, to ensure that the system can recover from any disasters such as power outages, natural disasters, or cyber attacks.
 
+## Functional requirements in badal hajj and umrah management system
+
+Functional requirements specify what the system should do or what features it should have to meet the user's needs. Here are some key functional requirements for the Badal Hajj and Umrah management system:
+
+### 1. User Registration: 
+The system should allow users to register themselves and provide their personal information such as name, contact details, passport information, and other relevant details.
+
+### 2. Booking Management: 
+The system should provide users with a platform to book their travel arrangements, including flights, hotels, transportation, and tours.
+
+### 3. Visa Processing: 
+The system should have a streamlined process for visa processing to ensure that the pilgrims can obtain the necessary visas for their pilgrimage.
+
+### 4. Payment Gateway Integration: 
+The system should integrate with various payment gateways to allow users to pay for their travel arrangements online.
+
+### 5. Itinerary Management: 
+The system should allow users to view and manage their travel itinerary, including flight schedules, hotel bookings, and other activities.
+
+### 6. Travel Insurance Management: 
+The system should provide users with options for travel insurance and allow them to purchase insurance online.
+
+### 7. Alerts and Notifications: 
+The system should provide users with alerts and notifications about their travel arrangements, such as flight delays, cancellations, and changes to travel itinerary.
+
+### 8. Feedback and Complaint Management: 
+The system should allow users to provide feedback and lodge complaints to ensure that their concerns are heard and addressed.
+
+### 9. User Management: 
+The system should provide administrators with the ability to manage user accounts, such as adding, deleting, or modifying user information.
+
+### 10. Reporting: 
+The system should generate reports on key performance indicators (KPIs) to help the management make informed decisions and improve the system's performance.
+
+### 11. Administration: 
+The system should have an administrative module to manage system configurations such as payment gateway integration, email templates, and other settings.
+
+### 12. Multilingual Support: 
+The system should support multiple languages, to cater to the diverse range of pilgrims from around the world.
+
+These functional requirements are essential for the system to perform its core functions and meet the needs of the users.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 

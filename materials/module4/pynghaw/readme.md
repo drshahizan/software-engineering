@@ -115,3 +115,30 @@ The system should be scalable, to accommodate the library's growing data and use
 
 ### Maintenance and Support Requirements: 
 The system should have a suitable maintenance and support plan, to ensure that any issues or bugs are resolved promptly and that the system remains up-to-date with the latest software updates and security patches.
+
+## Functional Requirements
+Functional requirements for a library management system specify the features and functionalities that the system must provide to meet the needs of library staff and users. Here are some key functional requirements for a library management system:
+
+### Cataloging and Classification: 
+The system should support the cataloging and classification of library resources, including books, journals, audiovisual materials, and other materials, based on industry-standard classification systems such as the Dewey Decimal System or Library of Congress Classification.
+
+### Acquisition and Ordering:
+The system should enable library staff to manage the acquisition and ordering of new library resources, including placing orders, tracking deliveries, and managing invoices and payments.
+
+### Circulation and Access Control: 
+The system should support the circulation of library resources, including checking in and out materials, tracking borrowing histories, managing holds and reserves, and ensuring access control to restricted materials.
+
+### User Management: 
+The system should support the management of library users, including registration, issuing library cards, managing user accounts, and ensuring user privacy and security.
+
+### Online Public Access Catalog (OPAC): 
+The system should provide an online public access catalog (OPAC) that enables users to search for and locate library resources, check availability, and place holds or reservations.
+
+### Interlibrary Loan: 
+The system should support interlibrary loan (ILL), allowing users to request materials from other libraries and enabling library staff to manage ILL requests and deliveries.
+
+### Reports and Analytics: 
+The system should generate reports and analytics on library usage and performance, including circulation statistics, popular materials, and user behavior, to inform library management decisions and improve library services.
+
+### Mobile Access: 
+The system should provide mobile access, allowing users to access library resources and services on their mobile devices, including searching the catalog, checking their accounts, and receiving notifications.

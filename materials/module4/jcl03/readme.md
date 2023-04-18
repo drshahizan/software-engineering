@@ -81,11 +81,11 @@ The system should have a mobile-friendly interface that is easy to use and acces
 ### 3.Customizable alerts:
 Users should be able to set up customized alerts for their preferred bus routes and stops.
 
-### 4.
-Map-based display: The system should display bus routes and stops on a map for easy navigation and visualization.
+### 4.Map-based display: 
+The system should display bus routes and stops on a map for easy navigation and visualization.
 
-### 5.
-Historical data: The system should provide access to historical data on bus routes and schedules for planning and analysis.
+### 5. Historical data:
+The system should provide access to historical data on bus routes and schedules for planning and analysis.
 
 ### 6.Integration with other systems:
 The system should be integrated with other university systems, such as class schedules and campus maps, to provide a seamless user experience.

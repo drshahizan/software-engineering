@@ -74,6 +74,21 @@ Don't forget to hit the :star: if you like this repo.
 
 13. **Compatibility:** The system should be compatible with a range of hardware and software platforms, including desktop and mobile devices, and multiple web browsers. This will ensure that users can access the system from a variety of devices and locations.
 
+## Functional Requirements
+1. **User Registration:** The system should allow students, health and wellness professionals, and university staff to register for an account with their personal information, including name, email address, and role within the system.
+
+2. **Appointment Scheduling:** The system should allow students to schedule appointments with health and wellness professionals, specifying the type of appointment, date, time, and location. The system should also allow professionals to manage and update their appointment schedules.
+
+3. **Health Records Management:** The system should allow health and wellness professionals to view, update, and manage student health records, including medical history, test results, and treatment plans.
+
+4. **Communication:** The system should allow for secure communication between students and health and wellness professionals, including email and messaging, as well as the ability to send notifications and alerts.
+
+5. **Reporting and Analytics:** The system should allow for reporting and analysis of student health and wellness data, including demographic information, health records, appointment scheduling, and other key metrics.
+
+6. **Wellness Programs and Services:** The system should allow for the creation and management of wellness programs and services, including fitness programs, mental health services, and nutrition counseling.
+
+7. **Dashboard and User Interface:** The system should provide an intuitive and user-friendly dashboard and user interface, allowing users to easily navigate and access key functions and information within the system.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 

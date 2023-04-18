@@ -56,32 +56,55 @@ Determine the features and functionality required for the system, such as parcel
   - Payment processing: The system should integrate with the university's payment processing system to allow for seamless payment processing and tracking.
 
   - Data analysis: The system should provide data analysis and reporting capabilities to track package delivery performance, identify areas for improvement, and provide insights to university administrators.
+ 
+## 4. Functional requirements
+describe the specific features and functions that a delivery service system for a university must have to meet the needs of its users. Here are some functional requirements that a delivery service system for a university should consider:
 
-## 4. Choose a technology platform :
+- User registration: The system should allow users to register for the service by providing their personal information and delivery address.
+
+- Package tracking: The system should allow users to track the status of their packages in real-time, including package location and estimated delivery time.
+
+- Delivery scheduling: The system should allow users to schedule deliveries at a convenient time and date.
+
+- Package pickup: The system should allow users to schedule package pickup at designated locations on campus.
+
+- Payment processing: The system should allow users to pay for the delivery service using various payment methods, including credit cards, debit cards, or university accounts.
+
+- Package size and weight limits: The system should have a limit on package size and weight to ensure that packages can be handled safely and efficiently.
+
+- Package handling procedures: The system should have specific handling procedures for fragile, hazardous, or perishable packages.
+
+- User feedback: The system should allow users to provide feedback on the delivery service, including the quality of the delivery, the timeliness of the service, and the professionalism of the delivery personnel.
+
+- Package storage and security: The system should provide secure storage for packages until they are picked up or delivered to the recipient.
+
+- Delivery personnel tracking: The system should allow administrators to track the location of delivery personnel and monitor their delivery activities.
+
+## 5. Choose a technology platform :
 
 Select a technology platform for the system, including the programming language, database, and web server. Ensure that the technology platform is scalable, secure, and easy to maintain.
 
-## 5. Design the system architecture :
+## 6. Design the system architecture :
 
 Design the system architecture, including the database, user interface, and system components. Ensure that the architecture is scalable, secure, and follows best practices.
 
-## 6. Develop and test the system :
+## 7. Develop and test the system :
 
 Develop the system using a software development life cycle (SDLC) methodology. Test the system thoroughly before deployment to ensure that it meets the stakeholders' needs and requirements.
 
-## 7. Deploy and maintain the system :
+## 8. Deploy and maintain the system :
 
 Deploy the system to the production environment. Maintain and update the system regularly to ensure that it continues to meet the stakeholders' needs and requirements.
 
-## 8. Establish partnerships with carriers and payment providers :
+## 9. Establish partnerships with carriers and payment providers :
 
 Establish partnerships with carriers to ensure reliable delivery services and payment providers to process payments securely and efficiently.
 
-## 9. Implement effective parcel tracking :
+## 10. Implement effective parcel tracking :
 
 Implement an effective parcel tracking system to enable shippers and recipients to track their parcels' status in real-time.
 
-## 10. Monitor and improve system performance :
+## 11. Monitor and improve system performance :
 
 Continuously monitor the system performance, identify areas of improvement, and implement changes to enhance the system's performance.
 

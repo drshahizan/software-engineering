@@ -126,6 +126,35 @@ The grading system should comply with relevant laws and regulations, such as FER
 ### 9. Support 
 The grading system should have a support system in place to help users with technical issues or questions about the system. The support system should be responsive and provide timely assistance to users.
 
+# Funtional Requirements
+
+### 1. User authentication 
+The grading system should require users to authenticate themselves with a unique username and password to access the system. This will ensure that only authorized users can access student grades and data.
+
+### 2. Grade entry and calculation 
+The grading system should allow faculty members to enter grades for assignments, exams, and other course components. The system should be able to calculate overall grades based on the grading policies and weightage of grade components.
+
+### 3. Grade release 
+The grading system should allow faculty members to release grades to students in a timely manner. The system should also provide mechanisms for students to access their grades, such as a student portal.
+
+### 4. Grade appeals 
+The grading system should allow students to appeal their grades if they believe there has been an error in the grading process. The system should provide a mechanism for faculty members to review and update grades if necessary.
+
+### 5. Grade analytics and reporting 
+The grading system should provide analytics and reporting features to allow faculty members and administrators to generate reports on student performance and progress. This will help them identify areas for improvement and make data-driven decisions.
+
+### 6. Grade tracking and monitoring 
+The grading system should allow faculty members and administrators to track and monitor student grades and academic progress. This will help them identify students who may need additional support or intervention.
+
+### 7. Grade policies and configuration 
+The grading system should allow faculty members and administrators to configure grading policies, such as the grading scale and weightage of grade components. This will help ensure that grades are fair and accurate.
+
+### 8. Student record management 
+The grading system should allow administrators to manage student records, such as personal information, enrollment status, and academic history. This will help ensure that student data is accurate and up-to-date.
+
+### 9. Integration with other systems 
+The grading system should be able to integrate with other systems used by the university, such as the student information system and learning management system. This will help ensure that student data is consistent across different systems.
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

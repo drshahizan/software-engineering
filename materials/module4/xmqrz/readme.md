@@ -143,7 +143,23 @@ d. Integration: The system should integrate with other university systems and pl
 
 14. Maintenance: The system should be designed for easy maintenance and updates. The system should have a modular architecture that allows for easy integration and maintenance of new features and functionalities. The system should also have a mechanism for bug fixing
 
+## Function of making a student feedback system.
 
+Functions play an important role in the development of a student feedback system for University Technology Malaysia. They allow you to organize your code into reusable and modular components that can be called multiple times throughout the program.
+
+1. Login function - This function would handle the authentication of users who want to access the feedback system. It would take in the user's login credentials (such as their username and password) and verify them against a database of registered users. If the credentials are valid, the user would be granted access to the system.
+
+2. Feedback submission function - This function would handle the process of submitting feedback from students. It would take in the feedback data (such as the course, lecturer, and rating) and store it in a database for later analysis. The function could also perform some validation on the data to ensure that it meets certain criteria (such as being within a certain range of values).
+
+3. Data retrieval function - This function would be responsible for retrieving feedback data from the database and presenting it to the user in a readable format. It could take in parameters such as the course or lecturer name to filter the data accordingly.
+
+4. Data analysis function - This function would analyze the feedback data to provide insights and trends to the users. It could calculate the average rating for a particular course or lecturer, identify areas for improvement, and generate reports on the overall performance of the teaching staff.
+
+5. Notification function - This function would send notifications to the relevant parties (such as the teaching staff or administrators) when new feedback is submitted or when certain criteria are met (such as a course receiving consistently low ratings).
+
+6. User management function - This function would handle the creation and management of user accounts in the feedback system. It would allow administrators to add, remove, or modify user accounts as necessary.
+
+Overall, functions are an essential tool for developing a robust and efficient student feedback system. They allow you to break down complex tasks into smaller, more manageable components and provide a more organized and maintainable codebase.
 
 
 

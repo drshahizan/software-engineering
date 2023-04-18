@@ -96,6 +96,29 @@ Finally, the requirements should be validated with stakeholders to ensure they a
 - The system should be monitored for performance and security issues, and any issues should be addressed in a timely manner.
 - The system should provide technical support to users, and should have a help desk or support team that can address user questions and issues.
 - The system should provide regular backups of user data to ensure that user data is protected in case of a system failure or other issue.
+
+
+## User Requirements and System Requirements
+User Requirements:
+
+- Event organizers should be able to create new events, set event details such as date, time, and location, and manage event resources and logistics.
+- Students should be able to browse and search for events, register for events, and receive event notifications and reminders.
+- Administrative staff should be able to view and manage all events on campus, approve event requests, and manage event budgets.
+- Facilities management staff should be able to view event schedules and space availability, and coordinate with event organizers on event setup and cleanup.
+- IT staff should be able to manage the technical infrastructure of the event management system and provide technical support to users of the system.
+- Marketing and communications staff should be able to create event listings and marketing materials through the system, track event engagement and attendance rates, and communicate with event attendees.
+- Alumni relations staff should be able to organize events that engage alumni and promote alumni involvement with the university.
+
+System Requirements:
+
+- The event management system should be web-based and accessible through a secure login system.
+- The system should have an intuitive user interface that allows event organizers to easily create and manage events, and allows students to easily search for and register for events.
+- The system should have a database to store event information, including event schedules, event locations, event descriptions, and event registration information.
+- The system should allow for different types of events, such as academic conferences, social events, and athletic events, and allow event organizers to customize event registration forms to collect necessary information.
+- The system should allow event organizers to manage event budgets, request event space and resources, and communicate with event attendees.
+- The system should provide notifications and reminders to event attendees, such as reminders about upcoming events or updates about event changes.
+- The system should be tested for scalability, performance, and security, to ensure that it can handle a large number of users and events, provide a fast and responsive user experience, and protect user data.
+- The system should be regularly maintained and updated to ensure that it remains up-to-date and relevant, and provide technical support to users.
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 

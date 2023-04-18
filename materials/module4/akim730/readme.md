@@ -94,17 +94,6 @@ The administrators who will manage and maintain the system, ensure its security,
 7. The system should provide detailed reporting and analytics features that enable restaurant owners to track sales, monitor customer behavior, and identify trends.
 8. The system should be flexible and easily customizable to meet the needs of different types of restaurants and cuisines.
 
-## User Requirements in Food Ordering System in UTM
-1. The system should be easy to use and navigate for students, faculty, and staff with little to no technical expertise.
-2. The system should allow users to browse menus and place orders quickly and efficiently, with the option to customize their orders as needed.
-3. The system should provide clear and accurate information about menus, dishes, prices, and availability, including any special offers or promotions.
-4. The system should support multiple payment methods, including campus cards or meal plans, as well as traditional payment methods such as credit cards or mobile payments.
-5. The system should provide users with real-time updates on the status of their orders, including estimated delivery or pickup times, and any delays or changes to their orders.
-6. The system should allow users to view their order history and track their loyalty points or rewards, as well as provide personalized recommendations and promotions.
-7. The system should provide responsive and reliable customer support, including the ability to contact support staff through multiple channels (e.g., phone, email, chat).
-8. The system should comply with relevant regulations and policies related to food safety, health, and sustainability, as well as accessibility guidelines for users with disabilities.
-9. The system should allow users to provide feedback and ratings for restaurants and dishes, as well as report any issues or concerns.
-10. The system should be integrated with other campus systems, such as course schedules or events calendars, to provide relevant and timely recommendations or reminders.
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 

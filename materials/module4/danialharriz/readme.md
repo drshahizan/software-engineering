@@ -154,13 +154,46 @@ The system should be scalable and adaptable to changing needs and requirements, 
 #### 7. Security: 
 The system should be secure, with measures in place to protect user data and prevent unauthorized access.
 
-##### 8. Compliance: 
+#### 8. Compliance: 
 The system should be compliant with relevant laws and regulations, such as data protection laws.
 
 #### 9. Accessibility: 
 The system should be accessible to users with disabilities, including those who may use assistive technologies such as screen readers.
 
 #### By addressing these system requirements, developers can ensure that the electronic appliance registration system is functional, reliable, and compliant with relevant laws and regulations.
+
+## Functional Requirements
+
+The functional requirements for an electronic appliance registration system for a university might include:
+
+#### 1. Registration: 
+The system should allow students and faculty to register their electronic devices by providing information about the device type, model, and serial number.
+
+#### 2. Renewal:
+The system should allow users to renew their device registration annually or update their device information if needed.
+
+#### 3. Tracking: 
+The system should be able to track the location and status of registered devices, including whether they are in use, available for use, or unavailable for use.
+
+#### 4. Notifications: 
+The system should be able to send users notifications about upcoming device expirations or renewals.
+
+#### 5. Reporting: 
+The system should be able to generate reports on registered devices, such as inventory reports or maintenance reports.
+
+#### 6. Integration: 
+The system should be able to integrate with other systems on campus, such as the campus security system or student information system.
+
+#### 7. Authentication and Access Control: 
+The system should ensure that only authorized users can access and update device information and should use secure authentication methods to protect user data.
+
+#### 8. Search and Retrieval: 
+The system should allow users to search and retrieve information about registered devices based on criteria such as device type or registration status.
+
+#### 9. Support for Different Devices: 
+The system should be able to support a variety of different types of electronic devices, including those running on different operating systems.
+
+#### By fulfilling these functional requirements, the electronic appliance registration system will be able to meet the needs of its users and provide efficient and effective device registration services for the university.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
