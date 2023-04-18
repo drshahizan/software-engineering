@@ -129,6 +129,27 @@ The stakeholders for a student feedback system in a university may include:
     <li>Adherence to data privacy and security regulations, such as GDPR, FERPA, or other applicable laws.</li>
     <li>Budget and resource constraints, as determined by the university.</li>
   </ul>
+  
+<h2>User Requirements for Student Feedback System</h2>
+  <h3>Students</h3>
+  <ul>
+    <li>Ability to easily access the feedback system using a web-based interface.</li>
+    <li>Clear and intuitive feedback submission process with options for feedback categories, rating scales, and open-ended comments.</li>
+    <li>Ability to view deadlines and receive automated notifications to remind them to provide feedback.</li>
+    <li>Confidentiality and anonymity of their feedback, ensuring that their identity and feedback are kept confidential and not disclosed to others.</li>
+    <li>Accessibility features to ensure that the system can be used by users with disabilities, such as screen readers, keyboard navigation, and color contrast options.</li>
+    <li>Compatibility with commonly used web browsers and devices, including desktops, laptops, tablets, and smartphones.</li>
+  </ul>
+  
+  <h3>Faculty and Administrators</h3>
+  <ul>
+    <li>Secure authentication and authorization to ensure that only authorized faculty and administrators can access the system.</li>
+    <li>User-friendly dashboard and reporting features to view and analyze feedback data, including graphical representations and data filtering options.</li>
+    <li>Ability to customize feedback categories and rating scales based on the university's requirements.</li>
+    <li>Ability to generate reports and export feedback data in various formats (e.g., PDF, CSV) for further analysis and sharing.</li>
+    <li>Ability to track feedback history and changes for auditing purposes.</li>
+    <li>Compatibility with commonly used web browsers and devices, including desktops, laptops, tablets, and smartphones.</li>
+  </ul>
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
