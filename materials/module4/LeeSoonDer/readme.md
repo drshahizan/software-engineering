@@ -9,7 +9,19 @@ Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): Students'Feedback Management System
 
-Developing a student feedback system for a university requires careful planning and execution. Here are some steps to develop a student feedback system for a university:
+<h2>The stakeholders of a student feedback system for a university can include:</h2>
+
+Students: They are the primary stakeholders in the feedback system, as they are the ones providing feedback on their learning experiences.
+
+Faculty: They are also important stakeholders, as they receive feedback from students and use it to improve their teaching methods.
+
+Administrators: They are responsible for implementing the feedback system and ensuring that it is effective and efficient.
+
+Support staff: They may be responsible for collecting and analyzing feedback data, or providing technical support for the feedback system.
+
+Parents: In some cases, parents may also be stakeholders, particularly if the feedback system includes questions about their involvement in their child's education.
+
+<h2>Developing a student feedback system for a university requires careful planning and execution. Here are some steps to develop a student feedback system for a university:</h2>
 
 Determine the goals: Identify the specific goals of the feedback system. What information do you want to collect from students? How will this information be used to improve teaching and learning?
 
