@@ -119,6 +119,44 @@ System Requirements:
 - The system should provide notifications and reminders to event attendees, such as reminders about upcoming events or updates about event changes.
 - The system should be tested for scalability, performance, and security, to ensure that it can handle a large number of users and events, provide a fast and responsive user experience, and protect user data.
 - The system should be regularly maintained and updated to ensure that it remains up-to-date and relevant, and provide technical support to users.
+
+
+
+## Functional Requirements
+#### 1)User Registration and Login:
+- Users should be able to register for an account in the system.
+- Users should be able to log in to the system using their email address and password.
+- Users should be able to reset their password in case they forget it.
+#### 2)Event Creation and Management:
+- Event organizers should be able to create new events in the system.
+- Event organizers should be able to set event details such as date, time, location, and event description.
+- Event organizers should be able to create custom registration forms for events to collect necessary information.
+- Event organizers should be able to manage event budgets, resources, and event logistics.
+- Event organizers should be able to communicate with event attendees through the system.
+- Event organizers should be able to view event metrics and data such as registration numbers and attendance rates.
+#### 3)Event Search and Registration:
+- Students should be able to search and browse events by date, category, or keywords.
+- Students should be able to register for events through the system.
+- Students should be able to receive event notifications and reminders.
+- Students should be able to provide feedback on events and suggest new event ideas.
+#### 4)Administrative Approval and Management:
+- Administrative staff should be able to view and manage all events on campus.
+- Administrative staff should be able to approve event requests and manage event budgets.
+- Administrative staff should be able to view event metrics and data such as registration numbers and attendance rates.
+- Administrative staff should be able to enforce university policies and regulations related to events.
+#### 5)Event Space and Resource Management:
+- Facilities management staff should be able to view event schedules and event space availability.
+- Facilities management staff should be able to coordinate with event organizers on event setup and cleanup.
+- Facilities management staff should be able to manage event resources such as audiovisual equipment, tables, chairs, and decorations.
+#### 6)Technical Support and Maintenance:
+- IT staff should be able to manage the technical infrastructure of the event management system.
+- IT staff should be able to provide technical support to users of the system.
+- IT staff should be able to ensure that the system is secure and that user data is protected.
+- IT staff should be able to monitor the system for performance issues and resolve them in a timely manner.
+#### 7)Reporting and Analytics:
+- The system should be able to generate reports and analytics on event metrics such as attendance rates and registration numbers.
+- The system should be able to provide data visualization tools to help users understand event data and trends.
+- The system should be able to integrate with other university systems to provide a comprehensive view of university events and activities.
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 

@@ -111,19 +111,21 @@ The ability for users to create and manage their own profiles, including persona
 
 ## Functional Requirements
 
-*User Profile Management: Users should be able to create and manage their profiles on the social networking system. This would include adding personal information, profile pictures, and interests.
-*Friend Management: Users should be able to add friends to their network and manage their friend list. They should also be able to view their friends' profiles and communicate with them.
-*News Feed: Users should be able to view a news feed that displays the activities of their friends and the groups they belong to.
+<b>* 1.User Profile Management:</b> Users should be able to create and manage their profiles on the social networking system. This would include adding personal information, profile pictures, and interests.
 
-*Group Management: Users should be able to create and manage groups based on their interests or academic courses. They should be able to add members, post updates, and interact with other members of the group.
+<b>* 2.Friend Management: </b>Users should be able to add friends to their network and manage their friend list. They should also be able to view their friends' profiles and communicate with them.
 
-*Events Management: Users should be able to create and manage events related to academic or social activities. They should be able to invite friends and post updates related to the event.
+<b>3.News Feed: </b>Users should be able to view a news feed that displays the activities of their friends and the groups they belong to.
 
-*Messaging: Users should be able to send messages to their friends or groups. They should also be able to view their message history.
+<b>4.Group Management:</b> Users should be able to create and manage groups based on their interests or academic courses. They should be able to add members, post updates, and interact with other members of the group.
 
-*Search: Users should be able to search for other users, groups, or events based on their interests or keywords.
+<b>5.Events Management: </b>Users should be able to create and manage events related to academic or social activities. They should be able to invite friends and post updates related to the event.
 
-*Notification: Users should be able to receive notifications related to friend requests, group invitations, event updates, or any other important information related to their network.
+<b>6.Messaging: </b>Users should be able to send messages to their friends or groups. They should also be able to view their message history.
+
+<b>7.Search:</b> Users should be able to search for other users, groups, or events based on their interests or keywords.
+
+<b>8.Notification: </b>Users should be able to receive notifications related to friend requests, group invitations, event updates, or any other important information related to their network.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

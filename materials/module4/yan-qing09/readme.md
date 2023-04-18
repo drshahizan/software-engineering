@@ -72,7 +72,30 @@ System Requirements:
 
 - Customization: The system should allow for customization to meet the specific needs of the school and its students.
 
+<br/>
 
+## Functional Requirements
+Functional requirements are the specific features and capabilities that a student health and wellness management system must possess to satisfy the needs of its users. Here are some functional requirements that a student health and wellness management system should have:
+
+1. Registration and login: The system should provide a way for students, healthcare professionals, and school administrators to register and log in to the system with secure authentication.
+
+2. Health record management: The system should allow students to access and manage their health records, including immunizations, allergies, medical conditions, and medications.
+
+3. Appointment scheduling: The system should allow students to schedule appointments with healthcare professionals, view appointment schedules, and receive reminders for upcoming appointments.
+
+4. Wellness tracking: The system should allow students to track their wellness goals, such as exercise, diet, and mental health, and provide resources and tips to support healthy habits.
+
+5. Communication: The system should allow for secure communication between students, healthcare professionals, and school administrators, including messaging, notifications, and alerts.
+
+6. Reporting and analytics: The system should provide reporting and analytics capabilities to track student health and wellness data, including trends, outcomes, and performance.
+
+7. Student education: The system should provide educational resources for students to learn about health and wellness topics, including mental health, nutrition, and physical activity.
+
+8. Emergency management: The system should provide a way to manage emergencies, such as injuries or illnesses, including notifications, alerts, and access to emergency services.
+
+9. Privacy and security: The system should ensure the privacy and security of students' health and wellness data, including compliance with regulatory requirements, such as HIPAA.
+
+10. System administration: The system should allow for system administration and management, including user management, system configuration, and backup and recovery.
 
 
 

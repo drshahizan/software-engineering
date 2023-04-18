@@ -187,6 +187,42 @@ The system should provide support and assistance to users in case of any issues 
 
 By meeting these functional requirements, the college room rental system can provide a comprehensive and efficient platform for managing room rentals, ensuring a positive user experience for both students and staff
 
+## Non-Functional Requirement in College Room Rental System
+
+Non-functional requirements in a college room rental system are the performance criteria that describe how the system should behave in terms of quality attributes like reliability, security, usability, scalability, and maintainability. Here are some examples of non-functional requirements for a college room rental system:
+
+### 1. Usability: 
+The system should be intuitive and easy to use, with clear and simple instructions. It should have a user-friendly interface, and it should be easy for users to find the information they need and complete tasks quickly and efficiently.
+
+### 2. Performance: 
+The system should be able to handle a large volume of traffic and transactions, without any performance degradation or downtime. It should be responsive and provide timely feedback to users.
+
+### 3. Security: 
+The system should be secure, protecting users' personal information and payment details from unauthorized access or cyber threats. It should implement proper security protocols, such as encryption, access control, and auditing.
+
+### 4. Reliability: 
+The system should be reliable, with a high level of uptime and minimal downtime. It should provide accurate and timely information to users, with no data loss or corruption.
+
+### 5. Scalability: 
+The system should be scalable, able to handle an increasing number of users and transactions without a significant impact on performance or functionality.
+
+### 6. Compatibility: 
+The system should be compatible with different devices, browsers, and platforms, ensuring that users can access it from anywhere and at any time.
+
+### 7. Maintainability: 
+The system should be easy to maintain and update, with clear documentation and modular code. It should be easy to modify or extend the system, without affecting its overall functionality.
+
+### 8. Accessibility: 
+The system should be accessible to users with disabilities, conforming to accessibility standards and guidelines, such as WCAG 2.0.
+
+### 9. Availability: 
+The system should be available 24/7, with no scheduled or unscheduled downtime. It should be resilient to hardware or software failures, with a robust disaster recovery plan.
+
+By meeting these non-functional requirements, the college room rental system can ensure a high level of quality and performance, providing a reliable and secure platform for managing room rentals and enhancing the user experience for both students and staff.
+
+
+
+
 
 
 

@@ -98,7 +98,7 @@ The system should provide comprehensive reporting and analytics capabilities, al
 ### 8. Security and Privacy:
 The system should be secure and protect sensitive information such as student records and financial data. It should also comply with relevant privacy regulations and policies.
 
-### Functional Requirements
+## Functional Requirements
 
 ### 1. Course Catalog: 
 The system should provide an updated list of all the courses offered by the university.
