@@ -10,7 +10,9 @@ Identify the number of parcels, destinations, and users that will be using the s
 
 ## 2. Identify the stakeholders:
 
-Determine who will be using the system, including shippers, carriers, and recipients. Understand their needs and requirements to ensure that the system meets their expectations. Gather information from OPC, CPP and students.
+Determine who will be using the system, including shippers, carriers, and recipients. Understand their needs and requirements to ensure that the system meets their expectations. Gather information from OPC, CPP and students(Recipients).
+- User requirements.
+- System requirements.
 
 ## 3. Define the system requirements:
 
