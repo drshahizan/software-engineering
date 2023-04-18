@@ -153,4 +153,4 @@ Follow up with the interviewee: Send a thank-you note or email to the interviewe
 
 Share the information: Share the information you gathered during the interview with other relevant parties, such as colleagues, stakeholders, or clients. Make sure to respect any confidentiality agreements or requests from the interviewee.
 
-Use the information: Use the information you gathered during the interview to inform your decision-making, research, or project work. Incorporate the information into your reports, presentations, or other deliverables as appropriate.
+Use the information: Use the information you gathered during the interview to inform your decision-making, research, or project work. Incorporate the information into your reports, presentations, or other deliverables as appropriate
