@@ -153,25 +153,25 @@ The following are some examples of system requirements for an university event m
 - Scalable infrastructure that can be expanded to meet future demand
 - Load testing and performance tuning to ensure optimal system performance
 - Efficient database design and management to handle large amounts of data
-- 
+
 ### 2. Security:
 - Robust security measures to prevent unauthorized access and protect user data
 - Encryption of sensitive data, such as payment information and user profiles
 - Compliance with industry security standards, such as PCI DSS and ISO 27001
 - Regular security audits and vulnerability assessments to identify and address potential threats
 - Continuous monitoring and logging of system activity to detect any security breaches
-- 
+
 ### 3. Availability and Reliability:
 - High availability and reliability to ensure that the system is available 24/7 and performs as intended
 - Redundant hardware and software components to minimize downtime and ensure system continuity
 - Backup and disaster recovery procedures to recover data in case of system failure or outage
 - Regular maintenance and updates to keep the system up-to-date and prevent downtime
-- 
+
 ### 4. Integration:
 - Integration with external systems, such as payment gateways, social media platforms, and email services
 - API integration with other university systems, such as student information systems and course management systems
 - Compatibility with different devices and operating systems to ensure widespread accessibility
-- 
+
 ### 5. Functionality:
 - Customizable event creation and management functionality for event organizers
 - Real-time reporting and analytics to track event attendance, feedback, and performance
