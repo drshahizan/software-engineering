@@ -49,7 +49,7 @@ Periodically review the system to ensure that it continues to meet the needs of 
 ## Requirements Engineering
 Requirements engineering is the process of eliciting, analyzing, specifying, validating, and managing the requirements for a software system. In the context of an academic course registration system, the requirements engineering process is crucial for ensuring that the system meets the needs of its stakeholders, including students, faculty members, and university administrators.
 
-The requirements engineering process for an academic course registration system typically involves the following steps:
+The requirements engineering process for an academic advisor system typically involves the following steps:
 
 ### 1.Student and advisor profiles
 The system should have profiles for both students and advisors. This will allow students to connect with their assigned advisors and allow advisors to access student information and academic records.
@@ -78,7 +78,7 @@ The system should incorporate appropriate security and privacy measures to prote
 ### 9. Integration with other systems
 The system should be able to integrate with other academic systems, such as student information systems and learning management systems.
 
-In the context of an academic course registration system, the requirements engineering process should focus on ensuring that the system provides an intuitive and efficient user interface for students and faculty members to browse and register for courses, as well as for administrators to manage course scheduling and student records. The system should also be designed to handle large volumes of data and be scalable to accommodate future growth in the university's student population.
+In the context of an academic advisor system, the requirements engineering process should focus on ensuring that the system provides an intuitive and efficient user interface for students and faculty members to provides a comprehensive solution for academic advising and support. The system should also be designed to handle large volumes of data and be scalable to accommodate future growth in the university's student population.
 
 ## Stakeholders
 Stakeholders in an academic course registration system can be broadly categorized into three groups:
