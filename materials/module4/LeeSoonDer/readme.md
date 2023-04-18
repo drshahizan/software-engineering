@@ -23,7 +23,7 @@ Parents: In some cases, parents may also be stakeholders, particularly if the fe
 
 <h2>Developing a student feedback system for a university requires careful planning and execution. Here are some steps to develop a student feedback system for a university:</h2>
 
-Define the <strong>objectives and goals</strong> of the feedback system: Before creating a student feedback system, it is important to identify what the feedback will be used for, what specific goals the system will serve, and what type of data will be collected.
+Define the <b>objectives and goals</b> of the feedback system: Before creating a student feedback system, it is important to identify what the feedback will be used for, what specific goals the system will serve, and what type of data will be collected.
 
 Determine the <strong>scope</strong> of the feedback system: This includes identifying which groups of students will be surveyed, how often the feedback will be collected, and what topics the feedback will cover.
 
