@@ -97,7 +97,6 @@ Users and system requirements are two different aspects of an university event m
 - Real-time reporting and analytics to track event attendance, feedback, and performance
 - Accessibility features to ensure that the system is accessible to users with disabilities.
 
-Conclusion:
 The university event management system has specific user and system requirements that must be met to ensure that the system is usable, efficient, and effective. The user requirements focus on the needs and expectations of the system's users, while the system requirements focus on the technical aspects of the system, such as scalability, security, and integration. By meeting these requirements, the university event management system can be developed to meet the needs of its stakeholders and deliver a positive user experience.
 
 ## User requirements in university event management system
