@@ -12,22 +12,22 @@ Don't forget to hit the :star: if you like this repo.
 ## Key steps in creating an University Event Management System
 Brief overview of each phase of the software development lifecycle for a university event management system:
 
-###System Requirement Gathering:
+### System Requirement Gathering:
 During this phase, the key stakeholders of the university event management system need to gather and analyze the requirements for the system. The requirements can be collected through interviews, surveys, and workshops with different stakeholders. The requirements should be documented clearly and precisely, and should include functional and non-functional requirements.
 
-###System Design:
+### System Design:
 The system design phase is where the software architects and designers create a high-level design of the system. They identify the modules and components of the system and define how these components will interact with each other. This phase also includes designing the user interface, data storage, and data flow diagrams.
 
-###System Development:
+### System Development:
 The system development phase involves the actual coding of the system. Developers use the specifications from the system design phase to develop the system's software components. The coding is done in an iterative and incremental way, and the code is tested and debugged regularly.
 
-###System Testing:
+### System Testing:
 In the system testing phase, the developed system is tested to ensure that it meets the functional and non-functional requirements identified in the requirement gathering phase. Different types of testing, such as unit testing, integration testing, system testing, and acceptance testing, are performed during this phase.
 
-###System Deployment:
+### System Deployment:
 In the system deployment phase, the developed system is installed and made available for use. The system is deployed on a production server or cloud-based infrastructure. The deployment process includes installing the system, configuring it, and integrating it with other systems in the university environment.
 
-###System Maintenance:
+### System Maintenance:
 After the system is deployed, the system maintenance phase begins. The system is monitored regularly to ensure that it is functioning as intended. Maintenance activities can include fixing bugs, applying security patches, adding new features, and upgrading the system's infrastructure.
 
 A university event management system is a software application designed to streamline and automate the process of planning and executing events within a university or college environment. This system can be used to manage a wide range of events, including academic conferences, sporting events, cultural events, and student organization events. It can be a powerful tool for managing events in a university or college environment. By automating and streamlining the event planning process, this system can save time and resources while improving the overall quality of events.
