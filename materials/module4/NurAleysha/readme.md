@@ -151,6 +151,42 @@ The system should have support and maintenance features to ensure that any issue
 
 By meeting these system requirements, the college room rental system can provide a reliable, secure, and efficient platform for students and staff to manage room rentals and streamline the housing process on campus.
 
+## Functional Requirement in College Room Rental System
+
+Functional requirements in a college room rental system describe the specific features and functions that the system must perform to meet the needs of users and stakeholders. These requirements typically relate to the tasks that users need to perform when using the system. Here are some examples of functional requirements for a college room rental system:
+
+### 1. User registration and authentication: 
+The system should allow users to create accounts and log in securely. It should also have a feature to verify the user's identity to prevent unauthorized access.
+
+### 2. Room search and filtering: 
+The system should allow users to search and filter rooms based on various criteria, such as location, price, and amenities. It should provide users with a list of available rooms and allow them to view room details and photos.
+
+### 3. Room booking: 
+The system should allow users to select and book available rooms. It should provide users with a calendar showing the availability of rooms and allow them to book a room for a specific time period.
+
+### 4. Payment processing: 
+The system should allow users to make payments securely using various payment methods. It should provide a secure payment gateway and allow users to view their payment history and status.
+
+### 5. Room availability management: 
+The system should allow administrators to manage the availability of rooms, update occupancy status, and set rental rates. It should provide an interface for administrators to add, modify, or delete room availability information.
+
+### 6. Room information management: 
+The system should allow administrators to manage and update room information, such as photos, descriptions, and amenities. It should provide an interface for administrators to add, modify, or delete room information.
+
+### 7. Roommate matching: 
+The system may provide a feature for matching students with potential roommates based on their preferences, such as lifestyle and study habits. It should provide an interface for users to view and modify their roommate preferences.
+
+### 8. Notifications and alerts: 
+The system should provide notifications and alerts to users for booking confirmations, changes, and cancellations. It should also send reminders to users for upcoming booking dates.
+
+### 9. Reporting: 
+The system should generate reports on room availability, occupancy rates, and revenue. It should provide an interface for administrators to view and download reports.
+
+### 10. Support and assistance: 
+The system should provide support and assistance to users in case of any issues or concerns regarding their room rentals. It should provide an interface for users to contact the support team and request assistance.
+
+By meeting these functional requirements, the college room rental system can provide a comprehensive and efficient platform for managing room rentals, ensuring a positive user experience for both students and staff
+
 
 
 
