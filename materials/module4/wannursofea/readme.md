@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): Academic Course Registration System
 
-## Key steps in creating an Academic Course Registration System
+## Key steps in creating an Academic Advisor System
 Developing an academic course registration system for a university involves several key steps:
 
 ### 1. Define the system's requirements
