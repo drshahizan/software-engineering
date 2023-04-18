@@ -61,6 +61,19 @@ The system should allow customers to rate and review restaurants and dishes. Thi
 ### 8. Reporting and analytics: 
 The system should provide detailed reporting and analytics features that enable restaurant owners to track sales, monitor customer behavior, and identify trends.
 
+## Stakeholder
+### 1. Customers: 
+The customers who will use the system to place orders for food from the participating restaurants.
+
+### 2. Restaurant owners: 
+The owners of the participating restaurants who will use the system to manage their menus, receive and fulfill orders, and track their sales and performance.
+
+### 3. Payment gateway providers: 
+The providers of the payment gateway services used by the system to process online payments.
+
+### 4. System administrators: 
+The administrators who will manage and maintain the system, ensure its security, and provide technical support to users.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
