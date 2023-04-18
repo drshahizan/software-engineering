@@ -23,7 +23,7 @@ In this stage, the requirements of the system are gathered, documented, and anal
 <br>
 In this stage, the technical and functional specifications of the system are developed. This involves creating the architecture, user interface, and database design of the system.
 
-<b>4. Development: <b/>
+<b>4. Development: </b>
 <br>
 In this stage, the software code of the system is written, tested, and deployed. This involves following the design specifications and coding standards to build a reliable and efficient system.
 
