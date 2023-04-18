@@ -55,6 +55,26 @@ The next step is to document the requirements in a clear and unambiguous manner.
 ### 5. Requirements management
 Finally, the requirements should be managed throughout the development process to ensure that they are up-to-date and aligned with the evolving needs of the educational institution. This may involve tracking changes to the requirements, managing stakeholders' expectations, and communicating the requirements to the development team.
 
+By following these steps, you can ensure that the requirements of the student attendance system are well-understood, documented, validated, and managed throughout the development process, which can help to ensure the success of the system.
+
+## Stakeholders
+Stakeholders in an academic course registration system can be broadly categorized into three groups:
+
+### 1. Students
+Students are the primary users of the attendance system, as they need to check in and out of classes and track their attendance records.
+
+### 2. Lecturer
+Lecturer are responsible for taking attendance, monitoring attendance patterns, and communicating attendance issues with students and administrators.
+
+### 3. University Administrators
+University administrators are responsible for managing the attendance system, setting attendance policies, generating attendance reports, and ensuring compliance with attendance requirements.
+
+### 4. Parents
+Parents may also be stakeholders in the attendance system, as they may want to monitor their child's attendance and receive notifications or alerts about their child's attendance issues.
+
+### 5. Acedemic Advisors
+ Academic advisors may also be stakeholders, as they may use the attendance system to monitor student attendance and provide guidance on academic progress.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 

@@ -23,6 +23,26 @@ Don't forget to hit the :star: if you like this repo.
 
 <h2>Conclusion:</h2> Sum up your proposal and restate the importance of having a student feedback system in universities. Emphasize the benefits and potential positive impact that the system could have on students, teachers, and the university as a whole.
 
+<h2>Requirement Engineering Process</h2>
+<b>1.Requirements Elicitation:</b> The process of gathering and discovering requirements from stakeholders. This can be done through interviews, surveys, workshops, focus groups, and other techniques.
+<br><br>
+<b>2.Requirements Analysis:</b> Analyzing the requirements to understand their scope, feasibility, and impact. This includes identifying stakeholders, prioritizing requirements, and resolving any conflicts.
+<br><br>
+<b>3.Requirements Specification:</b> Documenting the requirements in a clear and concise manner. This includes creating use cases, user stories, functional and non-functional requirements, and other specifications.
+<br><br>
+<b>4.Requirements Validation:</b> Ensuring that the requirements are complete, accurate, and consistent. This includes reviewing the requirements with stakeholders, testing them, and validating them against business objectives and constraints.
+<br><br>
+<b>5.Requirements Management:</b> Managing changes to the requirements throughout the project lifecycle. This includes tracking changes, ensuring traceability, and maintaining the requirements baseline.
+<br><br>
+<b>6.Requirements Communication:</b> Communicating the requirements to stakeholders in a clear and concise manner. This includes creating documentation, presentations, and other communication materials to convey the requirements and their impact.
+<br><br>
+<b>7.Requirements Traceability:</b> Ensuring that the requirements are traceable from the original stakeholder requirements through to the final product. This includes linking requirements to design, development, and testing artifacts.
+<br><br>
+<b>8.Requirements Prioritization:</b> Prioritizing requirements based on business value, risk, and impact. This includes creating a requirements traceability matrix, identifying critical requirements, and managing requirements dependencies.
+<br><br>
+<b>9.Requirements Verification:</b> Verifying that the requirements have been implemented correctly. This includes testing the product against the requirements, reviewing the code, and verifying that the product meets the stakeholder requirements.
+<br><br>
+<b>10.Requirements Maintenance:</b> Maintaining the requirements throughout the product lifecycle. This includes updating the requirements as changes occur, ensuring that the requirements are still relevant, and ensuring that they meet the needs of the stakeholders.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
