@@ -97,9 +97,28 @@ Functional requirements are the specific features and capabilities that a studen
 
 10. System administration: The system should allow for system administration and management, including user management, system configuration, and backup and recovery.
 
+## Non-Functional Requirements
+
+1. Performance: The system should be responsive and efficient in performing its functions. For example, it should load quickly and process requests in a timely manner.
+
+2. Security: The system should ensure the confidentiality, integrity, and availability of health and wellness information. It should also protect against unauthorized access, data breaches, and cyber attacks.
+
+3. Scalability: The system should be able to handle an increasing number of users and data without compromising its performance and functionality.
+
+4. Reliability: The system should be reliable and available at all times, with minimal downtime or system failures. It should also be able to recover quickly from any failures.
+
+5. Usability: The system should be user-friendly and easy to use for students, healthcare professionals, and school administrators.
+
+6. Interoperability: The system should be able to integrate with other systems used by the school, such as the school's student information system, to provide a seamless user experience.
+
+7. Maintainability: The system should be easy to maintain, update, and modify, with minimal disruption to its operation.
+
+8. Compliance: The system should comply with relevant regulations and standards, such as HIPAA, FERPA, and accessibility guidelines.
+
+
 <br/>
 
-## What to do BEFORE, DURING and AFTER Interview
+## What should do BEFORE, DURING and AFTER Interview
 
 Before the interview
 
