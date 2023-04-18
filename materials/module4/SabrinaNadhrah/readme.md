@@ -78,6 +78,60 @@ IT staff may be responsible for developing and maintaining the system.
 
 It is important to identify all stakeholders and their requirements to ensure that the system meets their needs and expectations. The requirements may differ for each stakeholder, and it is important to prioritize them based on their importance and feasibility.
 
+## User requirements in college room rental system
+
+User requirements are critical in the creation of a college room rental system. Here are some examples of user requirements for the system:
+
+#### 1. Room search: 
+Students need to be able to search for available rooms based on criteria such as location, price range, and room type.
+
+#### 2. Room booking: 
+Students need to be able to book a room online and receive a confirmation of their reservation. They should also be able to modify or cancel their booking if needed.
+
+#### 3. Payment processing: 
+Students need to be able to make payments for their room reservations online securely and easily. The system should support various payment options such as credit/debit cards, PayPal, or other electronic payment methods.
+
+#### 4. Room management: 
+College administrators and landlords need to be able to manage their rooms and update their availability status in real-time.
+
+#### 5. User account management: 
+Students and landlords need to be able to create and manage their user accounts, update their personal information, and view their booking history.
+
+#### 6. Feedback and reviews: 
+Students and landlords should be able to provide feedback and reviews about their experiences with the system, rooms, and other users.
+
+#### 7. Security and privacy: 
+The system should ensure the security and privacy of user information and transactions, protect against unauthorized access, and comply with relevant laws and regulations.
+
+These are just some examples of user requirements for a college room rental system. It is important to gather and document all user requirements in detail to ensure that the system meets the needs and expectations of its users.
+
+## System requirements in college room rental system
+
+System requirements are the technical specifications that the college room rental system must meet in order to function effectively and efficiently. Here are some examples of system requirements for the system:
+
+#### 1. Performance: 
+The system should be able to handle a large number of users and transactions simultaneously without significant slowdowns or crashes.
+
+#### 2. Scalability: 
+The system should be designed to scale up or down to accommodate changes in user traffic and data volume.
+
+#### 3. Reliability: 
+The system should be available and accessible to users at all times with minimal downtime or errors.
+
+#### 4. Security: 
+The system should be designed with multiple layers of security to protect against unauthorized access, data breaches, and other security threats.
+
+#### 5. User interface: 
+The user interface should be intuitive, user-friendly, and responsive across different devices and platforms.
+
+#### 6. Integration: 
+The system should be able to integrate with other relevant systems and services such as payment gateways, student information systems, and property management systems.
+
+#### 7. Compliance: 
+The system should comply with relevant laws and regulations such as data protection laws, payment regulations, and accessibility guidelines.
+
+These are just some examples of system requirements for a college room rental system. It is important to gather and document all system requirements in detail to ensure that the system is developed to meet technical specifications and functional requirements.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
