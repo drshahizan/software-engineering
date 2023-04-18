@@ -137,6 +137,36 @@ a. The system should be able to integrate with other academic systems, such as c
 a.The system should be customizable to meet the unique needs of the institution and its users.
 b.The system should be able to adapt to changes in grading policies and criteria.
 
+## Functional Requirement:
+
+Functional requirements in an academic grading system refer to the specific features and functionalities that the system must have to fulfill its purpose. These requirements describe what the system should do and how it should perform.
+
+The functional requirements for an academic grading system may include:
+
+### 1. Grade entry and management:
+a.The system should allow faculty members to enter and manage grades for all students in their courses.
+b.The system should support a variety of grading scales and methods, including letter grades, numeric grades, and pass/fail.
+
+### 2. Grade calculation and reporting:
+a.The system should calculate grades based on the grading policies and criteria established by the institution.
+b.The system should provide automated reporting of student grades to students, faculty members, and administrators.
+
+### 3. Student progress tracking:
+a.The system should allow students to track their academic progress and view their grades for all courses and assignments.
+b.The system should provide progress reports to faculty members and administrators to track overall academic performance.
+
+### 4. Grading policy management:
+a.The system should allow administrators to define and manage the grading policies and criteria used by the institution.
+b.The system should provide the flexibility to modify and adjust grading policies and criteria as needed.
+
+### 5. Integration with other academic systems:
+a. The system should integrate with other academic systems, such as course management and student information systems, to ensure seamless data sharing and reporting.
+
+Meeting these functional requirements is essential for the successful implementation and use of an academic grading system, as it ensures that the system performs the necessary tasks and functions required by its users.
+
+
+
+
 
 
 
