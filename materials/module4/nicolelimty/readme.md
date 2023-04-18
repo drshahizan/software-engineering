@@ -36,7 +36,7 @@ Regularly maintain and update the system to ensure that it remains secure, funct
 ### 8. Gather feedback: 
 Collect feedback from users to identify areas for improvement and to ensure that the system continues to meet their needs over time.
 
-The requirements engineering process for a student attendance management system typically involves the following steps:
+## The requirements engineering process for a student attendance management system typically involves the following steps:
 
 ### 1. Identify stakeholders: 
 Determine who the system's primary and secondary stakeholders are, including teachers, students, administrators, and parents.
