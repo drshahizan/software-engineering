@@ -13,7 +13,6 @@ Don't forget to hit the :star: if you like this repo.
 Developing a  Library Management System for a university involves several key steps:
 
 ### Introduction:
-
 This proposal outlines the key steps involved in creating a library management system. A library management system is a software application that helps libraries to manage their collections of books, journals, and other resources. It allows librarians to track the availability of resources, manage loans and returns, and provide access to digital resources. This proposal outlines the key steps involved in creating a library management system that meets the unique needs of your library.
 
 ### Step 1: Needs Assessment
