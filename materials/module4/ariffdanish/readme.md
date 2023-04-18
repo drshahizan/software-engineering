@@ -72,30 +72,31 @@ Users and system requirements are two different aspects of an food ordering syst
 
 ## User requirements in academic course registration system
 
-User requirements in an academic course registration system refer to the specific needs and expectations of the system's users, which include students, faculty members, and university administrators. User requirements are typically expressed in terms of user stories, scenarios, or use cases, and they are focused on the functionality and usability of the system.
+User requirements in a food ordering system refer to the specific needs and expectations of the system's users, which include students, university staff, and cafeteria staff. User requirements are typically expressed in terms of user stories, scenarios, or use cases, and they are focused on the functionality and usability of the system.
 
-The following are some examples of user requirements for an academic course registration system:
+The following are some examples of user requirements for a food ordering system:
 
-### 1. Course Search
-Students should be able to easily search for courses based on course code, department, instructor, time of day, and other relevant criteria.
+### 1. Easy to use interface
+The system should have a user-friendly interface that allows students to navigate through the system with ease. The menu items and prices should be clearly displayed, and the ordering process should be intuitive.
 
-### 2. Course Registration
-Students should be able to register for courses online, including adding and dropping classes, and viewing their class schedule.
+### 2. Menu customization
+The system should allow students to customize their orders based on their dietary preferences or restrictions. For example, they may want to specify if they want their food to be gluten-free or vegetarian.
 
-### 3. Waitlist Management
-The system should be able to handle waitlists for courses, including notifying students when a spot becomes available and automatically enrolling them in the course.
+### 3. Payment options
+The system should offer multiple payment options, such as credit cards, debit cards, and mobile payments, to make the checkout process more convenient for students.
 
-### 2. Course Management
-Faculty members should be able to manage their courses, including adding and removing students, managing course materials, and submitting grades.
+### 4. Fast delivery
+The system should ensure that the food is delivered to the students in a timely manner. Students are often in a hurry, so it is important to deliver the food quickly.
 
-### 4. Academic Record Management
-Students and faculty members should be able to access and view their academic records, including transcripts, grade reports, and other relevant information.
 
-### 5. Reporting and Analytics
-University administrators should be able to generate reports and analytics based on course enrollment data, including enrollment trends, course capacity, and student retention.
+### 5. Order tracking
+The system should allow students to track their orders in real-time, so they can know exactly when their food will arrive.
 
-### 6. User Authentication and Authorization
-The system should have robust authentication and authorization mechanisms to ensure that only authorized users can access the system and perform certain actions.
+### 6. Loyalty programs
+The system should offer loyalty programs to encourage students to order food from the same restaurant. This could include discounts, free items, or other rewards.
+
+### 7.Customer support
+The system should have a customer support team in place to address any issues that may arise during the ordering process. This could include issues with the payment, delivery, or quality of the food.
 
 ## System requirements in food ordering system
 
