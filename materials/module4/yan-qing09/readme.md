@@ -46,52 +46,31 @@ Overview of the steps involved in the requirement engineering process for a heal
 
 <br/>
 
-## User requirements and system requirements
+## User Requirements and System Requirements
 
 User Requirements:
-User requirements refer to the needs and expectations of the users of the system. In the case of a student health and wellness management system, the user requirements can include the following:
 
-1. Health Record Management:
-Students should be able to manage their health records easily, including uploading test results, vaccination records, and medical history.
+- Accessibility: The system should be accessible to all students, including those with disabilities, and should be user-friendly for ease of use.
 
-2. Appointment Scheduling:
-Students should be able to schedule appointments with healthcare professionals easily and quickly, without having to go through a long process.
+- Health Records Management: The system should provide a way for students to access and manage their health records, including immunizations, allergies, and medical conditions.
 
-3. Reminders and Notifications:
-The system should provide students with reminders and notifications of upcoming appointments, medical check-ups, and other important healthcare-related events.
+- Appointment Scheduling: The system should allow students to schedule appointments with healthcare professionals and receive reminders for upcoming appointments.
 
-4. User-Friendly Interface:
-The user interface of the system should be easy to use and navigate, even for those who are not tech-savvy.
+- Wellness Tracking: The system should allow students to track their wellness goals, such as exercise and diet, and provide tips and resources to support healthy habits.
 
-5. Access to Relevant Resources:
-The system should provide access to relevant health and wellness resources, including information about mental health, healthy eating, and physical exercise.
-
-<br/>
+- Communication: The system should allow students to communicate with healthcare professionals and school administrators, and receive timely and accurate information about health and wellness.
 
 System Requirements:
-System requirements refer to the features and functionalities that the system must have to meet the user requirements. In the case of a student health and wellness management system, the system requirements can include the following:
 
-1. Health Record Management System:
-The system should provide a comprehensive health record management system that enables students to manage their health records securely.
+- Data Security: The system should ensure the security of students' health and wellness information, including protection against unauthorized access and data breaches.
 
-2. Appointment Scheduling System:
-The system should have an appointment scheduling system that allows students to schedule appointments with healthcare professionals easily.
+- Scalability: The system should be scalable to accommodate the growing number of students and healthcare professionals using the system.
 
-3. Reminders and Notifications System:
-The system should have a reminders and notifications system that sends notifications to students about upcoming appointments, medical check-ups, and other healthcare-related events.
+- Integration: The system should be able to integrate with other systems used by the school, such as the school's student information system, to provide a seamless user experience.
 
-4. User-Friendly Interface:
-The system should have a user-friendly interface that is easy to navigate and use.
+- Performance: The system should be fast and responsive, with minimal downtime or system failures.
 
-5. Security and Privacy:
-The system should have a robust security and privacy system that protects the confidentiality and integrity of student health records.
-
-6. Access to Relevant Resources:
-The system should provide access to relevant health and wellness resources, including information about mental health, healthy eating, and physical exercise.
-
-<br/>
-
-Overall, the user requirements and system requirements for a student health and wellness management system are focused on providing students with a comprehensive and user-friendly system for managing their health and wellness needs. The system should be easy to use, secure, and provide access to relevant resources to support students' health and wellness.
+- Customization: The system should allow for customization to meet the specific needs of the school and its students.
 
 
 
