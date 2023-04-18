@@ -44,11 +44,9 @@ Parents: In some cases, parents may also be stakeholders, particularly if the fe
 <li>Evaluate and <strong>update the feedback system</strong>: Periodically evaluate the effectiveness and efficiency of the feedback system to ensure that it continues to serve the objectives and goals of the university. Update the system as necessary to reflect changing needs and requirements.</li>
 
 </ul>
-
-	<h1>Requirements Engineering Process for a Student Feedback System</h1>
-
-	<h2>Elicitation</h2>
-	<ul>
+<h1>Requirements Engineering Process for a Student Feedback System</h1>
+<h2>Elicitation</h2>
+<ul>
 		<li>Identify key stakeholders and their roles and responsibilities.</li>
 		<li>Develop a list of questions to ask stakeholders to elicit requirements.</li>
 		<li>Select appropriate techniques for eliciting requirements, such as interviews, surveys, focus groups, or observations.</li>
