@@ -177,4 +177,51 @@ Here are some potential functional requirements for a Student Health and Wellnes
 
 -The mobile interface should be responsive and user-friendly.
 
+## Interview with Stakeholder
+Here are some tips for what to do before, during, and after an interview with stakeholders and subject matter experts to gather information about their needs and expectations for your project:
+
+### Before the Interview:
+
+-Identify the stakeholders and subject matter experts you need to interview.
+
+-Research the background and context of your project, as well as any relevant industry trends or regulations.
+
+-Prepare a list of open-ended questions to ask during the interview.
+
+-Test your questions with a small group of people to ensure they are clear and easy to understand.
+
+-Confirm the interview time, location, and participants.
+
+### During the Interview:
+
+-Introduce yourself and explain the purpose of the interview.
+
+-Build rapport with the interviewee to create a comfortable and open environment for discussion.
+
+-Ask open-ended questions to encourage the interviewee to provide detailed and honest responses.
+
+-Listen actively and take notes throughout the interview.
+
+-Clarify any ambiguous or unclear statements made by the interviewee.
+
+-Avoid leading questions or imposing your own assumptions or biases.
+
+-Be flexible and willing to explore unexpected ideas or concerns that may arise during the interview.
+
+-Thank the interviewee for their time and participation.
+
+### After the Interview:
+
+-Review and organize your notes from the interview.
+
+-Reflect on the information gathered and identify any gaps or areas for further exploration.
+
+-Analyze the information and extract key insights and requirements.
+
+-Share your findings with your team and incorporate them into your project plan.
+
+-Follow up with the interviewee to thank them for their time and provide any additional information or clarification as needed.
+
+-Consider the feedback and insights gathered from the interviewee in future iterations of your project.
+
 ## Contribution 🛠️
