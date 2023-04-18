@@ -47,7 +47,6 @@ Periodically review the system to ensure that it continues to meet the needs of 
 
 
 ## Requirements For Developing An Academic Advisor System
-Requirements engineering is the process of eliciting, analyzing, specifying, validating, and managing the requirements for a software system. In the context of an academic course registration system, the requirements engineering process is crucial for ensuring that the system meets the needs of its stakeholders, including students, faculty members, and university administrators.
 
 The requirements engineering process for an academic advisor system typically involves the following steps:
 
