@@ -8,6 +8,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): Academic Advisor System
+## Key steps in creating an Academic Advisor System
 
 Developing an academic advisor system can be a complex process, but here are some key steps to consider:
 
