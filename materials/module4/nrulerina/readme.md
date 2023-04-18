@@ -10,8 +10,8 @@
     the management team, and the developers.Understand their needs and requirements for the system.
 
    ###    Specify the Functional Requirements: 
-   Define the functional requirements of the system, such as the ability to receive and process orders, 
-   track parcels, generate delivery routes,and manage payments.
+      Define the functional requirements of the system, such as the ability to receive and process orders, 
+      track parcels, generate delivery routes,and manage payments.
 
  ###       Specify the Non-Functional Requirements: 
     Define the non-functional requirements of the system, such as performance, scalability, security, and usability.
