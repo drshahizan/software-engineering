@@ -100,7 +100,13 @@ In summary, requirement engineering is a critical process for developing a stude
        </ul>
       
 ## User Requirements for a Student Engagement System
-      
+   Scalability: The system should be able to scale to accommodate a large number of users, including students, teachers, parents, and administrators.
+
+Security: The system should have robust security features, including encryption, user authentication, and access controls, to protect sensitive student and institutional data.
+
+Accessibility: The system should be accessible to all users, including those with disabilities, and should comply with accessibility standards.
+
+Performance: The system should be fast and responsive, with minimal latency, to provide an optimal user experience.   
     
 
 
