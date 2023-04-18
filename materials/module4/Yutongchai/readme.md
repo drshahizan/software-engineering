@@ -8,7 +8,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): University Course Management System
-#Key steps to develop a University course management system:
+## Key steps to develop a University course management system:
 
 <b>1. Requirements gathering</b>
 <br>
