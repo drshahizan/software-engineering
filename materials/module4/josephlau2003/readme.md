@@ -48,6 +48,7 @@
 
 <p>Understanding the needs and requirements of these stakeholders is crucial for designing an HMS that is user-friendly, efficient, and meets the operational needs of the hostel. It is important to involve stakeholders in the requirements gathering and validation process to ensure that the system meets their expectations and addresses their pain points.</p>
 <p>System requirements for a hostel management system refer to the technical and functional specifications that the system must meet to operate efficiently and effectively. These requirements are often expressed in terms of features, capabilities, and constraints, and they are focused on ensuring that the system meets the needs of its users while being technically sound and reliable.</p>
+	
     <h2>Examples of System Requirements</h2>
     <ol>
       <li>Room and Bed Management</li>
