@@ -1,22 +1,26 @@
-<a href="https://github.com/drshahizan/software-engineering/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/software-engineering" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/network/members"><img src="https://img.shields.io/github/forks/drshahizan/software-engineering" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering"><img src="https://img.shields.io/github/issues/drshahizan/software-engineering" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/software-engineering?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/software-engineering)
+# Software Requirements Document (SRD): Student Health and Wellness Management 
 
-Don't forget to hit the :star: if you like this repo.
+## Key steps in creating an Student Health and Wellness Management 
 
-# Software Requirements Document (SRD): Your topic
+Designing and implementing a Student Health and Wellness Management System involves several key steps:
 
+### 1. Identify Requirements: 
+The first step in creating a Student Health and Wellness Management System is to identify the requirements of the system. This includes identifying the needs of students, such as the ability to manage their medical records, schedule appointments with healthcare providers, and sign up for wellness activities.
 
+### 2. Design the System Architecture: 
+Once the requirements have been identified, the next step is to design the system architecture. This involves defining the structure of the system, including the databases, user interface, and integration with other systems such as electronic health record systems and campus information systems.
 
-## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
+### 3. Develop the System: 
+After the system architecture has been designed, the development phase begins. This involves coding the system, integrating it with other systems, and conducting testing to ensure that it is functioning as intended.
 
-You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+### 4. Implement the System: 
+Once the system has been developed and tested, it is time to implement it. This involves deploying the system, training users on how to use it, and ensuring that it is integrated with other systems.
 
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
+### 5. Monitor and Maintain the System: 
+After the system has been implemented, it is important to monitor its performance and maintain it. This involves conducting regular updates and addressing any issues that arise.
+
+### 6. Evaluate the System: 
+Finally, it is important to evaluate the system to determine its effectiveness. This includes analyzing user feedback and system usage data to identify areas for improvement and make any necessary changes.
 
 
 
