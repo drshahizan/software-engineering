@@ -7,30 +7,37 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Software Requirements Document (SRD): Academic Course Registration System
+# Software Requirements Document (SRD): Student Attendance System
 
 ## Key steps in creating an Academic Course Registration System
 Developing an academic course registration system for a university involves several key steps:
 
-### 1. System requirements gathering
-The first step is to gather requirements for the system. This involves talking to stakeholders such as students, faculty members, and university administrators to understand their needs and expectations from the system. The system requirements should include features such as course catalog, course registration, scheduling, waitlist management, grade management, and student information management.
+### 1. Determine the system requirements:
+Identify what features and functionalities the attendance system should have. This may include tracking attendance in real-time, generating reports, sending notifications, etc.
 
-### 2. System design
-Once the requirements are gathered, the next step is to design the system. This involves creating a detailed system design document that outlines the system architecture, database design, and user interface design.
+### 2. Choose a technology platform: 
+Decide on the technology stack that you will use to develop the system. This may include choosing a programming language, database management system, and other tools.
 
-### 3. System development
-The system development involves implementing the design using programming languages, tools, and frameworks. The system should be developed with scalability and maintainability in mind, so that it can handle a large number of students and courses.
+### 3.Design the user interface: 
+Create a user-friendly interface that allows teachers and administrators to easily take attendance and view reports.
 
-### 4. System testing
-After the system is developed, it needs to be thoroughly tested to ensure that it meets the requirements and works as expected. Testing should be done for all possible scenarios, including edge cases and error handling.
+### 4. Develop the system:
+Write the code for the attendance system based on the chosen technology platform and system requirements.
 
 ### 5. System deployment
 Once the system is tested and approved, it needs to be deployed on the university's servers or cloud infrastructure. The system should be monitored for performance and availability.
 
-### 6. System maintenance
-After the system is deployed, it needs to be maintained and updated to ensure that it continues to meet the changing needs of the university. This involves fixing bugs, adding new features, and improving performance.
+### 6.Test the system:
+Perform thorough testing to ensure that the system is functioning correctly and meets all the requirements.
 
-The academic course registration system should provide a user-friendly interface for students to browse and register for courses, as well as for faculty members to manage their courses and student grades. The system should also allow for automated waitlist management and scheduling conflicts. Overall, the system should streamline the course registration process and reduce administrative burden for the university staff.
+###7.Implement the system: 
+Install and deploy the attendance system in the school environment.
+
+###8Train users: 
+Train teachers and administrators on how to use the system effectively.
+
+###9.Maintain and update the system: 
+Monitor the system for issues and update it as needed to ensure it remains up-to-date and functioning properly.
 
 ## Requirements Engineering
 Requirements engineering is the process of eliciting, analyzing, specifying, validating, and managing the requirements for a software system. In the context of an academic course registration system, the requirements engineering process is crucial for ensuring that the system meets the needs of its stakeholders, including students, faculty members, and university administrators.
