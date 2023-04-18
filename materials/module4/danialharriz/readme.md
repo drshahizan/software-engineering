@@ -49,7 +49,35 @@ After launching the system, provide ongoing maintenance and support. This includ
 
 Periodically evaluate the registration system to determine its effectiveness in meeting the intended objectives. Identify areas for improvement and make necessary changes to enhance the system's performance and usability.
 
-## By following these key steps, you can create an electronic appliance registration system for your university that will help manage electronic devices on campus, ensure compliance with policies and regulations, and improve campus safety and security.
+### By following these key steps, you can create an electronic appliance registration system for your university that will help manage electronic devices on campus, ensure compliance with policies and regulations, and improve campus safety and security.
+
+## Requirements Engineering
+
+Requirement engineering is the process of eliciting, analyzing, and documenting requirements for a system. For an electronic appliance registration system for a university, the following requirements may need to be considered:
+
+## 1. Functional Requirements: These are requirements related to the system's functions and capabilities, such as:
+ - Ability to register electronic devices by type, model, and serial number
+ - Ability to track the location and status of registered devices
+ - Ability to generate reports on registered devices, such as inventory reports or maintenance reports
+ - Ability to send notifications to users about upcoming device expirations or renewals
+ - Integration with other systems on campus, such as the campus security system or student information system
+
+
+## 2, Non-functional Requirements: These are requirements related to the system's performance, usability, and security, such as:
+  - System availability and reliability
+  - User interface design and usability
+  - Security measures to protect user data and prevent unauthorized access
+  - Compliance with relevant laws and regulations, such as data protection laws
+
+
+## 3. Operational Requirements: These are requirements related to the system's operation and maintenance, such as:
+  - System maintenance and support
+  - System backup and disaster recovery procedures
+  - Training for users and system administrators
+  - Scalability and adaptability to changing needs and requirements
+
+
+### To ensure that all of these requirements are met, it is important to gather input from all relevant stakeholders, such as students, faculty members, IT professionals, and security personnel. This input can then be analyzed and documented to ensure that the electronic appliance registration system meets the needs of all stakeholders and is effective in achieving its intended objectives.
 
 
 

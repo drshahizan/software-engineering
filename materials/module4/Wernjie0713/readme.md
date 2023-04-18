@@ -9,31 +9,20 @@ Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): Student Feedback System UTM
 
-Developing a student feedback system for a university involves designing and implementing a system that allows students to provide feedback on various aspects of their educational experience, such as courses, instructors, campus facilities, and services.
-<br>
-<ol>
-<li>Identify the Purpose and Scope: Determine the purpose and scope of your student feedback system. What are the specific objectives you want to achieve with this system? What aspects of the university experience do you want to collect feedback on? For example, you could focus on course content, teaching methods, assessments, or campus facilities.</li>
-<br>
-<li>Conduct Research: Conduct research to understand existing student feedback systems and best practices. Review relevant literature, explore existing student feedback systems used in other universities or educational institutions, and gather feedback from your peers to understand their needs and expectations from such a system.</li>
-<br>
-<li>Define System Requirements: Based on your research and objectives, define the requirements for your student feedback system. This includes determining what data you want to collect, how you want to collect it (e.g., online surveys, in-person interviews), and how you will analyze and store the data.</li>
-<br>
-<li>Choose Technology and Tools: Select the appropriate technology and tools for your student feedback system. This could include online survey tools, data analysis software, and databases for storing feedback data. Consider factors such as ease of use, scalability, and security when choosing your technology stack. </li>
-<br>
-<li>Design the System: Design the user interface and user experience (UI/UX) of your student feedback system. Create mockups or prototypes to visualize how the system will work and gather feedback from potential users to refine your design.</li>
-<br>
-<li>Develop the System: Build the student feedback system using the chosen technology and tools. This may involve coding, configuring software, and setting up databases. Test the system thoroughly to ensure it functions as intended and is user-friendly.</li>
-<br>
-<li>Implement Data Collection: Implement the data collection process according to the system requirements. This may involve creating online surveys, conducting interviews, or other methods of data collection, depending on your chosen approach.</li>
-<br>
-<li>Analyze and Interpret Data: Once you have collected sufficient feedback data, analyze and interpret the data to gain insights and identify areas for improvement. Use statistical analysis or other data analysis techniques to process the data and generate meaningful findings.</li>
-<br>
-<li>Present Findings and Recommendations: Present the findings and recommendations from your data analysis to relevant stakeholders, such as university administrators, faculty, and fellow students. Use visualizations, reports, and presentations to effectively communicate your findings and recommendations.</li>
-<br>
-<li>Evaluate and Improve: Evaluate the effectiveness of your student feedback system and gather feedback from users. Use this feedback to continuously improve the system and make necessary updates based on user needs and expectations.</li>
-</ol>
-<br>
-Developing a student feedback system for a university requires careful planning, design, and implementation to ensure that it effectively collects feedback, generates meaningful insights, and drives improvements in the educational experience for students. Collaboration with relevant stakeholders, such as faculty, administrators, and students, is crucial to ensure that the system meets their needs and expectations.
+<h2>Introduction:</h2> Start with an introduction to the topic of student feedback in universities. Explain why it's important, what the current situation is like, and why there is a need for a new or improved system.
+
+<h2>Objectives:</h2> Clearly state the objectives of your proposed feedback system. What do you hope to achieve? What problems do you want to solve? What benefits will the system provide for students, teachers, and the university as a whole?
+
+<h2>System design:</h2> Describe the design of your proposed feedback system. This could include the format of the feedback, the questions you want to ask, the platform you want to use, the frequency of the feedback, and so on. Be as detailed as possible.
+
+<h2>Benefits:</h2> Explain the benefits of your proposed feedback system. These could include improved student engagement, better student-teacher communication, more effective teaching, and improved academic outcomes. You could also discuss how the feedback system will help the university in terms of institutional effectiveness, quality assurance, and accreditation.
+
+<h2>Implementation plan:</h2> Outline the steps that will be required to implement the feedback system. This could include obtaining approval from university administrators, piloting the system with a small group of students and teachers, refining the system based on feedback, and rolling it out to the wider university community.
+
+<h2>Evaluation:</h2> Explain how you will evaluate the success of the feedback system. What metrics will you use to measure the effectiveness of the system? How will you ensure that the feedback is being used to make positive changes in the university?
+
+<h2>Conclusion:</h2> Sum up your proposal and restate the importance of having a student feedback system in universities. Emphasize the benefits and potential positive impact that the system could have on students, teachers, and the university as a whole.
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

@@ -43,7 +43,66 @@ Parents: In some cases, parents may also be stakeholders, particularly if the fe
 
 <li>Evaluate and <strong>update the feedback system</strong>: Periodically evaluate the effectiveness and efficiency of the feedback system to ensure that it continues to serve the objectives and goals of the university. Update the system as necessary to reflect changing needs and requirements.</li>
 
-</ul》
+</ul>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Requirements Engineering Process for a Student Feedback System</title>
+</head>
+<body>
+	<h1>Requirements Engineering Process</h1>
+	<h2>Elicitation</h2>
+	<ul>
+		<li>Identify key stakeholders and their roles and responsibilities.</li>
+		<li>Develop a list of questions to ask stakeholders to elicit requirements.</li>
+		<li>Select appropriate techniques for eliciting requirements, such as interviews, surveys, focus groups, or observations.</li>
+		<li>Document all requirements and ensure they are clear and unambiguous.</li>
+	</ul>
+
+	<h2>Analysis</h2>
+	<ul>
+		<li>Review all requirements for consistency, completeness, accuracy, and feasibility.</li>
+		<li>Identify any conflicts or overlaps between requirements.</li>
+		<li>Prioritize requirements based on their importance to stakeholders.</li>
+		<li>Document all changes made during the analysis process.</li>
+	</ul>
+
+	<h2>Specification</h2>
+	<ul>
+		<li>Use a standard format to specify all requirements, such as use cases or functional requirements.</li>
+		<li>Ensure that all requirements are testable and measurable.</li>
+		<li>Define any constraints or assumptions associated with each requirement.</li>
+		<li>Review all requirements with stakeholders to ensure they are complete and accurate.</li>
+	</ul>
+
+	<h2>Validation</h2>
+	<ul>
+		<li>Develop prototypes or mockups to test requirements with stakeholders.</li>
+		<li>Conduct simulations to validate requirements and ensure they meet the needs of stakeholders.</li>
+		<li>Review feedback from stakeholders and make any necessary changes to the requirements.</li>
+		<li>Document all changes made during the validation process.</li>
+	</ul>
+
+	<h2>Verification</h2>
+	<ul>
+		<li>Conduct a final review of all requirements to ensure they are complete and correct.</li>
+		<li>Verify that all requirements meet the objectives and goals of the feedback system.</li>
+		<li>Ensure that all requirements are traceable and can be linked back to stakeholder needs.</li>
+		<li>Document all changes made during the verification process.</li>
+	</ul>
+
+	<h2>Management</h2>
+	<ul>
+		<li>Create a requirements management plan to track changes to requirements throughout the development process.</li>
+		<li>Use a requirements management tool to manage requirements and track dependencies between requirements.</li>
+		<li>Ensure that all changes to requirements are approved by stakeholders.</li>
+		<li>Prioritize requirements based on their importance to stakeholders and the project goals.</li>
+	</ul>
+
+</body>
+</html>
+
 
 
 ## Contribution 🛠️

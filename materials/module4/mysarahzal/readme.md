@@ -38,6 +38,35 @@ Continue to improve the system based on user feedback and evolving needs. This m
 
 Overall, developing an academic advisor system requires a collaborative effort among stakeholders, including students, faculty, academic advisors, and IT professionals. By following these key steps, you can create an effective and user-friendly system that supports academic success for all users.
 
+## Requirements Engineering
+The requirements engineering process for an Academic Advisor System can be broken down into the following steps:
+
+### Identify Stakeholders
+The first step is to identify the stakeholders involved in the academic advisor system. This includes academic advisors, students, faculty members, and administrators.
+
+### Gather Requirements
+Next, gather requirements by conducting interviews, focus groups, surveys, and other methods to understand the needs of the stakeholders. The requirements gathered may include the following:
+
+- Academic advisor interface: The academic advisor system should have an easy-to-use interface that allows advisors to manage their advisee list, track student progress, and access relevant   academic information.
+-  Student interface: The system should have a student interface that allows students to schedule appointments with their academic advisors, view their academic progress, and receive relevant academic information.
+- Course management: The system should allow academic advisors to manage course offerings, including course descriptions, prerequisites, and availability.
+- Communication: The system should facilitate communication between academic advisors and their advisees, as well as between academic advisors and faculty members.
+- Scheduling: The system should allow students to schedule appointments with their academic advisors, and academic advisors to manage their appointment schedule.
+
+### Analyze Requirements
+After gathering requirements, analyze them to identify any conflicts or inconsistencies, and prioritize them based on their importance and feasibility.
+
+### Document Requirements
+Document the requirements in a Software Requirements Specification (SRS) document that includes functional and non-functional requirements, use cases, and system constraints.
+
+### Review and Validate Requirements
+Review and validate the requirements with the stakeholders to ensure they accurately represent their needs and are feasible to implement.
+
+### Manage Requirements
+Manage the requirements throughout the development process, including tracking changes, resolving conflicts, and verifying that the system meets the requirements.
+
+By following these steps, the requirements engineering process can ensure that the Academic Advisor System is developed to meet the needs of its stakeholders and provides a reliable and efficient solution for managing academic advising.
+
 
 
 ## Contribution 🛠️
