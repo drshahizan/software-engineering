@@ -88,6 +88,30 @@ The system should be accessible to all users, including those with disabilities.
 ### Security:
 The system should be designed with security in mind, including strong authentication and authorization mechanisms, secure data storage, and data encryption.
 
+## Functional Requirement
+
+### Student Profile Management:
+The system should allow the academic advisor to create and manage student profiles, which include information such as name, contact information, academic status, and academic history.
+
+### Scheduling and Appointment Management:
+The system should allow the advisor to schedule and manage appointments with students. This can include features such as calendar integration, automated reminders, and the ability to reschedule or cancel appointments.
+
+### Academic Planning:
+The system should allow the advisor to help students plan their academic careers, including selecting courses, setting goals, and monitoring progress.
+
+### Course Registration:
+The system should allow the advisor to help students register for courses, including selecting courses that meet academic requirements, checking course availability, and resolving scheduling conflicts.
+
+### Academic Advising:
+The system should allow the advisor to provide academic advice to students, including guidance on academic policies, degree requirements, and academic opportunities such as internships, research opportunities, and study abroad programs.
+
+### Progress Monitoring:
+The system should allow the advisor to monitor the progress of students towards their academic goals, including tracking grades, academic standing, and completion of degree requirements.
+
+### Reporting and Analytics:
+The system should provide reporting and analytics features that allow the advisor to monitor student progress and identify trends or issues that require attention. This can include features such as dashboards, alerts, and data visualization tools.
+
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
