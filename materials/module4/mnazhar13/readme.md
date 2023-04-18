@@ -52,7 +52,7 @@ Provide ongoing support and maintenance for the grading system, including monito
 Provide training to faculty and students on how to effectively use the grading system. Create user documentation and provide support resources to help users navigate and utilize the system efficiently.
 
 
-## Requirements to creating an online student grading system
+## Requirements to Creating an Online Student Grading System
 
 When developing an online student grading system for a university, it's important to consider the specific requirements of the institution and stakeholders involved. Here are some common requirements to consider:
 
@@ -183,11 +183,95 @@ The system should have administrative features to manage user accounts, permissi
 
 The system should have robust security measures in place to protect sensitive student data, including encryption, authentication, and authorization controls. It should also comply with relevant data privacy regulations, such as GDPR or FERPA, and ensure that only authorized users have access to student grades.
 
-### 12. Scalability and Performance: The system should be scalable and able to handle a large number of users and grades, especially in a university setting where there may be a high volume of students and courses. It should also perform efficiently and provide a responsive user experience, even during peak usage times.
+### 12. Scalability and Performance
+
+The system should be scalable and able to handle a large number of users and grades, especially in a university setting where there may be a high volume of students and courses. It should also perform efficiently and provide a responsive user experience, even during peak usage times.
 
 ### 13. Support and Training
 
 The system should provide adequate support and training resources for users, including documentation, training materials, and a helpdesk or support system. This can help ensure that users are proficient in using the system and can troubleshoot any issues that may arise.
+
+## Non-Functional Requirements
+
+Non-functional requirements for an online student grading system in a university typically include the following:
+
+### 1. Reliability
+
+The system should be reliable and available for use during critical grading periods, such as the end of the semester or during exams. It should have minimal downtime, be resilient to failures, and recover quickly from any disruptions.
+
+### 1. Performance
+
+The system should perform efficiently and provide a responsive user experience, even when handling a large number of concurrent users and grades. It should have fast response times for grade input, calculation, and retrieval, and be able to handle peak loads without significant degradation in performance.
+
+### 2. Scalability
+
+The system should be scalable and able to accommodate the growing number of students, courses, and grades in a university setting. It should be able to handle increasing data volume and user concurrency, and be easily expandable to meet future needs.
+
+### 3. Security
+
+The system should have robust security measures in place to protect sensitive student data, including grades and personal information. It should have mechanisms for authentication and authorization, use encryption to protect data transmission and storage, and have proper access controls to prevent unauthorized access.
+
+### 4. Data Integrity and Privacy
+
+The system should ensure the integrity and accuracy of student grades and data, and prevent unauthorized modifications or tampering. It should also comply with relevant data privacy regulations, such as GDPR or FERPA, and protect student privacy by securely storing and handling their personal information.
+
+### 5. Usability
+
+The system should be user-friendly and easy to use for both faculty and students. It should have a well-designed user interface, provide clear instructions and guidance for users, and minimize the learning curve for new users. It should also be accessible and usable across different devices and platforms.
+
+### 6. Interoperability
+
+The system should be able to integrate with other existing university systems, such as the student information system or learning management system, to ensure seamless data flow and consistency across different systems. It should adhere to relevant standards and protocols for integration.
+
+### 7. Maintenance and Support
+
+The system should be easy to maintain and support, with proper documentation, logging, and monitoring capabilities. It should have a reliable support system in place, with timely response to user inquiries and issues, and regular system updates and patches to ensure system stability and security.
+
+### 8. Disaster Recovery
+
+The system should have proper disaster recovery mechanisms in place, such as regular data backups, redundant systems, and a plan for data recovery in case of system failures, natural disasters, or other emergencies.
+
+### 9. Compliance
+
+The system should comply with relevant legal, regulatory, and institutional policies, such as copyright laws, academic integrity policies, and university regulations related to grading and assessment.
+
+
+These are some common non-functional requirements for an online student grading system in a university. It is important to consider both functional and non-functional requirements when designing, developing, and implementing such a system to ensure its effectiveness, reliability, and security in supporting the grading process for students.
+
+## What to do Before, During and After Interview with Stakeholders
+
+## Before the Interview
+
+- Research the Topic: Familiarize yourself with the concept of online student grading systems. Understand how they work, their benefits, challenges, and common features.
+
+- Prepare Questions: Develop a list of relevant questions to ask during the interview. Consider asking about the stakeholders involved, the requirements for the system, the technology used, the challenges faced, and the best practices for implementation.
+
+- Identify Interviewees: Identify potential interviewees who have expertise in online student grading systems, such as faculty members, administrators, IT personnel, or other relevant stakeholders.
+
+## During the Interview
+
+- Active Listening: Listen attentively to the interviewee's responses and ask follow-up questions to gain a deeper understanding of their experiences and perspectives on the topic.
+
+- Take Notes: Take detailed notes during the interview to capture important information and insights shared by the interviewee.
+
+- Seek Examples: Request examples or case studies of successful online student grading system implementations or challenges faced during implementation.
+
+- Respect Interviewee's Opinions: Be respectful of the interviewee's opinions and perspectives, even if they differ from your own. Avoid interrupting or challenging their views.
+
+## After the Interview
+
+- Review Notes: Review your notes from the interview to ensure accuracy and completeness.
+
+- Analyze and Synthesize: Analyze the information gathered from the interview and synthesize the findings to identify common themes, trends, and insights related to the online student grading system.
+
+- Reflect and Interpret: Reflect on the interview findings and interpret them in the context of your research topic. Consider how the information gathered can contribute to your understanding of the topic.
+
+- Follow-Up: If needed, follow up with the interviewees for any clarifications or additional information.
+
+- Reference: Properly cite and acknowledge the interviewees' contributions in your research, if applicable.
+
+Remember to conduct yourself professionally during the interview, respect the interviewee's time and opinions, and use the information gathered to enhance your understanding of the topic of online student grading systems.
+
 
 
 ## Summary

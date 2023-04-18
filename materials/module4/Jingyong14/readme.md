@@ -172,7 +172,29 @@ The stakeholders for a student feedback system in a university may include:
     <li>Compatibility: The system should be compatible with commonly used web browsers and devices, including desktops, laptops, tablets, and smartphones.</li>
     <li>Scalability: The system should be able to handle increasing numbers of users, feedback submissions, and data storage requirements as the university grows.</li>
   </ul>
-
+<h2>Interview</h2>
+<h3>Before the Interview with Stakeholders:</h3>
+<ul>
+<li>Identify the stakeholders: Determine who the relevant stakeholders are for your student feedback system. This may include faculty, students, administrators, IT staff, and other relevant parties.</li>
+<li>Define the interview objectives: Clearly outline the objectives of the interview, such as gathering feedback, understanding requirements, and identifying concerns or expectations.</li>
+<li>Prepare interview questions: Develop a list of open-ended questions that will help you gather information about the stakeholders' perspectives, needs, and expectations related to the student feedback system.</li>
+<li>Plan logistics: Schedule the interviews with stakeholders, arrange for necessary resources such as meeting rooms or virtual conferencing tools, and ensure that you have the required permissions or approvals to conduct the interviews.</li>
+</ol>
+<h3>During the Interview with Stakeholders: </h3>
+<ul>
+<li>Set the tone: Establish a friendly and professional atmosphere for the interview. Introduce yourself, explain the purpose of the interview, and ensure that stakeholders feel comfortable sharing their thoughts and opinions.</li>
+<li>Ask open-ended questions: Use your prepared interview questions to prompt stakeholders to share their perspectives, needs, and expectations related to the student feedback system. Listen attentively and take notes.</li>
+<li>Probe for details: Ask follow-up questions to gain deeper insights and clarify any ambiguous or incomplete responses. Encourage stakeholders to elaborate on their feedback and provide specific examples or scenarios.</li>
+<li>Respect stakeholders' perspectives: Respect the opinions and perspectives of stakeholders, even if they differ from your own. Avoid making judgments or assumptions, and remain neutral and impartial throughout the interview process.</li>
+</ol>
+<h3>After the Interview with Stakeholders:</h3>
+<ol>
+<li>Analyze the data: Review the notes and feedback collected during the interviews to identify common themes, patterns, and trends. Organize the data for further analysis and use in the requirements engineering process.</li>
+<li>Follow up: If needed, follow up with stakeholders for clarification or additional information after the interviews. Address any questions or concerns they may have and ensure that their feedback has been accurately captured.</li>
+<li>Incorporate feedback into requirements: Use the insights gained from the stakeholder interviews to refine and update the requirements for your student feedback system. Incorporate the feedback into the system design, functionality, and user experience as appropriate.</li>
+<li>Communicate findings: Share the findings and insights gathered from the stakeholder interviews with relevant team members, project sponsors, or other stakeholders. Ensure that the feedback received is considered in decision-making processes related to the student feedback system development.</li>
+<li>Remember to approach stakeholder interviews with an open mind, actively listen to their perspectives, and use their feedback to inform your requirements engineering process. Respect stakeholders' opinions and perspectives, and communicate findings effectively to ensure that their feedback is appropriately considered in the development of your student feedback system.</li>
+</ol>
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 

@@ -65,7 +65,7 @@ In this stage, the requirements are documented in a clear and concise manner. Th
 In this stage, the requirements are reviewed and validated to ensure that they meet the needs of the stakeholders and users. This involves conducting walkthroughs, inspections, and tests to verify the requirements.
 
 ## User Requirements
-<b>1.User Profiles: </b>
+<b>1. User Profiles: </b>
 <br>
 The ability for users to create and manage their own profiles, including personal information, interests, and profile pictures.
 
@@ -111,8 +111,10 @@ The ability for users to create and manage their own profiles, including persona
 
 ## Functional Requirements
 
-<b>1.User Profile Management:</b> Users should be able to create and manage their profiles on the social networking system. This would include adding personal information, profile pictures, and interests.
-<b>2.Friend Management: </b>Users should be able to add friends to their network and manage their friend list. They should also be able to view their friends' profiles and communicate with them.
+<b> 1.User Profile Management:</b> Users should be able to create and manage their profiles on the social networking system. This would include adding personal information, profile pictures, and interests.
+
+<b> 2.Friend Management: </b>Users should be able to add friends to their network and manage their friend list. They should also be able to view their friends' profiles and communicate with them.
+
 <b>3.News Feed: </b>Users should be able to view a news feed that displays the activities of their friends and the groups they belong to.
 
 <b>4.Group Management:</b> Users should be able to create and manage groups based on their interests or academic courses. They should be able to add members, post updates, and interact with other members of the group.
@@ -124,6 +126,19 @@ The ability for users to create and manage their own profiles, including persona
 <b>7.Search:</b> Users should be able to search for other users, groups, or events based on their interests or keywords.
 
 <b>8.Notification: </b>Users should be able to receive notifications related to friend requests, group invitations, event updates, or any other important information related to their network.
+
+## Non-Functional Requirements
+Non-functional requirements in a University Social Networking System are related to the system's performance, usability, security, reliability, and maintainability. These requirements are important to ensure that the system meets the needs of the users and operates effectively and efficiently.
+
+* ***Performance requirements*** include aspects such as response time, throughput, and capacity. Users of the system expect it to respond quickly to their requests and provide a fast and seamless experience. The system should be able to handle a large number of users simultaneously and provide adequate bandwidth and processing power to support its operation.
+
+* ***Usability requirements*** focus on how easy and intuitive the system is to use for the target users. The system should have a user-friendly interface that is easy to navigate and understand. The system should also be accessible to all users, including those with disabilities.
+
+* ***Security requirements*** are critical to ensure that the system is secure and protected against unauthorized access, data breaches, and cyber-attacks. The system should implement appropriate security measures such as authentication, encryption, and access control to protect users' data and maintain confidentiality.
+
+* ***Reliability requirements*** ensure that the system is available and functional when needed. The system should have a high level of availability and uptime to ensure that users can access the system whenever they need it.
+
+* ***Maintainability requirements*** focus on how easy it is to maintain and update the system. The system should have well-documented code, be easy to troubleshoot, and allow for easy updates and enhancements.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

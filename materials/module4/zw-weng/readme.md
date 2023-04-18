@@ -85,12 +85,12 @@ In summary, the different stakeholders in a university accommodation management 
 Users and system requirements are two different aspects of an accommodation management system, and it is important to understand the differences between them.
 
 ### User requirements
-Users refer to the people who will be using the system, including students, faculty members, and university administrators. They have specific needs, preferences, and expectations from the system, and their requirements are often expressed in terms of user stories, scenarios, or use cases. For example, a student may require the ability to search for courses by department, instructor, or time of day, while a faculty member may require the ability to view student transcripts or communicate with their class via email.
+User requirements refer to the specific needs and expectations of the users of the system. They describe what the system should do and how it should behave from the perspective of the user. User requirements are focused on the user experience and are typically expressed in non-technical terms. For example, a user requirement for a university accommodation management system might be that users should be able to easily view room availability and reserve a room through the system.
 
 ### System requirements
-System requirements, on the other hand, refer to the technical and functional specifications of the system. They describe what the system must do, and are often expressed in terms of features, capabilities, and constraints. For example, the system may need to be able to handle a certain number of concurrent users, have robust authentication and authorization mechanisms, and integrate with other university systems such as the student information system or the learning management system.
+System requirements, on the other hand, refer to the specific features and functions that the system must perform to meet the user requirements. They describe what the system should do and how it should behave from a technical perspective. System requirements are typically expressed in technical terms and may include details such as software architecture, hardware requirements, and programming languages. For example, a system requirement for a university accommodation management system might be that the system must provide real-time information on room availability and allow users to book a room quickly and easily.
 
-While user requirements and system requirements are distinct, they are closely related, and it is important to ensure that they are aligned. The system requirements should be designed to meet the needs and expectations of the system's users, and the user requirements should be prioritized and translated into specific system requirements. By understanding both users and system requirements, designers and developers can create a course registration system that meets the needs of its stakeholders while being technically sound and reliable.
+In summary, user requirements are focused on the needs and expectations of the users, while system requirements are focused on the technical features and functions that the system must perform to meet those needs. Both user requirements and system requirements are important to consider when developing a system to ensure that it meets the needs and expectations of its users and performs as intended.
 
 ## User requirements in accommodation management system
 
@@ -175,6 +175,38 @@ The system should provide a way for users to communicate with accommodation staf
 The system should provide security features such as user authentication, data encryption, and backup and recovery measures to protect user data.
 
 In summary, functional requirements for a university accommodation management system include features such as room availability, reservation, online payments, maintenance requests, check-in and check-out, room assignments, reporting and analytics, communication, and security. These requirements should be carefully considered when developing the system to ensure that it meets the needs of its users and provides a smooth and efficient experience.
+
+## Non-functional requirements in accommodation management system
+
+Non-functional requirements are characteristics or qualities that a system must possess to meet certain standards or expectations. Unlike functional requirements, which describe what a system should do, non-functional requirements describe how a system should perform. Non-functional requirements are sometimes referred to as system qualities, non-behavioral requirements, or operational requirements.
+
+Examples of non-functional requirements for a university accommodation management system may include:
+
+### Performance: 
+The system should be able to handle a large volume of users simultaneously without slowing down or crashing, and should be able to provide a response time that is acceptable to users.
+
+### Availability: 
+The system should be available 24/7 to accommodate users who may need to make room reservations at any time.
+
+### Security: 
+The system should provide appropriate levels of security to protect user data and transactions from unauthorized access, hacking, or other threats.
+
+### Reliability: 
+The system should be reliable and able to perform its functions without errors or failures.
+
+### Scalability: 
+The system should be able to handle increasing demand for its services without degrading performance or requiring major changes.
+
+### Usability: 
+The system should be easy to use and intuitive for all types of users, including those with disabilities or limited technical skills.
+
+### Maintainability: 
+The system should be easy to maintain and update over time, with minimal downtime or disruption to users.
+
+### Compatibility: 
+The system should be compatible with a wide range of devices and platforms, including different operating systems and web browsers.
+
+In summary, non-functional requirements define the qualities or characteristics of a system that are important to its performance, usability, security, and other aspects. These requirements are often critical to the success of the system and should be carefully considered and defined during the development process.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

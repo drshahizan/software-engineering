@@ -134,5 +134,37 @@ he system requirements for a Student Health and Wellness Management system may i
 
 In summary, a Student Health and Wellness Management system should be designed to meet the needs of its users, provide secure data management, efficient appointment scheduling, reporting and analytics capabilities, and integration with external systems. The system should be designed with scalability and flexibility in mind, to accommodate future growth and changes in the healthcare landscape.
 
+## Functional Requirements in Student Health and Wellness Management 
 
+Functional requirements describe the specific features and functionalities that a Student Health and Wellness Management system should provide to its users. Some functional requirements for a Student Health and Wellness Management system may include:
 
+### 1. Appointment Scheduling:
+- The system should allow students to schedule appointments with healthcare providers.
+- The system should provide a calendar view of available appointment times and dates.
+- The system should send automated reminders to students and healthcare providers prior to scheduled appointments.
+
+### 2. Medical Record Management:
+- The system should provide students with access to their medical records, including test results, immunization records, and care plans.
+- The system should allow healthcare providers to add, update, and view patient medical records.
+- The system should have the ability to integrate with external electronic medical record systems to ensure up-to-date patient information.
+
+### 3. Wellness Programs:
+- The system should provide access to wellness programs, such as fitness classes, mental health workshops, and support groups.
+- The system should allow students to sign up for wellness programs and view program details.
+- The system should provide healthcare providers with access to student participation in wellness programs to better tailor care plans.
+
+### 4. Communication:
+- The system should allow healthcare providers to communicate with patients via secure messaging or video conferencing.
+- The system should provide a mechanism for students to provide feedback on their experiences with healthcare providers and the system.
+- The system should provide educational resources on health and wellness to students and healthcare providers.
+
+### 5. Reporting and Analytics:
+- The system should provide administrators with the ability to generate reports on system usage, such as the number of appointments scheduled, types of services provided, and user feedback.
+- The system should provide analytics and data visualization tools to enable administrators to make data-driven decisions.
+
+### 6. Security:
+- The system should have secure authentication and authorization mechanisms to ensure only authorized users can access the system.
+- The system should comply with data protection and privacy regulations.
+- The system should provide different levels of access to data, depending on the user's role and permissions.
+
+In summary, functional requirements for a Student Health and Wellness Management system should focus on providing efficient appointment scheduling, comprehensive medical record management, access to wellness programs, secure communication between patients and healthcare providers, reporting and analytics capabilities, and strong security measures to protect user data.

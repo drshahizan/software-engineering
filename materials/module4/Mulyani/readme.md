@@ -64,53 +64,81 @@ The system should comply with relevant legal and regulatory requirements, such a
 
 ## User Requirement 
 
-### User-friendly Interface:
+### 1.User-friendly Interface:
 The system should have a user-friendly interface that is easy to navigate and use. This is important for both students and academic advisors, as it can help reduce confusion and frustration.
 
-### Personalized Dashboard:
-The system should provide students with a personalized dashboard that displays their academic records, progress, and any outstanding tasks or deadlines. Academic advisors should also have access to a dashboard that provides an overview of the students they are advising.
+### 2.Personalized Dashboard:
+The ystem should provide students with a personalized dashboard that displays their academic records, progress, and any outstanding tasks or deadlines. Academic advisors should also have access to a dashboard that provides an overview of the students they are advising.
 
-### Communication Tools:
+### 3.Communication Tools:
 The system should include communication tools that allow students and academic advisors to communicate with each other. This can include email, chat, or video conferencing tools.
 
-### Scheduling Tools:
+### 4.Scheduling Tools:
 The system should include scheduling tools that allow students and academic advisors to schedule appointments and meetings. This can include calendar integration and automatic reminders.
 
-### Degree Planning and Tracking:
+### 5.Degree Planning and Tracking:
 The system should provide students with tools for planning their academic careers and tracking their progress towards their degree. This can include degree audit tools, course planning tools, and progress tracking tools.
 
-### Resource Sharing:
+### 6.Resource Sharing:
 The system should allow academic advisors to share relevant resources with students, such as course materials, study guides, and career advice.
 
-### Accessibility:
+### 7.Accessibility:
 The system should be accessible to all users, including those with disabilities. This can include features such as screen readers, captioning, and keyboard navigation.
 
-### Security:
+### 8.Security:
 The system should be designed with security in mind, including strong authentication and authorization mechanisms, secure data storage, and data encryption.
 
 ## Functional Requirement
 
-### Student Profile Management:
+### 1.Student Profile Management:
 The system should allow the academic advisor to create and manage student profiles, which include information such as name, contact information, academic status, and academic history.
 
-### Scheduling and Appointment Management:
+### 2.Scheduling and Appointment Management:
 The system should allow the advisor to schedule and manage appointments with students. This can include features such as calendar integration, automated reminders, and the ability to reschedule or cancel appointments.
 
-### Academic Planning:
+### 3.Academic Planning:
 The system should allow the advisor to help students plan their academic careers, including selecting courses, setting goals, and monitoring progress.
 
-### Course Registration:
+### 4.Course Registration:
 The system should allow the advisor to help students register for courses, including selecting courses that meet academic requirements, checking course availability, and resolving scheduling conflicts.
 
-### Academic Advising:
+### 5.Academic Advising:
 The system should allow the advisor to provide academic advice to students, including guidance on academic policies, degree requirements, and academic opportunities such as internships, research opportunities, and study abroad programs.
 
 ### Progress Monitoring:
 The system should allow the advisor to monitor the progress of students towards their academic goals, including tracking grades, academic standing, and completion of degree requirements.
 
-### Reporting and Analytics:
+### 6.Reporting and Analytics:
 The system should provide reporting and analytics features that allow the advisor to monitor student progress and identify trends or issues that require attention. This can include features such as dashboards, alerts, and data visualization tools.
 
+## Non Functional requirement
+
+### 1.Privacy:
+The system should ensure the privacy and confidentiality of student information, including adherence to relevant data protection regulations and policies.
+
+### Accessibility:
+The system should be accessible to all students, including those with disabilities, through features such as keyboard navigation, screen readers, and color contrast settings.
+
+### 2.Performance:
+The system should have fast response times and minimal latency, ensuring that advisors can provide timely assistance to students.
+
+### 3.Reliability:
+The system should be reliable and available at all times, with minimal downtime or interruptions.
+
+### 4.Usability:
+The system should be easy to use and navigate, with an intuitive user interface and clear instructions for advisors. This can include features such as responsive design, accessibility, and user testing.
+
+### 5.Flexibility:
+The system should be flexible and adaptable to meet the needs of different advisors and academic programs, allowing for customization of features and workflows.
+
+### 6.Interoperability:
+The system should be able to integrate with other academic systems and tools, such as learning management systems and student information systems, to ensure seamless communication and data exchange.
+
+### 7.Security:
+The system should have appropriate security measures in place to protect sensitive user data such as personal information, login credentials, and academic records. This can include features such as encryption, multi-factor authentication, and access controls.
+
+### 8.Maintainability:
+The system should be easy to maintain and update, with clear documentation, modular code, and effective testing procedures. This can include features such as version control, automated testing, and continuous integration and deployment.
 
 
 ## Contribution 🛠️
