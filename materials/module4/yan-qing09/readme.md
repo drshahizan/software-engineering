@@ -97,6 +97,45 @@ Functional requirements are the specific features and capabilities that a studen
 
 10. System administration: The system should allow for system administration and management, including user management, system configuration, and backup and recovery.
 
+<br/>
+
+## What to do BEFORE, DURING and AFTER Interview
+
+Before the interview
+
+- Determine the Objectives: Identify the objectives of the interview, such as gathering requirements or understanding user needs, and define the scope of the interview.
+
+- Identify the Stakeholders: Identify the key stakeholders, such as students, healthcare professionals, and school administrators, who will be involved in the interview process.
+
+- Prepare Interview Questions: Prepare a set of open-ended and focused interview questions that are relevant to the objectives and scope of the interview.
+
+- Schedule the Interview: Schedule the interview with the stakeholders in advance, and ensure that they have sufficient time to prepare for the interview.
+
+- Choose the Right Venue: Choose an appropriate venue for the interview, such as a conference room or a virtual meeting platform, and ensure that it is equipped with the necessary technology.
+
+During the Interview:
+
+- Introduce Yourself: Introduce yourself and your role in the project, and explain the objectives and scope of the interview.
+
+- Set the Tone: Create a positive and open atmosphere for the interview, and encourage stakeholders to share their thoughts and opinions.
+
+- Ask Open-ended Questions: Ask open-ended questions that allow stakeholders to express their thoughts and opinions freely, and encourage them to provide examples and details.
+
+- Listen Carefully: Listen carefully to stakeholders' responses, and ask follow-up questions to clarify any ambiguous or unclear points.
+
+- Take Notes: Take detailed notes during the interview, and record the stakeholders' responses and any important insights.
+
+After the Interview:
+
+- Analyze the Results: Analyze the notes and insights gathered during the interview, and identify common themes, patterns, and trends.
+
+- Share the Results: Share the results of the interview with stakeholders and other members of the project team, and incorporate their feedback into the project plan.
+
+- Prioritize Requirements: Prioritize the requirements based on their importance and feasibility, and develop a plan for implementing them in the student health and wellness management system.
+
+- Follow-up with Stakeholders: Follow-up with stakeholders to ensure that their concerns and suggestions have been addressed, and keep them informed of the progress of the project.
+
+Overall, conducting interviews with stakeholders is an important part of the requirements gathering process, as it provides valuable insights into the needs and preferences of the users. By preparing carefully, asking open-ended questions, and listening carefully to stakeholders' responses, you can gather valuable information that will help you to design and develop a student health and wellness management system that meets the needs of its users.
 
 
 ## Contribution 🛠️
