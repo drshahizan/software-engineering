@@ -100,7 +100,16 @@ The purpose of use case modeling and specification is to ensure that the softwar
 </ul>
 
 ### <ul><li>Techniques for creating use case models</li>
-**Narative:** 
+**Narrative:**
+A narrative use case model is a type of use case model that focuses on describing the behavior of a system from the perspective of the end-user or actor. In contrast to traditional use case models, which are typically presented in a diagrammatic or tabular format, narrative use case models are presented in prose form.
+
+The narrative use case model typically begins with a description of the actor, which is the user or system that interacts with the system being modeled. This is followed by a description of the goal or objective that the actor wishes to achieve when interacting with the system.
+
+The narrative then proceeds to describe the steps that the actor takes to achieve their goal, and the system responses at each step. These steps are often presented in the form of a sequence of events or a flowchart, which helps to illustrate the interactions between the actor and the system.
+
+One of the key advantages of using a narrative use case model is that it can help to facilitate communication between the development team and stakeholders. Because the narrative is presented in a more natural language format, it is often easier for non-technical stakeholders to understand the behavior of the system and provide feedback.
+
+Overall, narrative use case models can be a useful tool for describing the behavior of a system from the perspective of the end-user, and can help to facilitate communication and collaboration between the development team and stakeholders.
 </ul>
 
 #### -Best practices for creating effective use case models
