@@ -1,7 +1,7 @@
 # Development of a hospital information system
 A hospital information system is a software application that manages the administrative, financial, and clinical operations of a hospital. 
 
-##### Here are some key features that could be included in such a system:
+#### Here are some key features that could be included in such a system:
 
 ### 1. Patient Registration
 - The system should allow patients to register for appointments, and for hospital staff to manage patient data such as personal details, medical history, and insurance information.
