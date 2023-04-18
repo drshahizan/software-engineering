@@ -111,8 +111,10 @@ The ability for users to create and manage their own profiles, including persona
 
 ## Functional Requirements
 
-<b>1.User Profile Management:</b> Users should be able to create and manage their profiles on the social networking system. This would include adding personal information, profile pictures, and interests.
-<b>2.Friend Management: </b>Users should be able to add friends to their network and manage their friend list. They should also be able to view their friends' profiles and communicate with them.
+<b>* 1.User Profile Management:</b> Users should be able to create and manage their profiles on the social networking system. This would include adding personal information, profile pictures, and interests.
+
+<b>* 2.Friend Management: </b>Users should be able to add friends to their network and manage their friend list. They should also be able to view their friends' profiles and communicate with them.
+
 <b>3.News Feed: </b>Users should be able to view a news feed that displays the activities of their friends and the groups they belong to.
 
 <b>4.Group Management:</b> Users should be able to create and manage groups based on their interests or academic courses. They should be able to add members, post updates, and interact with other members of the group.
