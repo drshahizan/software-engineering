@@ -174,21 +174,29 @@ Before conducting an interview with stakeholders about the development of a hosp
 
 #### Here are some recommended steps:
 
-1. Identify the stakeholders: Start by identifying all of the stakeholders who have an interest in the development of the hospital information system. This may include healthcare providers, administrators, IT staff, patients, and other stakeholders who will be impacted by the system.
+### 1. Identify the stakeholders: 
+- Start by identifying all of the stakeholders who have an interest in the development of the hospital information system. This may include healthcare providers, administrators, IT staff, patients, and other stakeholders who will be impacted by the system.
 
-2. Define the scope: Define the scope of the project, including the specific features and functions of the system that will be developed, and the timeline and budget for the project.
+### 2. Define the scope: 
+- Define the scope of the project, including the specific features and functions of the system that will be developed, and the timeline and budget for the project.
 
-3. Create an interview guide: Develop an interview guide that outlines the questions you will ask during the interview, and the order in which you will ask them. This will help you stay on track and ensure that you cover all of the important topics during the interview.
+### 3. Create an interview guide: 
+- Develop an interview guide that outlines the questions you will ask during the interview, and the order in which you will ask them. This will help you stay on track and ensure that you cover all of the important topics during the interview.
 
-4. Schedule the interviews: Contact each stakeholder and schedule a time for the interview. Make sure to allow enough time for the interview, and ensure that the stakeholder is available during that time.
+### 4. Schedule the interviews: 
+- Contact each stakeholder and schedule a time for the interview. Make sure to allow enough time for the interview, and ensure that the stakeholder is available during that time.
 
-5. Send a reminder: Send a reminder to each stakeholder a day or two before the interview, to confirm the time and location, and remind them of the purpose of the interview.
+### 5. Send a reminder: 
+- Send a reminder to each stakeholder a day or two before the interview, to confirm the time and location, and remind them of the purpose of the interview.
 
-6. Prepare for the interview: Review the interview guide and prepare any materials you will need for the interview, such as note-taking tools or recording equipment.
+### 6. Prepare for the interview: 
+- Review the interview guide and prepare any materials you will need for the interview, such as note-taking tools or recording equipment.
 
-7. Conduct the interview: During the interview, ask open-ended questions and encourage the stakeholder to share their thoughts and ideas. Take detailed notes, and record the interview if necessary.
+### 7. Conduct the interview: 
+- During the interview, ask open-ended questions and encourage the stakeholder to share their thoughts and ideas. Take detailed notes, and record the interview if necessary.
 
-8. Follow up: After the interview, follow up with the stakeholder to thank them for their time and provide any additional information they may need. Use the information gathered during the interview to inform the development of the hospital information system.
+### 8. Follow up: 
+- After the interview, follow up with the stakeholder to thank them for their time and provide any additional information they may need. Use the information gathered during the interview to inform the development of the hospital information system.
 
 By taking these steps before conducting interviews with stakeholders, you can ensure that the interviews are productive and provide valuable insights into the needs and requirements of the stakeholders for the hospital information system.
 
