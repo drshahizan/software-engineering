@@ -55,18 +55,27 @@ Finally, the requirements need to be managed throughout the development lifecycl
 Overall, the requirement engineering process is an iterative and ongoing process that involves close collaboration between stakeholders, developers, and testers to ensure that the system meets the needs of its users.
 
 ## Stakeholders
-Stakeholders in an academic course registration system can be broadly categorized into three groups:
+Stakeholders in an academic course registration system can be broadly categorized into three groups.The stakeholders of a hostel management system project in a university may include:
 
 ### 1. Students
-Students are the primary users of the course registration system. They need to be able to search for courses, register for classes, drop or swap classes, and view their schedules. They also need to be able to view their grades and academic records.
+They are the primary users of the system who will use it to make hostel room reservations, check-in and check-out times, and report any issues related to their accommodation.
 
-### 2. Faculty Members
-Faculty members are responsible for managing their courses and grading students. They need to be able to view their course rosters, submit grades, and communicate with students. They may also need to view student records to identify any academic issues.
+### 2. Hostel Administrators
+The staff responsible for managing the hostels, who will use the system to allocate rooms to students, manage room inventory, and track room occupancy and maintenance issues.
 
-### 3. University Administrators
-University administrators are responsible for managing the overall academic operations of the university. They need to be able to monitor course availability, manage course scheduling and capacity, and view student enrollment data. They may also need to view student records for reporting and compliance purposes.
+### 3. University Officials
+The senior management responsible for overseeing the university's hostel management operations, who may use the system to monitor overall performance and make strategic decisions about hostel management.
 
-Other stakeholders may include academic advisors, department chairs, and IT staff who are responsible for maintaining and updating the course registration system.
+### 4. IT Department
+The team responsible for developing, maintaining, and supporting the system, who will ensure that the system is secure, reliable, and performs optimally.
+
+### 5. Billing and Payment Teams
+The staff responsible for managing billing and payments for hostel room bookings, who may use the system to generate bills, process payments, and manage student accounts.
+
+Other stakeholders may include security Teams,External Auditors,Parents and Maintenance Teams  who are responsible for maintaining and updating the Hostel Management System.
+
+Overall, effective stakeholder management is essential to ensure that the hostel management system meets the needs of all stakeholders, is delivered on time and within budget, and is widely adopted. By engaging with stakeholders throughout the project lifecycle, project managers can ensure that the system is designed to meet the requirements of all stakeholders involved, and can manage their expectations and concerns effectively.
+
 
 Understanding the needs and requirements of these stakeholders is crucial for designing a course registration system that is user-friendly, efficient, and meets the academic needs of the university. It is important to involve stakeholders in the requirements gathering and validation process to ensure that the system meets their expectations and addresses their pain points.
 
