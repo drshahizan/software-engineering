@@ -99,7 +99,6 @@
 
 	<h2>Feedback mechanism</h2>
 	<p>The system should provide a feedback mechanism for students to provide feedback on the registration process and suggest improvements.</p>
-</body>
-</html>
+
 </body>
 </html>

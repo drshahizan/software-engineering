@@ -60,25 +60,25 @@ Determine the features and functionality required for the system, such as parcel
 ## 4. Functional requirements
 Describe the specific features and functions that a delivery service system for a university must have to meet the needs of its users.
 
-- User registration: The system should allow users to register for the service by providing their personal information and delivery address.
+- User registration : The system should allow users to register for the service by providing their personal information and delivery address.
 
-- Package tracking: The system should allow users to track the status of their packages in real-time, including package location and estimated delivery time.
+- Package tracking : The system should allow users to track the status of their packages in real-time, including package location and estimated delivery time.
 
-- Delivery scheduling: The system should allow users to schedule deliveries at a convenient time and date.
+- Delivery scheduling : The system should allow users to schedule deliveries at a convenient time and date.
 
-- Package pickup: The system should allow users to schedule package pickup at designated locations on campus.
+- Package pickup : The system should allow users to schedule package pickup at designated locations on campus.
 
-- Payment processing: The system should allow users to pay for the delivery service using various payment methods, including credit cards, debit cards, or university accounts.
+- Payment processing : The system should allow users to pay for the delivery service using various payment methods, including credit cards, debit cards, or university accounts.
 
-- Package size and weight limits: The system should have a limit on package size and weight to ensure that packages can be handled safely and efficiently.
+- Package size and weight limits : The system should have a limit on package size and weight to ensure that packages can be handled safely and efficiently.
 
-- Package handling procedures: The system should have specific handling procedures for fragile, hazardous, or perishable packages.
+- Package handling procedures : The system should have specific handling procedures for fragile, hazardous, or perishable packages.
 
-- User feedback: The system should allow users to provide feedback on the delivery service, including the quality of the delivery, the timeliness of the service, and the professionalism of the delivery personnel.
+- User feedback : The system should allow users to provide feedback on the delivery service, including the quality of the delivery, the timeliness of the service, and the professionalism of the delivery personnel.
 
-- Package storage and security: The system should provide secure storage for packages until they are picked up or delivered to the recipient.
+- Package storage and security : The system should provide secure storage for packages until they are picked up or delivered to the recipient.
 
-- Delivery personnel tracking: The system should allow administrators to track the location of delivery personnel and monitor their delivery activities.
+- Delivery personnel tracking : The system should allow administrators to track the location of delivery personnel and monitor their delivery activities.
 
 ## 5. Choose a technology platform :
 
