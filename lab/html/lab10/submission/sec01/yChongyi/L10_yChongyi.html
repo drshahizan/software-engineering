@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--
+    Name: Yeoh Chong Yi
+    Matrix No: A22EC0295
+    Github id: yChongyi
+
+    Lab 10: Application Form
+    -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="text-align: center;">
+    <h1>Web Programming: Application Form</h1>
+    <form action="process.php">
+          <div style="border: 1px solid black; margin: 5px; text-align: left;">
+            <h1>Personal Details</h1>
+            <p>
+                <span style="text-align: left;">
+                    Name     
+                    <select name="name" id="name">
+                        <option value="" disabled selected>--Select --</option>
+                        <option value="mr">Mr</option>
+                        <option value="mrs">Mrs</option>
+                        <option value="miss">Miss</option>
+                        <option value="ms">Ms</option>
+                    </select>
+                    <input type="text">
+                </span>
+                <span style="text-align: right;">
+                    Date of Birth   
+                    <input type="date" />	
+                </span>
+            </p>
+            <p>
+                <span style="text-align: left;"> 
+                    Marital Status  
+                    <select name="marital" id="marital">
+                        <option value="" disabled selected>--Select --</option>
+                        <option value="Single">Single</option>
+                        <option value="Married">Married</option>
+                        <option value="Widowed">Widowed</option>
+                        <option value="Separated">Separated</option>
+                        <option value="Divorced">Divorced</option>
+                    </select>
+                </span>
+                <span style="text-align: right;">
+                    Religion
+                    <select name="religion" id="religion">
+                        <option value="" disabled selected>--Select --</option>
+                        <option value="African Traditional &amp; Diasporic">African Traditional &amp; Diasporic</option>
+                        <option value="Agnostic">Agnostic</option>
+                        <option value="Atheist">Atheist</option>
+                        <option value="Baha'i">Baha'i</option>
+                        <option value="Buddhism">Buddhism</option>
+                        <option value="Cao Dai">Cao Dai</option>
+                        <option value="Chinese traditional religion">Chinese traditional religion</option>
+                        <option value="Christianity">Christianity</option>
+                        <option value="Hinduism">Hinduism</option>
+                        <option value="Islam">Islam</option>
+                        <option value="Jainism">Jainism</option>
+                        <option value="Juche">Juche</option>
+                        <option value="Judaism">Judaism</option>
+                        <option value="Neo-Paganism">Neo-Paganism</option>
+                        <option value="Nonreligious">Nonreligious</option>
+                        <option value="Rastafarianism">Rastafarianism</option>
+                        <option value="Secular">Secular</option>
+                        <option value="Shinto">Shinto</option>
+                        <option value="Sikhism">Sikhism</option>
+                        <option value="Spiritism">Spiritism</option>
+                        <option value="Tenrikyo">Tenrikyo</option>
+                        <option value="Unitarian-Universalism">Unitarian-Universalism</option>
+                        <option value="Zoroastrianism">Zoroastrianism</option>
+                        <option value="primal-indigenous">primal-indigenous</option>
+                        <option value="Other">Other</option>
+                    </select>
+                </span>
+            </p>
+          </div>
+          <div style="border: 1px solid black; margin: 5px; text-align: left;">
+            <h1>Contact Details</h1>
+            <p>
+                <span style="text-align: left;">
+                    Phone   
+                    <input type="text">
+                </span>
+                <span style="text-align: right;">
+                    E-mail   
+                    <input type="text">
+                </span>
+            </p>
+            <p>
+                <span style="text-align: left;">
+                    Address Line 1  
+                    <input type="text">
+                </span>
+                <span style="text-align: right;">
+                    Address Line 2  
+                    <input type="text">            
+                </span>
+            </p>
+            <p>
+                <span style="text-align: left;">
+                    City  
+                    <input type="text">
+                </span>
+                <span style="text-align: right;">
+                    State   
+                    <select name="state" id="state">
+                        <option value="" disabled selected>--Select --</option>
+                        <option value="Johor">Johor</option>
+                        <option value="Kedah">Kedah</option>
+                        <option value="Kelantan">Kelantan</option>
+                        <option value="Kuala Lumpur">Kuala Lumpur</option>
+                        <option value="Labuan">Labuan</option>
+                        <option value="Melaka">Melaka</option>
+                        <option value="Negeri Sembilan">Negeri Sembilan</option>
+                        <option value="Pahang">Pahang</option>
+                        <option value="Penang">Penang</option>
+                        <option value="Perak">Perak</option>
+                        <option value="Perlis">Perlis</option>
+                        <option value="Putrajaya">Putrajaya</option>
+                        <option value="Sabah">Sabah</option>
+                        <option value="Sarawak">Sarawak</option>
+                        <option value="Selangor">Selangor</option>
+                        <option value="Terengganu">Terengganu</option>
+                    </select>
+                </span>
+            </p>
+          </div>
+          <div style="border: 1px solid black; margin: 5px; text-align: left;">
+            <h1>Qualification Details</h1>
+            <table style="width: 600px;">
+                <tr>
+                    <th>No.</th>
+                    <th>Qualification</th>
+                    <th>University</th>
+                    <th>Passing Year</th>
+                    <th>CGPA</th>
+                </tr>
+                <tr>
+                    <td>1.</td>
+                    <td>
+                        <select name="qualification" id="qualification">
+                            <option value="" disabled selected>--Select --</option>
+                            <option value="STPM">STPM</option>
+                            <option value="Asasi">Asasi</option>
+                            <option value="Matriculation">Matriculation</option>
+                            <option value="Diploma">Diploma</option>
+                        </select>
+                    </td>
+                    <td><input type="text"></td>
+                    <td><input type="text"></td>
+                    <td><input type="text"></td>
+                </tr>
+                <tr>
+                    <td>2.</td>
+                    <td>
+                        <select name="qualification" id="qualification">
+                            <option value="" disabled selected>--Select --</option>
+                            <option value="STPM">STPM</option>
+                            <option value="Asasi">Asasi</option>
+                            <option value="Matriculation">Matriculation</option>
+                            <option value="Diploma">Diploma</option>
+                        </select>
+                    </td>
+                    <td><input type="text"></td>
+                    <td><input type="text"></td>
+                    <td><input type="text"></td>
+                </tr>
+            </table>
+          </div>
+          <div style="border: 1px solid black; margin: 5px; text-align: left;">
+            <h1>Language knowledge</h1>
+            <table style="width: 600px;">
+                <tr>
+                    <th>Language</th>
+                    <td><em>Reading</em></td>
+                    <td><em>Writing</em></td>
+                    <td><em>Speaking</em></td>
+                </tr>
+                <tr>
+                    <td>B. Melayu</td>
+                    <td><input type="checkbox"></td>
+                    <td><input type="checkbox"></td>
+                    <td><input type="checkbox"></td>
+                </tr>
+                <tr>
+                    <td>English</td>
+                    <td><input type="checkbox"></td>
+                    <td><input type="checkbox"></td>
+                    <td><input type="checkbox"></td>
+                </tr>
+            </table>
+          </div>
+          <div style="border: 1px solid black; margin: 5px; text-align: left;">
+            <h1>Identification Details</h1>
+            <table>
+                <tr>
+                    <td>Identity Card Number <input type="text"></td>
+                    <td>Passport Number <input type="text"></td>
+                </tr>
+                <tr>
+                    <td>Upload Photo <input type="file"></td>
+                    <td>Upload Signature <input type="file"></td>
+                </tr>
+            </table>
+          </div>
+          <input style="text-align: center" type="submit" value="Submit" />
+          <input style="text-align: center" type="reset" value="Back" />
+      </form>
+</body>
+</html>

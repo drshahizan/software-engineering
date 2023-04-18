@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+    <title>Onepage - clean responsive HTML5 themes - thomsoon.com - API behance</title>
+
+		<meta name="description" content="Free download theme onepage, clean and modern responsive for all"/>
+		<meta name="keywords" content="responsive, html5, onepage, themes, template, clean layout, free web"/>
+		<meta name="author" content="Thomsoon.com"/>
+	
+		<link rel="shortcut icon" href="img/favicon.png"> 
+		
+		<link rel="stylesheet" type="text/css" href="css/reset.css" />
+		<link rel="stylesheet" type="text/css" href="css/api.css" />
+		<link rel="stylesheet" type="text/css" href="css/style-responsive.css" />				
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+		
+</head>
+
+<body>
+
+
+<div class="preloader" id="preloader">
+    <div class="item">
+      <img src="img/loading.gif">
+    </div>
+</div>
+
+
+<div class="container">
+
+
+<!-- section start-page -->
+
+  <section class="start-page parallax-background" id="home">
+    <script id="profile-template" type="text/x-handlebars-template">
+  
+    <div class="opacity"></div> <!-- Opacity color -->
+      <div class="content">
+        <div class="text">
+        
+          <div class="logo"><img src="{{user.images.[138]}}"></div>
+        
+          <h1>{{user.display_name}}</h1><hr/>
+          <p>{{user.fields}}</p>
+          
+          <a href="#about-us"><div class="read-more">Read more</div></a>
+          
+        </div>
+        <div class="arrow-down"></div>
+      </div>
+    </script>
+  </section>
+
+  <!-- section menu mobile -->
+  
+  <section class="menu-media">
+  
+    <div class="menu-content">
+    
+      <div class="logo">Onepage</div>
+      
+      <div class="icon"><a href="#"><img src="img/icons/menu-media.png"/></a></div>
+    
+    </div>
+   
+  </section>
+  
+    <ul class="menu-click">
+        <a href="#home"><li href="#home">HOME</li></a>
+        <a href="#about-us"><li href="#about-us">ABOUT US</li></a>
+        <a href="#portfolio"><li href="#portfolio">PORTFOLIO</li></a>
+        <a href="#contact"><li href="#contact">CONTACT</li></a>
+        
+    </ul>
+   
+   
+  <!-- section menu -->
+  
+  <section class="menu">
+
+    <div class="menu-content">
+    
+    <div class="logo">Onepage</div>
+    
+      <ul id="menu">
+        <li><a href="#home">HOME</a></li>
+        <li><a href="#about-us">ABOUT US</a></li>
+        <li><a href="#portfolio">PORTFOLIO</a></li>
+        <li><a href="#contact">CONTACT</a></li>
+      </ul>
+    </div>
+  
+  
+  </section>
+
+
+  <!-- section about us -->
+  
+  <section class="about-us" id="about-us">
+  
+    <div class="content">
+  
+    <h1>ABOUT US</h1>
+    <hr/>
+    <p class="title">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+  
+      <div class="column-one">
+  
+        <div class="circle-one"></div>
+    
+          <h2>RESPONSIVE</h2>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+    
+      </div>
+  
+      <div class="column-two">
+  
+        <div class="circle-two"></div>
+    
+          <h2>MINIMALIST</h2>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+    
+      </div>
+  
+  
+      <div class="column-three">
+  
+        <div class="circle-three"></div>
+    
+        <h2>FREEBIES</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+    
+    </div>  
+    
+    </div>
+  </section>
+  
+  <div class="clear"></div>  
+
+  <!-- portoflio-->
+
+  <section class="portfolio" id="portfolio">
+
+
+
+    <div class="portfolio-margin">
+    
+      <h1>PORTFOLIO</h1>
+      <hr/> 
+    
+    <!-- 1 item portoflio-->
+    
+        <ul class="grid" id="portfolio-grid">
+        
+        <script id="portfolio-template" type="text/x-handlebars-template">
+            
+        {{#each projects}}
+        
+          <li>
+            <a href="{{this.url}}">
+            {{#if this.covers.[404]}}
+              <img src="{{this.covers.[404]}}" alt="{{this.name}}" title="{{this.name}}">
+						{{else}}
+						{{#if this.covers.[230]}}
+              <img src="{{this.covers.[230]}}" alt="{{this.name}}">
+						{{else}}
+							<img src="{{this.covers.[202]}}" alt="{{this.name}}">
+						{{/if}}
+						{{/if}}
+                <div class="text">
+                  <p>{{this.name}}</p>
+                  <p class="description">{{this.fields}}</p>   
+              </div>
+            </a>
+          </li>
+          
+        {{/each}}       
+ 
+        </script>  
+              
+        </ul>  
+        
+   <a href=""><div class="read-more">Read more</div></a>
+   </div>   
+   
+       
+         
+   </section>
+
+  
+   <div class="clear"></div>  
+  
+  
+  
+  
+    <!-- partners-->
+
+    <section class="partners parallax-background-partners" id="partners">
+    
+    <div class="opacity"></div>
+    
+      <div class="content">
+      
+        <h2>Thanks for partners</h2>
+        
+            <div class="logo">
+          
+                <a href="#"><img src="img/logos/alex1.png"></a>
+                <a href="#"><img src="img/logos/archiq.png"></a>
+                <a href="#"><img src="img/logos/thomsoon.png"></a>
+                <a href="#"><img src="img/logos/alex2.png"></a>
+              
+            </div>
+      
+      </div>
+
+    </section>
+
+
+    <!-- Contact-->
+
+    <!-- Contact-->
+
+    <section class="contact" id="contact">
+        <h1>Contact</h1>
+        <hr/>       
+      
+        <div class="content">
+          
+          <div class="form">
+          
+            <form method="post" action="mail.php" name="kontakt">
+          
+            <div class="column">
+            YOUR NAME<br/><br/>
+            <input name="name" id="name" value="" />
+            </div>
+            
+            <div class="column-2">
+            YOUR E-MAIL<br/><br/>
+            <input name="email" id="email" value="" />
+            </div>
+          
+          
+            <div class="column-3">  
+            MESSAGE<br/><br/>        
+            <textarea id="message" name="message" ></textarea>
+            </div> 
+ 
+              <div class="button">
+                <span><input class="submit" id="submit" name="submit" type="submit" value="SEND"></span>
+              </div>
+ 
+            </form>
+          
+          </div>
+          
+          
+          <div class="contact-text">
+          
+          To contact us please use the contact form visible<br/><br/>
+
+          When sending files, please use<br/>
+          the following e-mail<br/><br/>
+
+          <strong>Tomasz Mazurczak</strong><br/><br/>
+
+          e-mail: <strong>contact@thomsoon.com</strong>
+          
+          </div>
+        
+        
+        </div>
+      
+    </section>
+
+
+    <section class="footer">
+      
+        <div class="logo"><img src="img/logo-footer.png"></div>
+        <div class="menu-footer">
+        
+          <a href="#home">Home</a>
+          <a href="#">Privacy policy</a>
+          <a href="#">RSS</a>
+          <a href="#">Facebook</a>
+          <a href="#">Dribble</a>
+          <a href="#">Twitter</a>
+          <a href="#">Contact</a>
+        
+        </div>
+        
+        <div class="copyright">© 2014. Template Thomsoon.com. Powered by <a href="http://www.behance.net">Behance</a></div>        
+    
+    
+    </section>   
+    
+
+</div>
+
+
+
+	<!-- Scripts -->
+  <script src="js/jquery-1.11.0.min.js" type="text/javascript"></script>
+  <script src="js/jquery-ui-1.10.4.min.js" type="text/javascript"></script> <!-- jQuery -->
+  <script src="js/handlebars-v2.0.0.js"></script> <!-- Handlebars -->		
+	<script src="js/jquery.parallax.js"></script> <!-- jQuery Parallax -->
+	<script src="js/jquery.nicescroll.js"></script> <!-- jQuery NiceScroll -->
+	<script src="js/jquery.sticky.js"></script> <!-- jQuery Stick Menu -->
+	<script src="js/script-api.js"></script> <!-- All script -->	
+
+</body>
+
+</html>
