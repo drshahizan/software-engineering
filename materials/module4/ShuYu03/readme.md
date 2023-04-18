@@ -181,7 +181,7 @@ The following are some examples of system requirements for an university event m
 
 By defining and meeting these system requirements, designers and developers can ensure that the university event management system is reliable, secure, and scalable. System requirements are essential to the success of the system, as they directly impact its functionality, performance, and reliability. It is important to involve system administrators, developers, and other technical experts in the requirements gathering and validation process to ensure that the system meets technical standards and best practices.
 
-## Functional Requirement in university event management system
+## Functional Requirement
 
 Functional requirements describe the specific features and functions that the university event management system must perform in order to meet the needs of its users. Here are some functional requirements for the university event management system:
 
@@ -190,7 +190,7 @@ Functional requirements describe the specific features and functions that the un
 - Option to add event details, such as time, location, description, and registration information
 - Option to customize event pages with branding and images
 - Option to add sponsors and partners to the event page
-- 
+
 ### 2. Event Browsing and Registration:
 - User-friendly event browsing and search functionality
 - Option to filter events by location, category, date, and keyword
