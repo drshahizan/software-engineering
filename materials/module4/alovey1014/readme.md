@@ -44,7 +44,7 @@ As the project progresses, requirements may change due to evolving needs, new st
 ## User Requirement
 User requirements for a student engagement system can be gathered by considering the needs and preferences of the various users of the system. Here are some possible user requirements that can be considered:
 
-## 1. Students
+### 1. Students
 Students are the primary users of the system and their requirements should be a top priority. Some user requirements for students may include:
 
 - Easy navigation and intuitive design to make it easy to access and use the system
