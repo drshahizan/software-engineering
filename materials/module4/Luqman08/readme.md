@@ -154,7 +154,8 @@ The system should have a data analytics component to analyze user behavior and p
 ### 11. Reporting: 
 The system should generate reports on key performance indicators (KPIs) to help the management make informed decisions and improve the system's performance.
 
-### 12. Disaster Recovery: The system should have a disaster recovery plan in place, to ensure that the system can recover from any disasters such as power outages, natural disasters, or cyber attacks.
+### 12. Disaster Recovery: 
+The system should have a disaster recovery plan in place, to ensure that the system can recover from any disasters such as power outages, natural disasters, or cyber attacks.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
