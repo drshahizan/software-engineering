@@ -74,9 +74,9 @@ Overall, the requirement engineering process for a hospital information system s
 
 User requirements in a hospital information system refer to the specific needs of the users or stakeholders of the system. System requirements refer to the technical capabilities and features that the system should have in order to meet these needs. 
 
-## User requirement in hospital information system:
+## User Requirement in Hospital Information System:
 
-Here are some examples of user requirements for a hospital information system:
+#### Here are some examples of user requirements for a hospital information system:
 
 1. Healthcare providers need to access patient information quickly and easily in order to provide timely and effective care. They need the system to provide a clear and concise overview of the patient's medical history, including diagnoses, medications, test results, and allergies.
 
@@ -90,9 +90,9 @@ Here are some examples of user requirements for a hospital information system:
 
 By understanding these user requirements, a hospital information system can be designed to meet the needs of its users and support the delivery of high-quality healthcare services.
 
-## System Requirement in hospital information system
+## System Requirement in Hospital Information System:
 
-Here are some examples of user and system requirements for a hospital information system:
+#### Here are some examples of user and system requirements for a hospital information system:
 
 1. The system should be fast and responsive, with low latency and high throughput, to ensure that healthcare providers can access patient information quickly and easily.
 
@@ -107,3 +107,5 @@ Here are some examples of user and system requirements for a hospital informatio
 6. The system should be customizable, with the ability to tailor workflows and modules to the specific needs of the hospital.
 
 7. The system should be compliant with relevant regulatory requirements, such as HIPAA, to ensure that patient data is kept secure and confidential.
+
+By considering these system requirements, a hospital information system can be designed to meet the needs of its users and support the delivery of high-quality healthcare services.
