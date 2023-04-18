@@ -1,6 +1,6 @@
 # Software Requirements Document (SRD): Campus Management System
 
-## Key steps in creating an Academic Course Registration System
+## Key steps in creating an Campus Management System
 Developing an campus management system for a university involves several key steps:
 
 ### 1. System requirements gathering
