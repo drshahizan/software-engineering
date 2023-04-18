@@ -10,7 +10,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): Online Grading System
 
-## Developing an academic registration system for a university requires careful planning and consideration of various aspects such as the features required, the user interface, security, and scalability. Here are some steps that you can follow to develop an academic registration system for a university:
+## Developing an academic registration system for a university requires some steps that you can follow to develop an academic registration system for a university:
 
 ### 1. Define the Requirements:
 Start by defining the requirements of the registration system, including the features required, the user roles and permissions, and the data that needs to be captured during registration. The features may include student registration, course registration, faculty management, student records management, and reporting.
