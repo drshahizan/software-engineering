@@ -176,6 +176,38 @@ The system should provide security features such as user authentication, data en
 
 In summary, functional requirements for a university accommodation management system include features such as room availability, reservation, online payments, maintenance requests, check-in and check-out, room assignments, reporting and analytics, communication, and security. These requirements should be carefully considered when developing the system to ensure that it meets the needs of its users and provides a smooth and efficient experience.
 
+## Non-functional requirements in accommodation management system
+
+Non-functional requirements are characteristics or qualities that a system must possess to meet certain standards or expectations. Unlike functional requirements, which describe what a system should do, non-functional requirements describe how a system should perform. Non-functional requirements are sometimes referred to as system qualities, non-behavioral requirements, or operational requirements.
+
+Examples of non-functional requirements for a university accommodation management system may include:
+
+### Performance: 
+The system should be able to handle a large volume of users simultaneously without slowing down or crashing, and should be able to provide a response time that is acceptable to users.
+
+### Availability: 
+The system should be available 24/7 to accommodate users who may need to make room reservations at any time.
+
+### Security: 
+The system should provide appropriate levels of security to protect user data and transactions from unauthorized access, hacking, or other threats.
+
+### Reliability: 
+The system should be reliable and able to perform its functions without errors or failures.
+
+### Scalability: 
+The system should be able to handle increasing demand for its services without degrading performance or requiring major changes.
+
+### Usability: 
+The system should be easy to use and intuitive for all types of users, including those with disabilities or limited technical skills.
+
+### Maintainability: 
+The system should be easy to maintain and update over time, with minimal downtime or disruption to users.
+
+### Compatibility: 
+The system should be compatible with a wide range of devices and platforms, including different operating systems and web browsers.
+
+In summary, non-functional requirements define the qualities or characteristics of a system that are important to its performance, usability, security, and other aspects. These requirements are often critical to the success of the system and should be carefully considered and defined during the development process.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
