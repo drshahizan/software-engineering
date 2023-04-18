@@ -43,7 +43,22 @@ Parents: In some cases, parents may also be stakeholders, particularly if the fe
 
 <li>Evaluate and <strong>update the feedback system</strong>: Periodically evaluate the effectiveness and efficiency of the feedback system to ensure that it continues to serve the objectives and goals of the university. Update the system as necessary to reflect changing needs and requirements.</li>
 
-</ul》
+</ul>
+
+<h2>The requirements engineering process for a student feedback system for a university typically involves the following steps:</h2>
+<ul>
+  <li><b>Elicitation</b>: This involves gathering information about the requirements of the feedback system from stakeholders, such as students, faculty, and administrators. Techniques for eliciting requirements may include interviews, surveys, focus groups, or observations.</li>
+
+  <li><b>Analysis</b>: Once the requirements have been gathered, they need to be analyzed to identify any inconsistencies, conflicts, or missing information. This involves reviewing the requirements to ensure they are complete, accurate, and feasible.</li>
+
+  <li><b>Specification</b>: The requirements must be specified in a clear and concise manner, using a language that is understandable by all stakeholders. This may involve creating use cases, user stories, or functional requirements.</li>
+
+  <li><b>Validation</b>: The requirements must be validated to ensure they meet the needs of stakeholders and are feasible to implement. This may involve reviewing the requirements with stakeholders, testing prototypes or mockups, or conducting simulations.</li>
+
+  <li><b>Verification</b>: Once the requirements have been validated, they need to be verified to ensure they are complete and correct. This involves reviewing the requirements to ensure they meet the objectives and goals of the feedback system.</li>
+
+  <li><b>Management</b>: Finally, the requirements must be managed throughout the development process to ensure they are implemented correctly. This involves tracking changes to the requirements, managing dependencies between requirements, and ensuring that the requirements are prioritized based on their importance to stakeholders.</li>
+</ul>
 
 
 ## Contribution 🛠️
