@@ -51,6 +51,7 @@ Provide ongoing support and maintenance for the grading system, including monito
 
 Provide training to faculty and students on how to effectively use the grading system. Create user documentation and provide support resources to help users navigate and utilize the system efficiently.
 
+
 ## Requirements to creating an online student grading system
 
 When developing an online student grading system for a university, it's important to consider the specific requirements of the institution and stakeholders involved. Here are some common requirements to consider:
@@ -95,6 +96,7 @@ The system should be scalable and able to handle a large number of concurrent us
 
 The system should have provisions for ongoing support and maintenance, including regular updates, bug fixes, and technical support to ensure smooth operation and address any issues that may arise.
 
+
 ## Stakeholders 
 Stakeholers in the creation of an online student grading system typically include individuals or groups who have a vested interest in the system's development, implementation, and usage. Some common stakeholders in this context may include:
 
@@ -132,6 +134,7 @@ Depending on the specific requirements of the university, other stakeholders suc
 
 
 Involving key stakeholders throughout the development process can help ensure that the online student grading system meets the needs and expectations of all relevant parties, and is effectively integrated into the university's academic processes and policies.
+
 
 ## Summary
 
