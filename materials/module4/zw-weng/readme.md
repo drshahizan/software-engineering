@@ -65,20 +65,21 @@ Finally, the requirements need to be verified to ensure that the accommodation m
 In summary, requirement engineering for developing a university accommodation management system involves identifying stakeholders, gathering, analyzing, documenting, validating, managing, and verifying the requirements to ensure that the system meets the needs of all users.
 
 ## Stakeholders
-Stakeholders in an academic course registration system can be broadly categorized into three groups:
+Here are some more detailed explanations of the different stakeholders involved in the development and use of a university accommodation management system:
 
-### 1. Students
-Students are the primary users of the course registration system. They need to be able to search for courses, register for classes, drop or swap classes, and view their schedules. They also need to be able to view their grades and academic records.
+### University Administration:
+University administration is a key stakeholder in the accommodation management system. They are responsible for managing the overall operations of the university, including the management of student accommodation. Their requirements for the system may include features such as room allocation, billing and payments, maintenance and repairs, and reporting and analytics.
 
-### 2. Faculty Members
-Faculty members are responsible for managing their courses and grading students. They need to be able to view their course rosters, submit grades, and communicate with students. They may also need to view student records to identify any academic issues.
+### Staff: 
+University staff such as accommodation managers, maintenance staff, and administrative assistants are also important stakeholders in the system. Their requirements may include access to real-time information about room availability, maintenance requests, and student information. They may also require tools for managing student check-in and check-out, managing room assignments, and generating reports.
 
-### 3. University Administrators
-University administrators are responsible for managing the overall academic operations of the university. They need to be able to monitor course availability, manage course scheduling and capacity, and view student enrollment data. They may also need to view student records for reporting and compliance purposes.
+### Students: 
+Students are the primary users of the accommodation management system, and their needs and preferences should be taken into account when developing the system. Their requirements may include access to real-time information about room availability, the ability to book or cancel a room reservation, online payments, and the ability to submit maintenance requests.
 
-Other stakeholders may include academic advisors, department chairs, and IT staff who are responsible for maintaining and updating the course registration system.
+### External Parties: 
+xternal parties such as vendors, suppliers, or government agencies may also be involved in the accommodation management system. Their requirements may include integration with external systems, compliance with regulations, and data security and privacy.
 
-Understanding the needs and requirements of these stakeholders is crucial for designing a course registration system that is user-friendly, efficient, and meets the academic needs of the university. It is important to involve stakeholders in the requirements gathering and validation process to ensure that the system meets their expectations and addresses their pain points.
+In summary, the different stakeholders in a university accommodation management system include university administration, staff, students, and external parties. Each stakeholder has their own unique requirements and needs, and it is important to involve all stakeholders in the requirement engineering process to ensure that the system meets their needs and expectations.
 
 ## Users and system requirements
 Users and system requirements are two different aspects of an academic course registration system, and it is important to understand the differences between them.
