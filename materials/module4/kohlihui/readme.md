@@ -47,24 +47,24 @@ Overall, a hospital information system should be user-friendly, efficient, and r
 
 Requirement engineering is the process of gathering, analyzing, and documenting the needs and constraints of stakeholders to define the requirements for a system. 
 
-####Here are some steps that could be taken in the requirement engineering process for a hospital information system:
+#### Here are some steps that could be taken in the requirement engineering process for a hospital information system:
 
-### Identify Stakeholders
+### 1. Identify Stakeholders
 - The first step is to identify the stakeholders for the hospital information system. These may include hospital administrators, healthcare providers, patients, insurance companies, and regulatory bodies.
 
-### Elicit Requirements
+### 2. Elicit Requirements
 - The next step is to elicit requirements from the stakeholders. This can be done through interviews, surveys, and focus groups. The requirements should cover both functional requirements (what the system should do) and non-functional requirements (how the system should perform).
 
-### Analyze Requirements
+### 3. Analyze Requirements
 - Once the requirements have been elicited, they need to be analyzed to identify any conflicts or inconsistencies. This may involve prioritizing the requirements based on their importance to different stakeholders and identifying any trade-offs that need to be made.
 
-### Document Requirements
+### 4. Document Requirements
 - The requirements should be documented in a clear and concise way, using a standardized format such as a requirements specification document. This document should be regularly updated throughout the project to reflect any changes in the requirements.
 
-### Verify Requirements
+### 5. Verify Requirements
 - The requirements should be verified to ensure that they are complete, accurate, and feasible. This may involve reviewing the requirements with stakeholders, conducting prototyping or simulation, and performing feasibility studies.
 
-### Manage Requirement
+### 6. Manage Requirement
 - As the project progresses, it is important to manage the requirements to ensure that they are being met. This may involve tracking changes to the requirements, managing scope creep, and ensuring that the requirements are aligned with the overall goals of the project.
 
 
