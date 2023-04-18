@@ -217,6 +217,40 @@ Functional requirements describe the specific features and functions that the un
 
 The functional requirements of the university event management system focus on providing event organizers with the tools they need to create and manage events, as well as providing attendees with a user-friendly platform for browsing and registering for events. The system must also ensure the security of user data and payment information. By meeting these functional requirements, the system can effectively manage university events and provide a positive user experience for its stakeholders.
 
+## Non-Functional Requirement
+
+Non-functional requirements describe the system attributes and characteristics that the university event management system must meet to ensure its usability, efficiency, and effectiveness. Here are some non-functional requirements for the university event management system:
+
+### 1. Usability:
+- User-friendly interface and intuitive navigation
+- Consistent design and branding throughout the system
+- Accessibility features for users with disabilities
+- Multilingual support for a diverse user base
+
+### 2. Performance:
+- Fast loading times and response rates
+- High availability and reliability
+- Scalable infrastructure that can handle a large volume of traffic and data
+- Efficient database design and management to ensure optimal system performance
+
+### 3. Security:
+- Robust security measures to protect user data and prevent unauthorized access
+- Compliance with industry security standards, such as PCI DSS and ISO 27001
+- Regular security audits and vulnerability assessments to identify and address potential threats
+- Continuous monitoring and logging of system activity to detect any security breaches
+
+### 4. Compatibility:
+- Compatibility with different devices and operating systems
+- Compatibility with different web browsers
+- Integration with external systems, such as payment gateways, social media platforms, and email services
+
+### 5. Maintainability:
+- Easy maintenance and updates to ensure system continuity
+- Modular system design to allow for easy addition of new features and functionality
+- Comprehensive documentation to aid in system maintenance and troubleshooting
+
+The non-functional requirements of the university event management system focus on ensuring the usability, performance, security, compatibility, and maintainability of the system. By meeting these requirements, the system can provide a positive user experience, maintain optimal performance and security, and be easily maintained and updated.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
