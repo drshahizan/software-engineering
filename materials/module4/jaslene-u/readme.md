@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): Student Attendance System
 
-## Key steps in creating an Academic Course Registration System
+## Key steps in creating a Student Attendancen System
 Developing an academic course registration system for a university involves several key steps:
 
 ### 1. Determine the system requirements:
