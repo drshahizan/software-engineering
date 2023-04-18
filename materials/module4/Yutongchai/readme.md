@@ -70,7 +70,7 @@ The ability for users to create and manage their own profiles, including persona
 
 <b>4. Newsfeed: </b><br>Users should be able to view a personalized newsfeed that includes updates from their friends and pages they follow.
 
-<b>5. Groups: <br>Users should be able to create and join groups based on interests, departments, or activities.
+<b>5. Groups: </b><br>Users should be able to create and join groups based on interests, departments, or activities.
 
 <b>6. Events: </b><br>Users should be able to create and join events related to university activities, such as seminars, workshops, and extracurricular activities.
 
