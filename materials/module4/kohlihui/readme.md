@@ -115,7 +115,7 @@ By considering these system requirements, a hospital information system can be d
 
 Functional requirements in a hospital information system refer to the specific capabilities and features that the system must have in order to support the delivery of high-quality healthcare services. 
 
-#### Here are some examples of functional requirements in a hospital information system:
+#### Here are some examples of functional requirements in a Hospital Information System:
 
 ### 1. Patient Management
 - The system must be able to manage patient records and track their medical history, including diagnoses, medications, test results, and allergies. It should also be able to schedule and manage appointments, as well as track patient demographics and insurance information.
