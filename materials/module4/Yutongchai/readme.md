@@ -42,8 +42,6 @@ In this stage, the system is thoroughly tested for functionality, usability, and
 In this stage, the system is installed and made available to the users. This involves configuring the servers, installing the software, and providing user training and support.
 
 <b>7. Maintenance: </b>
-*uy
-*iu
 <br>
 In this stage, the system is regularly monitored and maintained to ensure that it continues to function optimally. This involves fixing bugs, applying security patches, and updating the software to keep it up-to-date.
 
