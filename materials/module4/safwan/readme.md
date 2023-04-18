@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Software Requirements Document (SRD): University Management System
+# Software Requirements Document (SRD): University Management System (UMS)
 
 
 
@@ -19,26 +19,35 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 ![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
 
 ## The Issue
-Performance: The system should be able to handle a large number of concurrent users, process requests quickly, and provide a responsive user interface.
+## 1.Performance:
+The system should be able to handle a large number of concurrent users, process requests quickly, and provide a responsive user interface.
 
-Reliability: The system should be highly reliable, with minimal downtime and data loss, to ensure uninterrupted availability of services.
+## 2.Reliability:
+The system should be highly reliable, with minimal downtime and data loss, to ensure uninterrupted availability of services.
 
-Security: The system should have robust security measures in place to protect against unauthorized access, data breaches, and other security threats.
+## 3.Security:
+The system should have robust security measures in place to protect against unauthorized access, data breaches, and other security threats.
 
 
-Scalability: The system should be scalable to accommodate future growth in terms of users, data, and functionalities, without significant performance degradation.
+## 4.Scalability:
+The system should be scalable to accommodate future growth in terms of users, data, and functionalities, without significant performance degradation.
 
-Usability: The system should be easy to use, with a user-friendly interface, clear navigation, and intuitive workflows, to minimize training requirements and improve user adoption.
+## 5.Usability:
+The system should be easy to use, with a user-friendly interface, clear navigation, and intuitive workflows, to minimize training requirements and improve user adoption.
 
-Accessibility: The system should be accessible to users with disabilities, conforming to relevant accessibility standards and guidelines.
+## 6.Accessibility:
+The system should be accessible to users with disabilities, conforming to relevant accessibility standards and guidelines.
 
-Data Integrity: The system should ensure data integrity, accuracy, and consistency through appropriate data validation, verification, and backup mechanisms.
+## 7.Data Integrity:
+The system should ensure data integrity, accuracy, and consistency through appropriate data validation, verification, and backup mechanisms.
 
-Integration: The system should support integration with other relevant university systems, such as student information systems, financial systems, and learning management systems, to enable seamless data exchange and workflow integration.
+## 8.Integration:
+The system should support integration with other relevant university systems, such as student information systems, financial systems, and learning management systems, to enable seamless data exchange and workflow integration.
 
-Compliance: The system should comply with relevant laws, regulations, and policies, such as data privacy regulations, copyright laws, and institutional policies related to academic and administrative processes.
+## 9.Compliance:
+The system should comply with relevant laws, regulations, and policies, such as data privacy regulations, copyright laws, and institutional policies related to academic and administrative processes.
 
-## The requirements engineering process
+# The requirements engineering process
 
 Requirement Elicitation: This step involves gathering requirements from various stakeholders, such as university administrators, faculty, staff, students, and other users of the system. Techniques such as interviews, surveys, questionnaires, workshops, and brainstorming sessions can be used to elicit requirements. The goal is to capture the needs and expectations of the stakeholders and understand the scope and objectives of the University Management System (UMS).
 
@@ -85,7 +94,7 @@ Alumni and Donors: They may have requirements related to alumni engagement, fund
 
 Government and Regulatory Bodies: They may have requirements related to compliance with laws, regulations, and policies related to education, data privacy, and financial management.
 
-## user and system requirement
+# user and system requirement
 
 User Requirements:
 
