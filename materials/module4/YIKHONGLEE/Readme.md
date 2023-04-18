@@ -63,3 +63,26 @@ The system should have an intuitive and user-friendly interface, allowing studen
 
 ## Reporting and analytics:
 The system should generate reports and analytics on key health metrics, such as vaccination rates, illness outbreaks, and student health trends, to inform decision-making and policy development.
+
+# Functionally
+
+## Student registration and onboarding: 
+The system should allow students to register and onboard, creating a profile that includes personal information, medical history, and contact details.
+
+## Health record management:
+The system should enable students to create and manage their health records, including updating personal and medical information, tracking immunizations, and viewing lab results.
+
+## Appointment scheduling: 
+The system should allow students to schedule and manage appointments with healthcare providers, including doctors, nurses, and counselors, selecting the date, time, and location of the appointment.
+
+## Health education resources:
+The system should provide students with access to a range of health education resources, such as videos, articles, and interactive quizzes, promoting healthy lifestyles and disease prevention.
+
+## Secure messaging:
+The system should enable secure messaging between students and healthcare providers, allowing them to communicate and share health information without compromising privacy and security.
+
+## Reporting and analytics: 
+The system should generate reports and analytics on key health metrics, such as vaccination rates, illness outbreaks, and student health trends, providing insights into the health status of the student population.
+
+## Mobile access: 
+The system should have a mobile application that enables students to access their health data and perform tasks, such as scheduling appointments and viewing test results, from their mobile devices.
