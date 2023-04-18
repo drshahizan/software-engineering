@@ -45,6 +45,27 @@ Requirements Engineering is a systematic approach used to elicit, analyze, speci
 
 Effective requirements engineering is critical to the success of a software project. Poorly defined or incomplete requirements can lead to cost overruns, missed deadlines, and dissatisfied customers. By contrast, a well-executed requirements engineering process can improve communication among stakeholders, reduce development time, and increase the likelihood of delivering a system that meets the stakeholders' needs.
 
+<h1>User requirements</h1> for a library management system could include:
+
+1.The ability to search for books by title, author, and subject.
+2.The ability to reserve and borrow books.
+3.The ability to renew book loans.
+4.The ability to view personal account information, such as loan history and due dates.
+5.The ability to pay fines and fees online.
+6.The ability to suggest new book purchases to the library.
+7.The ability to view library events and announcements.
+
+<h1>System requirements</h1> for a library management system could include:
+
+1.The system should be accessible through a web-based interface.
+2.The system should have a database to store information about books, borrowers, and loans.
+3.The system should support multiple user accounts with different access levels.
+4.The system should have a search feature that allows users to find books based on different criteria.
+5.The system should have an automated loan management feature that sends reminders and notifications to borrowers about due dates and overdue books.
+6.The system should have a payment gateway to process online payments for fines and fees.
+7.The system should have a reporting feature that provides information on book usage, library activities, and user behavior.
+It is important to note that these requirements are just a starting point and may vary depending on the specific needs and goals of the library management system. The requirements should be carefully analyzed and refined through discussions with stakeholders, including library staff and users, to ensure that the system effectively meets their needs.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
