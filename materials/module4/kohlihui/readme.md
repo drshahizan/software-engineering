@@ -41,3 +41,31 @@ A hospital information system is a software application that manages the adminis
 
 
 Overall, a hospital information system should be user-friendly, efficient, and reliable, providing a seamless experience for healthcare providers and hospital staff alike.
+
+
+# Requirement Engineering Process of the hospital information system
+
+Requirement engineering is the process of gathering, analyzing, and documenting the needs and constraints of stakeholders to define the requirements for a system. 
+
+####Here are some steps that could be taken in the requirement engineering process for a hospital information system:
+
+### Identify Stakeholders
+- The first step is to identify the stakeholders for the hospital information system. These may include hospital administrators, healthcare providers, patients, insurance companies, and regulatory bodies.
+
+### Elicit Requirements
+- The next step is to elicit requirements from the stakeholders. This can be done through interviews, surveys, and focus groups. The requirements should cover both functional requirements (what the system should do) and non-functional requirements (how the system should perform).
+
+### Analyze Requirements
+- Once the requirements have been elicited, they need to be analyzed to identify any conflicts or inconsistencies. This may involve prioritizing the requirements based on their importance to different stakeholders and identifying any trade-offs that need to be made.
+
+### Document Requirements
+- The requirements should be documented in a clear and concise way, using a standardized format such as a requirements specification document. This document should be regularly updated throughout the project to reflect any changes in the requirements.
+
+### Verify Requirements
+- The requirements should be verified to ensure that they are complete, accurate, and feasible. This may involve reviewing the requirements with stakeholders, conducting prototyping or simulation, and performing feasibility studies.
+
+### Manage Requirement
+- As the project progresses, it is important to manage the requirements to ensure that they are being met. This may involve tracking changes to the requirements, managing scope creep, and ensuring that the requirements are aligned with the overall goals of the project.
+
+
+Overall, the requirement engineering process for a hospital information system should be systematic, collaborative, and iterative, involving all stakeholders in the process of defining and refining the requirements. By following a structured approach, the requirements for the system can be clearly defined, ensuring that the final product meets the needs of all stakeholders.
