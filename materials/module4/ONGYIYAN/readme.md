@@ -24,7 +24,13 @@ Don't forget to hit the :star: if you like this repo.
 
 7.<b>Providing training and support</b>: Once the system has been deployed, the final step is to provide training and support to the users. This involves providing documentation, training sessions, and ongoing technical support to ensure that the system is used effectively and efficiently.
 
+## Steps involved in requirement engineering process
 
+1. **Elicitation:** The first step in the requirement engineering process is to elicit the requirements from the stakeholders. In the case of a student health and wellness management system, stakeholders would include university staff, health and wellness professionals, and students. Various techniques can be used for elicitation, such as interviews, surveys, and focus groups.
+2. **Analysis:** Once the requirements have been elicited, they need to be analyzed to identify their dependencies, conflicts, and feasibility. The analysis can be done using various tools and techniques, such as use case modeling, functional analysis, and non-functional analysis.
+3. **Specification:** After the requirements have been analyzed, they need to be specified in a clear and concise manner. This involves creating a requirements document that describes the functional and non-functional requirements of the system, including any constraints and assumptions.
+4. **Validation:** Once the requirements have been specified, they need to be validated to ensure that they are complete, consistent, and accurate. Validation can be done through various techniques, such as peer reviews, walkthroughs, and prototyping.
+5. **Management:** Finally, the requirements need to be managed throughout the development process to ensure that they are properly tracked, traced, and prioritized. This involves creating a requirements traceability matrix, which links the requirements to the design, implementation, and testing of the system.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
