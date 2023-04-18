@@ -30,6 +30,8 @@ Once testing is complete, deploy the system to the production environment. Ensur
 ### 6. Maintain and Update the System: 
 Finally, maintain and update the system as necessary to ensure that it remains functional and up-to-date with changing requirements and technologies.
 
+
+
 By following these steps, you can develop an academic registration system for a university that meets the needs of students, faculty, and staff while ensuring the security and integrity of student data.
 
 
