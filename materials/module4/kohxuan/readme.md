@@ -44,3 +44,95 @@ As the system evolves, it is important to manage the requirements to ensure they
 
 In summary, requirements engineering is a critical process for the successful development of a Student Health and Wellness Management System. It ensures that the system meets the needs of the stakeholders, is aligned with the goals of the system, and is well-documented and validated.
 
+## Stakeholders
+A Student Health and Wellness Management System has a variety of stakeholders who have an interest in the system and its outcomes. The stakeholders can be divided into three broad categories:
+
+### 1. Students: 
+Students are the primary users of the system, and their needs are the most critical to the success of the system. They are stakeholders because they are the ones who will be accessing the system to manage their health and wellness. Students have a range of needs that the system should address, such as scheduling appointments with healthcare providers, tracking their medical history, accessing educational resources, and signing up for wellness activities.
+
+### 2. Healthcare Providers: 
+Healthcare providers, such as physicians, nurses, and counselors, are also stakeholders in the system. They are responsible for providing care to students and may use the system to schedule appointments, access medical records, and communicate with other providers.
+
+### 3. Administrators: 
+Administrators, such as university officials and IT staff, are stakeholders in the system because they are responsible for the overall functioning and management of the system. They may be involved in the development and implementation of the system, ensuring compliance with regulations and policies, and ensuring the system is secure and reliable.
+
+Other stakeholders may include parents, alumni, donors, and other members of the university community who have an interest in the health and wellness of students.
+
+In summary, a Student Health and Wellness Management System has a variety of stakeholders with different needs and interests. To ensure the system meets the needs of all stakeholders, it is important to engage them in the requirements engineering process and involve them in the development and implementation of the system.
+
+## Users and system requirements
+Users and system requirements are two different aspects of an academic course registration system, and it is important to understand the differences between them.
+
+### User requirements
+Users refer to the people who will be using the system, including students, faculty members, and university administrators. They have specific needs, preferences, and expectations from the system, and their requirements are often expressed in terms of user stories, scenarios, or use cases. For example, a student may require the ability to search for courses by department, instructor, or time of day, while a faculty member may require the ability to view student transcripts or communicate with their class via email.
+
+### System requirements
+System requirements, on the other hand, refer to the technical and functional specifications of the system. They describe what the system must do, and are often expressed in terms of features, capabilities, and constraints. For example, the system may need to be able to handle a certain number of concurrent users, have robust authentication and authorization mechanisms, and integrate with other university systems such as the student information system or the learning management system.
+
+While user requirements and system requirements are distinct, they are closely related, and it is important to ensure that they are aligned. The system requirements should be designed to meet the needs and expectations of the system's users, and the user requirements should be prioritized and translated into specific system requirements. By understanding both users and system requirements, designers and developers can create a course registration system that meets the needs of its stakeholders while being technically sound and reliable.
+
+## User Requirements in Student Health and Wellness Management 
+
+User requirements for a Student Health and Wellness Management system can be categorized into three main groups: student requirements, healthcare provider requirements, and administrative requirements.
+
+### Student Requirements:
+- The system should provide easy access to personal health information, including medical history, test results, and immunization records.
+- Students should be able to schedule appointments with healthcare providers, view upcoming appointments, and receive reminders and notifications for scheduled appointments.
+- The system should provide access to educational resources on health and wellness, such as articles, videos, and webinars.
+- Students should be able to sign up for wellness activities, such as fitness classes, mental health workshops, and support groups.
+- The system should provide a mechanism for students to provide feedback on their experiences with healthcare providers and the system.
+
+### Healthcare Provider Requirements:
+- The system should provide easy access to student health records, including medical history, test results, and care plans.
+- Healthcare providers should be able to schedule appointments with students, view upcoming appointments, and communicate with other healthcare providers.
+- The system should provide a mechanism for healthcare providers to document patient care, including diagnoses, treatments, and follow-up plans.
+- Healthcare providers should be able to order and view test results, and document any necessary follow-up actions.
+- The system should provide access to educational resources on health and wellness for healthcare providers.
+
+### Administrative Requirements:
+- The system should be customizable and configurable to meet the needs of the university's health and wellness services.
+- Administrators should be able to manage user roles and permissions, such as granting access to certain types of health information or functionality.
+- The system should provide a mechanism for administrators to generate reports on system usage, such as number of appointments scheduled, types of services provided, and user feedback.
+- Administrators should be able to manage and monitor system security and compliance, including user authentication and data privacy.
+- The system should be scalable to support a large volume of users and transactions.
+
+Overall, the Student Health and Wellness Management system should be designed to meet the needs of its users, providing easy access to personal health information and resources, and efficient management of appointments and patient care. The system should also provide administrative tools for managing and monitoring system usage, security, and compliance.
+
+## System requirements in Student Health and Wellness Management 
+he system requirements for a Student Health and Wellness Management system may include:
+
+### 1. User Interface:
+
+- The system should have an easy-to-use interface that is accessible to all users.
+- The system should have a mobile-friendly interface that allows students and healthcare providers to access the system on-the-go.
+- The system should have clear and concise menus and navigation options to enable users to find what they need quickly.
+
+### 2. Security:
+
+- The system should be secure and comply with data protection and privacy regulations.
+- The system should provide different levels of access to data, depending on the user's role and permissions.
+- The system should have secure authentication and authorization mechanisms to ensure only authorized users can access the system.
+
+### 3. Data Management:
+
+- The system should have the ability to store and manage health and wellness data securely and efficiently.
+- The system should be able to integrate with external data sources, such as electronic medical records (EMRs), to ensure up-to-date patient information.
+- The system should provide the ability to import and export data from/to external systems, to facilitate interoperability.
+
+### 4. Appointment Scheduling:
+- The system should provide a user-friendly appointment scheduling system that allows students to schedule appointments with healthcare providers.
+- The system should provide an automated reminder system to remind students and healthcare providers of upcoming appointments.
+- The system should provide the ability for students to cancel or reschedule appointments.
+
+### 5. Reporting:
+- The system should have reporting capabilities to generate usage reports, such as the number of appointments scheduled, types of services provided, and user feedback.
+- The system should provide analytics and data visualization tools to enable administrators to make data-driven decisions.
+
+### 6. Integration:
+- The system should be able to integrate with other systems, such as EMRs and health insurance systems, to ensure the seamless flow of data between different systems.
+- The system should be able to integrate with third-party wellness platforms and tools to provide additional resources and functionality to users.
+
+In summary, a Student Health and Wellness Management system should be designed to meet the needs of its users, provide secure data management, efficient appointment scheduling, reporting and analytics capabilities, and integration with external systems. The system should be designed with scalability and flexibility in mind, to accommodate future growth and changes in the healthcare landscape.
+
+
+
