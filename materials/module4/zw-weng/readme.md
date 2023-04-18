@@ -7,45 +7,60 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Software Requirements Document (SRD): University Accomodation Management System
+# Software Requirements Document (SRD): University Accommodation Management System
 
 ## Key steps in creating an Academic Course Registration System
-Developing a accomodation management system for a university hostel involves several key steps:
+Developing a accommodation management system for a university hostel involves several key steps:
 
-Identify User Requirements: The first step is to identify the user requirements for the accommodation management system. This includes understanding the needs of the university administration, staff, and students, as well as any external stakeholders.
+### Identify User Requirements: 
+The first step is to identify the user requirements for the accommodation management system. This includes understanding the needs of the university administration, staff, and students, as well as any external stakeholders.
 
-Define System Specifications: Once the user requirements are identified, the system specifications can be defined. This includes determining the system's functionality, such as online booking, payment processing, room allocation, and inventory management.
+### Define System Specifications: 
+Once the user requirements are identified, the system specifications can be defined. This includes determining the system's functionality, such as online booking, payment processing, room allocation, and inventory management.
 
-Design the System: The next step is to design the system based on the user requirements and system specifications. This includes designing the user interface, database schema, and software architecture.
+### Design the System: 
+The next step is to design the system based on the user requirements and system specifications. This includes designing the user interface, database schema, and software architecture.
 
-Develop the System: Once the system design is complete, the development of the system can begin. This involves coding the software, configuring the hardware, and integrating any third-party systems.
+### Develop the System: 
+Once the system design is complete, the development of the system can begin. This involves coding the software, configuring the hardware, and integrating any third-party systems.
 
-Test the System: Once the system is developed, it needs to be tested to ensure that it meets the user requirements and system specifications. This includes performing unit testing, integration testing, and system testing.
+### Test the System: 
+Once the system is developed, it needs to be tested to ensure that it meets the user requirements and system specifications. This includes performing unit testing, integration testing, and system testing.
 
-Implement the System: After testing is complete, the system can be implemented. This involves deploying the system, training users, and migrating data from any existing systems.
+### Implement the System: 
+After testing is complete, the system can be implemented. This involves deploying the system, training users, and migrating data from any existing systems.
 
-Provide Ongoing Support and Maintenance: Once the system is implemented, ongoing support and maintenance are required. This includes providing technical support, fixing any bugs, and implementing any system updates or upgrades.
+### Provide Ongoing Support and Maintenance: 
+Once the system is implemented, ongoing support and maintenance are required. This includes providing technical support, fixing any bugs, and implementing any system updates or upgrades.
 
-Continuous Improvement: Finally, it is important to continuously improve the accommodation management system to meet the changing needs of the university and its stakeholders. This can be done through regular feedback surveys, monitoring trends in the industry, and making necessary changes to the system's functionality and user interface.
+### Continuous Improvement: 
+Finally, it is important to continuously improve the accommodation management system to meet the changing needs of the university and its stakeholders. This can be done through regular feedback surveys, monitoring trends in the industry, and making necessary changes to the system's functionality and user interface.
 
 In summary, creating a university accommodation management system involves identifying user requirements, defining system specifications, designing and developing the system, testing and implementing it, providing ongoing support and maintenance, and continuously improving the system.
 
 ## Requirements Engineering
 Requirement engineering is the process of identifying, analyzing, and documenting the requirements for a system. Here are some key steps involved in requirement engineering for developing a university accommodation management system:
 
-Identify Stakeholders: The first step is to identify the stakeholders who will be using the accommodation management system. This includes students, staff, university administration, and any external stakeholders such as parents or alumni.
+### Identify Stakeholders: 
+The first step is to identify the stakeholders who will be using the accommodation management system. This includes students, staff, university administration, and any external stakeholders such as parents or alumni.
 
-Gather Requirements: Once the stakeholders have been identified, the requirements gathering process can begin. This involves gathering requirements from each stakeholder group to ensure that the system will meet the needs of all users.
+### Gather Requirements:
+Once the stakeholders have been identified, the requirements gathering process can begin. This involves gathering requirements from each stakeholder group to ensure that the system will meet the needs of all users.
 
-Analyze Requirements: After gathering the requirements, they need to be analyzed to determine their feasibility, relevance, and priority. This involves identifying any conflicts or inconsistencies between the requirements and resolving them.
+### Analyze Requirements: 
+After gathering the requirements, they need to be analyzed to determine their feasibility, relevance, and priority. This involves identifying any conflicts or inconsistencies between the requirements and resolving them.
 
-Document Requirements: Once the requirements have been analyzed, they need to be documented in a clear and concise manner. This documentation should include functional and non-functional requirements, use cases, and any other relevant information.
+### Document Requirements:
+Once the requirements have been analyzed, they need to be documented in a clear and concise manner. This documentation should include functional and non-functional requirements, use cases, and any other relevant information.
 
-Validate Requirements: After the requirements have been documented, they need to be validated to ensure that they accurately reflect the needs of the stakeholders. This involves obtaining feedback from stakeholders and making any necessary changes to the requirements.
+### Validate Requirements:
+After the requirements have been documented, they need to be validated to ensure that they accurately reflect the needs of the stakeholders. This involves obtaining feedback from stakeholders and making any necessary changes to the requirements.
 
-Manage Requirements: Once the requirements have been validated, they need to be managed throughout the development process. This involves tracking changes to the requirements, prioritizing them, and ensuring that they are implemented correctly.
+### Manage Requirements: 
+Once the requirements have been validated, they need to be managed throughout the development process. This involves tracking changes to the requirements, prioritizing them, and ensuring that they are implemented correctly.
 
-Verify Requirements: Finally, the requirements need to be verified to ensure that the accommodation management system meets all of the identified requirements. This involves testing the system against the requirements and making any necessary changes.
+### Verify Requirements: 
+Finally, the requirements need to be verified to ensure that the accommodation management system meets all of the identified requirements. This involves testing the system against the requirements and making any necessary changes.
 
 In summary, requirement engineering for developing a university accommodation management system involves identifying stakeholders, gathering, analyzing, documenting, validating, managing, and verifying the requirements to ensure that the system meets the needs of all users.
 
