@@ -117,6 +117,19 @@ These requirements for the requirements engineering process are just a starting 
 
 </ul>
 
+<h2>Functional Requirements</h2>
+<ul>
+<li>User authentication and authorization: The system should allow users to log in with their university credentials and only allow authorized users to access the feedback submission and viewing features.</li>
+<li>Feedback submission: The system should allow students to submit feedback on courses and instructors anonymously or with their identity if they prefer.</li>
+<li>Feedback categorization: The system should allow students to categorize their feedback based on various aspects of the course or instructor, such as content, teaching style, organization, communication, and grading.</li>
+<li>Feedback rating: The system should allow students to rate various aspects of the course or instructor on a numerical scale or provide qualitative feedback.</li>
+<li>Feedback review: The system should allow students to review their previous feedback submissions and make changes or delete them if necessary.</li>
+<li>Feedback moderation: The system should have a mechanism to prevent or remove inappropriate or abusive feedback and notify appropriate personnel for further action.</li>
+<li>Feedback analysis: The system should generate statistical reports and visualizations of feedback to help instructors and administrators understand student satisfaction and identify areas for improvement.</li>
+<li>Feedback response: The system should provide a mechanism for instructors and administrators to respond to feedback and address any issues raised by students.</li>
+<li>Reminders: The system should have a feature to send reminders to students to submit feedback or complete feedback submission if they have started but not completed the process.</li>
+<li>System administration: The system should allow authorized administrators to manage user accounts, system settings, and feedback-related data.</li>
+</ul>
 
 
 
