@@ -145,35 +145,60 @@ By identifying and prioritizing these user requirements, you can design and deve
 
 The system requirements for a student engagement system can be grouped into several categories, including:
 
-## 1. Functional Requirements:
-Functional requirements define what the system should do to support student engagement. Examples of functional requirements for a student engagement system might include:
-- The ability for students to view their course schedule and access course materials.
-- The ability for faculty to post course content and assignments, grade assignments, and communicate with students.
-- The ability for students to register for clubs and organizations, sign up for events, and communicate with other students.  
-
-## 2. Non-functional Requirements:
-Non-functional requirements describe how the system should perform. Examples of non-functional requirements for a student engagement system might include:
-- Response time: the system should respond to user actions within a reasonable amount of time.
-- Security: the system should have appropriate security measures to protect sensitive data.
-- Scalability: the system should be able to handle a large number of users and data.
-
-## 3. Performance Requirements:
+## 1. Performance Requirements:
 Performance requirements define how well the system should perform under certain conditions. Examples of performance requirements for a student engagement system might include:
 - The system should be able to handle a large number of concurrent users without experiencing a significant decrease in performance.
 - The system should be able to handle large amounts of data without experiencing significant delays in processing.
 
-## 4. User Experience Requirements:
+## 2. User Experience Requirements:
 User experience requirements describe the expectations for how users will interact with the system. Examples of user experience requirements for a student engagement system might include:
 - The system should be easy to use and navigate.
 - The system should have a visually appealing interface.
 - The system should be accessible to users with disabilities.  
 
-## 5. Compliance Requirements:
+## 3. Compliance Requirements:
 Compliance requirements describe the system's compliance with external standards and regulations. Examples of compliance requirements for a student engagement system might include:
 - The system should comply with accessibility standards, such as the Web Content Accessibility Guidelines (WCAG).
 - The system should comply with data protection regulations, such as the General Data Protection Regulation (GDPR) and the Family Educational Rights and Privacy Act (FERPA).  
 
-By identifying and prioritizing these system requirements, you can design and develop a student engagement system that meets the needs of students, faculty, and staff and contributes to student success.
+By identifying and prioritizing these system requirements, you can design and develop a student engagement system that meets the needs of students, faculty, and staff and contributes to student success.  
+
+# Functional Requirements:  
+
+Functional requirements are the specific features and functions that a student engagement system must possess to support student engagement. Here are some examples of functional requirements for a student engagement system:
+
+## 1. Course Management: 
+The system should enable faculty to post course content, assignments, and grades, as well as track student attendance and participation.
+
+## 2. Communication: 
+The system should provide a platform for communication between students and faculty, such as email, chat, discussion forums, or video conferencing.
+
+## 3. Student Records Management: 
+The system should be able to store and manage student records, including personal information, academic records, and extracurricular activities.
+
+## 4. Scheduling: 
+The system should allow students to view and manage their course schedules and enable faculty to manage their teaching schedules.
+
+## 5. Event Management: 
+The system should provide a platform for students to sign up for events, view upcoming events, and receive notifications about events.
+
+## 6. Club and Organization Management: 
+The system should allow students to join clubs and organizations, view club events and announcements, and communicate with other members.
+
+## 7. Learning Analytics: 
+The system should provide analytics and reporting features that allow faculty and staff to track student progress, identify areas for improvement, and assess the effectiveness of student engagement initiatives.
+
+## 8. Academic Support: 
+The system should provide access to academic support services, such as tutoring, counseling, and advising.
+
+## 9. Library Services: 
+The system should provide access to library resources, such as online databases, electronic journals, and ebooks.
+
+By identifying and prioritizing these functional requirements, you can design and develop a student engagement system that meets the needs of students, faculty, and staff and contributes to student success.
+
+
+
+
 
 
 ## Contribution 🛠️
