@@ -1,6 +1,7 @@
 Hostel Management System (HMS) is a software system designed to manage the operations of a hostel or dormitory. The system automates various tasks such as room allocation, check-in and check-out, fee payment, and maintenance requests. The following is a Software Requirements Document (SRD) for the HMS.
 
-System Requirements Gathering:
+<p>System Requirements Gathering:</p>
+
 The requirements gathering process for the HMS should involve stakeholders such as hostel managers, residents, and facility maintenance staff. The system requirements should include the following features:
 Room allocation and management
 Check-in and check-out management
