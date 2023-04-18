@@ -38,6 +38,29 @@ Provide ongoing maintenance and support for the system, including bug fixes, fea
 <br>
 Continuously monitor and improve the system to meet changing requirements and user feedback. This includes regular updates and upgrades to the system to ensure it remains up-to-date and efficient.
 
+<h3>Requirements Engineering</h3>
+The requirements engineering process for a university course management system typically involves the following steps:
+
+<b>1. Requirements Elicitation: </b>
+<br>
+This involves gathering requirements from different stakeholders, including faculty members, students, administrators, and IT staff. The goal is to identify the needs and expectations of each group and document them in a comprehensive manner.
+
+<b>2. Requirements Analysis: </b>
+<br>
+This involves analyzing the requirements to ensure that they are complete, consistent, and unambiguous. The requirements are also prioritized based on their importance to the system's functionality and goals.
+
+<b>3. Requirements Specification: </b>
+<br>
+This involves documenting the requirements in a formal specification document that outlines the system's functional and non-functional requirements. This document serves as a blueprint for the development team to follow and ensures that the stakeholders' expectations are met.
+
+<b>4. Requirements Validation: </b>
+<br>
+This involves validating the requirements with the stakeholders to ensure that they have been accurately captured and meet their needs. This step may involve prototyping, testing, and user feedback to refine the requirements and ensure that they align with the stakeholders' expectations.
+
+<b>5. Requirements Management: </b>
+<br>
+This involves tracking and managing the requirements throughout the software development lifecycle to ensure that they are met. This step may involve change management processes to ensure that any changes to the requirements are documented, reviewed, and approved by the relevant stakeholders.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
