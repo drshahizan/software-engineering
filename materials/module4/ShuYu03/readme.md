@@ -9,28 +9,28 @@ Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): Academic Course Registration System
 
-## Key steps in creating an Academic Course Registration System
-Developing an academic course registration system for a university involves several key steps:
+## Key steps in creating an University Event Management System
+Brief overview of each phase of the software development lifecycle for a university event management system:
 
-### 1. System requirements gathering
-The first step is to gather requirements for the system. This involves talking to stakeholders such as students, faculty members, and university administrators to understand their needs and expectations from the system. The system requirements should include features such as course catalog, course registration, scheduling, waitlist management, grade management, and student information management.
+### System Requirement Gathering:
+During this phase, the key stakeholders of the university event management system need to gather and analyze the requirements for the system. The requirements can be collected through interviews, surveys, and workshops with different stakeholders. The requirements should be documented clearly and precisely, and should include functional and non-functional requirements.
 
-### 2. System design
-Once the requirements are gathered, the next step is to design the system. This involves creating a detailed system design document that outlines the system architecture, database design, and user interface design.
+### System Design:
+The system design phase is where the software architects and designers create a high-level design of the system. They identify the modules and components of the system and define how these components will interact with each other. This phase also includes designing the user interface, data storage, and data flow diagrams.
 
-### 3. System development
-The system development involves implementing the design using programming languages, tools, and frameworks. The system should be developed with scalability and maintainability in mind, so that it can handle a large number of students and courses.
+### System Development:
+The system development phase involves the actual coding of the system. Developers use the specifications from the system design phase to develop the system's software components. The coding is done in an iterative and incremental way, and the code is tested and debugged regularly.
 
-### 4. System testing
-After the system is developed, it needs to be thoroughly tested to ensure that it meets the requirements and works as expected. Testing should be done for all possible scenarios, including edge cases and error handling.
+### System Testing:
+In the system testing phase, the developed system is tested to ensure that it meets the functional and non-functional requirements identified in the requirement gathering phase. Different types of testing, such as unit testing, integration testing, system testing, and acceptance testing, are performed during this phase.
 
-### 5. System deployment
-Once the system is tested and approved, it needs to be deployed on the university's servers or cloud infrastructure. The system should be monitored for performance and availability.
+### System Deployment:
+In the system deployment phase, the developed system is installed and made available for use. The system is deployed on a production server or cloud-based infrastructure. The deployment process includes installing the system, configuring it, and integrating it with other systems in the university environment.
 
-### 6. System maintenance
-After the system is deployed, it needs to be maintained and updated to ensure that it continues to meet the changing needs of the university. This involves fixing bugs, adding new features, and improving performance.
+### System Maintenance:
+After the system is deployed, the system maintenance phase begins. The system is monitored regularly to ensure that it is functioning as intended. Maintenance activities can include fixing bugs, applying security patches, adding new features, and upgrading the system's infrastructure.
 
-The academic course registration system should provide a user-friendly interface for students to browse and register for courses, as well as for faculty members to manage their courses and student grades. The system should also allow for automated waitlist management and scheduling conflicts. Overall, the system should streamline the course registration process and reduce administrative burden for the university staff.
+A university event management system is a software application designed to streamline and automate the process of planning and executing events within a university or college environment. This system can be used to manage a wide range of events, including academic conferences, sporting events, cultural events, and student organization events. It can be a powerful tool for managing events in a university or college environment. By automating and streamlining the event planning process, this system can save time and resources while improving the overall quality of events.
 
 ## Requirements Engineering
 Requirements engineering is the process of eliciting, analyzing, specifying, validating, and managing the requirements for a software system. In the context of an academic course registration system, the requirements engineering process is crucial for ensuring that the system meets the needs of its stakeholders, including students, faculty members, and university administrators.

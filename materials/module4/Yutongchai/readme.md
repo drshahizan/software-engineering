@@ -8,26 +8,28 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): University Course Management System
+Here are some key steps to develop a University course management system:
 
-Course catalog: A comprehensive list of courses offered by the university, along with course descriptions, prerequisites, and other relevant information.
+<b>1. Requirements gathering</b>
+Collect all the requirements of the system from stakeholders such as faculty members, students, administrative staff, and other relevant parties.
 
-Course registration: A feature that allows students to browse and enroll in courses online. This feature may include a waitlist function for popular courses.
+<b>2. System analysis and design</b>
+Create a detailed system analysis and design document that outlines the overall architecture, functional requirements, database design, user interface design, and other key aspects of the system.
 
-Course scheduling: A feature that enables administrators and professors to create and manage class schedules. This feature may also include room scheduling and resource management.
+<b>3. Development</b>
+Develop the system using a suitable technology stack and programming language. Make sure to follow good coding practices and use appropriate design patterns.
 
-Gradebook: A feature that allows professors to record and manage student grades. Students can also access their grades through the system.
+<b>4. Testing</b>
+Test the system thoroughly to ensure it meets all functional and non-functional requirements. This includes unit testing, integration testing, system testing, and user acceptance testing.
 
-Discussion forum: A feature that enables students and professors to discuss course-related topics, ask questions, and collaborate on assignments.
+5. Deployment
+Deploy the system in a suitable production environment, such as a cloud server or on-premise server. Make sure the system is properly configured and tested in the deployment environment.
 
-Course materials: A feature that allows professors to upload and share course materials, such as syllabi, lecture notes, and readings.
+6. Maintenance and support
+Provide ongoing maintenance and support for the system, including bug fixes, feature enhancements, and technical support.
 
-Assignment submission: A feature that allows students to submit assignments online. Professors can then grade and provide feedback on the assignments through the system.
-
-Attendance tracking: A feature that enables professors to record and manage student attendance.
-
-Reporting: A feature that allows administrators to generate reports on course enrollment, student performance, and other relevant metrics.
-
-Notifications: A feature that enables the system to send automated notifications to students, professors, and administrators about upcoming deadlines, course changes, and other important information.
+7. Continuous improvement
+Continuously monitor and improve the system to meet changing requirements and user feedback. This includes regular updates and upgrades to the system to ensure it remains up-to-date and efficient.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

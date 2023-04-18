@@ -11,25 +11,25 @@ Don't forget to hit the :star: if you like this repo.
 
 The Software Requirements Document (SRD) for the Student Feedback System in University Technology Malaysia should outline the functional and non-functional requirements of the software. Here are some of the key components that should be included in the SRD:
 
-Define the Purpose and Scope: Start by defining the purpose and scope of the SRD. Explain why the document is being created and what it will cover. Identify the stakeholders and their expectations.
+1. Define the Purpose and Scope: Start by defining the purpose and scope of the SRD. Explain why the document is being created and what it will cover. Identify the stakeholders and their expectations.
 
-Gather Requirements: Conduct interviews with university staff and students to gather requirements for the Student Feedback System. Identify the key features and functionalities of the system. Make a list of all the functional and non-functional requirements.
+2. Gather Requirements: Conduct interviews with university staff and students to gather requirements for the Student Feedback System. Identify the key features and functionalities of the system. Make a list of all the functional and non-functional requirements.
 
-Organize Requirements: Organize the requirements into categories. Group similar requirements together to make it easier to understand and manage.
+3. Organize Requirements: Organize the requirements into categories. Group similar requirements together to make it easier to understand and manage.
 
-Write Functional Requirements: In this section, describe the features and functionalities of the Student Feedback System. Explain how the system will work and what it will do. Use clear and concise language. Use diagrams and flowcharts to illustrate the system's functionality.
+4. Write Functional Requirements: In this section, describe the features and functionalities of the Student Feedback System. Explain how the system will work and what it will do. Use clear and concise language. Use diagrams and flowcharts to illustrate the system's functionality.
 
-Write Non-functional Requirements: In this section, describe the system's performance, security, and usability requirements. Specify the response time, security features, and level of accessibility required. Be as specific as possible.
+5. Write Non-functional Requirements: In this section, describe the system's performance, security, and usability requirements. Specify the response time, security features, and level of accessibility required. Be as specific as possible.
 
-Describe the User Interface: In this section, describe the design and layout of the system's user interface. Explain how users will interact with the system. Use screenshots or wireframes to illustrate the user interface.
+6. Describe the User Interface: In this section, describe the design and layout of the system's user interface. Explain how users will interact with the system. Use screenshots or wireframes to illustrate the user interface.
 
-Define System Architecture: In this section, describe the software and hardware components that will be used to develop and deploy the Student Feedback System. Explain how the components will be integrated to create a functioning system. Use diagrams and flowcharts to illustrate the system architecture.
+7. Define System Architecture: In this section, describe the software and hardware components that will be used to develop and deploy the Student Feedback System. Explain how the components will be integrated to create a functioning system. Use diagrams and flowcharts to illustrate the system architecture.
 
-Outline Data Management: In this section, describe how the system will manage feedback data. Explain how the data will be stored, backed up, and secured. Specify any data retention policies that apply.
+8. Outline Data Management: In this section, describe how the system will manage feedback data. Explain how the data will be stored, backed up, and secured. Specify any data retention policies that apply.
 
-List Assumptions and Constraints: In this section, list any assumptions that were made during the requirements gathering process, as well as any constraints that may impact the development or deployment of the system. For example, budget constraints or resource limitations.
+9. List Assumptions and Constraints: In this section, list any assumptions that were made during the requirements gathering process, as well as any constraints that may impact the development or deployment of the system. For example, budget constraints or resource limitations.
 
-Define Acceptance Criteria: In this section, describe the criteria that must be met for the Student Feedback System to be considered complete and ready for deployment. Specify both functional and non-functional requirements. Define how the system will be tested and evaluated.
+10. Define Acceptance Criteria: In this section, describe the criteria that must be met for the Student Feedback System to be considered complete and ready for deployment. Specify both functional and non-functional requirements. Define how the system will be tested and evaluated.
 
 By creating a comprehensive SRD, the developers of the Student Feedback System can ensure that they have a clear understanding of the requirements and can develop a system that meets the needs of the university and its students.
 
