@@ -23,7 +23,7 @@ Once the system is tested and approved, it should be deployed on the hostel's se
 System Maintenance:
 After the system is deployed, it should be maintained and updated to ensure that it continues to meet the changing needs of the hostel. This involves fixing bugs, adding new features, and improving performance.
 
-Features of the Hostel Management System:
+<h>Features of the Hostel Management System:</h>
 The Hostel Management System should include the following features:
 
 Room Allocation and Management:
