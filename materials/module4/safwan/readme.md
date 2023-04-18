@@ -120,3 +120,33 @@ Performance Requirement: The UMS should have optimized database queries and cach
 Integration Requirement: The UMS should integrate with other existing university systems, such as the student information system, learning management system, and authentication system, to exchange data and provide a seamless experience for users.
 
 Deployment Requirement: The UMS should have clear documentation and installation scripts for easy deployment and configuration in the production environment, with proper security measures, such as SSL encryption and firewall protection.
+
+# functional requirement system in university management system
+User registration and authentication: The UMS should provide a secure and user-friendly registration process for students, faculty, and staff to create user accounts and authenticate their identities. This may include features such as password management, email verification, and password recovery options.
+
+
+Course management: The UMS should allow faculty and administrators to create, update, and manage courses, including course information, prerequisites, schedules, and enrollment limits. Students should be able to search and view course offerings, enroll in courses, and drop courses as needed.
+
+
+Student information management: The UMS should maintain accurate and up-to-date student records, including personal information, enrollment history, grades, and academic progress. Students, faculty, and administrators should be able to access and update student information as appropriate.
+
+
+Grading and assessment: The UMS should support the management of student assessments, such as assignments, exams, and quizzes. Faculty should be able to input grades, calculate final grades, and provide feedback to students. Students should be able to view their grades and overall performance in the UMS.
+
+
+Communication and notifications: The UMS should facilitate communication between students, faculty, and administrators, including features such as announcements, messaging, and notifications. This may include email notifications for important deadlines, announcements from faculty or administrators, and messaging capabilities for students to contact faculty or administrators.
+
+
+Resource management: The UMS should allow faculty and administrators to manage resources such as classrooms, labs, and equipment for scheduling and allocation purposes. This may include features such as room booking, equipment reservation, and resource availability tracking.
+
+
+Reporting and analytics: The UMS should provide reporting and analytics capabilities to generate various reports and insights related to student enrollment, course offerings, grades, and other relevant data. This may include features such as customizable reports, data visualization, and analytics dashboards for administrators and faculty.
+
+
+Academic progress tracking: The UMS should provide tools for students, faculty, and advisors to track and monitor students' academic progress, including features such as degree audits, academic advising, and progress tracking towards graduation requirements.
+
+
+Exam management: The UMS should facilitate the scheduling and administration of exams, including features such as exam registration, seating arrangements, and exam proctoring.
+
+
+Online learning: The UMS may include features for online learning, such as virtual classrooms, e-learning materials, and online assessments, to support remote or blended learning scenarios.
