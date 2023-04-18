@@ -82,3 +82,31 @@
   ###     Review and Approval: 
     Review the System Requirement Document with all stakeholders and seek 
     their approval before proceeding with the design and implementation phase.
+    
+#    User Requirement
+## Key steps in creating a User Requirement Document for a Parcel Delivery System
+
+  ### Identify the Users: 
+      Identify the different types of users who will be using the parcel delivery system, 
+      such as customers, delivery drivers, and management staff.
+
+  ### Define User Profiles: 
+Define the different user profiles, including their needs, requirements, and preferences. 
+This will help to design a system that is tailored to the needs of each user.
+
+  ### Identify User Tasks: 
+Identify the different tasks that each user will perform using the system, 
+such as placing an order, tracking a parcel, and managing delivery routes.
+
+  ### Define User Interface Requirements: 
+Define the different user interface requirements, such as the user interface design,
+the layout, and the navigation.
+
+  ### Specify User Interactions: 
+Specify the different user interactions with the system, 
+such as the use of input forms, buttons, and menus.
+
+  ### Define User Experience Requirements: 
+Define the different user experience requirements, such as ease of use, 
+responsiveness, and personalization.
+
