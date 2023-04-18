@@ -12,22 +12,22 @@ Don't forget to hit the :star: if you like this repo.
 ## Key steps in creating an University Event Management System
 Brief overview of each phase of the software development lifecycle for a university event management system:
 
-### 1.System Requirement Gathering:
+### 1. System Requirement Gathering:
 During this phase, the key stakeholders of the university event management system need to gather and analyze the requirements for the system. The requirements can be collected through interviews, surveys, and workshops with different stakeholders. The requirements should be documented clearly and precisely, and should include functional and non-functional requirements.
 
-### 2.System Design:
+### 2. System Design:
 The system design phase is where the software architects and designers create a high-level design of the system. They identify the modules and components of the system and define how these components will interact with each other. This phase also includes designing the user interface, data storage, and data flow diagrams.
 
-### 3.System Development:
+### 3. System Development:
 The system development phase involves the actual coding of the system. Developers use the specifications from the system design phase to develop the system's software components. The coding is done in an iterative and incremental way, and the code is tested and debugged regularly.
 
-### 4.System Testing:
+### 4. System Testing:
 In the system testing phase, the developed system is tested to ensure that it meets the functional and non-functional requirements identified in the requirement gathering phase. Different types of testing, such as unit testing, integration testing, system testing, and acceptance testing, are performed during this phase.
 
-### 5.System Deployment:
+### 5. System Deployment:
 In the system deployment phase, the developed system is installed and made available for use. The system is deployed on a production server or cloud-based infrastructure. The deployment process includes installing the system, configuring it, and integrating it with other systems in the university environment.
 
-### 6.System Maintenance:
+### 6. System Maintenance:
 After the system is deployed, the system maintenance phase begins. The system is monitored regularly to ensure that it is functioning as intended. Maintenance activities can include fixing bugs, applying security patches, adding new features, and upgrading the system's infrastructure.
 
   A university event management system is a software application designed to streamline and automate the process of planning and executing events within a university or college environment. This system can be used to manage a wide range of events, including academic conferences, sporting events, cultural events, and student organization events. It can be a powerful tool for managing events in a university or college environment. By automating and streamlining the event planning process, this system can save time and resources while improving the overall quality of events.
@@ -37,19 +37,19 @@ Requirements engineering is the process of eliciting, analyzing, specifying, val
 
 The requirements engineering process for an university event management system typically involves the following steps:
 
-### 1.Requirements Elicitation:
+### 1. Requirements Elicitation:
 During this phase, the requirements for the university event management system are gathered from various stakeholders, including event organizers, participants, university staff, and other relevant parties. This can be done through interviews, surveys, and workshops, and the information collected is documented.
 
-### 2.Requirements Analysis:
+### 2. Requirements Analysis:
 In this phase, the gathered requirements are analyzed to determine their feasibility, relevance, and priority. The requirements are grouped and categorized based on their functional and non-functional characteristics. The analysis also includes identifying potential conflicts and dependencies between requirements.
 
-### 3.Requirements Specification:
+### 3. Requirements Specification:
 During the specification phase, the requirements are documented in detail. This includes creating use cases, user stories, functional requirements, non-functional requirements, and system constraints. The requirements are documented using appropriate tools, such as use case diagrams, flowcharts, and data flow diagrams.
 
-### 4.Requirement Validation:
+### 4. Requirement Validation:
 The validation phase is where the requirements are reviewed and validated to ensure that they meet the needs of the stakeholders. This can be done through various techniques such as peer review, prototyping, and testing. The validation process ensures that the requirements are complete, consistent, and unambiguous.
 
-### 5.Requirements Management:
+### 5. Requirements Management:
 The requirements management phase involves managing the requirements throughout the software development lifecycle. This includes tracking changes to the requirements, ensuring that the requirements are met during development, and documenting any deviations or changes from the original requirements.
 
   Requirements engineering is a critical process in developing a university event management system. Proper requirements elicitation, analysis, specification, validation, and management are essential to ensure that the system meets the needs of the stakeholders and performs as intended. Effective communication and collaboration between stakeholders, developers, and testers are critical to ensure that the requirements are met and that the system is developed and delivered on time and within budget.
