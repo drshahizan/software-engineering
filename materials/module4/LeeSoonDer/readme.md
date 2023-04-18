@@ -83,6 +83,46 @@ Prioritize requirements based on their importance to stakeholders and the projec
 These requirements for the requirements engineering process are just a starting point and will likely vary depending on the specific needs and goals of each university. The requirements engineering process should be tailored to the needs of the feedback system, ensuring that all requirements are complete, accurate, and feasible
 <br>
 
+<h2>User Requirements</h2>
+<ul>
+  <li>The system should allow students to provide anonymous feedback on courses and instructors.</li>
+<li>The system should be easily accessible and intuitive to use.</li>
+<li>The system should provide clear instructions for submitting feedback.</li>
+<li>The system should allow students to provide feedback on various aspects of a course or instructor, such as course content, teaching style, and organization.</li>
+<li>The system should allow students to provide both quantitative and qualitative feedback.</li>
+<li>The system should ensure the privacy and security of students' feedback.</li>
+<li>The system should allow students to view their previous feedback submissions.</li>
+<li>The system should provide a confirmation message after a feedback submission is completed.</li>
+<li>The system should provide a mechanism for follow-up or response to feedback from instructors or administrators.</li>
+<li>The system should provide reports and summaries of feedback for instructors and administrators to review and analyze.</li>
+<li>The system should have a mechanism for identifying and addressing any inappropriate or abusive feedback.</li>
+<li>The system should be available to all students in the university, regardless of their major or level of study.</li>
+</ul>
+<h2>System Requirements</h2>
+<ul>
+<li>The system should be web-based and accessible from any device with an internet connection.</li>
+<li>The system should be compatible with popular web browsers, such as Google Chrome, Mozilla Firefox, and Safari.</li>
+<li>The system should have a responsive design that adjusts to different screen sizes and resolutions.</li>
+<li>The system should have a secure login mechanism to ensure the privacy and security of students' feedback.</li>
+<li>The system should have a database to store feedback submissions and user information.</li>
+<li>The system should have a user interface that is visually appealing and easy to navigate.</li>
+<li>The system should provide error messages for incorrect or incomplete feedback submissions.</li>
+<li>The system should have a search functionality for students to view their previous feedback submissions.</li>
+<li>The system should allow instructors and administrators to generate reports and summaries of feedback, including statistical analysis and visualizations.</li>
+<li>The system should provide a mechanism for instructors and administrators to respond to feedback or address any issues raised.</li>
+<li>The system should have a feature to flag inappropriate or abusive feedback and notify appropriate personnel for further action.</li>
+<li>The system should have a mechanism for scheduling and sending reminders for students to provide feedback.</li>
+<li>The system should have a backup and disaster recovery plan in case of system failure or data loss.</li>
+<li>The system should comply with relevant data privacy and security regulations, such as GDPR or HIPAA.</li>
+
+</ul>
+
+
+
+
+
+
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
