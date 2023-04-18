@@ -43,7 +43,7 @@ A hospital information system is a software application that manages the adminis
 Overall, a hospital information system should be user-friendly, efficient, and reliable, providing a seamless experience for healthcare providers and hospital staff alike.
 
 
-# Requirement Engineering Process:
+# Requirement Engineering Process
 
 Requirement engineering is the process of gathering, analyzing, and documenting the needs and constraints of stakeholders to define the requirements for a system. 
 
@@ -70,7 +70,7 @@ Requirement engineering is the process of gathering, analyzing, and documenting 
 
 Overall, the requirement engineering process for a hospital information system should be systematic, collaborative, and iterative, involving all stakeholders in the process of defining and refining the requirements. By following a structured approach, the requirements for the system can be clearly defined, ensuring that the final product meets the needs of all stakeholders.
 
-# User and System Requirement in hospital information system
+# User and System Requirement in Hospital Information System
 
 User requirements in a hospital information system refer to the specific needs of the users or stakeholders of the system. System requirements refer to the technical capabilities and features that the system should have in order to meet these needs. 
 
