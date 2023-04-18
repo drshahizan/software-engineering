@@ -134,6 +134,41 @@ The system should comply with relevant data privacy and security regulations, su
 
 Overall, a student engagement system should be designed with scalability, security, performance, availability, reliability, compatibility, interoperability, flexibility, data management, and compliance in mind to ensure that it meets the needs of students, teachers, and administrators.
 
+# Funtional requirements
+Functional requirements in a student engagement system may include:
+
+### Attendance Tracking:
+The system should allow teachers to track student attendance and participation in class activities. It should be able to record absences, tardiness, and participation in online activities.
+
+### Engagement Activities:
+The system should provide a variety of engagement activities that encourage student participation, such as quizzes, discussion forums, polls, surveys, and group work.
+
+### Personalization:
+The system should allow students to personalize their learning experience based on their individual needs and preferences. This could include personalized feedback, customized learning paths, or the ability to select their own learning resources.
+
+### Real-Time Feedback:
+The system should provide real-time feedback to students on their progress and performance. This could include feedback on quizzes, assignments, or other activities.
+
+### Communication:
+The system should provide a communication platform for students to interact with teachers and other students. This could include discussion forums, chat rooms, or messaging.
+
+### Course Management:
+The system should provide tools for teachers to manage their courses, including adding and removing students, managing course materials, and setting course objectives.
+
+### Learning Analytics:
+The system should provide analytics and reporting tools that allow teachers and administrators to track student progress and identify areas for improvement. It should be able to track student performance, engagement, and attendance.
+
+### Integration:
+The system should integrate with other learning management systems, such as course management or grade tracking systems, to provide a seamless learning experience.
+
+### Mobile Access:
+The system should be accessible on mobile devices, allowing students to access learning materials and activities from anywhere at any time.
+
+### Accessibility:
+The system should be accessible to all users, including those with disabilities, by providing alternative formats for course materials, captions for videos, and other accessibility features.
+
+Overall, the functional requirements in a student engagement system should be designed to facilitate an engaging and personalized learning experience, allowing students to interact with their peers and teachers, and providing real-time feedback to support their learning goals.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
