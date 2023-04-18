@@ -10,7 +10,7 @@ Don't forget to hit the :star: if you like this repo.
 # Software Requirements Document (SRD): Student Engagement System
 Developing a student engagement system can be a complex and multifaceted process. However, here are some general steps you can follow to create a student engagement system:
 
-Define the scope and goals: The first step is to define the scope of the system and identify the goals you want to achieve. Consider the target audience, learning objectives, and the types of engagement activities you want to offer.
+## Define the scope and goals: The first step is to define the scope of the system and identify the goals you want to achieve. Consider the target audience, learning objectives, and the types of engagement activities you want to offer.
 
 Select appropriate technology: Consider the various technologies available and select those that align with your goals and the learning objectives. For example, you may choose to use clicker devices, mobile applications, or online discussion boards.
 
