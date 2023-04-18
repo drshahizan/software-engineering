@@ -158,6 +158,21 @@ Here are some functional requirements that should be included in the SRD:
 
 By including these functional requirements in the SRD, you can ensure that the app provides all the necessary functions and features to meet the needs of users and provide a valuable and engaging experience.
 
+## Interview
+
+Before conducting an interview with your stakeholder for the Software Requirements Document (SRD) of a mobile app for fitness tracking, there are several things you should do to ensure that the interview is productive and informative. Here are some suggestions:
+
+- Review the current SRD: Make sure you have a clear understanding of the current state of the SRD, including the goals and requirements outlined in the document.
+
+- Prepare a list of questions: Develop a list of questions that will help you gather the information you need from your stakeholder. These questions should be focused on the key features and functionalities of the app, as well as any potential challenges or concerns that the stakeholder may have.
+
+- Research the stakeholder: Learn as much as you can about the stakeholder before the interview. This can include their role in the organization, their area of expertise, and any relevant background information that may help you understand their perspective.
+
+- Set clear objectives: Determine what you hope to achieve from the interview and communicate these objectives to the stakeholder beforehand. This will help them prepare and ensure that the interview is focused and productive.
+
+- Plan for follow-up: After the interview, plan to follow up with the stakeholder to confirm any details or clarify any points that were discussed. This will help ensure that the requirements are accurate and complete.
+
+By taking these steps, you can help ensure that your interview with the stakeholder is productive and provides the information you need to develop an effective SRD for your mobile app for fitness tracking.
 
 
 ## Contribution 🛠️
