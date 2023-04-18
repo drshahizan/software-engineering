@@ -40,3 +40,4 @@ Once the requirements are specified, they need to be validated to ensure that th
 
 ### 5. Requirements management
 Requirements Engineering is an iterative process, and as such, the requirements need to be managed throughout the lifecycle of the project. This involves tracking changes to the requirements, ensuring that they are properly prioritized, and communicating any changes to the stakeholders. The requirements should also be reviewed periodically to ensure that they are still valid and relevant to the needs of the stakeholders.
+
