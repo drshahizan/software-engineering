@@ -112,31 +112,102 @@ Additionally, the delivery service system can save time and resources for univer
 
 Overall, the goal of a delivery service system for a university is to provide a convenient and efficient solution to package delivery that meets the needs of students, faculty, and staff while enhancing the reputation and efficiency of the university.
 
-## 7. Choose a technology platform :
+## 7. Interview session :
+
+### Before
+Research the current package delivery system on campus, including any existing policies, procedures, and technologies used for package management.
+
+Identify the key stakeholders involved in package delivery on campus, including students, faculty, staff, and any external delivery services.
+
+Review the requirements and goals of the new delivery service system, including the functional and non-functional requirements, user requirements, and system requirements.
+
+Develop a list of questions to ask during the interview session, based on the research and requirements analysis you have conducted.
+
+Identify any potential issues or challenges that may arise during the development and implementation of the new delivery service system, such as security concerns, system compatibility issues, or budget constraints.
+
+Consider the feasibility of different delivery service system models, such as a centralized system managed by the university, or a decentralized system involving multiple delivery providers.
+Review industry best practices and trends in package delivery and logistics, including emerging technologies and delivery service models.
+
+Plan the logistics of the interview session, including scheduling, location, and any necessary equipment or materials.
+
+Identify any potential risks or limitations associated with the new delivery service system, such as legal compliance issues or stakeholder resistance.
+
+Develop a plan for communicating the findings and insights from the interview session to the development team, and for incorporating that feedback into the design and implementation of the new delivery service system.
+
+### While
+Start with an introduction: Begin the interview session by introducing yourself and explaining the purpose of the session. Provide some context about the new delivery service system and what you hope to achieve from the interview.
+
+Use open-ended questions: Use open-ended questions to gather detailed information from stakeholders, allowing them to express their thoughts and opinions on the current package delivery system and what they would like to see in the new system. Encourage stakeholders to share their experiences and feedback in detail.
+
+Take notes: Take detailed notes during the interview session, recording key points, ideas, and feedback from stakeholders. This will help you to identify common themes and insights that emerge from the discussion.
+
+Clarify questions: If you don't understand a stakeholder's response or if you need more information, don't be afraid to ask for clarification. Make sure you fully understand their feedback before moving on to the next question.
+
+Stay neutral: It's important to remain neutral during the interview session and avoid showing any biases or preferences towards any specific solution or approach. This will help stakeholders feel comfortable sharing their honest opinions and feedback.
+
+Manage time: Keep track of time during the interview session to ensure that you cover all the questions you have planned. Try to stay within the allotted time frame for each stakeholder, and be respectful of their time.
+
+Follow-up: After the interview session, follow-up with stakeholders to thank them for their participation and to clarify any additional questions or comments that may have arisen during the session.
+
+Analyze feedback: Once the interview session is complete, analyze the feedback you have received and look for patterns or themes that emerge. Use this feedback to inform the design and development of the new delivery service system.
+
+Communicate findings: Communicate your findings and insights to the development team and stakeholders, and work together to incorporate the feedback into the new delivery service system.
+
+Here are some sample questions you can ask during the interview:
+
+  - What are your current challenges with the package delivery system on campus?
+  - What features would you like to see in a new package delivery system for the university?
+  - How frequently do you send and receive packages on campus?
+  - Have you ever experienced any issues with package theft or loss on campus?
+  - How important is package tracking and delivery status updates to you?
+  - Would you be willing to pay a fee for expedited package delivery?
+  - How do you currently manage package pickup and delivery scheduling?
+  - What do you think would be the biggest benefits of a new delivery service system for the university?
+  - How would you rate the current package delivery system on campus in terms of convenience, reliability, and efficiency?
+  - Do you have any additional suggestions or feedback for the development team working on the new delivery service system?
+
+### Post
+Organize your notes: Review your notes from the interview session and organize the information you gathered. Look for common themes and patterns that emerged from the stakeholders' feedback.
+
+Analyze feedback: Use the feedback you received from stakeholders to refine and clarify the requirements for the new delivery service system. Consider how you can address the stakeholders' concerns and incorporate their ideas into the design of the system.
+
+Prioritize requirements: Prioritize the requirements for the new delivery service system based on stakeholder feedback, business needs, and project goals. This will help you to focus on the most important features and functions of the system.
+
+Define system scope: Define the scope of the delivery service system based on stakeholder requirements and the project goals. This will help you to determine the size and complexity of the system, and will guide the development process.
+
+Develop a system design: Based on stakeholder feedback, develop a system design that outlines the architecture, components, and technologies required for the new delivery service system. Consider any system integration and security requirements, as well as scalability and reliability.
+
+Develop a project plan: Develop a project plan that outlines the timelines, milestones, and resources required for the development and implementation of the new delivery service system. Consider any risks or limitations associated with the project, and develop contingency plans to address them.
+
+Communicate progress: Keep stakeholders informed of the progress of the delivery service system development and implementation. Provide regular updates on project status, milestones, and any changes to the project plan.
+
+Test and refine: Test the new delivery service system thoroughly to ensure that it meets stakeholder requirements and functions as intended. Refine the system as needed based on stakeholder feedback and testing results.
+
+## 8. Choose a technology platform :
 
 Select a technology platform for the system, including the programming language, database, and web server. Ensure that the technology platform is scalable, secure, and easy to maintain.
 
-## 8. Design the system architecture :
+## 9. Design the system architecture :
 
 Design the system architecture, including the database, user interface, and system components. Ensure that the architecture is scalable, secure, and follows best practices.
 
-## 9. Develop and test the system :
+## 10. Develop and test the system :
 
 Develop the system using a software development life cycle (SDLC) methodology. Test the system thoroughly before deployment to ensure that it meets the stakeholders' needs and requirements.
 
-## 10. Deploy and maintain the system :
+## 11. Deploy and maintain the system :
 
 Deploy the system to the production environment. Maintain and update the system regularly to ensure that it continues to meet the stakeholders' needs and requirements.
 
-## 11. Establish partnerships with carriers and payment providers :
+## 12. Establish partnerships with carriers and payment providers :
 
 Establish partnerships with carriers to ensure reliable delivery services and payment providers to process payments securely and efficiently.
 
-## 12. Implement effective parcel tracking :
+## 13. Implement effective parcel tracking :
 
 Implement an effective parcel tracking system to enable shippers and recipients to track their parcels' status in real-time.
 
-## 13. Monitor and improve system performance :
+## 14. Monitor and improve system performance :
 
 Continuously monitor the system performance, identify areas of improvement, and implement changes to enhance the system's performance.
 
