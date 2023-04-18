@@ -58,7 +58,7 @@ Determine the features and functionality required for the system, such as parcel
   - Data analysis: The system should provide data analysis and reporting capabilities to track package delivery performance, identify areas for improvement, and provide insights to university administrators.
  
 ## 4. Functional requirements
-describe the specific features and functions that a delivery service system for a university must have to meet the needs of its users. Here are some functional requirements that a delivery service system for a university should consider:
+Describe the specific features and functions that a delivery service system for a university must have to meet the needs of its users.
 
 - User registration: The system should allow users to register for the service by providing their personal information and delivery address.
 

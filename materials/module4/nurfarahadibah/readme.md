@@ -75,3 +75,26 @@ The system should be able to handle a high volume of users and transactions with
 The system should incorporate security measures to protect user data and prevent unauthorized access or fraud.
 These are just a few potential user and system requirements for a college web room rental system. The actual requirements may vary depending on the specific needs of the college and its users.
 
+
+## Functional Requirement
+Functional requirements in a college web room rental service describe the specific features and functionalities that the system must have in order to meet the needs of its users. Here are some examples of functional requirements for a college web room rental service:
+
+#### 1.	Room search: 
+The system should allow users to search for available rooms based on criteria such as date, time, location, room size, and amenities.
+#### 2.	Room booking: 
+Users should be able to book a room for a specific date and time, with the option to choose additional services such as audiovisual equipment or catering.
+#### 3.	Rental management: 
+Users should be able to view their rental history, cancel or modify bookings, and request refunds.
+#### 4.	Payment processing: 
+The system should be able to process payments securely and efficiently, allowing users to pay for rentals using a variety of payment methods.
+#### 5.	Room availability management: 
+The system should maintain an accurate and up-to-date record of room availability, preventing double bookings and conflicts.
+#### 6.	Email notifications: 
+The system should send email notifications to users to confirm their booking, remind them of upcoming rentals, and provide rental receipts.
+#### 7.	User authentication: 
+The system should require users to create an account and authenticate their identity before they can make a reservation or view their rental history.
+#### 8.	Reporting and analytics:
+The system should generate reports and analytics to track usage patterns, revenue, and other key metrics.
+
+Functional requirements define what the system should do and how it should behave in response to user inputs and actions. By defining these requirements, the system developers can ensure that the system meets the needs of its users and provides the desired level of functionality and usability.
+
