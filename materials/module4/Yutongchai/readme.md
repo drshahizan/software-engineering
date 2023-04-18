@@ -101,7 +101,7 @@ The ability for users to create and manage their own profiles, including persona
 
 <b>9. Moderation: </b>The system should have moderation capabilities to monitor and remove inappropriate content, and enforce community guidelines.
 
-<b>10. Privacy settings: The system should allow users to con
+<b>10. Privacy settings: </b>The system should allow users to control their privacy settings, such as who can view their profile, posts, and messages.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
