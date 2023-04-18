@@ -69,3 +69,41 @@ Requirement engineering is the process of gathering, analyzing, and documenting 
 
 
 Overall, the requirement engineering process for a hospital information system should be systematic, collaborative, and iterative, involving all stakeholders in the process of defining and refining the requirements. By following a structured approach, the requirements for the system can be clearly defined, ensuring that the final product meets the needs of all stakeholders.
+
+# User and System Requirement in hospital information system
+
+User requirements in a hospital information system refer to the specific needs of the users or stakeholders of the system. System requirements refer to the technical capabilities and features that the system should have in order to meet these needs. 
+
+## User requirement in hospital information system:
+
+Here are some examples of user requirements for a hospital information system:
+
+1. Healthcare providers need to access patient information quickly and easily in order to provide timely and effective care. They need the system to provide a clear and concise overview of the patient's medical history, including diagnoses, medications, test results, and allergies.
+
+2. Patients need to be able to access their own health information, such as test results and appointment schedules, in a secure and user-friendly way. They need the system to be accessible from a variety of devices, such as computers, smartphones, and tablets.
+
+3. Hospital administrators need to be able to track and manage the hospital's resources, including staff, equipment, and supplies. They need the system to provide real-time information on the availability and utilization of these resources.
+
+4. Insurance companies need to be able to access patient information and claims data in order to process claims and reimburse healthcare providers. They need the system to provide secure and timely access to this information.
+
+5. Patients and their families need to be able to communicate with healthcare providers and access educational resources related to their condition. They need the system to provide secure messaging and telehealth capabilities, as well as access to educational materials.
+
+By understanding these user requirements, a hospital information system can be designed to meet the needs of its users and support the delivery of high-quality healthcare services.
+
+## System Requirement in hospital information system
+
+Here are some examples of user and system requirements for a hospital information system:
+
+1. The system should be fast and responsive, with low latency and high throughput, to ensure that healthcare providers can access patient information quickly and easily.
+
+2. The system should be secure, with robust access controls and data encryption, to protect patient information from unauthorized access or breaches.
+
+3. The system should be scalable, with the ability to handle increasing amounts of data and users as the hospital grows.
+
+4. The system should be interoperable, with the ability to integrate with other healthcare systems, such as electronic health record (EHR) systems and medical devices.
+
+5. The system should be reliable, with high uptime and minimal downtime, to ensure that healthcare providers can access patient information when they need it.
+
+6. The system should be customizable, with the ability to tailor workflows and modules to the specific needs of the hospital.
+
+7. The system should be compliant with relevant regulatory requirements, such as HIPAA, to ensure that patient data is kept secure and confidential.
