@@ -97,6 +97,85 @@ Functional requirements are the specific features and capabilities that a studen
 
 10. System administration: The system should allow for system administration and management, including user management, system configuration, and backup and recovery.
 
+## Non-Functional Requirements
+
+1. Performance: The system should be responsive and efficient in performing its functions. For example, it should load quickly and process requests in a timely manner.
+
+2. Security: The system should ensure the confidentiality, integrity, and availability of health and wellness information. It should also protect against unauthorized access, data breaches, and cyber attacks.
+
+3. Scalability: The system should be able to handle an increasing number of users and data without compromising its performance and functionality.
+
+4. Reliability: The system should be reliable and available at all times, with minimal downtime or system failures. It should also be able to recover quickly from any failures.
+
+5. Usability: The system should be user-friendly and easy to use for students, healthcare professionals, and school administrators.
+
+6. Interoperability: The system should be able to integrate with other systems used by the school, such as the school's student information system, to provide a seamless user experience.
+
+7. Maintainability: The system should be easy to maintain, update, and modify, with minimal disruption to its operation.
+
+8. Compliance: The system should comply with relevant regulations and standards, such as HIPAA, FERPA, and accessibility guidelines.
+
+
+<br/>
+
+## Interview
+
+Before the interview
+
+- Determine the Objectives: Identify the objectives of the interview, such as gathering requirements or understanding user needs, and define the scope of the interview.
+
+- Identify the Stakeholders: Identify the key stakeholders, such as students, healthcare professionals, and school administrators, who will be involved in the interview process.
+
+- Prepare Interview Questions: Prepare a set of open-ended and focused interview questions that are relevant to the objectives and scope of the interview.
+
+- Schedule the Interview: Schedule the interview with the stakeholders in advance, and ensure that they have sufficient time to prepare for the interview.
+
+- Choose the Right Venue: Choose an appropriate venue for the interview, such as a conference room or a virtual meeting platform, and ensure that it is equipped with the necessary technology.
+
+During the Interview:
+
+- Introduce Yourself: Introduce yourself and your role in the project, and explain the objectives and scope of the interview.
+
+- Set the Tone: Create a positive and open atmosphere for the interview, and encourage stakeholders to share their thoughts and opinions.
+
+- Ask Open-ended Questions: Ask open-ended questions that allow stakeholders to express their thoughts and opinions freely, and encourage them to provide examples and details.
+
+- Listen Carefully: Listen carefully to stakeholders' responses, and ask follow-up questions to clarify any ambiguous or unclear points.
+
+- Take Notes: Take detailed notes during the interview, and record the stakeholders' responses and any important insights.
+
+After the Interview:
+
+- Analyze the Results: Analyze the notes and insights gathered during the interview, and identify common themes, patterns, and trends.
+
+- Share the Results: Share the results of the interview with stakeholders and other members of the project team, and incorporate their feedback into the project plan.
+
+- Prioritize Requirements: Prioritize the requirements based on their importance and feasibility, and develop a plan for implementing them in the student health and wellness management system.
+
+- Follow-up with Stakeholders: Follow-up with stakeholders to ensure that their concerns and suggestions have been addressed, and keep them informed of the progress of the project.
+
+Tools
+1. Questionnaire: Prepare a set of questions to ask stakeholders about their needs and requirements for the system. This can help you gather structured data and insights from stakeholders.
+
+2. Interview Guide: Prepare an interview guide with open-ended questions to encourage stakeholders to share their opinions and experiences. This can help you gather more qualitative data and understand stakeholders' perspectives.
+
+3. Demo or prototype: Create a demo or prototype of the system to show stakeholders how it works and gather feedback on its features and usability.
+
+4. Use cases: Prepare use cases that describe specific scenarios in which the system will be used. This can help stakeholders understand how the system will be used in practice and identify any gaps or issues in its design.
+
+5. Storyboards: Create storyboards that depict different user scenarios and use them to engage stakeholders in discussions about the system's design and functionality.
+
+6. Surveys: Prepare a survey to collect feedback from stakeholders who may not be available for an in-person interview. This can help you gather insights from a broader group of stakeholders.
+
+7. Whiteboard and markers: Use a whiteboard and markers to brainstorm and sketch out ideas during the interview. This can help stakeholders visualize the system's design and functionality and provide immediate feedback on its feasibility.
+
+
+
+
+
+
+Regenerate response
+
 
 
 ## Contribution 🛠️

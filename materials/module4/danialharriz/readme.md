@@ -195,6 +195,32 @@ The system should be able to support a variety of different types of electronic 
 
 #### By fulfilling these functional requirements, the electronic appliance registration system will be able to meet the needs of its users and provide efficient and effective device registration services for the university.
 
+## Interview Session
+
+#### - Before the interview session:
+
+ - Prepare a list of questions that you want to ask the stakeholders to ensure that you get the information you need.
+ - Research the stakeholders and their roles within the organization to understand their perspectives and priorities.
+ - Review the project requirements and scope to ensure that you are well-informed about the system and its goals.
+ - Practice your presentation and be ready to explain the system's features and benefits clearly and concisely.
+ - Dress professionally and arrive on time to the meeting.
+
+#### - During the interview session:
+
+ - Greet the stakeholders respectfully and thank them for taking the time to meet with you.
+ - Clearly explain the purpose and goals of the electronic appliance registration system and answer any questions they may have.
+ - Listen carefully to their feedback and concerns and take notes on any issues or suggestions they raise.
+ - Be open-minded and flexible, and be prepared to make changes to the system based on their feedback.
+ - Clearly communicate the next steps in the project, including timelines and expectations.
+
+#### - After the interview session:
+
+ - Review your notes from the meeting and reflect on the feedback you received.
+ - Identify any changes or updates that need to be made to the system based on the stakeholder's feedback.
+ - Follow up with the stakeholders to thank them for their time and provide any additional information or materials they may need.
+ - Incorporate any changes or updates into the system's design and development.
+ - Keep the stakeholders updated on the progress of the project and any changes that are made.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 

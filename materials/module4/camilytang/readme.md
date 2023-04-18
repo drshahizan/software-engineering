@@ -211,3 +211,86 @@ This functional requirement allows event organizers to generate reports and anal
 This functional requirement involves the ability to manage the financial aspects of campus events, including creating budgets, tracking expenses and revenue, generating invoices, and processing payments. It should also provide financial reporting and analytics capabilities, such as budget vs. actual comparisons and forecasting tools. Proper financial management is crucial for the success of campus events, and having a robust financial management system integrated into the event management platform can help ensure that events stay within budget and are financially sustainable in the long run.
 
 Overall, functional requirements play a critical role in the design and development of a campus event management system. By specifying the desired capabilities and functionalities of the system, functional requirements ensure that the system is developed to meet the needs of its users and stakeholders, and that it is designed to be effective, efficient, and user-friendly.
+
+
+## Interview
+
+### Before the interview
+#### 1. Research the stakeholders: 
+Find out who will be interviewing you and learn about their role in the project. This will help you understand what they might be interested in and how you can best communicate with them.
+#### 2. Review your project: 
+Refresh your understanding of the campus event management system you are working on. Be ready to explain the goals of the project, its current status, and any challenges you are facing.
+
+#### 3. Prepare your questions: 
+Think of questions you want to ask the stakeholders. These can be about their expectations for the project, their involvement in it, or their feedback on your work so far.
+
+#### 4. Practice: 
+Rehearse your answers to common interview questions and practice articulating your ideas in a clear and concise way.
+Dress professionally: Choose professional attire that makes you feel confident and comfortable.
+
+### During the interview
+#### 1. Listen actively: 
+Pay attention to the stakeholders' questions and comments, and respond thoughtfully. Clarify anything that is unclear and ask follow-up questions if needed.
+
+#### 2. Be honest:
+If you don't know the answer to a question, admit it. Don't try to bluff your way through a response.
+
+#### 3. Demonstrate your knowledge: 
+Use specific examples from your project to demonstrate your understanding of the campus event management system and your ability to solve problems.
+
+#### 4. Show enthusiasm: 
+Express your passion for the project and your excitement about the opportunity to work with the stakeholders.
+
+#### 5. Take notes:
+ Write down important points that are discussed during the interview. This will help you remember key details and can be useful for follow-up discussions.
+
+### After the interview
+#### 1. Follow up: 
+Send a thank-you note to the stakeholders, reiterating your interest in the project and your appreciation for their time.
+
+#### 2. Reflect on the interview: 
+Think about what went well and what you could improve on for future interviews.
+
+#### 3. Take action: 
+Use the feedback and insights gained during the interview to refine your project plan and improve your work going forward.
+
+#### 4. Stay engaged: 
+Stay in touch with the stakeholders and keep them informed of your progress on the project.
+
+#### 5. Continue learning: 
+Use the interview as an opportunity to learn more about the campus event management system and the stakeholders' needs. Keep up-to-date on relevant news and research in the field.
+
+### Items to bring to an interview
+#### 1. Printed copies of your resume:
+ Even though you might have already sent your resume to the interviewer beforehand, it's always a good idea to bring a few printed copies in case the interviewer needs a copy or if there are multiple interviewers.
+
+#### 2. Portfolio: 
+If you have any relevant projects or work samples related to your campus event management system project, consider bringing a portfolio to showcase your skills and expertise.
+
+#### 3. Pen and notepad: 
+It's always a good idea to have a pen and notepad handy to take notes during the interview. This shows that you're attentive and interested in the discussion.
+
+#### 4. Questions to ask: 
+Prepare a list of questions you have about the project or the company, so you can ask the interviewer during the interview. This shows that you're interested in the opportunity and have done your research.
+
+#### 5. References: 
+Bring a list of professional references who can speak about your skills, experience, and work ethic. Make sure to ask their permission beforehand and let them know that they might be contacted for a reference check.
+
+### Questions to ask in an interview
+1. What are the main goals and objectives of organizing events on campus?
+What kind of events are typically organized on campus? How often do they occur?
+
+2. How are events currently managed and organized on campus? Are there any specific pain points or challenges you've encountered?
+What are the key features and functionalities you would like to see in an event management system?
+
+3. How do you envision the event management system being used by different stakeholders, such as event organizers, attendees, and administrators?
+
+4. What kind of data and analytics would you like the event management system to provide?
+
+5. What kind of security measures do you expect from the event management system?
+
+6. What is your budget and timeline for implementing the event management system?
+
+7. Who will be responsible for maintaining and updating the event management system?
+
+8. How do you envision the event management system being integrated with other existing systems on campus?

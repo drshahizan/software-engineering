@@ -224,10 +224,156 @@ The system should be able to integrate with other university systems, such as le
 ## 8. Compliance: 
 The system should comply with relevant laws, regulations, and industry standards, such as data protection and privacy laws.
 
-By addressing these non-functional requirements, you can ensure that the student engagement system is reliable, secure, and user-friendly, while meeting the needs of the university community.
+By addressing these non-functional requirements, you can ensure that the student engagement system is reliable, secure, and user-friendly, while meeting the needs of the university community.  
 
+# Interview  
 
+## Before interview  
+Before conducting an interview session with your stakeholders for your student engagement system project, you should take the following steps:
 
+### 1. Identify the stakeholders: 
+Make a list of all the stakeholders who are relevant to your project. This can include students, faculty members, administrators, IT staff, and other groups or individuals who will be impacted by the student engagement system.
+
+### 2. Understand the context: 
+Familiarize yourself with the current state of the student engagement system and the challenges it faces. This will help you to ask relevant and insightful questions during the interview.
+
+### 3. Define the goals: 
+Clarify the purpose of the interview and the goals you hope to achieve from it. This will help you to prepare relevant questions and ensure that the interview is focused and productive.
+
+### 4. Prepare questions: 
+Develop a list of open-ended questions that will elicit useful and informative responses from the stakeholders. These questions should be designed to uncover their needs, preferences, and challenges related to student engagement.
+
+### 5. Plan logistics: 
+Schedule the interview at a convenient time for the stakeholders, and provide them with an agenda and any necessary materials beforehand. Make sure that the interview is conducted in a quiet and private setting, with appropriate recording equipment if necessary.
+
+### 6. Test the technology: 
+If the interview will be conducted remotely, test the technology beforehand to ensure that the audio and video quality is clear and reliable. This can help to prevent technical difficulties during the interview.
+
+### 7. Seek consent: 
+Obtain consent from the stakeholders to participate in the interview and to have their responses recorded and analyzed.
+
+By taking these steps before conducting the interview session, you can ensure that you are well-prepared and organized, and that the interview is productive and informative.  
+
+## Dressing  
+When dressing for an interview session with your stakeholders for your student engagement system project, it's important to keep in mind that you want to present a professional and polished image. Here are some general guidelines to follow:
+
+Dress appropriately: Choose clothing that is appropriate for the setting and the type of stakeholders you will be meeting with. If you are meeting with administrators or faculty members, for example, you may want to wear a suit or dressier attire. If you are meeting with students, you may be able to dress more casually.
+
+Keep it simple: Avoid clothing that is too flashy or attention-grabbing. Stick to simple and classic styles that are not distracting.
+
+Be comfortable: Make sure you choose clothing that you feel comfortable in and that allows you to move easily. You don't want to be distracted or uncomfortable during the interview.
+
+Pay attention to details: Make sure your clothing is clean, pressed, and free of wrinkles or stains. Pay attention to details such as your shoes, accessories, and grooming.
+
+Show respect: Remember that your appearance can reflect your respect for your stakeholders and the importance of the interview. Dressing professionally can help show that you take the interview seriously and are committed to the success of the project.
+
+Overall, dressing professionally and appropriately for the interview can help create a positive impression and demonstrate your professionalism and commitment to the project.
+
+## What to bring during interview  
+
+Here are some items that you may want to consider bringing with you to an interview session with your stakeholders for your student engagement system project:
+
+### 1. Notebook and pen: 
+Bring a notebook and pen to take notes during the interview. This will help you keep track of important information, ideas, and feedback that you receive from your stakeholders.
+
+### 2. Interview guide: 
+Prepare a list of questions or topics that you want to cover during the interview. This will help you stay on track and ensure that you gather all the information you need.
+
+### 3. Project materials: 
+Bring any relevant project materials such as diagrams, mockups, or prototypes that you have created. This will help you explain your ideas and get feedback from your stakeholders.
+
+### 4. Business cards: 
+Bring business cards to share with your stakeholders. This will help them remember who you are and how to contact you if they have any follow-up questions or feedback.
+
+### 5. Laptop or tablet: 
+If you plan to present any materials during the interview, such as a demo of your student engagement system, you may want to bring a laptop or tablet to share your screen.
+
+### 6. Relevance documents: 
+If you have any documents related to the student engagement system project, such as project plans, requirements documents, or user personas, you may want to bring them along to provide context and facilitate discussion.
+
+### 7. Water and snacks: 
+Finally, consider bringing water and snacks to the interview session. You don't want to get dehydrated or hungry during the interview, as it can be distracting and impact your focus.
+
+Remember to pack your items in a professional bag or briefcase to show that you are organized and prepared for the interview.  
+
+## List of questions to ask during interview  
+
+Here are some suitable questions you can ask your stakeholders during an interview for your student engagement system project:
+
+- Can you describe your experience with the current student engagement system? What do you like and dislike about it?
+
+- How do you think the student engagement system could be improved to better serve your needs as a stakeholder?
+
+- What are the most important features or functionalities you would like to see in the new student engagement system?
+
+- How do you envision using the new student engagement system in your day-to-day work or interactions with students?
+
+- What challenges have you faced with the current student engagement system that you would like to see addressed in the new system?
+
+- Can you describe any specific use cases or scenarios where the student engagement system would be particularly valuable to you?
+
+- What are your expectations in terms of the usability, reliability, and performance of the new student engagement system?
+
+- How do you see the student engagement system integrating with other systems or tools you use in your work?
+
+- Can you identify any potential barriers or challenges to implementing the new student engagement system, and how do you suggest we address them?
+
+- Are there any other stakeholders or users that you think we should be talking to in order to better understand their needs and requirements for the student engagement system?
+
+- Remember to tailor your questions to the specific needs and goals of your project and your stakeholder group, and be open to follow-up questions or feedback during the interview.  
+
+## After interview  
+
+After an interview session with your stakeholder for your student engagement system project, here are some recommended next steps:
+
+### 1. Review your notes: 
+Take time to go through your notes from the interview session to ensure you have captured all the relevant information.
+
+### 2. Analyze the feedback: 
+Identify common themes or issues raised by the stakeholder group, and consider how this feedback may impact your project requirements and design.
+
+### 3. Follow-up questions: 
+If there were any unanswered questions or areas that need further clarification, consider following up with the stakeholder group to gather more information.
+
+### 4. Prioritize requirements: 
+Based on the feedback from the stakeholder group, prioritize the most important requirements for your student engagement system and determine how they fit into the overall project scope and timeline.
+
+### 5. Document the results: 
+Document the results of the interview session, including key findings, insights, and any decisions made. This information will be useful for future reference and can be shared with other members of the project team or stakeholders.
+
+### 6. Plan for next steps: 
+Determine the next steps in the requirements gathering and design process based on the feedback from the stakeholder group, and communicate these plans with relevant stakeholders.
+
+Overall, the key is to ensure that the feedback from the stakeholder group is carefully considered and integrated into your project plan in a timely and efficient manner.
+
+# Use cases  
+
+Use cases are a valuable tool for describing the behavior of a system and its interactions with users or other systems. In the context of a student engagement system, some potential use cases could include:
+
+Register for courses: This use case would allow students to view available courses and register for the ones they are interested in.
+
+## 1. Access course materials: 
+This use case would allow students to access course materials, such as syllabi, readings, and assignments, online.
+
+## 2. Submit assignments: 
+This use case would allow students to submit assignments online, including written assignments, multimedia projects, and other types of coursework.
+
+## 3. Participate in online discussions: 
+This use case would allow students to participate in online discussions, such as discussion forums or group chats, related to their courses.
+
+## 4. Schedule appointments with professors: 
+This use case would allow students to schedule appointments with their professors, either in person or virtually, to discuss coursework or other academic topics.
+
+## 5. View grades and academic progress: 
+This use case would allow students to view their grades, academic progress, and other information related to their performance in their courses.
+
+## 6. Access student services: 
+This use case would allow students to access various student services, such as career counseling, mental health support, or financial aid, through the student engagement system.
+
+## 7. View campus events and announcements: 
+This use case would allow students to view upcoming campus events, news, and announcements related to their academic program or campus community.
+
+These are just a few examples of potential use cases for a student engagement system. By identifying and modeling these use cases, you can better understand the system's requirements and design a user-friendly and efficient system that meets the needs of your users.  
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

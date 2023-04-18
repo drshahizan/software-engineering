@@ -150,3 +150,72 @@ Exam management: The UMS should facilitate the scheduling and administration of 
 
 
 Online learning: The UMS may include features for online learning, such as virtual classrooms, e-learning materials, and online assessments, to support remote or blended learning scenarios.
+
+# interview session with stakeholder
+Before the Interview Session:
+
+
+Define the interview objectives: Clearly define the objectives and goals of the interview session. What information are you seeking to gather from the stakeholders? What are the specific areas or topics you want to discuss during the interview? Having clear objectives will help you structure the interview and ensure that you ask relevant questions.
+
+
+Identify the stakeholders: Identify the relevant stakeholders who should be included in the interview session. This could include university administrators, faculty, staff, students, and other personnel who are involved in the university management processes.
+
+
+Prepare interview questions: Develop a set of interview questions that are relevant to your University Management System project. These questions should be open-ended and designed to gather specific information about the stakeholders' needs, expectations, and requirements for the system. Prepare a list of questions that will help you uncover the functional requirements of the system, as well as any potential constraints or challenges.
+
+
+Plan logistics: Plan the logistics of the interview session, such as scheduling, location, and mode of the interview (e.g., in-person, phone, video conference). Make sure to communicate the interview details with the stakeholders in advance and ensure that they have the necessary information to participate in the session.
+
+
+During the Interview Session:
+
+
+Establish rapport: Begin the interview session by establishing rapport with the stakeholders. Create a comfortable and welcoming environment, and build rapport by engaging in small talk and showing genuine interest in their perspective. This will help to establish trust and encourage stakeholders to share their requirements and expectations openly.
+
+
+Ask open-ended questions: Use the prepared interview questions to guide the conversation and gather information from the stakeholders. Ask open-ended questions that allow stakeholders to provide detailed and meaningful responses. Avoid leading or biased questions that may influence the stakeholders' answers.
+
+
+Listen actively: Listen actively to the stakeholders' responses, and avoid interrupting or jumping to conclusions. Pay attention to not only what is said, but also to what is not said. Take notes during the interview to capture key points and ensure accurate documentation.
+
+
+Clarify and probe: Clarify any ambiguous or unclear statements made by the stakeholders, and probe further to gain a deeper understanding of their requirements. Ask follow-up questions to elicit more information or examples that can help you validate and refine the requirements.
+
+
+Be respectful and professional: Be respectful and professional in your interactions with the stakeholders, even if there are differing opinions or conflicting requirements. Maintain a neutral and non-judgmental attitude, and avoid making assumptions or expressing personal opinions during the interview session.
+
+
+After the Interview Session:
+
+
+Review and analyze the data: Review and analyze the data collected during the interview session. Organize and categorize the information obtained from stakeholders, and identify common themes, patterns, and trends in the requirements.
+
+
+Validate and prioritize requirements: Validate the requirements gathered from the interview session against other sources of requirements, such as documentation, existing system functionalities, and domain knowledge. Prioritize the requirements based on their relevance, feasibility, and importance to the project.
+
+
+Document the requirements: Document the requirements gathered from the interview session in a clear and concise manner. Use a standardized format, such as a requirements document or a requirements management tool, to ensure consistency and traceability.
+
+
+Communicate findings: Communicate the findings and results of the interview session to the stakeholders and other relevant parties, such as the project team, management, and other stakeholders. Seek feedback and clarification to ensure that the requirements are accurately captured and understood.
+
+
+Follow-up as needed: Follow up with stakeholders as needed to clarify requirements, resolve ambiguities, or gather additional information. Keep stakeholders informed of the progress and any updates related to the requirements gathering process.
+
+
+Incorporate requirements into the project: Incorporate the requirements gathered from the interview session into the overall project documentation, such as the Software Requirements Document (SRD) or the project backlog. Ensure that the requirements are clear, complete, and aligned with the overall project objectives.
+
+
+Review with stakeholders: Review the documented requirements with the stakeholders to ensure that their expectations are accurately reflected. Seek feedback and clarification to ensure that the requirements are understood and aligned with the stakeholders' needs.
+
+
+Seek consensus: In case of conflicting requirements or differing opinions among stakeholders, work towards seeking consensus and resolving any discrepancies through further discussions or negotiations. Document any changes or resolutions made based on stakeholder feedback.
+
+
+Validate with stakeholders: Validate the documented requirements with stakeholders to ensure that they accurately reflect their needs and expectations. Seek their approval and sign-off on the requirements before proceeding with further development or implementation activities.
+
+
+Maintain requirements traceability: Maintain traceability of the requirements gathered from the interview session throughout the project lifecycle. Ensure that the requirements are linked to their sources, such as the stakeholders, interview session, or other relevant documents, to ensure transparency and traceability.
+
+
+Continuously communicate: Continuously communicate with stakeholders throughout the project to keep them informed of the progress and any changes or updates related to the requirements. Seek their feedback and address any concerns or questions they may have.

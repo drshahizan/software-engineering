@@ -163,6 +163,31 @@ The system should allow users to cancel their room reservations and receive a re
 These are just some examples of functional requirements that may be included in a college room rental system. It is important to gather and document all functional requirements in detail to ensure that the system is developed to meet the needs of its users.
 
 
+## Interview
+
+### Before the interview session for a college web room rental system:
+1.	Determine the goals and objectives of the interview session, and develop a list of questions that will help you gather the information you need.
+2.	Identify the stakeholders who will be participating in the interview session, including users, system administrators, and other key personnel.
+3.	Schedule the interview session and ensure that all stakeholders are available at the designated time.
+4.	Prepare any necessary materials for the interview session, such as presentation slides, handouts, or demo versions of the system.
+
+
+### During the interview session:
+1.	Introduce yourself and the purpose of the interview session.
+2.	Explain the structure of the interview, including the questions you will be asking and the time allotted for each section.
+3.	Encourage the participants to provide detailed and specific answers, and ask follow-up questions to clarify any ambiguous responses.
+4.	Take detailed notes of the responses and observations, and record any feedback or suggestions that are provided.
+5.	Provide participants with the opportunity to ask questions or provide additional feedback at the end of the session.
+
+### After the interview session:
+1.	Compile and review the notes and feedback collected during the interview session.
+2.	Analyze the responses and observations to identify common themes, issues, and opportunities for improvement.
+3.	Use the information gathered during the interview session to refine the requirements and design of the college web room rental system.
+4.	Follow up with the participants to thank them for their time and provide any additional information or clarification as needed.
+5.	Continue to communicate with the stakeholders throughout the development process to ensure that the system meets their needs and expectations.
+
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 

@@ -165,7 +165,149 @@ a. The system should integrate with other academic systems, such as course manag
 Meeting these functional requirements is essential for the successful implementation and use of an academic grading system, as it ensures that the system performs the necessary tasks and functions required by its users.
 
 
+## Non- Functional Requirement:
 
+Non-functional requirements in an academic grading system refer to the characteristics or qualities that the system must have or comply with, but that are not related to its specific features or functions. These requirements describe how the system should perform, rather than what it should do.
+
+The non-functional requirements for an academic grading system may include:
+
+### 1. Usability:
+a.The system should be user-friendly and easy to use for all stakeholders.
+b.The system should provide clear instructions and feedback to users
+
+### 2.Performance:
+a.The system should be responsive and perform efficiently, even with a large volume of users and data.
+b.The system should have acceptable response times for data entry and retrieval.
+
+### 3. Availability:
+a.The system should be available to users at all times, with minimal downtime or interruptions.
+b.The system should have backup and recovery mechanisms in case of system failures or disasters.
+
+### 4.Security:
+a.The system should be secure and protect against unauthorized access, data breaches, and cyber-attacks.
+b.The system should comply with industry standards and regulations for data security and privacy.
+
+### 5. Compatibility:
+a. The system should be compatible with various operating systems and web browsers.
+b. The system should support mobile devices to accommodate users who need to access the system remotely.
+
+Meeting these non-functional requirements is critical for the successful implementation and adoption of an academic grading system, as they ensure that the system performs effectively, efficiently, and safely for all its users.
+
+## Interview
+
+## Before Conducting Interview:
+Before conducting an interview session with your stakeholders for your academic grading system project, there are several steps you should take:
+
+### 1. Identify the stakeholders: 
+Make a list of all the stakeholders who will be involved in the academic grading system project. This could include students, faculty members, administrators, parents, and employers.
+Determine the interview objectives: Define the goals and objectives of the interview session. What do you hope to learn from your stakeholders? What specific questions do you want to ask?
+
+### 2. Prepare interview questions: 
+Develop a list of open-ended questions that will elicit detailed and informative responses from your stakeholders. The questions should be relevant to the objectives of the interview session and should cover topics such as user requirements, system functionality, and non-functional requirements.
+
+### 3. Schedule the interviews: 
+Contact the stakeholders and schedule the interview sessions. Provide them with the details of the interview, such as the date, time, and location.
+
+### 4. Prepare for the interviews: 
+Review the interview questions and familiarize yourself with the stakeholders' backgrounds and roles. Prepare any necessary materials, such as notepads, recording devices, or consent forms.
+
+### 5. Conduct the interviews: 
+Conduct the interview sessions according to the prepared questions and objectives. Listen actively to your stakeholders' responses and ask follow-up questions as necessary.
+
+### 6. Analyze the interview data: 
+After the interviews, analyze the data collected and look for common themes or patterns in the responses. Use the insights gained from the interviews to inform the development of your academic grading system.
+
+By taking these steps, you can conduct an effective and informative interview session with your stakeholders for your academic grading system project.
+
+## During Conducting Interview:
+
+During an interview session with your stakeholders for your academic grading system project, you should do the following:
+
+### 1. Establish rapport: 
+Begin by introducing yourself and building rapport with the stakeholders. Make them feel comfortable and at ease.
+
+### 2. Explain the purpose: 
+Explain the purpose of the interview session and the goals of your academic grading system project.
+
+### 3. Ask open-ended questions: 
+Ask open-ended questions that encourage stakeholders to provide detailed and informative responses. Listen actively and ask follow-up questions as needed.
+
+### 4. Take notes: 
+Take detailed notes during the interview session. This will help you remember important details and insights later.
+
+### 5. Clarify responses: 
+If a stakeholder's response is unclear or ambiguous, ask for clarification to ensure that you understand their perspective correctly.
+
+### 6. Avoid leading questions: 
+Avoid asking leading questions that may bias or influence the stakeholder's response.
+
+### 7. Respect stakeholders' time: 
+Be mindful of the stakeholders' time and keep the interview session within the scheduled time frame.
+
+### 8. Thank stakeholders: 
+Thank the stakeholders for their time and contributions to the project.
+
+By following these guidelines, you can conduct an effective and productive interview session with your stakeholders for your academic grading system project. This will help you gain valuable insights and information to inform the development of your system.
+
+## After Conducting Interview:
+
+After conducting an interview session with your stakeholders for your academic grading system project, you should do the following:
+
+### 1.Review your notes: 
+Review the notes you took during the interview session to ensure that you have captured all the important details and insights.
+
+### 2.Summarize the findings: 
+Summarize the key findings from the interview session. This will help you identify common themes and issues that need to be addressed in your academic grading system.
+
+### 3.Analyze the data: 
+Analyze the data you have collected to identify patterns, trends, and insights. Look for areas of agreement and disagreement among stakeholders.
+
+### 4. Validate the findings: 
+Validate the findings with stakeholders to ensure that you have correctly interpreted their perspectives and needs.
+
+### 5. Prioritize the requirements: 
+Prioritize the user and system requirements based on the feedback and insights gathered from the stakeholders. This will help you determine which requirements are most critical to the success of your academic grading system project.
+
+### 6. Update the project plan: 
+Update the project plan based on the findings from the interview session. This will help ensure that the project is aligned with the needs and expectations of the stakeholders.
+
+### 7. Communicate the findings: 
+Communicate the findings from the interview session to the project team, stakeholders, and other relevant parties. This will help ensure that everyone is on the same page and working towards a common goal.
+
+By following these steps, you can effectively utilize the insights and feedback gathered from the interview session with your stakeholders to inform the development of your academic grading system.
+
+## Use Cases
+
+Use cases are a common technique used in software development to describe how users interact with a system to achieve specific goals. Here are some examples of use cases for an academic grading system:
+
+### 1. Viewing grades: 
+A student can view their grades for a particular course or semester.
+
+### 2. Entering grades: 
+An instructor can enter grades for assignments, exams, and other assessments.
+
+### 3. Updating grades: 
+An instructor can update grades if there was an error or if a student submitted a late assignment.
+
+### 4. Calculating grades: 
+The academic grading system can automatically calculate the final grade for a course based on the weightings of different assessments.
+
+### 5. Assigning grades: 
+The academic grading system can automatically assign a letter grade or a grade point average (GPA) based on the final grade.
+
+### 6. Monitoring progress: 
+An advisor or academic dean can monitor a student's progress and identify potential issues, such as low grades or incomplete assignments.
+
+### 7. Notifying students: 
+The academic grading system can automatically notify students of their grades via email or other channels.
+
+### 8. Generating reports: 
+The academic grading system can generate reports for instructors, advisors, and academic administrators, such as grade reports or progress reports.
+
+### 9. Handling grade disputes: 
+The academic grading system can provide a mechanism for handling grade disputes, such as allowing students to contest a grade or allowing instructors to explain their grading decisions.
+
+By identifying and describing these use cases, you can ensure that the academic grading system meets the needs and expectations of its users, and that it is designed to support their goals and workflows.
 
 
 

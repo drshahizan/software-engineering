@@ -157,6 +157,63 @@ System Requirements:
 - The system should be able to generate reports and analytics on event metrics such as attendance rates and registration numbers.
 - The system should be able to provide data visualization tools to help users understand event data and trends.
 - The system should be able to integrate with other university systems to provide a comprehensive view of university events and activities.
+
+## Interview with stalkholder
+Before going for an interview with your stakeholders for developing an event management system, here are some steps you may want to take:
+
+- Gather information about the stakeholders: Learn as much as you can about the stakeholders and their needs. This will help you prepare for the interview and tailor your responses to their specific requirements.
+
+- Research the university's event management processes: Familiarize yourself with the university's current event management processes and systems. This will help you understand the stakeholders' needs and how you can contribute to the development of the system.
+
+- Prepare a list of questions: Prepare a list of questions to ask the stakeholders during the interview. This will help you gather information and ensure that you fully understand their requirements.
+
+- Review your qualifications: Review your qualifications and experience, and think about how they relate to the requirements of the position. Be prepared to discuss your relevant skills and experience during the interview.
+
+- Prepare a portfolio or samples of your work: If you have previous experience developing event management systems, prepare a portfolio or samples of your work to demonstrate your skills and experience.
+
+- Prepare a presentation: Consider preparing a presentation to demonstrate your understanding of the stakeholders' needs and how you propose to address them. This will help you showcase your skills and expertise, and provide a visual representation of your proposed system.
+
+- Practice your communication skills: Communication is an important skill for any developer, so practice presenting your ideas clearly and concisely. Be prepared to explain complex technical concepts in a way that non-technical stakeholders can understand.
+
+Here are some questions you can ask your stakeholders for developing an event management system for the university:
+
+- What are the current challenges you face in managing events at the university?
+
+- What features and functionalities do you need in the event management system to make your work easier?
+
+- What is the expected number of users who will use the system, and what roles will they have?
+
+- How do you currently track attendance and manage registration for events, and what improvements do you want to see in the new system?
+
+- What types of events do you currently manage, and what new types of events do you want the system to support?
+
+- How do you currently market and promote events, and what features do you need in the new system to improve your marketing efforts?
+
+- What is the budget for the event management system, and what are the cost-saving measures that can be implemented?
+
+- What is the timeline for the development and deployment of the event management system, and what are the critical milestones?
+
+- What data do you need to collect and analyze for reporting purposes, and what reports and analytics do you want to see in the system?
+
+- What are your security requirements, and what measures do you want to implement to ensure data privacy and protection?
+
+During the interview with your stakeholders for developing an event management system, here are some things you can do:
+
+- Listen carefully: Listen carefully to the stakeholders' requirements, concerns, and suggestions. Make sure you understand their needs before proposing solutions.
+
+- Ask questions: Ask questions to clarify requirements, identify potential issues, and gather more information. This will help you design a system that meets the stakeholders' needs.
+
+- Explain your approach: Explain your approach to developing the event management system, including how you plan to gather requirements, design the system, test it, and deploy it.
+
+- Demonstrate your knowledge: Demonstrate your knowledge of event management systems and your technical expertise. Explain how your experience and skills can benefit the stakeholders.
+
+- Be flexible: Be open to suggestions and feedback from the stakeholders. Adjust your approach and proposals based on their input.
+
+- Provide examples: Provide examples of your previous work and experience that are relevant to the development of the event management system.
+
+- Address concerns: Address any concerns or questions the stakeholders may have. Explain how you plan to address any issues that may arise during the development process.
+
+- Follow up: Follow up with the stakeholders after the interview to provide additional information or answer any questions they may have.
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
