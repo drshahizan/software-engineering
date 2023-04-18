@@ -78,6 +78,75 @@ Maintain the requirements throughout the life cycle of the student feedback syst
 
 <p>By following these steps, you can ensure that the student feedback system meets the needs and expectations of all stakeholders at University Technology Malaysia. A thorough requirements engineering process will help you identify and prioritize the functional and non-functional requirements of the system, leading to a successful development process and a useful final product.</p>
 
+<hr>
+
+## User Requirement
+
+Developing a student feedback system at University Technology Malaysia (UTM) requires a thorough understanding of user and system requirements. Here are some detailed requirements for the system:
+
+User Requirements:
+a. Ease of Use: The student feedback system should be easy to use, navigate, and access for all users, including students, faculty, and administrative staff. The system should have an intuitive user interface with clear instructions, labels, and guidelines. The system should also provide a user-friendly dashboard that shows the status of feedback submission and response.
+
+b. Accessibility: The system should be accessible to all users, including those with disabilities. It should comply with accessibility standards and regulations, such as Web Content Accessibility Guidelines (WCAG) 2.1. The system should support alternative formats, such as screen readers and keyboard-only navigation.
+
+c. Customization: The system should allow users to customize their feedback form based on their specific needs and preferences. Users should be able to select the courses, lecturers, and topics they want to provide feedback on. The system should also provide the option to upload files and multimedia content to support feedback.
+
+d. Communication: The system should enable effective communication between students, faculty, and administrative staff. It should allow users to send messages, notifications, and alerts related to feedback submission and response. The system should also provide a feedback response mechanism to notify students of any action taken on their feedback.
+
+e. Security: The system should ensure the security and confidentiality of feedback data. It should provide user authentication and authorization mechanisms to control access to feedback data. The system should also employ encryption to secure data transmission over the internet.
+
+Student Requirements:
+a. Anonymity: Students should be able to provide feedback anonymously without fear of reprisal or discrimination. The system should ensure that the identity of the students is kept confidential. The system should also provide an option for students to identify themselves if they choose to do so.
+
+b. Relevance: Students should be able to provide feedback that is relevant and meaningful to their learning experience. The feedback form should include questions that address the quality of teaching, course materials, and assessments. The system should also allow for open-ended comments to provide qualitative feedback.
+
+c. Flexibility: Students should be able to provide feedback at their convenience, without any restrictions on time or location. The system should allow for feedback submission from any device with an internet connection. The system should also provide reminders for students who have not submitted feedback.
+
+d. Follow-up: Students should receive follow-up communication from the faculty or administration regarding their feedback. The system should allow for timely responses to student feedback and provide students with information on how their feedback has been addressed. The system should also allow students to track the status of their feedback and view any responses or actions taken.
+
+Faculty Requirements:
+a. Actionability: Faculty should be able to take action on the feedback received from students to improve their teaching methods, course content, and assessment techniques. The system should provide faculty with actionable insights and reports. The system should also allow faculty to set action plans and track progress towards improving their courses.
+
+b. Analysis: Faculty should be able to analyze feedback data over time to identify trends and patterns in student feedback. The system should allow for data visualization and statistical analysis. The system should also provide reports that summarize feedback data across different courses and lecturers.
+
+c. Privacy: Faculty should only have access to feedback that pertains to their courses or teaching methods. The system should ensure the privacy and security of feedback data. The system should also provide mechanisms for faculty to request clarification or additional feedback from students.
+
+d. Integration: The system should integrate with other university systems and platforms, such as learning management systems (LMS), to streamline feedback collection and analysis. The system should also allow for the integration
+
+## System Requirement
+
+1. Scalability: The system should be designed to handle a large volume of feedback data from multiple courses and students. The system should have the ability to scale up or down based on the current demand. The system should also be able to accommodate future growth and changes in user requirements.
+
+2. Reliability: The system should be highly reliable and available to users at all times. The system should be designed with fault-tolerant mechanisms that can handle system failures or errors without affecting user experience. The system should also have a backup and recovery mechanism to ensure data integrity and availability.
+
+3. Performance: The system should provide high-performance feedback collection and analysis. The system should be able to handle multiple concurrent users and respond to user requests quickly. The system should also be able to process feedback data efficiently and provide real-time analytics and reports.
+
+4. Data Management: The system should provide effective data management and storage mechanisms for feedback data. The system should be able to store feedback data securely and efficiently. The system should also be able to handle different data formats and types, such as multimedia content, and ensure data integrity and confidentiality.
+
+5. Integration: The system should be able to integrate with other university systems and platforms, such as learning management systems (LMS) and student information systems (SIS). The system should allow for the automatic synchronization of course and student data to streamline feedback collection and analysis.
+
+6. Analytics: The system should provide advanced analytics and reporting capabilities for feedback data. The system should be able to analyze feedback data using various statistical and machine learning techniques. The system should also provide visualizations and reports that can help users identify trends and patterns in feedback data.
+
+7. Personalization: The system should provide personalized feedback collection and analysis based on user preferences and needs. The system should allow users to customize their feedback form and receive personalized reports and recommendations based on their feedback data.
+
+8. Security: The system should ensure the security and confidentiality of feedback data. The system should provide user authentication and authorization mechanisms to control access to feedback data. The system should also employ encryption to secure data transmission over the internet.
+
+9. Compliance: The system should comply with relevant laws and regulations, such as data protection and privacy laws. The system should also comply with university policies and guidelines for feedback collection and analysis.
+
+10. Usability: The system should be easy to use and navigate for all users, including students, faculty, and administrative staff. The system should have an intuitive user interface with clear instructions, labels, and guidelines. The system should also provide a user-friendly dashboard that shows the status of feedback submission and response.
+
+11. Accessibility: The system should be accessible to all users, including those with disabilities. It should comply with accessibility standards and regulations, such as Web Content Accessibility Guidelines (WCAG) 2.1. The system should support alternative formats, such as screen readers and keyboard-only navigation.
+
+12. Customization: The system should allow users to customize their feedback form based on their specific needs and preferences. Users should be able to select the courses, lecturers, and topics they want to provide feedback on. The system should also provide the option to upload files and multimedia content to support feedback.
+
+13. Communication: The system should enable effective communication between students, faculty, and administrative staff. It should allow users to send messages, notifications, and alerts related to feedback submission and response. The system should also provide a feedback response mechanism to notify students of any action taken on their feedback.
+
+14. Maintenance: The system should be designed for easy maintenance and updates. The system should have a modular architecture that allows for easy integration and maintenance of new features and functionalities. The system should also have a mechanism for bug fixing
+
+
+
+
+
 
 
 

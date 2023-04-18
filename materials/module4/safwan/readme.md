@@ -59,3 +59,28 @@ Requirement Documentation: Finally, the requirements need to be documented in a 
 
 
 Requirement Review and Approval: Once the requirements are documented, reviewed, and validated, they need to be approved by relevant stakeholders, such as university administrators, faculty, and staff. This step involves obtaining formal sign-off or approval on the requirements, indicating that they are accurate, complete, and acceptable to all stakeholders, and can serve as the basis for the development and implementation of the University Management System.
+
+## Stakeholders
+
+University Administrators: They are responsible for overseeing the overall operations of the university, including the management of administrative processes and systems. They may have requirements related to efficient management of university resources, reporting and analytics, financial management, and overall system performance.
+
+
+Faculty and Staff: They are responsible for various academic and administrative processes within the university, such as student enrollment, course management, grading, and scheduling. They may have requirements related to ease of use, efficiency, and accuracy of these processes to support their daily activities.
+
+
+Students: They are the end-users of the UMS and may have requirements related to online registration, course enrollment, access to grades and transcripts, communication with faculty and staff, and other academic activities. They may also have expectations related to user-friendly interfaces, accessibility, and ease of use.
+
+
+IT Department: They are responsible for managing the IT infrastructure, networks, and systems within the university. They may have requirements related to system integration, security, scalability, and performance of the UMS to ensure its smooth operation within the existing IT environment.
+
+
+Financial Department: They are responsible for managing the financial aspects of the university, such as budgeting, financial reporting, and billing. They may have requirements related to financial management, reporting, and integration with financial systems for accurate financial tracking and reporting.
+
+
+External Stakeholders: There may be external stakeholders, such as regulatory bodies, accreditation agencies, vendors, and other partners, who have requirements related to compliance, data privacy, and integration with their systems.
+
+
+Alumni and Donors: They may have requirements related to alumni engagement, fundraising, and donation management within the UMS.
+
+
+Government and Regulatory Bodies: They may have requirements related to compliance with laws, regulations, and policies related to education, data privacy, and financial management.

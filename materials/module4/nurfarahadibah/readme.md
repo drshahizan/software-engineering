@@ -23,3 +23,24 @@ Deploy the system to a production environment and configure it for scalability, 
 #### Maintain the system: 
 Continuously monitor the system and resolve any issues that arise. Provide support to users and make improvements and enhancements to the system as needed.
 
+## Requirement engineering
+Requirement engineering is an important phase in the development of any software system, including a college web room rental system. Here are some key steps you can take to get started:
+
+#### 1.	Identify the stakeholders:
+Determine who the key stakeholders are for the college web room rental system. This might include students, faculty, staff, and administrators.
+####  2.	Gather requirements: 
+Collect and document the requirements for the system. This can be done through interviews, surveys, focus groups, and other techniques. Make sure to consider the needs of all stakeholders and prioritize requirements based on their importance.
+####  3.	Define system scope:
+Define the scope of the system and its boundaries. Identify the key functions and features of the system and the user groups that will use it.
+####  4.	Create use cases: 
+Develop use cases that describe the interactions between users and the system. Use cases should include the steps users take to accomplish specific tasks within the system.
+####  5.	Specify functional and non-functional requirements: 
+Specify the functional requirements that the system must meet, such as the ability to search for available rooms and make reservations. Also, specify non-functional requirements, such as performance, security, and usability.
+#### 6.	Validate requirements: 
+Validate the requirements with stakeholders to ensure that they accurately reflect their needs and expectations.
+#### 7.	Document requirements: 
+Document the requirements in a clear and concise way, using a format that can be easily understood by all stakeholders. Make sure to keep the requirements up-to-date as the project progresses.
+
+By following these steps, you can create a solid foundation for the development of a college web room rental system that meets the needs of its users.
+
+

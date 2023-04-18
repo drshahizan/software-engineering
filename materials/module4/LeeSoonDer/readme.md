@@ -20,9 +20,9 @@ Administrators: They are responsible for implementing the feedback system and en
 Support staff: They may be responsible for collecting and analyzing feedback data, or providing technical support for the feedback system.
 
 Parents: In some cases, parents may also be stakeholders, particularly if the feedback system includes questions about their involvement in their child's education.
-<ul>
-<h2>Developing a student feedback system for a university requires careful planning and execution. Here are some steps to develop a student feedback system for a university:</h2>
 
+<h2>Developing a student feedback system for a university requires careful planning and execution. Here are some steps to develop a student feedback system for a university:</h2>
+<ul>
 <li>Define the <b>objectives and goals</b> of the feedback system: Before creating a student feedback system, it is important to identify what the feedback will be used for, what specific goals the system will serve, and what type of data will be collected.</li>
 
 <li>Determine the <strong>scope</strong> of the feedback system: This includes identifying which groups of students will be surveyed, how often the feedback will be collected, and what topics the feedback will cover.</li>
@@ -44,7 +44,7 @@ Parents: In some cases, parents may also be stakeholders, particularly if the fe
 <li>Evaluate and <strong>update the feedback system</strong>: Periodically evaluate the effectiveness and efficiency of the feedback system to ensure that it continues to serve the objectives and goals of the university. Update the system as necessary to reflect changing needs and requirements.</li>
 
 </ul>
-<h1>Requirements Engineering Process for a Student Feedback System</h1>
+<h2>Requirements Engineering Process for a Student Feedback System</h2>
 <b>Elicitation:</b>
 Identify key stakeholders and their roles and responsibilities.
 Develop a list of questions to ask stakeholders to elicit requirements.

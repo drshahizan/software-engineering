@@ -32,20 +32,9 @@ After the system is deployed, the system maintenance phase begins. The system is
 
   A university event management system is a software application designed to streamline and automate the process of planning and executing events within a university or college environment. This system can be used to manage a wide range of events, including academic conferences, sporting events, cultural events, and student organization events. It can be a powerful tool for managing events in a university or college environment. By automating and streamlining the event planning process, this system can save time and resources while improving the overall quality of events.
 
-## Stalkholders
-- Event organizers: These stakeholders are responsible for planning and organizing events on campus. They will use the event management system to create event schedules, manage event registration, and track event attendance. They may also use the system to manage event budgets, request event space and resources, and communicate with event attendees.
-
-- Students: Students are a crucial stakeholder for an event management system as they are the primary audience for campus events. They will use the system to view event schedules, register for events, and receive event reminders and updates. Students may also use the system to provide feedback on events and suggest new event ideas.
-
-- Administrative staff: Administrative staff, such as event coordinators or university officials, are responsible for overseeing and managing events on campus. They will use the event management system to track event attendance, manage event budgets, and ensure that events comply with university policies and regulations. Administrative staff may also use the system to analyze event data and metrics to improve future events.
-
-- Faculty members: Faculty members may be involved in organizing academic events, such as conferences or guest lectures, and may use the event management system to manage event logistics and communicate with event attendees.
-
-- Facilities management: Facilities management staff are responsible for managing and maintaining the physical facilities on campus. They may use the event management system to ensure that event spaces are available and properly equipped, and to coordinate with event organizers on any needed setup or cleanup.
 ## Requirements Engineering
 Requirements engineering is the process of eliciting, analyzing, specifying, validating, and managing the requirements for a software system. In the context of an university event management system, the requirements engineering process is crucial for ensuring that the system meets the needs of its stakeholders, including students, faculty members, and university administrators.
 
--IT staff: IT staff are responsible for managing the technical infrastructure of the event management system, such as servers, databases, and network security. They may also provide technical support to users of the system and ensure that the system is compatible with other university systems and tools.
 The requirements engineering process for an university event management system typically involves the following steps:
 
 ### 1. Requirements Elicitation:
@@ -66,31 +55,50 @@ The requirements management phase involves managing the requirements throughout 
   Requirements engineering is a critical process in developing a university event management system. Proper requirements elicitation, analysis, specification, validation, and management are essential to ensure that the system meets the needs of the stakeholders and performs as intended. Effective communication and collaboration between stakeholders, developers, and testers are critical to ensure that the requirements are met and that the system is developed and delivered on time and within budget.
 
 ## Stakeholders
-Stakeholders in an academic course registration system can be broadly categorized into three groups:
+Stakeholders in an university event management system can be broadly categorized into five groups:
 
-### 1. Students
-Students are the primary users of the course registration system. They need to be able to search for courses, register for classes, drop or swap classes, and view their schedules. They also need to be able to view their grades and academic records.
+### 1. Students:
+Students are a key stakeholder group for the university event management system. They may use the system to register for events, purchase tickets, and view event details. They may also provide feedback on the events they attend through the system.
 
-### 2. Faculty Members
-Faculty members are responsible for managing their courses and grading students. They need to be able to view their course rosters, submit grades, and communicate with students. They may also need to view student records to identify any academic issues.
+### 2. Faculty Members:
+Faculty members may use the university event management system to schedule and organize academic events, such as conferences, seminars, and workshops. They may also use the system to register attendees, manage event logistics, and track attendance.
 
-### 3. University Administrators
-University administrators are responsible for managing the overall academic operations of the university. They need to be able to monitor course availability, manage course scheduling and capacity, and view student enrollment data. They may also need to view student records for reporting and compliance purposes.
+### 3. University Administrators:
+University administrators are another key stakeholder group for the event management system. They may use the system to monitor and manage events across the university, ensure compliance with university policies and regulations, and allocate resources for events.
 
-Other stakeholders may include academic advisors, department chairs, and IT staff who are responsible for maintaining and updating the course registration system.
+### 4. Event Organizers:
+Event organizers are responsible for creating and managing events, and they may use the system to create event listings, manage registration, and collect payments. They may also use the system to communicate with attendees and track attendance.
 
-Understanding the needs and requirements of these stakeholders is crucial for designing a course registration system that is user-friendly, efficient, and meets the academic needs of the university. It is important to involve stakeholders in the requirements gathering and validation process to ensure that the system meets their expectations and addresses their pain points.
+### 5. Event Attendees:
+Event attendees are another stakeholder group for the university event management system. They may use the system to browse and register for events, purchase tickets, and view event details. They may also provide feedback on the events they attend through the system.
+
+The university event management system has several stakeholders, including students, faculty members, university administrators, event organizers, and attendees. Understanding the needs and requirements of these stakeholders is critical to developing a system that meets their needs and performs as intended. Effective communication and collaboration between stakeholders, developers, and testers are essential to ensure that the system is developed and delivered on time and within budget.
 
 ## Users and system requirements
-Users and system requirements are two different aspects of an academic course registration system, and it is important to understand the differences between them.
+Users and system requirements are two different aspects of an university event management system, and it is important to understand the differences between them.
 
-### User requirements
-Users refer to the people who will be using the system, including students, faculty members, and university administrators. They have specific needs, preferences, and expectations from the system, and their requirements are often expressed in terms of user stories, scenarios, or use cases. For example, a student may require the ability to search for courses by department, instructor, or time of day, while a faculty member may require the ability to view student transcripts or communicate with their class via email.
+### User Requirements:
+- The user requirements for the university event management system include:
+- User-friendly interface for easy navigation and use
+- Ability to browse and search for events by category, date, and location
+- Registration and ticket purchase functionality for events
+- Personalized user profiles with event history, preferences, and feedback
+- Integration with social media platforms for sharing events and gathering feedback
+- Communication functionality for event organizers to communicate with attendees and vice versa
+- Secure payment processing and data privacy measures to protect user information
 
-### System requirements
-System requirements, on the other hand, refer to the technical and functional specifications of the system. They describe what the system must do, and are often expressed in terms of features, capabilities, and constraints. For example, the system may need to be able to handle a certain number of concurrent users, have robust authentication and authorization mechanisms, and integrate with other university systems such as the student information system or the learning management system.
+### System Requirements:
+- The system requirements for the university event management system include:
+- Scalability to handle a large volume of events, attendees, and data
+- Robust security measures to prevent unauthorized access and protect user data
+- High availability and reliability to ensure that the system is available 24/7 and performs as intended
+- Integration with external systems, such as payment gateways, social media platforms, and email services
+- Customizable event creation and management functionality for event organizers
+- Real-time reporting and analytics to track event attendance, feedback, and performance
+- Accessibility features to ensure that the system is accessible to users with disabilities.
 
-While user requirements and system requirements are distinct, they are closely related, and it is important to ensure that they are aligned. The system requirements should be designed to meet the needs and expectations of the system's users, and the user requirements should be prioritized and translated into specific system requirements. By understanding both users and system requirements, designers and developers can create a course registration system that meets the needs of its stakeholders while being technically sound and reliable.
+Conclusion:
+The university event management system has specific user and system requirements that must be met to ensure that the system is usable, efficient, and effective. The user requirements focus on the needs and expectations of the system's users, while the system requirements focus on the technical aspects of the system, such as scalability, security, and integration. By meeting these requirements, the university event management system can be developed to meet the needs of its stakeholders and deliver a positive user experience.
 
 ## User requirements in academic course registration system
 

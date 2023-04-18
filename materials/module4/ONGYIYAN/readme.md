@@ -36,13 +36,43 @@ Don't forget to hit the :star: if you like this repo.
 
 9. **Management:** Finally, the requirements need to be managed throughout the development process to ensure that they are properly tracked, traced, and prioritized. This involves creating a requirements traceability matrix, which links the requirements to the design, implementation, and testing of the system.
 
-##Stakeholders
+## Stakeholders
 
 1. **University Staff:** This includes administrators, professors, and support staff who are responsible for managing and supporting the system. They have a stake in the system's success because it affects their work and the overall functioning of the university.
 
 2. **Health and Wellness Professionals:** This includes physicians, nurses, counselors, and other professionals who work in the health and wellness department of the university. They have a stake in the system's success because it affects their ability to provide quality care and support to the students.
 
 3. **Students:** Students are the primary users of the system, and they have a stake in its success because it affects their health and well-being. They need a system that is easy to use, provides them with accurate and timely information, and enables them to access the services and support they need.
+
+## User Requirements
+1. **User Interface:** The system should have an easy-to-use interface that is intuitive and user-friendly. The interface should be visually appealing and accessible to all users, including those with disabilities.
+
+3. **Student Information:** The system should allow students to enter and maintain their personal information, including demographic information, medical history, and insurance information.
+
+5. **Appointment Scheduling:** The system should allow students to schedule appointments with health and wellness professionals, including physicians, nurses, and counselors.
+
+7. **Health Records:** The system should allow health and wellness professionals to enter and maintain student health records, including medical history, test results, and treatment plans.
+
+9. **Communication:** The system should allow for secure communication between students and health and wellness professionals, including email and messaging.
+
+11. **Tracking and Monitoring:** The system should allow for tracking and monitoring of student health and wellness status, including vaccinations, illness outbreaks, and mental health concerns.
+
+12. **Reporting:** The system should allow for reporting on student health and wellness data, including demographic information, health records, and appointment scheduling.
+
+## System Requirements
+1. **Performance:** The system must be able to handle a large number of users and data transactions without significant slowdowns or delays. The response time should be quick, and the system should be able to handle peak usage periods without crashing or becoming unresponsive.
+
+3. **Security:** The system must be secure to protect sensitive student health information and ensure compliance with relevant privacy regulations. This includes secure login, data encryption, and access controls.
+
+5. **Scalability:** The system should be scalable to accommodate growth and expansion. It should be able to handle an increasing number of users, data, and functionality without significant reconfiguration or upgrades.
+
+7. **Reliability:** The system must be reliable and robust, with minimal downtime or errors. It should be able to recover quickly from any failures or disruptions, and provide appropriate alerts or notifications to users.
+
+9. **Integration:** The system should be able to integrate with other systems and applications, such as electronic health records, student information systems, and appointment scheduling software. This will help to streamline processes and ensure data consistency across systems.
+
+11. **Accessibility:** The system should be accessible to users with disabilities, such as visual impairments or mobility limitations. This includes support for assistive technologies, such as screen readers and keyboard shortcuts.
+
+13. **Compatibility:** The system should be compatible with a range of hardware and software platforms, including desktop and mobile devices, and multiple web browsers. This will ensure that users can access the system from a variety of devices and locations.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

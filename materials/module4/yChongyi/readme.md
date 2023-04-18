@@ -87,7 +87,27 @@ Requirements management involves tracking and controlling changes to the require
 - Developing a change control process to manage changes to the requirements and ensure that they are properly documented and validated
 - Conducting regular reviews of the requirements document to ensure that it remains accurate, complete, and up-to-date
 
-Overall, the requirements engineering process is critical to the success of any software development project, including a student engagement system. By following these steps, you can ensure that the system meets the needs of stakeholders and is a valuable asset to the university.
+Overall, the requirements engineering process is critical to the success of any software development project, including a student engagement system. By following these steps, you can ensure that the system meets the needs of stakeholders and is a valuable asset to the university.  
+
+# Stakeholders  
+
+The stakeholder groups for a student engagement system can include:
+
+## 1. Students:
+Students are the primary users of the student engagement system. They need to be able to easily access information about their classes, assignments, grades, and extracurricular activities. They may also want to connect with other students, join clubs and organizations, and participate in events and activities.
+
+## 2. Faculty:
+Faculty members are responsible for teaching and assessing student performance. They need to be able to use the student engagement system to manage course content, assign and grade assignments, communicate with students, and track student progress.
+
+## 3. Staff:
+Administrative staff members are responsible for managing the university's operations and resources. They need to be able to use the student engagement system to manage student data, maintain academic records, and support student services such as financial aid, counseling, and career services.
+
+## 4. IT Department:
+The IT department is responsible for developing, maintaining, and supporting the technology infrastructure that supports the student engagement system. They need to ensure that the system is reliable, secure, and scalable to meet the needs of the university community.
+
+## 5. University Leadership:
+University leadership, such as the president, provost, and deans, are responsible for setting the strategic direction of the university. They need to ensure that the student engagement system aligns with the university's mission, goals, and values, and that it supports the university's overall strategy for student success.
+
 
 
 ## Contribution 🛠️
