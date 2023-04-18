@@ -35,6 +35,33 @@ Developing a student feedback system for a university involves designing and imp
 <br>
 Developing a student feedback system for a university requires careful planning, design, and implementation to ensure that it effectively collects feedback, generates meaningful insights, and drives improvements in the educational experience for students. Collaboration with relevant stakeholders, such as faculty, administrators, and students, is crucial to ensure that the system meets their needs and expectations.
 
+<h2>Requirement Engineering Process</h2>
+The requirement engineering process for developing a student feedback system for a university typically involves the following steps:
+<br>
+<ul>
+<li>Elicitation: Gather requirements from relevant stakeholders, such as students, faculty, administrators, and other users of the feedback system. This can be done through interviews, surveys, focus groups, or other techniques. Identify the specific information and features that stakeholders want to collect and analyze through the feedback system.</li>
+<br>
+<li>Analysis: Analyze the requirements collected during the elicitation process to identify common themes, patterns, and priorities. Clarify any ambiguous or conflicting requirements and ensure that they are complete, clear, and feasible. Consider factors such as the scope of the feedback system, the types of data to be collected, the user interface, and any technical constraints.</li>
+<br>
+<li>Specification: Document the requirements in a clear and comprehensive manner. Use techniques such as use cases, user stories, or requirement documents to capture the requirements in a format that can be easily understood by stakeholders and used as a reference during system development.</li>
+<br>
+<li>Validation: Review and validate the documented requirements with relevant stakeholders to ensure that they accurately capture their needs and expectations. Verify that the requirements are consistent, complete, and feasible. Address any feedback or concerns raised by stakeholders and update the requirements documentation accordingly.</li>
+<br>
+<li>Verification: Verify that the documented requirements align with the overall goals and objectives of the student feedback system, as well as any applicable laws, regulations, or university policies. Check for any potential conflicts or inconsistencies with other systems or processes in the university.</li>
+<br>
+<li>Management: Establish a process for managing requirements throughout the development lifecycle. This may involve setting up a system for version control, maintaining traceability between requirements and system components, and managing changes or updates to requirements as the system evolves.</li>
+<br>
+<li>Communication: Ensure effective communication and collaboration among stakeholders throughout the requirement engineering process. Keep stakeholders informed of the progress, changes, and updates related to the requirements. Foster open communication channels to encourage feedback and input from stakeholders, and address any issues or concerns in a timely manner.</li>
+<br>
+<li>Prioritization: Prioritize the requirements based on their importance, urgency, and feasibility. Consider the resources available for system development and prioritize the requirements accordingly. This may involve collaborating with stakeholders to determine the relative importance of different requirements and making informed decisions based on available resources and constraints.</li>
+<br>
+<li>Traceability: Establish traceability between requirements and other system artifacts, such as design documents, test cases, and system components. This allows for effective tracking and management of requirements throughout the development process and facilitates verification and validation activities.</li>
+<br>
+<li>Documentation: Maintain comprehensive documentation of the requirements, including updates, changes, and rationale behind decisions made during the requirement engineering process. This documentation serves as a reference for stakeholders and can be useful for future maintenance or enhancement of the student feedback system.</li>
+<br>
+</ul>
+The requirement engineering process is crucial for developing a student feedback system that meets the needs and expectations of stakeholders and ensures a successful implementation. Regular review and validation of requirements throughout the development lifecycle, effective communication with stakeholders, and documentation of requirements are key factors for success.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 

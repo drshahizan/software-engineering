@@ -35,7 +35,31 @@ Launch your food ordering system once it has been thoroughly tested and is ready
 
 ### 8.Provide ongoing maintenance and support: 
 Provide ongoing maintenance and support for your food ordering system to ensure that it continues to meet the needs of your customers and your business.
+## Requirement Engineering
 
+### 1. User registration and profile management: 
+The system should allow users to register and create a profile. This will enable them to save their preferences, view their order history, and receive personalized offers and promotions.
+
+### 2. Menu management: 
+The system should provide an easy-to-use interface for restaurant owners to manage their menus. They should be able to add, edit, and delete menu items, and update prices and descriptions.
+
+### 3. Order management: 
+The system should enable customers to place orders easily and track their status in real-time. Restaurant owners should be able to view and manage orders, update delivery times, and communicate with customers if necessary.
+
+### 4. Payment processing: 
+The system should be able to process payments securely and efficiently. It should support multiple payment methods, such as credit cards, debit cards, and digital wallets.
+
+### 5. Delivery management: 
+The system should allow customers to choose between pickup and delivery options. It should also provide an interface for restaurant owners to manage deliveries, assign drivers, and track the status of deliveries.
+
+### 6. Search and filter: 
+The system should provide a powerful search and filter functionality that enables customers to find the restaurants, menus, and dishes they are interested in quickly and easily.
+
+### 7. Rating and review: 
+The system should allow customers to rate and review restaurants and dishes. This will help other customers make informed decisions and provide valuable feedback to restaurant owners.
+
+### 8. Reporting and analytics: 
+The system should provide detailed reporting and analytics features that enable restaurant owners to track sales, monitor customer behavior, and identify trends.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

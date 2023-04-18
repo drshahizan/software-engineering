@@ -43,7 +43,27 @@ Parents: In some cases, parents may also be stakeholders, particularly if the fe
 
 <li>Evaluate and <strong>update the feedback system</strong>: Periodically evaluate the effectiveness and efficiency of the feedback system to ensure that it continues to serve the objectives and goals of the university. Update the system as necessary to reflect changing needs and requirements.</li>
 
-</ul》
+</ul>
+<h1>Requirements Engineering Process for a Student Feedback System</h1>
+The system should be accessible to all students, including those with disabilities or limited access to technology.
+
+The system should be user-friendly and easy to navigate, with clear instructions and guidance for completing feedback surveys.
+
+The feedback surveys should be designed to gather relevant and meaningful information about the teaching and learning experience.
+
+The system should allow for different types of feedback methods, such as online surveys, paper-based surveys, or focus groups.
+
+The system should be secure and protect the privacy of students, faculty, and staff.
+
+The feedback data should be stored securely and be accessible only to authorized personnel.
+
+The system should be scalable and able to handle large volumes of data, as well as be flexible enough to accommodate future changes and updates.
+
+The system should provide real-time data analysis and reporting, with visualizations and dashboards that allow stakeholders to easily interpret the feedback data.
+
+The system should allow for customizable reports and recommendations based on the specific needs of different departments or programs.
+
+The system should allow for feedback on a variety of topics, including course content, teaching methods, assessment, and student support services.
 
 
 ## Contribution 🛠️

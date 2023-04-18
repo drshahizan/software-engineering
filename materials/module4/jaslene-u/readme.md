@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): Student Attendance System
 
-## Key steps in creating an Academic Course Registration System
+## Key steps in creating a Student Attendancen System
 Developing an academic course registration system for a university involves several key steps:
 
 ### 1. Determine the system requirements:
@@ -42,24 +42,48 @@ Monitor the system for issues and update it as needed to ensure it remains up-to
 ## Requirements Engineering
 Requirements engineering is the process of eliciting, analyzing, specifying, validating, and managing the requirements for a software system. In the context of an academic course registration system, the requirements engineering process is crucial for ensuring that the system meets the needs of its stakeholders, including students, faculty members, and university administrators.
 
-The requirements engineering process for an academic course registration system typically involves the following steps:
+The requirements engineering process for an student attendance system typically involves the following steps:
 
-### 1. Requirements elicitation
-This involves gathering information about the needs and expectations of the system's stakeholders. For an academic course registration system, this may involve conducting interviews and surveys with students, faculty members, and administrators to understand their requirements for the system.
+### 1.Functional Requirements:
+<ul>
+ <li>The system should allow teachers to mark attendance for students.</li>
+ <li>The system should be able to generate reports of attendance for individual students or for the entire 
+ class.</li>
+ <li>The system should be able to generate alerts for absenteeism or late arrivals.</li>
+ </ul>
 
-### 2. Requirements analysis
-Once the requirements are elicited, they need to be analyzed to determine their feasibility, relevance, and completeness. This may involve prioritizing the requirements based on their importance and identifying any conflicting or ambiguous requirements.
+### 2.Non-Functional Requirements:
+<ul>
+ <li>The system should be user-friendly and easy to navigate for teachers and administrators.</li>
+ <li>The system should be secure and maintain the privacy of student data.</li>
+ <li>The system should have a high level of availability and reliability.</li>
+ </ul>
 
-### 3. Requirements specification
-After the requirements are analyzed, they need to be documented in a clear and concise manner. This may involve creating use cases, user stories, or formal requirement documents that describe the system's functionality and constraints.
+### 3.System Integration Requirements:
+<ul>
+ <li>The system should integrate with the school's student information system (SIS).</li>
+ <li>The system should be able to import and export data from other systems.</li>
+ </ul>
 
-### 4. Requirements validation
-Once the requirements are specified, they need to be validated to ensure that they are accurate and complete. This may involve reviewing the requirements with stakeholders and conducting user acceptance testing to verify that the system meets their needs.
+### 4.Performance Requirements:
+<ul>
+ <li>The system should be able to handle a large volume of data and users.</li>
+ <li>The system should be able to process attendance data in real-time.</li>
+ </ul>
 
-### 5. Requirements management
-Finally, the requirements need to be managed throughout the development lifecycle to ensure that they remain relevant and up-to-date. This may involve tracking changes to the requirements and ensuring that they are properly implemented in the system.
+### 5.Usability Requirements:
+<ul>
+ <li>The system should be intuitive and easy to use.</li>
+ <li>The system should have a consistent user interface across all devices.</li>
+ </ul>
 
-In the context of an academic course registration system, the requirements engineering process should focus on ensuring that the system provides an intuitive and efficient user interface for students and faculty members to browse and register for courses, as well as for administrators to manage course scheduling and student records. The system should also be designed to handle large volumes of data and be scalable to accommodate future growth in the university's student population.
+### 6.Accessibility Requirements:
+<ul>
+ <li>The system should be accessible to all users, including those with disabilities.</li>
+ <li>The system should be available in multiple languages.</li>
+ </ul>
+
+In the context of a student attendance system, the requirements engineering process should focus on ensuring that the system provides an intuitive and efficient user interface for students and faculty members to register their attendance, as well as for administrators to manage and record students' attendance.The system should also be designed to handle large volumes of data and be scalable to accommodate future growth in the university's student population.
 
 ## Stakeholders
 Stakeholders in an academic course registration system can be broadly categorized into three groups:

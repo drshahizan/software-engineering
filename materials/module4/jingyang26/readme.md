@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Software Requirements Document (SRD): Your topic
+# Software Requirements Document (SRD): PSZ library management system
 
 The Software Requirements Document (SRD) is an essential document that outlines the functional and non-functional requirements of a software project. In the case of a library management system, the SRD should define the key features and functionalities that the system should have, as well as any constraints or limitations that may impact the system's design and implementation. The following are some key steps in creating an SRD for a library management system:
 
@@ -28,6 +28,22 @@ The Software Requirements Document (SRD) is an essential document that outlines 
 8.Define the deployment requirements: Define the deployment requirements, including any installation, configuration, and training requirements. This could include specifying the deployment environment, installation procedures, and training materials.
 
 By following these key steps, you can create a comprehensive SRD that outlines the requirements of your library management system, and serves as a basis for the system design and implementation.
+
+<h1> Requirements Engineering </h1>
+
+Requirements Engineering is a systematic approach used to elicit, analyze, specify, validate, and manage the requirements of a software system. The goal of requirements engineering is to ensure that the final software product meets the needs and expectations of its stakeholders, including customers, users, and developers.The process of requirements engineering involves a range of activities, including:
+
+1.Elicitation: Gathering information about the system requirements from stakeholders through interviews, surveys, workshops, and other techniques.
+
+2.Analysis: Examining the collected requirements to identify inconsistencies, ambiguities, and conflicts. This step involves modeling the system and its requirements using diagrams, such as use case diagrams and entity-relationship diagrams.
+
+3.Specification: Documenting the system requirements in a clear and unambiguous way, typically using a Requirements Specification document.
+
+4.Validation: Checking that the requirements accurately capture the stakeholders' needs and that they can be implemented within the available resources.
+
+5.Management: Tracking changes to the requirements, assessing their impact, and ensuring that they are incorporated into the final product.
+
+Effective requirements engineering is critical to the success of a software project. Poorly defined or incomplete requirements can lead to cost overruns, missed deadlines, and dissatisfied customers. By contrast, a well-executed requirements engineering process can improve communication among stakeholders, reduce development time, and increase the likelihood of delivering a system that meets the stakeholders' needs.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

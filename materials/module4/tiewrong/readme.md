@@ -1,24 +1,16 @@
-# Software Requirements Document (SRD): Academic Course Registration System For University
-User Authentication: The system should have a secure login process to authenticate users, including students, faculty, and administrators, with appropriate roles and permissions.
+# Software Requirements Document (SRD): Student Financial problem System For University
+Features of the student financial problem system may include:
 
-Course Catalog: The system should provide a comprehensive course catalog that includes detailed information about each course, such as course title, description, prerequisites, credit hours, and instructor information.
+1.Expense tracking: The system allows students to input and track their expenses, such as tuition fees, housing costs, textbooks, and other educational expenses. Students can categorize their expenses and set budget limits to manage their spending.
 
-Course Search and Selection: Students should be able to search for courses based on various criteria such as course code, course title, department, instructor, and schedule. They should be able to view course details and select courses they want to register for.
+2.Financial aid management: The system provides information and tools related to financial aid, including scholarships, grants, and student loans. It helps students understand their financial aid options, calculate their eligibility, and track the status of their financial aid applications.
 
-Registration and Enrollment: Once students have selected their desired courses, they should be able to register for those courses through the system. The system should enforce prerequisites, maximum enrollment limits, and time conflicts. Students should also be able to add, drop, or swap courses during the registration period.
+3.Budgeting and financial planning: The system offers budgeting tools that help students create and manage budgets based on their income, expenses, and financial goals. It may also provide financial planning resources, such as tips for saving money, investing, and managing debt.
 
-Waitlist Management: If a course is full, the system should allow students to join a waitlist. As seats become available due to drops or swaps, the system should automatically enroll students from the waitlist based on priority or other criteria.
+4.Financial literacy resources: The system includes educational resources to improve students' financial literacy, such as articles, videos, and tutorials on topics like budgeting, credit management, and student loan repayment. It may also offer financial workshops or seminars to educate students on financial management strategies.
 
-Course Management: Faculty and administrators should be able to manage course offerings, including creating, modifying, or canceling courses, setting enrollment limits, and assigning instructors.
+5.Financial counseling and support: The system may offer virtual financial counseling services provided by financial experts who can provide one-on-one guidance to students facing financial challenges. These counselors can assist students in creating financial plans, resolving financial issues, and developing strategies to overcome financial problems.
 
-Schedule Generation: The system should generate class schedules based on course offerings, instructors' availability, and room availability. Students and faculty should be able to view their class schedules through the system.
+6.Notifications and alerts: The system can send notifications and alerts to students to remind them of important financial deadlines, such as tuition due dates, financial aid application deadlines, and other financial responsibilities.
 
-Notifications and Alerts: The system should send notifications and alerts to students, faculty, and administrators about important dates, deadlines, course changes, and other relevant information.
-
-Reporting and Analytics: The system should provide reports and analytics on course enrollment, student progress, and other relevant data to assist administrators in making informed decisions.
-
-Integration with Other Systems: The system should be able to integrate with other university systems, such as the student information system, financial system, and learning management system, to exchange data and streamline processes.
-
-Security and Privacy: The system should have robust security measures in place to protect student data, including authentication, encryption, and access controls, to ensure privacy and comply with data protection regulations.
-
-User-friendly Interface: The system should have an intuitive and user-friendly interface that is easy to navigate and use by students, faculty, and administrators, with clear instructions and prompts.
+7.Confidentiality and security: The system ensures the confidentiality and security of students' financial information by implementing strict data privacy measures and adhering to relevant regulations, such as the Family Educational Rights and Privacy Act (FERPA) and the General Data Protection Regulation (GDPR).
