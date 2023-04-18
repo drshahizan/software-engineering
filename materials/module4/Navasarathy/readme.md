@@ -193,6 +193,91 @@ b. The system should support mobile devices to accommodate users who need to acc
 
 Meeting these non-functional requirements is critical for the successful implementation and adoption of an academic grading system, as they ensure that the system performs effectively, efficiently, and safely for all its users.
 
+## Interview
+
+## Before Conducting Interview:
+Before conducting an interview session with your stakeholders for your academic grading system project, there are several steps you should take:
+
+### 1. Identify the stakeholders: 
+Make a list of all the stakeholders who will be involved in the academic grading system project. This could include students, faculty members, administrators, parents, and employers.
+Determine the interview objectives: Define the goals and objectives of the interview session. What do you hope to learn from your stakeholders? What specific questions do you want to ask?
+
+### 2. Prepare interview questions: 
+Develop a list of open-ended questions that will elicit detailed and informative responses from your stakeholders. The questions should be relevant to the objectives of the interview session and should cover topics such as user requirements, system functionality, and non-functional requirements.
+
+### 3. Schedule the interviews: 
+Contact the stakeholders and schedule the interview sessions. Provide them with the details of the interview, such as the date, time, and location.
+
+### 4. Prepare for the interviews: 
+Review the interview questions and familiarize yourself with the stakeholders' backgrounds and roles. Prepare any necessary materials, such as notepads, recording devices, or consent forms.
+
+### 5. Conduct the interviews: 
+Conduct the interview sessions according to the prepared questions and objectives. Listen actively to your stakeholders' responses and ask follow-up questions as necessary.
+
+### 6. Analyze the interview data: 
+After the interviews, analyze the data collected and look for common themes or patterns in the responses. Use the insights gained from the interviews to inform the development of your academic grading system.
+
+By taking these steps, you can conduct an effective and informative interview session with your stakeholders for your academic grading system project.
+
+## During Conducting Interview:
+
+During an interview session with your stakeholders for your academic grading system project, you should do the following:
+
+### 1. Establish rapport: 
+Begin by introducing yourself and building rapport with the stakeholders. Make them feel comfortable and at ease.
+
+### 2. Explain the purpose: 
+Explain the purpose of the interview session and the goals of your academic grading system project.
+
+### 3. Ask open-ended questions: 
+Ask open-ended questions that encourage stakeholders to provide detailed and informative responses. Listen actively and ask follow-up questions as needed.
+
+### 4. Take notes: 
+Take detailed notes during the interview session. This will help you remember important details and insights later.
+
+### 5. Clarify responses: 
+If a stakeholder's response is unclear or ambiguous, ask for clarification to ensure that you understand their perspective correctly.
+
+### 6. Avoid leading questions: 
+Avoid asking leading questions that may bias or influence the stakeholder's response.
+
+### 7. Respect stakeholders' time: 
+Be mindful of the stakeholders' time and keep the interview session within the scheduled time frame.
+
+### 8. Thank stakeholders: 
+Thank the stakeholders for their time and contributions to the project.
+
+By following these guidelines, you can conduct an effective and productive interview session with your stakeholders for your academic grading system project. This will help you gain valuable insights and information to inform the development of your system.
+
+## After Conducting Interview:
+
+After conducting an interview session with your stakeholders for your academic grading system project, you should do the following:
+
+### 1.Review your notes: 
+Review the notes you took during the interview session to ensure that you have captured all the important details and insights.
+
+### 2.Summarize the findings: 
+Summarize the key findings from the interview session. This will help you identify common themes and issues that need to be addressed in your academic grading system.
+
+### 3.Analyze the data: 
+Analyze the data you have collected to identify patterns, trends, and insights. Look for areas of agreement and disagreement among stakeholders.
+
+### 4. Validate the findings: 
+Validate the findings with stakeholders to ensure that you have correctly interpreted their perspectives and needs.
+
+### 5. Prioritize the requirements: 
+Prioritize the user and system requirements based on the feedback and insights gathered from the stakeholders. This will help you determine which requirements are most critical to the success of your academic grading system project.
+
+### 6. Update the project plan: 
+Update the project plan based on the findings from the interview session. This will help ensure that the project is aligned with the needs and expectations of the stakeholders.
+
+### 7. Communicate the findings: 
+Communicate the findings from the interview session to the project team, stakeholders, and other relevant parties. This will help ensure that everyone is on the same page and working towards a common goal.
+
+By following these steps, you can effectively utilize the insights and feedback gathered from the interview session with your stakeholders to inform the development of your academic grading system.
+
+
+
 
 
 
