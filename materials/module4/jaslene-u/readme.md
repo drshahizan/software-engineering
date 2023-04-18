@@ -52,29 +52,36 @@ The requirements engineering process for an student attendance system typically 
  <li>The system should be able to generate alerts for absenteeism or late arrivals.</li>
  </ul>
 
-
-
-
 ### 2.Non-Functional Requirements:
--The system should be user-friendly and easy to navigate for teachers and administrators.
--The system should be secure and maintain the privacy of student data.
--The system should have a high level of availability and reliability.
+<ul>
+ <li>The system should be user-friendly and easy to navigate for teachers and administrators.</li>
+ <li>The system should be secure and maintain the privacy of student data.</li>
+ <li>The system should have a high level of availability and reliability.</li>
+ </ul>
 
 ### 3.System Integration Requirements:
--The system should integrate with the school's student information system (SIS).
--The system should be able to import and export data from other systems.
+<ul>
+ <li>The system should integrate with the school's student information system (SIS).</li>
+ <li>The system should be able to import and export data from other systems.</li>
+ </ul>
 
 ### 4.Performance Requirements:
--The system should be able to handle a large volume of data and users.
--The system should be able to process attendance data in real-time.
+<ul>
+ <li>The system should be able to handle a large volume of data and users.</li>
+ <li>The system should be able to process attendance data in real-time.</li>
+ </ul>
 
 ### 5.Usability Requirements:
--The system should be intuitive and easy to use.
--The system should have a consistent user interface across all devices.
+<ul>
+ <li>The system should be intuitive and easy to use.</li>
+ <li>The system should have a consistent user interface across all devices.</li>
+ </ul>
 
 ### 6.Accessibility Requirements:
--The system should be accessible to all users, including those with disabilities.
--The system should be available in multiple languages.
+<ul>
+ <li>The system should be accessible to all users, including those with disabilities.</li>
+ <li>The system should be available in multiple languages.</li>
+ </ul>
 
 In the context of a student attendance system, the requirements engineering process should focus on ensuring that the system provides an intuitive and efficient user interface for students and faculty members to register their attendance, as well as for administrators to manage and record students' attendance.The system should also be designed to handle large volumes of data and be scalable to accommodate future growth in the university's student population.
 
