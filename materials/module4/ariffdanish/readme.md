@@ -70,7 +70,7 @@ Users and system requirements are two different aspects of an food ordering syst
 - What data storage and backup options are required?
 
 
-## User requirements in academic course registration system
+## User requirements in food ordering system
 
 User requirements in a food ordering system refer to the specific needs and expectations of the system's users, which include students, university staff, and cafeteria staff. User requirements are typically expressed in terms of user stories, scenarios, or use cases, and they are focused on the functionality and usability of the system.
 
