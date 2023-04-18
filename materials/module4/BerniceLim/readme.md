@@ -75,7 +75,8 @@ In summary, requirement engineering is a critical process for developing a stude
   <li><b>DevOps engineers</b>: Responsible for ensuring the system's reliability, scalability, and security, as well as automating the deployment and testing processes.</li>
     <li><b>Data engineers</b>: Responsible for designing and implementing the system's data architecture, including data storage, processing, and analysis.</li>
     </ul>
- ## User Requirements for a Student Engagement System
+    
+## User Requirements for a Student Engagement System
    <ol type="1">
      <li><b>Students:</b><br>
        <ul type="bullet">
@@ -87,7 +88,7 @@ In summary, requirement engineering is a critical process for developing a stude
          <li>Gamification elements to keep students motivated and engaged</li>
          <li>Tools for communication with teachers and classmates</li>
          <li>Access to resources such as learning materials, academic support services, and extracurricular activities/li>
-       </ul>
+       </ol>
     <li><b>Teachers:</b><br>
        <ul type="bullet">
          <li>User-friendly interface for creating and managing courses and learning materials</li>
@@ -100,14 +101,18 @@ In summary, requirement engineering is a critical process for developing a stude
          <li>Integration with other educational systems and tools for seamless workflows</li>
        </ul>
       
- ## User Requirements for a Student Engagement System
-      <b>Scalability</b>: The system should be able to scale to accommodate a large number of users, including students, teachers, parents, and administrators.
+## User Requirements for a Student Engagement System
+      <b>Scalability</b><br>
+      The system should be able to scale to accommodate a large number of users, including students, teachers, parents, and administrators.
 
-      <b>Security</b>: The system should have robust security features, including encryption, user authentication, and access controls, to protect sensitive student and institutional data.
+      <b>Security</b><br>
+      The system should have robust security features, including encryption, user authentication, and access controls, to protect sensitive student and institutional data.
 
-      <b>Accessibility</b>: The system should be accessible to all users, including those with disabilities, and should comply with accessibility standards.
+      <b>Accessibility</b><br>
+      The system should be accessible to all users, including those with disabilities, and should comply with accessibility standards.
 
-      <b>Performance</b>: The system should be fast and responsive, with minimal latency, to provide an optimal user experience.
+      <b>Performance</b><br>
+      The system should be fast and responsive, with minimal latency, to provide an optimal user experience.
       
     
 
