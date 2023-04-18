@@ -1,0 +1,196 @@
+    <!--
+     Name: Nicole Lim Tze Yee
+     Matric No: A22EC0123
+     Lab 10
+    -->
+
+    <html>
+        <head>
+            <title>Application Form</title>
+        </head>
+
+        <body>
+            <h2 style="text-align: center;">Web Programming: Application Form</h2>
+            <form>
+                <fieldset>
+                    <legend>Personal Details</legend>
+                    <table>
+                        <tr>
+                            <td style="width:100px">Name</td>
+                            <td style="width:300px">
+                                <select name="Race" id="idk">
+                                    <option value="sel" name="sel">--Select--</option>
+                                    <!--
+                                        <option value="Chinese">Chinese</option>
+                                        <option value="Indian">Indian</option>
+                                        <option value="Malay">Malay</option>
+                                        <option value="Others">Others</option>
+                                    -->
+                                </select>
+                                <input type="text" id="name" name="name">
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>Gender</td>
+                            <td>
+                                <input type="radio" name="m" id="m" value="male">
+                                <label for="male">Male</label>
+                                <input type="radio" name="f" id="f" value="female">
+                                <label for="female">Female</label>
+                            </td>
+                            <td>Date of Birth</td>
+                            <td>
+                                <input type="date" id="dob" name="dob">
+                            </td>
+                        </tr>
+                        
+                        <tr>
+                            <td>Marital Status</td>
+                            <td>
+                                <select name="Status" id="status">
+                                    <option value="sta" name="sta">--Select--</option>
+                                    <!--
+                                        <option value="Single">Single</option>
+                                        <option value="Married">Married</option>
+                                        <option value="Others">Others</option>
+                                    -->
+                                </select>
+                            </td>
+                            <td>Religion</td>
+                            <td>
+                                <select name="Religion" id="Religion">
+                                    <option value="Religion" name="Religion">--Select--</option>
+                                </select>
+                            </td>
+
+                        </tr>
+
+                    </table>
+                </fieldset>
+
+
+                <fieldset>
+                    <legend>Contact Details</legend>
+                    <table>
+                        <tr>
+                            <td width="200px">Phone</td>
+                            <td width="300px"><input type="text" id="phone" name="phone"></td>
+                            <td width="300px" >Email</td>
+                            <td width="300px"><input type="text" id="email" name="email"></td>
+                        </tr>
+    
+                        <tr>
+                            <td width="400px">Address Line 1</td>
+                            <td><input type="text" id="address1" name="address1"></td>
+                            <td width="400px">Address Line 2</td>
+                            <td><input type="text" id="address2" name="address2"></td>
+                        </tr>
+
+                        <tr>
+                            <td>City</td>
+                            <td><input type="text" id="city" name="city"></td>
+                            <td width="300px" >State</td>   
+                            <td>
+                                <select name="state" id="state">
+                                <option value="state" name="state">--Select--</option>
+                                </select>
+                            </td>             
+                        </tr>
+                    </table>
+                </fieldset>
+
+                <fieldset>
+                    <legend>Qualification Details</legend>
+                    <table>
+                        <tr>
+                            <th style="padding-right: 10px;">No.</th>
+                            <th style="padding-right: 30px;">Qualification</th>
+                            <th style="padding-right: 120px;">University</th>
+                            <th style="padding-right: 30px;">Passing Year</th>
+                            <th style="padding-right: 10px;">CGPA</th>
+                        </tr>
+                        <tr>
+                            <td>1.</td>
+                            <td>
+                                <select name="Q1" id="Q1">
+                                    <option value="Q1" name="Q1">--Select--</option>
+                                    </select>
+                            </td>
+                            <td><input type="text" id="uni1" name="uni1"></td>
+                            <td><input type="text" id="year1" name="year1" style="width:50px"></td>
+                            <td><input type="text" id="cgpa1" name="cgpa1" style="width:50px"></td>
+                        </tr>
+                        <tr>
+                            <td>2.</td>
+                            <td>
+                                <select name="Q2" id="Q2">
+                                    <option value="Q2" name="Q2">--Select--</option>
+                                    </select>
+                            </td>
+                            <td><input type="text" id="uni2" name="uni2"></td>
+                            <td><input type="text" id="year2" name="year2" style="width:50px"></td>
+                            <td><input type="text" id="cgpa2" name="cgpa2" style="width:50px"></td>
+                        </tr>
+                    </table>
+                </fieldset>
+
+                <fieldset>
+                    <legend>Language Knowledge</legend>
+                    <table>
+                        <tr>
+                            <th width="150px" style="text-align: left;">Language</th>
+                            <td width="150px" style="text-align: left;"><i>Reading</i></td>
+                            <td width="150px" style="text-align: left;"><i>Writing</i></td>
+                            <td width="150px" style="text-align: left;"><i>Speaking</i></td>
+                        </tr>
+                        <tr>
+                            <td>B.Melayu</td>
+                            <td><input type="checkbox" id="bm" name="bmread" value="bmread"></td>
+                            <td><input type="checkbox" id="bm" name="bmwrite" value="bmwrite"></td>
+                            <td><input type="checkbox" id="bm" name="bmspeak" value="bmspeak"></td>
+                        </tr>
+                        <tr>
+                            <td>English</td>
+                            <td><input type="checkbox" id="bi" name="biread" value="biread"></td>
+                            <td><input type="checkbox" id="bi" name="biwrite" value="biwrite"></td>
+                            <td><input type="checkbox" id="bi" name="bispeak" value="bispeak"></td>
+                        </tr>
+                    </table>
+                </fieldset>
+
+                <fieldset>
+                    <legend>Identification Details</legend>
+                    <table>
+                        <tr>
+                            <td>Identity Card Number</td>
+                            <td width="200px">
+                                <input type="text" id="icno" name="icno">
+                            </td>
+                            <td>Passport Number</td>
+                            <td width="200px">
+                                <input type="text" id="ppno" name="ppno">
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>Upload Photo</td>
+                            <td>
+                                <input type="file" id="photo-upload" name="photo-upload">
+                            </td>
+                            <td>Upload Signature</td>
+                            <td>
+                                <input type="file" id="sign-upload" name="sign-upload">
+                            </td>
+                        </tr>
+                    </table>
+                </fieldset>
+
+                    <div style="text-align: center;">
+                        <button type="submit">Submit</button>
+                        <button onclick="goBack()">Back</button>
+                    </div>
+
+            </form>
+        </body>
+    </html>

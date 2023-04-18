@@ -9,5 +9,7 @@ body {
 #para1{
   font-size: 50px;
   text-align: center;
+  color: purple;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   
 }

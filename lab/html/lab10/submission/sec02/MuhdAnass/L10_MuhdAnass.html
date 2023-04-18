@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>HTML Forms</title>
+        <!--
+            Name : Muhammad Anas Bin Mohd Pikri
+            Matric No : A21SC0464
+            Github ID: MuhdAnass
+        -->
+
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE-Edge">
+         
+    </head>
+    
+    <body>
+        <h1 style="text-align: center"><b>Web Programming; Application Form</b></h1>
+        <form action="/action_page.php">
+            <fieldset style="width: 1200px">
+                <legend>Personal Details</legend>
+                    <table style="height :100px;">
+                        <tr>
+                            <td style="width;20%">Name</td>
+                            <td><select name="state" id="state">
+                                     <option value="select">--Select--</option>
+                                </select>
+                            </td>
+                            <td><input type="text" id="select" name="select"></td>
+                            <td>
+
+                            </td>
+                            <td style="width: 10px"></td>
+                        </tr>
+                        <tr>
+                            <td>Gender</td>
+                            <td colspan="3">
+                                <input type="radio" id="male" name="gender" value="male">
+                                <label for="male">Male</label>
+                                <input type="radio" id="female" name="gender" value="female">
+                                <label for="female">Female</label>
+                            </td>
+                            <td style="width: 40px"></td>
+                            <td style="width :10px">Date of Birth</td>
+                            <td>
+                                <input type="date" name="" id="">
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>Marital status</td>
+                            <td colspan="3">
+                                <select name="status" id="status">
+                                  <option value="select">--Single--</option>
+                                  <option value="single">Single</option>
+                                  <option value="married">Married</option>    
+                                </select>
+                            </td>
+
+                            <td>
+
+                            </td>
+                            <td> Religion</td>
+                            <td>
+                                <select name="religion" id="religion">
+                                    <option value="select">--Select--</option>
+                                    <option value="islam">Islam</option>
+                                    <option value="buddha">Buddha</option>
+                                    <option value="christian">Christian</option>
+                                    <option value="other">Others</option>
+                                </select>
+                            </td>
+                        </tr>
+
+                    </table>
+            </fieldset>
+
+            <fieldset style="width:1200px">
+                <legend>Contact Details</legend>
+                <table style="height:100px;">
+                    <td style="width =20%">Phone</td>
+                </table>
+            </fieldset>
+        </form>
+    </body>

@@ -13,7 +13,7 @@ Module 3: Agile Software Development
 Group: Curiosity
 1. Camily Tang Jia Lei, A22EC0039
 2. Low Ying xi, A22EC0187
-3. Ng Shu Yu, A22EC
+3. Ng Shu Yu, A22EC0228
 
 -->
 
@@ -52,7 +52,6 @@ Group: Curiosity
 - [The Scrum Process](#The-Scrum-Process)
 - [Task Board](#Task-Board)
 - [The Scrum Sprint Cycle](#The-Scrum-Sprint-Cycle)
-- [The Spring Cycle](#The-Sprint-Cycle)
 - [Teamwork in Scrum](#Teamwork-In-Scrum)
 - [Scrum Benefits](#Scrum-Benefits)
 - [Example of Agile Project Management: JIRA Software](#Example-of-Agile-Project-management-JIRA-Software)
@@ -177,7 +176,7 @@ The XP methodology places a strong emphasis on teamwork, communication, and feed
 <br><img src=https://i.imgur.com/mUZHPws.png width="600px"></br>
 ## The Extreme Programming Release Cycle
 
-#### <b>Step 1 User Story Selection<b>
+#### <b>Step 1 User Story Selection</b>
 1. Identify the Stakeholders
 The first step in choosing user stories is to identify the stakeholders who will be impacted by the software. Stakeholders can include end-users, customers, managers, and other stakeholders who have an interest in the software.
 
@@ -322,29 +321,83 @@ Pair programming has become a popular practice in software development due to it
 
 # AGILE PROJECT MANAGEMENT
 ## Agile Project Management
+Agile project management is an iterative and flexible approach to managing software development projects. It emphasizes collaboration, adaptability, and customer satisfaction. In contrast to traditional plan-driven project management methods, agile project management focuses on delivering working software in incremental iterations.
+
+**Key points** to keep in mind about agile project management:
+
+- Agile project management is designed to be **responsive to changing customer needs and priorities**. This is in contrast to plan-driven project management, which is based on a detailed plan that is created at the start of the project and followed throughout.
+
+- Agile project management emphasizes **collaboration** between developers, project managers, and customers. This helps ensure that everyone is on the **same page** and working towards the **same goals**.
+
+- Agile project management typically involves working in **short iterations or sprints**. Each sprint focuses on delivering a specific set of features or functionality.
+
+- Agile project management **prioritizes working software** over comprehensive documentation. This means that developers focus on creating code that works and is tested, rather than spending time on extensive documentation.
+
+- Agile project management encourages **continuous improvement and learning**. This means that project teams should regularly reflect on their processes and look for ways to improve.
+
+Overall, agile project management is a flexible and adaptable approach to software development that can help software project managers deliver high-quality software in a timely and efficient manner.
 
 ## Scrum
+Scrum is a popular framework for managing iterative development in agile software development. It is a lightweight process that helps teams deliver high-quality software in a flexible and adaptive way. Scrum is based on a series of sprint cycles that allow teams to focus on delivering small, incremental improvements to the product.
+
+**Key points** to keep in mind about agile project management:
+
+- Scrum is based on a **series of sprint cycles**. Each sprint typically lasts two to four weeks and focuses on delivering a small set of features or functionality.
+
+- Scrum teams are **self-organizing** and **cross-functional**. This means that they are responsible for managing their own work and have all the skills necessary to deliver a working product.
+
+- The Scrum framework includes several roles, including the product owner, the Scrum master, and the development team. Each role has specific responsibilities and works together to deliver the product.
+
+- Scrum emphasizes frequent **communication** and **collaboration** between team members. This helps ensure that everyone is working towards the same goals and that any issues are addressed quickly.
+
+- At the end of each sprint, the team holds a **sprint review meeting** to demonstrate the work they have completed and gather feedback from stakeholders.
+
+- The final sprint in a Scrum project is the sprint where the product is completed and released. This sprint is known as the "sprint 0" or the "release sprint".
+
+Overall, Scrum is a flexible and adaptable framework that can help teams manage iterative development in a way that is efficient and effective. By focusing on delivering small, incremental improvements to the product, Scrum helps teams stay focused and on track, ultimately leading to a successful product that wraps up the project.
 
 ## The Scrum Process
+Scrum is a popular agile framework for managing complex projects. It emphasizes transparency, inspection, and adaptation to deliver high-quality software in an iterative and incremental manner. The Scrum process consists of roles, events, artifacts, and rules that work together to facilitate efficient project management and continuous improvement.
+<br><img src="https://www.ntaskmanager.com/wp-content/uploads/2019/08/What-is-a-standard-scrum-process.jpg" width="600px"><br>
 
 ## Task Board
+A task board is a visual tool used in agile project management to track the progress of work and improve team communication. It is a physical or digital board that displays the status of tasks in various stages of completion, allowing team members to quickly see what needs to be done and who is responsible for it. The task board is a key component of agile project management and can help teams stay organized and focused on delivering high-quality software in an efficient and effective manner.
+<br><img src="https://i2.wp.com/manifesto.co.uk/wp-content/uploads/2014/10/scrum-task-board.png" width="600px"><br>
 
 ## The Scrum Sprint Cycle
-
-## The Spring Cycle
+The sprint cycle is a time-boxed iteration in which the team works to deliver a potentially releasable increment of the product.
+1. The sprint cycle begins with a selection phase in which the team chooses items from the product backlog to work on during the sprint.
+2. During the sprint cycle, the team is isolated from the customer and the organization, allowing them to focus on completing the work.
+3. The Scrum Master is responsible for facilitating the sprint cycle and ensuring that the team stays on track and overcomes any obstacles.
+4. At the end of the sprint cycle, the work is reviewed and presented to stakeholders, providing a clear view of the team's progress and - accomplishments.
 
 ## Teamwork in Scrum
+In Scrum, a popular Agile framework, teamwork plays a critical role in project success. The team works together to complete tasks and deliver high-quality software in an iterative and incremental manner. The Scrum Master facilitates the team's collaboration by ensuring that everyone is aligned with the project goals and objectives. Additionally, the whole team attends short daily meetings called stand-ups or daily scrums, which provide an opportunity for team members to synchronize their work and discuss any impediments. By working together as a cohesive unit, the team can achieve better results and deliver value to the customer.
+<br><br><img src="https://www.proofhub.com/wp-content/uploads/2019/01/Build-Your-Teamwork-and-Collaboration-Skills.jpeg" width="600px"><br>
 
 ## Scrum Benefits
+- Scrum helps teams deliver **high-quality** software in an iterative and incremental manner.
+- It promotes transparency, inspection, and adaptation, allowing for **continuous improvement** throughout the project.
+- Scrum enables teams to stay focused on **delivering value** to the customer by prioritizing **work based** on business value.
+- It encourages **collaboration** and **teamwork**, which can lead to better results and a more enjoyable work environment.
+- Scrum allows for **flexibility** and **adaptability** in response to changing requirements or market conditions.
+- It provides a framework for managing complex projects in a **structured** and **efficient** manner.
+- Scrum can lead to increased **productivity** and faster **time-to-market** for software products.
 
 ## Example of Agile Project Management: JIRA Software
+JIRA Software is a popular project management tool used in Agile software development. It is designed to help teams plan, track, and release software products in an iterative and incremental manner. JIRA provides a variety of features and functionalities that support Agile practices such as Scrum and Kanban, including the ability to create and manage product backlogs, track sprint progress, and visualize team workflows.
+<br><br><img src="https://th.bing.com/th/id/R.cc6038a6bbc15a0d52538c32b6d76fbe?rik=cAnlSj5Hatdgbw&riu=http%3a%2f%2fcurvc.com%2fcurvc%2fstatic%2fimg%2fproduct%2fatlassian%2fjirasoft%2fjirasoft02.png&ehk=lV%2bzy5IwbxM2Q8Qw3PzukfS9BsaOvApV3IiAYfcx1rs%3d&risl=&pid=ImgRaw&r=0" width="600px"><br>
 
 ## DevOps: Agile & Learn to Operations Work-Learn-to-Operations-Work
+DevOps is a methodology that combines Agile and Lean principles with operations. It streamlines the development lifecycle, breaks down silos between teams, and creates a culture of collaboration, automation, and continuous improvement. By integrating operations into development, it enables faster and more reliable delivery of high-quality software products. Ultimately, DevOps delivers value to customers and the business by ensuring a more efficient and effective software development process.
 
 ## DevOps and Tools
+<br><img src="https://www.opptrends.com/wp-content/uploads/2020/09/Devops-1068x698.jpg" width="600px"><br><br>
+DevOps is a software development methodology that emphasizes collaboration and communication between development and operations teams, with a focus on automating repetitive tasks to improve efficiency and reliability. To support these goals, a series of tools have emerged in recent years to help DevOps teams manage their workflows, including tools for continuous integration and delivery, containerization, configuration management, and monitoring. By using these tools, DevOps teams can automate manual processes, reduce errors, and improve overall productivity. The result is a more efficient and effective software development process that delivers high-quality software products quickly and reliably.
 
 ## Agile DevOps
-
+<br><img src="https://www.thinkebiz.net/wp-content/uploads/2018/06/DevOps-1024x853.png" width="600px"><br><br>
+Agile DevOps is an approach to software development that combines Agile methodologies with DevOps practices. It involves breaking down silos between development and operations teams and creating a culture of collaboration, automation, and continuous improvement. Agile DevOps aims to deliver high-quality software products more quickly and reliably by integrating Agile practices such as Scrum and Kanban with DevOps tools and processes. This approach emphasizes the importance of collaboration, automation, and feedback throughout the entire software development lifecycle, from planning and development to testing, deployment, and monitoring. The result is a more efficient and effective software development process that delivers value to customers and the business.
 
 # SCALING AGILE METHODS
 ## Scaling Agile Methods

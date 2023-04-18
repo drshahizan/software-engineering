@@ -18,11 +18,17 @@ Group NikoNikoNee
 
 
 
-# Module 1: Introduction to Software Engineering 
+# Module 2:Software Process Model
 
 ### Contents:
 #### Notes
-- [The Importance of Software Engineering](#the-importance-of-software-engineering)
+- Software process models
+- Plan Driven and Agile process
+- Waterfall Model
+- Incremental model
+- Reuse oriented software engineering
+- Spiral model: coping with change
+- The Rational Unified Process(RUP)
 
 ### Others
 - [Software Engineering | Introduction to Software Engineering](https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/)
@@ -43,6 +49,8 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 ###  What is Software Process?
 Software process is a set of related activities that leads to the production of the software
+
+
 
 <table>
   <tr>
