@@ -1,0 +1,33 @@
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    color: #333;
+  }
+  
+  p {
+    font-family: Georgia, serif;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  .large {
+    font-size: 24px;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .underline {
+    text-decoration: underline;
+  }
+  
+  .uppercase {
+    text-transform: uppercase;
+  }
+  
+  .blue {
+    color: blue;
+  }
+  
