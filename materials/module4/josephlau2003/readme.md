@@ -80,5 +80,26 @@
       </ul>
     </ol>
     <p>By ensuring that the hostel management system meets both the user and system requirements, hostel managers can efficiently manage hostel operations, provide better services to students, and optimize hostel occupancy and revenue.</p>
+	
+	 <h2>Examples of User Requirements</h2>
+	<h1>System Requirements for Easy Course Search and Registration</h1>
+	<p>The system should enable students to easily search for available courses and register for them with minimal effort and confusion.</p>
+
+	<h2>Personalization</h2>
+	<p>The system should be able to personalize the course recommendations and registration process based on the student's academic profile and interests.</p>
+
+	<h2>Real-time updates</h2>
+	<p>The system should provide real-time updates on course availability, enrollment status, and waitlist positions to help students make informed decisions.</p>
+
+	<h2>Communication</h2>
+	<p>The system should enable students to communicate with their professors and advisors directly through the system to ask questions, seek guidance, or resolve issues.</p>
+
+	<h2>Mobile-friendly</h2>
+	<p>The system should be optimized for mobile devices to enable students to register for courses on-the-go.</p>
+
+	<h2>Feedback mechanism</h2>
+	<p>The system should provide a feedback mechanism for students to provide feedback on the registration process and suggest improvements.</p>
+</body>
+</html>
 </body>
 </html>
