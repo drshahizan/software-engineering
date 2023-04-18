@@ -165,3 +165,94 @@ Non-functional requirements in a hospital information system refer to the qualit
 - The system should comply with applicable regulatory requirements, such as HIPAA and other privacy regulations. It should also adhere to industry standards for data security, interoperability, and other areas.
 
 By incorporating these non-functional requirements into the hospital information system, healthcare providers can ensure that the system is both functional and reliable, providing high-quality healthcare services while meeting key performance, security, and regulatory requirements.
+
+# Interview
+
+## Before:
+
+Before conducting an interview with stakeholders about the development of a hospital information system, there are several key steps that you should take to prepare. 
+
+#### Here are some recommended steps:
+
+### 1. Identify the stakeholders: 
+- Start by identifying all of the stakeholders who have an interest in the development of the hospital information system. This may include healthcare providers, administrators, IT staff, patients, and other stakeholders who will be impacted by the system.
+
+### 2. Define the scope: 
+- Define the scope of the project, including the specific features and functions of the system that will be developed, and the timeline and budget for the project.
+
+### 3. Create an interview guide: 
+- Develop an interview guide that outlines the questions you will ask during the interview, and the order in which you will ask them. This will help you stay on track and ensure that you cover all of the important topics during the interview.
+
+### 4. Schedule the interviews: 
+- Contact each stakeholder and schedule a time for the interview. Make sure to allow enough time for the interview, and ensure that the stakeholder is available during that time.
+
+### 5. Send a reminder: 
+- Send a reminder to each stakeholder a day or two before the interview, to confirm the time and location, and remind them of the purpose of the interview.
+
+### 6. Prepare for the interview: 
+- Review the interview guide and prepare any materials you will need for the interview, such as note-taking tools or recording equipment.
+
+### 7. Conduct the interview: 
+- During the interview, ask open-ended questions and encourage the stakeholder to share their thoughts and ideas. Take detailed notes, and record the interview if necessary.
+
+### 8. Follow up: 
+- After the interview, follow up with the stakeholder to thank them for their time and provide any additional information they may need. Use the information gathered during the interview to inform the development of the hospital information system.
+
+By taking these steps before conducting interviews with stakeholders, you can ensure that the interviews are productive and provide valuable insights into the needs and requirements of the stakeholders for the hospital information system.
+
+## During:
+During an interview with stakeholders about the development of a hospital information system, it is important to follow certain steps to ensure that you gather the most useful and relevant information. 
+
+#### Here are some recommended steps:
+
+### 1. Introduce yourself
+- Begin by introducing yourself and explaining the purpose of the interview.
+
+### 2. Explain the project
+- Provide a brief overview of the hospital information system project, including its goals, timeline, and budget.
+
+### 3. Ask open-ended questions
+- Ask open-ended questions that encourage stakeholders to share their thoughts and ideas. Examples of open-ended questions include: "What features do you think are essential for the hospital information system?", "What challenges do you currently face in managing patient information?", and "How do you think the hospital information system could improve patient care?"
+
+### 4. Listen actively
+- Listen actively to the stakeholder's responses, taking notes on key points and asking follow-up questions as needed.
+
+### 5. Clarify responses
+- If the stakeholder provides a response that is unclear or needs further explanation, ask them to clarify or expand on their response.
+
+### 6. Encourage feedback
+- Encourage stakeholders to provide feedback on the hospital information system project and the interview process itself.
+
+### 7. Thank the stakeholder
+- Thank the stakeholder for their time and input, and let them know how their feedback will be used in the project.
+
+### 8. Follow up
+- After the interview, follow up with the stakeholder to thank them again for their time, and provide any additional information they may need.
+
+By following these steps during an interview with stakeholders, you can ensure that you gather valuable information and insights that will help inform the development of the hospital information system. Additionally, actively listening and encouraging feedback can help build trust and engagement with stakeholders, which can be critical for the success of the project.
+
+## After:
+
+After conducting an interview with stakeholders about the development of a hospital information system, there are several key steps that you should take to ensure that you make the most of the information gathered. 
+
+#### Here are some recommended steps:
+
+### 1. Review and organize the notes
+- Review the notes taken during the interview and organize them in a way that makes sense to you. This could include summarizing key points and highlighting any common themes or concerns.
+
+### 2. Analyze the data
+- Analyze the data collected during the interview, identifying any patterns or trends that emerge. Use this analysis to help inform decisions about the development of the hospital information system.
+
+### 3. Share the findings
+- Share the findings from the interview with the development team and other stakeholders who will be involved in the project. This will help ensure that everyone is on the same page and working towards the same goals.
+
+### 4. Update the requirements
+- Use the information gathered during the interview to update the requirements for the hospital information system. This may include adding new features or functionality, or modifying existing requirements to better meet the needs of the stakeholders.
+
+### 5. Follow up with stakeholders
+- Follow up with the stakeholders who participated in the interview, thanking them for their time and sharing any updates or changes that have been made based on their feedback.
+
+### 6. Incorporate feedback into future interviews
+- Use the feedback gathered during the interviews to refine the interview process for future stakeholder interviews, making any necessary changes to the interview guide or approach.
+
+By taking these steps after conducting interviews with stakeholders, you can ensure that you are making the most of the information gathered and using it to inform the development of the hospital information system. This will help ensure that the system is developed in a way that meets the needs of all stakeholders and is successful in improving healthcare delivery.

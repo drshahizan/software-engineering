@@ -9,10 +9,10 @@ Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): Student Attendance Management System
 
-## Key steps in creating a Student Attendance Management System
+## Key steps in creating a student attendance management system
 Developing an academic course registration system for a university involves several key steps:
 
-### 1. Define the requirements: 
+### 1. Define system requirements: 
 Determine what functionalities are needed in the system, such as taking attendance, generating reports, and sending notifications. Identify the users of the system, such as students, teachers, and administrators.
 
 ### 2. Design the system: 
@@ -39,7 +39,7 @@ Collect feedback from users to identify areas for improvement and to ensure that
 ## The requirements engineering process for a student attendance management system typically involves the following steps:
 
 ### 1. Identify stakeholders: 
-Determine who the system's primary and secondary stakeholders are, including teachers, students, administrators, and parents.
+Determine who the system's primary and secondary stakeholders are, including lecturers, students, administrators, and parents.
 
 ### 2. Gather requirements: 
 Collect requirements from stakeholders to determine what the system needs to do, including key features, functionalities, and performance requirements.
@@ -91,66 +91,89 @@ System requirements, on the other hand, refer to the technical and functional sp
 
 While user requirements and system requirements are distinct, they are closely related, and it is important to ensure that they are aligned. The system requirements should be designed to meet the needs and expectations of the system's users, and the user requirements should be prioritized and translated into specific system requirements. By understanding both users and system requirements, designers and developers can create a course registration system that meets the needs of its stakeholders while being technically sound and reliable.
 
-## User requirements in academic course registration system
+## User requirements in student attendance management system
 
 User requirements in an academic course registration system refer to the specific needs and expectations of the system's users, which include students, faculty members, and university administrators. User requirements are typically expressed in terms of user stories, scenarios, or use cases, and they are focused on the functionality and usability of the system.
 
-The following are some examples of user requirements for an academic course registration system:
+The following are some examples of user requirements for a student attendance management system:
 
-### 1. Course Search
-Students should be able to easily search for courses based on course code, department, instructor, time of day, and other relevant criteria.
+### 1. Lecturers: 
+Lecturers need an easy-to-use interface for taking attendance, preferably with options for marking absences, tardiness, and early departures. They may also need to view attendance reports for their classes and individual students, as well as receive notifications for students who are absent or have poor attendance.
 
-### 2. Course Registration
-Students should be able to register for courses online, including adding and dropping classes, and viewing their class schedule.
+### 2. Students: 
+Students need a way to check their own attendance records and see if they are meeting the required attendance standards. They may also need to be able to submit explanations for absences or tardiness.
 
-### 3. Waitlist Management
-The system should be able to handle waitlists for courses, including notifying students when a spot becomes available and automatically enrolling them in the course.
+### 3. Administrators: 
+Administrators need to be able to manage attendance data for all classes and students, as well as generate reports and statistics on attendance trends. They may also need to set attendance policies and standards, and have the ability to override attendance records in exceptional circumstances.
 
-### 2. Course Management
-Faculty members should be able to manage their courses, including adding and removing students, managing course materials, and submitting grades.
+### 4. Parents/Guardians: 
+Parents/guardians need to be able to access attendance records for their children and receive notifications about absences or tardiness.
 
-### 4. Academic Record Management
-Students and faculty members should be able to access and view their academic records, including transcripts, grade reports, and other relevant information.
+### 5. System Users: 
+System users may need to have varying levels of access and privileges depending on their roles and responsibilities. For example, teachers may only be able to access attendance data for their own classes, while administrators may have full access to all attendance data.
 
-### 5. Reporting and Analytics
-University administrators should be able to generate reports and analytics based on course enrollment data, including enrollment trends, course capacity, and student retention.
-
-### 6. User Authentication and Authorization
-The system should have robust authentication and authorization mechanisms to ensure that only authorized users can access the system and perform certain actions.
-
-## System requirements in academic course registration system
-
+## System requirements in student attendance management system
 By gathering and analyzing user requirements, designers and developers can create a course registration system that meets the needs and expectations of its users. User requirements are critical to the success of the system, as they directly impact the usability and user adoption of the system. It is important to involve users in the requirements gathering and validation process to ensure that their needs and expectations are properly addressed.
 
 System requirements in an academic course registration system refer to the technical and functional specifications that the system must meet to perform its intended tasks effectively and efficiently. These requirements focus on the hardware, software, and network infrastructure needed to support the system's functionality and performance.
 
 The following are some examples of system requirements for an academic course registration system:
 
-### 1. Performance
-The system should be able to handle a large number of concurrent users, while maintaining fast response times and minimizing downtime.
+### 1. Scalability: 
+The system should be able to handle a large number of students, classes, and teachers, with the ability to scale up or down as needed.
 
-### 2. Scalability
-The system should be able to scale up or down based on changing demand, without sacrificing performance or usability.
+### 2. Security: 
+The system should be secure, with appropriate authentication and authorization mechanisms to ensure that only authorized users have access to attendance data.
 
-### 3. Security
-The system should have robust security mechanisms, including user authentication and authorization, data encryption, and access controls, to protect sensitive user data and prevent unauthorized access.
+### 3. User interface: 
+The system should have a user-friendly interface that is easy to use for both teachers and administrators.
 
-### 4. Integration
-The system should be able to integrate with other university systems, such as the student information system, learning management system, and financial aid system.
+### 4. Attendance tracking: 
+The system should have the ability to track attendance accurately and efficiently, with options for marking absences, tardiness, and early departures.
 
-### 5. Data Management
-The system should be able to store and manage large amounts of data related to course enrollment, student records, and other relevant information.
+### 5. Reporting: 
+The system should have the ability to generate reports on attendance trends and patterns, as well as individual student attendance records.
 
-### 6. Usability
-The system should be user-friendly and easy to use, with intuitive navigation and clear instructions.
+### 6. Notifications: 
+The system should have the ability to send notifications to teachers, administrators, parents/guardians, and students about attendance-related issues, such as absences or tardiness.
 
-### 7. Accessibility
-The system should be accessible to users with disabilities, including support for assistive technologies and compliance with accessibility standards.
+### 7. Data storage: 
+The system should have a reliable and secure database for storing attendance data, with appropriate backup and disaster recovery mechanisms in place.
 
-### 8. Maintenance
-The system should be easy to maintain and update, with clear documentation and support for troubleshooting and bug fixes.
+### 8. Integration: 
+The system should be able to integrate with other school management systems, such as student information systems, to provide a seamless and integrated experience for users.
 
 By defining and meeting these system requirements, designers and developers can ensure that the course registration system is reliable, secure, and scalable. System requirements are essential to the success of the system, as they directly impact its functionality, performance, and reliability. It is important to involve system administrators, developers, and other technical experts in the requirements gathering and validation process to ensure that the system meets technical standards and best practices.
+
+## Functional requirements for a student attendance management system
+
+Functional requirements for a student attendance management system can include the following:
+
+### 1. User management: 
+The system should provide authentication and authorization mechanisms to ensure that only authorized users can access and modify attendance data.
+
+### 2. Attendance tracking: 
+The system should allow teachers to mark attendance for each class session and provide options for marking absences, tardiness, and early departures.
+
+### 3. Attendance reports: 
+The system should allow teachers, administrators, and parents/guardians to generate attendance reports for individual students or classes.
+
+### 4. Notification system: 
+The system should provide a notification system to alert teachers, administrators, parents/guardians, and students of absences, tardiness, or other attendance-related issues.
+
+### 5. Attendance policy management: 
+The system should allow administrators to define and manage attendance policies for different classes, grade levels, or school-wide policies.
+
+### 6. Calendar management: 
+The system should provide a calendar for teachers to schedule classes and indicate attendance requirements for each session.
+
+### 7. Student information management: 
+The system should allow administrators to manage student information, including contact information and attendance history.
+
+### 8. Integration with other systems: 
+The system should integrate with other school management systems, such as student information systems or learning management systems, to provide a seamless and integrated experience for users.
+
+Overall, the functional requirements for a student attendance management system should be based on the needs of the school or educational institution, with a focus on providing a reliable, efficient, and user-friendly solution for tracking and managing student attendance.
 
 
 ## Contribution 🛠️
