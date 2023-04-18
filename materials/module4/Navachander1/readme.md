@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Software Requirements Document (SRD): Student Grading System
+# Software Requirements Document (SRD): University Student Grading System
 
 Designing a university student grading system requires careful consideration of various factors. Here are the key steps that need to be taken to create an effective student grading system:
 
