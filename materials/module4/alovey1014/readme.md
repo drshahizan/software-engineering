@@ -8,17 +8,20 @@
 
 # Software Requirements Document (SRD): Student Engagement System
 ## Key steps in creating a Student Engagemen System
-### 1. Identify needs and goals
-One key step in creating a Student Engagement System is to identify the specific needs and goals of the educational institution and its students. This involves conducting research and gathering input from various stakeholders, such as students, instructors, and administrators.
-### 2. Define system requirements
-The next step is to define the system requirements based on the identified needs and goals. This includes defining the user roles, features, and functionality that the system will provide, as well as any technical requirements and constraints.
-### 3.Design system architecture and user interface
-Once the system requirements have been defined, the next step is to design the system architecture and user interface. This involves selecting appropriate technologies and frameworks, defining the data models and database schema, and designing the user interface to ensure that it is user-friendly and accessible on all devices.
-### 4. Develop and test the system
-After the system architecture and user interface have been designed, the next step is to develop and test the system. This involves writing code to implement the system features, testing the system to ensure that it meets the requirements and is free from bugs and errors, and conducting user acceptance testing to gather feedback from users and make any necessary improvements.
-### 5. Deploy and maintain the system
-Finally, the system must be deployed and maintained to ensure that it continues to meet the needs of the educational institution and its users. This includes providing ongoing technical support and making updates and improvements to the system as needed.
+### 1. Identify the specific needs and goals of the educational institution and its students:
+Conduct research and gather input from various stakeholders, such as students, instructors, and administrators, to determine what specific needs and goals the Student Engagement System should address.
 
+### 2. Define the system requirements based on the identified needs and goals:
+Based on the research and input gathered, define the system requirements that the Student Engagement System needs to meet. This includes defining user roles, features, functionality, and any technical requirements and constraints.
+
+### 3. Design the system architecture and user interface:
+Select appropriate technologies and frameworks, define data models and database schema, and design the user interface to ensure that it is user-friendly and accessible on all devices.
+
+### 4. Develop and test the system:
+Write code to implement the system features, test the system to ensure that it meets the requirements and is free from bugs and errors, and conduct user acceptance testing to gather feedback from users and make any necessary improvements.
+
+### 5. Deploy and maintain the system:
+Deploy the system to a production environment and provide ongoing technical support, making updates and improvements to the system as needed to ensure that it continues to meet the needs of the educational institution and its users.
 
 
 
