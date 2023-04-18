@@ -118,7 +118,7 @@ The system should ensure that all user data, including login credentials and pay
 The system should integrate with a reliable and secure payment gateway to enable students to make payments easily and securely.
 
 ### 5. Data Management
-The system should be able to store and manage large amounts of data related to course enrollment, student records, and other relevant information.
+The system should be able to store and manage large amounts of data related to users records, and other relevant information.
 
 ### 6. Usability
 The system should have a mobile-friendly interface to ensure that students can order food on the go, from their mobile devices.
