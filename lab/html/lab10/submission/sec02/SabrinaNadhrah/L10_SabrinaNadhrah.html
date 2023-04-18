@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Form </title>
+
+    <!---
+        Name : Nadhrah NurSabrina Binti Zulaini
+        Matrics Num : A22EC0224
+        Github ID : SabrinaNadhrah
+        Lab 10 : Application Form
+    
+    -->
+</head>
+
+<body>
+
+    <h3 style="text-align: center;"><b> Web Programming : Application Form </b></h3>
+
+    <form action="/action_page.php">
+        <fieldset style="width: 1450px;">
+            <legend> Personal Details </legend>
+
+            <table style="width: 100%;">
+
+                <tr>
+                    <td style="width: 250px;"> Name </td>
+                    <td><select name="" id="state">
+                            <option value="select"> --Select-- </option>
+                            <option value="Mrs"> Mrs </option>
+                            <option value="Mr"> Mr </option>
+                            <option value="Miss"> Miss </option>
+                        </select></td>
+
+                    <td style="width: 600px;"><input type="text"></td>
+                    <td></td>
+                    <td style="width: 5%;"></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td> Gender </td>
+                    <td colspan="3"><input type="radio" id="male" name="gender" value="Male">
+                        <label for="male"> Male </label>
+                        <input type="radio" id="female" name="gender" value="Female">
+                        <label for="female"> Female </label>
+                    </td>
+                    <td></td>
+                    <td style="width: 20%;"> Date of Birth </td>
+                    <td><input type="date" name="" id=""></td>
+                </tr>
+
+                <tr>
+                    <td> Marital Status </td>
+                    <td colspan="3"><select name="status" id="status">
+                        <option value="select"> --Select-- </option>
+                        <option value="single"> Single </option>
+                        <option value="married"> Married </option>
+                        <option value="divorce"> Divorce </option>
+                    </select></td>
+                    <td></td>
+
+                    <td> Religion </td>
+                    <td><select name="religion" id="religion">
+                        <option value="select"> --Select-- </option>
+                        <option value="islam"> Islam </option>
+                        <option value="buddha"> Buddha </option>
+                        <option value="christian"> Christian </option>
+                        <option value="other"> Others </option>
+                    </select> </td>
+                </tr>
+            </table>
+        </fieldset>
+
+        <fieldset style="width: 1450px;">
+            <legend> Contact Details </legend>
+            <table style="width: 100%; height: 100px;">
+                <tr>
+                    <td style="width: 25%;"> Phone </td>
+                    <td><input type="text"></td>
+                    <td style="width: 20%;"></td>
+                    <td style="width: 30%;"> Email </td>
+                    <td><input type="text" sty;></td>
+                </tr>
+                
+                <tr>
+                    <td> Address Line 1 </td>
+                    <td><input type="text" id="address1" name="address1" value="";></td>
+                    <td></td>
+                    <td> Address Line 2 </td>
+                    <td><input type="text" id="address2" name="address2" value="";></td>
+                </tr>
+
+                <tr>
+                    <td> City </td>
+                    <td><input type="text";></td>
+                    <td></td>
+                    <td> State </td>
+                    <td><select name="state" id="state">
+                        <option value="select"> --Select-- </option>
+                        <option value="johor"> Johor </option>
+                        <option value="kedah"> Kedah </option>
+                        <option value="selangor"> Selangor </option>
+                        <option value="terengganu"> Terengganu </option>
+                    </select></td>
+                </tr>
+        </fieldset>
+
+        <fieldset style="width: 1450px;">
+            <legend> Qualification Details </legend>
+
+            <table style="height: 100px">
+                <tr>
+                    <td style="width: 5%;"><b> No. </b></td>
+                    <th></th>
+                    <td style="width: 20%;"><b> Qualification </b></td>
+                    <td style="width: 40%;"><b> University </b></td>
+                    <td style="width: 30%;"><b> Passing Year </b></td>
+                    <td></td>
+                    <td style="width: 30%;"> CGPA </td>
+                    <td></td>
+                </tr>
+            </table>
+
+        </fieldset>
+    </form>
+</body>
+
+</html>

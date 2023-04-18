@@ -1,0 +1,104 @@
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2014 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      Synthview Type Design
+ * License URL: http://www.fontspring.com/licenses/synthview/webfont
+ *
+ *
+ */
+
+@font-face {
+    font-family: 'Novecento Sans';
+    src: url('Novecentosanswide-Bold-webfont.eot');
+    src: url('Novecentosanswide-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Novecentosanswide-Bold-webfont.woff2') format('woff2'),
+         url('Novecentosanswide-Bold-webfont.woff') format('woff'),
+         url('Novecentosanswide-Bold-webfont.ttf') format('truetype'),
+         url('Novecentosanswide-Bold-webfont.svg#novecento_sans_wide_bookbold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Novecento Sans';
+    src: url('Novecentosanswide-Book-webfont.eot');
+    src: url('Novecentosanswide-Book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Novecentosanswide-Book-webfont.woff2') format('woff2'),
+         url('Novecentosanswide-Book-webfont.woff') format('woff'),
+         url('Novecentosanswide-Book-webfont.ttf') format('truetype'),
+         url('Novecentosanswide-Book-webfont.svg#novecento_sans_widebook') format('svg');
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Novecento Sans';
+    src: url('Novecentosanswide-DemiBold-webfont.eot');
+    src: url('Novecentosanswide-DemiBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Novecentosanswide-DemiBold-webfont.woff2') format('woff2'),
+         url('Novecentosanswide-DemiBold-webfont.woff') format('woff'),
+         url('Novecentosanswide-DemiBold-webfont.ttf') format('truetype'),
+         url('Novecentosanswide-DemiBold-webfont.svg#novecento_sans_widedemibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Novecento Sans';
+    src: url('Novecentosanswide-Light-webfont.eot');
+    src: url('Novecentosanswide-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Novecentosanswide-Light-webfont.woff2') format('woff2'),
+         url('Novecentosanswide-Light-webfont.woff') format('woff'),
+         url('Novecentosanswide-Light-webfont.ttf') format('truetype'),
+         url('Novecentosanswide-Light-webfont.svg#novecento_sans_widelight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Novecento Sans';
+    src: url('Novecentosanswide-Medium-webfont.eot');
+    src: url('Novecentosanswide-Medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Novecentosanswide-Medium-webfont.woff2') format('woff2'),
+         url('Novecentosanswide-Medium-webfont.woff') format('woff'),
+         url('Novecentosanswide-Medium-webfont.ttf') format('truetype'),
+         url('Novecentosanswide-Medium-webfont.svg#novecento_sans_widemedium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Novecento Sans';
+    src: url('Novecentosanswide-Normal-webfont.eot');
+    src: url('Novecentosanswide-Normal-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Novecentosanswide-Normal-webfont.woff2') format('woff2'),
+         url('Novecentosanswide-Normal-webfont.woff') format('woff'),
+         url('Novecentosanswide-Normal-webfont.ttf') format('truetype'),
+         url('Novecentosanswide-Normal-webfont.svg#novecento_sans_widenormal') format('svg');
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+
+

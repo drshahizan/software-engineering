@@ -1,0 +1,39 @@
+/*
+ * Global Styles
+ */
+
+body {
+	background-color: $bg-color;
+	color: $body-color;
+	font-family: $secondary-font;
+	font-size   : 16px;
+	font-weight : 400;
+	line-height : 1.5;
+
+}
+
+a { 
+	text-decoration: none;
+	color: $body-color;
+	border-bottom: 1px solid transparent;
+	transition: .3s ease;
+
+	&:hover{ color: white }
+}
+
+address { font-style: normal }
+
+p{ margin-top: 0 }
+
+.text-center{
+	text-align: center;
+}
+
+form{
+	input:not([type="submit"]),textarea{
+		padding: 20px 20px;
+		background: none;
+		display: block;
+		border: 2px solid #2c282c;
+	}
+}
