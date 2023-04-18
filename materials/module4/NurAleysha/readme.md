@@ -9,6 +9,8 @@ Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): College Room Rental System
 
+## Key steps in creating a College Room Rental System
+
 Creating a college room rental system can be a complex project, but here are some key steps to consider:
 
 #### Identify the requirements: 
