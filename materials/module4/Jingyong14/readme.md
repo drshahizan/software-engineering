@@ -179,14 +179,14 @@ The stakeholders for a student feedback system in a university may include:
 <li>Define the interview objectives: Clearly outline the objectives of the interview, such as gathering feedback, understanding requirements, and identifying concerns or expectations.</li>
 <li>Prepare interview questions: Develop a list of open-ended questions that will help you gather information about the stakeholders' perspectives, needs, and expectations related to the student feedback system.</li>
 <li>Plan logistics: Schedule the interviews with stakeholders, arrange for necessary resources such as meeting rooms or virtual conferencing tools, and ensure that you have the required permissions or approvals to conduct the interviews.</li>
-</ol>
+</ul>
 <h3>During the Interview with Stakeholders: </h3>
 <ul>
 <li>Set the tone: Establish a friendly and professional atmosphere for the interview. Introduce yourself, explain the purpose of the interview, and ensure that stakeholders feel comfortable sharing their thoughts and opinions.</li>
 <li>Ask open-ended questions: Use your prepared interview questions to prompt stakeholders to share their perspectives, needs, and expectations related to the student feedback system. Listen attentively and take notes.</li>
 <li>Probe for details: Ask follow-up questions to gain deeper insights and clarify any ambiguous or incomplete responses. Encourage stakeholders to elaborate on their feedback and provide specific examples or scenarios.</li>
 <li>Respect stakeholders' perspectives: Respect the opinions and perspectives of stakeholders, even if they differ from your own. Avoid making judgments or assumptions, and remain neutral and impartial throughout the interview process.</li>
-</ol>
+</ul>
 <h3>After the Interview with Stakeholders:</h3>
 <ol>
 <li>Analyze the data: Review the notes and feedback collected during the interviews to identify common themes, patterns, and trends. Organize the data for further analysis and use in the requirements engineering process.</li>
@@ -194,6 +194,34 @@ The stakeholders for a student feedback system in a university may include:
 <li>Incorporate feedback into requirements: Use the insights gained from the stakeholder interviews to refine and update the requirements for your student feedback system. Incorporate the feedback into the system design, functionality, and user experience as appropriate.</li>
 <li>Communicate findings: Share the findings and insights gathered from the stakeholder interviews with relevant team members, project sponsors, or other stakeholders. Ensure that the feedback received is considered in decision-making processes related to the student feedback system development.</li>
 <li>Remember to approach stakeholder interviews with an open mind, actively listen to their perspectives, and use their feedback to inform your requirements engineering process. Respect stakeholders' opinions and perspectives, and communicate findings effectively to ensure that their feedback is appropriately considered in the development of your student feedback system.</li>
+</ul>
+
+<h3>Dress Code:</h3>
+<ul>
+<li>Dress professionally: Dress appropriately for the context of the stakeholder interviews. If you are conducting formal interviews with university administrators or faculty, it may be appropriate to dress in business attire. For interviews with students or other stakeholders, business casual attire may be more appropriate.</li>
+<li>Avoid distracting clothing: Choose clothing that is clean, well-fitting, and not overly casual or distracting. Avoid clothing with loud patterns, offensive language, or provocative content.</li>
+<li>Consider cultural norms: If you are conducting interviews with stakeholders from diverse cultural backgrounds, be mindful of their cultural norms and dress accordingly to show respect and understanding.</li>
+</ul>
+<h3>Items to Bring:</h3>
+<ul>
+<li>Interview questions: Bring a printed or digital copy of the interview questions you have prepared to guide the conversation with stakeholders.</li>
+<li>Note-taking materials: Bring a notebook, pen, or a laptop/tablet for taking notes during the interviews.</li>
+<li>Information about the feedback system: If relevant, bring any documentation or materials related to the student feedback system, such as project proposals, system specifications, or prototypes, to reference during the interviews.</li>
+<li>Business cards: If appropriate, bring business cards to share your contact information with stakeholders for future communication or follow-up.</li>
+</ul>
+
+<h3>Example Questions</h3>
+<ol>
+<li>What do you expect from a student feedback system in terms of its purpose and objectives?</li>
+<li>How do you currently collect and manage student feedback? What challenges or limitations do you encounter with the current process?</li>
+<li>What features or functionalities do you believe are essential for an effective student feedback system?</li>
+<li>What are the key criteria or metrics you would like to see in the student feedback reports or analytics?</li>
+<li>How frequently do you think feedback should be collected from students, and what should be the preferred mode of collecting feedback (e.g., online surveys, in-person interviews, focus groups)?</li>
+<li>How would you like to access and analyze the student feedback data? Are there any specific tools or technologies that you prefer or require?</li>
+<li>What are the privacy and security concerns you have related to the student feedback system, and how would you like those concerns to be addressed?</li>
+<li>How do you envision the student feedback system integrating with other existing systems or processes in the university?</li>
+<li>What are the potential barriers or challenges you foresee in implementing and using a student feedback system, and how can they be addressed?</li>
+<li>How do you plan to communicate the availability and benefits of the student feedback system to students and faculty, and how can we ensure its widespread adoption and usage?</li>
 </ol>
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
