@@ -9,19 +9,19 @@ Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Document (SRD): Student Feedback System UTM
 
-<h1>1.Introduction:</h1> Start with an introduction to the topic of student feedback in universities. Explain why it's important, what the current situation is like, and why there is a need for a new or improved system.
+<h2>Introduction:</h2> Start with an introduction to the topic of student feedback in universities. Explain why it's important, what the current situation is like, and why there is a need for a new or improved system.
 
-<b>2.Objectives:</b> Clearly state the objectives of your proposed feedback system. What do you hope to achieve? What problems do you want to solve? What benefits will the system provide for students, teachers, and the university as a whole?
+<h2>Objectives:</h2> Clearly state the objectives of your proposed feedback system. What do you hope to achieve? What problems do you want to solve? What benefits will the system provide for students, teachers, and the university as a whole?
 
-<b>3.System design:</b> Describe the design of your proposed feedback system. This could include the format of the feedback, the questions you want to ask, the platform you want to use, the frequency of the feedback, and so on. Be as detailed as possible.
+<h2>System design:</h2> Describe the design of your proposed feedback system. This could include the format of the feedback, the questions you want to ask, the platform you want to use, the frequency of the feedback, and so on. Be as detailed as possible.
 
-<b>4.Benefits:</b> Explain the benefits of your proposed feedback system. These could include improved student engagement, better student-teacher communication, more effective teaching, and improved academic outcomes. You could also discuss how the feedback system will help the university in terms of institutional effectiveness, quality assurance, and accreditation.
+<h2>Benefits:</h2> Explain the benefits of your proposed feedback system. These could include improved student engagement, better student-teacher communication, more effective teaching, and improved academic outcomes. You could also discuss how the feedback system will help the university in terms of institutional effectiveness, quality assurance, and accreditation.
 
-<b>5.Implementation plan:</b> Outline the steps that will be required to implement the feedback system. This could include obtaining approval from university administrators, piloting the system with a small group of students and teachers, refining the system based on feedback, and rolling it out to the wider university community.
+<h2>Implementation plan:</h2> Outline the steps that will be required to implement the feedback system. This could include obtaining approval from university administrators, piloting the system with a small group of students and teachers, refining the system based on feedback, and rolling it out to the wider university community.
 
-<b>6.Evaluation:</b> Explain how you will evaluate the success of the feedback system. What metrics will you use to measure the effectiveness of the system? How will you ensure that the feedback is being used to make positive changes in the university?
+<h2>Evaluation:</h2> Explain how you will evaluate the success of the feedback system. What metrics will you use to measure the effectiveness of the system? How will you ensure that the feedback is being used to make positive changes in the university?
 
-<b>7.Conclusion:</b> Sum up your proposal and restate the importance of having a student feedback system in universities. Emphasize the benefits and potential positive impact that the system could have on students, teachers, and the university as a whole.
+<h2>Conclusion:</h2> Sum up your proposal and restate the importance of having a student feedback system in universities. Emphasize the benefits and potential positive impact that the system could have on students, teachers, and the university as a whole.
 
 
 ## Contribution 🛠️
