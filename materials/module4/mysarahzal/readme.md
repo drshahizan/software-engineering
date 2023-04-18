@@ -47,16 +47,11 @@ The first step is to identify the stakeholders involved in the academic advisor 
 ### Gather Requirements
 Next, gather requirements by conducting interviews, focus groups, surveys, and other methods to understand the needs of the stakeholders. The requirements gathered may include the following:
 
-- Academic advisor interface
-    The academic advisor system should have an easy-to-use interface that allows advisors to manage their advisee list, track student progress, and access relevant   academic information.
--  Student interface
-    The system should have a student interface that allows students to schedule appointments with their academic advisors, view their academic progress, and receive relevant academic information.
-- Course management
-    The system should allow academic advisors to manage course offerings, including course descriptions, prerequisites, and availability.
-- Communication
-    The system should facilitate communication between academic advisors and their advisees, as well as between academic advisors and faculty members.
-- Scheduling
-    The system should allow students to schedule appointments with their academic advisors, and academic advisors to manage their appointment schedule.
+- Academic advisor interface: The academic advisor system should have an easy-to-use interface that allows advisors to manage their advisee list, track student progress, and access relevant   academic information.
+-  Student interface: The system should have a student interface that allows students to schedule appointments with their academic advisors, view their academic progress, and receive relevant academic information.
+- Course management: The system should allow academic advisors to manage course offerings, including course descriptions, prerequisites, and availability.
+- Communication: The system should facilitate communication between academic advisors and their advisees, as well as between academic advisors and faculty members.
+- Scheduling: The system should allow students to schedule appointments with their academic advisors, and academic advisors to manage their appointment schedule.
 
 ### Analyze Requirements
 After gathering requirements, analyze them to identify any conflicts or inconsistencies, and prioritize them based on their importance and feasibility.
