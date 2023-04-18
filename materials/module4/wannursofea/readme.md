@@ -173,7 +173,7 @@ The system should provide users with access to academic resources and support se
 ### 7. Communication and Messaging
 The system should provide users with communication tools, including messaging and email functionality, to enable easy and efficient communication between students and advisors.
 
-## Non-Functional Requirements:
+## Non-Functional Requirements
 
 ### 1. Security
 The system should be designed to be secure, with appropriate measures in place to protect student data and ensure compliance with relevant regulations.
