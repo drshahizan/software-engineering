@@ -1,0 +1,28 @@
+/* Type selector styles */
+h1 {
+    color: red;
+  }
+  
+  p {
+    font-size: 16px;
+  }
+  
+  /* Class selector styles */
+  .text {
+    color: blue;
+  }
+  
+  .heading {
+    font-weight: bold;
+  }
+  
+  /* ID selector styles */
+  #special-text {
+    font-style: italic;
+  }
+  
+  /* Specificity demonstration styles */
+  .text#special-text {
+    color: green;
+    font-size: 24px;
+  }
