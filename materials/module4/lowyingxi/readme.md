@@ -29,6 +29,22 @@ Promote the calendar to the target audience through various channels such as soc
 ## 6)Maintain and update the calendar: 
 Regularly update and maintain the calendar to keep it current and accurate. Assign someone to manage the calendar and review event submissions regularly to ensure it stays up to date.
 
+
+## Stalkholders
+- Event organizers: These stakeholders are responsible for planning and organizing events on campus. They will use the event management system to create event schedules, manage event registration, and track event attendance. They may also use the system to manage event budgets, request event space and resources, and communicate with event attendees.
+
+- Students: Students are a crucial stakeholder for an event management system as they are the primary audience for campus events. They will use the system to view event schedules, register for events, and receive event reminders and updates. Students may also use the system to provide feedback on events and suggest new event ideas.
+
+- Administrative staff: Administrative staff, such as event coordinators or university officials, are responsible for overseeing and managing events on campus. They will use the event management system to track event attendance, manage event budgets, and ensure that events comply with university policies and regulations. Administrative staff may also use the system to analyze event data and metrics to improve future events.
+
+- Faculty members: Faculty members may be involved in organizing academic events, such as conferences or guest lectures, and may use the event management system to manage event logistics and communicate with event attendees.
+
+- Facilities management: Facilities management staff are responsible for managing and maintaining the physical facilities on campus. They may use the event management system to ensure that event spaces are available and properly equipped, and to coordinate with event organizers on any needed setup or cleanup.
+## Requirements Engineering
+Requirements engineering is the process of eliciting, analyzing, specifying, validating, and managing the requirements for a software system. In the context of an university event management system, the requirements engineering process is crucial for ensuring that the system meets the needs of its stakeholders, including students, faculty members, and university administrators.
+
+-IT staff: IT staff are responsible for managing the technical infrastructure of the event management system, such as servers, databases, and network security. They may also provide technical support to users of the system and ensure that the system is compatible with other university systems and tools.
+The requirements engineering process for an university event management system typically involves the following steps:
 # Requirements Engineering
 
 ## Gather information: 
@@ -57,6 +73,52 @@ In addition to functional requirements, non-functional requirements define the q
 ## Validate requirements:
 Finally, the requirements should be validated with stakeholders to ensure they accurately capture the needs of users and can be met within the project timeline and budget. Feedback from stakeholders can be incorporated into the requirements documentation before development begins.
 
+
+## User System Requirement
+### System Development:
+- The system should be web-based and accessible through a secure login system.
+- The system should have an intuitive user interface that allows event organizers to easily create and manage events, and allows students to easily search for and register for events.
+- The system should have a database to store event information, including event schedules, event locations, event descriptions, and event registration information.
+- The system should allow for different types of events, such as academic conferences, social events, and athletic events, and allow event organizers to customize event registration forms to collect necessary information.
+- The system should allow event organizers to manage event budgets, request event space and resources, and communicate with event attendees.
+- The system should provide notifications and reminders to event attendees, such as reminders about upcoming events or updates about event changes.
+### System Testing:
+- The system should be tested to ensure that it can handle a large number of users and events.
+- The system should be tested for scalability to ensure that it can handle an increase in users and events in the future.
+- The system should be tested for performance to ensure that it can handle the expected load and provide a fast and responsive user experience.
+- The system should be tested for security to ensure that it is secure and that user data is protected.
+### System Deployment:
+- The system should be deployed on a secure and reliable server infrastructure that can handle the expected load of users and events.
+- The system should be integrated with other relevant university systems, such as the university's calendar or registration system.
+- The system should be accessible to users through a web browser, and should be compatible with a range of devices, including desktops, laptops, tablets, and smartphones.
+### System Maintenance:
+- The system should be regularly maintained to ensure that it remains up-to-date and relevant.
+- The system should be monitored for performance and security issues, and any issues should be addressed in a timely manner.
+- The system should provide technical support to users, and should have a help desk or support team that can address user questions and issues.
+- The system should provide regular backups of user data to ensure that user data is protected in case of a system failure or other issue.
+
+
+## User Requirements and System Requirements
+User Requirements:
+
+- Event organizers should be able to create new events, set event details such as date, time, and location, and manage event resources and logistics.
+- Students should be able to browse and search for events, register for events, and receive event notifications and reminders.
+- Administrative staff should be able to view and manage all events on campus, approve event requests, and manage event budgets.
+- Facilities management staff should be able to view event schedules and space availability, and coordinate with event organizers on event setup and cleanup.
+- IT staff should be able to manage the technical infrastructure of the event management system and provide technical support to users of the system.
+- Marketing and communications staff should be able to create event listings and marketing materials through the system, track event engagement and attendance rates, and communicate with event attendees.
+- Alumni relations staff should be able to organize events that engage alumni and promote alumni involvement with the university.
+
+System Requirements:
+
+- The event management system should be web-based and accessible through a secure login system.
+- The system should have an intuitive user interface that allows event organizers to easily create and manage events, and allows students to easily search for and register for events.
+- The system should have a database to store event information, including event schedules, event locations, event descriptions, and event registration information.
+- The system should allow for different types of events, such as academic conferences, social events, and athletic events, and allow event organizers to customize event registration forms to collect necessary information.
+- The system should allow event organizers to manage event budgets, request event space and resources, and communicate with event attendees.
+- The system should provide notifications and reminders to event attendees, such as reminders about upcoming events or updates about event changes.
+- The system should be tested for scalability, performance, and security, to ensure that it can handle a large number of users and events, provide a fast and responsive user experience, and protect user data.
+- The system should be regularly maintained and updated to ensure that it remains up-to-date and relevant, and provide technical support to users.
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 

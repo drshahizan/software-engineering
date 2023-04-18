@@ -12,99 +12,63 @@ Don't forget to hit the :star: if you like this repo.
 ## Key steps in creating a Food Ordering System Of Student UTM
 Developing a Food Ordering System Of Student UTM involves several key steps:
 
-### 1. System requirements gathering
-#### User Requirement
-- Who are the users of the system? (Students, Faculty, Staff)
+### 1.Requirements gathering:
+The first step is to gather requirements from the stakeholders, in this case, the students, to understand their needs and preferences. This can be done through surveys, focus groups, or interviews.
+
+### 2.System architecture:
+Once the requirements are gathered, the system architecture needs to be designed. This involves identifying the different components of the system, such as the user interface, database, server, and APIs.
+
+### 3.User interface design:
+The user interface needs to be designed in such a way that it is easy to use and visually appealing. This can be achieved by creating wireframes and prototypes, and testing them with the users.
+
+### 4.Database design:
+The database needs to be designed to store all the necessary data, such as user profiles, menu items, and orders. The database schema needs to be optimized for performance and scalability.
+
+### 5.Ordering process:
+The ordering process needs to be streamlined, with clear instructions and options for customization. Users should be able to browse the menu, select items, add them to their cart, and proceed to checkout.
+
+### 6.Payment options:
+The system should support multiple payment options, such as credit/debit cards, PayPal, or mobile payments. It should also have secure payment processing, to protect users' financial information.
+
+### 7.Delivery logistics:
+The system should have an efficient delivery logistics process, with options for delivery time and location. It should also have a mechanism for tracking orders and notifying users of the delivery status.
+
+### 8.Testing and deployment:
+Once the system is designed, it needs to be thoroughly tested to ensure that it is functioning as intended. This includes unit testing, integration testing, and user acceptance testing. Once it passes all tests, it can be deployed to production.
+
+### 9.Maintenance and support:
+After deployment, the system needs to be monitored and maintained to ensure that it continues to function properly. This includes bug fixing, security updates, and feature enhancements. It also requires a support team to handle user queries and complaints.
+
+## Stakeholders
+Stakeholders in a Food Ordering System Of Student UTM can be broadly categorized into three groups:
+
+### 1. Students
+Students are the primary users of the food ordering system. They need to register/login into the system, Browse through the list of available food items, Filter food items based on various criteria like type, price, dietary preferences, etc, Select food items and add them to the cart, View the cart and modify the order before checkout, Make payment securely and easily through integrated payment gateways and View order history and track order status.
+
+### 2. Cafeteria Staff
+Cafeteria Staff have Ability to add/edit/delete food items and categories, Ability to view and manage orders received from students, Ability to mark orders as fulfilled once they are delivered and Ability to generate various reports like sales, order history, popular items, etc.
+
+### 3. Staff University
+Staff University also similar like students which are  They need to register/login into the system, Browse through the list of available food items, Filter food items based on various criteria like type, price, dietary preferences, etc, Select food items and add them to the cart, View the cart and modify the order before checkout, Make payment securely and easily through integrated payment gateways and View order history and track order status.
+
+
+## Users and system requirements
+Users and system requirements are two different aspects of an food ordering system, and it is important to understand the differences between them.
+
+### User requirements
+- Who are the users of the system? (Students, Cafeteria Staff, Univerisity Staff)
 - What are their needs? (ordering food, viewing menus, tracking orders, etc.)
 - What are the common device they will use? (Mobile or Desktop)
 - How will users access the system? (web browser or mobile app)
-- What features do they need? (ordering food, customizing orders, leaving reviews, etc.) 
-#### System Requirement
+- What features do they need? (ordering food, customizing orders, leaving reviews, etc.)
+
+### System requirements
 - What platform(s) should the system be developed on? (e.g. iOS, Android, web)
 - What programming languages and frameworks should be used?
 - What are the minimum hardware requirements?
 - What security protocols need to be in place? (e.g. encryption, authentication)
 - What data storage and backup options are required?
-#### Menu Management
-- How will restaurants and food vendors be added to the system?
-- How will menus and prices be managed?
-- What are the requirements for handling dietary restrictions?
-- How will order fulfillment and delivery be managed?
-#### Payment and Transaction Processing
-- What payment options will be available?
-- How will payments be processed?
-- What transaction fees will be charged?
-- What are the requirements for refunds and chargebacks?
-#### Reporting and Analytics
-- What data needs to be tracked and analyzed?
-- What reports will be generated?
-- How will the reports be accessed and shared?
 
-### 2. System design
-Once the requirements are gathered, the next step is to design the system. This involves creating a detailed system design document that outlines the system architecture, database design, and user interface design.
-
-### 3. System development
-The system development involves implementing the design using programming languages, tools, and frameworks. The system should be developed with scalability and maintainability in mind, so that it can handle a large number of students and courses.
-
-### 4. System testing
-After the system is developed, it needs to be thoroughly tested to ensure that it meets the requirements and works as expected. Testing should be done for all possible scenarios, including edge cases and error handling.
-
-### 5. System deployment
-Once the system is tested and approved, it needs to be deployed on the university's servers or cloud infrastructure. The system should be monitored for performance and availability.
-
-### 6. System maintenance
-After the system is deployed, it needs to be maintained and updated to ensure that it continues to meet the changing needs of the university. This involves fixing bugs, adding new features, and improving performance.
-
-The academic course registration system should provide a user-friendly interface for students to browse and register for courses, as well as for faculty members to manage their courses and student grades. The system should also allow for automated waitlist management and scheduling conflicts. Overall, the system should streamline the course registration process and reduce administrative burden for the university staff.
-
-## Requirements Engineering
-Requirements engineering is the process of eliciting, analyzing, specifying, validating, and managing the requirements for a software system. In the context of an academic course registration system, the requirements engineering process is crucial for ensuring that the system meets the needs of its stakeholders, including students, faculty members, and university administrators.
-
-The requirements engineering process for an academic course registration system typically involves the following steps:
-
-### 1. Requirements elicitation
-This involves gathering information about the needs and expectations of the system's stakeholders. For an academic course registration system, this may involve conducting interviews and surveys with students, faculty members, and administrators to understand their requirements for the system.
-
-### 2. Requirements analysis
-Once the requirements are elicited, they need to be analyzed to determine their feasibility, relevance, and completeness. This may involve prioritizing the requirements based on their importance and identifying any conflicting or ambiguous requirements.
-
-### 3. Requirements specification
-After the requirements are analyzed, they need to be documented in a clear and concise manner. This may involve creating use cases, user stories, or formal requirement documents that describe the system's functionality and constraints.
-
-### 4. Requirements validation
-Once the requirements are specified, they need to be validated to ensure that they are accurate and complete. This may involve reviewing the requirements with stakeholders and conducting user acceptance testing to verify that the system meets their needs.
-
-### 5. Requirements management
-Finally, the requirements need to be managed throughout the development lifecycle to ensure that they remain relevant and up-to-date. This may involve tracking changes to the requirements and ensuring that they are properly implemented in the system.
-
-In the context of an academic course registration system, the requirements engineering process should focus on ensuring that the system provides an intuitive and efficient user interface for students and faculty members to browse and register for courses, as well as for administrators to manage course scheduling and student records. The system should also be designed to handle large volumes of data and be scalable to accommodate future growth in the university's student population.
-
-## Stakeholders
-Stakeholders in an academic course registration system can be broadly categorized into three groups:
-
-### 1. Students
-Students are the primary users of the course registration system. They need to be able to search for courses, register for classes, drop or swap classes, and view their schedules. They also need to be able to view their grades and academic records.
-
-### 2. Faculty Members
-Faculty members are responsible for managing their courses and grading students. They need to be able to view their course rosters, submit grades, and communicate with students. They may also need to view student records to identify any academic issues.
-
-### 3. University Administrators
-University administrators are responsible for managing the overall academic operations of the university. They need to be able to monitor course availability, manage course scheduling and capacity, and view student enrollment data. They may also need to view student records for reporting and compliance purposes.
-
-Other stakeholders may include academic advisors, department chairs, and IT staff who are responsible for maintaining and updating the course registration system.
-
-Understanding the needs and requirements of these stakeholders is crucial for designing a course registration system that is user-friendly, efficient, and meets the academic needs of the university. It is important to involve stakeholders in the requirements gathering and validation process to ensure that the system meets their expectations and addresses their pain points.
-
-## Users and system requirements
-Users and system requirements are two different aspects of an academic course registration system, and it is important to understand the differences between them.
-
-### User requirements
-Users refer to the people who will be using the system, including students, faculty members, and university administrators. They have specific needs, preferences, and expectations from the system, and their requirements are often expressed in terms of user stories, scenarios, or use cases. For example, a student may require the ability to search for courses by department, instructor, or time of day, while a faculty member may require the ability to view student transcripts or communicate with their class via email.
-
-### System requirements
-System requirements, on the other hand, refer to the technical and functional specifications of the system. They describe what the system must do, and are often expressed in terms of features, capabilities, and constraints. For example, the system may need to be able to handle a certain number of concurrent users, have robust authentication and authorization mechanisms, and integrate with other university systems such as the student information system or the learning management system.
-
-While user requirements and system requirements are distinct, they are closely related, and it is important to ensure that they are aligned. The system requirements should be designed to meet the needs and expectations of the system's users, and the user requirements should be prioritized and translated into specific system requirements. By understanding both users and system requirements, designers and developers can create a course registration system that meets the needs of its stakeholders while being technically sound and reliable.
 
 ## User requirements in academic course registration system
 
@@ -133,34 +97,34 @@ University administrators should be able to generate reports and analytics based
 ### 6. User Authentication and Authorization
 The system should have robust authentication and authorization mechanisms to ensure that only authorized users can access the system and perform certain actions.
 
-## System requirements in academic course registration system
+## System requirements in food ordering system
 
 By gathering and analyzing user requirements, designers and developers can create a course registration system that meets the needs and expectations of its users. User requirements are critical to the success of the system, as they directly impact the usability and user adoption of the system. It is important to involve users in the requirements gathering and validation process to ensure that their needs and expectations are properly addressed.
 
-System requirements in an academic course registration system refer to the technical and functional specifications that the system must meet to perform its intended tasks effectively and efficiently. These requirements focus on the hardware, software, and network infrastructure needed to support the system's functionality and performance.
+System requirements in a food ordering system refer to the technical and functional specifications that the system must meet to perform its intended tasks effectively and efficiently. These requirements focus on the hardware, software, and network infrastructure needed to support the system's functionality and performance.
 
-The following are some examples of system requirements for an academic course registration system:
+The following are some examples of system requirements for a food ordering system:
 
 ### 1. Performance
 The system should be able to handle a large number of concurrent users, while maintaining fast response times and minimizing downtime.
 
 ### 2. Scalability
-The system should be able to scale up or down based on changing demand, without sacrificing performance or usability.
+The system should be scalable to handle a large number of users and orders during peak times, such as lunch hours.
 
 ### 3. Security
-The system should have robust security mechanisms, including user authentication and authorization, data encryption, and access controls, to protect sensitive user data and prevent unauthorized access.
+The system should ensure that all user data, including login credentials and payment details, are secure and protected.
 
 ### 4. Integration
-The system should be able to integrate with other university systems, such as the student information system, learning management system, and financial aid system.
+The system should integrate with a reliable and secure payment gateway to enable students to make payments easily and securely.
 
 ### 5. Data Management
-The system should be able to store and manage large amounts of data related to course enrollment, student records, and other relevant information.
+The system should be able to store and manage large amounts of data related to users records, and other relevant information.
 
 ### 6. Usability
-The system should be user-friendly and easy to use, with intuitive navigation and clear instructions.
+The system should have a mobile-friendly interface to ensure that students can order food on the go, from their mobile devices.
 
 ### 7. Accessibility
-The system should be accessible to users with disabilities, including support for assistive technologies and compliance with accessibility standards.
+The system should have a support mechanism to enable students to report issues or get help with their orders.
 
 ### 8. Maintenance
 The system should be easy to maintain and update, with clear documentation and support for troubleshooting and bug fixes.

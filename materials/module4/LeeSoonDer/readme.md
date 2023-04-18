@@ -20,9 +20,9 @@ Administrators: They are responsible for implementing the feedback system and en
 Support staff: They may be responsible for collecting and analyzing feedback data, or providing technical support for the feedback system.
 
 Parents: In some cases, parents may also be stakeholders, particularly if the feedback system includes questions about their involvement in their child's education.
-<ul>
-<h2>Developing a student feedback system for a university requires careful planning and execution. Here are some steps to develop a student feedback system for a university:</h2>
 
+<h2>Developing a student feedback system for a university requires careful planning and execution. Here are some steps to develop a student feedback system for a university:</h2>
+<ul>
 <li>Define the <b>objectives and goals</b> of the feedback system: Before creating a student feedback system, it is important to identify what the feedback will be used for, what specific goals the system will serve, and what type of data will be collected.</li>
 
 <li>Determine the <strong>scope</strong> of the feedback system: This includes identifying which groups of students will be surveyed, how often the feedback will be collected, and what topics the feedback will cover.</li>
@@ -44,66 +44,92 @@ Parents: In some cases, parents may also be stakeholders, particularly if the fe
 <li>Evaluate and <strong>update the feedback system</strong>: Periodically evaluate the effectiveness and efficiency of the feedback system to ensure that it continues to serve the objectives and goals of the university. Update the system as necessary to reflect changing needs and requirements.</li>
 
 </ul>
+<h2>Requirements Engineering Process for a Student Feedback System</h2>
+<b>Elicitation:</b>
+Identify key stakeholders and their roles and responsibilities.
+Develop a list of questions to ask stakeholders to elicit requirements.
+Select appropriate techniques for eliciting requirements, such as interviews, surveys, focus groups, or observations.
+Document all requirements and ensure they are clear and unambiguous.
+<br>
+<b>Analysis:</b>
+Review all requirements for consistency, completeness, accuracy, and feasibility.
+Identify any conflicts or overlaps between requirements.
+Prioritize requirements based on their importance to stakeholders.
+Document all changes made during the analysis process.
+<br>
+<b>Specification:</b>
+Use a standard format to specify all requirements, such as use cases or functional requirements.
+Ensure that all requirements are testable and measurable.
+Define any constraints or assumptions associated with each requirement.
+Review all requirements with stakeholders to ensure they are complete and accurate.
+<br>
+<b>Validation:</b>
+Develop prototypes or mockups to test requirements with stakeholders.
+Conduct simulations to validate requirements and ensure they meet the needs of stakeholders.
+Review feedback from stakeholders and make any necessary changes to the requirements.
+Document all changes made during the validation process.
+<br>
+<b>Verification:</b>
+Conduct a final review of all requirements to ensure they are complete and correct.
+Verify that all requirements meet the objectives and goals of the feedback system.
+Ensure that all requirements are traceable and can be linked back to stakeholder needs.
+Document all changes made during the verification process.
+<br>
+<b>Management:</b>
+Create a requirements management plan to track changes to requirements throughout the development process.
+Use a requirements management tool to manage requirements and track dependencies between requirements.
+Ensure that all changes to requirements are approved by stakeholders.
+Prioritize requirements based on their importance to stakeholders and the project goals.
+These requirements for the requirements engineering process are just a starting point and will likely vary depending on the specific needs and goals of each university. The requirements engineering process should be tailored to the needs of the feedback system, ensuring that all requirements are complete, accurate, and feasible
+<br>
 
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Requirements Engineering Process for a Student Feedback System</title>
-</head>
-<body>
-	<h1>Requirements Engineering Process</h1>
-	<h2>Elicitation</h2>
-	<ul>
-		<li>Identify key stakeholders and their roles and responsibilities.</li>
-		<li>Develop a list of questions to ask stakeholders to elicit requirements.</li>
-		<li>Select appropriate techniques for eliciting requirements, such as interviews, surveys, focus groups, or observations.</li>
-		<li>Document all requirements and ensure they are clear and unambiguous.</li>
-	</ul>
+<h2>User Requirements for Student Feedback System</h2>
+<ul>
+  <li>The system should allow students to provide anonymous feedback on courses and instructors.</li>
+<li>The system should be easily accessible and intuitive to use.</li>
+<li>The system should provide clear instructions for submitting feedback.</li>
+<li>The system should allow students to provide feedback on various aspects of a course or instructor, such as course content, teaching style, and organization.</li>
+<li>The system should allow students to provide both quantitative and qualitative feedback.</li>
+<li>The system should ensure the privacy and security of students' feedback.</li>
+<li>The system should allow students to view their previous feedback submissions.</li>
+<li>The system should provide a confirmation message after a feedback submission is completed.</li>
+<li>The system should provide a mechanism for follow-up or response to feedback from instructors or administrators.</li>
+<li>The system should provide reports and summaries of feedback for instructors and administrators to review and analyze.</li>
+<li>The system should have a mechanism for identifying and addressing any inappropriate or abusive feedback.</li>
+<li>The system should be available to all students in the university, regardless of their major or level of study.</li>
+</ul>
+<h2>System Requirements for Student Feedback System</h2>
+<ul>
+<li>The system should be web-based and accessible from any device with an internet connection.</li>
+<li>The system should be compatible with popular web browsers, such as Google Chrome, Mozilla Firefox, and Safari.</li>
+<li>The system should have a responsive design that adjusts to different screen sizes and resolutions.</li>
+<li>The system should have a secure login mechanism to ensure the privacy and security of students' feedback.</li>
+<li>The system should have a database to store feedback submissions and user information.</li>
+<li>The system should have a user interface that is visually appealing and easy to navigate.</li>
+<li>The system should provide error messages for incorrect or incomplete feedback submissions.</li>
+<li>The system should have a search functionality for students to view their previous feedback submissions.</li>
+<li>The system should allow instructors and administrators to generate reports and summaries of feedback, including statistical analysis and visualizations.</li>
+<li>The system should provide a mechanism for instructors and administrators to respond to feedback or address any issues raised.</li>
+<li>The system should have a feature to flag inappropriate or abusive feedback and notify appropriate personnel for further action.</li>
+<li>The system should have a mechanism for scheduling and sending reminders for students to provide feedback.</li>
+<li>The system should have a backup and disaster recovery plan in case of system failure or data loss.</li>
+<li>The system should comply with relevant data privacy and security regulations, such as GDPR or HIPAA.</li>
 
-	<h2>Analysis</h2>
-	<ul>
-		<li>Review all requirements for consistency, completeness, accuracy, and feasibility.</li>
-		<li>Identify any conflicts or overlaps between requirements.</li>
-		<li>Prioritize requirements based on their importance to stakeholders.</li>
-		<li>Document all changes made during the analysis process.</li>
-	</ul>
+</ul>
 
-	<h2>Specification</h2>
-	<ul>
-		<li>Use a standard format to specify all requirements, such as use cases or functional requirements.</li>
-		<li>Ensure that all requirements are testable and measurable.</li>
-		<li>Define any constraints or assumptions associated with each requirement.</li>
-		<li>Review all requirements with stakeholders to ensure they are complete and accurate.</li>
-	</ul>
-
-	<h2>Validation</h2>
-	<ul>
-		<li>Develop prototypes or mockups to test requirements with stakeholders.</li>
-		<li>Conduct simulations to validate requirements and ensure they meet the needs of stakeholders.</li>
-		<li>Review feedback from stakeholders and make any necessary changes to the requirements.</li>
-		<li>Document all changes made during the validation process.</li>
-	</ul>
-
-	<h2>Verification</h2>
-	<ul>
-		<li>Conduct a final review of all requirements to ensure they are complete and correct.</li>
-		<li>Verify that all requirements meet the objectives and goals of the feedback system.</li>
-		<li>Ensure that all requirements are traceable and can be linked back to stakeholder needs.</li>
-		<li>Document all changes made during the verification process.</li>
-	</ul>
-
-	<h2>Management</h2>
-	<ul>
-		<li>Create a requirements management plan to track changes to requirements throughout the development process.</li>
-		<li>Use a requirements management tool to manage requirements and track dependencies between requirements.</li>
-		<li>Ensure that all changes to requirements are approved by stakeholders.</li>
-		<li>Prioritize requirements based on their importance to stakeholders and the project goals.</li>
-	</ul>
-
-</body>
-</html>
-
-
+<h2>Functional Requirements of Student Feedback System</h2>
+<ul>
+<li>User authentication and authorization: The system should allow users to log in with their university credentials and only allow authorized users to access the feedback submission and viewing features.</li>
+<li>Feedback submission: The system should allow students to submit feedback on courses and instructors anonymously or with their identity if they prefer.</li>
+<li>Feedback categorization: The system should allow students to categorize their feedback based on various aspects of the course or instructor, such as content, teaching style, organization, communication, and grading.</li>
+<li>Feedback rating: The system should allow students to rate various aspects of the course or instructor on a numerical scale or provide qualitative feedback.</li>
+<li>Feedback review: The system should allow students to review their previous feedback submissions and make changes or delete them if necessary.</li>
+<li>Feedback moderation: The system should have a mechanism to prevent or remove inappropriate or abusive feedback and notify appropriate personnel for further action.</li>
+<li>Feedback analysis: The system should generate statistical reports and visualizations of feedback to help instructors and administrators understand student satisfaction and identify areas for improvement.</li>
+<li>Feedback response: The system should provide a mechanism for instructors and administrators to respond to feedback and address any issues raised by students.</li>
+<li>Reminders: The system should have a feature to send reminders to students to submit feedback or complete feedback submission if they have started but not completed the process.</li>
+<li>System administration: The system should allow authorized administrators to manage user accounts, system settings, and feedback-related data.</li>
+</ul>
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

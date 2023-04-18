@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Software Requirements Document (SRD): Academic Course Registration System
+# Software Requirements Document (SRD): Academic Advisor System
 
 ## Key steps in creating an Academic Advisor System
 Developing an academic advisor system for a university involves several key steps:
@@ -46,8 +46,7 @@ After deployment, maintain and support the system by monitoring its performance,
 Periodically review the system to ensure that it continues to meet the needs of the users and the organization. Use feedback to identify areas for improvement and make changes as necessary.
 
 
-## Requirements Engineering
-Requirements engineering is the process of eliciting, analyzing, specifying, validating, and managing the requirements for a software system. In the context of an academic course registration system, the requirements engineering process is crucial for ensuring that the system meets the needs of its stakeholders, including students, faculty members, and university administrators.
+## Requirements For Developing An Academic Advisor System
 
 The requirements engineering process for an academic advisor system typically involves the following steps:
 
@@ -80,93 +79,122 @@ The system should be able to integrate with other academic systems, such as stud
 
 In the context of an academic advisor system, the requirements engineering process should focus on ensuring that the system provides an intuitive and efficient user interface for students and faculty members to provides a comprehensive solution for academic advising and support. The system should also be designed to handle large volumes of data and be scalable to accommodate future growth in the university's student population.
 
+
 ## Stakeholders
-Stakeholders in an academic course registration system can be broadly categorized into three groups:
+Stakeholders in an academic advisor system can be broadly categorized into seven groups:
 
 ### 1. Students
-Students are the primary users of the course registration system. They need to be able to search for courses, register for classes, drop or swap classes, and view their schedules. They also need to be able to view their grades and academic records.
+Students are the primary users of the academic advising system. They rely on the system to access information about course schedules, academic requirements, and resources, and to connect with their advisors for guidance and support.
 
-### 2. Faculty Members
-Faculty members are responsible for managing their courses and grading students. They need to be able to view their course rosters, submit grades, and communicate with students. They may also need to view student records to identify any academic issues.
+### 2. Academic advisors
+Academic advisors use the system to manage their advising schedules, view student profiles, track student progress, and communicate with students.
 
-### 3. University Administrators
-University administrators are responsible for managing the overall academic operations of the university. They need to be able to monitor course availability, manage course scheduling and capacity, and view student enrollment data. They may also need to view student records for reporting and compliance purposes.
+### 3. Faculty and staff
+Faculty and staff members may use the system to access information about student academic records and progress, as well as to provide support to students as needed.
 
-Other stakeholders may include academic advisors, department chairs, and IT staff who are responsible for maintaining and updating the course registration system.
+### 4. Academic departments and programs
+Academic departments and programs use the system to manage student progress and to ensure that students are meeting program requirements.
 
-Understanding the needs and requirements of these stakeholders is crucial for designing a course registration system that is user-friendly, efficient, and meets the academic needs of the university. It is important to involve stakeholders in the requirements gathering and validation process to ensure that the system meets their expectations and addresses their pain points.
+### 5. Administration
+Administration may use the system to track student success and to evaluate the effectiveness of advising programs.
 
-## Users and system requirements
-Users and system requirements are two different aspects of an academic course registration system, and it is important to understand the differences between them.
+### 6. IT department
+The IT department is responsible for managing and maintaining the academic advising system, ensuring that it is secure, reliable, and scalable.
 
-### User requirements
-Users refer to the people who will be using the system, including students, faculty members, and university administrators. They have specific needs, preferences, and expectations from the system, and their requirements are often expressed in terms of user stories, scenarios, or use cases. For example, a student may require the ability to search for courses by department, instructor, or time of day, while a faculty member may require the ability to view student transcripts or communicate with their class via email.
+### 7. Data analysts
+Data analysts may use the system to collect and analyze data on student performance, program effectiveness, and other metrics.
 
-### System requirements
-System requirements, on the other hand, refer to the technical and functional specifications of the system. They describe what the system must do, and are often expressed in terms of features, capabilities, and constraints. For example, the system may need to be able to handle a certain number of concurrent users, have robust authentication and authorization mechanisms, and integrate with other university systems such as the student information system or the learning management system.
 
-While user requirements and system requirements are distinct, they are closely related, and it is important to ensure that they are aligned. The system requirements should be designed to meet the needs and expectations of the system's users, and the user requirements should be prioritized and translated into specific system requirements. By understanding both users and system requirements, designers and developers can create a course registration system that meets the needs of its stakeholders while being technically sound and reliable.
+## User requirements
+User requirements for an academic advising system would include the features and functions that are necessary to meet the needs of the system's users, such as students, academic advisors, faculty, and administration. Some examples of user requirements for an academic advising system are:
 
-## User requirements in academic course registration system
+#### 1. User-friendly interface
+The system should have an intuitive and user-friendly interface that is easy for all users to navigate.
 
-User requirements in an academic course registration system refer to the specific needs and expectations of the system's users, which include students, faculty members, and university administrators. User requirements are typically expressed in terms of user stories, scenarios, or use cases, and they are focused on the functionality and usability of the system.
+#### 2. Profile management
+Users should be able to manage their profiles, including personal and academic information, preferences, and settings.
 
-The following are some examples of user requirements for an academic course registration system:
+#### 3. Appointment scheduling
+The system should allow students to schedule appointments with their advisors and provide advisors with tools to manage their schedules.
 
-### 1. Course Search
-Students should be able to easily search for courses based on course code, department, instructor, time of day, and other relevant criteria.
+#### 4. Course planning and scheduling
+The system should provide students with tools to plan their course schedules, view course availability, and register for classes. Advisors should be able to help students plan their courses and approve course selections.
 
-### 2. Course Registration
-Students should be able to register for courses online, including adding and dropping classes, and viewing their class schedule.
+#### 5. Academic progress tracking
+The system should allow students and advisors to track academic progress, including grades, credits earned, and completion of program requirements.
 
-### 3. Waitlist Management
-The system should be able to handle waitlists for courses, including notifying students when a spot becomes available and automatically enrolling them in the course.
+#### 6. Resource and referral information
+The system should provide access to academic resources, such as tutoring services, career counseling, and internships. Advisors should be able to provide referrals to students as needed.
 
-### 2. Course Management
-Faculty members should be able to manage their courses, including adding and removing students, managing course materials, and submitting grades.
+#### 7. Communication and messaging
+The system should provide easy communication tools for students and advisors, including messaging and email functionality.
 
-### 4. Academic Record Management
-Students and faculty members should be able to access and view their academic records, including transcripts, grade reports, and other relevant information.
+## System requirements
+System requirements for an academic advising system would include the technical specifications necessary to develop and implement the system, such as hardware, software, and security. Some examples of system requirements for an academic advising system are:
 
-### 5. Reporting and Analytics
-University administrators should be able to generate reports and analytics based on course enrollment data, including enrollment trends, course capacity, and student retention.
+#### 1. Security
+The system should be secure, with appropriate measures in place to protect student data and ensure compliance with relevant regulations.
 
-### 6. User Authentication and Authorization
-The system should have robust authentication and authorization mechanisms to ensure that only authorized users can access the system and perform certain actions.
+#### 2. Scalability
+The system should be able to handle large volumes of users and data.
 
-## System requirements in academic course registration system
+#### 3. Integration with other systems
+The system should be able to integrate with other academic systems, such as student information systems and learning management systems.
 
-By gathering and analyzing user requirements, designers and developers can create a course registration system that meets the needs and expectations of its users. User requirements are critical to the success of the system, as they directly impact the usability and user adoption of the system. It is important to involve users in the requirements gathering and validation process to ensure that their needs and expectations are properly addressed.
+#### 4. Analytics and reporting
+The system should provide analytics and reporting tools to help advisors track student progress, identify areas of concern, and generate reports as needed.
 
-System requirements in an academic course registration system refer to the technical and functional specifications that the system must meet to perform its intended tasks effectively and efficiently. These requirements focus on the hardware, software, and network infrastructure needed to support the system's functionality and performance.
+#### 5. Performance
+The system should be designed to perform efficiently and reliably, with minimal downtime or errors.
 
-The following are some examples of system requirements for an academic course registration system:
+#### 6. Maintenance and support
+The system should be easy to maintain and support, with appropriate documentation and training materials provided for users and administrators.
 
-### 1. Performance
-The system should be able to handle a large number of concurrent users, while maintaining fast response times and minimizing downtime.
+## Functional Requirements:
 
-### 2. Scalability
-The system should be able to scale up or down based on changing demand, without sacrificing performance or usability.
+### 1. User registration and authentication
+The system should allow users to register and authenticate their accounts to access the system's functionalities.
 
-### 3. Security
-The system should have robust security mechanisms, including user authentication and authorization, data encryption, and access controls, to protect sensitive user data and prevent unauthorized access.
+### 2. Profile Management
+The system should provide users with the ability to create and manage their profiles, including personal information, academic records, and preferences.
 
-### 4. Integration
-The system should be able to integrate with other university systems, such as the student information system, learning management system, and financial aid system.
+### 3. Appointment Scheduling
+The system should provide users with the ability to schedule appointments with academic advisors, including scheduling tools, calendar integration, and appointment confirmation.
 
-### 5. Data Management
-The system should be able to store and manage large amounts of data related to course enrollment, student records, and other relevant information.
+### 4. Course planning and scheduling
+The system should provide students with tools to plan their course schedules, view course availability, and register for classes. Advisors should be able to help students plan their courses and approve course selections.
 
-### 6. Usability
-The system should be user-friendly and easy to use, with intuitive navigation and clear instructions.
+### 5. Academic Progress Tracking
+The system should provide users with tools to track their academic progress, including grades, credits earned, and program requirements.
 
-### 7. Accessibility
-The system should be accessible to users with disabilities, including support for assistive technologies and compliance with accessibility standards.
+### 6. Resource and Referral Management
+The system should provide users with access to academic resources and support services, including tutoring, counseling, and career services. Advisors should be able to refer students to relevant resources as needed.
 
-### 8. Maintenance
-The system should be easy to maintain and update, with clear documentation and support for troubleshooting and bug fixes.
+### 7. Communication and Messaging
+The system should provide users with communication tools, including messaging and email functionality, to enable easy and efficient communication between students and advisors.
 
-By defining and meeting these system requirements, designers and developers can ensure that the course registration system is reliable, secure, and scalable. System requirements are essential to the success of the system, as they directly impact its functionality, performance, and reliability. It is important to involve system administrators, developers, and other technical experts in the requirements gathering and validation process to ensure that the system meets technical standards and best practices.
+## Non-Functional Requirements
+
+### 1. Security
+The system should be designed to be secure, with appropriate measures in place to protect student data and ensure compliance with relevant regulations.
+
+### 2. Performance
+The system should be designed to perform efficiently and reliably, with minimal downtime or errors.
+
+### 3. Scalability
+The system should be able to handle large volumes of users and data, and should be designed to accommodate growth over time.
+
+### 4. Usability
+The system should be user-friendly and easy to navigate, with a clear and intuitive interface.
+
+### 5. Accessibility
+The system should be accessible to users with disabilities, with features such as screen readers and keyboard navigation.
+
+### 6. Compatibility
+The system should be compatible with a variety of devices and platforms, including desktop and mobile devices, and should support multiple browsers.
+
+### 7. Maintenance and Support
+The system should be easy to maintain and support, with appropriate documentation and training materials provided for users and administrators.
 
 
 ## Contribution 🛠️

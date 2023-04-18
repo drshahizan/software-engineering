@@ -62,6 +62,117 @@ The requirement engineering process for developing a student feedback system for
 </ul>
 The requirement engineering process is crucial for developing a student feedback system that meets the needs and expectations of stakeholders and ensures a successful implementation. Regular review and validation of requirements throughout the development lifecycle, effective communication with stakeholders, and documentation of requirements are key factors for success.
 
+<h2>Stakeholders</h2>
+The stakeholders for a student feedback system in a university may include:
+<br> <br>
+<ol>
+<li>Students: The primary users of the feedback system who provide feedback on their experiences with courses, instructors, and other aspects of their educational journey.</li>
+<br>
+<li>Faculty: The recipients of feedback from students, who use the feedback to assess their teaching effectiveness and make improvements to their courses.</li>
+<br>
+<li>Administrators: University administrators who use the feedback system to collect and analyze feedback data to assess the overall quality of courses, instructors, and other aspects of the educational programs.</li>
+<br>
+<li>Academic support staff: Staff members who manage and administer the feedback system, including setting up surveys, collecting and analyzing data, and generating reports for stakeholders.</li>
+<br>
+<li>Institutional researchers: Professionals who analyze the feedback data to provide insights and recommendations for decision-making at the institutional level.</li>
+<br>
+<li>IT and technical staff: Staff responsible for maintaining and supporting the technical infrastructure of the feedback system, including server management, database administration, and software development.</li>
+<br>
+<li>Quality assurance and compliance teams: Teams responsible for ensuring that the feedback system complies with applicable regulations, policies, and guidelines, and meets the quality standards set by the university.</li>
+<br>
+<li>Students' representatives or student councils: Student representatives who may provide input and feedback on the design, functionality, and usability of the feedback system from the perspective of students.</li>
+<br>
+<li>External stakeholders: External entities such as accreditation bodies, funding agencies, or other organizations that may have an interest in the feedback data collected by the system.</li>
+</ol>
+
+<h2>System Requirements for Student Feedback System</h2>
+  <h3>Purpose</h3>
+  <p>The student feedback system aims to collect feedback from students about their experiences with courses and instructors in a university setting, and provide a platform for faculty and administrators to analyze and use the feedback for continuous improvement of educational programs.</p>
+  
+  <h3>Features and Functionality</h3>
+  <ul>
+    <li>Secure user authentication and authorization to ensure only authorized users can access the system.</li>
+    <li>User-friendly web-based interface for students to submit feedback, with options for feedback categories, rating scales, and open-ended comments.</li>
+    <li>Ability to customize feedback categories and rating scales based on the university's requirements.</li>
+    <li>Dashboard and reporting features for faculty and administrators to view and analyze feedback data, including graphical representations and data filtering options.</li>
+    <li>Automated notifications to remind students to provide feedback and deadlines for submission.</li>
+    <li>Ability to generate reports and export feedback data in various formats (e.g., PDF, CSV) for further analysis and sharing.</li>
+    <li>Ability to track feedback history and changes for auditing purposes.</li>
+  </ul>
+
+  <h3>Performance Requirements</h3>
+  <ul>
+    <li>Responsive and fast performance, with minimal page load times and smooth navigation.</li>
+    <li>Scalability to handle a large number of concurrent users and feedback submissions, as per the university's requirements.</li>
+    <li>Reliability and availability, with minimal downtime and regular data backups.</li>
+    <li>Data security measures, including encryption of data in transit and at rest, access controls, and protection against unauthorized access or data breaches.</li>
+  </ul>
+
+  <h3>Usability Requirements</h3>
+  <ul>
+    <li>Intuitive and user-friendly interface, with clear instructions and prompts for students to provide feedback.</li>
+    <li>Accessibility features to ensure the system can be used by users with disabilities, as per relevant accessibility standards.</li>
+    <li>Compatibility with commonly used web browsers and devices, including desktops, laptops, tablets, and smartphones.</li>
+  </ul>
+
+  <h3>Technical Requirements</h3>
+  <ul>
+    <li>Web-based application using modern web technologies such as HTML5, CSS3, JavaScript, and a server-side scripting language (e.g., PHP, Python, Ruby, etc.).</li>
+    <li>Relational database management system (e.g., MySQL, PostgreSQL, etc.) to store feedback data securely.</li>
+    <li>Secure hosting environment with appropriate security measures, such as SSL certificates, firewalls, and regular security updates.</li>
+    <li>Backup and disaster recovery mechanisms to ensure data integrity and availability.</li>
+  </ul>
+
+  <h3>Constraints</h3>
+  <ul>
+    <li>Compliance with relevant university policies, regulations, and guidelines.</li>
+    <li>Adherence to data privacy and security regulations, such as GDPR, FERPA, or other applicable laws.</li>
+    <li>Budget and resource constraints, as determined by the university.</li>
+  </ul>
+  
+<h2>User Requirements for Student Feedback System</h2>
+  <h3>Students</h3>
+  <ul>
+    <li>Ability to easily access the feedback system using a web-based interface.</li>
+    <li>Clear and intuitive feedback submission process with options for feedback categories, rating scales, and open-ended comments.</li>
+    <li>Ability to view deadlines and receive automated notifications to remind them to provide feedback.</li>
+    <li>Confidentiality and anonymity of their feedback, ensuring that their identity and feedback are kept confidential and not disclosed to others.</li>
+    <li>Accessibility features to ensure that the system can be used by users with disabilities, such as screen readers, keyboard navigation, and color contrast options.</li>
+    <li>Compatibility with commonly used web browsers and devices, including desktops, laptops, tablets, and smartphones.</li>
+  </ul>
+  
+  <h3>Faculty and Administrators</h3>
+  <ul>
+    <li>Secure authentication and authorization to ensure that only authorized faculty and administrators can access the system.</li>
+    <li>User-friendly dashboard and reporting features to view and analyze feedback data, including graphical representations and data filtering options.</li>
+    <li>Ability to customize feedback categories and rating scales based on the university's requirements.</li>
+    <li>Ability to generate reports and export feedback data in various formats (e.g., PDF, CSV) for further analysis and sharing.</li>
+    <li>Ability to track feedback history and changes for auditing purposes.</li>
+    <li>Compatibility with commonly used web browsers and devices, including desktops, laptops, tablets, and smartphones.</li>
+  </ul>
+
+<h2>Functional Requirements for Student Feedback System</h2>
+  <ul>
+    <li>Secure user authentication and authorization to ensure that only authorized users can access the system.</li>
+    <li>Feedback submission process with options for feedback categories, rating scales, and open-ended comments.</li>
+    <li>Automated notifications to remind students and faculty of feedback deadlines.</li>
+    <li>Dashboard and reporting features to view and analyze feedback data, including graphical representations and data filtering options.</li>
+    <li>Customizable feedback categories and rating scales based on university's requirements.</li>
+    <li>Ability to generate reports and export feedback data in various formats (e.g., PDF, CSV) for further analysis and sharing.</li>
+    <li>Ability to track feedback history and changes for auditing purposes.</li>
+    <li>Accessibility features to ensure that the system can be used by users with disabilities, such as screen readers, keyboard navigation, and color contrast options.</li>
+  </ul>
+  
+  <h2>Non-Functional Requirements for Student Feedback System</h2>
+  <ul>
+    <li>Performance: The system should be responsive and provide fast feedback submission and data retrieval times, even with a large number of concurrent users.</li>
+    <li>Security: The system should have robust security measures in place to protect user data, including encryption, secure authentication, and authorization mechanisms.</li>
+    <li>Usability: The system should have a user-friendly interface with clear and intuitive navigation, and be accessible to a wide range of users, including those with disabilities.</li>
+    <li>Reliability: The system should be available and operational with minimal downtime, and should have backup and recovery mechanisms in place to prevent data loss.</li>
+    <li>Compatibility: The system should be compatible with commonly used web browsers and devices, including desktops, laptops, tablets, and smartphones.</li>
+    <li>Scalability: The system should be able to handle increasing numbers of users, feedback submissions, and data storage requirements as the university grows.</li>
+  </ul>
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 

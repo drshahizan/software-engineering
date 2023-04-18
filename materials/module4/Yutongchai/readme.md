@@ -7,59 +7,123 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Software Requirements Document (SRD): University Course Management System
-## Key steps to develop a University course management system:
+# Software Requirements Document (SRD): University Social Network System
+A university social networking system is a platform designed to facilitate communication and collaboration among students, faculty, and staff within a university community. It allows users to create profiles, share information, participate in discussions, join interest groups, and connect with other members of the university community.
 
-<b>1. Requirements gathering</b>
-<br>
-Collect all the requirements of the system from stakeholders such as faculty members, students, administrative staff, and other relevant parties.
+University social networking systems can provide a variety of features, including messaging, file sharing, event management, and course collaboration tools. They can be accessed through both desktop and mobile devices, providing users with the flexibility to stay connected and engaged with their university community anytime, anywhere.
 
-<b>2. System analysis and design</b>
-<br>
-Create a detailed system analysis and design document that outlines the overall architecture, functional requirements, database design, user interface design, and other key aspects of the system.
+Overall, a university social networking system can enhance the sense of community and foster a collaborative and supportive environment for learning and growth.
 
-<b>3. Development</b>
-<br>
-Develop the system using a suitable technology stack and programming language. Make sure to follow good coding practices and use appropriate design patterns.
+## Key steps
+The development of a University Social Network system involves several key steps:
 
-<b>4. Testing</b>
+<b>1. Planning: </b>
 <br>
-Test the system thoroughly to ensure it meets all functional and non-functional requirements. This includes unit testing, integration testing, system testing, and user acceptance testing.
+In this stage, the objectives, goals, and scope of the project are defined. The stakeholders and target users are identified, and the features and functionalities of the system are outlined.
 
-<b>5. Deployment</b>
+<b>2. Analysis: </b>
 <br>
-Deploy the system in a suitable production environment, such as a cloud server or on-premise server. Make sure the system is properly configured and tested in the deployment environment.
+In this stage, the requirements of the system are gathered, documented, and analyzed. This involves conducting interviews, surveys, and focus groups with the stakeholders and target users to determine their needs, preferences, and expectations.
 
-<b>6. Maintenance and support</b>
+<b>3. Design: </b>
 <br>
-Provide ongoing maintenance and support for the system, including bug fixes, feature enhancements, and technical support.
+In this stage, the technical and functional specifications of the system are developed. This involves creating the architecture, user interface, and database design of the system.
 
-<b>7. Continuous improvement</b>
+<b>4. Development: </b>
 <br>
-Continuously monitor and improve the system to meet changing requirements and user feedback. This includes regular updates and upgrades to the system to ensure it remains up-to-date and efficient.
+In this stage, the software code of the system is written, tested, and deployed. This involves following the design specifications and coding standards to build a reliable and efficient system.
+
+<b>5. Testing:</b>
+<br>
+In this stage, the system is thoroughly tested for functionality, usability, and performance. This involves conducting unit testing, integration testing, and system testing to ensure that the system works as expected.
+
+<b>6. Deployment: </b>
+<br>
+In this stage, the system is installed and made available to the users. This involves configuring the servers, installing the software, and providing user training and support.
+
+<b>7. Maintenance: </b>
+<br>
+In this stage, the system is regularly monitored and maintained to ensure that it continues to function optimally. This involves fixing bugs, applying security patches, and updating the software to keep it up-to-date.
 
 ## Requirements Engineering
-The requirements engineering process for a university course management system typically involves the following steps:
+The Requirements Engineering process of a University Social Network system involves the following steps:
 
-<b>1. Requirements Elicitation: </b>
+<b>1. Requirements elicitation: </b>
 <br>
-This involves gathering requirements from different stakeholders, including faculty members, students, administrators, and IT staff. The goal is to identify the needs and expectations of each group and document them in a comprehensive manner.
+In this stage, the requirements of the system are identified by gathering information from stakeholders, users, and other sources.
 
-<b>2. Requirements Analysis: </b>
+<b>2. Requirements analysis: </b>
 <br>
-This involves analyzing the requirements to ensure that they are complete, consistent, and unambiguous. The requirements are also prioritized based on their importance to the system's functionality and goals.
+In this stage, the requirements are analyzed to determine their feasibility, consistency, and completeness. This involves prioritizing the requirements, identifying conflicts, and resolving ambiguities.
 
-<b>3. Requirements Specification: </b>
+<b>3. Requirements specification: </b>
 <br>
-This involves documenting the requirements in a formal specification document that outlines the system's functional and non-functional requirements. This document serves as a blueprint for the development team to follow and ensures that the stakeholders' expectations are met.
+In this stage, the requirements are documented in a clear and concise manner. This involves creating use cases, functional and non-functional requirements, and other documents to describe the system requirements.
 
-<b>4. Requirements Validation: </b>
+<b>4. Requirements validation: </b>
 <br>
-This involves validating the requirements with the stakeholders to ensure that they have been accurately captured and meet their needs. This step may involve prototyping, testing, and user feedback to refine the requirements and ensure that they align with the stakeholders' expectations.
+In this stage, the requirements are reviewed and validated to ensure that they meet the needs of the stakeholders and users. This involves conducting walkthroughs, inspections, and tests to verify the requirements.
 
-<b>5. Requirements Management: </b>
+## User Requirements
+<b>1.User Profiles: </b>
 <br>
-This involves tracking and managing the requirements throughout the software development lifecycle to ensure that they are met. This step may involve change management processes to ensure that any changes to the requirements are documented, reviewed, and approved by the relevant stakeholders.
+The ability for users to create and manage their own profiles, including personal information, interests, and profile pictures.
+
+<b>2. Friend Network: </b>
+<br>Users should be able to connect with other users, send friend requests, and manage their friend lists.
+
+<b>3. Messaging: </b><br>Users should be able to send and receive private messages with other users.
+
+<b>4. Newsfeed: </b><br>Users should be able to view a personalized newsfeed that includes updates from their friends and pages they follow.
+
+<b>5. Groups: </b><br>Users should be able to create and join groups based on interests, departments, or activities.
+
+<b>6. Events: </b><br>Users should be able to create and join events related to university activities, such as seminars, workshops, and extracurricular activities.
+
+<b>7. Notifications: </b><br>Users should receive notifications for new messages, friend requests, events, and other activities related to their account.
+
+<b>8. Privacy: </b><br>Users should be able to control their privacy settings, including who can see their profile, posts, and activities.
+
+<b>9. Mobile Compatibility: </b><br>The system should be mobile-friendly, allowing users to access the platform from their smartphones and tablets.
+
+<b>10. Integration: </b><br>The system should be able to integrate with other university systems, such as the course management system, library system, and student information system.
+
+## System Requirements
+<b>1. Scalability: </b>The system should be able to handle a large number of users and data without any performance issues.
+
+<b>2. Security: </b>The system should provide a secure environment to protect the personal and sensitive data of the users, such as their profile information, posts, messages, etc.
+
+<b>3. Accessibility: </b>The system should be easily accessible to all users, including those with disabilities, and should support multiple languages.
+
+<b>4. Mobile-friendly: </b>The system should be mobile-friendly, so users can access it on their smartphones and tablets.
+
+<b>5. Search functionality: </b>The system should have a powerful search engine to enable users to search for specific posts, people, or groups.
+
+<b>6. Notifications: </b>The system should provide notifications to users for various events such as new messages, friend requests, comments, etc.
+
+<b>7. Integration with other systems: </b>The system should be able to integrate with other systems such as the university's student information system, authentication systems, etc.
+
+<b>8. Analytics: </b>The system should have analytics capabilities to track user engagement, demographics, and other important metrics.
+
+<b>9. Moderation: </b>The system should have moderation capabilities to monitor and remove inappropriate content, and enforce community guidelines.
+
+<b>10. Privacy settings: </b>The system should allow users to control their privacy settings, such as who can view their profile, posts, and messages.
+
+## Functional Requirements
+Mark up:
+*User Profile Management: Users should be able to create and manage their profiles on the social networking system. This would include adding personal information, profile pictures, and interests.
+*Friend Management: Users should be able to add friends to their network and manage their friend list. They should also be able to view their friends' profiles and communicate with them.
+*News Feed: Users should be able to view a news feed that displays the activities of their friends and the groups they belong to.
+
+*Group Management: Users should be able to create and manage groups based on their interests or academic courses. They should be able to add members, post updates, and interact with other members of the group.
+
+*Events Management: Users should be able to create and manage events related to academic or social activities. They should be able to invite friends and post updates related to the event.
+
+*Messaging: Users should be able to send messages to their friends or groups. They should also be able to view their message history.
+
+*Search: Users should be able to search for other users, groups, or events based on their interests or keywords.
+
+*Notification: Users should be able to receive notifications related to friend requests, group invitations, event updates, or any other important information related to their network.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
