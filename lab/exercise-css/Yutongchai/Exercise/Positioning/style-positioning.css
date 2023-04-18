@@ -1,0 +1,43 @@
+.container {
+    position: relative;
+    width: 600px;
+    height: 400px;
+    border: 1px solid black;
+  }
+  
+  .box1 {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+  }
+  
+  .box2 {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+  }
+  
+  .box3 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 100px;
+    background-color: green;
+  }
+  
+  .box4 {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+  }
