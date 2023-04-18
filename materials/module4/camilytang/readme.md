@@ -24,3 +24,21 @@ Once the system has been developed and tested, deploy it in a production environ
 
 ### 7. Monitor and maintain the system: 
 Once the system is live, monitor its performance and address any issues that arise. This may involve conducting regular maintenance tasks, updating the system to address new requirements, and providing ongoing support to users.
+
+
+## Requirement Engineering in creating an Event Management System
+
+### 1. Identify stakeholders: 
+Determine who the key stakeholders are for the event management system. This may include event planners, vendors, attendees, sponsors, and other relevant parties.
+
+### 2. Elicit requirements: 
+Gather requirements from stakeholders by conducting interviews, surveys, workshops, and other techniques. This may involve asking questions about their needs, goals, and expectations for the system.
+
+### 3. Analyze requirements: 
+Organize and analyze the requirements to identify common themes and priorities. This may involve categorizing requirements by type (e.g., functional, non-functional) and prioritizing them based on their importance.
+
+### 4. Validate requirements: 
+Ensure that the requirements are accurate, complete, and feasible. This may involve testing the requirements with stakeholders to ensure that they meet their needs and are technically feasible.
+
+### 5. Manage requirements: 
+Manage requirements throughout the development lifecycle to ensure that they are implemented correctly. This may involve creating a requirements traceability matrix to link requirements to system features and testing scenarios.
