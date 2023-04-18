@@ -45,13 +45,8 @@ Parents: In some cases, parents may also be stakeholders, particularly if the fe
 
 </ul>
 
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Requirements Engineering Process for a Student Feedback System</title>
-</head>
-<body>
-	<h1>Requirements Engineering Process</h1>
+	<h1>Requirements Engineering Process for a Student Feedback System</h1>
+
 	<h2>Elicitation</h2>
 	<ul>
 		<li>Identify key stakeholders and their roles and responsibilities.</li>
@@ -100,8 +95,7 @@ Parents: In some cases, parents may also be stakeholders, particularly if the fe
 		<li>Prioritize requirements based on their importance to stakeholders and the project goals.</li>
 	</ul>
 
-</body>
-</html>
+
 
 
 
