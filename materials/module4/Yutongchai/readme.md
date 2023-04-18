@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Software Requirements Document (SRD): University Course Management System
+# Software Requirements Document (SRD): University Social Network System
 ## The development of a University Social Network system involves several key steps:
 
 <b>1. Planning: </b>
