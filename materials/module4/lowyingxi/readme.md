@@ -73,6 +73,29 @@ In addition to functional requirements, non-functional requirements define the q
 ## Validate requirements:
 Finally, the requirements should be validated with stakeholders to ensure they accurately capture the needs of users and can be met within the project timeline and budget. Feedback from stakeholders can be incorporated into the requirements documentation before development begins.
 
+
+## User System Requirement
+### System Development:
+- The system should be web-based and accessible through a secure login system.
+- The system should have an intuitive user interface that allows event organizers to easily create and manage events, and allows students to easily search for and register for events.
+- The system should have a database to store event information, including event schedules, event locations, event descriptions, and event registration information.
+- The system should allow for different types of events, such as academic conferences, social events, and athletic events, and allow event organizers to customize event registration forms to collect necessary information.
+- The system should allow event organizers to manage event budgets, request event space and resources, and communicate with event attendees.
+- The system should provide notifications and reminders to event attendees, such as reminders about upcoming events or updates about event changes.
+### System Testing:
+- The system should be tested to ensure that it can handle a large number of users and events.
+- The system should be tested for scalability to ensure that it can handle an increase in users and events in the future.
+- The system should be tested for performance to ensure that it can handle the expected load and provide a fast and responsive user experience.
+- The system should be tested for security to ensure that it is secure and that user data is protected.
+### System Deployment:
+- The system should be deployed on a secure and reliable server infrastructure that can handle the expected load of users and events.
+- The system should be integrated with other relevant university systems, such as the university's calendar or registration system.
+- The system should be accessible to users through a web browser, and should be compatible with a range of devices, including desktops, laptops, tablets, and smartphones.
+### System Maintenance:
+- The system should be regularly maintained to ensure that it remains up-to-date and relevant.
+- The system should be monitored for performance and security issues, and any issues should be addressed in a timely manner.
+- The system should provide technical support to users, and should have a help desk or support team that can address user questions and issues.
+- The system should provide regular backups of user data to ensure that user data is protected in case of a system failure or other issue.
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 

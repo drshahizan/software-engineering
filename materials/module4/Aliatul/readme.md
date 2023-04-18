@@ -10,7 +10,8 @@ Identify the number of parcels, destinations, and users that will be using the s
 
 ## 2. Identify the stakeholders :
 
-Determine who will be using the system, including shippers, carriers, and recipients. Understand their needs and requirements to ensure that the system meets their expectations. Gather information from OPC, CPP and students(Recipients).
+Determine who will be using the system, including shippers, carriers, and recipients. Understand their needs and requirements to ensure that the system meets their expectations. Gather information from One Stop Parcel Centre (OPC), Cengal Parcel Point (CPP) and students(Recipients).
+
 ### User requirements.
 
   - Integration with the university system: The delivery service system should be integrated with the university's existing systems, such as the student information system, to ensure that the delivery addresses and contact information are accurate and up-to-date.

@@ -41,6 +41,57 @@ This step involves reviewing the requirements specification document to ensure t
 ### 5. Requirements management:
 As the project progresses, requirements may change due to evolving needs, new stakeholders, or other factors. Therefore, it is important to manage the requirements throughout the project to ensure that they remain relevant and achievable.
 
+## User Requirement
+User requirements for a student engagement system can be gathered by considering the needs and preferences of the various users of the system. Here are some possible user requirements that can be considered:
+
+### 1. Students
+Students are the primary users of the system and their requirements should be a top priority. Some user requirements for students may include:
+
+- Easy navigation and intuitive design to make it easy to access and use the system
+- Personalization options to tailor the experience to individual preferences
+- Accessibility features to ensure all students can use the system, regardless of disabilities
+- Communication tools to enable collaboration and interaction with peers and instructors
+- Learning management tools to track their progress, view course materials, and complete assignments
+- Notifications to alert them of important deadlines or events
+- Gamification features to keep them engaged and motivated
+
+### 2. Administrators
+Administrators will have different requirements as well, focused on the overall goals and objectives of the institution. Some of their requirements may include:
+
+- Access to analytics and reporting tools to monitor student engagement levels and identify trends or issues
+- Customization options to tailor the system to the specific needs of the institution
+- Integration with other institutional systems and tools for seamless data management
+- Scalability to handle a growing number of users and data
+- Security features to ensure the protection of student data and information
+
+## System Requirement
+When designing a student engagement system solely for students, the system requirements may be focused on meeting the specific needs of this user group. Here are some possible system requirements to consider:
+
+### 1. User interface requirements
+The system should have a user-friendly and intuitive interface that is easy to navigate, with clear and concise instructions and prompts to guide users.
+
+### 2. Communication requirements
+The system should have various communication channels available, such as messaging, email, and push notifications, to allow students to stay connected with each other, instructors, and the institution.
+
+### 3. Collaboration requirements
+The system should have collaborative features, such as discussion forums, group projects, and virtual classrooms, to encourage student interaction and collaboration.
+
+### 4. Personalization requirements: 
+The system should allow students to personalize their experience, such as customizing their dashboard, choosing their preferred notification settings, and accessing personalized recommendations and resources.
+
+### 5. Analytics requirements
+The system should have analytics capabilities to track student engagement and performance, providing insights to instructors and the institution to help improve the learning experience.
+
+### 6. Mobile accessibility requirements
+The system should be designed with mobile accessibility in mind, with responsive design that adapts to various screen sizes and mobile-specific features, such as touch gestures and mobile payment integration.
+
+### 7. Accessibility requirements
+The system should meet accessibility guidelines to ensure that it can be used by students with disabilities, such as providing support for screen readers, keyboard navigation, and captioning.
+
+### 8. Security requirements
+The system should have strong security measures in place to protect the privacy and security of student data, including encryption and access control.
+
+
 
 ## Stakeholder
 ### 1. Students

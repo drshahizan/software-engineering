@@ -100,6 +100,35 @@ The system shall be designed to handle a large volume of users and transactions,
 ### Compatibility
 The system shall be compatible with different devices, operating systems, and web browsers.
 
+## System Requirements for Academic Advisor System
+The Academic Advisor System is a software application designed to assist academic advisors in managing student advising appointments, tracking student progress towards degree completion, and providing resources to students. The system will be developed to be user-friendly and accessible to all users.
+
+### Functional Requirements
+- User Registration: The system shall allow academic advisors to register with their basic information including name, email address, and password.
+
+- Appointment Scheduling: The system shall allow academic advisors to schedule and manage advising appointments with students, including selecting a time slot, setting appointment duration, and sending reminders.
+
+- Student Progress Tracking: The system shall allow academic advisors to track students' progress towards degree completion, including reviewing student transcripts, monitoring graduation requirements, and advising students on course selections.
+
+- Resource Management: The system shall allow academic advisors to manage resources, including providing access to student advising materials, keeping track of advising session notes, and sharing academic program information with students.
+
+- Communication: The system shall allow academic advisors and students to communicate with each other through the system, using messaging or email.
+
+- Reports: The system shall allow academic advisors to generate reports on student progress, appointment history, and other relevant information.
+
+### Non-Functional Requirements
+- User Interface: The system shall be user-friendly and have an intuitive interface that is easy to navigate.
+
+- Accessibility: The system shall be accessible to all users, including those with disabilities.
+
+- Security: The system shall have strong security measures in place to protect user data, including encryption and password protection.
+
+- Performance: The system shall be designed to handle a large volume of users and transactions, with fast response times and minimal downtime.
+
+- Scalability: The system shall be designed to scale up or down based on the number of users and the volume of transactions.
+
+- Compatibility: The system shall be compatible with different devices, operating systems, and web browsers.
+
 
 
 

@@ -70,6 +70,69 @@ Requirements traceability involves establishing links between the requirements a
 Requirements prioritization involves ranking the requirements based on their importance to the stakeholders and the feasibility of implementing them. The aim is to ensure that the most critical requirements are implemented first and that the system meets the needs and expectations of the stakeholders.
 
 
+## User requirements for a bus tracking system in a university:
+
+### 1.Real-time bus tracking:
+The system should provide real-time updates on the location and estimated arrival time of buses.
+
+### 2.Mobile-friendly interface:
+The system should have a mobile-friendly interface that is easy to use and accessible on any device.
+
+### 3.Customizable alerts:
+Users should be able to set up customized alerts for their preferred bus routes and stops.
+
+### 4.
+Map-based display: The system should display bus routes and stops on a map for easy navigation and visualization.
+
+### 5.
+Historical data: The system should provide access to historical data on bus routes and schedules for planning and analysis.
+
+### 6.Integration with other systems:
+The system should be integrated with other university systems, such as class schedules and campus maps, to provide a seamless user experience.
+
+### 7.Multi-language support:
+The system should support multiple languages to accommodate users from different cultural backgrounds.
+
+### 8.Accessibility features:
+The system should include accessibility features, such as text-to-speech and high-contrast modes, for users with disabilities.
+
+### 9.Privacy and security:
+The system should protect user privacy and data security by implementing appropriate access controls and encryption methods.
+
+### 10.Feedback and support:
+The system should provide a feedback mechanism for users to report issues or suggest improvements, as well as a support channel for technical assistance.
+
+## Here are some potential system requirements for a bus tracking system in a university:
+
+### 1.GPS tracking: 
+The system should be able to track the real-time location of buses using GPS technology.
+
+### 2.Data storage and management:
+The system should be able to store and manage large volumes of data, including bus routes, schedules, and usage statistics.
+
+### 3.Real-time data processing:
+The system should be able to process real-time data from multiple sources, including GPS, user input, and external systems.
+
+### 4.Map integration:
+The system should be able to integrate with map services, such as Google Maps or OpenStreetMap, to display bus routes and stops.
+
+### 5.Communication channels:
+The system should support multiple communication channels, such as SMS, email, or push notifications, to provide updates and alerts to users.
+
+### 6.Security and access controls:
+The system should implement appropriate security measures, such as authentication and authorization, to protect user data and prevent unauthorized access.
+
+### 7.Scalability and reliability:
+The system should be scalable and reliable, able to handle high volumes of traffic and provide uninterrupted service even during peak usage periods or in the event of system failures.
+
+### 8.Performance monitoring and optimization:
+The system should monitor its performance and optimize its resources, such as server load and network bandwidth, to ensure efficient and effective operation.
+
+### 9.Integration with external systems:
+The system should be able to integrate with other university systems, such as transportation management systems or student information systems, to exchange data and provide a seamless user experience.
+
+### 10.Compliance with standards and regulations:
+The system should comply with relevant standards and regulations, such as data protection laws and accessibility guidelines, to ensure legal and ethical use of user data.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

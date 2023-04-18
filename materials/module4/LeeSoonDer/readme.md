@@ -83,7 +83,7 @@ Prioritize requirements based on their importance to stakeholders and the projec
 These requirements for the requirements engineering process are just a starting point and will likely vary depending on the specific needs and goals of each university. The requirements engineering process should be tailored to the needs of the feedback system, ensuring that all requirements are complete, accurate, and feasible
 <br>
 
-<h2>User Requirements</h2>
+<h2>User Requirements for Student Feedback System</h2>
 <ul>
   <li>The system should allow students to provide anonymous feedback on courses and instructors.</li>
 <li>The system should be easily accessible and intuitive to use.</li>
@@ -98,7 +98,7 @@ These requirements for the requirements engineering process are just a starting 
 <li>The system should have a mechanism for identifying and addressing any inappropriate or abusive feedback.</li>
 <li>The system should be available to all students in the university, regardless of their major or level of study.</li>
 </ul>
-<h2>System Requirements</h2>
+<h2>System Requirements for Student Feedback System</h2>
 <ul>
 <li>The system should be web-based and accessible from any device with an internet connection.</li>
 <li>The system should be compatible with popular web browsers, such as Google Chrome, Mozilla Firefox, and Safari.</li>

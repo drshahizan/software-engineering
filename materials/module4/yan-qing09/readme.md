@@ -27,10 +27,6 @@ Once the system has been developed and tested, the next step is to deploy it. Th
 The final step is to maintain the system. This will involve fixing bugs, adding new features, and ensuring that the system is running smoothly. You will also need to keep the system up-to-date with the latest security patches to protect against cyber attacks.
 
 <br/>
-Overall, creating a student health and wellness management system requires careful planning, design, development, deployment, and maintenance. It is important to involve stakeholders throughout the process to ensure that the system meets their needs and is user-friendly.
-
-
-<br/>
 
 ## Requirement Engineering
 
@@ -47,6 +43,57 @@ Overview of the steps involved in the requirement engineering process for a heal
 5. Verification: This step involves ensuring that the requirements can be implemented in the system design and development. Verification checks the feasibility of the requirements, including their compatibility with existing technology and infrastructure.
 
 6. Management: Requirement management involves tracking and controlling changes to the requirements throughout the system development process. This includes documenting any changes made to the requirements, assessing the impact of those changes, and ensuring that the changes are communicated to all stakeholders.
+
+<br/>
+
+## User requirements and system requirements
+
+User Requirements:
+User requirements refer to the needs and expectations of the users of the system. In the case of a student health and wellness management system, the user requirements can include the following:
+
+1. Health Record Management:
+Students should be able to manage their health records easily, including uploading test results, vaccination records, and medical history.
+
+2. Appointment Scheduling:
+Students should be able to schedule appointments with healthcare professionals easily and quickly, without having to go through a long process.
+
+3. Reminders and Notifications:
+The system should provide students with reminders and notifications of upcoming appointments, medical check-ups, and other important healthcare-related events.
+
+4. User-Friendly Interface:
+The user interface of the system should be easy to use and navigate, even for those who are not tech-savvy.
+
+5. Access to Relevant Resources:
+The system should provide access to relevant health and wellness resources, including information about mental health, healthy eating, and physical exercise.
+
+<br/>
+
+System Requirements:
+System requirements refer to the features and functionalities that the system must have to meet the user requirements. In the case of a student health and wellness management system, the system requirements can include the following:
+
+1. Health Record Management System:
+The system should provide a comprehensive health record management system that enables students to manage their health records securely.
+
+2. Appointment Scheduling System:
+The system should have an appointment scheduling system that allows students to schedule appointments with healthcare professionals easily.
+
+3. Reminders and Notifications System:
+The system should have a reminders and notifications system that sends notifications to students about upcoming appointments, medical check-ups, and other healthcare-related events.
+
+4. User-Friendly Interface:
+The system should have a user-friendly interface that is easy to navigate and use.
+
+5. Security and Privacy:
+The system should have a robust security and privacy system that protects the confidentiality and integrity of student health records.
+
+6. Access to Relevant Resources:
+The system should provide access to relevant health and wellness resources, including information about mental health, healthy eating, and physical exercise.
+
+<br/>
+
+Overall, the user requirements and system requirements for a student health and wellness management system are focused on providing students with a comprehensive and user-friendly system for managing their health and wellness needs. The system should be easy to use, secure, and provide access to relevant resources to support students' health and wellness.
+
+
 
 
 

@@ -74,6 +74,45 @@ In summary, requirement engineering is a critical process for developing a stude
   <li><b>Full-stack engineers<b>: Responsible for developing both the frontend and backend components of the system, integrating them into a cohesive whole.</li>
   <li><b>DevOps engineers</b>: Responsible for ensuring the system's reliability, scalability, and security, as well as automating the deployment and testing processes.</li>
     <li><b>Data engineers</b>: Responsible for designing and implementing the system's data architecture, including data storage, processing, and analysis.</li>
+    </ul>
+    
+## User Requirements for a Student Engagement System
+   <ol type="1">
+     <li><b>Students:</b><br></li>
+       <ul type="bullet">
+         <li>Easy and intuitive interface to navigate and use the system</li>
+         <li>Access to personalized learning materials and assessments</li>
+         <li>Real-time feedback and progress tracking</li>
+         <li>Collaboration tools for group projects and peer-to-peer interactions</li>
+         <li>Mobile-friendly features for on-the-go learning</li>
+         <li>Gamification elements to keep students motivated and engaged</li>
+         <li>Tools for communication with teachers and classmates</li>
+         <li>Access to resources such as learning materials, academic support services, and extracurricular activities/li>
+       </ol>
+    <li><b>Teachers:</b><br>
+       <ul type="bullet">
+         <li>User-friendly interface for creating and managing courses and learning materials</li>
+         <li>Tools for tracking student progress and identifying areas for improvement</li>
+         <li>Real-time feedback and communication with students</li>
+         <li>Collaborative tools for team-teaching and peer support</li>
+         <li>Analytics and reporting capabilities for monitoring student engagement and performance</li>
+         <li>Customization options to adapt to various teaching styles and needs</li>
+         <li>Integration with other educational systems and tools for seamless workflows</li>
+       </ul>
+      
+## User Requirements for a Student Engagement System
+      <ol type="1">
+        <li>Scalability</li>
+        The system should be able to scale to accommodate a large number of users, including students, teachers, parents, and administrators.
+         <li>Security</li>
+        The system should have robust security features, including encryption, user authentication, and access controls, to protect sensitive student and institutional data.
+         <li>Accessibility</li>
+      The system should be accessible to all users, including those with disabilities, and should comply with accessibility standards.
+        <li>Performance</li>
+     The system should be fast and responsive, with minimal latency, to provide an optimal user experience.
+
+      
+    
 
 
 ## Contribution 🛠️
