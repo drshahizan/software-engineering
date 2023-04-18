@@ -1,1 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Floats Example</title>
+    <style>
+      .container {
+        width: 80%;
+        margin: 0 auto;
+      }
 
+      .col {
+        float: left;
+        width: 50%;
+        padding: 20px;
+        box-sizing: border-box;
+      }
+
+      .col img {
+        max-width: 100%;
+        height: auto;
+      }
+
+      .clearfix::after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container clearfix">
+      <div class="col">
+        <h2>Column One</h2>
+        <img
+          src="https://via.placeholder.com/300x200.png?text=Column+One"
+          alt="Column One Image"
+        />
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae
+          purus faucibus, consectetur sapien nec, aliquam urna. Nulla nec
+          pretium leo. Nullam vel diam in tellus dictum fringilla ac sit amet
+          elit.
+        </p>
+      </div>
+      <div class="col">
+        <h2>Column Two</h2>
+        <img
+          src="https://via.placeholder.com/300x200.png?text=Column+Two"
+          alt="Column Two Image"
+        />
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae
+          purus faucibus, consectetur sapien nec, aliquam urna. Nulla nec
+          pretium leo. Nullam vel diam in tellus dictum fringilla ac sit amet
+          elit.
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
