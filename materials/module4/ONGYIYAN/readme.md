@@ -36,6 +36,14 @@ Don't forget to hit the :star: if you like this repo.
 
 9. **Management:** Finally, the requirements need to be managed throughout the development process to ensure that they are properly tracked, traced, and prioritized. This involves creating a requirements traceability matrix, which links the requirements to the design, implementation, and testing of the system.
 
+##Stakeholders
+
+1. **University Staff:** This includes administrators, professors, and support staff who are responsible for managing and supporting the system. They have a stake in the system's success because it affects their work and the overall functioning of the university.
+
+2. **Health and Wellness Professionals:** This includes physicians, nurses, counselors, and other professionals who work in the health and wellness department of the university. They have a stake in the system's success because it affects their ability to provide quality care and support to the students.
+
+3. **Students:** Students are the primary users of the system, and they have a stake in its success because it affects their health and well-being. They need a system that is easy to use, provides them with accurate and timely information, and enables them to access the services and support they need.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 

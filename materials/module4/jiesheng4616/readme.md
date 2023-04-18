@@ -26,9 +26,14 @@ The fitness tracking app will include the following features:
 
 ## Stakeholders
 The stakeholders for this project include:
-- The development team, who will be responsible for designing, developing, and maintaining the app
-- The end-users, who will be using the app to track their fitness progress and achieve their goals
-- The marketing team, who will be responsible for promoting the app and acquiring new users
+
+- End-users: These are the individuals who will be using the app, such as fitness enthusiasts or individuals looking to track their physical activity. They may provide input on the features and functionalities they desire in the app.
+
+- Marketing teams: These teams may provide input on the app's target audience, market trends, and the competition. They may help identify gaps in the market or opportunities to differentiate the app.
+
+- Development teams: These teams will be responsible for developing the app and ensuring it meets the requirements specified in the SRD. They may provide input on the technical feasibility of the requirements and identify any potential challenges in implementing them.
+
+- Project managers: These individuals will be responsible for overseeing the development of the app and ensuring that it is delivered on time and within budget. They may provide input on project timelines, resource allocation, and risk management.
 
 ## Use Cases
 The following use cases have been identified for the fitness tracking app:
