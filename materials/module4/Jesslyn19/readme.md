@@ -34,7 +34,6 @@ Evaluate the system's effectiveness and gather feedback from students and educat
 In summary, developing a student engagement system requires careful planning, design, development, testing, launch, and evaluation. It is essential to involve students and educators in the process to ensure that the system meets their needs and achieves the intended goals.
 
 # Requirement Engineering Process
-
 Requirement engineering is a critical process in the development of any software system, including a student engagement system. Here are some steps you can follow to perform requirement engineering for a student engagement system:
 
 ### Identify stakeholders:
@@ -67,6 +66,73 @@ In summary, requirement engineering is a critical process for developing a stude
 - The ability to provide personalized learning experiences based on individual student needs and learning styles.
 - Integration with other learning management systems, such as course management or grade tracking systems.
 - Support for multiple engagement activities, such as quizzes, group work, and discussions.
+
+# User requirement
+Here are some user requirements for a student engagement system:
+
+### User-Friendly Interface:
+The student engagement system should have a user-friendly interface that is easy to navigate and use. It should be accessible to all users, including those with disabilities.
+
+### Personalization:
+The system should allow students to personalize their learning experience based on their individual needs and preferences. This could include personalized feedback, customized learning paths, or the ability to select their own learning resources.
+
+### Real-Time Feedback:
+The system should provide real-time feedback to students on their progress and performance. This could include feedback on quizzes, assignments, or other activities.
+
+### Interactive Activities:
+The system should provide interactive activities that engage students in the learning process. This could include group work, discussions, and simulations.
+
+### Attendance Tracking:
+The system should allow teachers to track student attendance and participation in class activities.
+
+### Communication:
+The system should provide a communication platform for students to interact with teachers and other students. This could include discussion forums, chat rooms, or messaging.
+
+### Mobile Access:
+The system should be accessible on mobile devices, allowing students to access learning materials and activities from anywhere at any time.
+
+### Integration:
+The system should integrate with other learning management systems, such as course management or grade tracking systems, to provide a seamless learning experience.
+
+### Analytics and Reporting:
+The system should provide analytics and reporting tools that allow teachers and administrators to track student progress and identify areas for improvement.
+
+Overall, a student engagement system should be designed with the user in mind, providing a personalized and engaging learning experience that meets the needs of students and teachers alike.
+
+# System Requirement
+Here are some system requirements for a student engagement system:
+
+### Scalability:
+The system should be able to handle a large number of users, including students, teachers, and administrators.
+
+### Security:
+The system should be secure, with robust authentication and authorization mechanisms, to ensure that only authorized users can access sensitive data.
+
+### Performance:
+The system should be able to handle a large number of concurrent users without significant degradation in performance.
+
+### Availability:
+The system should be highly available, with minimal downtime or disruption to users.
+
+### Reliability:
+The system should be reliable, with minimal errors, crashes, or data loss.
+
+### Compatibility:
+The system should be compatible with a wide range of devices and operating systems, including mobile devices, laptops, and desktop computers.
+
+### Interoperability:
+The system should be able to integrate with other learning management systems and educational technology tools.
+
+### Flexibility:
+The system should be flexible, allowing teachers to customize learning experiences and activities based on their students' needs and preferences.
+
+### Data Management:
+The system should be able to manage and store large amounts of data, including student records, course materials, and learning analytics.
+
+### Compliance:
+The system should comply with relevant data privacy and security regulations, such as the General Data Protection Regulation (GDPR) and the Family Educational Rights and Privacy Act (FERPA).
+
+Overall, a student engagement system should be designed with scalability, security, performance, availability, reliability, compatibility, interoperability, flexibility, data management, and compliance in mind to ensure that it meets the needs of students, teachers, and administrators.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
