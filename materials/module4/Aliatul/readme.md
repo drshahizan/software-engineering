@@ -103,31 +103,40 @@ Describe the characteristics that a delivery service system for a university mus
 
   - Compliance: The system should comply with relevant regulations and standards, such as data privacy laws and industry standards.
 
-## 6. Choose a technology platform :
+## 6. Goal
+The goal of a delivery service system for a university is to provide a convenient, reliable, and efficient way for students, faculty, and staff to send and receive packages within the university campus or surrounding area. The system aims to simplify the package delivery process, reduce the burden of package management on university staff, and improve the overall experience for package senders and recipients.
+
+By implementing a delivery service system, the university can enhance its reputation as a student-focused institution that prioritizes the needs and convenience of its students. The system can also help to reduce package theft, loss, and damage by providing secure package storage and tracking.
+
+Additionally, the delivery service system can save time and resources for university staff who would otherwise need to manage package deliveries manually. With the help of a delivery service system, staff can focus on other important tasks while ensuring that packages are delivered efficiently and reliably.
+
+Overall, the goal of a delivery service system for a university is to provide a convenient and efficient solution to package delivery that meets the needs of students, faculty, and staff while enhancing the reputation and efficiency of the university.
+
+## 7. Choose a technology platform :
 
 Select a technology platform for the system, including the programming language, database, and web server. Ensure that the technology platform is scalable, secure, and easy to maintain.
 
-## 7. Design the system architecture :
+## 8. Design the system architecture :
 
 Design the system architecture, including the database, user interface, and system components. Ensure that the architecture is scalable, secure, and follows best practices.
 
-## 8. Develop and test the system :
+## 9. Develop and test the system :
 
 Develop the system using a software development life cycle (SDLC) methodology. Test the system thoroughly before deployment to ensure that it meets the stakeholders' needs and requirements.
 
-## 9. Deploy and maintain the system :
+## 10. Deploy and maintain the system :
 
 Deploy the system to the production environment. Maintain and update the system regularly to ensure that it continues to meet the stakeholders' needs and requirements.
 
-## 10. Establish partnerships with carriers and payment providers :
+## 11. Establish partnerships with carriers and payment providers :
 
 Establish partnerships with carriers to ensure reliable delivery services and payment providers to process payments securely and efficiently.
 
-## 11. Implement effective parcel tracking :
+## 12. Implement effective parcel tracking :
 
 Implement an effective parcel tracking system to enable shippers and recipients to track their parcels' status in real-time.
 
-## 12. Monitor and improve system performance :
+## 13. Monitor and improve system performance :
 
 Continuously monitor the system performance, identify areas of improvement, and implement changes to enhance the system's performance.
 
