@@ -12,6 +12,25 @@ Identify the number of parcels, destinations, and users that will be using the s
 
 Determine who will be using the system, including shippers, carriers, and recipients. Understand their needs and requirements to ensure that the system meets their expectations. Gather information from OPC, CPP and students(Recipients).
 - User requirements.
+
+  - Integration with the university system: The delivery service system should be integrated with the university's existing systems, such as the student information system, to ensure that the delivery addresses and contact information are accurate and up-to-date.
+
+  - Secure and confidential delivery: The system should provide secure and confidential delivery to ensure that only the intended recipient receives the package.
+
+  - Flexible delivery options: The system should provide flexible delivery options to accommodate different types of packages and delivery needs, including same-day and next-day delivery, scheduled deliveries, and pick-up options.
+
+  - Real-time tracking and notifications: The system should provide real-time tracking and notifications to keep the recipient informed about the delivery status and estimated delivery time.
+
+  - Efficient and reliable delivery: The system should provide efficient and reliable delivery to ensure that packages are delivered on time and in good condition.
+
+  - User-friendly interface: The system should have a user-friendly interface that is easy to navigate, especially for students who may be unfamiliar with the system.
+
+  - Integration with mobile devices: The system should be accessible through mobile devices, allowing students to track their packages on-the-go.
+
+  - Payment options: The system should provide flexible payment options, including payment through the student's university account or other payment methods.
+
+  - Responsive customer support: The system should provide responsive customer support, including a help desk, chat support, or email support, to assist with any issues or questions.
+
 - System requirements.
 
 ## 3. Define the system requirements:
