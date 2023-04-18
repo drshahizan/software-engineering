@@ -44,6 +44,51 @@ Don't forget to hit the :star: if you like this repo.
 <br><br>
 <b>10.Requirements Maintenance:</b> Maintaining the requirements throughout the product lifecycle. This includes updating the requirements as changes occur, ensuring that the requirements are still relevant, and ensuring that they meet the needs of the stakeholders.
 
+<h2>User requirements</h2>
+<b>1.Easy to use:</b> The system should be easy to use for both students and faculty, with an intuitive and user-friendly interface.
+<br><br>
+<b>2.Availability:</b> The system should be available online and accessible from any device, allowing students to submit feedback anytime, anywhere.
+<br><br>
+<b>3.Anonymity:</b> The system should allow students to submit feedback anonymously, to encourage honest and open feedback.
+<br><br>
+<b>4.Flexibility:</b> The system should be flexible enough to allow for different types of feedback, including multiple choice, rating scales, and open-ended questions.
+<br><br>
+<b>5.Customization:</b> The system should allow for customization, allowing different departments or faculties to create their own feedback forms and questions.
+<br><br>
+<b>6.Notifications:</b> The system should send notifications to students and faculty when feedback is received, and provide real-time data analytics and reporting.
+<br><br>
+<b>7.Security:</b> The system should have strong security measures in place to protect student data and maintain the confidentiality of the feedback.
+<br><br>
+<b>8.Integration:</b> The system should integrate with other university systems, such as the Learning Management System (LMS), to provide a seamless user experience.
+<br><br>
+<b>9.Accessibility:</b> The system should be accessible to students with disabilities, and comply with accessibility standards such as the Web Content Accessibility Guidelines (WCAG).
+<br><br>
+<b>10.Data Analysis:</b> The system should provide powerful data analysis tools that allow faculty to identify trends and areas for improvement, and track progress over time.
+<br><br>
+These user requirements should provide a good foundation for developing a Student Feedback System in university that meets the needs of both students and faculty.
+
+<h2>System requirements</h2>
+<b>1.Database management:</b> The system should have a secure database to store student feedback and related information.
+<br><br>
+<b>2.Authentication and Authorization:</b> The system should provide secure authentication and authorization mechanisms for students and faculty to access the system.
+<br><br>
+<b>3.Scalability:</b> The system should be scalable to handle large amounts of data and support multiple users accessing the system simultaneously.
+<br><br>
+<b>4.Usability:</b> The system should be user-friendly and easy to use, with an intuitive interface that can be easily navigated.
+<br><br>
+<b>5.Customizability:</b> The system should be customizable to allow for different types of feedback forms, questions, and other configurations.
+<br><br>
+<b>6.Reporting:</b> The system should provide robust reporting capabilities, including the ability to generate custom reports and track progress over time.
+<br><br>
+<b>7.Integration:</b> The system should integrate with other university systems such as the Learning Management System (LMS), Student Information System (SIS), and faculty portals.
+<br><br>
+<b>8.Security:</b> The system should have robust security measures in place to protect against data breaches and unauthorized access.
+<br><br>
+<b>9.Maintenance and Support:</b> The system should have a maintenance and support plan in place, with regular updates and bug fixes, and support for user issues and inquiries.
+<b>10.Web-based platform:</b> The system should be accessible through a web-based platform that can be accessed from any device with an internet connection.
+<br><br>
+These system requirements should help ensure that the Student Feedback System in university is robust, secure, and provides a seamless user experience for students and faculty.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
