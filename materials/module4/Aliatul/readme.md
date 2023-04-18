@@ -11,7 +11,7 @@ Identify the number of parcels, destinations, and users that will be using the s
 ## 2. Identify the stakeholders :
 
 Determine who will be using the system, including shippers, carriers, and recipients. Understand their needs and requirements to ensure that the system meets their expectations. Gather information from OPC, CPP and students(Recipients).
-- User requirements.
+### User requirements.
 
   - Integration with the university system: The delivery service system should be integrated with the university's existing systems, such as the student information system, to ensure that the delivery addresses and contact information are accurate and up-to-date.
 
@@ -36,7 +36,7 @@ Determine who will be using the system, including shippers, carriers, and recipi
 
 Determine the features and functionality required for the system, such as parcel tracking, payment processing, and delivery options. Consider the user interface, security, integration with other systems, scalability, performance, and maintenance requirements.
 
-- System requirements : 
+### System requirements : 
 
   - Scalability: The system should be able to handle a high volume of package deliveries, especially during peak times, such as the start and end of the semester.
 
