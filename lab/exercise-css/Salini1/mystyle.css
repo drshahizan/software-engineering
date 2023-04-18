@@ -1,8 +1,8 @@
-p {
-    color: red;  /* Set text color to red */
-  }
-#name{
-    color:blue;
-    font-size: x-large;
-    text-align: center;
+.box {
+  width: 300px;
+  height: 150px;
+  padding: 20px;
+  border: 5px solid black;
+  margin: 50px;
+  background-color: lightblue;
 }

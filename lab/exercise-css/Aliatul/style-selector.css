@@ -4,7 +4,7 @@ h1 {
   }
   
   p {
-    font-size: 16px;
+    font-size: 20px;
   }
   
   /* Class selector styles */
@@ -18,11 +18,11 @@ h1 {
   
   /* ID selector styles */
   #special-text {
-    font-style: italic;
+    font-style: arial;
   }
   
   /* Specificity demonstration styles */
   .text#special-text {
-    color: green;
-    font-size: 24px;
+    color: yellow;
+    font-size: 30px;
   }
