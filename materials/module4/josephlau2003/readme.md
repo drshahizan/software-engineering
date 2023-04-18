@@ -1,41 +1,47 @@
-Software Requirements Document (SRD) for Sport Hall Facilities Booking System
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Software Requirements Document for Sport Hall Facilities Booking System</title>
+</head>
+<body>
+	<h1>Introduction</h1>
+	<p>The Sport Hall Facilities Booking System is a software solution that will help users to manage the booking of sports facilities more efficiently. The purpose of this document is to outline the functional and non-functional requirements of the system.</p>
+ <h2>System Overview</h2>
+<p>The Sport Hall Facilities Booking System will be a web-based application that allows users to book sports facilities, view availability, and manage their personal information. The system will be accessible through a secure login portal, and each user will have a unique login ID and password.</p>
 
-Introduction
-The Sport Hall Facilities Booking System is a software solution that will help users to manage the booking of sports facilities more efficiently. The purpose of this document is to outline the functional and non-functional requirements of the system.
+<h2>Functional Requirements</h2>
+<ol>
+	<li>Facility Booking - Users should be able to book sports facilities online, view facility schedules, and check availability.</li>
+	<li>Facility Management - Administrators should be able to manage facility schedules, availability, and set up facility closures and maintenance periods.</li>
+	<li>User Management - Administrators should be able to manage user accounts, monitor facility usage, and generate reports.</li>
+	<li>Payment Management - Payment management should include tracking payments, issuing refunds, and generating invoices.</li>
+	<li>Notification Management - Notification management should include automated email and SMS notifications to users regarding their bookings and facility updates.</li>
+</ol>
 
-System Overview
-The Sport Hall Facilities Booking System will be a web-based application that allows users to book sports facilities, view availability, and manage their personal information. The system will be accessible through a secure login portal, and each user will have a unique login ID and password.
+<h2>Non-Functional Requirements</h2>
+<ol>
+	<li>Performance - The system should be able to handle a large number of users simultaneously without any delays or interruptions.</li>
+	<li>Security - The system should have robust security measures in place to protect user data, prevent unauthorized access, and ensure system integrity.</li>
+	<li>Usability - The system should be easy to use and navigate, with a user-friendly interface and intuitive controls.</li>
+	<li>Reliability - The system should be reliable, with minimal downtime, and a fast response time in case of any errors or issues.</li>
+	<li>Accessibility - The system should be accessible to users with disabilities, including support for screen readers and keyboard navigation.</li>
+</ol>
 
-Functional Requirements
-3.1. Facility Booking - Users should be able to book sports facilities online, view facility schedules, and check availability.
-3.2. Facility Management - Administrators should be able to manage facility schedules, availability, and set up facility closures and maintenance periods.
-3.3. User Management - Administrators should be able to manage user accounts, monitor facility usage, and generate reports.
-3.4. Payment Management - Payment management should include tracking payments, issuing refunds, and generating invoices.
-3.5. Notification Management - Notification management should include automated email and SMS notifications to users regarding their bookings and facility updates.
+<h2>User Interface Requirements</h2>
+<p>The user interface should be intuitive, with clear and concise instructions and help documentation. The interface should be customizable, allowing users to personalize their profiles and preferences.</p>
 
-Non-Functional Requirements
-4.1. Performance - The system should be able to handle a large number of users simultaneously without any delays or interruptions.
-4.2. Security - The system should have robust security measures in place to protect user data, prevent unauthorized access, and ensure system integrity.
-4.3. Usability - The system should be easy to use and navigate, with a user-friendly interface and intuitive controls.
-4.4. Reliability - The system should be reliable, with minimal downtime, and a fast response time in case of any errors or issues.
-4.5. Accessibility - The system should be accessible to users with disabilities, including support for screen readers and keyboard navigation.
+<h2>Data Requirements</h2>
+<p>The system should be able to store and manage user data, including booking information, payment information, and personal information. The system should also be able to generate reports based on this data.</p>
 
-User Interface Requirements
-The user interface should be intuitive, with clear and concise instructions and help documentation. The interface should be customizable, allowing users to personalize their profiles and preferences.
+<h2>System Architecture</h2>
+<p>The system should be a web-based application, built on a scalable and modular architecture. The system should be hosted on a reliable and secure server, with regular backups and disaster recovery plans in place.</p>
 
-Data Requirements
-The system should be able to store and manage user data, including booking information, payment information, and personal information. The system should also be able to generate reports based on this data.
+<h2>Testing Requirements</h2>
+<p>The system should undergo rigorous testing, including functional and non-functional testing, user acceptance testing, and performance testing.</p>
 
-System Architecture
-The system should be a web-based application, built on a scalable and modular architecture. The system should be hosted on a reliable and secure server, with regular backups and disaster recovery plans in place.
+<h2>Acceptance Criteria</h2>
+<p>The system should meet all the requirements outlined in this document, and any additional requirements specified by the stakeholders. The system should be delivered on time and within the specified budget.</p>
 
-Testing Requirements
-The system should undergo rigorous testing, including functional and non-functional testing, user acceptance testing, and performance testing.
+<h2>Assumptions and Constraints</h2>
+<p>The development team will assume that the system will be compatible with all modern web browsers and operating systems. The development team will also assume that there will be no major changes to the sports facilities during the development and testing process. The development team is constrained by the budget
 
-Acceptance Criteria
-The system should meet all the requirements outlined in this document, and any additional requirements specified by the stakeholders. The system should be delivered on time and within the specified budget.
-
-Assumptions and Constraints
-The development team will assume that the system will be compatible with all modern web browsers and operating systems. The development team will also assume that there will be no major changes to the sports facilities during the development and testing process. The development team is constrained by the budget and timeline specified by the stakeholders.
-
-Overall, the SRD is a critical document that outlines the functional and non-functional requirements of the Sport Hall Facilities Booking System. By following the guidelines and specifications outlined in the SRD, the development team can ensure that the final product meets the needs of the sports facilities and stakeholders.
