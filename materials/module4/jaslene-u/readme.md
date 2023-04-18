@@ -30,13 +30,13 @@ Once the system is tested and approved, it needs to be deployed on the universit
 ### 6.Test the system:
 Perform thorough testing to ensure that the system is functioning correctly and meets all the requirements.
 
-###7.Implement the system: 
+### 7.Implement the system: 
 Install and deploy the attendance system in the school environment.
 
-###8Train users: 
+### 8.Train users: 
 Train teachers and administrators on how to use the system effectively.
 
-###9.Maintain and update the system: 
+### 9.Maintain and update the system: 
 Monitor the system for issues and update it as needed to ensure it remains up-to-date and functioning properly.
 
 ## Requirements Engineering

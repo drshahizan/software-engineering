@@ -20,28 +20,30 @@ Administrators: They are responsible for implementing the feedback system and en
 Support staff: They may be responsible for collecting and analyzing feedback data, or providing technical support for the feedback system.
 
 Parents: In some cases, parents may also be stakeholders, particularly if the feedback system includes questions about their involvement in their child's education.
-
+<ul>
 <h2>Developing a student feedback system for a university requires careful planning and execution. Here are some steps to develop a student feedback system for a university:</h2>
 
-Define the <b>objectives and goals</b> of the feedback system: Before creating a student feedback system, it is important to identify what the feedback will be used for, what specific goals the system will serve, and what type of data will be collected.
+<li>Define the <b>objectives and goals</b> of the feedback system: Before creating a student feedback system, it is important to identify what the feedback will be used for, what specific goals the system will serve, and what type of data will be collected.</li>
 
-Determine the <strong>scope</strong> of the feedback system: This includes identifying which groups of students will be surveyed, how often the feedback will be collected, and what topics the feedback will cover.
+<li>Determine the <strong>scope</strong> of the feedback system: This includes identifying which groups of students will be surveyed, how often the feedback will be collected, and what topics the feedback will cover.</li>
 
-Choose the appropriate <strong>feedback method</strong>: Determine the best method for collecting feedback, such as paper-based surveys, online surveys, focus groups, or individual interviews.
+<li>Choose the appropriate <strong>feedback method</strong>: Determine the best method for collecting feedback, such as paper-based surveys, online surveys, focus groups, or individual interviews.</li>
 
-Develop a <strong>feedback instrument</strong>: Create a questionnaire or survey instrument that asks relevant and appropriate questions that align with the objectives and goals of the feedback system. It should also be easy to understand and navigate.
+<li>Develop a <strong>feedback instrument</strong>: Create a questionnaire or survey instrument that asks relevant and appropriate questions that align with the objectives and goals of the feedback system. It should also be easy to understand and navigate.</li>
 
-Pilot test the <strong>feedback instrument</strong>: Test the feedback instrument with a small group of students before distributing it widely to ensure that it is effective, efficient, and that the data collected is relevant and meaningful.
+<li>Pilot test the <strong>feedback instrument</strong>: Test the feedback instrument with a small group of students before distributing it widely to ensure that it is effective, efficient, and that the data collected is relevant and meaningful.</li>
 
-Distribute and <strong>collect the feedback</strong>: Implement the feedback system by distributing the feedback instrument to the appropriate group of students, and collect the responses using the chosen method.
+<li>Distribute and <strong>collect the feedback</strong>: Implement the feedback system by distributing the feedback instrument to the appropriate group of students, and collect the responses using the chosen method.</li>
 
-Analyze and <strong>interpret the data</strong>: Organize, analyze and interpret the feedback data to identify trends, patterns, and areas for improvement. The data should be presented in a way that is easy to understand, with actionable recommendations for improvement.
+<li>Analyze and <strong>interpret the data</strong>: Organize, analyze and interpret the feedback data to identify trends, patterns, and areas for improvement. The data should be presented in a way that is easy to understand, with actionable recommendations for improvement.</li>
 
-Disseminate the <strong>results</strong>: Share the results with stakeholders, including faculty, students, administrators, and support staff, to build trust and foster collaboration. This can be done through reports, presentations, or interactive feedback sessions.
+<li>Disseminate the <strong>results</strong>: Share the results with stakeholders, including faculty, students, administrators, and support staff, to build trust and foster collaboration. This can be done through reports, presentations, or interactive feedback sessions.</li>
 
-Implement <strong>changes and improvements</strong>: Use the feedback data to inform changes and improvements to teaching methods, curriculum, and university policies.
+<li>Implement <strong>changes and improvements</strong>: Use the feedback data to inform changes and improvements to teaching methods, curriculum, and university policies.</li>
 
-Evaluate and <strong>update the feedback system</strong>: Periodically evaluate the effectiveness and efficiency of the feedback system to ensure that it continues to serve the objectives and goals of the university. Update the system as necessary to reflect changing needs and requirements.
+<li>Evaluate and <strong>update the feedback system</strong>: Periodically evaluate the effectiveness and efficiency of the feedback system to ensure that it continues to serve the objectives and goals of the university. Update the system as necessary to reflect changing needs and requirements.</li>
+
+</ul》
 
 
 ## Contribution 🛠️
