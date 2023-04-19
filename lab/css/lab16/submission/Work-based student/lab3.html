@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+  <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed" rel="stylesheet" type="text/css" />
+
+  <style>
+    html {
+      height: 100%;
+      background: linear-gradient(180deg, white, rgb(37, 229, 197) 80%);
+      font-family: 'Poppins';
+    }
+
+    body {
+      height: 0%;
+      color: white;
+    }
+
+    .login-box {
+      background-color: #575b5acd;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      -webkit-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+      width: 300px;
+      height: 250px;
+      border-radius: 3%;
+      box-shadow: 0px -5px 10px 0px rgba(0, 0, 0, 0.235)
+    }
+
+    h2 {
+      text-align: center;
+      font-style: bold;
+      font-weight: 900;
+      color: white;
+      font-size: 20px;
+      padding-bottom: 25px;
+      padding-top: 10px;
+    }
+
+    .user-box {
+      display: grid;
+      grid-template-rows: repeat(auto-fit, 1fr);
+      /* auto-fit ensures that the rows expand to fill the available space */
+      gap: 10px;
+      /* optional gap between rows */
+    }
+
+    label {
+      text-align: left;
+      padding-left: 30px;
+      font-size: 12px;
+      transition: 0.2s ease-in;
+      position:relative;
+      bottom:65px;
+    }
+
+    input {
+      background-color: rgba(0, 0, 0, 0);
+      border: none;
+      border-bottom: 1px solid #ffffff;
+      outline: none;
+      width: 240px;
+      margin: -20px -50px 30px 30px;
+      text-align: left;
+      color: white;
+      width:80%;
+    
+    }
+
+
+    input:valid ~ label,
+    input:focus ~ label {
+      font-size:10px;
+      color:aqua;
+      transform: translateY(-10px);
+    }
+
+    a {
+      color:white;
+      text-decoration: none;
+      font-size: 12px;
+      letter-spacing:3px;
+      margin-left:28px;
+      padding-left:15px;
+      padding-right:15px;
+      padding-bottom:5px;
+      padding-top:5px;
+      border-radius:5px;
+      text-align:center;
+      border:hidden;
+      transition: 0.3s;
+      position:relative;
+      bottom:20px;
+    
+    }
+
+    a:hover {
+      background-color:rgb(11, 246, 246);
+      box-shadow:0 0 10px aqua;
+    }
+
+  </style>
+</head>
+
+<body>
+  <div class="login-box">
+    <h2>Login</h2>
+    <form>
+      <div class="user-box">
+        <input type="text" value="" required="required" />
+        <label>Username</label>
+      </div>
+      <div class="user-box">
+        <input type="password" value="" required="required" />
+        <label>Password</label>
+      </div>
+      <a href="#">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        SUBMIT
+      </a>
+    </form>
+  </div>
+</body>
+
+</html>
