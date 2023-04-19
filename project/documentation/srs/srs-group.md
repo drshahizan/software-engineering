@@ -56,6 +56,33 @@ An example of a lists tasks in the IEEE Software Requirements Specifications doc
 
 In this example, the table lists the team members, their roles, the tasks they are responsible for, the status of each task, and the date when the status was last updated. The date column provides a clear record of when each task was last updated and helps track the progress of the project over time. For instance, we can see that Camily Tang completed the project plan on January 1st, 2022, and that Bernice Lim  partially completed the system documentation on February 28th, 2022. Additionally, we can see that Chai Yu Tong assigned the task of implementing software functionality to Thevan Raju on March 1st, 2022, and that both developers have not yet completed their assigned tasks as of that date.
 
+## Task 2: Document
+You need to prepare documents related to Software Requirements Specifications. Here are some instructions on how to prepare documents related to Software Requirements Specifications (SRS):
+
+1. **Identify stakeholders**: Identify all stakeholders involved in the software development process, including end-users, project managers, and developers.
+
+2. **Gather requirements**: Gather all requirements for the software application from stakeholders, including functional and non-functional requirements.
+
+3. **Analyze requirements**: Analyze requirements to determine which ones are feasible and essential to the project. Prioritize requirements based on their importance.
+
+4. **Define scope**: Define the scope of the project by identifying the boundaries of what the software will and will not do.
+
+5. **Choose a standard format**: Choose a standard format for the SRS document, such as the IEEE standard format.
+
+6. **Create the SRS document**: Create the SRS document using the chosen format. The SRS document should include an introduction, functional requirements, non-functional requirements, use cases, and any additional information.
+
+7. **Use clear and concise language**: Use clear and concise language to describe requirements, ensuring they are unambiguous and easily understood.
+
+8. **Organize requirements**: Organize requirements into sections, using headings and subheadings to make the document easy to navigate.
+
+9. **Provide diagrams and illustrations**: Provide diagrams and illustrations to help visualize the software application and how it will function.
+
+10. **Review and revise**: Review the SRS document with all stakeholders and make any necessary revisions to ensure all requirements are captured.
+
+11. **Define acceptance criteria**: Define acceptance criteria for the software application based on the SRS document. The acceptance criteria should be clear and measurable.
+
+By following these instructions, you can prepare a comprehensive Software Requirements Specifications (SRS) document that outlines all the necessary requirements for the software application. This document will serve as a roadmap for the development and testing of the software application, ensuring that it meets all the necessary criteria for success.
+
 ## Section 1
 
 | No | Topic | Description | Activity | Document |
