@@ -44,7 +44,7 @@ By organizing the team members' roles and assigned tasks in this way, the projec
 
 An example of a lists tasks in the IEEE Software Requirements Specifications documentation:
 
-| Member Name | Role	| Task	| Status	| Date |
+No | Member Name | Role	| Task	| Status	| Date |
 | ----- | ------ | ------ | ------ | ------ |
 | Camily Tang | Project Manager | Create project plan | Complete | 01/01/2022|
 | Wan Nur Sofea | Requirements Analyst | Gather user requirements | Partially Complete | 02/15/2022|
