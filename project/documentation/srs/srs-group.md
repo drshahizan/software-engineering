@@ -47,6 +47,18 @@ Stakeholders are individuals or groups who have a vested interest in the success
     <td>Professor</td>
     <td>Provide input on course requirements and scheduling</td>
   </tr>
+    <tr>
+    <td>Lim Jing Yong</td>
+    <td>Faculty Member</td>
+    <td>Lecturer</td>
+    <td>Provide input on course requirements and scheduling</td>
+  </tr>
+    <tr>
+    <td>Soh Han Wei</td>
+    <td>Student</td>
+    <td>Undergraduate</td>
+    <td>Provide feedback on usability and functionality of system from a student perspective</td>
+  </tr>
   <tr>
     <td>Arini Fatihah</td>
     <td>Administrator</td>
@@ -55,6 +67,18 @@ Stakeholders are individuals or groups who have a vested interest in the success
   </tr>
   <tr>
     <td>Soh Han Wei</td>
+    <td>Student</td>
+    <td>Undergraduate</td>
+    <td>Provide feedback on usability and functionality of system from a student perspective</td>
+  </tr>
+    <tr>
+    <td>Nur Farah Adibah</td>
+    <td>Student</td>
+    <td>Undergraduate</td>
+    <td>Provide feedback on usability and functionality of system from a student perspective</td>
+  </tr>
+    <tr>
+    <td>Lee Soon Der</td>
     <td>Student</td>
     <td>Undergraduate</td>
     <td>Provide feedback on usability and functionality of system from a student perspective</td>
