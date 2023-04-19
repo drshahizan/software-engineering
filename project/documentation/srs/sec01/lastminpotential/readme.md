@@ -8,7 +8,8 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Activity: Group XXX
+# Activity: Group Lastminpotential
+
 
 ## Tasks involved in developing SRC documentation:
 
