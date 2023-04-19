@@ -31,6 +31,9 @@ By following these instructions, each group can effectively enter and update the
 
 ## Task 1: Activity
 
+### abc
+### Assigning Taks and progress
+
 This information pertains to the project team members and how to list their roles and assigned tasks in a table for the IEEE Software Requirements Specifications documentation. The table should have a section for tasks that are complete, partially complete, and incomplete. If an assigned task is not done and has been assigned to another team member, this information should be stated in the table as well. The table should include the following columns:
 
 - **Member Name**: The name of the team member
