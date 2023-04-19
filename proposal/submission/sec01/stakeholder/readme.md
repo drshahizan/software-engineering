@@ -9,14 +9,15 @@ Don't forget to hit the :star: if you like this repo.
 
 #  Proposal Template
 
-## Project Title
+## Student Accommodation System in Kolej Tun Dr Ismail (KTDI)
 
 
-### Prepared by: <Group name>
-  1. Name and matrix no
-  2. Name and matrix no
-  3. Name and matrix no
-  4. Name and matrix no
+### Prepared by: <stakeholder>
+  1. Neo Zheng Weng A22EC0093
+  2. WONG KHAI SHIAN NICHOLAS A22EC0292
+  3. JOSEPH LAU YEO KAI A22EC0055
+  4. LOW JIE SHENG A22EC0075
+  5. MUHAMMAD DANIAL BIN AHMAD SYAHIR A22EC0206
 
 ### Table of Contents
 - [Table of Contents](#table-of-contents)
