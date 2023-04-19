@@ -34,26 +34,30 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-## Group Members
+## Stakeholder
 <table>
   <tr>
     <th>Name</th>
+    <th>Stakeholder</th>
     <th>Position</th>
+    <th>Responsibility</th>
   </tr>
   <tr>
     <td>1</td>
     <td></td>
+    <td></td>
+    <td></td>
   </tr>
-  <tr>
+    <tr>
     <td>2</td>
+    <td></td>
+    <td></td>
     <td></td>
   </tr>
     <tr>
     <td>3</td>
     <td></td>
-  </tr>
-    <tr>
-    <td>4</td>
+    <td></td>
     <td></td>
   </tr>
 </table>
