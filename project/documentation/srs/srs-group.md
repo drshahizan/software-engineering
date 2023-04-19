@@ -68,7 +68,7 @@ Stakeholders are individuals or groups who have a vested interest in the success
     <tr>
     <td>Soh Han Wei</td>
     <td>Student</td>
-    <td>Undergraduate</td>
+    <td>Postgraduate</td>
     <td>Provide feedback on usability and functionality of system from a student perspective</td>
   </tr>
     <tr>
@@ -80,7 +80,7 @@ Stakeholders are individuals or groups who have a vested interest in the success
     <tr>
     <td>Lee Soon Der</td>
     <td>Student</td>
-    <td>Undergraduate</td>
+    <td>Postgraduate</td>
     <td>Provide feedback on usability and functionality of system from a student perspective</td>
   </tr>
   <tr>
@@ -90,6 +90,9 @@ Stakeholders are individuals or groups who have a vested interest in the success
     <td>Ensure system is technically feasible and meets security requirements</td>
   </tr>
 </table>
+
+In this example, the stakeholders listed include students (both undergraduate and graduate), a faculty member (professor, lecturer), a registrar, and an IT staff member (system administrator). The table includes columns for the stakeholder name, their stakeholder type, and their position or role within the university academic course registration system.
+
 
 
 ### 2. Task Delegation and Project Execution
