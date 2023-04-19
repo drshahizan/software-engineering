@@ -28,6 +28,19 @@ To enter and update activities and documents related to the IEEE Software Requir
 6. **Collaborate and communicate**: Collaborate and communicate with other group members to ensure that all activities and documents are entered and updated correctly and that everyone is aware of the progress and status of each item.
 
 By following these instructions, each group can effectively enter and update the activities and documents related to the IEEE SRS, ensuring that all requirements are gathered, analyzed, specified, validated, managed, and traced accurately and efficiently.
+
+## Task:
+
+This information pertains to the project team members and how to list their roles and assigned tasks in a table for the IEEE Software Requirements Specifications documentation. The table should have a section for tasks that are complete, partially complete, and incomplete. If an assigned task is not done and has been assigned to another team member, this information should be stated in the table as well. The table should include the following columns:
+
+- **Member Name**: The name of the team member
+- **Role**: The role or position of the team member in the project
+- **Task**: The specific task or responsibility assigned to the team member
+- **Status**: The current status of the assigned task (complete, partially complete, incomplete)
+- **Date**: The date when the status was last updated
+
+By organizing the team members' roles and assigned tasks in this way, the project manager can easily track the progress of the project and identify any tasks that are falling behind schedule. It also helps team members to see their responsibilities and understand the status of the tasks they are working on. With this information readily available in a table format, the project manager can make informed decisions about resource allocation, adjust timelines and schedules, and ensure the project is delivered on time and within budget.
+
 ## Section 1
 
 | No | Topic | Description | Activity | Document |
