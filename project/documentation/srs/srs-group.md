@@ -9,6 +9,21 @@ Don't forget to hit the :star: if you like this repo.
 
 # SRS: List of Groups
 
+To enter and update activities and documents related to the IEEE Software Requirements Specifications (SRS), each group should follow these instructions:
+
+1. Assign roles and responsibilities: Assign roles and responsibilities to each group member, such as requirements gatherer, analyst, specifier, validator, or manager.
+
+2. Define the structure of the document: Define the structure of the document, including the sections and subsections that will be used to organize the activities and documents related to the SRS.
+
+3. Enter activities and documents: Enter the activities and documents related to the SRS into the appropriate sections and subsections of the document, using clear and concise language and appropriate notation.
+
+4. Update the document regularly: Update the document regularly as new activities and documents are identified or as changes are made to existing ones.
+
+5. Track progress: Track the progress of each activity and document by using a status column, such as "not started," "in progress," "completed," or "validated."
+
+6. Collaborate and communicate: Collaborate and communicate with other group members to ensure that all activities and documents are entered and updated correctly and that everyone is aware of the progress and status of each item.
+
+By following these instructions, each group can effectively enter and update the activities and documents related to the IEEE SRS, ensuring that all requirements are gathered, analyzed, specified, validated, managed, and traced accurately and efficiently.
 ## Section 1
 
 | No | Topic | Description | Activity | Document |
