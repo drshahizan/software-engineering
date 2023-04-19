@@ -32,7 +32,14 @@ By following these instructions, each group can effectively enter and update the
 ## Task 1: Activity
 
 ### 1. Information about stakeholders
-Stakeholders are individuals or groups who have a vested interest in the success of a project. They can be internal or external to an organization and can include customers, employees, managers, investors, suppliers, regulators, and more. In the context of Software Requirements Specifications (SRS) for a university academic course registration system, stakeholders can be identified as follows:
+Stakeholders are individuals or groups who have a vested interest in the success of a project. They can be internal or external to an organization and can include customers, employees, managers, investors, suppliers, regulators, and more. Each column in a stakeholder table for a Software Requirements Specifications (SRS) document is described below:
+
+1. **Name**: The name of the stakeholder, which can be an individual or an organization.
+2. **Stakeholder**: The stakeholder refers to the individual or group that has a vested interest in the success of the project. This can include project sponsors, end-users, customers, developers, testers, and other stakeholders who will be affected by the project outcome.
+3. **Position**: The position refers to the role or title of the stakeholder within the organization or project team. For example, a project sponsor, end-user, or developer may hold different positions within the project team.
+4. **Responsibility**: The responsibility column describes the specific responsibilities of the stakeholder within the project. This can include providing feedback on project requirements, reviewing project documentation, testing the software, or providing input on project decisions.
+
+In the context of Software Requirements Specifications (SRS) for a university academic course registration system, stakeholders can be identified as follows:
 
 <table>
   <tr>
