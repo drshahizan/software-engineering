@@ -92,7 +92,7 @@ By following these instructions, you can prepare a comprehensive Software Requir
 | 3 | Limapuluh | UTM Student Feedback System |<a href="sec01/limapuluh" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> |<a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a>  |
 | 4 | Cutie | UTM Student Attendance Management System |<a href="sec01/cutie" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
 | 5 | Systema | Student Engagement | <a href="sec01/systema" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
-| 6 | Stakeholder | Student Accomodation System in KTDI |<a href="sec01/stakholder" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
+| 6 | Stakeholder | Student Accomodation System in KTDI |<a href="sec01/stakeholder" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
 
 ## Section 2
 
