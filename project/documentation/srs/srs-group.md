@@ -47,7 +47,7 @@ An example of a lists tasks in the IEEE Software Requirements Specifications doc
 | Member Name | Role	| Task	| Status	| Date |
 | ----- | ------ | ------ | ------ | ------ |
 | Camily Tang | Project Manager | Create project plan | Complete | 01/01/2022|
-| Wan Nur Sofea | Requirements Analyst | Gather user requirements | Partially Complete	02/15/2022|
+| Wan Nur Sofea | Requirements Analyst | Gather user requirements | Partially Complete | 02/15/2022|
 | Neo Zheng Weng | Designer | Create system architecture design | Complete | 01/10/2022|
 | Chai Yu Tong | Developer | Implement software functionality | Incomplete (assigned to Thevan Raju) | 03/01/2022|
 | Thevan Raju | Developer | Implement remaining software functionality | Incomplete | 03/01/2022|
