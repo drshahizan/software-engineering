@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Documentation
+# System Documentation
 Project documentation is a critical component of software development, providing a record of the project's objectives, requirements, design, development, and testing activities. It typically includes a Project Proposal that outlines the project's goals, objectives, scope, and expected outcomes, along with a Proposal Rubric to assess the proposal's quality. The System Documentation (SD) is a detailed document that comprises the System Requirements Specification (SRS), System Design Document (SDD), and System Testing Document (STD). The SRS outlines functional and non-functional requirements, the SDD documents the software system's architecture and design, and the STD documents the testing process used to validate the software system's functionality, reliability, and performance. Together, these documents ensure that the software system meets the requirements and expectations of its users and meets the required quality standards.
 
 
