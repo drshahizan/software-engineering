@@ -54,18 +54,18 @@ Stakeholders are individuals or groups who have a vested interest in the success
     <td>Provide input on course requirements and scheduling</td>
   </tr>
     <tr>
-    <td>Soh Han Wei</td>
-    <td>Student</td>
-    <td>Undergraduate</td>
-    <td>Provide feedback on usability and functionality of system from a student perspective</td>
+    <td>Jaslene Yu</td>
+    <td>Faculty Member</td>
+    <td>Lecturer</td>
+    <td>Provide input on course requirements and scheduling</td>
   </tr>
-  <tr>
+    <tr>
     <td>Arini Fatihah</td>
     <td>Administrator</td>
     <td>Registrar</td>
     <td>Ensure system meets administrative needs for registration and enrollment</td>
   </tr>
-  <tr>
+    <tr>
     <td>Soh Han Wei</td>
     <td>Student</td>
     <td>Undergraduate</td>
