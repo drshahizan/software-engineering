@@ -1,44 +1,361 @@
 <!DOCTYPE html>
 <html>
-   <head>
-      <title>Online Newspaper - Sports</title>
-   </head>
-   <body>
-      <header>
-         <h1><a href="all.html">Online Newspaper</a></h1>
-         <a href="all.html"><img src="newspaper_logo.png" alt="Newspaper Logo"></a>
-         <h2>Sports</h2>
-         <nav>
-            <ul>
-               <li><a href="all.html">All</a></li>
-               <li><a href="sports.html">Sports</a></li>
-               <li><a href="politics.html">Politics</a></li>
-               <li><a href="local.html">Local</a></li>
-            </ul>
-         </nav>
-      </header>
-      <main>
-         <article>
-            <h3><a href="article.html">Title of Sports Article</a></h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod nisl enim, in pulvinar massa interdum eu. Donec dapibus tellus ac magna auctor hendrerit.</p>
-            <p>Nunc quis odio eu mauris condimentum ullamcorper. Vivamus quis hendrerit lorem, nec fermentum mauris. Sed id lacus vel libero fermentum semper eu ac dolor.</p>
-            <a href="article.html"><img src="sports_image.jpg" alt="Sports Image"></a>
-            <footer>
-               <p><a href="article.html">Read more</a></p>
-            </footer>
-         </article>
-         <article>
-            <h3><a href="article.html">Title of Another Sports Article</a></h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod nisl enim, in pulvinar massa interdum eu. Donec dapibus tellus ac magna auctor hendrerit.</p>
-            <p>Nunc quis odio eu mauris condimentum ullamcorper. Vivamus quis hendrerit lorem, nec fermentum mauris. Sed id lacus vel libero fermentum semper eu ac dolor.</p>
-            <a href="article.html"><img src="sports_image_2.jpg" alt="Sports Image"></a>
-            <footer>
-               <p><a href="article.html">Read more</a></p>
-            </footer>
-         </article>
-      </main>
-      <footer>
-         <p>&copy; 2023 Online Newspaper</p>
-      </footer>
-   </body>
+
+<head>
+   <title>Online Newspaper - Sports</title>
+   <style>
+      /* Header styles */
+      header {
+         display: flex;
+         align-items: center;
+         justify-content: left;
+         padding-left: 100px;
+         background-color: #333;
+         color: #fff;
+         height: 350px;
+         font-size: 72px;
+      }
+
+      header h1 {
+         font-size: 2em;
+         margin: 0;
+         margin-left: 20px;
+      }
+
+      header img {
+         height: 400px;
+      }
+
+      /* Menu styles */
+      nav {
+         display: flex;
+         justify-content: space-between;
+         align-items: center;
+         padding: 20px;
+         background-color: #444;
+         color: #fff;
+         font-size: 48px;
+      }
+
+      nav ul {
+         list-style-type: none;
+         margin: 20px;
+         padding: 0;
+         text-align: center;
+      }
+
+      nav li {
+         display: inline-block;
+         margin-right: 20px;
+      }
+
+      nav a {
+         text-decoration: none;
+         color: #fff;
+         padding-left: 100px;
+      }
+
+      /* Article styles */
+      article {
+         align-items: flex-start;
+         padding: 20px;
+         border-bottom: 1px solid #ccc;
+         border: 1px solid #ccc;
+         padding: 10px;
+         margin: 10px;
+         border-radius: 5px;
+      }
+
+      article h2 {
+         font-size: 150px;
+         font-weight: bold;
+         text-decoration: underline;
+         text-align: center;
+         margin: 0;
+      }
+
+      article p {
+         margin: 10px 20px;
+         text-align: justify;
+         font-size: 60px;
+         flex: 1;
+         padding-right: 30px;
+      }
+
+      article img {
+         width: 5000px;
+         height: 2500px;
+         margin: 30px auto;
+         padding-left: 30px;
+         padding-top: 100px;
+         padding-bottom: 100px;
+         display: block;
+      }
+
+      /* Comment Section */
+      .comments-section {
+         margin: 20px;
+      }
+
+      .comments-section h3 {
+         font-size: 100px;
+         margin-bottom: 20px;
+      }
+
+      .comment {
+         display: flex;
+         align-items: center;
+         margin-bottom: 20px;
+      }
+
+      .comment .profile-picture {
+         width: 250px;
+         height: 250px;
+         margin-right: 10px;
+         border-radius: 50%;
+      }
+
+      .comment .comment-details {
+         display: flex;
+         flex-direction: column;
+      }
+
+      .comment .username {
+         font-weight: bold;
+         margin-right: 10px;
+         font-size: 60px;
+      }
+
+      .comment .timestamp {
+         color: #777;
+         margin-right: 10px;
+         font-size: 28px;
+      }
+
+      .comment .text {
+         font-size: 45px;
+      }
+
+      .add-comment-form {
+         margin-top: 20px;
+      }
+
+      .add-comment-form h3 {
+         font-size: 60px;
+         margin-bottom: 20px;
+      }
+
+      .add-comment-form label {
+         display: block;
+         font-weight: bold;
+         margin-bottom: 10px;
+         font-size: 50px;
+      }
+
+      .add-comment-form input,
+      .add-comment-form textarea {
+         display: block;
+         margin-bottom: 10px;
+         width: 100%;
+         font-size: 30px;
+         padding: 15px;
+         border-radius: 5px;
+         border: 1px solid #ccc;
+         box-sizing: border-box;
+      }
+
+      .add-comment-form button {
+         background-color: #333;
+         color: #fff;
+         padding: 10px 20px;
+         font-size: 40px;
+         border: none;
+         border-radius: 5px;
+         cursor: pointer;
+      }
+
+      .add-comment-form button:hover {
+         background-color: #444;
+      }
+
+      /* Footer styles */
+      footer {
+         padding: 10px;
+         background-color: #333;
+         color: #fff;
+         text-align: center;
+         font-size: 40px;
+      }
+   </style>
+</head>
+
+<body>
+   <header>
+      <h1>Online Newspaper</h1>
+      <img src="https://www.transparentpng.com/thumb/cute/TZMwWi-cute-clipart-transparent.png" alt="Newspaper logo">
+   </header>
+   <nav>
+      <ul>
+         <li><a href="all.html">All</a></li>
+         <li><a href="section.html">Sports</a></li>
+         <li><a href="section.html">Politics</a></li>
+         <li><a href="section.html">Local</a></li>
+      </ul>
+   </nav>
+   <div>
+      <article>
+         <br>
+         <h2>Taylor Swift's "Fearless (Taylor's Version)" debuts at No. 1 on Billboard 200
+            Chart</a></h3>
+            <p><img src="https://www.goldderby.com/wp-content/uploads/2020/07/taylor-swift-folklore-1.jpg" alt="Taylor">
+            </p>
+            <p>
+               In an impressive feat for the music industry, Taylor Swift's re-recorded version of her album
+               <i>"Fearless"</i>
+               has debuted at <b> 1 on the Billboard 200 chart</b>.
+               The album, titled <i>"Fearless (Taylor's Version)"</i>, marks Swift's ninth No. 1 album and <b>sets a new
+                  record
+                  for the fastest accumulation of three No. 1 albums by a woman</b>.
+               The album, which features 26 tracks including six previously unreleased songs, was released on April 9th,
+               2021, through Republic Records.
+               The album is a re-recording of Swift's 2008 album <i>"Fearless"</i> which was originally released through
+               Big
+               Machine Records, and includes all of the original
+               tracks plus new recordings of the album's hit singles such as <i>"Love Story"</i> and <i>"You Belong with
+                  Me"</i>.
+            </p>
+
+            <br>
+
+            <p>
+               The decision to re-record <i>"Fearless"</i> came after Swift's master recordings were sold by her former
+               label,
+               Big Machine Records, to music executive Scooter Braun's Ithaca Holdings in 2019.
+               This move caused a public feud between Swift and Braun, who Swift accused of bullying her throughout her
+               career.
+               In a statement about the re-recording, Swift said, "I'm thrilled to tell you that my new version of
+               'Fearless' is done and will be with you soon.
+               It has <b>26 songs</b> including 6 never before released songs from the vault. 'Love Story (Taylor's
+               Version)'
+               will be out tonight."
+               Swift has since released two other tracks from the album, <i>"Mr. Perfectly Fine"</i> and <i>"Wildest
+                  Dreams
+                  (Taylor's Version)"</i>. The success of <i>"Fearless (Taylor's Version)"</i>
+               is not only a testament to Swift's loyal fan base, but also to the power of re-recording as a means for
+               artists to regain control of their music.
+               Swift's move to re-record her albums has been seen as a response to the ongoing issue of artists losing
+               control of their master recordings, which are often sold to labels as part of recording contracts.
+            </p>
+
+            <br>
+
+            <p>
+               Swift has been an outspoken advocate for artists' rights and has used her platform to speak out against
+               the exploitative practices of the music industry.
+               In November 2020, Swift was named <b>Artist of the Year</b> at the American Music Awards, where she spoke
+               out
+               against the sale of her masters and the need for greater artist control.
+               The success of <i>"Fearless (Taylor's Version)"</i> also highlights the enduring popularity of Swift's
+               music,
+               which has earned her a legion of fans around the world.
+               Swift's ability to connect with her fans through her personal lyrics and catchy melodies has made her one
+               of the most successful and beloved artists of her generation.
+               As fans continue to stream <i>"Fearless (Taylor's Version)"</i> and enjoy the new recordings of Swift's
+               classic
+               songs, it's clear that her music will continue to resonate with audiences for years to come.
+               And with Swift's continued commitment to artists' rights, her success is not only a reflection of her
+               talent but also of her dedication to <b>creating a fairer and more equitable music industry</b>.
+            </p>
+
+            <br>
+
+            <p>The release of <i>"Fearless (Taylor's Version)"</i> was met with widespread excitement from fans and
+               critics
+               alike, who praised Swift for her <b>ability to breathe new life into her classic album</b>.
+               The album features updated arrangements and production, as well as Swift's more mature vocals, which add
+               a new dimension to the songs.
+               The album's success was also fueled by Swift's savvy marketing tactics, which included a range of
+               <b>exclusive merchandise</b> and a <b>social media campaign</b> that encouraged fans to share their
+               favorite memories
+               of the original "Fearless" era.
+               Swift's fans, known as Swifties, are known for their loyalty and dedication to the singer, and they came
+               out in full force to support the album's release.
+            </p>
+
+            <br>
+
+            <p>In addition to the album's No. 1 debut on the Billboard 200, <i>"Fearless (Taylor's Version)"</i> also
+               topped
+               the charts in several other countries, including the UK and Australia.
+               The album's lead single, <i>"Love Story (Taylor's Version)"</i>, also saw impressive success, debuting at
+               <b>No. 1
+                  on the Billboard Hot Country Songs chart</b> and reaching the <b>top 10 on the Billboard Hot 100
+                  chart</b>.
+               Swift's decision to re-record her albums has sparked a larger conversation about artists' rights in the
+               music industry. Many artists, including Kelly Clarkson and Justin Bieber, have expressed support for
+               Swift and her efforts to regain control of her music.
+               Swift's success with <i>"Fearless (Taylor's Version)"</i> may inspire other artists to take similar
+               actions in
+               the future.
+               The success of <i>"Fearless (Taylor's Version)"</i> also marks a major milestone for Swift's career. With
+               nine
+               No. 1 albums to her name, Swift has now tied Madonna for the <b>second-most No. 1 albums among women in
+                  the
+                  chart's history</b>.
+               Only Barbra Streisand has more No. 1 albums, with 11 to her name.
+               Swift's continued success is a testament to her talent and hard work, as well as her ability to adapt to
+               changes in the music industry. As the industry continues to evolve, Swift's commitment to artists' rights
+               and her willingness to take control of her music
+               will undoubtedly continue to be an inspiration to her fans and fellow artists alike.
+            </p>
+
+            <br>
+
+            <p>Overall, the success of <i>"Fearless (Taylor's Version)"</i> is a testament to Swift's enduring
+               popularity, her
+               commitment to her artistry, and her advocacy for artists' rights. The album's No. 1 debut on the
+               Billboard 200 is a historic moment for Swift and for the music industry as a whole, and it serves as a
+               reminder of the power of artists to take control of their own careers and their own music.</p>
+
+      </article>
+
+      <section class="comments-section">
+         <h3>Comments</h3>
+         <div class="comments">
+            <div class="comment">
+               <img src="https://www.transparentpng.com/thumb/cute/TZMwWi-cute-clipart-transparent.png"
+                  alt="Profile picture" class="profile-picture">
+               <div class="comment-details">
+                  <span class="username">Justin Bieber</span>
+                  <span class="timestamp">April 19, 2023 at 9:30 a.m.</span>
+                  <p class="text">Great article! I love Taylor Swift's music.</p>
+               </div>
+            </div>
+            <div class="comment">
+               <img src="https://www.transparentpng.com/thumb/cute/TZMwWi-cute-clipart-transparent.png"
+                  alt="Profile picture" class="profile-picture">
+               <div class="comment-details">
+                  <span class="username">Selena Gomez</span>
+                  <span class="timestamp">April 24, 2023 at 10:52 p.m.</span>
+                  <p class="text">I can't believe "Fearless" is already 13 years old!</p>
+               </div>
+            </div>
+         </div>
+         <form class="add-comment-form">
+            <h3>Add a Comment</h3>
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username">
+            <label for="comment-text">Comment:</label>
+            <textarea id="comment-text" name="comment-text"></textarea><br><br>
+            <button type="submit">Submit</button>
+         </form>
+      </section>
+   </div>
+
+
+   <footer>
+      <p>&copy; 2023 Online Newspaper | All Rights Reserved</p>
+   </footer>
+</body>
+
 </html>
