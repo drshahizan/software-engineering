@@ -11,10 +11,10 @@ Don't forget to hit the :star: if you like this repo.
 Module 2: Software Process Model
 
 Group NikoNikoNee
-1. Wong Jun Ji
-2. Tiew Chuan Rong
-3. Nicole Lim Tze Yee
-4. Jaslene Yu
+1. Jaslene Yu
+2. Nicole Lim Tze Yee
+3. Tiew Chuan Rong
+4. Wong Jun Ji
 
 
 
