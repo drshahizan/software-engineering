@@ -12,7 +12,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Tasks involved in developing SRC documentation:
 
-No | Date Member Name | Role	| Task	| Status	| Date |
+| No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
 | 2| | | | | 
