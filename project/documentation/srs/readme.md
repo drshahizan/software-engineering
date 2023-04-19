@@ -4,6 +4,7 @@
 <a href="https://github.com/drshahizan/software-engineering/issues"><img src="https://img.shields.io/github/issues/drshahizan/software-engineering" alt="Issues Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/software-engineering?color=2b9348"></a>
 ![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/software-engineering)
+
 Don't forget to hit the :star: if you like this repo.
 
 # Software Requirements Specifications 
@@ -23,8 +24,10 @@ A team project for IEEE Software Requirements Specifications documentation invol
 8. **Define acceptance criteria**: Clearly define acceptance criteria for each requirement to ensure that the software system meets the client's expectations.
 9. **Review and validate the document**: Review and validate the SRS document with stakeholders to ensure that it accurately reflects their requirements and expectations.
 By following these guidelines, you can create a well-organized and comprehensive IEEE SRS document that accurately reflects the requirements of the software system and serves as an effective communication tool between stakeholders.
+
 ## List of Activities
 The IEEE Software Requirements Specifications (SRS) document typically includes the following activities:
+
 | No | Topic | Description | 
 | :-----: | ------ | ------ |
 | 1 | Requirements gathering | Gathering information from stakeholders about the software system's functional and non-functional requirements, including performance, security, reliability, and usability.|
@@ -35,7 +38,9 @@ The IEEE Software Requirements Specifications (SRS) document typically includes 
 | 6 | Traceability management | Establishing traceability between the requirements and other system artifacts, such as design documents, test cases, and user manuals, to ensure that all requirements are met.|
 | 7 | Quality assurance | Ensuring that the SRS document meets the required quality standards, including completeness, correctness, and consistency.|
 | 8 | Communication and collaboration | Communicating and collaborating with stakeholders throughout the requirements engineering process to ensure that their needs and expectations are understood and met.|
+
 By carrying out these activities, the IEEE SRS document can serve as a key communication tool between stakeholders and software developers, ensuring that the software system meets the requirements and expectations of its users.
+
 ## SRS Document
 The SRS document typically contains the following sections:
 1. **Introduction**: This section provides an overview of the software system and the purpose of the SRS document.
@@ -46,7 +51,7 @@ The SRS document typically contains the following sections:
 6. **Other Non-Functional Requirements**: This section contains additional non-functional requirements, such as legal, regulatory, or ethical requirements.
 7. **Appendices**: This section contains any additional information that is relevant to the SRS document, such as glossary terms, acronyms, or references.
 The IEEE SRS document provides a structured and standardized way of documenting software requirements that facilitates communication between stakeholders, reduces misunderstandings, and improves the overall quality of the software system.
-Software Requirements Specifications
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
