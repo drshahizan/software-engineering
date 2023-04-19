@@ -32,7 +32,23 @@ The IEEE Software Requirements Specifications (SRS) document is a standard docum
 
 By following these guidelines, you can create a well-organized and comprehensive IEEE SRS document that accurately reflects the requirements of the software system and serves as an effective communication tool between stakeholders.
 
-## SRS document
+## List of Activities
+
+The IEEE Software Requirements Specifications (SRS) document typically includes the following activities:
+
+| No | Topic | Description | 
+| :-----: | ------ | ------ |
+| 1 | Requirements gathering | Gathering information from stakeholders about the software system's functional and non-functional requirements, including performance, security, reliability, and usability.|
+| 2 | Requirements analysis | Analyzing the requirements to identify any conflicts, ambiguities, or inconsistencies.|
+| 3 | Requirements specification | Specifying the requirements in a clear and unambiguous manner, using appropriate language and notation.|
+| 4 | Requirements validation | Validating the requirements with stakeholders to ensure that they accurately reflect their needs and expectations.|
+| 5 | Requirements management | Managing changes to the requirements throughout the software development life cycle, including identifying and documenting any changes and ensuring that all stakeholders are informed.|
+| 6 | Traceability management | Establishing traceability between the requirements and other system artifacts, such as design documents, test cases, and user manuals, to ensure that all requirements are met.|
+| 7 | Quality assurance | Ensuring that the SRS document meets the required quality standards, including completeness, correctness, and consistency.|
+| 8 | Communication and collaboration | Communicating and collaborating with stakeholders throughout the requirements engineering process to ensure that their needs and expectations are understood and met.|
+
+By carrying out these activities, the IEEE SRS document can serve as a key communication tool between stakeholders and software developers, ensuring that the software system meets the requirements and expectations of its users.
+## SRS Document
 The SRS document typically contains the following sections:
 
 1. **Introduction**: This section provides an overview of the software system and the purpose of the SRS document.
