@@ -10,7 +10,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # Activity: Group XXX
 
-## Tasks involved in developing SRC documentation are listed here.:
+## Tasks involved in developing SRC documentation:
 
 No | Member Name | Role	| Task	| Status	| Date |
 | -----:| ----- | ------ | ------ | ------ | ------ |
