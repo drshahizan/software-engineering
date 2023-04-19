@@ -9,6 +9,10 @@ Don't forget to hit the :star: if you like this repo.
 
 # SRS: List of Groups
 
+A team project for IEEE Project documentation involves multiple groups working together to ensure that the project meets its objectives and the required standards and criteria. The project typically involves a Project Management Group, Requirements Gathering Group, Design Group, Development Group, Testing Group, and Documentation Group. Each user has specific responsibilities and tasks, such as planning, organizing, gathering requirements, designing, implementing, testing, and documenting the software system. By working together, the groups can ensure that the software development process is efficient, effective, and produces high-quality software systems that meet the needs of their users. The team project requires effective communication, collaboration, and coordination between the groups to ensure that the project meets its objectives and is delivered on time and within budget.
+
+## SRS: Activities
+
 To enter and update activities and documents related to the IEEE Software Requirements Specifications (SRS), each group should follow these instructions:
 
 1. **Assign roles and responsibilities**: Assign roles and responsibilities to each group member, such as requirements gatherer, analyst, specifier, validator, or manager.
