@@ -42,25 +42,25 @@ Stakeholders are individuals or groups who have a vested interest in the success
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>John Smith</td>
+    <td>Low Ying Xi</td>
     <td>Faculty Member</td>
     <td>Professor</td>
     <td>Provide input on course requirements and scheduling</td>
   </tr>
   <tr>
-    <td>Jane Doe</td>
+    <td>Arini Fatihah</td>
     <td>Administrator</td>
     <td>Registrar</td>
     <td>Ensure system meets administrative needs for registration and enrollment</td>
   </tr>
   <tr>
-    <td>Mike Johnson</td>
+    <td>Soh Han Wei</td>
     <td>Student</td>
     <td>Undergraduate</td>
     <td>Provide feedback on usability and functionality of system from a student perspective</td>
   </tr>
   <tr>
-    <td>Sara Lee</td>
+    <td>Aliatul Izzah Jasman</td>
     <td>IT Staff</td>
     <td>Systems Analyst</td>
     <td>Ensure system is technically feasible and meets security requirements</td>
