@@ -8,13 +8,13 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Actity: Group XXX
+# Activity: Group XXX
 
-## Lists tasks in SRC documentation:
+## Tasks involved in developing SRC documentation are listed here.:
 
-| Member Name | Role	| Task	| Status	| Date |
-| ----- | ------ | ------ | ------ | ------ |
-| Dr MSO | Project Manager | Create project plan | Complete | 01/01/2022|
+No | Member Name | Role	| Task	| Status	| Date |
+| -----| ----- | ------ | ------ | ------ | ------ |
+| | Dr MSO | Project Manager | Create project plan | Complete | 01/01/2023|
 | | | | | | 
 | | | | | | 
 | | | | | | 
