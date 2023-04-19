@@ -7,11 +7,8 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# SRS: List of Groups
+# SRS: Instructions
 
-The following information pertains to the group responsible for implementing the IEEE Software Requirements Specifications documentation. This group is tasked with creating a document that outlines the functional and non-functional requirements of the software system. They are responsible for gathering the necessary requirements, designing the system, implementing and testing the software, and documenting the software development process. Effective communication, collaboration, and coordination between the group members are critical to ensuring that the project meets its objectives and is delivered on time and within budget. The group should adhere to the guidelines outlined by the IEEE for Software Requirements Specifications documentation and use clear and concise language, appropriate notation, and a structured format to ensure that the document is easily understood by all stakeholders involved in the software development process.
-
-## Instructions:
 To produce the Software Requirements Specifications (SRS) document, you are required to complete two tasks:
 
 - **[Task 1](#task-1-activity)**: involves stakeholders, task delegation and project execution.
@@ -161,30 +158,6 @@ You need to prepare documents related to Software Requirements Specifications. H
 11. **Define acceptance criteria**: Define acceptance criteria for the software application based on the SRS document. The acceptance criteria should be clear and measurable.
 
 By following these instructions, you can prepare a comprehensive Software Requirements Specifications (SRS) document that outlines all the necessary requirements for the software application. This document will serve as a roadmap for the development and testing of the software application, ensuring that it meets all the necessary criteria for success.
-
-## Section 1
-
-| No | Topic | Description | Activity | Document |
-| :-----: | ------ | ------ | :------: | :------: |
-| 1 | Curiousity | UTM Events Management System |<a href="sec01/curiousity" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
-| 2 | Lastminpotential | UTM Library Management System |<a href="sec01/lastminpotential" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> |<a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a>  |
-| 3 | Limapuluh | UTM Student Feedback System |<a href="sec01/limapuluh" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> |<a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a>  |
-| 4 | Cutie | UTM Student Attendance Management System |<a href="sec01/cutie" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
-| 5 | Systema | Student Engagement | <a href="sec01/systema" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
-| 6 | Stakeholder | Student Accomodation System in KTDI |<a href="sec01/stakeholder" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
-
-## Section 2
-
-| No | Topic | Description | Activity | Document |
-| :-----: | ------ | ------ | :------: | :------: |
-| 1 | Allen | UTM Student Grading System |<a href="sec02/allen" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
-| 2 | Alpha | College Room Rental System |<a href="sec02/alpha" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
-| 3 | Beta | Food Ordering System in UTM |<a href="sec02/beta" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> |<a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
-| 4 | Engineering | Parcel Delivery Service |<a href="sec02/engineering" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
-| 5 | Program | Academic Consultation System|<a href="sec02/program" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
-| 6 | Software| Student Health and Wellness Management System |<a href="sec02/software" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
-| 7 | Tempest | Badal Hajj and Umrah Management System|<a href="sec02/tempest" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
-
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
