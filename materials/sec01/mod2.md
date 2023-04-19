@@ -18,7 +18,7 @@ Group NikoNikoNee
 
 
 
-# Module 2:Software Process Model
+# Module 2: Software Process Model
 
 ### Contents:
 #### Notes
@@ -204,8 +204,8 @@ Here are some details about software design and implementation:
 
 <li>Data Design: Data design involves defining the data structures that will be used to store and manipulate data within the system. This includes defining the types of data, their format, and the algorithms that will be used to manipulate them.</li>
 
-
-**Software Implementation:**
+<br>
+<b>Software Implementation:</b>
 <li>Coding: Once the software design has been completed, the next step is to write the code that will implement the design. This involves using a programming language to translate the design into a working software system.
 
 <li>Testing: After the code has been written, it needs to be tested to ensure that it works as intended. This involves testing individual components, as well as the system as a whole.
