@@ -1,20 +1,17 @@
 <!DOCTYPE html>
 <html>
   <head>
+            <!--
+        Lab 13: Layout (Mock & Style)
+        Group: Cute Boys
+        1. Name: Wong Jun Ji, Matrix No: A22EC0117, Github ID: jjwong2003
+        2. Name: Lee Soon Der, Matrix No: A22EC0065, Github ID: LeeSoonDer
+        3. Name: Chen Pyng Haw, Matrix No: A22EC0042, Github ID: pynghaw
+        4. Name: Goh Jin Yang, Matrix No: A22EC0052, Github ID: jinyang26
+        -->  
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    
-    <!--
-    Lab 11: chatcss
-    Group:
-    1. Name: CAMILY TANG JIA LEI, Matrix No: A22EC0039, Github ID: camilytang
-    2. Name: CHAI YU TONG, Matrix No: A22EC0145, Github ID: Yutongchai
-    3. Name: MUHAMMAD DANIAL BIN AHMAD SYAHIR, Matrix No: A22EC0206, Github ID: daniallllllll
-    4. Name: NEO ZHENG WENG, Matrix No: A2EC0093, Github ID: zw-weng
-    -->
-    
     <title>Layout Task</title>
-    
     <style>
       body {
         background-color: #fff;
@@ -26,42 +23,38 @@
       img {
         max-width: 100%;
         display: block;
-        float: left;
-        margin: 0 10px 10px 0;
       }
 
       .logo {
         font-size: 200%;
         padding: 50px 20px;
         margin: 0 auto;
-        max-width: 1500px;
+        max-width: 980px;
       }
 
       .grid {
         margin: 0 auto;
         padding: 0 20px;
-        max-width: 1500px;
-        display: grid; 
-        grid-template-columns: 75% 15%;
-        gap: 20px;
+        max-width: 980px;
+        display:grid;
+        grid-template-columns: 70% 30%;
+        width:100%
+
       }
 
       nav {
-        background-color: #020202;
+        background-color: #000;
         padding: 0.5em;
-        position: sticky;
-        top: 0;
-        max-width: 1500px;
-        margin: 0 auto;
+        position:sticky;
+        top:0
       }
 
       nav ul {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        list-style: none;
         margin: 0;
         padding: 0;
+        list-style: none;
+        display:grid;
+        grid-template-columns:auto auto auto auto auto;
       }
 
       nav a {
@@ -74,27 +67,44 @@
         list-style: none;
         margin: 0;
         padding: 0;
+        display:grid;
+        grid-template-columns: auto auto;
+        grid-template-rows: auto auto auto;
+        grid-gap:1px
       }
 
       .feature {
         width: 200px;
+        padding:20px;
+        padding-top:0px;
+        padding-left:0px;
+        float:left;
       }
 
-      .photo-grid {
-        display: grid;
-        grid-template-columns: auto auto;
-        grid-gap: 1px;
-        margin: 0px;
-        padding: 0px;
+      nav ul li
+      {
+        display:inline;
+        grid-column:auto;
+        text-align:middle;
       }
 
-      .photo-grid img {
-        width: 50%;
-        max-width: 200px;
-        min-width: 170px;
-        float: center;
-        margin: 1px;
+      article
+      {
+        grid-column:1/span 1;
+        float:left;
       }
+
+      aside
+      {
+        grid-column:2/span 1;
+        float:right;
+      }
+
+      .photos li
+      {
+        grid-column:auto;
+      }
+
 
     </style>
   </head>
@@ -167,13 +177,23 @@
 
       <aside>
         <h2>Photography</h2>
-        <div class="photo-grid">
+        <ul class="photos">
+          <li>
             <img src="images/balloon-sq1.jpeg" alt="placeholder" />
+          </li>
+          <li>
             <img src="images/balloon-sq2.jpeg" alt="placeholder" />
+          </li>
+          <li>
             <img src="images/balloon-sq3.jpeg" alt="placeholder" />
+          </li>
+          <li>
             <img src="images/balloon-sq4.jpeg" alt="placeholder" />
+          </li>
+          <li>
             <img src="images/balloon-sq5.jpeg" alt="placeholder" />
-        </div>
+          </li>
+        </ul>
       </aside>
     </main>
   </body>
