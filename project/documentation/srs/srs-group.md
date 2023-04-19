@@ -60,13 +60,13 @@ In this example, the table lists the team members, their roles, the tasks they a
 
 | No | Topic | Description | Activity | Document |
 | :-----: | ------ | ------ | :------: | :------: |
-| 1 | Allen | UTM Student Grading System |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | |
-| 2 | Alpha | College Room Rental System |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | |
-| 3 | Beta | Food Ordering System in UTM |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | |
-| 4 | Engineering | Parcel Delivery Service |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | |
-| 5 | Program | Academic Consultation System|<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | |
-| 6 | Software| Student Health and Wellness Management System |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | |
-| 7 | Tempest | Badal Hajj and Umrah Management System|<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | |
+| 1 | Allen | UTM Student Grading System |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
+| 2 | Alpha | College Room Rental System |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
+| 3 | Beta | Food Ordering System in UTM |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> |<a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
+| 4 | Engineering | Parcel Delivery Service |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
+| 5 | Program | Academic Consultation System|<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
+| 6 | Software| Student Health and Wellness Management System |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
+| 7 | Tempest | Badal Hajj and Umrah Management System|<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
 
 ## Section 2
 
