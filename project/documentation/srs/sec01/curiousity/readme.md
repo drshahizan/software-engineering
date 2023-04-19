@@ -10,11 +10,35 @@ Don't forget to hit the :star: if you like this repo.
 
 # Activity: Group Curiousity
 
-<h2>Group Members</h2>
+## Group Members
 <table>
   <tr>
     <th>Name</th>
     <th>Role</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>3</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>4</td>
+    <td></td>
+  </tr>
+</table>
+
+## Group Members
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Position</th>
   </tr>
   <tr>
     <td>1</td>
