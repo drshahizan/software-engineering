@@ -31,7 +31,7 @@ By following these instructions, each group can effectively enter and update the
 
 ## Task 1: Activity
 
-### Information about stakeholders
+### 1. Information about stakeholders
 Stakeholders are individuals or groups who have a vested interest in the success of a project. They can be internal or external to an organization and can include customers, employees, managers, investors, suppliers, regulators, and more. In the context of Software Requirements Specifications (SRS) for a university academic course registration system, stakeholders can be identified as follows:
 
 <table>
@@ -68,7 +68,7 @@ Stakeholders are individuals or groups who have a vested interest in the success
 </table>
 
 
-### Task Delegation and Project Execution
+### 2. Task Delegation and Project Execution
 
 This information pertains to the project team members and how to list their roles and assigned tasks in a table for the IEEE Software Requirements Specifications documentation. The table should have a section for tasks that are complete, partially complete, and incomplete. If an assigned task is not done and has been assigned to another team member, this information should be stated in the table as well. The table should include the following columns:
 
