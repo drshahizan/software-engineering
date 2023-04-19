@@ -26,13 +26,11 @@ Don't forget to hit the :star: if you like this repo.
 | No | Topic | Description | 
 | :-----: | ------ | ------ |
 | 1 | Curiousity | UTM Events Management System |
-| 2 | lastminpotential | UTM Library Management System |
+| 2 | Lastminpotential | UTM Library Management System |
 | 3 | Limapuluh | UTM Student Feedback System |
 | 4 | Cutie | UTM Student Attendance Management System |
-| 5 | systema | Student Engagement  |
-| 6 | stakeholder | Student Accomodation System in KTDI |
-
-
+| 5 | Systema | Student Engagement  |
+| 6 | Stakeholder | Student Accomodation System in KTDI |
 
 
 ## Contribution 🛠️
