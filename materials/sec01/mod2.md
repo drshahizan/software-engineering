@@ -159,16 +159,16 @@ Software specification refers to the <b>process of defining the requirements and
 
 The software specification process typically involves the following steps:
 
-#### Requirements gathering: 
+#### 1. Requirements gathering: 
 This involves identifying the needs and **expectations of the stakeholders**, including the end-users, through interviews, surveys, and other techniques. The requirements should be captured in a clear and concise manner, avoiding any ambiguity or vagueness.
 
-#### Requirements analysis: 
+#### 2. Requirements analysis: 
 Once the requirements have been gathered, they need to be **analyzed** to ensure that they are complete, consistent, and feasible. Any conflicts or inconsistencies in the requirements should be resolved at this stage.
 
-#### Requirements documentation: 
+#### 3. Requirements documentation: 
 The requirements should be **documented** in a formal specification document that serves as the reference for the development team. The document should include a description of the system, its features, and its functions, as well as any constraints or assumptions.
 
-#### Validation and verification: 
+#### 4. Validation and verification: 
 The software specification should be **validated and verified** to ensure that it **meets the expectations** of the stakeholders. This can be done through reviews, inspections, and testing.
 
 
@@ -192,30 +192,24 @@ Overall, software specification is a critical part of the software development p
 <img width="419" alt="image" src="https://user-images.githubusercontent.com/129235052/233099489-3b3c53cd-f48f-43f0-9747-7736250ac3cc.png">
 <b>Software design</b> refers to the process of defining the architecture, components, interfaces, and other characteristics of a software system. <b>Software implementation</b> refers to the process of writing the code and integrating the various components to create a working software system.
 
+
 Here are some details about software design and implementation:
 
 **Software Design:**
-#### Architecture Design: 
-The first step in software design is to define the overall architecture of the software system. This involves defining the different components of the system, how they interact with each other, and the overall structure of the system.
+<li>Architecture Design: The first step in software design is to define the overall architecture of the software system. This involves defining the different components of the system, how they interact with each other, and the overall structure of the system.
 
-#### Component Design: 
-Once the overall architecture has been defined, the next step is to design the individual components of the system. This involves defining the interfaces, data structures, and algorithms that will be used to implement each component.
+<li>Component Design: Once the overall architecture has been defined, the next step is to design the individual components of the system. This involves defining the interfaces, data structures, and algorithms that will be used to implement each component.
 
-#### Interface Design: 
-Interfaces are the means by which different components of the system communicate with each other. Interface design involves defining the input and output parameters, as well as the protocols and data formats that will be used to transmit data between the components.
+<li>Interface Design: Interfaces are the means by which different components of the system communicate with each other. Interface design involves defining the input and output parameters, as well as the protocols and data formats that will be used to transmit data between the components.
 
-#### Data Design: 
-Data design involves defining the data structures that will be used to store and manipulate data within the system. This includes defining the types of data, their format, and the algorithms that will be used to manipulate them.
+<li>Data Design: Data design involves defining the data structures that will be used to store and manipulate data within the system. This includes defining the types of data, their format, and the algorithms that will be used to manipulate them.</li>
+
 
 **Software Implementation:**
-#### Coding: 
-Once the software design has been completed, the next step is to write the code that will implement the design. This involves using a programming language to translate the design into a working software system.
+<li>Coding: Once the software design has been completed, the next step is to write the code that will implement the design. This involves using a programming language to translate the design into a working software system.
 
-#### Testing: 
-After the code has been written, it needs to be tested to ensure that it works as intended. This involves testing individual components, as well as the system as a whole.
+<li>Testing: After the code has been written, it needs to be tested to ensure that it works as intended. This involves testing individual components, as well as the system as a whole.
 
-#### Integration: 
-Once the individual components have been tested and verified, they need to be integrated into a working software system. This involves connecting the various components and ensuring that they work together seamlessly.
+<li>Integration: Once the individual components have been tested and verified, they need to be integrated into a working software system. This involves connecting the various components and ensuring that they work together seamlessly.
 
-#### Maintenance: 
-Once the software system has been deployed, it will need to be maintained over time. This involves fixing any bugs that are discovered, updating the software to address new requirements, and ensuring that the software continues to function as intended.
+<li>Maintenance: Once the software system has been deployed, it will need to be maintained over time. This involves fixing any bugs that are discovered, updating the software to address new requirements, and ensuring that the software continues to function as intended. </li>
