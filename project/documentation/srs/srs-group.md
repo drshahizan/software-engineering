@@ -72,12 +72,12 @@ In this example, the table lists the team members, their roles, the tasks they a
 
 | No | Topic | Description | Activity | Document |
 | :-----: | ------ | ------ | :------: | :------: |
-| 1 | Curiousity | UTM Events Management System |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | |
-| 2 | Lastminpotential | UTM Library Management System |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | |
-| 3 | Limapuluh | UTM Student Feedback System |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | |
-| 4 | Cutie | UTM Student Attendance Management System |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | |
-| 5 | Systema | Student Engagement | <a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | |
-| 6 | Stakeholder | Student Accomodation System in KTDI |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | |
+| 1 | Curiousity | UTM Events Management System |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
+| 2 | Lastminpotential | UTM Library Management System |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> |<a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a>  |
+| 3 | Limapuluh | UTM Student Feedback System |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> |<a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a>  |
+| 4 | Cutie | UTM Student Attendance Management System |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
+| 5 | Systema | Student Engagement | <a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
+| 6 | Stakeholder | Student Accomodation System in KTDI |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
 
 
 ## Contribution 🛠️
