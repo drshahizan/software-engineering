@@ -11,26 +11,26 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Section 1
 
-| No | Topic | Description | 
-| :-----: | ------ | ------ |
-| 1 | Allen | UTM Student Grading System |
-| 2 | Alpha | College Room Rental System |
-| 3 | Beta | Food Ordering System in UTM |
-| 4 | Engineering | Parcel Delivery Service |
-| 5 | Program | Academic Consultation System|
-| 6 | Software| Student Health and Wellness Management System |
-| 7 | Tempest | Badal Hajj and Umrah Management System|
+| No | Topic | Description | Activity | Document |
+| :-----: | ------ | ------ | :------: | :------: |
+| 1 | Allen | UTM Student Grading System | | |
+| 2 | Alpha | College Room Rental System | | |
+| 3 | Beta | Food Ordering System in UTM | | |
+| 4 | Engineering | Parcel Delivery Service | | |
+| 5 | Program | Academic Consultation System| | |
+| 6 | Software| Student Health and Wellness Management System | | |
+| 7 | Tempest | Badal Hajj and Umrah Management System| | |
 
 ## Section 2
 
-| No | Topic | Description | 
-| :-----: | ------ | ------ |
-| 1 | Curiousity | UTM Events Management System |
-| 2 | Lastminpotential | UTM Library Management System |
-| 3 | Limapuluh | UTM Student Feedback System |
-| 4 | Cutie | UTM Student Attendance Management System |
-| 5 | Systema | Student Engagement  |
-| 6 | Stakeholder | Student Accomodation System in KTDI |
+| No | Topic | Description | Activity | Document |
+| :-----: | ------ | ------ | :------: | :------: |
+| 1 | Curiousity | UTM Events Management System | | |
+| 2 | Lastminpotential | UTM Library Management System | | |
+| 3 | Limapuluh | UTM Student Feedback System | | |
+| 4 | Cutie | UTM Student Attendance Management System | | |
+| 5 | Systema | Student Engagement  | | |
+| 6 | Stakeholder | Student Accomodation System in KTDI | | |
 
 
 ## Contribution 🛠️
