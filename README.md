@@ -57,6 +57,15 @@ This course is designed to give students an introduction to an engineering appro
 - [Section 01](./materials/student-01.md)
 - [Section 02](./materials/student-02.md)
 
+## Project
+
+| No | Module | Description | File |
+| :-----: | ------ | ------ | :-----: | 
+| 1 | Project 1 | Student Portfolio Showcase (HTML) | | 
+| 2 | Project 2 | Student Portfolio Showcase (Bootstrap)| | 
+| 3 | Proposal | Guideline for Software Engineering Proposal | | 
+| 4 | System Documentation | System Requirements Specification (SRS), System Design Document (SDD), and System Testing Document (STD). | | 
+
 ## Notes
 
 ### 🎯 Proposal 🆕 
