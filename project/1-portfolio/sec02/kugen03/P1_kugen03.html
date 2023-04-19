@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Personal Portfolio</title>
+    <style>
+      body {
+        background-image: url(https://www.pixelstalk.net/wp-content/uploads/images6/Aesthetic-Wallpaper-For-Laptop-Wallpaper-High-Quality.jpg);
+      }
+      h1,
+      h2 {
+        color: black;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;      }
+      h3{
+        color : red
+      }      
+      h4,h5{
+        color: blue;
+        font-family: 'Times New Roman', Times, serif;
+        
+        
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Introduction Section -->
+    <section>
+      <h1>Introduction</h1>
+      <img
+        src="https://avatars.githubusercontent.com/u/128279457?v=4"
+        alt="My Profile Picture"
+        width="200"
+        height="200"
+        class = "center"
+      />
+      <h4>Hi, my name is Kugen and I'm a first year student pursuing<br>
+         degree at Universiti teknologi Malaysia .</h4>
+      <h5>
+        Check out my <a href="#skills">skills</a> and
+        <a href="#experience">experience</a> below, or
+        <a href="#contact">contact me</a> directly.
+      </h5>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>C++</li>
+      </ul>
+    </section>
+
+    <!-- Experience Section -->
+    <section id="experience">
+      <h2>Experience</h2>
+      <ul><h3>Education</h3>
+        <li>SMK Taman Daya (2016-2018)</li>
+        <li>SM SAINS SEMBRONG, KLUANG (2019-2020)</li>
+        <li>KOLEJ MATRIKULASI NEGERI SEMBILAN (2021-2022)</li>
+        <li>UNIVERSITI TEKNOLOGI MALAYSIA (2022- PRESENT)</li>
+      </ul>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+      <h2>Contact</h2>
+      <form>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" /><br />
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" /><br />
+
+        <label for="message">Message:</label>
+        <textarea id="message" name="message"></textarea><br />
+
+        <input type="submit" value="Submit" />
+      </form>
+    </section>
+  </body>
+</html>
