@@ -31,7 +31,42 @@ By following these instructions, each group can effectively enter and update the
 
 ## Task 1: Activity
 
-### abc
+### Information about stakeholders
+Stakeholders are individuals or groups who have a vested interest in the success of a project. They can be internal or external to an organization and can include customers, employees, managers, investors, suppliers, regulators, and more. In the context of Software Requirements Specifications (SRS) for a university academic course registration system, stakeholders can be identified as follows:
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Stakeholder</th>
+    <th>Position</th>
+    <th>Responsibility</th>
+  </tr>
+  <tr>
+    <td>John Smith</td>
+    <td>Faculty Member</td>
+    <td>Professor</td>
+    <td>Provide input on course requirements and scheduling</td>
+  </tr>
+  <tr>
+    <td>Jane Doe</td>
+    <td>Administrator</td>
+    <td>Registrar</td>
+    <td>Ensure system meets administrative needs for registration and enrollment</td>
+  </tr>
+  <tr>
+    <td>Mike Johnson</td>
+    <td>Student</td>
+    <td>Undergraduate</td>
+    <td>Provide feedback on usability and functionality of system from a student perspective</td>
+  </tr>
+  <tr>
+    <td>Sara Lee</td>
+    <td>IT Staff</td>
+    <td>Systems Analyst</td>
+    <td>Ensure system is technically feasible and meets security requirements</td>
+  </tr>
+</table>
+
 
 ### Task Delegation and Project Execution
 
