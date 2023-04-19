@@ -10,6 +10,8 @@ Don't forget to hit the :star: if you like this repo.
 # Software Requirements Specifications 
 The IEEE Software Requirements Specifications (SRS) document is a standard document format developed by the Institute of Electrical and Electronics Engineers (IEEE) that provides a comprehensive description of the software requirements for a particular software system. The SRS document serves as a key communication tool between the software developers and the clients or stakeholders, who are responsible for defining the software's functionality, performance, and other non-functional requirements.
 
+## ❤️[List of Groups](/srs-group.md)
+
 ## Guidelines for creating an IEEE Software Requirements Specifications (SRS) document:
 
 1. **Identify and involve all relevant stakeholders**: Make sure that all stakeholders, including clients, users, developers, and testers, are involved in the requirements gathering process.
