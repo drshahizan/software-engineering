@@ -15,7 +15,7 @@ The following information pertains to the group responsible for implementing the
 To produce the Software Requirements Specifications (SRS) document, you are required to complete two tasks:
 
 - **[Task 1](#task-1-activity)**: involves stakeholders, task delegation and project execution.
-- **Task 2**: involves preparing the Software Requirements Specifications (SRS) document.
+- **[Task 2](#2-task-delegation-and-project-execution)**: involves preparing the Software Requirements Specifications (SRS) document.
 
 ## SRS: Activities and documents related to SRS
 
