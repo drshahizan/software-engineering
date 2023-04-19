@@ -29,7 +29,7 @@ To enter and update activities and documents related to the IEEE Software Requir
 
 By following these instructions, each group can effectively enter and update the activities and documents related to the IEEE SRS, ensuring that all requirements are gathered, analyzed, specified, validated, managed, and traced accurately and efficiently.
 
-## Task 1:Activity
+## Task 1: Activity
 
 This information pertains to the project team members and how to list their roles and assigned tasks in a table for the IEEE Software Requirements Specifications documentation. The table should have a section for tasks that are complete, partially complete, and incomplete. If an assigned task is not done and has been assigned to another team member, this information should be stated in the table as well. The table should include the following columns:
 
