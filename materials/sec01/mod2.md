@@ -190,7 +190,7 @@ Overall, software specification is a critical part of the software development p
   
 ### Step 2: Software Design and Implementation
 <img width="419" alt="image" src="https://user-images.githubusercontent.com/129235052/233099489-3b3c53cd-f48f-43f0-9747-7736250ac3cc.png">
-**Software design** refers to the process of defining the architecture, components, interfaces, and other characteristics of a software system. **Software implementation** refers to the process of writing the code and integrating the various components to create a working software system.
+<b>Software design</b> refers to the process of defining the architecture, components, interfaces, and other characteristics of a software system. <b>Software implementation</b> refers to the process of writing the code and integrating the various components to create a working software system.
 
 Here are some details about software design and implementation:
 
