@@ -11,7 +11,7 @@ Don't forget to hit the :star: if you like this repo.
 
 The following information pertains to the group responsible for implementing the IEEE Software Requirements Specifications documentation. This group is tasked with creating a document that outlines the functional and non-functional requirements of the software system. They are responsible for gathering the necessary requirements, designing the system, implementing and testing the software, and documenting the software development process. Effective communication, collaboration, and coordination between the group members are critical to ensuring that the project meets its objectives and is delivered on time and within budget. The group should adhere to the guidelines outlined by the IEEE for Software Requirements Specifications documentation and use clear and concise language, appropriate notation, and a structured format to ensure that the document is easily understood by all stakeholders involved in the software development process.
 
-## SRS: Activities
+## SRS: Activities and documents related to SRS
 
 To enter and update activities and documents related to the IEEE Software Requirements Specifications (SRS), each group should follow these instructions:
 
@@ -29,7 +29,7 @@ To enter and update activities and documents related to the IEEE Software Requir
 
 By following these instructions, each group can effectively enter and update the activities and documents related to the IEEE SRS, ensuring that all requirements are gathered, analyzed, specified, validated, managed, and traced accurately and efficiently.
 
-## Task:
+## Task 1:Activity
 
 This information pertains to the project team members and how to list their roles and assigned tasks in a table for the IEEE Software Requirements Specifications documentation. The table should have a section for tasks that are complete, partially complete, and incomplete. If an assigned task is not done and has been assigned to another team member, this information should be stated in the table as well. The table should include the following columns:
 
@@ -40,6 +40,21 @@ This information pertains to the project team members and how to list their role
 - **Date**: The date when the status was last updated
 
 By organizing the team members' roles and assigned tasks in this way, the project manager can easily track the progress of the project and identify any tasks that are falling behind schedule. It also helps team members to see their responsibilities and understand the status of the tasks they are working on. With this information readily available in a table format, the project manager can make informed decisions about resource allocation, adjust timelines and schedules, and ensure the project is delivered on time and within budget.
+
+
+An example of a lists tasks in the IEEE Software Requirements Specifications documentation:
+
+| Member Name | Role	| Task	| Status	| Date |
+| ----- | ------ | ------ | ------ | ------ |
+| Camily Tang | Project Manager | Create project plan | Complete | 01/01/2022|
+| Wan Nur Sofea | Requirements Analyst | Gather user requirements | Partially Complete	02/15/2022|
+| Neo Zheng Weng | Designer | Create system architecture design | Complete | 01/10/2022|
+| Chai Yu Tong | Developer | Implement software functionality | Incomplete (assigned to Thevan Raju) | 03/01/2022|
+| Thevan Raju | Developer | Implement remaining software functionality | Incomplete | 03/01/2022|
+| Ariff Danish | Tester | Create testing plan and execute tests | Incomplete | 04/01/2022|
+| Bernice Lim  | Documentation Specialist | Create system documentation | Partially Complete | 02/28/2022|
+
+In this example, the table lists the team members, their roles, the tasks they are responsible for, the status of each task, and the date when the status was last updated. The date column provides a clear record of when each task was last updated and helps track the progress of the project over time. For instance, we can see that Camily Tang completed the project plan on January 1st, 2022, and that Bernice Lim  partially completed the system documentation on February 28th, 2022. Additionally, we can see that Chai Yu Tong assigned the task of implementing software functionality to Thevan Raju on March 1st, 2022, and that both developers have not yet completed their assigned tasks as of that date.
 
 ## Section 1
 
