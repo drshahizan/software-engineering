@@ -8,7 +8,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Actity: Group XXX
+# Activity: Group XXX
 
 ## Lists tasks in SRC documentation:
 
