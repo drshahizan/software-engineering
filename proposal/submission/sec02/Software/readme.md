@@ -1,6 +1,6 @@
-#  Proposal Template
+#  Proposal 
 
-## Project Title
+## Student Health and Wellness Management System
 
 
 ### Prepared by: Group Software
@@ -8,6 +8,7 @@
   2. Koh Su Xuan A22EC0060
   3. Name and matrix no
   4. Name and matrix no
+  5. Name and matrix no
 
 ### Table of Contents
 - [Table of Contents](#table-of-contents)
