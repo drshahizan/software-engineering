@@ -49,8 +49,8 @@ Don't forget to hit the :star: if you like this repo.
   <tr>
     <td>Mr Hamdan</td>
     <td>Hostel Staff</td>
-    <td>Maintenance staff</td>
-    <td></td>
+    <td>Maintenance Staff</td>
+    <td>Ensure system is technically feasible and meets assets requirements.</td>
   </tr>
     <tr>
     <td>2</td>
