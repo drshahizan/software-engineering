@@ -19,6 +19,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ### Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Executive Summary](#Executive-Summary)
   
 ### 1. Executive Summary
 - Start the proposal with a brief summary that highlights the main points of the project, including its goals, objectives, and expected outcomes.
