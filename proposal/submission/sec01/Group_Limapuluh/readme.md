@@ -58,9 +58,9 @@ Finally, implementing a student feedback system can support UTM's efforts to mai
 - It should also describe any limitations or constraints that may affect the project.
 
 ### 5. Software Process Model:
-<ul>-The goal of the software process model for the Student Feedback Management System is to provide a structured and systematic approach to software development that ensures a high-quality, user-friendly, and reliable system that can meet the needs of the stakeholders. It defines the processes, activities, and tasks required to develop the software, from requirements gathering to testing, deployment, and maintenance.
+<ul>The goal of the software process model for the Student Feedback Management System is to provide a structured and systematic approach to software development that ensures a high-quality, user-friendly, and reliable system that can meet the needs of the stakeholders. It defines the processes, activities, and tasks required to develop the software, from requirements gathering to testing, deployment, and maintenance.
 
--For the proposed Student Feedback Management System, the<b> Agile methodology</b> is an ideal software process model. This model allows for flexibility and responsiveness to stakeholder feedback while ensuring timely delivery of a functional feedback management system. It provides a framework for managing project risks and ensuring that quality and performance are maintained throughout the development process.
+For the proposed Student Feedback Management System, the<b> Agile methodology</b> is an ideal software process model. This model allows for flexibility and responsiveness to stakeholder feedback while ensuring timely delivery of a functional feedback management system. It provides a framework for managing project risks and ensuring that quality and performance are maintained throughout the development process.
 
   <h3>The Agile software process model involves the following phases:</h3>
 
@@ -72,11 +72,11 @@ Finally, implementing a student feedback system can support UTM's efforts to mai
 
   <li><b>Sprint Review</b>: In this phase, the development team presents the completed features to the product owner and stakeholders for review. The activities include demoing the completed features, gathering feedback, and planning for the next sprint. The duration of this phase is one week, and the project manager is responsible for overseeing the activities.</li>
 
-  <li><b>Sprint Retrospective</b>: This phase involves reviewing the sprint process and identifying areas for improvement. The activities include discussing what went well and what didn't, identifying the root causes of problems, and planning for the next sprint. The duration of this phase is one week, and the project manager is responsible for overseeing the activities.</li>
+  <li><b>Sprint Retrospective</b>: This phase involves reviewing the sprint process and identifying areas for improvement. The activities include discussing what went well and what didn't, identifying the root causes of problems, and planning for the next sprint. The duration of this phase is one week, and the project manager is responsible for overseeing the activities.</li><br>
 
--The testing methodologies for this project include functional, usability, and performance testing. Project management practices will include daily stand-up meetings, sprint planning, and retrospectives. Quality assurance processes will include code reviews, automated testing, and user acceptance testing.
+The testing methodologies for this project include functional, usability, and performance testing. Project management practices will include daily stand-up meetings, sprint planning, and retrospectives. Quality assurance processes will include code reviews, automated testing, and user acceptance testing.
 
--In conclusion, the Agile software process model is an ideal choice for the proposed Student Feedback Management System. Its flexible and iterative approach, combined with effective project management practices and quality assurance processes, will ensure the timely delivery of a high-quality and user-friendly feedback management system.
+In conclusion, the Agile software process model is an ideal choice for the proposed Student Feedback Management System. Its flexible and iterative approach, combined with effective project management practices and quality assurance processes, will ensure the timely delivery of a high-quality and user-friendly feedback management system.
 </ul>
   
 ### 6. Budget:
