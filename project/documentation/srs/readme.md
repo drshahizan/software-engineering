@@ -11,6 +11,11 @@ Don't forget to hit the :star: if you like this repo.
 The IEEE Software Requirements Specifications (SRS) document is a standard document format developed by the Institute of Electrical and Electronics Engineers (IEEE) that provides a comprehensive description of the software requirements for a particular software system. The SRS document serves as a key communication tool between the software developers and the clients or stakeholders, who are responsible for defining the software's functionality, performance, and other non-functional requirements.
 
 ## 🔗 [Instructions](instruction.md)
+To produce the Software Requirements Specifications (SRS) document, you are required to complete two tasks:
+
+- **Task 1**: involves stakeholders, task delegation and project execution.
+- **[Task 2**: involves preparing the Software Requirements Specifications (SRS) document.
+
 ## 🔗 [List of Groups](srs-group.md)
 A team project for IEEE Software Requirements Specifications documentation involves multiple users working together to create a comprehensive document that outlines the functional and non-functional requirements of the software system. The project typically involves a Project Management Group, Requirements Gathering Group, Design Group, Development Group, Testing Group, and Documentation Group. Each group member has specific responsibilities and tasks, such as planning, organizing, gathering requirements, designing, implementing, testing, and documenting the software system. By working together, the groups can ensure that the software development process is efficient, effective, and produces high-quality software systems that meet the needs of their users. Effective communication, collaboration, and coordination between the groups are essential to ensure that the project meets its objectives and is delivered on time and within budget. The team project for IEEE Software Requirements Specifications documentation plays a vital role in ensuring that the software system meets the required standards and criteria and meets the expectations of its users.
 
