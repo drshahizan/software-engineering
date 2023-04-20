@@ -42,6 +42,23 @@ When dressing for an interview session with your stakeholder for your academic c
 
 It is important to remember that you want to make a professional impression during the interview, so avoid wearing casual clothing such as jeans, t-shirts, or sneakers. Additionally, make sure that your clothing is clean, ironed, and fits well. Dressing appropriately will show your stakeholder that you take the interview and your project seriously.
 
+## Materials to make the meeting productive
+When going to an interview session with your stakeholder for your academic course registration system project, it is important to bring the necessary materials to make the meeting productive. Here are some items that you should consider bringing with you:
+
+1. A notebook and pen: This will allow you to take notes during the interview and record important information.
+
+2. Your resume and portfolio: Bring a copy of your resume and portfolio to provide the stakeholder with an overview of your qualifications, experience, and previous work.
+
+3. Project documentation: Bring any relevant project documentation, such as project plans, requirements documents, or wireframes, to help guide the conversation.
+
+4. Questions: Bring a list of questions to ask the stakeholder to ensure that you cover all of the necessary topics during the interview.
+
+5. Technology: If the interview is virtual, make sure that you have access to the appropriate technology, such as a laptop, microphone, and webcam.
+
+6. Business cards: Consider bringing business cards to exchange with the stakeholder as a way to stay in touch and continue the conversation after the interview.
+
+By bringing these materials, you will be well-prepared for the interview and ensure that the conversation is productive and focused on the needs of your academic course registration system project.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
