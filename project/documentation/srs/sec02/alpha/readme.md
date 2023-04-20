@@ -17,20 +17,20 @@ Don't forget to hit the :star: if you like this repo.
     <th>Role</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
+    <td>1. Salini Ravinthiran </td>
+    <td> Business Analyst & UI/UX Designer </td>
   </tr>
   <tr>
-    <td>2</td>
-    <td></td>
+    <td>2. Nur Farah Adibah Binti Idris </td>
+    <td> Main Developer </td>
   </tr>
     <tr>
-    <td>3</td>
-    <td></td>
+    <td>3. Nadhrah NurSabrina Binti Zulaini </td>
+    <td> Database Administrator & Assistant Developer </td>
   </tr>
     <tr>
-    <td>4</td>
-    <td></td>
+    <td>4. Nur Aleysha Qurratu'aini Binti Mat Salleh </td>
+    <td> Quality Assurance Engineer & Assistant Developer </td>
   </tr>
 </table>
 
