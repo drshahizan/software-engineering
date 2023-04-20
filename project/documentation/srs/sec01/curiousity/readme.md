@@ -17,20 +17,20 @@ Don't forget to hit the :star: if you like this repo.
     <th>Role</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
+    <td>1. Low Ying Xi</td>
+    <td>Requirement Analyst & Developer assistant</td>
   </tr>
   <tr>
-    <td>2</td>
-    <td></td>
+    <td>2. Koh Li Hui</td>
+    <td>User Experience Designer & Developer assistant</td>
   </tr>
     <tr>
-    <td>3</td>
-    <td></td>
+    <td>3. Camily Tang Jia Lei</td>
+    <td>Main Developer & Quality Assurance Analyst</td>
   </tr>
     <tr>
-    <td>4</td>
-    <td></td>
+    <td>4. Ng Shu Yu</td>
+    <td>Documentation Specialist & Developer assistant</td>
   </tr>
 </table>
 
