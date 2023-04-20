@@ -8,6 +8,15 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Interview
+An interview with a stakeholder is a structured conversation between the project team and a person or group of people who have a stake in the success of the project. In the case of an academic course registration system, stakeholders might include students, faculty members, administrators, or IT staff who will be involved in the implementation or use of the system.
+
+The purpose of an interview with a stakeholder is to gather information about the stakeholder's needs, expectations, and requirements for the project. This information can be used to guide the design and development of the system, ensure that it meets the needs of its users, and identify any potential issues or challenges that need to be addressed.
+
+During an interview, the project team may ask a range of questions to help elicit the stakeholder's thoughts and feedback. These questions might include asking about the stakeholder's current processes for course registration, any pain points or challenges they experience, what features or functionality they would like to see in a new system, and how they envision using the system.
+
+Interviews with stakeholders are important because they provide valuable insights into the needs and expectations of the people who will be using or impacted by the system. By gathering feedback from stakeholders, the project team can ensure that the system is designed to meet the needs of its users and address any potential issues or challenges early in the development process. This can ultimately lead to a more successful project outcome and a system that is well-received and widely adopted by its users.
+
+## Before conducting an interview
 Before conducting an interview with your stakeholder for your academic course registration system project, here are a few things you can do to prepare:
 
 1. **Clarify the purpose and scope of the interview**: Have a clear understanding of what you hope to accomplish during the interview, the questions you want to ask, and the specific information you need from the stakeholder.
