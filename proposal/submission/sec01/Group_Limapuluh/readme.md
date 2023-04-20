@@ -19,7 +19,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ### Table of Contents
 - [Table of Contents](#table-of-contents)
-- [Executive Summary](#Executive Summary)
+- [Executive Summary](#Executive-Summary)
 - [Background](#Background)
   
 ### 1. Executive Summary
