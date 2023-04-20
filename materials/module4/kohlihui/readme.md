@@ -1,258 +1,216 @@
-# Development of a hospital information system
-A hospital information system is a software application that manages the administrative, financial, and clinical operations of a hospital. 
+# Software Requirements Document (SRD):Development of an UTMJB Event Management System
 
-#### Here are some key features that could be included in such a system:
+An event management system is a software application designed to help manage and organize events of all types and sizes. 
 
-### 1. Patient Registration
-- The system should allow patients to register for appointments, and for hospital staff to manage patient data such as personal details, medical history, and insurance information.
+#### Here are some key features that can be included in an event management system:
 
-### 2. Appointment Scheduling
-- The system should provide a way for patients to schedule appointments with physicians, and for hospital staff to manage appointment calendars, waiting lists, and reminders.
+### 1. Registration and ticketing: 
+- The system can provide an online registration and ticketing platform, allowing attendees to register for the event and purchase tickets online.
 
-### 3. Electronic Health Records (EHR)
-- The system should maintain an electronic health record for each patient, including medical history, allergies, lab results, and other clinical data. The EHR should be accessible to authorized healthcare providers and should comply with relevant regulatory requirements such as HIPAA.
+### 2. Event scheduling:
+- The system can allow event organizers to create and manage the event schedule, including the date, time, location, and other details.
 
-### 4. Clinical Decision Support
-- The system should provide healthcare providers with real-time clinical decision support based on the patient’s health record, such as alerts for drug interactions or allergies.
+### 3. Attendee management: 
+- The system can allow organizers to manage attendee information, including registration details, ticket sales, and communication with attendees.
 
-### 5. Order Entry and Results Reporting
-- The system should allow healthcare providers to enter orders for lab tests, medications, and procedures, and to receive results and reports electronically.
+### 4. Event marketing: 
+- The system can provide tools for event marketing and promotion, such as email campaigns, social media integrations, and advertising options.
 
-### 6. Billing and Claims Management
-- The system should manage hospital billing, claims processing, and reimbursement from insurance companies or government programs.
+### 5. Event analytics: 
+- The system can provide insights and analytics on event attendance, ticket sales, revenue, and other key metrics.
 
-### 7. Inventory Management
-- The system should manage hospital inventory, including medications, medical supplies, and equipment, and track usage, expiration dates, and reordering.
+### 6. Vendor management: 
+- The system can help manage vendor information and communication, including vendor registration, payment processing, and contract management.
 
-### 8. Administrative Tools
-- The system should provide administrative tools to hospital staff, such as managing staff schedules, generating reports, and tracking performance metrics.
+### 7. Event check-in: 
+- The system can provide a check-in process for attendees, allowing organizers to track attendance and provide a seamless experience for attendees.
 
-### 9. Communication
-- The system should provide a way for healthcare providers and hospital staff to communicate with each other, such as through messaging or email.
+### 8. Event feedback: 
+- The system can provide tools for gathering feedback from attendees and vendors, allowing organizers to improve future events based on feedback received.
 
-### 10. User Authentication
-- The system should require users to authenticate themselves before accessing any of its features, using secure methods such as passwords or two-factor authentication.
+### 9. Mobile app integration: 
+The system can integrate with a mobile app, providing attendees with easy access to event information, schedules, and other important details.
 
-### 11. Accessibility
-- The system should be designed to be accessible to all users, including those with disabilities or special needs.
-
-### 12. Security
-- The system should be designed with security in mind, including measures such as data encryption, intrusion detection, and access controls.
-
-
-Overall, a hospital information system should be user-friendly, efficient, and reliable, providing a seamless experience for healthcare providers and hospital staff alike.
+By including these key features in an event management system, organizers can streamline the event planning and management process, provide a seamless experience for attendees, and gather valuable insights to improve future events.
 
 
 # Requirement Engineering Process
 
-Requirement engineering is the process of gathering, analyzing, and documenting the needs and constraints of stakeholders to define the requirements for a system. 
+The Requirement Engineering Process of an event management system involves several steps, which are as follows:
 
-#### Here are some steps that could be taken in the requirement engineering process for a hospital information system:
+### 1. Elicitation: 
+This is the first step in the requirement engineering process, where the requirements of the system are gathered. This can be done through interviews, surveys, focus groups, or other techniques to understand the needs and expectations of the stakeholders.
 
-### 1. Identify Stakeholders
-- The first step is to identify the stakeholders for the hospital information system. These may include hospital administrators, healthcare providers, patients, insurance companies, and regulatory bodies.
+### 2. Analysis: 
+In this step, the requirements gathered in the elicitation phase are analyzed to identify any inconsistencies or conflicts, and to prioritize the requirements based on their importance.
 
-### 2. Elicit Requirements
-- The next step is to elicit requirements from the stakeholders. This can be done through interviews, surveys, and focus groups. The requirements should cover both functional requirements (what the system should do) and non-functional requirements (how the system should perform).
+### 3. Specification: 
+The requirements identified in the analysis phase are then documented in a clear and concise manner. This documentation may include use cases, user stories, or other types of specifications.
 
-### 3. Analyze Requirements
-- Once the requirements have been elicited, they need to be analyzed to identify any conflicts or inconsistencies. This may involve prioritizing the requirements based on their importance to different stakeholders and identifying any trade-offs that need to be made.
+### 4. Validation: 
+In this step, the documented requirements are reviewed by stakeholders and experts to ensure they are accurate, complete, and meet the needs of the users.
 
-### 4. Document Requirements
-- The requirements should be documented in a clear and concise way, using a standardized format such as a requirements specification document. This document should be regularly updated throughout the project to reflect any changes in the requirements.
+### 5. Verification: 
+In the verification phase, the requirements are checked against the actual implementation of the system to ensure they have been implemented correctly.
 
-### 5. Verify Requirements
-- The requirements should be verified to ensure that they are complete, accurate, and feasible. This may involve reviewing the requirements with stakeholders, conducting prototyping or simulation, and performing feasibility studies.
+### 6. Maintenance: 
+Once the system is in use, any changes or updates to the requirements must be managed through a maintenance process. This may include updating the documentation, testing the changes, and ensuring they are properly implemented in the system.
 
-### 6. Manage Requirement
-- As the project progresses, it is important to manage the requirements to ensure that they are being met. This may involve tracking changes to the requirements, managing scope creep, and ensuring that the requirements are aligned with the overall goals of the project.
-
-
-Overall, the requirement engineering process for a hospital information system should be systematic, collaborative, and iterative, involving all stakeholders in the process of defining and refining the requirements. By following a structured approach, the requirements for the system can be clearly defined, ensuring that the final product meets the needs of all stakeholders.
-
-# User and System Requirement in Hospital Information System
-
-User requirements in a hospital information system refer to the specific needs of the users or stakeholders of the system. System requirements refer to the technical capabilities and features that the system should have in order to meet these needs. 
-
-## User Requirement in Hospital Information System:
-
-#### Here are some examples of user requirements for a hospital information system:
-
-1. Healthcare providers need to access patient information quickly and easily in order to provide timely and effective care. They need the system to provide a clear and concise overview of the patient's medical history, including diagnoses, medications, test results, and allergies.
-
-2. Patients need to be able to access their own health information, such as test results and appointment schedules, in a secure and user-friendly way. They need the system to be accessible from a variety of devices, such as computers, smartphones, and tablets.
-
-3. Hospital administrators need to be able to track and manage the hospital's resources, including staff, equipment, and supplies. They need the system to provide real-time information on the availability and utilization of these resources.
-
-4. Insurance companies need to be able to access patient information and claims data in order to process claims and reimburse healthcare providers. They need the system to provide secure and timely access to this information.
-
-5. Patients and their families need to be able to communicate with healthcare providers and access educational resources related to their condition. They need the system to provide secure messaging and telehealth capabilities, as well as access to educational materials.
-
-By understanding these user requirements, a hospital information system can be designed to meet the needs of its users and support the delivery of high-quality healthcare services.
-
-## System Requirement in Hospital Information System:
-
-#### Here are some examples of user and system requirements for a hospital information system:
-
-1. The system should be fast and responsive, with low latency and high throughput, to ensure that healthcare providers can access patient information quickly and easily.
-
-2. The system should be secure, with robust access controls and data encryption, to protect patient information from unauthorized access or breaches.
-
-3. The system should be scalable, with the ability to handle increasing amounts of data and users as the hospital grows.
-
-4. The system should be interoperable, with the ability to integrate with other healthcare systems, such as electronic health record (EHR) systems and medical devices.
-
-5. The system should be reliable, with high uptime and minimal downtime, to ensure that healthcare providers can access patient information when they need it.
-
-6. The system should be customizable, with the ability to tailor workflows and modules to the specific needs of the hospital.
-
-7. The system should be compliant with relevant regulatory requirements, such as HIPAA, to ensure that patient data is kept secure and confidential.
-
-By considering these system requirements, a hospital information system can be designed to meet the needs of its users and support the delivery of high-quality healthcare services.
+Throughout the requirement engineering process, it is important to maintain open communication with stakeholders and to prioritize their needs and expectations. By following these steps, the development team can ensure that the event management system meets the requirements and expectations of the stakeholders, and delivers a valuable solution to meet the needs of event organizers and attendees.
 
 
-# Functional requirement in a Hospital Information System
+# User and System Requirement in Event Management System
 
-Functional requirements in a hospital information system refer to the specific capabilities and features that the system must have in order to support the delivery of high-quality healthcare services. 
+In an event management system, there are both system requirements and user requirements that need to be considered. 
 
-#### Here are some examples of functional requirements in a Hospital Information System:
+## System requirements refer to the functional and non-functional requirements of the system. Functional requirements are the specific features and functions that the system must perform, while non-functional requirements define how the system should perform in terms of usability, reliability, security, performance, and other factors.
 
-### 1. Patient Management
-- The system must be able to manage patient records and track their medical history, including diagnoses, medications, test results, and allergies. It should also be able to schedule and manage appointments, as well as track patient demographics and insurance information.
+#### Here are some examples of system requirements for an event management system:
 
-### 2. Clinical Decision Support
-- The system should be able to provide clinical decision support, such as alerts for potential drug interactions or reminders for preventive care measures.
+- The system must provide an online registration and ticketing platform.
+- The system must allow event organizers to create and manage the event schedule.
+- The system must provide tools for event marketing and promotion.
+- The system must provide analytics and reporting features to help organizers track attendance, ticket sales, revenue, and other key metrics.
+- The system must be secure and protect user data from unauthorized access.
 
-### 3. Medical Imaging
-- The system should be able to manage and store medical images, such as X-rays and CT scans, and provide tools for image analysis and diagnosis.
+## User requirements refer to the needs and expectations of the users of the system, such as event organizers, attendees, and vendors. These requirements may include specific features or functions that the users need to perform their tasks effectively and efficiently.
 
-### 4. Laboratory Management
-- The system should be able to manage laboratory tests and results, including ordering and tracking of specimens, as well as communication of results to healthcare providers and patients.
+#### Here are some examples of user requirements for an event management system:
 
-### 5. Prescription Management
-- The system should be able to manage prescriptions and medication orders, including electronic prescribing and drug utilization review.
+- Event organizers need an easy-to-use interface for creating and managing events.
+- Attendees need an easy-to-use registration process and access to event details, including the schedule and location.
+- Vendors need an easy-to-use interface for registering and managing their vendor information and payments.
+- Event attendees need an easy-to-use check-in process at the event.
 
-### 6. Billing and Claims Management
-- The system should be able to manage billing and claims processing, including generating invoices, managing insurance claims, and processing payments.
+In order to design and develop an effective event management system, it is important to consider both system requirements and user requirements. By understanding the needs and expectations of the users and ensuring that the system meets the functional and non-functional requirements, the system can provide a valuable solution to event organizers and attendees.
 
-### 7. Inventory Management
-- The system should be able to manage hospital inventory, including tracking of supplies, equipment, and medications, and providing real-time updates on availability and utilization.
+# Functional requirement in an Event Management System
 
-### 8. Reporting and Analytics
-- The system should be able to generate reports and provide analytics on various aspects of hospital operations, such as patient outcomes, resource utilization, and financial performance.
+Functional requirements are the specific features and functions that an event management system must perform to meet the needs of event organizers, attendees, vendors, and sponsors. 
 
-By incorporating these functional requirements into the hospital information system, healthcare providers can improve the quality of care, reduce errors, and increase efficiency in the delivery of healthcare services.
+#### These functional requirements can be broken down into several categories:
 
-# Non-functional requirement in a Hospital Information System
+### 1. Event Registration and Ticketing
+- The system must provide an online platform for attendees to register for the event and purchase tickets. This includes features such as payment processing, ticket validation, and ticket transfer capabilities.
 
-Non-functional requirements in a hospital information system refer to the quality attributes or characteristics that the system must possess, beyond its core functionality. These requirements are often related to performance, usability, security, and reliability. 
+### 2. Event Scheduling
+- The system must allow event organizers to create and manage the event schedule, including sessions, workshops, and keynote speeches. This includes features such as schedule editing, session and speaker management, and schedule conflict resolution.
 
-#### Here are some examples of non-functional requirements in a hospital information system:
+### 3. Marketing and Promotion
+- The system must provide tools for event marketing and promotion, such as email marketing and social media integration. This includes features such as email campaign management, social media integration, and discount codes.
 
-### 1. Performance
-- The system should be able to handle a large volume of data and transactions, with minimal latency and response time. This includes requirements such as the ability to handle a large number of concurrent users, and the capability to scale to accommodate growth in the number of users or data volume.
+### 4. Analytics and Reporting
+- The system must provide analytics and reporting features to help organizers track attendance, ticket sales, revenue, and other key metrics. This includes features such as real-time reporting, data visualization, and custom reporting options.
 
-### 2. Usability
-- The system should be easy to use, with an intuitive user interface and clear navigation. It should also provide accessibility features to accommodate users with disabilities.
+### 5. Vendor Management
+- The system must provide a platform for vendors to register and manage their information, including payment information, contact information, and product or service information. This includes features such as vendor registration, payment processing, and vendor performance tracking.
 
-### 3. Security
-- The system should be secure, with appropriate access controls to protect patient data and other sensitive information. It should also provide auditing and monitoring capabilities to detect and prevent unauthorized access or use.
+### 6. Sponsor Management
+- The system must provide a platform for sponsors to register and manage their information, including payment information, contact information, and branding materials. This includes features such as sponsor registration, payment processing, and sponsor performance tracking.
 
-### 4. Reliability
-- The system should be highly available, with minimal downtime or disruption to service. This includes requirements such as the ability to recover quickly from failures, and the capability to handle unexpected changes in load or demand.
+Overall, functional requirements in an event management system should focus on providing an easy-to-use, comprehensive platform that meets the needs of all stakeholders involved in the event. By considering these functional requirements, the event management system can provide a valuable solution that enhances the event experience for all involved.
 
-### 5. Compliance
-- The system should comply with applicable regulatory requirements, such as HIPAA and other privacy regulations. It should also adhere to industry standards for data security, interoperability, and other areas.
 
-By incorporating these non-functional requirements into the hospital information system, healthcare providers can ensure that the system is both functional and reliable, providing high-quality healthcare services while meeting key performance, security, and regulatory requirements.
+# Non-functional requirement in an Event Management System
+
+Non-functional requirements in an event management system refer to the system's performance, usability, and other qualities that are important but are not directly related to the system's functionality. 
+
+#### Here are some examples of non-functional requirements in an event management system:
+
+### 1. Performance: 
+- The system must be able to handle a high volume of traffic and transactions without slowing down or crashing. This includes requirements for response time, throughput, and scalability.
+
+### 2. Security: 
+- The system must ensure the confidentiality, integrity, and availability of all data and transactions. This includes requirements for data encryption, access controls, and disaster recovery.
+
+### 3. Usability: 
+- The system must be intuitive and easy to use for all stakeholders, including event organizers, attendees, vendors, and sponsors. This includes requirements for user interface design, user training, and accessibility.
+
+### 4. Reliability: 
+- The system must be reliable and available at all times, without any unplanned downtime. This includes requirements for system uptime, fault tolerance, and disaster recovery.
+
+### 5. Compatibility: 
+- The system must be compatible with a variety of hardware and software environments, including different browsers and operating systems. This includes requirements for interoperability and platform support.
+
+### 6. Maintainability: 
+- The system must be easy to maintain and update, with minimal downtime or disruption. This includes requirements for software version control, system documentation, and support.
+
+By considering these non-functional requirements, an event management system can ensure that it is not only functional but also secure, reliable, and easy to use for all stakeholders involved.
+
 
 # Interview
 
 ## Before:
 
-Before conducting an interview with stakeholders about the development of a hospital information system, there are several key steps that you should take to prepare. 
+Before conducting an interview with stakeholders for the development of an event management system, it is important to prepare thoroughly. 
 
-#### Here are some recommended steps:
+#### Here are some steps you can take:
 
-### 1. Identify the stakeholders: 
-- Start by identifying all of the stakeholders who have an interest in the development of the hospital information system. This may include healthcare providers, administrators, IT staff, patients, and other stakeholders who will be impacted by the system.
+### 1. Identify the stakeholders
+- First, identify all the stakeholders who will be involved in the development of the event management system. This may include event organizers, attendees, vendors, sponsors, and other relevant parties.
 
-### 2. Define the scope: 
-- Define the scope of the project, including the specific features and functions of the system that will be developed, and the timeline and budget for the project.
+### 2. Define the goals and objectives
+- Clarify the goals and objectives of the event management system. What are the stakeholders' requirements for the system? What problem does it solve, and what benefits does it offer?
 
-### 3. Create an interview guide: 
-- Develop an interview guide that outlines the questions you will ask during the interview, and the order in which you will ask them. This will help you stay on track and ensure that you cover all of the important topics during the interview.
+### 3. Create a list of questions
+- Create a list of questions that will help you gather the information you need from the stakeholders. These questions should be open-ended, focused on the stakeholders' needs, and designed to encourage discussion.
 
-### 4. Schedule the interviews: 
-- Contact each stakeholder and schedule a time for the interview. Make sure to allow enough time for the interview, and ensure that the stakeholder is available during that time.
+### 4. Determine the interview format
+- Decide on the format for the interview, such as in-person, phone, or video conferencing. Also, determine the time and duration of the interview and any logistics or technical requirements.
 
-### 5. Send a reminder: 
-- Send a reminder to each stakeholder a day or two before the interview, to confirm the time and location, and remind them of the purpose of the interview.
+### 5. Send out interview invitations
+- Send out invitations to the stakeholders, providing them with the date, time, and format of the interview. Be sure to include a description of the goals and objectives of the interview and the questions you will be asking.
 
-### 6. Prepare for the interview: 
-- Review the interview guide and prepare any materials you will need for the interview, such as note-taking tools or recording equipment.
+### 6. Prepare interview materials
+- Prepare any materials you will need for the interview, such as note-taking templates, audio or video recording equipment, and any other necessary tools or resources.
 
-### 7. Conduct the interview: 
-- During the interview, ask open-ended questions and encourage the stakeholder to share their thoughts and ideas. Take detailed notes, and record the interview if necessary.
-
-### 8. Follow up: 
-- After the interview, follow up with the stakeholder to thank them for their time and provide any additional information they may need. Use the information gathered during the interview to inform the development of the hospital information system.
-
-By taking these steps before conducting interviews with stakeholders, you can ensure that the interviews are productive and provide valuable insights into the needs and requirements of the stakeholders for the hospital information system.
+By preparing thoroughly before the interview, you can ensure that you gather the information you need from the stakeholders and lay the groundwork for a successful development process.
 
 ## During:
-During an interview with stakeholders about the development of a hospital information system, it is important to follow certain steps to ensure that you gather the most useful and relevant information. 
 
-#### Here are some recommended steps:
+During an interview with stakeholders for the development of an event management system, it is important to focus on gathering the information you need to understand their requirements and objectives. 
 
-### 1. Introduce yourself
-- Begin by introducing yourself and explaining the purpose of the interview.
+#### Here are some tips for conducting a successful interview:
 
-### 2. Explain the project
-- Provide a brief overview of the hospital information system project, including its goals, timeline, and budget.
+### 1. Be prepared
+- Before the interview, review your list of questions and prepare any materials or equipment you will need, such as note-taking templates or recording equipment.
 
-### 3. Ask open-ended questions
-- Ask open-ended questions that encourage stakeholders to share their thoughts and ideas. Examples of open-ended questions include: "What features do you think are essential for the hospital information system?", "What challenges do you currently face in managing patient information?", and "How do you think the hospital information system could improve patient care?"
+### 2. Establish rapport
+- Begin the interview by introducing yourself and establishing a rapport with the stakeholders. This will help put them at ease and encourage them to share their thoughts and ideas.
 
-### 4. Listen actively
-- Listen actively to the stakeholder's responses, taking notes on key points and asking follow-up questions as needed.
+### 3. Listen actively
+- As the stakeholders speak, listen actively and ask follow-up questions to clarify their meaning or explore their ideas further. Pay attention to their body language and tone of voice as well, as this can provide additional insights into their perspectives.
 
-### 5. Clarify responses
-- If the stakeholder provides a response that is unclear or needs further explanation, ask them to clarify or expand on their response.
+### 4. Take notes
+- Take detailed notes during the interview, capturing key points and ideas as well as any concerns or challenges raised by the stakeholders.
 
-### 6. Encourage feedback
-- Encourage stakeholders to provide feedback on the hospital information system project and the interview process itself.
+### 5. Stay focused
+- Keep the conversation focused on the goals and objectives of the event management system, and steer the discussion back on track if it veers off-topic.
 
-### 7. Thank the stakeholder
-- Thank the stakeholder for their time and input, and let them know how their feedback will be used in the project.
+### 6. Wrap up effectively
+- At the end of the interview, summarize the key points discussed and ask if there is anything else the stakeholders would like to add. Thank them for their time and contributions, and let them know what the next steps will be.
 
-### 8. Follow up
-- After the interview, follow up with the stakeholder to thank them again for their time, and provide any additional information they may need.
-
-By following these steps during an interview with stakeholders, you can ensure that you gather valuable information and insights that will help inform the development of the hospital information system. Additionally, actively listening and encouraging feedback can help build trust and engagement with stakeholders, which can be critical for the success of the project.
+By conducting the interview in a professional and structured manner, you can gather valuable insights from the stakeholders that will inform the development of the event management system.
 
 ## After:
 
-After conducting an interview with stakeholders about the development of a hospital information system, there are several key steps that you should take to ensure that you make the most of the information gathered. 
+After conducting an interview with stakeholders for the development of an event management system, it is important to organize and analyze the information you have gathered. 
 
-#### Here are some recommended steps:
+#### Here are some steps you can take:
 
-### 1. Review and organize the notes
-- Review the notes taken during the interview and organize them in a way that makes sense to you. This could include summarizing key points and highlighting any common themes or concerns.
+### 1. Review your notes
+- Review the notes you took during the interview and organize them by topic or theme. Identify the key points and ideas that were discussed, as well as any concerns or challenges raised by the stakeholders.
 
-### 2. Analyze the data
-- Analyze the data collected during the interview, identifying any patterns or trends that emerge. Use this analysis to help inform decisions about the development of the hospital information system.
+### 2. Analyze the information
+- Analyze the information you gathered and look for patterns or trends that emerge. Consider how the stakeholders' requirements and objectives fit into the overall goals of the event management system.
 
-### 3. Share the findings
-- Share the findings from the interview with the development team and other stakeholders who will be involved in the project. This will help ensure that everyone is on the same page and working towards the same goals.
+### 3. Identify gaps and opportunities
+- Identify any gaps or areas where additional information is needed, as well as any opportunities for innovation or improvement that the stakeholders may have suggested.
 
-### 4. Update the requirements
-- Use the information gathered during the interview to update the requirements for the hospital information system. This may include adding new features or functionality, or modifying existing requirements to better meet the needs of the stakeholders.
+### 4. Share findings
+- Share your findings with the development team and other relevant parties, such as project managers or sponsors. Discuss how the information you gathered can be used to inform the development of the event management system.
 
 ### 5. Follow up with stakeholders
-- Follow up with the stakeholders who participated in the interview, thanking them for their time and sharing any updates or changes that have been made based on their feedback.
+- Follow up with the stakeholders to confirm that you have accurately captured their requirements and objectives, and to clarify any additional questions or concerns they may have.
 
-### 6. Incorporate feedback into future interviews
-- Use the feedback gathered during the interviews to refine the interview process for future stakeholder interviews, making any necessary changes to the interview guide or approach.
-
-By taking these steps after conducting interviews with stakeholders, you can ensure that you are making the most of the information gathered and using it to inform the development of the hospital information system. This will help ensure that the system is developed in a way that meets the needs of all stakeholders and is successful in improving healthcare delivery.
+By following these steps, you can ensure that you effectively leverage the insights gained from the stakeholder interview to inform the development of the event management system.
