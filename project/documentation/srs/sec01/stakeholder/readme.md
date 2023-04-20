@@ -22,7 +22,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>Wong Khai Shian Nicholas</td>
-    <td></td>
+    <td>Requirements Analyst</td>
   </tr>
     <tr>
     <td>Muhammad Danial</td>
