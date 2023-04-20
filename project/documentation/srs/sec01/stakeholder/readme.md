@@ -69,8 +69,8 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2| | | | | 
+| 1 | 01/01/2023 | Dr MSO | Project Manager | Create project plan | Complete |
+| 2 | 20/04/2023 | Wong Khai Shian Nicholas | Requirements Analyst | Partially Complete | 
 | 3| | | | | 
 | 4| | | | | 
 | 5| | | | | 
