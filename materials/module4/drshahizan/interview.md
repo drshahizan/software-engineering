@@ -124,6 +124,22 @@ Capturing key points and information during an interview with a stakeholder is c
 
 Remember that the goal of capturing key points and information during a stakeholder interview is to ensure that you have an accurate record of their feedback and insights. By taking careful notes and summarizing key points, you can help ensure that the academic course registration system meets the needs of its users and is well-received and widely adopted.
 
+### Unexpected happens during an interview 
+
+If something unexpected happens during an interview with an expert, such as the stakeholder not understanding a question, there are several steps you can take to handle the situation:
+
+1. Rephrase the question: If the stakeholder doesn't understand the question, try rephrasing it in a simpler or more straightforward way. You could also break down the question into smaller parts and ask each part separately.
+
+2. Provide context: Sometimes stakeholders may not understand a question because they don't have enough context or background information. Try providing more context or explaining why the question is important in relation to the academic course registration system.
+
+3. Listen actively: If the stakeholder is struggling to understand a question, listen actively to their responses and try to pick up on any clues about what they might be struggling with. Ask follow-up questions to clarify their responses and try to get to the root of the issue.
+
+4. Be patient: Remember that not all stakeholders will have the same level of technical knowledge or understanding of the academic course registration system. Be patient and take the time to explain concepts or terms that the stakeholder may not be familiar with.
+
+5. Move on: If the stakeholder is still struggling to understand the question, don't spend too much time on it. Move on to the next question and come back to the question later if needed.
+
+Overall, the key to handling unexpected situations during an interview with an expert is to remain flexible and adaptable. Be prepared to change your approach or adjust your questions based on the stakeholder's feedback and responses. By being patient and listening actively, you can gather valuable insights and ensure that the academic course registration system meets the needs of its users.
+
 ## 3. After interview session
 After an interview session with your stakeholder for your academic course registration system project, there are several important steps that you should take:
 
