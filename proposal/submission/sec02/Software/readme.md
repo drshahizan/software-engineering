@@ -5,7 +5,7 @@
 
 ### Prepared by: Group Software
   1. Name and matrix no
-  2. Koh  Su Xuan and matrix no
+  2. Koh Su Xuan A22EC0060
   3. Name and matrix no
   4. Name and matrix no
 
