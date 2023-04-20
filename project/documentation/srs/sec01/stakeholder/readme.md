@@ -48,8 +48,8 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>1</td>
-    <td></td>
-    <td></td>
+    <td>Mr Hamdan</td>
+    <td>Hostel Staff</td>
     <td></td>
   </tr>
     <tr>
