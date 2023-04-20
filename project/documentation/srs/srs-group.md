@@ -11,100 +11,28 @@ Don't forget to hit the :star: if you like this repo.
 
 The following information pertains to the group responsible for implementing the IEEE Software Requirements Specifications documentation. This group is tasked with creating a document that outlines the functional and non-functional requirements of the software system. They are responsible for gathering the necessary requirements, designing the system, implementing and testing the software, and documenting the software development process. Effective communication, collaboration, and coordination between the group members are critical to ensuring that the project meets its objectives and is delivered on time and within budget. The group should adhere to the guidelines outlined by the IEEE for Software Requirements Specifications documentation and use clear and concise language, appropriate notation, and a structured format to ensure that the document is easily understood by all stakeholders involved in the software development process.
 
-## SRS: Activities and documents related to SRS
-
-To enter and update activities and documents related to the IEEE Software Requirements Specifications (SRS), each group should follow these instructions:
-
-1. **Assign roles and responsibilities**: Assign roles and responsibilities to each group member, such as requirements gatherer, analyst, specifier, validator, or manager.
-
-2. **Define the structure of the document**: Define the structure of the document, including the sections and subsections that will be used to organize the activities and documents related to the SRS.
-
-3. **Enter activities and documents**: Enter the activities and documents related to the SRS into the appropriate sections and subsections of the document, using clear and concise language and appropriate notation.
-
-4. **Update the document regularly**: Update the document regularly as new activities and documents are identified or as changes are made to existing ones.
-
-5. **Track progress**: Track the progress of each activity and document by using a status column, such as "not started," "in progress," "completed," or "validated."
-
-6. **Collaborate and communicate**: Collaborate and communicate with other group members to ensure that all activities and documents are entered and updated correctly and that everyone is aware of the progress and status of each item.
-
-By following these instructions, each group can effectively enter and update the activities and documents related to the IEEE SRS, ensuring that all requirements are gathered, analyzed, specified, validated, managed, and traced accurately and efficiently.
-
-## Task 1: Activity
-
-This information pertains to the project team members and how to list their roles and assigned tasks in a table for the IEEE Software Requirements Specifications documentation. The table should have a section for tasks that are complete, partially complete, and incomplete. If an assigned task is not done and has been assigned to another team member, this information should be stated in the table as well. The table should include the following columns:
-
-- **Member Name**: The name of the team member
-- **Role**: The role or position of the team member in the project
-- **Task**: The specific task or responsibility assigned to the team member
-- **Status**: The current status of the assigned task (complete, partially complete, incomplete)
-- **Date**: The date when the status was last updated
-
-By organizing the team members' roles and assigned tasks in this way, the project manager can easily track the progress of the project and identify any tasks that are falling behind schedule. It also helps team members to see their responsibilities and understand the status of the tasks they are working on. With this information readily available in a table format, the project manager can make informed decisions about resource allocation, adjust timelines and schedules, and ensure the project is delivered on time and within budget.
-
-
-An example of a lists tasks in the IEEE Software Requirements Specifications documentation:
-
-| Member Name | Role	| Task	| Status	| Date |
-| ----- | ------ | ------ | ------ | ------ |
-| Camily Tang | Project Manager | Create project plan | Complete | 01/01/2022|
-| Wan Nur Sofea | Requirements Analyst | Gather user requirements | Partially Complete | 02/15/2022|
-| Neo Zheng Weng | Designer | Create system architecture design | Complete | 01/10/2022|
-| Chai Yu Tong | Developer | Implement software functionality | Incomplete (assigned to Thevan Raju) | 03/01/2022|
-| Thevan Raju | Developer | Implement remaining software functionality | Incomplete | 03/01/2022|
-| Ariff Danish | Tester | Create testing plan and execute tests | Incomplete | 04/01/2022|
-| Bernice Lim  | Documentation Specialist | Create system documentation | Partially Complete | 02/28/2022|
-
-In this example, the table lists the team members, their roles, the tasks they are responsible for, the status of each task, and the date when the status was last updated. The date column provides a clear record of when each task was last updated and helps track the progress of the project over time. For instance, we can see that Camily Tang completed the project plan on January 1st, 2022, and that Bernice Lim  partially completed the system documentation on February 28th, 2022. Additionally, we can see that Chai Yu Tong assigned the task of implementing software functionality to Thevan Raju on March 1st, 2022, and that both developers have not yet completed their assigned tasks as of that date.
-
-## Task 2: Document
-You need to prepare documents related to Software Requirements Specifications. Here are some instructions on how to prepare documents related to Software Requirements Specifications (SRS):
-
-1. **Identify stakeholders**: Identify all stakeholders involved in the software development process, including end-users, project managers, and developers.
-
-2. **Gather requirements**: Gather all requirements for the software application from stakeholders, including functional and non-functional requirements.
-
-3. **Analyze requirements**: Analyze requirements to determine which ones are feasible and essential to the project. Prioritize requirements based on their importance.
-
-4. **Define scope**: Define the scope of the project by identifying the boundaries of what the software will and will not do.
-
-5. **Choose a standard format**: Choose a standard format for the SRS document, such as the IEEE standard format.
-
-6. **Create the SRS document**: Create the SRS document using the chosen format. The SRS document should include an introduction, functional requirements, non-functional requirements, use cases, and any additional information.
-
-7. **Use clear and concise language**: Use clear and concise language to describe requirements, ensuring they are unambiguous and easily understood.
-
-8. **Organize requirements**: Organize requirements into sections, using headings and subheadings to make the document easy to navigate.
-
-9. **Provide diagrams and illustrations**: Provide diagrams and illustrations to help visualize the software application and how it will function.
-
-10. **Review and revise**: Review the SRS document with all stakeholders and make any necessary revisions to ensure all requirements are captured.
-
-11. **Define acceptance criteria**: Define acceptance criteria for the software application based on the SRS document. The acceptance criteria should be clear and measurable.
-
-By following these instructions, you can prepare a comprehensive Software Requirements Specifications (SRS) document that outlines all the necessary requirements for the software application. This document will serve as a roadmap for the development and testing of the software application, ensuring that it meets all the necessary criteria for success.
-
 ## Section 1
 
 | No | Topic | Description | Activity | Document |
 | :-----: | ------ | ------ | :------: | :------: |
-| 1 | Allen | UTM Student Grading System |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
-| 2 | Alpha | College Room Rental System |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
-| 3 | Beta | Food Ordering System in UTM |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> |<a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
-| 4 | Engineering | Parcel Delivery Service |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
-| 5 | Program | Academic Consultation System|<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
-| 6 | Software| Student Health and Wellness Management System |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
-| 7 | Tempest | Badal Hajj and Umrah Management System|<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
+| 1 | Curiousity | UTM Events Management System |<a href="sec01/curiousity" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="https://drive.google.com/drive/folders/1aYNPTLyEzhnXa1N3ZhKtyqyPSq3My5vw?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
+| 2 | Lastminpotential | UTM Library Management System |<a href="sec01/lastminpotential" ><img src="../../../images/task.png" width="24px" height="24px" ></a> |<a href="https://drive.google.com/drive/folders/1Jd9PpRl-T7ZPukk70ngpkfTASOn2Dczd?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a>  |
+| 3 | Limapuluh | UTM Student Feedback System |<a href="sec01/limapuluh" ><img src="../../../images/task.png" width="24px" height="24px" ></a> |<a href="https://drive.google.com/drive/folders/165mLbTsRNmratunYS83trkycvVrxzZxc?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a>  |
+| 4 | Cutie | UTM Student Attendance Management System |<a href="sec01/cutie" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="https://drive.google.com/drive/folders/1Cc6jUmvTntoEq5_M8lMJhg6jELg_-IfI?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
+| 5 | Systema | Student Engagement | <a href="sec01/systema" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="https://drive.google.com/drive/folders/1oOTv_M35HU2o4OQtKXo2ISYAOgdxs9-5?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
+| 6 | Stakeholder | Student Accomodation System in KTDI |<a href="sec01/stakeholder" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="https://drive.google.com/drive/folders/1xP1JuvAbcXbyt3EyxCFSW0-bMcZxaPd5?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
 
 ## Section 2
 
 | No | Topic | Description | Activity | Document |
 | :-----: | ------ | ------ | :------: | :------: |
-| 1 | Curiousity | UTM Events Management System |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
-| 2 | Lastminpotential | UTM Library Management System |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> |<a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a>  |
-| 3 | Limapuluh | UTM Student Feedback System |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> |<a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a>  |
-| 4 | Cutie | UTM Student Attendance Management System |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
-| 5 | Systema | Student Engagement | <a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
-| 6 | Stakeholder | Student Accomodation System in KTDI |<a href="https://" ><img src="../../../images/markdownp.png" width="24px" height="24px" ></a> | <a href="https://" ><img src="../../../images/docx.png" width="24px" height="24px" ></a> |
+| 1 | Allen | UTM Student Grading System |<a href="sec02/allen" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="https://drive.google.com/drive/folders/1VLxRNwSyDmoDCzRIjD04Sygidz8Imp8A?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
+| 2 | Alpha | College Room Rental System |<a href="sec02/alpha" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="https://drive.google.com/drive/folders/13ORkXGqhQvWlCVeE8A95KMH4q6KokaPY?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
+| 3 | Beta | Food Ordering System in UTM |<a href="sec02/beta" ><img src="../../../images/task.png" width="24px" height="24px" ></a> |<a href="https://drive.google.com/drive/folders/1rMeCcmN_1bdhgX7RLZXZXZDiChRnBuxn?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
+| 4 | Engineering | Parcel Delivery Service |<a href="sec02/engineering" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="https://drive.google.com/drive/folders/1IGaLvSRuANvc2j9oh9FFVY87RtCi0OaJ?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
+| 5 | Program | Academic Consultation System|<a href="sec02/program" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="https://drive.google.com/drive/folders/1qMErQsLvpeDmBhWP44ltDzrNxc8GQe2s?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
+| 6 | Software| Student Health and Wellness Management System |<a href="sec02/software" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="https://drive.google.com/drive/folders/1wirG--meSpZ3Qbykf8V2CYOd2Y3FSdC2?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
+| 7 | Tempest | Badal Hajj and Umrah Management System|<a href="sec02/tempest" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="https://drive.google.com/drive/folders/1-zEGx_rXI_ZN3VAy71IBjJdcihMaBt5i?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
 
 
 ## Contribution 🛠️

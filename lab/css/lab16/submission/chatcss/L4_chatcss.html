@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <!--
+        Lab 16: Form Layout
+        Group:
+        1. Name: [Camily Tang Jia Lei], Matrix No: [A22EC0039], Github ID: [camilytang]
+        2. Name: [Chai Yu Tong], Matrix No: [A22EC0145], Github ID: [Yutongchai]
+        3. Name: [Neo Zheng Wenh], Matrix No: [A22EC0093], Github ID: [zw-weng]
+        4. Name: [Muhammad Danial Bin Ahmad Syahir], Matrix No: [A22EC0206], Github ID: [daniallllllll]
+        -->
+
+    <style>
+      body {
+        background-image: url("mal3.jpeg");
+        background-size: cover;
+        font-family: "Times New Roman", Times, serif;
+      }
+
+      a {
+        color: white;
+        text-decoration: none;
+      }
+
+      header {
+        display: flex;
+        position: absolute;
+        justify-content: space-between;
+        flex-wrap: nowrap;
+        padding-left: 50px;
+        padding-top: 10px;
+      }
+
+      nav {
+        display: flex;
+        padding-left: 830px;
+      }
+
+      ul {
+        list-style: none;
+        margin-right: 80px;
+        padding: 0;
+        justify-content: flex-end;
+      }
+
+      li {
+        display: inline-block;
+        margin: 10px;
+      }
+
+      li > a {
+        text-decoration: none;
+        text-align: center;
+      }
+
+      .btn {
+        border: 1px red solid;
+        color: red;
+        font-weight: 600;
+        width: 90px;
+        height: 40px;
+        text-align: center;
+        padding: 10px 5px 10px 5px;
+        text-decoration: none;
+        transition-duration: 0.4s;
+        cursor: pointer;
+      }
+
+      .btn:hover {
+        color: rgb(255, 255, 255);
+        background-color: red;
+      }
+
+      .cover {
+        position: absolute;
+        top: 50%;
+        bottom: 50%;
+        margin: auto;
+        transform: trnaslate(-50%, -50%);
+        padding: 350px;
+        width: 50%;
+        text-align: center;
+        color: red;
+        font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+          sans-serif;
+      }
+      form {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: nowrap;
+      }
+
+      input[type="search"] {
+        border: none;
+        width: 250px;
+        height: 40px;
+        outline: none;
+      }
+
+      input[type="search"]::placeholder {
+        color: black;
+        padding-left: 10px;
+      }
+
+      input[type="submit"] {
+        width: 100px;
+        height: 40px;
+        border: none;
+        color: white;
+        background-color: tomato;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h2>
+          <a href="#"><i class="ion-plane"></i> UTMtravel</a>
+        </h2>
+        <nav>
+          <ul>
+            <li>
+              <a class="btn" href="#" title="Register / Log In"
+                >Register/Log In</a
+              >
+            </li>
+            <li>
+              <a href="#" title="Hotels">Hotels</a>
+            </li>
+            <li>
+              <a href="#" title="Flights">Flights</a>
+            </li>
+            <li>
+              <a href="#" title="Tours">Tours</a>
+            </li>
+          </ul>
+        </nav>
+      </header>
+
+      <div class="cover">
+        <h1>Discover what's out there.</h1>
+        <form class="flex-form">
+          <label for="from">
+            <i class="ion-location"></i>
+          </label>
+          <input type="search" placeholder="Where do you want to go?" />
+          <input type="submit" value="Search" />
+        </form>
+      </div>
+    </div>
+  </body>
+</html>

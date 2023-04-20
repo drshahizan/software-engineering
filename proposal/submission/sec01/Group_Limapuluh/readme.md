@@ -10,7 +10,7 @@ Don't forget to hit the :star: if you like this repo.
 ## Student Feedback System at University Technology Malaysia (UTM)
 
 
-### Prepared by: <Group name>
+### Prepared by: <Group LimaPuluh>
   1. Lim Jing Yong A22EC0182
   2. Marcus Joey Sayner A22EC0192
   3. Soh Han Wei A22EC0273
@@ -19,14 +19,21 @@ Don't forget to hit the :star: if you like this repo.
 
 ### Table of Contents
 - [Table of Contents](#table-of-contents)
-  
+
 ### 1. Executive Summary
 - Start the proposal with a brief summary that highlights the main points of the project, including its goals, objectives, and expected outcomes.
 
 ### 2. Background:
-- The introduction should provide background information about the software project and the purpose of the proposal. 
-- It should also briefly describe the problem the software is meant to solve, the benefits it will provide, and its potential impact on the organization.
+<ul>
+<li>The student feedback management system is an important component of any higher education institution's efforts to continually improve the quality of education and the overall student experience. Currently, our institution lacks an effective system for collecting, analyzing, and acting on student feedback. The existing feedback system is ad hoc and lacks consistency, making it difficult to track trends and identify areas for improvement. This results in missed opportunities for enhancing teaching and learning outcomes and improving the overall student experience.</li>
 
+<li>Our proposed student feedback management system aims to address these challenges by introducing a comprehensive, automated system that collects and analyzes feedback from students on a regular basis. The proposed system leverages modern technology and best practices in data analytics to deliver a user-friendly interface that enables students to provide feedback easily and effectively. The system will be accessible through multiple channels, including web and mobile, and will provide real-time feedback analysis and reporting to faculty and administrators.</li>
+
+<li>Key features of the proposed system include automated feedback collection, personalized dashboards for faculty and students, trend analysis and data visualization, and data-driven decision making. The system will enable faculty to receive timely and actionable feedback on their teaching, allowing them to make adjustments to their instructional strategies and improve student outcomes. Administrators will have access to real-time data analysis and visualization tools, enabling them to identify areas for improvement and implement evidence-based changes.</li>
+
+<li>The proposed student feedback management system has the potential to significantly improve the quality of education and the overall student experience at our institution. By providing a comprehensive, automated system for collecting and analyzing feedback, the proposed system will enable us to identify areas for improvement and take action in a timely and effective manner. Additionally, the system will provide valuable insights and analytics that can be used to make data-driven decisions to improve student outcomes. Overall, the proposed system has the potential to position our institution as a leader in educational technology innovation and improve our competitive edge in attracting and retaining students.</li>
+</ul>
+  
 ### 3. Objectives:
 - The objectives section should clearly state the goals and objectives of the software project. It should describe the intended outcomes of the software and how it will address the problem it aims to solve. 
 - Objectives should be specific, measurable, achievable, relevant, and time-bound (SMART).
@@ -51,13 +58,29 @@ Finally, implementing a student feedback system can support UTM's efforts to mai
 - It should also describe any limitations or constraints that may affect the project.
 
 ### 5. Software Process Model:
-This section describe the ideal software process model for this system development. The write-up must consist of:
-- Explanation of the goal of the software process model.
-- Choose the ideal software process model and give justification.
-- The illustration of chosen software process model that relates to your project and shows every phase involved in the chosen software process model
-- Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. 
-- It should also describe the testing methodologies, project management practices, and quality assurance processes.
+<ul>The goal of the software process model for the Student Feedback Management System is to provide a structured and systematic approach to software development that ensures a high-quality, user-friendly, and reliable system that can meet the needs of the stakeholders. It defines the processes, activities, and tasks required to develop the software, from requirements gathering to testing, deployment, and maintenance.
 
+For the proposed Student Feedback Management System, the<b> Agile methodology</b> is an ideal software process model. This model allows for flexibility and responsiveness to stakeholder feedback while ensuring timely delivery of a functional feedback management system. It provides a framework for managing project risks and ensuring that quality and performance are maintained throughout the development process.
+  
+  <img src="https://interqualitybg.com/images/AGILE_METHODOLOGY_InterQuality_image_1.jpg">
+
+  <h3>The Agile software process model involves the following phases:</h3>
+
+  <li><b>Project Initiation</b>: This phase involves defining the project scope, objectives, and stakeholders. The activities include creating a project vision, identifying the user personas and user stories, and outlining the project requirements. The duration of this phase is two weeks, and the project manager is responsible for overseeing the activities.</li>
+
+  <li><b>Sprint Planning</b>: In this phase, the development team plans for the upcoming sprint. The activities include breaking down the user stories into smaller tasks, estimating the time needed for each task, and deciding what can be achieved within the sprint. The duration of this phase is one week, and the development team lead is responsible for overseeing the activities.</li>
+
+  <li><b>Sprint Execution</b>: This phase involves coding, testing, and integration of the features developed in the sprint. The activities include coding, testing, and documentation. The duration of this phase is three weeks, and the development team lead is responsible for overseeing the activities.</li>
+
+  <li><b>Sprint Review</b>: In this phase, the development team presents the completed features to the product owner and stakeholders for review. The activities include demoing the completed features, gathering feedback, and planning for the next sprint. The duration of this phase is one week, and the project manager is responsible for overseeing the activities.</li>
+
+  <li><b>Sprint Retrospective</b>: This phase involves reviewing the sprint process and identifying areas for improvement. The activities include discussing what went well and what didn't, identifying the root causes of problems, and planning for the next sprint. The duration of this phase is one week, and the project manager is responsible for overseeing the activities.</li><br>
+
+The testing methodologies for this project include functional, usability, and performance testing. Project management practices will include daily stand-up meetings, sprint planning, and retrospectives. Quality assurance processes will include code reviews, automated testing, and user acceptance testing.
+
+In conclusion, the Agile software process model is an ideal choice for the proposed Student Feedback Management System. Its flexible and iterative approach, combined with effective project management practices and quality assurance processes, will ensure the timely delivery of a high-quality and user-friendly feedback management system.
+</ul>
+  
 ### 6. Budget:
 - The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
 
