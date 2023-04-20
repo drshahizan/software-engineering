@@ -22,7 +22,7 @@ By defining these non-functional requirements, the academic course registration 
 
 ### Examples of functional and non-functional requirements
 
-Here are some examples of functional and non-functional requirements in an academic course registration system:
+Functional and non-functional requirements in an academic course registration system:
 
 #### Functional Requirements
 
@@ -86,7 +86,7 @@ To ensure requirements completeness and consistency, stakeholders should engage 
 
 ## Goals and Requirements 
 
-Here are some examples of goals and requirements in an academic course registration system:
+Goals and requirements in an academic course registration system:
 
 Goal 1: Increase student satisfaction with the course registration process
 Requirement: The system must provide an intuitive, easy-to-use interface that allows students to search for courses, add them to their schedule, and drop them if needed. The system must also provide clear instructions and guidance throughout the process.
