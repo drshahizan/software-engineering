@@ -9,7 +9,57 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Activity: Group Systema
+## Group Members
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Role</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>3</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>4</td>
+    <td></td>
+  </tr>
+</table>
 
+## Stakeholder
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Stakeholder</th>
+    <th>Position</th>
+    <th>Responsibility</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>2</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>3</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 ## Tasks involved in developing SRC documentation:
 
 | No | Date | Member Name | Role	| Task	| Status	| 
