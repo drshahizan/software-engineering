@@ -15,7 +15,7 @@ Don't forget to hit the :star: if you like this repo.
 ### Prepared by: <Group name>
   1. Name and matrix no
   2. Name and matrix no
-  3. Name and matrix no
+  3. TAN JUN YUAN A22EC0107
   4. Chen Pyng Haw A22EC0042
 
 ### Table of Contents
