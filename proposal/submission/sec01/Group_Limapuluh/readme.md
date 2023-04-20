@@ -22,7 +22,13 @@ Don't forget to hit the :star: if you like this repo.
 
 ### 1. Executive Summary
 - The goal of this proposal is to enhance the current student feedback system at our university to improve the overall learning experience for our students. The current system has limitations in terms of response rates and the quality of feedback that instructors receive. To address these issues, we propose implementing new methods for collecting feedback, such as online surveys and in-class polling, as well as better tools for analyzing and reporting the data collected.
+  
+- In addition to these improvements, the project aims to ensure that the enhanced feedback system is designed with accessibility in mind. This includes designing surveys and polling tools that are easy to use and understand for all students, regardless of their backgrounds or abilities. By achieving these objectives, the project seeks to improve the overall learning experience for our students, enhance the quality of teaching at our university, and promote inclusivity and accessibility in the feedback process.
+  
+- The expected outcomes of an enhanced feedback system include improved feedback for instructors, better learning experiences for students, and a more accurate representation of the student experience at our university. Our proposal is based on research studies and case examples from other universities that have successfully implemented similar improvements to their feedback systems.
 
+- Potential concerns around the cost and feasibility of implementing the changes have been addressed in the proposal, with a detailed implementation plan outlining timelines and milestones for each step of the process. We believe that this proposal has the potential to greatly enhance the student feedback system at our university and improve the overall learning experience for our students.
+  
 ### 2. Background:
 <ul>
 <li>The student feedback management system is an important component of any higher education institution's efforts to continually improve the quality of education and the overall student experience. Currently, our institution lacks an effective system for collecting, analyzing, and acting on student feedback. The existing feedback system is ad hoc and lacks consistency, making it difficult to track trends and identify areas for improvement. This results in missed opportunities for enhancing teaching and learning outcomes and improving the overall student experience.</li>
