@@ -48,8 +48,8 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>Mr Hamdan</td>
-    <td>Hostel Staff</td>
-    <td>Maintenance Staff</td>
+    <td>Hostel Administration</td>
+    <td>Senior Assistant Administrative Officer</td>
     <td>Ensure system is technically feasible and meets assets requirements.</td>
   </tr>
     <tr>
