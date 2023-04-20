@@ -26,7 +26,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
     <tr>
     <td>Muhammad Danial</td>
-    <td></td>
+    <td>Documentation Specialist & Developer assistant</td>
   </tr>
     <tr>
     <td>Joseph Lau Yeo Kai</td>
