@@ -33,6 +33,7 @@ Don't forget to hit the :star: if you like this repo.
 
 <li>The proposed student feedback management system has the potential to significantly improve the quality of education and the overall student experience at our institution. By providing a comprehensive, automated system for collecting and analyzing feedback, the proposed system will enable us to identify areas for improvement and take action in a timely and effective manner. Additionally, the system will provide valuable insights and analytics that can be used to make data-driven decisions to improve student outcomes. Overall, the proposed system has the potential to position our institution as a leader in educational technology innovation and improve our competitive edge in attracting and retaining students.</li>
 </ul>
+  
 ### 3. Objectives:
 - The objectives section should clearly state the goals and objectives of the software project. It should describe the intended outcomes of the software and how it will address the problem it aims to solve. 
 - Objectives should be specific, measurable, achievable, relevant, and time-bound (SMART).
