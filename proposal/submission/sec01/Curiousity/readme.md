@@ -13,10 +13,10 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ### Prepared by: Group Curiousity
-  1. Name and matrix no
-  2. Name and matrix no
-  3. Name and matrix no
-  4. Name and matrix no
+  1. Camily Tang Jia Lei A22EC0039
+  2. Koh Li Hui
+  3. Low Ying Xi
+  4. Ng Shu Yu
 
 ### Table of Contents
 - [Table of Contents](#table-of-contents)
