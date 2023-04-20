@@ -8,7 +8,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Part 2: Functional requirement
+# Part 2: Functional Requirement
 
 Functional requirements in an academic course registration system specify the system's intended behavior and the tasks that the system must perform to meet the needs of its users. Functional requirements define the features, capabilities, and tasks that the system must be able to perform to achieve its objectives.
 
