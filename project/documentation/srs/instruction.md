@@ -9,10 +9,13 @@ Don't forget to hit the :star: if you like this repo.
 
 # SRS: Instructions
 
-To produce the Software Requirements Specifications (SRS) document, you are required to complete two tasks:
+When producing the Software Requirements Specifications (SRS) document, you will need to complete two distinct tasks. 
 
-- **[Task 1](#task-1-activity)**: involves stakeholders, task delegation and project execution.
-- **[Task 2](#task-2-document)**: involves preparing the Software Requirements Specifications (SRS) document.
+## [Task 1](#task-1-activity)
+The first task, Task 1, will involve working with stakeholders to identify their requirements, delegating tasks, and executing the project plan. In this task, it is important to identify all stakeholders and ensure that their requirements are clearly understood and documented. This may involve conducting interviews or surveys, reviewing existing documentation, and holding meetings to discuss expectations and concerns. Additionally, task delegation is an important aspect of this task, as you will need to assign responsibilities to team members and monitor progress to ensure that project milestones are being met.
+
+## [Task 2](#task-2-document)
+Task 2, on the other hand, is focused specifically on preparing the Software Requirements Specifications (SRS) document. This task involves gathering and organizing all of the requirements identified in Task 1 into a comprehensive and structured document. The SRS document should include detailed information on the functional and non-functional requirements of the system, as well as any performance and reliability requirements. It should also include any necessary diagrams or flowcharts to help illustrate the requirements and how they fit together. Throughout this task, it is important to ensure that the SRS document is accurate, complete, and well-organized, so that it can be used as a reliable guide throughout the development process.
 
 ## SRS: Activities and documents related to SRS
 
