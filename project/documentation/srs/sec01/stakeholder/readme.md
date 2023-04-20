@@ -34,7 +34,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
   <td>Low Jie Sheng</td>
-  <td>Documentation Specialist and developer</td>
+  <td>Documentation Specialist & developer</td>
   </tr>
 </table>
 
