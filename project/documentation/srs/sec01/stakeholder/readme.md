@@ -17,20 +17,24 @@ Don't forget to hit the :star: if you like this repo.
     <th>Role</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td>Neo Zheng Weng</td>
     <td></td>
   </tr>
   <tr>
-    <td>2</td>
+    <td>Wong Khai Shian Nicholas</td>
     <td></td>
   </tr>
     <tr>
-    <td>3</td>
+    <td>Muhammad Danial</td>
     <td></td>
   </tr>
     <tr>
-    <td>4</td>
+    <td>Joseph Lau Yeo Kai</td>
     <td></td>
+  </tr>
+  <tr>
+  <td>Low Jie Sheng</td>
+  <td></td>
   </tr>
 </table>
 
