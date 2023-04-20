@@ -174,6 +174,16 @@ Translating the information gathered from an interview with a stakeholder to the
 
 Remember that the IEEE SRS document is a critical component of the academic course registration system development process, and it should be clear, concise, and comprehensive. By carefully analyzing and interpreting the stakeholder's feedback, you can ensure that the requirements are accurately captured and that the system meets the needs of its users.
 
+### Additional information
+
+The number of times you need to conduct interviews with stakeholders to complete the requirements for your IEEE SRS document can vary depending on the complexity of the academic course registration system and the number of stakeholders involved. In general, it is recommended to conduct multiple interviews with stakeholders to ensure that you capture all the necessary requirements and specifications for the system.
+
+During the interview process, you may need to schedule multiple sessions with each stakeholder to cover all the required topics thoroughly. It is important to be prepared and have a clear agenda and list of questions to ensure that you make the most of your time with each stakeholder.
+
+In addition to interviews, you can also gather requirements through other means, such as surveys, user observation, and feedback from other stakeholders, such as system administrators, instructors, and students.
+
+Ultimately, the goal is to ensure that you have a complete and accurate set of requirements for the academic course registration system that meet the needs of all stakeholders. This may require multiple iterations and reviews of the IEEE SRS document, as well as ongoing communication and collaboration with stakeholders throughout the development process.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
