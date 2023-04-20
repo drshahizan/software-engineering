@@ -54,17 +54,17 @@ It is important to remember that you want to make a professional impression duri
 ### Materials to make the meeting productive
 When going to an interview session with your stakeholder for your academic course registration system project, it is important to bring the necessary materials to make the meeting productive. Here are some items that you should consider bringing with you:
 
-1. A notebook and pen: This will allow you to take notes during the interview and record important information.
+1. **A notebook and pen**: This will allow you to take notes during the interview and record important information.
 
-2. Your resume and portfolio: Bring a copy of your resume and portfolio to provide the stakeholder with an overview of your qualifications, experience, and previous work.
+2. **Your resume and portfolio**: Bring a copy of your resume and portfolio to provide the stakeholder with an overview of your qualifications, experience, and previous work.
 
-3. Project documentation: Bring any relevant project documentation, such as project plans, requirements documents, or wireframes, to help guide the conversation.
+3. **Project documentation**: Bring any relevant project documentation, such as project plans, requirements documents, or wireframes, to help guide the conversation.
 
-4. Questions: Bring a list of questions to ask the stakeholder to ensure that you cover all of the necessary topics during the interview.
+4. **Questions**: Bring a list of questions to ask the stakeholder to ensure that you cover all of the necessary topics during the interview.
 
-5. Technology: If the interview is virtual, make sure that you have access to the appropriate technology, such as a laptop, microphone, and webcam.
+5. **Technology**: If the interview is virtual, make sure that you have access to the appropriate technology, such as a laptop, microphone, and webcam.
 
-6. Business cards: Consider bringing business cards to exchange with the stakeholder as a way to stay in touch and continue the conversation after the interview.
+6. **Business cards**: Consider bringing business cards to exchange with the stakeholder as a way to stay in touch and continue the conversation after the interview.
 
 By bringing these materials, you will be well-prepared for the interview and ensure that the conversation is productive and focused on the needs of your academic course registration system project.
 
