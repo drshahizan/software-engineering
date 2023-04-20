@@ -23,7 +23,13 @@ Don't forget to hit the :star: if you like this repo.
 - [Table of Contents](#table-of-contents)
   
 ### 1. Executive Summary
-- Start the proposal with a brief summary that highlights the main points of the project, including its goals, objectives, and expected outcomes.
+The Student Accommodation System proposal for Kolej Tun Dr Ismail (KTDI) is aimed at addressing the challenges that students and staff face when managing student accommodation. The current process for applying for and managing accommodation is manual and time-consuming, which can result in delays, errors, and frustration for students and staff alike.
+
+To address these challenges, the proposed software system will provide an online platform that allows students to apply for accommodation, make payments, and track the status of their application. KTDI staff will be able to manage room availability and allocation, communicate with students, and access relevant data and reports through a centralized dashboard.
+
+The system will be designed to be user-friendly and accessible, with clear instructions and prompts throughout the process. It will also incorporate automated communication channels, such as email notifications, to keep students and staff updated on the status of their applications and requests.
+
+The expected outcomes of the project include improved student satisfaction, as the software system will provide a more convenient and streamlined process for managing accommodation. KTDI staff will also benefit from increased efficiency, as the system will reduce the need for manual data entry and administrative tasks. Finally, the system is expected to reduce errors and delays in the accommodation management process, resulting in a more reliable and efficient system overall.
 
 ### 2. Background:
 - The introduction should provide background information about the software project and the purpose of the proposal. 
