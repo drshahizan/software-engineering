@@ -49,7 +49,7 @@ Don't forget to hit the :star: if you like this repo.
   <tr>
     <td>Mr Hamdan</td>
     <td>Hostel Staff</td>
-    <td></td>
+    <td>Maintenance staff</td>
     <td></td>
   </tr>
     <tr>
