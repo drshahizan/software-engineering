@@ -18,7 +18,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>Neo Zheng Weng</td>
-    <td>System Designer & Developer Assistant</td>
+    <td>UI/UX System Designer & Developer Assistant</td>
   </tr>
   <tr>
     <td>Wong Khai Shian Nicholas</td>
@@ -30,7 +30,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
     <tr>
     <td>Joseph Lau Yeo Kai</td>
-    <td></td>
+    <td>IT Support & Main Developer</td>
   </tr>
   <tr>
   <td>Low Jie Sheng</td>
@@ -71,7 +71,7 @@ Don't forget to hit the :star: if you like this repo.
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 01/01/2023 | Dr MSO | Project Manager | Create project plan | Complete |
 | 2 | 20/04/2023 | Wong Khai Shian Nicholas | Requirements Analyst | Partially Complete | 
-| 3 | 20/04/2023 | Neo Zheng Weng | System Designer | Partially Complete |
+| 3 | 20/04/2023 | Neo Zheng Weng | Designer | Partially Complete |
 | 4| | | | | 
 | 5| | | | | 
 
