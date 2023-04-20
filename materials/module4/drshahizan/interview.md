@@ -112,32 +112,32 @@ Stakeholder interviews are important because they provide valuable insights into
 ### Capturing key points and information
 Capturing key points and information during an interview with a stakeholder is crucial to ensuring that you have an accurate record of their feedback and insights. Here are some tips for capturing key points and information during a stakeholder interview:
 
-1. Use a notepad or computer: Bring a notepad or a computer to the interview so that you can take notes. Using a computer can be especially helpful if you type quickly and want to be able to easily organize and search your notes later.
+1. **Use a notepad or computer**: Bring a notepad or a computer to the interview so that you can take notes. Using a computer can be especially helpful if you type quickly and want to be able to easily organize and search your notes later.
 
-2. Use a structured template: Consider using a structured template or form that includes fields for key information, such as the stakeholder's name, role, and feedback on specific features or functions of the academic course registration system. This can help you stay organized and ensure that you capture all the relevant information.
+2. **Use a structured template**: Consider using a structured template or form that includes fields for key information, such as the stakeholder's name, role, and feedback on specific features or functions of the academic course registration system. This can help you stay organized and ensure that you capture all the relevant information.
 
-3. Record the interview: With the stakeholder's permission, you could record the interview using a digital recorder or your smartphone. This can be especially helpful if you want to review the interview later or if you're concerned about missing important details during the interview.
+3. **Record the interview**: With the stakeholder's permission, you could record the interview using a digital recorder or your smartphone. This can be especially helpful if you want to review the interview later or if you're concerned about missing important details during the interview.
 
-4. Ask for clarification: If you're unsure about something the stakeholder said or want to clarify a point, don't hesitate to ask for clarification. This can help ensure that you have an accurate record of their feedback.
+4. **Ask for clarification**: If you're unsure about something the stakeholder said or want to clarify a point, don't hesitate to ask for clarification. This can help ensure that you have an accurate record of their feedback.
 
-5. Summarize key points: At the end of the interview, summarize the key points that the stakeholder made and ask them to confirm that your summary is accurate. This can help ensure that you didn't miss anything important and that you have a clear understanding of the stakeholder's feedback.
+5. **Summarize key points**: At the end of the interview, summarize the key points that the stakeholder made and ask them to confirm that your summary is accurate. This can help ensure that you didn't miss anything important and that you have a clear understanding of the stakeholder's feedback.
 
 Remember that the goal of capturing key points and information during a stakeholder interview is to ensure that you have an accurate record of their feedback and insights. By taking careful notes and summarizing key points, you can help ensure that the academic course registration system meets the needs of its users and is well-received and widely adopted.
 
 ## 3. After interview session
 After an interview session with your stakeholder for your academic course registration system project, there are several important steps that you should take:
 
-1. Review your notes: Take time to review the notes you took during the interview and ensure that you have captured all of the important points and requirements discussed.
+1. **Review your notes**: Take time to review the notes you took during the interview and ensure that you have captured all of the important points and requirements discussed.
 
-2. Summarize the key points: Create a summary of the key points and requirements discussed during the interview to ensure that you have a clear understanding of the stakeholder's expectations.
+2. **Summarize the key points**: Create a summary of the key points and requirements discussed during the interview to ensure that you have a clear understanding of the stakeholder's expectations.
 
-3. Follow up: Send a follow-up email to the stakeholder thanking them for their time and summarizing the key points discussed during the interview. This will help ensure that you and the stakeholder are on the same page and can prevent misunderstandings.
+3. **Follow up**: Send a follow-up email to the stakeholder thanking them for their time and summarizing the key points discussed during the interview. This will help ensure that you and the stakeholder are on the same page and can prevent misunderstandings.
 
-4. Analyze the information: Analyze the information gathered during the interview to identify any patterns or common themes that may inform the project's direction.
+4. **Analyze the information**: Analyze the information gathered during the interview to identify any patterns or common themes that may inform the project's direction.
 
-5. Incorporate the feedback: Use the information gathered during the interview to refine the project plan and ensure that the new course registration system meets the stakeholder's needs.
+5. **Incorporate the feedback**: Use the information gathered during the interview to refine the project plan and ensure that the new course registration system meets the stakeholder's needs.
 
-6. Plan the next steps: Plan the next steps for the project, including any additional interviews or research necessary to gather more information.
+6. **Plan the next steps**: Plan the next steps for the project, including any additional interviews or research necessary to gather more information.
 
 By taking these steps, you can ensure that the interview session is productive and informative and that the project is on track to meet the stakeholder's expectations.
 
