@@ -30,6 +30,28 @@ Some examples of functional requirements for an academic course registration sys
 
 By defining these functional requirements, the academic course registration system can be designed and developed to meet the needs and expectations of its users and achieve its objectives. Functional requirements are essential to ensuring that the system performs its intended tasks accurately, efficiently, and reliably.
 
+## Non-functional requirements
+
+Non-functional requirements in an academic course registration system describe the system's characteristics and qualities that are not related to its functionality but are still important for its successful operation. Non-functional requirements are concerned with how well the system performs its functions, rather than what functions the system performs.
+
+Some examples of non-functional requirements for an academic course registration system might include:
+
+1. **Performance**: The system should be able to handle a large number of concurrent users and maintain its performance even during peak periods of usage.
+
+2. **Security**: The system should have robust security features to protect user data and prevent unauthorized access.
+
+3. **Usability**: The system should be user-friendly and intuitive, with clear and concise user interfaces that enable users to complete their tasks quickly and easily.
+
+4. **Availability**: The system should be available and accessible to users 24/7 with minimum downtime.
+
+5. **Scalability**: The system should be scalable and able to accommodate future growth and expansion without compromising its performance.
+
+6. **Reliability**: The system should be reliable, with a minimum number of errors, bugs, and failures.
+
+7. **Compliance**: The system should comply with relevant laws, regulations, and standards related to data privacy, security, and accessibility.
+
+By defining these non-functional requirements, the academic course registration system can be designed and developed to ensure that it operates effectively, efficiently, and securely. Non-functional requirements are essential to ensuring that the system provides a high-quality user experience, meets performance expectations, and complies with relevant regulations and standards.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
