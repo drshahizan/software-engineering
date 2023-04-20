@@ -154,10 +154,11 @@ Overall, the proposed system architecture will be designed to be scalable, secur
 - Explain the quality assurance and testing procedures that will be followed.
 
 ### 12. Conclusion:
-- Conclude your proposal with a call to action, highlighting the benefits of your proposed solution and urging the decision-makers to take action.
-- Summarize the proposal and reiterate the importance of the project.
-- Mention any potential limitations or challenges that may arise during the project.
-- Provide a call to action for the client to approve the proposal and proceed with the project.
+In conclusion, the proposed project aims to enhance the current student feedback system at our university by implementing new methods for collecting feedback, providing better tools for analyzing and reporting data, and ensuring accessibility for all students. The objectives of the project are to improve the quality and quantity of feedback that instructors receive, to provide more accurate and comprehensive data on the student experience at our university, and to promote inclusivity and accessibility in the feedback process. The scope of the project includes assessing the current system, identifying best practices, developing new methods for collecting feedback, providing better tools for analyzing and reporting data, ensuring accessibility, implementing the enhanced system, and providing training and support for instructors and students.
+  
+By achieving these objectives, the project seeks to improve the overall learning experience for our students, enhance the quality of teaching at our university, and promote inclusivity and accessibility in the feedback process. The enhanced feedback system will provide instructors with more accurate and comprehensive data on their teaching performance, which will enable them to make more informed decisions about their teaching practices. It will also provide students with a more effective way to provide feedback on their learning experience, which will help to improve the quality of education at our university.
+  
+In summary, the proposed project is an important step towards improving the quality of education and the overall learning experience for our students. We are confident that the enhanced feedback system will be a valuable tool for instructors and students alike, and we look forward to working with all stakeholders to ensure the successful implementation of this project.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
