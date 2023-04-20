@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-#  Proposal Template
+#  Proposal Templates
 
 ## UTM Event Management System
 
