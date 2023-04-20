@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+
+  <!--
+    Lab 16: Form Layout
+    Group:
+    1. Name: Ong Yi Yan, Matrix No: A22EC0101, Github ID: ONGYIYAN 
+    2. Name: Tang Yan Qing, Matrix No: A22EC0109, Github ID: yan-qing09
+    -->
+
+  <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet" type="text/css" />
+  <style>
+    body {
+      background-image: linear-gradient(#c7f7f0, #0bdbb1);
+      background-size: cover;
+    }
+
+    .login-box {
+      font-family: 'Poppins';
+      background-color: rgb(2, 116, 103);
+      color: white;
+      border-radius: 10px;
+      width: 100%;
+      max-width: 380px;
+      height: 300px;
+      margin: 170px auto 175px auto;
+      padding: 20px 20px 50px 20px;
+      box-shadow: 0 15px 30px 1px rgba(24, 66, 56, 0.726);
+    }
+
+    h2 {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    .user-box {
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    label {
+      position: absolute;
+      top: 0px;
+      bottom: 100px;
+      left: 30px;
+      font-size: 1rem;
+      padding: 10px 0;
+    }
+
+    input {
+      border: none;
+      border-bottom: 1px solid white;
+      background-color: transparent;
+      outline: none;
+      width: 100%;
+      max-width: 320px;
+      letter-spacing: 1px;
+      font-size: 1rem;
+      margin-bottom: 40px;
+      color: inherit;
+      padding: 10px 0;
+    }
+
+    input:focus+label,
+    input:valid+label {
+      color: rgb(28, 232, 255);
+      transform: translateY(-25px);
+      font-size: 1rem;
+      padding: 10px 0;
+    }
+
+
+    a {
+      display: block;
+      padding: 10px 15px 10px 15px;
+      border: none;
+      letter-spacing: 4px;
+      text-decoration: none;
+      margin: 20px 240px 80px 30px;
+      color: aqua;
+    }
+
+    a:hover {
+      background-color: rgb(28, 232, 255);
+      color: white;
+      text-decoration: none;
+      box-shadow: 5px 0 25px rgba(129, 255, 255, 0.726), -5px 0 25px rgba(129, 255, 255, 0.726),
+        0 20px 30px -2px rgba(129, 255, 255, 0.726), 0 -20px 30px rgba(129, 255, 255, 0.726);
+      border-radius: 5px;
+    }
+  </style>
+
+</head>
+
+<body>
+  <div class="login-box">
+    <h2>Login</h2>
+    <form>
+      <div class="user-box">
+        <input type="text" name="" required="" />
+        <label>Username</label>
+      </div>
+      <div class="user-box">
+        <input type="password" name="" required="" />
+        <label>Password</label>
+      </div>
+      <a href="#">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        SUBMIT
+      </a>
+    </form>
+  </div>
+</body>
+
+</html>

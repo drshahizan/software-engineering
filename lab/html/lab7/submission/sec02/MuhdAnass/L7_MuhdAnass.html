@@ -12,7 +12,7 @@
 
     table ,th, td
     {
-        border: 1px solid black;
+        border: 2px solid black;
         text-align: center;
     }
     </style>
@@ -21,7 +21,7 @@
     <table>
         <tr style="height: 100px">
 
-            <th width="20%"> Day / Period</th>
+            <th width="15%"> Day / Period</th>
             <th width="10%"> I 9:30-10:20</th>
             <th width="10%"> II 10:20-11:10</th>
             <th width="10%"> III 12:00-12:40</th>
@@ -31,6 +31,77 @@
             <th width="10%"> VI 2:20-3:10</th>
             <th width="10%"> VII 3:10-4:00</th>
         
+        </tr>
+
+        <tr style="height: 30px">
+            <th>
+                <i>
+                    Monday
+                </i>
+            </th>
+            <td>Eng</td>
+            <td>Math</td>
+            <td>Chem</td>
+            <td rowspan="5"; style="background-color: green">LUNCH</td>
+            <td colspan="3"; style="background-color: yellow">LAB</td>
+            <td>Phys</td>
+
+        </tr>
+
+        <tr style="height:30px">
+            <th>
+                <i>
+                    Tuesday
+                </i>
+            </th>
+            <td colspan="3"; style="background-color: yellow">LAB</td>
+            <td>Eng</td>
+            <td>Chem</td>
+            <td>Math</td>
+            <td style="background-color: blue">SPORTS</td>
+
+
+        </tr>
+
+        <tr style="height: 30px">
+        <th>
+            <i>
+                Wednesday
+            </i>
+        </th>
+        <td>Math</td>
+        <td>Phy</td>
+        <td>Eng</td>
+        <td>Chem</td>
+        <td colspan="3"> LIBRARY </td>
+
+        <!-- self note: colspan function for set how many column we want or we wanna set at what column-->
+        </tr>
+
+        <tr style="height:30px">
+            <th>
+                <i>
+                  Thursday
+                </i>
+            </th>
+            <td>Phy</td>
+            <td>Eng</td>
+            <td>Chem</td>
+            <td colspan="3" style="background-color: yellow">LAB</td>
+            <td>Math</td>
+
+        </tr>
+        <tr style="height:50px">
+            <th>
+                <i>
+                    Friday
+                </i>
+            </th>
+            <td>Phy</td>
+            <td>Eng</td>
+            <td>Chem</td>
+            <td colspan="3"; style="background-color: yellow">LAB</td>
+            <td>Math</td>
         </tr>
     </table>
 </body>
