@@ -21,7 +21,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Table of Contents](#table-of-contents)
 
 ### 1. Executive Summary
-- Start the proposal with a brief summary that highlights the main points of the project, including its goals, objectives, and expected outcomes.
+- The goal of this proposal is to enhance the current student feedback system at our university to improve the overall learning experience for our students. The current system has limitations in terms of response rates and the quality of feedback that instructors receive. To address these issues, we propose implementing new methods for collecting feedback, such as online surveys and in-class polling, as well as better tools for analyzing and reporting the data collected.
 
 ### 2. Background:
 <ul>
