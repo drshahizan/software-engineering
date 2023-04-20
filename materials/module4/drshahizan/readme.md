@@ -7,7 +7,10 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Software Requirements Document (SRD): Academic Course Registration System
+# Part 1: Requirements Engineering
+In the field of software development, requirements engineering is a crucial process that involves gathering, analyzing, specifying, and managing the requirements of a software system. This process is essential to ensure that the software system being developed meets the needs of its users and stakeholders.
+
+This article presents a case study of an Academic Course Registration System, where the goal is to develop an SRD that will serve as a foundation for the system's development. The stakeholders of the system include students, instructors, administration, and the IT department. The requirements gathering process involves conducting interviews, reviewing existing documents, and analyzing the system's context.
 
 ## Key steps in creating an Academic Course Registration System
 Developing an academic course registration system for a university involves several key steps:
