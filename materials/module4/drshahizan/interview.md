@@ -184,6 +184,24 @@ In addition to interviews, you can also gather requirements through other means,
 
 Ultimately, the goal is to ensure that you have a complete and accurate set of requirements for the academic course registration system that meet the needs of all stakeholders. This may require multiple iterations and reviews of the IEEE SRS document, as well as ongoing communication and collaboration with stakeholders throughout the development process.
 
+### Additional recommendations
+
+Here are some additional recommendations for conducting interviews with stakeholders for your academic course registration system:
+
+1. **Be prepared**: Before the interview, make sure you have a clear understanding of the system requirements and have prepared a list of questions to ask the stakeholder. This will help you stay on track and ensure that you cover all the necessary topics.
+
+2. **Actively listen**: During the interview, actively listen to the stakeholder's feedback and take notes on their responses. Ask follow-up questions to clarify any ambiguities or areas of uncertainty.
+
+3. **Be respectful and professional**: Show respect for the stakeholder's time and expertise. Be professional in your demeanor and avoid making assumptions or jumping to conclusions.
+
+4. **Consider the stakeholder's perspective**: Try to view the system from the stakeholder's perspective and understand their needs and priorities. This will help you identify the most critical requirements and ensure that the system meets the stakeholder's expectations.
+
+5. **Follow up**: After the interview, follow up with the stakeholder to clarify any remaining questions or concerns. This will help ensure that you have accurately captured their feedback and can use it to inform the IEEE SRS document.
+
+6. **Document everything**: Document all the information gathered during the interview, including any notes, recordings, or transcripts. This will help you refer back to the information later and ensure that you have a complete and accurate record of the stakeholder's feedback.
+
+By following these recommendations, you can conduct effective interviews with stakeholders and ensure that you gather all the necessary information to develop a successful academic course registration system.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
