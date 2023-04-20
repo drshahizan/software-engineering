@@ -29,7 +29,7 @@ Don't forget to hit the :star: if you like this repo.
     <td></td>
   </tr>
     <tr>
-    <td>4</td>
+    <td>4 Chen Pyng Haw</td>
     <td></td>
   </tr>
 </table>
