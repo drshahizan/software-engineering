@@ -17,20 +17,24 @@ Don't forget to hit the :star: if you like this repo.
     <th>Role</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
+    <td>1 Yong Wern Jie</td>
+    <td>Project manager & Requirement gatherer</td>
   </tr>
   <tr>
-    <td>2</td>
-    <td></td>
+    <td>2 Marcus Joey Sayner</td>
+    <td>Software developer & Documentation contributor</td>
   </tr>
-    <tr>
-    <td>3</td>
-    <td></td>
+  <tr>
+    <td>3 Lim Jing Yong</td>
+    <td>UX/UI Designer & Tester</td>
   </tr>
-    <tr>
-    <td>4</td>
-    <td></td>
+  <tr>
+    <td>4 Soh Han Wei</td>
+    <td>Database administrator & Developer assistant</td>
+  </tr>
+  <tr>
+    <td>5 Lee Soon Der</td>
+    <td>Quality assurance tester & Design contributor</td>
   </tr>
 </table>
 

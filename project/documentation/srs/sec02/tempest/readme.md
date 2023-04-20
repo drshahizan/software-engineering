@@ -17,19 +17,19 @@ Don't forget to hit the :star: if you like this repo.
     <th>Role</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td>1. Danial Harriz bin Mohd Asineh @ Mohd Asneh</td>
     <td></td>
   </tr>
   <tr>
-    <td>2</td>
+    <td>2. Muhammad Anas bin Mohd Pikri</td>
     <td></td>
   </tr>
     <tr>
-    <td>3</td>
+    <td>3. Kugen A/L Kalidas</td>
     <td></td>
   </tr>
     <tr>
-    <td>4</td>
+    <td>4. Muhammad Luqman Hakim bin Mohd Rizaudin</td>
     <td></td>
   </tr>
 </table>
