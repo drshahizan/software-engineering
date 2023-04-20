@@ -60,7 +60,7 @@ Finally, implementing a student feedback system can support UTM's efforts to mai
 ### 5. Software Process Model:
 <ul>-The goal of the software process model for the Student Feedback Management System is to provide a structured and systematic approach to software development that ensures a high-quality, user-friendly, and reliable system that can meet the needs of the stakeholders. It defines the processes, activities, and tasks required to develop the software, from requirements gathering to testing, deployment, and maintenance.
 
--For the proposed Student Feedback Management System, the<b> Agile methodology<b> is an ideal software process model. This model allows for flexibility and responsiveness to stakeholder feedback while ensuring timely delivery of a functional feedback management system. It provides a framework for managing project risks and ensuring that quality and performance are maintained throughout the development process.
+-For the proposed Student Feedback Management System, the<b> Agile methodology</b> is an ideal software process model. This model allows for flexibility and responsiveness to stakeholder feedback while ensuring timely delivery of a functional feedback management system. It provides a framework for managing project risks and ensuring that quality and performance are maintained throughout the development process.
 
   <h3>The Agile software process model involves the following phases:</h3>
 
