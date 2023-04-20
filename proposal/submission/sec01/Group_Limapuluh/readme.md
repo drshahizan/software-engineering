@@ -10,7 +10,7 @@ Don't forget to hit the :star: if you like this repo.
 ## Student Feedback System at University Technology Malaysia (UTM)
 
 
-### Prepared by: <Group name>
+### Prepared by: <Group LimaPuluh>
   1. Lim Jing Yong A22EC0182
   2. Marcus Joey Sayner A22EC0192
   3. Soh Han Wei A22EC0273
@@ -19,14 +19,27 @@ Don't forget to hit the :star: if you like this repo.
 
 ### Table of Contents
 - [Table of Contents](#table-of-contents)
-  
+
 ### 1. Executive Summary
-- Start the proposal with a brief summary that highlights the main points of the project, including its goals, objectives, and expected outcomes.
+- The goal of this proposal is to enhance the current student feedback system at our university to improve the overall learning experience for our students. The current system has limitations in terms of response rates and the quality of feedback that instructors receive. To address these issues, we propose implementing new methods for collecting feedback, such as online surveys and in-class polling, as well as better tools for analyzing and reporting the data collected.
+  
+- In addition to these improvements, the project aims to ensure that the enhanced feedback system is designed with accessibility in mind. This includes designing surveys and polling tools that are easy to use and understand for all students, regardless of their backgrounds or abilities. By achieving these objectives, the project seeks to improve the overall learning experience for our students, enhance the quality of teaching at our university, and promote inclusivity and accessibility in the feedback process.
+  
+- The expected outcomes of an enhanced feedback system include improved feedback for instructors, better learning experiences for students, and a more accurate representation of the student experience at our university. Our proposal is based on research studies and case examples from other universities that have successfully implemented similar improvements to their feedback systems.
 
+- Potential concerns around the cost and feasibility of implementing the changes have been addressed in the proposal, with a detailed implementation plan outlining timelines and milestones for each step of the process. We believe that this proposal has the potential to greatly enhance the student feedback system at our university and improve the overall learning experience for our students.
+  
 ### 2. Background:
-- The introduction should provide background information about the software project and the purpose of the proposal. 
-- It should also briefly describe the problem the software is meant to solve, the benefits it will provide, and its potential impact on the organization.
+<ul>
+<li>The student feedback management system is an important component of any higher education institution's efforts to continually improve the quality of education and the overall student experience. Currently, our institution lacks an effective system for collecting, analyzing, and acting on student feedback. The existing feedback system is ad hoc and lacks consistency, making it difficult to track trends and identify areas for improvement. This results in missed opportunities for enhancing teaching and learning outcomes and improving the overall student experience.</li>
 
+<li>Our proposed student feedback management system aims to address these challenges by introducing a comprehensive, automated system that collects and analyzes feedback from students on a regular basis. The proposed system leverages modern technology and best practices in data analytics to deliver a user-friendly interface that enables students to provide feedback easily and effectively. The system will be accessible through multiple channels, including web and mobile, and will provide real-time feedback analysis and reporting to faculty and administrators.</li>
+
+<li>Key features of the proposed system include automated feedback collection, personalized dashboards for faculty and students, trend analysis and data visualization, and data-driven decision making. The system will enable faculty to receive timely and actionable feedback on their teaching, allowing them to make adjustments to their instructional strategies and improve student outcomes. Administrators will have access to real-time data analysis and visualization tools, enabling them to identify areas for improvement and implement evidence-based changes.</li>
+
+<li>The proposed student feedback management system has the potential to significantly improve the quality of education and the overall student experience at our institution. By providing a comprehensive, automated system for collecting and analyzing feedback, the proposed system will enable us to identify areas for improvement and take action in a timely and effective manner. Additionally, the system will provide valuable insights and analytics that can be used to make data-driven decisions to improve student outcomes. Overall, the proposed system has the potential to position our institution as a leader in educational technology innovation and improve our competitive edge in attracting and retaining students.</li>
+</ul>
+  
 ### 3. Objectives:
 - The objectives section should clearly state the goals and objectives of the software project. It should describe the intended outcomes of the software and how it will address the problem it aims to solve. 
 - Objectives should be specific, measurable, achievable, relevant, and time-bound (SMART).
@@ -47,17 +60,50 @@ Objective 5: Support accreditation and compliance efforts
 Finally, implementing a student feedback system can support UTM's efforts to maintain accreditation and compliance with relevant regulations. Many accrediting bodies require universities to collect and use student feedback to inform decision-making and improve educational outcomes. A robust student feedback system can help UTM meet these requirements and maintain its status as a top-tier institution.
 
 ### 4. Scope: 
-- The scope section defines the boundaries of the project and outlines what features and functionality will be included in the software. 
-- It should also describe any limitations or constraints that may affect the project.
-
+The scope of the project includes the enhancement of the current student feedback system at our university. This includes:
+  
+#### 1) Assessing the current system
+- This involves reviewing the existing student feedback system to identify its strengths, weaknesses, and limitations. This may include analyzing response rates, evaluating the quality of feedback received by instructors, and identifying any technical or logistical issues that may be hindering the effectiveness of the current system.
+  
+#### 2) Identifying best practices
+- This involves researching best practices from other universities and educational institutions that have successfully implemented similar improvements to their feedback systems. This may include looking at case studies, attending conferences or workshops, and consulting with experts in the field.
+  
+#### 3) Developing new methods for collecting feedback
+- This involves implementing new methods for collecting feedback that are designed to increase response rates and improve the quality and quantity of feedback that instructors receive. This may include using online surveys, in-class polling, or other methods that are more convenient and accessible for students.
+  
+#### 4) Providing better tools for analyzing and reporting data 
+- This involves developing better tools for analyzing and reporting the data collected through the feedback system to provide more accurate and comprehensive data on the student experience at our university. This may include using data visualization tools, developing more sophisticated analytics capabilities, and providing instructors with more detailed reports on their teaching performance.
+  
+#### 5) Implementing the enhanced system
+- This involves rolling out the enhanced feedback system in a phased approach, with testing and evaluation at each stage to ensure that the system is working as intended. This may involve piloting the new system in a small number of classes before rolling it out university-wide, or testing different survey questions or polling methods to see what works best.
+  
+#### 6) Ensuring accessibility
+- This involves designing surveys and polling tools that are easy to use and understand for all students, regardless of their backgrounds or abilities. This may involve providing alternative formats or accommodations for students with disabilities, or using plain language and simple formatting to make the survey questions more accessible to non-native speakers.
+  
 ### 5. Software Process Model:
-This section describe the ideal software process model for this system development. The write-up must consist of:
-- Explanation of the goal of the software process model.
-- Choose the ideal software process model and give justification.
-- The illustration of chosen software process model that relates to your project and shows every phase involved in the chosen software process model
-- Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. 
-- It should also describe the testing methodologies, project management practices, and quality assurance processes.
+<ul>The goal of the software process model for the Student Feedback Management System is to provide a structured and systematic approach to software development that ensures a high-quality, user-friendly, and reliable system that can meet the needs of the stakeholders. It defines the processes, activities, and tasks required to develop the software, from requirements gathering to testing, deployment, and maintenance.
 
+For the proposed Student Feedback Management System, the<b> Agile methodology</b> is an ideal software process model. This model allows for flexibility and responsiveness to stakeholder feedback while ensuring timely delivery of a functional feedback management system. It provides a framework for managing project risks and ensuring that quality and performance are maintained throughout the development process.
+  
+  <img src="https://interqualitybg.com/images/AGILE_METHODOLOGY_InterQuality_image_1.jpg">
+
+  <h3>The Agile software process model involves the following phases:</h3>
+
+  <li><b>Project Initiation</b>: This phase involves defining the project scope, objectives, and stakeholders. The activities include creating a project vision, identifying the user personas and user stories, and outlining the project requirements. The duration of this phase is two weeks, and the project manager is responsible for overseeing the activities.</li>
+
+  <li><b>Sprint Planning</b>: In this phase, the development team plans for the upcoming sprint. The activities include breaking down the user stories into smaller tasks, estimating the time needed for each task, and deciding what can be achieved within the sprint. The duration of this phase is one week, and the development team lead is responsible for overseeing the activities.</li>
+
+  <li><b>Sprint Execution</b>: This phase involves coding, testing, and integration of the features developed in the sprint. The activities include coding, testing, and documentation. The duration of this phase is three weeks, and the development team lead is responsible for overseeing the activities.</li>
+
+  <li><b>Sprint Review</b>: In this phase, the development team presents the completed features to the product owner and stakeholders for review. The activities include demoing the completed features, gathering feedback, and planning for the next sprint. The duration of this phase is one week, and the project manager is responsible for overseeing the activities.</li>
+
+  <li><b>Sprint Retrospective</b>: This phase involves reviewing the sprint process and identifying areas for improvement. The activities include discussing what went well and what didn't, identifying the root causes of problems, and planning for the next sprint. The duration of this phase is one week, and the project manager is responsible for overseeing the activities.</li><br>
+
+The testing methodologies for this project include functional, usability, and performance testing. Project management practices will include daily stand-up meetings, sprint planning, and retrospectives. Quality assurance processes will include code reviews, automated testing, and user acceptance testing.
+
+In conclusion, the Agile software process model is an ideal choice for the proposed Student Feedback Management System. Its flexible and iterative approach, combined with effective project management practices and quality assurance processes, will ensure the timely delivery of a high-quality and user-friendly feedback management system.
+</ul>
+  
 ### 6. Budget:
 - The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
 
@@ -108,10 +154,11 @@ Overall, the proposed system architecture will be designed to be scalable, secur
 - Explain the quality assurance and testing procedures that will be followed.
 
 ### 12. Conclusion:
-- Conclude your proposal with a call to action, highlighting the benefits of your proposed solution and urging the decision-makers to take action.
-- Summarize the proposal and reiterate the importance of the project.
-- Mention any potential limitations or challenges that may arise during the project.
-- Provide a call to action for the client to approve the proposal and proceed with the project.
+In conclusion, the proposed project aims to enhance the current student feedback system at our university by implementing new methods for collecting feedback, providing better tools for analyzing and reporting data, and ensuring accessibility for all students. The objectives of the project are to improve the quality and quantity of feedback that instructors receive, to provide more accurate and comprehensive data on the student experience at our university, and to promote inclusivity and accessibility in the feedback process. The scope of the project includes assessing the current system, identifying best practices, developing new methods for collecting feedback, providing better tools for analyzing and reporting data, ensuring accessibility, implementing the enhanced system, and providing training and support for instructors and students.
+  
+By achieving these objectives, the project seeks to improve the overall learning experience for our students, enhance the quality of teaching at our university, and promote inclusivity and accessibility in the feedback process. The enhanced feedback system will provide instructors with more accurate and comprehensive data on their teaching performance, which will enable them to make more informed decisions about their teaching practices. It will also provide students with a more effective way to provide feedback on their learning experience, which will help to improve the quality of education at our university.
+  
+In summary, the proposed project is an important step towards improving the quality of education and the overall learning experience for our students. We are confident that the enhanced feedback system will be a valuable tool for instructors and students alike, and we look forward to working with all stakeholders to ensure the successful implementation of this project.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

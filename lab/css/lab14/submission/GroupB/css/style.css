@@ -1,0 +1,87 @@
+/*
+Lab 14: Website Layout
+Group: Group B
+1. Name: KOH SU XUAN, Matrix No: A22EC0060, Github ID: kohxuan
+2. Name: [Name], Matrix No: [Matrix Number], Github ID: [Github ID]
+3. Name: [Name], Matrix No: [Matrix Number], Github ID: [Github ID]
+4. Name: [Name], Matrix No: [Matrix Number], Github ID: [Github ID]
+*/
+
+body,
+html {
+    height: 100%;
+    font-family: sans-serif;
+}
+
+.pimg1 {
+    background-image: url("../images/mal1.jpeg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: opacity(80%);
+}
+
+.ptext {
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    text-transform: uppercase;
+    letter-spacing: 9px;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.border {
+    border: 3px solid rgb(33, 33, 33);
+    background-color: rgb(33, 33, 33);
+    padding: 15px;
+}
+
+.section-light {
+    background-color: rgba(252, 253, 254, 0.556);
+    padding: 80px 150px 80px 150px;
+    text-align: center;
+    color: rgb(115, 115, 115);
+    line-height: 2.0;
+    margin: auto;
+}
+
+.pimg2 {
+    background-image: url("../images/mal2.jpeg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: opacity(80%);
+}
+
+.trans {
+    border: 0;
+    background-color: transparent;
+}
+
+.section-dark {
+    background-color: rgba(0, 0, 0, 0.859);
+    padding: 80px 150px 80px 150px;
+    text-align: center;
+    color: rgb(208, 207, 207);
+    line-height: 2.0;
+    margin: auto;
+}
+
+.pimg3 {
+    background-image: url("../images/mal3.jpeg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: opacity(80%);
+}
