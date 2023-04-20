@@ -60,9 +60,26 @@ Objective 5: Support accreditation and compliance efforts
 Finally, implementing a student feedback system can support UTM's efforts to maintain accreditation and compliance with relevant regulations. Many accrediting bodies require universities to collect and use student feedback to inform decision-making and improve educational outcomes. A robust student feedback system can help UTM meet these requirements and maintain its status as a top-tier institution.
 
 ### 4. Scope: 
-- The scope section defines the boundaries of the project and outlines what features and functionality will be included in the software. 
-- It should also describe any limitations or constraints that may affect the project.
-
+The scope of the project includes the enhancement of the current student feedback system at our university. This includes:
+  
+#### 1) Assessing the current system
+- This involves reviewing the existing student feedback system to identify its strengths, weaknesses, and limitations. This may include analyzing response rates, evaluating the quality of feedback received by instructors, and identifying any technical or logistical issues that may be hindering the effectiveness of the current system.
+  
+#### 2) Identifying best practices
+- This involves researching best practices from other universities and educational institutions that have successfully implemented similar improvements to their feedback systems. This may include looking at case studies, attending conferences or workshops, and consulting with experts in the field.
+  
+#### 3) Developing new methods for collecting feedback
+- This involves implementing new methods for collecting feedback that are designed to increase response rates and improve the quality and quantity of feedback that instructors receive. This may include using online surveys, in-class polling, or other methods that are more convenient and accessible for students.
+  
+#### 4) Providing better tools for analyzing and reporting data 
+- This involves developing better tools for analyzing and reporting the data collected through the feedback system to provide more accurate and comprehensive data on the student experience at our university. This may include using data visualization tools, developing more sophisticated analytics capabilities, and providing instructors with more detailed reports on their teaching performance.
+  
+#### 5) Implementing the enhanced system
+- This involves rolling out the enhanced feedback system in a phased approach, with testing and evaluation at each stage to ensure that the system is working as intended. This may involve piloting the new system in a small number of classes before rolling it out university-wide, or testing different survey questions or polling methods to see what works best.
+  
+#### 6) Ensuring accessibility
+- This involves designing surveys and polling tools that are easy to use and understand for all students, regardless of their backgrounds or abilities. This may involve providing alternative formats or accommodations for students with disabilities, or using plain language and simple formatting to make the survey questions more accessible to non-native speakers.
+  
 ### 5. Software Process Model:
 <ul>The goal of the software process model for the Student Feedback Management System is to provide a structured and systematic approach to software development that ensures a high-quality, user-friendly, and reliable system that can meet the needs of the stakeholders. It defines the processes, activities, and tasks required to develop the software, from requirements gathering to testing, deployment, and maintenance.
 
