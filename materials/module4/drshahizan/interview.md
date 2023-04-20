@@ -16,7 +16,7 @@ During an interview, the project team may ask a range of questions to help elici
 
 Interviews with stakeholders are important because they provide valuable insights into the needs and expectations of the people who will be using or impacted by the system. By gathering feedback from stakeholders, the project team can ensure that the system is designed to meet the needs of its users and address any potential issues or challenges early in the development process. This can ultimately lead to a more successful project outcome and a system that is well-received and widely adopted by its users.
 
-## Before conducting an interview
+## 1. Before conducting an interview
 Before conducting an interview with your stakeholder for your academic course registration system project, here are a few things you can do to prepare:
 
 1. **Clarify the purpose and scope of the interview**: Have a clear understanding of what you hope to accomplish during the interview, the questions you want to ask, and the specific information you need from the stakeholder.
@@ -35,23 +35,23 @@ Before conducting an interview with your stakeholder for your academic course re
 
 By taking these steps, you can prepare for a productive and insightful interview with your stakeholder and gather the information you need to move your academic course registration system project forward.
 
-## Dressing for an interview session with your stakeholder
+### Dressing for an interview session with your stakeholder
 
 When dressing for an interview session with your stakeholder for your academic course registration system project, it is best to dress in professional business attire. Here are some suggestions for appropriate clothing:
 
-### For men:
+#### For men:
 - Wear a dark-colored suit, such as navy or charcoal, with a white or light-colored dress shirt.
 - Wear a tie that is conservative in style and color.
 - Wear dress shoes that are polished and clean.
 
-### For women:
+#### For women:
 - Wear a conservative business suit, such as a skirt suit or pant suit, in a neutral color such as black, navy, or gray.
 - Wear a blouse or shirt that is conservative in style and color, such as white or light blue.
 - Wear closed-toe dress shoes with a low heel and make sure they are clean and polished.
 
 It is important to remember that you want to make a professional impression during the interview, so avoid wearing casual clothing such as jeans, t-shirts, or sneakers. Additionally, make sure that your clothing is clean, ironed, and fits well. Dressing appropriately will show your stakeholder that you take the interview and your project seriously.
 
-## Materials to make the meeting productive
+### Materials to make the meeting productive
 When going to an interview session with your stakeholder for your academic course registration system project, it is important to bring the necessary materials to make the meeting productive. Here are some items that you should consider bringing with you:
 
 1. A notebook and pen: This will allow you to take notes during the interview and record important information.
@@ -68,7 +68,7 @@ When going to an interview session with your stakeholder for your academic cours
 
 By bringing these materials, you will be well-prepared for the interview and ensure that the conversation is productive and focused on the needs of your academic course registration system project.
 
-## Interview questions
+### Interview questions
 When conducting an interview with your stakeholder for your academic course registration system project, it is important to ask the right questions to gather the information you need. Here are some questions you could ask:
 
 1. What are the main pain points in the current course registration system, and how can we address them?
@@ -93,7 +93,38 @@ When conducting an interview with your stakeholder for your academic course regi
 
 By asking these questions, you can gain a better understanding of the needs and requirements for the new academic course registration system and ensure that the project is aligned with the stakeholder's expectations.
 
-## After interview session
+## 2. During an interview session
+
+During an interview with a stakeholder, there are several things that you should do to ensure that the interview is productive and informative. Here are some best practices for conducting stakeholder interviews:
+
+1. **Prepare ahead of time**: Before the interview, review the stakeholder's background and prepare a list of questions that will help you gather the information you need. Make sure that you have a clear understanding of the stakeholder's role and how they will be impacted by the academic course registration system.
+
+2. **Establish rapport**: Begin the interview by introducing yourself and your team and explaining the purpose of the interview. Establish rapport by being friendly and personable, and encourage the stakeholder to share their thoughts and feedback openly.
+
+3. **Listen actively**: During the interview, listen actively to the stakeholder's responses and ask follow-up questions to clarify their answers or delve deeper into a topic. Avoid interrupting the stakeholder or jumping to conclusions before you have all the information.
+
+4. **Take notes**: Record the stakeholder's responses and any key insights or feedback that you gather during the interview. Make sure to note any concerns or issues that the stakeholder raises, as well as any opportunities or potential areas for improvement.
+
+5. **Thank the stakeholder**: At the end of the interview, thank the stakeholder for their time and for sharing their thoughts and feedback. Let them know that their input will be valuable in shaping the academic course registration system.
+
+Stakeholder interviews are important because they provide valuable insights into the needs, expectations, and pain points of the people who will be using or impacted by the system. By gathering feedback from stakeholders, you can ensure that the system is designed to meet their needs and address any potential issues or challenges early in the development process. This can ultimately lead to a more successful project outcome and a system that is well-received and widely adopted by its users.
+
+### Capturing key points and information
+Capturing key points and information during an interview with a stakeholder is crucial to ensuring that you have an accurate record of their feedback and insights. Here are some tips for capturing key points and information during a stakeholder interview:
+
+1. Use a notepad or computer: Bring a notepad or a computer to the interview so that you can take notes. Using a computer can be especially helpful if you type quickly and want to be able to easily organize and search your notes later.
+
+2. Use a structured template: Consider using a structured template or form that includes fields for key information, such as the stakeholder's name, role, and feedback on specific features or functions of the academic course registration system. This can help you stay organized and ensure that you capture all the relevant information.
+
+3. Record the interview: With the stakeholder's permission, you could record the interview using a digital recorder or your smartphone. This can be especially helpful if you want to review the interview later or if you're concerned about missing important details during the interview.
+
+4. Ask for clarification: If you're unsure about something the stakeholder said or want to clarify a point, don't hesitate to ask for clarification. This can help ensure that you have an accurate record of their feedback.
+
+5. Summarize key points: At the end of the interview, summarize the key points that the stakeholder made and ask them to confirm that your summary is accurate. This can help ensure that you didn't miss anything important and that you have a clear understanding of the stakeholder's feedback.
+
+Remember that the goal of capturing key points and information during a stakeholder interview is to ensure that you have an accurate record of their feedback and insights. By taking careful notes and summarizing key points, you can help ensure that the academic course registration system meets the needs of its users and is well-received and widely adopted.
+
+## 3. After interview session
 After an interview session with your stakeholder for your academic course registration system project, there are several important steps that you should take:
 
 1. Review your notes: Take time to review the notes you took during the interview and ensure that you have captured all of the important points and requirements discussed.
