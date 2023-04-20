@@ -52,6 +52,40 @@ Some examples of non-functional requirements for an academic course registration
 
 By defining these non-functional requirements, the academic course registration system can be designed and developed to ensure that it operates effectively, efficiently, and securely. Non-functional requirements are essential to ensuring that the system provides a high-quality user experience, meets performance expectations, and complies with relevant regulations and standards.
 
+### Examples of functional and non-functional requirements
+
+Here are some examples of functional and non-functional requirements in an academic course registration system:
+
+#### Functional Requirements:
+
+1. User registration and login: The system should allow students, faculty members, and university administrators to create and access their accounts with secure login credentials.
+
+2. Course search and selection: The system should allow students to search and select courses from a catalog of available courses based on course code, department, instructor, and other relevant criteria.
+
+3. Course enrollment and waitlisting: The system should allow students to enroll in courses that are available and add themselves to a waitlist for courses that are currently full.
+
+4. Course management: The system should allow faculty members to manage their courses, including adding and removing students, posting course materials, and communicating with students.
+
+5. Administrative management: The system should allow university administrators to manage course enrollment data, generate reports, and perform other administrative tasks related to the academic course registration system.
+
+#### Non-functional Requirements:
+
+1. Performance: The system should be able to handle a large number of concurrent users and maintain its performance even during peak periods of usage.
+
+2. Security: The system should have robust security features to protect user data and prevent unauthorized access.
+
+3. Usability: The system should be user-friendly and intuitive, with clear and concise user interfaces that enable users to complete their tasks quickly and easily.
+
+4. Availability: The system should be available and accessible to users 24/7 with minimum downtime.
+
+5. Scalability: The system should be scalable and able to accommodate future growth and expansion without compromising its performance.
+
+6. Reliability: The system should be reliable, with a minimum number of errors, bugs, and failures.
+
+7. Compliance: The system should comply with relevant laws, regulations, and standards related to data privacy, security, and accessibility.
+
+These functional and non-functional requirements are important for the successful design and development of an academic course registration system that meets the needs and expectations of its users and operates effectively, efficiently, and securely.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
