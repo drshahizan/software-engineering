@@ -38,17 +38,23 @@ By including these key features in an event management system, organizers can st
 
 The Requirement Engineering Process of an event management system involves several steps, which are as follows:
 
-### 1. Elicitation: This is the first step in the requirement engineering process, where the requirements of the system are gathered. This can be done through interviews, surveys, focus groups, or other techniques to understand the needs and expectations of the stakeholders.
+### 1. Elicitation: 
+This is the first step in the requirement engineering process, where the requirements of the system are gathered. This can be done through interviews, surveys, focus groups, or other techniques to understand the needs and expectations of the stakeholders.
 
-### 2. Analysis: In this step, the requirements gathered in the elicitation phase are analyzed to identify any inconsistencies or conflicts, and to prioritize the requirements based on their importance.
+### 2. Analysis: 
+In this step, the requirements gathered in the elicitation phase are analyzed to identify any inconsistencies or conflicts, and to prioritize the requirements based on their importance.
 
-### 3. Specification: The requirements identified in the analysis phase are then documented in a clear and concise manner. This documentation may include use cases, user stories, or other types of specifications.
+### 3. Specification: 
+The requirements identified in the analysis phase are then documented in a clear and concise manner. This documentation may include use cases, user stories, or other types of specifications.
 
-### 4. Validation: In this step, the documented requirements are reviewed by stakeholders and experts to ensure they are accurate, complete, and meet the needs of the users.
+### 4. Validation: 
+In this step, the documented requirements are reviewed by stakeholders and experts to ensure they are accurate, complete, and meet the needs of the users.
 
-### 5. Verification: In the verification phase, the requirements are checked against the actual implementation of the system to ensure they have been implemented correctly.
+### 5. Verification: 
+In the verification phase, the requirements are checked against the actual implementation of the system to ensure they have been implemented correctly.
 
-### 6. Maintenance: Once the system is in use, any changes or updates to the requirements must be managed through a maintenance process. This may include updating the documentation, testing the changes, and ensuring they are properly implemented in the system.
+### 6. Maintenance: 
+Once the system is in use, any changes or updates to the requirements must be managed through a maintenance process. This may include updating the documentation, testing the changes, and ensuring they are properly implemented in the system.
 
 Throughout the requirement engineering process, it is important to maintain open communication with stakeholders and to prioritize their needs and expectations. By following these steps, the development team can ensure that the event management system meets the requirements and expectations of the stakeholders, and delivers a valuable solution to meet the needs of event organizers and attendees.
 
