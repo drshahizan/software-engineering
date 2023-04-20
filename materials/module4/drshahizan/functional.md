@@ -120,6 +120,59 @@ Usability requirements in an academic course registration system:
 
 By incorporating these usability requirements into the design and development of an academic course registration system, stakeholders can help ensure that the system is user-friendly, efficient, and effective. This can improve user satisfaction and adoption rates, while reducing the risk of user errors or frustration.
 
+##  Usability requirements strategies
+Strategies that can help achieve the usability requirements in an academic course registration system:
+
+1. **Conduct user research**: Before designing or developing the system, it's important to understand the needs and preferences of the users who will be interacting with it. Conducting user research, such as surveys, interviews, or usability testing, can help identify user requirements and inform the design process.
+
+2. **Use a user-centered design approach**: A user-centered design approach puts the needs and preferences of the users at the center of the design process. This involves involving users in the design process, creating user personas, and prototyping and testing the system with users at each stage of development.
+
+3. **Follow established usability guidelines**: There are a number of established usability guidelines and principles that can inform the design of the system, such as the Nielsen Norman Group's 10 Usability Heuristics or the ISO 9241-11 standard. Following these guidelines can help ensure that the system is user-friendly and effective.
+
+4. **Provide clear and concise instructions**: The system should provide clear and concise instructions and guidance throughout the registration process, helping users to understand each step and what is required of them. This can include tooltips, pop-up messages, or in-app help documentation.
+
+5. **Optimize performance**: The system should be responsive and fast, with minimal lag times or delays when users perform actions or make requests. This can involve optimizing the code, minimizing the use of external resources, and leveraging caching and other performance optimization techniques.
+
+6. **Test and iterate**: Once the system is developed, it's important to test it thoroughly with real users and gather feedback on its usability. Based on this feedback, the system can be iterated and improved to better meet the needs of the users.
+
+By following these strategies, stakeholders can help ensure that the academic course registration system is designed and developed with usability in mind, resulting in a system that is effective, efficient, and user-friendly.
+
+Domain requirements in an academic course registration system refer to the specific requirements that are unique to the domain in which the system operates. In this case, the domain is the academic environment, which has specific characteristics and requirements that the system needs to address.
+
+## Domain requirements
+Domain requirements in an academic course registration system:
+
+1. **Compliance with academic regulations**: The system must ensure that all course registration processes are compliant with academic regulations set by the institution, such as prerequisites, course load requirements, and graduation requirements.
+
+2. **Integration with academic systems**: The system must integrate with other academic systems, such as the student information system, to ensure that all student information is accurate and up-to-date.
+
+3. **Course catalog management**: The system must allow for easy management of the course catalog, including course descriptions, prerequisites, and scheduling information.
+
+4. **Waitlist management**: The system must allow for effective management of waitlisted courses, including the ability to prioritize students and manage available spaces.
+
+5. **Academic calendar management**: The system must be able to handle changes to the academic calendar, including registration periods, add/drop deadlines, and course schedules.
+
+6. **Academic advising support**: The system must provide support for academic advisors, such as the ability to view student schedules and academic histories, and to provide recommendations for course selection.
+
+By addressing these domain requirements, the academic course registration system can ensure that it meets the unique needs and requirements of the academic environment and effectively supports student registration and academic advising.
+
+## Domain Requirements Problems
+Domain requirements problems in an academic course registration system can arise due to various factors. Some of these problems include:
+
+1. **Lack of understanding of the academic environment**: If the system developers do not have a good understanding of the academic environment, they may not be able to identify and address all the domain requirements. This can lead to a system that does not meet the needs of the academic environment, resulting in poor usability and adoption.
+
+2. **Changes in academic regulations**: Academic regulations can change frequently, and the system must be updated to reflect these changes. Failure to do so can result in a system that is non-compliant and cannot be used effectively.
+
+3. **Integration issues**: The academic course registration system must integrate with other academic systems, such as the student information system, to ensure that all student information is accurate and up-to-date. If there are integration issues, this can result in data inconsistencies and errors.
+
+4. **Poor course catalog management**: The course catalog is a critical component of the academic course registration system, and poor management of the catalog can lead to confusion and errors in the registration process. This can result in students registering for the wrong courses, or courses being oversubscribed or undersubscribed.
+
+5. **Inadequate waitlist management**: If the waitlist management system is not effective, it can lead to students missing out on courses they need to take, or courses being left undersubscribed due to inefficient management.
+
+6. **Inaccurate academic calendar management**: Changes to the academic calendar, such as registration periods and add/drop deadlines, must be reflected accurately in the system. Failure to do so can result in students missing important deadlines or registering for courses that are no longer available.
+
+By addressing these domain requirements problems, the academic course registration system can be improved to ensure that it meets the needs of the academic environment and supports student registration and academic advising effectively.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
