@@ -59,6 +59,48 @@ When going to an interview session with your stakeholder for your academic cours
 
 By bringing these materials, you will be well-prepared for the interview and ensure that the conversation is productive and focused on the needs of your academic course registration system project.
 
+## Interview questions
+When conducting an interview with your stakeholder for your academic course registration system project, it is important to ask the right questions to gather the information you need. Here are some questions you could ask:
+
+1. What are the main pain points in the current course registration system, and how can we address them?
+
+2. What are the key features that you would like to see in the new course registration system, and why are they important?
+
+3. What are the most important requirements for the new system, and how can we ensure that they are met?
+
+4. What are the biggest challenges that you foresee in implementing the new course registration system, and how can we overcome them?
+
+5. How do you envision the new system will improve the registration process for students, faculty, and administrators?
+
+6. Are there any specific technical or functional requirements that the new system must meet?
+
+7. How will the new course registration system integrate with other existing systems within the university, such as the student information system or the learning management system?
+
+8. What are the timelines and budget for the project, and how can we ensure that they are met?
+
+9. Who are the key stakeholders that need to be involved in the project, and how can we ensure their input is incorporated into the project?
+
+10. What are the next steps in the project, and what are the priorities for moving forward?
+
+By asking these questions, you can gain a better understanding of the needs and requirements for the new academic course registration system and ensure that the project is aligned with the stakeholder's expectations.
+
+## After interview session
+After an interview session with your stakeholder for your academic course registration system project, there are several important steps that you should take:
+
+1. Review your notes: Take time to review the notes you took during the interview and ensure that you have captured all of the important points and requirements discussed.
+
+2. Summarize the key points: Create a summary of the key points and requirements discussed during the interview to ensure that you have a clear understanding of the stakeholder's expectations.
+
+3. Follow up: Send a follow-up email to the stakeholder thanking them for their time and summarizing the key points discussed during the interview. This will help ensure that you and the stakeholder are on the same page and can prevent misunderstandings.
+
+4. Analyze the information: Analyze the information gathered during the interview to identify any patterns or common themes that may inform the project's direction.
+
+5. Incorporate the feedback: Use the information gathered during the interview to refine the project plan and ensure that the new course registration system meets the stakeholder's needs.
+
+6. Plan the next steps: Plan the next steps for the project, including any additional interviews or research necessary to gather more information.
+
+By taking these steps, you can ensure that the interview session is productive and informative and that the project is on track to meet the stakeholder's expectations.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
