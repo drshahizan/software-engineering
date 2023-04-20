@@ -20,7 +20,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg.jpg") top right no-repeat;
+  background: #040404 url("https://github.com/SabrinaNadhrah/Personal/blob/main/Pin%20de%20Kruzkf%20en%20Wallpaper%20en%202021%20_%20Fondos%20lindos%20para%20celular,%20Fotografia,%20Paisajes%20_%20Sunset%20wallpaper,%20Sky%20aesthetic,%20Scenery%20wallpaper.jpg?raw=true") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
