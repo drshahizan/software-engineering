@@ -2,6 +2,7 @@
 
 <head>
     <title></title>
+
     <!--
 	Name: Koh Su Xuan
 	Matrix No: A22EC0060
@@ -9,18 +10,19 @@
 
 	Lab 7: HTML Table
 	-->
+
     <style>
-        div {
-            margin-left: 10%;
+        body {
+            margin-left: 350px;
             margin-top: 10%;
             margin-bottom: 10%;
-            margin-right: 10%;
+            margin-right: 350px;
         }
 
         table,
         th,
         td {
-            width: 100px;
+            width: 100%;
             border: 1px solid black;
             table-layout: fixed;
             height: 40px;
@@ -36,6 +38,10 @@
             display: table-caption;
             text-align: center;
         }
+
+        #center {
+            text-align: center;
+        }
     </style>
 </head>
 
@@ -46,32 +52,32 @@
         </caption>
         <br>
         <tr>
-            <th>Day/Period </th>
-            <th>I <br>9:30-<br>10:20</th>
-            <th>II <br>10:20-<br>11:10</th>
-            <th>III <br>12:00-<br>12:40</th>
-            <th> 12:00-<br>12:40</th>
-            <th>IV <br>12:40-<br>1:30</th>
-            <th>V <br>1:30-<br>2:20</th>
-            <th>VI <br>2:20-<br>3:10</th>
-            <th>VII <br>3:10-<br>4:00</th>
+            <th id="center">Day/Period </th>
+            <th id="center">I <br>9:30-<br>10:20</th>
+            <th id="center">II <br>10:20-<br>11:10</th>
+            <th id="center">III <br>12:00-<br>12:40</th>
+            <th id="center"> 12:00-<br>12:40</th>
+            <th id="center">IV <br>12:40-<br>1:30</th>
+            <th id="center">V <br>1:30-<br>2:20</th>
+            <th id="center">VI <br>2:20-<br>3:10</th>
+            <th id="center">VII <br>3:10-<br>4:00</th>
         </tr>
         <tr>
             <th><em>Monday</em></th>
             <td>Eng</td>
             <td>Mat </td>
             <td>Che </td>
-            <td rowspan="5" bgcolor="green">LUNCH</td>
-            <td colspan="3" bgcolor="yellow">LAB </td>
+            <td rowspan="5" bgcolor="green" id="center">LUNCH</td>
+            <td colspan="3" bgcolor="yellow" id="center">LAB </td>
             <td>Phy</td>
         </tr>
         <tr>
             <th><em>Tuesday</em></th>
-            <td colspan="3" bgcolor="yellow">LAB </td>
+            <td colspan="3" bgcolor="yellow" id="center">LAB </td>
             <td>Eng</td>
             <td>Che</td>
             <td>Mat</td>
-            <td bgcolor="blue">SPORTS</td>
+            <td bgcolor="blue" id="center">SPORTS</td>
         </tr>
         <tr>
             <th><em>Wednesday</em></th>
@@ -79,14 +85,14 @@
             <td>Phy</td>
             <td>Eng</td>
             <td>Che </td>
-            <td colspan="3">LIBRARY</td>
+            <td colspan="3" id="center">LIBRARY</td>
         </tr>
         <tr>
             <th><em>Thursday</em></th>
             <td>Phy</td>
             <td>Eng</td>
             <td>Che </td>
-            <td colspan="3" bgcolor="yellow">LAB </td>
+            <td colspan="3" bgcolor="yellow" id="center">LAB </td>
             <td>Mat</td>
         </tr>
         <tr>
@@ -94,7 +100,7 @@
             <td>Phy</td>
             <td>Eng</td>
             <td>Che </td>
-            <td colspan="3" bgcolor="yellow">LAB </td>
+            <td colspan="3" bgcolor="yellow" id="center">LAB </td>
             <td>Mat</td>
         </tr>
     </table>
