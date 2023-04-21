@@ -169,6 +169,35 @@ These requirements are written in natural language and are easy to understand fo
 
 It is important to note that natural language specifications can be prone to ambiguity and inconsistencies, which can lead to misunderstandings and errors. Therefore, it is important to ensure that the requirements are clear, concise, and unambiguous. This can be achieved by using a structured natural language approach or by supplementing the natural language specification with other specification techniques, such as graphical notations or mathematical specifications.
 
+## Guidelines for Writing Requirements
+Writing requirements is a critical step in software development, and the quality of the requirements directly affects the success of the software project. Here are some guidelines for writing requirements for an academic course registration system, following the IEEE Software Requirements Document (SRD) format:
+
+1. **Use clear and concise language**: Requirements should be written in clear and concise language that is easy to understand. Avoid using technical jargon or ambiguous terms that may be misinterpreted.
+
+2. **Use a consistent format**: Use a consistent format for presenting requirements, such as using bullet points or numbered lists. This will make it easier to read and understand the requirements.
+
+3. **Be specific**: Requirements should be specific and detailed enough to provide a clear understanding of what is expected from the system. Avoid vague or general statements.
+
+4. **Avoid including implementation details**: Requirements should focus on what the system should do, not how it should do it. Avoid including implementation details in the requirements.
+
+5. **Ensure requirements are testable**: Each requirement should be testable, meaning that it should be possible to determine whether the requirement has been met or not.
+
+6. **Use a traceability matrix**: Use a traceability matrix to ensure that each requirement can be traced back to the specific need or stakeholder requirement it addresses.
+
+7. **Involve stakeholders**: Involve stakeholders, such as students, faculty, and staff, in the requirements gathering process to ensure that all their needs and expectations are captured.
+
+Examples of how these guidelines can be applied in the context of an academic course registration system are:
+
+- Clear and concise language: "The system shall allow students to search for courses using the course title, course code, and instructor name."
+- Consistent format: "The system shall allow students to register for courses, drop courses, and view their current schedule."
+- Specific requirements: "The system shall prevent students from registering for courses that have scheduling conflicts."
+- Avoid implementation details: "The system shall allow instructors to add, edit, and delete course information."
+- Testable requirements: "The system shall notify students via email when they register for a course."
+- Traceability matrix: "Requirement #1 - System shall allow students to search for courses - traced to Stakeholder Need #3 - Allow students to find relevant courses quickly and easily."
+- Involving stakeholders: "Stakeholder interviews revealed that students would like to be able to register for courses using a mobile device, so the requirement 'The system shall be accessible via mobile devices' was added."
+
+By following these guidelines, the IEEE Software Requirements Document (SRD) for an academic course registration system can be well-structured and well-documented, ensuring that all stakeholders' needs and expectations are met.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
