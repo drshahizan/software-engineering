@@ -8,6 +8,15 @@
 
 Don't forget to hit the :star: if you like this repo.
 
+### Table of Contents
+
+- [Requirements Engineering Introduction](p1-intro.md)
+- [Functional Requirements](p2-functional.md)
+- [Requirements Specification](p3-soft-requirement.md)
+- [Form Based Specifications](p4-form.md)
+- [Advance Requirements Engineering](p5-req-eng.md)
+- [An interview with a stakeholder](p6-interview.md)
+
 # Part 2: Functional Requirement
 
 Functional requirements in an academic course registration system specify the system's intended behavior and the tasks that the system must perform to meet the needs of its users. Functional requirements define the features, capabilities, and tasks that the system must be able to perform to achieve its objectives.
