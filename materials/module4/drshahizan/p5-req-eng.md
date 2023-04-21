@@ -110,6 +110,23 @@ In conclusion, requirements elicitation and analysis are crucial stages of the r
 
 During the requirements elicitation and analysis process, it's important to involve all relevant stakeholders and to gather as much information as possible about their needs and expectations for the system. This will help ensure that the final system meets the requirements of all stakeholders and is therefore more likely to be successful. It's also important to document the requirements in a clear and unambiguous manner, using techniques such as use case analysis and prototyping to refine the requirements over time. This will help ensure that the requirements are well-understood by all stakeholders and that they can be used as a basis for designing and implementing the system. Finally, it's important to prioritize the requirements based on their importance to stakeholders and the feasibility of implementing them, and to negotiate with stakeholders to resolve conflicts and identify trade-offs between conflicting requirements.
 
+## Problems of Requirements Elicitation
+
+Requirements elicitation is a complex process that involves gathering information from multiple stakeholders with diverse perspectives and goals. As a result, there are several challenges that can arise during the requirements elicitation process, including:
+
+A table summarizing the problems of requirements elicitation in the context of an academic course registration system:
+
+| Problem | Description |
+| --- | --- |
+| Ambiguity | Requirements may be unclear, incomplete, or open to interpretation, making it difficult to determine what is actually needed. |
+| Incomplete or changing requirements | Stakeholders may not fully understand their needs or may change their requirements over time, making it difficult to finalize requirements. |
+| Communication barriers | Stakeholders may have different backgrounds, expertise, or priorities, which can make it difficult to communicate effectively and understand each other's needs. |
+| Stakeholder conflicts | Stakeholders may have conflicting requirements or priorities, which can be difficult to resolve and may require negotiation and compromise. |
+| Lack of user involvement | Users may not be fully engaged in the requirements elicitation process, which can result in requirements that don't fully address their needs or are difficult to use. |
+| Technical constraints | There may be technical constraints that limit the feasibility or practicality of certain requirements, making it difficult to implement them. |
+
+To address these challenges, it's important to have a structured and iterative approach to requirements elicitation that involves ongoing communication and collaboration with stakeholders. Techniques such as prototyping, use case analysis, and stakeholder interviews can help to clarify requirements and ensure that they are well-understood by all stakeholders. It's also important to prioritize requirements and negotiate with stakeholders to resolve conflicts and identify trade-offs between competing requirements.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
