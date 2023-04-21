@@ -217,7 +217,7 @@ While natural language is the most commonly used way of writing requirements, it
 
 3. **Inconsistency**: Different stakeholders may use different terminology, leading to inconsistencies in the requirements. For example, one stakeholder may use the term "course code" while another may use "course identifier".
 
-    > Inconsistency: The term "course code" may be used interchangeably with "course number", leading to confusion among stakeholders.
+    > The term "course code" may be used interchangeably with "course number", leading to confusion among stakeholders.
 
 4. **Difficulty in managing changes**: Natural language requirements can be difficult to manage and maintain, especially when changes are made to the requirements. It can be challenging to ensure that all affected requirements are updated.
 
