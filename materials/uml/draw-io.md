@@ -71,16 +71,6 @@ Websites and links where you can find tutorials, ebooks, and other information r
 | 4| [YouTube](https://www.youtube.com/results?search_query=draw.io) | YouTube has many video tutorials on using Draw.io for various types of diagrams, such as flowcharts, mind maps, and UML diagrams. |
 | 5| [GitHub](https://github.com/jgraph/drawio) | The Draw.io GitHub repository, which includes the source code for the application, as well as documentation and examples. This can be useful for more advanced users who want to customize or extend the application. |
 
-Certainly! Here are some more websites and links where you can find eBooks related to using Draw.io:
-
-| Website | Link | Information |
-| --- | --- | --- |
-| Packt Publishing | https://www.packtpub.com/product/draw-io-quick-start-guide/9781800207216 | "Draw.io Quick Start Guide" by Soma Sahu, a beginner-friendly eBook that covers the basics of using Draw.io for creating diagrams and flowcharts. |
-| Leanpub | https://leanpub.com/drawiohandbook | "The Draw.io Handbook" by Jim R. Wilson, a comprehensive guide to using Draw.io for creating a variety of diagrams and charts. |
-| Google Books | https://books.google.com/books/about/Draw_io.html?id=g8I7zQEACAAJ | "Draw.io" by Sarah Bateman, a beginner's guide to using Draw.io for creating diagrams, flowcharts, and mind maps. |
-| Kobo | https://www.kobo.com/us/en/ebook/draw-io-quick-start-guide | "Draw.io Quick Start Guide" by Soma Sahu, an eBook available for purchase on Kobo that covers the basics of using Draw.io. |
-| Scribd | https://www.scribd.com/book/490408003/Draw-io-The-Easy-User-Manual-To-Create-Incredible-Diagrams-And-Flowcharts | "Draw.io: The Easy User Manual To Create Incredible Diagrams And Flowcharts" by William W. James, an eBook available on Scribd that provides step-by-step instructions for using Draw.io. |
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
