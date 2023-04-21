@@ -230,12 +230,44 @@ While natural language is the most commonly used way of writing requirements, it
 
 To overcome these problems, other methods of writing requirements, such as structured natural language, design description language, graphical notations, or mathematical specifications, can be used. These methods can provide greater precision, consistency, and traceability, but may require more specialized skills or tools to implement.
 
+## Example of Requirements for an Academic Course Registration System
+Example requirements for an academic course registration system using the format "The system shall measure..." and "The system shall run...":
+
+Sure! I can provide more details on the example requirements for an academic course registration system.
+
+1. The system shall measure the number of students enrolled in each course.
+This requirement is important for keeping track of course popularity and ensuring that classes have enough students to run. The system should be able to display this information to administrators so that they can make informed decisions about course offerings.
+
+2. The system shall measure the number of seats available in each course.
+Similar to the previous requirement, this one is important for ensuring that courses have enough capacity to accommodate all interested students. The system should display this information to students so that they can see which courses have available spots.
+
+3. The system shall measure the average time taken for a student to complete the registration process.
+This requirement is important for optimizing the registration process and identifying potential bottlenecks or areas for improvement. The system should be able to track the time that students spend on each step of the registration process and provide this information to administrators.
+
+4. The system shall measure the average time taken for a student to find and add a course to their schedule.
+Similar to the previous requirement, this one is important for optimizing the user experience and identifying areas for improvement. The system should be able to track the time that students spend searching for courses, adding them to their schedule, and completing the registration process.
+
+5. The system shall run on any modern web browser.
+This requirement ensures that the system is accessible to as many users as possible. The system should be designed to be compatible with all major web browsers (such as Chrome, Firefox, Safari, and Edge) and should not require any specific software or plugins.
+
+6. The system shall run on both desktop and mobile devices.
+Similar to the previous requirement, this one is important for ensuring accessibility and convenience for users. The system should be designed to be responsive and mobile-friendly, so that students can easily register for courses from their phones or tablets.
+
+7. The system shall run smoothly with up to 500 concurrent users.
+This requirement is important for ensuring that the system can handle peak traffic without crashing or slowing down. The system should be designed to scale up as needed to accommodate a large number of users, such as during the registration period.
+
+8. The system shall run regular database backups to ensure data integrity.
+This requirement is important for data security and protection against loss or corruption. The system should be designed to automatically back up all data on a regular basis, such as daily or weekly.
+
+9. The system shall run regular security checks to detect and prevent potential security breaches.
+This requirement is important for protecting user data and preventing unauthorized access. The system should be designed to regularly scan for vulnerabilities and take action to mitigate any identified risks.
+
+10. The system shall run a course conflict check to prevent students from registering for overlapping courses.
+This requirement is important for ensuring that students do not accidentally register for conflicting courses, which could cause scheduling issues or other problems. The system should be designed to check for conflicts and prevent students from registering for courses that overlap in time or content.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
-
-
-
