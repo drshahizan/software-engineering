@@ -66,12 +66,53 @@ The following are some of the techniques used for requirements elicitation and a
 
 In conclusion, requirements elicitation and analysis are crucial stages of the requirements engineering process. By using various techniques such as interviews, surveys, focus groups, observations, and prototyping, we can gather and analyze requirements to ensure that they are complete, consistent, and unambiguous. By doing so, we can increase the chances of delivering a software system that meets the needs and expectations of stakeholders.
 
+## The stages of requirements elicitation and analysis
+
+| Stage | Description |
+|-------|-------------|
+| Requirements discovery | Conduct interviews, surveys, focus groups, and observations to gather requirements from stakeholders such as students, faculty, and staff. Identify the stakeholders' needs and expectations for the course registration system. |
+| Requirements classification and organization | Classify the requirements into categories such as functional, non-functional, and performance requirements. Organize the requirements into a requirements document that is easy to read and understand. |
+| Requirements prioritization and negotiation | Prioritize the requirements based on their importance to stakeholders and the feasibility of implementing them. Negotiate with stakeholders to resolve conflicts and identify trade-offs between conflicting requirements. |
+| Requirements specification | Specify the requirements in a clear and unambiguous manner. Use techniques such as use case analysis and prototyping to refine the requirements. |
+
+### 1. The requirements discovery stage:
+
+| Requirements Discovery | Description |
+|------------------------|-------------|
+| Interviews | Conduct one-on-one interviews with students, faculty, and staff to gather information about their needs and expectations for the course registration system. Ask open-ended questions to encourage stakeholders to provide detailed feedback. |
+| Surveys | Send out a survey to all students, faculty, and staff to gather feedback on the current course registration system and suggestions for improvement. |
+| Focus groups | Bring together groups of students, faculty, and staff to discuss their needs and expectations for the course registration system. Encourage stakeholders to share their experiences and provide feedback on the current system. |
+| Observations | Observe students, faculty, and staff as they use the current course registration system. Identify pain points and areas where the system could be improved. |
+
+### 2. the requirements classification and organization stage:
+
+| Requirements Classification and Organization | Description |
+|---------------------------------------------|-------------|
+| Functional requirements | Specify the system functions that are required such as registering for courses, dropping courses, and viewing course schedules. |
+| Non-functional requirements | Specify the system attributes such as usability, performance, and reliability. |
+| Performance requirements | Specify the system response times, throughput, and resource utilization. |
+| Requirements document | Organize the requirements into a document that is easy to read and understand. Include sections such as introduction, functional requirements, non-functional requirements, and performance requirements. |
+
+### 3. The requirements prioritization and negotiation stage:
+
+| Requirements Prioritization and Negotiation | Description |
+|---------------------------------------------|-------------|
+| Prioritization | Prioritize the requirements based on their importance to stakeholders and the feasibility of implementing them. Use techniques such as MoSCoW prioritization (Must have, Should have, Could have, Won't have) to prioritize the requirements. |
+| Negotiation | Negotiate with stakeholders to resolve conflicts and identify trade-offs between conflicting requirements. Use techniques such as compromise and problem-solving to reach agreements. |
+
+### 1. The requirements specification stage:
+
+| Requirements Specification | Description |
+|-----------------------------|-------------|
+| Use case analysis | Identify the actors (students, faculty, staff) and use cases (register for a course, drop a course, view course schedule) for the course registration system. Specify the interactions between the actors and the system. |
+| Prototyping | Develop a prototype of the course registration system to gather feedback from stakeholders and refine the requirements. |
+| Requirements document | Specify the requirements in a clear and unambiguous manner in the requirements document. Use techniques such as functional decomposition to break down complex requirements into smaller, more manageable requirements. |
+
+During the requirements elicitation and analysis process, it's important to involve all relevant stakeholders and to gather as much information as possible about their needs and expectations for the system. This will help ensure that the final system meets the requirements of all stakeholders and is therefore more likely to be successful. It's also important to document the requirements in a clear and unambiguous manner, using techniques such as use case analysis and prototyping to refine the requirements over time. This will help ensure that the requirements are well-understood by all stakeholders and that they can be used as a basis for designing and implementing the system. Finally, it's important to prioritize the requirements based on their importance to stakeholders and the feasibility of implementing them, and to negotiate with stakeholders to resolve conflicts and identify trade-offs between conflicting requirements.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
-
-
-
