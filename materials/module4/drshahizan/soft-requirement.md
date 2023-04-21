@@ -282,6 +282,71 @@ In this example, the requirement is described in a clear and concise way, and ea
 
 Another approach to structured specifications is to use a formal language, such as Z notation or B method, which provide a more rigorous and mathematically precise way to describe software behavior. While these approaches can be more time-consuming and require specialized skills, they are useful in situations where the system requirements are particularly complex or critical.
 
+### A Structured Specification of a Requirement for an academic course registration system
+
+**Example 1: Course Registration**
+
+| Title | Course Registration |
+| --- | --- |
+| Function | Allow students to register for courses |
+| Description | The system should enable students to sign up for courses they wish to take |
+| Inputs | Student ID, course ID |
+| Source | Student |
+| Outputs | Course registration confirmation |
+| Destination | Student |
+
+This table includes the following information:
+
+- **Title:** A brief title that summarizes the requirement.
+- **Function:** A description of the system behavior that is required to fulfill the requirement.
+- **Description:** A more detailed explanation of what the requirement entails.
+- **Inputs:** The data or information required as input for the requirement to be executed successfully.
+- **Source:** The entity or system that provides the inputs.
+- **Outputs:** The data or information that will be produced by the requirement.
+- **Destination:** The entity or system that receives the outputs.
+
+In this example, the requirement is for the system to allow students to register for courses. The inputs are the student's ID and the course ID, which will be provided by the student. The system will then generate a course registration confirmation, which will be sent back to the student. This structured specification provides a clear and unambiguous description of the requirement, making it easier to understand and implement.
+
+**Example 2: Course Catalog**
+Sure, here are a few more examples of structured specifications for requirements in an academic course registration system, using the table format you specified:
+
+| Title | Course Catalog |
+| --- | --- |
+| Function | Display a list of available courses |
+| Description | The system should allow students to view all available courses and their details |
+| Inputs | None |
+| Source | System |
+| Outputs | List of courses with their descriptions |
+| Destination | Student |
+
+In this example, the requirement is for the system to display a list of available courses to the student. The input is none, as the system will generate the list. The output is a list of all available courses with their descriptions, which will be displayed to the student.
+
+**Example 3: Waitlist**
+
+| Title | Waitlist |
+| --- | --- |
+| Function | Allow students to add themselves to a waitlist |
+| Description | The system should enable students to add themselves to a waitlist for a full course |
+| Inputs | Student ID, course ID |
+| Source | Student |
+| Outputs | Waitlist confirmation |
+| Destination | Student |
+
+In this example, the requirement is for the system to allow students to add themselves to a waitlist for a full course. The inputs are the student's ID and the course ID, which will be provided by the student. The system will then generate a waitlist confirmation, which will be sent back to the student.
+
+**Example 4: Course Schedule**
+
+| Title | Course Schedule |
+| --- | --- |
+| Function | Generate a course schedule |
+| Description | The system should create a course schedule for each student based on their selected courses |
+| Inputs | Student ID, list of selected course IDs |
+| Source | Student |
+| Outputs | Personalized course schedule |
+| Destination | Student |
+
+In this example, the requirement is for the system to generate a course schedule for each student based on their selected courses. The inputs are the student's ID and a list of course IDs that they have selected. The system will then generate a personalized course schedule for the student, which will be sent back to them.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
