@@ -7,6 +7,15 @@
 
 Don't forget to hit the :star: if you like this repo.
 
+### Table of Contents
+
+- [Requirements Engineering Introduction](p1-intro.md)
+- [Functional Requirements](p2-functional.md)
+- [Requirements Specification](p3-soft-requirement.md)
+- [Form Based Specifications](p4-form.md)
+- [Advance Requirements Engineering](p5-req-eng.md)
+- [An interview with a stakeholder](p6-interview.md)
+
 # An interview with a stakeholder
 An interview with a stakeholder is a structured conversation between the project team and a person or group of people who have a stake in the success of the project. In the case of an academic course registration system, stakeholders might include students, faculty members, administrators, or IT staff who will be involved in the implementation or use of the system.
 
