@@ -8,6 +8,15 @@
 
 Don't forget to hit the :star: if you like this repo.
 
+### Table of Contents
+
+- [Requirements Engineering Introduction](p1-intro.md)
+- [Functional Requirements](p2-functional.md)
+- [Requirements Specification](p3-soft-requirement.md)
+- [Form Based Specifications](p4-form.md)
+- [Advance Requirements Engineering](p5-req-eng.md)
+- [An interview with a stakeholder](p6-interview.md)
+
 # Part 3: Requirements Specification
 
 A requirements specification is a document that outlines the functional and non-functional requirements of a software system or application. It is a critical document that acts as a blueprint for the development process, as it lays out the scope of the project, its objectives, and the features and functionality required to meet those objectives. 
