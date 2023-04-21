@@ -61,16 +61,25 @@ From here, you can easily collaborate on the diagram with others by sharing the 
 Additionally, Draw.io also offers an integration with Github Desktop, which allows you to manage and version control your diagrams locally before committing them to Github.
 
 ## Useful links
-Sure, here are some websites and links where you can find tutorials, ebooks, and other information related to using Draw.io:
+Websites and links where you can find tutorials, ebooks, and other information related to using Draw.io:
 
-| Website |  Information |
-| --- | --- |
-| [Draw.io](https://draw.io/) | The official Draw.io website, which includes a user manual, tutorials, and a forum for asking questions and sharing tips. |
-| [Draw.io Blog](https://drawio-app.com/blog/) | The official Draw.io blog, which features tutorials, tips, and news about updates and new features. |
-| [Udemy](https://www.udemy.com/courses/search/?lang=en&q=draw.io&sort=relevance&src=ukw) | Udemy offers several courses on using Draw.io, including courses on UML diagrams, flowcharts, and network diagrams. Some courses are free, while others require a fee. |
-| [YouTube](https://www.youtube.com/results?search_query=draw.io) | YouTube has many video tutorials on using Draw.io for various types of diagrams, such as flowcharts, mind maps, and UML diagrams. |
-| [GitHub](https://github.com/jgraph/drawio) | The Draw.io GitHub repository, which includes the source code for the application, as well as documentation and examples. This can be useful for more advanced users who want to customize or extend the application. |
+| No | Website | Information |
+| ---: | --- | --- |
+| 1| [Draw.io](https://draw.io/) | The official Draw.io website, which includes a user manual, tutorials, and a forum for asking questions and sharing tips. |
+| 2| [Draw.io Blog](https://drawio-app.com/blog/) | The official Draw.io blog, which features tutorials, tips, and news about updates and new features. |
+| 3| [Udemy](https://www.udemy.com/courses/search/?lang=en&q=draw.io&sort=relevance&src=ukw) | Udemy offers several courses on using Draw.io, including courses on UML diagrams, flowcharts, and network diagrams. Some courses are free, while others require a fee. |
+| 4| [YouTube](https://www.youtube.com/results?search_query=draw.io) | YouTube has many video tutorials on using Draw.io for various types of diagrams, such as flowcharts, mind maps, and UML diagrams. |
+| 5| [GitHub](https://github.com/jgraph/drawio) | The Draw.io GitHub repository, which includes the source code for the application, as well as documentation and examples. This can be useful for more advanced users who want to customize or extend the application. |
 
+Certainly! Here are some more websites and links where you can find eBooks related to using Draw.io:
+
+| Website | Link | Information |
+| --- | --- | --- |
+| Packt Publishing | https://www.packtpub.com/product/draw-io-quick-start-guide/9781800207216 | "Draw.io Quick Start Guide" by Soma Sahu, a beginner-friendly eBook that covers the basics of using Draw.io for creating diagrams and flowcharts. |
+| Leanpub | https://leanpub.com/drawiohandbook | "The Draw.io Handbook" by Jim R. Wilson, a comprehensive guide to using Draw.io for creating a variety of diagrams and charts. |
+| Google Books | https://books.google.com/books/about/Draw_io.html?id=g8I7zQEACAAJ | "Draw.io" by Sarah Bateman, a beginner's guide to using Draw.io for creating diagrams, flowcharts, and mind maps. |
+| Kobo | https://www.kobo.com/us/en/ebook/draw-io-quick-start-guide | "Draw.io Quick Start Guide" by Soma Sahu, an eBook available for purchase on Kobo that covers the basics of using Draw.io. |
+| Scribd | https://www.scribd.com/book/490408003/Draw-io-The-Easy-User-Manual-To-Create-Incredible-Diagrams-And-Flowcharts | "Draw.io: The Easy User Manual To Create Incredible Diagrams And Flowcharts" by William W. James, an eBook available on Scribd that provides step-by-step instructions for using Draw.io. |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
