@@ -73,9 +73,9 @@ Functional requirements for an academic course registration system could be orga
 Note: This is just an example and is not a comprehensive list of all the functional requirements for an academic course registration system. The actual requirements may vary depending on the specific needs and constraints of the system.
 
 ## Case Study: Non Functional Requirements
-Non-functional requirements using the template for an academic course registration system:
 
 Non-Functional Requirements: Template Requirements Statement Example
+
 | Title | Function | Description | Inputs | Source | Outputs | Destination |
 | --- | --- | --- | --- | --- | --- | --- |
 | Availability | The system | The system shall be available 24/7, except during maintenance windows that will be communicated in advance to the users | N/A | N/A | N/A | N/A |
