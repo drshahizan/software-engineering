@@ -59,6 +59,20 @@ The scope of the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) refe
 
 - Support and maintenance: The system's technical assistance and maintenance are provided by the support and maintenance function. Users should be able to report problems or request assistance through the system's help desk or ticketing system, and there should be a dedicated team working to quickly resolve these problems.
 
+Besides,there are several limitations and constraints that may affect the project of a student accommodation system for Kolej Tun Dr Ismail (KTDI). The following examples are:
+ 
+- Timeframe: The project's constrained timeline can have an impact on the system's scope. The quantity of work that can be accomplished may be constrained by the time available, which could lead to the elimination of particular features or functionalities. The timetable may also have an impact on the system's quality because hurried development might result in mistakes, faults, or missing functionality.
+
+- Technical constraints: Technical limitations, such as compatibility with current systems or infrastructure, a lack of available storage or processing power, or security issues, may place restrictions on the system's reach. The project team may need to assess the infrastructure already in place and decide whether the system is compatible with it. Technical limitations might also call for more resources or specialised experts to be resolved.
+
+- Data privacy: Data privacy is a significant restriction that has an impact on the gathering, storing, and usage of personal data. The system's features, such as the volume of data that can be gathered or retained, may be constrained by data privacy laws and regulations. To prevent unauthorised access to confidential information, the system must also be developed with security in mind.
+  
+- User acceptance: User adoption and acceptance are crucial to the system's success. To be widely accepted and used, a system must fulfil user needs and expectations. Limited user acceptability could lead to decreased utilisation and a worse ROI. To make sure the system satisfies user needs, the project team may need to undertake user testing and feedback.
+
+- Scalability: To support expansion and growth in the future, the system must be scalable. The architecture and design of the system must be able to accommodate growing numbers of students, rooms, and data. For the system to last and be able to change with the needs of the user, scalability limits may call for more resources or specialised staff.
+  
+By defining the scope of the project, the project team can establish the foundation for the project plan, which outlines the specific tasks, resources, timelines, and budgets needed to achieve the project goals. This helps to ensure that the project is completed successfully, on time, and within budget, and that the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) meets the needs of all stakeholders.
+
 
 ### 5. Software Process Model:
 This section describe the ideal software process model for this system development. The write-up must consist of:
