@@ -55,6 +55,9 @@ The UML (Unified Modeling Language) is a standardized visual language for modeli
 
 Overall, UML provides a powerful and flexible set of tools and techniques for modeling software systems. It helps to improve communication, visualization, design, documentation, analysis, and reusability, making the development process more efficient, effective, and collaborative.
 
+## Steps required to create different types of UML diagrams
+The table summarizes the steps required to create different types of UML diagrams, including Use Case Diagrams, Class Diagrams, Sequence Diagrams, Activity Diagrams, Component Diagrams, and Deployment Diagrams. For each diagram type, the table outlines the main steps involved in identifying the key elements of the system, such as actors, classes, components, or interactions, and creating a diagram that illustrates their relationships and behavior. By following these steps, developers and designers can use UML diagrams to effectively communicate the structure and function of complex systems.
+
 ## Create UML diagrams effectively
 Draw.io is a powerful and versatile tool that can be used to create a wide range of UML diagrams. Here are some tips for using draw.io to create UML diagrams effectively:
 
