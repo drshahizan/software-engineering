@@ -236,19 +236,34 @@ However, there are also some limitations to using ethnography, such as the poten
 Here are some examples based on the academic course registration system case study:
 
 1. User Stories:
-- As a student, I want to be able to search for courses based on my degree program and schedule, so that I can find courses that fit my needs.
-- As a student, I want to be able to add courses to my schedule and pay any necessary fees, so that I can register for courses for the upcoming semester.
-- As an administrator, I want to be able to view and manage course offerings, so that I can ensure that the courses are available and up-to-date.
+    - As a student, I want to be able to search for courses based on my degree program and schedule, so that I can find courses that fit my needs.
+    - As a student, I want to be able to add courses to my schedule and pay any necessary fees, so that I can register for courses for the upcoming semester.
+    - As an administrator, I want to be able to view and manage course offerings, so that I can ensure that the courses are available and up-to-date.
 
 2. Use Cases:
-- Search Courses: This use case allows a student to search for courses based on their degree program and schedule.
-- Register for Courses: This use case allows a student to register for courses for the upcoming semester by adding them to their course schedule and paying any necessary fees.
-- Manage Course Offerings: This use case allows an administrator to view and manage the course offerings, including adding or removing courses and updating course information.
+    - Search Courses: This use case allows a student to search for courses based on their degree program and schedule.
+    - Register for Courses: This use case allows a student to register for courses for the upcoming semester by adding them to their course schedule and paying any necessary fees.
+    - Manage Course Offerings: This use case allows an administrator to view and manage the course offerings, including adding or removing courses and updating course information.
 
 3. Scenarios:
-- Student Registration: A student logs into the system and searches for available courses based on their degree program and schedule. Once they have identified the courses they want to take, the student adds them to their course schedule and pays any necessary fees. The system confirms the student's registration and provides them with a copy of their course schedule.
-- Course Management: An administrator logs into the system and views the current course offerings. They notice that a course is no longer available and remove it from the system. They also update the course information for another course to reflect changes in the curriculum. The system confirms the changes and updates the course offerings accordingly.
+    - Student Registration: A student logs into the system and searches for available courses based on their degree program and schedule. Once they have identified the courses they want to take, the student adds them to their course schedule and pays any necessary fees. The system confirms the student's registration and provides them with a copy of their course schedule.
+    - Course Management: An administrator logs into the system and views the current course offerings. They notice that a course is no longer available and remove it from the system. They also update the course information for another course to reflect changes in the curriculum. The system confirms the changes and updates the course offerings accordingly.
 
+## Requirements validation
+Requirements validation is a process that ensures the requirements are complete, correct, and consistent with the stakeholders' needs and the system's goals. It is a critical step in the requirements engineering process as it helps in identifying and resolving any discrepancies, errors, or ambiguities in the requirements before the design and development process begins. In the context of the academic course registration system case study, requirements validation would involve reviewing and verifying the identified requirements to ensure they accurately reflect the system's functionality and meet the stakeholders' expectations.
+
+A table outlining the stages and methods of requirements validation in the context of an academic course registration system:
+
+| Stage | Description | Methods |
+| --- | --- | --- |
+| Requirements Review | A formal review of the requirements with stakeholders to identify and resolve any ambiguities, inconsistencies, or gaps. | - Peer reviews<br>- Walkthroughs<br>- Inspections |
+| Prototyping | Developing a working prototype to test and refine the requirements. | - Interactive prototypes<br>- Simulation models<br>- Mock-ups |
+| Testing | Verifying that the system meets the specified requirements through testing. | - Unit testing<br>- Integration testing<br>- System testing<br>- Acceptance testing |
+| Demonstration | Presenting the system to stakeholders to demonstrate that the requirements have been met. | - User demonstrations<br>- Operational demonstrations<br>- Performance demonstrations |
+
+Note that these are not the only methods for requirements validation, but they are common techniques used in software development. The specific methods chosen will depend on the project, the stakeholders involved, and the resources available.
+
+In summary, requirements validation is an essential step in the requirements engineering process as it ensures the identified requirements accurately reflect the system's functionality and meet the stakeholders' expectations. The validation process involves reviewing, testing, and verifying the requirements to ensure they are complete, correct, and consistent with the system's goals.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
