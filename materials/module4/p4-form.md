@@ -7,6 +7,15 @@
 
 Don't forget to hit the :star: if you like this repo.
 
+### Table of Contents
+
+- [Requirements Engineering Introduction](p1-intro.md)
+- [Functional Requirements](p2-functional.md)
+- [Requirements Specification](p3-soft-requirement.md)
+- [Form Based Specifications](p4-form.md)
+- [Advance Requirements Engineering](p5-req-eng.md)
+- [An interview with a stakeholder](p6-interview.md)
+
 # Part 4: Form Based Specifications
 
 Form-based specifications, also known as tabular specifications, are another way to document system requirements in a structured format. This approach involves organizing requirements into tables with columns representing different aspects of the requirement, such as the requirement identifier, description, priority, and so on. Each row in the table represents a single requirement.
