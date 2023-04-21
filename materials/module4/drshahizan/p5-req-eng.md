@@ -127,6 +127,29 @@ A table summarizing the problems of requirements elicitation in the context of a
 
 To address these challenges, it's important to have a structured and iterative approach to requirements elicitation that involves ongoing communication and collaboration with stakeholders. Techniques such as prototyping, use case analysis, and stakeholder interviews can help to clarify requirements and ensure that they are well-understood by all stakeholders. It's also important to prioritize requirements and negotiate with stakeholders to resolve conflicts and identify trade-offs between competing requirements.
 
+## Requirements discovery
+
+Requirements discovery is the process of identifying and gathering information about the requirements for the academic course registration system. This stage involves eliciting requirements from various sources to ensure that all stakeholders' needs are captured accurately.
+
+During the requirements discovery phase, it is important to conduct thorough research and analysis to ensure that all requirements are captured accurately. This can involve conducting interviews, surveys, focus groups, and other forms of communication to gather information from stakeholders. Once the information has been collected, it must be analyzed, classified, and organized to ensure that the requirements are complete, consistent, and unambiguous.
+
+| Source of Information | Description |
+| --- | --- |
+| Documentation | Existing documentation related to the system, such as user manuals, technical specifications, and other relevant documents can provide valuable insights into the system's functionality, limitations, and constraints. This information can be used to identify existing features and requirements that need to be improved or updated. |
+| System Stakeholders | Individuals or groups who have a stake in the academic course registration system, including users, administrators, and developers, can provide valuable feedback on their requirements and expectations. Stakeholders can be interviewed or surveyed to identify their needs and preferences, and their feedback can be used to shape the system's requirements. |
+| Specification from Similar Systems | Requirements or specifications from other course registration systems that are similar to the one being developed can provide valuable information on what has worked in the past and what changes may need to be made to suit the specific needs of this system. By analyzing similar systems, developers can identify common features and requirements that can be used to inform the development of the new system. |
+
+The requirements discovery phase is critical to the success of the academic course registration system development project, and it is essential to involve all stakeholders in the process to ensure that their needs are met.
+
+A table summarizing the requirements discovery phase in the context of an academic course registration system:
+
+| Stage | Description |
+| --- | --- |
+| Requirements Discovery | The process of identifying and gathering information about the requirements for the academic course registration system. This stage involves eliciting requirements from various sources to ensure that all stakeholders' needs are captured accurately. |
+| Sources of Information | - Documentation: Existing documentation related to the system, such as user manuals, technical specifications, and other relevant documents.<br><br>- System stakeholders: Individuals or groups who have a stake in the academic course registration system, including users, administrators, and developers.<br><br>- Specification from similar systems: Requirements or specifications from other course registration systems that are similar to the one being developed. |
+| Techniques | - Interviews: One-on-one discussions with stakeholders to gather information about their needs and requirements.<br><br>- Surveys: Collecting feedback from stakeholders using surveys and questionnaires.<br><br>- Focus groups: Group discussions with stakeholders to gather feedback and insights from multiple perspectives.<br><br>- Site visits: Observing the current system in action to gain insights into how it is used and what can be improved. |
+| Outputs | - Use cases: Detailed descriptions of how users interact with the system to accomplish specific tasks.<br><br>- User stories: Short, simple descriptions of a feature or requirement from the perspective of the user.<br><br>- Stakeholder requirements: A list of requirements gathered from stakeholders that reflect their needs and expectations.<br><br>- Requirements traceability matrix: A document that links requirements to their source and verifies that all requirements have been captured. |
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
