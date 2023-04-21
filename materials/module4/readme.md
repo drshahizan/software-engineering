@@ -8,7 +8,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 
-# Table of Contents
+### Table of Contents
 
 - [Requirements Engineering Introduction](p1-intro.md)
 - [Functional Requirements](p2-functional.md)
@@ -17,7 +17,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Advance Requirements Engineering](p5-req-eng.md)
 - [An interview with a stakeholder](p6-interview.md)
 
-## Introduction
+# Introduction
 **Module 4: Requirements Engineering**, is a critical aspect of the software development process that focuses on eliciting, analyzing, specifying, validating, and managing the software requirements. The module is divided into five sections. 
 
 The first section, [Requirements Engineering Introduction](p1-intro.md) provides an overview of the importance of requirements engineering and the key concepts involved in the process. This section establishes the foundation for the rest of the module. 
