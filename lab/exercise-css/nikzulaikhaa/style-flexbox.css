@@ -1,0 +1,15 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .flex-item {
+    background-color: #d4a2a2;
+    padding: 40px;
+    font-size: 20px;
+    text-align: center;
+    margin: 10px;
+    flex-basis: calc(33.33% - 20px);
+  }
