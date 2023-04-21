@@ -12,9 +12,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # Module 4: Requirements Engineering
 
-**Module 4 on Requirements Engineering**, focuses on the process of eliciting, analyzing, specifying, validating, and managing software requirements for a case study on an academic course registration system. Specifically, the module aims to guide students in creating an IEEE Software Requirements Document (SRD) for the system.
-
-Sure, here's the table of the No, Part, and Description for the Requirements Engineering module:
+This module focuses on the process of eliciting, analyzing, specifying, validating, and managing software requirements for a case study on an academic course registration system. Specifically, the module aims to guide students in creating an IEEE Software Requirements Document (SRD) for the system.
 
 | No | Part | Description |
 | --- | --- | --- |
@@ -27,7 +25,7 @@ Sure, here's the table of the No, Part, and Description for the Requirements Eng
 
 This table summarizes the different parts of the module and their respective descriptions. It provides an overview of the topics covered in the module, from the introduction to the advanced techniques, and emphasizes the practical aspects of requirements engineering, such as conducting stakeholder interviews and creating an SRD.
 
-Overall, the module provides students with a comprehensive understanding of the requirements engineering process and the skills necessary to successfully elicit, analyze, and manage software requirements.
+Overall, the module aims to provide students with a comprehensive understanding of the requirements engineering process and the skills necessary to create an effective SRD for an academic course registration system. The module emphasizes the practical aspects of requirements engineering and provides students with real-world scenarios to enhance their learning.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
