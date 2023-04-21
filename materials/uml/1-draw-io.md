@@ -39,18 +39,6 @@ Overall, Draw.io's free version is a powerful and versatile diagramming tool tha
 
 Overall, using Draw.io for UML diagrams offers many benefits, from ease of use and flexibility to collaboration and integration options. It is a cost-effective and powerful tool for creating professional-looking UML diagrams for a variety of purposes.
 
-## Draw.io interface and its features
-
-Draw.io is an online diagramming tool that offers a user-friendly interface and a range of features that make it easy to create various types of diagrams, including UML diagrams. The draw.io interface is divided into different sections, including a drawing area, a shape library, and formatting tools.
-
-The drawing area is where you can create your diagrams by dragging and dropping shapes, lines, and text onto the canvas. The shape library offers a wide range of pre-built shapes that you can use to create your diagrams, including UML-specific shapes like classes, actors, and use cases. You can also search for specific shapes using keywords.
-
-Formatting tools allow you to customize the shapes and the overall look of your diagram. You can change the size, color, font, and other properties of shapes, as well as add text labels, connectors, and arrows to represent relationships.
-
-Draw.io also offers a range of other features, including the ability to import and export diagrams in various file formats, collaboration tools that allow multiple users to work on the same diagram simultaneously, and integration with various cloud storage services like Google Drive and Dropbox.
-
-Overall, the draw.io interface and its features are designed to be intuitive and user-friendly, making it easy for both beginners and experienced users to create professional-looking diagrams efficiently.
-
 ## Connecting Draw.io and GitHub
 Draw.io can be linked to Github to make it easier to collaborate on diagrams and other visualizations stored in Github repositories. Here are the steps to link Draw.io to Github:
 
@@ -71,6 +59,92 @@ Draw.io can be linked to Github to make it easier to collaborate on diagrams and
 From here, you can easily collaborate on the diagram with others by sharing the Github repository and granting access to collaborators as needed. Changes made to the diagram will be automatically synced and saved to the Github repository, allowing all collaborators to access the latest version of the diagram at any time.
 
 Additionally, Draw.io also offers an integration with Github Desktop, which allows you to manage and version control your diagrams locally before committing them to Github.
+
+## Draw.io interface and its features
+
+Draw.io is an online diagramming tool that offers a user-friendly interface and a range of features that make it easy to create various types of diagrams, including UML diagrams. The draw.io interface is divided into different sections, including a drawing area, a shape library, and formatting tools.
+
+The drawing area is where you can create your diagrams by dragging and dropping shapes, lines, and text onto the canvas. The shape library offers a wide range of pre-built shapes that you can use to create your diagrams, including UML-specific shapes like classes, actors, and use cases. You can also search for specific shapes using keywords.
+
+Formatting tools allow you to customize the shapes and the overall look of your diagram. You can change the size, color, font, and other properties of shapes, as well as add text labels, connectors, and arrows to represent relationships.
+
+Draw.io also offers a range of other features, including the ability to import and export diagrams in various file formats, collaboration tools that allow multiple users to work on the same diagram simultaneously, and integration with various cloud storage services like Google Drive and Dropbox.
+
+Overall, the draw.io interface and its features are designed to be intuitive and user-friendly, making it easy for both beginners and experienced users to create professional-looking diagrams efficiently.
+
+### 1. Creating a new UML diagram
+Creating a new UML diagram in draw.io is a straightforward process. Here are the steps to follow:
+
+1. Open draw.io and select "New Diagram" from the main menu.
+
+2. In the "New Diagram" dialog box, select "UML" from the list of templates on the left-hand side of the screen.
+
+3. Choose the type of UML diagram you want to create from the list of available options, such as "Class Diagram," "Use Case Diagram," or "Sequence Diagram."
+
+4. Once you've selected your UML diagram type, a blank canvas will appear in the drawing area. You can now start adding shapes and elements to your diagram using the shape library.
+
+5. To add a shape, simply click on it in the shape library and drag it onto the canvas. You can then customize the shape's properties, such as its size, color, and text content, using the formatting tools.
+
+6. To create relationships between shapes, you can use connectors and arrows. Click on the "Connectors" option in the shape library, select the type of connector you want to use, and drag it from one shape to another.
+
+7. As you add shapes and relationships to your diagram, you can use the formatting tools to make adjustments and ensure that your diagram is easy to read and understand.
+
+8. Once you've finished creating your UML diagram, you can save it or export it in a variety of file formats, such as PNG, PDF, or SVG.
+
+Creating a new UML diagram in draw.io is a simple process that involves selecting a template, adding shapes and elements, and customizing them using the formatting tools.
+
+### 2. Saving a UML diagram
+Saving a UML diagram in draw.io is a quick and easy process. Here are the steps to follow:
+
+1. After you have finished creating your UML diagram in draw.io, click on the "File" menu in the top-left corner of the screen.
+
+2. Select "Save" from the dropdown menu.
+
+3. Choose the location where you want to save your UML diagram. You can save it to your computer or to a cloud storage service like Google Drive or Dropbox.
+
+4. Give your diagram a name and choose the file format you want to save it in, such as PNG, PDF, or SVG.
+
+5. Click "Save" to save your UML diagram to the selected location.
+
+You can also choose to save your UML diagram as a draw.io file, which will allow you to edit it later in draw.io. To do this, select "Save As" from the "File" menu and choose the "draw.io" file format.
+
+Saving a UML diagram in draw.io is a straightforward process that involves choosing a location, giving your diagram a name, and selecting the file format you want to save it in.
+
+### 3. Exporting a UML diagram
+
+Exporting a UML diagram in draw.io is a simple process that allows you to save your diagram in a variety of file formats. Here are the steps to follow:
+
+1. After you have finished creating your UML diagram in draw.io, click on the "File" menu in the top-left corner of the screen.
+
+2. Select "Export As" from the dropdown menu.
+
+3. Choose the file format you want to export your UML diagram in, such as PNG, PDF, or SVG. You can also choose to export your diagram as an XML file, which will allow you to import it into other applications.
+
+4. Choose the resolution and quality of the exported file, and select any other export options you want to use.
+
+5. Choose the location where you want to save your exported file, and give it a name.
+
+6. Click "Export" to save your UML diagram in the selected file format.
+
+Exporting a UML diagram in draw.io is a quick and easy process that allows you to save your diagram in a range of file formats and customize the export settings to suit your needs.
+
+### 4.Tools and panels 
+
+Draw.io provides a wide range of tools and panels that allow you to create and customize your UML diagrams. Here are some of the key tools and panels you can use:
+
+1. Shape library: This panel contains a variety of UML shapes and symbols that you can use to create your UML diagrams. You can drag and drop shapes from the library onto the drawing area to create your diagrams.
+
+2. Format panel: This panel contains various formatting tools that allow you to customize the appearance of your UML diagram. You can use these tools to change the color, font, size, and other properties of your shapes and text.
+
+3. Connectors panel: This panel contains various connectors and arrows that allow you to create relationships between shapes in your UML diagram. You can choose the type of connector you want to use, and customize its appearance and properties.
+
+4. Layers panel: This panel allows you to create and manage layers in your UML diagram. You can use layers to organize your shapes and symbols, and to control their visibility and order.
+
+5. Properties panel: This panel allows you to view and edit the properties of selected shapes and symbols in your UML diagram. You can use this panel to change the size, position, and other properties of your shapes.
+
+6. Pages panel: This panel allows you to create and manage multiple pages in your UML diagram. You can use pages to organize your diagram into sections, or to create different versions of the same diagram.
+
+Overall, draw.io provides a range of powerful tools and panels that allow you to create and customize your UML diagrams with ease. By using these tools and panels effectively, you can create clear and effective UML diagrams that communicate your ideas clearly and accurately.
 
 ## Useful links
 Websites and links where you can find tutorials, ebooks, and other information related to using Draw.io:
