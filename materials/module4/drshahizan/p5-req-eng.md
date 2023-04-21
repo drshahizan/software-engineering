@@ -301,6 +301,72 @@ Review Checks for the academic course registration system:
 
 By conducting these review checks, the requirements review process can identify and correct any errors, inconsistencies, or ambiguities in the SRD, which can help to improve the quality of the software development process.
 
+## Requirements management
+
+Requirements management is the process of systematically organizing, documenting, and controlling changes to the requirements of a system. The goal of requirements management is to ensure that the requirements are complete, consistent, and traceable throughout the development lifecycle.
+
+In the case of an academic course registration system, requirements management would involve the following activities:
+
+1. Requirements identification: The first step is to identify all the requirements for the system. This could involve reviewing existing documentation, interviewing stakeholders, and using other techniques such as scenarios and use cases.
+
+2. Requirements documentation: Once the requirements have been identified, they need to be documented in a clear and concise manner. The IEEE Software Requirements Document (SRD) is one example of a document that can be used to capture and describe the requirements.
+
+3. Requirements traceability: It is important to maintain traceability between the requirements and other artifacts such as design documents, test cases, and code. This ensures that any changes to the requirements are tracked and the impact on other artifacts can be assessed.
+
+4. Requirements prioritization: Not all requirements are created equal, and it is important to prioritize them based on factors such as their importance to the system and their complexity.
+
+5. Requirements change management: As the system is developed, there may be changes to the requirements. It is important to have a process in place for managing these changes, including evaluating their impact, documenting them, and communicating them to stakeholders.
+
+6. Requirements validation: Once the requirements have been documented and changes have been managed, it is important to validate that they meet the needs of the stakeholders and the system as a whole. This could involve reviewing the requirements with stakeholders, performing testing, and other techniques.
+
+7. Requirements verification: Finally, it is important to verify that the system has been developed to meet the requirements. This could involve testing, inspections, and other techniques to ensure that the system functions as expected.
+
+By following these steps, requirements management ensures that the system meets the needs of the stakeholders and is delivered on time and within budget.
+
+An example of how requirements management can be applied to our case study on an academic course registration system:
+
+| Requirement | Priority | Status | 
+| --- | --- | --- |
+| Students must be able to search for courses based on degree program and schedule. | High | Approved |
+| Students must be able to add courses to their schedule and pay necessary fees. | High | Approved |
+| System must confirm student's registration and provide a copy of their course schedule. | High | Approved |
+| System must be available 24/7 to allow students to register at any time. | Medium | Approved |
+| System must have a user-friendly interface that is easy for students to navigate. | High | Approved |
+| Students must receive notifications if a course they have added to their schedule is cancelled or changed. | Medium | Approved |
+| System must allow students to drop courses and receive a refund within a certain deadline. | High | Approved |
+| System must keep track of student's academic history and progress towards degree completion. | Medium | Approved |
+| System must be able to generate reports on course enrollment, student progress, and other metrics. | Low | Approved |
+| System must comply with all applicable laws and regulations related to student privacy and data protection. | High | Approved |
+
+In this example, we have identified several requirements for the academic course registration system, assigned priorities to each requirement, and indicated the status of each requirement as "approved." As the project progresses, these requirements may be updated, added to, or modified as needed, and their status should be updated accordingly. A requirements management plan should be in place to ensure that all stakeholders are aware of any changes or updates to the requirements, and that they are involved in the decision-making process.
+
+## Changing Requirements
+
+Changing requirements refer to modifications or alterations to the software requirements document during the software development lifecycle. These changes can occur due to various reasons such as changes in business requirements, changes in technology, new regulatory requirements, or changes in stakeholder expectations.
+
+In the case of an academic course registration system, changing requirements could arise due to changes in the academic program structure, new courses being offered, changes in academic policies, or new regulations related to student information management.
+
+To manage changing requirements, a formal change control process should be in place. This process typically includes the following steps:
+
+1. Request for change: Any stakeholder who identifies the need for a change in requirements should formally submit a request for change.
+2. Impact analysis: The impact of the proposed change on the software development process, project timeline, and budget should be analyzed.
+3. Approval: The change request should be reviewed and approved by all relevant stakeholders.
+4. Documentation: The change request and its impact analysis should be documented and tracked for future reference.
+5. Implementation: The change should be implemented in the software requirements document and communicated to the development team.
+6. Testing: The impact of the change on the software should be tested to ensure that it does not adversely affect the existing functionality.
+7. Validation: The change should be validated with the stakeholders to ensure that it meets their requirements.
+
+By following a formal change control process, changing requirements can be managed effectively and efficiently, ensuring that the software development process stays on track and meets the needs of all stakeholders involved.
+
+An example of how changing requirements could be managed in an academic course registration system:
+
+| Requirement Change | Proposed Solution | Impact Analysis | Approval Status |
+| --- | --- | --- | --- |
+| Allow students to add or drop courses after the registration deadline | Add a late registration period with a fee for adding or dropping courses | Impact on course availability and scheduling, financial impact on students | Approved by Registrar's Office and Finance Department |
+| Change course prerequisites for a specific program | Update the course description and prerequisites in the system | Impact on program requirements and course sequencing | Approved by Department Chair and Academic Advising Office |
+| Increase capacity for a popular course | Hire an additional instructor or move the course to a larger classroom | Impact on instructor workload and classroom availability | Approved by Department Chair and Provost's Office |
+| Remove a course from the course offerings | Remove the course from the system and notify enrolled students | Impact on enrolled students and course availability in future semesters | Approved by Department Chair and Registrar's Office |
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
