@@ -18,33 +18,57 @@ Group: gucci gang
 
 <head>
     <style>
-        body{
+        body {
             background-color: #E4F293;
             font-family: Arial, Helvetica, sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
-        h1{
+
+        h1 {
             text-align: center;
         }
-        #description{
+
+        #description {
             text-align: center;
             margin: 20px;
         }
-        .master-div-style{
+
+        .master-div-style {
+            width: fit-content;
             background-color: #F3F3F3;
             margin: 10px;
             text-align: center;
         }
-        #submit{
+
+        #submit {
             background-color: #05F529;
             margin: 20px;
             color: #EEEEEE;
-            border-radius: 10px;
+            border-radius: 5px;
+            border: none;
+            height: 30px;
+
         }
-        .form-rows{
-            margin: 30px;
+
+        .form-rows {
+            margin: 20px;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 15px;
         }
-        .labels{
+
+        .labels {
             text-align: right;
+        }
+
+        .fields {
+            text-align: left;
+        }
+
+        .input-fields {
+            width: 250px;
         }
     </style>
 </head>
@@ -185,4 +209,5 @@ Group: gucci gang
         </div>
     </main>
 </body>
+
 </html>
