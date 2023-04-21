@@ -260,9 +260,11 @@ This requirement is important for ensuring that the system can handle peak traff
 This requirement is important for data security and protection against loss or corruption. The system should be designed to automatically back up all data on a regular basis, such as daily or weekly.
 
 9. The system shall run regular security checks to detect and prevent potential security breaches.
+
 This requirement is important for protecting user data and preventing unauthorized access. The system should be designed to regularly scan for vulnerabilities and take action to mitigate any identified risks.
 
 10. The system shall run a course conflict check to prevent students from registering for overlapping courses.
+
 This requirement is important for ensuring that students do not accidentally register for conflicting courses, which could cause scheduling issues or other problems. The system should be designed to check for conflicts and prevent students from registering for courses that overlap in time or content.
 
 ## Contribution 🛠️
