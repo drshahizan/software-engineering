@@ -58,6 +58,17 @@ Overall, UML provides a powerful and flexible set of tools and techniques for mo
 ## Steps required to create different types of UML diagrams
 The table summarizes the steps required to create different types of UML diagrams, including Use Case Diagrams, Class Diagrams, Sequence Diagrams, Activity Diagrams, Component Diagrams, and Deployment Diagrams. For each diagram type, the table outlines the main steps involved in identifying the key elements of the system, such as actors, classes, components, or interactions, and creating a diagram that illustrates their relationships and behavior. By following these steps, developers and designers can use UML diagrams to effectively communicate the structure and function of complex systems.
 
+| Diagram Type | Steps |
+| --- | --- |
+| Use Case Diagrams | 1. Identify actors and their goals. <br> 2. Identify use cases. <br> 3. Create a diagram showing actors, use cases, and relationships. |
+| Class Diagrams | 1. Identify classes and their attributes and methods. <br> 2. Identify relationships between classes. <br> 3. Create a diagram showing classes, attributes and methods, and relationships. |
+| Sequence Diagrams | 1. Identify actors or objects. <br> 2. Identify interactions or messages exchanged. <br> 3. Create a diagram showing the timeline of interactions or messages. |
+| Activity Diagrams | 1. Identify steps or actions. <br> 2. Identify decision points. <br> 3. Create a diagram showing the steps and decision points in a visual flowchart-like format. |
+| Component Diagrams | 1. Identify components and interfaces. <br> 2. Identify relationships between components. <br> 3. Create a diagram showing components, interfaces, and relationships. |
+| Deployment Diagrams | 1. Identify physical components. <br> 2. Identify nodes. <br> 3. Create a diagram showing components, nodes, and relationships. |
+
+By following these steps, you can effectively create each type of UML diagram to model and communicate the design and functionality of a system.
+
 ## Create UML diagrams effectively
 Draw.io is a powerful and versatile tool that can be used to create a wide range of UML diagrams. Here are some tips for using draw.io to create UML diagrams effectively:
 
@@ -80,6 +91,3 @@ Please create an [Issue](https://github.com/drshahizan/software-engineering/issu
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
-
-
-
