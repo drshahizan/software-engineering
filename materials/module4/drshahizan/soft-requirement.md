@@ -103,6 +103,32 @@ In order to ensure that the requirements specification accurately reflects the n
 
 In summary, requirements specification is a critical step in the development of an academic course registration system. By identifying and documenting user requirements and system requirements, development teams can ensure that the system is developed in a way that meets the needs of its users and technical constraints.
 
+## Ways of Writing a System Requirements Specification
+
+When writing a system requirements specification for an academic course registration system, there are several ways to document the requirements. Here are some approaches:
+
+1. **Natural language**: The most common way of writing requirements is to use natural language, such as English. This approach is easy to understand for stakeholders who may not have technical expertise, but it can also be prone to ambiguity and inconsistency.
+
+    > Example: "The system shall allow students to search for courses by course title, course code, and instructor name."
+
+2. **Structured natural language**: This approach uses a predefined structure to ensure consistency and reduce ambiguity in natural language requirements. It typically involves using keywords to specify the type of requirement, such as "shall," "should," or "may."
+
+    > Example: "The system shall allow students to search for courses by course title, course code, and instructor name, and shall return results within 5 seconds."
+
+3. **Design description language**: Design description languages (DDLs) are formal languages used to specify design requirements. They typically have a syntax and vocabulary that are more precise than natural language, which can make them less prone to ambiguity.
+
+    > Example: "The system shall include a search function that allows students to search for courses using keywords, such as course title, course code, and instructor name. The search function shall return a list of results within 5 seconds."
+
+4. **Graphical notations**: Graphical notations, such as UML diagrams, can be used to represent requirements visually. They are useful for conveying complex requirements in a clear and concise manner.
+
+    > Example: A use case diagram could be used to represent the various user interactions with the course registration system, including searching for courses, registering for courses, and managing course listings.
+
+5. **Mathematical specifications**: Mathematical specifications use formal mathematical notation to specify requirements precisely. This approach is less common in practice, but it can be useful for systems with very strict requirements, such as safety-critical systems.
+
+    > Example: "For all courses C and students S, if S is registered for C, then S shall not be registered for any other course that conflicts with C in terms of time and location."
+
+In summary, there are several ways to write a system requirements specification for an academic course registration system, including natural language, structured natural language, design description languages, graphical notations, and mathematical specifications. The approach used will depend on the specific requirements of the system and the preferences of the development team.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
