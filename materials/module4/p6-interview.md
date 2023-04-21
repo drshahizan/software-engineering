@@ -16,7 +16,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Advance Requirements Engineering](p5-req-eng.md)
 - [An interview with a stakeholder](p6-interview.md)
 
-# An interview with a stakeholder
+# Part 6: An interview with a stakeholder
 An interview with a stakeholder is a structured conversation between the project team and a person or group of people who have a stake in the success of the project. In the case of an academic course registration system, stakeholders might include students, faculty members, administrators, or IT staff who will be involved in the implementation or use of the system.
 
 The purpose of an interview with a stakeholder is to gather information about the stakeholder's needs, expectations, and requirements for the project. This information can be used to guide the design and development of the system, ensure that it meets the needs of its users, and identify any potential issues or challenges that need to be addressed.
