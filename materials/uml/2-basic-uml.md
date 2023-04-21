@@ -10,19 +10,16 @@ Don't forget to hit the :star: if you like this repo.
 # UML Basics
 Learning the basics of UML is crucial to effectively using draw.io for creating UML diagrams. UML stands for Unified Modeling Language, and it is a modeling language used to represent software systems visually. It includes different types of diagrams that represent different aspects of the software system. 
 
-The most commonly used types of UML diagrams are:
+A table summarizing the basics of UML diagrams, their elements, and relationships:
 
-1. Class Diagrams: Used to represent the classes, attributes, and methods of a system, and their relationships.
-
-2. Use Case Diagrams: Used to represent the interactions between a system and its actors or external systems.
-
-3. Sequence Diagrams: Used to represent the interactions between objects in a system over time.
-
-4. Activity Diagrams: Used to represent the flow of activities in a system or process.
-
-5. Component Diagrams: Used to represent the physical components of a system and their relationships.
-
-6. Deployment Diagrams: Used to represent the physical deployment of a system in a hardware environment.
+| Type of UML Diagram | Description | Elements | Relationships |
+| --- | --- | --- | --- |
+| Use Case Diagrams | Describe the interactions between actors and the system to achieve a specific goal. | Actors, Use Cases, Relationships | Association, Generalization, Include, Extend |
+| Class Diagrams | Represent the classes and their relationships in a system, including attributes, methods, and constraints. | Classes, Interfaces, Objects, Relationships | Association, Aggregation, Composition, Generalization, Realization |
+| Sequence Diagrams | Illustrate the interactions between objects in a system over time, including messages and lifelines. | Objects, Messages, Lifelines | Message, Activation, Return |
+| Activity Diagrams | Model the flow of activities and actions in a system, including decision points, concurrency, and loops. | Actions, Decision Points, Swimlanes | Control Flow, Object Flow |
+| Component Diagrams | Represent the components and their dependencies in a system, including interfaces and ports. | Components, Interfaces, Ports | Dependency, Association, Realization |
+| Deployment Diagrams | Model the physical deployment of software components on hardware nodes, including nodes and communication paths. | Nodes, Components, Communication Paths | Deployment, Association |
 
 Each of these diagram types has its own set of elements and relationships, such as classes, attributes, methods, associations, dependencies, and inheritance, to name a few. Understanding these elements and relationships is essential to creating accurate and effective UML diagrams in draw.io.
 
