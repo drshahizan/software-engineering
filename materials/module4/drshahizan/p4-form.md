@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Part 4: Form-Based Specifications
+# Part 4: Form Based Specifications
 
 Form-based specifications, also known as tabular specifications, are another way to document system requirements in a structured format. This approach involves organizing requirements into tables with columns representing different aspects of the requirement, such as the requirement identifier, description, priority, and so on. Each row in the table represents a single requirement.
 
