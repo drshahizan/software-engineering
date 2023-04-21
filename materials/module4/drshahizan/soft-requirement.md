@@ -129,6 +129,27 @@ When writing a system requirements specification for an academic course registra
 
 In summary, there are several ways to write a system requirements specification for an academic course registration system, including natural language, structured natural language, design description languages, graphical notations, and mathematical specifications. The approach used will depend on the specific requirements of the system and the preferences of the development team.
 
+## Requirements and Design
+In principle, requirements should state WHAT the system should do, and the design should describe HOW it does this. This means that requirements define the desired outcomes or goals of the system, while design details the specific implementation that will achieve those outcomes.
+
+In the case of an academic course registration system, the requirements might include:
+
+- The system should allow students to search for courses by course title, course code, and instructor name.
+- The system should allow students to register for courses and drop courses before the registration deadline.
+- The system should allow instructors to manage their course listings, including adding or removing courses and updating course details.
+- The system should ensure that students cannot register for courses that conflict with each other in terms of time and location.
+
+Based on these requirements, the design of the system might include:
+
+- A search function that allows students to search for courses using keywords, such as course title, course code, and instructor name.
+- A user interface that allows students to easily register for and drop courses.
+- A database that stores course listings and user information, and that is accessible to both students and instructors.
+- An algorithm that checks for scheduling conflicts and prevents students from registering for conflicting courses.
+
+The design might also include details about the system architecture, data structures, algorithms, and other technical aspects of the system.
+
+By separating requirements and design in this way, it is possible to ensure that the system meets the needs of its users while also being well-engineered and maintainable. Requirements define the goals and expectations of the system, while design defines the specific implementation that will achieve those goals. By clearly defining these two aspects of the system, it is possible to create a robust, user-friendly, and efficient academic course registration system that meets the needs of students and instructors alike.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
