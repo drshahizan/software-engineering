@@ -156,10 +156,33 @@ Sure, here's a table summarizing the techniques to elicit requirements in the co
 
 | Technique | Description |
 | --- | --- |
-| Interviewing | Conducting formal or informal interviews with stakeholders can help gather information on their needs, expectations, and pain points related to the academic course registration system. This can involve one-on-one or group interviews with stakeholders, and can be conducted in-person, over the phone, or via video conference. |
+| [Interviewing](p6-interview.md) | Conducting formal or informal interviews with stakeholders can help gather information on their needs, expectations, and pain points related to the academic course registration system. This can involve one-on-one or group interviews with stakeholders, and can be conducted in-person, over the phone, or via video conference. |
 | Scenarios | Creating scenarios or real-life examples can help stakeholders envision how the academic course registration system will work in practice. This can involve creating a step-by-step description of how a user would interact with the system to complete a task, and can help identify potential issues or areas for improvement. |
 | Use Cases | Developing use cases is fundamental in UML and involves creating detailed descriptions of how users will interact with the academic course registration system to accomplish specific tasks. This can help identify requirements related to the system's functionality, and can be used to validate that the system meets the needs of its stakeholders. |
 | Ethnography | Observing the operational process in the organization can provide valuable insights into how the academic course registration system will be used in practice. This can involve observing users interacting with the current system, as well as the wider organizational context in which the system operates. Ethnography can help identify requirements related to user behavior, organizational culture, and other factors that may influence the design and development of the system. |
+
+### Scenarios
+
+Scenarios are a technique used to elicit requirements by creating real-life examples of how the academic course registration system will be used in practice. Here's an example in the form of a table:
+
+| Scenario | Description |
+| --- | --- |
+| Student Registration | A student wants to register for courses for the upcoming semester. The student logs into the system and searches for available courses based on their degree program and schedule. Once they have identified the courses they want to take, the student adds them to their course schedule and pays any necessary fees. The system confirms the student's registration and provides them with a copy of their course schedule. |
+| Course Catalog Management | An administrator wants to update the course catalog to reflect changes in course offerings and requirements. The administrator logs into the system and navigates to the course catalog management section. They update course information, such as the course title, description, prerequisites, and schedule. The system validates the changes and updates the course catalog accordingly. |
+| Grade Entry and Management | A professor wants to enter grades for their students at the end of the semester. The professor logs into the system and navigates to the grade entry section. They select the course they want to enter grades for and are presented with a list of students enrolled in the course. The professor enters grades for each student and the system calculates final grades based on the grading criteria. The system then stores the grades in the student's record and sends notifications to students who have completed the course. |
+
+By creating scenarios like these, stakeholders can better understand how the academic course registration system will work in practice, and developers can identify requirements related to system functionality, usability, and other factors that may impact user experience.
+
+Additional details about how the Student Registration scenario can be used to elicit requirements:
+
+| Requirement Area | Example Requirements |
+| --- | --- |
+| User Interface | - The system should have a clear and intuitive interface for students to search for courses<br>- The system should provide instructions on how to add courses to a student's schedule |
+| Course Availability | - The system should accurately display the courses available for a particular semester<br>- The system should provide information about course prerequisites, enrollment limits, and any other restrictions |
+| Payment Processing | - The system should be able to securely process student payments<br>- The system should provide confirmation of payment to the student |
+| Confirmation and Communication | - The system should provide the student with a confirmation of their registration<br>- The system should send notifications to the student about any changes to their course schedule or other relevant information |
+
+By using the Student Registration scenario to elicit requirements, the development team can ensure that the academic course registration system meets the needs of its users and provides a seamless and efficient registration process.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
