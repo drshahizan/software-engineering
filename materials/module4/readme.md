@@ -12,7 +12,7 @@ Don't forget to hit the :star: if you like this repo.
 
 - [Requirements Engineering Introduction](p1-intro.md)
 - [Functional Requirements](p2-functional.md)
-- [Software Requirements](p3-soft-requirement.md)
+- [Requirements Specification](p3-soft-requirement.md)
 - [Form Design](p4-form.md)
 - [Requirement Engineering](p5-req-eng.md)
 - [Interviews](p6-interview.md)
