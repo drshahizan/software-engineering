@@ -58,8 +58,6 @@ The scope of the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) refe
 - Support and maintenance: The system's technical assistance and maintenance are provided by the support and maintenance function. Users should be able to report problems or request assistance through the system's help desk or ticketing system, and there should be a dedicated team working to quickly resolve these problems.
 
 
-
-
 ### 5. Software Process Model:
 This section describe the ideal software process model for this system development. The write-up must consist of:
 - Explanation of the goal of the software process model.
