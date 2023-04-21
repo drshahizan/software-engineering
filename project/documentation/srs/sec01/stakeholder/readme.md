@@ -17,20 +17,24 @@ Don't forget to hit the :star: if you like this repo.
     <th>Role</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
+    <td>Neo Zheng Weng</td>
+    <td>UI/UX System Designer & Developer Assistant</td>
   </tr>
   <tr>
-    <td>2</td>
-    <td></td>
+    <td>Wong Khai Shian Nicholas</td>
+    <td>Requirements Analyst & Developer Assistant</td>
   </tr>
     <tr>
-    <td>3</td>
-    <td></td>
+    <td>Muhammad Danial</td>
+    <td>Documentation Specialist & Developer Assistant</td>
   </tr>
     <tr>
-    <td>4</td>
-    <td></td>
+    <td>Joseph Lau Yeo Kai</td>
+    <td>IT Support & Main Developer</td>
+  </tr>
+  <tr>
+  <td>Low Jie Sheng</td>
+  <td>Quality Assurance Analyst & Developer assistant</td>
   </tr>
 </table>
 
@@ -43,10 +47,10 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Mr Hamdan</td>
+    <td>Hostel Administration</td>
+    <td>Senior Assistant Administrative Officer</td>
+    <td>Ensure system is technically feasible and meets assets requirements.</td>
   </tr>
     <tr>
     <td>2</td>
@@ -65,9 +69,9 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2| | | | | 
-| 3| | | | | 
+| 1 | 01/01/2023 | Dr MSO | Project Manager | Create project plan | Complete |
+| 2 | 20/04/2023 | Wong Khai Shian Nicholas | Requirements Analyst | Partially Complete | 
+| 3 | 20/04/2023 | Neo Zheng Weng | Designer | Partially Complete |
 | 4| | | | | 
 | 5| | | | | 
 

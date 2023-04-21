@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Animations and Transitions with CSS</title>
+    <style>
+      .container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-color: #f2f2f2;
+      }
+      .box {
+        width: 100px;
+        height: 200px;
+        margin: 20px;
+        background-color: #5895b5;
+        border-radius: 2px;
+        animation: box 2s ease-in-out infinite alternate;
+        transition: transform 0.5s ease-out;
+        cursor: pointer;
+      }
+
+      .box2 {
+        width: 100px;
+        height: 200px;
+        margin: 20px;
+        background-color: #c87dba;
+        border-radius: 2px;
+        animation: box 2s ease-in-out infinite alternate;
+        transition: transform 0.5s ease-out;
+        cursor: pointer;
+      }
+      .box:hover {
+        transform: scale(1.2);
+      }
+      @keyframes box {
+        0% {
+          transform: translateX(0);
+        }
+        100% {
+          transform: translateX(200px);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="box"></div>
+      <div class="box2"></div>
+      <div class="box"></div>
+      <div class="box2"></div>
+
+    </div>
+  </body>
+</html>
