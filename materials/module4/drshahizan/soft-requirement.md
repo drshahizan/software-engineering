@@ -264,6 +264,24 @@ This requirement is important for protecting user data and preventing unauthoriz
 
 10. **The system shall run a course conflict check to prevent students from registering for overlapping courses**. This requirement is important for ensuring that students do not accidentally register for conflicting courses, which could cause scheduling issues or other problems. The system should be designed to check for conflicts and prevent students from registering for courses that overlap in time or content.
 
+## Structured specifications
+
+Structured specifications are a type of formal method for writing software requirements that use a specific syntax and structure to describe the behavior and functionality of the system. This approach is often used in safety-critical systems or applications that require a high level of reliability or accuracy.
+
+In the context of an academic course registration system, structured specifications could be used to describe the behavior of the system in a more precise and rigorous way. One approach to structured specifications is to use a tabular format, where each row represents a specific requirement and each column represents a different aspect of that requirement, such as inputs, outputs, preconditions, and postconditions. Here is an example of a structured specification for a requirement in the academic course registration system:
+
+| Requirement ID | R1 |
+| --- | --- |
+| Description | The system shall allow students to search for courses by course code or keyword. |
+| Inputs | Course code or keyword |
+| Outputs | List of courses that match the search criteria |
+| Preconditions | The student is logged in to the system |
+| Postconditions | The search results are displayed on the screen |
+
+In this example, the requirement is described in a clear and concise way, and each aspect of the requirement is spelled out in detail. By using a structured specification approach, it is easier to ensure that all requirements are well-defined, complete, and unambiguous, which can help to reduce errors and improve the overall quality of the system.
+
+Another approach to structured specifications is to use a formal language, such as Z notation or B method, which provide a more rigorous and mathematically precise way to describe software behavior. While these approaches can be more time-consuming and require specialized skills, they are useful in situations where the system requirements are particularly complex or critical.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
