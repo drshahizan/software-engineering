@@ -184,6 +184,46 @@ Additional details about how the Student Registration scenario can be used to el
 
 By using the Student Registration scenario to elicit requirements, the development team can ensure that the academic course registration system meets the needs of its users and provides a seamless and efficient registration process.
 
+## Use case
+
+Use cases are a commonly used technique to elicit requirements in software engineering. A use case is a description of a specific interaction between a user or system and the software being developed. Use cases help to identify and clarify the different functionalities that the system needs to provide in order to meet the needs of its users.
+
+In the context of the student registration scenario in an academic course registration system, some possible use cases might include:
+
+1. Search for courses: A student can search for courses based on their degree program, course schedule, or other criteria.
+2. Add course to schedule: A student can add a course to their schedule once they have found a suitable course.
+3. Drop course from schedule: A student can drop a course from their schedule if they no longer wish to take the course.
+4. Pay fees: A student can pay the fees associated with their course schedule.
+5. View course schedule: A student can view their course schedule once they have added courses to it.
+6. Confirm registration: The system confirms a student's registration once they have successfully added courses to their schedule and paid any necessary fees.
+
+By identifying and describing these use cases, the development team can gain a better understanding of the system's requirements and ensure that the system is designed and implemented to meet those requirements.
+
+### Basic structure of a use case diagram
+
+The basic structure of a use case diagram for the student registration scenario in an academic course registration system.
+
+A use case diagram typically consists of **actors**, **use cases**, and **relationships between them**. In this scenario, the actor would be the student and the use cases would be the actions they can perform in the system. 
+
+The use cases identified in the previous response (search for courses, add course to schedule, drop course from schedule, pay fees, view course schedule, confirm registration) would be represented as oval shapes in the diagram. The actor (student) would be represented as a stick figure. 
+
+The relationships between the actor and use cases would be represented as lines with arrows pointing from the actor to the use cases they can perform. For example, there would be a line with an arrow pointing from the student to the "search for courses" use case to indicate that the student can perform that action.
+
+Overall, the use case diagram would provide a visual representation of the system's functionality and the roles of the different actors involved in the student registration process.
+
+### Actors, use cases, and relationships
+
+A description of the actors, use cases, and their relationships in a table format for the student registration scenario in an academic course registration system:
+
+| Actors | Use Cases | Relationships |
+| --- | --- | --- |
+| Student | Search for courses<br>Add course to schedule<br>Drop course from schedule<br>Pay fees<br>View course schedule<br>Confirm registration | The student interacts with the system to search for courses, add them to their schedule, drop them from their schedule, pay fees, view their schedule, and confirm their registration. |
+| Course Catalog System | Retrieve course information | The course catalog system provides course information to the student during the course search process. |
+| Payment System | Process student payments | The payment system processes the student's payment for their registered courses. |
+| Registration System | Confirm student registration | The registration system confirms the student's registration and provides them with a copy of their course schedule. |
+
+This table provides a summary of the actors involved in the system, the use cases they interact with, and the relationships between them.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
