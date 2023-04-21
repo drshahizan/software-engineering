@@ -1,0 +1,65 @@
+
+.pimg1{
+    background-image:url("../images/mal1.jpeg");
+    height: 900px;
+    background-size: cover ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.ptext{
+    color:white;
+    font-size: 30px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 5px;
+}
+.border{
+    padding:20px;
+    background-color: rgb(104, 98, 98);
+    margin-top: 35%;
+}
+.section-light{
+    height:370px;
+    text-align: center;
+    background-color:rgba(255, 255, 255, 0.247);
+    float: center;
+    padding-top: 50px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+   line-height: 2.5;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.pimg2{
+    background-image:url("../images/mal2.jpeg");
+    background-size: cover ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 900px;
+}
+.section-dark{
+    height:370px;
+    text-align:center;
+    background-color: black;
+   color:white;
+   float: center;
+  padding-top: 50px;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom:50px ;
+  line-height: 2.5;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.pimg3{
+    background-image:url("../images/mal3.jpeg");
+    background-size: cover ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 900px;
+}
+.trans{
+    background-color: transparent  ;
+}
