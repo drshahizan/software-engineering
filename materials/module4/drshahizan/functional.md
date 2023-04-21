@@ -173,6 +173,23 @@ Domain requirements problems in an academic course registration system can arise
 
 By addressing these domain requirements problems, the academic course registration system can be improved to ensure that it meets the needs of the academic environment and supports student registration and academic advising effectively.
 
+## Domain requirements problems
+Domain requirements problems in an academic course registration system can arise due to various factors. Some of these problems include:
+
+1. Lack of understanding of the academic environment: If the system developers do not have a good understanding of the academic environment, they may not be able to identify and address all the domain requirements. This can lead to a system that does not meet the needs of the academic environment, resulting in poor usability and adoption.
+
+2. Changes in academic regulations: Academic regulations can change frequently, and the system must be updated to reflect these changes. Failure to do so can result in a system that is non-compliant and cannot be used effectively.
+
+3. Integration issues: The academic course registration system must integrate with other academic systems, such as the student information system, to ensure that all student information is accurate and up-to-date. If there are integration issues, this can result in data inconsistencies and errors.
+
+4. Poor course catalog management: The course catalog is a critical component of the academic course registration system, and poor management of the catalog can lead to confusion and errors in the registration process. This can result in students registering for the wrong courses, or courses being oversubscribed or undersubscribed.
+
+5. Inadequate waitlist management: If the waitlist management system is not effective, it can lead to students missing out on courses they need to take, or courses being left undersubscribed due to inefficient management.
+
+6. Inaccurate academic calendar management: Changes to the academic calendar, such as registration periods and add/drop deadlines, must be reflected accurately in the system. Failure to do so can result in students missing important deadlines or registering for courses that are no longer available.
+
+By addressing these domain requirements problems, the academic course registration system can be improved to ensure that it meets the needs of the academic environment and supports student registration and academic advising effectively.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
