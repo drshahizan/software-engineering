@@ -4,17 +4,26 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Layout Task</title>
+
+    <!--
+Lab 14: Website Layout
+Group:
+1. Name: [Tiew Chuan Rong], Matrix No: [A22EC0112], Github ID: [tiewrong]
+2. Name: [Name], Matrix No: [Matrix Number], Github ID: [Github ID]
+3. Name: [Name], Matrix No: [Matrix Number], Github ID: [Github ID]
+4. Name: [Name], Matrix No: [Matrix Number], Github ID: [Github ID]
+-->
     <style>
       body {
         background-color: #fff;
         color: #333;
-        margin: 0;
+        margin: 0 ;
         font: 1.2em / 1.2 Arial, Helvetica, sans-serif;
       }
 
       img {
         max-width: 100%;
-        display: block;
+        display:block;
       }
 
       .logo {
@@ -25,20 +34,26 @@
       }
 
       .grid {
-        margin: 0 auto;
+        margin: 0 auto ;
         padding: 0 20px;
-        max-width: 980px;
+        max-width: 85%;
+        display:flex;
       }
 
       nav {
         background-color: #000;
         padding: 0.5em;
+        position:-webkit-sticky;
+        position:sticky;
+        top:0;
       }
 
-      nav ul {
+      nav ul  {
         margin: 0;
         padding: 0;
         list-style: none;
+        justify-content:space-between;
+        display:flex;
       }
 
       nav a {
@@ -48,14 +63,26 @@
       }
 
       .photos {
-        list-style: none;
+        list-style:none;
         margin: 0;
         padding: 0;
+        display: grid; 
+      grid-template-columns: repeat(2, 1fr); 
+      gap: 1px;
+        
       }
 
       .feature {
         width: 200px;
+        float:left;
+        margin-right: 20px;
+        margin-bottom: 10px;
       }
+
+      article{
+        margin-right:20px;
+      }
+
     </style>
   </head>
 
