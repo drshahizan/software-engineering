@@ -174,29 +174,61 @@ Writing requirements is a critical step in software development, and the quality
 
 1. **Use clear and concise language**: Requirements should be written in clear and concise language that is easy to understand. Avoid using technical jargon or ambiguous terms that may be misinterpreted.
 
+    > "The system shall allow students to search for courses using the course title, course code, and instructor name."
+
 2. **Use a consistent format**: Use a consistent format for presenting requirements, such as using bullet points or numbered lists. This will make it easier to read and understand the requirements.
+
+    > "The system shall allow students to register for courses, drop courses, and view their current schedule."
 
 3. **Be specific**: Requirements should be specific and detailed enough to provide a clear understanding of what is expected from the system. Avoid vague or general statements.
 
+    > Specific requirements: "The system shall prevent students from registering for courses that have scheduling conflicts."
+
 4. **Avoid including implementation details**: Requirements should focus on what the system should do, not how it should do it. Avoid including implementation details in the requirements.
+
+    > "The system shall allow instructors to add, edit, and delete course information."
 
 5. **Ensure requirements are testable**: Each requirement should be testable, meaning that it should be possible to determine whether the requirement has been met or not.
 
+    > Testable requirements: "The system shall notify students via email when they register for a course."
+
 6. **Use a traceability matrix**: Use a traceability matrix to ensure that each requirement can be traced back to the specific need or stakeholder requirement it addresses.
+
+    > "Requirement #1 - System shall allow students to search for courses - traced to Stakeholder Need #3 - Allow students to find relevant courses quickly and easily."
 
 7. **Involve stakeholders**: Involve stakeholders, such as students, faculty, and staff, in the requirements gathering process to ensure that all their needs and expectations are captured.
 
-Examples of how these guidelines can be applied in the context of an academic course registration system are:
-
-- Clear and concise language: "The system shall allow students to search for courses using the course title, course code, and instructor name."
-- Consistent format: "The system shall allow students to register for courses, drop courses, and view their current schedule."
-- Specific requirements: "The system shall prevent students from registering for courses that have scheduling conflicts."
-- Avoid implementation details: "The system shall allow instructors to add, edit, and delete course information."
-- Testable requirements: "The system shall notify students via email when they register for a course."
-- Traceability matrix: "Requirement #1 - System shall allow students to search for courses - traced to Stakeholder Need #3 - Allow students to find relevant courses quickly and easily."
-- Involving stakeholders: "Stakeholder interviews revealed that students would like to be able to register for courses using a mobile device, so the requirement 'The system shall be accessible via mobile devices' was added."
+    > "Stakeholder interviews revealed that students would like to be able to register for courses using a mobile device, so the requirement 'The system shall be accessible via mobile devices' was added."
 
 By following these guidelines, the IEEE Software Requirements Document (SRD) for an academic course registration system can be well-structured and well-documented, ensuring that all stakeholders' needs and expectations are met.
+
+## Problems With Natural Language
+
+While natural language is the most commonly used way of writing requirements, it has some potential problems that can lead to misunderstandings or ambiguities. Some of the problems associated with natural language include:
+
+1. **Ambiguity**: Natural language is often open to interpretation, and the same sentence can mean different things to different people. For example, the requirement "The system shall be fast" can be interpreted differently by different stakeholders.
+
+    > The requirement "The system shall provide an easy-to-use interface" may be interpreted differently by different stakeholders. Some may consider a simple design to be easy to use, while others may prefer a more complex design that provides more features.
+
+
+2. **Lack of precision**: Natural language is often imprecise and lacks the level of detail required for complex systems. For example, the requirement "The system shall be user-friendly" may not provide enough detail about what is expected from the system.
+
+    > The requirement "The system shall allow students to register for courses online" may not provide enough detail about how the registration process will work, how course availability will be displayed, or how conflicts will be resolved.
+
+3. **Inconsistency**: Different stakeholders may use different terminology, leading to inconsistencies in the requirements. For example, one stakeholder may use the term "course code" while another may use "course identifier".
+
+    > Inconsistency: The term "course code" may be used interchangeably with "course number", leading to confusion among stakeholders.
+
+4. **Difficulty in managing changes**: Natural language requirements can be difficult to manage and maintain, especially when changes are made to the requirements. It can be challenging to ensure that all affected requirements are updated.
+
+    > If a stakeholder requests a change to the requirement "The system shall notify students when a course is cancelled", it may be challenging to ensure that all affected requirements are updated.
+
+
+5. **Difficulty in traceability**: Natural language requirements can be difficult to trace back to their source, which can make it difficult to ensure that all stakeholder needs are met.
+
+    > If a requirement is not traced back to its source, it may be unclear which stakeholder need it is addressing.
+
+To overcome these problems, other methods of writing requirements, such as structured natural language, design description language, graphical notations, or mathematical specifications, can be used. These methods can provide greater precision, consistency, and traceability, but may require more specialized skills or tools to implement.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
