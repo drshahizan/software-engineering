@@ -60,6 +60,17 @@ From here, you can easily collaborate on the diagram with others by sharing the 
 
 Additionally, Draw.io also offers an integration with Github Desktop, which allows you to manage and version control your diagrams locally before committing them to Github.
 
+## Useful links
+Sure, here are some websites and links where you can find tutorials, ebooks, and other information related to using Draw.io:
+
+| Website |  Information |
+| --- | --- |
+| [Draw.io](https://draw.io/) | The official Draw.io website, which includes a user manual, tutorials, and a forum for asking questions and sharing tips. |
+| [Draw.io Blog](https://drawio-app.com/blog/) | The official Draw.io blog, which features tutorials, tips, and news about updates and new features. |
+| [Udemy](https://www.udemy.com/topic/drawio/) | Udemy offers several courses on using Draw.io, including courses on UML diagrams, flowcharts, and network diagrams. Some courses are free, while others require a fee. |
+| [YouTube](https://www.youtube.com/results?search_query=draw.io) | YouTube has many video tutorials on using Draw.io for various types of diagrams, such as flowcharts, mind maps, and UML diagrams. |
+| [Amazon](https://www.amazon.com/dp/B08PJ7W72H/) | "Draw.io: The Easy User Manual To Create Incredible Diagrams And Flowcharts", an ebook available for purchase on Amazon. |
+| [GitHub](https://github.com/jgraph/drawio) | The Draw.io GitHub repository, which includes the source code for the application, as well as documentation and examples. This can be useful for more advanced users who want to customize or extend the application. |
 
 
 ## Contribution 🛠️
