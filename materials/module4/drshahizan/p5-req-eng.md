@@ -37,6 +37,35 @@ The process of creating an SRD for an academic course registration system. The f
 
 In conclusion, the process of requirements engineering is crucial in the development of software systems. By following the generic activities of requirements elicitation, analysis, validation, and management, and by creating an SRD for an academic course registration system, we can ensure that the requirements are clear, concise, and meet the needs of the stakeholders.
 
+## Requirements elicitation and analysis
+
+Requirements elicitation and analysis are two important stages of the requirements engineering process that are critical to the success of a software development project. 
+
+Sure, here is a table that summarizes the generic activities of requirements engineering:
+
+| Generic Activities  | Description |
+|---------------------|-------------|
+| Requirements elicitation | Gathering requirements from stakeholders by identifying their needs and documenting their requirements. |
+| Requirements analysis | Analyzing and refining the requirements to ensure they are complete, consistent, and unambiguous. |
+| Requirements validation | Verifying that the requirements meet the needs of stakeholders by checking if they are feasible, testable, and traceable. |
+| Requirements management | Organizing and controlling the requirements throughout the software development lifecycle by identifying changes, tracking their status, and ensuring proper documentation and communication. | 
+
+The following are some of the techniques used for requirements elicitation and analysis:
+
+1. **Interviews**: One-on-one interviews with stakeholders can be used to gather information about their needs and requirements. This technique allows for a more in-depth understanding of the stakeholder's perspective.
+
+2. **Surveys**: Surveys can be used to gather information from a large number of stakeholders. This technique is useful when the stakeholders are geographically dispersed.
+
+3. **Focus groups**: Focus groups involve bringing together a group of stakeholders to discuss their needs and requirements. This technique allows for the exchange of ideas and can lead to new insights.
+
+4. **Observations**: Observations involve observing stakeholders as they interact with the current system or perform their work. This technique can provide valuable insights into the stakeholders' needs and requirements.
+
+5. **Prototyping**: Prototyping involves creating a working model of the software system. This technique can be used to gather feedback from stakeholders and refine the requirements.
+
+6. **Use case analysis**: Use cases are scenarios that describe how the software system will be used. Use case analysis involves identifying the actors, defining the use cases, and specifying the interactions between the actors and the system.
+
+In conclusion, requirements elicitation and analysis are crucial stages of the requirements engineering process. By using various techniques such as interviews, surveys, focus groups, observations, and prototyping, we can gather and analyze requirements to ensure that they are complete, consistent, and unambiguous. By doing so, we can increase the chances of delivering a software system that meets the needs and expectations of stakeholders.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
