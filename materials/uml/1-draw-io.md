@@ -132,17 +132,21 @@ Exporting a UML diagram in draw.io is a quick and easy process that allows you t
 
 Draw.io provides a wide range of tools and panels that allow you to create and customize your UML diagrams. Here are some of the key tools and panels you can use:
 
-1. Shape library: This panel contains a variety of UML shapes and symbols that you can use to create your UML diagrams. You can drag and drop shapes from the library onto the drawing area to create your diagrams.
-
-2. Format panel: This panel contains various formatting tools that allow you to customize the appearance of your UML diagram. You can use these tools to change the color, font, size, and other properties of your shapes and text.
-
-3. Connectors panel: This panel contains various connectors and arrows that allow you to create relationships between shapes in your UML diagram. You can choose the type of connector you want to use, and customize its appearance and properties.
-
-4. Layers panel: This panel allows you to create and manage layers in your UML diagram. You can use layers to organize your shapes and symbols, and to control their visibility and order.
-
-5. Properties panel: This panel allows you to view and edit the properties of selected shapes and symbols in your UML diagram. You can use this panel to change the size, position, and other properties of your shapes.
-
-6. Pages panel: This panel allows you to create and manage multiple pages in your UML diagram. You can use pages to organize your diagram into sections, or to create different versions of the same diagram.
+| Tool/Panel | Description|
+|---------------|---------------|
+| Shape Library | Contains a variety of UML shapes and symbols that can be used to create UML diagrams. Shapes can be dragged and dropped onto the drawing area to create diagrams.|
+| Format Panel  | Contains various formatting tools that can be used to customize the appearance of shapes and text in UML diagrams. Tools include options to change color, font, size, and other properties.|
+| Connectors Panel | Contains various connectors and arrows that can be used to create relationships between shapes in UML diagrams. Connectors can be customized in appearance and properties. |
+| Layers Panel  | Allows users to create and manage layers in UML diagrams. Layers can be used to organize shapes and symbols, and to control their visibility and order.|
+| Properties Panel | Allows users to view and edit the properties of selected shapes and symbols in UML diagrams. Properties include size, position, and other characteristics.|
+| Pages Panel   | Allows users to create and manage multiple pages in UML diagrams. Pages can be used to organize diagrams into sections, or to create different versions of the same diagram.|
+| Arrange Panel | Contains tools to align, group, and distribute shapes in UML diagrams. Tools include options to align shapes horizontally and vertically, group selected shapes together, and distribute shapes evenly.|
+| Text Panel| Allows users to add and edit text in UML diagrams. Text can be customized in font, size, color, and other properties.|
+| Image Panel   | Allows users to add images to UML diagrams. Images can be dragged and dropped onto the drawing area, and customized in size and appearance.|
+| Comments Panel | Allows users to add comments to UML diagrams. Comments can be used to provide additional information or context about shapes and symbols in the diagram.|
+| History Panel | Allows users to view and revert to previous versions of UML diagrams. The panel shows a timeline of changes made to the diagram, and allows users to compare different versions.|
+| Shapes Panel  | Allows users to add custom shapes to the shape library in draw.io. Custom shapes can be created using XML, HTML, or SVG code.|
+| Scratchpad Panel | Allows users to create a temporary area for creating and storing shapes, symbols, and text in UML diagrams. The scratchpad can be used to experiment with different ideas before adding them to the main diagram.|
 
 Overall, draw.io provides a range of powerful tools and panels that allow you to create and customize your UML diagrams with ease. By using these tools and panels effectively, you can create clear and effective UML diagrams that communicate your ideas clearly and accurately.
 
