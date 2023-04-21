@@ -8,7 +8,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Part 3: Requirements Engineering
+# Part 3: Requirements Specification
 
 A requirements specification is a document that outlines the functional and non-functional requirements of a software system or application. It is a critical document that acts as a blueprint for the development process, as it lays out the scope of the project, its objectives, and the features and functionality required to meet those objectives. 
 
