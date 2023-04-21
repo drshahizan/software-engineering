@@ -32,17 +32,33 @@ The system will be designed to be user-friendly and accessible, with clear instr
 The expected outcomes of the project include improved student satisfaction, as the software system will provide a more convenient and streamlined process for managing accommodation. KTDI staff will also benefit from increased efficiency, as the system will reduce the need for manual data entry and administrative tasks. Finally, the system is expected to reduce errors and delays in the accommodation management process, resulting in a more reliable and efficient system overall.
 
 ### 2. Background:
-The student accommodation system is an essential aspect of managing student life on a university campus. It automates the process of assigning student room and ensures that students are placed in suitable accommodations that meet their needs and preferences. The system is vital in providing a comfortable and safe living environment for students, promoting their academic success and overall well-being. However, the current manual and unorganised system in KTDI can be time-consuming, prone to error and inconsistencies, leading to inefficiencies in the room allocation and maintainence process and a poor user experience for both students and administrators.
- 
-Our proposed student accommodation system is focused to overcome these challenges via devloping a modern, spontaneous automated system that streamline the room rentaling and managing process.
+The student accommodation system is an essential aspect of managing student life on a university campus. It automates the process of assigning student housing and ensures that students are placed in suitable accommodations that meet their needs and preferences. The system is vital in providing a comfortable and safe living environment for students, promoting their academic success and overall well-being.
 
 ### 3. Objectives:
 - The objectives section should clearly state the goals and objectives of the software project. It should describe the intended outcomes of the software and how it will address the problem it aims to solve. 
 - Objectives should be specific, measurable, achievable, relevant, and time-bound (SMART).
 
 ### 4. Scope: 
-- The scope section defines the boundaries of the project and outlines what features and functionality will be included in the software. 
-- It should also describe any limitations or constraints that may affect the project.
+The scope of the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) refers to the boundaries or limits of the project, defining what elements the system will and won't have. It outlines the features and functionalities of the system, including its goals, objectives, and requirements, as well as the expected outcomes and benefits. Here are more detailed explanations of the features and functionality of a student accommodation system:
+
+- Student registration: By entering their personal information, academic information, and housing preferences, students can register as users in the system using the student registration tool. Before letting a student register, the system should confirm their identity and determine whether they qualify for accommodations.
+
+- Room allocation: According on the students' choices, availability, and budget, the system can assign rooms to them using the room allocation tool. The system should include elements including the student's academic programme, year of study, and any unique requirements or requests.
+
+- Room management: The room management feature allows students to manage their rooms through the system. This includes room bookings, check-in, check-out, and maintenance requests. The system should provide a calendar view of the room availability and allow students to book their preferred room and check-in and check-out dates. It should also allow students to request maintenance services for their room and track the status of the request.
+
+- Payment management: Students can use the system to pay their lodging costs thanks to the payment management tool. The system should enable students to monitor their payment history and receipts and offer safe payment options like credit card or internet banking. 
+
+- User management: Administrators can manage user accounts for students, staff, and other users via the user management tool. To make sure that users only have access to the functions and information they require, the system should offer capabilities like account creation, modification, and deletion as well as role-based access control.
+
+- Security: The security element guarantees the safety of the system and safeguards the private data of the students. For data transmission and storage, the system should employ secure encryption techniques, and features like access control and two-factor authentication should be available to guard against unauthorised access.
+
+- Reporting and analytics:The reporting and analytics feature allows administrators to monitor and analyze the occupancy rates, revenue, and maintenance issues of the accommodation system. Reports from the system should include occupancy rates by programme or room type, revenue by time period, and building or room-specific maintenance issues.
+
+- Support and maintenance: The system's technical assistance and maintenance are provided by the support and maintenance function. Users should be able to report problems or request assistance through the system's help desk or ticketing system, and there should be a dedicated team working to quickly resolve these problems.
+
+
+
 
 ### 5. Software Process Model:
 This section describe the ideal software process model for this system development. The write-up must consist of:
