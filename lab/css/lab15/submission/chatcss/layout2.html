@@ -13,7 +13,42 @@ Group: chatcss
     <title>Flexbox</title>
     
     <style>
+      body {
+        font-family: sans-serif;
+        margin: 0;
+        padding: 0;
+      }
 
+      header {
+        background-color: blue;
+        color: white;
+        padding: 10px;
+        text-align: center;
+      }
+
+      section {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: space-between;
+      }
+
+      article {
+        flex: 3;
+        background-color: rgb(102, 245, 102);
+        border: 10px solid white;
+        padding: 10px;
+        text-align: left;
+      }
+
+      p {
+        margin-top: 35px;
+        margin-bottom: 20px;
+      }
+
+      button {
+        margin: 5px;
+      }
     </style>
   </head>
   <body>
@@ -22,7 +57,7 @@ Group: chatcss
     </header>
 
     <section>
-      <article>
+      <article style="flex-grow: 2.5;">
         <h2>Campuses</h2>
 
         <p>
@@ -34,7 +69,7 @@ Group: chatcss
         </p>
       </article>
 
-      <article>
+      <article style="flex-grow: 2.5;">
         <h2>Residential colleges</h2>
 
         <p>
@@ -49,7 +84,7 @@ Group: chatcss
         </p>
       </article>
 
-      <article>
+      <article style="flex-grow: 5;">
         <div>
           <p>
             UTM can provide accommodation for outsiders, i.e. parents or
