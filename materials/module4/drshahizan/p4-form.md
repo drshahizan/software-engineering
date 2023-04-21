@@ -72,6 +72,23 @@ Functional requirements for an academic course registration system could be orga
 
 Note: This is just an example and is not a comprehensive list of all the functional requirements for an academic course registration system. The actual requirements may vary depending on the specific needs and constraints of the system.
 
+## Case Study: Non Functional Requirements
+Non-functional requirements using the template for an academic course registration system:
+
+Non-Functional Requirements: Template Requirements Statement Example
+| Title | Function | Description | Inputs | Source | Outputs | Destination |
+| --- | --- | --- | --- | --- | --- | --- |
+| Availability | The system | The system shall be available 24/7, except during maintenance windows that will be communicated in advance to the users | N/A | N/A | N/A | N/A |
+| Response time | The system | The system shall have a response time of less than 3 seconds for any user action | User action | N/A | System response | User |
+| Security | The system | The system shall have a security mechanism that ensures data privacy and confidentiality of all users | User data | N/A | Protected user data | System |
+| Scalability | The system | The system shall be scalable to accommodate at least 10,000 users concurrently | User requests | N/A | Concurrent users | System |
+| User interface | The system | The system shall have a user-friendly interface with clear navigation and easy-to-use features | User interaction | N/A | User feedback | System |
+| Compatibility | The system | The system shall be compatible with major web browsers including Google Chrome, Mozilla Firefox, and Safari | Web browsers | N/A | System functionality | User |
+| Accessibility | The system | The system shall comply with accessibility standards to ensure equal access to all users, including those with disabilities | User interaction | N/A | User accessibility | System |
+| Backup and recovery | The system | The system shall have a backup and recovery mechanism to prevent data loss and minimize downtime in case of a system failure | System data | N/A | Recovered data | System |
+
+These non-functional requirements specify the characteristics of the academic course registration system that are not directly related to its functionality but are still essential for its usability, security, and performance.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
