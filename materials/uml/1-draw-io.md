@@ -39,6 +39,18 @@ Overall, Draw.io's free version is a powerful and versatile diagramming tool tha
 
 Overall, using Draw.io for UML diagrams offers many benefits, from ease of use and flexibility to collaboration and integration options. It is a cost-effective and powerful tool for creating professional-looking UML diagrams for a variety of purposes.
 
+## Draw.io interface and its features
+
+Draw.io is an online diagramming tool that offers a user-friendly interface and a range of features that make it easy to create various types of diagrams, including UML diagrams. The draw.io interface is divided into different sections, including a drawing area, a shape library, and formatting tools.
+
+The drawing area is where you can create your diagrams by dragging and dropping shapes, lines, and text onto the canvas. The shape library offers a wide range of pre-built shapes that you can use to create your diagrams, including UML-specific shapes like classes, actors, and use cases. You can also search for specific shapes using keywords.
+
+Formatting tools allow you to customize the shapes and the overall look of your diagram. You can change the size, color, font, and other properties of shapes, as well as add text labels, connectors, and arrows to represent relationships.
+
+Draw.io also offers a range of other features, including the ability to import and export diagrams in various file formats, collaboration tools that allow multiple users to work on the same diagram simultaneously, and integration with various cloud storage services like Google Drive and Dropbox.
+
+Overall, the draw.io interface and its features are designed to be intuitive and user-friendly, making it easy for both beginners and experienced users to create professional-looking diagrams efficiently.
+
 ## Connecting Draw.io and GitHub
 Draw.io can be linked to Github to make it easier to collaborate on diagrams and other visualizations stored in Github repositories. Here are the steps to link Draw.io to Github:
 
