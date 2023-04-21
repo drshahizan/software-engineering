@@ -150,6 +150,25 @@ The design might also include details about the system architecture, data struct
 
 By separating requirements and design in this way, it is possible to ensure that the system meets the needs of its users while also being well-engineered and maintainable. Requirements define the goals and expectations of the system, while design defines the specific implementation that will achieve those goals. By clearly defining these two aspects of the system, it is possible to create a robust, user-friendly, and efficient academic course registration system that meets the needs of students and instructors alike.
 
+## Natural Language Specification
+A natural language specification is a type of requirement specification that uses natural language, such as English, to describe the requirements of a system. This approach is widely used because it is easy to understand and can be written by stakeholders who may not have technical expertise. In the context of an academic course registration system, the natural language specification can be used to document the requirements in the IEEE Software Requirements Document (SRD).
+
+Here are some examples of natural language requirements for an academic course registration system:
+
+1. The system shall allow students to search for courses by course title, course code, and instructor name.
+
+2. The system shall allow students to register for courses and drop courses before the registration deadline.
+
+3. The system shall allow instructors to manage their course listings, including adding or removing courses and updating course details.
+
+4. The system shall ensure that students cannot register for courses that conflict with each other in terms of time and location.
+
+5. The system shall provide email notifications to students when they register for a course or when there is a change to their course schedule.
+
+These requirements are written in natural language and are easy to understand for stakeholders. They specify the functionality that the academic course registration system should have and the constraints that should be imposed on the system.
+
+It is important to note that natural language specifications can be prone to ambiguity and inconsistencies, which can lead to misunderstandings and errors. Therefore, it is important to ensure that the requirements are clear, concise, and unambiguous. This can be achieved by using a structured natural language approach or by supplementing the natural language specification with other specification techniques, such as graphical notations or mathematical specifications.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
