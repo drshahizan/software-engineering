@@ -287,6 +287,20 @@ The table below summarizes the different types of requirements reviews and their
 | Inspections | Formal review by a team of experts to identify potential issues and make recommendations for improvements. | Project managers, developers, domain experts |
 | Testing | Verification that the system requirements are complete, accurate, and testable. | Testers, developers, project managers |
 
+Review checks are a set of activities that are conducted during the requirements review process to ensure that the software requirements document (SRD) is complete, correct, and consistent. The purpose of review checks is to identify and correct any errors, inconsistencies, or ambiguities in the SRD before the development process begins. 
+
+Review Checks for the academic course registration system:
+
+| Review Check | Description | Example |
+|--------------|-------------|---------|
+| Completeness | Ensures that all necessary requirements have been included in the document | Check that the SRD includes requirements for student login, course search, course registration, payment processing, and confirmation of registration |
+| Consistency | Ensures that requirements are not contradictory or conflicting with each other | Check that the SRD specifies that students can only register for courses that fit within their degree program and schedule |
+| Clarity | Ensures that requirements are stated clearly and unambiguously | Check that the SRD uses clear language and avoids technical jargon that may be unfamiliar to stakeholders |
+| Testability | Ensures that requirements can be tested to verify that they have been met | Check that the SRD includes specific acceptance criteria for each requirement, such as "the system shall allow students to search for courses by course code or title" |
+| Traceability | Ensures that requirements can be traced back to their origin and are not redundant | Check that each requirement in the SRD is linked to a specific stakeholder need or business objective, and that there are no duplicate requirements or requirements that overlap with each other |
+
+By conducting these review checks, the requirements review process can identify and correct any errors, inconsistencies, or ambiguities in the SRD, which can help to improve the quality of the software development process.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
