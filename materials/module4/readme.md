@@ -13,9 +13,9 @@ Don't forget to hit the :star: if you like this repo.
 - [Requirements Engineering Introduction](p1-intro.md)
 - [Functional Requirements](p2-functional.md)
 - [Requirements Specification](p3-soft-requirement.md)
-- [Form Design](p4-form.md)
-- [Requirement Engineering](p5-req-eng.md)
-- [Interviews](p6-interview.md)
+- [Form Based Specifications](p4-form.md)
+- [Advance Requirements Engineering](p5-req-eng.md)
+- [An interview with a stakeholder](p6-interview.md)
 
 ## Introduction
 This repository contains documentation for the software project that we are working on. The purpose of this documentation is to provide a clear and concise understanding of the requirements and design of the software.
