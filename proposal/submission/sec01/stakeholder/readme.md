@@ -32,8 +32,10 @@ The system will be designed to be user-friendly and accessible, with clear instr
 The expected outcomes of the project include improved student satisfaction, as the software system will provide a more convenient and streamlined process for managing accommodation. KTDI staff will also benefit from increased efficiency, as the system will reduce the need for manual data entry and administrative tasks. Finally, the system is expected to reduce errors and delays in the accommodation management process, resulting in a more reliable and efficient system overall.
 
 ### 2. Background:
-The student accommodation system is an essential aspect of managing student life on a university campus. It automates the process of assigning student housing and ensures that students are placed in suitable accommodations that meet their needs and preferences. The system is vital in providing a comfortable and safe living environment for students, promoting their academic success and overall well-being.
+The student accommodation system is an essential aspect of managing student life on a university campus. It automates the process of assigning student room and ensures that students are placed in suitable accommodations that meet their needs and preferences. The system is vital in providing a comfortable and safe living environment for students, promoting their academic success and overall well-being. However, the current manual and unorganised system in KTDI can be time-consuming, prone to error and inconsistencies, leading to inefficiencies in the room allocation and maintainence process and a poor user experience for both students and administrators.
 
+Our proposed student accommodation system is focused to overcome these challenges via devloping a modern, spontaneous automated system that streamline the room rentaling and managing process.
+ 
 ### 3. Objectives:
 - The objectives section should clearly state the goals and objectives of the software project. It should describe the intended outcomes of the software and how it will address the problem it aims to solve. 
 - Objectives should be specific, measurable, achievable, relevant, and time-bound (SMART).
