@@ -263,7 +263,29 @@ A table outlining the stages and methods of requirements validation in the conte
 
 Note that these are not the only methods for requirements validation, but they are common techniques used in software development. The specific methods chosen will depend on the project, the stakeholders involved, and the resources available.
 
-In summary, requirements validation is an essential step in the requirements engineering process as it ensures the identified requirements accurately reflect the system's functionality and meet the stakeholders' expectations. The validation process involves reviewing, testing, and verifying the requirements to ensure they are complete, correct, and consistent with the system's goals.
+Requirements validation is an essential step in the requirements engineering process as it ensures the identified requirements accurately reflect the system's functionality and meet the stakeholders' expectations. The validation process involves reviewing, testing, and verifying the requirements to ensure they are complete, correct, and consistent with the system's goals.
+
+## Requirements reviews
+Requirements reviews are an important step in the software development process that ensure the accuracy and completeness of the software requirements document (SRD). The reviews involve a careful analysis of the SRD to identify any errors, omissions, or inconsistencies that could potentially impact the quality of the final product. There are several types of requirements reviews, including:
+
+1. Peer Reviews: In this type of review, a group of peers, including developers, testers, and project managers, analyze the SRD to identify any potential issues and suggest improvements.
+
+2. Walkthroughs: A walkthrough involves a step-by-step review of the SRD with a team of experts, including domain experts, system architects, and developers. The walkthrough helps identify any areas where the SRD is unclear or ambiguous and ensures that all stakeholders understand the requirements.
+
+3. Inspections: An inspection is a more formal type of review that involves a team of experts, including project managers, developers, and domain experts. The team carefully examines the SRD to identify any potential issues and make recommendations for improvements.
+
+4. Testing: Testing is another important requirement review technique that involves verifying that the system requirements are complete, accurate, and testable. This technique involves creating test cases that verify that the system meets the specified requirements.
+
+In an academic course registration system, requirements reviews can be used to ensure that the SRD accurately reflects the needs of students, faculty, and administrators. The reviews can help identify potential issues with the system, such as registration errors, course conflicts, or payment processing problems, and suggest improvements to enhance the user experience.
+
+The table below summarizes the different types of requirements reviews and their key characteristics:
+
+| Type of Review | Description | Participants |
+| --- | --- | --- |
+| Peer Reviews | Informal review by peers to identify potential issues and suggest improvements. | Developers, testers, project managers |
+| Walkthroughs | Step-by-step review of the SRD with experts to identify areas that are unclear or ambiguous. | Domain experts, system architects, developers |
+| Inspections | Formal review by a team of experts to identify potential issues and make recommendations for improvements. | Project managers, developers, domain experts |
+| Testing | Verification that the system requirements are complete, accurate, and testable. | Testers, developers, project managers |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
