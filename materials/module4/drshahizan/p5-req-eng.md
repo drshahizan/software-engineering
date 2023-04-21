@@ -150,6 +150,17 @@ A table summarizing the requirements discovery phase in the context of an academ
 | Techniques | - Interviews: One-on-one discussions with stakeholders to gather information about their needs and requirements.<br><br>- Surveys: Collecting feedback from stakeholders using surveys and questionnaires.<br><br>- Focus groups: Group discussions with stakeholders to gather feedback and insights from multiple perspectives.<br><br>- Site visits: Observing the current system in action to gain insights into how it is used and what can be improved. |
 | Outputs | - Use cases: Detailed descriptions of how users interact with the system to accomplish specific tasks.<br><br>- User stories: Short, simple descriptions of a feature or requirement from the perspective of the user.<br><br>- Stakeholder requirements: A list of requirements gathered from stakeholders that reflect their needs and expectations.<br><br>- Requirements traceability matrix: A document that links requirements to their source and verifies that all requirements have been captured. |
 
+## Techniques to Elicit Requirements
+
+Sure, here's a table summarizing the techniques to elicit requirements in the context of an academic course registration system:
+
+| Technique | Description |
+| --- | --- |
+| Interviewing | Conducting formal or informal interviews with stakeholders can help gather information on their needs, expectations, and pain points related to the academic course registration system. This can involve one-on-one or group interviews with stakeholders, and can be conducted in-person, over the phone, or via video conference. |
+| Scenarios | Creating scenarios or real-life examples can help stakeholders envision how the academic course registration system will work in practice. This can involve creating a step-by-step description of how a user would interact with the system to complete a task, and can help identify potential issues or areas for improvement. |
+| Use Cases | Developing use cases is fundamental in UML and involves creating detailed descriptions of how users will interact with the academic course registration system to accomplish specific tasks. This can help identify requirements related to the system's functionality, and can be used to validate that the system meets the needs of its stakeholders. |
+| Ethnography | Observing the operational process in the organization can provide valuable insights into how the academic course registration system will be used in practice. This can involve observing users interacting with the current system, as well as the wider organizational context in which the system operates. Ethnography can help identify requirements related to user behavior, organizational culture, and other factors that may influence the design and development of the system. |
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
