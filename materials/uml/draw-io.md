@@ -70,8 +70,8 @@ Websites and links where you can find tutorials, ebooks, and other information r
 | 3| [diagrams.net](https://www.diagrams.net/example-diagrams) | Template: You can create a wide variety of diagrams for many different industries using diagrams.net and our draw.io apps with our extensive template library and vast shape libraries. |
 | 4| [YouTube](https://www.youtube.com/results?search_query=draw.io) | YouTube has many video tutorials on using Draw.io for various types of diagrams, such as flowcharts, mind maps, and UML diagrams. |
 | 5| [GitHub](https://github.com/jgraph/drawio) | The Draw.io GitHub repository, which includes the source code for the application, as well as documentation and examples. This can be useful for more advanced users who want to customize or extend the application. |
-| 6| [seibert media](https://info.seibert-media.net/display/DRAWIO/UML+Diagrams) | Template: UML diagrams divide the software systems into components and subcomponents making it easier to organize and showcase engineering requirements. There are 14 types of UML diagrams |
-| 7| [pinterest](https://www.pinterest.com/pin/852517404437008348/) | UML use case diagrams with draw.io|
+| 6| [Seibert media](https://info.seibert-media.net/display/DRAWIO/UML+Diagrams) | Template: UML diagrams divide the software systems into components and subcomponents making it easier to organize and showcase engineering requirements. There are 14 types of UML diagrams |
+| 7| [Pinterest](https://www.pinterest.com/pin/852517404437008348/) | UML use case diagrams with draw.io|
 | 8| [Udemy](https://www.udemy.com/courses/search/?lang=en&q=draw.io&sort=relevance&src=ukw) | Udemy offers several courses on using Draw.io, including courses on UML diagrams, flowcharts, and network diagrams. Some courses are free, while others require a fee. |
 
 ## Contribution 🛠️
