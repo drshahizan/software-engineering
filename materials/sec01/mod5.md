@@ -84,6 +84,23 @@ Requirements modeling is a critical phase in software development that involves 
 <li>Facilitating communication:** Requirements modeling provides a common language for communication between the development team and stakeholders. This helps to ensure that everyone has a clear understanding of the software system to be developed, reducing the likelihood of misunderstandings or miscommunications.</li></ul>
 
 ### <ul><li>Key characteristics of effective requirements models</li></ul>
+Effective requirements models are characterized by the following key characteristics:
+
+<ul><li>Clarity: The requirements model should be clear and concise, with unambiguous language and terminology that can be easily understood by all stakeholders. Ambiguous or unclear requirements can lead to misunderstandings and confusion, which can impact project success.</li>
+
+<li>Completeness: The requirements model should be complete, covering all relevant aspects of the system's functionality and performance. This means that all requirements should be identified and documented, including both functional and non-functional requirements.</li>
+
+<li>Consistency: The requirements model should be consistent, with no conflicting or contradictory requirements. Consistency ensures that all stakeholders have a clear understanding of the system's requirements and how they fit together.</li>
+
+<li>Verifiability: The requirements model should be verifiable, meaning that each requirement can be tested to determine whether it has been satisfied. Verifiable requirements are essential for ensuring that the system meets the needs of the stakeholders.</li>
+
+<li>Traceability: The requirements model should have traceability, meaning that each requirement can be traced back to its source and forward to the design, development, and testing stages. Traceability ensures that all requirements are met and helps with change management.</li>
+
+<li>Prioritization: The requirements model should be prioritized, with high-priority requirements identified and given more attention than lower-priority requirements. Prioritization ensures that the most important requirements are addressed first.</li>
+
+<li>Testability: The requirements model should be testable, meaning that each requirement can be tested to determine whether it has been satisfied. Testability is essential for ensuring that the system functions correctly and meets the needs of the stakeholders.</li></ul>
+
+Overall, effective requirements models should be clear, complete, consistent, verifiable, traceable, prioritized, and testable. By ensuring these key characteristics are met, stakeholders can be confident that the system will meet their needs and be successful.
 <p align="center"><img src= "https://cs.ccsu.edu/~stan/classes/CS410/Notes16/images/05-activity_diagram_involuntary_detention.png" width="700px" height="400px"></p>
 
 
@@ -100,7 +117,7 @@ The purpose of use case modeling and specification is to ensure that the softwar
 </ul>
 
 ### <ul><li>Techniques for creating use case models</li>
-**Narrative:**
+  <b><ul><li type="a">Narrative:</li></b>
 A narrative use case model is a type of use case model that focuses on describing the behavior of a system from the perspective of the end-user or actor. In contrast to traditional use case models, which are typically presented in a diagrammatic or tabular format, narrative use case models are presented in prose form.
 
 The narrative use case model typically begins with a description of the actor, which is the user or system that interacts with the system being modeled. This is followed by a description of the goal or objective that the actor wishes to achieve when interacting with the system.
@@ -109,12 +126,40 @@ The narrative then proceeds to describe the steps that the actor takes to achiev
 
 One of the key advantages of using a narrative use case model is that it can help to facilitate communication between the development team and stakeholders. Because the narrative is presented in a more natural language format, it is often easier for non-technical stakeholders to understand the behavior of the system and provide feedback.
 
-Overall, narrative use case models can be a useful tool for describing the behavior of a system from the perspective of the end-user, and can help to facilitate communication and collaboration between the development team and stakeholders.
+Overall, narrative use case models can be a useful tool for describing the behavior of a system from the perspective of the end-user, and can help to facilitate communication and collaboration between the development team and stakeholders.</ul>
 </ul>
+<p align="center"><img src="https://i.stack.imgur.com/i4dqN.png"></p>
 
-#### -Best practices for creating effective use case models
+### <ul><li>Best practices for creating effective use case models</li>
+  Here are some best practices for creating effective use case models:
+
+<ul><li>Involve stakeholders: Involve stakeholders from different departments or areas of expertise in the creation of the use case model. This will ensure that all requirements are captured and that the model is comprehensive.</li>
+
+<li>Focus on the business goals: Focus on the business goals of the system and the tasks that users will perform to achieve those goals. This will help you to identify the key use cases that need to be included in the model.</li>
+
+<li>Use clear and concise language: Use clear and concise language that is easily understood by all stakeholders. Avoid using technical jargon that may be confusing to non-technical stakeholders.</li>
+
+<li>Define actor roles: Clearly define the roles of the actors in the use case model. This will help you to identify the key tasks that they need to perform and the interactions that they will have with the system.</li>
+
+<li>Use templates: Use templates to standardize the format and structure of the use case model. This will make it easier to read, review, and understand.</li>
+
+<li>Keep it simple: Keep the use case model simple and avoid overcomplicating it with unnecessary details. Focus on the key tasks and interactions that are necessary to achieve the business goals.</li>
+
+<li>Review and validate: Review the use case model with stakeholders and validate it to ensure that it accurately reflects the business requirements. This will help you to identify any gaps or inconsistencies that need to be addressed.</li></ul>
+
+By following these best practices, you can create an effective use case model that accurately reflects the business requirements and helps to ensure the success of the project.
+
+  
 ### 2. Domain Modeling
-#### -Definition and purpose of domain modeling
+  ### <ul><li>Definition and purpose of domain modeling</li>
+  Domain modeling is a process of creating a conceptual representation of the domain in which a software system operates. It involves identifying the key concepts, entities, relationships, and rules that are relevant to the system's domain and using them to create a model that describes the domain and its behavior.
+
+The purpose of domain modeling is to provide a shared understanding of the domain and its requirements among all stakeholders involved in the software development process. It helps to ensure that everyone has a clear understanding of the business processes and workflows that the system is intended to support, as well as the data and information that will be used and generated by the system.
+
+Domain modeling is often used in the early stages of software development to help stakeholders clarify their requirements and ensure that everyone is on the same page before moving on to more detailed design and implementation activities. It can also help to identify potential issues and risks early on in the development process, which can save time and money later on.
+
+Overall, the purpose of domain modeling is to create a shared understanding of the domain and its requirements among all stakeholders, which can help to ensure the success of the software development project.</ul>
+  
 #### -Techniques for creating domain models (e.g. identifying objects, classes, and relationships)
 #### -Best practices for creating effective domain models
 ### 3. Activity Diagram

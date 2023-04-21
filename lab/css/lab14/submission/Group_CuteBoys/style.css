@@ -1,0 +1,96 @@
+body,html
+{
+    height:100%;
+    margin:0%
+}
+.pimg1
+{
+    background-image:url("mal1.jpeg");
+    height:100;
+    background-attachment:fixed;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+
+    
+}
+
+.pimg2
+{
+    background-image:url("mal2.jpeg");
+    height:100;
+    background-attachment:fixed;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+
+    
+}
+
+.pimg3
+{
+    background-image:url("mal3.jpeg");
+    height:100;
+    background-attachment:fixed;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+
+    
+}
+
+.ptext
+{   
+    margin:0%;
+    width:50%;
+    font-size:xx-large;
+    padding:25%;
+    text-align:center;
+    text-transform:uppercase;
+    letter-spacing: 5px;
+    color:white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    white-space: nowrap;
+}
+
+.border
+{
+    background-color: gray;
+    padding:10px;
+
+}
+
+h2
+{
+    text-align: center;
+}
+
+.trans
+{
+    background-color:transparent
+}
+
+.section-light
+{
+    padding:50px;
+    text-align:center;
+    vertical-align: bottom;
+    word-spacing: 2px;
+}
+
+.section-dark
+{
+    padding:50px;
+    text-align:center;
+    vertical-align: bottom;
+    word-spacing: 2px;
+    color:white;
+    background-color: #282E34;
+}
+
+p
+{
+    font-size: larger;
+    padding:10px;
+    margin:40px;
+}

@@ -7,7 +7,10 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Software Requirements Document (SRD): Academic Course Registration System
+# Part 1: Requirements Engineering Introduction
+In the field of software development, requirements engineering is a crucial process that involves gathering, analyzing, specifying, and managing the requirements of a software system. This process is essential to ensure that the software system being developed meets the needs of its users and stakeholders.
+
+This article presents a case study of an Academic Course Registration System, where the goal is to develop an SRD that will serve as a foundation for the system's development. The stakeholders of the system include students, instructors, administration, and the IT department. The requirements gathering process involves conducting interviews, reviewing existing documents, and analyzing the system's context.
 
 ## Key steps in creating an Academic Course Registration System
 Developing an academic course registration system for a university involves several key steps:
@@ -142,6 +145,41 @@ The system should be easy to maintain and update, with clear documentation and s
 
 By defining and meeting these system requirements, designers and developers can ensure that the course registration system is reliable, secure, and scalable. System requirements are essential to the success of the system, as they directly impact its functionality, performance, and reliability. It is important to involve system administrators, developers, and other technical experts in the requirements gathering and validation process to ensure that the system meets technical standards and best practices.
 
+## User requirements and system requirements
+
+Here are some examples of user requirements and system requirements in an academic course registration system:
+
+User Requirements:
+- The system should allow students to search for courses by department, course code, and instructor.
+- Students should be able to view their course schedules and academic records.
+- Faculty members should be able to manage their courses, including adding and removing students and managing course materials.
+- The system should have a waitlist management feature that automatically enrolls students when a spot becomes available.
+- University administrators should be able to generate reports and analytics based on course enrollment data.
+
+System Requirements:
+- The system should be able to handle a large number of concurrent users.
+- The system should have a robust authentication and authorization mechanism to ensure that only authorized users can access the system.
+- The system should integrate with other university systems, such as the student information system and learning management system.
+- The system should be able to store and manage large amounts of data related to course enrollment and student records.
+- The system should be able to scale up or down based on changing demand, without sacrificing performance or usability.
+
+By meeting these user requirements and system requirements, the academic course registration system can provide a user-friendly and reliable platform for students, faculty members, and university administrators to manage course registration and enrollment.
+
+## Readers of Different Types of Requirements Specification
+
+The readers of different types of requirements specification in an academic course registration system may include stakeholders such as students, faculty members, university administrators, system developers, and project managers. The types of requirements specifications that these stakeholders may read include user requirements, system requirements, functional requirements, and non-functional requirements.
+
+- **Users**: Students, faculty members, and university administrators are the primary users of the academic course registration system. They may be interested in reading the user requirements specification to understand the functionality and usability of the system from their perspective.
+
+- **System Developers**: Developers are responsible for building and maintaining the system. They may read the system requirements specification to understand the technical and functional specifications that the system must meet.
+
+- **Project Managers**: Project managers are responsible for overseeing the development of the system. They may read all types of requirements specifications to ensure that the project is on track and that the system meets the needs and expectations of its users.
+
+- **Quality Assurance Testers**: Testers are responsible for verifying that the system works as intended. They may read the functional and non-functional requirements specifications to develop test cases and ensure that the system meets its requirements.
+
+- **Other Stakeholders**: Other stakeholders, such as university IT staff, vendors, and regulatory bodies, may also read the requirements specifications to understand the system's functionality, security, and compliance requirements.
+
+Overall, the different types of requirements specifications in an academic course registration system are essential for ensuring that the system meets the needs and expectations of its users, is technically sound and secure, and complies with relevant regulations and standards.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

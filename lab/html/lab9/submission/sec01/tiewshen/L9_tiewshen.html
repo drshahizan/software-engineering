@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Medical Form</title>
+        <!--
+            Name: Tiew Chuan Shen
+            Matric.no: A22EC0113
+            Gitbuh id: tiewshen
+        -->
+    </head>
+    <body>
+        <h1 style="text-align:center;font-family:verdana;color:blue">Medical Form</h1>
+        <form>
+            <fieldset>
+                <legend>Personal Information</legend>
+                <table border="1" style="width:900px;height:50px">
+                    <tr>
+                    <td>First name</td>
+                    <td><input type="text" id="fname" name="fname"></td>
+                    <td>Gender</td>
+                    <td><lable><input type="radio"  name="gender" value="Male">Male</lable>
+                        <lable><input type="radio"  name="gender" value="Female">Female</lable></td>
+                    </tr>
+                    <tr>
+                        <td>Last Name</td>
+                        <td><input type="text" id="lname" name="lname"></td>
+                        <td><label for="Nationality">Nationality</label></td>
+                        <td><select id="nationality" name="nationality">
+                            <option value="">Select</option>
+                            <option value="Canadian">Canadian</option>
+                            <option value="Indonesian">Indonesian</option>
+                            <option value="Malaysian">Malaysian</option>
+                            <option value="Australian">Anustralian</option>
+                        </select></td>
+                    </tr>
+                    <tr>
+                        <td>Address</td>
+                        <td colspan="3"><input type="text" id="address" name="address" style="width:300px; height:100px"></td>
+                    </tr>
+                </table>
+            </fieldset>
+            <fieldset>
+                <legend>Medical History</legend>
+                <input type="checkbox" id="smallpox" name="smallpox">
+                <label for="smallpox">Smallpox</label>
+                <input type="checkbox" id="Mumps" name="Munps">
+                <label for="Mumps">Mumps</label>
+                <input type="checkbox" id="Dizziness" name="Dizziness">
+                <label for="Dizziness">Dizziness</label>
+                <input type="checkbox" id="sneezing" name="sneezing">
+                <label for="sneezing">Sneezing</label>
+            </fieldset>
+            <fieldset>
+                <legend>Current Medication</legend>
+                Are you currently taking any medication?
+                <lable><input type="radio" id="y" name="selection">Yes</lable>
+                <lable><input type="radio" id="n" name="selection">No</lable><br>
+                If you are currently taking medication,please indicate it in the space below:<br>
+                <input type="text" id="space" name="space" style="width:500px;height:300px;">
+            </fieldset>
+            <input type="submit" value="Submit"><input type="reset" value="Reset">
+        </form>
+    </body>
+</html>
+    
