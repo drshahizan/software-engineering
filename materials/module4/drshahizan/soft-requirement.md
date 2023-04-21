@@ -30,7 +30,7 @@ The requirements specification document typically includes the following informa
 
 Overall, the requirements specification document plays a crucial role in the software development process. It ensures that all stakeholders have a clear understanding of the project's objectives and what is expected from the final product. It also helps to minimize misunderstandings and ensures that the development team can deliver a product that meets the needs of the business and its users.
 
-
+## IEEE Software Requirements Document (SRD)
 
 The IEEE Software Requirements Document (SRD) is a standard document format used to specify the requirements for a software system. In the context of an academic course registration system, the SRD would describe the requirements for the software system that manages the registration process for students, faculty, and staff.
 
@@ -40,22 +40,22 @@ The following is an outline of the SRD for an academic course registration syste
 
 2. Functional Requirements: This section would describe the specific functions that the software system must perform, such as:
 
-- Student registration: The system should allow students to register for courses, view their course schedules, and drop or add courses as needed.
-- Faculty management: The system should allow faculty to manage their course offerings, view their class rosters, and submit grades.
-- Administrative tasks: The system should allow administrators to manage the course catalog, view enrollment statistics, and generate reports.
-- User authentication: The system should require users to authenticate themselves before accessing any sensitive data.
+    - Student registration: The system should allow students to register for courses, view their course schedules, and drop or add courses as needed.
+    - Faculty management: The system should allow faculty to manage their course offerings, view their class rosters, and submit grades.
+    - Administrative tasks: The system should allow administrators to manage the course catalog, view enrollment statistics, and generate reports.
+    - User authentication: The system should require users to authenticate themselves before accessing any sensitive data.
 
 3. Non-Functional Requirements: This section would describe the performance, security, and other non-functional requirements of the system, such as:
 
-- Performance: The system should be able to handle a large number of concurrent users without experiencing significant slowdowns or crashes.
-- Security: The system should be designed with robust security features to protect sensitive user data from unauthorized access.
-- Usability: The system should be user-friendly and easy to navigate, with clear instructions and intuitive interfaces.
+    - Performance: The system should be able to handle a large number of concurrent users without experiencing significant slowdowns or crashes.
+    - Security: The system should be designed with robust security features to protect sensitive user data from unauthorized access.
+    - Usability: The system should be user-friendly and easy to navigate, with clear instructions and intuitive interfaces.
 
 4. System Constraints: This section would describe any technical or organizational constraints that must be taken into account during the design and development of the system, such as:
 
-- Hardware and software requirements: The system should be compatible with a range of hardware and software configurations.
-- Data storage requirements: The system should be able to store and manage large amounts of data, including student and faculty records, course schedules, and enrollment data.
-- Organizational policies: The system should comply with any relevant organizational policies or regulations, such as data privacy laws or student registration rules.
+    - Hardware and software requirements: The system should be compatible with a range of hardware and software configurations.
+    - Data storage requirements: The system should be able to store and manage large amounts of data, including student and faculty records, course schedules, and enrollment data.
+    - Organizational policies: The system should comply with any relevant organizational policies or regulations, such as data privacy laws or student registration rules.
 
 5. Glossary: This section would provide definitions for any technical terms or acronyms used throughout the document.
 
