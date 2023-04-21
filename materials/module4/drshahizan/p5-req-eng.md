@@ -224,6 +224,32 @@ A description of the actors, use cases, and their relationships in a table forma
 
 This table provides a summary of the actors involved in the system, the use cases they interact with, and the relationships between them.
 
+## Ethnography
+Ethnography is a research technique that involves observing and analyzing the social interactions, behaviors, and culture of individuals or groups within a specific context. It is often used in anthropology and sociology, but can also be applied in the field of software engineering for requirements elicitation.
+
+In the context of the Student Registration scenario in an academic course registration system, ethnography could involve observing the registration process in person, such as by shadowing a student as they navigate the system. This would allow the observer to gain a deeper understanding of the student's motivations, behaviors, and pain points in the registration process. The observer could also conduct interviews with students and other stakeholders to gather more information and insights.
+
+The benefits of using ethnography in requirements elicitation include gaining a more comprehensive understanding of the user's perspective, identifying potential issues or barriers that may not be apparent through other techniques, and generating new ideas for system features or improvements.
+
+However, there are also some limitations to using ethnography, such as the potential for observer bias and the time and resource-intensive nature of the technique. It may not be feasible or practical to conduct ethnographic research for all aspects of the requirements elicitation process, but it can be a valuable supplement to other techniques.
+
+Here are some examples based on the academic course registration system case study:
+
+1. User Stories:
+- As a student, I want to be able to search for courses based on my degree program and schedule, so that I can find courses that fit my needs.
+- As a student, I want to be able to add courses to my schedule and pay any necessary fees, so that I can register for courses for the upcoming semester.
+- As an administrator, I want to be able to view and manage course offerings, so that I can ensure that the courses are available and up-to-date.
+
+2. Use Cases:
+- Search Courses: This use case allows a student to search for courses based on their degree program and schedule.
+- Register for Courses: This use case allows a student to register for courses for the upcoming semester by adding them to their course schedule and paying any necessary fees.
+- Manage Course Offerings: This use case allows an administrator to view and manage the course offerings, including adding or removing courses and updating course information.
+
+3. Scenarios:
+- Student Registration: A student logs into the system and searches for available courses based on their degree program and schedule. Once they have identified the courses they want to take, the student adds them to their course schedule and pays any necessary fees. The system confirms the student's registration and provides them with a copy of their course schedule.
+- Course Management: An administrator logs into the system and views the current course offerings. They notice that a course is no longer available and remove it from the system. They also update the course information for another course to reflect changes in the curriculum. The system confirms the changes and updates the course offerings accordingly.
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
