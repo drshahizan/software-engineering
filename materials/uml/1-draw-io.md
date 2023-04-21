@@ -128,7 +128,7 @@ Exporting a UML diagram in draw.io is a simple process that allows you to save y
 
 Exporting a UML diagram in draw.io is a quick and easy process that allows you to save your diagram in a range of file formats and customize the export settings to suit your needs.
 
-### 4.Tools and panels 
+### 4. Tools and panels 
 
 Draw.io provides a wide range of tools and panels that allow you to create and customize your UML diagrams. Here are some of the key tools and panels you can use:
 
