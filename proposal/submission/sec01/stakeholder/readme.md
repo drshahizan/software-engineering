@@ -41,8 +41,16 @@ The key features of this system include a user-friendly interface that integrate
 The student accommodation system features offer significant benefits for the university community, with the potential to impact the accommodation allocation process positively. The automation of the allocation process will increase efficiency, save time, and eliminate errors that often occur during manual allocation. The online application process will simplify the application process for students, creating a better user experience. The data analysis capabilities will allow administrators to make informed decisions about future housing allocation, resulting in a more strategic and effective approach. The enhanced security measures will protect students' personal information, improving privacy and security. The maintenance system will ensure the hostel remains well-maintained, creating a comfortable and safe living environment for students. Overall, the student accommodation system features will improve the quality of the accommodation allocation process, streamline processes, improve the student experience, and enhance the reputation of the university.
 
 ### 3. Objectives:
-- The objectives section should clearly state the goals and objectives of the software project. It should describe the intended outcomes of the software and how it will address the problem it aims to solve. 
-- Objectives should be specific, measurable, achievable, relevant, and time-bound (SMART).
+- To develop a website that will make it simple for KTDI students to look for and reserve available housing inside the college.
+- To offer KTDI administration a safe and user-friendly method to manage their student housing facilities and room allocations.
+- To automate procedures including student applications, room allocations, and room transfers in order to streamline the room allocation process.
+- To make it easier for students to communicate with the KTDI management by using the platform's message feature.
+- By putting in place a mechanism for student feedback and evaluations of the housing facilities and services offered by KTDI, it will be possible to ensure accountability and openness.
+- To provide a system that offers current availability and cost details to assist students in making knowledgeable lodging decisions.
+- To expand the platform's capabilities and audience, interface it with outside services like social media networks, payment gateways, and map APIs.
+- To guarantee adherence to pertinent rules and data protection legislation during the platform's development and operation.
+- To upgrade the platform frequently and incorporate user feedback to make it better.
+- To develop a successful business model that makes money from booking commissions or other forms of monetization that may be used to pay for future initiatives and projects of KTDI.
 
 ### 4. Scope: 
 The scope of the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) refers to the boundaries or limits of the project, defining what elements the system will and won't have. It outlines the features and functionalities of the system, including its goals, objectives, and requirements, as well as the expected outcomes and benefits. Here are more detailed explanations of the features and functionality of a student accommodation system:
