@@ -89,6 +89,27 @@ Non-Functional Requirements: Template Requirements Statement Example
 
 These non-functional requirements specify the characteristics of the academic course registration system that are not directly related to its functionality but are still essential for its usability, security, and performance.
 
+## Tabular specification
+
+Tabular specification is a method of documenting requirements using a table format. This format is commonly used in software development and is often used in conjunction with natural language or structured specifications. The table typically includes columns for the requirement ID, description, priority, status, source, and any other relevant information.
+
+For an academic course registration system, a tabular specification might include the following information:
+
+| Requirement ID | Description | Priority | Status | Source | 
+|----------------|-------------|----------|--------|--------|
+| REQ001 | The system shall allow students to register for courses online | High | Approved | Customer |
+| REQ002 | The system shall provide real-time course availability information | High | Approved | Customer |
+| REQ003 | The system shall allow students to add and drop courses before the registration deadline | High | Approved | Customer |
+| REQ004 | The system shall provide a confirmation message to students upon successful course registration | Medium | Approved | Customer |
+| REQ005 | The system shall restrict course registration for students with unpaid fees | High | Approved | Customer |
+| REQ006 | The system shall allow students to view their current course schedule | Low | Approved | Customer |
+| REQ007 | The system shall allow students to search for courses by various criteria (e.g. course code, instructor, schedule) | Medium | Approved | Customer |
+| REQ008 | The system shall provide course descriptions and prerequisites for all available courses | Medium | Approved | Customer |
+| REQ009 | The system shall send reminders to students about registration deadlines and payment due dates | Low | Proposed | Development team |
+| REQ010 | The system shall be accessible to students with disabilities | High | Proposed | Accessibility consultant |
+
+By using a tabular specification, stakeholders can easily view and track the progress of each requirement. Additionally, the use of a standardized format helps ensure that all requirements are captured and documented in a consistent manner.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
