@@ -41,7 +41,7 @@ Learn PlanUML is an online resource that provides tutorials and examples for usi
 ## Step by step instructions for using PlantUML 
 
 | Step | Description |
-| ----: | ----------- |
+| :----: | ----------- |
 | 1 | [Install PlantUML on your computer](./planuml/01-install-planuml.md). You can do this by visiting the PlantUML website and following the installation instructions for your operating system.|
 | 2 | Learn the syntax for creating use case diagrams in PlantUML. The syntax for use case diagrams in PlantUML is relatively simple and easy to learn, but it will take some practice to get used to it.|
 | 3 | Define the actors that will interact with the system. In the case of a university academic course registration system, the actors might include students, professors, and administrators. |
