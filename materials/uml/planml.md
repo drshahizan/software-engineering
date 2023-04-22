@@ -16,6 +16,19 @@ PlantUML supports a wide variety of diagram types, including class diagrams, use
 
 Overall, PlantUML is a powerful and flexible tool for creating UML diagrams, and is widely used by developers, designers, and other professionals in a variety of industries.
 
+## Step-by-step instructions for using PlantUML 
+
+| Step | Description |
+| ---- | ----------- |
+| 1. | Install PlantUML on your computer. You can do this by visiting the PlantUML website and following the installation instructions for your operating system.|
+| 2. | Learn the syntax for creating use case diagrams in PlantUML. The syntax for use case diagrams in PlantUML is relatively simple and easy to learn, but it will take some practice to get used to it.|
+| 3. | define the actors that will interact with the system. In the case of a university academic course registration system, the actors might include students, professors, and administrators. |
+| 4. | Identify the use cases that the system will support (e.g. registering for courses, dropping courses, viewing course schedules, generating transcripts). |
+| 5. | Use the PlantUML syntax to draw the use case diagram, including creating the use case and actor elements and connecting them with lines to indicate the relationships between them. |
+| 6. | Refine the diagram by adding details such as annotations, descriptions, and constraints, and customizing the appearance of the diagram by changing colors, fonts, and other visual properties. |
+| 7. | Share the diagram with others and collaborate on further refinement or development by exporting it to a variety of formats, including PNG, SVG, and PDF. |
+
+I hope this table helps to summarize the steps and makes it easier for you to learn PlantUML and create your use case diagram. Good luck!
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
