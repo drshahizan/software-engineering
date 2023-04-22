@@ -84,7 +84,7 @@ Software Requirements Specification (SRS) is a key document that outlines the fu
 
 The primary actors in the university academic course registration system are students, faculty members, and administrative staff. The use case diagram for this system is shown below:
 
-![Use Case Diagram for University Academic Course Registration System](https://github.com/drshahizan/software-engineering/tree/main/materials/uml/images/Ucase1.png)
+![Use Case Diagram for University Academic Course Registration System](https://github.com/drshahizan/software-engineering/blob/main/materials/uml/images/Ucase1.png)
 
 As shown in the diagram, the primary use cases for this system include:
 
