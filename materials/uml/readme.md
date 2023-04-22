@@ -7,7 +7,18 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Learn Draw.IO and UML
+# Draw.io and PlantUML
+
+Draw.io and PlantUML are both tools that can be used to create UML (Unified Modeling Language) diagrams, which are used to visually represent different aspects of software design and architecture. 
+
+Draw.io is a web-based diagramming tool that can be used to create a wide variety of diagrams, including UML diagrams. It offers a user-friendly interface with a range of features, such as drag-and-drop functionality, formatting options, and the ability to collaborate with others in real-time. Draw.io supports a variety of UML diagram types, including use case diagrams, class diagrams, activity diagrams, and sequence diagrams.
+
+PlantUML, on the other hand, is a text-based tool that generates UML diagrams from simple text descriptions. It uses a specific syntax that allows you to describe the different elements of a UML diagram, and then generates the diagram automatically based on your input. PlantUML supports a wide variety of UML diagram types, and can also be used to generate other types of diagrams, such as flowcharts and network diagrams.
+
+Both tools have their own strengths and weaknesses, and the choice of which tool to use will depend on your personal preference and the specific requirements of your project. Draw.io is a good choice if you prefer a visual interface and want to create more complex diagrams quickly, while PlantUML is a good choice if you prefer a more lightweight and flexible approach that can be integrated into other tools and workflows.
+
+## Learn Draw.io and UML
+
 Draw.io is a free online diagramming tool that can be used to create UML diagrams. To use it effectively, you should familiarize yourself with the interface and UML basics. You can then create UML diagrams by dragging and dropping shapes from the relevant libraries and customizing them using formatting tools. Draw.io can be used to create a variety of UML diagrams, including class diagrams, use case diagrams, sequence diagrams, activity diagrams, component diagrams, and deployment diagrams.
 
 The topics and descriptions to learn how to use draw.io for creating UML diagrams:
@@ -24,7 +35,19 @@ The topics and descriptions to learn how to use draw.io for creating UML diagram
 | 8 | [Creating Deployment Diagrams]() | Learn how to create deployment diagrams using draw.io, including how to add nodes, artifacts, and dependencies to show how a system is deployed in a physical environment. |
 | 9 | [Tips and Tricks]() | Learn some tips and tricks for working with draw.io, such as using keyboard shortcuts, formatting diagrams, and organizing your work. |
 
-I hope this table format helps you better understand the topics and descriptions for learning how to use draw.io to create UML diagrams. Let me know if you have any further questions.
+## Learn PlanUML and UML
+
+## Step-by-step instructions for using PlantUML 
+
+| Step | Description |
+| ---- | ----------- |
+| 1. | Install PlantUML on your computer. You can do this by visiting the PlantUML website and following the installation instructions for your operating system.|
+| 2. | Learn the syntax for creating use case diagrams in PlantUML. The syntax for use case diagrams in PlantUML is relatively simple and easy to learn, but it will take some practice to get used to it.|
+| 3. | Define the actors that will interact with the system. In the case of a university academic course registration system, the actors might include students, professors, and administrators. |
+| 4. | Identify the use cases that the system will support (e.g. registering for courses, dropping courses, viewing course schedules, generating transcripts). |
+| 5. | Use the PlantUML syntax to draw the use case diagram, including creating the use case and actor elements and connecting them with lines to indicate the relationships between them. |
+| 6. | Refine the diagram by adding details such as annotations, descriptions, and constraints, and customizing the appearance of the diagram by changing colors, fonts, and other visual properties. |
+| 7. | Share the diagram with others and collaborate on further refinement or development by exporting it to a variety of formats, including PNG, SVG, and PDF. |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
