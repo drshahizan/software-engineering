@@ -54,7 +54,7 @@ Therefore, to use PlantUML effectively in Visual Studio Code, you will need to i
 
 Here are the steps to install both Graphviz and JRE for use with the PlantUML extension in Visual Studio Code:
 
-1. Install JRE on your system by downloading and installing the latest version from the Java download page at http://www.java.com.
+1. Install JRE on your system by downloading and installing the latest version from the Java download page at [http://www.java.com](https://www.java.com/en/download/manual.jsp).
 2. Install Graphviz on your system by downloading and installing the latest version from the Graphviz download page at https://graphviz.org/download/.
 3. After both JRE and Graphviz are installed, open Visual Studio Code and install the PlantUML extension.
 4. You should now be able to create and render UML diagrams using the PlantUML syntax in Visual Studio Code.
