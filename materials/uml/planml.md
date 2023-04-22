@@ -28,7 +28,22 @@ Overall, PlantUML is a powerful and flexible tool for creating UML diagrams, and
 | 6. | Refine the diagram by adding details such as annotations, descriptions, and constraints, and customizing the appearance of the diagram by changing colors, fonts, and other visual properties. |
 | 7. | Share the diagram with others and collaborate on further refinement or development by exporting it to a variety of formats, including PNG, SVG, and PDF. |
 
-I hope this table helps to summarize the steps and makes it easier for you to learn PlantUML and create your use case diagram. Good luck!
+## Install PlantUML in Microsoft Visual Studio Code
+
+1. Open Visual Studio Code and click on the "Extensions" icon on the left-hand side of the window.
+2. Search for "PlantUML" in the search bar at the top of the window.
+3. Click on the "Install" button next to the "PlantUML" extension.
+4. Once the installation is complete, click on the "Reload" button to activate the extension.
+5. You may also need to install Graphviz, which is a prerequisite for PlantUML. To do this, visit the Graphviz website (https://graphviz.org/download/) and download and install the appropriate version for your operating system.
+6. After installing Graphviz, you will need to add it to your system's PATH environment variable. To do this on Windows, follow these steps:
+   - Open the Start menu and search for "Environment Variables."
+   - Click on the "Edit the system environment variables" option.
+   - Click on the "Environment Variables" button at the bottom of the window.
+   - In the "System Variables" section, scroll down and select the "Path" variable, then click on the "Edit" button.
+   - Click on the "New" button and add the path to the Graphviz bin directory (e.g. "C:\Program Files (x86)\Graphviz2.38\bin") to the list of paths.
+   - Click "OK" to close all the windows.
+
+That's it! You should now be able to use PlantUML within Visual Studio Code to create UML diagrams.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
