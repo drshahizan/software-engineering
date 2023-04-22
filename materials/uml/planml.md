@@ -43,7 +43,29 @@ Overall, PlantUML is a powerful and flexible tool for creating UML diagrams, and
    - Click on the "New" button and add the path to the Graphviz bin directory (e.g. "C:\Program Files (x86)\Graphviz2.38\bin") to the list of paths.
    - Click "OK" to close all the windows.
 
-That's it! You should now be able to use PlantUML within Visual Studio Code to create UML diagrams.
+You should now be able to use PlantUML within Visual Studio Code to create UML diagrams.
+
+Both Graphviz and JRE are required to use PlantUML in Visual Studio Code. 
+
+The PlantUML extension for Visual Studio Code generates UML diagrams using the PlantUML syntax, and then relies on Graphviz to render the diagrams as images. The PlantUML extension also requires JRE to be installed to execute the PlantUML.jar file.
+
+Therefore, to use PlantUML effectively in Visual Studio Code, you will need to install both Graphviz and JRE on your system.
+
+## Install both Graphviz and JRE
+Both Graphviz and JRE are required to use PlantUML in Visual Studio Code. 
+
+The PlantUML extension for Visual Studio Code generates UML diagrams using the PlantUML syntax, and then relies on Graphviz to render the diagrams as images. The PlantUML extension also requires JRE to be installed to execute the PlantUML.jar file.
+
+Therefore, to use PlantUML effectively in Visual Studio Code, you will need to install both Graphviz and JRE on your system.
+
+Here are the steps to install both Graphviz and JRE for use with the PlantUML extension in Visual Studio Code:
+
+1. Install JRE on your system by downloading and installing the latest version from the Java download page at http://www.java.com.
+2. Install Graphviz on your system by downloading and installing the latest version from the Graphviz download page at https://graphviz.org/download/.
+3. After both JRE and Graphviz are installed, open Visual Studio Code and install the PlantUML extension.
+4. You should now be able to create and render UML diagrams using the PlantUML syntax in Visual Studio Code.
+
+It's important to note that Graphviz and JRE are separate software packages and must be installed separately. Without both of these tools, you will not be able to use PlantUML effectively in Visual Studio Code.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
