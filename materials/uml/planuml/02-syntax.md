@@ -18,17 +18,17 @@ Overall, PlantUML is a powerful and flexible tool for creating UML diagrams, and
 
 Sure, here's a table with 3 columns - "No.", "Name", and "Description" - that provides an overview of the UML diagrams that can be created using PlantUML:
 
-| No. | Name              | Description                                                                                        |
-| --- | -----------------| --------------------------------------------------------------------------------------------------|
-| 1   | Sequence diagram | Depicts interactions between objects over time.                                                  |
-| 2   | Use case diagram | Shows the relationships between actors and use cases in a system.                                 |
-| 3   | Class diagram    | Describes the structure of classes and their relationships.                                       |
-| 4   | Object diagram   | Shows a snapshot of objects and their relationships at a particular point in time.                |
-| 5   | Activity diagram | Illustrates the flow of activities in a system.                                                   |
-| 6   | Component diagram| Illustrates the structure of components and their relationships.                                  |
-| 7   | Deployment diagram| Shows the physical deployment of components in a system.                                          |
-| 8   | State diagram    | Describes the behavior of objects in response to events.                                          |
-| 9   | Timing diagram   | Shows the timing constraints of interactions between objects.                                     |
+| No. | Name| Description|
+| --- | -----------------| ----------------------------------|
+| 1| Sequence diagram | Depicts interactions between objects over time. |
+| 2| Use case diagram | Shows the relationships between actors and use cases in a system.|
+| 3| Class diagram | Describes the structure of classes and their relationships.|
+| 4| Object diagram| Shows a snapshot of objects and their relationships at a particular point in time. |
+| 5| Activity diagram | Illustrates the flow of activities in a system.|
+| 6| Component diagram| Illustrates the structure of components and their relationships.|
+| 7| Deployment diagram| Shows the physical deployment of components in a system.|
+| 8| State diagram | Describes the behavior of objects in response to events.|
+| 9| Timing diagram| Shows the timing constraints of interactions between objects.|
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
