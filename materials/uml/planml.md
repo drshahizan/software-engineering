@@ -86,6 +86,7 @@ Here are the steps to install both Graphviz and JRE for use with the PlantUML ex
 
 It's important to note that Graphviz and JRE are separate software packages and must be installed separately. Without both of these tools, you will not be able to use PlantUML effectively in Visual Studio Code.
 
+## PlantUML syntax
 PlantUML is a textual language that is used to describe UML diagrams. The syntax of PlantUML is designed to be simple and easy to use, and it uses a variety of symbols and keywords to describe different elements of UML diagrams.
 
 Here are some of the key elements of the PlantUML syntax:
