@@ -15,19 +15,83 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Document</title>
 
+  <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet" type="text/css" />
+
   <style>
-    .container {
+    body {
       background-image: url("mal2.jpeg");
       background-repeat: no-repeat;
       background-size: cover;
+      margin: 0%;
+      padding: 0%;
+    }
+
+    .container {
+      color: white;
+      font-family: 'poppins';
     }
 
     .header {
-      color: white;
-      font-family: Arial, Helvetica, sans-serif;
       text-align: center;
     }
 
+    #title {
+      margin-bottom: -20px;
+    }
+
+    #description {
+      font-style: italic;
+      font-weight: 100;
+      margin-bottom: 5px;
+    }
+
+    #survey-form {
+      background-color: rgb(65,65,65);
+      border-radius: 4px;
+      width: 830px;
+      margin: auto;
+      padding: 18px;
+    }
+
+    .form-group {
+      margin-bottom: 25px;
+      text-align: left;
+    }
+
+    input.form-control {
+      display: block;
+      border-radius: 4px;
+      width: 800px;
+      padding: 12px;
+      font-size: 16px
+    }
+
+    p {
+      margin-bottom: 0px;
+    }
+
+    select.form-control {
+      border-radius: 4px;
+      width: 830px;
+      padding: 12px;
+      font-size: 16px;
+    }
+
+    .input-textarea {
+      width: 825px;
+      height: 120px;
+      font-size: 16px;
+    }
+
+    .submit-button {
+      background-color: rgb(51, 164, 51);
+      color: white;
+      font-family: 'poppins';
+      border-radius: 4px;
+      border: none;
+      width: 830px;
+      height: 35px;
+    }
   </style>
 </head>
 
@@ -67,9 +131,9 @@
       <div class="form-group">
         <p>Would you recommend Persaka to a friend?</p>
         <label>
-          <input name="user-recommend" value="definitely" type="radio" class="input-radio" checked />Definitely</label>
+          <input name="user-recommend" value="definitely" type="radio" class="input-radio" checked />Definitely</label><br>
         <label>
-          <input name="user-recommend" value="maybe" type="radio" class="input-radio" />Maybe</label>
+          <input name="user-recommend" value="maybe" type="radio" class="input-radio" />Maybe</label><br>
 
         <label><input name="user-recommend" value="not-sure" type="radio" class="input-radio" />Not sure</label>
       </div>
@@ -92,15 +156,15 @@
         </p>
 
         <label><input name="prefer" value="front-end-projects" type="checkbox" class="input-checkbox" />Front-end
-          Projects</label>
+          Projects</label><br>
         <label>
           <input name="prefer" value="back-end-projects" type="checkbox" class="input-checkbox" />Back-end
-          Projects</label>
+          Projects</label><br>
         <label><input name="prefer" value="data-visualization" type="checkbox" class="input-checkbox" />Data
-          Visualization</label>
+          Visualization</label><br>
 
         <label><input name="prefer" value="open-source-community" type="checkbox" class="input-checkbox" />Open Source
-          Community</label>
+          Community</label><br>
 
         <label><input name="prefer" value="additional-courses" type="checkbox" class="input-checkbox" />Additional
           Courses</label>
