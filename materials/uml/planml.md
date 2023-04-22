@@ -205,6 +205,27 @@ This code defines an activity diagram that models the process of a Student regis
 
 This activity diagram provides a visual representation of the process of a Student registering for a course and helps to ensure that all steps in the process are properly defined and understood.
 
+## Defining Actors
+Here's an example PlantUML code for defining actors in a university academic course registration system:
+
+```puml
+@startuml
+left to right direction
+actor Student
+actor Professor
+actor Administrator
+
+Student -> (Academic Course Registration System)
+Professor -> (Academic Course Registration System)
+Administrator -> (Academic Course Registration System)
+@enduml
+```
+
+In this code, we define three actors - "Student", "Professor", and "Administrator". We use the `actor` keyword to define each actor, followed by the name of the actor. We then define a system, represented by the `(Academic Course Registration System)` notation, which the actors will interact with.
+
+To arrange the actors in a left-to-right direction, we use the `left to right direction` keyword at the beginning of the code. Finally, we use arrows to show the interactions between the actors and the system. The arrows point from the actors to the system, indicating that the actors are interacting with the system.
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
