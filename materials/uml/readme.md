@@ -36,8 +36,9 @@ The topics and descriptions to learn how to use draw.io for creating UML diagram
 | 9 | [Tips and Tricks]() | Learn some tips and tricks for working with draw.io, such as using keyboard shortcuts, formatting diagrams, and organizing your work. |
 
 ## Learn PlanUML and UML
+Learn PlanUML is an online resource that provides tutorials and examples for using the text-based PlantUML tool to create various types of diagrams, including UML diagrams. UML, or Unified Modeling Language, is a standard modeling language used in software engineering to visually represent the different aspects of software design and architecture. UML diagrams can help to clarify requirements, identify potential issues, and communicate design decisions to stakeholders. PlantUML is a tool that can be used to generate UML diagrams from simple text descriptions, making it a lightweight and flexible option for creating diagrams quickly and easily. Overall, Learn PlanUML and UML both offer valuable resources and tools for software designers and developers.
 
-## Step-by-step instructions for using PlantUML 
+## Step by step instructions for using PlantUML 
 
 | Step | Description |
 | ---- | ----------- |
