@@ -45,6 +45,23 @@ Overall, PlantUML is a powerful and flexible tool for creating UML diagrams, and
 
 You should now be able to use PlantUML within Visual Studio Code to create UML diagrams.
 
+## Graphviz
+Graphviz is a graph visualization software that is used by PlantUML to render the UML diagrams that you create. PlantUML generates the source code for the diagrams, but Graphviz is responsible for actually rendering the diagrams as images. Without Graphviz, PlantUML would be unable to display the UML diagrams that you create.
+
+In particular, Graphviz is used by PlantUML to create the layout and positioning of the elements in the diagrams, such as nodes and edges. It uses a set of algorithms to create an optimal layout of the diagram, based on the relationships between the elements. Graphviz supports various layout algorithms, such as hierarchical, radial, and orthogonal, among others.
+
+Therefore, Graphviz is a necessary component of the PlantUML software and must be installed on your system to use PlantUML effectively.
+
+## Java Runtime Environment (JRE)
+
+PlantUML is a Java-based tool that is used to generate UML diagrams using textual descriptions. The PlantUML engine itself is a Java application, and it requires a Java Runtime Environment (JRE) to be installed on the system in order to run.
+
+When you use the PlantUML extension in Visual Studio Code, the extension uses the PlantUML engine to parse the textual descriptions of UML diagrams and generate images of the diagrams. The JRE is required to execute the PlantUML.jar file, which is the executable file for the PlantUML engine.
+
+Without the JRE installed on your system, the PlantUML engine will not be able to run, and you will not be able to generate UML diagrams using the PlantUML syntax.
+
+Therefore, the JRE is an essential component of the PlantUML ecosystem, and must be installed on your system in order to use PlantUML effectively in Visual Studio Code or any other environment.
+
 ## Install both Graphviz and JRE
 Both Graphviz and JRE are required to use PlantUML in Visual Studio Code. 
 
