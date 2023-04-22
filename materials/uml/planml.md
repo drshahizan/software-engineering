@@ -124,6 +124,10 @@ Course --> Student : enrolled in
 @enduml
 ```
 
+<p align="center">
+<img src="https://github.com/drshahizan/software-engineering/blob/main/materials/uml/images/relationships.png"  height="400" />
+</p>
+
 This code defines three classes: Student, Course, and RegistrationSystem. Each Student has an id and name attribute, as well as a method to enroll in a Course. Each Course has an id, name, and a list of enrolled Students. The RegistrationSystem has methods to register a Student for a Course and to list the Students enrolled in a Course.
 
 There are also several associations defined between the classes, including:
@@ -158,6 +162,10 @@ package Registrar {
 }
 @enduml
 ```
+
+<p align="center">
+<img src="https://github.com/drshahizan/software-engineering/blob/main/materials/uml/images/pakage.png"  height="400" />
+</p>
 
 4. **Activity Diagrams**: PlantUML also supports activity diagrams, which can be used to describe the flow of activities or processes in a system. To define an activity diagram in PlantUML, you can use the `activity` keyword, followed by the name of the diagram in brackets. For example:
 
