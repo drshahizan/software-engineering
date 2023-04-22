@@ -90,15 +90,15 @@ PlantUML is a textual language that is used to describe UML diagrams. The syntax
 
 Here are some of the key elements of the PlantUML syntax:
 
-1. **Classes and Objects**: To define a class or an object in PlantUML, you can use the 'class' or 'object' keyword, followed by the name of the class or object in brackets. For example, to define a class named 'Person', you can write:
+1. **Classes and Objects**: To define a class or an object in PlantUML, you can use the `class` or `object` keyword, followed by the name of the class or object in brackets. For example, to define a class named `Person`, you can write:
 
-```html
+```puml
 class Person
 ```
 
 2. Relationships: To define relationships between classes or objects, you can use a variety of arrows and symbols. For example, to define an inheritance relationship between two classes, you can use the `<|--` symbol. To define an association relationship, you can use the `--` or `->` symbols. For example:
 
-```html
+```puml
 class Person {
   +name: string
 }
@@ -115,7 +115,7 @@ In this example, the Person class has a name attribute, and it inherits from the
 
 3. Packages: To define packages in PlantUML, you can use the `package` keyword, followed by the name of the package in brackets. For example:
 
-```html
+```puml
 @startuml
 package University {
   class Student
@@ -130,7 +130,7 @@ package Registrar {
 
 4. Activity Diagrams: PlantUML also supports activity diagrams, which can be used to describe the flow of activities or processes in a system. To define an activity diagram in PlantUML, you can use the `activity` keyword, followed by the name of the diagram in brackets. For example:
 
-```html
+```puml
 @startuml
 activity "Main Process" {
   start
