@@ -222,7 +222,7 @@ Administrator -> (Academic Course Registration System)
 ```
 
 <p align="center">
-<img src="https://github.com/drshahizan/software-engineering/blob/main/materials/uml/images/actors.png" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/materials/uml/images/actors.png" height="300"/>
 </p>
 
 In this code, we define three actors - "Student", "Professor", and "Administrator". We use the `actor` keyword to define each actor, followed by the name of the actor. We then define a system, represented by the `(Academic Course Registration System)` notation, which the actors will interact with.
