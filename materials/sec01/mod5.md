@@ -52,15 +52,15 @@ Requirements modeling, on the other hand, involves creating a visual representat
 
 There are different approaches to requirements analysis and modeling, but some common steps include:
 
-<ul><li>Elicitation: This involves gathering information from stakeholders to understand their needs, expectations, and constraints.</li>
+<ul><li type="1">Elicitation: This involves gathering information from stakeholders to understand their needs, expectations, and constraints.</li>
 
-<li>Analysis: This involves organizing and categorizing the requirements to identify commonalities, conflicts, and ambiguities.</li>
+<li type="1">Analysis: This involves organizing and categorizing the requirements to identify commonalities, conflicts, and ambiguities.</li>
 
-<li>Specification: This involves documenting the requirements in a clear and concise manner using techniques such as use cases, user stories, or functional requirements.</li>
+<li type="1">Specification: This involves documenting the requirements in a clear and concise manner using techniques such as use cases, user stories, or functional requirements.</li>
 
-<li>Validation: This involves reviewing and testing the requirements to ensure they are complete, correct, and consistent.</li>
+<li type="1">Validation: This involves reviewing and testing the requirements to ensure they are complete, correct, and consistent.</li>
 
-<li>Modeling: This involves creating visual representations of the requirements using techniques such as data flow diagrams, entity-relationship diagrams, or use case diagrams.</li></ul>
+<li type="1">Modeling: This involves creating visual representations of the requirements using techniques such as data flow diagrams, entity-relationship diagrams, or use case diagrams.</li></ul>
 
 Requirements modeling techniques help to represent the requirements in a way that is easy to understand for stakeholders with varying levels of technical expertise. For example, use case diagrams show the interactions between actors and the system, while data flow diagrams show how data moves through the system.
 
@@ -70,37 +70,37 @@ Overall, requirements analysis and modeling are critical for the success of soft
 
 ## II. Part I: Requirements Modeling Concept
 ### A. Understanding the Concept of Requirements Modeling
-### <ul><li>Importance of requirements modeling in software development</li></ul>
+### <ul><li>Importance of requirements modeling in software development</li>
 Requirements modeling is a critical phase in software development that involves creating a detailed description of the desired behavior and functionality of the software system to be developed. Here are some key reasons why requirements modeling is essential in software development:
 
-<ul><li>Establishing a common understanding: The process of requirements modeling helps establish a common understanding of the software system to be developed among all stakeholders. This includes the development team, customers, end-users, and other stakeholders. By creating a clear and comprehensive set of requirements, everyone involved in the project can have a shared understanding of what the software system should do.</li>
+<ul><li type="1">Establishing a common understanding: The process of requirements modeling helps establish a common understanding of the software system to be developed among all stakeholders. This includes the development team, customers, end-users, and other stakeholders. By creating a clear and comprehensive set of requirements, everyone involved in the project can have a shared understanding of what the software system should do.</li>
 
-<li>Defining project scope: Requirements modeling helps to define the scope of the software project by clarifying what features and functionality are within the scope of the project and what are not. This helps to avoid scope creep, which can lead to increased project costs, delays, and customer dissatisfaction.</li>
+<li type="1">Defining project scope: Requirements modeling helps to define the scope of the software project by clarifying what features and functionality are within the scope of the project and what are not. This helps to avoid scope creep, which can lead to increased project costs, delays, and customer dissatisfaction.</li>
 
-<li>Minimizing rework: Requirements modeling helps to identify and correct issues early in the development process, reducing the likelihood of costly rework later. By understanding the requirements, the development team can identify potential issues or conflicts early on, reducing the risk of costly rework.</li>
+<li type="1">Minimizing rework: Requirements modeling helps to identify and correct issues early in the development process, reducing the likelihood of costly rework later. By understanding the requirements, the development team can identify potential issues or conflicts early on, reducing the risk of costly rework.</li>
 
-<li>Improving quality: Requirements modeling helps to ensure that the software system meets the needs of its users by specifying the required functionality and behavior. This helps to improve the quality of the software system and increases the likelihood that it will be successful in the market.</li>
+<li type="1">Improving quality: Requirements modeling helps to ensure that the software system meets the needs of its users by specifying the required functionality and behavior. This helps to improve the quality of the software system and increases the likelihood that it will be successful in the market.</li>
 
-<li>Facilitating communication:** Requirements modeling provides a common language for communication between the development team and stakeholders. This helps to ensure that everyone has a clear understanding of the software system to be developed, reducing the likelihood of misunderstandings or miscommunications.</li></ul>
+<li type="1">Facilitating communication: Requirements modeling provides a common language for communication between the development team and stakeholders. This helps to ensure that everyone has a clear understanding of the software system to be developed, reducing the likelihood of misunderstandings or miscommunications.</li></ul></ul>
 
-### <ul><li>Key characteristics of effective requirements models</li></ul>
+### <ul><li>Key characteristics of effective requirements models</li>
 Effective requirements models are characterized by the following key characteristics:
 
-<ul><li>Clarity: The requirements model should be clear and concise, with unambiguous language and terminology that can be easily understood by all stakeholders. Ambiguous or unclear requirements can lead to misunderstandings and confusion, which can impact project success.</li>
+<ul><li type="1">Clarity: The requirements model should be clear and concise, with unambiguous language and terminology that can be easily understood by all stakeholders. Ambiguous or unclear requirements can lead to misunderstandings and confusion, which can impact project success.</li>
 
-<li>Completeness: The requirements model should be complete, covering all relevant aspects of the system's functionality and performance. This means that all requirements should be identified and documented, including both functional and non-functional requirements.</li>
+<li type="1">Completeness: The requirements model should be complete, covering all relevant aspects of the system's functionality and performance. This means that all requirements should be identified and documented, including both functional and non-functional requirements.</li>
 
-<li>Consistency: The requirements model should be consistent, with no conflicting or contradictory requirements. Consistency ensures that all stakeholders have a clear understanding of the system's requirements and how they fit together.</li>
+<li type="1">Consistency: The requirements model should be consistent, with no conflicting or contradictory requirements. Consistency ensures that all stakeholders have a clear understanding of the system's requirements and how they fit together.</li>
 
-<li>Verifiability: The requirements model should be verifiable, meaning that each requirement can be tested to determine whether it has been satisfied. Verifiable requirements are essential for ensuring that the system meets the needs of the stakeholders.</li>
+<li type="1">Verifiability: The requirements model should be verifiable, meaning that each requirement can be tested to determine whether it has been satisfied. Verifiable requirements are essential for ensuring that the system meets the needs of the stakeholders.</li>
 
-<li>Traceability: The requirements model should have traceability, meaning that each requirement can be traced back to its source and forward to the design, development, and testing stages. Traceability ensures that all requirements are met and helps with change management.</li>
+<li type="1">Traceability: The requirements model should have traceability, meaning that each requirement can be traced back to its source and forward to the design, development, and testing stages. Traceability ensures that all requirements are met and helps with change management.</li>
 
-<li>Prioritization: The requirements model should be prioritized, with high-priority requirements identified and given more attention than lower-priority requirements. Prioritization ensures that the most important requirements are addressed first.</li>
+<li type="1">Prioritization: The requirements model should be prioritized, with high-priority requirements identified and given more attention than lower-priority requirements. Prioritization ensures that the most important requirements are addressed first.</li>
 
-<li>Testability: The requirements model should be testable, meaning that each requirement can be tested to determine whether it has been satisfied. Testability is essential for ensuring that the system functions correctly and meets the needs of the stakeholders.</li></ul>
+<li type="1">Testability: The requirements model should be testable, meaning that each requirement can be tested to determine whether it has been satisfied. Testability is essential for ensuring that the system functions correctly and meets the needs of the stakeholders.</li></ul>
 
-Overall, effective requirements models should be clear, complete, consistent, verifiable, traceable, prioritized, and testable. By ensuring these key characteristics are met, stakeholders can be confident that the system will meet their needs and be successful.
+Overall, effective requirements models should be clear, complete, consistent, verifiable, traceable, prioritized, and testable. By ensuring these key characteristics are met, stakeholders can be confident that the system will meet their needs and be successful.</ul>
 <p align="center"><img src= "https://cs.ccsu.edu/~stan/classes/CS410/Notes16/images/05-activity_diagram_involuntary_detention.png" width="700px" height="400px"></p>
 
 
@@ -133,21 +133,21 @@ Overall, narrative use case models can be a useful tool for describing the behav
 ### <ul><li>Best practices for creating effective use case models</li>
   Here are some best practices for creating effective use case models:
 
-<ul><li>Involve stakeholders: Involve stakeholders from different departments or areas of expertise in the creation of the use case model. This will ensure that all requirements are captured and that the model is comprehensive.</li>
+<ul><li type="1">Involve stakeholders: Involve stakeholders from different departments or areas of expertise in the creation of the use case model. This will ensure that all requirements are captured and that the model is comprehensive.</li>
 
-<li>Focus on the business goals: Focus on the business goals of the system and the tasks that users will perform to achieve those goals. This will help you to identify the key use cases that need to be included in the model.</li>
+<li type="1">Focus on the business goals: Focus on the business goals of the system and the tasks that users will perform to achieve those goals. This will help you to identify the key use cases that need to be included in the model.</li>
 
-<li>Use clear and concise language: Use clear and concise language that is easily understood by all stakeholders. Avoid using technical jargon that may be confusing to non-technical stakeholders.</li>
+<li type="1">Use clear and concise language: Use clear and concise language that is easily understood by all stakeholders. Avoid using technical jargon that may be confusing to non-technical stakeholders.</li>
 
-<li>Define actor roles: Clearly define the roles of the actors in the use case model. This will help you to identify the key tasks that they need to perform and the interactions that they will have with the system.</li>
+<li type="1">Define actor roles: Clearly define the roles of the actors in the use case model. This will help you to identify the key tasks that they need to perform and the interactions that they will have with the system.</li>
 
-<li>Use templates: Use templates to standardize the format and structure of the use case model. This will make it easier to read, review, and understand.</li>
+<li type="1">Use templates: Use templates to standardize the format and structure of the use case model. This will make it easier to read, review, and understand.</li>
 
-<li>Keep it simple: Keep the use case model simple and avoid overcomplicating it with unnecessary details. Focus on the key tasks and interactions that are necessary to achieve the business goals.</li>
+<li type="1">Keep it simple: Keep the use case model simple and avoid overcomplicating it with unnecessary details. Focus on the key tasks and interactions that are necessary to achieve the business goals.</li>
 
-<li>Review and validate: Review the use case model with stakeholders and validate it to ensure that it accurately reflects the business requirements. This will help you to identify any gaps or inconsistencies that need to be addressed.</li></ul>
+<li type="1">Review and validate: Review the use case model with stakeholders and validate it to ensure that it accurately reflects the business requirements. This will help you to identify any gaps or inconsistencies that need to be addressed.</li></ul>
 
-By following these best practices, you can create an effective use case model that accurately reflects the business requirements and helps to ensure the success of the project.
+By following these best practices, you can create an effective use case model that accurately reflects the business requirements and helps to ensure the success of the project.</ul>
 
   
 ### 2. Domain Modeling
@@ -160,8 +160,28 @@ Domain modeling is often used in the early stages of software development to hel
 
 Overall, the purpose of domain modeling is to create a shared understanding of the domain and its requirements among all stakeholders, which can help to ensure the success of the software development project.</ul>
   
-#### -Techniques for creating domain models (e.g. identifying objects, classes, and relationships)
-#### -Best practices for creating effective domain models
+### <ul><li>Techniques for creating domain models (e.g. identifying objects, classes, and relationships)</li>
+  
+### <ul><li>Best practices for creating effective domain models</li>
+Domain modeling is the process of creating a conceptual representation of a domain that captures the essential aspects of the domain and provides a foundation for software development. An effective domain model is essential for building high-quality software that meets the needs of its users. Here are some best practices for creating effective domain models:
+
+<ul><li type="1"> Understand the domain: The first step in creating an effective domain model is to understand the domain. This involves understanding the business or organization, the stakeholders, the problem to be solved, and the users. The better you understand the domain, the more effective your domain model will be.</li>
+
+<li type="1"> Use a common language: Domain modeling involves creating a common language that all stakeholders can use to communicate. This language should be based on the concepts and terms used in the domain, and it should be easy to understand and use.</li>
+
+<li type="1"> Focus on the essentials: A domain model should focus on the essential aspects of the domain. This includes the core concepts, relationships, and behaviors that are most important to the problem being solved. Don't get bogged down in unnecessary details.</li>
+
+<li type="1"> Iterate and refine: Domain modeling is an iterative process. Start with a rough model and refine it over time as you gain a deeper understanding of the domain. Test the model with stakeholders and users to ensure it accurately represents the domain.</li>
+
+<li type="1"> Keep it simple: A good domain model should be simple and easy to understand. Avoid unnecessary complexity and keep the model focused on the core concepts.</li>
+
+<li type="1"> Use visual modeling tools: Use visual modeling tools, such as UML or ER diagrams, to create a clear and concise representation of the domain. This can help stakeholders and developers understand the domain model more easily.</li>
+
+<li type="1"> Validate the model: Validate the domain model by testing it against real-world scenarios and use cases. This can help identify any gaps or inconsistencies in the model and ensure that it accurately represents the domain.</li></ul>
+
+By following these best practices, you can create an effective domain model that accurately represents the domain and provides a solid foundation for software development.</ul>
+  
+  
 ### 3. Activity Diagram
 #### -Definition and purpose of activity diagrams
 #### -Techniques for creating activity diagrams (e.g. actions, transitions, branches)
