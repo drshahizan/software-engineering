@@ -221,6 +221,10 @@ Administrator -> (Academic Course Registration System)
 @enduml
 ```
 
+<p align="center">
+<img src="https://github.com/drshahizan/software-engineering/blob/main/materials/uml/images/actors.png" />
+</p>
+
 In this code, we define three actors - "Student", "Professor", and "Administrator". We use the `actor` keyword to define each actor, followed by the name of the actor. We then define a system, represented by the `(Academic Course Registration System)` notation, which the actors will interact with.
 
 To arrange the actors in a left-to-right direction, we use the `left to right direction` keyword at the beginning of the code. Finally, we use arrows to show the interactions between the actors and the system. The arrows point from the actors to the system, indicating that the actors are interacting with the system.
