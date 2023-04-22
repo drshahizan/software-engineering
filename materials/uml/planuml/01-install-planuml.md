@@ -8,7 +8,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Installation PlantUML
-PlantUML is an open-source tool that allows users to create UML (Unified Modeling Language) diagrams quickly and easily. It uses a simple and intuitive syntax to generate diagrams in a variety of formats, including PNG, SVG, and PDF.
+[PlantUML](https://plantuml.com/) is an open-source tool that allows users to create UML (Unified Modeling Language) diagrams quickly and easily. It uses a simple and intuitive syntax to generate diagrams in a variety of formats, including PNG, SVG, and PDF.
 
 One of the key features of PlantUML is its ability to generate diagrams from plain text. This means that users can write their diagrams using a simple syntax, without needing to learn a complex GUI. For example, to create a class diagram, a user can simply write out the class and its attributes and methods using a specific syntax, and PlantUML will generate the diagram automatically.
 
