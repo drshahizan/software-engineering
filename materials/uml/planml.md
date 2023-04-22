@@ -45,12 +45,6 @@ Overall, PlantUML is a powerful and flexible tool for creating UML diagrams, and
 
 You should now be able to use PlantUML within Visual Studio Code to create UML diagrams.
 
-Both Graphviz and JRE are required to use PlantUML in Visual Studio Code. 
-
-The PlantUML extension for Visual Studio Code generates UML diagrams using the PlantUML syntax, and then relies on Graphviz to render the diagrams as images. The PlantUML extension also requires JRE to be installed to execute the PlantUML.jar file.
-
-Therefore, to use PlantUML effectively in Visual Studio Code, you will need to install both Graphviz and JRE on your system.
-
 ## Install both Graphviz and JRE
 Both Graphviz and JRE are required to use PlantUML in Visual Studio Code. 
 
