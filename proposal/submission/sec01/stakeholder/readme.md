@@ -127,6 +127,13 @@ This section describe the ideal software process model for this system developme
 - Mention any potential limitations or challenges that may arise during the project.
 - Provide a call to action for the client to approve the proposal and proceed with the project.
 
+In conclusion, the suggested Student Accommodation System is a crucial remedy for Kolej Tun Dr Ismail (KTDI) staff and student problems in handling student housing. The technology intends to improve data analytics, automate processes, streamline the room allocation process, and give students a better user experience. The suggested technique has the advantages of better student satisfaction, enhanced staff productivity, and an overall more dependable and effective system.
+
+However, issues like data privacy worries and system integration may arise throughout the system's development. Despite these difficulties, the system's advantages exceed these drawbacks, thus we advise the customer to accept the proposal and move forward with the project.
+
+We implore KTDI decision-makers to act and invest in this system to give a more practical and simplified method of managing housing, fostering academic performance and a student's general well-being. The Student Accommodation System will help KTDI maintain its position as a leader in higher education while enhancing the university's standing. In order to enhance both the student experience and the operations of the institution, we are eager to collaborate with KTDI to design and deploy this system.
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
