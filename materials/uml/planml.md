@@ -86,6 +86,70 @@ Here are the steps to install both Graphviz and JRE for use with the PlantUML ex
 
 It's important to note that Graphviz and JRE are separate software packages and must be installed separately. Without both of these tools, you will not be able to use PlantUML effectively in Visual Studio Code.
 
+PlantUML is a textual language that is used to describe UML diagrams. The syntax of PlantUML is designed to be simple and easy to use, and it uses a variety of symbols and keywords to describe different elements of UML diagrams.
+
+Here are some of the key elements of the PlantUML syntax:
+
+1. Classes and Objects: To define a class or an object in PlantUML, you can use the 'class' or 'object' keyword, followed by the name of the class or object in brackets. For example, to define a class named 'Person', you can write:
+
+```
+class Person
+```
+
+2. Relationships: To define relationships between classes or objects, you can use a variety of arrows and symbols. For example, to define an inheritance relationship between two classes, you can use the '<|--' symbol. To define an association relationship, you can use the '--' or '->' symbols. For example:
+
+```
+class Person {
+  +name: string
+}
+
+class Student {
+  +studentId: int
+}
+
+Person <|-- Student
+Person "1" *-- "*" Student : "teaches"
+```
+
+In this example, the Person class has a name attribute, and it inherits from the Student class. There is also an association relationship between the two classes, with the label "teaches".
+
+3. Packages: To define packages in PlantUML, you can use the 'package' keyword, followed by the name of the package in brackets. For example:
+
+```
+@startuml
+package University {
+  class Student
+  class Course
+}
+
+package Registrar {
+  class Registration
+}
+@enduml
+```
+
+4. Activity Diagrams: PlantUML also supports activity diagrams, which can be used to describe the flow of activities or processes in a system. To define an activity diagram in PlantUML, you can use the 'activity' keyword, followed by the name of the diagram in brackets. For example:
+
+```
+@startuml
+activity "Main Process" {
+  start
+  :Do Something;
+  :Do Another Thing;
+  if (Condition) then (True)
+    :Do Something Else;
+  else (False)
+    :Do Another Thing Else;
+  endif
+  stop
+}
+@enduml
+```
+
+In this example, the activity diagram describes a main process with several activities, including a conditional statement.
+
+These are just a few examples of the syntax used in PlantUML. PlantUML also supports a wide variety of other UML elements, including use case diagrams, sequence diagrams, state diagrams, and more.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
