@@ -96,24 +96,55 @@ Here are some of the key elements of the PlantUML syntax:
 class Person
 ```
 
-2. Relationships: To define relationships between classes or objects, you can use a variety of arrows and symbols. For example, to define an inheritance relationship between two classes, you can use the `<|--` symbol. To define an association relationship, you can use the `--` or `->` symbols. For example:
+2. **Relationships**: To define relationships between classes or objects, you can use a variety of arrows and symbols. For example, to define an inheritance relationship between two classes, you can use the `<|--` symbol. To define an association relationship, you can use the `--` or `->` symbols. For example:
 
 ```puml
-class Person {
-  +name: string
-}
-
+@startuml
 class Student {
-  +studentId: int
+  +id: int
+  +name: string
+  +enroll(course: Course): bool
 }
 
-Person <|-- Student
-Person "1" *-- "*" Student : "teaches"
+class Course {
+  +id: int
+  +name: string
+  +enrolledStudents: List<Student>
+}
+
+class RegistrationSystem {
+  +register(student: Student, course: Course): bool
+  +listEnrolledStudents(course: Course): List<Student>
+}
+
+Student --> Course : enrolls
+RegistrationSystem --> Student : registers
+RegistrationSystem --> Course : registers
+Course --> Student : enrolled in
+@enduml
 ```
 
-In this example, the Person class has a name attribute, and it inherits from the Student class. There is also an association relationship between the two classes, with the label "teaches".
+This code defines three classes: Student, Course, and RegistrationSystem. Each Student has an id and name attribute, as well as a method to enroll in a Course. Each Course has an id, name, and a list of enrolled Students. The RegistrationSystem has methods to register a Student for a Course and to list the Students enrolled in a Course.
 
-3. Packages: To define packages in PlantUML, you can use the `package` keyword, followed by the name of the package in brackets. For example:
+There are also several associations defined between the classes, including:
+
+- A Student enrolls in a Course
+- A RegistrationSystem registers a Student and a Course
+- A Course has Students enrolled in it
+
+These associations are represented in the diagram by arrows between the classes with labels indicating the nature of the relationship.
+
+In the code provided, several relationships are defined between the Student, Course, and RegistrationSystem classes using the following notations:
+
+- `-->` indicates a unidirectional association relationship, where one class is related to another class in a specific way. For example, the line `Student --> Course : enrolls` indicates that a Student enrolls in a Course.
+
+- `<--` indicates a unidirectional association relationship in the opposite direction. For example, the line `Course --> Student : enrolled in` indicates that a Course has Students enrolled in it.
+
+- `--` indicates a bidirectional association relationship, where two classes are related to each other in a specific way. For example, the lines `RegistrationSystem --> Student : registers` and `RegistrationSystem --> Course : registers` indicate that a RegistrationSystem can register a Student for a Course.
+
+These notations are used to define the relationships between the classes in a UML class diagram. By using them, you can easily represent the different types of relationships that exist between the classes or objects in your system.
+
+3. **Packages**: To define packages in PlantUML, you can use the `package` keyword, followed by the name of the package in brackets. For example:
 
 ```puml
 @startuml
@@ -128,7 +159,7 @@ package Registrar {
 @enduml
 ```
 
-4. Activity Diagrams: PlantUML also supports activity diagrams, which can be used to describe the flow of activities or processes in a system. To define an activity diagram in PlantUML, you can use the `activity` keyword, followed by the name of the diagram in brackets. For example:
+4. **Activity Diagrams**: PlantUML also supports activity diagrams, which can be used to describe the flow of activities or processes in a system. To define an activity diagram in PlantUML, you can use the `activity` keyword, followed by the name of the diagram in brackets. For example:
 
 ```puml
 @startuml
