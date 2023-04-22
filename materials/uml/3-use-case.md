@@ -43,15 +43,15 @@ How you could create use case diagrams for a university academic course registra
 
 1. Start by identifying the primary actors or users of the system. In this case, the primary actors might include:
 
-- Students
-- Faculty members
-- Administrative staff
+    - Students
+    - Faculty members
+    - Administrative staff
 
 2. Next, create a use case diagram that shows the interactions between the actors and the system. Here are a few examples of use cases that might be included in the diagram:
 
-- Register for a course: This use case would allow students to register for a course, selecting the course they want to take and entering any necessary information such as their student ID number and course preferences.
-- Add a course to the catalog: This use case would allow faculty members to add a new course to the course catalog, including information about the course such as the course name, description, and prerequisites.
-- Approve course requests: This use case would allow administrative staff to approve course requests made by students, ensuring that the student meets any necessary prerequisites and that the course is available.
+    - Register for a course: This use case would allow students to register for a course, selecting the course they want to take and entering any necessary information such as their student ID number and course preferences.
+    - Add a course to the catalog: This use case would allow faculty members to add a new course to the course catalog, including information about the course such as the course name, description, and prerequisites.
+    - Approve course requests: This use case would allow administrative staff to approve course requests made by students, ensuring that the student meets any necessary prerequisites and that the course is available.
 
 3. Connect the actors to the appropriate use cases using lines. For example, you might connect the "Student" actor to the "Register for a course" use case, and the "Faculty member" actor to the "Add a course to the catalog" use case.
 
