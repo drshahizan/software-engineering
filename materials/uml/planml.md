@@ -22,7 +22,7 @@ Overall, PlantUML is a powerful and flexible tool for creating UML diagrams, and
 | ---- | ----------- |
 | 1. | Install PlantUML on your computer. You can do this by visiting the PlantUML website and following the installation instructions for your operating system.|
 | 2. | Learn the syntax for creating use case diagrams in PlantUML. The syntax for use case diagrams in PlantUML is relatively simple and easy to learn, but it will take some practice to get used to it.|
-| 3. | define the actors that will interact with the system. In the case of a university academic course registration system, the actors might include students, professors, and administrators. |
+| 3. | Define the actors that will interact with the system. In the case of a university academic course registration system, the actors might include students, professors, and administrators. |
 | 4. | Identify the use cases that the system will support (e.g. registering for courses, dropping courses, viewing course schedules, generating transcripts). |
 | 5. | Use the PlantUML syntax to draw the use case diagram, including creating the use case and actor elements and connecting them with lines to indicate the relationships between them. |
 | 6. | Refine the diagram by adding details such as annotations, descriptions, and constraints, and customizing the appearance of the diagram by changing colors, fonts, and other visual properties. |
@@ -167,27 +167,42 @@ package Registrar {
 <img src="https://github.com/drshahizan/software-engineering/blob/main/materials/uml/images/package.png" />
 </p>
 
+In the code you provided, there are two packages defined: "University" and "Registrar". The "University" package contains two classes: "Student" and "Course". The "Registrar" package contains one class: "Registration". By organizing the classes into packages, you can group related classes together, which can make the overall structure of your system easier to understand and navigate.
+
+Packages are represented in PlantUML by the `package` keyword, followed by the name of the package and curly braces enclosing the contents of the package. The classes within a package can be defined using the `class` keyword, followed by the name of the class.
+
+In addition to organizing classes, packages can also provide a way to control the visibility and access of classes and their members. By default, classes and their members are public and can be accessed from anywhere in the system. However, by defining packages, you can limit the visibility of classes and their members to only those classes within the same package, using the `package-private` visibility modifier.
+
+Overall, packages are a useful way to organize and structure your PlantUML diagrams and can help to improve the overall readability and maintainability of your system.
+
 4. **Activity Diagrams**: PlantUML also supports activity diagrams, which can be used to describe the flow of activities or processes in a system. To define an activity diagram in PlantUML, you can use the `activity` keyword, followed by the name of the diagram in brackets. For example:
 
 ```puml
 @startuml
-activity "Main Process" {
-  start
-  :Do Something;
-  :Do Another Thing;
-  if (Condition) then (True)
-    :Do Something Else;
-  else (False)
-    :Do Another Thing Else;
+start
+:Student selects course;
+if (course available?) then (yes)
+  :Student registers for course;
+  if (prerequisites met?) then (yes)
+    :Student enrolls in course;
+  else (no)
+    :Student adds prerequisites;
   endif
-  stop
-}
+else (no)
+  :Course not available;
+endif
+stop
 @enduml
+
 ```
 
-In this example, the activity diagram describes a main process with several activities, including a conditional statement.
+<p align="center">
+<img src="https://github.com/drshahizan/software-engineering/blob/main/materials/uml/images/ad.png" />
+</p>
 
-These are just a few examples of the syntax used in PlantUML. PlantUML also supports a wide variety of other UML elements, including use case diagrams, sequence diagrams, state diagrams, and more.
+This code defines an activity diagram that models the process of a Student registering for a course. The diagram starts with a start node, indicating the beginning of the process. The Student selects a course, which leads to a decision point that checks if the course is available. If the course is available, the Student registers for the course and the diagram moves to another decision point to check if the Student has met the course prerequisites. If the prerequisites are met, the Student enrolls in the course, and the process ends with a stop node. If the prerequisites are not met, the Student adds prerequisites and the process loops back to the start node.
+
+This activity diagram provides a visual representation of the process of a Student registering for a course and helps to ensure that all steps in the process are properly defined and understood.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
