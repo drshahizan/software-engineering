@@ -8,15 +8,9 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Syntax
-PlantUML is an open-source tool that allows users to create UML (Unified Modeling Language) diagrams quickly and easily. It uses a simple and intuitive syntax to generate diagrams in a variety of formats, including PNG, SVG, and PDF.
+PlantUML provides a simple and intuitive syntax for creating UML diagrams. The syntax is based on a text-based markup language that allows you to describe the various elements of a UML diagram using a series of keywords, symbols, and characters.
 
-One of the key features of PlantUML is its ability to generate diagrams from plain text. This means that users can write their diagrams using a simple syntax, without needing to learn a complex GUI. For example, to create a class diagram, a user can simply write out the class and its attributes and methods using a specific syntax, and PlantUML will generate the diagram automatically.
-
-PlantUML supports a wide variety of diagram types, including class diagrams, use case diagrams, sequence diagrams, activity diagrams, and more. It also allows users to customize their diagrams by specifying colors, fonts, and other visual properties.
-
-Overall, PlantUML is a powerful and flexible tool for creating UML diagrams, and is widely used by developers, designers, and other professionals in a variety of industries.
-
-Sure, here's a table with 3 columns - "No.", "Name", and "Description" - that provides an overview of the UML diagrams that can be created using PlantUML:
+To create a UML diagram using PlantUML, you start by specifying the type of diagram you want to create (e.g. "class", "sequence", "usecase", etc.) using a keyword. You then use a combination of symbols and characters to define the various elements of the diagram.
 
 | No. | Name| Description|
 | --- | -----------------| ----------------------------------|
