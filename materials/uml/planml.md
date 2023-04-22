@@ -50,6 +50,10 @@ Graphviz is a graph visualization software that is used by PlantUML to render th
 
 In particular, Graphviz is used by PlantUML to create the layout and positioning of the elements in the diagrams, such as nodes and edges. It uses a set of algorithms to create an optimal layout of the diagram, based on the relationships between the elements. Graphviz supports various layout algorithms, such as hierarchical, radial, and orthogonal, among others.
 
+The size of Graphviz can vary depending on the version and the operating system you are using. Generally, the download size of Graphviz is around 30-40 MB. However, once installed, the size of the Graphviz installation may be larger due to the additional files and libraries that are required to run the software.
+
+For example, the current version of Graphviz (2.49.3) for Windows has a download size of around 43 MB. Once installed, the size of the Graphviz directory on disk is around 200 MB. On Linux systems, the download size of Graphviz may be smaller, typically around 10-20 MB.
+
 Therefore, Graphviz is a necessary component of the PlantUML software and must be installed on your system to use PlantUML effectively.
 
 ## Java Runtime Environment (JRE)
@@ -59,6 +63,10 @@ PlantUML is a Java-based tool that is used to generate UML diagrams using textua
 When you use the PlantUML extension in Visual Studio Code, the extension uses the PlantUML engine to parse the textual descriptions of UML diagrams and generate images of the diagrams. The JRE is required to execute the PlantUML.jar file, which is the executable file for the PlantUML engine.
 
 Without the JRE installed on your system, the PlantUML engine will not be able to run, and you will not be able to generate UML diagrams using the PlantUML syntax.
+
+The size of the Java Runtime Environment (JRE) varies depending on the version and the platform you are downloading it for.
+
+As of April 2023, the latest version of Java is Java 17. The size of the JRE for Windows is approximately 177 MB for the 64-bit version and 176 MB for the 32-bit version. The size of the JRE for macOS is around 100 MB.
 
 Therefore, the JRE is an essential component of the PlantUML ecosystem, and must be installed on your system in order to use PlantUML effectively in Visual Studio Code or any other environment.
 
