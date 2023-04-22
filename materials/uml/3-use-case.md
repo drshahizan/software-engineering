@@ -122,9 +122,15 @@ Description: This use case allows students to register for a course, selecting t
 - If the student does not meet the necessary prerequisites for the course, the system should display an error message and prevent the student from registering for the course.
 - If the course is not available during the selected semester, the system should display an error message and prevent the student from registering for the course.
 
-###Conclusion:
+### Conclusion:
 
 Use case diagrams are an important tool for describing the behavior of a software system from the perspective of its users or actors. The use case diagram for a university academic course registration system provides a clear overview of the primary use cases for the system, and can be used as a starting point for developing the IEEE Software Requirements Specification (SRS) document. By providing detailed use case descriptions for each use case, the SRS document can ensure that all functional and non-functional requirements of the system are fully defined and documented.
+
+## Additional Notes
+- [Drawing a UML Diagram in the VS Code](https://towardsdatascience.com/drawing-a-uml-diagram-in-the-vs-code-53c2e67deffe)
+- [How to generate UML diagrams from your existing code](https://medium.com/nerd-for-tech/how-to-generate-uml-diagrams-from-your-existing-code-814d27bd1537)
+
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
