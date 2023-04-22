@@ -164,7 +164,7 @@ package Registrar {
 ```
 
 <p align="center">
-<img src="https://github.com/drshahizan/software-engineering/blob/main/materials/uml/images/pakage.png"  height="400" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/materials/uml/images/package.png"  height="400" />
 </p>
 
 4. **Activity Diagrams**: PlantUML also supports activity diagrams, which can be used to describe the flow of activities or processes in a system. To define an activity diagram in PlantUML, you can use the `activity` keyword, followed by the name of the diagram in brackets. For example:
