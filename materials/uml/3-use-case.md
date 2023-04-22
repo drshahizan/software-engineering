@@ -74,6 +74,58 @@ Outline the use cases for a university academic course registration system:
 
 Remember that use case diagrams are just one part of the Software Requirements Specification (SRS) process. You may also want to include other types of diagrams or documentation, such as data flow diagrams, entity-relationship diagrams, and user interface mockups, to fully describe the requirements of the system.
 
+## Report example: Software Requirements Specification (SRS)
+
+### Introduction:
+
+Software Requirements Specification (SRS) is a key document that outlines the functional and non-functional requirements of a software system. Use case diagrams are a common tool used to describe the behavior of a system from the perspective of its users or actors. This report will outline the use case diagram for a university academic course registration system, which will be used as a case study for the IEEE Software Requirements Specification (SRS) document.
+
+### Use Case Diagram for University Academic Course Registration System:
+
+The primary actors in the university academic course registration system are students, faculty members, and administrative staff. The use case diagram for this system is shown below:
+
+![Use Case Diagram for University Academic Course Registration System](https://i.imgur.com/WvOaO1r.png)
+
+As shown in the diagram, the primary use cases for this system include:
+
+- Register for a course: This use case allows students to register for a course, selecting the course they want to take and entering any necessary information such as their student ID number and course preferences.
+
+- Add a course to the catalog: This use case allows faculty members to add a new course to the course catalog, including information about the course such as the course name, description, and prerequisites.
+
+- Approve course requests: This use case allows administrative staff to approve course requests made by students, ensuring that the student meets any necessary prerequisites and that the course is available.
+
+- View course schedules: This use case allows students to view their course schedule for a given semester or academic year.
+
+- Drop a course: This use case allows students to drop a course that they have already registered for, either before or during the course.
+
+- Generate reports: This use case allows administrative staff to generate reports related to course registration, such as enrollment numbers, course demand, and student performance.
+
+Additional use cases may be added as needed to fully describe the requirements of the system.
+
+### Use Case Description:
+
+Each use case in the use case diagram should be accompanied by a description that provides additional detail about the requirements of the system. Here is an example of a use case description for the "Register for a course" use case:
+
+### Use Case: Register for a course
+
+Description: This use case allows students to register for a course, selecting the course they want to take and entering any necessary information such as their student ID number and course preferences. The system should ensure that the student meets any necessary prerequisites for the course, and that the course is available during the selected semester. Once the student has successfully registered for the course, the system should update the student's course schedule accordingly.
+
+### Preconditions:
+- The student must be logged into the system.
+- The student must have a valid student ID number.
+- The course must be available for registration during the selected semester.
+
+### Postconditions:
+- The student's course schedule should be updated to reflect the newly registered course.
+
+### Exceptions:
+- If the student does not meet the necessary prerequisites for the course, the system should display an error message and prevent the student from registering for the course.
+- If the course is not available during the selected semester, the system should display an error message and prevent the student from registering for the course.
+
+###Conclusion:
+
+Use case diagrams are an important tool for describing the behavior of a software system from the perspective of its users or actors. The use case diagram for a university academic course registration system provides a clear overview of the primary use cases for the system, and can be used as a starting point for developing the IEEE Software Requirements Specification (SRS) document. By providing detailed use case descriptions for each use case, the SRS document can ensure that all functional and non-functional requirements of the system are fully defined and documented.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
