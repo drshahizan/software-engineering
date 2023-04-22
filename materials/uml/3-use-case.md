@@ -36,7 +36,43 @@ To create a use case diagram using draw.io, you can follow these steps:
 
 7. Once you have completed the diagram, you can export it as an image or save it to your computer or cloud storage.
 
-Keep in mind that use case diagrams are only one type of diagram used in software development, and should be accompanied by other diagrams such as class diagrams, activity diagrams, and sequence diagrams to fully describe the system.
+> Keep in mind that use case diagrams are only one type of diagram used in software development, and should be accompanied by other diagrams such as class diagrams, activity diagrams, and sequence diagrams to fully describe the system.
+
+## Case study: Academic course registration system
+How you could create use case diagrams for a university academic course registration system:
+
+1. Start by identifying the primary actors or users of the system. In this case, the primary actors might include:
+
+- Students
+- Faculty members
+- Administrative staff
+
+2. Next, create a use case diagram that shows the interactions between the actors and the system. Here are a few examples of use cases that might be included in the diagram:
+
+- Register for a course: This use case would allow students to register for a course, selecting the course they want to take and entering any necessary information such as their student ID number and course preferences.
+- Add a course to the catalog: This use case would allow faculty members to add a new course to the course catalog, including information about the course such as the course name, description, and prerequisites.
+- Approve course requests: This use case would allow administrative staff to approve course requests made by students, ensuring that the student meets any necessary prerequisites and that the course is available.
+
+3. Connect the actors to the appropriate use cases using lines. For example, you might connect the "Student" actor to the "Register for a course" use case, and the "Faculty member" actor to the "Add a course to the catalog" use case.
+
+4. Add any additional use cases and actors as needed. For example, you might include use cases for viewing course schedules, dropping courses, and generating reports.
+
+5. Use color coding or other visual cues to help distinguish between different types of actors or use cases, and include any necessary labels or annotations to provide additional information about the system.
+
+Outline the use cases for a university academic course registration system:
+
+| Use Case | Description | Actors |
+| --- | --- | --- |
+| Register for a course | Allows students to register for a course, selecting the course they want to take and entering any necessary information such as their student ID number and course preferences. | Students |
+| Add a course to the catalog | Allows faculty members to add a new course to the course catalog, including information about the course such as the course name, description, and prerequisites. | Faculty members |
+| Approve course requests | Allows administrative staff to approve course requests made by students, ensuring that the student meets any necessary prerequisites and that the course is available. | Administrative staff |
+| View course schedules | Allows students to view their course schedule for a given semester or academic year. | Students |
+| Drop a course | Allows students to drop a course that they have already registered for, either before or during the course. | Students |
+| Generate reports | Allows administrative staff to generate reports related to course registration, such as enrollment numbers, course demand, and student performance. | Administrative staff |
+
+  > In addition to the use cases listed above, you may also want to include additional information such as preconditions, postconditions, and exceptions for each use case. This information can help to provide more detail about the requirements of the system and ensure that all possible scenarios are accounted for.
+
+Remember that use case diagrams are just one part of the Software Requirements Specification (SRS) process. You may also want to include other types of diagrams or documentation, such as data flow diagrams, entity-relationship diagrams, and user interface mockups, to fully describe the requirements of the system.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
