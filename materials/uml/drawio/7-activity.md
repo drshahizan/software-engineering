@@ -49,6 +49,27 @@ The University Academic Course Registration System is designed to facilitate the
 
 The Activity Diagram for the University Academic Course Registration System is shown below:
 
+| Swimlane | Activity | Description |
+|---------|----------|-------------|
+| Student | Log in to the system | The student logs into the system using their username and password |
+| Academic Staff | View available courses | The academic staff views the list of available courses for the semester |
+| Student | Select courses of interest | The student selects the courses they are interested in taking |
+| Academic Staff | Check course prerequisites | The academic staff checks if the selected courses have any prerequisites |
+| Academic Staff | View prerequisites | If a course has prerequisites, the academic staff views the list of prerequisites |
+| Student | Select prerequisite courses | The student selects the prerequisite courses needed for the selected course |
+| Student | Submit course selection | The student submits their course selection |
+| Academic Staff | Approve course selection | The academic staff approves the course selection |
+| Academic Staff | Generate fee invoice | The academic staff generates a fee invoice for the selected courses |
+| Finance Department | Issue invoice to student | The finance department issues the fee invoice to the student |
+| Student | Pay fees | The student pays the fees for the selected courses |
+| Academic Staff | Assign courses | The academic staff assigns the courses to the student |
+| Academic Staff | Add student to waitlist | If a course is not available, the academic staff adds the student to the waitlist |
+| Student | View class schedule | The student views their class schedule for the semester |
+
+This table breaks down the activities involved in the university academic course registration system into swimlanes representing the different parties involved in the process. The activities are then described in detail within each swimlane. This approach allows for a clear and concise representation of the process that can be easily translated into an Activity Diagram.
+
+### PUML code
+
 ```puml
 @startuml
 |Student|
