@@ -55,16 +55,27 @@ The University Academic Course Registration System is an online platform that al
 ### Component Diagram:
 The Component Diagram is a type of UML diagram that represents the different components of a system and their relationships. In the context of the University Academic Course Registration System, the Component Diagram would show the different components of the system and how they interact with each other to enable the registration process.
 
-### The main components of the system are:
+### The main components of the system
 
-- Course Registration System: This component is the main entry point for users to access the system. It is responsible for managing user authentication, session management, and routing user requests to the appropriate components.
-- Course Catalog: This component provides a comprehensive list of all the courses offered by the university. It enables students to search for courses based on different criteria such as course code, course title, or instructor name.
-- Registration Portal: This component enables students to register for courses, view their schedules, and manage their academic records. It communicates with the Course Registration System to authenticate users and manage their sessions.
-- Faculty Services: This component provides faculty members with tools to manage their courses, view student records, and communicate with students. It communicates with the Course Registration System to authenticate users and manage their sessions.
-- Student Services: This component provides students with tools to manage their courses, view their grades, and communicate with faculty members. It communicates with the Course Registration System to authenticate users and manage their sessions.
-- Payment System: This component enables students to pay their tuition fees online. It communicates with the Course Registration System to authenticate users and manage their sessions.
+Sure, here's an example of a Component Diagram for a university academic course registration system represented as a table:
 
-The relationships between the components are shown in the Component Diagram. For example, the Course Registration System depends on the Course Catalog, Registration Portal, Faculty Services, Student Services, and Payment System components. The Registration Portal component depends on the Student Records Database component to store and retrieve student records. Similarly, the Faculty Services component depends on the Faculty Records Database component to store and retrieve faculty records.
+| Component | Description | Responsibilities | Dependencies |
+| --- | --- | --- | --- |
+| Course Registration System | The main entry point for users to access the system | User authentication, session management, routing user requests to appropriate components | Course Catalog, Registration Portal, Faculty Services, Student Services, Payment System |
+| Course Catalog | Provides a comprehensive list of all the courses offered by the university | Enables students to search for courses based on different criteria such as course code, course title, or instructor name | Course Records Database |
+| Registration Portal | Enables students to register for courses, view their schedules, and manage their academic records | Authenticates users, manages sessions | Student Records Database |
+| Faculty Services | Provides faculty members with tools to manage their courses, view student records, and communicate with students | Authenticates users, manages sessions | Faculty Records Database |
+| Student Services | Provides students with tools to manage their courses, view their grades, and communicate with faculty members | Authenticates users, manages sessions | Student Records Database |
+| Payment System | Enables students to pay their tuition fees online | Authenticates users, manages sessions | - |
+| Student Records Database | Stores and retrieves student records | - | - |
+| Course Records Database | Stores and retrieves course records | - | - |
+| Faculty Records Database | Stores and retrieves faculty records | - | - |
+
+The Component Diagram consists of six main components: Course Registration System, Course Catalog, Registration Portal, Faculty Services, Student Services, and Payment System. These components are responsible for different aspects of the university academic course registration system and have different dependencies on each other. 
+
+Additionally, there are three databases that store and retrieve data for the system: Student Records Database, Course Records Database, and Faculty Records Database. These databases are not dependent on any of the other components but are used by them to retrieve or store information. 
+
+This table representation of the Component Diagram provides a clear and concise way to understand the different components of the system and how they interact with each other. It can be used to ensure that the system is designed with the right level of granularity and that the different components are properly defined and connected.
 
 ### PUML code
 An example puml code for a component diagram of a university academic course registration system:
