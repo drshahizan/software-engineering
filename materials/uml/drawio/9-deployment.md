@@ -132,6 +132,9 @@ reg_sys --> payment_svc : Process payment
 
 @enduml
 ```
+<p align="center">
+<img src="https://github.com/drshahizan/software-engineering/blob/main/materials/uml/images/deployment.png"  height="250" />
+</p>
 
 In this example, we have a web server that hosts the registration system and the course database. The system interacts with a student database, an email service, a notification service, and a payment service, each hosted on their own server. The interactions between the components are shown using arrows with labels indicating the type of interaction.
 
