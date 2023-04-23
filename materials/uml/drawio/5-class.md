@@ -70,6 +70,55 @@ The class diagram also includes several relationships between the classes, which
 
 3. Administrator - Course: This relationship represents the fact that an administrator can create multiple courses, and each course can have only one administrator. The relationship is a one-to-many relationship.
 
+### PUML File.
+An example of a class diagram written in PlantUML (puml) code for a university academic course registration system:
+
+```
+@startuml
+
+class Student {
+    -studentID: int
+    -name: string
+    -email: string
+    -password: string
+    +registerCourse(courseID: int): void
+}
+
+class Instructor {
+    -instructorID: int
+    -name: string
+    -email: string
+    -password: string
+    +teachCourse(courseID: int): void
+}
+
+class Administrator {
+    -adminID: int
+    -name: string
+    -email: string
+    -password: string
+    +createCourse(courseID: int): void
+}
+
+class Course {
+    -courseID: int
+    -name: string
+    -instructorID: int
+    -schedule: string
+    +getInstructor(): Instructor
+}
+
+Student --> Course
+Instructor --> Course
+Administrator --> Course
+
+@enduml
+```
+
+In this example, we have four classes: Student, Instructor, Administrator, and Course. Each class has attributes (indicated by the "-" symbol) and methods (indicated by the "+" symbol). We've also included some basic relationships between the classes using the arrow notation.
+
+> Note that this is just a simple example, and a full class diagram for a university academic course registration system would likely include more classes and relationships.
+
 ### Conclusion:
 The class diagram for the university academic course registration system provides a clear picture of the system's object-oriented structure, including the classes, attributes, and methods that make up the system's components. By carefully designing the class diagram, we can ensure that the system meets the requirements of the SRS document and provides a robust, user-friendly solution for academic course registration.
 
