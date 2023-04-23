@@ -36,7 +36,7 @@ rectangle "University Academic Course Registration System" {
 @enduml
 ```
 <p align="center">
-<img src="https://github.com/drshahizan/software-engineering/blob/main/materials/uml/images/actor.png"  height="400" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/materials/uml/images/actor.png"  height="200" />
 </p>
 
 In this example, we use the `actor` keyword to define the `Student` actor. We then create a rectangle that represents the `University Academic Course Registration System` and add three use cases to it: `View Course Catalog`, `Register for a Course`, and `Drop a Course`. Finally, we connect the `Student` actor to each of the use cases using the `-->` arrow.
