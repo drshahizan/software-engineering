@@ -52,16 +52,6 @@ The purpose of this report is to document the class diagram for the university a
 ### Classes:
 The class diagram for the university academic course registration system includes four primary classes: Student, Instructor, Administrator, and Course. Each of these classes has a number of attributes and methods, which are described below:
 
-1. Student: This class represents a student who is registering for courses. The attributes of the Student class include studentID, name, email, and password. The methods of the Student class include registerCourse(courseID: int), which allows the student to register for a course.
-
-2. Instructor: This class represents an instructor who is teaching courses. The attributes of the Instructor class include instructorID, name, email, and password. The methods of the Instructor class include teachCourse(courseID: int), which allows the instructor to teach a course.
-
-3. Administrator: This class represents an administrator who is responsible for creating and managing courses. The attributes of the Administrator class include adminID, name, email, and password. The methods of the Administrator class include createCourse(courseID: int), which allows the administrator to create a new course.
-
-4. Course: This class represents a course that is being offered. The attributes of the Course class include courseID, name, instructorID, and schedule. The methods of the Course class include getInstructor(), which returns the instructor who is teaching the course.
-
-Sure, here's an example table describing the classes in a university academic course registration system:
-
 | Class Name | Description | Attributes | Methods |
 |------------|-------------|------------|---------|
 | Student    | Represents a student who is registering for courses. | studentID: int<br>name: string<br>email: string<br>password: string | registerCourse(courseID: int) |
