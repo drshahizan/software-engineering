@@ -1,15 +1,4 @@
 <!DOCTYPE html>
-
-<!--
-Lab 12: Text and Box Model
-Group: gucci gang
-1. Name: LOW YING XI, Matrix No: A22EC0187, Github ID: lowyingxi
-2. Name: WONG KHAI SHIAN NICHOLAS, Matrix No:A22EC0292, Github ID: nicholas0377
-3. Name: LOO JIA CHANG, Matrix No: A22EC0074, Github ID: jcl03
-4. Name: TIEW CHUAN RONG, Matrix No: A22EC0112, Github ID: tiewrong
--->
-
-
 <html lang="en">
 
 <head>
@@ -26,12 +15,13 @@ Group: gucci gang
             background-size: 100% 100%;
             display: flex;
             justify-content: center;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
         }
 
         .login-box {
-            display: block;
+            display: grid;
             color: white;
-            padding: 20px 30px;
+            padding: 40px 30px;
             background-color: #307365;
             border-radius: 10px;
             position: absolute;
@@ -46,7 +36,7 @@ Group: gucci gang
         }
 
         .user-box {
-            position: relative;
+
             display: grid;
             justify-content: center;
             align-items: center;
@@ -56,10 +46,11 @@ Group: gucci gang
             text-align: left;
             position: absolute;
             margin-bottom: 30px;
-
+            z-index: -1;
         }
 
         input {
+            color: white;
             outline: none;
             border: none;
             border-bottom: 1px solid white;
@@ -67,6 +58,7 @@ Group: gucci gang
             padding: 5px;
             margin-bottom: 30px;
             width: 250px;
+            z-index: 1;
         }
 
 
@@ -79,12 +71,13 @@ Group: gucci gang
         }
 
         a {
+            display: inline-block;
             text-transform: uppercase;
             color: #16C4C8;
             text-decoration: none;
             font-size: 12px;
             letter-spacing: 3px;
-            margin: 0px 0px;
+            margin-top: 20px;
             padding: 10px 20px;
             border-radius: 5px;
             text-align: center;
