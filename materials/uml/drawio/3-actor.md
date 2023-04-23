@@ -17,7 +17,21 @@ For example, in a university academic course registration system, a student woul
 Actors are important in UML because they help to identify and define the boundaries of the system being modeled. By identifying the actors and their interactions with the system, the model can better capture the requirements and behavior of the system.
 
 ## Case study
-How to use PlantUML to create a UML diagram with an actor for a university academic course registration system:
+
+### 1. Create an actor using Draw.io
+
+| No. | Item | Description |
+| --- | --- | --- |
+| 1 | Open Draw.io | Open Draw.io in your browser |
+| 2 | Select "UML" | From the left-hand panel, select "UML" |
+| 3 | Drag and Drop "Actor" | From the "UML Use Case" library, drag and drop "Actor" onto the drawing area |
+| 4 | Rename the Actor | Double-click on the actor and type in the new name, e.g. "Student" |
+| 5 | Resize the Actor | Click on the actor to select it, then click and drag the handles to resize it |
+| 6 | Customize the Actor | Right-click on the actor and select "Edit Style" to customize the color, font, and other properties of the actor |
+
+In this case, we're creating an actor for a university academic course registration system. Once you've followed these steps, you'll have a UML actor element representing the `Student` actor in your diagram.
+
+### 2. PlantUML: Create a UML diagram with an actor
 
 ```puml
 @startuml
