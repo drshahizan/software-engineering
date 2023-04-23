@@ -14,15 +14,15 @@ To create a UML diagram using PlantUML, you start by specifying the type of diag
 
 | No. | Name| Description|
 | --- | -----------------| ----------------------------------|
-| 1| Sequence diagram | Depicts interactions between objects over time. |
-| 2| Use case diagram | Shows the relationships between actors and use cases in a system.|
-| 3| Class diagram | Describes the structure of classes and their relationships.|
-| 4| Object diagram| Shows a snapshot of objects and their relationships at a particular point in time. |
-| 5| Activity diagram | Illustrates the flow of activities in a system.|
-| 6| Component diagram| Illustrates the structure of components and their relationships.|
-| 7| Deployment diagram| Shows the physical deployment of components in a system.|
-| 8| State diagram | Describes the behavior of objects in response to events.|
-| 9| Timing diagram| Shows the timing constraints of interactions between objects.|
+| 1| [Sequence diagram](https://plantuml.com/sequence-diagram) | Depicts interactions between objects over time. |
+| 2| [Use case diagram](https://plantuml.com/use-case-diagram) | Shows the relationships between actors and use cases in a system.|
+| 3| [Class diagram](https://plantuml.com/class-diagram) | Describes the structure of classes and their relationships.|
+| 4| [Object diagram](https://plantuml.com/object-diagram)| Shows a snapshot of objects and their relationships at a particular point in time. |
+| 5| [Activity diagram](https://plantuml.com/activity-diagram-beta) | Illustrates the flow of activities in a system.|
+| 6| [Component diagram](https://plantuml.com/component-diagram)| Illustrates the structure of components and their relationships.|
+| 7| [Deployment diagram](https://plantuml.com/deployment-diagram)| Shows the physical deployment of components in a system.|
+| 8| [State diagram](https://plantuml.com/state-diagram) | Describes the behavior of objects in response to events.|
+| 9| [Timing diagram](https://plantuml.com/timing-diagram)| Shows the timing constraints of interactions between objects.|
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
