@@ -73,7 +73,7 @@ The class diagram also includes several relationships between the classes, which
 ### PUML File.
 An example of a class diagram written in PlantUML (puml) code for a university academic course registration system:
 
-```
+```puml
 @startuml
 
 class Student {
@@ -114,6 +114,9 @@ Administrator --> Course
 
 @enduml
 ```
+<p align="center">
+<img src="https://github.com/drshahizan/software-engineering/blob/main/materials/uml/images/classdiagram.png"  height="400" />
+</p>
 
 In this example, we have four classes: Student, Instructor, Administrator, and Course. Each class has attributes (indicated by the "-" symbol) and methods (indicated by the "+" symbol). We've also included some basic relationships between the classes using the arrow notation.
 
