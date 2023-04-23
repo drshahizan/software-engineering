@@ -113,7 +113,7 @@ Administrator --> Course
 @enduml
 ```
 <p align="center">
-<img src="https://github.com/drshahizan/software-engineering/blob/main/materials/uml/images/classdiagram.png"  height="400" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/materials/uml/images/classdiagram.png"  height="300" />
 </p>
 
 In this example, we have four classes: Student, Instructor, Administrator, and Course. Each class has attributes (indicated by the "-" symbol) and methods (indicated by the "+" symbol). We've also included some basic relationships between the classes using the arrow notation.
