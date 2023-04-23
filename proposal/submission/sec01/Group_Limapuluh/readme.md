@@ -18,7 +18,47 @@ Don't forget to hit the :star: if you like this repo.
   5. Yong Wern Jie A22EC0121
 
 ### Table of Contents
-- [Table of Contents](#table-of-contents)
+<table>
+  <tr>
+    <th>No.</th><th>Content</th>
+  </tr>
+  <tr> 
+    <td>1.</td><td>Executive Summary</td>
+  <tr>
+  <tr> 
+    <td>2.</td><td>Background</td>
+  <tr>
+  <tr> 
+    <td>3.</td><td>Objectives</td>
+  <tr>
+  <tr> 
+    <td>4.</td><td>Scope</td>
+  <tr>
+  <tr> 
+    <td>5.</td><td>Software Process Model</td>
+  <tr>
+  <tr> 
+    <td>6.</td><td>Budget</td>
+  <tr>
+  <tr> 
+    <td>7.</td><td>System Architecture</td>
+  <tr>
+  <tr> 
+    <td>8.</td><td>Risk Assessment</td>
+  <tr>
+  <tr> 
+    <td>9.</td><td>Resources</td>
+  <tr>
+  <tr> 
+    <td>10.</td><td>Technical Specifications</td>
+  <tr>
+  <tr> 
+    <td>11.</td><td>Timeline and Deliverables</td>
+  <tr>
+  <tr> 
+    <td>12.</td><td>Conclusion</td>
+  <tr>
+</table>
 
 ### 1. Executive Summary
 - The goal of this proposal is to enhance the current student feedback system at our university to improve the overall learning experience for our students. The current system has limitations in terms of response rates and the quality of feedback that instructors receive. To address these issues, we propose implementing new methods for collecting feedback, such as online surveys and in-class polling, as well as better tools for analyzing and reporting the data collected.
@@ -105,7 +145,13 @@ In conclusion, the Agile software process model is an ideal choice for the propo
 </ul>
   
 ### 6. Budget:
-- The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
+<ul>
+  <li><h3>Software Developments</h3><p>We are expected to spend around RM20000 to RM40000 on software development. This budget would cover the cost of developing a basic system with limited features. We would be utilizing open-source technologies or existing software frameworks to reduce development costs.</p></li>
+  <li><h3>Hardware Requirements</h3><p>Our hardware requirements can range from RM4000 to RM20000. This budget would cover the cost of renting or purchasing basic server equipment to run the system. We will also opt for cloud-based services that offer scalable hardware resources.</p></li>
+  <li><h3>Personnel Costs</h3><p>Personnel costs with a minimal budget would range from RM40000 to RM90000. This budget would cover the cost of hiring developers, designers, and testers on a part-time basis. We also will consider hiring student interns or utilizing volunteers for our system.</p></li>
+  <li><h3>Testing Expenses</h3><p>Testing expenses with a minimal budget can range from RM4000 to RM20000. This budget would cover the cost of hiring testers or using automated testing tools. We will also use user testing and feedback to identify and fix issues with the system.</p></li>
+  <li><h3>Contingency Funds</h3><p>Our funds for unexpected events will be ranging around RM6000 to RM13600, which is 10% to 20% of the total expenses. This amount will be set aside for any unforseen expenses that may arise during development process.</p></li>
+</ul>
 
 ### 7. System Architecture:
 - Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
@@ -136,17 +182,28 @@ The integration module will allow for the integration of the feedback system wit
 Overall, the proposed system architecture will be designed to be scalable, secure, and user-friendly, enabling the university to collect and analyze feedback data from students to improve the quality of education and the student experience at UTM.
 
 ### 8. Risks Assessment:
-- The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
-- It should also describe the plans and strategies to mitigate those risks.
+<ul>
+  <li><h3>Technical Challenges</h3><p>Developing a student feedback system requires technical expertise in software development, database management, and user interface design. Some of the technical challenges that we may encounter include scalability issues, security vulnerabilities, and system compatibility with different devices and browsers. It is essential to hire a skilled development team with experience in developing similar systems to mitigate these risks.</p></li>
+  <li><h3>Resources Constraints</h3><p>Developing a student feedback system requires significant resources, including personnel, hardware, software, and testing. With a limited budget, we may face resource constraints that could impact the quality and functionality of the system. To mitigate these risks, we will be prioritizing the essential features and functionalities of the system and allocate our resources accordingly.</p></li>
+  <li><h3>Changing Project Requirements</h3><p>Project requirements can change due to various factors, including changing user needs, shifting priorities, and evolving technology. These changes can impact the project timeline, budget, and functionality of the system. To mitigate this risk, we will be conducting regular reviews of the project requirements and involve stakeholders in the decision-making process. Additionally, we maintain open communication with the development team to address any changes promptly.</p></li>  
+  <li><h3>Data Privacy and Security</h3><p>A student feedback system collects and stores sensitive information about students, faculty, and staff. It is crucial to ensure that the system adheres to data privacy regulations and security best practices to prevent data breaches or unauthorized access. To mitigate this risk, we will conduct regular security audits, implement access control measures, and encrypt sensitive data.</p></li>
+  <li><h3>User Adoption</h3><p>The success of a student feedback system depends on the user adoption rate. If students and faculty do not use the system, the feedback collected will not be representative of the entire student body or faculty. To mitigate this risk, we will conduct user testing, involve stakeholders in the design process, and provide adequate training and support to users.</p></li>
+</ul>
 
 ### 9. Resources:
 - Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
 
 ### 10. Technical Specifications:
-- Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
-- Mention the programming languages, frameworks, and libraries that will be used in the project.
-- Provide details about the hardware and software requirements for the proposed system.
-- Explain the data security measures that will be implemented.
+<ul>
+  <li><h3>Data Sources</h3><p>The student feedback system will collect feedback data from online surveys only, and the data will be stored in a database management system.</p></li>
+  <li><h3>Data Schema</h3><p>The data schema will be designed to capture various data points, including demographic information, course information, feedback ratings, and open-ended comments. The schema will be flexible to accommodate future changes in data requirements.</p></li>
+  <li><h3>Data Transformations</h3><p>Data transformations will be used to preprocess and clean data before analysis. Techniques such as data imputation and normalization will be applied to handle missing data and ensure consistency.</p></li>
+  <li><h3>Machine Learning Algorithms</h3><p>Machine learning algorithms, such as regression analysis and clustering, will be used to analyze feedback data and identify patterns and trends. Natural language processing techniques will be applied to analyze open-ended comments.</p></li>
+  <li><h3>Data Visualization Tools</h3><p>Data visualization tools, such as R programming, will be used to present feedback data in interactive and meaningful ways. Dashboards will be created to provide real-time feedback to students and faculty.</p></li>
+  <li><h3>Programming Languages, Frameworks, and Libraries</h3><p>The system will be developed using C++ as the main programming language. Flask will be used as the web framework, and SQLAlchemy will be used for database management. Libraries such as Scikit-learn and NLTK will be used for machine learning and natural language processing.</p></li>
+  <li><h3>Hardware and Software Requirements</h3><p>The system will require a server with a minimum of 4 GB RAM and 100 GB storage. The system will be hosted on Amazon Web Services (AWS) and will use a MySQL database.</p></li>
+  <li><h3>Data Security Measures</h3><p>The system will implement various data security measures, including access control, encryption, and regular security audits. Access to the system will be restricted to authorized personnel, and sensitive data will be encrypted both in transit and at rest. Regular security audits will be conducted to identify and address potential security vulnerabilities.</p></li>
+</ul>
 
 ### 11. Timeline and Deliverables: 
 - Provide a detailed timeline for the project, including milestones and deadlines.
