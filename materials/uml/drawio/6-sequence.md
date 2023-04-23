@@ -61,7 +61,8 @@ Each of these steps can be represented by a message in the sequence diagram. The
 
 Using sequence diagrams in the design of the university academic course registration system provides several benefits. First, it allows developers to visualize the interactions between different objects in the system and identify any potential issues or errors. It also helps in identifying any missing requirements or functionalities. Moreover, it provides a clear and concise representation of the system's behavior that can be easily understood by stakeholders.
 
-### Sequence diagram: list the interactions in a table for clarity
+### Sequence diagram: For clarity, list the interactions in a table.
+
 
 | Object 1         | Message        | Object 2         |
 |------------------|----------------|------------------|
@@ -77,7 +78,6 @@ Using sequence diagrams in the design of the university academic course registra
 The student interacts with the registration system to register for a course. The sequence diagram shows the interactions between the student, the registration system, the course catalog, and the enrollment system. The student requests course registration from the registration system, which requests course information from the course catalog. The course catalog sends the course information back to the registration system, which then requests enrollment information and status from the enrollment system. The enrollment system sends the enrollment information and status back to the registration system, which then enrolls the student in the course. The enrollment system sends an enrollment confirmation and receipt back to the registration system, which then forwards them to the student.
 
 ## PlantUML code
-A sequence diagram in PlantUML code for a university academic course registration system:
 
 ```puml
 @startuml
