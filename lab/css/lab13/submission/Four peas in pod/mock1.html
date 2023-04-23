@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!--
+    Lab XX: XXX
+    Group:
+    1. Name: Soh Han Wei, Matrix No: A22Ec0273, Github ID: wei2030
+    2. Name: Bernice Lim Jing Xuan, Matrix No: [Matrix Number], Github ID: [Github ID]
+    3. Name: Kek Jesslyn, Matrix No: [Matrix Number], Github ID: [Github ID]
+    4. Name: Tan Jun Yuan, Matrix No: [Matrix Number], Github ID: [Github ID]
+  -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lab 13: Layout (Mock & Style)</title>
+  <style>
+    .grid-container {
+      display: grid;
+      grid-template-columns: 35% 60%;
+      gap: 20px;
+      height: 100vh;
+      border: 5px solid #000000;
+    }
+
+    .header {
+      background-color: #FFFFFF;
+      padding: 10px;
+      border: 5px solid #000000;
+      border-bottom: 0;
+      font-weight: bold;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 20px;
+      line-height: 20px;
+    }
+
+    .red {
+      border: 5px solid #000000;
+      background: #EA9999;
+      margin: 30px;
+    }
+
+    .blue {
+      border: 5px solid #000000;
+      background: #9FC5F8;
+      margin: 30px;
+      margin-left: 10px;
+      margin-right: 10px;
+    }
+
+    .yellow {
+      border: 5px solid #000000;
+      background: #FFE599;
+      grid-area: 4/1/span 1/span 2;
+      margin: 30px;
+      margin-right: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">Mock 1</div>
+  <div class="grid-container">
+    <div class="red"></div>
+    <div class="blue"></div>
+    <div class="red"></div>
+    <div class="blue"></div>
+    <div class="red"></div>
+    <div class="blue"></div>
+    <div class="yellow"></div>
+  </div>
+</body>
+</html>
