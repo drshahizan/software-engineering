@@ -61,7 +61,7 @@ Each of these steps can be represented by a message in the sequence diagram. The
 
 Using sequence diagrams in the design of the university academic course registration system provides several benefits. First, it allows developers to visualize the interactions between different objects in the system and identify any potential issues or errors. It also helps in identifying any missing requirements or functionalities. Moreover, it provides a clear and concise representation of the system's behavior that can be easily understood by stakeholders.
 
-### Sequence diagram: For clarity, list the interactions in a table.
+### Sequence diagram: For clarity, list the interactions in a table
 
 
 | Object 1         | Message        | Object 2         |
