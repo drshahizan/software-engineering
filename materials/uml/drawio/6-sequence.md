@@ -99,6 +99,10 @@ RS -> ES: Requests enrollment receipt
 ES --> RS: Sends enrollment receipt
 @enduml
 ```
+<p align="center">
+<img src="https://github.com/drshahizan/software-engineering/blob/main/materials/uml/images/sequencediagram.png"  height="400" />
+</p>
+
 
 This diagram shows the interaction between a student, the registration system, the course catalog, and the enrollment system. The student requests course registration from the registration system, which in turn requests course information from the course catalog. The course catalog sends the course information back to the registration system, which then requests enrollment information and status from the enrollment system. The enrollment system sends the enrollment information and status back to the registration system, which then enrolls the student in the course. The enrollment system sends an enrollment confirmation and receipt back to the registration system, which then forwards them to the student.
 
