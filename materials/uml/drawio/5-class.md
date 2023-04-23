@@ -28,8 +28,6 @@ Class diagrams are useful for analyzing and designing complex systems, as they p
 
 ## Create a class diagram using draw.io
 
-Sure, here are the steps to create a class diagram using draw.io for your university academic course registration system:
-
 1. Open draw.io in your web browser.
 2. Click on "File" in the top left corner and select "New" to create a new diagram.
 3. In the left-hand menu, select "UML" and then "Class Diagram".
@@ -46,10 +44,10 @@ Sure, here are the steps to create a class diagram using draw.io for your univer
 ## Case study
 Sure, here's an example report on the class diagram for a university academic course registration system, based on the Software Requirements Specifications (SRS) document:
 
-### Introduction:
+### Introduction
 The purpose of this report is to document the class diagram for the university academic course registration system. The class diagram is an important tool for designing the system's object-oriented structure, which will help ensure that the system meets the requirements of the SRS document.
 
-### Classes:
+### Classes
 The class diagram for the university academic course registration system includes four primary classes: Student, Instructor, Administrator, and Course. Each of these classes has a number of attributes and methods, which are described below:
 
 | Class Name | Description | Attributes | Methods |
@@ -61,7 +59,7 @@ The class diagram for the university academic course registration system include
 
 In this table, each row represents a class in the system. The "Class Name" column provides the name of the class, while the "Description" column briefly describes what the class represents. The "Attributes" column lists the attributes of each class, including their data types, while the "Methods" column lists the methods of each class and their parameters.
 
-### Relationships:
+### Relationships
 The class diagram also includes several relationships between the classes, which help to define the interactions between the system's components. The primary relationships in the university academic course registration system include:
 
 1. Student - Course: This relationship represents the fact that a student can register for multiple courses, and each course can have multiple students. The relationship is a many-to-many relationship.
@@ -122,7 +120,7 @@ In this example, we have four classes: Student, Instructor, Administrator, and C
 
 > Note that this is just a simple example, and a full class diagram for a university academic course registration system would likely include more classes and relationships.
 
-### Conclusion:
+### Conclusion
 The class diagram for the university academic course registration system provides a clear picture of the system's object-oriented structure, including the classes, attributes, and methods that make up the system's components. By carefully designing the class diagram, we can ensure that the system meets the requirements of the SRS document and provides a robust, user-friendly solution for academic course registration.
 
 ## Contribution 🛠️
