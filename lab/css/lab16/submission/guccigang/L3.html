@@ -45,7 +45,7 @@
             text-align: left;
             position: absolute;
             margin-bottom: 30px;
-            
+
         }
 
         input {
@@ -55,7 +55,38 @@
             background-color: transparent;
             padding: 5px;
             margin-bottom: 30px;
-            width:250px;
+            width: 250px;
+        }
+
+
+        input:valid~label,
+        input:focus~label {
+            font-size: 10px;
+            color: aqua;
+            transition: 0.5s;
+            transform: translateY(-20px);
+        }
+
+        a {
+            text-transform: uppercase;
+            color: #16C4C8;
+            text-decoration: none;
+            font-size: 12px;
+            letter-spacing: 3px;
+            margin: 0px 0px;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-align: center;
+            border: hidden;
+            transition: 0.5s;
+            bottom: 20px;
+
+        }
+
+        a:hover {
+            color: white;
+            background-color: rgb(11, 246, 246);
+            box-shadow: 10px aqua;
         }
     </style>
 </head>
