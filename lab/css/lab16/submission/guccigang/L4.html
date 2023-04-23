@@ -28,6 +28,7 @@ Group: gucci gang
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-size: 100% 100%;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
         }
 
         h2 {
@@ -66,6 +67,7 @@ Group: gucci gang
 
         nav li {
             display: inline-block;
+            margin: 10px;
             /* display items horizontally */
         }
 
@@ -76,13 +78,22 @@ Group: gucci gang
         }
 
         .cover {
-            display: grid;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
             justify-content: center;
         }
 
         h1 {
             text-align: center;
             color: red;
+        }
+
+        form {
+            display: flex;
+            justify-content: center;
+            align-items: center;
         }
 
         input[type="search"] {
@@ -107,7 +118,6 @@ Group: gucci gang
             text-decoration: none;
             display: inline-block;
             font-size: 16px;
-            margin: 0px;
             cursor: pointer;
             box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
         }
