@@ -43,13 +43,13 @@ With these steps, you can easily create a sequence diagram using Draw.io.
 ## Case study
 Here's a report about sequence diagrams in the context of a university academic course registration system.
 
-**Introduction**
+### Introduction
 
 A sequence diagram is a type of interaction diagram that shows the interactions between objects in a system over time. It depicts the sequence of messages exchanged between objects and the lifeline of each object involved in the interaction. Sequence diagrams are often used in software development to model the behavior of a system, particularly in the design phase.
 
 In this report, we will discuss the use of sequence diagrams in the context of a university academic course registration system. The purpose of the system is to allow students to register for courses and manage their course schedules.
 
-**Sequence Diagrams for University Academic Course Registration System**
+### Sequence Diagrams for University Academic Course Registration System
 
 The university academic course registration system can be modeled using a sequence diagram. The diagram shows the interactions between the different objects in the system, including the student, the registration system, the course catalog, and the enrollment system.
 
@@ -57,9 +57,24 @@ The sequence diagram for the university academic course registration system can 
 
 Each of these steps can be represented by a message in the sequence diagram. The lifeline of each object involved in the interaction is also depicted in the diagram, along with any activation bars to show when the object is active.
 
-**Benefits of Sequence Diagrams for University Academic Course Registration System**
+### Benefits of Sequence Diagrams
 
 Using sequence diagrams in the design of the university academic course registration system provides several benefits. First, it allows developers to visualize the interactions between different objects in the system and identify any potential issues or errors. It also helps in identifying any missing requirements or functionalities. Moreover, it provides a clear and concise representation of the system's behavior that can be easily understood by stakeholders.
+
+### Sequence diagram: list the interactions in a table for clarity
+
+| Object 1         | Message        | Object 2         |
+|------------------|----------------|------------------|
+| Student           | Requests course registration | Registration system |
+| Registration system | Requests course information | Course catalog |
+| Course catalog    | Sends course information | Registration system |
+| Registration system | Requests enrollment information and status | Enrollment system |
+| Enrollment system | Sends enrollment information and status | Registration system |
+| Registration system | Enrolls student in course | Enrollment system |
+| Enrollment system | Sends enrollment confirmation and receipt | Registration system |
+| Registration system | Forwards confirmation and receipt to student | Student |
+
+The student interacts with the registration system to register for a course. The sequence diagram shows the interactions between the student, the registration system, the course catalog, and the enrollment system. The student requests course registration from the registration system, which requests course information from the course catalog. The course catalog sends the course information back to the registration system, which then requests enrollment information and status from the enrollment system. The enrollment system sends the enrollment information and status back to the registration system, which then enrolls the student in the course. The enrollment system sends an enrollment confirmation and receipt back to the registration system, which then forwards them to the student.
 
 ## PlantUML code
 A sequence diagram in PlantUML code for a university academic course registration system:
@@ -90,7 +105,7 @@ This diagram shows the interaction between a student, the registration system, t
 > You can modify this code to suit your specific requirements for the academic course registration system.
 
 
-**Conclusion**
+### Conclusion
 
 In conclusion, sequence diagrams are a useful tool for modeling the behavior of a university academic course registration system. They allow developers to visualize the interactions between different objects in the system and identify any potential issues or errors. They also provide a clear and concise representation of the system's behavior that can be easily understood by stakeholders. By using sequence diagrams in the design phase, developers can ensure that the system meets the requirements and specifications of the stakeholders.
 
