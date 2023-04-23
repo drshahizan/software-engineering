@@ -20,9 +20,21 @@ Don't forget to hit the :star: if you like this repo.
   5. MUHAMMAD DANIAL BIN AHMAD SYAHIR A22EC0206
 
 ### Table of Contents
-- [Table of Contents](#table-of-contents)
-  
-### 1. Executive Summary
+- [Executive Summary](#1-executive-summary)
+- [Background](#2-background)
+- [Objectives](#3-objectives)
+- [Scope](#4-scope)
+- [Sofware Process Model](#5-software-process-model)
+- [Budget](#6-budget)
+- [System Architecture](#7-system-architecture)
+- [Risk Assessment](#8-risk-assessment)
+- [Resources](#9-resources)
+- [Technical Specification](#10-technical-specification)
+- [Timeline and Deliverables](#11-timeline-and-deliverables)
+- [Conclusion](#12-conclusion)
+
+
+### 1. Executive Summary:
 The Student Accommodation System proposal for Kolej Tun Dr Ismail (KTDI) is aimed at addressing the challenges that students and staff face when managing student accommodation. The current process for applying for and managing accommodation is manual and time-consuming, which can result in delays, errors, and frustration for students and staff alike.
 
 To address these challenges, the proposed software system will provide an online platform that allows students to apply for accommodation, make payments, and track the status of their application. KTDI staff will be able to manage room availability and allocation, communicate with students, and access relevant data and reports through a centralized dashboard.
