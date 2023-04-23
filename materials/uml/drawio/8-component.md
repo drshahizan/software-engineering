@@ -123,6 +123,10 @@ We also have three databases:
 - Course Records Database (CRDB)
 - Faculty Records Database (FRDB)
 
+<p align="center">
+<img src="https://github.com/drshahizan/software-engineering/blob/main/materials/uml/images/component.png"  height="400" />
+</p>
+
 The arrows indicate the relationships between the components and databases. For example, the CRS component depends on the CC, RP, FS, SS, and PS components, and the RP component accesses the SRDB database. 
 
 Of course, this is just an example and you would need to tailor it to your specific requirements for the university academic course registration system.
