@@ -27,7 +27,7 @@ The topics and descriptions to learn how to use draw.io for creating UML diagram
 |---|-------|-------------|
 | 1 | [Introduction to Draw.io](./drawio/1-draw-io.md) | Familiarize yourself with the draw.io interface and its features, including creating a new diagram, saving and exporting your work, and using the different tools and panels. |
 | 2 | [UML Basics](./drawio/2-basic-uml.md) | Learn the basics of UML, including the different types of diagrams, their elements, and their relationships, to understand how to use draw.io to create UML diagrams effectively. |
-| 3 |Define the actors|(./drawio/3-actor.md) an entity or component that interacts with the system being modeled. Actors can be people, organizations, external systems, or even other software components. Actors are often depicted as stick figures in UML diagrams.|
+| 3 |[Define the actors](./drawio/3-actor.md)| an entity or component that interacts with the system being modeled. Actors can be people, organizations, external systems, or even other software components. Actors are often depicted as stick figures in UML diagrams.|
 | 4 | [Creating Use Case Diagrams](./drawio/4-use-case.md) | Learn how to create use case diagrams using draw.io, including how to add actors, use cases, and relationships to model the interactions between the system and its users or external systems. |
 | 5 | [Creating Class Diagrams](./drawio/5-class.md) | Learn how to use draw.io to create class diagrams, including how to add classes, attributes, methods, and relationships. |
 | 6 | [Creating Sequence Diagrams](./drawio/6-sequence.md) | Learn how to create sequence diagrams using draw.io, including how to add lifelines, messages, and activation bars to show the interactions between objects in a system over time. |
