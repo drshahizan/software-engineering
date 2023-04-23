@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!--
+    Lab 16: Form Layout 
+    Group: SEHC
+    1. Name: LIM JING YONG, Matrix No: A22EC0182, Github ID: Jingyong14
+    2. Name: YEOH CHONG YI, Matrix No: A22EC0295, Github ID: yChongyi
+    3. Name: JASLENE YU, Matrix No: A22EC0171, Github ID: jaslene-u
+    4. Name: JOSEPH LAU YEO KAI, Matrix No: A22EC0055, Github ID: josephlau2003
+    -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+
+  <style>
+    body {
+      background-image: linear-gradient(
+        to bottom right,
+        rgba(135, 201, 4),
+        rgba(203, 228, 152)
+      );
+      background-repeat: no-repeat;
+      font-family: Arial, Helvetica, sans-serif;
+      background-size: cover;
+    }
+
+    .container {
+      color: white;
+      text-align: center;
+    }
+
+    #description {
+      font-style: italic;
+    }
+
+    form {
+      background-color: rgba(30, 30, 30, 0.947);
+      margin-left: 30%;
+      margin-right: 30%;
+      border-radius: 5px;
+    }
+
+    .form-group {
+      display: grid;
+      grid-template-rows: auto auto;
+      text-align: left;
+      padding-left: 18px;
+      padding-top: 10px;
+      padding-right: 18px;
+      padding-bottom: 10px;
+    }
+
+    input {
+      height: 20px;
+      padding-left: 5px;
+      padding-bottom: 5px;
+    }
+
+    select {
+      height: 30px;
+      padding-left: 5px;
+      padding-bottom: 5px;
+      padding-top: 5px;
+    }
+
+    p {
+      margin-bottom: 4px;
+    }
+
+    .input-radio {
+      position: relative;
+      top: 5px;
+      margin-right: 10px;
+      accent-color: black;
+    }
+
+    .input-checkbox {
+      position: relative;
+      top: 5px;
+      margin-right: 10px;
+      accent-color: black;
+    }
+
+    textarea {
+      padding: 5px;
+      height: 100px;
+    }
+
+    #submit {
+      background-color: rgb(0, 178, 0);
+      color: white;
+      border: none;
+      border-radius: 2px;
+      margin: 10px;
+      height: 30px;
+    }
+  </style>
+  <body>
+    <div class="container">
+      <header class="header">
+        <h1 id="title" class="text-center">Persaka Survey Form</h1>
+        <p id="description" class="description text-center">
+          Thank you for taking the time to help us improve the platform
+        </p>
+      </header>
+      <form id="survey-form">
+        <div class="form-group">
+          <label id="name-label" for="name">Name</label>
+          <input
+            type="text"
+            name="name"
+            id="name"
+            class="form-control"
+            placeholder="Enter your name"
+            required
+          />
+        </div>
+        <div class="form-group">
+          <label id="email-label" for="email">Email</label>
+          <input
+            type="email"
+            name="email"
+            id="email"
+            class="form-control"
+            placeholder="Enter your Email"
+            required
+          />
+        </div>
+        <div class="form-group">
+          <label id="number-label" for="number"
+            >Age<span class="clue">(optional)</span></label
+          >
+          <input
+            type="number"
+            name="age"
+            id="number"
+            min="10"
+            max="99"
+            class="form-control"
+            placeholder="Age"
+          />
+        </div>
+        <div class="form-group">
+          <p>Which option best describes your current role?</p>
+          <select id="dropdown" name="role" class="form-control" required>
+            <option disabled selected value>Select current role</option>
+            <option value="student">Student</option>
+            <option value="job">Full Time Job</option>
+            <option value="learner">Full Time Learner</option>
+            <option value="preferNo">Prefer not to say</option>
+            <option value="other">Other</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <p>Would you recommend Persaka to a friend?</p>
+          <label>
+            <input
+              name="user-recommend"
+              value="definitely"
+              type="radio"
+              class="input-radio"
+              checked
+            />Definitely</label
+          >
+          <label>
+            <input
+              name="user-recommend"
+              value="maybe"
+              type="radio"
+              class="input-radio"
+            />Maybe</label
+          >
+
+          <label
+            ><input
+              name="user-recommend"
+              value="not-sure"
+              type="radio"
+              class="input-radio"
+            />Not sure</label
+          >
+        </div>
+
+        <div class="form-group">
+          <p>What is your favorite feature of Persaka?</p>
+          <select id="most-like" name="mostLike" class="form-control" required>
+            <option disabled selected value>Select an option</option>
+            <option value="challenges">Challenges</option>
+            <option value="projects">Projects</option>
+            <option value="community">Community</option>
+            <option value="openSource">Open Source</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <p>
+            What would you like to see improved?
+            <span class="clue">(Check all that apply)</span>
+          </p>
+
+          <label
+            ><input
+              name="prefer"
+              value="front-end-projects"
+              type="checkbox"
+              class="input-checkbox"
+            />Front-end Projects</label
+          >
+          <label>
+            <input
+              name="prefer"
+              value="back-end-projects"
+              type="checkbox"
+              class="input-checkbox"
+            />Back-end Projects</label
+          >
+          <label
+            ><input
+              name="prefer"
+              value="data-visualization"
+              type="checkbox"
+              class="input-checkbox"
+            />Data Visualization</label
+          >
+
+          <label
+            ><input
+              name="prefer"
+              value="open-source-community"
+              type="checkbox"
+              class="input-checkbox"
+            />Open Source Community</label
+          >
+
+          <label
+            ><input
+              name="prefer"
+              value="additional-courses"
+              type="checkbox"
+              class="input-checkbox"
+            />Additional Courses</label
+          >
+        </div>
+
+        <div class="form-group">
+          <p>Any comments or suggestions?</p>
+          <textarea
+            id="comments"
+            class="input-textarea"
+            name="comment"
+            placeholder="Enter your comment here..."
+          ></textarea>
+        </div>
+
+        <div class="form-group">
+          <button type="submit" id="submit" class="submit-button">
+            Submit
+          </button>
+        </div>
+      </form>
+    </div>
+  </body>
+</html>
