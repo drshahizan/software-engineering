@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Sequence Diagrams
+# Sequence Diagram
 
 Sequence diagrams are a type of interaction diagram used in software design to represent the flow of messages between objects or components within a system. They are often used to visualize the dynamic behavior of a system by showing the interactions between objects over time.
 
