@@ -124,7 +124,7 @@ We also have three databases:
 - Faculty Records Database (FRDB)
 
 <p align="center">
-<img src="https://github.com/drshahizan/software-engineering/blob/main/materials/uml/images/component.png"  height="400" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/materials/uml/images/component.png"  height="300" />
 </p>
 
 The arrows indicate the relationships between the components and databases. For example, the CRS component depends on the CC, RP, FS, SS, and PS components, and the RP component accesses the SRDB database. 
