@@ -16,6 +16,30 @@ For example, in a university academic course registration system, a student woul
 
 Actors are important in UML because they help to identify and define the boundaries of the system being modeled. By identifying the actors and their interactions with the system, the model can better capture the requirements and behavior of the system.
 
+## Case study
+How to use PlantUML to create a UML diagram with an actor for a university academic course registration system:
+
+```puml
+@startuml
+
+actor Student
+rectangle "University Academic Course Registration System" {
+  usecase "View Course Catalog"
+  usecase "Register for a Course"
+  usecase "Drop a Course"
+  
+  Student --> "Register for a Course"
+  Student --> "View Course Catalog"
+  Student --> "Drop a Course"
+}
+
+@enduml
+```
+
+In this example, we use the `actor` keyword to define the `Student` actor. We then create a rectangle that represents the `University Academic Course Registration System` and add three use cases to it: `View Course Catalog`, `Register for a Course`, and `Drop a Course`. Finally, we connect the `Student` actor to each of the use cases using the `-->` arrow.
+
+I hope this helps!
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
