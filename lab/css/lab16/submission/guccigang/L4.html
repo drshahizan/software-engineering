@@ -18,18 +18,19 @@ Group: gucci gang
     <title>Document</title>
 
     <style>
+        html,
+        body {
+            min-height: 100%;
+        }
 
-html, body {
-     min-height: 100%;
-}
-        body{
+        body {
             background-image: url(https://github.com/drshahizan/software-engineering/blob/main/lab/css/lab16/submission/guccigang/mal3.jpeg?raw=true);
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-size: 100% 100%;
         }
 
-        h2{
+        h2 {
             color: white;
             padding: 0px 60px;
         }
@@ -48,10 +49,10 @@ html, body {
             /* center items vertically */
         }
 
-        a{
+        a {
             text-decoration: none;
             color: white;
-            
+
         }
 
         nav ul {
@@ -68,12 +69,53 @@ html, body {
             /* display items horizontally */
         }
 
-        .btn{
+        .btn {
             color: red;
             padding: 10px;
             border: 0.5px solid red;
         }
-        
+
+        .cover {
+            display: grid;
+            justify-content: center;
+        }
+
+        h1 {
+            text-align: center;
+            color: red;
+        }
+
+        input[type="search"] {
+            border: none;
+            padding: 10px;
+            font-size: 16px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+            width: 300px;
+            /* or any other width you want */
+            background-color: #f7f7f7;
+            /* or any other color you want */
+            margin: 0;
+        }
+
+        input[type="submit"] {
+            background-color: palevioletred;
+            /* Change to your desired color */
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 0px;
+            cursor: pointer;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+
+        input[type="submit"]:hover {
+            background-color: #3e8e41;
+            /* Change to your desired hover color */
+        }
     </style>
 
 </head>
