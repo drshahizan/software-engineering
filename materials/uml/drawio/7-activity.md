@@ -84,7 +84,7 @@ end
 @enduml
 ```
 <p align="center">
-<img src="https://github.com/drshahizan/software-engineering/blob/main/materials/uml/images/activitydiagram.png"  height="400" />
+<img src="https://github.com/drshahizan/software-engineering/blob/main/materials/uml/images/activitydiagram.png"  height="600" />
 </p>
 
 The Activity Diagram starts with the student logging into the system and viewing available courses. The student selects courses of interest and submits their course selection. If a course has prerequisites, the academic staff views the prerequisites and the student selects prerequisite courses. The academic staff approves the course selection and generates a fee invoice, which is issued to the student by the finance department. The student pays the fees and the academic staff assigns courses. If courses are not available, the academic staff adds the student to the waitlist. The student can then view their class schedule.
