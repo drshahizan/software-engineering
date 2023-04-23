@@ -44,7 +44,44 @@ Sure, here are the steps to create a class diagram using draw.io for your univer
 > Remember, the class diagram is just one part of the overall system design process. You'll also need to create other diagrams, such as use case diagrams, activity diagrams, and sequence diagrams, to fully describe the behavior of the system.
 
 ## Case study
+Sure, here's an example report on the class diagram for a university academic course registration system, based on the Software Requirements Specifications (SRS) document:
 
+### Introduction:
+The purpose of this report is to document the class diagram for the university academic course registration system. The class diagram is an important tool for designing the system's object-oriented structure, which will help ensure that the system meets the requirements of the SRS document.
+
+### Classes:
+The class diagram for the university academic course registration system includes four primary classes: Student, Instructor, Administrator, and Course. Each of these classes has a number of attributes and methods, which are described below:
+
+1. Student: This class represents a student who is registering for courses. The attributes of the Student class include studentID, name, email, and password. The methods of the Student class include registerCourse(courseID: int), which allows the student to register for a course.
+
+2. Instructor: This class represents an instructor who is teaching courses. The attributes of the Instructor class include instructorID, name, email, and password. The methods of the Instructor class include teachCourse(courseID: int), which allows the instructor to teach a course.
+
+3. Administrator: This class represents an administrator who is responsible for creating and managing courses. The attributes of the Administrator class include adminID, name, email, and password. The methods of the Administrator class include createCourse(courseID: int), which allows the administrator to create a new course.
+
+4. Course: This class represents a course that is being offered. The attributes of the Course class include courseID, name, instructorID, and schedule. The methods of the Course class include getInstructor(), which returns the instructor who is teaching the course.
+
+Sure, here's an example table describing the classes in a university academic course registration system:
+
+| Class Name | Description | Attributes | Methods |
+|------------|-------------|------------|---------|
+| Student    | Represents a student who is registering for courses. | studentID: int<br>name: string<br>email: string<br>password: string | registerCourse(courseID: int) |
+| Instructor | Represents an instructor who is teaching courses. | instructorID: int<br>name: string<br>email: string<br>password: string | teachCourse(courseID: int) |
+| Administrator | Represents an administrator who is responsible for creating and managing courses. | adminID: int<br>name: string<br>email: string<br>password: string | createCourse(courseID: int) |
+| Course     | Represents a course that is being offered. | courseID: int<br>name: string<br>instructorID: int<br>schedule: string | getInstructor() | 
+
+In this table, each row represents a class in the system. The "Class Name" column provides the name of the class, while the "Description" column briefly describes what the class represents. The "Attributes" column lists the attributes of each class, including their data types, while the "Methods" column lists the methods of each class and their parameters.
+
+### Relationships:
+The class diagram also includes several relationships between the classes, which help to define the interactions between the system's components. The primary relationships in the university academic course registration system include:
+
+1. Student - Course: This relationship represents the fact that a student can register for multiple courses, and each course can have multiple students. The relationship is a many-to-many relationship.
+
+2. Instructor - Course: This relationship represents the fact that an instructor can teach multiple courses, and each course can have only one instructor. The relationship is a one-to-many relationship.
+
+3. Administrator - Course: This relationship represents the fact that an administrator can create multiple courses, and each course can have only one administrator. The relationship is a one-to-many relationship.
+
+### Conclusion:
+The class diagram for the university academic course registration system provides a clear picture of the system's object-oriented structure, including the classes, attributes, and methods that make up the system's components. By carefully designing the class diagram, we can ensure that the system meets the requirements of the SRS document and provides a robust, user-friendly solution for academic course registration.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
