@@ -23,12 +23,12 @@ Draw.io is a popular online diagramming tool that allows you to create flowchart
 | Save your work regularly | Save your work regularly to prevent loss of progress if something goes wrong. |
 | Export your diagram | Export your diagram in a variety of formats, including PNG, JPEG, PDF, and SVG. |
 
-Sure, here are some tips and tricks for working with Draw.io, with a focus on using keyboard shortcuts:
+## Keyboard shortcuts
 
 | Tip/Trick | Description |
 | --- | --- |
 | Use the search function | Use the search function to quickly find specific shapes and symbols in the library. |
-| Use keyboard shortcuts | Keyboard shortcuts can save you time and make working with Draw.io more efficient. For example: <ul><li>Ctrl + C to copy</li><li>Ctrl + V to paste</li><li>Ctrl + X to cut</li><li>Ctrl + Z to undo</li><li>Ctrl + Y to redo</li><li>Ctrl + F to search and replace</li><li>Ctrl + G to group selected shapes</li><li>Ctrl + Shift + G to ungroup selected shapes</li><li>Ctrl + Shift + V to paste as plain text</li></ul> |
+| Use keyboard shortcuts | Keyboard shortcuts can save you time and make working with Draw.io more efficient. For example: <ul><li>`Ctrl + C` to copy</li><li>`Ctrl + V` to paste</li><li>`Ctrl + X` to cut</li><li>`Ctrl + Z` to undo</li><li>`Ctrl + Y` to redo</li><li>`Ctrl + F` to search and replace</li><li>`Ctrl + G` to group selected shapes</li><li>`Ctrl + Shift + G` to ungroup selected shapes</li><li>`Ctrl + Shift + V` to paste as plain text</li></ul> |
 | Organize your diagrams with layers | Use the layer system to organize your diagram into different layers. |
 | Use templates | Use templates as a starting point for your diagram to save time and get started quickly. |
 | Collaborate with others | Collaborate with others in real-time to work together on a diagram. |
@@ -40,7 +40,7 @@ Sure, here are some tips and tricks for working with Draw.io, with a focus on us
 
 Using keyboard shortcuts can be a huge time-saver when working with Draw.io. Memorizing the most commonly used shortcuts can help you work more quickly and efficiently. Some of the most commonly used shortcuts are listed in the table above. You can access a full list of shortcuts by clicking on the "Keyboard shortcuts" option in the Help menu.
 
-In addition to the shortcuts listed above, there are many other shortcuts that can be used in Draw.io. For example, you can use Alt + arrow keys to move selected shapes in small increments, or Alt + Shift + arrow keys to move selected shapes in larger increments. You can also use Ctrl + Shift + L to show or hide the layers panel, or Ctrl + Shift + K to show or hide the shape library.
+In addition to the shortcuts listed above, there are many other shortcuts that can be used in Draw.io. For example, you can use `Alt + arrow keys` to move selected shapes in small increments, or `Alt + Shift + arrow keys` to move selected shapes in larger increments. You can also use `Ctrl + Shift + L` to show or hide the layers panel, or `Ctrl + Shift + K` to show or hide the shape library.
 
 By using keyboard shortcuts in Draw.io, you can save time and work more efficiently, allowing you to create diagrams more quickly and with greater precision.
 
