@@ -34,17 +34,18 @@ Here's a step-by-step guide on how to create an Activity Diagram using draw.io a
 
 Once you have created your Activity Diagram using draw.io, you can export it as an image or PDF file, or share it with others by generating a shareable link.
 
+## Case study
 Sure, here's a sample report on how an Activity Diagram can be used in the Software Requirements Specifications (SRS) for a university academic course registration system.
 
-## Introduction
+### Introduction
 
 The purpose of this report is to describe how an Activity Diagram can be used to represent the process of university academic course registration system in the SRS. The Activity Diagram is a graphical representation that can be used to model the flow of activities in a system or process. It provides a visual representation of the steps involved in the process and the interaction between different parties involved in the system. The Activity Diagram can be used to identify potential issues and bottlenecks in the process, which can help in designing a more efficient system.
 
-## Overview of the University Academic Course Registration System
+### Overview of the University Academic Course Registration System
 
 The University Academic Course Registration System is designed to facilitate the course registration process for students, academic staff, and the finance department. The system allows students to view available courses, select courses of interest, and submit their course selection. Academic staff can approve the course selection and assign courses to the students. The finance department generates fee invoices and issues them to the students. The students can pay the fees and view their class schedule.
 
-## Activity Diagram for the University Academic Course Registration System
+### Activity Diagram for the University Academic Course Registration System
 
 The Activity Diagram for the University Academic Course Registration System is shown below:
 
@@ -85,7 +86,7 @@ end
 
 The Activity Diagram starts with the student logging into the system and viewing available courses. The student selects courses of interest and submits their course selection. If a course has prerequisites, the academic staff views the prerequisites and the student selects prerequisite courses. The academic staff approves the course selection and generates a fee invoice, which is issued to the student by the finance department. The student pays the fees and the academic staff assigns courses. If courses are not available, the academic staff adds the student to the waitlist. The student can then view their class schedule.
 
-## Conclusion
+### Conclusion
 
 The Activity Diagram is a useful tool for representing the process of the university academic course registration system in the SRS. It provides a visual representation of the steps involved in the process and the interaction between different parties involved in the system. The Activity Diagram can be used to identify potential issues and bottlenecks in the process, which can help in designing a more efficient system.
 
