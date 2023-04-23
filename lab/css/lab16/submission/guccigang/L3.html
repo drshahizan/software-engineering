@@ -27,14 +27,25 @@
             top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
+            width: max-content;
         }
 
         h2 {
             text-align: center;
         }
 
+        .user-box {
+            position: relative;
+            display: grid;
+            justify-content: center;
+            align-items: center;
+        }
+
         label {
             text-align: left;
+            position: absolute;
+            margin-bottom: 30px;
+            
         }
 
         input {
@@ -43,6 +54,8 @@
             border-bottom: 1px solid white;
             background-color: transparent;
             padding: 5px;
+            margin-bottom: 30px;
+            width:250px;
         }
     </style>
 </head>
