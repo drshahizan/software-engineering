@@ -27,28 +27,7 @@ Requirement engineering is the process of eliciting, analyzing, documenting, val
 
 The goal of requirement engineering is to ensure that the software system meets the needs of its users and stakeholders, and is delivered on time, within budget, and with the required quality.
 
-Here is an example of how to use requirement engineering in a software development project:
 
-```python
-# Import requirement engineering module
-import requirement_engineering
-
-# Elicit requirements from stakeholders
-requirements = requirement_engineering.elicit_requirements()
-
-# Analyze requirements for feasibility and completeness
-feasibility = requirement_engineering.analyze_feasibility(requirements)
-completeness = requirement_engineering.analyze_completeness(requirements)
-
-# Document requirements in a software requirements specification (SRS) document
-requirement_engineering.document_requirements(requirements, 'software_requirements_specification.docx')
-
-# Validate requirements with stakeholders
-requirement_engineering.validate_requirements(requirements)
-
-# Manage requirements throughout the software development lifecycle
-requirement_engineering.manage_requirements(requirements)
-```
 
 ### Types of Requirements
 
@@ -92,6 +71,29 @@ Requirements engineering is a process that involves several phases, including:
 - Requirements management: This involves tracking changes to the requirements throughout the software development lifecycle.
 
 
+
+Here is an example of how to use requirement engineering in a software development project:
+
+```python
+# Import requirement engineering module
+import requirement_engineering
+
+# Elicit requirements from stakeholders
+requirements = requirement_engineering.elicit_requirements()
+
+# Analyze requirements for feasibility and completeness
+feasibility = requirement_engineering.analyze_feasibility(requirements)
+completeness = requirement_engineering.analyze_completeness(requirements)
+
+# Document requirements in a software requirements specification (SRS) document
+requirement_engineering.document_requirements(requirements, 'software_requirements_specification.docx')
+
+# Validate requirements with stakeholders
+requirement_engineering.validate_requirements(requirements)
+
+# Manage requirements throughout the software development lifecycle
+requirement_engineering.manage_requirements(requirements)
+```
 
 
 #### Notes
