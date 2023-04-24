@@ -48,7 +48,7 @@ requirement_engineering.validate_requirements(requirements)
 
 # Manage requirements throughout the software development lifecycle
 requirement_engineering.manage_requirements(requirements)
-
+```
 
 #### Notes
 - [The Importance of Software Engineering](#the-importance-of-software-engineering)
