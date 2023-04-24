@@ -143,8 +143,8 @@ Use case specification involves documenting the use cases in detail, including t
 The purpose of use case modeling and specification is to ensure that the software meets the needs of the users or stakeholders, and that it is developed according to the requirements and specifications. It helps to identify and address potential problems or issues early on in the development process, and it also provides a clear and comprehensive understanding of how the system will be used and what it is supposed to do.
 
 - ### Techniques for Creating Use Case Models
-<b>NARRATIVE - </b>
-  A narrative use case model is a type of use case model that focuses on describing the behavior of a system from the perspective of the end-user or actor. In contrast to traditional use case models, which are typically presented in a diagrammatic or tabular format, narrative use case models are presented in prose form.
+NARRATIVE - 
+A narrative use case model is a type of use case model that focuses on describing the behavior of a system from the perspective of the end-user or actor. In contrast to traditional use case models, which are typically presented in a diagrammatic or tabular format, narrative use case models are presented in prose form.
 
 The narrative use case model typically begins with a description of the actor, which is the user or system that interacts with the system being modeled. This is followed by a description of the goal or objective that the actor wishes to achieve when interacting with the system.
 
