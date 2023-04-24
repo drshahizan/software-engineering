@@ -130,6 +130,9 @@ Overall, effective requirements models should be clear, complete, consistent, ve
 
 ### B. Techniques for Requirements Modeling
 ### 1. USE CASE MODELING
+
+- [Use Case Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/)
+
 - ### Definition and Purpose
 Use case modeling and specification is a technique used in software development to capture the functional requirements of a system by identifying and describing its interactions with actors, which could be users, other systems, or external entities.
 
@@ -138,11 +141,10 @@ Use case modeling involves identifying the different use cases or scenarios that
 Use case specification involves documenting the use cases in detail, including the actors involved, the preconditions, the steps or actions taken, the post-conditions or outcomes, and any exceptions or alternative paths that may occur.
 
 The purpose of use case modeling and specification is to ensure that the software meets the needs of the users or stakeholders, and that it is developed according to the requirements and specifications. It helps to identify and address potential problems or issues early on in the development process, and it also provides a clear and comprehensive understanding of how the system will be used and what it is supposed to do.
-</ul>
 
-### <ul><li>Techniques for Creating Use Case Models</li>
-  <b><ul>Narrative</b>
-A narrative use case model is a type of use case model that focuses on describing the behavior of a system from the perspective of the end-user or actor. In contrast to traditional use case models, which are typically presented in a diagrammatic or tabular format, narrative use case models are presented in prose form.
+- ### Techniques for Creating Use Case Models
+<b>NARRATIVE - </b>
+  A narrative use case model is a type of use case model that focuses on describing the behavior of a system from the perspective of the end-user or actor. In contrast to traditional use case models, which are typically presented in a diagrammatic or tabular format, narrative use case models are presented in prose form.
 
 The narrative use case model typically begins with a description of the actor, which is the user or system that interacts with the system being modeled. This is followed by a description of the goal or objective that the actor wishes to achieve when interacting with the system.
 
@@ -150,30 +152,31 @@ The narrative then proceeds to describe the steps that the actor takes to achiev
 
 One of the key advantages of using a narrative use case model is that it can help to facilitate communication between the development team and stakeholders. Because the narrative is presented in a more natural language format, it is often easier for non-technical stakeholders to understand the behavior of the system and provide feedback.
 
-Overall, narrative use case models can be a useful tool for describing the behavior of a system from the perspective of the end-user, and can help to facilitate communication and collaboration between the development team and stakeholders.</ul>
-</ul>
-<p align="center"><img src="https://i.stack.imgur.com/i4dqN.png"></p>
+Overall, narrative use case models can be a useful tool for describing the behavior of a system from the perspective of the end-user, and can help to facilitate communication and collaboration between the development team and stakeholders.
 
-### <ul><li>Best Practices for Creating Effective Use Case Models</li>
-  Here are some best practices for creating effective use case models:
+<p align="center"><img src="https://i.stack.imgur.com/i4dqN.png" width="550px" height="600px"></p>
 
-<ul><li type="1">Involve stakeholders: Involve stakeholders from different departments or areas of expertise in the creation of the use case model. This will ensure that all requirements are captured and that the model is comprehensive.</li>
+- ### Best Practices for Creating Effective Use Case Models
+Here are some best practices for creating effective use case models:
 
-<li type="1">Focus on the business goals: Focus on the business goals of the system and the tasks that users will perform to achieve those goals. This will help you to identify the key use cases that need to be included in the model.</li>
+1. Involve stakeholders: Involve stakeholders from different departments or areas of expertise in the creation of the use case model. This will ensure that all requirements are captured and that the model is comprehensive.
 
-<li type="1">Use clear and concise language: Use clear and concise language that is easily understood by all stakeholders. Avoid using technical jargon that may be confusing to non-technical stakeholders.</li>
+2. Focus on the business goals: Focus on the business goals of the system and the tasks that users will perform to achieve those goals. This will help you to identify the key use cases that need to be included in the model.
 
-<li type="1">Define actor roles: Clearly define the roles of the actors in the use case model. This will help you to identify the key tasks that they need to perform and the interactions that they will have with the system.</li>
+3. Use clear and concise language: Use clear and concise language that is easily understood by all stakeholders. Avoid using technical jargon that may be confusing to non-technical stakeholders.
 
-<li type="1">Use templates: Use templates to standardize the format and structure of the use case model. This will make it easier to read, review, and understand.</li>
+4. Define actor roles: Clearly define the roles of the actors in the use case model. This will help you to identify the key tasks that they need to perform and the interactions that they will have with the system.
 
-<li type="1">Keep it simple: Keep the use case model simple and avoid overcomplicating it with unnecessary details. Focus on the key tasks and interactions that are necessary to achieve the business goals.</li>
+5. Use templates: Use templates to standardize the format and structure of the use case model. This will make it easier to read, review, and understand.
 
-<li type="1">Review and validate: Review the use case model with stakeholders and validate it to ensure that it accurately reflects the business requirements. This will help you to identify any gaps or inconsistencies that need to be addressed.</li></ul>
+6. Keep it simple: Keep the use case model simple and avoid overcomplicating it with unnecessary details. Focus on the key tasks and interactions that are necessary to achieve the business goals.
 
-By following these best practices, you can create an effective use case model that accurately reflects the business requirements and helps to ensure the success of the project.</ul>
+7. Review and validate: Review the use case model with stakeholders and validate it to ensure that it accurately reflects the business requirements. This will help you to identify any gaps or inconsistencies that need to be addressed.
 
-  
+By following these best practices, you can create an effective use case model that accurately reflects the business requirements and helps to ensure the success of the project.
+
+---
+
 ### 2. Domain Modeling
   ### <ul><li>Definition and purpose of domain modeling</li>
   Domain modeling is a process of creating a conceptual representation of the domain in which a software system operates. It involves identifying the key concepts, entities, relationships, and rules that are relevant to the system's domain and using them to create a model that describes the domain and its behavior.
