@@ -44,6 +44,8 @@ Group: gucci gang
             margin: 10px;
             text-align: center;
             border-radius: 10px;
+            display: block;
+            justify-content: center;
         }
 
         #submit {
@@ -59,21 +61,25 @@ Group: gucci gang
 
         .form-rows {
             margin: 20px;
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            gap: 15px;
+            display: block;
         }
 
         .labels {
             text-align: right;
+            display: inline-block;
+            width: 300px;
         }
 
         .fields {
+            margin-left: 10px;
             text-align: left;
+            display: inline-flex;
+            width: 300px;
         }
 
         .input-fields {
             width: 250px;
+            padding: 5px;
         }
 
         input[type="radio"] {
@@ -82,6 +88,10 @@ Group: gucci gang
 
         #time-of-day li.radio label:first-of-type {
             margin-left: -20px;
+        }
+
+        #dropdown{
+            padding: 5px;
         }
 
         .user-selection {

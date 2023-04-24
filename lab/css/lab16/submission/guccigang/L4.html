@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+
+<!--
+Lab 12: Text and Box Model
+Group: gucci gang
+1. Name: LOW YING XI, Matrix No: A22EC0187, Github ID: lowyingxi
+2. Name: WONG KHAI SHIAN NICHOLAS, Matrix No:A22EC0292, Github ID: nicholas0377
+3. Name: LOO JIA CHANG, Matrix No: A22EC0074, Github ID: jcl03
+4. Name: TIEW CHUAN RONG, Matrix No: A22EC0112, Github ID: tiewrong
+-->
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <style>
+        html,
+        body {
+            min-height: 100%;
+        }
+
+        body {
+            background-image: url(https://github.com/drshahizan/software-engineering/blob/main/lab/css/lab16/submission/guccigang/mal3.jpeg?raw=true);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 100% 100%;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+
+        h2 {
+            color: white;
+            padding: 0px 60px;
+        }
+
+        nav {
+            margin-top: -60px;
+            background-color: transparent;
+            /* set background color to dark grey */
+            height: 50px;
+            /* set height of navigation bar */
+            display: flex;
+            /* use flexbox layout */
+            justify-content: right;
+            /* center items horizontally */
+            align-items: center;
+            /* center items vertically */
+        }
+
+        a {
+            text-decoration: none;
+            color: white;
+
+        }
+
+        nav ul {
+            list-style: none;
+            /* remove bullet points from list */
+            margin: 0%;
+            /* remove default margin */
+            padding: 0%;
+            /* remove default padding */
+        }
+
+        nav li {
+            display: inline-block;
+            margin: 10px;
+            /* display items horizontally */
+        }
+
+        .btn {
+            color: red;
+            padding: 10px;
+            border: 0.5px solid red;
+        }
+
+        .cover {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            justify-content: center;
+        }
+
+        h1 {
+            text-align: center;
+            color: red;
+        }
+
+        form {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        input[type="search"] {
+            border: none;
+            padding: 10px;
+            font-size: 16px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+            width: 300px;
+            /* or any other width you want */
+            background-color: #f7f7f7;
+            /* or any other color you want */
+            margin: 0;
+        }
+
+        input[type="submit"] {
+            background-color: palevioletred;
+            /* Change to your desired color */
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            cursor: pointer;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+
+        input[type="submit"]:hover {
+            background-color: #3e8e41;
+            /* Change to your desired hover color */
+        }
+    </style>
+
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h2>
+                <a href="#"><i class="ion-plane"></i> UTMtravel</a>
+            </h2>
+            <nav>
+                <ul>
+                    <li>
+                        <a class="btn" href="#" title="Register / Log In">Register/Log In</a>
+                    </li>
+                    <li>
+                        <a href="#" title="Hotels">Hotels</a>
+                    </li>
+                    <li>
+                        <a href="#" title="Flights">Flights</a>
+                    </li>
+                    <li>
+                        <a href="#" title="Tours">Tours</a>
+                    </li>
+
+                </ul>
+            </nav>
+        </header>
+
+        <div class="cover">
+            <h1>Discover what's out there.</h1>
+            <form class="flex-form">
+                <label for="from">
+                    <i class="ion-location"></i>
+                </label>
+                <input type="search" placeholder="Where do you want to go?" />
+                <input type="submit" value="Search" />
+            </form>
+
+        </div>
+    </div>
+</body>
+
+</html>
