@@ -276,15 +276,17 @@ We understand the importance of data privacy and security when designing a stude
 </ul>
 </ul>
 
-<h4>Quality Assurance and Testing Procedures:<h4>
-To ensure the quality and reliability of the student feedback system, we will follow the following testing and quality assurance procedures:
-
+  
+<h3>Quality Assurance and Testing Procedures:</h3>
+ <p>To ensure the quality and reliability of the student feedback system, we will follow the following testing and quality assurance procedures:
+<ul>
 <li>Unit testing: We will test individual components of the system to ensure they work as expected.</li>
 <li>Integration testing: We will test how the components of the system work together to ensure they are integrated properly.</li>
 <li>System testing: We will test the entire system to ensure it meets the requirements and functions correctly.</li>
 <li>User acceptance testing: We will involve the users (students and faculty) to test the system and provide feedback on its usability and functionality.</li></li>
 <li>Quality assurance: We will ensure that the system meets quality standards by conducting regular reviews and audits, and by fixing any defects or issues that arise during testing.</li>
-
+  </ul></p>
+  
 ### 12. Conclusion:
 In conclusion, the proposed project aims to enhance the current student feedback system at our university by implementing new methods for collecting feedback, providing better tools for analyzing and reporting data, and ensuring accessibility for all students. The objectives of the project are to improve the quality and quantity of feedback that instructors receive, to provide more accurate and comprehensive data on the student experience at our university, and to promote inclusivity and accessibility in the feedback process. The scope of the project includes assessing the current system, identifying best practices, developing new methods for collecting feedback, providing better tools for analyzing and reporting data, ensuring accessibility, implementing the enhanced system, and providing training and support for instructors and students.
   
