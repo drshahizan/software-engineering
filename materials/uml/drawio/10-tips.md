@@ -44,7 +44,7 @@ In addition to the shortcuts listed above, there are many other shortcuts that c
 
 By using keyboard shortcuts in Draw.io, you can save time and work more efficiently, allowing you to create diagrams more quickly and with greater precision.
 
-Sure, here are some tips and tricks for formatting diagrams in Draw.io:
+## Formatting diagrams
 
 | Tip/Trick | Description |
 | --- | --- |
@@ -65,7 +65,7 @@ One of the most important aspects of formatting diagrams is consistency. By usin
 
 In addition to these features, you can also add images and icons to your diagram, customize the color and font of text and shapes, and use the snap-to-grid feature to align shapes and symbols. By taking advantage of these formatting options, you can create diagrams that are clear, concise, and visually appealing, making them more effective tools for communication and collaboration.
 
-Sure, here are some tips and tricks for organizing your work in Draw.io:
+## Organizing your work in Draw.io:
 
 | Tip/Trick | Description |
 | --- | --- |
