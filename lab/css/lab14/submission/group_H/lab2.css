@@ -1,0 +1,69 @@
+
+body {
+    background-color: #eeee;
+}
+
+.pimg1,
+.pimg2,
+.pimg3 {
+    min-height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 75%;
+}
+
+.pimg1 {
+    background-image: url("/images/mal1.jpeg");
+}
+
+.ptext {
+    color: white;
+    display: block;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Lucida', monospace;
+    padding-top: 380px;
+}
+
+.border {
+    background-color: black;
+    width: 100%;
+    text-transform: uppercase;
+}
+
+section.section-light {
+    background-color: #eeee;
+    display: block;
+    text-align: center;
+    padding: 50px 50px 0 50px;
+    font-family: helvetica;
+    font-size: 20px;
+    color: #666666;
+}
+
+.pimg2 {
+    background-image: url("/images/mal2.jpeg");
+}
+
+.border.trans {
+    background-color: transparent;
+    width: 100%;
+    text-transform: uppercase;
+
+}
+
+section.section-dark {
+    background-color: black;
+    display: block;
+    text-align: center;
+    padding: 50px 50px 50px 50px;
+    font-family: helvetica;
+    font-size: 20px;
+    color: white;
+}
+
+.pimg3 {
+    background-image: url("/images/mal3.jpeg");
+}
