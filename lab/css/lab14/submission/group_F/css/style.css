@@ -6,7 +6,7 @@ Group:
 3. Name: NAVASARATHY S.GANESWARAN, Matrix No: A22EC0091, Github ID: Navasarathy
 4. Name: VINESH A/L VIJAYAKUMAR , Matrix No: A22EC0290, Github ID: vinesh06*/
 
-body:first-of-type {
+body:nth-of-type(1) {
   background-color: #fff;
   color: #333;
   margin: 0;
@@ -137,13 +137,21 @@ img {
   letter-spacing: 0.4em;
 }
 
-section{
+section.section-light{
   text-align: center;
   padding-left: 140px;
   padding-right: 140px;
   padding-top: 40px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+section.section-dark{
+  text-align: center;
+  padding-left: 140px;
+  padding-right: 140px;
+  padding-top: 40px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
+
 
 .pimg2 {
   background-image: url(../images/mal2.jpeg);
@@ -174,3 +182,83 @@ section{
   color: white;
   overflow-y: auto;
 }
+
+#showcase {
+  background-image: url(../images/mal4.jpeg);
+  background-size: 100%;
+  padding: 300px;
+  color: orange;
+  text-align: center;
+}
+
+#pshowcase{
+  padding-top: 0px;
+  padding-bottom: 15px;
+}
+
+.button {
+  text-decoration: none;
+  border-style: groove;
+  border-width: 1.5px;
+  border-color: red;
+  padding: 15px;
+  color: greenyellow;
+  border-radius: 10px;
+}
+
+#section-a {
+  background-color: rgb(0, 195, 255);
+  color: yellow;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#section-b {
+  background-color: blue;
+  color: rgb(248, 184, 66);
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#section-c {
+  text-align: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  display: -webkit-flex;
+  display: flex;
+}
+
+.box-1 {
+  background-color: aqua;
+  color: rgb(230, 37, 230);
+  padding: 20px;
+  -webkit-flex: 1.11;
+  -ms-flex: 1.11;
+  flex: 1.11;
+}
+
+.box-2 {
+  background-color: rgb(255, 51, 0);
+  color: rgb(255, 193, 77);
+  padding: 20px;
+  -webkit-flex: 1.5;
+  -ms-flex: 1.5;
+  flex: 1.5;
+}
+
+.box-3 {
+  background-color: aqua;
+  color: rgb(230, 37, 230);
+  padding: 20px;
+  -webkit-flex: 1.5;
+  -ms-flex: 1.5;
+  flex: 1.5;
+}
+
