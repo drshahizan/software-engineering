@@ -23,6 +23,32 @@ Draw.io is a popular online diagramming tool that allows you to create flowchart
 | Save your work regularly | Save your work regularly to prevent loss of progress if something goes wrong. |
 | Export your diagram | Export your diagram in a variety of formats, including PNG, JPEG, PDF, and SVG. |
 
+
+Collaborating with others in Draw.io is a powerful feature that enables multiple people to work on the same diagram at the same time. One popular way to collaborate on diagrams in Draw.io is to use a version control system, such as GitHub, to store the diagram file.
+
+## Collaborate with others
+Here are the steps to collaborate with others in Draw.io using GitHub:
+
+1. Create a new diagram in Draw.io or open an existing one.
+2. Click on File > Export As > GitHub. 
+3. If you have not already done so, authorize Draw.io to access your GitHub account.
+4. Select the repository where you want to store your diagram file, and enter a file name and description.
+5. Click "Export." Draw.io will create a new file in your selected repository.
+6. Share the link to the GitHub file with your collaborators.
+
+Once you have shared the link to the GitHub file with your collaborators, they can make changes to the diagram file and push their changes to the repository. Here are the steps to do so:
+
+1. Your collaborators can open the diagram file in Draw.io by clicking the link to the GitHub file that you shared with them.
+2. They can make changes to the diagram file in Draw.io.
+3. After making changes, they can click on File > Save to GitHub. 
+4. Draw.io will prompt them to enter a commit message and description for their changes.
+5. After entering a commit message and description, they can click "Save."
+6. The changes will be pushed to the repository and saved in the diagram file.
+
+Using GitHub to collaborate on Draw.io diagrams has several advantages. First, it provides a version control system that allows collaborators to track changes and revert to earlier versions if necessary. Second, it enables real-time collaboration, as multiple people can work on the same diagram file simultaneously. Finally, it provides a centralized location for storing and sharing diagram files, making it easier to collaborate with others and share your work.
+
+In addition to GitHub, Draw.io also supports collaboration using other cloud storage services, such as Google Drive, OneDrive, and Dropbox. Regardless of the platform you use, collaborating with others in Draw.io can help you create more effective diagrams that are well-organized and easy to understand.
+
 ## Keyboard shortcuts
 
 | Tip/Trick | Description |
