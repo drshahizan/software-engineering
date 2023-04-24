@@ -202,7 +202,7 @@ We will need access to various data sources to develop the student feedback syst
 Developing a student feedback system requires expertise in areas such as data analysis, database management, and software development. We plan to collaborate with the university's IT department and academic advisors to ensure that our system is effective and meets the needs of students and faculty. We will also hire a software development team with experience in building similar systems.
 
 <li><h3>Budget</h3></li>
-We estimate that the development of the student feedback system will require a budget of $100,000. This includes the cost of hardware and software resources, data integration and management, software development, and project management.
+We estimate that the development of the student feedback system will require a budget of RM 120,000. This includes the cost of hardware and software resources, data integration and management, software development, and project management.
 
 <li><h3>Timeline</h3></li>
 We plan to complete the development of the student feedback system within 12 months. This includes the design, development, testing, and deployment of the system. We will allocate resources and plan milestones to ensure that the project is completed on time.
