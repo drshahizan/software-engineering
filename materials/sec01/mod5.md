@@ -44,7 +44,9 @@ By the end of this module, students will be able to:
 
 ## Module outline 
 ## I. Introduction
-### Overview of requirements analysis and modeling
+### Overview of Requirements Analysis and Modeling
+
+<p align="center"><img src="https://static.wixstatic.com/media/04b97c_f2ddf302a9e940ae872dfa8145629a7c~mv2.jpg/v1/fit/w_1000%2Ch_720%2Cal_c%2Cq_80,enc_auto/file.jpg" width="700px" height="300px"/></p>
 
 Requirements analysis is a crucial phase in the software development life cycle that involves understanding, documenting, and validating the needs of stakeholders for a software system. This phase helps to ensure that the final product meets the expectations of users, business owners, and other stakeholders.
 
@@ -52,62 +54,84 @@ Requirements modeling, on the other hand, involves creating a visual representat
 
 There are different approaches to requirements analysis and modeling, but some common steps include:
 
-<ul><li type="1">Elicitation: This involves gathering information from stakeholders to understand their needs, expectations, and constraints.</li>
+1. Elicitation: This involves gathering information from stakeholders to understand their needs, expectations, and constraints.
 
-<li type="1">Analysis: This involves organizing and categorizing the requirements to identify commonalities, conflicts, and ambiguities.</li>
+2. Analysis: This involves organizing and categorizing the requirements to identify commonalities, conflicts, and ambiguities.
 
-<li type="1">Specification: This involves documenting the requirements in a clear and concise manner using techniques such as use cases, user stories, or functional requirements.</li>
+3. Specification: This involves documenting the requirements in a clear and concise manner using techniques such as use cases, user stories, or functional requirements.
 
-<li type="1">Validation: This involves reviewing and testing the requirements to ensure they are complete, correct, and consistent.</li>
+4. Validation: This involves reviewing and testing the requirements to ensure they are complete, correct, and consistent.
 
-<li type="1">Modeling: This involves creating visual representations of the requirements using techniques such as data flow diagrams, entity-relationship diagrams, or use case diagrams.</li></ul>
+5. Modeling: This involves creating visual representations of the requirements using techniques such as data flow diagrams, entity-relationship diagrams, or use case diagrams.
 
 Requirements modeling techniques help to represent the requirements in a way that is easy to understand for stakeholders with varying levels of technical expertise. For example, use case diagrams show the interactions between actors and the system, while data flow diagrams show how data moves through the system.
 
 Overall, requirements analysis and modeling are critical for the success of software development projects as they ensure that the software system meets the needs of stakeholders and is delivered on time and within budget.
-<p align="center"><img src="https://static.wixstatic.com/media/04b97c_f2ddf302a9e940ae872dfa8145629a7c~mv2.jpg/v1/fit/w_1000%2Ch_720%2Cal_c%2Cq_80,enc_auto/file.jpg" width="700px" height="300px"/></p>
 
+---
 
 ## II. Part I: Requirements Modeling Concept
 ### A. Understanding the Concept of Requirements Modeling
-### <ul><li>Importance of requirements modeling in software development</li>
+- ### What is UML Diagram & How it related to Requirements Modeling?
+  
+UML (Unified Modeling Language) diagram is a graphical representation of software systems, and it can be used for many purposes in software development, including requirement modeling. In requirement modeling, UML diagrams are used to visualize and document the requirements of a software system.
+
+<p align="center"><img src="https://images.doclify.net/gleek-web/d/fbc982d6-01ee-4753-8ba1-0e828d701d5e.png?w=1200&format=webp" height="350px" width="700px"/></p>
+
+There are several types of UML diagrams that can be used for requirement modeling, including:
+
+1. Use Case Diagram: This type of diagram is used to describe the functionality of the system from the perspective of the users. It shows how the system interacts with the actors (users) and what functions it performs in response to their actions.
+
+2. Activity Diagram: An activity diagram shows the flow of activities in a system or a process. It is used to model the steps that are required to perform a particular task or to achieve a specific goal.
+
+3. Domain Diagram: A domain diagram is used to model the concepts and relationships within a specific problem domain. It is particularly useful for modeling complex systems that involve multiple interacting domains.
+
+4. Sequence Diagram: A sequence diagram is used to show the interactions between objects in a system. It shows how objects interact with each other in a particular scenario.
+  
+5. State Machine Diagram: A state machine diagram is used to describe the behavior of a system or a component by showing how it responds to events and transitions between different states. It is particularly useful for modeling complex systems with a large number of states.
+
+UML diagrams are an important tool in requirement modeling because they help to ensure that all stakeholders have a common understanding of the system requirements. They also provide a clear and concise way to communicate the requirements to the development team, which can help to avoid misunderstandings and ensure that the system is developed according to the requirements.
+
+- ### Importance of Requirements Modeling in Software Development
 Requirements modeling is a critical phase in software development that involves creating a detailed description of the desired behavior and functionality of the software system to be developed. Here are some key reasons why requirements modeling is essential in software development:
 
-<ul><li type="1">Establishing a common understanding: The process of requirements modeling helps establish a common understanding of the software system to be developed among all stakeholders. This includes the development team, customers, end-users, and other stakeholders. By creating a clear and comprehensive set of requirements, everyone involved in the project can have a shared understanding of what the software system should do.</li>
+1. Establishing a common understanding: The process of requirements modeling helps establish a common understanding of the software system to be developed among all stakeholders. This includes the development team, customers, end-users, and other stakeholders. By creating a clear and comprehensive set of requirements, everyone involved in the project can have a shared understanding of what the software system should do.
 
-<li type="1">Defining project scope: Requirements modeling helps to define the scope of the software project by clarifying what features and functionality are within the scope of the project and what are not. This helps to avoid scope creep, which can lead to increased project costs, delays, and customer dissatisfaction.</li>
+2. Defining project scope: Requirements modeling helps to define the scope of the software project by clarifying what features and functionality are within the scope of the project and what are not. This helps to avoid scope creep, which can lead to increased project costs, delays, and customer dissatisfaction.
 
-<li type="1">Minimizing rework: Requirements modeling helps to identify and correct issues early in the development process, reducing the likelihood of costly rework later. By understanding the requirements, the development team can identify potential issues or conflicts early on, reducing the risk of costly rework.</li>
+3. Minimizing rework: Requirements modeling helps to identify and correct issues early in the development process, reducing the likelihood of costly rework later. By understanding the requirements, the development team can identify potential issues or conflicts early on, reducing the risk of costly rework.
 
-<li type="1">Improving quality: Requirements modeling helps to ensure that the software system meets the needs of its users by specifying the required functionality and behavior. This helps to improve the quality of the software system and increases the likelihood that it will be successful in the market.</li>
+4. Improving quality: Requirements modeling helps to ensure that the software system meets the needs of its users by specifying the required functionality and behavior. This helps to improve the quality of the software system and increases the likelihood that it will be successful in the market.
 
-<li type="1">Facilitating communication: Requirements modeling provides a common language for communication between the development team and stakeholders. This helps to ensure that everyone has a clear understanding of the software system to be developed, reducing the likelihood of misunderstandings or miscommunications.</li></ul></ul>
+5. Facilitating communication: Requirements modeling provides a common language for communication between the development team and stakeholders. This helps to ensure that everyone has a clear understanding of the software system to be developed, reducing the likelihood of misunderstandings or miscommunications.
 
-### <ul><li>Key characteristics of effective requirements models</li>
+<p align="center"><img src= "https://cs.ccsu.edu/~stan/classes/CS410/Notes16/images/05-activity_diagram_involuntary_detention.png" width="600px" height="300px"></p>
+
+- ### Key Characteristics of Effective Requirements Models
 Effective requirements models are characterized by the following key characteristics:
 
-<ul><li type="1">Clarity: The requirements model should be clear and concise, with unambiguous language and terminology that can be easily understood by all stakeholders. Ambiguous or unclear requirements can lead to misunderstandings and confusion, which can impact project success.</li>
+1. Clarity: The requirements model should be clear and concise, with unambiguous language and terminology that can be easily understood by all stakeholders. Ambiguous or unclear requirements can lead to misunderstandings and confusion, which can impact project success.
 
-<li type="1">Completeness: The requirements model should be complete, covering all relevant aspects of the system's functionality and performance. This means that all requirements should be identified and documented, including both functional and non-functional requirements.</li>
+2. Completeness: The requirements model should be complete, covering all relevant aspects of the system's functionality and performance. This means that all requirements should be identified and documented, including both functional and non-functional requirements.
 
-<li type="1">Consistency: The requirements model should be consistent, with no conflicting or contradictory requirements. Consistency ensures that all stakeholders have a clear understanding of the system's requirements and how they fit together.</li>
+3. Consistency: The requirements model should be consistent, with no conflicting or contradictory requirements. Consistency ensures that all stakeholders have a clear understanding of the system's requirements and how they fit together.
 
-<li type="1">Verifiability: The requirements model should be verifiable, meaning that each requirement can be tested to determine whether it has been satisfied. Verifiable requirements are essential for ensuring that the system meets the needs of the stakeholders.</li>
+4. Verifiability: The requirements model should be verifiable, meaning that each requirement can be tested to determine whether it has been satisfied. Verifiable requirements are essential for ensuring that the system meets the needs of the stakeholders.
 
-<li type="1">Traceability: The requirements model should have traceability, meaning that each requirement can be traced back to its source and forward to the design, development, and testing stages. Traceability ensures that all requirements are met and helps with change management.</li>
+5. Traceability: The requirements model should have traceability, meaning that each requirement can be traced back to its source and forward to the design, development, and testing stages. Traceability ensures that all requirements are met and helps with change management.
 
-<li type="1">Prioritization: The requirements model should be prioritized, with high-priority requirements identified and given more attention than lower-priority requirements. Prioritization ensures that the most important requirements are addressed first.</li>
+6. Prioritization: The requirements model should be prioritized, with high-priority requirements identified and given more attention than lower-priority requirements. Prioritization ensures that the most important requirements are addressed first.
 
-<li type="1">Testability: The requirements model should be testable, meaning that each requirement can be tested to determine whether it has been satisfied. Testability is essential for ensuring that the system functions correctly and meets the needs of the stakeholders.</li></ul>
+7. Testability: The requirements model should be testable, meaning that each requirement can be tested to determine whether it has been satisfied. Testability is essential for ensuring that the system functions correctly and meets the needs of the stakeholders.
 
-Overall, effective requirements models should be clear, complete, consistent, verifiable, traceable, prioritized, and testable. By ensuring these key characteristics are met, stakeholders can be confident that the system will meet their needs and be successful.</ul>
-<p align="center"><img src= "https://cs.ccsu.edu/~stan/classes/CS410/Notes16/images/05-activity_diagram_involuntary_detention.png" width="700px" height="400px"></p>
+Overall, effective requirements models should be clear, complete, consistent, verifiable, traceable, prioritized, and testable. By ensuring these key characteristics are met, stakeholders can be confident that the system will meet their needs and be successful.
 
+---
 
-## B. Techniques for Requirements Modeling
-### 1. Use Case Modeling and Specification
-### <ul><li>Definition and purpose of use case modeling and specification</li>
-  Use case modeling and specification is a technique used in software development to capture the functional requirements of a system by identifying and describing its interactions with actors, which could be users, other systems, or external entities.
+### B. Techniques for Requirements Modeling
+### 1. USE CASE MODELING
+- ### Definition and Purpose
+Use case modeling and specification is a technique used in software development to capture the functional requirements of a system by identifying and describing its interactions with actors, which could be users, other systems, or external entities.
 
 Use case modeling involves identifying the different use cases or scenarios that a user or system might encounter when interacting with the software. Each use case is described in terms of the steps or actions that the actor takes and the responses or outcomes of the system.
 
@@ -116,8 +140,8 @@ Use case specification involves documenting the use cases in detail, including t
 The purpose of use case modeling and specification is to ensure that the software meets the needs of the users or stakeholders, and that it is developed according to the requirements and specifications. It helps to identify and address potential problems or issues early on in the development process, and it also provides a clear and comprehensive understanding of how the system will be used and what it is supposed to do.
 </ul>
 
-### <ul><li>Techniques for creating use case models</li>
-  <b><ul><li type="a">Narrative:</li></b>
+### <ul><li>Techniques for Creating Use Case Models</li>
+  <b><ul>Narrative</b>
 A narrative use case model is a type of use case model that focuses on describing the behavior of a system from the perspective of the end-user or actor. In contrast to traditional use case models, which are typically presented in a diagrammatic or tabular format, narrative use case models are presented in prose form.
 
 The narrative use case model typically begins with a description of the actor, which is the user or system that interacts with the system being modeled. This is followed by a description of the goal or objective that the actor wishes to achieve when interacting with the system.
@@ -130,7 +154,7 @@ Overall, narrative use case models can be a useful tool for describing the behav
 </ul>
 <p align="center"><img src="https://i.stack.imgur.com/i4dqN.png"></p>
 
-### <ul><li>Best practices for creating effective use case models</li>
+### <ul><li>Best Practices for Creating Effective Use Case Models</li>
   Here are some best practices for creating effective use case models:
 
 <ul><li type="1">Involve stakeholders: Involve stakeholders from different departments or areas of expertise in the creation of the use case model. This will ensure that all requirements are captured and that the model is comprehensive.</li>
