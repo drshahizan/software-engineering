@@ -116,8 +116,19 @@ This section describe the ideal software process model for this system developme
 - Provide a flowchart or block diagram of the system architecture.
 
 ### 8. Risks Assessment:
-- The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
-- It should also describe the plans and strategies to mitigate those risks.
+A project, programme, or organization's potential risks must be identified, evaluated, and prioritised as part of the risk assessment process. It is a crucial component of risk management, which seeks to reduce the likelihood and effect of prospective dangers. Both quantitative and qualitative ways of expressing the outcomes of this procedure are possible. To help minimise any potential risk-related repercussions, risk assessment is a necessary component of a larger risk management plan. The risk assessments that related to the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) are:
+
+- Security risk: Cyberattacks, data breaches, and hacking could pose security risks to the student housing system. KTDI should put in place robust security measures including firewalls, encryption, and access controls, as well as routine security audits, to reduce this risk.
+
+- Technical risk: Technical problems with the system could include hardware breakdowns, software glitches, and system outages. KTDI should make investments in dependable hardware and software, carry out routine maintenance and updates, and have back-up procedures in place to manage system downtime in order to reduce this risk.
+
+- Financial risk: The Student Accommodation System may be expensive to implement and operate, and it's possible that revenue production won't be enough to cover those costs. To lessen this risk, KTDI should create a reasonable budget and revenue strategy to reduce this risk, and should constantly assess the system's ROI to make sure it is generating enough income to cover its costs.
+
+- User adoption risk: User adoption and engagement are crucial for the system's success. The system may not deliver the desired benefits if staff and students are not using it efficiently. In order to reduce this risk, KTDI should carry out user research to comprehend their requirements and preferences, build the system with the user experience in mind, and offer simple and approachable user documentation and assistance.
+
+- Legal and regulatory risk: Laws and regulations pertaining to data privacy, security, and compliance may apply to the student housing system. KTDI should make sure the system complies with pertinent laws and regulations, put robust data privacy and security measures in place, and give clear instructions for handling user data in order to reduce this risk..
+
+- Reputation risk: The Student Accommodation System may harm KTDI's reputation if it doesn't live up to user expectations or causes unfavourable user experiences. KTDI should make sure the system satisfies strict performance and user experience requirements, and it should have a well-defined communication strategy in place to deal with any potential problems. 
 
 ### 9. Resources:
 - Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
