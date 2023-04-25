@@ -1,0 +1,1045 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "linea";
+  src:url("fonts/linea.eot");
+  src:url("fonts/linea.eot?#iefix") format("embedded-opentype"),
+    url("fonts/linea.woff") format("woff"),
+    url("fonts/linea.ttf") format("truetype"),
+    url("fonts/linea.svg#linea") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "linea" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "linea" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-basic-accelerator:before {
+  content: "a";
+}
+.icon-basic-alarm:before {
+  content: "b";
+}
+.icon-basic-anchor:before {
+  content: "c";
+}
+.icon-basic-anticlockwise:before {
+  content: "d";
+}
+.icon-basic-archive:before {
+  content: "e";
+}
+.icon-basic-archive-full:before {
+  content: "f";
+}
+.icon-basic-ban:before {
+  content: "g";
+}
+.icon-basic-battery-charge:before {
+  content: "h";
+}
+.icon-basic-battery-empty:before {
+  content: "i";
+}
+.icon-basic-battery-full:before {
+  content: "j";
+}
+.icon-basic-battery-half:before {
+  content: "k";
+}
+.icon-basic-bolt:before {
+  content: "l";
+}
+.icon-basic-book:before {
+  content: "m";
+}
+.icon-basic-book-pen:before {
+  content: "n";
+}
+.icon-basic-book-pencil:before {
+  content: "o";
+}
+.icon-basic-bookmark:before {
+  content: "p";
+}
+.icon-basic-calculator:before {
+  content: "q";
+}
+.icon-basic-calendar:before {
+  content: "r";
+}
+.icon-basic-cards-diamonds:before {
+  content: "s";
+}
+.icon-basic-cards-hearts:before {
+  content: "t";
+}
+.icon-basic-case:before {
+  content: "u";
+}
+.icon-basic-chronometer:before {
+  content: "v";
+}
+.icon-basic-clessidre:before {
+  content: "w";
+}
+.icon-basic-clock:before {
+  content: "x";
+}
+.icon-basic-clockwise:before {
+  content: "y";
+}
+.icon-basic-cloud:before {
+  content: "z";
+}
+.icon-basic-clubs:before {
+  content: "A";
+}
+.icon-basic-compass:before {
+  content: "B";
+}
+.icon-basic-cup:before {
+  content: "C";
+}
+.icon-basic-diamonds:before {
+  content: "D";
+}
+.icon-basic-display:before {
+  content: "E";
+}
+.icon-basic-download:before {
+  content: "F";
+}
+.icon-basic-exclamation:before {
+  content: "G";
+}
+.icon-basic-eye:before {
+  content: "H";
+}
+.icon-basic-eye-closed:before {
+  content: "I";
+}
+.icon-basic-female:before {
+  content: "J";
+}
+.icon-basic-flag1:before {
+  content: "K";
+}
+.icon-basic-flag2:before {
+  content: "L";
+}
+.icon-basic-floppydisk:before {
+  content: "M";
+}
+.icon-basic-folder:before {
+  content: "N";
+}
+.icon-basic-folder-multiple:before {
+  content: "O";
+}
+.icon-basic-gear:before {
+  content: "P";
+}
+.icon-basic-geolocalize-01:before {
+  content: "Q";
+}
+.icon-basic-geolocalize-05:before {
+  content: "R";
+}
+.icon-basic-globe:before {
+  content: "S";
+}
+.icon-basic-gunsight:before {
+  content: "T";
+}
+.icon-basic-hammer:before {
+  content: "U";
+}
+.icon-basic-headset:before {
+  content: "V";
+}
+.icon-basic-heart:before {
+  content: "W";
+}
+.icon-basic-heart-broken:before {
+  content: "X";
+}
+.icon-basic-helm:before {
+  content: "Y";
+}
+.icon-basic-home:before {
+  content: "Z";
+}
+.icon-basic-info:before {
+  content: "0";
+}
+.icon-basic-ipod:before {
+  content: "1";
+}
+.icon-basic-joypad:before {
+  content: "2";
+}
+.icon-basic-key:before {
+  content: "3";
+}
+.icon-basic-keyboard:before {
+  content: "4";
+}
+.icon-basic-laptop:before {
+  content: "5";
+}
+.icon-basic-life-buoy:before {
+  content: "6";
+}
+.icon-basic-lightbulb:before {
+  content: "7";
+}
+.icon-basic-link:before {
+  content: "8";
+}
+.icon-basic-lock:before {
+  content: "9";
+}
+.icon-basic-lock-open:before {
+  content: "!";
+}
+.icon-basic-magic-mouse:before {
+  content: "\"";
+}
+.icon-basic-magnifier:before {
+  content: "#";
+}
+.icon-basic-magnifier-minus:before {
+  content: "$";
+}
+.icon-basic-magnifier-plus:before {
+  content: "%";
+}
+.icon-basic-mail:before {
+  content: "&";
+}
+.icon-basic-mail-multiple:before {
+  content: "'";
+}
+.icon-basic-mail-open:before {
+  content: "(";
+}
+.icon-basic-mail-open-text:before {
+  content: ")";
+}
+.icon-basic-male:before {
+  content: "*";
+}
+.icon-basic-map:before {
+  content: "+";
+}
+.icon-basic-message:before {
+  content: ",";
+}
+.icon-basic-message-multiple:before {
+  content: "-";
+}
+.icon-basic-message-txt:before {
+  content: ".";
+}
+.icon-basic-mixer2:before {
+  content: "/";
+}
+.icon-basic-mouse:before {
+  content: ":";
+}
+.icon-basic-notebook:before {
+  content: ";";
+}
+.icon-basic-notebook-pen:before {
+  content: "<";
+}
+.icon-basic-notebook-pencil:before {
+  content: "=";
+}
+.icon-basic-paperplane:before {
+  content: ">";
+}
+.icon-basic-pencil-ruler:before {
+  content: "?";
+}
+.icon-basic-pencil-ruler-pen:before {
+  content: "@";
+}
+.icon-basic-photo:before {
+  content: "[";
+}
+.icon-basic-picture:before {
+  content: "]";
+}
+.icon-basic-picture-multiple:before {
+  content: "^";
+}
+.icon-basic-pin1:before {
+  content: "_";
+}
+.icon-basic-pin2:before {
+  content: "`";
+}
+.icon-basic-postcard:before {
+  content: "{";
+}
+.icon-basic-postcard-multiple:before {
+  content: "|";
+}
+.icon-basic-printer:before {
+  content: "}";
+}
+.icon-basic-question:before {
+  content: "~";
+}
+.icon-basic-rss:before {
+  content: "\\";
+}
+.icon-basic-server:before {
+  content: "\e000";
+}
+.icon-basic-server2:before {
+  content: "\e001";
+}
+.icon-basic-server-cloud:before {
+  content: "\e002";
+}
+.icon-basic-server-download:before {
+  content: "\e003";
+}
+.icon-basic-server-upload:before {
+  content: "\e004";
+}
+.icon-basic-settings:before {
+  content: "\e005";
+}
+.icon-basic-share:before {
+  content: "\e006";
+}
+.icon-basic-sheet:before {
+  content: "\e007";
+}
+.icon-basic-sheet-multiple:before {
+  content: "\e008";
+}
+.icon-basic-sheet-pen:before {
+  content: "\e009";
+}
+.icon-basic-sheet-pencil:before {
+  content: "\e00a";
+}
+.icon-basic-sheet-txt:before {
+  content: "\e00b";
+}
+.icon-basic-signs:before {
+  content: "\e00c";
+}
+.icon-basic-smartphone:before {
+  content: "\e00d";
+}
+.icon-basic-spades:before {
+  content: "\e00e";
+}
+.icon-basic-spread:before {
+  content: "\e00f";
+}
+.icon-basic-spread-bookmark:before {
+  content: "\e010";
+}
+.icon-basic-spread-text:before {
+  content: "\e011";
+}
+.icon-basic-spread-text-bookmark:before {
+  content: "\e012";
+}
+.icon-basic-star:before {
+  content: "\e013";
+}
+.icon-basic-tablet:before {
+  content: "\e014";
+}
+.icon-basic-target:before {
+  content: "\e015";
+}
+.icon-basic-todo:before {
+  content: "\e016";
+}
+.icon-basic-todo-pen:before {
+  content: "\e017";
+}
+.icon-basic-todo-pencil:before {
+  content: "\e018";
+}
+.icon-basic-todo-txt:before {
+  content: "\e019";
+}
+.icon-basic-todolist-pen:before {
+  content: "\e01a";
+}
+.icon-basic-todolist-pencil:before {
+  content: "\e01b";
+}
+.icon-basic-trashcan:before {
+  content: "\e01c";
+}
+.icon-basic-trashcan-full:before {
+  content: "\e01d";
+}
+.icon-basic-trashcan-refresh:before {
+  content: "\e01e";
+}
+.icon-basic-trashcan-remove:before {
+  content: "\e01f";
+}
+.icon-basic-upload:before {
+  content: "\e020";
+}
+.icon-basic-usb:before {
+  content: "\e021";
+}
+.icon-basic-video:before {
+  content: "\e022";
+}
+.icon-basic-watch:before {
+  content: "\e023";
+}
+.icon-basic-webpage:before {
+  content: "\e024";
+}
+.icon-basic-webpage-img-txt:before {
+  content: "\e025";
+}
+.icon-basic-webpage-multiple:before {
+  content: "\e026";
+}
+.icon-basic-webpage-txt:before {
+  content: "\e027";
+}
+.icon-basic-world:before {
+  content: "\e028";
+}
+.icon-ecommerce-bag:before {
+  content: "\e029";
+}
+.icon-ecommerce-bag-check:before {
+  content: "\e02a";
+}
+.icon-ecommerce-bag-cloud:before {
+  content: "\e02b";
+}
+.icon-ecommerce-bag-download:before {
+  content: "\e02c";
+}
+.icon-ecommerce-bag-minus:before {
+  content: "\e02d";
+}
+.icon-ecommerce-bag-plus:before {
+  content: "\e02e";
+}
+.icon-ecommerce-bag-refresh:before {
+  content: "\e02f";
+}
+.icon-ecommerce-bag-remove:before {
+  content: "\e030";
+}
+.icon-ecommerce-bag-search:before {
+  content: "\e031";
+}
+.icon-ecommerce-bag-upload:before {
+  content: "\e032";
+}
+.icon-ecommerce-banknote:before {
+  content: "\e033";
+}
+.icon-ecommerce-banknotes:before {
+  content: "\e034";
+}
+.icon-ecommerce-basket:before {
+  content: "\e035";
+}
+.icon-ecommerce-basket-check:before {
+  content: "\e036";
+}
+.icon-ecommerce-basket-cloud:before {
+  content: "\e037";
+}
+.icon-ecommerce-basket-download:before {
+  content: "\e038";
+}
+.icon-ecommerce-basket-minus:before {
+  content: "\e039";
+}
+.icon-ecommerce-basket-plus:before {
+  content: "\e03a";
+}
+.icon-ecommerce-basket-refresh:before {
+  content: "\e03b";
+}
+.icon-ecommerce-basket-remove:before {
+  content: "\e03c";
+}
+.icon-ecommerce-basket-search:before {
+  content: "\e03d";
+}
+.icon-ecommerce-basket-upload:before {
+  content: "\e03e";
+}
+.icon-ecommerce-bath:before {
+  content: "\e03f";
+}
+.icon-ecommerce-cart:before {
+  content: "\e040";
+}
+.icon-ecommerce-cart-check:before {
+  content: "\e041";
+}
+.icon-ecommerce-cart-cloud:before {
+  content: "\e042";
+}
+.icon-ecommerce-cart-content:before {
+  content: "\e043";
+}
+.icon-ecommerce-cart-download:before {
+  content: "\e044";
+}
+.icon-ecommerce-cart-minus:before {
+  content: "\e045";
+}
+.icon-ecommerce-cart-plus:before {
+  content: "\e046";
+}
+.icon-ecommerce-cart-refresh:before {
+  content: "\e047";
+}
+.icon-ecommerce-cart-remove:before {
+  content: "\e048";
+}
+.icon-ecommerce-cart-search:before {
+  content: "\e049";
+}
+.icon-ecommerce-cart-upload:before {
+  content: "\e04a";
+}
+.icon-ecommerce-cent:before {
+  content: "\e04b";
+}
+.icon-ecommerce-colon:before {
+  content: "\e04c";
+}
+.icon-ecommerce-creditcard:before {
+  content: "\e04d";
+}
+.icon-ecommerce-diamond:before {
+  content: "\e04e";
+}
+.icon-ecommerce-dollar:before {
+  content: "\e04f";
+}
+.icon-ecommerce-euro:before {
+  content: "\e050";
+}
+.icon-ecommerce-franc:before {
+  content: "\e051";
+}
+.icon-ecommerce-gift:before {
+  content: "\e052";
+}
+.icon-ecommerce-graph1:before {
+  content: "\e053";
+}
+.icon-ecommerce-graph2:before {
+  content: "\e054";
+}
+.icon-ecommerce-graph3:before {
+  content: "\e055";
+}
+.icon-ecommerce-graph-decrease:before {
+  content: "\e056";
+}
+.icon-ecommerce-graph-increase:before {
+  content: "\e057";
+}
+.icon-ecommerce-guarani:before {
+  content: "\e058";
+}
+.icon-ecommerce-kips:before {
+  content: "\e059";
+}
+.icon-ecommerce-lira:before {
+  content: "\e05a";
+}
+.icon-ecommerce-megaphone:before {
+  content: "\e05b";
+}
+.icon-ecommerce-money:before {
+  content: "\e05c";
+}
+.icon-ecommerce-naira:before {
+  content: "\e05d";
+}
+.icon-ecommerce-pesos:before {
+  content: "\e05e";
+}
+.icon-ecommerce-pound:before {
+  content: "\e05f";
+}
+.icon-ecommerce-receipt:before {
+  content: "\e060";
+}
+.icon-ecommerce-receipt-bath:before {
+  content: "\e061";
+}
+.icon-ecommerce-receipt-cent:before {
+  content: "\e062";
+}
+.icon-ecommerce-receipt-dollar:before {
+  content: "\e063";
+}
+.icon-ecommerce-receipt-euro:before {
+  content: "\e064";
+}
+.icon-ecommerce-receipt-franc:before {
+  content: "\e065";
+}
+.icon-ecommerce-receipt-guarani:before {
+  content: "\e066";
+}
+.icon-ecommerce-receipt-kips:before {
+  content: "\e067";
+}
+.icon-ecommerce-receipt-lira:before {
+  content: "\e068";
+}
+.icon-ecommerce-receipt-naira:before {
+  content: "\e069";
+}
+.icon-ecommerce-receipt-pesos:before {
+  content: "\e06a";
+}
+.icon-ecommerce-receipt-pound:before {
+  content: "\e06b";
+}
+.icon-ecommerce-receipt-rublo:before {
+  content: "\e06c";
+}
+.icon-ecommerce-receipt-rupee:before {
+  content: "\e06d";
+}
+.icon-ecommerce-receipt-tugrik:before {
+  content: "\e06e";
+}
+.icon-ecommerce-receipt-won:before {
+  content: "\e06f";
+}
+.icon-ecommerce-receipt-yen:before {
+  content: "\e070";
+}
+.icon-ecommerce-receipt-yen2:before {
+  content: "\e071";
+}
+.icon-ecommerce-recept-colon:before {
+  content: "\e072";
+}
+.icon-ecommerce-rublo:before {
+  content: "\e073";
+}
+.icon-ecommerce-rupee:before {
+  content: "\e074";
+}
+.icon-ecommerce-safe:before {
+  content: "\e075";
+}
+.icon-ecommerce-sale:before {
+  content: "\e076";
+}
+.icon-ecommerce-sales:before {
+  content: "\e077";
+}
+.icon-ecommerce-ticket:before {
+  content: "\e078";
+}
+.icon-ecommerce-tugriks:before {
+  content: "\e079";
+}
+.icon-ecommerce-wallet:before {
+  content: "\e07a";
+}
+.icon-ecommerce-won:before {
+  content: "\e07b";
+}
+.icon-ecommerce-yen:before {
+  content: "\e07c";
+}
+.icon-ecommerce-yen2:before {
+  content: "\e07d";
+}
+.icon-music-beginning-button:before {
+  content: "\e029";
+}
+.icon-music-bell:before {
+  content: "\e02a";
+}
+.icon-music-cd:before {
+  content: "\e02b";
+}
+.icon-music-diapason:before {
+  content: "\e02c";
+}
+.icon-music-eject-button:before {
+  content: "\e02d";
+}
+.icon-music-end-button:before {
+  content: "\e02e";
+}
+.icon-music-fastforward-button:before {
+  content: "\e02f";
+}
+.icon-music-headphones:before {
+  content: "\e030";
+}
+.icon-music-ipod:before {
+  content: "\e031";
+}
+.icon-music-loudspeaker:before {
+  content: "\e032";
+}
+.icon-music-microphone:before {
+  content: "\e033";
+}
+.icon-music-microphone-old:before {
+  content: "\e034";
+}
+.icon-music-mixer:before {
+  content: "\e035";
+}
+.icon-music-mute:before {
+  content: "\e036";
+}
+.icon-music-note-multiple:before {
+  content: "\e037";
+}
+.icon-music-note-single:before {
+  content: "\e038";
+}
+.icon-music-pause-button:before {
+  content: "\e039";
+}
+.icon-music-play-button:before {
+  content: "\e03a";
+}
+.icon-music-playlist:before {
+  content: "\e03b";
+}
+.icon-music-radio-ghettoblaster:before {
+  content: "\e03c";
+}
+.icon-music-radio-portable:before {
+  content: "\e03d";
+}
+.icon-music-record:before {
+  content: "\e03e";
+}
+.icon-music-recordplayer:before {
+  content: "\e03f";
+}
+.icon-music-repeat-button:before {
+  content: "\e040";
+}
+.icon-music-rewind-button:before {
+  content: "\e041";
+}
+.icon-music-shuffle-button:before {
+  content: "\e042";
+}
+.icon-music-stop-button:before {
+  content: "\e043";
+}
+.icon-music-tape:before {
+  content: "\e044";
+}
+.icon-music-volume-down:before {
+  content: "\e045";
+}
+.icon-music-volume-up:before {
+  content: "\e046";
+}
+.icon-ecommerce-bag:before {
+  content: "\e047";
+}
+.icon-ecommerce-bag-check:before {
+  content: "\e048";
+}
+.icon-ecommerce-bag-cloud:before {
+  content: "\e049";
+}
+.icon-ecommerce-bag-download:before {
+  content: "\e04a";
+}
+.icon-ecommerce-bag-minus:before {
+  content: "\e04b";
+}
+.icon-ecommerce-bag-plus:before {
+  content: "\e04c";
+}
+.icon-ecommerce-bag-refresh:before {
+  content: "\e04d";
+}
+.icon-ecommerce-bag-remove:before {
+  content: "\e04e";
+}
+.icon-ecommerce-bag-search:before {
+  content: "\e04f";
+}
+.icon-ecommerce-bag-upload:before {
+  content: "\e050";
+}
+.icon-ecommerce-banknote:before {
+  content: "\e051";
+}
+.icon-ecommerce-banknotes:before {
+  content: "\e052";
+}
+.icon-ecommerce-basket:before {
+  content: "\e053";
+}
+.icon-ecommerce-basket-check:before {
+  content: "\e054";
+}
+.icon-ecommerce-basket-cloud:before {
+  content: "\e055";
+}
+.icon-ecommerce-basket-download:before {
+  content: "\e056";
+}
+.icon-ecommerce-basket-minus:before {
+  content: "\e057";
+}
+.icon-ecommerce-basket-plus:before {
+  content: "\e058";
+}
+.icon-ecommerce-basket-refresh:before {
+  content: "\e059";
+}
+.icon-ecommerce-basket-remove:before {
+  content: "\e05a";
+}
+.icon-ecommerce-basket-search:before {
+  content: "\e05b";
+}
+.icon-ecommerce-basket-upload:before {
+  content: "\e05c";
+}
+.icon-ecommerce-bath:before {
+  content: "\e05d";
+}
+.icon-ecommerce-cart:before {
+  content: "\e05e";
+}
+.icon-ecommerce-cart-check:before {
+  content: "\e05f";
+}
+.icon-ecommerce-cart-cloud:before {
+  content: "\e060";
+}
+.icon-ecommerce-cart-content:before {
+  content: "\e061";
+}
+.icon-ecommerce-cart-download:before {
+  content: "\e062";
+}
+.icon-ecommerce-cart-minus:before {
+  content: "\e063";
+}
+.icon-ecommerce-cart-plus:before {
+  content: "\e064";
+}
+.icon-ecommerce-cart-refresh:before {
+  content: "\e065";
+}
+.icon-ecommerce-cart-remove:before {
+  content: "\e066";
+}
+.icon-ecommerce-cart-search:before {
+  content: "\e067";
+}
+.icon-ecommerce-cart-upload:before {
+  content: "\e068";
+}
+.icon-ecommerce-cent:before {
+  content: "\e069";
+}
+.icon-ecommerce-colon:before {
+  content: "\e06a";
+}
+.icon-ecommerce-creditcard:before {
+  content: "\e06b";
+}
+.icon-ecommerce-diamond:before {
+  content: "\e06c";
+}
+.icon-ecommerce-dollar:before {
+  content: "\e06d";
+}
+.icon-ecommerce-euro:before {
+  content: "\e06e";
+}
+.icon-ecommerce-franc:before {
+  content: "\e06f";
+}
+.icon-ecommerce-gift:before {
+  content: "\e070";
+}
+.icon-ecommerce-graph1:before {
+  content: "\e071";
+}
+.icon-ecommerce-graph2:before {
+  content: "\e072";
+}
+.icon-ecommerce-graph3:before {
+  content: "\e073";
+}
+.icon-ecommerce-graph-decrease:before {
+  content: "\e074";
+}
+.icon-ecommerce-graph-increase:before {
+  content: "\e075";
+}
+.icon-ecommerce-guarani:before {
+  content: "\e076";
+}
+.icon-ecommerce-kips:before {
+  content: "\e077";
+}
+.icon-ecommerce-lira:before {
+  content: "\e078";
+}
+.icon-ecommerce-megaphone:before {
+  content: "\e079";
+}
+.icon-ecommerce-money:before {
+  content: "\e07a";
+}
+.icon-ecommerce-naira:before {
+  content: "\e07b";
+}
+.icon-ecommerce-pesos:before {
+  content: "\e07c";
+}
+.icon-ecommerce-pound:before {
+  content: "\e07d";
+}
+.icon-ecommerce-receipt:before {
+  content: "\e07e";
+}
+.icon-ecommerce-receipt-bath:before {
+  content: "\e07f";
+}
+.icon-ecommerce-receipt-cent:before {
+  content: "\e080";
+}
+.icon-ecommerce-receipt-dollar:before {
+  content: "\e081";
+}
+.icon-ecommerce-receipt-euro:before {
+  content: "\e082";
+}
+.icon-ecommerce-receipt-franc:before {
+  content: "\e083";
+}
+.icon-ecommerce-receipt-guarani:before {
+  content: "\e084";
+}
+.icon-ecommerce-receipt-kips:before {
+  content: "\e085";
+}
+.icon-ecommerce-receipt-lira:before {
+  content: "\e086";
+}
+.icon-ecommerce-receipt-naira:before {
+  content: "\e087";
+}
+.icon-ecommerce-receipt-pesos:before {
+  content: "\e088";
+}
+.icon-ecommerce-receipt-pound:before {
+  content: "\e089";
+}
+.icon-ecommerce-receipt-rublo:before {
+  content: "\e08a";
+}
+.icon-ecommerce-receipt-rupee:before {
+  content: "\e08b";
+}
+.icon-ecommerce-receipt-tugrik:before {
+  content: "\e08c";
+}
+.icon-ecommerce-receipt-won:before {
+  content: "\e08d";
+}
+.icon-ecommerce-receipt-yen:before {
+  content: "\e08e";
+}
+.icon-ecommerce-receipt-yen2:before {
+  content: "\e08f";
+}
+.icon-ecommerce-recept-colon:before {
+  content: "\e090";
+}
+.icon-ecommerce-rublo:before {
+  content: "\e091";
+}
+.icon-ecommerce-rupee:before {
+  content: "\e092";
+}
+.icon-ecommerce-safe:before {
+  content: "\e093";
+}
+.icon-ecommerce-sale:before {
+  content: "\e094";
+}
+.icon-ecommerce-sales:before {
+  content: "\e095";
+}
+.icon-ecommerce-ticket:before {
+  content: "\e096";
+}
+.icon-ecommerce-tugriks:before {
+  content: "\e097";
+}
+.icon-ecommerce-wallet:before {
+  content: "\e098";
+}
+.icon-ecommerce-won:before {
+  content: "\e099";
+}
+.icon-ecommerce-yen:before {
+  content: "\e09a";
+}
+.icon-ecommerce-yen2:before {
+  content: "\e09b";
+}

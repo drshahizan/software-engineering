@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!--
+      Lab 16: XXX
+      Group:
+      1. Name: Soh Han Wei, Matrix No: A22Ec0273, Github ID: wei2030
+      2. Name: Bernice Lim Jing Xuan, Matrix No: Matrix No: A22EC0038, Github ID: BerniceLimJX
+      3. Name: Kek Jesslyn, Matrix No: [Matrix Number], Github ID: [Github ID]
+      4. Name: Tan Jun Yuan, Matrix No: [Matrix Number], Github ID: [Github ID]
+  -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <style>
+      body {
+        background-image: linear-gradient(to top, #15e8be, #c1e5df);
+        background-repeat: no-repeat;
+        background-position: cover;
+        height: 1000px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      }
+
+      .login-box {
+        text-align: center;
+        background-color: #457369;
+        color: #fff;
+        width: 450px;
+        height: 400px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 200px;
+        border-radius: 15px;
+        padding: 30px;
+      }
+
+      .login-box h2 {
+        margin-top: 0;
+        margin-bottom: 50px;
+      }
+
+      .user-box {
+        position: relative;
+      }
+
+      .user-box input {
+        width: 90%;
+        padding: 10px 0;
+        border: none;
+        border-bottom: 0.5px solid #fff;
+        outline: none;
+        background-color: transparent;
+        color: #fff;
+        font-size: 18px;
+        margin-bottom: 20px;
+      }
+
+      .user-box label {
+        position: absolute;
+        top: 5px;
+        left: 25px;
+        padding: 10px 0;
+        pointer-events: none;
+        transition: 0.2s;
+        font-size: 16px;
+      }
+
+      .user-box input:focus ~ label, 
+      .user-box input:valid ~ label {
+        top: -15px;
+        left: 25px;
+        color: #03e9f4;
+        font-size: 12px;
+      }
+
+      a {
+        text-decoration: none;
+        color: #03e8f3;
+        font-size: 18px;
+        letter-spacing: 3px;
+        display: block;
+        width: 100px;
+        text-align: center;
+        margin-top: 100px;
+        margin-left: 20px;
+        padding: 15px 30px 15px 30px;
+        transition: background-color 0.2s;
+      }
+
+      a:hover {
+        background-color: #03e9f4;
+        color: #fff;
+        box-shadow: 0 0 20px #fff;
+        letter-spacing: 5px;
+        font-size: 21px;
+        border-radius: 7px;
+      }
+    </style>
+    
+  </head>
+  <body>
+    <div class="login-box">
+      <h2>Login</h2>
+      <form>
+        <div class="user-box">
+          <input type="text" name="" required="" />
+          <label>Username</label>
+        </div>
+        <div class="user-box">
+          <input type="password" name="" required="" />
+          <label>Password</label>
+        </div>
+        <a href="#">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          SUBMIT
+        </a>
+      </form>
+    </div>
+  </body>
+</html>

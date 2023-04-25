@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!--
+    Lab 16: Form Layout 
+    Group: SEHC
+    1. Name: LIM JING YONG, Matrix No: A22EC0182, Github ID: Jingyong14
+    2. Name: YEOH CHONG YI, Matrix No: A22EC0295, Github ID: yChongyi
+    3. Name: JASLENE YU, Matrix No: A22EC0171, Github ID: jaslene-u
+    4. Name: JOSEPH LAU YEO KAI, Matrix No: A22EC0055, Github ID: josephlau2003
+    -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      body {
+        background-image: url(mal3.jpeg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      a {
+        text-decoration: none;
+        color: white;
+      }
+
+      ul {
+        position: absolute;
+        right: 4%;
+        top: 4%;
+        list-style: none;
+        display: flex;
+      }
+
+      li {
+        margin-right: 50px;
+      }
+      
+      .container {
+        display: grid;
+        grid-template-rows: auto auto;
+      }
+
+      h2 {
+        padding-left: 30px;
+        font-size: 90%;
+      }
+
+      .btn {
+        padding: 9px;
+        border: 2px solid red;
+        color: red;
+      }
+
+      .cover {
+        margin-top: 15%;
+        text-align: center;
+        color: red;
+      }
+
+      input {
+        border:none;
+        padding: 9px;
+      }
+
+      input[type="search"] {
+        width: 350px;
+        padding: 15px;
+        margin: 0;
+      }
+
+      input[type="submit"] {
+        background-color: rgb(249, 91, 91);
+        color:white;
+        width: 80px;
+        margin:0;
+      }
+      
+      .flex-form {
+        display: flex;
+        justify-content: center;
+      } 
+
+      h1 {
+        font-size: 250%;
+      }
+
+      .btn:hover {
+        background-color: rgb(249, 91, 91);
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h2>
+          <a href="#"><i class="ion-plane"></i> UTMtravel</a>
+        </h2>
+        <nav>
+          <ul>
+            <li>
+                <a class="btn" href="#" title="Register / Log In"
+                  >Register/Log In</a
+                >
+              </li>
+            <li>
+              <a href="#" title="Hotels">Hotels</a>
+            </li>
+            <li>
+              <a href="#" title="Flights">Flights</a>
+            </li>
+            <li>
+              <a href="#" title="Tours">Tours</a>
+            </li>
+            
+          </ul>
+        </nav>
+      </header>
+
+      <div class="cover">
+        <h1>Discover what's out there.</h1>
+        <form class="flex-form">
+          <label for="from">
+            <i class="ion-location"></i>
+          </label>
+          <input type="search" placeholder="Where do you want to go?" />
+          <input type="submit" value="Search" />
+        </form>
+       
+      </div>
+    </div>
+  </body>
+</html>

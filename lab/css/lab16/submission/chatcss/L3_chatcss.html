@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lab 3: Login Page</title>
+    <!--
+    Lab 11: chatcss
+    Group:
+    1. Name: CAMILY TANG JIA LEI, Matrix No: A22EC0039, Github ID: camilytang
+    2. Name: CHAI YU TONG, Matrix No: A22EC0145, Github ID: Yutongchai
+    3. Name: MUHAMMAD DANIAL BIN AHMAD SYAHIR, Matrix No: A22EC0206, Github ID: daniallllllll
+    4. Name: NEO ZHENG WENG, Matrix No: A2EC0093, Github ID: zw-weng
+    -->
+    <style>
+    body {
+      background-image: linear-gradient(to bottom, #9decdb, #35cfb3);
+      font-family: sans-serif;
+    }
+
+    .login-box {
+      background-color: rgb(35, 134, 119);
+      border-radius: 8px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+      max-width: 300px;
+      max-height: 350px;
+      margin: 50px auto;
+      padding: 30px;
+    }
+
+    .login-box h2 {
+      margin: 0 0 30px;
+      text-align: center;
+      color: white;
+    }
+
+    .user-box {
+      position: relative;
+    }
+
+    .user-box input {
+      width: 100%;
+      padding: 10px 0;
+      font-size: 16px;
+      color: #ffffff;
+      margin-bottom: 30px;
+      border: none;
+      border-bottom: 0.5px solid #cbbdbd;
+      outline: none;
+      background-color: transparent;
+    }
+
+    .user-box label {
+      position: absolute;
+      top: 0;
+      left: 0;
+      padding: 10px 0;
+      font-size: 16px;
+      color: #ffffff;
+      pointer-events: none;
+      transition: 0.5s;
+    }
+
+    .user-box input:focus ~ label,
+    .user-box input:valid ~ label {
+      top: -20px;
+      left: 0;
+      color: rgb(27, 199, 164);
+      font-size: 12px;
+    }
+
+    .login-box form a {
+      display: inline-block;
+      color: rgb(74, 234, 223);
+      margin-top: 10px;
+      padding-left: 30px;
+      padding-bottom: 30px;
+      text-decoration: none;
+      transition: background-color 0.5s;
+    }
+
+    .login-box form a:hover {
+      background-color: #13e1de;
+      color: white;
+      box-shadow: 0 0 30px white;
+      padding-left: 40px;
+      padding-bottom: 20px;
+      padding-right: 40px;
+      padding-top: 20px;
+      margin-top: 0px;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <div class="login-box">
+    <h2>Login</h2>
+    <form>
+      <div class="user-box">
+        <input type="text" name="username" required />
+        <label for="username">Username</label>
+      </div>
+      <div class="user-box">
+        <input type="password" name="password" required />
+        <label for="password">Password</label>
+      </div>
+      <a href="#">S U B M I T</a>
+    </form>
+  </div>
+</body>
+</html>
