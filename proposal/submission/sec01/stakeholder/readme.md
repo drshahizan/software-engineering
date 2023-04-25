@@ -55,31 +55,31 @@ The student accommodation system features offer significant benefits for the uni
 ### 3. Objectives:
 Our proposed student accommodation system aims to achieve the following objectives:
 
-1. Specific: Create an automated system for home allocation that cuts the time needed by 50%.
-Measurable: To determine the reduction in allocation time, do a time audit before and after the new process is implemented.
-Achievable: Work together to establish the automated housing allocation procedure with the university's IT division.
-Relevant: The objective supports streamlining and enhancing efficiency in the housing allocation procedure.
-Time-bound: The objective will be achieved within the first year of the project.
+1. **Specific:** Create an automated system for home allocation that cuts the time needed by 50%.<br>
+**Measurable:** To determine the reduction in allocation time, do a time audit before and after the new process is implemented.<br>
+**Achievable:** Work together to establish the automated housing allocation procedure with the university's IT division.<br>
+**Relevant:** The objective supports streamlining and enhancing efficiency in the housing allocation procedure.<br>
+**Time-bound:** The objective will be achieved within the first year of the project.
 
-2. Specific: By applying data analysis to guide housing distribution choices, occupancy rates can be raised by 10%.
-Measurable: Keep track of the occupancy rates before and after the new system is put in place to gauge the growth.
-Achievable: In order to inform future allocation decisions, gather and analyse data on housing allocation trends.
-Relevant: The utilisation of available housing will improve with higher occupancy rates, which will also lessen the requirement for interim housing.
-Time-bound: The objective will be achieved within the first two years of the project.
+2. **Specific:** By applying data analysis to guide housing distribution choices, occupancy rates can be raised by 10%.<br>
+**Measurable:** Keep track of the occupancy rates before and after the new system is put in place to gauge the growth.<br>
+**Achievable:** In order to inform future allocation decisions, gather and analyse data on housing allocation trends.<br>
+**Relevant:** The utilisation of available housing will improve with higher occupancy rates, which will also lessen the requirement for interim housing.<br>
+**Time-bound:** The objective will be achieved within the first two years of the project.
 
-3. Specific: Install a maintenance tracking system that cuts the time it takes to respond to maintenance requests by 50%.
-Measurable: To gauge the decrease in response time, perform a time audit before and after the new system is implemented.
-Achievable: Create and put into use a system for tracking maintenance that increases the effectiveness of the maintenance procedure.
-Relevant: Enhancing the maintenance procedure will improve student satisfaction and lessen disruption brought on by maintenance problems.
-Time-bound: The objective will be achieved within the second year of the project.
+3. **Specific:** Install a maintenance tracking system that cuts the time it takes to respond to maintenance requests by 50%.<br>
+**Measurable:** To gauge the decrease in response time, perform a time audit before and after the new system is implemented.<br>
+**Achievable:** Create and put into use a system for tracking maintenance that increases the effectiveness of the maintenance procedure.<br>
+**Relevant:** Enhancing the maintenance procedure will improve student satisfaction and lessen disruption brought on by maintenance problems.<br>
+**Time-bound:** The objective will be achieved within the second year of the project.
 
-4. Specific: 20% more students will be generally satisfied with the housing allocation procedure.
-Measurable: To gauge the rise in satisfaction, survey the students both before and after the new system is put into place.
-Achievable: To increase efficiency and accuracy, implement a user-friendly interface and automate the housing allocation procedure.
-Relevant: The whole student experience will be improved, and retention rates will rise, if the housing distribution procedure is more satisfactorily handled.
-Time-bound: The objective will be achieved within the first three years of the project.
+4. **Specific:** 20% more students will be generally satisfied with the housing allocation procedure.<br>
+**Measurable:** To gauge the rise in satisfaction, survey the students both before and after the new system is put into place.<br>
+**Achievable:** To increase efficiency and accuracy, implement a user-friendly interface and automate the housing allocation procedure.<br>
+**Relevant:** The whole student experience will be improved, and retention rates will rise, if the housing distribution procedure is more satisfactorily handled.<br>
+**Time-bound:** The objective will be achieved within the first three years of the project.
 
-These SMART objectives for our introduced student accommodation system in KTDI are all relevant, specific, measurable, achievable, and time-bound. They offer a clear road map for reaching the intended results and are in line with the project's goals and objectives.
+These SMART objectives for our introduced student accommodation system in KTDI are all specific, measurable, achievable, relevant and time-bound. They offer a clear road map for reaching the intended results and are in line with the project's goals and objectives.
 
 ### 4. Scope: 
 The scope of the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) refers to the boundaries or limits of the project, defining what elements the system will and won't have. It outlines the features and functionalities of the system, including its goals, objectives, and requirements, as well as the expected outcomes and benefits. Here are more detailed explanations of the features and functionality of a student accommodation system:
