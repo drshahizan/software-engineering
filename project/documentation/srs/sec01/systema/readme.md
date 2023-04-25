@@ -16,20 +16,24 @@ Don't forget to hit the :star: if you like this repo.
     <th>Role</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
+    <td>1 Bernice Lim Jing Xuan</td>
+    <td>Main Developer | Quality Assurance Engineer</td>
   </tr>
   <tr>
-    <td>2</td>
-    <td></td>
+    <td>2 Chai Yu Tong</td>
+    <td> Business Analyst | UI Designe</td>
   </tr>
     <tr>
-    <td>3</td>
-    <td></td>
+    <td>3 Kek Jesslyn</td>
+    <td> Support Engineer | Data Analyst</td>
   </tr>
     <tr>
-    <td>4</td>
-    <td></td>
+    <td>4 Wong Qiao Ying</td>
+    <td>Security Specialist | DevOps Engineer</td>
+  </tr>
+  <tr>
+    <td>5 Yeoh Chong Yi</td>
+    <td>Technical Writer | UX Designer </td>
   </tr>
 </table>
 
