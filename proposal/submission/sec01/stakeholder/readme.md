@@ -35,7 +35,7 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ### 1. Executive Summary:
-The Student Accommodation System proposal for Kolej Tun Dr Ismail (KTDI) is aimed at addressing the challenges that students and staff face when managing student accommodation. The current process for applying for and managing accommodation is manual and time-consuming, which can result in delays, errors, and frustration for students and staff alike.
+The Student Accommodation System proposal for Kolej Tun Dr Ismail (KTDI) is aimed at addressing the challenges that students and staff face when managing student accommodation. The current process for applying for and managing accommodation is unintegrated and time-consuming, which can result in delays, errors, and frustration for students and staff alike.
 
 To address these challenges, the proposed software system will provide an online platform that allows students to apply for accommodation, make payments, and track the status of their application. KTDI staff will be able to manage room availability and allocation, communicate with students, and access relevant data and reports through a centralized dashboard.
 
@@ -44,7 +44,7 @@ The system will be designed to be user-friendly and accessible, with clear instr
 The expected outcomes of the project include improved student satisfaction, as the software system will provide a more convenient and streamlined process for managing accommodation. KTDI staff will also benefit from increased efficiency, as the system will reduce the need for manual data entry and administrative tasks. Finally, the system is expected to reduce errors and delays in the accommodation management process, resulting in a more reliable and efficient system overall.
 
 ### 2. Background:
-The student accommodation system is an essential aspect of managing student life on a university campus. It automates the process of assigning student room and ensures that students are placed in suitable accommodations that meet their needs and preferences. The system is vital in providing a comfortable and safe living environment for students, promoting their academic success and overall well-being. However, the current manual and unorganised system in KTDI can be time-consuming, prone to error and inconsistencies, leading to inefficiencies in the room application and management process and a poor user experience for both students and administrators.
+The student accommodation system is an essential aspect of managing student life on a university campus. It automates the process of assigning student room and ensures that students are placed in suitable accommodations that meet their needs and preferences. The system is vital in providing a comfortable and safe living environment for students, promoting their academic success and overall well-being. However, the current unintegrated and unorganised system in KTDI can be time-consuming, prone to error and inconsistencies, leading to inefficiencies in the room application and management process and a poor user experience for both students and administrators.
 
 Our proposed student accommodation system is focused to overcome these challenges via devloping a modern, spontaneous automated system that streamline the room rentaling and managing process. To provide students, staff, and administrators with a seamless user experience, the proposed system makes advantage of the most recent technology and best practises. The developed system will provide an efficient and effective way for students to apply for hostel online based on their selections and for administrators to allocate housing quickly and accurately.
 
@@ -53,16 +53,33 @@ The key features of this system include a user-friendly interface that integrate
 The student accommodation system features offer significant benefits for the university community, with the potential to impact the accommodation allocation process positively. The automation of the allocation process will increase efficiency, save time, and eliminate errors that often occur during manual allocation. The online application process will simplify the application process for students, creating a better user experience. The data analysis capabilities will allow administrators to make informed decisions about future housing allocation, resulting in a more strategic and effective approach. The enhanced security measures will protect students' personal information, improving privacy and security. The maintenance system will ensure the hostel remains well-maintained, creating a comfortable and safe living environment for students. Overall, the student accommodation system features will improve the quality of the accommodation allocation process, streamline processes, improve the student experience, and enhance the reputation of the university.
 
 ### 3. Objectives:
-- To develop a website that will make it simple for KTDI students to look for and reserve available housing inside the college.
-- To offer KTDI administration a safe and user-friendly method to manage their student housing facilities and room allocations.
-- To automate procedures including student applications, room allocations, and room transfers in order to streamline the room allocation process.
-- To make it easier for students to communicate with the KTDI management by using the platform's message feature.
-- By putting in place a mechanism for student feedback and evaluations of the housing facilities and services offered by KTDI, it will be possible to ensure accountability and openness.
-- To provide a system that offers current availability and cost details to assist students in making knowledgeable lodging decisions.
-- To expand the platform's capabilities and audience, interface it with outside services like social media networks, payment gateways, and map APIs.
-- To guarantee adherence to pertinent rules and data protection legislation during the platform's development and operation.
-- To upgrade the platform frequently and incorporate user feedback to make it better.
-- To develop a successful business model that makes money from booking commissions or other forms of monetization that may be used to pay for future initiatives and projects of KTDI.
+Our proposed student accommodation system aims to achieve the following objectives:
+
+1. Specific: Create an automated system for home allocation that cuts the time needed by 50%.
+Measurable: To determine the reduction in allocation time, do a time audit before and after the new process is implemented.
+Achievable: Work together to establish the automated housing allocation procedure with the university's IT division.
+Relevant: The objective supports streamlining and enhancing efficiency in the housing allocation procedure.
+Time-bound: The objective will be achieved within the first year of the project.
+
+2. Specific: By applying data analysis to guide housing distribution choices, occupancy rates can be raised by 10%.
+Measurable: Keep track of the occupancy rates before and after the new system is put in place to gauge the growth.
+Achievable: In order to inform future allocation decisions, gather and analyse data on housing allocation trends.
+Relevant: The utilisation of available housing will improve with higher occupancy rates, which will also lessen the requirement for interim housing.
+Time-bound: The objective will be achieved within the first two years of the project.
+
+3. Specific: Install a maintenance tracking system that cuts the time it takes to respond to maintenance requests by 50%.
+Measurable: To gauge the decrease in response time, perform a time audit before and after the new system is implemented.
+Achievable: Create and put into use a system for tracking maintenance that increases the effectiveness of the maintenance procedure.
+Relevant: Enhancing the maintenance procedure will improve student satisfaction and lessen disruption brought on by maintenance problems.
+Time-bound: The objective will be achieved within the second year of the project.
+
+4. Specific: 20% more students will be generally satisfied with the housing allocation procedure.
+Measurable: To gauge the rise in satisfaction, survey the students both before and after the new system is put into place.
+Achievable: To increase efficiency and accuracy, implement a user-friendly interface and automate the housing allocation procedure.
+Relevant: The whole student experience will be improved, and retention rates will rise, if the housing distribution procedure is more satisfactorily handled.
+Time-bound: The objective will be achieved within the first three years of the project.
+
+These SMART objectives for our introduced student accommodation system in KTDI are all relevant, specific, measurable, achievable, and time-bound. They offer a clear road map for reaching the intended results and are in line with the project's goals and objectives.
 
 ### 4. Scope: 
 The scope of the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) refers to the boundaries or limits of the project, defining what elements the system will and won't have. It outlines the features and functionalities of the system, including its goals, objectives, and requirements, as well as the expected outcomes and benefits. Here are more detailed explanations of the features and functionality of a student accommodation system:
@@ -158,10 +175,6 @@ In general, it's crucial to recognise and reduce these risks if we want the KTDI
 - Explain the quality assurance and testing procedures that will be followed.
 
 ### 12. Conclusion:
-- Conclude your proposal with a call to action, highlighting the benefits of your proposed solution and urging the decision-makers to take action.
-- Summarize the proposal and reiterate the importance of the project.
-- Mention any potential limitations or challenges that may arise during the project.
-- Provide a call to action for the client to approve the proposal and proceed with the project.
 
 In conclusion, the suggested Student Accommodation System is a crucial remedy for Kolej Tun Dr Ismail (KTDI) staff and student problems in handling student housing. The technology intends to improve data analytics, automate processes, streamline the room allocation process, and give students a better user experience. The suggested technique has the advantages of better student satisfaction, enhanced staff productivity, and an overall more dependable and effective system.
 
