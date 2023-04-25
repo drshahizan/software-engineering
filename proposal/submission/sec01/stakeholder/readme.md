@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-#  Proposal Template
+#  Proposal
 
 ## Student Accommodation System in Kolej Tun Dr Ismail (KTDI)
 
@@ -116,12 +116,35 @@ By defining the scope of the project, the project team can establish the foundat
 
 
 ### 5. Software Process Model:
-This section describe the ideal software process model for this system development. The write-up must consist of:
-- Explanation of the goal of the software process model.
-- Choose the ideal software process model and give justification.
-- The illustration of chosen software process model that relates to your project and shows every phase involved in the chosen software process model
-- Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. 
-- It should also describe the testing methodologies, project management practices, and quality assurance processes.
+- ***Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. ***
+  
+The software process model's goal is to offer a structured and well-organized method for developing software. It aids in making certain that the software is delivered on schedule, within budget, and in accordance with the needs and expectations of the stakeholders.
+  
+The ideal software process model to be implemented in this project is Agile methodology. This is because of the Agile methodology is an iterative and incremental software development approach that emphasizes flexibility, collaboration, and continuous customer feedback. Besides, the Agile methodology is well-suited for developing software applications where requirements can change frequently, and the development team needs to be able to respond to those changes quickly.
+
+<p align="center"><img src="https://i0.wp.com/mobile-jon.com/wp-content/uploads/2021/04/Agile-Methodology.jpg?fit=1920%2C1080&ssl=1" width="700px" height="350px"></p>
+
+Here is a breakdown of how the Agile methodology can be applied as a software process model for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI):
+
+1. Planning Phase: In this phase, the development team works with the client to identify the project scope, goals, and objectives. They define the project timeline and milestones, identify project risks, and allocate project resources appropriately. They create a sprint plan for the first iteration and identify the user stories and product backlog items that will be worked on in that sprint.
+
+2. Requirements Gathering Phase: In this phase, the business analyst works with the client to identify and prioritize user requirements. They develop user stories and create the product backlog items. They identify acceptance criteria for each user story and break down user stories into smaller tasks, which are then added to the sprint backlog. The development team and the client then meet to review and finalize the sprint backlog.
+
+3. Design Phase: In this phase, the technical lead works with the development team to develop a high-level design of the system. They identify and design the database schema, create detailed design documents, and develop wireframes and prototypes for the user interface. The design is reviewed with the development team and the client, and any necessary changes are made.
+
+4. Development Phase: In this phase, the development team develops and tests the software components according to the sprint backlog. They conduct code reviews to ensure code quality, write unit tests, and perform unit testing. They update code documentation and conduct daily stand-up meetings to discuss progress, address any issues or roadblocks, and plan for the next day.
+
+5. Testing Phase: In this phase, the quality assurarance (QA) engineer works with the development team to develop a test plan and test cases. They conduct functional, integration, and acceptance testing, report and track defects using a bug tracking tool, and ensure the software meets the acceptance criteria. The development team and the client meet to review the test results and identify any necessary changes.
+
+6. Deployment Phase: In this phase, the project manager works with the development team to deploy the software to the production environment. They conduct final testing and ensure that the software meets the client's needs and expectations. They train the client on how to use the software and provide ongoing support as needed.
+  
+7. Review Phase: In the review phase, the development team and the client review the completed software to ensure that it meets the acceptance criteria and user requirements. This phase involves continuous feedback from the client to make sure that the final product is aligned with their expectations.
+
+8. Launch Phase: In the launch phase, the final product is deployed to the production environment. This phase involves final testing and quality assurance to ensure that the software is stable and functional in the production environment.
+  
+To assure the quality and functionality of the system, many testing methodologies are employed in this project, including unit testing, integration testing, system testing, acceptance testing, and usability testing. Project management techniques leverage technologies like Kanban boards, sprint planning and regular stand-up meetings to track progress and guarantee task completion on time. To maintain code quality and reduce errors, quality assurance procedures like code review, continuous integration and automated testing are used. These procedures are essential for ensuring the effective deployment and operation of the KTDI system for student accommodation.
+
+Overall, the Agile methodology is an effective software process model for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) because it emphasizes flexibility, collaboration, and continuous customer feedback. It allows the development team to respond quickly to changes in requirements and deliver high-quality software in shorter development cycles.
 
 ### 6. Budget:
 - The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
@@ -131,6 +154,8 @@ This section describe the ideal software process model for this system developme
 - Explain how the data will be stored, managed, and analyzed, as well as the hardware and software requirements needed to support the system.
 - Discuss the tools and frameworks that will be used for data visualization and analysis.
 - Provide a flowchart or block diagram of the system architecture.
+  
+The proposed student accommodation system will follow a three-tier architecture, with a presentation layer, application layer, and database layer.
 
 ### 8. Risks Assessment:
 A project, programme, or organization's potential risks must be identified, evaluated, and prioritised as part of the risk assessment process. It is a crucial component of risk management, which seeks to reduce the likelihood and effect of prospective dangers. Both quantitative and qualitative ways of expressing the outcomes of this procedure are possible. To help minimise any potential risk-related repercussions, risk assessment is a necessary component of a larger risk management plan. The risk assessments that related to the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) are:
