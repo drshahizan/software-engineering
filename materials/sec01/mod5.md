@@ -317,17 +317,43 @@ details such as whether the person paid for a lunch or when the person registere
   
 ### 3. BEHAVIORAL MODEL
 ### Activity Diagram
+Activity diagrams are “OO flowcharts” that allow us to model a process as a collection of activities and transitions
+between those activities
+  <li>Activity diagrams are really just special cases of statecharts where every state has an entry action that specifies some process or function that occurs when the state is entered </li>
+  <li>An activity diagram can be attached to any modeling element for the purpose of modeling the behavior of that element at different abstraction levels</li>
+  <li>-Activity diagrams are typically attached to: use cases, classes, interfaces, components, nodes, collaborations, operations and methods</li>
 #### -Definition and purpose of activity diagrams
+  
 #### -Techniques for creating activity diagrams (e.g. actions, transitions, branches)
+  <p>1.Transitions indicates movements from one point to another.</p>
+  <p>A transition is represented by an arrow that connects the two activities, with a label indicating the conditions under which the transition can occur.Transitions  can have different types of conditions associated with them, including:
+  <li>Guard conditions: These are Boolean expressions that specify under what conditions the transition can occur. For example, a guard condition might specify that the transition can only occur if a certain value is greater than a certain threshold.</li>
+  <li>Events: Events are signals that trigger the transition. For example, an event might be the completion of a certain activity or the receipt of a message.</li>
+  <li>Timeouts: Timeouts specify a maximum time period during which the transition can occur. For example, a timeout might specify that the transition must occur within 5 seconds of the completion of the previous activity.<li>
+  By using transitions in an activity diagram, you can model the flow of activities and the relationships between them, making it clear how the process should be executed.</p>
+  <p align='center'><img src="https://cdn-images.visual-paradigm.com/guide/uml/state-machine-diagram-vs-activity-diagram/01-state-machine-diagram-vs-activity-diagram.png" alt="State Machine Diagram vs Activity Diagram"></p>
+  <p>2.</p>
+  <p>3.</p>
+  <p>4.</p>
+  <p>5.</p>
 #### -Best practices for creating effective activity diagrams
+  
 ### Sequence Diagram
+  
 #### -Definition and purpose of sequence diagrams
+  
 #### -Techniques for creating sequence diagrams (e.g. actors, objects, messages)
+  
 #### -Best practices for creating effective sequence diagrams
+  
 ### State Chart/State Machine Diagram
+  
 #### -Definition and purpose of state chart/state machine diagrams
+  
 #### -Techniques for creating state chart/state machine diagrams (e.g. states, events, transitions)
+  
 #### -Best practices for creating effective state chart/state machine diagrams
+  
 
 ---
 
