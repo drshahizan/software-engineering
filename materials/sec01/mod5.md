@@ -193,18 +193,20 @@ By creating a class diagram based on the domain model, software developers can e
 
 - #### Relationships
 1. Association:
-  An association is the basic relationship between two entities. These entities can exist independently of each other. We draw it as a simple solid line.
+An association is the basic relationship between two entities. These entities can exist independently of each other. We draw it as a simple solid line.
 
-  Let's take an example of Car and Driver as a simple association between two entities. The relationship would be drawn as follows:
+Let's take an example of Car and Driver as a simple association between two entities. The relationship would be drawn as follows:
 <p align="center"><img src="https://www.ictdemy.com/images/1/uml/uml_association.png"></p>
 
-  The association is bi-directional by default. That means that the first entity has a reference to the other, and the other to the first. We can change this behavior by adding a simple arrow specifying the direction of the relationship. Only the instance from which the arrow points stores the reference to the other entity in these cases. It's possible to create an association even among three classes.
+The association is bi-directional by default. That means that the first entity has a reference to the other, and the other to the first. We can change this behavior by adding a simple arrow specifying the direction of the relationship. Only the instance from which the arrow points stores the reference to the other entity in these cases. It's possible to create an association even among three classes.
   
-2. 
+2. Aggeragation:<br>
+Aggregation represents the relationship between a whole and its parts. We draw it as a solid line with an empty diamond shape. The diamond is drawn at the class representing the whole (e.g. an article section). From the implementation point of view, this is the entity that holds the item collection. An entity representing the part can exist independently and be part of other collections.
 
+A section containing articles mentioned above could be an example of aggregation. The numbers at each end of the line specify the multiplicity. It this case, that the section contains any number of articles and the article belongs to at least 1 section.
+<p align="center"><img src="https://www.ictdemy.com/images/1/uml/uml_aggregation.png"></p>
 
-
-  
+3. 
 - ### Best Practices for Creating Effective Domain Models
 Domain modeling is the process of creating a conceptual representation of a domain that captures the essential aspects of the domain and provides a foundation for software development. An effective domain model is essential for building high-quality software that meets the needs of its users. Here are some best practices for creating effective domain models:
 
