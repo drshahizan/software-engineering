@@ -227,7 +227,7 @@ The first part holds the name of the class, the second one contains the attribut
 The classes are connected to each other by relationships.
 
 - #### Relationships
-<ul>1. Association:
+<ul>1. Association:<br>
 An association is the basic relationship between two entities. These entities can exist independently of each other. We draw it as a simple solid line. Let's take an example of Car and Driver as a simple association between two entities. The relationship would be drawn as follows:
 <p align="center"><img src="https://www.ictdemy.com/images/1/uml/uml_association.png"></p>
 
@@ -310,7 +310,7 @@ Association class is a class that mediates the relationship between two entities
 details such as whether the person paid for a lunch or when the person registered to the trip. Person and Hotel could be another example. The hotel sets no fixed time of arrival and is ordered by a particular person. A similar class could, for example, be between an employee and a firm to carry the employee's salary. Another use may be to create the M:N (many to many) relationship, similar to the one used in databases. The association class would hold a collection of references in this case. However, using an association class can be sometimes misleading, and if you're not sure, avoid it.
 <p align="center"><img src="https://www.ictdemy.com/images/1/uml/uml_association_class.png"></p>
   
-- #### Example
+- #### Example of Class Diagram
   <p align="center"><img src="https://www.ictdemy.com/images/1/uml/uml_class_diagram.png"></p>
 
 ---
