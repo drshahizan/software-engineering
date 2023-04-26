@@ -71,8 +71,8 @@ Overall, requirements analysis and modeling are critical for the success of soft
 ---
 
 ## II. Part I: Requirements Modeling Concept
-## A. Understanding the Concept of Requirements Modeling
-- ### What is UML Diagram & How it related to Requirements Modeling?
+### A. Understanding the Concept of Requirements Modeling
+- #### What is UML Diagram & How it related to Requirements Modeling?
   
 UML (Unified Modeling Language) diagram is a graphical representation of software systems, and it can be used for many purposes in software development, including requirement modeling. In requirement modeling, UML diagrams are used to visualize and document the requirements of a software system.
 
@@ -92,7 +92,7 @@ There are several types of UML diagrams that can be used for requirement modelin
 
 UML diagrams are an important tool in requirement modeling because they help to ensure that all stakeholders have a common understanding of the system requirements. They also provide a clear and concise way to communicate the requirements to the development team, which can help to avoid misunderstandings and ensure that the system is developed according to the requirements.
 
-- ### Importance of Requirements Modeling in Software Development
+- #### Importance of Requirements Modeling in Software Development
 Requirements modeling is a critical phase in software development that involves creating a detailed description of the desired behavior and functionality of the software system to be developed. Here are some key reasons why requirements modeling is essential in software development:
 
 1. Establishing a common understanding: The process of requirements modeling helps establish a common understanding of the software system to be developed among all stakeholders. This includes the development team, customers, end-users, and other stakeholders. By creating a clear and comprehensive set of requirements, everyone involved in the project can have a shared understanding of what the software system should do.
@@ -107,7 +107,7 @@ Requirements modeling is a critical phase in software development that involves 
 
 <p align="center"><img src= "https://cs.ccsu.edu/~stan/classes/CS410/Notes16/images/05-activity_diagram_involuntary_detention.png" width="600px" height="300px"></p>
 
-- ### Key Characteristics of Effective Requirements Models
+- #### Key Characteristics of Effective Requirements Models
 Effective requirements models are characterized by the following key characteristics:
 
 1. Clarity: The requirements model should be clear and concise, with unambiguous language and terminology that can be easily understood by all stakeholders. Ambiguous or unclear requirements can lead to misunderstandings and confusion, which can impact project success.
@@ -128,13 +128,13 @@ Overall, effective requirements models should be clear, complete, consistent, ve
 
 ---
 
-## B. Techniques for Requirements Modeling
+### B. Techniques for Requirements Modeling
 ### 1. INTERACTION MODEL
 ### Use Case Modeling
 
 - [Use Case Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/)
 
-- ### Definition and Purpose
+- #### Definition and Purpose
 Use case modeling and specification is a technique used in software development to capture the functional requirements of a system by identifying and describing its interactions with actors, which could be users, other systems, or external entities.
 
 Use case modeling involves identifying the different use cases or scenarios that a user or system might encounter when interacting with the software. Each use case is described in terms of the steps or actions that the actor takes and the responses or outcomes of the system.
@@ -143,7 +143,7 @@ Use case specification involves documenting the use cases in detail, including t
 
 The purpose of use case modeling and specification is to ensure that the software meets the needs of the users or stakeholders, and that it is developed according to the requirements and specifications. It helps to identify and address potential problems or issues early on in the development process, and it also provides a clear and comprehensive understanding of how the system will be used and what it is supposed to do.
 
-- ### Techniques for Creating Use Case Models
+- #### Techniques for Creating Use Case Models
 NARRATIVE - 
 A narrative use case model is a type of use case model that focuses on describing the behavior of a system from the perspective of the end-user or actor. In contrast to traditional use case models, which are typically presented in a diagrammatic or tabular format, narrative use case models are presented in prose form.
 
@@ -157,7 +157,7 @@ Overall, narrative use case models can be a useful tool for describing the behav
 
 <p align="center"><img src="https://i.stack.imgur.com/i4dqN.png" width="550px" height="600px"></p>
 
-- ### Best Practices for Creating Effective Use Case Models
+- #### Best Practices for Creating Effective Use Case Models
 Here are some best practices for creating effective use case models:
 
 1. Involve stakeholders: Involve stakeholders from different departments or areas of expertise in the creation of the use case model. This will ensure that all requirements are captured and that the model is comprehensive.
@@ -178,25 +178,34 @@ By following these best practices, you can create an effective use case model th
 
 ---
 
-### 2. STURCTURAL MODEL 
-### Domain Model Class Diagram
-- ### Domain Modeling
-Domain modeling is the process of creating a conceptual representation of a particular domain or subject area. It involves identifying the entities, attributes, relationships, and behaviors that exist within the domain and creating a visual or written representation of these elements. The goal of domain modeling is to create a shared understanding of the domain that can be used to inform the design and development of software systems or other products.
+### 2. STRUCTURAL MODEL 
+### Domain Modeling (Class Diagram)
+- #### Domain Model and Relation with Class Diagram
+A domain model is a conceptual model that describes the key concepts and entities in a particular domain, along with their relationships and behaviors. It provides a high-level view of the problem domain, and is used by software developers, analysts, and other stakeholders to gain a better understanding of the problem domain and to design and develop a system that meets the needs of the users.
 
-Domain modeling is typically done by domain experts and software developers working together to identify the key concepts and relationships within the domain. This can involve creating diagrams, such as class diagrams or entity-relationship diagrams, or writing textual descriptions of the domain.
+A class diagram is a specific type of UML (Unified Modeling Language) diagram that is used to represent the structure of a system by showing the classes, their attributes, methods, and the relationships between them. A class diagram is a key part of object-oriented software development and is used to describe the classes and their relationships within the system.
 
-Domain modeling is an important step in software development because it helps ensure that the software being developed accurately reflects the needs and requirements of the domain. By creating a shared understanding of the domain, developers can create software that is more intuitive, easier to use, and better suited to the needs of its users.
+A domain model and its class diagram are closely related. The domain model provides a conceptual view of the problem domain, while the class diagram provides a more detailed view of the classes and their relationships within the system.
 
-- ### Class Diagram
-A class diagram is a type of diagram in UML (Unified Modeling Language) that represents the structure of a system by showing the classes, their attributes, methods, and the relationships between them. The class diagram provides an overview of the system, and it is used to visualize, specify, construct, and document the architecture and design of software systems.
+In the class diagram, each class corresponds to a concept or entity in the domain model. The attributes and methods of the class correspond to the properties and behaviors of the entity in the domain model. The relationships between classes in the class diagram correspond to the relationships between entities in the domain model.
 
-In a class diagram, classes are represented as rectangles with the class name written inside. The class attributes and methods are listed below the class name, with the attributes on the top and methods on the bottom. The relationships between the classes are represented as lines connecting the classes with arrows indicating the direction of the relationship. There are several types of relationships, such as inheritance, composition, and association, that can be represented in a class diagram.
+By creating a class diagram based on the domain model, software developers can ensure that the system design accurately reflects the key concepts and relationships within the problem domain, which can lead to a more effective and efficient software solution.
 
-Class diagrams are a useful tool for developers to visualize and understand the structure of a system, to communicate with stakeholders, and to identify potential design issues. They are often used in the early stages of software development, such as during requirements gathering and analysis, and are updated throughout the software development lifecycle.
+- #### Relationships
+1. Association:
+  An association is the basic relationship between two entities. These entities can exist independently of each other. We draw it as a simple solid line.
+
+  Let's take an example of Car and Driver as a simple association between two entities. The relationship would be drawn as follows:
+<p align="center"><img src="https://www.ictdemy.com/images/1/uml/uml_association.png"></p>
+
+  The association is bi-directional by default. That means that the first entity has a reference to the other, and the other to the first. We can change this behavior by adding a simple arrow specifying the direction of the relationship. Only the instance from which the arrow points stores the reference to the other entity in these cases. It's possible to create an association even among three classes.
   
-- ### Techniques for Creating Domain Models
+2. 
+
+
+
   
-- ### Best practices for creating effective domain models
+- ### Best Practices for Creating Effective Domain Models
 Domain modeling is the process of creating a conceptual representation of a domain that captures the essential aspects of the domain and provides a foundation for software development. An effective domain model is essential for building high-quality software that meets the needs of its users. Here are some best practices for creating effective domain models:
 
 1. Understand the domain: The first step in creating an effective domain model is to understand the domain. This involves understanding the business or organization, the stakeholders, the problem to be solved, and the users. The better you understand the domain, the more effective your domain model will be.
