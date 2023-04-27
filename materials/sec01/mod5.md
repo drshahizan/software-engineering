@@ -322,29 +322,84 @@ between those activities
   <li>Activity diagrams are really just special cases of statecharts where every state has an entry action that specifies some process or function that occurs when the state is entered </li>
   <li>An activity diagram can be attached to any modeling element for the purpose of modeling the behavior of that element at different abstraction levels</li>
   <li>-Activity diagrams are typically attached to: use cases, classes, interfaces, components, nodes, collaborations, operations and methods</li>
+  
 #### -Definition and purpose of activity diagrams
   
 #### -Techniques for creating activity diagrams (e.g. actions, transitions, branches)
-  <p>1.Transitions indicates movements from one point to another.</p>
+  <p>1.<b>Transitions</b>- indicates movements from one point to another.</p>
   <p>A transition is represented by an arrow that connects the two activities, with a label indicating the conditions under which the transition can occur.Transitions  can have different types of conditions associated with them, including:
   <li>Guard conditions: These are Boolean expressions that specify under what conditions the transition can occur. For example, a guard condition might specify that the transition can only occur if a certain value is greater than a certain threshold.</li>
   <li>Events: Events are signals that trigger the transition. For example, an event might be the completion of a certain activity or the receipt of a message.</li>
   <li>Timeouts: Timeouts specify a maximum time period during which the transition can occur. For example, a timeout might specify that the transition must occur within 5 seconds of the completion of the previous activity.<li>
   By using transitions in an activity diagram, you can model the flow of activities and the relationships between them, making it clear how the process should be executed.</p>
   <p align='center'><img src="https://cdn-images.visual-paradigm.com/guide/uml/state-machine-diagram-vs-activity-diagram/01-state-machine-diagram-vs-activity-diagram.png" alt="State Machine Diagram vs Activity Diagram"></p>
-  <p>2.</p>
-  <p>3.</p>
-  <p>4.</p>
-  <p>5.</p>
+  <p>2.<b>Decisions</b>- model decision points.</p>
+  <p>It is represented by a diamond-shaped symbol with multiple arrows pointing out from it, each arrow labeled with a condition that determines which path to follow.   </p>
+  <p>A decision is often used to represent a choice point in the process, where different actions may be taken based on some condition. The conditions associated with    each arrow leading out from the decision must be mutually exclusive and collectively exhaustive, meaning that each possible condition must be covered by one of the    arrows.</p>
+  <p align='center'><img src="https://uml.blauw.me/user/pages/04.activity-diagrams/04.decisions/DecisionCaseStudy.svg" alt="State Machine Diagram vs Activity Diagram"width="600" height="450"></p>
+  <p>3. <b>Fork and join</b>- Forks split a path into two or more concurrent flows while Joins synchronize two or more concurrent flows.</p>
+  <li>Fork is represented by a horizontal bar with multiple arrows pointing out from it. Each arrow represents a separate path that can be executed in parallel.</li>
+  <li>Join is represented by a horizontal bar with multiple arrows pointing toward it. Each arrow represents a separate path that must complete before the process can continue down the joined path.</li>
+  <li>Forks and joins are useful when there are multiple independent tasks that can be executed in parallel, and the overall process can only continue once all of these tasks have been completed. By splitting the process into parallel paths, you can often reduce the overall processing time of the activity.</li>
+  <p align='center'><img src="https://i.stack.imgur.com/DRaBW.gif"width="600" height="450"></p>
+
+  <p>4. <b>Swimlanes</b>- partition activity diagrams.</p>
+  <li>Swimlanes are represented by vertical or horizontal partitions that divide the diagram        into sections, with each section assigned to a specific actor or system.</li>
+  <li>Swimlanes can be used to model business processes, software systems, and other complex        processes that involve multiple actors or systems. They provide a clear and concise way to show who is responsible for each activity, and help to identify potential bottlenecks or inefficiencies in the process.</li>
+  <p align='center'><img src="https://wcs.smartdraw.com/swim-lane-diagram/img/vertical-swimlane-2.png?bn=15100111868" width="450" helght="600"></p>
 #### -Best practices for creating effective activity diagrams
+  <li>Keep it simple: Activity diagrams should be simple and easy to understand. Avoid adding unnecessary details or complexity that may confuse readers. Focus on the most important aspects of the process.</li>
+<li>Use clear and concise labels: Use clear and concise labels for activities and transitions, and avoid using jargon or technical terms that may not be familiar to all readers.</li>
+<li>Use consistent notation: Use consistent notation and symbols throughout the diagram to make it easier to read and understand. Avoid using different symbols or notation for the same concept.</li>
+<li>Use swimlanes to show responsibility: Use swimlanes to show which actors or systems are responsible for each activity. This helps to identify potential bottlenecks or inefficiencies in the process.</li>
+<li>Use fork and join to show parallel processing: Use fork and join symbols to show when parallel processing is occurring. This helps to show when multiple activities are occurring simultaneously.</li>
+<li>Use decision symbols to show branching: Use decision symbols to show when the process can take different paths depending on the outcome of a decision. This helps to show when there are multiple possible outcomes for a given activity.</li>
+<li>Keep the diagram up-to-date: Keep the diagram up-to-date as the process changes over time. Review and update the diagram regularly to ensure that it accurately reflects the current process.</li>
+<li>Use appropriate tooling: Use appropriate software tools to create the activity diagram. This makes it easier to create and modify the diagram, and to share it with others.</li>
   
-### Sequence Diagram
+### <p><b>Sequence Diagram</b>-show object interactions arranged in a time sequence</p>
   
 #### -Definition and purpose of sequence diagrams
-  
+<li>Sequence diagrams are part of the UML and are used to model the interactions between the actors and the objects showing their behavior within a system</li>
+<li>A sequence diagram shows the sequence of interactions that take place during a particular use case or use case instance (scenario)</li>
+<li>The objects and actors involved are listed along the top of the diagram, with a dotted line drawn vertically from these</li>
+<li>Interactions between objects are indicated by annotated arrows</li>
+  <b>-Sequence Diagram: Scope for Analysis</b>
+<li> Each use case must have at least one sequence diagram that comprises normal flow and alternative flows – split only if it is cluttered to combine all</li>
 #### -Techniques for creating sequence diagrams (e.g. actors, objects, messages)
-  
+ <li>Lifeline represents an individual participant (or object) in the interaction</li>
+ <li>Focus of control (activation) specifies a behavior or interaction within the lifeline also known as execution specification</li>
+ <li>Message defines a particular communication between lifelines of an interaction</li>
+    <b>1. Syntax/Notation Details</b>
+  <li>Each use case should have at least one sequence diagram that comprises normal flow and alternative flows, split only if it is cluttered to combine all.</li>
+<li>Focus on object interaction in the domain model (class diagram for analysis) for a particular use case.</li>
+<li>Refer to the use case description when creating a sequence diagram.</li>
+<li>It is not necessary to include boundary, controller, and data layer details that could be added in the design stage.</li>
+<li>Keep the diagram simple and easy to understand, using clear and concise notation.</li>
+  <b>2. Types of Message</b>
+  • Synchronous:
+– If a caller sends a synchronous message (in sequence), it must wait until the message is done before it proceeds with its business
+• Asynchronous: 
+– If a caller sends an asynchronous message, it can continue processing and does not have to wait for a response
+– Usually used in multithreaded applications and in message- oriented middleware
+• Return message: 
+– Return messages are an optional part of a sequence diagram
+– The use of return messages depends on the level of detail/abstraction that is being modeled
+– Return messages are useful if finer detail is required; otherwise, the invocation message is sufficient 
+  <p align='center'><img src="https://support.bizzdesign.com/download/attachments/39814476/worddav669df1d6e1ac5266ad5312a65db0622d.png?version=1&modificationDate=1559903155886&api=v2"width="600" height="450"></p>
+  <p>Iteration-Determines the number of time to repeat the contents of the box.</p>
+    <p align='center'><img src="https://i.ibb.co/7yCN09M/Screenshot-2023-04-27-163753.png"width="600" height="450"></p>
+  <p>Branching and Self-Delegation</p>
+    <p align='center'><img src="https://i.ibb.co/JvmHMPn/Screenshot-2023-04-27-163819.png"width="600" height="450"></p>
+  <p>Concurrency</p>
+    <p align='center'><img src="https://i.ibb.co/3z8zXfP/Screenshot-2023-04-27-163833.png"width="600" height="450"></p>
 #### -Best practices for creating effective sequence diagrams
+<li>Each use case should have at least one sequence diagram that comprises normal flow and alternative flows, split only if it is cluttered to combine all.</li>
+<li>Focus on object interaction in the domain model (class diagram for analysis) for a particular use case.</li>
+<li>Refer to the use case description when creating a sequence diagram.</li>
+<li>It is not necessary to include boundary, controller, and data layer details that could be added in the design stage.</li>
+<li>Keep the diagram simple and easy to understand, using clear and concise notation.</li>
+  
   
 ### State Chart/State Machine Diagram
   
