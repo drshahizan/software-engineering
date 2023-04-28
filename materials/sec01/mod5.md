@@ -438,7 +438,7 @@ State chart/state machine diagrams can be used in a variety of contexts, includi
   
 3. Identify the transitions: Identify the conditions or actions that must be met or performed for a transition to occur between two states. Transitions represent the change in state that occurs when an event happens. You can represent transitions as arrows leaving a state, and label them with the name of the event that triggers them.
   
-<p align='center'><img src="https://i.imgur.com/TN1YMKi.png"width="600" height="200"></p>
+<p align='center'><img src="https://i.imgur.com/TN1YMKi.png"width="600" height="100"></p>
   
 4. Define the actions: Identify the actions that need to be taken when a transition occurs, such as updating variables, sending messages, or invoking functions. You can represent actions as small rectangles within the transition arrows, and label them with descriptive names.
   
