@@ -409,6 +409,8 @@ State chart/state machine diagrams are graphical models used to represent the be
 The purpose of state chart/state machine diagrams is to provide a clear and concise representation of the behavior of a system. They are particularly useful for modeling complex systems with multiple states and transitions between them. By breaking down the system's behavior into a series of states and transitions, these diagrams can help identify potential problems or opportunities for optimization.
 
 State chart/state machine diagrams can be used in a variety of contexts, including software engineering, control engineering, and business process modeling. In software engineering, they are commonly used to model the behavior of complex software systems. In control engineering, they are used to model the behavior of physical systems such as robots or automated machines. In business process modeling, they can be used to represent the workflow of a business process or a series of tasks performed by a team of people.
+
+<p align='center'><img src="[https://i.ibb.co/7yCN09M/Screenshot-2023-04-27-163753.png](https://i.pinimg.com/originals/32/2d/b6/322db67f5f167d860263c9772f36a9c9.png)"width="600" height="450"></p>
   
 #### -Techniques for creating state chart/state machine diagrams (e.g. states, events, transitions)
   
