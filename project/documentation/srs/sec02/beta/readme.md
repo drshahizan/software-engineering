@@ -17,24 +17,24 @@ Don't forget to hit the :star: if you like this repo.
     <th>Role</th>
   </tr>
   <tr>
-    <td>1. MUHAMMAD DANIEL HAKIM BIN SYAHRULNIZAM</td>
-    <td></td>
+    <td>MUHAMMAD DANIEL HAKIM BIN SYAHRULNIZAM</td>
+    <td>Requirements Analyst</td>
   </tr>
   <tr>
-    <td>2. MUHAMMAD ARIFF DANISH BIN HASHNAN</td>
-    <td></td>
+    <td>MUHAMMAD ARIFF DANISH BIN HASHNAN</td>
+    <td>Software Developer</td>
   </tr>
     <tr>
-    <td>3. MUHAMMAD IMAN FIRDAUS BIN BAHARUDDIN</td>
-    <td></td>
+    <td>MUHAMMAD IMAN FIRDAUS BIN BAHARUDDIN</td>
+    <td>User Experience Designer</td>
   </tr>
     <tr>
-    <td>4. MUHAMMAD SAFWAN BIN MOHD AZMI</td>
-    <td></td>
+    <td>MUHAMMAD SAFWAN BIN MOHD AZMI</td>
+    <td>Quality Assurance</td>
   </tr>
    <tr> 
-    <td>5. CHE MARHUMI BIN CHE AB RAHIM</td>
-    <td></td>
+    <td>CHE MARHUMI BIN CHE AB RAHIM</td>
+    <td>Documentation Specialist</td>
   </tr>
 </table>
 
@@ -47,25 +47,25 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1.</td>
+    <td></td>
     <td>Restaurant "Sdap Kitchen"</td>
     <td>Owner</td>
     <td></td>
   </tr>
     <tr>
-    <td>2.  </td>
+    <td></td>
     <td>Restaurant "Deen Corner"</td>
     <td>Owner</td>
     <td></td>
   </tr>
     <tr>
-    <td>3.</td>
+    <td></td>
     <td>Customer</td>
     <td>UTM student/UTM Staff</td>
     <td></td>
   </tr>
    <tr>
-    <td>4.</td>
+    <td></td>
     <td>Adminstrator</td>
     <td></td>
     <td></td>
