@@ -417,12 +417,15 @@ State chart/state machine diagrams can be used in a variety of contexts, includi
   
 <p align='center'><img src="https://i.imgur.com/PE8fzwG.png"width="575" height="215"></p>
   
-State Syntax
+  State Syntax
 <p align='center'><img src="https://i.imgur.com/HCEGUFX.png"width="600" height="350"></p>
   
 2. Identify the events: Identify the events that can trigger transitions between the different states. Events can be external inputs, internal conditions, or a combination of both. You can represent events as arrows entering a state, and label them with descriptive names.
   
 <p align='center'><img src="https://i.imgur.com/5j4PgXY.png"width="600" height="350"></p>
+
+  Call Event State Chart
+<p align='center'><img src="https://i.imgur.com/Fx64LP9.png"width="600" height="350"></p>
   
 3. Identify the transitions: Identify the conditions or actions that must be met or performed for a transition to occur between two states. Transitions represent the change in state that occurs when an event happens. You can represent transitions as arrows leaving a state, and label them with the name of the event that triggers them.
   
