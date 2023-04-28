@@ -448,7 +448,7 @@ State chart/state machine diagrams can be used in a variety of contexts, includi
 
 State charts or state machine diagrams are useful tools for visualizing the behavior of complex systems, processes, or software. Here are some best practices for creating effective state charts or state machine diagrams:
   
-1. Keep it simple: State charts should be easy to read and understand. Avoid cluttering the diagram with unnecessary details, and use clear and concise labels for states and transitions.
+<li>Keep it simple: State charts should be easy to read and understand. Avoid cluttering the diagram with unnecessary details, and use clear and concise labels for states and transitions.</li>
 2. Use consistent notation: Use a consistent notation for representing states, transitions, and actions throughout the diagram. This will make the diagram easier to read and understand.
 3. Define clear states and transitions: Clearly define the states and transitions in the diagram, and make sure that they are meaningful and relevant to the system or process being modeled.
 4. Show the initial state: Include the initial state of the system or process being modeled in the diagram. This will help readers understand the starting point of the system or process.
