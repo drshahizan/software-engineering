@@ -48,13 +48,13 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>1.</td>
-    <td>Restaurant "Sedap Corner"</td>
+    <td>Restaurant "Sdap Kitchen"</td>
     <td>Owner</td>
     <td></td>
   </tr>
     <tr>
     <td>2.  </td>
-    <td>Restaurant "Kedai Air"</td>
+    <td>Restaurant "Deen Corner"</td>
     <td>Owner</td>
     <td></td>
   </tr>
