@@ -413,6 +413,11 @@ State chart/state machine diagrams can be used in a variety of contexts, includi
 <p align='center'><img src="https://i.pinimg.com/originals/32/2d/b6/322db67f5f167d860263c9772f36a9c9.png"width="600" height="450"></p>
   
 #### -Techniques for creating state chart/state machine diagrams (e.g. states, events, transitions)
+1. Identify the states: Start by identifying the different states that the system or object can be in. States represent the conditions or modes of operation of the system or object. You can represent states as rectangles with rounded corners, and label them with descriptive names.
+2. Identify the events: Identify the events that can trigger transitions between the different states. Events can be external inputs, internal conditions, or a combination of both. You can represent events as arrows entering a state, and label them with descriptive names.
+3. Identify the transitions: Identify the conditions or actions that must be met or performed for a transition to occur between two states. Transitions represent the change in state that occurs when an event happens. You can represent transitions as arrows leaving a state, and label them with the name of the event that triggers them.
+4. Define the actions: Identify the actions that need to be taken when a transition occurs, such as updating variables, sending messages, or invoking functions. You can represent actions as small rectangles within the transition arrows, and label them with descriptive names.
+5. Add additional details: Add any additional details that may be helpful, such as constraints, guards, or triggers. Constraints represent conditions that must be satisfied for a transition to occur, guards represent conditions that must be satisfied for a transition to continue, and triggers represent actions that are performed when a transition occurs.
   
 #### -Best practices for creating effective state chart/state machine diagrams
   
