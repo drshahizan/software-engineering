@@ -17,19 +17,23 @@ Don't forget to hit the :star: if you like this repo.
     <th>Role</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td>1. MUHAMMAD DANIEL HAKIM BIN SYAHRULNIZAM</td>
     <td></td>
   </tr>
   <tr>
-    <td>2</td>
+    <td>2. MUHAMMAD ARIFF DANISH BIN HASHNAN</td>
     <td></td>
   </tr>
     <tr>
-    <td>3</td>
+    <td>3. MUHAMMAD IMAN FIRDAUS BIN BAHARUDDIN</td>
     <td></td>
   </tr>
     <tr>
-    <td>4</td>
+    <td>4. MUHAMMAD SAFWAN BIN MOHD AZMI</td>
+    <td></td>
+  </tr>
+   <tr> 
+    <td>5. CHE MARHUMI BIN CHE AB RAHIM</td>
     <td></td>
   </tr>
 </table>
@@ -43,20 +47,26 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>2</td>
-    <td></td>
-    <td></td>
+    <td>1.</td>
+    <td>Restaurant "Sedap Corner"</td>
+    <td>Owner</td>
     <td></td>
   </tr>
     <tr>
-    <td>3</td>
+    <td>2.  </td>
+    <td>Restaurant "Kedai Air"</td>
+    <td>Owner</td>
     <td></td>
+  </tr>
+    <tr>
+    <td>3.</td>
+    <td>Customer</td>
+    <td>UTM student/UTM Staff</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>4.</td>
+    <td>Adminstrator</td>
     <td></td>
     <td></td>
   </tr>
