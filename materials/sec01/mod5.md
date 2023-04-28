@@ -448,14 +448,14 @@ State chart/state machine diagrams can be used in a variety of contexts, includi
 
 State charts or state machine diagrams are useful tools for visualizing the behavior of complex systems, processes, or software. Here are some best practices for creating effective state charts or state machine diagrams:
   
-<li>Keep it simple: State charts should be easy to read and understand. Avoid cluttering the diagram with unnecessary details, and use clear and concise labels for states and transitions.</li>
-2. Use consistent notation: Use a consistent notation for representing states, transitions, and actions throughout the diagram. This will make the diagram easier to read and understand.
-3. Define clear states and transitions: Clearly define the states and transitions in the diagram, and make sure that they are meaningful and relevant to the system or process being modeled.
-4. Show the initial state: Include the initial state of the system or process being modeled in the diagram. This will help readers understand the starting point of the system or process.
-5. Include final states: If the system or process being modeled has a defined end state, include this in the diagram. This will help readers understand the final state of the system or process.
-6. Label transitions with events and actions: Label transitions with the events that trigger them, and the actions that result from them. This will make it clear what is happening in the system or process at each stage.
-7. Use hierarchies and orthogonal regions: If the system or process being modeled is complex, consider using hierarchies or orthogonal regions to organize the diagram. This will make it easier to understand and navigate.
-8. Validate the model: Once the state chart is complete, validate the model by checking that it accurately represents the behavior of the system or process being modeled.
+<li> Keep it simple: State charts should be easy to read and understand. Avoid cluttering the diagram with unnecessary details, and use clear and concise labels for states and transitions.</li>
+<li> Use consistent notation: Use a consistent notation for representing states, transitions, and actions throughout the diagram. This will make the diagram easier to read and understand.</li>
+<li> Define clear states and transitions: Clearly define the states and transitions in the diagram, and make sure that they are meaningful and relevant to the system or process being modeled.</li>
+<li> Show the initial state: Include the initial state of the system or process being modeled in the diagram. This will help readers understand the starting point of the system or process.</li>
+<li> Include final states: If the system or process being modeled has a defined end state, include this in the diagram. This will help readers understand the final state of the system or process.</li>
+<li> Label transitions with events and actions: Label transitions with the events that trigger them, and the actions that result from them. This will make it clear what is happening in the system or process at each stage.</li>
+<li> Use hierarchies and orthogonal regions: If the system or process being modeled is complex, consider using hierarchies or orthogonal regions to organize the diagram. This will make it easier to understand and navigate.</li>
+<li> Validate the model: Once the state chart is complete, validate the model by checking that it accurately represents the behavior of the system or process being modeled.</li>
   
 ---
 
