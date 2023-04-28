@@ -1,10 +1,9 @@
-
 body {
     margin: 0;
     padding: 0;
     font-family: Haettenschweiler;
     background-color: #15116d;
-  }
+}
 
 header {
     display: flex;
@@ -14,7 +13,7 @@ header {
     padding-top: 20px;
     background-color: #15116d;
     height: 100px;
-  }
+}
 
 a {
     text-decoration: none;
@@ -33,7 +32,7 @@ nav {
     display: flex;
     background-color: rgb(238, 222, 127);
 }
-  
+
 nav a {
     margin-left: 20px;
     margin-right: 20px;
@@ -45,10 +44,28 @@ nav a:hover {
     background-color: white;
 }
 
+.article {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.article img {
+    width: 500px
+}
+
+.article p {
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+}
+
 article {
     margin: 10px;
     border: 5px rgb(238, 222, 127) solid;
-    background-color: rgb(238, 222, 127) ;
+    background-color: rgb(238, 222, 127);
 }
 
 article img {
@@ -74,20 +91,61 @@ article p {
     font-weight: bold;
     border-radius: 4px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
-  }
-  
+}
+
 .button:hover {
     background-color: #B8860B;
     cursor: pointer;
 }
-  
 
-footer{
- 
-    text-align: center;
-    padding-top: 7px;
-    background-color: black;
-    color: white;
-    height: 30px;
+section h2 {
+    padding-left: 10px;
+    color:white;
 }
 
+section h3 {
+    padding-left: 10px;
+    color:white;
+}
+
+.comment {
+    border: 5px solid rgb(147, 144, 144);
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+  }
+
+.profile-picture {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+
+.username {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.datetime {
+    font-size: 0.8rem;
+    color: #888;
+    margin-bottom: 5px;
+}
+
+.text {
+    line-height: 1.5;
+}
+
+form {
+    padding-left: 10px;
+    color: white;
+}
+footer {
+    text-align: center;
+    padding-top: 5px;
+    background-color: black;
+    color: white;
+    height: 25px;
+}
