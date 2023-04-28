@@ -425,7 +425,10 @@ State chart/state machine diagrams can be used in a variety of contexts, includi
 <p align='center'><img src="https://i.imgur.com/5j4PgXY.png"width="600" height="350"></p>
 
   Call Event State Chart
-<p align='center'><img src="https://i.imgur.com/Fx64LP9.png"width="600" height="350"></p>
+<p align='center'><img src="https://i.imgur.com/pQieTCA.png"width="600" height="350"></p>
+  
+  Signal Event State Chart
+
   
 3. Identify the transitions: Identify the conditions or actions that must be met or performed for a transition to occur between two states. Transitions represent the change in state that occurs when an event happens. You can represent transitions as arrows leaving a state, and label them with the name of the event that triggers them.
   
