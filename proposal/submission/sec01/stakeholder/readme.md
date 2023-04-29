@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-#  Proposal Template
+#  Proposal
 
 ## Student Accommodation System in Kolej Tun Dr Ismail (KTDI)
 
@@ -35,7 +35,7 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ### 1. Executive Summary:
-The Student Accommodation System proposal for Kolej Tun Dr Ismail (KTDI) is aimed at addressing the challenges that students and staff face when managing student accommodation. The current process for applying for and managing accommodation is manual and time-consuming, which can result in delays, errors, and frustration for students and staff alike.
+The Student Accommodation System proposal for Kolej Tun Dr Ismail (KTDI) is aimed at addressing the challenges that students and staff face when managing student accommodation. The current process for applying for and managing accommodation is unintegrated and time-consuming, which can result in delays, errors, and frustration for students and staff alike.
 
 To address these challenges, the proposed software system will provide an online platform that allows students to apply for accommodation, make payments, and track the status of their application. KTDI staff will be able to manage room availability and allocation, communicate with students, and access relevant data and reports through a centralized dashboard.
 
@@ -44,7 +44,7 @@ The system will be designed to be user-friendly and accessible, with clear instr
 The expected outcomes of the project include improved student satisfaction, as the software system will provide a more convenient and streamlined process for managing accommodation. KTDI staff will also benefit from increased efficiency, as the system will reduce the need for manual data entry and administrative tasks. Finally, the system is expected to reduce errors and delays in the accommodation management process, resulting in a more reliable and efficient system overall.
 
 ### 2. Background:
-The student accommodation system is an essential aspect of managing student life on a university campus. It automates the process of assigning student room and ensures that students are placed in suitable accommodations that meet their needs and preferences. The system is vital in providing a comfortable and safe living environment for students, promoting their academic success and overall well-being. However, the current manual and unorganised system in KTDI can be time-consuming, prone to error and inconsistencies, leading to inefficiencies in the room application and management process and a poor user experience for both students and administrators.
+The student accommodation system is an essential aspect of managing student life on a university campus. It automates the process of assigning student room and ensures that students are placed in suitable accommodations that meet their needs and preferences. The system is vital in providing a comfortable and safe living environment for students, promoting their academic success and overall well-being. However, the current unintegrated and unorganised system in KTDI can be time-consuming, prone to error and inconsistencies, leading to inefficiencies in the room application and management process and a poor user experience for both students and administrators.
 
 Our proposed student accommodation system is focused to overcome these challenges via devloping a modern, spontaneous automated system that streamline the room rentaling and managing process. To provide students, staff, and administrators with a seamless user experience, the proposed system makes advantage of the most recent technology and best practises. The developed system will provide an efficient and effective way for students to apply for hostel online based on their selections and for administrators to allocate housing quickly and accurately.
 
@@ -53,16 +53,33 @@ The key features of this system include a user-friendly interface that integrate
 The student accommodation system features offer significant benefits for the university community, with the potential to impact the accommodation allocation process positively. The automation of the allocation process will increase efficiency, save time, and eliminate errors that often occur during manual allocation. The online application process will simplify the application process for students, creating a better user experience. The data analysis capabilities will allow administrators to make informed decisions about future housing allocation, resulting in a more strategic and effective approach. The enhanced security measures will protect students' personal information, improving privacy and security. The maintenance system will ensure the hostel remains well-maintained, creating a comfortable and safe living environment for students. Overall, the student accommodation system features will improve the quality of the accommodation allocation process, streamline processes, improve the student experience, and enhance the reputation of the university.
 
 ### 3. Objectives:
-- To develop a website that will make it simple for KTDI students to look for and reserve available housing inside the college.
-- To offer KTDI administration a safe and user-friendly method to manage their student housing facilities and room allocations.
-- To automate procedures including student applications, room allocations, and room transfers in order to streamline the room allocation process.
-- To make it easier for students to communicate with the KTDI management by using the platform's message feature.
-- By putting in place a mechanism for student feedback and evaluations of the housing facilities and services offered by KTDI, it will be possible to ensure accountability and openness.
-- To provide a system that offers current availability and cost details to assist students in making knowledgeable lodging decisions.
-- To expand the platform's capabilities and audience, interface it with outside services like social media networks, payment gateways, and map APIs.
-- To guarantee adherence to pertinent rules and data protection legislation during the platform's development and operation.
-- To upgrade the platform frequently and incorporate user feedback to make it better.
-- To develop a successful business model that makes money from booking commissions or other forms of monetization that may be used to pay for future initiatives and projects of KTDI.
+Our proposed student accommodation system aims to achieve the following objectives:
+
+1. **Specific:** Create an automated system for home allocation that cuts the time needed by 50%.<br>
+**Measurable:** To determine the reduction in allocation time, do a time audit before and after the new process is implemented.<br>
+**Achievable:** Work together to establish the automated housing allocation procedure with the university's IT division.<br>
+**Relevant:** The objective supports streamlining and enhancing efficiency in the housing allocation procedure.<br>
+**Time-bound:** The objective will be achieved within the first year of the project.
+
+2. **Specific:** By applying data analysis to guide housing distribution choices, occupancy rates can be raised by 10%.<br>
+**Measurable:** Keep track of the occupancy rates before and after the new system is put in place to gauge the growth.<br>
+**Achievable:** In order to inform future allocation decisions, gather and analyse data on housing allocation trends.<br>
+**Relevant:** The utilisation of available housing will improve with higher occupancy rates, which will also lessen the requirement for interim housing.<br>
+**Time-bound:** The objective will be achieved within the first two years of the project.
+
+3. **Specific:** Install a maintenance tracking system that cuts the time it takes to respond to maintenance requests by 50%.<br>
+**Measurable:** To gauge the decrease in response time, perform a time audit before and after the new system is implemented.<br>
+**Achievable:** Create and put into use a system for tracking maintenance that increases the effectiveness of the maintenance procedure.<br>
+**Relevant:** Enhancing the maintenance procedure will improve student satisfaction and lessen disruption brought on by maintenance problems.<br>
+**Time-bound:** The objective will be achieved within the second year of the project.
+
+4. **Specific:** 20% more students will be generally satisfied with the housing allocation procedure.<br>
+**Measurable:** To gauge the rise in satisfaction, survey the students both before and after the new system is put into place.<br>
+**Achievable:** To increase efficiency and accuracy, implement a user-friendly interface and automate the housing allocation procedure.<br>
+**Relevant:** The whole student experience will be improved, and retention rates will rise, if the housing distribution procedure is more satisfactorily handled.<br>
+**Time-bound:** The objective will be achieved within the first three years of the project.
+
+These SMART objectives for our introduced student accommodation system in KTDI are all specific, measurable, achievable, relevant and time-bound. They offer a clear road map for reaching the intended results and are in line with the project's goals and objectives.
 
 ### 4. Scope: 
 The scope of the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) refers to the boundaries or limits of the project, defining what elements the system will and won't have. It outlines the features and functionalities of the system, including its goals, objectives, and requirements, as well as the expected outcomes and benefits. Here are more detailed explanations of the features and functionality of a student accommodation system:
@@ -99,12 +116,35 @@ By defining the scope of the project, the project team can establish the foundat
 
 
 ### 5. Software Process Model:
-This section describe the ideal software process model for this system development. The write-up must consist of:
-- Explanation of the goal of the software process model.
-- Choose the ideal software process model and give justification.
-- The illustration of chosen software process model that relates to your project and shows every phase involved in the chosen software process model
-- Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. 
-- It should also describe the testing methodologies, project management practices, and quality assurance processes.
+- ***Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. ***
+  
+The software process model's goal is to offer a structured and well-organized method for developing software. It aids in making certain that the software is delivered on schedule, within budget, and in accordance with the needs and expectations of the stakeholders.
+  
+The ideal software process model to be implemented in this project is Agile methodology. This is because of the Agile methodology is an iterative and incremental software development approach that emphasizes flexibility, collaboration, and continuous customer feedback. Besides, the Agile methodology is well-suited for developing software applications where requirements can change frequently, and the development team needs to be able to respond to those changes quickly.
+
+<p align="center"><img src="https://i0.wp.com/mobile-jon.com/wp-content/uploads/2021/04/Agile-Methodology.jpg?fit=1920%2C1080&ssl=1" width="700px" height="350px"></p>
+
+Here is a breakdown of how the Agile methodology can be applied as a software process model for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI):
+
+1. Planning Phase: In this phase, the development team works with the client to identify the project scope, goals, and objectives. They define the project timeline and milestones, identify project risks, and allocate project resources appropriately. They create a sprint plan for the first iteration and identify the user stories and product backlog items that will be worked on in that sprint.
+
+2. Requirements Gathering Phase: In this phase, the business analyst works with the client to identify and prioritize user requirements. They develop user stories and create the product backlog items. They identify acceptance criteria for each user story and break down user stories into smaller tasks, which are then added to the sprint backlog. The development team and the client then meet to review and finalize the sprint backlog.
+
+3. Design Phase: In this phase, the technical lead works with the development team to develop a high-level design of the system. They identify and design the database schema, create detailed design documents, and develop wireframes and prototypes for the user interface. The design is reviewed with the development team and the client, and any necessary changes are made.
+
+4. Development Phase: In this phase, the development team develops and tests the software components according to the sprint backlog. They conduct code reviews to ensure code quality, write unit tests, and perform unit testing. They update code documentation and conduct daily stand-up meetings to discuss progress, address any issues or roadblocks, and plan for the next day.
+
+5. Testing Phase: In this phase, the quality assurarance (QA) engineer works with the development team to develop a test plan and test cases. They conduct functional, integration, and acceptance testing, report and track defects using a bug tracking tool, and ensure the software meets the acceptance criteria. The development team and the client meet to review the test results and identify any necessary changes.
+
+6. Deployment Phase: In this phase, the project manager works with the development team to deploy the software to the production environment. They conduct final testing and ensure that the software meets the client's needs and expectations. They train the client on how to use the software and provide ongoing support as needed.
+  
+7. Review Phase: In the review phase, the development team and the client review the completed software to ensure that it meets the acceptance criteria and user requirements. This phase involves continuous feedback from the client to make sure that the final product is aligned with their expectations.
+
+8. Launch Phase: In the launch phase, the final product is deployed to the production environment. This phase involves final testing and quality assurance to ensure that the software is stable and functional in the production environment.
+  
+To assure the quality and functionality of the system, many testing methodologies are employed in this project, including unit testing, integration testing, system testing, acceptance testing, and usability testing. Project management techniques leverage technologies like Kanban boards, sprint planning and regular stand-up meetings to track progress and guarantee task completion on time. To maintain code quality and reduce errors, quality assurance procedures like code review, continuous integration and automated testing are used. These procedures are essential for ensuring the effective deployment and operation of the KTDI system for student accommodation.
+
+Overall, the Agile methodology is an effective software process model for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) because it emphasizes flexibility, collaboration, and continuous customer feedback. It allows the development team to respond quickly to changes in requirements and deliver high-quality software in shorter development cycles.
 
 ### 6. Budget:
 - The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
@@ -114,6 +154,8 @@ This section describe the ideal software process model for this system developme
 - Explain how the data will be stored, managed, and analyzed, as well as the hardware and software requirements needed to support the system.
 - Discuss the tools and frameworks that will be used for data visualization and analysis.
 - Provide a flowchart or block diagram of the system architecture.
+  
+The proposed student accommodation system will follow a three-tier architecture, with a presentation layer, application layer, and database layer.
 
 ### 8. Risks Assessment:
 A project, programme, or organization's potential risks must be identified, evaluated, and prioritised as part of the risk assessment process. It is a crucial component of risk management, which seeks to reduce the likelihood and effect of prospective dangers. Both quantitative and qualitative ways of expressing the outcomes of this procedure are possible. To help minimise any potential risk-related repercussions, risk assessment is a necessary component of a larger risk management plan. The risk assessments that related to the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) are:
@@ -158,10 +200,6 @@ In general, it's crucial to recognise and reduce these risks if we want the KTDI
 - Explain the quality assurance and testing procedures that will be followed.
 
 ### 12. Conclusion:
-- Conclude your proposal with a call to action, highlighting the benefits of your proposed solution and urging the decision-makers to take action.
-- Summarize the proposal and reiterate the importance of the project.
-- Mention any potential limitations or challenges that may arise during the project.
-- Provide a call to action for the client to approve the proposal and proceed with the project.
 
 In conclusion, the suggested Student Accommodation System is a crucial remedy for Kolej Tun Dr Ismail (KTDI) staff and student problems in handling student housing. The technology intends to improve data analytics, automate processes, streamline the room allocation process, and give students a better user experience. The suggested technique has the advantages of better student satisfaction, enhanced staff productivity, and an overall more dependable and effective system.
 

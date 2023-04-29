@@ -683,3 +683,4 @@ img { max-width: 100%; }
 .widget.contact-widget address .icon, .widget.contact-widget .mail .icon, .widget.contact-widget .phone .icon { position: absolute; left: 0; top: 5px; }
 
 .colophon { font-size: 14px; font-size: 0.875rem; text-align: center; padding: 30px 0 0; }
+.formalpic{ box-sizing: border-box; width: 50%; height: 50%; margin-left: auto; margin-right: auto; display: block; }
