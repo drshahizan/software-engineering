@@ -317,25 +317,28 @@ details such as whether the person paid for a lunch or when the person registere
   
 ### 3. BEHAVIORAL MODEL
 ### Activity Diagram
-Activity diagrams are “OO flowcharts” that allow us to model a process as a collection of activities and transitions between those activities
-  <ul><li>Activity diagrams are really just special cases of statecharts where every state has an entry action that specifies some process or function that occurs when the state is entered </li>
-  <li>An activity diagram can be attached to any modeling element for the purpose of modeling the behavior of that element at different abstraction levels</li>
-  <li>Activity diagrams are typically attached to: use cases, classes, interfaces, components, nodes, collaborations, operations and methods</li></ul>
   
 - #### Definition and purpose of activity diagrams
-  
+Activity diagrams are “OO flowcharts” that allow us to model a process as a collection of activities and transitions between those activities:
+  <ul> i. Activity diagrams are really just special cases of statecharts where every state has an entry action that specifies some process or function that occurs when the state is entered.<br>
+  ii. An activity diagram can be attached to any modeling element for the purpose of modeling the behavior of that element at different abstraction levels.<br>
+  iii. Activity diagrams are typically attached to: use cases, classes, interfaces, components, nodes, collaborations, operations and methods.</ul>
+
 - #### Techniques for creating activity diagrams (e.g. actions, transitions, branches)
-  <p>1.<b>Transitions</b>- indicates movements from one point to another.</p>
-  <p>A transition is represented by an arrow that connects the two activities, with a label indicating the conditions under which the transition can occur.Transitions  can have different types of conditions associated with them, including:
+<p>1. <b>Transitions</b> -> indicates movements from one point to another.</p>
+<p>A transition is represented by an arrow that connects the two activities, with a label indicating the conditions under which the transition can occur.Transitions  can have different types of conditions associated with them, including:
   <ul><li>Guard conditions: These are Boolean expressions that specify under what conditions the transition can occur. For example, a guard condition might specify that the transition can only occur if a certain value is greater than a certain threshold.</li>
   <li>Events: Events are signals that trigger the transition. For example, an event might be the completion of a certain activity or the receipt of a message.</li>
-  <li>Timeouts: Timeouts specify a maximum time period during which the transition can occur. For example, a timeout might specify that the transition must occur within 5 seconds of the completion of the previous activity.<li></ul>
-  By using transitions in an activity diagram, you can model the flow of activities and the relationships between them, making it clear how the process should be executed.</p>
-  <p align='center'><img src="https://cdn-images.visual-paradigm.com/guide/uml/state-machine-diagram-vs-activity-diagram/01-state-machine-diagram-vs-activity-diagram.png" alt="State Machine Diagram vs Activity Diagram"></p>
-  <p>2.<b>Decisions</b>- model decision points.</p>
-  <p>It is represented by a diamond-shaped symbol with multiple arrows pointing out from it, each arrow labeled with a condition that determines which path to follow.   </p>
-  <p>A decision is often used to represent a choice point in the process, where different actions may be taken based on some condition. The conditions associated with    each arrow leading out from the decision must be mutually exclusive and collectively exhaustive, meaning that each possible condition must be covered by one of the    arrows.</p>
-  <p align='center'><img src="https://uml.blauw.me/user/pages/04.activity-diagrams/04.decisions/DecisionCaseStudy.svg" alt="State Machine Diagram vs Activity Diagram"width="600" height="450"></p>
+  <li>Timeouts: Timeouts specify a maximum time period during which the transition can occur. For example, a timeout might specify that the transition must occur within 5 seconds of the completion of the previous activity.</li></ul>
+By using transitions in an activity diagram, you can model the flow of activities and the relationships between them, making it clear how the process should be executed.</p>
+<p align='center'><img src="https://cdn-images.visual-paradigm.com/guide/uml/state-machine-diagram-vs-activity-diagram/01-state-machine-diagram-vs-activity-diagram.png" alt="State Machine Diagram vs Activity Diagram"></p>
+
+  <p>2. <b>Decisions</b> -> model decision points.</p>
+  <p>It is represented by a diamond-shaped symbol with multiple arrows pointing out from it, each arrow labeled with a condition that determines which path to follow.
+
+A decision is often used to represent a choice point in the process, where different actions may be taken based on some condition. The conditions associated with    each arrow leading out from the decision must be mutually exclusive and collectively exhaustive, meaning that each possible condition must be covered by one of the    arrows.</p>
+<p align='center'><img src="https://uml.blauw.me/user/pages/04.activity-diagrams/04.decisions/DecisionCaseStudy.svg" alt="State Machine Diagram vs Activity Diagram"width="600" height="450"></p>
+
   <p>3. <b>Fork and join</b>- Forks split a path into two or more concurrent flows while Joins synchronize two or more concurrent flows.</p>
   <li>Fork is represented by a horizontal bar with multiple arrows pointing out from it. Each arrow represents a separate path that can be executed in parallel.</li>
   <li>Join is represented by a horizontal bar with multiple arrows pointing toward it. Each arrow represents a separate path that must complete before the process can continue down the joined path.</li>
@@ -346,7 +349,7 @@ Activity diagrams are “OO flowcharts” that allow us to model a process as a 
   <li>Swimlanes are represented by vertical or horizontal partitions that divide the diagram        into sections, with each section assigned to a specific actor or system.</li>
   <li>Swimlanes can be used to model business processes, software systems, and other complex        processes that involve multiple actors or systems. They provide a clear and concise way to show who is responsible for each activity, and help to identify potential bottlenecks or inefficiencies in the process.</li>
   <p align='center'><img src="https://wcs.smartdraw.com/swim-lane-diagram/img/vertical-swimlane-2.png?bn=15100111868" width="450" helght="600"></p>
-  
+
 - #### Best practices for creating effective activity diagrams
   <li>Keep it simple: Activity diagrams should be simple and easy to understand. Avoid adding unnecessary details or complexity that may confuse readers. Focus on the most important aspects of the process.</li>
 <li>Use clear and concise labels: Use clear and concise labels for activities and transitions, and avoid using jargon or technical terms that may not be familiar to all readers.</li>
