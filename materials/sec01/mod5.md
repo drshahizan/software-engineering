@@ -359,8 +359,10 @@ A decision is often used to represent a choice point in the process, where diffe
 <li>Use decision symbols to show branching: Use decision symbols to show when the process can take different paths depending on the outcome of a decision. This helps to show when there are multiple possible outcomes for a given activity.</li>
 <li>Keep the diagram up-to-date: Keep the diagram up-to-date as the process changes over time. Review and update the diagram regularly to ensure that it accurately reflects the current process.</li>
 <li>Use appropriate tooling: Use appropriate software tools to create the activity diagram. This makes it easier to create and modify the diagram, and to share it with others.</li>
+
+---
   
-### <p><b>Sequence Diagram</b>-show object interactions arranged in a time sequence</p>
+### 4. Sequence Diagram - show object interactions arranged in a time sequence
   
 - #### Definition and purpose of sequence diagrams
 <li>Sequence diagrams are part of the UML and are used to model the interactions between the actors and the objects showing their behavior within a system</li>
@@ -407,7 +409,7 @@ A decision is often used to represent a choice point in the process, where diffe
 
 ---
   
-### State Chart/State Machine Diagram
+### 5. State Chart/State Machine Diagram
   
 - #### Definition and purpose of state chart/state machine diagrams
 State chart/state machine diagrams are graphical models used to represent the behavior of a system or a process. They depict the states that an object or system can be in and the transitions that occur between these states based on some triggering event or condition.
