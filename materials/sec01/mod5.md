@@ -462,6 +462,11 @@ State charts or state machine diagrams are useful tools for visualizing the beha
 ## III. Part II: Requirements Document
 ### A. Understanding the Requirements Document
 #### -Definition of the requirements document
+  <p>Software requirements document is an official statement of what is required for the reference of software developers</p>
+  <p>Should include both definitions of user requirements and specifications of the system requirements</p>
+  <p>It is NOT a design document</p>
+  <p>As far as possible, it should set WHAT the system</p>
+should do rather than HOW it should do it
 #### -Importance of the requirements document in software development
 #### -Key components of the requirements document
 ### B. Software Requirements Specification (SRS)
