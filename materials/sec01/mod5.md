@@ -321,11 +321,11 @@ Activity diagrams are “OO flowcharts” that allow us to model a process as a 
 between those activities
   <li>Activity diagrams are really just special cases of statecharts where every state has an entry action that specifies some process or function that occurs when the state is entered </li>
   <li>An activity diagram can be attached to any modeling element for the purpose of modeling the behavior of that element at different abstraction levels</li>
-  <li>-Activity diagrams are typically attached to: use cases, classes, interfaces, components, nodes, collaborations, operations and methods</li>
+  <li>Activity diagrams are typically attached to: use cases, classes, interfaces, components, nodes, collaborations, operations and methods</li>
   
-#### -Definition and purpose of activity diagrams
+- #### Definition and purpose of activity diagrams
   
-#### -Techniques for creating activity diagrams (e.g. actions, transitions, branches)
+- #### Techniques for creating activity diagrams (e.g. actions, transitions, branches)
   <p>1.<b>Transitions</b>- indicates movements from one point to another.</p>
   <p>A transition is represented by an arrow that connects the two activities, with a label indicating the conditions under which the transition can occur.Transitions  can have different types of conditions associated with them, including:
   <li>Guard conditions: These are Boolean expressions that specify under what conditions the transition can occur. For example, a guard condition might specify that the transition can only occur if a certain value is greater than a certain threshold.</li>
@@ -347,7 +347,8 @@ between those activities
   <li>Swimlanes are represented by vertical or horizontal partitions that divide the diagram        into sections, with each section assigned to a specific actor or system.</li>
   <li>Swimlanes can be used to model business processes, software systems, and other complex        processes that involve multiple actors or systems. They provide a clear and concise way to show who is responsible for each activity, and help to identify potential bottlenecks or inefficiencies in the process.</li>
   <p align='center'><img src="https://wcs.smartdraw.com/swim-lane-diagram/img/vertical-swimlane-2.png?bn=15100111868" width="450" helght="600"></p>
-#### -Best practices for creating effective activity diagrams
+  
+- #### Best practices for creating effective activity diagrams
   <li>Keep it simple: Activity diagrams should be simple and easy to understand. Avoid adding unnecessary details or complexity that may confuse readers. Focus on the most important aspects of the process.</li>
 <li>Use clear and concise labels: Use clear and concise labels for activities and transitions, and avoid using jargon or technical terms that may not be familiar to all readers.</li>
 <li>Use consistent notation: Use consistent notation and symbols throughout the diagram to make it easier to read and understand. Avoid using different symbols or notation for the same concept.</li>
@@ -359,14 +360,15 @@ between those activities
   
 ### <p><b>Sequence Diagram</b>-show object interactions arranged in a time sequence</p>
   
-#### -Definition and purpose of sequence diagrams
+- #### Definition and purpose of sequence diagrams
 <li>Sequence diagrams are part of the UML and are used to model the interactions between the actors and the objects showing their behavior within a system</li>
 <li>A sequence diagram shows the sequence of interactions that take place during a particular use case or use case instance (scenario)</li>
 <li>The objects and actors involved are listed along the top of the diagram, with a dotted line drawn vertically from these</li>
 <li>Interactions between objects are indicated by annotated arrows</li>
-  <b>-Sequence Diagram: Scope for Analysis</b>
+  - <b>Sequence Diagram: Scope for Analysis</b>
 <li> Each use case must have at least one sequence diagram that comprises normal flow and alternative flows – split only if it is cluttered to combine all</li>
-#### -Techniques for creating sequence diagrams (e.g. actors, objects, messages)
+  
+- #### Techniques for creating sequence diagrams (e.g. actors, objects, messages)
  <li>Lifeline represents an individual participant (or object) in the interaction</li>
  <li>Focus of control (activation) specifies a behavior or interaction within the lifeline also known as execution specification</li>
  <li>Message defines a particular communication between lifelines of an interaction</li>
@@ -376,7 +378,7 @@ between those activities
 <li>Refer to the use case description when creating a sequence diagram.</li>
 <li>It is not necessary to include boundary, controller, and data layer details that could be added in the design stage.</li>
 <li>Keep the diagram simple and easy to understand, using clear and concise notation.</li>
-  <b>2. Types of Message</b>
+  <b>2. Types of Message</b><br>
   • Synchronous:
 – If a caller sends a synchronous message (in sequence), it must wait until the message is done before it proceeds with its business
 • Asynchronous: 
@@ -393,17 +395,19 @@ between those activities
     <p align='center'><img src="https://i.ibb.co/JvmHMPn/Screenshot-2023-04-27-163819.png"width="600" height="450"></p>
   <p>Concurrency</p>
     <p align='center'><img src="https://i.ibb.co/3z8zXfP/Screenshot-2023-04-27-163833.png"width="600" height="450"></p>
-#### -Best practices for creating effective sequence diagrams
+  
+- #### Best practices for creating effective sequence diagrams
 <li>Each use case should have at least one sequence diagram that comprises normal flow and alternative flows, split only if it is cluttered to combine all.</li>
 <li>Focus on object interaction in the domain model (class diagram for analysis) for a particular use case.</li>
 <li>Refer to the use case description when creating a sequence diagram.</li>
 <li>It is not necessary to include boundary, controller, and data layer details that could be added in the design stage.</li>
 <li>Keep the diagram simple and easy to understand, using clear and concise notation.</li>
-  
+
+---
   
 ### State Chart/State Machine Diagram
   
-#### -Definition and purpose of state chart/state machine diagrams
+- #### Definition and purpose of state chart/state machine diagrams
 State chart/state machine diagrams are graphical models used to represent the behavior of a system or a process. They depict the states that an object or system can be in and the transitions that occur between these states based on some triggering event or condition.
 
 The purpose of state chart/state machine diagrams is to provide a clear and concise representation of the behavior of a system. They are particularly useful for modeling complex systems with multiple states and transitions between them. By breaking down the system's behavior into a series of states and transitions, these diagrams can help identify potential problems or opportunities for optimization.
@@ -412,7 +416,7 @@ State chart/state machine diagrams can be used in a variety of contexts, includi
 
 <p align='center'><img src="https://i.pinimg.com/originals/32/2d/b6/322db67f5f167d860263c9772f36a9c9.png"width="600" height="450"></p>
   
-#### -Techniques for creating state chart/state machine diagrams (e.g. states, events, transitions)
+- #### Techniques for creating state chart/state machine diagrams (e.g. states, events, transitions)
 1. Identify the states: Start by identifying the different states that the system or object can be in. States represent the conditions or modes of operation of the system or object. You can represent states as rectangles with rounded corners, and label them with descriptive names.
   
 <p align='center'><img src="https://i.imgur.com/PE8fzwG.png"width="575" height="215"></p>
@@ -444,7 +448,7 @@ State chart/state machine diagrams can be used in a variety of contexts, includi
   
 5. Add additional details: Add any additional details that may be helpful, such as constraints, guards, or triggers. Constraints represent conditions that must be satisfied for a transition to occur, guards represent conditions that must be satisfied for a transition to continue, and triggers represent actions that are performed when a transition occurs.
   
-#### -Best practices for creating effective state chart/state machine diagrams
+- #### Best practices for creating effective state chart/state machine diagrams
 
 State charts or state machine diagrams are useful tools for visualizing the behavior of complex systems, processes, or software. Here are some best practices for creating effective state charts or state machine diagrams:
   
@@ -461,23 +465,29 @@ State charts or state machine diagrams are useful tools for visualizing the beha
 
 ## III. Part II: Requirements Document
 ### A. Understanding the Requirements Document
-#### -Definition of the requirements document
+- #### Definition of the requirements document
   <p>Software requirements document is an official statement of what is required for the reference of software developers</p>
   <p>Should include both definitions of user requirements and specifications of the system requirements</p>
   <p>It is NOT a design document</p>
   <p>As far as possible, it should set WHAT the system</p>
 should do rather than HOW it should do it
-#### -Importance of the requirements document in software development
-#### -Key components of the requirements document
+- #### Importance of the requirements document in software development
+- #### Key components of the requirements document
+  
+---
+
 ### B. Software Requirements Specification (SRS)
 #### 1. Definition and purpose of SRS
 #### 2. Importance of SRS in software development
 #### 3. Key components of SRS (e.g. functional requirements, non-functional requirements, system constraints)
 #### 4. Techniques for creating effective SRS documents
 #### 5. Best practices for reviewing and validating SRS documents
+
+---
+
 ### C. Managing Changes to the Requirements Document
-#### -Techniques for managing changes to the requirements document (e.g. traceability matrix, change control)
-#### -Best practices for managing changes to the requirements document
+- #### Techniques for managing changes to the requirements document (e.g. traceability matrix, change control)
+- #### Best practices for managing changes to the requirements document
 
 
 ## Contribution 🛠️
