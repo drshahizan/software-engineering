@@ -116,11 +116,11 @@ By defining the scope of the project, the project team can establish the foundat
 
 
 ### 5. Software Process Model:
-- ***Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. ***
+<!-- ***Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. *** -->
   
 The software process model's goal is to offer a structured and well-organized method for developing software. It aids in making certain that the software is delivered on schedule, within budget, and in accordance with the needs and expectations of the stakeholders.
   
-The ideal software process model to be implemented in this project is Agile methodology. This is because of the Agile methodology is an iterative and incremental software development approach that emphasizes flexibility, collaboration, and continuous customer feedback. Besides, the Agile methodology is well-suited for developing software applications where requirements can change frequently, and the development team needs to be able to respond to those changes quickly.
+The ideal software process model to be implemented in this project is <b>Agile methodology<b>. This is because of the Agile methodology is an iterative and incremental software development approach that emphasizes flexibility, collaboration, and continuous customer feedback. Besides, the Agile methodology is well-suited for developing software applications where requirements can change frequently, and the development team needs to be able to respond to those changes quickly.
 
 <p align="center"><img src="https://i0.wp.com/mobile-jon.com/wp-content/uploads/2021/04/Agile-Methodology.jpg?fit=1920%2C1080&ssl=1" width="700px" height="350px"></p>
 
@@ -144,10 +144,12 @@ Here is a breakdown of how the Agile methodology can be applied as a software pr
   
 To assure the quality and functionality of the system, many testing methodologies are employed in this project, including unit testing, integration testing, system testing, acceptance testing, and usability testing. Project management techniques leverage technologies like Kanban boards, sprint planning and regular stand-up meetings to track progress and guarantee task completion on time. To maintain code quality and reduce errors, quality assurance procedures like code review, continuous integration and automated testing are used. These procedures are essential for ensuring the effective deployment and operation of the KTDI system for student accommodation.
 
-Overall, the Agile methodology is an effective software process model for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) because it emphasizes flexibility, collaboration, and continuous customer feedback. It allows the development team to respond quickly to changes in requirements and deliver high-quality software in shorter development cycles.
+In conclusion, the Agile methodology is an effective software process model for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) because it emphasizes flexibility, collaboration, and continuous customer feedback. It allows the development team to respond quickly to changes in requirements and deliver high-quality software in shorter development cycles.
 
 ### 6. Budget:
-- The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
+The developemnt of student accommodation system in Kolej Tun Dr Ismail (KTDI) for 2000 users, including the residents (students, fellows, fellow assistants) and the staff and the adminstrators.
+
+
 
 ### 7. System Architecture:
 - Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system

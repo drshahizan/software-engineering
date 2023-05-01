@@ -25,7 +25,7 @@ Don't forget to hit the :star: if you like this repo.
     <td></td>
   </tr>
     <tr>
-    <td>3</td>
+    <td>3 LOO JIA CHANG</td>
     <td></td>
   </tr>
     <tr>

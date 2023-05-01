@@ -1,79 +1,103 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
   <head>
-            <!--
-        Lab 13: Layout (Mock & Style)
-        Group: Cute Boys
-        1. Name: Wong Jun Ji, Matrix No: A22EC0117, Github ID: jjwong2003
-        2. Name: Lee Soon Der, Matrix No: A22EC0065, Github ID: LeeSoonDer
-        3. Name: Chen Pyng Haw, Matrix No: A22EC0042, Github ID: pynghaw
-        4. Name: Goh Jin Yang, Matrix No: A22EC0052, Github ID: jingyang26
-        -->  
+    <!--
+      Lab 14:Documentation
+      Group:
+      1. Name: CAMILY TANG JIA LEI, Matrix No: A22EC0039, Github ID: camilytang
+      2. Name: CHAI YU TONG, Matrix No: A22EC0145, Github ID: Yutongchai
+      3. Name: MUHAMMAD DANIAL BIN AHMAD SYAHIR, Matrix No: A22EC0206, Github ID: daniallllllll
+      4. Name: NEO ZHENG WENG, Matrix No: A2EC0093, Github ID: zw-weng
+    -->
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-    
+
     <style>
+      body {
+        display: flex;
+        font-family: Arial, Helvetica, sans-serif;
+      }
 
-p
-{
-  line-height: 2.0;
-}
-article
-{
-  line-height:2
-}
-body 
-{
-  margin: 0;
-  display: grid;
-  grid-template-columns: auto auto;
-}
-  
+      #navbar {
+        flex: 0.5;
+        border-right: 2px solid #99a2a2;
+        position: fixed;
+        top: 8px;
+        left: 10px;
+      }
 
-header 
-{
+      header {
+        font-weight: bold;
+        font-size: 26px;
+      }
 
-  padding: 10px;
-  font-weight: bold;
-  font-size: xx-large;
-}
+      #navbar header {
+        border-bottom: 2px solid #99a2a2;
+        padding-left: 20px;
+        padding-top: 20px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+      }
 
-nav ul 
-{
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  position: sticky;
-    top: 0;
-}
+      nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+      }
 
-nav ul li a 
-{
-  border:1px solid black;
-  display: block;
-  padding:20px;
-  text-decoration: none;
-}
+      nav ul li a {
+        display: block;
+        text-decoration: none;
+        border-bottom: 2px solid #99a2a2;
+        color: #4d4e53;
+        padding: 15px;
+        font-size: 16px;
+      }
 
-section 
-{
-  padding: 2rem;
+      li:last-child a {
+        border-bottom: none;
+      }
 
-}
+      #main-doc {
+        flex: 1.0;
+        margin-left: 350px;
+      }
 
-code
-{
+      .main-section{
+        line-height: 2.5;
+      }
 
-  border:1px solid;
-  padding:5px;
-  background-color: lightgray;
-  font-style: italic;
-  line-height: 20px;
+      .main-section header {
+        font-weight: bold;
+        font-size: 200%;
+        padding-bottom: 0px;
+      }
 
-}
+      #Introduction header {
+        padding-top: 0;
+      }
+
+      article {
+        padding-left: 30px;
+      }
+
+      article ul li {
+        padding-top: 5px;
+      }
+
+      code {
+        background-color: #f7f7f7;
+        font-family: Consolas;
+        width: 100%;
+        display: inline-block;
+        padding: 10px 20px 10px 20px;
+        margin: 10px;
+      }
+
     </style>
+    
   </head>
   <body>
     <nav id="navbar">
