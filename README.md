@@ -49,7 +49,7 @@ This course is designed to give students an introduction to an engineering appro
 | 12 | 8: Software verification, validation and testing | Introduction to verification and validation, verification and validation planning, software inspections. System testing, Component testing, Test case design, Test Case Design using Black-box and white box |<a href="https://github.com/drshahizan/software-engineering/blob/main/materials/sec01/mod8.md" ><img src="./images/markdownp.png" width="24px" height="24px" ></a>| <a href="https://github.com/drshahizan/software-engineering/blob/main/materials/sec02/mod8.md" ><img src="./images/markdownh.png" width="24px" height="24px" ></a> |
 | 13 | | Software Engineering project – Test case design. Produce testing document* that includes all the required test cases |
 | 14 | | **TENTATIVE - ALTERNATIVE ASSESSMENT (TBC)**|
-| 15 | | **Industry Day II:** Project demonstration and hand over. |
+| 15 | | Project demonstration and hand over. |
 
 ## [Labs](./lab)
 
