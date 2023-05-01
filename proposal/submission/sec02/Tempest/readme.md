@@ -36,12 +36,21 @@ Baddal Hajj is the act of performing the compulsary obligation for muslims. The 
 The system will allow user to create an account and and make the registration for the hajj or umrah ,user will fill in the important information such as full name,age,address,contact number and more. This system also will be included the section for health information to know the applicants health status for the screening process by those responsible managing the registrations.Some limitations for this project is the security part which the system need to be achieve a certain security stndard to protect those informations and prevent from any breach or unauthorized access.Other than that, the project need to be completed on time or it will affect the success of the project.
 
 ### 5. Software Process Model:
-This section describe the ideal software process model for this system development. The write-up must consist of:
-- Explanation of the goal of the software process model.
-- Choose the ideal software process model and give justification.
-- The illustration of chosen software process model that relates to your project and shows every phase involved in the chosen software process model
-- Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. 
-- It should also describe the testing methodologies, project management practices, and quality assurance processes.
+1. Planning: In the planning phase, the project team will define the project scope, goals, and objectives. This will include identifying the features and functionalities required for the system, and prioritizing them based on their importance to end-users. The team will also define the project timeline and identify the resources required to execute the project.
+
+2. Requirements Gathering: In the requirements gathering phase, the team will work closely with stakeholders to identify the system requirements. This will involve gathering input from end-users, stakeholders, and subject matter experts to ensure that the system meets the needs of all stakeholders. The requirements will be documented and prioritized based on their importance and feasibility.
+
+3. Design: In the design phase, the team will create a design for the system. This will include creating wireframes, prototypes, and mockups to visualize the system's layout and user interface. The design will be reviewed and refined based on feedback from stakeholders and end-users.
+
+4. Implementation: In the implementation phase, the team will begin developing the system. The development work will be divided into sprints, each lasting 2-4 weeks. During each sprint, the team will work on a specific set of features and functionalities. At the end of each sprint, the team will conduct a sprint review and demo the new features to stakeholders and end-users.
+
+5. Testing: In the testing phase, the team will conduct extensive testing to ensure that the system meets the requirements and works as intended. This will include unit testing, integration testing, and user acceptance testing. The testing will be conducted throughout the development process, with each sprint being followed by a testing phase.
+
+6. Deployment: In the deployment phase, the team will deploy the system to a production environment. This will involve installing and configuring the system and ensuring that it is ready for end-users. The team will also provide training to end-users to ensure that they know how to use the system.
+
+7. Maintenance: In the maintenance phase, the team will provide ongoing support for the system. This will involve monitoring the system for bugs and issues and addressing them as they arise. The team will also provide updates and enhancements to the system as needed to ensure that it continues to meet the needs of stakeholders and end-users.
+
+Using the Agile model for the software process model of the Badal Hajj and Umrah Management System project will allow the team to work in an iterative and collaborative manner, with a focus on delivering value to end-users at every stage of the development process.
 
 ### 6. Budget:
 Budget is the important requirement that need to be plan at the early stage so that the project can be proceed without being delayed because the short of budget, there are a few things that need to be pointed out in the budget lists: 
