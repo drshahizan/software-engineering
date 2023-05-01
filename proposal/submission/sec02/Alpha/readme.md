@@ -70,9 +70,38 @@ This section describe the ideal software process model for this system developme
 
 ### 7. System Architecture:
 - Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
+## System Architecture Overview
+#### System Architecture Overview
+The proposed system architecture for this college room rental services is
+a three tier architecture which organises applications into three logical and physical computing tiers that is:
+ - presentation tier or user interface that will present information and handle user interface for users.In this tier,  HTML, CSS, and JavaScript, along with a framework like React or Angular can be used  for building the user interface.
+- application tier that processes user requests and updates the price and number of days to be processed. By using a framework like Flask or Express.js for building RESTful APIs with a server-side language such as Node.js or Python.
+- data tier that will store and manage all the rental data. Depending on the requirements of the system, relational database management system (RDBMS) like MySQL or PostgreSQL, or MongoDB(a NoSQL database) 
+ - **presentation tier** or user interface that will present information and handle user interface for users.In this tier,  HTML, CSS, and JavaScript, along with a framework like React or Angular can be used  for building the user interface.
+- **application tier** that processes user requests and updates the price and number of days to be processed. By using a framework like Flask or Express.js for building RESTful APIs with a server-side language such as Node.js or Python.
+- **data tier** that will store and manage all the rental data. Depending on the requirements of the system, relational database management system (RDBMS) like MySQL or PostgreSQL, or MongoDB(a NoSQL database) 
+
+
 - Explain how the data will be stored, managed, and analyzed, as well as the hardware and software requirements needed to support the system.
 - Discuss the tools and frameworks that will be used for data visualization and analysis.
 - Provide a flowchart or block diagram of the system architecture.
+Explain how the data will be stored, managed, and analyzed, as well as the hardware and software requirements needed to support the system.
+#### Data Storage, Management and Analysis
+For this system, the data tier will be responsible to store and manage the database management system of the rental data . As data integrity, security, and scalability is extremely important, the database will be designed. Tools and frameworks like Python's pandas library or R programming language that is capable of analysing and visualising data will be used to implement data analysis.
+
+As for the software and hardware requirements that are needed to support this system, a server or cloud based infrastructure that can handle the expected workload traffic with sufficient resources will be required.
+
+
+
+
+Discuss the tools and frameworks that will be used for data visualization and analysis.
+#### Tools and Frameworks
+This college rental system will use various tools and frameworks. For Example to Handle user interface, design tools such as HTML, CSS and JavaScript will be used.
+
+
+Provide a flowchart or block diagram of the system architecture.
+#### Flowchart and Block Diagram
+
 
 ### 8. Risks Assessment:
 - The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
