@@ -97,8 +97,20 @@ The system will have a multi-tier architecture consisting of a presentation laye
 - Provide a flowchart or block diagram of the system architecture.
 
 ### 8. Risks Assessment:
-- The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
-- It should also describe the plans and strategies to mitigate those risks.
+Risk assessment is an essential part of any software development project, and the UTM Grading System project is no exception. The following is a risk assessment and management plan for the project.
+#### 1. Technical Challenges: 
+The development team will conduct a thorough analysis of the technical requirements of the system and assess the feasibility of the proposed solution. The team will also conduct regular code reviews and testing to identify and address any technical challenges promptly.
+
+#### 2. Resource constraints: 
+The project manager will monitor the project budget and schedule regularly to ensure that resources are allocated effectively. The project manager will also identify any personnel shortages or hardware/software limitations and take appropriate action.
+
+#### 3. Changes in project requirements: 
+The development team will conduct regular stakeholder meetings to review project requirements and identify any changes. The team will also document all changes and assess their impact on the project timeline and budget.
+
+#### 4. Security breaches: 
+The development team will follow industry best practices for data security, including encryption of sensitive data, regular security audits, and penetration testing. The team will also implement security protocols and procedures to prevent unauthorized access to the system.
+#### 5. Server Downtime: 
+The development team will implement a backup and recovery plan to minimize the impact of server downtime. The team will also work with the hosting provider to ensure that the server is maintained and updated regularly to minimize the risk of downtime.
 
 ### 9. Resources
 #### Staff
