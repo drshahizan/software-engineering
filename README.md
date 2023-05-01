@@ -96,17 +96,17 @@ This course is designed to give students an introduction to an engineering appro
   - [829-2008 - IEEE Standard for Software and System Test Documentation](https://ieeexplore.ieee.org/document/4578383)
 - [IEEE Standards](https://standards.ieee.org/search/?q=software%20standard)
 
-## Markdown Tools
+## Tools
 
 ### Five great tools for creating diagrams and flowcharts
 
-1. [Mermaid.js](https://mermaid.js.org/): Mermaid.js is a popular JavaScript library for creating diagrams and flowcharts using Markdown syntax. It's open source, easy to use, and supports a wide range of diagram types.
+1. [Diagrams.net](https://www.diagrams.net/): Diagrams.net (formerly known as Draw.io) is a web-based diagramming tool that supports a variety of diagram types, including flowcharts, network diagrams, and more. It has a simple interface and supports Markdown syntax for creating diagrams.
 
 2. [PlantUML](https://plantuml.com/): PlantUML is a tool for creating UML diagrams using a simple textual syntax. It supports a variety of diagram types, including class diagrams, use case diagrams, sequence diagrams, and more.
 
-3. [Graphviz](https://graphviz.org/): Graphviz is a powerful tool for creating graphs and diagrams using a simple textual syntax. It supports a wide range of graph types, including directed and undirected graphs, flowcharts, and more.
+3. [Mermaid.js](https://mermaid.js.org/): Mermaid.js is a popular JavaScript library for creating diagrams and flowcharts using Markdown syntax. It's open source, easy to use, and supports a wide range of diagram types.
 
-4. [Diagrams.net](https://www.diagrams.net/): Diagrams.net (formerly known as Draw.io) is a web-based diagramming tool that supports a variety of diagram types, including flowcharts, network diagrams, and more. It has a simple interface and supports Markdown syntax for creating diagrams.
+4. [Graphviz](https://graphviz.org/): Graphviz is a powerful tool for creating graphs and diagrams using a simple textual syntax. It supports a wide range of graph types, including directed and undirected graphs, flowcharts, and more.
 
 5. [yEd Graph Editor](https://www.yworks.com/products/yed): yEd Graph Editor is a desktop application for creating diagrams and flowcharts. It supports a wide range of diagram types and has a simple interface that makes it easy to create and edit diagrams. It also supports Markdown syntax for creating diagrams.
 
