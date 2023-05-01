@@ -490,6 +490,41 @@ For example, in the university academic course registration system, if a student
 | Alternative Flow | 3a. If the selected credit type requires approval from an academic advisor, the system sends a notification to the student indicating that the advisor must review and approve their credit type selection.<br>3b. The academic advisor receives the notification and logs into the system to view the student's course registration request.<br>3c. The advisor reviews the student's credit type selection and either approves or denies the request.<br>3d. If the request is denied, the advisor must provide a reason for the denial.<br>3e. The system notifies the student of the advisor's decision and reason for denial (if applicable).<br>3f. If the request is approved, the system proceeds with the course registration process as described in the main flow. |
 | Postconditions | - If the advisor approves the credit type selection, the student is registered for the course with the chosen type of credit<br>- If the advisor denies the credit type selection, the student is not registered for the course and must either choose a different credit type or select a different course altogether. |
 
+## Repetition within a Flow: For/While
+In UML (Unified Modeling Language), repetition within a flow using For/While loops can be represented using a loop node. A loop node is a type of activity node that allows a set of actions to be repeated while a particular condition is true.
+
+The use case of repetition within a flow using For/While loops in the context of a university academic course registration system:
+
+---
+Use Case: University Academic Course Registration System
+
+ID: UC-004
+
+Actors: Student
+
+Preconditions:
+- The student is logged into the university academic course registration system
+- The student has already searched for courses and found one they are interested in
+
+Flow of Events:
+
+Step | Action
+--- | ---
+1 | The student selects the "Register for Courses" option in the system.
+2 | The system presents the student with a list of courses they can register for, based on their academic program and availability.
+3 | The student selects the course they want to register for and confirms their choice.
+4 | The system verifies that the student has met the prerequisites for the course and can register for it.
+5 | If the student meets the prerequisites, the system adds the course to their registration list and prompts the student to select another course to register for.
+6 | If the student does not meet the prerequisites, the system displays an error message and prompts the student to select another course that they are eligible to take.
+7 | The student repeats steps 3-6 until they have registered for all the courses they want to take.
+
+Postconditions:
+- The student has successfully registered for the courses they want to take.
+
+In this use case, repetition within a flow is used to allow the student to register for multiple courses one at a time. The For/While loop is used to repeat the process of selecting and registering for a course until the student has registered for all the courses they want to take. 
+
+This process can save time for the student by allowing them to select and register for multiple courses in a single session without having to go through the registration process for each course separately. Additionally, the system can verify that the student has met the prerequisites for each course before allowing them to register, ensuring that they are only registering for courses that they are eligible to take.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
