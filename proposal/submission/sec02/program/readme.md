@@ -1,6 +1,6 @@
 #  Proposal 
 
-## Academic Consultation System  
+## Academic Advisor System  
 
 
 ### Prepared by: Group Software
