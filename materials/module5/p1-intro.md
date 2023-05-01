@@ -7,15 +7,11 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-
 ### Table of Contents
 
 - [Requirements Modeling Concept](p1-intro.md)
 - [Use Case Diagram](p2-use-case.md)
 - [Requirements Document](p3-soft-requirement.md)
-- [xxx](p4-form.md)
-- [xxx](p5-req-eng.md)
-- [xxx](p6-interview.md)
 
 # Part 1: Requirements Modeling Concept
 
