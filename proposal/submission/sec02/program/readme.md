@@ -1,6 +1,6 @@
 #  Proposal 
 
-## Student Health and Wellness Management System
+## Academic Consultation System  
 
 
 ### Prepared by: Group Software
