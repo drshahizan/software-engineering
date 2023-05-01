@@ -41,7 +41,7 @@ To address these challenges, the proposed software system will provide an online
 
 The system will be designed to be user-friendly and accessible, with clear instructions and prompts throughout the process. It will also incorporate automated communication channels, such as email notifications, to keep students and staff updated on the status of their applications and requests.
 
-The expected outcomes of the project include improved student and also KTDI staffs satisfaction, as the software system will provide a more convenient and streamlined process for managing accommodation. KTDI staff will also benefit from increased efficiency, as the system will reduce the need for manual data entry and administrative tasks. Finally, the system is expected to reduce errors and delays in the accommodation management process, resulting in a more reliable and efficient system overall.
+The expected outcomes of the project include improved students and also KTDI staffs satisfaction, as the software system will provide a more convenient and streamlined process for managing accommodation. KTDI staff will also benefit from increased efficiency, as the system will reduce the need for manual data entry and administrative tasks. Finally, the system is expected to reduce errors and delays in the accommodation management process, resulting in a more reliable and efficient system overall.For the maintenance part,we ensure that KTDI rooms will remain well-maintained thanks to the maintenance system, providing students with a cosy and secure living space.
 
 ---
   

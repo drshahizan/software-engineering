@@ -470,9 +470,16 @@ This table represents a use case scenario for the "Enroll in Course" feature in 
 
 > UC-02 (Drop Course) is a use case in the university academic course registration system that enables a student to drop a course from their schedule. The student is the actor for this use case, and the precondition is that the student is already registered in at least one course. The flow of events involves the student selecting the course to drop, the system verifying the enrollment, removing the course from the schedule, and notifying the student of the successful course drop. The postconditions are that the selected course is dropped from the student's schedule, and the student is notified of the successful course drop.
 
-Sure, here is a table format for the use case description:
+## Branching within a Flow and Alternative Flow
+Branching within a flow occurs when there are multiple paths that can be taken in a use case based on certain conditions or decisions. This means that the flow of events may split into different directions depending on specific criteria.
 
-| Use Case | UC-003 |
+For example, in a university academic course registration system, a student may select a course they wish to register for and then have to choose the type of credit they want to receive for that course. Depending on the type of credit they select, the flow of events may branch into different directions. If they choose a credit type that requires approval from an academic advisor, the flow of events will include a separate path where the advisor must review and approve the credit type selection before the registration process can continue.
+
+Alternative flow occurs when there is a deviation from the main flow of events due to a specific issue or error. This means that if something goes wrong during the use case, an alternative path will be taken to handle the issue and ensure the use case can still be completed successfully.
+
+For example, in the university academic course registration system, if a student encounters an error or issue during the registration process, an alternative flow may occur where they can contact the university's help desk for assistance. The help desk may request additional information from the student or escalate the issue to technical support if necessary, allowing the student to complete the registration process successfully.
+
+| Use Case | UC003 |
 | --- | --- |
 | Actors | Student, Academic Advisor |
 | Preconditions | - The student is logged into the university academic course registration system<br>- The student has already searched for courses and found one they are interested in<br>- The student has selected the course they want to register for |
