@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-#  Proposal
+#  Project Proposal
 
 ## Student Accommodation System in Kolej Tun Dr Ismail (KTDI)
 
