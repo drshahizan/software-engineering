@@ -91,17 +91,17 @@ However, the potential benefits of a student engagement system software towards 
 The major objectives of building a student engagement website for Faculty Computing Students are to enhance the overall student experience and improve student engagement within the academic community. Below are some specific objectives that can be achieved through the development of a student engagement website:
 <br></br>
 <ol>
-  <li>Improve academic outcomes:</li><br>
+  <li>Improve academic outcomes:</li>
   A student engagement website can help students to stay organized, manage their time effectively, and stay on top of assignments and deadlines, which can lead to improved academic outcomes.
-  <li>Foster a sense of community: </li><br>
+  <li>Foster a sense of community: </li>
   By providing students with a platform to connect with their peers and faculty members, a student engagement website can foster a sense of community and encourage students to engage in extracurricular activities and other aspects of campus life.
   <li>Enhance communication</li><br>
  A student engagement website can provide a central hub for communication between students, faculty members, and other members of the academic community, improving communication and collaboration.
-  <li>Provide personalized support:</li><br>
+  <li>Provide personalized support:</li>
  A personalized dashboard on the website can help students to access relevant information and resources based on their individual needs and interests, providing personalized support and improving the student experience.
-  <li>Increase student retention:</li><br>
+  <li>Increase student retention:</li>
  By enhancing student engagement and satisfaction, a student engagement website can help to improve student retention and reduce dropout rates.
-  <li>Encourage student feedback:</li><br>
+  <li>Encourage student feedback:</li>
  A feedback system on the website can provide students with an opportunity to provide feedback on courses, instructors, and other aspects of their academic experience, which can help to improve the quality of education and overall student satisfaction.<br>
   </ul>
   Overall, the development of a student engagement website aims to provide a comprehensive platform that supports Faculty Computing's students throughout their academic journey, enhances their learning experience, and fosters a sense of community within the academic community.<br>
