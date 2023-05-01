@@ -95,7 +95,7 @@ The major objectives of building a student engagement website for Faculty Comput
   A student engagement website can help students to stay organized, manage their time effectively, and stay on top of assignments and deadlines, which can lead to improved academic outcomes.
   <li>Foster a sense of community: </li>
   By providing students with a platform to connect with their peers and faculty members, a student engagement website can foster a sense of community and encourage students to engage in extracurricular activities and other aspects of campus life.
-  <li>Enhance communication</li><br>
+  <li>Enhance communication</li>
  A student engagement website can provide a central hub for communication between students, faculty members, and other members of the academic community, improving communication and collaboration.
   <li>Provide personalized support:</li>
  A personalized dashboard on the website can help students to access relevant information and resources based on their individual needs and interests, providing personalized support and improving the student experience.
