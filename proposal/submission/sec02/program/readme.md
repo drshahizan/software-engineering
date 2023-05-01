@@ -230,3 +230,10 @@ We understand that challenges and limitations may arise during the project, but 
 We urge the client to approve our proposal and proceed with the project as soon as possible to realize the benefits of our proposed solution. We are committed to delivering a successful project that meets and exceeds the client's expectations. 
 
 ### Thank you for considering our proposal.
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
