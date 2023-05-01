@@ -291,15 +291,79 @@ Total Other Expenses: RM 296,000
 Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
 
 ### 10. Technical Specifications:
-<table style="border-collapse: collapse">
+<table>
   <tr>
-    <td>Data sources</td>
-    <td>- Event organisers will enter the event data which includes information about the event itself, such as the date, time, location and event type.<br>- The event registration forms will collect data which includes attendee information such as names,email addresses,phone numbers and other contact details.<br>- The survey tools integrated with the event management system will collect data and provide insights into attendee satisfaction, areas of improvement, and future event ideas.</td>
+    <th align= "left">Data sources</th>
+    <td>
+      <ul>
+        <li>Event organisers will enter the event data which includes information about the event itself, such as the date, time, location and event type.</li?
+        <li>The event registration forms will collect data which includes attendee information such as names,email addresses,phone numbers and other contact details.</li>
+      <li>The survey tools integrated with the event management system will collect data and provide insights into attendee satisfaction, areas of improvement, and future event ideas.</li>
+  </ul>
+    </td>
   </tr>
   
   <tr>
-    <td>ata schema</td>
-    <td>- A database with tables that represent the various data sources involved in event management, such as attendee data, event data, financial data, surveys and feedback, and customer relationship management (CRM) data.</td>
+    <th align= "left">Data schema</th>
+    <td>A database with tables that represent the various data sources involved in event management, such as attendee data, event data, financial data, surveys and feedback, and customer relationship management (CRM) data.</td>
+  </tr>
+  
+  <tr>
+    <th align= "left">Data transformation</th>
+    <td>The attendee data and the event data are transformed into a relational database management system (RDBMS) to associate each attendee with the event they registered for.</td>
+  </tr>
+  
+  <tr>
+    <th align= "left">Programming languages</th>
+    <td>Java, JavaScript, CSS, PHP</td>
+  </tr>
+  
+  <tr>
+    <th align= "left">Frameworks</th>
+    <td>Spring, Laravel, React, Vue.js</td>
+  </tr>
+  
+  <tr>
+    <th align= "left">Libraries</th>
+    <td>Bootstrap, jQuery, React Native,D3.js</td>
+  </tr>
+  
+  <tr>
+    <th align= "left">Hardware requirements</th>
+    <td>
+      <ul>
+        <li>Processor: Dual-core or higher</li>
+        <li>RAM: 8 GB or higher</li>
+        <li>Storage: 100 GB or higher</li>
+        <li>Network Interface: Gigabit Ethernet or higher</li>
+        <li>Display: 1080p or higher</li>
+      </ul>
+    </td>
+  </tr>
+  
+  <tr>
+    <th align= "left">Software requirements</th>
+    <td>
+      <ul>
+        <li>Operating System: Windows, Linux or macOS</li>
+        <li>Web Server: Apache, Nginx, or Microsoft IIS</li>
+        <li>Database Management System: MySQL, PostgreSQL, or Microsoft SQL Server</li>
+        <li>Programming Language: Java, Python, or PHP</li>
+        <li>Integrated Development Environment (IDE): Eclipse, PyCharm, Visual Studio Code, or IntelliJ IDEA</li>
+      </ul>
+    </td>
+  </tr>
+  
+  <tr>
+    <th align= "left">Data security measures</th>
+    <td>
+    <ul>
+      <li>Access control: Only authorised users can access the system and its data.</li>
+      <li>Audit trail: Track user activity and changes made to the system and its data.</li>
+      <li>Regular updates and patches: Updated regularly with the latest security patches.</li>
+      <li>Training and awareness: Educate users on data security best practices, such as strong password management, phishing awareness, and safe browsing habits.</li>
+    </ul>
+    </td>
   </tr>
 </table>
 
