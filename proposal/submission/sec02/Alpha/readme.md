@@ -13,7 +13,7 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ### Prepared by: Group Alpha
-  1. 
+  1. Salini
   2. Nur Farah Adibah Binti Idris A22EC0245 
   3. Nur Aleysha Qurratu'aini Binti Mat Salleh A22EC0241
   4. Nadhrah NurSabrina Binti Zulaini A22EC0224
