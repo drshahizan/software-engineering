@@ -61,7 +61,34 @@ This section describe the ideal software process model for this system developme
 - It should also describe the plans and strategies to mitigate those risks.
 
 ### 9. Resources:
-- Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
+
+#### Staff:
+- Project Manager: responsible for overseeing the project, managing resources, and ensuring the project is delivered on time and within budget.
+- Business Analyst: responsible for gathering and analyzing requirements, creating functional specifications, and identifying system requirements.
+- Developers: responsible for building and implementing the system.
+- Quality Assurance (QA) Analysts: responsible for testing the system and ensuring that it meets requirements and is bug-free.
+- Technical Writers: responsible for creating user manuals and system documentation.
+- User Experience (UX) Designers: responsible for creating an intuitive and user-friendly interface.
+
+#### Equipment:
+- Server infrastructure: a robust server infrastructure is required to host the grading system and ensure it can handle large volumes of traffic.
+- Network infrastructure: high-speed internet connectivity and network equipment to connect the system to the internet and the university network.
+- Workstations: computers for the development and QA teams.
+
+#### Software:
+- Programming languages: the system can be built using different programming languages and frameworks, depending on the preferences and expertise of the development team.
+- Database software: a database management system to store and manage student and grading data.
+- Web server software: to host the grading system and serve content to users.
+- Testing software: automated testing tools to ensure the system is free of bugs and errors.
+- Security software: firewalls, antivirus software, and other security measures to ensure the system is protected from cyber threats.
+
+#### Other Expenses:
+- Licensing fees: some software components may require licensing fees.
+- Training: training for staff members to ensure they are familiar with the system and can use it effectively.
+- Maintenance and support: ongoing maintenance and support to ensure the system remains secure, updated, and functional.
+
+
+It's important to note that the specific resource requirements for an online grading system will vary depending on the scope of the project, the size of the university, and other factors. This breakdown is intended to provide a general idea of the resources required.
 
 ### 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
