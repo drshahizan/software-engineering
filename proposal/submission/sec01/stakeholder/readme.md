@@ -226,7 +226,7 @@ High-level diagram that represents our proposed system architecture:
               |                     |
 +----------------------------------------------------+
 |              User-Facing Interfaces                |
-|            (Mobile & Web Applications)             |
+|                (Web Applications)                  |
 +----------------------------------------------------+
 ``` 
   
