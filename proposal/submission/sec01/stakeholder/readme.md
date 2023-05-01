@@ -131,7 +131,7 @@ Furthermore, because of the nature of student rooms, the Agile methodology is pe
 
 <p align="center"><img src="https://i0.wp.com/mobile-jon.com/wp-content/uploads/2021/04/Agile-Methodology.jpg?fit=1920%2C1080&ssl=1" width="700px" height="350px"></p>
 
-Here is a breakdown of how the Agile methodology can be applied as a software process model for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI):
+Agile methodology for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) as stated below:
 
 1. Planning Phase: In this phase, the development team works with the client to identify the project scope, goals, and objectives. They define the project timeline and milestones, identify project risks, and allocate project resources appropriately. They create a sprint plan for the first iteration and identify the user stories and product backlog items that will be worked on in that sprint.
 
