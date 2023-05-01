@@ -84,6 +84,7 @@
     border: black solid 5px;
   }
   
+/* Mock 3 */
   .m3green{
     background-color: green;
     grid-column: 1 / span 3;
@@ -91,7 +92,6 @@
     border: black solid 5px;
   }
 
-/* Mock 3 */
   .m3image{
     grid-row: 3;
     background-image: url(https://i.ibb.co/kQm2ppX/PK-Carsport-GT2-Audis.jpg)
