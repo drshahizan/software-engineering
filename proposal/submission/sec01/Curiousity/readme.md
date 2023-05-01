@@ -112,7 +112,7 @@ During this stage, the team will test the system to make sure it complies with t
         </tr>
         <tr>
           <td>Assist in documenting the requirements in a clear and concise manner.
-          <tr>Documentation Specialist</tr>
+          <td>Documentation Specialist</td>
           <td>Ongoing</td>
         <tr>
           <td rowspan="4">Phase 2: Development</td>
