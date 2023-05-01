@@ -185,7 +185,7 @@ The proposed architecture for the Student Accommodation System project at Kolej 
 - Presentation Layer: The presentation layer is the front-end of the system that users will interact with. It will consist of a web-based user interface built using the React.js as the font-end JavaScript library and Bootstrap framework with HTML, CSS as well as JavaScript. The presentation layer will be responsible for presenting the data to the users and allowing them to interact with the system in order to improve the user experience.
 - Application Layer: In this middle layer of the system, PHP language will be used to handle the business logic and data processing. It will be responsible for processing requests from the front-end and communicating with the data layer.
 - Data Layer: In this back-end of the system, we will use MySQL database to store and manage the data. The data layer will be responsible for storing and retrieving data from the database.
-- Data Visualization Layer: The Data Visualization Layer will be responsible for presenting the data in an understandable and interactive format for the end-users. This layer will use visualization libraries which is D3.js.
+- Data Visualization Layer: The Data Visualization Layer will be responsible for presenting the data in an understandable and interactive format for the end-users. This layer will use visualization libraries which is D3.js and Chart.js. 
 - Server Layer: The server layer will be responsible for hosting and managing the system and its components. In this layer, we will use the Apache HTTP Server as the web server software to handle the HTTP requests and responses between the users and the web-based front-end.
   
 
@@ -206,9 +206,13 @@ ii. Software requirements
 - Apache HTTP Server as the web server software
 - PHP language as the communication with the data layer to handle the business logic and data processing
 - D3.js as the data visualization library to present data
+- Chart.js as the data visualization library to create interactive charts and graph
 - Git for version control
   
 #### Data Analysis and Visualization:
+- Data analysis tools: We will use R programming language (R Studio) and Microsoft Excel to clean and preprocess the data, perform statistical analysis, and create data models.
+- Data visualization tools: We will use D3.js, and Chart.js to create interactive charts and graph with visualizations to represent data in a meaningful way.
+- Business intelligence (BI) tools: We will use Tableau, PowerBI to perform advanced analytics, create reports, and generate insights from the data.
 
 #### System Architecture Diagram:
 The proposed system architecture can be visualized using the following flowchart:
