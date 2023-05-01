@@ -14,9 +14,9 @@ Don't forget to hit the :star: if you like this repo.
 
 ### Prepared by: <stakeholder>
   1. MUHAMMAD DANIEL HAKIM BIN SYAHRULNIZAM (A22EC0207)
-  2. MUHAMMAD ARIFF DANISH BIN HASHNAN ( )
+  2. MUHAMMAD ARIFF DANISH BIN HASHNAN (A22EC0204)
   3. MUHAMMAD IMAN FIRDAUS BIN BAHARUDDIN ( )
-  4. MUHAMMAD SAFWAN BIN MOHD AZMI (A22EC0221)
+  4. MUHAMMAD SAFWAN BIN MOHD AZMI ( )
   5. CHE MARHUMI BIN CHE AB RAHIM ( )
 
 ### Table of Contents
@@ -44,20 +44,52 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ## 4. Scope: 
+The scope of a food ordering system can vary depending on the specific requirements of the system, but some common features and functionalities that can be included are:
+
+- User Registration and Login: Users should be able to create their accounts and log in to the system using their credentials.
+
+- Menu Management: The system should allow restaurant owners to manage their menu, including adding, updating, and deleting items.
+
+- Order Placement: Customers should be able to browse the menu and place orders online, either takeaway or dine-in.
+
+- Payment Processing: The system should provide a secure and efficient payment gateway that enables users to make payments online.
+
+- Order Tracking: The system should allow customers to track their orders in real-time and provide status updates, such as order confirmed, preparing, on the way, and delivered.
+
+- Feedback and Reviews: The system should allow customers to provide feedback and leave reviews for the restaurant and its dishes.
+
+- Admin Panel: The system should have an admin panel that enables the restaurant owner to manage the entire system, including users, menu items, and orders.
+
+- Mobile App: The system can have a mobile application that enables customers to place orders and track their orders on the go.
+
+- Analytics and Reporting: The system can provide analytics and reporting tools that enable the restaurant owner to analyze their sales and make informed business decisions.
+
+In summary, this food ordering system can streamline the entire food ordering process, from browsing the menu to payment processing and delivery, thereby enhancing the user experience and generating higher sales for the restaurant.
 
 ## 5. Software Process Model:
 
 ## 6. Budget:
 
-#### Hardware: RM
+The budget for developing a food ordering system can vary depending on several factors, such as the complexity of the system, the features and functionalities required, the development platform, and the development team's location and expertise. 
 
-#### Software: RM
+- System Design and Development: RM50,000.
+This includes the cost of designing the system architecture, creating wireframes, and developing the system's front-end and back-end.
 
-#### Personnel: RM 
+- Database Management: RM20,000.
 
-#### Testing: RM 
+This includes the cost of setting up and managing the database, including configuring security and backup systems.
 
-#### Contingency: RM 
+- Payment Gateway Integration: RM20,000.
+
+This includes the cost of integrating a payment gateway system into the food ordering system, enabling customers to make online payments.
+
+- Mobile Application Development: If a mobile application is required, the cost can range from RM10,000 to RM50,000.
+
+- Testing and Quality Assurance: RM20,000.
+
+This includes the cost of testing the system for bugs and errors and ensuring that the system meets the quality standards.
+
+It's essential to note that these are just estimates, and the actual cost may vary based on the specific requirements of the project. Additionally, ongoing maintenance costs and server hosting costs may also need to be considered.
 
 
 ## 7. System Architecture:
@@ -91,11 +123,6 @@ Total Estimated Cost: RM
 > Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
 
 ## 10. Technical Specifications:
- - Platform: The system should be web-based and accessible from any device with an internet connection, such as desktops, laptops, tablets, and smartphones. The system should be compatible with multiple operating systems and web browsers.
- - Programming languages and technologies: The system can be built using a combination of technologies such as HTML, CSS, JavaScript, PHP, Python, and MySQL. The system can also use frameworks such as Laravel, React, Angular, and Vue.js.
- - User Interface: The user interface should be easy to navigate and visually appealing, with features such as menus, search bars, and order tracking. The system can use responsive web design to optimize the user experience on different devices.
- - Order Management System: The system should have an order management system that allows restaurants to manage their orders, such as confirming orders, updating the status of orders, and sending notifications to customers.
- - Payment Gateway: The system should support different payment methods such as qr pay , online banking , and digital wallets. It should also integrate with a secure payment gateway to ensure the security of customer transactions.
 
 
 ## 11. Timeline and Deliverables: 
