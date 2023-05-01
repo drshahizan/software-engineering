@@ -343,6 +343,69 @@ package University {
 <img src="pd-s.png"  width="600" />
 </p>
 
+## Use Case Diagram: Notation
+A use case diagram in UML is a graphical representation of the functional requirements of a system. It shows the actors (users or external systems) interacting with the system and the various use cases (functional requirements) that the system must satisfy.
+
+The notation for a use case diagram includes the following:
+
+1. Actors are represented by stick figures.
+2. Use cases are represented by ovals with the name of the use case inside.
+3. Relationships between actors and use cases are represented by lines. There are two types of relationships:
+   a. Association: a straight line connecting an actor to a use case.
+   b. Include/Extend: a dashed line with an arrowhead connecting a use case to another use case, indicating that one use case includes or extends another use case.
+
+Here is an example of a use case diagram for the university academic course registration system:
+
+```puml
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+actor Student
+actor Admin
+rectangle Registration {
+  Student --> (Enroll in Course)
+  Student --> (Drop Course)
+  Student --> (Pay Tuition)
+  (Search Course) <-- Admin
+  (Add Course) <-- Admin
+  (Delete Course) <-- Admin
+}
+@enduml
+```
+
+In this diagram, there are two actors: `Student` and `Admin`. The `Student` actor can perform three use cases: `Enroll in Course`, `Drop Course`, and `Pay Tuition`. The `Admin` actor can perform three use cases: `Search Course`, `Add Course`, and `Delete Course`. The use cases are represented by ovals and the actors are represented by stick figures. The association between actors and use cases is represented by a straight line, and the association between use cases is represented by a dashed line with an arrowhead. The `Registration` rectangle is used to group related use cases.
+
+### Example
+```puml
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+actor Student
+actor Admin
+rectangle Registration {
+Student --> (Enroll in Course)
+note right of (Enroll in Course) : Allows the student to enroll in a course they are interested in.
+
+Student --> (Drop Course)
+note right of (Drop Course) : Allows the student to drop a course they are currently enrolled in.
+
+Student --> (Pay Tuition)
+note right of (Pay Tuition) : Allows the student to pay for their tuition fees.
+
+(Search Course) <-- Admin
+note left of (Search Course) : Allows the admin to search for courses in the system.
+
+(Add Course) <-- Admin
+note left of (Add Course) : Allows the admin to add a new course to the system.
+
+(Delete Course) <-- Admin
+note left of (Delete Course) : Allows the admin to remove a course from the system.
+}
+@enduml
+```
+<p align="center">
+<img src="ucd-n-s.png"  width="600" />
+</p>
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
