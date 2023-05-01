@@ -291,25 +291,19 @@ Total Other Expenses: RM 296,000
 Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
 
 ### 10. Technical Specifications:
-<table style="border-collapse: collapse; border: 1px solid;">
-        <tr style="border-collapse: collapse; border: 1px solid">
-            <td style="border-collapse: collapse; border: 1px solid">Data sources</td>
-            <td>
-                <li>Event organisers will enter the event data which includes information about the event itself, such as
-                    the date, time, location and event type.</li>
-                <li>The event registration forms will collect data which includes attendee information such as names,email
-                    addresses,phone numbers and other contact details.</li>
-                <li>The survey tools integrated with the event management system will collect data and provide insights into
-                    attendee satisfaction, areas of improvement, and future event ideas.</li>
+<table style="border-collapse: collapse">
+        <tr>
+            <td>Data sources</td>
+            <td>- Event organisers will enter the event data which includes information about the event itself, such as the date, time, location and event type.
+              - The event registration forms will collect data which includes attendee information such as names,email addresses,phone numbers and other contact details.
+              - The survey tools integrated with the event management system will collect data and provide insights into attendee satisfaction, areas of improvement, and future event ideas.
             </td>
         </tr>
     
-        <tr style="border-collapse: collapse; border: 1px solid">
-            <td style="border-collapse: collapse; border: 1px solid">Data schema</td>
+        <tr style="border-collapse: collapse">
+            <td>Data schema</td>
             <td>
-                <li>A database with tables that represent the various data sources involved in event management, such as
-                    attendee data, event data, financial data, surveys and feedback, and customer relationship management
-                    (CRM) data.</li>
+              - A database with tables that represent the various data sources involved in event management, such as attendee data, event data, financial data, surveys and feedback, and customer relationship management (CRM) data.
             </td>
         </tr>
     
