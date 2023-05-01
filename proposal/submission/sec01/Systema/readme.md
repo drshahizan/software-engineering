@@ -14,7 +14,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ### Prepared by: Systema
   1. Name and matrix no
-  2. Name and matrix no
+  2. CHai Yu Tong A22EC0145
   3. Name and matrix no
   4. Wong Qiao Ying A22EC0118
   5. Yeoh Chong Yi A22EC0295
