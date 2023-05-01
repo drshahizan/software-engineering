@@ -26,6 +26,7 @@
     font-family: 'Courier New', Courier, monospace;
   }
 
+/* Mock 1 */
   .header1 {
     grid-column: 1 / 4;
     background-color: #333333;
@@ -58,6 +59,7 @@
     height: 40px;
   }
 
+/* Mock 2 */
   .header2 {
     grid-column: 1 / span 3;
     background-color: plum;
@@ -93,7 +95,8 @@
     border-color: black;
     border-style: solid;
   }
-  
+
+/* Mock 3 */
   .m3image{
     grid-row: 3;
     background-image: url(https://hips.hearstapps.com/hmg-prod/images/cherry-blossom-facts-1578344148.jpg?crop=1.00xw:0.754xh;0,0.164xh&resize=1200:*)
