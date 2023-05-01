@@ -171,7 +171,7 @@ rectangle System {
 @enduml
 ```
 <p align="center">
-<img src="ucase-s.png"  width="600" />
+<img src="ucase-s.png"  width="500" />
 </p>
 
 ### Class Diagram:
@@ -231,7 +231,7 @@ package Registration {
 ```
 
 <p align="center">
-<img src="cd-s.png"  width="600" />
+<img src="cd-s.png"  width="500" />
 </p>
 
 ### Package Diagram:
