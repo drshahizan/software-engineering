@@ -17,7 +17,7 @@ Don't forget to hit the :star: if you like this repo.
   2. MUHAMMAD ARIFF DANISH BIN HASHNAN (A22EC0204)
   3. MUHAMMAD IMAN FIRDAUS BIN BAHARUDDIN (A22EC0216 )
   4. MUHAMMAD SAFWAN BIN MOHD AZMI (A22EC0221)
-  5. CHE MARHUMI BIN CHE AB RAHIM ( )
+  5. CHE MARHUMI BIN CHE AB RAHIM (A22EC0147)
 
 ### Table of Contents
 - [Executive Summary](#1-executive-summary)
@@ -182,6 +182,31 @@ This component represents the database that the system uses to store and retriev
 This component represents any third-party services or tools that the system uses, such as payment gateways, email services, or contact services. The system can integrate with these services to provide additional functionality and enhance the user experience.
 
 ## 8. Risks Assessment:
+
+The development of an food ordering system carries certain risks that must be identified and mitigated. The following are the potential risks that could affect the project:
+
+1. Technical risks: Developing a food ordering system involves working with various technologies, such as databases, APIs, and web applications. Technical risks include bugs, compatibility issues, and data loss. These risks can lead to system downtime, data breaches, and financial losses.
+
+2. User adoption risks: The success of a food ordering system depends on user adoption. If users find the system difficult to use or unreliable, they may choose to use a competing service, which can result in revenue losses.
+
+3. Changes in Project Requirements: Changes in project requirements can occur due to external factors such as regulatory changes, user feedback, or market demands. These changes can impact the project timeline, budget, and quality of the final product.
+
+4.Security risks: The security of the food ordering system is critical because customers will be sharing their personal and financial information with the system. Hackers and cybercriminals may try to steal this information, which can lead to identity theft and financial losses for customers. A security breach can also damage the reputation of the business and result in legal liabilities.
+
+5. Team turnover: Losing key team members during the development process can result in delays and loss of institutional knowledge. 
+To eliminate these risks, the following method will be used:
+
+1. Technical risks: Mitigation options for this risk include conducting thorough testing, implementing backup and recovery systems, and using experienced developers who can identify and fix technical issues.
+
+2. User adoption risks: Mitigation options for this risk include conducting user testing to identify usability issues, providing training to users on how to use the system, and continually monitoring user feedback to identify and address issues.
+
+3. Changes in Project Requirements: The project scope will be reviewed regularly to ensure that it remains aligned with the project goals. Any changes in project requirements will be carefully considered, and their impact on the project timeline and budget will be assessed before implementation.
+
+4. Security risks: Mitigation options for this risk include conducting a security audit, implementing secure coding practices, and regularly monitoring the system for any suspicious activity.
+
+5. Team turnover: To mitigate this risk, it is important to have a plan in place for succession and knowledge transfer, and to create a positive work environment that fosters employee retention.
+
+Overall, the risks associated with the development of the food ordering system will be managed proactively to ensure that the project is completed within the given timeline, budget, and quality standards. 
 
 ## 9. Resources:
 
