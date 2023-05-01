@@ -17,7 +17,7 @@ Don't forget to hit the :star: if you like this repo.
     <th>Role</th>
   </tr>
   <tr>
-    <td>1.Thevan</td>
+    <td>1.Thevan Raju A/L Jeganath</td>
     <td>Front-end Developer</td>
   </tr>
   <tr>
@@ -25,11 +25,11 @@ Don't forget to hit the :star: if you like this repo.
     <td>Project Manager</td>
   </tr>
     <tr>
-    <td>3.Nik </td>
+    <td>3.Nik Zulaikhaa Binti Zuraidi Afandi </td>
     <td>Software Architect</td>
   </tr>
     <tr>
-    <td>4.Izzah</td>
+    <td>4.Aliatul Izzah Binti Jasman</td>
     <td>Back-end Developer</td>
   </tr>
 </table>
