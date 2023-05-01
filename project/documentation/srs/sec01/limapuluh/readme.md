@@ -18,23 +18,23 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>1 Yong Wern Jie</td>
-    <td>Project manager & Requirement gatherer</td>
+    <td>Requirement Analyst</td>
   </tr>
   <tr>
     <td>2 Marcus Joey Sayner</td>
-    <td>Software developer & Documentation contributor</td>
+    <td>Software Developer</td>
   </tr>
   <tr>
     <td>3 Lim Jing Yong</td>
-    <td>UX/UI Designer & Tester</td>
+    <td>Documentation Specialist</td>
   </tr>
   <tr>
     <td>4 Soh Han Wei</td>
-    <td>Database administrator & Developer assistant</td>
+    <td>Database Administrator & Developer Assistant</td>
   </tr>
   <tr>
     <td>5 Lee Soon Der</td>
-    <td>Quality assurance tester & Design contributor</td>
+    <td>Developer Assistant & Design Contributor</td>
   </tr>
 </table>
 
@@ -70,11 +70,11 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2| | | | | 
-| 3| | | | | 
-| 4| | | | | 
-| 5| | | | | 
+| 1 | 01/01/2023 | Dr MSO | Project Manager | Create project plan | Complete |
+| 2 | 01/05/2023 | LIM JING YONG | Documentation Specialist | Distribute proposal planning | Partially Complete | 
+| 3| | | | | |
+| 4| | | | | |
+| 5| | | | | |
 
 
 ## Contribution 🛠️
