@@ -38,13 +38,16 @@
 - To enhance the overall student experience by providing a modern, user-friendly interface for grading and record-keeping, improving engagement and satisfaction with the university's academic processes.
 
 ### 4. Scope: 
-- User Authentication: Allow instructors and students to authenticate themselves using their UTM credentials.
-- Grading Management: Allow instructors to create and manage grading components, such as assignments, quizzes, and exams, and assign grades to       
+- User Authentication: The system should allow instructors and students to authenticate themselves using their UTM credentials.
+- Grading Management: The system should allow instructors to create and manage grading components, such as assignments, quizzes, and exams, and assign grades to       
   students for each component.
-- Grade Calculation: Automatically calculate and display final grades based on the grading components and their weightage, as well as handle any special grading policies, such as dropping the lowest grade.
-- Grade Submission: Allow instructors to submit grades to the university's official grading system.
-- Grade Viewing: Allow students to view their grades for each component, as well as their overall course grade.
-- Feedback and Communication: Allow instructors to provide feedback to students on their performance and communicate with them through the system.
+- Grade Calculation: The system should automatically calculate and display final grades based on the grading components and their weightage, as well as handle any special grading policies, such as dropping the lowest grade.
+- Grade Submission: The system should allow instructors to submit grades to the university's official grading system.
+- Grade Viewing: The system should allow students to view their grades for each component, as well as their overall course grade.
+- Feedback and Communication: The system should allow instructors to provide feedback to students on their performance and communicate with them through the system.
+- Course Management: The system should allow instructors to manage their course details, such as course description, schedule, and syllabus.
+- Accessibility: The system should be accessible to users with disabilities, and support assistive technologies such as screen readers.
+- Security: The system should be designed with appropriate security measures to ensure the privacy and confidentiality of student information and grading data.
 
 ### 5. Software Process Model:
 This section describe the ideal software process model for this system development. The write-up must consist of:
@@ -55,7 +58,28 @@ This section describe the ideal software process model for this system developme
 - It should also describe the testing methodologies, project management practices, and quality assurance processes.
 
 ### 6. Budget:
-- The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
+The development of the academic course registration system for 30,000 users within a year will involve various costs, including hardware, software, contigency, and testing. The budget for this project is estimated at **RM 315,000**, as outlined below:
+
+- **Hardware Costs: RM 100,000** <br>
+Server Hardware: RM50,000.Total Hardware Costs = RM50,000
+- **Software Costs: RM 75,000** <br>
+Development Software: RM5,000.
+Database Management System: RM10,000.
+Web Hosting Service: RM5,000 per month x 8 months = RM40,000.
+- **Personnel Costs: RM 80,000** <br>
+Developer Salary: RM3000 per month per developer x 3 developers x 8 months = RM24,000.Project Manager Salary: **RM7,000** per month x 8 months = RM56,000.
+
+- **Testing Costs: RM 140,000** <br>
+Personnel: 2 testers for 3 months.
+Tester Salary: RM20,000 per month per tester x 2 testers x 3 months = RM120,000.
+Software Testing Tools: RM20,000.
+Contingency: 10% of Total Costs.
+Contingency Costs = RM14,000
+
+- **Other Expenses: RM 100,500** <br>
+This includes the cost of rent for office space, utilities, marketing and advertising, and testing.
+
+In conclusion, the estimated budget for the development of the UTM Event Management System is RM 315,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingency. Any changes in the budget will be communicated to stakeholders and project sponsors.
 
 ### 7. System Architecture:
 - Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
