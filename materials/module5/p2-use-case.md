@@ -125,6 +125,24 @@ rectangle System {
 
 This code defines three actors: Student, Faculty, and Staff, and a rectangle representing the System with six use cases, including "Browse Course Catalog," "Select Courses," and "Add to Schedule." Arrows connect the actors to the relevant use cases, illustrating the interactions between them. The "Approve Course Selections" use case is renamed to "Approve" using the "as" keyword, and the "Manage Course Offerings" use case is similarly renamed to "Manage."
 
+## Stereotypes in UML
+Stereotypes in UML are a way of customizing the standard UML notation to suit the needs of a specific system or domain. They are used to add additional meaning to UML elements, such as use cases, classes, and packages. In the context of the university academic course registration system, we can use stereotypes to represent specific relationships and roles within the system.
+
+1. <<include>> and <<extend>> in use case relationship:
+These are two common stereotypes used in use case diagrams. <<include>> represents a use case that is always included in the behavior of another use case, while <<extend>> represents a use case that may or may not be included in the behavior of another use case, depending on certain conditions.
+
+For example, in the university academic course registration system, the "Pay Tuition" use case may include the "View Account Balance" use case using the <<include>> stereotype. Meanwhile, the "Select Courses" use case may extend to the "Check Course Availability" use case using the <<extend>> stereotype, where the "Check Course Availability" use case will only be executed if the selected course is already full.
+
+2. <<entity>>, <<controller>>, <<boundary>> in class diagram as class stereotypes:
+These are stereotypes used to represent the different types of classes in a class diagram. <<entity>> represents a persistent data object, <<controller>> represents a class that is responsible for coordinating the activities of other classes, and <<boundary>> represents a class that interfaces with the external environment.
+
+For example, in the university academic course registration system, we can use <<entity>> to represent the "Student" and "Course" classes, <<controller>> to represent the "RegistrationController" class, which coordinates the registration process, and <<boundary>> to represent the "RegistrationUI" class, which interacts with the user to gather registration information.
+
+3. <<package>> and <<subsystem>> in package diagram:
+These are stereotypes used in package diagrams to group related elements together. <<package>> represents a group of related classes, use cases, or other elements, while <<subsystem>> represents a higher-level grouping of related packages.
+
+For example, in the university academic course registration system, we can use <<package>> to group related classes together, such as the "Student" and "Course" classes, and use <<subsystem>> to group related packages together, such as the "Registration" package and the "Course Catalog" package.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
