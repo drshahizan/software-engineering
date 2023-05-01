@@ -11,18 +11,7 @@
   5. MUHAMMAD NUR AZHAR BIN MOHD YAZID A22EC0220
 
 ### Table of Contents
-- [Executive Summary](#1-executive-summary)
-- [Background](#2-background)
-- [Objectives](#3-objectives)
-- [Scope](#4-scope)
-- [Software Process Model](#5-software-process-model)
-- [Budget](#6-budget)
-- [System Architecture](#7-system-architecture)
-- [Risks Assessment](#8-risks-assessment)
-- [Resources](#9-resources)
-- [Technical Specifications](#10-technical-specifications)
-- [Timeline and Deliverables](#11-timeline-and-deliverables)
-- [Conclusion](#12-conclusion)
+- [Table of Contents](#table-of-contents)
   
 ### 1. Executive Summary
 - Start the proposal with a brief summary that highlights the main points of the project, including its goals, objectives, and expected outcomes.
@@ -41,8 +30,8 @@
 
 ### 5. Software Process Model:
 This section describe the ideal software process model for this system development. The write-up must consist of:
-- Explanation of the goal of the software process model.
-- Choose the ideal software process model and give justification.
+- The goal of the software process model is to provide a systematic and structured approach to software development that maximizes efficiency, reduces risk, and improves the overall quality of the UTM online grading system.
+- For the UTM online grading system, the ideal software process model would be the iterative and incremental model. The iterative and incremental model is a flexible and adaptable approach that involves a series of iterations, each consisting of planning, designing, developing, testing, and delivering phases. This model is ideal for projects where requirements are likely to change or evolve, as it allows for flexibility and adaptability.
 - The illustration of chosen software process model that relates to your project and shows every phase involved in the chosen software process model
 - Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. 
 - It should also describe the testing methodologies, project management practices, and quality assurance processes.
@@ -61,34 +50,7 @@ This section describe the ideal software process model for this system developme
 - It should also describe the plans and strategies to mitigate those risks.
 
 ### 9. Resources:
-
-#### Staff:
-- Project Manager: responsible for overseeing the project, managing resources, and ensuring the project is delivered on time and within budget.
-- Business Analyst: responsible for gathering and analyzing requirements, creating functional specifications, and identifying system requirements.
-- Developers: responsible for building and implementing the system.
-- Quality Assurance (QA) Analysts: responsible for testing the system and ensuring that it meets requirements and is bug-free.
-- Technical Writers: responsible for creating user manuals and system documentation.
-- User Experience (UX) Designers: responsible for creating an intuitive and user-friendly interface.
-
-#### Equipment:
-- Server infrastructure: a robust server infrastructure is required to host the grading system and ensure it can handle large volumes of traffic.
-- Network infrastructure: high-speed internet connectivity and network equipment to connect the system to the internet and the university network.
-- Workstations: computers for the development and QA teams.
-
-#### Software:
-- Programming languages: the system can be built using different programming languages and frameworks, depending on the preferences and expertise of the development team.
-- Database software: a database management system to store and manage student and grading data.
-- Web server software: to host the grading system and serve content to users.
-- Testing software: automated testing tools to ensure the system is free of bugs and errors.
-- Security software: firewalls, antivirus software, and other security measures to ensure the system is protected from cyber threats.
-
-#### Other Expenses:
-- Licensing fees: some software components may require licensing fees.
-- Training: training for staff members to ensure they are familiar with the system and can use it effectively.
-- Maintenance and support: ongoing maintenance and support to ensure the system remains secure, updated, and functional.
-
-
-It's important to note that the specific resource requirements for an online grading system will vary depending on the scope of the project, the size of the university, and other factors. This breakdown is intended to provide a general idea of the resources required.
+- Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
 
 ### 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
