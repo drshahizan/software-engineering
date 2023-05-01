@@ -74,10 +74,25 @@ In conclusion, the estimated budget for the development of the UTM Event Managem
 
 
 ### 7. System Architecture:
-- Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
-- Explain how the data will be stored, managed, and analyzed, as well as the hardware and software requirements needed to support the system.
-- Discuss the tools and frameworks that will be used for data visualization and analysis.
-- Provide a flowchart or block diagram of the system architecture.
+
+The proposed system architecture for the event management system will be a web-based system built using modern technologies and frameworks. The system will use the following tools and technologies:
+
+- Programming languages: HTML, CSS, JavaScript, PHP
+- Frameworks: Laravel, Bootstrap
+- Database: MySQL
+- Server: Apache
+- Data Visualization: Chart.js
+The system will have a multi-tier architecture consisting of a presentation layer, application layer, and data layer. The presentation layer will be responsible for displaying the user interface and handling user interactions. The application layer will be responsible for implementing the business logic of the system and handling user requests. The data layer will be responsible for storing and managing data.
+
+To implement the RBAC functionality, we will use Laravel's built-in authorization features to restrict user access based on their roles and permissions. Different interfaces will be provided to each user role based on their needs and permissions.
+
+User input data will be stored in the MySQL database. The system will have tables for events, users, organisers, and other entities. The system will also have tables for storing user input data, such as registration forms, event applications, and venue requests. The data layer will use ORM (Object-Relational Mapping) to map database tables to PHP classes and provide an abstraction layer for managing data.
+
+Data analysis and visualisation will be implemented using Chart.js, a JavaScript library for creating interactive charts and graphs. We can use Chart.js to visualise data such as event participation rates, event categories, and other metrics.
+
+To improve the load time of the page, we can implement caching techniques such as browser caching, server-side caching, and database caching. We can also optimise images and other assets to reduce page size and improve load time.
+
+The block diagram for the proposed system architecture is as follows:
 
 ### 8. Risks Assessment:
 - The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
@@ -130,12 +145,90 @@ Note: All costs mentioned above are estimates and are subject to change based on
 - Provide a detailed timeline for the project, including milestones and deadlines.
 - Specify the deliverables that will be provided at each milestone. It should also specify the expected time frame for each deliverable and the resources that will be required to complete the project.
 - Explain the quality assurance and testing procedures that will be followed.
+<head>
+   
+    <style>
+      th,td{
+        border: 1px solid black ;
+      }
+    </style>
+  </head>
+  <body>
+    <table style="border-collapse: collapse;">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Milestone</th>
+          <th>Deliverables</th>
+          <th>Resources Required</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Phase 1: Planning and Design (Weeks 1)</td>
+          <td>System Requirements and Design</td>
+          <td>System Requirements Document, System Design Document</td>
+          <td>Project Manager, Requirement Analyst, User Experience Designer, Assistant developer</td>
+        </tr>
+   
+        <tr>
+          <td rowspan="3">Phase 2: Development (Weeks 2-4)</td>
+          <td>Front-end Development Complete</td>
+          <td>Completed front-end of the system</td>
+          <td>UI/UX Designer, Front-end Developer</td>
+        </tr>
+        <tr>
+          <td>Back-end Development Complete</td>
+          <td>Completed back-end of the system with business logic and data management</td>
+          <td>Main Developer, Back-end Developer, Database Administrator</td>
+        </tr>
+        <tr>
+          <td>RBAC and ORM Integration Complete</td>
+          <td>RBAC and ORM integrated into the system</td>
+          <td>Main Developer, Back-end Developer</td>
+        </tr>
+        <tr>
+          <td rowspan="3">Phase 3: Testing and Deployment (Weeks 5-6)</td>
+          <td>System Testing Complete</td>
+          <td>System Test Report</td>
+          <td>Quality Assurance Analyst</td>
+        </tr>
+        <tr>
+          <td>User Acceptance Testing Complete</td>
+          <td>User Acceptance Test Report</td>
+          <td>Requirement Analyst, End Users</td>
+        </tr>
+        <tr>
+          <td>System Deployment Complete</td>
+          <td>Deployed System and User Guide</td>
+          <td>Main Developer, Documentation Specialist</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+
+Quality Assurance and Testing Procedures
+
+- Automated Unit Testing: Code will be tested automatically by a unit testing framework during the development phase to ensure that individual units of code work correctly.
+- Manual System Testing: After the front-end and back-end of the system are developed, a quality assurance analyst will perform manual system testing to ensure that the system works correctly as a whole.
+- User Acceptance Testing: End users will perform testing on the system to ensure that it meets their requirements and expectations.
+- Bug Fixing: Any issues or bugs found during testing will be addressed by the development team and retested before being deployed.
 
 ### 12. Conclusion:
 - Conclude your proposal with a call to action, highlighting the benefits of your proposed solution and urging the decision-makers to take action.
 - Summarize the proposal and reiterate the importance of the project.
 - Mention any potential limitations or challenges that may arise during the project.
 - Provide a call to action for the client to approve the proposal and proceed with the project.
+
+The proposed system aims to improve the usability and effectiveness of the previous system by addressing the issue of low participation rates in co-curricular activities in universities while also enhancing the effectiveness of promoting events to students.
+
+One of the key features of the new system is that it will be accessible to a wide range of users, including students, club and society administrators, lecturers, and administrators in faculties and departments.
+
+Each user will have a specific set of functions and capabilities tailored to their respective roles and responsibilities. For example, students will be able to use the system to browse and sign up for co-curricular activities and customise their calendar for the activity they have joined. Club administrators will be able to create and manage events, submit acknowledgement and application letters, reserve the venue for the physical event, and promote their event on the student page. Faculty and department administrators will have the ability to oversee the system's usage, monitor participation rates, and record events that take place in the university.
+
+Moreover, the new system will offer a high degree of customization and flexibility for each user. This will include the ability to set preferences, adjust settings, and personalise their user interface. The system will also feature notifications, reminders, and feedback mechanisms to ensure that users are engaged and informed about relevant events and activities.
+
+Overall, the new system represents a significant improvement over the previous system by providing greater accessibility, functionality, and customization for users at all levels of the university community.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
