@@ -33,8 +33,7 @@ Baddal Hajj is the act of performing the compulsary obligation for muslims. The 
  The purpose of this project is to help managing the registration of applicants that intended to perform hajj or umrah and will help to manage the bulk registration especially during the hajj season. To achieve this objective, the estimation time requirement is about 2 months to create and implement a web-based Baddal Hajj and Umrah Management System that will properly working as been designed which will handle the registration process for hajj and umrah and minimises the processing time for applicants by about 80% compare to the registration being handle by human itself.
 
 ### 4. Scope: 
-- The scope section defines the boundaries of the project and outlines what features and functionality will be included in the software. 
-- It should also describe any limitations or constraints that may affect the project.
+The system will allow user to create an account and and make the registration for the hajj or umrah ,user will fill in the important information such as full name,age,address,contact number and more. This system also will be included the section for health information to know the applicants health status for the screening process by those responsible managing the registrations.Some limitations for this project is the security part which the system need to be achieve a certain security stndard to protect those informations and prevent from any breach or unauthorized access.Other than that, the project need to be completed on time or it will affect the success of the project.
 
 ### 5. Software Process Model:
 This section describe the ideal software process model for this system development. The write-up must consist of:
