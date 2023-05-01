@@ -17,7 +17,7 @@ Don't forget to hit the :star: if you like this repo.
   2. MUHAMMAD ARIFF DANISH BIN HASHNAN ( )
   3. MUHAMMAD IMAN FIRDAUS BIN BAHARUDDIN ( )
   4. MUHAMMAD SAFWAN BIN MOHD AZMI (A22EC0221)
-  5. CHE MARHUMI BIN CHE AB RAHIM (A22EC0147)
+  5. CHE MARHUMI BIN CHE AB RAHIM ( )
 
 ### Table of Contents
 - [Executive Summary](#1-executive-summary)
@@ -91,6 +91,11 @@ Total Estimated Cost: RM
 > Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
 
 ## 10. Technical Specifications:
+ - Platform: The system should be web-based and accessible from any device with an internet connection, such as desktops, laptops, tablets, and smartphones. The system should be compatible with multiple operating systems and web browsers.
+ - Programming languages and technologies: The system can be built using a combination of technologies such as HTML, CSS, JavaScript, PHP, Python, and MySQL. The system can also use frameworks such as Laravel, React, Angular, and Vue.js.
+ - User Interface: The user interface should be easy to navigate and visually appealing, with features such as menus, search bars, and order tracking. The system can use responsive web design to optimize the user experience on different devices.
+ - Order Management System: The system should have an order management system that allows restaurants to manage their orders, such as confirming orders, updating the status of orders, and sending notifications to customers.
+ - Payment Gateway: The system should support different payment methods such as qr pay , online banking , and digital wallets. It should also integrate with a secure payment gateway to ensure the security of customer transactions.
 
 
 ## 11. Timeline and Deliverables: 
