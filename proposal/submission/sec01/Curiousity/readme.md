@@ -350,7 +350,6 @@ Note: All costs mentioned above are estimates and are subject to change based on
                 <li>Storage: 100 GB or higher</li>
                 <li>Network Interface: Gigabit Ethernet or higher</li>
                 <li>Display: 1080p or higher</li>
-    
             </td>
         </tr>
     
