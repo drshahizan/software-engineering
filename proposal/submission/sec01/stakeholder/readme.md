@@ -202,7 +202,7 @@ The proposed system architecture can be visualized using the following flowchart
 USER INTERFACE
   |
   V
-WEB APPLICATION SERVER (Bootstrap)
+WEB APPLICATION SERVER (Node.js/Express)
   |
   V
 DATABASE SERVER (MySQL)
@@ -210,7 +210,7 @@ DATABASE SERVER (MySQL)
 High-level diagram that represents our proposed system architecture:
 ```sql
 +----------------------------------------------------+
-|                 Relational Database                |
+|               Relational Database                  |
 +----------------------------------------------------+
 |               MySQL or PostgreSQL                  |
 +----------------------------------------------------+
@@ -225,8 +225,8 @@ High-level diagram that represents our proposed system architecture:
               |                     |
               |                     |
 +----------------------------------------------------+
-|                User-Facing Interfaces              |
-|                (Mobile & Web Applications)         |
+|              User-Facing Interfaces                |
+|            (Mobile & Web Applications)             |
 +----------------------------------------------------+
 ``` 
   
