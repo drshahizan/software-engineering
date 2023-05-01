@@ -82,9 +82,18 @@ This includes the cost of rent for office space, utilities, marketing and advert
 In conclusion, the estimated budget for the development of the UTM Event Management System is RM 315,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingency. Any changes in the budget will be communicated to stakeholders and project sponsors.
 
 ### 7. System Architecture:
-- Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
-- Explain how the data will be stored, managed, and analyzed, as well as the hardware and software requirements needed to support the system.
-- Discuss the tools and frameworks that will be used for data visualization and analysis.
+- Overview:
+The UTM Grading System will be a web-based application that allows lecturers to input, manage, and analyze grades for their courses. The system will be designed to be scalable and flexible, allowing for future updates and enhancements. The system will be built using modern web technologies and frameworks to ensure compatibility, security, and ease of maintenance.
+- Data Storage and Management:
+The UTM Grading System will utilize a Relational Database Management System (RDBMS) to store and manage data. The database will be hosted on a dedicated database server that will be accessed by the web server hosting the application. The database schema will be designed to optimize data retrieval and ensure data integrity. Data backups will be regularly performed to ensure data security.
+- The proposed system architecture for the event management system will be a web-based system built using modern technologies and frameworks. The system will use the following tools and technologies:
+
+- Programming languages: HTML, CSS, JavaScript, PHP
+- Frameworks: Laravel, Bootstrap
+- Database: MySQL
+- Server: Apache
+- Data Visualization: Chart.js
+The system will have a multi-tier architecture consisting of a presentation layer, application layer, and data layer. The presentation layer will be responsible for displaying the user interface and handling user interactions. The application layer will be responsible for implementing the business logic of the system and handling user requests. The data layer will be responsible for storing and managing data.
 - Provide a flowchart or block diagram of the system architecture.
 
 ### 8. Risks Assessment:
@@ -147,8 +156,6 @@ In conclusion, the estimated budget for the development of the UTM Event Managem
 #### Programming Languages:
 - Java: Java is a widely used language with a large developer community and many resources available for learning and development. It is also well-suited for building robust and scalable systems.
 - Python: Python is a versatile language that is well-suited for data analysis and machine learning. It also has a large number of libraries available for data manipulation, analysis, and visualization.
-- Hypertext Markup Language (HTML): Standard markup language used to create web pages. It defines the structure and content of a web page by using a set of tags and attributes to mark up different elements on the page, such as headings, paragraphs, images, and links. HTML provides the foundation for creating the content of a web page, but does not define the presentation or styling of the page.
-- Cascading Style Sheets (CSS): A style sheet language used to define the visual presentation of a web page. CSS is used to define the layout, color, typography, and other visual aspects of a web page, and works by defining rules that specify how different HTML elements should be displayed. CSS allows web designers and developers to separate the presentation and content of a web page, making it easier to update and maintain the design of a website.
 - PHP: PHP is a popular language for web development, and is often used in conjunction with databases to create dynamic and interactive websites.
 #### Frameworks:
 - Spring: Spring is a Java-based framework that provides a comprehensive platform for building robust and scalable web applications. It includes features such as dependency injection, data access, and web services.
