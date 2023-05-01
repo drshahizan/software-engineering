@@ -20,7 +20,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ### Table of Contents
 - [Table of Contents](#table-of-contents)
-- [Executive Summary](#executive-summary)
+- [https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec01/Curiousity#1-executive-summary](#executive-summary)
 - [Background](#background)
 - [Objectives](#objectives)
 - [Scope](#scope)
