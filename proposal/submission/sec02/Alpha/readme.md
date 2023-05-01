@@ -20,6 +20,18 @@ Don't forget to hit the :star: if you like this repo.
 
 ### Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Executive Summary](#1-executive-summary)
+- [Background](#2-background)
+- [Objectives](#3-objectives)
+- [Scope](#4-scope)
+- [Sofware Process Model](#5-software-process-model)
+- [Budget](#6-budget)
+- [System Architecture](#7-system-architecture)
+- [Risk Assessment](#8-risk-assessment)
+- [Resources](#9-resources)
+- [Technical Specification](#10-technical-specification)
+- [Timeline and Deliverables](#11-timeline-and-deliverables)
+- [Conclusion](#12-conclusion)
   
 ### 1. Executive Summary
 - Start the proposal with a brief summary that highlights the main points of the project, including its goals, objectives, and expected outcomes.
