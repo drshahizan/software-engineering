@@ -7,9 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-#  Proposal Templates
-
-## UTM Event Management System
+<h1 align='center'>UTM Event Management System</h1>
 
 
 ### Prepared by: Group Curiousity
