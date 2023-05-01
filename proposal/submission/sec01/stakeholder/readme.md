@@ -409,13 +409,13 @@ IV. Other Expenses:<br>
   
 - Data Schema:<br>The system's required functionality, such as user identification and authorisation, hotel reservations, payment processing, room allocation, room management, communication features, and reporting, should be supported by the data schema. The schema ought to be created to make it simple to access and retrieve the data.
   
-- Data Transformations:<br> In order to guarantee the data's accuracy, consistency, and completeness, the system might need to alter it. Validating payment transactions, updating room availability, creating user accounts, and producing reports are a few examples of transformations. A number of technologies, including computer languages like Python, R, and MySQL, could be used to do these modifications.
+- Data Transformations:<br> In order to guarantee the data's accuracy, consistency, and completeness, the system might need to alter it. Validating payment transactions, updating room availability, creating user accounts, and producing reports are a few examples of transformations. A number of technologies, including computer languages like Python, R, Microsoft Excel and MySQL, could be used to do these modifications.Git is function as a storage for those data and Apache HTTP server is a server that functional as a web server to host and serve the web application to users.
   
 - Machine Learning Algorithms:<br> The KTDI Student Accommodation System may not immediately benefit from the use of machine learning methods. However, the system could use decision trees or rule-based algorithms to assign rooms in accordance with student preferences and accessibility.
   
 - Data Visualization Tools:<br> For the management team to receive insights or trends, the system may need to produce data visualisations. These visualisations could show patterns in maintenance requests, payment transaction trends, or occupancy rates. To make these visualisations, one may use programmes like Tableau or Power BI.
   
-- Programming Languages, Frameworks, and Libraries:<br> Developers utilise Bootstrap as framework, PHP for the backend, HTML, CSS and JavaScript with React for the frontend and Matplotlib for data processing and visualisation for the Kolej Tun Dr Ismail (KTDI) student accommodation system. These technologies are helpful to developers since they are well-documented and frequently used in the field.
+- Programming Languages, Frameworks, and Libraries:<br> Developers utilise Bootstrap as framework, PHP for the backend, HTML, CSS and JavaScript with React for the frontend,Chart.js and D3.js for data processing and visualisation for the Kolej Tun Dr Ismail (KTDI) student accommodation system. These technologies are helpful to developers since they are well-documented and frequently used in the field.
   
 - Hardware and software requirements<br>
  i. Hardware Requirements:<br>
