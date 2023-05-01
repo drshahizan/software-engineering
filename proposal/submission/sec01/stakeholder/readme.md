@@ -351,9 +351,9 @@ The risk assessments that related to the Student Accommodation System in Kolej T
  
 To mitigate these risks, the following strategies will be employed:
 
--Security risk: <br>Strong security mechanisms like firewalls, encryption, and access restrictions should be put in place by KTDI, together with frequent vulnerability assessments and penetration testing, to mitigate security concerns. Additionally, they need to educate employees and students on sound cybersecurity procedures.
+- Security risk: <br>Strong security mechanisms like firewalls, encryption, and access restrictions should be put in place by KTDI, together with frequent vulnerability assessments and penetration testing, to mitigate security concerns. Additionally, they need to educate employees and students on sound cybersecurity procedures.
 
--User adoption risk: <br>Users can be trained and supported, surveys and feedback sessions can be held, and incentives or rewards can be given to users who successfully adopt and use the system. These actions can all help to reduce the risks associated with user adoption.
+- User adoption risk: <br>Users can be trained and supported, surveys and feedback sessions can be held, and incentives or rewards can be given to users who successfully adopt and use the system. These actions can all help to reduce the risks associated with user adoption.
 
 - Legal and regulatory risk: <br>KTDI should make sure the system complies with pertinent data protection and privacy legislation, like the Personal Data Protection Act (PDPA), in order to reduce legal and regulatory risks. Additionally, they should constantly audit and examine the system to make sure it complies with applicable laws and regulations, as well as review and update data protection and privacy policies to ensure compliance with evolving legislation.
 
@@ -428,9 +428,9 @@ IV. Other Expenses:<br>
   •	A computer with a processor of at least 2 GHz or higher<br>
   •	A minimum of 8 GB RAM<br>
   •	Sufficient storage space to store the system files and database<br>
-  •	A stable internet connection<br>
+  •	A stable internet connection</ul>
   
- ii. Software Requirements:<br>
+ <ul>ii. Software Requirements:<br>
   •	An operating system such as Windows, Linux, or macOS<br>
   •	A code editor such as Visual Studio Code, R Studio and Bootstrap Studio</ul>
   
