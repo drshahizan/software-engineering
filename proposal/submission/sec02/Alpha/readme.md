@@ -40,8 +40,18 @@ Don't forget to hit the :star: if you like this repo.
 - It should also briefly describe the problem the software is meant to solve, the benefits it will provide, and its potential impact on the organization.
 
 ### 3. Objectives:
-- The objectives section should clearly state the goals and objectives of the software project. It should describe the intended outcomes of the software and how it will address the problem it aims to solve. 
-- Objectives should be specific, measurable, achievable, relevant, and time-bound (SMART).
+#### 1. Simplifying the room rental procedure: 
+The objective of the college room rental system is to make it easy for students to find available rooms, view details about the rooms and to complete the rental process without any trouble. The system should provide clear information about the rental terms and conditions, as well as any fees associated with the rental.
+
+#### 2. Enhancing security: 
+To maintain the security of user’s information and ensure that the payment procedure is carried out safely. With the system, the payment made by the student will be automatically calculated and directed to the university’s academic and account information management system. 
+
+#### 3. Streamlining administrative tasks: 
+College room rental systems can help automating administrative processes like handling rental agreements, accepting payments, and producing reports. 
+
+#### 4. Improve user experience: 
+The system can help provide a better user experience by offering features such as room choices, and user feedback. The system will ensure that any issues or concerns can be addressed in a timely manner. 
+
 
 ### 4. Scope: 
 - The scope section defines the boundaries of the project and outlines what features and functionality will be included in the software. 
@@ -60,22 +70,9 @@ This section describe the ideal software process model for this system developme
 
 ### 7. System Architecture:
 - Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
-#### System Architecture Overview
-The proposed system architecture for this college room rental services is
-a three tier architecture which organises applications into three logical and physical computing tiers that is:
- - **presentation tier** or user interface that will present information and handle user interface for users.In this tier,  HTML, CSS, and JavaScript, along with a framework like React or Angular can be used  for building the user interface.
-- **application tier** that processes user requests and updates the price and number of days to be processed. By using a framework like Flask or Express.js for building RESTful APIs with a server-side language such as Node.js or Python.
-- **data tier** that will store and manage all the rental data. Depending on the requirements of the system, relational database management system (RDBMS) like MySQL or PostgreSQL, or MongoDB(a NoSQL database) 
-
-
-Explain how the data will be stored, managed, and analyzed, as well as the hardware and software requirements needed to support the system.
-#### Data Storage, Management and Analysis
-
-Discuss the tools and frameworks that will be used for data visualization and analysis.
-#### Tools and Frameworks
-
-Provide a flowchart or block diagram of the system architecture.
-#### Flowchart and Block Diagram
+- Explain how the data will be stored, managed, and analyzed, as well as the hardware and software requirements needed to support the system.
+- Discuss the tools and frameworks that will be used for data visualization and analysis.
+- Provide a flowchart or block diagram of the system architecture.
 
 ### 8. Risks Assessment:
 - The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
