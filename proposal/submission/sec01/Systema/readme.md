@@ -76,8 +76,16 @@ The key features of the student engagement website include:
 The development of the student engagement website will require a team of skilled developers, designers, and project managers who will work together to ensure a seamless user experience. The website will be designed to be accessible to all students, regardless of their technological proficiency, and will be optimized for all types of browser.
 
 ### 2. Background:
-- The introduction should provide background information about the software project and the purpose of the proposal. 
-- It should also briefly describe the problem the software is meant to solve, the benefits it will provide, and its potential impact on the organization.
+
+The development of a student engagement system software is driven by the need to enhance the overall student experience and improve student engagement within the academic community of Faculty Computing Univerisity Teknologi Malaysia (UTM). With the increasing prevalence of digital technologies in the education sector, universities and colleges are looking for ways to leverage these technologies to provide a more personalized, interactive, and engaging learning experience for students to let them feel more comfortable and convenient during their study journey.
+
+A student engagement system software can serve as a hub for students of UTM to access course-specific information, connect with their peers and faculty members, and stay up-to-date with important academic events and deadlines. It can also provide a platform for students to announce, share, promote and participate in extracurricular activities such as MPP , TED UTM and engage in other aspects of campus life.
+
+The COVID-19 pandemic has further highlighted the importance of digital technologies in the education sector, with many universities and colleges transitioning to online learning and remote instruction. As a result, the need for a robust and reliable student engagement system software has become more pressing than ever before.
+
+The development of a student engagement system software requires a team of skilled developers, designers, and project managers who can work together to create a user-friendly and effective platform. It also requires a significant investment of time and resources, including funding for development, maintenance, and marketing.
+
+However, the potential benefits of a student engagement system software towards all Faculty Computing students are significant. By enhancing student engagement and providing a more personalized and interactive learning experience, UTM Faculty Computing can improve student retention, satisfaction, and academic outcomes. Overall, a student engagement system software can help to create a more vibrant and engaged academic community, both online and on-campus.
 
 ### 3. Objectives:
 - The objectives section should clearly state the goals and objectives of the software project. It should describe the intended outcomes of the software and how it will address the problem it aims to solve. 
