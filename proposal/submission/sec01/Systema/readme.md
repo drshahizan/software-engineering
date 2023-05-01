@@ -17,19 +17,47 @@ Don't forget to hit the :star: if you like this repo.
   5. Yeoh Chong Yi          A22EC0295
 
 ### Table of Contents
-<ol>
- <li>Executive Summary</li>
- <li>Background</li>
- <li>Objectives</li>
- <li>Scope</li>
- <li>Software Process Model</li>
- <li>Budget</li>
- <li>System Architecture</li>
- <li>Risks Assessment</li>
- <li>Resources</li>
- <li>Technical Specifications</li>
- <li>Timeline and Deliverables</li>
- <li>Conclusion</li>
+<table>
+  <tr>
+    <th>No.</th><th>Content</th>
+  </tr>
+  <tr> 
+    <td>1.</td><td>Executive Summary</td>
+  <tr>
+  <tr> 
+    <td>2.</td><td>Background</td>
+  <tr>
+  <tr> 
+    <td>3.</td><td>Objectives</td>
+  <tr>
+  <tr> 
+    <td>4.</td><td>Scope</td>
+  <tr>
+  <tr> 
+    <td>5.</td><td>Software Process Model</td>
+  <tr>
+  <tr> 
+    <td>6.</td><td>Budget</td>
+  <tr>
+  <tr> 
+    <td>7.</td><td>System Architecture</td>
+  <tr>
+  <tr> 
+    <td>8.</td><td>Risk Assessment</td>
+  <tr>
+  <tr> 
+    <td>9.</td><td>Resources</td>
+  <tr>
+  <tr> 
+    <td>10.</td><td>Technical Specifications</td>
+  <tr>
+  <tr> 
+    <td>11.</td><td>Timeline and Deliverables</td>
+  <tr>
+  <tr> 
+    <td>12.</td><td>Conclusion</td>
+  <tr>
+</table>
  
   
 ### 1. Executive Summary
