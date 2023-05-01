@@ -16,7 +16,7 @@ Don't forget to hit the :star: if you like this repo.
   3. Low Ying Xi A22EC0187
   4. Ng Shu Yu A22EC0228
 
-### Table of Contents
+### 💫Table of Contents
 * [Table of Contents](#table-of-contents)
 * [Executive Summary](#1-executive-summary)
 * [Background](#2-background)
