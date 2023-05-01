@@ -4,7 +4,7 @@
 
 
 ### Prepared by: Group Software
-  1. Name and matrix no
+  1. Lee Yik Hong A21BE0376
   2. Koh Su Xuan A22EC0060
   3. Ong Yi Yan A22EC0101
   4. Tang Yan Qing A22EC0109
