@@ -43,13 +43,13 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td>1. En. Hamdan bin Abdul Ghani</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
     <tr>
-    <td>2</td>
+    <td>2. Puan Rosmah</td>
     <td></td>
     <td></td>
     <td></td>
