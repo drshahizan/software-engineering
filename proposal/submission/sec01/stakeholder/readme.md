@@ -256,18 +256,21 @@ In shorts, the expected budget for the development of the student accommodation 
 #### System Architecture Overview:
 The proposed architecture for the Student Accommodation System project at Kolej Tun Dr Ismail will consist of three layers: the presentation layer, the application layer, and the data layer.
  
-- Presentation Layer: The presentation layer is the front-end of the system that users will interact with. It will consist of a web-based user interface built using the React.js as the font-end JavaScript library and Bootstrap framework with HTML, CSS as well as JavaScript. The presentation layer will be responsible for presenting the data to the users and allowing them to interact with the system in order to improve the user experience.
-- Application Layer: In this middle layer of the system, PHP language will be used to handle the business logic and data processing. It will be responsible for processing requests from the front-end and communicating with the data layer.
-- Data Layer: In this back-end of the system, we will use MySQL database to store and manage the data. The data layer will be responsible for storing and retrieving data from the database.
-- Data Visualization Layer: The Data Visualization Layer will be responsible for presenting the data in an understandable and interactive format for the end-users. This layer will use visualization libraries which is D3.js and Chart.js. 
-- Server Layer: The server layer will be responsible for hosting and managing the system and its components. In this layer, we will use the Apache HTTP Server as the web server software to handle the HTTP requests and responses between the users and the web-based front-end.
+- Presentation Layer: <br>The presentation layer is the front-end of the system that users will interact with. It will consist of a web-based user interface built using the React.js as the font-end JavaScript library and Bootstrap framework with HTML, CSS as well as JavaScript. The presentation layer will be responsible for presenting the data to the users and allowing them to interact with the system in order to improve the user experience.
+    
+- Application Layer: <br>In this middle layer of the system, PHP language will be used to handle the business logic and data processing. It will be responsible for processing requests from the front-end and communicating with the data layer.
+    
+- Data Layer: <br>In this back-end of the system, we will use MySQL database to store and manage the data. The data layer will be responsible for storing and retrieving data from the database.
+    
+- Data Visualization Layer: <br>The Data Visualization Layer will be responsible for presenting the data in an understandable and interactive format for the end-users. This layer will use visualization libraries which is D3.js and Chart.js. 
+    
+- Server Layer: <br>The server layer will be responsible for hosting and managing the system and its components. In this layer, we will use the Apache HTTP Server as the web server software to handle the HTTP requests and responses between the users and the web-based front-end.
   
 
 #### Data Storage and Management:
 MySQL will be used as the Relational Database Management System (RDBMS) to store and manage the data. All the data collected will be stored and organised in the form of table which representing a specific type of data such as maintainance records, student records, room records, and accommodation booking records. 
   
 #### Hardware and Software Requirements:
-  
 Hardware and software requirements are crucial components of our proposed system architecture. Managing the KTDI's student accomodation system's hardware and software requirements could be done as follows:
 
 i. Hardware requirements 
@@ -285,9 +288,9 @@ ii. Software requirements
 - R studio and Microsoft Excel as data analysis tools to preprocess the data
   
 #### Data Analysis and Visualization:
-- Data analysis tools: We will use R programming language (R Studio) and Microsoft Excel to clean and preprocess the data, perform statistical analysis, and create data models.
-- Data visualization tools: We will use D3.js and Chart.js to create interactive charts and graph to visualize room type applicable based on hostel merit in a meaningful and attractive way.
-- Business intelligence (BI) tools: We will use Tableau, PowerBI to perform advanced analytics, create reports, and generate insights from the data.
+- Data analysis tools: <br>We will use R programming language (R Studio) and Microsoft Excel to clean and preprocess the data, perform statistical analysis, and create data models.
+- Data visualization tools: <br>We will use D3.js and Chart.js to create interactive charts and graph to visualize room type applicable based on hostel merit in a meaningful and attractive way.
+- Business intelligence (BI) tools: <br>We will use Tableau, PowerBI to perform advanced analytics, create reports, and generate insights from the data.
 
 #### System Architecture Diagram:
 The proposed system architecture can be visualized using the following flowchart:
@@ -361,8 +364,8 @@ Changes in project requirement:
   - To prevent conflicts, effectively communicate changes to the project's requirements to all parties involved, including the project team, users, and management.
 
 Resource Constraints:
-  - Technical risk: KTDI should put in place routine data backups and disaster recovery plans, as well as routine maintenance and software and hardware updates, to reduce the technical risks. They should also employ qualified IT specialists to run and maintain the system.
-  - Financial risk: To reduce financial risks, KTDI should create a thorough financial strategy that takes into consideration the initial expenditures as well as recurring expenses of the Student Accommodation System. Additionally, they want to look at other sources of income, including adding booking fees or providing premium services. It's crucial to regularly examine and modify financial predictions to take any changes in enrollment or other monetary issues into consideration.
+  - Technical risk: <br>KTDI should put in place routine data backups and disaster recovery plans, as well as routine maintenance and software and hardware updates, to reduce the technical risks. They should also employ qualified IT specialists to run and maintain the system.
+  - Financial risk: <br>To reduce financial risks, KTDI should create a thorough financial strategy that takes into consideration the initial expenditures as well as recurring expenses of the Student Accommodation System. Additionally, they want to look at other sources of income, including adding booking fees or providing premium services. It's crucial to regularly examine and modify financial predictions to take any changes in enrollment or other monetary issues into consideration.
 
 In general, it's crucial to recognise and reduce these risks if we want the KTDI student housing system to be successful. KTDI can lessen possible adverse effects and increase the advantages of the system by taking a proactive approach to risk management.
 
@@ -402,6 +405,7 @@ III. Software Resources:<br>
 - BootStrap Studio
   
 IV. Other Expenses:<br>
+- Server Fees: 
 - Cloud Hosting Fees: Cloud service such as Google Cloud.
 
 ---
@@ -419,12 +423,12 @@ IV. Other Expenses:<br>
   
 - Programming Languages, Frameworks, and Libraries:<br> Developers utilise Bootstrap as framework, PHP for the backend, HTML, CSS and JavaScript with React for the frontend and Matplotlib for data processing and visualisation for the Kolej Tun Dr Ismail (KTDI) student accommodation system. These technologies are helpful to developers since they are well-documented and frequently used in the field.
   
-- Hardware and software requirements<br>
+- Hardware and software requirements
  i. Hardware Requirements:<br>
   •	A computer with a processor of at least 2 GHz or higher<br>
   •	A minimum of 8 GB RAM<br>
   •	Sufficient storage space to store the system files and database<br>
-  •	A stable internet connection<br>
+  •	A stable internet connection
   
  ii. Software Requirements:<br>
   •	An operating system such as Windows, Linux, or macOS<br>
