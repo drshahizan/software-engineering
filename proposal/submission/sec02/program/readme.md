@@ -26,11 +26,19 @@
   
 ### 1. Executive Summary
 
+![yuje9wby36](https://user-images.githubusercontent.com/128196055/235490755-87a5ad38-a137-4d46-85ba-0ab5a6b6a4c6.jpg)
+
 - The academic consultation system proposed in this project proposal has the potential to revolutionize the consultation process in academic institutions. The system's   comprehensive features and functionalities will benefit both students and faculty, resulting in enhanced outcomes and improved satisfaction. This system will make     the academic advisor more close to student. Our project team is confident that the proposed system will meet the needs of academic institutions and their      stakeholders, and we look forward to its implementation and success.
 
 ### 2. Background:
-- The introduction should provide background information about the software project and the purpose of the proposal. 
-- It should also briefly describe the problem the software is meant to solve, the benefits it will provide, and its potential impact on the organization.
+
+   An academic consultation system is a software application or platform that provides academic support  services to students, researchers, and faculty members. Such systems can be designed to assist users      with a variety of tasks, including research, writing, editing, proofreading, and formatting of academic papers and assignments.
+
+   The background for an academic consultation system is rooted in the need for academic support services that can help students and researchers improve the quality of their work. Academic consultation systems provide a convenient and efficient way for users to receive feedback and guidance from experts in their field, which can help them to produce better research and academic papers.
+
+   There are a number of different types of academic consultation systems, ranging from online writing centers to virtual tutoring services. These systems may be integrated into a larger learning management system or provided as standalone applications. They can also vary in terms of the level of support they offer, with some providing only basic editing and proofreading services while others offering more extensive feedback and guidance on academic writing.
+
+   The goal of an academic consultation system is to provide users with the tools and resources they need to succeed academically, while also promoting academic integrity and ethical research practices.
 
 ### 3. Objectives:
 - The objectives section should clearly state the goals and objectives of the software project. It should describe the intended outcomes of the software and how it will address the problem it aims to solve. 
