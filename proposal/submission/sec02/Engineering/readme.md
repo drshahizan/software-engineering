@@ -13,7 +13,7 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ### Prepared by: <stakeholder>
-  1. NULERINA
+  1. NURUL ERINA BINTI ZAINUDDIN
   2. NIK ZULAIKHA
   3. IZZAH
   4. THEVAN RAJU A/L JEGANATH A22EC0286
