@@ -7,11 +7,22 @@
   1. Name and matrix no
   2. Wan Nur Sofea Binti Mohd Hasbullah A22EC0115
   3. Maisarah Binti Rizal
-  4. Nur Arini Fatihah Binti Mohd Sabir
+  4. Nur Arini Fatihah Binti Mohd Sabir A22EC0244
   5. Mulyani Binti Saripuddin
 
 ### Table of Contents
-- [Table of Contents](#table-of-contents)
+- [Executive Summary](#1-executive-summary)
+- [Background](#2-background)
+- [Objectives](#3-objectives)
+- [Scope](#4-scope)
+- [Software Process Model](#5-software-process-model)
+- [Budget](#6-budget)
+- [System Architecture](#7-system-architecture)
+- [Risks Assessment](#8-risks-assessment)
+- [Resources](#9-resources)
+- [Technical Specifications](#10-technical-specifications)
+- [Timeline and Deliverables](#11-timeline-and-deliverables)
+- [Conclusion](#12-conclusion)
   
 ### 1. Executive Summary
 - Start the proposal with a brief summary that highlights the main points of the project, including its goals, objectives, and expected outcomes.
