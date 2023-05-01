@@ -14,8 +14,8 @@ Don't forget to hit the :star: if you like this repo.
 
 ### Prepared by: <stakeholder>
   1. NURUL ERINA BINTI ZAINUDDIN
-  2. NIK ZULAIKHA
-  3. IZZAH
+  2. NIK ZULAIKHAA BINTI ZURAIDI AFANDI
+  3. ALIATUL IZZAH BINTI JASMAN
   4. THEVAN RAJU A/L JEGANATH A22EC0286
   
 
