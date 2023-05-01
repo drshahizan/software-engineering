@@ -38,16 +38,13 @@
 - To enhance the overall student experience by providing a modern, user-friendly interface for grading and record-keeping, improving engagement and satisfaction with the university's academic processes.
 
 ### 4. Scope: 
-- User Authentication: The system should allow instructors and students to authenticate themselves using their UTM credentials.
-- Grading Management: The system should allow instructors to create and manage grading components, such as assignments, quizzes, and exams, and assign grades to       
+- User Authentication: Allow instructors and students to authenticate themselves using their UTM credentials.
+- Grading Management: Allow instructors to create and manage grading components, such as assignments, quizzes, and exams, and assign grades to       
   students for each component.
-- Grade Calculation: The system should automatically calculate and display final grades based on the grading components and their weightage, as well as handle any special grading policies, such as dropping the lowest grade.
-- Grade Submission: The system should allow instructors to submit grades to the university's official grading system.
-- Grade Viewing: The system should allow students to view their grades for each component, as well as their overall course grade.
-- Feedback and Communication: The system should allow instructors to provide feedback to students on their performance and communicate with them through the system.
-- Course Management: The system should allow instructors to manage their course details, such as course description, schedule, and syllabus.
-- Accessibility: The system should be accessible to users with disabilities, and support assistive technologies such as screen readers.
-- Security: The system should be designed with appropriate security measures to ensure the privacy and confidentiality of student information and grading data.
+- Grade Calculation: Automatically calculate and display final grades based on the grading components and their weightage, as well as handle any special grading policies, such as dropping the lowest grade.
+- Grade Submission: Allow instructors to submit grades to the university's official grading system.
+- Grade Viewing: Allow students to view their grades for each component, as well as their overall course grade.
+- Feedback and Communication: Allow instructors to provide feedback to students on their performance and communicate with them through the system.
 
 ### 5. Software Process Model:
 This section describe the ideal software process model for this system development. The write-up must consist of:

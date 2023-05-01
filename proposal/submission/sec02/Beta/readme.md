@@ -148,6 +148,7 @@ It's essential to note that these are just estimates, and the actual cost may va
 Case Diagram of Food Ordering System at UTM:
 
 ![image](https://user-images.githubusercontent.com/129138344/235473667-dc36d5a2-8026-4b8d-80ff-711d471ef2b3.png)
+
 The Customer actor can perform the following use cases:
 
 - Register/Login: This use case allows the Customer to register or login to their account.
