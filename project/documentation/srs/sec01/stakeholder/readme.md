@@ -55,7 +55,7 @@ Don't forget to hit the :star: if you like this repo.
     <tr>
     <td>Hayden Huan Kee Jiun</td>
     <td>Student</td>
-    <td>KTDI </td>
+    <td>KTDI Resident</td>
     <td>Giving the feedbacks for the current accommodation system and provide the ideas for the upgraded accommodation system.</td>
   </tr>
     <tr>
