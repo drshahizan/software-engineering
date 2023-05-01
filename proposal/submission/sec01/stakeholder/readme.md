@@ -125,9 +125,9 @@ In conclusion, we can establish the foundation for the project plan, which outli
 ### 5. Software Process Model
 <!-- ***Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. *** -->
   
-The software process model's goal is to offer a structured and well-organized method for developing software. It aids in making certain that the software is delivered on schedule, within budget, and in accordance with the needs and expectations of the stakeholders.
-  
-The ideal software process model to be implemented in this project is <b>Agile methodology</b>. This is because of the Agile methodology is an iterative and incremental software development approach that emphasizes flexibility, collaboration, and continuous customer feedback. Besides, the Agile methodology is well-suited for developing software applications where requirements can change frequently, and the development team needs to be able to respond to those changes quickly.
+Our main objective in creating the Kolej Tun Dr Ismail (KTDI) project's student housing system is to create a high-quality system within the allotted time and budget. We have decided to employ the Agile methodology as our development process model in order to accomplish this. This method places a focus on cooperation and participation from stakeholders throughout the development process, creating a system that is more adaptable and responsive.
+
+Furthermore, because of the nature of student rooms, the Agile methodology is perfect for projects like ours where requirements and priorities may change frequently. Agile allows us to guarantee that the system is continually updated and enhanced depending on input from stakeholders. This will enable the Student Accommodation System for KTDI project to produce a system that satisfies their changing needs and expectations.
 
 <p align="center"><img src="https://i0.wp.com/mobile-jon.com/wp-content/uploads/2021/04/Agile-Methodology.jpg?fit=1920%2C1080&ssl=1" width="700px" height="350px"></p>
 
