@@ -206,13 +206,13 @@ ii. Software requirements
 - MySQL as the Relational Database Management System (RDBMS) to store and manage the data
 - Apache HTTP Server as the web server software
 - PHP language as the communication with the data layer to handle the business logic and data processing
-- D3.js as the data visualization library to present data
-- Chart.js as the data visualization library to create interactive charts and graph
+- D3.js and Chart.js as the data visualization library to create interactive charts and present data.
 - Git for version control
+- R studio and Microsoft Excel as data analysis tools to preprocess the data
   
 #### Data Analysis and Visualization:
 - Data analysis tools: We will use R programming language (R Studio) and Microsoft Excel to clean and preprocess the data, perform statistical analysis, and create data models.
-- Data visualization tools: We will use D3.js and Chart.js to create interactive charts and graph with visualizations to represent data in a meaningful way.
+- Data visualization tools: We will use D3.js and Chart.js to create interactive charts and graph to visualize room type applicable based on hostel merit in a meaningful and attractive way.
 - Business intelligence (BI) tools: We will use Tableau, PowerBI to perform advanced analytics, create reports, and generate insights from the data.
 
 #### System Architecture Diagram:
@@ -231,14 +231,14 @@ High-level diagram that represents our proposed system architecture:
 +----------------------------------------------------+
 |               Relational Database                  |
 +----------------------------------------------------+
-|               MySQL or PostgreSQL                  |
+|                     MySQL                          |
 +----------------------------------------------------+
               ^                     ^
               |                     |
               |                     |
    +------------------+     +------------------+
-   |    Web Platform  |     |   |
-   |     (ReactJS)    |     |    (Node.js)     |
+   |    Web Platform  |     |                  |
+   |     (React.js)   |     |    (Node.js)     |
    +------------------+     +------------------+
               ^                     ^
               |                     |
