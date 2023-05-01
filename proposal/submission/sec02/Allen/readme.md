@@ -99,11 +99,22 @@ The UTM Grading System will utilize a Relational Database Management System (RDB
 The system will have a multi-tier architecture consisting of a presentation layer, application layer, and data layer. The presentation layer will be responsible for displaying the user interface and handling user interactions. The application layer will be responsible for implementing the business logic of the system and handling user requests. The data layer will be responsible for storing and managing data.
 - Provide a flowchart or block diagram of the system architecture.
 
+- Flowchart:
+ 
+```sql
+    
++---------------------+       +------------------------+       +-----------------------+
+|                     |       |                        |       |                       |
+| Presentation Layer  +------->     Application Layer   +------->      Data Layer      |
+|                     |       |    (Laravel Framework)  |       |    (MySQL, RDBMS)    |
++---------------------+       +------------------------+       +-----------------------+
+```
+
 
 - Block Diagram: 
           
 ```sql
-          +------------------+
+               +------------------+
                |     Web Server   |
                |   (Apache, PHP)  |
                +------------------+
@@ -125,7 +136,7 @@ The system will have a multi-tier architecture consisting of a presentation laye
                |     Database     |
                +------------------+
 
-
+```
 ### 8. Risks Assessment:
 Risk assessment is an essential part of any software development project, and the UTM Grading System project is no exception. The following is a risk assessment and management plan for the project.
 #### 1. Technical Challenges: 
