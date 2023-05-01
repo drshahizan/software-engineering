@@ -14,7 +14,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Use Case Diagram](p2-use-case.md)
 - [Structural Models](p3-struc-model.md)
 
-# Part 3: Requirements Specification
+# Part 3: Structural Models
 
 
 
