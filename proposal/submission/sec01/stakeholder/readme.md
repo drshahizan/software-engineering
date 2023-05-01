@@ -486,7 +486,7 @@ IV. Other Expenses:<br>
   </tbody>
 </table>
    
-- Testing procedures 
+- Testing procedures:
   1. Before the development of system, we have conducted a requirements gathering session or interviewing session with our stakeholders to identify and figure out the needs and features we are going to implement in the software system. It involves collecting and analyzing information from the stakeholders.
   2. Prototype: The system is made and tested for the operation and usability. It is to identify the problems at the early stage and also provide a progress of our developed system to the stakeholders.
   3. Test and run: Test and run is crucial before the system is implemented actually among the customers. It can help the software engineers to find out the possible problem and bugs during the development phase. Example： unit testing, system testing, acceptance testing.
