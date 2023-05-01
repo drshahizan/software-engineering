@@ -188,7 +188,7 @@ The proposed system architecture for Student Accommodation System project at Kol
 The proposed student accommodation system will follow a three-tier architecture, with a presentation layer, application layer, and database layer.
   
 #### Hardware and Software Requirements:
-  Hardware and software requirements are crucial components of our proposed system architecture. Managing the KTDI's student accomodation system's hardware and software requirements could be done as follows:
+Hardware and software requirements are crucial components of our proposed system architecture. Managing the KTDI's student accomodation system's hardware and software requirements could be done as follows:
   i. Hardware requirements -><br>
   - 
   ii. Software requirements -><br>
