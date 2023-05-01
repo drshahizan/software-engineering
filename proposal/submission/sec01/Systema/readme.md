@@ -7,10 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-#  Proposal Template
-
-## Student Engagement
-
+# Student Engagement
 
 ### Prepared by: Systema
   1. Name and matrix no
