@@ -47,9 +47,13 @@ This section describe the ideal software process model for this system developme
 Budget is the important requirement that need to be plan at the early stage so that the project can be proceed without being delayed because the short of budget, there are a few things that need to be pointed out in the budget lists: 
 
 Hardware : RM
+
 Software : RM
+
 Personnel : RM
+
 Testing : RM 
+
 Back-up funds: RM
 
 
