@@ -214,6 +214,11 @@ Total Estimated Cost: RM
 
 
 ## 12. Conclusion:
+In conclusion, a food ordering system is an essential tool that can help restaurants and customers streamline their food ordering process. By using a web-based platform with an intuitive user interface, the system can provide customers with an easy and convenient way to order food from their favorite restaurants.
+
+The system can also help restaurants manage their orders efficiently, reducing the workload of staff and improving the accuracy of orders. Additionally, by integrating with third-party services such as social media platforms and payment services, the system can provide a seamless user experience.
+
+Overall, a food ordering system can help businesses increase their sales, improve customer satisfaction, and reduce operational costs. With the right technical specifications and features, a food ordering system can be an excellent investment for any restaurant looking to stay competitive in today's digital marketplace.
 
 
 ## Contribution 🛠️
