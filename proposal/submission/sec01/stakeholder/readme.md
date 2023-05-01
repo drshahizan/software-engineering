@@ -123,6 +123,7 @@ In conclusion, we can establish the foundation for the project plan, which outli
 ---
 
 ### 5. Software Process Model
+<!-- ***Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. *** -->
   
 Our main objective in creating the Kolej Tun Dr Ismail (KTDI) project's student housing system is to create a high-quality system within the allotted time and budget. We have decided to employ the Agile methodology as our development process model in order to accomplish this. This method places a focus on cooperation and participation from stakeholders throughout the development process, creating a system that is more adaptable and responsive.
 
@@ -130,7 +131,7 @@ Furthermore, because of the nature of student rooms, the Agile methodology is pe
 
 <p align="center"><img src="https://i0.wp.com/mobile-jon.com/wp-content/uploads/2021/04/Agile-Methodology.jpg?fit=1920%2C1080&ssl=1" width="700px" height="350px"></p>
 
-Agile methodology used in development of student accommodation system in KTDI as stated below:
+Here is a breakdown of how the Agile methodology can be applied as a software process model for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI):
 
 1. Planning Phase: In this phase, the development team works with the client to identify the project scope, goals, and objectives. They define the project timeline and milestones, identify project risks, and allocate project resources appropriately. They create a sprint plan for the first iteration and identify the user stories and product backlog items that will be worked on in that sprint.
 
@@ -486,7 +487,16 @@ IV. Other Expenses:<br>
 </tr>
   </tbody>
 </table>
-    
+   
+    Testing procedures 
+1. Before the development of system, we have conducted a requirements gathering session or interviewing session with our stakeholders to identify and figure out the needs and features we are going to implement in the software system. It involves collecting and analyzing information from the stakeholders.
+2. Prototype: The system is made and tested for the operation and usability. It is to identify the problems at the early stage and also provide a progress of our developed system to the stakeholders.
+3. Test and run: Test and run is crucial before the system is implemented actually among the customers. It can help the software engineers to find out the possible problem and bugs during the development phase. Example： unit testing, system testing, acceptance testing.
+4. User satisfactory and tracking: Track the bugs during the implementation and installation and make improvement and enhancement towards these problems or provide a solution. 
+<p>Quality assurance:</p>
+<p>5. User maintenance tracking system: To help to provide support and maintenance when client is having problems while using the system. This also includes the updatation of the system.</p>
+<p>6. Documentation: To make sure everything runs smoothly based on the document prepared and easy to be understood for the client. This documents include design, code and testing procedures.</p>
+
 ---
 
 ### 12. Conclusion
