@@ -25,7 +25,8 @@
 - [Conclusion](#12-conclusion)
   
 ### 1. Executive Summary
-- Start the proposal with a brief summary that highlights the main points of the project, including its goals, objectives, and expected outcomes.
+
+- The academic consultation system proposed in this project proposal has the potential to revolutionize the consultation process in academic institutions. The system's   comprehensive features and functionalities will benefit both students and faculty, resulting in enhanced outcomes and improved satisfaction. This system will make     the academic advisor more close to student. Our project team is confident that the proposed system will meet the needs of academic institutions and their      stakeholders, and we look forward to its implementation and success.
 
 ### 2. Background:
 - The introduction should provide background information about the software project and the purpose of the proposal. 
