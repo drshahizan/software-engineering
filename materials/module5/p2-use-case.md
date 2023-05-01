@@ -94,6 +94,34 @@ Each use case would be described in more detail, including the specific steps in
 
 By creating a use case model for the university academic course registration system, software engineers can better understand the needs of the different user roles and ensure that the system meets those needs. It also helps to identify potential issues and design solutions to those issues.
 
+An example of a use case diagram for the university academic course registration system in PlantUML code:
+
+```
+@startuml
+actor Student
+actor Faculty
+actor Staff
+
+rectangle System {
+  usecase "Browse Course Catalog"
+  usecase "Select Courses"
+  usecase "Add to Schedule"
+  usecase "Pay Tuition"
+  usecase "Approve Course Selections" as Approve
+  usecase "Manage Course Offerings" as Manage
+  
+  Student --> "Browse Course Catalog"
+  Student --> "Select Courses"
+  Student --> "Add to Schedule"
+  Student --> "Pay Tuition"
+  Faculty --> Approve
+  Staff --> Manage
+}
+@enduml
+```
+
+This code defines three actors: Student, Faculty, and Staff, and a rectangle representing the System with six use cases, including "Browse Course Catalog," "Select Courses," and "Add to Schedule." Arrows connect the actors to the relevant use cases, illustrating the interactions between them. The "Approve Course Selections" use case is renamed to "Approve" using the "as" keyword, and the "Manage Course Offerings" use case is similarly renamed to "Manage."
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
