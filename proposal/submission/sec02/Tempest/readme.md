@@ -44,7 +44,18 @@ This section describe the ideal software process model for this system developme
 - It should also describe the testing methodologies, project management practices, and quality assurance processes.
 
 ### 6. Budget:
-- The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
+Budget is the important requirement that need to be plan at the early stage so that the project can be proceed without being delayed because the short of budget, there are a few things that need to be pointed out in the budget lists: 
+
+Hardware : RM
+
+Software : RM
+
+Personnel : RM
+
+Testing : RM 
+
+Back-up funds: RM
+
 
 ### 7. System Architecture:
 - Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
