@@ -35,36 +35,153 @@ Don't forget to hit the :star: if you like this repo.
 
   
 ### 1. Executive Summary
-Our proposed UTM Event Management System is a comprehensive solution aimed at simplifying and streamlining the processes of event management for organisers, attendees, and administrators. To achieve this, we are utilising advanced technologies and industry best practices to provide a seamless user experience that enables organisers to plan and execute successful events with ease, and attendees to easily discover, register and participate in events. The key features of our system include real-time event scheduling, registration, various types of activities and merit, and feedback capabilities, which give organisers and administrators the ability to optimise event planning, monitor performance, and make informed data-driven decisions. Attendees will also benefit from a user-friendly interface, as well as integration with various social media platforms. Ultimately, our UTM Event Management System will provide measurable value to all stakeholders, resulting in increased event participation, better engagement and satisfaction, and a stronger institutional reputation. By investing in our system, UTM will be at the forefront of event management technology and innovation.
+Our proposed UTM Event Management System is a comprehensive solution aimed at simplifying and streamlining the processes of event management for organisers, attendees, and administrators. To achieve this, we're using cutting-edge technology and industry best practises to create a seamless user experience that makes it simple for event planners to plan and carry out successful events and for attendees to find, register for, and participate in events. The key features of our system include real-time event scheduling, registration, various types of activities and merit, and feedback capabilities. These features enable event planners and administrators to optimise event preparation, track performance, and make data-driven decisions. A user-friendly interface and  integration with various social media sites would also be helpful to attendees. Ultimately, our UTM Event Management System will provide measurable value to all stakeholders, resulting in increased event participation, better engagement and satisfaction, and a stronger institutional reputation. By investing in our system, UTM will be at the forefront of event management technology and innovation.
 
 ### 2. Background:
-Events are an essential part of the University of Technology, Malaysia (UTM) experience. However, the current manual process of managing events is time-consuming, prone to errors, and lacks the ability to provide real-time information about event performance. These challenges have resulted in poor event planning, low participation rates, and a negative impact on the overall experience of attendees.
+Events are an essential part of the University of Technology, Malaysia (UTM) experience. However, the current manual process of managing events is time-consuming, prone to errors, and lacks the ability to provide real-time information about event performance. These difficulties have had a detrimental effect on participants' overall experiences, leading to poor event organisation and low participation rates.
 
-The proposed UTM Event Management System aims to address these challenges by introducing an innovative, intuitive, and automated system that streamlines the event management process. The proposed system leverages the latest technologies and industry best practices to deliver a seamless user experience for organisers, attendees, and administrators. Key features of the system include  real-time event scheduling, registration, various types of activities and merit, and feedback capabilities, which give organisers and administrators the ability to optimise event planning, monitor performance, and make informed data-driven decisions.
+The proposed UTM Event Management System aims to address these challenges by introducing an innovative, intuitive, and automated system that streamlines the event management process. The proposed system leverages the latest technologies and industry best practices to deliver a seamless user experience for organisers, attendees, and administrators. Real-time event scheduling, registration, different sorts of activities and credits, and feedback capabilities are among the system's key features, which give organisers and administrators the ability to optimise event planning, monitor performance, and make informed data-driven decisions.
 
-The proposed UTM Event Management System has the potential to significantly improve the overall experience for all stakeholders, including organisers, attendees, and administrators. By reducing the administrative burden of manual processes, the proposed system will save time, reduce errors, and increase satisfaction. Additionally, the system will provide valuable insights and analytics that can be used to make data-driven decisions to improve event outcomes. Overall, the proposed system has the potential to position UTM as a leader in event management technology and innovation and improve its competitive edge in attracting and retaining attendees.
+All stakeholders, including organisers, attendees, and administrators, stand to benefit considerably from the proposed UTM Event Management System. The suggested method will save time, cut down on errors, and boost satisfaction by lessening the administrative burden of manual processes. The system will also offer insightful analytics that can be utilised to inform decisions that will enhance the outcomes of events. Overall, the suggested approach has the potential to establish UTM as a pioneer in event management innovation and technology and strengthen its competitive edge in luring and retaining attendees.
 
 In summary, the UTM Event Management System proposal seeks to address the challenges associated with the current manual event management process by introducing a modern, automated, and user-friendly solution that provides measurable benefits and enhances the overall experience of all stakeholders. The proposed system has the potential to transform event management at UTM, improve event outcomes, and enhance UTM's reputation as a leading institution of higher learning.
 
-
 ### 3. Objectives:
-- The objectives section should clearly state the goals and objectives of the software project. It should describe the intended outcomes of the software and how it will address the problem it aims to solve. 
-- Objectives should be specific, measurable, achievable, relevant, and time-bound (SMART).
+#### Specific: 
+To provide a user-friendly system for students to explore, sign up for, and provide feedback on campus events, including club activities and official university events.
+
+#### Measurable: 
+To increase student engagement and participation in campus events by 20% within the first year of system implementation, as measured by the number of event registrations and attendance.
+
+#### Achievable: 
+To develop and launch the initial version of the system within two months, and to continually improve and update the system based on user feedback.
+
+#### Relevant: 
+To address the problem of limited access and awareness of campus events, and to enhance the overall student experience by providing an efficient platform for event planning, organisation, and participation.
+
+#### Time-Bound: 
+To complete the aforementioned goals within the upcoming two months and keep track of and continuously assess the system's effectiveness and impact.
 
 ### 4. Scope: 
 - The scope section defines the boundaries of the project and outlines what features and functionality will be included in the software. 
 - It should also describe any limitations or constraints that may affect the project.
 
 ### 5. Software Process Model:
-This section describe the ideal software process model for this system development. The write-up must consist of:
-- Explanation of the goal of the software process model.
-- Choose the ideal software process model and give justification.
-- The illustration of chosen software process model that relates to your project and shows every phase involved in the chosen software process model
-- Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. 
-- It should also describe the testing methodologies, project management practices, and quality assurance processes.
+A software process model's main objective is to offer a framework for the systematic and organised development of software. It offers a collection of tasks, products, and deadlines to make sure the software is created quickly and effectively. A software process model's main objective is to make sure that the software is high-quality, delivered on time, and within budget while also meeting the requirements of the stakeholders.
+
+The <b>Agile software development process model</b> is the ideal software process model for this campus event management system development. The Agile process model is an adaptable and iterative method of developing software that places a focus on teamwork, client satisfaction, and the quick delivery of functional software. This process model emphasises delivering value to the customer at each iteration and is appropriate for projects with varying requirements and uncertainties.
+
+The Agile process model was chosen because it enables frequent feedback and changes to be made to the software while it is being developed. Since this system is being created for a university, it is likely that the requirements will change and be updated as the project moves forward. The Agile process model is well suited to handle such changes and still deliver a high-quality product on time.
+
+The Agile process model consists of the following phases:
+
+#### 1. Planning and Design Phase: 
+During this stage, the team establishes the project's scope, objectives, and goals. A product backlog, which is a prioritised list of the system's features or requirements, is also created by the team. The requirement analyst team works in conjunction with the stakeholders during this phase to compile and assess the system requirements. The group then develops user stories, which are concise, controllable chunks of functionality that can be worked on iteratively. The team will develop a thorough system design, complete with user interfaces, data models, and system architecture, during this phase. The team will also develop a mockup or prototype of the system so that stakeholders can give input and verify that the design satisfies their requirements.
+
+#### 2. Development Phase:
+The team will start coding the system and integrating the various components throughout this phase. To make sure that the code is functioning as expected and that the system is meeting the project requirements, this phase calls for frequent testing and teamwork.
+
+#### 3. Testing and Deployment Phase:
+During this stage, the team will test the system to make sure it complies with the specifications and performs as anticipated. System testing, integration testing, and unit testing are all included in this. To make sure the system satisfies users' needs and expectations, the team will also collaborate with stakeholders to carry out user acceptance testing. For deployment, the team will deploy the system to the production environment and make it available to users. This includes final testing and validation, as well as training for users and support staff.
+
+
+#### Gantt Chart: 
+
+  <table style="border-collapse: collapse;">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Tasks</th>
+          <th>Person In-Charge</th>
+          <th>Expected Time To Finish</th>
+          <th>Progress</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td rowspan="3">Phase 1: Planning and Design</td>
+          <td>Identify project goals, objectives, and success criteria.</td>
+          <td>All</td>
+          <td rowspan = "3">Week 1</td>
+          <td> Done </td>
+        </tr>
+        <tr>
+          <td>Gather and document all the requirements of the system.</td>
+          <td>Requirement Analyst</td>
+          <td>Ongoing</td>
+        </tr>
+        <tr>
+          <td>Assist in documenting the requirements in a clear and concise manner.
+          <td>Documentation Specialist</td>
+          <td>Ongoing</td>
+        <tr>
+          <td rowspan="4">Phase 2: Development</td>
+          <td>Design the user experience of the system.</td>
+          <td>User Experience Designer</td>
+          <td rowspan = "4">Week 2-4</td>
+          <td>None</td>
+        </tr>
+        <tr>
+          <td>Design the user interface of the system.</td>
+          <td>All</td>
+          <td>None</td>
+        </tr>
+        <tr>
+          <td>Develop the system based on the design document and prototype.</td>
+          <td>Main developer</td>
+          <td>None</td>
+        </tr>
+        <tr>
+          <td>Assist in coding and unit testing.
+          <td>Developer assistant</td>
+          <td>None</td>
+        </tr>
+        <tr>
+          <td rowspan="4">Phase 3: Testing and Deployment</td>
+          <td>Perform various testing activities such as functional testing, integration testing, and performance testing.</td>
+          <td>Quality Assurance Analyst</td>
+          <td rowspan="4">Week 5-6</td>
+          <td>None</td>
+        </tr>
+        <tr>
+          <td>Assist in the testing activities.</td>
+          <td>Developer assistant</td>
+          <td>None</td>
+        </tr>
+        <tr>
+          <td>Deploy the system in a production environment.</td>
+          <td>Main developer</td>
+          <td>None</td>
+        </tr>
+        <tr>
+          <td>Create user manuals and training manuals.</td>
+          <td>Requirement analyst</td>
+          <td>None</td>
+        </tr>
+      </tbody>
+    </table>
+
+#### Testing Methodologies: 
+-The quality assurance analyst will use various testing methodologies such as black-box testing, white-box testing, and grey-box testing.
+##### i. Black-box testing:
+Also referred to as functional testing or behavioural testing, is a testing technique where the tester is unaware of the internal workings of the system being tested. The tester in this method only has access to the system's inputs and outputs, and they test the system's functionality in accordance with its specifications and requirements. In our case, the system's end users (students) will conduct this kind of testing.
+
+##### ii. White-box testing
+Also known as structural testing, is a testing technique where the tester is aware of how the system being tested operates on the inside. This approach involves running tests on the system's internal components, such as code or algorithms, to make sure they work as intended. Developers or testers with access to the source code (the team members) of the system being tested usually carry out white-box testing.
+
+##### iii. Grey-box testing:
+With this approach, the tester is only partially aware of how the system being tested operates internally. This enables them to test the system's functionality and internal structures to make sure everything is operating as it should. Grey-box testing is typically carried out by testers who have some familiarity with the inner workings of the system but not enough to carry out thorough white-box testing. In this case, it will be the IT administrator staff.
+
+
+#### Project Management Practices: 
+We can use Agile project management practices such as Scrum to manage the project. The team can have daily stand-up meetings, sprint planning, sprint review, and retrospective meetings.
+
+#### Quality Assurance Processes: 
+The quality assurance analyst along with the team members will ensure that the system meets the quality standards by performing various testing activities and creating test reports. The main developer and developer assistant will also perform unit testing and code reviews to ensure the quality of the code.
+
 
 ### 6. Budget:
-The development of the academic course registration system for 30,000 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at **RM 1,300,000**, as outlined below:
+The development of the academic course registration system for 30,000 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at **RM 900,000**, as outlined below:
 
 - **Hardware Costs: RM 400,000** <br>
 This includes the cost of servers, storage, networking equipment, and other hardware required to support the system. This cost will vary depending on the specific hardware configuration chosen, but it is essential to ensure that the system can handle the expected number of users and data volume.
@@ -72,18 +189,19 @@ This includes the cost of servers, storage, networking equipment, and other hard
 - **Software Costs: RM 150,000** <br>
 This includes the cost of licences for any third-party software required, such as operating systems, databases, and development tools. It also includes the cost of any software development needed for the project, such as custom modules or integrations.
 
-- **Personnel Costs: RM 324,000** <br>
+- **Personnel Costs: RM 54,000** <br>
 This includes the cost of the development team, project managers, and quality assurance specialists. The team size and composition will vary depending on the complexity of the project, but it is essential to ensure that the team has the necessary skills and experience to complete the project on time and within budget.
-Testing Costs: RM 76,000
+
+- **Testing Costs: RM 95,500** <br>
 This includes the cost of testing the software to ensure that it meets the specified requirements and is free of defects. This cost will depend on the testing approach chosen, such as manual or automated testing.
 
-- **Other Expenses: RM 250,000** <br>
+- **Other Expenses: RM 100,500** <br>
 This includes the cost of rent for office space, utilities, marketing and advertising, and testing.
 
 - **Contingency Plan: RM 100,000** <br>
 It is always recommended to have a contingency plan for unexpected expenses that may arise during the project. This can include budget reserves or adjusting the scope of the project if necessary.
 
-In conclusion, the estimated budget for the development of the UTM Event Management System is RM 1,300,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingency. Any changes in the budget will be communicated to stakeholders and project sponsors.
+In conclusion, the estimated budget for the development of the UTM Event Management System is RM 900,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingency. Any changes in the budget will be communicated to stakeholders and project sponsors.
 
 
 ### 7. System Architecture:
@@ -107,20 +225,37 @@ To improve the load time of the page, we can implement caching techniques such a
 
 The block diagram for the proposed system architecture is as follows:
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Curiousity/system%20architecture.png" alt="SystemArchitecture"></img>
+
 ### 8. Risks Assessment:
 - The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
-- It should also describe the plans and strategies to mitigate those risks.
+- It also describe the plans and strategies to mitigate those risks.
+
+#### 1. Technical risks: 
+The system runs the risk of experiencing technical problems like software bugs, compatibility problems, or system failures. The development team will carry out extensive testing and quality assurance procedures to guarantee the system's functionality and stability in order to reduce this risk. Additionally, the team will implement a backup and recovery plan to minimise any potential data loss or system downtime.
+
+#### 2. Resource constraints: 
+There is a chance that the project will experience resource limitations due to a lack of funding, personnel, or time. The development team will effectively allocate resources and set project task priorities in order to reduce this risk. In order to access more funding and support, the team will also look into potential alliances and collaborations with outside groups.
+
+#### 3. Changes in project requirements: 
+During the development process, there is a likelihood that the project requirements may alter because of feedback from stakeholders or shifting conditions. The requirement analysis team will keep lines of communication open with stakeholders and regularly review and update the project requirements to ensure alignment with the project's goals and objectives in order to reduce this risk.
+
+#### 4. Security risks: 
+The possibility exists that the system could be exposed to security flaws like hacking or unauthorised access. The development team will put strong security measures, such as encryption, authentication, and access control, into place to lessen this risk. 
+
+#### 5. Adoption risks: 
+Due to lack of awareness or competing options, there is potential that the system will not be widely used by students and other users. The user experience designer team will carry out extensive user research and design the system to be accessible and user-friendly in order to reduce this risk. To increase awareness and promote adoption, the team will also employ focused marketing and promotional strategies.
+
 
 ### 9. Resources:
 To successfully deliver the academic course registration system, the following resources are required:
 
 **Staff**
-- 1 Project Manager: RM 84,000/year
-- 1 Requirement Analyst & Developer Assistant: RM60,000/year
-- 1 User Experience Designer & Developer Assistant: RM60,000/year
-- 1 Main Developer & Quality Assurance Analyst: RM60,000/year
-- 1 Documentation Specialist & Developer Assistant: RM60,000/year <br>
-Total Staff Cost: RM 324,000/year
+- 1 Project Manager: RM 14000/project
+- 1 Requirement Analyst & Developer Assistant: RM 10,000/project
+- 1 User Experience Designer & Developer Assistant: RM 10,000/project
+- 1 Main Developer & Quality Assurance Analyst: RM 10,000/project
+- 1 Documentation Specialist & Developer Assistant: RM 10,000/project <br>
+Total Staff Cost: RM 54,000/project
 
 **Equipment:**
 - Servers: RM 200,000
@@ -137,14 +272,14 @@ Total Equipment Cost: RM 400,000
 Total Software Cost: RM 150,000
 
 **Other Expenses:**
-- Rent for Office Space: RM 120,000/year
-- Utilities: RM 30,000/year
-- Marketing and Advertising: RM 100,000
-- Testing: RM 76,000
+- Rent for Office Space: RM 20,000
+- Utilities: RM 5,000
+- Marketing and Advertising: RM 75,500
+- Testing: RM 95,500
 - Contingency: RM 100,000 <br>
-Total Other Expenses: RM 426,000
+Total Other Expenses: RM 296,000
 
-**Total Resources Cost: RM 1,300,000**
+**Total Resources Cost: RM 900,000**
 
 Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
 
@@ -167,13 +302,13 @@ Note: All costs mentioned above are estimates and are subject to change based on
       </thead>
       <tbody>
         <tr>
-          <td>Phase 1: Planning and Design (Weeks 1)</td>
+          <td>Phase 1: Planning and Design (Week 1)</td>
           <td>System Requirements and Design</td>
           <td>System Requirements Document, System Design Document</td>
           <td>Project Manager, Requirement Analyst, User Experience Designer, Assistant developer</td>
         </tr>
         <tr>
-          <td rowspan="3">Phase 2: Development (Weeks 2-4)</td>
+          <td rowspan="3">Phase 2: Development (Week 2-4)</td>
           <td>Front-end Development Complete</td>
           <td>Completed front-end of the system</td>
           <td>UI/UX Designer, Front-end Developer</td>
@@ -189,7 +324,7 @@ Note: All costs mentioned above are estimates and are subject to change based on
           <td>Main Developer, Back-end Developer</td>
         </tr>
         <tr>
-          <td rowspan="3">Phase 3: Testing and Deployment (Weeks 5-6)</td>
+          <td rowspan="3">Phase 3: Testing and Deployment (Week 5-6)</td>
           <td>System Testing Complete</td>
           <td>System Test Report</td>
           <td>Quality Assurance Analyst</td>

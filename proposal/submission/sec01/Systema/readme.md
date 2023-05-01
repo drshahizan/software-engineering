@@ -43,13 +43,107 @@ This section describe the ideal software process model for this system developme
 - It should also describe the testing methodologies, project management practices, and quality assurance processes.
 
 ### 6. Budget:
-- The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
+The development of a student engagement system for approximately 40,000 students will involve various costs, including hardware, software, personnel, testing, and contingency. The budget for this project is estimated at **RM 4,000,000**, as outlined below:
+
+#### Hardware: RM 1,200,000
+- The hardware budget includes the cost of purchasing and maintaining the necessary hardware infrastructure to support the student engagement system, including servers, storage devices, network devices, and other necessary hardware components.
+- The hardware should be able to support a large number of users, with high-speed internet connectivity and ample storage capacity.
+- The hardware should also be scalable to accommodate potential future growth in the number of users.
+
+#### Software: RM 800,000
+- The software budget includes the cost of purchasing and licensing software tools and platforms required for the development of the student engagement system, such as communication and collaboration tools.
+- The software licenses should be carefully selected to ensure compatibility, functionality, and security.
+- The software should also be user-friendly and easy to navigate to ensure engagement and adoption by students.
+
+#### Personnel: RM 1,800,000
+- The personnel budget includes the cost of salaries and benefits for the development team, including the project manager, system analyst, programmers, and testers.
+- The development team should have experience and expertise in developing student engagement systems, with a focus on creating user-friendly and engaging systems that promote collaboration and communication among students.
+- The development team should also have expertise in data analysis and visualization to ensure that the system is able to track and analyze student engagement metrics effectively.
+
+#### Testing: RM 150,000
+- The testing budget includes the cost of conducting functional, performance, and security testing of the student engagement system.
+- The testing should include user acceptance testing to ensure that the system meets the needs and expectations of students.
+- The testing should also include stress testing to ensure that the system is able to handle a large number of users without performance issues.
+
+#### Contingency: RM 150,000
+- The contingency budget includes a small amount of funds set aside to cover any unexpected expenses that may arise during the development process.
+- These expenses could include unforeseen hardware or software failures, scope changes, or delays in the development process.
+- The contingency budget is included to ensure that the project can stay on track even in the face of unexpected challenges or setbacks, which could potentially impact student engagement.
+
+In conclusion, the estimated budget for the development of the student engagement system proposal is RM 4,000,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingency. Any changes in the budget will be communicated to stakeholders and project sponsors.
+
 
 ### 7. System Architecture:
-- Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
-- Explain how the data will be stored, managed, and analyzed, as well as the hardware and software requirements needed to support the system.
-- Discuss the tools and frameworks that will be used for data visualization and analysis.
-- Provide a flowchart or block diagram of the system architecture.
+
+#### System Architecture Overview:
+
+The social media website for university students will be a client-server architecture with a web-based front-end and a back-end server that manages data storage, retrieval, and processing. The architecture will include the following layers:
+
+- Presentation layer: This layer will include the user interface of the website that will be designed using HTML, CSS, and JavaScript. The front-end framework ReactJS will be used to create the website user interface.
+
+- Application layer: This layer will handle user requests, process the data, and provide responses. Node.js and Express.js will be used as the server-side technologies for handling user requests and managing data.
+
+- Data layer: This layer will store and manage the data for the system. MySQL or PostgreSQL will be used as the relational database management system (RDBMS) for storing user information, posts, comments, and other relevant data.
+
+#### Data Storage and Management:
+
+The website's data will be stored and managed using a relational database management system (RDBMS). MySQL or PostgreSQL will be used as the RDBMS for the system. The data will be stored in tables, with each table representing a different type of data such as users, posts, comments, and likes. The data will be managed using SQL queries, and data integrity will be ensured by implementing proper constraints such as primary keys, foreign keys, and unique keys.
+
+The hardware and software requirements for the data storage and management include:
+
+- Hardware: A server or a hosting service with sufficient storage capacity and processing power to handle the website's data storage and management requirements.
+
+- Software: MySQL or PostgreSQL as the RDBMS, and Node.js and Express.js for server-side processing.
+
+#### Data Analysis and Visualization:
+
+The data generated by the social media website can be analyzed and visualized using various tools and frameworks. Some of the tools and frameworks that can be used for data analysis and visualization include:
+
+- Business intelligence (BI) tools: Tools such as Tableau, Power BI, and QlikView can be used to create visualizations, reports, and dashboards based on the data generated by the website.
+
+- Data visualization libraries: Libraries such as D3.js, Highcharts, and Chart.js can be used to create interactive and visually appealing charts and graphs based on the data.
+
+- Data analysis tools: Tools such as Python, R, and Excel can be used to perform advanced data analysis tasks such as sentiment analysis, trend analysis, and predictive modeling.
+
+#### Flowchart and Block Diagram:
+
+The following is a flowchart and block diagram of the system architecture for the social media website for university students:
+
+Flowchart:
+
+```java
+USER INTERFACE
+  |
+  V
+APPLICATION SERVER (Node.js/Express)
+  |
+  V
+DATABASE SERVER (MySQL or PostgreSQL)
+```
+
+Block Diagram:  
+
+```sql
++----------------------------------------------------+
+|                 Relational Database                |
++----------------------------------------------------+
+|               MySQL or PostgreSQL                  |
++----------------------------------------------------+
+        ^                                    ^
+        |                                    |
+        |                                    |
++------------------+              +------------------+
+|    Web Platform  |              |  Server-side API |
+|     (ReactJS)    |              |    (Node.js)     |
++------------------+              +------------------+
+        ^                                    ^
+        |                                    |
+        |                                    |
++----------------------------------------------------+
+|                User-Facing Interface               |
+|                    (Web Application)               |
++----------------------------------------------------+
+```  
 
 ### 8. Risks Assessment:
 [- The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
