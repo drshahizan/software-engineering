@@ -17,19 +17,19 @@ Don't forget to hit the :star: if you like this repo.
     <th>Role</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td>1. MAISARAH BINTI RIZAL</td>
     <td></td>
   </tr>
   <tr>
-    <td>2</td>
+    <td>2. WAN NUR SOFEA BINTI MOHD HASBULLAH</td>
     <td></td>
   </tr>
     <tr>
-    <td>3</td>
+    <td>3. MULYANI BINTI SARIPUDDIN</td>
     <td></td>
   </tr>
     <tr>
-    <td>4</td>
+    <td>4. NUR ARINI FATIHAH BINTI MOHD SABIR</td>
     <td></td>
   </tr>
 </table>
@@ -43,7 +43,7 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td>1. Dr Nor Azizah Ali</td>
     <td></td>
     <td></td>
     <td></td>
