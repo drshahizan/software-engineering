@@ -16,7 +16,7 @@ Don't forget to hit the :star: if you like this repo.
 
 2.Muhammad Luqman Hakim Bin Mohd Rizaudin
 
-3.Danial Harriz Bin Mohd Asineh @ Mohd Asneh
+3.Danial Harriz Bin Mohd Asineh @ Mohd Asneh (A22EC0152)
 
 4.Kugen a/l Kalidas
 
@@ -24,7 +24,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Table of Contents](#table-of-contents)
 
 ### 1. Executive Summary
-- Start the proposal with a brief summary that highlights the main points of the project, including its goals, objectives, and expected outcomes.
+This project aims to ease the process of doing Badal Hajj and Umrah. It's main goal is to create a system that can be easily accesed by the user to register and the data will then be used by the company to process the registration.
 
 ### 2. Background:
 Baddal Hajj is the act of performing the compulsary obligation for muslims. The season of this Hajj only once a year and muslims will performing their Hajj during this season while umrah the other hand is open to be perform at any time. The idea of this project is to manage the bulk registration for those who are interested to take part or to perform their umrah and hajj so that the documentation will be more systematic. Every country has their quota that has been decided by Arab Saudi to send their muslims congregation every year to perform hajj while umrah can be perform throughout the year, so the number of people that will be register is exceed the human capability to manage, this sytem is being made to help and assist the management of registration for the hajj and umrah in larger quantity with more systematic.
