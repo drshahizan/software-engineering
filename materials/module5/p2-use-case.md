@@ -114,7 +114,7 @@ By creating a use case model for the university academic course registration sys
 
 An example of a use case diagram for the university academic course registration system in PlantUML code:
 
-```
+```puml
 @startuml
 actor Student
 actor Faculty
@@ -469,6 +469,19 @@ This table represents a use case scenario for the "Enroll in Course" feature in 
 |                | The student is notified of the successful course drop. | 
 
 > UC-02 (Drop Course) is a use case in the university academic course registration system that enables a student to drop a course from their schedule. The student is the actor for this use case, and the precondition is that the student is already registered in at least one course. The flow of events involves the student selecting the course to drop, the system verifying the enrollment, removing the course from the schedule, and notifying the student of the successful course drop. The postconditions are that the selected course is dropped from the student's schedule, and the student is notified of the successful course drop.
+
+Sure, here is a table format for the use case description:
+
+| Use Case | UC-003 |
+| --- | --- |
+| Actors | Student, Academic Advisor |
+| Preconditions | - The student is logged into the university academic course registration system<br>- The student has already searched for courses and found one they are interested in<br>- The student has selected the course they want to register for |
+| Flow of Events | 1. The system presents the student with a page displaying the course information and options for selecting the type of credit they wish to receive for the course.<br>2. The student selects the desired type of credit (e.g. graded, pass/fail, audit).<br>3. If the selected credit type requires additional approval from an academic advisor (e.g. pass/fail), the system displays a message indicating that the advisor will need to approve the credit type selection.<br>4. The student confirms their credit type selection and submits their course registration request to the system.<br>5. The system checks for any prerequisite courses required for the selected course and notifies the student if any are missing.<br>6. If prerequisites are missing, the student can choose to go back to the course search and select a different course, or they can request that an academic advisor help them resolve the missing prerequisites.<br>7. Once all prerequisites are satisfied and any required approvals are granted, the system confirms the student's course registration and updates their academic record. |
+| Postconditions | - The student is registered for the selected course with the chosen type of credit<br>- The student's academic record is updated with the course registration information |
+| Alternative Flow | If the student encounters an error or issue during the course registration process, they can choose to contact the university's help desk for assistance. The help desk may request additional information from the student or escalate the issue to technical support if necessary. |
+| Postconditions | - The student's issue or error is resolved, allowing them to complete the course registration process. |
+| Alternative Flow | 3a. If the selected credit type requires approval from an academic advisor, the system sends a notification to the student indicating that the advisor must review and approve their credit type selection.<br>3b. The academic advisor receives the notification and logs into the system to view the student's course registration request.<br>3c. The advisor reviews the student's credit type selection and either approves or denies the request.<br>3d. If the request is denied, the advisor must provide a reason for the denial.<br>3e. The system notifies the student of the advisor's decision and reason for denial (if applicable).<br>3f. If the request is approved, the system proceeds with the course registration process as described in the main flow. |
+| Postconditions | - If the advisor approves the credit type selection, the student is registered for the course with the chosen type of credit<br>- If the advisor denies the credit type selection, the student is not registered for the course and must either choose a different credit type or select a different course altogether. |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
