@@ -213,24 +213,37 @@ Overall, the risks associated with the development of the food ordering system w
 
 
 ### Staff:
+- 3 Programmers: RM 144,000/year each
+- 1 System Analyst: RM 120,000/year
+- 1 Project Manager: RM 250,000/year
 
-Total Staff Cost: RM 
+Total Staff Cost: RM 802,000/year
 
 ### Equipment:
+- Servers: RM 200,000
+- Workstations and Laptops: RM 100,000
+- Networking and Cabling: RM 50,000
+- Security and Backup: RM 50,000
 
+Total Equipment Cost: RM 400,000
 
-Total Equipment Cost: RM
-  
 ### Software:
+- Relational Database Management System (RDBMS): RM 50,000
+- Web Server: RM 20,000
+- Mobile Application Development Framework: RM 30,000
+- Data Analytics Tools: RM 50,000
 
-Total Software Cost: RM 
+Total Software Cost: RM 150,000
 
 ### Other Expenses:
+- Rent for Office Space: RM 120,000/year
+- Utilities: RM 30,000/year
+- Marketing and Advertising: RM 100,000
+- Contingency: RM 360,000
+- Total Other Expenses: RM 610,000
 
-- Total Other Expenses: RM
+Total Estimated Cost: RM 1,900,000
 
-Total Estimated Cost: RM 
-  
 > Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
 
 ## 10. Technical Specifications:
