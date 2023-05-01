@@ -71,6 +71,29 @@ The arrows represent the interactions between the different elements of the inte
 
 By creating an interaction model for the university academic course registration system, software engineers can gain a better understanding of the different steps involved in the registration process from the perspective of the different user roles. This can help to identify potential issues and ensure that the system meets the needs of its stakeholders. The interaction model can also be used as a communication tool to help stakeholders understand how the system operates and how it is used to achieve specific goals.
 
+## Use case modeling
+Use case modeling is a technique used in software engineering to represent the different ways that users interact with a system. It is a way of identifying the different actions or steps that a user takes to accomplish a specific goal or task. In the context of the university academic course registration system, use case modeling would be used to represent the various interactions that students, faculty, and staff have with the registration system.
+
+Examples of use cases for the university academic course registration system:
+
+1. Browse Course Catalog: This use case allows a student or faculty member to browse the course catalog to view available courses.
+
+2. Select Courses: This use case allows a student to select the courses they wish to enroll in and add them to their schedule.
+
+3. Add to Schedule: This use case allows a student to add the selected courses to their schedule for the upcoming semester.
+
+4. Pay Tuition: This use case allows a student to pay their tuition fees for the semester.
+
+5. Approve Course Selections: This use case allows a faculty member to review and approve the course selections made by a student.
+
+6. Manage Course Offerings: This use case allows a staff member to manage the course offerings for the upcoming semester, such as adding or removing courses.
+
+Each use case would be described in more detail, including the specific steps involved in accomplishing the task and the actors or users involved. Use case diagrams would be created to visualize the interactions between the actors and the system.
+
+> A use case diagram for the university academic course registration system might include actors such as students, faculty, and staff, with each use case represented as a separate box. Arrows would connect the actors to the use cases they are involved in, illustrating the interactions between the different elements of the system.
+
+By creating a use case model for the university academic course registration system, software engineers can better understand the needs of the different user roles and ensure that the system meets those needs. It also helps to identify potential issues and design solutions to those issues.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
