@@ -10,14 +10,27 @@ Don't forget to hit the :star: if you like this repo.
 # Student Engagement
 
 ### Prepared by: Systema
-  1. Name and matrix no
-  2. Chai Yu Tong A22EC0145
-  3. Name and matrix no
-  4. Wong Qiao Ying A22EC0118
-  5. Yeoh Chong Yi A22EC0295
+  1. Bernice Lim Jing Xuan  A22EC0038
+  2. Chai Yu Tong           A22EC0145
+  3. Kek Jesslyn            A22EC0057
+  4. Wong Qiao Ying         A22EC0118
+  5. Yeoh Chong Yi          A22EC0295
 
 ### Table of Contents
-- [Table of Contents](#table-of-contents)
+<ol>
+ <li>Executive Summary</li>
+ <li>Background</li>
+ <li>Objectives</li>
+ <li>Scope</li>
+ <li>Software Process Model</li>
+ <li>Budget</li>
+ <li>System Architecture</li>
+ <li>Risks Assessment</li>
+ <li>Resources</li>
+ <li>Technical Specifications</li>
+ <li>Timeline and Deliverables</li>
+ <li>Conclusion</li>
+ 
   
 ### 1. Executive Summary
 - Start the proposal with a brief summary that highlights the main points of the project, including its goals, objectives, and expected outcomes.
