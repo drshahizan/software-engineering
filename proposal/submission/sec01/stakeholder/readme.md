@@ -59,9 +59,9 @@ The student accommodation system features offer significant benefits for the uni
 ### 3. Objectives
 Our proposed student accommodation system aims to achieve the following objectives:
 
-1. **Specific:** Create an automated system for home allocation that cuts the time needed by 50%.<br>
-**Measurable:** To determine the reduction in allocation time, do a time audit before and after the new process is implemented.<br>
-**Achievable:** Work together to establish the automated housing allocation procedure with the university's IT division.<br>
+1. **Specific:** Create an efficient system for hostel room allocation that cuts the time needed by 50%.<br>
+**Measurable:** Determine the reduction in allocation time by doing a comparism before and after the new system is implemented.<br>
+**Achievable:** Work together to establish the allocation procedure with the student accomodation admistrators and the KTDI staff.<br>
 **Relevant:** The objective supports streamlining and enhancing efficiency in the housing allocation procedure.<br>
 **Time-bound:** The objective will be achieved within the first year of the project.
 
@@ -106,7 +106,7 @@ The scope of the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) refe
 
 - Support and maintenance: <br>Residents or students should be able to report problems or request assistance for the maintainence of hostel equipment through the system's help desk and there should be a dedicated team working to quickly resolve these problems.
 
-However, there are several limitations and constraints that may affect the project of a student accommodation system for Kolej Tun Dr Ismail (KTDI):
+<!--However, there are several limitations and constraints that may affect the project of a student accommodation system for Kolej Tun Dr Ismail (KTDI):
   
 - Timeframe: <br>The project's constrained timeline can have an impact on the system's scope. The quantity of work that can be accomplished may be constrained by the time available, which could lead to the elimination of particular features or functionalities. The timetable may also have an impact on the system's quality because hurried development might result in mistakes, faults, or missing functionality.
 
@@ -118,7 +118,7 @@ However, there are several limitations and constraints that may affect the proje
 
 - Scalability: <br>To support expansion and growth in the future, the system must be scalable. The architecture and design of the system must be able to accommodate growing numbers of students, rooms and data. For the system to last and be able to change with the needs of the user, scalability limits may call for more resources.
   
-In conclusion, we can establish the foundation for the project plan, which outlines the specific tasks, resources, timelines and budgets needed to achieve the project goals by stating out our project scopes and we are able to ensure that our student accommodation system in Kolej Tun Dr Ismail (KTDI) can be completed successfully, on time and within our expected capitals as well as fullfill the needs of all stakeholders.
+In conclusion, we can establish the foundation for the project plan, which outlines the specific tasks, resources, timelines and budgets needed to achieve the project goals by stating out our project scopes and we are able to ensure that our student accommodation system in Kolej Tun Dr Ismail (KTDI) can be completed successfully, on time and within our expected capitals as well as fullfill the needs of all stakeholders.-->
 
 ---
 
@@ -357,13 +357,13 @@ To mitigate these risks, the following strategies will be employed:
 
 - Legal and regulatory risk: <br>KTDI should make sure the system complies with pertinent data protection and privacy legislation, like the Personal Data Protection Act (PDPA), in order to reduce legal and regulatory risks. Additionally, they should constantly audit and examine the system to make sure it complies with applicable laws and regulations, as well as review and update data protection and privacy policies to ensure compliance with evolving legislation.
 
-Changes in project requirement:
+- Changes in project requirement:
   - The project requirements should be precisely stated, exhaustive, and well-documented.
   - Create a change management strategy that details how modifications to the project scope will be handled, including how they will be documented, reviewed, and approved.
   - Utilise agile project management techniques like Scrum, which offer adaptability to changing requirements while preserving control over the project's scope.
   - To prevent conflicts, effectively communicate changes to the project's requirements to all parties involved, including the project team, users, and management.
 
-Resource Constraints:
+- Resource Constraints:
   - Technical risk: <br>KTDI should put in place routine data backups and disaster recovery plans, as well as routine maintenance and software and hardware updates, to reduce the technical risks. They should also employ qualified IT specialists to run and maintain the system.
   - Financial risk: <br>To reduce financial risks, KTDI should create a thorough financial strategy that takes into consideration the initial expenditures as well as recurring expenses of the Student Accommodation System. Additionally, they want to look at other sources of income, including adding booking fees or providing premium services. It's crucial to regularly examine and modify financial predictions to take any changes in enrollment or other monetary issues into consideration.
 
@@ -487,6 +487,9 @@ IV. Other Expenses:<br>
 </tr>
   </tbody>
 </table>
+    
+---
+
 ### 12. Conclusion
 
 In conclusion, the suggested Student Accommodation System is a crucial remedy for Kolej Tun Dr Ismail (KTDI) staff and student problems in handling student housing. The technology intends to improve data analytics, automate processes, streamline the room allocation process, and give students a better user experience. The suggested technique has the advantages of better student satisfaction, enhanced staff productivity, and an overall more dependable and effective system.
