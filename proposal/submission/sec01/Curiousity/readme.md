@@ -107,7 +107,7 @@ Data analysis and visualisation will be implemented using Chart.js, a JavaScript
 To improve the load time of the page, we can implement caching techniques such as browser caching, server-side caching, and database caching. We can also optimise images and other assets to reduce page size and improve load time.
 
 The block diagram for the proposed system architecture is as follows:
-
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Curiousity/system%20architecture.png" alt="SystemArchitecture"></img>
 ### 8. Risks Assessment:
 - The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
 - It should also describe the plans and strategies to mitigate those risks.
