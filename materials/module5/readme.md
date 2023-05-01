@@ -47,7 +47,7 @@ System modeling in software engineering refers to the process of creating abstra
 
 4. Maintenance: After the software system is deployed, it requires ongoing maintenance and updates to address bugs, security issues, and changes in requirements.
 
-## System modeling in software engineering
+## System modeling in Software Engineering
 There are several benefits of using system modeling in software engineering, including:
 
 1. Better communication: System models provide a visual representation of the software system, which can help stakeholders better understand its behavior, structure, and interactions. This can lead to more effective communication among project team members, customers, and other stakeholders.
