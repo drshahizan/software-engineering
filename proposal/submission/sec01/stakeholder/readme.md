@@ -151,19 +151,19 @@ In conclusion, the Agile methodology is an effective software process model for 
 ### 6. Budget:
 The development of the student accommodation system in Kolej Tun Dr Ismail (KTDI) for around 2,000 users within a semester will involve various costs, including hardware, software, personnel, testing and contigency. The estimated expenditure for this project is RM 1,560,000, as stated in the following manner: 
  
-Hardware: RM 500,000
+- Hardware: RM 500,000<br>
 The cost of procuring and maintaining the required hardware infrastructure, including servers, networking equipments, storage devices, workstations and peripheral devices will be covered by the hardware budget. The hardware expenses will be varied based on the latest requirements and specifications of the project.
  
-Software: RM 150,000
+- Software: RM 150,000<br>
 The software budget will include the cost of development tools and resources, such as Integrated Development Environments (IDEs) for programming, system or software licenses and also development frameworks.
  
-Personnel: RM 800,000
+- Personnel: RM 800,000<br>
 The development team's pay and benefits, including for those of the project manager, UI/UX system designer, requirements analyst, developers, documentation specialist, IT support, quality assurance analyst and testers will be covered by the personnel budget. Each role will be arranged based on group members’ education experiences, abilities and skills in software development. The testers will be chosen from the system’s users to improve the user experiences.
  
-Testing: RM 10,000
+- Testing: RM 10,000<br>
 Functional, performance, and security testing expenses will be paid for by the testing budget. Included in this are the prices for testing services, software, and online website evaluation tools.
  
-Contingency plans: RM 100,000
+- Contingency plans: RM 100,000<br>
 The contingency budget will cover any unforeseen costs that might occur while the project is being developed. This covers unanticipated issues with the hardware or software, modifications to the project's scope, and delays in the development process. 
  
 In shorts, the expected budget for the development of the student accommodation system in KTDI is RM 1,560,000. The budget will cover all expenses related to staff, testing, hardware, software, and contingency. Stakeholders and project sponsors will be informed of any budget changes later.
