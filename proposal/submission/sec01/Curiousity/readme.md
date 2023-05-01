@@ -142,10 +142,6 @@ Note: All costs mentioned above are estimates and are subject to change based on
 - Explain the data security measures that will be implemented.
 
 ### 11. Timeline and Deliverables: 
-- Provide a detailed timeline for the project, including milestones and deadlines.
-- Specify the deliverables that will be provided at each milestone. It should also specify the expected time frame for each deliverable and the resources that will be required to complete the project.
-- Explain the quality assurance and testing procedures that will be followed.
-
 
     <table style="border-collapse: collapse;">
       <thead>
@@ -205,10 +201,6 @@ Quality Assurance and Testing Procedures
 - Bug Fixing: Any issues or bugs found during testing will be addressed by the development team and retested before being deployed.
 
 ### 12. Conclusion:
-- Conclude your proposal with a call to action, highlighting the benefits of your proposed solution and urging the decision-makers to take action.
-- Summarize the proposal and reiterate the importance of the project.
-- Mention any potential limitations or challenges that may arise during the project.
-- Provide a call to action for the client to approve the proposal and proceed with the project.
 
 The proposed system aims to improve the usability and effectiveness of the previous system by addressing the issue of low participation rates in co-curricular activities in universities while also enhancing the effectiveness of promoting events to students.
 
