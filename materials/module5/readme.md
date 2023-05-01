@@ -135,7 +135,7 @@ RS -> BS : Requests billing data
 @enduml
 ```
 <p align="center">
-<img src="context.png"  height="150" />
+<img src="context.png"  width="300" />
 </p>
 
 In this PUML code, we have actors representing the different user roles that interact with the system (student, faculty, staff), as well as the different systems that the registration system interfaces with (student information system, course catalog, and billing system). The registration system itself is represented as a rectangle.
