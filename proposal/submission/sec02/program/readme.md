@@ -5,10 +5,10 @@
 
 ### Prepared by: Group Software
   1. Name and matrix no
-  2. Koh Su Xuan A22EC0060
-  3. Ong Yi Yan A22EC0101
-  4. Tang Yan Qing A22EC0109
-  5. Goh Jiale A22EA0043
+  2. Wan Nur Sofea Binti Mohd Hasbullah A22EC0115
+  3. Maisarah Binti Rizal
+  4. Nur Arini Fatihah Binti Mohd Sabir
+  5. Mulyani Binti Saripuddin
 
 ### Table of Contents
 - [Table of Contents](#table-of-contents)
