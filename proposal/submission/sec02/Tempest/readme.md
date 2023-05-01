@@ -7,9 +7,9 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Proposal : Baddal Hajj and Umrah Management System
+# Proposal : Badal Hajj and Umrah Management System
 
-## Baddal Hajj and Umrah Management System
+## Badal Hajj and Umrah Management System
 
 ### Group Tempest :
 1.Muhammad Anas Bin Mohd Pikri (A21SC0464)
