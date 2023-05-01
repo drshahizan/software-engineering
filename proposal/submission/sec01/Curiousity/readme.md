@@ -64,6 +64,16 @@ To complete the aforementioned goals within the upcoming two months and keep tra
 
 ### 4. Scope: 
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Curiousity/Project%20Scope.png?raw=true" alt="Scope"></img>
+- (i) Event planning and organisation: Tools for creating and managing event schedules, defining event objectives, identifying target audiences, and determining event locations will be provided in the system.
+- (ii) Event registration: Tools for creating and managing event registration and ticketing processes, collecting payments, and generating attendee lists will be provided in the system.
+- (iii) Onsite management: Tools for coordinating with organisers, monitoring event progress, and handling emergencies will be provided in the system.
+- (iv) Analytics and reporting: Tools for tracking and analysing event data, generating reports, and identifying areas for improvement will be provided in the system.
+- (vi) Attendee Engagement: Tools for facilitating attendee engagement, such as surveys, and feedback forms will be provided in the system.
+- (vii) Customization and branding: The system should allow for customization and branding options to match the branding of the organisation or event.
+- (viii) Website design : HTML and CSS will be used to build and design the framework of the website.
+- (ix) Website testing : The website will be tested multiple times to detect any issues before implementing it.
+- (x) Project monitoring and documentation : The project will continuously be monitored and documented to keep track of the progress of the project and to optimise the website performance.
+
 
 ### 5. Software Process Model:
 A software process model's main objective is to offer a framework for the systematic and organised development of software. It offers a collection of tasks, products, and deadlines to make sure the software is created quickly and effectively. A software process model's main objective is to make sure that the software is high-quality, delivered on time, and within budget while also meeting the requirements of the stakeholders.
