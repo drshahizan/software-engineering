@@ -14,7 +14,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Use Case Diagram](p2-use-case.md)
 - [Requirements Document](p3-soft-requirement.md)
 
-# Part 2: 
+# Part 2: Use Case Diagram
 
 ## Interaction Model
 
