@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: auto 1fr 1fr 1fr;
-    grid-gap: 20px;
+    grid-gap: 15px;
     height: 100vh;
   }
   
@@ -45,15 +45,15 @@
   .m1main {
     grid-column: 1 / 2;
     background-color: #b76c6c;
-    padding: 50px;
+    padding: 80px;
     border: black solid;
-    width: fit-content;
+    width: 300px;
   }
   
   .m1sidebar {
     grid-column: 4 / 2;
     background-color: #6791d1;
-    padding: 50px;
+    padding: 10px;
     border: black solid;
   }
   
@@ -63,7 +63,7 @@
     color: #ffffff;
     padding: 50px;
     border: black solid;
-    height: 60px;
+    height: 40px;
   }
   
   .m2red{
