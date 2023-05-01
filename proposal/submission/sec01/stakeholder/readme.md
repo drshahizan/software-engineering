@@ -208,14 +208,14 @@ In general, it's crucial to recognise and reduce these risks if we want the KTDI
 
 ### 9. Resources:
 I. Staff Resources:
-- Project Manager: Responsible for overall management, planning, and coordination of the project.
-- Main Developer: Responsible for leading the software development process, designing the software architecture, and overseeing the work of the developer assistant.
-- UI/UX System Designer: Responsible for designing user interfaces and user experience for the application.
-- Developer Assistant: Responsible for assisting the main developer in software development tasks such as coding, testing, and deployment.
-- Requirements Analyst: Responsible for analyzing the project requirements and documenting the functional and non-functional requirements of the software application.
-- Documentation Specialist: Responsible for creating user manuals, technical documentation, and other project-related documents.
-- IT Support: Responsible for providing technical support to the development team, troubleshooting issues, and maintaining the development environment.
-- Quality Assurance Analyst: Responsible for ensuring the quality of the software application by conducting tests, identifying bugs, and suggesting improvements.
+- Project Manager: Dr Mohd Shahizan Othman<br>Responsible for overall management, planning, and coordination of the project.
+- Main Developer: Joseph Lau Yeo Kai<br>Responsible for leading the software development process, designing the software architecture, and overseeing the work of the developer assistant.
+- UI/UX System Designer: Neo Zheng Weng<br>Responsible for designing user interfaces and user experience for the application.
+- Developer Assistant: <br>Responsible for assisting the main developer in software development tasks such as coding, testing, and deployment.
+- Requirements Analyst: Wong Khai Shian Nicholas<br>Responsible for analyzing the project requirements and documenting the functional and non-functional requirements of the software application.
+- Documentation Specialist: Muhammad Danial<br>Responsible for creating user manuals, technical documentation, and other project-related documents.
+- IT Support: Joseph Lau Yeo Kai<br>Responsible for providing technical support to the development team, troubleshooting issues, and maintaining the development environment.
+- Quality Assurance Analyst: Low Jie Sheng<br>Responsible for ensuring the quality of the software application by conducting tests, identifying bugs, and suggesting improvements.
   
 II. Equipment Resources:
 - Laptops and desktop computers for the development team
