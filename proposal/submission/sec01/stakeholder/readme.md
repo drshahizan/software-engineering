@@ -196,6 +196,37 @@ The proposed student accommodation system will follow a three-tier architecture,
   - Bootstrap as the framework used for web application creation.
   - R studio as the data representation tool.
   - 
+## System Architecture Diagram:
+The proposed system architecture can be visualized using the following flowchart:
+  
+USER INTERFACE
+  |
+  V
+APPLICATION SERVER (Node.js/Express)
+  |
+  V
+DATABASE SERVER (MySQL)
+  
+High-level diagram that represents our proposed system architecture:
+  +----------------------------------------------------+
+|                 Relational Database                |
++----------------------------------------------------+
+|               MySQL or PostgreSQL                  |
++----------------------------------------------------+
+                  ^                 ^
+                  |                 |
+                  |                 |
+       +------------------+ +------------------+
+       |    Web Platform  | |  Server-side API |
+       |     (ReactJS)    | |    (Node.js)     |
+       +------------------+ +------------------+
+                  ^                 ^
+                  |                 |
+                  |                 |
++----------------------------------------------------+
+|                User-Facing Interfaces              |
+|                (Mobile & Web Applications)         |
++----------------------------------------------------+
   
   
 ---
