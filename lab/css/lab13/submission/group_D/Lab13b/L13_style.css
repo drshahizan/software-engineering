@@ -18,7 +18,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: auto 1fr 1fr 1fr;
-    grid-gap: 20px;
+    grid-gap: 15px;
     height: 100vh;
   }
   
@@ -88,17 +88,24 @@
   .m3green{
     background-color: green;
     grid-column: 1 / span 3;
-    padding: 20px;
+    padding: 30px;
     border: black solid 5px;
   }
 
-  .m3image{
+  .m3image{ 
     grid-row: 3;
     background-image: url(https://i.ibb.co/kQm2ppX/PK-Carsport-GT2-Audis.jpg)
+    
   }
   
+  .m3red{
+    background-color: red;
+    padding: 30px;
+    border: black solid 5px;
+  }
+
   .m3blue{
     background-color: rgb(66, 187, 227);
-    padding: 20px;
+    padding: 30px;
     border: black solid 5px;
   }
