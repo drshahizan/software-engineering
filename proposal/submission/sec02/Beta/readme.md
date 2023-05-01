@@ -15,7 +15,7 @@ Don't forget to hit the :star: if you like this repo.
 ### Prepared by: <stakeholder>
   1. MUHAMMAD DANIEL HAKIM BIN SYAHRULNIZAM (A22EC0207)
   2. MUHAMMAD ARIFF DANISH BIN HASHNAN (A22EC0204)
-  3. MUHAMMAD IMAN FIRDAUS BIN BAHARUDDIN ( )
+  3. MUHAMMAD IMAN FIRDAUS BIN BAHARUDDIN (A22EC0216 )
   4. MUHAMMAD SAFWAN BIN MOHD AZMI ( )
   5. CHE MARHUMI BIN CHE AB RAHIM ( )
 
@@ -34,6 +34,13 @@ Don't forget to hit the :star: if you like this repo.
 - [Conclusion](#12-conclusion)
   
 ## 1. Executive Summary
+  The food industry is one of the most promising sectors, with the ever-increasing demand for online food ordering systems. The food ordering system provides a convenient and efficient way for customers to order food from their preferred restaurants with minimal effort. This system also benefits restaurant owners as they can manage their orders and track their sales efficiently.
+
+Our food ordering system is a user-friendly, scalable, and secure solution that allows customers to order food online and pay through various payment methods. Our system also includes a user-friendly dashboard for restaurant owners to manage their menu, inventory, and order fulfillment process efficiently.
+
+Our system utilizes the technologies to ensure reliability, security, and performance. It supports multiple platforms and devices, making it accessible to a wider audience. We have also implemented a robust feedback system that allows customers to provide feedback on their orders, helping us improve our service continuously.
+
+Overall, our food ordering system provides an efficient and reliable solution for customers to order food online and for restaurant owners to manage their business operations effectively
 
 ## 2. Background:
 
