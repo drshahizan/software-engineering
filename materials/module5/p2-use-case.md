@@ -19,7 +19,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # Part 2: 
 
-##Interaction Model
+## Interaction Model
 
 An interaction model is a type of Use Case diagram in software engineering that shows how different actors or users interact with the system to achieve certain goals or objectives. In the context of the university academic course registration system, the interaction model would depict the various steps involved in the registration process from the perspective of the different user roles, such as students, faculty, and staff.
 
