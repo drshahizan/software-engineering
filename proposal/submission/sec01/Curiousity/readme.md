@@ -32,10 +32,10 @@ Don't forget to hit the :star: if you like this repo.
 - [Conclusion](#12-conclusion)
 
   
-### 1. Executive Summary
+### 1. Executive Summary📝:
 Our proposed UTM Event Management System is a comprehensive solution aimed at simplifying and streamlining the processes of event management for organisers, attendees, and administrators. To achieve this, we're using cutting-edge technology and industry best practises to create a seamless user experience that makes it simple for event planners to plan and carry out successful events and for attendees to find, register for, and participate in events. The key features of our system include real-time event scheduling, registration, various types of activities and merit, and feedback capabilities. These features enable event planners and administrators to optimise event preparation, track performance, and make data-driven decisions. A user-friendly interface and  integration with various social media sites would also be helpful to attendees. Ultimately, our UTM Event Management System will provide measurable value to all stakeholders, resulting in increased event participation, better engagement and satisfaction, and a stronger institutional reputation. By investing in our system, UTM will be at the forefront of event management technology and innovation.
 
-### 2. Background:
+### 2. Background📄:
 Events are an essential part of the University of Technology, Malaysia (UTM) experience. However, the current manual process of managing events is time-consuming, prone to errors, and lacks the ability to provide real-time information about event performance. These difficulties have had a detrimental effect on participants' overall experiences, leading to poor event organisation and low participation rates.
 
 The proposed UTM Event Management System aims to address these challenges by introducing an innovative, intuitive, and automated system that streamlines the event management process. The proposed system leverages the latest technologies and industry best practices to deliver a seamless user experience for organisers, attendees, and administrators. Real-time event scheduling, registration, different sorts of activities and credits, and feedback capabilities are among the system's key features, which give organisers and administrators the ability to optimise event planning, monitor performance, and make informed data-driven decisions.
@@ -44,7 +44,7 @@ All stakeholders, including organisers, attendees, and administrators, stand to 
 
 In summary, the UTM Event Management System proposal seeks to address the challenges associated with the current manual event management process by introducing a modern, automated, and user-friendly solution that provides measurable benefits and enhances the overall experience of all stakeholders. The proposed system has the potential to transform event management at UTM, improve event outcomes, and enhance UTM's reputation as a leading institution of higher learning.
 
-### 3. Objectives:
+### 3. Objectives📖:
 #### Specific: 
 To provide a user-friendly system for students to explore, sign up for, and provide feedback on campus events, including club activities and official university events.
 
@@ -73,7 +73,7 @@ To complete the aforementioned goals within the upcoming two months and keep tra
 - (x) <b>Project monitoring and documentation :</b> The project will continuously be monitored and documented to keep track of the progress of the project and to optimise the website performance.
 
 
-### 5. Software Process Model:
+### 5. Software Process Model🛠️:
 A software process model's main objective is to offer a framework for the systematic and organised development of software. It offers a collection of tasks, products, and deadlines to make sure the software is created quickly and effectively. A software process model's main objective is to make sure that the software is high-quality, delivered on time, and within budget while also meeting the requirements of the stakeholders.
 
 The <b>Agile software development process model</b> is the ideal software process model for this campus event management system development. The Agile process model is an adaptable and iterative method of developing software that places a focus on teamwork, client satisfaction, and the quick delivery of functional software. This process model emphasises delivering value to the customer at each iteration and is appropriate for projects with varying requirements and uncertainties.
@@ -187,7 +187,7 @@ We can use Agile project management practices such as Scrum to manage the projec
 The quality assurance analyst along with the team members will ensure that the system meets the quality standards by performing various testing activities and creating test reports. The main developer and developer assistant will also perform unit testing and code reviews to ensure the quality of the code.
 
 
-### 6. Budget:
+### 6. Budget💰:
 The development of the academic course registration system for 30,000 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at **RM 900,000**, as outlined below:
 
 - **Hardware Costs: RM 400,000** <br>
@@ -211,7 +211,7 @@ It is always recommended to have a contingency plan for unexpected expenses that
 In conclusion, the estimated budget for the development of the UTM Event Management System is RM 900,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingency. Any changes in the budget will be communicated to stakeholders and project sponsors.
 
 
-### 7. System Architecture:
+### 7. System Architecture🖥️:
 
 The proposed system architecture for the event management system will be a web-based system built using modern technologies and frameworks. The system will use the following tools and technologies:
 
@@ -233,7 +233,7 @@ To improve the load time of the page, we can implement caching techniques such a
 The block diagram for the proposed system architecture is as follows:
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Curiousity/system%20architecture.png" alt="SystemArchitecture"></img>
 
-### 8. Risks Assessment:
+### 8. Risks Assessment⚠️:
 - The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
 - It also describe the plans and strategies to mitigate those risks.
 
@@ -253,7 +253,7 @@ The possibility exists that the system could be exposed to security flaws like h
 Due to lack of awareness or competing options, there is potential that the system will not be widely used by students and other users. The user experience designer team will carry out extensive user research and design the system to be accessible and user-friendly in order to reduce this risk. To increase awareness and promote adoption, the team will also employ focused marketing and promotional strategies.
 
 
-### 9. Resources:
+### 9. Resources📍:
 To successfully deliver the academic course registration system, the following resources are required:
 
 **Staff**
@@ -290,7 +290,7 @@ Total Other Expenses: RM 296,000
 
 Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
 
-### 10. Technical Specifications:
+### 10. Technical Specifications🌐:
 <table>
   <tr>
     <th align= "left">Data sources</th>
@@ -367,7 +367,7 @@ Note: All costs mentioned above are estimates and are subject to change based on
   </tr>
 </table>
 
-### 11. Timeline and Deliverables: 
+### 11. Timeline and Deliverables📅: 
 -Below is the timeline and deliverables of the project:
     <table style="border-collapse: collapse;">
       <thead>
@@ -426,7 +426,7 @@ Quality Assurance and Testing Procedures
 - User Acceptance Testing: End users will perform testing on the system to ensure that it meets their requirements and expectations.
 - Bug Fixing: Any issues or bugs found during testing will be addressed by the development team and retested before being deployed.
 
-### 12. Conclusion:
+### 12. Conclusion✏️:
 
 The proposed system aims to improve the usability and effectiveness of the previous system by addressing the issue of low participation rates in co-curricular activities in universities while also enhancing the effectiveness of promoting events to students.
 
