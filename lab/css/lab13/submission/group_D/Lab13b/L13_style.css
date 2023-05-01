@@ -10,7 +10,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: auto 1fr 4fr;
-    grid-gap: 20px;
+    grid-gap: 15px;
     height: 100vh;
   }
   
@@ -25,7 +25,7 @@
   h1{
     font-family: 'Courier New', Courier, monospace;
   }
-  
+
   .header1 {
     grid-column: 1 / 4;
     background-color: #333333;
@@ -33,14 +33,6 @@
     padding: 20px;
   }
   
-  .header2 {
-    grid-column: 1 / span 3;
-    background-color: #62349a;
-    color: #ffffff;
-    padding: 20px;
-    border-color: black;
-    border-style: solid;
-  }
   
   .m1main {
     grid-column: 1 / 2;
@@ -65,7 +57,16 @@
     border: black solid;
     height: 40px;
   }
-  
+
+  .header2 {
+    grid-column: 1 / span 3;
+    background-color: plum;
+    color: #ffffff;
+    padding: 20px;
+    border-color: black;
+    border-style: solid;
+  }
+
   .m2red{
     background-color: lightcoral;
     padding: 20px;
