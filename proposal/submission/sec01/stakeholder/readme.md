@@ -189,7 +189,14 @@ In general, it's crucial to recognise and reduce these risks if we want the KTDI
 
 ### 9. Resources:
 I. Staff Resources:
-<ul>Project Manager: responsible for overall management, planning, and coordination of the project.</ul>
+- Project Manager: responsible for overall management, planning, and coordination of the project.
+- Main Developer: responsible for leading the software development process, designing the software architecture, and overseeing the work of the developer assistant.
+- UI/UX System Designer: responsible for designing user interfaces and user experience for the application.
+- Developer Assistant: responsible for assisting the main developer in software development tasks such as coding, testing, and deployment.
+- Requirements Analyst: responsible for analyzing the project requirements and documenting the functional and non-functional requirements of the software application.
+- Documentation Specialist: responsible for creating user manuals, technical documentation, and other project-related documents.
+- IT Support: responsible for providing technical support to the development team, troubleshooting issues, and maintaining the development environment.
+- Quality Assurance Analyst: responsible for ensuring the quality of the software application by conducting tests, identifying bugs, and suggesting improvements.
 
 ### 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
