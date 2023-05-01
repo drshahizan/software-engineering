@@ -19,7 +19,6 @@ Don't forget to hit the :star: if you like this repo.
   4. Nadhrah NurSabrina Binti Zulaini A22EC0224
 
 ### Table of Contents
-- [Table of Contents](#table-of-contents)
 - [Executive Summary](#1-executive-summary)
 - [Background](#2-background)
 - [Objectives](#3-objectives)
