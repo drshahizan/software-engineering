@@ -191,10 +191,11 @@ The development of an food ordering system carries certain risks that must be id
 
 3. Changes in Project Requirements: Changes in project requirements can occur due to external factors such as regulatory changes, user feedback, or market demands. These changes can impact the project timeline, budget, and quality of the final product.
 
-4.Security risks: The security of the food ordering system is critical because customers will be sharing their personal and financial information with the system. Hackers and cybercriminals may try to steal this information, which can lead to identity theft and financial losses for customers. A security breach can also damage the reputation of the business and result in legal liabilities.
+4. Security risks: The security of the food ordering system is critical because customers will be sharing their personal and financial information with the system. Hackers and cybercriminals may try to steal this information, which can lead to identity theft and financial losses for customers. A security breach can also damage the reputation of the business and result in legal liabilities.
 
 5. Team turnover: Losing key team members during the development process can result in delays and loss of institutional knowledge. 
-To eliminate these risks, the following method will be used:
+
+  To eliminate these risks, the following method will be used:
 
 1. Technical risks: Mitigation options for this risk include conducting thorough testing, implementing backup and recovery systems, and using experienced developers who can identify and fix technical issues.
 
