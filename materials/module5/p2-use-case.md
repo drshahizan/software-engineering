@@ -340,7 +340,7 @@ package University {
 @enduml
 ```
 <p align="center">
-<img src="pd-s.png"  width="500" />
+<img src="pd-s.png"  width="600" />
 </p>
 
 
