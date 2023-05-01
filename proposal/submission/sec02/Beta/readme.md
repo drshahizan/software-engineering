@@ -151,17 +151,17 @@ Case Diagram of Food Ordering System at UTM:
 
 The Customer actor can perform the following use cases:
 
-- Register/Login: This use case allows the Customer to register or login to their account.
-- Browse menu: This use case allows the Customer to browse the available menu items.
-- Place order: This use case allows the Customer to place an order.
-- Modify order: This use case allows the Customer to modify an order they have already placed.
-- Cancel order: This use case allows the Customer to cancel an order they have already placed.
-- View order status: This use case allows the Customer to view the status of an order they have placed.
+- **Register/Login:** This use case allows the Customer to register or login to their account.
+- **Browse menu:** This use case allows the Customer to browse the available menu items.
+- **Place order:** This use case allows the Customer to place an order.
+- **Modify order:** This use case allows the Customer to modify an order they have already placed.
+- **Cancel order:** This use case allows the Customer to cancel an order they have already placed.
+- **View order status:** This use case allows the Customer to view the status of an order they have placed.
 
 The Admin actor can perform the following use cases:
 
-- Manage menu: This use case allows the Admin to add, remove, or modify menu items.
-- Manage orders: This use case allows the Admin to view and manage the orders that have been placed by the customers.
+- **Manage menu:** This use case allows the Admin to add, remove, or modify menu items.
+- **Manage orders:** This use case allows the Admin to view and manage the orders that have been placed by the customers.
 
 ### Client side: 
 This component represents the user interface that customers will interact with. It could be a mobile application or a web application. The client side will provide the customer with options to browse the menu, place an order, view order history, and perform other related activities.
