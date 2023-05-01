@@ -51,7 +51,7 @@ This section describe the ideal software process model for this system developme
 - It should also describe the testing methodologies, project management practices, and quality assurance processes.
 
 ### 6. Budget:
-The development of the academic course registration system for 30,000 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at RM 1,300,000, as outlined below:
+The development of the academic course registration system for 30,000 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at **RM 1,300,000**, as outlined below:
 
 - **Hardware Costs: RM 400,000** <br>
 This includes the cost of servers, storage, networking equipment, and other hardware required to support the system. This cost will vary depending on the specific hardware configuration chosen, but it is essential to ensure that the system can handle the expected number of users and data volume.
@@ -91,21 +91,21 @@ To successfully deliver the academic course registration system, the following r
 - 1 Requirement Analyst & Developer Assistant: RM60,000/year
 - 1 User Experience Designer & Developer Assistant: RM60,000/year
 - 1 Main Developer & Quality Assurance Analyst: RM60,000/year
-- 1 Documentation Specialist & Developer Assistant: RM60,000/year
+- 1 Documentation Specialist & Developer Assistant: RM60,000/year <br>
 Total Staff Cost: RM 324,000/year
 
 **Equipment:**
 - Servers: RM 200,000
 - Workstations and Laptops: RM 100,000
 - Networking and Cabling: RM 50,000
-- Security and Backup: RM 50,000
+- Security and Backup: RM 50,000 <br>
 Total Equipment Cost: RM 400,000
 
 **Software:**
 - Relational Database Management System (RDBMS): RM 50,000
 - Web Server: RM 20,000
 - Mobile Application Development Framework: RM 30,000
-- Data Analytics Tools: RM 50,000
+- Data Analytics Tools: RM 50,000 <br>
 Total Software Cost: RM 150,000
 
 **Other Expenses:**
@@ -113,7 +113,7 @@ Total Software Cost: RM 150,000
 - Utilities: RM 30,000/year
 - Marketing and Advertising: RM 100,000
 - Testing: RM 76,000
-- Contingency: RM 100,000
+- Contingency: RM 100,000 <br>
 Total Other Expenses: RM 426,000
 
 **Total Resources Cost: RM 1,300,000**
