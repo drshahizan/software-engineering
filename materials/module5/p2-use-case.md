@@ -119,6 +119,9 @@ rectangle System {
 }
 @enduml
 ```
+<p align="center">
+<img src="ucasem.png"  width="600" />
+</p>
 
 This code defines three actors: Student, Faculty, and Staff, and a rectangle representing the System with six use cases, including "Browse Course Catalog," "Select Courses," and "Add to Schedule." Arrows connect the actors to the relevant use cases, illustrating the interactions between them. The "Approve Course Selections" use case is renamed to "Approve" using the "as" keyword, and the "Manage Course Offerings" use case is similarly renamed to "Manage."
 
