@@ -43,7 +43,7 @@ Don't forget to hit the :star: if you like this repo.
 
 
 
-### 4. Scope: 
+## 4. Scope: 
 
 ## 5. Software Process Model:
 
@@ -93,10 +93,10 @@ Total Estimated Cost: RM
 ## 10. Technical Specifications:
 
 
-### 11. Timeline and Deliverables: 
+## 11. Timeline and Deliverables: 
 
 
-### 12. Conclusion:
+## 12. Conclusion:
 
 
 ## Contribution 🛠️
