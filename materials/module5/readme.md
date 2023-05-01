@@ -81,18 +81,65 @@ An existing system model of the university academic course registration system w
 A planned system model of the university academic course registration system would document the requirements and design decisions for a new registration system. This model would include information on the user requirements, system architecture, data models, and interface design. For example, the planned system model might include information on how the new system will handle course prerequisites, how it will prevent conflicts, how it will integrate with the university's student information system, and how it will provide feedback to students during the registration process.
 
 Overall, system modeling is a critical aspect of software engineering, and both existing and planned system models are essential for developing effective software systems. In the case of a university academic course registration system, these models can help ensure that the new system meets the needs of students, faculty, and staff, and that it is easy to use and maintain over time.
-| No | Part | Description |
-| --- | --- | --- |
-| 1 | [Requirements Engineering Introduction](p1-intro.md) | Introduction to the process of requirements engineering and its importance in software development. Discusses different stakeholders involved in the process and their roles and responsibilities. |
-| 2 | [Functional Requirements](p2-functional.md) | Focuses on the functional requirements of an academic course registration system, including capabilities and behavior. |
-| 3 | [Requirements Specification](p3-soft-requirement.md) | Guidelines for creating an IEEE Software Requirements Document (SRD) for the academic course registration system, including structure and types of requirements to include. |
-| 4 | [Form Based Specifications](p4-form.md) | Focuses on the use of form-based methods to capture software requirements for the academic course registration system. Discusses benefits of using forms and best practices for designing effective forms. |
-| 5 | [Advance Requirements Engineering](p5-req-eng.md) | Delves into advanced techniques for requirements engineering, such as requirements traceability, validation, and management. Emphasizes importance of these techniques in ensuring complete, consistent, and verifiable software requirements. |
-| 6 | [An interview with a stakeholder](p6-interview.md)  | Provides a real-world scenario of conducting an interview with a stakeholder to elicit requirements for the academic course registration system. Emphasizes importance of effective communication and stakeholder engagement in requirements engineering. | 
 
-This table summarizes the different parts of the module and their respective descriptions. It provides an overview of the topics covered in the module, from the introduction to the advanced techniques, and emphasizes the practical aspects of requirements engineering, such as conducting stakeholder interviews and creating an SRD.
+## System Perspectives
+System perspectives in software engineering refer to different ways of looking at a software system. Each perspective focuses on a particular aspect of the system and provides a unique viewpoint for understanding the system. The university academic course registration system can be modeled using different perspectives to gain a better understanding of how the system works and how it interacts with its environment.
 
-Overall, the module aims to provide students with a comprehensive understanding of the requirements engineering process and the skills necessary to create an effective SRD for an academic course registration system. The module emphasizes the practical aspects of requirements engineering and provides students with real-world scenarios to enhance their learning.
+1. External Perspective: This perspective models the context or environment of the system. It focuses on the system's relationship with external entities such as users, other systems, and the physical environment. For the university academic course registration system, the external perspective would consider the external entities that interact with the system, such as students, faculty, and staff, and how the system interfaces with other systems such as the student information system and the course catalog.
+
+2. Interaction Perspective: This perspective models the interactions between a system and its environment or between the components of a system. It focuses on the messages or signals exchanged between the system and its environment or components. For the university academic course registration system, the interaction perspective would consider how users interact with the system and how the system responds to user requests.
+
+3. Structural Perspective: This perspective models the organization of a system or the structure of the data that is processed by the system. It focuses on the components of the system, their relationships, and how they are organized. For the university academic course registration system, the structural perspective would consider the different components of the system, such as the user interface, the database, and the business logic, and how they are organized.
+
+4. Behavioral Perspective: This perspective models the dynamic behavior of the system and how it responds to events. It focuses on the processes or algorithms that are used by the system to respond to events or input. For the university academic course registration system, the behavioral perspective would consider how the system handles different scenarios, such as course conflicts or registration errors, and how it responds to user input.
+
+By modeling the university academic course registration system from these different perspectives, software engineers can gain a better understanding of how the system works and how it interacts with its environment. This can help to identify areas for improvement and ensure that the system meets the needs of its stakeholders.
+
+## Context Model
+Context models in software engineering are used to depict the operational context of a system. They provide a high-level overview of the system's environment and its relationships with external entities. The context model for the university academic course registration system would help to illustrate what lies outside the system boundaries and how the system interacts with its environment.
+
+The context model for the university academic course registration system might include the following elements:
+
+1. Users: The users of the registration system, including students, faculty, and staff, would be depicted in the context model. The model would show how they interact with the system and what information they need to provide to the system.
+
+2. Other systems: The context model would also show any other systems that the registration system interfaces with, such as the student information system, the course catalog, or the billing system. The model would illustrate how data is exchanged between these systems and the registration system.
+
+3. Physical environment: The context model would also show the physical environment in which the registration system operates. This might include the computer hardware, network infrastructure, and any other physical resources that are required to operate the system.
+
+4. Policies and regulations: The context model would also consider any policies or regulations that govern the use of the registration system. This might include policies around course availability, registration deadlines, and student privacy.
+
+By creating a context model for the university academic course registration system, software engineers can gain a better understanding of the system's environment and its interactions with external entities. This can help to identify potential issues and ensure that the system meets the needs of its stakeholders. The context model can also be used as a communication tool to help stakeholders understand the system's environment and how it operates.
+
+A context model for the university academic course registration system, represented using PlantUML (PUML) code:
+
+```puml
+@startuml
+left to right direction
+
+actor "Student" as S
+actor "Faculty" as F
+actor "Staff" as St
+database "Student Information System" as SIS
+database "Course Catalog" as CC
+database "Billing System" as BS
+rectangle "Registration System" as RS {
+}
+
+S -> RS : Registers for courses
+F -> RS : Views course rosters
+St -> RS : Manages course offerings
+RS -> SIS : Requests student data
+RS -> CC : Requests course data
+RS -> BS : Requests billing data
+
+@enduml
+```
+
+In this PUML code, we have actors representing the different user roles that interact with the system (student, faculty, staff), as well as the different systems that the registration system interfaces with (student information system, course catalog, and billing system). The registration system itself is represented as a rectangle.
+
+The arrows represent the interactions between the different elements of the context model. For example, students register for courses by interacting with the registration system, while the registration system requests data from the student information system, course catalog, and billing system. Faculty members view course rosters, and staff members manage course offerings.
+
+By representing the context model using PUML code, software engineers can easily share and communicate the model with other stakeholders. This can help to ensure that everyone involved in the project has a common understanding of the system's environment and its interactions with external entities.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
