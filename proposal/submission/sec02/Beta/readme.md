@@ -17,7 +17,7 @@ Don't forget to hit the :star: if you like this repo.
   2. MUHAMMAD ARIFF DANISH BIN HASHNAN (A22EC0204)
   3. MUHAMMAD IMAN FIRDAUS BIN BAHARUDDIN (A22EC0216 )
   4. MUHAMMAD SAFWAN BIN MOHD AZMI (A22EC0221)
-  5. CHE MARHUMI BIN CHE AB RAHIM ( )
+  5. CHE MARHUMI BIN CHE AB RAHIM (A22EC0147)
 
 ### Table of Contents
 - [Executive Summary](#1-executive-summary)
