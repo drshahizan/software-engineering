@@ -143,6 +143,196 @@ These are stereotypes used in package diagrams to group related elements togethe
 
     > For example, in the university academic course registration system, we can use `<<package>>` to group related classes together, such as the "Student" and "Course" classes, and use `<<subsystem>>` to group related packages together, such as the "Registration" package and the "Course Catalog" package.
 
+Here's an example of PlantUML code that uses stereotypes to model the university academic course registration system:
+
+Use Case Diagram:
+
+```
+@startuml
+actor Student
+actor Faculty
+actor Staff
+
+rectangle System {
+  usecase "Browse Course Catalog" as UC1
+  usecase "Select Courses" as UC2
+  usecase "Add to Schedule" as UC3
+  usecase "Pay Tuition" as UC4
+  usecase "Approve Course Selections" as UC5 <<extend>>
+  usecase "Manage Course Offerings" as UC6 <<include>>
+  
+  Student --> UC1
+  Student --> UC2
+  Student --> UC3
+  Student --> UC4
+  Faculty --> UC5
+  Staff --> UC6
+}
+@enduml
+```
+
+Class Diagram:
+
+```
+@startuml
+package Registration {
+  class Student <<entity>> {
+    +name: string
+    +email: string
+    +password: string
+    +address: string
+    +courses: Course[]
+    +schedule: Schedule
+    +register(): boolean
+    +drop(): boolean
+    +payTuition(): boolean
+  }
+  
+  class Course <<entity>> {
+    +name: string
+    +code: string
+    +instructor: string
+    +location: string
+    +schedule: Schedule
+    +availability: int
+    +enroll(Student): boolean
+    +unenroll(Student): boolean
+  }
+  
+  class RegistrationController <<controller>> {
+    +searchCourse(name: string, code: string): Course[]
+    +enrollStudent(student: Student, course: Course): boolean
+    +unenrollStudent(student: Student, course: Course): boolean
+    +payTuition(student: Student): boolean
+  }
+  
+  class RegistrationUI <<boundary>> {
+    +displayCourseCatalog(): void
+    +selectCourses(): Course[]
+    +displaySchedule(schedule: Schedule): void
+    +displayAccountBalance(student: Student): void
+    +displayRegistrationConfirmation(): void
+  }
+  
+  class Schedule <<entity>> {
+    +courses: Course[]
+    +addCourse(course: Course): boolean
+    +removeCourse(course: Course): boolean
+  }
+  
+  Student --> RegistrationController
+  RegistrationController --> Course
+  RegistrationController --> RegistrationUI
+}
+@enduml
+```
+
+Package Diagram:
+
+```
+@startuml
+package University {
+  
+  package Registration {
+    class Student <<entity>> {
+      +name: string
+      +email: string
+      +password: string
+      +address: string
+      +courses: Course[]
+      +schedule: Schedule
+      +register(): boolean
+      +drop(): boolean
+      +payTuition(): boolean
+    }
+    
+    class Course <<entity>> {
+      +name: string
+      +code: string
+      +instructor: string
+      +location: string
+      +schedule: Schedule
+      +availability: int
+      +enroll(Student): boolean
+      +unenroll(Student): boolean
+    }
+    
+    class RegistrationController <<controller>> {
+      +searchCourse(name: string, code: string): Course[]
+      +enrollStudent(student: Student, course: Course): boolean
+      +unenrollStudent(student: Student, course: Course): boolean
+      +payTuition(student: Student): boolean
+    }
+    
+    class RegistrationUI <<boundary>> {
+      +displayCourseCatalog(): void
+      +selectCourses(): Course[]
+      +displaySchedule(schedule: Schedule): void
+      +displayAccountBalance(student: Student): void
+      +displayRegistrationConfirmation(): void
+    }
+    
+    class Schedule <<entity>> {
+      +courses: Course[]
+      +addCourse(course: Course): void
+      +removeCourse(course: Course): void
+    }
+    
+    RegistrationUI --> RegistrationController : <<use>>
+    RegistrationController --> Student : <<use>>
+    RegistrationController --> Course : <<use>>
+    Student --> Schedule : <<use>>
+    Course --> Schedule : <<use>>
+  }
+  
+  package Finance {
+    class PaymentGateway <<boundary>> {
+      +processPayment(amount: double, cardNumber: string, expiryDate: string, cvv: string): boolean
+    }
+    
+    class AccountingController <<controller>> {
+      +calculateBalance(student: Student): double
+      +updateBalance(student: Student, amount: double): boolean
+      +processPayment(amount: double, cardNumber: string, expiryDate: string, cvv: string): boolean
+    }
+    
+    PaymentGateway --> AccountingController : <<use>>
+    AccountingController --> Student : <<use>>
+  }
+  
+  package Administration {
+    class User <<entity>> {
+      +username: string
+      +password: string
+      +roles: string[]
+      +login(username: string, password: string): boolean
+      +logout(): boolean
+    }
+    
+    class AuthenticationController <<controller>> {
+      +login(username: string, password: string): boolean
+      +logout(): boolean
+    }
+    
+    class AdministrationUI <<boundary>> {
+      +displayLoginScreen(): void
+      +displayMainMenu(): void
+      +displayUsers(): void
+      +createUser(user: User): boolean
+      +updateUser(user: User): boolean
+      +deleteUser(user: User): boolean
+    }
+    
+    AuthenticationController --> User : <<use>>
+    AdministrationUI --> AuthenticationController : <<use>>
+  }
+  
+  Student --> User : <<inherit>>
+  
+}
+@enduml
+```
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
