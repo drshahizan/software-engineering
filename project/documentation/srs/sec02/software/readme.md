@@ -53,7 +53,7 @@ Don't forget to hit the :star: if you like this repo.
     <td></td>
   </tr>
     <tr>
-    <td>2. Puan </td>
+    <td>2. Puan Nazlin</td>
     <td>Administrator</td>
     <td></td>
     <td></td>
