@@ -67,11 +67,11 @@ This section describe the ideal software process model for this system developme
 - Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
 
   1. Staff:
-      + *Quality assurance specialist & Web Developer* <b>Bernice Lim Jing Xuan</b>
-      + *Business Analyst & User Interface Designer* <b>Chai Yu Tong</b>
-      + *Support Engineer & Data Analyst* <b>Kek Jesslyn</b>
+      + *Quality assurance specialist & Web Developer*          <b>Bernice Lim Jing Xuan</b>
+      + *Business Analyst & User Interface Designer*            <b>Chai Yu Tong</b>
+      + *Support Engineer & Data Analyst*                       <b>Kek Jesslyn</b>
       + *Security Specialist & Development Operations Engineer* <b>Wong Qiao Ying</b>
-      + *Technical Writer & User Experience Designer* <b>Yeoh Chong Yi</b>
+      + *Technical Writer & User Experience Designer*           <b>Yeoh Chong Yi</b>
   2. Equipment:
       + Computers and laptops for the project team
       + Servers and hosting services for the website
