@@ -41,7 +41,7 @@ To address these challenges, the proposed software system will provide an online
 
 The system will be designed to be user-friendly and accessible, with clear instructions and prompts throughout the process. It will also incorporate automated communication channels, such as email notifications, to keep students and staff updated on the status of their applications and requests.
 
-The expected outcomes of the project include improved student satisfaction, as the software system will provide a more convenient and streamlined process for managing accommodation. KTDI staff will also benefit from increased efficiency, as the system will reduce the need for manual data entry and administrative tasks. Finally, the system is expected to reduce errors and delays in the accommodation management process, resulting in a more reliable and efficient system overall.
+The expected outcomes of the project include improved student and also KTDI staffs satisfaction, as the software system will provide a more convenient and streamlined process for managing accommodation. KTDI staff will also benefit from increased efficiency, as the system will reduce the need for manual data entry and administrative tasks. Finally, the system is expected to reduce errors and delays in the accommodation management process, resulting in a more reliable and efficient system overall.
 
 ### 2. Background:
 The student accommodation system is an essential aspect of managing student life on a university campus. It automates the process of assigning student room and ensures that students are placed in suitable accommodations that meet their needs and preferences. The system is vital in providing a comfortable and safe living environment for students, promoting their academic success and overall well-being. However, the current unintegrated and unorganised system in KTDI can be time-consuming, prone to error and inconsistencies, leading to inefficiencies in the room application and management process and a poor user experience for both students and administrators.
@@ -120,7 +120,7 @@ By defining the scope of the project, the project team can establish the foundat
   
 The software process model's goal is to offer a structured and well-organized method for developing software. It aids in making certain that the software is delivered on schedule, within budget, and in accordance with the needs and expectations of the stakeholders.
   
-The ideal software process model to be implemented in this project is <b>Agile methodology<b>. This is because of the Agile methodology is an iterative and incremental software development approach that emphasizes flexibility, collaboration, and continuous customer feedback. Besides, the Agile methodology is well-suited for developing software applications where requirements can change frequently, and the development team needs to be able to respond to those changes quickly.
+The ideal software process model to be implemented in this project is <b>Agile methodology</b>. This is because of the Agile methodology is an iterative and incremental software development approach that emphasizes flexibility, collaboration, and continuous customer feedback. Besides, the Agile methodology is well-suited for developing software applications where requirements can change frequently, and the development team needs to be able to respond to those changes quickly.
 
 <p align="center"><img src="https://i0.wp.com/mobile-jon.com/wp-content/uploads/2021/04/Agile-Methodology.jpg?fit=1920%2C1080&ssl=1" width="700px" height="350px"></p>
 
@@ -146,10 +146,29 @@ To assure the quality and functionality of the system, many testing methodologi
 
 In conclusion, the Agile methodology is an effective software process model for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) because it emphasizes flexibility, collaboration, and continuous customer feedback. It allows the development team to respond quickly to changes in requirements and deliver high-quality software in shorter development cycles.
 
+---
+
 ### 6. Budget:
-The developemnt of student accommodation system in Kolej Tun Dr Ismail (KTDI) for 2000 users, including the residents (students, fellows, fellow assistants) and the staff and the adminstrators.
+The development of the student accommodation system in Kolej Tun Dr Ismail (KTDI) for around 2,000 users within a semester will involve various costs, including hardware, software, personnel, testing and contigency. The estimated expenditure for this project is RM 1,560,000, as stated in the following manner: 
+ 
+- Hardware: RM 500,000<br>
+The cost of procuring and maintaining the required hardware infrastructure, including servers, networking equipments, storage devices, workstations and peripheral devices will be covered by the hardware budget. The hardware expenses will be varied based on the latest requirements and specifications of the project.
+ 
+- Software: RM 150,000<br>
+The software budget will include the cost of development tools and resources, such as Integrated Development Environments (IDEs) for programming, system or software licenses and also development frameworks.
+ 
+- Personnel: RM 800,000<br>
+The development team's pay and benefits, including for those of the project manager, UI/UX system designer, requirements analyst, developers, documentation specialist, IT support, quality assurance analyst and testers will be covered by the personnel budget. Each role will be arranged based on group members’ education experiences, abilities and skills in software development. The testers will be chosen from the system’s users to improve the user experiences.
+ 
+- Testing: RM 10,000<br>
+Functional, performance, and security testing expenses will be paid for by the testing budget. Included in this are the prices for testing services, software, and online website evaluation tools.
+ 
+- Contingency plans: RM 100,000<br>
+The contingency budget will cover any unforeseen costs that might occur while the project is being developed. This covers unanticipated issues with the hardware or software, modifications to the project's scope, and delays in the development process. 
+ 
+In shorts, the expected budget for the development of the student accommodation system in KTDI is RM 1,560,000. The budget will cover all expenses related to staff, testing, hardware, software, and contingency. Stakeholders and project sponsors will be informed of any budget changes later.
 
-
+---
 
 ### 7. System Architecture:
 - Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
@@ -188,13 +207,66 @@ In general, it's crucial to recognise and reduce these risks if we want the KTDI
   
 
 ### 9. Resources:
-- Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
+I. Staff Resources:<br>
+- Project Manager: Dr Mohd Shahizan Othman<br>Responsible for overall management, planning, and coordination of the project.
+  
+- Main Developer: Joseph Lau Yeo Kai<br>Responsible for leading the software development process, designing the software architecture, and overseeing the work of the developer assistant.
+  
+- UI/UX System Designer: Neo Zheng Weng<br>Responsible for designing user interfaces and user experience for the application.
+  
+- Developer Assistant:<br><ul>
+ - 1. Neo Zheng Weng
+ - 2. Muhammad Danial
+ - 3. Wong Khai Shian Nicholas
+ - 4. Low Jie Sheng<br></ul>
+  Responsible for assisting the main developer in software development tasks such as coding, testing, and deployment.
+  
+- Requirements Analyst: Wong Khai Shian Nicholas<br>Responsible for analyzing the project requirements and documenting the functional and non-functional requirements of the software application.
+  
+- Documentation Specialist: Muhammad Danial<br>Responsible for creating user manuals, technical documentation, and other project-related documents.
+  
+- IT Support: Joseph Lau Yeo Kai<br>Responsible for providing technical support to the development team, troubleshooting issues, and maintaining the development environment.
+  
+- Quality Assurance Analyst: Low Jie Sheng<br>Responsible for ensuring the quality of the software application by conducting tests, identifying bugs, and suggesting improvements.
+  
+II. Equipment Resources:<br>
+- Laptops and desktop computers for the development team.
+- Servers for hosting the application.
+- Networking equipment such as routers, switches, and cables for setting up the development and production environments.
+  
+III. Software Resources:<br>
+- Integrated Development Environment (IDE) such as Visual Studio Code for software development.
+  
+IV. Other Expenses:<br>
+- Cloud Hosting Fees: Cloud service such as Google Cloud.
 
 ### 10. Technical Specifications:
-- Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
-- Mention the programming languages, frameworks, and libraries that will be used in the project.
-- Provide details about the hardware and software requirements for the proposed system.
-- Explain the data security measures that will be implemented.
+- Data Sources:<br> Data on students, available rooms, room allocation, payment transactions, maintenance requests, and communication logs may need to be gathered and stored by the system. These data sources might include a mix of streamed data from payment gateways or messaging platforms, unstructured data from chat logs, and structured data from databases.
+  
+- Data Schema:<br>The system's required functionality, such as user identification and authorisation, hotel reservations, payment processing, room allocation, room management, communication features, and reporting, should be supported by the data schema. The schema ought to be created to make it simple to access and retrieve the data.
+  
+- Data Transformations:<br> In order to guarantee the data's accuracy, consistency, and completeness, the system might need to alter it. Validating payment transactions, updating room availability, creating user accounts, and producing reports are a few examples of transformations. A number of technologies, including computer languages like Python, R, and SQL, could be used to do these modifications.
+  
+- Machine Learning Algorithms:<br> The KTDI Student Accommodation System may not immediately benefit from the use of machine learning methods. However, the system could use decision trees or rule-based algorithms to assign rooms in accordance with student preferences and accessibility.
+  
+- Data Visualization Tools:<br> For the management team to receive insights or trends, the system may need to produce data visualisations. These visualisations could show patterns in maintenance requests, payment transaction trends, or occupancy rates. To make these visualisations, one may use programmes like Tableau or Power BI.
+  
+- Programming Languages, Frameworks, and Libraries:<br> Developers utilise Bootstrap as framework, PHP for the backend, HTML, CSS and JavaScript with React for the frontend and Matplotlib for data processing and visualisation for the Kolej Tun Dr Ismail (KTDI) student accommodation system. These technologies are helpful to developers since they are well-documented and frequently used in the field.
+  
+- Hardware and software requirements<br>
+ i. Hardware Requirements:<br>
+  •	A computer with a processor of at least 2 GHz or higher<br>
+  •	A minimum of 8 GB RAM<br>
+  •	Sufficient storage space to store the system files and database<br>
+  •	A stable internet connection<br>
+  
+ ii. Software Requirements:<br>
+  •	An operating system such as Windows, Linux, or macOS<br>
+  •	A code editor such as Visual Studio Code
+  
+- Data security:<br> Several steps that can be taken to ensure the security of the Kolej Tun Dr Ismail (KTDI) Student Accommodation System, including secure login procedures, data encryption, routine backups, and disaster recovery plans. The most recent security patches for software and applications should be continuously updated to fix vulnerabilities. Users should be instructed on the best data security practises, which a user guideline will be provided by us and the system can be protected by putting in place physical security measures.
+
+---
 
 ### 11. Timeline and Deliverables: 
 - Provide a detailed timeline for the project, including milestones and deadlines.

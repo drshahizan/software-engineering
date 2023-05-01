@@ -48,13 +48,13 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td></td>
-    <td>Restaurant "Sdap Kitchen"</td>
+    <td>Adminstrator of Restaurant "Sdap Kitchen"</td>
     <td>Owner</td>
     <td></td>
   </tr>
     <tr>
     <td></td>
-    <td>Restaurant "Deen Corner"</td>
+    <td>Adminstrator of Restaurant "Deen Corner"</td>
     <td>Owner</td>
     <td></td>
   </tr>
@@ -64,12 +64,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>UTM student/UTM Staff</td>
     <td></td>
   </tr>
-   <tr>
-    <td></td>
-    <td>Adminstrator</td>
-    <td></td>
-    <td></td>
-  </tr>
+ 
 </table>
 
 ## Tasks involved in developing SRC documentation:
