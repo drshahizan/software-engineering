@@ -163,7 +163,6 @@ Note: All costs mentioned above are estimates and are subject to change based on
           <td>System Requirements Document, System Design Document</td>
           <td>Project Manager, Requirement Analyst, User Experience Designer, Assistant developer</td>
         </tr>
-   
         <tr>
           <td rowspan="3">Phase 2: Development (Weeks 2-4)</td>
           <td>Front-end Development Complete</td>
