@@ -49,11 +49,63 @@ This section describe the ideal software process model for this system developme
 - The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
 - It should also describe the plans and strategies to mitigate those risks.
 
-### 9. Resources:
-- Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
+### 9. Resources
+The following are the resources required for creating an online grading system for a university especially UTM online grading system:
+
+1. Staff:
+- Project Manager: responsible for overseeing the project, managing resources, and ensuring the project is delivered on time and within budget.
+- Business Analyst: responsible for gathering and analyzing requirements, creating functional specifications, and identifying system requirements.
+- Developers: responsible for building and implementing the system.
+- Quality Assurance (QA) Analysts: responsible for testing the system and ensuring that it meets requirements and is bug-free.
+- Technical Writers: responsible for creating user manuals and system documentation.
+- User Experience (UX) Designers: responsible for creating an intuitive and user-friendly interface.
+
+2. Equipment:
+- Server infrastructure: a robust server infrastructure is required to host the grading system and ensure it can handle large volumes of traffic.
+- Network infrastructure: high-speed internet connectivity and network equipment to connect the system to the internet and the university network.
+- Workstations: computers for the development and QA teams.
+
+3. Software:
+- Programming languages: the system can be built using different programming languages and frameworks, depending on the preferences and expertise of the development team.
+- Database software: a database management system to store and manage student and grading data.
+- Web server software: to host the grading system and serve content to users.
+- Testing software: automated testing tools to ensure the system is free of bugs and errors.
+- Security software: firewalls, antivirus software, and other security measures to ensure the system is protected from cyber threats.
+
+4. Other Expenses:
+- Licensing fees: some software components may require licensing fees.
+- Training: training for staff members to ensure they are familiar with the system and can use it effectively.
+- Maintenance and support: ongoing maintenance and support to ensure the system remains secure, updated, and functional.
 
 ### 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
+
+The following are the technical specifications for UTM online grading system:
+
+1. Data Source
+- Student data: including personal information, enrollment records, and academic performance data.
+- Faculty data: including personal information, course schedules, and grading records.
+- Course data: including course schedules, course descriptions, and prerequisites.
+
+2. Data Schema
+- The data schema for the grading system would need to include tables for student information, course information, enrollment records, grading records, and other relevant data.
+
+3. Data Transformations
+- Data transformations may be necessary to ensure the data is clean, consistent, and in the appropriate format for analysis. For example, data may need to be transformed to ensure it is compatible with the database management system being used.
+
+4. Machine Learning Algorithms
+- Machine learning algorithms can be used to analyze student data and identify patterns and trends. For example, clustering algorithms could be used to group students based on their academic performance, while regression algorithms could be used to predict future grades.
+
+5. Data Visualization Tools
+- Data visualization tools can be used to display grading data in a visually appealing and easily understandable format. For example, graphs and charts could be used to show the distribution of grades for a particular course or to compare the performance of different students.
+
+6. Other Technical Details
+
+- Database Management System: a robust database management system would be required to store and manage student and grading data.
+- Web Development Framework: a web development framework would be used to build the front-end of the grading system.
+- Server Infrastructure: a robust server infrastructure would be required to host the grading system and ensure it can handle large volumes of traffic.
+- Security Measures: robust security measures would need to be in place to protect the system from cyber threats and ensure student data remains secure.
+- belum buat
 - Mention the programming languages, frameworks, and libraries that will be used in the project.
 - Provide details about the hardware and software requirements for the proposed system.
 - Explain the data security measures that will be implemented.
