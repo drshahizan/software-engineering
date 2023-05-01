@@ -1,14 +1,14 @@
 #  Proposal 
 
-## Academic Advisor System  
+## Academic Consultation System  
 
 
 ### Prepared by: Group Software
-  1. Name and matrix no
-  2. Wan Nur Sofea Binti Mohd Hasbullah A22EC0115
-  3. Maisarah Binti Rizal
-  4. Nur Arini Fatihah Binti Mohd Sabir A22EC0244
-  5. Mulyani Binti Saripuddin A22EC0223
+   Name and matrix no:
+  1. Wan Nur Sofea Binti Mohd Hasbullah A22EC0115
+  2. Maisarah Binti Rizal A22EC0192
+  3. Nur Arini Fatihah Binti Mohd Sabir A22EC0244
+  4. Mulyani Binti Saripuddin A22EC0223
 
 ### Table of Contents
 - [Executive Summary](#1-executive-summary)
