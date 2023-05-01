@@ -12,7 +12,7 @@ Don't forget to hit the :star: if you like this repo.
 
 - [Requirements Modeling Concept](p1-intro.md)
 - [Use Case Diagram](p2-use-case.md)
-- [Requirements Document](p3-soft-requirement.md)
+- [Structural Models](p3-struc-model.md)
 
 # Part 2: Use Case Diagram
 
