@@ -176,9 +176,26 @@ To improve the load time of the page, we can implement caching techniques such a
 
 The block diagram for the proposed system architecture is as follows:
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Curiousity/system%20architecture.png" alt="SystemArchitecture"></img>
+
 ### 8. Risks Assessment:
 - The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
-- It should also describe the plans and strategies to mitigate those risks.
+- It also describe the plans and strategies to mitigate those risks.
+
+#### 1. Technical risks: 
+The system runs the risk of experiencing technical problems like software bugs, compatibility problems, or system failures. The development team will carry out extensive testing and quality assurance procedures to guarantee the system's functionality and stability in order to reduce this risk. Additionally, the team will implement a backup and recovery plan to minimise any potential data loss or system downtime.
+
+#### 2. Resource constraints: 
+There is a chance that the project will experience resource limitations due to a lack of funding, personnel, or time. The development team will effectively allocate resources and set project task priorities in order to reduce this risk. In order to access more funding and support, the team will also look into potential alliances and collaborations with outside groups.
+
+#### 3. Changes in project requirements: 
+During the development process, there is a likelihood that the project requirements may alter because of feedback from stakeholders or shifting conditions. The requirement analysis team will keep lines of communication open with stakeholders and regularly review and update the project requirements to ensure alignment with the project's goals and objectives in order to reduce this risk.
+
+#### 4. Security risks: 
+The possibility exists that the system could be exposed to security flaws like hacking or unauthorised access. The development team will put strong security measures, such as encryption, authentication, and access control, into place to lessen this risk. 
+
+#### 5. Adoption risks: 
+Due to lack of awareness or competing options, there is potential that the system will not be widely used by students and other users. The user experience designer team will carry out extensive user research and design the system to be accessible and user-friendly in order to reduce this risk. To increase awareness and promote adoption, the team will also employ focused marketing and promotional strategies.
+
 
 ### 9. Resources:
 To successfully deliver the academic course registration system, the following resources are required:
