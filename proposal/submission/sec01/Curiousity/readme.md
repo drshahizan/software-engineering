@@ -291,10 +291,91 @@ Total Other Expenses: RM 296,000
 Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
 
 ### 10. Technical Specifications:
-- Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
-- Mention the programming languages, frameworks, and libraries that will be used in the project.
-- Provide details about the hardware and software requirements for the proposed system.
-- Explain the data security measures that will be implemented.
+<table style="border-collapse: collapse; border: 1px solid;">
+        <tr style="border-collapse: collapse; border: 1px solid">
+            <td style="border-collapse: collapse; border: 1px solid">Data sources</td>
+            <td>
+                <li>Event organisers will enter the event data which includes information about the event itself, such as
+                    the date, time, location and event type.</li>
+                <li>The event registration forms will collect data which includes attendee information such as names,email
+                    addresses,phone numbers and other contact details.</li>
+                <li>The survey tools integrated with the event management system will collect data and provide insights into
+                    attendee satisfaction, areas of improvement, and future event ideas.</li>
+            </td>
+        </tr>
+    
+        <tr style="border-collapse: collapse; border: 1px solid">
+            <td style="border-collapse: collapse; border: 1px solid">Data schema</td>
+            <td>
+                <li>A database with tables that represent the various data sources involved in event management, such as
+                    attendee data, event data, financial data, surveys and feedback, and customer relationship management
+                    (CRM) data.</li>
+            </td>
+        </tr>
+    
+        <tr style="border-collapse: collapse; border: 1px solid">
+            <td style="border-collapse: collapse; border: 1px solid">Data transformation</td>
+            <td>
+                <li>The attendee data and the event data are transformed into a relational database management system
+                    (RDBMS) to associate each attendee with the event they registered for.</li>
+            </td>
+        </tr>
+    
+        <tr style="border-collapse: collapse; border: 1px solid">
+            <td style="border-collapse: collapse; border: 1px solid">Programming languages</td>
+            <td>
+                <li>Java, JavaScript, CSS, PHP</li>
+            </td>
+        </tr>
+    
+        <tr style="border-collapse: collapse; border: 1px solid">
+            <td style="border-collapse: collapse; border: 1px solid">Frameworks</td>
+            <td>
+                <li>Spring, Laravel, React, Vue.js</li>
+            </td>
+        </tr>
+    
+        <tr style="border-collapse: collapse; border: 1px solid">
+            <td style="border-collapse: collapse; border: 1px solid">Libraries</td>
+            <td>
+                <li>Bootstrap, jQuery, React Native,D3.js</li>
+            </td>
+        </tr>
+    
+        <tr style="border-collapse: collapse; border: 1px solid">
+            <td style="border-collapse: collapse; border: 1px solid">Hardware Requirements</td>
+            <td>
+                <li>Processor: Dual-core or higher</li>
+                <li>RAM: 8 GB or higher</li>
+                <li>Storage: 100 GB or higher</li>
+                <li>Network Interface: Gigabit Ethernet or higher</li>
+                <li>Display: 1080p or higher</li>
+    
+            </td>
+        </tr>
+    
+        <tr style="border-collapse: collapse; border: 1px solid">
+            <td style="border-collapse: collapse; border: 1px solid">Software Requirements</td>
+            <td>
+                <li>Operating System: Windows, Linux or macOS</li>
+                <li>Web Server: Apache, Nginx, or Microsoft IIS</li>
+                <li>Database Management System: MySQL, PostgreSQL, or Microsoft SQL Server</li>
+                <li>Programming Language: Java, Python, or PHP</li>
+                <li>Integrated Development Environment (IDE): Eclipse, PyCharm, Visual Studio Code, or IntelliJ IDEA</li>
+            </td>
+        </tr>
+    
+        <tr style="border-collapse: collapse; border: 1px solid">
+            <td style="border-collapse: collapse; border: 1px solid">Data Security Measures</td>
+            <td>
+                <li>Access control: Only authorised users can access the system and its data.</li>
+                <li>Audit trail: Track user activity and changes made to the system and its data. </li>
+                <li>Regular updates and patches: Updated regularly with the latest security patches.</li>
+                <li>Training and awareness: Educate users on data security best practices, such as strong password
+                    management, phishing awareness, and safe browsing habits.</li>
+            </td>
+        </tr>
+</table>
 
 ### 11. Timeline and Deliverables: 
 -Below is the timeline and deliverables of the project:
