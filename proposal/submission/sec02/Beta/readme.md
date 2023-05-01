@@ -15,9 +15,9 @@ Don't forget to hit the :star: if you like this repo.
 ### Prepared by: <stakeholder>
   1. MUHAMMAD DANIEL HAKIM BIN SYAHRULNIZAM (A22EC0207)
   2. MUHAMMAD ARIFF DANISH BIN HASHNAN ( )
-  3. MUHAMMAD IMAN FIRDAUS BIN BAHARUDDIN (A22EC0216)
+  3. MUHAMMAD IMAN FIRDAUS BIN BAHARUDDIN ( )
   4. MUHAMMAD SAFWAN BIN MOHD AZMI ( )
-  5. CHE MARHUMI BIN CHE AB RAHIM ( )
+  5. CHE MARHUMI BIN CHE AB RAHIM (A22EC0147)
 
 ### Table of Contents
 - [Executive Summary](#1-executive-summary)
