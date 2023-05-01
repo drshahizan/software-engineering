@@ -53,10 +53,10 @@ Don't forget to hit the :star: if you like this repo.
     <td>Ensure system is technically feasible and meets assets requirements.</td>
   </tr>
     <tr>
-    <td>2</td>
+    <td>Hayden Huan Kee Jiun</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>Giving the feedbacks for the current accommodation system and provide the ideas for the upgraded accommodation system.</td>
   </tr>
     <tr>
     <td>3</td>
