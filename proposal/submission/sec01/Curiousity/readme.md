@@ -292,82 +292,15 @@ Note: All costs mentioned above are estimates and are subject to change based on
 
 ### 10. Technical Specifications:
 <table style="border-collapse: collapse">
-        <tr>
-            <td>Data sources</td>
-            <td>- Event organisers will enter the event data which includes information about the event itself, such as the date, time, location and event type.
-              - The event registration forms will collect data which includes attendee information such as names,email addresses,phone numbers and other contact details.
-              - The survey tools integrated with the event management system will collect data and provide insights into attendee satisfaction, areas of improvement, and future event ideas.
-            </td>
-        </tr>
-    
-        <tr style="border-collapse: collapse">
-            <td>Data schema</td>
-            <td>
-              - A database with tables that represent the various data sources involved in event management, such as attendee data, event data, financial data, surveys and feedback, and customer relationship management (CRM) data.
-            </td>
-        </tr>
-    
-        <tr style="border-collapse: collapse; border: 1px solid">
-            <td style="border-collapse: collapse; border: 1px solid">Data transformation</td>
-            <td>
-                <li>The attendee data and the event data are transformed into a relational database management system
-                    (RDBMS) to associate each attendee with the event they registered for.</li>
-            </td>
-        </tr>
-    
-        <tr style="border-collapse: collapse; border: 1px solid">
-            <td style="border-collapse: collapse; border: 1px solid">Programming languages</td>
-            <td>
-                <li>Java, JavaScript, CSS, PHP</li>
-            </td>
-        </tr>
-    
-        <tr style="border-collapse: collapse; border: 1px solid">
-            <td style="border-collapse: collapse; border: 1px solid">Frameworks</td>
-            <td>
-                <li>Spring, Laravel, React, Vue.js</li>
-            </td>
-        </tr>
-    
-        <tr style="border-collapse: collapse; border: 1px solid">
-            <td style="border-collapse: collapse; border: 1px solid">Libraries</td>
-            <td>
-                <li>Bootstrap, jQuery, React Native,D3.js</li>
-            </td>
-        </tr>
-    
-        <tr style="border-collapse: collapse; border: 1px solid">
-            <td style="border-collapse: collapse; border: 1px solid">Hardware Requirements</td>
-            <td>
-                <li>Processor: Dual-core or higher</li>
-                <li>RAM: 8 GB or higher</li>
-                <li>Storage: 100 GB or higher</li>
-                <li>Network Interface: Gigabit Ethernet or higher</li>
-                <li>Display: 1080p or higher</li>
-            </td>
-        </tr>
-    
-        <tr style="border-collapse: collapse; border: 1px solid">
-            <td style="border-collapse: collapse; border: 1px solid">Software Requirements</td>
-            <td>
-                <li>Operating System: Windows, Linux or macOS</li>
-                <li>Web Server: Apache, Nginx, or Microsoft IIS</li>
-                <li>Database Management System: MySQL, PostgreSQL, or Microsoft SQL Server</li>
-                <li>Programming Language: Java, Python, or PHP</li>
-                <li>Integrated Development Environment (IDE): Eclipse, PyCharm, Visual Studio Code, or IntelliJ IDEA</li>
-            </td>
-        </tr>
-    
-        <tr style="border-collapse: collapse; border: 1px solid">
-            <td style="border-collapse: collapse; border: 1px solid">Data Security Measures</td>
-            <td>
-                <li>Access control: Only authorised users can access the system and its data.</li>
-                <li>Audit trail: Track user activity and changes made to the system and its data. </li>
-                <li>Regular updates and patches: Updated regularly with the latest security patches.</li>
-                <li>Training and awareness: Educate users on data security best practices, such as strong password
-                    management, phishing awareness, and safe browsing habits.</li>
-            </td>
-        </tr>
+  <tr>
+    <td>Data sources</td>
+    <td>- Event organisers will enter the event data which includes information about the event itself, such as the date, time, location and event type.<br>- The event registration forms will collect data which includes attendee information such as names,email addresses,phone numbers and other contact details.<br>- The survey tools integrated with the event management system will collect data and provide insights into attendee satisfaction, areas of improvement, and future event ideas.</td>
+  </tr>
+  
+  <tr>
+    <td>ata schema</td>
+    <td>- A database with tables that represent the various data sources involved in event management, such as attendee data, event data, financial data, surveys and feedback, and customer relationship management (CRM) data.</td>
+  </tr>
 </table>
 
 ### 11. Timeline and Deliverables: 
