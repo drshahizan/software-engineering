@@ -101,7 +101,9 @@ The system will have a multi-tier architecture consisting of a presentation laye
 
 
 - Block Diagram: 
-             +------------------+
+          
+```sql
+          +------------------+
                |     Web Server   |
                |   (Apache, PHP)  |
                +------------------+
