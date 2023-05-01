@@ -11,7 +11,7 @@
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: auto 1fr 4fr;
     grid-gap: 15px;
-    height: 100vh;
+    height: 100vh;  
   }
   
   .grid-container3 {
@@ -62,38 +62,33 @@
 /* Mock 2 */
   .header2 {
     grid-column: 1 / span 3;
-    background-color: plum;
+    background-color: rgb(106, 40, 152);
     color: #ffffff;
     padding: 20px;
-    border-color: black;
-    border-style: solid;
+    border: black solid;
   }
 
   .m2red{
     background-color: lightcoral;
     padding: 20px;
-    border-color: #333333;
-    border-style: solid;
+    border: black solid 5px;
   }
   .m2green{
     background-color: lightgreen;
     padding: 20px;
-    border-color: #333333;
-    border-style: solid;
+    border: black solid 5px;
   }
   .m2mustard{
     background-color: goldenrod;
     padding: 20px;
-    border-color: #333333;
-    border-style: solid;
+    border: black solid 5px;
   }
   
   .m3green{
     background-color: green;
     grid-column: 1 / span 3;
     padding: 20px;
-    border-color: black;
-    border-style: solid;
+    border: black solid 5pxx;
   }
 
 /* Mock 3 */
