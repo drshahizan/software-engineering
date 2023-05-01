@@ -34,7 +34,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>5 Lee Soon Der</td>
-    <td>User Experience Designer & Developer Assistant</td>
+    <td>User Experience Designer</td>
   </tr>
 </table>
 
