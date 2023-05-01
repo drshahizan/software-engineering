@@ -8,7 +8,16 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Project Title:  Student Engagement
-  
+
+### Prepared by: Group Systema
+  1. Yeoh Chong Yi A22EC0295
+  2.   
+  3.   
+  4.  
+
+### Table of Contents
+- [Table of Contents](#table-of-contents)  
+
 ## 1. Executive Summary
 Our proposed academic course registration system is an innovative solution designed to simplify and streamline the course registration process for students, faculty, and administrators. The system leverages cutting-edge technologies and best practices to deliver a seamless user experience that enables students to easily browse, search, and enroll in courses. Key features of the system include real-time scheduling, automated waitlisting, and personalized dashboards that empower students to take control of their academic journey. Faculty and administrators will also benefit from improved class roster management, data analytics, and more efficient workflows. Ultimately, our academic course registration system will deliver measurable value to all stakeholders, including increased student satisfaction, improved retention rates, and enhanced institutional reputation. By investing in this system, our institution will position itself as a leader in educational technology and innovation.
 
