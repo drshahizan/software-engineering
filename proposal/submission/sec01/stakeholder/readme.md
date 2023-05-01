@@ -242,7 +242,7 @@ Hardware Requirements:<br>
   •	Sufficient storage space to store the system files and database<br>
   •	A stable internet connection<br>
  Software Requirements:<br>
-  •	An operating system such as Windows, Linux, or macOS
+  •	An operating system such as Windows, Linux, or macOS<br>
   •	A code editor such as Visual Studio Code
 - Data security:<br> Several steps that can be taken to ensure the security of the Kolej Tun Dr Ismail (KTDI) Student Accommodation System, including secure login procedures, data encryption, routine backups, and disaster recovery plans. The most recent security patches for software and applications should be continuously updated to fix vulnerabilities. Users should be instructed on the best data security practises, and the system can be protected by putting in place physical security measures. 
 
