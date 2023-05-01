@@ -7,9 +7,9 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Proposal : Baddl Umrah Management System
+# Proposal : Baddal Hajj and Umrah Management System
 
-## Baddl Umrah Management System
+## Baddal Hajj and Umrah Management System
 
 ### Group Tempest :
 1.Muhammad Anas Bin Mohd Pikri (A21SC0464)
@@ -27,8 +27,7 @@ Don't forget to hit the :star: if you like this repo.
 - Start the proposal with a brief summary that highlights the main points of the project, including its goals, objectives, and expected outcomes.
 
 ### 2. Background:
-- The introduction should provide background information about the software project and the purpose of the proposal. 
-- It should also briefly describe the problem the software is meant to solve, the benefits it will provide, and its potential impact on the organization.
+Baddal Hajj is the act of performing the compulsary obligation for muslims. The season of this Hajj only once a year and muslims will performing their Hajj during this season while umrah the other hand is open to be perform at any time. The idea of this project is to manage the bulk registration for those who are interested to take part or to perform their umrah and hajj so that the documentation will be more systematic. Every country has their quota that has been decided by Arab Saudi to send their muslims congregation every year to perform hajj while umrah can be perform throughout the year, so the number of people that will be register is exceed the human capability to manage, this sytem is being made to help and assist the management of registration for the hajj and umrah in larger quantity with more systematic.
 
 ### 3. Objectives:
 - The objectives section should clearly state the goals and objectives of the software project. It should describe the intended outcomes of the software and how it will address the problem it aims to solve. 
