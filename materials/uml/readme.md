@@ -56,6 +56,7 @@ Learn PlanUML is an online resource that provides tutorials and examples for usi
 - [Create Diagrams In VS Code With Draw.io](https://dev.to/hediet/create-diagrams-in-vs-code-with-draw-io-32pd)
 - [Draw.io diagrams into Markdown files using VSCode Extension](https://saranyansenthivel.medium.com/draw-io-diagrams-into-markdown-files-using-vscode-extension-bcb28575f682)
 - [Use Case Diagram Tutorial (Guide with Examples)](https://creately.com/guides/use-case-diagram-tutorial/)
+- [Top 20 Draw.io Alternatives & Competitors for Cloud Architectures](https://medium.com/@mike_tyson_cloud/top-20-alternatives-to-draw-io-diagrams-net-for-cloud-architecture-ccaf0a6edd97)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
