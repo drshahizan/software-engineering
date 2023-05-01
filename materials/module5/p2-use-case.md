@@ -525,6 +525,18 @@ In this use case, repetition within a flow is used to allow the student to regis
 
 This process can save time for the student by allowing them to select and register for multiple courses in a single session without having to go through the registration process for each course separately. Additionally, the system can verify that the student has met the prerequisites for each course before allowing them to register, ensuring that they are only registering for courses that they are eligible to take.
 
+
+## `<<include>>` Relationship 
+In UML (Unified Modeling Language), the <<include>> relationship is a type of relationship that represents the inclusion of one use case in another use case. This relationship indicates that the behavior described in one use case is always included in the behavior described in another use case.
+
+In the context of a university academic course registration system, an example of the `<<include>>` relationship could be between the "View Course Schedule" use case and the "Register for Course" use case. The "View Course Schedule" use case would include the steps required for the student to view the course schedule before they can proceed with the "Register for Course" use case.
+
+## `<<extend>>` Relationship 
+In UML, the `<<extend>>` relationship is used to model optional or alternative behaviors that can occur during the execution of a use case. It indicates that a use case can be extended by another use case, but the extended use case is not required for the base use case to be completed successfully. The `<<extend>>` relationship is represented as a dashed arrow with the `<<extend>>` stereotype.
+
+For example, in the university academic course registration system, the "Register for Course" use case may be extended by the "Request Course Overload" use case. This use case allows students to request permission to enroll in more courses than the maximum allowed limit. The "Request Course Overload" use case would only be executed if the student has already registered for the maximum number of courses and still wants to enroll in more.
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
