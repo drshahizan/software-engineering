@@ -88,8 +88,32 @@ Back-up funds: RM 400
 - Provide a flowchart or block diagram of the system architecture.
 
 ### 8. Risks Assessment:
-- The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
-- It should also describe the plans and strategies to mitigate those risks.
+Many types of risks may happen during or after the system being develop or done, one of it is technical risks such as data loss, that can happen if the sytem crash or the program crash during the developing time. Another risk is resourse risk such as insufficient resources to continue the project that might cause a delay to the development process and might not achieve the date line being set. Requirement risk is one of risk that could during the project process as the requirements of the projects might change after a few discussion that lead to reconstruct a new developing path as we need to change or adding a few requirements, misunderstanding in requirements being discussed also could cause a problem as the system will be develop another way and lead to error in system's development.
+
+Here is the list of the risks being discussed :
+
+1. Technical risk : 
+- Data loss
+- System crash
+
+2. Resource risk :
+- Short of resource
+
+3. Requirement risk :
+- Misscomunication
+- Requirement changing or adding
+
+We could prevent this risk from happening by :-
+
+1. Conduct regular testing with the system that has been existing so that we could identify any issue from time to time
+
+2. Backup data and make a recovery plan to avoid any data loss or system crash during or after development process
+
+3. Develop a plan realistically to imagine the resources needed and make it available
+
+4. Clear communication between developers is a need and always inform the stakeholder the project requirements so that the stakeholder is aware of the ongoing project.
+
+5. Develop an emergency plan to deal with the requirements issue as the problems might occur and the developing process will not be delay.
 
 ### 9. Resources:
 - Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
