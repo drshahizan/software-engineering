@@ -146,10 +146,29 @@ To assure the quality and functionality of the system, many testing methodologi
 
 In conclusion, the Agile methodology is an effective software process model for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) because it emphasizes flexibility, collaboration, and continuous customer feedback. It allows the development team to respond quickly to changes in requirements and deliver high-quality software in shorter development cycles.
 
+---
+
 ### 6. Budget:
-The developemnt of student accommodation system in Kolej Tun Dr Ismail (KTDI) for 2000 users, including the residents (students, fellows, fellow assistants) and the staff and the adminstrators.
+The development of the student accommodation system in Kolej Tun Dr Ismail (KTDI) for around 2,000 users within a semester will involve various costs, including hardware, software, personnel, testing and contigency. The estimated expenditure for this project is RM 1,560,000, as stated in the following manner: 
+ 
+Hardware: RM 500,000
+The cost of procuring and maintaining the required hardware infrastructure, including servers, networking equipments, storage devices, workstations and peripheral devices will be covered by the hardware budget. The hardware expenses will be varied based on the latest requirements and specifications of the project.
+ 
+Software: RM 150,000
+The software budget will include the cost of development tools and resources, such as Integrated Development Environments (IDEs) for programming, system or software licenses and also development frameworks.
+ 
+Personnel: RM 800,000
+The development team's pay and benefits, including for those of the project manager, UI/UX system designer, requirements analyst, developers, documentation specialist, IT support, quality assurance analyst and testers will be covered by the personnel budget. Each role will be arranged based on group members’ education experiences, abilities and skills in software development. The testers will be chosen from the system’s users to improve the user experiences.
+ 
+Testing: RM 10,000
+Functional, performance, and security testing expenses will be paid for by the testing budget. Included in this are the prices for testing services, software, and online website evaluation tools.
+ 
+Contingency plans: RM 100,000
+The contingency budget will cover any unforeseen costs that might occur while the project is being developed. This covers unanticipated issues with the hardware or software, modifications to the project's scope, and delays in the development process. 
+ 
+In shorts, the expected budget for the development of the student accommodation system in KTDI is RM 1,560,000. The budget will cover all expenses related to staff, testing, hardware, software, and contingency. Stakeholders and project sponsors will be informed of any budget changes later.
 
-
+---
 
 ### 7. System Architecture:
 - Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
