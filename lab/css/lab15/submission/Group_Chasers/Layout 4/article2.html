@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+    <!--
+        Lab 15: Layout
+        Group:
+        1. Name: Koh Li Hui, Matrix No: A22EC0059, Github ID: kohlihui
+        2. Name: Low Jie Sheng, Matrix No:A22EC0075 , Github ID: jiesheng4616
+        3. Name: Tiew Chuan Shen, Matrix No: A22EC0113, Github ID: tiewshen
+        4. Name: Yong Wern Jie, Matrix No: A22EC0121 , Github ID: Wernjie0713
+    -->
+   <head>
+      <meta charset="UTF-8">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+      <title>Online Newspaper</title>
+   </head>
+   <style>
+    html{
+        font-family: 'Montserrat', sans-serif;
+    }
+    header {
+        background-color: rgb(0, 0, 0);
+        color: rgb(255, 255, 255);
+        padding: 20px;
+        text-align: center;
+        max-width:100%;
+    }
+
+    header h1{
+        font-size: 200%;
+        font-family: 'Montserrat', sans-serif;
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #ff0101;
+        position: -webkit-sticky; /* Safari */
+        position: sticky;
+        top: 0;
+    }
+
+    li {
+        float: left;
+    }
+
+    li a {
+    font-family: 'Montserrat', sans-serif;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 28px;
+    text-decoration: none;
+    }
+
+    li a:hover {
+    background-color: #000000;
+    }
+
+    .article {
+    text-align: center;
+    line-height: 1.5;
+    border: 2px solid black;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    }
+
+    p{
+    text-align: left;
+    padding-left: 25%;
+    padding-right: 25%;
+    }
+
+    .image{
+    width: 750px;
+    height: 485px;
+    float: top;
+    }
+
+    fieldset{
+    border: 2px solid black;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    }
+
+    footer{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    margin-top: 10px;
+    text-align: center;
+    max-width:100%;
+    }
+
+    legend{
+        font-size: x-large;
+        font-weight: 1000px;
+    }
+
+    input{
+        width: 250px;
+    }
+    textarea {
+        width: 500px;
+        height: 200px;
+    }
+
+    #submit {
+        width: 70px;
+        height: 40px;
+        font-weight: bold;
+    }
+
+    a {
+        color: white;
+    text-decoration: none;
+    }
+   </style>
+   <body>
+    <header>
+        <h1><a href="all.html"><img src="UTM.png" width="100px" height="100px"><br>UTM News</a></h1>
+    </header>
+    <ul>
+        <li><a href="section.html">Home</a></li>
+        <li><a href="section.html">Sports</a></li>
+        <li><a href="section.html">Politics</a></li>
+        <li><a href="section.html">Local</a></li>
+        <li><a href="section.html">World</a></li>
+        <li><a href="section.html">Asia</a></li>
+        <li><a href="section.html">UK</a></li>
+        <li><a href="section.html">Business</a></li>
+        <li><a href="section.html">Health</a></li>
+        <li><a href="section.html">Travel</a></li>
+        <li><a href="section.html">Science</a></li>
+        <li><a href="section.html">Stories</a></li>
+        <li><a href="section.html">Entertainment & Arts</a></li>
+    </ul>
+    <div class="article">
+        <h1>Parents prefer school to resume</h1>
+        <hr><p style="text-align: center;">By <b>BENJAMIN LEE</b><br>Monday, 01 May 2023</p>
+        <img class="image" src="https://apicms.thestar.com.my/uploads/images/2023/05/01/2050179.JPG" alt="News photo">
+        <p>PETALING JAYA: Parents are not risking the health and well-being of their little ones in the wake of rising Covid-19 cases as school soon resumes after the mid-term break.
+<br><br>
+            Shopkeeper Tan Jin Kiat said he would remind his seven-year-old son to wear a face mask and the risks of not masking up daily.
+            <br><br>            
+            “When he goes to school, I will make sure he has a few extra masks and a bottle of hand sanitiser in his bag.
+            <br><br>
+            “I hope that other parents are as strict as I am in teaching their children the precautions to prevent them from contracting the virus,” he said, adding that teachers and prefects should also make sure students wash their hands properly before and after eating.
+            <br><br>
+            The 35-year-old father disagreed with the suggestion, raised by some people, to extend the holiday, be it due to concerns of Covid-19 or the heatwave.
+            <br><br>
+            “Children tend to learn the most when young and lose interest extremely fast, so any delays in their education could demotivate them to pick up their books again.
+            <br><br>
+            “Unless the situation becomes critical, there should not be any problem for children to go back to school, as long as the school authorities carry out all the necessary precautions,” he added.
+            <br><br>
+            According to the Health Ministry’s KKMnow website, Covid-19 cases have shot up, with daily infections going from 164 on March 5 to almost a thousand on April 12. An average of 688 daily cases was reported in the third week of April.
+            <br><br>
+            A mother of three daughters aged between seven and 11, Norhaida Hamid, was not worried about her children, saying they have been drilled on Covid-19 prevention.
+            <br><br>
+            “Whether they are at home or outside, my girls keep to the standard operating procedure (SOP) at all times without needing me to say anything.
+            <br><br>
+            “They will carry spare masks and sanitiser, wash their hands properly and practise social distancing,” she added.
+            <br><br>
+            Norhaida, a 30-year-old staff nurse, also concurred with Tan, saying there was no reason to extend the holiday as the spread of the disease could be easily controlled if everyone sticks to the SOP.
+            <br><br>
+            Schoolteacher Chong Cheah Kheng, 37, has taught his eight-year-old son to keep a distance from his schoolmates who show symptoms of Covid-19, while ensuring his mask is properly put on at all times.
+            <br><br>
+            He said school lessons should not be stopped.
+            <br><br>
+            “In the worst scenario, if physical classes cannot be conducted, online learning should be considered as an alternative.
+            <br><br>
+            “Schools should just cancel outdoor activities and conduct virtual classes online whether we are facing another round of the pandemic or a heatwave,” he said.
+            <br><br>
+            The mid-term school holidays in Johor, Kedah, Kelantan and Terengganu ended on Saturday while in other states, it ended yesterday.</p>
+
+
+    </div>
+    
+
+    <fieldset>
+    <legend>Comment</legend>
+    <h4>Anonymous A</h4>
+    <p style="padding-left: 0%; padding-right: 0%;">I can understand why parents are eager to have schools resume. Distance learning has been a challenge for many families, and children benefit from in-person instruction and socialization with peers. However, it's important to ensure that safety measures are in place to protect students, teachers, and staff.</p>
+    <h4>Anonymous B</h4>
+    <p style="padding-left: 0%; padding-right: 0%;">As a parent myself, I agree that it's important for schools to resume as soon as possible. However, we need to acknowledge that the pandemic is still ongoing, and there are still risks associated with large gatherings. It's important for schools to work closely with health officials to ensure that appropriate safety protocols are in place.</p>
+    <h4>Anonymous C</h4>
+    <p style="padding-left: 0%; padding-right: 0%;">I think it's understandable that parents are anxious to have schools resume, but we also need to consider the potential impact on teachers and staff. Many educators are understandably concerned about their own health and the health of their families. We need to prioritize their safety as well.</p>
+    <br>
+    <p style="padding-left: 0%; padding-right: 0%;"><em><b>Comment your opinion here:</b></em></p>
+    <table>
+        <tr>
+            <td><label for="title">Title : </label></td>
+            <td><input type="text" id="title" name="title"></td>
+        </tr>
+        <tr>
+            <td><label for="username">Username : </label></td>
+            <td><input type="text" id="username" name="username"></td>
+        </tr>
+        <tr>
+            <td><label for="comment">Comment : </label></td>
+            <td><textarea id="comment" name="comment"></textarea></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" id="submit" name="submit"></td>
+        </tr>
+    </table>
+    </fieldset>
+
+    </div>
+
+    <footer>© 2023 Group SEHC</footer>
+   </body>
+</html>

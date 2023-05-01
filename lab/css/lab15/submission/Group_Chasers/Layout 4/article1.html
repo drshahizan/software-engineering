@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+    <!--
+        Lab 15: Layout
+        Group:
+        1. Name: Koh Li Hui, Matrix No: A22EC0059, Github ID: kohlihui
+        2. Name: Low Jie Sheng, Matrix No:A22EC0075 , Github ID: jiesheng4616
+        3. Name: Tiew Chuan Shen, Matrix No: A22EC0113, Github ID: tiewshen
+        4. Name: Yong Wern Jie, Matrix No: A22EC0121 , Github ID: Wernjie0713
+    -->
+   <head>
+      <meta charset="UTF-8">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+      <title>Online Newspaper</title>
+   </head>
+   <style>
+    html{
+        font-family: 'Montserrat', sans-serif;
+    }
+    header {
+        background-color: rgb(0, 0, 0);
+        color: rgb(255, 255, 255);
+        padding: 20px;
+        text-align: center;
+        max-width:100%;
+    }
+
+    header h1{
+        font-size: 200%;
+        font-family: 'Montserrat', sans-serif;
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #ff0101;
+        position: -webkit-sticky; /* Safari */
+        position: sticky;
+        top: 0;
+    }
+
+    li {
+        float: left;
+    }
+
+    li a {
+    font-family: 'Montserrat', sans-serif;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 28px;
+    text-decoration: none;
+    }
+
+    li a:hover {
+    background-color: #000000;
+    }
+
+    .article {
+    text-align: center;
+    line-height: 1.5;
+    border: 2px solid black;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    }
+
+    p{
+    text-align: left;
+    padding-left: 25%;
+    padding-right: 25%;
+    }
+
+    .image{
+    width: 750px;
+    height: 485px;
+    float: top;
+    }
+
+    fieldset{
+    border: 2px solid black;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    }
+
+    footer{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    margin-top: 10px;
+    text-align: center;
+    max-width:100%;
+    }
+
+    legend{
+        font-size: x-large;
+        font-weight: 1000px;
+    }
+
+    input{
+        width: 250px;
+    }
+    textarea {
+        width: 500px;
+        height: 200px;
+    }
+
+    #submit {
+        width: 70px;
+        height: 40px;
+        font-weight: bold;
+    }
+
+    a {
+    color: white;
+    text-decoration: none;
+    }
+   </style>
+   <body>
+    <header>
+        <h1><a href="all.html"><img src="UTM.png" width="100px" height="100px"><br>UTM News</a></h1>
+    </header>
+    <ul>
+        <li><a href="section.html">Home</a></li>
+        <li><a href="section.html">Sports</a></li>
+        <li><a href="section.html">Politics</a></li>
+        <li><a href="section.html">Local</a></li>
+        <li><a href="section.html">World</a></li>
+        <li><a href="section.html">Asia</a></li>
+        <li><a href="section.html">UK</a></li>
+        <li><a href="section.html">Business</a></li>
+        <li><a href="section.html">Health</a></li>
+        <li><a href="section.html">Travel</a></li>
+        <li><a href="section.html">Science</a></li>
+        <li><a href="section.html">Stories</a></li>
+        <li><a href="section.html">Entertainment & Arts</a></li>
+    </ul>
+    <div class="article">
+        <h1> Gabon-registered ship catches fire, three crew members missing off Kota Tinggi</h1>
+        <hr><p style="text-align: center;">By <b>REMAR NORDIN</b><br>Monday, 01 May 2023 8:34 PM MYT</p>
+        <img class="image" src="https://apicms.thestar.com.my/uploads/images/2023/05/01/2050921.jpg" alt="News photo">
+        <p>KOTA TINGGI: Three crew members of a Gabon-registered vessel went missing after their ship was engulfed in flames near Tanjung Sedili here.
+<br><br>         Johor Malaysian Maritime Enforcement Agency (MMEA) director First Admiral Nurul Hizam Zakaria said the Johor Baru maritime rescue centre received a distress call about the incident at 4pm on Monday (May 1).
+</p><img class="image" src="https://apicms.thestar.com.my/uploads/images/2023/05/01/2050920.jpg" alt="News photo"><p>"The tanker, heading towards Singapore from China, is registered in Gabon, Africa with 28 crew members.
+<br><br>         "A fire had broken out on the ship, which is located 37.5 nautical miles (69km) northeast of Tanjung Sedili," he said in a statement.
+<br><br>         He added a search and rescue operation was mounted and MMEA rescued two of the ship’s crew members while 23 others were rescued by two other vessels nearby.
+<br><br>         "The search is now focused on finding the remaining three crew members who are still missing," he said, adding that investigations are ongoing to find out the cause of the incident.</p>
+        
+    </div>
+    
+
+    <fieldset>
+    <legend>Comment</legend>
+    <h4>Anonymous A</h4>
+    <p style="padding-left: 0%; padding-right: 0%;">This is a tragic incident. My thoughts and prayers go out to the families of the missing crew members. The authorities must do everything possible to locate and rescue them.</p>
+    <h4>Anonymous B</h4>
+    <p style="padding-left: 0%; padding-right: 0%;">It's alarming to hear about yet another maritime accident. The safety of seafarers should always be a top priority. We need to investigate the cause of this incident and take measures to prevent similar incidents in the future.</p>
+    <h4>Anonymous C</h4>
+    <p style="padding-left: 0%; padding-right: 0%;">The Gabon-registered ship catching fire is a reminder of the risks that come with maritime transport. It's essential that we have robust safety regulations in place and that all vessels comply with them. We cannot afford to compromise on safety.</p>
+    <br>
+    <p style="padding-left: 0%; padding-right: 0%;"><em><b>Comment your opinion here:</b></em></p>
+    <table>
+        <tr>
+            <td><label for="title">Title : </label></td>
+            <td><input type="text" id="title" name="title"></td>
+        </tr>
+        <tr>
+            <td><label for="username">Username : </label></td>
+            <td><input type="text" id="username" name="username"></td>
+        </tr>
+        <tr>
+            <td><label for="comment">Comment : </label></td>
+            <td><textarea id="comment" name="comment"></textarea></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" id="submit" name="submit"></td>
+        </tr>
+    </table>
+    </fieldset>
+
+    </div>
+
+    <footer>© 2023 Group SEHC</footer>
+   </body>
+</html>

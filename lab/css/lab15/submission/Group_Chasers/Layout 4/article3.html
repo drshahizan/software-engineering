@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+    <!--
+        Lab 15: Layout
+        Group:
+        1. Name: Koh Li Hui, Matrix No: A22EC0059, Github ID: kohlihui
+        2. Name: Low Jie Sheng, Matrix No:A22EC0075 , Github ID: jiesheng4616
+        3. Name: Tiew Chuan Shen, Matrix No: A22EC0113, Github ID: tiewshen
+        4. Name: Yong Wern Jie, Matrix No: A22EC0121 , Github ID: Wernjie0713
+    -->
+   <head>
+      <meta charset="UTF-8">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+      <title>Online Newspaper</title>
+   </head>
+   <style>
+    html{
+        font-family: 'Montserrat', sans-serif;
+    }
+    header {
+        background-color: rgb(0, 0, 0);
+        color: rgb(255, 255, 255);
+        padding: 20px;
+        text-align: center;
+        max-width:100%;
+    }
+
+    header h1{
+        font-size: 200%;
+        font-family: 'Montserrat', sans-serif;
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #ff0101;
+        position: -webkit-sticky; /* Safari */
+        position: sticky;
+        top: 0;
+    }
+
+    li {
+        float: left;
+    }
+
+    li a {
+    font-family: 'Montserrat', sans-serif;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 28px;
+    text-decoration: none;
+    }
+
+    li a:hover {
+    background-color: #000000;
+    }
+
+    .article {
+    text-align: center;
+    line-height: 1.5;
+    border: 2px solid black;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    }
+
+    p{
+    text-align: left;
+    padding-left: 25%;
+    padding-right: 25%;
+    }
+
+    .image{
+    width: 750px;
+    height: 485px;
+    float: top;
+    }
+
+    fieldset{
+    border: 2px solid black;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    }
+
+    footer{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    margin-top: 10px;
+    text-align: center;
+    max-width:100%;
+    }
+
+    legend{
+        font-size: x-large;
+        font-weight: 1000px;
+    }
+
+    input{
+        width: 250px;
+    }
+    textarea {
+        width: 500px;
+        height: 200px;
+    }
+
+    #submit {
+        width: 70px;
+        height: 40px;
+        font-weight: bold;
+    }
+
+    a {
+    color: white;
+    text-decoration: none;
+    }
+   </style>
+   <body>
+    <header>
+        <h1><a href="all.html"><img src="UTM.png" width="100px" height="100px"><br>UTM News</a></h1>
+    </header>
+    <ul>
+        <li><a href="section.html">Home</a></li>
+        <li><a href="section.html">Sports</a></li>
+        <li><a href="section.html">Politics</a></li>
+        <li><a href="section.html">Local</a></li>
+        <li><a href="section.html">World</a></li>
+        <li><a href="section.html">Asia</a></li>
+        <li><a href="section.html">UK</a></li>
+        <li><a href="section.html">Business</a></li>
+        <li><a href="section.html">Health</a></li>
+        <li><a href="section.html">Travel</a></li>
+        <li><a href="section.html">Science</a></li>
+        <li><a href="section.html">Stories</a></li>
+        <li><a href="section.html">Entertainment & Arts</a></li>
+    </ul>
+    <div class="article">
+        <h1> Hungry art student eats iconic banana artwork at Korean museum</h1>
+        <hr><p style="text-align: center;">By <b>AGENCY</b><br>Monday, 01 May 2023 9:19 PM MYT</p>
+        <img class="image" src="https://apicms.thestar.com.my/uploads/images/2023/05/01/2050968.jpg" alt="News photo">
+        <p>Italian artist Maurizio Cattelan's iconic art piece - a ripe banana duct-taped onto a wall - on display at an art museum in Seoul, was eaten by a college student in an act which he described as "artwork."
+            <br><br>
+            The student ate the banana from Cattelan's Comedian at around 1pm, last Thursday. The work is part of Cattelan's solo exhibition WE currently running at the Leeum Museum of Art, according to the private museum.
+            <br><br>
+            At the exhibition showing some 38 works by Cattelan from the 1990s, the student took the banana from the piece, peeled it and ate it on site and then reattached only the banana peel back to the wall using the existing tape.
+            <br><br>
+            When the museum asked why he had eaten it, the student, who is an art major at Seoul National University, replied that he had skipped breakfast and was hungry.
+            <br><br>
+            In a phone interview later with a local broadcaster, the student confessed that he thought “damaging a work of modern art could also be (interpreted as a kind of) artwork,” adding that he came up with the idea to reattach the banana peel, thinking it was a fun way of looking at it.
+            <br><br>
+            Cattelan's banana is being replaced every two to three days, according to the artist's instructions, provided before the exhibition. The museum has decided not to claim damages against the student.
+            <br><br>
+            Meanwhile, this is not the first incident of its kind. In 2019, a performance artist named David Datuna took the banana from Comedian on display at the Perrotin at Art Basel in Miami minutes after it was sold for $120,000 and ate it. A video of Datuna eating the banana with great relish went viral on social media.</p>
+    </div>
+    
+
+    <fieldset>
+    <legend>Comment</legend>
+    <h4>Anonymous A</h4>
+    <p style="padding-left: 0%; padding-right: 0%;">This is not only a bizarre act of vandalism, but also a sign of desperation and hunger that should not be ignored. It's important to address the issue of food insecurity among students and artists, and find ways to support them.</p>
+    <h4>Anonymous B</h4>
+    <p style="padding-left: 0%; padding-right: 0%;">The fact that the banana artwork has become so iconic shows how absurd the art world can be at times. It's understandable that someone would want to question the value and meaning of such works, but eating it is not the way to do it.</p>
+    <h4>Anonymous C</h4>
+    <p style="padding-left: 0%; padding-right: 0%;">I can't help but wonder if this was all just a publicity stunt to draw attention to the museum and the artist. Regardless, it's a shame that the artwork was destroyed in such a disrespectful manner.</p>
+    <br>
+    <p style="padding-left: 0%; padding-right: 0%;"><em><b>Comment your opinion here:</b></em></p>
+    <table>
+        <tr>
+            <td><label for="title">Title : </label></td>
+            <td><input type="text" id="title" name="title"></td>
+        </tr>
+        <tr>
+            <td><label for="username">Username : </label></td>
+            <td><input type="text" id="username" name="username"></td>
+        </tr>
+        <tr>
+            <td><label for="comment">Comment : </label></td>
+            <td><textarea id="comment" name="comment"></textarea></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" id="submit" name="submit"></td>
+        </tr>
+    </table>
+    </fieldset>
+
+    </div>
+
+    <footer>© 2023 Group SEHC</footer>
+   </body>
+</html>
