@@ -442,8 +442,6 @@ IV. Other Expenses:<br>
 - Provide a detailed timeline for the project, including milestones and deadlines.
 - Specify the deliverables that will be provided at each milestone. It should also specify the expected time frame for each deliverable and the resources that will be required to complete the project.
 - Explain the quality assurance and testing procedures that will be followed.
-  
----
 <table>
   <thead>
     <tr>
