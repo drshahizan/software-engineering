@@ -13,13 +13,12 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ### Prepared by: Group Alpha
-  1. 
+  1. Salini Ravinthiran A22EC0267
   2. Nur Farah Adibah Binti Idris A22EC0245 
   3. Nur Aleysha Qurratu'aini Binti Mat Salleh A22EC0241
   4. Nadhrah NurSabrina Binti Zulaini A22EC0224
 
 ### Table of Contents
-- [Table of Contents](#table-of-contents)
 - [Executive Summary](#1-executive-summary)
 - [Background](#2-background)
 - [Objectives](#3-objectives)
