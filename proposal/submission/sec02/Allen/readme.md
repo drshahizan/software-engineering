@@ -3,30 +3,51 @@
 ## UTM ONLINE GRADING SYSTEM
 
 
-### Prepared by: Group Software
-  1. Name and matrix no
-  2. VINESH A/L VIJAYAKUMAR A22EC0290
-  3. NAVACHANDER NAVASANTAR
-  4. NAVASARATHY A/L S.GANESWARAN 
-  5. MUHAMMAD NUR AZHAR BIN MOHD YAZID A22EC0220
+### Prepared by: 
+  1. VINESH A/L VIJAYAKUMAR A22EC0290
+  2. NAVACHANDER NAVASANTAR A22EC0226
+  3. NAVASARATHY A/L S.GANESWARAN A22EC0091
+  4. MUHAMMAD NUR AZHAR BIN MOHD YAZID A22EC0220
 
 ### Table of Contents
-- [Table of Contents](#table-of-contents)
+- [Executive Summary](#1-executive-summary)
+- [Background](#2-background)
+- [Objectives](#3-objectives)
+- [Scope](#4-scope)
+- [Sofware Process Model](#5-software-process-model)
+- [Budget](#6-budget)
+- [System Architecture](#7-system-architecture)
+- [Risk Assessment](#8-risks-assessment)
+- [Resources](#9-resources)
+- [Technical Specification](#10-technical-specifications)
+- [Timeline and Deliverables](#11-timeline-and-deliverables)
+- [Conclusion](#12-conclusion)
   
 ### 1. Executive Summary
-- Start the proposal with a brief summary that highlights the main points of the project, including its goals, objectives, and expected outcomes.
+- The UTM online grading system is a project that seeks to enhance the grading process for students and faculty members at the University of Technology, Malaysia. The project's goal is to develop a digital platform that will enable real-time grading, monitoring of student progress, and generation of reports. The system will also provide students with access to their grades, schedules, and academic progress reports. By improving accuracy and fairness in grading, reducing administrative overheads, and enhancing the student experience, the project aims to increase academic performance, engagement, and satisfaction while improving overall institutional efficiency. Ultimately, the UTM online grading system will support the university's mission of delivering a high-quality education that prepares students for success in a rapidly evolving global economy.
 
 ### 2. Background:
-- The introduction should provide background information about the software project and the purpose of the proposal. 
-- It should also briefly describe the problem the software is meant to solve, the benefits it will provide, and its potential impact on the organization.
+- The UTM online grading system is a software project aimed at improving the grading process for students and faculty members at the University of Technology, Malaysia. The proposal seeks to address the challenges posed by the traditional paper-based grading system, such as delays and inaccuracies in grading, and difficulties in tracking student progress. 
+- The project aims to develop a digital platform that will streamline the grading process and provide benefits such as faster grading, greater transparency and accountability, and improved communication. By adopting a digital platform for grading and record-keeping, the university will become more efficient and better equipped to provide a high-quality education to its students in a rapidly evolving global economy.
 
 ### 3. Objectives:
-- The objectives section should clearly state the goals and objectives of the software project. It should describe the intended outcomes of the software and how it will address the problem it aims to solve. 
-- Objectives should be specific, measurable, achievable, relevant, and time-bound (SMART).
+- To develop a digital platform for real-time grading that improves accuracy, transparency, and accountability, reducing errors and delays associated with traditional paper-based grading systems.
+- To provide a centralized system for recording and tracking student progress, enabling faculty members to monitor academic performance and provide timely feedback to students.
+- To enable students to access their grades, schedules, and academic progress reports in real-time, improving their understanding of their progress and enhancing their learning experience.
+- To reduce administrative overheads associated with grading and record-keeping, allowing faculty members to focus on teaching and research activities, improving institutional efficiency and productivity.
+- To enhance the overall student experience by providing a modern, user-friendly interface for grading and record-keeping, improving engagement and satisfaction with the university's academic processes.
 
 ### 4. Scope: 
-- The scope section defines the boundaries of the project and outlines what features and functionality will be included in the software. 
-- It should also describe any limitations or constraints that may affect the project.
+- User Authentication: The system should allow instructors and students to authenticate themselves using their UTM credentials.
+- Grading Management: The system should allow instructors to create and manage grading components, such as assignments, quizzes, and exams, and assign grades to       
+  students for each component.
+- Grade Calculation: The system should automatically calculate and display final grades based on the grading components and their weightage, as well as handle any special grading policies, such as dropping the lowest grade.
+- Grade Submission: The system should allow instructors to submit grades to the university's official grading system.
+- Grade Viewing: The system should allow students to view their grades for each component, as well as their overall course grade.
+- Feedback and Communication: The system should allow instructors to provide feedback to students on their performance and communicate with them through the system.
+- Course Management: The system should allow instructors to manage their course details, such as course description, schedule, and syllabus.
+- Accessibility: The system should be accessible to users with disabilities, and support assistive technologies such as screen readers.
+- Security: The system should be designed with appropriate security measures to ensure the privacy and confidentiality of student information and grading data.
 
 ### 5. Software Process Model:
 This section describe the ideal software process model for this system development. The write-up must consist of:
@@ -49,63 +70,11 @@ This section describe the ideal software process model for this system developme
 - The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
 - It should also describe the plans and strategies to mitigate those risks.
 
-### 9. Resources
-The following are the resources required for creating an online grading system for a university especially UTM online grading system:
-
-1. Staff:
-- Project Manager: responsible for overseeing the project, managing resources, and ensuring the project is delivered on time and within budget.
-- Business Analyst: responsible for gathering and analyzing requirements, creating functional specifications, and identifying system requirements.
-- Developers: responsible for building and implementing the system.
-- Quality Assurance (QA) Analysts: responsible for testing the system and ensuring that it meets requirements and is bug-free.
-- Technical Writers: responsible for creating user manuals and system documentation.
-- User Experience (UX) Designers: responsible for creating an intuitive and user-friendly interface.
-
-2. Equipment:
-- Server infrastructure: a robust server infrastructure is required to host the grading system and ensure it can handle large volumes of traffic.
-- Network infrastructure: high-speed internet connectivity and network equipment to connect the system to the internet and the university network.
-- Workstations: computers for the development and QA teams.
-
-3. Software:
-- Programming languages: the system can be built using different programming languages and frameworks, depending on the preferences and expertise of the development team.
-- Database software: a database management system to store and manage student and grading data.
-- Web server software: to host the grading system and serve content to users.
-- Testing software: automated testing tools to ensure the system is free of bugs and errors.
-- Security software: firewalls, antivirus software, and other security measures to ensure the system is protected from cyber threats.
-
-4. Other Expenses:
-- Licensing fees: some software components may require licensing fees.
-- Training: training for staff members to ensure they are familiar with the system and can use it effectively.
-- Maintenance and support: ongoing maintenance and support to ensure the system remains secure, updated, and functional.
+### 9. Resources:
+- Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
 
 ### 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
-
-The following are the technical specifications for UTM online grading system:
-
-1. Data Source
-- Student data: including personal information, enrollment records, and academic performance data.
-- Faculty data: including personal information, course schedules, and grading records.
-- Course data: including course schedules, course descriptions, and prerequisites.
-
-2. Data Schema
-- The data schema for the grading system would need to include tables for student information, course information, enrollment records, grading records, and other relevant data.
-
-3. Data Transformations
-- Data transformations may be necessary to ensure the data is clean, consistent, and in the appropriate format for analysis. For example, data may need to be transformed to ensure it is compatible with the database management system being used.
-
-4. Machine Learning Algorithms
-- Machine learning algorithms can be used to analyze student data and identify patterns and trends. For example, clustering algorithms could be used to group students based on their academic performance, while regression algorithms could be used to predict future grades.
-
-5. Data Visualization Tools
-- Data visualization tools can be used to display grading data in a visually appealing and easily understandable format. For example, graphs and charts could be used to show the distribution of grades for a particular course or to compare the performance of different students.
-
-6. Other Technical Details
-
-- Database Management System: a robust database management system would be required to store and manage student and grading data.
-- Web Development Framework: a web development framework would be used to build the front-end of the grading system.
-- Server Infrastructure: a robust server infrastructure would be required to host the grading system and ensure it can handle large volumes of traffic.
-- Security Measures: robust security measures would need to be in place to protect the system from cyber threats and ensure student data remains secure.
-- belum buat
 - Mention the programming languages, frameworks, and libraries that will be used in the project.
 - Provide details about the hardware and software requirements for the proposed system.
 - Explain the data security measures that will be implemented.
