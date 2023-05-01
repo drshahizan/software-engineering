@@ -63,8 +63,7 @@ To address the problem of limited access and awareness of campus events, and to 
 To complete the aforementioned goals within the upcoming two months and keep track of and continuously assess the system's effectiveness and impact.
 
 ### 4. Scope: 
-- The scope section defines the boundaries of the project and outlines what features and functionality will be included in the software. 
-- It should also describe any limitations or constraints that may affect the project.
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Curiousity/Project%20Scope.png?raw=true" alt="Scope"></img>
 
 ### 5. Software Process Model:
 A software process model's main objective is to offer a framework for the systematic and organised development of software. It offers a collection of tasks, products, and deadlines to make sure the software is created quickly and effectively. A software process model's main objective is to make sure that the software is high-quality, delivered on time, and within budget while also meeting the requirements of the stakeholders.
