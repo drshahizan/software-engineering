@@ -193,14 +193,15 @@ The proposed architecture for the Student Accommodation System project at Kolej 
 
 #### Data Storage and Management:
 #### Hardware and Software Requirements:
+  
 Hardware and software requirements are crucial components of our proposed system architecture. Managing the KTDI's student accomodation system's hardware and software requirements could be done as follows:
-  i. Hardware requirements -><br>
-  - 
-  ii. Software requirements -><br>
-  - React.js as the font-end JavaScript library for development of interactive website user interface.
-  - Bootstrap as the framework used for web application creation.
-  - R studio as the data representation tool.
-  - 
+i. Hardware requirements 
+- 
+ii. Software requirements 
+- React.js as the font-end JavaScript library for development of interactive website user interface.
+- Bootstrap as the framework used for web application creation.
+- R studio as the data representation tool.
+- 
 #### Data security and privacy
 #### Data Analysis and Visualization:
 #### System Architecture Diagram:

@@ -16,7 +16,7 @@ Don't forget to hit the :star: if you like this repo.
   1. MUHAMMAD DANIEL HAKIM BIN SYAHRULNIZAM (A22EC0207)
   2. MUHAMMAD ARIFF DANISH BIN HASHNAN (A22EC0204)
   3. MUHAMMAD IMAN FIRDAUS BIN BAHARUDDIN (A22EC0216 )
-  4. MUHAMMAD SAFWAN BIN MOHD AZMI (A22EC0221)
+  4. MUHAMMAD SAFWAN BIN MOHD AZMI ( )
   5. CHE MARHUMI BIN CHE AB RAHIM ( )
 
 ### Table of Contents
@@ -145,8 +145,40 @@ It's essential to note that these are just estimates, and the actual cost may va
 
 
 ## 7. System Architecture:
+Case Diagram of Food Ordering System at UTM:
 
+![image](https://user-images.githubusercontent.com/129138344/235473667-dc36d5a2-8026-4b8d-80ff-711d471ef2b3.png)
+The Customer actor can perform the following use cases:
 
+- Register/Login: This use case allows the Customer to register or login to their account.
+- Browse menu: This use case allows the Customer to browse the available menu items.
+- Place order: This use case allows the Customer to place an order.
+- Modify order: This use case allows the Customer to modify an order they have already placed.
+- Cancel order: This use case allows the Customer to cancel an order they have already placed.
+- View order status: This use case allows the Customer to view the status of an order they have placed.
+
+The Admin actor can perform the following use cases:
+
+- Manage menu: This use case allows the Admin to add, remove, or modify menu items.
+- Manage orders: This use case allows the Admin to view and manage the orders that have been placed by the customers.
+
+### Client side: 
+This component represents the user interface that customers will interact with. It could be a mobile application or a web application. The client side will provide the customer with options to browse the menu, place an order, view order history, and perform other related activities.
+
+### Server side: 
+This component represents the server that will handle all the requests from the client side. It will be responsible for processing the order, updating the menu, sending notifications, and other related activities. The server side can be divided into three layers:
+
+a. Presentation layer: This layer is responsible for rendering the user interface for the client side. It handles all the user interactions, receives the user's input, and sends the input to the next layer for processing.
+
+b. Application layer: This layer is responsible for processing the user's input received from the presentation layer. It contains all the business logic required to handle the user's request, including checking for available stock, calculating the total cost, updating the database, and generating the order confirmation.
+
+c. Data layer: This layer is responsible for managing the data that the system uses, including the menu items, customer details, order history, and other related information. It interacts with the database to store and retrieve data.
+
+### Database: 
+This component represents the database that the system uses to store and retrieve data. It will store all the information related to the menu items, customer details, order history, and other related information. The database can be a Relational Database Management System (RDBMS) or a NoSQL database, depending on the specific requirements of the system.
+
+### Third-party integrations: 
+This component represents any third-party services or tools that the system uses, such as payment gateways, email services, or contact services. The system can integrate with these services to provide additional functionality and enhance the user experience.
 
 ## 8. Risks Assessment:
 
@@ -175,28 +207,12 @@ Total Estimated Cost: RM
 > Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
 
 ## 10. Technical Specifications:
-- Platform: The system should be web-based and accessible from any device with an internet connection, such as desktops, laptops, tablets, and smartphones. The system should be compatible with multiple operating systems and web browsers.
-
-- Programming languages and technologies: The system can be built using a combination of technologies such as HTML, CSS, JavaScript, PHP, Python, and MySQL. The system can also use frameworks such as Laravel, React, Angular, and Vue.js.
-
-- User Interface: The user interface should be easy to navigate and visually appealing, with features such as menus, search bars, and order tracking. The system can use responsive web design to optimize the user experience on different devices.
-
-- Payment Gateway: The system should support different payment methods such as qr pay, online banking , and digital wallets. It should also integrate with a secure payment gateway to ensure the security of customer transactions.
-
-- Order Management System: The system should have an order management system that allows restaurants to manage their orders, such as confirming orders, updating the status of orders, and sending notifications to customers.
-
-- Integration: The system should have the capability to integrate with third-party services such as social media platforms and payment services to provide a seamless user experience.
 
 
 ## 11. Timeline and Deliverables: 
 
 
 ## 12. Conclusion:
-In conclusion, a food ordering system is an essential tool that can help restaurants and customers streamline their food ordering process. By using a web-based platform with an intuitive user interface, the system can provide customers with an easy and convenient way to order food from their favorite restaurants.
-
-The system can also help restaurants manage their orders efficiently, reducing the workload of staff and improving the accuracy of orders. Additionally, by integrating with third-party services such as social media platforms and payment services the system can provide a seamless user experience.
-
-Overall, a food ordering system can help businesses increase their sales, improve customer satisfaction, and reduce operational costs. With the right technical specifications and features, a food ordering system can be an excellent investment for any restaurant looking to stay competitive in today's digital marketplace.
 
 
 ## Contribution 🛠️
