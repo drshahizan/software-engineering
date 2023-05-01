@@ -212,7 +212,7 @@ ii. Software requirements
   
 #### Data Analysis and Visualization:
 - Data analysis tools: We will use R programming language (R Studio) and Microsoft Excel to clean and preprocess the data, perform statistical analysis, and create data models.
-- Data visualization tools: We will use D3.js, and Chart.js to create interactive charts and graph with visualizations to represent data in a meaningful way.
+- Data visualization tools: We will use D3.js and Chart.js to create interactive charts and graph with visualizations to represent data in a meaningful way.
 - Business intelligence (BI) tools: We will use Tableau, PowerBI to perform advanced analytics, create reports, and generate insights from the data.
 
 #### System Architecture Diagram:
