@@ -27,14 +27,14 @@ Don't forget to hit the :star: if you like this repo.
 - [Sofware Process Model](#5-software-process-model)
 - [Budget](#6-budget)
 - [System Architecture](#7-system-architecture)
-- [Risk Assessment](#8-risk-assessment)
+- [Risks Assessment](#8-risks-assessment)
 - [Resources](#9-resources)
-- [Technical Specification](#10-technical-specification)
+- [Technical Specification](#10-technical-specifications)
 - [Timeline and Deliverables](#11-timeline-and-deliverables)
 - [Conclusion](#12-conclusion)
 
 
-### 1. Executive Summary:
+### 1. Executive Summary
 The Student Accommodation System proposal for Kolej Tun Dr Ismail (KTDI) is aimed at addressing the challenges that students and staff face when managing student accommodation. The current process for applying for and managing accommodation is unintegrated and time-consuming, which can result in delays, errors, and frustration for students and staff alike.
 
 To address these challenges, the proposed software system will provide an online platform that allows students to apply for accommodation, make payments, and track the status of their application. KTDI staff will be able to manage room availability and allocation, communicate with students, and access relevant data and reports through a centralized dashboard.
@@ -45,7 +45,7 @@ The expected outcomes of the project include improved students and also KTDI sta
 
 ---
   
-### 2. Background:
+### 2. Background
 The student accommodation system is an essential aspect of managing student life on a university campus. It automates the process of assigning student room and ensures that students are placed in suitable accommodations that meet their needs and preferences. The system is vital in providing a comfortable and safe living environment for students, promoting their academic success and overall well-being. However, the current unintegrated and unorganised system in KTDI can be time-consuming, prone to error and inconsistencies, leading to inefficiencies in the room application and management process and a poor user experience for both students and administrators.
 
 Our proposed student accommodation system is focused to overcome these challenges via devloping a modern, spontaneous automated system that streamline the room rentaling and managing process. To provide students, staff, and administrators with a seamless user experience, the proposed system makes advantage of the most recent technology and best practises. The developed system will provide an efficient and effective way for students to apply for hostel online based on their selections and for administrators to allocate housing quickly and accurately.
@@ -56,7 +56,7 @@ The student accommodation system features offer significant benefits for the uni
   
 ---
 
-### 3. Objectives:
+### 3. Objectives
 Our proposed student accommodation system aims to achieve the following objectives:
 
 1. **Specific:** Create an automated system for home allocation that cuts the time needed by 50%.<br>
@@ -87,7 +87,7 @@ These SMART objectives for our introduced student accommodation system in KTDI a
   
 ---
 
-### 4. Scope: 
+### 4. Scope
 The scope of the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) refers to the boundaries or limits of the project, defining what elements the system will and won't have. It outlines the features and functionalities of the system, including its goals, objectives and requirements as well as the expected outcomes and benefits. Here are more detailed explanations of the features and functionality of a student accommodation system:
 
 - Student registration: <br>By entering their personal information, academic information, and housing preferences, students can register as users in the system using the student registration tool. Before letting a student register, the system should confirm their identity and determine whether they qualify for accommodations.
@@ -122,7 +122,7 @@ In conclusion, we can establish the foundation for the project plan, which outli
 
 ---
 
-### 5. Software Process Model:
+### 5. Software Process Model
 <!-- ***Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. *** -->
   
 The software process model's goal is to offer a structured and well-organized method for developing software. It aids in making certain that the software is delivered on schedule, within budget, and in accordance with the needs and expectations of the stakeholders.
@@ -229,7 +229,7 @@ In conclusion, the Agile methodology is an effective software process model for 
 
 ---
 
-### 6. Budget:
+### 6. Budget
 The development of the student accommodation system in Kolej Tun Dr Ismail (KTDI) for around 2,000 users within a semester will involve various costs, including hardware, software, personnel, testing and contigency. The estimated expenditure for this project is RM 1,560,000, as stated in the following manner: 
  
 - Hardware: RM 500,000<br>
@@ -251,7 +251,7 @@ In shorts, the expected budget for the development of the student accommodation 
 
 ---
 
-### 7. System Architecture:
+### 7. System Architecture
   
 #### System Architecture Overview:
 The proposed architecture for the Student Accommodation System project at Kolej Tun Dr Ismail will consist of three layers: the presentation layer, the application layer, and the data layer.
@@ -328,7 +328,7 @@ High-level diagram that represents our proposed system architecture:
   
 ---
 
-### 8. Risks Assessment:
+### 8. Risks Assessment
 
 A project, programme, or organization's potential risks must be identified, evaluated, and prioritised as part of the risk assessment process. It is a crucial component of risk management, which seeks to reduce the likelihood and effect of prospective dangers. Both quantitative and qualitative ways of expressing the outcomes of this procedure are possible. To help minimise any potential risk-related repercussions, risk assessment is a necessary component of a larger risk management plan.
 
@@ -371,7 +371,7 @@ In general, it's crucial to recognise and reduce these risks if we want the KTDI
 
 ---
 
-### 9. Resources:
+### 9. Resources
 I. Staff Resources:<br>
 - Project Manager: Dr Mohd Shahizan Othman<br>Responsible for overall management, planning, and coordination of the project.
   
@@ -410,7 +410,7 @@ IV. Other Expenses:<br>
 
 ---
 
-### 10. Technical Specifications:
+### 10. Technical Specifications
 - Data Sources:<br> Data on students, available rooms, room allocation, payment transactions, maintenance requests, and communication logs may need to be gathered and stored by the system. These data sources might include a mix of streamed data from payment gateways or messaging platforms, unstructured data from chat logs, and structured data from databases.
   
 - Data Schema:<br>The system's required functionality, such as user identification and authorisation, hotel reservations, payment processing, room allocation, room management, communication features, and reporting, should be supported by the data schema. The schema ought to be created to make it simple to access and retrieve the data.
@@ -424,28 +424,28 @@ IV. Other Expenses:<br>
 - Programming Languages, Frameworks, and Libraries:<br> Developers utilise Bootstrap as framework, PHP for the backend, HTML, CSS and JavaScript with React for the frontend and Matplotlib for data processing and visualisation for the Kolej Tun Dr Ismail (KTDI) student accommodation system. These technologies are helpful to developers since they are well-documented and frequently used in the field.
   
 - Hardware and software requirements
- i. Hardware Requirements:<br>
+ <ul>i. Hardware Requirements:<br>
   •	A computer with a processor of at least 2 GHz or higher<br>
   •	A minimum of 8 GB RAM<br>
   •	Sufficient storage space to store the system files and database<br>
-  •	A stable internet connection
+  •	A stable internet connection<br>
   
  ii. Software Requirements:<br>
   •	An operating system such as Windows, Linux, or macOS<br>
-  •	A code editor such as Visual Studio Code
+  •	A code editor such as Visual Studio Code</ul>
   
 - Data security:<br> Several steps that can be taken to ensure the security of the Kolej Tun Dr Ismail (KTDI) Student Accommodation System, including secure login procedures, data encryption, routine backups, and disaster recovery plans. The most recent security patches for software and applications should be continuously updated to fix vulnerabilities. Users should be instructed on the best data security practises, which a user guideline will be provided by us and the system can be protected by putting in place physical security measures.
 
 ---
 
-### 11. Timeline and Deliverables: 
+### 11. Timeline and Deliverables
 - Provide a detailed timeline for the project, including milestones and deadlines.
 - Specify the deliverables that will be provided at each milestone. It should also specify the expected time frame for each deliverable and the resources that will be required to complete the project.
 - Explain the quality assurance and testing procedures that will be followed.
   
 ---
 
-### 12. Conclusion:
+### 12. Conclusion
 
 In conclusion, the suggested Student Accommodation System is a crucial remedy for Kolej Tun Dr Ismail (KTDI) staff and student problems in handling student housing. The technology intends to improve data analytics, automate processes, streamline the room allocation process, and give students a better user experience. The suggested technique has the advantages of better student satisfaction, enhanced staff productivity, and an overall more dependable and effective system.
 
