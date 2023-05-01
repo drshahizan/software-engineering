@@ -58,6 +58,23 @@ There are several benefits of using system modeling in software engineering, inc
 
 Overall, system modeling is an essential activity in software engineering that can help ensure that software systems meet the needs of stakeholders and are developed efficiently and effectively.
 
+## Existing and Planned System Models
+
+In software engineering, system modeling involves the creation of abstract representations of a software system. There are two types of system models: existing and planned.
+
+An existing system model represents a software system that is currently in use. This type of model is created to document the behavior, structure, and interactions of the existing system. It can be used to identify potential issues and areas for improvement, as well as to help stakeholders understand the current system.
+
+A planned system model represents a software system that is in the design or development phase. This type of model is created to document the requirements, design decisions, and trade-offs of the planned system. It can be used to communicate the system design to stakeholders and to ensure that the system meets the requirements.
+
+Let's consider a case study of a university academic course registration system to better understand how existing and planned system models are used in software engineering.
+
+### Existing System Model:
+An existing system model of the university academic course registration system would document how the current system works, including its behavior, structure, and interactions. It would include information on how students currently register for courses, how the system handles conflicts, how grades are recorded, and how instructors manage their courses. This model can be used to identify any pain points or issues with the current system and to inform the design of a new system.
+
+### Planned System Model:
+A planned system model of the university academic course registration system would document the requirements and design decisions for a new registration system. This model would include information on the user requirements, system architecture, data models, and interface design. For example, the planned system model might include information on how the new system will handle course prerequisites, how it will prevent conflicts, how it will integrate with the university's student information system, and how it will provide feedback to students during the registration process.
+
+Overall, system modeling is a critical aspect of software engineering, and both existing and planned system models are essential for developing effective software systems. In the case of a university academic course registration system, these models can help ensure that the new system meets the needs of students, faculty, and staff, and that it is easy to use and maintain over time.
 | No | Part | Description |
 | --- | --- | --- |
 | 1 | [Requirements Engineering Introduction](p1-intro.md) | Introduction to the process of requirements engineering and its importance in software development. Discusses different stakeholders involved in the process and their roles and responsibilities. |
