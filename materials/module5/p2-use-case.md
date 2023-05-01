@@ -407,6 +407,34 @@ note left of (Delete Course) : Allows the admin to remove a course from the syst
 <img src="ucd-n-s.png"  width="600" />
 </p>
 
+## Use Case Description
+A use case diagram is a visual representation of the system's functionality and the actors that interact with it. It describes the interactions between the system and its actors, as well as the use cases that the actors can initiate. In the context of the university academic course registration system, the following use cases can be identified:
+
+I apologize for the misunderstanding. Here is the table format for the use case description:
+
+| Use Case ID | UC001 |
+| --- | --- |
+| Use Case Name | Enroll in Course |
+| Actor(s) | Student |
+| Preconditions | - The student is registered in the system.<br>- The student has selected a course to enroll in.<br>- The course has available slots. |
+| Flow of Events | 1. Student selects the course to enroll in.<br>2. System verifies that the course has available slots.<br>3. System adds the student to the course roster.<br>4. System updates the student's schedule with the new course.<br>5. System confirms successful enrollment to the student. |
+| Postconditions | - The student is enrolled in the course.<br>- The course roster is updated.<br>- The student's schedule is updated.<br>- The student receives confirmation of successful enrollment. |
+
+
+| Use Case ID | UC-02                                                |
+|-------------|------------------------------------------------------|
+| Use Case    | Drop Course                                          |
+| Actors      | Student                                              |
+| Preconditions | The student is registered in at least one course. |
+| Flow of Events | 1. The student selects the course to drop.          |
+|               | 2. The system verifies the student's enrollment in the course. |
+|               | 3. The system removes the course from the student's schedule. |
+|               | 4. The system notifies the student of the successful course drop. |
+| Postconditions | The selected course is dropped from the student's schedule. |
+|                | The student is notified of the successful course drop. | 
+
+> UC-02 (Drop Course) is a use case in the university academic course registration system that enables a student to drop a course from their schedule. The student is the actor for this use case, and the precondition is that the student is already registered in at least one course. The flow of events involves the student selecting the course to drop, the system verifying the enrollment, removing the course from the schedule, and notifying the student of the successful course drop. The postconditions are that the selected course is dropped from the student's schedule, and the student is notified of the successful course drop.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
