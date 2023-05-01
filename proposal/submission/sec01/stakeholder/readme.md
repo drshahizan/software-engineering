@@ -229,10 +229,22 @@ IV. Other Expenses:
 - Cloud Hosting Fees: Cloud service such as Google Cloud.
 
 ### 10. Technical Specifications:
-- Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
-- Mention the programming languages, frameworks, and libraries that will be used in the project.
-- Provide details about the hardware and software requirements for the proposed system.
-- Explain the data security measures that will be implemented.
+- Data Sources:<br> Data on students, available rooms, room allocation, payment transactions, maintenance requests, and communication logs may need to be gathered and stored by the system. These data sources might include a mix of streamed data from payment gateways or messaging platforms, unstructured data from chat logs, and structured data from databases.
+- Data Schema:<br>The system's required functionality, such as user identification and authorisation, hotel reservations, payment processing, room allocation, room management, communication features, and reporting, should be supported by the data schema. The schema ought to be created to make it simple to access and retrieve the data.
+- Data Transformations:<br> In order to guarantee the data's accuracy, consistency, and completeness, the system might need to alter it. Validating payment transactions, updating room availability, creating user accounts, and producing reports are a few examples of transformations. A number of technologies, including computer languages like Python, R, and SQL, could be used to do these modifications.
+- Machine Learning Algorithms:<br> The KTDI Student Accommodation System may not immediately benefit from the use of machine learning methods. However, the system could use decision trees or rule-based algorithms to assign rooms in accordance with student preferences and accessibility.
+- Data Visualization Tools:<br> For the management team to receive insights or trends, the system may need to produce data visualisations. These visualisations could show patterns in maintenance requests, payment transaction trends, or occupancy rates. To make these visualisations, one may use programmes like Tableau or Power BI.
+- Programming Languages, Frameworks, and Libraries:<br> Developers  utilise Python for the backend, JavaScript with React for the frontend and Matplotlib for data processing and visualisation for the Kolej Tun Dr Ismail (KTDI) student accommodation system. These technologies are helpful to developers since they are well-documented and frequently used in the field.
+- Hardware and software requirements<br>
+Hardware Requirements:<br>
+  •	A computer with a processor of at least 2 GHz or higher<br>
+  •	A minimum of 8 GB RAM<br>
+  •	Sufficient storage space to store the system files and database<br>
+  •	A stable internet connection<br>
+ Software Requirements:<br>
+  •	An operating system such as Windows, Linux, or macOS
+  •	A code editor such as Visual Studio Code
+- Data security:<br> Several steps that can be taken to ensure the security of the Kolej Tun Dr Ismail (KTDI) Student Accommodation System, including secure login procedures, data encryption, routine backups, and disaster recovery plans. The most recent security patches for software and applications should be continuously updated to fix vulnerabilities. Users should be instructed on the best data security practises, and the system can be protected by putting in place physical security measures. 
 
 ### 11. Timeline and Deliverables: 
 - Provide a detailed timeline for the project, including milestones and deadlines.
