@@ -38,6 +38,8 @@
 - To enhance the overall student experience by providing a modern, user-friendly interface for grading and record-keeping, improving engagement and satisfaction with the university's academic processes.
 
 ### 4. Scope: 
+![Screenshot (12)](https://user-images.githubusercontent.com/128279581/235497036-561d13d0-1bf0-4de7-b042-b2b3a10bdd1e.png)
+
 - User Authentication: The system should allow instructors and students to authenticate themselves using their UTM credentials.
 - Grading Management: The system should allow instructors to create and manage grading components, such as assignments, quizzes, and exams, and assign grades to       
   students for each component.
