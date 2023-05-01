@@ -83,11 +83,14 @@ Here is the list of the risks being discussed :
 
 -system crash
 
-2.Resource risk :
+ 2.Resource risk :
+
 -short of resource
 
-3.Requirement risk :
+ 3.Requirement risk :
+
 -misscomunication
+
 -requirement changing or adding
 
 We could prevent this risk from happen by 
