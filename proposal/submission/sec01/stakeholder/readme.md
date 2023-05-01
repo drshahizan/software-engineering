@@ -199,10 +199,10 @@ Hardware and software requirements are crucial components of our proposed system
 #### System Architecture Diagram:
 The proposed system architecture can be visualized using the following flowchart:
 ```java  
-USER INTERFACE
+USER INTERFACE (Bootstrap/Html/css/JavaScript)
   |
   V
-WEB APPLICATION SERVER (Node.js/Express)
+WEB APPLICATION SERVER (Apache)
   |
   V
 DATABASE SERVER (MySQL)
