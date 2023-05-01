@@ -198,16 +198,17 @@ The proposed student accommodation system will follow a three-tier architecture,
   - 
 ## System Architecture Diagram:
 The proposed system architecture can be visualized using the following flowchart:
-  
+```java  
 USER INTERFACE
   |
   V
-APPLICATION SERVER (Node.js/Express)
+WEB APPLICATION SERVER (Bootstrap)
   |
   V
 DATABASE SERVER (MySQL)
-  
+``` 
 High-level diagram that represents our proposed system architecture:
+```sql
   +----------------------------------------------------+
 |                 Relational Database                |
 +----------------------------------------------------+
@@ -227,7 +228,7 @@ High-level diagram that represents our proposed system architecture:
 |                User-Facing Interfaces              |
 |                (Mobile & Web Applications)         |
 +----------------------------------------------------+
-  
+``` 
   
 ---
 
