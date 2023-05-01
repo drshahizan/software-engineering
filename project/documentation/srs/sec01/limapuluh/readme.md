@@ -71,7 +71,7 @@ Don't forget to hit the :star: if you like this repo.
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 01/01/2023 | Dr MSO | Project Manager | Create project plan | Complete |
-| 2 | 01/05/2023 | LIM JING YONG | Documentation Specialist | Distribute proposal planning | Partially Complete | 
+| 2 | 01/05/2023 | LIM JING YONG | Documentation Specialist | Distribute proposal planning | Complete | 
 | 3| | | | | |
 | 4| | | | | |
 | 5| | | | | |
