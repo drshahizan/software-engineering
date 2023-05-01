@@ -37,26 +37,32 @@ There are several techniques and tools that can be used for requirements modelin
 
 Requirements modeling is critical to the success of a software project as it helps ensure that the software system meets the needs of its users and stakeholders. It also helps to prevent costly rework by identifying issues early in the development cycle.
 
-System modeling in software engineering refers to the process of creating abstract representations of a software system that help stakeholders understand its behavior, structure, and interactions. System models can be used to communicate requirements, design decisions, and trade-offs among project team members, customers, and other stakeholders. System modeling is an iterative process that involves several stages, including:
+## System modeling in software engineering
+System modeling in software engineering refers to the process of creating abstract representations of a software system that help stakeholders understand its behavior, structure, and interactions. The university academic course registration system is an example of a software system that can benefit from system modeling.
 
-1. Requirements analysis: During this stage, the requirements of the software system are analyzed and documented. This may include identifying the functional and non-functional requirements, constraints, assumptions, and dependencies.
+System modeling for the university academic course registration system involves several stages, including:
 
-2. Design: During this stage, the high-level design of the system is created, including the architecture, components, interfaces, and interactions. System modeling techniques such as block diagrams, data flow diagrams, and sequence diagrams may be used to represent the design.
+1. Requirements analysis: During this stage, the requirements of the registration system are analyzed and documented. This may include identifying the functional and non-functional requirements, constraints, assumptions, and dependencies.
 
-3. Implementation: During this stage, the design is implemented in code, and the software system is tested to ensure that it meets the requirements.
+2. Design: During this stage, the high-level design of the registration system is created, including the architecture, components, interfaces, and interactions. System modeling techniques such as block diagrams, data flow diagrams, and sequence diagrams may be used to represent the design.
 
-4. Maintenance: After the software system is deployed, it requires ongoing maintenance and updates to address bugs, security issues, and changes in requirements.
+3. Implementation: During this stage, the design is implemented in code, and the registration system is tested to ensure that it meets the requirements.
 
-## System modeling in Software Engineering
-There are several benefits of using system modeling in software engineering, including:
+4. Maintenance: After the registration system is deployed, it requires ongoing maintenance and updates to address bugs, security issues, and changes in requirements.
 
-1. Better communication: System models provide a visual representation of the software system, which can help stakeholders better understand its behavior, structure, and interactions. This can lead to more effective communication among project team members, customers, and other stakeholders.
+In the case of the university academic course registration system, the system modeling would involve understanding the registration process from the perspective of different stakeholders, including students, faculty, and staff. The modeling would need to consider how students search for courses, how they register for courses, how the system handles conflicts, how grades are recorded, and how instructors manage their courses.
 
-2. Improved quality: System models can help identify potential issues and inconsistencies in the software system design before implementation. This can help reduce errors and improve the overall quality of the software system.
+The system modeling for the university academic course registration system might include the following components:
 
-3. Increased efficiency: System models can help identify opportunities for optimization and improvement in the software system design. This can lead to more efficient software systems that are easier to maintain and update over time.
+1. Use Case Diagrams: These diagrams would show the different actors (e.g. students, faculty, staff) and their interactions with the registration system.
 
-Overall, system modeling is an essential activity in software engineering that can help ensure that software systems meet the needs of stakeholders and are developed efficiently and effectively.
+2. Data Flow Diagrams: These diagrams would show how data flows through the registration system, including how courses are added to the system, how students search for courses, and how conflicts are resolved.
+
+3. Sequence Diagrams: These diagrams would show how different interactions between the user and the registration system occur in a step-by-step manner.
+
+4. Class Diagrams: These diagrams would show the different classes and objects involved in the registration system and how they interact with each other.
+
+Overall, system modeling is an essential activity in software engineering that can help ensure that software systems meet the needs of stakeholders and are developed efficiently and effectively. In the case of the university academic course registration system, system modeling can help ensure that the new system meets the needs of students, faculty, and staff, and that it is easy to use and maintain over time.
 
 ## Existing and Planned System Models
 
