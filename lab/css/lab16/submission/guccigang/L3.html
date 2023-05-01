@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <style>
+        body {
+            background-image: linear-gradient(to bottom, white, #28E8C0);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 100% 100%;
+            display: flex;
+            justify-content: center;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+
+        .login-box {
+            display: grid;
+            color: white;
+            padding: 40px 30px;
+            background-color: #307365;
+            border-radius: 10px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: max-content;
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+        .user-box {
+
+            display: grid;
+            justify-content: center;
+            align-items: center;
+        }
+
+        label {
+            text-align: left;
+            position: absolute;
+            margin-bottom: 30px;
+            z-index: -1;
+        }
+
+        input {
+            color: white;
+            outline: none;
+            border: none;
+            border-bottom: 1px solid white;
+            background-color: transparent;
+            padding: 5px;
+            margin-bottom: 30px;
+            width: 250px;
+            z-index: 1;
+        }
+
+
+        input:valid~label,
+        input:focus~label {
+            font-size: 10px;
+            color: aqua;
+            transition: 0.5s;
+            transform: translateY(-20px);
+        }
+
+        a {
+            display: inline-block;
+            text-transform: uppercase;
+            color: #16C4C8;
+            text-decoration: none;
+            font-size: 12px;
+            letter-spacing: 3px;
+            margin-top: 20px;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-align: center;
+            border: hidden;
+            transition: 0.5s;
+            bottom: 20px;
+
+        }
+
+        a:hover {
+            color: white;
+            background-color: rgb(11, 246, 246);
+            box-shadow: 10px aqua;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="login-box">
+        <h2>Login</h2>
+        <form>
+            <div class="user-box">
+                <input type="text" name="" required="" />
+                <label>Username</label>
+            </div>
+            <div class="user-box">
+                <input type="password" name="" required="" />
+                <label>Password</label>
+            </div>
+            <a href="#">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                Submit
+            </a>
+        </form>
+    </div>
+</body>
+
+</html>

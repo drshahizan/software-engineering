@@ -1,0 +1,47 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto 1fr 1fr 1fr 1fr;
+    height:100vh;
+    grid-gap:30px;
+    border: 5px solid black; 
+    padding-bottom:70px;
+  }
+
+  .header{
+    grid-column: 1/4;
+    border-bottom: 5px solid black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 5px;
+  }
+
+  .content1{
+    grid-column: 1/4; 
+    grid-row: 2/3;
+    background-color: rgb(147, 115, 171);
+    border: 5px solid black;
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 150px;
+  }
+
+  .content2{
+    grid-row: 3/span 6; 
+    background-color:  rgb(240, 110, 110);
+    border: 5px solid black;
+    margin-left: 30px;
+  }
+
+  .content3{
+    grid-row: 3/span 6; 
+    background-color: rgb(132, 192, 132);
+    border: 5px solid black;
+  }
+
+  .content4{
+    grid-row: 3/span 6; 
+    background-color: rgb(238, 162, 21);
+    border: 5px solid black;
+    margin-right: 30px;
+  }
+

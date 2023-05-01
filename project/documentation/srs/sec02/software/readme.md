@@ -17,20 +17,24 @@ Don't forget to hit the :star: if you like this repo.
     <th>Role</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td></td>
+    <td>1.  Lee Yik Hong</td>
+    <td>User Experience Designer</td>
   </tr>
     <tr>
-    <td>3</td>
-    <td></td>
+    <td>2. Koh Su Xuan</td>
+    <td>Quality Assurance Tester</td>
   </tr>
     <tr>
-    <td>4</td>
-    <td></td>
+    <td>3. Tang Yan Qing</td>
+    <td>Documentation Specialists</td>
+  </tr>
+    <tr>
+    <td>4. Goh Jiale</td>
+    <td>Main Developer</td>
+  </tr>
+    <tr>
+    <td>5. Ong Yi Yan</td>
+    <td>Requirements Analyst</td>
   </tr>
 </table>
 
@@ -43,26 +47,26 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>1. Dr. Mohd Firdaus Akmal bin Azman</td>
+    <td>PKU Staff</td>
+    <td>Medical Officer</td>
+    <td>Provides idea for design, functionality, content, compliance, and provides training and support.</td>
   </tr>
     <tr>
-    <td>2</td>
-    <td></td>
+    <td>2. Puan Nazlin</td>
+    <td>Administrator</td>
     <td></td>
     <td></td>
   </tr>
     <tr>
     <td>3</td>
-    <td></td>
+    <td>Student</td>
     <td></td>
     <td></td>
   </tr>
 </table>
 
-## Tasks involved in developing SRC documentation:
+## Tasks involved in developing SRS documentation:
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
