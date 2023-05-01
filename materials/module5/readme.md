@@ -9,8 +9,10 @@ Don't forget to hit the :star: if you like this repo.
 
 # Module 5: Requirements Analysis and modelling ME
 
+## Requirements modeling
 Requirements modeling is a crucial activity in software engineering that involves the identification, analysis, specification, and validation of the requirements of a software system. It is a systematic approach to capture the needs and expectations of stakeholders and translate them into a form that can be used to design, develop, and test a software product.
 
+### Requirements modeling process
 The requirements modeling process typically involves the following steps:
 
 1. Requirements Elicitation: The process of gathering information from stakeholders about their needs, expectations, and goals. This can be done through interviews, surveys, focus groups, and other methods.
@@ -20,6 +22,8 @@ The requirements modeling process typically involves the following steps:
 3. Requirements Specification: The process of documenting the requirements in a clear and unambiguous form, using techniques such as use cases, user stories, and formal specifications.
 
 4. Requirements Validation: The process of verifying that the specified requirements are complete, correct, and consistent, and that they meet the needs of stakeholders.
+
+### Tools for requirements modeling
 
 There are several techniques and tools that can be used for requirements modeling, including:
 
@@ -33,8 +37,26 @@ There are several techniques and tools that can be used for requirements modelin
 
 Requirements modeling is critical to the success of a software project as it helps ensure that the software system meets the needs of its users and stakeholders. It also helps to prevent costly rework by identifying issues early in the development cycle.
 
+System modeling in software engineering refers to the process of creating abstract representations of a software system that help stakeholders understand its behavior, structure, and interactions. System models can be used to communicate requirements, design decisions, and trade-offs among project team members, customers, and other stakeholders. System modeling is an iterative process that involves several stages, including:
 
+1. Requirements analysis: During this stage, the requirements of the software system are analyzed and documented. This may include identifying the functional and non-functional requirements, constraints, assumptions, and dependencies.
 
+2. Design: During this stage, the high-level design of the system is created, including the architecture, components, interfaces, and interactions. System modeling techniques such as block diagrams, data flow diagrams, and sequence diagrams may be used to represent the design.
+
+3. Implementation: During this stage, the design is implemented in code, and the software system is tested to ensure that it meets the requirements.
+
+4. Maintenance: After the software system is deployed, it requires ongoing maintenance and updates to address bugs, security issues, and changes in requirements.
+
+## System modeling in software engineering
+There are several benefits of using system modeling in software engineering, including:
+
+1. Better communication: System models provide a visual representation of the software system, which can help stakeholders better understand its behavior, structure, and interactions. This can lead to more effective communication among project team members, customers, and other stakeholders.
+
+2. Improved quality: System models can help identify potential issues and inconsistencies in the software system design before implementation. This can help reduce errors and improve the overall quality of the software system.
+
+3. Increased efficiency: System models can help identify opportunities for optimization and improvement in the software system design. This can lead to more efficient software systems that are easier to maintain and update over time.
+
+Overall, system modeling is an essential activity in software engineering that can help ensure that software systems meet the needs of stakeholders and are developed efficiently and effectively.
 
 | No | Part | Description |
 | --- | --- | --- |
