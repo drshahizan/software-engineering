@@ -99,7 +99,7 @@ During this stage, the team will test the system to make sure it complies with t
       </thead>
       <tbody>
         <tr>
-          <td rowspan="3">Phase 1: Planning and Design (Week 1)</td>
+          <td rowspan="3">Phase 1: Planning and Design</td>
           <td>Identify project goals, objectives, and success criteria.</td>
           <td>All</td>
           <td rowspan = "3">Week 1</td>
@@ -155,7 +155,7 @@ During this stage, the team will test the system to make sure it complies with t
         </tr>
         <tr>
           <td>Create user manuals and training manuals.</td>
-          </td>Requirement analyst</td>
+          <td>Requirement analyst</td>
           <td>None</td>
         </tr>
       </tbody>
