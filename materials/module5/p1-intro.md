@@ -10,186 +10,149 @@ Don't forget to hit the :star: if you like this repo.
 
 ### Table of Contents
 
-- [Requirements Engineering Introduction](p1-intro.md)
-- [Functional Requirements](p2-functional.md)
-- [Requirements Specification](p3-soft-requirement.md)
-- [Form Based Specifications](p4-form.md)
-- [Advance Requirements Engineering](p5-req-eng.md)
-- [An interview with a stakeholder](p6-interview.md)
+- [Requirements Modeling Concept](p1-intro.md)
+- [Use Case Diagram](p2-use-case.md)
+- [Requirements Document](p3-soft-requirement.md)
+- [xxx](p4-form.md)
+- [xxx](p5-req-eng.md)
+- [xxx](p6-interview.md)
 
-# Part 1: Requirements Engineering Introduction
-In the field of software development, requirements engineering is a crucial process that involves gathering, analyzing, specifying, and managing the requirements of a software system. This process is essential to ensure that the software system being developed meets the needs of its users and stakeholders.
+# Part 1: Requirements Modeling Concept
 
-This article presents a case study of an Academic Course Registration System, where the goal is to develop an SRD that will serve as a foundation for the system's development. The stakeholders of the system include students, instructors, administration, and the IT department. The requirements gathering process involves conducting interviews, reviewing existing documents, and analyzing the system's context.
+## Requirements modeling
+Requirements modeling is a crucial activity in software engineering that involves the identification, analysis, specification, and validation of the requirements of a software system. It is a systematic approach to capture the needs and expectations of stakeholders and translate them into a form that can be used to design, develop, and test a software product.
 
-## Key steps in creating an Academic Course Registration System
-Developing an academic course registration system for a university involves several key steps:
+### Requirements modeling process
+The requirements modeling process typically involves the following steps:
 
-### 1. System requirements gathering
-The first step is to gather requirements for the system. This involves talking to stakeholders such as students, faculty members, and university administrators to understand their needs and expectations from the system. The system requirements should include features such as course catalog, course registration, scheduling, waitlist management, grade management, and student information management.
+1. Requirements Elicitation: The process of gathering information from stakeholders about their needs, expectations, and goals. This can be done through interviews, surveys, focus groups, and other methods.
 
-### 2. System design
-Once the requirements are gathered, the next step is to design the system. This involves creating a detailed system design document that outlines the system architecture, database design, and user interface design.
+2. Requirements Analysis: The process of examining and understanding the gathered requirements, identifying any inconsistencies or conflicts, and prioritizing them based on their importance and feasibility.
 
-### 3. System development
-The system development involves implementing the design using programming languages, tools, and frameworks. The system should be developed with scalability and maintainability in mind, so that it can handle a large number of students and courses.
+3. Requirements Specification: The process of documenting the requirements in a clear and unambiguous form, using techniques such as use cases, user stories, and formal specifications.
 
-### 4. System testing
-After the system is developed, it needs to be thoroughly tested to ensure that it meets the requirements and works as expected. Testing should be done for all possible scenarios, including edge cases and error handling.
+4. Requirements Validation: The process of verifying that the specified requirements are complete, correct, and consistent, and that they meet the needs of stakeholders.
 
-### 5. System deployment
-Once the system is tested and approved, it needs to be deployed on the university's servers or cloud infrastructure. The system should be monitored for performance and availability.
+### Tools for requirements modeling
 
-### 6. System maintenance
-After the system is deployed, it needs to be maintained and updated to ensure that it continues to meet the changing needs of the university. This involves fixing bugs, adding new features, and improving performance.
+There are several techniques and tools that can be used for requirements modeling, including:
 
-The academic course registration system should provide a user-friendly interface for students to browse and register for courses, as well as for faculty members to manage their courses and student grades. The system should also allow for automated waitlist management and scheduling conflicts. Overall, the system should streamline the course registration process and reduce administrative burden for the university staff.
+- Use Case Modeling: A technique that captures the functional requirements of a system in the form of user scenarios and interactions.
 
-## Requirements Engineering
-Requirements engineering is the process of eliciting, analyzing, specifying, validating, and managing the requirements for a software system. In the context of an academic course registration system, the requirements engineering process is crucial for ensuring that the system meets the needs of its stakeholders, including students, faculty members, and university administrators.
+- Entity-Relationship Modeling: A technique that captures the data requirements of a system in the form of entities and their relationships.
 
-The requirements engineering process for an academic course registration system typically involves the following steps:
+- State-Transition Modeling: A technique that captures the behavior of a system in the form of states and transitions.
 
-### 1. Requirements elicitation
-This involves gathering information about the needs and expectations of the system's stakeholders. For an academic course registration system, this may involve conducting interviews and surveys with students, faculty members, and administrators to understand their requirements for the system.
+- Formal Specification Languages: A technique that uses mathematical notation to specify requirements precisely and unambiguously.
 
-### 2. Requirements analysis
-Once the requirements are elicited, they need to be analyzed to determine their feasibility, relevance, and completeness. This may involve prioritizing the requirements based on their importance and identifying any conflicting or ambiguous requirements.
+Requirements modeling is critical to the success of a software project as it helps ensure that the software system meets the needs of its users and stakeholders. It also helps to prevent costly rework by identifying issues early in the development cycle.
 
-### 3. Requirements specification
-After the requirements are analyzed, they need to be documented in a clear and concise manner. This may involve creating use cases, user stories, or formal requirement documents that describe the system's functionality and constraints.
+## System modeling in software engineering
+System modeling in software engineering refers to the process of creating abstract representations of a software system that help stakeholders understand its behavior, structure, and interactions. The university academic course registration system is an example of a software system that can benefit from system modeling.
 
-### 4. Requirements validation
-Once the requirements are specified, they need to be validated to ensure that they are accurate and complete. This may involve reviewing the requirements with stakeholders and conducting user acceptance testing to verify that the system meets their needs.
+System modeling for the university academic course registration system involves several stages, including:
 
-### 5. Requirements management
-Finally, the requirements need to be managed throughout the development lifecycle to ensure that they remain relevant and up-to-date. This may involve tracking changes to the requirements and ensuring that they are properly implemented in the system.
+1. Requirements analysis: During this stage, the requirements of the registration system are analyzed and documented. This may include identifying the functional and non-functional requirements, constraints, assumptions, and dependencies.
 
-In the context of an academic course registration system, the requirements engineering process should focus on ensuring that the system provides an intuitive and efficient user interface for students and faculty members to browse and register for courses, as well as for administrators to manage course scheduling and student records. The system should also be designed to handle large volumes of data and be scalable to accommodate future growth in the university's student population.
+2. Design: During this stage, the high-level design of the registration system is created, including the architecture, components, interfaces, and interactions. System modeling techniques such as block diagrams, data flow diagrams, and sequence diagrams may be used to represent the design.
 
-## Stakeholders
-Stakeholders in an academic course registration system can be broadly categorized into three groups:
+3. Implementation: During this stage, the design is implemented in code, and the registration system is tested to ensure that it meets the requirements.
 
-### 1. Students
-Students are the primary users of the course registration system. They need to be able to search for courses, register for classes, drop or swap classes, and view their schedules. They also need to be able to view their grades and academic records.
+4. Maintenance: After the registration system is deployed, it requires ongoing maintenance and updates to address bugs, security issues, and changes in requirements.
 
-### 2. Faculty Members
-Faculty members are responsible for managing their courses and grading students. They need to be able to view their course rosters, submit grades, and communicate with students. They may also need to view student records to identify any academic issues.
+In the case of the university academic course registration system, the system modeling would involve understanding the registration process from the perspective of different stakeholders, including students, faculty, and staff. The modeling would need to consider how students search for courses, how they register for courses, how the system handles conflicts, how grades are recorded, and how instructors manage their courses.
 
-### 3. University Administrators
-University administrators are responsible for managing the overall academic operations of the university. They need to be able to monitor course availability, manage course scheduling and capacity, and view student enrollment data. They may also need to view student records for reporting and compliance purposes.
+The system modeling for the university academic course registration system might include the following components:
 
-Other stakeholders may include academic advisors, department chairs, and IT staff who are responsible for maintaining and updating the course registration system.
+1. Use Case Diagrams: These diagrams would show the different actors (e.g. students, faculty, staff) and their interactions with the registration system.
 
-Understanding the needs and requirements of these stakeholders is crucial for designing a course registration system that is user-friendly, efficient, and meets the academic needs of the university. It is important to involve stakeholders in the requirements gathering and validation process to ensure that the system meets their expectations and addresses their pain points.
+2. Data Flow Diagrams: These diagrams would show how data flows through the registration system, including how courses are added to the system, how students search for courses, and how conflicts are resolved.
 
-## Users and system requirements
-Users and system requirements are two different aspects of an academic course registration system, and it is important to understand the differences between them.
+3. Sequence Diagrams: These diagrams would show how different interactions between the user and the registration system occur in a step-by-step manner.
 
-### User requirements
-Users refer to the people who will be using the system, including students, faculty members, and university administrators. They have specific needs, preferences, and expectations from the system, and their requirements are often expressed in terms of user stories, scenarios, or use cases. For example, a student may require the ability to search for courses by department, instructor, or time of day, while a faculty member may require the ability to view student transcripts or communicate with their class via email.
+4. Class Diagrams: These diagrams would show the different classes and objects involved in the registration system and how they interact with each other.
 
-### System requirements
-System requirements, on the other hand, refer to the technical and functional specifications of the system. They describe what the system must do, and are often expressed in terms of features, capabilities, and constraints. For example, the system may need to be able to handle a certain number of concurrent users, have robust authentication and authorization mechanisms, and integrate with other university systems such as the student information system or the learning management system.
+Overall, system modeling is an essential activity in software engineering that can help ensure that software systems meet the needs of stakeholders and are developed efficiently and effectively. In the case of the university academic course registration system, system modeling can help ensure that the new system meets the needs of students, faculty, and staff, and that it is easy to use and maintain over time.
 
-While user requirements and system requirements are distinct, they are closely related, and it is important to ensure that they are aligned. The system requirements should be designed to meet the needs and expectations of the system's users, and the user requirements should be prioritized and translated into specific system requirements. By understanding both users and system requirements, designers and developers can create a course registration system that meets the needs of its stakeholders while being technically sound and reliable.
+## Existing and Planned System Models
 
-## User requirements in academic course registration system
+In software engineering, system modeling involves the creation of abstract representations of a software system. There are two types of system models: existing and planned.
 
-User requirements in an academic course registration system refer to the specific needs and expectations of the system's users, which include students, faculty members, and university administrators. User requirements are typically expressed in terms of user stories, scenarios, or use cases, and they are focused on the functionality and usability of the system.
+An existing system model represents a software system that is currently in use. This type of model is created to document the behavior, structure, and interactions of the existing system. It can be used to identify potential issues and areas for improvement, as well as to help stakeholders understand the current system.
 
-The following are some examples of user requirements for an academic course registration system:
+A planned system model represents a software system that is in the design or development phase. This type of model is created to document the requirements, design decisions, and trade-offs of the planned system. It can be used to communicate the system design to stakeholders and to ensure that the system meets the requirements.
 
-### 1. Course Search
-Students should be able to easily search for courses based on course code, department, instructor, time of day, and other relevant criteria.
+Let's consider a case study of a university academic course registration system to better understand how existing and planned system models are used in software engineering.
 
-### 2. Course Registration
-Students should be able to register for courses online, including adding and dropping classes, and viewing their class schedule.
+### Existing System Model:
+An existing system model of the university academic course registration system would document how the current system works, including its behavior, structure, and interactions. It would include information on how students currently register for courses, how the system handles conflicts, how grades are recorded, and how instructors manage their courses. This model can be used to identify any pain points or issues with the current system and to inform the design of a new system.
 
-### 3. Waitlist Management
-The system should be able to handle waitlists for courses, including notifying students when a spot becomes available and automatically enrolling them in the course.
+### Planned System Model:
+A planned system model of the university academic course registration system would document the requirements and design decisions for a new registration system. This model would include information on the user requirements, system architecture, data models, and interface design. For example, the planned system model might include information on how the new system will handle course prerequisites, how it will prevent conflicts, how it will integrate with the university's student information system, and how it will provide feedback to students during the registration process.
 
-### 2. Course Management
-Faculty members should be able to manage their courses, including adding and removing students, managing course materials, and submitting grades.
+Overall, system modeling is a critical aspect of software engineering, and both existing and planned system models are essential for developing effective software systems. In the case of a university academic course registration system, these models can help ensure that the new system meets the needs of students, faculty, and staff, and that it is easy to use and maintain over time.
 
-### 4. Academic Record Management
-Students and faculty members should be able to access and view their academic records, including transcripts, grade reports, and other relevant information.
+## System Perspectives
+System perspectives in software engineering refer to different ways of looking at a software system. Each perspective focuses on a particular aspect of the system and provides a unique viewpoint for understanding the system. The university academic course registration system can be modeled using different perspectives to gain a better understanding of how the system works and how it interacts with its environment.
 
-### 5. Reporting and Analytics
-University administrators should be able to generate reports and analytics based on course enrollment data, including enrollment trends, course capacity, and student retention.
+1. External Perspective: This perspective models the context or environment of the system. It focuses on the system's relationship with external entities such as users, other systems, and the physical environment. For the university academic course registration system, the external perspective would consider the external entities that interact with the system, such as students, faculty, and staff, and how the system interfaces with other systems such as the student information system and the course catalog.
 
-### 6. User Authentication and Authorization
-The system should have robust authentication and authorization mechanisms to ensure that only authorized users can access the system and perform certain actions.
+2. Interaction Perspective: This perspective models the interactions between a system and its environment or between the components of a system. It focuses on the messages or signals exchanged between the system and its environment or components. For the university academic course registration system, the interaction perspective would consider how users interact with the system and how the system responds to user requests.
 
-## System requirements in academic course registration system
+3. Structural Perspective: This perspective models the organization of a system or the structure of the data that is processed by the system. It focuses on the components of the system, their relationships, and how they are organized. For the university academic course registration system, the structural perspective would consider the different components of the system, such as the user interface, the database, and the business logic, and how they are organized.
 
-By gathering and analyzing user requirements, designers and developers can create a course registration system that meets the needs and expectations of its users. User requirements are critical to the success of the system, as they directly impact the usability and user adoption of the system. It is important to involve users in the requirements gathering and validation process to ensure that their needs and expectations are properly addressed.
+4. Behavioral Perspective: This perspective models the dynamic behavior of the system and how it responds to events. It focuses on the processes or algorithms that are used by the system to respond to events or input. For the university academic course registration system, the behavioral perspective would consider how the system handles different scenarios, such as course conflicts or registration errors, and how it responds to user input.
 
-System requirements in an academic course registration system refer to the technical and functional specifications that the system must meet to perform its intended tasks effectively and efficiently. These requirements focus on the hardware, software, and network infrastructure needed to support the system's functionality and performance.
+By modeling the university academic course registration system from these different perspectives, software engineers can gain a better understanding of how the system works and how it interacts with its environment. This can help to identify areas for improvement and ensure that the system meets the needs of its stakeholders.
 
-The following are some examples of system requirements for an academic course registration system:
+## Context Model
+Context models in software engineering are used to depict the operational context of a system. They provide a high-level overview of the system's environment and its relationships with external entities. The context model for the university academic course registration system would help to illustrate what lies outside the system boundaries and how the system interacts with its environment.
 
-### 1. Performance
-The system should be able to handle a large number of concurrent users, while maintaining fast response times and minimizing downtime.
+The context model for the university academic course registration system might include the following elements:
 
-### 2. Scalability
-The system should be able to scale up or down based on changing demand, without sacrificing performance or usability.
+1. Users: The users of the registration system, including students, faculty, and staff, would be depicted in the context model. The model would show how they interact with the system and what information they need to provide to the system.
 
-### 3. Security
-The system should have robust security mechanisms, including user authentication and authorization, data encryption, and access controls, to protect sensitive user data and prevent unauthorized access.
+2. Other systems: The context model would also show any other systems that the registration system interfaces with, such as the student information system, the course catalog, or the billing system. The model would illustrate how data is exchanged between these systems and the registration system.
 
-### 4. Integration
-The system should be able to integrate with other university systems, such as the student information system, learning management system, and financial aid system.
+3. Physical environment: The context model would also show the physical environment in which the registration system operates. This might include the computer hardware, network infrastructure, and any other physical resources that are required to operate the system.
 
-### 5. Data Management
-The system should be able to store and manage large amounts of data related to course enrollment, student records, and other relevant information.
+4. Policies and regulations: The context model would also consider any policies or regulations that govern the use of the registration system. This might include policies around course availability, registration deadlines, and student privacy.
 
-### 6. Usability
-The system should be user-friendly and easy to use, with intuitive navigation and clear instructions.
+By creating a context model for the university academic course registration system, software engineers can gain a better understanding of the system's environment and its interactions with external entities. This can help to identify potential issues and ensure that the system meets the needs of its stakeholders. The context model can also be used as a communication tool to help stakeholders understand the system's environment and how it operates.
 
-### 7. Accessibility
-The system should be accessible to users with disabilities, including support for assistive technologies and compliance with accessibility standards.
+A context model for the university academic course registration system, represented using PlantUML (PUML) code:
 
-### 8. Maintenance
-The system should be easy to maintain and update, with clear documentation and support for troubleshooting and bug fixes.
+```puml
+@startuml
+left to right direction
 
-By defining and meeting these system requirements, designers and developers can ensure that the course registration system is reliable, secure, and scalable. System requirements are essential to the success of the system, as they directly impact its functionality, performance, and reliability. It is important to involve system administrators, developers, and other technical experts in the requirements gathering and validation process to ensure that the system meets technical standards and best practices.
+actor "Student" as S
+actor "Faculty" as F
+actor "Staff" as St
+database "Student Information System" as SIS
+database "Course Catalog" as CC
+database "Billing System" as BS
+rectangle "Registration System" as RS {
+}
 
-## User requirements and system requirements
+S -> RS : Registers for courses
+F -> RS : Views course rosters
+St -> RS : Manages course offerings
+RS -> SIS : Requests student data
+RS -> CC : Requests course data
+RS -> BS : Requests billing data
 
-Here are some examples of user requirements and system requirements in an academic course registration system:
+@enduml
+```
+<p align="center">
+<img src="context.png"  width="300" />
+</p>
 
-User Requirements:
-- The system should allow students to search for courses by department, course code, and instructor.
-- Students should be able to view their course schedules and academic records.
-- Faculty members should be able to manage their courses, including adding and removing students and managing course materials.
-- The system should have a waitlist management feature that automatically enrolls students when a spot becomes available.
-- University administrators should be able to generate reports and analytics based on course enrollment data.
+In this PUML code, we have actors representing the different user roles that interact with the system (student, faculty, staff), as well as the different systems that the registration system interfaces with (student information system, course catalog, and billing system). The registration system itself is represented as a rectangle.
 
-System Requirements:
-- The system should be able to handle a large number of concurrent users.
-- The system should have a robust authentication and authorization mechanism to ensure that only authorized users can access the system.
-- The system should integrate with other university systems, such as the student information system and learning management system.
-- The system should be able to store and manage large amounts of data related to course enrollment and student records.
-- The system should be able to scale up or down based on changing demand, without sacrificing performance or usability.
+The arrows represent the interactions between the different elements of the context model. For example, students register for courses by interacting with the registration system, while the registration system requests data from the student information system, course catalog, and billing system. Faculty members view course rosters, and staff members manage course offerings.
 
-By meeting these user requirements and system requirements, the academic course registration system can provide a user-friendly and reliable platform for students, faculty members, and university administrators to manage course registration and enrollment.
-
-## Readers of Different Types of Requirements Specification
-
-The readers of different types of requirements specification in an academic course registration system may include stakeholders such as students, faculty members, university administrators, system developers, and project managers. The types of requirements specifications that these stakeholders may read include user requirements, system requirements, functional requirements, and non-functional requirements.
-
-- **Users**: Students, faculty members, and university administrators are the primary users of the academic course registration system. They may be interested in reading the user requirements specification to understand the functionality and usability of the system from their perspective.
-
-- **System Developers**: Developers are responsible for building and maintaining the system. They may read the system requirements specification to understand the technical and functional specifications that the system must meet.
-
-- **Project Managers**: Project managers are responsible for overseeing the development of the system. They may read all types of requirements specifications to ensure that the project is on track and that the system meets the needs and expectations of its users.
-
-- **Quality Assurance Testers**: Testers are responsible for verifying that the system works as intended. They may read the functional and non-functional requirements specifications to develop test cases and ensure that the system meets its requirements.
-
-- **Other Stakeholders**: Other stakeholders, such as university IT staff, vendors, and regulatory bodies, may also read the requirements specifications to understand the system's functionality, security, and compliance requirements.
-
-Overall, the different types of requirements specifications in an academic course registration system are essential for ensuring that the system meets the needs and expectations of its users, is technically sound and secure, and complies with relevant regulations and standards.
+By representing the context model using PUML code, software engineers can easily share and communicate the model with other stakeholders. This can help to ensure that everyone involved in the project has a common understanding of the system's environment and its interactions with external entities.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
