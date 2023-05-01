@@ -178,19 +178,20 @@ In shorts, the expected budget for the development of the student accommodation 
 ---
 
 ### 7. System Architecture:
+  
+#### System Architecture Overview:
 The proposed architecture for the Student Accommodation System project at Kolej Tun Dr Ismail will consist of three layers: the presentation layer, the application layer, and the data layer.
  
 - Presentation Layer: The presentation layer is the front-end of the system that users will interact with. It will consist of a web-based user interface built using the Bootstrap framework with HTML, CSS as well as JavaScript. The presentation layer will be responsible for presenting the data to the users and allowing them to interact with the system in order to improve the user experience.
 - Application Layer: The application layer is the middle layer of the system that will handle the business logic and data processing. It will consist of a back-end server built using Node.js and Express.js. The application layer will be responsible for processing requests from the front-end and communicating with the data layer.
 - Data Layer: The data layer is the back-end of the system that will store and manage the data. It will consist of a MongoDB database, which will be accessed using the Mongoose library. The data layer will be responsible for storing and retrieving data from the database.
 - Data Visualization Layer: The Data Visualization Layer will be responsible for presenting the data in an understandable and interactive format for the end-users. This layer will use visualization libraries which is D3.js.
-- Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
-- Explain how the data will be stored, managed, and analyzed, as well as the hardware and software requirements needed to support the system.
-- Discuss the tools and frameworks that will be used for data visualization and analysis.
-- Provide a flowchart or block diagram of the system architecture.
+- Server Layer: The server layer will be responsible for hosting and managing the system and its components. In this layer, we will use the Apache HTTP Server as the web server software to handle the HTTP requests and responses between the users and the web-based front-end.
   
-The proposed student accommodation system will follow a three-tier architecture, with a presentation layer, application layer, and database layer.
-  
+
+
+
+#### Data Storage and Management:
 #### Hardware and Software Requirements:
 Hardware and software requirements are crucial components of our proposed system architecture. Managing the KTDI's student accomodation system's hardware and software requirements could be done as follows:
   i. Hardware requirements -><br>
@@ -200,6 +201,8 @@ Hardware and software requirements are crucial components of our proposed system
   - Bootstrap as the framework used for web application creation.
   - R studio as the data representation tool.
   - 
+#### Data security and privacy
+#### Data Analysis and Visualization:
 #### System Architecture Diagram:
 The proposed system architecture can be visualized using the following flowchart:
 ```java  
