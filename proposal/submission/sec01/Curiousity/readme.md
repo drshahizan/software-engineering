@@ -97,20 +97,21 @@ In this phase, the team will deploy the system to the production environment and
 The team will continue to support and maintain the system during this phase, including bug fixes, updates, and improvements.
 
 #### Gantt Chart: 
-| Phase | Task | Person In Charge | Duration | Progress |
-  |-------|------|------------------|----------|----------|
-  | Phase 1 | Identify project goals, objectives, and success criteria | All | 1 week | Done |
-  | Phase 2 | Gather and document all the requirements of the system. | Low Ying Xi | 2 weeks | Ongoing |
-  |        | Assist in documenting the requirements in a clear and concise manner. | Ng Shu Yu |       |          |
-  | Phase 3 | Design the user experience of the system. | Koh Li Hui | 1 week | None |
-  |        | Design the user interface of the system. | All |       |          |
-  | Phase 4 | Develop the system based on the design document and prototype. | Camily Tang Jia Lei | 2 weeks | None |
-  |        | Assist in coding and unit testing | Koh Li Hui, Low Ying Xi, Ng Shu Yu |       |          |
-  | Phase 5 | Perform various testing activities such as functional testing, integration testing, and performance testing. | Camily Tang Jia Lei | 1 week | None |
-  |        | Assist in the testing activities. | Koh Li Hui, Low Ying Xi, Ng Shu Yu |       |          |
-  | Phase 6 | Deploy the system in a production environment. | Camily Tang Jia Lei | 1 week | None |
-  |        | Create user manuals and training manuals. | Low Ying Xi |       |          |
-  | Phase 7 | Provide maintenance support for the system, fix bugs or issues, and make any necessary changes. | All | 1 week | None |
+| Phase   | Task                                                              | Person In Charge                       | Duration | Progress |
+|---------|-------------------------------------------------------------------|---------------------------------------|----------|----------|
+| Phase 1 | Identify project goals, objectives, and success criteria           | All                                   | 1 week   | Done     |
+|         | Gather and document all the requirements of the system. (Ongoing) | Low Ying Xi                           | 2 weeks  |          |
+|         | Assist in documenting the requirements in a clear and concise manner. | Ng Shu Yu                         |          |          |
+| Phase 2 | Design the user experience of the system.                          | Koh Li Hui                            | 1 week   | None     |
+|         | Design the user interface of the system.                           | All                                   | None     |          |
+| Phase 3 | Develop the system based on the design document and prototype.      | Camily Tang Jia Lei                   | 2 weeks  | None     |
+|         | Assist in coding and unit testing                                 | Koh Li Hui, Low Ying Xi, Ng Shu Yu    | None     |          |
+| Phase 4 | Perform various testing activities such as functional testing, integration testing, and performance testing. | Camily Tang Jia Lei | 1 week | None |
+|         | Assist in the testing activities.                                 | Koh Li Hui, Low Ying Xi, Ng Shu Yu    | None     |          |
+| Phase 5 | Deploy the system in a production environment.                     | Camily Tang Jia Lei                   | 1 week   | None     |
+|         | Create user manuals and training manuals.                          | Low Ying Xi                           | None     |          |
+| Phase 6 | Provide maintenance support for the system, fix bugs or issues, and make any necessary changes. | All | 1 week | None |
+
   
 #### Testing Methodologies: 
 -The quality assurance analyst will use various testing methodologies such as black-box testing, white-box testing, and grey-box testing.
