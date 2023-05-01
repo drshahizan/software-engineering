@@ -78,7 +78,9 @@ Many types of risks may happen during or after the system being develop or done,
 Here is the list of the risks being discussed :
 
 1. Technical risk : 
+
 -data loss
+
 -system crash
 
 2.Resource risk :
