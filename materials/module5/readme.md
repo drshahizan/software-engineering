@@ -10,7 +10,7 @@ Don't forget to hit the :star: if you like this repo.
 
 
 
-# Module 4: Requirements Engineering
+# Module 5: Requirements Analysis and modelling ME
 
 This module focuses on the process of eliciting, analyzing, specifying, validating, and managing software requirements for a case study on an academic course registration system. Specifically, the module aims to guide students in creating an IEEE Software Requirements Document (SRD) for the system.
 
