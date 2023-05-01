@@ -17,19 +17,19 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>1.VINESH A/L VIJAYAKUMAR</td>
-    <td></td>
+    <td>Main Developer</td>
   </tr>
   <tr>
     <td>2.NAVACHANDER NAVASANTAR</td>
-    <td></td>
+    <td>Documentation Specialists</td>
   </tr>
     <tr>
     <td>3.NAVASARATHY A/L S.GANESWARAN</td>
-    <td></td>
+    <td>User Experience Developer</td>
   </tr>
     <tr>
     <td>4.MUHAMMAD NUR AZHAR BIN MOHD YAZID</td>
-    <td></td>
+    <td>Requirements Analyst</td>
   </tr>
 </table>
 
