@@ -62,17 +62,17 @@ To address the problem of limited access and awareness of campus events, and to 
 #### Time-Bound: 
 To complete the aforementioned goals within the upcoming two months and keep track of and continuously assess the system's effectiveness and impact.
 
-### 4. Scope: 
+### 4. Scope🔍: 
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Curiousity/Project%20Scope.png?raw=true" alt="Scope"></img>
-- (i) Event planning and organisation: Tools for creating and managing event schedules, defining event objectives, identifying target audiences, and determining event locations will be provided in the system.
-- (ii) Event registration: Tools for creating and managing event registration and ticketing processes, collecting payments, and generating attendee lists will be provided in the system.
-- (iii) Onsite management: Tools for coordinating with organisers, monitoring event progress, and handling emergencies will be provided in the system.
-- (iv) Analytics and reporting: Tools for tracking and analysing event data, generating reports, and identifying areas for improvement will be provided in the system.
-- (vi) Attendee Engagement: Tools for facilitating attendee engagement, such as surveys, and feedback forms will be provided in the system.
-- (vii) Customization and branding: The system should allow for customization and branding options to match the branding of the organisation or event.
-- (viii) Website design : HTML and CSS will be used to build and design the framework of the website.
-- (ix) Website testing : The website will be tested multiple times to detect any issues before implementing it.
-- (x) Project monitoring and documentation : The project will continuously be monitored and documented to keep track of the progress of the project and to optimise the website performance.
+- (i) <b>Event planning and organisation:</b> Tools for creating and managing event schedules, defining event objectives, identifying target audiences, and determining event locations will be provided in the system.
+- (ii) <b>Event registration:</b> Tools for creating and managing event registration and ticketing processes, collecting payments, and generating attendee lists will be provided in the system.
+- (iii) <b>Onsite management:</b> Tools for coordinating with organisers, monitoring event progress, and handling emergencies will be provided in the system.
+- (iv) <b>Analytics and reporting:</b> Tools for tracking and analysing event data, generating reports, and identifying areas for improvement will be provided in the system.
+- (vi) <b>Attendee Engagement:</b> Tools for facilitating attendee engagement, such as surveys, and feedback forms will be provided in the system.
+- (vii) <b>Customization and branding:</b> The system should allow for customization and branding options to match the branding of the organisation or event.
+- (viii) <b>Website design :</b> HTML and CSS will be used to build and design the framework of the website.
+- (ix) <b>Website testing :</b> The website will be tested multiple times to detect any issues before implementing it.
+- (x) <b>Project monitoring and documentation :</b> The project will continuously be monitored and documented to keep track of the progress of the project and to optimise the website performance.
 
 
 ### 5. Software Process Model:
