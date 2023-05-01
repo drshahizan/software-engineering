@@ -197,6 +197,14 @@ I. Staff Resources:
 - Documentation Specialist: responsible for creating user manuals, technical documentation, and other project-related documents.
 - IT Support: responsible for providing technical support to the development team, troubleshooting issues, and maintaining the development environment.
 - Quality Assurance Analyst: responsible for ensuring the quality of the software application by conducting tests, identifying bugs, and suggesting improvements.
+  
+II. Equipment Resources:
+- Laptops and desktop computers for the development team
+- Servers for hosting the application
+- Networking equipment such as routers, switches, and cables for setting up the development and production environments.
+  
+III. Software Resources:
+- Integrated Development Environment (IDE) such as Visual Studio Code for software development.
 
 ### 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
