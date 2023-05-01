@@ -123,7 +123,6 @@ In conclusion, we can establish the foundation for the project plan, which outli
 ---
 
 ### 5. Software Process Model
-<!-- ***Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. *** -->
   
 Our main objective in creating the Kolej Tun Dr Ismail (KTDI) project's student housing system is to create a high-quality system within the allotted time and budget. We have decided to employ the Agile methodology as our development process model in order to accomplish this. This method places a focus on cooperation and participation from stakeholders throughout the development process, creating a system that is more adaptable and responsive.
 
@@ -131,7 +130,7 @@ Furthermore, because of the nature of student rooms, the Agile methodology is pe
 
 <p align="center"><img src="https://i0.wp.com/mobile-jon.com/wp-content/uploads/2021/04/Agile-Methodology.jpg?fit=1920%2C1080&ssl=1" width="700px" height="350px"></p>
 
-Here is a breakdown of how the Agile methodology can be applied as a software process model for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI):
+Agile methodology used in development of student accommodation system in KTDI as stated below:
 
 1. Planning Phase: In this phase, the development team works with the client to identify the project scope, goals, and objectives. They define the project timeline and milestones, identify project risks, and allocate project resources appropriately. They create a sprint plan for the first iteration and identify the user stories and product backlog items that will be worked on in that sprint.
 
