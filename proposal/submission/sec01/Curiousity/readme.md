@@ -17,19 +17,19 @@ Don't forget to hit the :star: if you like this repo.
   4. Ng Shu Yu A22EC0228
 
 ### Table of Contents
-- [Table of Contents](#table-of-contents)
-- [Executive Summary](#1-executive-summary)
-- [Background](#2-background)
-- [Objectives](#3-objectives)
-- [Scope](#4-scope)
-- [Software Process Model](#5-software-process-model)
-- [Budget](#6-budget)
-- [System Architecture](#7-system-architecture)
-- [Risks Assessment](#8-risks-assessment)
-- [Resources](#9-resources)
-- [Technical Specifications](#10-technical-specifications)
-- [Timeline and Deliverables](#11-timeline-and-deliverables)
-- [Conclusion](#12-conclusion)
+* [Table of Contents](#table-of-contents)
+* [Executive Summary](#1-executive-summary)
+* [Background](#2-background)
+* [Objectives](#3-objectives)
+* [Scope](#4-scope)
+* [Software Process Model](#5-software-process-model)
+* [Budget](#6-budget)
+* [System Architecture](#7-system-architecture)
+* [Risks Assessment](#8-risks-assessment)
+* [Resources](#9-resources)
+* [Technical Specifications](#10-technical-specifications)
+* [Timeline and Deliverables](#11-timeline-and-deliverables)
+* [Conclusion](#12-conclusion)
 
   
 ### 1. Executive Summary📝:
