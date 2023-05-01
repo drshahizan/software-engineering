@@ -75,43 +75,87 @@ The Agile process model was chosen because it enables frequent feedback and chan
 
 The Agile process model consists of the following phases:
 
-#### 1. Planning Phase: 
-During this stage, the team establishes the project's scope, objectives, and goals. A product backlog, which is a prioritised list of the system's features or requirements, is also created by the team.
+#### 1. Planning and Design Phase: 
+During this stage, the team establishes the project's scope, objectives, and goals. A product backlog, which is a prioritised list of the system's features or requirements, is also created by the team. The requirement analyst team works in conjunction with the stakeholders during this phase to compile and assess the system requirements. The group then develops user stories, which are concise, controllable chunks of functionality that can be worked on iteratively. The team will develop a thorough system design, complete with user interfaces, data models, and system architecture, during this phase. The team will also develop a mockup or prototype of the system so that stakeholders can give input and verify that the design satisfies their requirements.
 
-#### 2. Analysis Phase:
-The requirement analyst team works in conjunction with the stakeholders during this phase to compile and assess the system requirements. The group then develops user stories, which are concise, controllable chunks of functionality that can be worked on iteratively.
-
-#### 3. Design Phase:
-The team will develop a thorough system design, complete with user interfaces, data models, and system architecture, during this phase. The team will also develop a mockup or prototype of the system so that stakeholders can give input and verify that the design satisfies their requirements.
-
-#### 4. Implementation Phase:
+#### 2. Development Phase:
 The team will start coding the system and integrating the various components throughout this phase. To make sure that the code is functioning as expected and that the system is meeting the project requirements, this phase calls for frequent testing and teamwork.
 
-#### 5. Testing Phase:
-During this stage, the team will test the system to make sure it complies with the specifications and performs as anticipated. System testing, integration testing, and unit testing are all included in this. To make sure the system satisfies users' needs and expectations, the team will also collaborate with stakeholders to carry out user acceptance testing.
+#### 3. Testing and Deployment Phase:
+During this stage, the team will test the system to make sure it complies with the specifications and performs as anticipated. System testing, integration testing, and unit testing are all included in this. To make sure the system satisfies users' needs and expectations, the team will also collaborate with stakeholders to carry out user acceptance testing. For deployment, the team will deploy the system to the production environment and make it available to users. This includes final testing and validation, as well as training for users and support staff.
 
-#### 6. Deployment Phase:
-In this phase, the team will deploy the system to the production environment and make it available to users. This includes final testing and validation, as well as training for users and support staff.
-
-#### 7. Maintenance Phase:
-The team will continue to support and maintain the system during this phase, including bug fixes, updates, and improvements.
 
 #### Gantt Chart: 
-| Phase | Task | Person In Charge | Duration | Progress |
-  |-------|------|------------------|----------|----------|
-  | Phase 1 | Identify project goals, objectives, and success criteria | All | 1 week | Done |
-  | Phase 2 | Gather and document all the requirements of the system. | Low Ying Xi | 2 weeks | Ongoing |
-  |        | Assist in documenting the requirements in a clear and concise manner. | Ng Shu Yu | 2 weeks      | Ongoing         |
-  | Phase 3 | Design the user experience of the system. | Koh Li Hui | 1 week | None |
-  |        | Design the user interface of the system. | All | 1 week       |   None       |
-  | Phase 4 | Develop the system based on the design document and prototype. | Camily Tang Jia Lei | 2 weeks | None |
-  |        | Assist in coding and unit testing | Koh Li Hui, Low Ying Xi, Ng Shu Yu | 2 weeks      |  None        |
-  | Phase 5 | Perform various testing activities such as functional testing, integration testing, and performance testing. | Camily Tang Jia Lei | 1 week | None |
-  |        | Assist in the testing activities. | Koh Li Hui, Low Ying Xi, Ng Shu Yu | 1 week      |  None        |
-  | Phase 6 | Deploy the system in a production environment. | Camily Tang Jia Lei | 1 week | None |
-  |        | Create user manuals and training manuals. | Low Ying Xi | 1 week      |  None         |
-  | Phase 7 | Provide maintenance support for the system, fix bugs or issues, and make any necessary changes. | All | 1 week | None |
-  
+
+  <table style="border-collapse: collapse;">
+      <thead>
+        <tr>
+          <th>Phase</th>
+          <th>Tasks</th>
+          <th>Person In-Charge</th>
+          <th>Expected Time To Finish</th>
+          <th>Progress</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td rowspan="3">Phase 1: Planning and Design (Week 1)</td>
+          <td>Identify project goals, objectives, and success criteria.</td>
+          <td>All</td>
+          <td rowspan = "3">Week 1</td>
+          <td> Done </td>
+        </tr>
+        <tr>
+          <td>Gather and document all the requirements of the system.</td>
+          <td>Requirement Analyst</td>
+          <td>Ongoing</td>
+        </tr>
+        <tr>
+          <td>Assist in documenting the requirements in a clear and concise manner.
+          <tr>Documentation Specialist</tr>
+          <td>Ongoing</td>
+        <tr>
+          <td rowspan="4">Phase 2: Development</td>
+          <td>Design the user experience of the system.</td>
+          <td>User Experience Designer</td>
+          <td rowspan = "4">Week 2-4</td>
+          <td>None</td>
+        </tr>
+        <tr>
+          <td>Design the user interface of the system.</td>
+          <td>All</td>
+          <td>None</td>
+        </tr>
+        <tr>
+          <td>Develop the system based on the design document and prototype.</td>
+          <td>Main developer</td>
+          <td>None</td>
+        </tr>
+        <tr>
+          <td>Assist in coding and unit testing.
+          <td>Developer assistant</td>
+          <td>None</td>
+        </tr>
+        <tr>
+          <td rowspan="4">Phase 3: Testing and Deployment</td>
+          <td>Perform various testing activities such as functional testing, integration testing, and performance testing.</td>
+          <td>Quality Assurance Analyst</td>
+          <td rowspan="4">Week 5-6</td>
+          <td>None</td>
+        </tr>
+        <tr>
+          <td>Assist in the testing activities.</td>
+          <td>Developer assistant</td>
+          <td>None</td>
+        </tr>
+        <tr>
+          <td>Deploy the system in a production environment.</td>
+          <td>Main developer</td>
+          <td>None</td>
+        </tr>
+      </tbody>
+    </table>
+
 #### Testing Methodologies: 
 -The quality assurance analyst will use various testing methodologies such as black-box testing, white-box testing, and grey-box testing.
 ##### i. Black-box testing:
@@ -253,13 +297,13 @@ Note: All costs mentioned above are estimates and are subject to change based on
       </thead>
       <tbody>
         <tr>
-          <td>Phase 1: Planning and Design (Weeks 1)</td>
+          <td>Phase 1: Planning and Design (Week 1)</td>
           <td>System Requirements and Design</td>
           <td>System Requirements Document, System Design Document</td>
           <td>Project Manager, Requirement Analyst, User Experience Designer, Assistant developer</td>
         </tr>
         <tr>
-          <td rowspan="3">Phase 2: Development (Weeks 2-4)</td>
+          <td rowspan="3">Phase 2: Development (Week 2-4)</td>
           <td>Front-end Development Complete</td>
           <td>Completed front-end of the system</td>
           <td>UI/UX Designer, Front-end Developer</td>
@@ -275,7 +319,7 @@ Note: All costs mentioned above are estimates and are subject to change based on
           <td>Main Developer, Back-end Developer</td>
         </tr>
         <tr>
-          <td rowspan="3">Phase 3: Testing and Deployment (Weeks 5-6)</td>
+          <td rowspan="3">Phase 3: Testing and Deployment (Week 5-6)</td>
           <td>System Testing Complete</td>
           <td>System Test Report</td>
           <td>Quality Assurance Analyst</td>
