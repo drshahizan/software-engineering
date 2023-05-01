@@ -3,7 +3,7 @@
 ## Academic Consultation System  
 
 
-### Prepared by: Group Software
+### Prepared by: Group Program
    Name and matrix no:
   1. Wan Nur Sofea Binti Mohd Hasbullah A22EC0115
   2. Maisarah Binti Rizal A22EC0192
