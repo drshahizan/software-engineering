@@ -66,7 +66,7 @@ The student engagement system proposed will require the following technical spec
 
 #### Data Sources:
 - Student data from the university's student management system
-- Engagement data from various sources, such as student surveys, classroom observations, and learning management system logs
+- Engagement data from various sources, such as clubs and faculties
 
 #### Data Schema:
 The data schema will consist of multiple tables that store information about students, faculties, clubs, and engagement metrics. The schema will be designed to facilitate the extraction of meaningful insights through machine learning algorithms.
