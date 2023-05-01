@@ -50,7 +50,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>1. Dr. Mohd Firdaus Akmal bin Azman</td>
     <td></td>
     <td>Medical Officer</td>
-    <td></td>
+    <td>Provides idea for design, functionality, content, compliance, and provides training and support.</td>
   </tr>
     <tr>
     <td>2. Puan Nazlin</td>
