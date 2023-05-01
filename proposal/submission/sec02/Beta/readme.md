@@ -14,9 +14,9 @@ Don't forget to hit the :star: if you like this repo.
 
 ### Prepared by: <stakeholder>
   1. MUHAMMAD DANIEL HAKIM BIN SYAHRULNIZAM (A22EC0207)
-  2. MUHAMMAD ARIFF DANISH BIN HASHNAN ( )
-  3. MUHAMMAD IMAN FIRDAUS BIN BAHARUDDIN (A22EC0216 )
-  4. MUHAMMAD SAFWAN BIN MOHD AZMI (A22EC0221)
+  2. MUHAMMAD ARIFF DANISH BIN HASHNAN (A22EC0204)
+  3. MUHAMMAD IMAN FIRDAUS BIN BAHARUDDIN ( )
+  4. MUHAMMAD SAFWAN BIN MOHD AZMI ( )
   5. CHE MARHUMI BIN CHE AB RAHIM ( )
 
 ### Table of Contents
@@ -44,20 +44,78 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ## 4. Scope: 
+The scope of a food ordering system can vary depending on the specific requirements of the system, but some common features and functionalities that can be included are:
+
+- User Registration and Login : Users should be able to create their accounts and log in to the system using their credentials.
+
+- Menu Management : The system should allow restaurant owners to manage their menu, including adding, updating, and deleting items.
+
+- Order Placement : Customers should be able to browse the menu and place orders online, either takeaway or dine-in.
+
+- Payment Processing : The system should provide a secure and efficient payment gateway that enables users to make payments online.
+
+- Order Tracking : The system should allow customers to track their orders in real-time and provide status updates, such as order confirmed, preparing, on the way, and delivered.
+
+- Feedback and Reviews : The system should allow customers to provide feedback and leave reviews for the restaurant and its dishes.
+
+- Admin Panel : The system should have an admin panel that enables the restaurant owner to manage the entire system, including users, menu items, and orders.
+
+- Mobile App : The system can have a mobile application that enables customers to place orders and track their orders on the go.
+
+- Analytics and Reporting : The system can provide analytics and reporting tools that enable the restaurant owner to analyze their sales and make informed business decisions.
+
+In summary, this food ordering system can streamline the entire food ordering process, from browsing the menu to payment processing and delivery, thereby enhancing the user experience and generating higher sales for the restaurant.
+  
+  
 
 ## 5. Software Process Model:
 
+A planned and methodical approach to software development that provides high-quality, dependable, and maintainable software is what the software process model aims to achieve. It outlines the procedures, actions, and activities needed to create software, from gathering requirements to testing, releasing, and maintaining it.
+
+The Agile methodology is the optimal development process paradigm for a food ordering system. This methodology focuses on providing a minimum viable product (MVP) during brief development cycles and is characterised by iterative and incremental development. It enables ongoing feedback and interaction between the development team and stakeholders, allowing the team to quickly adjust to shifting priorities and requirements.
+
+The Agile methodology is perfect for this project because it guarantees timely delivery of a functional registration system while allowing for flexibility and response to stakeholder feedback. Additionally, it offers a framework for controlling project risks and guaranteeing that performance and quality are upheld throughout the development process.
+  
+The illustration of the Agile software process model that relates to this project is shown below:
+
+1. Planning phase : In this phase, project goals are defined, stakeholders are identified, and the project's scope, objectives, and requirements are described. The tasks include creating the project charter, analysing the stakeholders, and obtaining the requirements. The project manager is in charge of supervising the operations throughout this two-week phase.
+
+2. Design phase : In this phase, the development team designs the system architecture, database schema, and user interface. Database design, prototyping, and wireframing are among the tasks. The software architect is in charge of managing the tasks throughout this phase, which lasts for four weeks.
+
+3. Development phase : Coding, unit testing, and integration testing are all part of this step. Coding, testing, and documentation are among the tasks. The development team lead is in charge of managing the activities throughout this six-week phase.
+
+4. Testing phase : The development team tests for functionality, performance, and security throughout this stage. The activities include test preparation, test execution, and defect management. The QA lead is in charge of managing the tasks during this phase, which lasts for two weeks.
+
+5. Deployment phase : During this phase, the registration system will be put into production and user acceptance testing will be carried out. The activities include user training, documentation, and system maintenance. The project manager is in charge of supervising the operations throughout this two-week phase.
+
+This project will use functional, performance, and security testing approaches. Retrospectives, sprint planning, and daily stand-up meetings are all examples of project management techniques. Code reviews, automated testing, and user acceptability testing will all be included in quality assurance procedures.
+
+In conclusion, the suggested meal ordering method is best suited to the Agile development process model. Its incremental and iterative methodology, along with efficient project management techniques and quality assurance procedures, will guarantee the prompt delivery of a dependable and high-quality food ordering system.
+
+
 ## 6. Budget:
 
-#### Hardware: RM
+The budget for developing a food ordering system can vary depending on several factors, such as the complexity of the system, the features and functionalities required, the development platform, and the development team's location and expertise. 
 
-#### Software: RM
+- System Design and Development : RM50,000.
+  
+This includes the cost of designing the system architecture, creating wireframes, and developing the system's front-end and back-end.
 
-#### Personnel: RM 
+- Database Management : RM20,000.
 
-#### Testing: RM 
+This includes the cost of setting up and managing the database, including configuring security and backup systems.
 
-#### Contingency: RM 
+- Payment Gateway Integration : RM20,000.
+
+This includes the cost of integrating a payment gateway system into the food ordering system, enabling customers to make online payments.
+
+- Mobile Application Development : If a mobile application is required, the cost can range from RM10,000 to RM50,000.
+
+- Testing and Quality Assurance : RM20,000.
+
+This includes the cost of testing the system for bugs and errors and ensuring that the system meets the quality standards.
+
+It's essential to note that these are just estimates, and the actual cost may vary based on the specific requirements of the project. Additionally, ongoing maintenance costs and server hosting costs may also need to be considered.
 
 
 ## 7. System Architecture:
@@ -91,22 +149,13 @@ Total Estimated Cost: RM
 > Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
 
 ## 10. Technical Specifications:
- - Platform: The system should be web-based and accessible from any device with an internet connection, such as desktops, laptops, tablets, and smartphones. The system should be compatible with multiple operating systems and web browsers.
- - Programming languages and technologies: The system can be built using a combination of technologies such as HTML, CSS, JavaScript, PHP, Python, and MySQL. The system can also use frameworks such as Laravel, React, Angular, and Vue.js.
- - User Interface: The user interface should be easy to navigate and visually appealing, with features such as menus, search bars, and order tracking. The system can use responsive web design to optimize the user experience on different devices.
- - Order Management System: The system should have an order management system that allows restaurants to manage their orders, such as confirming orders, updating the status of orders, and sending notifications to customers.
- - Payment Gateway: The system should support different payment methods such as qr pay , online banking , and digital wallets. It should also integrate with a secure payment gateway to ensure the security of customer transactions.
 
 
 ## 11. Timeline and Deliverables: 
 
 
 ## 12. Conclusion:
-In conclusion, a food ordering system is an essential tool that can help restaurants and customers streamline their food ordering process. By using a web-based platform with an intuitive user interface, the system can provide customers with an easy and convenient way to order food from their favorite restaurants.
 
-The system can also help restaurants manage their orders efficiently, reducing the workload of staff and improving the accuracy of orders. Additionally, by integrating with third-party services such as social media platforms and payment services, the system can provide a seamless user experience.
-
-Overall, a food ordering system can help businesses increase their sales, improve customer satisfaction, and reduce operational costs. With the right technical specifications and features, a food ordering system can be an excellent investment for any restaurant looking to stay competitive in today's digital marketplace.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
