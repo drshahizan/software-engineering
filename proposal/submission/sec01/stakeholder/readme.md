@@ -188,7 +188,8 @@ In general, it's crucial to recognise and reduce these risks if we want the KTDI
   
 
 ### 9. Resources:
-- Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
+I. Staff Resources:
+<ul>Project Manager: responsible for overall management, planning, and coordination of the project.</ul>
 
 ### 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
