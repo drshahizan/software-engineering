@@ -147,7 +147,7 @@ Here's an example of PlantUML code that uses stereotypes to model the university
 
 Use Case Diagram:
 
-```
+```puml
 @startuml
 actor Student
 actor Faculty
@@ -171,9 +171,9 @@ rectangle System {
 @enduml
 ```
 
-Class Diagram:
+### Class Diagram:
 
-```
+```puml
 @startuml
 package Registration {
   class Student <<entity>> {
@@ -227,9 +227,9 @@ package Registration {
 @enduml
 ```
 
-Package Diagram:
+### Package Diagram:
 
-```
+```puml
 @startuml
 package University {
   
