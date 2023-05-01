@@ -20,19 +20,19 @@ Don't forget to hit the :star: if you like this repo.
 
 ### Table of Contents
 - [Table of Contents](#table-of-contents)
-- * [Executive Summary](#-executive-summary)
-- * [Background](#-background)
-- * [Objectives](#-objectives)
-- * [Scope](#-scope)
-- * [Software Process Model](#-software-process-model)
-- * [Budget](#-budget)
-- * [System Architecture](#-system-architecture)
-- * [Risks Assessment](#-risks-assessment)
-- * [Deliverables and Milestones](#-deliverables-and-milestones)
-- * [Resources](#-resources)
-- * [Technical Specifications](#-technical-specifications)
-- * [Timeline and Deliverables](#-timeline-and-deliverables)
-- * [Conclusion](#-conclusion)
+- [Executive Summary](#executive-summary)
+- [Background](#background)
+- [Objectives](#objectives)
+- [Scope](#scope)
+- [Software Process Model](#software-process-model)
+- [Budget](#budget)
+- [System Architecture](#system-architecture)
+- [Risks Assessment](#risks-assessment)
+- [Deliverables and Milestones](#deliverables-and-milestones)
+- [Resources](#resources)
+- [Technical Specifications](#technical-specifications)
+- [Timeline and Deliverables](#timeline-and-deliverables)
+- [Conclusion](#conclusion)
 
   
 ### 1. Executive Summary
