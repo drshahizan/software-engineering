@@ -43,7 +43,34 @@ This section describe the ideal software process model for this system developme
 - It should also describe the testing methodologies, project management practices, and quality assurance processes.
 
 ### 6. Budget:
-- The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
+The development of a student engagement system for approximately 40,000 students will involve various costs, including hardware, software, personnel, testing, and contingency. The budget for this project is estimated at **RM 4,000,000**, as outlined below:
+
+#### Hardware: RM 1,200,000
+- The hardware budget includes the cost of purchasing and maintaining the necessary hardware infrastructure to support the student engagement system, including servers, storage devices, network devices, and other necessary hardware components.
+- The hardware should be able to support a large number of users, with high-speed internet connectivity and ample storage capacity.
+- The hardware should also be scalable to accommodate potential future growth in the number of users.
+
+#### Software: RM 800,000
+- The software budget includes the cost of purchasing and licensing software tools and platforms required for the development of the student engagement system, such as communication and collaboration tools.
+- The software licenses should be carefully selected to ensure compatibility, functionality, and security.
+- The software should also be user-friendly and easy to navigate to ensure engagement and adoption by students.
+
+#### Personnel: RM 1,800,000
+- The personnel budget includes the cost of salaries and benefits for the development team, including the project manager, system analyst, programmers, and testers.
+- The development team should have experience and expertise in developing student engagement systems, with a focus on creating user-friendly and engaging systems that promote collaboration and communication among students.
+- The development team should also have expertise in data analysis and visualization to ensure that the system is able to track and analyze student engagement metrics effectively.
+
+#### Testing: RM 150,000
+- The testing budget includes the cost of conducting functional, performance, and security testing of the student engagement system.
+- The testing should include user acceptance testing to ensure that the system meets the needs and expectations of students.
+- The testing should also include stress testing to ensure that the system is able to handle a large number of users without performance issues.
+
+#### Contingency: RM 150,000
+- The contingency budget includes a small amount of funds set aside to cover any unexpected expenses that may arise during the development process.
+- These expenses could include unforeseen hardware or software failures, scope changes, or delays in the development process.
+- The contingency budget is included to ensure that the project can stay on track even in the face of unexpected challenges or setbacks, which could potentially impact student engagement.
+
+In conclusion, the estimated budget for the development of the student engagement system proposal is RM 4,000,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingency. Any changes in the budget will be communicated to stakeholders and project sponsors.
 
 ### 7. System Architecture:
 - Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
