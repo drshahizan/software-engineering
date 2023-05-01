@@ -103,7 +103,7 @@ The major objectives of building a student engagement website for Faculty Comput
  By enhancing student engagement and satisfaction, a student engagement website can help to improve student retention and reduce dropout rates.
   <li>Encourage student feedback:</li>
  A feedback system on the website can provide students with an opportunity to provide feedback on courses, instructors, and other aspects of their academic experience, which can help to improve the quality of education and overall student satisfaction.<br>
-  </ul>
+  </ul><br></br>
   Overall, the development of a student engagement website aims to provide a comprehensive platform that supports Faculty Computing's students throughout their academic journey, enhances their learning experience, and fosters a sense of community within the academic community.<br>
 
 ### 4. Scope: 
