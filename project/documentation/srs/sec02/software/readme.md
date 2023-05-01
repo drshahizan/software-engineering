@@ -48,7 +48,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>1. Dr. Mohd Firdaus Akmal bin Azman</td>
-    <td></td>
+    <td>PKU staff</td>
     <td>Medical Officer</td>
     <td>Provides idea for design, functionality, content, compliance, and provides training and support.</td>
   </tr>
