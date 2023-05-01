@@ -125,7 +125,7 @@ In conclusion, we can establish the foundation for the project plan, which outli
 ### 5. Software Process Model
 <!-- ***Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. *** -->
   
-Our main objective in creating the Kolej Tun Dr Ismail (KTDI) project's student housing system is to create a high-quality system within the allotted time and budget. We have decided to employ the <b> Agile methodology </b> as our development process model in order to accomplish this. This method places a focus on cooperation and participation from stakeholders throughout the development process, creating a system that is more adaptable and responsive.
+Our main objective in creating the Kolej Tun Dr Ismail (KTDI) project's student housing system is to create a high-quality system within the allotted time and budget. We have decided to employ the Agile methodology as our development process model in order to accomplish this. This method places a focus on cooperation and participation from stakeholders throughout the development process, creating a system that is more adaptable and responsive.
 
 Furthermore, because of the nature of student rooms, the Agile methodology is perfect for projects like ours where requirements and priorities may change frequently. Agile allows us to guarantee that the system is continually updated and enhanced depending on input from stakeholders. This will enable the Student Accommodation System for KTDI project to produce a system that satisfies their changing needs and expectations.
 
@@ -133,13 +133,13 @@ Furthermore, because of the nature of student rooms, the Agile methodology is pe
 
 Agile methodology for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) as stated below:
 
-1. Planning Phase: In this phase, the development team works with the client to identify the project scope, goals, and objectives. They define the project timeline and milestones, identify project risks, and allocate project resources appropriately. They create a sprint plan for the first iteration and identify the user stories and product backlog items that will be worked on in that sprint.
+1. Planning Phase: The project scope, objectives and also related stakeholders in this project are identified. This will also include the timeline and milestones, identify project risks and allocate project resources appropriately. A project blueprint is developed to foresee the final system and upcoming challenges. Thus, the team will oversee the overall project development. This phase will only take 1 week of time and will be lead by the project manager.
 
-2. Requirements Gathering Phase: In this phase, the business analyst works with the client to identify and prioritize user requirements. They develop user stories and create the product backlog items. They identify acceptance criteria for each user story and break down user stories into smaller tasks, which are then added to the sprint backlog. The development team and the client then meet to review and finalize the sprint backlog.
+2. Requirements Gathering Phase: The project requirement analyst team works with the indentified stakeholders to identify and prioritise user requirements of student accommodation system. The team will develop user stories and create the product as backlog items. The team then identifies acceptance criteria for each user story and break down user stories into smaller tasks, which are then added to the sprint backlog. The project development team and the stakeholders then meet to review and finalise the sprint backlog to get a complete system requirements. This phase takes 2 weeks in order to carry out the interview session with the stakeholders and keep in touch with them for the latest requirements. The requirement analysis will in charge of the collection and documentation of requirements for the project.
 
-3. Design Phase: In this phase, the technical lead works with the development team to develop a high-level design of the system. They identify and design the database schema, create detailed design documents, and develop wireframes and prototypes for the user interface. The design is reviewed with the development team and the client, and any necessary changes are made.
+3. Design Phase: In this phase, the system designer and the main developer lead works with the development team to develop a high-level design of the system. The team identifies and designs the database schema, creates detailed design documents and develops wireframes and prototypes for the user interface. The design is then reviewed with the development team and the stakeholders and any necessary changes are made later. It will take 2 weeks in this phase and the UI/UX system designer and the main developer take the vital role in giving out design architecture.
 
-4. Development Phase: In this phase, the development team develops and tests the software components according to the sprint backlog. They conduct code reviews to ensure code quality, write unit tests, and perform unit testing. They update code documentation and conduct daily stand-up meetings to discuss progress, address any issues or roadblocks, and plan for the next day.
+4. Development Phase: The development team begins the development of the software components according to the sprint backlog. The team conducts code reviews to ensure code quality, write unit tests and perform unit testing. Updating of code documentation and conducting daily stand-up meetings are nesscessary to discuss progress, address any issues or roadblocks as well as plan for the next day of work. This phase takes 4 weeks to implement and the tasks will be took charge by the developer team and the main developer will become the leader in carrying out the backend works, while fontend works by the user interface or user experience designer.
 
 5. Testing Phase: In this phase, the quality assurarance (QA) engineer works with the development team to develop a test plan and test cases. They conduct functional, integration, and acceptance testing, report and track defects using a bug tracking tool, and ensure the software meets the acceptance criteria. The development team and the client meet to review the test results and identify any necessary changes.
 
@@ -151,7 +151,7 @@ Agile methodology for developing the Student Accommodation System in Kolej Tun D
   
 To assure the quality and functionality of the system, many testing methodologies are employed in this project, including unit testing, integration testing, system testing, acceptance testing, and usability testing. Project management techniques leverage technologies like Kanban boards, sprint planning and regular stand-up meetings to track progress and guarantee task completion on time. To maintain code quality and reduce errors, quality assurance procedures like code review, continuous integration and automated testing are used. These procedures are essential for ensuring the effective deployment and operation of the KTDI system for student accommodation.
 
-  <!DOCTYPE html>
+  <!--<!DOCTYPE html>
 <html>
   <head>
   <body>
@@ -181,7 +181,7 @@ To assure the quality and functionality of the system, many testing methodologi
         <td></td>
       </tr>
       <tr class="phase-divider"><td colspan="4"></td></tr> <!-- Add a divider after Phase 1 -->
-      <tr>
+     <!-- <tr>
         <td>Phase 2: Development</td>
         <td>Row 1, Column 2</td>
         <td>Row 1, Column 3</td>
@@ -206,7 +206,7 @@ To assure the quality and functionality of the system, many testing methodologi
         <td></td>
       </tr>
       <tr class="phase-divider"><td colspan="4"></td></tr> <!-- Add a divider after Phase 2 -->
-      <tr>
+      <!--<tr>
         <td>Phase 3: Testing and Deployment</td>
         <td>Row 1, Column 2</td>
         <td>Row 1, Column 3</td>
@@ -224,7 +224,7 @@ To assure the quality and functionality of the system, many testing methodologi
         <td>Row 3, Column 3</td>
         <td></td>
       </tr>
-    </table>
+    </table>-->
 In conclusion, the Agile methodology is an effective software process model for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) because it emphasizes flexibility, collaboration, and continuous customer feedback. It allows the development team to respond quickly to changes in requirements and deliver high-quality software in shorter development cycles.
 
 ---
