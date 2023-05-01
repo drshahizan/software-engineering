@@ -188,7 +188,7 @@ The proposed system architecture for Student Accommodation System project at Kol
 The proposed student accommodation system will follow a three-tier architecture, with a presentation layer, application layer, and database layer.
   
 #### Hardware and Software Requirements:
-  Hardware and software requirements are crucial components of our proposed system architecture. Managing the KTDI's student accomodation system's hardware and software requirements could be done as follows:
+Hardware and software requirements are crucial components of our proposed system architecture. Managing the KTDI's student accomodation system's hardware and software requirements could be done as follows:
   i. Hardware requirements -><br>
   - 
   ii. Software requirements -><br>
@@ -196,7 +196,39 @@ The proposed student accommodation system will follow a three-tier architecture,
   - Bootstrap as the framework used for web application creation.
   - R studio as the data representation tool.
   - 
-  
+#### System Architecture Diagram:
+The proposed system architecture can be visualized using the following flowchart:
+```java  
+USER INTERFACE (Bootstrap/Html/css/JavaScript)
+  |
+  V
+WEB APPLICATION SERVER (Apache)
+  |
+  V
+DATABASE SERVER (MySQL)
+``` 
+High-level diagram that represents our proposed system architecture:
+```sql
++----------------------------------------------------+
+|               Relational Database                  |
++----------------------------------------------------+
+|               MySQL or PostgreSQL                  |
++----------------------------------------------------+
+              ^                     ^
+              |                     |
+              |                     |
+   +------------------+     +------------------+
+   |    Web Platform  |     |  Server-side API |
+   |     (ReactJS)    |     |    (Node.js)     |
+   +------------------+     +------------------+
+              ^                     ^
+              |                     |
+              |                     |
++----------------------------------------------------+
+|              User-Facing Interfaces                |
+|                (Web Applications)                  |
++----------------------------------------------------+
+``` 
   
 ---
 
@@ -284,7 +316,7 @@ IV. Other Expenses:<br>
   
 - Data Schema:<br>The system's required functionality, such as user identification and authorisation, hotel reservations, payment processing, room allocation, room management, communication features, and reporting, should be supported by the data schema. The schema ought to be created to make it simple to access and retrieve the data.
   
-- Data Transformations:<br> In order to guarantee the data's accuracy, consistency, and completeness, the system might need to alter it. Validating payment transactions, updating room availability, creating user accounts, and producing reports are a few examples of transformations. A number of technologies, including computer languages like Python, R, and SQL, could be used to do these modifications.
+- Data Transformations:<br> In order to guarantee the data's accuracy, consistency, and completeness, the system might need to alter it. Validating payment transactions, updating room availability, creating user accounts, and producing reports are a few examples of transformations. A number of technologies, including computer languages like Python, R, and MySQL, could be used to do these modifications.
   
 - Machine Learning Algorithms:<br> The KTDI Student Accommodation System may not immediately benefit from the use of machine learning methods. However, the system could use decision trees or rule-based algorithms to assign rooms in accordance with student preferences and accessibility.
   
