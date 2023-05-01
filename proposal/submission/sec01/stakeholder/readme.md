@@ -183,15 +183,15 @@ In shorts, the expected budget for the development of the student accommodation 
 The proposed architecture for the Student Accommodation System project at Kolej Tun Dr Ismail will consist of three layers: the presentation layer, the application layer, and the data layer.
  
 - Presentation Layer: The presentation layer is the front-end of the system that users will interact with. It will consist of a web-based user interface built using the Bootstrap framework with HTML, CSS as well as JavaScript. The presentation layer will be responsible for presenting the data to the users and allowing them to interact with the system in order to improve the user experience.
-- Application Layer: The application layer is the middle layer of the system that will handle the business logic and data processing. It will consist of a back-end server built using Node.js and Express.js. The application layer will be responsible for processing requests from the front-end and communicating with the data layer.
+- Application Layer: In this middle layer of the system, PHP language will be used to handle the business logic and data processing. It will be responsible for processing requests from the front-end and communicating with the data layer.
 - Data Layer: The data layer is the back-end of the system that will store and manage the data. It will consist of a MongoDB database, which will be accessed using the Mongoose library. The data layer will be responsible for storing and retrieving data from the database.
 - Data Visualization Layer: The Data Visualization Layer will be responsible for presenting the data in an understandable and interactive format for the end-users. This layer will use visualization libraries which is D3.js.
 - Server Layer: The server layer will be responsible for hosting and managing the system and its components. In this layer, we will use the Apache HTTP Server as the web server software to handle the HTTP requests and responses between the users and the web-based front-end.
   
 
-
-
 #### Data Storage and Management:
+MySQL will be used as the Relational Database Management System (RDBMS) to store and manage the data. All the data collected will be stored and organised in the form of table which representing a specific type of data such as maintainance records, student records, room records, and accommodation booking records. 
+  
 #### Hardware and Software Requirements:
   
 Hardware and software requirements are crucial components of our proposed system architecture. Managing the KTDI's student accomodation system's hardware and software requirements could be done as follows:
