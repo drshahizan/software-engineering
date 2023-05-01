@@ -65,7 +65,7 @@
     background-color: rgb(106, 40, 152);
     color: #ffffff;
     padding: 20px;
-    border: black solid;
+    border: black solid 5px;
   }
 
   .m2red{
@@ -79,7 +79,7 @@
     border: black solid 5px;
   }
   .m2mustard{
-    background-color: goldenrod;
+    background-color: orange;
     padding: 20px;
     border: black solid 5px;
   }
