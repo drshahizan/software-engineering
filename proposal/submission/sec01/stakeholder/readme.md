@@ -120,7 +120,7 @@ By defining the scope of the project, the project team can establish the foundat
   
 The software process model's goal is to offer a structured and well-organized method for developing software. It aids in making certain that the software is delivered on schedule, within budget, and in accordance with the needs and expectations of the stakeholders.
   
-The ideal software process model to be implemented in this project is <b>Agile methodology<b>. This is because of the Agile methodology is an iterative and incremental software development approach that emphasizes flexibility, collaboration, and continuous customer feedback. Besides, the Agile methodology is well-suited for developing software applications where requirements can change frequently, and the development team needs to be able to respond to those changes quickly.
+The ideal software process model to be implemented in this project is <b>Agile methodology</b>. This is because of the Agile methodology is an iterative and incremental software development approach that emphasizes flexibility, collaboration, and continuous customer feedback. Besides, the Agile methodology is well-suited for developing software applications where requirements can change frequently, and the development team needs to be able to respond to those changes quickly.
 
 <p align="center"><img src="https://i0.wp.com/mobile-jon.com/wp-content/uploads/2021/04/Agile-Methodology.jpg?fit=1920%2C1080&ssl=1" width="700px" height="350px"></p>
 
