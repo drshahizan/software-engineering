@@ -20,6 +20,20 @@ Don't forget to hit the :star: if you like this repo.
 
 ### Table of Contents
 - [Table of Contents](#table-of-contents)
+- * [Executive Summary](#-executive-summary)
+- * [Background](#-background)
+- * [Objectives](#-objectives)
+- * [Scope](#-scope)
+- * [Software Process Model](#-software-process-model)
+- * [Budget](#-budget)
+- * [System Architecture](#-system-architecture)
+- * [Risks Assessment](#-risks-assessment)
+- * [Deliverables and Milestones](#-deliverables-and-milestones)
+- * [Resources](#-resources)
+- * [Technical Specifications](#-technical-specifications)
+- * [Timeline and Deliverables](#-timeline-and-deliverables)
+- * [Conclusion](#-conclusion)
+
   
 ### 1. Executive Summary
 Our proposed UTM Event Management System is a comprehensive solution aimed at simplifying and streamlining the processes of event management for organisers, attendees, and administrators. To achieve this, we are utilising advanced technologies and industry best practices to provide a seamless user experience that enables organisers to plan and execute successful events with ease, and attendees to easily discover, register and participate in events. The key features of our system include real-time event scheduling, registration, various types of activities and merit, and feedback capabilities, which give organisers and administrators the ability to optimise event planning, monitor performance, and make informed data-driven decisions. Attendees will also benefit from a user-friendly interface, as well as integration with various social media platforms. Ultimately, our UTM Event Management System will provide measurable value to all stakeholders, resulting in increased event participation, better engagement and satisfaction, and a stronger institutional reputation. By investing in our system, UTM will be at the forefront of event management technology and innovation.
@@ -142,7 +156,7 @@ Note: All costs mentioned above are estimates and are subject to change based on
 - Explain the data security measures that will be implemented.
 
 ### 11. Timeline and Deliverables: 
-
+-Below is the timeline and deliverables of the project:
     <table style="border-collapse: collapse;">
       <thead>
         <tr>
