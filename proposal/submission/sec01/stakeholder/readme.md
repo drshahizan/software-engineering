@@ -195,6 +195,7 @@ MySQL will be used as the Relational Database Management System (RDBMS) to store
 #### Hardware and Software Requirements:
   
 Hardware and software requirements are crucial components of our proposed system architecture. Managing the KTDI's student accomodation system's hardware and software requirements could be done as follows:
+
 i. Hardware requirements 
 - Server: For database management
 - Cloud hosting service: For the web platform
