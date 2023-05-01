@@ -7,12 +7,34 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-
-
-
 # Module 5: Requirements Analysis and modelling ME
 
-This module focuses on the process of eliciting, analyzing, specifying, validating, and managing software requirements for a case study on an academic course registration system. Specifically, the module aims to guide students in creating an IEEE Software Requirements Document (SRD) for the system.
+Requirements modeling is a crucial activity in software engineering that involves the identification, analysis, specification, and validation of the requirements of a software system. It is a systematic approach to capture the needs and expectations of stakeholders and translate them into a form that can be used to design, develop, and test a software product.
+
+The requirements modeling process typically involves the following steps:
+
+1. Requirements Elicitation: The process of gathering information from stakeholders about their needs, expectations, and goals. This can be done through interviews, surveys, focus groups, and other methods.
+
+2. Requirements Analysis: The process of examining and understanding the gathered requirements, identifying any inconsistencies or conflicts, and prioritizing them based on their importance and feasibility.
+
+3. Requirements Specification: The process of documenting the requirements in a clear and unambiguous form, using techniques such as use cases, user stories, and formal specifications.
+
+4. Requirements Validation: The process of verifying that the specified requirements are complete, correct, and consistent, and that they meet the needs of stakeholders.
+
+There are several techniques and tools that can be used for requirements modeling, including:
+
+- Use Case Modeling: A technique that captures the functional requirements of a system in the form of user scenarios and interactions.
+
+- Entity-Relationship Modeling: A technique that captures the data requirements of a system in the form of entities and their relationships.
+
+- State-Transition Modeling: A technique that captures the behavior of a system in the form of states and transitions.
+
+- Formal Specification Languages: A technique that uses mathematical notation to specify requirements precisely and unambiguously.
+
+Requirements modeling is critical to the success of a software project as it helps ensure that the software system meets the needs of its users and stakeholders. It also helps to prevent costly rework by identifying issues early in the development cycle.
+
+
+
 
 | No | Part | Description |
 | --- | --- | --- |
