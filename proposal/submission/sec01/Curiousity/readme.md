@@ -54,20 +54,25 @@ This section describe the ideal software process model for this system developme
 The development of the academic course registration system for 30,000 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at RM 1,300,000, as outlined below:
 
 - **Hardware Costs: RM 400,000**
+
 This includes the cost of servers, storage, networking equipment, and other hardware required to support the system. This cost will vary depending on the specific hardware configuration chosen, but it is essential to ensure that the system can handle the expected number of users and data volume.
 
 - **Software Costs: RM 150,000**
+
 This includes the cost of licences for any third-party software required, such as operating systems, databases, and development tools. It also includes the cost of any software development needed for the project, such as custom modules or integrations.
 
 - **Personnel Costs: RM 324,000**
+
 This includes the cost of the development team, project managers, and quality assurance specialists. The team size and composition will vary depending on the complexity of the project, but it is essential to ensure that the team has the necessary skills and experience to complete the project on time and within budget.
 Testing Costs: RM 76,000
 This includes the cost of testing the software to ensure that it meets the specified requirements and is free of defects. This cost will depend on the testing approach chosen, such as manual or automated testing.
 
 - **Other Expenses: RM 250,000**
+
 This includes the cost of rent for office space, utilities, marketing and advertising, and testing.
 
 - **Contingency Plan: RM 100,000**
+
 It is always recommended to have a contingency plan for unexpected expenses that may arise during the project. This can include budget reserves or adjusting the scope of the project if necessary.
 
 In conclusion, the estimated budget for the development of the UTM Event Management System is RM 1,300,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingency. Any changes in the budget will be communicated to stakeholders and project sponsors.
@@ -101,7 +106,7 @@ Total Staff Cost: RM 324,000/year
 - Security and Backup: RM 50,000
 Total Equipment Cost: RM 400,000
 
-Software:
+**Software:**
 - Relational Database Management System (RDBMS): RM 50,000
 - Web Server: RM 20,000
 - Mobile Application Development Framework: RM 30,000
