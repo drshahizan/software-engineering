@@ -98,12 +98,7 @@ The UTM Grading System will utilize a Relational Database Management System (RDB
 - Data Visualization: Chart.js
 The system will have a multi-tier architecture consisting of a presentation layer, application layer, and data layer. The presentation layer will be responsible for displaying the user interface and handling user interactions. The application layer will be responsible for implementing the business logic of the system and handling user requests. The data layer will be responsible for storing and managing data.
 - Provide a flowchart or block diagram of the system architecture.
-- Flowchart:
-+---------------------+       +------------------------+       +-----------------------+
-|                     |       |                        |       |                       |
-| Presentation Layer  +------->     Application Layer   +------->      Data Layer         |
-|                     |       |    (Laravel Framework)  |       |    (MySQL, RDBMS)     |
-+---------------------+       +------------------------+       +-----------------------+
+
 
 - Block Diagram: 
              +------------------+
