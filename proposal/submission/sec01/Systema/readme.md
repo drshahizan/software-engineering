@@ -67,11 +67,11 @@ This section describe the ideal software process model for this system developme
 - Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
 
   1. Staff:
-+ *Quality assurance specialist & Web Developer* Bernice Lim Jing Xuan
-+ *Business Analyst & User Interface Designer* Chai Yu Tong
-+ *Support Engineer & Data Analyst* Kek Jesslyn
-+ *Security Specialist & Developement Operations Engineer* Wong Qiao Ying
-+ *Technical Writer & User Experience Designer* Yeoh Chong Yi
+    + *Quality assurance specialist & Web Developer* Bernice Lim Jing Xuan
+    + *Business Analyst & User Interface Designer* Chai Yu Tong
+    + *Support Engineer & Data Analyst* Kek Jesslyn
+    + *Security Specialist & Developement Operations Engineer* Wong Qiao Ying
+    + *Technical Writer & User Experience Designer* Yeoh Chong Yi
 
 ### 10. Technical Specifications:
 The student engagement system proposed will require the following technical specifications:
