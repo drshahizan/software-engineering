@@ -142,26 +142,21 @@ The major objectives of building a student engagement website for Faculty Comput
 </ol>
 
 ### 5. Software Process Model:
-
-The <b>waterfall model</b> is a linear, sequential approach to software development that involves distinct phases, such as requirements gathering, design, implementation, testing, and maintenance. This model is particularly suitable for student engagement systems that have well-defined requirements and a clear understanding of the system's functionality.
+A software process model for a student engagement system refers to a set of activities and phases that are used to design, develop, test, and maintain the software system. It provides a framework for organizing the software development process and helps to ensure that the final product meets the requirements and needs of the stakeholders.
 <br>
-Here is how the waterfall model can be applied to the development of a student engagement system:
+The <b>Agile software process model</b> is an ideal process model for student engagement system. It is a software process model that emphasizes iterative and incremental development, flexibility, and collaboration between team members and stakeholders. It is particularly suitable for projects where the requirements are likely to evolve over time, such as a student engagement system.
 <br>
-<ol>
-  <li>Requirements gathering:</li>
-   In this stage, the requirements of the student engagement system are gathered from stakeholders such as students, lecturers, JKM and MPP. This stage involves identifying the features, functionalities, and specifications that the system should possess.
-  <li>System design:</li>
-   In this stage, the system is designed based on the requirements gathered in the previous stage. The design phase involves creating a plan for how the system will be developed and implemented.
-  <li>Implementation:</li>
-   In this stage, the system is developed according to the design specifications. The coding and programming phase of development takes place in this stage, and the software is built as per the requirements identified in the previous stages.
-  <li>Testing:</li>
-   In this stage, the system is tested to ensure that it meets the requirements and functions as expected. The testing phase involves performing functional testing, performance testing, and usability testing to ensure that the system meets the required quality standards.
-  <li>Deployment:</li>
-   In this stage, the system is deployed to the production environment. The deployment phase involves ensuring that the system is installed and configured correctly in the production environment and that all the necessary documentation and training materials are provided.
-  <li>Maintenance:</li>
-   In this stage, the system is maintained and supported over its entire lifecycle. This includes providing ongoing support to users, fixing bugs and issues, and making updates and enhancements to the system as needed.
-
-The waterfall model provides a structured approach to software development, which makes it a suitable process model for student engagement systems. It ensures that the requirements are well understood, and the design and implementation of the system are done in a phased manner. However, the main disadvantage of this model is that it is not suitable for projects that require a high degree of flexibility or for those where requirements may change over time.
+Here is the phases of agile model that can be applied to the development of a student engagement system:
+<br>
+<ul>
+  <li>Planning: In this phase, the project team identifies the project's objectives, timelines, and available resources. The team creates a backlog of features and user stories, prioritizes them, and estimates their effort.</li>
+  <li>Analysis and Design: In this phase, the team analyzes and designs the software architecture, database design, and user interface. The team also identifies dependencies, risks, and assumptions.</li>
+  <li>Development: In this phase, the team develops the software incrementally in short iterations called sprints. Each sprint typically lasts two to four weeks, and the team develops and tests a small set of features. The team collaborates daily and continuously reviews the product backlog to adjust the priorities and scope.</li>
+  <li>Testing: In this phase, the team performs testing continuously throughout the development process. The team writes automated unit tests, integration tests, and acceptance tests to ensure the software meets the requirements.</li>
+  <li>Deployment: In this phase, the team deploys the software to the production environment. The team releases the software incrementally, and each release includes a set of tested features.</li>
+  <li>Maintenance: In this phase, the team maintains the software by fixing defects, adding new features, and improving the system's performance. The team continuously receives feedback from users and stakeholders to improve the system further.</li>
+</ul>
+<br>
 
 ### 6. Budget:
 The development of a student engagement system for approximately 40,000 students will involve various costs, including hardware, software, personnel, testing, and contingency. The budget for this project is estimated at **RM 4,000,000**, as outlined below:
