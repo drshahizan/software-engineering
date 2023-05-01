@@ -45,15 +45,15 @@
   .m1main {
     grid-column: 1 / 2;
     background-color: #b76c6c;
-    padding: 20px;
+    padding: 50px;
     border: black solid;
-    width: 50px;
+    width: fit-content;
   }
   
   .m1sidebar {
     grid-column: 4 / 2;
     background-color: #6791d1;
-    padding: 20px;
+    padding: 50px;
     border: black solid;
   }
   
@@ -61,7 +61,7 @@
     grid-column: 1 / 4;
     background-color: #f1fcab;
     color: #ffffff;
-    padding: 20px;
+    padding: 50px;
     border: black solid;
     height: 60px;
   }
