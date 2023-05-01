@@ -147,6 +147,8 @@ In conclusion, the estimated budget for the development of the UTM Event Managem
 #### Programming Languages:
 - Java: Java is a widely used language with a large developer community and many resources available for learning and development. It is also well-suited for building robust and scalable systems.
 - Python: Python is a versatile language that is well-suited for data analysis and machine learning. It also has a large number of libraries available for data manipulation, analysis, and visualization.
+- Hypertext Markup Language (HTML): Standard markup language used to create web pages. It defines the structure and content of a web page by using a set of tags and attributes to mark up different elements on the page, such as headings, paragraphs, images, and links. HTML provides the foundation for creating the content of a web page, but does not define the presentation or styling of the page.
+- Cascading Style Sheets (CSS): A style sheet language used to define the visual presentation of a web page. CSS is used to define the layout, color, typography, and other visual aspects of a web page, and works by defining rules that specify how different HTML elements should be displayed. CSS allows web designers and developers to separate the presentation and content of a web page, making it easier to update and maintain the design of a website.
 - PHP: PHP is a popular language for web development, and is often used in conjunction with databases to create dynamic and interactive websites.
 #### Frameworks:
 - Spring: Spring is a Java-based framework that provides a comprehensive platform for building robust and scalable web applications. It includes features such as dependency injection, data access, and web services.
