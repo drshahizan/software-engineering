@@ -16,6 +16,27 @@ Don't forget to hit the :star: if you like this repo.
 
 # Part 2: Use Case Diagram
 
+UML (Unified Modeling Language) is a visual modeling language used to represent software systems. UML diagrams provide a standardized way to express various aspects of a system's design, behavior, and structure. There are several types of UML diagrams, each with its own specific purpose.
+
+For a university academic course registration system, we can use various types of UML diagrams to represent its different aspects. 
+
+## 1. Use case diagram
+A use case diagram can be used to represent the interactions between the university academic course registration system and its actors. The actors in this case may include students, faculty, and administrators. The use cases may include registering for a course, dropping a course, checking course availability, and generating reports.
+
+## 2. Activity diagram
+An activity diagram can be used to represent the activities involved in the course registration process. This may include activities like selecting courses, checking course prerequisites, selecting class timings, adding courses to the cart, and submitting the registration form.
+
+## 3. Sequence diagram
+A sequence diagram can be used to represent the interactions between actors and the system components during the course registration process. This may include interactions between students and the course catalog system, between students and the registration system, and between the registration system and the database.
+
+## 4. Class diagram
+A class diagram can be used to represent the object classes in the system and their relationships. The object classes in this case may include students, courses, faculty, departments, and the registration system. The relationships may include associations between students and courses, between faculty and courses, and between departments and courses.
+
+## 5. State diagram
+A state diagram can be used to represent the different states of an object in the system and the transitions between these states. For example, a state diagram can be used to represent the different states of a course, such as open, closed, waitlisted, or cancelled. It can also represent the states of a student's course registration, such as registered, dropped, or waitlisted.
+
+Overall, UML diagrams can be used to represent the different aspects of a university academic course registration system and provide a standardized and visual way to communicate its design and behavior to stakeholders.
+
 ## Interaction Model
 
 An interaction model is a type of Use Case diagram in software engineering that shows how different actors or users interact with the system to achieve certain goals or objectives. In the context of the university academic course registration system, the interaction model would depict the various steps involved in the registration process from the perspective of the different user roles, such as students, faculty, and staff.
