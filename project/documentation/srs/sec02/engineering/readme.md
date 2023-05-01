@@ -17,20 +17,20 @@ Don't forget to hit the :star: if you like this repo.
     <th>Role</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
+    <td>1.Thevan</td>
+    <td>Front-end Developer</td>
   </tr>
   <tr>
-    <td>2</td>
-    <td></td>
+    <td>2.Nurul Erina binti Zainuddin</td>
+    <td>Project Manager</td>
   </tr>
     <tr>
-    <td>3</td>
-    <td></td>
+    <td>3.Nik </td>
+    <td>Software Architect</td>
   </tr>
     <tr>
-    <td>4</td>
-    <td></td>
+    <td>4.Izzah</td>
+    <td>Back-end Developer</td>
   </tr>
 </table>
 
