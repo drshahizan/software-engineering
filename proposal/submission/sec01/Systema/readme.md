@@ -62,7 +62,7 @@ Don't forget to hit the :star: if you like this repo.
   
 ### 1. Executive Summary
 This proposal recommends the development of a student engagement website that includes a suite of features designed to facilitate student engagement and enhance the student experience. The website will serve as a hub for students to access course-specific information, connect with their peers, and stay up-to-date with important academic events and deadlines.
-<br>
+<br></br>
 The key features of the student engagement website include:
 <ul>
 <li>A personalized dashboard that displays a student's academic schedule, assignments, and other relevant information in a user-friendly interface.</li>
