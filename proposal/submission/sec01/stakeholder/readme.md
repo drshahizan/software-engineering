@@ -43,6 +43,8 @@ The system will be designed to be user-friendly and accessible, with clear instr
 
 The expected outcomes of the project include improved student and also KTDI staffs satisfaction, as the software system will provide a more convenient and streamlined process for managing accommodation. KTDI staff will also benefit from increased efficiency, as the system will reduce the need for manual data entry and administrative tasks. Finally, the system is expected to reduce errors and delays in the accommodation management process, resulting in a more reliable and efficient system overall.
 
+---
+  
 ### 2. Background:
 The student accommodation system is an essential aspect of managing student life on a university campus. It automates the process of assigning student room and ensures that students are placed in suitable accommodations that meet their needs and preferences. The system is vital in providing a comfortable and safe living environment for students, promoting their academic success and overall well-being. However, the current unintegrated and unorganised system in KTDI can be time-consuming, prone to error and inconsistencies, leading to inefficiencies in the room application and management process and a poor user experience for both students and administrators.
 
@@ -51,6 +53,8 @@ Our proposed student accommodation system is focused to overcome these challenge
 The key features of this system include a user-friendly interface that integrates with other university systems such as billing and student information, and enhanced data analysis capabilities to provide insights into occupancy rates, student preferences, and college merits. It also embraces features such as tracking maintenance requests, scheduling repairs and replacements, and ensuring compliance with safety regulations to ensure that student accommodations are well-maintained and safe. Thus, this system enables students to take control on their hostel selection and staff and administrators will additionally profit from enhanced room management, data analytics, and more effective working operation.
   
 The student accommodation system features offer significant benefits for the university community, with the potential to impact the accommodation allocation process positively. The automation of the allocation process will increase efficiency, save time, and eliminate errors that often occur during manual allocation. The online application process will simplify the application process for students, creating a better user experience. The data analysis capabilities will allow administrators to make informed decisions about future housing allocation, resulting in a more strategic and effective approach. The enhanced security measures will protect students' personal information, improving privacy and security. The maintenance system will ensure the hostel remains well-maintained, creating a comfortable and safe living environment for students. Overall, the student accommodation system features will improve the quality of the accommodation allocation process, streamline processes, improve the student experience, and enhance the reputation of the university.
+  
+---
 
 ### 3. Objectives:
 Our proposed student accommodation system aims to achieve the following objectives:
@@ -80,6 +84,8 @@ Our proposed student accommodation system aims to achieve the following objectiv
 **Time-bound:** The objective will be achieved within the first three years of the project.
 
 These SMART objectives for our introduced student accommodation system in KTDI are all specific, measurable, achievable, relevant and time-bound. They offer a clear road map for reaching the intended results and are in line with the project's goals and objectives.
+  
+---
 
 ### 4. Scope: 
 The scope of the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) refers to the boundaries or limits of the project, defining what elements the system will and won't have. It outlines the features and functionalities of the system, including its goals, objectives, and requirements, as well as the expected outcomes and benefits. Here are more detailed explanations of the features and functionality of a student accommodation system:
@@ -114,6 +120,7 @@ Besides,there are several limitations and constraints that may affect the projec
   
 By defining the scope of the project, the project team can establish the foundation for the project plan, which outlines the specific tasks, resources, timelines, and budgets needed to achieve the project goals. This helps to ensure that the project is completed successfully, on time, and within budget, and that the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) meets the needs of all stakeholders.
 
+---
 
 ### 5. Software Process Model:
 <!-- ***Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. *** -->
@@ -177,6 +184,19 @@ In shorts, the expected budget for the development of the student accommodation 
 - Provide a flowchart or block diagram of the system architecture.
   
 The proposed student accommodation system will follow a three-tier architecture, with a presentation layer, application layer, and database layer.
+  
+#### Hardware and Software Requirements:
+  Hardware and software requirements are crucial components of our proposed system architecture. Managing the KTDI's student accomodation system's hardware and software requirements could be done as follows:
+  i. Hardware requirements -><br>
+  - 
+  ii. Software requirements -><br>
+  - React.js as the font-end JavaScript library for development of interactive website user interface.
+  - Bootstrap as the framework used for web application creation.
+  - R studio as the data representation tool.
+  - 
+  
+  
+---
 
 ### 8. Risks Assessment:
 A project, programme, or organization's potential risks must be identified, evaluated, and prioritised as part of the risk assessment process. It is a crucial component of risk management, which seeks to reduce the likelihood and effect of prospective dangers. Both quantitative and qualitative ways of expressing the outcomes of this procedure are possible. To help minimise any potential risk-related repercussions, risk assessment is a necessary component of a larger risk management plan. The risk assessments that related to the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) are:
@@ -204,7 +224,8 @@ To mitigate these risks, the following strategies will be employed:
 - Legal and regulatory risk: KTDI should make sure the system complies with pertinent data protection and privacy legislation, like the Personal Data Protection Act (PDPA), in order to reduce legal and regulatory risks. Additionally, they should constantly audit and examine the system to make sure it complies with applicable laws and regulations, as well as review and update data protection and privacy policies to ensure compliance with evolving legislation.
   
 In general, it's crucial to recognise and reduce these risks if we want the KTDI student housing system to be successful. KTDI can lessen possible adverse effects and increase the advantages of the system by taking a proactive approach to risk management.
-  
+
+---
 
 ### 9. Resources:
 I. Staff Resources:<br>
@@ -240,6 +261,8 @@ III. Software Resources:<br>
 IV. Other Expenses:<br>
 - Cloud Hosting Fees: Cloud service such as Google Cloud.
 
+---
+
 ### 10. Technical Specifications:
 - Data Sources:<br> Data on students, available rooms, room allocation, payment transactions, maintenance requests, and communication logs may need to be gathered and stored by the system. These data sources might include a mix of streamed data from payment gateways or messaging platforms, unstructured data from chat logs, and structured data from databases.
   
@@ -272,6 +295,8 @@ IV. Other Expenses:<br>
 - Provide a detailed timeline for the project, including milestones and deadlines.
 - Specify the deliverables that will be provided at each milestone. It should also specify the expected time frame for each deliverable and the resources that will be required to complete the project.
 - Explain the quality assurance and testing procedures that will be followed.
+  
+---
 
 ### 12. Conclusion:
 
