@@ -180,9 +180,10 @@ In shorts, the expected budget for the development of the student accommodation 
 ### 7. System Architecture:
 The proposed architecture for the Student Accommodation System project at Kolej Tun Dr Ismail will consist of three layers: the presentation layer, the application layer, and the data layer.
  
-- Presentation Layer: The presentation layer is the front-end of the system that users will interact with. It will consist of a web-based user interface built using the Bootstrap framework. The presentation layer will be responsible for presenting the data to the user and allowing them to interact with the system.
+- Presentation Layer: The presentation layer is the front-end of the system that users will interact with. It will consist of a web-based user interface built using the Bootstrap framework with HTML, CSS as well as JavaScript. The presentation layer will be responsible for presenting the data to the users and allowing them to interact with the system in order to improve the user experience.
 - Application Layer: The application layer is the middle layer of the system that will handle the business logic and data processing. It will consist of a back-end server built using Node.js and Express.js. The application layer will be responsible for processing requests from the front-end and communicating with the data layer.
 - Data Layer: The data layer is the back-end of the system that will store and manage the data. It will consist of a MongoDB database, which will be accessed using the Mongoose library. The data layer will be responsible for storing and retrieving data from the database.
+- Data Visualization Layer: The Data Visualization Layer will be responsible for presenting the data in an understandable and interactive format for the end-users. This layer will use visualization libraries which is D3.js.
 - Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
 - Explain how the data will be stored, managed, and analyzed, as well as the hardware and software requirements needed to support the system.
 - Discuss the tools and frameworks that will be used for data visualization and analysis.
