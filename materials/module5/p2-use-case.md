@@ -170,6 +170,9 @@ rectangle System {
 }
 @enduml
 ```
+<p align="center">
+<img src="ucase-s.png"  width="600" />
+</p>
 
 ### Class Diagram:
 
