@@ -199,30 +199,44 @@ The proposed student accommodation system will follow a three-tier architecture,
 ---
 
 ### 8. Risks Assessment:
-A project, programme, or organization's potential risks must be identified, evaluated, and prioritised as part of the risk assessment process. It is a crucial component of risk management, which seeks to reduce the likelihood and effect of prospective dangers. Both quantitative and qualitative ways of expressing the outcomes of this procedure are possible. To help minimise any potential risk-related repercussions, risk assessment is a necessary component of a larger risk management plan. The risk assessments that related to the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) are:
 
-- Security risk: Cyberattacks, data breaches, and hacking could pose security risks to the student housing system. KTDI should put in place robust security measures including firewalls, encryption, and access controls, as well as routine security audits, to reduce this risk.
+A project, programme, or organization's potential risks must be identified, evaluated, and prioritised as part of the risk assessment process. It is a crucial component of risk management, which seeks to reduce the likelihood and effect of prospective dangers. Both quantitative and qualitative ways of expressing the outcomes of this procedure are possible. To help minimise any potential risk-related repercussions, risk assessment is a necessary component of a larger risk management plan.
 
-- Technical risk: Technical problems with the system could include hardware breakdowns, software glitches, and system outages. KTDI should make investments in dependable hardware and software, carry out routine maintenance and updates, and have back-up procedures in place to manage system downtime in order to reduce this risk.
+The risk assessments that related to the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) are:
 
-- Financial risk: The Student Accommodation System may be expensive to implement and operate, and it's possible that revenue production won't be enough to cover those costs. To lessen this risk, KTDI should create a reasonable budget and revenue strategy to reduce this risk, and should constantly assess the system's ROI to make sure it is generating enough income to cover its costs.
+- Security risk: <br>Cyberattacks, data breaches, and hacking could pose security risks to the student housing system. KTDI should put in place robust security measures including firewalls, encryption, and access controls, as well as routine security audits, to reduce this risk.
 
-- User adoption risk: User adoption and engagement are crucial for the system's success. The system may not deliver the desired benefits if staff and students are not using it efficiently. In order to reduce this risk, KTDI should carry out user research to comprehend their requirements and preferences, build the system with the user experience in mind, and offer simple and approachable user documentation and assistance.
+- User adoption risk: <br>User adoption and engagement are crucial for the system's success. The system may not deliver the desired benefits if staff and students are not using it efficiently. In order to reduce this risk, KTDI should carry out user research to comprehend their requirements and preferences, build the system with the user experience in mind, and offer simple and approachable user documentation and assistance.
 
-- Legal and regulatory risk: Laws and regulations pertaining to data privacy, security, and compliance may apply to the student housing system. KTDI should make sure the system complies with pertinent laws and regulations, put robust data privacy and security measures in place, and give clear instructions for handling user data in order to reduce this risk.
+- Legal and regulatory risk: <br>Laws and regulations pertaining to data privacy, security, and compliance may apply to the student housing system. KTDI should make sure the system complies with pertinent laws and regulations, put robust data privacy and security measures in place, and give clear instructions for handling user data in order to reduce this risk.
 
+- Changes in project requirement:
+  - Scope creep: As project requirements change over time, the project's scope may expand, which could cause delays or cause the budget to be exceeded.
+  - Incomplete or erroneous specifications could lead to a poorly designed system that doesn't satisfy the needs or expectations of the users.
+  - Conflicts amongst Stakeholders: Different Stakeholders may have divergent needs, which can lead to conflicts and delays in decision-making.
+
+- Resource Constraints:
+  - Technical risk: <br>Technical problems with the system could include hardware breakdowns, software glitches, and system outages. KTDI should make investments in dependable hardware and software, carry out routine maintenance and updates, and have back-up procedures in place to manage system downtime in order to reduce this risk.
+  - Financial risk: <br>The Student Accommodation System may be expensive to implement and operate, and it's possible that revenue production won't be enough to cover those costs. To lessen this risk, KTDI should create a reasonable budget and revenue strategy to reduce this risk, and should constantly assess the system's ROI to make sure it is generating enough income to cover its costs.
+ 
 To mitigate these risks, the following strategies will be employed:
-  
-- Security risk: Strong security mechanisms like firewalls, encryption, and access restrictions should be put in place by KTDI, together with frequent vulnerability assessments and penetration testing, to mitigate security concerns. Additionally, they need to educate employees and students on sound cybersecurity procedures.
 
-- Technical risk: KTDI should put in place routine data backups and disaster recovery plans, as well as routine maintenance and software and hardware updates, to reduce the technical risks. They should also employ qualified IT specialists to run and maintain the system. 
+-Security risk: <br>Strong security mechanisms like firewalls, encryption, and access restrictions should be put in place by KTDI, together with frequent vulnerability assessments and penetration testing, to mitigate security concerns. Additionally, they need to educate employees and students on sound cybersecurity procedures.
 
-- Financial risk: To reduce financial risks, KTDI should create a thorough financial strategy that takes into consideration the initial expenditures as well as recurring expenses of the Student Accommodation System. Additionally, they want to look at other sources of income, including adding booking fees or providing premium services. It's crucial to regularly examine and modify financial predictions to take any changes in enrollment or other monetary issues into consideration.
+-User adoption risk: <br>Users can be trained and supported, surveys and feedback sessions can be held, and incentives or rewards can be given to users who successfully adopt and use the system. These actions can all help to reduce the risks associated with user adoption.
 
-- User adoption risk: Users can be trained and supported, surveys and feedback sessions can be held, and incentives or rewards can be given to users who successfully adopt and use the system. These actions can all help to reduce the risks associated with user adoption.
-  
-- Legal and regulatory risk: KTDI should make sure the system complies with pertinent data protection and privacy legislation, like the Personal Data Protection Act (PDPA), in order to reduce legal and regulatory risks. Additionally, they should constantly audit and examine the system to make sure it complies with applicable laws and regulations, as well as review and update data protection and privacy policies to ensure compliance with evolving legislation.
-  
+- Legal and regulatory risk: <br>KTDI should make sure the system complies with pertinent data protection and privacy legislation, like the Personal Data Protection Act (PDPA), in order to reduce legal and regulatory risks. Additionally, they should constantly audit and examine the system to make sure it complies with applicable laws and regulations, as well as review and update data protection and privacy policies to ensure compliance with evolving legislation.
+
+Changes in project requirement:
+  - The project requirements should be precisely stated, exhaustive, and well-documented.
+  - Create a change management strategy that details how modifications to the project scope will be handled, including how they will be documented, reviewed, and approved.
+  - Utilise agile project management techniques like Scrum, which offer adaptability to changing requirements while preserving control over the project's scope.
+  - To prevent conflicts, effectively communicate changes to the project's requirements to all parties involved, including the project team, users, and management.
+
+Resource Constraints:
+  - Technical risk: KTDI should put in place routine data backups and disaster recovery plans, as well as routine maintenance and software and hardware updates, to reduce the technical risks. They should also employ qualified IT specialists to run and maintain the system.
+  - Financial risk: To reduce financial risks, KTDI should create a thorough financial strategy that takes into consideration the initial expenditures as well as recurring expenses of the Student Accommodation System. Additionally, they want to look at other sources of income, including adding booking fees or providing premium services. It's crucial to regularly examine and modify financial predictions to take any changes in enrollment or other monetary issues into consideration.
+
 In general, it's crucial to recognise and reduce these risks if we want the KTDI student housing system to be successful. KTDI can lessen possible adverse effects and increase the advantages of the system by taking a proactive approach to risk management.
 
 ---
