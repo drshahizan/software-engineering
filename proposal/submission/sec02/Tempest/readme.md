@@ -130,10 +130,7 @@ We could prevent this risk from happening by :-
 - Explain the quality assurance and testing procedures that will be followed.
 
 ### 12. Conclusion:
-- Conclude your proposal with a call to action, highlighting the benefits of your proposed solution and urging the decision-makers to take action.
-- Summarize the proposal and reiterate the importance of the project.
-- Mention any potential limitations or challenges that may arise during the project.
-- Provide a call to action for the client to approve the proposal and proceed with the project.
+The Badal Hajj system aids the company in the registration process of the clients and reduce the duration taken for the registration process where most of the process is done through the system that provides better management of bulk data. The system will also help the company to reduce the error throughout the registartion process as the system apllies auto data-handling principle. The proposal of Badal Hajj system is constructed based on thorough analysis and reasonable budget planning which helps to create a successful system that provides many benefits to both party which are the company and the clients.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
