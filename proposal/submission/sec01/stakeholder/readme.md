@@ -151,6 +151,80 @@ Here is a breakdown of how the Agile methodology can be applied as a software pr
   
 To assure the quality and functionality of the system, many testing methodologies are employed in this project, including unit testing, integration testing, system testing, acceptance testing, and usability testing. Project management techniques leverage technologies like Kanban boards, sprint planning and regular stand-up meetings to track progress and guarantee task completion on time. To maintain code quality and reduce errors, quality assurance procedures like code review, continuous integration and automated testing are used. These procedures are essential for ensuring the effective deployment and operation of the KTDI system for student accommodation.
 
+  <!DOCTYPE html>
+<html>
+  <head>
+  <body>
+    <table>
+      <tr>
+        <th>Phase</th>
+        <th>Detailed activities</th>
+        <th>Position</th>
+        <th>Duration</th>
+      </tr>
+      <tr>
+        <td>Phase 1: Planning and Design</td>
+        <td>Row 1, Column 2</td>
+        <td>Row 1, Column 3</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Row 2, Column 2</td>
+        <td>Row 2, Column 3</td>
+        <td>None</td>
+      </tr>
+      <tr> 
+        <td></td>
+        <td>Row 3, Column 2</td>
+        <td>Row 3, Column 3</td>
+        <td></td>
+      </tr>
+      <tr class="phase-divider"><td colspan="4"></td></tr> <!-- Add a divider after Phase 1 -->
+      <tr>
+        <td>Phase 2: Development</td>
+        <td>Row 1, Column 2</td>
+        <td>Row 1, Column 3</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Row 2, Column 2</td>
+        <td>Row 2, Column 3</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Row 3, Column 2</td>
+        <td>Row 3, Column 3</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Row 4,column 2</td>
+        <td>Row 4 column 3</td>
+        <td></td>
+      </tr>
+      <tr class="phase-divider"><td colspan="4"></td></tr> <!-- Add a divider after Phase 2 -->
+      <tr>
+        <td>Phase 3: Testing and Deployment</td>
+        <td>Row 1, Column 2</td>
+        <td>Row 1, Column 3</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Row 2, Column 2</td>
+        <td>Row 2, Column 3</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Row 3, Column 2</td>
+        <td>Row 3, Column 3</td>
+        <td></td>
+      </tr>
+    </table>
 In conclusion, the Agile methodology is an effective software process model for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) because it emphasizes flexibility, collaboration, and continuous customer feedback. It allows the development team to respond quickly to changes in requirements and deliver high-quality software in shorter development cycles.
 
 ---
