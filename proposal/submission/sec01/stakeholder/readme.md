@@ -218,13 +218,13 @@ ii. Software requirements
 #### System Architecture Diagram:
 The proposed system architecture can be visualized using the following flowchart:
 ```java  
-USER INTERFACE (Bootstrap/Html/css/JavaScript) --> DATA VISUALIZATION(D3.js)
+USER INTERFACE (BootStrap/HTML/CSS/JavaScript) --> DATA VISUALIZATION(D3.js/Chart.js)
   |                                                        | 
   V                                                        |
-WEB APPLICATION SERVER (Apache)                            |
+WEB APPLICATION SERVER (Apache)                            | 
   |                                                        |                                                     
   V                                                        |
-DATABASE SERVER (MySQL) <----------------------------------|
+DATABASE SERVER (MySQL) <----------------------------------+
 ``` 
 High-level diagram that represents our proposed system architecture:
 ```sql
@@ -237,8 +237,8 @@ High-level diagram that represents our proposed system architecture:
               |                     |
               |                     |
    +------------------+     +------------------+
-   |    Web Platform  |     |                  |
-   |     (React.js)   |     |    (Node.js)     |
+   |    Web Platform  |     |    Web Server    |
+   |     (React.js)   |     |    (Apache)      |
    +------------------+     +------------------+
               ^                     ^
               |                     |
