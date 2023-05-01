@@ -196,7 +196,7 @@ The proposed student accommodation system will follow a three-tier architecture,
   - Bootstrap as the framework used for web application creation.
   - R studio as the data representation tool.
   - 
-## System Architecture Diagram:
+#### System Architecture Diagram:
 The proposed system architecture can be visualized using the following flowchart:
 ```java  
 USER INTERFACE
