@@ -178,6 +178,7 @@ In shorts, the expected budget for the development of the student accommodation 
 ---
 
 ### 7. System Architecture:
+The proposed system architecture for Student Accommodation System project at Kolej Tun Dr Ismail consists of a presentation layer, application layer, and database layer.
 - Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
 - Explain how the data will be stored, managed, and analyzed, as well as the hardware and software requirements needed to support the system.
 - Discuss the tools and frameworks that will be used for data visualization and analysis.
