@@ -30,7 +30,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>4 Soh Han Wei</td>
-    <td>Database Administrator & Developer Assistant</td>
+    <td>Requirement Gatherer</td>
   </tr>
   <tr>
     <td>5 Lee Soon Der</td>
