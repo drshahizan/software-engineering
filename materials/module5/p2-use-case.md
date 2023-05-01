@@ -410,7 +410,7 @@ note left of (Delete Course) : Allows the admin to remove a course from the syst
 ## Use Case Description
 A use case diagram is a visual representation of the system's functionality and the actors that interact with it. It describes the interactions between the system and its actors, as well as the use cases that the actors can initiate. In the context of the university academic course registration system, the following use cases can be identified:
 
-I apologize for the misunderstanding. Here is the table format for the use case description:
+### Example 1
 
 | Use Case ID | UC001 |
 | --- | --- |
@@ -420,8 +420,25 @@ I apologize for the misunderstanding. Here is the table format for the use case 
 | Flow of Events | 1. Student selects the course to enroll in.<br>2. System verifies that the course has available slots.<br>3. System adds the student to the course roster.<br>4. System updates the student's schedule with the new course.<br>5. System confirms successful enrollment to the student. |
 | Postconditions | - The student is enrolled in the course.<br>- The course roster is updated.<br>- The student's schedule is updated.<br>- The student receives confirmation of successful enrollment. |
 
+This table represents a use case scenario for the "Enroll in Course" feature in a system. A use case describes a specific interaction between an actor (in this case, a student) and a system to achieve a goal.
 
-| Use Case ID | UC-02                                                |
+- The table has several columns, including the Use Case ID, Use Case Name, Actor(s), Preconditions, Flow of Events, and Postconditions.
+
+- The Use Case ID is a unique identifier for the scenario, in this case, UC001.
+
+- The Use Case Name is a brief description of the scenario, which is "Enroll in Course" in this case.
+
+- The Actor(s) column identifies the user or users who interact with the system to perform the use case. In this scenario, the actor is a student.
+
+- The Preconditions column lists the conditions that must be met before the use case can be executed. In this scenario, the student must be registered in the system, have selected a course to enroll in, and the course must have available slots.
+
+- The Flow of Events column describes the sequence of actions that occur during the use case. In this scenario, the student selects the course to enroll in, the system verifies available slots, adds the student to the course roster, updates the student's schedule, and confirms successful enrollment to the student.
+
+- The Postconditions column lists the outcomes that occur after the use case has been executed. In this scenario, the student is enrolled in the course, the course roster and student's schedule are updated, and the student receives confirmation of successful enrollment.
+
+### Example 2
+
+| Use Case ID | UC002                                                |
 |-------------|------------------------------------------------------|
 | Use Case    | Drop Course                                          |
 | Actors      | Student                                              |
