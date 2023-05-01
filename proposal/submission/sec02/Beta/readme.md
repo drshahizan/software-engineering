@@ -56,7 +56,8 @@ Overall, the food ordering system is a solution that addresses the growing deman
 
 ## 3. Objectives:
   Our proposed **Food Ordering System** aims to achieve the following objectives:
- 1- Improve customer convenience: The primary objective of a food ordering system is to provide customers with a convenient way to order food online. By providing an easy-to-use interface and various payment options, customers can quickly order their desired food items from the comfort of their homes or offices.
+ 
+  1- Improve customer convenience: The primary objective of a food ordering system is to provide customers with a convenient way to order food online. By providing an easy-to-use interface and various payment options, customers can quickly order their desired food items from the comfort of their homes or offices.
 
 2- Increase sales: A food ordering system can help restaurants increase their sales by providing them with an additional channel to reach customers. With an online ordering system, restaurants can expand their customer base, increase order volumes, and boost revenue.
 
