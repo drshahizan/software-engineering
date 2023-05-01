@@ -130,7 +130,7 @@ The following tools and technologies will be used to develop and deploy the acad
 ### 9. Resources:
 **Staff**:
 
-1. Project Manager: responsible for managing the project, ensuring that it is delivered on time, within budget, and to the required quality. The project manager will need to have experience in managing software development projects and be proficient in project management tools and methodologies.
+1. Main Developer: responsible for managing the project, ensuring that it is delivered on time, within budget, and to the required quality. The project manager will need to have experience in managing software development projects and be proficient in project management tools and methodologies.
 2. UX/UI Designer:  responsible for designing and developing the user interface of the academic support app using HTML and CSS. Responsible for developing the server-side logic, API, and database using Node.js and MongoDB.
 3. QA/ Test Engineer: responsible for testing the app and ensuring that it meets the functional and non-functional requirements.
 4. Technical Lead: responsible for analyzing the app usage and providing insights to improve the app.
