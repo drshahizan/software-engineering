@@ -153,6 +153,11 @@ During this stage, the team will test the system to make sure it complies with t
           <td>Main developer</td>
           <td>None</td>
         </tr>
+        <tr>
+          <td>Create user manuals and training manuals.</td>
+          </td>Requirement analyst</td>
+          <td>None</td>
+        </tr>
       </tbody>
     </table>
 
