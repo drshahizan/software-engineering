@@ -118,7 +118,7 @@ However, there are several limitations and constraints that may affect the proje
 
 - Scalability: <br>To support expansion and growth in the future, the system must be scalable. The architecture and design of the system must be able to accommodate growing numbers of students, rooms and data. For the system to last and be able to change with the needs of the user, scalability limits may call for more resources.
   
-By defining the scope of the project, the project team can establish the foundation for the project plan, which outlines the specific tasks, resources, timelines, and budgets needed to achieve the project goals. This helps to ensure that the project is completed successfully, on time, and within budget, and that the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) meets the needs of all stakeholders.
+In conclusion, we can establish the foundation for the project plan, which outlines the specific tasks, resources, timelines and budgets needed to achieve the project goals by stating out our project scopes and we are able to ensure that our student accommodation system in Kolej Tun Dr Ismail (KTDI) can be completed successfully, on time and within our expected capitals as well as fullfill the needs of all stakeholders.
 
 ---
 
