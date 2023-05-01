@@ -143,19 +143,19 @@ The major objectives of building a student engagement website for Faculty Comput
 
 ### 5. Software Process Model:
 A software process model for a student engagement system refers to a set of activities and phases that are used to design, develop, test, and maintain the software system. It provides a framework for organizing the software development process and helps to ensure that the final product meets the requirements and needs of the stakeholders.
-<br>
+<br><br>
 The <b>Agile software process model</b> is an ideal process model for student engagement system. It is a software process model that emphasizes iterative and incremental development, flexibility, and collaboration between team members and stakeholders. It is particularly suitable for projects where the requirements are likely to evolve over time, such as a student engagement system.
-<br>
+<br><br>
 Here is the phases of agile model that can be applied to the development of a student engagement system:
 <br>
-<ul>
+<ol>
   <li>Planning: In this phase, the project team identifies the project's objectives, timelines, and available resources. The team creates a backlog of features and user stories, prioritizes them, and estimates their effort.</li>
   <li>Analysis and Design: In this phase, the team analyzes and designs the software architecture, database design, and user interface. The team also identifies dependencies, risks, and assumptions.</li>
   <li>Development: In this phase, the team develops the software incrementally in short iterations called sprints. Each sprint typically lasts two to four weeks, and the team develops and tests a small set of features. The team collaborates daily and continuously reviews the product backlog to adjust the priorities and scope.</li>
   <li>Testing: In this phase, the team performs testing continuously throughout the development process. The team writes automated unit tests, integration tests, and acceptance tests to ensure the software meets the requirements.</li>
   <li>Deployment: In this phase, the team deploys the software to the production environment. The team releases the software incrementally, and each release includes a set of tested features.</li>
   <li>Maintenance: In this phase, the team maintains the software by fixing defects, adding new features, and improving the system's performance. The team continuously receives feedback from users and stakeholders to improve the system further.</li>
-</ul>
+</ol>
 <br>
 
 ### 6. Budget:
