@@ -95,7 +95,7 @@ This section describe the ideal software process model for this system developme
 ### 8. Risks Assessment:
   
 
-| Risk | Solution |
+| Risk | Plan and Strategy |
 | --- | --- |
 | Security breaches resulting in unauthorized access or data loss | Design the system with robust security measures, such as encryption, access controls, and threat detection. Conduct regular security audits and testing to identify vulnerabilities and address them promptly. Provide user training on security best practices, such as using strong passwords and avoiding phishing scams. |
 | System crashes or downtime leading to data loss or service disruption | Design the system with redundant infrastructure and backup procedures to minimize the impact of system failures. Implement monitoring and alert systems to quickly detect and address issues. Conduct regular maintenance and testing to ensure system reliability and availability. |
