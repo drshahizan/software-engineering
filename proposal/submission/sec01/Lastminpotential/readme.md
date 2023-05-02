@@ -9,28 +9,30 @@ Don't forget to hit the :star: if you like this repo.
 
 # Project Proposal
 
-## 
+## Faculty of Computing Feedback System
 
 
 ### Prepared by: <Group name>
   1. Name and matrix no
-  2. LOO JIA CHANG A22EC0074
+  2. Name and matrix no
   3. TAN JUN YUAN A22EC0107
   4. Chen Pyng Haw A22EC0042
 
 ### Table of Contents
- 1. [Executive Summary](#1-executive-summary)
- 2.  [Background](#2-background)
- 3. [Objectives](#3-objectives)
- 4. [Scope](#4-scope)
- 5. [Sofware Process Model](#5-software-process-model)
- 6.  [Budget](#6-budget)
- 7.  [System Architecture](#7-system-architecture)
- 8. [Risks Assessment](#8-risks-assessment)
- 9.  [Resources](#9-resources)
- 10.  [Technical Specification](#10-technical-specifications)
- 11.  [Timeline and Deliverables](#11-timeline-and-deliverables)
- 12.  [Conclusion](#12-conclusion)
+ |No.  | Content |
+|--|--|
+| 1. | [Executive Summary](#1-executive-summary) |
+| 2. | [Background](#2-background) |
+| 3. | [Objectives](#3-objectives) |
+| 4. | [Scope](#4-scope) |
+| 5. | [Sofware Process Model](#5-software-process-model) |
+| 6. | [Budget](#6-budget) |
+| 7. | [System Architecture](#7-system-architecture) |
+| 8. | [Risks Assessment](#8-risks-assessment) |
+| 9. | [Resources](#9-resources) |
+| 10. | [Technical Specification](#10-technical-specifications) |
+| 11. | [Timeline and Deliverables](#11-timeline-and-deliverables) |
+| 12. |  [Conclusion](#12-conclusion) |
 
   
 ### 1. Executive Summary
