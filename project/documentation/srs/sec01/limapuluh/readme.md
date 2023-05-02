@@ -18,7 +18,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>1 Yong Wern Jie</td>
-    <td>Requirement Analyst</td>
+    <td>Project Manager</td>
   </tr>
   <tr>
     <td>2 Marcus Joey Sayner</td>
@@ -30,7 +30,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>4 Soh Han Wei</td>
-    <td>Requirement Gatherer</td>
+    <td>Requirement Analyst</td>
   </tr>
   <tr>
     <td>5 Lee Soon Der</td>
@@ -72,7 +72,7 @@ Don't forget to hit the :star: if you like this repo.
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 01/01/2023 | Dr MSO | Project Manager | Create project plan | Complete |
 | 2 | 01/05/2023 | Lim Jing Yong | Documentation Specialist | Create Software Documentation | Partially Complete | 
-| 3 | 01/05/2023 | Soh Han Wei | Requirement Gatherer | Gather User Requirements | Partially Complete |
+| 3 | 01/05/2023 | Soh Han Wei | Requirement Analyst | Gather User Requirements | Partially Complete |
 | 4 | 01/05/2023 | Marcus Joey Sayner | Software Developer | Researching, designing, implementing, and managing software programs | Incomplete |
 | 5| | | | | |
 
