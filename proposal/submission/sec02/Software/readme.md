@@ -26,7 +26,14 @@
 - [Conclusion](#12-conclusion)
   
 ### 1. Executive Summary
-A solution designed to simplify and streamline the process time of PKU for students and administrators.
+The Student Health and Wellness website is a software engineering course project aimed at improving the health and well-being of university students, in cooperation with Pusat Kesihatan University (PKU). The website will provide students with access to a wide range of resources and tools that will help them manage their physical, mental, and emotional health.
+
+The website will be developed using the latest software engineering techniques, and will feature a user-friendly interface that is easy to navigate. Students will be able to access the website from any device, including desktop computers, laptops, tablets, and smartphones. The website will be designed with accessibility in mind, ensuring that all students can access and use the site.
+
+The Student Health and Wellness website will feature a range of resources, including articles, videos, and podcasts, that cover a variety of topics related to health and wellness. These resources will be developed in collaboration with PKU, ensuring that they are accurate, up-to-date, and relevant to the needs of university students.
+
+Overall, the Student Health and Wellness website is an innovative project that has the potential to make a real difference in the lives of university students. By providing students with access to accurate information and resources, and by offering tools and services to help them manage their health and wellness, the website will help students achieve their full potential and lead happy, healthy lives.
+
 
 ### 2. Background:
 - Process slow and walk in and far for some students.
