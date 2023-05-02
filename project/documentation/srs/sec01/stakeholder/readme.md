@@ -47,7 +47,7 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>Mr Hamdan</td>
+    <td>Mr Hamdan Bin Abd Ghani</td>
     <td>Hostel Administration</td>
     <td>Senior Assistant Administrative Officer</td>
     <td>Ensure system is technically feasible and meets assets requirements.</td>
