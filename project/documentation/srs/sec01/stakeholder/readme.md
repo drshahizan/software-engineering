@@ -18,7 +18,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>Neo Zheng Weng</td>
-    <td>UI/UX System Designer & Developer Assistant</td>
+    <td>UI/UX System Designer & Project Manager</td>
   </tr>
   <tr>
     <td>Wong Khai Shian Nicholas</td>
@@ -69,7 +69,7 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/01/2023 | Dr MSO | Project Manager | Create project plan | Complete |
+| 1 | 01/01/2023 | Neo Zheng Weng | Project Manager | Create project plan | Complete |
 | 2 | 20/04/2023 | Wong Khai Shian Nicholas | Requirements Analyst |  | Partially Complete |
 | 3 | 20/04/2023 | Neo Zheng Weng | Designer |  | Partially Complete |
 | 4| | | | | 
