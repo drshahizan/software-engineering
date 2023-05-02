@@ -319,5 +319,5 @@ By implementing these data security measures, the online grading system can ensu
 
 - We understand that implementing such a system may come with some challenges, including resistance to change and technical difficulties. However, we are confident in our ability to deliver a high-quality system within the proposed timeline and budget.
 
-- We urge UTM decision-makers to approve this proposal and take action towards the implementation of the UTM Online Grading System. With this system in place, UTM will enjoy improved efficiency, increased accuracy, and enhanced transparency in grading processes. We believe that this project will have a significant positive impact on the university, its teachers, and students.
+- We urge the stakeholders to approve this proposal and take action towards the implementation of the UTM Online Grading System. With this system in place, UTM will enjoy improved efficiency, increased accuracy, and enhanced transparency in grading processes. We believe that this project will have a significant positive impact on the university, its teachers, and students.
 
