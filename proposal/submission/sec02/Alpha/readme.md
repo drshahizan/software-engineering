@@ -119,7 +119,7 @@ This section describe the ideal software process model for this system developme
 
 ### 7. System Architecture:
 - Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
-## System Architecture Overview
+
 #### System Architecture Overview
 The proposed system architecture for this college room rental services is
 a three tier architecture which organises applications into three logical and physical computing tiers that is:
