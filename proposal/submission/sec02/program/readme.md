@@ -210,7 +210,7 @@ Technical specifications play a vital role in the success of any project. Here a
    - Final project report
    - Presentation slides
    - Quality Assurance and Testing Procedures:
- 1. Code review and testing will be conducted throughout the development process to ensure high-quality code.
+      1. Code review and testing will be conducted throughout the development process to ensure high-quality code.
  2. Unit testing will be performed to verify the functionality of individual components.
  3. Integration testing will be conducted to test the integration of various components.
  4. User acceptance testing will be performed to ensure the system meets the requirements and is user-friendly.
