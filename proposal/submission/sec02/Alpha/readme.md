@@ -32,6 +32,8 @@ Don't forget to hit the :star: if you like this repo.
 - [Timeline and Deliverables](#11-timeline-and-deliverables)
 - [Conclusion](#12-conclusion)
   
+  ---
+  
 ### 1. Executive Summary
 The Kolej Tun Dr Ismail College room rental services project aims to develop a web-based system that allows students to easily request and rent college rooms. The system will automatically calculate the rental price based on the type of room and number of days the student will stay. After the application is approved, the student will receive an invoice that will be sent to the student Financial Sections of University Technology of Malaysia. 
 
