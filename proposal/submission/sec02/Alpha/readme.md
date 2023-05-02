@@ -58,14 +58,29 @@ The system can help provide a better user experience by offering features such a
 
 
 ### 4. Scope: 
-- The scope section defines the boundaries of the project and outlines what features and functionality will be included in the software. 
-- It should also describe any limitations or constraints that may affect the project.
+The scope refers to the boundaries of the project and outlines the features and functionalities of the system, including goals, objectives and requirements as well as the expected outcomes and benefits. Here are detailed explanations of the features and functionality of our college room rental system:
+
+- Students Registration: 
+<br>Students should be allowed to register and create an account so they can use it to access the room rental features by entering their personal information. If they are eligible to register for room rental, the system should be able to verify their identity.
+
+- Room searching: 
+<br>According to the students’ preferences, students should be able to search for available rooms by looking at the location, price and facilities. 
+Room booking: Room booking features allows students to book rooms based on availability and their preferred dates. The system should provide a calendar view of the rooms availability and allows students to request any services for their room. 
+
+- Payment Processing: 
+<br>The system allows students to complete their payment process through credit card or online banking. Students should be able to monitor their payment history and receipts. 
+
+- Room cancellation: 
+<br>The room cancellation features should allow students to cancel their room reservation if needed. 
+
+- User feedback and review: 
+<br>Students should be allowed to provide feedback and review on the rooms that have rented. They can report any problems and request for maintenance services through the system’s help desk. 
+
+- Administrative Functions: 
+<br>The administrative functions for college employees, such as controlling room availability, determining room prices, and creating reports, should be included in the system.
+
 
 ### 5. Software Process Model:
-
-<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/agile%20method.png?raw=true"></img>
-
-
 This section describe the ideal software process model for this system development. The write-up must consist of:
 - Explanation of the goal of the software process model.
 - Choose the ideal software process model and give justification.
