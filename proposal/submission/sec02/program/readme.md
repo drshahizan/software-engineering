@@ -93,7 +93,7 @@ Activities for each phase of the Agile methodology:
   The app will use MongoDB, a NoSQL document-oriented database, to store student and lecturer data, appointment schedules, and other relevant information. MongoDB is a scalable, flexible, and highly available database that can handle large amounts of data.
 
 **Data Analysis**:
-  The app will not require complex data analysis since it primarily serves as a scheduling tool. However, basic data analysis such as appointment statistics and user activity tracking can be implemented using MongoDB's built-in analytics tools.
+  The app will not require complex data analysis since it primarily serves as a scheduling tool. However, basic data analysis such as appointment statistics and user activity tracking can be implemented using MongoDB's built-in analytics tools. 
 
 **Hardware and Software Requirements**:
   The hardware requirements for the app are minimal, with a basic web server and a MongoDB database server being sufficient. The software requirements include Node.js, MongoDB, and any necessary libraries and frameworks.
