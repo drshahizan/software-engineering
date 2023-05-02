@@ -142,15 +142,15 @@ Select Dates         Confirm/    Add Package           View All Bookings
 Select                   |     Update Package and       View Booking Details
 Accommodation         View      Accommodation Info
     |                 Booking    Delete Package              |
-    |                      |         |                       |
+    |                      |         |                       
 Confirm Booking     View All     Update Accommodation        |
-                      Bookings    Info and Delete            |
+                      Bookings    Info and Delete            
     |                      |         |                       |
-Make Payment         View       View All Bookings            |
+Make Payment         View       View All Bookings            
                       Payment    and Details                 |
-    |                      |         |                       |
+    |                      |         |                       
 View Payment        View Receipt  View Booking Details       |
-                                (for payments made)          |
+                                (for payments made)          
     |                                                        |
     +--------------------------------------------------------+
 
