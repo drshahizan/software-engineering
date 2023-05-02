@@ -56,7 +56,7 @@
 This section describe the ideal software process model for this system development. The write-up must consist of:
 - The goal of the software process model is to provide a systematic and structured approach to software development that maximizes efficiency, reduces risk, and improves the overall quality of the UTM online grading system.
 - For the UTM online grading system, the ideal software process model would be the iterative and incremental model. The iterative and incremental model is a flexible and adaptable approach that involves a series of iterations, each consisting of planning, designing, developing, testing, and delivering phases. This model is ideal for projects where requirements are likely to change or evolve, as it allows for flexibility and adaptability.
-Here's an illustration of the Incremental Model for the development of UTM Grading System:
+-Here's an illustration of the Incremental Model for the development of UTM Grading System:
 
 1.Planning: In this phase, the project team meets with stakeholders to define the project scope, requirements, and timelines. The deliverables in this phase can include a project plan, requirements specification document, and project schedule.
 
