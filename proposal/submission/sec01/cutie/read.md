@@ -8,9 +8,21 @@
   4. Tiew Chuan Shen (A22EC0113)
   5. Wong Jun Ji (A22EC0117)
 
-
 ### Table of Contents
-- [Table of Contents](#table-of-contents)
+ |No.  | Content |
+|--|--|
+| 1. | [Executive Summary](#1-executive-summary) |
+| 2. | [Background](#2-background) |
+| 3. | [Objectives](#3-objectives) |
+| 4. | [Scope](#4-scope) |
+| 5. | [Sofware Process Model](#5-software-process-model) |
+| 6. | [Budget](#6-budget) |
+| 7. | [System Architecture](#7-system-architecture) |
+| 8. | [Risks Assessment](#8-risks-assessment) |
+| 9. | [Resources](#9-resources) |
+| 10. | [Technical Specification](#10-technical-specifications) |
+| 11. | [Timeline and Deliverables](#11-timeline-and-deliverables) |
+| 12. |  [Conclusion](#12-conclusion) |
   
 ### 1. Executive Summary
 We expect to improve the design of the current existing Student Attendance Management System without changing too much of its root design. The improved attendance management system will face fewer bugs, implement a new alternative way for students to mark their attendance, location based check-ins, biometric authentication, and generate a table to ease the management of attendance for lecturers. The scope of the project includes attendance tracking, reporting and analytics, integration with other systems, mobile accessibility, security,and customization. The proposed software process model for this project is agile methodology.
