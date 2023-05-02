@@ -57,7 +57,7 @@ Our proposed Badal Hajj and Umrah Management System aims to achieve the followin
 Overall, these SMART objectives are specific, measurable, achievable, relevant, and time-bound. They align with the goals and objectives of the project and provide a clear roadmap for achieving the desired outcomes.
 
 ### 4. Scope: 
-The system will allow user to create an account and and make the registration for the hajj or umrah ,user will fill in the important information such as full name, age, address, contact number and more. This system also will be included the section for health information to know the applicants health status for the screening process by those responsible managing the registrations.Some limitations for this project is the security part which the system need to be achieve a certain security stndard to protect those informations and prevent from any breach or unauthorized access.Other than that, the project need to be completed on time or it will affect the success of the project.
+The Badal Hajj and Umrah management system proposed in this project will included several functionalities and features that are required in order to solve the problems that the company have. This system will be web-based and application software.This is the detail of the features and functionality of the system:
 
 ### 5. Software Process Model:
 The Agile Model is an iterative and incremental approach to software development that emphasizes flexibility, collaboration, and rapid delivery of working software. In this model, requirements and solutions evolve through the collaborative effort of cross-functional teams and end-users.
