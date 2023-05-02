@@ -44,8 +44,18 @@ The expected outcomes of the project include an efficient and streamlined colleg
 ---
 
 ### 2. Background:
-- The introduction should provide background information about the software project and the purpose of the proposal. 
-- It should also briefly describe the problem the software is meant to solve, the benefits it will provide, and its potential impact on the organization.
+
+The college room rental system is a web-based application designed to streamline the process of renting and managing rooms in a college setting. The system aims to provide a user-friendly platform for students, faculty members, and staff to search for available rooms, make reservations, and manage their rental accounts. 
+Currently, the process of renting a room in college can be time-consuming and inefficient, with many colleges still relying on a manual process that involves filling out paper forms and submitting them to the housing office. This can lead to errors and delays in the rental process, resulting in frustration for both students and staff.
+
+The college room rental system seeks to solve these problems by automating the rental process, making it easier for students to find and rent rooms, and for staff to manage their rental properties. The system will be accessible from any device with an internet connection, making it convenient for students to search for available rooms and make reservations at any time.
+
+The proposed system will include a variety of features, including a room search function that allows students to search for available rooms based on their preferences and needs, an online reservation system that enables students to reserve rooms and make payments online, and a rental management module that allows staff to manage and track their rental properties.
+
+In addition to these core features, the system will also include security features to protect user data and a reporting module that provides detailed reports on room occupancy, rental payments, and other key metrics. 
+
+The college room rental system has the potential to transform the rental process in colleges, making it more efficient, secure, and convenient for all stakeholders involved. The proposal seeks to provide a comprehensive overview of the system, its features, and its benefits, and to outline a detailed plan for its development and implementation.
+
 
 ---
 
@@ -109,7 +119,7 @@ This section describe the ideal software process model for this system developme
 
 ### 7. System Architecture:
 - Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
-## System Architecture Overview
+
 #### System Architecture Overview
 The proposed system architecture for this college room rental services is
 a three tier architecture which organises applications into three logical and physical computing tiers that is:
