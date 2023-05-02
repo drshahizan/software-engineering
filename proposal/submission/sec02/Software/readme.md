@@ -54,10 +54,25 @@ This section describe the ideal software process model for this system developme
 - Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
 
 ### 10. Technical Specifications:
-- Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
-- Mention the programming languages, frameworks, and libraries that will be used in the project.
-- Provide details about the hardware and software requirements for the proposed system.
-- Explain the data security measures that will be implemented.
+- Platform : Web-based application
+- Language : PHP (backend), HTML, CSS, and JavaScript (frontend)
+- Database : MySQL
+- Software : Bootstrap Studio
+- Authentication : User authentication and authorization
+- Security: SSL encryption and data encryption at rest
+- 1. Modules: Student registration
+- 2. Health assessment and history
+- 3. Medical record keeping
+- 4. Appointment scheduling
+- 5. Prescription and medication management
+- 6. Billing and invoicing
+- 7. Reporting and analytic
+- Integration: Integration with the university's student information system and electronic health record system
+- Accessibility: Section 508 compliance
+- Scalability: Ability to handle large volumes of data and users
+- Support: 24/7 technical support and maintenance
+- Deployment: Cloud-based deployment with automatic scaling and redundancy
+- Compatibility: Cross-browser compatibility with major web browsers.
 
 ### 11. Timeline and Deliverables: 
 <img src="https://user-images.githubusercontent.com/128159572/235561076-2a31e51a-10da-4f64-bfe1-4e8986df8d31.jpeg">
