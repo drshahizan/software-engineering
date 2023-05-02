@@ -95,10 +95,13 @@ This college rental system will use various tools and frameworks. For Example to
 Provide a flowchart or block diagram of the system architecture.
 #### Flowchart and Block Diagram
 
+##### Flowchart
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/flowchartSE.png"></img>
-**Flowchart Diagram**
 
-**Block Diagram**
+
+##### Block Diagram
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/detailed%20block%20diagram.drawio%20(1).png"></img>
+
 
 
 ### 8. Risks Assessment:
