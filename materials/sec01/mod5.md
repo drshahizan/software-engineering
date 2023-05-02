@@ -339,53 +339,57 @@ By using transitions in an activity diagram, you can model the flow of activitie
 A decision is often used to represent a choice point in the process, where different actions may be taken based on some condition. The conditions associated with    each arrow leading out from the decision must be mutually exclusive and collectively exhaustive, meaning that each possible condition must be covered by one of the    arrows.</p>
 <p align='center'><img src="https://uml.blauw.me/user/pages/04.activity-diagrams/04.decisions/DecisionCaseStudy.svg" alt="State Machine Diagram vs Activity Diagram"width="600" height="450"></p>
 
-  <p>3. <b>Fork and join</b>- Forks split a path into two or more concurrent flows while Joins synchronize two or more concurrent flows.</p>
+  <p>3. <b>Fork and join</b> -> Forks split a path into two or more concurrent flows while Joins synchronize two or more concurrent flows.</p>
   <li>Fork is represented by a horizontal bar with multiple arrows pointing out from it. Each arrow represents a separate path that can be executed in parallel.</li>
   <li>Join is represented by a horizontal bar with multiple arrows pointing toward it. Each arrow represents a separate path that must complete before the process can continue down the joined path.</li>
   <li>Forks and joins are useful when there are multiple independent tasks that can be executed in parallel, and the overall process can only continue once all of these tasks have been completed. By splitting the process into parallel paths, you can often reduce the overall processing time of the activity.</li>
   <p align='center'><img src="https://i.stack.imgur.com/DRaBW.gif"width="600" height="450"></p>
 
-  <p>4. <b>Swimlanes</b>- partition activity diagrams.</p>
-  <li>Swimlanes are represented by vertical or horizontal partitions that divide the diagram        into sections, with each section assigned to a specific actor or system.</li>
-  <li>Swimlanes can be used to model business processes, software systems, and other complex        processes that involve multiple actors or systems. They provide a clear and concise way to show who is responsible for each activity, and help to identify potential bottlenecks or inefficiencies in the process.</li>
+  <p>4. <b>Swimlanes</b> -> partition activity diagrams.</p>
+  <li>Swimlanes are represented by vertical or horizontal partitions that divide the diagram into sections, with each section assigned to a specific actor or system.</li>
+  <li>Swimlanes can be used to model business processes, software systems, and other complex processes that involve multiple actors or systems. They provide a clear and concise way to show who is responsible for each activity, and help to identify potential bottlenecks or inefficiencies in the process.</li>
   <p align='center'><img src="https://wcs.smartdraw.com/swim-lane-diagram/img/vertical-swimlane-2.png?bn=15100111868" width="450" helght="600"></p>
 
 - #### Best practices for creating effective activity diagrams
   <li>Keep it simple: Activity diagrams should be simple and easy to understand. Avoid adding unnecessary details or complexity that may confuse readers. Focus on the most important aspects of the process.</li>
-<li>Use clear and concise labels: Use clear and concise labels for activities and transitions, and avoid using jargon or technical terms that may not be familiar to all readers.</li>
-<li>Use consistent notation: Use consistent notation and symbols throughout the diagram to make it easier to read and understand. Avoid using different symbols or notation for the same concept.</li>
-<li>Use swimlanes to show responsibility: Use swimlanes to show which actors or systems are responsible for each activity. This helps to identify potential bottlenecks or inefficiencies in the process.</li>
-<li>Use fork and join to show parallel processing: Use fork and join symbols to show when parallel processing is occurring. This helps to show when multiple activities are occurring simultaneously.</li>
-<li>Use decision symbols to show branching: Use decision symbols to show when the process can take different paths depending on the outcome of a decision. This helps to show when there are multiple possible outcomes for a given activity.</li>
-<li>Keep the diagram up-to-date: Keep the diagram up-to-date as the process changes over time. Review and update the diagram regularly to ensure that it accurately reflects the current process.</li>
-<li>Use appropriate tooling: Use appropriate software tools to create the activity diagram. This makes it easier to create and modify the diagram, and to share it with others.</li>
+  <li>Use clear and concise labels: Use clear and concise labels for activities and transitions, and avoid using jargon or technical terms that may not be familiar to all readers.</li>
+   <li>Use consistent notation: Use consistent notation and symbols throughout the diagram to make it easier to read and understand. Avoid using different symbols or notation for the same concept.</li>
+  <li>Use swimlanes to show responsibility: Use swimlanes to show which actors or systems are responsible for each activity. This helps to identify potential bottlenecks or inefficiencies in the process.</li>
+  <li>Use fork and join to show parallel processing: Use fork and join symbols to show when parallel processing is occurring. This helps to show when multiple activities are occurring simultaneously.</li>
+  <li>Use decision symbols to show branching: Use decision symbols to show when the process can take different paths depending on the outcome of a decision. This helps to show when there are multiple possible outcomes for a given activity.</li>
+  <li>Keep the diagram up-to-date: Keep the diagram up-to-date as the process changes over time. Review and update the diagram regularly to ensure that it accurately reflects the current process.</li>
+  <li>Use appropriate tooling: Use appropriate software tools to create the activity diagram. This makes it easier to create and modify the diagram, and to share it with others.</li>
 
 ---
-  
+
 ### 4. Sequence Diagram - show object interactions arranged in a time sequence
   
 - #### Definition and purpose of sequence diagrams
-<li>Sequence diagrams are part of the UML and are used to model the interactions between the actors and the objects showing their behavior within a system</li>
-<li>A sequence diagram shows the sequence of interactions that take place during a particular use case or use case instance (scenario)</li>
-<li>The objects and actors involved are listed along the top of the diagram, with a dotted line drawn vertically from these</li>
-<li>Interactions between objects are indicated by annotated arrows</li>
-  - <b>Sequence Diagram: Scope for Analysis</b>
-<li> Each use case must have at least one sequence diagram that comprises normal flow and alternative flows – split only if it is cluttered to combine all</li>
+ <li>Sequence diagrams are part of the UML and are used to model the interactions between the actors and the objects showing their behavior within a system</li>
+ <li>A sequence diagram shows the sequence of interactions that take place during a particular use case or use case instance (scenario)</li>
+ <li>The objects and actors involved are listed along the top of the diagram, with a dotted line drawn vertically from these</li>
+ <li>Interactions between objects are indicated by annotated arrows</li>
+
+- <b>Sequence Diagram: Scope for Analysis</b>
+ <li> Each use case must have at least one sequence diagram that comprises normal flow and alternative flows – split only if it is cluttered to combine all</li>
   
 - #### Techniques for creating sequence diagrams (e.g. actors, objects, messages)
  <li>Lifeline represents an individual participant (or object) in the interaction</li>
  <li>Focus of control (activation) specifies a behavior or interaction within the lifeline also known as execution specification</li>
  <li>Message defines a particular communication between lifelines of an interaction</li>
-    <b>1. Syntax/Notation Details</b>
-  <li>Each use case should have at least one sequence diagram that comprises normal flow and alternative flows, split only if it is cluttered to combine all.</li>
-<li>Focus on object interaction in the domain model (class diagram for analysis) for a particular use case.</li>
-<li>Refer to the use case description when creating a sequence diagram.</li>
-<li>It is not necessary to include boundary, controller, and data layer details that could be added in the design stage.</li>
-<li>Keep the diagram simple and easy to understand, using clear and concise notation.</li>
+
+  <b>1. Syntax/Notation Details</b>
+    <li>Each use case should have at least one sequence diagram that comprises normal flow and alternative flows, split only if it is cluttered to combine all.</li>
+    <li>Focus on object interaction in the domain model (class diagram for analysis) for a particular use case.</li>
+    <li>Refer to the use case description when creating a sequence diagram.</li>
+    <li>It is not necessary to include boundary, controller, and data layer details that could be added in the design stage.</li>
+    <li>Keep the diagram simple and easy to understand, using clear and concise notation.</li>
+
   <b>2. Types of Message</b><br>
   • Synchronous:
 – If a caller sends a synchronous message (in sequence), it must wait until the message is done before it proceeds with its business
-• Asynchronous: 
+
+  • Asynchronous: 
 – If a caller sends an asynchronous message, it can continue processing and does not have to wait for a response
 – Usually used in multithreaded applications and in message- oriented middleware
 • Return message: 
@@ -399,13 +403,13 @@ A decision is often used to represent a choice point in the process, where diffe
     <p align='center'><img src="https://i.ibb.co/JvmHMPn/Screenshot-2023-04-27-163819.png"width="600" height="450"></p>
   <p>Concurrency</p>
     <p align='center'><img src="https://i.ibb.co/3z8zXfP/Screenshot-2023-04-27-163833.png"width="600" height="450"></p>
-  
+
 - #### Best practices for creating effective sequence diagrams
-<li>Each use case should have at least one sequence diagram that comprises normal flow and alternative flows, split only if it is cluttered to combine all.</li>
-<li>Focus on object interaction in the domain model (class diagram for analysis) for a particular use case.</li>
-<li>Refer to the use case description when creating a sequence diagram.</li>
-<li>It is not necessary to include boundary, controller, and data layer details that could be added in the design stage.</li>
-<li>Keep the diagram simple and easy to understand, using clear and concise notation.</li>
+  <li>Each use case should have at least one sequence diagram that comprises normal flow and alternative flows, split only if it is cluttered to combine all.</li>
+  <li>Focus on object interaction in the domain model (class diagram for analysis) for a particular use case.</li>
+  <li>Refer to the use case description when creating a sequence diagram.</li>
+  <li>It is not necessary to include boundary, controller, and data layer details that could be added in the design stage.</li>
+  <li>Keep the diagram simple and easy to understand, using clear and concise notation.</li>
 
 ---
   
@@ -456,14 +460,14 @@ State chart/state machine diagrams can be used in a variety of contexts, includi
 
 State charts or state machine diagrams are useful tools for visualizing the behavior of complex systems, processes, or software. Here are some best practices for creating effective state charts or state machine diagrams:
   
-<li> Keep it simple: State charts should be easy to read and understand. Avoid cluttering the diagram with unnecessary details, and use clear and concise labels for states and transitions.</li>
-<li> Use consistent notation: Use a consistent notation for representing states, transitions, and actions throughout the diagram. This will make the diagram easier to read and understand.</li>
-<li> Define clear states and transitions: Clearly define the states and transitions in the diagram, and make sure that they are meaningful and relevant to the system or process being modeled.</li>
-<li> Show the initial state: Include the initial state of the system or process being modeled in the diagram. This will help readers understand the starting point of the system or process.</li>
-<li> Include final states: If the system or process being modeled has a defined end state, include this in the diagram. This will help readers understand the final state of the system or process.</li>
-<li> Label transitions with events and actions: Label transitions with the events that trigger them, and the actions that result from them. This will make it clear what is happening in the system or process at each stage.</li>
-<li> Use hierarchies and orthogonal regions: If the system or process being modeled is complex, consider using hierarchies or orthogonal regions to organize the diagram. This will make it easier to understand and navigate.</li>
-<li> Validate the model: Once the state chart is complete, validate the model by checking that it accurately represents the behavior of the system or process being modeled.</li>
+  <li> Keep it simple: State charts should be easy to read and understand. Avoid cluttering the diagram with unnecessary details, and use clear and concise labels for states and transitions.</li>
+  <li> Use consistent notation: Use a consistent notation for representing states, transitions, and actions throughout the diagram. This will make the diagram easier to read and understand.</li>
+  <li> Define clear states and transitions: Clearly define the states and transitions in the diagram, and make sure that they are meaningful and relevant to the system or process being modeled.</li>
+  <li> Show the initial state: Include the initial state of the system or process being modeled in the diagram. This will help readers understand the starting point of the system or process.</li>
+  <li> Include final states: If the system or process being modeled has a defined end state, include this in the diagram. This will help readers understand the final state of the system or process.</li>
+  <li> Label transitions with events and actions: Label transitions with the events that trigger them, and the actions that result from them. This will make it clear what is happening in the system or process at each stage.</li>
+  <li> Use hierarchies and orthogonal regions: If the system or process being modeled is complex, consider using hierarchies or orthogonal regions to organize the diagram. This will make it easier to understand and navigate.</li>
+  <li> Validate the model: Once the state chart is complete, validate the model by checking that it accurately represents the behavior of the system or process being modeled.</li>
   
 ---
 
