@@ -39,9 +39,13 @@ The main goal of the system is to simplify the college room rental process and e
 
 The expected outcomes of the project include an efficient and streamlined college room rental process for students and staff, accurate and timely payment processing, and reduced administrative workload for staff. Overall, the Kolej Tun Dr Ismail College room rental services project has the potential to significantly improve the college room rental experience for students and staff at the university.
 
+---
+
 ### 2. Background:
 - The introduction should provide background information about the software project and the purpose of the proposal. 
 - It should also briefly describe the problem the software is meant to solve, the benefits it will provide, and its potential impact on the organization.
+
+---
 
 ### 3. Objectives:
 #### 1. Simplifying the room rental procedure: 
@@ -56,6 +60,7 @@ College room rental systems can help automating administrative processes like ha
 #### 4. Improve user experience: 
 The system can help provide a better user experience by offering features such as room choices, and user feedback. The system will ensure that any issues or concerns can be addressed in a timely manner. 
 
+---
 
 ### 4. Scope: 
 The scope refers to the boundaries of the project and outlines the features and functionalities of the system, including goals, objectives and requirements as well as the expected outcomes and benefits. Here are detailed explanations of the features and functionality of our college room rental system:
@@ -79,6 +84,7 @@ Room booking: Room booking features allows students to book rooms based on avail
 - Administrative Functions: 
 <br>The administrative functions for college employees, such as controlling room availability, determining room prices, and creating reports, should be included in the system.
 
+---
 
 ### 5. Software Process Model:
 This section describe the ideal software process model for this system development. The write-up must consist of:
@@ -88,8 +94,12 @@ This section describe the ideal software process model for this system developme
 - Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. 
 - It should also describe the testing methodologies, project management practices, and quality assurance processes.
 
+---
+
 ### 6. Budget:
 - The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
+
+---
 
 ### 7. System Architecture:
 - Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
@@ -119,7 +129,7 @@ This college rental system will use various tools and frameworks. For Example to
 ##### Block Diagram
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/detailed%20block%20diagram.drawio%20(1).png"></img>
 
-
+---
 
 ### 8. Risks Assessment:
 - The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
@@ -132,8 +142,7 @@ This college rental system will use various tools and frameworks. For Example to
 | Changes in Project Requirements - Changes to project requirements may lead to changes in the project timeline, which could impact project delivery dates and deadlines. For example, if a new requirement is added to the project scope, it may require additional time to complete, which could push back the project delivery date. | To mitigate the impact of changes in project requirements on a college room rental system, it is important to have a clear and well-defined scope for the project from the outset. This can help to minimize the likelihood of changes to project requirements and ensure that any changes that do occur are properly managed. |
 | Security Risks - There is a risk of security breaches and data theft, which could compromise the personal and financial information of users such as hackers or unauthorized personnel may gain access to the system and steal or manipulate sensitive data such as students' personal information or payment data. These security risks could potentially cause financial loss, reputational damage, and legal consequences for the college and its stakeholders. | To mitigate security risks, the college could conduct a risk assessment by identify potential security, regularly update the system's software and patches, and implement security controls such as firewalls, antivirus software, encryption, and access controls to protect the system from unauthorized access, data breaches, and malware attacks. |
 
-
-
+---
 
 ### 9. Resources:
 The resources required for the proposed college room rental system project can be broken down into detailed aspects like staff, equipment, software, and other expenses.
@@ -162,6 +171,7 @@ The resources required for the proposed college room rental system project can b
 - Licences and Permits: The project may require various licenses and permits depending on the specific implementation and legal requirements.
 - Training and Professional Development: The development team may require training and professional development to gain the necessary skills and knowledge to develop the system.
 
+--- 
 
 ### 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
@@ -169,10 +179,14 @@ The resources required for the proposed college room rental system project can b
 - Provide details about the hardware and software requirements for the proposed system.
 - Explain the data security measures that will be implemented.
 
+---
+
 ### 11. Timeline and Deliverables: 
 - Provide a detailed timeline for the project, including milestones and deadlines.
 - Specify the deliverables that will be provided at each milestone. It should also specify the expected time frame for each deliverable and the resources that will be required to complete the project.
 - Explain the quality assurance and testing procedures that will be followed.
+
+---
 
 ### 12. Conclusion:
 - Conclude your proposal with a call to action, highlighting the benefits of your proposed solution and urging the decision-makers to take action.
