@@ -60,6 +60,7 @@ Don't forget to hit the :star: if you like this repo.
     <td></td>
     <td></td>
   </tr>
+  
 </table>
 
 ## Tasks involved in developing SRC documentation:
