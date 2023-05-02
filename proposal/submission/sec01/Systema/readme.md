@@ -263,9 +263,6 @@ Block Diagram:
 ```  
 
 ### 8. Risks Assessment:
-[- The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
-- It should also describe the plans and strategies to mitigate those risks.]
-
 | Potential Risks | Plan / Strategies |
 | ------------- | ------------- |
 | *Technical challenges* - There may be technical challenges realated to coding, server management, website security, and also database management. These challenges could result in delays, additional costs, or errors in the website's functionality. |1. Conduct a thorough analysis of the website's technical requirements and ensure that the team has the necessary skills and expertise to handle technical challenges. <br>2.  Develop a contingency plan for potential technical issues that could impact the project timeline and budget.|
