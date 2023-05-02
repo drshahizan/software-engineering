@@ -116,7 +116,17 @@ We could prevent this risk from happening by :-
 5. Develop an emergency plan to deal with the requirements issue as the problems might occur and the developing process will not be delay.
 
 ### 9. Resources:
-- Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
+
+Resources divided into 4 different types which are staff,equipment,software and other expenses
+
+Staff :
+1.Project manager : responsible for managing and look over the project progression from time to time, following the criteria and will be done on the time given.
+
+2.Software developer : responsible for developing the system following the requirements given, the software developer must be someone that have the ability to work in a team and follow instructions and have a good communication skills.
+
+3.Database administrator: responsible for designing the database architecture and define the data structure,mainly dealing with the applicants data,to store those data of registration information. They also responsible to set up a data backup and recovery plan to protect aginst any issues regarding data such as data loss.
+
+4.QA engineer : responsible for testing the app before being delivered to user to check the functionality and the requirements as it need to meet the requirements that have been discussed.
 
 ### 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
