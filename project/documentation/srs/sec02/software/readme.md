@@ -71,7 +71,7 @@ Don't forget to hit the :star: if you like this repo.
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2| 01/05/2023| All Group Members| Assign Task | Complete | 
+| 2| 01/05/2023| All Group Members| | Assign Task | Complete | 
 | 3| | | | | 
 | 4| | | | | 
 | 5| | | | | 
