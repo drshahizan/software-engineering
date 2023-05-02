@@ -125,9 +125,60 @@ We could prevent this risk from happening by :-
 - Explain the data security measures that will be implemented.
 
 ### 11. Timeline and Deliverables: 
-- Provide a detailed timeline for the project, including milestones and deadlines.
-- Specify the deliverables that will be provided at each milestone. It should also specify the expected time frame for each deliverable and the resources that will be required to complete the project.
-- Explain the quality assurance and testing procedures that will be followed.
+<ul>
+<li><h3>Phase 1: Project Planning and Requirements Gathering</h3></li>
+<ul>
+<li><h4>Milestone 1: Project plan and system design completed (Deadline: end of Month 2)</h4></li>
+<ul>
+<li>Deliverables: Project plan, system architecture diagram and user requirements report</li>
+<li>Expected duration: 2 month</li>
+<li>Resources required: Project manager, Software developers, UI/UX designers</li>
+</ul>
+</ul>
+
+<li><h3>Phase 2: System design and Development</h3></li>
+<ul>
+<li><h4>Milestone 2: Design system architecture and user interface (Deadline: end of Month 6)</h4></li>
+<ul>
+<li>Deliverables: Login/registration system, dashboard, feedback forms, and data management system</li>
+<li>Expected duration: 4 months</li>
+<li>Resources required: Software developers, database administrators</li>
+</ul>
+</ul>
+
+<li><h3>Phase 3: Testing and Quality Assurance</h3></li>
+<ul>
+<li><h4>Milestone 3: Perform system integration testing,acceptance testing, unit testing and debugging (Deadline: end of Month 9)</h4></li>
+<ul>
+<li>Deliverables: Quality assurance (QA) report,unit testing report,system integration and acceptance testing report and bug fixes</li>
+<li>Expected duration: 3 months</li>
+<li>Resources required: Quality assurance team, software developers</li>
+</ul>
+</ul>
+
+<li><h3>Phase 4: User Acceptance Testing and Deployment</h3></li>
+<ul>
+<li><h4>Milestone 4: Perform user acceptance testing and deploy system (Deadline: end of Month 11)</h4></li>
+<ul>
+<li>Deliverables: User acceptance testing (UAT) report, system deployment, and user manual</li>
+<li>Expected duration: 2 months</li>
+<li>Resources required: Quality assurance team, software developers, project manager</li>
+</ul>
+</ul>
+
+<li><h3>Phase 5: Project Closure and Handover</h3></li>
+<ul>
+<li><h4>Milestone 5: Project closed and system handed over to the company (Deadline: end of Month 12)</h4></li>
+<ul>
+<li>Deliverables: Final project report, source code, and system documentation</li>
+<li>Expected duration: 1 month</li>
+<li>Resources required: Project manager, software developers, documentation team</li>
+</ul>
+</ul>
+</ul>
+ 
+
+#### 
 
 ### 12. Conclusion:
 The Badal Hajj system aids the company in the registration process of the clients and reduce the duration taken for the registration process where most of the process is done through the system that provides better management of bulk data. The system will also help the company to reduce the error throughout the registartion process as the system apllies auto data-handling principle. The proposal of Badal Hajj system is constructed based on thorough analysis and reasonable budget planning which helps to create a successful system that provides many benefits to both party which are the company and the clients.
