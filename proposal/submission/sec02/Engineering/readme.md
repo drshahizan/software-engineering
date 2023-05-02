@@ -11,7 +11,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Parcel System in UTM 
 
-###One Stop Parcel (OPC) and Cengal Parcel Point (CPP)
+### One Stop Parcel (OPC) and Cengal Parcel Point (CPP)
 
 
 ### Prepared by: <stakeholder>
