@@ -46,7 +46,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>1 Dr. Nor Azizah Ali</td>
     <td>Academic Advisor</td>
     <td>Lecturer</td>
-    <td>Provide feedback on usability of current system from a lecturer perspective</td>
+    <td>Provide feedback on usability of system from a lecturer perspective</td>
   </tr>
     <tr>
     <td>2</td>
@@ -58,7 +58,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>3</td>
     <td>MPP Faculty Of Computing</td>
     <td>Student</td>
-    <td>Provide input on course requirements and scheduling</td>
+    <td>Provide feedback on usability of system from a student perspective</td>
   </tr>
 </table>
 
