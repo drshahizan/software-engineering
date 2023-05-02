@@ -62,12 +62,12 @@ Our proposed student accommodation system aims to achieve the following objectiv
 1. **Specific:** Create an efficient system for hostel room allocation that cuts the time needed by 50%.<br>
 **Measurable:** Determine the reduction in allocation time by doing a comparism before and after the new system is implemented.<br>
 **Achievable:** Work together to establish the allocation procedure with the student accomodation admistrators and the KTDI staff.<br>
-**Relevant:** The objective supports streamlining and enhancing efficiency in the housing allocation procedure.<br>
+**Relevant:** The objective supports streamlining and enhancing efficiency in the room allocation procedure.<br>
 **Time-bound:** The objective will be achieved within the first year of the project.
 
-2. **Specific:** By applying data analysis to guide housing distribution choices, occupancy rates can be raised by 10%.<br>
+2. **Specific:** Apply data analysis to guide room distribution choices, occupancy rates can be raised by 10%.<br>
 **Measurable:** Keep track of the occupancy rates before and after the new system is put in place to gauge the growth.<br>
-**Achievable:** In order to inform future allocation decisions, gather and analyse data on housing allocation trends.<br>
+**Achievable:** Future allocation decisions could be achieved via gathering and analysing data on room allocation trends.<br>
 **Relevant:** The utilisation of available housing will improve with higher occupancy rates, which will also lessen the requirement for interim housing.<br>
 **Time-bound:** The objective will be achieved within the first two years of the project.
 
@@ -90,23 +90,27 @@ These SMART objectives for our introduced student accommodation system in KTDI a
 ### 4. Scope
 The scope refers to the boundaries of the project and outlines the features and functionalities of the system, including its goals, objectives and requirements as well as the expected outcomes and benefits. Detailed explanations of the features and functionality of our proposed student accommodation system in KTDI are as follows:
 
-- Student registration: <br>By entering user's personal information, academic information and room preferences, students can register as users in the system using the student registration tool. Before letting a student register, the system should confirm their identity and determine whether they qualify for accommodation registration.
+- Student registration: <br>By entering user's personal information, academic information and room preferences, students can register as users in the system using the student registration tool. Before letting a student register, the system should confirm their identity and determine whether they qualify for accommodation registration based on the hostel merits and year of study. The first year students will be registered automatically, while the senior year students have to register themselves.
 
-- Room allocation: <br>According on the students' choices, availability and budget, the system can assign rooms to them using the room allocation tool. The system should include elements including the student's academic programme, year of study, and any unique requirements or requests.
+- Room allocation: <br>According on the students' choices, room availability and hostel merits, the system can assign rooms to them using the room allocation tool. The system should include elements including the student's academic programme, year of study, and any unique requirements or requests, such as health condition in order to take note in the allocation process. This process will prioritise the students with higher hostel merits to prefer their desired hostel block as well as room type.
 
-- Room management: <br>The room management feature allows students to manage their rooms through the system. This includes room bookings, check-in, check-out, and maintenance requests. The system should provide a calendar view of the room availability and allow students to book their preferred room and check-in and check-out dates. It should also allow students to request maintenance services for their room and track the status of the request.
+- Room management: <br>The room management feature allows students to manage their rooms through the system. This includes room bookings, check-in, check-out and maintenance requests. The system should provide a calendar view of the room availability and allow students to book their preferred room and check-in and check-out dates. It should also allow students to request maintenance services for their room and track the status of the request.
 
-- Payment management: <br>Students can use the system to pay their lodging costs thanks to the payment management tool. The system should enable students to monitor their payment history and receipts and offer safe payment options like credit card or internet banking. 
+- Payment management: <br>Students can use the system to pay their lodging costs via the payment management tool. The system should enable students to monitor their payment history and receipts and offer safe payment options like internet banking and also convinence payment method, such as TnG e-wallet. The payment will then directly link to the UTM bussary system.
 
-- User management: <br>Administrators can manage user accounts for students, staff and other users via the user management tool. To make sure that users only have access to the functions and information they require, the system should offer capabilities like account creation, modification, and deletion as well as role-based access control.
+- User management: <br>Administrators can manage user accounts for students, staff and other users via the user management tool. To make sure that users only have access to the functions and information they required, the system offers capabilities like account creation, modification and deletion as well as role-based access control.
 
-- Security: <br>The security element guarantees the safety of the system and safeguards the private data of the students. For data transmission and storage, the system should employ secure encryption techniques and features like access control and two-factor authentication should be available to guard against unauthorised access.
+- Security: <br>The security element guarantees the safety of the system and safeguards the private data of the students. For data transmission and storage, the system employs secure encryption techniques and features like access control and two-factor authentication should be available to guard against unauthorised access. To log in the system, the students have to enter their UTM id and the password set. Same concept will be implemeted for the KTDI staff or hostel admistrators.
 
 - Reporting and analytics: <br>Administrators will be allowed to monitor and analyze the occupancy rates, revenue and maintenance issues of the accommodation system. Reports from the system should include occupancy rates based on the study programme or room type, revenue by time period and building or room-specific maintenance issues.
 
-- Support and maintenance: <br>Residents or students should be able to report problems or request assistance for the maintainence of hostel equipment through the system's help desk and there should be a dedicated team working to quickly resolve these problems.
+- Support and maintenance: <br>Residents or students should be able to report problems or request assistance for the maintainence of hostel equipments or any problem faced in the accommodation system, such as bugs through the system's help desk and there should be a dedicated team working to quickly resolve these problems.
 
-- Agile methodology: <br>
+- Agile methodology: <br>Agile methodology is used for the software process model in the system development due to its flexibility in updating the stakeholders' requirements and sastification.
+  
+- Centralised Dashboard: <br>In both the user interfaces of the students and also the adminstrative department or KTDI department will have a well looking dashboard to provide the users a easier and effective way to access their needs via the tools provided.
+  
+- Website user interface: <br> The user interface will be designed using the bootstrap framework with the HTML, CSS and also the JavaScript to provide the best user experiences.
 
 <!--However, there are several limitations and constraints that may affect the project of a student accommodation system for Kolej Tun Dr Ismail (KTDI):
   
