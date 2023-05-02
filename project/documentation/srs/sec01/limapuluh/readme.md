@@ -72,7 +72,7 @@ Don't forget to hit the :star: if you like this repo.
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 01/01/2023 | Dr MSO | Project Manager | Create project plan | Complete |
 | 2 | 01/05/2023 | Lim Jing Yong | Documentation Specialist | Create Software Documentation | Partially Complete | 
-| 3| | | | | |
+| 3 | 01/05/2023 | SOH HAN WEI | Requirement Gatherer | Booking Appointment with Stakeholders | Partially Complete |
 | 4| | | | | |
 | 5| | | | | |
 
