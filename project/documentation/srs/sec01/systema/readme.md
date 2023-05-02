@@ -17,11 +17,11 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>1 Bernice Lim Jing Xuan</td>
-    <td>Developer | Quality Assurance Engineer</td>
+    <td>Project Manager</td>
   </tr>
   <tr>
     <td>2 Chai Yu Tong</td>
-    <td> Business Analyst | UI Designer</td>
+    <td> Developer | UI/UX Designer</td>
   </tr>
     <tr>
     <td>3 Kek Jesslyn</td>
@@ -33,7 +33,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>5 Yeoh Chong Yi</td>
-    <td>Technical Writer | UX Designer </td>
+    <td>Technical Writer |  Quality Assurance Engineer </td>
   </tr>
 </table>
 
