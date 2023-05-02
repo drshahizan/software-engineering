@@ -4,7 +4,7 @@
 
 
 ### Prepared by: Group Program
-   Name and matrix no:
+   Name and matric no:
   1. Wan Nur Sofea Binti Mohd Hasbullah A22EC0115
   2. Maisarah Binti Rizal A22EC0192
   3. Nur Arini Fatihah Binti Mohd Sabir A22EC0244
