@@ -207,29 +207,29 @@ The resources required for the proposed college room rental system project can b
 
 1. Planning and Requirements Gathering: This phase involves gathering requirements, defining project scope, and creating a project plan. This phase can take 2-4 weeks, depending on the size and complexity of the project.
 
-Deliverables: Project scope document, project plan, and requirements document.
+   Deliverables: Project scope document, project plan, and requirements document.
 
 2. Design and Prototyping: This phase involves creating wireframes, user interface designs, and prototypes to get feedback from stakeholders. This phase can take 4-6 weeks, depending on the size and complexity of the project.
 
-Deliverables: Wireframes, user interface designs, and prototypes.
+   Deliverables: Wireframes, user interface designs, and prototypes.
 
 3. Development: This phase involves building the room rental service platform, including front-end and back-end development, database design, and integration with payment gateway and messaging system. This phase can take 8-12 weeks, depending on the size and complexity of the project.
 
-Deliverables: Fully functional platform, payment gateway integration, messaging system integration.
+   Deliverables: Fully functional platform, payment gateway integration, messaging system integration.
 
 4. Testing: This phase involves testing the platform for bugs, usability, and performance. This phase can take 2-4 weeks, depending on the size and complexity of the project.
 
-Deliverables: Test plan, test cases, and test reports.
+   Deliverables: Test plan, test cases, and test reports.
 
 5. Deployment: This phase involves deploying the platform to the production environment and making it live. This phase can take 1-2 weeks, depending on the size and complexity of the project.
 
-Deliverables: Deployed platform, go-live plan.
+   Deliverables: Deployed platform, go-live plan.
 
 6. Maintenance and Support: This phase involves providing ongoing maintenance and support for the platform, including bug fixes, upgrades, and customer support. This phase can continue indefinitely, depending on the needs of the project.
 
-Deliverables: Maintenance plan, support plan, bug fixes, and upgrades.
+   Deliverables: Maintenance plan, support plan, bug fixes, and upgrades.
 
-These are some general timelines and deliverables that could be included in a room rental service project. The specifics of the project will depend on the requirements of the project and the technologies and platforms being used. It's important to create a detailed project plan and timeline to ensure that the project stays on track and meets all deliverables on time.
+
 
 ### 12. Conclusion:
 
