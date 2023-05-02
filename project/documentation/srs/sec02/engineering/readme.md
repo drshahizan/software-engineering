@@ -43,19 +43,19 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1.Amira Ellyana binti Jasmin</td>
+    <td>Amira Ellyana binti Jasmin</td>
     <td>One Stop Parcel Center</td>
     <td>Management</td>
     <td></td>
   </tr>
     <tr>
-    <td>2.Syazwan bin Saad</td>
+    <td>Syazwan bin Saad</td>
     <td>One Stop Parcel Center</td>
     <td>Management</td>
   <td></td>
   </tr>
     <tr>
-    <td>3. Muhammad Amirul</td>
+    <td>Muhammad Amirul</td>
     <td>Cengal Parcel Point</td>
     <td>Head of Management</td>
     <td></td>
