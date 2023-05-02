@@ -1,0 +1,13 @@
+body {
+    background-color: salmon;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+  #para1 {
+    color: black;
+    font-size : 50px;
+  }

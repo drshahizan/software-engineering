@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+  }
+  
+  h1 {
+    color: pink;
+    margin-left: 20px;
+  }
+
+  p{
+    color:pink;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:larger
+  }
+  
+  #pname{
+    font-size: 500px;
+  }

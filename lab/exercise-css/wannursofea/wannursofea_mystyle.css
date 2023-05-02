@@ -1,0 +1,14 @@
+body {
+    background-color: rosybrown;
+  }
+  
+  h1 {
+    color: gray;
+    margin-left: 20px;
+  }
+
+#title{
+    text-align: center;
+    font-size: x-large;
+    color: bisque;
+}

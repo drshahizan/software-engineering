@@ -1,0 +1,19 @@
+.box {
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 50px;
+  }
+
+  .box2 {
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    border: 2px solid rgb(177, 79, 79);
+    margin: 50px;
+  }
+  
+  .content {
+    font-size: 24px;
+  }

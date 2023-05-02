@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!--
+    Name: CHAI YU TONG
+    Matrix No: A22EC0145
+    Github id: Yutongchai
+
+    Lab 10: Application Form
+    -->
+</head>
+
+<body>
+
+    <h3 style="text-align:center;font-family: verdana; color:black">Web Programming: Application Form</h3>
+
+    <style>
+        table
+        {
+            padding:8px;
+            width:100%;
+            margin:auto;
+        }
+        th
+        {
+            text-align:left;
+        }
+    </style>
+    <form action="/action_page.php">
+    <fieldset style="border:1px solid black;width:98%">
+        <legend>Personal Details</legend>
+            <table>
+            <tr>
+                <td><label for="name">Name</label></td>
+                <td>
+                    <select id="name" name="name">
+                    <option value="">--Select--</option>
+                    <option value="mr">Mr.</option>
+                    <option value="mrs">Mrs.</option>
+                    <option value="Ms">Miss</option>
+                    </select>
+                    <input type="text" id="name" name="name">
+                </td>
+            </tr>
+            <tr>
+                <td><label for="gndr">Gender</label></td>
+                <td>
+                    <input type="radio" id="gender1" name="gender" value="female">
+                    <label for="gender1">Female</label>
+                    <input type="radio" id="gender2" name="gender" value="male">
+                    <label for="gender2">Male</label>
+                </td>
+                <td><label for="dob">Date of Birth</label></td>
+                <td><input type="date" id="dob" name="dob"></td>
+            </tr>
+            <tr>
+                <td><label for="status">Marial Status</label></td>
+                <td>
+                    <select id="status" name="status">
+                    <option value="">--Select--</option>
+                    <option value="married">Married</option>
+                    <option value="widowed">Widowed</option>
+                    <option value="seperated">Seperated</option>
+                    <option value="divorced">Divorced</option>
+                    <option value="single">Single</option>
+                    </select>
+                </td>
+                <td><label for="religion">Religion</label></td>
+                <td>
+                    <select id="religion" name="religion">
+                    <option value="">--Select--</option>
+                    <option value="islam">Islam</option>
+                    <option value="christianity">Christianity</option>
+                    <option value="hinduism">Hinduism</option>
+                    <option value="buddhism">Buddhism</option>
+                    <option value="sikhism">Sikhism</option>
+                    </select>
+                </td>
+            </tr>
+        </table>
+    </fieldset>
+
+    <fieldset style="border:1px solid black;width:98%">
+        <legend>Contact Details</legend>
+            <table>
+                <tr>
+                    <td><label for="phone">Phone</label></td>
+                    <td><input type="tel" id="phone" name="phone" pattern="[0-9]{10}"></td>
+                    <td><label for="email">E-mail</label></td>
+                    <td><input type="email" id="email" name="email"></td>
+                </tr>
+                <tr>
+                    <td><label for="address1">Address Line 1</label></td>
+                    <td><input type="text" id="address1" name="address1"></td>
+                    <td><label for="address2">Address Line 2</label></td>
+                    <td><input type="text" id="address2" name="address2"></td>
+                </tr>
+                <tr>
+                    <td><label for="city">City</label></td>
+                    <td><input type="text" id="city" name="city"></td>
+                    <td><label for="state">State</label></td>
+                    <td><select id="state" name="state">
+                        <option value="">--Select--</option>
+                        <option value="johor">Johor</option>
+                        <option value="kedah">Kedah</option>
+                        <option value="kelantan">Kelantan</option>
+                        <option value="malacca">Malacca</option>
+                        <option value="KL">Kuala Lumpur</option>
+
+                    </select></td>
+                </tr>
+            </table>
+    </fieldset>
+
+    <fieldset style="border:1px solid black; width:98%">
+        <legend>Qualification Details</legend>
+            <table>
+                <tr>
+                    <th>No.</th>
+                    <th>Qualification</th>
+                    <th>University</th>
+                    <th>Passing Year</th>
+                    <th>CGPA</th>
+                </tr>
+                <tr>
+                    <td>1.</td>
+                    <td>
+                        <select id="qualification" name="qualification">
+                        <option value="pt3">PT3</option>
+                        <option value="spm">SPM</option>
+                        <option value="stpm">STPM</option>
+                        <option value="foundation">Foundation</option>
+                        <option value="alvl">A-level</option>
+                        <option value="ausmat">AUSMAT</option>
+                        <option value="ib">IB</option>
+                        <option value="diploma">Diploma</option>
+                        <option value="bachelor">Bachelor's degree</option>
+                        <option value="master">Masters</option>
+                        <option value="postgrade">PHD</option>
+                        </select></td>
+                    <td><input type="text" id="uni" name="uni" size="90"></td>
+                    <td><input type="text" id="year" name="year" size="5"></td>
+                    <td><input type="tel" id="cgpa" name="cgpa" size="5" pattern="[0-9]{1}.[0-9]{2}"></td>
+                </tr>
+                <tr>
+                    <td>2.</td>
+                    <td>
+                        <select id="qualification" name="qualification">
+                        <option value="pt3">PT3</option>
+                        <option value="spm">SPM</option>
+                        <option value="stpm">STPM</option>
+                        <option value="foundation">Foundation</option>
+                        <option value="alvl">A-level</option>
+                        <option value="ausmat">AUSMAT</option>
+                        <option value="ib">IB</option>
+                        <option value="diploma">Diploma</option>
+                        <option value="bachelor">Bachelor's degree</option>
+                        <option value="master">Masters</option>
+                        <option value="postgrade">PHD</option>
+                        </select></td>
+                    <td><input type="text" id="uni" name="uni" size="90"></td>
+                    <td><input type="text" id="year" name="year" size="5"></td>
+                    <td><input type="tel" id="cgpa" name="cgpa" size="5" pattern="[0-9]{1}.[0-9]{2}"></td>
+                </tr>
+            </table>
+    </fieldset>
+
+    <fieldset style="border:1px solid black;width:98%">
+        <legend>Language Knowledge</legend>
+            <table>
+                <tr>
+                    <th style="text-align:left">Language</th>
+                    <td><i>Reading</i></td>
+                    <td><i>Writing</i></td>
+                    <td><i>Speaking</i></td>
+                </tr>
+                <tr>
+                    <td>B.Melayu</td>
+                    <td><input type="checkbox" id="bm" name="bm" value="bm"></td>
+                    <td><input type="checkbox" id="bm" name="bm" value="bm"></td>
+                    <td><input type="checkbox" id="bm" name="bm" value="bm"></td>
+                </tr>
+                <tr>
+                    <td>English</td>
+                    <td><input type="checkbox" id="eng" name="eng" value="eng"></td>
+                    <td><input type="checkbox" id="eng" name="eng" value="eng"></td>
+                    <td><input type="checkbox" id="eng" name="eng" value="eng"></td>
+                </tr>
+            </table>
+    </fieldset>
+
+    <fieldset style="border:1px solid black;width:98%">
+        <legend>Identification Details</legend>
+        <table>
+            <tr>
+                <td>Identity Card Number</td>
+                <td><input type="tel" id="IC" name="IC" 
+                    pattern="[0-9]{12}"></td>
+                <td>Passport Number</td>
+                <td><input type="text" id="passport" class="passport"></td>
+            </tr>
+            <tr>
+                <td>Upload Photo</td>
+                <td><input type="file" id="photo" name="photo"></td>
+                <td>Upload Signature</td>
+                <td><input type="file" id="sign" name="sign"></td>
+
+            </tr>
+        </table>
+    </fieldset>
+    <div style="text-align: center">
+        <input type="submit" value="Submit">
+        <button onclick="history.back()">Back</button>
+    </div>
+
+</form>
+
+</body>
+</html>

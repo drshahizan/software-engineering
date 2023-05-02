@@ -1,0 +1,93 @@
+<html>
+
+<head>
+    <!--
+            Name: WONG QIAO YING
+            Matrix No: A22EC0118
+            Github id: alovey1014
+
+            Lab 9: HTML Forms
+        -->
+    <style>
+        table,
+        th,
+        td {
+            border: 1px solid black;
+        }
+
+        fieldset {
+            padding: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 style="text-align:center;font-family:verdana;color:blue;font-weight:bold">Medical Form</h1>
+    <form action="process.php">
+        <fieldset style="border:1px solid grey;width:80%">
+            <legend>Personal Information</legend>
+            <table>
+                <tr>
+                    <td>First Name</td>
+                    <td width="20px">
+                        <input type="text" id="fname" name="fname">
+                    </td>
+                    <td>Gender</td>
+                    <td>
+                        <input type="radio" id="female" name="gender" value="Female">
+                        <label for="html">Female</label>
+                        <input type="radio" id="male" name="gender" value="Male">
+                        <label for="html">Male</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Last Name</td>
+                    <td>
+                        <input type="text" id="lname" name="lname">
+                    </td>
+                    <td>Nationality</td>
+                    <td>
+                        <select id="nationality" name="nationality">
+                            <option value="Canadian">Canadian</option>
+                            <option value="Malaysian">Malaysian</option>
+                            <option value="American">American</option>
+                        </select>
+                    </td>
+                </tr>
+                <td height="80px">Address</td>
+                <td colspan="3">
+                    <textarea id="address" name="address" rows="5" cols="27"></textarea>
+                </td>
+            </table>
+        </fieldset>
+        <fieldset style="border:1px solid grey;width:80%">
+            <legend>Medical History</legend>
+            <input type="checkbox" id="history" name="smallpox">
+            <label for="smallpox">Smallpox</label>
+            <input type="checkbox" id="history" name="mumps">
+            <label for="mumps">Mumps</label>
+            <input type="checkbox" id="history" name="dizziness">
+            <label for="dizziness">Dizziness</label>
+            <input type="checkbox" id="history" name="sneezing">
+            <label for="dizziness">Sneezing</label>
+        </fieldset>
+        <fieldset style="border:1px solid grey;width:95%">
+            <legend>Cuurent Medication</legend>
+            Are you currently taking any meditation?
+            <input type="radio" id="yesno" name="yes">
+            <label for="html">Yes</label>
+            <input type="radio" id="yesno" name="gender">
+            <label for="html">No</label>
+            <br>
+            If you are currently taking medication, please indicate it in the space below:
+            <br>
+            <textarea id="current" name="description" rows="10" cols="150"></textarea>
+        </fieldset>
+        <br>
+        <input type="submit" name="submitInfo" value="Submit">
+        <input type="reset" name="resetInfo" value="Reset">
+    </form>
+
+</body>
+
+</html>

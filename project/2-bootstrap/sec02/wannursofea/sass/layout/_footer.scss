@@ -1,0 +1,38 @@
+/*
+ * Footer Styles
+ */
+
+ .site-footer{
+ 	background-color: $secondary-color;
+ 	padding: 80px 0;
+ }
+.widget{
+	@include em(14);
+	.widget-title{
+		font-family: $primary-font;
+		text-transform: uppercase;
+		color: white;
+		font-weight: 600;
+		margin-bottom: 30px;
+	}
+
+	&.contact-widget{
+		address,.mail,.phone{
+			padding-left: 30px;
+			position: relative;
+			margin-bottom: 10px;
+			display: block;
+
+			.icon{
+				position: absolute;
+				left:0;
+				top:5px;
+			}
+		}
+	}
+}
+.colophon{
+	@include em(14);
+	text-align: center;
+	padding: 30px 0 0;
+}

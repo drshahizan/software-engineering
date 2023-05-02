@@ -1,0 +1,105 @@
+<!--
+Name: SOH HAN WEI
+Matrix No: A22EC0273
+Github id: wei2030
+
+Lab 6: HTML Table
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lab 6: HTML Table</title>
+  <style>
+    table,th,tr,td{
+    border:2px solid black;
+    border-collapse: collapse;
+    }
+  </style>
+</head>
+
+<body>
+  <p>
+    <table align="center" width="85%">
+      <tr>
+        <th>Flight No</th>
+        <th>Place</th>
+        <th>Destination</th>
+        <th colspan="2">Time</th>
+      </tr>
+      <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>Arrival</td>
+        <td>Departure</td>
+      </tr>
+    </table>
+  </p>
+
+  <p>
+    <table align="center" width="85%">
+      <tr>
+        <td rowspan="2" align="center">Time</td>
+        <th>Johor Bahru</th>
+        <th>Jakarta</th>
+        <th>Dhaka</th>
+        <th>Jeddah</th>
+      </tr>
+      <tr align="center">
+        <td>3:30 pm</td>
+        <td>2:30 pm</td>
+        <td>1:30 pm</td>
+        <td>10:30 am</td>
+      </tr>
+    </table>
+  </p>
+
+  <p>
+    <table align="center" width="85%" height="150px">
+      <tr bgcolor="#0000FF" align="center">
+        <th rowspan="2" colspan="3">BLUE</td>
+      </tr>
+      <tr></tr>
+      <tr rowspan="2" align="center">
+        <th bgcolor="#FF0000">RED</td>
+        <th bgcolor="#00FF00">GREEN</td>
+        <th bgcolor="#FFFF00">YELLOW</td>
+      </tr>
+      <tr></tr>
+    </table>
+  </p>
+
+  <p>
+    <table align="center" width="85%">
+      <tr align="center">
+        <th style="width:25%">1</td>
+        <th style="width:25%">2</td>
+        <th style="width:25%">3</td>
+        <th style="width:25%">4</td>
+      </tr>
+
+      <tr align="center">
+        <th>5</td>
+        <th rowspan="2" colspan="2">Image</th>
+        <th>6</td>
+      </tr>
+
+      <tr align="center">
+        <th>7</td>
+        <th>8</td>
+      </tr>
+
+      <tr align="center">
+        <th>9</td>
+        <th>10</td>
+        <th>11</td>
+        <th>12</td>
+      </tr>
+    </table>
+  </p>
+</body>
+</html>

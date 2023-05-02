@@ -1,0 +1,13 @@
+body {
+    background-color: rgba(176, 173, 230, 0.39);
+  }
+  
+  h1 {
+    color: rgb(123, 130, 61);
+    margin-left: 20px;
+  }
+
+  #p1{
+    font-size: 50px;
+    text-align: center;
+  }

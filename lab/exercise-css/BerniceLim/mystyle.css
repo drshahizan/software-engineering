@@ -1,0 +1,15 @@
+
+body {
+    background-color: mistyrose;
+  }
+  
+  h1 {
+    color: floralwhite;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+  }
+  #para1 {
+    color:salmon;
+    text-align: center;
+    font-size: 50px;
+  }

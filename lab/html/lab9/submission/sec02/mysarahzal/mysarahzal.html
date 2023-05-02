@@ -1,0 +1,95 @@
+<html>
+    <head>
+        <!--
+        Name: MAISARAH BINTI RIZAL
+        Matrix No: A22EC0192
+        Github id: mysarahzal
+
+        Lab 9: HTML Forms
+        -->
+    </head>
+    <body>
+        <form>
+        <style>
+            table {
+              width: 500px;
+              
+            }
+        </style>
+        <h1 style="text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif; color: blue;"><b>Medical Form</b></h1>
+        <fieldset>
+            <legend>Personal Information</legend>
+            <table border="1">
+                <tr>
+                    <td>First Name</td>
+                    <td><input type="text" id="name" name="name" required></td>
+                    <td>Gender</td>
+                    <td>
+                        <input type="radio" id="Female" name="Gender" value="Female" required>
+                        <label for="Female">Female</label>
+                        <input type="radio" id="Male" name="Gender" value="Male" required>
+                        <label for="Male">Male</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Last Name</td>
+                    <td><input type="text" id="name" name="name" required></td>
+                    <td>Nationality</td>  
+                    <td><select id="nationality" name="nationalty" required>
+                        <option value="">Select Nationality</option>
+                        <option value="malaysian">Malaysian</option>
+                        <option value="indian">Indian</option>
+                        <option value="chinese">Chinese</option>
+                        <option value="arabian">Arabian</option>
+                        </select>
+                </td>
+                </tr>
+                <tr>
+                    <td colspan="3"; rowspan="2">Address</td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                
+            </table>
+        </fieldset>
+
+        <fieldset>
+            <legend>Medical History</legend>
+            <input type="checkbox" id="smallpox" name="symptoms" value="smallpox" required>
+			<label for="smallpox">Smallpox</label>
+            <input type="checkbox" id="mumps" name="symptoms" value="mumps" required>
+			<label for="mumps">Mumps</label>
+            <input type="checkbox" id="dizziness" name="symptoms" value="dizziness" required>
+			<label for="dizziness">Dizziness</label>
+            <input type="checkbox" id="sneezing" name="symptoms" value="sneezing" required>
+			<label for="sneezing">Sneezing</label>
+        </fieldset>
+
+        <fieldset>
+            <legend>Current Medication</legend>
+            <table>
+                <tr>
+                    <td>Are you currently taking any medication?</td>
+                    <td>
+                        <input type="radio" id="yes" name="Gender" value="yes" required>
+                        <label for="yes">Yes</label>
+                    </td>
+                    <td>
+                        <input type="radio" id="no" name="Gender" value="no"required>
+                        <label for="no">No</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>If you are currently taking medication, please indicate it in the space below:</td>
+                </tr>
+            </table>
+            <fieldset>
+                <p></p>
+            </fieldset>
+        </fieldset>
+        <input type="submit" value="Submit">
+        <input type="reset" value="Reset">
+    </form>
+    </body>
+</html>

@@ -1,0 +1,198 @@
+<!--
+Name: Soh Han Wei
+Matrix No: A22EC0273
+Github id: wei2030
+
+Project 1: Personal Portfolio Website
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Personal Portfolio Website</title>
+  <style>
+    body{
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    h1{
+      text-align: center;
+      margin-top: 30px;
+    }
+
+    .center{
+      display:block;
+      margin-left: auto;
+      margin-right:auto;
+    }
+
+    .profile{
+      margin-top: 50px;
+    }
+
+    .profile p{
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 18px;
+      line-height: 1.5;
+      text-align: justify;
+    }
+
+    fieldset{
+      border: 1px solid #D3D3D3;
+      width: 800px;
+      margin: auto;
+    }
+
+    table, tr, th, td{
+      border: 2px solid #000000;
+    }
+
+    input[type=text],[type=email],textarea{
+      width: 98%;
+      padding: 5px;
+      border: 1px solid #DCDCDC;
+      border-radius: 5px;
+    }
+
+    input textarea{
+      width: 98%;
+      border: 1px solid #DCDCDC;
+      border-radius: 8px;
+    }
+
+    input[type=submit]{
+      
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Soh Han Wei's Personal Profile</h1>
+  <img src="https://github.com/drshahizan/software-engineering/blob/main/project/1-portfolio/sec01/wei2030/Photo%20edited.jpg?raw=true" alt="My Profile Picture" width="200px" class="center">
+
+  <div class="profile">
+    <fieldset>
+      <legend>My profile</legend>
+      <p>
+        My name is <ins>Soh Han Wei</ins>, and you can call me as Han Wei, and I am a first-year degree of <ins>Data Engineering</ins> student in University Technology Malaysia. I was born on <ins>4th of September, 2003</ins> and this year I am 20 years old. As a university student, I'm commited to expanding my knowledge and skill set in the field of computer science. University life has allowed me to explore my intellectual curiosity and pursue my acedemic goals. I hope I could get the opportunity to work in a big technology company so that I could expand my experience in this field. As I continue to pursue my goal of becoming a data engineer, I'm also keeping a close eye on emerging trends and technologies in the field. I believe that staying up-to-date with the latest tools and techniques is crucial for remaining competitive and driving innovation in this rapidly-evolving space.
+      </p>
+    </fieldset>
+
+    <div style="width:920px; margin:0 auto;line-height: 1.5;">
+      <ul type="none">
+        <h2 style="width:900px; margin:1 auto;">Click on these word to go to those section &#11088</h2>
+        <li>&#10004 <a href="#skills"> Skill</a></li>
+        <li>&#127891<a href="#education">Education</a></li>
+        <li>&#128188<a href="#experience">Experience</a></li>
+        <li>&#128064<a href="#contact">Contact me</a></li>
+      </ul>
+    </div>
+
+    <br>
+
+    <!--Skills section-->
+    <section id="skills">
+      <table width="800px" class="center">
+        <tr height="50px">
+          <th colspan="2" width="790px">My skills</th>
+        </tr>
+  
+        <tr>
+          <th width="40%">Programming skill</th>
+          <td width="60%">
+            <ul type="square">
+              <li>C++</li>
+              <li>HTML</li>
+              <li>Java</li>
+              <li>R</li>
+            </ul>
+          </td>
+        </tr>
+  
+        <tr>
+          <th>Language</th>
+          <td>
+            <ul type="square">
+              <li>Chinese</li>
+              <li>Bahasa Melayu</li>
+              <li>English</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+    </section>
+
+    <br>
+
+    <!--Education section-->
+    <section id="education">
+      <div style="width:920px; margin:0 auto;">
+        <ul type="circle"><h3>&#127891 My education history</h3>
+          <li>SJK(C)Cheng (2009-2015)</li>
+          <li>SMJK Tinggi Cina Melaka (2016-2020)</li>
+          <li>Kolej Matriculation Malacca (2021-2022)</li>
+          <li>University Technology Malaysia (2022-now)</li>
+        </ul>
+      </div>
+      <br>
+    </section>
+
+    <!--Experience section-->
+    <section id="experience">
+      <div style="width:920px; margin:0 auto;">
+        <ul type="none"><h3>&#128188 My Working Experience</h3>
+          <li>&#127842 Yotta Kushiyaki Bar
+            <ul type="none">
+              <li>Position: Chef Assistant</li>
+              <li>Working hours: 6 days a week shift, with 8 hours each</li>
+            </ul>
+          </li>
+          <br>
+          <li>
+            &#127835 Dai Wun Fan Restorant
+            <ul type="none">
+              <li>Position: Chef Assistant</li>
+              <li>Working hours: 6 days a week shift, with 7 hours each</li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </section>
+    <br>
+
+    <!--Contact section-->
+    <section id="contact">
+        <fieldset>
+          <legend>Contact Me</legend>
+          <p style="width:920px; margin:0 auto;">
+            <form action="/action_page.php">
+            <table width="100%">
+              <tr>
+                <th><label for="name">Name:</label></th>
+                <td height="100%"><input type="text" id="name" name="name" placeholder="Enter your name"></td>
+              </tr>
+              
+              <tr>
+                <th><label for="email">Email:</label></th>
+                <td><input type="email" id="email" name="email" placeholder="Enter your email"></td>
+              </tr>
+
+              <tr>
+                <th><label for="message">Message:</label></th>
+                <td><textarea id="message" name="message" style="height:50px" placeholder="You can leave some comment here..."></textarea></td>
+              </tr>
+              </table>
+              
+              <div style="text-align: center;">
+                <input type="submit" value="submit" style="height:35px; width:70px;">
+              </div>
+            </form>
+          </p>
+        </fieldset>
+    </section>
+
+</body>
+</html>

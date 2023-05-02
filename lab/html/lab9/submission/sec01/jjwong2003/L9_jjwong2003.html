@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!--
+        Name:Wong Jun Ji
+        Matrix No: A22EC0117
+        Github id: jjwong2003
+
+        Lab 9: HTML Forms
+        -->
+        <h1 align="center" style="font-family:verdana;color:blue"><b>Medical Form</b></h1>
+    </head>
+    <body>
+        <form action="/process.php">
+            <fieldset style="width:85%">
+                <legend>Personal Information</legend>
+                <table border="1px solid black" width="50%">
+                    <tr>
+                        <td><label for="fname">First Name</label></td>
+                        <td><input type="text" id="fname" name="fname"></td>
+                        <td style="width:60px">Gender</td>
+                        <td><input type="radio" id="Female" name="gender" value="Female">
+                            <label for="Female">Female</label>
+                            <input type="radio" id="Male" name="gender" value="Male">
+                            <label for="Female">Male</label>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><label for="lname">Last Name</label></td>
+                        <td><input type="text" id="lname" name="lname"></td>
+                        <td><label for="nationality">Nationality</label></td>
+                        <td><select id="nationality" name="nationality">
+                            <option selected="selected" value="Canadian">Canadian</option>
+                            <option value="Malaysian">Malaysian</option>
+                        </select></td>
+                    </tr>
+                    <tr>
+                        <td><label for="add">Address</label></td>
+                        <td colspan="3"><textarea name="add" rows="8" cols="27"></textarea></td>
+                    </tr>
+                </table>
+            </fieldset>
+            <fieldset style="width:85%">
+                <legend>Medical History</legend>
+                <input type="checkbox" id="sakit1" name="sakit1" value="Smallpox">
+                <label for="sakit1">Smallpox</label>
+                <input type="checkbox" id="sakit2" name="sakit2" value="Mumps">
+                <label for="sakit2">Mumps</label>
+                <input type="checkbox" id="sakit3" name="sakit3" value="Dizziness">
+                <label for="sakit3">Dizziness</label>
+                <input type="checkbox" id="sakit4" name="sakit4" value="Sneezing">
+                <label for="sakit4">Sneezing</label>
+            </fieldset>
+            <fieldset>
+                <legend>Current Medication</legend>
+                <p style="margin:0">
+                    Are you currently taking any medication?
+                <input type="radio" id="yes" name="cuMed" value="yes">
+                <label for="yes">Yes</label>
+                <input type="radio" id="no" name="cuMed" value="no">
+                <label for="no">No</label>
+                </p>
+                <p style="margin:0">
+                    If you are currently taking medication, please indicate it in the space below<br>
+                    <textarea name="med" rows="16" cols="165"></textarea>
+                </p>
+            </fieldset>
+            <input type="submit">
+            <input type="reset">
+        </form>
+    </body>
+</html>

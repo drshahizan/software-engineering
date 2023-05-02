@@ -1,0 +1,13 @@
+body {
+    background-color: #CCCCFF;
+  }
+  
+  h1 {
+    color: lightcoral;
+    margin-left: 20px;
+  }
+  #name1 {
+    text-align: center;
+    color: blue;
+    font-family: Arial;
+  }

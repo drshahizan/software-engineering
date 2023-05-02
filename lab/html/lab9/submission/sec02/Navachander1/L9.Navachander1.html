@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- 
+        Name: Navachander Navasantar
+        Matrix No: A22EC0226
+        Github id: Navachander1
+
+        Lab 9: HTML Forms
+
+    -->
+
+    <title>HTML Forms</title>
+</head>
+
+<body>
+
+    <h1 style="text-align:center;">
+        <font face="verdana" color="blue">Medical Form</font>
+    </h1>
+
+    <form>
+        <style>
+            table {
+                font-size: 15px;
+            }
+
+            .form-container {
+                border: 1px solid black;
+                padding: 10px;
+                margin: 20px;
+            }
+
+            .form-container9 {
+                border: 1px solid darkblue;
+                padding: 10px;
+                margin: 20px;
+            }
+
+
+            td {
+                padding: 10px;
+                border: 1px solid black;
+            }
+
+            input[type="text"] {
+                width: 100%;
+                height: 100%;
+                box-sizing: border-box;
+                padding: 15px;
+                font-size: 16px;
+            }
+
+            input[type="address"] {
+                width: 100%;
+                height: 100%;
+                box-sizing: border-box;
+                padding: 100px;
+                font-size: 16px;
+            }
+
+            .container {
+                position: relative;
+            }
+
+            .text {
+                position: absolute;
+                top: 50%;
+                left: 17%;
+                transform: translate(-50%, 50%);
+                font-size: 18px;
+                background: white;
+                padding: 0 4px;
+            }
+        </style>
+
+        <div class="form-container">
+
+            <div class="container">
+                <span class="text">Personal Information</span>
+            </div>
+
+
+            <div class="form-container">
+
+                <table style="border-collapse: collapse;width:100%;">
+                    <tr>
+                        <td style="border: 1px solid black;width:15%;text-align:center;">First Name</td>
+                        <td style="border: 1px solid black;width:40%;text-align:center;"><input type="text"
+                                name="First_name"></td>
+                        <td style="border: 1px solid black;width:15%;text-align:center;">Gender</td>
+                        <td style="border: 1px solid black;width:30%;text-align:center;">
+                            <label><input type="radio">Male</label><br>
+                            <label><input type="radio">Female</label>
+                        </td>
+
+                    </tr>
+                    <tr>
+                        <td style="border: 1px solid black;width:15%;text-align:center;">Last Name</td>
+                        <td style="border: 1px solid black;width:40%;text-align:center;"><input type="text"
+                                name="Last_name"></td>
+                        <td style="border: 1px solid black;width:15%;text-align:center;">Nationality</td>
+                        <td style="border: 1px solid black;width:30%;text-align:center;">
+                            <select id="nationality" name="nationality">
+                                <option value="">Canadian</option>
+                                <option value="american">American</option>
+                                <option value="british">British</option>
+                                <option value="canadian">Asian</option>
+                                <option value="canadian">Malaysian</option>
+                            </select>
+                        </td>
+
+                    </tr>
+                    <tr style="height:200px;">
+                        <td style="border: 1px solid black;width:15%;text-align:center;" rowspan="3">Address</td>
+                        <td style="border: 1px solid black;width:85%;text-align:center;" colspan="3" rowspan="3"><input
+                                type="address" name="address"></td>
+
+
+                    </tr>
+                </table>
+
+            </div>
+
+            <!--- above is for personal information part --->
+
+            <style>
+                .form-container1 {
+                    border: 1px solid black;
+                    padding: 10px;
+                    margin: 20px;
+                }
+
+                .container1 {
+                    position: relative;
+                }
+
+                .text1 {
+                    position: absolute;
+                    top: 50%;
+                    left: 13%;
+                    transform: translate(-50%, -100%);
+                    font-size: 18px;
+                    background: white;
+                    padding: 0 2px;
+                }
+            </style>
+
+            <div class="form-container1">
+                <div class="container1">
+                    <span class="text1">Medical History</span>
+                </div>
+
+                <label><input type="radio">Smallpox</label>
+                <label><input type="radio">Mumps</label>
+                <label><input type="radio">Dizziness</label>
+                <label><input type="radio">Sneezing</label>
+
+            </div>
+
+            <!--- above is for medical history part --->
+
+            <style>
+                .form-container2 {
+                    border: 1px solid black;
+                    padding: 10px;
+                    margin: 20px;
+                }
+
+                .container2 {
+                    position: relative;
+                }
+
+                .text2 {
+                    position: absolute;
+                    top: 50%;
+                    left: 13%;
+                    transform: translate(-50%, -100%);
+                    font-size: 18px;
+                    background: white;
+                    padding: 0 2px;
+                }
+            </style>
+
+            <div class="form-container2">
+                <div class="container2">
+                    <span class="text2">Current Medication</span>
+                </div>
+
+                Are you currently taking any medication?
+                <label><input type="radio">Yes</label>
+                <label><input type="radio">No</label><br>
+                If you are currently taking medication, please indicate it in the space below:<br>
+                <input type="address" name="address">
+
+            </div>
+
+            <!--- above is for current medication part --->
+        </div>
+
+        <button>Submit</button>
+        <button type="reset">Reset</button>
+    </form>
+
+
+</body>
+
+</html>

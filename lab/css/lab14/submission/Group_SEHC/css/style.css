@@ -1,0 +1,94 @@
+.pimg1
+{
+    background-image: url(https://www.utm.my/wp-content/uploads/2020/12/pintu-gerbang-UTM-1080x675.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height:1000px; 
+    position: relative;
+    opacity:0.8;
+}
+
+.pimg2
+{
+    background-image: url(https://i.ibb.co/9gCcHy4/mal2.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:750px; 
+    position: relative;
+    opacity:0.8;
+}
+
+.pimg3
+{
+    background-image: url(https://i.ibb.co/Bw50CNs/mal3.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:700px; 
+    position: relative;
+    opacity:0.8;
+    
+}
+
+
+.ptext
+{
+  text-align: center;
+  position:sticky;
+  top:0;
+  left:0;
+  padding: 400px 0;
+  text-align: center;
+  font-size: 36px;
+  letter-spacing: 5px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+span
+{
+    text-transform: uppercase;
+    
+}
+span.border
+{
+    background-color: rgb(41, 40, 40);
+    color: white;
+    padding:10px;
+    margin-top: 500px;
+   
+}
+
+span.border.trans
+{
+    color: white;
+    background-color:transparent;
+}
+
+section
+{
+    text-align: center;
+    opacity:0.8;
+}
+
+section.section-light
+{
+    background-color: rgb(187, 187, 187);
+    padding-top: 50px;
+    padding-bottom: 1px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+section.section-dark
+{
+    background-color: rgb(9, 10, 25);
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+}

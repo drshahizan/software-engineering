@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Medical Form</title>
+    <!--
+        Name:LOW YING XI
+        Matrix No:A22EC0187
+        Github id:lowyingxi
+
+        Lab 9: HTML Forms
+        -->
+    <style>
+        th,
+        td {
+            border: 1px solid black;
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        #t1 {
+            float: left;
+            margin:auto;
+            border: 1px solid black;
+            padding: 0;
+            width: 500px;
+            height: 100px;
+            table-layout: auto;
+        }
+
+        #c1 {
+            border: 1px solid black;
+            width: 520px;
+        }
+
+        #topic {
+            text-align: center;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            color: blue;
+            
+        }
+
+        .nametitle {
+            width: 50%;
+            margin: 0 auto;
+        }
+
+        fieldset {
+            border: 1px solid blue;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 id="topic"><b>Medical Form</b></h1>
+    <form>
+        <div class="nametitle">
+            <fieldset style="width: 500px;">
+                <fieldset id="c1">
+                <legend>Personal Information</legend>
+                <table id="t1">
+                    <tr>
+                        <td>First name</td>
+                        <td><input type="text" name=""></td>
+                        <td>Gender </td>
+                        <td><input type="radio" name="gender" value="female"> Female<input type="radio" name="gender"
+                                value="male"> Male</td>
+                    </tr>
+                    <tr>
+                        <td>Last name</td>
+                        <td><input type="text" name=""></td>
+                        <td><label for="nationality">Nationality</label></td>
+                        <td><select id="nationality" name="nationality">
+                                <option value="american">American</option>
+                                <option value="australian">Australian</option>
+                                <option value="british">British</option>
+                                <option value="bruneian">Bruneian</option>
+                                <option value="bulgarian">Bulgarian</option>
+                                <option value="cambodian">Cambodian</option>
+                                <option value="canadian">Canadian</option>
+                                <option value="cape verdean">Cape Verdean</option>
+                                <option value="central african">Central African</option>
+                                <option value="chinese">Chinese</option>
+                                <option value="colombian">Colombian</option>
+                                <option value="dutch">Dutch</option>
+                                <option value="egyptian">Egyptian</option>
+                                <option value="fijian">Fijian</option>
+                                <option value="filipino">Filipino</option>
+                                <option value="french">French</option>
+                                <option value="georgian">Georgian</option>
+                                <option value="german">German</option>
+                                <option value="greek">Greek</option>
+                                <option value="grenadian">Grenadian</option>
+                                <option value="guinean">Guinean</option>
+                                <option value="indian">Indian</option>
+                                <option value="indonesian">Indonesian</option>
+                                <option value="italian">Italian</option>
+                                <option value="japanese">Japanese</option>
+                                <option value="malaysian">Malaysian</option>
+                                <option value="mexican">Mexican</option>
+                                <option value="new zealander">New Zealander</option>
+                                <option value="portuguese">Portuguese</option>
+                                <option value="singaporean">Singaporean</option>
+                                <option value="south african">South African</option>
+                                <option value="south korean">South Korean</option>
+                                <option value="spanish">Spanish</option>
+                                <option value="sri lankan">Sri Lankan</option>
+                                <option value="thai">Thai</option>
+                            </select></td>
+                    </tr>
+                    <tr>
+                        <td>Address</td>
+                        <td colspan="3"><input type="text" name="" style="height: 150px; width: 220px;"></td>
+                    </tr>
+                </table>
+                </fieldset>
+                <fieldset id="c1">
+                    <legend>Medical History</legend>
+                    <tr>
+                        <td style="border-collapse: collapse;">
+                            <input type="checkbox" name="" value="smallpox">Smallpox
+                            <input type="checkbox" name="" value="mamps">Mamps
+                            <input type="checkbox" name="" value="dizziness">Dizziness
+                            <input type="checkbox" name="" value="sneezing">Sneezing
+                    </tr>
+                    </td>
+                </fieldset>
+
+                <fieldset id="c1" style="width: 480px;">
+                    <legend>Current Meditation</legend>
+
+                    <tr>
+                        <td>Are you currently taking any medication?<input type="radio" name="medication">Yes<input
+                                type="radio" name="medication">No<br>If you are currently taking medication, please
+                            indicate
+                            it in the space
+                            below:<br>
+                            <input type="text" name="" style="height: 300px; width: 600px; "></br>
+                        </td>
+                    </tr>
+                </fieldset>
+
+
+
+                </table>
+                <input type="submit" value="Submit">
+                <input type="reset" value="Reset">
+            
+        </div>
+    </form>
+</fieldset>
+</body>
+
+</html>

@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+  #test1 {
+    font-family: 'Brush Script MT', cursive;
+    font-size:50px;
+    text-align:center;
+  }

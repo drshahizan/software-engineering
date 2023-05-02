@@ -1,0 +1,13 @@
+body {
+    background-color: gainsboro;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+#paraName {
+    text-align:center;
+    font-size: 50px;
+  }

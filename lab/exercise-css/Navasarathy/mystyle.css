@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(23, 122, 40);
+  }
+  
+  h1 {
+    color: red;
+    margin-left: 20px;
+  }
+
+  #para1{
+    font-size: 50px;
+    text-align: center;
+  }

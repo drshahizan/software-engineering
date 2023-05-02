@@ -188,15 +188,31 @@ Post-conditions: The expected results or conditions that should be met after the
 Side-effects: Any additional outcomes or changes that occur as a result of executing the function/entity. These can include changes to the system or environment, resource usage, or other effects that may impact other functions or entities
 ### Template for Writing Functional Requirements
 #### Template: Requirements Statement Example
-- The <user> shall be able to `<capability>`
+- The `<user>` shall be able to `<capability>`
 - The **librarian** shall be able to **register library user**
 - There shall be a `<system function>`
 - There shall be a **library registration information facility**
-- The <system function> shall able to `<action>` `<entity>`
+- The `<system function>` shall able to `<action>` `<entity>`
 - The **library registration information facility** shall be able to **store information**
- 
-### Templated for Writing Non-Functional Requirements
+ ### Template for Writing Non-Functional Requirements
+#### Quality Requirements:Template Requirements Statement Example
+- The `<user>` shall be able to `<capability>` at a minimum rate of `<quantity>` times per `<time unit>`.
+- Example: The **borrower** shall be able to **renew books** at a minimum rate of **3** times per **borrowing period**.
+- The `<user>` shall be able to `<capability>` within `<quantity>` `<time unit>`s from `<event>`.
+- Example: The **borrower** shall be able to **renew books** within **10 seconds** from **renewal process.**
+- The `<system function>` shall be able to `<action>` `<entity>` at least `<quantity>` times per `<time unit>`.
+- Example: The **library registration facility** shall be able to **add new user information** at least **15** times per **minute.**
+- The `<system function>` shall not allow `<user>` to `<action>`.
+- Example: The **library system** shall not allow **borrower** to **edit any sensitive data in the system.**
 ### Tabular Specification
+- Used to supplement natural language
+- Particularly useful when you have to define a number
+of possible alternative courses of action
+- For example, the insulin pump systems bases its
+computations on the rate of change of blood sugar
+level and the tabular specification explains how to
+calculate the insulin requirement for different
+scenarios
 ### Tabular Specification of Computation for an Insulin Pump
 ## Requirement Engineering Process 🏗️ 
 

@@ -1,0 +1,90 @@
+<html>
+
+<head>
+  <!--
+        Name=NUR ARINI FATIHAH BINTI MOHD SABIR
+        Matrix=A22EC0244
+        id github=arinifthh
+        Lab 9=Medication Form
+        -->
+</head>
+<!DOCTYPE html>
+
+<style>
+  table,
+  th,
+  td {
+    border: 1px solid black;
+  }
+</style>
+
+<body>
+  <h1 style="text-align:center;color:blue;font-family:verdana"><b>Medical Form</b></h1>
+
+  <form action="process.php" method="post">
+    <fieldset style="width:75%">
+      <legend>Personal Information</legend>
+      <table style="width:50%">
+        <tr>
+          <td>First Name:</td>
+          <td><input type="text" id="name" name="name" required>
+          <td>Gender</td>
+          <td><input type="radio" id="female" name="gender">
+            <label for="female">Female</label>
+            <input type="radio" id="male" name="gender">
+            <label for="male">Male</label>
+          </td>
+        </tr>
+
+        <tr>
+          <td>Last Name:</td>
+          <td><input type="text" id="name" name="name" required></td>
+          <td>Nationality</td>
+          <td><select id="nationality" name="nationality" required>
+              <option value="">Select a nationality</option>
+              <option value="Canadian">Canadian</option>
+              <option value="European">European</option>
+              </option>
+              <option value="Asian">Asian</option>
+            </select></td>
+        </tr>
+        <tr>
+          <td style="padding:10px">Address</td>
+          <td colspan="3"><input type="text" id="address" name="address" required></td>
+        </tr>
+
+      </table>
+
+    </fieldset>
+
+    <fieldset style="width:75%">
+      <legend>Medical History</legend>
+      <input type="checkbox" id="female" name="medical" value="smallpox">
+      <label for="smallpox">Smallpox</label>
+      <input type="checkbox" id="mumps" name="medical" value="mumps">
+      <label for="mumps">Mumps</label>
+      <input type="checkbox" id="dizziness" name="medical" value="dizziness">
+      <label for="dizziness">Dizziness</label>
+      <input type="checkbox" id="sneezing" name="medical" value="sneezing">
+      <label for="sneezing">Sneezing</label>
+
+    </fieldset>
+
+    <fieldset>
+      <legend>Current Medication</legend>
+      <p>Are you currently taking any medication?<input type="radio" id="yes" name="question" value="yes" required>
+        <for="yes">Yes</label>
+          <input type="radio">
+          <for="no">No</label>
+      </p>
+
+      <p>If you are currently taking medication,please indicate it in the space below:</p>
+
+      <input type="text">
+
+      <input type="submit" value="Submit">
+      <input type="reset" value="Reset">
+  </form>
+</body>
+
+</html>

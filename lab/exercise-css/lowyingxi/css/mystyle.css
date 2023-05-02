@@ -1,0 +1,14 @@
+body {
+    background-color: salmon;
+  }
+  
+  h1 {
+    color: purple;
+    margin-left: 40px;
+  }
+
+  #name{
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+  }

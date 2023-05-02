@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 100%; /* set a maximum width for the webpage container */
+    margin: 0 auto; /* center the container on the page */
+    background-color: #fff;
+  }
+  
+  header {
+    background-color: #0072c6;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  nav {
+    background-color: #eee;
+    padding: 10px;
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    color: #000;
+    text-decoration: none;
+    padding: 5px;
+  }
+  
+  nav a:hover {
+    background-color: #0072c6;
+    color: #fff;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  section h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  section ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  footer {
+    background-color: #ccc;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  @media only screen and (min-width: 768px) {
+    .container {
+      display: flex; /* use flexbox for layout */
+      flex-wrap: wrap; /* allow items to wrap to new lines if needed */
+    }
+  
+    main {
+      flex: 3; /* main content takes up 3/4 of the available space */
+    }
+  
+    nav {
+      flex: 1; /* navigation takes up 1/4 of the available space */
+      margin-left: 20px; /* add some margin between the main content and navigation */
+    }
+  }
+  
+  

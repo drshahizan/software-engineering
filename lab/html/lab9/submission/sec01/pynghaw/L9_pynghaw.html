@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Forms</title>
+
+    <!--
+    Name: Chen Pyng Haw
+    Matrix No: A22EC0042
+    Github id: pynghaw
+
+    Lab 9: HTML Forms
+    -->
+
+</head>
+
+<body>
+    <h1 align="center" style="font-family:Verdana, Geneva, Tahoma, sans-serif; color: #0000FF"><b>Medical Form</b></h1>
+    <form method="POST" action="process.php">
+        <fieldset style="width:70%">
+            <legend>Personal Information</legend>
+            <table border="2px" width="500px">
+                <tr>
+                    <td><label>First Name</label></td>
+                    <td><input type="text" name="First"></td>
+                    <td><label>Gender</label></td>
+                    <td>
+                        <input type="radio" name="gender" value="Female">Female
+                        <input type="radio" name="gender" value="Male">Male
+                    </td>
+                </tr>
+
+                <tr>
+                    <td><label>Last Name</label></td>
+                    <td><input type="text" name="Last"></td>
+                    <td><label>Nationality</label></td>
+                    <td>
+                        <select name="nat" id="nationality">
+                            <option value="mlys">Malaysian</option>
+                            <option value="oth">Other</option>
+                        </select>
+                    </td>
+                </tr>
+
+                <tr height="80px">
+                    <td><label>Address</label></td>
+                    <td colspan="3"><textarea cols="40" rows="5"></textarea></td>
+                </tr>
+            </table>
+        </fieldset>
+
+        <fieldset style="width:70%">
+            <legend>Medical History</legend>
+            <input type="checkbox" name="history" value="sp">Smallpox
+            <input type="checkbox" name="history" value="mp">Mumps
+            <input type="checkbox" name="history" value="dz">Dizziness
+            <input type="checkbox" name="history" value="sz">Sneezing
+        </fieldset>
+
+        <fieldset style="width:90%">
+            <legend>Current Medication</legend>
+            <p>
+                Are you currently taking any medication?
+                <input type="radio" value="yes">Yes
+                <input type="radio" value="no">No
+                <br>
+                If you are currently taking mediction, please indicate it in the space below:
+                <br>
+                <textarea cols="200" rows="9"></textarea>
+            </p>
+        </fieldset>
+
+        <input type="submit" value="submit">
+        <input type="reset" value="reset">
+    </form>
+</body>
+
+</html>

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab 6 CheMrhumi</title>
+    <!--
+        Name : Che Marhumi Bin Che Ab Rahim
+        Matrix No : A22EC0147
+        Git Hub ID : CheMrhumi
+
+        Lab 6 : HTML Table
+    -->
+
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th,
+        td,
+        tr {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <!-- Info Tagging 
+
+            th  = table head
+            tr  = table row
+            td  = table data
+        colspan = collum spanninng use inside tr or td
+              
+    -->
+
+    <!-- Creating first table -->
+    <table>
+        <tr> <!--open row  1-->
+            <th>Flight No</th>
+            <th>Place</th>
+            <th>Destination</th>
+            <th colspan="2">Time</th>
+        </tr> <!--close row 1-->
+        <tr> <!--open row 2-->
+            <td></td>
+            <td></td>
+            <td></td>
+            <td width="25%">Arrival</td>
+            <td width="25%">Departure</td>
+        </tr> <!--close row 2-->
+    </table><br>
+
+    <!-- creating second table -->
+    <table>
+        <td rowspan="2">Time </td>
+        <th>Johor Bahru</th>
+        <th>Jakarta</th>
+        <th>Dhaka</th>
+        <th>Jeddah</th>
+        <tr>
+            <td>3:30 pm</td>
+            <td>2:30 pm</td>
+            <td>1:30 pm</td>
+            <td>10:30 pm</td>
+        </tr>
+    </table><br>
+
+    <!--creating third table-->
+    <table>
+        <td colspan="3" bgcolor="Blue" height="50">BLUE</td>
+        <tr>
+            <td bgcolor="red" width="30%" height="50">RED</td>
+            <td bgcolor="green" width="30%" height="50">GREEN</td>
+            <td bgcolor="yellow" width="30%" height="50">YELLOW</td>
+        </tr>
+    </table><br>
+
+    <!--creating fourth table-->
+    <table>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <th colspan="2" rowspan="2">image</th>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>10</td>
+            <td>11</td>
+            <td>12</td>
+        </tr>
+    </table>
+
+
+
+</body>
+
+</html>
