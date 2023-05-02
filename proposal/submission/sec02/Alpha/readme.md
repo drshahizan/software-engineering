@@ -121,10 +121,12 @@ The resources required for the proposed college room rental system project can b
 
 #### Staff:
 - Main Developer: Responsible for overall project management, system architecture design, and leading the development team.
+- Assistant Developer: will be responsible for supporting the main developer in the development of the college room rental system .
 - Business Analyst: Gather and analyse user requirements, and translating them into technical requirements.
 - Quality Assurance Engineer: Ensure the quality and functionality of the system, including testing, bug reporting, and documentation.
 - UI/UX Designer: Design and Implement the user interface of the system, including user experience design, usability testing, and graphical design.
-- Database Administrator: maintain and manage the database management system to ensure data scalability, integrity and security..
+- Database Administrator: maintain and manage the database management system to ensure data scalability, integrity and security.
+
 
 #### Equipment:
 - Server or Cloud-based Infrastructure: To handle the expected workload and traffic, the system will need a server or cloud-based infrastructure with sufficient resources . The specific hardware requirements will depend on the expected workload and traffic which may include servers, storage, networking equipment as well as other hardware components.
