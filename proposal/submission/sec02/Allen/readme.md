@@ -315,8 +315,9 @@ By implementing these data security measures, the online grading system can ensu
 - Explain the quality assurance and testing procedures that will be followed.
 
 ### 12. Conclusion:
-- Conclude your proposal with a call to action, highlighting the benefits of your proposed solution and urging the decision-makers to take action.
-- Summarize the proposal and reiterate the importance of the project.
-- Mention any potential limitations or challenges that may arise during the project.
-- Provide a call to action for the client to approve the proposal and proceed with the project.
+- The UTM Online Grading System is a much-needed solution to the challenges of the current manual grading system. By implementing an online platform, UTM can automate its grading processes, streamline communication between teachers and students, and enhance the overall learning experience. This proposed solution aligns with the university's goal of providing a modern and innovative education experience for its students.
+
+- We understand that implementing such a system may come with some challenges, including resistance to change and technical difficulties. However, we are confident in our ability to deliver a high-quality system within the proposed timeline and budget.
+
+- We urge UTM decision-makers to approve this proposal and take action towards the implementation of the UTM Online Grading System. With this system in place, UTM will enjoy improved efficiency, increased accuracy, and enhanced transparency in grading processes. We believe that this project will have a significant positive impact on the university, its teachers, and students.
 
