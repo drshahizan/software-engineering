@@ -36,11 +36,9 @@ Don't forget to hit the :star: if you like this repo.
 - [Timeline and Deliverables](#11-timeline-and-deliverable)
 - [Conclusion](#12-conclusion)
 
----
-
 ### 1. Executive Summary
 - Our proposed Badal Hajj and Umrah management system is an innovative solution designed to facilitate and simplify the registration and handling bulk data process for the management of the company. The system leverages cutting-edge technologies and best practices to deliver a seamless user experience that enables client to easily register their information using the system and can get the all document needed in short period of time. For the user experience in the management side, they can easiy monitor and handle bulk data without losing or overlooked the client information. Key features of this system include real-time processed document, automatic data handling and management and real-time payment. Ultimately, our badal hajj and umrah management system will deliver measurable value to all stakeholders, including increased in client satisfactory, improved workflow of the management and enhanced managing bulk data. By investing in this system, the company will have a smooth and better workflow thus increase the efficiency of the company.
----
+
 ### 2. Background:
 Badal Hajj is the act of performing Hajj for other people that cannot do Hajj on their own in under some circumstances. The time for doing the Badal Hajj is as same as Hajj which is once a year unlike doing Umrah. However, the current manual system which 80% handled by human can be cumbersome, time-consuming and error-prone. The process is characterized by long waiting, paper-based form, use Whatsaap to send and get the information and human error likely to be occur due to managing bulk data. This manual system often reuslt in delays, errors and frustration for both company and client, leading to a neagtive impact on the overall company's name.
 
@@ -48,7 +46,6 @@ Our proposed Badal hajj and Umrah Management System aims to address these challe
 
 The proposed Badal Hajj and Umrah Management System has the potential to significantly improve overall workflow experience for the company and client. By reducing the management burden of manual processes, the proposed system will save time, reduce errors and increased the client satisfaction. Additionally, the system will provide valuable help to manage all the data that have been received by the client. Overall, the proposed system has the potential to smooth out and simplify the workflow thus can increase the company management efficiency.
 
----
 ### 3. Objectives:
 Our proposed Badal Hajj and Umrah Management System aims to achieve the following objectives:
 
@@ -66,7 +63,6 @@ Overall, these SMART objectives are specific, measurable, achievable, relevant, 
 ### 4. Scope: 
 The Badal Hajj and Umrah management system proposed in this project will included several functionalities and features that are required in order to solve the problems that the company have. This system will be web-based and application software.This is the detail of the features and functionality of the system:
 
----
 
 ### 5. Software Process Model:
 The Agile Model is an iterative and incremental approach to software development that emphasizes flexibility, collaboration, and rapid delivery of working software. In this model, requirements and solutions evolve through the collaborative effort of cross-functional teams and end-users.
@@ -87,7 +83,6 @@ The Agile Model is an iterative and incremental approach to software development
 
 Using the Agile model for the software process model of the Badal Hajj and Umrah Management System project will allow the team to work in an iterative and collaborative manner, with a focus on delivering value to end-users at every stage of the development process.
 
----
 
 ### 6. Budget:
 Budget is the important requirement that need to be plan at the early stage so that the project can be proceed without being delayed because the short of budget, there are a few things that need to be pointed out in the budget lists: 
@@ -102,15 +97,20 @@ Testing : RM 100
 
 Back-up funds: RM 400
 
----
-
 ### 7. System Architecture:
-- Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
-- Explain how the data will be stored, managed, and analyzed, as well as the hardware and software requirements needed to support the system.
-- Discuss the tools and frameworks that will be used for data visualization and analysis.
-- Provide a flowchart or block diagram of the system architecture.
+The Badal Hajj and Umrah Management System is a web-based application that facilitates the management of Hajj and Umrah pilgrimages for individuals or groups. The system architecture consists of the following components:
 
----
+- User Interface: The user interface is the front-end component of the system that allows users to interact with the system. The UI is designed to be user-friendly and easy to navigate, with features like search functionality, booking management, and payment processing.
+
+- Application Server: The application server is the middle-tier component of the system that handles the business logic and data processing. It receives requests from the user interface, processes them, and generates responses that are sent back to the UI.
+
+- Database: The database is the back-end component of the system that stores all the data related to the pilgrimages, including user profiles, booking details, payment records, and historical data.
+
+- Payment Gateway: The payment gateway is an external component that handles payment processing for the system. It provides secure payment options and ensures that all transactions are completed successfully.
+
+- Authentication and Authorization: The authentication and authorization component is responsible for ensuring the security of the system. It verifies user credentials and determines user access levels to different parts of the system.
+
+Overall, the system architecture is designed to be scalable and maintainable, with a focus on user experience and security. The system can be easily customized to meet the specific needs of different users and organizations.
 
 ### 8. Risks Assessment:
 Many types of risks may happen during or after the system being develop or done, one of it is technical risks such as data loss, that can happen if the sytem crash or the program crash during the developing time. Another risk is resourse risk such as insufficient resources to continue the project that might cause a delay to the development process and might not achieve the date line being set. Requirement risk is one of risk that could during the project process as the requirements of the projects might change after a few discussion that lead to reconstruct a new developing path as we need to change or adding a few requirements, misunderstanding in requirements being discussed also could cause a problem as the system will be develop another way and lead to error in system's development.
@@ -173,15 +173,11 @@ Resources divided into 4 different types which are staff,equipment,software and 
 
 2. Emergency fund 
 
----
-
 ### 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
 - Mention the programming languages, frameworks, and libraries that will be used in the project.
 - Provide details about the hardware and software requirements for the proposed system.
 - Explain the data security measures that will be implemented.
-
----
 
 ### 11. Timeline and Deliverables: 
 <ul>
@@ -235,8 +231,6 @@ Resources divided into 4 different types which are staff,equipment,software and 
 </ul>
 </ul>
 </ul>
-
----
 
 ### 12. Conclusion:
 The Badal Hajj system aids the company in the registration process of the clients and reduce the duration taken for the registration process where most of the process is done through the system that provides better management of bulk data. The system will also help the company to reduce the error throughout the registartion process as the system apllies auto data-handling principle. The proposal of Badal Hajj system is constructed based on thorough analysis and reasonable budget planning which helps to create a successful system that provides many benefits to both party which are the company and the clients.
