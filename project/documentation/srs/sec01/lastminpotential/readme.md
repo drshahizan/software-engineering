@@ -21,7 +21,7 @@ Don't forget to hit the :star: if you like this repo.
     <td></td>
   </tr>
   <tr>
-    <td>2 Gh Jing Yang</td>
+    <td>2 Goh Jing Yang</td>
     <td>UI Designer</td>
   </tr>
     <tr>
@@ -43,8 +43,8 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
+    <td>1 Faculty Staff</td>
+    <td>2 Stydent</td>
     <td></td>
     <td></td>
   </tr>
