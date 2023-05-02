@@ -76,11 +76,12 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/05/2023 | Lee Soon Der | Designer  | Create system architecture design | Partially Incomplete |
-| 2 | 01/05/2023 | Lim Jing Yong | Documentation Specialist | Create Software Documentation | Partially Complete | 
-| 3 | 01/05/2023 | Soh Han Wei | Requirement Analyst | Gather User Requirements | Partially Complete |
-| 4 | 01/05/2023 | Marcus Joey Sayner | Software Developer | Researching, designing, implementing, and managing software programs | Incomplete |
-| 5 | 02/05/2023 | Yong Wern Jie | Project Manager |  Gather requirements with Stakeholders | Partially Incomplete |
+| 1. | 30/04/2023 | Yong Wern Jie | Project Manager |  Create Project Plan | Complete |
+| 2. | 01/05/2023 | Lee Soon Der | Designer  | Create system architecture design | Partially Incomplete |
+| 3. | 01/05/2023 | Lim Jing Yong | Documentation Specialist | Create Software Documentation | Partially Complete | 
+| 4. | 01/05/2023 | Soh Han Wei | Requirement Analyst | Gather User Requirements | Partially Complete |
+| 5. | 01/05/2023 | Marcus Joey Sayner | Software Developer | Researching, designing, implementing, and managing software programs | Incomplete |
+
 
 
 ## Contribution 🛠️
