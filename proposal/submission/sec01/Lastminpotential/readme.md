@@ -72,7 +72,20 @@ The Faculty of Computing Feedback System will provide measurable benefits to all
 -  Strengthen institutional reputation: By investing in the Faculty of Computing Feedback System, the faculty can demonstrate its commitment to providing high-quality education and support to its stakeholders. This will lead to a stronger institutional reputation and increased stakeholder trust.
 
 ### 4. Scope: 
-- The scope section defines the boundaries of the project and outlines what features and functionality will be included in the software. 
+<p>A feedback system on lecturer, facilities, and equipment can provide valuable insights to help improve the overall quality of education in a school, college, or university.Here are scope for each aspect:</p>
+<ul>
+  <li>Lecturer Feedback:</li>
+    <ul>
+      <li>The feedback system can be used to collect feedback on the teaching quality of lecturers. Students can provide feedback on the clarity of lectures, the effectiveness of teaching methods, and the overall engagement of the lecturer.</li>
+      <li>This feedback can be used to identify areas where a lecturer may need additional support or training, or to recognize outstanding lecturers who are making a positive impact on students' learning experiences.</li>
+      <li>It is important to ensure that feedback is constructive and focused on improving the quality of education, rather than being personal or derogatory towards lecturers.</li>
+    </ul>
+  <li>Facilities Feedback:</li>
+    <ul>
+      <li>The feedback system can be used to collect feedback on the quality of facilities, such as classrooms, laboratories, libraries, and other learning spaces.</li>
+      <li>Students can provide feedback on the cleanliness, safety, and accessibility of facilities, as well as the availability of resources and equipment.</li>
+      <li>This feedback can be used to identify areas where facilities may need improvement or maintenance, and to prioritize resources accordingly.</li>
+    </ul>
 - It should also describe any limitations or constraints that may affect the project.
 
 ### 5. Software Process Model:
