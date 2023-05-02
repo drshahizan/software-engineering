@@ -35,6 +35,7 @@ The scope of this project includes attendance tracking, reporting and analytics,
 The ideal software process model for the development of UTM Student Attendance Management System is Agile methodology.
 Agile Methodology is a flexible and iterative approach to software development that allows for continuous feedback and adaptation. It is suitable for this project as it enables us to respond quickly to changes and deliver working software early and often.
 <img width="465" alt="image" src="https://user-images.githubusercontent.com/129235052/235556623-d14c5c2e-9fa6-4c44-b8ff-9290ced8e78e.png">
+
 The phases involved in the AGILE software process model are:
 #### 1. Planning Phase: 
 The planning phase involves defining the scope of the project, identifying the stakeholders, and creating a project roadmap. The duration for this phase is two weeks, and the project manager (Jaslene Yu)  is responsible for this phase's deliverables, which include the project roadmap and stakeholder analysis.
