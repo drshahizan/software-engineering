@@ -49,10 +49,9 @@ Don't forget to hit the :star: if you like this repo.
     <td></td>
   </tr>
     <tr>
-    <td>2.</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>2.Syazwan bin Saad</td>
+    <td>One Stop Parcel Center</td>
+    <td>Management</td>
   </tr>
     <tr>
     <td>3. Muhammad Amirul</td>
