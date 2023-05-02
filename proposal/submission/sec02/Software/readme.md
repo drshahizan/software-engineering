@@ -107,13 +107,13 @@ This section describe the ideal software process model for this system developme
 - Software : Bootstrap Studio
 - Authentication : User authentication and authorization
 - Security: SSL encryption and data encryption at rest  
- i. Modules: Student registration  
- ii. Health assessment and history  
- iii. Medical record keeping  
- iv. Appointment scheduling  
- v. Prescription and medication management  
- vi. Billing and invoicing  
- vii. Reporting and analytic  
+  - Modules: Student registration  
+  - Health assessment and history  
+  - Medical record keeping  
+  - Appointment scheduling  
+  - Prescription and medication management  
+  - Billing and invoicing  
+  - Reporting and analytic  
 - Integration: Integration with the university's student information system and electronic health record system
 - Accessibility: Section 508 compliance
 - Scalability: Ability to handle large volumes of data and users
@@ -122,8 +122,16 @@ This section describe the ideal software process model for this system developme
 - Compatibility: Cross-browser compatibility with major web browsers.
 
 ### 11. Timeline and Deliverables: 
-<img src="https://user-images.githubusercontent.com/128159572/235561076-2a31e51a-10da-4f64-bfe1-4e8986df8d31.jpeg">
+<img src="https://user-images.githubusercontent.com/128119778/235573097-59816732-16ae-4c72-9160-243694795b03.jpeg">
 
+- Week 4-6 : `Project Planning`
+- Week 6-8 : `Requirements Gathering`
+- Week 8-10 : `Preparing Requirement Document`
+- Week 10-13 : `System Development`
+- Week 10-12 : `System Debugging`
+- Week 10-14 : `System Documentation`
+- Week 15 : `Project Demonstration`
+- Week 13-16 : `System Maintanance`
 
 ### 12. Conclusion:
 - Simplify and streamline PKU processing time for students and administrators.
