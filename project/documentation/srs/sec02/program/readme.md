@@ -46,7 +46,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>1 Dr. Nor Azizah Ali</td>
     <td>Academic Advisor</td>
     <td>Lecturer</td>
-    <td></td>
+    <td>Academic Advisor</td>
   </tr>
     <tr>
     <td>2</td>
