@@ -12,7 +12,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ### Prepared by: <Group LimaPuluh>
   1. Lim Jing Yong A22EC0182
-  2. Marcus Joey Sayner A22EC0192
+  2. Marcus Joey Sayner A22EC0193
   3. Soh Han Wei A22EC0273
   4. Lee Soon Der A22EC0065
   5. Yong Wern Jie A22EC0121
