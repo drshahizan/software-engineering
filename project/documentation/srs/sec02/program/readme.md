@@ -50,15 +50,15 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
     <tr>
     <td>2</td>
-    <td></td>
     <td>Staff Faculty Of Computing</td>
+    <td></td>
     <td></td>
   </tr>
     <tr>
     <td>3</td>
     <td>MPP Faculty Of Computing</td>
     <td>Student</td>
-    <td></td>
+    <td>Provide input on course requirements and scheduling</td>
   </tr>
 </table>
 
