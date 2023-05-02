@@ -35,8 +35,6 @@ Don't forget to hit the :star: if you like this repo.
 </table>
 
 ## Stakeholder
-Onestop Parcel Centre & Cengal Parcel Point
-
 <table>
   <tr>
     <th>Name</th>
@@ -45,13 +43,13 @@ Onestop Parcel Centre & Cengal Parcel Point
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
-    <td></td>
+    <td>1.Amira Ellyana binti Jasmin</td>
+    <td>One Stop Parcel Center</td>
+    <td>Management</td>
     <td></td>
   </tr>
     <tr>
-    <td>2</td>
+    <td>2.</td>
     <td></td>
     <td></td>
     <td></td>
