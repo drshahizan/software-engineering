@@ -119,7 +119,8 @@ We could prevent this risk from happening by :-
 
 Resources divided into 4 different types which are staff,equipment,software and other expenses
 
-Staff :
+#### Staff :
+
 1.Project manager : responsible for managing and look over the project progression from time to time, following the criteria and will be done on the time given.
 
 2.Software developer : responsible for developing the system following the requirements given, the software developer must be someone that have the ability to work in a team and follow instructions and have a good communication skills.
@@ -127,6 +128,23 @@ Staff :
 3.Database administrator: responsible for designing the database architecture and define the data structure,mainly dealing with the applicants data,to store those data of registration information. They also responsible to set up a data backup and recovery plan to protect aginst any issues regarding data such as data loss.
 
 4.QA engineer : responsible for testing the app before being delivered to user to check the functionality and the requirements as it need to meet the requirements that have been discussed.
+
+#### Equipment : 
+1.Computers or laptops with suitable specifications for better rendering
+
+#### Software : 
+
+1. Visual Studio Code as a main IDE
+
+2.Data visualization tools which are Power BI or Tableau
+
+3.Github and Git as editing and storing code place
+
+#### Other expenses : 
+
+1. Cloud storage for extra storage
+
+2. Emergency fund 
 
 ### 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
