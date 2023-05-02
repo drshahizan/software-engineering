@@ -44,20 +44,20 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>1. En. Hamdan bin Abdul Ghani</td>
-    <td></td>
+    <td>Administrator of Kolej Tun Dr Ismail</td>
     <td></td>
     <td></td>
   </tr>
     <tr>
     <td>2. Puan Rosmah</td>
-    <td></td>
+    <td>Staff Kolej Tun Dr Ismail</td>
     <td></td>
     <td></td>
   </tr>
     <tr>
     <td>3</td>
-    <td></td>
-    <td></td>
+    <td>Student</td>
+    <td>UTM Student</td>
     <td></td>
   </tr>
 </table>
@@ -67,10 +67,10 @@ Don't forget to hit the :star: if you like this repo.
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2| | | | | 
-| 3| | | | | 
-| 4| | | | | 
-| 5| | | | | 
+| 2 |  | Salini Ravinthiran | Business Analyst | Meet stakeholder | Complete |
+| 3 | | | | | 
+| 4 | | | | | 
+| 5 | | | | | 
 
 
 ## Contribution 🛠️

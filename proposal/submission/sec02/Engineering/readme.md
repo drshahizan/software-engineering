@@ -9,7 +9,9 @@ Don't forget to hit the :star: if you like this repo.
 
 #  Proposal
 
-## Parcel System in One Stop Parcel Centre
+## Parcel System in UTM 
+
+### One Stop Parcel (OPC) and Cengal Parcel Point (CPP)
 
 
 ### Prepared by: <stakeholder>
@@ -166,7 +168,7 @@ Overall, a thorough risk assessment should be conducted to identify and mitigate
 
 ### 12. Conclusion:
 
-Developing a parcel system for One Stop Parcel UTM  will improve the user experience for students, faculty, and staff by streamlining the parcel delivery process and reducing delivery times. The proposed system will be designed to integrate with the university's existing systems and provide a secure, user-friendly interface for sending and receiving parcels. The project timeline and budget outlined in this proposal are based on careful analysis of the project requirements and are designed to ensure a successful outcome.
+Developing a parcel system for One Stop Parcel and Cengal Parcel Point UTM  will improve the user experience for students, faculty, and staff by streamlining the parcel delivery process and reducing delivery times. The proposed system will be designed to integrate with the university's existing systems and provide a secure, user-friendly interface for sending and receiving parcels. The project timeline and budget outlined in this proposal are based on careful analysis of the project requirements and are designed to ensure a successful outcome.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

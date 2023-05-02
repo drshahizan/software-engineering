@@ -1,0 +1,17 @@
+@startuml exer2
+left to right direction
+
+actor Student
+actor Faculty
+actor Admin
+
+rectangle "University Academic Course Registration System" {
+    Student --> (Register for a course)
+    Student --> (View course schedules)
+    Student --> (Drop a course)
+    Faculty --> (Add a course to the catalog)
+    Admin --> (Approve course requests)
+    Admin --> (Generate reports)
+}
+
+@enduml
