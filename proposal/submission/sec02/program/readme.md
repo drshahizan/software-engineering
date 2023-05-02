@@ -150,7 +150,7 @@ The following tools and technologies will be used to develop and deploy the acad
 5. Testing tools such as Mocha and Chai
 6. Data visualization and analysis tools such as Tableau or Power BI
 
-**Other Expenses**:
+//**Other Expenses**:
 
 1. Cloud hosting services such as AWS or Google Cloud Platform
 2. Domain name registration and SSL certificate
