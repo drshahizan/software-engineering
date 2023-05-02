@@ -107,13 +107,13 @@ This section describe the ideal software process model for this system developme
 - Software : Bootstrap Studio
 - Authentication : User authentication and authorization
 - Security: SSL encryption and data encryption at rest
-- 1. Modules: Student registration
-- 2. Health assessment and history
-- 3. Medical record keeping
-- 4. Appointment scheduling
-- 5. Prescription and medication management
-- 6. Billing and invoicing
-- 7. Reporting and analytic
+ i. Modules: Student registration
+ ii. Health assessment and history
+ iii. Medical record keeping
+ iv. Appointment scheduling
+ v. Prescription and medication management
+ vi. Billing and invoicing
+ vii. Reporting and analytic
 - Integration: Integration with the university's student information system and electronic health record system
 - Accessibility: Section 508 compliance
 - Scalability: Ability to handle large volumes of data and users
@@ -123,13 +123,14 @@ This section describe the ideal software process model for this system developme
 
 ### 11. Timeline and Deliverables: 
 <img src="https://user-images.githubusercontent.com/128159572/235561076-2a31e51a-10da-4f64-bfe1-4e8986df8d31.jpeg">
-- Provide a detailed timeline for the project, including milestones and deadlines.
-- Specify the deliverables that will be provided at each milestone. It should also specify the expected time frame for each deliverable and the resources that will be required to complete the project.
-- Explain the quality assurance and testing procedures that will be followed.
+
 
 ### 12. Conclusion:
-- Conclude your proposal with a call to action, highlighting the benefits of your proposed solution and urging the decision-makers to take action.
-- Summarize the proposal and reiterate the importance of the project.
-- Mention any potential limitations or challenges that may arise during the project.
-- Provide a call to action for the client to approve the proposal and proceed with the project.
+- Simplify and streamline PKU processing time for students and administrators.
+- Provide easy access to medical resources, health tracking tools, and health tips and advice.
+- Enable students to communicate with medical professionals, receive medical advice, and make appointments for medical services.
+- Provide a quick and easy way for students to call for emergency assistance in case of a medical emergency.
+- Collect and analyze data on student health trends, allowing PKU to better understand the health needs of the student population and provide targeted interventions.
+- Ensure compliance with all relevant laws, regulations, and policies, including HIPAA and GDPR, while maintaining a secure and user-friendly platform.
+
 
