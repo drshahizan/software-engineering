@@ -34,8 +34,8 @@
                 <mxCell id="10" value="uc3" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="340" y="360" width="120" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" value="Academic System" style="swimlane;startSize=0;" vertex="1" parent="1">
-                    <mxGeometry x="300" y="90" width="200" height="380" as="geometry"/>
+                <mxCell id="32" value="Academic System" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="80" width="200" height="390" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
