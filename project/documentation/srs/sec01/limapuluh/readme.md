@@ -47,21 +47,21 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
     <td></td>
     <td>Student</td>
+    <td></td>
     <td>Actively participate in the development and testing of the Student Feedback System, providing feedback and suggestions to ensure that the system meets their needs and requirements.</td>
   </tr>
     <tr>
-    <td>2</td>
     <td></td>
     <td>Lecturer</td>
+    <td></td>
     <td>Providing input and feedback on the design and functionality of the Student Feedback System, and to use the feedback data to improve teaching and learning outcomes.</td>
   </tr>
     <tr>
-    <td>3</td>
     <td></td>
     <td>Academic Office Staff</td>
+    <td></td>
     <td>Providing feedback on the proposal, ensuring compliance with university policies and procedures, and facilitating the implementation and rollout of the system.</td>
   </tr>
 </table>
