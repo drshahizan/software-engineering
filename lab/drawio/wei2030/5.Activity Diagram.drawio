@@ -1,0 +1,212 @@
+<mxfile host="65bd71144e">
+    <diagram id="8RZz2peqLniMW-pnqTaf" name="Page-1">
+        <mxGraphModel dx="1758" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="8" value="" style="endArrow=none;html=1;strokeColor=#0d0d0d;fontColor=#02f0f0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-640" y="800" as="sourcePoint"/>
+                        <mxPoint x="-640" y="40" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="" style="endArrow=none;html=1;strokeColor=#0d0d0d;fontColor=#02f0f0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-210" y="800" as="sourcePoint"/>
+                        <mxPoint x="-210" y="40" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="" style="endArrow=none;html=1;strokeColor=#0d0d0d;fontColor=#02f0f0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-10" y="800" as="sourcePoint"/>
+                        <mxPoint x="-10" y="40" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="&lt;b&gt;&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 16px;&quot;&gt;Student&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="-820" y="30" width="170" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;b&gt;&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 16px;&quot;&gt;Academic Staff&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="-540" y="30" width="230" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;b&gt;&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 16px;&quot;&gt;Finance Department&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="-190" y="30" width="170" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0d0d0d;fontFamily=Helvetica;fontSize=11;fontColor=#050505;" edge="1" parent="1" source="14" target="16">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-735" y="120"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Helvetica&quot;&gt;Student logs in to the system&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;fontSize=16;fillStyle=solid;fillColor=#D9D9D9;gradientColor=none;strokeColor=#8F8F8F;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="-810" y="90" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0d0d0d;fontFamily=Helvetica;fontSize=11;fontColor=#050505;" edge="1" parent="1" source="16" target="18">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-425" y="160"/>
+                            <mxPoint x="-735" y="160"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Helvetica&quot;&gt;Academic staff view available courses&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;fontSize=16;fillStyle=solid;fillColor=#D9D9D9;gradientColor=none;strokeColor=#8f8f8f;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="-535" y="130" width="220" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.465;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0d0d0d;fontFamily=Helvetica;fontSize=8;fontColor=#050505;" edge="1" parent="1" source="17" target="14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=solid;fontFamily=Helvetica;fontSize=11;strokeColor=#0d0d0d;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="-750" y="60" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Helvetica&quot;&gt;Student selects courses of interest&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;fontSize=16;fillStyle=solid;fillColor=#D9D9D9;gradientColor=none;strokeColor=#8F8F8F;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="-820" y="170" width="170" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0d0d0d;fontFamily=Helvetica;fontSize=8;fontColor=#050505;" edge="1" parent="1" source="24" target="25">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0d0d0d;fontFamily=Helvetica;fontSize=8;fontColor=#050505;" edge="1" parent="1" source="24" target="29">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-320" y="220"/>
+                            <mxPoint x="-320" y="340"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" value="Course has prerequistes?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillStyle=solid;strokeColor=#8f8f8f;fontFamily=Helvetica;fontSize=11;fontColor=#050505;fillColor=#D9D9D9;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-505" y="210" width="160" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Helvetica&quot;&gt;Academic staff view prerequites&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;fontSize=16;fillStyle=solid;fillColor=#D9D9D9;gradientColor=none;strokeColor=#8F8F8F;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="-510" y="250" width="170" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Helvetica&quot;&gt;Student selects prerequiste courses&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;fontSize=16;fillStyle=solid;fillColor=#D9D9D9;gradientColor=none;strokeColor=#8F8F8F;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="-820" y="290" width="170" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;strokeColor=#8f8f8f;fontFamily=Helvetica;fontSize=10;fontColor=#050505;fillColor=#D9D9D9;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-435" y="330" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Helvetica&quot;&gt;Student submits course selection&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;fontSize=16;fillStyle=solid;fillColor=#D9D9D9;gradientColor=none;strokeColor=#8F8F8F;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="-820" y="370" width="170" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0d0d0d;fontFamily=Helvetica;fontSize=8;fontColor=#050505;" edge="1" parent="1" source="31" target="32">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Helvetica&quot;&gt;Academic staff approves course selection&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;fontSize=16;fillStyle=solid;fillColor=#D9D9D9;gradientColor=none;strokeColor=#8F8F8F;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="-520" y="410" width="190" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Helvetica&quot;&gt;Academic staff generate fee invoice&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;fontSize=16;fillStyle=solid;fillColor=#D9D9D9;gradientColor=none;strokeColor=#8F8F8F;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="-510" y="450" width="170" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0d0d0d;fontFamily=Helvetica;fontSize=8;fontColor=#050505;" edge="1" parent="1" source="33" target="34">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Helvetica&quot;&gt;Finance department issues invoice to student&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;fontSize=16;fillStyle=solid;fillColor=#D9D9D9;gradientColor=none;strokeColor=#8F8F8F;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="-200" y="490" width="180" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0d0d0d;fontFamily=Helvetica;fontSize=8;fontColor=#050505;" edge="1" parent="1" source="34" target="36">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Helvetica&quot;&gt;Student pays fees&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;fontSize=16;fillStyle=solid;fillColor=#D9D9D9;gradientColor=none;strokeColor=#8F8F8F;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="-790" y="530" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="" style="endArrow=none;html=1;strokeColor=#0d0d0d;fontColor=#02f0f0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-830" y="800" as="sourcePoint"/>
+                        <mxPoint x="-830" y="40" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="54" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#0d0d0d;fontFamily=Helvetica;fontSize=8;fontColor=#050505;" edge="1" parent="1" source="36" target="37">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0d0d0d;fontFamily=Helvetica;fontSize=8;fontColor=#050505;" edge="1" parent="1" source="36" target="38">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Courses available?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillStyle=solid;strokeColor=#8f8f8f;fontFamily=Helvetica;fontSize=11;fontColor=#050505;fillColor=#D9D9D9;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-490" y="570" width="130" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0d0d0d;fontFamily=Helvetica;fontSize=8;fontColor=#050505;" edge="1" parent="1" source="37" target="39">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Helvetica&quot;&gt;Academic staff assign courses&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;fontSize=16;fillStyle=solid;fillColor=#D9D9D9;gradientColor=none;strokeColor=#8F8F8F;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="-605" y="600" width="170" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0d0d0d;fontFamily=Helvetica;fontSize=8;fontColor=#050505;" edge="1" parent="1" source="38" target="39">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Helvetica&quot;&gt;Academic staff add student to waitlist&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;fontSize=16;fillStyle=solid;fillColor=#D9D9D9;gradientColor=none;strokeColor=#8F8F8F;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="-410" y="600" width="180" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0d0d0d;fontFamily=Helvetica;fontSize=8;fontColor=#050505;" edge="1" parent="1" source="39" target="40">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;strokeColor=#8f8f8f;fontFamily=Helvetica;fontSize=10;fontColor=#050505;fillColor=#D9D9D9;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-435" y="630" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeColor=#0d0d0d;fontFamily=Helvetica;fontSize=8;fontColor=#050505;" edge="1" parent="1" source="40" target="41">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Helvetica&quot;&gt;Student views class schedule&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;fontSize=16;fillStyle=solid;fillColor=#D9D9D9;gradientColor=none;strokeColor=#8F8F8F;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="-825" y="670" width="170" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillStyle=solid;strokeColor=#000000;fontFamily=Helvetica;fontSize=8;fontColor=#050505;fillColor=#D9D9D9;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-755" y="740" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0d0d0d;fontFamily=Helvetica;fontSize=11;fontColor=#050505;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-735" y="190" as="sourcePoint"/>
+                        <mxPoint x="-425" y="210" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-735" y="200"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="46" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0d0d0d;fontFamily=Helvetica;fontSize=11;fontColor=#050505;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-425" y="270" as="sourcePoint"/>
+                        <mxPoint x="-735" y="290" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-425" y="280"/>
+                            <mxPoint x="-735" y="280"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="47" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0d0d0d;fontFamily=Helvetica;fontSize=11;fontColor=#050505;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-735" y="310" as="sourcePoint"/>
+                        <mxPoint x="-425" y="330" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-735" y="320"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="48" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0d0d0d;fontFamily=Helvetica;fontSize=11;fontColor=#050505;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-425" y="350" as="sourcePoint"/>
+                        <mxPoint x="-735" y="370" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-425" y="360"/>
+                            <mxPoint x="-735" y="360"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="49" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0d0d0d;fontFamily=Helvetica;fontSize=11;fontColor=#050505;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-735" y="390" as="sourcePoint"/>
+                        <mxPoint x="-425" y="410" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-735" y="400"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="51" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0d0d0d;fontFamily=Helvetica;fontSize=11;fontColor=#050505;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-425" y="470" as="sourcePoint"/>
+                        <mxPoint x="-115" y="490" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-425" y="480"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
