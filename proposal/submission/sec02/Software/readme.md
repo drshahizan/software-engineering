@@ -118,7 +118,20 @@ To mitigate these risks, a few steps can be taken:
 5. Implement strict access controls: It is important to set up strict access restrictions and allow only those people who truly require access to sensitive information to perform their jobs. Access control lists, role-based access controls, and user authentication can help with this.
 
 ### 9. Resources:
-- Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
+#### Staff : 
+- 1 User Experience Designer
+- 1 Quality Assurance Tester
+- 1 Documentation Specialists
+- 1 Main Developer
+- 1 Requirements Analyst
+
+#### Equipment :
+- Servers
+- Security and backup
+- Software
+- Web Server
+- Data Analytics Tools
+- Relational Database Management System (RDBMS)
 
 ### 10. Technical Specifications:
 - Platform : Web-based application
