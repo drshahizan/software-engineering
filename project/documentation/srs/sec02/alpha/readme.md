@@ -44,20 +44,20 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>1. En. Hamdan bin Abdul Ghani</td>
-    <td></td>
+    <td>Administrator of Kolej Tun Dr Ismail</td>
     <td></td>
     <td></td>
   </tr>
     <tr>
     <td>2. Puan Rosmah</td>
-    <td></td>
+    <td>Staff Kolej Tun Dr Ismail</td>
     <td></td>
     <td></td>
   </tr>
     <tr>
     <td>3</td>
-    <td></td>
-    <td></td>
+    <td>Student</td>
+    <td>UTM Student</td>
     <td></td>
   </tr>
 </table>
