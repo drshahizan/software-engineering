@@ -55,8 +55,8 @@ Don't forget to hit the :star: if you like this repo.
     <tr>
     <td>2. Puan Nazlin</td>
     <td>Administrator</td>
-    <td>Administrative Assistant</td>
-    <td></td>
+    <td>Administrative Officer</td>
+    <td>Provides idea for design, functionality, content, compliance, and provides training and support.</td>
   </tr>
     <tr>
     <td>3</td>
