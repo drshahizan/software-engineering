@@ -30,7 +30,7 @@ Don't forget to hit the :star: if you like this repo.
 - [System Architecture](#7-system-architecture)
 - [Risk Assesment](#8-risk-assesment)
 - [Resources](#9-resources)
-- [Technical Specification](#10-technical-specification)
+- [Technical Specification](#10-technical-specifications)
 
 ### 1. Executive Summary
 - Our proposed Badal Hajj and Umrah management system is an innovative solution designed to facilitate and simplify the registration and handling bulk data process for the management of the company. The system leverages cutting-edge technologies and best practices to deliver a seamless user experience that enables client to easily register their information using the system and can get the all document needed in short period of time. For the user experience in the management side, they can easiy monitor and handle bulk data without losing or overlooked the client information. Key features of this system include real-time processed document, automatic data handling and management and real-time payment. Ultimately, our badal hajj and umrah management system will deliver measurable value to all stakeholders, including increased in client satisfactory, improved workflow of the management and enhanced managing bulk data. By investing in this system, the company will have a smooth and better workflow thus increase the efficiency of the company.
