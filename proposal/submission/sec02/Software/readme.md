@@ -155,7 +155,7 @@ To mitigate these risks, a few steps can be taken:
 - Compatibility: Cross-browser compatibility with major web browsers.
 
 ### 11. Timeline and Deliverables: 
-<img src="https://user-images.githubusercontent.com/128159572/235582088-ab5fe35e-7707-4503-bdbe-096957479cbc.jpeg">
+<img src="https://user-images.githubusercontent.com/128159572/235584432-863a8667-b451-47ca-9940-47a057be669d.jpeg">
 
 - Week 4-6 : `Project Planning`
 - Week 6-8 : `Requirements Gathering`
