@@ -58,19 +58,19 @@ This section describe the ideal software process model for this system developme
 - For the UTM online grading system, the ideal software process model would be the iterative and incremental model. The iterative and incremental model is a flexible and adaptable approach that involves a series of iterations, each consisting of planning, designing, developing, testing, and delivering phases. This model is ideal for projects where requirements are likely to change or evolve, as it allows for flexibility and adaptability.
 Here's an illustration of the Incremental Model for the development of UTM Grading System:
 
-Planning: In this phase, the project team meets with stakeholders to define the project scope, requirements, and timelines. The deliverables in this phase can include a project plan, requirements specification document, and project schedule.
+1.Planning: In this phase, the project team meets with stakeholders to define the project scope, requirements, and timelines. The deliverables in this phase can include a project plan, requirements specification document, and project schedule.
 
-Requirements: In this phase, the project team identifies and documents the functional and non-functional requirements of the grading system. The deliverables in this phase can include a requirements document, use cases, and user stories.
+2.Requirements: In this phase, the project team identifies and documents the functional and non-functional requirements of the grading system. The deliverables in this phase can include a requirements document, use cases, and user stories.
 
-Design: In this phase, the project team creates a detailed design for the grading system. This includes designing the user interface, database schema, and system architecture. The deliverables in this phase can include wireframes, system architecture documents, and database schema documents.
+3.Design: In this phase, the project team creates a detailed design for the grading system. This includes designing the user interface, database schema, and system architecture. The deliverables in this phase can include wireframes, system architecture documents, and database schema documents.
 
-Implementation: In this phase, the project team develops and implements the grading system. The development is done in small increments or modules, with each module developed and tested separately. The deliverables in this phase can include source code, unit test cases, and user documentation.
+4.Implementation: In this phase, the project team develops and implements the grading system. The development is done in small increments or modules, with each module developed and tested separately. The deliverables in this phase can include source code, unit test cases, and user documentation.
 
-Integration: In this phase, the developed modules are integrated and tested to ensure that they work together as expected. The deliverables in this phase can include integration test cases and test reports.
+5.Integration: In this phase, the developed modules are integrated and tested to ensure that they work together as expected. The deliverables in this phase can include integration test cases and test reports.
 
-Deployment: In this phase, the grading system is deployed to the production environment. The deliverables in this phase can include deployment plans, user manuals, and training materials.
+6.Deployment: In this phase, the grading system is deployed to the production environment. The deliverables in this phase can include deployment plans, user manuals, and training materials.
 
-Maintenance: In this phase, the grading system is maintained to ensure that it continues to function as expected. The deliverables in this phase can include maintenance plans, bug reports, and system documentation.
+7.Maintenance: In this phase, the grading system is maintained to ensure that it continues to function as expected. The deliverables in this phase can include maintenance plans, bug reports, and system documentation.
 
 For each phase, you can assign a duration based on the complexity of the project and the resources available. You can also assign a person in charge of each phase. For example, the project manager could be responsible for overseeing the entire project, while a developer could be responsible for the implementation of each module.
 
