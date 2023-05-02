@@ -74,7 +74,7 @@ Don't forget to hit the :star: if you like this repo.
 | 2 | 01/05/2023 | Lim Jing Yong | Documentation Specialist | Create Software Documentation | Partially Complete | 
 | 3 | 01/05/2023 | Soh Han Wei | Requirement Analyst | Gather User Requirements | Partially Complete |
 | 4 | 01/05/2023 | Marcus Joey Sayner | Software Developer | Researching, designing, implementing, and managing software programs | Incomplete |
-| 5| | | | | |
+| 5 | 02/05/2023 | Yong Wern Jie | Project Manager |  Discussing requirements with Stakeholders | Partially Incomplete |
 
 
 ## Contribution 🛠️
