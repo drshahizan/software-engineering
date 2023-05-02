@@ -51,8 +51,8 @@ Don't forget to hit the :star: if you like this repo.
     <tr>
     <td>2</td>
     <td>Staff Faculty Of Computing</td>
-    <td></td>
-    <td></td>
+    <td>Office Clerk</td>
+    <td>Provide </td>
   </tr>
     <tr>
     <td>3</td>
