@@ -26,19 +26,29 @@
 - [Conclusion](#12-conclusion)
   
 ### 1. Executive Summary
-- Start the proposal with a brief summary that highlights the main points of the project, including its goals, objectives, and expected outcomes.
+A solution designed to simplify and streamline the process time of PKU for students and administrators.
 
 ### 2. Background:
-- The introduction should provide background information about the software project and the purpose of the proposal. 
-- It should also briefly describe the problem the software is meant to solve, the benefits it will provide, and its potential impact on the organization.
+- Process slow and walk in and far for some students.
+- More efficient if can pre-booking and can manage more time.
+- Pre-online consultation and safe time
+- Can give more health information to students and increase health awareness.
 
 ### 3. Objectives:
 - The objectives section should clearly state the goals and objectives of the software project. It should describe the intended outcomes of the software and how it will address the problem it aims to solve. 
 - Objectives should be specific, measurable, achievable, relevant, and time-bound (SMART).
 
 ### 4. Scope: 
-- The scope section defines the boundaries of the project and outlines what features and functionality will be included in the software. 
-- It should also describe any limitations or constraints that may affect the project.
+- To promote student health and wellness through easy access to medical resources, health tracking tools, and health tips and advice.
+
+(Example：By the end of the first year of implementation, the proposed system will reduce PKU processing time by 25%, resulting in a 25% reduction in administrative workload.)
+
+- To provide a platform for students to communicate with medical professionals at the PKU facility, receive medical advice, and make appointments for medical services.
+
+- To provide a quick and easy way for students to call for emergency assistance in case of a medical emergency.
+
+- To collect and analyze data on student health trends, allowing PKU to better understand the health needs of the student population and provide targeted interventions.
+
 
 ### 5. Software Process Model:
 This section describe the ideal software process model for this system development. The write-up must consist of:
