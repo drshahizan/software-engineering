@@ -60,6 +60,7 @@ This section describe the ideal software process model for this system developme
 - Explain the data security measures that will be implemented.
 
 ### 11. Timeline and Deliverables: 
+<img src="https://user-images.githubusercontent.com/128159572/235561076-2a31e51a-10da-4f64-bfe1-4e8986df8d31.jpeg">
 - Provide a detailed timeline for the project, including milestones and deadlines.
 - Specify the deliverables that will be provided at each milestone. It should also specify the expected time frame for each deliverable and the resources that will be required to complete the project.
 - Explain the quality assurance and testing procedures that will be followed.
