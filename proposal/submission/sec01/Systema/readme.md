@@ -287,7 +287,6 @@ Block Diagram:
       + Computers and laptops for the project team
       + Servers and hosting services for the website
       + Internet connectivity
-      + Printing and stationery supplies
   3. Software:
       + Web development software such as HTML, CSS, JavaScript, and PHP
       + Content management system (CMS) software such as WordPress or Drupal
