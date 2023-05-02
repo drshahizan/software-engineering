@@ -99,7 +99,7 @@ Activities for each phase of the Agile methodology:
   The hardware requirements for the app are minimal, with a basic web server and a MongoDB database server being sufficient. The software requirements include Node.js, MongoDB, and any necessary libraries and frameworks.
 
 **Data Visualization**:
-As the app does not require complex data analysis, data visualization tools are not necessary.
+The app does require complex data analysis, data visualization tools are not necessary.
 
 **Tools and Technologies**:
 The following tools and technologies will be used to develop and deploy the academic support app:
