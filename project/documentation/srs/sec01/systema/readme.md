@@ -21,7 +21,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>2 Chai Yu Tong</td>
-    <td> Developer | UI/UX Designer</td>
+    <td> Developer</td>
   </tr>
     <tr>
     <td>3 Kek Jesslyn</td>
@@ -29,7 +29,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
     <tr>
     <td>4 Wong Qiao Ying</td>
-    <td>Security Specialist | DevOps Engineer</td>
+    <td>UI/UX Designer</td>
   </tr>
   <tr>
     <td>5 Yeoh Chong Yi</td>
