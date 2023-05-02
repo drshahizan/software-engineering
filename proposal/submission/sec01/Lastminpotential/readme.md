@@ -37,7 +37,7 @@ Don't forget to hit the :star: if you like this repo.
   
 
 ### 1. Executive Summary
--The Faculty of Computing is proposing the development of a comprehensive feedback management system that aims to streamline the feedback collection process for students, faculty, and staff. The Faculty of Computing Feedback System will enable users to provide feedback quickly and easily on various topics such as teaching quality, course content, facilities, and administrative support.
+The Faculty of Computing is proposing the development of a comprehensive feedback management system that aims to streamline the feedback collection process for students, faculty, and staff. The Faculty of Computing Feedback System will enable users to provide feedback quickly and easily on various topics such as teaching quality, course content, facilities, and administrative support.
 
 The main goal of the project is to provide a user-friendly platform that simplifies and streamlines the feedback collection process, allowing the faculty to identify areas for improvement, make data-driven decisions, and allocate resources more effectively.
 
