@@ -43,23 +43,24 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>2</td>
-    <td></td>
-    <td></td>
+    <td>Amira Ellyana binti Jasmin</td>
+    <td>One Stop Parcel Center</td>
+    <td>Management</td>
     <td></td>
   </tr>
     <tr>
-    <td>3</td>
-    <td></td>
-    <td></td>
+    <td>Syazwan bin Saad</td>
+    <td>One Stop Parcel Center</td>
+    <td>Management</td>
+  <td></td>
+  </tr>
+    <tr>
+    <td>Muhammad Amirul</td>
+    <td>Cengal Parcel Point</td>
+    <td>Head of Management</td>
     <td></td>
   </tr>
+  
 </table>
 
 ## Tasks involved in developing SRC documentation:
@@ -67,7 +68,7 @@ Don't forget to hit the :star: if you like this repo.
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2| | | | | 
+| 2| 02/052023|Erina,Thevan,Nik,Izzah|All member|Had meeting with stackholder |Complete|
 | 3| | | | | 
 | 4| | | | | 
 | 5| | | | | 

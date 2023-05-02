@@ -114,11 +114,11 @@ This section describe the ideal software process model for this system developme
 
 ### 6. Budget:
 - The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
+The development of the college room rental system for around 1,800 users within a semester will involve various costs, including hardware, software, personnel, and testing.
 
 ---
 
 ### 7. System Architecture:
-- Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
 
 #### System Architecture Overview
 The proposed system architecture for this college room rental services is
