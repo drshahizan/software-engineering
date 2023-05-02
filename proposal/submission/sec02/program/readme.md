@@ -139,7 +139,7 @@ The following tools and technologies will be used to develop and deploy the acad
 
 1. Desktop computers or laptops for each team member
 2. Servers to host the app and database
-3. Testing devices such as smartphones and tablets
+3. Testing devices like computers and laptops.
 
 **Software**:
 
