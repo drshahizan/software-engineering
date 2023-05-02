@@ -120,7 +120,7 @@ Overall, the system architecture is designed to be scalable and maintainable, wi
 ``` sql
               +-------------------------------------+
               |                                     |
-              |              Badal Hajj              |
+              |              Badal Hajj             |
               |         and Umrah System            |
               |                                     |
               +-------------------------------------+
