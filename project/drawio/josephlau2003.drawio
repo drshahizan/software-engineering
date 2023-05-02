@@ -1,0 +1,20 @@
+<mxfile host="65bd71144e">
+    <diagram id="i3IskmdkrgH5kDx1psvq" name="Page-1">
+        <mxGraphModel dx="1242" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <object label="student" joseph="" id="2">
+                    <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+                        <mxGeometry x="130" y="140" width="30" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="lecturer" joseph="" id="5">
+                    <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+                        <mxGeometry x="130" y="260" width="30" height="60" as="geometry"/>
+                    </mxCell>
+                </object>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
