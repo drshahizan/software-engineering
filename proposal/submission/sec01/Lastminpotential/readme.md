@@ -13,8 +13,8 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ### Prepared by: <Group name>
-  1. Name and matrix no
-  2. Name and matrix no
+  1. Goh Jing Yang
+  2. Loo Jia Chang A22EC0074
   3. TAN JUN YUAN A22EC0107
   4. Chen Pyng Haw A22EC0042
 
