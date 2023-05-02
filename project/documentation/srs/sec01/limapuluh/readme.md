@@ -54,8 +54,8 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
     <tr>
     <td></td>
+    <td>Faculty Staff</td>
     <td>Lecturer</td>
-    <td></td>
     <td>Providing input and feedback on the design and functionality of the Student Feedback System, and to use the feedback data to improve teaching and learning outcomes.</td>
   </tr>
     <tr>
