@@ -86,6 +86,13 @@ The Faculty of Computing Feedback System will provide measurable benefits to all
       <li>Students can provide feedback on the cleanliness, safety, and accessibility of facilities, as well as the availability of resources and equipment.</li>
       <li>This feedback can be used to identify areas where facilities may need improvement or maintenance, and to prioritize resources accordingly.</li>
     </ul>
+  <li>Equipment Feedback</li>
+    <ul>
+      <li>The feedback system can be used to collect feedback on the quality and availability of equipment, such as computers, projectors, and other technology used in the classroom.</li>
+      <li>Students can provide feedback on the functionality and reliability of equipment, as well as the availability of support resources.</li>
+      <li>This feedback can be used to identify areas where equipment may need maintenance or replacement, and to ensure that students have access to the resources they need to succeed.</li>
+    </ul>
+</ul>
 - It should also describe any limitations or constraints that may affect the project.
 
 ### 5. Software Process Model:
