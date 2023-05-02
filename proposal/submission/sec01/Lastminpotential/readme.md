@@ -19,48 +19,19 @@ Don't forget to hit the :star: if you like this repo.
   4. Chen Pyng Haw A22EC0042
 
 ### Table of Contents
-[Table of Contents](#table-of-contents)
-<table>
-  <tr>
-    <th>No.</th><th>Content</th>
-  </tr>
-  <tr> 
-    <td>1.</td><td>[Executive Summary](#1-executive-summary)</td>
-  <tr>
-  <tr> 
-    <td>2.</td><td>Background</td>
-  <tr>
-  <tr> 
-    <td>3.</td><td>Objectives</td>
-  <tr>
-  <tr> 
-    <td>4.</td><td>Scope</td>
-  <tr>
-  <tr> 
-    <td>5.</td><td>Software Process Model</td>
-  <tr>
-  <tr> 
-    <td>6.</td><td>Budget</td>
-  <tr>
-  <tr> 
-    <td>7.</td><td>System Architecture</td>
-  <tr>
-  <tr> 
-    <td>8.</td><td>Risk Assessment</td>
-  <tr>
-  <tr> 
-    <td>9.</td><td>Resources</td>
-  <tr>
-  <tr> 
-    <td>10.</td><td>Technical Specifications</td>
-  <tr>
-  <tr> 
-    <td>11.</td><td>Timeline and Deliverables</td>
-  <tr>
-  <tr> 
-    <td>12.</td><td>Conclusion</td>
-  <tr>
-</table>
+ 1. [Executive Summary](#1-executive-summary)
+ 2.  [Background](#2-background)
+ 3. [Objectives](#3-objectives)
+ 4. [Scope](#4-scope)
+ 5. [Sofware Process Model](#5-software-process-model)
+ 6.  [Budget](#6-budget)
+ 7.  [System Architecture](#7-system-architecture)
+ 8. [Risks Assessment](#8-risks-assessment)
+ 9.  [Resources](#9-resources)
+ 10.  [Technical Specification](#10-technical-specifications)
+ 11.  [Timeline and Deliverables](#11-timeline-and-deliverables)
+ 12.  [Conclusion](#12-conclusion)
+
   
 ### 1. Executive Summary
 - Start the proposal with a brief summary that highlights the main points of the project, including its goals, objectives, and expected outcomes.
