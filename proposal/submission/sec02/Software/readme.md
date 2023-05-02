@@ -155,15 +155,15 @@ To mitigate these risks, a few steps can be taken:
 - Compatibility: Cross-browser compatibility with major web browsers.
 
 ### 11. Timeline and Deliverables: 
-<img src="https://user-images.githubusercontent.com/128159572/235584432-863a8667-b451-47ca-9940-47a057be669d.jpeg">
+<img src="https://user-images.githubusercontent.com/128159572/235585376-b25f2b58-b38e-43a6-be29-42e555828e48.jpeg">
 
 | Milestones                     | Tasks                                        | Timeframe         |
 | ------------------------------ | -------------------------------------------- | ----------------- |
 | Project planning               | Define scope and objectives of the project   | Week 4 to Week 6  |
 | Requirements Gathering         | Identify stakeholders and conduct interviews | Week 6 to Week 7  |
-| Preparing Requirement Document |                                              | Week 7 to Week 9  |
-| System Development             |                                              | Week 9 to Week 12 |
-| System Testing and Debugging   |                                              | Week 13 to Week 15|
+| Preparing Requirement Document | Analyse stakeholder's requirements           | Week 7 to Week 9  |
+| System Development             | Design the system and starts coding          | Week 9 to Week 12 |
+| System Testing and Debugging   | Run the system test and fix the bugs         | Week 13 to Week 15|
 | System Documentation           |                                              | Week 10 to Week 14|
 | Project Demonstration          |                                              | Week 15           |
 | System Maintenance             |                                              | Week 14 to Week 16|
