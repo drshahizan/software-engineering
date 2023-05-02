@@ -62,16 +62,34 @@ To complete the aforementioned goals within the upcoming two months and keep tra
 
 ### 4. Scope🔍: 
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Curiousity/Project%20Scope.png?raw=true" alt="Scope"></img>
-- (i) <b>Event planning and organisation:</b> Tools for creating and managing event schedules, defining event objectives, identifying target audiences, and determining event locations will be provided in the system.
-- (ii) <b>Event registration:</b> Tools for creating and managing event registration and ticketing processes, collecting payments, and generating attendee lists will be provided in the system.
-- (iii) <b>Onsite management:</b> Tools for coordinating with organisers, monitoring event progress, and handling emergencies will be provided in the system.
-- (iv) <b>Analytics and reporting:</b> Tools for tracking and analysing event data, generating reports, and identifying areas for improvement will be provided in the system.
-- (vi) <b>Attendee Engagement:</b> Tools for facilitating attendee engagement, such as surveys, and feedback forms will be provided in the system.
-- (vii) <b>Customization and branding:</b> The system should allow for customization and branding options to match the branding of the organisation or event.
-- (viii) <b>Website design :</b> HTML and CSS will be used to build and design the framework of the website.
-- (ix) <b>Website testing :</b> The website will be tested multiple times to detect any issues before implementing it.
-- (x) <b>Project monitoring and documentation :</b> The project will continuously be monitored and documented to keep track of the progress of the project and to optimise the website performance.
+<b>Event planning and organisation:</b>
+Our system will offer resources for developing and managing event schedules, defining event goals, locating events, and identifying target audiences. This will make it easier to plan and organise successful events by ensuring that all necessary information is centralised.
 
+<b>Event registration:</b> 
+The system we build will have tools for developing and managing event registration and ticketing procedures, as well as for generating attendee lists and collecting payments if necessary. Both event organisers and attendees will benefit from the registration process being streamlined and made more effective in this way.
+
+<b>Onsite management:</b>
+Our system will provide tools for coordinating with organizers, monitoring event progress, and handling emergencies. This will help ensure that events run smoothly and that any issues are addressed quickly and effectively.
+
+<b>Analytics and reporting:</b> 
+Tools for collecting and analysing event data, creating reports, and pinpointing problem areas will all be part of our system. This will assist event planners in gaining insightful information about event performance and in making data-driven decisions for upcoming events.
+
+<b>Attendee Engagement:</b> 
+Our system will facilitate attendee engagement by providing tools such as surveys and feedback forms. This will help organizers gather valuable feedback from attendees and improve the overall event experience.
+
+<b>Customization and branding:</b> 
+To coordinate with the branding of the organisation or event, our system will offer customization and branding options. This will ensure that the system is consistent with the organization's or event's overall branding.
+
+<b>Website design:</b> 
+Our system will be developed using HTML and CSS to produce a user-friendly, straightforward, and aesthetically pleasing website.
+
+<b>Website testing: </b> 
+Before implementing the system, we will test the website multiple times to detect any issues and ensure that it is functioning as intended.
+
+<b>Project monitoring and documentation:</b>
+We will continuously monitor and document the project to keep track of progress and optimize website performance. This will help ensure that the project is completed on time and within budget.
+
+All in all, our team is dedicated to creating a thorough and user-friendly campus event management system that will facilitate and improve event planning and organisation for both hosts and attendees. To guarantee that the system is delivered on time, within budget, and to the highest standards of quality, we will use an agile software development process model.
 
 ### 5. Software Process Model🛠️:
 A software process model's main objective is to offer a framework for the systematic and organised development of software. It offers a collection of tasks, products, and deadlines to make sure the software is created quickly and effectively. A software process model's main objective is to make sure that the software is high-quality, delivered on time, and within budget while also meeting the requirements of the stakeholders.
