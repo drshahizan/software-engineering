@@ -16,26 +16,26 @@ Don't forget to hit the :star: if you like this repo.
   3. Low Ying Xi A22EC0187
   4. Ng Shu Yu A22EC0228
 
-### Table of Contents
-- [Table of Contents](#table-of-contents)
-- [Executive Summary](#1-executive-summary)
-- [Background](#2-background)
-- [Objectives](#3-objectives)
-- [Scope](#4-scope)
-- [Software Process Model](#5-software-process-model)
-- [Budget](#6-budget)
-- [System Architecture](#7-system-architecture)
-- [Risks Assessment](#8-risks-assessment)
-- [Resources](#9-resources)
-- [Technical Specifications](#10-technical-specifications)
-- [Timeline and Deliverables](#11-timeline-and-deliverables)
-- [Conclusion](#12-conclusion)
+### 💫Table of Contents
+* [Table of Contents](#table-of-contents)
+* [Executive Summary](#1-executive-summary)
+* [Background](#2-background)
+* [Objectives](#3-objectives)
+* [Scope](#4-scope)
+* [Software Process Model](#5-software-process-model)
+* [Budget](#6-budget)
+* [System Architecture](#7-system-architecture)
+* [Risks Assessment](#8-risks-assessment)
+* [Resources](#9-resources)
+* [Technical Specifications](#10-technical-specifications)
+* [Timeline and Deliverables](#11-timeline-and-deliverables)
+* [Conclusion](#12-conclusion)
 
   
-### 1. Executive Summary
+### 1. Executive Summary📝:
 Our proposed UTM Event Management System is a comprehensive solution aimed at simplifying and streamlining the processes of event management for organisers, attendees, and administrators. To achieve this, we're using cutting-edge technology and industry best practises to create a seamless user experience that makes it simple for event planners to plan and carry out successful events and for attendees to find, register for, and participate in events. The key features of our system include real-time event scheduling, registration, various types of activities and merit, and feedback capabilities. These features enable event planners and administrators to optimise event preparation, track performance, and make data-driven decisions. A user-friendly interface and  integration with various social media sites would also be helpful to attendees. Ultimately, our UTM Event Management System will provide measurable value to all stakeholders, resulting in increased event participation, better engagement and satisfaction, and a stronger institutional reputation. By investing in our system, UTM will be at the forefront of event management technology and innovation.
 
-### 2. Background:
+### 2. Background📄:
 Events are an essential part of the University of Technology, Malaysia (UTM) experience. However, the current manual process of managing events is time-consuming, prone to errors, and lacks the ability to provide real-time information about event performance. These difficulties have had a detrimental effect on participants' overall experiences, leading to poor event organisation and low participation rates.
 
 The proposed UTM Event Management System aims to address these challenges by introducing an innovative, intuitive, and automated system that streamlines the event management process. The proposed system leverages the latest technologies and industry best practices to deliver a seamless user experience for organisers, attendees, and administrators. Real-time event scheduling, registration, different sorts of activities and credits, and feedback capabilities are among the system's key features, which give organisers and administrators the ability to optimise event planning, monitor performance, and make informed data-driven decisions.
@@ -44,7 +44,7 @@ All stakeholders, including organisers, attendees, and administrators, stand to 
 
 In summary, the UTM Event Management System proposal seeks to address the challenges associated with the current manual event management process by introducing a modern, automated, and user-friendly solution that provides measurable benefits and enhances the overall experience of all stakeholders. The proposed system has the potential to transform event management at UTM, improve event outcomes, and enhance UTM's reputation as a leading institution of higher learning.
 
-### 3. Objectives:
+### 3. Objectives📖:
 #### Specific: 
 To provide a user-friendly system for students to explore, sign up for, and provide feedback on campus events, including club activities and official university events.
 
@@ -62,18 +62,37 @@ To complete the aforementioned goals within the upcoming two months and keep tra
 
 ### 4. Scope🔍: 
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Curiousity/Project%20Scope.png?raw=true" alt="Scope"></img>
-- (i) <b>Event planning and organisation:</b> Tools for creating and managing event schedules, defining event objectives, identifying target audiences, and determining event locations will be provided in the system.
-- (ii) <b>Event registration:</b> Tools for creating and managing event registration and ticketing processes, collecting payments, and generating attendee lists will be provided in the system.
-- (iii) <b>Onsite management:</b> Tools for coordinating with organisers, monitoring event progress, and handling emergencies will be provided in the system.
-- (iv) <b>Analytics and reporting:</b> Tools for tracking and analysing event data, generating reports, and identifying areas for improvement will be provided in the system.
-- (vi) <b>Attendee Engagement:</b> Tools for facilitating attendee engagement, such as surveys, and feedback forms will be provided in the system.
-- (vii) <b>Customization and branding:</b> The system should allow for customization and branding options to match the branding of the organisation or event.
-- (viii) <b>Website design :</b> HTML and CSS will be used to build and design the framework of the website.
-- (ix) <b>Website testing :</b> The website will be tested multiple times to detect any issues before implementing it.
-- (x) <b>Project monitoring and documentation :</b> The project will continuously be monitored and documented to keep track of the progress of the project and to optimise the website performance.
 
+<b>Event planning and organisation:</b>
+Our system will offer resources for developing and managing event schedules, defining event goals, locating events, and identifying target audiences. This will make it easier to plan and organise successful events by ensuring that all necessary information is centralised.
 
-### 5. Software Process Model:
+<b>Event registration:</b> 
+The system we build will have tools for developing and managing event registration and ticketing procedures, as well as for generating attendee lists and collecting payments if necessary. Both event organisers and attendees will benefit from the registration process being streamlined and made more effective in this way.
+
+<b>Onsite management:</b>
+Our system will provide tools for coordinating with organizers, monitoring event progress, and handling emergencies. This will help ensure that events run smoothly and that any issues are addressed quickly and effectively.
+
+<b>Analytics and reporting:</b> 
+Tools for collecting and analysing event data, creating reports, and pinpointing problem areas will all be part of our system. This will assist event planners in gaining insightful information about event performance and in making data-driven decisions for upcoming events.
+
+<b>Attendee Engagement:</b> 
+Our system will facilitate attendee engagement by providing tools such as surveys and feedback forms. This will help organizers gather valuable feedback from attendees and improve the overall event experience.
+
+<b>Customization and branding:</b> 
+To coordinate with the branding of the organisation or event, our system will offer customization and branding options. This will ensure that the system is consistent with the organization's or event's overall branding.
+
+<b>Website design:</b> 
+Our system will be developed using HTML and CSS to produce a user-friendly, straightforward, and aesthetically pleasing website.
+
+<b>Website testing: </b> 
+Before implementing the system, we will test the website multiple times to detect any issues and ensure that it is functioning as intended.
+
+<b>Project monitoring and documentation:</b>
+We will continuously monitor and document the project to keep track of progress and optimize website performance. This will help ensure that the project is completed on time and within budget.
+
+All in all, our team is dedicated to creating a thorough and user-friendly campus event management system that will facilitate and improve event planning and organisation for both hosts and attendees. To guarantee that the system is delivered on time, within budget, and to the highest standards of quality, we will use an agile software development process model.
+
+### 5. Software Process Model🛠️:
 A software process model's main objective is to offer a framework for the systematic and organised development of software. It offers a collection of tasks, products, and deadlines to make sure the software is created quickly and effectively. A software process model's main objective is to make sure that the software is high-quality, delivered on time, and within budget while also meeting the requirements of the stakeholders.
 
 The <b>Agile software development process model</b> is the ideal software process model for this campus event management system development. The Agile process model is an adaptable and iterative method of developing software that places a focus on teamwork, client satisfaction, and the quick delivery of functional software. This process model emphasises delivering value to the customer at each iteration and is appropriate for projects with varying requirements and uncertainties.
@@ -187,7 +206,7 @@ We can use Agile project management practices such as Scrum to manage the projec
 The quality assurance analyst along with the team members will ensure that the system meets the quality standards by performing various testing activities and creating test reports. The main developer and developer assistant will also perform unit testing and code reviews to ensure the quality of the code.
 
 
-### 6. Budget:
+### 6. Budget💰:
 The development of the academic course registration system for 30,000 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at **RM 900,000**, as outlined below:
 
 - **Hardware Costs: RM 400,000** <br>
@@ -211,7 +230,7 @@ It is always recommended to have a contingency plan for unexpected expenses that
 In conclusion, the estimated budget for the development of the UTM Event Management System is RM 900,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingency. Any changes in the budget will be communicated to stakeholders and project sponsors.
 
 
-### 7. System Architecture:
+### 7. System Architecture🖥️:
 
 The proposed system architecture for the event management system will be a web-based system built using modern technologies and frameworks. The system will use the following tools and technologies:
 
@@ -233,7 +252,7 @@ To improve the load time of the page, we can implement caching techniques such a
 The block diagram for the proposed system architecture is as follows:
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Curiousity/system%20architecture.png" alt="SystemArchitecture"></img>
 
-### 8. Risks Assessment:
+### 8. Risks Assessment⚠️:
 - The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
 - It also describe the plans and strategies to mitigate those risks.
 
@@ -253,7 +272,7 @@ The possibility exists that the system could be exposed to security flaws like h
 Due to lack of awareness or competing options, there is potential that the system will not be widely used by students and other users. The user experience designer team will carry out extensive user research and design the system to be accessible and user-friendly in order to reduce this risk. To increase awareness and promote adoption, the team will also employ focused marketing and promotional strategies.
 
 
-### 9. Resources:
+### 9. Resources📍:
 To successfully deliver the academic course registration system, the following resources are required:
 
 **Staff**
@@ -290,13 +309,84 @@ Total Other Expenses: RM 296,000
 
 Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
 
-### 10. Technical Specifications:
-- Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
-- Mention the programming languages, frameworks, and libraries that will be used in the project.
-- Provide details about the hardware and software requirements for the proposed system.
-- Explain the data security measures that will be implemented.
+### 10. Technical Specifications🌐:
+<table>
+  <tr>
+    <th align= "left">Data sources</th>
+    <td>
+      <ul>
+        <li>Event organisers will enter the event data which includes information about the event itself, such as the date, time, location and event type.</li?
+        <li>The event registration forms will collect data which includes attendee information such as names,email addresses,phone numbers and other contact details.</li>
+      <li>The survey tools integrated with the event management system will collect data and provide insights into attendee satisfaction, areas of improvement, and future event ideas.</li>
+  </ul>
+    </td>
+  </tr>
+  
+  <tr>
+    <th align= "left">Data schema</th>
+    <td>A database with tables that represent the various data sources involved in event management, such as attendee data, event data, financial data, surveys and feedback, and customer relationship management (CRM) data.</td>
+  </tr>
+  
+  <tr>
+    <th align= "left">Data transformation</th>
+    <td>The attendee data and the event data are transformed into a relational database management system (RDBMS) to associate each attendee with the event they registered for.</td>
+  </tr>
+  
+  <tr>
+    <th align= "left">Programming languages</th>
+    <td>Java, JavaScript, CSS, PHP</td>
+  </tr>
+  
+  <tr>
+    <th align= "left">Frameworks</th>
+    <td>Spring, Laravel, React, Vue.js</td>
+  </tr>
+  
+  <tr>
+    <th align= "left">Libraries</th>
+    <td>Bootstrap, jQuery, React Native,D3.js</td>
+  </tr>
+  
+  <tr>
+    <th align= "left">Hardware requirements</th>
+    <td>
+      <ul>
+        <li>Processor: Dual-core or higher</li>
+        <li>RAM: 8 GB or higher</li>
+        <li>Storage: 100 GB or higher</li>
+        <li>Network Interface: Gigabit Ethernet or higher</li>
+        <li>Display: 1080p or higher</li>
+      </ul>
+    </td>
+  </tr>
+  
+  <tr>
+    <th align= "left">Software requirements</th>
+    <td>
+      <ul>
+        <li>Operating System: Windows, Linux or macOS</li>
+        <li>Web Server: Apache, Nginx, or Microsoft IIS</li>
+        <li>Database Management System: MySQL, PostgreSQL, or Microsoft SQL Server</li>
+        <li>Programming Language: Java, Python, or PHP</li>
+        <li>Integrated Development Environment (IDE): Eclipse, PyCharm, Visual Studio Code, or IntelliJ IDEA</li>
+      </ul>
+    </td>
+  </tr>
+  
+  <tr>
+    <th align= "left">Data security measures</th>
+    <td>
+    <ul>
+      <li>Access control: Only authorised users can access the system and its data.</li>
+      <li>Audit trail: Track user activity and changes made to the system and its data.</li>
+      <li>Regular updates and patches: Updated regularly with the latest security patches.</li>
+      <li>Training and awareness: Educate users on data security best practices, such as strong password management, phishing awareness, and safe browsing habits.</li>
+    </ul>
+    </td>
+  </tr>
+</table>
 
-### 11. Timeline and Deliverables: 
+### 11. Timeline and Deliverables📅: 
 -Below is the timeline and deliverables of the project:
     <table style="border-collapse: collapse;">
       <thead>
@@ -355,7 +445,7 @@ Quality Assurance and Testing Procedures
 - User Acceptance Testing: End users will perform testing on the system to ensure that it meets their requirements and expectations.
 - Bug Fixing: Any issues or bugs found during testing will be addressed by the development team and retested before being deployed.
 
-### 12. Conclusion:
+### 12. Conclusion✏️:
 
 The proposed system aims to improve the usability and effectiveness of the previous system by addressing the issue of low participation rates in co-curricular activities in universities while also enhancing the effectiveness of promoting events to students.
 

@@ -21,16 +21,16 @@ Don't forget to hit the :star: if you like this repo.
     <td></td>
   </tr>
   <tr>
-    <td>2</td>
-    <td></td>
+    <td>2 Goh Jing Yang</td>
+    <td>UI Designer</td>
   </tr>
     <tr>
     <td>3 LOO JIA CHANG</td>
-    <td></td>
+    <td>Developer</td>
   </tr>
     <tr>
     <td>4 Chen Pyng Haw</td>
-    <td></td>
+    <td>Project manager</td>
   </tr>
 </table>
 
@@ -43,14 +43,14 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
+    <td>1 </td>
+    <td>Student</td>
     <td></td>
     <td></td>
   </tr>
     <tr>
     <td>2</td>
-    <td></td>
+    <td>Faculty Staff</td>
     <td></td>
     <td></td>
   </tr>

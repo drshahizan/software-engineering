@@ -10,14 +10,32 @@ Don't forget to hit the :star: if you like this repo.
 
 ### Table of Contents
 
-- [Requirements Engineering Introduction](p1-intro.md)
-- [Functional Requirements](p2-functional.md)
-- [Requirements Specification](p3-soft-requirement.md)
-- [Form Based Specifications](p4-form.md)
-- [Advance Requirements Engineering](p5-req-eng.md)
-- [An interview with a stakeholder](p6-interview.md)
+- [Requirements Modeling Concept](p1-intro.md)
+- [Use Case Diagram](p2-use-case.md)
+- [Structural Models](p3-struc-model.md)
 
-# Part 2: 
+# Part 2: Use Case Diagram
+
+UML (Unified Modeling Language) is a visual modeling language used to represent software systems. UML diagrams provide a standardized way to express various aspects of a system's design, behavior, and structure. There are several types of UML diagrams, each with its own specific purpose.
+
+For a university academic course registration system, we can use various types of UML diagrams to represent its different aspects. 
+
+## 1. Use case diagram
+A use case diagram can be used to represent the interactions between the university academic course registration system and its actors. The actors in this case may include students, faculty, and administrators. The use cases may include registering for a course, dropping a course, checking course availability, and generating reports.
+
+## 2. Activity diagram
+An activity diagram can be used to represent the activities involved in the course registration process. This may include activities like selecting courses, checking course prerequisites, selecting class timings, adding courses to the cart, and submitting the registration form.
+
+## 3. Sequence diagram
+A sequence diagram can be used to represent the interactions between actors and the system components during the course registration process. This may include interactions between students and the course catalog system, between students and the registration system, and between the registration system and the database.
+
+## 4. Class diagram
+A class diagram can be used to represent the object classes in the system and their relationships. The object classes in this case may include students, courses, faculty, departments, and the registration system. The relationships may include associations between students and courses, between faculty and courses, and between departments and courses.
+
+## 5. State diagram
+A state diagram can be used to represent the different states of an object in the system and the transitions between these states. For example, a state diagram can be used to represent the different states of a course, such as open, closed, waitlisted, or cancelled. It can also represent the states of a student's course registration, such as registered, dropped, or waitlisted.
+
+Overall, UML diagrams can be used to represent the different aspects of a university academic course registration system and provide a standardized and visual way to communicate its design and behavior to stakeholders.
 
 ## Interaction Model
 
@@ -96,7 +114,7 @@ By creating a use case model for the university academic course registration sys
 
 An example of a use case diagram for the university academic course registration system in PlantUML code:
 
-```
+```puml
 @startuml
 actor Student
 actor Faculty
@@ -451,6 +469,73 @@ This table represents a use case scenario for the "Enroll in Course" feature in 
 |                | The student is notified of the successful course drop. | 
 
 > UC-02 (Drop Course) is a use case in the university academic course registration system that enables a student to drop a course from their schedule. The student is the actor for this use case, and the precondition is that the student is already registered in at least one course. The flow of events involves the student selecting the course to drop, the system verifying the enrollment, removing the course from the schedule, and notifying the student of the successful course drop. The postconditions are that the selected course is dropped from the student's schedule, and the student is notified of the successful course drop.
+
+## Branching within a Flow and Alternative Flow
+Branching within a flow occurs when there are multiple paths that can be taken in a use case based on certain conditions or decisions. This means that the flow of events may split into different directions depending on specific criteria.
+
+For example, in a university academic course registration system, a student may select a course they wish to register for and then have to choose the type of credit they want to receive for that course. Depending on the type of credit they select, the flow of events may branch into different directions. If they choose a credit type that requires approval from an academic advisor, the flow of events will include a separate path where the advisor must review and approve the credit type selection before the registration process can continue.
+
+Alternative flow occurs when there is a deviation from the main flow of events due to a specific issue or error. This means that if something goes wrong during the use case, an alternative path will be taken to handle the issue and ensure the use case can still be completed successfully.
+
+For example, in the university academic course registration system, if a student encounters an error or issue during the registration process, an alternative flow may occur where they can contact the university's help desk for assistance. The help desk may request additional information from the student or escalate the issue to technical support if necessary, allowing the student to complete the registration process successfully.
+
+| Use Case | UC003 |
+| --- | --- |
+| Actors | Student, Academic Advisor |
+| Preconditions | - The student is logged into the university academic course registration system<br>- The student has already searched for courses and found one they are interested in<br>- The student has selected the course they want to register for |
+| Flow of Events | 1. The system presents the student with a page displaying the course information and options for selecting the type of credit they wish to receive for the course.<br>2. The student selects the desired type of credit (e.g. graded, pass/fail, audit).<br>3. If the selected credit type requires additional approval from an academic advisor (e.g. pass/fail), the system displays a message indicating that the advisor will need to approve the credit type selection.<br>4. The student confirms their credit type selection and submits their course registration request to the system.<br>5. The system checks for any prerequisite courses required for the selected course and notifies the student if any are missing.<br>6. If prerequisites are missing, the student can choose to go back to the course search and select a different course, or they can request that an academic advisor help them resolve the missing prerequisites.<br>7. Once all prerequisites are satisfied and any required approvals are granted, the system confirms the student's course registration and updates their academic record. |
+| Postconditions | - The student is registered for the selected course with the chosen type of credit<br>- The student's academic record is updated with the course registration information |
+| Alternative Flow | If the student encounters an error or issue during the course registration process, they can choose to contact the university's help desk for assistance. The help desk may request additional information from the student or escalate the issue to technical support if necessary. |
+| Postconditions | - The student's issue or error is resolved, allowing them to complete the course registration process. |
+| Alternative Flow | 3a. If the selected credit type requires approval from an academic advisor, the system sends a notification to the student indicating that the advisor must review and approve their credit type selection.<br>3b. The academic advisor receives the notification and logs into the system to view the student's course registration request.<br>3c. The advisor reviews the student's credit type selection and either approves or denies the request.<br>3d. If the request is denied, the advisor must provide a reason for the denial.<br>3e. The system notifies the student of the advisor's decision and reason for denial (if applicable).<br>3f. If the request is approved, the system proceeds with the course registration process as described in the main flow. |
+| Postconditions | - If the advisor approves the credit type selection, the student is registered for the course with the chosen type of credit<br>- If the advisor denies the credit type selection, the student is not registered for the course and must either choose a different credit type or select a different course altogether. |
+
+## Repetition within a Flow: For/While
+In UML (Unified Modeling Language), repetition within a flow using For/While loops can be represented using a loop node. A loop node is a type of activity node that allows a set of actions to be repeated while a particular condition is true.
+
+The use case of repetition within a flow using For/While loops in the context of a university academic course registration system:
+
+---
+Use Case: University Academic Course Registration System
+
+ID: UC-004
+
+Actors: Student
+
+Preconditions:
+- The student is logged into the university academic course registration system
+- The student has already searched for courses and found one they are interested in
+
+Flow of Events:
+
+Step | Action
+--- | ---
+1 | The student selects the "Register for Courses" option in the system.
+2 | The system presents the student with a list of courses they can register for, based on their academic program and availability.
+3 | The student selects the course they want to register for and confirms their choice.
+4 | The system verifies that the student has met the prerequisites for the course and can register for it.
+5 | If the student meets the prerequisites, the system adds the course to their registration list and prompts the student to select another course to register for.
+6 | If the student does not meet the prerequisites, the system displays an error message and prompts the student to select another course that they are eligible to take.
+7 | The student repeats steps 3-6 until they have registered for all the courses they want to take.
+
+Postconditions:
+- The student has successfully registered for the courses they want to take.
+
+In this use case, repetition within a flow is used to allow the student to register for multiple courses one at a time. The For/While loop is used to repeat the process of selecting and registering for a course until the student has registered for all the courses they want to take. 
+
+This process can save time for the student by allowing them to select and register for multiple courses in a single session without having to go through the registration process for each course separately. Additionally, the system can verify that the student has met the prerequisites for each course before allowing them to register, ensuring that they are only registering for courses that they are eligible to take.
+
+
+## `<<include>>` Relationship 
+In UML (Unified Modeling Language), the <<include>> relationship is a type of relationship that represents the inclusion of one use case in another use case. This relationship indicates that the behavior described in one use case is always included in the behavior described in another use case.
+
+In the context of a university academic course registration system, an example of the `<<include>>` relationship could be between the "View Course Schedule" use case and the "Register for Course" use case. The "View Course Schedule" use case would include the steps required for the student to view the course schedule before they can proceed with the "Register for Course" use case.
+
+## `<<extend>>` Relationship 
+In UML, the `<<extend>>` relationship is used to model optional or alternative behaviors that can occur during the execution of a use case. It indicates that a use case can be extended by another use case, but the extended use case is not required for the base use case to be completed successfully. The `<<extend>>` relationship is represented as a dashed arrow with the `<<extend>>` stereotype.
+
+For example, in the university academic course registration system, the "Register for Course" use case may be extended by the "Request Course Overload" use case. This use case allows students to request permission to enroll in more courses than the maximum allowed limit. The "Request Course Overload" use case would only be executed if the student has already registered for the maximum number of courses and still wants to enroll in more.
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
