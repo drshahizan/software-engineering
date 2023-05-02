@@ -337,28 +337,28 @@ To ensure data security and privacy, access to the data will be restricted to au
         <th>Deliverable</th>
     </tr>
     <tr>
-        <td>Planning and Design (1 month)</td>
+        <td>Implementation (Week 8 - 13)</td>
         <td>
             <ul>
-                <li>Define project scope and objectives</li>
-                <li>Create a project plan and timeline</li>
-                <li>Develop a system architecture and data schema</li>
-                <li>Identify data sources and data transformations</li>
-                <li>Specify the machine learning algorithms to be used</li>
+                <li>Implement the system architecture and data schema</li>
+                <li>Develop the data transformation scripts</li>
+                <li>Implement the machine learning algorithms</li>
+                <li>Build the user interface and data visualization tools</li>
+                <li>Perform integration testing</li>
             </ul>
         </td>
         <td>
             <ul>
-                <li>Project scope and objectives document</li>
-                <li>Project plan and timeline document</li>
-                <li>System architecture and data schema document</li>
-                <li>Data sources and data transformations document</li>
-                <li>Machine learning algorithms specification document</li>
+                <li>System architecture and data schema implementation</li>
+                <li>Data transformation scripts implementation</li>
+                <li>Machine learning algorithms implementation</li>
+                <li>User interface and data visualization tools implementation</li>
+                <li>Integration testing report</li>
             </ul>
         </td>
     </tr>
     <tr>
-        <td>Implementation (3 months)</td>
+        <td>Testing and Deployment (From Week 14)</td>
         <td>
             <ul>
                 <li>Implement the system architecture and data schema</li>
