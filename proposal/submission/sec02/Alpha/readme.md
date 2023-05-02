@@ -95,6 +95,11 @@ This college rental system will use various tools and frameworks. For Example to
 Provide a flowchart or block diagram of the system architecture.
 #### Flowchart and Block Diagram
 
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/flowchartSE.png"></img>
+**Flowchart Diagram**
+
+**Block Diagram**
+
 
 ### 8. Risks Assessment:
 - The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
