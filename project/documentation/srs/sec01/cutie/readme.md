@@ -17,20 +17,24 @@ Don't forget to hit the :star: if you like this repo.
     <th>Role</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
+    <td>1 Jaslene Yu</td>
+    <td>Project Manager</td>
   </tr>
   <tr>
-    <td>2</td>
-    <td></td>
+    <td>2 Nicole Lim Tze Yee</td>
+    <td>Business Analyst & Developer Assistant</td>
   </tr>
     <tr>
-    <td>3</td>
-    <td></td>
+    <td>3 Tiew Chuan Rong</td>
+    <td>UI/UX Designer</td>
   </tr>
     <tr>
-    <td>4</td>
-    <td></td>
+    <td>4 Tiew Chuan Shen</td>
+    <td>Main Developer</td>
+  </tr>
+  <tr>
+  <td>5 Wong Jun Ji</td>
+  <td>Quality Assurance & Developer Assistant</td>
   </tr>
 </table>
 

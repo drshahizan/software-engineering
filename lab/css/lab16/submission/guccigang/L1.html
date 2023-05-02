@@ -17,6 +17,7 @@ Group: gucci gang
 </header>
 
 <head>
+    <title>...</title>
     <style>
         body {
             background-color: #E4F293;
@@ -33,16 +34,18 @@ Group: gucci gang
 
         #description {
             font-size: 18px;
-            line-height: 40px;
             text-align: center;
         }
 
         .master-div-style {
-            width: 700px;
+            padding: 10px 40px;
+            width:max-content;
             background-color: #F3F3F3;
             margin: 10px;
             text-align: center;
             border-radius: 10px;
+            display: block;
+            justify-content: center;
         }
 
         #submit {
@@ -58,23 +61,42 @@ Group: gucci gang
 
         .form-rows {
             margin: 20px;
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            gap: 15px;
+            display: block;
         }
 
         .labels {
             text-align: right;
+            display: inline-block;
+            width: 300px;
         }
 
         .fields {
+            margin-left: 10px;
             text-align: left;
+            display: inline-flex;
+            width: 300px;
         }
 
         .input-fields {
             width: 250px;
+            padding: 5px;
         }
-        
+
+        input[type="radio"] {
+            float: left;
+        }
+
+        #time-of-day li.radio label:first-of-type {
+            margin-left: -20px;
+        }
+
+        #dropdown{
+            padding: 5px;
+        }
+
+        .user-selection {
+            margin-left: -40px;
+        }
     </style>
 </head>
 

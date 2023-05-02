@@ -16,21 +16,21 @@ Don't forget to hit the :star: if you like this repo.
     <th>Name</th>
     <th>Role</th>
   </tr>
-  <tr>
-    <td>1</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td></td>
+    <tr>
+    <td>1 Wan Nur Sofea Binti Mohd Hasbullah</td>
+    <td>Main Developer</td>
   </tr>
     <tr>
-    <td>3</td>
-    <td></td>
+    <td>2 Maisarah Binti Rizal</td>
+    <td>Technical Lead</td>
   </tr>
     <tr>
-    <td>4</td>
-    <td></td>
+    <td>3 Nur Arini Fatihah Binti Mohd Sabir</td>
+    <td>UX/UI Designer</td>
+  </tr>
+    <tr>
+    <td>4 Mulyani Binti Saripuddin</td>
+    <td>QA/Test Engineer</td>
   </tr>
 </table>
 
@@ -43,22 +43,22 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>1 Dr. Nor Azizah Ali</td>
+    <td>Academic Advisor</td>
+    <td>Lecturer</td>
+    <td>Provide feedback on usability of system from a lecturer perspective</td>
   </tr>
     <tr>
     <td>2</td>
-    <td></td>
-    <td></td>
+    <td>Staff Faculty Of Computing</td>
+    <td>Office Clerk</td>
     <td></td>
   </tr>
     <tr>
     <td>3</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>MPP Faculty Of Computing</td>
+    <td>Student</td>
+    <td>Provide feedback on usability of system from a student perspective</td>
   </tr>
 </table>
 
@@ -66,11 +66,11 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2| | | | | 
-| 3| | | | | 
-| 4| | | | | 
-| 5| | | | | 
+| 1 | 02/05/2023| Wan Nur Sofea Binti Mohd Hasbullah | Main Developer | Develop system and monitoring | Incomplete |
+| 2 | 02/05/2023| Maisarah Binti Rizal | Technical Lead | Develop technical support | Incomplete | 
+| 3 | 02/05/2023 | Nur Arini Fatihah Binti Mohd Sabir | UX/UI Designer | Create user-centered designs |  Incomplete| 
+| 4 | 02/05/2023 | Mulyani Binti Saripuddin | QA/Test Engineer | Test planning, case execution, execution and tracking | Incomplete | 
+ 
 
 
 ## Contribution 🛠️

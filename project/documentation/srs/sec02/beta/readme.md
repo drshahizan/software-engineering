@@ -17,20 +17,24 @@ Don't forget to hit the :star: if you like this repo.
     <th>Role</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
+    <td>MUHAMMAD DANIEL HAKIM BIN SYAHRULNIZAM</td>
+    <td>Requirements Analyst</td>
   </tr>
   <tr>
-    <td>2</td>
-    <td></td>
+    <td>MUHAMMAD ARIFF DANISH BIN HASHNAN</td>
+    <td>Software Developer</td>
   </tr>
     <tr>
-    <td>3</td>
-    <td></td>
+    <td>MUHAMMAD IMAN FIRDAUS BIN BAHARUDDIN</td>
+    <td>User Experience Designer</td>
   </tr>
     <tr>
-    <td>4</td>
-    <td></td>
+    <td>MUHAMMAD SAFWAN BIN MOHD AZMI</td>
+    <td>Quality Assurance</td>
+  </tr>
+   <tr> 
+    <td>CHE MARHUMI BIN CHE AB RAHIM</td>
+    <td>Documentation Specialist</td>
   </tr>
 </table>
 
@@ -43,23 +47,24 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>PUAN MUNIRAH ABU BAKAR</td>
+    <td>Adminstrator of Restaurant "Sdap Kitchen"</td>
+    <td>Owner</td>
+    <td>Provide accurate and up-to-date information about their menu items, pricing, and availability</td>
   </tr>
     <tr>
-    <td>2</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>ENCIK AMRAN BIN MD YUSOF</td>
+    <td>Adminstrator of Restaurant "Deen Corner"</td>
+    <td>Owner</td>
+    <td>Provide accurate and up-to-date information about their menu items, pricing, and availability. </td>
   </tr>
     <tr>
-    <td>3</td>
     <td></td>
-    <td></td>
+    <td>Customer</td>
+    <td>UTM student/UTM Staff</td>
     <td></td>
   </tr>
+ 
 </table>
 
 ## Tasks involved in developing SRC documentation:

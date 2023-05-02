@@ -17,24 +17,25 @@ Don't forget to hit the :star: if you like this repo.
     <th>Role</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
+    <td>1.Thevan Raju A/L Jeganath</td>
+    <td>Front-end Developer</td>
   </tr>
   <tr>
-    <td>2</td>
-    <td></td>
+    <td>2.Nurul Erina binti Zainuddin</td>
+    <td>Project Manager</td>
   </tr>
     <tr>
-    <td>3</td>
-    <td></td>
+    <td>3.Nik Zulaikhaa Binti Zuraidi Afandi </td>
+    <td>Software Architect</td>
   </tr>
     <tr>
-    <td>4</td>
-    <td></td>
+    <td>4.Aliatul Izzah Binti Jasman</td>
+    <td>Back-end Developer</td>
   </tr>
 </table>
 
 ## Stakeholder
+One Stop Parcel Center & Cengal Parcel Point
 <table>
   <tr>
     <th>Name</th>
@@ -43,23 +44,24 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>2</td>
-    <td></td>
-    <td></td>
+    <td>Amira Ellyana binti Jasmin</td>
+    <td>One Stop Parcel Center</td>
+    <td>Management</td>
     <td></td>
   </tr>
     <tr>
-    <td>3</td>
-    <td></td>
-    <td></td>
+    <td>Syazwan bin Saad</td>
+    <td>One Stop Parcel Center</td>
+    <td>Management</td>
+  <td></td>
+  </tr>
+    <tr>
+    <td>Muhammad Amirul</td>
+    <td>Cengal Parcel Point</td>
+    <td>Head of Management</td>
     <td></td>
   </tr>
+  
 </table>
 
 ## Tasks involved in developing SRC documentation:
@@ -67,7 +69,7 @@ Don't forget to hit the :star: if you like this repo.
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2| | | | | 
+| 2| 02/052023|Erina,Thevan,Nik,Izzah|All member|Had meeting with stackholder |Complete|
 | 3| | | | | 
 | 4| | | | | 
 | 5| | | | | 

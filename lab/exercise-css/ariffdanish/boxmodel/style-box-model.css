@@ -1,0 +1,33 @@
+.box {
+    width: 300px;
+    height: 150px;
+    padding: 20px;
+    background-color: lightblue;
+  }
+  
+  .box2 {
+    width: 300px;
+    height: 150px;
+    padding: 50px;
+    margin: 20px;
+    background-color: white;
+  }
+  
+  .box3 {
+    width: 300px;
+    height: 150px;
+    padding: 20px;
+    border: 5px solid black;
+    margin: 20px;
+  }
+  
+  .box4 {
+    width: 300px;
+    height: 150px;
+    padding: 20px;
+    margin: 20px;
+    background-color: lightblue;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/8/81/UTM-LOGO.png");
+    background-size: cover;
+  }
+  

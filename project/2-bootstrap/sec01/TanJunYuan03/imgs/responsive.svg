@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 480 480" style="enable-background:new 0 0 480 480;" xml:space="preserve" width="512px" height="512px"><g><g>
+	<g>
+		<path d="M480,272V40c0-22.056-17.944-40-40-40H88C65.944,0,48,17.944,48,40v160H24c-13.232,0-24,10.768-24,24v232    c0,13.232,10.768,24,24,24h168c13.232,0,24-10.768,24-24v-48h24v48c0,13.232,10.768,24,24,24h192c13.232,0,24-10.768,24-24v-88    c0-13.232-10.768-24-24-24h-98.232l-10.664-32H440C462.056,312,480,294.056,480,272z M200,456c0,4.416-3.592,8-8,8H24    c-4.408,0-8-3.584-8-8v-16h184V456z M200,424H16V256h184V424z M200,240H16v-16c0-4.416,3.592-8,8-8h168c4.408,0,8,3.584,8,8V240z     M192,200H64V40c0-13.232,10.768-24,24-24h352c13.232,0,24,10.768,24,24v200H216v-16C216,210.768,205.232,200,192,200z M240,392    h-24v-16h24V392z M241.472,360H216v-48h114.232l10.664,32H264C253.584,344,244.784,350.712,241.472,360z M272,464h-8    c-4.408,0-8-3.584-8-8v-88c0-4.416,3.592-8,8-8h8V464z M448,360h8c4.408,0,8,3.584,8,8v88c0,4.416-3.592,8-8,8h-8V360z M432,360    v104H288V360H432z M216,296v-40h248v16c0,13.232-10.768,24-24,24H216z" data-original="#000000" class="active-path" data-old_color="#C31D1D" fill="#444444"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="156.117" y="111.979" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -19.2296 193.5331)" width="135.767" height="16" data-original="#000000" class="active-path" data-old_color="#C31D1D" fill="#444444"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="252.119" y="112.001" transform="matrix(0.7071 -0.7071 0.7071 0.7071 8.8727 261.423)" width="135.767" height="16" data-original="#000000" class="active-path" data-old_color="#C31D1D" fill="#444444"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="34.74" y="320.001" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -208.5012 152.6348)" width="90.511" height="16" data-original="#000000" class="active-path" data-old_color="#C31D1D" fill="#444444"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="82.739" y="335.998" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -205.7543 191.2603)" width="90.511" height="16" data-original="#000000" class="active-path" data-old_color="#C31D1D" fill="#444444"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="302.055" y="400.002" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -190.0905 357.0855)" width="67.879" height="16" data-original="#000000" class="active-path" data-old_color="#C31D1D" fill="#444444"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="350.052" y="400.005" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -176.0347 391.0246)" width="67.879" height="16" data-original="#000000" class="active-path" data-old_color="#C31D1D" fill="#444444"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="432" y="208" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#C31D1D" fill="#444444"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="400" y="208" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#C31D1D" fill="#444444"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="368" y="208" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#C31D1D" fill="#444444"/>
+	</g>
+</g></g> </svg>

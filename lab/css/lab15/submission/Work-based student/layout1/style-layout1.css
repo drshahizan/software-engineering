@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+  }
+
+  header {
+    background-color: #ffda45;
+    height: 50px;
+    padding: 20px;
+    margin: 7px;
+  }
+
+  section {
+    display: grid;
+    grid-template-columns: 20% 65% 15%;
+    margin-top: 7px;
+    margin-bottom: 7px;
+  }
+  
+  nav {
+    background-color: #ffda45;
+    height: 500px;
+    padding: 20px;
+    margin: 7px;
+  }
+
+  .Article {
+    background-color: #ffda45;
+    height: 500px;
+    padding: 20px;
+    margin: 7px;
+  }
+
+  .Ads {
+    background-color: #ffda45;
+    height: 500px;
+    padding: 20px;
+    margin: 7px;
+  }
+  
+  footer {
+    background-color: #ffda45;
+    height: 50px;
+    padding: 20px;
+    margin: 7px;
+  }

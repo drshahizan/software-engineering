@@ -17,20 +17,20 @@ Don't forget to hit the :star: if you like this repo.
     <th>Role</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
+    <td>1 Tan Jun Yuan</td>
+    <td>Project Manager & Documentation Specialist</td>
   </tr>
   <tr>
-    <td>2</td>
-    <td></td>
+    <td>2 Goh Jing Yang</td>
+    <td>UI/ UX System Designer & Requirement Analyst</td>
   </tr>
     <tr>
-    <td>3</td>
-    <td></td>
+    <td>3 Loo Jia Chang</td>
+    <td>Main Developer</td>
   </tr>
     <tr>
     <td>4 Chen Pyng Haw</td>
-    <td></td>
+    <td>Quality Assurance & Developer Assistant</td>
   </tr>
 </table>
 
@@ -43,14 +43,14 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
+    <td>1 </td>
+    <td>Student</td>
     <td></td>
     <td></td>
   </tr>
     <tr>
     <td>2</td>
-    <td></td>
+    <td>Faculty Staff</td>
     <td></td>
     <td></td>
   </tr>
