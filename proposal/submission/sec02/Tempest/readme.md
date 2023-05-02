@@ -118,42 +118,62 @@ Overall, the system architecture is designed to be scalable and maintainable, wi
 #### Case Diagram
 
 ``` sql
-
               +-------------------------------------+
               |                                     |
-              |              Badal Hajj             |
+              |              Badal Hajj              |
               |         and Umrah System            |
               |                                     |
               +-------------------------------------+
                                 |
-               +----------------+----------------+
-               |                                 |
-             User                          System Admin
-               |                                 |
-    +----------+-----------+         +-----------+-----------+
-    |                      |         |                       |
-View Available         Book       Manage                Update Booking
-   Packages           Package    Packages and          (e.g., change dates)
-                                Accommodations 
-    |                      |         |                       |
-Select Dates         Confirm/    Add Package           View All Bookings
-  and Time          Cancel      Add Accommodation        and Details
-    |                      |         |                       |
-Select                   |     Update Package and       View Booking Details
-Accommodation         View      Accommodation Info
-    |                 Booking    Delete Package              |
-    |                      |         |                       
-Confirm Booking     View All     Update Accommodation        |
-                      Bookings    Info and Delete            
-    |                      |         |                       |
-Make Payment         View       View All Bookings            
-                      Payment    and Details                 |
-    |                      |         |                       
-View Payment        View Receipt  View Booking Details       |
-                                (for payments made)          
-    |                                                        |
-    +--------------------------------------------------------+
-
+    +-----------+------------+------------+
+    |           |                         | 
+   User  System Admin              Top Management
+    |           |                         |
+    +-----+-----+-----+                   |
+          |           |                   |
+          |           |            View Booking Details
+          |           |                   |
+ +--------+-------+   |                   |
+ |                |   |                   |
+View Available  Book |                   |
+   Packages    Package            View Finalized Data
+ |                |   |                   |
+Select Dates Confirm/ |                   |
+  and Time   Cancel |                   |
+ |                |   |                   |
+Select           |   |                   |
+Accommodation |  View |                   |
+ |            |Booking|                   |
+Confirm Booking|     |                   |
+ |            |     |                   |
+Make Payment  |     |                   |
+ |            |     |                   |
+View Payment |     |                   |
+ |            |     |                   |
+View Receipt |     |                   |
+ |            |     |                   |
+View All      |     |                   |
+Bookings and  |     |                   |
+Details       |     |                   |
+ |            |     |                   |
+Manage        |     |                   |
+Packages and  |     |                   |
+Accommodations|     |                   |
+ |            |     |                   |
+Update Booking|     |                   |
+(e.g., change |     |                   |
+dates)        |     |                   |
+ |            |     |                   |
+View All      |     |                   |
+Bookings      |     |                   |
+ |            |     |                   |
+View Booking  |     |                   |
+Details       |     |                   |
+ |            |     |                   |
+View All      |     |                   |
+Data          |     |                   |
+ |            |     |                   |
+ +-----------+-----+------+--------------+
 
 
 ```
