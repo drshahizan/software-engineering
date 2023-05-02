@@ -52,7 +52,7 @@ The Academic Support Services System will provide a web-based platform that allo
 - Student and lecturer registration and login.
 - Appointment scheduling and management.
 - Communication and messaging between students and lecturers.
-- Notifications and reminders for appointments.
+- Notifications and reminders for both academic advisors and students.
 - Analytics and reporting for monitoring and evaluating the effectiveness of the system.
 - The system will be limited to academic support services only and will not provide any additional features such as course content or assessment tools.
 
