@@ -97,7 +97,7 @@ To mitigate these risks, a few steps can be taken:
 - 1 Main Developer
 - 1 Requirements Analyst
 
-#### Equipment
+#### Equipment :
 - Servers
 - Security and backup
 - Software
