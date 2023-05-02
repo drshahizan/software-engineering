@@ -66,11 +66,11 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2| | | | | 
-| 3| | | | | 
-| 4| | | | | 
-| 5| | | | | 
+| 1 | 02/05/2023| Wan Nur Sofea Binti Mohd Hasbullah | Main Developer | Develop system and monitoring | Incomplete |
+| 2 | 02/05/2023| Maisarah Binti Rizal | Technical Lead | Develop technical support | Incomplete | 
+| 3 | 02/05/2023 | Nur Arini Fatihah Binti Mohd Sabir | UX/UI Designer | Create user-centered designs |  Incomplete| 
+| 4 | 02/05/2023 | Mulyani Binti Saripuddin | QA/Test Engineer | Test planning, case execution, execution and tracking | Incomplete | 
+ 
 
 
 ## Contribution 🛠️
