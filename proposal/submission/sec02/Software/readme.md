@@ -69,22 +69,22 @@ This section describe the ideal software process model for this system developme
 - The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
 
 ### 7. System Architecture:
-## Presentation Layer:
+#### Presentation Layer:
 -User interface design (HTML, CSS, JavaScript) <br>
 -Content management system (CMS) for managing website content<br>
 -Accessibility features to ensure the website is accessible to users with disabilities<br>
 -Responsive design for optimal display on various devices and screen sizes<br>
-## Application Layer:
+#### Application Layer:
 -Web server (e.g. Apache, Nginx)<br>
 -Web application framework (e.g. Django, Ruby on Rails)<br>
 -Business logic and data processing code<br>
 -Integration with external services (e.g. appointment scheduling, health records)<br>
 
-## Data Layer:
+#### Data Layer:
 -Relational database management system (e.g. MySQL, PostgreSQL)<br>
 -Data schema design and management<br>
 -Data access layer (e.g. Object Relational Mapping)<br>
-## Security Layer:
+#### Security Layer:
 -SSL/TLS encryption<br>
 -User authentication and authorization mechanisms (e.g. OAuth2, LDAP)<br>
 -Access control and permission management<br>
@@ -106,14 +106,14 @@ This section describe the ideal software process model for this system developme
 - Database : MySQL
 - Software : Bootstrap Studio
 - Authentication : User authentication and authorization
-- Security: SSL encryption and data encryption at rest
- i. Modules: Student registration
- ii. Health assessment and history
- iii. Medical record keeping
- iv. Appointment scheduling
- v. Prescription and medication management
- vi. Billing and invoicing
- vii. Reporting and analytic
+- Security: SSL encryption and data encryption at rest  
+ i. Modules: Student registration  
+ ii. Health assessment and history  
+ iii. Medical record keeping  
+ iv. Appointment scheduling  
+ v. Prescription and medication management  
+ vi. Billing and invoicing  
+ vii. Reporting and analytic  
 - Integration: Integration with the university's student information system and electronic health record system
 - Accessibility: Section 508 compliance
 - Scalability: Ability to handle large volumes of data and users
