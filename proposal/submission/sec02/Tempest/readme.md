@@ -18,10 +18,19 @@ Don't forget to hit the :star: if you like this repo.
 
 3.Danial Harriz Bin Mohd Asineh @ Mohd Asneh (A22EC0152)
 
-4.Kugen a/l Kalidas
+4.Kugen a/l Kalidas (A22EC0178)
 
 ### Table of Contents
-- [Table of Contents](#table-of-contents)
+- [Executive Summary](#1-executive-summary)
+- [Background](#2-background)
+- [Objectives](#3-objectives)
+- [Scope](#4-scope)
+- [Software Process Mode;](#5-software-process-model)
+- [Budget](#6-budget)
+- [System Architecture](#7-system-architecture)
+- [Risk Assesment](#8-risk-assesment)
+- [Resources](#9-resources)
+- [Technical Specification](#10-technical-specifications)
 
 ### 1. Executive Summary
 - Our proposed Badal Hajj and Umrah management system is an innovative solution designed to facilitate and simplify the registration and handling bulk data process for the management of the company. The system leverages cutting-edge technologies and best practices to deliver a seamless user experience that enables client to easily register their information using the system and can get the all document needed in short period of time. For the user experience in the management side, they can easiy monitor and handle bulk data without losing or overlooked the client information. Key features of this system include real-time processed document, automatic data handling and management and real-time payment. Ultimately, our badal hajj and umrah management system will deliver measurable value to all stakeholders, including increased in client satisfactory, improved workflow of the management and enhanced managing bulk data. By investing in this system, the company will have a smooth and better workflow thus increase the efficiency of the company.
@@ -51,6 +60,8 @@ Overall, these SMART objectives are specific, measurable, achievable, relevant, 
 The system will allow user to create an account and and make the registration for the hajj or umrah ,user will fill in the important information such as full name, age, address, contact number and more. This system also will be included the section for health information to know the applicants health status for the screening process by those responsible managing the registrations.Some limitations for this project is the security part which the system need to be achieve a certain security stndard to protect those informations and prevent from any breach or unauthorized access.Other than that, the project need to be completed on time or it will affect the success of the project.
 
 ### 5. Software Process Model:
+The Agile Model is an iterative and incremental approach to software development that emphasizes flexibility, collaboration, and rapid delivery of working software. In this model, requirements and solutions evolve through the collaborative effort of cross-functional teams and end-users.
+
 1. Planning: In the planning phase, the project team will define the project scope, goals, and objectives. This will include identifying the features and functionalities required for the system, and prioritizing them based on their importance to end-users. The team will also define the project timeline and identify the resources required to execute the project.
 
 2. Requirements Gathering: In the requirements gathering phase, the team will work closely with stakeholders to identify the system requirements. This will involve gathering input from end-users, stakeholders, and subject matter experts to ensure that the system meets the needs of all stakeholders. The requirements will be documented and prioritized based on their importance and feasibility.
@@ -116,7 +127,35 @@ We could prevent this risk from happening by :-
 5. Develop an emergency plan to deal with the requirements issue as the problems might occur and the developing process will not be delay.
 
 ### 9. Resources:
-- Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
+
+Resources divided into 4 different types which are staff,equipment,software and other expenses
+
+#### Staff :
+
+1.Project manager : responsible for managing and look over the project progression from time to time, following the criteria and will be done on the time given.
+
+2.Software developer : responsible for developing the system following the requirements given, the software developer must be someone that have the ability to work in a team and follow instructions and have a good communication skills.
+
+3.Database administrator: responsible for designing the database architecture and define the data structure,mainly dealing with the applicants data,to store those data of registration information. They also responsible to set up a data backup and recovery plan to protect aginst any issues regarding data such as data loss.
+
+4.QA engineer : responsible for testing the app before being delivered to user to check the functionality and the requirements as it need to meet the requirements that have been discussed.
+
+#### Equipment : 
+1.Computers or laptops with suitable specifications for better rendering
+
+#### Software : 
+
+1. Visual Studio Code as a main IDE
+
+2.Data visualization tools which are Power BI or Tableau
+
+3.Github and Git as editing and storing code place
+
+#### Other expenses : 
+
+1. Cloud storage for extra storage
+
+2. Emergency fund 
 
 ### 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
@@ -125,15 +164,63 @@ We could prevent this risk from happening by :-
 - Explain the data security measures that will be implemented.
 
 ### 11. Timeline and Deliverables: 
-- Provide a detailed timeline for the project, including milestones and deadlines.
-- Specify the deliverables that will be provided at each milestone. It should also specify the expected time frame for each deliverable and the resources that will be required to complete the project.
-- Explain the quality assurance and testing procedures that will be followed.
+<ul>
+<li><h3>Phase 1: Project Planning and Requirements Gathering</h3></li>
+<ul>
+<li><h4>Milestone 1: Project plan and system design completed (Deadline: end of Month 2)</h4></li>
+<ul>
+<li>Deliverables: Project plan, system architecture diagram and user requirements report</li>
+<li>Expected duration: 2 month</li>
+<li>Resources required: Project manager, Software developers, UI/UX designers</li>
+</ul>
+</ul>
+
+<li><h3>Phase 2: System design and Development</h3></li>
+<ul>
+<li><h4>Milestone 2: Design system architecture and user interface (Deadline: end of Month 6)</h4></li>
+<ul>
+<li>Deliverables: Login/registration system, dashboard, feedback forms, and data management system</li>
+<li>Expected duration: 4 months</li>
+<li>Resources required: Software developers, database administrators</li>
+</ul>
+</ul>
+
+<li><h3>Phase 3: Testing and Quality Assurance</h3></li>
+<ul>
+<li><h4>Milestone 3: Perform system integration testing,acceptance testing, unit testing and debugging (Deadline: end of Month 9)</h4></li>
+<ul>
+<li>Deliverables: Quality assurance (QA) report,unit testing report,system integration and acceptance testing report and bug fixes</li>
+<li>Expected duration: 3 months</li>
+<li>Resources required: Quality assurance team, software developers</li>
+</ul>
+</ul>
+
+<li><h3>Phase 4: User Acceptance Testing and Deployment</h3></li>
+<ul>
+<li><h4>Milestone 4: Perform user acceptance testing and deploy system (Deadline: end of Month 11)</h4></li>
+<ul>
+<li>Deliverables: User acceptance testing (UAT) report, system deployment, and user manual</li>
+<li>Expected duration: 2 months</li>
+<li>Resources required: Quality assurance team, software developers, project manager</li>
+</ul>
+</ul>
+
+<li><h3>Phase 5: Project Closure and Handover</h3></li>
+<ul>
+<li><h4>Milestone 5: Project closed and system handed over to the company (Deadline: end of Month 12)</h4></li>
+<ul>
+<li>Deliverables: Final project report, source code, and system documentation</li>
+<li>Expected duration: 1 month</li>
+<li>Resources required: Project manager, software developers, documentation team</li>
+</ul>
+</ul>
+</ul>
+ 
+
+#### 
 
 ### 12. Conclusion:
-- Conclude your proposal with a call to action, highlighting the benefits of your proposed solution and urging the decision-makers to take action.
-- Summarize the proposal and reiterate the importance of the project.
-- Mention any potential limitations or challenges that may arise during the project.
-- Provide a call to action for the client to approve the proposal and proceed with the project.
+The Badal Hajj system aids the company in the registration process of the clients and reduce the duration taken for the registration process where most of the process is done through the system that provides better management of bulk data. The system will also help the company to reduce the error throughout the registartion process as the system apllies auto data-handling principle. The proposal of Badal Hajj system is constructed based on thorough analysis and reasonable budget planning which helps to create a successful system that provides many benefits to both party which are the company and the clients.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

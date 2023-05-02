@@ -38,6 +38,9 @@
 - To enhance the overall student experience by providing a modern, user-friendly interface for grading and record-keeping, improving engagement and satisfaction with the university's academic processes.
 
 ### 4. Scope: 
+<img src="https://user-images.githubusercontent.com/128279581/235497036-561d13d0-1bf0-4de7-b042-b2b3a10bdd1e.png" alt="Scope"></img>
+
+
 - User Authentication: The system should allow instructors and students to authenticate themselves using their UTM credentials.
 - Grading Management: The system should allow instructors to create and manage grading components, such as assignments, quizzes, and exams, and assign grades to       
   students for each component.
@@ -53,9 +56,61 @@
 This section describe the ideal software process model for this system development. The write-up must consist of:
 - The goal of the software process model is to provide a systematic and structured approach to software development that maximizes efficiency, reduces risk, and improves the overall quality of the UTM online grading system.
 - For the UTM online grading system, the ideal software process model would be the iterative and incremental model. The iterative and incremental model is a flexible and adaptable approach that involves a series of iterations, each consisting of planning, designing, developing, testing, and delivering phases. This model is ideal for projects where requirements are likely to change or evolve, as it allows for flexibility and adaptability.
-- The illustration of chosen software process model that relates to your project and shows every phase involved in the chosen software process model
-- Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. 
-- It should also describe the testing methodologies, project management practices, and quality assurance processes.
+<br></br>
+**Here's an illustration of the Incremental Model for the development of UTM Grading System:**
+
+1.Planning: In this phase, the project team meets with stakeholders to define the project scope, requirements, and timelines. The deliverables in this phase can include a project plan, requirements specification document, and project schedule.
+
+2.Requirements: In this phase, the project team identifies and documents the functional and non-functional requirements of the grading system. The deliverables in this phase can include a requirements document, use cases, and user stories.
+
+3.Design: In this phase, the project team creates a detailed design for the grading system. This includes designing the user interface, database schema, and system architecture. The deliverables in this phase can include wireframes, system architecture documents, and database schema documents.
+
+4.Implementation: In this phase, the project team develops and implements the grading system. The development is done in small increments or modules, with each module developed and tested separately. The deliverables in this phase can include source code, unit test cases, and user documentation.
+
+5.Integration: In this phase, the developed modules are integrated and tested to ensure that they work together as expected. The deliverables in this phase can include integration test cases and test reports.
+
+6.Deployment: In this phase, the grading system is deployed to the production environment. The deliverables in this phase can include deployment plans, user manuals, and training materials.
+
+7.Maintenance: In this phase, the grading system is maintained to ensure that it continues to function as expected. The deliverables in this phase can include maintenance plans, bug reports, and system documentation.
+
+For testing methodologies, unit testing can be used to test each module of the grading system individually to ensure that it is working as expected. Integration testing can then be used to test the integration of the modules to ensure that they are working together correctly. System testing can be used to test the system as a whole to ensure that it meets the specified requirements, and acceptance testing can be used to verify that the grading system meets the user's needs.
+
+For project management practices, Agile or Scrum can be used to help manage the project. These methodologies involve breaking down the development process into smaller sprints or iterations, which helps to improve collaboration between team members and allows for more flexibility in adapting to changing requirements. Project management tools such as Jira, Trello, or Asana can be used to track progress and assign tasks.
+
+In terms of quality assurance processes, code reviews and software inspections can be used to ensure the quality of the code. This involves reviewing the code for errors or defects, ensuring that it adheres to coding standards, and making any necessary improvements. Automated testing tools such as Selenium or JUnit can also be used to automate testing and reduce the risk of human error.
+
+A Gantt chart or any suitable project management tool can be used to help plan and track progress throughout the development process. This will help to ensure that the project stays on schedule and that all tasks are completed as planned.
+```sql
+
+example of grantt chart based on our project:
+-----------------------------------------------------------------------------------------------------------------------
+| Phase         | Task                                                            | Start Date | End Date  | Duration |
+| ------------- | ----------------------------------------------------------------| ---------- | ----------| -------- |
+| Planning      | Meet with stakeholders                                          | 2023-05-10 | 2023-05-17| 1 week   |
+| Planning      | Define project scope, requirements, and timelines               | 2023-05-18 | 2023-05-24| 1 week   |
+| Planning      | Create project plan, requirements spec, and schedule            | 2023-05-25 | 2023-06-07| 2 weeks  |
+-----------------------------------------------------------------------------------------------------------------------
+| Requirements  | Identify and document functional and non-functional req.        | 2023-06-08 | 2023-06-21| 2 weeks  |
+| Requirements  | Create requirements document, use cases, and user stories       |2023-06-22  |2023-07-05 |2 weeks   |
+-----------------------------------------------------------------------------------------------------------------------
+| Design        | Design user interface, database schema, and system arch.        | 2023-07-06 | 2023-07-26| 3 weeks  |
+| Design        | Create wireframes, system architecture docs, and DB schema docs | 2023-07-27 | 2023-08-09| 2 weeks  |
+-----------------------------------------------------------------------------------------------------------------------
+| Implementation| Develop and implement grading system modules                    | 2023-08-10 | 2023-10-04| 8 weeks  |
+| Implementation| Develop and test modules separately                             | 2023-08-10 | 2023-10-04| 8 weeks  |
+| Implementation| Create source code, unit test cases, and user doc.              | 2023-10-05 | 2023-10-18| 2 weeks  |
+-----------------------------------------------------------------------------------------------------------------------
+| Integration   | Integrate and test developed modules                            | 2023-10-19 | 2023-11-01| 2 weeks  |
+| Integration   | Ensure modules work together as expected                        | 2023-10-19 | 2023-11-01| 2 weeks  |
+-----------------------------------------------------------------------------------------------------------------------
+| Deployment    | Deploy grading system to production environment                 | 2023-11-02 | 2023-11-15| 2 weeks  |
+| Deployment    | Create deployment plans, user manuals, and training mat.        | 2023-11-02 | 2023-11-15| 2 weeks  |
+-----------------------------------------------------------------------------------------------------------------------
+| Maintenance   | Maintain grading system to ensure it functions as expected      | 2023-11-16| 2024-05-31| 26 weeks  |
+| Maintenance   | Create maintenance plans, bug reports, and system docs.         | 2023-11-16| 2024-05-31| 26 weeks  |
+-----------------------------------------------------------------------------------------------------------------------
+```
+
 
 ### 6. Budget:
 The development of the academic course registration system for 30,000 users within a year will involve various costs, including hardware, software, contigency, and testing. The budget for this project is estimated at **RM 315,000**, as outlined below:
@@ -82,14 +137,73 @@ This includes the cost of rent for office space, utilities, marketing and advert
 In conclusion, the estimated budget for the development of the UTM Event Management System is RM 315,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingency. Any changes in the budget will be communicated to stakeholders and project sponsors.
 
 ### 7. System Architecture:
-- Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
-- Explain how the data will be stored, managed, and analyzed, as well as the hardware and software requirements needed to support the system.
-- Discuss the tools and frameworks that will be used for data visualization and analysis.
+- Overview:
+The UTM Grading System will be a web-based application that allows lecturers to input, manage, and analyze grades for their courses. The system will be designed to be scalable and flexible, allowing for future updates and enhancements. The system will be built using modern web technologies and frameworks to ensure compatibility, security, and ease of maintenance.
+- Data Storage and Management:
+The UTM Grading System will utilize a Relational Database Management System (RDBMS) to store and manage data. The database will be hosted on a dedicated database server that will be accessed by the web server hosting the application. The database schema will be designed to optimize data retrieval and ensure data integrity. Data backups will be regularly performed to ensure data security.
+- The proposed system architecture for the event management system will be a web-based system built using modern technologies and frameworks. The system will use the following tools and technologies:
+
+- Programming languages: HTML, CSS, JavaScript, PHP
+- Frameworks: Laravel, Bootstrap
+- Database: MySQL
+- Server: Apache
+- Data Visualization: Chart.js
+The system will have a multi-tier architecture consisting of a presentation layer, application layer, and data layer. The presentation layer will be responsible for displaying the user interface and handling user interactions. The application layer will be responsible for implementing the business logic of the system and handling user requests. The data layer will be responsible for storing and managing data.
 - Provide a flowchart or block diagram of the system architecture.
 
+- Flowchart:
+ 
+```sql
+    
++---------------------+       +------------------------+       +-----------------------+
+|                     |       |                        |       |                       |
+| Presentation Layer  +------->     Application Layer   +------->      Data Layer      |
+|                     |       |    (Laravel Framework)  |       |    (MySQL, RDBMS)    |
++---------------------+       +------------------------+       +-----------------------+
+```
+
+
+- Block Diagram: 
+          
+```sql
+               +------------------+
+               |     Web Server   |
+               |   (Apache, PHP)  |
+               +------------------+
+                        |
+                        |
+               +------------------+
+               |   Application    |
+               |   (Laravel)      |
+               +------------------+
+                        |
+                        |
+               +------------------+
+               |  Database Server |
+               |  (MySQL, RDBMS)  |
+               +------------------+
+                        |
+                        |
+               +------------------+
+               |     Database     |
+               +------------------+
+
+```
 ### 8. Risks Assessment:
-- The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
-- It should also describe the plans and strategies to mitigate those risks.
+Risk assessment is an essential part of any software development project, and the UTM Grading System project is no exception. The following is a risk assessment and management plan for the project.
+#### 1. Technical Challenges: 
+The development team will conduct a thorough analysis of the technical requirements of the system and assess the feasibility of the proposed solution. The team will also conduct regular code reviews and testing to identify and address any technical challenges promptly.
+
+#### 2. Resource constraints: 
+The project manager will monitor the project budget and schedule regularly to ensure that resources are allocated effectively. The project manager will also identify any personnel shortages or hardware/software limitations and take appropriate action.
+
+#### 3. Changes in project requirements: 
+The development team will conduct regular stakeholder meetings to review project requirements and identify any changes. The team will also document all changes and assess their impact on the project timeline and budget.
+
+#### 4. Security breaches: 
+The development team will follow industry best practices for data security, including encryption of sensitive data, regular security audits, and penetration testing. The team will also implement security protocols and procedures to prevent unauthorized access to the system.
+#### 5. Server Downtime: 
+The development team will implement a backup and recovery plan to minimize the impact of server downtime. The team will also work with the hosting provider to ensure that the server is maintained and updated regularly to minimize the risk of downtime.
 
 ### 9. Resources
 #### Staff
@@ -196,13 +310,52 @@ By implementing these data security measures, the online grading system can ensu
 
 
 ### 11. Timeline and Deliverables: 
-- Provide a detailed timeline for the project, including milestones and deadlines.
-- Specify the deliverables that will be provided at each milestone. It should also specify the expected time frame for each deliverable and the resources that will be required to complete the project.
-- Explain the quality assurance and testing procedures that will be followed.
+1. **Milestone 1: Project Planning and Requirements Gathering**
+- Deadline: Week 1-2
+<ul>Deliverables:
+
+   - Project plan and timeline
+   - Requirements document
+   - Resource allocation plan</ul>
+ 
+2. **Milestone 2: Data Collection and Preparation**
+- Deadline: Week 3-4
+<ul>Deliverables:
+   
+- Data sources identified and collected
+- Data cleaning and preprocessing scripts
+- Documented data schema</ul>
+   
+3. **Milestone 3: Data Analysis and Modeling**
+- Deadline: Week 5-8
+<ul>Deliverables:
+   
+- Exploratory data analysis report
+- Machine learning models developed and trained
+- Model validation and evaluation report</ul>
+
+4. **Milestone 4: Data Visualization and Reporting**
+- Deadline: Week 9-10
+<ul>Deliverables:
+   
+   - Data visualization dashboards and reports
+   - Final project report
+   - Presentation slides
+   - Quality Assurance and Testing Procedures:
+      1. Code review and testing will be conducted throughout the development process to ensure high-quality code.
+      2. Unit testing will be performed to verify the functionality of individual components.
+      3. Integration testing will be conducted to test the integration of various components.
+      4. User acceptance testing will be performed to ensure the system meets the requirements and is user-friendly.
+      5. Automated testing scripts will be developed and executed to ensure the system is functioning as expected.
+      6. Data quality assurance procedures will be implemented to ensure data accuracy and completeness.
+      7. Security testing will be performed to identify and mitigate any security vulnerabilities.
+      8. All deliverables will be reviewed and approved by the project stakeholders before being considered complete.
+</ul>
 
 ### 12. Conclusion:
-- Conclude your proposal with a call to action, highlighting the benefits of your proposed solution and urging the decision-makers to take action.
-- Summarize the proposal and reiterate the importance of the project.
-- Mention any potential limitations or challenges that may arise during the project.
-- Provide a call to action for the client to approve the proposal and proceed with the project.
+- The UTM Online Grading System is a much-needed solution to the challenges of the current manual grading system. By implementing an online platform, UTM can automate its grading processes, streamline communication between teachers and students, and enhance the overall learning experience. This proposed solution aligns with the university's goal of providing a modern and innovative education experience for its students.
+
+- We understand that implementing such a system may come with some challenges, including resistance to change and technical difficulties. However, we are confident in our ability to deliver a high-quality system within the proposed timeline and budget.
+
+- We urge the stakeholders to approve this proposal and take action towards the implementation of the UTM Online Grading System. With this system in place, UTM will enjoy improved efficiency, increased accuracy, and enhanced transparency in grading processes. We believe that this project will have a significant positive impact on the university, its teachers, and students.
 

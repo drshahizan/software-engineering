@@ -142,26 +142,22 @@ The major objectives of building a student engagement website for Faculty Comput
 </ol>
 
 ### 5. Software Process Model:
-
-The <b>waterfall model</b> is a linear, sequential approach to software development that involves distinct phases, such as requirements gathering, design, implementation, testing, and maintenance. This model is particularly suitable for student engagement systems that have well-defined requirements and a clear understanding of the system's functionality.
-<br>
-Here is how the waterfall model can be applied to the development of a student engagement system:
+<img src="agile.png">
+A software process model for a student engagement system refers to a set of activities and phases that are used to design, develop, test, and maintain the software system. It provides a framework for organizing the software development process and helps to ensure that the final product meets the requirements and needs of the stakeholders.
+<br><br>
+The <b>Agile software process model</b> is an ideal process model for student engagement system. It is a software process model that emphasizes iterative and incremental development, flexibility, and collaboration between team members and stakeholders. It is particularly suitable for projects where the requirements are likely to evolve over time, such as a student engagement system.
+<br><br>
+Here is the phases of agile model that can be applied to the development of a student engagement system:
 <br>
 <ol>
-  <li>Requirements gathering:</li>
-   In this stage, the requirements of the student engagement system are gathered from stakeholders such as students, lecturers, JKM and MPP. This stage involves identifying the features, functionalities, and specifications that the system should possess.
-  <li>System design:</li>
-   In this stage, the system is designed based on the requirements gathered in the previous stage. The design phase involves creating a plan for how the system will be developed and implemented.
-  <li>Implementation:</li>
-   In this stage, the system is developed according to the design specifications. The coding and programming phase of development takes place in this stage, and the software is built as per the requirements identified in the previous stages.
-  <li>Testing:</li>
-   In this stage, the system is tested to ensure that it meets the requirements and functions as expected. The testing phase involves performing functional testing, performance testing, and usability testing to ensure that the system meets the required quality standards.
-  <li>Deployment:</li>
-   In this stage, the system is deployed to the production environment. The deployment phase involves ensuring that the system is installed and configured correctly in the production environment and that all the necessary documentation and training materials are provided.
-  <li>Maintenance:</li>
-   In this stage, the system is maintained and supported over its entire lifecycle. This includes providing ongoing support to users, fixing bugs and issues, and making updates and enhancements to the system as needed.
-
-The waterfall model provides a structured approach to software development, which makes it a suitable process model for student engagement systems. It ensures that the requirements are well understood, and the design and implementation of the system are done in a phased manner. However, the main disadvantage of this model is that it is not suitable for projects that require a high degree of flexibility or for those where requirements may change over time.
+  <li>Planning: In this phase, the project team identifies the project's objectives, timelines, and available resources. The team creates a backlog of features and user stories, prioritizes them, and estimates their effort.</li>
+  <li>Analysis and Design: In this phase, the team analyzes and designs the software architecture, database design, and user interface. The team also identifies dependencies, risks, and assumptions.</li>
+  <li>Development: In this phase, the team develops the software incrementally in short iterations called sprints. Each sprint typically lasts two to four weeks, and the team develops and tests a small set of features. The team collaborates daily and continuously reviews the product backlog to adjust the priorities and scope.</li>
+  <li>Testing: In this phase, the team performs testing continuously throughout the development process. The team writes automated unit tests, integration tests, and acceptance tests to ensure the software meets the requirements.</li>
+  <li>Deployment: In this phase, the team deploys the software to the production environment. The team releases the software incrementally, and each release includes a set of tested features.</li>
+  <li>Maintenance: In this phase, the team maintains the software by fixing defects, adding new features, and improving the system's performance. The team continuously receives feedback from users and stakeholders to improve the system further.</li>
+</ol>
+<br>
 
 ### 6. Budget:
 The development of a student engagement system for approximately 40,000 students will involve various costs, including hardware, software, personnel, testing, and contingency. The budget for this project is estimated at **RM 4,000,000**, as outlined below:
@@ -267,16 +263,13 @@ Block Diagram:
 ```  
 
 ### 8. Risks Assessment:
-[- The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
-- It should also describe the plans and strategies to mitigate those risks.]
-
 | Potential Risks | Plan / Strategies |
 | ------------- | ------------- |
 | *Technical challenges* - There may be technical challenges realated to coding, server management, website security, and also database management. These challenges could result in delays, additional costs, or errors in the website's functionality. |1. Conduct a thorough analysis of the website's technical requirements and ensure that the team has the necessary skills and expertise to handle technical challenges. <br>2.  Develop a contingency plan for potential technical issues that could impact the project timeline and budget.|
-| *Resource constraints* - This project may require significant resources in terms of time, money, and personnel. Resource constriants sich as a lack of funding could impact the project's timeline or quality. | 1. Making a plan to allocate resources efficiently and prioritize tasks based on thier importance to the project's success. <br>2. onsider an alternative approaches such as outsourcing or partnering with other organizations to supplement resources. |
-| *Changes in project requirements* - It may change over time, such as addition of new features or changes in the website's design or target audience. This changes could result in additional costs and delays as our team adjusts the project plan. | 1. Communicate changes effectively with the all stakeholders and assess the impact of changes on the project timeline and budget. <br>2. eview and update the project plan regularly to ensure it remains aligned with the project requirements. |
-| *Cybersecurity risks* - A student engagement website may collect sensitive information such as students' email, course information, and address. Cybersecurity risks such as hacking or data breaches could compromise this information and harm the reputation of our project and the institution.| 1. Develope and implement cybersecurity measures to protect the website and user data<br>2. onduct regular vulnerability assessments<br>3. ddress any security issue promptly can make sure user's information stay protected. |
-| *user adoption* - If students and faculty do not use the website as intended, this project may fail to meet the goals. | 1. Conduct user testing and gather feedback throughout the development process.<br>2. Promote and provide support to encourage user adoption and address any ussues that arise. |
+| *Resource constraints* - This project may require significant resources in terms of time, money, and personnel. Resource constriants sich as a lack of funding could impact the project's timeline or quality. | 1. Making a plan to allocate resources efficiently and prioritize tasks based on thier importance to the project's success. <br>2. Consider an alternative approaches such as outsourcing or partnering with other organizations to supplement resources. |
+| *Changes in project requirements* - It may change over time, such as addition of new features or changes in the website's design or target audience. This changes could result in additional costs and delays as our team adjusts the project plan. | 1. Communicate changes effectively with the all stakeholders and assess the impact of changes on the project timeline and budget. <br>2. Review and update the project plan regularly to ensure it remains aligned with the project requirements. |
+
+<b>Our team is committed to ensuring the safe and successful execution of this project. We will take all necessary measures and precautions to mitigate potential risks and ensure that all aspects of the project are carefully managed and monitored.</b>
 
 ### 9. Resources:
 - Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
@@ -291,7 +284,6 @@ Block Diagram:
       + Computers and laptops for the project team
       + Servers and hosting services for the website
       + Internet connectivity
-      + Printing and stationery supplies
   3. Software:
       + Web development software such as HTML, CSS, JavaScript, and PHP
       + Content management system (CMS) software such as WordPress or Drupal
@@ -342,28 +334,28 @@ To ensure data security and privacy, access to the data will be restricted to au
         <th>Deliverable</th>
     </tr>
     <tr>
-        <td>Planning and Design (1 month)</td>
+        <td>Implementation (Week 8 - 13)</td>
         <td>
             <ul>
-                <li>Define project scope and objectives</li>
-                <li>Create a project plan and timeline</li>
-                <li>Develop a system architecture and data schema</li>
-                <li>Identify data sources and data transformations</li>
-                <li>Specify the machine learning algorithms to be used</li>
+                <li>Implement the system architecture and data schema</li>
+                <li>Develop the data transformation scripts</li>
+                <li>Implement the machine learning algorithms</li>
+                <li>Build the user interface and data visualization tools</li>
+                <li>Perform integration testing</li>
             </ul>
         </td>
         <td>
             <ul>
-                <li>Project scope and objectives document</li>
-                <li>Project plan and timeline document</li>
-                <li>System architecture and data schema document</li>
-                <li>Data sources and data transformations document</li>
-                <li>Machine learning algorithms specification document</li>
+                <li>System architecture and data schema implementation</li>
+                <li>Data transformation scripts implementation</li>
+                <li>Machine learning algorithms implementation</li>
+                <li>User interface and data visualization tools implementation</li>
+                <li>Integration testing report</li>
             </ul>
         </td>
     </tr>
     <tr>
-        <td>Implementation (3 months)</td>
+        <td>Testing and Deployment (From Week 14)</td>
         <td>
             <ul>
                 <li>Implement the system architecture and data schema</li>

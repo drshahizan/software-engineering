@@ -53,10 +53,10 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provides idea for design, functionality, content, compliance, and provides training and support.</td>
   </tr>
     <tr>
-    <td>2. Puan Nazlin</td>
+    <td>2. Puan Nazlin binti Ali</td>
     <td>Administrator</td>
-    <td>Administrative Assistant</td>
-    <td></td>
+    <td>Administrative Officer</td>
+    <td>Provides idea for design, functionality, content, compliance, and provides training and support.</td>
   </tr>
     <tr>
     <td>3</td>
@@ -71,7 +71,7 @@ Don't forget to hit the :star: if you like this repo.
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2| | | | | 
+| 2| 01/05/2023| All Group Members| | Assign Task | Complete | 
 | 3| | | | | 
 | 4| | | | | 
 | 5| | | | | 

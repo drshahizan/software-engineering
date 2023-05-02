@@ -13,27 +13,33 @@ Don't forget to hit the :star: if you like this repo.
 ## Group Members
 <table>
   <tr>
+    <th>No.</th>
     <th>Name</th>
     <th>Role</th>
   </tr>
   <tr>
-    <td>1 Yong Wern Jie</td>
-    <td>Requirement Analyst</td>
+    <td>1.</td>
+    <td>Yong Wern Jie</td>
+    <td>Project Manager</td>
   </tr>
   <tr>
-    <td>2 Marcus Joey Sayner</td>
+    <td>2.</td>
+    <td>Marcus Joey Sayner</td>
     <td>Software Developer</td>
   </tr>
   <tr>
-    <td>3 Lim Jing Yong</td>
+    <td>3.</td>
+    <td>Lim Jing Yong</td>
     <td>Documentation Specialist</td>
   </tr>
   <tr>
-    <td>4 Soh Han Wei</td>
-    <td>Requirement Gatherer</td>
+    <td>4.</td>
+    <td>Soh Han Wei</td>
+    <td>Requirement Analyst</td>
   </tr>
   <tr>
-    <td>5 Lee Soon Der</td>
+    <td>5.</td>
+    <td>Lee Soon Der</td>
     <td>User Experience Designer</td>
   </tr>
 </table>
@@ -47,22 +53,22 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td>1 </td>
     <td>Student</td>
     <td></td>
-    <td>Act as the user of our system</td>
+    <td>Actively participate in the development and testing of the Student Feedback System, providing feedback and suggestions to ensure that the system meets their needs and requirements.</td>
   </tr>
     <tr>
-    <td>2</td>
+    <td>2 </td>
+    <td>Faculty Staff</td>
     <td>Lecturer</td>
-    <td></td>
-    <td></td>
+    <td>Providing input and feedback on the design and functionality of the Student Feedback System, and to use the feedback data to improve teaching and learning outcomes.</td>
   </tr>
     <tr>
-    <td>3</td>
+    <td>3 </td>
     <td>Academic Office Staff</td>
     <td></td>
-    <td></td>
+    <td>Providing feedback on the proposal, ensuring compliance with university policies and procedures, and facilitating the implementation and rollout of the system.</td>
   </tr>
 </table>
 
@@ -70,11 +76,12 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/01/2023 | Dr MSO | Project Manager | Create project plan | Complete |
-| 2 | 01/05/2023 | LIM JING YONG | Documentation Specialist | General Planning of Workflow | Partially Complete | 
-| 3| | | | | |
-| 4| | | | | |
-| 5| | | | | |
+| 1. | 30/04/2023 | Yong Wern Jie | Project Manager |  Create Project Plan | Complete |
+| 2. | 01/05/2023 | Lee Soon Der | Designer  | Create system architecture design | Partially Incomplete |
+| 3. | 01/05/2023 | Lim Jing Yong | Documentation Specialist | Create Software Documentation | Partially Complete | 
+| 4. | 01/05/2023 | Soh Han Wei | Requirement Analyst | Gather User Requirements | Partially Complete |
+| 5. | 01/05/2023 | Marcus Joey Sayner | Software Developer | Researching, designing, implementing, and managing software programs | Incomplete |
+
 
 
 ## Contribution 🛠️
