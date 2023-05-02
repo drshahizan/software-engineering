@@ -454,34 +454,34 @@ IV. Other Expenses:<br>
       <td rowspan="2">1st Month</td>
       <td>Establishment of collaboration with the stakeholders and IT department(1 week)</td>
       <td>Having online interviewing session and face-to-face interviewing session with stakeholders: KTDI staff, resident and the other stakeholders.</td>
-      <td>Project manager, software engineer, stakeholder</td>
+      <td>Project developer, requirements analyst, documentation specialist, quality assurance analyst, stakeholder</td>
     </tr>
     <tr>
       <td>Development of KTDI housing system prototype(4 weeks)</td>
       <td>User guide and training materials, automated housing allocation system prototype.</td>
-      <td>Project manager, software engineer, testing/debugging team, project budget.</td>
+      <td>Project developer, UI/UX system designer, IT support, project budget.</td>
     </tr>
   <tr>
   <td rowspan="2">2nd Month</td>
   <td>Implementation of the KTDI housing system(1 week)</td>
   <td>Fully developed housing system, project progress report.</td>
-  <td>Project manager, software engineer, project budget.</td>
+  <td>IT support, stakeholder, project budget.</td>
   <tr>
   <td>Maintenance tracking phase(4 weeks)</td>
   <td>Client bug report system, project progress report</td>
-  <td>Project manager, stackholder, software engineer, project budget </td>
+  <td>Project developer, UI/UX system designer, IT support, project budget.</td>
   </tr>
   
 <tr>
   <td rowspan="2">3rd Month </td>
   <td>User satisfactory with KTDI housing system(2 weeks)</td>
   <td>Student satisfaction survey report, project progress report.</td>
-  <td>Project manager, stackholder, survey team, project budget.</td>
+  <td>Project developer, IT support, stakeholder, project budget.</td>
 </tr>
 <tr>
   <td>Improvement and enhancement towards KTDI housing system based on user satisfactory(3 weeks)</td>
   <td>Improved housing system, user guide, and training materials.</td>
-  <td>Project manager, software engineer, survey team, project budget.</td>
+  <td>Project developer, UI/UX system designer, IT support, project budget.</td>
 </tr>
   </tbody>
 </table>
