@@ -81,10 +81,6 @@ a three tier architecture which organises applications into three logical and ph
 - **application tier** that processes user requests and updates the price and number of days to be processed. By using a framework like Flask or Express.js for building RESTful APIs with a server-side language such as Node.js or Python.
 - **data tier** that will store and manage all the rental data. Depending on the requirements of the system, relational database management system (RDBMS) like MySQL or PostgreSQL, or MongoDB(a NoSQL database) 
 
-
-- Explain how the data will be stored, managed, and analyzed, as well as the hardware and software requirements needed to support the system.
-- Discuss the tools and frameworks that will be used for data visualization and analysis.
-- Provide a flowchart or block diagram of the system architecture.
 Explain how the data will be stored, managed, and analyzed, as well as the hardware and software requirements needed to support the system.
 #### Data Storage, Management and Analysis
 For this system, the data tier will be responsible to store and manage the database management system of the rental data . As data integrity, security, and scalability is extremely important, the database will be designed. Tools and frameworks like Python's pandas library or R programming language that is capable of analysing and visualising data will be used to implement data analysis.
@@ -96,7 +92,7 @@ As for the software and hardware requirements that are needed to support this sy
 
 Discuss the tools and frameworks that will be used for data visualization and analysis.
 #### Tools and Frameworks
-This college rental system will use various tools and frameworks. For Example to Handle user interface, design tools such as HTML, CSS and JavaScript will be used.
+This college rental system will use various tools and frameworks. For Example to Handle user interface, design tools such as HTML, CSS and JavaScript will be used.Moreover, Frameworks like React that is a front-end JavaScript framework or Angular that can build single-page client applications using HTML and TypeScript might be used.
 
 
 Provide a flowchart or block diagram of the system architecture.
