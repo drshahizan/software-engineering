@@ -69,10 +69,28 @@ This section describe the ideal software process model for this system developme
 - The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
 
 ### 7. System Architecture:
-- Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
-- Explain how the data will be stored, managed, and analyzed, as well as the hardware and software requirements needed to support the system.
-- Discuss the tools and frameworks that will be used for data visualization and analysis.
-- Provide a flowchart or block diagram of the system architecture.
+## Presentation Layer:
+User interface design (HTML, CSS, JavaScript)
+Content management system (CMS) for managing website content
+Accessibility features to ensure the website is accessible to users with disabilities
+Responsive design for optimal display on various devices and screen sizes
+## Application Layer:
+Web server (e.g. Apache, Nginx)
+Web application framework (e.g. Django, Ruby on Rails)
+Business logic and data processing code
+Integration with external services (e.g. appointment scheduling, health records)
+
+## Data Layer:
+Relational database management system (e.g. MySQL, PostgreSQL)
+Data schema design and management
+Data access layer (e.g. Object Relational Mapping)
+## Security Layer:
+SSL/TLS encryption
+User authentication and authorization mechanisms (e.g. OAuth2, LDAP)
+Access control and permission management
+Logging and monitoring for detecting and responding to security incidents
+
+
 
 ### 8. Risks Assessment:
 
