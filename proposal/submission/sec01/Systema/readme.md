@@ -142,6 +142,7 @@ The major objectives of building a student engagement website for Faculty Comput
 </ol>
 
 ### 5. Software Process Model:
+<img src="agile.png">
 A software process model for a student engagement system refers to a set of activities and phases that are used to design, develop, test, and maintain the software system. It provides a framework for organizing the software development process and helps to ensure that the final product meets the requirements and needs of the stakeholders.
 <br><br>
 The <b>Agile software process model</b> is an ideal process model for student engagement system. It is a software process model that emphasizes iterative and incremental development, flexibility, and collaboration between team members and stakeholders. It is particularly suitable for projects where the requirements are likely to evolve over time, such as a student engagement system.
