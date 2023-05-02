@@ -271,6 +271,8 @@ Block Diagram:
 | *Resource constraints* - This project may require significant resources in terms of time, money, and personnel. Resource constriants sich as a lack of funding could impact the project's timeline or quality. | 1. Making a plan to allocate resources efficiently and prioritize tasks based on thier importance to the project's success. <br>2. onsider an alternative approaches such as outsourcing or partnering with other organizations to supplement resources. |
 | *Changes in project requirements* - It may change over time, such as addition of new features or changes in the website's design or target audience. This changes could result in additional costs and delays as our team adjusts the project plan. | 1. Communicate changes effectively with the all stakeholders and assess the impact of changes on the project timeline and budget. <br>2. eview and update the project plan regularly to ensure it remains aligned with the project requirements. |
 
+<b>Our team is committed to ensuring the safe and successful execution of this project. We will take all necessary measures and precautions to mitigate potential risks and ensure that all aspects of the project are carefully managed and monitored.</b>
+
 ### 9. Resources:
 - Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
 
