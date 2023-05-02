@@ -80,7 +80,36 @@ For project management practices, Agile or Scrum can be used to help manage the 
 In terms of quality assurance processes, code reviews and software inspections can be used to ensure the quality of the code. This involves reviewing the code for errors or defects, ensuring that it adheres to coding standards, and making any necessary improvements. Automated testing tools such as Selenium or JUnit can also be used to automate testing and reduce the risk of human error.
 
 A Gantt chart or any suitable project management tool can be used to help plan and track progress throughout the development process. This will help to ensure that the project stays on schedule and that all tasks are completed as planned.
+```sql
 
+example of grantt chart based on our project:
+-----------------------------------------------------------------------------------------------------------------------
+| Phase         | Task                                                            | Start Date | End Date  | Duration |
+| ------------- | ----------------------------------------------------------------| ---------- | ----------| -------- |
+| Planning      | Meet with stakeholders                                          | 2023-05-10 | 2023-05-17| 1 week   |
+| Planning      | Define project scope, requirements, and timelines               | 2023-05-18 | 2023-05-24| 1 week   |
+| Planning      | Create project plan, requirements spec, and schedule            | 2023-05-25 | 2023-06-07| 2 weeks  |
+-----------------------------------------------------------------------------------------------------------------------
+| Requirements  | Identify and document functional and non-functional req.        | 2023-06-08 | 2023-06-21| 2 weeks  |
+| Requirements  | Create requirements document, use cases, and user stories       |2023-06-22  |2023-07-05 |2 weeks   |
+-----------------------------------------------------------------------------------------------------------------------
+| Design        | Design user interface, database schema, and system arch.        | 2023-07-06 | 2023-07-26| 3 weeks  |
+| Design        | Create wireframes, system architecture docs, and DB schema docs | 2023-07-27 | 2023-08-09| 2 weeks  |
+-----------------------------------------------------------------------------------------------------------------------
+| Implementation| Develop and implement grading system modules                    | 2023-08-10 | 2023-10-04| 8 weeks  |
+| Implementation| Develop and test modules separately                             | 2023-08-10 | 2023-10-04| 8 weeks  |
+| Implementation| Create source code, unit test cases, and user doc.              | 2023-10-05 | 2023-10-18| 2 weeks  |
+-----------------------------------------------------------------------------------------------------------------------
+| Integration   | Integrate and test developed modules                            | 2023-10-19 | 2023-11-01| 2 weeks  |
+| Integration   | Ensure modules work together as expected                        | 2023-10-19 | 2023-11-01| 2 weeks  |
+-----------------------------------------------------------------------------------------------------------------------
+| Deployment    | Deploy grading system to production environment                 | 2023-11-02 | 2023-11-15| 2 weeks  |
+| Deployment    | Create deployment plans, user manuals, and training mat.        | 2023-11-02 | 2023-11-15| 2 weeks  |
+-----------------------------------------------------------------------------------------------------------------------
+| Maintenance   | Maintain grading system to ensure it functions as expected      | 2023-11-16| 2024-05-31| 26 weeks  |
+| Maintenance   | Create maintenance plans, bug reports, and system docs.         | 2023-11-16| 2024-05-31| 26 weeks  |
+-----------------------------------------------------------------------------------------------------------------------
+```
 
 
 ### 6. Budget:
