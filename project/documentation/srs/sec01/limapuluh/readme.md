@@ -50,7 +50,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>1</td>
     <td>Student</td>
     <td></td>
-    <td>Act as the user of our system</td>
+    <td></td>
   </tr>
     <tr>
     <td>2</td>
