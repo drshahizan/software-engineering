@@ -56,9 +56,30 @@
 This section describe the ideal software process model for this system development. The write-up must consist of:
 - The goal of the software process model is to provide a systematic and structured approach to software development that maximizes efficiency, reduces risk, and improves the overall quality of the UTM online grading system.
 - For the UTM online grading system, the ideal software process model would be the iterative and incremental model. The iterative and incremental model is a flexible and adaptable approach that involves a series of iterations, each consisting of planning, designing, developing, testing, and delivering phases. This model is ideal for projects where requirements are likely to change or evolve, as it allows for flexibility and adaptability.
-- The illustration of chosen software process model that relates to your project and shows every phase involved in the chosen software process model
-- Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. 
-- It should also describe the testing methodologies, project management practices, and quality assurance processes.
+Here's an illustration of the Incremental Model for the development of UTM Grading System:
+
+Planning: In this phase, the project team meets with stakeholders to define the project scope, requirements, and timelines. The deliverables in this phase can include a project plan, requirements specification document, and project schedule.
+
+Requirements: In this phase, the project team identifies and documents the functional and non-functional requirements of the grading system. The deliverables in this phase can include a requirements document, use cases, and user stories.
+
+Design: In this phase, the project team creates a detailed design for the grading system. This includes designing the user interface, database schema, and system architecture. The deliverables in this phase can include wireframes, system architecture documents, and database schema documents.
+
+Implementation: In this phase, the project team develops and implements the grading system. The development is done in small increments or modules, with each module developed and tested separately. The deliverables in this phase can include source code, unit test cases, and user documentation.
+
+Integration: In this phase, the developed modules are integrated and tested to ensure that they work together as expected. The deliverables in this phase can include integration test cases and test reports.
+
+Deployment: In this phase, the grading system is deployed to the production environment. The deliverables in this phase can include deployment plans, user manuals, and training materials.
+
+Maintenance: In this phase, the grading system is maintained to ensure that it continues to function as expected. The deliverables in this phase can include maintenance plans, bug reports, and system documentation.
+
+For each phase, you can assign a duration based on the complexity of the project and the resources available. You can also assign a person in charge of each phase. For example, the project manager could be responsible for overseeing the entire project, while a developer could be responsible for the implementation of each module.
+
+In terms of testing methodologies, you could use techniques such as unit testing, integration testing, system testing, and acceptance testing to ensure that the grading system meets the specified requirements. For project management practices, you could use Agile or Scrum to help manage the project. Quality assurance processes could include code reviews and software inspections to ensure the quality of the code.
+
+A Gantt chart or any suitable project management tool can be used to help plan and track progress throughout the development process. This will help to ensure that the project stays on schedule and that all tasks are completed as planned.
+
+In summary, the Incremental Model is a suitable software process model for the development of UTM Grading System. The model involves breaking down the development process into smaller modules, each developed and tested separately, to minimize risk and improve software quality. The model requires planning, requirements gathering, design, implementation, integration, deployment, and maintenance phases, with appropriate deliverables assigned to each phase. Testing methodologies, project management practices, and quality assurance processes can be used to ensure that the system meets the specified requirements.
+
 
 ### 6. Budget:
 The development of the academic course registration system for 30,000 users within a year will involve various costs, including hardware, software, contigency, and testing. The budget for this project is estimated at **RM 315,000**, as outlined below:
