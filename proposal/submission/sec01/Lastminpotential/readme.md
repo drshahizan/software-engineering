@@ -35,16 +35,41 @@ Don't forget to hit the :star: if you like this repo.
 | 12. |  [Conclusion](#12-conclusion) |
 
   
+
 ### 1. Executive Summary
-- Start the proposal with a brief summary that highlights the main points of the project, including its goals, objectives, and expected outcomes.
+-The Faculty of Computing is proposing the development of a comprehensive feedback management system that aims to streamline the feedback collection process for students, faculty, and staff. The Faculty of Computing Feedback System will enable users to provide feedback quickly and easily on various topics such as teaching quality, course content, facilities, and administrative support.
+
+The main goal of the project is to provide a user-friendly platform that simplifies and streamlines the feedback collection process, allowing the faculty to identify areas for improvement, make data-driven decisions, and allocate resources more effectively.
+
+The Faculty of Computing Feedback System's key objectives include collecting timely and relevant feedback, monitoring feedback in real-time, and responding to issues quickly, improving the overall quality of education and services provided.
+
+The expected outcomes of the project include increased student satisfaction, better engagement and participation, and a stronger institutional reputation. By investing in this system, the faculty will be at the forefront of feedback management technology and innovation, leading to continuous improvement and meeting the evolving needs of its stakeholders.
+
+In summary, the Faculty of Computing Feedback System will provide measurable value to all stakeholders, resulting in a more efficient and effective feedback collection process, increased engagement and satisfaction, and a stronger institutional reputation.
+
 
 ### 2. Background:
-- The introduction should provide background information about the software project and the purpose of the proposal. 
-- It should also briefly describe the problem the software is meant to solve, the benefits it will provide, and its potential impact on the organization.
+The Faculty of Computing is a leading academic institution that is committed to providing high-quality education and support to its students, faculty, and staff. To ensure continuous improvement and maintain its reputation as a top educational institution, the faculty recognizes the importance of gathering feedback from its stakeholders.
+
+However, traditional methods of collecting feedback, such as paper-based surveys and face-to-face interactions, are time-consuming and can result in incomplete or inaccurate data. As a result, there is a need for a more efficient and effective feedback collection system that can provide timely and relevant information to the faculty.
+
+To address this need, the Faculty of Computing proposes the development of a comprehensive feedback management system. The Faculty of Computing Feedback System will be a user-friendly platform that will simplify and streamline the feedback collection process for students, faculty, and staff.
+
+The proposed system will enable users to provide feedback quickly and easily on a range of topics, including teaching quality, course content, facilities, and administrative support. This will help the faculty identify areas for improvement, make data-driven decisions, and allocate resources more effectively. The system will also allow the faculty to monitor feedback in real-time and respond to issues quickly, improving the overall quality of education and services provided.
+
+The Faculty of Computing Feedback System will provide measurable benefits to all stakeholders, resulting in increased student satisfaction, better engagement and participation, and a stronger institutional reputation. By investing in this system, the faculty will be at the forefront of feedback management technology and innovation, leading to continuous improvement and meeting the evolving needs of its stakeholders.
+
 
 ### 3. Objectives:
-- The objectives section should clearly state the goals and objectives of the software project. It should describe the intended outcomes of the software and how it will address the problem it aims to solve. 
-- Objectives should be specific, measurable, achievable, relevant, and time-bound (SMART).
+- Collect timely and relevant feedback: The system should enable students, faculty, and staff to provide feedback quickly and easily on various aspects of education and services provided by the faculty. The feedback collected should be specific, relevant, and measurable.
+    
+-  Monitor feedback in real-time: The system should provide real-time monitoring of feedback to enable faculty and staff to respond to issues quickly and improve the overall quality of education and services provided. This will allow the faculty to identify areas for improvement and allocate resources more effectively.
+    
+-  Improve student satisfaction and engagement: The system should enable the faculty to identify areas for improvement and address them promptly. By doing so, the faculty can improve student satisfaction, engagement, and overall experience.
+    
+-  Make data-driven decisions: The system should provide insights into the performance of courses, teachers, facilities, and administrative support. This will enable the faculty to make data-driven decisions and allocate resources more effectively to improve the overall quality of education and services provided.
+    
+-  Strengthen institutional reputation: By investing in the Faculty of Computing Feedback System, the faculty can demonstrate its commitment to providing high-quality education and support to its stakeholders. This will lead to a stronger institutional reputation and increased stakeholder trust.
 
 ### 4. Scope: 
 - The scope section defines the boundaries of the project and outlines what features and functionality will be included in the software. 
