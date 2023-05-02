@@ -88,11 +88,11 @@ These SMART objectives for our introduced student accommodation system in KTDI a
 ---
 
 ### 4. Scope
-The scope of the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) refers to the boundaries or limits of the project, defining what elements the system will and won't have. It outlines the features and functionalities of the system, including its goals, objectives and requirements as well as the expected outcomes and benefits. Here are more detailed explanations of the features and functionality of a student accommodation system:
+The scope refers to the boundaries of the project and outlines the features and functionalities of the system, including its goals, objectives and requirements as well as the expected outcomes and benefits. Detailed explanations of the features and functionality of our proposed student accommodation system in KTDI are as follows:
 
-- Student registration: <br>By entering their personal information, academic information, and housing preferences, students can register as users in the system using the student registration tool. Before letting a student register, the system should confirm their identity and determine whether they qualify for accommodations.
+- Student registration: <br>By entering user's personal information, academic information and room preferences, students can register as users in the system using the student registration tool. Before letting a student register, the system should confirm their identity and determine whether they qualify for accommodation registration.
 
-- Room allocation: <br>According on the students' choices, availability, and budget, the system can assign rooms to them using the room allocation tool. The system should include elements including the student's academic programme, year of study, and any unique requirements or requests.
+- Room allocation: <br>According on the students' choices, availability and budget, the system can assign rooms to them using the room allocation tool. The system should include elements including the student's academic programme, year of study, and any unique requirements or requests.
 
 - Room management: <br>The room management feature allows students to manage their rooms through the system. This includes room bookings, check-in, check-out, and maintenance requests. The system should provide a calendar view of the room availability and allow students to book their preferred room and check-in and check-out dates. It should also allow students to request maintenance services for their room and track the status of the request.
 
@@ -105,6 +105,8 @@ The scope of the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) refe
 - Reporting and analytics: <br>Administrators will be allowed to monitor and analyze the occupancy rates, revenue and maintenance issues of the accommodation system. Reports from the system should include occupancy rates based on the study programme or room type, revenue by time period and building or room-specific maintenance issues.
 
 - Support and maintenance: <br>Residents or students should be able to report problems or request assistance for the maintainence of hostel equipment through the system's help desk and there should be a dedicated team working to quickly resolve these problems.
+
+- Agile methodology: <br>
 
 <!--However, there are several limitations and constraints that may affect the project of a student accommodation system for Kolej Tun Dr Ismail (KTDI):
   
@@ -125,7 +127,7 @@ In conclusion, we can establish the foundation for the project plan, which outli
 ### 5. Software Process Model
 <!-- ***Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. *** -->
   
-Our main objective in creating the Kolej Tun Dr Ismail (KTDI) project's student housing system is to create a high-quality system within the allotted time and budget. We have decided to employ the Agile methodology as our development process model in order to accomplish this. This method places a focus on cooperation and participation from stakeholders throughout the development process, creating a system that is more adaptable and responsive.
+Our main objective in creating the Kolej Tun Dr Ismail (KTDI) project's student housing system is to create a high-quality system within the allotted time and budget. We have decided to employ the <b>Agile methodology</b> as our development process model in order to accomplish this. This method places a focus on cooperation and participation from stakeholders throughout the development process, creating a system that is more adaptable and responsive.
 
 Furthermore, because of the nature of student rooms, the Agile methodology is perfect for projects like ours where requirements and priorities may change frequently. Agile allows us to guarantee that the system is continually updated and enhanced depending on input from stakeholders. This will enable the Student Accommodation System for KTDI project to produce a system that satisfies their changing needs and expectations.
 
@@ -454,34 +456,34 @@ IV. Other Expenses:<br>
       <td rowspan="2">1st Month</td>
       <td>Establishment of collaboration with the stakeholders and IT department(1 week)</td>
       <td>Having online interviewing session and face-to-face interviewing session with stakeholders: KTDI staff, resident and the other stakeholders.</td>
-      <td>Project developer, requirements analyst, documentation specialist, quality assurance analyst, stakeholder</td>
+      <td>Project manager, software engineer, stakeholder</td>
     </tr>
     <tr>
       <td>Development of KTDI housing system prototype(4 weeks)</td>
       <td>User guide and training materials, automated housing allocation system prototype.</td>
-      <td>Project developer, UI/UX system designer, IT support, project budget.</td>
+      <td>Project manager, software engineer, testing/debugging team, project budget.</td>
     </tr>
   <tr>
   <td rowspan="2">2nd Month</td>
   <td>Implementation of the KTDI housing system(1 week)</td>
   <td>Fully developed housing system, project progress report.</td>
-  <td>IT support, stakeholder, project budget.</td>
+  <td>Project manager, software engineer, project budget.</td>
   <tr>
   <td>Maintenance tracking phase(4 weeks)</td>
   <td>Client bug report system, project progress report</td>
-  <td>Project developer, UI/UX system designer, IT support, project budget.</td>
+  <td>Project manager, stackholder, software engineer, project budget </td>
   </tr>
   
 <tr>
   <td rowspan="2">3rd Month </td>
   <td>User satisfactory with KTDI housing system(2 weeks)</td>
   <td>Student satisfaction survey report, project progress report.</td>
-  <td>Project developer, IT support, stakeholder, project budget.</td>
+  <td>Project manager, stackholder, survey team, project budget.</td>
 </tr>
 <tr>
   <td>Improvement and enhancement towards KTDI housing system based on user satisfactory(3 weeks)</td>
   <td>Improved housing system, user guide, and training materials.</td>
-  <td>Project developer, UI/UX system designer, IT support, project budget.</td>
+  <td>Project manager, software engineer, survey team, project budget.</td>
 </tr>
   </tbody>
 </table>
