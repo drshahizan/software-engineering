@@ -47,16 +47,16 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td></td>
+    <td>PUAN MUNIRAH ABU BAKAR</td>
     <td>Adminstrator of Restaurant "Sdap Kitchen"</td>
     <td>Owner</td>
-    <td></td>
+    <td>Provide accurate and up-to-date information about their menu items, pricing, and availability</td>
   </tr>
     <tr>
-    <td></td>
+    <td>ENCIK AMRAN BIN MD YUSOF</td>
     <td>Adminstrator of Restaurant "Deen Corner"</td>
     <td>Owner</td>
-    <td></td>
+    <td>Provide accurate and up-to-date information about their menu items, pricing, and availability. </td>
   </tr>
     <tr>
     <td></td>
