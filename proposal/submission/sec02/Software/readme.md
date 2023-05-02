@@ -26,7 +26,14 @@
 - [Conclusion](#12-conclusion)
   
 ### 1. Executive Summary
-A solution designed to simplify and streamline the process time of PKU for students and administrators.
+The Student Health and Wellness website is a software engineering course project aimed at improving the health and well-being of university students, in cooperation with Pusat Kesihatan University (PKU). The website will provide students with access to a wide range of resources and tools that will help them manage their physical, mental, and emotional health.
+
+The website will be developed using the latest software engineering techniques, and will feature a user-friendly interface that is easy to navigate. Students will be able to access the website from any device, including desktop computers, laptops, tablets, and smartphones. The website will be designed with accessibility in mind, ensuring that all students can access and use the site.
+
+The Student Health and Wellness website will feature a range of resources, including articles, videos, and podcasts, that cover a variety of topics related to health and wellness. These resources will be developed in collaboration with PKU, ensuring that they are accurate, up-to-date, and relevant to the needs of university students.
+
+Overall, the Student Health and Wellness website is an innovative project that has the potential to make a real difference in the lives of university students. By providing students with access to accurate information and resources, and by offering tools and services to help them manage their health and wellness, the website will help students achieve their full potential and lead happy, healthy lives.
+
 
 ### 2. Background:
 - Process slow and walk in and far for some students.
@@ -62,38 +69,36 @@ This section describe the ideal software process model for this system developme
 - The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
 
 ### 7. System Architecture:
+## Presentation Layer:
+-User interface design (HTML, CSS, JavaScript) <br>
+-Content management system (CMS) for managing website content<br>
+-Accessibility features to ensure the website is accessible to users with disabilities<br>
+-Responsive design for optimal display on various devices and screen sizes<br>
+## Application Layer:
+-Web server (e.g. Apache, Nginx)<br>
+-Web application framework (e.g. Django, Ruby on Rails)<br>
+-Business logic and data processing code<br>
+-Integration with external services (e.g. appointment scheduling, health records)<br>
+
+## Data Layer:
+-Relational database management system (e.g. MySQL, PostgreSQL)<br>
+-Data schema design and management<br>
+-Data access layer (e.g. Object Relational Mapping)<br>
+## Security Layer:
+-SSL/TLS encryption<br>
+-User authentication and authorization mechanisms (e.g. OAuth2, LDAP)<br>
+-Access control and permission management<br>
+-Logging and monitoring for detecting and responding to security incidents<br>
 
 
 
 ### 8. Risks Assessment:
-- Data breaches: The website may contain sensitive information, such as student health records, which could be targeted by hackers. This could result in the theft of personal information and medical histories, leading to identity theft and other forms of fraud.
-
-- Denial of service attacks: A malicious user or group may attempt to overload the website with traffic, causing it to crash or become inaccessible. This could disrupt the availability of critical health services and information.
-
-- Malware infections: The website may be infected with malware, which could spread to users' computers and compromise their security. This could result in the theft of personal information or control of the user's device.
-
-- Insecure coding practices: If the website is not developed using secure coding practices, vulnerabilities could be introduced into the code that could be exploited by attackers.
-
-- Insider threats: Employees or contractors with access to the website's systems may intentionally or accidentally cause security breaches or data leaks.
 
 
 
 
 ### 9. Resources:
-#### Staff : 
-- 1 User Experience Designer
-- 1 Quality Assurance Tester
-- 1 Documentation Specialists
-- 1 Main Developer
-- 1 Requirements Analyst
-
-#### Equipment
-- Servers
-- Security and backup
-- Software
-- Web Server
-- Data Analytics Tools
-- Relational Database Management System (RDBMS)
+- Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
 
 ### 10. Technical Specifications:
 - Platform : Web-based application
