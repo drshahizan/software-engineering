@@ -13,27 +13,33 @@ Don't forget to hit the :star: if you like this repo.
 ## Group Members
 <table>
   <tr>
+    <th>No.</th>
     <th>Name</th>
     <th>Role</th>
   </tr>
   <tr>
-    <td>1 Yong Wern Jie</td>
+    <td>1.</td>
+    <td>Yong Wern Jie</td>
     <td>Project Manager</td>
   </tr>
   <tr>
-    <td>2 Marcus Joey Sayner</td>
+    <td>2.</td>
+    <td>Marcus Joey Sayner</td>
     <td>Software Developer</td>
   </tr>
   <tr>
-    <td>3 Lim Jing Yong</td>
+    <td>3.</td>
+    <td>Lim Jing Yong</td>
     <td>Documentation Specialist</td>
   </tr>
   <tr>
-    <td>4 Soh Han Wei</td>
+    <td>4.</td>
+    <td>Soh Han Wei</td>
     <td>Requirement Analyst</td>
   </tr>
   <tr>
-    <td>5 Lee Soon Der</td>
+    <td>5.</td>
+    <td>Lee Soon Der</td>
     <td>User Experience Designer</td>
   </tr>
 </table>
