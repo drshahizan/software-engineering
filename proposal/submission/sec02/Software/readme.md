@@ -95,9 +95,27 @@ This section describe the ideal software process model for this system developme
 
 
 ### 8. Risks Assessment:
+In general, every project can be influenced by a risk so they required a special assessment procedure of the potential risks that could lead to the project's failure or loss if they occur. To develop a student health and wellness management system, the possible risks are: 
+1. Data breaches: The website may contain sensitive information, such as student health records, which could be targeted by hackers. This could result in the theft of personal information and medical histories, leading to identity theft and other forms of fraud.
 
+2. Denial of service(DoS) attacks: A malicious user or group may attempt to overload the website with traffic, causing it to crash or become inaccessible. This could disrupt the availability of critical health services and information.
 
+3. Malware infections: The website may be infected with malware, which could spread to users' computers and compromise their security. This could result in the theft of personal information or control of the user's device.
 
+4. Insecure coding practices: If the website is not developed using secure coding practices, vulnerabilities could be introduced into the code that could be exploited by attackers.
+
+5. Insider threats: Employees or contractors with access to the website's systems may intentionally or accidentally cause security breaches or data leaks.
+
+To mitigate these risks, a few steps can be taken: 
+1. Implement Robust Security Measures: This include the use of SSL certificates, two-factor authentication, encryption and frequent website security updates. It is crucial to constantly evaluate the website's security to find any weaknesses.
+
+2. Deploy Web Application Firewall (WAF): A WAF can assist in removing harmful traffic from a network before it reaches a server. It can identify and prevent requests intended to launch denial-of-service (DoS) attacks, such as SYN and ICMP floods.
+
+3. Update software and plugin: It is crucial to keep software and plugins used by the website up-to-date, including the operating system, web server software, content management system and any third-party plugins because malware can take advantage of weaknesses created by outdated software. 
+
+4. Follow secure coding guidelines: To make sure that the website is designed with secure coding practises in mind, follow known secure coding guidelines such as the OWASP Top Ten or CERT Secure Coding Standards. These guidelines should cover aspects like input validation, authentication, access control, and data encryption.
+
+5. Implement strict access controls: It is important to set up strict access restrictions and allow only those people who truly require access to sensitive information to perform their jobs. Access control lists, role-based access controls, and user authentication can help with this.
 
 ### 9. Resources:
 - Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
