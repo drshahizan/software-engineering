@@ -53,7 +53,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provides idea for design, functionality, content, compliance, and provides training and support.</td>
   </tr>
     <tr>
-    <td>2. Puan Nazlin</td>
+    <td>2. Puan Nazlin binti Ali</td>
     <td>Administrator</td>
     <td>Administrative Officer</td>
     <td>Provides idea for design, functionality, content, compliance, and provides training and support.</td>
