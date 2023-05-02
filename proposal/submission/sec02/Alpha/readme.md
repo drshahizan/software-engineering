@@ -119,7 +119,30 @@ Provide a flowchart or block diagram of the system architecture.
 
 
 ### 9. Resources:
-- Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
+The resources required for the proposed college room rental system project can be broken down into detailed aspects like staff, equipment, software, and other expenses.
+
+#### Staff:
+- Main Developer: Responsible for overall project management, system architecture design, and leading the development team.
+- Business Analyst: Gather and analyse user requirements, and translating them into technical requirements.
+- Quality Assurance Engineer: Ensure the quality and functionality of the system, including testing, bug reporting, and documentation.
+- UI/UX Designer: Design and Implement the user interface of the system, including user experience design, usability testing, and graphical design.
+- Database Administrator: maintain and manage the database management system to ensure data scalability, integrity and security..
+
+#### Equipment:
+- Server or Cloud-based Infrastructure: To handle the expected workload and traffic, the system will need a server or cloud-based infrastructure with sufficient resources . The specific hardware requirements will depend on the expected workload and traffic which may include servers, storage, networking equipment as well as other hardware components.
+
+#### Software:
+- Development Tools: The development team will require a suite of software tools to design, develop, and test the system which may include project management software, code editors, version control systems, and integrated development environments (IDEs).
+- Web Frameworks: The development team will require web frameworks to build the application tier of the system. This may include Flask or Express.js for building RESTful APIs.
+- Front-End Frameworks: The development team will require front-end frameworks like React or Angular for building the user interface of the system.
+- Quality Assurance Tools: Tools for testing and quality assurance, including bug reporting software, automated testing frameworks, and documentation tools will be required to use.
+- Database Management System: As the system will require a database management system to store and manage rental data, a relational database management system (RDBMS) such as PostgreSQL or MySQL, or a NoSQL database like MongoDB may be included.
+
+
+#### Other Expenses:
+- Licences and Permits: The project may require various licenses and permits depending on the specific implementation and legal requirements.
+- Training and Professional Development: The development team may require training and professional development to gain the necessary skills and knowledge to develop the system.
+
 
 ### 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
