@@ -1,155 +1,164 @@
 <mxfile host="65bd71144e">
     <diagram id="Em5RDL5cYm9Ge_MQ_J6G" name="Page-1">
-        <mxGraphModel dx="839" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1216" dy="784" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="2" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+                <mxCell id="2" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="80" y="70" width="30" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="Registration System" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="3" value="Registration System" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C9C9C9;fontColor=#000000;fillColor=#D9D9D9;" parent="1" vertex="1">
                     <mxGeometry x="220" y="100" width="140" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="Course Catalog" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="4" value="Course Catalog" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="425" y="100" width="100" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="Enrollment System" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="6" value="Enrollment System" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="540" y="100" width="120" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="Registration System" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="10" value="Registration System" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="220" y="580" width="140" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="Course Catalog" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="11" value="Course Catalog" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C9C9C9;fontColor=#000000;fillColor=#D9D9D9;" parent="1" vertex="1">
                     <mxGeometry x="425" y="580" width="100" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="Enrollment System" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="12" value="Enrollment System" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C9C9C9;fontColor=#000000;fillColor=#D9D9D9;" parent="1" vertex="1">
                     <mxGeometry x="540" y="580" width="120" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="Student" style="shape=umlActor;verticalLabelPosition=top;verticalAlign=bottom;html=1;outlineConnect=0;horizontal=1;labelPosition=center;align=center;" vertex="1" parent="1">
+                <mxCell id="13" value="Student" style="shape=umlActor;verticalLabelPosition=top;verticalAlign=bottom;html=1;outlineConnect=0;horizontal=1;labelPosition=center;align=center;strokeColor=#000000;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="80" y="580" width="30" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=8 8;" edge="1" parent="1">
+                <mxCell id="14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=8 8;strokeColor=#000000;fontColor=#000000;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="100" y="560" as="sourcePoint"/>
                         <mxPoint x="100" y="150" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="15" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashPattern=8 8;" edge="1" parent="1" source="10" target="3">
+                <mxCell id="15" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashPattern=8 8;strokeColor=#000000;fontColor=#000000;" parent="1" source="10" target="3" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="289.65999999999997" y="500" as="sourcePoint"/>
                         <mxPoint x="289.65999999999997" y="160" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="16" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashPattern=8 8;" edge="1" parent="1" source="11" target="4">
+                <mxCell id="16" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashPattern=8 8;strokeColor=#000000;fontColor=#000000;" parent="1" source="11" target="4" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="475" y="530" as="sourcePoint"/>
                         <mxPoint x="474.65999999999985" y="170" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="17" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashPattern=8 8;" edge="1" parent="1" source="12" target="6">
+                <mxCell id="17" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashPattern=8 8;strokeColor=#000000;fontColor=#000000;" parent="1" source="12" target="6" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="599.6600000000001" y="520" as="sourcePoint"/>
                         <mxPoint x="599.6600000000001" y="150" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="18" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                <mxCell id="18" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontColor=#000000;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="100" y="180" as="sourcePoint"/>
                         <mxPoint x="290" y="180" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="19" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                <mxCell id="19" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontColor=#000000;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="290" y="200" as="sourcePoint"/>
                         <mxPoint x="480" y="200" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="20" value="Request course registration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="20" value="Request course registration" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="110" y="160" width="150" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="Requests course information" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="21" value="Requests course information" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="300" y="180" width="160" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="22" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                <mxCell id="22" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontColor=#000000;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="290" y="280" as="sourcePoint"/>
                         <mxPoint x="600" y="280" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="23" value="Requests enrollment information" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="23" value="Requests enrollment information" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="300" y="260" width="180" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="24" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                <mxCell id="24" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontColor=#000000;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="290" y="360" as="sourcePoint"/>
                         <mxPoint x="599.9999999999998" y="360" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="25" value="Requests enrollment status" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="25" value="Requests enrollment status" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="300" y="340" width="180" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="26" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                <mxCell id="26" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontColor=#000000;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="290" y="440" as="sourcePoint"/>
                         <mxPoint x="599.9999999999998" y="440" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="27" value="Enrolls in course" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="27" value="Enrolls in course" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="300" y="420" width="180" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="28" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                <mxCell id="28" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontColor=#000000;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="290" y="520.0000000000001" as="sourcePoint"/>
                         <mxPoint x="599.9999999999998" y="520.0000000000001" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="29" value="Requests enrollment receipt" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="29" value="Requests enrollment receipt" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="300" y="500" width="180" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="30" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+                <mxCell id="30" value="" style="endArrow=classic;html=1;dashed=1;strokeColor=#000000;fontColor=#000000;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="475" y="240" as="sourcePoint"/>
                         <mxPoint x="290" y="240" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="31" value="Sends course information" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="31" value="Sends course information" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="300" y="220" width="160" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="32" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+                <mxCell id="32" value="" style="endArrow=classic;html=1;dashed=1;strokeColor=#000000;fontColor=#000000;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="600" y="320" as="sourcePoint"/>
                         <mxPoint x="287.5" y="320" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="33" value="Sends enrollment information" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="33" value="Sends enrollment information" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="297.5" y="300" width="160" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="34" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+                <mxCell id="34" value="" style="endArrow=classic;html=1;dashed=1;strokeColor=#000000;fontColor=#000000;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="600" y="400" as="sourcePoint"/>
                         <mxPoint x="287.5" y="400" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="35" value="Sends enrollment status" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="35" value="Sends enrollment status" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="297.5" y="380" width="160" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="36" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+                <mxCell id="36" value="" style="endArrow=classic;html=1;dashed=1;strokeColor=#000000;fontColor=#000000;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="600" y="480" as="sourcePoint"/>
                         <mxPoint x="287.5" y="480" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="37" value="Sends enrollment information" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="37" value="Sends enrollment information" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="297.5" y="460" width="160" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="38" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+                <mxCell id="38" value="" style="endArrow=classic;html=1;dashed=1;strokeColor=#000000;fontColor=#000000;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="600" y="560" as="sourcePoint"/>
                         <mxPoint x="287.5" y="559.66" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="39" value="Sends enrollment receipt" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="39" value="Sends enrollment receipt" style="text;html=1;strokeColor=#000000;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="297.5" y="539.66" width="160" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="Course Catalog" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C9C9C9;fontColor=#000000;fillColor=#D9D9D9;" vertex="1" parent="1">
+                    <mxGeometry x="425" y="100" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="Enrollment System" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C9C9C9;fontColor=#000000;fillColor=#D9D9D9;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="100" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="Registration System" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C9C9C9;fontColor=#000000;fillColor=#D9D9D9;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="580" width="140" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
