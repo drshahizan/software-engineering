@@ -310,9 +310,47 @@ By implementing these data security measures, the online grading system can ensu
 
 
 ### 11. Timeline and Deliverables: 
-- Provide a detailed timeline for the project, including milestones and deadlines.
-- Specify the deliverables that will be provided at each milestone. It should also specify the expected time frame for each deliverable and the resources that will be required to complete the project.
-- Explain the quality assurance and testing procedures that will be followed.
+1. **Milestone 1: Project Planning and Requirements Gathering**
+- Deadline: Week 1-2
+<ul>Deliverables:
+
+   - Project plan and timeline
+   - Requirements document
+   - Resource allocation plan</ul>
+ 
+2. **Milestone 2: Data Collection and Preparation**
+- Deadline: Week 3-4
+<ul>Deliverables:
+   
+- Data sources identified and collected
+- Data cleaning and preprocessing scripts
+- Documented data schema</ul>
+   
+3. **Milestone 3: Data Analysis and Modeling**
+- Deadline: Week 5-8
+<ul>Deliverables:
+   
+- Exploratory data analysis report
+- Machine learning models developed and trained
+- Model validation and evaluation report</ul>
+
+4. **Milestone 4: Data Visualization and Reporting**
+- Deadline: Week 9-10
+<ul>Deliverables:
+   
+   - Data visualization dashboards and reports
+   - Final project report
+   - Presentation slides
+   - Quality Assurance and Testing Procedures:
+      1. Code review and testing will be conducted throughout the development process to ensure high-quality code.
+      2. Unit testing will be performed to verify the functionality of individual components.
+      3. Integration testing will be conducted to test the integration of various components.
+      4. User acceptance testing will be performed to ensure the system meets the requirements and is user-friendly.
+      5. Automated testing scripts will be developed and executed to ensure the system is functioning as expected.
+      6. Data quality assurance procedures will be implemented to ensure data accuracy and completeness.
+      7. Security testing will be performed to identify and mitigate any security vulnerabilities.
+      8. All deliverables will be reviewed and approved by the project stakeholders before being considered complete.
+</ul>
 
 ### 12. Conclusion:
 - The UTM Online Grading System is a much-needed solution to the challenges of the current manual grading system. By implementing an online platform, UTM can automate its grading processes, streamline communication between teachers and students, and enhance the overall learning experience. This proposed solution aligns with the university's goal of providing a modern and innovative education experience for its students.

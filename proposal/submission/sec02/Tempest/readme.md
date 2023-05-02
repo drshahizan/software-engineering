@@ -21,7 +21,16 @@ Don't forget to hit the :star: if you like this repo.
 4.Kugen a/l Kalidas (A22EC0178)
 
 ### Table of Contents
-- [Table of Contents](#table-of-contents)
+- [Executive Summary](#1-executive-summary)
+- [Background](#2-background)
+- [Objectives](#3-objectives)
+- [Scope](#4-scope)
+- [Software Process Mode;](#5-software-process-model)
+- [Budget](#6-budget)
+- [System Architecture](#7-system-architecture)
+- [Risk Assesment](#8-risk-assesment)
+- [Resources](#9-resources)
+- [Technical Specification](#10-technical-specifications)
 
 ### 1. Executive Summary
 - Our proposed Badal Hajj and Umrah management system is an innovative solution designed to facilitate and simplify the registration and handling bulk data process for the management of the company. The system leverages cutting-edge technologies and best practices to deliver a seamless user experience that enables client to easily register their information using the system and can get the all document needed in short period of time. For the user experience in the management side, they can easiy monitor and handle bulk data without losing or overlooked the client information. Key features of this system include real-time processed document, automatic data handling and management and real-time payment. Ultimately, our badal hajj and umrah management system will deliver measurable value to all stakeholders, including increased in client satisfactory, improved workflow of the management and enhanced managing bulk data. By investing in this system, the company will have a smooth and better workflow thus increase the efficiency of the company.
@@ -48,9 +57,11 @@ Our proposed Badal Hajj and Umrah Management System aims to achieve the followin
 Overall, these SMART objectives are specific, measurable, achievable, relevant, and time-bound. They align with the goals and objectives of the project and provide a clear roadmap for achieving the desired outcomes.
 
 ### 4. Scope: 
-The system will allow user to create an account and and make the registration for the hajj or umrah ,user will fill in the important information such as full name, age, address, contact number and more. This system also will be included the section for health information to know the applicants health status for the screening process by those responsible managing the registrations.Some limitations for this project is the security part which the system need to be achieve a certain security stndard to protect those informations and prevent from any breach or unauthorized access.Other than that, the project need to be completed on time or it will affect the success of the project.
+The Badal Hajj and Umrah management system proposed in this project will included several functionalities and features that are required in order to solve the problems that the company have. This system will be web-based and application software.This is the detail of the features and functionality of the system:
 
 ### 5. Software Process Model:
+The Agile Model is an iterative and incremental approach to software development that emphasizes flexibility, collaboration, and rapid delivery of working software. In this model, requirements and solutions evolve through the collaborative effort of cross-functional teams and end-users.
+
 1. Planning: In the planning phase, the project team will define the project scope, goals, and objectives. This will include identifying the features and functionalities required for the system, and prioritizing them based on their importance to end-users. The team will also define the project timeline and identify the resources required to execute the project.
 
 2. Requirements Gathering: In the requirements gathering phase, the team will work closely with stakeholders to identify the system requirements. This will involve gathering input from end-users, stakeholders, and subject matter experts to ensure that the system meets the needs of all stakeholders. The requirements will be documented and prioritized based on their importance and feasibility.
