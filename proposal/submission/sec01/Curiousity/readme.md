@@ -62,6 +62,7 @@ To complete the aforementioned goals within the upcoming two months and keep tra
 
 ### 4. Scope🔍: 
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Curiousity/Project%20Scope.png?raw=true" alt="Scope"></img>
+
 <b>Event planning and organisation:</b>
 Our system will offer resources for developing and managing event schedules, defining event goals, locating events, and identifying target audiences. This will make it easier to plan and organise successful events by ensuring that all necessary information is centralised.
 
