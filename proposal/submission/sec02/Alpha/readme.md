@@ -62,6 +62,10 @@ The system can help provide a better user experience by offering features such a
 - It should also describe any limitations or constraints that may affect the project.
 
 ### 5. Software Process Model:
+
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/agile%20method.png?raw=true"></img>
+
+
 This section describe the ideal software process model for this system development. The write-up must consist of:
 - Explanation of the goal of the software process model.
 - Choose the ideal software process model and give justification.
