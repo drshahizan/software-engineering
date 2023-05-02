@@ -212,6 +212,7 @@ The resources required for the proposed college room rental system project can b
 
 10. Analytics: The room rental service project should integrate analytics to provide insights into user behavior, such as the most popular rooms, most searched locations, and booking trends.
 
+---
 
 ### 11. Timeline and Deliverables:
 
@@ -239,7 +240,7 @@ The resources required for the proposed college room rental system project can b
 
    Deliverables: Maintenance plan, support plan, bug fixes, and upgrades.
 
-
+---
 
 ### 12. Conclusion:
 
