@@ -93,33 +93,12 @@ Room booking: Room booking features allows students to book rooms based on avail
 <img src=https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/agile%20method.png></img>
 
 
-Agile methodology is a software development process model that emphasises the importance of collaboration, flexibility, and iterative development. In the context of creating a college room rental system, an Agile approach can be used to develop the system in a way that meets the changing needs and requirements of the stakeholders.
-
-Here are the key steps in the Agile methodology that we will use in creating a college room rental system:
-
-#### 1. Planning: 
-The first step is to gather the requirements of the stakeholders and plan the development process accordingly. This involves identifying the goals, objectives, and features of the system, and determining the timeline, resources, and team members needed to complete the project.
-
-#### 2. Design: 
-In this step, the development team creates the system design and architecture. This includes defining the software modules, user interface, and the database schema. The design should be flexible enough to accommodate changes that may arise during the development process.
-
-#### 3. Development: 
-Once the design is complete, the development team starts coding and implementing the features of the system. The development process is iterative, with each iteration delivering a functional version of the system that can be tested and evaluated.
-
-#### 4. Testing: 
-Testing is a crucial part of the Agile methodology. In this step, the development team tests the system to ensure that it meets the requirements of the stakeholders. The testing process is iterative, with each iteration improving the quality and functionality of the system.
-
-#### 5. Review and Feedback: 
-After testing, the stakeholders review the system and provide feedback to the development team. The feedback is used to improve the system and ensure that it meets the needs of its users.
-
-#### 6. Deployment: 
-Once the system is tested and reviewed, it is deployed to the production environment. The deployment process should be done in a way that minimises downtime and ensures that the system is available to its users.
-
-#### 7. Maintenance: 
-After deployment, the development team provides maintenance and support to ensure that the system runs smoothly and continues to meet the needs of the stakeholders.
- 
-Overall, the Agile methodology that we used in creating a college room rental system is to ensure that the system meets the changing needs of the stakeholders and is delivered on time and within budget.
-
+This section describe the ideal software process model for this system development. The write-up must consist of:
+- Explanation of the goal of the software process model.
+- Choose the ideal software process model and give justification.
+- The illustration of chosen software process model that relates to your project and shows every phase involved in the chosen software process model
+- Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. 
+- It should also describe the testing methodologies, project management practices, and quality assurance processes.
 
 ---
 
@@ -201,25 +180,64 @@ The resources required for the proposed college room rental system project can b
 --- 
 
 ### 10. Technical Specifications:
-- Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
-- Mention the programming languages, frameworks, and libraries that will be used in the project.
-- Provide details about the hardware and software requirements for the proposed system.
-- Explain the data security measures that will be implemented.
 
----
 
-### 11. Timeline and Deliverables: 
-- Provide a detailed timeline for the project, including milestones and deadlines.
-- Specify the deliverables that will be provided at each milestone. It should also specify the expected time frame for each deliverable and the resources that will be required to complete the project.
-- Explain the quality assurance and testing procedures that will be followed.
+1. Platform: The platform for the room rental service project should be decided. It can be a web application, mobile application, or both.
 
----
+2. Database: The database used for the room rental service project should be chosen, and the database schema should be designed to store all necessary data, such as user profiles, room listings, booking history, and payment information.
+
+3. User Authentication and Authorization: The room rental service project should have user authentication and authorization functionality to ensure secure access to user accounts and data.
+
+4. Room Listings: The room rental service project should provide functionality for room owners to create, edit, and delete room listings. The room listing should include details such as room type, location, amenities, price, availability, and photos.
+
+5. Booking Management: The room rental service project should provide functionality for users to search for available rooms and book them. It should also have a booking management system for users to manage their bookings, and for room owners to manage their reservations.
+
+6. Payment Gateway: The room rental service project should integrate a payment gateway to allow users to pay for their bookings online. It should support multiple payment methods and be secure and reliable.
+
+7. Search Functionality: The room rental service project should have robust search functionality that allows users to search for rooms based on location, price, availability, and other criteria.
+
+8. Messaging System: The room rental service project should have a messaging system that allows users to communicate with each other before, during, and after their stay.
+
+9. Reviews and Ratings: The room rental service project should have a system for users to leave reviews and ratings for rooms and room owners.
+
+10. Analytics: The room rental service project should integrate analytics to provide insights into user behavior, such as the most popular rooms, most searched locations, and booking trends.
+
+
+### 11. Timeline and Deliverables:
+
+1. Planning and Requirements Gathering: This phase involves gathering requirements, defining project scope, and creating a project plan. This phase can take 2-4 weeks, depending on the size and complexity of the project.
+
+Deliverables: Project scope document, project plan, and requirements document.
+
+2. Design and Prototyping: This phase involves creating wireframes, user interface designs, and prototypes to get feedback from stakeholders. This phase can take 4-6 weeks, depending on the size and complexity of the project.
+
+Deliverables: Wireframes, user interface designs, and prototypes.
+
+3. Development: This phase involves building the room rental service platform, including front-end and back-end development, database design, and integration with payment gateway and messaging system. This phase can take 8-12 weeks, depending on the size and complexity of the project.
+
+Deliverables: Fully functional platform, payment gateway integration, messaging system integration.
+
+4. Testing: This phase involves testing the platform for bugs, usability, and performance. This phase can take 2-4 weeks, depending on the size and complexity of the project.
+
+Deliverables: Test plan, test cases, and test reports.
+
+5. Deployment: This phase involves deploying the platform to the production environment and making it live. This phase can take 1-2 weeks, depending on the size and complexity of the project.
+
+Deliverables: Deployed platform, go-live plan.
+
+6. Maintenance and Support: This phase involves providing ongoing maintenance and support for the platform, including bug fixes, upgrades, and customer support. This phase can continue indefinitely, depending on the needs of the project.
+
+Deliverables: Maintenance plan, support plan, bug fixes, and upgrades.
+
+These are some general timelines and deliverables that could be included in a room rental service project. The specifics of the project will depend on the requirements of the project and the technologies and platforms being used. It's important to create a detailed project plan and timeline to ensure that the project stays on track and meets all deliverables on time.
 
 ### 12. Conclusion:
-- Conclude your proposal with a call to action, highlighting the benefits of your proposed solution and urging the decision-makers to take action.
-- Summarize the proposal and reiterate the importance of the project.
-- Mention any potential limitations or challenges that may arise during the project.
-- Provide a call to action for the client to approve the proposal and proceed with the project.
+
+The Kolej Tun Dr Ismail College room rental services project aims to simplify the room rental process for students and staff by developing a web-based system that automates the process of renting college rooms. The system will consist of a three-tier architecture with a presentation tier, application tier, and data tier. The project will require a team with expertise in full-stack web development, and various software tools such as HTML, CSS, JavaScript, React, Flask, Node.js, and PostgreSQL.
+
+The system will include features such as student registration, room searching and booking, payment processing, room cancellation, user feedback and review, and administrative functions. The project team will also define a clear scope, timeline, and deliverables of the project, as well as the resources required to complete the project. The expected outcomes of the project include an efficient and streamlined college room rental process, accurate and timely payment processing, and reduced administrative workload for staff.
+
+Agile methodology will be used for software development, emphasising the importance of collaboration, flexibility, and iterative development. The Kolej Tun Dr Ismail College room rental services project has the potential to significantly improve the college room rental experience for students and staff at the university.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
