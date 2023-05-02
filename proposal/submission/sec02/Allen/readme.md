@@ -73,13 +73,14 @@ This section describe the ideal software process model for this system developme
 
 7.Maintenance: In this phase, the grading system is maintained to ensure that it continues to function as expected. The deliverables in this phase can include maintenance plans, bug reports, and system documentation.
 
-For each phase, you can assign a duration based on the complexity of the project and the resources available. You can also assign a person in charge of each phase. For example, the project manager could be responsible for overseeing the entire project, while a developer could be responsible for the implementation of each module.
+For testing methodologies, unit testing can be used to test each module of the grading system individually to ensure that it is working as expected. Integration testing can then be used to test the integration of the modules to ensure that they are working together correctly. System testing can be used to test the system as a whole to ensure that it meets the specified requirements, and acceptance testing can be used to verify that the grading system meets the user's needs.
 
-In terms of testing methodologies, you could use techniques such as unit testing, integration testing, system testing, and acceptance testing to ensure that the grading system meets the specified requirements. For project management practices, you could use Agile or Scrum to help manage the project. Quality assurance processes could include code reviews and software inspections to ensure the quality of the code.
+For project management practices, Agile or Scrum can be used to help manage the project. These methodologies involve breaking down the development process into smaller sprints or iterations, which helps to improve collaboration between team members and allows for more flexibility in adapting to changing requirements. Project management tools such as Jira, Trello, or Asana can be used to track progress and assign tasks.
+
+In terms of quality assurance processes, code reviews and software inspections can be used to ensure the quality of the code. This involves reviewing the code for errors or defects, ensuring that it adheres to coding standards, and making any necessary improvements. Automated testing tools such as Selenium or JUnit can also be used to automate testing and reduce the risk of human error.
 
 A Gantt chart or any suitable project management tool can be used to help plan and track progress throughout the development process. This will help to ensure that the project stays on schedule and that all tasks are completed as planned.
 
-In summary, the Incremental Model is a suitable software process model for the development of UTM Grading System. The model involves breaking down the development process into smaller modules, each developed and tested separately, to minimize risk and improve software quality. The model requires planning, requirements gathering, design, implementation, integration, deployment, and maintenance phases, with appropriate deliverables assigned to each phase. Testing methodologies, project management practices, and quality assurance processes can be used to ensure that the system meets the specified requirements.
 
 
 ### 6. Budget:
