@@ -166,7 +166,7 @@ To mitigate these risks, a few steps can be taken:
 | System Testing and Debugging   | Run the system test and fix the bugs         | Week 13 to Week 15|
 | System Documentation           |                                              | Week 10 to Week 14|
 | Project Demonstration          |                                              | Week 15           |
-| System Maintenance             |                                              | Week 14 to Week 16|
+| System Maintenance             |                                              | 6 months after Week 15|
 
 
 ### 12. Conclusion:
