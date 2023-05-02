@@ -125,64 +125,93 @@ During this stage, the team will test the system to make sure it complies with t
       </thead>
       <tbody>
         <tr>
-          <td rowspan="3">Phase 1: Planning and Design</td>
-          <td>Identify project goals, objectives, and success criteria.</td>
-          <td>All</td>
-          <td rowspan = "3">Week 1</td>
-          <td> Done </td>
+          <td rowspan="2">Phase 1: Planning</td>
+          <td>Defines the project's objectives, requirements, and scope. Creates a plan for the project that includes deadlines and checkpoints.</td>
+          <td>Project Manager</td>
+          <td>1 week</td>
+          <td>Complete</td>
         </tr>
         <tr>
-          <td>Gather and document all the requirements of the system.</td>
-          <td>Requirement Analyst</td>
-          <td>Ongoing</td>
-        </tr>
-        <tr>
-          <td>Assist in documenting the requirements in a clear and concise manner.
+          <td>Drafts a project plan document and a requirements document based on the project manager's inputs.</td>
           <td>Documentation Specialist</td>
-          <td>Ongoing</td>
+          <td>2 weeks</td>
+          <td>Partially Complete</td>
+        </tr>
         <tr>
-          <td rowspan="4">Phase 2: Development</td>
-          <td>Design the user experience of the system.</td>
+          <td rowspan="3">Phase 2: Design</td>
+          <td>Creates prototypes, wireframes, user journey maps, and user stories. Carries out usability testing and user research to improve the design.</td>
           <td>User Experience Designer</td>
-          <td rowspan = "4">Week 2-4</td>
-          <td>None</td>
+          <td>4 Weeks</td>
+          <td>Incomplete</td>
         </tr>
         <tr>
-          <td>Design the user interface of the system.</td>
-          <td>All</td>
-          <td>None</td>
+          <td>Offer technical advice on constraints of the system. Creates a technical design document and an architectural diagram. </td>
+          <td>Main Developer</td>
+          <td>2 Weeks</td>
+          <td>Incomplete</td>
         </tr>
         <tr>
-          <td>Develop the system based on the design document and prototype.</td>
-          <td>Main developer</td>
-          <td>None</td>
+          <td>Drafts a design document that includes the user stories, user journey maps, wireframes, prototypes, architectural diagram, and technical design document. </td>
+          <td>Documentation Specialist</td>
+          <td>1 Week</td>
         </tr>
         <tr>
-          <td>Assist in coding and unit testing.
-          <td>Developer assistant</td>
-          <td>None</td>
-        </tr>
-        <tr>
-          <td rowspan="4">Phase 3: Testing and Deployment</td>
-          <td>Perform various testing activities such as functional testing, integration testing, and performance testing.</td>
+          <td rowspan="2">Phase 3: Development</td>
+          <td>Develops the system code and unit tests. Integrates the code and performs integration testing. </td>
           <td>Quality Assurance Analyst</td>
-          <td rowspan="4">Week 5-6</td>
-          <td>None</td>
+          <td>6 Weeks</td>
+          <td>Incomplete</td>
         </tr>
         <tr>
-          <td>Assist in the testing activities.</td>
-          <td>Developer assistant</td>
-          <td>None</td>
+          <td>Documents the codebase and version control process.</td>
+          <td>Documentation Specialist</td>
+          <td>1 Week</td>
+          <td>Incomplete</td>
         </tr>
         <tr>
-          <td>Deploy the system in a production environment.</td>
-          <td>Main developer</td>
-          <td>None</td>
+          <td rowspan="3">Phase 4: Testing</td>
+          <td>Conducts system testing, regression testing, and performance testing. Resolves defects and bugs.</td>
+          <td>Main Developer</td>
+          <td>4 Weeks</td>
+          <td>Incomplete</td>
         </tr>
         <tr>
-          <td>Create user manuals and training manuals.</td>
-          <td>Requirement analyst</td>
-          <td>None</td>
+          <td>Conducts usability testing to ensure the application meets the user requirements and expectations.</td>
+          <td>User Experience Designer</td>
+          <td>2 Weeks</td>
+          <td>Incomplete</td>
+        </tr>
+        <tr>
+          <td>Drafts a testing document that includes test cases, test scripts, and test results.</td>
+          <td>Documentation Specialist</td>
+          <td>1 week</td>
+          <td>Incomplete</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Phase 5: Deployment</td>
+          <td>Deploys the application to the production environment. Conducts smoke testing and post-deployment testing. </td>
+          <td>Main Developer</td>
+          <td>1 Week</td>
+          <td>Incomplete</td>
+        </tr>
+        <tr>
+          <td>Drafts a deployment document that includes the deployment process and any post-deployment support plans.</td>
+          <td>Documentation Specialist</td>
+          <td>1 Week</td>
+          <td>Incomplete</td>
+        </tr>
+         <tr>
+          <td rowspan="2">Phase 6: Maintenance</td>
+          <td>Provides ongoing maintenance and support for the system.</td>
+          <td>Main Developer</td>
+          <td>2 Weeks</td>
+          <td>Incomplete</td>
+        </tr>
+        <tr>
+          <td>Updates the documentation based on any changes to the application or its environment. </td>
+          <td>Documentation Specialist</td>
+          <td>2 Weeks</td>
+          <td>Incomplete</td>
         </tr>
       </tbody>
     </table>
