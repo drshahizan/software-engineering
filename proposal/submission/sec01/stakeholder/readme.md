@@ -24,7 +24,7 @@ Don't forget to hit the :star: if you like this repo.
   <td>1.</td> <td> Neo Zheng Weng </td> <td> A22EC0093 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/rsz_3photograph_neo_zheng_weng.jpg" width=150px, height=200px> </td>
   </tr>
 <tr>
-  <td>2.</td> <td> WONG KHAI SHIAN NICHOLAS </td> <td> A22EC0292 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/rsz_1dsc_0711.jpg?raw=true" width=200px, height=250px> </td>
+  <td>2.</td> <td> WONG KHAI SHIAN NICHOLAS </td> <td> A22EC0292 </td> <td><img src=""> </td>
   </tr>
 <tr>
   <td>3.</td> <td> JOSEPH LAU YEO KAI </td> <td> A22EC0055 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/photo_2022-05-11_16-06-06.jpg?raw=true" width=150,height=300> </td> 
@@ -82,20 +82,20 @@ Our proposed student accommodation system aims to achieve the following objectiv
 
 1. **Specific:** Create an efficient system for hostel room allocation that cuts the time needed by 50%.<br>
 **Measurable:** Determine the reduction in allocation time by doing a comparism before and after the new system is implemented.<br>
-**Achievable:** Work together to establish the allocation procedure with the student accomodation admistrators and the KTDI staff.<br>
-**Relevant:** The objective supports streamlining and enhancing efficiency in the room allocation procedure.<br>
+**Achievable:** More flexibility for students to make their own decision for choosing their allocated rooms.<br>
+**Relevant:** To support streamlining and enhancing efficiency in the room allocation procedure.<br>
 **Time-bound:** The objective will be achieved within the first year of the project.
 
-2. **Specific:** Apply data analysis to guide room distribution choices, occupancy rates can be raised by 10%.<br>
+2. **Specific:** Display, occupancy rates can be raised by 10%.<br>
 **Measurable:** Keep track of the occupancy rates before and after the new system is put in place to gauge the growth.<br>
 **Achievable:** Future allocation decisions could be achieved via gathering and analysing data on room allocation trends.<br>
 **Relevant:** The utilisation of available housing will improve with higher occupancy rates, which will also lessen the requirement for interim housing.<br>
 **Time-bound:** The objective will be achieved within the first two years of the project.
 
-3. **Specific:** Install a maintenance tracking system that cuts the time it takes to respond to maintenance requests by 50%.<br>
-**Measurable:** To gauge the decrease in response time, perform a time audit before and after the new system is implemented.<br>
-**Achievable:** Create and put into use a system for tracking maintenance that increases the effectiveness of the maintenance procedure.<br>
-**Relevant:** Enhancing the maintenance procedure will improve student satisfaction and lessen disruption brought on by maintenance problems.<br>
+3. **Specific:** Develop a maintenance tracking system that reduces the respond times to maintenance requests by 50%.<br>
+**Measurable:** To measure the decrease in response time by performing a time audit before and after the new system is implemented.<br>
+**Achievable:** The effectiveness of the maintenance procedure could be increased by creating a system for tracking maintenance.<br>
+**Relevant:** The condition of equipments in KTDI residence will always be sustainable and well maintained.<br>
 **Time-bound:** The objective will be achieved within the second year of the project.
 
 4. **Specific:** 20% more students will be generally satisfied with the housing allocation procedure.<br>
