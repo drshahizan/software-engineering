@@ -12,14 +12,14 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Section 1
 
-| No | Topic | Description | Activity | Document |
-| :-----: | ------ | ------ | :------: | :------: |
-| 1 | Curiousity | UTM Events Management System |<a href="sec01/curiousity" ><img src="../images/task.png" width="24px" height="24px" ></a> | <a href="https://drive.google.com/drive/folders/1aYNPTLyEzhnXa1N3ZhKtyqyPSq3My5vw?usp=sharing" ><img src="../images/drive_google.png" width="24px" height="24px" ></a> |
-| 2 | Lastminpotential | UTM Library Management System |<a href="sec01/lastminpotential" ><img src="../images/task.png" width="24px" height="24px" ></a> |<a href="https://drive.google.com/drive/folders/1Jd9PpRl-T7ZPukk70ngpkfTASOn2Dczd?usp=sharing" ><img src="../images/drive_google.png" width="24px" height="24px" ></a>  |
-| 3 | Limapuluh | UTM Student Feedback System |<a href="sec01/limapuluh" ><img src="../images/task.png" width="24px" height="24px" ></a> |<a href="https://drive.google.com/drive/folders/165mLbTsRNmratunYS83trkycvVrxzZxc?usp=sharing" ><img src="../images/drive_google.png" width="24px" height="24px" ></a>  |
-| 4 | Cutie | UTM Student Attendance Management System |<a href="sec01/cutie" ><img src="../images/task.png" width="24px" height="24px" ></a> | <a href="https://drive.google.com/drive/folders/1Cc6jUmvTntoEq5_M8lMJhg6jELg_-IfI?usp=sharing" ><img src="../images/drive_google.png" width="24px" height="24px" ></a> |
-| 5 | Systema | Student Engagement | <a href="sec01/systema" ><img src="../images/task.png" width="24px" height="24px" ></a> | <a href="https://drive.google.com/drive/folders/1oOTv_M35HU2o4OQtKXo2ISYAOgdxs9-5?usp=sharing" ><img src="../images/drive_google.png" width="24px" height="24px" ></a> |
-| 6 | Stakeholder | Student Accomodation System in KTDI |<a href="sec01/stakeholder" ><img src="../images/task.png" width="24px" height="24px" ></a> | <a href="https://drive.google.com/drive/folders/1xP1JuvAbcXbyt3EyxCFSW0-bMcZxaPd5?usp=sharing" ><img src="../images/drive_google.png" width="24px" height="24px" ></a> |
+| No | Topic | Description | Document |
+| :-----: | ------ | ------ | :------: | 
+| 1 | Curiousity | UTM Events Management System |<a href="submission/sec01/Curiousity" ><img src="../images/task.png" width="24px" height="24px" ></a> | 
+| 2 | Lastminpotential | UTM Library Management System |<a href="submission/sec01/lastminpotential" ><img src="../images/task.png" width="24px" height="24px" ></a> |
+| 3 | Limapuluh | UTM Student Feedback System |<a href="submission/sec01/limapuluh" ><img src="../images/task.png" width="24px" height="24px" ></a> |
+| 4 | Cutie | UTM Student Attendance Management System |<a href="sec01/cutie" ><img src="../images/task.png" width="24px" height="24px" ></a> | <
+| 5 | Systema | Student Engagement | <a href="sec01/systema" ><img src="../images/task.png" width="24px" height="24px" ></a> | 
+| 6 | Stakeholder | Student Accomodation System in KTDI |<a href="sec01/stakeholder" ><img src="../images/task.png" width="24px" height="24px" ></a> | 
 
 ## Section 2
 
