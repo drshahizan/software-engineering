@@ -61,36 +61,15 @@ To address the problem of limited access and awareness of campus events, and to 
 To complete the aforementioned goals within the upcoming two months and keep track of and continuously assess the system's effectiveness and impact.
 
 ### 4. Scope🔍: 
-<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Curiousity/Project%20Scope.png?raw=true" alt="Scope"></img>
+Our proposed system is named <b>UTM Event Management System</b>. It will provide a web-based platform to let the event organizers plan, manage, and execute events more efficiently.
+This web-based system will include the following features or functionality:
+-	Event planning and organization.
+-	Event registration.
+-	Onsite management to monitor the event progress.
+-	Analytics and reporting for evaluating the effectiveness of the system.
+-	Attendee engagement to identify areas for improvement.
+-	Our system is limited to Kolej Tun Dr. Ismail (KTDI) events only and it will not provide any access to the other organizers such as PERSAKA club, AIESEC, Losting Music Club, etc.
 
-<b>Event planning and organisation:</b>
-Our system will offer resources for developing and managing event schedules, defining event goals, locating events, and identifying target audiences. This will make it easier to plan and organise successful events by ensuring that all necessary information is centralised.
-
-<b>Event registration:</b> 
-The system we build will have tools for developing and managing event registration and ticketing procedures, as well as for generating attendee lists and collecting payments if necessary. Both event organisers and attendees will benefit from the registration process being streamlined and made more effective in this way.
-
-<b>Onsite management:</b>
-Our system will provide tools for coordinating with organizers, monitoring event progress, and handling emergencies. This will help ensure that events run smoothly and that any issues are addressed quickly and effectively.
-
-<b>Analytics and reporting:</b> 
-Tools for collecting and analysing event data, creating reports, and pinpointing problem areas will all be part of our system. This will assist event planners in gaining insightful information about event performance and in making data-driven decisions for upcoming events.
-
-<b>Attendee Engagement:</b> 
-Our system will facilitate attendee engagement by providing tools such as surveys and feedback forms. This will help organizers gather valuable feedback from attendees and improve the overall event experience.
-
-<b>Customization and branding:</b> 
-To coordinate with the branding of the organisation or event, our system will offer customization and branding options. This will ensure that the system is consistent with the organization's or event's overall branding.
-
-<b>Website design:</b> 
-Our system will be developed using HTML and CSS to produce a user-friendly, straightforward, and aesthetically pleasing website.
-
-<b>Website testing: </b> 
-Before implementing the system, we will test the website multiple times to detect any issues and ensure that it is functioning as intended.
-
-<b>Project monitoring and documentation:</b>
-We will continuously monitor and document the project to keep track of progress and optimize website performance. This will help ensure that the project is completed on time and within budget.
-
-All in all, our team is dedicated to creating a thorough and user-friendly campus event management system that will facilitate and improve event planning and organisation for both hosts and attendees. To guarantee that the system is delivered on time, within budget, and to the highest standards of quality, we will use an agile software development process model.
 
 ### 5. Software Process Model🛠️:
 A software process model's main objective is to offer a framework for the systematic and organised development of software. It offers a collection of tasks, products, and deadlines to make sure the software is created quickly and effectively. A software process model's main objective is to make sure that the software is high-quality, delivered on time, and within budget while also meeting the requirements of the stakeholders.
@@ -344,8 +323,8 @@ Note: All costs mentioned above are estimates and are subject to change based on
     <th align= "left">Data sources</th>
     <td>
       <ul>
-        <li>Event organisers will enter the event data which includes information about the event itself, such as the date, time, location and event type.</li?
-        <li>The event registration forms will collect data which includes attendee information such as names,email addresses,phone numbers and other contact details.</li>
+        <li>Event data which includes information about the event itself, such as the date, time, location and event type.</li?
+        <li>Attendee data which includes attendee information such as names,email addresses,phone numbers and other contact details.</li>
       <li>The survey tools integrated with the event management system will collect data and provide insights into attendee satisfaction, areas of improvement, and future event ideas.</li>
   </ul>
     </td>
