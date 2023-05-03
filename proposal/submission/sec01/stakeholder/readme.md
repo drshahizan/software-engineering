@@ -86,7 +86,7 @@ Our proposed student accommodation system aims to achieve the following objectiv
 **Relevant:** To support streamlining and enhancing efficiency in the room allocation procedure.<br>
 **Time-bound:** The objective will be achieved within the first year of the project.
 
-2. **Specific:** Display, occupancy rates can be raised by 10%.<br>
+2. **Specific:** Simplify the room management process which reduce the steps needed by 30%.<br>
 **Measurable:** Keep track of the occupancy rates before and after the new system is put in place to gauge the growth.<br>
 **Achievable:** Future allocation decisions could be achieved via gathering and analysing data on room allocation trends.<br>
 **Relevant:** The utilisation of available housing will improve with higher occupancy rates, which will also lessen the requirement for interim housing.<br>
