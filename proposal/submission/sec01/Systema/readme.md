@@ -299,7 +299,9 @@ Block Diagram:
 
 
 ### 10. Technical Specifications:
-| Data Sources          | - Student datas from myUTM <br>- Engagement data different clubs and faculties                                                                   |
+|                       |                                                                                                                                                  |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| Data Sources          | - Student datas from myUTM<br>- Engagement data different clubs and faculties                                                                    |
 | Data Schema           | The data schema will have tables that store of students information, clubs details, data from different faculties and departments in UTM.        |
 | Data Transformation   | The data will be transformed into insights to understand students likings and interest.                                                          |
 | Programming Languages | PHP // HTML // CSS // MySQL                                                                                                                      |
