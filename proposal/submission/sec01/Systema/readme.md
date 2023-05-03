@@ -243,21 +243,44 @@ Block Diagram:
 - Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
 
   1. Staff:
-      + *Quality assurance specialist & Web Developer*          <b>Bernice Lim Jing Xuan</b>
-      + *Business Analyst & User Interface Designer*            <b>Chai Yu Tong</b>
-      + *Support Engineer & Data Analyst*                       <b>Kek Jesslyn</b>
-      + *Security Specialist & Development Operations Engineer* <b>Wong Qiao Ying</b>
-      + *Technical Writer & User Experience Designer*           <b>Yeoh Chong Yi</b>
+      <table border="0">
+  <tr>
+    <th>Role</th>
+    <th>Name</th>
+  </tr>
+  <tr>
+    <td>Quality assurance specialist & Web Developer</td>
+    <td>Bernice Lim Jing Xuan</td>
+  </tr>
+  <tr>
+    <td>Business Analyst & User Interface Designer</td>
+    <td>Chai Yu Tong</td>
+  </tr>
+  <tr>
+    <td>Support Engineer & Data Analyst</td>
+    <td>Kek Jesslyn</td>
+  </tr>
+  <tr>
+    <td>Security Specialist & Development Operations Engineer</td>
+    <td>Wong Qiao Ying</td>
+  </tr>
+  <tr>
+    <td>Technical Writer & User Experience Designer</td>
+    <td>Yeoh Chong Yi</td>
+  </tr>
+</table>
+
   2. Equipment:
       + Computers and laptops for the project team
       + Servers and hosting services for the website
       + Internet connectivity
   3. Software:
-      + Web development software such as HTML, CSS, JavaScript, and PHP
-      + Content management system (CMS) software such as WordPress or Drupal
-      + Graphics software such as Adobe Photoshop or Illustrator
-      + Project management software such as Asana or Trello
-      + Data visualization tools such as Chart.js, D3.js, or Google Charts
+      + User interface: HTML, CSS, JavaScript, and ReactJS
+      + Server-side technology: Node.js and Express.js
+      + Database: MySQL RDBMS
+      + Business intelligence tools: Tableau, Power BI, QlikView
+      + Data visualization libraries: D3.js, Highcharts, Chart.js
+      + Data analysis tools: Python, R, Excel
   4. Other Expenses:
       + Web hosting fees
       + Domain registration fees
