@@ -60,8 +60,19 @@ Our proposed Badal Hajj and Umrah Management System aims to achieve the followin
 
 Overall, these SMART objectives are specific, measurable, achievable, relevant, and time-bound. They align with the goals and objectives of the project and provide a clear roadmap for achieving the desired outcomes.
 
-### 4. Scope: 
+### 4. Scope:
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FNTdtMEWuSQND0gCJ3DDbLZ%2FPROPOSAL%3Fnode-id%3D0%253A1%26t%3D99It8n5SelMfniqU-1" allowfullscreen></iframe>
+
 The Badal Hajj and Umrah management system proposed in this project will included several functionalities and features that are required in order to solve the problems that the company have. This system will be web-based and application software.This is the detail of the features and functionality of the system:
+
+-Top management, middle management and client registration and login.
+-Client main menu that include all services that the company provided.
+-Middle management main menu for editing, updating and viewing all the data that have been received.
+-Top management main menu to see all the data flow in and out in a simplified dashboard.
+-Payment gateway menu for payment purpose for all of the company services provided.
+-Third-party software usage such as Microsoft Excel and word for saving all the data and for all the documented form.
+-Analytic and reporting for monitoring and evaluating the effectiveness of the system.
 
 
 ### 5. Software Process Model:
