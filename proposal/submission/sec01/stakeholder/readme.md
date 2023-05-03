@@ -360,7 +360,7 @@ I. Staff Resources:<br>
  - 2. Muhammad Danial
  - 3. Wong Khai Shian Nicholas
  - 4. Low Jie Sheng<br></ul>
-  Responsible for assisting the main developer in software development tasks such as coding, testing, and deployment.
+  Responsible for assisting the main developer in software architecture designing and also software development tasks such as coding, testing, and deployment.
   
 - Requirements Analyst: Wong Khai Shian Nicholas<br>Responsible for analyzing the project requirements and documenting the functional and non-functional requirements of the software application.
   
