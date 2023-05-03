@@ -88,7 +88,16 @@ Activities for each phase of the Agile methodology:
 The Hardware and Software cost is used for development and testing of the system.
 
 ### Development Team : RM 480,000
-The development team cost is to pay monthly salary for the developing the system, including project manager, 
+The development team cost is to pay monthly salary for the developing the system, including a main developer, a technical lead, a UX/UI designer and QA/Test engineer.  
+
+### Project Management and Quality Assurance : RM 144,000
+The cost for project management and quality assurance is to define the escope of the project, create timeline and allocate recources while also undergoes several testing and veryfying to meet the specifiesd requirements of the system.
+
+### Marketing and Promotion : RM 50,000
+The marketing and promotion cost will cover the cost of promoting the system to potential users, which in here is Academic Advisor and also students.
+
+### Other costs : RM 100,000
+This is cost will cover any activities associated with developing and deploying the system, including legal and accounting fees, website desing and development, and ongoing maintenance and support. 
 
 ### 7. System Architecture:
 
