@@ -183,7 +183,6 @@ In conclusion, the Agile software process model is an ideal choice for the propo
         <td>4 weeks</td>
         <td>incomplete</td>
       </tr>
-      
       <tr>
         <td>Phase 4:Review </td>
         <td>Demoing the completed features, presenting to the stakeholders and gathering feedback</td>
