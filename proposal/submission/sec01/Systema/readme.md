@@ -23,6 +23,7 @@
     <td>###</td>
   </tr>
   </table>
+  
 ### Table of Contents
 1. [Executive Summary](#executive-summary)
 2. [Background](#background)
