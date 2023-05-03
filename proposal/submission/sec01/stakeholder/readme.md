@@ -82,8 +82,8 @@ Our proposed student accommodation system aims to achieve the following objectiv
 
 1. **Specific:** Create an efficient system for hostel room allocation that cuts the time needed by 50%.<br>
 **Measurable:** Determine the reduction in allocation time by doing a comparism before and after the new system is implemented.<br>
-**Achievable:** <br>
-**Relevant:** To support streamlining and enhancing efficiency in the room allocation procedure and more flexibility for students to make their own decision for choosing their allocated rooms.<br>
+**Achievable:** Work together to establish the automated online allocation procedure with the student accomodation admistrators and the KTDI staff.<br>
+**Relevant:** To support streamlining and enhancing efficiency in the room allocation procedure.<br>
 **Time-bound:** The objective will be achieved within the first year of the project.
 
 2. **Specific:** Simplify the room management process which reduce the manual steps needed by 55%.<br>
@@ -119,9 +119,9 @@ The scope refers to the boundaries of the project and outlines the features and 
 
 - KTDI college merit calculator: The fellows could manage and collect the student college merits based on the college activities that participated by them. The final report on students' college merit marks will be generated automatically. Whoever meet the minimum requirement of college merit marks will be given the priorities to apply KTDI hostel.
 
-- Room allocation: <br>According on the students' choices, room availability and KTDI merits, the system can assign rooms to them using the room allocation tool. The system should include elements including the student's academic programme, year of study and any unique requirements or requests, such as health condition in order to take note in the allocation process. This process will prioritise the students with higher hostel merits to prefer their desired hostel block as well as room number. The system should provide a calendar view of the real time room availability and allow students to select their preferred room and check-in and check-out dates.
+- Room allocation: <br>According on the students' choices, room availability and KTDI merits, the automated system can assign rooms to them using the room allocation tool. The system should include elements including the student's academic programme, year of study and any unique requirements or requests, such as health condition in order to take note in the allocation process. This process will prioritise the students with higher hostel merits to prefer their desired available hostel block as well as room number. The system should provide a calendar view of the real time room availability and assist students to select their preferred room and check-in and check-out dates.
 
-- Room management: <br>The room management feature allows students to manage their rooms through the system. This includes room changing, check-in, check-out and maintenance requests. It should also allow students to request maintenance services for their room and track the status of the request. This system also allow students to register their brought electrical appliances and the KTDI staff or administrative can always control the room of each student.
+- Room management: <br>The room management feature allows students to manage their rooms through the system. This includes room changing, room cancellation, check-in, check-out and all of these will be done via online. It should also allow students to request maintenance services for their room and track the status of the request. This system also allow students to register their brought electrical appliances and the KTDI staff or administrative can always control the room of each student.
 
 - Payment management: <br>Students can use the system to pay their lodging costs via the payment management tool. The system should enable students to monitor their payment history and receipts and offer safe payment options like internet banking and also convinence payment method, such as TnG e-wallet and duitnow QR code. The payment will include the fees of room rentaling, charges in extra electical appliances as well as the sumon given by KTDI staff.
 
