@@ -210,24 +210,24 @@ Agile methodology for developing the Student Accommodation System in Kolej Tun D
     </table>
     
 #### Testing methodologies:
-    To assure the quality and functionality of the system, the following are carrying out:
-    - Unit testing 
-    - Integration testing
-    - System testing
-    - Acceptance testing
-    - Usability testing
+To assure the quality and functionality of the system, the following are carrying out:
+  - Unit testing 
+  - Integration testing
+  - System testing
+  - Acceptance testing
+  - Usability testing
     
 #### Project management techniques:
-    Leverage technologies like below are used to track progress and guarantee task completion on time:
-    - Kanban boards
-    - Sprint planning
-    - Regular stand-up meetings 
+Leverage technologies like below are used to track progress and guarantee task completion on time:
+  - Kanban boards
+  - Sprint planning
+  - Regular stand-up meetings 
     
 #### Quality assurance procedures: 
-    To maintain code quality and reduce errors, the procedures are as follows:
-    - Code review
-    - Continuous integration
-    - Automated testing
+To maintain code quality and reduce errors, the procedures are as follows:
+  - Code review
+  - Continuous integration
+  - Automated testing
     
 These procedures are essential for ensuring the effective deployment and operation of the KTDI system for student accommodation.
     
