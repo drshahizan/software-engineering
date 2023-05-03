@@ -104,12 +104,21 @@ The Faculty of Computing Feedback System will provide measurable benefits to all
 </ul>
 
 ### 5. Software Process Model:
-#### Agile methodology is the optimal software process model for the creation of the Faculty Feedback System. Software development using the agile methodology is flexible and iterative, allowing for ongoing input and adaption. It is appropriate for this project since it enables us to release functional software frequently and fast in response to changes.
+<p>Agile methodology is the optimal software process model for the creation of the Faculty Feedback System. Software development using the agile methodology is flexible and iterative, allowing for ongoing input and adaption. It is appropriate for this project since it enables us to release functional software frequently and fast in response to changes.</p>
 <img width="465" alt="image" src="https://mobile-jon.com/wp-content/uploads/2021/04/Agile-Methodology.jpg">
 - The illustration of chosen software process model that relates to your project and shows every phase involved in the chosen software process model
-- Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. 
-- It should also describe the testing methodologies, project management practices, and quality assurance processes.
-
+  <p><b>Planning phase:</b>Project manager (Tan Jun Yuan) will decide the goal and scope of the system during this phase. Project manager will also produce a paper outlining the essential specifications for the product within two weeks. Then, user stories are chosen and requirements are gathered by requirement analyst (Goh Jing Yang) who is in charge of this phase's deliverables, which comprise the requirements document and user stories, and it lasts for four weeks.</p>
+  <p><b>Design phase:</b>UI/UX system designer (Goh Jing Yang) will work on the project's architecture while designing a mockup of the user interface. In order to gather all the requirements on a diagram and identify the project's functionality, the stakeholders are again involved in this step. Additionally, routine checks will make it easier to determine whether or not the design process has taken into account all of the requirements.</p>
+  <p><b>Develop, testing, deploy and review phase:</b>Main developer (Loo Jia Chang) and asistant developer (Chen Pyng Haw) will now begin putting all of the product requirements gathered during the previous phase together. Before it is finished, it goes through numerous reviews and revisions for improvement.</p>
+  <ul>
+    <li>The association of the development team with project manager.</li>
+    <li>Iterations and functionalities are prioritized and implemented.</li>
+    <li>Each sprint/iteration should be closely examined and developed.</li>
+    <li>Delivering regular working software releases.</li>
+    <li>Ensuring product quality by testing at regular intervals.</li>
+  </ul>
+  <p>The duration for this phase is arund 10 weeks.</p>
+  <p><b>Launch phase:</b>The quality assurance team conducts tests to ensure the software's functionality prior to the product's release. The members of the QA team will test the programme to ensure that the code is clear, and if there are any possible issues or defects, the development team will take swift action to fix them.The duration for this phase is two weeks.After all work is done, this system will be launched.</p>
 ### 6. Budget:
 - The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
 
