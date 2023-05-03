@@ -61,7 +61,7 @@ Don't forget to hit the :star: if you like this repo.
  
   
 ### 1. Executive Summary
-This proposal recommends the development of a student engagement website that includes a suite of features designed to facilitate student engagement and enhance the student experience. The website will serve as a hub for students to access course-specific information, connect with their peers, and stay up-to-date with important academic events and deadlines.
+This proposal recommends the development of a student engagement website for students in Faculty Computing of University Teknologi Malaysia that includes a suite of features designed to facilitate student engagement and enhance the student experience. The website will serve as a hub for students to access course-specific information, connect with their peers, and stay up-to-date with important academic events and deadlines.
 <br></br>
 The key features of the student engagement website include:
 <ul>
