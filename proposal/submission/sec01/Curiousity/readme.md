@@ -449,7 +449,7 @@ Note: All costs mentioned above are estimates and are subject to change based on
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
-### 11. Timeline and Deliverables📅: 
+### 11. Timeline and Deliverables: 
 -Below is the timeline and deliverables of the project:
     <table style="border-collapse: collapse;">
       <thead>
