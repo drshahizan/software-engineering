@@ -510,7 +510,7 @@ Quality Assurance and Testing Procedures
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
-### 12. Conclusion✏️:
+### 12. Conclusion:
 
 The proposed system aims to improve the usability and effectiveness of the previous system by addressing the issue of low participation rates in co-curricular activities in universities while also enhancing the effectiveness of promoting events to students.
 
