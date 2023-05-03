@@ -9,6 +9,8 @@
   2. Maisarah Binti Rizal A22EC0192
   3. Nur Arini Fatihah Binti Mohd Sabir A22EC0244
   4. Mulyani Binti Saripuddin A22EC0223
+![photo_2023-05-02_14-15-59](https://user-images.githubusercontent.com/128214992/235843037-31e5d853-95de-4675-8a95-12832052dd16.jpg)
+
 
 ### Table of Contents
 - [Executive Summary](#1-executive-summary)
