@@ -327,11 +327,11 @@ Block Diagram:
 | Data Sources          | <ul><li>Student datas from myUTM</li><li>Engagement data different clubs and faculties</li></ul>|
 | Data Schema           | The data schema will have tables that store of students information, clubs details, data from different faculties and departments in UTM.|
 | Data Transformation   | The data will be transformed into insights to understand students likings and interest.|
-| Programming Languages | PHP // HTML // CSS // MySQL|
-| Frameworks            | Laravel // CodeIgniter|
+| Programming Languages | JavaScript // HTML // CSS // MySQL|
+| Frameworks            | ReactJS
 | Libraries             | Bootstrap // jQuery |
 | Hardware Requirements | <ul><li>Processor: A multi-core processor</li><li>RAM: 4GB or higehr</li><li>Storage: 50GB or higher</li><li>Display: Resolution of 1920x1080 or higher</li></ul>|
-| Software Requirements | <ul><li>Operating system: Windows 7 or higher</li><li>IDE: Visual Studio Code, Bootstrap Studio</li><li>Web server: Apache</li><li>Database: MySQL</li><li> Version control: Git</li></ul> |
+| Software Requirements | <ul><li>Operating system: Windows 7 or higher</li><li>IDE: Visual Studio Code, Bootstrap Studio</li><li>Web server: Node.js and Express.js</li><li>Database: MySQL</li><li> Version control: Git</li></ul> |
 
 
 ### Timeline and Deliverables
@@ -405,12 +405,12 @@ To ensure the quality of the student engagement system, the following testing pr
 
 
 ### Conclusion
-This ppropsed system provide innovative solution in improving students engagement and their extra curricular perforamnce in UTM. 
+This proposed system provides innovative solution in improving students engagement and their extra curricular performance in UTM. 
 
-The implementation of this project ofers widespread benefits, including better extra-curricular performance for students, first-hand annoucement and news for the entire university community, improved student-student engagement and increased club prestige. The system will also provide meaningful insights for different departments, allowing them to make data-driven decisions and evaluate the impacts of their strategies.
+The implementation of this project ofers widespread benefits, including better extra-curricular performance for students, first-hand announcement and news for the entire university community, improved student-student engagement and increased club prestige. The system will also provide meaningful insights for different departments, allowing them to make data-driven decisions and evaluate the impacts of their strategies.
 
 However, potential limitation such as data quality, technical limitations and user adoption may arise during the implementation of this system. To mitigate these challenges, our team will work collaboratively with full commitment to ensure all issues addresed are resolved.
 
-Therefore, we hope the decision-makers will approve our proeject. With your ideas and supports, we together can develop a system that is beneficial to a wide range of users. 
+Therefore, we hope the decision-makers will approve our project. With your ideas and supports, we together can develop a system that is beneficial to a wide range of users. 
 
 
