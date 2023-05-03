@@ -36,7 +36,8 @@ Don't forget to hit the :star: if you like this repo.
   <td>5.</td> <td> MUHAMMAD DANIAL BIN AHMAD SYAHIR </td> <td> A22EC0206 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/WhatsApp%20Image%202023-03-29%20at%2012.25.53%20AM.jpeg?raw=true" width=200px, height=200px> </td>
   </tr>
 </table>
-### Meeting with our stakeholder:
+
+### eeting with our stakeholder:
 <img src= "https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/stakeholder%20hamdan.jpg?raw=true">
 
 ---
