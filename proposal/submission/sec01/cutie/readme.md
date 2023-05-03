@@ -66,19 +66,20 @@ Testing methodologies such as unit testing, integration testing, system testing,
 ### 6. Budget:
 <p>The development of UTM Student Attendance Management System for around 20,000 users in UTM will involve many costs that are required, such as team salaries, software tool, hardware and infrastructure, training and professional development and other expenses that are unexpected. So the budget for this project in 1 year is estimated at RM 498,900 and the details are stated below: </p>
 <ol>
-  <li><ul>Salaries (RM 444 000)
+  <li><b>Salaries (RM 444 000)</b>
     <ul><li>Pay the team members involved in the development process, such as project managers, business analysts, software developers etc.</li></ul>
 </li>
-<li>Hardware and infrastructure (RM 1 200 000)
+  <li><b>Hardware and infrastructure (RM 1 200 000)</b>
 <ul><li>The cost to purchase or lease hardware and infrastructure required to reinforce the development process, such as servers, workstations, network equipment, and storage devices.</li></ul>
   </li>
-Software tools and licences (RM 131 600)
-The software budget covers the cost for software tools and platforms licence that are necessary for the development of the attendance system. This includes softwares such as IDE, testing tools and database management tools.
-Training and professional development (RM 100 000)
-The cost to train each member of the team to achieve the required certifications to develop the system more effectively via training programs.
-Others (RM 120 000)
-Other expenses that may arise during the development process, such as legal fees, insurance ,unexpected expenses etc.
-In conclusion, the estimated budget for the development of the UTM Attendance Management system in 1 year is RM 1,995,600. This budget will cover team salaries, software tools and licences, hardware and infrastructure, training and professional development and other expenses that are unexpected. If there are any changes in budget, stakeholders and project sponsors will be informed and have a discussion .
+  <li><b>Software tools and licences (RM 131 600)</b></li>
+<ul><li>The software budget covers the cost for software tools and platforms licence that are necessary for the development of the attendance system. This includes softwares such as IDE, testing tools and database management tools.</li></ul>
+  <li><b>Training and professional development (RM 100 000)</b></li>
+<ul><li>The cost to train each member of the team to achieve the required certifications to develop the system more effectively via training programs.</li></ul>
+  <li><b>Others (RM 120 000)</b></li>
+<ul><li>Other expenses that may arise during the development process, such as legal fees, insurance ,unexpected expenses etc.</li></ul>
+  </ol>
+<p>In conclusion, the estimated budget for the development of the UTM Attendance Management system in 1 year is RM 1,995,600. This budget will cover team salaries, software tools and licences, hardware and infrastructure, training and professional development and other expenses that are unexpected. If there are any changes in budget, stakeholders and project sponsors will be informed and have a discussion. </p>
 
 
 
