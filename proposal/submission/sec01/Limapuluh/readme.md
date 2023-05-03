@@ -101,6 +101,9 @@ Implementing a student feedback system can also foster transparency and communic
 Finally, implementing a student feedback system can support UTM's efforts to maintain accreditation and compliance with relevant regulations. Many accrediting bodies require universities to collect and use student feedback to inform decision-making and improve educational outcomes. A robust student feedback system can help UTM meet these requirements and maintain its status as a top-tier institution.
 
 ### 4. Scope: 
+
+<img src="https://i.imgur.com/q5k7A41.jpg" alt="an image">
+
 The scope of the project includes the enhancement of the current student feedback system at our university. This includes:
   
 #### 1) Assessing the current system
@@ -126,7 +129,7 @@ The scope of the project includes the enhancement of the current student feedbac
 
 For the proposed Student Feedback Management System, the<b> Agile methodology</b> is an ideal software process model. This model allows for flexibility and responsiveness to stakeholder feedback while ensuring timely delivery of a functional feedback management system. It provides a framework for managing project risks and ensuring that quality and performance are maintained throughout the development process.
   
-  <img src="https://interqualitybg.com/images/AGILE_METHODOLOGY_InterQuality_image_1.jpg">
+  <img src="https://i.imgur.com/UpwBgXJ.jpg" alt="an image">
 
   <h3>The Agile software process model involves the following phases:</h3>
 
@@ -157,6 +160,11 @@ In conclusion, the Agile software process model is an ideal choice for the propo
 ### 7. System Architecture:
 The proposed system architecture for a student feedback system in University Technology Malaysia (UTM) can be designed as follows:
 
+  <p align="center"><img src="https://i.imgur.com/O6h9rw2.jpg" height="1100" width="500"></p>
+
+**Authentication and Security Module**:<br>
+The authentication and security module will be responsible for ensuring that only authorized users can access the system. It will use secure authentication protocols and data encryption techniques to protect the sensitive information collected from students. This module will ensure that the feedback system is secure, confidential, and compliant with data privacy regulations.
+  
 **Front-end Interface**:<br>
 The front-end interface will be the part of the system that the students will interact with. It will be a user-friendly interface that allows students to provide feedback on various aspects of their learning experience, including instructors, courses, and facilities. The interface will be accessible through a web-based platform, making it easy for students to provide feedback from anywhere, at any time.
 
@@ -168,9 +176,6 @@ The data processing and analysis module will be responsible for analyzing the fe
 
 **Reporting Module**:<br>
 The reporting module will be responsible for generating reports based on the feedback data collected. These reports will be designed to provide insights into the strengths and weaknesses of the educational system at UTM, as well as the needs and preferences of the students. These reports can be used by the faculty and administration to make data-driven decisions to improve the quality of education and the student experience.
-
-**Authentication and Security Module**:<br>
-The authentication and security module will be responsible for ensuring that only authorized users can access the system. It will use secure authentication protocols and data encryption techniques to protect the sensitive information collected from students. This module will ensure that the feedback system is secure, confidential, and compliant with data privacy regulations.
 
 **Integration Module**:<br>
 The integration module will allow for the integration of the feedback system with other systems and applications used at UTM, such as the Learning Management System (LMS). This will enable the system to access relevant student data and provide a more comprehensive analysis of the feedback data collected. The integration module will also enable the system to send alerts and notifications to relevant stakeholders, such as instructors and administrators, based on the feedback data collected.
@@ -208,12 +213,25 @@ We understand the importance of data privacy and security when designing a stude
 </ul>
 
 ### 10. Technical Specifications:
+  
+| Task | Software |
+| -------------------------------- | ------------------------------ |
+| Data Source | Google Form |
+| Data Transformation | R Programming |
+| Machine Learning Algorithms| R Programming|
+| Data Visualization Tools | R Programming |
+| Programming Languages| C++ |
+| Frameworks | Flask |
+| Database Management | SQLAlchemy |
+| Libraries | Scikit-learn & NLTK |
+| Hardware & Software Requirements | Amazon Web Services & MySQL database | 
+| Data Security Measures | Active Directory & OpenSSL & OpenVAS |
+  
 <ul>
-  <li><h3>Data Sources</h3><p>The student feedback system will collect feedback data from online surveys only, and the data will be stored in a database management system.</p></li>
-  <li><h3>Data Schema</h3><p>The data schema will be designed to capture various data points, including demographic information, course information, feedback ratings, and open-ended comments. The schema will be flexible to accommodate future changes in data requirements.</p></li>
-  <li><h3>Data Transformations</h3><p>Data transformations will be used to preprocess and clean data before analysis. Techniques such as data imputation and normalization will be applied to handle missing data and ensure consistency.</p></li>
-  <li><h3>Machine Learning Algorithms</h3><p>Machine learning algorithms, such as regression analysis and clustering, will be used to analyze feedback data and identify patterns and trends. Natural language processing techniques will be applied to analyze open-ended comments.</p></li>
-  <li><h3>Data Visualization Tools</h3><p>Data visualization tools, such as R programming, will be used to present feedback data in interactive and meaningful ways. Dashboards will be created to provide real-time feedback to students and faculty.</p></li>
+  <li><h3>Data Sources</h3><p>The student feedback system will collect feedback data from online surveys (Google Form) only, and the data will be stored in a database management system. The data schema will be designed to capture various data points, including demographic information, course information, feedback ratings, and open-ended comments. The schema will be flexible to accommodate future changes in data requirements.</p></li>
+  <li><h3>Data Transformations</h3><p>Software R Programming will be used to preprocess and clean data before analysis. Techniques such as data imputation and normalization will be applied to handle missing data and ensure consistency.</p></li>
+  <li><h3>Machine Learning Algorithms</h3><p>Machine learning algorithms, such as regression analysis and clustering, will be used to analyze feedback data and identify patterns and trends. Natural language processing techniques will be applied to analyze open-ended comments. This function will also be carried out using R programming.</p></li>
+  <li><h3>Data Visualization Tools</h3><p>Data visualization tools which is also R programming, will be used to present feedback data in interactive and meaningful ways. Dashboards will be created to provide real-time feedback to students and faculty.</p></li>
   <li><h3>Programming Languages, Frameworks, and Libraries</h3><p>The system will be developed using C++ as the main programming language. Flask will be used as the web framework, and SQLAlchemy will be used for database management. Libraries such as Scikit-learn and NLTK will be used for machine learning and natural language processing.</p></li>
   <li><h3>Hardware and Software Requirements</h3><p>The system will require a server with a minimum of 4 GB RAM and 100 GB storage. The system will be hosted on Amazon Web Services (AWS) and will use a MySQL database.</p></li>
   <li><h3>Data Security Measures</h3><p>The system will implement various data security measures, including access control, encryption, and regular security audits. Access to the system will be restricted to authorized personnel, and sensitive data will be encrypted both in transit and at rest. Regular security audits will be conducted to identify and address potential security vulnerabilities.</p></li>
