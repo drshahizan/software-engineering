@@ -66,6 +66,12 @@ This course is designed to give students an introduction to an engineering appro
 | 3 | Proposal | Guideline for Software Engineering Proposal | <a href="./proposal/materials/guideline.md" ><img src="./images/markdownp.png" width="24px" height="24px" ></a> | 
 | 4 | System Documentation | System Requirements Specification (SRS), System Design Document (SDD), and System Testing Document (STD). | <a href="/project/documentation" ><img src="./images/markdownp.png" width="24px" height="24px" ></a> | 
 
+## Submission
+| No | Module | Description | File |
+| :-----: | ------ | ------ | :-----: | 
+| 1 | Proposal | Guideline for Software Engineering Proposal | <a href="./proposal/materials/guideline.md" ><img src="./images/markdownp.png" width="24px" height="24px" ></a> | 
+| 2 | System Documentation | System Requirements Specification (SRS), System Design Document (SDD), and System Testing Document (STD). | <a href="/project/documentation" ><img src="./images/markdownp.png" width="24px" height="24px" ></a> | 
+
 ## Notes
 
 ### 🎯 Proposal 🆕 
