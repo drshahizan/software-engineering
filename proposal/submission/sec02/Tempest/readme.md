@@ -62,7 +62,7 @@ Overall, these SMART objectives are specific, measurable, achievable, relevant, 
 
 ### 4. Scope:
 
-<img src = "[https://images.ctfassets.net/4zfc07om50my/5wMHnK8XxK9kW99mebdp94/2cc919cd11ba35f6db993977fd0ff674/Agile.png](https://www.figma.com/file/NTdtMEWuSQND0gCJ3DDbLZ/PROPOSAL?node-id=0%3A1&t=99It8n5SelMfniqU-1)" width = "500px">
+<img src = "https://raw.githubusercontent.com/drshahizan/software-engineering/main/proposal/submission/sec02/Tempest/PROPOSAL.png" width = "500px">
 
 The Badal Hajj and Umrah management system proposed in this project will included several functionalities and features that are required in order to solve the problems that the company have. This system will be web-based and application software.This is the detail of the features and functionality of the system:
 
@@ -194,10 +194,15 @@ Resources divided into 4 different types which are staff,equipment,software and 
 2. Emergency fund 
 
 ### 10. Technical Specifications:
-- Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
-- Mention the programming languages, frameworks, and libraries that will be used in the project.
-- Provide details about the hardware and software requirements for the proposed system.
-- Explain the data security measures that will be implemented.
+Technical specification is important in this proposed system as the company should know all the hardware and software that will be used in this system. This is all the technical specification that will be used in this system:
+
+- Platform: The system would need to be web-based and app-based that can connect and accessible from any device with and internet connection such as desktop, laptop, tablet and smartphone. The system also should be compatible with variety of operating system such as Windows, macOS, android, iOS and HarmonyOS.
+- Programming languages and technologies: all the language that will be used are Java, Python, and PHP for the backend language. For the Frontend language are HTML, CSS, JavaScript, React, Angular, and Vue.js.
+- Database Management Systems: MySQL, PostgreSQL, and MongoDB are the choices for managing the system's data. They offer reliable, scalable, and secure database solutions for storing and retrieving data.
+- Payment Gateway Integration: Payment gateway integrations can be achieved using APIs provided by popular payment gateway providers such as online banking and Touch and Go. Client also can use the ATM machine for the payment and take the picture of the receipt for the evident.
+- Security Measures: The system's security will be enhanced using technologies like SSL certificates, encryption algorithms, and firewalls to protect user data and prevent unauthorized access.
+- Analytics: Analytics and data visualization will be implemented using tools such as Google Analytics, Power BI, or Tableau to track user behavior, generate reports, and provide insights to system administrators.
+- Integration: The system should have the capabilities to integrate with third-party sevices such as social media platform, Microsoft 365 or Google Workspace and payment services to provide a smooth and seamless experience to all of the stakeholder.
 
 ### 11. Timeline and Deliverables: 
 <ul>
