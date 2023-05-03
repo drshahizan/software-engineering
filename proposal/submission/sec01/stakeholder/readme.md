@@ -134,7 +134,7 @@ The scope refers to the boundaries of the project and outlines the features and 
 
 - Agile methodology: <br>Agile methodology is used for the software process model in the system development due to its flexibility in updating the stakeholders' requirements and sastification. Modification will be done several times until the best system is developed. 
   
-The system will be limited to Kolej Tun Dr Ismail (KTDI) only and the decide phase of the final result on room application will be done by the AIMS system of UTM.
+- The system will be limited to Kolej Tun Dr Ismail (KTDI) only and the decision phase of the final result on room application will be done by the AIMS system of UTM.
 
 <!--However, there are several limitations and constraints that may affect the project of a student accommodation system for Kolej Tun Dr Ismail (KTDI):
   
