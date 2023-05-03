@@ -158,6 +158,7 @@ This college rental system will use various tools and frameworks such as:
 #### Flowchart and Block Diagram
 
 ##### Flowchart
+![FlowchartSystemArchitecture](FlowchartSystemArchitecture.drawio.png)
 1. Client: The client tier is the user interface where users interact with the system. In this case, the client tier consists of a web browser that sends requests to the web server.
 2. Web Server: The web server tier receives HTTP requests from the client tier and responds with HTML content that is rendered by the browser. The web server also handles static files, such as CSS and JavaScript. 
 3. Application Server: The application server tier is responsible for handling the business logic of the system. It receives requests from the web server and processes them by retrieving data from the database server and returning dynamic HTML content to the web server.
