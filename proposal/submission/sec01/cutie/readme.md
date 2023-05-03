@@ -106,7 +106,7 @@ Testing methodologies such as unit testing, integration testing, system testing,
 
 ### 9. Resources:
 The development of UTM Student Attendance Management System for around 20,000 users in UTM will involve many costs that are required, such as team salaries, software tool, hardware and infrastructure, training and professional development and other expenses that are unexpected. So the budget for this project in 1 year is estimated at RM 498,900 and the details are stated below: 
-#### Staff: RM 444 000
+#### Staff: RM 111 000
 <table>
 <tr>
 <td>Position</td>
@@ -114,27 +114,27 @@ The development of UTM Student Attendance Management System for around 20,000 us
 </tr>
 <tr>
 <td>Project Manager</td>
-<td>36 000</td>
+<td>9 000</td>
 </tr>
 <tr>
 <td>Business Analysts</td>
-<td>24 000</td>
+<td>6 000</td>
 </tr>
 <tr>
 <td>UI/UX Designer</td>
-<td>40 000</td>
+<td>10 000</td>
 </tr>
 <tr>
 <td>Main Developers</td>
-<td>20 000</td>
+<td>5 000</td>
 </tr>
 <tr>
 <td>Quality Assurance </td>
-<td>28 000</td>
+<td>7 000</td>
 </tr>
 </table>
 
-#### Equipment: RM 1 200 000
+#### Equipment: RM 300 000
 <table>
 <tr>
 <td>Equipments</td>
@@ -142,28 +142,28 @@ The development of UTM Student Attendance Management System for around 20,000 us
 </tr>
 <tr>
 <td>Computer/Laptops</td>
-<td>60 000</td>
+<td>15 000</td>
 </tr>
 <tr>
 <td>Servers</td>
-<td>720 000</td>
+<td>180 000</td>
 </tr>
 <tr>
 <td>Network Infrastructure</td>
-<td>280 000</td>
+<td>70 000</td>
 </tr>
 <tr>
 <td>Printers and Scanners</td>
-<td>16 000</td>
+<td>4 000</td>
 </tr>
 <tr>
 <td>Mobile Devices </td>
-<td>24 000</td>
+<td>6 000</td>
 </tr>
 </table>
 
 
-#### Software: RM 131 600
+#### Software: RM 32 900
 <table>
 <tr>
 <td>Tools</td>
@@ -171,39 +171,39 @@ The development of UTM Student Attendance Management System for around 20,000 us
 </tr>
 <tr>
 <td>Integrated Development Environment (IDE)</td>
-<td>6 000</td>
+<td>1 500</td>
 </tr>
 <tr>
 <td>Database management system</td>
-<td>56 000</td>
+<td>14 000</td>
 </tr>
 <tr>
 <td>Security Software</td>
-<td>4 000</td>
+<td>1 000</td>
 </tr>
 <tr>
 <td>Project Management Software</td>
-<td>2 400</td>
+<td>600</td>
 </tr>
 <tr>
 <td>Testing Tools</td>
-<td>52 000</td>
+<td>13 000</td>
 </tr>
 <tr>
 <td>Cloud Storage</td>
-<td>6 800</td>
+<td>1 700</td>
 </tr>
 <tr>
 <td>Version Control Software</td>
-<td>1 600</td>
+<td>4000</td>
 </tr>
 <tr>
 <td>Web Server</td>
-<td>2 800</td>
+<td>700</td>
 </tr>
 </table>
 
-#### Other expenses: RM 120 000
+#### Other expenses: RM 30 000
 <table>
 <tr>
 <td>Expenses</td>
@@ -211,23 +211,23 @@ The development of UTM Student Attendance Management System for around 20,000 us
 </tr>
 <tr>
 <td>Rental fees (office)</td>
-<td>72 000</td>
+<td>18 000</td>
 </tr>
 <tr>
 <td>Bills (Internet, phone, utilities, petrol, etc.)</td>
-<td>12 000</td>
+<td>3 000</td>
 </tr>
 <tr>
 <td>Insurance</td>
-<td>28 000</td>
+<td>7 000</td>
 </tr>
 <tr>
 <td>Unexpected costs</td>
-<td>8 000</td>
+<td>2 000</td>
 </tr>
 </table>
 
-#### Training and development programs for the team members: RM 100 000
+#### Training and development programs for the team members: RM 25 000
 
 ### 10. Technical Specifications:
 <li>Data sources: Data will be collected through methods that students use to submit their attendance. For example, students can scan the attendance QR via their devices or students can insert a randomly generated code to submit their attendance. Data will also be collected via biometric devices such as fingerprint scanners and facial recognition systems in order to prove that their attendance is valid.</li>
@@ -244,9 +244,32 @@ Bar charts to display attendance rates for students. Pie charts to show the perc
 <li>Data Security Measures: Encryption, the process of converting data into a coded language that can only be accessed with a decryption key. This can prevent unauthorised access to sensitive data.</li>
 
 ### 11. Timeline and Deliverables: 
-- Provide a detailed timeline for the project, including milestones and deadlines.
-- Specify the deliverables that will be provided at each milestone. It should also specify the expected time frame for each deliverable and the resources that will be required to complete the project.
-- Explain the quality assurance and testing procedures that will be followed.
+<ul>Phase 1: Initiation</ul> 
+<li>Milestones : Requirements gathering, validating requirement expectations, approval of project title</li>
+<li>Resources : Project manager, business analysis</li>
+<li>Estimated duration : 1 month</li>
+<li>Deliverable: Project proposal, requirement study report</li>
+<ul>Phase 2: Planning</ul>
+<li>Milestones : Project planning, identify process model, technical specifications, data sources, test cases based on functional and non-functional requirements </li>
+<li>Resources : Project manager, UI/UX designers, main developers, quality assurance</li>
+<li>Estimated duration : 2 months</li>
+<li>Deliverable: Progress report, budget report, test result report</li>
+<ul>Phase 3: Implementation</ul>
+<li>Milestones : Design approval, design system architecture, develop system</li>
+<li>Resources : UI/UX designers, main developers, quality assurance</li>
+<li>Estimated duration : 5 months</li>
+<li>Deliverable: Design drawings and documents, design review, beta product, test result report</li>
+<ul>Phase 4: Quality assurance and user acceptance testing</ul>
+<li>Milestones : product quality enhancement</li>
+<li>Resources : Quality assurance, project manager, business analyst</li>
+<li>Estimated duration : 3 months</li>
+<li>Deliverable: test result report, useability report, improved filing and organization systems</li>
+<ul>Phase 5 : Closure of project</ul>
+<li>Milestone 5 : verification of the completion, examine contract, pass all deliverables to stakeholder/client</li>
+<li>Resources : </li>
+<li>Estimated duration : 1 month</li>
+<li>Deliverable: website/page</li>
+
 
 ### 12. Conclusion:
   In conclusion, the recommended UTM Student Attendance Management System is designed to improve the existing system as there are some weaknesses or bugs. Such problems are students can scan the attendance without attending the actual lecture, leading to fake data received by lecturers. This will indirectly affect student’s academic performance and preferences. The modified system intends to improve the accuracy of the data, efficiency of the system and better management of student’s attendance data. To add on, the recommended system can increase the satisfaction of lecturers, enhance productivity and an overall  more dependable system.
