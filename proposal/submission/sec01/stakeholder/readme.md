@@ -30,7 +30,7 @@ Don't forget to hit the :star: if you like this repo.
   <td>3.</td> <td> JOSEPH LAU YEO KAI </td> <td> A22EC0055 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/photo_2022-05-11_16-06-06.jpg?raw=true" width=150,height=300> </td> 
   </tr>
 <tr>
-  <td>4.</td> <td> LOW JIE SHENG </td> <td> A22EC0075 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/2673dcdb-43f0-41cd-85d8-777b8040a935.jpg" width=150px, height=300px> </td>
+  <td>4.</td> <td> LOW JIE SHENG </td> <td> A22EC0075 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/2673dcdb-43f0-41cd-85d8-777b8040a935.jpg" width=150px, height=150px> </td>
   </tr>
 <tr>
   <td>5.</td> <td> MUHAMMAD DANIAL BIN AHMAD SYAHIR </td> <td> A22EC0206 </td> <td><img src=""> </td>
