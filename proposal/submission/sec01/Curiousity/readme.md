@@ -287,7 +287,7 @@ The block diagram for the proposed system architecture is as follows:
       <thead>
         <tr>
           <th>Risks</th>
-          <th></th>
+          <th>Issues</th>
           <th>Explanation</th>
           <th>Mitigation Plan</th>
         </tr>
@@ -317,6 +317,7 @@ The block diagram for the proposed system architecture is as follows:
         </tr>
         <tr>
           <td rowspan="2">Requirements Risks</td>
+          <td>Adapting stakeholder needs</td>
           <td>As stakeholders' needs and expectations change, the project requirements may also change, which could lead to scope creep or project delays. </td>
           <td>The team will keep in regular contact with stakeholders to make sure that their requirements and expectations are understood and that any changes to the project's requirements are formally documented and approved.
         </tr>
