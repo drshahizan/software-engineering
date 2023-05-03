@@ -1,40 +1,40 @@
 <mxfile host="65bd71144e">
     <diagram id="rR_eMU8zpaJoFjU-rYq4" name="Page-1">
-        <mxGraphModel dx="685" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="576" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="2" value="&lt;b&gt;USER INTERFACE&lt;br&gt;&lt;/b&gt;(Bootstrap/HTML/CSS/JavaScript/ReactJS)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;fontColor=#000000;" vertex="1" parent="1">
+                <mxCell id="2" value="&lt;b&gt;USER INTERFACE&lt;br&gt;&lt;/b&gt;(Bootstrap/HTML/CSS/JavaScript/ReactJS)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="210" y="50" width="260" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="&lt;b&gt;WEB APPLICATION SERVER&lt;br&gt;(&lt;/b&gt;Apache&lt;b&gt;)&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;fontColor=#000000;" vertex="1" parent="1">
+                <mxCell id="3" value="&lt;b&gt;WEB APPLICATION SERVER&lt;br&gt;(&lt;/b&gt;Apache&lt;b&gt;)&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="120" y="160" width="200" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="&lt;b&gt;SERVER-SIDE COMPONENT&lt;br&gt;(&lt;/b&gt;PHP LARAVEL&lt;b&gt;)&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;fontColor=#000000;" vertex="1" parent="1">
+                <mxCell id="4" value="&lt;b&gt;SERVER-SIDE COMPONENT&lt;br&gt;(&lt;/b&gt;PHP LARAVEL&lt;b&gt;)&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="360" y="160" width="200" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="&lt;b&gt;DATABASE SYSTEM&lt;br&gt;&lt;/b&gt;(MySQL)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;fontColor=#000000;" vertex="1" parent="1">
+                <mxCell id="5" value="&lt;b&gt;DATABASE SYSTEM&lt;br&gt;&lt;/b&gt;(MySQL)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="210" y="270" width="260" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="" style="endArrow=classic;startArrow=classic;html=1;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="3">
+                <mxCell id="11" value="" style="endArrow=classic;startArrow=classic;html=1;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" target="3" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="340" y="270" as="sourcePoint"/>
                         <mxPoint x="390" y="220" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="13" value="" style="endArrow=classic;startArrow=classic;html=1;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5" target="4">
+                <mxCell id="13" value="" style="endArrow=classic;startArrow=classic;html=1;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#000000;" parent="1" source="5" target="4" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="350" y="280" as="sourcePoint"/>
                         <mxPoint x="230" y="240" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="14" value="" style="endArrow=classic;startArrow=classic;html=1;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="3">
+                <mxCell id="14" value="" style="endArrow=classic;startArrow=classic;html=1;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#eeeeee;strokeColor=#000000;" parent="1" source="2" target="3" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="330" y="120" as="sourcePoint"/>
                         <mxPoint x="220" y="80" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="15" value="" style="endArrow=classic;startArrow=classic;html=1;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="4">
+                <mxCell id="15" value="" style="endArrow=classic;startArrow=classic;html=1;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" parent="1" source="2" target="4" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="350" y="280" as="sourcePoint"/>
                         <mxPoint x="470" y="240" as="targetPoint"/>
