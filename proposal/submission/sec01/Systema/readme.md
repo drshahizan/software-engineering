@@ -18,7 +18,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ### Table of Contents
 1.[Executive Summary](#executive-summary) <br>
-2. [Background](#background)<br>
+2.[Background](#background)<br>
 [3. Objectives](#objectives)<br>
 [4. Scope](#scope)<br>
 [5. Software Process Model](#software-process-model)<br>
@@ -46,7 +46,7 @@ The key features of the student engagement website include:
 <br>
 The development of the student engagement website will require a team of skilled developers, designers, and project managers who will work together to ensure a seamless user experience. The website will be designed to be accessible to all students, regardless of their technological proficiency, and will be optimized for all types of browser.
 
-### 2. Background
+### Background
 
 The development of a student engagement system software is driven by the need to enhance the overall student experience and improve student engagement within the academic community of Faculty Computing Univerisity Teknologi Malaysia (UTM). With the increasing prevalence of digital technologies in the education sector, universities and colleges are looking for ways to leverage these technologies to provide a more personalized, interactive, and engaging learning experience for students to let them feel more comfortable and convenient during their study journey.
 
