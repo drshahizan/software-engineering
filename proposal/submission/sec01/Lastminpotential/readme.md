@@ -130,13 +130,7 @@ This section describe the ideal software process model for this system developme
      
 ### 9. Resources:
    
-   # Faculty of Computing Feedback System
-
-## Resources Required
-
-To implement the Faculty of Computing Feedback System, the following resources will be required:
-
-### Staff
+#### Staff
 
 - Project Manager - Responsible for managing the project, coordinating with stakeholders, and ensuring that the project is completed on time and within budget.
 - Technical Lead - Responsible for designing and developing the feedback system, including the frontend and backend.
@@ -144,36 +138,26 @@ To implement the Faculty of Computing Feedback System, the following resources w
 - Quality Assurance Engineer - Responsible for testing the system to ensure that it meets the requirements and specifications.
 - Database Administrator - Responsible for managing the database and ensuring that data is stored securely.
 
-### Equipment
+#### Equipment
 
 - Servers - Required for hosting the feedback system, databases, and other applications.
 - Computers - Required for software development and testing.
 - Networking equipment - Required for connecting the servers and computers.
 
-### Software
+#### Software
 
 - Development tools - Required for coding and testing the system.
 - Database management software - Required for managing the database.
 - Security software - Required for securing the system and protecting data.
 
-### Other expenses
+#### Other expenses
 
 - Training - Required for staff to learn new skills and technologies.
 - Maintenance - Required for maintaining the servers, networking equipment, and other hardware.
 - Marketing - Required for promoting the feedback system to students and faculty.
 - Miscellaneous expenses - Required for unforeseen expenses and contingencies.
 
-## Limitations or Constraints
 
-The following are limitations or constraints that may affect the project:
-
-- Budget constraints - The project may have a limited budget, which may affect the choice of equipment, software, and staff.
-- Time constraints - The project may have a tight deadline, which may affect the development and testing of the feedback system.
-- Data privacy regulations - The project must comply with data privacy regulations, which may affect the collection, storage, and use of data.
-- Integration with existing systems - The project may need to integrate with existing systems, which may pose technical challenges.
-- User adoption - The success of the feedback system depends on user adoption, which may be affected by factors such as user interface design and ease of use.
-
-  
    <!--
 - Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
 -->
