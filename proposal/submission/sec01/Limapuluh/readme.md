@@ -137,20 +137,20 @@ For the proposed Student Feedback Management System, the<b> Agile methodology</b
 
   <li><b>Project Initiation</b>: This phase involves defining the project scope, objectives, and stakeholders. The activities include creating a project vision, identifying the user personas and user stories, and outlining the project requirements. The duration of this phase is two weeks, and the project manager is responsible for overseeing the activities.</li>
 
-  <li><b>Sprint Planning</b>: In this phase, the development team plans for the upcoming sprint. The activities include breaking down the user stories into smaller tasks, estimating the time needed for each task, and deciding what can be achieved within the sprint. The duration of this phase is one week, and the development team lead is responsible for overseeing the activities.</li>
+  <li><b>Planning</b>: In this phase, the development team plans for the upcoming sprint. The activities include breaking down the user stories into smaller tasks, estimating the time needed for each task, and deciding what can be achieved within the sprint. The duration of this phase is two weeks, and the development team lead is responsible for overseeing the activities.</li>
 
-  <li><b>Sprint Execution</b>: This phase involves coding, testing, and integration of the features developed in the sprint. The activities include coding, testing, and documentation. The duration of this phase is three weeks, and the development team lead is responsible for overseeing the activities.</li>
+  <li><bExecution</b>: This phase involves coding, testing, and integration of the features developed. The activities include coding, testing, and documentation. The duration of this phase is four weeks, and the development team lead is responsible for overseeing the activities.</li>
 
-  <li><b>Sprint Review</b>: In this phase, the development team presents the completed features to the product owner and stakeholders for review. The activities include demoing the completed features, gathering feedback, and planning for the next sprint. The duration of this phase is one week, and the project manager is responsible for overseeing the activities.</li>
+  <li><b>Review</b>: In this phase, the development team presents the completed features to the product owner and stakeholders for review. The activities include demoing the completed features, gathering feedback, and planning for the next phase. The duration of this phase is two weeks, and the project manager is responsible for overseeing the activities.</li>
 
-  <li><b>Sprint Retrospective</b>: This phase involves reviewing the sprint process and identifying areas for improvement. The activities include discussing what went well and what didn't, identifying the root causes of problems, and planning for the next sprint. The duration of this phase is one week, and the project manager is responsible for overseeing the activities.</li><br>
+  <li><b>Retrospective</b>: This phase involves reviewing the sprint process and identifying areas for improvement. The activities include discussing what went well and what didn't, identifying the root causes of problems, and planning for the next phase. The duration of this phase is two weeks, and the project manager is responsible for overseeing the activities.</li><br>
 
 The testing methodologies for this project include functional, usability, and performance testing. Project management practices will include daily stand-up meetings, sprint planning, and retrospectives. Quality assurance processes will include code reviews, automated testing, and user acceptance testing.
 
 In conclusion, the Agile software process model is an ideal choice for the proposed Student Feedback Management System. Its flexible and iterative approach, combined with effective project management practices and quality assurance processes, will ensure the timely delivery of a high-quality and user-friendly feedback management system.
 </ul>
   
-  ###Gantt Chart
+  ####Gantt Chart
   <table style="border-collapse: collapse;">
     <thead>
       <tr>
