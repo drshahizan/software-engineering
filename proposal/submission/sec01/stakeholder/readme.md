@@ -12,12 +12,20 @@ Don't forget to hit the :star: if you like this repo.
 ## Student Accommodation System in Kolej Tun Dr Ismail (KTDI)
 
 
-### Prepared by: <stakeholder>
-  1. Neo Zheng Weng A22EC0093
-  2. WONG KHAI SHIAN NICHOLAS A22EC0292
-  3. JOSEPH LAU YEO KAI A22EC0055
-  4. LOW JIE SHENG A22EC0075
-  5. MUHAMMAD DANIAL BIN AHMAD SYAHIR A22EC0206
+### Prepared by: Group Stakeholder
+<table>
+<tr>
+<th>Member</th>
+<th>Matric No.</th>
+<th>Photo</th>
+</tr>
+<tr>
+  <td>1. Neo Zheng Weng </td> <td> A22EC0093 </td> <td><img src=""> </td> 
+  <td>2. WONG KHAI SHIAN NICHOLAS </td> <td> A22EC0292 </td> <td><img src=""> </td>
+  <td>3. JOSEPH LAU YEO KAI </td> <td> A22EC0055 </td> <td><img src=""> </td> 
+  <td>4. LOW JIE SHENG </td> <td> A22EC0075 </td> <td><img src=""> </td>
+  <td>5. MUHAMMAD DANIAL BIN AHMAD SYAHIR </td> <td> A22EC0206 </td> <td><img src=""> </td>
+</table>
 
 ### Table of Contents
 - [Executive Summary](#1-executive-summary)
@@ -109,8 +117,6 @@ The scope refers to the boundaries of the project and outlines the features and 
 - Agile methodology: <br>Agile methodology is used for the software process model in the system development due to its flexibility in updating the stakeholders' requirements and sastification.
   
 - Centralised Dashboard: <br>In both the user interfaces of the students and also the adminstrative department or KTDI department will have a well looking dashboard to provide the users a easier and effective way to access their needs via the tools provided.
-  
-- Website user interface: <br> The user interface will be designed using the bootstrap framework with the HTML, CSS and also the JavaScript to provide the best user experiences.
 
 <!--However, there are several limitations and constraints that may affect the project of a student accommodation system for Kolej Tun Dr Ismail (KTDI):
   
