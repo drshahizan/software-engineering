@@ -8,10 +8,10 @@
 Don't forget to hit the :star: if you like this repo.
 
 ### 🎯 Proposal 🆕 
-1. [List of Software Engineering Projects](./proposal/materials/list-se-topic.md)
-2. [Steps in Software Engineering Projects](./proposal/materials/se-project.md)
-3. [Guideline for Software Engineering Proposal](./proposal/materials/guideline.md)
-4. [Proposal Template](./proposal/materials/template-proposal.md)
+1. [List of Software Engineering Projects](materials/list-se-topic.md)
+2. [Steps in Software Engineering Projects](materials/se-project.md)
+3. [Guideline for Software Engineering Proposal](materials/guideline.md)
+4. [Proposal Template](materials/template-proposal.md)
 5. [IEEE Document Template](https://github.com/drshahizan/software-engineering/blob/main/materials/ieee-doc-temp.md)
 
 ### Others
