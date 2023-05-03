@@ -69,7 +69,7 @@ This course is designed to give students an introduction to an engineering appro
 ## Submission
 | No | Topic |  File |
 | :-----: |  ------ | :-----: | 
-| 1 | Proposal |  <a href="./proposal/materials/guideline.md" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
+| 1 | Proposal |  <a href="./proposal/" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
 | 2 | System Requirements Specification (SRS)| <a href="/project/documentation" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
 
 ## Notes
