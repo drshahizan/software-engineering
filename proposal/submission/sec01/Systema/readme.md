@@ -17,6 +17,7 @@ Don't forget to hit the :star: if you like this repo.
   5. Yeoh Chong Yi          A22EC0295
 
 ### Table of Contents
+[Executive Summary](#1.-Executive-Summary)
 <table>
   <tr>
     <th>No.</th><th>Content</th>
