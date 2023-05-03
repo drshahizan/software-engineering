@@ -35,7 +35,7 @@ Don't forget to hit the :star: if you like this repo.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
   
-### 1. Executive Summary📝:
+### 1. Executive Summary:
 Our proposed UTM Event Management System is a comprehensive solution aimed at simplifying and streamlining the processes of event management for organisers, attendees, and administrators. To achieve this, we're using cutting-edge technology and industry best practises to create a seamless user experience that makes it simple for event planners to plan and carry out successful events and for attendees to find, register for, and participate in events. The key features of our system include real-time event scheduling, registration, various types of activities and merit, and feedback capabilities. These features enable event planners and administrators to optimise event preparation, track performance, and make data-driven decisions. A user-friendly interface and  integration with various social media sites would also be helpful to attendees. Ultimately, our UTM Event Management System will provide measurable value to all stakeholders, resulting in increased event participation, better engagement and satisfaction, and a stronger institutional reputation. By investing in our system, UTM will be at the forefront of event management technology and innovation.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
@@ -51,7 +51,7 @@ In summary, the UTM Event Management System proposal seeks to address the challe
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
-### 3. Objectives📖:
+### 3. Objectives:
 #### Specific: 
 * To digitise and automate the paperwork process for JKM event planning and project management within KTDI.
 * To reduce paper usage and increase efficiency in managing event-related documents.
@@ -75,7 +75,7 @@ In summary, the UTM Event Management System proposal seeks to address the challe
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
-### 4. Scope🔍: 
+### 4. Scope: 
 Our proposed system is named <b>UTM Event Management System</b>. It will provide a web-based platform to let the event organisers plan, manage, and execute events more efficiently.
 This web-based system will include the following features or functionality:
 -	Event planning and organisation.
@@ -233,7 +233,7 @@ The quality assurance analyst along with the team members will ensure that the s
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
-### 6. Budget💰:
+### 6. Budget:
 The development of the academic course registration system for 30,000 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at **RM 900,000**, as outlined below:
 
 - **Hardware Costs: RM 400,000** <br>
@@ -332,7 +332,7 @@ The block diagram for the proposed system architecture is as follows:
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
-### 9. Resources📍:
+### 9. Resources:
 To successfully deliver the academic course registration system, the following resources are required:
 
 **Staff**
@@ -371,7 +371,7 @@ Note: All costs mentioned above are estimates and are subject to change based on
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
-### 10. Technical Specifications🌐:
+### 10. Technical Specifications:
 <table>
   <tr>
     <th align= "left">Data sources</th>
