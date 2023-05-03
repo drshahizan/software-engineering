@@ -24,7 +24,7 @@ Don't forget to hit the :star: if you like this repo.
   <td>1.</td> <td> Neo Zheng Weng </td> <td> A22EC0093 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/rsz_3photograph_neo_zheng_weng.jpg" width=150px, height=200px> </td>
   </tr>
 <tr>
-  <td>2.</td> <td> WONG KHAI SHIAN NICHOLAS </td> <td> A22EC0292 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/rsz_1dsc_0711.jpg?raw=true"> </td>
+  <td>2.</td> <td> WONG KHAI SHIAN NICHOLAS </td> <td> A22EC0292 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/rsz_1dsc_0711.jpg?raw=true" width=150px, height=170px> </td>
   </tr>
 <tr>
   <td>3.</td> <td> JOSEPH LAU YEO KAI </td> <td> A22EC0055 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/photo_2022-05-11_16-06-06.jpg?raw=true" width=150,height=300> </td> 
