@@ -40,7 +40,7 @@ Our proposed UTM Event Management System is a comprehensive solution aimed at si
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
-### 2. Background📄:
+### 2. Background:
 Events are an essential part of the University of Technology, Malaysia (UTM) experience. However, the current manual process of managing events is time-consuming, prone to errors, and lacks the ability to provide real-time information about event performance. These difficulties have had a detrimental effect on participants' overall experiences, leading to poor event organisation and low participation rates.
 
 The proposed UTM Event Management System aims to address these challenges by introducing an innovative, intuitive, and automated system that streamlines the event management process. The proposed system leverages the latest technologies and industry best practices to deliver a seamless user experience for organisers, attendees, and administrators. Real-time event scheduling, registration, different sorts of activities and credits, and feedback capabilities are among the system's key features, which give organisers and administrators the ability to optimise event planning, monitor performance, and make informed data-driven decisions.
@@ -88,7 +88,7 @@ This web-based system will include the following features or functionality:
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
-### 5. Software Process Model🛠️:
+### 5. Software Process Model:
 A software process model's main objective is to offer a framework for the systematic and organised development of software. It offers a collection of tasks, products, and deadlines to make sure the software is created quickly and effectively. A software process model's main objective is to make sure that the software is high-quality, delivered on time, and within budget while also meeting the requirements of the stakeholders.
 
 The <b>Agile software development process model</b> is the ideal software process model for this campus event management system development. The Agile process model is an adaptable and iterative method of developing software that places a focus on teamwork, client satisfaction, and the quick delivery of functional software. This process model emphasises delivering value to the customer at each iteration and is appropriate for projects with varying requirements and uncertainties.
@@ -282,7 +282,7 @@ The block diagram for the proposed system architecture is as follows:
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
-### 8. Risks Assessment⚠️:
+### 8. Risks Assessment:
 
 <table style="border-collapse: collapse;">
       <thead>
