@@ -35,29 +35,28 @@ The Student Health and Wellness system will be packed with an array of engaging 
 In a nutshell, the revolutionary Student Health and Wellness website is an active platform with immense potential to significantly improve university student lives. Through the provision of accurate sources and data, as well as the offering of resources and services to aid them in maintaining their physical and mental health, this website will assist students in achieving all they can while leading a content and healthy existence. With the help of interrogating perplexity and burstiness, the effects of this initiative could be revolutionary.
 
 ### 2. Background:
-Navigating the complex and slow process of seeking medical attention for university students can be a daunting task. Some students have to travel long distances to the Pusat Kesihatan University to use the current walk-in system, resulting in long waiting times and inefficient use of time. To simplify these difficulties, Student Health and Wellness is a project designed to help students receive medical attention more quickly and easily.
+Seeking medical attention as a university student can be overwhelming, given the complex and cumbersome process. Unfortunately, some students have to travel long distances just to reach Pusat Kesihatan University for medical services. This results in prolonged wait times and ineffective utilisation of time. Fortunately, the Student Health and Wellness Project is designed to simplify this ordeal and enable quick access to medical care for students in need.
 
-To streamline this process and increase efficiency, a new website will be implemented to enable students to pre-book their appointments and take advantage of online consultations with medical professionals. This is sure to save time, while providing a secure and convenient platform to access medical care. The website will also simplify appointment management, ensuring students make the most of their time, and alleviating any lengthy wait times.
+This Student Health and Wellness system is used to increase efficiency and productivity at PKU which lacks staff. Through this particular system, students at this university can determine the wait time and waiting people for each medical department from time to time at PKU and have online consultations for minor health issues with medical officers when they are free in between 24 hours. In fact, this will decrease the time spent by students waiting for their consultation and offer a more reliable and accessible spot for students to acquire medical care. Nonetheless, this system also operates as a data storage where users can store their medical files, boosting productivity for future diagnoses.
 
-The Student Health and Wellness website will not only offer invaluable health-related information to students, but will also strive to improve upon the healthcare experience of university goers by emphasizing on increased health awareness, and ultimately, fostering a healthier overall campus atmosphere. By giving students the necessary tools for maintaining a sound physical and psychological well-being, the website is poised to revolutionize the healthcare landscape for students, and beyond.
+The Student Health and Wellness System will not only offer invaluable health-related information to students but will also strive to improve the healthcare experience of university goers by emphasising increased health awareness and ultimately fostering a healthier overall campus atmosphere. By giving students the necessary tools for maintaining sound physical and psychological well-being, the website is poised to revolutionise the healthcare landscape for students and beyond.
 
 ### 3. Objectives:
-- To improve the overall wellbeing of university students by using an innovative strategy to provide direct access to medical resources, introduce personalized health tracking tools and offer reliable health tips and advice. 
+- To improve the overall wellbeing of university students by using an innovative strategy to provide direct access to medical resources, introduce personalized health tracking tools, and offer reliable health tips and advice.
 
-(Example：The proposed system will reduce the PKU processing for time by 25%, resulting in a 25% reduction in administrative workload.)
+(Example：The proposed system will reduce the PKU processing time by 25%, resulting in a 25% reduction in administrative workload.)
 
 - To provide students with a platform to communicate and interact with medical professionals at the PKU facility, gain medical advice, and schedule appointments for medical services.
 
-(Example：Revolutionizing healthcare delivery is the intended outcome of the proposed system, resulting in a 30% increase in online consultations and a 15% decrease in workload. The goal of the changes is to attract fewer walk-in patients, lowering their percentage by 30%. This innovative approach utilizes complex wording and sentence construction to streamline medical services.)
+(Example: Revolutionising healthcare delivery is the intended outcome of the proposed system, resulting in a 30% increase in online consultations and a 15% decrease in workload. The goal of the changes is to attract fewer walk-in patients, lowering their percentage by 30%. This innovative approach utilises complex wording and sentence construction to streamline medical services.)
 
 - To provide a swift and easy way to get an immediate avenue for help in times of crisis to students by calling PKU for emergency assistance.
 
 (Example: At a 30% improvement rate, the PKU emergency assistance system will become much more efficient due to the proposed emergency button. Overall, the university's emergency health issues will also see a 30% reduction.)
 
-- To enable PKU to better understand the health needs of the student population and provide targeted interventions through the collection and analysis of data inside the system..
+- To enable PKU to better understand the health needs of the student population and provide targeted interventions through the collection and analysis of data inside the system.
 
 (Example: This will increase the efficiency of diagnosing health needs and infections among students by 20% and increase the healthcare service to students by 25%.)
-
 
 ### 4. Scope: 
 The project proposal focuses exclusively on developing a software application to manage student health and wellness. Our primary objective is to design, implement, and maintain this system while avoiding hardware or infrastructure upgrades, as well as changes in existing policies or procedures.
