@@ -20,11 +20,20 @@ Don't forget to hit the :star: if you like this repo.
 <th>Photo</th>
 </tr>
 <tr>
-  <td>1. Neo Zheng Weng </td> <td> A22EC0093 </td> <td><img src=""> </td> 
+  <td>1. Neo Zheng Weng </td> <td> A22EC0093 </td> <td><img src=""> </td>
+  </tr>
+<tr>
   <td>2. WONG KHAI SHIAN NICHOLAS </td> <td> A22EC0292 </td> <td><img src=""> </td>
+  </tr>
+<tr>
   <td>3. JOSEPH LAU YEO KAI </td> <td> A22EC0055 </td> <td><img src=""> </td> 
+  </tr>
+<tr>
   <td>4. LOW JIE SHENG </td> <td> A22EC0075 </td> <td><img src=""> </td>
+  </tr>
+<tr>
   <td>5. MUHAMMAD DANIAL BIN AHMAD SYAHIR </td> <td> A22EC0206 </td> <td><img src=""> </td>
+  </tr>
 </table>
 
 ### Table of Contents
