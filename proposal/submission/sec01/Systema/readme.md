@@ -308,7 +308,8 @@ Block Diagram:
 | Frameworks            | Laravel // CodeIgniter|
 | Libraries             | Bootstrap // jQuery |
 | Hardware Requirements | <ul><li>Processor: A multi-core processor</li><li>RAM: 4GB or higehr</li><li>Storage: 50GB or higher</li><li>Display: Resolution of 1920x1080 or higher</li></ul>|
-| Software Requirements | - Operating system: Windows 7 or higher</li><li>IDE: Visual Studio Code, Bootstrap Studio</li><li>Web server: Apache<br>- Database: MySQL</li><li> Version control: Git</li></ul> |
+| Software Requirements | <ul><li>Operating system: Windows 7 or higher</li><li>IDE: Visual Studio Code, Bootstrap Studio</li><li>Web server: Apache</li><li>Database: MySQL</li><li> Version control: Git</li></ul> |
+
 
 ### 11. Timeline and Deliverables: 
 <table>
