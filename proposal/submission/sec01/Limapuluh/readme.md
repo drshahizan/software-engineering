@@ -16,8 +16,6 @@ Don't forget to hit the :star: if you like this repo.
   3. Soh Han Wei A22EC0273
   4. Lee Soon Der A22EC0065
   5. Yong Wern Jie A22EC0121
-  
-  <img src="https://i.imgur.com/rYx5Yvw.jpg" alt="image" style="width:500px; height: 350px">
 
 ### Table of Contents
 <table>
@@ -149,6 +147,20 @@ The testing methodologies for this project include functional, usability, and pe
 
 In conclusion, the Agile software process model is an ideal choice for the proposed Student Feedback Management System. Its flexible and iterative approach, combined with effective project management practices and quality assurance processes, will ensure the timely delivery of a high-quality and user-friendly feedback management system.
 </ul>
+  
+  ###Gantt Chart
+  <table style="border-collapse:collapse;">
+    <thead>
+      <td>Phase</td>
+      <td>Tasks</td>
+      <td>Person In-Charge</td>
+      <td>Progress</td>
+    </thead>
+    <tbody>
+      <tr>
+        
+      </tr>
+    </tbody>
   
 ### 6. Budget:
 <ul>
