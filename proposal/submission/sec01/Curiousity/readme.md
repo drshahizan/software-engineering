@@ -46,19 +46,25 @@ In summary, the UTM Event Management System proposal seeks to address the challe
 
 ### 3. Objectives📖:
 #### Specific: 
-To provide a user-friendly system for students to explore, sign up for, and provide feedback on campus events, including club activities and official university events.
+*To digitise and automate the paperwork process for JKM event planning and project management within KTDI.
+*To reduce paper usage and increase efficiency in managing event-related documents.
 
 #### Measurable: 
-To increase student engagement and participation in campus events by 20% within the first year of system implementation, as measured by the number of event registrations and attendance.
+*To reduce paper usage by a minimum of 50% within the first year of the system’s implementation.
+*To decrease the time required to process paperwork by the KTDI college staff members by at least 30%.
+*To increase the accuracy and completeness of event-related paperwork by 25%.
 
 #### Achievable: 
-To develop and launch the initial version of the system within two months, and to continually improve and update the system based on user feedback.
+*To achieve widespread adoption of the event management system by at least 80% of JKM KTDI committee members within the first year.
+*To provide comprehensive training and support to users of the system (JKM KTDI and KTDI office staff members) to ensure successful implementation.
 
 #### Relevant: 
-To address the problem of limited access and awareness of campus events, and to enhance the overall student experience by providing an efficient platform for event planning, organisation, and participation.
+*To align with sustainability goals by reducing paper usage and promoting digital processes.
+*To support the commitment to providing efficient and effective administrative services to JKM KTDI and KTDI office staff members.
 
 #### Time-Bound: 
-To complete the aforementioned goals within the upcoming two months and keep track of and continuously assess the system's effectiveness and impact.
+*To fully implement the event management system within the JKM KTDI by the end of the current academic year.
+*To achieve the above-stated measurable objectives within the first year of implementation.
 
 ### 4. Scope🔍: 
 Our proposed system is named <b>UTM Event Management System</b>. It will provide a web-based platform to let the event organisers plan, manage, and execute events more efficiently.
