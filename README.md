@@ -53,8 +53,6 @@ This course is designed to give students an introduction to an engineering appro
 | 14 | | **TENTATIVE - ALTERNATIVE ASSESSMENT (TBC)**|
 | 15 | | Project demonstration and hand over. |
 
-## [Labs](./lab)
-
 
 ## Project
 
