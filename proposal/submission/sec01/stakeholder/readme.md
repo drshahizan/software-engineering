@@ -282,27 +282,7 @@ The proposed system architecture can be visualized using the following flowchart
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/flowchart.png">
 
 High-level diagram that represents our proposed system architecture:
-```sql
-+----------------------------------------------------+
-|               Relational Database                  |
-+----------------------------------------------------+
-|                     MySQL                          |
-+----------------------------------------------------+
-              ^                     ^
-              |                     |
-              |                     |
-   +------------------+     +------------------+
-   |    Web Platform  |     |    Web Server    |
-   |     (React.js)   |     |    (Apache)      |
-   +------------------+     +------------------+
-              ^                     ^
-              |                     |
-              |                     |
-+----------------------------------------------------+
-|              User-Facing Interfaces                |
-|                (Web Applications)                  |
-+----------------------------------------------------+
-``` 
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/leveldiagram.png">
   
 ---
 
