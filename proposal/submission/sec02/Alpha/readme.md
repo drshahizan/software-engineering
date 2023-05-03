@@ -126,7 +126,14 @@ As for the software and hardware requirements that are needed to support this sy
 
 
 #### Tools and Frameworks
-This college rental system will use various tools and frameworks. For Example to Handle user interface, design tools such as HTML, CSS and JavaScript will be used.Moreover, Frameworks like React that is a front-end JavaScript framework or Angular that can build single-page client applications using HTML and TypeScript might be used.
+This college rental system will use various tools and frameworks such as:
+
+- HTML: tocreate structure of web page
+- CSS: to control presentation and visual styling 
+- Bootstrap: front-end development framework
+- MangoDB: To store data(ability to handle large volumes of unstructured data)
+- Node.js: to handle incoming HTTP requests, process data, and respond with dynamic HTML content
+- Microsoft Azure: Cloud Hosting and Deployment
 
 #### Flowchart and Block Diagram
 

@@ -129,8 +129,38 @@ This section describe the ideal software process model for this system developme
 -->
      
 ### 9. Resources:
-- Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
+   
+#### Staff
 
+- Project Manager - Responsible for managing the project, coordinating with stakeholders, and ensuring that the project is completed on time and within budget.
+- Technical Lead - Responsible for designing and developing the feedback system, including the frontend and backend.
+- Software Developers - Responsible for coding and testing the system.
+- Quality Assurance Engineer - Responsible for testing the system to ensure that it meets the requirements and specifications.
+- Database Administrator - Responsible for managing the database and ensuring that data is stored securely.
+
+#### Equipment
+
+- Servers - Required for hosting the feedback system, databases, and other applications.
+- Computers - Required for software development and testing.
+- Networking equipment - Required for connecting the servers and computers.
+
+#### Software
+
+- Development tools - Required for coding and testing the system.
+- Database management software - Required for managing the database.
+- Security software - Required for securing the system and protecting data.
+
+#### Other expenses
+
+- Training - Required for staff to learn new skills and technologies.
+- Maintenance - Required for maintaining the servers, networking equipment, and other hardware.
+- Marketing - Required for promoting the feedback system to students and faculty.
+- Miscellaneous expenses - Required for unforeseen expenses and contingencies.
+
+
+   <!--
+- Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
+-->
 ### 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
 - Mention the programming languages, frameworks, and libraries that will be used in the project.
