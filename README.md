@@ -20,7 +20,9 @@ This course is designed to give students an introduction to an engineering appro
 
 ## 🔥 Important things
 1. [Lecture Notes](https://drive.google.com/drive/folders/1fFqVSa7WdQ2Uet0UdvbQcALUVcqme6gw?usp=sharing)
-2. Student Information: [Section 01](./materials/student-01.md) [Section 02](./materials/student-02.md)
+2. Student Information
+    - 🧑‍💻 [Section 01](./materials/student-01.md) 
+    - 👨‍💻[Section 02](./materials/student-02.md)
 3. [Task 1: Additional Notes](./materials/Task1.md)
 4. [Lab exercise](./lab/)
 5. [Project 1: Student Portfolio Showcase (HTML)](./project/1-portfolio/readme.md)
