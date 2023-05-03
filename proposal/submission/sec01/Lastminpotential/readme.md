@@ -121,9 +121,9 @@ This section describe the ideal software process model for this system developme
 | System crashes or downtime leading to data loss or service disruption | Design the system with redundant infrastructure and backup procedures to minimize the impact of system failures. Implement monitoring and alert systems to quickly detect and address issues. Conduct regular maintenance and testing to ensure system reliability and availability. |
 | Inadequate scalability leading to performance issues as the system grows | Design the system with scalability in mind, such as using distributed architectures, caching, and load balancing. Conduct regular performance testing and capacity planning to identify and address scalability issues. |
 | Poor user experience resulting in low adoption or dissatisfaction | Design the system with user-centered design principles, such as intuitive interfaces, clear navigation, and responsive design. Conduct user research and testing to gather feedback and improve the user experience. Provide user training and support to help users effectively use the system. |
-| Integration challenges with third-party systems or APIs | Create a system that can easily integrate with other systems using commonly used APIs and protocols in the industry. Conduct thorough testing and validation of third-party integrations to ensure compatibility and reliability. Provide documentation and support for developers working on integrations. |
+| Integration challenges with third-party systems or APIs | Design the system with flexible integration capabilities, such as using industry-standard APIs and protocols. Conduct thorough testing and validation of third-party integrations to ensure compatibility and reliability. Provide documentation and support for developers working on integrations. |
 
- <!--
+ <--
 - The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
 - It should also describe the plans and strategies to mitigate those risks.
 -->
@@ -138,9 +138,66 @@ This section describe the ideal software process model for this system developme
 - Explain the data security measures that will be implemented.
 
 ### 11. Timeline and Deliverables: 
-- Provide a detailed timeline for the project, including milestones and deadlines.
-- Specify the deliverables that will be provided at each milestone. It should also specify the expected time frame for each deliverable and the resources that will be required to complete the project.
-- Explain the quality assurance and testing procedures that will be followed.
+
+<table>
+  <thead>
+    <tr>
+      <th>Phase</th>
+      <th>Milestone</th>
+      <th>Deliverables</th>
+      <th>Resources</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Phase 1 :Project idea planning and design </td>
+      <td>Geting the idea project , start to project plan and system design, meeting with stakeholder </td>
+      <td>System Design, Project idea, System requirement </td>
+      <td>Project manager, software engineer, stakeholder, UI/UX designers</td>
+    </tr>
+    
+  <tr>
+  <td>Phase 2: System Development </td>
+  <td>Develop the system environment and completed the system development </td>
+  <td>Completed the system, feedback forms and data management system</td>
+  <td>Project manager, software engineer, UI/UX designers, system developers, database administrator  </td>
+  </tr>
+
+ <tr>
+  <td>Phase 3:System testing  </td>
+  <td>System testing, User acceptance to testing system </td>
+  <td>Receive the feedback user and testing report,get rhe performance system  </td>
+  <td>Project manager, software engineer, UI/UX designers, system developers, database administrator</td>
+ </tr>
+ 
+ <tr>
+  <td>Phase 4: System implementation and maintenance</td>
+  <td>Get the final project and implement maintenance and update the system</td>
+  <td>Improved system , final system code, the system get implement succeed </td>
+  <td>Project manager, software engineer debug and maintenance team</td>
+  </tr>
+
+  </tbody>
+</table>
+   
+- Testing procedures:
+ 1.Tests on units: During this phase, each system module will be tested to see if it meets the functional requirements. The developers will run tests on the code to make sure it works as expected.
+
+2.Testing Integration: This stage will include testing the framework overall to flawlessly guarantee that every one of the modules cooperate. In order to guarantee platform compatibility and functionality, the system will be tested in a variety of settings.
+
+3.Testing a System: This stage will include testing the framework against the utilitarian and non-practical necessities to guarantee that it addresses the issues of the end-clients. The system's usability, performance, security, and compatibility will all be evaluated.
+
+4.Testing of Acceptance: This stage will include testing the framework with end-clients to guarantee that it addresses their issues and assumptions. The system will be modified as necessary based on the feedback provided by end users.
+    
+- Quality assurance:
+1.Code Analysis: Senior developers will look over each change to the code to make sure it meets the requirements.
+
+2.Documentation: In order to guarantee that all of the system and code documentation is accurate and current, it will be regularly maintained and updated.
+
+3.Control of Quality: The system's quality control will be overseen by a designated team to make sure it meets the expected standards.
+
+4.Testing for Regression: Whenever a change is made to the framework, relapse testing will be performed to guarantee that it doesn't influence the working of different modules.
+
 
 ### 12. Conclusion:
 
