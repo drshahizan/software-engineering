@@ -125,6 +125,7 @@ The major objectives of building a student engagement website for Faculty Comput
 
 ### Software Process Model
 <img src="agile.png">
+<p>
 A software process model for a student engagement system refers to a set of activities and phases that are used to design, develop, test, and maintain the software system. It provides a framework for organizing the software development process and helps to ensure that the final product meets the requirements and needs of the stakeholders.
 <br><br>
 The <b>Agile software process model</b> is an ideal process model for student engagement system. It is a software process model that emphasizes iterative and incremental development, flexibility, and collaboration between team members and stakeholders. It is particularly suitable for projects where the requirements are likely to evolve over time, such as a student engagement system.
@@ -175,6 +176,7 @@ Here is the phases of agile model that can be applied to the development of a st
 
 ### Budget
 The development of a student engagement system for approximately 40,000 students will involve various costs, including hardware, software, personnel, testing, and contingency. The budget for this project is estimated at **RM 4,000,000**, as outlined below:
+</p>
 
 #### Hardware: RM 1,200,000
 - The hardware budget includes the cost of purchasing and maintaining the necessary hardware infrastructure to support the student engagement system, including servers, storage devices, network devices, and other necessary hardware components.
