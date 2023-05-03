@@ -21,7 +21,7 @@
     <td>A22EC0295</td>
   </tr>
   <tr>
-    <td><img src="Memebr-Photo\BerniceLimJX.png" style="margin: 0 auto;width: 200px"></td>
+    <td><img src="Memebr-Photo/BerniceLimJX.png" style="margin: 0 auto;width: 200px"></td>
     <td><img src="ID Photo.jpg" style="margin: 0 auto;width: 200px"></td>
     <td><img src="photo.jpg" style="margin: 0 auto;width: 200px"></td>
     <td>###</td>
