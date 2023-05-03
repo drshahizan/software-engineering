@@ -15,7 +15,7 @@ Don't forget to hit the :star: if you like this repo.
 5. [IEEE Document Template](https://github.com/drshahizan/software-engineering/blob/main/materials/ieee-doc-temp.md)
 
 ### Others
-1. [Tender dan sebut harga](./proposal/materials/tender.md)
+1. [Tender dan sebut harga](/materials/tender.md)
 2. [Kajian Keperluan Pengguna MACA](https://drive.google.com/file/d/1cd-FGUqqFLkMai73DE2qAh2vrXksbpaT/view?usp=sharing)
 3. [Final Year Project](https://github.com/drshahizan/undergraduate-project)
 4. [Agile concept: UTMSmart](https://drive.google.com/file/d/1B6AX646-zXVLZwstzDatENmk05u1Hegu/view?usp=sharing)
