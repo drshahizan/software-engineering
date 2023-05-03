@@ -111,9 +111,9 @@ These SMART objectives for our introduced student accommodation system in KTDI a
 ### 4. Scope
 The scope refers to the boundaries of the project and outlines the features and functionalities of the system, including its goals, objectives and requirements as well as the expected outcomes and benefits. Detailed explanations of the features and functionality of our proposed student accommodation system in KTDI are as follows:
 
-- Centralised Dashboard: <br>In both the user interfaces of the students, fellows, KTDI staff and also the adminstrative department in KTDI will have a well looking dashboard to provide the users a easier and effective way to access their needs via the tools provided. The dashboard can provide students to access important information related to their personal information, hostel information such as dormitory fees according to room type and room location.
+- User registration: <br>By entering personal information and setting up a password with UTM ID, new user can register as our website user before using the KTDI system.
 
-- Student registration: <br>By entering user's personal information, academic information and room preferences, students can register as users in the system using the student registration tool. Before letting a student register, the system should confirm their identity and determine whether they qualify for accommodation registration based on the hostel merits and year of study. The first year students will be registered automatically, while the senior year students have to register themselves.
+- Centralised Dashboard: <br>In both the user interfaces of the students, fellows, KTDI staff and also the adminstrative department or KTDI department will have a well looking dashboard to provide the users a easier and effective way to access their needs via the tools provided. The dashboard can provide students with current allocated college merits, college activities, personal information and hostel information such as dormitory fees according to room type, room location and hostel block.
 
 - Hostel application: <br>Before letting a student to apply, the system should confirm their identity and determine whether they qualify for accommodation application based on the KTDI merits and year of study. This application is only opened to the senior year students.
 
