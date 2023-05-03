@@ -16,11 +16,11 @@
     <td>A22EC0295</td>
   </tr>
   <tr>
-    <td><img src="Memebr-Photo\BerniceLimJX.png" style="margin: 0 auto;width: 200px"></td>
-    <td><img src="ID Photo.jpg" style="margin: 0 auto;width: 200px"></td>
-    <td><img src="photo.jpg" style="margin: 0 auto;width: 200px"></td>
-    <td>###</td>
-    <td><img src="yChongYiPic.jpg" style="margin: 0 auto;width: 200px"></td>
+    <td><img src="Member-Photo/BerniceLimJX.png" style="margin: 0 auto;width: 200px"></td>
+    <td><img src="Member-Photo/Yutongchai.jpg" style="margin: 0 auto;width: 200px"></td>
+    <td><img src="Member-Photo/Jesslyn19.jpg" style="margin: 0 auto;width: 200px"></td>
+    <td><img src="Member-Photo/alovey1014.jpg" style="margin: 0 auto;width: 200px"></td>
+    <td><img src="Member-Photo/yChongYi.jpg" style="margin: 0 auto;width: 200px"></td>
   </tr>
   </table>
   
@@ -43,8 +43,8 @@
 This proposal recommends the development of a student engagement website for students in Faculty Computing of University Teknologi Malaysia that includes a suite of features designed to facilitate student engagement and enhance the student experience. A student engagement system software can serve as a hub for students of UTM to access course-specific information, connect with their peers and faculty members, and stay up-to-date with important academic events and deadlines.
 <br></br>
 The key features of the student engagement website include:
-<ul>
-<li>A personalized dashboard that displays a student's academic schedule, assignments, and other relevant information in a user-friendly interface.</li>
+
+1. A personalized dashboard that displays a student's academic schedule, assignments, and other relevant information in a user-friendly interface.</li>
 <li>Course-specific forums and discussion boards that allow students to engage with their peers and faculty members in discussions related to specific courses.</li>
 <li>A student directory that enables students to connect with each other based on shared interests or academic programs.</li>
 <li>A notification system that keeps students informed about important academic events and deadlines, such as exam schedules and registration deadlines.</li>
@@ -69,25 +69,24 @@ However, the potential benefits of a student engagement system software towards 
 ### 3. Objectives
 The major objectives of building a student engagement website for Faculty Computing Students are to enhance the overall student experience and improve student engagement within the academic community. Below are some specific objectives that can be achieved through the development of a student engagement website:
 <br>
-<ol>
-  <li>Improve academic outcomes:</li>
-  A student engagement website can help students to stay organized, manage their time effectively, and stay on top of assignments and deadlines, which can lead to improved academic outcomes.
-  <li>Foster a sense of community: </li>
-  By providing students with a platform to connect with their peers and faculty members, a student engagement website can foster a sense of community and encourage students to engage in extracurricular activities and other aspects of campus life.
-  <li>Enhance communication</li>
- A student engagement website can provide a central hub for communication between students, faculty members, and other members of the academic community, improving communication and collaboration.
-  <li>Provide personalized support:</li>
- A personalized dashboard on the website can help students to access relevant information and resources based on their individual needs and interests, providing personalized support and improving the student experience.
-  <li>Increase student retention:</li>
- By enhancing student engagement and satisfaction, a student engagement website can help to improve student retention and reduce dropout rates.
-  <li>Encourage student feedback:</li>
- A feedback system on the website can provide students with an opportunity to provide feedback on courses, instructors, and other aspects of their academic experience, which can help to improve the quality of education and overall student satisfaction.<br>
-  </ol>
+* Improve academic outcomes
+    > A student engagement website can help students to stay organized, manage their time effectively, and stay on top of assignments and deadlines, which can lead to improved academic outcomes.
+* Foster a sense of community
+    > By providing students with a platform to connect with their peers and faculty members, a student engagement website can foster a sense of community and encourage students to engage in extracurricular activities and other aspects of campus life.
+* Enhance communication
+    > A student engagement website can provide a central hub for communication between students, faculty members, and other members of the academic community, improving communication and collaboration.
+* Provide personalized support
+    > A personalized dashboard on the website can help students to access relevant information and resources based on their individual needs and interests, providing personalized support and improving the student experience.
+* Increase student retention
+    > By enhancing student engagement and satisfaction, a student engagement website can help to improve student retention and reduce dropout rates.
+* Encourage student feedback
+    > A feedback system on the website can provide students with an opportunity to provide feedback on courses, instructors, and other aspects of their academic experience, which can help to improve the quality of education and overall student satisfaction.<br>
+
   <br>
   Overall, the development of a student engagement website aims to provide a comprehensive platform that supports Faculty Computing's students throughout their academic journey, enhances their learning experience, and fosters a sense of community within the academic community.<br>
 
 ### 4. Scope
-<img src="scope.png">
+<p align="center"><img src="scope.png" width="400px" height="300px"></p>
 <p>
 <ol>
   <li><b>Personalised dashboard</b>:
@@ -124,7 +123,7 @@ The major objectives of building a student engagement website for Faculty Comput
 </p>
 
 ### 5. Software Process Model
-<img src="agile.png">
+<p align="center"><img src="agile.png"></p>
 <p>
 A software process model for a student engagement system refers to a set of activities and phases that are used to design, develop, test, and maintain the software system. It provides a framework for organizing the software development process and helps to ensure that the final product meets the requirements and needs of the stakeholders.
 <br><br>
@@ -140,7 +139,7 @@ Here is the phases of agile model that can be applied to the development of a st
   <li>Deployment: In this phase, the team deploys the software to the production environment. The team releases the software incrementally, and each release includes a set of tested features.</li>
   <li>Maintenance: In this phase, the team maintains the software by fixing defects, adding new features, and improving the system's performance. The team continuously receives feedback from users and stakeholders to improve the system further.</li>
 </ol>
-<img src="gantt.jpg">
+<p align="center"><img src="gantt.jpg"></p>
 
 #### Testing Methodologies
 
@@ -243,94 +242,73 @@ The data generated by the social media website can be analyzed and visualized us
 The following is a flowchart and block diagram of the system architecture for the social media website for university students:
 
 Flowchart:  
-
-![flowchart](flowchart.svg)  
-
+<p align="center"><img src="flowchart.svg"></p>
 
 Block Diagram:  
-
-![blockdiagram](blockdiagram.svg)
-
+<p align="center"><img src="blockdiagram.svg"></p>
 
 ### 8. Risks Assessment
 | Potential Risks | Plan / Strategies |
 | ------------- | ------------- |
-| *Technical challenges* - There may be technical challenges realated to coding, server management, website security, and also database management. These challenges could result in delays, additional costs, or errors in the website's functionality. |1. Conduct a thorough analysis of the website's technical requirements and ensure that the team has the necessary skills and expertise to handle technical challenges. <br>2.  Develop a contingency plan for potential technical issues that could impact the project timeline and budget.|
-| *Resource constraints* - This project may require significant resources in terms of time, money, and personnel. Resource constriants sich as a lack of funding could impact the project's timeline or quality. | 1. Making a plan to allocate resources efficiently and prioritize tasks based on thier importance to the project's success. <br>2. Consider an alternative approaches such as outsourcing or partnering with other organizations to supplement resources. |
-| *Changes in project requirements* - It may change over time, such as addition of new features or changes in the website's design or target audience. This changes could result in additional costs and delays as our team adjusts the project plan. | 1. Communicate changes effectively with the all stakeholders and assess the impact of changes on the project timeline and budget. <br>2. Review and update the project plan regularly to ensure it remains aligned with the project requirements. |
+| *Technical challenges* - There may be technical challenges realated to coding, server management, website security, and also database management. These challenges could result in delays, additional costs, or errors in the website's functionality. |<ul><li>Conduct a thorough analysis of the website's technical requirements and ensure that the team has the necessary skills and expertise to handle technical challenges.</li><li>Develop a contingency plan for potential technical issues that could impact the project timeline and budget.</li></ul>|
+| *Resource constraints* - This project may require significant resources in terms of time, money, and personnel. Resource constriants sich as a lack of funding could impact the project's timeline or quality. |<ul><li>Making a plan to allocate resources efficiently and prioritize tasks based on thier importance to the project's success.</li><li>Consider an alternative approaches such as outsourcing or partnering with other organizations to supplement resources.</li></ul> |
+| *Changes in project requirements* - It may change over time, such as addition of new features or changes in the website's design or target audience. This changes could result in additional costs and delays as our team adjusts the project plan. |<ul><li>Communicate changes effectively with the all stakeholders and assess the impact of changes on the project timeline and budget.</li><li>Review and update the project plan regularly to ensure it remains aligned with the project requirements.</li></ul> |
 
 <b>Our team is committed to ensuring the safe and successful execution of this project. We will take all necessary measures and precautions to mitigate potential risks and ensure that all aspects of the project are carefully managed and monitored.</b>
 
 ### 9. Resources
 - Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
 
+
   1. Staff:
-      <table border="0">
-  <tr>
-    <th>Role</th>
-    <th>Name</th>
-  </tr>
-  <tr>
-    <td>Project Manager</td>
-    <td>Wong Qiao Ying</td>
-  </tr>
-  <tr>
-    <td>Quality assurance specialist & Web Developer</td>
-    <td>Bernice Lim Jing Xuan</td>
-  </tr>
-  <tr>
-    <td>Business Analyst & User Interface Designer</td>
-    <td>Chai Yu Tong</td>
-  </tr>
-  <tr>
-    <td>Support Engineer & Data Analyst</td>
-    <td>Kek Jesslyn</td>
-  </tr>
-  <tr>
-    <td>Technical Writer & User Experience Designer</td>
-    <td>Yeoh Chong Yi</td>
-  </tr>
-</table>
+      + 1 Project Manager: RM 300,000/year
+      + 1 Quality assurance specialist & Web Developer: RM 180,000/year
+      + 1 Business Analyst & User Interface Designer: RM 180,000/year
+      + 1 Support Engineer & Data Analyst: RM 180,000/year
+      + 1 Technical Writer & User Experience Designer: RM 160,000/year
+      <br>*Total Cost: RM 1,000,000*
   2. Hardware
-      + Server Hardware
-      + Network Hardware
-      + Storage Hardware
-      + Cloud computing providers
-      + Scalability
+      + Server Hardware: RM 400,000
+      + Network Hardware: RM 200,000
+      + Storage Hardware: RM 200,000
+      + Cloud computing providers: RM 200,000
+      + Scalability: RM 200,000
+      <br>*Total Cost: RM 1,200,000*
       
   3. Equipment:
-      + Computers and laptops for the project team
-      + Servers and hosting services for the website
-      + Internet connectivity
+      + Computers and laptops for the project team: RM 150,000
+      + Servers and hosting services for the website: RM 50,000
+      + Internet connectivity: RM 20,000
+      <br>*Total Cost: RM 220,000*
       
   4. Software:
-      + User interface: HTML, CSS, JavaScript, and ReactJS
-      + Server-side technology: Node.js and Express.js
-      + Database: MySQL RDBMS
-      + Business intelligence tools: Tableau, Power BI, QlikView
-      + Data visualization libraries: D3.js, Highcharts, Chart.js
-      + Data analysis tools: Python, R, Excel
+      + User interface: HTML, CSS, and JavaScript: RM 150,000
+      + Server-side technology: Node.js and Express.js: RM 100,000
+      + Database: MySQL RDBMS: RM 100,000
+      <br>*Total Cost: RM 350,000*
       
   5. Other Expenses:
-      + Testing fees
-      + Contingency fees
-      + Web hosting fees
-      + Domain registration fees
-      + Marketing and advertising expenses
-      + Training and support expenses
-      + Staffing costs
+      + Testing fees: RM 150,000
+      + Contingency fees: RM 150,000
+      + Web hosting fees: RM 100,000
+      + Domain registration fees: RM 1,000
+      + Marketing and advertising expenses: RM 50,000
+      + Training and support expenses: RM 300,000
+      <br>*Total Cost: RM 751,000*
+      
+  <br><br><b>Grand Total: RM 1,321,000</b>
 
 
 ### 10. Technical Specifications
-|                       |                                                                                                                                                  |
-|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| Data Sources          | <ul><li>Student datas from myUTM</li><li>Engagement data different clubs and faculties</li></ul>|
-| Data Schema           | The data schema will have tables that store of students information, clubs details, data from different faculties and departments in UTM.|
-| Data Transformation   | The data will be transformed into insights to understand students likings and interest.|
-| Programming Languages | JavaScript // HTML // CSS // MySQL|
-| Frameworks            | ReactJS
-| Libraries             | Bootstrap // jQuery |
-| Hardware Requirements | <ul><li>Processor: A multi-core processor</li><li>RAM: 4GB or higehr</li><li>Storage: 50GB or higher</li><li>Display: Resolution of 1920x1080 or higher</li></ul>|
+|           |           |
+|-----------------------|-------------------------------------------------------------------------|
+| Data Sources | <ul><li>Student datas from myUTM</li><li>Club and faculties events data</li><li>Road condition data</li></ul>|
+| Data Schema | The data schema will have tables that store of students information, clubs details, data from different faculties and departments in UTM.|
+| Data Transformation | The data will be transformed into insights to understand students likings and interest.|
+| Programming Languages | JavaScript，HTML，CSS，MySQL|
+| Frameworks | ReactJS |
+| Libraries | Bootstrap, jQuery |
+| Hardware Requirements | <ul><li>Processor: A multi-core processor</li><li>RAM: 4GB or higehr</li><li>Storage: 50GB or higher</li><li>Display: Resolution of 1920x1080 or higher</li></ul> |
 | Software Requirements | <ul><li>Operating system: Windows 7 or higher</li><li>IDE: Visual Studio Code, Bootstrap Studio</li><li>Web server: Node.js and Express.js</li><li>Database: MySQL</li><li> Version control: Git</li></ul> |
 
 
@@ -392,6 +370,21 @@ Block Diagram:
             </ul>
         </td>
     </tr>
+  <tr>
+    <td>Support and Maintainance</td>
+    <td>
+      <ul>
+        <li>Bug fixing</li>
+        <li>User support</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Bug fixing report</li>
+        <li>User support log</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 #### Quality Assurance and Testing Procedures:

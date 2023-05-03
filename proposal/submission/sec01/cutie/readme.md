@@ -64,11 +64,24 @@ The review phase involves reviewing the software and identifying areas for impro
 Testing methodologies such as unit testing, integration testing, system testing, and acceptance testing are used to assure the quality and functionality of the system. The project management practices for this project include regular communication, project tracking, risk management and change management. Lastly, the quality assurance processes for this project are code reviews, testing and continuous integration.
 
 ### 6. Budget:
-<li>Salaries: Pay the team members involved in the development process, such as project managers, system analysts, software developers, testers, etc.</li>
-<li>Software tools and licences: The cost to purchase software tools or licences required to develop the system, such as IDEs, and development platforms.</li>
-<li>Hardware and infrastructure: The cost to purchase or lease hardware and infrastructure required to reinforce the development process, such as servers, workstations, network equipment, and storage devices.</li>
-<li>Training and professional development: The cost to acquire new skills of the team and achieve certifications required to develop the system more effectively via training.</li>
-<li>Others: Other expenses that may arise during the development process, such as legal fees, insurance, and etc.</li>
+<p>The development of UTM Student Attendance Management System for around 20,000 users in UTM will involve many costs that are required, such as team salaries, software tool, hardware and infrastructure, training and professional development and other expenses that are unexpected. So the budget for this project in 1 year is estimated at RM 498,900 and the details are stated below: </p>
+<ol>
+ <b> <li>Salaries (RM 444 000):</b>
+    <ul><li>Pay the team members involved in the development process, such as project managers, business analysts, software developers etc.</li></ul>
+</li>
+ <b> <li>Hardware and infrastructure (RM 1 200 000):</b>
+<ul><li>The cost to purchase or lease hardware and infrastructure required to reinforce the development process, such as servers, workstations, network equipment, and storage devices.</li></ul>
+  </li>
+ <b> <li>Software tools and licences (RM 131 600):</b></li>
+<ul><li>The software budget covers the cost for software tools and platforms licence that are necessary for the development of the attendance system. This includes softwares such as IDE, testing tools and database management tools.</li></ul>
+ <b> <li>Training and professional development (RM 100 000):</b></li>
+<ul><li>The cost to train each member of the team to achieve the required certifications to develop the system more effectively via training programs.</li></ul>
+  <b><li>Others (RM 120 000):</b></li>
+<ul><li>Other expenses that may arise during the development process, such as legal fees, insurance ,unexpected expenses etc.</li></ul>
+  </ol>
+<p>In conclusion, the estimated budget for the development of the UTM Attendance Management system in 1 year is RM 1,995,600. This budget will cover team salaries, software tools and licences, hardware and infrastructure, training and professional development and other expenses that are unexpected. If there are any changes in budget, stakeholders and project sponsors will be informed and have a discussion. </p>
+
+
 
 ### 7. System Architecture:
 ![proposal](https://user-images.githubusercontent.com/129287788/235997939-9111ef6b-c61e-42f7-bd04-ed273b14c27a.jpg)
@@ -244,9 +257,36 @@ Bar charts to display attendance rates for students. Pie charts to show the perc
 <li>Data Security Measures: Encryption, the process of converting data into a coded language that can only be accessed with a decryption key. This can prevent unauthorised access to sensitive data.</li>
 
 ### 11. Timeline and Deliverables: 
-- Provide a detailed timeline for the project, including milestones and deadlines.
-- Specify the deliverables that will be provided at each milestone. It should also specify the expected time frame for each deliverable and the resources that will be required to complete the project.
-- Explain the quality assurance and testing procedures that will be followed.
+#### Phase 1: Initiation
+<li>Milestones : Requirements gathering, validating requirement expectations, approval of project title</li>
+<li>Resources : Project manager, business analysis</li>
+<li>Estimated duration : 1 month</li>
+<li>Deliverable: Project proposal, requirement study report</li>
+
+#### Phase 2: Planning
+<li>Milestones : Project planning, identify process model, technical specifications, data sources, test cases based on functional and non-functional requirements </li>
+<li>Resources : Project manager, UI/UX designers, main developers, quality assurance</li>
+<li>Estimated duration : 2 months</li>
+<li>Deliverable: Progress report, budget report, test result report</li>
+
+#### Phase 3: Implementation
+<li>Milestones : Design approval, design system architecture, develop system</li>
+<li>Resources : UI/UX designers, main developers, quality assurance</li>
+<li>Estimated duration : 5 months</li>
+<li>Deliverable: Design drawings and documents, design review, beta product, test result report</li>
+
+#### Phase 4: Quality assurance and user acceptance testing
+<li>Milestones : product quality enhancement</li>
+<li>Resources : Quality assurance, project manager, business analyst</li>
+<li>Estimated duration : 3 months</li>
+<li>Deliverable: test result report, useability report, improved filing and organization systems</li>
+
+#### Phase 5 : Closure of project
+<li>Milestone 5 : verification of the completion, examine contract, pass all deliverables to stakeholder/client</li>
+<li>Resources : </li>
+<li>Estimated duration : 1 month</li>
+<li>Deliverable: website/page</li>
+
 
 ### 12. Conclusion:
   In conclusion, the recommended UTM Student Attendance Management System is designed to improve the existing system as there are some weaknesses or bugs. Such problems are students can scan the attendance without attending the actual lecture, leading to fake data received by lecturers. This will indirectly affect student’s academic performance and preferences. The modified system intends to improve the accuracy of the data, efficiency of the system and better management of student’s attendance data. To add on, the recommended system can increase the satisfaction of lecturers, enhance productivity and an overall  more dependable system.
