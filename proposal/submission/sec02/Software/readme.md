@@ -42,15 +42,18 @@ To streamline this process and increase efficiency, a new website will be implem
 The Student Health and Wellness website will not only offer invaluable health-related information to students, but will also strive to improve upon the healthcare experience of university goers by emphasizing on increased health awareness, and ultimately, fostering a healthier overall campus atmosphere. By giving students the necessary tools for maintaining a sound physical and psychological well-being, the website is poised to revolutionize the healthcare landscape for students, and beyond.
 
 ### 3. Objectives:
-- To promote student health and wellness through easy access to medical resources, health tracking tools, and health tips and advice.
+- To improve the overall wellbeing of university students by using an innovative strategy to provide direct access to medical resources, introduce personalized health tracking tools and offer reliable health tips and advice. 
 
-(Example：By the end of the first year of implementation, the proposed system will reduce PKU processing time by 25%, resulting in a 25% reduction in administrative workload.)
+(Example：The proposed system will reduce the PKU processing for time by 25%, resulting in a 25% reduction in administrative workload.)
+- To provide students with a platform to communicate and interact with medical professionals at the PKU facility, gain medical advice, and schedule appointments for medical services.
 
-- To provide a platform for students to communicate with medical professionals at the PKU facility, receive medical advice, and make appointments for medical services.
+(Example：The proposed system aims to make medical services more efficient, with a projected decrease of 15% in workload. This is done to achieve a 30% decrease in the percentage of patients visiting by walk-in, while at the same time increasing the use of online consultation 30%. By utilizing a combination of intricate prose and various sentence structures, the proposed system is expected to revolutionize healthcare delivery.)
 
-- To provide a quick and easy way for students to call for emergency assistance in case of a medical emergency.
+- To provide a quick and easy way for students to have an expedient avenue of emergency help with immediate assistance through calling for help to PKU.
 
-- To collect and analyze data on student health trends, allowing PKU to better understand the health needs of the student population and provide targeted interventions.
+(Example: The proposed system will decrease health issues at the university by 30% through the emergency button provided and increase the efficiency of PKU emergency help by 30%.)
+
+- To collect and analyze data on student health trends, enabling PKU to better understand the health needs of the student population and provide targeted interventions.
 
 
 ### 4. Scope: 
