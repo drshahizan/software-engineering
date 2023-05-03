@@ -145,7 +145,7 @@ Software process model in developing the Kolej Tun Dr Ismail (KTDI) project's st
 
 Furthermore, because of the nature of student rooms and development flexibility as well as continuous team collaboration, the Agile methodology is perfect for projects like ours where requirements and priorities may change frequently. Agile methodology allows us to guarantee that the system is continually updated and enhanced depending on inputs from stakeholders while our project progress moves forward. This will enable the Student Accommodation System in KTDI project to produce a system that always satisfies their changing needs and reaches the expectations.
 
-<p align="center"><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/agilepro.png?raw=true" width="500px" height="500px"></p>
+<p align="center"><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/agilepro.png?raw=true" width="500px" height="450px"></p>
 
 Agile methodology for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) as stated below:
 
