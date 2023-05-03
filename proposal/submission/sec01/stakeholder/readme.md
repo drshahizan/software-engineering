@@ -141,9 +141,9 @@ The scope refers to the boundaries of the project and outlines the features and 
 
 ### 5. Software Process Model
   
-Our main objective in creating the Kolej Tun Dr Ismail (KTDI) project's student housing system is to create a high-quality system within the allotted time and budget. We have decided to employ the <b>Agile methodology</b> as our development process model in order to accomplish this. This method places a focus on cooperation and participation from stakeholders throughout the development process, creating a system that is more adaptable and responsive.
+Software process model in developing the Kolej Tun Dr Ismail (KTDI) project's student accommodation system is to create a user friendly and high-quality system within the allotted time and budget which fulfils our stakeholders' requirements. Therefore, we have decided to employ the <b>Agile methodology</b> as our software development process model in order to accomplish our proposed system. This method places a focus on cooperation and participation from stakeholders throughout the development process, creating a system that is more adaptable and responsive.
 
-Furthermore, because of the nature of student rooms, the Agile methodology is perfect for projects like ours where requirements and priorities may change frequently. Agile allows us to guarantee that the system is continually updated and enhanced depending on input from stakeholders. This will enable the Student Accommodation System for KTDI project to produce a system that satisfies their changing needs and expectations.
+Furthermore, because of the nature of student rooms and development flexibility as well as continuous team collaboration, the Agile methodology is perfect for projects like ours where requirements and priorities may change frequently. Agile methodology allows us to guarantee that the system is continually updated and enhanced depending on inputs from stakeholders while our project progress moves forward. This will enable the Student Accommodation System in KTDI project to produce a system that always satisfies their changing needs and reaches the expectations.
 
 <p align="center"><img src="https://i0.wp.com/mobile-jon.com/wp-content/uploads/2021/04/Agile-Methodology.jpg?fit=1920%2C1080&ssl=1" width="700px" height="350px"></p>
 
