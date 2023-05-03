@@ -32,10 +32,10 @@
 5. [Software Process Model](#software-process-model)
 6. [Budget](#budget)
 7. [System Architecture](#system-architecture)
-8. [Risk Assessment](#risk-assesment)
+8. [Risk Assessment](#risks-assessment)
 9. [Resources](#resources)
 10. [Technical Specifications](#technical-specifications)
-11. [Timeline and Deliverables](#timeline-and-deliverabels)
+11. [Timeline and Deliverables](#timeline-and-deliverables)
 12. [Conclusion](#conclusion)
  
   
