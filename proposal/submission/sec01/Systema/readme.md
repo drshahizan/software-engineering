@@ -17,12 +17,13 @@ Don't forget to hit the :star: if you like this repo.
   5. Yeoh Chong Yi          A22EC0295
 
 ### Table of Contents
+[Executive Summary](#executive-summary)
 <table>
   <tr>
     <th>No.</th><th>Content</th>
   </tr>
   <tr> 
-    <td>1.</td><td>[Executive Summary](#ExecutiveSummary)</td>
+    <td>1.</td><td>[Executive Summary](#1.-Executive-Summary)</td>
   <tr>
   <tr> 
     <td>2.</td><td>Background</td>
@@ -60,7 +61,7 @@ Don't forget to hit the :star: if you like this repo.
 </table>
  
   
-### 1. Executive Summary
+### Executive Summary
 This proposal recommends the development of a student engagement website for students in Faculty Computing of University Teknologi Malaysia that includes a suite of features designed to facilitate student engagement and enhance the student experience. The website will serve as a hub for students to access course-specific information, connect with their peers, and stay up-to-date with important academic events and deadlines.
 <br></br>
 The key features of the student engagement website include:
