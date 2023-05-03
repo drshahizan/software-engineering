@@ -2,9 +2,9 @@
 ### Prepared by: Systema
 
 |Bernice Lim Jing Xuan|Chai Yu Tong|Kek Jesslyn|Wong Qiao Ying|Yeoh Chong Yi|
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| --------------------| ---------- | --------- | ------------ | ------------|
 |A22EC0038|A22EC0145|A22EC0057|A22EC0118|A22EC0295|
-|![](Member-Photo/BerniceLimJX.png | width=100)|![](Member-Photo/Yutongchai.jpg)|![](Member-Photo/Jesslyn19.jpg)|![](Member-Photo/alovey1014.jpg)|![](Member-Photo/yChongYi.jpg)|
+|![B](Member-Photo/BerniceLimJX.png | width=100)|![YT](Member-Photo/Yutongchai.jpg)|![J](Member-Photo/Jesslyn19.jpg)|![W](Member-Photo/alovey1014.jpg)|![Y](Member-Photo/yChongYi.jpg)|
   <table>
   <tr>
     <th>Bernice Lim Jing Xuan</th>
@@ -21,7 +21,7 @@
     <td>A22EC0295</td>
   </tr>
   <tr>
-    <td><img src="Memebr-Photo/BerniceLimJX.png" style="margin: 0 auto;width: 200px"></td>
+    <td><img src="Member-Photo/BerniceLimJX.png" style="margin: 0 auto;width: 200px"></td>
     <td><img src="ID Photo.jpg" style="margin: 0 auto;width: 200px"></td>
     <td><img src="photo.jpg" style="margin: 0 auto;width: 200px"></td>
     <td>###</td>
