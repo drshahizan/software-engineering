@@ -157,7 +157,7 @@ In conclusion, the Agile software process model is an ideal choice for the propo
 ### 7. System Architecture:
 The proposed system architecture for a student feedback system in University Technology Malaysia (UTM) can be designed as follows:
 
-  <p align="center"><img src="https://i.imgur.com/O6h9rw2.jpg" height="1000" width="500"></p>
+  <p align="center"><img src="https://i.imgur.com/O6h9rw2.jpg" height="1100" width="500"></p>
 
 **Authentication and Security Module**:<br>
 The authentication and security module will be responsible for ensuring that only authorized users can access the system. It will use secure authentication protocols and data encryption techniques to protect the sensitive information collected from students. This module will ensure that the feedback system is secure, confidential, and compliant with data privacy regulations.
