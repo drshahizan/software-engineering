@@ -123,13 +123,15 @@ The scope refers to the boundaries of the project and outlines the features and 
 
 - Security: <br>To log in the system, the students have to enter their UTM id and the password set. Same concept will be implemeted for the KTDI staff, fellows and KTDI administrators.
 
-- Reporting and analytics: <br>Administrators will be allowed to monitor and analyze the occupancy rates, revenue and maintenance issues of the accommodation system. Reports from the system should include occupancy rates based on the study programme or room type, revenue by time period and building or room-specific maintenance issues.
+- Reporting and analytics: <br> Administrators will be allowed to monitor and analyze the occupancy rates, revenue and maintenance issues of the accommodation system. Reports from the system should include occupancy rates based on the study programme or room type, revenue by time period and building or room-specific maintenance issues. 
 
 - Support and maintenance: <br>Residents or students should be able to report problems or request assistance for the maintainence of hostel equipments or any problem faced in the accommodation system, such as bugs through the system's help desk and there should be a dedicated team working to quickly resolve these problems.
 
 - Agile methodology: <br>Agile methodology is used for the software process model in the system development due to its flexibility in updating the stakeholders' requirements and sastification.
   
 - Centralised Dashboard: <br>In both the user interfaces of the students and also the adminstrative department or KTDI department will have a well looking dashboard to provide the users a easier and effective way to access their needs via the tools provided.
+
+- The system will be limited to Kolej Tun Dr Ismail (KTDI) and the decide phase of the final result of room application is managed by the AIMS of UTM.
 
 <!--However, there are several limitations and constraints that may affect the project of a student accommodation system for Kolej Tun Dr Ismail (KTDI):
   
