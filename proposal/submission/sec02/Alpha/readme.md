@@ -163,7 +163,7 @@ This college rental system will use various tools and frameworks such as:
 
 
 ##### Block Diagram
-![detailed block diagram](detailed block diagram.drawio(1).png)
+![detailed block diagram](detailed block diagram.drawio.png)
 
 ---
 
