@@ -82,7 +82,13 @@ Activities for each phase of the Agile methodology:
 - Deployment: Deploy software to production, train users, provide support.
 
 ### 6. Budget:
-- The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
+- The budget to develop the academic consultion system for a year involves various cost depending on the features and functionilities required. The estimation budget is **RM 824,000.00**
+
+### Hardware and Software : RM 50,000
+The Hardware and Software cost is used for development and testing of the system.
+
+### Development Team : RM 480,000
+The development team cost is to pay monthly salary for the developing the system, including project manager, 
 
 ### 7. System Architecture:
 
