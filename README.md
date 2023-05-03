@@ -20,14 +20,15 @@ This course is designed to give students an introduction to an engineering appro
 
 ## 🔥 Important things
 1. [Lecture Notes](https://drive.google.com/drive/folders/1fFqVSa7WdQ2Uet0UdvbQcALUVcqme6gw?usp=sharing)
-2. [Task 1: Additional Notes](./materials/Task1.md)
-3. [Lab exercise](./lab/)
-4. [Project 1: Student Portfolio Showcase (HTML)](./project/1-portfolio/readme.md)
-5. [Project 2: Student Portfolio Showcase (Bootstrap)](./project/2-bootstrap/readme.md)
-6. [Student Portfolio Showcase](https://drshahizan.github.io/) 
-7. [Book](./materials/book.md)
-8. [Software Requirements Document (SRD): Academic Course Registration System](./materials/SRD-sample.md) 🆕
-9. [Class exercise: Module 4](./materials/module4) 🆕
+2. Student Information: [Section 01](./materials/student-01.md) [Section 02](./materials/student-02.md)
+3. [Task 1: Additional Notes](./materials/Task1.md)
+4. [Lab exercise](./lab/)
+5. [Project 1: Student Portfolio Showcase (HTML)](./project/1-portfolio/readme.md)
+6. [Project 2: Student Portfolio Showcase (Bootstrap)](./project/2-bootstrap/readme.md)
+7. [Student Portfolio Showcase](https://drshahizan.github.io/) 
+8. [Book](./materials/book.md)
+9. [Software Requirements Document (SRD): Academic Course Registration System](./materials/SRD-sample.md) 🆕
+10. [Class exercise: Module 4](./materials/module4) 🆕
 
 ## Weekly Schedule
 
