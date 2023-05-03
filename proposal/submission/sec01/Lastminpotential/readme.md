@@ -93,7 +93,15 @@ The Faculty of Computing Feedback System will provide measurable benefits to all
       <li>This feedback can be used to identify areas where equipment may need maintenance or replacement, and to ensure that students have access to the resources they need to succeed.</li>
     </ul>
 </ul>
-- It should also describe any limitations or constraints that may affect the project.
+<p>Here are some limitations or constraints that may affect the project:</p>
+<ul>
+  <li>Low response rates: If a significant number of students do not provide feedback, the results may not be representative of the entire student body, which can limit the effectiveness of the feedback system.</li>
+  <li>Biased responses: Students who have strong opinions, whether positive or negative, may be more likely to provide feedback than those who are neutral or indifferent. This can lead to biased responses that do not accurately reflect the views of the entire student body.</li>
+  <li>Lack of actionable feedback: The feedback provided by students may not always be actionable or specific enough to make meaningful changes. This can limit the effectiveness of the system in improving the quality of education.</li>
+  <li>Privacy concerns: If students do not feel comfortable providing feedback anonymously, they may be less likely to provide honest and constructive feedback. This can limit the usefulness of the feedback system in improving the quality of education.</li>
+  <li>Overreliance on technology: A faculty feedback system relies heavily on technology to collect and analyze data. If there are issues with the technology or the system is not properly maintained, it can impact the accuracy and effectiveness of the system.</li>
+  <li>Administrative burden: Collecting and analyzing feedback can be time-consuming and require resources to manage effectively. If the system is not properly resourced, it may not be able to meet the needs of the institution or the students it serves.</li>
+</ul>
 
 ### 5. Software Process Model:
 This section describe the ideal software process model for this system development. The write-up must consist of:
