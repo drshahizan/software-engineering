@@ -33,7 +33,7 @@ This course is designed to give students an introduction to an engineering appro
 
 | Week | Module | Description | 01 | 02 |
 | :-----: | ------ | ------ | :-----: | :-----: |
-| 1 | 1: Introduction to Software Engineering | Software definition, software engineering as a layered technology, types of software, inherent difficulties in software engineering, SE quality focus, Documentation Standard.|<a href="https://github.com/drshahizan/software-engineering/blob/main/materials/sec01/mod1.md" ><img src="./images/markdownp.png" width="24px" height="24px" ></a>| <a href="https://github.com/drshahizan/software-engineering/blob/main/materials/sec02/mod1.md" ><img src="./images/markdownh.png" width="24px" height="24px" ></a> |
+| 1 | [1: Introduction to Software Engineering](/materials/module1/readme.md)  | Software definition, software engineering as a layered technology, types of software, inherent difficulties in software engineering, SE quality focus, Documentation Standard.|<a href="https://github.com/drshahizan/software-engineering/blob/main/materials/sec01/mod1.md" ><img src="./images/markdownp.png" width="24px" height="24px" ></a>| <a href="https://github.com/drshahizan/software-engineering/blob/main/materials/sec02/mod1.md" ><img src="./images/markdownh.png" width="24px" height="24px" ></a> |
 | 2 | [Proposal](/proposal) | A proposal in software engineering is a document that outlines a proposed solution to a problem or need related to software development. It typically includes an overview of the problem, the proposed solution, the benefits and risks of the proposed solution, the resources required to implement the solution, and a plan for implementing and testing the solution. | | |
 | 2 | 2: Software Process Model | Plan Driven or Agile Process Model, general software process model waterfall, incremental, reuse oriented, software process model which cope with change spiral model and Rational Unified Process |<a href="https://github.com/drshahizan/software-engineering/blob/main/materials/sec01/mod2.md" ><img src="./images/markdownp.png" width="24px" height="24px" ></a>| <a href="https://github.com/drshahizan/software-engineering/blob/main/materials/sec02/mod2.md" ><img src="./images/markdownh.png" width="24px" height="24px" ></a> |
 | 3 | 3: Agile Software Development | Agile methods, Agile development techniques, Agile project management, scaling Agile methods |<a href="https://github.com/drshahizan/software-engineering/blob/main/materials/sec01/mod3.md" ><img src="./images/markdownp.png" width="24px" height="24px" ></a>| <a href="https://github.com/drshahizan/software-engineering/blob/main/materials/sec02/mod3.md" ><img src="./images/markdownh.png" width="24px" height="24px" ></a> |
@@ -70,24 +70,6 @@ This course is designed to give students an introduction to an engineering appro
 | :-----: |  ------ | :-----: | 
 | 1 | Proposal |  <a href="./proposal/materials/groups.md" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
 | 2 | System Requirements Specification (SRS)| <a href="project/documentation/srs/srs-group.md" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
-
-## Notes
-
-
-### Introduction to Software Engineering
-- [Software Engineering | Introduction to Software Engineering](https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/)
-- [Software Engineering Tutorial](https://www.javatpoint.com/software-engineering)
-- [The Importance of Software Engineering](https://ncube.com/blog/why-is-software-engineering-important)
-- [Software Cost Estimation](https://www.javatpoint.com/software-cost-estimation)
-- [Tools EVERY Software Engineer Should Know](https://youtu.be/D4JkWoUovdo)
-- [The Anatomy of A Skilled Software Engineer](https://manilarecruitment.com/manila-recruitment-articles-advice/anatomy-skilled-software-engineer-infographic/)
-- [Software developer road map 2023](https://youtu.be/41zmHpaFR9g)
-- Document standards by IEEE
-  - [830-1998 - IEEE Recommended Practice for Software Requirements Specifications](https://ieeexplore.ieee.org/document/720574)
-  - [1016-2009 - IEEE Standard for Information Technology--Systems Design--Software Design Descriptions](https://standards.ieee.org/ieee/1016/4502/)
-  - [829 - IEEE Standard for Test Documentation Overview-Test Plan Outline](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=573169)
-  - [829-2008 - IEEE Standard for Software and System Test Documentation](https://ieeexplore.ieee.org/document/4578383)
-- [IEEE Standards](https://standards.ieee.org/search/?q=software%20standard)
 
 ## Tools
 Diagrams are visual representations of information or data that help convey complex concepts, processes or systems in a clear and concise manner. Flowcharts are diagrams that use shapes and arrows to illustrate the steps in a process or algorithm. System architecture diagrams show the structure of a system and its components, illustrating how they interact with each other. There are many tools available for creating diagrams, including web-based applications like Diagrams.net, PlantUML, Mermaid.js, and Vega-Lite, as well as desktop software like yEd Graph Editor and Graphviz. Other tools like Structurizr and C4-PlantUML are designed specifically for creating system architecture diagrams, while Nomnoml and Mermaid.js can create various types of diagrams including UML diagrams and flowcharts. [**[More info...]**](./materials/tools.md).
