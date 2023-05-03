@@ -123,7 +123,7 @@ This section describe the ideal software process model for this system developme
 | Poor user experience resulting in low adoption or dissatisfaction | Design the system with user-centered design principles, such as intuitive interfaces, clear navigation, and responsive design. Conduct user research and testing to gather feedback and improve the user experience. Provide user training and support to help users effectively use the system. |
 | Integration challenges with third-party systems or APIs | Design the system with flexible integration capabilities, such as using industry-standard APIs and protocols. Conduct thorough testing and validation of third-party integrations to ensure compatibility and reliability. Provide documentation and support for developers working on integrations. |
 
- <--
+ <!--
 - The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
 - It should also describe the plans and strategies to mitigate those risks.
 -->
