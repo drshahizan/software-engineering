@@ -12,7 +12,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Section 1
 
-| No | Topic | Description | Document |
+| No | Group | Title | Document |
 | :-----: | ------ | ------ | :------: | 
 | 1 | Curiousity | UTM Events Management System |<a href="submission/sec01/Curiousity" ><img src="../images/task.png" width="24px" height="24px" ></a> | 
 | 2 | Lastminpotential | UTM Library Management System |<a href="submission/sec01/Lastminpotential" ><img src="../images/task.png" width="24px" height="24px" ></a> |
