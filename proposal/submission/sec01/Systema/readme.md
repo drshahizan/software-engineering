@@ -17,48 +17,18 @@ Don't forget to hit the :star: if you like this repo.
   5. Yeoh Chong Yi          A22EC0295
 
 ### Table of Contents
-[Executive Summary](#executive-summary)
-<table>
-  <tr>
-    <th>No.</th><th>Content</th>
-  </tr>
-  <tr> 
-    <td>1.</td><td>[Executive Summary](#1.-Executive-Summary)</td>
-  <tr>
-  <tr> 
-    <td>2.</td><td>Background</td>
-  <tr>
-  <tr> 
-    <td>3.</td><td>Objectives</td>
-  <tr>
-  <tr> 
-    <td>4.</td><td>Scope</td>
-  <tr>
-  <tr> 
-    <td>5.</td><td>Software Process Model</td>
-  <tr>
-  <tr> 
-    <td>6.</td><td>Budget</td>
-  <tr>
-  <tr> 
-    <td>7.</td><td>System Architecture</td>
-  <tr>
-  <tr> 
-    <td>8.</td><td>Risk Assessment</td>
-  <tr>
-  <tr> 
-    <td>9.</td><td>Resources</td>
-  <tr>
-  <tr> 
-    <td>10.</td><td>Technical Specifications</td>
-  <tr>
-  <tr> 
-    <td>11.</td><td>Timeline and Deliverables</td>
-  <tr>
-  <tr> 
-    <td>12.</td><td>Conclusion</td>
-  <tr>
-</table>
+[1. Executive Summary](#executive-summary)
+[2. Background](#background)
+[3. Objectives](#objectives)
+[4. Scope](#scope)
+[5. Software Process Model](#software-process-model)
+[6. Budget](#budget)
+[7. System Architecture](#system-architecture)
+[8. Risk Assessment](#risk-assesment)
+[9. Resources](#resources)
+[10. Technical Specifications](#technical-specifications)
+[11. Timeline and Deliverables](#timeline-and-deliverabels)
+[12. Conclusion](#conclusion)
  
   
 ### Executive Summary
