@@ -23,7 +23,7 @@
   <td>3.</td> <td> Nur Aleysha Qurratu'aini Binti Mat Salleh </td> <td> A22EC0241 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/Photo/GAMBAR%20KAD%20MATRIK%20UTM.jpeg" width=150,height=300> </td> 
   </tr>
 <tr>
-  <td>4.</td> <td> Nadhrah NurSabrina Binti Zulaini </td> <td> A22EC0224 </td> <td><img src="" width=150px, height=170px> </td>
+  <td>4.</td> <td> Nadhrah NurSabrina Binti Zulaini </td> <td> A22EC0224 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/Photo/kad%20matrik.jpg" width=150px, height=170px> </td>
   </tr>
 </table>
 
