@@ -17,6 +17,8 @@ Don't forget to hit the :star: if you like this repo.
   4. Lee Soon Der A22EC0065
   5. Yong Wern Jie A22EC0121
 
+<img src="https://i.imgur.com/rYx5Yvw.jpg" alt="img" style="width:500px;height:350px">
+  
 ### Table of Contents
 <table>
   <tr>
