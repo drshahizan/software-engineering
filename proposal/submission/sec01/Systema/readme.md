@@ -20,7 +20,7 @@
     <td><img src="ID Photo.jpg" style="margin: 0 auto;width: 200px"></td>
     <td><img src="photo.jpg" style="margin: 0 auto;width: 200px"></td>
     <td>###</td>
-    <td><img src="yChongyiPic.jpg" style="margin: 0 auto;width: 200px"></td>
+    <td><img src="yChongYiPic.jpg" style="margin: 0 auto;width: 200px"></td>
   </tr>
   </table>
   
