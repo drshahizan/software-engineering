@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-<h1 align='center'>UTM Event Management System</h1>
+<h1 align='center'> KTDI Event Management System</h1>
 
 
 ### Prepared by: Group Curiousity
