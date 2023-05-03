@@ -262,14 +262,15 @@ i. Hardware requirements
 - Cloud hosting service: For the web platform.
   
 ii. Software requirements 
-- React.js as the font-end JavaScript library for development of interactive website user interface.
+- ReactJS as the font-end JavaScript library for development of interactive website user interface.
 - Bootstrap as the framework used for web application creation.
 - MySQL as the Relational Database Management System (RDBMS) to store and manage the data.
 - Apache HTTP Server as the web server software.
-- PHP language and Lavaral framework as the communication with the data layer to handle the business logic and data processing.
+- PHP Laravel framework as the server-side technology.
 - D3.js and Chart.js as the data visualization library to create interactive charts and present data.
 - Git for version control.
 - R studio and Microsoft Excel as data analysis tools to preprocess the data.
+- Tableau and PowerBI as the business intelligence (BI) tools to create insights from the data.
   
 #### Data Analysis and Visualization:
 - Data analysis tools: <br>We will use R programming language (R Studio) and Microsoft Excel to clean and preprocess the data, perform statistical analysis and also create data models.
@@ -278,6 +279,7 @@ ii. Software requirements
 
 #### System Architecture Diagram:
 The proposed system architecture can be visualized using the following flowchart:
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/flowchart.png">
 
 High-level diagram that represents our proposed system architecture:
 ```sql
