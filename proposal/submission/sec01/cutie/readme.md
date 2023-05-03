@@ -71,7 +71,7 @@ Testing methodologies such as unit testing, integration testing, system testing,
 <li>Others: Other expenses that may arise during the development process, such as legal fees, insurance, and etc.</li>
 
 ### 7. System Architecture:
-![proposal](https://user-images.githubusercontent.com/129287788/235992812-b8770acf-a2d4-4957-b6d9-1e80e9d00573.jpg)
+![proposal](https://user-images.githubusercontent.com/129287788/235997939-9111ef6b-c61e-42f7-bd04-ed273b14c27a.jpg)
 <li>User Interface: UTM Smart to allow users to interact with our system.It lets students, teachers, and administrators view attendance data and mark attendance.</li>
 <li>Application Server: The application server runs the system's logic, handles data processing, communicates with other system components, and manages the database.</li>
 <li>Database: Stores attendance-related data such as student information and attendance records, and is designed to handle large volumes of data efficiently.</li>
