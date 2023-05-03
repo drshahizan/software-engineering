@@ -79,11 +79,12 @@ In summary, the UTM Event Management System proposal seeks to address the challe
 Our proposed system is named <b>UTM Event Management System</b>. It will provide a web-based platform to let the event organisers plan, manage, and execute events more efficiently.
 This web-based system will include the following features or functionality:
 -	Event planning and organisation.
--	Event registration.
--	Onsite management to monitor the event progress.
+-	Agenda and schedule management.
+- Software integration to reduce paper usage and to ensure the efficient conduct of the proceedings.
+-	Onsite management to coordinate with the event organisers,monitor and track the event progress.
 -	Analytics and reporting for evaluating the effectiveness of the system.
 -	Attendee engagement to identify areas for improvement.
--	Our system is limited to Kolej Tun Dr. Ismail (KTDI) events only and it will not provide any access to the other organisers such as PERSAKA club, AIESEC, Losting Music Club, etc.
+-	Our system is limited to Kolej Tun Dr. Ismail (KTDI) management only such as Student Residential College Committee (JKM), Fellow, Assistant Fellow, College Principal and the staff. It would not provide any access to the students and other organisers.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
