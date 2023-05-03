@@ -126,7 +126,7 @@ The scope of the project includes the enhancement of the current student feedbac
 
 For the proposed Student Feedback Management System, the<b> Agile methodology</b> is an ideal software process model. This model allows for flexibility and responsiveness to stakeholder feedback while ensuring timely delivery of a functional feedback management system. It provides a framework for managing project risks and ensuring that quality and performance are maintained throughout the development process.
   
-  <img src="Agilemethod.png" alt="an image">
+  <img src="https://i.imgur.com/UpwBgXJ.jpg" alt="an image">
 
   <h3>The Agile software process model involves the following phases:</h3>
 
@@ -157,7 +157,7 @@ In conclusion, the Agile software process model is an ideal choice for the propo
 ### 7. System Architecture:
 The proposed system architecture for a student feedback system in University Technology Malaysia (UTM) can be designed as follows:
 
-<img src="https://i.imgur.com/sMIdCO9.jpg" height="900" width="400">
+<img src="https://i.imgur.com/sMIdCO9.jpg" height="1000" width="500">
 
 **Front-end Interface**:<br>
 The front-end interface will be the part of the system that the students will interact with. It will be a user-friendly interface that allows students to provide feedback on various aspects of their learning experience, including instructors, courses, and facilities. The interface will be accessible through a web-based platform, making it easy for students to provide feedback from anywhere, at any time.
