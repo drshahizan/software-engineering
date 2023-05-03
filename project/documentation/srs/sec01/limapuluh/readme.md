@@ -53,20 +53,32 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1 </td>
+    <td>1 Nicole Lim Tze Yee</td>
     <td>Student</td>
-    <td></td>
+    <td>First Year Student of Faculty of Computing</td>
+    <td>Actively participate in the development and testing of the Student Feedback System, providing feedback and suggestions to ensure that the system meets their needs and requirements.</td>
+  </tr>
+  <tr>
+    <td>2 Wong Jun Ji</td>
+    <td>Student</td>
+    <td>First Year Student of Faculty of Computing</td>
+    <td>Actively participate in the development and testing of the Student Feedback System, providing feedback and suggestions to ensure that the system meets their needs and requirements.</td>
+  </tr>
+  <tr>
+    <td>3 Tiew Chuan Seng</td>
+    <td>Student</td>
+    <td>First Year Student of Faculty of Computing</td>
     <td>Actively participate in the development and testing of the Student Feedback System, providing feedback and suggestions to ensure that the system meets their needs and requirements.</td>
   </tr>
     <tr>
-    <td>2 </td>
+    <td>4 Dr Noorfa Haszlinna binti Mustaffa</td>
     <td>Faculty Staff</td>
     <td>Lecturer</td>
     <td>Providing input and feedback on the design and functionality of the Student Feedback System, and to use the feedback data to improve teaching and learning outcomes.</td>
   </tr>
     <tr>
-    <td>3 </td>
-    <td>Academic Office Staff</td>
+    <td>5 </td>
+    <td> </td>
     <td></td>
     <td>Providing feedback on the proposal, ensuring compliance with university policies and procedures, and facilitating the implementation and rollout of the system.</td>
   </tr>
@@ -77,7 +89,7 @@ Don't forget to hit the :star: if you like this repo.
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1. | 30/04/2023 | Yong Wern Jie | Project Manager |  Create Project Plan | Complete |
-| 2. | 01/05/2023 | Lee Soon Der | Designer  | Create system architecture design | Partially Incomplete |
+| 2. | 01/05/2023 | Lee Soon Der | Designer  | Create system architecture design | Incomplete |
 | 3. | 01/05/2023 | Lim Jing Yong | Documentation Specialist | Create Software Documentation | Partially Complete | 
 | 4. | 01/05/2023 | Soh Han Wei | Requirement Analyst | Gather User Requirements | Partially Complete |
 | 5. | 01/05/2023 | Marcus Joey Sayner | Software Developer | Researching, designing, implementing, and managing software programs | Incomplete |

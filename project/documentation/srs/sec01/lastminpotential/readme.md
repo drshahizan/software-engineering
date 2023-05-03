@@ -56,7 +56,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
     <tr>
     <td>3</td>
-    <td></td>
+    <td>Lecturer</td>
     <td></td>
     <td></td>
   </tr>

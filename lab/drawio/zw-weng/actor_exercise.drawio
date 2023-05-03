@@ -1,0 +1,34 @@
+<mxfile host="65bd71144e">
+    <diagram id="EO1EWTtvM8XY-C_sYLHq" name="Page-1">
+        <mxGraphModel dx="576" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="University Academic Course Registration System&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="250" width="510" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6" target="8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="130" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Drop a course" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="280" width="140" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Register for a course" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#006666;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="345" y="280" width="140" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="View course catelog" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#006666;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="280" width="140" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

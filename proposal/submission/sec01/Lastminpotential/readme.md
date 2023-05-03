@@ -129,8 +129,38 @@ This section describe the ideal software process model for this system developme
 -->
      
 ### 9. Resources:
-- Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
+   
+#### Staff
 
+- Project Manager - Responsible for managing the project, coordinating with stakeholders, and ensuring that the project is completed on time and within budget.
+- Technical Lead - Responsible for designing and developing the feedback system, including the frontend and backend.
+- Software Developers - Responsible for coding and testing the system.
+- Quality Assurance Engineer - Responsible for testing the system to ensure that it meets the requirements and specifications.
+- Database Administrator - Responsible for managing the database and ensuring that data is stored securely.
+
+#### Equipment
+
+- Servers - Required for hosting the feedback system, databases, and other applications.
+- Computers - Required for software development and testing.
+- Networking equipment - Required for connecting the servers and computers.
+
+#### Software
+
+- Development tools - Required for coding and testing the system.
+- Database management software - Required for managing the database.
+- Security software - Required for securing the system and protecting data.
+
+#### Other expenses
+
+- Training - Required for staff to learn new skills and technologies.
+- Maintenance - Required for maintaining the servers, networking equipment, and other hardware.
+- Marketing - Required for promoting the feedback system to students and faculty.
+- Miscellaneous expenses - Required for unforeseen expenses and contingencies.
+
+
+   <!--
+- Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
+-->
 ### 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
 - Mention the programming languages, frameworks, and libraries that will be used in the project.
@@ -138,15 +168,76 @@ This section describe the ideal software process model for this system developme
 - Explain the data security measures that will be implemented.
 
 ### 11. Timeline and Deliverables: 
-- Provide a detailed timeline for the project, including milestones and deadlines.
-- Specify the deliverables that will be provided at each milestone. It should also specify the expected time frame for each deliverable and the resources that will be required to complete the project.
-- Explain the quality assurance and testing procedures that will be followed.
+
+<table>
+  <thead>
+    <tr>
+      <th>Phase</th>
+      <th>Milestone</th>
+      <th>Deliverables</th>
+      <th>Resources</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Phase 1 :Project idea planning and design </td>
+      <td>Geting the idea project , start to project plan and system design, meeting with stakeholder </td>
+      <td>System Design, Project idea, System requirement </td>
+      <td>Project manager, software engineer, stakeholder, UI/UX designers</td>
+    </tr>
+    
+  <tr>
+  <td>Phase 2: System Development </td>
+  <td>Develop the system environment and completed the system development </td>
+  <td>Completed the system, feedback forms and data management system</td>
+  <td>Project manager, software engineer, UI/UX designers, system developers, database administrator  </td>
+  </tr>
+
+ <tr>
+  <td>Phase 3:System testing  </td>
+  <td>System testing, User acceptance to testing system </td>
+  <td>Receive the feedback user and testing report,get rhe performance system  </td>
+  <td>Project manager, software engineer, UI/UX designers, system developers, database administrator</td>
+ </tr>
+ 
+ <tr>
+  <td>Phase 4: System implementation and maintenance</td>
+  <td>Get the final project and implement maintenance and update the system</td>
+  <td>Improved system , final system code, the system get implement succeed </td>
+  <td>Project manager, software engineer debug and maintenance team</td>
+  </tr>
+
+  </tbody>
+</table>
+   
+   <h5>Testing procedures:</h5>
+
+ 1.Tests on units: During this phase, each system module will be tested to see if it meets the functional requirements. The developers will run tests on the code to make sure it works as expected.
+
+2.Testing Integration: This stage will include testing the framework overall to flawlessly guarantee that every one of the modules cooperate. In order to guarantee platform compatibility and functionality, the system will be tested in a variety of settings.
+
+3.Testing a System: This stage will include testing the framework against the utilitarian and non-practical necessities to guarantee that it addresses the issues of the end-clients. The system's usability, performance, security, and compatibility will all be evaluated.
+
+4.Testing of Acceptance: This stage will include testing the framework with end-clients to guarantee that it addresses their issues and assumptions. The system will be modified as necessary based on the feedback provided by end users.
+    
+   <h5>Quality assurance:</h5>
+
+1.Code Analysis: Senior developers will look over each change to the code to make sure it meets the requirements.
+
+2.Documentation: In order to guarantee that all of the system and code documentation is accurate and current, it will be regularly maintained and updated.
+
+3.Control of Quality: The system's quality control will be overseen by a designated team to make sure it meets the expected standards.
+
+4.Testing for Regression: Whenever a change is made to the framework, relapse testing will be performed to guarantee that it doesn't influence the working of different modules.
+
 
 ### 12. Conclusion:
-- Conclude your proposal with a call to action, highlighting the benefits of your proposed solution and urging the decision-makers to take action.
-- Summarize the proposal and reiterate the importance of the project.
-- Mention any potential limitations or challenges that may arise during the project.
-- Provide a call to action for the client to approve the proposal and proceed with the project.
+
+In conclusion the proposed Faculty of computing Feedback System is a solution to improve and challenge the problem will feaced by students and staff. The proposed digital platfrom offers the user friendly interface for student to provide feedback and take appropriate action upon the feedback.Significant improvements in both faculty environment satisfaction and a more effective and efficient feedback procedure are among the project's anticipated benefits.
+
+It is important to remember that the system's implementation can run into potential restrictions or obstacles, such reluctance to change or technological issues. But we have taken steps to lessen these difficulties and make sure the implementation goes smoothly.However, concerns about data privacy and system integration could surface as the system is being developed.Although there are some challenges, the system's benefits outweigh these disadvantages, so we advise the customer to accept the proposal and continue with the project.
+
+Therefore, we implore the decision-makers to act and accept the proposal to move the project forward.The staff of Computing Feedback System will modernise the feedback process, improving educational quality and fostering greater staff and student satisfaction.  For the duration of the implementation process, we are devoted to offering resources and support to make sure it is successful.In the end, the Faculty of Computing Feedback System will help the faculty succeed overall by improving the standard of instruction, the learning environment, and fostering ongoing programme improvement.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

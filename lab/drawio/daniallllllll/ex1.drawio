@@ -1,0 +1,54 @@
+<mxfile host="65bd71144e">
+    <diagram id="lcz1_Qws9qSwDvLsUVlL" name="Page-1">
+        <mxGraphModel dx="1139" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Students" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="150" width="50" height="100" as="geometry"/>
+                </mxCell>
+                <object label="&lt;font color=&quot;#fcfcfc&quot;&gt;University Academic Course Registration System&lt;/font&gt;" sdsqsqs="" id="3">
+                    <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontColor=#181616;labelBackgroundColor=#00141d;labelBorderColor=default;align=center;verticalAlign=top;" parent="1" vertex="1">
+                        <mxGeometry x="220" y="300" width="390" height="100" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="7" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="355" y="290" as="sourcePoint"/>
+                        <mxPoint x="300" y="340" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="405" y="240"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <object label="Drop a course" id="9">
+                    <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="230" y="340" width="120" height="50" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="Register for a course" id="11">
+                    <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="355" y="340" width="120" height="50" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object label="View course catalog" id="12">
+                    <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                        <mxGeometry x="490" y="340" width="120" height="50" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="14" value="" style="endArrow=classic;html=1;" parent="1" target="11" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="414.5" y="240" as="sourcePoint"/>
+                        <mxPoint x="414.5" y="320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="440" y="240" as="sourcePoint"/>
+                        <mxPoint x="520" y="340" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

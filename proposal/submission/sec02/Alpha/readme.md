@@ -1,11 +1,3 @@
-<a href="https://github.com/drshahizan/software-engineering/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/software-engineering" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/network/members"><img src="https://img.shields.io/github/forks/drshahizan/software-engineering" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/issues"><img src="https://img.shields.io/github/issues/drshahizan/software-engineering" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/software-engineering?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/software-engineering)
-
-Don't forget to hit the :star: if you like this repo.
 
 #  Proposal: College Room Rental System
 
@@ -134,7 +126,14 @@ As for the software and hardware requirements that are needed to support this sy
 
 
 #### Tools and Frameworks
-This college rental system will use various tools and frameworks. For Example to Handle user interface, design tools such as HTML, CSS and JavaScript will be used.Moreover, Frameworks like React that is a front-end JavaScript framework or Angular that can build single-page client applications using HTML and TypeScript might be used.
+This college rental system will use various tools and frameworks such as:
+
+- HTML: tocreate structure of web page
+- CSS: to control presentation and visual styling 
+- Bootstrap: front-end development framework
+- MangoDB: To store data(ability to handle large volumes of unstructured data)
+- Node.js: to handle incoming HTTP requests, process data, and respond with dynamic HTML content
+- Microsoft Azure: Cloud Hosting and Deployment
 
 #### Flowchart and Block Diagram
 
