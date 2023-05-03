@@ -299,32 +299,15 @@ Block Diagram:
 
 
 ### 10. Technical Specifications:
-The student engagement system proposed will require the following technical specifications:
-
-#### Data Sources:
-- Student data from the university's student management system
-- Engagement data from various sources, such as clubs and faculties
-
-#### Data Schema:
-The data schema will consist of multiple tables that store information about students, faculties, clubs, and engagement metrics. The schema will be designed to facilitate the extraction of meaningful insights through machine learning algorithms.
-
-#### Data Transformations:
-Data transformations will be performed to clean, preprocess, and prepare the data for analysis. These transformations may include data imputation, normalization, feature engineering, and data aggregation.
-
-#### Machine Learning Algorithms:
-Machine learning algorithms may still be used to analyze the data and extract insights about student engagement patterns. However, in a PHP-based system, the machine learning algorithms may be implemented as external services or libraries that are called from the PHP code.
-
-#### Data Visualization Tools:
-Data visualization tools such as Chart.js, D3.js, or Google Charts may be used to create interactive visualizations and dashboards that enable stakeholders to explore the data and gain insights.
-
-#### Programming Languages, Frameworks, and Libraries:
-The project will be implemented using PHP as the primary programming language, and various web development frameworks and libraries, such as Laravel, CodeIgniter, Bootstrap, and jQuery, will be used to build the user interface, handle HTTP requests, and manage the database.
-
-#### Hardware and Software Requirements:
-The hardware and software requirements for the system will depend on the number of users and the complexity of the system. A web server running PHP and a database management system, such as MySQL or PostgreSQL, will be required. The server should have enough memory and processing power to handle multiple concurrent requests.
-
-#### Data Security Measures:
-To ensure data security and privacy, access to the data will be restricted to authorized personnel only. Data encryption and secure data transmission protocols will be implemented to protect data at rest and in transit. All data will be stored in secure servers with regular backups and access logs. SQL injection prevention measures will also be implemented to prevent malicious attacks.
+| Data Sources          | - Student datas from myUTM <br>- Engagement data different clubs and faculties                                                                                |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Data Schema           | The data schema will have tables that store of students information, clubs details, data from different faculties and departments in UTM.                     |
+| Data Transformation   | The data will be transformed into insights to understand students likings and interest.                                                                       |
+| Programming Languages | PHP // HTML // CSS // MySQL                                                                                                                                   |
+| Frameworks            | Laravel // CodeIgniter                                                                                                                                        |
+| Libraries             | Bootstrap // jQuery                                                                                                                                           |
+| Hardware Requirements | - Processor: A multi-core processor<br>- RAM: 4GB or higehr<br>- Storage: 50GB or higher<br>- Display: Resolution of 1920x1080 or higher                      |
+| Software Requirements | - Operating system: Windows 7 or higher<br>- IDE: Visual Studio Code, Bootstrap Studio<br>- Web server: Apache<br>- Database: MySQL<br>- Version control: Git |
 
 ### 11. Timeline and Deliverables: 
 <table>
