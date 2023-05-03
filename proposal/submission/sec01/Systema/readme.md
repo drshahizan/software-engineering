@@ -1,10 +1,5 @@
 # Student Engagement
 ### Prepared by: Systema
-
-|Bernice Lim Jing Xuan|Chai Yu Tong|Kek Jesslyn|Wong Qiao Ying|Yeoh Chong Yi|
-| --------------------| ---------- | --------- | ------------ | ------------|
-|A22EC0038|A22EC0145|A22EC0057|A22EC0118|A22EC0295|
-|![B](Member-Photo/BerniceLimJX.png | width=100)|![YT](Member-Photo/Yutongchai.jpg)|![J](Member-Photo/Jesslyn19.jpg)|![W](Member-Photo/alovey1014.jpg)|![Y](Member-Photo/yChongYi.jpg)|
   <table>
   <tr>
     <th>Bernice Lim Jing Xuan</th>
@@ -22,10 +17,10 @@
   </tr>
   <tr>
     <td><img src="Member-Photo/BerniceLimJX.png" style="margin: 0 auto;width: 200px"></td>
-    <td><img src="ID Photo.jpg" style="margin: 0 auto;width: 200px"></td>
-    <td><img src="photo.jpg" style="margin: 0 auto;width: 200px"></td>
-    <td>###</td>
-    <td><img src="yChongYiPic.jpg" style="margin: 0 auto;width: 200px"></td>
+    <td><img src="Member-Photo/Yutongchai.jpg" style="margin: 0 auto;width: 200px"></td>
+    <td><img src="Member-Photo/Jesslyn19.jpg" style="margin: 0 auto;width: 200px"></td>
+    <td><img src="Member-Photo/alovey1014.jpg" style="margin: 0 auto;width: 200px"></td>
+    <td><img src="Member-Photo/yChongYi.jpg" style="margin: 0 auto;width: 200px"></td>
   </tr>
   </table>
   
