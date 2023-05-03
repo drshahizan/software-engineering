@@ -270,7 +270,7 @@ Bar charts to display attendance rates for students. Pie charts to show the perc
 
 #### Phase 5 : Closure of project
 <li>Milestone 5 : verification of the completion, examine contract, pass all deliverables to stakeholder/client</li>
-<li>Resources :Project manager </li>
+<li>Resources : </li>
 <li>Estimated duration : 1 month</li>
 <li>Deliverable: website/page</li>
 
