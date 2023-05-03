@@ -117,8 +117,7 @@ The scope refers to the boundaries of the project and outlines the features and 
 
 - Room management: <br>The room management feature allows students to manage their rooms through the system. This includes room bookings, check-in, check-out and maintenance requests. The system should provide a calendar view of the room availability and allow students to book their preferred room and check-in and check-out dates. It should also allow students to request maintenance services for their room and track the status of the request.
 
-
-- Payment management: <br>Students can use the system to pay their lodging costs via the payment management tool. The system should enable students to monitor their payment history and receipts and offer safe payment options like internet banking and also convinence payment method, such as TnG e-wallet. Under this scope, there will be duitnow QR code and bank account number provided for the students to pay their lodging costs. 
+- Payment management: <br>Students can use the system to pay their lodging costs via the payment management tool. The system should enable students to monitor their payment history and receipts and offer safe payment options like internet banking and also convinence payment method, such as TnG e-wallet and duitnow QR code. The payment will include the fees of room rentaling, charges in extra electical appliances as well as the sumon given by KTDI staff.
 
 - User management: <br>Administrators can manage user accounts for students, staff and other users via the user management tool. To make sure that users only have access to the functions and information they required, the system offers capabilities like account creation, modification and deletion as well as role-based access control.
 
