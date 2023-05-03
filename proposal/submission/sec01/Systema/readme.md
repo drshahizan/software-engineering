@@ -23,7 +23,7 @@
  
   
 ### Executive Summary
-This proposal recommends the development of a student engagement website for students in Faculty Computing of University Teknologi Malaysia that includes a suite of features designed to facilitate student engagement and enhance the student experience. The website will serve as a hub for students to access course-specific information, connect with their peers, and stay up-to-date with important academic events and deadlines.
+This proposal recommends the development of a student engagement website for students in Faculty Computing of University Teknologi Malaysia that includes a suite of features designed to facilitate student engagement and enhance the student experience. A student engagement system software can serve as a hub for students of UTM to access course-specific information, connect with their peers and faculty members, and stay up-to-date with important academic events and deadlines.
 <br></br>
 The key features of the student engagement website include:
 <ul>
@@ -35,7 +35,7 @@ The key features of the student engagement website include:
 <li>A feedback system that allows students to provide feedback on courses, instructors, and other aspects of their academic experience.</li>
 </ul>
 <br>
-The development of the student engagement website will require a team of skilled developers, designers, and project managers who will work together to ensure a seamless user experience. The website will be designed to be accessible to all students, regardless of their technological proficiency, and will be optimized for all types of browser.
+The development of the student engagement website will require a team of skilled developers, designers, and project managers who will work together to ensure a seamless user experience. The website will be designed to be accessible to all UTM Faculty Computing's students, regardless of their technological proficiency, and will be optimized for all types of browser.
 
 ### Background
 
@@ -45,7 +45,7 @@ A student engagement system software can serve as a hub for students of UTM to a
 
 The COVID-19 pandemic has further highlighted the importance of digital technologies in the education sector, with many universities and colleges transitioning to online learning and remote instruction. As a result, the need for a robust and reliable student engagement system software has become more pressing than ever before.
 
-The development of a student engagement system software requires a team of skilled developers, designers, and project managers who can work together to create a user-friendly and effective platform. It also requires a significant investment of time and resources, including funding for development, maintenance, and marketing.
+A group of talented programmers, designers, and project managers is needed to develop a user-friendly and efficient platform for a student engagement system software. Additionally, a sizeable time and resource commitment is needed, as well as money for marketing, upkeep, and development.
 
 However, the potential benefits of a student engagement system software towards all Faculty Computing students are significant. By enhancing student engagement and providing a more personalized and interactive learning experience, UTM Faculty Computing can improve student retention, satisfaction, and academic outcomes. Overall, a student engagement system software can help to create a more vibrant and engaged academic community, both online and on-campus.
 
