@@ -208,6 +208,7 @@ In conclusion, the Agile software process model is an ideal choice for the propo
         <td>incomplete</td>
       </tr>
     </tbody>
+  </table>
   
 ### 6. Budget:
 <ul>
