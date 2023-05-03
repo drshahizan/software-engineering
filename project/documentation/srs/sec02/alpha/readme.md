@@ -56,8 +56,8 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
     <tr>
     <td>3</td>
+    <td>Residents of Kolej Tun Dr Ismail</td>
     <td>Student</td>
-    <td>UTM Student</td>
     <td></td>
   </tr>
 </table>
