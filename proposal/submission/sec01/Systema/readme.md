@@ -378,13 +378,13 @@ Block Diagram:
     <td>
       <ul>
         <li>Bug fixing</li>
-        <li>User support<li>
+        <li>User support</li>
       </ul>
     </td>
     <td>
       <ul>
         <li>Bug fixing report</li>
-        <li>User support log<li>
+        <li>User support log</li>
       </ul>
     </td>
   </tr>
