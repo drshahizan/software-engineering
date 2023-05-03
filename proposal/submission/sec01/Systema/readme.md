@@ -1,12 +1,3 @@
-<a href="https://github.com/drshahizan/software-engineering/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/software-engineering" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/network/members"><img src="https://img.shields.io/github/forks/drshahizan/software-engineering" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/issues"><img src="https://img.shields.io/github/issues/drshahizan/software-engineering" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/software-engineering?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/software-engineering)
-
-Don't forget to hit the :star: if you like this repo.
-
 # Student Engagement
 
 ### Prepared by: Systema
@@ -17,50 +8,21 @@ Don't forget to hit the :star: if you like this repo.
   5. Yeoh Chong Yi          A22EC0295
 
 ### Table of Contents
-<table>
-  <tr>
-    <th>No.</th><th>Content</th>
-  </tr>
-  <tr> 
-    <td>1.</td><td>Executive Summary</td>
-  <tr>
-  <tr> 
-    <td>2.</td><td>Background</td>
-  <tr>
-  <tr> 
-    <td>3.</td><td>Objectives</td>
-  <tr>
-  <tr> 
-    <td>4.</td><td>Scope</td>
-  <tr>
-  <tr> 
-    <td>5.</td><td>Software Process Model</td>
-  <tr>
-  <tr> 
-    <td>6.</td><td>Budget</td>
-  <tr>
-  <tr> 
-    <td>7.</td><td>System Architecture</td>
-  <tr>
-  <tr> 
-    <td>8.</td><td>Risk Assessment</td>
-  <tr>
-  <tr> 
-    <td>9.</td><td>Resources</td>
-  <tr>
-  <tr> 
-    <td>10.</td><td>Technical Specifications</td>
-  <tr>
-  <tr> 
-    <td>11.</td><td>Timeline and Deliverables</td>
-  <tr>
-  <tr> 
-    <td>12.</td><td>Conclusion</td>
-  <tr>
-</table>
+1. [Executive Summary](#executive-summary)
+2. [Background](#background)
+3. [Objectives](#objectives)
+4. [Scope](#scope)
+5. [Software Process Model](#software-process-model)
+6. [Budget](#budget)
+7. [System Architecture](#system-architecture)
+8. [Risk Assessment](#risk-assesment)
+9. [Resources](#resources)
+10. [Technical Specifications](#technical-specifications)
+11. [Timeline and Deliverables](#timeline-and-deliverabels)
+12. [Conclusion](#conclusion)
  
   
-### 1. Executive Summary
+### Executive Summary
 This proposal recommends the development of a student engagement website for students in Faculty Computing of University Teknologi Malaysia that includes a suite of features designed to facilitate student engagement and enhance the student experience. The website will serve as a hub for students to access course-specific information, connect with their peers, and stay up-to-date with important academic events and deadlines.
 <br></br>
 The key features of the student engagement website include:
@@ -75,7 +37,7 @@ The key features of the student engagement website include:
 <br>
 The development of the student engagement website will require a team of skilled developers, designers, and project managers who will work together to ensure a seamless user experience. The website will be designed to be accessible to all students, regardless of their technological proficiency, and will be optimized for all types of browser.
 
-### 2. Background:
+### Background
 
 The development of a student engagement system software is driven by the need to enhance the overall student experience and improve student engagement within the academic community of Faculty Computing Univerisity Teknologi Malaysia (UTM). With the increasing prevalence of digital technologies in the education sector, universities and colleges are looking for ways to leverage these technologies to provide a more personalized, interactive, and engaging learning experience for students to let them feel more comfortable and convenient during their study journey.
 
@@ -87,9 +49,9 @@ The development of a student engagement system software requires a team of skill
 
 However, the potential benefits of a student engagement system software towards all Faculty Computing students are significant. By enhancing student engagement and providing a more personalized and interactive learning experience, UTM Faculty Computing can improve student retention, satisfaction, and academic outcomes. Overall, a student engagement system software can help to create a more vibrant and engaged academic community, both online and on-campus.
 
-### 3. Objectives:
+### Objectives
 The major objectives of building a student engagement website for Faculty Computing Students are to enhance the overall student experience and improve student engagement within the academic community. Below are some specific objectives that can be achieved through the development of a student engagement website:
-<br></br>
+<br>
 <ol>
   <li>Improve academic outcomes:</li>
   A student engagement website can help students to stay organized, manage their time effectively, and stay on top of assignments and deadlines, which can lead to improved academic outcomes.
@@ -107,7 +69,7 @@ The major objectives of building a student engagement website for Faculty Comput
   <br>
   Overall, the development of a student engagement website aims to provide a comprehensive platform that supports Faculty Computing's students throughout their academic journey, enhances their learning experience, and fosters a sense of community within the academic community.<br>
 
-### 4. Scope: 
+### Scope
 <ol>
   <li><b>Personalised dashboard</b>:
     <ul>
@@ -141,7 +103,7 @@ The major objectives of building a student engagement website for Faculty Comput
   </li>
 </ol>
 
-### 5. Software Process Model:
+### Software Process Model
 <img src="agile.png">
 A software process model for a student engagement system refers to a set of activities and phases that are used to design, develop, test, and maintain the software system. It provides a framework for organizing the software development process and helps to ensure that the final product meets the requirements and needs of the stakeholders.
 <br><br>
@@ -191,7 +153,7 @@ Here is the phases of agile model that can be applied to the development of a st
   <li>Perform regular maintenance: Performing regular maintenance to make sure the system is up to date with free of bugs and issues.</li>
 </ul>
 
-### 6. Budget:
+### Budget
 The development of a student engagement system for approximately 40,000 students will involve various costs, including hardware, software, personnel, testing, and contingency. The budget for this project is estimated at **RM 4,000,000**, as outlined below:
 
 #### Hardware: RM 1,200,000
@@ -222,9 +184,9 @@ The development of a student engagement system for approximately 40,000 students
 In conclusion, the estimated budget for the development of the student engagement system proposal is RM 4,000,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingency. Any changes in the budget will be communicated to stakeholders and project sponsors.
 
 
-### 7. System Architecture:
+### System Architecture
 
-#### System Architecture Overview:
+#### System Architecture Overview
 
 The social media website for university students will be a client-server architecture with a web-based front-end and a back-end server that manages data storage, retrieval, and processing. The architecture will include the following layers:
 
@@ -232,19 +194,19 @@ The social media website for university students will be a client-server archite
 
 - Application layer: This layer will handle user requests, process the data, and provide responses. Node.js and Express.js will be used as the server-side technologies for handling user requests and managing data.
 
-- Data layer: This layer will store and manage the data for the system. MySQL or PostgreSQL will be used as the relational database management system (RDBMS) for storing user information, posts, comments, and other relevant data.
+- Data layer: This layer will store and manage the data for the system. MySQL will be used as the relational database management system (RDBMS) for storing user information, posts, comments, and other relevant data.
 
 #### Data Storage and Management:
 
-The website's data will be stored and managed using a relational database management system (RDBMS). MySQL or PostgreSQL will be used as the RDBMS for the system. The data will be stored in tables, with each table representing a different type of data such as users, posts, comments, and likes. The data will be managed using SQL queries, and data integrity will be ensured by implementing proper constraints such as primary keys, foreign keys, and unique keys.
+The website's data will be stored and managed using a relational database management system (RDBMS). MySQL will be used as the RDBMS for the system. The data will be stored in tables, with each table representing a different type of data such as users, posts, comments, and likes. The data will be managed using SQL queries, and data integrity will be ensured by implementing proper constraints such as primary keys, foreign keys, and unique keys.
 
 The hardware and software requirements for the data storage and management include:
 
 - Hardware: A server or a hosting service with sufficient storage capacity and processing power to handle the website's data storage and management requirements.
 
-- Software: MySQL or PostgreSQL as the RDBMS, and Node.js and Express.js for server-side processing.
+- Software: MySQL as the RDBMS, and Node.js and Express.js for server-side processing.
 
-#### Data Analysis and Visualization:
+#### Data Analysis and Visualization
 
 The data generated by the social media website can be analyzed and visualized using various tools and frameworks. Some of the tools and frameworks that can be used for data analysis and visualization include:
 
@@ -258,43 +220,17 @@ The data generated by the social media website can be analyzed and visualized us
 
 The following is a flowchart and block diagram of the system architecture for the social media website for university students:
 
-Flowchart:
+Flowchart:  
 
-```java
-USER INTERFACE
-  |
-  V
-APPLICATION SERVER (Node.js/Express)
-  |
-  V
-DATABASE SERVER (MySQL or PostgreSQL)
-```
+![flowchart](flowchart.svg)  
+
 
 Block Diagram:  
 
-```sql
-+----------------------------------------------------+
-|                 Relational Database                |
-+----------------------------------------------------+
-|               MySQL or PostgreSQL                  |
-+----------------------------------------------------+
-        ^                                    ^
-        |                                    |
-        |                                    |
-+------------------+              +------------------+
-|    Web Platform  |              |  Server-side API |
-|     (ReactJS)    |              |    (Node.js)     |
-+------------------+              +------------------+
-        ^                                    ^
-        |                                    |
-        |                                    |
-+----------------------------------------------------+
-|                User-Facing Interface               |
-|                    (Web Application)               |
-+----------------------------------------------------+
-```  
+![blockdiagram](blockdiagram.svg)
 
-### 8. Risks Assessment:
+
+### Risks Assessment
 | Potential Risks | Plan / Strategies |
 | ------------- | ------------- |
 | *Technical challenges* - There may be technical challenges realated to coding, server management, website security, and also database management. These challenges could result in delays, additional costs, or errors in the website's functionality. |1. Conduct a thorough analysis of the website's technical requirements and ensure that the team has the necessary skills and expertise to handle technical challenges. <br>2.  Develop a contingency plan for potential technical issues that could impact the project timeline and budget.|
@@ -303,7 +239,7 @@ Block Diagram:
 
 <b>Our team is committed to ensuring the safe and successful execution of this project. We will take all necessary measures and precautions to mitigate potential risks and ensure that all aspects of the project are carefully managed and monitored.</b>
 
-### 9. Resources:
+### Resources
 - Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
 
   1. Staff:
@@ -330,7 +266,7 @@ Block Diagram:
       + Training and support expenses
 
 
-### 10. Technical Specifications:
+### Technical Specifications
 |                       |                                                                                                                                                  |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | Data Sources          | <ul><li>Student datas from myUTM</li><li>Engagement data different clubs and faculties</li></ul>|
@@ -343,7 +279,7 @@ Block Diagram:
 | Software Requirements | <ul><li>Operating system: Windows 7 or higher</li><li>IDE: Visual Studio Code, Bootstrap Studio</li><li>Web server: Apache</li><li>Database: MySQL</li><li> Version control: Git</li></ul> |
 
 
-### 11. Timeline and Deliverables: 
+### Timeline and Deliverables
 <table>
     <tr>
         <th>Phase</th>
@@ -413,7 +349,7 @@ To ensure the quality of the student engagement system, the following testing pr
 - Performance testing: The system will be tested udner various loads to guarantee it can handles the anticipated user traffic.
 
 
-### 12. Conclusion:
+### Conclusion
 This ppropsed system provide innovative solution in improving students engagement and their extra curricular perforamnce in UTM. 
 
 The implementation of this project ofers widespread benefits, including better extra-curricular performance for students, first-hand annoucement and news for the entire university community, improved student-student engagement and increased club prestige. The system will also provide meaningful insights for different departments, allowing them to make data-driven decisions and evaluate the impacts of their strategies.

@@ -61,14 +61,14 @@ To address the problem of limited access and awareness of campus events, and to 
 To complete the aforementioned goals within the upcoming two months and keep track of and continuously assess the system's effectiveness and impact.
 
 ### 4. Scope🔍: 
-Our proposed system is named <b>UTM Event Management System</b>. It will provide a web-based platform to let the event organizers plan, manage, and execute events more efficiently.
+Our proposed system is named <b>UTM Event Management System</b>. It will provide a web-based platform to let the event organisers plan, manage, and execute events more efficiently.
 This web-based system will include the following features or functionality:
--	Event planning and organization.
+-	Event planning and organisation.
 -	Event registration.
 -	Onsite management to monitor the event progress.
 -	Analytics and reporting for evaluating the effectiveness of the system.
 -	Attendee engagement to identify areas for improvement.
--	Our system is limited to Kolej Tun Dr. Ismail (KTDI) events only and it will not provide any access to the other organizers such as PERSAKA club, AIESEC, Losting Music Club, etc.
+-	Our system is limited to Kolej Tun Dr. Ismail (KTDI) events only and it will not provide any access to the other organisers such as PERSAKA club, AIESEC, Losting Music Club, etc.
 
 
 ### 5. Software Process Model🛠️:
