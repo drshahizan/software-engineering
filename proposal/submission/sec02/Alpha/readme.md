@@ -5,10 +5,7 @@
 
 
 ### Prepared by: Group Alpha
-  1. Salini Ravinthiran A22EC0267
-  2. Nur Farah Adibah Binti Idris A22EC0245 
-  3. Nur Aleysha Qurratu'aini Binti Mat Salleh A22EC0241
-  4. Nadhrah NurSabrina Binti Zulaini A22EC0224
+
 <table>
 <tr>
   <th>No.</th>
@@ -20,13 +17,13 @@
   <td>1.</td> <td> Salini Ravinthiran </td> <td> A22EC0267 </td> <td><img src="" width=150px, height=200px> </td>
   </tr>
 <tr>
-  <td>2.</td> <td> Nur Farah Adibah Binti Idris </td> <td> A22EC0245 </td> <td><img src="" width=170px, height=200px> </td>
+  <td>2.</td> <td> Nur Farah Adibah Binti Idris </td> <td> A22EC0245 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/Photo/gambar%20passport%20bg%20putih%20tele.jpg" width=150px, height=200px> </td>
   </tr>
 <tr>
-  <td>3.</td> <td> Nur Aleysha Qurratu'aini Binti Mat Salleh </td> <td> A22EC0241 </td> <td><img src="" width=150,height=300> </td> 
+  <td>3.</td> <td> Nur Aleysha Qurratu'aini Binti Mat Salleh </td> <td> A22EC0241 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/Photo/GAMBAR%20KAD%20MATRIK%20UTM.jpeg" width=150,height=300> </td> 
   </tr>
 <tr>
-  <td>4.</td> <td> Nadhrah NurSabrina Binti Zulaini </td> <td> A22EC0224 </td> <td><img src="" width=150px, height=170px> </td>
+  <td>4.</td> <td> Nadhrah NurSabrina Binti Zulaini </td> <td> A22EC0224 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/Photo/kad%20matrik.jpg" width=150px, height=170px> </td>
   </tr>
 </table>
 
@@ -158,15 +155,15 @@ This college rental system will use various tools and frameworks such as:
 #### Flowchart and Block Diagram
 
 ##### Flowchart
+![FlowchartSystemArchitecture](FlowchartSystemArchitecture.drawio.png)
 1. Client: The client tier is the user interface where users interact with the system. In this case, the client tier consists of a web browser that sends requests to the web server.
 2. Web Server: The web server tier receives HTTP requests from the client tier and responds with HTML content that is rendered by the browser. The web server also handles static files, such as CSS and JavaScript. 
 3. Application Server: The application server tier is responsible for handling the business logic of the system. It receives requests from the web server and processes them by retrieving data from the database server and returning dynamic HTML content to the web server.
 4. Database Server: The database server tier stores and manages the system's data. It receives requests from the application server and returns data to the application server for processing.
-<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/flowchartSE.png"></img>
 
 
 ##### Block Diagram
-<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/detailed%20block%20diagram.drawio%20(1).png"></img>
+![block](block.drawio.png)
 
 ---
 
