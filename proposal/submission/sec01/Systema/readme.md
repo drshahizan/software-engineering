@@ -4,7 +4,7 @@
 |Bernice Lim Jing Xuan|Chai Yu Tong|Kek Jesslyn|Wong Qiao Ying|Yeoh Chong Yi|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 |A22EC0038|A22EC0145|A22EC0057|A22EC0118|A22EC0295|
-|![B](Member-Photo/BerniceLimJX.png =250x250)|![YT](Member-Photo//Yutongchai.jpg=250x250)|![J](Member-Photo/Jesslyn19.jpg=250x250)|![W](Member-Photo/alovey1014.jpg=250x250)|![Y](Member-Photo/yChongYi.jpg=250x250)|
+|![B](Member-Photo/BerniceLimJX.png=250x250)|![YT](Member-Photo//Yutongchai.jpg=250x250)|![J](Member-Photo/Jesslyn19.jpg=250x250)|![W](Member-Photo/alovey1014.jpg=250x250)|![Y](Member-Photo/yChongYi.jpg=250x250)|
   <table>
   <tr>
     <th>Bernice Lim Jing Xuan</th>
