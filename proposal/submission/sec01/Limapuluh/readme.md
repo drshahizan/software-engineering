@@ -169,7 +169,6 @@ In conclusion, the Agile software process model is an ideal choice for the propo
         <td>2 weeks</td>
         <td>Complete</td>
       </tr>
-      
       <tr>
         <td>Phase 2:Design and Planning</td>
         <td>Design user interface, prototypes, user journey maps, wireframes and divide the tasks</td>
@@ -177,7 +176,6 @@ In conclusion, the Agile software process model is an ideal choice for the propo
         <td>2 week</td>
         <td>incomplete</td>
       </tr>
-      
       <tr>
         <td>Phase 3:Execution adn Implementation</td>
         <td>Coding, testing, and integration of the features developed</td>
@@ -193,7 +191,6 @@ In conclusion, the Agile software process model is an ideal choice for the propo
         <td>2 weeks</td>
         <td>incomplete</td>
       </tr>
-      
       <tr>
         <td>Phase 5:Restrospective</td>
         <td>Discussing what went well and what didn't, identifying the root causes of problems and planning to solve the problems</td>
@@ -201,7 +198,6 @@ In conclusion, the Agile software process model is an ideal choice for the propo
         <td>2 weeks</td>
         <td>incomplete</td>
       </tr>
-      
       <tr>
         <td>Phase 6:Maintenance</td>
         <td>Maintain Feedback System and create maintenance planning</td>
