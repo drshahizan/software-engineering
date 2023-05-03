@@ -1,0 +1,116 @@
+<!--
+Lab 15: Layout 2
+Group:
+1. Name: SALINI RAVINTHIRAN, Matrix No: A22EC0267, Github ID: Salini1
+2. Name: NUR ARINI FATIHAH BINTI MOHD SABIR, Matrix No: A22EC0244, Github ID: arinifthh
+3. Name: NAVASARATHY S.GANESWARAN, Matrix No: A22EC0091, Github ID: Navasarathy
+4. Name:VINESH A/L VIJAYAKUMAR , Matrix No: A22EC0290, Github ID: vinesh06
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Flexbox</title>
+	<style>
+		* {
+			box-sizing: border-box;
+			margin: 0;
+			padding: 0;
+		}
+
+		header {
+			background-color: rgb(66, 29, 152) ;
+			color: #fff;
+			padding: 10px;
+			text-align: center;
+		}
+
+		section {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-between;
+			padding: 20px;
+			border-top: 1px solid #ccc;
+			border-bottom: 1px solid #ccc;
+		}
+
+		article {
+			flex-basis: calc(33.33% - 10px);
+			margin-bottom: 20px;
+			background-color: lightgreen;
+			padding: 10px;
+			box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+			border-radius: 5px;
+			overflow: hidden;
+		}
+
+		article:nth-child(2n) {
+			margin-left: 20px;
+			margin-right: 0px;
+		}
+
+		h2 {
+			margin-bottom: 10px;
+			color: black;
+		}
+
+		p {
+			margin-bottom: 10px;
+			color: black;
+			line-height: 1.4;
+		}
+
+		button {
+			margin-right: 10px;
+			margin-bottom: 10px;
+			padding: 5px 10px;
+			background-color: black;
+			color: #fff;
+			border: none;
+			border-radius: 5px;
+			cursor: pointer;
+		}
+
+		button:hover {
+			background-color: black;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Universiti Teknologi Malaysia</h1>
+	</header>
+
+	<section>
+		<article>
+			<h2>Campuses</h2>
+			<p>
+				UTM has three campuses – the main campus is in Skudai, and was the
+				first university in the state of Johor. It has an area of 1148
+				hectares and is the second largest public university after
+				Universiti Putra Malaysia (UPM). It is about 20 km north of the state
+				capital, Johor Bahru.
+			</p>
+		</article>
+
+		<article>
+			<h2>Residential colleges</h2>
+			<p>
+				UTM has on-campus hostel blocks that provide accommodation for
+				students. The hostel blocks are grouped into units known as colleges,
+				for simplifying administration. Each college has three or more hostel
+				blocks under their administration. UTM has 12 colleges, which can
+				accommodate 17,500 students. Among the facilities provided at each
+				residential college are a cafeteria, a multipurpose hall, a Muslim
+				prayer room, tennis courts, an internet and computer center, a
+				convenience store and a common room.
+			</p>
+		</article>
+
+		<article>
+			<div>
+				<p>
+					UTM can provide accommodation for outsiders, i.e. parents or
+					relatives, visiting friends etc., with Scholar's Inn @ UTM JB and
+					Scholar's Inn @ UTM KL. The Scholar's Inn

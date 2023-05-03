@@ -1,0 +1,341 @@
+/* Thomsoon.com - OnePage CSS Responsive
+-- version 1.0
+-- Copyright (c) 2014 Thomsoon.com
+-- licensed under the MIT
+--
+-- http://www.thomsoon.com/
+--
+*/
+
+
+/* iPad (portrait) */
+@media (min-width: 320px) and (max-width: 579px) {
+
+.menu{
+  display:none;
+}
+
+.menu-media{
+  display:block;
+}
+
+.start-page .content {
+  width:300px;
+  height:100%;
+}
+
+.start-page, .start-page .opacity{
+  height:100%;
+}
+.start-page .content .text {
+  width:300px;
+}
+
+
+h1 {
+  font-size:36px;
+}
+
+.about-us h1 {
+  margin-top:0;
+}
+
+.about-us .content{
+  width:300px;
+}
+
+.about-us hr,.portfolio .portfolio-margin hr, .contact hr {
+  width:106px;
+}
+
+.about-us .column-one, .about-us .column-two{
+  width:300px;
+  margin-bottom:20px;
+}
+
+ .about-us .content .column-three{
+  width:300px;
+  margin-bottom:70px;
+ }
+
+.portfolio .portfolio-margin{
+  width:300px;
+}
+
+.partners .content{
+  width:300px;
+}
+
+.partners .logo {
+  width:300px;
+}
+
+.partners .logo img {
+  width:80px;
+  padding-bottom:20px;
+}
+
+.contact, .contact .content, .contact .content .form{
+  width:300px;
+}
+
+.contact .content .contact-text{
+  padding-left:0px;
+  width:300px;
+  text-align:center;
+  margin-top:60px;
+}
+
+input{
+  width:320px;
+}
+
+textarea{
+  width:320px;
+}
+
+.contact .content .contact-text {
+  width:275px;
+}
+
+.contact .content .form .column, .contact .content .form .column-3{
+  width:320px;
+}
+
+.contact .content .form .column-2{
+  width:320px;
+  padding-left:0;
+}
+
+.grid li{
+  margin:0 0 15px 0;
+}
+
+.contact{ 
+  margin:0 auto;
+}
+
+.footer{
+  position:relative;
+}
+
+}
+
+
+
+/* iPad (portrait) */
+@media (min-width: 580px) and (max-width: 767px) {
+
+.menu{
+  display:none;
+}
+
+.menu-media{
+  display:block;
+}
+
+.menu-media .menu-content{
+  width:540px;
+}
+
+.partners .logo img {
+  padding-bottom:20px;
+}
+
+.start-page .content {
+  width:300px;
+  height:100%;
+}
+
+.start-page, .start-page .opacity{
+  height:100%;
+}
+.start-page .content .text {
+  width:300px;
+}
+
+
+h1 {
+  font-size:36px;
+}
+
+.about-us h1 {
+  margin-top:0;
+}
+
+.about-us .content{
+  width:300px;
+}
+
+.about-us hr,.portfolio .portfolio-margin hr, .contact hr {
+  width:106px;
+}
+
+.about-us .column-one, .about-us .column-two{
+  width:300px;
+  margin-bottom:20px;
+}
+
+ .about-us .column-three{
+  width:300px;
+  margin-bottom:70px;
+ }
+
+.portfolio .portfolio-margin{
+  width:300px;
+}
+
+.partners .content{
+  width:400px;
+}
+
+.partners .logo {
+  width:400px;
+}
+
+.partners .logo img {
+  width:80px;
+  padding-bottom:20px;
+}
+
+.contact, .contact .content, .contact .content .form{
+  width:300px;
+}
+
+.contact .content .contact-text{
+  padding-left:0px;
+  width:300px;
+  text-align:center;
+  margin-top:60px;
+}
+
+.contact .content .contact-text {
+  width:275px;
+}
+
+.contact .content .form .column, .contact .content .form .column-3{
+  width:420px;
+}
+
+.contact .content .form .column-2{
+  width:420px;
+  padding-left:0;
+}
+
+.contact{ 
+  margin:0 auto;
+}
+
+.footer{
+  position:relative;
+}
+
+input{
+  width:420px;
+}
+
+textarea{
+  width:420px;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* iPad (portrait) */
+@media (min-width: 768px) and (max-width: 1023px) {
+
+
+
+.menu-content .logo{
+  width:200px;
+}
+
+.menu-content{
+  width:700px;
+}
+
+.about-us .content{
+  width:700px;
+}
+
+.about-us p{
+  width:200px;
+}
+
+.about-us h2{
+  letter-spacing:2px;
+}
+
+.about-us .column-one{
+  width:233px;
+}
+
+.about-us .column-two{
+  width:233px;
+}
+
+.about-us .column-three{
+  width:233px;
+}
+
+.portfolio .portfolio-margin {
+  width:600px;
+}
+
+.partners .content{
+  width:700px;
+}
+
+.partners .logo {
+  width:700px;
+}
+
+.contact{ 
+  margin:0 auto;
+}
+
+.contact .content {
+  width:700px
+}
+
+.footer{
+  position:relative;
+}
+
+.contact .content .form{
+  width:355px;
+}
+
+input{
+  width:320px;
+}
+
+textarea{
+  width:320px;
+}
+
+.contact .content .contact-text {
+  width:275px;
+}
+
+.contact .content .form .column, .contact .content .form .column-3{
+  width:450px;
+}
+
+.contact .content .form .column-2{
+  width:450px;
+  padding-left:0;
+}
+
+
+}

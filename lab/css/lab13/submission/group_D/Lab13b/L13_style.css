@@ -1,0 +1,111 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto 1fr 1fr 1fr;
+    grid-gap: 15px;
+    height: 100vh;
+  }
+  
+  .grid-container2 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto 1fr 4fr;
+    grid-gap: 15px;
+    height: 100vh;  
+  }
+  
+  .grid-container3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto 1fr 1fr 1fr;
+    grid-gap: 15px;
+    height: 100vh;
+  }
+  
+  h1{
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+/* Mock 1 */
+  .header1 {
+    grid-column: 1 / 4;
+    background-color: #333333;
+    color: #ffffff;
+    padding: 20px;
+  }
+  
+  
+  .m1main {
+    grid-column: 1 / 2;
+    background-color: #b76c6c;
+    padding: 80px;
+    border: black solid;
+    width: 300px;
+  }
+  
+  .m1sidebar {
+    grid-column: 4 / 2;
+    background-color: #6791d1;
+    padding: 10px;
+    border: black solid;
+  }
+  
+  .m1footer {
+    grid-column: 1 / 4;
+    background-color: #f1fcab;
+    color: #ffffff;
+    padding: 50px;
+    border: black solid;
+    height: 40px;
+  }
+
+/* Mock 2 */
+  .header2 {
+    grid-column: 1 / span 3;
+    background-color: rgb(106, 40, 152);
+    color: #ffffff;
+    padding: 20px;
+    border: black solid 5px;
+  }
+
+  .m2red{
+    background-color: lightcoral;
+    padding: 20px;
+    border: black solid 5px;
+  }
+  .m2green{
+    background-color: lightgreen;
+    padding: 20px;
+    border: black solid 5px;
+  }
+  .m2mustard{
+    background-color: orange;
+    padding: 20px;
+    border: black solid 5px;
+  }
+  
+/* Mock 3 */
+  .m3green{
+    background-color: green;
+    grid-column: 1 / span 3;
+    padding: 30px;
+    border: black solid 5px;
+  }
+
+  .m3image{ 
+    grid-row: 3;
+    background-image: url(https://i.ibb.co/kQm2ppX/PK-Carsport-GT2-Audis.jpg)
+    
+  }
+  
+  .m3red{
+    background-color: red;
+    padding: 30px;
+    border: black solid 5px;
+  }
+
+  .m3blue{
+    background-color: rgb(66, 187, 227);
+    padding: 30px;
+    border: black solid 5px;
+  }

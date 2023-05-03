@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!--
+    Lab 16: Form Layout 
+    Group: SEHC
+    1. Name: LIM JING YONG, Matrix No: A22EC0182, Github ID: Jingyong14
+    2. Name: YEOH CHONG YI, Matrix No: A22EC0295, Github ID: yChongyi
+    3. Name: JASLENE YU, Matrix No: A22EC0171, Github ID: jaslene-u
+    4. Name: JOSEPH LAU YEO KAI, Matrix No: A22EC0055, Github ID: josephlau2003
+    -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      
+      body {
+        background:linear-gradient(200deg,rgb(155, 227, 214)50%,rgb(91, 227, 191)60%) ;
+        background-repeat: no-repeat;
+        font-family: Arial, Helvetica, sans-serif;
+        background-size: cover;
+        height: 685px;
+      }
+
+      .login-box {
+        text-align: center;
+        background-color: rgba(0, 0, 0, 0.471);
+        color: white;
+        width: 350px;
+        height: 300px;
+        position: relative;
+        left: 50%;
+        top: 30%;
+        transform: translate(-50%);
+        border-radius: 10px;
+        box-shadow: 0px 7px 10px 5px rgba(0, 0, 0, 0.274);
+      }
+
+      .user-box {
+        margin-top: 20px;
+      }
+
+      h2 {
+        padding-top: 50px;
+        padding-bottom: 10px;
+      }
+
+      label {
+        font-size: 90%;
+        position: absolute;
+        right: 220px;
+      }
+
+      input {
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        background-color: transparent;
+        color: white;
+        border-color: rgb(219, 219, 219);
+        width: 220px;
+        margin-bottom: 10px;
+      }
+
+      input[type="text"]:focus ~ label
+      {
+        top: 90px;
+        color:aqua;
+      }
+
+      input[type="text"]:valid ~ label
+      {
+        top: 90px;
+        color:aqua;
+      }
+
+      input[type="password"]:focus ~ label
+      {
+        top: 140px;
+        color:aqua;
+      }
+
+      input[type="password"]:valid ~ label
+      {
+        top: 140px;
+        color:aqua;
+      }
+      
+      a {
+        padding: 7px;
+        padding-left: 15px;
+        padding-right: 15px;
+        position: relative;
+        top: 40px;
+        right: 75px;
+        text-decoration: none;
+        color: cyan;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+      }
+
+      a:hover {
+        background-color: cyan;
+        border-radius: 5px;
+        color: white;
+        box-shadow: 0px 0px 10px 6px rgb(133, 255, 241);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="login-box">
+      <h2>Login</h2>
+      <form>
+        <div class="user-box">
+          <input type="text" name="" required="" />
+          <label>Username</label>
+        </div>
+        <div class="user-box">
+          <input type="password" name="" required="" />
+          <label>Password</label>
+        </div>
+        <a href="#">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          Submit
+        </a>
+      </form>
+    </div>
+  </body>
+</html>

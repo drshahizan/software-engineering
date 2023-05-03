@@ -1,0 +1,77 @@
+html, body {
+  height: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.pimg1 {
+  background-image: url("../images/mal1.jpeg");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  filter: opacity(80%);
+}
+
+.ptext {
+  text-align: center;
+  height: 100%;
+  width: fit-content;
+  font-size: 30px;
+  text-transform: uppercase;
+  letter-spacing: 7px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  color: #F4F4F4;
+}
+
+.border {
+  border: 5px solid #595959;
+  background-color: #595959;
+  padding: 10px;
+}
+
+.section-light {
+  text-align: center;
+  font-size: 22px;
+  background-color: #F4F4F4;
+  color: #666;
+  padding: 50px 150px 8px 150px;
+  line-height: 2.0;
+}
+
+.pimg2 {
+  background-image: url("../images/mal2.jpeg");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  filter: opacity(80%);
+}
+
+.trans {
+  border: 0;
+  background-color: transparent;
+}
+
+.section-dark {
+  text-align: center;
+  font-size: 22px;
+  background-color: #282E34;
+  color: #DDD;
+  padding: 30px 150px 20px 150px;
+  line-height: 1.5;
+}
+
+.pimg3 {
+  background-image: url("../images/mal3.jpeg");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  filter: opacity(80%);
+}

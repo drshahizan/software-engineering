@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Floats Example</title>
+    <title>CSS Flexbox Example</title>
+    <title>CSS Grid Example</title>
+    <title>CSS Positioning Example</title>
+    <link rel="stylesheet" href="style-selector.css" />
+    <style>
+      .container {
+        width: 80%;
+        margin: 0 auto;
+      }
+
+      .col {
+        float: left;
+        width: 50%;
+        padding: 20px;
+        box-sizing: border-box;
+      }
+
+      .col img {
+        max-width: 100%;
+        height: auto;
+      }
+
+      .clearfix::after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+
+      
+    </style>
+  </head>
+  <body>
+    <div class="container clearfix">
+      <div class="col">
+        <h2>Column One</h2>
+        <img
+          src="https://via.placeholder.com/300x200.png?text=Column+One"
+          alt="Column One Image"
+        />
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae
+          purus faucibus, consectetur sapien nec, aliquam urna. Nulla nec
+          pretium leo. Nullam vel diam in tellus dictum fringilla ac sit amet
+          elit.
+        </p>
+      </div>
+      <div class="col">
+        <h2>Column Two</h2>
+        <img
+          src="https://via.placeholder.com/300x200.png?text=Column+Two"
+          alt="Column Two Image"
+        />
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae
+          purus faucibus, consectetur sapien nec, aliquam urna. Nulla nec
+          pretium leo. Nullam vel diam in tellus dictum fringilla ac sit amet
+          elit.
+        </p>
+      </div>
+    </div>
+
+    <div class="flex-container">
+        <div class="flex-item">1</div>
+        <div class="flex-item">2</div>
+        <div class="flex-item">3</div>
+        <div class="flex-item">4</div>
+        <div class="flex-item">5</div>
+        <div class="flex-item">6</div>
+      </div>
+
+      <div class="grid-container">
+        <div class="grid-item">1</div>
+        <div class="grid-item">2</div>
+        <div class="grid-item">3</div>
+        <div class="grid-item">4</div>
+        <div class="grid-item">5</div>
+        <div class="grid-item">6</div>
+        <div class="grid-item">7</div>
+        <div class="grid-item">8</div>
+        <div class="grid-item">9</div>
+      </div>
+
+      <div class="container">
+        <div class="box1">Box 1</div>
+        <div class="box2">Box 2</div>
+        <div class="box3">Box 3</div>
+        <div class="box4">Box 4</div>
+      </div>
+      
+  </body>
+</html>

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<!--
+Name: Loo Jia Chang
+Matrix No: A22EC0074
+Github id: jcl03
+
+Lab 9: HTML Forms
+-->
+<head>
+    <style>
+        body{
+            margin-left: 40px;
+            margin-left: 40px;
+        }
+        h1{
+            text-align: center;
+            color: #0000EE;
+        }
+        table,th,td{
+            text-align: left;
+            border: 1px solid black;
+        }
+    </style>
+    <title>Medical Form</title>
+</head>
+
+<body>
+    <h1>Medical Form</h1>
+    <form action="process.php" method="post">
+        <fieldset style="width: 800px;">
+            <legend>Personal Information</legend>
+            <table>
+                <tr>
+                    <td>First Name</td>
+                    <td><input type="text" name="fname" id="fname"></td>
+                    <td>Gender</td>
+                    <td>
+                        <input type="radio" id="fmale" name="gender">
+                        <label for="fmale">Female</label>    
+                        <input type="radio" id="male" name="gender">
+                        <label for="male">Male</label>    
+                    </td>
+                </tr>
+                <tr>
+                    <td>Last Name</td>
+                    <td><input type="text" name="lname" id="lname"></td>
+                    <td>Nationality</td>
+                    <td><select name="nationality" id="nationality">
+                        <option value="C">Canadian</option>
+                        <option value="M">Malaysian</option>
+                    </select>
+                </td>
+                </tr>
+                <tr>
+                    <td>Address</td>
+                    <td colspan="3"><textarea name="address" id="address" cols="25" rows="5"></textarea></td>
+                </tr>
+            </table>
+        </fieldset>
+        <fieldset style="width: 800px;">
+            <legend>Medication History</legend>
+            <input type="checkbox" id="sp" name="sp" value="true">
+            <label for="vehicle1">Smallpox</label>
+            <input type="checkbox" id="m" name="m" value="true">
+            <label for="vehicle1"> Mumps</label>
+            <input type="checkbox" id="d" name="d" value="true">
+            <label for="vehicle1">Dizziness</label>
+            <input type="checkbox" id="s" name="s" value="true">
+            <label for="vehicle1">Sneezing</label>
+        </fieldset>
+        </fieldset>
+        <fieldset style="width: 800px;">
+            <legend>Current Medication</legend>
+            <label>Are you currently taking any medication?</label>
+            <input type="radio" id="med" name="med" value="y">
+            <label for="med">Yes</label>    
+            <input type="radio" id="med" name="med" value="n">
+            <label for="med">No</label> <br>
+            <label>If you are currently taking medication, please indicate it in the space below:</label><br>
+            <textarea name="med_ref" id="med_ref" cols="100" rows="10"></textarea>
+        </fieldset>
+        <input type="submit" value="Submit">
+        <input type="reset" value="Reset">
+    </form>
+</body>

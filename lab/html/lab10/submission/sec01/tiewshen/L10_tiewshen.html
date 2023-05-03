@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <!--
+            Name: Tiew Chuan Shen
+            Matric.no: A22EC0113
+            Gitbuh id: tiewshen
+        -->
+    </head>
+    <body>
+        <h1 style="text-align:center">Web Programming: Application Form</h1>
+        <form>
+            <fieldset>
+                <legend>Personal Details</legend>
+                <table>
+                    <tr>
+                        <td style="width:200px">Name</td>
+                        <td><select id="s" name="s"><option value="0">--Select--</option></select><input type="text" id="name"></td>
+                    </tr>
+                    <tr>
+                        <td style="width:200px">Gender</td>
+                        <td><input type="radio" name="gender" value="male"><lable>male</lable><input type="radio" name="gender" value="female"><lable>female</lable></td>
+                        <td style="width:200px">Date of Birth</td>
+                        <td><input type="date" id="birthday" name="birthday"></td>
+                    </tr>
+                    <tr>
+                        <td style="width:200px">Marital Status</td>
+                        <td><select id="status" name="s"><option value="">--Select--</option><option value="Single">single</option><option value="Mingle">mingle</option></select></td>
+                        <td style="width:200px">Religion</td>
+                        <td><select id="re"><option value="">--Select--</option><option value="Malay">Malay</option><option value="Buddha">Buddha</option><option value="Hindu">Hindu</option><option value="others">Others</option></select></td>
+                    </tr>
+                </table>
+            </fieldset>
+            <fieldset>
+                <legend>Contact Details</legend>
+                <table>
+                    <tr>
+                        <td style="width:200px">Phone</td>
+                        <td><input type="tel" name="phone"></td>
+                        <td style="width:200px">Email</td>
+                        <td><input type="email" name="email"></td>
+                    </tr>
+                    <tr>
+                        <td style="width:200px">Address line1</td>
+                        <td><input type="text" name="adl1"></td>
+                        <td style="width:200px">Address line2</td>
+                        <td><input type="text" name="adl2"></td>
+                    </tr>
+                    <tr>
+                        <td style="width:200px"><label for="city">City</label></td>
+				        <td><input type="text" id="city" name="city" required></td>
+                        <td style="width:200px">State</td>
+                        <td><select id="state"><option value="">--Select--</option><option value="Selangor">Selangor</option><option value="KL">Kuala Lumpur</option><option value="Johor">Johor</option><option value="Selangor">Pulau Pinang</option><option value="melaka">Melaka</option></select></td>
+                    </tr>
+                </table>
+            </fieldset>
+            <fieldset>
+                <legend>Qualication Details</legend>
+                <table style="width:100%">
+                    <tr>
+                        <td><b>No.</b></td>
+                        <td><b>Qualification</b></td>
+                        <td><b>University</b></td>
+                        <td><b>Passing Year</b></td>
+                        <td><b>CGPA</b></td>
+                    </tr>
+                    <tr>
+                        <td>1.</td>
+                        <td><select id="qua"><option value="">--Select--</option></select></td>
+                        <td><input type="text" name="uni"></td>
+                        <td><input type="text" name="PY"></td>
+                        <td><input type="text" name="CGPA"></td>
+                    </tr>
+                    <tr>
+                        <td>2.</td>
+                        <td><select id="qua"><option value="">--Select--</option></select></td>
+                        <td><input type="text" name="uni"></td>
+                        <td><input type="text" name="PY"></td>
+                        <td><input type="text" name="CGPA"></td>
+                    </tr>
+                </table>
+            </fieldset>
+            <fieldset>
+                <legend>Language Knowledge</legend>
+                <table>
+                    <tr>
+                        <td><b>Language</b></td>
+                        <td>Reading</td>
+                        <td>Writing</td>
+                        <td>Speaking</td>
+                    </tr>
+                    <tr>
+                        <td style="width:200px">B.Melayu</td>
+                        <td style="width:200px"><input type="checkbox" id="true"></td>
+                        <td style="width:200px"><input type="checkbox" id="true"></td>
+                        <td style="width:200px"><input type="checkbox" id="true"></td>
+                    </tr>
+                    <tr>
+                        <td style="width:200px">English</td>
+                        <td style="width:200px"><input type="checkbox" id="true"></td>
+                        <td style="width:200px"><input type="checkbox" id="true"></td>
+                        <td style="width:200px"><input type="checkbox" id="true"></td>
+                    </tr>
+                </table>
+            </fieldset>
+            <fieldset>
+                <legend>Identification Details</legend>
+                <table>
+                    <tr>
+                        <th>Identity Card Number</th>
+                        <td style="width:200px"><input type="text" name="identity"></td>
+                        <th>Passport Number</th>
+                        <td><input type="text" name="number"></td>
+                    </tr>
+                    <tr>
+                        <td>Upload Photo</td>
+                        <td><input type="file" name="file"></td>
+                        <td>Upload Signature</td>
+                        <td><input type="file" name="file"></td>
+                    </tr>
+                </table>
+            </fieldset>
+            <center><input type="submit" value="Submit"><button onclick="history.back()">Back</button></center>
+        </form>
+    </body>
+    </html>

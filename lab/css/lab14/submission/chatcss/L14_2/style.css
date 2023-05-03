@@ -1,0 +1,83 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.section {
+  text-align: center;
+}
+
+.section-light {
+  background-color: lightgrey;
+  color: black;
+  padding: 40px;
+  text-align: center;
+  font-size: 19px;
+}
+
+.section-dark {
+  background-color: black;
+  color: white;
+  padding: 40px;
+  text-align: center;
+  font-size: 19px;
+}
+
+.ptext {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  white-space: nowrap;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 20px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+
+.ptext .border {
+  padding: 20px;
+  display: inline-block;
+  color: white;
+  font-size: 30px;
+  background-color: black;
+}
+
+.border.trans {
+  color: white;
+  border: none;
+  background-color: transparent;
+}
+
+.pimg1 {
+  background-image: url("mal1.jpeg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.8;
+}
+
+.pimg2 {
+  background-image: url("mal2.jpeg");
+  position: relative;
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.8;
+}
+
+.pimg3 {
+  background-image: url("mal3.jpeg");
+  position: relative;
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.8;
+}

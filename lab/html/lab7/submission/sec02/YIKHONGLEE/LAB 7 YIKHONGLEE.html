@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WEB PROGRAMMING: TIME TABLE</title>
+     <!--
+        Name: LEE YIK HONG
+        Matrix No: A21BE0376
+        Github id: YIKHONGLEE
+        Lab 7: Timetable
+    -->
+    <style>
+      table {
+        border-collapse: collapse;
+        border: 4px double black;
+      }
+      th, td {
+        border: 4px double black;
+        padding: 8px;
+        text-align: center;
+      }
+      th { 
+        color: black;
+      }
+
+      th:first-child,
+    td:first-child {
+  font-weight: bold;
+  font-style: italic;
+}
+
+td[colspan="3"] {
+  background-color: yellow;
+}
+
+th[rowspan="5"] {
+  background-color: green;
+}
+
+
+
+
+
+
+    </style>
+  </head>
+  <body>
+    <h1 style="text-align:center;">WEB PROGRAMMING: TIME TABLE</h1>
+    <table>
+      <tr>
+        <th>Day/Period</th>
+        <th>I<br>9.30-10.20</th>
+        <th>II<br>10.20-11.10</th>
+        <th>III<br>12.00-12.40</th>
+        <th>12.00-12.40</th>
+        <th>IV<br>12.40-1.30</th>
+        <th>V<br>1.30-2.20</th>
+        <th>VI<br>2.20-3.10</th>
+        <th>VII<br>3.10-4.00</th>
+      </tr>
+      <tr>
+        <td>Monday</td>
+        <td>Eng</td>
+        <td>Mat</td>
+        <td>Che</td>
+        <th rowspan="5">LUNCH</th>
+        <td colspan="3">LAB</td>
+        <td>Phy</td>
+      </tr>
+      <tr>
+        <td>Tuesday</td>
+        <td colspan="3">LAB</td>
+        <td>Eng</td>
+        <td>Che</td>
+        <td>Mat</td>
+        <td style="background-color: blue;">Sports</td>
+        
+      </tr>
+
+      <tr>
+        <td>Wednesday</td>
+        <td>Mat</td>
+        <td>Phy</td>
+        <td>Eng</td>
+        <td>Che</td>
+        <td style="background-color: white;"colspan="3">LIBRARY</td>
+        
+      </tr>
+
+      <tr>
+        <td>Thursday</td>
+        <td>Phy</td>
+        <td>Eng</td>
+        <td>Che</td>
+        <td colspan="3">LAB</td>
+        <td>Mat</td>
+        
+        
+      </tr>
+      <tr>
+        <td>Friday</td>
+        <td>Phy</td>
+        <td>Eng</td>
+        <td>Che</td>
+        <td colspan="3">LAB</td>
+        <td>Mat</td>
+        
+        
+      </tr>

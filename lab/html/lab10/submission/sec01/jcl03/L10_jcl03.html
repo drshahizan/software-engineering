@@ -1,0 +1,181 @@
+<html>
+<!--
+Name: Loo Jia Chang
+Matrix No: A22EC0074
+Github id: jcl03
+
+Lab 10: Application Form
+-->
+<head>
+    <style>
+        body{
+            margin-left: 40px;
+            margin-right: 40px;
+        }
+        h3{
+            text-align: center;
+        }
+        .button-container {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h3>Web Programming: Application Form</h3>
+    <form action="process.php" method = "post">
+        <fieldset>
+            <legend>Personal Details</legend>
+            <table>
+                <tr>
+                    <td>Name</td>
+                    <td>
+                        <select id="preset_name" name="select">
+                            <option value="">--Select--</option>
+                            <option value="mr">Mr.</option>
+                            <option value="mrs">Mrs.</option>
+                        </select>
+                        <input type="text" name="name" id="name">
+                    </td>
+                </tr>
+                <tr><td><br></td></tr>
+                <tr>
+                    <td>Gender</td>
+                    <td>
+                        <input type="radio" id="gender" name="gender" value="m">
+                        <label for="html">Male</label>
+                        <input type="radio" id="gender" name="gender" value="f">
+                        <label for="html">Female</label>
+                    </td>
+                    <td>Date of Birth</td>
+                    <td>
+                        <input type="date" id="date" name="date">
+                    </td>
+                </tr>
+                <tr><td><br></td></tr>
+                <tr>
+                    <td>Marital Status</td>
+                    <td>
+                        <select id="mstat" name="select">
+                            <option value="">--Select--</option>
+                        </select>
+                    </td>
+                    <td>Religion</td>
+                    <td><select id="religion" name="select">
+                            <option value="">--Select--</option>
+                        </select>
+                    </td>
+                </tr>
+            </table>
+        </fieldset>
+        <fieldset>
+            <legend>Contact Details</legend>
+            <table>
+                <tr>
+                    <td style="width: 25%;">Phone</td>
+                    <td style="width: 35%;"><input type="text" name="ph_no" id="ph_no"></td>
+                    <td style="width: 25%;">E-mail</td>
+                    <td style="width: 35%;"><input type="text" name="mail" id="mail"></td>
+                </tr>
+                <tr><td><br></td></tr>
+                <tr>
+                    <td>Address Line 1</td>
+                    <td><input type="text" name="add1" id="add1"></td>
+                    <td>Address Line 2</td>
+                    <td><input type="text" name="add2" id="add2"></td>
+                </tr>
+                <tr><td><br></td></tr>
+                <tr>
+                    <td>City</td>
+                    <td><input type="text" name="city" id="city"></td>
+                    <td>State</td>
+                    <td><select id="" name="select">
+                            <option value="">--Select--</option>
+                    </select></td>
+                </tr>
+            </table>
+        </fieldset>
+        <fieldset>
+            <legend>Qualification</legend>
+            <table>
+                <tr>
+                    <td><b>No.</b></td>
+                    <td style="width:20%;"><b>Qualification</b></td>
+                    <td style="width:40%;"><b>University</b></td>
+                    <td style="width:30%;"><b>Passing Year</b></td>
+                    <td><b>CGPA</b></td>
+                </tr>
+                <tr><td><br></td></tr>
+                <tr>
+                    <td>1.</td>
+                    <td>
+                        <select id="quali1" name="quali1" >
+                            <option value="">--Select--</option>
+                        </select>
+                    </td>
+                    <td ><input type="text" name="u1" id="u1" size="40"></td>
+                    <td><input type="text" name="py1" id="py1" size="4"></td>
+                    <td><input type="text" name="cgpa1" id="cgpa1" size="4"></td>
+                </tr>
+                <tr><td><br></td></tr>
+                <tr>
+                    <td>2.</td>
+                    <td>
+                        <select id="quali2" name="quali2">
+                            <option value="">--Select--</option>
+                        </select>
+                    </td>
+                    <td><input type="text" name="u2" id="u2" size="40"></td>
+                    <td><input type="text" name="py2" id="py2"size="4"></td>
+                    <td><input type="text" name="cgpa2" id="cgpa2" size="4"></td>
+                </tr>
+            </table>
+        </fieldset>
+        <fieldset>
+            <legend>Language Knowledge</legend>
+            <table>
+                <tr>
+                    <td style="width:40%;"><b>Language</b></td>
+                    <td style="width:25%;"><b>Reading</b></td>
+                    <td style="width:25%;"><b>Writing</b></td>
+                    <td style="width:25%;"><b>Speaking</b></td>
+                </tr>
+                <tr>
+                    <td>B. Melayu</td>
+                    <td><input type="checkbox" id="m_r" name="m_r" value="true"></td>
+                    <td><input type="checkbox" id="m_w" name="m_w" value="true"></td>
+                    <td><input type="checkbox" id="m_s" name="m_s" value="true"></td>
+                <tr>
+                    <td>English</td>
+                    <td><input type="checkbox" id="e_r" name="e_r" value="true"></td>
+                    <td><input type="checkbox" id="e_w" name="e_w" value="true"></td>
+                    <td><input type="checkbox" id="e_s" name="e_s" value="true"></td>
+                </tr>
+            </table>
+        </fieldset>
+        <fieldset>
+            <legend>Identification Details</legend>
+            <table>
+                <tr>
+                    <td>Identity Card Number</td>
+                    <td><input type="text" name="ic" id="ic"></td>
+                    <td>Passport Number</td>
+                    <td><input type="text" name="ps" id="ps"></td>
+                </tr>
+                <tr>
+                    <td>Upload Photo</td>
+                    <td><input type="file" id="photo" name="photo">
+                    </td>
+                    <td>Upload Signature</td>
+                    <td>
+                        <input type="file" id="signature" name="signature" accept="image/*">
+                    </td>
+                </tr>
+            </table>
+        </fieldset>
+        <div class="button-container">
+            <input type="submit" value="Submit">
+            <input type="reset" value="Reset">
+        </div>
+    </form>
+</body>
+</html>
