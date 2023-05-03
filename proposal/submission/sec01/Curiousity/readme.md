@@ -258,7 +258,7 @@ In conclusion, the estimated budget for the development of the UTM Event Managem
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
-### 7. System Architecture🖥️:
+### 7. System Architecture:
 
 The proposed system architecture for the event management system will be a web-based system built using modern technologies and frameworks. The system will use the following tools and technologies:
 
