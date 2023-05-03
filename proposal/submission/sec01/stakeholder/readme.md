@@ -26,7 +26,7 @@ Don't forget to hit the :star: if you like this repo.
   <td>2. WONG KHAI SHIAN NICHOLAS </td> <td> A22EC0292 </td> <td><img src=""> </td>
   </tr>
 <tr>
-  <td>3. JOSEPH LAU YEO KAI </td> <td> A22EC0055 </td> <td><img src=""> </td> 
+  <td>3. JOSEPH LAU YEO KAI </td> <td> A22EC0055 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/photo_2022-05-11_16-06-06.jpg?raw=true" width=150,height=300> </td> 
   </tr>
 <tr>
   <td>4. LOW JIE SHENG </td> <td> A22EC0075 </td> <td><img src=""> </td>
