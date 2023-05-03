@@ -7,13 +7,13 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-### 🎯 Proposal 🆕 
+### 🎯 Proposal 
 1. [List of Software Engineering Projects](materials/list-se-topic.md)
 2. [Steps in Software Engineering Projects](materials/se-project.md)
 3. [Guideline for Software Engineering Proposal](materials/guideline.md)
 4. [Proposal Template](materials/template-proposal.md)
-5. [Summary proposal: Academic Course Registration System](materials/summary-proposal.md) 🆕
-6. [Proposal: Academic Course Registration System](materials/sample-proposal.md) 🆕
+5. [Summary proposal: Academic Course Registration System](materials/summary-proposal.md)
+6. [Proposal: Academic Course Registration System](materials/sample-proposal.md)
 5. [IEEE Document Template](https://github.com/drshahizan/software-engineering/blob/main/materials/ieee-doc-temp.md)
 
 ### Others
