@@ -249,21 +249,25 @@ Bar charts to display attendance rates for students. Pie charts to show the perc
 <li>Resources : Project manager, business analysis</li>
 <li>Estimated duration : 1 month</li>
 <li>Deliverable: Project proposal, requirement study report</li>
+
 #### Phase 2: Planning
 <li>Milestones : Project planning, identify process model, technical specifications, data sources, test cases based on functional and non-functional requirements </li>
 <li>Resources : Project manager, UI/UX designers, main developers, quality assurance</li>
 <li>Estimated duration : 2 months</li>
 <li>Deliverable: Progress report, budget report, test result report</li>
+
 #### Phase 3: Implementation
 <li>Milestones : Design approval, design system architecture, develop system</li>
 <li>Resources : UI/UX designers, main developers, quality assurance</li>
 <li>Estimated duration : 5 months</li>
 <li>Deliverable: Design drawings and documents, design review, beta product, test result report</li>
+
 #### Phase 4: Quality assurance and user acceptance testing
 <li>Milestones : product quality enhancement</li>
 <li>Resources : Quality assurance, project manager, business analyst</li>
 <li>Estimated duration : 3 months</li>
 <li>Deliverable: test result report, useability report, improved filing and organization systems</li>
+
 #### Phase 5 : Closure of project
 <li>Milestone 5 : verification of the completion, examine contract, pass all deliverables to stakeholder/client</li>
 <li>Resources : </li>
