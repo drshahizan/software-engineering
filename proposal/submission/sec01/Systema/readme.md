@@ -1,8 +1,10 @@
 # Student Engagement
+### Prepared by: Systema
   <table>
   <tr>
     <th>Name</th>
     <th>Matric Number</th>
+    <th>Picture</th>
   </tr>
   <tr>
     <td>Bernice Lim Jing Xuan</td>
@@ -12,7 +14,7 @@
   <tr>
     <td>Chai Yu Tong</td>
     <td>A22EC0145</td>
-    <td>###</td>
+    <td><img src="ID Photo.jpg" style="margin: 0 auto;width: 200px"></td>
   </tr>
   <tr>
     <td>Kek Jesslyn</td>
