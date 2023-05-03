@@ -25,12 +25,12 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Group | Title | Document |
 | :-----: | ------ | ------ | :------: | 
-| 1 | Allen | UTM Student Grading System |<a href="submission/sec02/allen" ><img src="../images/task.png" width="24px" height="24px" ></a> | 
-| 2 | Alpha | College Room Rental System |<a href="submission/sec02/alpha" ><img src="../images/task.png" width="24px" height="24px" ></a> | 
-| 3 | Beta | Food Ordering System in UTM |<a href="submission/sec02/beta" ><img src="../images/task.png" width="24px" height="24px" ></a> |
-| 4 | Engineering | Parcel Delivery Service |<a href="submission/sec02/engineering" ><img src="../images/task.png" width="24px" height="24px" ></a> | 
+| 1 | Allen | UTM Student Grading System |<a href="submission/sec02/Allen" ><img src="../images/task.png" width="24px" height="24px" ></a> | 
+| 2 | Alpha | College Room Rental System |<a href="submission/sec02/Alpha" ><img src="../images/task.png" width="24px" height="24px" ></a> | 
+| 3 | Beta | Food Ordering System in UTM |<a href="submission/sec02/Beta" ><img src="../images/task.png" width="24px" height="24px" ></a> |
+| 4 | Engineering | Parcel Delivery Service |<a href="submission/sec02/Engineering" ><img src="../images/task.png" width="24px" height="24px" ></a> | 
 | 5 | Program | Academic Consultation System|<a href="submission/sec02/program" ><img src="../images/task.png" width="24px" height="24px" ></a> | 
-| 6 | Software| Student Health and Wellness Management System |<a href="submission/sec02/software" ><img src="../images/task.png" width="24px" height="24px" ></a> | | | 7 | Tempest | Badal Hajj and Umrah Management System|<a href="submission/sec02/tempest" ><img src="../images/task.png" width="24px" height="24px" ></a> | 
+| 6 | Software| Student Health and Wellness Management System |<a href="submission/sec02/Software" ><img src="../images/task.png" width="24px" height="24px" ></a> | | | 7 | Tempest | Badal Hajj and Umrah Management System|<a href="submission/sec02/Tempest" ><img src="../images/task.png" width="24px" height="24px" ></a> | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
