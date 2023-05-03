@@ -8,19 +8,18 @@
   5. Yeoh Chong Yi          A22EC0295
 
 ### Table of Contents
-- [Executive Summary](#executive-summary) <br>
-- [Background](#background)<br>
-- [Objectives](#objectives)<br>
-- [Scope](#scope)<br>
-      - [Personalised dashboard](#personalised-dashboard) 
-- [Software Process Model](#software-process-model)<br>
-- [Budget](#budget)<br>
-- [System Architecture](#system-architecture)<br>
-- [Risk Assessment](#risk-assesment)<br>
-- [Resources](#resources)<br>
-- [Technical Specifications](#technical-specifications)<br>
-- [Timeline and Deliverables](#timeline-and-deliverabels)<br>
-- [Conclusion](#conclusion)
+1. [Executive Summary](#executive-summary) <br>
+2. [Background](#background)<br>
+3. [Objectives](#objectives)<br>>
+4. [Scope](#scope)
+5. [Software Process Model](#software-process-model)<br>
+6. [Budget](#budget)<br>
+7. [System Architecture](#system-architecture)<br>
+8. [Risk Assessment](#risk-assesment)<br>
+9. [Resources](#resources)<br>
+10. [Technical Specifications](#technical-specifications)<br>
+11. [Timeline and Deliverables](#timeline-and-deliverabels)<br>
+12. [Conclusion](#conclusion)
  
   
 ### Executive Summary
