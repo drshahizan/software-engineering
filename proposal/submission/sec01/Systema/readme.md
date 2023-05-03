@@ -87,7 +87,7 @@ The major objectives of building a student engagement website for Faculty Comput
   Overall, the development of a student engagement website aims to provide a comprehensive platform that supports Faculty Computing's students throughout their academic journey, enhances their learning experience, and fosters a sense of community within the academic community.<br>
 
 ### 4. Scope
-<img src="scope.png">
+<img src="scope.png" align="center">
 <p>
 <ol>
   <li><b>Personalised dashboard</b>:
@@ -124,7 +124,7 @@ The major objectives of building a student engagement website for Faculty Comput
 </p>
 
 ### 5. Software Process Model
-<img src="agile.png">
+<img src="agile.png" align="center">
 <p>
 A software process model for a student engagement system refers to a set of activities and phases that are used to design, develop, test, and maintain the software system. It provides a framework for organizing the software development process and helps to ensure that the final product meets the requirements and needs of the stakeholders.
 <br><br>
@@ -140,7 +140,7 @@ Here is the phases of agile model that can be applied to the development of a st
   <li>Deployment: In this phase, the team deploys the software to the production environment. The team releases the software incrementally, and each release includes a set of tested features.</li>
   <li>Maintenance: In this phase, the team maintains the software by fixing defects, adding new features, and improving the system's performance. The team continuously receives feedback from users and stakeholders to improve the system further.</li>
 </ol>
-<img src="gantt.jpg">
+<img src="gantt.jpg" align="center">
 
 #### Testing Methodologies
 
