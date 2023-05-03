@@ -1,11 +1,35 @@
 # Student Engagement
-
-### Prepared by: Systema
-  1. Bernice Lim Jing Xuan  A22EC0038
-  2. Chai Yu Tong           A22EC0145
-  3. Kek Jesslyn            A22EC0057
-  4. Wong Qiao Ying         A22EC0118
-  5. Yeoh Chong Yi          A22EC0295
+  <table>
+  <tr>
+    <th>Name</th>
+    <th>Matric Number</th>
+  </tr>
+  <tr>
+    <td>Bernice Lim Jing Xuan</td>
+    <td>A22EC0038</td>
+    <td>###</td>
+  </tr>
+  <tr>
+    <td>Chai Yu Tong</td>
+    <td>A22EC0145</td>
+    <td>###</td>
+  </tr>
+  <tr>
+    <td>Kek Jesslyn</td>
+    <td>A22EC0057</td>
+    <td>###</td>
+  </tr>
+  <tr>
+    <td>Wong Qiao Ying</td>
+    <td>A22EC0118</td>
+    <td>###</td>
+  </tr>
+  <tr>
+    <td>Yeoh Chong Yi</td>
+    <td>A22EC0295</td
+    <td>###</td>
+  </tr>
+</table>
 
 ### Table of Contents
 1. [Executive Summary](#executive-summary)
@@ -249,6 +273,10 @@ Block Diagram:
     <th>Name</th>
   </tr>
   <tr>
+    <td>Project Manager</td>
+    <td>Wong Qiao Ying</td>
+  </tr>
+  <tr>
     <td>Quality assurance specialist & Web Developer</td>
     <td>Bernice Lim Jing Xuan</td>
   </tr>
@@ -261,32 +289,38 @@ Block Diagram:
     <td>Kek Jesslyn</td>
   </tr>
   <tr>
-    <td>Security Specialist & Development Operations Engineer</td>
-    <td>Wong Qiao Ying</td>
-  </tr>
-  <tr>
     <td>Technical Writer & User Experience Designer</td>
     <td>Yeoh Chong Yi</td>
   </tr>
 </table>
-
-  2. Equipment:
+  2. Hardware
+      + Server Hardware
+      + Network Hardware
+      + Storage Hardware
+      + Cloud computing providers
+      + Scalability
+      
+  3. Equipment:
       + Computers and laptops for the project team
       + Servers and hosting services for the website
       + Internet connectivity
-  3. Software:
+      
+  4. Software:
       + User interface: HTML, CSS, JavaScript, and ReactJS
       + Server-side technology: Node.js and Express.js
       + Database: MySQL RDBMS
       + Business intelligence tools: Tableau, Power BI, QlikView
       + Data visualization libraries: D3.js, Highcharts, Chart.js
       + Data analysis tools: Python, R, Excel
-  4. Other Expenses:
+      
+  5. Other Expenses:
+      + Testing fees
+      + Contingency fees
       + Web hosting fees
       + Domain registration fees
-      + Security and backup services
       + Marketing and advertising expenses
       + Training and support expenses
+      + Staffing costs
 
 
 ### Technical Specifications
