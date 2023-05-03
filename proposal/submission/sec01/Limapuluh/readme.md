@@ -101,6 +101,9 @@ Implementing a student feedback system can also foster transparency and communic
 Finally, implementing a student feedback system can support UTM's efforts to maintain accreditation and compliance with relevant regulations. Many accrediting bodies require universities to collect and use student feedback to inform decision-making and improve educational outcomes. A robust student feedback system can help UTM meet these requirements and maintain its status as a top-tier institution.
 
 ### 4. Scope: 
+
+<img src="https://i.imgur.com/q5k7A41.jpg" alt="an image">
+
 The scope of the project includes the enhancement of the current student feedback system at our university. This includes:
   
 #### 1) Assessing the current system
