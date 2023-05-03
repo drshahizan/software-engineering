@@ -24,7 +24,7 @@ Don't forget to hit the :star: if you like this repo.
   <td>1.</td> <td> Neo Zheng Weng </td> <td> A22EC0093 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/rsz_3photograph_neo_zheng_weng.jpg" width=150px, height=200px> </td>
   </tr>
 <tr>
-  <td>2.</td> <td> WONG KHAI SHIAN NICHOLAS </td> <td> A22EC0292 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/rsz_1dsc_0711.jpg?raw=true" width=180px, height=200px> </td>
+  <td>2.</td> <td> WONG KHAI SHIAN NICHOLAS </td> <td> A22EC0292 </td> <td><img src=""> </td>
   </tr>
 <tr>
   <td>3.</td> <td> JOSEPH LAU YEO KAI </td> <td> A22EC0055 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/photo_2022-05-11_16-06-06.jpg?raw=true" width=150,height=300> </td> 
@@ -111,27 +111,26 @@ These SMART objectives for our introduced student accommodation system in KTDI a
 ### 4. Scope
 The scope refers to the boundaries of the project and outlines the features and functionalities of the system, including its goals, objectives and requirements as well as the expected outcomes and benefits. Detailed explanations of the features and functionality of our proposed student accommodation system in KTDI are as follows:
 
-- Centralised Dashboard: <br>In both the user interfaces of the students, fellows, KTDI staff and also the adminstrative department or KTDI department will have a well looking dashboard to provide the users a easier and effective way to access their needs via the tools provided. The dashboard can provide students with current allocated college merits, college activities, personal information and hostel information such as dormitory fees according to room type, room location.
-
 - Student registration: <br>By entering user's personal information, academic information and room preferences, students can register as users in the system using the student registration tool. Before letting a student register, the system should confirm their identity and determine whether they qualify for accommodation registration based on the hostel merits and year of study. The first year students will be registered automatically, while the senior year students have to register themselves.
 
 - Room allocation: <br>According on the students' choices, room availability and hostel merits, the system can assign rooms to them using the room allocation tool. The system should include elements including the student's academic programme, year of study, and any unique requirements or requests, such as health condition in order to take note in the allocation process. This process will prioritise the students with higher hostel merits to prefer their desired hostel block as well as room type.
 
 - Room management: <br>The room management feature allows students to manage their rooms through the system. This includes room bookings, check-in, check-out and maintenance requests. The system should provide a calendar view of the room availability and allow students to book their preferred room and check-in and check-out dates. It should also allow students to request maintenance services for their room and track the status of the request.
 
-- Payment management: <br>Students can use the system to pay their lodging costs via the payment management tool. The system should enable students to monitor their payment history and receipts and offer safe payment options like internet banking and also convinence payment method, such as TnG e-wallet and duitnow QR code. The payment will include the fees of room rentaling, charges in extra electical appliances as well as the sumon given by KTDI staff.
+
+- Payment management: <br>Students can use the system to pay their lodging costs via the payment management tool. The system should enable students to monitor their payment history and receipts and offer safe payment options like internet banking and also convinence payment method, such as TnG e-wallet. Under this scope, there will be duitnow QR code and bank account number provided for the students to pay their lodging costs. 
 
 - User management: <br>Administrators can manage user accounts for students, staff and other users via the user management tool. To make sure that users only have access to the functions and information they required, the system offers capabilities like account creation, modification and deletion as well as role-based access control.
 
 - Security: <br>To log in the system, the students have to enter their UTM id and the password set. Same concept will be implemeted for the KTDI staff, fellows and KTDI administrators.
 
-- Reporting and analytics: <br> Administrators will be allowed to monitor and analyze the occupancy rates, revenue and maintenance issues of the accommodation system. Reports from the system should include occupancy rates based on the study programme or room type, revenue by time period and building or room-specific maintenance issues. 
+- Reporting and analytics: <br>Administrators will be allowed to monitor and analyze the occupancy rates, revenue and maintenance issues of the accommodation system. Reports from the system should include occupancy rates based on the study programme or room type, revenue by time period and building or room-specific maintenance issues.
 
 - Support and maintenance: <br>Residents or students should be able to report problems or request assistance for the maintainence of hostel equipments or any problem faced in the accommodation system, such as bugs through the system's help desk and there should be a dedicated team working to quickly resolve these problems.
 
 - Agile methodology: <br>Agile methodology is used for the software process model in the system development due to its flexibility in updating the stakeholders' requirements and sastification.
   
-- The system will be limited to Kolej Tun Dr Ismail (KTDI) and the decide phase of the final result of room application is managed by the AIMS of UTM.
+- Centralised Dashboard: <br>In both the user interfaces of the students and also the adminstrative department or KTDI department will have a well looking dashboard to provide the users a easier and effective way to access their needs via the tools provided.
 
 <!--However, there are several limitations and constraints that may affect the project of a student accommodation system for Kolej Tun Dr Ismail (KTDI):
   
@@ -178,7 +177,7 @@ Agile methodology for developing the Student Accommodation System in Kolej Tun D
   
 To assure the quality and functionality of the system, many testing methodologies are employed in this project, including unit testing, integration testing, system testing, acceptance testing, and usability testing. Project management techniques leverage technologies like Kanban boards, sprint planning and regular stand-up meetings to track progress and guarantee task completion on time. To maintain code quality and reduce errors, quality assurance procedures like code review, continuous integration and automated testing are used. These procedures are essential for ensuring the effective deployment and operation of the KTDI system for student accommodation.
 
-  <!--<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
   <body>
@@ -190,68 +189,54 @@ To assure the quality and functionality of the system, many testing methodologi
         <th>Duration</th>
       </tr>
       <tr>
-        <td>Phase 1: Planning and Design</td>
-        <td>Row 1, Column 2</td>
-        <td>Row 1, Column 3</td>
-        <td></td>
+        <td>Phase 1: Planning Phase:</td>
+        <td>The project scope, objectives and also related stakeholders in this project are identified. This will also include the timeline and milestones, identify project risks and allocate project resources appropriately. </td>
+        <td>Project manager, requirements analyst, stakeholder</td>
+        <td>1 week</td>
       </tr>
       <tr>
-        <td></td>
-        <td>Row 2, Column 2</td>
-        <td>Row 2, Column 3</td>
-        <td>None</td>
+        <td>Phase 2: Requirements Gathering Phase</td>
+        <td>The project requirement analyst team works with the unidentified stakeholders to identify and prioritise user requirements of student accommodation system.</td>
+        <td>Project manager, requirements analyst, documentation specialist, stakeholder</td>
+        <td>1 week</td>
       </tr>
       <tr> 
-        <td></td>
-        <td>Row 3, Column 2</td>
-        <td>Row 3, Column 3</td>
-        <td></td>
+        <td>Phase 3: Design Phase</td>
+        <td>The system designer and the main developer lead works with the development team to develop a high-level design of the system.</td>
+        <td>Project manager, UI/UX system designer, main developer,developer assistant, project budget</td>
+        <td>2 weeks</td>
       </tr>
-      <tr class="phase-divider"><td colspan="4"></td></tr> <!-- Add a divider after Phase 1 -->
-     <!-- <tr>
-        <td>Phase 2: Development</td>
-        <td>Row 1, Column 2</td>
-        <td>Row 1, Column 3</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td>Row 2, Column 2</td>
-        <td>Row 2, Column 3</td>
-        <td>None</td>
+     <tr>
+        <td>Phase 4: Development phase</td>
+        <td>The development team begins the development of the software components according to the sprint backlog.</td>
+        <td>Project manager, UI/UX system designer, main developer, developer assistant, project budget.</td>
+        <td>3 weeks</td>
       </tr>
       <tr>
-        <td></td>
-        <td>Row 3, Column 2</td>
-        <td>Row 3, Column 3</td>
-        <td></td>
+        <td>Phase 5: Testing phase</td>
+        <td>To make sure our software corresponds to specified standards, we will work with our instructor to develop a testing plan and carry out functional, integration, and acceptability testing.</td>
+        <td>Project manager, main developer and developer assistant, project budget,</td>
+        <td>3 weeks</td>
       </tr>
       <tr>
-        <td></td>
-        <td>Row 4,column 2</td>
-        <td>Row 4 column 3</td>
-        <td></td>
-      </tr>
-      <tr class="phase-divider"><td colspan="4"></td></tr> <!-- Add a divider after Phase 2 -->
-      <!--<tr>
-        <td>Phase 3: Testing and Deployment</td>
-        <td>Row 1, Column 2</td>
-        <td>Row 1, Column 3</td>
-        <td></td>
+        <td>Phase 6: Implementation Phase</td>
+        <td>Our project manager will collaborate with the development team during the implementation phase of our Student Accommodation System for Kolej Tun Dr Ismail (KTDI) project to guarantee the programme is prepared for use.</td>
+        <td>Project manager, IT support, project budget</td>
+        <td>2 weeks</td>
       </tr>
       <tr>
-        <td></td>
-        <td>Row 2, Column 2</td>
-        <td>Row 2, Column 3</td>
-        <td>None</td>
+        <td>Phase 7: Review and maintenance Phase</td>
+        <td>The finished programme will be examined by the developers and the stakeholder in the review phase part to make sure it satisfies the acceptance criteria and user needs.</td>
+        <td>Project manager, stakeholder, UI/UX system designer, IT support, main developer, developer assistant, project budget</td>
+        <td>2 weeks</td>
       </tr>
-      <tr>
-        <td></td>
-        <td>Row 3, Column 2</td>
-        <td>Row 3, Column 3</td>
-        <td></td>
+        <td>Phase 8: Launch phase</td>
+        <td>The launch phase displays the finished product that will be used in a real-world setting. Final testing and quality assurance will be carried out by the project manager in collaboration with the development team to guarantee that the software is reliable and usable in a real-world setting.</td>
+        <td>Project manager, quality assurance analyst, IT support, project budget</td>
+        <td>1 week</td>
       </tr>
-    </table>-->
+    </table>
+    
 In conclusion, the Agile methodology is an effective software process model for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) because it emphasizes flexibility, collaboration, and continuous customer feedback. It allows the development team to respond quickly to changes in requirements and deliver high-quality software in shorter development cycles.
 
 ---
