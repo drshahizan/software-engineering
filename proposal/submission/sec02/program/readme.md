@@ -9,7 +9,7 @@
   2. Maisarah Binti Rizal A22EC0192
   3. Nur Arini Fatihah Binti Mohd Sabir A22EC0244
   4. Mulyani Binti Saripuddin A22EC0223
-<img src="https://user-images.githubusercontent.com/128214992/235843037-31e5d853-95de-4675-8a95-12832052dd16.jpg" width="200" height=auto>
+<img src="https://user-images.githubusercontent.com/128214992/235843037-31e5d853-95de-4675-8a95-12832052dd16.jpg" width="400" height=auto>
 
 
 ### Table of Contents
@@ -28,7 +28,7 @@
   
 ### 1. Executive Summary
 
-<img src="https://user-images.githubusercontent.com/128196055/235490755-87a5ad38-a137-4d46-85ba-0ab5a6b6a4c6.jpg" width="200" height=auto>
+<img src="https://user-images.githubusercontent.com/128196055/235490755-87a5ad38-a137-4d46-85ba-0ab5a6b6a4c6.jpg" width="400" height=auto>
 
 
 - Academic support services are crucial for students' academic success. However, traditional support methods such as office hours and group tutoring sessions can often be ineffective due to time constraints, lack of privacy, and disruption of class schedules. To overcome these limitations, the proposed solution is an academic support app that provides private appointments between students and lecturers at their convenience.
@@ -63,7 +63,7 @@ The Academic Support Services System will provide a web-based platform that allo
 
    The ideal software process model for this project is the Agile methodology. The Agile methodology is ideal for this project because it allows for flexibility and adaptability to changing requirements. This is important because the system will be continuously improved based on feedback from students and lecturers.
 
-<img src="https://user-images.githubusercontent.com/128196055/235509164-0d5157b4-b28e-46a5-b02a-db9fd7601fa3.jpg" width="200" height=auto>
+<img src="https://user-images.githubusercontent.com/128196055/235509164-0d5157b4-b28e-46a5-b02a-db9fd7601fa3.jpg" width="400" height=auto>
 
 The Agile methodology is an iterative and incremental approach to software development that focuses on delivering working software frequently. The methodology is based on four core values:
 
