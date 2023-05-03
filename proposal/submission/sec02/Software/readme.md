@@ -42,8 +42,16 @@ To streamline this process and increase efficiency, a new website will be implem
 The Student Health and Wellness website will not only offer invaluable health-related information to students, but will also strive to improve upon the healthcare experience of university goers by emphasizing on increased health awareness, and ultimately, fostering a healthier overall campus atmosphere. By giving students the necessary tools for maintaining a sound physical and psychological well-being, the website is poised to revolutionize the healthcare landscape for students, and beyond.
 
 ### 3. Objectives:
-- The objectives section should clearly state the goals and objectives of the software project. It should describe the intended outcomes of the software and how it will address the problem it aims to solve. 
-- Objectives should be specific, measurable, achievable, relevant, and time-bound (SMART).
+- To promote student health and wellness through easy access to medical resources, health tracking tools, and health tips and advice.
+
+(Example：By the end of the first year of implementation, the proposed system will reduce PKU processing time by 25%, resulting in a 25% reduction in administrative workload.)
+
+- To provide a platform for students to communicate with medical professionals at the PKU facility, receive medical advice, and make appointments for medical services.
+
+- To provide a quick and easy way for students to call for emergency assistance in case of a medical emergency.
+
+- To collect and analyze data on student health trends, allowing PKU to better understand the health needs of the student population and provide targeted interventions.
+
 
 ### 4. Scope: 
 The Student Health and Wellness Management System proposed in this project will be limited to the development, implementation, and maintenance of the software application. The scope of the project does not include any hardware or infrastructure upgrades or any changes to existing policies or procedures.  
