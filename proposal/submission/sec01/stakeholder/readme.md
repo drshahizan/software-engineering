@@ -99,7 +99,7 @@ Our proposed student accommodation system aims to achieve the following objectiv
 **Time-bound:** The objective will be achieved within the second year of the project.
 
 4. **Specific:** To increase the satisfaction of KTDI room allocating and managing process by 20%.<br>
-**Measurable:** Survey is carried out for both the students, KTDI staff, fellows and KTDI adminstrator as before and after the new system is put into place.<br>
+**Measurable:** Survey is carried out for both the students, KTDI staff, fellows and KTDI administrator as before and after the new system is put into place.<br>
 **Achievable:** To make the housing allocation and management process faster and more accurate, create an easy-to-use interface and automate it.<br>
 **Relevant:**  Improve the room distribution and management process, students will have a better experience and are more likely to stay in UTM.<br>
 **Time-bound:** The objective will be achieved within the first three years of the project.
@@ -121,7 +121,7 @@ The scope refers to the boundaries of the project and outlines the features and 
 
 - User management: <br>Administrators can manage user accounts for students, staff and other users via the user management tool. To make sure that users only have access to the functions and information they required, the system offers capabilities like account creation, modification and deletion as well as role-based access control.
 
-- Security: <br>The security element guarantees the safety of the system and safeguards the private data of the students. For data transmission and storage, the system employs secure encryption techniques and features like access control and two-factor authentication should be available to guard against unauthorised access. To log in the system, the students have to enter their UTM id and the password set. Same concept will be implemeted for the KTDI staff or hostel admistrators.
+- Security: <br>To log in the system, the students have to enter their UTM id and the password set. Same concept will be implemeted for the KTDI staff, fellows and KTDI administrators.
 
 - Reporting and analytics: <br>Administrators will be allowed to monitor and analyze the occupancy rates, revenue and maintenance issues of the accommodation system. Reports from the system should include occupancy rates based on the study programme or room type, revenue by time period and building or room-specific maintenance issues.
 
