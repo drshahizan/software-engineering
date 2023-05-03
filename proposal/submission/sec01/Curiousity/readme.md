@@ -259,23 +259,66 @@ In conclusion, the estimated budget for the development of the UTM Event Managem
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 7. System Architecture:
+The proposed system architecture for the KTDI event management system is a web-based system built using modern technologies and frameworks. The system will have a multi-tier architecture consisting of a presentation layer and  application layer. The presentation layer will be responsible for displaying the user interface and handling user interactions. The application layer will be responsible for implementing the business logic of the system and handling user requests. The system will require users to enter their email and password to gain access, limiting use to JKM KTDI members, staff of the office KTDI, fellows, and assistant fellows.
 
-The proposed system architecture for the event management system will be a web-based system built using modern technologies and frameworks. The system will use the following tools and technologies:
+The system will have two interfaces catering to different roles: the JKM interface and the Staff Office KTDI and Fellow interface. JKM members will be able to create spaces for handling the necessary documents for each activity. Within these spaces, they can distribute tasks to different members, and progress is visible to all members, staff, fellows, and assistant fellows involved.
 
-- Programming languages: HTML, CSS, JavaScript, PHP
-- Frameworks: Laravel, Bootstrap
-- Database: MySQL
-- Server: Apache
-- Data Visualization: Chart.js
-The system will have a multi-tier architecture consisting of a presentation layer, application layer, and data layer. The presentation layer will be responsible for displaying the user interface and handling user interactions. The application layer will be responsible for implementing the business logic of the system and handling user requests. The data layer will be responsible for storing and managing data.
+Users can upload their event-related documents to the system, and a feature allows them to send the documents to the appropriate approver. The person in charge can decide whether to approve the documents or not. If the approval is rejected, one can leave comment for improvement and correction at the comment section
 
-To implement the RBAC functionality, we will use Laravel's built-in authorization features to restrict user access based on their roles and permissions. Different interfaces will be provided to each user role based on their needs and permissions.
+JKM members can use this system to record completed activities for record-keeping purposes. This may include generating reports for each unit and feedback reports that can serve as a reference for future JKM batches, fellows, and assistant fellows.
 
-User input data will be stored in the MySQL database. The system will have tables for events, users, organisers, and other entities. The system will also have tables for storing user input data, such as registration forms, event applications, and venue requests. The data layer will use ORM (Object-Relational Mapping) to map database tables to PHP classes and provide an abstraction layer for managing data.
+The Staff Office KTDI, Fellow, and Assistant Fellow interfaces can view whether there are any documents that need approval and check the progress of each unit of the activity. They can also access the report and record section to view past activities that have been organised. 
 
-Data analysis and visualisation will be implemented using Chart.js, a JavaScript library for creating interactive charts and graphs. We can use Chart.js to visualise data such as event participation rates, event categories, and other metrics.
-
-To improve the load time of the page, we can implement caching techniques such as browser caching, server-side caching, and database caching. We can also optimise images and other assets to reduce page size and improve load time.
+<table style="border-collapse: collapse;">
+      <thead>
+        <tr>
+          <th>Layer/Aspect</th>
+          <th>Tool/Technology</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td rowspan="5">Presentation Layer</td>
+          <td>HTML</td>
+          <td>Markdown language that used to structure content and create a basic layout, in line with the design of the system's user interface</td>
+        </tr>
+        <tr>
+          <td>CSS</td>
+          <td>Style sheet language that used to describe the presentation of HTML documents by styling and formatting the HTML content.</td>
+        </tr>
+        <tr>
+          <td>JavaScript</td>
+          <td>Programming language that used to add interactive and dynamic effects to the interface of web pages, as well as provide some functionality in the web pages.</td>
+        </tr>
+        <tr>
+          <td>Bootstrap</td>
+          <td>CSS framework that will be utilized to create responsive web pages and enhance the system's user interface by providing a consistent and responsive design across different devices and screen sizes</td>
+        </tr>
+        <tr>
+          <td>Figma</td>
+          <td>Cloud-based design tool used for create interface design and prototype user interfaces</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Application Layer</td>
+          <td>PHP</td>
+          <td>Server-side scripting language that used to handle server-side tasks, such as user authentication and database management, and to create dynamic web pages that display information based on user input or system data.</td>
+        </tr>
+        <tr>
+          <td>Apache</td>
+          <td>open-source web server software that used to host and serve the web pages and PHP scripts that make up the system's user interface and backend functionality</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Overall of the System Development</td>
+          <td>Visual Studio Code</td>
+          <td>Used as Code Editor</td>
+        </tr>
+        <tr>
+          <td>Github</td>
+          <td>used for version control and collaborative development. Developers involved will use it to store codebase, track changes to code and collaborate with other developers on the project. It will be used for code review and issue tracking to resolve bugs and other issue in the system</td>
+        </tr>
+      </tbody>
+    </table>
 
 The block diagram for the proposed system architecture is as follows:
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Curiousity/system%20architecture.png" alt="SystemArchitecture"></img>
