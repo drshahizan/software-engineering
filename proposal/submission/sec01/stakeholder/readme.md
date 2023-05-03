@@ -115,10 +115,13 @@ The scope refers to the boundaries of the project and outlines the features and 
 
 - Student registration: <br>By entering user's personal information, academic information and room preferences, students can register as users in the system using the student registration tool. Before letting a student register, the system should confirm their identity and determine whether they qualify for accommodation registration based on the hostel merits and year of study. The first year students will be registered automatically, while the senior year students have to register themselves.
 
-- Room allocation: <br>According on the students' choices, room availability and hostel merits, the system can assign rooms to them using the room allocation tool. The system should include elements including the student's academic programme, year of study, and any unique requirements or requests, such as health condition in order to take note in the allocation process. This process will prioritise the students with higher hostel merits to prefer their desired hostel block as well as room type.
+- Hostel application: <br>Before letting a student to apply, the system should confirm their identity and determine whether they qualify for accommodation application based on the KTDI merits and year of study. This application is only opened to the senior year students.
 
-- Room management: <br>The room management feature allows students to manage their rooms through the system. This includes room bookings, check-in, check-out and maintenance requests. The system should provide a calendar view of the room availability and allow students to book their preferred room and check-in and check-out dates. It should also allow students to request maintenance services for their room and track the status of the request.
+- KTDI college merit calculator: The fellows could manage and collect the student college merits based on the college activities that participated by them. The final report on students' college merit marks will be generated automatically. Whoever meet the minimum requirement of college merit marks will be given the priorities to apply KTDI hostel.
 
+- Room allocation: <br>According on the students' choices, room availability and hostel merits, the system can assign rooms to them using the room allocation tool. The system should include elements including the student's academic programme, year of study and any unique requirements or requests, such as health condition in order to take note in the allocation process. This process will prioritise the students with higher hostel merits to prefer their desired hostel block as well as room type.
+
+- Room management: <br>The room management feature allows students to manage their rooms through the system. This includes room changing, check-in, check-out, room booking and cancellation as well as maintenance requests. The system should provide a calendar view of the room availability and allow students to book their preferred room and check-in and check-out dates. It should also allow students to request maintenance services for their room and track the status of the request.
 
 - Payment management: <br>Students can use the system to pay their lodging costs via the payment management tool. The system should enable students to monitor their payment history and receipts and offer safe payment options like internet banking and also convinence payment method, such as TnG e-wallet. Under this scope, there will be duitnow QR code and bank account number provided for the students to pay their lodging costs. 
 
@@ -127,8 +130,6 @@ The scope refers to the boundaries of the project and outlines the features and 
 - Security: <br>To log in the system, the students have to enter their UTM id and the password set. Same concept will be implemeted for the KTDI staff, fellows and KTDI administrators.
 
 - Reporting and analytics: <br>Administrators will be allowed to monitor and analyze the occupancy rates, revenue and maintenance issues of the accommodation system. Reports from the system should include occupancy rates based on the study programme or room type, revenue by time period and building or room-specific maintenance issues.
-
-- KTDI college merit calculator: The fellows could manage and collect the student college merits based on the college activities that participated by them. The final report on students' college merit marks will be generated automatically. Whoever meet the minimum requirement of college merit marks will be given the priorities to apply KTDI hostel.
 
 - Support and maintenance: <br>Residents or students should be able to report problems any problem faced in the accommodation system, such as bugs through the system's help desk and there should be a dedicated team working to quickly resolve these problems.
 
@@ -209,7 +210,29 @@ Agile methodology for developing the Student Accommodation System in Kolej Tun D
       </tr>
     </table>
     
-In conclusion, the Agile methodology is an effective software process model for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) because it emphasizes flexibility, collaboration, and continuous customer feedback. It allows the development team to respond quickly to changes in requirements and deliver high-quality software in shorter development cycles.
+#### Testing methodologies:
+To assure the quality and functionality of the system, the following are carrying out:
+  - Unit testing 
+  - Integration testing
+  - System testing
+  - Acceptance testing
+  - Usability testing
+    
+#### Project management techniques:
+Leverage technologies like below are used to track progress and guarantee task completion on time:
+  - Kanban boards
+  - Sprint planning
+  - Regular stand-up meetings 
+    
+#### Quality assurance procedures: 
+To maintain code quality and reduce errors, the procedures are as follows:
+  - Code review
+  - Continuous integration
+  - Automated testing
+    
+These procedures are essential for ensuring the effective deployment and operation of the KTDI system for student accommodation.
+    
+In conclusion, the Agile methodology is an effective software process model for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) because it emphasizes flexibility, collaboration and continuous customer feedback. It allows us, the development team to respond quickly to changes in user requirements and deliver high-quality software in shorter development cycles.
 
 ---
 
@@ -238,18 +261,14 @@ In shorts, the expected budget for the development of the student accommodation 
 ### 7. System Architecture
   
 #### System Architecture Overview:
-The proposed architecture for the student accommodation system project at Kolej Tun Dr Ismail will consist of five layers: the presentation layer, the application layer, the data layer, the data visualisation layer as well as the server layer.
+The proposed architecture for the student accommodation system project at Kolej Tun Dr Ismail will use a 3-Tier Architecture which consist of three layers: the presentation layer, the application layer and the data layer.
  
-- Presentation Layer: <br>The presentation layer is the front-end of the system that users will interact with. It will consist of a web-based user interface built using the React.js as the font-end JavaScript library and designed by Bootstrap framework with HyperText Markup Language (HTML), Cascading Style Sheets (CSS) as well as JavaScript. The presentation layer then will be responsible for presenting the data to the users and allowing them to interact with the well designed system in order to have a better user experience.
+- Presentation Layer: <br>The presentation layer is the front-end of the system that users will interact with. It will consist of a web-based user interface built using the ReactJS as the font-end JavaScript library and designed by Bootstrap framework with HyperText Markup Language (HTML), Cascading Style Sheets (CSS) as well as JavaScript. The presentation layer then will be responsible for presenting the data to the users and allowing them to interact with the well designed system in order to have a better user experience.
     
-- Application Layer: <br>In this middle layer of the system, PHP server scripting language will be used on user requests handling and data processing as well as providing responses. It will be responsible for processing requests from the front-end and communicating with the data layer. A PHP based web framework, Laravel framework will be used to help us to create extensible PHP-based web application and our student accommodation system website at scale.
+- Application Layer: <br>In this middle layer of the system, there are web server and server-side component which is the back-end of the system. Apache HTTP server will be used as the web server software to handle the HTTP requests and responses between the users and the web-based front-end via a browser. PHP server scripting language will be used on user requests handling, performing business logic and data processing as well as delivering the required data to the font-end system. It will be responsible for processing requests from the front-end and communicating with the data layer. We decided to use a server-side technology, PHP Laravel framework to help us to create extensible PHP-based web application with ease. It is also automated in testing and debugging errors in initial stage.
     
-- Data Layer: <br>In this back-end of the system, we will use MySQL database management system to store and manage the data. The data layer will be responsible for storing and retrieving data from the database.
+- Data Layer: <br>In this layer consists of the database system, we will use MySQL database management system to store and manage the data of user information and other related data. The data layer will be responsible for storing and retrieving data from the database.
     
-- Data Visualisation Layer: <br>The Data Visualization Layer will be responsible for presenting the data in an understandable and interactive format for the end-users. This layer will use visualisation libraries which are D3.js and Chart.js. 
-    
-- Server Layer: <br>The server layer will be responsible for hosting and managing the system and its components. In this layer, we will use the Apache HTTP Server as the web server software to handle the HTTP requests and responses between the users and the web-based front-end.
-  
 
 #### Data Storage and Management:
 MySQL will be used as the Relational Database Management System (RDBMS) to store and manage the website data. All the data collected will be stored and organised in the form of table which representing a specific type of data such as maintainance records, student records, room records and accommodation application records. 
@@ -262,14 +281,15 @@ i. Hardware requirements
 - Cloud hosting service: For the web platform.
   
 ii. Software requirements 
-- React.js as the font-end JavaScript library for development of interactive website user interface.
+- ReactJS as the font-end JavaScript library for development of interactive website user interface.
 - Bootstrap as the framework used for web application creation.
 - MySQL as the Relational Database Management System (RDBMS) to store and manage the data.
 - Apache HTTP Server as the web server software.
-- PHP language and Lavaral framework as the communication with the data layer to handle the business logic and data processing.
+- PHP Laravel framework as the server-side technology.
 - D3.js and Chart.js as the data visualization library to create interactive charts and present data.
 - Git for version control.
 - R studio and Microsoft Excel as data analysis tools to preprocess the data.
+- Tableau and PowerBI as the business intelligence (BI) tools to create insights from the data.
   
 #### Data Analysis and Visualization:
 - Data analysis tools: <br>We will use R programming language (R Studio) and Microsoft Excel to clean and preprocess the data, perform statistical analysis and also create data models.
@@ -278,37 +298,10 @@ ii. Software requirements
 
 #### System Architecture Diagram:
 The proposed system architecture can be visualized using the following flowchart:
-```java  
-USER INTERFACE (BootStrap/HTML/CSS/JavaScript) --> DATA VISUALIZATION(D3.js/Chart.js)
-  |                                                        | 
-  V                                                        |
-WEB APPLICATION SERVER (Apache)                            | 
-  |                                                        |                                                     
-  V                                                        |
-DATABASE SERVER (MySQL) <----------------------------------+
-``` 
-High-level diagram that represents our proposed system architecture:
-```sql
-+----------------------------------------------------+
-|               Relational Database                  |
-+----------------------------------------------------+
-|                     MySQL                          |
-+----------------------------------------------------+
-              ^                     ^
-              |                     |
-              |                     |
-   +------------------+     +------------------+
-   |    Web Platform  |     |    Web Server    |
-   |     (React.js)   |     |    (Apache)      |
-   +------------------+     +------------------+
-              ^                     ^
-              |                     |
-              |                     |
-+----------------------------------------------------+
-|              User-Facing Interfaces                |
-|                (Web Applications)                  |
-+----------------------------------------------------+
-``` 
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/flowchart.png">
+
+High-level diagram that represents our proposed system architecture:<br>
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/leveldiagram.png">
   
 ---
 
@@ -357,7 +350,7 @@ In general, it's crucial to recognise and reduce these risks if we want the KTDI
 
 ### 9. Resources
 I. Staff Resources:<br>
-- Project Manager: Dr Mohd Shahizan Othman<br>Responsible for overall management, planning, and coordination of the project.
+- Project Manager: Neo Zheng Weng<br>Responsible for overall management, planning and coordination of the project including members task division.
   
 - Main Developer: Joseph Lau Yeo Kai<br>Responsible for leading the software development process, designing the software architecture, and overseeing the work of the developer assistant.
   
@@ -368,11 +361,11 @@ I. Staff Resources:<br>
  - 2. Muhammad Danial
  - 3. Wong Khai Shian Nicholas
  - 4. Low Jie Sheng<br></ul>
-  Responsible for assisting the main developer in software development tasks such as coding, testing, and deployment.
+  Responsible for assisting the main developer in software architecture designing and also software development tasks such as coding, testing, and deployment.
   
 - Requirements Analyst: Wong Khai Shian Nicholas<br>Responsible for analyzing the project requirements and documenting the functional and non-functional requirements of the software application.
   
-- Documentation Specialist: Muhammad Danial<br>Responsible for creating user manuals, technical documentation, and other project-related documents.
+- Documentation Specialist: Muhammad Danial<br>Responsible for creating user manuals, technical documentation and other project-related documents.
   
 - IT Support: Joseph Lau Yeo Kai<br>Responsible for providing technical support to the development team, troubleshooting issues, and maintaining the development environment.
   
@@ -427,7 +420,7 @@ IV. Other Expenses:<br>
 <table>
   <thead>
     <tr>
-      <th>Year</th>
+      <th>Period</th>
       <th>Milestone</th>
       <th>Deliverables</th>
       <th>Resources</th>
