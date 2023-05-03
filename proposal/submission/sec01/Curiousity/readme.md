@@ -379,8 +379,7 @@ Note: All costs mentioned above are estimates and are subject to change based on
       <ul>
         <li>Event data which includes information about the event itself, such as the date, time, location and event type.</li>
         <li>Attendee data which includes attendee information such as names,email addresses,phone numbers and other contact details.</li>
-      <li>The survey tools integrated with the event management system will collect data and provide insights into attendee satisfaction, areas of improvement, and future event ideas.</li>
-  </ul>
+      </ul>
     </td>
   </tr>
   
