@@ -104,9 +104,8 @@ The Faculty of Computing Feedback System will provide measurable benefits to all
 </ul>
 
 ### 5. Software Process Model:
-This section describe the ideal software process model for this system development. The write-up must consist of:
-- Explanation of the goal of the software process model.
-- Choose the ideal software process model and give justification.
+#### Agile methodology is the optimal software process model for the creation of the Faculty Feedback System. Software development using the agile methodology is flexible and iterative, allowing for ongoing input and adaption. It is appropriate for this project since it enables us to release functional software frequently and fast in response to changes.
+<img width="465" alt="image" src="https://mobile-jon.com/wp-content/uploads/2021/04/Agile-Methodology.jpg">
 - The illustration of chosen software process model that relates to your project and shows every phase involved in the chosen software process model
 - Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. 
 - It should also describe the testing methodologies, project management practices, and quality assurance processes.
