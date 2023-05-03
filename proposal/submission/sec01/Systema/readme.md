@@ -25,21 +25,21 @@
   </table>
   
 ### Table of Contents
-1. [Executive Summary](#executive-summary)
-2. [Background](#background)
-3. [Objectives](#objectives)
-4. [Scope](#scope)
-5. [Software Process Model](#software-process-model)
-6. [Budget](#budget)
-7. [System Architecture](#system-architecture)
-8. [Risk Assessment](#risks-assessment)
-9. [Resources](#resources)
-10. [Technical Specifications](#technical-specifications)
-11. [Timeline and Deliverables](#timeline-and-deliverables)
-12. [Conclusion](#conclusion)
+1. [Executive Summary](#1-executive-summary)
+2. [Background](#2-background)
+3. [Objectives](#3-objectives)
+4. [Scope](#4-scope)
+5. [Software Process Model](#5-software-process-model)
+6. [Budget](#6-budget)
+7. [System Architecture](#7-system-architecture)
+8. [Risk Assessment](#8-risks-assessment)
+9. [Resources](#9-resources)
+10. [Technical Specifications](#10-technical-specifications)
+11. [Timeline and Deliverables](#11-timeline-and-deliverables)
+12. [Conclusion](#1-2conclusion)
  
   
-### Executive Summary
+### 1. Executive Summary
 This proposal recommends the development of a student engagement website for students in Faculty Computing of University Teknologi Malaysia that includes a suite of features designed to facilitate student engagement and enhance the student experience. A student engagement system software can serve as a hub for students of UTM to access course-specific information, connect with their peers and faculty members, and stay up-to-date with important academic events and deadlines.
 <br></br>
 The key features of the student engagement website include:
