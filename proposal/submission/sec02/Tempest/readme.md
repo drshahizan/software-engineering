@@ -135,44 +135,44 @@ Overall, the system architecture is designed to be scalable and maintainable, wi
           |           |                   |
  +--------+-------+   |                   |
  |                |   |                   |
-View Available  Book |                   |
+View Available  Book  |                   |
    Packages    Package            View Finalized Data
  |                |   |                   |
 Select Dates Confirm/ |                   |
-  and Time   Cancel |                   |
+  and Time   Cancel   |                   |
  |                |   |                   |
-Select           |   |                   |
+Select            |   |                   |
 Accommodation |  View |                   |
  |            |Booking|                   |
-Confirm Booking|     |                   |
- |            |     |                   |
-Make Payment  |     |                   |
- |            |     |                   |
-View Payment |     |                   |
- |            |     |                   |
-View Receipt |     |                   |
- |            |     |                   |
-View All      |     |                   |
-Bookings and  |     |                   |
-Details       |     |                   |
- |            |     |                   |
-Manage        |     |                   |
-Packages and  |     |                   |
-Accommodations|     |                   |
- |            |     |                   |
-Update Booking|     |                   |
-(e.g., change |     |                   |
-dates)        |     |                   |
- |            |     |                   |
-View All      |     |                   |
-Bookings      |     |                   |
- |            |     |                   |
-View Booking  |     |                   |
-Details       |     |                   |
- |            |     |                   |
-View All      |     |                   |
-Data          |     |                   |
- |            |     |                   |
+Confirm Booking|      |                   |
+ |            |       |                   |
+Make Payment  |       |                   |
+ |            |       |                   |
+View Payment  |       |                   |
+ |            |       |                   |
+View Receipt  |       |                   |
+ |            |       |                   |
+View All      |       |                   |
+Bookings and  |       |                   |
+Details       |       |                   |
+ |            |       |                   |
+Manage        |       |                   |
+Packages and  |       |                   |
+Accommodations|       |                   |
+ |            |       |                   |
+Update Booking|       |                   |
+(e.g., change |       |                   |
+dates)        |       |                   |
+ |            |       |                   |
+View All      |       |                   |
+Bookings      |       |                   |
+ |            |       |                   |
+View Booking  |       |                   |
+Details       |       |                   |
+ |            |       |                   |
+View All      |       |                   |
+Data          |       |                   |
+ |            |       |                   |
  +-----------+-----+------+--------------+
 
 
