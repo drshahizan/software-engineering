@@ -38,8 +38,9 @@ Don't forget to hit the :star: if you like this repo.
 </table>
 
 ### Meeting with our stakeholder:
+<div style="text-align:center;">
 <img src= "https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/stakeholder%20hamdan.jpg?raw=true" width=933.331px, height=700px>
-
+</div>
 ---
 
 ### Table of Contents
