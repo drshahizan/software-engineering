@@ -136,20 +136,6 @@ The scope refers to the boundaries of the project and outlines the features and 
   
 - The system will be limited to Kolej Tun Dr Ismail (KTDI) only and the decision phase of the final result on room application will be done by the AIMS system of UTM.
 
-<!--However, there are several limitations and constraints that may affect the project of a student accommodation system for Kolej Tun Dr Ismail (KTDI):
-  
-- Timeframe: <br>The project's constrained timeline can have an impact on the system's scope. The quantity of work that can be accomplished may be constrained by the time available, which could lead to the elimination of particular features or functionalities. The timetable may also have an impact on the system's quality because hurried development might result in mistakes, faults, or missing functionality.
-
-- Technical constraints: <br>Technical limitations, such as compatibility with current systems or infrastructure, a lack of available storage or processing power or security issues, may place restrictions on the system's reach. We may need to assess the infrastructure already in place and decide whether the system is compatible with it. Technical limitations might also call for more resources or specialised experts to be resolved.
-
-- Data privacy: <br>Data privacy is a significant restriction that has an impact on the gathering, storing and usage of personal data. The system's features, such as the volume of data that can be gathered or retained, may be constrained by data privacy laws and regulations. To prevent unauthorised access to confidential information, the system must also be developed with security in mind.
-  
-- User acceptance: <br>User adoption and acceptance are crucial to the system's success. To be widely accepted and used, a system must fulfil user needs and expectations. Limited user acceptability could lead to decreased utilisation and a worse ROI. To make sure the system satisfies user needs, we may need to undertake user testing and feedback.
-
-- Scalability: <br>To support expansion and growth in the future, the system must be scalable. The architecture and design of the system must be able to accommodate growing numbers of students, rooms and data. For the system to last and be able to change with the needs of the user, scalability limits may call for more resources.
-  
-In conclusion, we can establish the foundation for the project plan, which outlines the specific tasks, resources, timelines and budgets needed to achieve the project goals by stating out our project scopes and we are able to ensure that our student accommodation system in Kolej Tun Dr Ismail (KTDI) can be completed successfully, on time and within our expected capitals as well as fullfill the needs of all stakeholders.-->
-
 ---
 
 ### 5. Software Process Model
@@ -252,43 +238,43 @@ In shorts, the expected budget for the development of the student accommodation 
 ### 7. System Architecture
   
 #### System Architecture Overview:
-The proposed architecture for the Student Accommodation System project at Kolej Tun Dr Ismail will consist of three layers: the presentation layer, the application layer, and the data layer.
+The proposed architecture for the student accommodation system project at Kolej Tun Dr Ismail will consist of five layers: the presentation layer, the application layer, the data layer, the data visualisation layer as well as the server layer.
  
-- Presentation Layer: <br>The presentation layer is the front-end of the system that users will interact with. It will consist of a web-based user interface built using the React.js as the font-end JavaScript library and Bootstrap framework with HTML, CSS as well as JavaScript. The presentation layer will be responsible for presenting the data to the users and allowing them to interact with the system in order to improve the user experience.
+- Presentation Layer: <br>The presentation layer is the front-end of the system that users will interact with. It will consist of a web-based user interface built using the React.js as the font-end JavaScript library and designed by Bootstrap framework with HyperText Markup Language (HTML), Cascading Style Sheets (CSS) as well as JavaScript. The presentation layer then will be responsible for presenting the data to the users and allowing them to interact with the well designed system in order to have a better user experience.
     
-- Application Layer: <br>In this middle layer of the system, PHP language will be used to handle the business logic and data processing. It will be responsible for processing requests from the front-end and communicating with the data layer.
+- Application Layer: <br>In this middle layer of the system, PHP server scripting language will be used on user requests handling and data processing as well as providing responses. It will be responsible for processing requests from the front-end and communicating with the data layer. A PHP based web framework, Laravel framework will be used to help us to create extensible PHP-based web application and our student accommodation system website at scale.
     
-- Data Layer: <br>In this back-end of the system, we will use MySQL database to store and manage the data. The data layer will be responsible for storing and retrieving data from the database.
+- Data Layer: <br>In this back-end of the system, we will use MySQL database management system to store and manage the data. The data layer will be responsible for storing and retrieving data from the database.
     
-- Data Visualization Layer: <br>The Data Visualization Layer will be responsible for presenting the data in an understandable and interactive format for the end-users. This layer will use visualization libraries which is D3.js and Chart.js. 
+- Data Visualisation Layer: <br>The Data Visualization Layer will be responsible for presenting the data in an understandable and interactive format for the end-users. This layer will use visualisation libraries which are D3.js and Chart.js. 
     
 - Server Layer: <br>The server layer will be responsible for hosting and managing the system and its components. In this layer, we will use the Apache HTTP Server as the web server software to handle the HTTP requests and responses between the users and the web-based front-end.
   
 
 #### Data Storage and Management:
-MySQL will be used as the Relational Database Management System (RDBMS) to store and manage the data. All the data collected will be stored and organised in the form of table which representing a specific type of data such as maintainance records, student records, room records, and accommodation booking records. 
+MySQL will be used as the Relational Database Management System (RDBMS) to store and manage the website data. All the data collected will be stored and organised in the form of table which representing a specific type of data such as maintainance records, student records, room records and accommodation application records. 
   
 #### Hardware and Software Requirements:
 Hardware and software requirements are crucial components of our proposed system architecture. Managing the KTDI's student accomodation system's hardware and software requirements could be done as follows:
 
 i. Hardware requirements 
-- Server: For database management
-- Cloud hosting service: For the web platform
+- Server: For database management.
+- Cloud hosting service: For the web platform.
   
 ii. Software requirements 
 - React.js as the font-end JavaScript library for development of interactive website user interface.
 - Bootstrap as the framework used for web application creation.
-- MySQL as the Relational Database Management System (RDBMS) to store and manage the data
-- Apache HTTP Server as the web server software
-- PHP language as the communication with the data layer to handle the business logic and data processing
+- MySQL as the Relational Database Management System (RDBMS) to store and manage the data.
+- Apache HTTP Server as the web server software.
+- PHP language and Lavaral framework as the communication with the data layer to handle the business logic and data processing.
 - D3.js and Chart.js as the data visualization library to create interactive charts and present data.
-- Git for version control
-- R studio and Microsoft Excel as data analysis tools to preprocess the data
+- Git for version control.
+- R studio and Microsoft Excel as data analysis tools to preprocess the data.
   
 #### Data Analysis and Visualization:
-- Data analysis tools: <br>We will use R programming language (R Studio) and Microsoft Excel to clean and preprocess the data, perform statistical analysis, and create data models.
-- Data visualization tools: <br>We will use D3.js and Chart.js to create interactive charts and graph to visualize room type applicable based on hostel merit in a meaningful and attractive way.
-- Business intelligence (BI) tools: <br>We will use Tableau, PowerBI to perform advanced analytics, create reports, and generate insights from the data.
+- Data analysis tools: <br>We will use R programming language (R Studio) and Microsoft Excel to clean and preprocess the data, perform statistical analysis and also create data models.
+- Data visualisation tools: <br>We will use D3.js and Chart.js to create interactive charts and graph to visualise room type applicable based on hostel merit in a meaningful and attractive way.
+- Business intelligence (BI) tools: <br>We will use Tableau, PowerBI to perform advanced analytics, create reports and generate insights from the data.
 
 #### System Architecture Diagram:
 The proposed system architecture can be visualized using the following flowchart:
