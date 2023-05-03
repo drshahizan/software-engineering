@@ -150,7 +150,8 @@ The testing methodologies for this project include functional, usability, and pe
 In conclusion, the Agile software process model is an ideal choice for the proposed Student Feedback Management System. Its flexible and iterative approach, combined with effective project management practices and quality assurance processes, will ensure the timely delivery of a high-quality and user-friendly feedback management system.
 </ul>
   
-  ####Gantt Chart
+  #### Gantt Chart:
+  
   <table style="border-collapse: collapse;">
     <thead>
       <tr>
