@@ -37,8 +37,8 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-### eeting with our stakeholder:
-<img src= "https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/stakeholder%20hamdan.jpg?raw=true">
+### Meeting with our stakeholder:
+<img src= "https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/stakeholder%20hamdan.jpg?raw=true" width=933.331px, height=700px>
 
 ---
 
