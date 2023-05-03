@@ -62,15 +62,17 @@ Overall, these SMART objectives are specific, measurable, achievable, relevant, 
 
 ### 4. Scope:
 
+<img src = "[https://images.ctfassets.net/4zfc07om50my/5wMHnK8XxK9kW99mebdp94/2cc919cd11ba35f6db993977fd0ff674/Agile.png](https://www.figma.com/file/NTdtMEWuSQND0gCJ3DDbLZ/PROPOSAL?node-id=0%3A1&t=99It8n5SelMfniqU-1)" width = "500px">
+
 The Badal Hajj and Umrah management system proposed in this project will included several functionalities and features that are required in order to solve the problems that the company have. This system will be web-based and application software.This is the detail of the features and functionality of the system:
 
--Top management, middle management and client registration and login.
--Client main menu that include all services that the company provided.
--Middle management main menu for editing, updating and viewing all the data that have been received.
--Top management main menu to see all the data flow in and out in a simplified dashboard.
--Payment gateway menu for payment purpose for all of the company services provided.
--Third-party software usage such as Microsoft Excel and word for saving all the data and for all the documented form.
--Analytic and reporting for monitoring and evaluating the effectiveness of the system.
+- Top management, middle management and client registration and login.
+- Client main menu that include all services that the company provided.
+- Middle management main menu for editing, updating and viewing all the data that have been received.
+- Top management main menu to see all the data flow in and out in a simplified dashboard.
+ -Payment gateway menu for payment purpose for all of the company services provided.
+- Third-party software usage such as Microsoft Excel and word for saving all the data and for all the documented form.
+- Analytic and reporting for monitoring and evaluating the effectiveness of the system.
 
 
 ### 5. Software Process Model:
