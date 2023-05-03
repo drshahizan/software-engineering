@@ -282,13 +282,10 @@ Block Diagram:
       <br>*Total Cost: RM 220,000*
       
   4. Software:
-      + User interface: HTML, CSS, JavaScript, and ReactJS: RM 150,000
+      + User interface: HTML, CSS, and JavaScript: RM 150,000
       + Server-side technology: Node.js and Express.js: RM 100,000
       + Database: MySQL RDBMS: RM 100,000
-      + Business intelligence tools: Tableau, Power BI, QlikView: RM 100,000
-      + Data visualization libraries: D3.js, Highcharts, Chart.js: RM 150,000
-      + Data analysis tools: Python, R, Excel: RM 200,000
-      <br>*Total Cost: RM 800,000*
+      <br>*Total Cost: RM 350,000*
       
   5. Other Expenses:
       + Testing fees: RM 150,000
@@ -299,7 +296,7 @@ Block Diagram:
       + Training and support expenses: RM 300,000
       <br>*Total Cost: RM 751,000*
       
-  <br><br><b>Grand Total: RM 3,971,000</b>
+  <br><br><b>Grand Total: RM 1,321,000</b>
 
 
 ### 10. Technical Specifications
@@ -308,9 +305,9 @@ Block Diagram:
 | Data Sources | <ul><li>Student datas from myUTM</li><li>Club and faculties events data</li><li>Road condition data</li></ul>|
 | Data Schema | The data schema will have tables that store of students information, clubs details, data from different faculties and departments in UTM.|
 | Data Transformation | The data will be transformed into insights to understand students likings and interest.|
-| Programming Languages | JavaScript // HTML // CSS // MySQL|
+| Programming Languages | JavaScript   HTML   CSS   MySQL|
 | Frameworks | ReactJS
-| Libraries | Bootstrap // jQuery |
+| Libraries | Bootstrap   jQuery |
 | Hardware Requirements | <ul><li>Processor: A multi-core processor</li><li>RAM: 4GB or higehr</li><li>Storage: 50GB or higher</li><li>Display: Resolution of 1920x1080 or higher</li></ul>|
 | Software Requirements | <ul><li>Operating system: Windows 7 or higher</li><li>IDE: Visual Studio Code, Bootstrap Studio</li><li>Web server: Node.js and Express.js</li><li>Database: MySQL</li><li> Version control: Git</li></ul> |
 
