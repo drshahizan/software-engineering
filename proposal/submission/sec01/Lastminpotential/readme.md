@@ -181,6 +181,7 @@ This section describe the ideal software process model for this system developme
 </table>
    
 - Testing procedures:
+
  1.Tests on units: During this phase, each system module will be tested to see if it meets the functional requirements. The developers will run tests on the code to make sure it works as expected.
 
 2.Testing Integration: This stage will include testing the framework overall to flawlessly guarantee that every one of the modules cooperate. In order to guarantee platform compatibility and functionality, the system will be tested in a variety of settings.
@@ -190,6 +191,7 @@ This section describe the ideal software process model for this system developme
 4.Testing of Acceptance: This stage will include testing the framework with end-clients to guarantee that it addresses their issues and assumptions. The system will be modified as necessary based on the feedback provided by end users.
     
 - Quality assurance:
+
 1.Code Analysis: Senior developers will look over each change to the code to make sure it meets the requirements.
 
 2.Documentation: In order to guarantee that all of the system and code documentation is accurate and current, it will be regularly maintained and updated.
