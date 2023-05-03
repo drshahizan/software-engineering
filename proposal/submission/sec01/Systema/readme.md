@@ -1,6 +1,6 @@
 # Student Engagement
 ### Prepared by: Systema
-| | | | |
+|               |               |               |               |               |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 |Bernice Lim Jing Xuan|Chai Yu Tong|Kek Jesslyn|Wong Qiao Ying|Yeoh Chong Yi|
 |A22EC0038|A22EC0145|A22EC0057|A22EC0118|A22EC0295|
