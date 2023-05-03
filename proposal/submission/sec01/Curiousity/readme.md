@@ -139,6 +139,7 @@ During this stage, the team will test the system to make sure it complies with t
           <td>Drafts a design document that includes the user stories, user journey maps, wireframes, prototypes, architectural diagram, and technical design document. </td>
           <td>Documentation Specialist</td>
           <td>1 Week</td>
+          <td>Incomplete</td>
         </tr>
         <tr>
           <td rowspan="2">Phase 3: Development</td>
