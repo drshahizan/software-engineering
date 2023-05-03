@@ -192,35 +192,51 @@ Overall, the proposed system architecture will be designed to be scalable, secur
 </ul>
 
 ### 9. Resources:
-<ul>
-<li><h3>Hardware and software</h3></li>
-To develop a student feedback system, we will need access to hardware and software resources such as computers, servers, databases, and software development tools. We plan to use cloud-based infrastructure such as Amazon Web Services (AWS) to host and manage the system. We will also need software development tools such as Python, Django, and React to build the web application and databases.
-
-<li><h3>Data sources</h3></li>
-We will need access to various data sources to develop the student feedback system, such as student enrollment data, course schedules, and academic records. We will collaborate with the university's IT department to access this data and integrate it into the system. We will also conduct surveys and questionnaires to gather feedback from students.
-
-<li><h3>Expertise</h3></li>
-Developing a student feedback system requires expertise in areas such as data analysis, database management, and software development. We plan to collaborate with the university's IT department and academic advisors to ensure that our system is effective and meets the needs of students and faculty. We will also hire a software development team with experience in building similar systems.
-
-<li><h3>Budget</h3></li>
-We estimate that the development of the student feedback system will require a budget of RM 120,000. This includes the cost of hardware and software resources, data integration and management, software development, and project management.
-
-<li><h3>Timeline</h3></li>
-We plan to complete the development of the student feedback system within 12 months. This includes the design, development, testing, and deployment of the system. We will allocate resources and plan milestones to ensure that the project is completed on time.
-
-<li><h3>Data privacy and security</h3></li>
-We understand the importance of data privacy and security when designing a student feedback system. We will ensure that the system complies with relevant data protection regulations such as GDPR and CCPA. We will also implement appropriate security measures such as data encryption, access controls, and regular security audits to protect student data. We will collaborate with the university's IT department and legal team to ensure that the system meets all necessary requirements.
-</ul>
+Resources required will be split into 4 parts and given details:
+<ol>
+  <li>Staff</li>
+    <ul>
+      <li>Project Manager : Yong Wern Jie</li>
+      <li>Software Developer : Marcus Joey Sayner</li>
+      <li>Documentation Specialist : Lim Jing Yong</li>
+      <li>Requirement Analyst : Soh Han Wei</li>
+      <li>User Experience Designer : Lee Soon Der</li>
+    </ul>
+  <li>Equipment</li>
+    <ul>
+      <li>Computers / Workstation -- Development of the feedback system</li>
+      <li>Server -- To host the feedback system</li>
+      <li>Backup System -- Ensure feedback data is not lost in case of hardware failure</li>
+      <li>Security measures -- Protect data from unauthorized access / virus attack</li>
+    </ul>
+  <li>Software</li>
+    <ul>
+      <li>Data Collection Site : Google Form</li>
+      <li>Data Processing & Visualisation : R Programming</li>
+      <li>Web Development Software : BootStrap Studio</li>
+      <li>Database Management : SQLAlchemy</li>
+      <li>Project Management : Github</li>
+    </ul>
+  <li>Other Expenses</li>
+    <ul>
+      <li>Marketing and Promotion Cost</li>
+      <li>Operational Cost</li>
+      <li>Legal Fees</li>
+      <li>Employee Costs</li>
+      <li>Infrastructure Costs</li>
+    </ul>
+</ol>
 
 ### 10. Technical Specifications:
   
 | Task | Software |
 | -------------------------------- | ------------------------------ |
+| Web Development | Bootstrap Studio |
 | Data Source | Google Form |
 | Data Transformation | R Programming |
-| Machine Learning Algorithms| R Programming|
+| Machine Learning Algorithms| R Programming |
 | Data Visualization Tools | R Programming |
-| Programming Languages| C++ |
+| Programming Languages | C++ |
 | Frameworks | Flask |
 | Database Management | SQLAlchemy |
 | Libraries | Scikit-learn & NLTK |
