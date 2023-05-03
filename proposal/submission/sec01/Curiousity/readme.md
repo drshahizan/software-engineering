@@ -16,6 +16,8 @@ Don't forget to hit the :star: if you like this repo.
   3. Low Ying Xi A22EC0187
   4. Ng Shu Yu A22EC0228
 
+<hr style="border:0.5px solid gray;height:0.5px;">
+
 ### 💫Table of Contents
 * [Table of Contents](#table-of-contents)
 * [Executive Summary](#1-executive-summary)
@@ -31,6 +33,7 @@ Don't forget to hit the :star: if you like this repo.
 * [Timeline and Deliverables](#11-timeline-and-deliverables)
 * [Conclusion](#12-conclusion)
 
+<hr style="border:0.5px solid gray;height:0.5px;">
   
 ### 1. Executive Summary📝:
 Our proposed UTM Event Management System is a comprehensive solution aimed at simplifying and streamlining the processes of event management for organisers, attendees, and administrators. To achieve this, we're using cutting-edge technology and industry best practises to create a seamless user experience that makes it simple for event planners to plan and carry out successful events and for attendees to find, register for, and participate in events. The key features of our system include real-time event scheduling, registration, various types of activities and merit, and feedback capabilities. These features enable event planners and administrators to optimise event preparation, track performance, and make data-driven decisions. A user-friendly interface and  integration with various social media sites would also be helpful to attendees. Ultimately, our UTM Event Management System will provide measurable value to all stakeholders, resulting in increased event participation, better engagement and satisfaction, and a stronger institutional reputation. By investing in our system, UTM will be at the forefront of event management technology and innovation.
