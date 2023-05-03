@@ -33,7 +33,7 @@ Don't forget to hit the :star: if you like this repo.
   <td>4.</td> <td> LOW JIE SHENG </td> <td> A22EC0075 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/2673dcdb-43f0-41cd-85d8-777b8040a935.jpg" width=150px, height=170px> </td>
   </tr>
 <tr>
-  <td>5.</td> <td> MUHAMMAD DANIAL BIN AHMAD SYAHIR </td> <td> A22EC0206 </td> <td><img src=""> </td>
+  <td>5.</td> <td> MUHAMMAD DANIAL BIN AHMAD SYAHIR </td> <td> A22EC0206 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/WhatsApp%20Image%202023-03-29%20at%2012.25.53%20AM.jpeg?raw=true" width=200px, height=200px> </td>
   </tr>
 </table>
 
