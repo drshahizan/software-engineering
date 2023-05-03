@@ -18,7 +18,7 @@
   <tr>
     <td><img src="Bernice Passport Size Pic.png" style="margin: 0 auto;width: 200px"></td>
     <td><img src="ID Photo.jpg" style="margin: 0 auto;width: 200px"></td>
-    <td><img src="photo.jpg" style="margin: 0; width:200px"></td>
+    <td><img src="photo.jpg" style="margin: 0 auto;width: 200px"></td>
     <td>###</td>
     <td>###</td>
   </tr>
@@ -86,6 +86,7 @@ The major objectives of building a student engagement website for Faculty Comput
   Overall, the development of a student engagement website aims to provide a comprehensive platform that supports Faculty Computing's students throughout their academic journey, enhances their learning experience, and fosters a sense of community within the academic community.<br>
 
 ### Scope
+<img src="scope.png">
 <p>
 <ol>
   <li><b>Personalised dashboard</b>:
