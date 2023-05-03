@@ -82,14 +82,14 @@ Our proposed student accommodation system aims to achieve the following objectiv
 
 1. **Specific:** Create an efficient system for hostel room allocation that cuts the time needed by 50%.<br>
 **Measurable:** Determine the reduction in allocation time by doing a comparism before and after the new system is implemented.<br>
-**Achievable:** More flexibility for students to make their own decision for choosing their allocated rooms.<br>
-**Relevant:** To support streamlining and enhancing efficiency in the room allocation procedure.<br>
+**Achievable:** <br>
+**Relevant:** To support streamlining and enhancing efficiency in the room allocation procedure and more flexibility for students to make their own decision for choosing their allocated rooms.<br>
 **Time-bound:** The objective will be achieved within the first year of the project.
 
-2. **Specific:** Simplify the room management process which reduce the steps needed by 30%.<br>
-**Measurable:** Keep track of the occupancy rates before and after the new system is put in place to gauge the growth.<br>
-**Achievable:** Future allocation decisions could be achieved via gathering and analysing data on room allocation trends.<br>
-**Relevant:** The utilisation of available housing will improve with higher occupancy rates, which will also lessen the requirement for interim housing.<br>
+2. **Specific:** Simplify the room management process which reduce the manual steps needed by 55%.<br>
+**Measurable:** Keep track of the rate and process in managing a room before and after the proposed system is applied.<br>
+**Achievable:** Collect and gather the information on the stakeholders' requirements to develop a more convenient management system.<br>
+**Relevant:** A simple room managing approach will improve with effective room control and lesser work load.<br>
 **Time-bound:** The objective will be achieved within the first two years of the project.
 
 3. **Specific:** Develop a maintenance tracking system that reduces the respond times to maintenance requests by 50%.<br>
