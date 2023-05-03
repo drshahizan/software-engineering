@@ -99,9 +99,9 @@ Our proposed student accommodation system aims to achieve the following objectiv
 **Time-bound:** The objective will be achieved within the second year of the project.
 
 4. **Specific:** 20% more students will be generally satisfied with the housing allocation procedure.<br>
-**Measurable:** To gauge the rise in satisfaction, survey the students both before and after the new system is put into place.<br>
-**Achievable:** To increase efficiency and accuracy, implement a user-friendly interface and automate the housing allocation procedure.<br>
-**Relevant:** The whole student experience will be improved, and retention rates will rise, if the housing distribution procedure is more satisfactorily handled.<br>
+**Measurable:** To measure the rise in satisfaction, survey the students both before and after the new system is put into place.<br>
+**Achievable:** To make the housing allocation process faster and more accurate, create an easy-to-use interface and automate it.<br>
+**Relevant:**  Improve the housing distribution process, students will have a better experience and are more likely to stay in school.<br>
 **Time-bound:** The objective will be achieved within the first three years of the project.
 
 These SMART objectives for our introduced student accommodation system in KTDI are all specific, measurable, achievable, relevant and time-bound. They offer a clear road map for reaching the intended results and are in line with the project's goals and objectives.
