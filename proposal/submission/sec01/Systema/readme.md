@@ -271,25 +271,25 @@ Block Diagram:
 
 
   1. Staff:
-      1 Project Manager: RM 300,000/year
-      1 Quality assurance specialist & Web Developer: RM 180,000/year
-      1 Business Analyst & User Interface Designer: RM 180,000/year
-      1 Support Engineer & Data Analyst: RM 180,000/year
-      1 Technical Writer & User Experience Designer: RM 160,000/year
-      Total Cost: RM 1,000,000
+      + 1 Project Manager: RM 300,000/year
+      + 1 Quality assurance specialist & Web Developer: RM 180,000/year
+      + 1 Business Analyst & User Interface Designer: RM 180,000/year
+      + 1 Support Engineer & Data Analyst: RM 180,000/year
+      + 1 Technical Writer & User Experience Designer: RM 160,000/year
+      <br>*Total Cost: RM 1,000,000*
   2. Hardware
       + Server Hardware: RM 400,000
       + Network Hardware: RM 200,000
       + Storage Hardware: RM 200,000
       + Cloud computing providers: RM 200,000
       + Scalability: RM 200,000
-      <br>Total Cost: RM 1,200,000
+      <br>*Total Cost: RM 1,200,000*
       
   3. Equipment:
       + Computers and laptops for the project team: RM 150,000
       + Servers and hosting services for the website: RM 50,000
       + Internet connectivity: RM 20,000
-      <br>Total Cost: RM 220,000
+      <br>*Total Cost: RM 220,000*
       
   4. Software:
       + User interface: HTML, CSS, JavaScript, and ReactJS: RM 150,000
@@ -298,7 +298,7 @@ Block Diagram:
       + Business intelligence tools: Tableau, Power BI, QlikView: RM 100,000
       + Data visualization libraries: D3.js, Highcharts, Chart.js: RM 150,000
       + Data analysis tools: Python, R, Excel: RM 200,000
-      <br>Total Cost: RM 800,000
+      <br>*Total Cost: RM 800,000*
       
   5. Other Expenses:
       + Testing fees: RM 150,000
@@ -307,9 +307,9 @@ Block Diagram:
       + Domain registration fees: RM 1,000
       + Marketing and advertising expenses: RM 50,000
       + Training and support expenses: RM 300,000
-      <br>Total Cost: RM 751,000
+      <br>*Total Cost: RM 751,000*
       
-  <br><br>Grand Total: RM 3,971,000
+  <br><br><b>Grand Total: RM 3,971,000</b>
 
 
 ### 10. Technical Specifications
