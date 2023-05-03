@@ -8,9 +8,9 @@
   5. Yeoh Chong Yi          A22EC0295
 
 ### Table of Contents
-1. [Executive Summary](#executive-summary) <br>
+1. [Executive Summary](#executive-summary)
 2. [Background](#background)<br>
-3. [Objectives](#objectives)<br>>
+3. [Objectives](#objectives)<br>
 4. [Scope](#scope)
 5. [Software Process Model](#software-process-model)<br>
 6. [Budget](#budget)<br>
