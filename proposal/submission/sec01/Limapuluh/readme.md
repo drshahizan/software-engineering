@@ -151,13 +151,15 @@ In conclusion, the Agile software process model is an ideal choice for the propo
 </ul>
   
   ###Gantt Chart
-  <table style="border-collapse:collapse;">
+  <table style="border-collapse: collapse;">
     <thead>
+      <tr>
       <td>Phase</td>
       <td>Tasks</td>
       <td>Person In-Charge</td>
       <td>Duration</td>
       <td>Progress</td>
+      </tr>
     </thead>
     <tbody>
       <tr>
