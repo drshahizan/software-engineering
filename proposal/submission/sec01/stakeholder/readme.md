@@ -115,10 +115,13 @@ The scope refers to the boundaries of the project and outlines the features and 
 
 - Student registration: <br>By entering user's personal information, academic information and room preferences, students can register as users in the system using the student registration tool. Before letting a student register, the system should confirm their identity and determine whether they qualify for accommodation registration based on the hostel merits and year of study. The first year students will be registered automatically, while the senior year students have to register themselves.
 
+- Hostel application: <br>Before letting a student to apply, the system should confirm their identity and determine whether they qualify for accommodation application based on the KTDI merits and year of study. This application is only opened to the senior year students.
+
+- KTDI college merit calculator: The fellows could manage and collect the student college merits based on the college activities that participated by them. The final report on students' college merit marks will be generated automatically. Whoever meet the minimum requirement of college merit marks will be given the priorities to apply KTDI hostel.
+
 - Room allocation: <br>According on the students' choices, room availability and hostel merits, the system can assign rooms to them using the room allocation tool. The system should include elements including the student's academic programme, year of study and any unique requirements or requests, such as health condition in order to take note in the allocation process. This process will prioritise the students with higher hostel merits to prefer their desired hostel block as well as room type.
 
 - Room management: <br>The room management feature allows students to manage their rooms through the system. This includes room changing, check-in, check-out, room booking and cancellation as well as maintenance requests. The system should provide a calendar view of the room availability and allow students to book their preferred room and check-in and check-out dates. It should also allow students to request maintenance services for their room and track the status of the request.
-
 
 - Payment management: <br>Students can use the system to pay their lodging costs via the payment management tool. The system should enable students to monitor their payment history and receipts and offer safe payment options like internet banking and also convinence payment method, such as TnG e-wallet. Under this scope, there will be duitnow QR code and bank account number provided for the students to pay their lodging costs. 
 
@@ -127,8 +130,6 @@ The scope refers to the boundaries of the project and outlines the features and 
 - Security: <br>To log in the system, the students have to enter their UTM id and the password set. Same concept will be implemeted for the KTDI staff, fellows and KTDI administrators.
 
 - Reporting and analytics: <br>Administrators will be allowed to monitor and analyze the occupancy rates, revenue and maintenance issues of the accommodation system. Reports from the system should include occupancy rates based on the study programme or room type, revenue by time period and building or room-specific maintenance issues.
-
-- KTDI college merit calculator: The fellows could manage and collect the student college merits based on the college activities that participated by them. The final report on students' college merit marks will be generated automatically. Whoever meet the minimum requirement of college merit marks will be given the priorities to apply KTDI hostel.
 
 - Support and maintenance: <br>Residents or students should be able to report problems any problem faced in the accommodation system, such as bugs through the system's help desk and there should be a dedicated team working to quickly resolve these problems.
 
