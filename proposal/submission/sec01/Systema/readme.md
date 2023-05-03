@@ -4,7 +4,7 @@
 |Bernice Lim Jing Xuan|Chai Yu Tong|Kek Jesslyn|Wong Qiao Ying|Yeoh Chong Yi|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 |A22EC0038|A22EC0145|A22EC0057|A22EC0118|A22EC0295|
-|![B](Member-Photo/BerniceLimJX.png | width=100)|![YT](Member-Photo/Yutongchai.jpg)|![J](Member-Photo/Jesslyn19.jpg)|![W](Member-Photo/alovey1014.jpg)|![Y](Member-Photo/yChongYi.jpg)|
+|![](Member-Photo/BerniceLimJX.png | width=100)|![](Member-Photo/Yutongchai.jpg)|![](Member-Photo/Jesslyn19.jpg)|![](Member-Photo/alovey1014.jpg)|![](Member-Photo/yChongYi.jpg)|
   <table>
   <tr>
     <th>Bernice Lim Jing Xuan</th>
@@ -269,61 +269,47 @@ Block Diagram:
 ### 9. Resources
 - Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
 
+
   1. Staff:
-      <table border="0">
-  <tr>
-    <th>Role</th>
-    <th>Name</th>
-  </tr>
-  <tr>
-    <td>Project Manager</td>
-    <td>Wong Qiao Ying</td>
-  </tr>
-  <tr>
-    <td>Quality assurance specialist & Web Developer</td>
-    <td>Bernice Lim Jing Xuan</td>
-  </tr>
-  <tr>
-    <td>Business Analyst & User Interface Designer</td>
-    <td>Chai Yu Tong</td>
-  </tr>
-  <tr>
-    <td>Support Engineer & Data Analyst</td>
-    <td>Kek Jesslyn</td>
-  </tr>
-  <tr>
-    <td>Technical Writer & User Experience Designer</td>
-    <td>Yeoh Chong Yi</td>
-  </tr>
-</table>
+      1 Project Manager: RM 300,000/year
+      1 Quality assurance specialist & Web Developer: RM 180,000/year
+      1 Business Analyst & User Interface Designer: RM 180,000/year
+      1 Support Engineer & Data Analyst: RM 180,000/year
+      1 Technical Writer & User Experience Designer: RM 160,000/year
+      Total Cost: RM 1,000,000
   2. Hardware
-      + Server Hardware
-      + Network Hardware
-      + Storage Hardware
-      + Cloud computing providers
-      + Scalability
+      + Server Hardware: RM 400,000
+      + Network Hardware: RM 200,000
+      + Storage Hardware: RM 200,000
+      + Cloud computing providers: RM 200,000
+      + Scalability: RM 200,000
+      Total Cost: RM 1,200,000
       
   3. Equipment:
-      + Computers and laptops for the project team
-      + Servers and hosting services for the website
-      + Internet connectivity
+      + Computers and laptops for the project team: RM 150,000
+      + Servers and hosting services for the website: RM 50,000
+      + Internet connectivity: RM 20,000
+      Total Cost: RM 220,000
       
   4. Software:
-      + User interface: HTML, CSS, JavaScript, and ReactJS
-      + Server-side technology: Node.js and Express.js
-      + Database: MySQL RDBMS
-      + Business intelligence tools: Tableau, Power BI, QlikView
-      + Data visualization libraries: D3.js, Highcharts, Chart.js
-      + Data analysis tools: Python, R, Excel
+      + User interface: HTML, CSS, JavaScript, and ReactJS: RM 150,000
+      + Server-side technology: Node.js and Express.js: RM 100,000
+      + Database: MySQL RDBMS: RM 100,000
+      + Business intelligence tools: Tableau, Power BI, QlikView: RM 100,000
+      + Data visualization libraries: D3.js, Highcharts, Chart.js: RM 150,000
+      + Data analysis tools: Python, R, Excel: RM 200,000
+      Total Cost: RM 800,000
       
   5. Other Expenses:
-      + Testing fees
-      + Contingency fees
-      + Web hosting fees
-      + Domain registration fees
-      + Marketing and advertising expenses
-      + Training and support expenses
-      + Staffing costs
+      + Testing fees: RM 150,000
+      + Contingency fees: RM 150,000
+      + Web hosting fees: RM 100,000
+      + Domain registration fees: RM 1,000
+      + Marketing and advertising expenses: RM 50,000
+      + Training and support expenses: RM 300,000
+      Total Cost: RM 751,000
+      
+  Grand Total: RM 3,971,000
 
 
 ### 10. Technical Specifications
