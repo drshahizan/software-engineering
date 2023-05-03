@@ -30,10 +30,10 @@ Don't forget to hit the :star: if you like this repo.
 - [Software Process Mode;](#5-software-process-model)
 - [Budget](#6-budget)
 - [System Architecture](#7-system-architecture)
-- [Risks Assesment](#8-risks-assesment)
+- [Risks Assesment](#8-risks-assesments)
 - [Resources](#9-resources)
 - [Technical Specification](#10-technical-specifications)
-- [Timeline and Deliverables](#11-timeline-and-deliverable)
+- [Timeline and Deliverables](#11-timeline-and-deliverables)
 - [Conclusion](#12-conclusion)
 
 ### 1. Executive Summary
@@ -61,8 +61,6 @@ Our proposed Badal Hajj and Umrah Management System aims to achieve the followin
 Overall, these SMART objectives are specific, measurable, achievable, relevant, and time-bound. They align with the goals and objectives of the project and provide a clear roadmap for achieving the desired outcomes.
 
 ### 4. Scope:
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FNTdtMEWuSQND0gCJ3DDbLZ%2FPROPOSAL%3Fnode-id%3D0%253A1%26t%3D99It8n5SelMfniqU-1" allowfullscreen></iframe>
 
 The Badal Hajj and Umrah management system proposed in this project will included several functionalities and features that are required in order to solve the problems that the company have. This system will be web-based and application software.This is the detail of the features and functionality of the system:
 
