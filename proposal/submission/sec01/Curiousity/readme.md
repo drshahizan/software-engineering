@@ -308,7 +308,7 @@ The block diagram for the proposed system architecture is as follows:
           <td rowspan="2">Resource Risks</td>
           <td>Financial limitations</td>
           <td>The project might experience difficulties that prevent the team from delivering all of the intended features and functionality.</td>
-          <td>The project team will prioritise development efforts based on the budget at hand and, if necessary, look for alternative funding sources. Throughout the development process, the team will look into opportunities for cost reduction and efficiency improvements.</td>
+          <td>The team will prioritise development efforts based on the budget at hand and, if necessary, look for alternative funding sources. Throughout the development process, the team will look into opportunities for cost reduction and efficiency improvements.</td>
         </tr>
         <tr>
           <td>Staff turnover</td>
