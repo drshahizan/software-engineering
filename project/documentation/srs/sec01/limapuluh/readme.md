@@ -53,21 +53,21 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1 Nicole Lim Tze </td>
+    <td>1 Nicole Lim Tze Yee</td>
     <td>Student</td>
-    <td></td>
+    <td>First Year Student of Faculty of Computing</td>
     <td>Actively participate in the development and testing of the Student Feedback System, providing feedback and suggestions to ensure that the system meets their needs and requirements.</td>
   </tr>
   <tr>
     <td>2 Wong Jun Ji</td>
     <td>Student</td>
-    <td></td>
+    <td>First Year Student of Faculty of Computing</td>
     <td>Actively participate in the development and testing of the Student Feedback System, providing feedback and suggestions to ensure that the system meets their needs and requirements.</td>
   </tr>
   <tr>
     <td>3 Tiew Chuan Seng</td>
     <td>Student</td>
-    <td></td>
+    <td>First Year Student of Faculty of Computing</td>
     <td>Actively participate in the development and testing of the Student Feedback System, providing feedback and suggestions to ensure that the system meets their needs and requirements.</td>
   </tr>
     <tr>
