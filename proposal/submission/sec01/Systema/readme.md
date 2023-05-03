@@ -1,12 +1,3 @@
-<a href="https://github.com/drshahizan/software-engineering/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/software-engineering" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/network/members"><img src="https://img.shields.io/github/forks/drshahizan/software-engineering" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/issues"><img src="https://img.shields.io/github/issues/drshahizan/software-engineering" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/software-engineering?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/software-engineering)
-
-Don't forget to hit the :star: if you like this repo.
-
 # Student Engagement
 
 ### Prepared by: Systema
@@ -17,18 +8,19 @@ Don't forget to hit the :star: if you like this repo.
   5. Yeoh Chong Yi          A22EC0295
 
 ### Table of Contents
-1. [Executive Summary](#executive-summary) <br>
-2. [Background](#background)<br>
-3. [Objectives](#objectives)<br>
-4. [Scope](#scope)<br>
-5. [Software Process Model](#software-process-model)<br>
-6. [Budget](#budget)<br>
-7. [System Architecture](#system-architecture)<br>
-8. [Risk Assessment](#risk-assesment)<br>
-9. [Resources](#resources)<br>
-10. [Technical Specifications](#technical-specifications)<br>
-11. [Timeline and Deliverables](#timeline-and-deliverabels)<br>
-12. [Conclusion](#conclusion)
+- [Executive Summary](#executive-summary) <br>
+- [Background](#background)<br>
+- [Objectives](#objectives)<br>
+- [Scope](#scope)<br>
+      - [Personalised dashboard](#personalised-dashboard) 
+- [Software Process Model](#software-process-model)<br>
+- [Budget](#budget)<br>
+- [System Architecture](#system-architecture)<br>
+- [Risk Assessment](#risk-assesment)<br>
+- [Resources](#resources)<br>
+- [Technical Specifications](#technical-specifications)<br>
+- [Timeline and Deliverables](#timeline-and-deliverabels)<br>
+- [Conclusion](#conclusion)
  
   
 ### Executive Summary
