@@ -126,7 +126,7 @@ The scope of the project includes the enhancement of the current student feedbac
 
 For the proposed Student Feedback Management System, the<b> Agile methodology</b> is an ideal software process model. This model allows for flexibility and responsiveness to stakeholder feedback while ensuring timely delivery of a functional feedback management system. It provides a framework for managing project risks and ensuring that quality and performance are maintained throughout the development process.
   
-  <img src="img/Agilemethod.jpg" alt="an image">
+  <img src="Agilemethod.png" alt="an image">
 
   <h3>The Agile software process model involves the following phases:</h3>
 
