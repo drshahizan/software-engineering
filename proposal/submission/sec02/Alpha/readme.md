@@ -163,11 +163,10 @@ This college rental system will use various tools and frameworks such as:
 2. Web Server: The web server tier receives HTTP requests from the client tier and responds with HTML content that is rendered by the browser. The web server also handles static files, such as CSS and JavaScript. 
 3. Application Server: The application server tier is responsible for handling the business logic of the system. It receives requests from the web server and processes them by retrieving data from the database server and returning dynamic HTML content to the web server.
 4. Database Server: The database server tier stores and manages the system's data. It receives requests from the application server and returns data to the application server for processing.
-<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/flowchartSE.png"></img>
 
 
 ##### Block Diagram
-<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/detailed%20block%20diagram.drawio%20(1).png"></img>
+![detailed block diagram](detailed block diagram.drawio(1).png)
 
 ---
 
