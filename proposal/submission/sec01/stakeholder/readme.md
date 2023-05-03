@@ -15,26 +15,29 @@ Don't forget to hit the :star: if you like this repo.
 ### Prepared by: Group Stakeholder
 <table>
 <tr>
-<th>Member</th>
-<th>Matric No.</th>
-<th>Photo</th>
+  <th>No.</th>
+  <th>Member</th>
+  <th>Matric No.</th>
+  <th>Photo</th>
 </tr>
 <tr>
-  <td>1. Neo Zheng Weng </td> <td> A22EC0093 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/rsz_3photograph_neo_zheng_weng.jpg" width=150px, height=200px> </td>
+  <td>1.</td> <td> Neo Zheng Weng </td> <td> A22EC0093 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/rsz_3photograph_neo_zheng_weng.jpg" width=150px, height=200px> </td>
   </tr>
 <tr>
-  <td>2. WONG KHAI SHIAN NICHOLAS </td> <td> A22EC0292 </td> <td><img src=""> </td>
+  <td>2.</td> <td> WONG KHAI SHIAN NICHOLAS </td> <td> A22EC0292 </td> <td><img src=""> </td>
   </tr>
 <tr>
-  <td>3. JOSEPH LAU YEO KAI </td> <td> A22EC0055 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/photo_2022-05-11_16-06-06.jpg?raw=true" width=150,height=300> </td> 
+  <td>3.</td> <td> JOSEPH LAU YEO KAI </td> <td> A22EC0055 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/photo_2022-05-11_16-06-06.jpg?raw=true" width=150,height=300> </td> 
   </tr>
 <tr>
-  <td>4. LOW JIE SHENG </td> <td> A22EC0075 </td> <td><img src=""> </td>
+  <td>4.</td> <td> LOW JIE SHENG </td> <td> A22EC0075 </td> <td><img src=""> </td>
   </tr>
 <tr>
-  <td>5. MUHAMMAD DANIAL BIN AHMAD SYAHIR </td> <td> A22EC0206 </td> <td><img src=""> </td>
+  <td>5.</td> <td> MUHAMMAD DANIAL BIN AHMAD SYAHIR </td> <td> A22EC0206 </td> <td><img src=""> </td>
   </tr>
 </table>
+
+---
 
 ### Table of Contents
 - [Executive Summary](#1-executive-summary)
@@ -50,6 +53,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Timeline and Deliverables](#11-timeline-and-deliverables)
 - [Conclusion](#12-conclusion)
 
+---
 
 ### 1. Executive Summary
 The Student Accommodation System proposal for Kolej Tun Dr Ismail (KTDI) is aimed at addressing the challenges that students and staff face when managing student accommodation. The current process for applying for and managing accommodation is unintegrated and time-consuming, which can result in delays, errors, and frustration for students and staff alike.
