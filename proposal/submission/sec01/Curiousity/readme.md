@@ -53,24 +53,24 @@ In summary, the UTM Event Management System proposal seeks to address the challe
 
 ### 3. Objectives:
 #### Specific: 
-* To digitise and automate the paperwork process for JKM event planning and project management within KTDI.
+* To digitise and automate the paperwork process for JKM’s event planning and project management within KTDI.
 * To reduce paper usage and increase efficiency in managing event-related documents.
 
 #### Measurable: 
 * To reduce paper usage by a minimum of 50% within the first year of the system’s implementation.
-* To decrease the time required to process paperwork by the KTDI college staff members by at least 30%.
+* To decrease the time required to process paperwork by the KTDI college staff and fellow members by at least 30%.
 * To increase the accuracy and completeness of event-related paperwork by 25%.
 
 #### Achievable: 
 * To achieve widespread adoption of the event management system by at least 80% of JKM KTDI committee members within the first year.
-* To provide comprehensive training and support to users of the system (JKM KTDI and KTDI office staff members) to ensure successful implementation.
+* To provide comprehensive training and support to users of the system (JKM KTDI and KTDI college office staff and fellow members) to ensure successful implementation.
 
 #### Relevant: 
 * To align with sustainability goals by reducing paper usage and promoting digital processes.
-* To support the commitment to providing efficient and effective administrative services to JKM KTDI and KTDI office staff members.
+* To support the commitment to providing efficient and effective administrative services to JKM KTDI and KTDI college office staff and fellow members.
 
 #### Time-Bound: 
-* To fully implement the event management system within the JKM KTDI by the end of the current academic year.
+* To fully implement the event management system within the JKM KTDI and KTDI college office staff and fellow members by the end of the current academic year.
 * To achieve the above-stated measurable objectives within the first year of implementation.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
@@ -89,13 +89,13 @@ This web-based system will include the following features or functionality:
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 5. Software Process Model:
-A software process model's main objective is to offer a framework for the systematic and organised development of software. It offers a collection of tasks, products, and deadlines to make sure the software is created quickly and effectively. A software process model's main objective is to make sure that the software is high-quality, delivered on time, and within budget while also meeting the requirements of the stakeholders.
-
-The <b>Agile software development process model</b> is the ideal software process model for this campus event management system development. The Agile process model is an adaptable and iterative method of developing software that places a focus on teamwork, client satisfaction, and the quick delivery of functional software. This process model emphasises delivering value to the customer at each iteration and is appropriate for projects with varying requirements and uncertainties.
+The <b>Agile software development process model</b> is the ideal software process model for this KTDI event management system development. The Agile process model is an adaptable and iterative method of developing software that places a focus on teamwork, client satisfaction, and the quick delivery of functional software. This process model emphasises delivering value to the user (JKM) at each iteration and is appropriate for projects with varying requirements and uncertainties.
 
 The Agile process model was chosen because it enables frequent feedback and changes to be made to the software while it is being developed. Since this system is being created for a university, it is likely that the requirements will change and be updated as the project moves forward. The Agile process model is well suited to handle such changes and still deliver a high-quality product on time.
 
 The Agile process model consists of the following phases:
+
+<img src="https://agilie.com/_next/image?url=/api/imageproxy?url=https%3A%2F%2Fd12zh9bqbty5wp.cloudfront.net%2Fimages%2Ff9e66e179b6747ae54108f82f8ade8b3c25d76fd30afde6c395822c530196169-1674685166733.png&w=1920&q=75" alt="Agile"></img>
 
 #### 1. Planning and Design Phase: 
 During this stage, the team establishes the project's scope, objectives, and goals. A product backlog, which is a prioritised list of the system's features or requirements, is also created by the team. The requirement analyst team works in conjunction with the stakeholders during this phase to compile and assess the system requirements. The group then develops user stories, which are concise, controllable chunks of functionality that can be worked on iteratively. The team will develop a thorough system design, complete with user interfaces, data models, and system architecture, during this phase. The team will also develop a mockup or prototype of the system so that stakeholders can give input and verify that the design satisfies their requirements.
@@ -214,14 +214,15 @@ During this stage, the team will test the system to make sure it complies with t
     </table>
 
 #### Testing Methodologies: 
--The quality assurance analyst will use various testing methodologies such as black-box testing, white-box testing, and grey-box testing.
-##### i. Black-box testing:
+The testing methodologies that will be used are black-box testing, white-box testing, and grey-box testing.
+
+* Black-box testing:
 Also referred to as functional testing or behavioural testing, is a testing technique where the tester is unaware of the internal workings of the system being tested. The tester in this method only has access to the system's inputs and outputs, and they test the system's functionality in accordance with its specifications and requirements. In our case, the system's end users (students) will conduct this kind of testing.
 
-##### ii. White-box testing
+* White-box testing
 Also known as structural testing, is a testing technique where the tester is aware of how the system being tested operates on the inside. This approach involves running tests on the system's internal components, such as code or algorithms, to make sure they work as intended. Developers or testers with access to the source code (the team members) of the system being tested usually carry out white-box testing.
 
-##### iii. Grey-box testing:
+* Grey-box testing:
 With this approach, the tester is only partially aware of how the system being tested operates internally. This enables them to test the system's functionality and internal structures to make sure everything is operating as it should. Grey-box testing is typically carried out by testers who have some familiarity with the inner workings of the system but not enough to carry out thorough white-box testing. In this case, it will be the IT administrator staff.
 
 
