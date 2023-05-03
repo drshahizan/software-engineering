@@ -111,7 +111,7 @@ These SMART objectives for our introduced student accommodation system in KTDI a
 ### 4. Scope
 The scope refers to the boundaries of the project and outlines the features and functionalities of the system, including its goals, objectives and requirements as well as the expected outcomes and benefits. Detailed explanations of the features and functionality of our proposed student accommodation system in KTDI are as follows:
 
-- Centralised Dashboard: <br>In both the user interfaces of the students, fellows, KTDI staff and also the adminstrative department in KTDI will have a well looking dashboard to provide the users a easier and effective way to access their needs via the tools provided. The dashboard can provide students to access important information related to their personal information, hostel information such as dormitory fees and room location.
+- Centralised Dashboard: <br>In both the user interfaces of the students, fellows, KTDI staff and also the adminstrative department in KTDI will have a well looking dashboard to provide the users a easier and effective way to access their needs via the tools provided. The dashboard can provide students to access important information related to their personal information, hostel information such as dormitory fees according to room type and room location.
 
 - Student registration: <br>By entering user's personal information, academic information and room preferences, students can register as users in the system using the student registration tool. Before letting a student register, the system should confirm their identity and determine whether they qualify for accommodation registration based on the hostel merits and year of study. The first year students will be registered automatically, while the senior year students have to register themselves.
 
@@ -128,11 +128,13 @@ The scope refers to the boundaries of the project and outlines the features and 
 
 - Reporting and analytics: <br>Administrators will be allowed to monitor and analyze the occupancy rates, revenue and maintenance issues of the accommodation system. Reports from the system should include occupancy rates based on the study programme or room type, revenue by time period and building or room-specific maintenance issues.
 
-- Support and maintenance: <br>Residents or students should be able to report problems or request assistance for the maintainence of hostel equipments or any problem faced in the accommodation system, such as bugs through the system's help desk and there should be a dedicated team working to quickly resolve these problems.
+- KTDI college merit calculator: The fellows could manage and collect the student college merits based on the college activities that participated by them. The final report on students' college merit marks will be generated automatically. Whoever meet the minimum requirement of college merit marks will be given the priorities to apply KTDI hostel.
 
-- Agile methodology: <br>Agile methodology is used for the software process model in the system development due to its flexibility in updating the stakeholders' requirements and sastification.
+- Support and maintenance: <br>Residents or students should be able to report problems any problem faced in the accommodation system, such as bugs through the system's help desk and there should be a dedicated team working to quickly resolve these problems.
+
+- Agile methodology: <br>Agile methodology is used for the software process model in the system development due to its flexibility in updating the stakeholders' requirements and sastification. Modification will be done several times until the best system is developed. 
   
-
+The system will be limited to Kolej Tun Dr Ismail (KTDI) only and the decide phase of the final result on room application will be done by the AIMS system of UTM.
 
 <!--However, there are several limitations and constraints that may affect the project of a student accommodation system for Kolej Tun Dr Ismail (KTDI):
   
