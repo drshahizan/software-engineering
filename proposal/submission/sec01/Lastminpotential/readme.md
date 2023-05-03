@@ -93,18 +93,43 @@ The Faculty of Computing Feedback System will provide measurable benefits to all
       <li>This feedback can be used to identify areas where equipment may need maintenance or replacement, and to ensure that students have access to the resources they need to succeed.</li>
     </ul>
 </ul>
-- It should also describe any limitations or constraints that may affect the project.
+<p>Here are some limitations or constraints that may affect the project:</p>
+<ul>
+  <li>Low response rates: If a significant number of students do not provide feedback, the results may not be representative of the entire student body, which can limit the effectiveness of the feedback system.</li>
+  <li>Biased responses: Students who have strong opinions, whether positive or negative, may be more likely to provide feedback than those who are neutral or indifferent. This can lead to biased responses that do not accurately reflect the views of the entire student body.</li>
+  <li>Lack of actionable feedback: The feedback provided by students may not always be actionable or specific enough to make meaningful changes. This can limit the effectiveness of the system in improving the quality of education.</li>
+  <li>Privacy concerns: If students do not feel comfortable providing feedback anonymously, they may be less likely to provide honest and constructive feedback. This can limit the usefulness of the feedback system in improving the quality of education.</li>
+  <li>Overreliance on technology: A faculty feedback system relies heavily on technology to collect and analyze data. If there are issues with the technology or the system is not properly maintained, it can impact the accuracy and effectiveness of the system.</li>
+  <li>Administrative burden: Collecting and analyzing feedback can be time-consuming and require resources to manage effectively. If the system is not properly resourced, it may not be able to meet the needs of the institution or the students it serves.</li>
+</ul>
 
 ### 5. Software Process Model:
-This section describe the ideal software process model for this system development. The write-up must consist of:
-- Explanation of the goal of the software process model.
-- Choose the ideal software process model and give justification.
+<p>Agile methodology is the optimal software process model for the creation of the Faculty Feedback System. Software development using the agile methodology is flexible and iterative, allowing for ongoing input and adaption. It is appropriate for this project since it enables us to release functional software frequently and fast in response to changes.</p>
+<img width="465" alt="image" src="https://mobile-jon.com/wp-content/uploads/2021/04/Agile-Methodology.jpg">
 - The illustration of chosen software process model that relates to your project and shows every phase involved in the chosen software process model
-- Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. 
-- It should also describe the testing methodologies, project management practices, and quality assurance processes.
+  <p><b>Planning phase:</b> Project manager (Tan Jun Yuan) will decide the goal and scope of the system during this phase. Project manager will also produce a paper outlining the essential specifications for the product within two weeks. Then, user stories are chosen and requirements are gathered by requirement analyst (Goh Jing Yang) who is in charge of this phase's deliverables, which comprise the requirements document and user stories, and it lasts for four weeks.</p>
+  <p><b>Design phase:</b> UI/UX system designer (Goh Jing Yang) will work on the project's architecture while designing a mockup of the user interface. In order to gather all the requirements on a diagram and identify the project's functionality, the stakeholders are again involved in this step. Additionally, routine checks will make it easier to determine whether or not the design process has taken into account all of the requirements.</p>
+  <p><b>Develop, testing, deploy and review phase:</b> Main developer (Loo Jia Chang) and asistant developer (Chen Pyng Haw) will now begin putting all of the product requirements gathered during the previous phase together. Before it is finished, it goes through numerous reviews and revisions for improvement.</p>
+  <ul>
+    <li>The association of the development team with project manager.</li>
+    <li>Iterations and functionalities are prioritized and implemented.</li>
+    <li>Each sprint/iteration should be closely examined and developed.</li>
+    <li>Delivering regular working software releases.</li>
+    <li>Ensuring product quality by testing at regular intervals.</li>
+  </ul>
+  <p>The duration for this phase is arund 10 weeks.</p>
+  <p><b>Launch phase:</b> The quality assurance team conducts tests to ensure the software's functionality prior to the product's release. The members of the QA team will test the programme to ensure that the code is clear, and if there are any possible issues or defects, the development team will take swift action to fix them.The duration for this phase is two weeks.After all work is done, this system will be launched.</p>
 
 ### 6. Budget:
-- The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
+<ul>
+<li>Software development: This includes the cost of designing, developing, and testing the software for the system. This can include the cost of software development tools, licenses, and resources such as developers and testers.</li>
+<li>Hardware: This includes the cost of servers, storage, and other hardware required to host and run the software.</li>
+<li>Infrastructure: This includes the cost of setting up and maintaining the network infrastructure required for the system, such as routers, switches, and firewalls.</li>
+<li>Implementation and integration: This includes the cost of implementing and integrating the system with existing institutional systems, such as learning management systems or student information systems.</li>
+<li>Maintenance and support: This includes the cost of ongoing maintenance and support for the system, such as bug fixes, upgrades, and technical support.</li>
+<li>Training: This includes the cost of training users and administrators on how to use the system.</li>
+<li>Miscellaneous expenses: This includes other expenses that may be required for the development and implementation of the system, such as travel expenses, legal fees, and project management costs.</li>
+</ul>
 
 ### 7. System Architecture:
 - Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
@@ -158,14 +183,25 @@ This section describe the ideal software process model for this system developme
 - Miscellaneous expenses - Required for unforeseen expenses and contingencies.
 
 
-   <!--
-- Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
--->
+
+  
 ### 10. Technical Specifications:
-- Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
-- Mention the programming languages, frameworks, and libraries that will be used in the project.
-- Provide details about the hardware and software requirements for the proposed system.
-- Explain the data security measures that will be implemented.
+  
+Data sources: Through a user interface, the system will collect feedback data from faculty and students. The criticism information will be put away in a data set for additional examination.
+
+Data schema: The name of the student or faculty member, the name of the course, the type of feedback, and the content of the feedback will all be included in the data schema.
+
+Data transformations: To make it suitable for analysis, the collected data will undergo transformations. Cleansing the data, normalizing it, and extracting features are all part of this.
+
+Machine learning algorithms: The feedback data will be analyzed using machine learning algorithms like sentiment analysis, text classification, and clustering.
+
+Data visualization tools: Information perception devices like diagrams, outlines, and dashboards will be utilized to introduce the examined information in an easy to use and reasonable configuration.
+
+Programming languages, frameworks, and libraries: The Flask web framework and Python programming language will be used to develop the project. NumPy, Pandas, Matplotlib, Scikit-learn, and NLTK are some of the other libraries that will be utilized.
+
+Hardware and software requirements: A server or cloud-based infrastructure with sufficient RAM, CPU, and storage will be required for the proposed system. All of the most popular web browsers and operating systems will work with the system.
+
+Data security measures: Encryption, access control, and authentication are just a few of the security measures that the system will use to safeguard the integrity and confidentiality of the feedback data. The system will adhere to security protocols like HTTPS, SSL, and TLS that are accepted by the industry.
 
 ### 11. Timeline and Deliverables: 
 

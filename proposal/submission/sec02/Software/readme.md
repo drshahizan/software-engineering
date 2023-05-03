@@ -26,46 +26,53 @@
 - [Conclusion](#12-conclusion)
   
 ### 1. Executive Summary
-The Student Health and Wellness website is an esteemed software engineering course project that Pusat Kesihatan University (PKU) proudly endorses. Aimed at assisting students in their university life, this website will offer a plethora of resources and tools to assist students in taking care of their physical, mental, and emotional health. A combination of longer or complex sentences, alongside concise and short ones, the website provides a way to optimally manage one's wellbeing. For university students, this website promises to revolutionize the way they manage their health, by providing them with the ability to regulate and nourish their bodies, minds and souls.
+The Student Health and Wellness website is an esteemed software engineering course project that Pusat Kesihatan University (PKU) proudly endorses. Aimed at assisting students in their university lives, this website will offer a plethora of resources and tools to assist students in taking care of their physical, mental, and emotional health. With a combination of longer or more complex sentences alongside concise and short ones, the website provides a way to optimally manage one's wellbeing. For university students, this website promises to revolutionise the way they manage their health by providing them with the ability to regulate and nourish their bodies, minds, and souls. However, for this Student Health and Wellness System project, it seems that this is the first implementation of this system, and it will only include student Kolej Tun Dr. Ismail (KTDI) as our sample user that is included in this system.
 
-The website aims to provide an easy to use experience, with the latest software engineering techniques employed to deliver a intuitive interface. Accessibility is key, and with the website being compatible across desktop computers, laptops, tablets, and smartphones, no matter the device all students can enjoy utilizing the site. Understanding user needs, the platform has been developed with a user-friendly design, ensuring students can quickly and easily navigate and access information.
+This web based system aims to provide an easy-to-use experience, with the latest software engineering techniques employed to deliver an intuitive interface. Accessibility is key, and with the website being compatible across desktop computers, laptops, tablets, and smartphones, no matter the device, all students can enjoy utilising the site. Understanding user needs, the platform has been developed with a user-friendly design, ensuring students can quickly and easily navigate and access information.
 
-The Student Health and Wellness website will be packed with an array of engaging resources for students to access. Articles, videos, and podcasts varying in topics from nutrition to mental health will be featured and developed in collaboration with PKU, assuring the accuracy, timeliness, and appropriateness of the content. These resources offer university students the knowledge to maintain a healthy and wholesome lifestyle.
+The Student Health and Wellness system will be packed with an array of engaging resources for students to access. Articles, videos, and podcasts varying in topics from nutrition to mental health will be featured and developed in collaboration with PKU, assuring the accuracy, timeliness, and appropriateness of the content. These resources offer university students the knowledge to maintain a healthy and wholesome lifestyle.
 
-In a nutshell, the revolutionary Student Health and Wellness website is an active platform with immense potential to significantly better university student lives. Through the provision of accurate sources and data, as well as through the offering of resources and services to aid them in maintaining their physical and mental health, this website will assist students in achieving all they can while leading a content and healthy existence. With the help of interrogating perplexity and burstiness, the effects of this initiative could be revolutionary.
+In a nutshell, the revolutionary Student Health and Wellness website is an active platform with immense potential to significantly improve university student lives. Through the provision of accurate sources and data, as well as the offering of resources and services to aid them in maintaining their physical and mental health, this website will assist students in achieving all they can while leading a content and healthy existence. With the help of interrogating perplexity and burstiness, the effects of this initiative could be revolutionary.
 
 ### 2. Background:
-Navigating the complex and slow process of seeking medical attention for university students can be a daunting task. Some students have to travel long distances to the Pusat Kesihatan University to use the current walk-in system, resulting in long waiting times and inefficient use of time. To simplify these difficulties, Student Health and Wellness is a project designed to help students receive medical attention more quickly and easily.
+Seeking medical attention as a university student can be overwhelming, given the complex and cumbersome process. Unfortunately, some students have to travel long distances just to reach Pusat Kesihatan University for medical services. This results in prolonged wait times and ineffective utilisation of time. Fortunately, the Student Health and Wellness Project is designed to simplify this ordeal and enable quick access to medical care for students in need.
 
-To streamline this process and increase efficiency, a new website will be implemented to enable students to pre-book their appointments and take advantage of online consultations with medical professionals. This is sure to save time, while providing a secure and convenient platform to access medical care. The website will also simplify appointment management, ensuring students make the most of their time, and alleviating any lengthy wait times.
+This Student Health and Wellness system is used to increase efficiency and productivity at PKU which lacks staff. Through this particular system, students at this university can determine the wait time and waiting people for each medical department from time to time at PKU and have online consultations for minor health issues with medical officers when they are free in between 24 hours. In fact, this will decrease the time spent by students waiting for their consultation and offer a more reliable and accessible spot for students to acquire medical care. Nonetheless, this system also operates as a data storage where users can store their medical files, boosting productivity for future diagnoses.
 
-The Student Health and Wellness website will not only offer invaluable health-related information to students, but will also strive to improve upon the healthcare experience of university goers by emphasizing on increased health awareness, and ultimately, fostering a healthier overall campus atmosphere. By giving students the necessary tools for maintaining a sound physical and psychological well-being, the website is poised to revolutionize the healthcare landscape for students, and beyond.
+The Student Health and Wellness System will not only offer invaluable health-related information to students but will also strive to improve the healthcare experience of university goers by emphasising increased health awareness and ultimately fostering a healthier overall campus atmosphere. By giving students the necessary tools for maintaining sound physical and psychological well-being, the website is poised to revolutionise the healthcare landscape for students and beyond.
 
 ### 3. Objectives:
-- To improve the overall wellbeing of university students by using an innovative strategy to provide direct access to medical resources, introduce personalized health tracking tools and offer reliable health tips and advice. 
+- To improve the overall wellbeing of university students by using an innovative strategy to provide direct access to medical resources, introduce personalized health tracking tools, and offer reliable health tips and advice.
 
-(Example：The proposed system will reduce the PKU processing for time by 25%, resulting in a 25% reduction in administrative workload.)
+(Example：The proposed system will reduce the PKU processing time by 25%, resulting in a 25% reduction in administrative workload.)
 
 - To provide students with a platform to communicate and interact with medical professionals at the PKU facility, gain medical advice, and schedule appointments for medical services.
 
-(Example：Revolutionizing healthcare delivery is the intended outcome of the proposed system, resulting in a 30% increase in online consultations and a 15% decrease in workload. The goal of the changes is to attract fewer walk-in patients, lowering their percentage by 30%. This innovative approach utilizes complex wording and sentence construction to streamline medical services.)
+(Example: Revolutionising healthcare delivery is the intended outcome of the proposed system, resulting in a 30% increase in online consultations and a 15% decrease in workload. The goal of the changes is to attract fewer walk-in patients, lowering their percentage by 30%. This innovative approach utilises complex wording and sentence construction to streamline medical services.)
 
 - To provide a swift and easy way to get an immediate avenue for help in times of crisis to students by calling PKU for emergency assistance.
 
 (Example: At a 30% improvement rate, the PKU emergency assistance system will become much more efficient due to the proposed emergency button. Overall, the university's emergency health issues will also see a 30% reduction.)
 
-- To enable PKU to better understand the health needs of the student population and provide targeted interventions through the collection and analysis of data inside the system..
+- To enable PKU to better understand the health needs of the student population and provide targeted interventions through the collection and analysis of data inside the system.
 
 (Example: This will increase the efficiency of diagnosing health needs and infections among students by 20% and increase the healthcare service to students by 25%.)
 
-
 ### 4. Scope: 
-This project's proposition entails a software application targeting the Domain of Student Health and Wellness Management System. The project will solely focus on developing, implementing, and maintaining the software application, setting aside various other factors such as any hardware or infrastructure upgrades, as well as changes to existing policies or procedures.
+The project proposal focuses exclusively on developing a software application to manage student health and wellness. Our primary objective is to design, implement, and maintain this system while avoiding hardware or infrastructure upgrades, as well as changes in existing policies or procedures.
   
 Defined by the following will be the boundaries of the project:
 - Seamlessly integrating with the current student information system, the Student Health and Wellness Management System is set to be crafted by a development team that will make sure it's compatible with the administrators' goals. Close cooperation will ensure a compatibility that won't become a hassle.
 - Out of scope and further analysis will be required for any additional features requested by stakeholders of the proposed system. In terms of student health and wellness, only health tracking, online chat with PKU, SOS, making appointments, and health tips will be included.
 - Including the Health Insurance Portability and Accountability Act (HIPAA) and the General Data Protection Regulation (GDPR), all applicable laws and regulations will be followed by the security and privacy features of the system.
+
+For this system, it will include the features below:
+- Medical lab results such as blood pressure, X-ray result, Urine test result, BMI, and so on.
+- Mental Health test (Depression, Anxiety and Stress Scale (DASS)) that will help evaluate the patient's reaction to treatment.
+- Patient pending and waiting time for each medical department to improve the efficiency of PKU.
+- SOS button for emergency calls.
+- Health tips to increase health awareness among students.
+- Announcement of PKU for any activities held.
   
 In final analysis, the proposed Student Health and Wellness System is a broad, but controlled program requiring strict adherence to applicable laws, regulations, and policies. Moreover, intricate and diverse processing must be applied to guarantee maximum efficiency. This necessitates a delicate balance between elaborate, detailed sentences and much simpler, straightforward ones. Ultimately, this strenuous undertaking assures the creation of an effective Student Health and Wellness System.
 
@@ -78,11 +85,29 @@ This section describe the ideal software process model for this system developme
 - It should also describe the testing methodologies, project management practices, and quality assurance processes.
 
 ### 6. Budget:
-- Hardware
-- Testing
-- Contingency
-- Personnel
-- Software
+For the student health and wellness management website which involves around 2000 users, the estimated budget is **RM 550,000**. The budget includes the costs for 6 months of development and 6 months of maintenance for the website.
+- Hardware: **RM 35,000**\
+This could include purchasing or renting servers, storage devices, networking equipment, computers and other hardware necessary for the development and maintenance of the website. The cost might differ depending on the latest requirements of the website and the hardware components chosen.
+
+- Software: **RM 30,000**\
+This could include purchasing or licensing software such as operating systems, web development tools, and security software. The cost of software might differ depending on the latest requirements of the website, the number of licenses required, and the software tools and platforms chosen. To save on software costs, an open-source solution like the MySQL and PHP (LAMP) stack is a suitable alternative, with no cost initially required.
+
+- Testing: **RM 15,000**\
+It requires specialized tests such as functional, performance and security tests to ensure the website functions correctly and meets the requirements. These tests require purchasing and installing specialized test equipment, software and other services that come with their own costs.
+
+- Maintenance: **RM 60,000**\
+This could include post-launch support and bug fixes for 6 months after the website is developed. This budget not only covers the cost of fixing any issues that arise during the maintenance period, but also the addition of new features and the development of any technical upgrades that are required to ensure the website is secure and up-to-date.
+
+- Security: **RM 20,000**\
+This might involve setting in place security measures like firewalls, encryption and frequent security audits to safeguard user data and prevent any cyberattacks. The cost of security implementation might differ based on the website needs as well as the providing services chosen.
+
+- Personnel: **RM 340,000**\
+This could include salaries or fees for the development team members such as developer,user experience designer, quality assurance tester, documentation specialists and requirements analyst designer. The cost for a development team will vary according to their expertise and skill.
+
+- Contingency: **RM50,000**\
+This could include additional funds set aside for any potential expenses or changes in project scope that might occur throughout the website's development and maintenance phases. Such a budget can assist with dealing with possible delays, revisions in the project's scope or any other sudden changes that need additional financial resources. 
+
+In conclusion, the estimated budget is **RM 550,000** which covers the costs for hardware, software, testing, maintenance, security, personnel and contingency. Any potential budget alterations must be relayed to stakeholders and project sponsors.
 
 ### 7. System Architecture:
 #### Presentation Layer:
@@ -132,20 +157,30 @@ To mitigate these risks, a few steps can be taken:
 5. Implement strict access controls: It is important to set up strict access restrictions and allow only those people who truly require access to sensitive information to perform their jobs. Access control lists, role-based access controls, and user authentication can help with this.
 
 ### 9. Resources:
-#### Staff : 
-- 1 User Experience Designer
-- 1 Quality Assurance Tester
-- 1 Documentation Specialists
-- 1 Main Developer
-- 1 Requirements Analyst
+- **Staff Resources** : 
+  - Main Developer : Goh Jiale
+    - Mainly responsible for designing and developing the website as well as troubleshooting and fixing issues
+  - User Experience Designer : Lee Yik Hong
+    - Mainly responsible for designing user interface and user flows 
+  - Quality Assurance Tester : Koh Su Xuan
+    - Mainly responsible for developing test plans and scenarios
+  - Requirements Analyst : Ong Yi Yan
+    - Mainly responsible for gathering and analyzing the requirements from stakeholders 
+  - Documentation Specialists : Tang Yan Qing
+    - Mainly responsible for developing user manuals and system documentation
 
-#### Equipment :
-- Servers
-- Security and backup
-- Software
-- Web Server
-- Data Analytics Tools
-- Relational Database Management System (RDBMS)
+- **Hardware Resources** :
+  - Computer and laptop for each team member
+  - Internet connectivity
+  - Servers for hosting the website
+
+- **Software Resources** :
+  - **Visual Studio Code**: Used for editing code to develop the website. It includes a variety of extensions such as live server which can help to speed up the development process.
+  - **GitHub**: Used for collaborating with other members during the development of the website. It provides tools such as code hosting which make it simpler for teams to collaborate on projects
+  - **Bootstrap Studio**: Used for developing the interface of the website. It provides a big library of pre-built components which makes it simpler to develop a user-friendly and aesthetically pleasing website
+
+- **Other Resources** :
+  - Cloud services
 
 ### 10. Technical Specifications:
 - Platform : Web-based application

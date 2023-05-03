@@ -11,7 +11,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Badal Hajj and Umrah Management System
 
-### Group Tempest :
+## Group Tempest :
 1.Muhammad Anas Bin Mohd Pikri (A21SC0464)
 
 2.Muhammad Luqman Hakim Bin Mohd Rizaudin (A22EC0086)
@@ -20,33 +20,31 @@ Don't forget to hit the :star: if you like this repo.
 
 4.Kugen a/l Kalidas (A22EC0178)
 
----
-
 ### Table of Contents
 - [Executive Summary](#1-executive-summary)
 - [Background](#2-background)
 - [Objectives](#3-objectives)
 - [Scope](#4-scope)
-- [Software Process Mode;](#5-software-process-model)
+- [Software Process Model](#5-software-process-model)
 - [Budget](#6-budget)
 - [System Architecture](#7-system-architecture)
-- [Risks Assesment](#8-risks-assesment)
+- [Risks Assesment](#8-risks-assesments)
 - [Resources](#9-resources)
 - [Technical Specification](#10-technical-specifications)
-- [Timeline and Deliverables](#11-timeline-and-deliverable)
+- [Timeline and Deliverables](#11-timeline-and-deliverables)
 - [Conclusion](#12-conclusion)
 
-### 1. Executive Summary
+## 1. Executive Summary
 - Our proposed Badal Hajj and Umrah management system is an innovative solution designed to facilitate and simplify the registration and handling bulk data process for the management of the company. The system leverages cutting-edge technologies and best practices to deliver a seamless user experience that enables client to easily register their information using the system and can get the all document needed in short period of time. For the user experience in the management side, they can easiy monitor and handle bulk data without losing or overlooked the client information. Key features of this system include real-time processed document, automatic data handling and management and real-time payment. Ultimately, our badal hajj and umrah management system will deliver measurable value to all stakeholders, including increased in client satisfactory, improved workflow of the management and enhanced managing bulk data. By investing in this system, the company will have a smooth and better workflow thus increase the efficiency of the company.
 
-### 2. Background:
+## 2. Background:
 Badal Hajj is the act of performing Hajj for other people that cannot do Hajj on their own in under some circumstances. The time for doing the Badal Hajj is as same as Hajj which is once a year unlike doing Umrah. However, the current manual system which 80% handled by human can be cumbersome, time-consuming and error-prone. The process is characterized by long waiting, paper-based form, use Whatsaap to send and get the information and human error likely to be occur due to managing bulk data. This manual system often reuslt in delays, errors and frustration for both company and client, leading to a neagtive impact on the overall company's name.
 
 Our proposed Badal hajj and Umrah Management System aims to address these challenges by introducing a modern, intuitive and automated sytem that streamlines the workflow. The proposed system leverages the latest technologies and best practices to deliver a seamless user experience for the company and client.  Key features of this system include real-time processed document, automatic data handling and management and real-time payment. The management, they can easiy monitor and handle bulk data without losing or overlooked the client information.
 
 The proposed Badal Hajj and Umrah Management System has the potential to significantly improve overall workflow experience for the company and client. By reducing the management burden of manual processes, the proposed system will save time, reduce errors and increased the client satisfaction. Additionally, the system will provide valuable help to manage all the data that have been received by the client. Overall, the proposed system has the potential to smooth out and simplify the workflow thus can increase the company management efficiency.
 
-### 3. Objectives:
+## 3. Objectives:
 Our proposed Badal Hajj and Umrah Management System aims to achieve the following objectives:
 
 1. Improve efficiency and reduce management burden: The system aims to reduce the time and resources required for manual processes by automating the process. The objective is to streamline the registration process, reduce administrative workload, and reduce human error in managing client information
@@ -60,11 +58,22 @@ Our proposed Badal Hajj and Umrah Management System aims to achieve the followin
 
 Overall, these SMART objectives are specific, measurable, achievable, relevant, and time-bound. They align with the goals and objectives of the project and provide a clear roadmap for achieving the desired outcomes.
 
-### 4. Scope: 
+## 4. Scope:
+
+<img src = "https://raw.githubusercontent.com/drshahizan/software-engineering/main/proposal/submission/sec02/Tempest/PROPOSAL.png" width = "500px">
+
 The Badal Hajj and Umrah management system proposed in this project will included several functionalities and features that are required in order to solve the problems that the company have. This system will be web-based and application software.This is the detail of the features and functionality of the system:
 
+- Top management, middle management and client registration and login.
+- Client main menu that include all services that the company provided.
+- Middle management main menu for editing, updating and viewing all the data that have been received.
+- Top management main menu to see all the data flow in and out in a simplified dashboard.
+ -Payment gateway menu for payment purpose for all of the company services provided.
+- Third-party software usage such as Microsoft Excel and word for saving all the data and for all the documented form.
+- Analytic and reporting for monitoring and evaluating the effectiveness of the system.
 
-### 5. Software Process Model:
+
+## 5. Software Process Model:
 
 <img src = "https://images.ctfassets.net/4zfc07om50my/5wMHnK8XxK9kW99mebdp94/2cc919cd11ba35f6db993977fd0ff674/Agile.png" width = "500px">
 
@@ -87,20 +96,20 @@ The Agile Model is an iterative and incremental approach to software development
 Using the Agile model for the software process model of the Badal Hajj and Umrah Management System project will allow the team to work in an iterative and collaborative manner, with a focus on delivering value to end-users at every stage of the development process.
 
 
-### 6. Budget:
+## 6. Budget:
 Budget is the important requirement that need to be plan at the early stage so that the project can be proceed without being delayed because the short of budget, there are a few things that need to be pointed out in the budget lists: 
 
-Hardware : RM 100
+Hardware : RM 10,000
 
-Software : RM 100
+Software : RM 13,000
 
-Personnel : RM 100
+Personnel : RM 20,000
 
-Testing : RM 100
+Testing : RM 10,000
 
-Back-up funds: RM 400
+Back-up funds: RM 30,000
 
-### 7. System Architecture:
+## 7. System Architecture:
 The Badal Hajj and Umrah Management System is a web-based application that facilitates the management of Hajj and Umrah pilgrimages for individuals or groups. The system architecture consists of the following components:
 
 - User Interface: The user interface is the front-end component of the system that allows users to interact with the system. The UI is designed to be user-friendly and easy to navigate, with features like search functionality, booking management, and payment processing.
@@ -115,13 +124,38 @@ The Badal Hajj and Umrah Management System is a web-based application that facil
 
 Overall, the system architecture is designed to be scalable and maintainable, with a focus on user experience and security. The system can be easily customized to meet the specific needs of different users and organizations.
 
-#### Case Diagram
+### Case Diagram :
 
 ![image](https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Tempest/badalhajj.drawio%20(1).png?raw=true)
 
 As shown in the diagram, the actions that can be performed by different actors have been divided into subsystems. The User subsystem includes actions related to booking and selecting packages and accommodations, confirming or cancelling bookings, and viewing receipts. The System Admin subsystem includes actions related to managing packages and accommodations, updating bookings, and viewing bookings and details. The Top Management subsystem includes actions related to viewing payment reports, generating invoices, and managing accounts. The Finance Department subsystem includes actions related to viewing payment reports, generating invoices, and managing accounts.
 
-### 8. Risks Assessment:
+### Flowchart :
+```sql
+
+USER INTERFACE
+  |
+  V
+APPLICATION SERVER (Node.js/Express)
+  |
+  V
+DATABASE SERVER (MySQL)
+  |
+  V
+PAYMENT GATEWAY (Online Banking)
+  |
+  V
+INTEGRATION
+  |
+  V
+SECURITY MEASURES
+  |
+  V
+ANALYTICS AND REPORTING (Google Analytics/Power BI/Tableau)
+
+```
+
+## 8. Risks Assessment:
 Many types of risks may happen during or after the system being develop or done, one of it is technical risks such as data loss, that can happen if the sytem crash or the program crash during the developing time. Another risk is resourse risk such as insufficient resources to continue the project that might cause a delay to the development process and might not achieve the date line being set. Requirement risk is one of risk that could during the project process as the requirements of the projects might change after a few discussion that lead to reconstruct a new developing path as we need to change or adding a few requirements, misunderstanding in requirements being discussed also could cause a problem as the system will be develop another way and lead to error in system's development.
 
 Here is the list of the risks being discussed :
@@ -149,9 +183,7 @@ We could prevent this risk from happening by :-
 
 5. Develop an emergency plan to deal with the requirements issue as the problems might occur and the developing process will not be delay.
 
----
-
-### 9. Resources:
+## 9. Resources:
 
 Resources divided into 4 different types which are staff,equipment,software and other expenses
 
@@ -182,66 +214,28 @@ Resources divided into 4 different types which are staff,equipment,software and 
 
 2. Emergency fund 
 
-### 10. Technical Specifications:
-- Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
-- Mention the programming languages, frameworks, and libraries that will be used in the project.
-- Provide details about the hardware and software requirements for the proposed system.
-- Explain the data security measures that will be implemented.
+## 10. Technical Specifications:
+Technical specification is important in this proposed system as the company should know all the hardware and software that will be used in this system. This is all the technical specification that will be used in this system:
 
-### 11. Timeline and Deliverables: 
-<ul>
-<li><h3>Phase 1: Project Planning and Requirements Gathering</h3></li>
-<ul>
-<li><h4>Milestone 1: Project plan and system design completed (Deadline: end of Month 2)</h4></li>
-<ul>
-<li>Deliverables: Project plan, system architecture diagram and user requirements report</li>
-<li>Expected duration: 2 month</li>
-<li>Resources required: Project manager, Software developers, UI/UX designers</li>
-</ul>
-</ul>
+- Platform: The system would need to be web-based and app-based that can connect and accessible from any device with and internet connection such as desktop, laptop, tablet and smartphone. The system also should be compatible with variety of operating system such as Windows, macOS, android, iOS and HarmonyOS.
+- Programming languages and technologies: all the language that will be used are Java, Python, and PHP for the backend language. For the Frontend language are HTML, CSS, JavaScript, React, Angular, and Vue.js.
+- Database Management Systems: MySQL, PostgreSQL, and MongoDB are the choices for managing the system's data. They offer reliable, scalable, and secure database solutions for storing and retrieving data.
+- Payment Gateway Integration: Payment gateway integrations can be achieved using APIs provided by popular payment gateway providers such as online banking and Touch and Go. Client also can use the ATM machine for the payment and take the picture of the receipt for the evident.
+- Security Measures: The system's security will be enhanced using technologies like SSL certificates, encryption algorithms, and firewalls to protect user data and prevent unauthorized access.
+- Analytics: Analytics and data visualization will be implemented using tools such as Google Analytics, Power BI, or Tableau to track user behavior, generate reports, and provide insights to system administrators.
+- Integration: The system should have the capabilities to integrate with third-party sevices such as social media platform, Microsoft 365 or Google Workspace and payment services to provide a smooth and seamless experience to all of the stakeholder.
 
-<li><h3>Phase 2: System design and Development</h3></li>
-<ul>
-<li><h4>Milestone 2: Design system architecture and user interface (Deadline: end of Month 6)</h4></li>
-<ul>
-<li>Deliverables: Login/registration system, dashboard, feedback forms, and data management system</li>
-<li>Expected duration: 4 months</li>
-<li>Resources required: Software developers, database administrators</li>
-</ul>
-</ul>
+## 11. Timeline and Deliverables: 
 
-<li><h3>Phase 3: Testing and Quality Assurance</h3></li>
-<ul>
-<li><h4>Milestone 3: Perform system integration testing,acceptance testing, unit testing and debugging (Deadline: end of Month 9)</h4></li>
-<ul>
-<li>Deliverables: Quality assurance (QA) report,unit testing report,system integration and acceptance testing report and bug fixes</li>
-<li>Expected duration: 3 months</li>
-<li>Resources required: Quality assurance team, software developers</li>
-</ul>
-</ul>
+| Phase      | Milestone           | Deliverables  | Resources required |
+| :-------------: |:-------------:| :-----:|:-----: |
+|I: Project Planning and Requirements Gathering|Project plan and system design completed |Project plan, system architecture diagram and user requirements report|Project manager, Software developers, UI/UX designers|
+|II: System design and Development | Design system architecture and user interface | Login/registration system, dashboard, feedback forms, and data management system| Software developers, database administrators|
+|III: Testing and Quality Assurance|Perform system integration testing,acceptance testing, unit testing and debugging |Quality assurance (QA) report,unit testing report,system integration and acceptance testing report and bug fixes| Quality assurance team, software developers|
+|IV: User Acceptance Testing and Deployment|Perform user acceptance testing and deploy system|User acceptance testing (UAT) report, system deployment, and user manual|Quality assurance team, software developers, project manager|
+|V: Project Closure and Handover| Project closed and system handed over to the company| Final project report, source code, and system documentation|Project manager, software developers, documentation team|
 
-<li><h3>Phase 4: User Acceptance Testing and Deployment</h3></li>
-<ul>
-<li><h4>Milestone 4: Perform user acceptance testing and deploy system (Deadline: end of Month 11)</h4></li>
-<ul>
-<li>Deliverables: User acceptance testing (UAT) report, system deployment, and user manual</li>
-<li>Expected duration: 2 months</li>
-<li>Resources required: Quality assurance team, software developers, project manager</li>
-</ul>
-</ul>
-
-<li><h3>Phase 5: Project Closure and Handover</h3></li>
-<ul>
-<li><h4>Milestone 5: Project closed and system handed over to the company (Deadline: end of Month 12)</h4></li>
-<ul>
-<li>Deliverables: Final project report, source code, and system documentation</li>
-<li>Expected duration: 1 month</li>
-<li>Resources required: Project manager, software developers, documentation team</li>
-</ul>
-</ul>
-</ul>
-
-### 12. Conclusion:
+## 12. Conclusion:
 The Badal Hajj system aids the company in the registration process of the clients and reduce the duration taken for the registration process where most of the process is done through the system that provides better management of bulk data. The system will also help the company to reduce the error throughout the registartion process as the system apllies auto data-handling principle. The proposal of Badal Hajj system is constructed based on thorough analysis and reasonable budget planning which helps to create a successful system that provides many benefits to both party which are the company and the clients.
 
 ---

@@ -16,6 +16,8 @@ Don't forget to hit the :star: if you like this repo.
   3. Low Ying Xi A22EC0187
   4. Ng Shu Yu A22EC0228
 
+<hr style="border:0.5px solid gray;height:0.5px;">
+
 ### 💫Table of Contents
 * [Table of Contents](#table-of-contents)
 * [Executive Summary](#1-executive-summary)
@@ -31,9 +33,12 @@ Don't forget to hit the :star: if you like this repo.
 * [Timeline and Deliverables](#11-timeline-and-deliverables)
 * [Conclusion](#12-conclusion)
 
+<hr style="border:0.5px solid gray;height:0.5px;">
   
 ### 1. Executive Summary📝:
 Our proposed UTM Event Management System is a comprehensive solution aimed at simplifying and streamlining the processes of event management for organisers, attendees, and administrators. To achieve this, we're using cutting-edge technology and industry best practises to create a seamless user experience that makes it simple for event planners to plan and carry out successful events and for attendees to find, register for, and participate in events. The key features of our system include real-time event scheduling, registration, various types of activities and merit, and feedback capabilities. These features enable event planners and administrators to optimise event preparation, track performance, and make data-driven decisions. A user-friendly interface and  integration with various social media sites would also be helpful to attendees. Ultimately, our UTM Event Management System will provide measurable value to all stakeholders, resulting in increased event participation, better engagement and satisfaction, and a stronger institutional reputation. By investing in our system, UTM will be at the forefront of event management technology and innovation.
+
+<hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 2. Background📄:
 Events are an essential part of the University of Technology, Malaysia (UTM) experience. However, the current manual process of managing events is time-consuming, prone to errors, and lacks the ability to provide real-time information about event performance. These difficulties have had a detrimental effect on participants' overall experiences, leading to poor event organisation and low participation rates.
@@ -44,32 +49,44 @@ All stakeholders, including organisers, attendees, and administrators, stand to 
 
 In summary, the UTM Event Management System proposal seeks to address the challenges associated with the current manual event management process by introducing a modern, automated, and user-friendly solution that provides measurable benefits and enhances the overall experience of all stakeholders. The proposed system has the potential to transform event management at UTM, improve event outcomes, and enhance UTM's reputation as a leading institution of higher learning.
 
+<hr style="border:0.5px solid gray;height:0.5px;">
+
 ### 3. Objectives📖:
 #### Specific: 
-To provide a user-friendly system for students to explore, sign up for, and provide feedback on campus events, including club activities and official university events.
+* To digitise and automate the paperwork process for JKM event planning and project management within KTDI.
+* To reduce paper usage and increase efficiency in managing event-related documents.
 
 #### Measurable: 
-To increase student engagement and participation in campus events by 20% within the first year of system implementation, as measured by the number of event registrations and attendance.
+* To reduce paper usage by a minimum of 50% within the first year of the system’s implementation.
+* To decrease the time required to process paperwork by the KTDI college staff members by at least 30%.
+* To increase the accuracy and completeness of event-related paperwork by 25%.
 
 #### Achievable: 
-To develop and launch the initial version of the system within two months, and to continually improve and update the system based on user feedback.
+* To achieve widespread adoption of the event management system by at least 80% of JKM KTDI committee members within the first year.
+* To provide comprehensive training and support to users of the system (JKM KTDI and KTDI office staff members) to ensure successful implementation.
 
 #### Relevant: 
-To address the problem of limited access and awareness of campus events, and to enhance the overall student experience by providing an efficient platform for event planning, organisation, and participation.
+* To align with sustainability goals by reducing paper usage and promoting digital processes.
+* To support the commitment to providing efficient and effective administrative services to JKM KTDI and KTDI office staff members.
 
 #### Time-Bound: 
-To complete the aforementioned goals within the upcoming two months and keep track of and continuously assess the system's effectiveness and impact.
+* To fully implement the event management system within the JKM KTDI by the end of the current academic year.
+* To achieve the above-stated measurable objectives within the first year of implementation.
+
+<hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 4. Scope🔍: 
-Our proposed system is named <b>UTM Event Management System</b>. It will provide a web-based platform to let the event organizers plan, manage, and execute events more efficiently.
+Our proposed system is named <b>UTM Event Management System</b>. It will provide a web-based platform to let the event organisers plan, manage, and execute events more efficiently.
 This web-based system will include the following features or functionality:
--	Event planning and organization.
--	Event registration.
--	Onsite management to monitor the event progress.
+-	Event planning and organisation.
+-	Agenda and schedule management.
+- Software integration to reduce paper usage and to ensure the efficient conduct of the proceedings.
+-	Onsite management to coordinate with the event organisers,monitor and track the event progress.
 -	Analytics and reporting for evaluating the effectiveness of the system.
 -	Attendee engagement to identify areas for improvement.
--	Our system is limited to Kolej Tun Dr. Ismail (KTDI) events only and it will not provide any access to the other organizers such as PERSAKA club, AIESEC, Losting Music Club, etc.
+-	Our system is limited to Kolej Tun Dr. Ismail (KTDI) management only such as Student Residential College Committee (JKM), Fellow, Assistant Fellow, College Principal and the staff. It would not provide any access to the students and other organisers.
 
+<hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 5. Software Process Model🛠️:
 A software process model's main objective is to offer a framework for the systematic and organised development of software. It offers a collection of tasks, products, and deadlines to make sure the software is created quickly and effectively. A software process model's main objective is to make sure that the software is high-quality, delivered on time, and within budget while also meeting the requirements of the stakeholders.
@@ -102,7 +119,7 @@ During this stage, the team will test the system to make sure it complies with t
           <th>Progress</th>
         </tr>
       </thead>
-      <tbody>
+      <tbody style="border-collapse: collapse;"> 
         <tr>
           <td rowspan="2">Phase 1: Planning</td>
           <td>Defines the project's objectives, requirements, and scope. Creates a plan for the project that includes deadlines and checkpoints.</td>
@@ -133,6 +150,7 @@ During this stage, the team will test the system to make sure it complies with t
           <td>Drafts a design document that includes the user stories, user journey maps, wireframes, prototypes, architectural diagram, and technical design document. </td>
           <td>Documentation Specialist</td>
           <td>1 Week</td>
+          <td>Incomplete</td>
         </tr>
         <tr>
           <td rowspan="2">Phase 3: Development</td>
@@ -213,6 +231,7 @@ We can use Agile project management practices such as Scrum to manage the projec
 #### Quality Assurance Processes: 
 The quality assurance analyst along with the team members will ensure that the system meets the quality standards by performing various testing activities and creating test reports. The main developer and developer assistant will also perform unit testing and code reviews to ensure the quality of the code.
 
+<hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 6. Budget💰:
 The development of the academic course registration system for 30,000 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at **RM 900,000**, as outlined below:
@@ -237,6 +256,7 @@ It is always recommended to have a contingency plan for unexpected expenses that
 
 In conclusion, the estimated budget for the development of the UTM Event Management System is RM 900,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingency. Any changes in the budget will be communicated to stakeholders and project sponsors.
 
+<hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 7. System Architecture🖥️:
 
@@ -260,25 +280,57 @@ To improve the load time of the page, we can implement caching techniques such a
 The block diagram for the proposed system architecture is as follows:
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Curiousity/system%20architecture.png" alt="SystemArchitecture"></img>
 
+<hr style="border:0.5px solid gray;height:0.5px;">
+
 ### 8. Risks Assessment⚠️:
-- The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
-- It also describe the plans and strategies to mitigate those risks.
 
-#### 1. Technical risks: 
-The system runs the risk of experiencing technical problems like software bugs, compatibility problems, or system failures. The development team will carry out extensive testing and quality assurance procedures to guarantee the system's functionality and stability in order to reduce this risk. Additionally, the team will implement a backup and recovery plan to minimise any potential data loss or system downtime.
+<table style="border-collapse: collapse;">
+      <thead>
+        <tr>
+          <th>Risks</th>
+          <th>Issues</th>
+          <th>Explanation</th>
+          <th>Mitigation Plan</th>
+        </tr>
+      </thead>
+      <tbody style="border-collapse: collapse;"> 
+        <tr>
+          <td rowspan="2">Technical Risks</td>
+          <td>Compatibility issues</td>
+          <td>The system might not work properly or be as useful if it is not compatible with all operating systems or devices.</td>
+          <td>To make sure the system functions properly in a variety of settings, the development team will put it through thorough compatibility testing on numerous platforms.</td>
+        </tr>
+        <tr>
+          <td>Security risk</td>
+          <td>The system might be open to cyberattacks, which could compromise user data and harm the project team's reputation.</td>
+          <td>The team is committed to industry-standard security protocols and best practices. To find and fix any vulnerabilities, regular security audits and penetration tests will also be carried out.</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Resource Risks</td>
+          <td>Financial limitations</td>
+          <td>The project might experience difficulties that prevent the team from delivering all of the intended features and functionality.</td>
+          <td>The project team will prioritise development efforts based on the budget at hand and, if necessary, look for alternative funding sources. Throughout the development process, the team will look into opportunities for cost reduction and efficiency improvements.</td>
+        </tr>
+        <tr>
+          <td>Staff turnover</td>
+          <td>The project timeline may be affected and the team's expertise could be reduced if significant team members leave before the project is finished.</td>
+          <td>To make sure that every team member fully comprehends the project's objectives, specifications, and technical requirements, the project team will maintain thorough documentation and knowledge transfer protocols. To lessen the effects of staff turnover, the team will also cross-train team members and find potential successors for key roles.</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Requirements Risks</td>
+          <td>Adapting stakeholder needs</td>
+          <td>As stakeholders' needs and expectations change, the project requirements may also change, which could lead to scope creep or project delays. </td>
+          <td>The team will keep in regular contact with stakeholders to make sure that their requirements and expectations are understood and that any changes to the project's requirements are formally documented and approved.
+        </tr>
+        <tr>
+          <td>Insufficient user testing</td>
+          <td> If the project does not receive enough user feedback during the testing phase, it may have usability problems or functional flaws.</td>
+          <td>Before the system is made public, the project team will carry out extensive user testing and feedback sessions to find and fix any usability problems or functional flaws. After the system is launched, the team will also invite users to continue offering feedback and suggestions for enhancement.</td>
+      </tbody>
+    </table>
 
-#### 2. Resource constraints: 
-There is a chance that the project will experience resource limitations due to a lack of funding, personnel, or time. The development team will effectively allocate resources and set project task priorities in order to reduce this risk. In order to access more funding and support, the team will also look into potential alliances and collaborations with outside groups.
 
-#### 3. Changes in project requirements: 
-During the development process, there is a likelihood that the project requirements may alter because of feedback from stakeholders or shifting conditions. The requirement analysis team will keep lines of communication open with stakeholders and regularly review and update the project requirements to ensure alignment with the project's goals and objectives in order to reduce this risk.
-
-#### 4. Security risks: 
-The possibility exists that the system could be exposed to security flaws like hacking or unauthorised access. The development team will put strong security measures, such as encryption, authentication, and access control, into place to lessen this risk. 
-
-#### 5. Adoption risks: 
-Due to lack of awareness or competing options, there is potential that the system will not be widely used by students and other users. The user experience designer team will carry out extensive user research and design the system to be accessible and user-friendly in order to reduce this risk. To increase awareness and promote adoption, the team will also employ focused marketing and promotional strategies.
-
+<hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 9. Resources📍:
 To successfully deliver the academic course registration system, the following resources are required:
@@ -317,6 +369,8 @@ Total Other Expenses: RM 296,000
 
 Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
 
+<hr style="border:0.5px solid gray;height:0.5px;">
+
 ### 10. Technical Specifications🌐:
 <table>
   <tr>
@@ -325,8 +379,7 @@ Note: All costs mentioned above are estimates and are subject to change based on
       <ul>
         <li>Event data which includes information about the event itself, such as the date, time, location and event type.</li>
         <li>Attendee data which includes attendee information such as names,email addresses,phone numbers and other contact details.</li>
-      <li>The survey tools integrated with the event management system will collect data and provide insights into attendee satisfaction, areas of improvement, and future event ideas.</li>
-  </ul>
+      </ul>
     </td>
   </tr>
   
@@ -394,6 +447,8 @@ Note: All costs mentioned above are estimates and are subject to change based on
   </tr>
 </table>
 
+<hr style="border:0.5px solid gray;height:0.5px;">
+
 ### 11. Timeline and Deliverables📅: 
 -Below is the timeline and deliverables of the project:
     <table style="border-collapse: collapse;">
@@ -452,6 +507,8 @@ Quality Assurance and Testing Procedures
 - Manual System Testing: After the front-end and back-end of the system are developed, a quality assurance analyst will perform manual system testing to ensure that the system works correctly as a whole.
 - User Acceptance Testing: End users will perform testing on the system to ensure that it meets their requirements and expectations.
 - Bug Fixing: Any issues or bugs found during testing will be addressed by the development team and retested before being deployed.
+
+<hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 12. Conclusion✏️:
 
