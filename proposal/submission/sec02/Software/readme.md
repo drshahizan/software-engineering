@@ -45,26 +45,29 @@ The Student Health and Wellness website will not only offer invaluable health-re
 - To improve the overall wellbeing of university students by using an innovative strategy to provide direct access to medical resources, introduce personalized health tracking tools and offer reliable health tips and advice. 
 
 (Example：The proposed system will reduce the PKU processing for time by 25%, resulting in a 25% reduction in administrative workload.)
+
 - To provide students with a platform to communicate and interact with medical professionals at the PKU facility, gain medical advice, and schedule appointments for medical services.
 
-(Example：The proposed system aims to make medical services more efficient, with a projected decrease of 15% in workload. This is done to achieve a 30% decrease in the percentage of patients visiting by walk-in, while at the same time increasing the use of online consultation 30%. By utilizing a combination of intricate prose and various sentence structures, the proposed system is expected to revolutionize healthcare delivery.)
+(Example：Revolutionizing healthcare delivery is the intended outcome of the proposed system, resulting in a 30% increase in online consultations and a 15% decrease in workload. The goal of the changes is to attract fewer walk-in patients, lowering their percentage by 30%. This innovative approach utilizes complex wording and sentence construction to streamline medical services.)
 
-- To provide a quick and easy way for students to have an expedient avenue of emergency help with immediate assistance through calling for help to PKU.
+- To provide a swift and easy way to get an immediate avenue for help in times of crisis to students by calling PKU for emergency assistance.
 
-(Example: The proposed system will decrease health issues at the university by 30% through the emergency button provided and increase the efficiency of PKU emergency help by 30%.)
+(Example: At a 30% improvement rate, the PKU emergency assistance system will become much more efficient due to the proposed emergency button. Overall, the university's emergency health issues will also see a 30% reduction.)
 
-- To collect and analyze data on student health trends, enabling PKU to better understand the health needs of the student population and provide targeted interventions.
+- To enable PKU to better understand the health needs of the student population and provide targeted interventions through the collection and analysis of data inside the system..
+
+(Example: This will increase the efficiency of diagnosing health needs and infections among students by 20% and increase the healthcare service to students by 25%.)
 
 
 ### 4. Scope: 
-The Student Health and Wellness Management System proposed in this project will be limited to the development, implementation, and maintenance of the software application. The scope of the project does not include any hardware or infrastructure upgrades or any changes to existing policies or procedures.  
+This project's proposition entails a software application targeting the Domain of Student Health and Wellness Management System. The project will solely focus on developing, implementing, and maintaining the software application, setting aside various other factors such as any hardware or infrastructure upgrades, as well as changes to existing policies or procedures.
   
-The boundaries of the project will be defined by the following:  
-- The Student Health and Wellness Management System will be designed to integrate seamlessly with the existing student information system, and the development team will work closely with the system's administrators to ensure compatibility.  
-- The proposed system will only include features related to student health and wellness, including health tracking, online chat with PKU, SOS, making appointments, and health tips. Any additional features requested by stakeholders will be considered out of scope and require further analysis.  
-- The system's security and privacy features will be designed to comply with all relevant laws and regulations, including the Health Insurance Portability and Accountability Act (HIPAA) and the General Data Protection Regulation (GDPR).  
+Defined by the following will be the boundaries of the project:
+- Seamlessly integrating with the current student information system, the Student Health and Wellness Management System is set to be crafted by a development team that will make sure it's compatible with the administrators' goals. Close cooperation will ensure a compatibility that won't become a hassle.
+- Out of scope and further analysis will be required for any additional features requested by stakeholders of the proposed system. In terms of student health and wellness, only health tracking, online chat with PKU, SOS, making appointments, and health tips will be included.
+- Including the Health Insurance Portability and Accountability Act (HIPAA) and the General Data Protection Regulation (GDPR), all applicable laws and regulations will be followed by the security and privacy features of the system.
   
-Overall, the proposed Student Health and Wellness Management System's scope is defined by the project's boundaries, limitations, and constraints, and it will be developed and implemented in a manner that ensures compliance with all relevant laws, regulations, and policies.
+In final analysis, the proposed Student Health and Wellness System is a broad, but controlled program requiring strict adherence to applicable laws, regulations, and policies. Moreover, intricate and diverse processing must be applied to guarantee maximum efficiency. This necessitates a delicate balance between elaborate, detailed sentences and much simpler, straightforward ones. Ultimately, this strenuous undertaking assures the creation of an effective Student Health and Wellness System.
 
 ### 5. Software Process Model:
 This section describe the ideal software process model for this system development. The write-up must consist of:
