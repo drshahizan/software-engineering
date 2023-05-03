@@ -9,16 +9,16 @@
 
 ### Table of Contents
 1. [Executive Summary](#executive-summary)
-2. [Background](#background)<br>
-3. [Objectives](#objectives)<br>
+2. [Background](#background)
+3. [Objectives](#objectives)
 4. [Scope](#scope)
-5. [Software Process Model](#software-process-model)<br>
-6. [Budget](#budget)<br>
-7. [System Architecture](#system-architecture)<br>
-8. [Risk Assessment](#risk-assesment)<br>
-9. [Resources](#resources)<br>
-10. [Technical Specifications](#technical-specifications)<br>
-11. [Timeline and Deliverables](#timeline-and-deliverabels)<br>
+5. [Software Process Model](#software-process-model)
+6. [Budget](#budget)
+7. [System Architecture](#system-architecture)
+8. [Risk Assessment](#risk-assesment)
+9. [Resources](#resources)
+10. [Technical Specifications](#technical-specifications)
+11. [Timeline and Deliverables](#timeline-and-deliverabels)
 12. [Conclusion](#conclusion)
  
   
