@@ -117,66 +117,9 @@ Overall, the system architecture is designed to be scalable and maintainable, wi
 
 #### Case Diagram
 
-``` sql
-              +-------------------------------------+
-              |                                     |
-              |              Badal Hajj             |
-              |         and Umrah System            |
-              |                                     |
-              +-------------------------------------+
-                                |
-    +-----------+------------+------------+
-    |           |                         | 
-   User  System Admin              Top Management
-    |           |                         |
-    +-----+-----+-----+                   |
-          |           |                   |
-          |           |            View Booking Details
-          |           |                   |
- +--------+-------+   |                   |
- |                |   |                   |
-View Available  Book |                   |
-   Packages    Package            View Finalized Data
- |                |   |                   |
-Select Dates Confirm/ |                   |
-  and Time   Cancel |                   |
- |                |   |                   |
-Select           |   |                   |
-Accommodation |  View |                   |
- |            |Booking|                   |
-Confirm Booking|     |                   |
- |            |     |                   |
-Make Payment  |     |                   |
- |            |     |                   |
-View Payment |     |                   |
- |            |     |                   |
-View Receipt |     |                   |
- |            |     |                   |
-View All      |     |                   |
-Bookings and  |     |                   |
-Details       |     |                   |
- |            |     |                   |
-Manage        |     |                   |
-Packages and  |     |                   |
-Accommodations|     |                   |
- |            |     |                   |
-Update Booking|     |                   |
-(e.g., change |     |                   |
-dates)        |     |                   |
- |            |     |                   |
-View All      |     |                   |
-Bookings      |     |                   |
- |            |     |                   |
-View Booking  |     |                   |
-Details       |     |                   |
- |            |     |                   |
-View All      |     |                   |
-Data          |     |                   |
- |            |     |                   |
- +-----------+-----+------+--------------+
+![image](https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Tempest/badalhajj.drawio%20(1).png?raw=true)
 
-
-```
+As shown in the diagram, the actions that can be performed by different actors have been divided into subsystems. The User subsystem includes actions related to booking and selecting packages and accommodations, confirming or cancelling bookings, and viewing receipts. The System Admin subsystem includes actions related to managing packages and accommodations, updating bookings, and viewing bookings and details. The Top Management subsystem includes actions related to viewing payment reports, generating invoices, and managing accounts. The Finance Department subsystem includes actions related to viewing payment reports, generating invoices, and managing accounts.
 
 ### 8. Risks Assessment:
 Many types of risks may happen during or after the system being develop or done, one of it is technical risks such as data loss, that can happen if the sytem crash or the program crash during the developing time. Another risk is resourse risk such as insufficient resources to continue the project that might cause a delay to the development process and might not achieve the date line being set. Requirement risk is one of risk that could during the project process as the requirements of the projects might change after a few discussion that lead to reconstruct a new developing path as we need to change or adding a few requirements, misunderstanding in requirements being discussed also could cause a problem as the system will be develop another way and lead to error in system's development.

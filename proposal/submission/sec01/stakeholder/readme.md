@@ -209,7 +209,29 @@ Agile methodology for developing the Student Accommodation System in Kolej Tun D
       </tr>
     </table>
     
-In conclusion, the Agile methodology is an effective software process model for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) because it emphasizes flexibility, collaboration, and continuous customer feedback. It allows the development team to respond quickly to changes in requirements and deliver high-quality software in shorter development cycles.
+#### Testing methodologies:
+To assure the quality and functionality of the system, the following are carrying out:
+  - Unit testing 
+  - Integration testing
+  - System testing
+  - Acceptance testing
+  - Usability testing
+    
+#### Project management techniques:
+Leverage technologies like below are used to track progress and guarantee task completion on time:
+  - Kanban boards
+  - Sprint planning
+  - Regular stand-up meetings 
+    
+#### Quality assurance procedures: 
+To maintain code quality and reduce errors, the procedures are as follows:
+  - Code review
+  - Continuous integration
+  - Automated testing
+    
+These procedures are essential for ensuring the effective deployment and operation of the KTDI system for student accommodation.
+    
+In conclusion, the Agile methodology is an effective software process model for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) because it emphasizes flexibility, collaboration and continuous customer feedback. It allows us, the development team to respond quickly to changes in user requirements and deliver high-quality software in shorter development cycles.
 
 ---
 
@@ -238,7 +260,7 @@ In shorts, the expected budget for the development of the student accommodation 
 ### 7. System Architecture
   
 #### System Architecture Overview:
-The proposed architecture for the student accommodation system project at Kolej Tun Dr Ismail will consist of five layers: the presentation layer, the application layer, the data layer, the data visualisation layer as well as the server layer.
+The proposed architecture for the student accommodation system project at Kolej Tun Dr Ismail will use a 3-Tier Architecture which consist of three layers: the presentation layer, the application layer and the data layer.
  
 - Presentation Layer: <br>The presentation layer is the front-end of the system that users will interact with. It will consist of a web-based user interface built using the ReactJS as the font-end JavaScript library and designed by Bootstrap framework with HyperText Markup Language (HTML), Cascading Style Sheets (CSS) as well as JavaScript. The presentation layer then will be responsible for presenting the data to the users and allowing them to interact with the well designed system in order to have a better user experience.
     
@@ -246,10 +268,6 @@ The proposed architecture for the student accommodation system project at Kolej 
     
 - Data Layer: <br>In this layer consists of the database system, we will use MySQL database management system to store and manage the data of user information and other related data. The data layer will be responsible for storing and retrieving data from the database.
     
-<!-- Data Visualisation Layer: <br>The Data Visualization Layer will be responsible for presenting the data in an understandable and interactive format for the end-users. This layer will use visualisation libraries which are D3.js and Chart.js. 
-    
-- Server Layer: <br>The server layer will be responsible for hosting and managing the system and its components. In this layer, we will use the Apache HTTP Server as the web server software to handle the HTTP requests and responses between the users and the web-based front-end.-->
-  
 
 #### Data Storage and Management:
 MySQL will be used as the Relational Database Management System (RDBMS) to store and manage the website data. All the data collected will be stored and organised in the form of table which representing a specific type of data such as maintainance records, student records, room records and accommodation application records. 
@@ -281,28 +299,8 @@ ii. Software requirements
 The proposed system architecture can be visualized using the following flowchart:
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/flowchart.png">
 
-High-level diagram that represents our proposed system architecture:
-```sql
-+----------------------------------------------------+
-|               Relational Database                  |
-+----------------------------------------------------+
-|                     MySQL                          |
-+----------------------------------------------------+
-              ^                     ^
-              |                     |
-              |                     |
-   +------------------+     +------------------+
-   |    Web Platform  |     |    Web Server    |
-   |     (React.js)   |     |    (Apache)      |
-   +------------------+     +------------------+
-              ^                     ^
-              |                     |
-              |                     |
-+----------------------------------------------------+
-|              User-Facing Interfaces                |
-|                (Web Applications)                  |
-+----------------------------------------------------+
-``` 
+High-level diagram that represents our proposed system architecture:<br>
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/leveldiagram.png">
   
 ---
 
@@ -421,7 +419,7 @@ IV. Other Expenses:<br>
 <table>
   <thead>
     <tr>
-      <th>Year</th>
+      <th>Period</th>
       <th>Milestone</th>
       <th>Deliverables</th>
       <th>Resources</th>
