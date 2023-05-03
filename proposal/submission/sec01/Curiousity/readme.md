@@ -97,18 +97,25 @@ The Agile process model consists of the following phases:
 
 <img src="https://agilie.com/_next/image?url=/api/imageproxy?url=https%3A%2F%2Fd12zh9bqbty5wp.cloudfront.net%2Fimages%2Ff9e66e179b6747ae54108f82f8ade8b3c25d76fd30afde6c395822c530196169-1674685166733.png&w=1920&q=75" alt="Agile"></img>
 
-#### 1. Planning and Design Phase: 
-During this stage, the team establishes the project's scope, objectives, and goals. A product backlog, which is a prioritised list of the system's features or requirements, is also created by the team. The requirement analyst team works in conjunction with the stakeholders during this phase to compile and assess the system requirements. The group then develops user stories, which are concise, controllable chunks of functionality that can be worked on iteratively. The team will develop a thorough system design, complete with user interfaces, data models, and system architecture, during this phase. The team will also develop a mockup or prototype of the system so that stakeholders can give input and verify that the design satisfies their requirements.
+#### 1. Planning Phase: 
+During this stage, the project manager will establish the project's scope, objectives, and goals, while taking into account the requirements of the stakeholders. The team will create a product backlog that prioritises the system's features or requirements, and defines the milestones, deadlines, and checkpoints. This will ensure that the project stays on track and within the set timeline.
 
-#### 2. Development Phase:
-The team will start coding the system and integrating the various components throughout this phase. To make sure that the code is functioning as expected and that the system is meeting the project requirements, this phase calls for frequent testing and teamwork.
+#### 2. Design Phase:
+The team will create the system's architecture, data models, user interfaces, and user experience during this phase. In order to obtain feedback from the stakeholders and make sure that the design meets their needs, the user experience designer will also create a mockup or prototype of the system. To ensure that the system design is feasible and meets the project's goals, it will be thoroughly reviewed and documented.
 
-#### 3. Testing and Deployment Phase:
-During this stage, the team will test the system to make sure it complies with the specifications and performs as anticipated. System testing, integration testing, and unit testing are all included in this. To make sure the system satisfies users' needs and expectations, the team will also collaborate with stakeholders to carry out user acceptance testing. For deployment, the team will deploy the system to the production environment and make it available to users. This includes final testing and validation, as well as training for users and support staff.
+#### 3. Development Phase:
+The team will begin coding and integrating the various system components during this phase. The main developer will keep an eye on the process and guarantee that the code complies with the standards and guidelines established by the project. The team will collaborate, and the code will be frequently checked to make sure it performs as expected. Throughout this phase, testing will be done to find any flaws and make sure the code complies with project requirements.
 
+#### 4. Testing Phase:
+Unit testing, integration testing, system testing, and user acceptance testing are a few of the tests the system will go through at this stage. To make sure the system follows the requirements and operates as intended, the main developer will test the system. The team will conduct user acceptance testing in conjunction with stakeholders to ensure that the system meets users' needs and expectations.
 
-#### Gantt Chart: 
+#### 5. Deployment Phase: 
+The main developer will deploy the system to the production environment during this phase, making it accessible to the users (JKM KTDI and KTDI college office staff and fellow members). The system will undergo final testing and validation to make sure it is ready for use. To ensure the system is successfully adopted, users and support personnel will receive training, and any required documentation will be made available.
 
+#### 6. Maintenance Phase
+The team will ensure the system's upkeep and maintenance during this phase, including bug fixes, software updates, and any necessary improvements. The objective is to maintain the system's smooth operation and adapt to the users' changing needs. The team will carry out routine assessments to make sure the system keeps up with the project's goals and stakeholder expectations.
+
+### Gantt Chart: 
   <table style="border-collapse: collapse;">
       <thead>
         <tr>
@@ -155,7 +162,7 @@ During this stage, the team will test the system to make sure it complies with t
         <tr>
           <td rowspan="2">Phase 3: Development</td>
           <td>Develops the system code and unit tests. Integrates the code and performs integration testing. </td>
-          <td>Quality Assurance Analyst</td>
+          <td>Main Developer</td>
           <td>6 Weeks</td>
           <td>Incomplete</td>
         </tr>
@@ -217,14 +224,10 @@ During this stage, the team will test the system to make sure it complies with t
 The testing methodologies that will be used are black-box testing, white-box testing, and grey-box testing.
 
 * Black-box testing:
-Also referred to as functional testing or behavioural testing, is a testing technique where the tester is unaware of the internal workings of the system being tested. The tester in this method only has access to the system's inputs and outputs, and they test the system's functionality in accordance with its specifications and requirements. In our case, the system's end users (students) will conduct this kind of testing.
+Also referred to as functional testing or behavioural testing, is a testing technique where the tester is unaware of the internal workings of the system being tested. The tester in this method only has access to the system's inputs and outputs, and they test the system's functionality in accordance with its specifications and requirements. In our case, the system's end users (JKM KTDI and KTDI college office staff and fellow members) will conduct this kind of testing.
 
 * White-box testing
 Also known as structural testing, is a testing technique where the tester is aware of how the system being tested operates on the inside. This approach involves running tests on the system's internal components, such as code or algorithms, to make sure they work as intended. Developers or testers with access to the source code (the team members) of the system being tested usually carry out white-box testing.
-
-* Grey-box testing:
-With this approach, the tester is only partially aware of how the system being tested operates internally. This enables them to test the system's functionality and internal structures to make sure everything is operating as it should. Grey-box testing is typically carried out by testers who have some familiarity with the inner workings of the system but not enough to carry out thorough white-box testing. In this case, it will be the IT administrator staff.
-
 
 #### Project Management Practices: 
 We can use Agile project management practices such as Scrum to manage the project. The team can have daily stand-up meetings, sprint planning, sprint review, and retrospective meetings.
