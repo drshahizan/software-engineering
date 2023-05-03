@@ -64,11 +64,23 @@ The review phase involves reviewing the software and identifying areas for impro
 Testing methodologies such as unit testing, integration testing, system testing, and acceptance testing are used to assure the quality and functionality of the system. The project management practices for this project include regular communication, project tracking, risk management and change management. Lastly, the quality assurance processes for this project are code reviews, testing and continuous integration.
 
 ### 6. Budget:
-<li>Salaries: Pay the team members involved in the development process, such as project managers, system analysts, software developers, testers, etc.</li>
-<li>Software tools and licences: The cost to purchase software tools or licences required to develop the system, such as IDEs, and development platforms.</li>
-<li>Hardware and infrastructure: The cost to purchase or lease hardware and infrastructure required to reinforce the development process, such as servers, workstations, network equipment, and storage devices.</li>
-<li>Training and professional development: The cost to acquire new skills of the team and achieve certifications required to develop the system more effectively via training.</li>
-<li>Others: Other expenses that may arise during the development process, such as legal fees, insurance, and etc.</li>
+<p>The development of UTM Student Attendance Management System for around 20,000 users in UTM will involve many costs that are required, such as team salaries, software tool, hardware and infrastructure, training and professional development and other expenses that are unexpected. So the budget for this project in 1 year is estimated at RM 498,900 and the details are stated below: </p>
+<ol>
+  <li><ul>Salaries (RM 444 000)
+    <ul><li>Pay the team members involved in the development process, such as project managers, business analysts, software developers etc.</li></ul>
+</li>
+<li>Hardware and infrastructure (RM 1 200 000)
+<ul><li>The cost to purchase or lease hardware and infrastructure required to reinforce the development process, such as servers, workstations, network equipment, and storage devices.</li></ul>
+  </li>
+Software tools and licences (RM 131 600)
+The software budget covers the cost for software tools and platforms licence that are necessary for the development of the attendance system. This includes softwares such as IDE, testing tools and database management tools.
+Training and professional development (RM 100 000)
+The cost to train each member of the team to achieve the required certifications to develop the system more effectively via training programs.
+Others (RM 120 000)
+Other expenses that may arise during the development process, such as legal fees, insurance ,unexpected expenses etc.
+In conclusion, the estimated budget for the development of the UTM Attendance Management system in 1 year is RM 1,995,600. This budget will cover team salaries, software tools and licences, hardware and infrastructure, training and professional development and other expenses that are unexpected. If there are any changes in budget, stakeholders and project sponsors will be informed and have a discussion .
+
+
 
 ### 7. System Architecture:
 ![proposal](https://user-images.githubusercontent.com/129287788/235997939-9111ef6b-c61e-42f7-bd04-ed273b14c27a.jpg)
