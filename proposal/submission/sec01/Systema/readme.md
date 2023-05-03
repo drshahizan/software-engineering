@@ -304,14 +304,14 @@ Block Diagram:
 
 
 ### 10. Technical Specifications
-|                       |                                                                                                                                                  |
-|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| Data Sources          | <ul><li>Student datas from myUTM</li><li>Engagement data different clubs and faculties</li></ul>|
-| Data Schema           | The data schema will have tables that store of students information, clubs details, data from different faculties and departments in UTM.|
-| Data Transformation   | The data will be transformed into insights to understand students likings and interest.|
+|                       |  |
+|-----------------------|-------|
+| Data Sources | <ul><li>Student datas from myUTM</li><li>Club and faculties events data</li><li>Road condition data</li></ul>|
+| Data Schema | The data schema will have tables that store of students information, clubs details, data from different faculties and departments in UTM.|
+| Data Transformation | The data will be transformed into insights to understand students likings and interest.|
 | Programming Languages | JavaScript // HTML // CSS // MySQL|
-| Frameworks            | ReactJS
-| Libraries             | Bootstrap // jQuery |
+| Frameworks | ReactJS
+| Libraries | Bootstrap // jQuery |
 | Hardware Requirements | <ul><li>Processor: A multi-core processor</li><li>RAM: 4GB or higehr</li><li>Storage: 50GB or higher</li><li>Display: Resolution of 1920x1080 or higher</li></ul>|
 | Software Requirements | <ul><li>Operating system: Windows 7 or higher</li><li>IDE: Visual Studio Code, Bootstrap Studio</li><li>Web server: Node.js and Express.js</li><li>Database: MySQL</li><li> Version control: Git</li></ul> |
 
