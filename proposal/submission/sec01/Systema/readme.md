@@ -43,8 +43,8 @@
 This proposal recommends the development of a student engagement website for students in Faculty Computing of University Teknologi Malaysia that includes a suite of features designed to facilitate student engagement and enhance the student experience. A student engagement system software can serve as a hub for students of UTM to access course-specific information, connect with their peers and faculty members, and stay up-to-date with important academic events and deadlines.
 <br></br>
 The key features of the student engagement website include:
-<ul>
-<li>A personalized dashboard that displays a student's academic schedule, assignments, and other relevant information in a user-friendly interface.</li>
+
+1. A personalized dashboard that displays a student's academic schedule, assignments, and other relevant information in a user-friendly interface.</li>
 <li>Course-specific forums and discussion boards that allow students to engage with their peers and faculty members in discussions related to specific courses.</li>
 <li>A student directory that enables students to connect with each other based on shared interests or academic programs.</li>
 <li>A notification system that keeps students informed about important academic events and deadlines, such as exam schedules and registration deadlines.</li>
