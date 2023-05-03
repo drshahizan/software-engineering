@@ -20,7 +20,7 @@ Don't forget to hit the :star: if you like this repo.
 <th>Photo</th>
 </tr>
 <tr>
-  <td>1. Neo Zheng Weng </td> <td> A22EC0093 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/rsz_3photograph_neo_zheng_weng.jpg"> </td>
+  <td>1. Neo Zheng Weng </td> <td> A22EC0093 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/rsz_3photograph_neo_zheng_weng.jpg" width=150px, height=300px> </td>
   </tr>
 <tr>
   <td>2. WONG KHAI SHIAN NICHOLAS </td> <td> A22EC0292 </td> <td><img src=""> </td>
