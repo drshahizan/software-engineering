@@ -1,4 +1,4 @@
-## Project Title
+## Project Title : Student Attendance System
 
 
 ### Prepared by: Group Cutie 3.142s
@@ -7,6 +7,8 @@
   3. Tiew Chuan Rong (A22EC0112)
   4. Tiew Chuan Shen (A22EC0113)
   5. Wong Jun Ji (A22EC0117)
+  
+  <a href="https://ibb.co/1TC04ny"><img src="https://i.ibb.co/yqzNxRv/Image-20230504004651.jpg" alt="Image-20230504004651" border="0"></a>
 
 ### Table of Contents
  |No.  | Content |
@@ -69,6 +71,7 @@ Testing methodologies such as unit testing, integration testing, system testing,
 <li>Others: Other expenses that may arise during the development process, such as legal fees, insurance, and etc.</li>
 
 ### 7. System Architecture:
+![proposal](https://user-images.githubusercontent.com/129287788/235992812-b8770acf-a2d4-4957-b6d9-1e80e9d00573.jpg)
 <li>User Interface: UTM Smart to allow users to interact with our system.It lets students, teachers, and administrators view attendance data and mark attendance.</li>
 <li>Application Server: The application server runs the system's logic, handles data processing, communicates with other system components, and manages the database.</li>
 <li>Database: Stores attendance-related data such as student information and attendance records, and is designed to handle large volumes of data efficiently.</li>
@@ -77,44 +80,154 @@ Testing methodologies such as unit testing, integration testing, system testing,
 <li>Reporting and Analytics: The reporting and analytics component offers attendance insights and tools for generating reports and visualisations.</li>
 
 ### 8. Risks Assessment:
-<li>Stakeholder issues such as low engagement and inaccurate expectations.
-Time allocated for us to communicate to stakeholders is not enough as both stakeholders and us are having different schedules.It is difficult for us to have a meeting at the same time. Hence,the stakeholder might interact with us via social media such as Whatsapp and Email. Thus, the stakeholder may misunderstand what we want to deliver and cause inaccurate expectations.</li>
-<li>Technical risk such as system failures or data corruption. These problems may arise due to software/hardware failure, database management and network.
-User acceptance risk </li>
-<li>Target users may refuse to provide their personal data such as name and student ID that is necessary for attendance records. And users prefer the previous version of the system.
-</li>
-<li>Security risk. This system consists of students’ data. Thus we have to take risk on data lost issues from hacking, phishing or data breaches.</li>
-<li>Data Quality risk such as data entry error, system glitches may provide wrong information to the users.</li>
-<li>Implementation risk including cost overruns, and difficulties integrating the system with school systems and process</li>
+<ol><li>Stakeholder issues such as low engagement and inaccurate expectations</li>
+<ul>
+<li>Time allocated for us to communicate with the stakeholders is not enough as we have different schedules.It is difficult for us to have a meeting at the same time. Hence,the stakeholder might interact with us via social media such as Whatsapp and Email. Thus, the stakeholder may misunderstand what we want to deliver and cause inaccurate expectations.</li>
+</ul>
+<li>Technical risk</li>
+<ul>
+<li>System failures or data corruption.These problems may arise due to software/hardware failure,database management and network.</li>
+</ul>
+<li>User acceptance risk</li>
+<ul>
+<li>Target users may refuse to provide their personal data that is necessary for attendance records. As examples,name and matrics number.</li>
+<li>Users prefer the previous version of the system.</li>
+</ul>
+<li>Security risk</li> 
+<ul><li>This system consists of students’ data.Thus exists risk of data lost due to hacking, phishing or data breaches.</li></ul>
+<li>Data Quality</li>
+<ul><li>Data entry error, system glitches may provide wrong information to the users.</li></ul>
+<li>Implementation risk</li>
+<ul>
+<li>Cost overruns</li>
+<li>Difficulties integrating the system with school systems and processes.</li>
+</ul>
+</ol>
 
 ### 9. Resources:
-#### Staff
-<li>Project manager</li>
-<li>System analyst</li>
-<li>Software developer</li>
-<li>Database administrator</li>
+The development of UTM Student Attendance Management System for around 20,000 users in UTM will involve many costs that are required, such as team salaries, software tool, hardware and infrastructure, training and professional development and other expenses that are unexpected. So the budget for this project in 1 year is estimated at RM 498,900 and the details are stated below: 
+#### Staff: RM 111 000
+<table>
+<tr>
+<td>Position</td>
+<td>Salary per Month (RM)</td>
+</tr>
+<tr>
+<td>Project Manager</td>
+<td>9 000</td>
+</tr>
+<tr>
+<td>Business Analysts</td>
+<td>6 000</td>
+</tr>
+<tr>
+<td>UI/UX Designer</td>
+<td>10 000</td>
+</tr>
+<tr>
+<td>Main Developers</td>
+<td>5 000</td>
+</tr>
+<tr>
+<td>Quality Assurance </td>
+<td>7 000</td>
+</tr>
+</table>
 
-#### Equipment:
-<li>Computers/Laptops</li>
-<li>Servers</li>
-<li>Network infrastructure (switches, routers, storage, etc.)</li>
-<li>Printers and scanners</li>
-<li>Mobile devices (tablets/smartphones)</li>
+#### Equipment: RM 300 000
+<table>
+<tr>
+<td>Equipments</td>
+<td>Cost (RM)</td>
+</tr>
+<tr>
+<td>Computer/Laptops</td>
+<td>15 000</td>
+</tr>
+<tr>
+<td>Servers</td>
+<td>180 000</td>
+</tr>
+<tr>
+<td>Network Infrastructure</td>
+<td>70 000</td>
+</tr>
+<tr>
+<td>Printers and Scanners</td>
+<td>4 000</td>
+</tr>
+<tr>
+<td>Mobile Devices </td>
+<td>6 000</td>
+</tr>
+</table>
 
-#### Software:
-<li>Integrated Development Environment (IDE)</li>
-<li>Database management system</li>
-<li>Version control system</li>
-<li>Project management software</li>
-<li>Testing tools</li>
-<li>Security software</li>
 
-#### Other expenses:
-<li>Rental fees (office)</li>
-<li>Bills (Internet, phone, utilities, petrol, etc.)</li>
-<li>Cloud computing services</li>
-<li>Training and development programs for the team members</li>
-<li>Legal and administrative fees</li>
+#### Software: RM 32 900
+<table>
+<tr>
+<td>Tools</td>
+<td>Cost (RM)</td>
+</tr>
+<tr>
+<td>Integrated Development Environment (IDE)</td>
+<td>1 500</td>
+</tr>
+<tr>
+<td>Database management system</td>
+<td>14 000</td>
+</tr>
+<tr>
+<td>Security Software</td>
+<td>1 000</td>
+</tr>
+<tr>
+<td>Project Management Software</td>
+<td>600</td>
+</tr>
+<tr>
+<td>Testing Tools</td>
+<td>13 000</td>
+</tr>
+<tr>
+<td>Cloud Storage</td>
+<td>1 700</td>
+</tr>
+<tr>
+<td>Version Control Software</td>
+<td>4000</td>
+</tr>
+<tr>
+<td>Web Server</td>
+<td>700</td>
+</tr>
+</table>
+
+#### Other expenses: RM 30 000
+<table>
+<tr>
+<td>Expenses</td>
+<td>Cost (RM)</td>
+</tr>
+<tr>
+<td>Rental fees (office)</td>
+<td>18 000</td>
+</tr>
+<tr>
+<td>Bills (Internet, phone, utilities, petrol, etc.)</td>
+<td>3 000</td>
+</tr>
+<tr>
+<td>Insurance</td>
+<td>7 000</td>
+</tr>
+<tr>
+<td>Unexpected costs</td>
+<td>2 000</td>
+</tr>
+</table>
+
+#### Training and development programs for the team members: RM 25 000
 
 ### 10. Technical Specifications:
 <li>Data sources: Data will be collected through methods that students use to submit their attendance. For example, students can scan the attendance QR via their devices or students can insert a randomly generated code to submit their attendance. Data will also be collected via biometric devices such as fingerprint scanners and facial recognition systems in order to prove that their attendance is valid.</li>

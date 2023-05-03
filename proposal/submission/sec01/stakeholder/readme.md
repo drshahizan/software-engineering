@@ -88,11 +88,11 @@ Our proposed student accommodation system aims to achieve the following objectiv
 
 2. **Specific:** Simplify the room management process which reduce the manual steps needed by 55%.<br>
 **Measurable:** Keep track of the rate and process in managing a room before and after the proposed system is applied.<br>
-**Achievable:** Collect and gather the information on the stakeholders' requirements to develop a more convenient management system.<br>
+**Achievable:** Collect and gather the information on the stakeholders' requirements to develop a more user friendly management system.<br>
 **Relevant:** A simple room managing approach will improve with effective room control and lesser work load.<br>
 **Time-bound:** The objective will be achieved within the first two years of the project.
 
-3. **Specific:** Develop a maintenance tracking system that reduces the respond times to maintenance requests by 50%.<br>
+3. **Specific:** Enhance the room maintenance system by reducing the respond times to maintenance requests by 50%.<br>
 **Measurable:** To measure the decrease in response time by performing a time audit before and after the new system is implemented.<br>
 **Achievable:** The effectiveness of the maintenance procedure could be increased by creating a system for tracking maintenance.<br>
 **Relevant:** The condition of equipments in KTDI residence will always be sustainable and well maintained.<br>
