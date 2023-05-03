@@ -51,7 +51,7 @@ However, the potential benefits of a student engagement system software towards 
 
 ### Objectives
 The major objectives of building a student engagement website for Faculty Computing Students are to enhance the overall student experience and improve student engagement within the academic community. Below are some specific objectives that can be achieved through the development of a student engagement website:
-<br></br>
+<br>
 <ol>
   <li>Improve academic outcomes:</li>
   A student engagement website can help students to stay organized, manage their time effectively, and stay on top of assignments and deadlines, which can lead to improved academic outcomes.
