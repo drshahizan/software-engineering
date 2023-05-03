@@ -157,7 +157,39 @@ Here is the phases of agile model that can be applied to the development of a st
   <li>Deployment: In this phase, the team deploys the software to the production environment. The team releases the software incrementally, and each release includes a set of tested features.</li>
   <li>Maintenance: In this phase, the team maintains the software by fixing defects, adding new features, and improving the system's performance. The team continuously receives feedback from users and stakeholders to improve the system further.</li>
 </ol>
-<br>
+<img src="gantt.jpg">
+
+#### Testing Methodologies
+
+<ul>
+  <li>Acceptance Testing: This is used to make sure that our product met the requirements specified by our stakeholders such as MPP, lecturers and students. Not only that, this testing also had to make sure that user easily to engage with all the features provided.</li>
+  <li>Functional Testing: This testing is done to ensure that all the features work as expected.</li>
+  <li>Regression Testing: This is used to ensure updates launched would not cause any new bugs or issues occur and the existing features as well as data would function as good as before updates.</li>
+  <li>Performance Testing: As there could be many users using our system at the same time hence this performance testing is done to make sure system can still function well although there is a high traffic as well as testing the ability of the system to handle a large number of data inputs or users at the same time.</li>
+  <li>Usability Testing: This methodology is used to test whether our system is easy to navigate or the features is easy to access.</li>
+</ul>
+
+#### Project Management Practices
+
+<ul>
+  <li>Establish clear project goals and objectives: The specific features and functions that included in our system should be defined clearly so that every group members understand what should be included in our system.</li>
+  <li>Use agile development methodologies: Scrum is an example of agile development methodologies that we could use for iterative development with frequent testing and feedback from users.</li>
+  <li>Collaborate with stakeholders: This is to ensure the product executed can meet the requirements of our stakeholders such as MPP, lecturers and students.</li>
+  <li>Communicate regularly: Communication is important as a team to develop a system. Discussion via face to face or any meeting applications such as Google Meet can be done to exchange any opinions from different perspectives.</li>
+  <li>Manage project risks: Identify what risks may appear throughout the development of our system in order to prevent panic when problems appear.</li>
+  <li>Prioritize tasks and workloads: Prioritize tasks and workloads based on our project goals and objectives so that nothing would be missed.</li>
+  <li>Monitor progress and adjust as needed: Always monitor the progress so that our system stays on track and meets our objectives.</li>
+</ul>
+
+#### Quality Assurance Processes
+
+<ul>
+  <li>Conduct regular testing: Regular testing should be done to identify and solve bugs and issues.</li>
+  <li>Conduct user acceptance testing: This is to ensure our system meets the needs of end-users and is easyly to navigate.</li>
+  <li>Use version control: This is used to manage the changes to our system.</li>
+  <li>Use code analysis tools: To identify potential issues.</li>
+  <li>Perform regular maintenance: Performing regular maintenance to make sure the system is up to date with free of bugs and issues.</li>
+</ul>
 
 ### 6. Budget:
 The development of a student engagement system for approximately 40,000 students will involve various costs, including hardware, software, personnel, testing, and contingency. The budget for this project is estimated at **RM 4,000,000**, as outlined below:
