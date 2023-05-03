@@ -17,8 +17,8 @@ Don't forget to hit the :star: if you like this repo.
   5. Yeoh Chong Yi          A22EC0295
 
 ### Table of Contents
-1.[Executive Summary](#executive-summary) <br>
-2.[Background](#background)<br>
+1. [Executive Summary](#executive-summary) <br>
+2. [Background](#background)<br>
 [3. Objectives](#objectives)<br>
 [4. Scope](#scope)<br>
 [5. Software Process Model](#software-process-model)<br>
