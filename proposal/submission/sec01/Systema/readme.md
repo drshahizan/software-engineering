@@ -373,6 +373,21 @@ Block Diagram:
             </ul>
         </td>
     </tr>
+  <tr>
+    <td>Support and Maintainance</td>
+    <td>
+      <ul>
+        <li>Bug fixing</li>
+        <li>User support<li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Bug fixing report</li>
+        <li>User support log<li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 #### Quality Assurance and Testing Procedures:
