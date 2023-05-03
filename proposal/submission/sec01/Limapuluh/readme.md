@@ -157,8 +157,11 @@ In conclusion, the Agile software process model is an ideal choice for the propo
 ### 7. System Architecture:
 The proposed system architecture for a student feedback system in University Technology Malaysia (UTM) can be designed as follows:
 
-<img src="https://i.imgur.com/sMIdCO9.jpg" height="1000" width="500">
+  <p align="center"><img src="https://i.imgur.com/sMIdCO9.jpg" height="1000" width="500"></p>
 
+**Authentication and Security Module**:<br>
+The authentication and security module will be responsible for ensuring that only authorized users can access the system. It will use secure authentication protocols and data encryption techniques to protect the sensitive information collected from students. This module will ensure that the feedback system is secure, confidential, and compliant with data privacy regulations.
+  
 **Front-end Interface**:<br>
 The front-end interface will be the part of the system that the students will interact with. It will be a user-friendly interface that allows students to provide feedback on various aspects of their learning experience, including instructors, courses, and facilities. The interface will be accessible through a web-based platform, making it easy for students to provide feedback from anywhere, at any time.
 
@@ -170,9 +173,6 @@ The data processing and analysis module will be responsible for analyzing the fe
 
 **Reporting Module**:<br>
 The reporting module will be responsible for generating reports based on the feedback data collected. These reports will be designed to provide insights into the strengths and weaknesses of the educational system at UTM, as well as the needs and preferences of the students. These reports can be used by the faculty and administration to make data-driven decisions to improve the quality of education and the student experience.
-
-**Authentication and Security Module**:<br>
-The authentication and security module will be responsible for ensuring that only authorized users can access the system. It will use secure authentication protocols and data encryption techniques to protect the sensitive information collected from students. This module will ensure that the feedback system is secure, confidential, and compliant with data privacy regulations.
 
 **Integration Module**:<br>
 The integration module will allow for the integration of the feedback system with other systems and applications used at UTM, such as the Learning Management System (LMS). This will enable the system to access relevant student data and provide a more comprehensive analysis of the feedback data collected. The integration module will also enable the system to send alerts and notifications to relevant stakeholders, such as instructors and administrators, based on the feedback data collected.
