@@ -17,17 +17,17 @@ Don't forget to hit the :star: if you like this repo.
   5. Yeoh Chong Yi          A22EC0295
 
 ### Table of Contents
-[1. Executive Summary](#executive-summary)
-[2. Background](#background)
-[3. Objectives](#objectives)
-[4. Scope](#scope)
-[5. Software Process Model](#software-process-model)
-[6. Budget](#budget)
-[7. System Architecture](#system-architecture)
-[8. Risk Assessment](#risk-assesment)
-[9. Resources](#resources)
-[10. Technical Specifications](#technical-specifications)
-[11. Timeline and Deliverables](#timeline-and-deliverabels)
+[1. Executive Summary](#executive-summary) <br>
+[2. Background](#background)<br>
+[3. Objectives](#objectives)<br>
+[4. Scope](#scope)<br>
+[5. Software Process Model](#software-process-model)<br>
+[6. Budget](#budget)<br>
+[7. System Architecture](#system-architecture)<br>
+[8. Risk Assessment](#risk-assesment)<br>
+[9. Resources](#resources)<br>
+[10. Technical Specifications](#technical-specifications)<br>
+[11. Timeline and Deliverables](#timeline-and-deliverabels)<br>
 [12. Conclusion](#conclusion)
  
   
@@ -46,7 +46,7 @@ The key features of the student engagement website include:
 <br>
 The development of the student engagement website will require a team of skilled developers, designers, and project managers who will work together to ensure a seamless user experience. The website will be designed to be accessible to all students, regardless of their technological proficiency, and will be optimized for all types of browser.
 
-### 2. Background:
+### 2. Background
 
 The development of a student engagement system software is driven by the need to enhance the overall student experience and improve student engagement within the academic community of Faculty Computing Univerisity Teknologi Malaysia (UTM). With the increasing prevalence of digital technologies in the education sector, universities and colleges are looking for ways to leverage these technologies to provide a more personalized, interactive, and engaging learning experience for students to let them feel more comfortable and convenient during their study journey.
 
@@ -58,7 +58,7 @@ The development of a student engagement system software requires a team of skill
 
 However, the potential benefits of a student engagement system software towards all Faculty Computing students are significant. By enhancing student engagement and providing a more personalized and interactive learning experience, UTM Faculty Computing can improve student retention, satisfaction, and academic outcomes. Overall, a student engagement system software can help to create a more vibrant and engaged academic community, both online and on-campus.
 
-### 3. Objectives:
+### 3. Objectives
 The major objectives of building a student engagement website for Faculty Computing Students are to enhance the overall student experience and improve student engagement within the academic community. Below are some specific objectives that can be achieved through the development of a student engagement website:
 <br></br>
 <ol>
@@ -78,7 +78,7 @@ The major objectives of building a student engagement website for Faculty Comput
   <br>
   Overall, the development of a student engagement website aims to provide a comprehensive platform that supports Faculty Computing's students throughout their academic journey, enhances their learning experience, and fosters a sense of community within the academic community.<br>
 
-### 4. Scope: 
+### 4. Scope
 <ol>
   <li><b>Personalised dashboard</b>:
     <ul>
@@ -112,7 +112,7 @@ The major objectives of building a student engagement website for Faculty Comput
   </li>
 </ol>
 
-### 5. Software Process Model:
+### 5. Software Process Model
 <img src="agile.png">
 A software process model for a student engagement system refers to a set of activities and phases that are used to design, develop, test, and maintain the software system. It provides a framework for organizing the software development process and helps to ensure that the final product meets the requirements and needs of the stakeholders.
 <br><br>
@@ -162,7 +162,7 @@ Here is the phases of agile model that can be applied to the development of a st
   <li>Perform regular maintenance: Performing regular maintenance to make sure the system is up to date with free of bugs and issues.</li>
 </ul>
 
-### 6. Budget:
+### 6. Budget
 The development of a student engagement system for approximately 40,000 students will involve various costs, including hardware, software, personnel, testing, and contingency. The budget for this project is estimated at **RM 4,000,000**, as outlined below:
 
 #### Hardware: RM 1,200,000
@@ -193,9 +193,9 @@ The development of a student engagement system for approximately 40,000 students
 In conclusion, the estimated budget for the development of the student engagement system proposal is RM 4,000,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingency. Any changes in the budget will be communicated to stakeholders and project sponsors.
 
 
-### 7. System Architecture:
+### 7. System Architecture
 
-#### System Architecture Overview:
+#### System Architecture Overview
 
 The social media website for university students will be a client-server architecture with a web-based front-end and a back-end server that manages data storage, retrieval, and processing. The architecture will include the following layers:
 
@@ -215,7 +215,7 @@ The hardware and software requirements for the data storage and management inclu
 
 - Software: MySQL as the RDBMS, and Node.js and Express.js for server-side processing.
 
-#### Data Analysis and Visualization:
+#### Data Analysis and Visualization
 
 The data generated by the social media website can be analyzed and visualized using various tools and frameworks. Some of the tools and frameworks that can be used for data analysis and visualization include:
 
@@ -239,7 +239,7 @@ Block Diagram:
 ![blockdiagram](blockdiagram.svg)
 
 
-### 8. Risks Assessment:
+### 8. Risks Assessment
 | Potential Risks | Plan / Strategies |
 | ------------- | ------------- |
 | *Technical challenges* - There may be technical challenges realated to coding, server management, website security, and also database management. These challenges could result in delays, additional costs, or errors in the website's functionality. |1. Conduct a thorough analysis of the website's technical requirements and ensure that the team has the necessary skills and expertise to handle technical challenges. <br>2.  Develop a contingency plan for potential technical issues that could impact the project timeline and budget.|
@@ -248,7 +248,7 @@ Block Diagram:
 
 <b>Our team is committed to ensuring the safe and successful execution of this project. We will take all necessary measures and precautions to mitigate potential risks and ensure that all aspects of the project are carefully managed and monitored.</b>
 
-### 9. Resources:
+### 9. Resources
 - Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
 
   1. Staff:
@@ -275,7 +275,7 @@ Block Diagram:
       + Training and support expenses
 
 
-### 10. Technical Specifications:
+### 10. Technical Specifications
 |                       |                                                                                                                                                  |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | Data Sources          | <ul><li>Student datas from myUTM</li><li>Engagement data different clubs and faculties</li></ul>|
@@ -288,7 +288,7 @@ Block Diagram:
 | Software Requirements | <ul><li>Operating system: Windows 7 or higher</li><li>IDE: Visual Studio Code, Bootstrap Studio</li><li>Web server: Apache</li><li>Database: MySQL</li><li> Version control: Git</li></ul> |
 
 
-### 11. Timeline and Deliverables: 
+### 11. Timeline and Deliverables
 <table>
     <tr>
         <th>Phase</th>
@@ -358,7 +358,7 @@ To ensure the quality of the student engagement system, the following testing pr
 - Performance testing: The system will be tested udner various loads to guarantee it can handles the anticipated user traffic.
 
 
-### 12. Conclusion:
+### 12. Conclusion
 This ppropsed system provide innovative solution in improving students engagement and their extra curricular perforamnce in UTM. 
 
 The implementation of this project ofers widespread benefits, including better extra-curricular performance for students, first-hand annoucement and news for the entire university community, improved student-student engagement and increased club prestige. The system will also provide meaningful insights for different departments, allowing them to make data-driven decisions and evaluate the impacts of their strategies.
