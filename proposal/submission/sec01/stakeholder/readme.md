@@ -12,12 +12,29 @@ Don't forget to hit the :star: if you like this repo.
 ## Student Accommodation System in Kolej Tun Dr Ismail (KTDI)
 
 
-### Prepared by: <stakeholder>
-  1. Neo Zheng Weng A22EC0093
-  2. WONG KHAI SHIAN NICHOLAS A22EC0292
-  3. JOSEPH LAU YEO KAI A22EC0055
-  4. LOW JIE SHENG A22EC0075
-  5. MUHAMMAD DANIAL BIN AHMAD SYAHIR A22EC0206
+### Prepared by: Group Stakeholder
+<table>
+<tr>
+<th>Member</th>
+<th>Matric No.</th>
+<th>Photo</th>
+</tr>
+<tr>
+  <td>1. Neo Zheng Weng </td> <td> A22EC0093 </td> <td><img src=""> </td>
+  </tr>
+<tr>
+  <td>2. WONG KHAI SHIAN NICHOLAS </td> <td> A22EC0292 </td> <td><img src=""> </td>
+  </tr>
+<tr>
+  <td>3. JOSEPH LAU YEO KAI </td> <td> A22EC0055 </td> <td><img src=""> </td> 
+  </tr>
+<tr>
+  <td>4. LOW JIE SHENG </td> <td> A22EC0075 </td> <td><img src=""> </td>
+  </tr>
+<tr>
+  <td>5. MUHAMMAD DANIAL BIN AHMAD SYAHIR </td> <td> A22EC0206 </td> <td><img src=""> </td>
+  </tr>
+</table>
 
 ### Table of Contents
 - [Executive Summary](#1-executive-summary)
@@ -109,8 +126,6 @@ The scope refers to the boundaries of the project and outlines the features and 
 - Agile methodology: <br>Agile methodology is used for the software process model in the system development due to its flexibility in updating the stakeholders' requirements and sastification.
   
 - Centralised Dashboard: <br>In both the user interfaces of the students and also the adminstrative department or KTDI department will have a well looking dashboard to provide the users a easier and effective way to access their needs via the tools provided.
-  
-- Website user interface: <br> The user interface will be designed using the bootstrap framework with the HTML, CSS and also the JavaScript to provide the best user experiences.
 
 <!--However, there are several limitations and constraints that may affect the project of a student accommodation system for Kolej Tun Dr Ismail (KTDI):
   
@@ -153,7 +168,7 @@ Agile methodology for developing the Student Accommodation System in Kolej Tun D
  
 7. Review Phase:The finished programme will be examined by the developers and the stakeholder in the review phase part to make sure it satisfies the acceptance criteria and user needs. To ensure that the final product meets the stakeholder's expectations, this phase requires ongoing stakeholder feedback. This feedback will assist us in improving the system and ensuring that it satisfies the requirements of our customers, resulting in a product of excellent quality.Review needs just 1 week and a half because we need some of feedback from stakeholder to know what the weaknesses or some problems towards our system.
 
-8. Launch Phase: :The launch phase displays the finished product that will be used in a real-world setting. Final testing and quality assurance will be carried out by the project manager in collaboration with the development team to guarantee that the software is reliable and usable in a real-world setting. Following the software's deployment, on-going support will be offered to make sure the system keeps up with the demands and goals of the stakeholders.This will take just around 1 week to make sure all of it fulfill all of the users desire.
+8. Launch Phase: :The launch phase displays the finished product that will be used in a real-world setting. Final testing and quality assurance will be carried out by the project manager in collaboration with the development team to guarantee that the software is reliable and usable in a real-world setting. Following the software's deployment, on-going support will be offered to make sure the system keeps up with the demands and goals of the stakeholders.This will take just around 1 week to make sure all of it fulfill all of the stakeholders desire.
   
 To assure the quality and functionality of the system, many testing methodologies are employed in this project, including unit testing, integration testing, system testing, acceptance testing, and usability testing. Project management techniques leverage technologies like Kanban boards, sprint planning and regular stand-up meetings to track progress and guarantee task completion on time. To maintain code quality and reduce errors, quality assurance procedures like code review, continuous integration and automated testing are used. These procedures are essential for ensuring the effective deployment and operation of the KTDI system for student accommodation.
 

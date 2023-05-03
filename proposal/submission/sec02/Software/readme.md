@@ -155,16 +155,19 @@ To mitigate these risks, a few steps can be taken:
 - Compatibility: Cross-browser compatibility with major web browsers.
 
 ### 11. Timeline and Deliverables: 
-<img src="https://user-images.githubusercontent.com/128119778/235573097-59816732-16ae-4c72-9160-243694795b03.jpeg">
+<img src="https://user-images.githubusercontent.com/128159572/235585376-b25f2b58-b38e-43a6-be29-42e555828e48.jpeg">
 
-- Week 4-6 : `Project Planning`
-- Week 6-8 : `Requirements Gathering`
-- Week 8-10 : `Preparing Requirement Document`
-- Week 10-13 : `System Development`
-- Week 10-12 : `System Debugging`
-- Week 10-14 : `System Documentation`
-- Week 15 : `Project Demonstration`
-- Week 13-16 : `System Maintanance`
+| Milestones                     | Tasks                                        | Timeframe         |
+| ------------------------------ | -------------------------------------------- | ----------------- |
+| Project planning               | Define scope and objectives of the project   | Week 4 to Week 6  |
+| Requirements Gathering         | Identify stakeholders and conduct interviews | Week 6 to Week 7  |
+| Preparing Requirement Document | Analyse stakeholder's requirements           | Week 7 to Week 9  |
+| System Development             | Design the system and starts coding          | Week 9 to Week 12 |
+| System Testing and Debugging   | Run the system test and fix the bugs         | Week 13 to Week 15|
+| System Documentation           |                                              | Week 10 to Week 14|
+| Project Demonstration          |                                              | Week 15           |
+| System Maintenance             |                                              | 6 months after Week 15|
+
 
 ### 12. Conclusion:
 - Simplify and streamline PKU processing time for students and administrators.
