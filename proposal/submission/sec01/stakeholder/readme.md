@@ -397,7 +397,7 @@ IV. Other Expenses:<br>
 <table>
   <thead>
     <tr>
-      <th>Year</th>
+      <th>Period</th>
       <th>Milestone</th>
       <th>Deliverables</th>
       <th>Resources</th>
