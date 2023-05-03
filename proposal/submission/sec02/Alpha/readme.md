@@ -131,7 +131,7 @@ The hardware budget includes the cost of servers, networking equipment, computer
 - Software: RM 45,000<br>
 Development tools and software licenses will include the cost of software development kits, programming languages, and other tools needed for development. There will be costs associated with integrating a payment processing system because the college room rental system allows students to make online payments. Cost of security software includes antivirus, firewalls, and other tools to protect the system from cyber threats. 
 
-- Personnel : RM 800,000<br<
+- Personnel : RM 800,000<br>
 The personnel budget will be covering the development team's pay and benefits, including the project manager, business analyst, database administrator, main and assistant developer, quality assurance engineer and UI/UX designer. The number of hours needed for each role would depend on the project timeline and deliverables. If there are any overhead costs, they will be taken into consideration.
 
 - Testing : RM 400,000<br>
