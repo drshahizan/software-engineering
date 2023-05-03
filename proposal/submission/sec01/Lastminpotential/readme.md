@@ -143,10 +143,12 @@ This section describe the ideal software process model for this system developme
 - Explain the quality assurance and testing procedures that will be followed.
 
 ### 12. Conclusion:
-- Conclude your proposal with a call to action, highlighting the benefits of your proposed solution and urging the decision-makers to take action.
-- Summarize the proposal and reiterate the importance of the project.
-- Mention any potential limitations or challenges that may arise during the project.
-- Provide a call to action for the client to approve the proposal and proceed with the project.
+
+In conclusion the proposed Faculty of computing Feedback System is a solution to improve and challenge the problem will feaced by students and staff. The proposed digital platfrom offers the user friendly interface for student to provide feedback and take appropriate action upon the feedback.Significant improvements in both faculty environment satisfaction and a more effective and efficient feedback procedure are among the project's anticipated benefits.
+
+It is important to remember that the system's implementation can run into potential restrictions or obstacles, such reluctance to change or technological issues. But we have taken steps to lessen these difficulties and make sure the implementation goes smoothly.However, concerns about data privacy and system integration could surface as the system is being developed.Although there are some challenges, the system's benefits outweigh these disadvantages, so we advise the customer to accept the proposal and continue with the project.
+
+Therefore, we implore the decision-makers to act and accept the proposal to move the project forward.The staff of Computing Feedback System will modernise the feedback process, improving educational quality and fostering greater staff and student satisfaction.  For the duration of the implementation process, we are devoted to offering resources and support to make sure it is successful.In the end, the Faculty of Computing Feedback System will help the faculty succeed overall by improving the standard of instruction, the learning environment, and fostering ongoing programme improvement.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

@@ -17,6 +17,8 @@ Don't forget to hit the :star: if you like this repo.
   4. Lee Soon Der A22EC0065
   5. Yong Wern Jie A22EC0121
 
+<img src="https://i.imgur.com/rYx5Yvw.jpg" alt="img" style="width:500px;height:350px">
+  
 ### Table of Contents
 <table>
   <tr>
@@ -101,6 +103,9 @@ Implementing a student feedback system can also foster transparency and communic
 Finally, implementing a student feedback system can support UTM's efforts to maintain accreditation and compliance with relevant regulations. Many accrediting bodies require universities to collect and use student feedback to inform decision-making and improve educational outcomes. A robust student feedback system can help UTM meet these requirements and maintain its status as a top-tier institution.
 
 ### 4. Scope: 
+
+<img src="https://i.imgur.com/q5k7A41.jpg" alt="an image">
+
 The scope of the project includes the enhancement of the current student feedback system at our university. This includes:
   
 #### 1) Assessing the current system
@@ -126,24 +131,82 @@ The scope of the project includes the enhancement of the current student feedbac
 
 For the proposed Student Feedback Management System, the<b> Agile methodology</b> is an ideal software process model. This model allows for flexibility and responsiveness to stakeholder feedback while ensuring timely delivery of a functional feedback management system. It provides a framework for managing project risks and ensuring that quality and performance are maintained throughout the development process.
   
-  <img src="https://interqualitybg.com/images/AGILE_METHODOLOGY_InterQuality_image_1.jpg">
+  <img src="https://i.imgur.com/UpwBgXJ.jpg" alt="an image">
 
   <h3>The Agile software process model involves the following phases:</h3>
 
   <li><b>Project Initiation</b>: This phase involves defining the project scope, objectives, and stakeholders. The activities include creating a project vision, identifying the user personas and user stories, and outlining the project requirements. The duration of this phase is two weeks, and the project manager is responsible for overseeing the activities.</li>
 
-  <li><b>Sprint Planning</b>: In this phase, the development team plans for the upcoming sprint. The activities include breaking down the user stories into smaller tasks, estimating the time needed for each task, and deciding what can be achieved within the sprint. The duration of this phase is one week, and the development team lead is responsible for overseeing the activities.</li>
+  <li><b>Planning</b>: In this phase, the development team plans for the upcoming sprint. The activities include breaking down the user stories into smaller tasks, estimating the time needed for each task, and deciding what can be achieved within the sprint. The duration of this phase is two weeks, and the development team lead is responsible for overseeing the activities.</li>
 
-  <li><b>Sprint Execution</b>: This phase involves coding, testing, and integration of the features developed in the sprint. The activities include coding, testing, and documentation. The duration of this phase is three weeks, and the development team lead is responsible for overseeing the activities.</li>
+  <li><bExecution</b>: This phase involves coding, testing, and integration of the features developed. The activities include coding, testing, and documentation. The duration of this phase is four weeks, and the development team lead is responsible for overseeing the activities.</li>
 
-  <li><b>Sprint Review</b>: In this phase, the development team presents the completed features to the product owner and stakeholders for review. The activities include demoing the completed features, gathering feedback, and planning for the next sprint. The duration of this phase is one week, and the project manager is responsible for overseeing the activities.</li>
+  <li><b>Review</b>: In this phase, the development team presents the completed features to the product owner and stakeholders for review. The activities include demoing the completed features, gathering feedback, and planning for the next phase. The duration of this phase is two weeks, and the project manager is responsible for overseeing the activities.</li>
 
-  <li><b>Sprint Retrospective</b>: This phase involves reviewing the sprint process and identifying areas for improvement. The activities include discussing what went well and what didn't, identifying the root causes of problems, and planning for the next sprint. The duration of this phase is one week, and the project manager is responsible for overseeing the activities.</li><br>
+  <li><b>Retrospective</b>: This phase involves reviewing the sprint process and identifying areas for improvement. The activities include discussing what went well and what didn't, identifying the root causes of problems, and planning for the next phase. The duration of this phase is two weeks, and the project manager is responsible for overseeing the activities.</li><br>
 
 The testing methodologies for this project include functional, usability, and performance testing. Project management practices will include daily stand-up meetings, sprint planning, and retrospectives. Quality assurance processes will include code reviews, automated testing, and user acceptance testing.
 
 In conclusion, the Agile software process model is an ideal choice for the proposed Student Feedback Management System. Its flexible and iterative approach, combined with effective project management practices and quality assurance processes, will ensure the timely delivery of a high-quality and user-friendly feedback management system.
 </ul>
+  
+  #### Gantt Chart:
+  
+  <table style="border-collapse: collapse;">
+    <thead>
+      <tr>
+      <td>Phase</td>
+      <td>Tasks</td>
+      <td>Person In-Charge</td>
+      <td>Duration</td>
+      <td>Progress</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Phase 1:Project Initiation</td>
+        <td>Defining the project scope, objectives, and stakeholders.Create a plan for the project and collect the requirements.</td>
+        <td>Project Manager</td>
+        <td>2 weeks</td>
+        <td>Complete</td>
+      </tr>
+      <tr>
+        <td>Phase 2:Design and Planning</td>
+        <td>Design user interface, prototypes, user journey maps, wireframes and divide the tasks</td>
+        <td>Design Contributor</td>
+        <td>2 week</td>
+        <td>incomplete</td>
+      </tr>
+      <tr>
+        <td>Phase 3:Execution adn Implementation</td>
+        <td>Coding, testing, and integration of the features developed</td>
+        <td>Software Developer</td>
+        <td>4 weeks</td>
+        <td>incomplete</td>
+      </tr>
+      <tr>
+        <td>Phase 4:Review </td>
+        <td>Demoing the completed features, presenting to the stakeholders and gathering feedback</td>
+        <td>Development Team</td>
+        <td>2 weeks</td>
+        <td>incomplete</td>
+      </tr>
+      <tr>
+        <td>Phase 5:Restrospective</td>
+        <td>Discussing what went well and what didn't, identifying the root causes of problems and planning to solve the problems</td>
+        <td>Project manager, software developer and assistant</td>
+        <td>2 weeks</td>
+        <td>incomplete</td>
+      </tr>
+      <tr>
+        <td>Phase 6:Maintenance</td>
+        <td>Maintain Feedback System and create maintenance planning</td>
+        <td>Project manager and quality assurance tester</td>
+        <td>2 weeks</td>
+        <td>incomplete</td>
+      </tr>
+    </tbody>
+  </table>
   
 ### 6. Budget:
 <ul>
@@ -157,6 +220,11 @@ In conclusion, the Agile software process model is an ideal choice for the propo
 ### 7. System Architecture:
 The proposed system architecture for a student feedback system in University Technology Malaysia (UTM) can be designed as follows:
 
+  <p align="center"><img src="https://i.imgur.com/O6h9rw2.jpg" height="1100" width="500"></p>
+
+**Authentication and Security Module**:<br>
+The authentication and security module will be responsible for ensuring that only authorized users can access the system. It will use secure authentication protocols and data encryption techniques to protect the sensitive information collected from students. This module will ensure that the feedback system is secure, confidential, and compliant with data privacy regulations.
+  
 **Front-end Interface**:<br>
 The front-end interface will be the part of the system that the students will interact with. It will be a user-friendly interface that allows students to provide feedback on various aspects of their learning experience, including instructors, courses, and facilities. The interface will be accessible through a web-based platform, making it easy for students to provide feedback from anywhere, at any time.
 
@@ -168,9 +236,6 @@ The data processing and analysis module will be responsible for analyzing the fe
 
 **Reporting Module**:<br>
 The reporting module will be responsible for generating reports based on the feedback data collected. These reports will be designed to provide insights into the strengths and weaknesses of the educational system at UTM, as well as the needs and preferences of the students. These reports can be used by the faculty and administration to make data-driven decisions to improve the quality of education and the student experience.
-
-**Authentication and Security Module**:<br>
-The authentication and security module will be responsible for ensuring that only authorized users can access the system. It will use secure authentication protocols and data encryption techniques to protect the sensitive information collected from students. This module will ensure that the feedback system is secure, confidential, and compliant with data privacy regulations.
 
 **Integration Module**:<br>
 The integration module will allow for the integration of the feedback system with other systems and applications used at UTM, such as the Learning Management System (LMS). This will enable the system to access relevant student data and provide a more comprehensive analysis of the feedback data collected. The integration module will also enable the system to send alerts and notifications to relevant stakeholders, such as instructors and administrators, based on the feedback data collected.
@@ -187,33 +252,62 @@ Overall, the proposed system architecture will be designed to be scalable, secur
 </ul>
 
 ### 9. Resources:
-<ul>
-<li><h3>Hardware and software</h3></li>
-To develop a student feedback system, we will need access to hardware and software resources such as computers, servers, databases, and software development tools. We plan to use cloud-based infrastructure such as Amazon Web Services (AWS) to host and manage the system. We will also need software development tools such as Python, Django, and React to build the web application and databases.
-
-<li><h3>Data sources</h3></li>
-We will need access to various data sources to develop the student feedback system, such as student enrollment data, course schedules, and academic records. We will collaborate with the university's IT department to access this data and integrate it into the system. We will also conduct surveys and questionnaires to gather feedback from students.
-
-<li><h3>Expertise</h3></li>
-Developing a student feedback system requires expertise in areas such as data analysis, database management, and software development. We plan to collaborate with the university's IT department and academic advisors to ensure that our system is effective and meets the needs of students and faculty. We will also hire a software development team with experience in building similar systems.
-
-<li><h3>Budget</h3></li>
-We estimate that the development of the student feedback system will require a budget of RM 120,000. This includes the cost of hardware and software resources, data integration and management, software development, and project management.
-
-<li><h3>Timeline</h3></li>
-We plan to complete the development of the student feedback system within 12 months. This includes the design, development, testing, and deployment of the system. We will allocate resources and plan milestones to ensure that the project is completed on time.
-
-<li><h3>Data privacy and security</h3></li>
-We understand the importance of data privacy and security when designing a student feedback system. We will ensure that the system complies with relevant data protection regulations such as GDPR and CCPA. We will also implement appropriate security measures such as data encryption, access controls, and regular security audits to protect student data. We will collaborate with the university's IT department and legal team to ensure that the system meets all necessary requirements.
-</ul>
+Resources required will be split into 4 parts and given details:
+<ol>
+  <li>Staff</li>
+    <ul>
+      <li>Project Manager : Yong Wern Jie</li>
+      <li>Software Developer : Marcus Joey Sayner</li>
+      <li>Documentation Specialist : Lim Jing Yong</li>
+      <li>Requirement Analyst : Soh Han Wei</li>
+      <li>User Experience Designer : Lee Soon Der</li>
+    </ul>
+  <li>Equipment</li>
+    <ul>
+      <li>Computers / Workstation -- Development of the feedback system</li>
+      <li>Server -- To host the feedback system</li>
+      <li>Backup System -- Ensure feedback data is not lost in case of hardware failure</li>
+      <li>Security measures -- Protect data from unauthorized access / virus attack</li>
+    </ul>
+  <li>Software</li>
+    <ul>
+      <li>Data Collection Site : Google Form</li>
+      <li>Data Processing & Visualisation : R Programming</li>
+      <li>Web Development Software : BootStrap Studio</li>
+      <li>Database Management : SQLAlchemy</li>
+      <li>Project Management : Github</li>
+    </ul>
+  <li>Other Expenses</li>
+    <ul>
+      <li>Marketing and Promotion Cost</li>
+      <li>Operational Cost</li>
+      <li>Legal Fees</li>
+      <li>Employee Costs</li>
+      <li>Infrastructure Costs</li>
+    </ul>
+</ol>
 
 ### 10. Technical Specifications:
+  
+| Task | Software |
+| -------------------------------- | ------------------------------ |
+| Web Development | Bootstrap Studio |
+| Data Source | Google Form |
+| Data Transformation | R Programming |
+| Machine Learning Algorithms| R Programming |
+| Data Visualization Tools | R Programming |
+| Programming Languages | C++ |
+| Frameworks | Flask |
+| Database Management | SQLAlchemy |
+| Libraries | Scikit-learn & NLTK |
+| Hardware & Software Requirements | Amazon Web Services & MySQL database | 
+| Data Security Measures | Active Directory & OpenSSL & OpenVAS |
+  
 <ul>
-  <li><h3>Data Sources</h3><p>The student feedback system will collect feedback data from online surveys only, and the data will be stored in a database management system.</p></li>
-  <li><h3>Data Schema</h3><p>The data schema will be designed to capture various data points, including demographic information, course information, feedback ratings, and open-ended comments. The schema will be flexible to accommodate future changes in data requirements.</p></li>
-  <li><h3>Data Transformations</h3><p>Data transformations will be used to preprocess and clean data before analysis. Techniques such as data imputation and normalization will be applied to handle missing data and ensure consistency.</p></li>
-  <li><h3>Machine Learning Algorithms</h3><p>Machine learning algorithms, such as regression analysis and clustering, will be used to analyze feedback data and identify patterns and trends. Natural language processing techniques will be applied to analyze open-ended comments.</p></li>
-  <li><h3>Data Visualization Tools</h3><p>Data visualization tools, such as R programming, will be used to present feedback data in interactive and meaningful ways. Dashboards will be created to provide real-time feedback to students and faculty.</p></li>
+  <li><h3>Data Sources</h3><p>The student feedback system will collect feedback data from online surveys (Google Form) only, and the data will be stored in a database management system. The data schema will be designed to capture various data points, including demographic information, course information, feedback ratings, and open-ended comments. The schema will be flexible to accommodate future changes in data requirements.</p></li>
+  <li><h3>Data Transformations</h3><p>Software R Programming will be used to preprocess and clean data before analysis. Techniques such as data imputation and normalization will be applied to handle missing data and ensure consistency.</p></li>
+  <li><h3>Machine Learning Algorithms</h3><p>Machine learning algorithms, such as regression analysis and clustering, will be used to analyze feedback data and identify patterns and trends. Natural language processing techniques will be applied to analyze open-ended comments. This function will also be carried out using R programming.</p></li>
+  <li><h3>Data Visualization Tools</h3><p>Data visualization tools which is also R programming, will be used to present feedback data in interactive and meaningful ways. Dashboards will be created to provide real-time feedback to students and faculty.</p></li>
   <li><h3>Programming Languages, Frameworks, and Libraries</h3><p>The system will be developed using C++ as the main programming language. Flask will be used as the web framework, and SQLAlchemy will be used for database management. Libraries such as Scikit-learn and NLTK will be used for machine learning and natural language processing.</p></li>
   <li><h3>Hardware and Software Requirements</h3><p>The system will require a server with a minimum of 4 GB RAM and 100 GB storage. The system will be hosted on Amazon Web Services (AWS) and will use a MySQL database.</p></li>
   <li><h3>Data Security Measures</h3><p>The system will implement various data security measures, including access control, encryption, and regular security audits. Access to the system will be restricted to authorized personnel, and sensitive data will be encrypted both in transit and at rest. Regular security audits will be conducted to identify and address potential security vulnerabilities.</p></li>

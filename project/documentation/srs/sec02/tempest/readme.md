@@ -43,13 +43,13 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td>Hj Mohd Rizaudin Bin Mohd Salleh</td>
     <td>Top Management Cahaya Ad Din</td>
     <td>CEO</td>
     <td>Giving insights and problems that the company have according to the topic</td>
   </tr>
     <tr>
-    <td>2</td>
+    <td>Nor Azwa binti Jaafar</td>
     <td>Middle Management Cahaya Ad Din</td>
     <td>Staff</td>
     <td>Describe the flow of work and the problems that the staff has during the registration</td>

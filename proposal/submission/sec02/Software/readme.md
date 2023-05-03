@@ -26,24 +26,35 @@
 - [Conclusion](#12-conclusion)
   
 ### 1. Executive Summary
-The Student Health and Wellness website is a software engineering course project aimed at improving the health and well-being of university students, in cooperation with Pusat Kesihatan University (PKU). The website will provide students with access to a wide range of resources and tools that will help them manage their physical, mental, and emotional health.
+The Student Health and Wellness website is an esteemed software engineering course project that Pusat Kesihatan University (PKU) proudly endorses. Aimed at assisting students in their university life, this website will offer a plethora of resources and tools to assist students in taking care of their physical, mental, and emotional health. A combination of longer or complex sentences, alongside concise and short ones, the website provides a way to optimally manage one's wellbeing. For university students, this website promises to revolutionize the way they manage their health, by providing them with the ability to regulate and nourish their bodies, minds and souls.
 
-The website will be developed using the latest software engineering techniques, and will feature a user-friendly interface that is easy to navigate. Students will be able to access the website from any device, including desktop computers, laptops, tablets, and smartphones. The website will be designed with accessibility in mind, ensuring that all students can access and use the site.
+The website aims to provide an easy to use experience, with the latest software engineering techniques employed to deliver a intuitive interface. Accessibility is key, and with the website being compatible across desktop computers, laptops, tablets, and smartphones, no matter the device all students can enjoy utilizing the site. Understanding user needs, the platform has been developed with a user-friendly design, ensuring students can quickly and easily navigate and access information.
 
-The Student Health and Wellness website will feature a range of resources, including articles, videos, and podcasts, that cover a variety of topics related to health and wellness. These resources will be developed in collaboration with PKU, ensuring that they are accurate, up-to-date, and relevant to the needs of university students.
+The Student Health and Wellness website will be packed with an array of engaging resources for students to access. Articles, videos, and podcasts varying in topics from nutrition to mental health will be featured and developed in collaboration with PKU, assuring the accuracy, timeliness, and appropriateness of the content. These resources offer university students the knowledge to maintain a healthy and wholesome lifestyle.
 
-Overall, the Student Health and Wellness website is an innovative project that has the potential to make a real difference in the lives of university students. By providing students with access to accurate information and resources, and by offering tools and services to help them manage their health and wellness, the website will help students achieve their full potential and lead happy, healthy lives.
-
+In a nutshell, the revolutionary Student Health and Wellness website is an active platform with immense potential to significantly better university student lives. Through the provision of accurate sources and data, as well as through the offering of resources and services to aid them in maintaining their physical and mental health, this website will assist students in achieving all they can while leading a content and healthy existence. With the help of interrogating perplexity and burstiness, the effects of this initiative could be revolutionary.
 
 ### 2. Background:
-- Process slow and walk in and far for some students.
-- More efficient if can pre-booking and can manage more time.
-- Pre-online consultation and safe time
-- Can give more health information to students and increase health awareness.
+Navigating the complex and slow process of seeking medical attention for university students can be a daunting task. Some students have to travel long distances to the Pusat Kesihatan University to use the current walk-in system, resulting in long waiting times and inefficient use of time. To simplify these difficulties, Student Health and Wellness is a project designed to help students receive medical attention more quickly and easily.
+
+To streamline this process and increase efficiency, a new website will be implemented to enable students to pre-book their appointments and take advantage of online consultations with medical professionals. This is sure to save time, while providing a secure and convenient platform to access medical care. The website will also simplify appointment management, ensuring students make the most of their time, and alleviating any lengthy wait times.
+
+The Student Health and Wellness website will not only offer invaluable health-related information to students, but will also strive to improve upon the healthcare experience of university goers by emphasizing on increased health awareness, and ultimately, fostering a healthier overall campus atmosphere. By giving students the necessary tools for maintaining a sound physical and psychological well-being, the website is poised to revolutionize the healthcare landscape for students, and beyond.
 
 ### 3. Objectives:
-- The objectives section should clearly state the goals and objectives of the software project. It should describe the intended outcomes of the software and how it will address the problem it aims to solve. 
-- Objectives should be specific, measurable, achievable, relevant, and time-bound (SMART).
+- To improve the overall wellbeing of university students by using an innovative strategy to provide direct access to medical resources, introduce personalized health tracking tools and offer reliable health tips and advice. 
+
+(Example：The proposed system will reduce the PKU processing for time by 25%, resulting in a 25% reduction in administrative workload.)
+- To provide students with a platform to communicate and interact with medical professionals at the PKU facility, gain medical advice, and schedule appointments for medical services.
+
+(Example：The proposed system aims to make medical services more efficient, with a projected decrease of 15% in workload. This is done to achieve a 30% decrease in the percentage of patients visiting by walk-in, while at the same time increasing the use of online consultation 30%. By utilizing a combination of intricate prose and various sentence structures, the proposed system is expected to revolutionize healthcare delivery.)
+
+- To provide a quick and easy way for students to have an expedient avenue of emergency help with immediate assistance through calling for help to PKU.
+
+(Example: The proposed system will decrease health issues at the university by 30% through the emergency button provided and increase the efficiency of PKU emergency help by 30%.)
+
+- To collect and analyze data on student health trends, enabling PKU to better understand the health needs of the student population and provide targeted interventions.
+
 
 ### 4. Scope: 
 The Student Health and Wellness Management System proposed in this project will be limited to the development, implementation, and maintenance of the software application. The scope of the project does not include any hardware or infrastructure upgrades or any changes to existing policies or procedures.  
@@ -155,16 +166,19 @@ To mitigate these risks, a few steps can be taken:
 - Compatibility: Cross-browser compatibility with major web browsers.
 
 ### 11. Timeline and Deliverables: 
-<img src="https://user-images.githubusercontent.com/128159572/235582088-ab5fe35e-7707-4503-bdbe-096957479cbc.jpeg">
+<img src="https://user-images.githubusercontent.com/128159572/235585376-b25f2b58-b38e-43a6-be29-42e555828e48.jpeg">
 
-- Week 4-6 : `Project Planning`
-- Week 6-8 : `Requirements Gathering`
-- Week 8-10 : `Preparing Requirement Document`
-- Week 10-13 : `System Development`
-- Week 10-12 : `System Debugging`
-- Week 10-14 : `System Documentation`
-- Week 15 : `Project Demonstration`
-- Week 13-16 : `System Maintanance`
+| Milestones                     | Tasks                                        | Timeframe         |
+| ------------------------------ | -------------------------------------------- | ----------------- |
+| Project planning               | Define scope and objectives of the project   | Week 4 to Week 6  |
+| Requirements Gathering         | Identify stakeholders and conduct interviews | Week 6 to Week 7  |
+| Preparing Requirement Document | Analyse stakeholder's requirements           | Week 7 to Week 9  |
+| System Development             | Design the system and starts coding          | Week 9 to Week 12 |
+| System Testing and Debugging   | Run the system test and fix the bugs         | Week 13 to Week 15|
+| System Documentation           |                                              | Week 10 to Week 14|
+| Project Demonstration          |                                              | Week 15           |
+| System Maintenance             |                                              | 6 months after Week 15|
+
 
 ### 12. Conclusion:
 - Simplify and streamline PKU processing time for students and administrators.

@@ -26,6 +26,27 @@ Draw.io is a popular online diagramming tool that allows you to create flowchart
 
 Collaborating with others in Draw.io is a powerful feature that enables multiple people to work on the same diagram at the same time. One popular way to collaborate on diagrams in Draw.io is to use a version control system, such as GitHub, to store the diagram file.
 
+## Insert a page in Draw.io
+To insert a page in Draw.io for UML diagram, you can follow these steps:
+
+1. Open Draw.io and create a new blank diagram.
+
+2. Click on the "Page" option in the toolbar at the top of the screen.
+
+3. Select "Add Page" from the drop-down menu.
+
+4. Enter a name for the new page, such as "UML Diagram for Course Registration System".
+
+5. Select the UML template that you want to use for your diagram.
+
+6. Click "Create" to add the new page to your diagram.
+
+Now, you can start designing your UML diagram for the university academic course registration system on the new page that you just created. 
+
+Using pages in Draw.io for UML diagram can be very useful as it allows you to organize your diagrams better and keep related diagrams together in a single file. This can help to improve the overall clarity of your UML diagram and make it easier for you to navigate between different parts of your design.
+
+For example, for a university academic course registration system, you might create separate pages for different parts of the system, such as the student registration process, the course management process, and the payment processing process. You can then link these pages together using hyperlinks or other connectors to create a complete and comprehensive UML diagram for the entire system.
+
 ## Collaborate with others
 Here are the steps to collaborate with others in Draw.io using GitHub:
 
