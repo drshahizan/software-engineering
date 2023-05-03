@@ -156,11 +156,56 @@ In conclusion, the Agile software process model is an ideal choice for the propo
       <td>Phase</td>
       <td>Tasks</td>
       <td>Person In-Charge</td>
+      <td>Duration</td>
       <td>Progress</td>
     </thead>
     <tbody>
       <tr>
-        
+        <td>Phase 1:Project Initiation</td>
+        <td>Defining the project scope, objectives, and stakeholders.Create a plan for the project and collect the requirements.</td>
+        <td>Project Manager</td>
+        <td>2 weeks</td>
+        <td>Complete</td>
+      </tr>
+      
+      <tr>
+        <td>Phase 2:Design and Planning</td>
+        <td>Design user interface, prototypes, user journey maps, wireframes and divide the tasks</td>
+        <td>Design Contributor</td>
+        <td>2 week</td>
+        <td>incomplete</td>
+      </tr>
+      
+      <tr>
+        <td>Phase 3:Execution adn Implementation</td>
+        <td>Coding, testing, and integration of the features developed</td>
+        <td>Software Developer</td>
+        <td>4 weeks</td>
+        <td>incomplete</td>
+      </tr>
+      
+      <tr>
+        <td>Phase 4:Review </td>
+        <td>Demoing the completed features, presenting to the stakeholders and gathering feedback</td>
+        <td>Development Team</td>
+        <td>2 weeks</td>
+        <td>incomplete</td>
+      </tr>
+      
+      <tr>
+        <td>Phase 5:Restrospective</td>
+        <td>Discussing what went well and what didn't, identifying the root causes of problems and planning to solve the problems</td>
+        <td>Project manager, software developer and assistant</td>
+        <td>2 weeks</td>
+        <td>incomplete</td>
+      </tr>
+      
+      <tr>
+        <td>Phase 6:Maintenance</td>
+        <td>Maintain Feedback System and create maintenance planning</td>
+        <td>Project manager and quality assurance tester</td>
+        <td>2 weeks</td>
+        <td>incomplete</td>
       </tr>
     </tbody>
   
