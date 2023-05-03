@@ -85,29 +85,29 @@ This section describe the ideal software process model for this system developme
 - It should also describe the testing methodologies, project management practices, and quality assurance processes.
 
 ### 6. Budget:
-For the student health and wellness management website which involves around 3000 users, the estimated budget is RM 550,000. The budget includes the costs for 6 months of development and 6 months of maintenance for the website.
-- Hardware: **RM 35,000**<br/>
+For the student health and wellness management website which involves around 2000 users, the estimated budget is **RM 550,000**. The budget includes the costs for 6 months of development and 6 months of maintenance for the website.
+- Hardware: **RM 35,000**\
 This could include purchasing or renting servers, storage devices, networking equipment, computers and other hardware necessary for the development and maintenance of the website. The cost might differ depending on the latest requirements of the website and the hardware components chosen.
 
-- Software: **RM 30,000**<br/>
+- Software: **RM 30,000**\
 This could include purchasing or licensing software such as operating systems, web development tools, and security software. The cost of software might differ depending on the latest requirements of the website, the number of licenses required, and the software tools and platforms chosen. To save on software costs, an open-source solution like the MySQL and PHP (LAMP) stack is a suitable alternative, with no cost initially required.
 
-- Testing: **RM 15,000**<br/>
+- Testing: **RM 15,000**\
 It requires specialized tests such as functional, performance and security tests to ensure the website functions correctly and meets the requirements. These tests require purchasing and installing specialized test equipment, software and other services that come with their own costs.
 
-- Maintenance: **RM 60,000**<br/>
+- Maintenance: **RM 60,000**\
 This could include post-launch support and bug fixes for 6 months after the website is developed. This budget not only covers the cost of fixing any issues that arise during the maintenance period, but also the addition of new features and the development of any technical upgrades that are required to ensure the website is secure and up-to-date.
 
-- Security: **RM 20,000**<br/>
+- Security: **RM 20,000**\
 This might involve setting in place security measures like firewalls, encryption and frequent security audits to safeguard user data and prevent any cyberattacks. The cost of security implementation might differ based on the website needs as well as the providing services chosen.
 
-- Personnel: **RM 340,000**<br/> 
+- Personnel: **RM 340,000**\
 This could include salaries or fees for the development team members such as developer,user experience designer, quality assurance tester, documentation specialists and requirements analyst designer. The cost for a development team will vary according to their expertise and skill.
 
-- Contingency: **RM50,000**<br/>
+- Contingency: **RM50,000**\
 This could include additional funds set aside for any potential expenses or changes in project scope that might occur throughout the website's development and maintenance phases. Such a budget can assist with dealing with possible delays, revisions in the project's scope or any other sudden changes that need additional financial resources. 
 
-In conclusion, the estimated budget is RM 550,000 which covers the costs for hardware, software, testing, maintenance, security, personnel and contingency. Any potential budget alterations must be relayed to stakeholders and project sponsors.
+In conclusion, the estimated budget is **RM 550,000** which covers the costs for hardware, software, testing, maintenance, security, personnel and contingency. Any potential budget alterations must be relayed to stakeholders and project sponsors.
 
 ### 7. System Architecture:
 #### Presentation Layer:
@@ -157,20 +157,30 @@ To mitigate these risks, a few steps can be taken:
 5. Implement strict access controls: It is important to set up strict access restrictions and allow only those people who truly require access to sensitive information to perform their jobs. Access control lists, role-based access controls, and user authentication can help with this.
 
 ### 9. Resources:
-#### Staff : 
-- 1 User Experience Designer
-- 1 Quality Assurance Tester
-- 1 Documentation Specialists
-- 1 Main Developer
-- 1 Requirements Analyst
+- **Staff Resources** : 
+  - Main Developer : Goh Jiale
+    - Mainly responsible for designing and developing the website as well as troubleshooting and fixing issues
+  - User Experience Designer : Lee Yik Hong
+    - Mainly responsible for designing user interface and user flows 
+  - Quality Assurance Tester : Koh Su Xuan
+    - Mainly responsible for developing test plans and scenarios
+  - Requirements Analyst : Ong Yi Yan
+    - Mainly responsible for gathering and analyzing the requirements from stakeholders 
+  - Documentation Specialists : Tang Yan Qing
+    - Mainly responsible for developing user manuals and system documentation
 
-#### Equipment :
-- Servers
-- Security and backup
-- Software
-- Web Server
-- Data Analytics Tools
-- Relational Database Management System (RDBMS)
+- **Hardware Resources** :
+  - Computer and laptop for each team member
+  - Internet connectivity
+  - Servers for hosting the website
+
+- **Software Resources** :
+  - **Visual Studio Code**: Used for editing code to develop the website. It includes a variety of extensions such as live server which can help to speed up the development process.
+  - **GitHub**: Used for collaborating with other members during the development of the website. It provides tools such as code hosting which make it simpler for teams to collaborate on projects
+  - **Bootstrap Studio**: Used for developing the interface of the website. It provides a big library of pre-built components which makes it simpler to develop a user-friendly and aesthetically pleasing website
+
+- **Other Resources** :
+  - Cloud services
 
 ### 10. Technical Specifications:
 - Platform : Web-based application

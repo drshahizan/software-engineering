@@ -122,8 +122,25 @@ This section describe the ideal software process model for this system developme
 ---
 
 ### 6. Budget:
-- The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
-The development of the college room rental system for around 1,800 users within a semester will involve various costs, including hardware, software, personnel, and testing.
+The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
+The development of the college room rental system for around 1,800 users within a semester will involve various costs, including hardware, software, personnel, testing, and contingency.
+
+- Hardware: RM 50,000<br>
+The hardware budget includes the cost of servers, networking equipment, computers and peripherals, storage devices, and backup devices. The budget will be depending on the size and complexity of the project.
+        
+- Software: RM 45,000<br>
+Development tools and software licenses will include the cost of software development kits, programming languages, and other tools needed for development. There will be costs associated with integrating a payment processing system because the college room rental system allows students to make online payments. Cost of security software includes antivirus, firewalls, and other tools to protect the system from cyber threats. 
+
+- Personnel : RM 800,000<br>
+The personnel budget will be covering the development team's pay and benefits, including the project manager, business analyst, database administrator, main and assistant developer, quality assurance engineer and UI/UX designer. The number of hours needed for each role would depend on the project timeline and deliverables. If there are any overhead costs, they will be taken into consideration.
+
+- Testing : RM 400,000<br>
+The number of test cases, the duration of testing, the types of testing required, and any additional resources needed such as hardware and software licenses will be considered for the testing budget. The testing expenses includes the cost of testing tools and software, hiring testing team, and conducting different types of testing such as functional testing, performance testing, security testing and usability testing.
+
+- Contingency : RM 100,000<br>
+The allocation of funds to cover unanticipated occurrences or circumtances that could effect the project budget is referred to as a contingency budget. The contingency budget typically covers unforseen hardware or software compability issues, unexpected personnel turnover, and also emergencies such as natural disasters. It depends on the specific risks and uncertainties associated with the project. 
+
+Overall, the estimated budget for the development of the college room rental system is RM 1,395,000. The budget includes all expenses associated with hardware, software, staff, testing, and contingency. 
 
 ---
 

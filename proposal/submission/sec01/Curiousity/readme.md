@@ -35,12 +35,12 @@ Don't forget to hit the :star: if you like this repo.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
   
-### 1. Executive Summary📝:
+### 1. Executive Summary:
 Our proposed UTM Event Management System is a comprehensive solution aimed at simplifying and streamlining the processes of event management for organisers, attendees, and administrators. To achieve this, we're using cutting-edge technology and industry best practises to create a seamless user experience that makes it simple for event planners to plan and carry out successful events and for attendees to find, register for, and participate in events. The key features of our system include real-time event scheduling, registration, various types of activities and merit, and feedback capabilities. These features enable event planners and administrators to optimise event preparation, track performance, and make data-driven decisions. A user-friendly interface and  integration with various social media sites would also be helpful to attendees. Ultimately, our UTM Event Management System will provide measurable value to all stakeholders, resulting in increased event participation, better engagement and satisfaction, and a stronger institutional reputation. By investing in our system, UTM will be at the forefront of event management technology and innovation.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
-### 2. Background📄:
+### 2. Background:
 Events are an essential part of the University of Technology, Malaysia (UTM) experience. However, the current manual process of managing events is time-consuming, prone to errors, and lacks the ability to provide real-time information about event performance. These difficulties have had a detrimental effect on participants' overall experiences, leading to poor event organisation and low participation rates.
 
 The proposed UTM Event Management System aims to address these challenges by introducing an innovative, intuitive, and automated system that streamlines the event management process. The proposed system leverages the latest technologies and industry best practices to deliver a seamless user experience for organisers, attendees, and administrators. Real-time event scheduling, registration, different sorts of activities and credits, and feedback capabilities are among the system's key features, which give organisers and administrators the ability to optimise event planning, monitor performance, and make informed data-driven decisions.
@@ -51,7 +51,7 @@ In summary, the UTM Event Management System proposal seeks to address the challe
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
-### 3. Objectives📖:
+### 3. Objectives:
 #### Specific: 
 * To digitise and automate the paperwork process for JKM event planning and project management within KTDI.
 * To reduce paper usage and increase efficiency in managing event-related documents.
@@ -75,19 +75,20 @@ In summary, the UTM Event Management System proposal seeks to address the challe
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
-### 4. Scope🔍: 
+### 4. Scope: 
 Our proposed system is named <b>UTM Event Management System</b>. It will provide a web-based platform to let the event organisers plan, manage, and execute events more efficiently.
 This web-based system will include the following features or functionality:
 -	Event planning and organisation.
--	Event registration.
--	Onsite management to monitor the event progress.
+-	Agenda and schedule management.
+- Software integration to reduce paper usage and to ensure the efficient conduct of the proceedings.
+-	Onsite management to coordinate with the event organisers,monitor and track the event progress.
 -	Analytics and reporting for evaluating the effectiveness of the system.
 -	Attendee engagement to identify areas for improvement.
--	Our system is limited to Kolej Tun Dr. Ismail (KTDI) events only and it will not provide any access to the other organisers such as PERSAKA club, AIESEC, Losting Music Club, etc.
+-	Our system is limited to Kolej Tun Dr. Ismail (KTDI) management only such as Student Residential College Committee (JKM), Fellow, Assistant Fellow, College Principal and the staff. It would not provide any access to the students and other organisers.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
-### 5. Software Process Model🛠️:
+### 5. Software Process Model:
 A software process model's main objective is to offer a framework for the systematic and organised development of software. It offers a collection of tasks, products, and deadlines to make sure the software is created quickly and effectively. A software process model's main objective is to make sure that the software is high-quality, delivered on time, and within budget while also meeting the requirements of the stakeholders.
 
 The <b>Agile software development process model</b> is the ideal software process model for this campus event management system development. The Agile process model is an adaptable and iterative method of developing software that places a focus on teamwork, client satisfaction, and the quick delivery of functional software. This process model emphasises delivering value to the customer at each iteration and is appropriate for projects with varying requirements and uncertainties.
@@ -232,7 +233,7 @@ The quality assurance analyst along with the team members will ensure that the s
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
-### 6. Budget💰:
+### 6. Budget:
 The development of the academic course registration system for 30,000 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at **RM 900,000**, as outlined below:
 
 - **Hardware Costs: RM 400,000** <br>
@@ -257,31 +258,74 @@ In conclusion, the estimated budget for the development of the UTM Event Managem
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
-### 7. System Architecture🖥️:
+### 7. System Architecture:
+The proposed system architecture for the KTDI event management system is a web-based system built using modern technologies and frameworks. The system will have a multi-tier architecture consisting of a presentation layer and  application layer. The presentation layer will be responsible for displaying the user interface and handling user interactions. The application layer will be responsible for implementing the business logic of the system and handling user requests. The system will require users to enter their email and password to gain access, limiting use to JKM KTDI members, staff of the office KTDI, fellows, and assistant fellows.
 
-The proposed system architecture for the event management system will be a web-based system built using modern technologies and frameworks. The system will use the following tools and technologies:
+The system will have two interfaces catering to different roles: the JKM interface and the Staff Office KTDI and Fellow interface. JKM members will be able to create spaces for handling the necessary documents for each activity. Within these spaces, they can distribute tasks to different members, and progress is visible to all members, staff, fellows, and assistant fellows involved.
 
-- Programming languages: HTML, CSS, JavaScript, PHP
-- Frameworks: Laravel, Bootstrap
-- Database: MySQL
-- Server: Apache
-- Data Visualization: Chart.js
-The system will have a multi-tier architecture consisting of a presentation layer, application layer, and data layer. The presentation layer will be responsible for displaying the user interface and handling user interactions. The application layer will be responsible for implementing the business logic of the system and handling user requests. The data layer will be responsible for storing and managing data.
+Users can upload their event-related documents to the system, and a feature allows them to send the documents to the appropriate approver. The person in charge can decide whether to approve the documents or not. If the approval is rejected, one can leave comment for improvement and correction at the comment section
 
-To implement the RBAC functionality, we will use Laravel's built-in authorization features to restrict user access based on their roles and permissions. Different interfaces will be provided to each user role based on their needs and permissions.
+JKM members can use this system to record completed activities for record-keeping purposes. This may include generating reports for each unit and feedback reports that can serve as a reference for future JKM batches, fellows, and assistant fellows.
 
-User input data will be stored in the MySQL database. The system will have tables for events, users, organisers, and other entities. The system will also have tables for storing user input data, such as registration forms, event applications, and venue requests. The data layer will use ORM (Object-Relational Mapping) to map database tables to PHP classes and provide an abstraction layer for managing data.
+The Staff Office KTDI, Fellow, and Assistant Fellow interfaces can view whether there are any documents that need approval and check the progress of each unit of the activity. They can also access the report and record section to view past activities that have been organised. 
 
-Data analysis and visualisation will be implemented using Chart.js, a JavaScript library for creating interactive charts and graphs. We can use Chart.js to visualise data such as event participation rates, event categories, and other metrics.
-
-To improve the load time of the page, we can implement caching techniques such as browser caching, server-side caching, and database caching. We can also optimise images and other assets to reduce page size and improve load time.
+<table style="border-collapse: collapse;">
+      <thead>
+        <tr>
+          <th>Layer/Aspect</th>
+          <th>Tool/Technology</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td rowspan="5">Presentation Layer</td>
+          <td>HTML</td>
+          <td>Markdown language that used to structure content and create a basic layout, in line with the design of the system's user interface</td>
+        </tr>
+        <tr>
+          <td>CSS</td>
+          <td>Style sheet language that used to describe the presentation of HTML documents by styling and formatting the HTML content.</td>
+        </tr>
+        <tr>
+          <td>JavaScript</td>
+          <td>Programming language that used to add interactive and dynamic effects to the interface of web pages, as well as provide some functionality in the web pages.</td>
+        </tr>
+        <tr>
+          <td>Bootstrap</td>
+          <td>CSS framework that will be utilized to create responsive web pages and enhance the system's user interface by providing a consistent and responsive design across different devices and screen sizes</td>
+        </tr>
+        <tr>
+          <td>Figma</td>
+          <td>Cloud-based design tool used for create interface design and prototype user interfaces</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Application Layer</td>
+          <td>PHP</td>
+          <td>Server-side scripting language that used to handle server-side tasks, such as user authentication and database management, and to create dynamic web pages that display information based on user input or system data.</td>
+        </tr>
+        <tr>
+          <td>Apache</td>
+          <td>open-source web server software that used to host and serve the web pages and PHP scripts that make up the system's user interface and backend functionality</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Overall of the System Development</td>
+          <td>Visual Studio Code</td>
+          <td>Used as Code Editor</td>
+        </tr>
+        <tr>
+          <td>Github</td>
+          <td>used for version control and collaborative development. Developers involved will use it to store codebase, track changes to code and collaborate with other developers on the project. It will be used for code review and issue tracking to resolve bugs and other issue in the system</td>
+        </tr>
+      </tbody>
+    </table>
 
 The block diagram for the proposed system architecture is as follows:
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Curiousity/system%20architecture.png" alt="SystemArchitecture"></img>
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
-### 8. Risks Assessment⚠️:
+### 8. Risks Assessment:
 
 <table style="border-collapse: collapse;">
       <thead>
@@ -331,7 +375,7 @@ The block diagram for the proposed system architecture is as follows:
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
-### 9. Resources📍:
+### 9. Resources:
 To successfully deliver the academic course registration system, the following resources are required:
 
 **Staff**
@@ -370,7 +414,7 @@ Note: All costs mentioned above are estimates and are subject to change based on
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
-### 10. Technical Specifications🌐:
+### 10. Technical Specifications:
 <table>
   <tr>
     <th align= "left">Data sources</th>
@@ -378,8 +422,7 @@ Note: All costs mentioned above are estimates and are subject to change based on
       <ul>
         <li>Event data which includes information about the event itself, such as the date, time, location and event type.</li>
         <li>Attendee data which includes attendee information such as names,email addresses,phone numbers and other contact details.</li>
-      <li>The survey tools integrated with the event management system will collect data and provide insights into attendee satisfaction, areas of improvement, and future event ideas.</li>
-  </ul>
+      </ul>
     </td>
   </tr>
   
@@ -449,7 +492,7 @@ Note: All costs mentioned above are estimates and are subject to change based on
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
-### 11. Timeline and Deliverables📅: 
+### 11. Timeline and Deliverables: 
 -Below is the timeline and deliverables of the project:
     <table style="border-collapse: collapse;">
       <thead>
@@ -510,7 +553,7 @@ Quality Assurance and Testing Procedures
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
-### 12. Conclusion✏️:
+### 12. Conclusion:
 
 The proposed system aims to improve the usability and effectiveness of the previous system by addressing the issue of low participation rates in co-curricular activities in universities while also enhancing the effectiveness of promoting events to students.
 

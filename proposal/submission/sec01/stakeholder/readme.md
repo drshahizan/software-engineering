@@ -37,6 +37,10 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
+### Meeting with our stakeholder:
+<div style="text-align:center;">
+<img src= "https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/stakeholder%20hamdan.jpg?raw=true" style="max-width:100%;">
+</div>
 ---
 
 ### Table of Contents
@@ -82,17 +86,17 @@ Our proposed student accommodation system aims to achieve the following objectiv
 
 1. **Specific:** Create an efficient system for hostel room allocation that cuts the time needed by 50%.<br>
 **Measurable:** Determine the reduction in allocation time by doing a comparism before and after the new system is implemented.<br>
-**Achievable:** More flexibility for students to make their own decision for choosing their allocated rooms.<br>
+**Achievable:** Work together to establish the automated online allocation procedure with the student accomodation admistrators and the KTDI staff.<br>
 **Relevant:** To support streamlining and enhancing efficiency in the room allocation procedure.<br>
 **Time-bound:** The objective will be achieved within the first year of the project.
 
-2. **Specific:** Display, occupancy rates can be raised by 10%.<br>
-**Measurable:** Keep track of the occupancy rates before and after the new system is put in place to gauge the growth.<br>
-**Achievable:** Future allocation decisions could be achieved via gathering and analysing data on room allocation trends.<br>
-**Relevant:** The utilisation of available housing will improve with higher occupancy rates, which will also lessen the requirement for interim housing.<br>
+2. **Specific:** Simplify the room management process which reduce the manual steps needed by 55%.<br>
+**Measurable:** Keep track of the rate and process in managing a room before and after the proposed system is applied.<br>
+**Achievable:** Collect and gather the information on the stakeholders' requirements to develop a more user friendly management system.<br>
+**Relevant:** A simple room managing approach will improve with effective room control and lesser work load.<br>
 **Time-bound:** The objective will be achieved within the first two years of the project.
 
-3. **Specific:** Develop a maintenance tracking system that reduces the respond times to maintenance requests by 50%.<br>
+3. **Specific:** Enhance the room maintenance system by reducing the respond times to maintenance requests by 50%.<br>
 **Measurable:** To measure the decrease in response time by performing a time audit before and after the new system is implemented.<br>
 **Achievable:** The effectiveness of the maintenance procedure could be increased by creating a system for tracking maintenance.<br>
 **Relevant:** The condition of equipments in KTDI residence will always be sustainable and well maintained.<br>
@@ -111,24 +115,25 @@ These SMART objectives for our introduced student accommodation system in KTDI a
 ### 4. Scope
 The scope refers to the boundaries of the project and outlines the features and functionalities of the system, including its goals, objectives and requirements as well as the expected outcomes and benefits. Detailed explanations of the features and functionality of our proposed student accommodation system in KTDI are as follows:
 
-- Centralised Dashboard: <br>In both the user interfaces of the students, fellows, KTDI staff and also the adminstrative department in KTDI will have a well looking dashboard to provide the users a easier and effective way to access their needs via the tools provided. The dashboard can provide students to access important information related to their personal information, hostel information such as dormitory fees according to room type and room location.
+- User registration: <br>By entering personal information and setting up a password with UTM ID, new user can register as our website user before using the KTDI system.
 
-- Student registration: <br>By entering user's personal information, academic information and room preferences, students can register as users in the system using the student registration tool. Before letting a student register, the system should confirm their identity and determine whether they qualify for accommodation registration based on the hostel merits and year of study. The first year students will be registered automatically, while the senior year students have to register themselves.
+- Centralised Dashboard: <br>In both the user interfaces of the students, fellows, KTDI staff and also the adminstrative department or KTDI department will have a well looking dashboard to provide the users a easier and effective way to access their needs via the tools provided. The dashboard can provide students with current allocated college merits, college activities, personal information and hostel information such as dormitory fees according to room type, room location and hostel block.
 
-- Room allocation: <br>According on the students' choices, room availability and hostel merits, the system can assign rooms to them using the room allocation tool. The system should include elements including the student's academic programme, year of study, and any unique requirements or requests, such as health condition in order to take note in the allocation process. This process will prioritise the students with higher hostel merits to prefer their desired hostel block as well as room type.
+- Hostel application: <br>Before letting a student to apply, the system should confirm their identity and determine whether they qualify for accommodation application based on the KTDI merits and year of study. This application is only opened to the senior year students.
 
-- Room management: <br>The room management feature allows students to manage their rooms through the system. This includes room bookings, check-in, check-out and maintenance requests. The system should provide a calendar view of the room availability and allow students to book their preferred room and check-in and check-out dates. It should also allow students to request maintenance services for their room and track the status of the request.
+- KTDI college merit calculator: The fellows could manage and collect the student college merits based on the college activities that participated by them. The final report on students' college merit marks will be generated automatically. Whoever meet the minimum requirement of college merit marks will be given the priorities to apply KTDI hostel.
 
+- Room allocation: <br>According on the students' choices, room availability and KTDI merits, the automated system can assign rooms to them using the room allocation tool. The system should include elements including the student's academic programme, year of study and any unique requirements or requests, such as health condition in order to take note in the allocation process. This process will prioritise the students with higher hostel merits to prefer their desired available hostel block as well as room number. The system should provide a calendar view of the real time room availability and assist students to select their preferred room and check-in and check-out dates.
 
-- Payment management: <br>Students can use the system to pay their lodging costs via the payment management tool. The system should enable students to monitor their payment history and receipts and offer safe payment options like internet banking and also convinence payment method, such as TnG e-wallet. Under this scope, there will be duitnow QR code and bank account number provided for the students to pay their lodging costs. 
+- Room management: <br>The room management feature allows students to manage their rooms through the system. This includes room changing, room cancellation, check-in, check-out and all of these will be done via online. It should also allow students to request maintenance services for their room and track the status of the request. This system also allow students to register their brought electrical appliances and the KTDI staff or administrative can always control the room of each student.
+
+- Payment management: <br>Students can use the system to pay their lodging costs via the payment management tool. The system should enable students to monitor their payment history and receipts and offer safe payment options like internet banking and also convinence payment method, such as TnG e-wallet and duitnow QR code. The payment will include the fees of room rentaling, charges in extra electical appliances as well as the sumon given by KTDI staff.
 
 - User management: <br>Administrators can manage user accounts for students, staff and other users via the user management tool. To make sure that users only have access to the functions and information they required, the system offers capabilities like account creation, modification and deletion as well as role-based access control.
 
 - Security: <br>To log in the system, the students have to enter their UTM id and the password set. Same concept will be implemeted for the KTDI staff, fellows and KTDI administrators.
 
 - Reporting and analytics: <br>Administrators will be allowed to monitor and analyze the occupancy rates, revenue and maintenance issues of the accommodation system. Reports from the system should include occupancy rates based on the study programme or room type, revenue by time period and building or room-specific maintenance issues.
-
-- KTDI college merit calculator: The fellows could manage and collect the student college merits based on the college activities that participated by them. The final report on students' college merit marks will be generated automatically. Whoever meet the minimum requirement of college merit marks will be given the priorities to apply KTDI hostel.
 
 - Support and maintenance: <br>Residents or students should be able to report problems any problem faced in the accommodation system, such as bugs through the system's help desk and there should be a dedicated team working to quickly resolve these problems.
 
@@ -139,13 +144,12 @@ The scope refers to the boundaries of the project and outlines the features and 
 ---
 
 ### 5. Software Process Model
-<!-- ***Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. *** -->
   
-Our main objective in creating the Kolej Tun Dr Ismail (KTDI) project's student housing system is to create a high-quality system within the allotted time and budget. We have decided to employ the <b>Agile methodology</b> as our development process model in order to accomplish this. This method places a focus on cooperation and participation from stakeholders throughout the development process, creating a system that is more adaptable and responsive.
+Software process model in developing the Kolej Tun Dr Ismail (KTDI) project's student accommodation system is to create a user friendly and high-quality system within the allotted time and budget which fulfils our stakeholders' requirements. Therefore, we have decided to employ the <b>Agile methodology</b> as our software development process model in order to accomplish our proposed system. This method places a focus on cooperation and participation from stakeholders throughout the development process, creating a system that is more adaptable and responsive.
 
-Furthermore, because of the nature of student rooms, the Agile methodology is perfect for projects like ours where requirements and priorities may change frequently. Agile allows us to guarantee that the system is continually updated and enhanced depending on input from stakeholders. This will enable the Student Accommodation System for KTDI project to produce a system that satisfies their changing needs and expectations.
+Furthermore, because of the nature of student rooms and development flexibility as well as continuous team collaboration, the Agile methodology is perfect for projects like ours where requirements and priorities may change frequently. Agile methodology allows us to guarantee that the system is continually updated and enhanced depending on inputs from stakeholders while our project progress moves forward. This will enable the Student Accommodation System in KTDI project to produce a system that always satisfies their changing needs and reaches the expectations.
 
-<p align="center"><img src="https://i0.wp.com/mobile-jon.com/wp-content/uploads/2021/04/Agile-Methodology.jpg?fit=1920%2C1080&ssl=1" width="700px" height="350px"></p>
+<p align="center"><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/agilepro.png?raw=true" width="500px" height="410px"></p>
 
 Agile methodology for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) as stated below:
 
@@ -159,15 +163,11 @@ Agile methodology for developing the Student Accommodation System in Kolej Tun D
 
 5. Testing Phase: To make sure our software corresponds to specified standards, we will work with our instructor to develop a testing plan and carry out functional, integration, and acceptability testing. Any flaws discovered during testing will be reported and fixed using a bug tracking programme. After testing is finished, we will meet with our stakeholder to review the findings and go over any changes that should be made to deliver a high-quality product that satisfies their requirements and expectations. We are devoted to ensuring that our software is of the greatest quality by collaborating closely with our teachers because we are aware of how crucial comprehensive testing is in the software development process.This phase will take around 3 weeks because it is the most crucial phase for our system.
 
-6. Deployment Phase: :Our project manager will collaborate with the development team during the deployment phase of our Student Accommodation System for Kolej Tun Dr Ismail (KTDI) project to guarantee the programme is prepared for use. Final testing will be done to ensure the programme complies with all stakeholder criteria. To ensure the system runs smoothly, our team will train the stakeholders on how to use the programme and provide continuous support. We are aware of how crucial a successful deployment is and will collaborate closely with our project manager and development team to make sure the move to the production environment goes smoothly.We estimate 2 weeks for the deployment as we need to make sure the system is fully stabilized and can run properly.
+6. Deployment Phase: Our project manager will collaborate with the development team during the deployment phase of our Student Accommodation System for Kolej Tun Dr Ismail (KTDI) project to guarantee the programme is prepared for use. Final testing will be done to ensure the programme complies with all stakeholder criteria. To ensure the system runs smoothly, our team will train the stakeholders on how to use the programme and provide continuous support. We are aware of how crucial a successful deployment is and will collaborate closely with our project manager and development team to make sure the move to the production environment goes smoothly.We estimate 2 weeks for the deployment as we need to make sure the system is fully stabilized and can run properly.
  
-7. Review and maintenance phase:The finished programme will be examined by the developers and the stakeholder in the review phase part to make sure it satisfies the acceptance criteria and user needs. To ensure that the final product meets the stakeholder's expectations, this phase requires ongoing stakeholder feedback. This feedback will assist us in improving the system and ensuring that it satisfies the requirements of our customers, resulting in a product of excellent quality.Review needs just 2 weeks because we need some of feedback from stakeholder to know what the weaknesses or some problems towards our system.
+7. Review and maintenance phase: The finished programme will be examined by the developers and the stakeholder in the review phase part to make sure it satisfies the acceptance criteria and user needs. To ensure that the final product meets the stakeholder's expectations, this phase requires ongoing stakeholder feedback. This feedback will assist us in improving the system and ensuring that it satisfies the requirements of our customers, resulting in a product of excellent quality.Review needs just 2 weeks because we need some of feedback from stakeholder to know what the weaknesses or some problems towards our system.
 
-8. Launch Phase: :The launch phase displays the finished product that will be used in a real-world setting. Final testing and quality assurance will be carried out by the project manager in collaboration with the development team to guarantee that the software is reliable and usable in a real-world setting. Following the software's deployment, on-going support will be offered to make sure the system keeps up with the demands and goals of the stakeholders.This will take just around 1 week to make sure all of it fulfill all of the stakeholders desire.
-  
-To assure the quality and functionality of the system, many testing methodologies are employed in this project, including unit testing, integration testing, system testing, acceptance testing, and usability testing. Project management techniques leverage technologies like Kanban boards, sprint planning and regular stand-up meetings to track progress and guarantee task completion on time. To maintain code quality and reduce errors, quality assurance procedures like code review, continuous integration and automated testing are used. These procedures are essential for ensuring the effective deployment and operation of the KTDI system for student accommodation.
-
-
+8. Launch Phase: The launch phase displays the finished product that will be used in a real-world setting. Final testing and quality assurance will be carried out by the project manager in collaboration with the development team to guarantee that the software is reliable and usable in a real-world setting. Following the software's deployment, on-going support will be offered to make sure the system keeps up with the demands and goals of the stakeholders.This will take just around 1 week to make sure all of it fulfill all of the stakeholders desire.
     
 #### Testing methodologies:
 To assure the quality and functionality of the system, the following are carrying out:

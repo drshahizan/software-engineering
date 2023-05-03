@@ -22,7 +22,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>2. Koh Li Hui</td>
-    <td>User Experience Designer & Developer assistant</td>
+    <td>UX/UI Designer & Developer assistant</td>
   </tr>
     <tr>
     <td>3. Camily Tang Jia Lei</td>
