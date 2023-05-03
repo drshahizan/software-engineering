@@ -11,7 +11,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Badal Hajj and Umrah Management System
 
-### Group Tempest :
+## Group Tempest :
 1.Muhammad Anas Bin Mohd Pikri (A21SC0464)
 
 2.Muhammad Luqman Hakim Bin Mohd Rizaudin (A22EC0086)
