@@ -349,7 +349,7 @@ In general, it's crucial to recognise and reduce these risks if we want the KTDI
 
 ### 9. Resources
 I. Staff Resources:<br>
-- Project Manager: Dr Mohd Shahizan Othman<br>Responsible for overall management, planning, and coordination of the project.
+- Project Manager: Neo Zheng Weng<br>Responsible for overall management, planning and coordination of the project including members task division.
   
 - Main Developer: Joseph Lau Yeo Kai<br>Responsible for leading the software development process, designing the software architecture, and overseeing the work of the developer assistant.
   
@@ -360,11 +360,11 @@ I. Staff Resources:<br>
  - 2. Muhammad Danial
  - 3. Wong Khai Shian Nicholas
  - 4. Low Jie Sheng<br></ul>
-  Responsible for assisting the main developer in software development tasks such as coding, testing, and deployment.
+  Responsible for assisting the main developer in software architecture designing and also software development tasks such as coding, testing, and deployment.
   
 - Requirements Analyst: Wong Khai Shian Nicholas<br>Responsible for analyzing the project requirements and documenting the functional and non-functional requirements of the software application.
   
-- Documentation Specialist: Muhammad Danial<br>Responsible for creating user manuals, technical documentation, and other project-related documents.
+- Documentation Specialist: Muhammad Danial<br>Responsible for creating user manuals, technical documentation and other project-related documents.
   
 - IT Support: Joseph Lau Yeo Kai<br>Responsible for providing technical support to the development team, troubleshooting issues, and maintaining the development environment.
   
