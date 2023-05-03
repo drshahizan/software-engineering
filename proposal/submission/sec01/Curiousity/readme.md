@@ -16,6 +16,8 @@ Don't forget to hit the :star: if you like this repo.
   3. Low Ying Xi A22EC0187
   4. Ng Shu Yu A22EC0228
 
+<hr style="border:0.5px solid gray;height:0.5px;">
+
 ### 💫Table of Contents
 * [Table of Contents](#table-of-contents)
 * [Executive Summary](#1-executive-summary)
@@ -31,9 +33,12 @@ Don't forget to hit the :star: if you like this repo.
 * [Timeline and Deliverables](#11-timeline-and-deliverables)
 * [Conclusion](#12-conclusion)
 
+<hr style="border:0.5px solid gray;height:0.5px;">
   
 ### 1. Executive Summary📝:
 Our proposed UTM Event Management System is a comprehensive solution aimed at simplifying and streamlining the processes of event management for organisers, attendees, and administrators. To achieve this, we're using cutting-edge technology and industry best practises to create a seamless user experience that makes it simple for event planners to plan and carry out successful events and for attendees to find, register for, and participate in events. The key features of our system include real-time event scheduling, registration, various types of activities and merit, and feedback capabilities. These features enable event planners and administrators to optimise event preparation, track performance, and make data-driven decisions. A user-friendly interface and  integration with various social media sites would also be helpful to attendees. Ultimately, our UTM Event Management System will provide measurable value to all stakeholders, resulting in increased event participation, better engagement and satisfaction, and a stronger institutional reputation. By investing in our system, UTM will be at the forefront of event management technology and innovation.
+
+<hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 2. Background📄:
 Events are an essential part of the University of Technology, Malaysia (UTM) experience. However, the current manual process of managing events is time-consuming, prone to errors, and lacks the ability to provide real-time information about event performance. These difficulties have had a detrimental effect on participants' overall experiences, leading to poor event organisation and low participation rates.
@@ -43,6 +48,8 @@ The proposed UTM Event Management System aims to address these challenges by int
 All stakeholders, including organisers, attendees, and administrators, stand to benefit considerably from the proposed UTM Event Management System. The suggested method will save time, cut down on errors, and boost satisfaction by lessening the administrative burden of manual processes. The system will also offer insightful analytics that can be utilised to inform decisions that will enhance the outcomes of events. Overall, the suggested approach has the potential to establish UTM as a pioneer in event management innovation and technology and strengthen its competitive edge in luring and retaining attendees.
 
 In summary, the UTM Event Management System proposal seeks to address the challenges associated with the current manual event management process by introducing a modern, automated, and user-friendly solution that provides measurable benefits and enhances the overall experience of all stakeholders. The proposed system has the potential to transform event management at UTM, improve event outcomes, and enhance UTM's reputation as a leading institution of higher learning.
+
+<hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 3. Objectives📖:
 #### Specific: 
@@ -66,6 +73,8 @@ In summary, the UTM Event Management System proposal seeks to address the challe
 * To fully implement the event management system within the JKM KTDI by the end of the current academic year.
 * To achieve the above-stated measurable objectives within the first year of implementation.
 
+<hr style="border:0.5px solid gray;height:0.5px;">
+
 ### 4. Scope🔍: 
 Our proposed system is named <b>UTM Event Management System</b>. It will provide a web-based platform to let the event organisers plan, manage, and execute events more efficiently.
 This web-based system will include the following features or functionality:
@@ -76,6 +85,7 @@ This web-based system will include the following features or functionality:
 -	Attendee engagement to identify areas for improvement.
 -	Our system is limited to Kolej Tun Dr. Ismail (KTDI) events only and it will not provide any access to the other organisers such as PERSAKA club, AIESEC, Losting Music Club, etc.
 
+<hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 5. Software Process Model🛠️:
 A software process model's main objective is to offer a framework for the systematic and organised development of software. It offers a collection of tasks, products, and deadlines to make sure the software is created quickly and effectively. A software process model's main objective is to make sure that the software is high-quality, delivered on time, and within budget while also meeting the requirements of the stakeholders.
@@ -108,7 +118,7 @@ During this stage, the team will test the system to make sure it complies with t
           <th>Progress</th>
         </tr>
       </thead>
-      <tbody>
+      <tbody style="border-collapse: collapse;"> 
         <tr>
           <td rowspan="2">Phase 1: Planning</td>
           <td>Defines the project's objectives, requirements, and scope. Creates a plan for the project that includes deadlines and checkpoints.</td>
@@ -220,6 +230,7 @@ We can use Agile project management practices such as Scrum to manage the projec
 #### Quality Assurance Processes: 
 The quality assurance analyst along with the team members will ensure that the system meets the quality standards by performing various testing activities and creating test reports. The main developer and developer assistant will also perform unit testing and code reviews to ensure the quality of the code.
 
+<hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 6. Budget💰:
 The development of the academic course registration system for 30,000 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at **RM 900,000**, as outlined below:
@@ -244,6 +255,7 @@ It is always recommended to have a contingency plan for unexpected expenses that
 
 In conclusion, the estimated budget for the development of the UTM Event Management System is RM 900,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingency. Any changes in the budget will be communicated to stakeholders and project sponsors.
 
+<hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 7. System Architecture🖥️:
 
@@ -267,6 +279,8 @@ To improve the load time of the page, we can implement caching techniques such a
 The block diagram for the proposed system architecture is as follows:
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Curiousity/system%20architecture.png" alt="SystemArchitecture"></img>
 
+<hr style="border:0.5px solid gray;height:0.5px;">
+
 ### 8. Risks Assessment⚠️:
 - The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
 - It also describe the plans and strategies to mitigate those risks.
@@ -286,6 +300,7 @@ The possibility exists that the system could be exposed to security flaws like h
 #### 5. Adoption risks: 
 Due to lack of awareness or competing options, there is potential that the system will not be widely used by students and other users. The user experience designer team will carry out extensive user research and design the system to be accessible and user-friendly in order to reduce this risk. To increase awareness and promote adoption, the team will also employ focused marketing and promotional strategies.
 
+<hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 9. Resources📍:
 To successfully deliver the academic course registration system, the following resources are required:
@@ -323,6 +338,8 @@ Total Other Expenses: RM 296,000
 **Total Resources Cost: RM 900,000**
 
 Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
+
+<hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 10. Technical Specifications🌐:
 <table>
@@ -401,6 +418,8 @@ Note: All costs mentioned above are estimates and are subject to change based on
   </tr>
 </table>
 
+<hr style="border:0.5px solid gray;height:0.5px;">
+
 ### 11. Timeline and Deliverables📅: 
 -Below is the timeline and deliverables of the project:
     <table style="border-collapse: collapse;">
@@ -459,6 +478,8 @@ Quality Assurance and Testing Procedures
 - Manual System Testing: After the front-end and back-end of the system are developed, a quality assurance analyst will perform manual system testing to ensure that the system works correctly as a whole.
 - User Acceptance Testing: End users will perform testing on the system to ensure that it meets their requirements and expectations.
 - Bug Fixing: Any issues or bugs found during testing will be addressed by the development team and retested before being deployed.
+
+<hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 12. Conclusion✏️:
 
