@@ -319,13 +319,25 @@ Block Diagram:
         <th>Deliverable</th>
     </tr>
     <tr>
-        <td>Implementation (Week 8 - 13)</td>
+        <td>Planning and Design (Week 1 - 4)</td>
+        <td>
+            <ul>
+                <li>Define scope, data sources, and plan</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Project proposal</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Implementation (Week 5 - 7)</td>
         <td>
             <ul>
                 <li>Implement the system architecture and data schema</li>
                 <li>Develop the data transformation scripts</li>
-                <li>Implement the machine learning algorithms</li>
-                <li>Build the user interface and data visualization tools</li>
+                <li>Build the user interface</li>
                 <li>Perform integration testing</li>
             </ul>
         </td>
@@ -333,35 +345,13 @@ Block Diagram:
             <ul>
                 <li>System architecture and data schema implementation</li>
                 <li>Data transformation scripts implementation</li>
-                <li>Machine learning algorithms implementation</li>
-                <li>User interface and data visualization tools implementation</li>
+                <li>User interface implementation</li>
                 <li>Integration testing report</li>
             </ul>
         </td>
     </tr>
     <tr>
-        <td>Testing and Deployment (From Week 14)</td>
-        <td>
-            <ul>
-                <li>Implement the system architecture and data schema</li>
-                <li>Develop the data transformation scripts</li>
-                <li>Implement the machine learning algorithms</li>
-                <li>Build the user interface and data visualization tools</li>
-                <li>Perform integration testing</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>System architecture and data schema implementation</li>
-                <li>Data transformation scripts implementation</li>
-                <li>Machine learning algorithms implementation</li>
-                <li>User interface and data visualization tools implementation</li>
-                <li>Integration testing report</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>Testing and Deployment (1 month)</td>
+        <td>Testing and Deployment (Week 8 - 13)</td>
         <td>
             <ul>
                 <li>Perform system testing</li>
@@ -379,25 +369,6 @@ Block Diagram:
             </ul>
         </td>
     </tr>
-    <tr>
-        <td>Maintenance and Support (Ongoing)</td>
-        <td>
-            <ul>
-                <li>Monitor system performance and usage</li>
-                <li>Provide user support and training</li>
-                <li>Perform periodic system upgrades and maintenance</li>
-                <li>Ensure data security and privacy</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>System performance and usage monitoring report</li>
-                <li>User support and training materials</li>
-                <li>Periodic system upgrades and maintenance report</li>
-                <li>Data security and privacy compliance report</li>
-            </ul>
-        </td>
-    </tr>
 </table>
 
 #### Quality Assurance and Testing Procedures:
@@ -406,21 +377,17 @@ To ensure the quality of the student engagement system, the following testing pr
 - Unit testing: Each component of the system will be tested individually to ensure it meets the requirements.
 - Integration testing: The system components will be integrated and tested to ensure they work together correctly.
 - System testing: The entire system will be tested to ensure it meets the functional and non-functional requirements.
-- User acceptance testing: The system will be tested by users to ensure it meets their needs and expectations.
-- Performance testing: The system will be tested under various loads to ensure it can handle the expected user traffic.
-- Security testing: The system will be tested for vulnerabilities and potential security breaches.
+- User acceptance testing: Users will test the system to ensure their expectations are met.
+- Performance testing: The system will be tested udner various loads to guarantee it can handles the anticipated user traffic.
+
 
 ### 12. Conclusion:
-In conclusion, the proposed student engagement system is designed to improve student engagement and academic performance through advanced data analysis and machine learning algorithms. By leveraging data from various sources, the system will provide valuable insights into student behavior, preferences, and performance, allowing educators to tailor their teaching strategies to meet the unique needs of each student.
+This ppropsed system provide innovative solution in improving students engagement and their extra curricular perforamnce in UTM. 
 
-Implementing the proposed system will provide numerous benefits, including increased student engagement, improved academic performance, better teacher-student communication, and enhanced learning outcomes. The system will also provide valuable data to educators, allowing them to make data-driven decisions and measure the effectiveness of their teaching strategies.
+The implementation of this project ofers widespread benefits, including better extra-curricular performance for students, first-hand annoucement and news for the entire university community, improved student-student engagement and increased club prestige. The system will also provide meaningful insights for different departments, allowing them to make data-driven decisions and evaluate the impacts of their strategies.
 
-However, it is important to note that implementing such a system may have some limitations and challenges, including data privacy concerns, data quality issues, and technical complexities. To mitigate these challenges, the project team will implement robust data security measures, perform thorough data quality checks, and follow best practices for system implementation and maintenance.
+However, potential limitation such as data quality, technical limitations and user adoption may arise during the implementation of this system. To mitigate these challenges, our team will work collaboratively with full commitment to ensure all issues addresed are resolved.
 
-We urge decision-makers to take action on this proposal and approve the project, as we believe it has the potential to revolutionize the way we approach student engagement and learning outcomes. With your support, we can develop a system that will provide students with a personalized and engaging learning experience and empower educators to be more effective and efficient in their teaching.
-## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
+Therefore, we hope the decision-makers will approve our proeject. With your ideas and supports, we together can develop a system that is beneficial to a wide range of users. 
 
-You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
