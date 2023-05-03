@@ -106,7 +106,7 @@ Testing methodologies such as unit testing, integration testing, system testing,
 
 ### 9. Resources:
 The development of UTM Student Attendance Management System for around 20,000 users in UTM will involve many costs that are required, such as team salaries, software tool, hardware and infrastructure, training and professional development and other expenses that are unexpected. So the budget for this project in 1 year is estimated at RM 498,900 and the details are stated below: 
-#### Staff: RM 111 000
+#### Staff: RM 444 000
 <table>
 <tr>
 <td>Position</td>
@@ -114,27 +114,27 @@ The development of UTM Student Attendance Management System for around 20,000 us
 </tr>
 <tr>
 <td>Project Manager</td>
-<td>9 000</td>
+<td>36 000</td>
 </tr>
 <tr>
 <td>Business Analysts</td>
-<td>6 000</td>
+<td>24 000</td>
 </tr>
 <tr>
 <td>UI/UX Designer</td>
-<td>10 000</td>
+<td>40 000</td>
 </tr>
 <tr>
 <td>Main Developers</td>
-<td>5 000</td>
+<td>20 000</td>
 </tr>
 <tr>
 <td>Quality Assurance </td>
-<td>7 000</td>
+<td>28 000</td>
 </tr>
 </table>
 
-#### Equipment: RM 300 000
+#### Equipment: RM 1 200 000
 <table>
 <tr>
 <td>Equipments</td>
@@ -142,28 +142,28 @@ The development of UTM Student Attendance Management System for around 20,000 us
 </tr>
 <tr>
 <td>Computer/Laptops</td>
-<td>15 000</td>
+<td>60 000</td>
 </tr>
 <tr>
 <td>Servers</td>
-<td>180 000</td>
+<td>720 000</td>
 </tr>
 <tr>
 <td>Network Infrastructure</td>
-<td>70 000</td>
+<td>280 000</td>
 </tr>
 <tr>
 <td>Printers and Scanners</td>
-<td>4 000</td>
+<td>16 000</td>
 </tr>
 <tr>
 <td>Mobile Devices </td>
-<td>6 000</td>
+<td>24 000</td>
 </tr>
 </table>
 
 
-#### Software: RM 32 900
+#### Software: RM 131 600
 <table>
 <tr>
 <td>Tools</td>
@@ -171,39 +171,39 @@ The development of UTM Student Attendance Management System for around 20,000 us
 </tr>
 <tr>
 <td>Integrated Development Environment (IDE)</td>
-<td>1 500</td>
+<td>6 000</td>
 </tr>
 <tr>
 <td>Database management system</td>
-<td>14 000</td>
+<td>56 000</td>
 </tr>
 <tr>
 <td>Security Software</td>
-<td>1 000</td>
+<td>4 000</td>
 </tr>
 <tr>
 <td>Project Management Software</td>
-<td>600</td>
+<td>2 400</td>
 </tr>
 <tr>
 <td>Testing Tools</td>
-<td>13 000</td>
+<td>52 000</td>
 </tr>
 <tr>
 <td>Cloud Storage</td>
-<td>1 700</td>
+<td>6 800</td>
 </tr>
 <tr>
 <td>Version Control Software</td>
-<td>4000</td>
+<td>1 600</td>
 </tr>
 <tr>
 <td>Web Server</td>
-<td>700</td>
+<td>2 800</td>
 </tr>
 </table>
 
-#### Other expenses: RM 30 000
+#### Other expenses: RM 120 000
 <table>
 <tr>
 <td>Expenses</td>
@@ -211,23 +211,23 @@ The development of UTM Student Attendance Management System for around 20,000 us
 </tr>
 <tr>
 <td>Rental fees (office)</td>
-<td>18 000</td>
+<td>72 000</td>
 </tr>
 <tr>
 <td>Bills (Internet, phone, utilities, petrol, etc.)</td>
-<td>3 000</td>
+<td>12 000</td>
 </tr>
 <tr>
 <td>Insurance</td>
-<td>7 000</td>
+<td>28 000</td>
 </tr>
 <tr>
 <td>Unexpected costs</td>
-<td>2 000</td>
+<td>8 000</td>
 </tr>
 </table>
 
-#### Training and development programs for the team members: RM 25 000
+#### Training and development programs for the team members: RM 100 000
 
 ### 10. Technical Specifications:
 <li>Data sources: Data will be collected through methods that students use to submit their attendance. For example, students can scan the attendance QR via their devices or students can insert a randomly generated code to submit their attendance. Data will also be collected via biometric devices such as fingerprint scanners and facial recognition systems in order to prove that their attendance is valid.</li>
