@@ -124,11 +124,36 @@ The Badal Hajj and Umrah Management System is a web-based application that facil
 
 Overall, the system architecture is designed to be scalable and maintainable, with a focus on user experience and security. The system can be easily customized to meet the specific needs of different users and organizations.
 
-### Case Diagram
+### Case Diagram :
 
 ![image](https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Tempest/badalhajj.drawio%20(1).png?raw=true)
 
 As shown in the diagram, the actions that can be performed by different actors have been divided into subsystems. The User subsystem includes actions related to booking and selecting packages and accommodations, confirming or cancelling bookings, and viewing receipts. The System Admin subsystem includes actions related to managing packages and accommodations, updating bookings, and viewing bookings and details. The Top Management subsystem includes actions related to viewing payment reports, generating invoices, and managing accounts. The Finance Department subsystem includes actions related to viewing payment reports, generating invoices, and managing accounts.
+
+### Flowchart :
+```sql
+
+USER INTERFACE
+  |
+  V
+APPLICATION SERVER (Node.js/Express)
+  |
+  V
+DATABASE SERVER (MySQL)
+  |
+  V
+PAYMENT GATEWAY (Online Banking)
+  |
+  V
+INTEGRATION
+  |
+  V
+SECURITY MEASURES
+  |
+  V
+ANALYTICS AND REPORTING (Google Analytics/Power BI/Tableau)
+
+```
 
 ## 8. Risks Assessment:
 Many types of risks may happen during or after the system being develop or done, one of it is technical risks such as data loss, that can happen if the sytem crash or the program crash during the developing time. Another risk is resourse risk such as insufficient resources to continue the project that might cause a delay to the development process and might not achieve the date line being set. Requirement risk is one of risk that could during the project process as the requirements of the projects might change after a few discussion that lead to reconstruct a new developing path as we need to change or adding a few requirements, misunderstanding in requirements being discussed also could cause a problem as the system will be develop another way and lead to error in system's development.
