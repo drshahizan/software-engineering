@@ -120,8 +120,16 @@ The Faculty of Computing Feedback System will provide measurable benefits to all
   <p>The duration for this phase is arund 10 weeks.</p>
   <p><b>Launch phase:</b> The quality assurance team conducts tests to ensure the software's functionality prior to the product's release. The members of the QA team will test the programme to ensure that the code is clear, and if there are any possible issues or defects, the development team will take swift action to fix them.The duration for this phase is two weeks.After all work is done, this system will be launched.</p>
 
-  ### 6. Budget:
-- The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
+### 6. Budget:
+<ul>
+<li>Software development: This includes the cost of designing, developing, and testing the software for the system. This can include the cost of software development tools, licenses, and resources such as developers and testers.</li>
+<li>Hardware: This includes the cost of servers, storage, and other hardware required to host and run the software.</li>
+<li>Infrastructure: This includes the cost of setting up and maintaining the network infrastructure required for the system, such as routers, switches, and firewalls.</li>
+<li>Implementation and integration: This includes the cost of implementing and integrating the system with existing institutional systems, such as learning management systems or student information systems.</li>
+<li>Maintenance and support: This includes the cost of ongoing maintenance and support for the system, such as bug fixes, upgrades, and technical support.</li>
+<li>Training: This includes the cost of training users and administrators on how to use the system.</li>
+<li>Miscellaneous expenses: This includes other expenses that may be required for the development and implementation of the system, such as travel expenses, legal fees, and project management costs.</li>
+</ul>
 
 ### 7. System Architecture:
 - Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
