@@ -282,23 +282,51 @@ The block diagram for the proposed system architecture is as follows:
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 8. Risks Assessment⚠️:
-- The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
-- It also describe the plans and strategies to mitigate those risks.
 
-#### 1. Technical risks: 
-The system runs the risk of experiencing technical problems like software bugs, compatibility problems, or system failures. The development team will carry out extensive testing and quality assurance procedures to guarantee the system's functionality and stability in order to reduce this risk. Additionally, the team will implement a backup and recovery plan to minimise any potential data loss or system downtime.
+<table style="border-collapse: collapse;">
+      <thead>
+        <tr>
+          <th>Risks</th>
+          <th></th>
+          <th>Explanation</th>
+          <th>Mitigation Plan</th>
+        </tr>
+      </thead>
+      <tbody style="border-collapse: collapse;"> 
+        <tr>
+          <td rowspan="2">Technical Risks</td>
+          <td>Compatibility issues</td>
+          <td>The system might not work properly or be as useful if it is not compatible with all operating systems or devices.</td>
+          <td>To make sure the system functions properly in a variety of settings, the development team will put it through thorough compatibility testing on numerous platforms.</td>
+        </tr>
+        <tr>
+          <td>Security risk</td>
+          <td>The system might be open to cyberattacks, which could compromise user data and harm the project team's reputation.</td>
+          <td>The team is committed to industry-standard security protocols and best practices. To find and fix any vulnerabilities, regular security audits and penetration tests will also be carried out.</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Resource Risks</td>
+          <td>Financial limitations</td>
+          <td>The project might experience difficulties that prevent the team from delivering all of the intended features and functionality.</td>
+          <td>The project team will prioritise development efforts based on the budget at hand and, if necessary, look for alternative funding sources. Throughout the development process, the team will look into opportunities for cost reduction and efficiency improvements.</td>
+        </tr>
+        <tr>
+          <td>Staff turnover</td>
+          <td>The project timeline may be affected and the team's expertise could be reduced if significant team members leave before the project is finished.</td>
+          <td>To make sure that every team member fully comprehends the project's objectives, specifications, and technical requirements, the project team will maintain thorough documentation and knowledge transfer protocols. To lessen the effects of staff turnover, the team will also cross-train team members and find potential successors for key roles.</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Requirements Risks</td>
+          <td>As stakeholders' needs and expectations change, the project requirements may also change, which could lead to scope creep or project delays. </td>
+          <td>The team will keep in regular contact with stakeholders to make sure that their requirements and expectations are understood and that any changes to the project's requirements are formally documented and approved.
+        </tr>
+        <tr>
+          <td>Insufficient user testing</td>
+          <td> If the project does not receive enough user feedback during the testing phase, it may have usability problems or functional flaws.</td>
+          <td>Before the system is made public, the project team will carry out extensive user testing and feedback sessions to find and fix any usability problems or functional flaws. After the system is launched, the team will also invite users to continue offering feedback and suggestions for enhancement.</td>
+      </tbody>
+    </table>
 
-#### 2. Resource constraints: 
-There is a chance that the project will experience resource limitations due to a lack of funding, personnel, or time. The development team will effectively allocate resources and set project task priorities in order to reduce this risk. In order to access more funding and support, the team will also look into potential alliances and collaborations with outside groups.
-
-#### 3. Changes in project requirements: 
-During the development process, there is a likelihood that the project requirements may alter because of feedback from stakeholders or shifting conditions. The requirement analysis team will keep lines of communication open with stakeholders and regularly review and update the project requirements to ensure alignment with the project's goals and objectives in order to reduce this risk.
-
-#### 4. Security risks: 
-The possibility exists that the system could be exposed to security flaws like hacking or unauthorised access. The development team will put strong security measures, such as encryption, authentication, and access control, into place to lessen this risk. 
-
-#### 5. Adoption risks: 
-Due to lack of awareness or competing options, there is potential that the system will not be widely used by students and other users. The user experience designer team will carry out extensive user research and design the system to be accessible and user-friendly in order to reduce this risk. To increase awareness and promote adoption, the team will also employ focused marketing and promotional strategies.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
