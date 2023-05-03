@@ -7,30 +7,19 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Proposal: List of Groups
+### 🎯 Proposal 🆕 
+1. [List of Software Engineering Projects](./proposal/materials/list-se-topic.md)
+2. [Steps in Software Engineering Projects](./proposal/materials/se-project.md)
+3. [Guideline for Software Engineering Proposal](./proposal/materials/guideline.md)
+4. [Proposal Template](./proposal/materials/template-proposal.md)
+5. [IEEE Document Template](https://github.com/drshahizan/software-engineering/blob/main/materials/ieee-doc-temp.md)
 
+### Others
+1. [Tender dan sebut harga](./proposal/materials/tender.md)
+2. [Kajian Keperluan Pengguna MACA](https://drive.google.com/file/d/1cd-FGUqqFLkMai73DE2qAh2vrXksbpaT/view?usp=sharing)
+3. [Final Year Project](https://github.com/drshahizan/undergraduate-project)
+4. [Agile concept: UTMSmart](https://drive.google.com/file/d/1B6AX646-zXVLZwstzDatENmk05u1Hegu/view?usp=sharing)
 
-## Section 1
-
-| No | Group | Title | Document |
-| :-----: | ------ | ------ | :------: | 
-| 1 | Curiousity | UTM Events Management System |<a href="submission/sec01/Curiousity" ><img src="../images/task.png" width="24px" height="24px" ></a> | 
-| 2 | Lastminpotential | UTM Library Management System |<a href="submission/sec01/Lastminpotential" ><img src="../images/task.png" width="24px" height="24px" ></a> |
-| 3 | Limapuluh | UTM Student Feedback System |<a href="submission/sec01/Limapuluh" ><img src="../images/task.png" width="24px" height="24px" ></a> |
-| 4 | Cutie | UTM Student Attendance Management System |<a href="submission/sec01/cutie" ><img src="../images/task.png" width="24px" height="24px" ></a> | <
-| 5 | Systema | Student Engagement | <a href="submission/sec01/Systema" ><img src="../images/task.png" width="24px" height="24px" ></a> | 
-| 6 | Stakeholder | Student Accomodation System in KTDI |<a href="submission/sec01/stakeholder" ><img src="../images/task.png" width="24px" height="24px" ></a> | 
-
-## Section 2
-
-| No | Group | Title | Document |
-| :-----: | ------ | ------ | :------: | 
-| 1 | Allen | UTM Student Grading System |<a href="submission/sec02/Allen" ><img src="../images/task.png" width="24px" height="24px" ></a> | 
-| 2 | Alpha | College Room Rental System |<a href="submission/sec02/Alpha" ><img src="../images/task.png" width="24px" height="24px" ></a> | 
-| 3 | Beta | Food Ordering System in UTM |<a href="submission/sec02/Beta" ><img src="../images/task.png" width="24px" height="24px" ></a> |
-| 4 | Engineering | Parcel Delivery Service |<a href="submission/sec02/Engineering" ><img src="../images/task.png" width="24px" height="24px" ></a> | 
-| 5 | Program | Academic Consultation System|<a href="submission/sec02/program" ><img src="../images/task.png" width="24px" height="24px" ></a> | 
-| 6 | Software| Student Health and Wellness Management System |<a href="submission/sec02/Software" ><img src="../images/task.png" width="24px" height="24px" ></a> | | | 7 | Tempest | Badal Hajj and Umrah Management System|<a href="submission/sec02/Tempest" ><img src="../images/task.png" width="24px" height="24px" ></a> | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
