@@ -46,19 +46,19 @@ Don't forget to hit the :star: if you like this repo.
     <td>1. En. Hamdan bin Abdul Ghani</td>
     <td>Administrator of Kolej Tun Dr Ismail</td>
     <td></td>
-    <td></td>
+    <td>Provide information about the college room rental procedure.</td>
   </tr>
     <tr>
     <td>2. Puan Rosmah</td>
     <td>Staff Kolej Tun Dr Ismail</td>
     <td></td>
-    <td></td>
+    <td>Provide information about the software (Google Form) that they currently use for the college room rental registration.</td>
   </tr>
     <tr>
     <td>3</td>
+    <td>Residents of Kolej Tun Dr Ismail</td>
     <td>Student</td>
-    <td>UTM Student</td>
-    <td></td>
+    <td>Provide feedback on the current procedure.</td>
   </tr>
 </table>
 

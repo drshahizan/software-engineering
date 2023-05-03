@@ -16,6 +16,8 @@ Don't forget to hit the :star: if you like this repo.
   3. Low Ying Xi A22EC0187
   4. Ng Shu Yu A22EC0228
 
+<hr style="border:0.5px solid gray;height:0.5px;">
+
 ### 💫Table of Contents
 * [Table of Contents](#table-of-contents)
 * [Executive Summary](#1-executive-summary)
@@ -31,6 +33,7 @@ Don't forget to hit the :star: if you like this repo.
 * [Timeline and Deliverables](#11-timeline-and-deliverables)
 * [Conclusion](#12-conclusion)
 
+<hr style="border:0.5px solid gray;height:0.5px;">
   
 ### 1. Executive Summary📝:
 Our proposed UTM Event Management System is a comprehensive solution aimed at simplifying and streamlining the processes of event management for organisers, attendees, and administrators. To achieve this, we're using cutting-edge technology and industry best practises to create a seamless user experience that makes it simple for event planners to plan and carry out successful events and for attendees to find, register for, and participate in events. The key features of our system include real-time event scheduling, registration, various types of activities and merit, and feedback capabilities. These features enable event planners and administrators to optimise event preparation, track performance, and make data-driven decisions. A user-friendly interface and  integration with various social media sites would also be helpful to attendees. Ultimately, our UTM Event Management System will provide measurable value to all stakeholders, resulting in increased event participation, better engagement and satisfaction, and a stronger institutional reputation. By investing in our system, UTM will be at the forefront of event management technology and innovation.
@@ -46,29 +49,35 @@ In summary, the UTM Event Management System proposal seeks to address the challe
 
 ### 3. Objectives📖:
 #### Specific: 
-To provide a user-friendly system for students to explore, sign up for, and provide feedback on campus events, including club activities and official university events.
+* To digitise and automate the paperwork process for JKM event planning and project management within KTDI.
+* To reduce paper usage and increase efficiency in managing event-related documents.
 
 #### Measurable: 
-To increase student engagement and participation in campus events by 20% within the first year of system implementation, as measured by the number of event registrations and attendance.
+* To reduce paper usage by a minimum of 50% within the first year of the system’s implementation.
+* To decrease the time required to process paperwork by the KTDI college staff members by at least 30%.
+* To increase the accuracy and completeness of event-related paperwork by 25%.
 
 #### Achievable: 
-To develop and launch the initial version of the system within two months, and to continually improve and update the system based on user feedback.
+* To achieve widespread adoption of the event management system by at least 80% of JKM KTDI committee members within the first year.
+* To provide comprehensive training and support to users of the system (JKM KTDI and KTDI office staff members) to ensure successful implementation.
 
 #### Relevant: 
-To address the problem of limited access and awareness of campus events, and to enhance the overall student experience by providing an efficient platform for event planning, organisation, and participation.
+* To align with sustainability goals by reducing paper usage and promoting digital processes.
+* To support the commitment to providing efficient and effective administrative services to JKM KTDI and KTDI office staff members.
 
 #### Time-Bound: 
-To complete the aforementioned goals within the upcoming two months and keep track of and continuously assess the system's effectiveness and impact.
+* To fully implement the event management system within the JKM KTDI by the end of the current academic year.
+* To achieve the above-stated measurable objectives within the first year of implementation.
 
 ### 4. Scope🔍: 
-Our proposed system is named <b>UTM Event Management System</b>. It will provide a web-based platform to let the event organizers plan, manage, and execute events more efficiently.
+Our proposed system is named <b>UTM Event Management System</b>. It will provide a web-based platform to let the event organisers plan, manage, and execute events more efficiently.
 This web-based system will include the following features or functionality:
--	Event planning and organization.
+-	Event planning and organisation.
 -	Event registration.
 -	Onsite management to monitor the event progress.
 -	Analytics and reporting for evaluating the effectiveness of the system.
 -	Attendee engagement to identify areas for improvement.
--	Our system is limited to Kolej Tun Dr. Ismail (KTDI) events only and it will not provide any access to the other organizers such as PERSAKA club, AIESEC, Losting Music Club, etc.
+-	Our system is limited to Kolej Tun Dr. Ismail (KTDI) events only and it will not provide any access to the other organisers such as PERSAKA club, AIESEC, Losting Music Club, etc.
 
 
 ### 5. Software Process Model🛠️:
@@ -133,6 +142,7 @@ During this stage, the team will test the system to make sure it complies with t
           <td>Drafts a design document that includes the user stories, user journey maps, wireframes, prototypes, architectural diagram, and technical design document. </td>
           <td>Documentation Specialist</td>
           <td>1 Week</td>
+          <td>Incomplete</td>
         </tr>
         <tr>
           <td rowspan="2">Phase 3: Development</td>

@@ -115,9 +115,9 @@ The scope refers to the boundaries of the project and outlines the features and 
 
 - Student registration: <br>By entering user's personal information, academic information and room preferences, students can register as users in the system using the student registration tool. Before letting a student register, the system should confirm their identity and determine whether they qualify for accommodation registration based on the hostel merits and year of study. The first year students will be registered automatically, while the senior year students have to register themselves.
 
-- Room allocation: <br>According on the students' choices, room availability and hostel merits, the system can assign rooms to them using the room allocation tool. The system should include elements including the student's academic programme, year of study and any unique requirements or requests, such as health condition in order to take note in the allocation process. This process will prioritise the students with higher hostel merits to prefer their desired hostel block as well as room type.
+- Room allocation: <br>According on the students' choices, room availability and hostel merits, the system can assign rooms to them using the room allocation tool. The system should include elements including the student's academic programme, year of study, and any unique requirements or requests, such as health condition in order to take note in the allocation process. This process will prioritise the students with higher hostel merits to prefer their desired hostel block as well as room type.
 
-- Room management: <br>The room management feature allows students to manage their rooms through the system. This includes room changing, check-in, check-out, room booking and cancellation as well as maintenance requests. The system should provide a calendar view of the room availability and allow students to book their preferred room and check-in and check-out dates. It should also allow students to request maintenance services for their room and track the status of the request.
+- Room management: <br>The room management feature allows students to manage their rooms through the system. This includes room bookings, check-in, check-out and maintenance requests. The system should provide a calendar view of the room availability and allow students to book their preferred room and check-in and check-out dates. It should also allow students to request maintenance services for their room and track the status of the request.
 
 
 - Payment management: <br>Students can use the system to pay their lodging costs via the payment management tool. The system should enable students to monitor their payment history and receipts and offer safe payment options like internet banking and also convinence payment method, such as TnG e-wallet. Under this scope, there will be duitnow QR code and bank account number provided for the students to pay their lodging costs. 
@@ -149,65 +149,25 @@ Furthermore, because of the nature of student rooms, the Agile methodology is pe
 
 Agile methodology for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) as stated below:
 
-<!DOCTYPE html>
-<html>
-  <head>
-  <body>
-    <table>
-      <tr>
-        <th>Phase</th>
-        <th>Detailed activities</th>
-        <th>Position</th>
-        <th>Duration</th>
-      </tr>
-      <tr>
-        <td>Phase 1: Planning Phase:</td>
-        <td>The project scope, objectives and also related stakeholders in this project are identified. This will also include the timeline and milestones, identify project risks and allocate project resources appropriately. </td>
-        <td>Project manager, requirements analyst, stakeholder</td>
-        <td>1 week</td>
-      </tr>
-      <tr>
-        <td>Phase 2: Requirements Gathering Phase</td>
-        <td>The project requirement analyst team works with the unidentified stakeholders to identify and prioritise user requirements of student accommodation system.</td>
-        <td>Project manager, requirements analyst, documentation specialist, stakeholder</td>
-        <td>1 week</td>
-      </tr>
-      <tr> 
-        <td>Phase 3: Design Phase</td>
-        <td>The system designer and the main developer lead works with the development team to develop a high-level design of the system.</td>
-        <td>Project manager, UI/UX system designer, main developer,developer assistant, project budget</td>
-        <td>2 weeks</td>
-      </tr>
-     <tr>
-        <td>Phase 4: Development phase</td>
-        <td>The development team begins the development of the software components according to the sprint backlog.</td>
-        <td>Project manager, UI/UX system designer, main developer, developer assistant, project budget.</td>
-        <td>3 weeks</td>
-      </tr>
-      <tr>
-        <td>Phase 5: Testing phase</td>
-        <td>To make sure our software corresponds to specified standards, we will work with our instructor to develop a testing plan and carry out functional, integration, and acceptability testing.</td>
-        <td>Project manager, main developer and developer assistant, project budget,</td>
-        <td>3 weeks</td>
-      </tr>
-      <tr>
-        <td>Phase 6: Implementation Phase</td>
-        <td>Our project manager will collaborate with the development team during the implementation phase of our Student Accommodation System for Kolej Tun Dr Ismail (KTDI) project to guarantee the programme is prepared for use.</td>
-        <td>Project manager, IT support, project budget</td>
-        <td>2 weeks</td>
-      </tr>
-      <tr>
-        <td>Phase 7: Review and maintenance Phase</td>
-        <td>The finished programme will be examined by the developers and the stakeholder in the review phase part to make sure it satisfies the acceptance criteria and user needs.</td>
-        <td>Project manager, stakeholder, UI/UX system designer, IT support, main developer, developer assistant, project budget</td>
-        <td>2 weeks</td>
-      </tr>
-        <td>Phase 8: Launch phase</td>
-        <td>The launch phase displays the finished product that will be used in a real-world setting. Final testing and quality assurance will be carried out by the project manager in collaboration with the development team to guarantee that the software is reliable and usable in a real-world setting.</td>
-        <td>Project manager, quality assurance analyst, IT support, project budget</td>
-        <td>1 week</td>
-      </tr>
-    </table>
+1. Planning Phase: The project scope, objectives and also related stakeholders in this project are identified. This will also include the timeline and milestones, identify project risks and allocate project resources appropriately. A project blueprint is developed to foresee the final system and upcoming challenges. Thus, the team will oversee the overall project development. This phase will only take 1 week of time and will be lead by the project manager, requirements analyst, stakeholder.
+
+2. Requirements Gathering Phase: The project requirement analyst team works with the indentified stakeholders to identify and prioritise user requirements of student accommodation system. The team will develop user stories and create the product as backlog items. The team then identifies acceptance criteria for each user story and break down user stories into smaller tasks, which are then added to the sprint backlog. The project development team and the stakeholders then meet to review and finalise the sprint backlog to get a complete system requirements. This phase takes 1 week in order to carry out the interview session with the stakeholders and keep in touch with them for the latest requirements. The requirement analysis will in charge of the collection and documentation of requirements for the project.
+
+3. Design Phase: In this phase, the system designer and the main developer lead works with the development team to develop a high-level design of the system. The team identifies and designs the database schema, creates detailed design documents and develops wireframes and prototypes for the user interface. The design is then reviewed with the development team and the stakeholders and any necessary changes are made later. It will take 2 week in this phase and the UI/UX system designer and the main developer take the vital role in giving out design architecture.
+
+4. Development Phase: The development team begins the development of the software components according to the sprint backlog. The team conducts code reviews to ensure code quality, write unit tests and perform unit testing. Updating of code documentation and conducting daily stand-up meetings are nesscessary to discuss progress, address any issues or roadblocks as well as plan for the next day of work. This phase takes 3 weeks to implement and the tasks will be took charge by the developer team and the main developer will become the leader in carrying out the backend works, while fontend works by the user interface or user experience designer.
+
+5. Testing Phase: To make sure our software corresponds to specified standards, we will work with our instructor to develop a testing plan and carry out functional, integration, and acceptability testing. Any flaws discovered during testing will be reported and fixed using a bug tracking programme. After testing is finished, we will meet with our stakeholder to review the findings and go over any changes that should be made to deliver a high-quality product that satisfies their requirements and expectations. We are devoted to ensuring that our software is of the greatest quality by collaborating closely with our teachers because we are aware of how crucial comprehensive testing is in the software development process.This phase will take around 3 weeks because it is the most crucial phase for our system.
+
+6. Deployment Phase: :Our project manager will collaborate with the development team during the deployment phase of our Student Accommodation System for Kolej Tun Dr Ismail (KTDI) project to guarantee the programme is prepared for use. Final testing will be done to ensure the programme complies with all stakeholder criteria. To ensure the system runs smoothly, our team will train the stakeholders on how to use the programme and provide continuous support. We are aware of how crucial a successful deployment is and will collaborate closely with our project manager and development team to make sure the move to the production environment goes smoothly.We estimate 2 weeks for the deployment as we need to make sure the system is fully stabilized and can run properly.
+ 
+7. Review and maintenance phase:The finished programme will be examined by the developers and the stakeholder in the review phase part to make sure it satisfies the acceptance criteria and user needs. To ensure that the final product meets the stakeholder's expectations, this phase requires ongoing stakeholder feedback. This feedback will assist us in improving the system and ensuring that it satisfies the requirements of our customers, resulting in a product of excellent quality.Review needs just 2 weeks because we need some of feedback from stakeholder to know what the weaknesses or some problems towards our system.
+
+8. Launch Phase: :The launch phase displays the finished product that will be used in a real-world setting. Final testing and quality assurance will be carried out by the project manager in collaboration with the development team to guarantee that the software is reliable and usable in a real-world setting. Following the software's deployment, on-going support will be offered to make sure the system keeps up with the demands and goals of the stakeholders.This will take just around 1 week to make sure all of it fulfill all of the stakeholders desire.
+  
+To assure the quality and functionality of the system, many testing methodologies are employed in this project, including unit testing, integration testing, system testing, acceptance testing, and usability testing. Project management techniques leverage technologies like Kanban boards, sprint planning and regular stand-up meetings to track progress and guarantee task completion on time. To maintain code quality and reduce errors, quality assurance procedures like code review, continuous integration and automated testing are used. These procedures are essential for ensuring the effective deployment and operation of the KTDI system for student accommodation.
+
+
     
 #### Testing methodologies:
 To assure the quality and functionality of the system, the following are carrying out:
@@ -462,6 +422,7 @@ IV. Other Expenses:<br>
   </tbody>
 </table>
    
+    
 - Testing procedures:
   1. Before the development of system, we have conducted a requirements gathering session or interviewing session with our stakeholders to identify and figure out the needs and features we are going to implement in the software system. It involves collecting and analyzing information from the stakeholders.
   2. Prototype: The system is made and tested for the operation and usability. It is to identify the problems at the early stage and also provide a progress of our developed system to the stakeholders.

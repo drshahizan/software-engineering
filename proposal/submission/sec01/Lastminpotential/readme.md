@@ -93,7 +93,15 @@ The Faculty of Computing Feedback System will provide measurable benefits to all
       <li>This feedback can be used to identify areas where equipment may need maintenance or replacement, and to ensure that students have access to the resources they need to succeed.</li>
     </ul>
 </ul>
-- It should also describe any limitations or constraints that may affect the project.
+<p>Here are some limitations or constraints that may affect the project:</p>
+<ul>
+  <li>Low response rates: If a significant number of students do not provide feedback, the results may not be representative of the entire student body, which can limit the effectiveness of the feedback system.</li>
+  <li>Biased responses: Students who have strong opinions, whether positive or negative, may be more likely to provide feedback than those who are neutral or indifferent. This can lead to biased responses that do not accurately reflect the views of the entire student body.</li>
+  <li>Lack of actionable feedback: The feedback provided by students may not always be actionable or specific enough to make meaningful changes. This can limit the effectiveness of the system in improving the quality of education.</li>
+  <li>Privacy concerns: If students do not feel comfortable providing feedback anonymously, they may be less likely to provide honest and constructive feedback. This can limit the usefulness of the feedback system in improving the quality of education.</li>
+  <li>Overreliance on technology: A faculty feedback system relies heavily on technology to collect and analyze data. If there are issues with the technology or the system is not properly maintained, it can impact the accuracy and effectiveness of the system.</li>
+  <li>Administrative burden: Collecting and analyzing feedback can be time-consuming and require resources to manage effectively. If the system is not properly resourced, it may not be able to meet the needs of the institution or the students it serves.</li>
+</ul>
 
 ### 5. Software Process Model:
 This section describe the ideal software process model for this system development. The write-up must consist of:
@@ -158,14 +166,25 @@ This section describe the ideal software process model for this system developme
 - Miscellaneous expenses - Required for unforeseen expenses and contingencies.
 
 
-   <!--
-- Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
--->
+
+  
 ### 10. Technical Specifications:
-- Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
-- Mention the programming languages, frameworks, and libraries that will be used in the project.
-- Provide details about the hardware and software requirements for the proposed system.
-- Explain the data security measures that will be implemented.
+  
+Data sources: Through a user interface, the system will collect feedback data from faculty and students. The criticism information will be put away in a data set for additional examination.
+
+Data schema: The name of the student or faculty member, the name of the course, the type of feedback, and the content of the feedback will all be included in the data schema.
+
+Data transformations: To make it suitable for analysis, the collected data will undergo transformations. Cleansing the data, normalizing it, and extracting features are all part of this.
+
+Machine learning algorithms: The feedback data will be analyzed using machine learning algorithms like sentiment analysis, text classification, and clustering.
+
+Data visualization tools: Information perception devices like diagrams, outlines, and dashboards will be utilized to introduce the examined information in an easy to use and reasonable configuration.
+
+Programming languages, frameworks, and libraries: The Flask web framework and Python programming language will be used to develop the project. NumPy, Pandas, Matplotlib, Scikit-learn, and NLTK are some of the other libraries that will be utilized.
+
+Hardware and software requirements: A server or cloud-based infrastructure with sufficient RAM, CPU, and storage will be required for the proposed system. All of the most popular web browsers and operating systems will work with the system.
+
+Data security measures: Encryption, access control, and authentication are just a few of the security measures that the system will use to safeguard the integrity and confidentiality of the feedback data. The system will adhere to security protocols like HTTPS, SSL, and TLS that are accepted by the industry.
 
 ### 11. Timeline and Deliverables: 
 
