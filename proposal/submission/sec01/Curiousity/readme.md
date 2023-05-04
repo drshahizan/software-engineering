@@ -88,7 +88,7 @@ In summary, the KTDI Event Management System proposal seeks to address the chall
 Our proposed system, KTDI Event Management System, is designed to provide a web-based platform specifically for the management of events within Kolej Tun Dr. Ismail (KTDI). The system is intended for use by the Student Residential College Committee (JKM) and the KTDI office staff, as well as fellow members involved in event planning and execution. However, the system will not be accessible to the general student population or other external organisers.
 
 ### Features:
-+ 1. JKM KTDI
+### JKM KTDI
 * </b>Streamline event preparation and post activity process</b>
 The system's ability to streamline the event preparation and post-activity process will make it easier for the JKM KTDI committee to manage their events. By providing a centralised platform, the committee can upload and get approval for event proposals, apply for facility rentals, and track the progress of each unit involved in the event. This feature will save time and reduce the risk of errors during the event planning process.
 
@@ -111,8 +111,7 @@ The post-event report feature enables the JKM KTDI committee to easily access th
 The notes section is a valuable feature that enables members to provide feedback and suggestions to improve their events. Members can use this feature to address any issues or concerns that arise during the event planning process, ensuring that their events are successful and meet the needs of their target audience. The notes section will also serve as a platform for members to communicate with each other, enabling them to collaborate more effectively and achieve their goals.
 
 
-+ 2. <b>KTDI office staff and fellow members</b>
-
+### KTDI office staff and fellow members 
 * </b>Approval</b>
 The approval feature allows JKM KTDI members to streamline the approval process for event proposals and facility rentals. KTDI office staff can use the system to approve the need to rent facilities and venues for event purposes and sign the necessary documents digitally. Fellow members can also sign the documents digitally for event proposals, making it easier to get the necessary approvals in a timely manner.
 
