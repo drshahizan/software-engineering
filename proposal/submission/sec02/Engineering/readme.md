@@ -11,7 +11,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Parcel Delivery Management System in UTM 
 
-### One Stop Parcel (OPC) and Cengal Parcel Point (CPP)
+### One Stop Parcel (OPC) 
 
 
 ### Prepared by: <stakeholder>
@@ -38,7 +38,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ### 1. Executive Summary:
 
-The parcel delivery management system for a One Stop Parcel System and Cengal Parcel Point of University Technology Malaysia is a web-based application that will provide a streamlined and user-friendly interface for students, faculty, and staff to send and receive parcels on campus. The system will include real-time tracking of parcel deliveries, integration with the university's existing student and faculty database, secure payment processing for parcel deliveries, and a notification system to inform users when a parcel has arrived. The system will also integrate with the university's existing security system for parcel pickup.
+The parcel delivery management system for a One Stop Parcel System of University Technology Malaysia is a web-based application that will provide a streamlined and user-friendly interface for students, faculty, and staff to send and receive parcels on campus. The system will include real-time tracking of parcel deliveries, integration with the university's existing student and faculty database, secure payment processing for parcel deliveries, and a notification system to inform users when a parcel has arrived. The system will also integrate with the university's existing security system for parcel pickup.
 
 The project timeline for the parcel system is estimated at 14 weeks, including requirements gathering and analysis, system design and development, and system deployment and training. 
 
@@ -46,7 +46,7 @@ The proposed parcel delivery management system will provide numerous benefits to
 
 ### 2. Background:
 
-University Technology Malaysia (UTM) have large campuses with many buildings and locations, which can make it challenging for UTM students, faculty, and staff to send and receive parcels efficiently. In addition, traditional parcel delivery methods require individuals to wait in long lines or travel to Kolej Rahman Putra and Kolej Tun Hussein Onn, which can be time-consuming and inconvenient. Traditional parcel delivery method require students to place or recieve order in Telegram group which make students to overlook the thousand of messages and wait for too long to accpet their delivery orders.
+University Technology Malaysia (UTM) have large campuses with many buildings and locations, which can make it challenging for UTM students, faculty, and staff to send and receive parcels efficiently. In addition, traditional parcel delivery methods require individuals to wait in long lines or travel to Kolej Rahman Putra which can be time-consuming and inconvenient. Traditional parcel delivery method require students to place or recieve order in Telegram group which make students to overlook the thousand of messages and wait for too long to accpet their delivery orders.
 
 To address these challenges, a parcel system can be implemented to streamline the parcel delivery process and provide a more user-friendly experience for students, faculty, and staff. The proposed parcel system will be a web-based application that will be accessible to all members of the university community, allowing them to easily send and receive parcels on campus.
 
@@ -267,7 +267,7 @@ Completed Parcel Delivery Management System with a working website for users, a 
 
 ### 12. Conclusion:
 
-Developing a parcel system for One Stop Parcel and Cengal Parcel Point UTM  will improve the user experience for students, faculty, and staff by streamlining the parcel delivery process and reducing delivery times. The proposed system will be designed to integrate with the university's existing systems and provide a secure, user-friendly interface for sending and receiving parcels. The project timeline and budget outlined in this proposal are based on careful analysis of the project requirements and are designed to ensure a successful outcome.
+Developing a parcel system for One Stop Parcel  UTM  will improve the user experience for students, faculty, and staff by streamlining the parcel delivery process and reducing delivery times. The proposed system will be designed to integrate with the university's existing systems and provide a secure, user-friendly interface for sending and receiving parcels. The project timeline and budget outlined in this proposal are based on careful analysis of the project requirements and are designed to ensure a successful outcome.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
