@@ -11,7 +11,8 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ### Prepared by: Group Curiousity
-  1. Camily Tang Jia Lei A22EC0039
+  1. Camily Tang Jia Lei A22EC0039 
+  <src img="cam.jpg" alt="camily">
   2. Koh Li Hui A22EC0059
   3. Low Ying Xi A22EC0187
   4. Ng Shu Yu A22EC0228
