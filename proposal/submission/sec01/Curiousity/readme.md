@@ -521,7 +521,7 @@ Note: All costs mentioned above are estimates and are subject to change based on
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 11. Timeline and Deliverables: 
--Below is the timeline and deliverables of the project:
+Below is the timeline and deliverables of the project:
     <table style="border-collapse: collapse;">
       <thead>
         <tr>
@@ -584,13 +584,13 @@ Quality Assurance and Testing Procedures
 ### 12. Conclusion:
 By addressing the issue of managing and improving the effectiveness of the paperwork of co-curricular activities in Kolej Tun Dr. Ismail (KTDI) college, the suggested system seeks to boost the usability and effectiveness of the previous system.
 
-One of the key features of converting from a manual to fully digital system is that it will be accessible to only the authorised personnel specifically JKM KTDI, KTDI office staffs and KTDI fellow members only. This implementation will contributing to saving the earth because less paper is used and less time is spent travelling, waiting, and getting feedback from higher authorities.
+One of the key features of converting from a manual to fully digital system is that it will be accessible to only the authorised personnel specifically JKM KTDI, KTDI office staffs and KTDI fellow members only. This implementation will contribute to saving the earth because less paper is used and less time is spent travelling, waiting, and getting feedback from higher authorities.
 
 The two user interfaces, one for JKM KTDI and the other for fellow KTDI employees and office workers. According to their individual roles and responsibilities, each user will have a unique set of features and capabilities. For instance, JKM KTDI will be able to use the system to send proposals and related documents to the KTDI office staff and other members, check the status of approval, monitor the progress of each unit for each event, reserve the venue, and update and upload post-event reports for record purposes to refer to for each session. They will also be required to compile an annual report of all the events held during that year. In order to prepare for the future event, the KTDI office staff and other members will be able to approve applications and documents, sign documents electronically, and track the development of each unit.
 
 Additionally, the new system will give every user a high level of customization and flexibility. This will allow them to set deadlines, assign tasks, and upload documents. To keep users engaged and informed on relevant material, the system will also include notifications, reminders, and feedback systems.
 
-Overall, the new system is a considerable advance over the manual paperwork approach since it offers users at all levels of the higher KTDI autorities members greater accessibility, functionality, and customization.
+Overall, the new system is a considerable advance over the manual paperwork approach since it offers users at all levels of the higher KTDI authorities members greater accessibility, functionality, and customization.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
