@@ -419,21 +419,21 @@ To successfully deliver the academic course registration system, the following r
 - 1 User Experience Designer: RM 60,000/project
 - 1 Main Developer: RM 60,000/project
 - 1 Documentation Specialist: RM 60,000/project <br>
--Total Staff Cost: RM 264,000/project
+**Total Staff Cost: RM 264,000/project**
 
 **Equipment:**
 - Servers: RM 200,000
 - Workstations and Laptops: RM 100,000
 - Networking and Cabling: RM 50,000
 - Security and Backup: RM 50,000 <br>
-Total Equipment Cost: RM 400,000
+**Total Equipment Cost: RM 400,000**
 
 **Software:**
 - Relational Database Management System (RDBMS): RM 50,000
 - Web Server: RM 20,000
 - Mobile Application Development Framework: RM 30,000
 - Data Analytics Tools: RM 50,000 <br>
-Total Software Cost: RM 150,000
+**Total Software Cost: RM 150,000**
 
 **Other Expenses:**
 - Rent for Office Space: RM 24,000
@@ -441,7 +441,7 @@ Total Software Cost: RM 150,000
 - Marketing and Advertising: RM 50,000
 - Testing: RM 80,000
 - Contingency: RM 100,000 <br>
-Total Other Expenses: RM 260,000
+**Total Other Expenses: RM 260,000**
 
 **Total Resources Cost: RM 1,074,000**
 
