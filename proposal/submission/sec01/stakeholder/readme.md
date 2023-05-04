@@ -391,22 +391,22 @@ IV. Other Expenses:<br>
       <td rowspan="2">1st Month</td>
       <td>Establishment of collaboration with the stakeholders and IT department(1 week)</td>
       <td>Having online interviewing session and face-to-face interviewing session with stakeholders: KTDI staff, resident and the other stakeholders.</td>
-      <td>Project manager, software engineer, stakeholder</td>
+      <td>Project manager, developer team, stakeholder</td>
     </tr>
     <tr>
       <td>Development of KTDI housing system prototype(4 weeks)</td>
       <td>User guide and training materials, automated housing allocation system prototype.</td>
-      <td>Project manager, software engineer, testing/debugging team, project budget.</td>
+      <td>Project manager, developer team, quality assurance team, project budget.</td>
     </tr>
   <tr>
   <td rowspan="2">2nd Month</td>
   <td>Implementation of the KTDI housing system(1 week)</td>
   <td>Fully developed housing system, project progress report.</td>
-  <td>Project manager, software engineer, project budget.</td>
+  <td>Project manager, developer team, project budget.</td>
   <tr>
   <td>Maintenance tracking phase(4 weeks)</td>
   <td>Client bug report system, project progress report</td>
-  <td>Project manager, stackholder, software engineer, project budget </td>
+  <td>Project manager, stackholder, developer team, project budget </td>
   </tr>
   
 <tr>
