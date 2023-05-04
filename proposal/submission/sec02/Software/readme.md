@@ -377,11 +377,5 @@ In conclusion, the total estimated cost is ***RM 570,000/year***.
 </table>
 
 ### 12. Conclusion:
-- Simplify and streamline PKU processing time for students and administrators.
-- Provide easy access to medical resources, health tracking tools, and health tips and advice.
-- Enable students to communicate with medical professionals, receive medical advice, and make appointments for medical services.
-- Provide a quick and easy way for students to call for emergency assistance in case of a medical emergency.
-- Collect and analyze data on student health trends, allowing PKU to better understand the health needs of the student population and provide targeted interventions.
-- Ensure compliance with all relevant laws, regulations, and policies, including HIPAA and GDPR, while maintaining a secure and user-friendly platform.
-
+In a nutshell, our proposed system, the Student Health and Awareness Management System, not only increases the efficiency of Pusat Kesihatan Universiti but also reduces the time students have to wait for medical treatment or advice. This system is crucial in creating a communication channel between PKU staff and students as well as raising students' awareness of mental and physical health. We understand that there might be some drawbacks when implementing this system, such as data breaches, identity theft, or compatibility issues, but we believe that this system is needed for PKU to improve productivity, patient experience, and data management.
 
