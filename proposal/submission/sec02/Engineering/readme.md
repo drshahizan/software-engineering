@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 #  Proposal
 
-## Parcel Delivery System in UTM 
+## Parcel Delivery Management System in UTM 
 
 ### One Stop Parcel (OPC) and Cengal Parcel Point (CPP)
 
@@ -38,11 +38,11 @@ Don't forget to hit the :star: if you like this repo.
 
 ### 1. Executive Summary:
 
-The parcel delivery system for a One Stop Parcel System and Cengal Parcel Point of University Technology Malaysia is a web-based application that will provide a streamlined and user-friendly interface for students, faculty, and staff to send and receive parcels on campus. The system will include real-time tracking of parcel deliveries, integration with the university's existing student and faculty database, secure payment processing for parcel deliveries, and a notification system to inform users when a parcel has arrived. The system will also integrate with the university's existing security system for parcel pickup.
+The parcel delivery management system for a One Stop Parcel System and Cengal Parcel Point of University Technology Malaysia is a web-based application that will provide a streamlined and user-friendly interface for students, faculty, and staff to send and receive parcels on campus. The system will include real-time tracking of parcel deliveries, integration with the university's existing student and faculty database, secure payment processing for parcel deliveries, and a notification system to inform users when a parcel has arrived. The system will also integrate with the university's existing security system for parcel pickup.
 
 The project timeline for the parcel system is estimated at 14 weeks, including requirements gathering and analysis, system design and development, and system deployment and training. 
 
-The proposed parcel system will provide numerous benefits to the university community, including improved delivery times, enhanced security for parcel pickup, and a more efficient and user-friendly parcel delivery process. The project is expected to be successful, with careful planning, attention to detail, and effective communication and collaboration among the development team and stakeholders. Student who do parcel delivery service will also benefit from increased efficiency, as the system will reduce the need for messaging and waiting. Finally, the system is expected to reduce errors and delays in the parcel delivery process, resulting in a more reliable and efficient system overall.
+The proposed parcel delivery management system will provide numerous benefits to the university community, including improved delivery times, enhanced security for parcel pickup, and a more efficient and user-friendly parcel delivery process. The project is expected to be successful, with careful planning, attention to detail, and effective communication and collaboration among the development team and stakeholders. Student who do parcel delivery service will also benefit from increased efficiency, as the system will reduce the need for messaging and waiting. Finally, the system is expected to reduce errors and delays in the parcel delivery process, resulting in a more reliable and efficient system overall.
 
 ### 2. Background:
 
@@ -95,9 +95,7 @@ Our proposed parcel system aims to achieve the following objectives:
 The proposed scope for the parcel system is expected to provide numerous benefits to the university community, including improved delivery times, enhanced security for parcel pickup, and a more efficient and user-friendly parcel delivery process.
 
 ### 5. Software Process Model:
-  
-![Agile Method](https://miro.medium.com/v2/resize:fit:1024/1*dGbdNhomubFlfvEPrQrGNQ.png)
-  
+
 1. Requirements Gathering: The first stage of the software process model will involve gathering requirements from stakeholders, including students, faculty, staff, and parcel senders. This stage will help identify the key features and functionality needed for the parcel system.
 
 2. Design: Once the requirements are gathered, the next stage will involve designing the system architecture, user interface, and database schema. This stage will also include developing wireframes and mockups to help visualize the system.
