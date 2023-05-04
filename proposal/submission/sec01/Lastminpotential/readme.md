@@ -162,32 +162,7 @@ We will use data visualization and analysis tools to help identify trends and pa
 - Google Data Studio
 
 System Architecture Flowchart
-```
-                                +-----------------+
-                                |Web-based         |
-                                |Interface        |
-                                |(HTML/CSS/JS)    |
-                                +-----------------+
-                                         |
-                                         |
-                                         |
-                                         |
-                                         v
-                                +-----------------+
-                                |Backend Server   |
-                                |(Python/Java/RoR)|
-                                +-----------------+
-                                         |
-                                         |
-                                         |
-                                         |
-                                         v
-                                +-----------------+
-                                |Database         |
-                                |Management       |
-                                |System (MySQL)   |
-                                +-----------------+
-```
+
 
 
 
