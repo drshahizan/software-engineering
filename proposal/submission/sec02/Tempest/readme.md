@@ -100,14 +100,19 @@ Using the Agile model for the software process model of the Badal Hajj and Umrah
 Budget is the important requirement that need to be plan at the early stage so that the project can be proceed without being delayed because the short of budget, there are a few things that need to be pointed out in the budget lists: 
 
 Hardware : RM 10,000
+- Hardware cost typically refers to the cost of physical equipment required for the project, such as servers, computers, networking equipment, and other related hardware. In the context of a software development project like the Badal Hajj and Umrah Management System, the hardware cost may include development computers, testing infrastructure, servers, networking equipment and other hardware such as printers and scanners.
 
 Software : RM 13,000
+- Software cost typically refers to the cost of software required for the project, such as development tools, operating systems, database management systems, and other related software. In the context of a software development project like the Badal Hajj and Umrah Management System, the software cost may include Integrated Development Environment (IDE), database management system, web server, and other software such as project management software.
 
 Personnel : RM 20,000
+- Personnel cost typically refers to the cost of the people involved in the project, including salaries, benefits, and other related expenses. The personnel is hired based on their qualifications, skills,  experience, and expertise in software development.
 
 Testing : RM 10,000
+- Testing cost typically refers to the cost of testing the software developed for the project. Testing cost includes the testers, testing tools, testing infrastructure and other testing cost such as test data creation.
 
 Back-up funds: RM 30,000
+- Backup funds are an important part of project management and are typically set aside to provide a cushion against unexpected expenses that may impact the project's budget. The exact amount of backup funds required will depend on the project's size, complexity, and risk profile. It is important to budget for backup funds to ensure that the project can be completed successfully even in the event of unexpected expenses.
 
 ## 7. System Architecture:
 The Badal Hajj and Umrah Management System is a web-based application that facilitates the management of Hajj and Umrah pilgrimages for individuals or groups. The system architecture consists of the following components:
