@@ -65,7 +65,7 @@ Our proposed parcel system aims to achieve the following objectives:
 
 ### 4. Scope: 
 
-
+![Flowchart](photo_2023-05-04_16-57-40.jpg)
 1. System Users: The parcel system will be designed to cater to the following user groups: students, faculty, staff, and authorized parcel senders.
 
 2. Parcel Tracking: The system will provide real-time tracking of parcel deliveries, allowing users to monitor the status of their parcels and receive updates on delivery times.
