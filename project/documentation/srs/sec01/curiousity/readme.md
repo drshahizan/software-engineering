@@ -51,7 +51,7 @@ Don't forget to hit the :star: if you like this repo.
     <tr>
     <td>Hanie Azyuni Binti Mazle</td>
     <td>JKM KTDI</td>
-    <td>Timbalan Pengerusi (Aktivity)</td>
+    <td>Timbalan Pengerusi (Aktiviti)</td>
     <td>Provide input on KTDI event information and documents</td>
   </tr>
     <tr>
