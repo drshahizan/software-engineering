@@ -28,7 +28,7 @@ Don't forget to hit the :star: if you like this repo.
   <td>3.</td> <td> Camily Tang Jia Lei </td> <td> A22EC0039 </td> <td><img src="cam.jpg" width=150,height=300> </td> 
   </tr>
 <tr>
-  <td>4.</td> <td> Ng Shu Yu </td> <td> A22EC0228 </td> <td><img src="nsy.JPG" width=150px, height=170px> </td>
+  <td>4.</td> <td> Ng Shu Yu </td> <td> A22EC0228 </td> <td><img src="nsy.JPG" width=150px, height=200px> </td>
   </tr>
 </table>
 
