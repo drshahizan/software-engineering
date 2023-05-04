@@ -274,7 +274,7 @@ In conclusion, the total estimated cost is ***RM 570,000/year***.
   </tr>
   <tr>
     <th align= "left">Framework</th>
-    <td>Bootstrap Studio</td>
+    <td>Bootstrap </td>
   </tr>
     <tr>
     <th align= "left">Integrated Development Environment (IDE)</th>
