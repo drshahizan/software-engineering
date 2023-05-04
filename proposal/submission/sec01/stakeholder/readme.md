@@ -275,7 +275,8 @@ A project, programme, or organization's potential risks must be identified, eval
 
 The risk assessments that related to the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) are:
 
-- User adoption risk: <br>User adoption and commitment are the key to make the Student Accommodation System to be succeeded. The Student Accommodation System will not provide the desired benefits if staff and students are not using it efficiently. 
+- User adoption risk: 
+  - User adoption and commitment are the key to make the Student Accommodation System to be succeeded. The Student Accommodation System will not provide the desired benefits if staff and students are not using it efficiently. 
 
 - Changes in project requirement:
   - Scope creep: As project requirements change over time, the project's scope will be extended, which could cause delays or the budget to be exceeded.
@@ -288,7 +289,8 @@ The risk assessments that related to the Student Accommodation System in Kolej T
  
 To mitigate these risks, the following strategies will be employed:
 
-- User adoption risk: <br>Users can be trained and supported. The surveys and feedback sessions will be held to improve the Student Accomodation System and incentives or rewards can be given to users who successfully adopt and use the system. These are all the actions that can help to reduce the risks associated with user adoption.
+- User adoption risk: 
+  - Users can be trained and supported. The surveys and feedback sessions will be held to improve the Student Accomodation System and incentives or rewards can be given to users who successfully adopt and use the system. These are all the actions that can help to reduce the risks associated with user adoption.
 
 - Changes in project requirement:
   - The project requirements should be precisely stated, completed, and well-documented.
@@ -299,8 +301,7 @@ To mitigate these risks, the following strategies will be employed:
   - Technical risk: <br>For Student Accommodation System, Kolej Tun Dr Ismail(KTDI) should put in place routine data backups and disaster recovery plans, as well as routine maintenance,software and hardware updates to reduce the technical risks. They should also employ qualified Information Technology Specialist to run and maintain the system.
   - Financial risk: <br>To reduce financial risks, they should create a thorough financial strategy that takes into consideration the initial expenditures as well as recurring expenses of the Student Accommodation System. It's important to regularly examine and modify financial predictions to take any changes in enrollment or other monetary issues into consideration.
 
-In general, it's necessary to identify and reduce these risks if we want the Student Accommodation System in Kolej Tun Dr Ismail (KTDI)
-to be more successful. We can reduce any negative effects and increase the advantages of the system by taking a proactive approach to risk management.
+In general, it's necessary to identify and reduce these risks if we want the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) to be more successful. We can reduce any negative effects and increase the advantages of the system by taking a proactive approach to risk management.
 
 ---
 
