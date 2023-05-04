@@ -224,10 +224,12 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
 The testing methodologies that will be used are black-box testing, white-box testing, and grey-box testing.
 
 * <b>Black-box testing</b>:
-Also referred to as functional testing or behavioural testing, is a testing technique where the tester is unaware of the internal workings of the system being tested. The tester in this method only has access to the system's inputs and outputs, and they test the system's functionality in accordance with its specifications and requirements. In our case, the system's end users (JKM KTDI and KTDI college office staff and fellow members) will conduct this kind of testing.
+Also referred to as functional testing or behavioural testing, is a testing technique where the tester is unaware of the internal workings of the system being tested. The tester in this method only has access to the system's inputs and outputs, and they test the system's functionality in accordance with its specifications and requirements. In the case of the KTDI event management system, the end-users such as JKM KTDI, KTDI college office staff, and fellow members will conduct this kind of testing.
 
 * <b>White-box testing </b>:
-Also known as structural testing, is a testing technique where the tester is aware of how the system being tested operates on the inside. This approach involves running tests on the system's internal components, such as code or algorithms, to make sure they work as intended. Developers or testers with access to the source code (the team members) of the system being tested usually carry out white-box testing.
+Also known as structural testing, is a testing technique where the tester is aware of how the system being tested operates on the inside. This approach involves running tests on the system's internal components, such as code or algorithms, to make sure they work as intended. Developers or testers with access to the source code of the system being tested usually carry out white-box testing. In the KTDI event management system, the team members will perform this type of testing.
+
+* <b>System testing:</b> For KTDI event management system, system testing involves testing the entire system as a whole to ensure that it meets the specified requirements and functions as expected. This can involve testing various aspects of the system, including the user interface, location booking system, paperwork management processes, and other key features. System testing helps to identify any bugs, errors, or issues that may impact the system's functionality, and ensures that the system is reliable and performs well under different scenarios. The team members will carry out system testing for the KTDI event management system.
 
 #### Project Management Practices: 
 * <b>Agile Project Management:</b>  An effective project management strategy for software development projects is called agile. It entails segmenting the project into shorter, easier-to-manage units called sprints. A specific set of tasks are finished during each sprint, which is a brief, concentrated time frame.
@@ -244,7 +246,7 @@ Also known as structural testing, is a testing technique where the tester is awa
 
 
 #### Quality Assurance Processes: 
-* <b>Testing Activities:</b> A crucial component of quality assurance is testing. By carrying out various testing tasks like black-box testing, white-box testing, system testing, integration testing, and user acceptance testing, it will guarantee that the system complies with the quality standards . The purpose of the testing operations is to find any flaws or problems in the system and make sure it satisfies the demands of the stakeholders.
+* <b>Testing Activities:</b> A crucial component of quality assurance is testing. By carrying out various testing tasks like black-box testing, white-box testing, and system testing, it will guarantee that the system complies with the quality standards . The purpose of the testing operations is to find any flaws or problems in the system and make sure it satisfies the demands of the stakeholders.
 
 * <b>Test Reports:</b> The documentation specialist will also be responsible for creating test reports. These reports will summarise any issues found and include the testing activities' findings. The reports will be used to monitor the testing's progress and make sure the system is upholding the necessary quality standards.
 
