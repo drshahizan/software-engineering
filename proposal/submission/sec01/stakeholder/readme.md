@@ -72,13 +72,17 @@ The expected outcomes of the project include improved students and also KTDI sta
 ---
   
 ### 2. Background
-The student accommodation system is an essential aspect of managing student life on a university campus. It automates the process of assigning student room and ensures that students are placed in suitable accommodations that meet their needs and preferences. The system is vital in providing a comfortable and safe living environment for students, promoting their academic success and overall well-being. However, the current unintegrated and unorganised system in KTDI can be time-consuming, prone to error and inconsistencies, leading to inefficiencies in the room application and management process and a poor user experience for both students and administrators.
+Managing student accommodations in Kolej Tun Dr Ismail (KTDI) is a complex and challenging task. The current process is less flexible for students and KTDI staffs when managing room applications, allocations, and rent payments is vulnerable, inconsistencies, and time-consuming for both students and KTDI staffs. Students face difficulties in selecting suitable rooms based on their preferences and accessibility, while KTDI staffs struggle with the workload of managing hundreds of applications and allocating rooms manually.
 
-Our proposed student accommodation system is focused to overcome these challenges via devloping a modern, spontaneous automated system that streamline the room rentaling and managing process. To provide students, staff, and administrators with a seamless user experience, the proposed system makes advantage of the most recent technology and best practises. The developed system will provide an efficient and effective way for students to apply for hostel online based on their selections and for administrators to allocate housing quickly and accurately.
+To solve these issues, we propose a modern and intuitive Student Accommodation System that automates the room selection process, from application to allocation, and provides a seamless experience for students and KTDI staffs. With the use of the latest technology and industry best practices, the system aims to simplify the process of applying for hostels online, selecting preferred rooms, and allocating suitable accommodations based on student preferences and accessibility needs.
 
-The key features of this system include a user-friendly interface that integrates with other university systems such as billing and student information, and enhanced data analysis capabilities to provide insights into occupancy rates, student preferences, and college merits. It also embraces features such as tracking maintenance requests, scheduling repairs and replacements, and ensuring compliance with safety regulations to ensure that student accommodations are well-maintained and safe. Thus, this system enables students to take control on their hostel selection and staff and administrators will additionally profit from enhanced room management, data analytics, and more effective working operation.
-  
-The student accommodation system features offer significant benefits for the university community, with the potential to impact the accommodation allocation process positively. The automation of the allocation process will increase efficiency, save time, and eliminate errors that often occur during manual allocation. The online application process will simplify the application process for students, creating a better user experience. The data analysis capabilities will allow administrators to make informed decisions about future housing allocation, resulting in a more strategic and effective approach. The enhanced security measures will protect students' personal information, improving privacy and security. The maintenance system will ensure the hostel remains well-maintained, creating a comfortable and safe living environment for students. Therefore, the student accommodation system features will improve the quality of the accommodation allocation process, streamline processes, improve the student experience, and enhance the reputation of the university.
+The proposed system includes several key features, such as a user-friendly interface that integrates with other university systems like billing and student information, enhanced data analysis capabilities, and features that enable tracking maintenance requests, scheduling repairs and replacements, and ensuring compliance with safety regulations. These features aim to improve the overall management and maintenance of student accommodations, creating a comfortable and safe living environment for students and enhancing their academic success and overall well-being.
+
+The Student Accommodation System will also bring significant benefits to the students also KTDI staffs, such as increased efficiency, time-saving, and reduced errors during the allocation process. The online application process will simplify the application process for students, making it easier and more convenient for them to select their preferred rooms. The enhanced data analysis capabilities will provide administrators with insights into occupancy rates, student preferences, and college merits, enabling them to make informed decisions about future room allocation. The maintenance system will ensure that the rooms remains well-maintained, creating a comfortable and safe living environment for students.
+
+In summary, the proposed Student Accommodation System aims to streamline the room rental process in Kolej Tun Dr Ismail (KTDI), improving the student experience and providing administrators with more effective working operations. By automating the allocation process, enhancing data analysis capabilities, and improving maintenance systems, the system will create a more strategic and efficient approach to managing student accommodations, enhancing the reputation of the university, and promoting student academic success and overall well-being.
+
+
   
 ---
 
@@ -258,10 +262,10 @@ ii. Software requirements
 
 #### System Architecture Diagram:
 The proposed system architecture can be visualized using the following flowchart:
-<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/flowchart.PNG">
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/flowchart_diagram.PNG" width=500px height=300px>
 
 High-level diagram that represents our proposed system architecture:<br>
-<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/level_diagram.PNG">
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/level_diagram.PNG" width=850px height=400px>
   
 ---
 
