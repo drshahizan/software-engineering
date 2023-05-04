@@ -72,6 +72,13 @@ For this system, it will include the features below:
 In final analysis, the proposed Student Health and Wellness System is a broad, but controlled program requiring strict adherence to applicable laws, regulations, and policies. Moreover, intricate and diverse processing must be applied to guarantee maximum efficiency. This necessitates a delicate balance between elaborate, detailed sentences and much simpler, straightforward ones. Ultimately, this strenuous undertaking assures the creation of an effective Student Health and Wellness System.
 
 ### 5. Software Process Model:
+#### Goal of Software Model Process
+The purposes of having goal of sofware process model is to provides high-quality, dependable, and maintainable software. Software process model aims to define the outlines of the procedures, actions, and activities needed to create websites , from gathering requirements to testing, releasing, and maintaining the website.
+<br>
+
+
+
+
 <div align="justify">
     <img src="https://user-images.githubusercontent.com/128198038/236096082-51d056d1-9632-4b82-92b3-56aaa06f1566.png" alt="alt text" />
 </div>
