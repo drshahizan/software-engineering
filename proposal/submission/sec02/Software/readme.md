@@ -295,7 +295,7 @@ This document describes project's background, scope, objectives, software proces
 SRS lists detailed software requirements that must be met to develop the system such as functional requirements, design constraint and non-functional attributes.
 
 - **System Design Document (SDD)**</br>
-
+SDD provides a complete overview of system architecture and user interface. It also describes each module clearly.
 
 - **System Testing Document (STD)**</br>
 SDD outlines test strategy, test scenarios and test cases. It also records test data which is needed to validate certain features and expected outputs.
