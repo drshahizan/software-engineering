@@ -49,6 +49,9 @@ Overall, our system is designed to make event planning and execution as seamless
 ### 2. Background:
 Events are an essential part of the Kolej Tun Dr Ismail (KTDI) college. However, the current process of event preparation and post-activity processes is time-consuming and less-productive. The KTDI Event Management System is designed to solve the problems and inconveniences faced by stakeholders in activity preparation and improve the effectiveness of event preparation. 
 
+One of the issues faced by stakeholders is the problem of event dates crashing, which occurs due to the manual event preparation process. Our proposed system addresses this challenge by introducing a calendar for annual events. This feature enables JKM KTDI to plan and schedule their events for the year in advance, avoiding scheduling conflicts and allowing for the allocation of resources accordingly. With the calendar for annual events, JKM KTDI can quickly identify which dates are already reserved and which are available, making it easier to plan and organise events in a systematic manner.
+
+The stakeholders are required to go through a laborious process of seeking approval from multiple parties through paperwork. For instance, the KTDI Student Residential College Committee (JKM KTDI) has to manually fill in the program approval form to reserve locations and facilities in KTDI, followed by obtaining approvals from the program director, fellow KTDI, and KTDI principal, and finally submitting the proposal to Student Affairs. Our system aims to simplify this process by managing all necessary documents for each activity with just a click of the mouse. By using a paperless method, the system can promote environmental protection and prevent the loss or destruction of physical documents.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
