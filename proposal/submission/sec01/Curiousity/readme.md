@@ -557,36 +557,36 @@ Below is the timeline and deliverables of the project:
       </thead>
       <tbody>
         <tr>
-          <td rowspan="4">Phase 1: Planning Phase (Weeks 1-3)</td>
+          <td rowspan="4">Phase 1: Planning Phase (Week 1-3)</td>
           <td rowspan="4">System Requirements and Design</td>
           <td>Proposal(Week 1)</td>
           <td>This document outlines the project's purpose, scope, goals, timeline, and budget.</td>
-          <td>Project Manager,Documentation Specialist and input from stakeholders</td>
+          <td>Project Manager, Documentation Specialist, and input from stakeholders</td>
         </tr>
         <tr>
-          <td>System Requirements Specification (SRS)(Week 1-2)</td>
+          <td>System Requirements Specification (SRS) (Week 1-2)</td>
           <td>This document details the functional and non-functional requirements of the system, including user requirements, system capabilities, and performance metrics.</td>
-          <td>Project Manager, Documentation Specialist,Assistant Developer and input from stakeholders </td>
+          <td>Project Manager, Documentation Specialist, Assistant Developer and input from stakeholders</td>
         </tr>
         <tr>
-          <td>System Design Document (SDD)(Week 2-3)</td>
+          <td>System Design Document (SDD) (Week 2-3)</td>
           <td>This document outlines the technical design of the system, including the software architecture, user interface, and integration points</td>
-          <td>Project Manager, Documentation Specialist, Main Developer and Assistant Developer</td>
+          <td>Project Manager, Documentation Specialist, Main Developer </td>
         </tr>
         <tr>
-          <td>System Testing Document (STD)(Week 2-3)</td>
+          <td>System Testing Document (STD) (Week 2-3)</td>
           <td>This document describes the test plan, test cases, and test scenarios that will be used to ensure the system meets the requirements and quality standards.</td>
-          <td>Project Manager, Documentation Specialist, Main Developer and Assistant Developer</td>
+          <td>Project Manager, Documentation Specialist, Main Developer </td>
         </tr>
         <tr>
           <td rowspan="3">Phase 2: Design Phase (Week 4-11)</td>
           <td rowspan="3">Design of the system</td>
-          <td>Prototype(Week 4-7)</td>
+          <td>Prototype (Week 4-7)</td>
           <td>Creates prototypes, wireframes, user journey maps, and user stories. Carries out usability testing and user research to improve the design.</td>
           <td>User Experience Designer</td>
         </tr>
         <tr>
-          <td>Technical Design and Architecture(Week 8-9)</td>
+          <td>Technical Design and Architecture (Week 8-9)</td>
           <td>Offer technical advice on constraints of the system. Creates a technical design document and an architectural diagram.</td>
           <td>Main Developer</td>
         </tr>
@@ -598,53 +598,53 @@ Below is the timeline and deliverables of the project:
         <tr>
           <td rowspan="3">Phase 3: Development Phase (Week 12-21)</td>
           <td rowspan="3">Development of the system</td>
-          <td>Interface Layer(Week 12-15)</td>
+          <td>Interface Layer (Week 12-15)</td>
           <td>Develops the system code and unit tests for interface layer. Integrates the code and performs integration testing for interface layer.</td>
           <td>Main Developer, User Experience Designer</td>
         </tr>
         <tr>
-          <td>Application Layer(Week 16-19)</td>
+          <td>Application Layer (Week 16-19)</td>
           <td>Develops the system code and unit tests for application layer. Integrates the code and performs integration testing for application layer.</td>
           <td>Main Developer</td>
         </tr>
         <tr>
-          <td>Codebase Documents(Week 20-21)</td>
+          <td>Codebase Documents (Week 20-21)</td>
           <td>Documents the codebase and version control process.</td>
           <td>Documentation Specialist</td>
         </tr>
         <tr>
           <td rowspan="3">Phase 4: Testing Phase (Week 22-31)</td>
           <td rowspan="3">Testing of the system</td>
-          <td>Box Testing(Week 22-26)</td>
+          <td>Box Testing (Week 22-26)</td>
           <td>Conducts white-box testing, black-box testing, and system testing. Resolves defects and bugs.</td>
           <td>Main Developer</td>
         </tr>
         <tr>
-          <td>Usability Testing(Week 27-29)</td>
+          <td>Usability Testing (Week 27-29)</td>
           <td>Conducts usability testing to ensure the application meets the user requirements and expectations.</td>
           <td>User Experience Designer</td>
         </tr>
         <tr>
-          <td>Testing Document(Week 30-31)</td>
+          <td>Testing Document (Week 30-31)</td>
           <td>Drafts a testing document that includes test cases, test scripts, and test results.</td>
           <td>Documentation Specialist</td>
         </tr>
         <tr>
           <td rowspan="2">Phase 5: Deployment Phase (Week 32-34)</td>
           <td rowspan="2">Deployment of the System</td>
-          <td>Deployment of the System to Production Environment(Week 32-33)</td>
+          <td>Deployment of the System to Production Environment (Week 32-33)</td>
           <td>Deploys the application to the production environment</td>
           <td>Main Developer</td>
         </tr>
         <tr>
-          <td>Deployment Document(Week 34)</td>
+          <td>Deployment Document (Week 34)</td>
           <td>Drafts a deployment document that includes the deployment process and any post-deployment support plans.</td>
           <td>Documentation Specialist</td>
         </tr>
         <tr>
           <td rowspan="2">Phase 6: Maintenance Phase (Week 35-42)</td>
           <td rowspan="2">Maintenance & Support of the System</td>
-          <td>Deployment of the System to Production Environment(Week 35-48)</td>
+          <td>Deployment of the System to Production Environment (Week 35-48)</td>
           <td>Provides ongoing maintenance and support for the system.</td>
           <td>Main Developer</td>
         </tr>
@@ -656,15 +656,16 @@ Below is the timeline and deliverables of the project:
       </tbody>
     </table>
     
-Testing Procedures
+### Testing Procedures
+A testing procedure is a methodical strategy of evaluating the performance, quality, and usability of a software system or application. It entails organising, creating, carrying out, and recording tests to find any flaws, mistakes, or problems that might affect the software's usability, dependability, or security.
 
-Testing procedure is a systematic approach to verifying and validating the functionality, performance, and quality of a software system or application. It involves planning, designing, executing, and documenting tests to identify any defects, errors, or issues that could impact the software's usability, reliability, or security.
+The goal of the testing is to verify that the KTDI event management system complies with the expectations of the stakeholders. 
 
-The testing objective is to ensure that the KTDI event management system meets the specified requirements as expected by the stakeholders. Testing Procedures for the KTDI event management system involve several testing methodologies, including 
-- black-box testing
-- white-box testing
-- system testing
-- performance testing.
+Several testing methodologies are used during the KTDI event management system's testing procedures, including 
+- Black-box testing
+- White-box testing
+- System testing
+- Performance testing.
 
 The development team of this project will create test cases and scenarios to cover all aspects of the system, including the user interface as below
 <table>
@@ -672,7 +673,7 @@ The development team of this project will create test cases and scenarios to cov
         <tr>
           <th>Interface</th>
           <th>Feature</th>
-          <th>Person Involved</th>
+          <th>User Involved</th>
         </tr>
       </thead>
       <tbody>
@@ -688,7 +689,7 @@ The development team of this project will create test cases and scenarios to cov
         </tr>
         <tr>
           <td>Event Menu</td>
-          <td>Location Booking System</td>
+          <td>Venue / Location Booking System</td>
           <td>JKM, KTDI College Office Staff</td>
         </tr>
         <tr>
@@ -714,55 +715,50 @@ The development team of this project will create test cases and scenarios to cov
       </tbody>
     </table>
 
-The overall testing procedure will be:
-- 1. Black-box testing (to validate the system's functionality and behavior)
+The overall testing procedures will be:
+- <b>Black-box testing</b> (To validate the system's functionality and behaviour):
+This is carried out by end-users who are not aware of the internal workings of the system, such as JKM KTDI, KTDI college office staff, and fellow members. They test the system's functionality based on its specifications and requirements, using only its inputs and outputs.
 
-This is carried out by end-users such as JKM KTDI, KTDI college office staff, and fellow members who are not aware of the internal workings of the system. They test the system's functionality based on its specifications and requirements, using only its inputs and outputs.
-- 2. White-box testing (to validate the system's internal components, such as code or algorithms)
+- <b>White-box testing</b> (To validate the system's internal components, such as code or algorithms):
+This is carried out by developers or testers who have access to the source code of the system being tested. This testing method involves running tests on the system's internal components to ensure they work as intended. The KTDI event management system team members will perform white-box testing.
 
-This is carried out by developers or testers with access to the source code of the system being tested. This testing method involves running tests on the system's internal components to ensure they work as intended. The KTDI event management system team members will perform white-box testing.
-- 3. System testing (conduct system testing to validate the system as a whole)
-
+- <b>System testing</b> (Conduct system testing to validate the system as a whole):
 This involves testing the entire system as a whole to ensure it meets the specified requirements and functions as expected. The KTDI event management system team members will carry out system testing, testing various aspects of the system, including the user interface, location booking system, paperwork management processes, and other key features.
-- 4. Performance Testing (conduct performance testing to validate the system's performance under different scenarios)
 
+- <b>Performance Testing</b> (Conduct performance testing to validate the system's performance under different scenarios):
 Performance testing assesses how well the system performs under various loads and stresses. It involves creating realistic scenarios to test the system's throughput, response time, and resource usage under various user activity levels. The KTDI event management system team members are responsible for performance testing, using specialised tools and software to measure a variety of metrics, including server response time, page load time, and network latency. The system's performance will be optimised based on the performance testing results, any performance problems will be found, and the system's ability to handle the anticipated workload will be confirmed.
-- 5. Analyse Results and Report Defects (Analyse the results of testing and report any defects or issues found)
 
+- <b>Analyse Results and Report Defects</b> (Analyse the results of testing and report any defects or issues found):
 The development team of this project will work closely with the documentation specialist to create test reports summarising the results of testing, including any defects or issues found during the testing process. These reports will be used to monitor the testing's progress and ensure that the system is meeting the required quality standards. Any defects or issues found will be reported to the development team for resolution. The documentation specialist will be responsible for ensuring that all test reports are accurate and up-to-date.
-- 6. Retest and Validate Fixes 
 
+- <b>Retest and Validate Fixes:</b>
 Retest any defects or issues found after they have been fixed by the development team. The testing team will verify that all defects and issues have been resolved before signing off on the system's release.
-- 7. Sign-Off: Sign off on the system's release after all testing is complete and all defects have been resolved.
 
-Quality Assurance Procedure
+- <b>Sign-Off:</b> 
+Sign off on the system's release after all testing is complete and all defects have been resolved.
 
 
-- 1. Testing Activities:
-
+### Quality Assurance Procedure
+- <b> Testing Activities:
 Perform black-box testing, white-box testing, and system testing to ensure the software meets quality standards and stakeholder requirements.
 Document all test results, including any defects or issues found during testing.
-- 2. Test Reports:
 
+- <b> Test Reports:</b> 
 The documentation specialist is responsible for creating test reports summarising any issues found during testing and monitoring the testing progress.
 Use the test reports to ensure the software is upholding the necessary quality standards.
-- 3. Unit Testing:
 
+- <b> Unit Testing:</b> 
 The main developer and team members will perform unit testing to test individual units or components of the system in isolation.
 Ensure each unit of the system is working as intended and free of defects or errors in the code.
-- 4. Code Reviews:
 
+- <b> Code Reviews:</b> 
 The main developer and team members will perform code reviews to identify defects or errors in the code and ensure the code is consistent with the project's coding standards and guidelines.
-- 5. Continuous Integration:
 
-Integrate code into a shared repository as part of the software development practice known as continuous integration.
-Ensure that the code is properly integrated and that any problems or conflicts are quickly found and fixed.
-Ensure the system operates as intended and complies with the necessary quality standards.
-- 6. Analyse Results and Report Defects:
+- <b> Continuous Integration:</b> 
+As part of the continuous integration method of software development, integrate code into a public repository. Furthermore, it makes sure the code is correctly integrated, that any issues or conflicts are quickly identified and resolved, and that the system functions as intended and complies with the necessary quality standards.
 
-Analyse the results of testing and report any defects or issues found.
-Report defects to the development team for resolution
-
+- <b> Analyse Results and Report Defects:</b> 
+Analyse the results of testing and report any defects or issues found to the development team for resolution.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
