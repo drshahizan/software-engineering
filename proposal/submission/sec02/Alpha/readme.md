@@ -93,9 +93,6 @@ The scope refers to the boundaries of the project and outlines the features and 
 <br>According to the students’ preferences, students should be able to search for available rooms by looking at the location, price and facilities. 
 Room booking: Room booking features allows students to book rooms based on availability and their preferred dates. The system should provide a calendar view of the rooms availability and allows students to request any services for their room. 
 
-- Payment Processing: 
-<br>The system allows students to complete their payment process through credit card or online banking. Students should be able to monitor their payment history and receipts. 
-
 - Room cancellation: 
 <br>The room cancellation features should allow students to cancel their room reservation if needed. 
 
