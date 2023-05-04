@@ -223,17 +223,37 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
 #### Testing Methodologies: 
 The testing methodologies that will be used are black-box testing, white-box testing, and grey-box testing.
 
-* Black-box testing:
+* <b>Black-box testing</b>:
 Also referred to as functional testing or behavioural testing, is a testing technique where the tester is unaware of the internal workings of the system being tested. The tester in this method only has access to the system's inputs and outputs, and they test the system's functionality in accordance with its specifications and requirements. In our case, the system's end users (JKM KTDI and KTDI college office staff and fellow members) will conduct this kind of testing.
 
-* White-box testing
+* <b>White-box testing </b>:
 Also known as structural testing, is a testing technique where the tester is aware of how the system being tested operates on the inside. This approach involves running tests on the system's internal components, such as code or algorithms, to make sure they work as intended. Developers or testers with access to the source code (the team members) of the system being tested usually carry out white-box testing.
 
 #### Project Management Practices: 
-We can use Agile project management practices such as Scrum to manage the project. The team can have daily stand-up meetings, sprint planning, sprint review, and retrospective meetings.
+* <b>Agile Project Management:</b>  An effective project management strategy for software development projects is called agile. It entails segmenting the project into shorter, easier-to-manage units called sprints. A specific set of tasks are finished during each sprint, which is a brief, concentrated time frame.
+
+* <b>Scrum:</b> Scrum is an agile project management framework for software development. It includes a number of rituals, roles, and artefacts that aid in making sure the project is completed on schedule, within budget, and in accordance with the necessary quality standards.
+
+* <b>Daily Stand-up Meetings:</b> Daily stand-up meetings are quick, focused gatherings that occur each day. Team members share updates on their progress, discuss any difficulties they are having, and mention any dependencies they may have on other team members during these meetings.
+
+* <b>Sprint Planning:</b> Each sprint starts with a planning session known as”sprint planning”. The team reviews the backlog of work, chooses which tasks to include in the sprint, and determines how long it will take to complete each task during this meeting.
+
+* <b>Sprint Review:</b> The team holds a sprint review meeting at the end of each sprint. The team presents the work that has been completed during the sprint during this meeting, and stakeholders provide feedback.
+
+* <b>Retrospective Meetings:</b> The team holds a review session following each sprint. The team reviews the sprint during this meeting and pinpoints areas for development.
+
 
 #### Quality Assurance Processes: 
-The quality assurance analyst along with the team members will ensure that the system meets the quality standards by performing various testing activities and creating test reports. The main developer and developer assistant will also perform unit testing and code reviews to ensure the quality of the code.
+* <b>Testing Activities:</b> A crucial component of quality assurance is testing. By carrying out various testing tasks like black-box testing, white-box testing, system testing, integration testing, and user acceptance testing, it will guarantee that the system complies with the quality standards . The purpose of the testing operations is to find any flaws or problems in the system and make sure it satisfies the demands of the stakeholders.
+
+* <b>Test Reports:</b> The documentation specialist will also be responsible for creating test reports. These reports will summarise any issues found and include the testing activities' findings. The reports will be used to monitor the testing's progress and make sure the system is upholding the necessary quality standards.
+
+* <b>Unit Testing:</b> The main developer and team members will also perform unit testing. Unit testing is a software testing technique that involves testing individual units or components of the system in isolation. The purpose of unit testing is to ensure that each unit of the system is working as intended and that there are no defects or errors in the code.
+
+* <b>Code Reviews:</b> In addition to unit testing, the main developer and team members will also perform code reviews. Code reviews are a software quality assurance activity in which one or more developers review the code written by another developer. The purpose of code reviews is to identify defects or errors in the code and to ensure that the code is consistent with the project's coding standards and guidelines.
+
+* <b>Continuous Integration:</b> Developers frequently integrate their code into a shared repository as part of the software development practice known as continuous integration. Continuous integration's goal is to guarantee that the code is properly integrated and that any problems or conflicts are quickly found and fixed. Additionally, continuous integration contributes to ensuring that the system operates as intended and complies with the necessary quality standards.
+
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
