@@ -285,7 +285,18 @@ To mitigate these risks, a few steps can be taken:
 | **System Testing and Debugging**   | Run the system test and fix the bugs         | Week 13 to Week 15|
 | **System Documentation**           | Prepare a detailed report of the system design  | Week 10 to Week 14|
 | **Project Demonstration**          | Present and explain how the system works                  | Week 15           |
-| **System Maintenance**             | Monitor performance of the website and update it regularly                                            | 6 months after Week 15|
+| **System Maintenance**             | Monitor performance of the website and update it regularly  | 6 months after Week 15|
+
+#### Deliverables
+- **Proposal** </br>
+This document describes project's background, scope, objectives, software process model, budget, system architecture, risks, resources, technical specifications, timeline, deliverables and conclusion.
+
+- **System Requirements Specification (SRS)**</br>
+SRS lists detailed software requirements that must be met to develop the system such as functional requirements, design constraint and non-functional attributes.
+
+- **System Design Document (SDD)**
+
+- **System Testing Document (STD)**
 
 
 ### 12. Conclusion:
