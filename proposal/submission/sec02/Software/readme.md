@@ -226,6 +226,10 @@ To mitigate these risks, a few steps can be taken:
     <th align= "left">Framework</th>
     <td>Bootstrap Studio</td>
   </tr>
+    <tr>
+    <th align= "left">Integrated Development Environment (IDE)</th>
+    <td>Visual Studio Code</td>
+  </tr>
   <tr>
     <th align= "left">Programming Language</th>
     <td>PHP, HTML, CSS, and JavaScript</td>
