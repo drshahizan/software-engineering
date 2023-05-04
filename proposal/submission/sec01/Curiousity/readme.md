@@ -508,7 +508,7 @@ Technical specifications are essential for ensuring the success of any system de
       <ul>
         <li>Operating System: Windows, MacOS（Allows users to view and store files, run the software, and provide a way to connect the website by using the Internet.）, Linux（Handles the operations of the application）</li>
         <li>Web Server: Apache（A free and open-source web server that delivers web content）</li>
-        <li>Language Used: HTML（Used for webpages creation）, JavaScript（Usedfor creation of more dynamic interactions when developing webpages）, CSS（Used for controlling the layout of multiple webpages in a once  ）, or PHP（Works with Apache to help create dynamic web contents）</li>
+        <li>Language Used: HTML（Used for webpages creation）, JavaScript（Used for creation of more dynamic interactions when developing webpages）, CSS（Used for controlling the layout of multiple webpages in a once  ）, or PHP（Works with Apache to help create dynamic web contents）</li>
         <li>Integrated Development Environment (IDE): Visual Studio Code （Code Editor）, Github （Collaboration of a group of system developers to manage and oberseve the updated code）</li>
       </ul>
     </td>
