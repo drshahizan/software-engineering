@@ -1,11 +1,3 @@
-<a href="https://github.com/drshahizan/software-engineering/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/software-engineering" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/network/members"><img src="https://img.shields.io/github/forks/drshahizan/software-engineering" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/issues"><img src="https://img.shields.io/github/issues/drshahizan/software-engineering" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/software-engineering?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/software-engineering)
-
-Don't forget to hit the :star: if you like this repo.
 
 #  Proposal: College Room Rental System
 
@@ -13,10 +5,27 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ### Prepared by: Group Alpha
-  1. Salini Ravinthiran A22EC0267
-  2. Nur Farah Adibah Binti Idris A22EC0245 
-  3. Nur Aleysha Qurratu'aini Binti Mat Salleh A22EC0241
-  4. Nadhrah NurSabrina Binti Zulaini A22EC0224
+
+<table>
+<tr>
+  <th>No.</th>
+  <th>Member</th>
+  <th>Matric No.</th>
+  <th>Photo</th>
+</tr>
+<tr>
+  <td>1.</td> <td> Salini Ravinthiran </td> <td> A22EC0267 </td> <td><img src="" width=150px, height=200px> </td>
+  </tr>
+<tr>
+  <td>2.</td> <td> Nur Farah Adibah Binti Idris </td> <td> A22EC0245 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/Photo/gambar%20passport%20bg%20putih%20tele.jpg" width=150px, height=200px> </td>
+  </tr>
+<tr>
+  <td>3.</td> <td> Nur Aleysha Qurratu'aini Binti Mat Salleh </td> <td> A22EC0241 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/Photo/GAMBAR%20KAD%20MATRIK%20UTM.jpeg" width=150,height=300> </td> 
+  </tr>
+<tr>
+  <td>4.</td> <td> Nadhrah NurSabrina Binti Zulaini </td> <td> A22EC0224 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/Photo/kad%20matrik.jpg" width=150px, height=170px> </td>
+  </tr>
+</table>
 
 ### Table of Contents
 - [Executive Summary](#1-executive-summary)
@@ -113,8 +122,25 @@ This section describe the ideal software process model for this system developme
 ---
 
 ### 6. Budget:
-- The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
-The development of the college room rental system for around 1,800 users within a semester will involve various costs, including hardware, software, personnel, and testing.
+The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
+The development of the college room rental system for around 1,800 users within a semester will involve various costs, including hardware, software, personnel, testing, and contingency.
+
+- Hardware: RM 50,000<br>
+The hardware budget includes the cost of servers, networking equipment, computers and peripherals, storage devices, and backup devices. The budget will be depending on the size and complexity of the project.
+        
+- Software: RM 45,000<br>
+Development tools and software licenses will include the cost of software development kits, programming languages, and other tools needed for development. There will be costs associated with integrating a payment processing system because the college room rental system allows students to make online payments. Cost of security software includes antivirus, firewalls, and other tools to protect the system from cyber threats. 
+
+- Personnel : RM 800,000<br>
+The personnel budget will be covering the development team's pay and benefits, including the project manager, business analyst, database administrator, main and assistant developer, quality assurance engineer and UI/UX designer. The number of hours needed for each role would depend on the project timeline and deliverables. If there are any overhead costs, they will be taken into consideration.
+
+- Testing : RM 400,000<br>
+The number of test cases, the duration of testing, the types of testing required, and any additional resources needed such as hardware and software licenses will be considered for the testing budget. The testing expenses includes the cost of testing tools and software, hiring testing team, and conducting different types of testing such as functional testing, performance testing, security testing and usability testing.
+
+- Contingency : RM 100,000<br>
+The allocation of funds to cover unanticipated occurrences or circumtances that could effect the project budget is referred to as a contingency budget. The contingency budget typically covers unforseen hardware or software compability issues, unexpected personnel turnover, and also emergencies such as natural disasters. It depends on the specific risks and uncertainties associated with the project. 
+
+Overall, the estimated budget for the development of the college room rental system is RM 1,395,000. The budget includes all expenses associated with hardware, software, staff, testing, and contingency. 
 
 ---
 
@@ -134,16 +160,27 @@ As for the software and hardware requirements that are needed to support this sy
 
 
 #### Tools and Frameworks
-This college rental system will use various tools and frameworks. For Example to Handle user interface, design tools such as HTML, CSS and JavaScript will be used.Moreover, Frameworks like React that is a front-end JavaScript framework or Angular that can build single-page client applications using HTML and TypeScript might be used.
+This college rental system will use various tools and frameworks such as:
+
+- HTML: tocreate structure of web page
+- CSS: to control presentation and visual styling 
+- Bootstrap: front-end development framework
+- MangoDB: To store data(ability to handle large volumes of unstructured data)
+- Node.js: to handle incoming HTTP requests, process data, and respond with dynamic HTML content
+- Microsoft Azure: Cloud Hosting and Deployment
 
 #### Flowchart and Block Diagram
 
 ##### Flowchart
-<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/flowchartSE.png"></img>
+![FlowchartSystemArchitecture](FlowchartSystemArchitecture.drawio.png)
+1. Client: The client tier is the user interface where users interact with the system. In this case, the client tier consists of a web browser that sends requests to the web server.
+2. Web Server: The web server tier receives HTTP requests from the client tier and responds with HTML content that is rendered by the browser. The web server also handles static files, such as CSS and JavaScript. 
+3. Application Server: The application server tier is responsible for handling the business logic of the system. It receives requests from the web server and processes them by retrieving data from the database server and returning dynamic HTML content to the web server.
+4. Database Server: The database server tier stores and manages the system's data. It receives requests from the application server and returns data to the application server for processing.
 
 
 ##### Block Diagram
-<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/detailed%20block%20diagram.drawio%20(1).png"></img>
+![block](block.drawio.png)
 
 ---
 

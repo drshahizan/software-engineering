@@ -18,15 +18,15 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>1. Low Ying Xi</td>
-    <td>Requirement Analyst & Developer assistant</td>
+    <td>Project Manager & Developer assistant</td>
   </tr>
   <tr>
     <td>2. Koh Li Hui</td>
-    <td>User Experience Designer & Developer assistant</td>
+    <td>UX/UI Designer & Developer assistant</td>
   </tr>
     <tr>
     <td>3. Camily Tang Jia Lei</td>
-    <td>Main Developer & Quality Assurance Analyst</td>
+    <td>Main Developer </td>
   </tr>
     <tr>
     <td>4. Ng Shu Yu</td>
@@ -44,8 +44,8 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>1</td>
-    <td></td>
-    <td></td>
+    <td>Lim Shi Kai</td>
+    <td>Ketua Biro Akademik & Tugas-tugas Khas</td>
     <td></td>
   </tr>
     <tr>

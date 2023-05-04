@@ -12,7 +12,7 @@ Don't forget to hit the :star: if you like this repo.
 ## Faculty of Computing Feedback System
 
 
-### Prepared by: <Group name>
+### Prepared by: Lastminpotential
   1. Goh Jing Yang A22EC0052
   2. Loo Jia Chang A22EC0074
   3. TAN JUN YUAN A22EC0107
@@ -93,24 +93,85 @@ The Faculty of Computing Feedback System will provide measurable benefits to all
       <li>This feedback can be used to identify areas where equipment may need maintenance or replacement, and to ensure that students have access to the resources they need to succeed.</li>
     </ul>
 </ul>
-- It should also describe any limitations or constraints that may affect the project.
+<p>Here are some limitations or constraints that may affect the project:</p>
+<ul>
+  <li>Low response rates: If a significant number of students do not provide feedback, the results may not be representative of the entire student body, which can limit the effectiveness of the feedback system.</li>
+  <li>Biased responses: Students who have strong opinions, whether positive or negative, may be more likely to provide feedback than those who are neutral or indifferent. This can lead to biased responses that do not accurately reflect the views of the entire student body.</li>
+  <li>Lack of actionable feedback: The feedback provided by students may not always be actionable or specific enough to make meaningful changes. This can limit the effectiveness of the system in improving the quality of education.</li>
+  <li>Privacy concerns: If students do not feel comfortable providing feedback anonymously, they may be less likely to provide honest and constructive feedback. This can limit the usefulness of the feedback system in improving the quality of education.</li>
+  <li>Overreliance on technology: A faculty feedback system relies heavily on technology to collect and analyze data. If there are issues with the technology or the system is not properly maintained, it can impact the accuracy and effectiveness of the system.</li>
+  <li>Administrative burden: Collecting and analyzing feedback can be time-consuming and require resources to manage effectively. If the system is not properly resourced, it may not be able to meet the needs of the institution or the students it serves.</li>
+</ul>
 
 ### 5. Software Process Model:
-This section describe the ideal software process model for this system development. The write-up must consist of:
-- Explanation of the goal of the software process model.
-- Choose the ideal software process model and give justification.
+<p>Agile methodology is the optimal software process model for the creation of the Faculty Feedback System. Software development using the agile methodology is flexible and iterative, allowing for ongoing input and adaption. It is appropriate for this project since it enables us to release functional software frequently and fast in response to changes.</p>
+<img width="465" alt="image" src="https://mobile-jon.com/wp-content/uploads/2021/04/Agile-Methodology.jpg">
 - The illustration of chosen software process model that relates to your project and shows every phase involved in the chosen software process model
-- Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. 
-- It should also describe the testing methodologies, project management practices, and quality assurance processes.
+  <p><b>Planning phase:</b> Project manager (Tan Jun Yuan) will decide the goal and scope of the system during this phase. Project manager will also produce a paper outlining the essential specifications for the product within two weeks. Then, user stories are chosen and requirements are gathered by requirement analyst (Goh Jing Yang) who is in charge of this phase's deliverables, which comprise the requirements document and user stories, and it lasts for four weeks.</p>
+  <p><b>Design phase:</b> UI/UX system designer (Goh Jing Yang) will work on the project's architecture while designing a mockup of the user interface. In order to gather all the requirements on a diagram and identify the project's functionality, the stakeholders are again involved in this step. Additionally, routine checks will make it easier to determine whether or not the design process has taken into account all of the requirements.</p>
+  <p><b>Develop, testing, deploy and review phase:</b> Main developer (Loo Jia Chang) and asistant developer (Chen Pyng Haw) will now begin putting all of the product requirements gathered during the previous phase together. Before it is finished, it goes through numerous reviews and revisions for improvement.</p>
+  <ul>
+    <li>The association of the development team with project manager.</li>
+    <li>Iterations and functionalities are prioritized and implemented.</li>
+    <li>Each sprint/iteration should be closely examined and developed.</li>
+    <li>Delivering regular working software releases.</li>
+    <li>Ensuring product quality by testing at regular intervals.</li>
+  </ul>
+  <p>The duration for this phase is arund 10 weeks.</p>
+  <p><b>Launch phase:</b> The quality assurance team conducts tests to ensure the software's functionality prior to the product's release. The members of the QA team will test the programme to ensure that the code is clear, and if there are any possible issues or defects, the development team will take swift action to fix them.The duration for this phase is two weeks.After all work is done, this system will be launched.</p>
 
 ### 6. Budget:
-- The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
+<ul>
+<li>Software development: This includes the cost of designing, developing, and testing the software for the system. This can include the cost of software development tools, licenses, and resources such as developers and testers.</li>
+<li>Hardware: This includes the cost of servers, storage, and other hardware required to host and run the software.</li>
+<li>Infrastructure: This includes the cost of setting up and maintaining the network infrastructure required for the system, such as routers, switches, and firewalls.</li>
+<li>Implementation and integration: This includes the cost of implementing and integrating the system with existing institutional systems, such as learning management systems or student information systems.</li>
+<li>Maintenance and support: This includes the cost of ongoing maintenance and support for the system, such as bug fixes, upgrades, and technical support.</li>
+<li>Training: This includes the cost of training users and administrators on how to use the system.</li>
+<li>Miscellaneous expenses: This includes other expenses that may be required for the development and implementation of the system, such as travel expenses, legal fees, and project management costs.</li>
+</ul>
 
 ### 7. System Architecture:
+Proposed System Architecture
+
+The feedback system will consist of three main components: a web-based interface for data collection, a backend server for data storage and management, and a database management system for data retrieval and analysis.
+
+Development Tools
+
+The system will be developed using the following tools:
+- Visual Studio Code
+- Bootstrap Studio
+- Figma
+
+The backend will be developed using:
+- Apache web server
+- MySQL database management system
+- Php programming language
+
+Data Storage and Management
+
+Feedback data collected from students will be stored in the MySQL database management system. The system will also have user authentication to ensure that only authorized users can access and modify data. The data will be stored securely and backed up regularly to prevent data loss.
+
+Hardware and Software Requirements
+
+To support the system, we will need a web server with sufficient processing power and memory to handle incoming requests and manage the database. We will also need a stable internet connection to ensure the system is accessible to all users.
+
+Tools and Frameworks for Data Visualization and Analysis
+
+We will use data visualization and analysis tools to help identify trends and patterns in feedback data. Some of the tools and frameworks that we will use include:
+- Google Data Studio
+
+System Architecture Flowchart
+
+
+
+
+<!--
 - Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
 - Explain how the data will be stored, managed, and analyzed, as well as the hardware and software requirements needed to support the system.
 - Discuss the tools and frameworks that will be used for data visualization and analysis.
 - Provide a flowchart or block diagram of the system architecture.
+-->
 
 ### 8. Risks Assessment:
   
@@ -123,30 +184,152 @@ This section describe the ideal software process model for this system developme
 | Poor user experience resulting in low adoption or dissatisfaction | Design the system with user-centered design principles, such as intuitive interfaces, clear navigation, and responsive design. Conduct user research and testing to gather feedback and improve the user experience. Provide user training and support to help users effectively use the system. |
 | Integration challenges with third-party systems or APIs | Design the system with flexible integration capabilities, such as using industry-standard APIs and protocols. Conduct thorough testing and validation of third-party integrations to ensure compatibility and reliability. Provide documentation and support for developers working on integrations. |
 
- <--
+ <!--
 - The risk assessment section identifies and assesses any potential risks that could impact the project, such as technical challenges, resource constraints, or changes in project requirements. 
 - It should also describe the plans and strategies to mitigate those risks.
 -->
      
 ### 9. Resources:
-- Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
+   
+#### Staff
 
+- Project Manager - Responsible for managing the project, coordinating with stakeholders, and ensuring that the project is completed on time and within budget.
+- Technical Lead - Responsible for designing and developing the feedback system, including the frontend and backend.
+- Software Developers - Responsible for coding and testing the system.
+- Quality Assurance Engineer - Responsible for testing the system to ensure that it meets the requirements and specifications.
+- Database Administrator - Responsible for managing the database and ensuring that data is stored securely.
+
+#### Equipment
+
+- Servers - Required for hosting the feedback system, databases, and other applications.
+- Computers - Required for software development and testing.
+- Networking equipment - Required for connecting the servers and computers.
+
+#### Software
+
+The proposed system architecture consists of the following components and technologies:
+
+| Component                  | Technology                                                 |
+|----------------------------|------------------------------------------------------------|
+| Development Tools          | Visual Studio Code, Bootstrap Studio, Figma                 |
+| Database Management System | MySQL                                                      |
+| Web Server                 | Apache                                                     |
+
+##### Development Tools
+
+- Visual Studio Code: A lightweight and powerful code editor that supports a variety of programming languages.
+- Bootstrap Studio: A web design and development tool that allows for creating responsive and visually appealing websites.
+- Figma: A web-based design and prototyping tool that allows for creating and collaborating on user interfaces and graphics.
+
+##### Database Management System
+
+- MySQL: A popular open-source database management system that is widely used in web applications.
+
+##### Web Server
+
+- Apache: A widely used open-source web server software that is used to serve web content over HTTP. It is known for its reliability and security features.
+
+
+
+#### Other expenses
+
+- Training - Required for staff to learn new skills and technologies.
+- Maintenance - Required for maintaining the servers, networking equipment, and other hardware.
+- Marketing - Required for promoting the feedback system to students and faculty.
+- Miscellaneous expenses - Required for unforeseen expenses and contingencies.
+
+
+
+  
 ### 10. Technical Specifications:
-- Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
-- Mention the programming languages, frameworks, and libraries that will be used in the project.
-- Provide details about the hardware and software requirements for the proposed system.
-- Explain the data security measures that will be implemented.
+  
+Data sources: Through a user interface, the system will collect feedback data from faculty and students. The criticism information will be put away in a data set for additional examination.
+
+Data schema: The name of the student or faculty member, the name of the course, the type of feedback, and the content of the feedback will all be included in the data schema.
+
+Data transformations: To make it suitable for analysis, the collected data will undergo transformations. Cleansing the data, normalizing it, and extracting features are all part of this.
+
+Machine learning algorithms: The feedback data will be analyzed using machine learning algorithms like sentiment analysis, text classification, and clustering.
+
+Data visualization tools: Information perception devices like diagrams, outlines, and dashboards will be utilized to introduce the examined information in an easy to use and reasonable configuration.
+
+Programming languages, frameworks, and libraries: The Flask web framework and Python programming language will be used to develop the project. NumPy, Pandas, Matplotlib, Scikit-learn, and NLTK are some of the other libraries that will be utilized.
+
+Hardware and software requirements: A server or cloud-based infrastructure with sufficient RAM, CPU, and storage will be required for the proposed system. All of the most popular web browsers and operating systems will work with the system.
+
+Data security measures: Encryption, access control, and authentication are just a few of the security measures that the system will use to safeguard the integrity and confidentiality of the feedback data. The system will adhere to security protocols like HTTPS, SSL, and TLS that are accepted by the industry.
 
 ### 11. Timeline and Deliverables: 
-- Provide a detailed timeline for the project, including milestones and deadlines.
-- Specify the deliverables that will be provided at each milestone. It should also specify the expected time frame for each deliverable and the resources that will be required to complete the project.
-- Explain the quality assurance and testing procedures that will be followed.
+
+<table>
+  <thead>
+    <tr>
+      <th>Phase</th>
+      <th>Milestone</th>
+      <th>Deliverables</th>
+      <th>Resources</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Phase 1 :Project idea planning and design </td>
+      <td>Geting the idea project , start to project plan and system design, meeting with stakeholder </td>
+      <td>System Design, Project idea, System requirement </td>
+      <td>Project manager, software engineer, stakeholder, UI/UX designers</td>
+    </tr>
+    
+  <tr>
+  <td>Phase 2: System Development </td>
+  <td>Develop the system environment and completed the system development </td>
+  <td>Completed the system, feedback forms and data management system</td>
+  <td>Project manager, software engineer, UI/UX designers, system developers, database administrator  </td>
+  </tr>
+
+ <tr>
+  <td>Phase 3:System testing  </td>
+  <td>System testing, User acceptance to testing system </td>
+  <td>Receive the feedback user and testing report,get rhe performance system  </td>
+  <td>Project manager, software engineer, UI/UX designers, system developers, database administrator</td>
+ </tr>
+ 
+ <tr>
+  <td>Phase 4: System implementation and maintenance</td>
+  <td>Get the final project and implement maintenance and update the system</td>
+  <td>Improved system , final system code, the system get implement succeed </td>
+  <td>Project manager, software engineer debug and maintenance team</td>
+  </tr>
+
+  </tbody>
+</table>
+   
+   <h5>Testing procedures:</h5>
+
+ 1.Tests on units: During this phase, each system module will be tested to see if it meets the functional requirements. The developers will run tests on the code to make sure it works as expected.
+
+2.Testing Integration: This stage will include testing the framework overall to flawlessly guarantee that every one of the modules cooperate. In order to guarantee platform compatibility and functionality, the system will be tested in a variety of settings.
+
+3.Testing a System: This stage will include testing the framework against the utilitarian and non-practical necessities to guarantee that it addresses the issues of the end-clients. The system's usability, performance, security, and compatibility will all be evaluated.
+
+4.Testing of Acceptance: This stage will include testing the framework with end-clients to guarantee that it addresses their issues and assumptions. The system will be modified as necessary based on the feedback provided by end users.
+    
+   <h5>Quality assurance:</h5>
+
+1.Code Analysis: Senior developers will look over each change to the code to make sure it meets the requirements.
+
+2.Documentation: In order to guarantee that all of the system and code documentation is accurate and current, it will be regularly maintained and updated.
+
+3.Control of Quality: The system's quality control will be overseen by a designated team to make sure it meets the expected standards.
+
+4.Testing for Regression: Whenever a change is made to the framework, relapse testing will be performed to guarantee that it doesn't influence the working of different modules.
+
 
 ### 12. Conclusion:
-- Conclude your proposal with a call to action, highlighting the benefits of your proposed solution and urging the decision-makers to take action.
-- Summarize the proposal and reiterate the importance of the project.
-- Mention any potential limitations or challenges that may arise during the project.
-- Provide a call to action for the client to approve the proposal and proceed with the project.
+
+In conclusion the proposed Faculty of computing Feedback System is a solution to improve and challenge the problem will feaced by students and staff. The proposed digital platfrom offers the user friendly interface for student to provide feedback and take appropriate action upon the feedback.Significant improvements in both faculty environment satisfaction and a more effective and efficient feedback procedure are among the project's anticipated benefits.
+
+It is important to remember that the system's implementation can run into potential restrictions or obstacles, such reluctance to change or technological issues. But we have taken steps to lessen these difficulties and make sure the implementation goes smoothly.However, concerns about data privacy and system integration could surface as the system is being developed.Although there are some challenges, the system's benefits outweigh these disadvantages, so we advise the customer to accept the proposal and continue with the project.
+
+Therefore, we implore the decision-makers to act and accept the proposal to move the project forward.The staff of Computing Feedback System will modernise the feedback process, improving educational quality and fostering greater staff and student satisfaction.  For the duration of the implementation process, we are devoted to offering resources and support to make sure it is successful.In the end, the Faculty of Computing Feedback System will help the faculty succeed overall by improving the standard of instruction, the learning environment, and fostering ongoing programme improvement.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
