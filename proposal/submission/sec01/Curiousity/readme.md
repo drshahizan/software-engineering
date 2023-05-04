@@ -53,6 +53,10 @@ One of the issues faced by stakeholders is the problem of event dates crashing, 
 
 The stakeholders are required to go through a laborious process of seeking approval from multiple parties through paperwork. For instance, the KTDI Student Residential College Committee (JKM KTDI) has to manually fill in the program approval form to reserve locations and facilities in KTDI, followed by obtaining approvals from the program director, fellow KTDI, and KTDI principal, and finally submitting the proposal to Student Affairs. Our system aims to simplify this process by managing all necessary documents for each activity with just a click of the mouse. By using a paperless method, the system can promote environmental protection and prevent the loss or destruction of physical documents.
 
+Additionally, the stakeholders need to conduct multiple meetings to ensure team progression, which can be time-consuming. The KTDI Event Management System helps by enabling the assignment of tasks and tracking progress, thus reducing the number of long and tedious meetings held. Furthermore, the system allows for post-event reporting, providing a centralised platform for storing event photos. Hence, ensuring that KTDI events' management is accurate, efficient, and productive. 
+
+In summary, the KTDI Event Management System proposal seeks to address the challenges associated with the current manual event management process by introducing a modern, organised, and user-friendly solution that provides measurable benefits and enhances the overall experience of all stakeholders. The proposed system has the potential to make the event management process more streamlined and manageable, leading to more successful and enjoyable events.
+
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 3. Objectives:
