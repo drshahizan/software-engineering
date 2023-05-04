@@ -269,7 +269,7 @@ In conclusion, the potential risks that might face during the development and ma
 </table>
 
 ### 11. Timeline and Deliverables: 
-<img src="https://user-images.githubusercontent.com/128159572/235585376-b25f2b58-b38e-43a6-be29-42e555828e48.jpeg">
+<img src="[https://user-images.githubusercontent.com/128159572/235585376-b25f2b58-b38e-43a6-be29-42e555828e48.jpeg](https://user-images.githubusercontent.com/128159572/236125262-7699f4cb-7898-4877-8a3e-656ecfff8fbc.jpeg)">
 
 | Milestones                     | Deliverables                                 | Timeframe         |
 | ------------------------------ | -------------------------------------------- | ----------------- |
