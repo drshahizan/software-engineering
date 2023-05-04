@@ -243,7 +243,7 @@ d. **Other Resources** :
   - Maintenance fees
     - RM 60,000/year
   - Security fees
-    - RM 20,000
+    - RM 20,000year
   - Contingency fees
     - RM 50,000/year
 <p>Total Other Cost: RM 145,000/year</p>
