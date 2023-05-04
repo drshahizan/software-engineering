@@ -34,7 +34,8 @@ Don't forget to hit the :star: if you like this repo.
 * [Conclusion](#12-conclusion)
 
 <hr style="border:0.5px solid gray;height:0.5px;">
-  
+
+<body style="text-align: justify;">
 ### 1. Executive Summary:
 Our proposed KTDI Event Management System is a comprehensive solution that aims to simplify and streamline the processes of event management for Jawatankuasa Kolej Mahasiswa Kolej Tun Dr. Ismail (JKM KTDI) at University Technology Malaysia (UTM), KTDI office staff, and fellow KTDI.
 
@@ -598,7 +599,7 @@ The two user interfaces, one for JKM KTDI and the other for fellow KTDI employee
 Additionally, the new system will give every user a high level of customization and flexibility. This will allow them to set deadlines, assign tasks, and upload documents. To keep users engaged and informed on relevant material, the system will also include notifications, reminders, and feedback systems.
 
 Overall, the new system is a considerable advance over the manual paperwork approach since it offers users at all levels of the higher KTDI authorities members greater accessibility, functionality, and customization.
-
+</body>
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
