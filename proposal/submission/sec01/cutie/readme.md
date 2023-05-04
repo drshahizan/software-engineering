@@ -36,14 +36,26 @@ The proposed software will enable lecturers to take attendance quickly and easil
 The benefits of the proposed system are numerous. The software will improve accuracy and reliability, reduce the workload of teachers, and provide a more comprehensive and efficient way to manage attendance. Moreover, the system will identify areas for improvement, leading to better student engagement.
 
 ### 3. Objectives:
-<li>Identify the existing bugs and inefficiencies in the current system, which will be addressed in the new design.</li>
-<li>Implement new attendance marking options: In addition to the current attendance marking system using QR codes, alternative methods such as typing in a line of random generated code should be an option for students in case their device faces camera issues.</li>
-<li>Implement location based check-ins: Students are often able to mark their attendance without actually attending the class through the help of their friends. With the implementation of location based check-ins, we can ensure  the students that have marked their location are actually attending the class.</li>
-<li>Implement biometric authentication: Biometric authentication, such as facial recognition or fingerprint scanning. This helps to prevent attendance fraud and increase accuracy.</li>
-<li>Generate a table that records the attendance of the students, displays their attending time in order, and highlights students who are late to class. The table eases the management of student attendance for the lecturers.</li>
+Identify the existing bugs and inefficiencies in the current system, which will be addressed in the new design.
+<ol><li><b>Implement new attendance marking options:</b></li><ul>
+ <li>In addition to the current attendance marking system using QR codes, alternative methods such as typing in a line of random generated code should be an option for students in case their device faces camera issues.</li></ul>
+<li><b>Implement location based check-ins:</b></li><ul> 
+<li>Students are often able to mark their attendance without actually attending the class through the help of their friends. With the implementation of location based check-ins, we can ensure  the students that have marked their location are actually attending the class.</li></ul>
+<li><b>Implement biometric authentication:</b> </li><ul>
+<li>Biometric authentication, such as facial recognition or fingerprint scanning. This helps to prevent attendance fraud and increase accuracy.</li></ul>
+<li><b>Generate a table:</b></li><ul>
+<li>Records the attendance of the students, displays their attending time in order, and highlights students who are late to class. The table eases the management of student attendance for the lecturers.</li></ul></ol>
+
 
 ### 4. Scope: 
-The scope of this project includes attendance tracking, reporting and analytics, integration with other systems, mobile accessibility, security, and customization. The system allows teachers to track and record student attendance. Besides, the system provides insights into attendance patterns, and visualisations that can be used by lecturers to ease decision making. Moreover, the system should be able to integrate with other university systems such as the student information system and the learning management system. For mobile accessibility, the system is accessible from mobile devices, to ease the attendance submission process. The system should have strong data security measures to protect student’s data and prevent unauthorised access. Other than that, the system should be easily customised to meet the specific requirements of the university, such as class schedules.
+The scope of this project includes attendance tracking, reporting and analytics, integration with other systems, mobile accessibility, security, and customization.
+ <li>The system allows teachers to track and record student attendance.</li> 
+<li>The system provides insights into attendance patterns, and visualisations that can be used by lecturers to ease decision making.</li>  
+<li>The system is able to integrate with other university systems such as the student information system and the learning management system.</li>  
+<li>The system is accessible from mobile devices, to ease the attendance submission process.</li>  
+<li>The system has strong data security measures to protect student’s data and prevent unauthorised access.</li>  
+<li>The system is easily customisable to meet the specific requirements of the university, such as class schedules.</li> 
+
 
 ### 5. Software Process Model:
 The ideal software process model for the development of UTM Student Attendance Management System is Agile methodology.
