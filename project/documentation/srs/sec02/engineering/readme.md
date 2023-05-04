@@ -47,19 +47,19 @@ One Stop Parcel Center & Cengal Parcel Point
     <td>Amira Ellyana binti Jasmin</td>
     <td>One Stop Parcel Center</td>
     <td>Management</td>
-    <td></td>
+    <td>Responsible on managing and ensuring that the parcels arrive in good conditions, grouped the parcels in category and labelled for easier finding in their database</td>
   </tr>
     <tr>
     <td>Syazwan bin Saad</td>
     <td>One Stop Parcel Center</td>
-    <td>Management</td>
-  <td></td>
+    <td>Head of Management</td>
+  <td>Responsible on managing the staffs, ensuring smooth operations, and manage the budget as well. Also responsible on making sure that the informations stated at the parcel and the data is well protected and secure</td>
   </tr>
     <tr>
     <td>Muhammad Amirul</td>
     <td>Cengal Parcel Point</td>
     <td>Head of Management</td>
-    <td></td>
+    <td>Overall manages the security of parcels received through Shopee Express, and manage the staff as well as the informations about the parcels being secure</td>
   </tr>
   
 </table>
