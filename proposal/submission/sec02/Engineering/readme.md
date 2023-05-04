@@ -267,7 +267,11 @@ Completed Parcel Delivery Management System with a working website for users, a 
 
 ### 12. Conclusion:
 
-Developing a parcel system for One Stop Parcel  UTM  will improve the user experience for students, faculty, and staff by streamlining the parcel delivery process and reducing delivery times. The proposed system will be designed to integrate with the university's existing systems and provide a secure, user-friendly interface for sending and receiving parcels. The project timeline and budget outlined in this proposal are based on careful analysis of the project requirements and are designed to ensure a successful outcome.
+In conclusion, the development of a Parcel Delivery Management System (PDMS) website for One Stop Parcel  UTM can be a challenging project, but with careful planning, efficient development, and thorough testing, it can result in a system that significantly improves the efficiency of parcel delivery on campus. Developing a parcel system for One Stop Parcel  UTM  will improve the user experience for students, faculty, and staff by streamlining the parcel delivery process and reducing delivery times. The proposed system will be designed to integrate with the university's existing systems and provide a secure, user-friendly interface for sending and receiving parcels. 
+
+The proposed timeline and deliverables include project planning and requirements gathering, system design and architecture, website development, testing and quality assurance, delivery personnel dashboard development, deployment and integration, and training, documentation, and finalization. The overall deliverable is a completed PDMS with a working website for users, a delivery personnel dashboard, and training and support materials.
+
+It is important to keep in mind that the timeline and deliverables may vary depending on the specific requirements and resources of the project. Effective communication with stakeholders and flexibility in the development process can help ensure the successful implementation of the PDMS website.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
