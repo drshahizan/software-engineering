@@ -162,27 +162,16 @@ In conclusion, the estimated budget is **RM 550,000** which covers the costs for
 
 
 ### 8. Risks Assessment:
-In general, every project can be influenced by a risk so they required a special assessment procedure of the potential risks that could lead to the project's failure or loss if they occur. To develop a student health and wellness management system, the possible risks are: 
-1. Data breaches: The website may contain sensitive information, such as student health records, which could be targeted by hackers. This could result in the theft of personal information and medical histories, leading to identity theft and other forms of fraud.
+In general, every project can be influenced by risk so they required a special assessment procedure of the potential risks that could lead to the project's failure or loss if they occur. To develop a student health and wellness management website, the possible risks are: \
+| Potential Risks                     | Explanations                                        | Mitigations         |
+| ------------------------------ | -------------------------------------------- | ----------------- |
+| **Security risks**              | The website may contain sensitive information such as student health information like lab test results which could be targeted by hackers. This could result in the theft of personal medical information, leading to identity theft and other forms of fraud.   | <ul><li>Implementing robust security measures such as SSL certificates, two-factor authentication, encryption and frequent website security updates. </li> <li>Constantly evaluating the website's security to find any weaknesses.</li></ul> |
+| **Technical risks**         | The website may experience technical issues such as system failures, compatibility issues and downtime. | <ul><li>Utilizing tools and technologies that are industry standard, carrying out extensive testing and quality assurance throughout the development process. </li> <li>Making sure that the website is scalable and can manage possible increases in user numbers and data volume.</li></ul>    |
+| **User experience risks** | The website may not meet the expectations of users, leading to dissatisfaction and low adoption rates.           | <ul><li>Gathering user feedback and conducting research with usability testing throughout the development phase to reduce experience risks and create an accessible portal for all users. </li> <li> Installing feedback channels and periodically requesting user input can allow for bugs and usability issues to be identified and addressed before the website is complete.</li></ul> |
+| **Compliance risks**   | The website may not comply with regulatory requirements, such as data protection laws or healthcare regulations like PDPA, leading to penalties, fines, and legal action.         |<ul><li> Regularly evaluating and monitoring the website to guarantee that it adheres to all applicable laws and regulations. </li> <li>Staying up to date on any modifications to laws and industry standards is vital and it should be implemented while maintaining full compliance.</li></ul>|
+| **Budget and timeline risks**           | During the development and maintenance of the website, the allocated budget or timeline might exceed due to any potential challenges.   | <ul><li>Establishing a reasonable timeline and budget to complete the website. </li> <li>Regular assessing the project to review its progress and uncover potential strategies that can help to reduce costs and hasten the development process. </li></ul>|
 
-2. Denial of service(DoS) attacks: A malicious user or group may attempt to overload the website with traffic, causing it to crash or become inaccessible. This could disrupt the availability of critical health services and information.
-
-3. Malware infections: The website may be infected with malware, which could spread to users' computers and compromise their security. This could result in the theft of personal information or control of the user's device.
-
-4. Insecure coding practices: If the website is not developed using secure coding practices, vulnerabilities could be introduced into the code that could be exploited by attackers.
-
-5. Insider threats: Employees or contractors with access to the website's systems may intentionally or accidentally cause security breaches or data leaks.
-
-To mitigate these risks, a few steps can be taken: 
-1. Implement Robust Security Measures: This include the use of SSL certificates, two-factor authentication, encryption and frequent website security updates. It is crucial to constantly evaluate the website's security to find any weaknesses.
-
-2. Deploy Web Application Firewall (WAF): A WAF can assist in removing harmful traffic from a network before it reaches a server. It can identify and prevent requests intended to launch denial-of-service (DoS) attacks, such as SYN and ICMP floods.
-
-3. Update software and plugin: It is crucial to keep software and plugins used by the website up-to-date, including the operating system, web server software, content management system and any third-party plugins because malware can take advantage of weaknesses created by outdated software. 
-
-4. Follow secure coding guidelines: To make sure that the website is designed with secure coding practises in mind, follow known secure coding guidelines such as the OWASP Top Ten or CERT Secure Coding Standards. These guidelines should cover aspects like input validation, authentication, access control, and data encryption.
-
-5. Implement strict access controls: It is important to set up strict access restrictions and allow only those people who truly require access to sensitive information to perform their jobs. Access control lists, role-based access controls, and user authentication can help with this.
+In conclusion, the potential risks that might face during the development and maintenance of student health and wellness website are security risks, technical risks, user experience risks, compliance risks and budget and timeline risks. To ensure the creation of a successful student health and wellness website, a complete risk assessment should be carried out in order to identify, evaluate and address any potential concerns.
 
 ### 9. Resources:
 - **Staff Resources** : 
