@@ -43,7 +43,7 @@ Our food ordering system is a user-friendly, scalable, and secure solution that 
 
 Our system utilizes the technologies to ensure reliability, security, and performance. It supports multiple platforms and devices, making it accessible to a wider audience. We have also implemented a robust feedback system that allows customers to provide feedback on their orders, helping us improve our service continuously.
 
-Overall, our food ordering system provides an efficient and reliable solution for customers to order food online and for restaurant owners to manage their business operations effectively
+Overall, our food ordering system provides an efficient and reliable solution for customers to order food online at Arked Angkasa and for the restaurant owners to manage their business operations much more effectively.
 
 ## 2. Background:
   The food industry has experienced significant growth in recent years, with more people opting for the convenience of online food ordering. With the rise of digital technologies and the increasing number of mobile devices, customers are looking for fast and easy ways to order food from their favorite restaurants.
@@ -54,13 +54,13 @@ The development of online food ordering systems has revolutionized the way peopl
 
 The COVID-19 pandemic has also contributed to the growth of the online food ordering industry, with many restaurants pivoting their business models to offer online ordering and delivery services. This has further accelerated the need for reliable and efficient food ordering systems.
 
-Overall, the food ordering system is a solution that addresses the growing demand for online food ordering and provides a convenient and efficient way for customers to order food and for restaurant owners to manage their operations effectively.
+Overall, the food ordering system is a solution that addresses the growing demand for online food ordering especially in Arked Angkasa and provides a convenient and efficient way for customers to order food and for restaurant owners to manage their operations effectively.
 
 
 ## 3. Objectives:
   Our proposed **Food Ordering System** aims to achieve the following objectives:
  
-  1- Improve customer convenience: The primary objective of a food ordering system is to provide customers with a convenient way to order food online. By providing an easy-to-use interface and various payment options, customers can quickly order their desired food items from the comfort of their homes or offices.
+  1- Improve customer convenience: The primary objective of a food ordering system is to provide customers at Arked Angkasa with a convenient way to order food online. By providing an easy-to-use interface and various payment options, customers can quickly order their desired food items from the comfort of their homes, offices and hostel.
 
 2- Increase sales: A food ordering system can help restaurants increase their sales by providing them with an additional channel to reach customers. With an online ordering system, restaurants can expand their customer base, increase order volumes, and boost revenue.
 
