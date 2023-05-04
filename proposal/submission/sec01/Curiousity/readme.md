@@ -582,16 +582,15 @@ Quality Assurance and Testing Procedures
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 12. Conclusion:
+The proposed system aims to improve the usability and effectiveness of the previous system by addressing the issue of managing adn increase the effectiveness the paperwork of co-curricular activities in Kolej Tun Dr. Ismail (KTDI) college.
 
-The proposed system aims to improve the usability and effectiveness of the previous system by addressing the issue of low participation rates in co-curricular activities in universities while also enhancing the effectiveness of promoting events to students.
+One of the key features of converting from a manual to fully digital system is that it will be accessible to only the authorised personnel specifically JKM KTDI, KTDI office staffs and KTDI fellow members only. This implementation will contributing to saving the earth as it greatly reduces the amount of paper used as well as save time to commute, wait and receive feedbacks from the higher authorities which could take up to days or even weeks.
 
-One of the key features of the new system is that it will be accessible to a wide range of users, including students, club and society administrators, lecturers, and administrators in faculties and departments.
+The two user interfaces, for JKM KTDI and another for the KTDI office staffs and fellow. Each user will have a specific set of functions and capabilities tailored to their respective roles and responsibilities. For example, JKM KTDI will be able to use the system to send in the proposal and related documents to the KTDI office staff and fellow members, check the status of approval, monitor the progress of each unit for each event, reserve the venue for the physical event, and update and upload post-event report for record purposes to refer for each session and they are required to compile a year-end report of all the events held on that year. The KTDI office staff and fellow members will be able to approve applications and documents, sign documents digitally, view the progress of each unit for the upcoming event.
 
-Each user will have a specific set of functions and capabilities tailored to their respective roles and responsibilities. For example, students will be able to use the system to browse and sign up for co-curricular activities and customise their calendar for the activity they have joined. Club administrators will be able to create and manage events, submit acknowledgement and application letters, reserve the venue for the physical event, and promote their event on the student page. Faculty and department administrators will have the ability to oversee the system's usage, monitor participation rates, and record events that take place in the university.
+Moreover, the new system will offer a high degree of customization and flexibility for each user. This will include the ability to assign tasks, fix the deadline, and upload documents. The system will also feature notifications, reminders, and feedback mechanisms to ensure that users are engaged and informed about relevant paperworks.
 
-Moreover, the new system will offer a high degree of customization and flexibility for each user. This will include the ability to set preferences, adjust settings, and personalise their user interface. The system will also feature notifications, reminders, and feedback mechanisms to ensure that users are engaged and informed about relevant events and activities.
-
-Overall, the new system represents a significant improvement over the previous system by providing greater accessibility, functionality, and customization for users at all levels of the university community.
+Overall, the new system represents a significant improvement over the manual paperwork system by providing greater accessibility, functionality, and customization for users at all levels of the higher KTDI autorities members.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
