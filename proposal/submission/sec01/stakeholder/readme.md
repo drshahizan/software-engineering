@@ -41,6 +41,7 @@ Don't forget to hit the :star: if you like this repo.
 <div style="text-align:center;">
 <img src= "https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/stakeholder%20hamdan.jpg?raw=true" style="max-width:100%;">
 </div>
+
 ---
 
 ### Table of Contents
@@ -257,7 +258,7 @@ ii. Software requirements
 
 #### System Architecture Diagram:
 The proposed system architecture can be visualized using the following flowchart:
-<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/flowchart.png">
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/flowchart.PNG">
 
 High-level diagram that represents our proposed system architecture:<br>
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/level_diagram.PNG">
