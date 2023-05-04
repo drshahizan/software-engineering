@@ -49,9 +49,9 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provide information about the college room rental procedure.</td>
   </tr>
     <tr>
-    <td>2. Puan Rosmah</td>
+    <td>2. Puan Rosnani bt Katip</td>
     <td>Staff Kolej Tun Dr Ismail</td>
-    <td></td>
+    <td>Registrar</td>
     <td>Provide information about the software (Google Form) that they currently use for the college room rental registration.</td>
   </tr>
     <tr>
