@@ -270,23 +270,23 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
 The testing methodologies that will be used are black-box testing and white-box testing.
 
 * <b>Black-box testing</b>:
-Also referred to as functional testing or behavioural testing, is a testing technique where the tester is unaware of the internal workings of the system being tested. The tester in this method only has access to the system's inputs and outputs, and they test the system's functionality in accordance with its specifications and requirements. In the case of the KTDI event management system, the end-users such as JKM KTDI, KTDI college office staff, and fellow members will conduct this kind of testing.
+Also referred to as functional testing or "behavioural testing", this is a testing technique where the tester is unaware of the internal workings of the system being tested. The tester in this method only has access to the system's inputs and outputs, and they test the system's functionality in accordance with its specifications and requirements. In the case of the KTDI event management system, end-users such as JKM KTDI, KTDI college office staff, and fellow members will conduct this kind of testing.
 
 * <b>White-box testing </b>:
 Also known as structural testing, is a testing technique where the tester is aware of how the system being tested operates on the inside. This approach involves running tests on the system's internal components, such as code or algorithms, to make sure they work as intended. Developers or testers with access to the source code of the system being tested usually carry out white-box testing. In the KTDI event management system, the team members will perform this type of testing.
 
-* <b>System testing:</b> For KTDI event management system, system testing involves testing the entire system as a whole to ensure that it meets the specified requirements and functions as expected. This can involve testing various aspects of the system, including the user interface, location booking system, paperwork management processes, and other key features. System testing helps to identify any bugs, errors, or issues that may impact the system's functionality, and ensures that the system is reliable and performs well under different scenarios. The team members will carry out system testing for the KTDI event management system.
+* <b>System testing:</b> For the KTDI event management system, system testing involves testing the entire system as a whole to ensure that it meets the specified requirements and functions as expected. This can involve testing various aspects of the system, including the user interface, location booking system, paperwork management processes, and other key features. System testing helps to identify any bugs, errors, or issues that may impact the system's functionality, and ensures that the system is reliable and performs well under different scenarios. The team members will carry out system testing for the KTDI event management system.
 
 * <b>Performance testing:</b> This test focuses on assessing how well the system performs under various loads and stresses. It is beneficial to locate any performance problems or bottlenecks that could be affecting the stability, scalability, and responsiveness of the system. Performance testing for the KTDI event management system will involve creating realistic scenarios to test the system's throughput, response time, and resource usage under various user activity levels. A variety of metrics, including server response time, page load time, and network latency, will be measured during this testing using specialised tools and software. The system's performance will be optimised, any performance problems will be found, and the system's ability to handle the anticipated workload will be confirmed using the performance testing results. The team members are in charge of testing the KTDI event management system's performance.
 
 ### Project Management Practices: 
-* <b>Agile Project Management:</b>  An effective project management strategy for software development projects is called agile. It entails segmenting the project into shorter, easier-to-manage units called sprints. A specific set of tasks are finished during each sprint, which is a brief, concentrated time frame.
+* <b>Agile Project Management:</b>  An effective project management strategy for software development projects is called agile. It entails segmenting the project into shorter, easier-to-manage units called sprints. A specific set of tasks is finished during each sprint, which is a brief, concentrated time frame.
 
 * <b>Scrum:</b> Scrum is an agile project management framework for software development. It includes a number of rituals, roles, and artefacts that aid in making sure the project is completed on schedule, within budget, and in accordance with the necessary quality standards.
 
 * <b>Daily Stand-up Meetings:</b> Daily stand-up meetings are quick, focused gatherings that occur each day. Team members share updates on their progress, discuss any difficulties they are having, and mention any dependencies they may have on other team members during these meetings.
 
-* <b>Sprint Planning:</b> Each sprint starts with a planning session known as”sprint planning”. The team reviews the backlog of work, chooses which tasks to include in the sprint, and determines how long it will take to complete each task during this meeting.
+* <b>Sprint Planning:</b> Each sprint starts with a planning session known as "sprint planning". The team reviews the backlog of work, chooses which tasks to include in the sprint, and determines how long it will take to complete each task during this meeting.
 
 * <b>Sprint Review:</b> The team holds a sprint review meeting at the end of each sprint. The team presents the work that has been completed during the sprint during this meeting, and stakeholders provide feedback.
 
@@ -294,7 +294,7 @@ Also known as structural testing, is a testing technique where the tester is awa
 
 
 ### Quality Assurance Processes: 
-* <b>Testing Activities:</b> A crucial component of quality assurance is testing. By carrying out various testing tasks like black-box testing, white-box testing, and system testing, it will guarantee that the system complies with the quality standards . The purpose of the testing operations is to find any flaws or problems in the system and make sure it satisfies the demands of the stakeholders.
+* <b>Testing Activities:</b> A crucial component of quality assurance is testing. By carrying out various testing tasks like black-box testing, white-box testing, and system testing, it will guarantee that the system complies with the quality standards . The purpose of the testing operations is to find any flaws or problems in the system and make sure it meets the demands of the stakeholders.
 
 * <b>Test Reports:</b> The documentation specialist will also be responsible for creating test reports. These reports will summarise any issues found and include the testing activities' findings. The reports will be used to monitor the testing's progress and make sure the system is upholding the necessary quality standards.
 
@@ -302,7 +302,7 @@ Also known as structural testing, is a testing technique where the tester is awa
 
 * <b>Code Reviews:</b> In addition to unit testing, the main developer and team members will also perform code reviews. Code reviews are a software quality assurance activity in which one or more developers review the code written by another developer. The purpose of code reviews is to identify defects or errors in the code and to ensure that the code is consistent with the project's coding standards and guidelines.
 
-* <b>Continuous Integration:</b> Developers frequently integrate their code into a shared repository as part of the software development practice known as continuous integration. Continuous integration's goal is to guarantee that the code is properly integrated and that any problems or conflicts are quickly found and fixed. Additionally, continuous integration contributes to ensuring that the system operates as intended and complies with the necessary quality standards.
+* <b>Continuous Integration:</b> Developers frequently integrate their code into a shared repository as part of the software development practise known as continuous integration. Continuous integration's goal is to guarantee that the code is properly integrated and that any problems or conflicts are quickly found and fixed. Additionally, continuous integration contributes to ensuring that the system operates as intended and complies with the necessary quality standards.
 
 
 <hr style="border:0.5px solid gray;height:0.5px;">
@@ -311,7 +311,7 @@ Also known as structural testing, is a testing technique where the tester is awa
 The development of the academic course registration system for 50 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at **RM 1,074,000**, as outlined below:
 
 - **Hardware Costs: RM 400,000** <br>
-This includes the cost of servers, storage, networking equipment, and other hardware required to support the system. This cost will vary depending on the specific hardware configuration chosen, but it is essential to ensure that the system can handle the expected number of users and data volume.
+This includes the cost of servers, storage, networking equipment, and other hardware required to support the system. This cost will vary depending on the specific hardware configuration chosen, but it is essential to ensure that the system can handle the expected number of users and data volumes.
 
 - **Software Costs: RM 150,000** <br>
 This includes the cost of licences for any third-party software required, such as operating systems, databases, and development tools. It also includes the cost of any software development needed for the project, such as custom modules or integrations.
@@ -328,7 +328,7 @@ This includes the cost of rent for office space, utilities, marketing and advert
 - **Contingency Plan: RM 100,000** <br>
 It is always recommended to have a contingency plan for unexpected expenses that may arise during the project. This can include budget reserves or adjusting the scope of the project if necessary.
 
-In conclusion, the estimated budget for the development of the UTM Event Management System is RM 1,074,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingency. Any changes in the budget will be communicated to stakeholders and project sponsors.
+In conclusion, the estimated budget for the development of the KTDI Event Management System is RM 1,074,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingencies. Any changes in the budget will be communicated to stakeholders and project sponsors.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
@@ -400,7 +400,6 @@ The block diagram for the proposed system architecture is as follows:
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 8. Risks Assessment:
-
 <table style="border-collapse: collapse;">
       <thead>
         <tr>
@@ -420,7 +419,7 @@ The block diagram for the proposed system architecture is as follows:
         <tr>
           <td>Security risk</td>
           <td>The system might be open to cyberattacks, which could compromise user data and harm the project team's reputation.</td>
-          <td>The team is committed to industry-standard security protocols and best practices. To find and fix any vulnerabilities, regular security audits and penetration tests will also be carried out.</td>
+          <td>The team is committed to industry-standard security protocols and best practises. To find and fix any vulnerabilities, regular security audits and penetration tests will also be carried out.</td>
         </tr>
         <tr>
           <td rowspan="2">Resource Risks</td>
@@ -435,7 +434,7 @@ The block diagram for the proposed system architecture is as follows:
         </tr>
         <tr>
           <td rowspan="2">Requirements Risks</td>
-          <td>Adapting stakeholder needs</td>
+          <td>Adapting to stakeholder needs</td>
           <td>As stakeholders' needs and expectations change, the project requirements may also change, which could lead to scope creep or project delays. </td>
           <td>The team will keep in regular contact with stakeholders to make sure that their requirements and expectations are understood and that any changes to the project's requirements are formally documented and approved.
         </tr>
@@ -450,7 +449,7 @@ The block diagram for the proposed system architecture is as follows:
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 9. Resources:
-To successfully deliver the academic course registration system, the following resources are required:
+To successfully deliver the KTDI event management system, the following resources are required:
 
 **Staff**
 - 1 Project Manager: RM 84,000/project
@@ -498,7 +497,7 @@ The table below shows the technical specifications of the KTDI Event Management 
     <td>
       <ul>
         <li>Event data which includes information about the event itself, such as the date, time, location.</li>
-<li> Personal data which includes the required login information such as name and password.
+<li> Personal data which includes the required login information such as email and password.
       </ul>
     </td>
   </tr>
