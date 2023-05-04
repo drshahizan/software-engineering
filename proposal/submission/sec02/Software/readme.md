@@ -171,11 +171,14 @@ To ensure data security and privacy, we will use encryption technologies such as
 We will use various tools and frameworks such as Tableau and Google Data Studio to build a customized dashboard and effective reports. We will also use SQL (Structured Query Language) to manage, manipulate and analyze data that are stored in the database.  
 
 #### System Architecture Diagram:
-The proposed system architecture can be visualized using the following flowchart:
+The proposed system architecture can be visualized using the following flowchart:  
+
 ![Flowchart](https://user-images.githubusercontent.com/128119778/236127324-78a61aa5-5822-4ed6-a82c-90c49cdb005e.png)  
 
-Diagram that represents our proposed system architecture :
-![SystemAchitecture](https://user-images.githubusercontent.com/128119778/236127454-fe83bb22-b780-4141-b2b8-93c185a6b811.png)
+Diagram that represents our proposed system architecture :  
+
+![SystemAchitecture](https://user-images.githubusercontent.com/128119778/236127454-fe83bb22-b780-4141-b2b8-93c185a6b811.png)  
+
 In summary, the proposed system architecture for Student Health and Wellness Management System will be a four-tier architecture consisting of the presentation tier, application tier, data tier and also security tier. It will utilize modern web and mobile technologies, a relational database management system, encryption technologies, and authentication and authorization mechanisms to ensure data security and privacy. To guarantee data security and privacy, it will make use of modern online technologies, a relational database management system, encryption technologies, and authentication and authorisation procedures. Multiple tools and frameworks will be used collaboratively for data visualisation and analysis. 
 
 ### 8. Risks Assessment:
