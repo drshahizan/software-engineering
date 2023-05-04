@@ -142,7 +142,7 @@ The scope refers to the boundaries of the project and outlines the features and 
 
 - Agile methodology: <br>Agile methodology is used for the software process model in the system development due to its flexibility in updating the stakeholders' requirements and sastification. Modification will be done several times until the best system is developed. 
   
-- The system will be limited to Kolej Tun Dr Ismail (KTDI) only and the decision phase of the final result on room application will be done by the AIMS system of UTM.
+- The system will be limited to Kolej Tun Dr Ismail (KTDI) only and the decision phase of the final result on room application will be done by the AIMS system of UTM. Also, the data privacy and security of the users maybe a concern as our proposed system will not cover it.
 
 ---
 
@@ -389,7 +389,12 @@ IV. Other Expenses:<br>
   <tbody>
     <tr>
       <td rowspan="2">1st Month</td>
-      <td>Establishment of collaboration with the stakeholders and IT department(1 week)</td>
+      <td>Define scope, stakeholders and project plan(1 week)</td>
+      <td>Project proposal and ghant chart</td>
+      <td>Project manager, developer team</td>
+    </tr>
+    <tr>
+      <td>Establishment of collaboration with the stakeholders(1 week)</td>
       <td>Having online interviewing session and face-to-face interviewing session with stakeholders: KTDI staff, resident and the other stakeholders.</td>
       <td>Project manager, developer team, stakeholder</td>
     </tr>
