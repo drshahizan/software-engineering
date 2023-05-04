@@ -271,7 +271,6 @@ In conclusion, the development of a Parcel Delivery Management System (PDMS) web
 
 The proposed timeline and deliverables include project planning and requirements gathering, system design and architecture, website development, testing and quality assurance, delivery personnel dashboard development, deployment and integration, and training, documentation, and finalization. The overall deliverable is a completed PDMS with a working website for users, a delivery personnel dashboard, and training and support materials.
 
-It is important to keep in mind that the timeline and deliverables may vary depending on the specific requirements and resources of the project. Effective communication with stakeholders and flexibility in the development process can help ensure the successful implementation of the PDMS website.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
