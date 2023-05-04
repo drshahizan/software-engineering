@@ -111,13 +111,13 @@ Agile methodology is a flexible and iterative approach to project management tha
 
 #### Project Development Phases
 
-##### Planning Phase
+##### Planning Phase:
 During the planning phase, the project manager, Tan Jun Yuan, will define the project goal and scope, identify the project's purpose, target audience, and desired outcome. Within two weeks, Tan Jun Yuan will produce a paper outlining the essential specifications for our system. At the same time, the requirement analyst, Goh Jing Yang, will gather requirements and choose user stories. The deliverables for this phase will be the requirements document and user stories. This phase will last for four weeks.
 
-##### Design Phase
+##### Design Phase:
 During the design phase, the UI/UX system designer, Goh Jing Yang, will work on the project's architecture while designing a mockup of the user interface. The stakeholders will be involved in this step to ensure that all the requirements are considered. Routine checks will be conducted to ensure that the design process has taken into account all of the requirements. This phase will prioritize the identification of the project's functionality and the creation of a diagram that outlines all the requirements. The duration for this phase will be around four weeks.
 
-##### Develop, Testing, Deploy and Review Phase
+##### Develop, Testing, Deploy and Review Phase:
 The Develop, Testing, Deploy and Review phase is a critical phase in the software development process. During this phase, the development team creates and implements the system, while continuously testing and ensuring that the end system meets all the requirements and functions effectively. This phase is vital to the success of the project, as it ensures that the system meets the needs of the users and stakeholders.
 
 The development team, led by the main developer, Loo Jia Chang, and assisted by Chen Pyng Haw, works closely with the project manager to prioritize iterations and functionalities. They will work in sprints lasting one to two weeks, during which they will focus on a specific set of user stories or functionality. Each sprint will end with a review where the team will demonstrate their progress to stakeholders and receive feedback.
@@ -132,7 +132,7 @@ The Develop, Testing, Deploy and Review phase typically lasts around 10 weeks. H
 
 In summary, the Develop, Testing, Deploy and Review phase is a crucial stage in the software development process. The development team creates and implements the system, while continuously testing and ensuring that the end product meets all the requirements and functions effectively. Regular working software releases, quality assurance, and deployment to the appropriate environment are key components of this phase. By following these processes, the development team can ensure that the system meets the user's needs and expectations.
 
-##### Launch Phase
+##### Launch Phase:
 During the launch phase, the quality assurance team will conduct tests to ensure the software's functionality prior to the product's release. The QA team will test the program to ensure that the code is clear. If there are any possible issues or defects, the development team will take swift action to fix them. The duration for this phase will be two weeks. Once all work is done, the system will be launched.
 
 | Phase | Tasks | Duration |
