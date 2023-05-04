@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 #  Proposal
 
-## Parcel Delivery Management System(PDMS) in UTM 
+## Parcel Delivery Management System (PDMS) in UTM 
 
 ### One Stop Parcel (OPC) 
 
