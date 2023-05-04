@@ -326,6 +326,33 @@ Total Cost: RM 10,000
 | **Project Demonstration**          | Present and explain how the system works                  | Week 15           |
 | **System Maintenance**             | Monitor performance of the website and update it regularly  | 6 months after Week 15|
 
+### Quality assurance and testing procedures
+<table>
+  <tr>
+    <th align= "left" >Test Planning</th>
+    <td>Composes <b>test plan</b> which outlines 
+<ul>
+        <li>Testing objectives</li>
+        <li>Testing scope</li>
+        <li>Testing deliverables</li>
+        <li>Testing risks</li>
+        <li>Testing schedule</li>
+ </ul>
+ </td>
+  </tr>
+  <tr>
+  <th align= "left">Test Design</th>
+  <td> <ul><li>Constructs different test cases</li>
+  <li>Prepares test data</li>
+  <li>Sets up hardware, software and network configurations according to test environment configuration guidelines</td>
+  </tr>
+  <tr>
+  <th align= "left">Test Execution and Reporting</th>
+  <td> <ul><li>Executes different test cases</li>
+  <li>Generates bug reports</li>
+  <li>Completes System Testing Document</li></td>
+  </tr>
+</table>
 
 
 ### 12. Conclusion:
