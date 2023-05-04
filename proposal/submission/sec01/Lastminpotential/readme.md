@@ -12,7 +12,7 @@ Don't forget to hit the :star: if you like this repo.
 ## Faculty of Computing Feedback System
 
 
-### Prepared by: <Group name>
+### Prepared by: Lastminpotential
   1. Goh Jing Yang A22EC0052
   2. Loo Jia Chang A22EC0074
   3. TAN JUN YUAN A22EC0107
@@ -132,7 +132,64 @@ The Faculty of Computing Feedback System will provide measurable benefits to all
 </ul>
 
 ### 7. System Architecture:
-  
+Proposed System Architecture
+
+The feedback system will consist of three main components: a web-based interface for data collection, a backend server for data storage and management, and a database management system for data retrieval and analysis.
+
+Development Tools
+
+The system will be developed using the following tools:
+- Visual Studio Code
+- Bootstrap Studio
+- Figma
+
+The backend will be developed using:
+- Apache web server
+- MySQL database management system
+- Php programming language
+
+Data Storage and Management
+
+Feedback data collected from students will be stored in the MySQL database management system. The system will also have user authentication to ensure that only authorized users can access and modify data. The data will be stored securely and backed up regularly to prevent data loss.
+
+Hardware and Software Requirements
+
+To support the system, we will need a web server with sufficient processing power and memory to handle incoming requests and manage the database. We will also need a stable internet connection to ensure the system is accessible to all users.
+
+Tools and Frameworks for Data Visualization and Analysis
+
+We will use data visualization and analysis tools to help identify trends and patterns in feedback data. Some of the tools and frameworks that we will use include:
+- Google Data Studio
+
+System Architecture Flowchart
+```
+                                +-----------------+
+                                |Web-based         |
+                                |Interface        |
+                                |(HTML/CSS/JS)    |
+                                +-----------------+
+                                         |
+                                         |
+                                         |
+                                         |
+                                         v
+                                +-----------------+
+                                |Backend Server   |
+                                |(Python/Java/RoR)|
+                                +-----------------+
+                                         |
+                                         |
+                                         |
+                                         |
+                                         v
+                                +-----------------+
+                                |Database         |
+                                |Management       |
+                                |System (MySQL)   |
+                                +-----------------+
+```
+
+
 
 <!--
 - Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
