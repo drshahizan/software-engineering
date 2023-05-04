@@ -111,7 +111,7 @@ The post-event report feature enables the JKM KTDI committee to easily access th
 The notes section is a valuable feature that enables members to provide feedback and suggestions to improve their events. Members can use this feature to address any issues or concerns that arise during the event planning process, ensuring that their events are successful and meet the needs of their target audience. The notes section will also serve as a platform for members to communicate with each other, enabling them to collaborate more effectively and achieve their goals.
 
 
-### KTDI office staff and fellow members 
+### KTDI Office Staff and Fellow Members 
 * <b>Approval</b><br>
 The approval feature allows JKM KTDI members to streamline the approval process for event proposals and facility rentals. KTDI office staff can use the system to approve the need to rent facilities and venues for event purposes and sign the necessary documents digitally. Fellow members can also sign the documents digitally for event proposals, making it easier to get the necessary approvals in a timely manner.
 
