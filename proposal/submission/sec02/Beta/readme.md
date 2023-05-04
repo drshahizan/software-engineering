@@ -275,7 +275,7 @@ Total Estimated Cost: RM 1,900,000
 ### Milestones and Deliverables:
 
 - Feasibility study report
-- Project proposal
+- Project proposal document
 - Project team assembled with assigned roles
 - Project plan
 
@@ -287,20 +287,22 @@ Total Estimated Cost: RM 1,900,000
 
 ### Phase 2: Design and Prototyping (Week 3-6)
 
+- Write the software requirements specification (SRS)
 - Define user requirements and functional specifications
 - Create wireframes, mockups, or prototypes of the user interface design
--Define the database schema and architecture
+- Define the database schema and architecture
 - Identify the technical specifications and choose the appropriate technologies and frameworks
 - Conduct user testing and gather feedback to refine the design
   
 ### Milestones and Deliverables:
 
+- SRS document
 - User requirements and functional specifications document
 - User interface design prototypes or mockups
 - Database schema and architecture document
 - Technical specifications and framework choices document
 
-###Resources Required:
+### Resources Required:
 
 - Wireframing and prototyping tools
 - Collaboration tools for remote communication
@@ -309,6 +311,7 @@ Total Estimated Cost: RM 1,900,000
 
 ### Phase 3: Development and Testing (Week 7-11)
 
+- Write software design document (SDD)
 - Implement frontend and backend functionalities based on the design and technical specifications
 - Develop the payment gateway and order management system
 - Test the system to ensure its functionality, security, and performance
@@ -316,12 +319,13 @@ Total Estimated Cost: RM 1,900,000
 
 ### Milestones and Deliverables:
 
+- SDD document
 - Fully functional food ordering system
 - Payment gateway integration
 - Order management system
 - Test cases and bug reports
 
-###Resources Required:
+### Resources Required:
 
 - Web development frameworks and tools
 - Payment gateway integration software
@@ -330,19 +334,19 @@ Total Estimated Cost: RM 1,900,000
 
 ### Phase 4: Documentation and Deployment (Week 12-14)
 
-- Write the software requirements specification (SRS), software design document (SDD), and software testing document (STD)
+- Write the software testing document (STD)
 - Deploy the system on a web server or cloud platform
 - Provide user training and support
 - Establish a maintenance plan and bug fixing
 
 ### Milestones and Deliverables:
 
-- SRS, SDD, and STD documents
+- STD document
 - Deployed food ordering system
 - User manuals and maintenance plan
 - Support documentation
 
-###Resources Required:
+### Resources Required:
 
 - Documentation templates
 - Web hosting or cloud platform
