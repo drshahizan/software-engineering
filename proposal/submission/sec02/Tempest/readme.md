@@ -280,11 +280,11 @@ Technical specification is important in this proposed system as the company shou
 
 | Phase      | Milestone           | Deliverables  | Resources required |
 | :-------------: |:-------------:| :-----:|:-----: |
-|I: Project Planning and Requirements Gathering|Project plan and system design completed |Project plan, system architecture diagram and user requirements report|Project manager, Software developers, UI/UX designers|
-|II: System design and Development | Design system architecture and user interface | Login/registration system, dashboard, feedback forms, and data management system| Software developers, database administrators|
-|III: Testing and Quality Assurance|Perform system integration testing,acceptance testing, unit testing and debugging |Quality assurance (QA) report,unit testing report,system integration and acceptance testing report and bug fixes| Quality assurance team, software developers|
-|IV: User Acceptance Testing and Deployment|Perform user acceptance testing and deploy system|User acceptance testing (UAT) report, system deployment, and user manual|Quality assurance team, software developers, project manager|
-|V: Project Closure and Handover| Project closed and system handed over to the company| Final project report, source code, and system documentation|Project manager, software developers, documentation team|
+|I: Project Planning and Requirements Gathering(Week 1-2)|Project plan and system design completed |Project plan, system architecture diagram and user requirements report|Project manager, Software developers, UI/UX designers|
+|II: System design and Development (Week 3-7) | Design system architecture and user interface | Login/registration system, dashboard, feedback forms, and data management system| Software developers, database administrators|
+|III: Testing and Quality Assurance(Week 8-10)|Perform system integration testing,acceptance testing, unit testing and debugging |Quality assurance (QA) report,unit testing report,system integration and acceptance testing report and bug fixes| Quality assurance team, software developers|
+|IV: User Acceptance Testing and Deployment(Week 11-13)|Perform user acceptance testing and deploy system|User acceptance testing (UAT) report, system deployment, and user manual|Quality assurance team, software developers, project manager|
+|V: Project Closure and Handover(Week 14)| Project closed and system handed over to the company| Final project report, source code, and system documentation|Project manager, software developers, documentation team|
 
 ## 12. Conclusion:
 The Badal Hajj system aids the company in the registration process of the clients and reduce the duration taken for the registration process where most of the process is done through the system that provides better management of bulk data. The system will also help the company to reduce the error throughout the registartion process as the system apllies auto data-handling principle. The proposal of Badal Hajj system is constructed based on thorough analysis and reasonable budget planning which helps to create a successful system that provides many benefits to both party which are the company and the clients.
