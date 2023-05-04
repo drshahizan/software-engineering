@@ -11,11 +11,26 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ### Prepared by: Group Curiousity
-  1. Camily Tang Jia Lei A22EC0039 
-  <img src="cam.jpg" alt="camily" height="50px">
-  2. Koh Li Hui A22EC0059
-  3. Low Ying Xi A22EC0187
-  4. Ng Shu Yu A22EC0228
+<table>
+<tr>
+  <th>No.</th>
+  <th>Member</th>
+  <th>Matric No.</th>
+  <th>Photo</th>
+</tr>
+<tr>
+  <td>1.</td> <td> Low Ying Xi </td> <td> A22EC0187 </td> <td><img src="lyx.jpg" width=150px, height=200px> </td>
+  </tr>
+<tr>
+  <td>2.</td> <td> Koh Li Hui </td> <td> A22EC0059 </td> <td><img src="klh.jpg" width=150px, height=200px> </td>
+  </tr>
+<tr>
+  <td>3.</td> <td> Camily Tang Jia Lei </td> <td> A22EC0039 </td> <td><img src="cam.jpg" width=150,height=300> </td> 
+  </tr>
+<tr>
+  <td>4.</td> <td> Ng Shu Yu </td> <td> A22EC0228 </td> <td><img src="nsy.JPG" width=150px, height=170px> </td>
+  </tr>
+</table>
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
