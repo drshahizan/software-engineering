@@ -77,6 +77,11 @@ For this system, it will include the features below:
 In final analysis, the proposed Student Health and Wellness System is a broad, but controlled program requiring strict adherence to applicable laws, regulations, and policies. Moreover, intricate and diverse processing must be applied to guarantee maximum efficiency. This necessitates a delicate balance between elaborate, detailed sentences and much simpler, straightforward ones. Ultimately, this strenuous undertaking assures the creation of an effective Student Health and Wellness System.
 
 ### 5. Software Process Model:
+<div align="justify">
+    <img src="![image](https://user-images.githubusercontent.com/128198038/236095306-72a17d1d-4c65-4d54-83e9-7543c241b549.png)
+" alt="alt text" />
+</div>
+
 #### Gathering Requirements:
 - Find and identify the best stakeholders. For examples, administrative personnel, medical professionals, and students.
 - Determine which features are necessary and which may be added later by analysing and prioritising the requirements.
