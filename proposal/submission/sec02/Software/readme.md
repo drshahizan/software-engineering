@@ -107,8 +107,6 @@ Agile methodology is most suitable for this project because it guarantees short 
 - Receive feedback from stakeholders by presenting the developed features.
 - Review the sprint objectives and goal achieved.
 - Identify the problems of the website that need to be improved or developed further.
-
-#### Sprint Retrospective:
 - Review the sprint process with the development team for improvement.
 - Change the development process as needed to increase effectiveness and efficiency.
 - Discuss achievements, difficulties, and ways for improvement.
@@ -117,8 +115,6 @@ Agile methodology is most suitable for this project because it guarantees short 
 - Launch the website in a live environment.
 - Users should receive training for user manual for better utilisation of the website.
 - Track the performance of the website, solve existed problems. Receive feedback from users and update the website as needed.
-
-#### Continual Development
 - Analysing user activities for user patterns and improvements needed.
 - Apply the agile methodology to iterate on new website features and enhancements.
 
