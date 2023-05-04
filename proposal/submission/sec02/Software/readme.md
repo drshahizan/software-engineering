@@ -273,6 +273,26 @@ In conclusion, the total estimated cost is ***RM 570,000/year***.
 
 ### 10. Technical Specifications:
 <table>
+<tr>
+    <th align= "left">Data Sources</th>
+    <td>Students' demographic information and health records</td>
+  </tr>
+    <tr>
+    <th align= "left">Data Schema</th>
+    <td>Tableau, Google Data Studio</td>
+  </tr>
+      <tr>
+    <th align= "left">Data Transformations</th>
+    <td>Data Calculation : Body Mass Index (BMI) will be calculated from user's data</td>
+  </tr>
+        <tr>
+    <th align= "left">Machine Learning Algorithms</th>
+    <td>Decision-Tree</td>
+  </tr>
+  <tr>
+    <th align= "left">Data Visualization tools</th>
+    <td>Tableau, Google Data Studio</td>
+  </tr>
   <tr>
     <th align= "left">Hosting Platform</th>
     <td>Google Cloud </td>
