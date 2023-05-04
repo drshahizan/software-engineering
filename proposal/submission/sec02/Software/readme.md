@@ -26,11 +26,7 @@
 - [Conclusion](#12-conclusion)
   
 ### 1. Executive Summary
-The Student Health and Wellness System is an esteemed software engineering course project with the cooperation of Pusat Kesihatan University (PKU). Aimed at assisting students in their university lives, this website will offer a plethora of resources and tools to assist students in taking care of their physical, mental, and emotional health. However, for this Student Health and Wellness System project, it seems that this is the first implementation of this system, and it will only include student Kolej Tun Dr. Ismail (KTDI) as our sample user that is included in this system.
-
-This web-based system aims to provide an easy-to-use experience with the latest software engineering techniques employed to deliver an intuitive interface. Accessibility is key, and with the website being compatible across desktop computers, laptops, tablets, and smartphones, no matter the device, all students can enjoy utilising the site. Understanding user needs, the platform has been developed with a user-friendly design, ensuring students can quickly and easily navigate and access information. Furthermore, articles, videos, and podcasts varying in topics from nutrition to mental health will be featured and developed in collaboration with PKU, assuring the accuracy, timeliness, and appropriateness of the content. These resources offer university students the knowledge to maintain a healthy and wholesome lifestyle.
-
-In a nutshell, the revolutionary Student Health and Wellness website is an active platform with immense potential to significantly improve university student lives. Through the provision of accurate sources and data, as well as the offering of resources and services to aid them in maintaining their physical and mental health, this website will assist students in achieving all they can while leading a content and healthy existence. With the help of interrogating perplexity and burstiness, the effects of this initiative could be revolutionary.
+The Student Health and Wellness System is an esteemed software engineering course project with the cooperation of Pusat Kesihatan University (PKU). Aimed at assisting students in their university lives, this website will offer a plethora of resources and tools to assist students in taking care of their physical, mental, and emotional health. However, for this Student Health and Wellness System project, it seems that this is the first implementation of this system, and it will only include student Kolej Tun Dr. Ismail (KTDI) as our sample user that is included in this system. Key features of this web-based system include personal health information, mental health testing, patient queue status and wait time, emergency calls, health tips, and announcements. The revolutionary student health and wellness website is an active platform with immense potential to significantly improve the lives of university students. By providing accurate sources and data, as well as offering resources and services to help them maintain their physical and mental health, this website will help students achieve all they can while living a happy and healthy life.
 
 ### 2. Background:
 Seeking medical attention as a university student can be overwhelming, given the complex and cumbersome process. Unfortunately, some students have to travel long distances just to reach Pusat Kesihatan University for medical services. This results in prolonged wait times and ineffective utilisation of time. Fortunately, the Student Health and Wellness Project is designed to simplify this ordeal and enable quick access to medical care for students in need.
@@ -42,19 +38,19 @@ The Student Health and Wellness System will not only offer invaluable health-rel
 ### 3. Objectives:
 - To improve the overall wellbeing of university students by using an innovative strategy to provide direct access to medical resources, introduce personalised health tracking tools, and offer reliable health tips and advice.
 
-(Example: The proposed system will reduce the PKU processing time by 25%, resulting in a 25% reduction in administrative workload.)
+> Example: The proposed system will reduce the PKU processing time by 25%, resulting in a 25% reduction in administrative workload.
 
 - To provide students with a platform to communicate and interact with medical professionals at the PKU facility, gain medical advice, and schedule appointments for medical services.
 
-(Example: Revolutionising healthcare delivery is the intended outcome of the proposed system, resulting in a 30% increase in online consultations and a 15% decrease in workload. The goal of the changes is to attract fewer walk-in patients, lowering their percentage by 30%. This innovative approach utilises complex wording and sentence construction to streamline medical services.)
+> Example: Revolutionising healthcare delivery is the intended outcome of the proposed system, resulting in a 30% increase in online consultations and a 15% decrease in workload. The goal of the changes is to attract fewer walk-in patients, lowering their percentage by 30%. This innovative approach utilises complex wording and sentence construction to streamline medical services.
 
 - To provide a swift and easy way to get an immediate avenue for help in times of crisis to students by calling PKU for emergency assistance.
 
-(Example: At a 30% improvement rate, the PKU emergency assistance system will become much more efficient due to the proposed emergency button. Overall, the university's emergency health issues will also see a 30% reduction.)
+> Example: At a 30% improvement rate, the PKU emergency assistance system will become much more efficient due to the proposed emergency button. Overall, the university's emergency health issues will also see a 30% reduction.
 
 - To enable PKU to better understand the health needs of the student population and provide targeted interventions through the collection and analysis of data inside the system.
 
-(Example: This will increase the efficiency of diagnosing health needs and infections among students by 20% and increase the healthcare service to students by 25%.)
+> Example: This will increase the efficiency of diagnosing health needs and infections among students by 20% and increase the healthcare service to students by 25%.
 
 ### 4. Scope: 
 The project proposal focuses exclusively on developing a software application to manage student health and wellness. Our primary objective is to design, implement, and maintain this system while avoiding hardware or infrastructure upgrades, as well as changes in existing policies or procedures.
@@ -76,6 +72,16 @@ For this system, it will include the features below:
 In final analysis, the proposed Student Health and Wellness System is a broad, but controlled program requiring strict adherence to applicable laws, regulations, and policies. Moreover, intricate and diverse processing must be applied to guarantee maximum efficiency. This necessitates a delicate balance between elaborate, detailed sentences and much simpler, straightforward ones. Ultimately, this strenuous undertaking assures the creation of an effective Student Health and Wellness System.
 
 ### 5. Software Process Model:
+#### Goal of Software Model Process
+The purposes of having goal of sofware process model is to provides high-quality, dependable, and maintainable software. Software process model aims to define the outlines of the procedures, actions, and activities needed to create websites , from gathering requirements to testing, releasing, and maintaining the website.
+<br>
+The Agile methodology is the optimal software process model for the proposed academic course registration system. This methodology focuses on providing a minimum viable product (MVP) during sprint development cycles and is characterised by iterative and incremental development. Feedback and interaction between the development team and stakeholders followed by the Software Process Model , allowing the team to quickly adjust to shifting priorities and requirements.
+<br>
+Agile methodology is most suitable for this project because it guarantees short time communication of a functional registration system while providing chances and interaction to stakeholder feedback. Additionally, framework is provided for analysing project risks for control and guaranteeing that outstanding performance and quality for whole development process.
+
+
+
+
 <div align="justify">
     <img src="https://user-images.githubusercontent.com/128198038/236096082-51d056d1-9632-4b82-92b3-56aaa06f1566.png" alt="alt text" />
 </div>
@@ -101,8 +107,6 @@ In final analysis, the proposed Student Health and Wellness System is a broad, b
 - Receive feedback from stakeholders by presenting the developed features.
 - Review the sprint objectives and goal achieved.
 - Identify the problems of the website that need to be improved or developed further.
-
-#### Sprint Retrospective:
 - Review the sprint process with the development team for improvement.
 - Change the development process as needed to increase effectiveness and efficiency.
 - Discuss achievements, difficulties, and ways for improvement.
@@ -111,13 +115,11 @@ In final analysis, the proposed Student Health and Wellness System is a broad, b
 - Launch the website in a live environment.
 - Users should receive training for user manual for better utilisation of the website.
 - Track the performance of the website, solve existed problems. Receive feedback from users and update the website as needed.
-
-#### Continual Development
 - Analysing user activities for user patterns and improvements needed.
 - Apply the agile methodology to iterate on new website features and enhancements.
 
 ### 6. Budget:
-For the student health and wellness management website which involves around 2000 users, the estimated budget is **RM 550,000**. The budget includes the costs for 6 months of development and 6 months of maintenance for the website.
+For the student health and wellness management website which involves around 2000 users in Kolej Tun Dr. Ismail (KTDI), the estimated budget is **RM 550,000**. The budget includes the costs for 6 months of development and 6 months of maintenance for the website.
 - Hardware: **RM 35,000**\
 This could include purchasing or renting servers, storage devices, networking equipment, computers and other hardware necessary for the development and maintenance of the website. The cost might differ depending on the latest requirements of the website and the hardware components chosen.
 
@@ -166,27 +168,16 @@ In conclusion, the estimated budget is **RM 550,000** which covers the costs for
 
 
 ### 8. Risks Assessment:
-In general, every project can be influenced by a risk so they required a special assessment procedure of the potential risks that could lead to the project's failure or loss if they occur. To develop a student health and wellness management system, the possible risks are: 
-1. Data breaches: The website may contain sensitive information, such as student health records, which could be targeted by hackers. This could result in the theft of personal information and medical histories, leading to identity theft and other forms of fraud.
+In general, every project can be influenced by risk so they required a special assessment procedure of the potential risks that could lead to the project's failure or loss if they occur. To develop a student health and wellness management website, the possible risks are: 
+| Potential Risks                     | Explanations                                        | Mitigations         |
+| ------------------------------ | -------------------------------------------- | ----------------- |
+| **Security risks**              | The website may contain sensitive information such as student health information like lab test results which could be targeted by hackers. This could result in the theft of personal medical information, leading to identity theft and other forms of fraud.   | <ul><li>Implementing robust security measures such as SSL certificates, two-factor authentication, encryption and frequent website security updates. </li> <li>Constantly evaluating the website's security to find any weaknesses.</li></ul> |
+| **Technical risks**         | The website may experience technical issues such as system failures, compatibility issues and downtime. | <ul><li>Utilizing tools and technologies that are industry standard, carrying out extensive testing and quality assurance throughout the development process. </li> <li>Making sure that the website is scalable and can manage possible increases in user numbers and data volume.</li></ul>    |
+| **User experience risks** | The website may not meet the expectations of users, leading to dissatisfaction and low adoption rates.           | <ul><li>Gathering user feedback and conducting research with usability testing throughout the development phase to reduce experience risks and create an accessible portal for all users. </li> <li> Installing feedback channels and periodically requesting user input can allow for bugs and usability issues to be identified and addressed before the website is complete.</li></ul> |
+| **Compliance risks**   | The website may not comply with regulatory requirements, such as data protection laws or healthcare regulations like PDPA, leading to penalties, fines, and legal action.         |<ul><li> Regularly evaluating and monitoring the website to guarantee that it adheres to all applicable laws and regulations. </li> <li>Staying up to date on any modifications to laws and industry standards is vital and it should be implemented while maintaining full compliance.</li></ul>|
+| **Budget and timeline risks**           | During the development and maintenance of the website, the allocated budget or timeline might exceed due to any potential challenges.   | <ul><li>Establishing a reasonable timeline and budget to complete the website. </li> <li>Regular assessing the project to review its progress and uncover potential strategies that can help to reduce costs and hasten the development process. </li></ul>|
 
-2. Denial of service(DoS) attacks: A malicious user or group may attempt to overload the website with traffic, causing it to crash or become inaccessible. This could disrupt the availability of critical health services and information.
-
-3. Malware infections: The website may be infected with malware, which could spread to users' computers and compromise their security. This could result in the theft of personal information or control of the user's device.
-
-4. Insecure coding practices: If the website is not developed using secure coding practices, vulnerabilities could be introduced into the code that could be exploited by attackers.
-
-5. Insider threats: Employees or contractors with access to the website's systems may intentionally or accidentally cause security breaches or data leaks.
-
-To mitigate these risks, a few steps can be taken: 
-1. Implement Robust Security Measures: This include the use of SSL certificates, two-factor authentication, encryption and frequent website security updates. It is crucial to constantly evaluate the website's security to find any weaknesses.
-
-2. Deploy Web Application Firewall (WAF): A WAF can assist in removing harmful traffic from a network before it reaches a server. It can identify and prevent requests intended to launch denial-of-service (DoS) attacks, such as SYN and ICMP floods.
-
-3. Update software and plugin: It is crucial to keep software and plugins used by the website up-to-date, including the operating system, web server software, content management system and any third-party plugins because malware can take advantage of weaknesses created by outdated software. 
-
-4. Follow secure coding guidelines: To make sure that the website is designed with secure coding practises in mind, follow known secure coding guidelines such as the OWASP Top Ten or CERT Secure Coding Standards. These guidelines should cover aspects like input validation, authentication, access control, and data encryption.
-
-5. Implement strict access controls: It is important to set up strict access restrictions and allow only those people who truly require access to sensitive information to perform their jobs. Access control lists, role-based access controls, and user authentication can help with this.
+In conclusion, the potential risks that might face during the development and maintenance of student health and wellness website are security risks, technical risks, user experience risks, compliance risks and budget and timeline risks. To ensure the creation of a successful student health and wellness website, a complete risk assessment should be carried out in order to identify, evaluate and address any potential concerns.
 
 ### 9. Resources:
 - **Staff Resources** : 
@@ -278,18 +269,19 @@ To mitigate these risks, a few steps can be taken:
 </table>
 
 ### 11. Timeline and Deliverables: 
-<img src="https://user-images.githubusercontent.com/128159572/235585376-b25f2b58-b38e-43a6-be29-42e555828e48.jpeg">
+<img src="https://user-images.githubusercontent.com/128159572/236125262-7699f4cb-7898-4877-8a3e-656ecfff8fbc.jpeg">
 
-| Milestones                     | Tasks                                        | Timeframe         |
+| Milestones                     | Deliverables                                 | Timeframe         |
 | ------------------------------ | -------------------------------------------- | ----------------- |
-| **Project planning**               | Define scope and objectives of the project   | Week 4 to Week 6  |
+| **Project planning**               | Create project proposal                  | Week 4 to Week 6  |
 | **Requirements Gathering**         | Identify stakeholders and conduct interviews | Week 6 to Week 7  |
-| **Preparing Requirement Document** | Analyse stakeholder's requirements           | Week 7 to Week 9  |
-| **System Development**             | Design the system and starts coding          | Week 9 to Week 12 |
-| **System Testing and Debugging**   | Run the system test and fix the bugs         | Week 13 to Week 15|
-| **System Documentation**           | Prepare a detailed report of the system design  | Week 10 to Week 14|
+| **Requirements Analysis**          | Prepare System Requirements Specification    | Week 7 to Week 9  |
+| **System Development**             | Prepare System Design Document               | Week 9 to Week 12 |
+| **System Testing and Debugging**   | Prepare System Testing Document              | Week 13 to Week 15|
+| **System Documentation**           | Complete the full report of system  | Week 10 to Week 14|
 | **Project Demonstration**          | Present and explain how the system works                  | Week 15           |
-| **System Maintenance**             | Monitor performance of the website and update it regularly                                            | 6 months after Week 15|
+| **System Maintenance**             | Monitor performance of the website and update it regularly  | 6 months after Week 15|
+
 
 
 ### 12. Conclusion:

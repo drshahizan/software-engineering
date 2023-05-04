@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 #  Proposal
 
-## FOOD ORDERING SYSTEM IN UTM
+## FOOD ORDERING SYSTEM AT ARKED ANGKASA (UTM)
 
 
 ### Prepared by: <stakeholder>
@@ -18,6 +18,9 @@ Don't forget to hit the :star: if you like this repo.
   3. MUHAMMAD IMAN FIRDAUS BIN BAHARUDDIN (A22EC0216 )
   4. MUHAMMAD SAFWAN BIN MOHD AZMI (A22EC0221)
   5. CHE MARHUMI BIN CHE AB RAHIM (A22EC0147)
+  
+<img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/proposal/submission/sec02/Beta/photo1683105260png.png" alt="Alt text" width="500" height="350">
+
 
 ### Table of Contents
 - [Executive Summary](#1-executive-summary)
@@ -95,6 +98,7 @@ In summary, this food ordering system can streamline the entire food ordering pr
   
 
 ## 5. Software Process Model:
+  <img src="https://eastcode-storage.s3.eu-central-1.amazonaws.com/b2dfa9149d2815bf4d71ad451ba48dcf-1f418d9951f74b57ba000d495a772f9f-methodology-agile.png" alt="Alt text" width="500" height="300">
 
 A planned and methodical approach to software development that provides high-quality, dependable, and maintainable software is what the software process model aims to achieve. It outlines the procedures, actions, and activities needed to create software, from gathering requirements to testing, releasing, and maintaining it.
 
@@ -146,9 +150,8 @@ It's essential to note that these are just estimates, and the actual cost may va
 
 ## 7. System Architecture:
 Case Diagram of Food Ordering System at UTM:
-
-![image](https://user-images.githubusercontent.com/129138344/235473667-dc36d5a2-8026-4b8d-80ff-711d471ef2b3.png)
-
+  
+<img src="https://user-images.githubusercontent.com/129138344/235473667-dc36d5a2-8026-4b8d-80ff-711d471ef2b3.png" alt="Alt text" width="400" height="500">
 The Customer actor can perform the following use cases:
 
 - **Register/Login:** This use case allows the Customer to register or login to their account.
@@ -181,7 +184,7 @@ This component represents the database that the system uses to store and retriev
 ### Third-party integrations: 
 This component represents any third-party services or tools that the system uses, such as payment gateways, email services, or contact services. The system can integrate with these services to provide additional functionality and enhance the user experience.
 
-## 8. Risks Assessment:
+## 8. Risk Assessment
 
 The development of an food ordering system carries certain risks that must be identified and mitigated. The following are the potential risks that could affect the project:
 
@@ -246,7 +249,7 @@ Total Estimated Cost: RM 1,900,000
 
 > Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
 
-## 10. Technical Specifications:
+## 10. Technical Specification
  - Platform: The system should be web-based and accessible from any device with an internet connection, such as desktops, laptops, tablets, and smartphones. The system should be compatible with multiple operating systems and web browsers.
 
 - Programming languages and technologies: The system can be built using a combination of technologies such as HTML, CSS, JavaScript, PHP, Python, and MySQL. The system can also use frameworks such as Laravel, React, Angular, and Vue.js.
@@ -260,6 +263,95 @@ Total Estimated Cost: RM 1,900,000
 - Integration: The system should have the capability to integrate with third-party services such as social media platforms and payment services to provide a seamless user experience.
 
 ## 11. Timeline and Deliverables: 
+
+### Phase 1: Planning and Analysis (Week 1-2)
+
+- Conduct a feasibility study to identify the need for a food ordering system and how it can benefit your university
+- Write a project proposal outlining the objectives, scope, and expected outcomes of the project
+- Assemble a project team and allocate roles and responsibilities
+- Identify the key stakeholders and gather their input and feedback
+- Create a project plan outlining timelines, milestones, and deliverables
+
+### Milestones and Deliverables:
+
+- Feasibility study report
+- Project proposal document
+- Project team assembled with assigned roles
+- Project plan
+
+### Resources Required:
+
+- Feasibility study report templates
+- Project management software
+- Collaboration tools for remote communication
+
+### Phase 2: Design and Prototyping (Week 3-6)
+
+- Write the software requirements specification (SRS)
+- Define user requirements and functional specifications
+- Create wireframes, mockups, or prototypes of the user interface design
+- Define the database schema and architecture
+- Identify the technical specifications and choose the appropriate technologies and frameworks
+- Conduct user testing and gather feedback to refine the design
+  
+### Milestones and Deliverables:
+
+- SRS document
+- User requirements and functional specifications document
+- User interface design prototypes or mockups
+- Database schema and architecture document
+- Technical specifications and framework choices document
+
+### Resources Required:
+
+- Wireframing and prototyping tools
+- Collaboration tools for remote communication
+- Database design software
+- Technical specification templates
+
+### Phase 3: Development and Testing (Week 7-11)
+
+- Write software design document (SDD)
+- Implement frontend and backend functionalities based on the design and technical specifications
+- Develop the payment gateway and order management system
+- Test the system to ensure its functionality, security, and performance
+- Fix bugs and errors based on user feedback
+
+### Milestones and Deliverables:
+
+- SDD document
+- Fully functional food ordering system
+- Payment gateway integration
+- Order management system
+- Test cases and bug reports
+
+### Resources Required:
+
+- Web development frameworks and tools
+- Payment gateway integration software
+- Testing software and tools
+- Collaboration tools for remote communication
+
+### Phase 4: Documentation and Deployment (Week 12-14)
+
+- Write the software testing document (STD)
+- Deploy the system on a web server or cloud platform
+- Provide user training and support
+- Establish a maintenance plan and bug fixing
+
+### Milestones and Deliverables:
+
+- STD document
+- Deployed food ordering system
+- User manuals and maintenance plan
+- Support documentation
+
+### Resources Required:
+
+- Documentation templates
+- Web hosting or cloud platform
+- User training materials
+- Collaboration tools for remote communication
 
 
 ## 12. Conclusion:

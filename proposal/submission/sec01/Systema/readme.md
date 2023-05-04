@@ -174,7 +174,7 @@ Here is the phases of agile model that can be applied to the development of a st
 </ul>
 
 ### 6. Budget
-There will be a number of costs associated with the creation of a student engagement system that will serve about 40,000 users, including hardware, software, personnel, testing, and contingency. This project is expected to cost **RM 4,000,000**, as shown in the following breakdown:
+There will be a number of costs associated with the creation of a student engagement system that will serve about 40,000 users, including hardware, software, personnel, testing, and contingency. This project is expected to cost **RM 3,650,000**, as shown in the following breakdown:
 </p>
 
 #### Hardware: RM 1,200,000
@@ -182,7 +182,7 @@ There will be a number of costs associated with the creation of a student engage
 - The hardware should be able to support a large number of users, with high-speed internet connectivity and large enough storage capacity.
 - In order to meet any potential future increases in the number of users, the hardware should also be expandable.
 
-#### Software: RM 800,000
+#### Software: RM 350,000
 - The cost of purchasing and licencing software platforms and tools required for the creation of the student engagement system such as collaboration and communication tools, is included in the software budget.
 - The software licenses should be carefully selected to ensure compatibility, functionality, and security.
 - To ensure engagement and adoption by the users of the student engagement system, the software should be user-friendly and easily navigatable.
@@ -202,7 +202,7 @@ There will be a number of costs associated with the creation of a student engage
 - These expenses could include unforeseen hardware or software failures, scope changes, or development timeline delays.
 - The project's contingency fund is included to ensure that it can proceed even in the event of unforeseen difficulties or setbacks that can have an impact on student engagement.
 
-In conclusion, it is anticipated that RM 4,000,000 will be needed to develop the student engagement system. Costs associated with staff, testing, hardware, software, and contingency will all be covered by the budget. Stakeholders and project sponsors will be informed of any budget changes.
+In conclusion, it is anticipated that RM 3,650,000 will be needed to develop the student engagement system. Costs associated with staff, testing, hardware, software, and contingency will all be covered by the budget. Stakeholders and project sponsors will be informed of any budget changes.
 
 
 ### 7. System Architecture
@@ -257,16 +257,16 @@ Block Diagram:
 <b>Our team is committed to ensuring the safe and successful execution of this project. We will take all necessary measures and precautions to mitigate potential risks and ensure that all aspects of the project are carefully managed and monitored.</b>
 
 ### 9. Resources
-- Provide a detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
+- A detailed breakdown of the resources required for the proposed project, including staff, equipment, software, and other expenses.
 
 
   1. Staff:
-      + 1 Project Manager: RM 300,000/year
-      + 1 Quality assurance specialist & Web Developer: RM 180,000/year
-      + 1 Business Analyst & User Interface Designer: RM 180,000/year
-      + 1 Support Engineer & Data Analyst: RM 180,000/year
-      + 1 Technical Writer & User Experience Designer: RM 160,000/year
-      <br>*Total Cost: RM 1,000,000*
+      + 1 Project Manager: RM 540,000/year
+      + 1 Quality assurance specialist & Web Developer: RM 324,000/year
+      + 1 Business Analyst & User Interface Designer: RM 324,000/year
+      + 1 Support Engineer & Data Analyst: RM 324,000/year
+      + 1 Technical Writer & User Experience Designer: RM 288,000/year
+      <br>*Total Cost: RM 1,800,000*
   2. Hardware
       + Server Hardware: RM 400,000
       + Network Hardware: RM 200,000
@@ -282,7 +282,7 @@ Block Diagram:
       <br>*Total Cost: RM 220,000*
       
   4. Software:
-      + User interface: HTML, CSS, and JavaScript: RM 150,000
+      + User interface: HTML, CSS, JavaScript, and ReactJS: RM 150,000
       + Server-side technology: Node.js and Express.js: RM 100,000
       + Database: MySQL RDBMS: RM 100,000
       <br>*Total Cost: RM 350,000*
@@ -296,7 +296,7 @@ Block Diagram:
       + Training and support expenses: RM 300,000
       <br>*Total Cost: RM 751,000*
       
-  <br><br><b>Grand Total: RM 1,321,000</b>
+  <br><br><b>Grand Total: RM 4,321,000</b>
 
 
 ### 10. Technical Specifications

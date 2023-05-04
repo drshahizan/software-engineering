@@ -11,11 +11,26 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ### Prepared by: Group Curiousity
-  1. Camily Tang Jia Lei A22EC0039 
-  <src img="cam.jpg" alt="camily">
-  2. Koh Li Hui A22EC0059
-  3. Low Ying Xi A22EC0187
-  4. Ng Shu Yu A22EC0228
+<table>
+<tr>
+  <th>No.</th>
+  <th>Member</th>
+  <th>Matric No.</th>
+  <th>Photo</th>
+</tr>
+<tr>
+  <td>1.</td> <td> Low Ying Xi </td> <td> A22EC0187 </td> <td><img src="lyx.jpg" width=150px, height=200px> </td>
+  </tr>
+<tr>
+  <td>2.</td> <td> Koh Li Hui </td> <td> A22EC0059 </td> <td><img src="klh.jpg" width=150px, height=200px> </td>
+  </tr>
+<tr>
+  <td>3.</td> <td> Camily Tang Jia Lei </td> <td> A22EC0039 </td> <td><img src="cam.jpg" width=150,height=300> </td> 
+  </tr>
+<tr>
+  <td>4.</td> <td> Ng Shu Yu </td> <td> A22EC0228 </td> <td><img src="nsy.JPG" width=150px, height=200px> </td>
+  </tr>
+</table>
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
@@ -252,7 +267,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
     </table>
 
 ### Testing Methodologies: 
-The testing methodologies that will be used are black-box testing, white-box testing, and grey-box testing.
+The testing methodologies that will be used are black-box testing and white-box testing.
 
 * <b>Black-box testing</b>:
 Also referred to as functional testing or behavioural testing, is a testing technique where the tester is unaware of the internal workings of the system being tested. The tester in this method only has access to the system's inputs and outputs, and they test the system's functionality in accordance with its specifications and requirements. In the case of the KTDI event management system, the end-users such as JKM KTDI, KTDI college office staff, and fellow members will conduct this kind of testing.
@@ -641,25 +656,126 @@ Below is the timeline and deliverables of the project:
         </tr>
       </tbody>
     </table>
-Quality Assurance and Testing Procedures
+    
+Testing Procedures
 
-- Automated Unit Testing: Code will be tested automatically by a unit testing framework during the development phase to ensure that individual units of code work correctly.
-- Manual System Testing: After the front-end and back-end of the system are developed, a quality assurance analyst will perform manual system testing to ensure that the system works correctly as a whole.
-- User Acceptance Testing: End users will perform testing on the system to ensure that it meets their requirements and expectations.
-- Bug Fixing: Any issues or bugs found during testing will be addressed by the development team and retested before being deployed.
+Testing procedure is a systematic approach to verifying and validating the functionality, performance, and quality of a software system or application. It involves planning, designing, executing, and documenting tests to identify any defects, errors, or issues that could impact the software's usability, reliability, or security.
+
+The testing objective is to ensure that the KTDI event management system meets the specified requirements as expected by the stakeholders. Testing Procedures for the KTDI event management system involve several testing methodologies, including 
+- black-box testing
+- white-box testing
+- system testing
+- performance testing.
+
+The development team of this project will create test cases and scenarios to cover all aspects of the system, including the user interface as below
+<table>
+      <thead>
+        <tr>
+          <th>Interface</th>
+          <th>Feature</th>
+          <th>Person Involved</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Login Page</td>
+          <td>Authentication</td>
+          <td>JKM, KTDI College Office Staff, Fellow members</td>
+        </tr>
+        <tr>
+          <td>Calendar</td>
+          <td>Scheduling</td>
+          <td>JKM, KTDI College Office Staff, Fellow members</td>
+        </tr>
+        <tr>
+          <td>Event Menu</td>
+          <td>Location Booking System</td>
+          <td>JKM, KTDI College Office Staff</td>
+        </tr>
+        <tr>
+          <td>Event Menu</td>
+          <td>Paperwork Management Process</td>
+          <td>JKM, KTDI College Office Staff, Fellow members</td>
+        </tr>
+        <tr>
+          <td>Event Menu</td>
+          <td>Status Progress</td>
+          <td>JKM, KTDI College Office Staff, Fellow members</td>
+        </tr>
+        <tr>
+          <td>Event Menu</td>
+          <td>Status Approval</td>
+          <td>JKM, KTDI College Office Staff, Fellow members</td>
+        </tr>
+        <tr>
+          <td>Record Section</td>
+          <td>Upload Document Function</td>
+          <td>JKM, KTDI College Office Staff, Fellow members</td>
+        </tr>
+      </tbody>
+    </table>
+
+The overall testing procedure will be:
+- 1. Black-box testing (to validate the system's functionality and behavior)
+
+This is carried out by end-users such as JKM KTDI, KTDI college office staff, and fellow members who are not aware of the internal workings of the system. They test the system's functionality based on its specifications and requirements, using only its inputs and outputs.
+- 2. White-box testing (to validate the system's internal components, such as code or algorithms)
+
+This is carried out by developers or testers with access to the source code of the system being tested. This testing method involves running tests on the system's internal components to ensure they work as intended. The KTDI event management system team members will perform white-box testing.
+- 3. System testing (conduct system testing to validate the system as a whole)
+
+This involves testing the entire system as a whole to ensure it meets the specified requirements and functions as expected. The KTDI event management system team members will carry out system testing, testing various aspects of the system, including the user interface, location booking system, paperwork management processes, and other key features.
+- 4. Performance Testing (conduct performance testing to validate the system's performance under different scenarios)
+
+Performance testing assesses how well the system performs under various loads and stresses. It involves creating realistic scenarios to test the system's throughput, response time, and resource usage under various user activity levels. The KTDI event management system team members are responsible for performance testing, using specialised tools and software to measure a variety of metrics, including server response time, page load time, and network latency. The system's performance will be optimised based on the performance testing results, any performance problems will be found, and the system's ability to handle the anticipated workload will be confirmed.
+- 5. Analyse Results and Report Defects (Analyse the results of testing and report any defects or issues found)
+
+The development team of this project will work closely with the documentation specialist to create test reports summarising the results of testing, including any defects or issues found during the testing process. These reports will be used to monitor the testing's progress and ensure that the system is meeting the required quality standards. Any defects or issues found will be reported to the development team for resolution. The documentation specialist will be responsible for ensuring that all test reports are accurate and up-to-date.
+- 6. Retest and Validate Fixes 
+
+Retest any defects or issues found after they have been fixed by the development team. The testing team will verify that all defects and issues have been resolved before signing off on the system's release.
+- 7. Sign-Off: Sign off on the system's release after all testing is complete and all defects have been resolved.
+
+Quality Assurance Procedure
+
+
+- 1. Testing Activities:
+
+Perform black-box testing, white-box testing, and system testing to ensure the software meets quality standards and stakeholder requirements.
+Document all test results, including any defects or issues found during testing.
+- 2. Test Reports:
+
+The documentation specialist is responsible for creating test reports summarising any issues found during testing and monitoring the testing progress.
+Use the test reports to ensure the software is upholding the necessary quality standards.
+- 3. Unit Testing:
+
+The main developer and team members will perform unit testing to test individual units or components of the system in isolation.
+Ensure each unit of the system is working as intended and free of defects or errors in the code.
+- 4. Code Reviews:
+
+The main developer and team members will perform code reviews to identify defects or errors in the code and ensure the code is consistent with the project's coding standards and guidelines.
+- 5. Continuous Integration:
+
+Integrate code into a shared repository as part of the software development practice known as continuous integration.
+Ensure that the code is properly integrated and that any problems or conflicts are quickly found and fixed.
+Ensure the system operates as intended and complies with the necessary quality standards.
+- 6. Analyse Results and Report Defects:
+
+Analyse the results of testing and report any defects or issues found.
+Report defects to the development team for resolution
+
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 12. Conclusion:
-By addressing the issue of managing and improving the effectiveness of the paperwork of co-curricular activities in Kolej Tun Dr. Ismail (KTDI) college, the suggested system seeks to boost the usability and effectiveness of the previous system.
+In conclusion, the proposed system is designed to simplify and streamline the event management processes, with a focus on documentation before and after events for the Student Residential College Committee (JKM) at University Technology Malaysia (UTM). The system aims to enhance the effectiveness of event preparation by enabling the handling of documents and tracking of task progress by members.
 
-One of the key features of converting from a manual to fully digital system is that it will be accessible to only the authorised personnel specifically JKM KTDI, KTDI office staffs and KTDI fellow members only. This implementation will contribute to saving the earth because less paper is used and less time is spent travelling, waiting, and getting feedback from higher authorities.
+Users will benefit from this proposed system, as it reduces the time taken to physically meet and handle documents, and also minimises the frequency of physical meetings needed for tracking member progress. The system enables users to record past activities, which can be easily referred to in the future. This makes it easier for users to view past semester activity reports and create annual reports. Thus, this system can be useful for each batch of JKM members to refer to the past history of documentation, which can help them quickly know how to prepare for certain events, especially annual and large events that require more time for preparation. With this system, they will be able to obtain valuable information on what to do and how to do it for the event's documentation. 
 
-The two user interfaces, one for JKM KTDI and the other for fellow KTDI employees and office workers. According to their individual roles and responsibilities, each user will have a unique set of features and capabilities. For instance, JKM KTDI will be able to use the system to send proposals and related documents to the KTDI office staff and other members, check the status of approval, monitor the progress of each unit for each event, reserve the venue, and update and upload post-event reports for record purposes to refer to for each session. They will also be required to compile an annual report of all the events held during that year. In order to prepare for the future event, the KTDI office staff and other members will be able to approve applications and documents, sign documents electronically, and track the development of each unit.
+One limitation of this system is that it is only accessible to JKM, office staff, and fellow members of KTDI. This means that JKM committee members from other residential colleges do not have access to this system. As such, there is room for improvement to expand the system's accessibility to other JKM committees.  Another limitation is that the system only focuses on documenting the event, which is just one aspect of event preparation. Other important preparations, such as participant management and attendance tracking, are not directly recorded in the system.  These limitations suggest that the system may require further development and enhancement to meet the needs of all JKM committees and to address other important aspects of event preparation. One challenge that may arise during the project is that the system's features may not be able to solve certain issues faced by users, such as the possibility of file uploads failing due to their large sizes. Another challenge is ensuring the security of the system to protect users' email and password information.
 
-Additionally, the new system will give every user a high level of customization and flexibility. This will allow them to set deadlines, assign tasks, and upload documents. To keep users engaged and informed on relevant material, the system will also include notifications, reminders, and feedback systems.
+Overall, the proposed system offers significant advantages over traditional methods of event management, improving efficiency and reducing the workload for event organisers.
 
-Overall, the new system is a considerable advance over the manual paperwork approach since it offers users at all levels of the higher KTDI authorities members greater accessibility, functionality, and customization.
 </body>
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
