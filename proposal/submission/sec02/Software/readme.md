@@ -92,32 +92,32 @@ Agile methodology is most suitable for this project because it guarantees short 
 - Find and identify the best stakeholders. For examples, PKU UTM administrative personnel, PKU UTM medical professionals, and UTM students.
 - Determine which features are necessary for Student Health and Wellness Management System and which may be added later by analysing and prioritising the requirements. For instances, health tips, SOS emergency call button, Dental Pre-appointment Form and Online Mental Consultation.
 - Gather requirements from stakeholders by explaning surveys questions, focus populations and interviews.
-- Plan a product backlog with a list of all the features and specifications needed for Student Health and Wellness Management System. Project manager responsible for tracking process from time-to-time
+- Plan a product backlog with a list of all the features and specifications needed for Student Health and Wellness Management System.  responsible for tracking process from time-to-time
 
 #### Planning & Design Phase:
 - Examine the features backlog by receiving suggestions from PKU UTM administrative personnel, PKU UTM medical professional, UTM student survey ideas and make decision on which features need to be selected or removed in the following phase.
 - Requirements and features determined will be included in system architecture, database schema, and user interface. 
 - Design a features backlog with the wireframing, prototyping and database design. Stakeholders feedbacks that must be performed during the features, and determine the feature goals for achievements.
-- Assign tasks and roles to team members followed by determine the required work loads for each roles. Software architect responsible for tracking process from time-to-time.
+- Assign tasks and roles to team members followed by determine the required work loads for each roles.  responsible for tracking process from time-to-time.
 
 #### Sprint Development Phase:
-- Create the features and elements of the website that are included in the sprint and feature backlog.
+- Create the features and elements of the website that are included in the sprint and feature backlog by coding, unit testing, and integration testing. For example, HTML, CSS and PhP.
 - Organising meeting for progress discussion to track team efforts, and identify problems during the development progress.
 - Integrate and test continuously to make sure the website is operating as intended.
 - Documentation of website is adequated and code is routinely checked by developers.
 
-#### Sprint Review Phase:
-- Receive feedback from stakeholders by presenting the developed features.
+#### Sprint Review & Testing Phase:
+- Receive feedback from stakeholders by presenting the features functional, performance, and security testing. 
 - Review the sprint objectives and goal achieved.
-- Identify the problems of the website that need to be improved or developed further.
+- Identify the problems of the website that need to be improved or developed further by test planning, test execution, and defect management. 
 - Review the sprint process with the development team for improvement.
 - Change the development process as needed to increase effectiveness and efficiency.
 - Discuss achievements, difficulties, and ways for improvement.
 
 #### Deployment and Maintenance Phase
-- Launch the website in a live environment.
-- Users should receive training for user manual for better utilisation of the website.
-- Track the performance of the website, solve existed problems. Receive feedback from users and update the website as needed.
+- Launch the  Student Health and Wellness Management System website in a live environment.
+- Stakeholders such like PKU UTM administrative personnel, PKU UTM medical professionals, and UTM students. should receive training for user manual and user acceptance testing for better utilisation of the website.
+- Track the performance bu users of the website, solve existed problems. Receive feedback from users and update the website as needed.
 - Analysing user activities for user patterns and improvements needed.
 - Apply the agile methodology to iterate on new website features and enhancements.
 
