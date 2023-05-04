@@ -92,20 +92,21 @@ Agile methodology is most suitable for this project because it guarantees short 
 - Find and identify the best stakeholders. For examples, PKU UTM administrative personnel, PKU UTM medical professionals, and UTM students.
 - Determine which features are necessary for Student Health and Wellness Management System and which may be added later by analysing and prioritising the requirements. For instances, health tips, SOS emergency call button, Dental Pre-appointment Form and Online Mental Consultation.
 - Gather requirements from stakeholders by explaning surveys questions, focus populations and interviews.
-- Plan a product backlog with a list of all the features and specifications needed for Student Health and Wellness Management System.  responsible for tracking process from time-to-time
+- Plan a product backlog with a list of all the features and specifications needed for Student Health and Wellness Management System. 
+- Assign tasks and roles to team members followed by determine the required work loads for each roles. The duration of this phase is week 6 to week 9, ONG YI YAN as Requirement Analyst responsible for tracking process from time-to-time.
 
 #### Planning & Design Phase:
 - Examine the features backlog by receiving suggestions from PKU UTM administrative personnel, PKU UTM medical professional, UTM student survey ideas and make decision on which features need to be selected or removed in the following phase.
 - Requirements and features determined will be included in system architecture, database schema, and user interface. 
 - Design a features backlog with the wireframing, prototyping and database design. Stakeholders feedbacks that must be performed during the features, and determine the feature goals for achievements.
-- Assign tasks and roles to team members followed by determine the required work loads for each roles. The duration of this phase is week 6 to week 9, ONG YI YAN as Requirement Analyst responsible for tracking process from time-to-time.
+- The duration of this phase is week 4 to week 6, LEE YIK HONG as User Experience Designer responsible for tracking process from time-to-time.
 
 #### Sprint Development Phase:
 - Create the features and elements of the website that are included in the sprint and feature backlog by coding, unit testing, and integration testing. For example, HTML, CSS and PhP.
 - Organising meeting for progress discussion to track team efforts, and identify problems during the development progress.
 - Integrate and test continuously to make sure the website is operating as intended.
 - Documentation of website is adequated and code is routinely checked by developers.
--The duration of this phase is week 4  to week 6, LEE YIK HONG as User Experience Designer responsible for tracking process from time-to-time.
+- The duration of this phase is week 9 to week 12, GOH JIALE as Main Developer responsible for tracking process from time-to-time.
 
 #### Sprint Review & Testing Phase:
 - Receive feedback from stakeholders by presenting the features functional, performance, and security testing. 
@@ -114,6 +115,7 @@ Agile methodology is most suitable for this project because it guarantees short 
 - Review the sprint process with the development team for improvement.
 - Change the development process as needed to increase effectiveness and efficiency.
 - Discuss achievements, difficulties, and ways for improvement.
+- The duration of this phase is week 13 to week 15, TANG YAN QING as Documentation Specialists responsible for tracking process from time-to-time.
 
 #### Deployment and Maintenance Phase
 - Launch the  Student Health and Wellness Management System website in a live environment.
@@ -121,6 +123,7 @@ Agile methodology is most suitable for this project because it guarantees short 
 - Track the performance bu users of the website, solve existed problems. Receive feedback from users and update the website as needed.
 - Analysing user activities for user patterns and improvements needed.
 - Apply the agile methodology to iterate on new website features and enhancements.
+- The duration of this phase after week 15, KOH SU XUAN as Quality Assurance Testor responsible for tracking process from time-to-time.
 
 ### 6. Budget:
 For the student health and wellness management website which involves around 2000 users in Kolej Tun Dr. Ismail (KTDI), the estimated budget is **RM 550,000**. The budget includes the costs for 6 months of development and 6 months of maintenance for the website.
