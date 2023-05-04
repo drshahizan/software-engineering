@@ -47,13 +47,8 @@ Overall, our system is designed to make event planning and execution as seamless
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 2. Background:
-Events are an essential part of the University of Technology, Malaysia (UTM) experience. However, the current manual process of managing events is time-consuming, prone to errors, and lacks the ability to provide real-time information about event performance. These difficulties have had a detrimental effect on participants' overall experiences, leading to poor event organisation and low participation rates.
+Events are an essential part of the Kolej Tun Dr Ismail (KTDI) college. However, the current process of event preparation and post-activity processes is time-consuming and less-productive. The KTDI Event Management System is designed to solve the problems and inconveniences faced by stakeholders in activity preparation and improve the effectiveness of event preparation. 
 
-The proposed UTM Event Management System aims to address these challenges by introducing an innovative, intuitive, and automated system that streamlines the event management process. The proposed system leverages the latest technologies and industry best practices to deliver a seamless user experience for organisers, attendees, and administrators. Real-time event scheduling, registration, different sorts of activities and credits, and feedback capabilities are among the system's key features, which give organisers and administrators the ability to optimise event planning, monitor performance, and make informed data-driven decisions.
-
-All stakeholders, including organisers, attendees, and administrators, stand to benefit considerably from the proposed UTM Event Management System. The suggested method will save time, cut down on errors, and boost satisfaction by lessening the administrative burden of manual processes. The system will also offer insightful analytics that can be utilised to inform decisions that will enhance the outcomes of events. Overall, the suggested approach has the potential to establish UTM as a pioneer in event management innovation and technology and strengthen its competitive edge in luring and retaining attendees.
-
-In summary, the UTM Event Management System proposal seeks to address the challenges associated with the current manual event management process by introducing a modern, automated, and user-friendly solution that provides measurable benefits and enhances the overall experience of all stakeholders. The proposed system has the potential to transform event management at UTM, improve event outcomes, and enhance UTM's reputation as a leading institution of higher learning.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
