@@ -96,17 +96,17 @@ The proposed scope for the parcel system is expected to provide numerous benefit
 
 ### 5. Software Process Model:
 
-1. Requirements Gathering: The first stage of the software process model will involve gathering requirements from stakeholders, including students, faculty, staff, and parcel senders. This stage will help identify the key features and functionality needed for the parcel system.
+1. **Requirements Gathering**: The first stage of the software process model will involve gathering requirements from stakeholders, including students, faculty, staff, and parcel senders. This stage will help identify the key features and functionality needed for the parcel system.
 
-2. Design: Once the requirements are gathered, the next stage will involve designing the system architecture, user interface, and database schema. This stage will also include developing wireframes and mockups to help visualize the system.
+2. **Design**: Once the requirements are gathered, the next stage will involve designing the system architecture, user interface, and database schema. This stage will also include developing wireframes and mockups to help visualize the system.
 
-3. Development: The third stage will involve actual development of the parcel system. This will include coding, database setup, and integration with third-party services such as payment gateways and security systems.
+3. **Development**: The third stage will involve actual development of the parcel system. This will include coding, database setup, and integration with third-party services such as payment gateways and security systems.
 
-4. Testing: The fourth stage will involve testing the system to ensure that it meets the requirements and is free of errors and bugs. This will include unit testing, integration testing, and user acceptance testing.
+4. **Testing**: The fourth stage will involve testing the system to ensure that it meets the requirements and is free of errors and bugs. This will include unit testing, integration testing, and user acceptance testing.
 
-5. Deployment: Once the testing is complete, the system will be deployed to a staging environment for final testing and validation. Once approved, the system will be deployed to the production environment.
+5. **Deployment**: Once the testing is complete, the system will be deployed to a staging environment for final testing and validation. Once approved, the system will be deployed to the production environment.
 
-6. Maintenance: The final stage will involve ongoing maintenance and support for the parcel system. This will include bug fixes, updates, and improvements to the system as needed.
+6. **Maintenance**: The final stage will involve ongoing maintenance and support for the parcel system. This will include bug fixes, updates, and improvements to the system as needed.
 
 The proposed software process model for the parcel system will allow for a structured and iterative approach to software development, ensuring that the system is designed and developed in accordance with stakeholder requirements and is thoroughly tested and validated before deployment.
 
