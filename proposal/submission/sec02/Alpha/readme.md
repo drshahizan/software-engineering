@@ -14,7 +14,7 @@
   <th>Photo</th>
 </tr>
 <tr>
-  <td>1.</td> <td> Salini Ravinthiran </td> <td> A22EC0267 </td> <td><img src="" width=150px, height=200px> </td>
+  <td>1.</td> <td> Salini Ravinthiran </td> <td> A22EC0267 </td> <td><img src="https://avatars.githubusercontent.com/u/128107791?v=4" width=150px, height=200px> </td>
   </tr>
 <tr>
   <td>2.</td> <td> Nur Farah Adibah Binti Idris </td> <td> A22EC0245 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/Photo/gambar%20passport%20bg%20putih%20tele.jpg" width=150px, height=200px> </td>
