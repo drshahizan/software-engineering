@@ -248,6 +248,8 @@ d. **Other Resources** :
     - RM 50,000/year
 <p>Total Other Cost: RM 145,000/year</p>
 
+In conclusion, the total estimated cost is ***RM 570,000/year***.
+
 ### 10. Technical Specifications:
 <table>
   <tr>
