@@ -44,13 +44,13 @@ This proposal recommends the development of a student engagement website for stu
 <br></br>
 The key features of the student engagement website include:
 
-1. A personalized dashboard that displays a student's academic schedule, assignments, and other relevant information in a user-friendly interface.</li>
-<li>Course-specific forums and discussion boards that allow students to engage with their peers and faculty members in discussions related to specific courses.</li>
-<li>A student directory that enables students to connect with each other based on shared interests or academic programs.</li>
-<li>A notification system that keeps students informed about important academic events and deadlines, such as exam schedules and registration deadlines.</li>
-<li>A virtual events calendar that promotes student engagement in extracurricular activities, clubs, and other events on campus.</li>
-<li>A feedback system that allows students to provide feedback on courses, instructors, and other aspects of their academic experience.</li>
-</ul>
+- A personalized dashboard that displays a student's academic schedule, assignments, and other relevant information in a user-friendly interface.
+- Course-specific forums and discussion boards that allow students to engage with their peers and faculty members in discussions related to specific courses.
+- A student directory that enables students to connect with each other based on shared interests or academic programs.
+- A notification system that keeps students informed about important academic events and deadlines, such as exam schedules and registration deadlines.
+- A virtual events calendar that promotes student engagement in extracurricular activities, clubs, and other events on campus.
+- A feedback system that allows students to provide feedback on courses, instructors, and other aspects of their academic experience.
+
 <br>
 The development of the student engagement website will require a team of skilled developers, designers, and project managers who will work together to ensure a seamless user experience. The website will be designed to be accessible to all UTM Faculty Computing's students, regardless of their technological proficiency, and will be optimized for all types of browser.
 
@@ -132,35 +132,35 @@ The <b>Agile software process model</b> is an ideal process model for student en
 Here is the phases of agile model that can be applied to the development of a student engagement system:
 <br>
 <ol>
-  <li>Planning: In this phase, the project team identifies the project's objectives, timelines, and available resources. The team creates a backlog of features and user stories, prioritizes them, and estimates their effort.</li>
-  <li>Analysis and Design: In this phase, the team analyzes and designs the software architecture, database design, and user interface. The team also identifies dependencies, risks, and assumptions.</li>
-  <li>Development: In this phase, the team develops the software incrementally in short iterations called sprints. Each sprint typically lasts two to four weeks, and the team develops and tests a small set of features. The team collaborates daily and continuously reviews the product backlog to adjust the priorities and scope.</li>
-  <li>Testing: In this phase, the team performs testing continuously throughout the development process. The team writes automated unit tests, integration tests, and acceptance tests to ensure the software meets the requirements.</li>
-  <li>Deployment: In this phase, the team deploys the software to the production environment. The team releases the software incrementally, and each release includes a set of tested features.</li>
-  <li>Maintenance: In this phase, the team maintains the software by fixing defects, adding new features, and improving the system's performance. The team continuously receives feedback from users and stakeholders to improve the system further.</li>
+  <li><em>Planning:</em> In this phase, the project team identifies the project's objectives, timelines, and available resources. The team creates a backlog of features and user stories, prioritizes them, and estimates their effort.</li>
+  <li><em>Analysis and Design:</em> In this phase, the team analyzes and designs the software architecture, database design, and user interface. The team also identifies dependencies, risks, and assumptions.</li>
+  <li><em>Development</em>: In this phase, the team develops the software incrementally in short iterations called sprints. Each sprint typically lasts two to four weeks, and the team develops and tests a small set of features. The team collaborates daily and continuously reviews the product backlog to adjust the priorities and scope.</li>
+  <li><em>Testing:</em> In this phase, the team performs testing continuously throughout the development process. The team writes automated unit tests, integration tests, and acceptance tests to ensure the software meets the requirements.</li>
+  <li><em>Deployment:</em> In this phase, the team deploys the software to the production environment. The team releases the software incrementally, and each release includes a set of tested features.</li>
+  <li><em>Maintenance:</em> In this phase, the team maintains the software by fixing defects, adding new features, and improving the system's performance. The team continuously receives feedback from users and stakeholders to improve the system further.</li>
 </ol>
 <p align="center"><img src="gantt.jpg"></p>
 
 #### Testing Methodologies
 
 <ul>
-  <li>Acceptance Testing: This is used to make sure that our product met the requirements specified by our stakeholders such as MPP, lecturers and students. Not only that, this testing also had to make sure that user easily to engage with all the features provided.</li>
-  <li>Functional Testing: This testing is done to ensure that all the features work as expected.</li>
-  <li>Regression Testing: This is used to ensure updates launched would not cause any new bugs or issues occur and the existing features as well as data would function as good as before updates.</li>
-  <li>Performance Testing: As there could be many users using our system at the same time hence this performance testing is done to make sure system can still function well although there is a high traffic as well as testing the ability of the system to handle a large number of data inputs or users at the same time.</li>
-  <li>Usability Testing: This methodology is used to test whether our system is easy to navigate or the features is easy to access.</li>
+  <li><em>Acceptance Testing:</em> This is used to make sure that our product met the requirements specified by our stakeholders such as MPP, lecturers and students. Not only that, this testing also had to make sure that user easily to engage with all the features provided.</li>
+  <li><em>Functional Testing:</em> This testing is done to ensure that all the features work as expected.</li>
+  <li><em>Regression Testing:</em> This is used to ensure updates launched would not cause any new bugs or issues occur and the existing features as well as data would function as good as before updates.</li>
+  <li><em>Performance Testing:</em> As there could be many users using our system at the same time hence this performance testing is done to make sure system can still function well although there is a high traffic as well as testing the ability of the system to handle a large number of data inputs or users at the same time.</li>
+  <li><em>Usability Testing:</em> This methodology is used to test whether our system is easy to navigate or the features is easy to access.</li>
 </ul>
 
 #### Project Management Practices
 
 <ul>
-  <li>Establish clear project goals and objectives: The specific features and functions that included in our system should be defined clearly so that every group members understand what should be included in our system.</li>
-  <li>Use agile development methodologies: Scrum is an example of agile development methodologies that we could use for iterative development with frequent testing and feedback from users.</li>
-  <li>Collaborate with stakeholders: This is to ensure the product executed can meet the requirements of our stakeholders such as MPP, lecturers and students.</li>
-  <li>Communicate regularly: Communication is important as a team to develop a system. Discussion via face to face or any meeting applications such as Google Meet can be done to exchange any opinions from different perspectives.</li>
-  <li>Manage project risks: Identify what risks may appear throughout the development of our system in order to prevent panic when problems appear.</li>
-  <li>Prioritize tasks and workloads: Prioritize tasks and workloads based on our project goals and objectives so that nothing would be missed.</li>
-  <li>Monitor progress and adjust as needed: Always monitor the progress so that our system stays on track and meets our objectives.</li>
+  <li><em>Establish clear project goals and objectives:</em> The specific features and functions that included in our system should be defined clearly so that every group members understand what should be included in our system.</li>
+  <li><em>Use agile development methodologies:</em> Scrum is an example of agile development methodologies that we could use for iterative development with frequent testing and feedback from users.</li>
+  <li><em>Collaborate with stakeholders:</em> This is to ensure the product executed can meet the requirements of our stakeholders such as MPP, lecturers and students.</li>
+  <li><em>Communicate regularly:</em> Communication is important as a team to develop a system. Discussion via face to face or any meeting applications such as Google Meet can be done to exchange any opinions from different perspectives.</li>
+  <li><em>Manage project risks:</em> Identify what risks may appear throughout the development of our system in order to prevent panic when problems appear.</li>
+  <li><em>Prioritize tasks and workloads:</em> Prioritize tasks and workloads based on our project goals and objectives so that nothing would be missed.</li>
+  <li><em>Monitor progress and adjust as needed:</em> Always monitor the progress so that our system stays on track and meets our objectives.</li>
 </ul>
 
 #### Quality Assurance Processes
