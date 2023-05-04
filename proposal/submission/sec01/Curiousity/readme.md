@@ -534,47 +534,107 @@ Below is the timeline and deliverables of the project:
           <th>Phase</th>
           <th>Milestone</th>
           <th>Deliverables</th>
+          <th>Description</th>
           <th>Resources Required</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>Phase 1: Planning and Design (Week 1)</td>
-          <td>System Requirements and Design</td>
-          <td>System Requirements Document, System Design Document</td>
-          <td>Project Manager, Requirement Analyst, User Experience Designer, Assistant developer</td>
+          <td rowspan="4">Phase 1: Planning Phase (Weeks 1-3)</td>
+          <td rowspan="4">System Requirements and Design</td>
+          <td>Proposal(Week 1)</td>
+          <td>This document outlines the project's purpose, scope, goals, timeline, and budget.</td>
+          <td>Project Manager,Documentation Specialist and input from stakeholders</td>
         </tr>
         <tr>
-          <td rowspan="3">Phase 2: Development (Week 2-4)</td>
-          <td>Front-end Development Complete</td>
-          <td>Completed front-end of the system</td>
-          <td>UI/UX Designer, Front-end Developer</td>
+          <td>System Requirements Specification (SRS)(Week 1-2)</td>
+          <td>This document details the functional and non-functional requirements of the system, including user requirements, system capabilities, and performance metrics.</td>
+          <td>Project Manager, Documentation Specialist,Assistant Developer and input from stakeholders </td>
         </tr>
         <tr>
-          <td>Back-end Development Complete</td>
-          <td>Completed back-end of the system with business logic and data management</td>
-          <td>Main Developer, Back-end Developer, Database Administrator</td>
+          <td>System Design Document (SDD)(Week 2-3)</td>
+          <td>This document outlines the technical design of the system, including the software architecture, user interface, and integration points</td>
+          <td>Project Manager, Documentation Specialist, Main Developer and Assistant Developer</td>
         </tr>
         <tr>
-          <td>RBAC and ORM Integration Complete</td>
-          <td>RBAC and ORM integrated into the system</td>
-          <td>Main Developer, Back-end Developer</td>
+          <td>System Testing Document (STD)(Week 2-3)</td>
+          <td>This document describes the test plan, test cases, and test scenarios that will be used to ensure the system meets the requirements and quality standards.</td>
+          <td>Project Manager, Documentation Specialist, Main Developer and Assistant Developer</td>
         </tr>
         <tr>
-          <td rowspan="3">Phase 3: Testing and Deployment (Week 5-6)</td>
-          <td>System Testing Complete</td>
-          <td>System Test Report</td>
-          <td>Quality Assurance Analyst</td>
+          <td rowspan="3">Phase 2: Design Phase (Week 4-11)</td>
+          <td rowspan="3">Design of the system</td>
+          <td>Prototype(Week 4-7)</td>
+          <td>Creates prototypes, wireframes, user journey maps, and user stories. Carries out usability testing and user research to improve the design.</td>
+          <td>User Experience Designer</td>
         </tr>
         <tr>
-          <td>User Acceptance Testing Complete</td>
-          <td>User Acceptance Test Report</td>
-          <td>Requirement Analyst, End Users</td>
+          <td>Technical Design and Architecture(Week 8-9)</td>
+          <td>Offer technical advice on constraints of the system. Creates a technical design document and an architectural diagram.</td>
+          <td>Main Developer</td>
         </tr>
         <tr>
-          <td>System Deployment Complete</td>
-          <td>Deployed System and User Guide</td>
-          <td>Main Developer, Documentation Specialist</td>
+          <td>Design Document(Week 10-11)</td>
+          <td>Drafts a design document that includes the user stories, user journey maps, wireframes, prototypes, architectural diagram, and technical design document.</td>
+          <td>Documentation Specialist</td>
+        </tr>
+        <tr>
+          <td rowspan="3">Phase 3: Development Phase (Week 12-21)</td>
+          <td rowspan="3">Development of the system</td>
+          <td>Interface Layer(Week 12-15)</td>
+          <td>Develops the system code and unit tests for interface layer. Integrates the code and performs integration testing for interface layer.</td>
+          <td>Main Developer, User Experience Designer</td>
+        </tr>
+        <tr>
+          <td>Application Layer(Week 16-19)</td>
+          <td>Develops the system code and unit tests for application layer. Integrates the code and performs integration testing for application layer.</td>
+          <td>Main Developer</td>
+        </tr>
+        <tr>
+          <td>Codebase Documents(Week 20-21)</td>
+          <td>Documents the codebase and version control process.</td>
+          <td>Documentation Specialist</td>
+        </tr>
+        <tr>
+          <td rowspan="3">Phase 4: Testing Phase (Week 22-31)</td>
+          <td rowspan="3">Testing of the system</td>
+          <td>Box Testing(Week 22-26)</td>
+          <td>Conducts white-box testing, black-box testing, and system testing. Resolves defects and bugs.</td>
+          <td>Main Developer</td>
+        </tr>
+        <tr>
+          <td>Usability Testing(Week 27-29)</td>
+          <td>Conducts usability testing to ensure the application meets the user requirements and expectations.</td>
+          <td>User Experience Designer</td>
+        </tr>
+        <tr>
+          <td>Testing Document(Week 30-31)</td>
+          <td>Drafts a testing document that includes test cases, test scripts, and test results.</td>
+          <td>Documentation Specialist</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Phase 5: Deployment Phase (Week 32-34)</td>
+          <td rowspan="2">Deployment of the System</td>
+          <td>Deployment of the System to Production Environment(Week 32-33)</td>
+          <td>Deploys the application to the production environment</td>
+          <td>Main Developer</td>
+        </tr>
+        <tr>
+          <td>Deployment Document(Week 34)</td>
+          <td>Drafts a deployment document that includes the deployment process and any post-deployment support plans.</td>
+          <td>Documentation Specialist</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Phase 6: Maintenance Phase (Week 35-42)</td>
+          <td rowspan="2">Maintenance & Support of the System</td>
+          <td>Deployment of the System to Production Environment(Week 35-48)</td>
+          <td>Provides ongoing maintenance and support for the system.</td>
+          <td>Main Developer</td>
+        </tr>
+        <tr>
+          <td>Updated Documentation (Week 39-42)</td>
+          <td>Updates the documentation based on any changes to the application or its environment.</td>
+          <td>Documentation Specialist</td>
         </tr>
       </tbody>
     </table>
