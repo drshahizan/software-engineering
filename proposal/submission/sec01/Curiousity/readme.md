@@ -476,14 +476,16 @@ Note: All costs mentioned above are estimates and are subject to change based on
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 10. Technical Specifications:
-Technical specifications are essential for ensuring the success of any system development. They outline the technical requirements and constraints of a syste., ensuring everyone involved has a common understanding of the goals, scope, and deliverables. Table below shows the technical specifications of the KTDI Event Management System:
+Technical specifications are essential for ensuring the success of any system development. They outline the technical requirements and constraints of a syste, ensuring everyone involved has a common understanding of the goals, scope, and deliverables. 
+
+The table below shows the technical specifications of the KTDI Event Management System:
 
 <table>
   <tr>
     <th align= "left">Data sources</th>
     <td>
       <ul>
-        <li>Event data which includes information about the event itself, such as the date, time, location and event type.</li>
+        <li>Event data which includes information about the event itself, such as the date, time, location.</li>
 <li> Personal data which includes the required login information such as name and password.
       </ul>
     </td>
@@ -506,7 +508,7 @@ Technical specifications are essential for ensuring the success of any system de
     <th align= "left">Software requirements</th>
     <td>
       <ul>
-        <li>Operating System: Windows, MacOS（Allows users to view and store files, run the software, and provide a way to connect the website by using the Internet.）, Linux（Handles the operations of the application）</li>
+        <li>Operating System: Windows, MacOS（Allows users to view and store files, run the software, and provide a way to connect the website by using the Internet）, Linux（Handles the operations of the application）</li>
         <li>Web Server: Apache（A free and open-source web server that delivers web content）</li>
         <li>Language Used: HTML（Used for webpages creation）, JavaScript（Used for creation of more dynamic interactions when developing webpages）, CSS（Used for controlling the layout of multiple webpages in a once  ）, or PHP（Works with Apache to help create dynamic web contents）</li>
         <li>Integrated Development Environment (IDE): Visual Studio Code （Code Editor）, Github （Collaboration of a group of system developers to manage and oberseve the updated code）</li>
