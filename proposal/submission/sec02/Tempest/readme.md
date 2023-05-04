@@ -160,6 +160,52 @@ ANALYTICS AND REPORTING (Google Analytics/Power BI/Tableau)
 
 ```
 
+### Block Diagram
+``` sql
+        +-----------------------+
+        |     User Interface     |
+        +-----------------------+
+                    |
+                    |
+                    v
+       +-------------------------+
+       |    Application Layer    |
+       +-------------------------+
+                    |
+                    |
+                    v
+       +-------------------------+
+       |   Business Logic Layer   |
+       +-------------------------+
+                    |
+                    |
+                    v
+       +-------------------------+
+       |     Data Access Layer    |
+       +-------------------------+
+                    |
+                    |
+                    v
+        +-----------------------+
+        |      Database         |
+        +-----------------------+
+
+
+```
+This block diagram shows the main components of the system architecture:
+
+User Interface: This layer includes the graphical user interface (GUI) of the system, which allows users to interact with the system and perform various actions.
+
+Application Layer: This layer is responsible for handling user requests and processing data inputs. It includes the middleware, web server, and other software components necessary to manage user interactions.
+
+Business Logic Layer: This layer includes the core business logic of the system, which determines how data is processed and how the system responds to user requests.
+
+Data Access Layer: This layer is responsible for accessing and manipulating data in the system's database.
+
+Database: This layer includes the system's database, which stores data and information related to the system's users, bookings, payments, and other relevant data.
+
+Overall, the block diagram shows how the different components of the system are connected and how data flows between them to enable the system to perform its functions.
+
 ## 8. Risks Assessment:
 Many types of risks may happen during or after the system being develop or done, one of it is technical risks such as data loss, that can happen if the sytem crash or the program crash during the developing time. Another risk is resourse risk such as insufficient resources to continue the project that might cause a delay to the development process and might not achieve the date line being set. Requirement risk is one of risk that could during the project process as the requirements of the projects might change after a few discussion that lead to reconstruct a new developing path as we need to change or adding a few requirements, misunderstanding in requirements being discussed also could cause a problem as the system will be develop another way and lead to error in system's development.
 
