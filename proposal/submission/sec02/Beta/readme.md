@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 #  Proposal
 
-## FOOD ORDERING SYSTEM IN UTM
+## FOOD ORDERING SYSTEM AT ARKED ANGKASA (UTM)
 
 
 ### Prepared by: <stakeholder>
@@ -263,6 +263,91 @@ Total Estimated Cost: RM 1,900,000
 - Integration: The system should have the capability to integrate with third-party services such as social media platforms and payment services to provide a seamless user experience.
 
 ## 11. Timeline and Deliverables: 
+
+### Phase 1: Planning and Analysis (Week 1-2)
+
+- Conduct a feasibility study to identify the need for a food ordering system and how it can benefit your university
+- Write a project proposal outlining the objectives, scope, and expected outcomes of the project
+- Assemble a project team and allocate roles and responsibilities
+- Identify the key stakeholders and gather their input and feedback
+- Create a project plan outlining timelines, milestones, and deliverables
+
+### Milestones and Deliverables:
+
+- Feasibility study report
+- Project proposal
+- Project team assembled with assigned roles
+- Project plan
+
+### Resources Required:
+
+- Feasibility study report templates
+- Project management software
+- Collaboration tools for remote communication
+
+### Phase 2: Design and Prototyping (Week 3-6)
+
+- Define user requirements and functional specifications
+- Create wireframes, mockups, or prototypes of the user interface design
+-Define the database schema and architecture
+- Identify the technical specifications and choose the appropriate technologies and frameworks
+- Conduct user testing and gather feedback to refine the design
+  
+### Milestones and Deliverables:
+
+- User requirements and functional specifications document
+- User interface design prototypes or mockups
+- Database schema and architecture document
+- Technical specifications and framework choices document
+
+###Resources Required:
+
+- Wireframing and prototyping tools
+- Collaboration tools for remote communication
+- Database design software
+- Technical specification templates
+
+### Phase 3: Development and Testing (Week 7-11)
+
+- Implement frontend and backend functionalities based on the design and technical specifications
+- Develop the payment gateway and order management system
+- Test the system to ensure its functionality, security, and performance
+- Fix bugs and errors based on user feedback
+
+### Milestones and Deliverables:
+
+- Fully functional food ordering system
+- Payment gateway integration
+- Order management system
+- Test cases and bug reports
+
+###Resources Required:
+
+- Web development frameworks and tools
+- Payment gateway integration software
+- Testing software and tools
+- Collaboration tools for remote communication
+
+### Phase 4: Documentation and Deployment (Week 12-14)
+
+- Write the software requirements specification (SRS), software design document (SDD), and software testing document (STD)
+- Deploy the system on a web server or cloud platform
+- Provide user training and support
+- Establish a maintenance plan and bug fixing
+
+### Milestones and Deliverables:
+
+- SRS, SDD, and STD documents
+- Deployed food ordering system
+- User manuals and maintenance plan
+- Support documentation
+
+###Resources Required:
+
+- Documentation templates
+- Web hosting or cloud platform
+- User training materials
+- Collaboration tools for remote communication
 
 
 ## 12. Conclusion:
