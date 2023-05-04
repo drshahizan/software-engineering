@@ -75,10 +75,12 @@ In final analysis, the proposed Student Health and Wellness System is a broad, b
 #### Goal of Software Model Process
 The purposes of having goal of sofware process model is to provides high-quality, dependable, and maintainable software. Software process model aims to define the outlines of the procedures, actions, and activities needed to create websites , from gathering requirements to testing, releasing, and maintaining the website.
 <br>
+<br>
 The Agile methodology is the optimal software process model for the proposed academic course registration system. This methodology focuses on providing a minimum viable product (MVP) during sprint development cycles and is characterised by iterative and incremental development. Feedback and interaction between the development team and stakeholders followed by the Software Process Model , allowing the team to quickly adjust to shifting priorities and requirements.
 <br>
+<br>
 Agile methodology is most suitable for this project because it guarantees short time communication of a functional registration system while providing chances and interaction to stakeholder feedback. Additionally, framework is provided for analysing project risks for control and guaranteeing that outstanding performance and quality for whole development process.
-
+<br>
 
 
 
@@ -86,24 +88,24 @@ Agile methodology is most suitable for this project because it guarantees short 
     <img src="https://user-images.githubusercontent.com/128198038/236096082-51d056d1-9632-4b82-92b3-56aaa06f1566.png" alt="alt text" />
 </div>
 
-#### Gathering Requirements:
-- Find and identify the best stakeholders. For examples, administrative personnel, medical professionals, and students.
-- Determine which features are necessary and which may be added later by analysing and prioritising the requirements.
-- Gather requirements from stakeholders using surveys, focus populations and interviews.
-- Plan a product backlog with a list of all the features and specifications.
+#### Gathering Requirements Phase:
+- Find and identify the best stakeholders. For examples, PKU UTM administrative personnel, PKU UTM medical professionals, and UTM students.
+- Determine which features are necessary for Student Health and Wellness Management System and which may be added later by analysing and prioritising the requirements. For instances, health tips, SOS emergency call button, Dental Pre-appointment Form and Online Mental Consultation.
+- Gather requirements from stakeholders by explaning surveys questions, focus populations and interviews.
+- Plan a product backlog with a list of all the features and specifications needed for Student Health and Wellness Management System.
 
-#### Planning a sprint:
+#### Planning Phase:
 - Examine the product backlog and make decision on which features will be selected in the following sprint.
 - Define a sprint backlog with the precise activities and user stories that must be performed during the sprint, and determine the sprint goals.
 - Assign tasks to team members followed by determine the required work loads for each members.
 
-#### Sprint Development:
+#### Sprint Development Phase:
 - Create the features and elements of the website that are included in the sprint backlog.
 - Organising meetings forprogress discussion, track team efforts, and identify problems.
 - Integrate and test continuously to make sure the website is operating as intended.
 - Documentation of website is adequated and code is routinely checked.
 
-#### Sprint Review:
+#### Sprint Review Phase:
 - Receive feedback from stakeholders by presenting the developed features.
 - Review the sprint objectives and goal achieved.
 - Identify the problems of the website that need to be improved or developed further.
@@ -111,7 +113,7 @@ Agile methodology is most suitable for this project because it guarantees short 
 - Change the development process as needed to increase effectiveness and efficiency.
 - Discuss achievements, difficulties, and ways for improvement.
 
-#### Deployment and Maintenance
+#### Deployment and Maintenance Phase
 - Launch the website in a live environment.
 - Users should receive training for user manual for better utilisation of the website.
 - Track the performance of the website, solve existed problems. Receive feedback from users and update the website as needed.
@@ -269,7 +271,7 @@ In conclusion, the potential risks that might face during the development and ma
 </table>
 
 ### 11. Timeline and Deliverables: 
-<img src="https://user-images.githubusercontent.com/128159572/236125262-7699f4cb-7898-4877-8a3e-656ecfff8fbc.jpeg">
+<img src="https://user-images.githubusercontent.com/128159572/235585376-b25f2b58-b38e-43a6-be29-42e555828e48.jpeg">
 
 | Milestones                     | Deliverables                                 | Timeframe         |
 | ------------------------------ | -------------------------------------------- | ----------------- |
