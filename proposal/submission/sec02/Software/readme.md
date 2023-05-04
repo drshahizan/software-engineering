@@ -162,7 +162,7 @@ In conclusion, the estimated budget is **RM 550,000** which covers the costs for
 
 
 ### 8. Risks Assessment:
-In general, every project can be influenced by risk so they required a special assessment procedure of the potential risks that could lead to the project's failure or loss if they occur. To develop a student health and wellness management website, the possible risks are: \
+In general, every project can be influenced by risk so they required a special assessment procedure of the potential risks that could lead to the project's failure or loss if they occur. To develop a student health and wellness management website, the possible risks are: 
 | Potential Risks                     | Explanations                                        | Mitigations         |
 | ------------------------------ | -------------------------------------------- | ----------------- |
 | **Security risks**              | The website may contain sensitive information such as student health information like lab test results which could be targeted by hackers. This could result in the theft of personal medical information, leading to identity theft and other forms of fraud.   | <ul><li>Implementing robust security measures such as SSL certificates, two-factor authentication, encryption and frequent website security updates. </li> <li>Constantly evaluating the website's security to find any weaknesses.</li></ul> |
