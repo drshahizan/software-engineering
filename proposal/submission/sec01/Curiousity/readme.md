@@ -308,7 +308,7 @@ Also known as structural testing, is a testing technique where the tester is awa
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 6. Budget:
-The development of the academic course registration system for 50 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at **RM 1,074,000**, as outlined below:
+The development of the KTDI Event Management System for 50 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at **RM 1,074,000**, as outlined below:
 
 - **Hardware Costs: RM 400,000** <br>
 This includes the cost of servers, storage, networking equipment, and other hardware required to support the system. This cost will vary depending on the specific hardware configuration chosen, but it is essential to ensure that the system can handle the expected number of users and data volumes.
@@ -449,7 +449,7 @@ The block diagram for the proposed system architecture is as follows:
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 9. Resources:
-To successfully deliver the KTDI event management system, the following resources are required:
+To successfully deliver the KTDI Event Management System, the following resources are required:
 
 **Staff**
 - 1 Project Manager: RM 84,000/project
