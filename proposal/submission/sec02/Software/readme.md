@@ -126,11 +126,11 @@ Agile methodology is most suitable for this project because it guarantees short 
 - The duration of this phase after week 15, KOH SU XUAN as Quality Assurance Testor responsible for tracking process from time-to-time.
 
 ### 6. Budget:
-For the student health and wellness management website which involves around 2000 users in Kolej Tun Dr. Ismail (KTDI), the estimated budget is **RM 550,000**. The budget includes the costs for 6 months of development and 6 months of maintenance for the website.
-- Hardware: **RM 35,000**\
+For the student health and wellness management website which involves around 2000 users in Kolej Tun Dr. Ismail (KTDI), the estimated budget is **RM 570,000**. The budget includes the costs for 6 months of development and 6 months of maintenance for the website.
+- Hardware: **RM 45,000**\
 This could include purchasing or renting servers, storage devices, networking equipment, computers and other hardware necessary for the development and maintenance of the website. The cost might differ depending on the latest requirements of the website and the hardware components chosen.
 
-- Software: **RM 30,000**\
+- Software: **RM 10,000**\
 This could include purchasing or licensing software such as operating systems, web development tools, and security software. The cost of software might differ depending on the latest requirements of the website, the number of licenses required, and the software tools and platforms chosen. To save on software costs, an open-source solution like the MySQL and PHP (LAMP) stack is a suitable alternative, with no cost initially required.
 
 - Testing: **RM 15,000**\
@@ -142,13 +142,13 @@ This could include post-launch support and bug fixes for 6 months after the webs
 - Security: **RM 20,000**\
 This might involve setting in place security measures like firewalls, encryption and frequent security audits to safeguard user data and prevent any cyberattacks. The cost of security implementation might differ based on the website needs as well as the providing services chosen.
 
-- Personnel: **RM 340,000**\
+- Personnel: **RM 370,000**\
 This could include salaries or fees for the development team members such as developer,user experience designer, quality assurance tester, documentation specialists and requirements analyst designer. The cost for a development team will vary according to their expertise and skill.
 
 - Contingency: **RM50,000**\
 This could include additional funds set aside for any potential expenses or changes in project scope that might occur throughout the website's development and maintenance phases. Such a budget can assist with dealing with possible delays, revisions in the project's scope or any other sudden changes that need additional financial resources. 
 
-In conclusion, the estimated budget is **RM 550,000** which covers the costs for hardware, software, testing, maintenance, security, personnel and contingency. Any potential budget alterations must be relayed to stakeholders and project sponsors.
+In conclusion, the estimated budget is **RM 570,000** which covers the costs for hardware, software, testing, maintenance, security, personnel and contingency. Any potential budget alterations must be relayed to stakeholders and project sponsors.
 
 ### 7. System Architecture:
 #### Presentation Layer:
@@ -176,7 +176,7 @@ In conclusion, the estimated budget is **RM 550,000** which covers the costs for
 
 ### 8. Risks Assessment:
 In general, every project can be influenced by risk so they required a special assessment procedure of the potential risks that could lead to the project's failure or loss if they occur. To develop a student health and wellness management website, the possible risks are: 
-| Potential Risks                     | Explanations                                        | Mitigations         |
+| Potential Risks                     | Explanations                                        | Plans/Strategies         |
 | ------------------------------ | -------------------------------------------- | ----------------- |
 | **Security risks**              | The website may contain sensitive information such as student health information like lab test results which could be targeted by hackers. This could result in the theft of personal medical information, leading to identity theft and other forms of fraud.   | <ul><li>Implementing robust security measures such as SSL certificates, two-factor authentication, encryption and frequent website security updates. </li> <li>Constantly evaluating the website's security to find any weaknesses.</li></ul> |
 | **Technical risks**         | The website may experience technical issues such as system failures, compatibility issues and downtime. | <ul><li>Utilizing tools and technologies that are industry standard, carrying out extensive testing and quality assurance throughout the development process. </li> <li>Making sure that the website is scalable and can manage possible increases in user numbers and data volume.</li></ul>    |
@@ -187,30 +187,66 @@ In general, every project can be influenced by risk so they required a special a
 In conclusion, the potential risks that might face during the development and maintenance of student health and wellness website are security risks, technical risks, user experience risks, compliance risks and budget and timeline risks. To ensure the creation of a successful student health and wellness website, a complete risk assessment should be carried out in order to identify, evaluate and address any potential concerns.
 
 ### 9. Resources:
-- **Staff Resources** : 
+a. **Staff Resources** : 
   - Main Developer : Goh Jiale
+    - RM 150,000/year
     - Mainly responsible for designing and developing the website as well as troubleshooting and fixing issues
   - User Experience Designer : Lee Yik Hong
+    - Rm 65,000/year
     - Mainly responsible for designing user interface and user flows 
   - Quality Assurance Tester : Koh Su Xuan
+    - RM 45,000/year
     - Mainly responsible for developing test plans and scenarios
   - Requirements Analyst : Ong Yi Yan
+    - RM 55,000/year
     - Mainly responsible for gathering and analyzing the requirements from stakeholders 
   - Documentation Specialists : Tang Yan Qing
+    - RM 35,000/year
     - Mainly responsible for developing user manuals and system documentation
+<p>Total Staff Cost: RM 370,000/year</p>
 
-- **Hardware Resources** :
+b. **Hardware Resources** :
   - Computer and laptop for each team member
+    - RM 40,200/year
   - Internet connectivity
+    - RM 2,500/year
   - Servers for hosting the website
+    - RM 1,500/year
+  - Security and backup
+    - RM 800/year
+<p>Total Hardware Cost: RM 45,000/year</p>
 
-- **Software Resources** :
-  - **Visual Studio Code**: Used for editing code to develop the website. It includes a variety of extensions such as live server which can help to speed up the development process.
-  - **GitHub**: Used for collaborating with other members during the development of the website. It provides tools such as code hosting which make it simpler for teams to collaborate on projects
-  - **Bootstrap Studio**: Used for developing the interface of the website. It provides a big library of pre-built components which makes it simpler to develop a user-friendly and aesthetically pleasing website
+c. **Software Resources** :
+  - Visual Studio Code
+    - RM 0/year
+    - Used for editing code to develop the website. It includes a variety of extensions such as live server which can help to speed up the development process.
+  - GitHub
+    - RM 0/year
+    - Used for collaborating with other members during the development of the website. It provides tools such as code hosting which make it simpler for teams to collaborate on projects
+  - Bootstrap Studio
+    - RM 0/year
+    - Used for developing the interface of the website. It provides a big library of pre-built components which makes it simpler to develop a user-friendly and aesthetically pleasing website
+  - Web server
+    - RM 2,500/year
+    - Used for hosting the website
+  - Relational Database Management System (RDBMS)
+    - RM 4,000/year
+    - Used for managing the database for the website
+  - Cloud Service
+    - RM 35,00/year
+    - Used for providing access to computing resources over the internet
+<p>Total Software Cost: RM 10,000/year</p>
 
-- **Other Resources** :
-  - Cloud services
+d. **Other Resources** :
+  - Testing fees
+    - RM 15,000/year
+  - Maintenance fees
+    - RM 60,000/year
+  - Security fees
+    - RM 20,000year
+  - Contingency fees
+    - RM 50,000/year
+<p>Total Other Cost: RM 145,000/year</p>
 
 ### 10. Technical Specifications:
 <table>
