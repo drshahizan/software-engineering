@@ -112,7 +112,7 @@ The proposed software process model for the parcel system will allow for a struc
 
 ### 6. Budget:
 
-
+In general, the cost of developing a basic parcel delivery system in Malaysia can range from RM 20,000 to RM 50,000. This would include basic features such as user registration, package tracking, and payment processing.
 
 ### 7. System Architecture:
   
