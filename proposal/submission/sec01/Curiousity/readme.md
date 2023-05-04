@@ -772,6 +772,9 @@ One limitation of this system is that it is only accessible to JKM, office staff
 Overall, the proposed system offers significant advantages over traditional methods of event management, improving efficiency and reducing the workload for event organisers.
 
 </body>
+
+<hr style="border:0.5px solid gray;height:0.5px;">
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
