@@ -267,7 +267,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
     </table>
 
 ### Testing Methodologies: 
-The testing methodologies that will be used are black-box testing, white-box testing, and grey-box testing.
+The testing methodologies that will be used are black-box testing and white-box testing.
 
 * <b>Black-box testing</b>:
 Also referred to as functional testing or behavioural testing, is a testing technique where the tester is unaware of the internal workings of the system being tested. The tester in this method only has access to the system's inputs and outputs, and they test the system's functionality in accordance with its specifications and requirements. In the case of the KTDI event management system, the end-users such as JKM KTDI, KTDI college office staff, and fellow members will conduct this kind of testing.
@@ -717,16 +717,22 @@ The development team of this project will create test cases and scenarios to cov
 
 The overall testing procedure will be:
 - 1. Black-box testing (to validate the system's functionality and behavior)
+
 This is carried out by end-users such as JKM KTDI, KTDI college office staff, and fellow members who are not aware of the internal workings of the system. They test the system's functionality based on its specifications and requirements, using only its inputs and outputs.
 - 2. White-box testing (to validate the system's internal components, such as code or algorithms)
+
 This is carried out by developers or testers with access to the source code of the system being tested. This testing method involves running tests on the system's internal components to ensure they work as intended. The KTDI event management system team members will perform white-box testing.
 - 3. System testing (conduct system testing to validate the system as a whole)
+
 This involves testing the entire system as a whole to ensure it meets the specified requirements and functions as expected. The KTDI event management system team members will carry out system testing, testing various aspects of the system, including the user interface, location booking system, paperwork management processes, and other key features.
 - 4. Performance Testing (conduct performance testing to validate the system's performance under different scenarios)
+
 Performance testing assesses how well the system performs under various loads and stresses. It involves creating realistic scenarios to test the system's throughput, response time, and resource usage under various user activity levels. The KTDI event management system team members are responsible for performance testing, using specialised tools and software to measure a variety of metrics, including server response time, page load time, and network latency. The system's performance will be optimised based on the performance testing results, any performance problems will be found, and the system's ability to handle the anticipated workload will be confirmed.
 - 5. Analyse Results and Report Defects (Analyse the results of testing and report any defects or issues found)
+
 The development team of this project will work closely with the documentation specialist to create test reports summarising the results of testing, including any defects or issues found during the testing process. These reports will be used to monitor the testing's progress and ensure that the system is meeting the required quality standards. Any defects or issues found will be reported to the development team for resolution. The documentation specialist will be responsible for ensuring that all test reports are accurate and up-to-date.
 - 6. Retest and Validate Fixes 
+
 Retest any defects or issues found after they have been fixed by the development team. The testing team will verify that all defects and issues have been resolved before signing off on the system's release.
 - 7. Sign-Off: Sign off on the system's release after all testing is complete and all defects have been resolved.
 
@@ -734,21 +740,27 @@ Quality Assurance Procedure
 
 
 - 1. Testing Activities:
+
 Perform black-box testing, white-box testing, and system testing to ensure the software meets quality standards and stakeholder requirements.
 Document all test results, including any defects or issues found during testing.
 - 2. Test Reports:
+
 The documentation specialist is responsible for creating test reports summarising any issues found during testing and monitoring the testing progress.
 Use the test reports to ensure the software is upholding the necessary quality standards.
 - 3. Unit Testing:
+
 The main developer and team members will perform unit testing to test individual units or components of the system in isolation.
 Ensure each unit of the system is working as intended and free of defects or errors in the code.
 - 4. Code Reviews:
+
 The main developer and team members will perform code reviews to identify defects or errors in the code and ensure the code is consistent with the project's coding standards and guidelines.
 - 5. Continuous Integration:
+
 Integrate code into a shared repository as part of the software development practice known as continuous integration.
 Ensure that the code is properly integrated and that any problems or conflicts are quickly found and fixed.
 Ensure the system operates as intended and complies with the necessary quality standards.
 - 6. Analyse Results and Report Defects:
+
 Analyse the results of testing and report any defects or issues found.
 Report defects to the development team for resolution
 
