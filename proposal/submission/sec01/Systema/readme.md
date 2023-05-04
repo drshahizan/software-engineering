@@ -174,7 +174,7 @@ Here is the phases of agile model that can be applied to the development of a st
 </ul>
 
 ### 6. Budget
-The development of a student engagement system for approximately 40,000 students will involve various costs, including hardware, software, personnel, testing, and contingency. The budget for this project is estimated at **RM 4,000,000**, as outlined below:
+The development of a student engagement system for approximately 40,000 users will involve various costs, including hardware, software, personnel, testing, and contingency. The budget for this project is estimated at **RM 4,000,000**, as outlined below:
 </p>
 
 #### Hardware: RM 1,200,000
@@ -185,16 +185,16 @@ The development of a student engagement system for approximately 40,000 students
 #### Software: RM 800,000
 - The software budget includes the cost of purchasing and licensing software tools and platforms required for the development of the student engagement system, such as communication and collaboration tools.
 - The software licenses should be carefully selected to ensure compatibility, functionality, and security.
-- The software should also be user-friendly and easy to navigate to ensure engagement and adoption by students.
+- The software should also be user-friendly and easy to navigate to ensure engagement and adoption by the users of the student engagement system.
 
 #### Personnel: RM 1,800,000
 - The personnel budget includes the cost of salaries and benefits for the development team, including the project manager, system analyst, programmers, and testers.
-- The development team should have experience and expertise in developing student engagement systems, with a focus on creating user-friendly and engaging systems that promote collaboration and communication among students.
+- The development team should have experience and expertise in developing student engagement systems, with a focus on creating user-friendly and engaging systems that promote collaboration and communication among students, and other features of the student engagement system.
 - The development team should also have expertise in data analysis and visualization to ensure that the system is able to track and analyze student engagement metrics effectively.
 
 #### Testing: RM 150,000
 - The testing budget includes the cost of conducting functional, performance, and security testing of the student engagement system.
-- The testing should include user acceptance testing to ensure that the system meets the needs and expectations of students.
+- The testing should include user acceptance testing to ensure that the system meets the needs and expectations of users.
 - The testing should also include stress testing to ensure that the system is able to handle a large number of users without performance issues.
 
 #### Contingency: RM 150,000
