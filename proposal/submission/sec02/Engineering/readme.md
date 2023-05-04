@@ -176,7 +176,7 @@ Overall, a thorough risk assessment should be conducted to identify and mitigate
 
 ### 10. Technical Specifications:
   
-1. Hardware Requirements:
+1. **Hardware Requirements:**
 
   - A reliable server or cloud hosting service capable of handling a large volume of traffic
   - Sufficient storage space for storing user data, package information, and payment details
@@ -184,7 +184,7 @@ Overall, a thorough risk assessment should be conducted to identify and mitigate
   - A network infrastructure capable of supporting the system's traffic and data transfer needs
   - Hardware devices such as scanners or printers may also be required for package tracking and label printing
 
-2. Software Requirements:
+2. **Software Requirements:**
 
   - A server-side programming language such as Python, PHP, or Java for building the back-end of the system
   - A database management system such as MySQL, PostgreSQL, or Microsoft SQL Server for storing system data
@@ -194,7 +194,7 @@ Overall, a thorough risk assessment should be conducted to identify and mitigate
   - Testing frameworks and tools such as Jest, Mocha, or Selenium for ensuring system reliability and functionality
   - Security tools and frameworks such as OWASP, SSL, or HTTPS for protecting user data and payment information
 
-  3. Data security measures that will be implemented.
+  3. **Data security measures that will be implemented.**
   
   - Secure authentication: The system should implement secure authentication measures to ensure that only authorized users have access to the system. This can include measures such as multi-factor authentication, strong password policies, and session timeouts.
 
@@ -210,13 +210,13 @@ Overall, a thorough risk assessment should be conducted to identify and mitigate
 
 - Regular software updates: Regular software updates should be implemented to ensure that the system is protected against known vulnerabilities and security threats. Updates should be tested thoroughly before being deployed to ensure that they do not break any functionality or compromise data security.
 
- 4. Data sources:
+ 4. **Data sources:**
   The parcel delivery system will require data from various sources, including user data, package information, and payment details. User data may be sourced from the university's student and staff databases, while package information may be sourced from the courier or delivery services used by the university. Payment details may be sourced from payment gateways used by the system.
 
-5. Data schema:
+5. **Data schema:**
   The data schema is the structure of the database that stores the system's data. The data schema should be designed to be efficient and secure, and should be able to handle a large volume of data. The schema should include tables for storing user data, package information, and payment details, as well as any other data required by the system.
 
-6. Data transformations:
+6. **Data transformations:**
   Data transformations may be necessary to ensure that data is stored and processed correctly in the system. For example, data may need to be transformed to conform to a specific format or standard, or to remove any errors or inconsistencies in the data. Data transformations may be performed using tools such as ETL (Extract, Transform, Load) or data mapping software.
   
 ### 11. Timeline and Deliverables: 
