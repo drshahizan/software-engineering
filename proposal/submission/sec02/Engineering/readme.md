@@ -98,7 +98,7 @@ The proposed scope for the parcel system is expected to provide numerous benefit
 
 ![Agile Method](https://miro.medium.com/v2/resize:fit:1024/1*dGbdNhomubFlfvEPrQrGNQ.png)
 
-![UML Diagram](https://github.com/nikzulaikhaa/spm/blob/main/uml%20diagram.PNG)
+![UML Diagram]([https://github.com/nikzulaikhaa/spm/blob/main/uml%20diagram.PNG](https://github.com/nikzulaikhaa/myPicture/blob/main/uml%20diagram.PNG))
 
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Engineering/1.drawio.png"></img>
 
