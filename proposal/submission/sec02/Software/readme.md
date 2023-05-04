@@ -75,6 +75,7 @@ In final analysis, the proposed Student Health and Wellness System is a broad, b
 #### Goal of Software Model Process
 The purposes of having goal of sofware process model is to provides high-quality, dependable, and maintainable software. Software process model aims to define the outlines of the procedures, actions, and activities needed to create websites , from gathering requirements to testing, releasing, and maintaining the website.
 <br>
+The Agile methodology is the optimal software process model for the proposed academic course registration system. This methodology focuses on providing a minimum viable product (MVP) during sprint development cycles and is characterised by iterative and incremental development. Feedback and interaction between the development team and stakeholders followed by the Software Process Model , allowing the team to quickly adjust to shifting priorities and requirements.
 
 
 
