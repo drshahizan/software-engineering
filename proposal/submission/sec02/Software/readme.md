@@ -78,16 +78,40 @@ In final analysis, the proposed Student Health and Wellness System is a broad, b
 
 ### 5. Software Process Model:
 #### Gathering Requirements:
--Find and identify the best stakeholders. For examples, administrative personnel, medical professionals, and students.
--Determine which features are necessary and which may be added later by analysing and prioritising the requirements.
--Gather requirements from stakeholders using surveys, focus populations and interviews.
--Plan a product backlog with a list of all the features and specifications.
+- Find and identify the best stakeholders. For examples, administrative personnel, medical professionals, and students.
+- Determine which features are necessary and which may be added later by analysing and prioritising the requirements.
+- Gather requirements from stakeholders using surveys, focus populations and interviews.
+- Plan a product backlog with a list of all the features and specifications.
 
-#### Planning a sprint
--Examine the product backlog and make decision on which features will be selected in the following sprint.
--Define a sprint backlog with the precise activities and user stories that must be performed during the sprint, and determine the sprint goals.
--Assign tasks to team members followed by determine the required work loads for each members.
+#### Planning a sprint:
+- Examine the product backlog and make decision on which features will be selected in the following sprint.
+- Define a sprint backlog with the precise activities and user stories that must be performed during the sprint, and determine the sprint goals.
+- Assign tasks to team members followed by determine the required work loads for each members.
 
+#### Sprint Development:
+- Create the features and elements of the website that are included in the sprint backlog.
+- Organising meetings forprogress discussion, track team efforts, and identify problems.
+- Integrate and test continuously to make sure the website is operating as intended.
+- Documentation of website is adequated and code is routinely checked.
+
+#### Sprint Review:
+- Receive feedback from stakeholders by presenting the developed features.
+- Review the sprint objectives and goal achieved.
+- Identify the problems of the website that need to be improved or developed further.
+
+#### Sprint Retrospective:
+- Review the sprint process with the development team for improvement.
+- Change the development process as needed to increase effectiveness and efficiency.
+- Discuss achievements, difficulties, and ways for improvement.
+
+#### Deployment and Maintenance
+- Launch the website in a live environment.
+- Users should receive training for user manual for better utilisation of the website.
+- Track the performance of the website, solve existed problems. Receive feedback from users and update the website as needed.
+
+#### Continual Development
+- Analysing user activities for user patterns and improvements needed.
+- Apply the agile methodology to iterate on new website features and enhancements.
 
 ### 6. Budget:
 For the student health and wellness management website which involves around 2000 users, the estimated budget is **RM 550,000**. The budget includes the costs for 6 months of development and 6 months of maintenance for the website.
