@@ -715,7 +715,7 @@ The development team of this project will create test cases and scenarios to cov
       </tbody>
     </table>
 
-The overall testing procedures will be:<br>
+The overall testing procedures will be:<br><br>
 <b>1. Black-Box Testing</b> (To validate the system's functionality and behaviour):<br>
 This is carried out by end-users who are not aware of the internal workings of the system, such as JKM KTDI, KTDI college office staff, and fellow members. They test the system's functionality based on its specifications and requirements, using only its inputs and outputs.
 
