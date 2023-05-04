@@ -141,7 +141,7 @@ The agile process model was chosen because it enables frequent feedback and chan
 
 The Agile process model consists of the following phases:
 
-<img src="https://agilie.com/_next/image?url=/api/imageproxy?url=https%3A%2F%2Fd12zh9bqbty5wp.cloudfront.net%2Fimages%2Ff9e66e179b6747ae54108f82f8ade8b3c25d76fd30afde6c395822c530196169-1674685166733.png&w=1920&q=75" alt="Agile"></img>
+<img src="https://agilie.com/_next/image?url=/api/imageproxy?url=https%3A%2F%2Fd12zh9bqbty5wp.cloudfront.net%2Fimages%2Ff9e66e179b6747ae54108f82f8ade8b3c25d76fd30afde6c395822c530196169-1674685166733.png&w=1920&q=75" alt="Agile" height="500px"></img>
 
 #### 1. Planning Phase: 
 During this stage, the project manager will establish the project's scope, objectives, and goals while taking into account the requirements of the stakeholders. The team will create a product backlog that prioritises the system's features or requirements, and defines milestones, deadlines, and checkpoints. This will ensure that the project stays on track and within the set timeline.
@@ -395,7 +395,7 @@ The Staff Office KTDI, Fellow, and Assistant Fellow interfaces can view whether 
     </table>
 
 The block diagram for the proposed system architecture is as follows:
-<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Curiousity/system%20architecture.png" alt="SystemArchitecture"></img>
+<img src="system_architecture_dg.jpg" alt="SystemArchitecture"></img>
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
