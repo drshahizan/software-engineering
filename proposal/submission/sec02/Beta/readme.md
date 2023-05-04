@@ -37,7 +37,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Conclusion](#12-conclusion)
   
 ## 1. Executive Summary
-  The food industry is one of the most promising sectors, with the ever-increasing demand for online food ordering systems. The food ordering system provides a convenient and efficient way for customers to order food from their preferred restaurants with minimal effort. This system also benefits restaurant owners as they can manage their orders and track their sales efficiently.
+The food industry is one of the most promising sectors, with the ever-increasing demand for online food ordering systems. The food ordering system provides a convenient and efficient way for customers to order food from their preferred restaurants with minimal effort. This system also benefits restaurant owners as they can manage their orders and track their sales efficiently.
 
 Our food ordering system is a user-friendly, scalable, and secure solution that allows customers to order food online and pay through various payment methods. Our system also includes a user-friendly dashboard for restaurant owners to manage their menu, inventory, and order fulfillment process efficiently.
 
@@ -46,7 +46,7 @@ Our system utilizes the technologies to ensure reliability, security, and perfor
 Overall, our food ordering system provides an efficient and reliable solution for customers to order food online at Arked Angkasa and for the restaurant owners to manage their business operations much more effectively.
 
 ## 2. Background:
-  The food industry has experienced significant growth in recent years, with more people opting for the convenience of online food ordering. With the rise of digital technologies and the increasing number of mobile devices, customers are looking for fast and easy ways to order food from their favorite restaurants.
+The food industry has experienced significant growth in recent years, with more people opting for the convenience of online food ordering. With the rise of digital technologies and the increasing number of mobile devices, customers are looking for fast and easy ways to order food from their favorite restaurants.
 
 Traditionally, ordering food required customers to visit a restaurant in person or call to place an order. This process was time-consuming and often resulted in errors in orders. Moreover, restaurants had to rely on manual processes to manage their orders and inventory, making it challenging to keep up with the demand.
 
@@ -54,13 +54,13 @@ The development of online food ordering systems has revolutionized the way peopl
 
 The COVID-19 pandemic has also contributed to the growth of the online food ordering industry, with many restaurants pivoting their business models to offer online ordering and delivery services. This has further accelerated the need for reliable and efficient food ordering systems.
 
-Overall, the food ordering system is a solution that addresses the growing demand for online food ordering especially in Arked Angkasa and provides a convenient and efficient way for customers to order food and for restaurant owners to manage their operations effectively.
+Overall, the food ordering system is a solution that addresses the growing demand for online food ordering especially in Arked Angkasa and provides a convenient and efficient way for customers such UTM students, staff and outsiders to order food and for restaurant owners to manage their operations effectively.
 
 
 ## 3. Objectives:
-  Our proposed **Food Ordering System** aims to achieve the following objectives:
+Our proposed **Food Ordering System** aims to achieve the following objectives:
  
-  1- Improve customer convenience: The primary objective of a food ordering system is to provide customers at Arked Angkasa with a convenient way to order food online. By providing an easy-to-use interface and various payment options, customers can quickly order their desired food items from the comfort of their homes, offices and hostel.
+1- Improve customer convenience: The primary objective of a food ordering system is to provide customers at Arked Angkasa with a convenient way to order food online. By providing an easy-to-use interface and various payment options, customers can quickly order their desired food items from the comfort of their homes, offices and hostel.
 
 2- Increase sales: A food ordering system can help restaurants increase their sales by providing them with an additional channel to reach customers. With an online ordering system, restaurants can expand their customer base, increase order volumes, and boost revenue.
 
@@ -69,7 +69,6 @@ Overall, the food ordering system is a solution that addresses the growing deman
 4- Streamline operations: By automating the ordering process, a food ordering system can help restaurants streamline their operations. This includes managing menus, inventory, and order fulfillment, which can improve overall efficiency and reduce operational costs.
 
 5- Improve customer experience: A food ordering system can help restaurants provide a better customer experience by offering features such as order tracking, personalized recommendations, and customer feedback. This can lead to increased customer satisfaction and loyalty.
-
 
 
 ## 4. Scope: 
@@ -87,7 +86,7 @@ The scope of a food ordering system can vary depending on the specific requireme
 
 - Feedback and Reviews : The system should allow customers to provide feedback and leave reviews for the restaurant and its dishes.
 
-- Admin Panel : The system should have an admin panel that enables the restaurant owner to manage the entire system, including users, menu items, and orders.
+- Admin Panel : The system should have an admin panel that enables the restaurant owner(Sdap Kitchen/Deen Corner) to manage the entire system, including users, menu items, and orders.
 
 - Mobile App : The system can have a mobile application that enables customers to place orders and track their orders on the go.
 
@@ -183,6 +182,17 @@ This component represents the database that the system uses to store and retriev
 
 ### Third-party integrations: 
 This component represents any third-party services or tools that the system uses, such as payment gateways, email services, or contact services. The system can integrate with these services to provide additional functionality and enhance the user experience.
+
+### Tools and technologies:
+- Node.js: a JavaScript runtime that allows for server-side scripting.
+- Express.js: a Node.js-based web framework that is used to build fast and scalable web applications.
+- HTML/CSS: the basic building blocks of web development that are used to structure and style web pages.
+- JavaScript: a programming language that is used to add interactivity and dynamic functionality to web pages.
+- React.js: a JavaScript library that is used to build interactive user interfaces.
+- MySQL: an open-source relational database management system that is commonly used in web development.
+- PostgreSQL: an open-source object-relational database management system that is known for its scalability and reliability.
+- Stripe: a payment gateway that allows businesses to accept payments online.
+- Google Cloud Platform (GCP): a cloud computing platform that provides scalable and flexible infrastructure for building, deploying, and managing applications.
 
 ## 8. Risk Assessment
 
