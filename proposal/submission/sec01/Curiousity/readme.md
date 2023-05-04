@@ -42,6 +42,7 @@ Our system offers a range of key features that assist our stakeholders in event 
 
 Additionally, our system enables JKM KTDI to distribute tasks to team members, allowing for efficient delegation and a smoother planning process. With our system's visible progress feature, event planners can track their team’s progress and stay on top of their goals throughout the planning process. Lastly, after the event is over, allow them to complete their activity with post-event reporting.
 
+Overall, our system is designed to make event planning and execution as seamless as possible, allowing JKM KTDI to focus on delivering a successful event.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
