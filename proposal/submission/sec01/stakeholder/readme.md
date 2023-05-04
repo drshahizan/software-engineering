@@ -41,6 +41,7 @@ Don't forget to hit the :star: if you like this repo.
 <div style="text-align:center;">
 <img src= "https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/stakeholder%20hamdan.jpg?raw=true" style="max-width:100%;">
 </div>
+
 ---
 
 ### Table of Contents
@@ -71,13 +72,17 @@ The expected outcomes of the project include improved students and also KTDI sta
 ---
   
 ### 2. Background
-The student accommodation system is an essential aspect of managing student life on a university campus. It automates the process of assigning student room and ensures that students are placed in suitable accommodations that meet their needs and preferences. The system is vital in providing a comfortable and safe living environment for students, promoting their academic success and overall well-being. However, the current unintegrated and unorganised system in KTDI can be time-consuming, prone to error and inconsistencies, leading to inefficiencies in the room application and management process and a poor user experience for both students and administrators.
+Managing student accommodations in Kolej Tun Dr Ismail (KTDI) is a complex and challenging task. The current process is less flexible for students and KTDI staffs when managing room applications, allocations, and rent payments is vulnerable, inconsistencies, and time-consuming for both students and KTDI staffs. Students face difficulties in selecting suitable rooms based on their preferences and accessibility, while KTDI staffs struggle with the workload of managing hundreds of applications and allocating rooms manually.
 
-Our proposed student accommodation system is focused to overcome these challenges via devloping a modern, spontaneous automated system that streamline the room rentaling and managing process. To provide students, staff, and administrators with a seamless user experience, the proposed system makes advantage of the most recent technology and best practises. The developed system will provide an efficient and effective way for students to apply for hostel online based on their selections and for administrators to allocate housing quickly and accurately.
+To solve these issues, we propose a modern and intuitive Student Accommodation System that automates the room selection process, from application to allocation, and provides a seamless experience for students and KTDI staffs. With the use of the latest technology and industry best practices, the system aims to simplify the process of applying for hostels online, selecting preferred rooms, and allocating suitable accommodations based on student preferences and accessibility needs.
 
-The key features of this system include a user-friendly interface that integrates with other university systems such as billing and student information, and enhanced data analysis capabilities to provide insights into occupancy rates, student preferences, and college merits. It also embraces features such as tracking maintenance requests, scheduling repairs and replacements, and ensuring compliance with safety regulations to ensure that student accommodations are well-maintained and safe. Thus, this system enables students to take control on their hostel selection and staff and administrators will additionally profit from enhanced room management, data analytics, and more effective working operation.
-  
-The student accommodation system features offer significant benefits for the university community, with the potential to impact the accommodation allocation process positively. The automation of the allocation process will increase efficiency, save time, and eliminate errors that often occur during manual allocation. The online application process will simplify the application process for students, creating a better user experience. The data analysis capabilities will allow administrators to make informed decisions about future housing allocation, resulting in a more strategic and effective approach. The enhanced security measures will protect students' personal information, improving privacy and security. The maintenance system will ensure the hostel remains well-maintained, creating a comfortable and safe living environment for students. Therefore, the student accommodation system features will improve the quality of the accommodation allocation process, streamline processes, improve the student experience, and enhance the reputation of the university.
+The proposed system includes several key features, such as a user-friendly interface that integrates with other university systems like billing and student information, enhanced data analysis capabilities, and features that enable tracking maintenance requests, scheduling repairs and replacements, and ensuring compliance with safety regulations. These features aim to improve the overall management and maintenance of student accommodations, creating a comfortable and safe living environment for students and enhancing their academic success and overall well-being.
+
+The Student Accommodation System will also bring significant benefits to the students also KTDI staffs, such as increased efficiency, time-saving, and reduced errors during the allocation process. The online application process will simplify the application process for students, making it easier and more convenient for them to select their preferred rooms. The enhanced data analysis capabilities will provide administrators with insights into occupancy rates, student preferences, and college merits, enabling them to make informed decisions about future room allocation. The maintenance system will ensure that the rooms remains well-maintained, creating a comfortable and safe living environment for students.
+
+In summary, the proposed Student Accommodation System aims to streamline the room rental process in Kolej Tun Dr Ismail (KTDI), improving the student experience and providing administrators with more effective working operations. By automating the allocation process, enhancing data analysis capabilities, and improving maintenance systems, the system will create a more strategic and efficient approach to managing student accommodations, enhancing the reputation of the university, and promoting student academic success and overall well-being.
+
+
   
 ---
 
@@ -191,7 +196,7 @@ To maintain code quality and reduce errors, the procedures are as follows:
     
 These procedures are essential for ensuring the effective deployment and operation of the KTDI system for student accommodation.
     
-In conclusion, the Agile methodology is an effective software process model for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) because it emphasizes flexibility, collaboration and continuous customer feedback. It allows us, the development team to respond quickly to changes in user requirements and deliver high-quality software in shorter development cycles.
+In conclusion, the Agile methodology is an effective software process model for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) because it emphasizes flexibility and continuous students also KTDI staffs feedback. It allows us, the development team to respond quickly to changes in user requirements and deliver high-quality software in shorter development cycles.
 
 ---
 
@@ -257,10 +262,10 @@ ii. Software requirements
 
 #### System Architecture Diagram:
 The proposed system architecture can be visualized using the following flowchart:
-<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/flowchart.png">
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/flowchart_diagram.PNG" width=500px height=300px>
 
 High-level diagram that represents our proposed system architecture:<br>
-<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/leveldiagram.png">
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/level_diagram.PNG" width=850px height=400px>
   
 ---
 
@@ -270,40 +275,32 @@ A project, programme, or organization's potential risks must be identified, eval
 
 The risk assessments that related to the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) are:
 
-- Security risk: <br>Cyberattacks, data breaches, and hacking could pose security risks to the student housing system. KTDI should put in place robust security measures including firewalls, encryption, and access controls, as well as routine security audits, to reduce this risk.
-
-- User adoption risk: <br>User adoption and engagement are crucial for the system's success. The system may not deliver the desired benefits if staff and students are not using it efficiently. In order to reduce this risk, KTDI should carry out user research to comprehend their requirements and preferences, build the system with the user experience in mind, and offer simple and approachable user documentation and assistance.
-
-- Legal and regulatory risk: <br>Laws and regulations pertaining to data privacy, security, and compliance may apply to the student housing system. KTDI should make sure the system complies with pertinent laws and regulations, put robust data privacy and security measures in place, and give clear instructions for handling user data in order to reduce this risk.
+- User adoption risk: <br>User adoption and commitment are the key to make the Student Accommodation System to be succeeded. The Student Accommodation System will not provide the desired benefits if staff and students are not using it efficiently. 
 
 - Changes in project requirement:
-  - Scope creep: As project requirements change over time, the project's scope may expand, which could cause delays or cause the budget to be exceeded.
-  - Incomplete or erroneous specifications could lead to a poorly designed system that doesn't satisfy the needs or expectations of the users.
-  - Conflicts amongst Stakeholders: Different Stakeholders may have divergent needs, which can lead to conflicts and delays in decision-making.
+  - Scope creep: As project requirements change over time, the project's scope will be extended, which could cause delays or the budget to be exceeded.
+  - Incomplete or inaccurate specifications could lead to a poorly designed of Student Accomodation System that doesn't satisfy the needs or expectations of the users.
+  - Conflicts among the Stakeholders: Stakeholders will have different ideas and needs, which can lead to the conflicts that will cause the decision-making of stakeholders become slower.
 
 - Resource Constraints:
-  - Technical risk: <br>Technical problems with the system could include hardware breakdowns, software glitches, and system outages. KTDI should make investments in dependable hardware and software, carry out routine maintenance and updates, and have back-up procedures in place to manage system downtime in order to reduce this risk.
-  - Financial risk: <br>The Student Accommodation System may be expensive to implement and operate, and it's possible that revenue production won't be enough to cover those costs. To lessen this risk, KTDI should create a reasonable budget and revenue strategy to reduce this risk, and should constantly assess the system's ROI to make sure it is generating enough income to cover its costs.
+  - Technical risk: <br>Technical problems that happened in Student Accommodation System would include hardware breakdowns, software glitches, and system outages, which can lead to system downtime, data loss, or system crashes.
+  - Financial risk: <br>The Student Accommodation System in Kolej Tun Dr Ismail (KTDI) needs a lot of money to implement and operate, and it's impossible to use the small income to cover those large amounts of costs.
  
 To mitigate these risks, the following strategies will be employed:
 
-- Security risk: <br>Strong security mechanisms like firewalls, encryption, and access restrictions should be put in place by KTDI, together with frequent vulnerability assessments and penetration testing, to mitigate security concerns. Additionally, they need to educate employees and students on sound cybersecurity procedures.
-
-- User adoption risk: <br>Users can be trained and supported, surveys and feedback sessions can be held, and incentives or rewards can be given to users who successfully adopt and use the system. These actions can all help to reduce the risks associated with user adoption.
-
-- Legal and regulatory risk: <br>KTDI should make sure the system complies with pertinent data protection and privacy legislation, like the Personal Data Protection Act (PDPA), in order to reduce legal and regulatory risks. Additionally, they should constantly audit and examine the system to make sure it complies with applicable laws and regulations, as well as review and update data protection and privacy policies to ensure compliance with evolving legislation.
+- User adoption risk: <br>Users can be trained and supported. The surveys and feedback sessions will be held to improve the Student Accomodation System and incentives or rewards can be given to users who successfully adopt and use the system. These are all the actions that can help to reduce the risks associated with user adoption.
 
 - Changes in project requirement:
-  - The project requirements should be precisely stated, exhaustive, and well-documented.
-  - Create a change management strategy that details how modifications to the project scope will be handled, including how they will be documented, reviewed, and approved.
-  - Utilise agile project management techniques like Scrum, which offer adaptability to changing requirements while preserving control over the project's scope.
-  - To prevent conflicts, effectively communicate changes to the project's requirements to all parties involved, including the project team, users, and management.
+  - The project requirements should be precisely stated, completed, and well-documented.
+  - Create a change management strategy that show details on how modifications to the project scope will be handled, including what will be documented, reviewed, and approved.
+  - To prevent conflicts, effectively communicate changes to the project's requirements to all parties involved, including the project team, users, and management.ALL parties that involved, inlcuding the project team, users, software engineer, survey team, project budget must communicate effectively to discuss the project requirements so that conflicts will not happened.
 
 - Resource Constraints:
-  - Technical risk: <br>KTDI should put in place routine data backups and disaster recovery plans, as well as routine maintenance and software and hardware updates, to reduce the technical risks. They should also employ qualified IT specialists to run and maintain the system.
-  - Financial risk: <br>To reduce financial risks, KTDI should create a thorough financial strategy that takes into consideration the initial expenditures as well as recurring expenses of the Student Accommodation System. Additionally, they want to look at other sources of income, including adding booking fees or providing premium services. It's crucial to regularly examine and modify financial predictions to take any changes in enrollment or other monetary issues into consideration.
+  - Technical risk: <br>For Student Accommodation System, Kolej Tun Dr Ismail(KTDI) should put in place routine data backups and disaster recovery plans, as well as routine maintenance,software and hardware updates to reduce the technical risks. They should also employ qualified Information Technology Specialist to run and maintain the system.
+  - Financial risk: <br>To reduce financial risks, they should create a thorough financial strategy that takes into consideration the initial expenditures as well as recurring expenses of the Student Accommodation System. It's important to regularly examine and modify financial predictions to take any changes in enrollment or other monetary issues into consideration.
 
-In general, it's crucial to recognise and reduce these risks if we want the KTDI student housing system to be successful. KTDI can lessen possible adverse effects and increase the advantages of the system by taking a proactive approach to risk management.
+In general, it's necessary to identify and reduce these risks if we want the Student Accommodation System in Kolej Tun Dr Ismail (KTDI)
+to be more successful. We can reduce any negative effects and increase the advantages of the system by taking a proactive approach to risk management.
 
 ---
 

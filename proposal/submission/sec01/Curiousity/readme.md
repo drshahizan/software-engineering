@@ -36,18 +36,26 @@ Don't forget to hit the :star: if you like this repo.
 <hr style="border:0.5px solid gray;height:0.5px;">
   
 ### 1. Executive Summary:
-Our proposed UTM Event Management System is a comprehensive solution aimed at simplifying and streamlining the processes of event management for organisers, attendees, and administrators. To achieve this, we're using cutting-edge technology and industry best practises to create a seamless user experience that makes it simple for event planners to plan and carry out successful events and for attendees to find, register for, and participate in events. The key features of our system include real-time event scheduling, registration, various types of activities and merit, and feedback capabilities. These features enable event planners and administrators to optimise event preparation, track performance, and make data-driven decisions. A user-friendly interface and  integration with various social media sites would also be helpful to attendees. Ultimately, our UTM Event Management System will provide measurable value to all stakeholders, resulting in increased event participation, better engagement and satisfaction, and a stronger institutional reputation. By investing in our system, UTM will be at the forefront of event management technology and innovation.
+Our proposed KTDI Event Management System is a comprehensive solution that aims to simplify and streamline the processes of event management for Jawatankuasa Kolej Mahasiswa Kolej Tun Dr. Ismail (JKM KTDI) at University Technology Malaysia (UTM), KTDI office staff, and fellow KTDI.
+
+Our system offers a range of key features that assist our stakeholders in event preparation and post-activity processes. One such key feature is the inclusion of a calendar for annual events. This feature enables JKM KTDI to plan and schedule their events for the year in advance, avoiding scheduling conflicts. Another feature is the ability to handle the necessary documents for each activity, ensuring that all required paperwork is organised and easily accessible.
+
+Additionally, our system enables JKM KTDI to distribute tasks to team members, allowing for efficient delegation and a smoother planning process. With our system's visible progress feature, event planners can track their team’s progress and stay on top of their goals throughout the planning process. Lastly, after the event is over, allow them to complete their activity with post-event reporting.
+
+Overall, our system is designed to make event planning and execution as seamless as possible, allowing JKM KTDI to focus on delivering a successful event.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 2. Background:
-Events are an essential part of the University of Technology, Malaysia (UTM) experience. However, the current manual process of managing events is time-consuming, prone to errors, and lacks the ability to provide real-time information about event performance. These difficulties have had a detrimental effect on participants' overall experiences, leading to poor event organisation and low participation rates.
+Events are an essential part of the Kolej Tun Dr Ismail (KTDI) college. However, the current process of event preparation and post-activity processes is time-consuming and less-productive. The KTDI Event Management System is designed to solve the problems and inconveniences faced by stakeholders in activity preparation and improve the effectiveness of event preparation. 
 
-The proposed UTM Event Management System aims to address these challenges by introducing an innovative, intuitive, and automated system that streamlines the event management process. The proposed system leverages the latest technologies and industry best practices to deliver a seamless user experience for organisers, attendees, and administrators. Real-time event scheduling, registration, different sorts of activities and credits, and feedback capabilities are among the system's key features, which give organisers and administrators the ability to optimise event planning, monitor performance, and make informed data-driven decisions.
+One of the issues faced by stakeholders is the problem of event dates crashing, which occurs due to the manual event preparation process. Our proposed system addresses this challenge by introducing a calendar for annual events. This feature enables JKM KTDI to plan and schedule their events for the year in advance, avoiding scheduling conflicts and allowing for the allocation of resources accordingly. With the calendar for annual events, JKM KTDI can quickly identify which dates are already reserved and which are available, making it easier to plan and organise events in a systematic manner.
 
-All stakeholders, including organisers, attendees, and administrators, stand to benefit considerably from the proposed UTM Event Management System. The suggested method will save time, cut down on errors, and boost satisfaction by lessening the administrative burden of manual processes. The system will also offer insightful analytics that can be utilised to inform decisions that will enhance the outcomes of events. Overall, the suggested approach has the potential to establish UTM as a pioneer in event management innovation and technology and strengthen its competitive edge in luring and retaining attendees.
+The stakeholders are required to go through a laborious process of seeking approval from multiple parties through paperwork. For instance, the KTDI Student Residential College Committee (JKM KTDI) has to manually fill in the program approval form to reserve locations and facilities in KTDI, followed by obtaining approvals from the program director, fellow KTDI, and KTDI principal, and finally submitting the proposal to Student Affairs. Our system aims to simplify this process by managing all necessary documents for each activity with just a click of the mouse. By using a paperless method, the system can promote environmental protection and prevent the loss or destruction of physical documents.
 
-In summary, the UTM Event Management System proposal seeks to address the challenges associated with the current manual event management process by introducing a modern, automated, and user-friendly solution that provides measurable benefits and enhances the overall experience of all stakeholders. The proposed system has the potential to transform event management at UTM, improve event outcomes, and enhance UTM's reputation as a leading institution of higher learning.
+Additionally, the stakeholders need to conduct multiple meetings to ensure team progression, which can be time-consuming. The KTDI Event Management System helps by enabling the assignment of tasks and tracking progress, thus reducing the number of long and tedious meetings held. Furthermore, the system allows for post-event reporting, providing a centralised platform for storing event photos. Hence, ensuring that KTDI events' management is accurate, efficient, and productive. 
+
+In summary, the KTDI Event Management System proposal seeks to address the challenges associated with the current manual event management process by introducing a modern, organised, and user-friendly solution that provides measurable benefits and enhances the overall experience of all stakeholders. The proposed system has the potential to make the event management process more streamlined and manageable, leading to more successful and enjoyable events.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
@@ -76,6 +84,7 @@ In summary, the UTM Event Management System proposal seeks to address the challe
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 4. Scope: 
+<<<<<<< HEAD
 ### Limitation: 
 Our proposed system, KTDI Event Management System, is designed to provide a web-based platform specifically for the management of events within Kolej Tun Dr. Ismail (KTDI). The system is intended for use by the Student Residential College Committee (JKM) and the KTDI office staff, as well as fellow members involved in event planning and execution. However, the system will not be accessible to the general student population or other external organisers.
 
@@ -110,6 +119,16 @@ The approval feature allows JKM KTDI members to streamline the approval process 
 
 * </b>Calendar<b>
 The calendar feature of the system will enable fellow members of KTDI to schedule appointments and meetings necessary for the event planning process. They can easily view the calendar to check available dates for scheduling and book appointments or meetings accordingly. The calendar can be used to ensure that there are no scheduling conflicts and that all fellow members of each event are aware of the event planning schedule. Additionally, fellow members can also check meetings that are already scheduled to keep themselves informed of the progress of the event planning process. The ability to view the calendar and schedule appointments will ensure that all fellow members are on the same page and that event planning tasks are completed efficiently. This feature will help save time and increase productivity during the event planning process.
+=======
+Our proposed system is named <b>UTM Event Management System</b>. It will provide a web-based platform to let the event organisers such as KTDI management plan, manage, and execute events more efficiently.
+This web-based system will include the following features or functionality:
+- (i) <b>Event planning and organisation</b> - Events organisers like JKM KTDI can streamline the event preparation by posting and keeping the event progress up to date. Meanwhile, College of Principal can handling and approving the necessary documents to smooth event progress.
+- (ii) <b>Agenda and schedule management</b> - Event organisers like JKM KTDI can create, manage, update and publish the event agenda and schedule such as the session details to let the KTDI management have a better understanding and arrangement for the event.
+- (iii) <b>Software integration</b> - The software will be implemented in the system to upload the documents like pdf or word file as it is aimed to reduce paper usage and to ensure the more efficient conduct of the proceedings.
+- (iv) <b>Onsite management</b> - KTDI management like Fellow and Fellow Assistant can coordinate with the event organisers like JKM KTDI, monitor and track the event progress.
+- (v) <b>Analytics and reporting</b> - Event organisers like JKM KTDI can generate a post-event report to let them know the area of improvement and also the system developer can also evaluating the effectiveness of the system at any time to fulfil the users requirements.
+- (vi) <b>Several limitations</b> - The system is only visible and limited to Kolej Tun Dr. Ismail (KTDI) management such as Student Residential College Committee (JKM), Fellow, Assistant Fellow, College Principal and the staff to handle all the events issues. Hence, the system would not provide any access to the students and other organisers before the event has bern finalized.
+>>>>>>> 0e2fa11e639bf2b9bf2e80a2f6b75b3ed377cdc5
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
@@ -287,7 +306,7 @@ Also known as structural testing, is a testing technique where the tester is awa
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 6. Budget:
-The development of the academic course registration system for 30,000 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at **RM 900,000**, as outlined below:
+The development of the academic course registration system for 50 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at **RM 1,074,000**, as outlined below:
 
 - **Hardware Costs: RM 400,000** <br>
 This includes the cost of servers, storage, networking equipment, and other hardware required to support the system. This cost will vary depending on the specific hardware configuration chosen, but it is essential to ensure that the system can handle the expected number of users and data volume.
@@ -295,19 +314,19 @@ This includes the cost of servers, storage, networking equipment, and other hard
 - **Software Costs: RM 150,000** <br>
 This includes the cost of licences for any third-party software required, such as operating systems, databases, and development tools. It also includes the cost of any software development needed for the project, such as custom modules or integrations.
 
-- **Personnel Costs: RM 54,000** <br>
+- **Personnel Costs: RM 264,000** <br>
 This includes the cost of the development team, project managers, and quality assurance specialists. The team size and composition will vary depending on the complexity of the project, but it is essential to ensure that the team has the necessary skills and experience to complete the project on time and within budget.
 
-- **Testing Costs: RM 95,500** <br>
+- **Testing Costs: RM 80,000** <br>
 This includes the cost of testing the software to ensure that it meets the specified requirements and is free of defects. This cost will depend on the testing approach chosen, such as manual or automated testing.
 
-- **Other Expenses: RM 100,500** <br>
+- **Other Expenses: RM 80,000** <br>
 This includes the cost of rent for office space, utilities, marketing and advertising, and testing.
 
 - **Contingency Plan: RM 100,000** <br>
 It is always recommended to have a contingency plan for unexpected expenses that may arise during the project. This can include budget reserves or adjusting the scope of the project if necessary.
 
-In conclusion, the estimated budget for the development of the UTM Event Management System is RM 900,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingency. Any changes in the budget will be communicated to stakeholders and project sponsors.
+In conclusion, the estimated budget for the development of the UTM Event Management System is RM 1,074,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingency. Any changes in the budget will be communicated to stakeholders and project sponsors.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
@@ -432,36 +451,35 @@ The block diagram for the proposed system architecture is as follows:
 To successfully deliver the academic course registration system, the following resources are required:
 
 **Staff**
-- 1 Project Manager: RM 14000/project
-- 1 Requirement Analyst & Developer Assistant: RM 10,000/project
-- 1 User Experience Designer & Developer Assistant: RM 10,000/project
-- 1 Main Developer & Quality Assurance Analyst: RM 10,000/project
-- 1 Documentation Specialist & Developer Assistant: RM 10,000/project <br>
-Total Staff Cost: RM 54,000/project
+- 1 Project Manager: RM 84,000/project
+- 1 User Experience Designer: RM 60,000/project
+- 1 Main Developer: RM 60,000/project
+- 1 Documentation Specialist: RM 60,000/project <br>
+**Total Staff Cost: RM 264,000/project**
 
 **Equipment:**
 - Servers: RM 200,000
 - Workstations and Laptops: RM 100,000
 - Networking and Cabling: RM 50,000
 - Security and Backup: RM 50,000 <br>
-Total Equipment Cost: RM 400,000
+**Total Equipment Cost: RM 400,000**
 
 **Software:**
 - Relational Database Management System (RDBMS): RM 50,000
 - Web Server: RM 20,000
 - Mobile Application Development Framework: RM 30,000
 - Data Analytics Tools: RM 50,000 <br>
-Total Software Cost: RM 150,000
+**Total Software Cost: RM 150,000**
 
 **Other Expenses:**
-- Rent for Office Space: RM 20,000
-- Utilities: RM 5,000
-- Marketing and Advertising: RM 75,500
-- Testing: RM 95,500
+- Rent for Office Space: RM 24,000
+- Utilities: RM 6,000
+- Marketing and Advertising: RM 50,000
+- Testing: RM 80,000
 - Contingency: RM 100,000 <br>
-Total Other Expenses: RM 296,000
+**Total Other Expenses: RM 260,000**
 
-**Total Resources Cost: RM 900,000**
+**Total Resources Cost: RM 1,074,000**
 
 Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
 
