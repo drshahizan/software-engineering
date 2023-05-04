@@ -38,7 +38,7 @@ Don't forget to hit the :star: if you like this repo.
 <body style="text-align: justify;">
 
 ### 1. Executive Summary:
-Our proposed KTDI Event Management System is a comprehensive solution that aims to simplify and streamline the processes of event management for Jawatankuasa Kolej Mahasiswa Kolej Tun Dr. Ismail (JKM KTDI) at University Technology Malaysia (UTM), KTDI office staff, and fellow KTDI.
+Our proposed KTDI Event Management System is a comprehensive solution that aims to simplify and streamline the processes of event management for Jawatankuasa Kolej Mahasiswa Kolej Tun Dr. Ismail (JKM KTDI) at University Technology Malaysia (UTM), KTDI office staff, and fellow members of KTDI.
 
 Our system offers a range of key features that assist our stakeholders in event preparation and post-activity processes. One such key feature is the inclusion of a calendar for annual events. This feature enables JKM KTDI to plan and schedule their events for the year in advance, avoiding scheduling conflicts. Another feature is the ability to handle the necessary documents for each activity, ensuring that all required paperwork is organised and easily accessible.
 
@@ -125,14 +125,14 @@ The calendar feature of the system will enable fellow members of KTDI to schedul
 ### 5. Software Process Model:
 The <b>Agile software development process model</b> is the ideal software process model for this KTDI event management system development. The Agile process model is an adaptable and iterative method of developing software that places a focus on teamwork, client satisfaction, and the quick delivery of functional software. This process model emphasises delivering value to the user (JKM) at each iteration and is appropriate for projects with varying requirements and uncertainties.
 
-The Agile process model was chosen because it enables frequent feedback and changes to be made to the software while it is being developed. Since this system is being created for a university, it is likely that the requirements will change and be updated as the project moves forward. The Agile process model is well suited to handle such changes and still deliver a high-quality product on time.
+The agile process model was chosen because it enables frequent feedback and changes to be made to the software while it is being developed. Since this system is being created for a university, it is likely that the requirements will change and be updated as the project moves forwards. The Agile process model is well suited to handle such changes and still deliver a high-quality product on time.
 
 The Agile process model consists of the following phases:
 
 <img src="https://agilie.com/_next/image?url=/api/imageproxy?url=https%3A%2F%2Fd12zh9bqbty5wp.cloudfront.net%2Fimages%2Ff9e66e179b6747ae54108f82f8ade8b3c25d76fd30afde6c395822c530196169-1674685166733.png&w=1920&q=75" alt="Agile"></img>
 
 #### 1. Planning Phase: 
-During this stage, the project manager will establish the project's scope, objectives, and goals, while taking into account the requirements of the stakeholders. The team will create a product backlog that prioritises the system's features or requirements, and defines the milestones, deadlines, and checkpoints. This will ensure that the project stays on track and within the set timeline.
+During this stage, the project manager will establish the project's scope, objectives, and goals while taking into account the requirements of the stakeholders. The team will create a product backlog that prioritises the system's features or requirements, and defines milestones, deadlines, and checkpoints. This will ensure that the project stays on track and within the set timeline.
 
 #### 2. Design Phase:
 The team will create the system's architecture, data models, user interfaces, and user experience during this phase. In order to obtain feedback from the stakeholders and make sure that the design meets their needs, the user experience designer will also create a mockup or prototype of the system. To ensure that the system design is feasible and meets the project's goals, it will be thoroughly reviewed and documented.
@@ -227,7 +227,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
         </tr>
         <tr>
           <td rowspan="2">Phase 5: Deployment</td>
-          <td>Deploys the application to the production environment. Conducts smoke testing and post-deployment testing. </td>
+          <td>Deploys the application to the production environment.</td>
           <td>Main Developer</td>
           <td>2 Weeks</td>
           <td>Incomplete</td>
