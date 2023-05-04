@@ -178,7 +178,13 @@ Overall, a thorough risk assessment should be conducted to identify and mitigate
 
 ### 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
-- Mention the programming languages, frameworks, and libraries that will be used in the project.
+  
+1. Data sources: The parcel delivery system will require data from various sources, including user data, package information, and payment details. User data may be sourced from the university's student and staff databases, while package information may be sourced from the courier or delivery services used by the university. Payment details may be sourced from payment gateways used by the system.
+
+2. Data schema: The data schema is the structure of the database that stores the system's data. The data schema should be designed to be efficient and secure, and should be able to handle a large volume of data. The schema should include tables for storing user data, package information, and payment details, as well as any other data required by the system.
+
+3. Data transformations: Data transformations may be necessary to ensure that data is stored and processed correctly in the system. For example, data may need to be transformed to conform to a specific format or standard, or to remove any errors or inconsistencies in the data. Data transformations may be performed using tools such as ETL (Extract, Transform, Load) or data mapping software.
+  
 - Provide details about the hardware and software requirements for the proposed system.
 - Explain the data security measures that will be implemented.
   
