@@ -176,8 +176,26 @@ Overall, a thorough risk assessment should be conducted to identify and mitigate
 
 ### 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
-- Mention the programming languages, frameworks, and libraries that will be used in the project.
+
 - Provide details about the hardware and software requirements for the proposed system.
+  
+  1. Hardware Requirements:
+
+  - A reliable server or cloud hosting service capable of handling a large volume of traffic
+  - Sufficient storage space for storing user data, package information, and payment details
+  - A backup and disaster recovery solution to ensure that data is not lost in the event of a system failure or outage
+  - A network infrastructure capable of supporting the system's traffic and data transfer needs
+  - Hardware devices such as scanners or printers may also be required for package tracking and label printing
+
+2. Software Requirements:
+
+  - A server-side programming language such as Python, PHP, or Java for building the back-end of the system
+  - A database management system such as MySQL, PostgreSQL, or Microsoft SQL Server for storing system data
+  - A front-end framework or library such as React, Angular, or Vue.js for building the user interface
+  - An API integration tool such as Stripe, PayPal, or FedEx for integrating with third-party services
+  - A version control system such as Git for managing code changes and collaboration among the development team
+  - Testing frameworks and tools such as Jest, Mocha, or Selenium for ensuring system reliability and functionality
+  - Security tools and frameworks such as OWASP, SSL, or HTTPS for protecting user data and payment information
 - Explain the data security measures that will be implemented.
 
 ### 11. Timeline and Deliverables: 
