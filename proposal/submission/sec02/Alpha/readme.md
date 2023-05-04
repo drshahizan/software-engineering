@@ -112,12 +112,32 @@ Room booking: Room booking features allows students to book rooms based on avail
 <img src=https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/agile%20method.png></img>
 
 
-This section describe the ideal software process model for this system development. The write-up must consist of:
-- Explanation of the goal of the software process model.
-- Choose the ideal software process model and give justification.
-- The illustration of chosen software process model that relates to your project and shows every phase involved in the chosen software process model
-- Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. 
-- It should also describe the testing methodologies, project management practices, and quality assurance processes.
+Agile methodology is a software development process model that emphasises the importance of collaboration, flexibility, and iterative development. In the context of creating a college room rental system, an Agile approach can be used to develop the system in a way that meets the changing needs and requirements of the stakeholders.
+
+Here are the key steps in the Agile methodology that we will use in creating a college room rental system:
+
+#### 1. Planning:
+The first step is to gather the requirements of the stakeholders and plan the development process accordingly. This involves identifying the goals, objectives, and features of the system, and determining the timeline, resources, and team members needed to complete the project.
+
+#### 2. Design:
+In this step, the development team creates the system design and architecture. This includes defining the software modules, user interface, and the database schema. The design should be flexible enough to accommodate changes that may arise during the development process.
+
+#### 3. Development:
+Once the design is complete, the development team starts coding and implementing the features of the system. The development process is iterative, with each iteration delivering a functional version of the system that can be tested and evaluated.
+
+#### 4. Testing:
+Testing is a crucial part of the Agile methodology. In this step, the development team tests the system to ensure that it meets the requirements of the stakeholders. The testing process is iterative, with each iteration improving the quality and functionality of the system.
+
+#### 5. Review and Feedback:
+After testing, the stakeholders review the system and provide feedback to the development team. The feedback is used to improve the system and ensure that it meets the needs of its users.
+
+#### 6. Deployment:
+Once the system is tested and reviewed, it is deployed to the production environment. The deployment process should be done in a way that minimises downtime and ensures that the system is available to its users.
+
+#### 7. Maintenance:
+After deployment, the development team provides maintenance and support to ensure that the system runs smoothly and continues to meet the needs of the stakeholders.
+
+Overall, the Agile methodology that we used in creating a college room rental system is to ensure that the system meets the changing needs of the stakeholders and is delivered on time and within budget.
 
 ---
 
