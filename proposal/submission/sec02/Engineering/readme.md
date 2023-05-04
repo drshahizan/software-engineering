@@ -158,6 +158,10 @@ The proposed system architecture will be designed to be scalable, secure, and ma
 
 5. Legal and Regulatory Risks: The parcel system may be subject to legal and regulatory risks such as compliance with data protection laws and regulations related to shipping and logistics. To mitigate these risks, the system should be designed with a comprehensive understanding of relevant laws and regulations, and have processes in place to ensure compliance.
 
+6. User adoption risks: The success of the parcel delivery system relies on user adoption. If the system is not user-friendly or fails to meet user needs, there is a risk that it will not be widely adopted by students and staff. To mitigate this risk, it is important to conduct user research and testing to ensure that the system meets the needs of its intended users.
+
+7. Data security risks: The system will handle sensitive user data such as personal information and payment details. There is a risk of data breaches and cyber attacks, which could result in the compromise of user data. To mitigate this risk, it is important to implement strong security measures such as encryption, secure authentication, and regular security audits.
+
 Overall, a thorough risk assessment should be conducted to identify and mitigate potential risks before and during the implementation of the parcel system. This will help ensure the success and sustainability of the system over the long term.
 
 ### 9. Resources:
@@ -174,9 +178,29 @@ Overall, a thorough risk assessment should be conducted to identify and mitigate
 
 ### 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
-- Mention the programming languages, frameworks, and libraries that will be used in the project.
+  
+1. Data sources: The parcel delivery system will require data from various sources, including user data, package information, and payment details. User data may be sourced from the university's student and staff databases, while package information may be sourced from the courier or delivery services used by the university. Payment details may be sourced from payment gateways used by the system.
+
+2. Data schema: The data schema is the structure of the database that stores the system's data. The data schema should be designed to be efficient and secure, and should be able to handle a large volume of data. The schema should include tables for storing user data, package information, and payment details, as well as any other data required by the system.
+
+3. Data transformations: Data transformations may be necessary to ensure that data is stored and processed correctly in the system. For example, data may need to be transformed to conform to a specific format or standard, or to remove any errors or inconsistencies in the data. Data transformations may be performed using tools such as ETL (Extract, Transform, Load) or data mapping software.
+  
 - Provide details about the hardware and software requirements for the proposed system.
 - Explain the data security measures that will be implemented.
+  
+1. Front-end development: The front-end of the system should be designed to be responsive and accessible, meaning that it should be able to adapt to different screen sizes and should be usable by individuals with disabilities. Popular front-end frameworks and libraries include React, Angular, and Vue.js.
+
+2. Back-end development: The back-end of the system should be designed to be scalable and maintainable, meaning that it should be able to handle a large volume of traffic and should be easy to update and modify. Popular back-end frameworks and libraries include Django, Ruby on Rails, and Spring.
+
+3. Database design: The database for the system should be designed to be efficient and secure, meaning that it should be able to handle a large volume of data and should be protected against data breaches and cyber attacks. The database should also be designed to be easily scalable as the system grows. Popular database management systems include MySQL, PostgreSQL, and Microsoft SQL Server.
+
+4. API integration: The system may need to integrate with third-party APIs such as payment gateways or shipping providers. The APIs should be reliable and secure, and should be integrated in a way that is seamless for users. Popular API integration tools include Stripe, PayPal, and FedEx.
+
+5. Security: The system should be designed with security in mind to protect user data and payment information. This includes implementing secure authentication, encryption, and firewalls. Regular security audits should also be conducted to ensure that the system remains secure. Popular security tools and frameworks include OWASP, SSL, and HTTPS.
+
+6. Hosting and infrastructure: The system should be hosted on a reliable server or cloud hosting service that is capable of handling a large volume of traffic. The infrastructure should also be designed to be easily scalable as the system grows. Popular cloud hosting services include Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform.
+
+7. Testing and quality assurance: Thorough testing and quality assurance should be conducted throughout the development process to ensure that the system is reliable and functions as intended. This includes unit testing, integration testing, and system testing. Popular testing frameworks and tools include Jest, Mocha, and Selenium.
 
 ### 11. Timeline and Deliverables: 
 - Provide a detailed timeline for the project, including milestones and deadlines.
