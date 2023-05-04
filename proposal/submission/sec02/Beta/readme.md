@@ -18,6 +18,9 @@ Don't forget to hit the :star: if you like this repo.
   3. MUHAMMAD IMAN FIRDAUS BIN BAHARUDDIN (A22EC0216 )
   4. MUHAMMAD SAFWAN BIN MOHD AZMI (A22EC0221)
   5. CHE MARHUMI BIN CHE AB RAHIM (A22EC0147)
+  
+<img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/proposal/submission/sec02/Beta/photo1683105260png.png" alt="Alt text" width="500" height="350">
+
 
 ### Table of Contents
 - [Executive Summary](#1-executive-summary)
@@ -181,7 +184,7 @@ This component represents the database that the system uses to store and retriev
 ### Third-party integrations: 
 This component represents any third-party services or tools that the system uses, such as payment gateways, email services, or contact services. The system can integrate with these services to provide additional functionality and enhance the user experience.
 
-## 8. Risks Assessment:
+## 8. Risk Assessment
 
 The development of an food ordering system carries certain risks that must be identified and mitigated. The following are the potential risks that could affect the project:
 
@@ -246,7 +249,7 @@ Total Estimated Cost: RM 1,900,000
 
 > Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
 
-## 10. Technical Specifications:
+## 10. Technical Specification
  - Platform: The system should be web-based and accessible from any device with an internet connection, such as desktops, laptops, tablets, and smartphones. The system should be compatible with multiple operating systems and web browsers.
 
 - Programming languages and technologies: The system can be built using a combination of technologies such as HTML, CSS, JavaScript, PHP, Python, and MySQL. The system can also use frameworks such as Laravel, React, Angular, and Vue.js.
