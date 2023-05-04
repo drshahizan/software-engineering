@@ -192,7 +192,7 @@ To maintain code quality and reduce errors, the procedures are as follows:
     
 These procedures are essential for ensuring the effective deployment and operation of the KTDI system for student accommodation.
     
-In conclusion, the Agile methodology is an effective software process model for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) because it emphasizes flexibility, collaboration and continuous customer feedback. It allows us, the development team to respond quickly to changes in user requirements and deliver high-quality software in shorter development cycles.
+In conclusion, the Agile methodology is an effective software process model for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) because it emphasizes flexibility and continuous students also KTDI staffs feedback. It allows us, the development team to respond quickly to changes in user requirements and deliver high-quality software in shorter development cycles.
 
 ---
 
