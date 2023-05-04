@@ -388,7 +388,7 @@ IV. Other Expenses:<br>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2">1st Month</td>
+      <td rowspan="3">1st Month</td>
       <td>Define scope, stakeholders and project plan(1 week)</td>
       <td>Project proposal and ghant chart</td>
       <td>Project manager, developer team</td>
