@@ -84,15 +84,14 @@ In summary, the KTDI Event Management System proposal seeks to address the chall
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 4. Scope: 
-Our proposed system is named <b>UTM Event Management System</b>. It will provide a web-based platform to let the event organisers plan, manage, and execute events more efficiently.
+Our proposed system is named <b>UTM Event Management System</b>. It will provide a web-based platform to let the event organisers such as KTDI management plan, manage, and execute events more efficiently.
 This web-based system will include the following features or functionality:
--	Event planning and organisation.
--	Agenda and schedule management.
-- Software integration to reduce paper usage and to ensure the efficient conduct of the proceedings.
--	Onsite management to coordinate with the event organisers,monitor and track the event progress.
--	Analytics and reporting for evaluating the effectiveness of the system.
--	Attendee engagement to identify areas for improvement.
--	Our system is limited to Kolej Tun Dr. Ismail (KTDI) management only such as Student Residential College Committee (JKM), Fellow, Assistant Fellow, College Principal and the staff. It would not provide any access to the students and other organisers.
+- (i) <b>Event planning and organisation</b> - Events organisers like JKM KTDI can streamline the event preparation by posting and keeping the event progress up to date. Meanwhile, College of Principal can handling and approving the necessary documents to smooth event progress.
+- (ii) <b>Agenda and schedule management</b> - Event organisers like JKM KTDI can create, manage, update and publish the event agenda and schedule such as the session details to let the KTDI management have a better understanding and arrangement for the event.
+- (iii) <b>Software integration</b> - The software will be implemented in the system to upload the documents like pdf or word file as it is aimed to reduce paper usage and to ensure the more efficient conduct of the proceedings.
+- (iv) <b>Onsite management</b> - KTDI management like Fellow and Fellow Assistant can coordinate with the event organisers like JKM KTDI, monitor and track the event progress.
+- (v) <b>Analytics and reporting</b> - Event organisers like JKM KTDI can generate a post-event report to let them know the area of improvement and also the system developer can also evaluating the effectiveness of the system at any time to fulfil the users requirements.
+- (vi) <b>Several limitations</b> - The system is only visible and limited to Kolej Tun Dr. Ismail (KTDI) management such as Student Residential College Committee (JKM), Fellow, Assistant Fellow, College Principal and the staff to handle all the events issues. Hence, the system would not provide any access to the students and other organisers before the event has bern finalized.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
