@@ -28,7 +28,7 @@
 ### 1. Executive Summary
 The Student Health and Wellness website is an esteemed software engineering course project that Pusat Kesihatan University (PKU) proudly endorses. Aimed at assisting students in their university lives, this website will offer a plethora of resources and tools to assist students in taking care of their physical, mental, and emotional health. With a combination of longer or more complex sentences alongside concise and short ones, the website provides a way to optimally manage one's wellbeing. For university students, this website promises to revolutionise the way they manage their health by providing them with the ability to regulate and nourish their bodies, minds, and souls. However, for this Student Health and Wellness System project, it seems that this is the first implementation of this system, and it will only include student Kolej Tun Dr. Ismail (KTDI) as our sample user that is included in this system.
 
-This web based system aims to provide an easy-to-use experience, with the latest software engineering techniques employed to deliver an intuitive interface. Accessibility is key, and with the website being compatible across desktop computers, laptops, tablets, and smartphones, no matter the device, all students can enjoy utilising the site. Understanding user needs, the platform has been developed with a user-friendly design, ensuring students can quickly and easily navigate and access information.
+This web-based system aims to provide an easy-to-use experience with the latest software engineering techniques employed to deliver an intuitive interface. Accessibility is key, and with the website being compatible across desktop computers, laptops, tablets, and smartphones, no matter the device, all students can enjoy utilising the site. Understanding user needs, the platform has been developed with a user-friendly design, ensuring students can quickly and easily navigate and access information.
 
 The Student Health and Wellness system will be packed with an array of engaging resources for students to access. Articles, videos, and podcasts varying in topics from nutrition to mental health will be featured and developed in collaboration with PKU, assuring the accuracy, timeliness, and appropriateness of the content. These resources offer university students the knowledge to maintain a healthy and wholesome lifestyle.
 
@@ -42,9 +42,9 @@ This Student Health and Wellness system is used to increase efficiency and produ
 The Student Health and Wellness System will not only offer invaluable health-related information to students but will also strive to improve the healthcare experience of university goers by emphasising increased health awareness and ultimately fostering a healthier overall campus atmosphere. By giving students the necessary tools for maintaining sound physical and psychological well-being, the website is poised to revolutionise the healthcare landscape for students and beyond.
 
 ### 3. Objectives:
-- To improve the overall wellbeing of university students by using an innovative strategy to provide direct access to medical resources, introduce personalized health tracking tools, and offer reliable health tips and advice.
+- To improve the overall wellbeing of university students by using an innovative strategy to provide direct access to medical resources, introduce personalised health tracking tools, and offer reliable health tips and advice.
 
-(Example：The proposed system will reduce the PKU processing time by 25%, resulting in a 25% reduction in administrative workload.)
+(Example: The proposed system will reduce the PKU processing time by 25%, resulting in a 25% reduction in administrative workload.)
 
 - To provide students with a platform to communicate and interact with medical professionals at the PKU facility, gain medical advice, and schedule appointments for medical services.
 
@@ -60,20 +60,20 @@ The Student Health and Wellness System will not only offer invaluable health-rel
 
 ### 4. Scope: 
 The project proposal focuses exclusively on developing a software application to manage student health and wellness. Our primary objective is to design, implement, and maintain this system while avoiding hardware or infrastructure upgrades, as well as changes in existing policies or procedures.
-  
-Defined by the following will be the boundaries of the project:
-- Seamlessly integrating with the current student information system, the Student Health and Wellness Management System is set to be crafted by a development team that will make sure it's compatible with the administrators' goals. Close cooperation will ensure a compatibility that won't become a hassle.
-- Out of scope and further analysis will be required for any additional features requested by stakeholders of the proposed system. In terms of student health and wellness, only health tracking, online consultation with PKU, SOS, medical lab results,mental health test, patient pending and waiting time, announcement and health tips will be included.
+  
+The following will be the boundaries of the project:
+- Seamlessly integrating with the current student information system, the Student Health and Wellness Management System is set to be crafted by a development team that will make sure it's compatible with the administrators' goals. Close cooperation will ensure compatibility that won't become a hassle.
+- Out of scope and further analysis will be required for any additional features requested by stakeholders of the proposed system. In terms of student health and wellness, only health tracking, online consultation with PKU, SOS, medical lab results,mental health tests, patient pending and waiting times, announcements, and health tips will be included.
 - Including the Health Insurance Portability and Accountability Act (HIPAA) and the General Data Protection Regulation (GDPR), all applicable laws and regulations will be followed by the security and privacy features of the system.
 
 For this system, it will include the features below:
 - Medical lab results such as blood pressure, X-ray result, Urine test result, BMI, and so on.
-- Mental Health test (Depression, Anxiety and Stress Scale (DASS)) that will help evaluate the patient's reaction to treatment.
+- Mental health test (Depression, Anxiety and Stress Scale (DASS)) that will help evaluate the patient's reaction to treatment.
 - Patient pending and waiting time for each medical department to improve the efficiency of PKU.
 - SOS button for emergency calls.
 - Health tips to increase health awareness among students.
 - Announcement of PKU for any activities held.
-  
+  
 In final analysis, the proposed Student Health and Wellness System is a broad, but controlled program requiring strict adherence to applicable laws, regulations, and policies. Moreover, intricate and diverse processing must be applied to guarantee maximum efficiency. This necessitates a delicate balance between elaborate, detailed sentences and much simpler, straightforward ones. Ultimately, this strenuous undertaking assures the creation of an effective Student Health and Wellness System.
 
 ### 5. Software Process Model:
