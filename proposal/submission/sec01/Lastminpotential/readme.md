@@ -132,10 +132,14 @@ The Faculty of Computing Feedback System will provide measurable benefits to all
 </ul>
 
 ### 7. System Architecture:
+  
+
+<!--
 - Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
 - Explain how the data will be stored, managed, and analyzed, as well as the hardware and software requirements needed to support the system.
 - Discuss the tools and frameworks that will be used for data visualization and analysis.
 - Provide a flowchart or block diagram of the system architecture.
+-->
 
 ### 8. Risks Assessment:
   
@@ -171,9 +175,29 @@ The Faculty of Computing Feedback System will provide measurable benefits to all
 
 #### Software
 
-- Development tools - Required for coding and testing the system.
-- Database management software - Required for managing the database.
-- Security software - Required for securing the system and protecting data.
+The proposed system architecture consists of the following components and technologies:
+
+| Component                  | Technology                                                 |
+|----------------------------|------------------------------------------------------------|
+| Development Tools          | Visual Studio Code, Bootstrap Studio, Figma                 |
+| Database Management System | MySQL                                                      |
+| Web Server                 | Apache                                                     |
+
+##### Development Tools
+
+- Visual Studio Code: A lightweight and powerful code editor that supports a variety of programming languages.
+- Bootstrap Studio: A web design and development tool that allows for creating responsive and visually appealing websites.
+- Figma: A web-based design and prototyping tool that allows for creating and collaborating on user interfaces and graphics.
+
+##### Database Management System
+
+- MySQL: A popular open-source database management system that is widely used in web applications.
+
+##### Web Server
+
+- Apache: A widely used open-source web server software that is used to serve web content over HTTP. It is known for its reliability and security features.
+
+
 
 #### Other expenses
 
