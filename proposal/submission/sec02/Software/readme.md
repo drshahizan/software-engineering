@@ -254,7 +254,7 @@ c. **Software Resources** :
     - RM 4,000/year
     - Used for managing the database for the website
   - Cloud Service
-    - RM 35,00/year
+    - RM 3,500/year
     - Used for providing access to computing resources over the internet
 <p>Total Software Cost: RM 10,000/year</p>
 
