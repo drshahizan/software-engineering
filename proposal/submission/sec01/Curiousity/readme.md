@@ -156,46 +156,46 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
         <tr>
           <td>Drafts a design document that includes the user stories, user journey maps, wireframes, prototypes, architectural diagram, and technical design document. </td>
           <td>Documentation Specialist</td>
-          <td>1 Week</td>
+          <td>2 Weeks</td>
           <td>Incomplete</td>
         </tr>
         <tr>
           <td rowspan="2">Phase 3: Development</td>
           <td>Develops the system code and unit tests. Integrates the code and performs integration testing. </td>
           <td>Main Developer</td>
-          <td>6 Weeks</td>
+          <td>8 Weeks</td>
           <td>Incomplete</td>
         </tr>
         <tr>
           <td>Documents the codebase and version control process.</td>
           <td>Documentation Specialist</td>
-          <td>1 Week</td>
+          <td>2 Weeks</td>
           <td>Incomplete</td>
         </tr>
         <tr>
           <td rowspan="3">Phase 4: Testing</td>
-          <td>Conducts system testing, regression testing, and performance testing. Resolves defects and bugs.</td>
+          <td>Conducts white-box testing, black-box testing, and system testing. Resolves defects and bugs.</td>
           <td>Main Developer</td>
-          <td>4 Weeks</td>
+          <td>5 Weeks</td>
           <td>Incomplete</td>
         </tr>
         <tr>
           <td>Conducts usability testing to ensure the application meets the user requirements and expectations.</td>
           <td>User Experience Designer</td>
-          <td>2 Weeks</td>
+          <td>3 Weeks</td>
           <td>Incomplete</td>
         </tr>
         <tr>
           <td>Drafts a testing document that includes test cases, test scripts, and test results.</td>
           <td>Documentation Specialist</td>
-          <td>1 week</td>
+          <td>2 weeks</td>
           <td>Incomplete</td>
         </tr>
         <tr>
           <td rowspan="2">Phase 5: Deployment</td>
           <td>Deploys the application to the production environment. Conducts smoke testing and post-deployment testing. </td>
           <td>Main Developer</td>
-          <td>1 Week</td>
+          <td>2 Weeks</td>
           <td>Incomplete</td>
         </tr>
         <tr>
@@ -208,13 +208,13 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
           <td rowspan="2">Phase 6: Maintenance</td>
           <td>Provides ongoing maintenance and support for the system.</td>
           <td>Main Developer</td>
-          <td>2 Weeks</td>
+          <td>4 Weeks</td>
           <td>Incomplete</td>
         </tr>
         <tr>
           <td>Updates the documentation based on any changes to the application or its environment. </td>
           <td>Documentation Specialist</td>
-          <td>2 Weeks</td>
+          <td>4 Weeks</td>
           <td>Incomplete</td>
         </tr>
       </tbody>
@@ -230,6 +230,8 @@ Also referred to as functional testing or behavioural testing, is a testing tech
 Also known as structural testing, is a testing technique where the tester is aware of how the system being tested operates on the inside. This approach involves running tests on the system's internal components, such as code or algorithms, to make sure they work as intended. Developers or testers with access to the source code of the system being tested usually carry out white-box testing. In the KTDI event management system, the team members will perform this type of testing.
 
 * <b>System testing:</b> For KTDI event management system, system testing involves testing the entire system as a whole to ensure that it meets the specified requirements and functions as expected. This can involve testing various aspects of the system, including the user interface, location booking system, paperwork management processes, and other key features. System testing helps to identify any bugs, errors, or issues that may impact the system's functionality, and ensures that the system is reliable and performs well under different scenarios. The team members will carry out system testing for the KTDI event management system.
+
+* <b>Performance testing:</b> This test focuses on assessing how well the system performs under various loads and stresses. It is beneficial to locate any performance problems or bottlenecks that could be affecting the stability, scalability, and responsiveness of the system. Performance testing for the KTDI event management system will involve creating realistic scenarios to test the system's throughput, response time, and resource usage under various user activity levels. A variety of metrics, including server response time, page load time, and network latency, will be measured during this testing using specialised tools and software. The system's performance will be optimised, any performance problems will be found, and the system's ability to handle the anticipated workload will be confirmed using the performance testing results. The team members are in charge of testing the KTDI event management system's performance.
 
 ### Project Management Practices: 
 * <b>Agile Project Management:</b>  An effective project management strategy for software development projects is called agile. It entails segmenting the project into shorter, easier-to-manage units called sprints. A specific set of tasks are finished during each sprint, which is a brief, concentrated time frame.
