@@ -201,9 +201,9 @@ a. **Staff Resources** :
     - RM 55,000/year
     - Mainly responsible for gathering and analyzing the requirements from stakeholders 
   - Documentation Specialists : Tang Yan Qing
-    - Rm 35,000/year
+    - RM 35,000/year
     - Mainly responsible for developing user manuals and system documentation
-<p>Total Staff Cost: RM 370,000</p>
+<p>Total Staff Cost: RM 370,000/year</p>
 
 b. **Hardware Resources** :
   - Computer and laptop for each team member
@@ -214,7 +214,7 @@ b. **Hardware Resources** :
     - RM 1,500/year
   - Security and backup
     - RM 800/year
-<p>Total Hardware Cost: RM 45,000</p>
+<p>Total Hardware Cost: RM 45,000/year</p>
 
 c. **Software Resources** :
   - Visual Studio Code
@@ -235,7 +235,7 @@ c. **Software Resources** :
   - Cloud Service
     - RM 35,00/year
     - Used for providing access to computing resources over the internet
-<p>Total Software Cost: RM 10,000</p>
+<p>Total Software Cost: RM 10,000/year</p>
 
 d. **Other Resources** :
   - Testing fees
