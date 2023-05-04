@@ -100,6 +100,8 @@ The proposed scope for the parcel system is expected to provide numerous benefit
 
 ![UML Diagram](https://github.com/nikzulaikhaa/spm/blob/main/uml%20diagram.PNG)
 
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Engineering/1.drawio.png"></img>
+
 1. Requirements Gathering: The first stage of the software process model will involve gathering requirements from stakeholders, including students, faculty, staff, and parcel senders. This stage will help identify the key features and functionality needed for the parcel system.
 
 2. Design: Once the requirements are gathered, the next stage will involve designing the system architecture, user interface, and database schema. This stage will also include developing wireframes and mockups to help visualize the system.
