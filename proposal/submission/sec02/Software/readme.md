@@ -216,25 +216,63 @@ To mitigate these risks, a few steps can be taken:
   - Cloud services
 
 ### 10. Technical Specifications:
-- Platform : Web-based application
-- Language : PHP (backend), HTML, CSS, and JavaScript (frontend)
-- Database : MySQL
-- Software : Bootstrap Studio
-- Authentication : User authentication and authorization
-- Security: SSL encryption and data encryption at rest  
-  - Modules: Student registration  
-  - Health assessment and history  
-  - Medical record keeping  
-  - Appointment scheduling  
-  - Prescription and medication management  
-  - Billing and invoicing  
-  - Reporting and analytic  
-- Integration: Integration with the university's student information system and electronic health record system
-- Accessibility: Section 508 compliance
-- Scalability: Ability to handle large volumes of data and users
-- Support: 24/7 technical support and maintenance
-- Deployment: Cloud-based deployment with automatic scaling and redundancy
-- Compatibility: Cross-browser compatibility with major web browsers.
+<table>
+  <tr>
+    <th align= "left">Hosting Platform</th>
+    <td>Google Cloud </td>
+  </tr>
+  <tr>
+    <th align= "left">Framework</th>
+    <td>Bootstrap Studio</td>
+  </tr>
+  <tr>
+    <th align= "left">Programming Language</th>
+    <td>PHP, HTML, CSS, and JavaScript</td>
+  </tr>
+  <tr>
+    <th align= "left">Hardware  requirements</th>
+    <td>
+    Lowest requirements
+      <ul>
+        <li><b>Processor:</b> Intel Core i5 </li>
+        <li><b>Memory:</b> 8GB RAM</li>
+        <li><b> Storage:</b> 256GB SSD</li>
+    <li> <b>Graphics Card:</b> NVIDIA GeForce GTX 1050</li>
+    <li><b>Display:</b> 1920x1080 resolution</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th align= "left">Software Requirements</th>
+    <td>
+    <ul>
+      <li><b>Operating System:</b> Windows 10 or higher</li>
+      <li>Installed with all software mentioned above</li>
+      <li><b>Project Management Tool:</b> Github</li>
+    </ul>
+  </td>
+  </tr>
+    <tr>
+    <th align= "left">Accessibility</th>
+    <td>According to WCAG 2.1 standards, we need to provide text alternatives for any non-text content</td>
+  </tr>
+      <tr>
+    <th align= "left">Security</th>
+    <td>Data encryption and SSL encryption</td>
+  </tr>
+        <tr>
+    <th align= "left">Technical Support</th>
+    <td>24/7 technical support and regular maintenance</td>
+  </tr>
+          <tr>
+    <th align= "left">Deployment</th>
+    <td>Optimization for different devices</td>
+  </tr>
+            <tr>
+    <th align= "left">Browser compatibility</th>
+    <td>Functions on major browsers such as Mozila Firefox, Google Chrome, Safari and Opera.</td>
+  </tr>
+</table>
 
 ### 11. Timeline and Deliverables: 
 <img src="https://user-images.githubusercontent.com/128159572/235585376-b25f2b58-b38e-43a6-be29-42e555828e48.jpeg">
@@ -246,9 +284,9 @@ To mitigate these risks, a few steps can be taken:
 | Preparing Requirement Document | Analyse stakeholder's requirements           | Week 7 to Week 9  |
 | System Development             | Design the system and starts coding          | Week 9 to Week 12 |
 | System Testing and Debugging   | Run the system test and fix the bugs         | Week 13 to Week 15|
-| System Documentation           |                                              | Week 10 to Week 14|
-| Project Demonstration          |                                              | Week 15           |
-| System Maintenance             |                                              | 6 months after Week 15|
+| System Documentation           | Prepare a detailed report of the system design  | Week 10 to Week 14|
+| Project Demonstration          | Present and explain how the system works                  | Week 15           |
+| System Maintenance             | Monitor performance of the website and update it regularly                                            | 6 months after Week 15|
 
 
 ### 12. Conclusion:
