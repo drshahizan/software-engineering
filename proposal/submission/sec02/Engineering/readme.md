@@ -38,15 +38,15 @@ Don't forget to hit the :star: if you like this repo.
 
 ### 1. Executive Summary:
 
-The parcel system for a One Stop Parcel System of University Technology Malaysia  is a web-based application that will provide a streamlined and user-friendly interface for students, faculty, and staff to send and receive parcels on campus. The system will include real-time tracking of parcel deliveries, integration with the university's existing student and faculty database, secure payment processing for parcel deliveries, and a notification system to inform users when a parcel has arrived. The system will also integrate with the university's existing security system for parcel pickup.
+The parcel delivery system for a One Stop Parcel System and Cengal Parcel Point of University Technology Malaysia is a web-based application that will provide a streamlined and user-friendly interface for students, faculty, and staff to send and receive parcels on campus. The system will include real-time tracking of parcel deliveries, integration with the university's existing student and faculty database, secure payment processing for parcel deliveries, and a notification system to inform users when a parcel has arrived. The system will also integrate with the university's existing security system for parcel pickup.
 
 The project timeline for the parcel system is estimated at 14 weeks, including requirements gathering and analysis, system design and development, and system deployment and training. 
 
-The proposed parcel system will provide numerous benefits to the university community, including improved delivery times, enhanced security for parcel pickup, and a more efficient and user-friendly parcel delivery process. The project is expected to be successful, with careful planning, attention to detail, and effective communication and collaboration among the development team and stakeholders.ccommodation. KTDI staff will also benefit from increased efficiency, as the system will reduce the need for manual data entry and administrative tasks. Finally, the system is expected to reduce errors and delays in the accommodation management process, resulting in a more reliable and efficient system overall.
+The proposed parcel system will provide numerous benefits to the university community, including improved delivery times, enhanced security for parcel pickup, and a more efficient and user-friendly parcel delivery process. The project is expected to be successful, with careful planning, attention to detail, and effective communication and collaboration among the development team and stakeholders. Student who do parcel delivery service will also benefit from increased efficiency, as the system will reduce the need for messaging and waiting. Finally, the system is expected to reduce errors and delays in the parcel delivery process, resulting in a more reliable and efficient system overall.
 
 ### 2. Background:
 
-University Technology Malaysia (UTM) have large campuses with many buildings and locations, which can make it challenging for UTM students, faculty, and staff to send and receive parcels efficiently. In addition, traditional parcel delivery methods require individuals to wait in long lines or travel to Kolej Rahman Putra, which can be time-consuming and inconvenient.
+University Technology Malaysia (UTM) have large campuses with many buildings and locations, which can make it challenging for UTM students, faculty, and staff to send and receive parcels efficiently. In addition, traditional parcel delivery methods require individuals to wait in long lines or travel to Kolej Rahman Putra and Kolej Tun Hussein Onn, which can be time-consuming and inconvenient. Traditional parcel delivery method require students to place or recieve order in Telegram group which make students to overlook the thousand of messages and wait for too long to accpet their delivery orders.
 
 To address these challenges, a parcel system can be implemented to streamline the parcel delivery process and provide a more user-friendly experience for students, faculty, and staff. The proposed parcel system will be a web-based application that will be accessible to all members of the university community, allowing them to easily send and receive parcels on campus.
 
@@ -58,7 +58,7 @@ Overall, the proposed parcel system is expected to provide numerous benefits to 
 Our proposed parcel system aims to achieve the following objectives:
 
 1. To develop a web-based parcel delivery system for the university community.
-2. To integrate the system with the university's existing security system to enhance parcel pickup security.
+2. To integrate the system with the university's existing security system to enhance parcel delivery security.
 3. To provide real-time tracking of parcel deliveries to increase transparency and reduce delivery times.
 4. To offer a streamlined and user-friendly interface for parcel senders and receivers.
   
@@ -96,18 +96,17 @@ The proposed scope for the parcel system is expected to provide numerous benefit
 
 ### 5. Software Process Model:
 
-  ![Agile Method](https://miro.medium.com/v2/resize:fit:1024/1*dGbdNhomubFlfvEPrQrGNQ.png)
-1. **Requirements Gathering**: The first stage of the software process model will involve gathering requirements from stakeholders, including students, faculty, staff, and parcel senders. This stage will help identify the key features and functionality needed for the parcel system.
+1. Requirements Gathering: The first stage of the software process model will involve gathering requirements from stakeholders, including students, faculty, staff, and parcel senders. This stage will help identify the key features and functionality needed for the parcel system.
 
-2. **Design**: Once the requirements are gathered, the next stage will involve designing the system architecture, user interface, and database schema. This stage will also include developing wireframes and mockups to help visualize the system.
+2. Design: Once the requirements are gathered, the next stage will involve designing the system architecture, user interface, and database schema. This stage will also include developing wireframes and mockups to help visualize the system.
 
-3. **Development**: The third stage will involve actual development of the parcel system. This will include coding, database setup, and integration with third-party services such as payment gateways and security systems.
+3. Development: The third stage will involve actual development of the parcel system. This will include coding, database setup, and integration with third-party services such as payment gateways and security systems.
 
-4. **Testing**: The fourth stage will involve testing the system to ensure that it meets the requirements and is free of errors and bugs. This will include unit testing, integration testing, and user acceptance testing.
+4. Testing: The fourth stage will involve testing the system to ensure that it meets the requirements and is free of errors and bugs. This will include unit testing, integration testing, and user acceptance testing.
 
-5. **Deployment**: Once the testing is complete, the system will be deployed to a staging environment for final testing and validation. Once approved, the system will be deployed to the production environment.
+5. Deployment: Once the testing is complete, the system will be deployed to a staging environment for final testing and validation. Once approved, the system will be deployed to the production environment.
 
-6. **Maintenance**: The final stage will involve ongoing maintenance and support for the parcel system. This will include bug fixes, updates, and improvements to the system as needed.
+6. Maintenance: The final stage will involve ongoing maintenance and support for the parcel system. This will include bug fixes, updates, and improvements to the system as needed.
 
 The proposed software process model for the parcel system will allow for a structured and iterative approach to software development, ensuring that the system is designed and developed in accordance with stakeholder requirements and is thoroughly tested and validated before deployment.
 
@@ -159,10 +158,6 @@ The proposed system architecture will be designed to be scalable, secure, and ma
 
 5. Legal and Regulatory Risks: The parcel system may be subject to legal and regulatory risks such as compliance with data protection laws and regulations related to shipping and logistics. To mitigate these risks, the system should be designed with a comprehensive understanding of relevant laws and regulations, and have processes in place to ensure compliance.
 
-6. User adoption risks: The success of the parcel delivery system relies on user adoption. If the system is not user-friendly or fails to meet user needs, there is a risk that it will not be widely adopted by students and staff. To mitigate this risk, it is important to conduct user research and testing to ensure that the system meets the needs of its intended users.
-
-7. Data security risks: The system will handle sensitive user data such as personal information and payment details. There is a risk of data breaches and cyber attacks, which could result in the compromise of user data. To mitigate this risk, it is important to implement strong security measures such as encryption, secure authentication, and regular security audits.
-
 Overall, a thorough risk assessment should be conducted to identify and mitigate potential risks before and during the implementation of the parcel system. This will help ensure the success and sustainability of the system over the long term.
 
 ### 9. Resources:
@@ -179,36 +174,9 @@ Overall, a thorough risk assessment should be conducted to identify and mitigate
 
 ### 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
-  
-1. Data sources: The parcel delivery system will require data from various sources, including user data, package information, and payment details. User data may be sourced from the university's student and staff databases, while package information may be sourced from the courier or delivery services used by the university. Payment details may be sourced from payment gateways used by the system.
-
-2. Data schema: The data schema is the structure of the database that stores the system's data. The data schema should be designed to be efficient and secure, and should be able to handle a large volume of data. The schema should include tables for storing user data, package information, and payment details, as well as any other data required by the system.
-
-3. Data transformations: Data transformations may be necessary to ensure that data is stored and processed correctly in the system. For example, data may need to be transformed to conform to a specific format or standard, or to remove any errors or inconsistencies in the data. Data transformations may be performed using tools such as ETL (Extract, Transform, Load) or data mapping software.
-  
+- Mention the programming languages, frameworks, and libraries that will be used in the project.
 - Provide details about the hardware and software requirements for the proposed system.
-  
-1. Hardware Requirements:
-
-  - A reliable server or cloud hosting service capable of handling a large volume of traffic
-  - Sufficient storage space for storing user data, package information, and payment details
-  - A backup and disaster recovery solution to ensure that data is not lost in the event of a system failure or outage
-  - A network infrastructure capable of supporting the system's traffic and data transfer needs
-  - Hardware devices such as scanners or printers may also be required for package tracking and label printing
-
-2. Software Requirements:
-
-  - A server-side programming language such as Python, PHP, or Java for building the back-end of the system
-  - A database management system such as MySQL, PostgreSQL, or Microsoft SQL Server for storing system data
-  - A front-end framework or library such as React, Angular, or Vue.js for building the user interface
-  - An API integration tool such as Stripe, PayPal, or FedEx for integrating with third-party services
-  - A version control system such as Git for managing code changes and collaboration among the development team
-  - Testing frameworks and tools such as Jest, Mocha, or Selenium for ensuring system reliability and functionality
-  - Security tools and frameworks such as OWASP, SSL, or HTTPS for protecting user data and payment information
-  
-  
 - Explain the data security measures that will be implemented.
-
 
 ### 11. Timeline and Deliverables: 
 - Provide a detailed timeline for the project, including milestones and deadlines.
