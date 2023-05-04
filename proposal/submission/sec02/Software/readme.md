@@ -78,8 +78,7 @@ In final analysis, the proposed Student Health and Wellness System is a broad, b
 
 ### 5. Software Process Model:
 <div align="justify">
-    <img src="![image](https://user-images.githubusercontent.com/128198038/236095306-72a17d1d-4c65-4d54-83e9-7543c241b549.png)
-" alt="alt text" />
+    <img src="https://user-images.githubusercontent.com/128198038/236096082-51d056d1-9632-4b82-92b3-56aaa06f1566.png" alt="alt text" />
 </div>
 
 #### Gathering Requirements:
