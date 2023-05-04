@@ -15,10 +15,26 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ### Prepared by: <stakeholder>
-  1. NURUL ERINA BINTI ZAINUDDIN
-  2. NIK ZULAIKHAA BINTI ZURAIDI AFANDI
-  3. ALIATUL IZZAH BINTI JASMAN
-  4. THEVAN RAJU A/L JEGANATH A22EC0286
+ <table>
+<tr>
+  <th>No.</th>
+  <th>Member</th>
+  <th>Matric No.</th>
+  <th>Photo</th>
+</tr>
+<tr>
+  <td>1.</td> <td> NURUL ERINA BINTI ZAINUDDIN </td> <td> A22EC0254 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Engineering/photo/erinaaa.jpg" width=150px, height=200px> </td>
+  </tr>
+<tr>
+  <td>2.</td> <td> NIK ZULAIKHAA BINTI ZURAIDI AFANDI </td> <td> </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Engineering/photo/nik.jpg" width=150px, height=200px> </td>
+  </tr>
+<tr>
+  <td>3.</td> <td> ALIATUL IZZAH BINTI JASMAN </td> <td>  </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Engineering/photo/izzah.jpg" width=150,height=300> </td> 
+  </tr>
+<tr>
+  <td>4.</td> <td> THEVAN RAJU A/L JEGANATHi </td> <td> </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Engineering/photo/thevan.jpg" width=150px, height=170px> </td>
+  </tr>
+</table>
   
 
 ### Table of Contents
