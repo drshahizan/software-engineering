@@ -271,29 +271,18 @@ In conclusion, the potential risks that might face during the development and ma
 ### 11. Timeline and Deliverables: 
 <img src="https://user-images.githubusercontent.com/128159572/235585376-b25f2b58-b38e-43a6-be29-42e555828e48.jpeg">
 
-| Milestones                     | Tasks                                        | Timeframe         |
+| Milestones                     | Deliverables                                 | Timeframe         |
 | ------------------------------ | -------------------------------------------- | ----------------- |
-| **Project planning**               | Define scope and objectives of the project   | Week 4 to Week 6  |
+| **Project planning**               | Create project proposal                  | Week 4 to Week 6  |
 | **Requirements Gathering**         | Identify stakeholders and conduct interviews | Week 6 to Week 7  |
-| **Preparing Requirement Document** | Analyse stakeholder's requirements           | Week 7 to Week 9  |
-| **System Development**             | Design the system and starts coding          | Week 9 to Week 12 |
-| **System Testing and Debugging**   | Run the system test and fix the bugs         | Week 13 to Week 15|
-| **System Documentation**           | Prepare a detailed report of the system design  | Week 10 to Week 14|
+| **Requirements Analysis**          | Prepare System Requirements Specification    | Week 7 to Week 9  |
+| **System Development**             | Prepare System Design Document               | Week 9 to Week 12 |
+| **System Testing and Debugging**   | Prepare System Testing Document              | Week 13 to Week 15|
+| **System Documentation**           | Complete the full report of system  | Week 10 to Week 14|
 | **Project Demonstration**          | Present and explain how the system works                  | Week 15           |
 | **System Maintenance**             | Monitor performance of the website and update it regularly  | 6 months after Week 15|
 
-#### Deliverables
-- **Proposal** </br>
-This document describes project's background, scope, objectives, software process model, budget, system architecture, risks, resources, technical specifications, timeline, deliverables and conclusion.
 
-- **System Requirements Specification (SRS)**</br>
-SRS lists detailed software requirements that must be met to develop the system such as functional requirements, design constraint and non-functional attributes.
-
-- **System Design Document (SDD)**</br>
-SDD provides a complete overview of system architecture and user interface. It also describes each module clearly.
-
-- **System Testing Document (STD)**</br>
-SDD outlines test strategy, test scenarios and test cases. It also records test data which is needed to validate certain features and expected outputs.
 
 ### 12. Conclusion:
 - Simplify and streamline PKU processing time for students and administrators.
