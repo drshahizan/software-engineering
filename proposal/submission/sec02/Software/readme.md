@@ -38,19 +38,19 @@ The Student Health and Wellness System will not only offer invaluable health-rel
 ### 3. Objectives:
 - To improve the overall wellbeing of university students by using an innovative strategy to provide direct access to medical resources, introduce personalised health tracking tools, and offer reliable health tips and advice.
 
-(Example: The proposed system will reduce the PKU processing time by 25%, resulting in a 25% reduction in administrative workload.)
+> Example: The proposed system will reduce the PKU processing time by 25%, resulting in a 25% reduction in administrative workload.
 
 - To provide students with a platform to communicate and interact with medical professionals at the PKU facility, gain medical advice, and schedule appointments for medical services.
 
-(Example: Revolutionising healthcare delivery is the intended outcome of the proposed system, resulting in a 30% increase in online consultations and a 15% decrease in workload. The goal of the changes is to attract fewer walk-in patients, lowering their percentage by 30%. This innovative approach utilises complex wording and sentence construction to streamline medical services.)
+> Example: Revolutionising healthcare delivery is the intended outcome of the proposed system, resulting in a 30% increase in online consultations and a 15% decrease in workload. The goal of the changes is to attract fewer walk-in patients, lowering their percentage by 30%. This innovative approach utilises complex wording and sentence construction to streamline medical services.
 
 - To provide a swift and easy way to get an immediate avenue for help in times of crisis to students by calling PKU for emergency assistance.
 
-(Example: At a 30% improvement rate, the PKU emergency assistance system will become much more efficient due to the proposed emergency button. Overall, the university's emergency health issues will also see a 30% reduction.)
+> Example: At a 30% improvement rate, the PKU emergency assistance system will become much more efficient due to the proposed emergency button. Overall, the university's emergency health issues will also see a 30% reduction.
 
 - To enable PKU to better understand the health needs of the student population and provide targeted interventions through the collection and analysis of data inside the system.
 
-(Example: This will increase the efficiency of diagnosing health needs and infections among students by 20% and increase the healthcare service to students by 25%.)
+> Example: This will increase the efficiency of diagnosing health needs and infections among students by 20% and increase the healthcare service to students by 25%.
 
 ### 4. Scope: 
 The project proposal focuses exclusively on developing a software application to manage student health and wellness. Our primary objective is to design, implement, and maintain this system while avoiding hardware or infrastructure upgrades, as well as changes in existing policies or procedures.
@@ -113,7 +113,7 @@ In final analysis, the proposed Student Health and Wellness System is a broad, b
 - Apply the agile methodology to iterate on new website features and enhancements.
 
 ### 6. Budget:
-For the student health and wellness management website which involves around 2000 users, the estimated budget is **RM 550,000**. The budget includes the costs for 6 months of development and 6 months of maintenance for the website.
+For the student health and wellness management website which involves around 2000 users in Kolej Tun Dr. Ismail (KTDI), the estimated budget is **RM 550,000**. The budget includes the costs for 6 months of development and 6 months of maintenance for the website.
 - Hardware: **RM 35,000**\
 This could include purchasing or renting servers, storage devices, networking equipment, computers and other hardware necessary for the development and maintenance of the website. The cost might differ depending on the latest requirements of the website and the hardware components chosen.
 
