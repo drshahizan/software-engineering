@@ -258,10 +258,10 @@ ii. Software requirements
 
 #### System Architecture Diagram:
 The proposed system architecture can be visualized using the following flowchart:
-<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/flowchart_diagram.PNG">
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/flowchart_diagram.PNG" width=500px height=300px>
 
 High-level diagram that represents our proposed system architecture:<br>
-<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/level_diagram.PNG">
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/level_diagram.PNG" width=850px height=400px>
   
 ---
 
