@@ -63,7 +63,7 @@ The project proposal focuses exclusively on developing a software application to
   
 Defined by the following will be the boundaries of the project:
 - Seamlessly integrating with the current student information system, the Student Health and Wellness Management System is set to be crafted by a development team that will make sure it's compatible with the administrators' goals. Close cooperation will ensure a compatibility that won't become a hassle.
-- Out of scope and further analysis will be required for any additional features requested by stakeholders of the proposed system. In terms of student health and wellness, only health tracking, online chat with PKU, SOS, making appointments, and health tips will be included.
+- Out of scope and further analysis will be required for any additional features requested by stakeholders of the proposed system. In terms of student health and wellness, only health tracking, online consultation with PKU, SOS, medical lab results,mental health test, patient pending and waiting time, announcement and health tips will be included.
 - Including the Health Insurance Portability and Accountability Act (HIPAA) and the General Data Protection Regulation (GDPR), all applicable laws and regulations will be followed by the security and privacy features of the system.
 
 For this system, it will include the features below:
