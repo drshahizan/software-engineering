@@ -716,48 +716,48 @@ The development team of this project will create test cases and scenarios to cov
     </table>
 
 The overall testing procedures will be:
-- <b>Black-box testing</b> (To validate the system's functionality and behaviour):
+- <b>Black-box testing</b> (To validate the system's functionality and behaviour):<br>
 This is carried out by end-users who are not aware of the internal workings of the system, such as JKM KTDI, KTDI college office staff, and fellow members. They test the system's functionality based on its specifications and requirements, using only its inputs and outputs.
 
-- <b>White-box testing</b> (To validate the system's internal components, such as code or algorithms):
+- <b>White-box testing</b> (To validate the system's internal components, such as code or algorithms):<br>
 This is carried out by developers or testers who have access to the source code of the system being tested. This testing method involves running tests on the system's internal components to ensure they work as intended. The KTDI event management system team members will perform white-box testing.
 
-- <b>System testing</b> (Conduct system testing to validate the system as a whole):
+- <b>System testing</b> (Conduct system testing to validate the system as a whole):<br>
 This involves testing the entire system as a whole to ensure it meets the specified requirements and functions as expected. The KTDI event management system team members will carry out system testing, testing various aspects of the system, including the user interface, location booking system, paperwork management processes, and other key features.
 
-- <b>Performance Testing</b> (Conduct performance testing to validate the system's performance under different scenarios):
+- <b>Performance Testing</b> (Conduct performance testing to validate the system's performance under different scenarios):<br>
 Performance testing assesses how well the system performs under various loads and stresses. It involves creating realistic scenarios to test the system's throughput, response time, and resource usage under various user activity levels. The KTDI event management system team members are responsible for performance testing, using specialised tools and software to measure a variety of metrics, including server response time, page load time, and network latency. The system's performance will be optimised based on the performance testing results, any performance problems will be found, and the system's ability to handle the anticipated workload will be confirmed.
 
-- <b>Analyse Results and Report Defects</b> (Analyse the results of testing and report any defects or issues found):
+- <b>Analyse Results and Report Defects</b> (Analyse the results of testing and report any defects or issues found):<br>
 The development team of this project will work closely with the documentation specialist to create test reports summarising the results of testing, including any defects or issues found during the testing process. These reports will be used to monitor the testing's progress and ensure that the system is meeting the required quality standards. Any defects or issues found will be reported to the development team for resolution. The documentation specialist will be responsible for ensuring that all test reports are accurate and up-to-date.
 
-- <b>Retest and Validate Fixes:</b>
+- <b>Retest and Validate Fixes:</b><br>
 Retest any defects or issues found after they have been fixed by the development team. The testing team will verify that all defects and issues have been resolved before signing off on the system's release.
 
-- <b>Sign-Off:</b> 
+- <b>Sign-Off:</b><br>
 Sign off on the system's release after all testing is complete and all defects have been resolved.
 
 
 ### Quality Assurance Procedure
-- <b> Testing Activities:
+- <b> Testing Activities:</b><br>
 Perform black-box testing, white-box testing, and system testing to ensure the software meets quality standards and stakeholder requirements.
 Document all test results, including any defects or issues found during testing.
 
-- <b> Test Reports:</b> 
+- <b> Test Reports:</b><br>
 The documentation specialist is responsible for creating test reports summarising any issues found during testing and monitoring the testing progress.
 Use the test reports to ensure the software is upholding the necessary quality standards.
 
-- <b> Unit Testing:</b> 
+- <b> Unit Testing:</b><br>
 The main developer and team members will perform unit testing to test individual units or components of the system in isolation.
 Ensure each unit of the system is working as intended and free of defects or errors in the code.
 
-- <b> Code Reviews:</b> 
+- <b> Code Reviews:</b><br>
 The main developer and team members will perform code reviews to identify defects or errors in the code and ensure the code is consistent with the project's coding standards and guidelines.
 
-- <b> Continuous Integration:</b> 
+- <b> Continuous Integration:</b><br>
 As part of the continuous integration method of software development, integrate code into a public repository. Furthermore, it makes sure the code is correctly integrated, that any issues or conflicts are quickly identified and resolved, and that the system functions as intended and complies with the necessary quality standards.
 
-- <b> Analyse Results and Report Defects:</b> 
+- <b> Analyse Results and Report Defects:</b><br>
 Analyse the results of testing and report any defects or issues found to the development team for resolution.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
