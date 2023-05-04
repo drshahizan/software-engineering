@@ -289,7 +289,13 @@ Technical specification is important in this proposed system as the company shou
 |V: Project Closure and Handover(Week 14)| Project closed and system handed over to the company| Final project report, source code, and system documentation|Project manager, software developers, documentation team|
 
 ## 12. Conclusion:
-The Badal Hajj system aids the company in the registration process of the clients and reduce the duration taken for the registration process where most of the process is done through the system that provides better management of bulk data. The system will also help the company to reduce the error throughout the registartion process as the system apllies auto data-handling principle. The proposal of Badal Hajj system is constructed based on thorough analysis and reasonable budget planning which helps to create a successful system that provides many benefits to both party which are the company and the clients.
+The Badal Hajj system aids the company in the registration process of the clients and reduce the duration taken for the registration process where most of the process is done through the system that provides better management of bulk data. The system will also help the company to reduce the error throughout the registartion process as the system apllies auto data-handling principle.<br>
+
+The Badal Hajj system is included with several features such as booking,registration , payment , review and feedbacks and also other administrative functions. From the development of the system, the company is able to track the booking data of the clients, prcoess data in shortetr amount of time and also able to reduce the waiting time of the clients.The data of the clients is secured by implementing this system as it requires authorization from the clients and also company only .<br>
+
+The proposal of Badal Hajj system is constructed based on thorough analysis and reasonable budget planning which helps to create a successful system that provides many benefits to both party which are the company and the clients.We hope that by creating this software, th company can be able to reduce the workload of the staffs and increase the work efficiency of the company.
+
+
 
 ---
 
