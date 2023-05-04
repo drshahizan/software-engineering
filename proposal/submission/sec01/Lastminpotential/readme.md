@@ -106,7 +106,7 @@ The Faculty of Computing Feedback System will provide measurable benefits to all
 ### 5. Software Process Model:
 <p>Agile methodology is the optimal software process model for the creation of the Faculty Feedback System. Software development using the agile methodology is flexible and iterative, allowing for ongoing input and adaption. It is appropriate for this project since it enables us to release functional software frequently and fast in response to changes.</p>
 <img style="margin: 0 auto;width: 1000px" alt="image" src="https://mobile-jon.com/wp-content/uploads/2021/04/Agile-Methodology.jpg">
-- The illustration of chosen software process model that relates to your project and shows every phase involved in the chosen software process model
+Agile methodology is a flexible and iterative approach to project management that emphasizes collaboration, frequent feedback, and rapid prototyping. Here's a more detailed breakdown of how the agile methodology will be used for the development of this system:
  
 
 #### Project Development Phases
