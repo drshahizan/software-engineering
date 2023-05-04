@@ -66,11 +66,11 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2 |  | Salini Ravinthiran | Business Analyst | Meet stakeholder | Complete |
-| 3 | | | | | 
-| 4 | | | | | 
-| 5 | | | | | 
+| 1 | 02/05/2023| Salini Ravinthiran | Business Analyust | Gather user requirement | Partially Complete |
+| 2 | 02/05/2023 | Nur Farah Adibah Binti Idris  | Main Developer | Create system architecture design | Complete |
+| 3 | 02/05/2023 | Nur Farah Adibah Binti Idris  | Main Developer | Implement software functionality | Incomplete |
+| 4 | 02/05/2023 | Nur Aleysha Qurratu'aini Binti Mat Salleh | Quality Assurance Engineer | Create testing plan and execute tests | Incomplete | 
+| 5 | 02/05/2023 | Nadhrah NurSabrina Binti Zulaini | Assistant Developer | Create system documentation |Incomplete | 
 
 
 ## Contribution 🛠️
