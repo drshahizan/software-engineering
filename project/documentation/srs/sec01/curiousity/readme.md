@@ -51,7 +51,7 @@ Don't forget to hit the :star: if you like this repo.
     <tr>
     <td>Hanie Azyuni Binti Mazle</td>
     <td>JKM KTDI</td>
-    <td>Timbalan Pengerusi (Aktivity)</td>
+    <td>Timbalan Pengerusi (Aktiviti)</td>
     <td>Provide input on KTDI event information and documents</td>
   </tr>
     <tr>
@@ -67,10 +67,10 @@ Don't forget to hit the :star: if you like this repo.
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 08/04/2023 | Low Ying Xi | Project Manager | Create project plan | Complete |
-| 2 | 16/04/2023 | Ng Shu Yu | Gather user requirements |  Complete | 
-| 3 | 21/04/2023 | Camily Tang | Create proposal | Incomplete | 
-| 4 | 02/05/2023 | Low Ying Xi | Contact stakeholders | Complete | 
-| 5 | 03/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang | Meeting with stakeholders | Partially Complete | 
+| 2 | 16/04/2023 | Ng Shu Yu | Documentation Specialist | Gather user requirements | Complete | 
+| 3 | 21/04/2023 | Camily Tang | Developer | Create proposal | Partially Complete | 
+| 4 | 02/05/2023 | Low Ying Xi | Project Manager | Contact stakeholders | Complete | 
+| 5 | 03/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang | Project Manger, Documentation Specialist, Developer | Meeting with stakeholders | Complete | 
 | 6 | | | | | 
 
 

@@ -44,13 +44,13 @@ This proposal recommends the development of a student engagement website for stu
 <br></br>
 The key features of the student engagement website include:
 
-1. A personalized dashboard that displays a student's academic schedule, assignments, and other relevant information in a user-friendly interface.</li>
-<li>Course-specific forums and discussion boards that allow students to engage with their peers and faculty members in discussions related to specific courses.</li>
-<li>A student directory that enables students to connect with each other based on shared interests or academic programs.</li>
-<li>A notification system that keeps students informed about important academic events and deadlines, such as exam schedules and registration deadlines.</li>
-<li>A virtual events calendar that promotes student engagement in extracurricular activities, clubs, and other events on campus.</li>
-<li>A feedback system that allows students to provide feedback on courses, instructors, and other aspects of their academic experience.</li>
-</ul>
+- A personalized dashboard that displays a student's academic schedule, assignments, and other relevant information in a user-friendly interface.
+- Course-specific forums and discussion boards that allow students to engage with their peers and faculty members in discussions related to specific courses.
+- A student directory that enables students to connect with each other based on shared interests or academic programs.
+- A notification system that keeps students informed about important academic events and deadlines, such as exam schedules and registration deadlines.
+- A virtual events calendar that promotes student engagement in extracurricular activities, clubs, and other events on campus.
+- A feedback system that allows students to provide feedback on courses, instructors, and other aspects of their academic experience.
+
 <br>
 The development of the student engagement website will require a team of skilled developers, designers, and project managers who will work together to ensure a seamless user experience. The website will be designed to be accessible to all UTM Faculty Computing's students, regardless of their technological proficiency, and will be optimized for all types of browser.
 
@@ -132,35 +132,35 @@ The <b>Agile software process model</b> is an ideal process model for student en
 Here is the phases of agile model that can be applied to the development of a student engagement system:
 <br>
 <ol>
-  <li>Planning: In this phase, the project team identifies the project's objectives, timelines, and available resources. The team creates a backlog of features and user stories, prioritizes them, and estimates their effort.</li>
-  <li>Analysis and Design: In this phase, the team analyzes and designs the software architecture, database design, and user interface. The team also identifies dependencies, risks, and assumptions.</li>
-  <li>Development: In this phase, the team develops the software incrementally in short iterations called sprints. Each sprint typically lasts two to four weeks, and the team develops and tests a small set of features. The team collaborates daily and continuously reviews the product backlog to adjust the priorities and scope.</li>
-  <li>Testing: In this phase, the team performs testing continuously throughout the development process. The team writes automated unit tests, integration tests, and acceptance tests to ensure the software meets the requirements.</li>
-  <li>Deployment: In this phase, the team deploys the software to the production environment. The team releases the software incrementally, and each release includes a set of tested features.</li>
-  <li>Maintenance: In this phase, the team maintains the software by fixing defects, adding new features, and improving the system's performance. The team continuously receives feedback from users and stakeholders to improve the system further.</li>
+  <li><em>Planning:</em> In this phase, the project team identifies the project's objectives, timelines, and available resources. The team creates a backlog of features and user stories, prioritizes them, and estimates their effort.</li>
+  <li><em>Analysis and Design:</em> In this phase, the team analyzes and designs the software architecture, database design, and user interface. The team also identifies dependencies, risks, and assumptions.</li>
+  <li><em>Development</em>: In this phase, the team develops the software incrementally in short iterations called sprints. Each sprint typically lasts two to four weeks, and the team develops and tests a small set of features. The team collaborates daily and continuously reviews the product backlog to adjust the priorities and scope.</li>
+  <li><em>Testing:</em> In this phase, the team performs testing continuously throughout the development process. The team writes automated unit tests, integration tests, and acceptance tests to ensure the software meets the requirements.</li>
+  <li><em>Deployment:</em> In this phase, the team deploys the software to the production environment. The team releases the software incrementally, and each release includes a set of tested features.</li>
+  <li><em>Maintenance:</em> In this phase, the team maintains the software by fixing defects, adding new features, and improving the system's performance. The team continuously receives feedback from users and stakeholders to improve the system further.</li>
 </ol>
 <p align="center"><img src="gantt.jpg"></p>
 
 #### Testing Methodologies
 
 <ul>
-  <li>Acceptance Testing: This is used to make sure that our product met the requirements specified by our stakeholders such as MPP, lecturers and students. Not only that, this testing also had to make sure that user easily to engage with all the features provided.</li>
-  <li>Functional Testing: This testing is done to ensure that all the features work as expected.</li>
-  <li>Regression Testing: This is used to ensure updates launched would not cause any new bugs or issues occur and the existing features as well as data would function as good as before updates.</li>
-  <li>Performance Testing: As there could be many users using our system at the same time hence this performance testing is done to make sure system can still function well although there is a high traffic as well as testing the ability of the system to handle a large number of data inputs or users at the same time.</li>
-  <li>Usability Testing: This methodology is used to test whether our system is easy to navigate or the features is easy to access.</li>
+  <li><em>Acceptance Testing:</em> This is used to make sure that our product met the requirements specified by our stakeholders such as MPP, lecturers and students. Not only that, this testing also had to make sure that user easily to engage with all the features provided.</li>
+  <li><em>Functional Testing:</em> This testing is done to ensure that all the features work as expected.</li>
+  <li><em>Regression Testing:</em> This is used to ensure updates launched would not cause any new bugs or issues occur and the existing features as well as data would function as good as before updates.</li>
+  <li><em>Performance Testing:</em> As there could be many users using our system at the same time hence this performance testing is done to make sure system can still function well although there is a high traffic as well as testing the ability of the system to handle a large number of data inputs or users at the same time.</li>
+  <li><em>Usability Testing:</em> This methodology is used to test whether our system is easy to navigate or the features is easy to access.</li>
 </ul>
 
 #### Project Management Practices
 
 <ul>
-  <li>Establish clear project goals and objectives: The specific features and functions that included in our system should be defined clearly so that every group members understand what should be included in our system.</li>
-  <li>Use agile development methodologies: Scrum is an example of agile development methodologies that we could use for iterative development with frequent testing and feedback from users.</li>
-  <li>Collaborate with stakeholders: This is to ensure the product executed can meet the requirements of our stakeholders such as MPP, lecturers and students.</li>
-  <li>Communicate regularly: Communication is important as a team to develop a system. Discussion via face to face or any meeting applications such as Google Meet can be done to exchange any opinions from different perspectives.</li>
-  <li>Manage project risks: Identify what risks may appear throughout the development of our system in order to prevent panic when problems appear.</li>
-  <li>Prioritize tasks and workloads: Prioritize tasks and workloads based on our project goals and objectives so that nothing would be missed.</li>
-  <li>Monitor progress and adjust as needed: Always monitor the progress so that our system stays on track and meets our objectives.</li>
+  <li><em>Establish clear project goals and objectives:</em> The specific features and functions that included in our system should be defined clearly so that every group members understand what should be included in our system.</li>
+  <li><em>Use agile development methodologies:</em> Scrum is an example of agile development methodologies that we could use for iterative development with frequent testing and feedback from users.</li>
+  <li><em>Collaborate with stakeholders:</em> This is to ensure the product executed can meet the requirements of our stakeholders such as MPP, lecturers and students.</li>
+  <li><em>Communicate regularly:</em> Communication is important as a team to develop a system. Discussion via face to face or any meeting applications such as Google Meet can be done to exchange any opinions from different perspectives.</li>
+  <li><em>Manage project risks:</em> Identify what risks may appear throughout the development of our system in order to prevent panic when problems appear.</li>
+  <li><em>Prioritize tasks and workloads:</em> Prioritize tasks and workloads based on our project goals and objectives so that nothing would be missed.</li>
+  <li><em>Monitor progress and adjust as needed:</em> Always monitor the progress so that our system stays on track and meets our objectives.</li>
 </ul>
 
 #### Quality Assurance Processes
@@ -174,35 +174,35 @@ Here is the phases of agile model that can be applied to the development of a st
 </ul>
 
 ### 6. Budget
-The development of a student engagement system for approximately 40,000 users will involve various costs, including hardware, software, personnel, testing, and contingency. The budget for this project is estimated at **RM 4,000,000**, as outlined below:
+There will be a number of costs associated with the creation of a student engagement system that will serve about 40,000 users, including hardware, software, personnel, testing, and contingency. This project is expected to cost **RM 4,000,000**, as shown in the following breakdown:
 </p>
 
 #### Hardware: RM 1,200,000
-- The hardware budget includes the cost of purchasing and maintaining the necessary hardware infrastructure to support the student engagement system, including servers, storage devices, network devices, and other necessary hardware components.
-- The hardware should be able to support a large number of users, with high-speed internet connectivity and ample storage capacity.
-- The hardware should also be scalable to accommodate potential future growth in the number of users.
+- The cost of obtaining and maintaining the hardware infrastructure required to operate the student engagement system, including servers, storage devices, network devices, and other essential hardware components, is included in the hardware budget.
+- The hardware should be able to support a large number of users, with high-speed internet connectivity and large enough storage capacity.
+- In order to meet any potential future increases in the number of users, the hardware should also be expandable.
 
 #### Software: RM 800,000
-- The software budget includes the cost of purchasing and licensing software tools and platforms required for the development of the student engagement system, such as communication and collaboration tools.
+- The cost of purchasing and licencing software platforms and tools required for the creation of the student engagement system such as collaboration and communication tools, is included in the software budget.
 - The software licenses should be carefully selected to ensure compatibility, functionality, and security.
-- The software should also be user-friendly and easy to navigate to ensure engagement and adoption by the users of the student engagement system.
+- To ensure engagement and adoption by the users of the student engagement system, the software should be user-friendly and easily navigatable.
 
 #### Personnel: RM 1,800,000
-- The personnel budget includes the cost of salaries and benefits for the development team, including the project manager, system analyst, programmers, and testers.
-- The development team should have experience and expertise in developing student engagement systems, with a focus on creating user-friendly and engaging systems that promote collaboration and communication among students, and other features of the student engagement system.
-- The development team should also have expertise in data analysis and visualization to ensure that the system is able to track and analyze student engagement metrics effectively.
+- The development team's salary and benefits, including those for the project manager, system analyst, programmers, and testers, are covered by the personnel budget.
+- The development team should have experience and skill in developing student engagement systems, with a focus on creating user-friendly and captivating systems that promote collaboration and communication among students, and other features of the student engagement system.
+- To make sure that the system can track and analyse student engagement metrics efficiently, the development team should also have experience with data analysis and visualisation.
 
 #### Testing: RM 150,000
-- The testing budget includes the cost of conducting functional, performance, and security testing of the student engagement system.
-- The testing should include user acceptance testing to ensure that the system meets the needs and expectations of users.
-- The testing should also include stress testing to ensure that the system is able to handle a large number of users without performance issues.
+- The cost of performing functional, performance, and security testing of the student engagement system is covered by the testing budget.
+- The testing should include user acceptance testing to verify that the system meets the needs and expectations of users.
+- Stress testing should be done as part of the testing to make sure the system can manage a large number of users without experiencing performance problems.
 
 #### Contingency: RM 150,000
-- The contingency budget includes a small amount of funds set aside to cover any unexpected expenses that may arise during the development process.
-- These expenses could include unforeseen hardware or software failures, scope changes, or delays in the development process.
-- The contingency budget is included to ensure that the project can stay on track even in the face of unexpected challenges or setbacks, which could potentially impact student engagement.
+- A small amount of money is set aside in the contingency budget to pay for any unforeseen costs that might occur throughout the development process. 
+- These expenses could include unforeseen hardware or software failures, scope changes, or development timeline delays.
+- The project's contingency fund is included to ensure that it can proceed even in the event of unforeseen difficulties or setbacks that can have an impact on student engagement.
 
-In conclusion, the estimated budget for the development of the student engagement system proposal is RM 4,000,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingency. Any changes in the budget will be communicated to stakeholders and project sponsors.
+In conclusion, it is anticipated that RM 4,000,000 will be needed to develop the student engagement system. Costs associated with staff, testing, hardware, software, and contingency will all be covered by the budget. Stakeholders and project sponsors will be informed of any budget changes.
 
 
 ### 7. System Architecture

@@ -68,11 +68,11 @@ The following will be the boundaries of the project:
 - Including the Health Insurance Portability and Accountability Act (HIPAA) and the General Data Protection Regulation (GDPR), all applicable laws and regulations will be followed by the security and privacy features of the system.
 
 For this system, it will include the features below:
-- Medical lab results such as blood pressure, X-ray result, Urine test result, BMI, and so on.
-- Mental health test (Depression, Anxiety and Stress Scale (DASS)) that will help evaluate the patient's reaction to treatment.
-- Patient pending and waiting time for each medical department to improve the efficiency of PKU.
+- Personal health information which includes demographic information and lab results (eg. blood test, urine test, X-ray result)
+- Mental health self-test (Depression, Anxiety and Stress Scale (DASS)) that will help evaluate the patient's reaction to treatment.
+- Patient queue status which shows amount of pending patients and estimated waiting time for patients
 - SOS button for emergency calls.
-- Health tips to increase health awareness among students.
+- Health tips and healthcare infographics for students.
 - Announcement of PKU for any activities held.
 
 In final analysis, the proposed Student Health and Wellness System is a broad, but controlled program requiring strict adherence to applicable laws, regulations, and policies. Moreover, intricate and diverse processing must be applied to guarantee maximum efficiency. This necessitates a delicate balance between elaborate, detailed sentences and much simpler, straightforward ones. Ultimately, this strenuous undertaking assures the creation of an effective Student Health and Wellness System.
@@ -225,6 +225,10 @@ To mitigate these risks, a few steps can be taken:
   <tr>
     <th align= "left">Framework</th>
     <td>Bootstrap Studio</td>
+  </tr>
+    <tr>
+    <th align= "left">Integrated Development Environment (IDE)</th>
+    <td>Visual Studio Code</td>
   </tr>
   <tr>
     <th align= "left">Programming Language</th>
