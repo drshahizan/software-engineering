@@ -94,8 +94,8 @@ Our proposed system, KTDI Event Management System, is designed to provide a web-
 * <b>Streamline event preparation and post activity process</b><br>
 The system's ability to streamline the event preparation and post-activity process will make it easier for the JKM KTDI committee to manage their events. By providing a centralised platform, the committee can upload and get approval for event proposals, apply for facility rentals, and track the progress of each unit involved in the event. This feature will save time and reduce the risk of errors during the event planning process.
 
-* <b>Calendar</b><br>
-The calendar feature is an essential tool that enables JKM KTDI to plan their events efficiently. With this feature, the committee can schedule events and book appointments or meetings required for each event. This feature ensures that the events do not clash with each other, and they can allocate their resources efficiently to ensure the success of each event. By using the calendar, members can easily view upcoming events, appointments, and meetings, making it easier for them to plan their schedules and work accordingly.
+* <b>Calendar for annual events</b><br>
+The calendar for annual events feature is an essential tool that enables JKM KTDI to plan their events efficiently. With this feature, the committee can schedule events and book appointments or meetings required for each event. This feature ensures that the events do not clash with each other, and they can allocate their resources efficiently to ensure the success of each event. By using the calendar, members can easily view upcoming events, appointments, and meetings, making it easier for them to plan their schedules and work accordingly.
 
 * <b>Handling the necessary documents for each activity</b><br>
 This feature allows each member to upload their progress updates and necessary documents for their respective tasks. By setting deadlines for each task, members can ensure that they are on track with their work, and the overall progress of the event is visible to all members. This feature makes it easier for the higher authorities to monitor the progress of the event and identify areas that need improvement.
@@ -108,10 +108,6 @@ The ability to track the progress of each task and who completed it is a valuabl
 
 * <b>Post-Event Report</b><br>
 The post-event report feature enables the JKM KTDI committee to easily access the post-event report and pictures of each event held during the year. This feature will be useful when preparing their annual report, as it will contain all the necessary information required for the report. The report will also serve as a valuable tool for future reference, enabling the committee to evaluate the success of their events and identify areas that need improvement.
-
-* <b>Notes Section</b><br>
-The notes section is a valuable feature that enables members to provide feedback and suggestions to improve their events. Members can use this feature to address any issues or concerns that arise during the event planning process, ensuring that their events are successful and meet the needs of their target audience. The notes section will also serve as a platform for members to communicate with each other, enabling them to collaborate more effectively and achieve their goals.
-
 
 ### KTDI Office Staff and Fellow Members 
 * <b>Approval</b><br>
@@ -512,6 +508,7 @@ The table below shows the technical specifications of the KTDI Event Management 
         <li>Web Server: Apache（A free and open-source web server that delivers web content）</li>
         <li>Language Used: HTML（Used for webpages creation）, JavaScript（Used for creation of more dynamic interactions when developing webpages）, CSS（Used for controlling the layout of multiple webpages in a once  ）, or PHP（Works with Apache to help create dynamic web contents）</li>
         <li>Integrated Development Environment (IDE): Visual Studio Code （Code Editor）, Github （Collaboration of a group of system developers to manage and oberseve the updated code）</li>
+<li>Framework: Bootstrap （An HTML, CSS and JS library that focuses on simplifying the development of informative web pages）</li>
       </ul>
     </td>
   </tr>

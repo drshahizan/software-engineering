@@ -11,6 +11,8 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Badal Hajj and Umrah Management System
 
+<img src = "https://raw.githubusercontent.com/drshahizan/software-engineering/main/proposal/submission/sec02/Tempest/Gray%20Minimalist%20Photo%20Collage%20Instagram%20Post%20(1).png" width = "500px">
+
 ## Group Tempest :
 1.Muhammad Anas Bin Mohd Pikri (A21SC0464)
 
