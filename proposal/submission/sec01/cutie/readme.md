@@ -257,18 +257,36 @@ The development of UTM Student Attendance Management System for around 20,000 us
 #### Training and development programs for the team members: RM 25 000
 
 ### 10. Technical Specifications:
-<li>Data sources: Data will be collected through methods that students use to submit their attendance. For example, students can scan the attendance QR via their devices or students can insert a randomly generated code to submit their attendance. Data will also be collected via biometric devices such as fingerprint scanners and facial recognition systems in order to prove that their attendance is valid.</li>
-<li>Data Schema: 
-Student data (name,student ID, program, year, section)
-Attendance data (date, time, location)
-User data (user ID, user type, user permissions)</li>
-<li>Data Transformations: Data cleaning and validation. To ensure that data is accurate, complete, and consistent. Data cleaning involves identifying and correcting errors, such as misspellings, missing values, or duplicates, while data validation involves checking that the data meets certain criteria. Data enrichment and augmentation  to improve the quality, accuracy, and usefulness of data for various applications, such as business intelligence, research, and machine learning.</li>
-<li>Machine Learning Algorithms: Classification algorithms (Decision Trees, Random Forests ,etc) In student attendance systems, the algorithm could be used to predict whether a student is present or absent based on input data such as time, location, and biometric data.</li>
-<li>Data Visualization Tools: 
-Bar charts to display attendance rates for students. Pie charts to show the percentage of students’ status. Heat maps to show the overall attendance rates of students in a particular course or class. And also Python and Java which include libraries that are used for data visualization. </li>
-<li>Hardware and Software Requirements: Computers/Laptops, servers, network infrastructure (switches, routers, storage, etc.), printers and scanners, mobile devices (tablets/smartphones), integrated Development Environment (IDE), database management system, version control system, project management software, testing tools, and security software</li>
+<ul><li>Data sources: Data will be collected through methods that students use to submit their attendance. For example, students can scan the QR code for attendance via mobile devices or students can insert a randomly generated code to submit their attendance. Data will also be collected via biometric devices such as fingerprint scanners and facial recognition systems in order to prove that their attendance is valid.</li>
+  <li>Data Scheme: </li><ul>
+  <li>Student data (name,student ID, program, year, section)</li>
+  <li>Attendance data (date, time, location)</li>
+  <li>User data (user ID, user type, user permissions)</li></ul>
+<li>Data Transformations: Data cleaning and validation. To ensure that data is accurate, complete, and consistent. Data cleaning involves identifying and correcting errors, such as misspellings, missing values, or duplicates, while data validation involves making sure that the data meets certain criteria. Data enrichment and augmentation  to improve the quality, accuracy, and usefulness of data for various applications, such as business intelligence, research, and machine learning.</li>
+<li>Machine Learning Algorithms: Classification algorithms (Decision Trees, Random Forests ,etc) in student attendance systems, the algorithm could be used to confirm whether a student is present or absent based on input data such as time, location, and biometric data.</li>
+  <li>Data Visualization Tools: </li><ul>
+  <li>Bar charts</li><ul>
+  <li>display attendance rates for students<li></ul>
+  <li>Pie charts</li><ul>
+  <li>show the percentage of students’ status</li></ul>
+  <li>Heat maps</li><ul>
+  <li>show the overall attendance rates of students in a particular course or class.</li></ul>
+  <li>Python</li> 
+  <li>Java </li></ul>
+  <li>Hardware and Software Requirements:</li><ul>
+  <li>Computers/Laptops</li>
+  <li>Servers</li>
+  <li>Network infrastructure (switches, routers, storage, etc.)</li>
+  <li>Printers and scanners</li>
+  <li>Mobile devices (tablets/smartphones)</li>
+  <li>Integrated Development Environment (IDE)</li>
+  <li>Database management system</li>
+  <li>Version control system</li>
+  <li>Project management software</li>
+  <li>Testing tools</li>
+  <li>Security software</li></ul>
+  <li>Data Security Measures: Encryption, the process of converting data into a coded language that can only be accessed with a decryption key. This can prevent       unauthorised access to sensitive data.</li></ul>
 
-<li>Data Security Measures: Encryption, the process of converting data into a coded language that can only be accessed with a decryption key. This can prevent unauthorised access to sensitive data.</li>
 
 ### 11. Timeline and Deliverables: 
 #### Phase 1: Initiation
