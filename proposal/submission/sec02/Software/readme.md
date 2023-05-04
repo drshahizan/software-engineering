@@ -152,29 +152,43 @@ This could include additional funds set aside for any potential expenses or chan
 
 In conclusion, the estimated budget is **RM 570,000** which covers the costs for hardware, software, testing, maintenance, security, personnel and contingency. Any potential budget alterations must be relayed to stakeholders and project sponsors.
 
-### 7. System Architecture:
-#### Presentation Layer:
--User interface design (HTML, CSS, JavaScript) <br>
--Content management system (CMS) for managing website content<br>
--Accessibility features to ensure the website is accessible to users with disabilities<br>
--Responsive design for optimal display on various devices and screen sizes<br>
-#### Application Layer:
--Web server (e.g. Apache, Nginx)<br>
--Web application framework (e.g. Django, Ruby on Rails)<br>
--Business logic and data processing code<br>
--Integration with external services (e.g. appointment scheduling, health records)<br>
+### 7. System Architecture:  
 
-#### Data Layer:
--Relational database management system (e.g. MySQL, PostgreSQL)<br>
--Data schema design and management<br>
--Data access layer (e.g. Object Relational Mapping)<br>
-#### Security Layer:
--SSL/TLS encryption<br>
--User authentication and authorization mechanisms (e.g. OAuth2, LDAP)<br>
--Access control and permission management<br>
--Logging and monitoring for detecting and responding to security incidents<br>
+This section will discuss on the proposed system architecture of Student Health and Wellness Management System particularly about a wide variety of tools and technologies that will be used to develop and deploy the system including the elaboration on the way of the data in the system being stored, managed and analyzed and the tools and frameworks that used to realise data visualization and analysis. Moreover, the hardware and software requirements that are needed to support the implementation of this system will also be clarified.  
+
+The proposed system architecture for Student Health and Wellness Management System will use a four-tier architecture which are the presentation tier, application tier, data tier and security tier. The presentation tier will have a web-based user interface that allows students and Pusat Kesihatan University (PKU) to interact with the system. The application tier will in charge of handling the business logic and data processing and the data tier will store and manage the data while for the security tier will involve into controlling the access and manage the permission.  
+
+For the web-based user interface, we will use HTML, CSS, JavaScript and PHP. The application tier will be developed using Bootstrap framework, which is easy to be used and suitable for building a high-performance website for the project. We will use a relational database management system (RDBMS) to store the system data in which MySQL was chosen due to its stability, reliability, and cost-effectiveness. Lastly, the security tier will be developed using SSL/TLS encryption to protect the confidentiality and integrity of data-in-transit.  
+
+#### Data Storage and Management:
+Advanced data processing, retrieval, addition, and deletion functions are all hosted on an isolated server for maximum data integrity, with backup and disaster recovery systems in place. Deftly managing their complexity, the RDBMS stores the data reliably with a confident assurance that the data is safe. The database will be hosted on a dedicated server with backup and disaster recovery methods in place to guarantee the integrity of the data.  
+
+#### Hardware and Software Requirements:
+The hardware necessities for the system involve a specialized server for the database and a cloud hosting service for the web platform. For the software requirements part, a range of technologies that will be used are as following :  
+- User Interface Programming : HTML, CSS, JavaScript, PHP and Bootstrap Studio
+- Server : Apache
+- Framework : Bootstrap
+- Relational Database Management System (RDBMS) : MySQL
+- Developing Environment : Visual Studio Code
+- Version Control : Git  
+
+#### Data security and privacy
+To ensure data security and privacy, we will use encryption technologies such as SSL/TLS encryption to protect data transmission and storage meanwhile keeping the internet connection secure and safeguarding sensitive data that is being sent between two systems. We will also implement authentication and authorization mechanisms to control access to the system and its resources and also manage the permission which is the authorization level of different users.  
+
+#### Data visualization and analysis
+We will use various tools and frameworks such as Tableau and Google Data Studio to build a customized dashboard and effective reports. We will also use SQL (Structured Query Language) to manage, manipulate and analyze data that are stored in the database.  
+
+#### System Architecture Diagram:
+The proposed system architecture can be visualized using the following flowchart :  
+
+![Flowchart](https://user-images.githubusercontent.com/128119778/236140460-219fc052-e07f-41e2-9ee8-d48059df6fc6.png)  
 
 
+Diagram that represents our proposed system architecture :
+
+![SystemAchitecture](https://user-images.githubusercontent.com/128119778/236140524-f8a3d4af-3bc0-4ea2-a0fc-d5d803b864f2.png)
+
+In summary, the proposed system architecture for Student Health and Wellness Management System will be a four-tier architecture consisting of the presentation tier, application tier, data tier and also security tier. It will utilize modern web and mobile technologies, a relational database management system, encryption technologies, and authentication and authorization mechanisms to ensure data security and privacy. To guarantee data security and privacy, it will make use of modern online technologies, a relational database management system, encryption technologies, and authentication and authorisation procedures. Multiple tools and frameworks will be used collaboratively for data visualisation and analysis.
 
 ### 8. Risks Assessment:
 In general, every project can be influenced by risk so they required a special assessment procedure of the potential risks that could lead to the project's failure or loss if they occur. To develop a student health and wellness management website, the possible risks are: 
