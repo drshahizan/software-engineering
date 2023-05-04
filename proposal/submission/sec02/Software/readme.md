@@ -77,12 +77,17 @@ For this system, it will include the features below:
 In final analysis, the proposed Student Health and Wellness System is a broad, but controlled program requiring strict adherence to applicable laws, regulations, and policies. Moreover, intricate and diverse processing must be applied to guarantee maximum efficiency. This necessitates a delicate balance between elaborate, detailed sentences and much simpler, straightforward ones. Ultimately, this strenuous undertaking assures the creation of an effective Student Health and Wellness System.
 
 ### 5. Software Process Model:
-This section describe the ideal software process model for this system development. The write-up must consist of:
-- Explanation of the goal of the software process model.
-- Choose the ideal software process model and give justification.
-- The illustration of chosen software process model that relates to your project and shows every phase involved in the chosen software process model
-- Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. 
-- It should also describe the testing methodologies, project management practices, and quality assurance processes.
+#### Gathering Requirements:
+-Find and identify the best stakeholders. For examples, administrative personnel, medical professionals, and students.
+-Determine which features are necessary and which may be added later by analysing and prioritising the requirements.
+-Gather requirements from stakeholders using surveys, focus populations and interviews.
+-Plan a product backlog with a list of all the features and specifications.
+
+#### Planning a sprint
+-Examine the product backlog and make decision on which features will be selected in the following sprint.
+-Define a sprint backlog with the precise activities and user stories that must be performed during the sprint, and determine the sprint goals.
+-Assign tasks to team members followed by determine the required work loads for each members.
+
 
 ### 6. Budget:
 For the student health and wellness management website which involves around 2000 users, the estimated budget is **RM 550,000**. The budget includes the costs for 6 months of development and 6 months of maintenance for the website.
