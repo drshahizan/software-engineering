@@ -95,7 +95,9 @@ Our proposed parcel system aims to achieve the following objectives:
 The proposed scope for the parcel system is expected to provide numerous benefits to the university community, including improved delivery times, enhanced security for parcel pickup, and a more efficient and user-friendly parcel delivery process.
 
 ### 5. Software Process Model:
-
+  
+![Agile Method](https://miro.medium.com/v2/resize:fit:1024/1*dGbdNhomubFlfvEPrQrGNQ.png)
+  
 1. Requirements Gathering: The first stage of the software process model will involve gathering requirements from stakeholders, including students, faculty, staff, and parcel senders. This stage will help identify the key features and functionality needed for the parcel system.
 
 2. Design: Once the requirements are gathered, the next stage will involve designing the system architecture, user interface, and database schema. This stage will also include developing wireframes and mockups to help visualize the system.
