@@ -522,8 +522,8 @@ The table below shows the technical specifications of the KTDI Event Management 
         <li>Operating System: Windows, MacOS（Allows users to view and store files, run the software, and provide a way to connect the website by using the Internet）, Linux（Handles the operations of the application）</li>
         <li>Web Server: Apache（A free and open-source web server that delivers web content）</li>
         <li>Language Used: HTML（Used for webpages creation）, JavaScript（Used for creation of more dynamic interactions when developing webpages）, CSS（Used for controlling the layout of multiple webpages in a once  ）, or PHP（Works with Apache to help create dynamic web contents）</li>
-        <li>Integrated Development Environment (IDE): Visual Studio Code （Code Editor）, Github （Collaboration of a group of system developers to manage and oberseve the updated code）</li>
-<li>Framework: Bootstrap （An HTML, CSS and JS library that focuses on simplifying the development of informative web pages）</li>
+        <li>Integrated Development Environment (IDE): Visual Studio Code （Code Editor）, Github （Collaboration of a group of system developers to manage and observe the updated code）</li>
+        <li>Framework: Bootstrap （An HTML, CSS and JS library that focuses on simplifying the development of informative web pages）</li>
       </ul>
     </td>
   </tr>
