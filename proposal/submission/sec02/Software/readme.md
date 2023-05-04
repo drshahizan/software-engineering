@@ -10,8 +10,6 @@
   4. Tang Yan Qing A22EC0109
   5. Goh Jiale A22EA0043
 
-<img src="Software member grp photo.jpg" width= 75% height=75%>
-
 ### Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Executive Summary](#1-executive-summary)
@@ -94,31 +92,33 @@ Agile methodology is most suitable for this project because it guarantees short 
 - Find and identify the best stakeholders. For examples, PKU UTM administrative personnel, PKU UTM medical professionals, and UTM students.
 - Determine which features are necessary for Student Health and Wellness Management System and which may be added later by analysing and prioritising the requirements. For instances, health tips, SOS emergency call button, Dental Pre-appointment Form and Online Mental Consultation.
 - Gather requirements from stakeholders by explaning surveys questions, focus populations and interviews.
-- Plan a product backlog with a list of all the features and specifications needed for Student Health and Wellness Management System.
+- Plan a product backlog with a list of all the features and specifications needed for Student Health and Wellness Management System.  responsible for tracking process from time-to-time
 
-#### Planning Phase:
-- Examine the product backlog and make decision on which features will be selected in the following sprint.
-- Define a sprint backlog with the precise activities and user stories that must be performed during the sprint, and determine the sprint goals.
-- Assign tasks to team members followed by determine the required work loads for each members.
+#### Planning & Design Phase:
+- Examine the features backlog by receiving suggestions from PKU UTM administrative personnel, PKU UTM medical professional, UTM student survey ideas and make decision on which features need to be selected or removed in the following phase.
+- Requirements and features determined will be included in system architecture, database schema, and user interface. 
+- Design a features backlog with the wireframing, prototyping and database design. Stakeholders feedbacks that must be performed during the features, and determine the feature goals for achievements.
+- Assign tasks and roles to team members followed by determine the required work loads for each roles. The duration of this phase is week 6 to week 9, ONG YI YAN as Requirement Analyst responsible for tracking process from time-to-time.
 
 #### Sprint Development Phase:
-- Create the features and elements of the website that are included in the sprint backlog.
-- Organising meetings forprogress discussion, track team efforts, and identify problems.
+- Create the features and elements of the website that are included in the sprint and feature backlog by coding, unit testing, and integration testing. For example, HTML, CSS and PhP.
+- Organising meeting for progress discussion to track team efforts, and identify problems during the development progress.
 - Integrate and test continuously to make sure the website is operating as intended.
-- Documentation of website is adequated and code is routinely checked.
+- Documentation of website is adequated and code is routinely checked by developers.
+-The duration of this phase is week 4  to week 6, LEE YIK HONG as User Experience Designer responsible for tracking process from time-to-time.
 
-#### Sprint Review Phase:
-- Receive feedback from stakeholders by presenting the developed features.
+#### Sprint Review & Testing Phase:
+- Receive feedback from stakeholders by presenting the features functional, performance, and security testing. 
 - Review the sprint objectives and goal achieved.
-- Identify the problems of the website that need to be improved or developed further.
+- Identify the problems of the website that need to be improved or developed further by test planning, test execution, and defect management. 
 - Review the sprint process with the development team for improvement.
 - Change the development process as needed to increase effectiveness and efficiency.
 - Discuss achievements, difficulties, and ways for improvement.
 
 #### Deployment and Maintenance Phase
-- Launch the website in a live environment.
-- Users should receive training for user manual for better utilisation of the website.
-- Track the performance of the website, solve existed problems. Receive feedback from users and update the website as needed.
+- Launch the  Student Health and Wellness Management System website in a live environment.
+- Stakeholders such like PKU UTM administrative personnel, PKU UTM medical professionals, and UTM students should receive training for user manual and user acceptance testing for better utilisation of the website.
+- Track the performance bu users of the website, solve existed problems. Receive feedback from users and update the website as needed.
 - Analysing user activities for user patterns and improvements needed.
 - Apply the agile methodology to iterate on new website features and enhancements.
 
@@ -148,38 +148,28 @@ This could include additional funds set aside for any potential expenses or chan
 In conclusion, the estimated budget is **RM 550,000** which covers the costs for hardware, software, testing, maintenance, security, personnel and contingency. Any potential budget alterations must be relayed to stakeholders and project sponsors.
 
 ### 7. System Architecture:
-This section will discuss on the proposed system architecture of Student Health and Wellness Management System particularly about a wide variety of tools and technologies that will be used to develop and deploy the system including the elaboration on the way of the data in the system being stored, managed and analyzed and the tools and frameworks that used to realise data visualization and analysis. Moreover, the hardware and software requirements that are needed to support the implementation of this system will also be clarified.  
+#### Presentation Layer:
+-User interface design (HTML, CSS, JavaScript) <br>
+-Content management system (CMS) for managing website content<br>
+-Accessibility features to ensure the website is accessible to users with disabilities<br>
+-Responsive design for optimal display on various devices and screen sizes<br>
+#### Application Layer:
+-Web server (e.g. Apache, Nginx)<br>
+-Web application framework (e.g. Django, Ruby on Rails)<br>
+-Business logic and data processing code<br>
+-Integration with external services (e.g. appointment scheduling, health records)<br>
 
-The proposed system architecture for Student Health and Wellness Management System will use a four-tier architecture which are the presentation tier, application tier, data tier and security tier. The presentation tier will have a web-based user interface that allows students and Pusat Kesihatan University (PKU) to interact with the system. The application tier will in charge of handling the business logic and data processing and the data tier will store and manage the data while for the security tier will involve into controlling the access and manage the permission.  
-For the web-based user interface, we will use Content Management Systems (CMS) as well as HTML, CSS and JavaScript. The application tier will be developed using Django framework, which are suitable for building a high-performance website for the project. We will use a relational database management system (RDBMS) to store the system data in which MySQL was chosen due to its stability, reliability, and cost-effectiveness. Lastly, the security tier will be developed using SSL/TLS encryption to protect the confidentiality and integrity of data-in-transit.  
+#### Data Layer:
+-Relational database management system (e.g. MySQL, PostgreSQL)<br>
+-Data schema design and management<br>
+-Data access layer (e.g. Object Relational Mapping)<br>
+#### Security Layer:
+-SSL/TLS encryption<br>
+-User authentication and authorization mechanisms (e.g. OAuth2, LDAP)<br>
+-Access control and permission management<br>
+-Logging and monitoring for detecting and responding to security incidents<br>
 
-#### Data Storage and Management:
-Advanced data processing, retrieval, addition, and deletion functions are all hosted on an isolated server for maximum data integrity, with backup and disaster recovery systems in place. Deftly managing their complexity, the RDBMS stores the data reliably with a confident assurance that the data is safe. The database will be hosted on a dedicated server with backup and disaster recovery methods in place to guarantee the integrity of the data.  
 
-#### Hardware and Software Requirements:
-The hardware necessities for the system involve a specialized server for the database and a cloud hosting service for the web platform. For the software requirements part, a range of technologies that will be used are as following :  
-- User Interface Programming : HTML, CSS, JavaScript and Content Management Systems (CMS)
-- Server : Apache
-- Framework : Django
-- Relational Database Management System (RDBMS) : MySQL
-- Version Control : Git  
-
-#### Data security and privacy
-To ensure data security and privacy, we will use encryption technologies such as SSL/TLS encryption to protect data transmission and storage meanwhile keeping the internet connection secure and safeguarding sensitive data that is being sent between two systems. We will also implement authentication and authorization mechanisms to control access to the system and its resources and also manage the permission which is the authorization level of different users.  
-
-#### Data visualization and analysis
-We will use various tools and frameworks such as Tableau and Google Data Studio to build a customized dashboard and effective reports. We will also use SQL (Structured Query Language) to manage, manipulate and analyze data that are stored in the database.  
-
-#### System Architecture Diagram:
-The proposed system architecture can be visualized using the following flowchart:  
-
-![Flowchart](https://user-images.githubusercontent.com/128119778/236127324-78a61aa5-5822-4ed6-a82c-90c49cdb005e.png)  
-
-Diagram that represents our proposed system architecture :  
-
-![SystemAchitecture](https://user-images.githubusercontent.com/128119778/236127454-fe83bb22-b780-4141-b2b8-93c185a6b811.png)  
-
-In summary, the proposed system architecture for Student Health and Wellness Management System will be a four-tier architecture consisting of the presentation tier, application tier, data tier and also security tier. It will utilize modern web and mobile technologies, a relational database management system, encryption technologies, and authentication and authorization mechanisms to ensure data security and privacy. To guarantee data security and privacy, it will make use of modern online technologies, a relational database management system, encryption technologies, and authentication and authorisation procedures. Multiple tools and frameworks will be used collaboratively for data visualisation and analysis. 
 
 ### 8. Risks Assessment:
 In general, every project can be influenced by risk so they required a special assessment procedure of the potential risks that could lead to the project's failure or loss if they occur. To develop a student health and wellness management website, the possible risks are: 
