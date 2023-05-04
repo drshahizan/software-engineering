@@ -10,6 +10,8 @@
   4. Tang Yan Qing A22EC0109
   5. Goh Jiale A22EA0043
 
+<img src="Software member grp photo.jpg" width= 75% height=75%>
+
 ### Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Executive Summary](#1-executive-summary)
