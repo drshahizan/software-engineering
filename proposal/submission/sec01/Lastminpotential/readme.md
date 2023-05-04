@@ -105,20 +105,34 @@ The Faculty of Computing Feedback System will provide measurable benefits to all
 
 ### 5. Software Process Model:
 <p>Agile methodology is the optimal software process model for the creation of the Faculty Feedback System. Software development using the agile methodology is flexible and iterative, allowing for ongoing input and adaption. It is appropriate for this project since it enables us to release functional software frequently and fast in response to changes.</p>
-<img width="465" alt="image" src="https://mobile-jon.com/wp-content/uploads/2021/04/Agile-Methodology.jpg">
+<img style="margin: 0 auto;width: 1000px" alt="image" src="https://mobile-jon.com/wp-content/uploads/2021/04/Agile-Methodology.jpg">
 - The illustration of chosen software process model that relates to your project and shows every phase involved in the chosen software process model
-  <p><b>Planning phase:</b> Project manager (Tan Jun Yuan) will decide the goal and scope of the system during this phase. Project manager will also produce a paper outlining the essential specifications for the product within two weeks. Then, user stories are chosen and requirements are gathered by requirement analyst (Goh Jing Yang) who is in charge of this phase's deliverables, which comprise the requirements document and user stories, and it lasts for four weeks.</p>
-  <p><b>Design phase:</b> UI/UX system designer (Goh Jing Yang) will work on the project's architecture while designing a mockup of the user interface. In order to gather all the requirements on a diagram and identify the project's functionality, the stakeholders are again involved in this step. Additionally, routine checks will make it easier to determine whether or not the design process has taken into account all of the requirements.</p>
-  <p><b>Develop, testing, deploy and review phase:</b> Main developer (Loo Jia Chang) and asistant developer (Chen Pyng Haw) will now begin putting all of the product requirements gathered during the previous phase together. Before it is finished, it goes through numerous reviews and revisions for improvement.</p>
-  <ul>
-    <li>The association of the development team with project manager.</li>
-    <li>Iterations and functionalities are prioritized and implemented.</li>
-    <li>Each sprint/iteration should be closely examined and developed.</li>
-    <li>Delivering regular working software releases.</li>
-    <li>Ensuring product quality by testing at regular intervals.</li>
-  </ul>
-  <p>The duration for this phase is arund 10 weeks.</p>
-  <p><b>Launch phase:</b> The quality assurance team conducts tests to ensure the software's functionality prior to the product's release. The members of the QA team will test the programme to ensure that the code is clear, and if there are any possible issues or defects, the development team will take swift action to fix them.The duration for this phase is two weeks.After all work is done, this system will be launched.</p>
+ 
+
+#### Project Development Phases
+
+##### Planning Phase
+During the planning phase, the project manager, Tan Jun Yuan, will define the project goal and scope, identify the project's purpose, target audience, and desired outcome. Within two weeks, Tan Jun Yuan will produce a paper outlining the essential specifications for the product. At the same time, the requirement analyst, Goh Jing Yang, will gather requirements and choose user stories. The deliverables for this phase will be the requirements document and user stories. This phase will last for four weeks.
+
+##### Design Phase
+During the design phase, the UI/UX system designer, Goh Jing Yang, will work on the project's architecture while designing a mockup of the user interface. The stakeholders will be involved in this step to ensure that all the requirements are considered. Routine checks will be conducted to ensure that the design process has taken into account all of the requirements. This phase will prioritize the identification of the project's functionality and the creation of a diagram that outlines all the requirements. The duration for this phase will be around four weeks.
+
+##### Develop, Testing, Deploy and Review Phase
+The Develop, Testing, Deploy and Review phase involves the actual creation and implementation of the product, as well as continuous testing and quality assurance to ensure that the end product meets all the requirements and functions effectively. During this phase, the main developer, Loo Jia Chang, and assistant developer, Chen Pyng Haw, will work closely with the project manager to prioritize iterations and functionalities. The development team will work in sprints lasting one to two weeks, during which they will focus on a specific set of user stories or functionality. Each sprint will end with a review where the team will demonstrate their progress to stakeholders and receive feedback.
+
+Delivering regular working software releases is another key component of this phase. By releasing functional versions of the product, the team can gather feedback from users and stakeholders and make necessary adjustments early in the development process. Quality assurance is also an important part of the Develop, Testing, Deploy and Review phase. The development team will conduct regular tests throughout the development process to ensure that the product functions as expected and meets all requirements.
+
+Once the product is complete, it will be deployed to the appropriate environment. This may involve the creation of multiple environments, such as a testing environment and a production environment, to ensure that the product functions correctly in different scenarios. The Develop, Testing, Deploy and Review phase typically lasts around 10 weeks.
+
+##### Launch Phase
+During the launch phase, the quality assurance team will conduct tests to ensure the software's functionality prior to the product's release. The QA team will test the program to ensure that the code is clear. If there are any possible issues or defects, the development team will take swift action to fix them. The duration for this phase will be two weeks. Once all work is done, the system will be launched.
+
+| Phase | Tasks | Duration |
+| --- | --- | --- |
+| Planning | Define project goal and scope, produce essential specifications paper, gather requirements and choose user stories | 4 weeks |
+| Design | Work on project architecture, design mockup of user interface, involve stakeholders, identify project functionality, create requirements diagram | 4 weeks |
+| Develop, Testing, Deploy and Review | Prioritize iterations and functionalities, work in sprints, deliver regular working software releases, conduct regular tests for quality assurance, deploy to appropriate environment | 10 weeks |
+| Launch | Conduct tests for software functionality, fix any issues or defects found, launch the system | 2 weeks |
 
 ### 6. Budget:
 <ul>
@@ -147,6 +161,9 @@ The backend will be developed using:
 - Apache web server
 - MySQL database management system
 - Php programming language
+
+Framework will be using during the developement:
+- Laravel - a PHP web application framework.
 
 Data Storage and Management
 
