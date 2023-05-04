@@ -228,7 +228,7 @@ Overall, a thorough risk assessment should be conducted to identify and mitigate
 
 ### 12. Conclusion:
 
-Developing a parcel system for One Stop Parcel and Cengal Parcel Point UTM  will improve the user experience for students, faculty, and staff by streamlining the parcel delivery process and reducing delivery times. The proposed system will be designed to integrate with the university's existing systems and provide a secure, user-friendly interface for sending and receiving parcels. The project timeline and budget outlined in this proposal are based on careful analysis of the project requirements and are designed to ensure a successful outcome.
+Developing a parcel delivery system for One Stop Parcel and Cengal Parcel Point UTM  will improve the user experience for students, faculty, and staff by streamlining the parcel delivery process and reducing delivery times. The proposed system will be designed to integrate with the university's existing systems and provide a secure, user-friendly interface for sending and receiving parcels. The project timeline and budget outlined in this proposal are based on careful analysis of the project requirements and are designed to ensure a successful outcome. By prioritizing data security and following best practices for software development, the system can be made more secure, reliable, and user-friendly, ultimately providing a valuable service to the university community.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
