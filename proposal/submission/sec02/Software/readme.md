@@ -98,13 +98,14 @@ Agile methodology is most suitable for this project because it guarantees short 
 - Examine the features backlog by receiving suggestions from PKU UTM administrative personnel, PKU UTM medical professional, UTM student survey ideas and make decision on which features need to be selected or removed in the following phase.
 - Requirements and features determined will be included in system architecture, database schema, and user interface. 
 - Design a features backlog with the wireframing, prototyping and database design. Stakeholders feedbacks that must be performed during the features, and determine the feature goals for achievements.
-- Assign tasks and roles to team members followed by determine the required work loads for each roles.  responsible for tracking process from time-to-time.
+- Assign tasks and roles to team members followed by determine the required work loads for each roles. The duration of this phase is week 6 to week 9, ONG YI YAN as Requirement Analyst responsible for tracking process from time-to-time.
 
 #### Sprint Development Phase:
 - Create the features and elements of the website that are included in the sprint and feature backlog by coding, unit testing, and integration testing. For example, HTML, CSS and PhP.
 - Organising meeting for progress discussion to track team efforts, and identify problems during the development progress.
 - Integrate and test continuously to make sure the website is operating as intended.
 - Documentation of website is adequated and code is routinely checked by developers.
+-The duration of this phase is week 4  to week 6, LEE YIK HONG as User Experience Designer responsible for tracking process from time-to-time.
 
 #### Sprint Review & Testing Phase:
 - Receive feedback from stakeholders by presenting the features functional, performance, and security testing. 
@@ -116,7 +117,7 @@ Agile methodology is most suitable for this project because it guarantees short 
 
 #### Deployment and Maintenance Phase
 - Launch the  Student Health and Wellness Management System website in a live environment.
-- Stakeholders such like PKU UTM administrative personnel, PKU UTM medical professionals, and UTM students. should receive training for user manual and user acceptance testing for better utilisation of the website.
+- Stakeholders such like PKU UTM administrative personnel, PKU UTM medical professionals, and UTM students should receive training for user manual and user acceptance testing for better utilisation of the website.
 - Track the performance bu users of the website, solve existed problems. Receive feedback from users and update the website as needed.
 - Analysing user activities for user patterns and improvements needed.
 - Apply the agile methodology to iterate on new website features and enhancements.
@@ -285,33 +286,7 @@ In conclusion, the potential risks that might face during the development and ma
 | **Project Demonstration**          | Present and explain how the system works                  | Week 15           |
 | **System Maintenance**             | Monitor performance of the website and update it regularly  | 6 months after Week 15|
 
-### Quality assurance and testing procedures
-<table>
-  <tr>
-    <th align= "left" >Test Planning</th>
-    <td>Composes <b>test plan</b> which outlines 
-<ul>
-        <li>Testing objectives</li>
-        <li>Testing scope</li>
-        <li>Testing deliverables</li>
-        <li>Testing risks</li>
-        <li>Testing schedule</li>
- </ul>
- </td>
-  </tr>
-  <tr>
-  <th align= "left">Test Design</th>
-  <td> <ul><li>Constructs different test cases</li>
-  <li>Prepares test data</li>
-  <li>Sets up hardware, software and network configurations according to test environment configuration guidelines</td>
-  </tr>
-  <tr>
-  <th align= "left">Test Execution and Reporting</th>
-  <td> <ul><li>Executes different test cases</li>
-  <li>Generates bug reports</li>
-  <li>Completes System Testing Document</li></td>
-  </tr>
-</table>
+
 
 ### 12. Conclusion:
 - Simplify and streamline PKU processing time for students and administrators.
