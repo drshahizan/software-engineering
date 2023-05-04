@@ -297,7 +297,7 @@ To mitigate these risks, the following strategies will be employed:
 
 - Resource Constraints:
   - Technical risk: <br>For Student Accommodation System, Kolej Tun Dr Ismail(KTDI) should put in place routine data backups and disaster recovery plans, as well as routine maintenance,software and hardware updates to reduce the technical risks. They should also employ qualified Information Technology Specialist to run and maintain the system.
-  - Financial risk: <br>To reduce financial risks, should create a thorough financial strategy that takes into consideration the initial expenditures as well as recurring expenses of the Student Accommodation System. It's important to regularly examine and modify financial predictions to take any changes in enrollment or other monetary issues into consideration.
+  - Financial risk: <br>To reduce financial risks, they should create a thorough financial strategy that takes into consideration the initial expenditures as well as recurring expenses of the Student Accommodation System. It's important to regularly examine and modify financial predictions to take any changes in enrollment or other monetary issues into consideration.
 
 In general, it's necessary to identify and reduce these risks if we want the Student Accommodation System in Kolej Tun Dr Ismail (KTDI)
 to be more successful. We can reduce any negative effects and increase the advantages of the system by taking a proactive approach to risk management.
