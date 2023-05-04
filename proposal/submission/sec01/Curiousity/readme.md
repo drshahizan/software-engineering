@@ -40,6 +40,9 @@ Our proposed KTDI Event Management System is a comprehensive solution that aims 
 
 Our system offers a range of key features that assist our stakeholders in event preparation and post-activity processes. One such key feature is the inclusion of a calendar for annual events. This feature enables JKM KTDI to plan and schedule their events for the year in advance, avoiding scheduling conflicts. Another feature is the ability to handle the necessary documents for each activity, ensuring that all required paperwork is organised and easily accessible.
 
+Additionally, our system enables JKM KTDI to distribute tasks to team members, allowing for efficient delegation and a smoother planning process. With our system's visible progress feature, event planners can track their team’s progress and stay on top of their goals throughout the planning process. Lastly, after the event is over, allow them to complete their activity with post-event reporting.
+
+
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 2. Background:
