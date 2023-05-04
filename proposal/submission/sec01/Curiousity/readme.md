@@ -395,7 +395,7 @@ The Staff Office KTDI, Fellow, and Assistant Fellow interfaces can view whether 
     </table>
 
 The block diagram for the proposed system architecture is as follows:
-<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Curiousity/system%20architecture.png" alt="SystemArchitecture"></img>
+<img src="system_architecture_dg.jpg" alt="SystemArchitecture"></img>
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
