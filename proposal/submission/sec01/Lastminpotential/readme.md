@@ -193,11 +193,13 @@ System Architecture Flowchart
    
 #### Staff
 
-- Project Manager - Responsible for managing the project, coordinating with stakeholders, and ensuring that the project is completed on time and within budget.
-- Technical Lead - Responsible for designing and developing the feedback system, including the frontend and backend.
-- Software Developers - Responsible for coding and testing the system.
-- Quality Assurance Engineer - Responsible for testing the system to ensure that it meets the requirements and specifications.
-- Database Administrator - Responsible for managing the database and ensuring that data is stored securely.
+| Role                      | Responsibilities                                                                                                                 |
+|---------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Project Manager           | Managing the project, coordinating with stakeholders, and ensuring that the project is completed on time and within budget.       |
+| Technical Lead            | Designing and developing the feedback system, including the frontend and backend.                                               |
+| Software Developers       | Coding and testing the system.                                                                                                   |
+| Quality Assurance Engineer | Testing the system to ensure that it meets the requirements and specifications.                                                 |
+| Database Administrator    | Managing the database and ensuring that data is stored securely.                                                                 |
 
 #### Equipment
 
