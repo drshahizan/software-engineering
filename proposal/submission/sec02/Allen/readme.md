@@ -153,42 +153,19 @@ The system will have a multi-tier architecture consisting of a presentation laye
 
 - Flowchart:
  
-```sql
-    
-+---------------------+       +------------------------+       +-----------------------+
-|                     |       |                        |       |                       |
-| Presentation Layer  +------->     Application Layer   +------->      Data Layer      |
-|                     |       |    (Laravel Framework)  |       |    (MySQL, RDBMS)    |
-+---------------------+       +------------------------+       +-----------------------+
-```
+![image](https://user-images.githubusercontent.com/128206862/236135846-4541e2fc-775d-4bfd-b824-423235b0388c.png)
+
 
 
 - Block Diagram: 
           
-```sql
-               +------------------+
-               |     Web Server   |
-               |   (Apache, PHP)  |
-               +------------------+
-                        |
-                        |
-               +------------------+
-               |   Application    |
-               |   (Laravel)      |
-               +------------------+
-                        |
-                        |
-               +------------------+
-               |  Database Server |
-               |  (MySQL, RDBMS)  |
-               +------------------+
-                        |
-                        |
-               +------------------+
-               |     Database     |
-               +------------------+
+![image](https://user-images.githubusercontent.com/128206862/236136149-cb803135-6bf9-476a-8148-38b5a5f5d9ef.png)
 
-```
+- Case Diagram:
+
+![image](https://user-images.githubusercontent.com/128206862/236136708-aa56637a-0a06-42ef-b1ff-c951e821e5be.png)
+
+
 ### 8. Risks Assessment:
 Risk assessment is an essential part of any software development project, and the UTM Grading System project is no exception. The following is a risk assessment and management plan for the project.
 #### 1. Technical Challenges: 
