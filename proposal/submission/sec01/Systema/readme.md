@@ -174,35 +174,35 @@ Here is the phases of agile model that can be applied to the development of a st
 </ul>
 
 ### 6. Budget
-The development of a student engagement system for approximately 40,000 users will involve various costs, including hardware, software, personnel, testing, and contingency. The budget for this project is estimated at **RM 4,000,000**, as outlined below:
+There will be a number of costs associated with the creation of a student engagement system that will serve about 40,000 users, including hardware, software, personnel, testing, and contingency. This project is expected to cost **RM 4,000,000**, as shown in the following breakdown:
 </p>
 
 #### Hardware: RM 1,200,000
-- The hardware budget includes the cost of purchasing and maintaining the necessary hardware infrastructure to support the student engagement system, including servers, storage devices, network devices, and other necessary hardware components.
-- The hardware should be able to support a large number of users, with high-speed internet connectivity and ample storage capacity.
-- The hardware should also be scalable to accommodate potential future growth in the number of users.
+- The cost of obtaining and maintaining the hardware infrastructure required to operate the student engagement system, including servers, storage devices, network devices, and other essential hardware components, is included in the hardware budget.
+- The hardware should be able to support a large number of users, with high-speed internet connectivity and large enough storage capacity.
+- In order to meet any potential future increases in the number of users, the hardware should also be expandable.
 
 #### Software: RM 800,000
-- The software budget includes the cost of purchasing and licensing software tools and platforms required for the development of the student engagement system, such as communication and collaboration tools.
+- The cost of purchasing and licencing software platforms and tools required for the creation of the student engagement system such as collaboration and communication tools, is included in the software budget.
 - The software licenses should be carefully selected to ensure compatibility, functionality, and security.
-- The software should also be user-friendly and easy to navigate to ensure engagement and adoption by the users of the student engagement system.
+- To ensure engagement and adoption by the users of the student engagement system, the software should be user-friendly and easily navigatable.
 
 #### Personnel: RM 1,800,000
-- The personnel budget includes the cost of salaries and benefits for the development team, including the project manager, system analyst, programmers, and testers.
-- The development team should have experience and expertise in developing student engagement systems, with a focus on creating user-friendly and engaging systems that promote collaboration and communication among students, and other features of the student engagement system.
-- The development team should also have expertise in data analysis and visualization to ensure that the system is able to track and analyze student engagement metrics effectively.
+- The development team's salary and benefits, including those for the project manager, system analyst, programmers, and testers, are covered by the personnel budget.
+- The development team should have experience and skill in developing student engagement systems, with a focus on creating user-friendly and captivating systems that promote collaboration and communication among students, and other features of the student engagement system.
+- To make sure that the system can track and analyse student engagement metrics efficiently, the development team should also have experience with data analysis and visualisation.
 
 #### Testing: RM 150,000
-- The testing budget includes the cost of conducting functional, performance, and security testing of the student engagement system.
-- The testing should include user acceptance testing to ensure that the system meets the needs and expectations of users.
-- The testing should also include stress testing to ensure that the system is able to handle a large number of users without performance issues.
+- The cost of performing functional, performance, and security testing of the student engagement system is covered by the testing budget.
+- The testing should include user acceptance testing to verify that the system meets the needs and expectations of users.
+- Stress testing should be done as part of the testing to make sure the system can manage a large number of users without experiencing performance problems.
 
 #### Contingency: RM 150,000
-- The contingency budget includes a small amount of funds set aside to cover any unexpected expenses that may arise during the development process.
-- These expenses could include unforeseen hardware or software failures, scope changes, or delays in the development process.
-- The contingency budget is included to ensure that the project can stay on track even in the face of unexpected challenges or setbacks, which could potentially impact student engagement.
+- A small amount of money is set aside in the contingency budget to pay for any unforeseen costs that might occur throughout the development process. 
+- These expenses could include unforeseen hardware or software failures, scope changes, or development timeline delays.
+- The project's contingency fund is included to ensure that it can proceed even in the event of unforeseen difficulties or setbacks that can have an impact on student engagement.
 
-In conclusion, the estimated budget for the development of the student engagement system proposal is RM 4,000,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingency. Any changes in the budget will be communicated to stakeholders and project sponsors.
+In conclusion, it is anticipated that RM 4,000,000 will be needed to develop the student engagement system. Costs associated with staff, testing, hardware, software, and contingency will all be covered by the budget. Stakeholders and project sponsors will be informed of any budget changes.
 
 
 ### 7. System Architecture
