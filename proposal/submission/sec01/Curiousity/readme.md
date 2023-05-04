@@ -220,7 +220,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
       </tbody>
     </table>
 
-#### Testing Methodologies: 
+### Testing Methodologies: 
 The testing methodologies that will be used are black-box testing, white-box testing, and grey-box testing.
 
 * <b>Black-box testing</b>:
@@ -231,7 +231,7 @@ Also known as structural testing, is a testing technique where the tester is awa
 
 * <b>System testing:</b> For KTDI event management system, system testing involves testing the entire system as a whole to ensure that it meets the specified requirements and functions as expected. This can involve testing various aspects of the system, including the user interface, location booking system, paperwork management processes, and other key features. System testing helps to identify any bugs, errors, or issues that may impact the system's functionality, and ensures that the system is reliable and performs well under different scenarios. The team members will carry out system testing for the KTDI event management system.
 
-#### Project Management Practices: 
+### Project Management Practices: 
 * <b>Agile Project Management:</b>  An effective project management strategy for software development projects is called agile. It entails segmenting the project into shorter, easier-to-manage units called sprints. A specific set of tasks are finished during each sprint, which is a brief, concentrated time frame.
 
 * <b>Scrum:</b> Scrum is an agile project management framework for software development. It includes a number of rituals, roles, and artefacts that aid in making sure the project is completed on schedule, within budget, and in accordance with the necessary quality standards.
@@ -245,7 +245,7 @@ Also known as structural testing, is a testing technique where the tester is awa
 * <b>Retrospective Meetings:</b> The team holds a review session following each sprint. The team reviews the sprint during this meeting and pinpoints areas for development.
 
 
-#### Quality Assurance Processes: 
+### Quality Assurance Processes: 
 * <b>Testing Activities:</b> A crucial component of quality assurance is testing. By carrying out various testing tasks like black-box testing, white-box testing, and system testing, it will guarantee that the system complies with the quality standards . The purpose of the testing operations is to find any flaws or problems in the system and make sure it satisfies the demands of the stakeholders.
 
 * <b>Test Reports:</b> The documentation specialist will also be responsible for creating test reports. These reports will summarise any issues found and include the testing activities' findings. The reports will be used to monitor the testing's progress and make sure the system is upholding the necessary quality standards.
