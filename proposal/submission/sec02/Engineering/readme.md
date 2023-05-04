@@ -96,8 +96,6 @@ The proposed scope for the parcel system is expected to provide numerous benefit
 
 ### 5. Software Process Model:
 
- Using an Agile Scrum methodology can help ensure that the development process is responsive to changing requirements and that the final product meets the needs of stakeholders. Regular communication and collaboration among the development team and stakeholders can help to ensure that the development process is transparent and focused on delivering value.
-  
 ![Agile Method](https://miro.medium.com/v2/resize:fit:1024/1*dGbdNhomubFlfvEPrQrGNQ.png)
 
 1. Requirements Gathering: The first stage of the software process model will involve gathering requirements from stakeholders, including students, faculty, staff, and parcel senders. This stage will help identify the key features and functionality needed for the parcel system.
@@ -222,13 +220,54 @@ Overall, a thorough risk assessment should be conducted to identify and mitigate
   Data transformations may be necessary to ensure that data is stored and processed correctly in the system. For example, data may need to be transformed to conform to a specific format or standard, or to remove any errors or inconsistencies in the data. Data transformations may be performed using tools such as ETL (Extract, Transform, Load) or data mapping software.
   
 ### 11. Timeline and Deliverables: 
-- Provide a detailed timeline for the project, including milestones and deadlines.
-- Specify the deliverables that will be provided at each milestone. It should also specify the expected time frame for each deliverable and the resources that will be required to complete the project.
-- Explain the quality assurance and testing procedures that will be followed.
+ Parcel Delivery Management System Timeline and Deliverables
+
+#### Week 1-2: Project Planning and Requirements Gathering
+- Identify stakeholders and gather requirements for the PDMS website
+- Develop a project plan with timelines and milestones
+- Deliverable: Project plan and requirements documentation
+
+#### Week 3-4: System Design and Architecture
+- Design the architecture of the PDMS website
+- Create a wireframe or prototype of the PDMS website user interface
+- Deliverable: System architecture and user interface design
+
+#### Week 5-6: PDMS Website Development
+- Develop the frontend and backend of the PDMS website
+- Implement the user interface design
+- Integrate the delivery label generation and scanning functionalities
+- Deliverable: Working PDMS website prototype
+
+#### Week 7-8: Testing and Quality Assurance
+- Test the PDMS website for functionality, usability, and security
+- Conduct user acceptance testing and collect feedback
+- Perform quality assurance testing and bug fixing
+- Deliverable: Tested and quality-assured PDMS website
+
+#### Week 9-10: Delivery Personnel Dashboard Development
+- Develop a web-based dashboard for delivery personnel that integrates with the PDMS website
+- Implement the scanning functionality for updating the status of parcels in real-time
+- Deliverable: Working delivery personnel dashboard prototype
+
+#### Week 11-12: Deployment and Integration
+- Deploy the PDMS website and delivery personnel dashboard to a server
+- Integrate the PDMS website with the university's existing infrastructure, such as mailrooms and loading docks
+- Deliverable: Deployed and integrated PDMS website and delivery personnel dashboard
+
+#### Week 13-14: Training, Documentation, and Finalization
+- Develop user manuals, video tutorials, and FAQs for the PDMS website and delivery personnel dashboard
+- Provide training and support to users and delivery personnel
+- Finalize the PDMS website and delivery personnel dashboard based on feedback
+- Deliverable: Completed PDMS website and delivery personnel dashboard with training and support materials
+
+#### Overall Deliverable
+Completed Parcel Delivery Management System with a working website for users, a delivery personnel dashboard, and training and support materials for users and delivery personnel.
+
+
 
 ### 12. Conclusion:
 
-Developing a parcel delivery system for One Stop Parcel and Cengal Parcel Point UTM  will improve the user experience for students, faculty, and staff by streamlining the parcel delivery process and reducing delivery times. The proposed system will be designed to integrate with the university's existing systems and provide a secure, user-friendly interface for sending and receiving parcels. The project timeline and budget outlined in this proposal are based on careful analysis of the project requirements and are designed to ensure a successful outcome. By prioritizing data security and following best practices for software development, the system can be made more secure, reliable, and user-friendly, ultimately providing a valuable service to the university community.
+Developing a parcel system for One Stop Parcel and Cengal Parcel Point UTM  will improve the user experience for students, faculty, and staff by streamlining the parcel delivery process and reducing delivery times. The proposed system will be designed to integrate with the university's existing systems and provide a secure, user-friendly interface for sending and receiving parcels. The project timeline and budget outlined in this proposal are based on careful analysis of the project requirements and are designed to ensure a successful outcome.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
