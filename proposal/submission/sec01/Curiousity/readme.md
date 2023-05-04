@@ -38,6 +38,8 @@ Don't forget to hit the :star: if you like this repo.
 ### 1. Executive Summary:
 Our proposed KTDI Event Management System is a comprehensive solution that aims to simplify and streamline the processes of event management for Jawatankuasa Kolej Mahasiswa Kolej Tun Dr. Ismail (JKM KTDI) at University Technology Malaysia (UTM), KTDI office staff, and fellow KTDI.
 
+Our system offers a range of key features that assist our stakeholders in event preparation and post-activity processes. One such key feature is the inclusion of a calendar for annual events. This feature enables JKM KTDI to plan and schedule their events for the year in advance, avoiding scheduling conflicts. Another feature is the ability to handle the necessary documents for each activity, ensuring that all required paperwork is organised and easily accessible.
+
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 2. Background:
