@@ -380,7 +380,7 @@ The Staff Office KTDI, Fellow, and Assistant Fellow interfaces can view whether 
         </tr>
         <tr>
           <td>Apache</td>
-          <td>open-source web server software that used to host and serve the web pages and PHP scripts that make up the system's user interface and backend functionality</td>
+          <td>Open-source web server software that used to host and serve the web pages and PHP scripts that make up the system's user interface and backend functionality</td>
         </tr>
         <tr>
           <td rowspan="2">Overall of the System Development</td>
@@ -389,7 +389,7 @@ The Staff Office KTDI, Fellow, and Assistant Fellow interfaces can view whether 
         </tr>
         <tr>
           <td>Github</td>
-          <td>used for version control and collaborative development. Developers involved will use it to store codebase, track changes to code and collaborate with other developers on the project. It will be used for code review and issue tracking to resolve bugs and other issue in the system</td>
+          <td>Used for version control and collaborative development. Developers involved will use it to store codebase, track changes to code and collaborate with other developers on the project. It will be used for code review and issue tracking to resolve bugs and other issue in the system</td>
         </tr>
       </tbody>
     </table>
@@ -716,13 +716,13 @@ The development team of this project will create test cases and scenarios to cov
     </table>
 
 The overall testing procedures will be:
-- <b>Black-box testing</b> (To validate the system's functionality and behaviour):<br>
+- <b>Black-Box Testing</b> (To validate the system's functionality and behaviour):<br>
 This is carried out by end-users who are not aware of the internal workings of the system, such as JKM KTDI, KTDI college office staff, and fellow members. They test the system's functionality based on its specifications and requirements, using only its inputs and outputs.
 
-- <b>White-box testing</b> (To validate the system's internal components, such as code or algorithms):<br>
+- <b>White-Box Testing</b> (To validate the system's internal components, such as code or algorithms):<br>
 This is carried out by developers or testers who have access to the source code of the system being tested. This testing method involves running tests on the system's internal components to ensure they work as intended. The KTDI event management system team members will perform white-box testing.
 
-- <b>System testing</b> (Conduct system testing to validate the system as a whole):<br>
+- <b>System Testing</b> (Conduct system testing to validate the system as a whole):<br>
 This involves testing the entire system as a whole to ensure it meets the specified requirements and functions as expected. The KTDI event management system team members will carry out system testing, testing various aspects of the system, including the user interface, location booking system, paperwork management processes, and other key features.
 
 - <b>Performance Testing</b> (Conduct performance testing to validate the system's performance under different scenarios):<br>
