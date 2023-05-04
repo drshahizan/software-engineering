@@ -44,7 +44,7 @@
   ---
   
 ### 1. Executive Summary
-The Kolej Tun Dr Ismail College room rental services project aims to develop a web-based system that allows students to easily request and rent college rooms. The system will automatically calculate the rental price based on the type of room and number of days the student will stay. After the application is approved, the student will receive an invoice that will be sent to the student Financial Sections of University Technology of Malaysia. 
+The Kolej Tun Dr Ismail College room rental system project aims to develop a web-based system that allows students to easily request and rent college rooms. The system will automatically calculate the rental price based on the type of room and number of days the student will stay. After the application is approved, the student will receive an invoice that will be sent to the student Financial Sections of University Technology of Malaysia. 
 
 The main goal of the system is to simplify the college room rental process and ensure timely and accurate payment processing. The system will be developed using a web-based architecture and will require expertise in full-stack web development. The project team will consist of a main developer, a business analyst, a quality assurance engineer, a UI/UX designer, a database administrator, and an assistant developer. The project will require workstations, a server or cloud infrastructure, and various software tools such as an IDE, front-end and web frameworks, and testing frameworks. The project will also require other expenses such as internet access and office supplies. 
 
@@ -301,7 +301,7 @@ The resources required for the proposed college room rental system project can b
 
 ### 12. Conclusion:
 
-The Kolej Tun Dr Ismail College room rental services project aims to simplify the room rental process for students and staff by developing a web-based system that automates the process of renting college rooms. The system will consist of a three-tier architecture with a presentation tier, application tier, and data tier. The project will require a team with expertise in full-stack web development, and various software tools such as HTML, CSS, JavaScript, React, Flask, Node.js, and PostgreSQL.
+The Kolej Tun Dr Ismail College room rental system project aims to simplify the room rental process for students and staff by developing a web-based system that automates the process of renting college rooms. The system will consist of a three-tier architecture with a presentation tier, application tier, and data tier. The project will require a team with expertise in full-stack web development, and various software tools such as HTML, CSS, JavaScript, React, Flask, Node.js, and PostgreSQL.
 
 The system will include features such as student registration, room searching and booking, payment processing, room cancellation, user feedback and review, and administrative functions. The project team will also define a clear scope, timeline, and deliverables of the project, as well as the resources required to complete the project. The expected outcomes of the project include an efficient and streamlined college room rental process, accurate and timely payment processing, and reduced administrative workload for staff.
 
