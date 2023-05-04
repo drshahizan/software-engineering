@@ -130,8 +130,6 @@ Once the system is complete, it is deployed to the appropriate environment. This
 
 The Develop, Testing, Deploy and Review phase typically lasts around 10 weeks. However, the duration may vary depending on the complexity of the project and the number of features to be implemented. During this phase, the development team works closely with stakeholders, such as the project manager, system owner, and users, to ensure that the system meets their expectations.
 
-In summary, the Develop, Testing, Deploy and Review phase is a crucial stage in the software development process. The development team creates and implements the system, while continuously testing and ensuring that the end product meets all the requirements and functions effectively. Regular working software releases, quality assurance, and deployment to the appropriate environment are key components of this phase. By following these processes, the development team can ensure that the system meets the user's needs and expectations.
-
 ##### Launch Phase:
 During the launch phase, the quality assurance team will conduct tests to ensure the software's functionality prior to the product's release. The QA team will test the program to ensure that the code is clear. If there are any possible issues or defects, the development team will take swift action to fix them. The duration for this phase will be two weeks. Once all work is done, the system will be launched.
 
