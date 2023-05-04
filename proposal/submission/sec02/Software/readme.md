@@ -85,7 +85,7 @@ Agile methodology is most suitable for this project because it guarantees short 
 
 
 <div align="justify">
-    <img src="https://user-images.githubusercontent.com/128198038/236096082-51d056d1-9632-4b82-92b3-56aaa06f1566.png" alt="alt text" />
+    <img src="https://user-images.githubusercontent.com/128198038/236139357-9e0a01b8-516e-4881-8f1e-9190ea92fcf0.png" alt="alt text" />
 </div>
 
 #### Gathering Requirements Phase:
