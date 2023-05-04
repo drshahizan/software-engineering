@@ -54,7 +54,7 @@ Don't forget to hit the :star: if you like this repo.
 <body style="text-align: justify;">
 
 ### 1. Executive Summary:
-Our proposed Kolej Tun Dr. Ismail (KTDI) Event Management System is a comprehensive solution that aims to simplify and streamline the processes of event management for the KTDI Student Residential College Committee (JKM) at University Technology Malaysia (UTM), KTDI office staff, and fellow KTDI.
+Our proposed KTDI Event Management System is a comprehensive solution that aims to simplify and streamline the processes of event management for the Student Residential College Committee (JKM) at University Technology Malaysia (UTM), KTDI office staff, and fellow KTDI.
 
 Our system offers a range of key features that assist our stakeholders in event preparation and post-activity processes. One such key feature is the inclusion of a calendar for annual events. This feature enables JKM KTDI to plan and schedule their events for the year in advance, avoiding scheduling conflicts. Another feature is the ability to handle the necessary documents for each activity, ensuring that all required paperwork is organised and easily accessible.
 
@@ -67,9 +67,9 @@ Overall, our system is designed to make event planning and execution as seamless
 ### 2. Background:
 Events are an essential part of the Kolej Tun Dr. Ismail (KTDI) college. However, the current process of event preparation and post-activity processes is time-consuming and less productive. The KTDI Event Management System is designed to solve the problems and inconveniences faced by stakeholders in activity preparation and improve the effectiveness of event preparation. 
 
-One of the issues faced by stakeholders is the problem of event dates crashing, which occurs due to the manual event preparation process. Our proposed system addresses this challenge by introducing a calendar for annual events. This feature enables KTDI Student Residential College Committee (JKM) to plan and schedule their events for the year in advance, avoiding scheduling conflicts and allowing for the allocation of resources accordingly. With the calendar for annual events, JKM KTDI can quickly identify which dates are already reserved and which are available, making it easier to plan and organise events in a systematic manner.
+One of the issues faced by stakeholders is the problem of event dates crashing, which occurs due to the manual event preparation process. Our proposed system addresses this challenge by introducing a calendar for annual events. This feature enables JKM KTDI to plan and schedule their events for the year in advance, avoiding scheduling conflicts and allowing for the allocation of resources accordingly. With the calendar for annual events, JKM KTDI can quickly identify which dates are already reserved and which are available, making it easier to plan and organise events in a systematic manner.
 
-The stakeholders are required to go through a laborious process of seeking approval from multiple parties through paperwork. For instance, the JKM KTDI has to manually fill in the programme approval form to reserve locations and facilities in KTDI, followed by obtaining approvals from the programme director, fellow KTDI, and KTDI principal, and finally submitting the proposal to Student Affairs. Our system aims to simplify this process by managing all necessary documents for each activity with just a click of the mouse. By using a paperless method, the system can promote environmental protection and prevent the loss or destruction of physical documents.
+The stakeholders are required to go through a laborious process of seeking approval from multiple parties through paperwork. For instance, the KTDI Student Residential College Committee (JKM) has to manually fill in the programme approval form to reserve locations and facilities in KTDI, followed by obtaining approvals from the programme director, fellow KTDI, and KTDI principal, and finally submitting the proposal to Student Affairs. Our system aims to simplify this process by managing all necessary documents for each activity with just a click of the mouse. By using a paperless method, the system can promote environmental protection and prevent the loss or destruction of physical documents.
 
 Additionally, the stakeholders need to conduct multiple meetings to ensure team progression, which can be time-consuming. The KTDI Event Management System helps by enabling the assignment of tasks and tracking progress, thus reducing the number of long and tedious meetings held. Furthermore, the system allows for post-event reporting, providing a centralised platform for storing event photos. Hence, ensuring that KTDI events' management is accurate, efficient, and productive. 
 
@@ -108,19 +108,19 @@ Our proposed system, KTDI Event Management System, is designed to provide a web-
 ### Features:
 ### JKM KTDI
 * <b>Streamline event preparation and post activity process</b><br>
-The system's ability to streamline the event preparation and post-activity process will make it easier for the JKM KTDI committee to manage their events. By providing a centralised platform, the committee can upload and get approval for event proposals, apply for facility rentals, and track the progress of each unit involved in the event. This feature will save time and reduce the risk of errors during the event planning process.
+The system's ability to streamline the event preparation and post-activity process will make it easier for the JKM KTDI committee to manage their events. By providing a centralised platform, the committee can upload and get approval for event proposals, apply for facility rentals, and track the progress of each unit involved in the event. This feature will save time, smooth the event progress and reduce the risk of errors during the event planning process.
 
 * <b>Calendar for annual events</b><br>
-The calendar for annual events feature is an essential tool that enables JKM KTDI to plan their events efficiently. With this feature, the committee can schedule events and book appointments or meetings required for each event. This feature ensures that the events do not clash with each other, and they can allocate their resources efficiently to ensure the success of each event. By using the calendar, members can easily view upcoming events, appointments, and meetings, making it easier for them to plan their schedules and work accordingly.
+The calendar for annual events feature is an essential tool that enables JKM KTDI to plan their events efficiently. With this feature, the committee can schedule events and book appointments or meetings required for each event. This feature ensures that the events do not clash with each other, and they can allocate their resources efficiently to ensure the success of each event. By using the calendar, members can easily view upcoming events, appointments, and meetings, making it easier for them to arrange their schedules and work accordingly.
 
 * <b>Handling the necessary documents for each activity</b><br>
-This feature allows each member to upload their progress updates and necessary documents for their respective tasks. By setting deadlines for each task, members can ensure that they are on track with their work, and the overall progress of the event is visible to all members. This feature makes it easier for the higher authorities to monitor the progress of the event and identify areas that need improvement.
+This feature allows each member to upload their progress updates and necessary documents for their respective tasks through the software implementation. By setting deadlines for each task, members can ensure that they are on track with their work, and the overall progress of the event is visible to all members. This feature makes it easier for the higher authorities to monitor the progress of the event and identify areas that need improvement.
 
 * <b>Distribution of tasks to members</b><br>
 The distribution of tasks is a critical aspect of event planning, and the system makes it easier by assigning a Head of Unit (person-in-charge) for each unit department. The head of the unit will assign tasks to each member, ensuring that tasks are distributed efficiently and that each member is aware of their responsibilities. This feature will reduce the risk of confusion and ensure that tasks are completed on time, contributing to the success of the event.
 
 * <b>Visible progress</b><br>
-The ability to track the progress of each task and who completed it is a valuable feature that ensures accountability among the members. This feature enables higher authorities to monitor the progress of the event and, if necessary, take corrective actions to ensure that it is completed successfully. Members can also view their progress and the progress of others, enabling them to coordinate their work and achieve their goals.
+The ability to track the progress of each task and who completed it is a valuable feature that ensures accountability among the members. This feature enables higher authorities to monitor the progress of the event and, if necessary, take corrective actions and coordinate with the event organisers to ensure that it is completed successfully. Members can also view their progress and the progress of others, enabling them to coordinate their work and achieve their goals.
 
 * <b>Post-Event Report</b><br>
 The post-event report feature enables the JKM KTDI committee to easily access the post-event report and pictures of each event held during the year. This feature will be useful when preparing their annual report, as it will contain all the necessary information required for the report. The report will also serve as a valuable tool for future reference, enabling the committee to evaluate the success of their events and identify areas that need improvement.
@@ -141,7 +141,7 @@ The agile process model was chosen because it enables frequent feedback and chan
 
 The Agile process model consists of the following phases:
 
-<img src="https://agilie.com/_next/image?url=/api/imageproxy?url=https%3A%2F%2Fd12zh9bqbty5wp.cloudfront.net%2Fimages%2Ff9e66e179b6747ae54108f82f8ade8b3c25d76fd30afde6c395822c530196169-1674685166733.png&w=1920&q=75" alt="Agile" height="500px"></img>
+<img src="https://agilie.com/_next/image?url=/api/imageproxy?url=https%3A%2F%2Fd12zh9bqbty5wp.cloudfront.net%2Fimages%2Ff9e66e179b6747ae54108f82f8ade8b3c25d76fd30afde6c395822c530196169-1674685166733.png&w=1920&q=75" alt="Agile"></img>
 
 #### 1. Planning Phase: 
 During this stage, the project manager will establish the project's scope, objectives, and goals while taking into account the requirements of the stakeholders. The team will create a product backlog that prioritises the system's features or requirements, and defines milestones, deadlines, and checkpoints. This will ensure that the project stays on track and within the set timeline.
@@ -308,7 +308,7 @@ Also known as structural testing, is a testing technique where the tester is awa
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 6. Budget:
-The development of the KTDI Event Management System for 50 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at **RM 1,074,000**, as outlined below:
+The development of the academic course registration system for 50 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at **RM 1,074,000**, as outlined below:
 
 - **Hardware Costs: RM 400,000** <br>
 This includes the cost of servers, storage, networking equipment, and other hardware required to support the system. This cost will vary depending on the specific hardware configuration chosen, but it is essential to ensure that the system can handle the expected number of users and data volumes.
@@ -449,7 +449,7 @@ The block diagram for the proposed system architecture is as follows:
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 9. Resources:
-To successfully deliver the KTDI Event Management System, the following resources are required:
+To successfully deliver the KTDI event management system, the following resources are required:
 
 **Staff**
 - 1 Project Manager: RM 84,000/project
@@ -519,11 +519,11 @@ The table below shows the technical specifications of the KTDI Event Management 
     <th align= "left">Software requirements</th>
     <td>
       <ul>
-        <li>Operating System: Windows, MacOS（Allows users to view and store files, run the software, and provide a way to connect the website by using the Internet）, Linux（Handles the operations of the application）</li>
-        <li>Web Server: Apache（A free and open-source web server that delivers web content）</li>
-        <li>Language Used: HTML（Used for webpages creation）, JavaScript（Used for creation of more dynamic interactions when developing webpages）, CSS（Used for controlling the layout of multiple webpages in a once  ）, or PHP（Works with Apache to help create dynamic web contents）</li>
-        <li>Integrated Development Environment (IDE): Visual Studio Code （Code Editor）, Github （Collaboration of a group of system developers to manage and observe the updated code）</li>
-        <li>Framework: Bootstrap （An HTML, CSS and JS library that focuses on simplifying the development of informative web pages）</li>
+        <li>Operating System: Windows, MacOS<i>（Allows users to view and store files, run the software, and provide a way to connect the website by using the Internet）, Linux（Handles the operations of the application）</i></li>
+        <li>Web Server: Apache<i>（A free and open-source web server that delivers web content）</i></li>
+        <li>Language Used: HTML<i>（Used for webpages creation）</i>, JavaScript<i>（Used for creation of more dynamic interactions when developing webpages）</i>, CSS<i>（Used for controlling the layout of multiple webpages in a once ）</i>, or PHP<i>（Works with Apache to help create dynamic web contents）</i></li>
+        <li>Integrated Development Environment (IDE): Visual Studio Code <i>（Code Editor）</i>, Github <i>（Collaboration of a group of system developers to manage and observe the updated code）</i></li>
+        <li>Framework: Bootstrap <i>（An HTML, CSS and JS library that focuses on simplifying the development of informative web pages）</i></li>
       </ul>
     </td>
   </tr>
