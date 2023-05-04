@@ -109,10 +109,6 @@ The ability to track the progress of each task and who completed it is a valuabl
 * <b>Post-Event Report</b><br>
 The post-event report feature enables the JKM KTDI committee to easily access the post-event report and pictures of each event held during the year. This feature will be useful when preparing their annual report, as it will contain all the necessary information required for the report. The report will also serve as a valuable tool for future reference, enabling the committee to evaluate the success of their events and identify areas that need improvement.
 
-* <b>Notes Section</b><br>
-The notes section is a valuable feature that enables members to provide feedback and suggestions to improve their events. Members can use this feature to address any issues or concerns that arise during the event planning process, ensuring that their events are successful and meet the needs of their target audience. The notes section will also serve as a platform for members to communicate with each other, enabling them to collaborate more effectively and achieve their goals.
-
-
 ### KTDI Office Staff and Fellow Members 
 * <b>Approval</b><br>
 The approval feature allows JKM KTDI members to streamline the approval process for event proposals and facility rentals. KTDI office staff can use the system to approve the need to rent facilities and venues for event purposes and sign the necessary documents digitally. Fellow members can also sign the documents digitally for event proposals, making it easier to get the necessary approvals in a timely manner.
