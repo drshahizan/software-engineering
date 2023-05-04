@@ -60,8 +60,9 @@ The Student Health and Wellness System will not only offer invaluable health-rel
 
 ### 4. Scope: 
 The project proposal focuses exclusively on developing a software application to manage student health and wellness. Our primary objective is to design, implement, and maintain this system while avoiding hardware or infrastructure upgrades, as well as changes in existing policies or procedures.
-  
+
 The following will be the boundaries of the project:
+
 - Seamlessly integrating with the current student information system, the Student Health and Wellness Management System is set to be crafted by a development team that will make sure it's compatible with the administrators' goals. Close cooperation will ensure compatibility that won't become a hassle.
 - Out of scope and further analysis will be required for any additional features requested by stakeholders of the proposed system. In terms of student health and wellness, only health tracking, online consultation with PKU, SOS, medical lab results,mental health tests, patient pending and waiting times, announcements, and health tips will be included.
 - Including the Health Insurance Portability and Accountability Act (HIPAA) and the General Data Protection Regulation (GDPR), all applicable laws and regulations will be followed by the security and privacy features of the system.
@@ -73,7 +74,7 @@ For this system, it will include the features below:
 - SOS button for emergency calls.
 - Health tips to increase health awareness among students.
 - Announcement of PKU for any activities held.
-  
+
 In final analysis, the proposed Student Health and Wellness System is a broad, but controlled program requiring strict adherence to applicable laws, regulations, and policies. Moreover, intricate and diverse processing must be applied to guarantee maximum efficiency. This necessitates a delicate balance between elaborate, detailed sentences and much simpler, straightforward ones. Ultimately, this strenuous undertaking assures the creation of an effective Student Health and Wellness System.
 
 ### 5. Software Process Model:
