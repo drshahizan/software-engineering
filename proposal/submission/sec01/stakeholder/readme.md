@@ -260,7 +260,7 @@ The proposed system architecture can be visualized using the following flowchart
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/flowchart.png">
 
 High-level diagram that represents our proposed system architecture:<br>
-<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/leveldiagram.png">
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/level_diagram.PNG">
   
 ---
 
