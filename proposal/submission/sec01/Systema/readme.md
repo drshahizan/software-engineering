@@ -44,13 +44,13 @@ This proposal recommends the development of a student engagement website for stu
 <br></br>
 The key features of the student engagement website include:
 
-- A personalized dashboard that displays a student's academic schedule, assignments, and other relevant information in a user-friendly interface.</li>
-<li>Course-specific forums and discussion boards that allow students to engage with their peers and faculty members in discussions related to specific courses.</li>
-<li>A student directory that enables students to connect with each other based on shared interests or academic programs.</li>
-<li>A notification system that keeps students informed about important academic events and deadlines, such as exam schedules and registration deadlines.</li>
-<li>A virtual events calendar that promotes student engagement in extracurricular activities, clubs, and other events on campus.</li>
-<li>A feedback system that allows students to provide feedback on courses, instructors, and other aspects of their academic experience.</li>
-</ul>
+- A personalized dashboard that displays a student's academic schedule, assignments, and other relevant information in a user-friendly interface.
+- Course-specific forums and discussion boards that allow students to engage with their peers and faculty members in discussions related to specific courses.
+- A student directory that enables students to connect with each other based on shared interests or academic programs.
+- A notification system that keeps students informed about important academic events and deadlines, such as exam schedules and registration deadlines.
+- A virtual events calendar that promotes student engagement in extracurricular activities, clubs, and other events on campus.
+- A feedback system that allows students to provide feedback on courses, instructors, and other aspects of their academic experience.
+
 <br>
 The development of the student engagement website will require a team of skilled developers, designers, and project managers who will work together to ensure a seamless user experience. The website will be designed to be accessible to all UTM Faculty Computing's students, regardless of their technological proficiency, and will be optimized for all types of browser.
 
