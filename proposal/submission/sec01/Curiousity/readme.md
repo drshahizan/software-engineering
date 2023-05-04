@@ -270,7 +270,7 @@ Also known as structural testing, is a testing technique where the tester is awa
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 6. Budget:
-The development of the academic course registration system for 30,000 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at **RM 900,000**, as outlined below:
+The development of the academic course registration system for 50 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at **RM 1,074,000**, as outlined below:
 
 - **Hardware Costs: RM 400,000** <br>
 This includes the cost of servers, storage, networking equipment, and other hardware required to support the system. This cost will vary depending on the specific hardware configuration chosen, but it is essential to ensure that the system can handle the expected number of users and data volume.
@@ -278,19 +278,19 @@ This includes the cost of servers, storage, networking equipment, and other hard
 - **Software Costs: RM 150,000** <br>
 This includes the cost of licences for any third-party software required, such as operating systems, databases, and development tools. It also includes the cost of any software development needed for the project, such as custom modules or integrations.
 
-- **Personnel Costs: RM 54,000** <br>
+- **Personnel Costs: RM 264,000** <br>
 This includes the cost of the development team, project managers, and quality assurance specialists. The team size and composition will vary depending on the complexity of the project, but it is essential to ensure that the team has the necessary skills and experience to complete the project on time and within budget.
 
-- **Testing Costs: RM 95,500** <br>
+- **Testing Costs: RM 80,000** <br>
 This includes the cost of testing the software to ensure that it meets the specified requirements and is free of defects. This cost will depend on the testing approach chosen, such as manual or automated testing.
 
-- **Other Expenses: RM 100,500** <br>
+- **Other Expenses: RM 80,000** <br>
 This includes the cost of rent for office space, utilities, marketing and advertising, and testing.
 
 - **Contingency Plan: RM 100,000** <br>
 It is always recommended to have a contingency plan for unexpected expenses that may arise during the project. This can include budget reserves or adjusting the scope of the project if necessary.
 
-In conclusion, the estimated budget for the development of the UTM Event Management System is RM 900,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingency. Any changes in the budget will be communicated to stakeholders and project sponsors.
+In conclusion, the estimated budget for the development of the UTM Event Management System is RM 1,074,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingency. Any changes in the budget will be communicated to stakeholders and project sponsors.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
@@ -415,12 +415,11 @@ The block diagram for the proposed system architecture is as follows:
 To successfully deliver the academic course registration system, the following resources are required:
 
 **Staff**
-- 1 Project Manager: RM 14000/project
-- 1 Requirement Analyst & Developer Assistant: RM 10,000/project
-- 1 User Experience Designer & Developer Assistant: RM 10,000/project
-- 1 Main Developer & Quality Assurance Analyst: RM 10,000/project
-- 1 Documentation Specialist & Developer Assistant: RM 10,000/project <br>
-Total Staff Cost: RM 54,000/project
+- 1 Project Manager: RM 84,000/project
+- 1 User Experience Designer: RM 60,000/project
+- 1 Main Developer: RM 60,000/project
+- 1 Documentation Specialist: RM 60,000/project <br>
+-Total Staff Cost: RM 264,000/project
 
 **Equipment:**
 - Servers: RM 200,000
@@ -437,14 +436,14 @@ Total Equipment Cost: RM 400,000
 Total Software Cost: RM 150,000
 
 **Other Expenses:**
-- Rent for Office Space: RM 20,000
-- Utilities: RM 5,000
-- Marketing and Advertising: RM 75,500
-- Testing: RM 95,500
+- Rent for Office Space: RM 24,000
+- Utilities: RM 6,000
+- Marketing and Advertising: RM 50,000
+- Testing: RM 80,000
 - Contingency: RM 100,000 <br>
-Total Other Expenses: RM 296,000
+Total Other Expenses: RM 260,000
 
-**Total Resources Cost: RM 900,000**
+**Total Resources Cost: RM 1,074,000**
 
 Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
 
