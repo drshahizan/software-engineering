@@ -163,7 +163,7 @@ We will use data visualization and analysis tools to help identify trends and pa
 
 System Architecture Flowchart
 
-
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Lastminpotential/Untitled%20Diagram.drawio.png?raw=true" style="margin: 0 auto;width: 500px">
 
 
 <!--
