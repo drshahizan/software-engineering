@@ -124,10 +124,10 @@ Agile methodology is most suitable for this project because it guarantees short 
 
 ### 6. Budget:
 For the student health and wellness management website which involves around 2000 users in Kolej Tun Dr. Ismail (KTDI), the estimated budget is **RM 550,000**. The budget includes the costs for 6 months of development and 6 months of maintenance for the website.
-- Hardware: **RM 35,000**\
+- Hardware: **RM 45,000**\
 This could include purchasing or renting servers, storage devices, networking equipment, computers and other hardware necessary for the development and maintenance of the website. The cost might differ depending on the latest requirements of the website and the hardware components chosen.
 
-- Software: **RM 30,000**\
+- Software: **RM 10,000**\
 This could include purchasing or licensing software such as operating systems, web development tools, and security software. The cost of software might differ depending on the latest requirements of the website, the number of licenses required, and the software tools and platforms chosen. To save on software costs, an open-source solution like the MySQL and PHP (LAMP) stack is a suitable alternative, with no cost initially required.
 
 - Testing: **RM 15,000**\
@@ -139,7 +139,7 @@ This could include post-launch support and bug fixes for 6 months after the webs
 - Security: **RM 20,000**\
 This might involve setting in place security measures like firewalls, encryption and frequent security audits to safeguard user data and prevent any cyberattacks. The cost of security implementation might differ based on the website needs as well as the providing services chosen.
 
-- Personnel: **RM 340,000**\
+- Personnel: **RM 350,000**\
 This could include salaries or fees for the development team members such as developer,user experience designer, quality assurance tester, documentation specialists and requirements analyst designer. The cost for a development team will vary according to their expertise and skill.
 
 - Contingency: **RM50,000**\
@@ -196,28 +196,52 @@ In conclusion, the potential risks that might face during the development and ma
 ### 9. Resources:
 - **Staff Resources** : 
   - Main Developer : Goh Jiale
+    - RM 150,000/year
     - Mainly responsible for designing and developing the website as well as troubleshooting and fixing issues
   - User Experience Designer : Lee Yik Hong
+    - Rm 65,000/year
     - Mainly responsible for designing user interface and user flows 
   - Quality Assurance Tester : Koh Su Xuan
+    - RM 45,000/year
     - Mainly responsible for developing test plans and scenarios
   - Requirements Analyst : Ong Yi Yan
+    - RM 55,000/year
     - Mainly responsible for gathering and analyzing the requirements from stakeholders 
   - Documentation Specialists : Tang Yan Qing
+    - Rm 35,000/year
     - Mainly responsible for developing user manuals and system documentation
+Total Cost: RM 350,000
 
 - **Hardware Resources** :
   - Computer and laptop for each team member
+    - RM 40,200/year
   - Internet connectivity
+    - RM 2,500/year
   - Servers for hosting the website
+    - RM 1,500/year
+  - Security and backup
+    -RM 800/year
+Total Cost: RM 45,000
 
 - **Software Resources** :
-  - **Visual Studio Code**: Used for editing code to develop the website. It includes a variety of extensions such as live server which can help to speed up the development process.
-  - **GitHub**: Used for collaborating with other members during the development of the website. It provides tools such as code hosting which make it simpler for teams to collaborate on projects
-  - **Bootstrap Studio**: Used for developing the interface of the website. It provides a big library of pre-built components which makes it simpler to develop a user-friendly and aesthetically pleasing website
+  - Visual Studio Code
+    - RM 0/year
+    - Used for editing code to develop the website. It includes a variety of extensions such as live server which can help to speed up the development process.
+  - GitHub
+    - RM 0/year
+    - Used for collaborating with other members during the development of the website. It provides tools such as code hosting which make it simpler for teams to collaborate on projects
+  - Bootstrap Studio
+    - RM 0/year
+    - Used for developing the interface of the website. It provides a big library of pre-built components which makes it simpler to develop a user-friendly and aesthetically pleasing website
+  - Web server
+    - RM 
+  - Relational Database Management System (RDBMS)
+    - RM
+Total Cost: RM 10,000
 
 - **Other Resources** :
   - Cloud services
+  - Contingency
 
 ### 10. Technical Specifications:
 <table>
