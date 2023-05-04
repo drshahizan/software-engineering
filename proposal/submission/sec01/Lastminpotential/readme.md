@@ -12,7 +12,7 @@ Don't forget to hit the :star: if you like this repo.
 ## Faculty of Computing Feedback System
 
 
-### Prepared by: <Group name>
+### Prepared by: Lastminpotential
   1. Goh Jing Yang A22EC0052
   2. Loo Jia Chang A22EC0074
   3. TAN JUN YUAN A22EC0107
@@ -104,20 +104,74 @@ The Faculty of Computing Feedback System will provide measurable benefits to all
 </ul>
 
 ### 5. Software Process Model:
-#### Agile methodology is the optimal software process model for the creation of the Faculty Feedback System. Software development using the agile methodology is flexible and iterative, allowing for ongoing input and adaption. It is appropriate for this project since it enables us to release functional software frequently and fast in response to changes.
+<p>Agile methodology is the optimal software process model for the creation of the Faculty Feedback System. Software development using the agile methodology is flexible and iterative, allowing for ongoing input and adaption. It is appropriate for this project since it enables us to release functional software frequently and fast in response to changes.</p>
 <img width="465" alt="image" src="https://mobile-jon.com/wp-content/uploads/2021/04/Agile-Methodology.jpg">
 - The illustration of chosen software process model that relates to your project and shows every phase involved in the chosen software process model
-- Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. 
-- It should also describe the testing methodologies, project management practices, and quality assurance processes.
+  <p><b>Planning phase:</b> Project manager (Tan Jun Yuan) will decide the goal and scope of the system during this phase. Project manager will also produce a paper outlining the essential specifications for the product within two weeks. Then, user stories are chosen and requirements are gathered by requirement analyst (Goh Jing Yang) who is in charge of this phase's deliverables, which comprise the requirements document and user stories, and it lasts for four weeks.</p>
+  <p><b>Design phase:</b> UI/UX system designer (Goh Jing Yang) will work on the project's architecture while designing a mockup of the user interface. In order to gather all the requirements on a diagram and identify the project's functionality, the stakeholders are again involved in this step. Additionally, routine checks will make it easier to determine whether or not the design process has taken into account all of the requirements.</p>
+  <p><b>Develop, testing, deploy and review phase:</b> Main developer (Loo Jia Chang) and asistant developer (Chen Pyng Haw) will now begin putting all of the product requirements gathered during the previous phase together. Before it is finished, it goes through numerous reviews and revisions for improvement.</p>
+  <ul>
+    <li>The association of the development team with project manager.</li>
+    <li>Iterations and functionalities are prioritized and implemented.</li>
+    <li>Each sprint/iteration should be closely examined and developed.</li>
+    <li>Delivering regular working software releases.</li>
+    <li>Ensuring product quality by testing at regular intervals.</li>
+  </ul>
+  <p>The duration for this phase is arund 10 weeks.</p>
+  <p><b>Launch phase:</b> The quality assurance team conducts tests to ensure the software's functionality prior to the product's release. The members of the QA team will test the programme to ensure that the code is clear, and if there are any possible issues or defects, the development team will take swift action to fix them.The duration for this phase is two weeks.After all work is done, this system will be launched.</p>
 
 ### 6. Budget:
-- The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
+<ul>
+<li>Software development: This includes the cost of designing, developing, and testing the software for the system. This can include the cost of software development tools, licenses, and resources such as developers and testers.The budget for software development would rangfe from RM 30000-Rm42000.</li>
+<li>Hardware: This includes the cost of servers, storage, and other hardware required to host and run the software.We expect to spend around RM12000-RM24000 for hardware.</li>
+<li>Infrastructure: This includes the cost of setting up and maintaining the network infrastructure required for the system, such as routers, switches, and firewalls.Budget for this part will be around RM 5100-RM 21000.</li>
+<li>Implementation and integration: This includes the cost of implementing and integrating the system with existing institutional systems, such as learning management systems or student information systems.Budget for this part is around RM 12000-RM 24000</li>
+<li>Maintenance and support: This includes the cost of ongoing maintenance and support for the system, such as bug fixes, upgrades, and technical support.Budget for maintenance and support will be around RM 21000-RM 30000</li>
+<li>Training: We expect to spend around RM 15000-RM 21000 for this part.This includes the cost of training users and administrators on how to use the system.</li>
+<li>Miscellaneous expenses: This includes other expenses that may be required for the development and implementation of the system, such as travel expenses, legal fees, and project management costs.We expect to spend around RM15000-RM30000 for this section.</li>
+</ul>
 
 ### 7. System Architecture:
+Proposed System Architecture
+
+The feedback system will consist of three main components: a web-based interface for data collection, a backend server for data storage and management, and a database management system for data retrieval and analysis.
+
+Development Tools
+
+The system will be developed using the following tools:
+- Visual Studio Code
+- Bootstrap Studio
+- Figma
+
+The backend will be developed using:
+- Apache web server
+- MySQL database management system
+- Php programming language
+
+Data Storage and Management
+
+Feedback data collected from students will be stored in the MySQL database management system. The system will also have user authentication to ensure that only authorized users can access and modify data. The data will be stored securely and backed up regularly to prevent data loss.
+
+Hardware and Software Requirements
+
+To support the system, we will need a web server with sufficient processing power and memory to handle incoming requests and manage the database. We will also need a stable internet connection to ensure the system is accessible to all users.
+
+Tools and Frameworks for Data Visualization and Analysis
+
+We will use data visualization and analysis tools to help identify trends and patterns in feedback data. Some of the tools and frameworks that we will use include:
+- Google Data Studio
+
+System Architecture Flowchart
+
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Lastminpotential/Untitled%20Diagram.drawio.png?raw=true" style="margin: 0 auto;width: 500px">
+
+
+<!--
 - Provide a detailed overview of the proposed system architecture including the tools and technologies that will be used to develop and deploy the system
 - Explain how the data will be stored, managed, and analyzed, as well as the hardware and software requirements needed to support the system.
 - Discuss the tools and frameworks that will be used for data visualization and analysis.
 - Provide a flowchart or block diagram of the system architecture.
+-->
 
 ### 8. Risks Assessment:
   
@@ -153,9 +207,29 @@ The Faculty of Computing Feedback System will provide measurable benefits to all
 
 #### Software
 
-- Development tools - Required for coding and testing the system.
-- Database management software - Required for managing the database.
-- Security software - Required for securing the system and protecting data.
+The proposed system architecture consists of the following components and technologies:
+
+| Component                  | Technology                                                 |
+|----------------------------|------------------------------------------------------------|
+| Development Tools          | Visual Studio Code, Bootstrap Studio, Figma                 |
+| Database Management System | MySQL                                                      |
+| Web Server                 | Apache                                                     |
+
+##### Development Tools
+
+- Visual Studio Code: A lightweight and powerful code editor that supports a variety of programming languages.
+- Bootstrap Studio: A web design and development tool that allows for creating responsive and visually appealing websites.
+- Figma: A web-based design and prototyping tool that allows for creating and collaborating on user interfaces and graphics.
+
+##### Database Management System
+
+- MySQL: A popular open-source database management system that is widely used in web applications.
+
+##### Web Server
+
+- Apache: A widely used open-source web server software that is used to serve web content over HTTP. It is known for its reliability and security features.
+
+
 
 #### Other expenses
 

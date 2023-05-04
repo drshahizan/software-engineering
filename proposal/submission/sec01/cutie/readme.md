@@ -1,4 +1,4 @@
-## Project Title
+## Project Title : Student Attendance System
 
 
 ### Prepared by: Group Cutie 3.142s
@@ -7,6 +7,8 @@
   3. Tiew Chuan Rong (A22EC0112)
   4. Tiew Chuan Shen (A22EC0113)
   5. Wong Jun Ji (A22EC0117)
+  
+  <a href="https://ibb.co/1TC04ny"><img src="https://i.ibb.co/yqzNxRv/Image-20230504004651.jpg" alt="Image-20230504004651" border="0"></a>
 
 ### Table of Contents
  |No.  | Content |
@@ -34,14 +36,26 @@ The proposed software will enable lecturers to take attendance quickly and easil
 The benefits of the proposed system are numerous. The software will improve accuracy and reliability, reduce the workload of teachers, and provide a more comprehensive and efficient way to manage attendance. Moreover, the system will identify areas for improvement, leading to better student engagement.
 
 ### 3. Objectives:
-<li>Identify the existing bugs and inefficiencies in the current system, which will be addressed in the new design.</li>
-<li>Implement new attendance marking options: In addition to the current attendance marking system using QR codes, alternative methods such as typing in a line of random generated code should be an option for students in case their device faces camera issues.</li>
-<li>Implement location based check-ins: Students are often able to mark their attendance without actually attending the class through the help of their friends. With the implementation of location based check-ins, we can ensure  the students that have marked their location are actually attending the class.</li>
-<li>Implement biometric authentication: Biometric authentication, such as facial recognition or fingerprint scanning. This helps to prevent attendance fraud and increase accuracy.</li>
-<li>Generate a table that records the attendance of the students, displays their attending time in order, and highlights students who are late to class. The table eases the management of student attendance for the lecturers.</li>
+Identify the existing bugs and inefficiencies in the current system, which will be addressed in the new design.
+<ol><li><b>Implement new attendance marking options:</b></li><ul>
+ <li>In addition to the current attendance marking system using QR codes, alternative methods such as typing in a line of random generated code should be an option for students in case their device faces camera issues.</li></ul>
+<li><b>Implement location based check-ins:</b></li><ul> 
+<li>Students are often able to mark their attendance without actually attending the class through the help of their friends. With the implementation of location based check-ins, we can ensure  the students that have marked their location are actually attending the class.</li></ul>
+<li><b>Implement biometric authentication:</b> </li><ul>
+<li>Biometric authentication, such as facial recognition or fingerprint scanning. This helps to prevent attendance fraud and increase accuracy.</li></ul>
+<li><b>Generate a table:</b></li><ul>
+<li>Records the attendance of the students, displays their attending time in order, and highlights students who are late to class. The table eases the management of student attendance for the lecturers.</li></ul></ol>
+
 
 ### 4. Scope: 
-The scope of this project includes attendance tracking, reporting and analytics, integration with other systems, mobile accessibility, security, and customization. The system allows teachers to track and record student attendance. Besides, the system provides insights into attendance patterns, and visualisations that can be used by lecturers to ease decision making. Moreover, the system should be able to integrate with other university systems such as the student information system and the learning management system. For mobile accessibility, the system is accessible from mobile devices, to ease the attendance submission process. The system should have strong data security measures to protect student’s data and prevent unauthorised access. Other than that, the system should be easily customised to meet the specific requirements of the university, such as class schedules.
+The scope of this project includes attendance tracking, reporting and analytics, integration with other systems, mobile accessibility, security, and customization.
+ <li>The system allows teachers to track and record student attendance.</li> 
+<li>The system provides insights into attendance patterns, and visualisations that can be used by lecturers to ease decision making.</li>  
+<li>The system is able to integrate with other university systems such as the student information system and the learning management system.</li>  
+<li>The system is accessible from mobile devices, to ease the attendance submission process.</li>  
+<li>The system has strong data security measures to protect student’s data and prevent unauthorised access.</li>  
+<li>The system is easily customisable to meet the specific requirements of the university, such as class schedules.</li> 
+
 
 ### 5. Software Process Model:
 The ideal software process model for the development of UTM Student Attendance Management System is Agile methodology.
@@ -62,13 +76,29 @@ The review phase involves reviewing the software and identifying areas for impro
 Testing methodologies such as unit testing, integration testing, system testing, and acceptance testing are used to assure the quality and functionality of the system. The project management practices for this project include regular communication, project tracking, risk management and change management. Lastly, the quality assurance processes for this project are code reviews, testing and continuous integration.
 
 ### 6. Budget:
-<li>Salaries: Pay the team members involved in the development process, such as project managers, system analysts, software developers, testers, etc.</li>
-<li>Software tools and licences: The cost to purchase software tools or licences required to develop the system, such as IDEs, and development platforms.</li>
-<li>Hardware and infrastructure: The cost to purchase or lease hardware and infrastructure required to reinforce the development process, such as servers, workstations, network equipment, and storage devices.</li>
-<li>Training and professional development: The cost to acquire new skills of the team and achieve certifications required to develop the system more effectively via training.</li>
-<li>Others: Other expenses that may arise during the development process, such as legal fees, insurance, and etc.</li>
+<p>The development of UTM Student Attendance Management System for around 20,000 users in UTM will involve many costs that are required, such as team salaries, software tool, hardware and infrastructure, training and professional development and other expenses that are unexpected. So the budget for this project in 1 year is estimated at RM 498,900 and the details are stated below: </p>
+
+<ol>
+ <b> <li>Salaries (RM 444 000):</b>
+    <ul><li>Pay the team members involved in the development process, such as project managers, business analysts, software developers etc.</li></ul>
+</li>
+ <b> <li>Hardware and infrastructure (RM 1 200 000):</b>
+<ul><li>The cost to purchase or lease hardware and infrastructure required to reinforce the development process, such as servers, workstations, network equipment, and storage devices.</li></ul>
+  </li>
+ <b> <li>Software tools and licences (RM 131 600):</b></li>
+<ul><li>The software budget covers the cost for software tools and platforms licence that are necessary for the development of the attendance system. This includes softwares such as IDE, testing tools and database management tools.</li></ul>
+ <b> <li>Training and professional development (RM 100 000):</b></li>
+<ul><li>The cost to train each member of the team to achieve the required certifications to develop the system more effectively via training programs.</li></ul>
+  <b><li>Others (RM 120 000):</b></li>
+<ul><li>Other expenses that may arise during the development process, such as legal fees, insurance ,unexpected expenses etc.</li></ul>
+  </ol>
+ 
+<p>In conclusion, the estimated budget for the development of the UTM Attendance Management system in 1 year is RM 1,995,600. This budget will cover team salaries, software tools and licences, hardware and infrastructure, training and professional development and other expenses that are unexpected. If there are any changes in budget, stakeholders and project sponsors will be informed and have a discussion. </p>
+
+
 
 ### 7. System Architecture:
+![proposal](https://user-images.githubusercontent.com/129287788/235997939-9111ef6b-c61e-42f7-bd04-ed273b14c27a.jpg)
 <li>User Interface: UTM Smart to allow users to interact with our system.It lets students, teachers, and administrators view attendance data and mark attendance.</li>
 <li>Application Server: The application server runs the system's logic, handles data processing, communicates with other system components, and manages the database.</li>
 <li>Database: Stores attendance-related data such as student information and attendance records, and is designed to handle large volumes of data efficiently.</li>
@@ -77,63 +107,218 @@ Testing methodologies such as unit testing, integration testing, system testing,
 <li>Reporting and Analytics: The reporting and analytics component offers attendance insights and tools for generating reports and visualisations.</li>
 
 ### 8. Risks Assessment:
-<li>Stakeholder issues such as low engagement and inaccurate expectations.
-Time allocated for us to communicate to stakeholders is not enough as both stakeholders and us are having different schedules.It is difficult for us to have a meeting at the same time. Hence,the stakeholder might interact with us via social media such as Whatsapp and Email. Thus, the stakeholder may misunderstand what we want to deliver and cause inaccurate expectations.</li>
-<li>Technical risk such as system failures or data corruption. These problems may arise due to software/hardware failure, database management and network.
-User acceptance risk </li>
-<li>Target users may refuse to provide their personal data such as name and student ID that is necessary for attendance records. And users prefer the previous version of the system.
-</li>
-<li>Security risk. This system consists of students’ data. Thus we have to take risk on data lost issues from hacking, phishing or data breaches.</li>
-<li>Data Quality risk such as data entry error, system glitches may provide wrong information to the users.</li>
-<li>Implementation risk including cost overruns, and difficulties integrating the system with school systems and process</li>
+<ol><li>Stakeholder issues such as low engagement and inaccurate expectations</li>
+<ul>
+<li>Time allocated for us to communicate with the stakeholders is not enough as we have different schedules.It is difficult for us to have a meeting at the same time. Hence,the stakeholder might interact with us via social media such as Whatsapp and Email. Thus, the stakeholder may misunderstand what we want to deliver and cause inaccurate expectations.</li>
+</ul>
+<li>Technical risk</li>
+<ul>
+<li>System failures or data corruption.These problems may arise due to software/hardware failure,database management and network.</li>
+</ul>
+<li>User acceptance risk</li>
+<ul>
+<li>Target users may refuse to provide their personal data that is necessary for attendance records. As examples,name and matrics number.</li>
+<li>Users prefer the previous version of the system.</li>
+</ul>
+<li>Security risk</li> 
+<ul><li>This system consists of students’ data.Thus exists risk of data lost due to hacking, phishing or data breaches.</li></ul>
+<li>Data Quality</li>
+<ul><li>Data entry error, system glitches may provide wrong information to the users.</li></ul>
+<li>Implementation risk</li>
+<ul>
+<li>Cost overruns</li>
+<li>Difficulties integrating the system with school systems and processes.</li>
+</ul>
+</ol>
 
 ### 9. Resources:
-#### Staff
-<li>Project manager</li>
-<li>System analyst</li>
-<li>Software developer</li>
-<li>Database administrator</li>
+The development of UTM Student Attendance Management System for around 20,000 users in UTM will involve many costs that are required, such as team salaries, software tool, hardware and infrastructure, training and professional development and other expenses that are unexpected. So the budget for this project in 1 year is estimated at RM 498,900 and the details are stated below: 
+#### Staff: RM 111 000
+<table>
+<tr>
+<td>Position</td>
+<td>Salary per Month (RM)</td>
+</tr>
+<tr>
+<td>Project Manager</td>
+<td>9 000</td>
+</tr>
+<tr>
+<td>Business Analysts</td>
+<td>6 000</td>
+</tr>
+<tr>
+<td>UI/UX Designer</td>
+<td>10 000</td>
+</tr>
+<tr>
+<td>Main Developers</td>
+<td>5 000</td>
+</tr>
+<tr>
+<td>Quality Assurance </td>
+<td>7 000</td>
+</tr>
+</table>
 
-#### Equipment:
-<li>Computers/Laptops</li>
-<li>Servers</li>
-<li>Network infrastructure (switches, routers, storage, etc.)</li>
-<li>Printers and scanners</li>
-<li>Mobile devices (tablets/smartphones)</li>
+#### Equipment: RM 300 000
+<table>
+<tr>
+<td>Equipments</td>
+<td>Cost (RM)</td>
+</tr>
+<tr>
+<td>Computer/Laptops</td>
+<td>15 000</td>
+</tr>
+<tr>
+<td>Servers</td>
+<td>180 000</td>
+</tr>
+<tr>
+<td>Network Infrastructure</td>
+<td>70 000</td>
+</tr>
+<tr>
+<td>Printers and Scanners</td>
+<td>4 000</td>
+</tr>
+<tr>
+<td>Mobile Devices </td>
+<td>6 000</td>
+</tr>
+</table>
 
-#### Software:
-<li>Integrated Development Environment (IDE)</li>
-<li>Database management system</li>
-<li>Version control system</li>
-<li>Project management software</li>
-<li>Testing tools</li>
-<li>Security software</li>
 
-#### Other expenses:
-<li>Rental fees (office)</li>
-<li>Bills (Internet, phone, utilities, petrol, etc.)</li>
-<li>Cloud computing services</li>
-<li>Training and development programs for the team members</li>
-<li>Legal and administrative fees</li>
+#### Software: RM 32 900
+<table>
+<tr>
+<td>Tools</td>
+<td>Cost (RM)</td>
+</tr>
+<tr>
+<td>Integrated Development Environment (IDE)</td>
+<td>1 500</td>
+</tr>
+<tr>
+<td>Database management system</td>
+<td>14 000</td>
+</tr>
+<tr>
+<td>Security Software</td>
+<td>1 000</td>
+</tr>
+<tr>
+<td>Project Management Software</td>
+<td>600</td>
+</tr>
+<tr>
+<td>Testing Tools</td>
+<td>13 000</td>
+</tr>
+<tr>
+<td>Cloud Storage</td>
+<td>1 700</td>
+</tr>
+<tr>
+<td>Version Control Software</td>
+<td>4000</td>
+</tr>
+<tr>
+<td>Web Server</td>
+<td>700</td>
+</tr>
+</table>
+
+#### Other expenses: RM 30 000
+<table>
+<tr>
+<td>Expenses</td>
+<td>Cost (RM)</td>
+</tr>
+<tr>
+<td>Rental fees (office)</td>
+<td>18 000</td>
+</tr>
+<tr>
+<td>Bills (Internet, phone, utilities, petrol, etc.)</td>
+<td>3 000</td>
+</tr>
+<tr>
+<td>Insurance</td>
+<td>7 000</td>
+</tr>
+<tr>
+<td>Unexpected costs</td>
+<td>2 000</td>
+</tr>
+</table>
+
+#### Training and development programs for the team members: RM 25 000
 
 ### 10. Technical Specifications:
-<li>Data sources: Data will be collected through methods that students use to submit their attendance. For example, students can scan the attendance QR via their devices or students can insert a randomly generated code to submit their attendance. Data will also be collected via biometric devices such as fingerprint scanners and facial recognition systems in order to prove that their attendance is valid.</li>
-<li>Data Schema: 
-Student data (name,student ID, program, year, section)
-Attendance data (date, time, location)
-User data (user ID, user type, user permissions)</li>
-<li>Data Transformations: Data cleaning and validation. To ensure that data is accurate, complete, and consistent. Data cleaning involves identifying and correcting errors, such as misspellings, missing values, or duplicates, while data validation involves checking that the data meets certain criteria. Data enrichment and augmentation  to improve the quality, accuracy, and usefulness of data for various applications, such as business intelligence, research, and machine learning.</li>
-<li>Machine Learning Algorithms: Classification algorithms (Decision Trees, Random Forests ,etc) In student attendance systems, the algorithm could be used to predict whether a student is present or absent based on input data such as time, location, and biometric data.</li>
-<li>Data Visualization Tools: 
-Bar charts to display attendance rates for students. Pie charts to show the percentage of students’ status. Heat maps to show the overall attendance rates of students in a particular course or class. And also Python and Java which include libraries that are used for data visualization. </li>
-<li>Hardware and Software Requirements: Computers/Laptops, servers, network infrastructure (switches, routers, storage, etc.), printers and scanners, mobile devices (tablets/smartphones), integrated Development Environment (IDE), database management system, version control system, project management software, testing tools, and security software</li>
+<ul><li>Data sources: Data will be collected through methods that students use to submit their attendance. For example, students can scan the QR code for attendance via mobile devices or students can insert a randomly generated code to submit their attendance. Data will also be collected via biometric devices such as fingerprint scanners and facial recognition systems in order to prove that their attendance is valid.</li>
+  <li>Data Scheme: </li><ul>
+  <li>Student data (name,student ID, program, year, section)</li>
+  <li>Attendance data (date, time, location)</li>
+  <li>User data (user ID, user type, user permissions)</li></ul>
+<li>Data Transformations: Data cleaning and validation. To ensure that data is accurate, complete, and consistent. Data cleaning involves identifying and correcting errors, such as misspellings, missing values, or duplicates, while data validation involves making sure that the data meets certain criteria. Data enrichment and augmentation  to improve the quality, accuracy, and usefulness of data for various applications, such as business intelligence, research, and machine learning.</li>
+<li>Machine Learning Algorithms: Classification algorithms (Decision Trees, Random Forests ,etc) in student attendance systems, the algorithm could be used to confirm whether a student is present or absent based on input data such as time, location, and biometric data.</li>
+  <li>Data Visualization Tools: </li><ul>
+  <li>Bar charts</li><ul>
+  <li>display attendance rates for students<li></ul>
+  <li>Pie charts</li><ul>
+  <li>show the percentage of students’ status</li></ul>
+  <li>Heat maps</li><ul>
+  <li>show the overall attendance rates of students in a particular course or class.</li></ul>
+  <li>Python</li> 
+  <li>Java </li></ul>
+  <li>Hardware and Software Requirements:</li><ul>
+  <li>Computers/Laptops</li>
+  <li>Servers</li>
+  <li>Network infrastructure (switches, routers, storage, etc.)</li>
+  <li>Printers and scanners</li>
+  <li>Mobile devices (tablets/smartphones)</li>
+  <li>Integrated Development Environment (IDE)</li>
+  <li>Database management system</li>
+  <li>Version control system</li>
+  <li>Project management software</li>
+  <li>Testing tools</li>
+  <li>Security software</li></ul>
+  <li>Data Security Measures: Encryption, the process of converting data into a coded language that can only be accessed with a decryption key. This can prevent       unauthorised access to sensitive data.</li></ul>
 
-<li>Data Security Measures: Encryption, the process of converting data into a coded language that can only be accessed with a decryption key. This can prevent unauthorised access to sensitive data.</li>
 
 ### 11. Timeline and Deliverables: 
-- Provide a detailed timeline for the project, including milestones and deadlines.
-- Specify the deliverables that will be provided at each milestone. It should also specify the expected time frame for each deliverable and the resources that will be required to complete the project.
-- Explain the quality assurance and testing procedures that will be followed.
+#### Phase 1: Initiation
+<li>Milestones : Requirements gathering, validating requirement expectations, approval of project title</li>
+<li>Resources : Project manager, business analysis</li>
+<li>Estimated duration : 1 month</li>
+<li>Deliverable: Project proposal, requirement study report</li>
+
+#### Phase 2: Planning
+<li>Milestones : Project planning, identify process model, technical specifications, data sources, test cases based on functional and non-functional requirements </li>
+<li>Resources : Project manager, UI/UX designers, main developers, quality assurance</li>
+<li>Estimated duration : 2 months</li>
+<li>Deliverable: Progress report, budget report, test result report</li>
+
+#### Phase 3: Implementation
+<li>Milestones : Design approval, design system architecture, develop system</li>
+<li>Resources : UI/UX designers, main developers, quality assurance</li>
+<li>Estimated duration : 5 months</li>
+<li>Deliverable: Design drawings and documents, design review, beta product, test result report</li>
+
+#### Phase 4: Quality assurance and user acceptance testing
+<li>Milestones : product quality enhancement</li>
+<li>Resources : Quality assurance, project manager, business analyst</li>
+<li>Estimated duration : 3 months</li>
+<li>Deliverable: test result report, useability report, improved filing and organization systems</li>
+
+#### Phase 5 : Closure of project
+<li>Milestone 5 : verification of the completion, examine contract, pass all deliverables to stakeholder/client</li>
+<li>Resources : </li>
+<li>Estimated duration : 1 month</li>
+<li>Deliverable: website/page</li>
+
 
 ### 12. Conclusion:
   In conclusion, the recommended UTM Student Attendance Management System is designed to improve the existing system as there are some weaknesses or bugs. Such problems are students can scan the attendance without attending the actual lecture, leading to fake data received by lecturers. This will indirectly affect student’s academic performance and preferences. The modified system intends to improve the accuracy of the data, efficiency of the system and better management of student’s attendance data. To add on, the recommended system can increase the satisfaction of lecturers, enhance productivity and an overall  more dependable system.

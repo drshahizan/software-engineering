@@ -18,19 +18,19 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>1. Low Ying Xi</td>
-    <td>Project Manager & Developer assistant</td>
+    <td>Project Manager</td>
   </tr>
   <tr>
     <td>2. Koh Li Hui</td>
-    <td>User Experience Designer & Developer assistant</td>
+    <td>User Experience Designer</td>
   </tr>
     <tr>
     <td>3. Camily Tang Jia Lei</td>
-    <td>Main Developer </td>
+    <td>Developer</td>
   </tr>
     <tr>
     <td>4. Ng Shu Yu</td>
-    <td>Documentation Specialist & Developer assistant</td>
+    <td>Documentation Specialist</td>
   </tr>
 </table>
 
@@ -43,22 +43,22 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
     <td>Lim Shi Kai</td>
+    <td>JKM KTDI</td>
     <td>Ketua Biro Akademik & Tugas-tugas Khas</td>
-    <td></td>
+    <td>Provide feedback on usability and functionality of system from a JKM perspective</td>
   </tr>
     <tr>
-    <td>2</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Hanie Azyuni Binti Mazle</td>
+    <td>JKM KTDI</td>
+    <td>Timbalan Pengerusi (Aktiviti)</td>
+    <td>Provide input on KTDI event information and documents</td>
   </tr>
     <tr>
-    <td>3</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Hamizah Amalina Binti Amlan</td>
+    <td>KTDI Staff</td>
+    <td>Pembantu Felo KTDI</td>
+    <td>Ensure system meets administrative needs for KTDI events</td>
   </tr>
 </table>
 
@@ -66,11 +66,12 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2| | | | | 
-| 3| | | | | 
-| 4| | | | | 
-| 5| | | | | 
+| 1 | 08/04/2023 | Low Ying Xi | Project Manager | Create project plan | Complete |
+| 2 | 16/04/2023 | Ng Shu Yu | Documentation Specialist | Gather user requirements | Complete | 
+| 3 | 21/04/2023 | Camily Tang | Developer | Create proposal | Partially Complete | 
+| 4 | 02/05/2023 | Low Ying Xi | Project Manager | Contact stakeholders | Complete | 
+| 5 | 03/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang | Project Manger, Documentation Specialist, Developer | Meeting with stakeholders | Complete | 
+| 6 | | | | | 
 
 
 ## Contribution 🛠️

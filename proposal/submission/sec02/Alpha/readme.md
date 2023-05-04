@@ -14,7 +14,7 @@
   <th>Photo</th>
 </tr>
 <tr>
-  <td>1.</td> <td> Salini Ravinthiran </td> <td> A22EC0267 </td> <td><img src="" width=150px, height=200px> </td>
+  <td>1.</td> <td> Salini Ravinthiran </td> <td> A22EC0267 </td> <td><img src="https://avatars.githubusercontent.com/u/128107791?v=4" width=150px, height=200px> </td>
   </tr>
 <tr>
   <td>2.</td> <td> Nur Farah Adibah Binti Idris </td> <td> A22EC0245 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/Photo/gambar%20passport%20bg%20putih%20tele.jpg" width=150px, height=200px> </td>
@@ -44,7 +44,7 @@
   ---
   
 ### 1. Executive Summary
-The Kolej Tun Dr Ismail College room rental services project aims to develop a web-based system that allows students to easily request and rent college rooms. The system will automatically calculate the rental price based on the type of room and number of days the student will stay. After the application is approved, the student will receive an invoice that will be sent to the student Financial Sections of University Technology of Malaysia. 
+The Kolej Tun Dr Ismail College room rental system project aims to develop a web-based system that allows students to easily request and rent college rooms. The system will automatically calculate the rental price based on the type of room and number of days the student will stay. After the application is approved, the student will receive an invoice that will be sent to the student Financial Sections of University Technology of Malaysia. 
 
 The main goal of the system is to simplify the college room rental process and ensure timely and accurate payment processing. The system will be developed using a web-based architecture and will require expertise in full-stack web development. The project team will consist of a main developer, a business analyst, a quality assurance engineer, a UI/UX designer, a database administrator, and an assistant developer. The project will require workstations, a server or cloud infrastructure, and various software tools such as an IDE, front-end and web frameworks, and testing frameworks. The project will also require other expenses such as internet access and office supplies. 
 
@@ -93,9 +93,6 @@ The scope refers to the boundaries of the project and outlines the features and 
 <br>According to the students’ preferences, students should be able to search for available rooms by looking at the location, price and facilities. 
 Room booking: Room booking features allows students to book rooms based on availability and their preferred dates. The system should provide a calendar view of the rooms availability and allows students to request any services for their room. 
 
-- Payment Processing: 
-<br>The system allows students to complete their payment process through credit card or online banking. Students should be able to monitor their payment history and receipts. 
-
 - Room cancellation: 
 <br>The room cancellation features should allow students to cancel their room reservation if needed. 
 
@@ -112,18 +109,55 @@ Room booking: Room booking features allows students to book rooms based on avail
 <img src=https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/agile%20method.png></img>
 
 
-This section describe the ideal software process model for this system development. The write-up must consist of:
-- Explanation of the goal of the software process model.
-- Choose the ideal software process model and give justification.
-- The illustration of chosen software process model that relates to your project and shows every phase involved in the chosen software process model
-- Describe detailed activities that are relevant to every phase of the software process model (you may use a Gantt chart or any suitable project management tool). Determine the suitable duration for every phase and assign the person in charge. Also, propose the appropriate deliverables/products/outputs for every phase. 
-- It should also describe the testing methodologies, project management practices, and quality assurance processes.
+Agile methodology is a software development process model that emphasises the importance of collaboration, flexibility, and iterative development. In the context of creating a college room rental system, an Agile approach can be used to develop the system in a way that meets the changing needs and requirements of the stakeholders.
+
+Here are the key steps in the Agile methodology that we will use in creating a college room rental system:
+
+#### 1. Planning:
+The first step is to gather the requirements of the stakeholders and plan the development process accordingly. This involves identifying the goals, objectives, and features of the system, and determining the timeline, resources, and team members needed to complete the project.
+
+#### 2. Design:
+In this step, the development team creates the system design and architecture. This includes defining the software modules, user interface, and the database schema. The design should be flexible enough to accommodate changes that may arise during the development process.
+
+#### 3. Development:
+Once the design is complete, the development team starts coding and implementing the features of the system. The development process is iterative, with each iteration delivering a functional version of the system that can be tested and evaluated.
+
+#### 4. Testing:
+Testing is a crucial part of the Agile methodology. In this step, the development team tests the system to ensure that it meets the requirements of the stakeholders. The testing process is iterative, with each iteration improving the quality and functionality of the system.
+
+#### 5. Review and Feedback:
+After testing, the stakeholders review the system and provide feedback to the development team. The feedback is used to improve the system and ensure that it meets the needs of its users.
+
+#### 6. Deployment:
+Once the system is tested and reviewed, it is deployed to the production environment. The deployment process should be done in a way that minimises downtime and ensures that the system is available to its users.
+
+#### 7. Maintenance:
+After deployment, the development team provides maintenance and support to ensure that the system runs smoothly and continues to meet the needs of the stakeholders.
+
+Overall, the Agile methodology that we used in creating a college room rental system is to ensure that the system meets the changing needs of the stakeholders and is delivered on time and within budget.
 
 ---
 
 ### 6. Budget:
-- The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
-The development of the college room rental system for around 1,800 users within a semester will involve various costs, including hardware, software, personnel, and testing.
+The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
+The development of the college room rental system for around 1,800 users within a semester will involve various costs, including hardware, software, personnel, testing, and contingency.
+
+- Hardware: RM 50,000<br>
+The hardware budget includes the cost of servers, networking equipment, computers and peripherals, storage devices, and backup devices. The budget will be depending on the size and complexity of the project.
+        
+- Software: RM 45,000<br>
+Development tools and software licenses will include the cost of software development kits, programming languages, and other tools needed for development. There will be costs associated with integrating a payment processing system because the college room rental system allows students to make online payments. Cost of security software includes antivirus, firewalls, and other tools to protect the system from cyber threats. 
+
+- Personnel : RM 800,000<br>
+The personnel budget will be covering the development team's pay and benefits, including the project manager, business analyst, database administrator, main and assistant developer, quality assurance engineer and UI/UX designer. The number of hours needed for each role would depend on the project timeline and deliverables. If there are any overhead costs, they will be taken into consideration.
+
+- Testing : RM 400,000<br>
+The number of test cases, the duration of testing, the types of testing required, and any additional resources needed such as hardware and software licenses will be considered for the testing budget. The testing expenses includes the cost of testing tools and software, hiring testing team, and conducting different types of testing such as functional testing, performance testing, security testing and usability testing.
+
+- Contingency : RM 100,000<br>
+The allocation of funds to cover unanticipated occurrences or circumtances that could effect the project budget is referred to as a contingency budget. The contingency budget typically covers unforseen hardware or software compability issues, unexpected personnel turnover, and also emergencies such as natural disasters. It depends on the specific risks and uncertainties associated with the project. 
+
+Overall, the estimated budget for the development of the college room rental system is RM 1,395,000. The budget includes all expenses associated with hardware, software, staff, testing, and contingency. 
 
 ---
 
@@ -163,7 +197,7 @@ This college rental system will use various tools and frameworks such as:
 
 
 ##### Block Diagram
-![detailed block diagram](detailed block diagram.drawio.png)
+![block](block.drawio.png)
 
 ---
 
@@ -264,7 +298,7 @@ The resources required for the proposed college room rental system project can b
 
 ### 12. Conclusion:
 
-The Kolej Tun Dr Ismail College room rental services project aims to simplify the room rental process for students and staff by developing a web-based system that automates the process of renting college rooms. The system will consist of a three-tier architecture with a presentation tier, application tier, and data tier. The project will require a team with expertise in full-stack web development, and various software tools such as HTML, CSS, JavaScript, React, Flask, Node.js, and PostgreSQL.
+The Kolej Tun Dr Ismail College room rental system project aims to simplify the room rental process for students and staff by developing a web-based system that automates the process of renting college rooms. The system will consist of a three-tier architecture with a presentation tier, application tier, and data tier. The project will require a team with expertise in full-stack web development, and various software tools such as HTML, CSS, JavaScript, React, Flask, Node.js, and PostgreSQL.
 
 The system will include features such as student registration, room searching and booking, payment processing, room cancellation, user feedback and review, and administrative functions. The project team will also define a clear scope, timeline, and deliverables of the project, as well as the resources required to complete the project. The expected outcomes of the project include an efficient and streamlined college room rental process, accurate and timely payment processing, and reduced administrative workload for staff.
 

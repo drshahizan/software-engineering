@@ -214,7 +214,7 @@ Total Estimated Cost: RM 2,300,000
 
 > Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
 
-## 10. Technical Specifications:
+### 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
 - Mention the programming languages, frameworks, and libraries that will be used in the project.
 - Provide details about the hardware and software requirements for the proposed system.

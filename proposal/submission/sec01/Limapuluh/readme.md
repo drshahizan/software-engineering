@@ -243,6 +243,8 @@ The integration module will allow for the integration of the feedback system wit
 Overall, the proposed system architecture will be designed to be scalable, secure, and user-friendly, enabling the university to collect and analyze feedback data from students to improve the quality of education and the student experience at UTM.
 
 ### 8. Risks Assessment:
+
+  <img src="https://i.imgur.com/cokO8TJ.png">
 <ul>
   <li><h3>Technical Challenges</h3><p>Developing a student feedback system requires technical expertise in software development, database management, and user interface design. Some of the technical challenges that we may encounter include scalability issues, security vulnerabilities, and system compatibility with different devices and browsers. It is essential to hire a skilled development team with experience in developing similar systems to mitigate these risks.</p></li>
   <li><h3>Resources Constraints</h3><p>Developing a student feedback system requires significant resources, including personnel, hardware, software, and testing. With a limited budget, we may face resource constraints that could impact the quality and functionality of the system. To mitigate these risks, we will be prioritizing the essential features and functionalities of the system and allocate our resources accordingly.</p></li>
