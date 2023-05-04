@@ -98,6 +98,7 @@ In summary, this food ordering system can streamline the entire food ordering pr
   
 
 ## 5. Software Process Model:
+  <img src="https://eastcode-storage.s3.eu-central-1.amazonaws.com/b2dfa9149d2815bf4d71ad451ba48dcf-1f418d9951f74b57ba000d495a772f9f-methodology-agile.png" alt="Alt text" width="500" height="300">
 
 A planned and methodical approach to software development that provides high-quality, dependable, and maintainable software is what the software process model aims to achieve. It outlines the procedures, actions, and activities needed to create software, from gathering requirements to testing, releasing, and maintaining it.
 
@@ -149,9 +150,8 @@ It's essential to note that these are just estimates, and the actual cost may va
 
 ## 7. System Architecture:
 Case Diagram of Food Ordering System at UTM:
-
-![image](https://user-images.githubusercontent.com/129138344/235473667-dc36d5a2-8026-4b8d-80ff-711d471ef2b3.png)
-
+  
+<img src="https://user-images.githubusercontent.com/129138344/235473667-dc36d5a2-8026-4b8d-80ff-711d471ef2b3.png" alt="Alt text" width="400" height="500">
 The Customer actor can perform the following use cases:
 
 - **Register/Login:** This use case allows the Customer to register or login to their account.
