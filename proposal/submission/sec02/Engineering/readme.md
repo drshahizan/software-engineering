@@ -158,6 +158,10 @@ The proposed system architecture will be designed to be scalable, secure, and ma
 
 5. Legal and Regulatory Risks: The parcel system may be subject to legal and regulatory risks such as compliance with data protection laws and regulations related to shipping and logistics. To mitigate these risks, the system should be designed with a comprehensive understanding of relevant laws and regulations, and have processes in place to ensure compliance.
 
+6. User adoption risks: The success of the parcel delivery system relies on user adoption. If the system is not user-friendly or fails to meet user needs, there is a risk that it will not be widely adopted by students and staff. To mitigate this risk, it is important to conduct user research and testing to ensure that the system meets the needs of its intended users.
+
+7. Data security risks: The system will handle sensitive user data such as personal information and payment details. There is a risk of data breaches and cyber attacks, which could result in the compromise of user data. To mitigate this risk, it is important to implement strong security measures such as encryption, secure authentication, and regular security audits.
+
 Overall, a thorough risk assessment should be conducted to identify and mitigate potential risks before and during the implementation of the parcel system. This will help ensure the success and sustainability of the system over the long term.
 
 ### 9. Resources:
