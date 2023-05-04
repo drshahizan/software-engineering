@@ -44,7 +44,7 @@ This proposal recommends the development of a student engagement website for stu
 <br></br>
 The key features of the student engagement website include:
 
-1. A personalized dashboard that displays a student's academic schedule, assignments, and other relevant information in a user-friendly interface.</li>
+- A personalized dashboard that displays a student's academic schedule, assignments, and other relevant information in a user-friendly interface.</li>
 <li>Course-specific forums and discussion boards that allow students to engage with their peers and faculty members in discussions related to specific courses.</li>
 <li>A student directory that enables students to connect with each other based on shared interests or academic programs.</li>
 <li>A notification system that keeps students informed about important academic events and deadlines, such as exam schedules and registration deadlines.</li>
