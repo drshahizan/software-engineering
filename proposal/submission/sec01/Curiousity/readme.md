@@ -739,25 +739,25 @@ Sign off on the system's release after all testing is complete and all defects h
 
 
 ### Quality Assurance Procedure
-- <b> Testing Activities:</b><br>
+<b>1. Testing Activities:</b><br>
 Perform black-box testing, white-box testing, and system testing to ensure the software meets quality standards and stakeholder requirements.
 Document all test results, including any defects or issues found during testing.
 
-- <b> Test Reports:</b><br>
+<b>2. Test Reports:</b><br>
 The documentation specialist is responsible for creating test reports summarising any issues found during testing and monitoring the testing progress.
 Use the test reports to ensure the software is upholding the necessary quality standards.
 
-- <b> Unit Testing:</b><br>
+<b>3. Unit Testing:</b><br>
 The main developer and team members will perform unit testing to test individual units or components of the system in isolation.
 Ensure each unit of the system is working as intended and free of defects or errors in the code.
 
-- <b> Code Reviews:</b><br>
+<b>4. Code Reviews:</b><br>
 The main developer and team members will perform code reviews to identify defects or errors in the code and ensure the code is consistent with the project's coding standards and guidelines.
 
-- <b> Continuous Integration:</b><br>
+<b>5. Continuous Integration:</b><br>
 As part of the continuous integration method of software development, integrate code into a public repository. Furthermore, it makes sure the code is correctly integrated, that any issues or conflicts are quickly identified and resolved, and that the system functions as intended and complies with the necessary quality standards.
 
-- <b> Analyse Results and Report Defects:</b><br>
+<b>6. Analyse Results and Report Defects:</b><br>
 Analyse the results of testing and report any defects or issues found to the development team for resolution.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
