@@ -41,7 +41,7 @@
 
    The proposed academic support app addresses these limitations by providing private appointments between students and lecturers at their convenience. The app offers a more personalized and effective support system that can help students overcome the challenges they face and achieve academic success.
   
-These are the current system interface from academic advisor interface:
+These are the current system interface from academic advisor view:
 
 <img src="https://user-images.githubusercontent.com/128214992/236150766-f7463dd2-f294-448b-8de4-a01469125d4a.jpg" width="400" height=auto>
 <img src="https://user-images.githubusercontent.com/128214992/236150893-9ba55c91-8924-441a-a1ca-a777cb205d7d.jpg" width="400" height=auto>
