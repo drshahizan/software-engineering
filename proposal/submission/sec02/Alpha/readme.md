@@ -270,6 +270,43 @@ The resources required for the proposed college room rental system project can b
 
 ### 11. Timeline and Deliverables:
 
+<table>
+<tr>
+  <th>Milestone Task</th>
+  <th>Description</th>
+  <th>Deliverables</th>
+  <th>Deadline</th>
+</tr>
+<tr>
+  <td>Platform Development</td> <td>Develop and launch the web platform for the room rental service, including user authentication, room listing, and booking functionality. </td> <td>Technical specification document, wireframes, user interface design, functional website, user acceptance testing report. </td> <td>3 months </td>
+  </tr>
+<tr>
+<tr>
+  <td>Marketing Campaign</td> <td>Launch a marketing campaign to promote the service and attract potential renters. This could include online ads, social media marketing, and search engine optimization. </td> <td>Marketing plan document, online ad creatives, social media content calendar, search engine optimization report. </td> <td>4 months </td>
+  </tr>
+<tr>
+  <tr>
+  <td>Partner Acquisition</td> <td> Identify and onboard partners, such as property managers or individual property owners, to list their rooms on the platform.</td> <td> Partner acquisition strategy document, partnership agreement templates, onboarding process documentation, partner dashboard.</td> <td> 5 months</td>
+  </tr>
+<tr>
+  <tr>
+  <td>Legal Compliance</td> <td>Ensure compliance with relevant laws and regulations, including data privacy and property rental laws. </td> <td>Legal compliance checklist, terms and conditions document, privacy policy document, compliance audit report. </td> <td> </td>
+  </tr>
+<tr>
+  <tr>
+  <td></td> <td> </td> <td> </td> <td> </td>
+  </tr>
+<tr>
+  <tr>
+  <td></td> <td> </td> <td> </td> <td> </td>
+  </tr>
+<tr>
+  <tr>
+  <td></td> <td> </td> <td> </td> <td> </td>
+  </tr>
+<tr>
+</table>
+
 1. Planning and Requirements Gathering: This phase involves gathering requirements, defining project scope, and creating a project plan. This phase can take 2-4 weeks, depending on the size and complexity of the project.
 
    Deliverables: Project scope document, project plan, and requirements document.
