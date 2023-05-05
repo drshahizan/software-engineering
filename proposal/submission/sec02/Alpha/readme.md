@@ -290,46 +290,23 @@ The resources required for the proposed college room rental system project can b
   </tr>
 <tr>
   <tr>
-  <td>Legal Compliance</td> <td>Ensure compliance with relevant laws and regulations, including data privacy and property rental laws. </td> <td>Legal compliance checklist, terms and conditions document, privacy policy document, compliance audit report. </td> <td> </td>
+  <td>Legal Compliance</td> <td>Ensure compliance with relevant laws and regulations, including data privacy and property rental laws. </td> <td>Legal compliance checklist, terms and conditions document, privacy policy document, compliance audit report. </td> <td> 6 months</td>
   </tr>
 <tr>
   <tr>
-  <td></td> <td> </td> <td> </td> <td> </td>
+  <td>User Feedback Analysis</td> <td>Collect and analyze feedback from users to improve the service and user experience. This could involve surveys, user testing, and customer support interactions. </td> <td>User feedback collection process documentation, survey questions and responses report, user testing report, customer support ticket analysis report. </td> <td> Ongoing</td>
   </tr>
 <tr>
   <tr>
-  <td></td> <td> </td> <td> </td> <td> </td>
+  <td>Expansion</td> <td> Expand the service to new markets or geographies, potentially through partnerships or acquisitions.</td> <td> Market research report, expansion strategy document, partnership or acquisition proposal documents, new market launch plan.</td> <td>12-18 months </td>
   </tr>
 <tr>
   <tr>
-  <td></td> <td> </td> <td> </td> <td> </td>
+  <td>Revenue Growth</td> <td>Increase revenue through strategies such as pricing optimization, upselling, and cross-selling. </td> <td> Revenue growth strategy document, pricing analysis report, upselling and cross-selling campaign plan, revenue growth analysis report.</td> <td> Ongoing</td>
   </tr>
 <tr>
 </table>
 
-1. Planning and Requirements Gathering: This phase involves gathering requirements, defining project scope, and creating a project plan. This phase can take 2-4 weeks, depending on the size and complexity of the project.
-
-   Deliverables: Project scope document, project plan, and requirements document.
-
-2. Design and Prototyping: This phase involves creating wireframes, user interface designs, and prototypes to get feedback from stakeholders. This phase can take 4-6 weeks, depending on the size and complexity of the project.
-
-   Deliverables: Wireframes, user interface designs, and prototypes.
-
-3. Development: This phase involves building the room rental service platform, including front-end and back-end development, database design, and integration with payment gateway and messaging system. This phase can take 8-12 weeks, depending on the size and complexity of the project.
-
-   Deliverables: Fully functional platform, payment gateway integration, messaging system integration.
-
-4. Testing: This phase involves testing the platform for bugs, usability, and performance. This phase can take 2-4 weeks, depending on the size and complexity of the project.
-
-   Deliverables: Test plan, test cases, and test reports.
-
-5. Deployment: This phase involves deploying the platform to the production environment and making it live. This phase can take 1-2 weeks, depending on the size and complexity of the project.
-
-   Deliverables: Deployed platform, go-live plan.
-
-6. Maintenance and Support: This phase involves providing ongoing maintenance and support for the platform, including bug fixes, upgrades, and customer support. This phase can continue indefinitely, depending on the needs of the project.
-
-   Deliverables: Maintenance plan, support plan, bug fixes, and upgrades.
 
 ---
 
