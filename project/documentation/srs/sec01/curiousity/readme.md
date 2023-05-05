@@ -68,7 +68,7 @@ Don't forget to hit the :star: if you like this repo.
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 08/04/2023 | Low Ying Xi | Project Manager | Create project plan | Complete |
 | 2 | 16/04/2023 | Ng Shu Yu | Documentation Specialist | Gather user requirements | Complete | 
-| 3 | 21/04/2023 | Camily Tang | Developer | Create proposal | Partially Complete | 
+| 3 | 21/04/2023 | Camily Tang | Developer | Create proposal | Complete | 
 | 4 | 02/05/2023 | Low Ying Xi | Project Manager | Contact stakeholders | Complete | 
 | 5 | 03/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang | Project Manger, Documentation Specialist, Developer | Meeting with stakeholders | Complete | 
 | 6 | | | | | 
