@@ -335,7 +335,7 @@ Block Diagram:
         </td>
     </tr>
     <tr>
-        <td>Implementation (Week 5 - 7)</td>
+        <td>Implementation (Week 5 - 10)</td>
         <td>
             <ul>
                 <li>Implement the system architecture and data schema</li>
@@ -354,7 +354,7 @@ Block Diagram:
         </td>
     </tr>
     <tr>
-        <td>Testing and Deployment (Week 8 - 13)</td>
+        <td>Testing and Deployment (Week 11 - 13)</td>
         <td>
             <ul>
                 <li>Perform system testing</li>
