@@ -202,6 +202,18 @@ In the case of the university academic course registration system, we could use 
 
 By using class stereotypes in this way, we can quickly and easily communicate the intended purpose and role of each class within the system, making it easier for developers and other stakeholders to understand and work with the system.
 
+## Types of Class Stereotype
+
+In the university academic course registration system, we can identify several classes that can be assigned different stereotypes based on their roles within the system. 
+
+1. **Boundary class:** The `CourseRegistrationUI` class can be assigned the boundary stereotype, as it interacts with the user interface and handles input/output. 
+
+2. **Entity class:** The `Course` class can be assigned the entity stereotype, as it represents a persistent data entity in the system.
+
+3. **Control class:** The `RegistrationController` class can be assigned the control stereotype, as it coordinates between the boundary and entity objects, collects information from the boundary object, and dispatches it to the entity object.
+
+Assigning class stereotypes can help to clarify the roles and responsibilities of different classes within the system, and can also assist in organizing and managing the system's architecture.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
