@@ -50,7 +50,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>Mr Hamdan Bin Abd Ghani</td>
     <td>KTDI Administration</td>
     <td>Senior Assistant Administrative Officer</td>
-    <td>Ensure system is technically feasible and meets assets requirements.</td>
+    <td>Providing the overview of the current KTDI room application and allocation system.</td>
   </tr>
     <tr>
     <td>Hayden Huan Kee Jiun</td>
@@ -62,7 +62,13 @@ Don't forget to hit the :star: if you like this repo.
     <td>Ts. Dr. Hadafi Fitri Bin Mohd Latif</td>
     <td>KTDI Fellow Council</td>
     <td>KTDI Fellow</td>
-    <td></td>
+    <td>Delivering the manual KTDI merits system and quota active application form for hostel application.</td>
+  </tr>
+    <tr>
+    <td>Oh Kai Xuan</td>
+    <td>Student</td>
+    <td>KTDI Resident</td>
+    <td>Giving the feedbacks for the current KTDI room maintenance system and providing the ideas for improvement. </td>
   </tr>
 </table>
 ## Tasks involved in developing SRC documentation:
@@ -70,10 +76,10 @@ Don't forget to hit the :star: if you like this repo.
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 18/04/2023 | Neo Zheng Weng | Project Manager | Create project plan | Complete |
-| 2 | 20/04/2023 | Wong Khai Shian Nicholas | Requirements Analyst | Determine the user requirements | Complete |
+| 2 | 20/04/2023 | Wong Khai Shian Nicholas | Requirements Analyst | Determine the user requirements | Partially Complete |
 | 3 | 20/04/2023 | Neo Zheng Weng | Designer | Design the system architecture | Complete |
-| 4| | | | | 
-| 5| | | | | 
+| 4 | | | | | 
+| 5 | | | | | 
 
 
 ## Contribution 🛠️
