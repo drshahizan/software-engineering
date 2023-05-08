@@ -70,8 +70,8 @@ Don't forget to hit the :star: if you like this repo.
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 18/04/2023 | Neo Zheng Weng | Project Manager | Create project plan | Complete |
-| 2 | 20/04/2023 | Wong Khai Shian Nicholas | Requirements Analyst | Determine the user requirements | Partially Complete |
-| 3 | 20/04/2023 | Neo Zheng Weng | Designer | Design the system architecture | Partially Complete |
+| 2 | 20/04/2023 | Wong Khai Shian Nicholas | Requirements Analyst | Determine the user requirements | Complete |
+| 3 | 20/04/2023 | Neo Zheng Weng | Designer | Design the system architecture | Complete |
 | 4| | | | | 
 | 5| | | | | 
 
