@@ -72,8 +72,8 @@ Don't forget to hit the :star: if you like this repo.
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1| 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
 | 2| 11/04/2023| Koh Su Xuan and Lee Yik Hong | Quality Assurance Tester and User Experience Designer | Create proposal | Complete | 
-| 3| 01/05/2023| All Group Members | | Assign Task | Complete | 
-| 4| 18/04/2023| Ong Yi Yan and Goh Jiale | Requirement Analysis and Main Developer | Contact stakeholder | Complete |
+| 3| 01/05/2023| Goh Jiale | Main Developer | Assign Task | Complete | 
+| 4| 18/04/2023| Ong Yi Yan | Requirement Analysis | Contact stakeholder | Complete |
 | 4| 03/05/2023| Puan Nazlin | Administrator Stakeholder | Give ideas for project | Complete | 
 | 5| 03/05/2023 | Dr Mohd. Firdaus | Medical Officer Stakeholder | Give ideas for project | Complete |
 | 6| 05/05/2023 | Tang Yan Qing | Documentation Specialists | Create system documentation | Incomplete |
