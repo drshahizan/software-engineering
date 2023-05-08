@@ -71,6 +71,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>Giving the feedbacks for the current KTDI room maintenance system and providing the ideas for improvement. </td>
   </tr>
 </table>
+
 ## Tasks involved in developing SRC documentation:
 
 | No | Date | Member Name | Role	| Task	| Status	| 
