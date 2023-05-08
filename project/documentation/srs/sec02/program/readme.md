@@ -55,14 +55,14 @@ Don't forget to hit the :star: if you like this repo.
     <td></td>
   </tr>
     <tr>
-    <td>3 </td>
+    <td>3 Nurul Asyikin Binti Muhamad</td>
     <td>Senior in Faculty of Computing</td>
     <td>3rd Year Student</td>
     <td>Provide feedback on usability of system from a student perspective</td>
   </tr>
   </tr>
     <tr>
-    <td>4 </td>
+    <td>4 Kevin EE</td>
     <td>Senior in Faculty of Computing</td>
     <td>3rd Year Student</td>
     <td>Provide feedback on usability of system from a student perspective</td>
