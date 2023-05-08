@@ -136,7 +136,23 @@ Section "many" --> "many" Registration
 
 In this PUML code, we define the classes and their attributes using the `class` keyword followed by the class name and a list of attributes preceded by a `-` symbol. We then define the relationships between the classes using the `-->` symbol, and indicate the multiplicity of the relationships using the numbers on each end of the arrow.
 
-Note that this is just an example of how to represent a university academic course registration system using PUML. The actual implementation may vary depending on the specific requirements of the system.
+> Note that this is just an example of how to represent a university academic course registration system using PUML. The actual implementation may vary depending on the specific requirements of the system.
+
+## Domain Model Class Diagram notation
+
+Domain Model Class Diagram notation is a type of UML (Unified Modeling Language) diagram that is used to represent the conceptual classes and relationships within a domain or subject area. The purpose of the Domain Model Class Diagram is to capture the essential concepts and business rules of a system, without including any implementation details. It is commonly used in software engineering to create a high-level overview of the domain and to facilitate communication between stakeholders, including developers, business analysts, and users.
+
+The notation used in a Domain Model Class Diagram includes several key elements:
+
+1. **Class:** A class is represented by a rectangle with the class name at the top. It represents a conceptual entity or object within the domain. Attributes are listed within the class, and methods may be included as well.
+
+2. **Association:** An association represents a relationship between two or more classes. It is represented by a line connecting the classes, with optional arrowheads indicating the direction of the relationship. Multiplicity and role names may be included as well.
+
+3. **Aggregation and Composition:** Aggregation and composition are special types of associations that represent a whole-part relationship between classes. Aggregation is represented by a diamond-shaped arrowhead on the containing class, while composition is represented by a filled-in diamond.
+
+4. **Inheritance:** Inheritance represents a specialized relationship between classes, where one class is a subtype of another. It is represented by a solid line with an arrowhead pointing from the subtype to the supertype.
+
+Overall, the Domain Model Class Diagram notation provides a visual representation of the conceptual classes and relationships within a domain, making it easier to understand and communicate the essential concepts of a system.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
