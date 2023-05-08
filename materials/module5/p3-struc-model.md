@@ -56,10 +56,12 @@ A class diagram consists of the following elements:
 
 Class diagrams are a powerful tool for visualizing the structure of a software system. They help developers to understand the relationships between classes, the properties and methods of each class, and how objects interact with each other. By using class diagrams, developers can design software systems that are easy to understand, maintain, and extend.
 
-## Example
+### Example
 An example of a class diagram for a university academic course registration system:
 
-![University Course Registration System Class Diagram](https://i.imgur.com/d5o9X5R.png)
+<p align="center">
+  <img src="class-diagram.png"  width="400" />
+</p>
 
 In this example, we have identified several key classes and relationships within the system. Let's take a closer look at each of them:
 
