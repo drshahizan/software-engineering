@@ -59,9 +59,9 @@ Don't forget to hit the :star: if you like this repo.
     <td>Giving the feedbacks for the current KTDI accommodation system and providing the ideas for the upgraded accommodation system.</td>
   </tr>
     <tr>
-    <td>3</td>
-    <td>College Fellow</td>
-    <td></td>
+    <td>Ts. Dr. Hadafi Fitri Bin Mohd Latif</td>
+    <td>KTDI Fellow Council</td>
+    <td>KTDI Fellow</td>
     <td></td>
   </tr>
 </table>
