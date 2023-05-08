@@ -34,7 +34,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-<img src="/interviewWithDean.jpg" alt="Meeting with Dean of Faculty of Computing" height="48" width="100">
+<img src="interviewWithDean.jpg" alt="Meeting with Dean of Faculty of Computing" height="48" width="100">
 
 ## Stakeholder
 <table>
@@ -73,8 +73,8 @@ Don't forget to hit the :star: if you like this repo.
 | 3 | 27/04/2023 | Chen Pyng Haw | Documentation Specialist | Create proposal | Complete |
 | 4 | 7/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Meeting with stakeholder | Complete |
 
-| | | | | | |
-| | | | | | |
+| | | | | | 
+| | | | | | 
 
 
 ## Contribution 🛠️
