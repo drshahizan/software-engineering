@@ -154,6 +154,34 @@ The notation used in a Domain Model Class Diagram includes several key elements:
 
 Overall, the Domain Model Class Diagram notation provides a visual representation of the conceptual classes and relationships within a domain, making it easier to understand and communicate the essential concepts of a system.
 
+In software engineering, a class is a blueprint or template that defines the properties and behavior of objects that belong to that class. An object, on the other hand, is an instance of a class. 
+
+## Class and Object Instantiation
+
+To create an object from a class, we use a process called instantiation. This involves creating a new instance of the class and assigning it to a variable. The syntax for instantiation varies depending on the programming language, but the general steps are as follows:
+
+1. Declare a variable of the appropriate class type. This reserves memory space for the object.
+
+2. Use the "new" keyword to create a new instance of the class.
+
+3. Assign the new object to the variable.
+
+For example, let's say we have a class called "Person" that has properties such as "name" and "age". We can create a new object from this class using the following code in Java:
+
+```
+Person john;        // Declare a variable of type Person
+john = new Person();    // Create a new instance of Person and assign it to the variable "john"
+```
+
+We can also initialize the properties of the object during instantiation by passing arguments to the constructor. The constructor is a special method that is called when a new object is created from a class. It initializes the object with the specified values.
+
+For example, let's say we have a constructor for the Person class that takes two arguments: name and age. We can create a new object with the name "John" and age 30 using the following code:
+
+```
+Person john = new Person("John", 30);   // Create a new instance of Person and initialize its properties with values
+```
+
+In summary, class and object instantiation is a fundamental concept in object-oriented programming. It allows us to create objects from a blueprint or template defined by a class, and initialize their properties with specific values.
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
