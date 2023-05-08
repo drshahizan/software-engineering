@@ -34,7 +34,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-<img src="interviewWithDean.jpg" alt="Meeting with Dean of Faculty of Computing" height="48" width="100">
+<img src="interviewWithDean.jpg" alt="Meeting with Dean of Faculty of Computing">
 
 ## Stakeholder
 <table>
