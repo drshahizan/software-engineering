@@ -25,7 +25,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
     <tr>
     <td>3 Kek Jesslyn</td>
-    <td> Support Engineer | Data Analyst</td>
+    <td>Support Engineer</td>
   </tr>
     <tr>
     <td>4 Wong Qiao Ying</td>
@@ -33,7 +33,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>5 Yeoh Chong Yi</td>
-    <td>Technical Writer |  Quality Assurance Engineer </td>
+    <td>Technical Writer</td>
   </tr>
 </table>
 
@@ -68,11 +68,12 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2| | | | | 
-| 3| | | | | 
-| 4| | | | | 
-| 5| | | | | 
+| 1 | 10/04/2023 | Bernice Lim Jing Xuan | Project Manager | Create project plan | Complete |
+| 2 | 12/04/2023 | Chai Yu Tong | Developer | Create proposal | Complete | 
+| 3 | 03/05/2023 | Chai Yu Tong | Developer | Contact stakeholder 1 | Complete | 
+| 4 | 03/05/2023 | Bernice Lim Jing Xuan | Project Manager | Contact stakeholder 2 | Complete |
+| 5 | 06/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 1 | Complete |
+| 6 | 07/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 2 | Complete |
 
 
 ## Contribution 🛠️
