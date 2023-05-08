@@ -46,16 +46,16 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td>1 Layla Rasheed Abdallah Hasan</td>
+    <td>Lecturer</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>Provide suggestions and ideas that can be implemented in this system to improve engagement between students and lecturer</td>
   </tr>
     <tr>
-    <td>2</td>
+    <td>2 Jasmine Alisha binti Shahrunnizam</td>
+    <td>Student Representative Council(SRC)</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>Provide recommendations to help SRC in collecting students complaints</td>
   </tr>
     <tr>
     <td>3</td>
