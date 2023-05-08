@@ -182,6 +182,26 @@ Person john = new Person("John", 30);   // Create a new instance of Person and i
 ```
 
 In summary, class and object instantiation is a fundamental concept in object-oriented programming. It allows us to create objects from a blueprint or template defined by a class, and initialize their properties with specific values.
+
+## Class Stereotype Syntax
+Class stereotypes are labels applied to classes that indicate their intended use or purpose within a system. They are a way of adding additional meaning and context to the class and can help to improve the overall clarity and understanding of the system's design.
+
+In UML, class stereotypes are denoted using a special syntax that includes a guillemet (`«` and `»`) symbol around the stereotype name, placed above the class name. For example, the `«entity»` stereotype might be applied to a class that represents a persistent data entity.
+
+In the case of the university academic course registration system, we could use class stereotypes to indicate the roles that certain classes play within the system. Here are a few examples:
+
+- `«student»` stereotype: Applied to the `Student` class to indicate that it represents a student in the university system.
+
+- `«faculty»` stereotype: Applied to the `Faculty` class to indicate that it represents a faculty member who teaches courses.
+
+- `«course»` stereotype: Applied to the `Course` class to indicate that it represents a course offered by the university.
+
+- `«section»` stereotype: Applied to the `Section` class to indicate that it represents a specific section of a course.
+
+- `«registration»` stereotype: Applied to the `Registration` class to indicate that it represents a student's registration for a specific section of a course.
+
+By using class stereotypes in this way, we can quickly and easily communicate the intended purpose and role of each class within the system, making it easier for developers and other stakeholders to understand and work with the system.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
