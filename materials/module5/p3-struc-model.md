@@ -85,6 +85,57 @@ In this example, we have identified several key classes and relationships within
 
 Overall, this class diagram provides a clear overview of the key classes and relationships within a university academic course registration system. It can serve as a useful tool for software developers to design, implement, and maintain such a system.
 
+### Code PUML
+
+```puml
+@startuml
+
+class Student {
+  - id: int
+  - name: string
+  - studentID: string
+  - email: string
+  - password: string
+}
+
+class Faculty {
+  - id: int
+  - name: string
+  - facultyID: string
+  - email: string
+  - password: string
+}
+
+class Course {
+  - code: string
+  - name: string
+  - description: string
+  - creditHours: int
+}
+
+class Section {
+  - number: string
+  - capacity: int
+  - location: string
+}
+
+class Registration {
+  - id: int
+  - date: string
+}
+
+Student "1" --> "many" Registration
+Faculty "1" --> "many" Section
+Course "1" --> "many" Section
+Section "many" --> "many" Registration
+
+@enduml
+```
+
+In this PUML code, we define the classes and their attributes using the `class` keyword followed by the class name and a list of attributes preceded by a `-` symbol. We then define the relationships between the classes using the `-->` symbol, and indicate the multiplicity of the relationships using the numbers on each end of the arrow.
+
+Note that this is just an example of how to represent a university academic course registration system using PUML. The actual implementation may vary depending on the specific requirements of the system.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
