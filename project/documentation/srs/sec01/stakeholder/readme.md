@@ -82,8 +82,10 @@ Don't forget to hit the :star: if you like this repo.
 | 4 | 20/04/2023 | Neo Zheng Weng | Designer | Design the system architecture | Complete |
 | 5 | 2/05/2023 | Neo Zheng Weng | Designer | Draw the UML case diagram | Partially Complete |
 | 6 | 3/05/2023 | Neo Zheng Weng, | Group members | Second meeting with KTDI Assistant Administrative Officer | Complete |
-| 7 | 11/05/2023 | Neo Zheng Weng, | Group members | Meet with KTDI fellow | Partially Complete |
-| 8 | 3/05/2023 | Low Jie Sheng, | Group members | Do the risk assessment |  Complete |
+| 7 | 3/05/2023 | Low Jie Sheng, | Group members | Do the risk assessment |  Complete |
+| 8 | 8/05/2023 | Joseph Lau Yeo Kai, | Group members | Do the software process model(SPM) |  Complete |
+| 9 | 11/05/2023 | Neo Zheng Weng, | Group members | Meet with KTDI fellow | Partially Complete |
+
 
 
 ## Contribution 🛠️
