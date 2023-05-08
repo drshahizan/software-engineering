@@ -46,11 +46,11 @@ A class diagram consists of the following elements:
 
 4. Relationships: Relationships define the associations between classes in a software system. There are several types of relationships in class diagrams, including inheritance, composition, and aggregation.
 
-- Inheritance: Inheritance is a relationship between a superclass and a subclass. It allows the subclass to inherit the properties and methods of the superclass. In a class diagram, inheritance is represented by a solid line with an arrowhead pointing to the superclass.
+  - Inheritance: Inheritance is a relationship between a superclass and a subclass. It allows the subclass to inherit the properties and methods of the superclass. In a class diagram, inheritance is represented by a solid line with an arrowhead pointing to the superclass.
 
-- Composition: Composition is a relationship between two classes where one class is composed of the other. In a class diagram, composition is represented by a filled diamond at the end of a solid line that connects the two classes.
+  - Composition: Composition is a relationship between two classes where one class is composed of the other. In a class diagram, composition is represented by a filled diamond at the end of a solid line that connects the two classes.
 
-- Aggregation: Aggregation is a relationship between two classes where one class is part of the other class. In a class diagram, aggregation is represented by an unfilled diamond at the end of a solid line that connects the two classes.
+  - Aggregation: Aggregation is a relationship between two classes where one class is part of the other class. In a class diagram, aggregation is represented by an unfilled diamond at the end of a solid line that connects the two classes.
 
 5. Multiplicity: Multiplicity is used to specify how many objects can be associated with a particular class in a relationship. It is represented in a class diagram using numbers or symbols.
 
@@ -77,13 +77,13 @@ In this example, we have identified several key classes and relationships within
 
 6. **Relationships:**
 
-- The Student class has a one-to-many relationship with the Registration class, indicating that a student can register for multiple courses.
+  - The Student class has a one-to-many relationship with the Registration class, indicating that a student can register for multiple courses.
 
-- The Faculty class has a one-to-many relationship with the Section class, indicating that a faculty member can teach multiple sections of courses.
+  - The Faculty class has a one-to-many relationship with the Section class, indicating that a faculty member can teach multiple sections of courses.
 
-- The Course class has a one-to-many relationship with the Section class, indicating that a course can have multiple sections.
+  - The Course class has a one-to-many relationship with the Section class, indicating that a course can have multiple sections.
 
-- The Section class has a many-to-many relationship with the Registration class, indicating that multiple students can register for the same section of a course.
+  - The Section class has a many-to-many relationship with the Registration class, indicating that multiple students can register for the same section of a course.
 
 Overall, this class diagram provides a clear overview of the key classes and relationships within a university academic course registration system. It can serve as a useful tool for software developers to design, implement, and maintain such a system.
 
