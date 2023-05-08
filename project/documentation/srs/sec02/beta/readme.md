@@ -71,11 +71,24 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provide accurate and up-to-date information about their menu items, pricing, and availability</td>
   </tr>
     <tr>
-    <td></td>
+    <td>DANIEL HARRIZ BIN MOHD ASINEH @ MOHD ASNEH</td>
     <td>Customer</td>
-    <td>UTM student/UTM Staff</td>
-    <td></td>
+    <td>UTM student</td>
+    <td>Provide feedback on the ordering process, menu and quality of the food</td>
   </tr>
+   <tr>
+    <td>MUHAMMAD LUQMAN HAKIM BIN MOHD RIZAUDIN</td>
+    <td>Customer</td>
+    <td>UTM student</td>
+    <td>Provide feedback on the user interfaces</td>
+  </tr>
+  <tr>
+    <td>MUHAMMAD NUR AZHAR BIN MOHD YAZID</td>
+    <td>Customer</td>
+    <td>UTM student</td>
+    <td>Provide feedback on the payment methods</td>
+  </tr>
+  
  
 </table>
 
