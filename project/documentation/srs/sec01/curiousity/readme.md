@@ -65,6 +65,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>KTDI Administrator</td>
     <td>KTDI Principal</td>
     <td>Ensure system meets administrative needs for KTDI events</td>
+  </tr>
   <tr>
     <td>Nadia Syahadah Binti Saharudin</td>
     <td>KTDI Student<td>
