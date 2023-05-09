@@ -60,7 +60,7 @@ Don't forget to hit the :star: if you like this repo.
     <tr>
     <td>3 Sudashen Rao</td>
     <td>Student</td>
-    <td>Student</td>
+    <td>Faculty of Computing Student (Undergraduate)</td>
     <td></td>
   </tr>
 </table>
@@ -76,8 +76,8 @@ Don't forget to hit the :star: if you like this repo.
 | 6 | 06/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 1 | Complete |
 | 7 | 07/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 2 | Complete |
 | 8 | 11/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 3 | ToDo |
-| 9 | 11/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | SRS Planning | ToDo |
-
+| 9 | 12/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Analysis Requirements | ToDo |
+| 10 | 15/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer |  SRS Planning | ToDo |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
