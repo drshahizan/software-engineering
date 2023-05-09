@@ -48,7 +48,7 @@ Don't forget to hit the :star: if you like this repo.
   <tr>
     <td>1 Layla Rasheed Abdallah Hasan</td>
     <td>Lecturer</td>
-    <td></td>
+    <td>Senior Lecturer of Faculty of Computing</td>
     <td>Provide suggestions and ideas that can be implemented in this system to improve engagement between students and lecturer</td>
   </tr>
     <tr>
