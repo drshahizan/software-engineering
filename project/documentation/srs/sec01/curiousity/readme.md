@@ -68,7 +68,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>Nadia Syahadah Binti Saharudin</td>
-    <td>KTDI Student<td>
+    <td>KTDI Student</td>
     <td>Student</td>
     <td>Give feedback regarding the system to ensure it fufill the needs as a KTDI student</td>
     </tr>
