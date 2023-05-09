@@ -73,9 +73,9 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
     <tr>
     <td> td>
-    <td>KTDI Student Council</td>
-    <td>KTDI JKM</td>
-    <td>Providing the steps in applying for quota active of college application for senior students.</td>
+    <td>KTDI Staff</td>
+    <td></td>
+    <td>Providing the manual KTDI Google forms.</td>
   </tr>
 </table>
 
@@ -86,12 +86,12 @@ Don't forget to hit the :star: if you like this repo.
 | 1 | 13/04/2023 | Neo Zheng Weng | Project Manager | Create project plan | Complete |
 | 2 | 19/04/2023 | Wong Khai Shian Nicholas | Requirements Analyst | Determine the user requirements | Partially Complete |
 | 3 | 20/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas, Muhammad Danial, Joseph Lau, Low Jie Sheng | Group members | First meeting with KTDI Assistant Administrative Officer | Complete |
-| 4 | 20/04/2023 | Neo Zheng Weng | Designer | Design the system architecture | Complete |
-| 5 | 2/05/2023 | Neo Zheng Weng | Designer | Draw the UML case diagram | Partially Complete |
-| 6 | 3/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas,Muhammad Danial | Group members | Second meeting with KTDI Assistant Administrative Officer | Complete |
-| 7 | 3/05/2023 | Low Jie Sheng,Muhammad Danial | Group members | Do the risk assessment,Background,Software process model and conclusion |  Complete |
-| 8 | 8/05/2023 | Joseph Lau Yeo Kai, Wong Khai Shian Nicholas | Group members | Do the software process model(SPM) |  Complete |
-| 9 | 11/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas,Muhammad Danial | Group members | Meet with KTDI fellow | Partially Complete |
+| 4 | 21/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas, Muhammad Danial, Joseph Lau, Low Jie Sheng | Group members | Prepare proposal | Complete |
+| 5 | 22/04/2023 | Neo Zheng Weng | Designer | Design the system architecture | Complete |
+| 6 | 3/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial | Group members | Second meeting with KTDI Assistant Administrative Officer | Complete |
+| 7 | 5/05/2023 | Neo Zheng Weng | Designer | Draw the UML case diagram | Partially Complete |
+| 8 | 11/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas,Muhammad Danial | Group members | Meet with KTDI fellow | Partially Complete |
+| 9 |
 
 
 
