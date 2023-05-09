@@ -94,13 +94,14 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Tasks involved in developing SRC documentation:
 
-| No |   Date     |  Member Name |     Role	       | Task	                                  | Status	| 
+| No |   Date     |  Member Name |  Role	| Task| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1  | 20/04/2023 | Daniel Hakim | Project Manager | Create project plan                    | Complete |
-| 2  | 21/04/2023 | All members  |                 | Unformal meeting                       | Complete | 
-| 3  | 02/05/2023 | All members  |                 | Meeting with stakeholder, Puan Munirah and her assistant, Encik Mohd | Complete | 
-| 4  | 02/05/2023 | All members  |                 | Meeting with stakeholder, Encik Amran and his assistant, Puan Azira | Complete |
-| 5  | | | | | 
+| 1  | 20/04/2023 | Daniel | Project Manager | Create project plan | Complete |
+| 2  | 21/04/2023 | Daniel, Iman, Ariff, Safwan, Che Marhumi  |                 | Unformal meeting | Complete | 
+| 3  | 01/05/2023 | Daniel, Iman, Ariff, Safwan, Che Marhumi
+| 4  | 02/05/2023 | Daniel, Iman, Ariff, Safwan, Che Marhumi  |                 | Meeting with stakeholder, Puan Munirah and her assistant, Encik Mohd |Complete| 
+| 5  | 02/05/2023 | Daniel, Iman, Ariff, Safwan, Che Marhumi  |                 | Meeting with stakeholder, Encik Amran and his assistant, Puan Azira |Complete|
+| 6  | | | | | 
 
 
 ## Contribution 🛠️
