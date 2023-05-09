@@ -53,31 +53,31 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1 Nicole Lim Tze Yee</td>
+    <td>Nicole Lim Tze Yee</td>
     <td>Student</td>
-    <td>First Year Student of Faculty of Computing</td>
+    <td>Faculty of Computing (Undergraduate)</td>
     <td>Actively participate in the development and testing of the Student Feedback System, providing feedback and suggestions to ensure that the system meets their needs and requirements.</td>
   </tr>
   <tr>
-    <td>2 Wong Jun Ji</td>
+    <td>Wong Jun Ji</td>
     <td>Student</td>
-    <td>First Year Student of Faculty of Computing</td>
+    <td>Faculty of Computing (Undergraduate)</td>
     <td>Actively participate in the development and testing of the Student Feedback System, providing feedback and suggestions to ensure that the system meets their needs and requirements.</td>
   </tr>
   <tr>
-    <td>3 Tiew Chuan Seng</td>
+    <td>Tiew Chuan Seng</td>
     <td>Student</td>
-    <td>First Year Student of Faculty of Computing</td>
+    <td>Faculty of Computing (Undergraduate)</td>
     <td>Actively participate in the development and testing of the Student Feedback System, providing feedback and suggestions to ensure that the system meets their needs and requirements.</td>
   </tr>
     <tr>
-    <td>4 Dr Noorfa Haszlinna binti Mustaffa</td>
+    <td>Dr Noorfa Haszlinna binti Mustaffa</td>
     <td>Faculty Staff</td>
     <td>Lecturer</td>
     <td>Providing input and feedback on the design and functionality of the Student Feedback System, and to use the feedback data to improve teaching and learning outcomes.</td>
   </tr>
     <tr>
-    <td>5 Professor Madya Dr. Mohd Nihra Haruzuan bin Mohamad Said</td>
+    <td>Professor Madya Dr. Mohd Nihra Haruzuan bin Mohamad Said</td>
     <td>University Staff</td>
     <td>CDex Staff</td>
     <td>Providing feedback on the proposal, ensuring compliance with university policies and procedures, and facilitating the implementation and rollout of the system.</td>
