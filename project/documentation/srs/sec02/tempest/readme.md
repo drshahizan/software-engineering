@@ -74,7 +74,7 @@ Don't forget to hit the :star: if you like this repo.
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 01/01/2023| Luqman Hakim | Project Manager | Create project plan | Complete |
 | 2| 04/4/2023|Luqman, Anas, Danial, Kugen |Project Manager,Assistant Developer, UI/UX Designer, Scrum Master |Project Discussion| Complete |
-| 3| 01/01/2023| Luqman Hakim|Project Manager |Find and Identify stakeholder | Complete |
+| 3| 17/04/2023| Luqman Hakim|Project Manager |Find and Identify stakeholder | Complete |
 | 4| 02/05/2023|Danial | Assistant Developer|Preparation of interview questions | Complete|
 | 5|03/05/2023 |Luqman, Danial, Anas, Kugen |Project Manager,Assistant Developer, UI/UX Designer, Scrum Master | Interview with stakeholder|Complete |
 | 6| 04/05/2023|Luqman, Anas, Danial, Kugen |Project Manager,Assistant Developer, UI/UX Designer, Scrum Master |Proposal Discussion| Complete | 
