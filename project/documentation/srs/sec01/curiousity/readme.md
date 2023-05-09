@@ -90,7 +90,7 @@ Don't forget to hit the :star: if you like this repo.
 | 10 | 11/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with LT KOL Prof. Madya Dr. Mohd Noor Azli Bin Haji. Ali Khan (KTDI Administrator) | Incomplete |
 | 11 | 14/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with Hamizah Amalina Binti Amlan (Pembantu Felo KTDI) | Incomplete |
 | 12 | 15/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | SRS Planning | Incomplete |
-| 12 | 16/05/2023 | Ng Shu Yu | Documentation Specialist | Create system documentation | Incomplete |
+| 12 | 16/05/2023 | Ng Shu Yu | Documentation Specialist | Create system documentation | Ongoing |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
