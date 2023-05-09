@@ -52,16 +52,22 @@ Don't forget to hit the :star: if you like this repo.
     <td>First Year Data Engineering Student</td>
     <td>Provide feedback. The student can test the system during development and provides feedback regarding usability, functionality and design. This feedback can help us to identify bugs or issues that need to be addressed.</td>
   </tr>
+  <tr>
+    <td>2 Liow Zhi Heng</td>
+    <td>Student</td>
+    <td>First Year Data Engineering Student</td>
+    <td>Provide feedback. The student can test the system during development and provides feedback regarding usability, functionality and design. This feedback can help us to identify bugs or issues that need to be addressed.</td>
+  </tr>
     <tr>
-    <td>2</td>
-    <td>Faculty staff</td>
+    <td>3</td>
+    <td>Faculty Staff</td>
     <td>Lecturer</td>
     <td>Defining requirements. Lecturer can provide valuable input for the attendance system. Valuable input can be specified as what attendance data they need to track (Students, name, ID, location, etc), how they want the attendance to be marked (by scanning QR code/ by entering random number generated), and what reporting and analysis capabilities they require.</td>
   </tr>
     <tr>
-    <td>3</td>
-    <td>Technician</td>
-    <td></td>
+    <td>4</td>
+    <td>Faculty Staff</td>
+    <td>UTM Digital Staff</td>
     <td>Providing technical expertise. The stakeholder can help us to understand the architecture, boundaries, design, etc of the existing system. The stakeholder can provide technical expertise and knowledge about the current system.</td>
   </tr>
 </table>
