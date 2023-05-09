@@ -68,7 +68,14 @@ Don't forget to hit the :star: if you like this repo.
     <td>Oh Kai Xuan</td>
     <td>Student</td>
     <td>KTDI Resident</td>
-    <td>Giving the feedbacks for the current KTDI room maintenance system and providing the ideas for improvement. </td>
+    <td>Giving the feedbacks for the current KTDI room maintenance system and providing the ideas for improvement.</td>
+  </tr>
+  </tr>
+    <tr>
+    <td> td>
+    <td>KTDI Student Council</td>
+    <td>KTDI JKM</td>
+    <td>Providing the steps in applying for quota active of college application for senior students.</td>
   </tr>
 </table>
 
@@ -76,9 +83,9 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 18/04/2023 | Neo Zheng Weng | Project Manager | Create project plan | Complete |
+| 1 | 13/04/2023 | Neo Zheng Weng | Project Manager | Create project plan | Complete |
 | 2 | 19/04/2023 | Wong Khai Shian Nicholas | Requirements Analyst | Determine the user requirements | Partially Complete |
-| 3 | 20/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas,Muhammad Danial | Group members | First meeting with KTDI Assistant Administrative Officer | Complete |
+| 3 | 20/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas, Muhammad Danial, Joseph Lau, Low Jie Sheng | Group members | First meeting with KTDI Assistant Administrative Officer | Complete |
 | 4 | 20/04/2023 | Neo Zheng Weng | Designer | Design the system architecture | Complete |
 | 5 | 2/05/2023 | Neo Zheng Weng | Designer | Draw the UML case diagram | Partially Complete |
 | 6 | 3/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas,Muhammad Danial | Group members | Second meeting with KTDI Assistant Administrative Officer | Complete |
