@@ -98,8 +98,8 @@ Don't forget to hit the :star: if you like this repo.
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1  | 20/04/2023 | Daniel Hakim | Project Manager | Create project plan                    | Complete |
 | 2  | 21/04/2023 | All members  |                 | Unformal meeting                       | Complete | 
-| 3  | 02/05/2023 | All members  |                 | Meeting with stakeholder, Puan Munirah | Complete | 
-| 4  | 02/05/2023 | All members  |                 | Meeting with stakeholder, Encik Amran  | Complete |
+| 3  | 02/05/2023 | All members  |                 | Meeting with stakeholder, Puan Munirah and her assistant, Encik Mohd | Complete | 
+| 4  | 02/05/2023 | All members  |                 | Meeting with stakeholder, Encik Amran and his assistant, Puan Azira | Complete |
 | 5  | | | | | 
 
 
