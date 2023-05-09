@@ -25,7 +25,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
     <tr>
     <td>3 Kek Jesslyn</td>
-    <td> Support Engineer | Data Analyst</td>
+    <td>Support Engineer</td>
   </tr>
     <tr>
     <td>4 Wong Qiao Ying</td>
@@ -33,7 +33,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>5 Yeoh Chong Yi</td>
-    <td>Technical Writer |  Quality Assurance Engineer </td>
+    <td>Technical Writer</td>
   </tr>
 </table>
 
@@ -46,21 +46,21 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>1 Layla Rasheed Abdallah Hasan</td>
+    <td>Lecturer</td>
+    <td>Senior Lecturer of Faculty of Computing</td>
+    <td>Provide suggestions and ideas that can be implemented in this system to improve engagement between students and lecturer</td>
   </tr>
     <tr>
-    <td>2</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>2 Jasmine Alisha binti Shahrunnizam</td>
+    <td>Student Representative Council(SRC)</td>
+    <td>Head of the Department of Internal Relation and Corporate Affairs </td>
+    <td>Provide recommendations to help SRC in collecting students complaints</td>
   </tr>
     <tr>
-    <td>3</td>
-    <td></td>
-    <td></td>
+    <td>3 Sudashen Rao</td>
+    <td>Student</td>
+    <td>Faculty of Computing Student (Undergraduate)</td>
     <td></td>
   </tr>
 </table>
@@ -68,12 +68,16 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2| | | | | 
-| 3| | | | | 
-| 4| | | | | 
-| 5| | | | | 
-
+| 1 | 19/04/2023 | Bernice Lim Jing Xuan | Project Manager | Create project plan | Complete |
+| 2 | 20/04/2023 | Chai Yu Tong | Developer | Create proposal | Complete | 
+| 3 | 02/05/2023 | Chai Yu Tong | Developer | Contact stakeholder 1 | Complete | 
+| 4 | 02/05/2023 | Bernice Lim Jing Xuan | Project Manager | Contact stakeholder 2 | Complete |
+| 5 | 06/05/2023 | Bernice Lim Jing Xuan | Project Manager | Contact stakeholder 3 | Complete |
+| 6 | 06/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 1 | Complete |
+| 7 | 07/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 2 | Complete |
+| 8 | 11/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 3 | ToDo |
+| 9 | 12/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Analysis Requirements | ToDo |
+| 10 | 15/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer |  SRS Planning | ToDo |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

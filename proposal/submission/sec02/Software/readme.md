@@ -281,13 +281,12 @@ In conclusion, the total estimated cost is ***RM 570,000/year***.
     <th align= "left">Data Schema</th>
     <td>Tableau, Google Data Studio</td>
   </tr>
+     <th align= "left">Data Schema</th>
+    <td>Personal Information includes height, weight, BMI, gender, ID, health records.<ul><li>KTDI students' data</li>
+    <li>PKU Staffs' data</li></td>
       <tr>
     <th align= "left">Data Transformations</th>
     <td>Data Calculation : Body Mass Index (BMI) will be calculated from user's data</td>
-  </tr>
-        <tr>
-    <th align= "left">Machine Learning Algorithms</th>
-    <td>Decision-Tree</td>
   </tr>
   <tr>
     <th align= "left">Data Visualization tools</th>

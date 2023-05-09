@@ -18,11 +18,11 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>1 Tan Jun Yuan</td>
-    <td>Project Manager & Documentation Specialist</td>
+    <td>Project Manager</td>
   </tr>
   <tr>
     <td>2 Goh Jing Yang</td>
-    <td>UI/ UX System Designer & Requirement Analyst</td>
+    <td>UI/ UX Designer</td>
   </tr>
     <tr>
     <td>3 Loo Jia Chang</td>
@@ -30,9 +30,11 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
     <tr>
     <td>4 Chen Pyng Haw</td>
-    <td>Quality Assurance & Developer Assistant</td>
+    <td>Documentation Specialist</td>
   </tr>
 </table>
+
+<img src="interviewWithDean.jpg" alt="Meeting with Dean of Faculty of Computing">
 
 ## Stakeholder
 <table>
@@ -43,20 +45,20 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1 </td>
-    <td>Student</td>
-    <td></td>
-    <td></td>
+    <td>PROF. TS. DR. WAN MOHD NASIR WAN NADIR</td>
+    <td>Facukty Staff</td>
+    <td>Dean</td>
+    <td>Provide an overview of the existing system and the expectation of this system</td>
   </tr>
     <tr>
     <td>2</td>
-    <td>Faculty Staff</td>
+    <td>Lecturer</td>
     <td></td>
     <td></td>
   </tr>
     <tr>
-    <td>3</td>
-    <td>Lecturer</td>
+    <td></td>
+    <td>Student</td>
     <td></td>
     <td></td>
   </tr>
@@ -66,11 +68,15 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2| | | | | 
-| 3| | | | | 
-| 4| | | | | 
-| 5| | | | | 
+| 1 | 20/04/2023| Tan Jun Yuan | Project Manager | Create project plan | Complete |
+| 2 | 24/04/2023 | Goh Jing Yang, Loo Jia Chang | UI/ UX Designer, Main Developer | Gather user requirements | Complete |
+| 3 | 28/04/2023 | Chen Pyng Haw | Documentation Specialist | Create proposal | Complete |
+| 4 | 7/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Meeting with stakeholder 1 | Complete |
+| 5 | 9/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Meeting with stakeholder 2 | Pending |
+| 6 | 12/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | SRS Documentation draf | Pending |
+
+| | | | | | 
+| | | | | | 
 
 
 ## Contribution 🛠️

@@ -15,10 +15,26 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ### Prepared by: <stakeholder>
-  1. NURUL ERINA BINTI ZAINUDDIN
-  2. NIK ZULAIKHAA BINTI ZURAIDI AFANDI
-  3. ALIATUL IZZAH BINTI JASMAN
-  4. THEVAN RAJU A/L JEGANATH A22EC0286
+ <table>
+<tr>
+  <th>No.</th>
+  <th>Member</th>
+  <th>Matric No.</th>
+  <th>Photo</th>
+</tr>
+<tr>
+  <td>1.</td> <td> NURUL ERINA BINTI ZAINUDDIN </td> <td> A22EC0254 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Engineering/photo/erinaaa.jpg" width=150px, height=200px> </td>
+  </tr>
+<tr>
+  <td>2.</td> <td> NIK ZULAIKHAA BINTI ZURAIDI AFANDI </td> <td> A22EC0232 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Engineering/photo/nik.jpg" width=150px, height=200px> </td>
+  </tr>
+<tr>
+  <td>3.</td> <td> ALIATUL IZZAH BINTI JASMAN </td> <td> A22EC0136 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Engineering/photo/izzah.jpg" width=150,height=300> </td> 
+  </tr>
+<tr>
+  <td>4.</td> <td> THEVAN RAJU A/L JEGANATHi </td> <td>A22EC0286 </td><td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Engineering/photo/thevan.jpg" width=150px, height=200px> </td>
+  </tr>
+</table>
   
 
 ### Table of Contents
@@ -65,7 +81,7 @@ Our proposed parcel system aims to achieve the following objectives:
 
 ### 4. Scope: 
 
-
+![Flowchart](https://raw.githubusercontent.com/drshahizan/software-engineering/main/proposal/submission/sec02/Engineering/Flowchart.jpg)
 1. System Users: The parcel system will be designed to cater to the following user groups: students, faculty, staff, and authorized parcel senders.
 
 2. Parcel Tracking: The system will provide real-time tracking of parcel deliveries, allowing users to monitor the status of their parcels and receive updates on delivery times.
@@ -97,6 +113,8 @@ The proposed scope for the parcel system is expected to provide numerous benefit
 ### 5. Software Process Model:
 
 ![Agile Method](https://miro.medium.com/v2/resize:fit:1024/1*dGbdNhomubFlfvEPrQrGNQ.png)
+
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Engineering/final.PNG"></img>
 
 1. Requirements Gathering: The first stage of the software process model will involve gathering requirements from stakeholders, including students, faculty, staff, and parcel senders. This stage will help identify the key features and functionality needed for the parcel system.
 
@@ -271,7 +289,6 @@ In conclusion, the development of a Parcel Delivery Management System (PDMS) web
 
 The proposed timeline and deliverables include project planning and requirements gathering, system design and architecture, website development, testing and quality assurance, delivery personnel dashboard development, deployment and integration, and training, documentation, and finalization. The overall deliverable is a completed PDMS with a working website for users, a delivery personnel dashboard, and training and support materials.
 
-It is important to keep in mind that the timeline and deliverables may vary depending on the specific requirements and resources of the project. Effective communication with stakeholders and flexibility in the development process can help ensure the successful implementation of the PDMS website.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
