@@ -65,7 +65,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>Actively participate in the development and testing of the Student Feedback System, providing feedback and suggestions to ensure that the system meets their needs and requirements.</td>
   </tr>
   <tr>
-    <td>Tiew Chuan Seng</td>
+    <td>Tiew Chuan Shen</td>
     <td>Student</td>
     <td>Faculty of Computing (Undergraduate)</td>
     <td>Actively participate in the development and testing of the Student Feedback System, providing feedback and suggestions to ensure that the system meets their needs and requirements.</td>
