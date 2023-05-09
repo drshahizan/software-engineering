@@ -60,6 +60,17 @@ Don't forget to hit the :star: if you like this repo.
     <td>Pembantu Felo KTDI</td>
     <td>Ensure system meets administrative needs for KTDI events</td>
   </tr>
+  <tr>
+    <td>LT KOL Prof. Madya Dr. Mohd Noor Azli Bin Haji. Ali Khan</td>
+    <td>KTDI Administrator</td>
+    <td>KTDI Principal</td>
+    <td>Ensure system meets administrative needs for KTDI events</td>
+  <tr>
+    <td>Nadia Syahadah Binti Saharudin</td>
+    <td>KTDI Student<td>
+    <td>Student</td>
+    <td>Give feedback regarding the system to ensure it fufill the needs as a KTDI student</td>
+    </tr>
 </table>
 
 ## Tasks involved in developing SRC documentation:
