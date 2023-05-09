@@ -96,7 +96,7 @@ Don't forget to hit the :star: if you like this repo.
 
 | No |   Date     |  Member Name |  Role	| Task| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1  | 20/04/2023 |Daniel|Project Manager|Create project plan|Complete|
+| 1  | 20/04/2023 |Daniel|Requirements Analyst|Create project plan|Complete|
 | 2  | 21/04/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist   |Unformal meeting|Complete| 
 | 3  | 01/05/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Meeting online|Complete|
 | 4  | 02/05/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi  |Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Meeting with stakeholder, Puan Munirah and her assistant, Encik Mohd |Complete| 
