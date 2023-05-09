@@ -30,7 +30,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
     <tr>
     <td>4. Muhammad Luqman Hakim bin Mohd Rizaudin</td>
-    <td>Developer</td>
+    <td>Main Developer</td>
   </tr>
 </table>
 
@@ -43,19 +43,25 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>Hj Mohd Rizaudin Bin Mohd Salleh</td>
+    <td>Tuan Hj Mohd Rizaudin Bin Mohd Salleh</td>
     <td>Top Management Cahaya Ad Din</td>
     <td>CEO</td>
     <td>Giving insights and problems that the company have according to the topic</td>
   </tr>
     <tr>
-    <td>Nor Azwa binti Jaafar</td>
+    <td>Cik Nor Azwa binti Jaafar</td>
     <td>Middle Management Cahaya Ad Din</td>
     <td>Staff</td>
     <td>Describe the flow of work and the problems that the staff has during the registration</td>
   </tr>
+  <tr>
+    <td>Puan Sari Ariza binti Sukiman</td>
+    <td>Middle Management Cahaya Ad Din</td>
+    <td>Accountant</td>
+    <td>Describe the flow of payment during registration and the problem behind it</td>
+  </tr>
     <tr>
-    <td>Rozita Binti Dasmin</td>
+    <td>Puan Rozita Binti Dasmin</td>
     <td>End User</td>
     <td>Client</td>
     <td>Tells more about the problem they have during the registration</td>
