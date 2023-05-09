@@ -65,6 +65,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>Providing technical expertise. The stakeholder can help us to understand the architecture, boundaries, design, etc of the existing system. The stakeholder can provide technical expertise and knowledge about the current system.</td>
   </tr>
 </table>
+
 ## Tasks involved in developing SRC documentation:
 
 | No | Date | Member Name | Role	| Task	| Status	| 
