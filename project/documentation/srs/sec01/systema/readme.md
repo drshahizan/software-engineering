@@ -54,13 +54,13 @@ Don't forget to hit the :star: if you like this repo.
     <tr>
     <td>2 Jasmine Alisha binti Shahrunnizam</td>
     <td>Student Representative Council(SRC)</td>
-    <td></td>
+    <td>Head of the Department of Internal Relation and Corporate Affairs </td>
     <td>Provide recommendations to help SRC in collecting students complaints</td>
   </tr>
     <tr>
     <td>3</td>
-    <td></td>
-    <td></td>
+    <td>Sudashen</td>
+    <td>Student</td>
     <td></td>
   </tr>
 </table>
