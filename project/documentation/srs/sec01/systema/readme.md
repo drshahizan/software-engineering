@@ -60,7 +60,7 @@ Don't forget to hit the :star: if you like this repo.
     <tr>
     <td>3 Sudashen Rao</td>
     <td>Student</td>
-    <td>Student</td>
+    <td>Faculty of Computing Student (Undergraduate)</td>
     <td></td>
   </tr>
 </table>
