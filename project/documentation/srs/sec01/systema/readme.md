@@ -72,9 +72,11 @@ Don't forget to hit the :star: if you like this repo.
 | 2 | 20/04/2023 | Chai Yu Tong | Developer | Create proposal | Complete | 
 | 3 | 02/05/2023 | Chai Yu Tong | Developer | Contact stakeholder 1 | Complete | 
 | 4 | 02/05/2023 | Bernice Lim Jing Xuan | Project Manager | Contact stakeholder 2 | Complete |
-| 5 | 06/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 1 | Complete |
-| 6 | 07/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 2 | Complete |
-| 7 | 11/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 3 | ToDo |
+| 5 | 06/05/2023 | Bernice Lim Jing Xuan | Project Manager | Contact stakeholder 3 | Complete |
+| 6 | 06/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 1 | Complete |
+| 7 | 07/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 2 | Complete |
+| 8 | 11/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 3 | ToDo |
+| 9 | 11/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | SRS Planning | ToDo |
 
 
 ## Contribution 🛠️
