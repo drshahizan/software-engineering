@@ -43,19 +43,19 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>1</td>
-    <td></td>
+    <td>Lecturer</td>
     <td></td>
     <td></td>
   </tr>
     <tr>
     <td>2</td>
-    <td></td>
+    <td>Undergraduate student</td>
     <td></td>
     <td></td>
   </tr>
     <tr>
     <td>3</td>
-    <td></td>
+    <td>Postgraduate student</td>
     <td></td>
     <td></td>
   </tr>

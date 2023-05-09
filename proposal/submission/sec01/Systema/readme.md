@@ -174,7 +174,7 @@ Here is the phases of agile model that can be applied to the development of a st
 </ul>
 
 ### 6. Budget
-There will be a number of costs associated with the creation of a student engagement system that will serve about 40,000 users, including hardware, software, personnel, testing, and contingency. This project is expected to cost **RM 3,650,000**, as shown in the following breakdown:
+There will be a number of costs associated with the creation of a student engagement system that will serve about 40,000 users, including hardware, software, personnel, testing, contingency, and others. This project is expected to cost **RM 4,321,000**, as shown in the following breakdown:
 </p>
 
 #### Hardware: RM 1,200,000
@@ -202,7 +202,9 @@ There will be a number of costs associated with the creation of a student engage
 - These expenses could include unforeseen hardware or software failures, scope changes, or development timeline delays.
 - The project's contingency fund is included to ensure that it can proceed even in the event of unforeseen difficulties or setbacks that can have an impact on student engagement.
 
-In conclusion, it is anticipated that RM 3,650,000 will be needed to develop the student engagement system. Costs associated with staff, testing, hardware, software, and contingency will all be covered by the budget. Stakeholders and project sponsors will be informed of any budget changes.
+#### Others: RM 671,000
+
+In conclusion, it is anticipated that RM 4,321,000 will be needed to develop the student engagement system. Costs associated with staff, testing, hardware, software, and contingency will all be covered by the budget. Stakeholders and project sponsors will be informed of any budget changes.
 
 
 ### 7. System Architecture
@@ -333,7 +335,7 @@ Block Diagram:
         </td>
     </tr>
     <tr>
-        <td>Implementation (Week 5 - 7)</td>
+        <td>Implementation (Week 5 - 10)</td>
         <td>
             <ul>
                 <li>Implement the system architecture and data schema</li>
@@ -352,7 +354,7 @@ Block Diagram:
         </td>
     </tr>
     <tr>
-        <td>Testing and Deployment (Week 8 - 13)</td>
+        <td>Testing and Deployment (Week 11 - 13)</td>
         <td>
             <ul>
                 <li>Perform system testing</li>

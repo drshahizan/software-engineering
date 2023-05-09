@@ -96,12 +96,14 @@ Agile methodology is most suitable for this project because it guarantees short 
 - Gather requirements from stakeholders by explaning surveys questions, focus populations and interviews.
 - Plan a product backlog with a list of all the features and specifications needed for Student Health and Wellness Management System. 
 - Assign tasks and roles to team members followed by determine the required work loads for each roles. The duration of this phase is week 6 to week 9, ONG YI YAN as Requirement Analyst responsible for tracking process from time-to-time.
+- As a result of this phase, the stakeholders are identified, more ideas are generated for the features of the Student Health and Wellness Management System, requirements are gathered, and tasks and roles are assigned.
 
 #### Planning & Design Phase:
 - Examine the features backlog by receiving suggestions from PKU UTM administrative personnel, PKU UTM medical professional, UTM student survey ideas and make decision on which features need to be selected or removed in the following phase.
 - Requirements and features determined will be included in system architecture, database schema, and user interface. 
 - Design a features backlog with the wireframing, prototyping and database design. Stakeholders feedbacks that must be performed during the features, and determine the feature goals for achievements.
 - The duration of this phase is week 4 to week 6, LEE YIK HONG as User Experience Designer responsible for tracking process from time-to-time.
+- As a result of this phase, the feature backlog can be examined, requirements and features can be determined, features and databases can be designed,and feature goals can be identified.
 
 #### Sprint Development Phase:
 - Create the features and elements of the website that are included in the sprint and feature backlog by coding, unit testing, and integration testing. For example, HTML, CSS and PhP.
@@ -109,6 +111,7 @@ Agile methodology is most suitable for this project because it guarantees short 
 - Integrate and test continuously to make sure the website is operating as intended.
 - Documentation of website is adequated and code is routinely checked by developers.
 - The duration of this phase is week 9 to week 12, GOH JIALE as Main Developer responsible for tracking process from time-to-time.
+- As a result of this phase, the features and elements of the website are created, and meetings are continuously organised to integrate the system and produce a more perfect system.
 
 #### Sprint Review & Testing Phase:
 - Receive feedback from stakeholders by presenting the features functional, performance, and security testing. 
@@ -118,6 +121,7 @@ Agile methodology is most suitable for this project because it guarantees short 
 - Change the development process as needed to increase effectiveness and efficiency.
 - Discuss achievements, difficulties, and ways for improvement.
 - The duration of this phase is week 13 to week 15, TANG YAN QING as Documentation Specialists responsible for tracking process from time-to-time.
+- As a result of this phase, the feedback received and reviewed will help improve systems to a more perfect state.
 
 #### Deployment and Maintenance Phase
 - Launch the  Student Health and Wellness Management System website in a live environment.
@@ -126,6 +130,7 @@ Agile methodology is most suitable for this project because it guarantees short 
 - Analysing user activities for user patterns and improvements needed.
 - Apply the agile methodology to iterate on new website features and enhancements.
 - The duration of this phase after week 15, KOH SU XUAN as Quality Assurance Testor responsible for tracking process from time-to-time.
+- As a result of this phase, the users will be able to use the system smoothly and give feedback to improve it, and maintenance will be done to make sure the system is up-to-date.
 
 ### 6. Budget:
 For the student health and wellness management website which involves around 2000 users in Kolej Tun Dr. Ismail (KTDI), the estimated budget is **RM 570,000**. The budget includes the costs for 6 months of development and 6 months of maintenance for the website.
@@ -249,7 +254,7 @@ c. **Software Resources** :
     - RM 4,000/year
     - Used for managing the database for the website
   - Cloud Service
-    - RM 35,00/year
+    - RM 3,500/year
     - Used for providing access to computing resources over the internet
 <p>Total Software Cost: RM 10,000/year</p>
 
@@ -268,6 +273,25 @@ In conclusion, the total estimated cost is ***RM 570,000/year***.
 
 ### 10. Technical Specifications:
 <table>
+<tr>
+    <th align= "left">Data Sources</th>
+    <td>Students' demographic information and health records</td>
+  </tr>
+    <tr>
+    <th align= "left">Data Schema</th>
+    <td>Tableau, Google Data Studio</td>
+  </tr>
+     <th align= "left">Data Schema</th>
+    <td>Personal Information includes height, weight, BMI, gender, ID, health records.<ul><li>KTDI students' data</li>
+    <li>PKU Staffs' data</li></td>
+      <tr>
+    <th align= "left">Data Transformations</th>
+    <td>Data Calculation : Body Mass Index (BMI) will be calculated from user's data</td>
+  </tr>
+  <tr>
+    <th align= "left">Data Visualization tools</th>
+    <td>Tableau, Google Data Studio</td>
+  </tr>
   <tr>
     <th align= "left">Hosting Platform</th>
     <td>Google Cloud </td>
@@ -372,11 +396,5 @@ In conclusion, the total estimated cost is ***RM 570,000/year***.
 </table>
 
 ### 12. Conclusion:
-- Simplify and streamline PKU processing time for students and administrators.
-- Provide easy access to medical resources, health tracking tools, and health tips and advice.
-- Enable students to communicate with medical professionals, receive medical advice, and make appointments for medical services.
-- Provide a quick and easy way for students to call for emergency assistance in case of a medical emergency.
-- Collect and analyze data on student health trends, allowing PKU to better understand the health needs of the student population and provide targeted interventions.
-- Ensure compliance with all relevant laws, regulations, and policies, including HIPAA and GDPR, while maintaining a secure and user-friendly platform.
-
+In a nutshell, our proposed system, the Student Health and Awareness Management System, not only increases the efficiency of Pusat Kesihatan Universiti but also reduces the time students have to wait for medical treatment or advice. This system is crucial in creating a communication channel between PKU staff and students as well as raising students' awareness of mental and physical health. Therefore, we urge decision-makers in UTM to approve this proposal and proceed with the project. We understand that there might be some drawbacks when implementing this system, such as data breaches, identity theft, or compatibility issues, but we believe that this system is needed for PKU to improve productivity, patient experience, and data management.
 
