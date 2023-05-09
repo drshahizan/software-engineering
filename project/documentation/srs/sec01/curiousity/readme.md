@@ -86,9 +86,10 @@ Don't forget to hit the :star: if you like this repo.
 | 6 | 02/05/2023 | Camily Tang Jia Lei | Main Developer | Implement software functionality | Incomplete |  
 | 7 | 03/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei | Project Manger, Documentation Specialist, Developer | Meeting with Hanie Azyuni Binti Mazle (JKM KTDI)| Complete | 
 | 8 | 04/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei | Project Manger, Documentation Specialist, Developer | Meeting with Lim Shi Kai (JKM KTDI) | Complete |
-| 9 | 13/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with Nadia Syahadah Binti Saharudin | Incomplete |
-| 10 | 18/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with LT KOL Prof. Madya Dr. Mohd Noor Azli Bin Haji. Ali Khan (KTDI Administrator) | Incomplete |
-| 11 | 20/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with Hamizah Amalina Binti Amlan (Pembantu Felo KTDI) | Incomplete |
+| 9 | 10/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with Nadia Syahadah Binti Saharudin | Incomplete |
+| 10 | 11/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with LT KOL Prof. Madya Dr. Mohd Noor Azli Bin Haji. Ali Khan (KTDI Administrator) | Incomplete |
+| 11 | 14/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with Hamizah Amalina Binti Amlan (Pembantu Felo KTDI) | Incomplete |
+| 12 | 15/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | SRS Planning | Incomplete |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
