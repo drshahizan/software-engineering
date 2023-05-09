@@ -55,7 +55,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>Describe the flow of work and the problems that the staff has during the registration</td>
   </tr>
     <tr>
-    <td>3</td>
+    <td>Rozita Binti Dasmin</td>
     <td>End User</td>
     <td>Client</td>
     <td>Tells more about the problem they have during the registration</td>
