@@ -18,11 +18,11 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>MUHAMMAD DANIEL HAKIM BIN SYAHRULNIZAM</td>
-    <td>Requirements Analyst/Project Manager</td>
+    <td>Requirements Analyst</td>
   </tr>
   <tr>
     <td>MUHAMMAD ARIFF DANISH BIN HASHNAN</td>
-    <td>Software Developer</td>
+    <td>Developer</td>
   </tr>
     <tr>
     <td>MUHAMMAD IMAN FIRDAUS BIN BAHARUDDIN</td>
@@ -97,10 +97,10 @@ Don't forget to hit the :star: if you like this repo.
 | No |   Date     |  Member Name |  Role	| Task| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1  | 20/04/2023 | Daniel | Project Manager | Create project plan | Complete |
-| 2  | 21/04/2023 | Daniel, Iman, Ariff, Safwan, Che Marhumi  |                 | Unformal meeting | Complete | 
-| 3  | 01/05/2023 | Daniel, Iman, Ariff, Safwan, Che Marhumi
-| 4  | 02/05/2023 | Daniel, Iman, Ariff, Safwan, Che Marhumi  |                 | Meeting with stakeholder, Puan Munirah and her assistant, Encik Mohd |Complete| 
-| 5  | 02/05/2023 | Daniel, Iman, Ariff, Safwan, Che Marhumi  |                 | Meeting with stakeholder, Encik Amran and his assistant, Puan Azira |Complete|
+| 2  | 21/04/2023 | Daniel, Ariff, Iman, Safwan, Che Marhumi  |Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist                 | Unformal meeting | Complete | 
+| 3  | 01/05/2023 | Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist
+| 4  | 02/05/2023 | Daniel, Ariff, Iman, Safwan, Che Marhumi  |Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist                 | Meeting with stakeholder, Puan Munirah and her assistant, Encik Mohd |Complete| 
+| 5  | 02/05/2023 | Daniel, Ariff, Iman, Safwan, Che Marhumi  |Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist                 | Meeting with stakeholder, Encik Amran and his assistant, Puan Azira |Complete|
 | 6  | | | | | 
 
 
