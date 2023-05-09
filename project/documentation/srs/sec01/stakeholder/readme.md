@@ -78,13 +78,13 @@ Don't forget to hit the :star: if you like this repo.
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 18/04/2023 | Neo Zheng Weng | Project Manager | Create project plan | Complete |
 | 2 | 19/04/2023 | Wong Khai Shian Nicholas | Requirements Analyst | Determine the user requirements | Partially Complete |
-| 3 | 20/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas | Group members | First meeting with KTDI Assistant Administrative Officer | Complete |
+| 3 | 20/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas,Muhammad Danial | Group members | First meeting with KTDI Assistant Administrative Officer | Complete |
 | 4 | 20/04/2023 | Neo Zheng Weng | Designer | Design the system architecture | Complete |
 | 5 | 2/05/2023 | Neo Zheng Weng | Designer | Draw the UML case diagram | Partially Complete |
-| 6 | 3/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas | Group members | Second meeting with KTDI Assistant Administrative Officer | Complete |
+| 6 | 3/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas,Muhammad Danial | Group members | Second meeting with KTDI Assistant Administrative Officer | Complete |
 | 7 | 3/05/2023 | Low Jie Sheng, | Group members | Do the risk assessment |  Complete |
 | 8 | 8/05/2023 | Joseph Lau Yeo Kai, Wong Khai Shian Nicholas | Group members | Do the software process model(SPM) |  Complete |
-| 9 | 11/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas | Group members | Meet with KTDI fellow | Partially Complete |
+| 9 | 11/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas,Muhammad Danial | Group members | Meet with KTDI fellow | Partially Complete |
 
 
 
