@@ -98,10 +98,12 @@ Don't forget to hit the :star: if you like this repo.
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1  | 20/04/2023 |Daniel|Requirements Analyst|Create project plan|Complete|
 | 2  | 21/04/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist   |Unformal meeting|Complete| 
-| 3  | 01/05/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Meeting online|Complete|
+| 3  | 01/05/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Online meeting|Complete|
 | 4  | 02/05/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi  |Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Meeting with stakeholder, Puan Munirah and her assistant, Encik Mohd |Complete| 
 | 5  | 02/05/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi  |Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist   |Meeting with stakeholder, Encik Amran and his assistant, Puan Azira |Complete|
-| 6  | | | | | 
+| 6  | 03/05/2023 |Daniel, Ariff,Che Marhumi |Requirements Analyst,Developer,Documentation Specialist|Compliting proposal|Complete|
+| 7  | 05/05/2023 |Safwan|Quality Assurance|Checking all menu,quality the food and beverages,methods of payment|Complete|
+
 
 
 ## Contribution 🛠️
