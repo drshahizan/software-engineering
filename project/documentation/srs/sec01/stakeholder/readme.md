@@ -72,7 +72,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   </tr>
     <tr>
-    <td> td>
+    <td>Ms Rosnani Binti Katip</td>
     <td>KTDI Staff</td>
     <td></td>
     <td>Providing the manual KTDI Google forms.</td>
