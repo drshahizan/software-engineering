@@ -77,9 +77,9 @@ Don't forget to hit the :star: if you like this repo.
     <td>Providing input and feedback on the design and functionality of the Student Feedback System, and to use the feedback data to improve teaching and learning outcomes.</td>
   </tr>
     <tr>
-    <td>5 </td>
-    <td> </td>
-    <td></td>
+    <td>5 Professor Madya Dr. Mohd Nihra Haruzuan bin Mohamad Said</td>
+    <td>University Staff</td>
+    <td>CDex Staff</td>
     <td>Providing feedback on the proposal, ensuring compliance with university policies and procedures, and facilitating the implementation and rollout of the system.</td>
   </tr>
 </table>
