@@ -68,12 +68,12 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 20/04/2023| Tan Jun Yuan | Project Manager | Create project plan | Complete |
-| 2 | 23/04/2023 | Goh Jing Yang, Loo Jia Chang | UI/ UX Designer, Main Developer | Gather user requirements | Complete |
-| 3 | 27/04/2023 | Chen Pyng Haw | Documentation Specialist | Create proposal | Complete |
+| 1 | 25/04/2023| Tan Jun Yuan | Project Manager | Create project plan | Complete |
+| 2 | 26/04/2023 | Goh Jing Yang, Loo Jia Chang | UI/ UX Designer, Main Developer | Gather user requirements | Complete |
+| 3 | 29/04/2023 | Chen Pyng Haw | Documentation Specialist | Create proposal | Complete |
 | 4 | 7/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Meeting with stakeholder 1 | Complete |
 | 5 | 9/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Meeting with stakeholder 2 | Pending |
-| 6 | 12/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | SRD Documentation draf | Pending |
+| 6 | 12/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | SRS Documentation draf | Pending |
 
 | | | | | | 
 | | | | | | 
