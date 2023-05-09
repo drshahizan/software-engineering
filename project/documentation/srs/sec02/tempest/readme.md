@@ -66,11 +66,11 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2| 01/01/2023| | |Find and Identify stakeholder | Complete |
-| 3| | | | | 
-| 4| | | | | 
-| 5| | | | | 
+| 1 | 01/01/2023| Luqman Hakim | Project Manager | Create project plan | Complete |
+| 2| 01/01/2023| Luqman Hakim|Project Manager |Find and Identify stakeholder | Complete |
+| 3| 04/4/2023|Luqman, Anas, Danial, Kugen |Project Manager,Developer, UI/UX Designer, Scrum Master |Creating a proposal| Complete | 
+| 4| 02/05/2023|Danial | Software Architecture|Preparation of interview questions | Complete|
+| 5| | | | | |
 
 
 ## Contribution 🛠️
