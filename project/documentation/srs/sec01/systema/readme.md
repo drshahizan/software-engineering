@@ -68,10 +68,10 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 10/04/2023 | Bernice Lim Jing Xuan | Project Manager | Create project plan | Complete |
-| 2 | 12/04/2023 | Chai Yu Tong | Developer | Create proposal | Complete | 
-| 3 | 03/05/2023 | Chai Yu Tong | Developer | Contact stakeholder 1 | Complete | 
-| 4 | 03/05/2023 | Bernice Lim Jing Xuan | Project Manager | Contact stakeholder 2 | Complete |
+| 1 | 19/04/2023 | Bernice Lim Jing Xuan | Project Manager | Create project plan | Complete |
+| 2 | 20/04/2023 | Chai Yu Tong | Developer | Create proposal | Complete | 
+| 3 | 02/05/2023 | Chai Yu Tong | Developer | Contact stakeholder 1 | Complete | 
+| 4 | 02/05/2023 | Bernice Lim Jing Xuan | Project Manager | Contact stakeholder 2 | Complete |
 | 5 | 06/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 1 | Complete |
 | 6 | 07/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 2 | Complete |
 
