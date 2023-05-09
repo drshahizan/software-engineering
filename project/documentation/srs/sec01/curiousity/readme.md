@@ -83,7 +83,9 @@ Don't forget to hit the :star: if you like this repo.
 | 4 | 02/05/2023 | Low Ying Xi | Project Manager | Contact stakeholders | Complete | 
 | 5 | 03/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang | Project Manger, Documentation Specialist, Developer | Meeting with Hanie Azyuni Binti Mazle (JKM KTDI)| Complete | 
 | 6 | 04/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang | Project Manger, Documentation Specialist, Developer | Meeting with Lim Shi Kai (JKM KTDI) | Complete |
-| 6 | | Low Ying Xi, Ng Shu Yu, Camily Tang, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with LT KOL Prof. Madya Dr. Mohd Noor Azli Bin Haji. Ali Khan (KTDI Administrator) | Incomplete |
+| 7 | | Low Ying Xi, Ng Shu Yu, Camily Tang, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with Hamizah Amalina Binti Amlan (Pembantu Felo KTDI) | Incomplete |
+| 8 | | Low Ying Xi, Ng Shu Yu, Camily Tang, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with LT KOL Prof. Madya Dr. Mohd Noor Azli Bin Haji. Ali Khan (KTDI Administrator) | Incomplete |
+| 9 | | | | |
 
 
 ## Contribution 🛠️
