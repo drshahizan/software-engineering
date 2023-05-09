@@ -88,11 +88,14 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1. | 30/04/2023 | Yong Wern Jie | Project Manager |  Create Project Plan | Complete |
-| 2. | 01/05/2023 | Lee Soon Der | Designer  | Create system architecture design | Incomplete |
-| 3. | 01/05/2023 | Lim Jing Yong | Documentation Specialist | Create Software Documentation | Partially Complete | 
-| 4. | 01/05/2023 | Soh Han Wei | Requirement Analyst | Gather User Requirements | Partially Complete |
-| 5. | 01/05/2023 | Marcus Joey Sayner | Software Developer | Researching, designing, implementing, and managing software programs | Incomplete |
+| 1. | 28/04/2023 | Yong Wern Jie | Project Manager |  Create Project Plan | Complete |
+| 2. | 30/04/2023 | All members | - | Find Stakeholder | Complete |
+| 3. | 02/05/2023 | All members | - | Interview with stakeholders | Partially Complete | 
+| 4. | 02/05/2023 | Soh Han Wei | Requirement Analyst | Gather User Requirements | Partially Complete |
+| 5. | 02/05/2023 | Lim Jing Yong  | Documentation Specialist | Create Proposal | Complete |
+| 6. | 19/05/2023 | Lim Jing Yong & Soh Han Wei | Documentation Specialist & Requirement Analyst | Create SRS Document | Incomplete |
+| 7. | 31/06/2023 | Marcus Joey Sayner | Software Developer | System Development | Incomplete |
+| 8. | 02/07/2023 | Lee Soon Der | UX Designer | Create System Architecture Design | Incomplete |
 
 
 
