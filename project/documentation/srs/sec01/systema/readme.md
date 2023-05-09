@@ -58,7 +58,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provide recommendations to help SRC in collecting students complaints</td>
   </tr>
     <tr>
-    <td>Sudashen Rao</td>
+    <td>3 Sudashen Rao</td>
     <td>Student</td>
     <td>Student</td>
     <td></td>
