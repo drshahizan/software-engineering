@@ -42,18 +42,6 @@ Don't forget to hit the :star: if you like this repo.
     <th>Position</th>
     <th>Responsibility</th>
   </tr>
-  <tr>
-    <td>Lim Shi Kai</td>
-    <td>JKM KTDI</td>
-    <td>Ketua Biro Akademik & Tugas-tugas Khas</td>
-    <td>Provide feedback on usability and functionality of system from a JKM perspective</td>
-  </tr>
-    <tr>
-    <td>Hanie Azyuni Binti Mazle</td>
-    <td>JKM KTDI</td>
-    <td>Timbalan Pengerusi (Aktiviti)</td>
-    <td>Provide input on KTDI event information and documents</td>
-  </tr>
     <tr>
     <td>Hamizah Amalina Binti Amlan</td>
     <td>KTDI Staff</td>
@@ -65,6 +53,18 @@ Don't forget to hit the :star: if you like this repo.
     <td>KTDI Administrator</td>
     <td>KTDI Principal</td>
     <td>Ensure system meets administrative needs for KTDI events</td>
+  </tr>
+   <tr>
+    <td>Lim Shi Kai</td>
+    <td>JKM KTDI</td>
+    <td>Ketua Biro Akademik & Tugas-tugas Khas</td>
+    <td>Provide feedback on usability and functionality of system from a JKM perspective</td>
+  </tr>
+    <tr>
+    <td>Hanie Azyuni Binti Mazle</td>
+    <td>JKM KTDI</td>
+    <td>Timbalan Pengerusi (Aktiviti)</td>
+    <td>Provide input on KTDI event information and documents</td>
   </tr>
   <tr>
     <td>Nadia Syahadah Binti Saharudin</td>
