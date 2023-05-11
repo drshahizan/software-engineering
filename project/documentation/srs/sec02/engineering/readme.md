@@ -61,6 +61,13 @@ One Stop Parcel Center & Cengal Parcel Point
     <td>Head of Management</td>
     <td>Overall manages the security of parcels received through Shopee Express, and manage the staff as well as the informations about the parcels being secure</td>
   </tr>
+   <tr>
+    <td>Johnny</td>
+    <td>KTDI Student</td>
+    <td>Deliver guy</td>
+    <td> Should handle packages with care, ensuring they are properly secured and protected during transportation,ensure that parcels are delivered to the    correct recipients within the specified time frame, verify the recipient's identity or obtain a signature upon delivery, confirming that the package has reached the intended recipient and should ensure the security and confidentiality of the parcels they handle. 
+    </td>
+  </tr>
   
 </table>
 
