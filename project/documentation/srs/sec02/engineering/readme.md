@@ -84,8 +84,10 @@ One Stop Parcel Center & Cengal Parcel Point
 | 7| 05/05/2023|Erina,Nik|Project Manager,Software architect| Update Proposal |Complete| 
 | 8| 06/05/2023|Erina,Nik|Project Manager,Software architect| Contact Stackholder 4 and 5 |Complete| 
 | 9| 07/05/2023|Erina,Thevan,Nik,Izzah|All members|Create interview questions for stackholder 4 and 5 |Complete|
-| 10| | | | |
+| 10| 08/05/2023|Erina,Thevan,Nik,Izzah|All members| Meeting to discuss overview of system design |Complete|
 | 11| | | | |
+| 12| | | | |
+| 13| | | | |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
