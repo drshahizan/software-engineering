@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="UMS9nKY7Dt_vSzlsI9hF" name="Page-1">
+        <mxGraphModel dx="960" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="KTDI Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="120" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="KTDI Staff" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="405" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="750" y="620" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="KTDI Fellow Council" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="680" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="User Sign in" style="shape=folder;fontStyle=1;tabWidth=200;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="40" width="360" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="80" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Authentication / Security Subsystem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="40" width="200" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
