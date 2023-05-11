@@ -83,16 +83,16 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 13/04/2023 | Neo Zheng Weng | Project Manager | Create project plan | Complete |
+| 1 | 18/04/2023 | Neo Zheng Weng | Project Manager | Create project plan | Complete |
 | 2 | 19/04/2023 | Wong Khai Shian Nicholas | Requirements Analyst | Determine the user requirements | Partially Complete |
 | 3 | 20/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas, Muhammad Danial, Joseph Lau, Low Jie Sheng | Group members | First meeting with KTDI Assistant Administrative Officer | Complete |
-| 4 | 21/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas, Muhammad Danial, Joseph Lau, Low Jie Sheng | Group members | Prepare proposal | Complete |
-| 5 | 22/04/2023 | Neo Zheng Weng | Designer | Design the system architecture | Complete |
-| 6 | 3/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial | Group members | Second meeting with KTDI Assistant Administrative Officer | Complete |
+| 4 | 21/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas, Muhammad Danial, Joseph Lau Yeo Kai, Low Jie Sheng | Group members | Prepare proposal | Complete |
+| 5 | 24/04/2023 | Neo Zheng Weng | Designer | Design the system architecture | Complete |
+| 6 | 3/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | Second meeting with KTDI Assistant Administrative Officer | Complete |
 | 7 | 5/05/2023 | Neo Zheng Weng | Designer | Design the use case diagram | Partially Complete |
-| 8 | 11/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas,Muhammad Danial | Group members | Meet with KTDI fellow | Partially Complete |
-| 9 |
-
+| 8 | 8/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | SRS documentation | Partially Complete |
+| 9 | 11/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas,Muhammad Danial, Low Jie Sheng | Group members | Meet with KTDI fellow | Partially Complete |
+| 10 |
 
 
 ## Contribution 🛠️
