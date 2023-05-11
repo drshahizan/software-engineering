@@ -78,9 +78,9 @@ One Stop Parcel Center & Cengal Parcel Point
 | 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
 | 2| 01/05/2023|Erina,Thevan,Nik,Izzah|All member|Create interview questions for stackholder 1,2,3 |Complete|
 | 3| 02/05/2023|Thevan|Front-end developer|Contact stackholder 1,2,3 |Complete| 
-| 4| 02/05/2023|Erina,Thevan,Nik,Izzah|All member|Had meeting with stackholder |Complete|  
-| 5| | | | | 
-| 6| | | | |
+| 4| 02/05/2023|Erina,Thevan,Nik,Izzah|All member|Had meeting with stackholder to gather requirement |Complete|  
+| 5| 03/05/2023|Erina,Thevan,Nik,Izzah|All member| Create proposal with gathered information|Complete|  
+| 6| 04/05/2023|Erina,Nik|Project Maneger,Software architect| Create usercase diagram with gathered requirement|Complete|   
 | 7| | | | |
 | 8| | | | |
 
