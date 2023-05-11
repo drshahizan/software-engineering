@@ -93,11 +93,14 @@ Don't forget to hit the :star: if you like this repo.
 | 13 | 15/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | SRS Planning | Incomplete |
 | 14 | 16/05/2023 | Ng Shu Yu | Documentation Specialist | Create system documentation | Ongoing |
 | 15 | 11/05/2023-25/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Creates UML diagram, user diagram, user journey maps, and user stories. | Ongoing |
-| 16 | 20/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer |Technical Design and Architecture- creates a technical design and architecture diagram | Incomplete |
-| 17 | 21/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer |Second Meeting with Stakeholders for review the requirement and draft of the design | Incomplete |
-| 18 | 25/05/2023-1/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer |Develop the interface layer - each member with at least 1 modul to complete | Incomplete | 
-| 19 | 1/06/2023- 8/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer |Develop application layer - continue from the interface layer design | Incomplete |
-
+| 16 | 13/05/2023 |  Ng Shu Yu | Documentation Specialist | Create design document | Incomplete |
+| 17 | 20/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer |Technical Design and Architecture- creates a technical design and architecture diagram | Incomplete |
+| 17 | 21/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer |Second Meeting with Stakeholders for Review the Requirement and Draft of the Design | Incomplete |
+| 18 | 25/05/2023-1/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer |Develop the Interface Layer - each member with at least 1 modul to complete | Incomplete | 
+| 19 | 1/06/2023- 10/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer |Develop Application Layer - continue from the interface layer design | Incomplete |
+| 20 | 11/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Conduct Box Testing- resolves defects and bugs | Incomplete |
+| 21 | 15/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui|  Project Manger, Documentation Specialist, Developer, User Experience Designer | Conduct Usability Testing | Incomplete |
+| 22 | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
