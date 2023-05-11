@@ -71,12 +71,12 @@ Don't forget to hit the :star: if you like this repo.
 | 5 | 12/05/2023 | All Members | Project Members | Updation of proposal | Partially Complete | 
 | 6 | 12/05/2023 | NAVACHANDER NAVASANTAR | Documantation Specialist | Assign task to project members for SRS Documentation | Incomplete | 
 | 6 | 14/05/2023 | All Members | Project Members | Updation of SRS Documentation | Incomplete | 
-| 6 | | | | | 
-| 6 | | | | | 
-| 6 | | | | | 
-| 6 | | | | | 
-| 6 | | | | | 
-| 6 | | | | | 
+| 7 | | | | | 
+| 8 | | | | | 
+| 9 | | | | | 
+| 10 | | | | | 
+| 11 | | | | | 
+| 12 | | | | | 
 
 
 ## Contribution 🛠️
