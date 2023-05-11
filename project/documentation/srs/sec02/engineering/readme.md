@@ -80,9 +80,12 @@ One Stop Parcel Center & Cengal Parcel Point
 | 3| 02/05/2023|Thevan|Front-end developer|Contact stackholder 1,2,3 |Complete| 
 | 4| 02/05/2023|Erina,Thevan,Nik,Izzah|All member|Had meeting with stackholder to gather requirement |Complete|  
 | 5| 03/05/2023|Erina,Thevan,Nik,Izzah|All member| Create proposal with gathered information|Complete|  
-| 6| 04/05/2023|Erina,Nik|Project Maneger,Software architect| Create usercase diagram with gathered requirement|Complete|   
-| 7| | | | |
+| 6| 04/05/2023|Izzah,Thevan|Front-end& Back-end developer| Create usercase diagram with gathered requirement|Complete|   
+| 7| 05/05/2023|Erina,Nik|Project Maneger,Software architect| Update Proposal |Complete| 
 | 8| | | | |
+| 9| | | | |
+| 10| | | | |
+| 11| | | | |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
