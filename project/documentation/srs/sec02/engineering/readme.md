@@ -17,16 +17,16 @@ Don't forget to hit the :star: if you like this repo.
     <th>Role</th>
   </tr>
   <tr>
-    <td>1 . Thevan Raju A/L Jeganath</td>
-    <td>Front-end Developer</td>
-  </tr>
-  <tr>
-    <td>2 . Nurul Erina binti Zainuddin</td>
+    <td>1 . Nurul Erina binti Zainuddin</td>
     <td>Project Manager</td>
   </tr>
     <tr>
-    <td>3 . Nik Zulaikhaa Binti Zuraidi Afandi </td>
+    <td>2 . Nik Zulaikhaa Binti Zuraidi Afandi </td>
     <td>Software Architect</td>
+  </tr>
+    <tr>
+    <td>3 . Thevan Raju A/L Jeganath</td>
+    <td>Front-end Developer</td>
   </tr>
     <tr>
     <td>4 . Aliatul Izzah Binti Jasman</td>
@@ -76,13 +76,13 @@ One Stop Parcel Center & Cengal Parcel Point
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2| 20/04/2023|Erina,Thevan,Nik,Izzah|All member|Project planning |Complete|
-| 3| 21/04/2023|Erina,Thevan,Nik,Izzah|All member|Define the problem |Complete|
-| 4| 22/04/2023|Erina,Thevan,Nik,Izzah|All member|Find stakeholder |Complete|
-| 5| 24/04/2023|Erina,Thevan,Nik,Izzah|All member|Gather requirement |Complete|
-| 6| 27/04/2023|Erina,Thevan,Nik,Izzah|All member|Prepare questions |Complete|
-| 7| 02/05/2023|Erina,Thevan,Nik,Izzah|All member|Had meeting with stackholder |Complete|
-| 8| 03/05/2023|Erina,Thevan,Nik,Izzah|All member|Update project planning |Complete|
+| 2| 20/04/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Project planning |Complete|
+| 3| 21/04/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Define the problem |Complete|
+| 4| 22/04/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Find stakeholder |Complete|
+| 5| 24/04/2023|Nik|Software Architect|Gather requirement |Complete|
+| 6| 27/04/2023|Erina|Project Manager|Prepare questions |Complete|
+| 7| 02/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Had meeting with stackholder |Complete|
+| 8| 03/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Update project planning |Complete|
 
 
 ## Contribution 🛠️
