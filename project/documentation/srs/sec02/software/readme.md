@@ -79,7 +79,7 @@ Don't forget to hit the :star: if you like this repo.
 | 7| 03/05/2023| Puan Nazlin | Administrator Stakeholder | Give ideas for project | Complete | 
 | 8| 03/05/2023 | Dr Mohd. Firdaus | Medical Officer Stakeholder | Give ideas for project | Complete |
 | 9| 03/05/2023 | Koh Su Xuan and Lee Yik Hong | Quality assurance and User Experience Designer | Create interview notes for review | Incomplete |
-| 10| 12/05/2023 | All Group Members | | SRS Planning | Incomplete |
+| 10| 11/05/2023 | All Group Members | | SRS Planning | Incomplete |
 | 11| 14/05/2023 | Tang Yan Qing | Documentation Specialists | Create system documentation | Incomplete |
 
 
