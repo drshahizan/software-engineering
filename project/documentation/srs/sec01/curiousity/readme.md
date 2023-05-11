@@ -42,18 +42,6 @@ Don't forget to hit the :star: if you like this repo.
     <th>Position</th>
     <th>Responsibility</th>
   </tr>
-  <tr>
-    <td>Lim Shi Kai</td>
-    <td>JKM KTDI</td>
-    <td>Ketua Biro Akademik & Tugas-tugas Khas</td>
-    <td>Provide feedback on usability and functionality of system from a JKM perspective</td>
-  </tr>
-    <tr>
-    <td>Hanie Azyuni Binti Mazle</td>
-    <td>JKM KTDI</td>
-    <td>Timbalan Pengerusi (Aktiviti)</td>
-    <td>Provide input on KTDI event information and documents</td>
-  </tr>
     <tr>
     <td>Hamizah Amalina Binti Amlan</td>
     <td>KTDI Staff</td>
@@ -65,6 +53,18 @@ Don't forget to hit the :star: if you like this repo.
     <td>KTDI Administrator</td>
     <td>KTDI Principal</td>
     <td>Ensure system meets administrative needs for KTDI events</td>
+  </tr>
+   <tr>
+    <td>Lim Shi Kai</td>
+    <td>JKM KTDI</td>
+    <td>Ketua Biro Akademik & Tugas-tugas Khas</td>
+    <td>Provide feedback on usability and functionality of system from a JKM perspective</td>
+  </tr>
+    <tr>
+    <td>Hanie Azyuni Binti Mazle</td>
+    <td>JKM KTDI</td>
+    <td>Timbalan Pengerusi (Aktiviti)</td>
+    <td>Provide input on KTDI event information and documents</td>
   </tr>
   <tr>
     <td>Nadia Syahadah Binti Saharudin</td>
@@ -90,8 +90,9 @@ Don't forget to hit the :star: if you like this repo.
 | 10 | 10/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with Nadia Syahadah Binti Saharudin | Incomplete |
 | 11 | 11/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with LT KOL Prof. Madya Dr. Mohd Noor Azli Bin Haji. Ali Khan (KTDI Administrator) | Incomplete |
 | 12 | 14/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with Hamizah Amalina Binti Amlan (Pembantu Felo KTDI) | Incomplete |
-| 13 | 15/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | SRS Planning | Incomplete |
-| 14 | 16/05/2023 | Ng Shu Yu | Documentation Specialist | Create system documentation | Ongoing |
+| 13 | 15/05/2023 | Koh Li Hui | User Experience Designer | Design Planning | Incomplete |
+| 14 | 16/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | SRS Planning | Incomplete |
+| 15 | 17/05/2023 | Ng Shu Yu | Documentation Specialist | Create system documentation | Ongoing |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
