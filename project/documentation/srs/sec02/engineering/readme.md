@@ -76,11 +76,16 @@ One Stop Parcel Center & Cengal Parcel Point
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2| 02/052023|Erina,Thevan,Nik,Izzah|All member|Had meeting with stackholder |Complete|
-| 3| | | | | 
-| 4| | | | | 
-| 5| | | | | 
-
+| 2| 01/05/2023|Erina,Thevan,Nik,Izzah|All members|Create interview questions for stackholder 1,2,3 |Complete|
+| 3| 02/05/2023|Thevan|Front-end developer|Contact stackholder 1,2,3 |Complete| 
+| 4| 02/05/2023|Erina,Thevan,Nik,Izzah|All member|Had meeting with stackholder to gather requirement |Complete|  
+| 5| 03/05/2023|Erina,Thevan,Nik,Izzah|All member| Create proposal with gathered information|Complete|  
+| 6| 04/05/2023|Izzah,Thevan|Front-end& Back-end developer| Create usercase diagram with gathered requirement|Complete|   
+| 7| 05/05/2023|Erina,Nik|Project Manager,Software architect| Update Proposal |Complete| 
+| 8| 06/05/2023|Erina,Nik|Project Manager,Software architect| Contact Stackholder 4 and 5 |Complete| 
+| 9| 07/05/2023|Erina,Thevan,Nik,Izzah|All members|Create interview questions for stackholder 4 and 5 |Complete|
+| 10| | | | |
+| 11| | | | |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
