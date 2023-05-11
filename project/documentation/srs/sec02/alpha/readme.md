@@ -55,7 +55,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provide information about the software (Google Form) that they currently use for the college room rental registration.</td>
   </tr>
     <tr>
-    <td>3</td>
+    <td>3 Wan Nur Sofea binti Mohd Hasbullah</td>
     <td>Residents of Kolej Tun Dr Ismail</td>
     <td>Student</td>
     <td>Provide feedback on the current procedure.</td>
@@ -66,7 +66,7 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 02/05/2023| Salini Ravinthiran | Business Analyust | Gather user requirement | Partially Complete |
+| 1 | 02/05/2023| Salini Ravinthiran | Business Analyst | Gather user requirement | Partially Complete |
 | 2 | 02/05/2023 | Nur Farah Adibah Binti Idris  | Main Developer | Create system architecture design | Complete |
 | 3 | 02/05/2023 | Nur Farah Adibah Binti Idris  | Main Developer | Implement software functionality | Incomplete |
 | 4 | 02/05/2023 | Nur Aleysha Qurratu'aini Binti Mat Salleh | Quality Assurance Engineer | Create testing plan and execute tests | Incomplete | 

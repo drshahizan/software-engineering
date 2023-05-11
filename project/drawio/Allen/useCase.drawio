@@ -1,0 +1,30 @@
+<mxfile host="65bd71144e">
+    <diagram id="G6qfCU4VpfQLoCqLJAnG" name="Page-1">
+        <mxGraphModel dx="832" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="14" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="200" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Lecturer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=rgb(24, 20, 29);" vertex="1" parent="1">
+                    <mxGeometry x="90" y="380" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=rgb(24, 20, 29);" vertex="1" parent="1">
+                    <mxGeometry x="680" y="300" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="UTM Online Grading System" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="80" width="480" height="520" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Authetication System&lt;br&gt;" style="shape=folder;fontStyle=1;tabWidth=150;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;labelBackgroundColor=#000000;" vertex="1" parent="27">
+                    <mxGeometry x="30" y="50" width="210" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Text" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;labelBackgroundColor=#000000;" vertex="1" parent="28">
+                    <mxGeometry width="210" height="126" relative="1" as="geometry">
+                        <mxPoint y="30" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

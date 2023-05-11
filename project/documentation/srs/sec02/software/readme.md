@@ -70,13 +70,17 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1| 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
+| 1| 11/04/2023| Ong Yi Yan | Requirement Analysis | Gather user requirement | Complete |
 | 2| 11/04/2023| Koh Su Xuan and Lee Yik Hong | Quality Assurance Tester and User Experience Designer | Create proposal | Complete | 
 | 3| 01/05/2023| Goh Jiale | Main Developer | Assign Task | Complete | 
-| 4| 18/04/2023| Ong Yi Yan | Requirement Analysis | Contact stakeholder | Complete |
-| 4| 03/05/2023| Puan Nazlin | Administrator Stakeholder | Give ideas for project | Complete | 
-| 5| 03/05/2023 | Dr Mohd. Firdaus | Medical Officer Stakeholder | Give ideas for project | Complete |
-| 6| 05/05/2023 | Tang Yan Qing | Documentation Specialists | Create system documentation | Incomplete |
+| 4| 18/04/2023| Ong Yi Yan and Goh Jiale | Requirement Analysis and Main Developer | Contact stakeholder | Complete |
+| 5| 02/05/2023| Tang Yan Qing | Documentation Specialists | Create interview questions | Complete | 
+| 6| 02/05/2023| Goh Jiale | Main Developer | Implement software functionally | Incomplete | 
+| 7| 03/05/2023| Puan Nazlin | Administrator Stakeholder | Give ideas for project | Complete | 
+| 8| 03/05/2023 | Dr Mohd. Firdaus | Medical Officer Stakeholder | Give ideas for project | Complete |
+| 9| 03/05/2023 | Koh Su Xuan and Lee Yik Hong | Quality assurance and User Experience Designer | Create interview notes for review | Incomplete |
+| 10| 12/05/2023 | All Group Members | | SRS Planning | Incomplete |
+| 11| 14/05/2023 | Tang Yan Qing | Documentation Specialists | Create system documentation | Incomplete |
 
 
 ## Contribution 🛠️
