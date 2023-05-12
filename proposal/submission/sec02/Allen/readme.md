@@ -56,6 +56,9 @@
 Limitations or constraints that may affect the project could include factors such as budget, time constraints, technical limitations, and resource availability. It is important to consider these limitations and constraints when defining the scope of the project to ensure that the project remains feasible and achievable.
 
 
+![Screenshot (13)](https://github.com/drshahizan/software-engineering/assets/128279581/338e4ff0-c3a3-4ba5-8c8e-044b09fef25a)
+
+
 
 
 
