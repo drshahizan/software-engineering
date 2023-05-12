@@ -169,17 +169,27 @@ The system will utilize a Relational Database Management System (RDBMS) for stor
 - Data Visualization: 
   
   Chart.js: A JavaScript library for creating interactive and visually appealing charts and graphs to represent sales analysis and other data.
-- Provide a flowchart or block diagram of the system architecture.
-
-- Flowchart:
+- Provide a flowchart or block diagram of the system architecture :
  
-![image](https://user-images.githubusercontent.com/128206862/236135846-4541e2fc-775d-4bfd-b824-423235b0388c.png)
+ ```sql
++------------------------+
+|   Presentation Layer   |
+|   (HTML, CSS, JS)      |
++------------------------+
+            |
+            |
++------------------------+
+|    Application Layer   |
+|    (Laravel, Bootstrap)|
++------------------------+
+            |
+            |
++------------------------+
+|       Data Layer       |
+|       (MySQL)          |
++------------------------+
 
-
-
-- Block Diagram: 
-          
-![image](https://user-images.githubusercontent.com/128206862/236136149-cb803135-6bf9-476a-8148-38b5a5f5d9ef.png)
+```
 
 - Case Diagram:
 
