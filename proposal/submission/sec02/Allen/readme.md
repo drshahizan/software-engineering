@@ -145,17 +145,24 @@ In conclusion, the estimated budget for the development of the UTM Event Managem
 
 ### 7. System Architecture:
 - Overview:
-The UTM Grading System will be a web-based application that allows lecturers to input, manage, and analyze grades for their courses. The system will be designed to be scalable and flexible, allowing for future updates and enhancements. The system will be built using modern web technologies and frameworks to ensure compatibility, security, and ease of maintenance.
+The KTDI Dewi Kayangan Enterprise Online System is a web-based application for managing the operations of a mini mart. It allows customers to browse and purchase products online, while providing the mini mart staff with tools for inventory management, order processing, and sales analysis.
 - Data Storage and Management:
-The UTM Grading System will utilize a Relational Database Management System (RDBMS) to store and manage data. The database will be hosted on a dedicated database server that will be accessed by the web server hosting the application. The database schema will be designed to optimize data retrieval and ensure data integrity. Data backups will be regularly performed to ensure data security.
-- The proposed system architecture for the event management system will be a web-based system built using modern technologies and frameworks. The system will use the following tools and technologies:
+The system will utilize a Relational Database Management System (RDBMS) for storing and managing data. The database will be hosted on a dedicated database server, ensuring data integrity and security. Regular backups will be performed to prevent data loss.
+- The proposed system architecture for the KTDI Dewi Kayangan Enterprise Online System will be a multi-tier architecture consisting of a presentation layer, application layer, and data layer as the following:
 
-- Programming languages: HTML, CSS, JavaScript, PHP
-- Frameworks: Laravel, Bootstrap
-- Database: MySQL
-- Server: Apache
-- Data Visualization: Chart.js
-The system will have a multi-tier architecture consisting of a presentation layer, application layer, and data layer. The presentation layer will be responsible for displaying the user interface and handling user interactions. The application layer will be responsible for implementing the business logic of the system and handling user requests. The data layer will be responsible for storing and managing data.
+- Programming languages: 
+  HTML: Used for creating the structure and content of web pages.
+  CSS: Used for styling the appearance of web pages.
+  JavaScript: Used for adding interactivity and client-side functionality.
+- Frameworks: 
+  Bootstrap: A front-end framework for building responsive and mobile-friendly web pages.
+  Laravel: A PHP framework for developing robust and scalable web applications.
+- Database: 
+  MySQL: A widely-used open-source RDBMS for storing and retrieving data efficiently.
+- Server: 
+  Apache: A popular web server software that will host the application and handle HTTP requests.
+- Data Visualization: 
+  Chart.js: A JavaScript library for creating interactive and visually appealing charts and graphs to represent sales analysis and other data.
 - Provide a flowchart or block diagram of the system architecture.
 
 - Flowchart:
