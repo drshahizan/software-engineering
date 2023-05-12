@@ -110,7 +110,14 @@ example of grantt chart based on our project:
 | Maintenance   | Create maintenance plans, bug reports, and system docs.         | 2023-11-16| 2024-05-31| 26 weeks  |
 -----------------------------------------------------------------------------------------------------------------------
 ```
+**Some appropriate deliverables/products/outputs for each phase are:**
 
+- Planning - Project charter, requirements document, product backlog
+- Design - Wireframes, user interface designs, architecture diagrams, design documents
+- Implementation - Working software, source code, user acceptance testing reports
+- Testing - Test plans, test cases, defect reports, user acceptance testing reports
+- Deployment - Deployment plans, user guides, release notes, working software
+- Maintenance - Maintenance logs, bug reports, feature requests, working software
 
 ### 6. Budget:
 The development of the academic course registration system for 30,000 users within a year will involve various costs, including hardware, software, contigency, and testing. The budget for this project is estimated at **RM 315,000**, as outlined below:
