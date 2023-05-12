@@ -191,10 +191,6 @@ The system will utilize a Relational Database Management System (RDBMS) for stor
 
 ```
 
-- Case Diagram:
-
-![image](https://user-images.githubusercontent.com/128206862/236136708-aa56637a-0a06-42ef-b1ff-c951e821e5be.png)
-
 
 ### 8. Risks Assessment:
 Risk assessment is an essential part of any software development project, and the UTM Grading System project is no exception. The following is a risk assessment and management plan for the project.
