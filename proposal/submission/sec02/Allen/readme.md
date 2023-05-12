@@ -232,28 +232,37 @@ It's important to note that a comprehensive risk assessment should involve ident
 
 ### 9. Resources
 #### Staff
-- Project Manager: responsible for overseeing the project, managing resources, and ensuring the project is delivered on time and within budget.
-- Business Analyst: responsible for gathering and analyzing requirements, creating functional specifications, and identifying system requirements.
-- Developers: responsible for building and implementing the system.
-- Quality Assurance (QA) Analysts: responsible for testing the system and ensuring that it meets requirements and is bug-free.
-- Technical Writers: responsible for creating user manuals and system documentation.
-- User Experience (UX) Designers: responsible for creating an intuitive and user-friendly interface.
+
+
+Developers: Experienced programmers skilled in HTML, CSS, JavaScript, PHP, and Laravel framework for system development.
+Designers: Graphic designers and UX/UI experts to create visually appealing and user-friendly interfaces.
+Database Administrators: Professionals to handle database management and ensure data integrity.
+Project Manager: Responsible for coordinating and overseeing the development process, managing timelines, and ensuring project goals are met.
 
 #### Equipment
-- Server infrastructure: a robust server infrastructure is required to host the grading system and ensure it can handle large volumes of traffic.
-- Network infrastructure: high-speed internet connectivity and network equipment to connect the system to the internet and the university network.
-- Workstations: computers for the development and QA teams.
+
+
+-Development Computers: High-performance computers for developers to work efficiently.
+Servers: Reliable and scalable servers to host the system and handle user requests.
+Networking Infrastructure: Routers, switches, and network cables to establish a stable and secure network environment.
+Backup Systems: Storage devices or cloud services for regular data backups.
 
 #### Software
-- Programming languages: the system can be built using different programming languages and frameworks, depending on the preferences and expertise of the development team.
-- Database software: a database management system to store and manage student and grading data.
-- Web server software: to host the grading system and serve content to users.
-- Testing software: automated testing tools to ensure the system is free of bugs and errors.
-- Security software: firewalls, antivirus software, and other security measures to ensure the system is protected from cyber threats.
+
+
+Integrated Development Environment (IDE): Software tools such as Visual Studio Code, PHPStorm, or Sublime Text for coding and development.
+Laravel Framework: The PHP framework for building the web application.
+Database Management System: MySQL or other RDBMS for data storage and retrieval.
+Version Control System: Git or SVN for managing source code versions.
+Project Management Tools: Software like Jira, Trello, or Asana for task tracking and collaboration.
+
 #### Other Expenses
-- Licensing fees: some software components may require licensing fees.
-- Training: training for staff members to ensure they are familiar with the system and can use it effectively.
-- Maintenance and support: ongoing maintenance and support to ensure the system remains secure, updated, and functional.
+
+
+Licensing Fees: Costs associated with acquiring necessary licenses for software or third-party libraries.
+Security Measures: Investment in security tools, such as firewalls, SSL certificates, or penetration testing services, to protect the system from potential threats.
+Maintenance and Support: Ongoing expenses for system maintenance, bug fixes, and technical support.
+Marketing and Promotion: Budget allocated for marketing activities to promote the online system and attract customers.
 
 ### 10. Technical Specifications
 
