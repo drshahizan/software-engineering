@@ -192,20 +192,43 @@ The system will utilize a Relational Database Management System (RDBMS) for stor
 
 
 ### 8. Risks Assessment:
-Risk assessment is an essential part of any software development project, and the UTM Grading System project is no exception. The following is a risk assessment and management plan for the project.
-#### 1. Technical Challenges: 
-The development team will conduct a thorough analysis of the technical requirements of the system and assess the feasibility of the proposed solution. The team will also conduct regular code reviews and testing to identify and address any technical challenges promptly.
+Risk assessment is an essential part of any software development project, and the KTDI Dewi Kayangan Enterprise Online System project is no exception. The following is a risk assessment and management plan for the project.
+#### A. Technical Challenges: 
 
-#### 2. Resource constraints: 
-The project manager will monitor the project budget and schedule regularly to ensure that resources are allocated effectively. The project manager will also identify any personnel shortages or hardware/software limitations and take appropriate action.
 
-#### 3. Changes in project requirements: 
-The development team will conduct regular stakeholder meetings to review project requirements and identify any changes. The team will also document all changes and assess their impact on the project timeline and budget.
+Integration complexities: Integrating various technologies, frameworks, and systems may present challenges, requiring expertise and careful planning to ensure smooth functionality.
+Scalability issues: As the user base and data volume grow, the system must be able to handle increased traffic and data processing efficiently.
+Performance bottlenecks: The system should be optimized to handle simultaneous user requests and provide fast response times.
+Compatibility issues: Ensuring compatibility across different browsers, devices, and operating systems can be a technical challenge.
 
-#### 4. Security breaches: 
-The development team will follow industry best practices for data security, including encryption of sensitive data, regular security audits, and penetration testing. The team will also implement security protocols and procedures to prevent unauthorized access to the system.
-#### 5. Server Downtime: 
-The development team will implement a backup and recovery plan to minimize the impact of server downtime. The team will also work with the hosting provider to ensure that the server is maintained and updated regularly to minimize the risk of downtime.
+#### B. Resource constraints: 
+
+
+Limited budget: The project may face budget constraints, limiting the availability of resources for development, infrastructure, and maintenance.
+Time constraints: A strict timeline may impose limitations on development and testing phases, potentially affecting the quality of the system.
+Limited human resources: Insufficient staffing or expertise in certain areas may impact the development and maintenance of the system.
+
+#### C. Changes in project requirements: 
+
+
+Scope creep: Additional features or changes in requirements during the project's lifecycle may introduce complexities and potential delays.
+Communication gaps: Inadequate communication and understanding between stakeholders may lead to misunderstandings or misaligned expectations regarding project requirements.
+
+#### D. Security breaches: 
+
+
+Data breaches: Unauthorized access to customer information, financial data, or sensitive business data may lead to reputational damage and legal consequences.
+Vulnerabilities in the system: Poor coding practices or failure to implement proper security measures may expose the system to potential cyberattacks.
+
+#### E. Server Downtime: 
+
+
+Hardware failures: Malfunctioning servers or network infrastructure can cause downtime, resulting in loss of revenue and customer dissatisfaction.
+Natural disasters or power outages: Unforeseen events like earthquakes, floods, or power outages may interrupt server operations, causing temporary unavailability.
+
+
+It's important to note that a comprehensive risk assessment should involve identifying additional risks, assessing their potential impact, and implementing appropriate risk mitigation strategies to address each risk. Regular monitoring and proactive measures can help minimize the impact of these risks.
+
 
 ### 9. Resources
 #### Staff
