@@ -75,8 +75,7 @@ Implementation: The team develops the system incrementally, delivering working s
 - Testing: The team performs functional and acceptance testing on the developed software to ensure that it meets the requirements and user acceptance criteria. Deliverables in this phase include test plans, test cases, and defect reports.
 Deployment: The team deploys the software to a production environment, ensuring that it is stable and secure. Deliverables in this phase include deployment plans, user guides, and release notes.
 - Maintenance: The team provides ongoing support and maintenance of the software, addressing defects and adding new features as needed. Deliverables in this phase include maintenance logs, bug reports, and feature requests.
-<br></br>
-Testing methodologies that would be relevant to the Agile process model include automated testing, exploratory testing, and user acceptance testing. Project management practices that would be relevant include continuous integration, daily stand-up meetings, and sprint planning. Quality assurance processes would involve code reviews, automated testing, and continuous integration.
+<br></br>Testing methodologies that would be relevant to the Agile process model include automated testing, exploratory testing, and user acceptance testing. Project management practices that would be relevant include continuous integration, daily stand-up meetings, and sprint planning. Quality assurance processes would involve code reviews, automated testing, and continuous integration.
 
 
 
