@@ -120,28 +120,29 @@ example of grantt chart based on our project:
 - Maintenance - Maintenance logs, bug reports, feature requests, working software
 
 ### 6. Budget:
-The development of the academic course registration system for 30,000 users within a year will involve various costs, including hardware, software, contigency, and testing. The budget for this project is estimated at **RM 315,000**, as outlined below:
+Developing an online mini mart system like KTDI DEWI KAYANGAN ENTERPRISE ONLINE SYSTEM will require a significant investment of resources. The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
 
-- **Hardware Costs: RM 100,000** <br>
-Server Hardware: RM50,000.Total Hardware Costs = RM50,000
-- **Software Costs: RM 75,000** <br>
-Development Software: RM5,000.
-Database Management System: RM10,000.
-Web Hosting Service: RM5,000 per month x 8 months = RM40,000.
-- **Personnel Costs: RM 80,000** <br>
-Developer Salary: RM3000 per month per developer x 3 developers x 8 months = RM24,000.Project Manager Salary: **RM7,000** per month x 8 months = RM56,000.
+Here is an estimated budget for developing the KTDI DEWI KAYANGAN ENTERPRISE ONLINE SYSTEM:
 
-- **Testing Costs: RM 140,000** <br>
-Personnel: 2 testers for 3 months.
-Tester Salary: RM20,000 per month per tester x 2 testers x 3 months = RM120,000.
-Software Testing Tools: RM20,000.
-Contingency: 10% of Total Costs.
-Contingency Costs = RM14,000
+1. Hardware and software costs:
+- Desktop computers and laptops for the development team: $20,000
+- Software licenses for development tools and software: $10,000
+- Web hosting and domain registration fees: $2,000
+2. Personnel costs:
+- Project manager: $15,000
+- Business analyst: $10,000
+- UX/UI designer: $12,000
+- Front-end developer: $25,000
+- Back-end developer: $25,000
+- Quality assurance engineer: $15,000
+3. Testing costs:
+- Automated testing tools and software: $5,000
+- Manual testing costs: $5,000
+4. Contingency:
+- Contingency fund: $10,000
+- Total estimated budget: $139,000
 
-- **Other Expenses: RM 100,500** <br>
-This includes the cost of rent for office space, utilities, marketing and advertising, and testing.
-
-In conclusion, the estimated budget for the development of the UTM Event Management System is RM 315,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingency. Any changes in the budget will be communicated to stakeholders and project sponsors.
+It is important to note that this is an estimated budget and actual costs may vary depending on various factors such as team size, expertise, and time duration. It is recommended to regularly monitor and update the budget to ensure that the project is completed within the allocated budget and timelines.
 
 ### 7. System Architecture:
 - Overview:
