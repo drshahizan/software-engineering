@@ -31,11 +31,10 @@
 - The proposed software solution will enable customers to conveniently browse products, place orders, and make secure online payments from the comfort of their homes. This increased convenience will attract a wider customer base, expanding the mini mart's reach and creating new sales opportunities. This optimization will prevent stockouts and overstocking, leading to enhanced operational efficiency and reduced costs. Additionally, the system will provide valuable insights into customer preferences and purchasing patterns, enabling the mini mart to tailor its offerings and marketing strategies accordingly.
 
 ### 3. Objectives:
-- To develop a digital platform for real-time grading that improves accuracy, transparency, and accountability, reducing errors and delays associated with traditional paper-based grading systems.
-- To provide a centralized system for recording and tracking student progress, enabling faculty members to monitor academic performance and provide timely feedback to students.
-- To enable students to access their grades, schedules, and academic progress reports in real-time, improving their understanding of their progress and enhancing their learning experience.
-- To reduce administrative overheads associated with grading and record-keeping, allowing faculty members to focus on teaching and research activities, improving institutional efficiency and productivity.
-- To enhance the overall student experience by providing a modern, user-friendly interface for grading and record-keeping, improving engagement and satisfaction with the university's academic processes.
+- Establish a strong online presence and expand the mini mart's customer base. This will be accomplished by providing customers with an intuitive platform for browsing products, placing orders, and making secure online payments.
+- Enhance the overall shopping experience by offering a seamless and convenient online shopping process. Customers will have the flexibility to access the mini mart's products and services anytime and from anywhere, leading to increased satisfaction and loyalty.
+- Streamline inventory management processes by implementing an efficient tracking and control system. This includes real-time inventory updates, automated stock replenishment, and accurate product availability information, ultimately reducing stockouts and improving operational efficiency.
+- Ultimate objective is to drive business growth and profitability. Through expanding the customer base, improving customer satisfaction, optimizing inventory management, and personalizing marketing efforts, the mini mart aims to increase sales, enhance operational efficiency, and achieve long-term financial success.
 
 ### 4. Scope: 
 - Product Catalogue - A comprehensive list of all products available in the mini mart, with information such as name, description, price, and availability.
