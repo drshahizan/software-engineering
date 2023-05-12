@@ -82,6 +82,7 @@ A Gantt chart or any suitable project management tool can be used to help plan a
 ```sql
 
 example of grantt chart based on our project(dates are just example):
+
 -----------------------------------------------------------------------------------------------------------------------
 | Phase         | Task                                                            | Start Date | End Date  | Duration |
 | ------------- | ----------------------------------------------------------------| ---------- | ----------| -------- |
@@ -95,19 +96,20 @@ example of grantt chart based on our project(dates are just example):
 | Design        | Design user interface, database schema, and system arch.        | 2023-07-06 | 2023-07-26| 3 weeks  |
 | Design        | Create wireframes, system architecture docs, and DB schema docs | 2023-07-27 | 2023-08-09| 2 weeks  |
 -----------------------------------------------------------------------------------------------------------------------
-| Implementation| Develop and implement grading system modules                    | 2023-08-10 | 2023-10-04| 8 weeks  |
+| Implementation| Develop and implement online mart modules                       | 2023-08-10 | 2023-10-04| 8 weeks  |
 | Implementation| Develop and test modules separately                             | 2023-08-10 | 2023-10-04| 8 weeks  |
-| Implementation| Create source code, unit test cases, and user doc.              | 2023-10-05 | 2023-10-18| 2 weeks  |
+| Implementation| Create source code, unit test cases, and user documentation     | 2023-10-05 | 2023-10-18| 2 weeks  |
 -----------------------------------------------------------------------------------------------------------------------
 | Integration   | Integrate and test developed modules                            | 2023-10-19 | 2023-11-01| 2 weeks  |
 | Integration   | Ensure modules work together as expected                        | 2023-10-19 | 2023-11-01| 2 weeks  |
 -----------------------------------------------------------------------------------------------------------------------
-| Deployment    | Deploy grading system to production environment                 | 2023-11-02 | 2023-11-15| 2 weeks  |
-| Deployment    | Create deployment plans, user manuals, and training mat.        | 2023-11-02 | 2023-11-15| 2 weeks  |
+| Deployment    | Deploy online mart to production environment                    | 2023-11-02 | 2023-11-15| 2 weeks  |
+| Deployment    | Create deployment plans, user manuals, and training materials   | 2023-11-02 | 2023-11-15| 2 weeks  |
 -----------------------------------------------------------------------------------------------------------------------
-| Maintenance   | Maintain grading system to ensure it functions as expected      | 2023-11-16| 2024-05-31| 26 weeks |
-| Maintenance   | Create maintenance plans, bug reports, and system docs.         | 2023-11-16| 2024-05-31| 26 weeks |
+| Maintenance   | Maintain online mart to ensure it functions as expected          | 2023-11-16 | 2024-05-31| 26 weeks |
+| Maintenance   | Create maintenance plans, bug reports, and system documentation | 2023-11-16 | 2024-05-31| 26 weeks |
 -----------------------------------------------------------------------------------------------------------------------
+
 
 ```
 **Some appropriate deliverables/products/outputs for each phase are:**
