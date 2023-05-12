@@ -125,25 +125,24 @@ Developing an online mini mart system like KTDI DEWI KAYANGAN ENTERPRISE ONLINE 
 Here is an estimated budget for developing the KTDI DEWI KAYANGAN ENTERPRISE ONLINE SYSTEM:
 
 1. Hardware and software costs:
-- Desktop computers and laptops for the development team: $20,000
-- Software licenses for development tools and software: $10,000
-- Web hosting and domain registration fees: $2,000
+- Desktop computers and laptops for the development team: RM90,000
+- Software licenses for development tools and software: RM45,000
+- Web hosting and domain registration fees: RM9,000
 2. Personnel costs:
-- Project manager: $15,000
-- Business analyst: $10,000
-- UX/UI designer: $12,000
-- Front-end developer: $25,000
-- Back-end developer: $25,000
-- Quality assurance engineer: $15,000
+- Project manager: RM67,500
+- Business analyst: RM45,000
+- UX/UI designer: RM54,000
+- Front-end developer: RM 112,500
+- Back-end developer: RM 112,500
+- Quality assurance engineer: RM67,500
 3. Testing costs:
-- Automated testing tools and software: $5,000
-- Manual testing costs: $5,000
+- Automated testing tools and software: RM22,500
+- Manual testing costs: RM 22,500
 4. Contingency:
-- Contingency fund: $10,000
-- Total estimated budget: $139,000
+- Contingency fund: RM45,000
+- Total estimated budget: RM 832,000
 
 It is important to note that this is an estimated budget and actual costs may vary depending on various factors such as team size, expertise, and time duration. It is recommended to regularly monitor and update the budget to ensure that the project is completed within the allocated budget and timelines.
-
 ### 7. System Architecture:
 - Overview:
 The KTDI Dewi Kayangan Enterprise Online System is a web-based application for managing the operations of a mini mart. It allows customers to browse and purchase products online, while providing the mini mart staff with tools for inventory management, order processing, and sales analysis.
