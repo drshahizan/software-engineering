@@ -63,31 +63,22 @@ Limitations or constraints that may affect the project could include factors suc
 
 
 ### 5. Software Process Model:
-This section describe the ideal software process model for this system development. The write-up must consist of:
-- The goal of the software process model is to provide a systematic and structured approach to software development that maximizes efficiency, reduces risk, and improves the overall quality of the UTM online grading system.
-- For the UTM online grading system, the ideal software process model would be the iterative and incremental model. The iterative and incremental model is a flexible and adaptable approach that involves a series of iterations, each consisting of planning, designing, developing, testing, and delivering phases. This model is ideal for projects where requirements are likely to change or evolve, as it allows for flexibility and adaptability.
+The goal of a software process model is to provide a framework for software development that ensures the project is completed within the allocated budget, schedule, and quality standards. The software process model defines the set of activities that must be performed during the software development lifecycle.
+
+For the KTDI DEWI KAYANGAN ENTERPRISE ONLINE SYSTEM, the ideal software process model is the Agile software development process. The justification for this choice is that the Agile methodology emphasizes the iterative and incremental development of software, which is particularly well-suited for complex projects with evolving requirements. In addition, Agile methodology allows for rapid prototyping and customer feedback, which is essential in developing a mini mart online system.
+
+The Agile software development process involves the following phases:
+
+- Planning: The team defines the project scope, objectives, and requirements. Deliverables in this phase include project charters, requirements documents, and a product backlog.
+- Design: The team creates the initial design of the system, including wireframes, user interface designs, and architecture diagrams. Deliverables in this phase include design documents, user stories, and user acceptance criteria.
+Implementation: The team develops the system incrementally, delivering working software in short sprints. Deliverables in this phase include working software, user acceptance testing reports, and source code.
+- Testing: The team performs functional and acceptance testing on the developed software to ensure that it meets the requirements and user acceptance criteria. Deliverables in this phase include test plans, test cases, and defect reports.
+Deployment: The team deploys the software to a production environment, ensuring that it is stable and secure. Deliverables in this phase include deployment plans, user guides, and release notes.
+- Maintenance: The team provides ongoing support and maintenance of the software, addressing defects and adding new features as needed. Deliverables in this phase include maintenance logs, bug reports, and feature requests.
 <br></br>
-**Here's an illustration of the Incremental Model for the development of UTM Grading System:**
+Testing methodologies that would be relevant to the Agile process model include automated testing, exploratory testing, and user acceptance testing. Project management practices that would be relevant include continuous integration, daily stand-up meetings, and sprint planning. Quality assurance processes would involve code reviews, automated testing, and continuous integration.
 
-1.Planning: In this phase, the project team meets with stakeholders to define the project scope, requirements, and timelines. The deliverables in this phase can include a project plan, requirements specification document, and project schedule.
 
-2.Requirements: In this phase, the project team identifies and documents the functional and non-functional requirements of the grading system. The deliverables in this phase can include a requirements document, use cases, and user stories.
-
-3.Design: In this phase, the project team creates a detailed design for the grading system. This includes designing the user interface, database schema, and system architecture. The deliverables in this phase can include wireframes, system architecture documents, and database schema documents.
-
-4.Implementation: In this phase, the project team develops and implements the grading system. The development is done in small increments or modules, with each module developed and tested separately. The deliverables in this phase can include source code, unit test cases, and user documentation.
-
-5.Integration: In this phase, the developed modules are integrated and tested to ensure that they work together as expected. The deliverables in this phase can include integration test cases and test reports.
-
-6.Deployment: In this phase, the grading system is deployed to the production environment. The deliverables in this phase can include deployment plans, user manuals, and training materials.
-
-7.Maintenance: In this phase, the grading system is maintained to ensure that it continues to function as expected. The deliverables in this phase can include maintenance plans, bug reports, and system documentation.
-
-For testing methodologies, unit testing can be used to test each module of the grading system individually to ensure that it is working as expected. Integration testing can then be used to test the integration of the modules to ensure that they are working together correctly. System testing can be used to test the system as a whole to ensure that it meets the specified requirements, and acceptance testing can be used to verify that the grading system meets the user's needs.
-
-For project management practices, Agile or Scrum can be used to help manage the project. These methodologies involve breaking down the development process into smaller sprints or iterations, which helps to improve collaboration between team members and allows for more flexibility in adapting to changing requirements. Project management tools such as Jira, Trello, or Asana can be used to track progress and assign tasks.
-
-In terms of quality assurance processes, code reviews and software inspections can be used to ensure the quality of the code. This involves reviewing the code for errors or defects, ensuring that it adheres to coding standards, and making any necessary improvements. Automated testing tools such as Selenium or JUnit can also be used to automate testing and reduce the risk of human error.
 
 A Gantt chart or any suitable project management tool can be used to help plan and track progress throughout the development process. This will help to ensure that the project stays on schedule and that all tasks are completed as planned.
 ```sql
