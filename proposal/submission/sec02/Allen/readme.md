@@ -38,19 +38,29 @@
 - To enhance the overall student experience by providing a modern, user-friendly interface for grading and record-keeping, improving engagement and satisfaction with the university's academic processes.
 
 ### 4. Scope: 
-<img src="https://user-images.githubusercontent.com/128279581/235497036-561d13d0-1bf0-4de7-b042-b2b3a10bdd1e.png" alt="Scope"></img>
+- Product Catalogue - A comprehensive list of all products available in the mini mart, with information such as name, description, price, and availability.
+
+- Online Ordering - The ability for customers to place orders for products online, including the selection of items, quantities, and payment options.
+
+- Inventory Management - The ability to manage inventory levels, track stock levels, and replenish products as necessary.
+
+- Customer Management - The ability to manage customer data, including customer orders, preferences, and contact information.
+
+- Reporting - The ability to generate reports on sales, inventory, and other relevant data to help with decision making.
+
+- Payment Processing - The ability to process payments securely and efficiently through various payment methods, such as credit cards, debit cards, or online payment systems.
+
+- Shipping and Delivery - The ability to manage shipping and delivery of products, including tracking and notification of delivery status.
+
+- Security - The system must be secure to ensure customer data is protected and secure from unauthorized access.
+
+Limitations or constraints that may affect the project could include factors such as budget, time constraints, technical limitations, and resource availability. It is important to consider these limitations and constraints when defining the scope of the project to ensure that the project remains feasible and achievable.
 
 
-- User Authentication: The system should allow instructors and students to authenticate themselves using their UTM credentials.
-- Grading Management: The system should allow instructors to create and manage grading components, such as assignments, quizzes, and exams, and assign grades to       
-  students for each component.
-- Grade Calculation: The system should automatically calculate and display final grades based on the grading components and their weightage, as well as handle any special grading policies, such as dropping the lowest grade.
-- Grade Submission: The system should allow instructors to submit grades to the university's official grading system.
-- Grade Viewing: The system should allow students to view their grades for each component, as well as their overall course grade.
-- Feedback and Communication: The system should allow instructors to provide feedback to students on their performance and communicate with them through the system.
-- Course Management: The system should allow instructors to manage their course details, such as course description, schedule, and syllabus.
-- Accessibility: The system should be accessible to users with disabilities, and support assistive technologies such as screen readers.
-- Security: The system should be designed with appropriate security measures to ensure the privacy and confidentiality of student information and grading data.
+
+
+
+
 
 ### 5. Software Process Model:
 This section describe the ideal software process model for this system development. The write-up must consist of:
