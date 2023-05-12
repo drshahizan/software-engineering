@@ -151,17 +151,22 @@ The system will utilize a Relational Database Management System (RDBMS) for stor
 - The proposed system architecture for the KTDI Dewi Kayangan Enterprise Online System will be a multi-tier architecture consisting of a presentation layer, application layer, and data layer as the following:
 
 - Programming languages: 
+ 
   HTML: Used for creating the structure and content of web pages.
   CSS: Used for styling the appearance of web pages.
   JavaScript: Used for adding interactivity and client-side functionality.
 - Frameworks: 
+  
   Bootstrap: A front-end framework for building responsive and mobile-friendly web pages.
   Laravel: A PHP framework for developing robust and scalable web applications.
 - Database: 
+ 
   MySQL: A widely-used open-source RDBMS for storing and retrieving data efficiently.
 - Server: 
+  
   Apache: A popular web server software that will host the application and handle HTTP requests.
 - Data Visualization: 
+  
   Chart.js: A JavaScript library for creating interactive and visually appealing charts and graphs to represent sales analysis and other data.
 - Provide a flowchart or block diagram of the system architecture.
 
