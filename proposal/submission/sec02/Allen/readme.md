@@ -235,33 +235,45 @@ It's important to note that a comprehensive risk assessment should involve ident
 
 
 Developers: Experienced programmers skilled in HTML, CSS, JavaScript, PHP, and Laravel framework for system development.
+
 Designers: Graphic designers and UX/UI experts to create visually appealing and user-friendly interfaces.
+
 Database Administrators: Professionals to handle database management and ensure data integrity.
+
 Project Manager: Responsible for coordinating and overseeing the development process, managing timelines, and ensuring project goals are met.
 
 #### Equipment
 
 
--Development Computers: High-performance computers for developers to work efficiently.
+Development Computers: High-performance computers for developers to work efficiently.
+
 Servers: Reliable and scalable servers to host the system and handle user requests.
 Networking Infrastructure: Routers, switches, and network cables to establish a stable and secure network environment.
+
 Backup Systems: Storage devices or cloud services for regular data backups.
 
 #### Software
 
 
 Integrated Development Environment (IDE): Software tools such as Visual Studio Code, PHPStorm, or Sublime Text for coding and development.
+
 Laravel Framework: The PHP framework for building the web application.
+
 Database Management System: MySQL or other RDBMS for data storage and retrieval.
+
 Version Control System: Git or SVN for managing source code versions.
+
 Project Management Tools: Software like Jira, Trello, or Asana for task tracking and collaboration.
 
 #### Other Expenses
 
 
 Licensing Fees: Costs associated with acquiring necessary licenses for software or third-party libraries.
+
 Security Measures: Investment in security tools, such as firewalls, SSL certificates, or penetration testing services, to protect the system from potential threats.
+
 Maintenance and Support: Ongoing expenses for system maintenance, bug fixes, and technical support.
+
 Marketing and Promotion: Budget allocated for marketing activities to promote the online system and attract customers.
 
 ### 10. Technical Specifications
