@@ -18,7 +18,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>Neo Zheng Weng</td>
-    <td>UI/UX System Designer & Developer Assistant</td>
+    <td>Project Manager & UI/UX System Designer</td>
   </tr>
   <tr>
     <td>Wong Khai Shian Nicholas</td>
@@ -47,33 +47,52 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>Mr Hamdan</td>
-    <td>Hostel Administration</td>
+    <td>Mr Hamdan Bin Abd Ghani</td>
+    <td>KTDI Administration</td>
     <td>Senior Assistant Administrative Officer</td>
-    <td>Ensure system is technically feasible and meets assets requirements.</td>
+    <td>Providing the overview of the current KTDI room application and allocation system.</td>
   </tr>
     <tr>
-    <td>2</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Hayden Huan Kee Jiun</td>
+    <td>Student</td>
+    <td>KTDI Resident</td>
+    <td>Giving the feedbacks for the current KTDI accommodation system and providing the ideas for the upgraded accommodation system.</td>
   </tr>
     <tr>
-    <td>3</td>
+    <td>Ts. Dr. Hadafi Fitri Bin Mohd Latif</td>
+    <td>KTDI Fellow Council</td>
+    <td>KTDI Fellow</td>
+    <td>Delivering the manual KTDI merits system and quota active application form for hostel application.</td>
+  </tr>
+    <tr>
+    <td>Oh Kai Xuan</td>
+    <td>Student</td>
+    <td>KTDI Resident</td>
+    <td>Giving the feedbacks for the current KTDI room maintenance system and providing the ideas for improvement.</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>Ms Rosnani Binti Katip</td>
+    <td>KTDI Staff</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>Providing the manual KTDI Google forms.</td>
   </tr>
 </table>
+
 ## Tasks involved in developing SRC documentation:
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/01/2023 | Dr MSO | Project Manager | Create project plan | Complete |
-| 2 | 20/04/2023 | Wong Khai Shian Nicholas | Requirements Analyst | Partially Complete | 
-| 3 | 20/04/2023 | Neo Zheng Weng | Designer | Partially Complete |
-| 4| | | | | 
-| 5| | | | | 
+| 1 | 18/04/2023 | Neo Zheng Weng | Project Manager | Create project plan | Complete |
+| 2 | 19/04/2023 | Wong Khai Shian Nicholas | Requirements Analyst | Determine the user requirements | Partially Complete |
+| 3 | 20/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas, Muhammad Danial, Joseph Lau, Low Jie Sheng | Group members | First meeting with KTDI Assistant Administrative Officer | Complete |
+| 4 | 21/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas, Muhammad Danial, Joseph Lau Yeo Kai, Low Jie Sheng | Group members | Prepare proposal | Complete |
+| 5 | 24/04/2023 | Neo Zheng Weng | Designer | Design the system architecture | Complete |
+| 6 | 3/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | Second meeting with KTDI Assistant Administrative Officer | Complete |
+| 7 | 5/05/2023 | Neo Zheng Weng | Designer | Design the use case diagram | Partially Complete |
+| 8 | 8/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | SRS documentation | Partially Complete |
+| 9 | 11/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas,Muhammad Danial, Low Jie Sheng | Group members | Meet with KTDI fellow | Partially Complete |
+| 10 |
 
 
 ## Contribution 🛠️

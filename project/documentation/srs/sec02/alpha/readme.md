@@ -43,22 +43,22 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td>1. En. Hamdan bin Abdul Ghani</td>
+    <td>Administrator of Kolej Tun Dr Ismail</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>Provide information about the college room rental procedure.</td>
   </tr>
     <tr>
-    <td>2</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>2. Puan Rosnani bt Katip</td>
+    <td>Staff Kolej Tun Dr Ismail</td>
+    <td>Registrar</td>
+    <td>Provide information about the software (Google Form) that they currently use for the college room rental registration.</td>
   </tr>
     <tr>
-    <td>3</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>3 Wan Nur Sofea binti Mohd Hasbullah</td>
+    <td>Residents of Kolej Tun Dr Ismail</td>
+    <td>Student</td>
+    <td>Provide feedback on the current procedure.</td>
   </tr>
 </table>
 
@@ -66,11 +66,11 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2| | | | | 
-| 3| | | | | 
-| 4| | | | | 
-| 5| | | | | 
+| 1 | 02/05/2023| Salini Ravinthiran | Business Analyst | Gather user requirement | Partially Complete |
+| 2 | 02/05/2023 | Nur Farah Adibah Binti Idris  | Main Developer | Create system architecture design | Complete |
+| 3 | 02/05/2023 | Nur Farah Adibah Binti Idris  | Main Developer | Implement software functionality | Incomplete |
+| 4 | 02/05/2023 | Nur Aleysha Qurratu'aini Binti Mat Salleh | Quality Assurance Engineer | Create testing plan and execute tests | Incomplete | 
+| 5 | 02/05/2023 | Nadhrah NurSabrina Binti Zulaini | Assistant Developer | Create system documentation |Incomplete | 
 
 
 ## Contribution 🛠️

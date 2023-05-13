@@ -18,19 +18,19 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>1. Danial Harriz bin Mohd Asineh @ Mohd Asneh</td>
-    <td></td>
+    <td>Assisntant Developer</td>
   </tr>
   <tr>
     <td>2. Muhammad Anas bin Mohd Pikri</td>
-    <td></td>
+    <td>Scrum Master</td>
   </tr>
     <tr>
     <td>3. Kugen A/L Kalidas</td>
-    <td></td>
+    <td>UI/UX Designer</td>
   </tr>
     <tr>
     <td>4. Muhammad Luqman Hakim bin Mohd Rizaudin</td>
-    <td></td>
+    <td>Main Developer</td>
   </tr>
 </table>
 
@@ -43,22 +43,28 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Tuan Hj Mohd Rizaudin Bin Mohd Salleh</td>
+    <td>Top Management Cahaya Ad Din</td>
+    <td>CEO</td>
+    <td>Giving insights and problems that the company have according to the topic</td>
   </tr>
     <tr>
-    <td>2</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Cik Nor Azwa binti Jaafar</td>
+    <td>Middle Management Cahaya Ad Din</td>
+    <td>Staff</td>
+    <td>Describe the flow of work and the problems that the staff has during the registration</td>
+  </tr>
+  <tr>
+    <td>Puan Sari Ariza binti Sukiman</td>
+    <td>Middle Management Cahaya Ad Din</td>
+    <td>Accountant</td>
+    <td>Describe the flow of payment during registration and the problem behind it</td>
   </tr>
     <tr>
-    <td>3</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>En Muhammad Iman Firdaus Bin Baharuddin</td>
+    <td>End User</td>
+    <td>Client</td>
+    <td>Tells more about the problem they have during the registration</td>
   </tr>
 </table>
 
@@ -66,11 +72,13 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2| | | | | 
-| 3| | | | | 
-| 4| | | | | 
-| 5| | | | | 
+| 1 | 01/01/2023| Luqman Hakim | Main Developer | Create project plan | Complete |
+| 2| 04/4/2023|Luqman, Anas, Danial, Kugen |Main Developer,Assistant Developer, UI/UX Designer, Scrum Master |Project Discussion| Complete |
+| 3| 17/04/2023| Luqman Hakim|Main Developer |Find and Identify stakeholder | Complete |
+| 4| 02/05/2023|Danial | Assistant Developer|Preparation of interview questions | Complete|
+| 5|03/05/2023 |Luqman, Danial, Anas, Kugen |Main Developer, Assistant Developer, UI/UX Designer, Scrum Master | Interview with stakeholder|Complete |
+| 6| 04/05/2023|Luqman, Anas, Danial, Kugen |Main Developer, Assistant Developer, UI/UX Designer, Scrum Master |Proposal Discussion| Complete | 
+| 7|04/05/2023 |Luqman, Danial, Anas, Kugen |Main Developer, Assistant Developer, UI/UX Designer, Scrum Master | Proposal |Complete |
 
 
 ## Contribution 🛠️

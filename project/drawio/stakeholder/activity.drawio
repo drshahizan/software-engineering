@@ -1,0 +1,160 @@
+<mxfile host="65bd71144e">
+    <diagram id="plriZ1i7y0XnqMO79pad" name="Page-1">
+        <mxGraphModel dx="576" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="7" value="" style="swimlane;startSize=60;fontSize=19;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="10" width="770" height="940" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" parent="7" vertex="1">
+                    <mxGeometry x="230" width="10" height="940" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" parent="7" vertex="1">
+                    <mxGeometry x="500" width="10" height="940" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Student" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" parent="7" vertex="1">
+                    <mxGeometry x="70" y="10" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Maintanence and Finance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="7" vertex="1">
+                    <mxGeometry x="570" y="12.5" width="140" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="7" vertex="1">
+                    <mxGeometry x="335" y="15" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="7" source="17" target="22" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;log in to the system&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" parent="7" vertex="1">
+                    <mxGeometry x="44.38" y="100" width="121.25" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="edgeStyle=none;html=1;fontSize=19;" parent="7" source="18" target="17" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=19;" parent="7" vertex="1">
+                    <mxGeometry x="95" y="50" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="7" source="21" target="72" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;review the student information&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" parent="7" vertex="1">
+                    <mxGeometry x="304" y="110" width="121.25" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="" style="edgeStyle=none;html=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="7" source="22" target="21" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;request for room application&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" parent="7" vertex="1">
+                    <mxGeometry x="44.38" y="200" width="121.25" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="7" source="27" target="30" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;check room availability and select room&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" parent="7" vertex="1">
+                    <mxGeometry x="37.2" y="300" width="135.62" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="" style="edgeStyle=none;html=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="7" source="30" target="76" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;submit room application&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" parent="7" vertex="1">
+                    <mxGeometry x="37.190000000000005" y="400" width="135.62" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="" style="edgeStyle=none;html=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="7" source="32" target="89" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;get room info and room key&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" parent="7" vertex="1">
+                    <mxGeometry x="44.38" y="500" width="122.8" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="7" source="34" target="40" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;pay room fees&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" parent="7" vertex="1">
+                    <mxGeometry x="37.19" y="620" width="135.62" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="7" source="40" target="42" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="98" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="7" source="40" target="97" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;report maintenance issues&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" parent="7" vertex="1">
+                    <mxGeometry x="37.97" y="720" width="135.62" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="104" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="7" source="42" target="101" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="108" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="7" source="42" target="106" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;get to stay in new room&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" parent="7" vertex="1">
+                    <mxGeometry x="59.879999999999995" y="820" width="90.24" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="" style="edgeStyle=none;html=1;fontSize=12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="7" source="72" target="27" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;show the room preferences based on student&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" parent="7" vertex="1">
+                    <mxGeometry x="304" y="210" width="130.75" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" value="" style="edgeStyle=none;html=1;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="7" source="76" target="80" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;determine room requirement&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" parent="7" vertex="1">
+                    <mxGeometry x="313.5" y="320" width="121.25" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" value="" style="edgeStyle=none;html=1;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="7" source="80" target="86" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" value="" style="edgeStyle=none;html=1;fontSize=12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="7" source="80" target="32" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;room assigment&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" parent="7" vertex="1">
+                    <mxGeometry x="313.5" y="420" width="121.25" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="7" vertex="1">
+                    <mxGeometry x="240" y="460" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;add student to waitlist&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" parent="7" vertex="1">
+                    <mxGeometry x="369.5" y="520" width="130.5" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="7" vertex="1">
+                    <mxGeometry x="404.75" y="480" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="95" value="" style="edgeStyle=none;html=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="7" source="89" target="94" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;generate fee invoice&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" parent="7" vertex="1">
+                    <mxGeometry x="240" y="570" width="125" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="96" value="" style="edgeStyle=none;html=1;fontSize=12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="7" source="94" target="34" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="290" y="660" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="94" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;finance department issues invoice to student&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" parent="7" vertex="1">
+                    <mxGeometry x="570" y="610" width="160" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="99" value="" style="edgeStyle=none;html=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="7" source="97" target="100" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="560" y="740" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="97" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;prioritize maintenance requests&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" parent="7" vertex="1">
+                    <mxGeometry x="280" y="700" width="135.62" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="103" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="7" source="100" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="110" y="800" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="100" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;resolve the maintenance&amp;nbsp; issues by contact relevant stakeholders&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" parent="7" vertex="1">
+                    <mxGeometry x="560" y="710" width="160" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="101" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;update student and room records&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" parent="7" vertex="1">
+                    <mxGeometry x="295.25" y="810" width="120.37" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="106" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" parent="7" vertex="1">
+                    <mxGeometry x="95" y="900" width="20" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

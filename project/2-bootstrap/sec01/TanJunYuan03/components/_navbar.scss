@@ -1,0 +1,156 @@
+.custom-navbar {    
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    @include flex;
+    align-items: center;    
+    @include transition(all,.3s);
+    font-family: 'Baloo Paaji', cursive;
+
+    .logo { 
+        font-size: calc(20px + (30 - 20) * ((100vw - 300px) / (1300 - 300)));
+        text-decoration: none;
+        color: $white;;
+    }
+
+    .container {
+        flex-grow: 1;       
+        min-height: 100px;
+        @include flex;
+        align-items: center;
+        @include transition(all,.3s);
+    }   
+    .hamburger {
+        margin-left: 20px;
+        padding-top: 5px;
+
+         .hamburger-inner {
+            &,
+            &::before,
+            &::after {
+                background: $white;
+            }
+        }
+
+    }
+        
+    .nav {
+        list-style-type: none;
+        padding-left: 0;
+        @include flex;
+        align-items: center;
+        margin: 0;
+        margin-left: auto;
+
+        .item {
+            margin: 0 10px;
+
+            .link {
+                color: $white;
+                font-weight: 500;
+                text-decoration: none;              
+
+                &:hover,
+                &.active {
+                    color: $primary;
+                }
+            }
+        }
+
+    }
+
+    &.affix {
+        background: $white;
+         
+        border-bottom: 1px solid rgba($border-color,.34);;
+
+        .logo {
+            color: $primary;
+        }
+        .container {
+            min-height: 65px;
+        }       
+
+        .nav .item .link {
+            color: $gray-600;
+        }
+
+
+        .hamburger-inner {
+            &,
+            &::before,
+            &::after {
+                    background: $gray-600;
+            }
+        }
+    }
+
+    @include media-breakpoint-up(md) {
+
+        .nav {
+             .item {
+                opacity: 0;
+                visibility: hidden;
+                transform: translateY(-50px);
+                transform: translateY(-50px);
+                &:nth-child(9) { @include transition(all,.1s); transition-delay: 0s }
+                &:nth-child(8) { @include transition(all,.2s); transition-delay: .05s }
+                &:nth-child(7) { @include transition(all,.3s); transition-delay: .1s }
+                &:nth-child(6) { @include transition(all,.4s); transition-delay: .15s }
+                &:nth-child(5) { @include transition(all,.5s); transition-delay: .2s }
+                &:nth-child(4) { @include transition(all,.6s); transition-delay: .25s }
+                &:nth-child(3) { @include transition(all,.7s); transition-delay: .3s }
+                &:nth-child(2) { @include transition(all,.8s); transition-delay: .35s }
+                &:nth-child(1) { @include transition(all,.9s); transition-delay: .4s }                
+            }
+
+            &.show {
+                .item {
+                    transform: translateY(0);
+                    opacity: 1;
+                    visibility: visible;
+                }                   
+            }
+
+        }
+            
+    }
+
+    @include media-breakpoint-down(md) {
+        .hamburger {
+            margin-left: auto;
+        }
+        .nav {
+            position: absolute;
+            top: calc(100% + 1px);
+            left: 0;
+            background: $white;
+            border-radius: 0 0 $card-border-radius $card-border-radius;
+            flex-direction: column;
+            width: 100%;
+            margin: auto;
+            display: block;
+            border-bottom: 1px solid $border-color;
+            padding: 13px;
+            opacity: 0;
+            visibility: hidden;
+            transform: translateY(6px);
+            @include transition(all,.3s);
+
+            &.show {
+                opacity: 1;
+                visibility: visible;;
+                transform: translateY(0);
+            }
+
+            .item .link {
+                padding: 7px 12px;
+                display: block;
+                color: $gray-600;
+            }
+
+        }
+    }
+}

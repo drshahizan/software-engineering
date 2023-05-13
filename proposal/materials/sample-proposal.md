@@ -69,7 +69,7 @@ The illustration of the Agile software process model that relates to this projec
 
 The testing methodologies for this project include functional, performance, and security testing. Project management practices will include daily stand-up meetings, sprint planning, and retrospectives. Quality assurance processes will include code reviews, automated testing, and user acceptance testing.
 
-In conclusion, the Agile software process model is the ideal choice for the proposed academic course registration system. Its iterative and incremental approach, combined with effective project management practices and quality assurance processes, will ensure the timely delivery of a high-quality and reliable registration system.
+In conclusion, the Agile software process model is the ideal choice for the proposed food ordering system. Its iterative and incremental approach, combined with effective project management practices and quality assurance processes, will ensure the timely delivery of a high-quality and reliable food ordering system.
 
 ## 6. Budget:
 The development of the academic course registration system for 30,000 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at **RM 2,500,000**, as outlined below:
@@ -214,7 +214,7 @@ Total Estimated Cost: RM 2,300,000
 
 > Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
 
-## 10. Technical Specifications:
+### 10. Technical Specifications:
 - Discuss the technical specifications of the proposed project, including data sources, data schema, data transformations, machine learning algorithms, data visualization tools, and other technical details.
 - Mention the programming languages, frameworks, and libraries that will be used in the project.
 - Provide details about the hardware and software requirements for the proposed system.

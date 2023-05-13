@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lab 1: Survey Form</title>
+    <!--
+    Lab 16: chatcss
+    Group:
+    1. Name: CAMILY TANG JIA LEI, Matrix No: A22EC0039, Github ID: camilytang
+    2. Name: CHAI YU TONG, Matrix No: A22EC0145, Github ID: Yutongchai
+    3. Name: MUHAMMAD DANIAL BIN AHMAD SYAHIR, Matrix No: A22EC0206, Github ID: daniallllllll
+    4. Name: NEO ZHENG WENG, Matrix No: A2EC0093, Github ID: zw-weng
+    -->
+	<title>Survey Form</title>
+	<style>
+		body {
+			background-color: rgb(204,237,134); 
+		}
+		form {
+			background-color: lightgrey;
+			padding: 20px;
+			max-width: 600px;
+			margin: 0 auto;
+			border-radius: 10px;
+			box-shadow: 0 0 10px rgba(0,0,0,0.2);
+		}
+		label {
+			display: block;
+			margin: 10px 0;
+		}
+		input[type="text"], select, textarea {
+			padding: 5px;
+			margin: 5px 0;
+			border-radius: 5px;
+			border: 1px solid #ccc;
+			width: 100%;
+		}
+		input[type="submit"] {
+			background-color: #4CAF50;
+			color: #fff;
+			padding: 10px 20px;
+			border: none;
+			border-radius: 5px;
+			cursor: pointer;
+		}
+		input[type="submit"]:hover {
+			background-color: #3e8e41;
+		}
+        .form-row {
+            display: flex;
+            align-items: center;
+        }
+        .form-row label {
+            flex-basis: 120px;
+            max-width: 120px;
+            margin-right: 20px;
+            text-align: right;
+        }
+        .form-row input[type="text"], .form-row select, .form-row textarea {
+            flex-basis: calc(100% - 140px);
+            max-width: calc(100% - 140px);
+        }
+        .form-row textarea {
+            resize: vertical;
+            min-height: 100px;
+        }
+        .form-row input[type="number"] {
+            width: 70px;
+        }
+        .form-row input[type="submit"] {
+            margin-top: 10px;
+        }
+	</style>
+</head>
+<body>
+	<h1 style="text-align: center;">Survey Form</h1>
+	<form action="">
+	   <p style="text-align: center;">Please tell us about something good that happened to you today.</p>
+		<div class="form-row">
+			<label for="name">Name:</label>
+			<input type="text" id="name" name="name" required placeholder="Enter your name">
+		</div>
+		<div class="form-row">
+			<label for="email">Email:</label>
+			<input type="text" id="email" name="email" required placeholder="Enter your email address">
+		</div>
+		
+		<div class="form-row">
+			<label for="scale">On a scale of 1-10, how was it?:</label>
+			<input type="text" id="email" name="email" required placeholder="Enter a number between 1-10">
+		</div>
+
+		<div class="form-row">
+			<label for="location">Where did it happen?</label>
+			<select id="location" name="location">
+				<option value="">--Select--</option>
+				<option value="at-home">At home</option>
+				<option value="at-work">At work</option>
+				<option value="on-the-streets">On the streets</option>
+				<option value="other">Other</option>
+			</select>
+		</div>
+		<label>At what time of day did it happen?</label>
+        <div>
+         <label for="morning"><input type="radio" id="morning" name="time-of-day" value="morning" required>Morning</label>
+          <label for="afternoon"><input type="radio" id="afternoon" name="time-of-day" value="afternoon" required>Afternoon</label>
+         <label for="evening"><input type="radio" id="evening"name="time-of-day" value="evening" required>Evening</label>
+        </div>
+        <label>What emotions did you experience?<br>(Select all that apply)</label>
+        <div>
+         <label for="excited"><input type="radio" id="excited" name="emotions" value="excitied" required>Excited</label>
+          <label for="humbled"><input type="radio" id="humbled" name="emotions" value="humbled" required>Humbled</label>
+         <label for="elated"><input type="radio" id="elated"name="emotions" value="elated" required>Elated</label>
+         <label for="loved"><input type="radio" id="loved"name="loved" value="loved" required>Loved</label>
+         <label for="enthusiastic"><input type="radio" id="enthusiastic"name="enthusiastic" value="enthusiastic" required>Enthusiastic</label>
+        </div>
+		<div class="form-row">
+			<label for="comments">Please describe your positive experience:</label>
+			<textarea id="comments" name="comments" required placeholder="Enter your experience here..."></textarea>
+		</div>
+		<div class="form-row">
+			<input type="submit" value="Submit">
+		</div>
+	</form>
+</body>
+</html>	
+

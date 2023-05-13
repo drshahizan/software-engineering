@@ -17,20 +17,24 @@ Don't forget to hit the :star: if you like this repo.
     <th>Role</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
+    <td>1 Jaslene Yu</td>
+    <td>Project Manager</td>
   </tr>
   <tr>
-    <td>2</td>
-    <td></td>
+    <td>2 Nicole Lim Tze Yee</td>
+    <td>Business Analyst & Developer Assistant</td>
   </tr>
     <tr>
-    <td>3</td>
-    <td></td>
+    <td>3 Tiew Chuan Rong</td>
+    <td>UI/UX Designer</td>
   </tr>
     <tr>
-    <td>4</td>
-    <td></td>
+    <td>4 Tiew Chuan Shen</td>
+    <td>Main Developer</td>
+  </tr>
+  <tr>
+  <td>5 Wong Jun Ji</td>
+  <td>Quality Assurance & Developer Assistant</td>
   </tr>
 </table>
 
@@ -43,34 +47,45 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>1 Lim Jing Yong</td>
+    <td>Student</td>
+    <td>First Year Data Engineering Student</td>
+    <td>Provide feedback. The student can test the system during development and provides feedback regarding usability, functionality and design. This feedback can help us to identify bugs or issues that need to be addressed.</td>
   </tr>
-    <tr>
-    <td>2</td>
-    <td></td>
-    <td></td>
-    <td></td>
+  <tr>
+    <td>2 Liow Zhi Heng</td>
+    <td>Student</td>
+    <td>First Year Data Engineering Student</td>
+    <td>Provide feedback. The student can test the system during development and provides feedback regarding usability, functionality and design. This feedback can help us to identify bugs or issues that need to be addressed.</td>
   </tr>
     <tr>
     <td>3</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Faculty Staff</td>
+    <td>Lecturer</td>
+    <td>Defining requirements. Lecturer can provide valuable input for the attendance system. Valuable input can be specified as what attendance data they need to track (Students, name, ID, location, etc), how they want the attendance to be marked (by scanning QR code/ by entering random number generated), and what reporting and analysis capabilities they require.</td>
+  </tr>
+    <tr>
+    <td>4</td>
+    <td>Faculty Staff</td>
+    <td>UTM Digital Staff</td>
+    <td>Providing technical expertise. The stakeholder can help us to understand the architecture, boundaries, design, etc of the existing system. The stakeholder can provide technical expertise and knowledge about the current system.</td>
   </tr>
 </table>
+
 ## Tasks involved in developing SRC documentation:
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2| | | | | 
-| 3| | | | | 
-| 4| | | | | 
-| 5| | | | | 
-
+| 1 | 01/05/2023| Jaslene Yu | Project Manager | Create project plan | Complete |
+| 2 | 03/05/2023| All Members |Project Members | Conduct meeting regarding proposal | Complete |
+| 3 | 03/05/2023| Tiew Chuan Rong |  UX Designer | Create System Architecture | Complete |
+| 4 | 03/05/2023 | Tiew Chuan Shen | Main Developer | List out software and hardware required | Complete | 
+| 5 | 03/05/2023 | Wong Jun Ji | Quality Assurance & Developer Assistant | Predict the risk of system development | Complete |
+| 6 | 03/05/2023 | Nicole Lim Tze Yee | Business Analyst & Developer Assistant | Determine the budget needed during system development | Complete |
+| 7 | 04/05/2023 | All Members | Project Members | Submit project proposal | Complete |
+| 8 | 07/05/2023 | All Members | Project Members | Determine stakeholder | Complete |
+| 9 | 12/05/2023 | Jaslene Yu | Project Manager | Contact stakeholder | Pending |
+|10 | 21/05/2023 | All Members | Project Members | First interview with stakeholder | Pending |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

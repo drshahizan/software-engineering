@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <!--
+    Lab 14: Website Layout
+    Group:
+    1. Name: LIM JING YONG, Matrix No: A22EC0182, Github ID: Jingyong14
+    2. Name: YEOH CHONG YI, Matrix No: A22EC0295, Github ID: yChongyi
+    3. Name: JASLENE YU, Matrix No: A22EC0171, Github ID: jaslene-u
+    4. Name: JOSEPH LAU YEO KAI, Matrix No: A22EC0055, Github ID: josephlau2003
+  -->
+  <head>
+    <title>HTML Layout with CSS</title>
+    <style>
+      /* style.css */
+      body {
+        margin: 0;
+        padding: 0;
+      }
+
+      header {
+        background-color: #333;
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+      }
+
+      .content1 {
+        grid-area: a;
+      }
+
+      .content2 {
+        grid-area: b;
+      }
+
+      .content3 {
+        grid-area: c;
+      }
+
+      .content4 {
+        grid-area: d;
+      }
+
+      .content5 {
+        grid-area: e;
+      }
+
+      .content1,
+      .content5 {
+        height: 50px;
+      }
+
+      .content2,
+      .content3,
+      .content4 {
+        height: 530px;
+      }
+
+      .contentgrid {
+        display: grid;
+        grid-template: "a a a" "b c d" "e e e";
+        gap: 5px;
+        padding: 20px;
+        margin: 0 auto;
+        max-width: 800px;
+      }
+
+      .contentgrid > div {
+        padding: 5px;
+        background-color: rgb(255, 217, 0);
+      }
+
+      footer {
+        background-color: #333;
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="contentgrid">
+      <div class="content1">Header</div>
+      <div class="content2">Nav</div>
+      <div class="content3">Article</div>
+      <div class="content4">Ads</div>
+      <div class="content5">Footer</div>
+    </div>
+  </body>
+</html>

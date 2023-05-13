@@ -13,28 +13,34 @@ Don't forget to hit the :star: if you like this repo.
 ## Group Members
 <table>
   <tr>
+    <th>No.</th>
     <th>Name</th>
     <th>Role</th>
   </tr>
   <tr>
-    <td>1 Yong Wern Jie</td>
-    <td>Project manager & Requirement gatherer</td>
+    <td>1.</td>
+    <td>Yong Wern Jie</td>
+    <td>Project Manager</td>
   </tr>
   <tr>
-    <td>2 Marcus Joey Sayner</td>
-    <td>Software developer & Documentation contributor</td>
+    <td>2.</td>
+    <td>Marcus Joey Sayner</td>
+    <td>Software Developer</td>
   </tr>
   <tr>
-    <td>3 Lim Jing Yong</td>
-    <td>UX/UI Designer & Tester</td>
+    <td>3.</td>
+    <td>Lim Jing Yong</td>
+    <td>Documentation Specialist</td>
   </tr>
   <tr>
-    <td>4 Soh Han Wei</td>
-    <td>Database administrator & Developer assistant</td>
+    <td>4.</td>
+    <td>Soh Han Wei</td>
+    <td>Requirement Analyst</td>
   </tr>
   <tr>
-    <td>5 Lee Soon Der</td>
-    <td>Quality assurance tester & Design contributor</td>
+    <td>5.</td>
+    <td>Lee Soon Der</td>
+    <td>User Experience Designer</td>
   </tr>
 </table>
 
@@ -47,22 +53,34 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Nicole Lim Tze Yee</td>
+    <td>Student</td>
+    <td>Faculty of Computing (Undergraduate)</td>
+    <td>Actively participate in the development and testing of the Student Feedback System, providing feedback and suggestions to ensure that the system meets their needs and requirements.</td>
+  </tr>
+  <tr>
+    <td>Wong Jun Ji</td>
+    <td>Student</td>
+    <td>Faculty of Computing (Undergraduate)</td>
+    <td>Actively participate in the development and testing of the Student Feedback System, providing feedback and suggestions to ensure that the system meets their needs and requirements.</td>
+  </tr>
+  <tr>
+    <td>Tiew Chuan Shen</td>
+    <td>Student</td>
+    <td>Faculty of Computing (Undergraduate)</td>
+    <td>Actively participate in the development and testing of the Student Feedback System, providing feedback and suggestions to ensure that the system meets their needs and requirements.</td>
   </tr>
     <tr>
-    <td>2</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Dr Noorfa Haszlinna binti Mustaffa</td>
+    <td>Faculty Staff</td>
+    <td>Lecturer</td>
+    <td>Providing input and feedback on the design and functionality of the Student Feedback System, and to use the feedback data to improve teaching and learning outcomes.</td>
   </tr>
     <tr>
-    <td>3</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Professor Madya Dr. Mohd Nihra Haruzuan bin Mohamad Said</td>
+    <td>University Staff</td>
+    <td>CDex Staff</td>
+    <td>Providing feedback on the proposal, ensuring compliance with university policies and procedures, and facilitating the implementation and rollout of the system.</td>
   </tr>
 </table>
 
@@ -70,11 +88,16 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2| | | | | 
-| 3| | | | | 
-| 4| | | | | 
-| 5| | | | | 
+| 1. | 28/04/2023 | Yong Wern Jie | Project Manager |  Create Project Plan | Complete |
+| 2. | 30/04/2023 | All members | - | Find Stakeholder | Complete |
+| 3. | 02/05/2023 | All members | - | Interview with stakeholders | Partially Complete | 
+| 4. | 02/05/2023 | Soh Han Wei | Requirement Analyst | Gather User Requirements | Partially Complete |
+| 5. | 02/05/2023 | Lim Jing Yong  | Documentation Specialist | Create Proposal | Complete |
+| 6. | 12/05/2023 | All members | - | Create UML Diagram | Incomplete |
+| 7. | 19/05/2023 | Lim Jing Yong & Soh Han Wei | Documentation Specialist & Requirement Analyst | Create SRS Document | Incomplete |
+| 8. | 31/06/2023 | Marcus Joey Sayner | Software Developer | System Development | Incomplete |
+| 9. | 02/07/2023 | Lee Soon Der | User Experience Designer | Create System Architecture Design | Incomplete |
+
 
 
 ## Contribution 🛠️

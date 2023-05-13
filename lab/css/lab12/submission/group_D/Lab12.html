@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Document</title>
+    <link href='https://fonts.googleapis.com/css?family=Indie+Flower' rel='stylesheet'>
+    <style>
+        .indie-flower {
+            font-family: 'Indie Flower', cursive;
+            font-size: 9px;
+            color: black;
+        }
+
+        .box {
+            width: 300px;
+            height: 150px;
+            border: 2px solid green;
+            margin: 0 auto;
+            display: flex;
+            align-items: flex-start;
+            justify-content: center;
+            padding: 20px;
+
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        p:first-of-type {
+            color: salmon;
+            text-align: justify;
+            
+        }
+
+        p:last-of-type {
+            color: green;
+            text-align: center;
+            text-indent: 20px;
+        }
+
+        .box:not(:first-of-type) p::first-letter {
+            color: red;
+            font-size: 150%;
+            font-weight: bold;
+        }
+         .box {
+            background: #f5f5f5;
+            border: 2px solid #9799a7;
+            display: inline-block;
+            height: 100px;
+            margin: 20px;
+            padding-top: 40px;
+            text-align: center;
+            width: 100px;
+        }
+
+        .box2 {
+            background: #f5f5f5;
+            border: 6px double #9799a7;
+            display: inline-block;
+            height: 100px;
+            margin: 20px;
+            padding-top: 40px;
+            text-align: center;
+            width: 100px;
+        }
+
+        .box3 {
+            background: #f5f5f5;
+            border: 4px dotted #9799a7;
+            display: inline-block;
+            height: 100px;
+            margin: 20px;
+            padding-top: 40px;
+            text-align: center;
+            width: 100px;
+        }
+
+        .box4 {
+            background: #f5f5f5;
+            border: 8px dashed #9799a7;
+            display: inline-block;
+            height: 100px;
+            margin: 20px;
+            padding-top: 40px;
+            text-align: center;
+            width: 100px;
+        }
+
+        .box5 {
+            background: #f5f5f5;
+            border: 8px #9799a7;
+            display: inline-block;
+            height: 100px;
+            margin: 20px;
+            padding-top: 40px;
+            text-align: center;
+            width: 100px;
+        }
+
+
+        .circle {
+            display:inline-block;
+            text-align: center;
+            background-color: #f5f5f5;
+            border-radius: 50%;
+            width: 100px;
+            margin: 20px;
+            padding: 40px;
+            line-height: 65px;
+        }
+        
+        .oval {
+            background-color: #f5f5f5;
+            display: inline-block;
+            padding: 30px;
+            margin: 10px;
+            border-top-left-radius: 15%;
+            border-top-right-radius: 85%;
+            border-bottom-left-radius: 85%;
+            border-bottom-right-radius: 15%;
+            line-height: 65px;
+        }
+        .boxL4 {
+            width: 400px;
+            height: 150px;
+            background-color: yellow;
+            border: 15px inset blue;
+            margin: 0 auto;
+            padding: 30px;
+            color: black;
+            font-weight: bold;
+        }
+
+        .boxL5 {
+            border: 30px solid greenyellow;
+            height: 250px;
+            width: 400px;
+            padding: 20px;
+            margin: 0 auto;
+            padding-top: 120px;
+
+        
+        }
+
+        .item1 {
+            
+            font-weight: bold;
+            text-align: center;
+            font-size: 200%;
+            background-color: orange;
+            padding: 10px 2px;
+;
+        }
+
+        .item2 {
+            font-weight: bold;
+            font-size: 100%;
+            text-align: center;
+            color: black;
+        }
+
+       
+    </style>
+</head>
+
+<body>
+    <h1>Lab 1: Google Font</h1>
+    <div class="box">
+        <p class="indie-flower">UTM has three campuses – the main campus is in Skudai, and was the first university in
+            the state of Johor. It has an area of 1148 hectares[9] and is the second largest public university after
+            Universiti Putra Malaysia (UPM). It is about 20 km north of the state capital, Johor Bahru. The branch
+            campus is situated in Jalan Semarak within Kuala Lumpur, with an area of 38 hectares.[9] The branch campus
+            accommodates diploma students, part-time students (also known as the SPACE program), undergraduate students
+            (Malaysia-Japan International Institute of Technology) and foreign students taking business courses.</p>
+    </div>
+    <h1>Lab 2: Style first letter, first line & last line</h1>
+    <p>The history of technical education in this country has been a century old. It all began in 1904 when a Technical
+        School began its operation on Weld Road (now Jalan Raja Chulan) to teach Technical Assistants for the Federated
+        Malay States Departments of Railways, Survey and Public Works.</p>
+
+    <p>The school was officially known as Treacher Technical School, named after Sir William Treacher, the Resident
+        General during that time. Students followed classed on part-time basis; they worked and trained specifically
+        according to the technical needs of their employment.</p>
+
+    <p>Department In 1941, the Advisory Committee of Technical Schools and the Education recommended that the Technical
+        School be elevated to a college status and proposed that a new Technical College be constructed. The new college
+        was to be built on a 47-acre piece of Government land in Gurney Road (now Jalan Semarak), Kuala Lumpur. Plans
+        for the construction of the college, however, were put on hold when World War II erupted in Peninsular Malaysia.
+    </p>
+     <div class="box">2px solid</div>
+    <div class="box2">6px double</div>
+    <div class="box4">8px dashed</div>
+    <div class="box3">4px dotted</div>
+    <div class="box5">5px</div>
+    <div class="circle">Rounded</div>
+    <div class="oval">Oval</div>
+    
+    <h1>Lab 4: Box Model 1</h1>
+    <div class="boxL4">
+        This text is the content of the box. We have added a 40px padding, 30px margin and a 15px inset blue.<br>
+        <br>
+        University of Technology Malaysia (UTM) (Malay: Universiti Teknologi Malaysia) is a premier Malaysian public
+        research-intensive university ranked 187th in the world by QS University rankings. Its medium of instruction
+        is English.
+
+    </div>
+    <h1>Lab 5: Box Model 2</h1>
+    <div class="boxL5">
+        <div class="item1"> Web Programming</div>
+        <div class="item2">CSS Box Model</div>
+    </div>
+
+</body>
+
+</html>
