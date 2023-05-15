@@ -36,7 +36,7 @@ Behavioral diagrams portray a dynamic view of a system or the behavior of a syst
 
 - **[State Machine Diagram](https://sparxsystems.com/resources/tutorials/uml2/state-diagram.html)**: It is a behavioral diagram. it portrays the system's behavior utilizing finite state transitions. It is also known as the State-charts diagram. It models the dynamic behavior of a class in response to external stimuli.
 - **[Activity Diagram](https://sparxsystems.com/resources/tutorials/uml2/activity-diagram.html)**: It models the flow of control from one activity to the other. With the help of an activity diagram, we can model sequential and concurrent activities. It visually depicts the workflow as well as what causes an event to occur.
-Use Case Diagram: It represents the functionality of a system by utilizing actors and use cases. It encapsulates the functional requirement of a system and its association with actors. It portrays the use case view of a system.
+- **[Use Case Diagram](https://sparxsystems.com/resources/tutorials/uml2/use-case-diagram.html)**: It represents the functionality of a system by utilizing actors and use cases. It encapsulates the functional requirement of a system and its association with actors. It portrays the use case view of a system.
 
 ## 3. Interaction Diagrams
 Interaction diagrams are a subclass of behavioral diagrams that give emphasis to object interactions and also depicts the flow between various use case elements of a system. In simple words, it shows how objects interact with each other and how the data flows within them. It consists of communication, interaction overview, sequence, and timing diagrams.
