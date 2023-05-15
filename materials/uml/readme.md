@@ -7,13 +7,6 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-- [UML Tutorial](https://www.javatpoint.com/uml)
-- [UML - Quick Guide](https://www.tutorialspoint.com/uml/uml_quick_guide.htm)
-
-## Use Case
-- [UML Use Case Diagram](https://www.javatpoint.com/uml-use-case-diagram)
-
-
 # UML Diagram
 The UML diagrams are categorized into **structural diagrams**, **behavioral diagrams**, and also interaction **overview diagrams**. The diagrams are hierarchically classified in the following figure:
 
@@ -74,6 +67,10 @@ Here is the table representation of the given data:
 | Dzone UML getting started guide                         | All UML2 diagrams are covered, with some basic explanations for the main notation elements. [Link](https://dzone.com/refcardz/getting-started-uml) |
 | Allen Holub's Quick UML reference                       | Lots of examples to help you understand each notation element, including code examples of how some aspects would be expressed in Java for those with a programming background that may find this "mapping" useful to understand the concepts. [Link](https://holub.com/uml/) |
 
+## Useful links
+- [UML Tutorial](https://www.javatpoint.com/uml)
+- [UML - Quick Guide](https://www.tutorialspoint.com/uml/uml_quick_guide.htm)
+- [UML Diagram Tutorial: A Complete Guide To UML Diagrams](https://www.softwaretestinghelp.com/uml-diagram-tutorial/)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
