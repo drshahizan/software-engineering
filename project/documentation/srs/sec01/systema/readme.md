@@ -58,7 +58,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provide recommendations to help SRC in collecting students complaints</td>
   </tr>
     <tr>
-    <td>3 Sudashen Rao</td>
+    <td>3 Sudashan Rao A/L Themudu</td>
     <td>Student</td>
     <td>Faculty of Computing Student (Undergraduate)</td>
     <td></td>
