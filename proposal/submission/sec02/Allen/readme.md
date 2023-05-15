@@ -346,20 +346,20 @@ Other than that, examples of data transformation that are planned to do are:
 - Data transformation can be performed using a variety of tools and techniques, including ETL (extract, transform, load) processes, scripting languages like Python or Ruby, or specialized data transformation software.
 #### Machine Learning Algorithms:
 
-- Product recommendations
-By analyzing customer purchase histories, browsing behavior, and other data, machine learning algorithms can generate personalized product recommendations to help customers discover new items that they might be interested in.
+##### Product recommendations
+- By analyzing customer purchase histories, browsing behavior, and other data, machine learning algorithms can generate personalized product recommendations to help customers discover new items that they might be interested in.
 
-- Fraud detection
-Machine learning algorithms can be used to detect fraudulent transactions or suspicious behavior, such as repeated attempts to use the same credit card or purchase large quantities of the same product.
+##### Fraud detection
+- Machine learning algorithms can be used to detect fraudulent transactions or suspicious behavior, such as repeated attempts to use the same credit card or purchase large quantities of the same product.
 
-- Inventory optimization
-By analyzing historical sales data, machine learning algorithms can help the mini mart predict future demand for specific products and optimize inventory levels accordingly. This can help reduce waste and optimize the mini mart's supply chain.
+##### Inventory optimization
+- By analyzing historical sales data, machine learning algorithms can help the mini mart predict future demand for specific products and optimize inventory levels accordingly. This can help reduce waste and optimize the mini mart's supply chain.
 
-- Price optimization
-Machine learning algorithms can be used to dynamically adjust prices based on factors such as demand, competition, and supply chain costs, helping the mini mart to optimize revenue and profitability.
+##### Price optimization
+- Machine learning algorithms can be used to dynamically adjust prices based on factors such as demand, competition, and supply chain costs, helping the mini mart to optimize revenue and profitability.
 
-- Customer segmentation
-By analyzing customer behavior and demographic data, machine learning algorithms can help the mini mart identify different customer segments and tailor marketing campaigns, promotions, and product offerings to each segment.
+##### Customer segmentation
+- By analyzing customer behavior and demographic data, machine learning algorithms can help the mini mart identify different customer segments and tailor marketing campaigns, promotions, and product offerings to each segment.
 
 #### Data Visualization Tools:
 - Tableau: a popular data visualization tool that allows users to create interactive dashboards, reports, and charts. It can be used to visualize sales data, customer behavior, inventory levels, and other key metrics.
@@ -416,23 +416,23 @@ By analyzing customer behavior and demographic data, machine learning algorithms
 
 #### Libraries:
 
-- jQuery
-A popular JavaScript library that simplifies the process of manipulating the DOM and handling events. It can be used to build interactive and responsive user interfaces.
+##### jQuery
+- A popular JavaScript library that simplifies the process of manipulating the DOM and handling events. It can be used to build interactive and responsive user interfaces.
 
-- Bootstrap
-A front-end framework that provides a set of pre-built HTML, CSS, and JavaScript components. It can be used to create responsive and mobile-first web pages and interfaces.
+##### Bootstrap
+- A front-end framework that provides a set of pre-built HTML, CSS, and JavaScript components. It can be used to create responsive and mobile-first web pages and interfaces.
 
-- Chart.js
-A JavaScript library for creating data visualization charts. It supports a wide range of chart types, including line, bar, pie, and radar charts.
+##### Chart.js
+- A JavaScript library for creating data visualization charts. It supports a wide range of chart types, including line, bar, pie, and radar charts.
 
-- React
-A JavaScript library for building user interfaces. It uses a component-based architecture and provides a way to manage state and handle user events.
+##### React
+- A JavaScript library for building user interfaces. It uses a component-based architecture and provides a way to manage state and handle user events.
 
-- NumPy
-A Python library for working with arrays and matrices. It provides a range of mathematical functions and tools for manipulating data.
+##### NumPy
+- A Python library for working with arrays and matrices. It provides a range of mathematical functions and tools for manipulating data.
 
-- Pandas
-A Python library for working with data sets. It provides tools for reading and writing data to and from different file formats, as well as for cleaning, filtering, and aggregating data.
+##### Pandas
+- A Python library for working with data sets. It provides tools for reading and writing data to and from different file formats, as well as for cleaning, filtering, and aggregating data.
 
 ### Hardware and Software Requirements
 
