@@ -50,13 +50,13 @@ Don't forget to hit the :star: if you like this repo.
     <tr>
     <td>2. DR TARMIZI BIN ADAM </td>
     <td>Lecturer</td>
-    <td></td>
+    <td>Pensyarah Kanan (Senior Lecturer)</td>
     <td>Provides requirements and advices regarding about the software</td>
   </tr>
     <tr>
     <td>3. AUM JEEVAN A/L AUM NIRANGKAR</td>
     <td>Student</td>
-    <td>Undergraduate student</td>
+    <td>Undergraduate Student</td>
     <td>Recommended us softwares needed to be used for our project and gave us ideas on developing an ideal project</td>
   </tr>
 </table>
@@ -64,7 +64,7 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 09/05/2023 | VINESH A/L VIJAYAKUMAR | Main developer | Contacted stakeholders and booked a meeting | Complete | 
+| 1 | 09/05/2023 | VINESH A/L VIJAYAKUMAR & MUHAMMAD NUR AZHAR BIN MOHD YAZID | Main developer & Requirements Analyst| Contacted stakeholders and booked a meeting | Complete | 
 | 2 | 10/05/2023 | All Members | Project Members | Met our 1st stakeholder | Complete |
 | 3 | 11/05/2023 | All Members | Project Members | Met our 2nd and 3rd stakeholders | Complete |
 | 4 | 11/05/2023 | NAVACHANDER NAVASANTAR | Documentation Specialist | Assign task to project members for proposal| Complete | 
