@@ -59,6 +59,22 @@ A table listing the UML diagrams commonly used in a Software Requirements Specif
 
 These are the key UML diagrams that are often utilized in a Software Requirements Specification document to capture and communicate the requirements and behavior of the system.
 
+If you need a quick reference guide for the UML notation, check one of the following great UML cheat sheets (in no particular order, though the last one is my preferred one):
+
+- [Lou Franco UML Cheatsheet](https://loufranco.com/wp-content/uploads/2012/11/cheatsheet.pdf). To the point. Example diagrams are annotated with the name of the modeling elements used in the example. Class, use case, and sequence diagrams covered.
+- [UML quick reference card](http://deptinfo.unice.fr/twiki/pub/Linfo/CooL3/refUML.pdf). Another 1-page quick reference, great to be printed and kept close to you.
+- [UML Diagrams](http://www.uml-diagrams.org/): Detailed overview of all UML diagrams (including the new features of the latest UML versions). It's more of a reference guide than a cheat sheet, though, since each diagram has its own dedicated page. It is updated to reflect the UML 2.5 version.
+- [Embarcadero's Practical UML guide](https://edn.embarcadero.com/article/31863): Complete coverage of all diagrams. It used to have some UML self-tests, but they don't seem to be working anymore.
+- [UML Notation summary for class diagrams and sequence diagrams](http://umich.edu/~eecs381/handouts/UMLNotationSummary.pdf). Very simple, but I include it as I like the minimal "semantic" description regarding association cardinalities and the distinction between composition and aggregation.
+- [UML reference sheet](https://www.comp.nus.edu.sg/~cs2103/AY1516S2/files/UML%20reference%20sheet.pdf) from the National University of Singapore. It covers all diagrams, some in more detail than others. There are no explanations, so it's more of a notation reminder.
+- [Dzone UML getting started guide](https://dzone.com/refcardz/getting-started-uml). All UML2 diagrams are covered, with some basic explanations for the main notation elements.
+- [Allen Holub's Quick UML reference](https://holub.com/uml/). Lots of examples to help you understand each notation element, including code examples of how some aspects would be expressed in Java for those with a programming background that may find this "mapping" useful to understand the concepts.
+
+Some are quite old, but I still like them, and the main elements of the UML notation have not changed a lot during all these years (except for the interpretation of the includes and extends relationships in use case diagrams; you should be careful with this). As a curiosity, I used to highlight the [Visual Studio UML Reference](http://msdn.microsoft.com/en-us/library/dd409437.aspx), which was rather complete, but after the [UML designer was removed from later versions of Visual Studio](https://devblogs.microsoft.com/devops/uml-designers-have-been-removed-layer-designer-now-supports-live-architectural-analysis/), they ended up removing it.
+
+And if you want to learn more than simple notation details and go deeper into your understanding of your UML language, our [selection of UML books](https://modeling-languages.com/list-uml-books/) may be helpful as well (and you can also play with some [UML tools](https://modeling-languages.com/uml-tools/) I recommend).
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
