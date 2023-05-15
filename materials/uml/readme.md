@@ -18,7 +18,7 @@ Don't forget to hit the :star: if you like this repo.
 The UML diagrams are categorized into **structural diagrams**, **behavioral diagrams**, and also interaction **overview diagrams**. The diagrams are hierarchically classified in the following figure:
 
 <p align="center">
-<img src="/images/uml-diagrams.png"  height="150" />
+<img src="images/uml-diagrams.png"  height="400" />
 </p>
 
 ## 1. Structural Diagrams
