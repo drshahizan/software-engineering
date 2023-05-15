@@ -49,21 +49,21 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provide feedback on usability of system from a lecturer perspective</td>
   </tr>
     <tr>
-    <td>2</td>
-    <td>Staff Faculty Of Computing</td>
-    <td>Office Clerk</td>
+    <td>2 Masnawi bin Miskam</td>
+    <td>Administration</td>
+    <td>Administritative Officer</td>
     <td></td>
   </tr>
     <tr>
     <td>3 Nurul Asyikin Binti Muhamad</td>
-    <td>Senior in Faculty of Computing</td>
+    <td>Student in Faculty of Computing</td>
     <td>3rd Year Student</td>
     <td>Provide feedback on usability of system from a student perspective</td>
   </tr>
   </tr>
     <tr>
     <td>4 Kevin EE</td>
-    <td>Senior in Faculty of Computing</td>
+    <td>Student in Faculty of Computing</td>
     <td>3rd Year Student</td>
     <td>Provide feedback on usability of system from a student perspective</td>
   </tr>
@@ -83,6 +83,8 @@ Don't forget to hit the :star: if you like this repo.
 | 8 | 07/05/2023 | All members | |  Conduct a meeting with the second stakeholder, a third-year student |  Complete | 
 | 9 | 07/05/2023 | Mulyani Binti Saripuddin | QA/Test Engineer | Contact our third stakeholder, another third-year student | Complete | 
 | 10 | 08/05/2023 | All members | | Conduct a meeting with the third stakeholder, another third-year student |  Complete | 
+| 11 | 09/05/2023 | Wan Nur Sofea Binti Mohd Hasbullah | | Contact our fourth stakeholder, an administrative officer | Complete |
+| 12 | 05/05/2023 | All members | | Conduct a meeting with the fourth stakeholder, an administrative officer |  Incomplete | 
  
  
 ## Contribution 🛠️
