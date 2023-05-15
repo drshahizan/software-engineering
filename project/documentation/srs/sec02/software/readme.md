@@ -93,7 +93,7 @@ Don't forget to hit the :star: if you like this repo.
 | 9| 03/05/2023 | Koh Su Xuan and Lee Yik Hong | Quality assurance and User Experience Designer | Create interview notes for review | Incomplete |
 | 10| 12/05/2023 | All Group Members | | SRS Planning | Complete |
 | 11| 14/05/2023 | Tang Yan Qing | Documentation Specialists | Create system documentation | Incomplete |
-| 12| 15/05/2023 | Lee Yik Hong, Koh Su Xuan and Ong Yi Yan | User Experience Designer, Quality assurance and Requirement Analysis | Design User Case | Incomplete |
+| 12| 15/05/2023 | Lee Yik Hong, Koh Su Xuan and Ong Yi Yan | User Experience Designer, Quality assurance and Requirement Analysis | Design User Case | Complete |
 
 
 ## Contribution 🛠️
