@@ -54,7 +54,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>Joseph</td>
     <td>Student</td>
     <td>1st Year student of Faculty of computing</td>
-    <td></td>
+    <td>Provide expectation of the system, and problem faced by public currently</td>
   </tr>
     <tr>
     <td></td>
