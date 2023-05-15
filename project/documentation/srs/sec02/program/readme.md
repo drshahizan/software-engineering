@@ -49,7 +49,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provide feedback on usability of system from a lecturer perspective</td>
   </tr>
     <tr>
-    <td>Masnawi bin Miskam</td>
+    <td>2 Masnawi bin Miskam</td>
     <td>Administration</td>
     <td>Administritative Officer</td>
     <td></td>
