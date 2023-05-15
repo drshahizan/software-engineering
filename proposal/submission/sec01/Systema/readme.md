@@ -249,6 +249,8 @@ Flowchart:
 Block Diagram:  
 <p align="center"><img src="blockdiagram.svg"></p>
 
+<img src="uml.svg">
+
 ### 8. Risks Assessment
 | Potential Risks | Plan / Strategies |
 | ------------- | ------------- |
