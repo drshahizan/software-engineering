@@ -12,6 +12,8 @@ Don't forget to hit the :star: if you like this repo.
 - [UML Tutorial](https://www.javatpoint.com/uml)
 - [UML - Quick Guide](https://www.tutorialspoint.com/uml/uml_quick_guide.htm)
 
+## Use Case
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
