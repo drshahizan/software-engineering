@@ -51,7 +51,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provide an overview of the existing system and the expectation of this system</td>
   </tr>
     <tr>
-    <td>Joseph</td>
+    <td>Ooi Wei Sian</td>
     <td>Student</td>
     <td>1st Year student of Faculty of computing</td>
     <td>Provide expectation of the system, and problem faced by public currently</td>
