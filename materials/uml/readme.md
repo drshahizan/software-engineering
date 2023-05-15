@@ -45,6 +45,8 @@ Interaction diagrams are a subclass of behavioral diagrams that give emphasis to
 - Communication Diagram: It shows the interchange of sequence messages between the objects. It focuses on objects and their relations. It describes the static and dynamic behavior of a system.
 - **[Timing Diagram](https://sparxsystems.com/resources/tutorials/uml2/timing-diagram.html)**: It is a special kind of sequence diagram used to depict the object's behavior over a specific period of time. It governs the change in state and object behavior by showing the time and duration constraints.
 - **[Interaction Overview diagram](https://sparxsystems.com/resources/tutorials/uml2/interaction-overview-diagram.html)**: It is a mixture of activity and sequence diagram that depicts a sequence of actions to simplify the complex interactions into simple interactions.
+- **[Communication Diagrams](https://sparxsystems.com/resources/tutorials/uml2/communication-diagram.html)**:
+Communication diagrams show the network, and sequence, of messages or communications between objects at run-time, during a collaboration instance.
 
 A table listing the UML diagrams commonly used in a Software Requirements Specification (SRS) document, along with a brief description of each diagram:
 
