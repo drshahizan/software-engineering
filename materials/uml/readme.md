@@ -44,9 +44,9 @@ Interaction diagrams are a subclass of behavioral diagrams that give emphasis to
 - **Sequence Diagram**: It shows the interactions between the objects in terms of messages exchanged over time. It delineates in what order and how the object functions are in a system.
 - Communication Diagram: It shows the interchange of sequence messages between the objects. It focuses on objects and their relations. It describes the static and dynamic behavior of a system.
 - **Timing Diagram**: It is a special kind of sequence diagram used to depict the object's behavior over a specific period of time. It governs the change in state and object behavior by showing the time and duration constraints.
-- Interaction Overview diagram: It is a mixture of activity and sequence diagram that depicts a sequence of actions to simplify the complex interactions into simple interactions.
+- **Interaction Overview diagram**: It is a mixture of activity and sequence diagram that depicts a sequence of actions to simplify the complex interactions into simple interactions.
 
-Sure! Here's a table listing the UML diagrams commonly used in a Software Requirements Specification (SRS) document, along with a brief description of each diagram:
+A table listing the UML diagrams commonly used in a Software Requirements Specification (SRS) document, along with a brief description of each diagram:
 
 | Diagram Name | Purpose | Description |
 |----------------------|-----------------|----------------------|
