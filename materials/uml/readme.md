@@ -13,6 +13,8 @@ Don't forget to hit the :star: if you like this repo.
 - [UML - Quick Guide](https://www.tutorialspoint.com/uml/uml_quick_guide.htm)
 
 ## Use Case
+- [UML Use Case Diagram](https://www.javatpoint.com/uml-use-case-diagram)
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
