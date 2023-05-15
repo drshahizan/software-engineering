@@ -75,6 +75,7 @@ Don't forget to hit the :star: if you like this repo.
 | 7 | 18/04/2023 |Nur Farah Adibah Binti Idris, Nur Aleysha Qurratu'aini Binti Mat Salleh, Nadhrah NurSabrina Binti Zulaini|  |  Meeting with stakeholder 1 (En. Hamdan bin Abdul Ghani)|Complete | 
 | 8 | 18/04/2023 | Nur Farah Adibah Binti Idris, Nur Aleysha Qurratu'aini Binti Mat Salleh, Nadhrah NurSabrina Binti Zulaini |  | Meeting with stakeholder 2 (Puan Rosnani bt Katip)|Complete | 
 | 9 | 11/05/2023 | Nur Aleysha Qurratu'aini Binti Mat Salleh |  Quality Assurance Engineer  | Create a use case diagram using draw.io |Complete | 
+| 10 | 11/05/2023 | All members |   | Meeting with Stakeholder 3 (Wan Nur Sofea binti Mohd Hasbullah) |InComplete | 
 
 
 ## Contribution 🛠️
