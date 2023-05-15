@@ -71,6 +71,10 @@ Don't forget to hit the :star: if you like this repo.
 | 3 | 02/05/2023 | Nur Farah Adibah Binti Idris  | Main Developer | Implement software functionality | Incomplete |
 | 4 | 02/05/2023 | Nur Aleysha Qurratu'aini Binti Mat Salleh | Quality Assurance Engineer | Create testing plan and execute tests | Incomplete | 
 | 5 | 02/05/2023 | Nadhrah NurSabrina Binti Zulaini | Assistant Developer | Create system documentation |Incomplete | 
+| 6 | 03/05/2023 | All members |  | Gather information and start writing detailed content for the proposal |Complete | 
+| 7 | 18/04/2023 |Nur Farah Adibah Binti Idris, Nur Aleysha Qurratu'aini Binti Mat Salleh, Nadhrah NurSabrina Binti Zulaini|  |  Meeting with stakeholder 1 (En. Hamdan bin Abdul Ghani)|Complete | 
+| 8 | 18/04/2023 | Nur Farah Adibah Binti Idris, Nur Aleysha Qurratu'aini Binti Mat Salleh, Nadhrah NurSabrina Binti Zulaini | Meeting with stakeholder 2 (Puan Rosnani bt Katip) | |Complete | 
+| 9 | 11/05/2023 | Nur Aleysha Qurratu'aini Binti Mat Salleh |  | Create a use case diagram using draw.io |Complete | 
 
 
 ## Contribution 🛠️
