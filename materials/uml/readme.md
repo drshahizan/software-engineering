@@ -17,6 +17,9 @@ Don't forget to hit the :star: if you like this repo.
 # UML Diagram
 The UML diagrams are categorized into **structural diagrams**, **behavioral diagrams**, and also interaction **overview diagrams**. The diagrams are hierarchically classified in the following figure:
 
+<p align="center">
+<img src="/images/uml-diagrams.png"  height="150" />
+</p>
 
 ## 1. Structural Diagrams
 Structural diagrams depict a static view or structure of a system. It is widely used in the documentation of software architecture. It embraces class diagrams, composite structure diagrams, component diagrams, deployment diagrams, object diagrams, and package diagrams. It presents an outline for the system. It stresses the elements to be present that are to be modeled.
