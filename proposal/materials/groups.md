@@ -25,7 +25,7 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Group | Title | Document |
 | :-----: | ------ | ------ | :------: | 
-| 1 | Allen | KTDI Dewi Kayangan Enterprise Online System |<a href="submission/sec02/Allen" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
+| 1 | Allen | UTM Student Grading System |<a href="submission/sec02/Allen" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
 | 2 | Alpha | College Room Rental System |<a href="submission/sec02/Alpha" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
 | 3 | Beta | Food Ordering System in UTM |<a href="submission/sec02/Beta" ><img src="../../images/task.png" width="24px" height="24px" ></a> |
 | 4 | Engineering | Parcel Delivery Service |<a href="submission/sec02/Engineering" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
