@@ -109,7 +109,7 @@ example of grantt chart based on our project(dates are just example):
 | Deployment    | Deploy online mart to production environment                    | 2023-11-02 | 2023-11-15| 2 weeks  |
 | Deployment    | Create deployment plans, user manuals, and training materials   | 2023-11-02 | 2023-11-15| 2 weeks  |
 -----------------------------------------------------------------------------------------------------------------------
-| Maintenance   | Maintain online mart to ensure it functions as expected          | 2023-11-16 | 2024-05-31| 26 weeks |
+| Maintenance   | Maintain online mart to ensure it functions as expected         | 2023-11-16 | 2024-05-31| 26 weeks |
 | Maintenance   | Create maintenance plans, bug reports, and system documentation | 2023-11-16 | 2024-05-31| 26 weeks |
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -284,79 +284,192 @@ Marketing and Promotion: Budget allocated for marketing activities to promote th
 ### 10. Technical Specifications
 
 #### Data Sources:
-- Student data: including personal information, enrollment records, and academic performance data.
-- Faculty data: including personal information, course schedules, and grading records.
-- Course data: including course schedules, course descriptions, and prerequisites.
+- Product Catalog
+This includes a database of all the products available in the mini mart, including their names, descriptions, prices, and images.
+
+- Inventory Database
+This includes a real-time database of the available stock of each product in the mini mart. The system should update this database whenever a customer places an order, and also whenever new inventory is received.
+
+- Customer Database
+This includes a database of all registered customers, including their names, contact details, shipping addresses, and payment information.
+
+- Order History
+This includes a database of all past orders, including the products ordered, the date and time of the order, the customer details, and the payment and shipping information.
+
+- Payment Gateway
+The system may need to integrate with a payment gateway service to process payments securely and efficiently.
+
+- Delivery Tracking System
+The system may need to integrate with a delivery tracking system to enable customers to track their orders in real-time.
+
+- Analytics Tools
+The system may need to integrate with analytics tools to track customer behavior and preferences, as well as to monitor system performance and identify areas for improvement.
+
+- Security and Compliance Tools
+The system may need to integrate with security and compliance tools to ensure that all transactions and customer data are protected and comply with relevant laws and regulations.
 
 #### Data Schema:
-- The data schema for the grading system would need to include tables for student information, course information, enrollment records, grading records, and other relevant data.
+- The data schema for an online mini mart system would need to include tables for products, customers, orders, order details and payment details. 
+
+- "Products" table, which includes columns for the product ID, name, description, price, image URL, and other relevant information.
+- "Customers" table, which includes columns for the customer ID, name, email address, shipping address, and payment information.
+- "Orders" table, which includes columns for the order ID, customer ID, date and time of the order, and total price.
+- "Order Details" table, which includes columns for the order ID, product ID, quantity ordered, and price per unit.
+- "Payments" table, which includes columns for the payment ID, order ID, payment amount, payment method, and date and time of the payment.
+
+The schema can be designed and implemented using a database management system, such as MySQL or PostgreSQL, and can be accessed and manipulated using programming languages such as PHP or Python.
+
 
 #### Data Transformations:
-- Data transformations may be necessary to ensure the data is clean, consistent, and in the appropriate format for analysis. For example, data may need to be transformed to ensure it is compatible with the database management system being used.
+Data transformation refers to the process of converting data from one format, structure, or representation to another format, structure, or representation. In the context of developing KTDI Dewi Kayangan Enterprise Online System, data transformation may be necessary to:
 
+1. Convert data from the mini mart's existing systems or databases into a format that is compatible with the new online system.
+
+2. Standardize and normalize data to ensure that it is consistent and accurate across all parts of the system.
+
+3. Aggregate and summarize data to generate reports, analytics, or other insights that can help the mini mart make informed business decisions.
+
+4. Extract and transform data from external sources, such as social media or web analytics tools, to supplement the mini mart's internal data.
+
+5. Convert data into a format that is suitable for use in machine learning algorithms or other advanced analytics techniques.
+
+Other than that, examples of data transformation that are planned to do are:
+
+- Cleaning and formatting customer data from multiple sources to ensure that all records use a consistent format for names, addresses, and other key fields.
+
+- Merging and consolidating sales data from different stores or locations to create a single view of overall sales performance.
+
+- Calculating summary statistics, such as total revenue or average order value, from order data to generate business reports or dashboards.
+
+- Combining product data with external data sources, such as weather or demographic data, to identify patterns or correlations that can help the mini mart optimize its product offerings and promotions.
+
+- Data transformation can be performed using a variety of tools and techniques, including ETL (extract, transform, load) processes, scripting languages like Python or Ruby, or specialized data transformation software.
 #### Machine Learning Algorithms:
-- Machine learning algorithms can be used to analyze student data and identify patterns and trends. For example, clustering algorithms could be used to group students based on their academic performance, while regression algorithms could be used to predict future grades.
+
+- Product recommendations
+By analyzing customer purchase histories, browsing behavior, and other data, machine learning algorithms can generate personalized product recommendations to help customers discover new items that they might be interested in.
+
+- Fraud detection
+Machine learning algorithms can be used to detect fraudulent transactions or suspicious behavior, such as repeated attempts to use the same credit card or purchase large quantities of the same product.
+
+- Inventory optimization
+By analyzing historical sales data, machine learning algorithms can help the mini mart predict future demand for specific products and optimize inventory levels accordingly. This can help reduce waste and optimize the mini mart's supply chain.
+
+- Price optimization
+Machine learning algorithms can be used to dynamically adjust prices based on factors such as demand, competition, and supply chain costs, helping the mini mart to optimize revenue and profitability.
+
+- Customer segmentation
+By analyzing customer behavior and demographic data, machine learning algorithms can help the mini mart identify different customer segments and tailor marketing campaigns, promotions, and product offerings to each segment.
 
 #### Data Visualization Tools:
-- Data visualization tools can be used to display grading data in a visually appealing and easily understandable format. For example, graphs and charts could be used to show the distribution of grades for a particular course or to compare the performance of different students.
+- Tableau: a popular data visualization tool that allows users to create interactive dashboards, reports, and charts. It can be used to visualize sales data, customer behavior, inventory levels, and other key metrics.
+
+- Power BI: a data analytics and visualization tool developed by Microsoft. It can be used to create interactive reports, charts, and dashboards that can help users gain insights into their business data.
+
+- Google Data Studio: a free data visualization tool that allows users to create custom dashboards and reports. It can be used to visualize data from a variety of sources, including Google Analytics, Google Sheets, and other data sources.
+
+- D3.js: a JavaScript library that can be used to create interactive and dynamic data visualizations, including charts, graphs, and maps. It can be used to create custom data visualizations that are tailored to the mini mart's specific needs.
+
+- Plotly: a web-based data visualization and analytics tool that allows users to create interactive charts, graphs, and dashboards. It can be used to visualize sales data, customer behavior, and other key metrics.
 
 #### Other Technical Details:
 
-- Database Management System (DBMS): a robust database management system would be required to store and manage student and grading data.
-- Web Development Framework: a web development framework would be used to build the front-end of the grading system.
-- Server Infrastructure: a robust server infrastructure would be required to host the grading system and ensure it can handle large volumes of traffic.
-- Security Measures: robust security measures would need to be in place to protect the system from cyber threats and ensure student data remains secure.
+- Frontend development: The frontend of the mini mart online system is responsible for presenting the user interface that customers will interact with. This includes the design and layout of the website, as well as any interactive elements such as product search, shopping cart functionality, and checkout.
+
+- Backend development: The backend of the mini mart online system is responsible for managing data storage, processing orders, and managing inventory. This includes creating a secure and scalable server infrastructure, managing databases, and integrating with third-party systems such as payment gateways and shipping providers.
+
+- Security: The mini mart online system will need to implement security measures to protect sensitive customer data, such as payment information and personal details. This includes implementing encryption, firewalls, and other security protocols to prevent unauthorized access to customer data.
+
+- Performance: The mini mart online system will need to be optimized for performance to ensure fast page load times and smooth user experiences. This includes optimizing website code, compressing images, and using caching and other techniques to improve page load times.
+
+- Testing and quality assurance: The mini mart online system will need to undergo extensive testing and quality assurance to ensure that it is free of bugs and performs as expected. This includes unit testing, integration testing, and user acceptance testing to ensure that the system meets the requirements and is easy to use.
+
+- Maintenance and support: The mini mart online system will require ongoing maintenance and support to ensure that it remains secure, up-to-date, and free of bugs. This includes regular software updates, security patches, and technical support for customers.
 
 ### Programming languages, Frameworks, and Libraries
 
 #### Programming Languages:
-- Java: Java is a widely used language with a large developer community and many resources available for learning and development. It is also well-suited for building robust and scalable systems.
-- Python: Python is a versatile language that is well-suited for data analysis and machine learning. It also has a large number of libraries available for data manipulation, analysis, and visualization.
-- PHP: PHP is a popular language for web development, and is often used in conjunction with databases to create dynamic and interactive websites.
-#### Frameworks:
-- Spring: Spring is a Java-based framework that provides a comprehensive platform for building robust and scalable web applications. It includes features such as dependency injection, data access, and web services.
-- Django: Django is a Python-based web framework that is well-suited for building data-driven applications. It includes features such as an ORM, templating engine, and built-in admin interface.
-- Laravel: Laravel is a PHP-based web framework that provides a comprehensive set of tools and features for building web applications.
-#### Libraries:
-- Pandas: Pandas is a Python library that provides data manipulation and analysis tools, including data structures for working with tabular data, time series, and more.
-- Scikit-learn: Scikit-learn is a Python library for machine learning, providing tools for classification, regression, clustering, and more.
-- Chart.js: Chart.js is a JavaScript library for creating interactive and customizable charts and graphs.
 
+- JavaScript: a popular programming language for web development, and is often used to create interactive web interfaces, such as dropdown menus, shopping carts, and forms.
+
+- PHP: a server-side scripting language that is commonly used for web development. It is often used to create dynamic web pages and database-driven applications.
+
+- Python: a versatile programming language that can be used for a variety of tasks, including web development. It is often used for backend development and data processing.
+
+- Ruby: a dynamic, object-oriented programming language that is often used for web development. It is often used with the Ruby on Rails web application framework.
+
+- Java: a popular programming language for web development, particularly for enterprise applications. It is often used with the Spring Framework and other Java-based web development frameworks.
+
+- TypeScript: a superset of JavaScript that adds additional features, such as static typing, to improve code maintainability and scalability.
+
+#### Frameworks:
+
+- Django: a high-level Python web framework that follows the model-view-controller (MVC) architectural pattern. It includes a built-in admin panel, user authentication, and a powerful ORM for working with databases.
+
+- Ruby on Rails: a popular web framework for building database-driven web applications. It emphasizes convention over configuration and uses the Model-View-Controller (MVC) architecture.
+
+- Laravel: a PHP web framework that follows the Model-View-Controller (MVC) architectural pattern. It includes a built-in ORM for working with databases, as well as tools for user authentication and authorization.
+
+- Express.js: a popular Node.js web framework that is designed for building web applications and APIs. It is known for its simplicity and flexibility.
+
+- Spring: a popular Java-based web framework that is used for building enterprise-level web applications. It includes a number of tools and modules for working with databases, security, and messaging.
+
+#### Libraries:
+
+- jQuery
+A popular JavaScript library that simplifies the process of manipulating the DOM and handling events. It can be used to build interactive and responsive user interfaces.
+
+- Bootstrap
+A front-end framework that provides a set of pre-built HTML, CSS, and JavaScript components. It can be used to create responsive and mobile-first web pages and interfaces.
+
+- Chart.js
+A JavaScript library for creating data visualization charts. It supports a wide range of chart types, including line, bar, pie, and radar charts.
+
+- React
+A JavaScript library for building user interfaces. It uses a component-based architecture and provides a way to manage state and handle user events.
+
+- NumPy
+A Python library for working with arrays and matrices. It provides a range of mathematical functions and tools for manipulating data.
+
+- Pandas
+A Python library for working with data sets. It provides tools for reading and writing data to and from different file formats, as well as for cleaning, filtering, and aggregating data.
 
 ### Hardware and Software Requirements
 
 #### Hardware Requirements:
 
-- A server or a cluster of servers with adequate processing power and memory to handle a large number of concurrent users and perform data processing tasks.
-- Storage devices, such as hard drives or solid-state drives, with enough capacity to store student data, course materials, and other relevant data.
-- Network infrastructure, including routers, switches, and firewalls, to enable communication between the server and client devices.
+- Computer or laptop with at least 8GB of RAM and a multi-core processor (estimated cost: RM 2,000-4,000)
+
+- High-speed internet connection (estimated cost: RM 200-400 per month)
+
+- Server hardware for hosting the website (estimated cost: RM 4,000-20,000)
 #### Software Requirements:
 
-- Operating System: The server should run on a stable and secure operating system, such as Linux or Windows Server.
-- Database Management System (DBMS): A reliable and scalable database management system, such as MySQL or PostgreSQL, is required to store and manage student and grading data.
-- Web Server: A web server, such as Apache or Nginx, is required to host the online grading system and serve web pages to clients.
-- Programming Language and Framework: The choice of programming language and web development framework will depend on the specific needs and requirements of the project.
-- Data Analysis Tools: If the system includes data analysis and machine learning capabilities, appropriate tools and libraries, such as Pandas and Scikit-learn, should be installed.
-- Data Visualization Tools: Appropriate data visualization tools, such as Chart.js, should be installed to display grading data in a visually appealing and easily understandable format.
+- Operating system: Windows, macOS, or Linux (estimated cost: RM 0-800)
 
+- Integrated Development Environment (IDE) for coding, such as Visual Studio Code or Eclipse (estimated cost: RM 0)
+
+- Server software, such as Apache or Nginx (estimated cost: RM 0-800)
+
+- Database management system, such as MySQL or PostgreSQL (estimated cost: RM 0)
+
+- Programming languages and frameworks (estimated cost: RM 0)
 
 ### Data Security Measures
 
-- Encryption: All sensitive data should be encrypted both in transit and at rest. This means that data should be encrypted while it is being transmitted between the client and server, and also while it is stored in the database. Encryption helps to protect data from unauthorized access and theft.
+- Encryption: All sensitive data, such as customer information and payment details, should be encrypted both during transmission and while stored in the database.
 
-- Access Controls: Access controls should be implemented to restrict access to student data only to authorized personnel. This includes implementing role-based access controls (RBAC), where users are granted access to only the data that they need to perform their job functions. Strong password policies should also be implemented to prevent unauthorized access.
+- Access control: Access to the system and its data should be restricted to authorized personnel only, using authentication mechanisms such as passwords or two-factor authentication.
 
-- Secure Communication: All communication between the client and server should be conducted over secure channels, such as HTTPS, to prevent data interception and tampering.
+- Data backups: Regular backups of the data should be taken and stored securely to protect against data loss due to hardware failure or cyber attacks.
 
-- Regular Data Backups: Regular backups should be taken of the student data and stored in secure locations to ensure that data is not lost in case of a system failure or data corruption.
+- Firewalls: A firewall can be implemented to protect against unauthorized access to the system from external networks.
 
-- System Monitoring: The system should be monitored regularly to detect any security breaches or unusual activity. This includes implementing intrusion detection systems, logging and auditing, and other monitoring tools to detect and respond to security threats.
+- Security patches: Regular updates and patches to the operating system, server software, and other components of the system should be applied to protect against known vulnerabilities.
 
-- Regular Software Updates: Regular software updates should be performed to address any security vulnerabilities or bugs that may be present in the system.
+- Monitoring and logging: The system should be monitored for any suspicious activity and logs should be kept to track access and changes to the system and data.
 
-- Employee Training: All employees who have access to student data should be trained on data security best practices, including password hygiene, secure communication, and access control.
-
-By implementing these data security measures, the online grading system can ensure that student data is protected from unauthorized access, theft, and misuse.
+- Regular security audits: Regular security audits can help identify any potential vulnerabilities in the system and address them proactively.
 
 
 
@@ -404,9 +517,18 @@ By implementing these data security measures, the online grading system can ensu
 </ul>
 
 ### 12. Conclusion:
-- The UTM Online Grading System is a much-needed solution to the challenges of the current manual grading system. By implementing an online platform, UTM can automate its grading processes, streamline communication between teachers and students, and enhance the overall learning experience. This proposed solution aligns with the university's goal of providing a modern and innovative education experience for its students.
 
-- We understand that implementing such a system may come with some challenges, including resistance to change and technical difficulties. However, we are confident in our ability to deliver a high-quality system within the proposed timeline and budget.
+Developing an online system for KTDI mini mart, which are Dewi Kayangan Enterprise can provide many benefits for both the business owner and the customers. The conclusion that can be made are:
 
-- We urge the stakeholders to approve this proposal and take action towards the implementation of the UTM Online Grading System. With this system in place, UTM will enjoy improved efficiency, increased accuracy, and enhanced transparency in grading processes. We believe that this project will have a significant positive impact on the university, its teachers, and students.
+- Increased convenience: An online mini mart system allows customers to purchase items from the comfort of their own home, making the shopping experience more convenient and accessible.
+
+- Increased sales: With an online presence, the mini mart can reach a larger audience and potentially increase sales.
+
+- Efficient inventory management: An online system can help the mini mart to manage its inventory more efficiently, keeping track of stock levels and ensuring that popular items are always in stock.
+
+- Data analysis and insights: The data collected by the online system can provide valuable insights into customer behavior, sales trends, and inventory management, allowing the mini mart to make informed decisions about its operations.
+
+- Improved customer experience: An online system can provide a more personalized and tailored shopping experience, with features such as recommended products, personalized offers, and easy payment options.
+
+Last but not least, developing an online system for KTDI mini mart can provide many benefits, including increased convenience, sales, efficiency, data insights, and customer experience. However, it requires careful planning and implementation to ensure that the system is secure, user-friendly, and meets the specific needs of the business and its customers.
 
