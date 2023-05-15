@@ -44,18 +44,18 @@ Interaction diagrams are a subclass of behavioral diagrams that give emphasis to
 - **Sequence Diagram**: It shows the interactions between the objects in terms of messages exchanged over time. It delineates in what order and how the object functions are in a system.
 - Communication Diagram: It shows the interchange of sequence messages between the objects. It focuses on objects and their relations. It describes the static and dynamic behavior of a system.
 - **Timing Diagram**: It is a special kind of sequence diagram used to depict the object's behavior over a specific period of time. It governs the change in state and object behavior by showing the time and duration constraints.
-- Interaction Overview diagram: It is a mixture of activity and sequence diagram that depicts a sequence of actions to simplify the complex interactions into simple interactions.
+- **Interaction Overview diagram**: It is a mixture of activity and sequence diagram that depicts a sequence of actions to simplify the complex interactions into simple interactions.
 
-Sure! Here's a table listing the UML diagrams commonly used in a Software Requirements Specification (SRS) document, along with a brief description of each diagram:
+A table listing the UML diagrams commonly used in a Software Requirements Specification (SRS) document, along with a brief description of each diagram:
 
 | Diagram Name | Purpose | Description |
 |----------------------|-----------------|----------------------|
-| Use Case Diagram     | Illustrates the system's functionalities and user interactions.  | Represents the different actors (users, external systems) and their interactions with the system, focusing on the system's use cases and requirements. |
-| Class Diagram        | Describes the structure and relationships of classes in the system.  | Represents the classes, their attributes, methods, and relationships, providing an overview of the system's data and behavior.                      |
-| Sequence Diagram     | Demonstrates the sequence of interactions between objects or system components.  | Depicts the flow of messages or method calls between objects, showing the order of interactions and the resulting behavior.                        |
-| Activity Diagram     | Illustrates the flow of activities or processes within the system.  | Represents the high-level activities, actions, and decision points in a system, providing a visual representation of the system's workflow.         |
-| State Machine Diagram | Represents the different states and transitions of a system or an object.  | Illustrates the behavior of an object or system by showing the states it can be in and the events that trigger state transitions.                     |
-| Communication Diagram | Demonstrates the interactions and relationships between objects or system components.  | Depicts the objects or components involved in a particular scenario and the messages exchanged between them.                                      |
+| [Use Case Diagram](https://www.javatpoint.com/uml-use-case-diagram)| Illustrates the system's functionalities and user interactions.  | Represents the different actors (users, external systems) and their interactions with the system, focusing on the system's use cases and requirements. |
+| [Class Diagram](https://www.javatpoint.com/uml-class-diagram)| Describes the structure and relationships of classes in the system.  | Represents the classes, their attributes, methods, and relationships, providing an overview of the system's data and behavior.|
+| [Sequence Diagram](https://www.javatpoint.com/uml-sequence-diagram) | Demonstrates the sequence of interactions between objects or system components.  | Depicts the flow of messages or method calls between objects, showing the order of interactions and the resulting behavior. |
+| [Activity Diagram](https://www.javatpoint.com/uml-activity-diagram) | Illustrates the flow of activities or processes within the system.  | Represents the high-level activities, actions, and decision points in a system, providing a visual representation of the system's workflow. |
+| [State Machine Diagram](https://www.javatpoint.com/uml-state-machine-diagram) | Represents the different states and transitions of a system or an object.  | Illustrates the behavior of an object or system by showing the states it can be in and the events that trigger state transitions. |
+| Communication Diagram | Demonstrates the interactions and relationships between objects or system components.  | Depicts the objects or components involved in a particular scenario and the messages exchanged between them. |
 
 These are the key UML diagrams that are often utilized in a Software Requirements Specification document to capture and communicate the requirements and behavior of the system.
 

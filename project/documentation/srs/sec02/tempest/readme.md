@@ -72,7 +72,7 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/01/2023| Luqman Hakim | Main Developer | Create project plan | Complete |
+| 1 | 17/04/2023| Luqman Hakim | Main Developer | Create project plan | Complete |
 | 2| 04/4/2023|Luqman, Anas, Danial, Kugen |Main Developer,Assistant Developer, UI/UX Designer, Scrum Master |Project Discussion| Complete |
 | 3| 17/04/2023| Luqman Hakim|Main Developer |Find and Identify stakeholder | Complete |
 | 4| 02/05/2023|Danial | Assistant Developer|Preparation of interview questions | Complete|
