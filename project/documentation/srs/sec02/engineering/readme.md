@@ -83,7 +83,7 @@ One Stop Parcel Center & Cengal Parcel Point
 | 6| 27/04/2023|Erina|Project Manager|Prepare questions |Complete|
 | 7| 02/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Had meeting with stackholder |Complete|
 | 8| 03/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Update project planning |Complete|
-
+| 9| 13/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Had meeting with stackholder |Complete|
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

@@ -51,15 +51,15 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provide an overview of the existing system and the expectation of this system</td>
   </tr>
     <tr>
-    <td></td>
-    <td>Lecturer</td>
-    <td></td>
-    <td></td>
-  </tr>
-    <tr>
     <td>Joseph</td>
     <td>Student</td>
     <td>1st Year student of Faculty of computing</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td>Lecturer</td>
+    <td></td>
     <td></td>
   </tr>
 </table>
@@ -72,11 +72,13 @@ Don't forget to hit the :star: if you like this repo.
 | 2 | 24/04/2023 | Goh Jing Yang, Loo Jia Chang | UI/ UX Designer, Main Developer | Gather user requirements | Complete |
 | 3 | 28/04/2023 | Chen Pyng Haw | Documentation Specialist | Create proposal | Complete |
 | 4 | 7/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Meeting with stakeholder 1,  PROF. TS. DR. WAN MOHD NASIR WAN NADIR | Complete |
-| 5 | 11/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Meeting with stakeholder 2, Joseph | Pending |
+| 5 | 11/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Meeting with stakeholder 2, Ooi Wei Sian | Completed |
 | 6 | 12/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | SRS Documentation draf | Pending |
+| 7 | 14/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | UML diagram (actor, use case, sequence, activity diagram | Pending |
+| 8 | 19/05/2023 |  |  | Create system documentation | Incomplete |
+| 9 | 23/05/2023 |  |  | Discussion and assign task for system features part based on user case design | Incomplete |
+| 10 | 22/06/2023 |  |  | Create Software Maintanence Document | Incomplete |
 
-| | | | | | 
-| | | | | | 
 
 
 ## Contribution 🛠️
