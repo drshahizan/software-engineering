@@ -50,12 +50,12 @@ Sure! Here's a table listing the UML diagrams commonly used in a Software Requir
 
 | Diagram Name | Purpose | Description |
 |----------------------|-----------------|----------------------|
-| Use Case Diagram     | Illustrates the system's functionalities and user interactions.  | Represents the different actors (users, external systems) and their interactions with the system, focusing on the system's use cases and requirements. |
-| Class Diagram        | Describes the structure and relationships of classes in the system.  | Represents the classes, their attributes, methods, and relationships, providing an overview of the system's data and behavior.                      |
-| Sequence Diagram     | Demonstrates the sequence of interactions between objects or system components.  | Depicts the flow of messages or method calls between objects, showing the order of interactions and the resulting behavior.                        |
-| Activity Diagram     | Illustrates the flow of activities or processes within the system.  | Represents the high-level activities, actions, and decision points in a system, providing a visual representation of the system's workflow.         |
-| State Machine Diagram | Represents the different states and transitions of a system or an object.  | Illustrates the behavior of an object or system by showing the states it can be in and the events that trigger state transitions.                     |
-| Communication Diagram | Demonstrates the interactions and relationships between objects or system components.  | Depicts the objects or components involved in a particular scenario and the messages exchanged between them.                                      |
+| [Use Case Diagram](https://www.javatpoint.com/uml-use-case-diagram)| Illustrates the system's functionalities and user interactions.  | Represents the different actors (users, external systems) and their interactions with the system, focusing on the system's use cases and requirements. |
+| [Class Diagram](https://www.javatpoint.com/uml-class-diagram)| Describes the structure and relationships of classes in the system.  | Represents the classes, their attributes, methods, and relationships, providing an overview of the system's data and behavior.|
+| [Sequence Diagram](https://www.javatpoint.com/uml-sequence-diagram) | Demonstrates the sequence of interactions between objects or system components.  | Depicts the flow of messages or method calls between objects, showing the order of interactions and the resulting behavior. |
+| [Activity Diagram](https://www.javatpoint.com/uml-activity-diagram) | Illustrates the flow of activities or processes within the system.  | Represents the high-level activities, actions, and decision points in a system, providing a visual representation of the system's workflow. |
+| [State Machine Diagram](https://www.javatpoint.com/uml-state-machine-diagram) | Represents the different states and transitions of a system or an object.  | Illustrates the behavior of an object or system by showing the states it can be in and the events that trigger state transitions. |
+| [Communication Diagram]() | Demonstrates the interactions and relationships between objects or system components.  | Depicts the objects or components involved in a particular scenario and the messages exchanged between them. |
 
 These are the key UML diagrams that are often utilized in a Software Requirements Specification document to capture and communicate the requirements and behavior of the system.
 
