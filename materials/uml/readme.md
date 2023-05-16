@@ -64,6 +64,7 @@ If you need a quick reference guide for the UML notation, check one of the follo
 - [Allen Holub's Quick UML reference](https://holub.com/uml/). Lots of examples to help you understand each notation element, including code examples of how some aspects would be expressed in Java for those with a programming background that may find this "mapping" useful to understand the concepts.
 
 ## [UML tools](uml.md)
+Draw.io is a web-based diagramming tool that allows users to create various types of diagrams, such as flowcharts, network diagrams, and UML diagrams, using a drag-and-drop interface. It offers a wide range of shapes, icons, and formatting options to help users create professional-looking diagrams quickly and easily. On the other hand, PlantUML is a text-based diagramming tool that uses a simple and intuitive language to create UML diagrams, sequence diagrams, and other types of diagrams. PlantUML is ideal for software developers who prefer to write code to create diagrams, rather than using a visual interface.
 
 ## Useful links
 - [UML Tutorial](https://www.javatpoint.com/uml)
