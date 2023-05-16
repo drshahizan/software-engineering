@@ -90,9 +90,9 @@ Don't forget to hit the :star: if you like this repo.
 | 5 | 24/04/2023 | Neo Zheng Weng | Designer | Design the system architecture | Complete |
 | 6 | 3/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | Second meeting with KTDI Assistant Administrative Officer | Complete |
 | 7 | 5/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | SRS documentation | Partially Complete |
-| 8 | 9/05/2023 | Neo Zheng Weng | Designer | Design the use case diagram | Complete(Interim) |
+| 8 | 9/05/2023 | Neo Zheng Weng, Nicholas | Designer, Developer Assistant | Design the use case diagram | Complete(Interim) |
 | 9 | 11/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas,Muhammad Danial, Low Jie Sheng | Group members | Meet with KTDI fellow | Partially Complete |
-| 10 | 13/05/2023 | Low Jie Sheng | Developer Assistance | Design the activity diagram | Complete(Interim) |
+| 10 | 13/05/2023 | Low Jie Sheng, Danial | Developer Assistances | Design the activity diagram | Complete(Interim) |
 | 11 | 14/05/2023 | Joseph Lau Yeo Kai | Main Developer | Design the sequence diagram | Complete(Interim) |
 | 12 | 
 
