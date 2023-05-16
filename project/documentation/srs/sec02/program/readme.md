@@ -46,19 +46,19 @@ Don't forget to hit the :star: if you like this repo.
     <td>1 Dr. Nor Azizah Ali</td>
     <td>Academic Advisor</td>
     <td>Lecturer</td>
-    <td>Provide feedback on usability of system from a lecturer perspective</td>
+    <td>Provide feedback on usability of system from a lecturer perspective, suggest new features for lecturer use</td>
   </tr>
     <tr>
     <td>2 Masnawi bin Miskam</td>
     <td>Administration</td>
     <td>Administritative Officer</td>
-    <td>Provide feedback on usability of system from an administrator perspective </td>
+    <td>Provide feedback on usability of system from an administrator perspective, share the required information in students' profile stored by administration</td>
   </tr>
     <tr>
     <td>3 Nurul Asyikin Binti Muhamad</td>
     <td>Student in Faculty of Computing</td>
     <td>3rd Year Student</td>
-    <td>Provide feedback on usability of system from a student perspective</td>
+    <td>Provide feedback on usability of system from a student perspective, suggest additional features benefits to students</td>
   </tr>
   </tr>
     <tr>
