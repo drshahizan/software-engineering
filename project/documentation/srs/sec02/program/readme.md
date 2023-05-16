@@ -52,7 +52,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>2 Masnawi bin Miskam</td>
     <td>Administration</td>
     <td>Administritative Officer</td>
-    <td></td>
+    <td>Provide feedback on usability of system from an administrator perspective </td>
   </tr>
     <tr>
     <td>3 Nurul Asyikin Binti Muhamad</td>
@@ -84,7 +84,7 @@ Don't forget to hit the :star: if you like this repo.
 | 9 | 07/05/2023 | Mulyani Binti Saripuddin | QA/Test Engineer | Contact our third stakeholder, another third-year student | Complete | 
 | 10 | 08/05/2023 | All members | | Conduct a meeting with the third stakeholder, another third-year student |  Complete | 
 | 11 | 09/05/2023 | Wan Nur Sofea Binti Mohd Hasbullah | | Contact our fourth stakeholder, an administrative officer | Complete |
-| 12 | 05/05/2023 | All members | | Conduct a meeting with the fourth stakeholder, an administrative officer |  Incomplete | 
+| 12 | 15/05/2023 | All members | | Conduct a meeting with the fourth stakeholder, an administrative officer |  Complete | 
  
  
 ## Contribution 🛠️
