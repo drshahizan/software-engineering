@@ -70,7 +70,7 @@ Draw.io is a web-based diagramming tool that allows users to create various type
 - [UML Tutorial](https://www.javatpoint.com/uml)
 - [UML - Quick Guide](https://www.tutorialspoint.com/uml/uml_quick_guide.htm)
 - [Learn 14 types of UML diagrams in one article](https://www.cybermedian.com/learn-14-types-of-uml-diagrams-in-one-article/)
-
+- [What is Unified Modeling Language (UML)?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
