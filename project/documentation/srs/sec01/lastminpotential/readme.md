@@ -52,8 +52,8 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
     <tr>
     <td>Ooi Wei Sian</td>
-    <td>Student</td>
-    <td>1st Year student of Faculty of computing</td>
+    <td>Public User</td>
+    <td>Student of Faculty of computing</td>
     <td>Provide expectation of the system, and problem faced by public currently</td>
   </tr>
     <tr>
