@@ -7,13 +7,6 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-- [UML Tutorial](https://www.javatpoint.com/uml)
-- [UML - Quick Guide](https://www.tutorialspoint.com/uml/uml_quick_guide.htm)
-
-## Use Case
-- [UML Use Case Diagram](https://www.javatpoint.com/uml-use-case-diagram)
-
-
 # UML Diagram
 The UML diagrams are categorized into **structural diagrams**, **behavioral diagrams**, and also interaction **overview diagrams**. The diagrams are hierarchically classified in the following figure:
 
@@ -70,9 +63,10 @@ If you need a quick reference guide for the UML notation, check one of the follo
 - [Dzone UML getting started guide](https://dzone.com/refcardz/getting-started-uml). All UML2 diagrams are covered, with some basic explanations for the main notation elements.
 - [Allen Holub's Quick UML reference](https://holub.com/uml/). Lots of examples to help you understand each notation element, including code examples of how some aspects would be expressed in Java for those with a programming background that may find this "mapping" useful to understand the concepts.
 
-Some are quite old, but I still like them, and the main elements of the UML notation have not changed a lot during all these years (except for the interpretation of the includes and extends relationships in use case diagrams; you should be careful with this). As a curiosity, I used to highlight the [Visual Studio UML Reference](http://msdn.microsoft.com/en-us/library/dd409437.aspx), which was rather complete, but after the [UML designer was removed from later versions of Visual Studio](https://devblogs.microsoft.com/devops/uml-designers-have-been-removed-layer-designer-now-supports-live-architectural-analysis/), they ended up removing it.
-
-And if you want to learn more than simple notation details and go deeper into your understanding of your UML language, our [selection of UML books](https://modeling-languages.com/list-uml-books/) may be helpful as well (and you can also play with some [UML tools](https://modeling-languages.com/uml-tools/) I recommend).
+## Useful links
+- [UML Tutorial](https://www.javatpoint.com/uml)
+- [UML - Quick Guide](https://www.tutorialspoint.com/uml/uml_quick_guide.htm)
+- [Learn 14 types of UML diagrams in one article](https://www.cybermedian.com/learn-14-types-of-uml-diagrams-in-one-article/)
 
 
 ## Contribution 🛠️
