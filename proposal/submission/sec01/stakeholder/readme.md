@@ -142,7 +142,7 @@ The scope refers to the boundaries of the project and outlines the features and 
 
 - Agile methodology: <br>Agile methodology is used for the software process model in the system development due to its flexibility in updating the stakeholders' requirements and sastification. Modification will be done several times until the best system is developed. 
   
-- The system will be limited to Kolej Tun Dr Ismail (KTDI) only and the decision phase of the final result on room application will be done by the AIMS system of UTM.
+- The system will be limited to Kolej Tun Dr Ismail (KTDI) only and the decision phase of the final result on room application will be done by the AIMS system of UTM. Also, the data privacy and security of the users maybe a concern as our proposed system will not cover it.
 
 ---
 
@@ -388,25 +388,30 @@ IV. Other Expenses:<br>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2">1st Month</td>
-      <td>Establishment of collaboration with the stakeholders and IT department(1 week)</td>
+      <td rowspan="3">1st Month</td>
+      <td>Define scope, stakeholders and project plan(1 week)</td>
+      <td>Project proposal and ghant chart</td>
+      <td>Project manager, developer team</td>
+    </tr>
+    <tr>
+      <td>Establishment of collaboration with the stakeholders(1 week)</td>
       <td>Having online interviewing session and face-to-face interviewing session with stakeholders: KTDI staff, resident and the other stakeholders.</td>
-      <td>Project manager, software engineer, stakeholder</td>
+      <td>Project manager, developer team, stakeholder</td>
     </tr>
     <tr>
       <td>Development of KTDI housing system prototype(4 weeks)</td>
       <td>User guide and training materials, automated housing allocation system prototype.</td>
-      <td>Project manager, software engineer, testing/debugging team, project budget.</td>
+      <td>Project manager, developer team, quality assurance team, project budget.</td>
     </tr>
   <tr>
   <td rowspan="2">2nd Month</td>
   <td>Implementation of the KTDI housing system(1 week)</td>
   <td>Fully developed housing system, project progress report.</td>
-  <td>Project manager, software engineer, project budget.</td>
+  <td>Project manager, developer team, project budget.</td>
   <tr>
   <td>Maintenance tracking phase(4 weeks)</td>
   <td>Client bug report system, project progress report</td>
-  <td>Project manager, stackholder, software engineer, project budget </td>
+  <td>Project manager, stackholder, developer team, project budget </td>
   </tr>
   
 <tr>
@@ -438,11 +443,11 @@ IV. Other Expenses:<br>
 
 ### 12. Conclusion
 
-In conclusion, the suggested Student Accommodation System is a crucial remedy for Kolej Tun Dr Ismail (KTDI) staff and student problems in handling student housing. The technology intends to improve data analytics, automate processes, streamline the room allocation process, and give students a better user experience. The suggested technique has the advantages of better student satisfaction, enhanced staff productivity, and an overall more dependable and effective system.
+In conclusion, the proposed Student Accommodation System is a crucial solution to the challenges faced by Kolej Tun Dr Ismail (KTDI) in managing student housing. The system aims to improve data analysis, automate processes, give flexibility for students selecting their room, and provide a better user experience for students. The proposed system offers benefits such as increased student satisfaction, improved staff productivity, and a more reliable and efficient system.
 
-However, issues like data privacy worries and system integration may arise throughout the system's development. Despite these difficulties, the system's advantages exceed these drawbacks, thus we advise the customer to accept the proposal and move forward with the project.
+During the development of the system, challenges may arise, such as data privacy concerns and system integration issues. However, we believe that the benefits of the system outweigh the challenges, and we will work together as a team to produce system that will help KTDI staffs reducing their workload.
 
-We implore KTDI decision-makers to act and invest in this system to give a more practical and simplified method of managing housing, fostering academic performance and a student's general well-being. The Student Accommodation System will help KTDI maintain its position as a leader in higher education while enhancing the university's standing. In order to enhance both the student experience and the operations of the institution, we are eager to collaborate with KTDI to design and deploy this system.
+We encourage KTDI decision-makers to invest in this system to provide a more practical and efficient way of managing student housing, promoting academic success and overall well-being. The Student Accommodation System will help KTDI maintain its position as a leading accommodation college in UTM while improving the university's reputation. We look forward to working with KTDI to design and implement this system, enhancing the student experience and improving the operations of the KTDI itself.
 
 
 ## Contribution 🛠️

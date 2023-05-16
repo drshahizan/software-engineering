@@ -10,6 +10,8 @@
   4. Tang Yan Qing A22EC0109
   5. Goh Jiale A22EA0043
 
+<img src="Software member grp photo.jpg" width= 75% height=75%>
+
 ### Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Executive Summary](#1-executive-summary)
@@ -85,27 +87,31 @@ Agile methodology is most suitable for this project because it guarantees short 
 
 
 <div align="justify">
-    <img src="https://user-images.githubusercontent.com/128198038/236096082-51d056d1-9632-4b82-92b3-56aaa06f1566.png" alt="alt text" />
+    <img src="https://user-images.githubusercontent.com/128198038/236139357-9e0a01b8-516e-4881-8f1e-9190ea92fcf0.png" alt="alt text" />
 </div>
 
 #### Gathering Requirements Phase:
 - Find and identify the best stakeholders. For examples, PKU UTM administrative personnel, PKU UTM medical professionals, and UTM students.
 - Determine which features are necessary for Student Health and Wellness Management System and which may be added later by analysing and prioritising the requirements. For instances, health tips, SOS emergency call button, Dental Pre-appointment Form and Online Mental Consultation.
 - Gather requirements from stakeholders by explaning surveys questions, focus populations and interviews.
-- Plan a product backlog with a list of all the features and specifications needed for Student Health and Wellness Management System.  responsible for tracking process from time-to-time
+- Plan a product backlog with a list of all the features and specifications needed for Student Health and Wellness Management System. 
+- Assign tasks and roles to team members followed by determine the required work loads for each roles. The duration of this phase is week 6 to week 9, ONG YI YAN as Requirement Analyst responsible for tracking process from time-to-time.
+- As a result of this phase, the stakeholders are identified, more ideas are generated for the features of the Student Health and Wellness Management System, requirements are gathered, and tasks and roles are assigned.
 
 #### Planning & Design Phase:
 - Examine the features backlog by receiving suggestions from PKU UTM administrative personnel, PKU UTM medical professional, UTM student survey ideas and make decision on which features need to be selected or removed in the following phase.
 - Requirements and features determined will be included in system architecture, database schema, and user interface. 
 - Design a features backlog with the wireframing, prototyping and database design. Stakeholders feedbacks that must be performed during the features, and determine the feature goals for achievements.
-- Assign tasks and roles to team members followed by determine the required work loads for each roles. The duration of this phase is week 6 to week 9, ONG YI YAN as Requirement Analyst responsible for tracking process from time-to-time.
+- The duration of this phase is week 4 to week 6, LEE YIK HONG as User Experience Designer responsible for tracking process from time-to-time.
+- As a result of this phase, the feature backlog can be examined, requirements and features can be determined, features and databases can be designed,and feature goals can be identified.
 
 #### Sprint Development Phase:
 - Create the features and elements of the website that are included in the sprint and feature backlog by coding, unit testing, and integration testing. For example, HTML, CSS and PhP.
 - Organising meeting for progress discussion to track team efforts, and identify problems during the development progress.
 - Integrate and test continuously to make sure the website is operating as intended.
 - Documentation of website is adequated and code is routinely checked by developers.
--The duration of this phase is week 4  to week 6, LEE YIK HONG as User Experience Designer responsible for tracking process from time-to-time.
+- The duration of this phase is week 9 to week 12, GOH JIALE as Main Developer responsible for tracking process from time-to-time.
+- As a result of this phase, the features and elements of the website are created, and meetings are continuously organised to integrate the system and produce a more perfect system.
 
 #### Sprint Review & Testing Phase:
 - Receive feedback from stakeholders by presenting the features functional, performance, and security testing. 
@@ -114,6 +120,8 @@ Agile methodology is most suitable for this project because it guarantees short 
 - Review the sprint process with the development team for improvement.
 - Change the development process as needed to increase effectiveness and efficiency.
 - Discuss achievements, difficulties, and ways for improvement.
+- The duration of this phase is week 13 to week 15, TANG YAN QING as Documentation Specialists responsible for tracking process from time-to-time.
+- As a result of this phase, the feedback received and reviewed will help improve systems to a more perfect state.
 
 #### Deployment and Maintenance Phase
 - Launch the  Student Health and Wellness Management System website in a live environment.
@@ -121,13 +129,15 @@ Agile methodology is most suitable for this project because it guarantees short 
 - Track the performance bu users of the website, solve existed problems. Receive feedback from users and update the website as needed.
 - Analysing user activities for user patterns and improvements needed.
 - Apply the agile methodology to iterate on new website features and enhancements.
+- The duration of this phase after week 15, KOH SU XUAN as Quality Assurance Testor responsible for tracking process from time-to-time.
+- As a result of this phase, the users will be able to use the system smoothly and give feedback to improve it, and maintenance will be done to make sure the system is up-to-date.
 
 ### 6. Budget:
-For the student health and wellness management website which involves around 2000 users in Kolej Tun Dr. Ismail (KTDI), the estimated budget is **RM 550,000**. The budget includes the costs for 6 months of development and 6 months of maintenance for the website.
-- Hardware: **RM 35,000**\
+For the student health and wellness management website which involves around 2000 users in Kolej Tun Dr. Ismail (KTDI), the estimated budget is **RM 570,000**. The budget includes the costs for 6 months of development and 6 months of maintenance for the website.
+- Hardware: **RM 45,000**\
 This could include purchasing or renting servers, storage devices, networking equipment, computers and other hardware necessary for the development and maintenance of the website. The cost might differ depending on the latest requirements of the website and the hardware components chosen.
 
-- Software: **RM 30,000**\
+- Software: **RM 10,000**\
 This could include purchasing or licensing software such as operating systems, web development tools, and security software. The cost of software might differ depending on the latest requirements of the website, the number of licenses required, and the software tools and platforms chosen. To save on software costs, an open-source solution like the MySQL and PHP (LAMP) stack is a suitable alternative, with no cost initially required.
 
 - Testing: **RM 15,000**\
@@ -139,41 +149,55 @@ This could include post-launch support and bug fixes for 6 months after the webs
 - Security: **RM 20,000**\
 This might involve setting in place security measures like firewalls, encryption and frequent security audits to safeguard user data and prevent any cyberattacks. The cost of security implementation might differ based on the website needs as well as the providing services chosen.
 
-- Personnel: **RM 340,000**\
+- Personnel: **RM 370,000**\
 This could include salaries or fees for the development team members such as developer,user experience designer, quality assurance tester, documentation specialists and requirements analyst designer. The cost for a development team will vary according to their expertise and skill.
 
 - Contingency: **RM50,000**\
 This could include additional funds set aside for any potential expenses or changes in project scope that might occur throughout the website's development and maintenance phases. Such a budget can assist with dealing with possible delays, revisions in the project's scope or any other sudden changes that need additional financial resources. 
 
-In conclusion, the estimated budget is **RM 550,000** which covers the costs for hardware, software, testing, maintenance, security, personnel and contingency. Any potential budget alterations must be relayed to stakeholders and project sponsors.
+In conclusion, the estimated budget is **RM 570,000** which covers the costs for hardware, software, testing, maintenance, security, personnel and contingency. Any potential budget alterations must be relayed to stakeholders and project sponsors.
 
-### 7. System Architecture:
-#### Presentation Layer:
--User interface design (HTML, CSS, JavaScript) <br>
--Content management system (CMS) for managing website content<br>
--Accessibility features to ensure the website is accessible to users with disabilities<br>
--Responsive design for optimal display on various devices and screen sizes<br>
-#### Application Layer:
--Web server (e.g. Apache, Nginx)<br>
--Web application framework (e.g. Django, Ruby on Rails)<br>
--Business logic and data processing code<br>
--Integration with external services (e.g. appointment scheduling, health records)<br>
+### 7. System Architecture:  
 
-#### Data Layer:
--Relational database management system (e.g. MySQL, PostgreSQL)<br>
--Data schema design and management<br>
--Data access layer (e.g. Object Relational Mapping)<br>
-#### Security Layer:
--SSL/TLS encryption<br>
--User authentication and authorization mechanisms (e.g. OAuth2, LDAP)<br>
--Access control and permission management<br>
--Logging and monitoring for detecting and responding to security incidents<br>
+This section will discuss on the proposed system architecture of Student Health and Wellness Management System particularly about a wide variety of tools and technologies that will be used to develop and deploy the system including the elaboration on the way of the data in the system being stored, managed and analyzed and the tools and frameworks that used to realise data visualization and analysis. Moreover, the hardware and software requirements that are needed to support the implementation of this system will also be clarified.  
+
+The proposed system architecture for Student Health and Wellness Management System will use a four-tier architecture which are the presentation tier, application tier, data tier and security tier. The presentation tier will have a web-based user interface that allows students and Pusat Kesihatan University (PKU) to interact with the system. The application tier will in charge of handling the business logic and data processing and the data tier will store and manage the data while for the security tier will involve into controlling the access and manage the permission.  
+
+For the web-based user interface, we will use HTML, CSS, JavaScript and PHP. The application tier will be developed using Bootstrap framework, which is easy to be used and suitable for building a high-performance website for the project. We will use a relational database management system (RDBMS) to store the system data in which MySQL was chosen due to its stability, reliability, and cost-effectiveness. Lastly, the security tier will be developed using SSL/TLS encryption to protect the confidentiality and integrity of data-in-transit.  
+
+#### Data Storage and Management:
+Advanced data processing, retrieval, addition, and deletion functions are all hosted on an isolated server for maximum data integrity, with backup and disaster recovery systems in place. Deftly managing their complexity, the RDBMS stores the data reliably with a confident assurance that the data is safe. The database will be hosted on a dedicated server with backup and disaster recovery methods in place to guarantee the integrity of the data.  
+
+#### Hardware and Software Requirements:
+The hardware necessities for the system involve a specialized server for the database and a cloud hosting service for the web platform. For the software requirements part, a range of technologies that will be used are as following :  
+- User Interface Programming : HTML, CSS, JavaScript, PHP and Bootstrap Studio
+- Server : Apache
+- Framework : Bootstrap
+- Relational Database Management System (RDBMS) : MySQL
+- Developing Environment : Visual Studio Code
+- Version Control : Git  
+
+#### Data security and privacy
+To ensure data security and privacy, we will use encryption technologies such as SSL/TLS encryption to protect data transmission and storage meanwhile keeping the internet connection secure and safeguarding sensitive data that is being sent between two systems. We will also implement authentication and authorization mechanisms to control access to the system and its resources and also manage the permission which is the authorization level of different users.  
+
+#### Data visualization and analysis
+We will use various tools and frameworks such as Tableau and Google Data Studio to build a customized dashboard and effective reports. We will also use SQL (Structured Query Language) to manage, manipulate and analyze data that are stored in the database.  
+
+#### System Architecture Diagram:
+The proposed system architecture can be visualized using the following flowchart :  
+
+![Flowchart](https://user-images.githubusercontent.com/128119778/236140460-219fc052-e07f-41e2-9ee8-d48059df6fc6.png)  
 
 
+Diagram that represents our proposed system architecture :
+
+![SystemAchitecture](https://user-images.githubusercontent.com/128119778/236140524-f8a3d4af-3bc0-4ea2-a0fc-d5d803b864f2.png)
+
+In summary, the proposed system architecture for Student Health and Wellness Management System will be a four-tier architecture consisting of the presentation tier, application tier, data tier and also security tier. It will utilize modern web and mobile technologies, a relational database management system, encryption technologies, and authentication and authorization mechanisms to ensure data security and privacy. To guarantee data security and privacy, it will make use of modern online technologies, a relational database management system, encryption technologies, and authentication and authorisation procedures. Multiple tools and frameworks will be used collaboratively for data visualisation and analysis.
 
 ### 8. Risks Assessment:
 In general, every project can be influenced by risk so they required a special assessment procedure of the potential risks that could lead to the project's failure or loss if they occur. To develop a student health and wellness management website, the possible risks are: 
-| Potential Risks                     | Explanations                                        | Mitigations         |
+| Potential Risks                     | Explanations                                        | Plans/Strategies         |
 | ------------------------------ | -------------------------------------------- | ----------------- |
 | **Security risks**              | The website may contain sensitive information such as student health information like lab test results which could be targeted by hackers. This could result in the theft of personal medical information, leading to identity theft and other forms of fraud.   | <ul><li>Implementing robust security measures such as SSL certificates, two-factor authentication, encryption and frequent website security updates. </li> <li>Constantly evaluating the website's security to find any weaknesses.</li></ul> |
 | **Technical risks**         | The website may experience technical issues such as system failures, compatibility issues and downtime. | <ul><li>Utilizing tools and technologies that are industry standard, carrying out extensive testing and quality assurance throughout the development process. </li> <li>Making sure that the website is scalable and can manage possible increases in user numbers and data volume.</li></ul>    |
@@ -184,40 +208,97 @@ In general, every project can be influenced by risk so they required a special a
 In conclusion, the potential risks that might face during the development and maintenance of student health and wellness website are security risks, technical risks, user experience risks, compliance risks and budget and timeline risks. To ensure the creation of a successful student health and wellness website, a complete risk assessment should be carried out in order to identify, evaluate and address any potential concerns.
 
 ### 9. Resources:
-- **Staff Resources** : 
+a. **Staff Resources** : 
   - Main Developer : Goh Jiale
+    - RM 150,000/year
     - Mainly responsible for designing and developing the website as well as troubleshooting and fixing issues
   - User Experience Designer : Lee Yik Hong
+    - Rm 65,000/year
     - Mainly responsible for designing user interface and user flows 
   - Quality Assurance Tester : Koh Su Xuan
+    - RM 45,000/year
     - Mainly responsible for developing test plans and scenarios
   - Requirements Analyst : Ong Yi Yan
+    - RM 55,000/year
     - Mainly responsible for gathering and analyzing the requirements from stakeholders 
   - Documentation Specialists : Tang Yan Qing
+    - RM 35,000/year
     - Mainly responsible for developing user manuals and system documentation
+<p>Total Staff Cost: RM 370,000/year</p>
 
-- **Hardware Resources** :
+b. **Hardware Resources** :
   - Computer and laptop for each team member
+    - RM 40,200/year
   - Internet connectivity
+    - RM 2,500/year
   - Servers for hosting the website
+    - RM 1,500/year
+  - Security and backup
+    - RM 800/year
+<p>Total Hardware Cost: RM 45,000/year</p>
 
-- **Software Resources** :
-  - **Visual Studio Code**: Used for editing code to develop the website. It includes a variety of extensions such as live server which can help to speed up the development process.
-  - **GitHub**: Used for collaborating with other members during the development of the website. It provides tools such as code hosting which make it simpler for teams to collaborate on projects
-  - **Bootstrap Studio**: Used for developing the interface of the website. It provides a big library of pre-built components which makes it simpler to develop a user-friendly and aesthetically pleasing website
+c. **Software Resources** :
+  - Visual Studio Code
+    - RM 0/year
+    - Used for editing code to develop the website. It includes a variety of extensions such as live server which can help to speed up the development process.
+  - GitHub
+    - RM 0/year
+    - Used for collaborating with other members during the development of the website. It provides tools such as code hosting which make it simpler for teams to collaborate on projects
+  - Bootstrap Studio
+    - RM 0/year
+    - Used for developing the interface of the website. It provides a big library of pre-built components which makes it simpler to develop a user-friendly and aesthetically pleasing website
+  - Web server
+    - RM 2,500/year
+    - Used for hosting the website
+  - Relational Database Management System (RDBMS)
+    - RM 4,000/year
+    - Used for managing the database for the website
+  - Cloud Service
+    - RM 3,500/year
+    - Used for providing access to computing resources over the internet
+<p>Total Software Cost: RM 10,000/year</p>
 
-- **Other Resources** :
-  - Cloud services
+d. **Other Resources** :
+  - Testing fees
+    - RM 15,000/year
+  - Maintenance fees
+    - RM 60,000/year
+  - Security fees
+    - RM 20,000/year
+  - Contingency fees
+    - RM 50,000/year
+<p>Total Other Cost: RM 145,000/year</p>
+
+In conclusion, the total estimated cost is ***RM 570,000/year***.
 
 ### 10. Technical Specifications:
 <table>
+<tr>
+    <th align= "left">Data Sources</th>
+    <td>Students' demographic information and health records</td>
+  </tr>
+    <tr>
+    <th align= "left">Data Schema</th>
+    <td>Tableau, Google Data Studio</td>
+  </tr>
+     <th align= "left">Data Schema</th>
+    <td>Personal Information includes height, weight, BMI, gender, ID, health records.<ul><li>KTDI students' data</li>
+    <li>PKU Staffs' data</li></td>
+      <tr>
+    <th align= "left">Data Transformations</th>
+    <td>Data Calculation : Body Mass Index (BMI) will be calculated from user's data</td>
+  </tr>
+  <tr>
+    <th align= "left">Data Visualization tools</th>
+    <td>Tableau, Google Data Studio</td>
+  </tr>
   <tr>
     <th align= "left">Hosting Platform</th>
     <td>Google Cloud </td>
   </tr>
   <tr>
     <th align= "left">Framework</th>
-    <td>Bootstrap Studio</td>
+    <td>Bootstrap </td>
   </tr>
     <tr>
     <th align= "left">Integrated Development Environment (IDE)</th>
@@ -286,14 +367,34 @@ In conclusion, the potential risks that might face during the development and ma
 | **Project Demonstration**          | Present and explain how the system works                  | Week 15           |
 | **System Maintenance**             | Monitor performance of the website and update it regularly  | 6 months after Week 15|
 
-
+### Quality assurance and testing procedures
+<table>
+  <tr>
+    <th align= "left" >Test Planning</th>
+    <td>Composes <b>test plan</b> which outlines 
+<ul>
+        <li>Testing objectives</li>
+        <li>Testing scope</li>
+        <li>Testing deliverables</li>
+        <li>Testing risks</li>
+        <li>Testing schedule</li>
+ </ul>
+ </td>
+  </tr>
+  <tr>
+  <th align= "left">Test Design</th>
+  <td> <ul><li>Constructs different test cases</li>
+  <li>Prepares test data</li>
+  <li>Sets up hardware, software and network configurations according to test environment configuration guidelines</td>
+  </tr>
+  <tr>
+  <th align= "left">Test Execution and Reporting</th>
+  <td> <ul><li>Executes different test cases</li>
+  <li>Generates bug reports</li>
+  <li>Completes System Testing Document</li></td>
+  </tr>
+</table>
 
 ### 12. Conclusion:
-- Simplify and streamline PKU processing time for students and administrators.
-- Provide easy access to medical resources, health tracking tools, and health tips and advice.
-- Enable students to communicate with medical professionals, receive medical advice, and make appointments for medical services.
-- Provide a quick and easy way for students to call for emergency assistance in case of a medical emergency.
-- Collect and analyze data on student health trends, allowing PKU to better understand the health needs of the student population and provide targeted interventions.
-- Ensure compliance with all relevant laws, regulations, and policies, including HIPAA and GDPR, while maintaining a secure and user-friendly platform.
-
+In a nutshell, our proposed system, the Student Health and Awareness Management System, not only increases the efficiency of Pusat Kesihatan Universiti but also reduces the time students have to wait for medical treatment or advice. This system is crucial in creating a communication channel between PKU staff and students as well as raising students' awareness of mental and physical health. Therefore, we urge decision-makers in UTM to approve this proposal and proceed with the project. We understand that there might be some drawbacks when implementing this system, such as data breaches, identity theft, or compatibility issues, but we believe that this system is needed for PKU to improve productivity, patient experience, and data management.
 

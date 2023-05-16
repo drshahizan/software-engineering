@@ -22,7 +22,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>MUHAMMAD ARIFF DANISH BIN HASHNAN</td>
-    <td>Software Developer</td>
+    <td>Developer</td>
   </tr>
     <tr>
     <td>MUHAMMAD IMAN FIRDAUS BIN BAHARUDDIN</td>
@@ -71,23 +71,42 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provide accurate and up-to-date information about their menu items, pricing, and availability</td>
   </tr>
     <tr>
-    <td></td>
+    <td>DANIEL HARRIZ BIN MOHD ASINEH @ MOHD ASNEH</td>
     <td>Customer</td>
-    <td>UTM student/UTM Staff</td>
-    <td></td>
+    <td>UTM student</td>
+    <td>Provide feedback on the ordering process, menu and quality of the food</td>
   </tr>
+   <tr>
+    <td>MUHAMMAD LUQMAN HAKIM BIN MOHD RIZAUDIN</td>
+    <td>Customer</td>
+    <td>UTM student</td>
+    <td>Provide feedback on the user interfaces</td>
+  </tr>
+  <tr>
+    <td>MUHAMMAD NUR AZHAR BIN MOHD YAZID</td>
+    <td>Customer</td>
+    <td>UTM student</td>
+    <td>Provide feedback on the payment methods</td>
+  </tr>
+  
  
 </table>
 
 ## Tasks involved in developing SRC documentation:
 
-| No | Date | Member Name | Role	| Task	| Status	| 
+| No |   Date     |  Member Name |  Role	| Task| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2| | | | | 
-| 3| | | | | 
-| 4| | | | | 
-| 5| | | | | 
+| 1  | 20/04/2023 |Daniel|Requirements Analyst|Create project plan|Complete|
+| 2  | 21/04/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist   |Unformal meeting|Complete|
+| 3  | 22/04/2023 |Ariff,Che Marhumi|Developer,Documentation Specialist   |Creating proposal|Complete| 
+| 4  | 01/05/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Online meeting|Complete|
+| 5  | 02/05/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi  |Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Meeting with stakeholder, Puan Munirah and her assistant, Encik Mohd |Complete| 
+| 6  | 02/05/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi  |Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist   |Meeting with stakeholder, Encik Amran and his assistant, Puan Azira |Complete|
+| 7  | 03/05/2023 |Daniel, Ariff,Che Marhumi|Requirements Analyst,Developer,Documentation Specialist|Compliting proposal|Complete|
+| 8  | 05/05/2023 |Safwan|Quality Assurance|Checking all menu,quality the food and beverages,methods of payment|Complete|
+| 9  | 10/05/2023 |Daniel, Ariff,Che Marhumi|Requirements Analyst,Developer,Documentation Specialist|Planning SRS|Incomplete|
+| 9  | 11/05/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist |Create UML Diagram|Complete|
+
 
 
 ## Contribution 🛠️

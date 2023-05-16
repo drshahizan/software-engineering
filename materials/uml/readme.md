@@ -7,58 +7,70 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Draw.io and PlantUML
+# UML Diagram
+The UML diagrams are categorized into **structural diagrams**, **behavioral diagrams**, and also interaction **overview diagrams**. The diagrams are hierarchically classified in the following figure:
 
-Draw.io and PlantUML are both tools that can be used to create UML (Unified Modeling Language) diagrams, which are used to visually represent different aspects of software design and architecture. 
+<p align="center">
+<img src="images/uml-diagrams.png"  height="400" />
+</p>
 
-Draw.io is a web-based diagramming tool that can be used to create a wide variety of diagrams, including UML diagrams. It offers a user-friendly interface with a range of features, such as drag-and-drop functionality, formatting options, and the ability to collaborate with others in real-time. Draw.io supports a variety of UML diagram types, including use case diagrams, class diagrams, activity diagrams, and sequence diagrams.
+## 1. Structural Diagrams
+Structural diagrams depict a static view or structure of a system. It is widely used in the documentation of software architecture. It embraces class diagrams, composite structure diagrams, component diagrams, deployment diagrams, object diagrams, and package diagrams. It presents an outline for the system. It stresses the elements to be present that are to be modeled.
 
-PlantUML, on the other hand, is a text-based tool that generates UML diagrams from simple text descriptions. It uses a specific syntax that allows you to describe the different elements of a UML diagram, and then generates the diagram automatically based on your input. PlantUML supports a wide variety of UML diagram types, and can also be used to generate other types of diagrams, such as flowcharts and network diagrams.
+- **[Class Diagram](https://sparxsystems.com/resources/tutorials/uml2/class-diagram.html)**: Class diagrams are one of the most widely used diagrams. It is the backbone of all the object-oriented software systems. It depicts the static structure of the system. It displays the system's class, attributes, and methods. It is helpful in recognizing the relation between different objects as well as classes.
+- **[Composite Structure Diagram](https://sparxsystems.com/resources/tutorials/uml2/composite-diagram.html)**: The composite structure diagrams show parts within the class. It displays the relationship between the parts and their configuration that ascertain the behavior of the class. It makes full use of ports, parts, and connectors to portray the internal structure of a structured classifier. It is similar to class diagrams, just the fact it represents individual parts in a detailed manner when compared with class diagrams.
+- **[Object Diagram](https://sparxsystems.com/resources/tutorials/uml2/object-diagram.html)**: It describes the static structure of a system at a particular point in time. It can be used to test the accuracy of class diagrams. It represents distinct instances of classes and the relationship between them at a time.
+- **[Component Diagram](https://sparxsystems.com/resources/tutorials/uml2/component-diagram.html)**: It portrays the organization of the physical components within the system. It is used for modeling execution details. It determines whether the desired functional requirements have been considered by the planned development or not, as it depicts the structural relationships between the elements of a software system.
+- **[Deployment Diagram](https://sparxsystems.com/resources/tutorials/uml2/deployment-diagram.html)**: It presents the system's software and its hardware by telling what the existing physical components are and what software components are running on them. It produces information about system software. It is incorporated whenever software is used, distributed, or deployed across multiple machines with dissimilar configurations.
+- **[Package Diagram](https://sparxsystems.com/resources/tutorials/uml2/package-diagram.html)**: It is used to illustrate how the packages and their elements are organized. It shows the dependencies between distinct packages. It manages UML diagrams by making it easily understandable. It is used for organizing the class and use case diagrams.
+- **[Profile Diagram](https://sparxsystems.com/resources/developers/uml_profiles.html)**: Profile diagrams provide a visual way of defining light-weight extensions to the UML specification. UML Profiles are often used to define a group of constructs with domain-specific or platform-specific properties and constraints, which extend the underlying UML elements.
+## 2. Behavioral Diagrams
+Behavioral diagrams portray a dynamic view of a system or the behavior of a system, which describes the functioning of the system. It includes use case diagrams, state diagrams, and activity diagrams. It defines the interaction within the system.
 
-Both tools have their own strengths and weaknesses, and the choice of which tool to use will depend on your personal preference and the specific requirements of your project. Draw.io is a good choice if you prefer a visual interface and want to create more complex diagrams quickly, while PlantUML is a good choice if you prefer a more lightweight and flexible approach that can be integrated into other tools and workflows.
+- **[State Machine Diagram](https://sparxsystems.com/resources/tutorials/uml2/state-diagram.html)**: It is a behavioral diagram. it portrays the system's behavior utilizing finite state transitions. It is also known as the State-charts diagram. It models the dynamic behavior of a class in response to external stimuli.
+- **[Activity Diagram](https://sparxsystems.com/resources/tutorials/uml2/activity-diagram.html)**: It models the flow of control from one activity to the other. With the help of an activity diagram, we can model sequential and concurrent activities. It visually depicts the workflow as well as what causes an event to occur.
+- **[Use Case Diagram](https://sparxsystems.com/resources/tutorials/uml2/use-case-diagram.html)**: It represents the functionality of a system by utilizing actors and use cases. It encapsulates the functional requirement of a system and its association with actors. It portrays the use case view of a system.
 
-## Learn Draw.io and UML
+## 3. Interaction Diagrams
+Interaction diagrams are a subclass of behavioral diagrams that give emphasis to object interactions and also depicts the flow between various use case elements of a system. In simple words, it shows how objects interact with each other and how the data flows within them. It consists of communication, interaction overview, sequence, and timing diagrams.
 
-Draw.io is a free online diagramming tool that can be used to create UML diagrams. To use it effectively, you should familiarize yourself with the interface and UML basics. You can then create UML diagrams by dragging and dropping shapes from the relevant libraries and customizing them using formatting tools. Draw.io can be used to create a variety of UML diagrams, including class diagrams, use case diagrams, sequence diagrams, activity diagrams, component diagrams, and deployment diagrams.
+- **[Sequence Diagram](https://sparxsystems.com/resources/tutorials/uml2/sequence-diagram.html)**: It shows the interactions between the objects in terms of messages exchanged over time. It delineates in what order and how the object functions are in a system.
+- **[Communication Diagrams](https://sparxsystems.com/resources/tutorials/uml2/communication-diagram.html)**: It shows the interchange of sequence messages between the objects. It focuses on objects and their relations. It describes the static and dynamic behavior of a system.
+- **[Timing Diagram](https://sparxsystems.com/resources/tutorials/uml2/timing-diagram.html)**: It is a special kind of sequence diagram used to depict the object's behavior over a specific period of time. It governs the change in state and object behavior by showing the time and duration constraints.
+- **[Interaction Overview diagram](https://sparxsystems.com/resources/tutorials/uml2/interaction-overview-diagram.html)**: It is a mixture of activity and sequence diagram that depicts a sequence of actions to simplify the complex interactions into simple interactions.
 
-The topics and descriptions to learn how to use draw.io for creating UML diagrams:
+A table listing the UML diagrams commonly used in a Software Requirements Specification (SRS) document, along with a brief description of each diagram:
 
-| # | Topic | Description |
-|---|-------|-------------|
-| 1 | [Introduction to Draw.io](./drawio/1-draw-io.md) | Familiarize yourself with the draw.io interface and its features, including creating a new diagram, saving and exporting your work, and using the different tools and panels. |
-| 2 | [UML Basics](./drawio/2-basic-uml.md) | Learn the basics of UML, including the different types of diagrams, their elements, and their relationships, to understand how to use draw.io to create UML diagrams effectively. |
-| 3 |[Define the actors](./drawio/3-actor.md)| an entity or component that interacts with the system being modeled. Actors can be people, organizations, external systems, or even other software components. Actors are often depicted as stick figures in UML diagrams.|
-| 4 | [Creating Use Case Diagrams](./drawio/4-use-case.md) | Learn how to create use case diagrams using draw.io, including how to add actors, use cases, and relationships to model the interactions between the system and its users or external systems. |
-| 5 | [Creating Class Diagrams](./drawio/5-class.md) | Learn how to use draw.io to create class diagrams, including how to add classes, attributes, methods, and relationships. |
-| 6 | [Creating Sequence Diagrams](./drawio/6-sequence.md) | Learn how to create sequence diagrams using draw.io, including how to add lifelines, messages, and activation bars to show the interactions between objects in a system over time. |
-| 7 | [Creating Activity Diagrams](./drawio/7-activity.md) | Learn how to create activity diagrams using draw.io, including how to add activities, decisions, and loops to model the flow of activities in a system or process. |
-| 8 | [Creating Component Diagrams](./drawio/8-component.md) | Learn how to create component diagrams using draw.io, including how to add components, interfaces, and dependencies to show the physical components of a system and how they are connected. |
-| 9 | [Creating Deployment Diagrams](./drawio/9-deployment.md) | Learn how to create deployment diagrams using draw.io, including how to add nodes, artifacts, and dependencies to show how a system is deployed in a physical environment. |
-| 10 | [Tips and Tricks](./drawio/10-tips.md) | Learn some tips and tricks for working with draw.io, such as using keyboard shortcuts, formatting diagrams, and organizing your work. |
+| Diagram Name | Purpose | Description |
+|----------------------|-----------------|----------------------|
+| [Use Case Diagram](https://www.javatpoint.com/uml-use-case-diagram)| Illustrates the system's functionalities and user interactions.  | Represents the different actors (users, external systems) and their interactions with the system, focusing on the system's use cases and requirements. |
+| [Class Diagram](https://www.javatpoint.com/uml-class-diagram)| Describes the structure and relationships of classes in the system.  | Represents the classes, their attributes, methods, and relationships, providing an overview of the system's data and behavior.|
+| [Sequence Diagram](https://www.javatpoint.com/uml-sequence-diagram) | Demonstrates the sequence of interactions between objects or system components.  | Depicts the flow of messages or method calls between objects, showing the order of interactions and the resulting behavior. |
+| [Activity Diagram](https://www.javatpoint.com/uml-activity-diagram) | Illustrates the flow of activities or processes within the system.  | Represents the high-level activities, actions, and decision points in a system, providing a visual representation of the system's workflow. |
+| [State Machine Diagram](https://www.javatpoint.com/uml-state-machine-diagram) | Represents the different states and transitions of a system or an object.  | Illustrates the behavior of an object or system by showing the states it can be in and the events that trigger state transitions. |
+| [Communication Diagram](https://sparxsystems.com/resources/tutorials/uml2/communication-diagram.html) | Demonstrates the interactions and relationships between objects or system components.  | Depicts the objects or components involved in a particular scenario and the messages exchanged between them. |
 
-## Learn PlanUML and UML
-Learn PlanUML is an online resource that provides tutorials and examples for using the text-based PlantUML tool to create various types of diagrams, including UML diagrams. UML, or Unified Modeling Language, is a standard modeling language used in software engineering to visually represent the different aspects of software design and architecture. UML diagrams can help to clarify requirements, identify potential issues, and communicate design decisions to stakeholders. PlantUML is a tool that can be used to generate UML diagrams from simple text descriptions, making it a lightweight and flexible option for creating diagrams quickly and easily. Overall, Learn PlanUML and UML both offer valuable resources and tools for software designers and developers.
+These are the key UML diagrams that are often utilized in a Software Requirements Specification document to capture and communicate the requirements and behavior of the system.
 
-## Step by step instructions for using PlantUML 
+If you need a quick reference guide for the UML notation, check one of the following great UML cheat sheets (in no particular order, though the last one is my preferred one):
 
-| Step | Description |
-| :----: | ----------- |
-| 1 | [Install PlantUML on your computer](./planuml/01-install-planuml.md). You can do this by visiting the PlantUML website and following the installation instructions for your operating system.|
-| 2 | [Learn the syntax for creating use case diagrams](./planuml/02-syntax.md) in PlantUML. The syntax for use case diagrams in PlantUML is relatively simple and easy to learn, but it will take some practice to get used to it.|
-| 3 | Define the actors that will interact with the system. In the case of a university academic course registration system, the actors might include students, professors, and administrators. |
-| 4 | Identify the use cases that the system will support (e.g. registering for courses, dropping courses, viewing course schedules, generating transcripts). |
-| 5 | Use the PlantUML syntax to draw the use case diagram, including creating the use case and actor elements and connecting them with lines to indicate the relationships between them. |
-| 6 | Refine the diagram by adding details such as annotations, descriptions, and constraints, and customizing the appearance of the diagram by changing colors, fonts, and other visual properties. |
-| 7 | Share the diagram with others and collaborate on further refinement or development by exporting it to a variety of formats, including PNG, SVG, and PDF. |
+- [Lou Franco UML Cheatsheet](https://loufranco.com/wp-content/uploads/2012/11/cheatsheet.pdf). To the point. Example diagrams are annotated with the name of the modeling elements used in the example. Class, use case, and sequence diagrams covered.
+- [UML quick reference card](http://deptinfo.unice.fr/twiki/pub/Linfo/CooL3/refUML.pdf). Another 1-page quick reference, great to be printed and kept close to you.
+- [UML Diagrams](http://www.uml-diagrams.org/): Detailed overview of all UML diagrams (including the new features of the latest UML versions). It's more of a reference guide than a cheat sheet, though, since each diagram has its own dedicated page. It is updated to reflect the UML 2.5 version.
+- [Embarcadero's Practical UML guide](https://edn.embarcadero.com/article/31863): Complete coverage of all diagrams. It used to have some UML self-tests, but they don't seem to be working anymore.
+- [UML Notation summary for class diagrams and sequence diagrams](http://umich.edu/~eecs381/handouts/UMLNotationSummary.pdf). Very simple, but I include it as I like the minimal "semantic" description regarding association cardinalities and the distinction between composition and aggregation.
+- [UML reference sheet](https://www.comp.nus.edu.sg/~cs2103/AY1516S2/files/UML%20reference%20sheet.pdf) from the National University of Singapore. It covers all diagrams, some in more detail than others. There are no explanations, so it's more of a notation reminder.
+- [Dzone UML getting started guide](https://dzone.com/refcardz/getting-started-uml). All UML2 diagrams are covered, with some basic explanations for the main notation elements.
+- [Allen Holub's Quick UML reference](https://holub.com/uml/). Lots of examples to help you understand each notation element, including code examples of how some aspects would be expressed in Java for those with a programming background that may find this "mapping" useful to understand the concepts.
+
+## [UML tools](uml.md)
+Draw.io is a web-based diagramming tool that allows users to create various types of diagrams, such as flowcharts, network diagrams, and UML diagrams, using a drag-and-drop interface. It offers a wide range of shapes, icons, and formatting options to help users create professional-looking diagrams quickly and easily. On the other hand, PlantUML is a text-based diagramming tool that uses a simple and intuitive language to create UML diagrams, sequence diagrams, and other types of diagrams. PlantUML is ideal for software developers who prefer to write code to create diagrams, rather than using a visual interface.
 
 ## Useful links
-- [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
-- [Create Diagrams In VS Code With Draw.io](https://dev.to/hediet/create-diagrams-in-vs-code-with-draw-io-32pd)
-- [Draw.io diagrams into Markdown files using VSCode Extension](https://saranyansenthivel.medium.com/draw-io-diagrams-into-markdown-files-using-vscode-extension-bcb28575f682)
-- [Use Case Diagram Tutorial (Guide with Examples)](https://creately.com/guides/use-case-diagram-tutorial/)
-- [How To Model An Information System](https://javascript.plainenglish.io/how-to-model-an-information-system-294bb7994ff5)
-- [Top 20 Draw.io Alternatives & Competitors for Cloud Architectures](https://medium.com/@mike_tyson_cloud/top-20-alternatives-to-draw-io-diagrams-net-for-cloud-architecture-ccaf0a6edd97)
-- [UML Class Diagrams Tutorial, Step by Step](https://medium.com/@smagid_allThings/uml-class-diagrams-tutorial-step-by-step-520fd83b300b)
+- [UML Tutorial](https://www.javatpoint.com/uml)
+- [UML - Quick Guide](https://www.tutorialspoint.com/uml/uml_quick_guide.htm)
+- [Learn 14 types of UML diagrams in one article](https://www.cybermedian.com/learn-14-types-of-uml-diagrams-in-one-article/)
+- [What is Unified Modeling Language (UML)?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

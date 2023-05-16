@@ -54,7 +54,7 @@ Don't forget to hit the :star: if you like this repo.
 <body style="text-align: justify;">
 
 ### 1. Executive Summary:
-Our proposed KTDI Event Management System is a comprehensive solution that aims to simplify and streamline the processes of event management for the KTDI Student Residential College Committee (JKM) at University Technology Malaysia (UTM), KTDI office staff, and fellow KTDI.
+Our proposed Kolej Tun Dr. Ismail (KTDI) Event Management System is a comprehensive solution that aims to simplify and streamline the processes of event management for the KTDI Student Residential College Committee (JKM) at University Technology Malaysia (UTM), KTDI office staff, and fellow KTDI.
 
 Our system offers a range of key features that assist our stakeholders in event preparation and post-activity processes. One such key feature is the inclusion of a calendar for annual events. This feature enables JKM KTDI to plan and schedule their events for the year in advance, avoiding scheduling conflicts. Another feature is the ability to handle the necessary documents for each activity, ensuring that all required paperwork is organised and easily accessible.
 
@@ -67,9 +67,9 @@ Overall, our system is designed to make event planning and execution as seamless
 ### 2. Background:
 Events are an essential part of the Kolej Tun Dr. Ismail (KTDI) college. However, the current process of event preparation and post-activity processes is time-consuming and less productive. The KTDI Event Management System is designed to solve the problems and inconveniences faced by stakeholders in activity preparation and improve the effectiveness of event preparation. 
 
-One of the issues faced by stakeholders is the problem of event dates crashing, which occurs due to the manual event preparation process. Our proposed system addresses this challenge by introducing a calendar for annual events. This feature enables JKM KTDI to plan and schedule their events for the year in advance, avoiding scheduling conflicts and allowing for the allocation of resources accordingly. With the calendar for annual events, JKM KTDI can quickly identify which dates are already reserved and which are available, making it easier to plan and organise events in a systematic manner.
+One of the issues faced by stakeholders is the problem of event dates crashing, which occurs due to the manual event preparation process. Our proposed system addresses this challenge by introducing a calendar for annual events. This feature enables KTDI Student Residential College Committee (JKM) to plan and schedule their events for the year in advance, avoiding scheduling conflicts and allowing for the allocation of resources accordingly. With the calendar for annual events, JKM KTDI can quickly identify which dates are already reserved and which are available, making it easier to plan and organise events in a systematic manner.
 
-The stakeholders are required to go through a laborious process of seeking approval from multiple parties through paperwork. For instance, the KTDI Student Residential College Committee (JKM) has to manually fill in the programme approval form to reserve locations and facilities in KTDI, followed by obtaining approvals from the programme director, fellow KTDI, and KTDI principal, and finally submitting the proposal to Student Affairs. Our system aims to simplify this process by managing all necessary documents for each activity with just a click of the mouse. By using a paperless method, the system can promote environmental protection and prevent the loss or destruction of physical documents.
+The stakeholders are required to go through a laborious process of seeking approval from multiple parties through paperwork. For instance, the JKM KTDI has to manually fill in the programme approval form to reserve locations and facilities in KTDI, followed by obtaining approvals from the programme director, fellow KTDI, and KTDI principal, and finally submitting the proposal to Student Affairs. Our system aims to simplify this process by managing all necessary documents for each activity with just a click of the mouse. By using a paperless method, the system can promote environmental protection and prevent the loss or destruction of physical documents.
 
 Additionally, the stakeholders need to conduct multiple meetings to ensure team progression, which can be time-consuming. The KTDI Event Management System helps by enabling the assignment of tasks and tracking progress, thus reducing the number of long and tedious meetings held. Furthermore, the system allows for post-event reporting, providing a centralised platform for storing event photos. Hence, ensuring that KTDI events' management is accurate, efficient, and productive. 
 
@@ -89,14 +89,14 @@ In summary, the KTDI Event Management System proposal seeks to address the chall
 
 #### Achievable: 
 * To achieve widespread adoption of the event management system by at least 80% of JKM KTDI committee members within the first year.
-* To provide comprehensive training and support to users of the system (JKM KTDI and KTDI college office staff and fellow members) to ensure successful implementation.
+* To provide comprehensive training and support to users of the system (JKM KTDI, KTDI college office staff, and fellow members) to ensure successful implementation.
 
 #### Relevant: 
 * To align with sustainability goals by reducing paper usage and promoting digital processes.
-* To support the commitment to providing efficient and effective administrative services to JKM KTDI and KTDI college office staff and fellow members.
+* To support the commitment to providing efficient and effective administrative services to JKM KTDI, KTDI college office staff, and fellow members.
 
 #### Time-Bound: 
-* To fully implement the event management system within the JKM KTDI and KTDI college office staff and fellow members by the end of the current academic year.
+* To fully implement the event management system within the JKM KTDI, KTDI college office staff, and fellow members by the end of the current academic year.
 * To achieve the above-stated measurable objectives within the first year of implementation.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
@@ -269,15 +269,15 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
 ### Testing Methodologies: 
 The testing methodologies that will be used are black-box testing and white-box testing.
 
-* <b>Black-box testing</b>:
+* <b>Black-Box Testing</b>:
 Also referred to as functional testing or "behavioural testing", this is a testing technique where the tester is unaware of the internal workings of the system being tested. The tester in this method only has access to the system's inputs and outputs, and they test the system's functionality in accordance with its specifications and requirements. In the case of the KTDI event management system, end-users such as JKM KTDI, KTDI college office staff, and fellow members will conduct this kind of testing.
 
-* <b>White-box testing </b>:
+* <b>White-Box Testing </b>:
 Also known as structural testing, is a testing technique where the tester is aware of how the system being tested operates on the inside. This approach involves running tests on the system's internal components, such as code or algorithms, to make sure they work as intended. Developers or testers with access to the source code of the system being tested usually carry out white-box testing. In the KTDI event management system, the team members will perform this type of testing.
 
-* <b>System testing:</b> For the KTDI event management system, system testing involves testing the entire system as a whole to ensure that it meets the specified requirements and functions as expected. This can involve testing various aspects of the system, including the user interface, location booking system, paperwork management processes, and other key features. System testing helps to identify any bugs, errors, or issues that may impact the system's functionality, and ensures that the system is reliable and performs well under different scenarios. The team members will carry out system testing for the KTDI event management system.
+* <b>System Testing:</b> For the KTDI event management system, system testing involves testing the entire system as a whole to ensure that it meets the specified requirements and functions as expected. This can involve testing various aspects of the system, including the user interface, location booking system, paperwork management processes, and other key features. System testing helps to identify any bugs, errors, or issues that may impact the system's functionality, and ensures that the system is reliable and performs well under different scenarios. The team members will carry out system testing for the KTDI event management system.
 
-* <b>Performance testing:</b> This test focuses on assessing how well the system performs under various loads and stresses. It is beneficial to locate any performance problems or bottlenecks that could be affecting the stability, scalability, and responsiveness of the system. Performance testing for the KTDI event management system will involve creating realistic scenarios to test the system's throughput, response time, and resource usage under various user activity levels. A variety of metrics, including server response time, page load time, and network latency, will be measured during this testing using specialised tools and software. The system's performance will be optimised, any performance problems will be found, and the system's ability to handle the anticipated workload will be confirmed using the performance testing results. The team members are in charge of testing the KTDI event management system's performance.
+* <b>Performance Testing:</b> This test focuses on assessing how well the system performs under various loads and stresses. It is beneficial to locate any performance problems or bottlenecks that could be affecting the stability, scalability, and responsiveness of the system. Performance testing for the KTDI event management system will involve creating realistic scenarios to test the system's throughput, response time, and resource usage under various user activity levels. A variety of metrics, including server response time, page load time, and network latency, will be measured during this testing using specialised tools and software. The system's performance will be optimised, any performance problems will be found, and the system's ability to handle the anticipated workload will be confirmed using the performance testing results. The team members are in charge of testing the KTDI event management system's performance.
 
 ### Project Management Practices: 
 * <b>Agile Project Management:</b>  An effective project management strategy for software development projects is called agile. It entails segmenting the project into shorter, easier-to-manage units called sprints. A specific set of tasks is finished during each sprint, which is a brief, concentrated time frame.
@@ -308,7 +308,7 @@ Also known as structural testing, is a testing technique where the tester is awa
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 6. Budget:
-The development of the academic course registration system for 50 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at **RM 1,074,000**, as outlined below:
+The development of the KTDI Event Management System for 50 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at **RM 1,074,000**, as outlined below:
 
 - **Hardware Costs: RM 400,000** <br>
 This includes the cost of servers, storage, networking equipment, and other hardware required to support the system. This cost will vary depending on the specific hardware configuration chosen, but it is essential to ensure that the system can handle the expected number of users and data volumes.
@@ -380,7 +380,7 @@ The Staff Office KTDI, Fellow, and Assistant Fellow interfaces can view whether 
         </tr>
         <tr>
           <td>Apache</td>
-          <td>open-source web server software that used to host and serve the web pages and PHP scripts that make up the system's user interface and backend functionality</td>
+          <td>Open-source web server software that used to host and serve the web pages and PHP scripts that make up the system's user interface and backend functionality</td>
         </tr>
         <tr>
           <td rowspan="2">Overall of the System Development</td>
@@ -389,7 +389,7 @@ The Staff Office KTDI, Fellow, and Assistant Fellow interfaces can view whether 
         </tr>
         <tr>
           <td>Github</td>
-          <td>used for version control and collaborative development. Developers involved will use it to store codebase, track changes to code and collaborate with other developers on the project. It will be used for code review and issue tracking to resolve bugs and other issue in the system</td>
+          <td>Used for version control and collaborative development. Developers involved will use it to store codebase, track changes to code and collaborate with other developers on the project. It will be used for code review and issue tracking to resolve bugs and other issue in the system</td>
         </tr>
       </tbody>
     </table>
@@ -449,7 +449,7 @@ The block diagram for the proposed system architecture is as follows:
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 9. Resources:
-To successfully deliver the KTDI event management system, the following resources are required:
+To successfully deliver the KTDI Event Management System, the following resources are required:
 
 **Staff**
 - 1 Project Manager: RM 84,000/project
@@ -715,49 +715,49 @@ The development team of this project will create test cases and scenarios to cov
       </tbody>
     </table>
 
-The overall testing procedures will be:
-- <b>Black-box testing</b> (To validate the system's functionality and behaviour):<br>
+The overall testing procedures will be:<br><br>
+<b>1. Black-Box Testing</b> (To validate the system's functionality and behaviour):<br>
 This is carried out by end-users who are not aware of the internal workings of the system, such as JKM KTDI, KTDI college office staff, and fellow members. They test the system's functionality based on its specifications and requirements, using only its inputs and outputs.
 
-- <b>White-box testing</b> (To validate the system's internal components, such as code or algorithms):<br>
+<b>2. White-Box Testing</b> (To validate the system's internal components, such as code or algorithms):<br>
 This is carried out by developers or testers who have access to the source code of the system being tested. This testing method involves running tests on the system's internal components to ensure they work as intended. The KTDI event management system team members will perform white-box testing.
 
-- <b>System testing</b> (Conduct system testing to validate the system as a whole):<br>
+<b>3. System Testing</b> (Conduct system testing to validate the system as a whole):<br>
 This involves testing the entire system as a whole to ensure it meets the specified requirements and functions as expected. The KTDI event management system team members will carry out system testing, testing various aspects of the system, including the user interface, location booking system, paperwork management processes, and other key features.
 
-- <b>Performance Testing</b> (Conduct performance testing to validate the system's performance under different scenarios):<br>
+<b>4. Performance Testing</b> (Conduct performance testing to validate the system's performance under different scenarios):<br>
 Performance testing assesses how well the system performs under various loads and stresses. It involves creating realistic scenarios to test the system's throughput, response time, and resource usage under various user activity levels. The KTDI event management system team members are responsible for performance testing, using specialised tools and software to measure a variety of metrics, including server response time, page load time, and network latency. The system's performance will be optimised based on the performance testing results, any performance problems will be found, and the system's ability to handle the anticipated workload will be confirmed.
 
-- <b>Analyse Results and Report Defects</b> (Analyse the results of testing and report any defects or issues found):<br>
+<b>5. Analyse Results and Report Defects</b> (Analyse the results of testing and report any defects or issues found):<br>
 The development team of this project will work closely with the documentation specialist to create test reports summarising the results of testing, including any defects or issues found during the testing process. These reports will be used to monitor the testing's progress and ensure that the system is meeting the required quality standards. Any defects or issues found will be reported to the development team for resolution. The documentation specialist will be responsible for ensuring that all test reports are accurate and up-to-date.
 
-- <b>Retest and Validate Fixes:</b><br>
+<b>6. Retest and Validate Fixes:</b><br>
 Retest any defects or issues found after they have been fixed by the development team. The testing team will verify that all defects and issues have been resolved before signing off on the system's release.
 
-- <b>Sign-Off:</b><br>
+<b>7. Sign-Off:</b><br>
 Sign off on the system's release after all testing is complete and all defects have been resolved.
 
 
 ### Quality Assurance Procedure
-- <b> Testing Activities:</b><br>
+<b>1. Testing Activities:</b><br>
 Perform black-box testing, white-box testing, and system testing to ensure the software meets quality standards and stakeholder requirements.
 Document all test results, including any defects or issues found during testing.
 
-- <b> Test Reports:</b><br>
+<b>2. Test Reports:</b><br>
 The documentation specialist is responsible for creating test reports summarising any issues found during testing and monitoring the testing progress.
 Use the test reports to ensure the software is upholding the necessary quality standards.
 
-- <b> Unit Testing:</b><br>
+<b>3. Unit Testing:</b><br>
 The main developer and team members will perform unit testing to test individual units or components of the system in isolation.
 Ensure each unit of the system is working as intended and free of defects or errors in the code.
 
-- <b> Code Reviews:</b><br>
+<b>4. Code Reviews:</b><br>
 The main developer and team members will perform code reviews to identify defects or errors in the code and ensure the code is consistent with the project's coding standards and guidelines.
 
-- <b> Continuous Integration:</b><br>
+<b>5. Continuous Integration:</b><br>
 As part of the continuous integration method of software development, integrate code into a public repository. Furthermore, it makes sure the code is correctly integrated, that any issues or conflicts are quickly identified and resolved, and that the system functions as intended and complies with the necessary quality standards.
 
-- <b> Analyse Results and Report Defects:</b><br>
+<b>6. Analyse Results and Report Defects:</b><br>
 Analyse the results of testing and report any defects or issues found to the development team for resolution.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
@@ -767,7 +767,7 @@ In conclusion, the proposed system is designed to simplify and streamline the ev
 
 Users will benefit from this proposed system, as it reduces the time taken to physically meet and handle documents, and also minimises the frequency of physical meetings needed for tracking member progress. The system enables users to record past activities, which can be easily referred to in the future. This makes it easier for users to view past semester activity reports and create annual reports. Thus, this system can be useful for each batch of JKM members to refer to the past history of documentation, which can help them quickly know how to prepare for certain events, especially annual and large events that require more time for preparation. With this system, they will be able to obtain valuable information on what to do and how to do it for the event's documentation. 
 
-One limitation of this system is that it is only accessible to JKM, office staff, and fellow members of KTDI. This means that JKM committee members from other residential colleges do not have access to this system. As such, there is room for improvement to expand the system's accessibility to other JKM committees.  Another limitation is that the system only focuses on documenting the event, which is just one aspect of event preparation. Other important preparations, such as participant management and attendance tracking, are not directly recorded in the system.  These limitations suggest that the system may require further development and enhancement to meet the needs of all JKM committees and to address other important aspects of event preparation. One challenge that may arise during the project is that the system's features may not be able to solve certain issues faced by users, such as the possibility of file uploads failing due to their large sizes. Another challenge is ensuring the security of the system to protect users' email and password information.
+The limitation of this system is that it is only accessible to JKM, office staff, and fellow members of KTDI. This means that JKM committee members from other residential colleges do not have access to this system. As such, there is room for improvement to expand the system's accessibility to other JKM committees.  Another limitation is that the system only focuses on documenting the event, which is just one aspect of event preparation. Other important preparations, such as participant management and attendance tracking, are not directly recorded in the system.  These limitations suggest that the system may require further development and enhancement to meet the needs of all JKM committees and to address other important aspects of event preparation. One challenge that may arise during the project is that the system's features may not be able to solve certain issues faced by users, such as the possibility of file uploads failing due to their large sizes. Another challenge is ensuring the security of the system to protect users' email and password information.
 
 Overall, the proposed system offers significant advantages over traditional methods of event management, improving efficiency and reducing the workload for event organisers.
 

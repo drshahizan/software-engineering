@@ -46,18 +46,25 @@ Don't forget to hit the :star: if you like this repo.
     <td>1 Dr. Nor Azizah Ali</td>
     <td>Academic Advisor</td>
     <td>Lecturer</td>
-    <td>Provide feedback on usability of system from a lecturer perspective</td>
+    <td>Provide feedback on usability of system from a lecturer perspective, suggest new features for lecturer use</td>
   </tr>
     <tr>
-    <td>2</td>
-    <td>Staff Faculty Of Computing</td>
-    <td>Office Clerk</td>
-    <td></td>
+    <td>2 Masnawi bin Miskam</td>
+    <td>Administration</td>
+    <td>Administritative Officer</td>
+    <td>Provide feedback on usability of system from an administrator perspective, share the required information in students' profile stored by administration</td>
   </tr>
     <tr>
-    <td>3</td>
-    <td>MPP Faculty Of Computing</td>
-    <td>Student</td>
+    <td>3 Nurul Asyikin Binti Muhamad</td>
+    <td>Student in Faculty of Computing</td>
+    <td>3rd Year Student</td>
+    <td>Provide feedback on usability of system from a student perspective, suggest additional features benefits to students</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>4 Kevin EE</td>
+    <td>Student in Faculty of Computing</td>
+    <td>3rd Year Student</td>
     <td>Provide feedback on usability of system from a student perspective</td>
   </tr>
 </table>
@@ -66,13 +73,20 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 02/05/2023| Wan Nur Sofea Binti Mohd Hasbullah | Main Developer | Develop system and monitoring | Incomplete |
-| 2 | 02/05/2023| Maisarah Binti Rizal | Technical Lead | Develop technical support | Incomplete | 
-| 3 | 02/05/2023 | Nur Arini Fatihah Binti Mohd Sabir | UX/UI Designer | Create user-centered designs |  Incomplete| 
-| 4 | 02/05/2023 | Mulyani Binti Saripuddin | QA/Test Engineer | Test planning, case execution, execution and tracking | Incomplete | 
+| 1 | 01/05/2023| All members |  | Start writing raw information for the proposal | Complete | 
+| 2 | 02/05/2023| Nur Arini Fatihah Binti Mohd Sabir | UX/UI Designer | Contact the Academic Advisor, our first stakeholder | Complete |
+| 3 | 02/05/2023| Wan Nur Sofea Binti Mohd Hasbullah | Main Developer | Prepare interview questions | Complete |
+| 4 | 02/05/2023| All members |  | Conduct a meeting with the first stakeholder | Complete | 
+| 5 | 03/05/2023 | All members | | Gather information and start writing detailed content for the proposal |  Complete| 
+| 6 | 03/05/2023 | All members | | Create a use case diagram using draw.io |  Complete| 
+| 7 | 07/05/2023 | Maisarah Binti Rizal | QA/Test Engineer | Contact our second stakeholder, third-year student| Complete | 
+| 8 | 07/05/2023 | All members | |  Conduct a meeting with the second stakeholder, a third-year student |  Complete | 
+| 9 | 07/05/2023 | Mulyani Binti Saripuddin | QA/Test Engineer | Contact our third stakeholder, another third-year student | Complete | 
+| 10 | 08/05/2023 | All members | | Conduct a meeting with the third stakeholder, another third-year student |  Complete | 
+| 11 | 09/05/2023 | Wan Nur Sofea Binti Mohd Hasbullah | | Contact our fourth stakeholder, an administrative officer | Complete |
+| 12 | 15/05/2023 | All members | | Conduct a meeting with the fourth stakeholder, an administrative officer |  Complete | 
  
-
-
+ 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
