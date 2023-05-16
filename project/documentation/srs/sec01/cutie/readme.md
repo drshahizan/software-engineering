@@ -84,7 +84,7 @@ Don't forget to hit the :star: if you like this repo.
 | 6 | 03/05/2023 | Nicole Lim Tze Yee | Business Analyst & Developer Assistant | Determine the budget needed during system development | Complete |
 | 7 | 04/05/2023 | All Members | Project Members | Submit project proposal | Complete |
 | 8 | 07/05/2023 | All Members | Project Members | Determine stakeholder | Complete |
-| 9 | 12/05/2023 | Jaslene Yu | Project Manager | Contact stakeholder | Pending |
+| 9 | 12/05/2023 | Jaslene Yu | Project Manager | Contact stakeholder | Complete |
 |10 | 21/05/2023 | All Members | Project Members | First interview with stakeholder | Pending |
 
 ## Contribution 🛠️
