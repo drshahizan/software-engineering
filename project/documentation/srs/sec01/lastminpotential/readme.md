@@ -46,7 +46,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>PROF. TS. DR. WAN MOHD NASIR WAN NADIR</td>
-    <td>Facukty Staff</td>
+    <td>Faculty management</td>
     <td>Dean</td>
     <td>Provide an overview of the existing system and the expectation of this system</td>
   </tr>
@@ -58,7 +58,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
     <tr>
     <td></td>
-    <td>Lecturer</td>
+    <td>Faculty staff</td>
     <td></td>
     <td></td>
   </tr>
