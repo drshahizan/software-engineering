@@ -55,7 +55,7 @@ Don't forget to hit the :star: if you like this repo.
   <tr>
     <td>2 Liow Zhi Heng</td>
     <td>Student</td>
-    <td>First Year Data Engineering Student</td>
+    <td>First Year Graphic and Design Student</td>
     <td>Provide feedback. The student can test the system during development and provides feedback regarding usability, functionality and design. This feedback can help us to identify bugs or issues that need to be addressed.</td>
   </tr>
     <tr>
