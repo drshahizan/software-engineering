@@ -74,7 +74,7 @@ Don't forget to hit the :star: if you like this repo.
     <tr>
     <td>Ms Rosnani Binti Katip</td>
     <td>KTDI Staff</td>
-    <td></td>
+    <td>KTDI Officer</td>
     <td>Providing the manual KTDI forms.</td>
   </tr>
 </table>
