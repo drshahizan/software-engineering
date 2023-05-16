@@ -75,7 +75,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>Ms Rosnani Binti Katip</td>
     <td>KTDI Staff</td>
     <td></td>
-    <td>Providing the manual KTDI Google forms.</td>
+    <td>Providing the manual KTDI forms.</td>
   </tr>
 </table>
 
