@@ -86,11 +86,11 @@ One Stop Parcel Center & Cengal Parcel Point
 | 9| 03/05/2023|Erina,Thevan,Nik,Izzah|All member| Create proposal with gathered information|Complete|  
 | 10| 04/05/2023|Izzah,Thevan|Front-end& Back-end developer| Create usercase diagram with gathered requirement|Complete|   
 | 11| 05/05/2023|Erina,Nik|Project Manager,Software architect| Update Proposal |Complete| 
-| 8| 06/05/2023|Erina,Nik|Project Manager,Software architect| Contact Stackholder 4 (Johnny) |Complete| 
-| 9| 07/05/2023|Erina,Thevan,Nik,Izzah|All members|Create interview questions for stackholder 4 and 5 |Complete|
-| 12| 13/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Had meeting with stackholder via Google Meet (Johnny) |Complete|
-|13| 14/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Follow-up with stackholder |Complete|
-|14| 15/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Develop UML Diagram and Sequence Diagram | Complete|
+| 12| 06/05/2023|Erina,Nik|Project Manager,Software architect| Contact Stackholder 4 (Johnny) |Complete| 
+| 13| 07/05/2023|Erina,Thevan,Nik,Izzah|All members|Create interview questions for stackholder 4 and 5 |Complete|
+| 14| 13/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Had meeting with stackholder via Google Meet (Johnny) |Complete|
+|15| 14/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Follow-up with stackholder |Complete|
+|16| 15/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Develop UML Diagram and Sequence Diagram | Complete|
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
