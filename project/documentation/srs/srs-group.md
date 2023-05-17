@@ -26,7 +26,7 @@ The following information pertains to the group responsible for implementing the
 
 | No | Topic | Description | Activity | Document |
 | :-----: | ------ | ------ | :------: | :------: |
-| 1 | Allen | UTM Student Grading System |<a href="sec02/allen" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="https://drive.google.com/drive/folders/1VLxRNwSyDmoDCzRIjD04Sygidz8Imp8A?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
+| 1 | Allen | KTDI Mini Mart Online System |<a href="sec02/allen" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="https://drive.google.com/drive/folders/1VLxRNwSyDmoDCzRIjD04Sygidz8Imp8A?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
 | 2 | Alpha | College Room Rental System |<a href="sec02/alpha" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="https://drive.google.com/drive/folders/13ORkXGqhQvWlCVeE8A95KMH4q6KokaPY?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
 | 3 | Beta | Food Ordering System at Arked Angkasa, UTM |<a href="sec02/beta" ><img src="../../../images/task.png" width="24px" height="24px" ></a> |<a href="https://drive.google.com/drive/folders/1rMeCcmN_1bdhgX7RLZXZXZDiChRnBuxn?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
 | 4 | Engineering | Parcel Delivery Service |<a href="sec02/engineering" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="https://drive.google.com/drive/folders/1IGaLvSRuANvc2j9oh9FFVY87RtCi0OaJ?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
