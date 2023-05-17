@@ -53,22 +53,17 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>Nicole Lim Tze Yee</td>
+    <td>-</td>
     <td>Student</td>
     <td>Faculty of Computing (Undergraduate)</td>
-    <td>Actively participate in the development and testing of the Student Feedback System, providing feedback and suggestions to ensure that the system meets their needs and requirements.</td>
+    <td>--</td>
   </tr>
   <tr>
-    <td>Wong Jun Ji</td>
-    <td>Student</td>
-    <td>Faculty of Computing (Undergraduate)</td>
-    <td>Actively participate in the development and testing of the Student Feedback System, providing feedback and suggestions to ensure that the system meets their needs and requirements.</td>
-  </tr>
   <tr>
-    <td>Tiew Chuan Shen</td>
+    <td>-</td>
     <td>Student</td>
     <td>Faculty of Computing (Undergraduate)</td>
-    <td>Actively participate in the development and testing of the Student Feedback System, providing feedback and suggestions to ensure that the system meets their needs and requirements.</td>
+    <td>--</td>
   </tr>
     <tr>
     <td>Dr Noorfa Haszlinna binti Mustaffa</td>
