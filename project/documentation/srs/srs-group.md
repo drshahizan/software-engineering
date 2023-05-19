@@ -16,6 +16,7 @@ The following information pertains to the group responsible for implementing the
 | No | Title | Document |
 | :-----: | ------  | :------: |
 | 1 | MengajiOnetoOne Salary Management System | <a href="https://drive.google.com/drive/folders/1aYNPTLyEzhnXa1N3ZhKtyqyPSq3My5vw?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
+| 2 | Vending Machine Inventory Management System | <a href="https://drive.google.com/drive/folders/1aYNPTLyEzhnXa1N3ZhKtyqyPSq3My5vw?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
 
 ## Section 1
 
