@@ -20,6 +20,20 @@ Figma also supports plugins, which extend the tool's functionality by allowing u
 
 Figma is a versatile and collaborative design tool that provides a cloud-based platform for creating, prototyping, and iterating on digital designs. Its focus on real-time collaboration, intuitive interface, and powerful feature set make it a popular choice among designers and design teams for creating exceptional user experiences.
 
+## Figma and FigJam
+
+Figma and FigJam are both collaborative design tools developed by Figma, but they serve different purposes:
+
+| Item | Figma | FigJam |
+|------------|----------------------------------------------|--------------------------------------------|
+| Purpose    | Design and prototyping tool for UI/UX | Collaborative whiteboarding and brainstorming tool |
+| Features   | Vector editing, layout tools, design components, prototyping | Sticky notes, shapes, drawings, connectors, real-time collaboration |
+| Use Cases  | Designing digital products, websites, mobile apps | Brainstorming sessions, retrospectives, visual collaboration |
+| Collaboration | Real-time collaboration, multiple designers can work together | Real-time cursor tracking, comments, voting |
+| Templates  | Design-focused templates | Pre-made templates for brainstorming and collaboration |
+| Integration | Can integrate with other design and development tools | Integrated within the Figma platform for seamless switching |
+| Access | Cloud-based, accessible from anywhere | Cloud-based, accessible from anywhere |
+
 ## Figma for web design
 To use Figma for web design, follow these general steps:
 
@@ -45,8 +59,8 @@ Remember that these steps provide a general overview of using Figma for web desi
 
 ## Various types of diagrams that can be created using Figma for web design:
 
-| Diagram Type                  | Description |
-|-------------------------------|--------------------------------------------------------------------------------------------------|
+| Diagram Type | Description |
+|-------------------------------|---------------------------------|
 | [Wireframes](https://youtu.be/D4NyQ5iOMF0) | Basic, low-fidelity layouts that outline the structure and content of web pages. |
 | [Flowcharts](https://youtu.be/DNBIcBdKnQo) | Visual representations of the user flow and navigation paths within a website or application. |
 | [Sitemaps](https://youtu.be/RmcnsKAk-Y0) | Hierarchical diagrams that show the structure and organization of web pages in a website. |
@@ -55,10 +69,10 @@ Remember that these steps provide a general overview of using Figma for web desi
 | [Responsive Design Layouts](https://youtu.be/gwiX0oASlEw) | Designs that demonstrate how a website layout adapts and responds to different screen sizes. |
 | [User Flows](https://youtu.be/cvYhuowazh0) | Diagrams illustrating the flow of actions and interactions a user goes through on a website. |
 | [Information Architecture](https://youtu.be/j0y8YBhDjIA) | Diagrams that outline the organization and categorization of content on a website. |
-| Component Structure Diagrams  | Visual representations of how design components are structured and nested within a web design.   |
-| Accessibility Diagrams        | Diagrams that highlight accessibility considerations and guidelines for web design.              |
-| Interaction Diagrams          | Visual representations of user interactions and micro-interactions within a web design.          |
-| Collaboration Workflows       | Diagrams illustrating the collaborative processes and workflows involved in web design projects.|
+| Component Structure Diagrams  | Visual representations of how design components are structured and nested within a web design. |
+| Accessibility Diagrams | Diagrams that highlight accessibility considerations and guidelines for web design. |
+| Interaction Diagrams | Visual representations of user interactions and micro-interactions within a web design. |
+| Collaboration Workflows | Diagrams illustrating the collaborative processes and workflows involved in web design projects.|
 
 ### Convert a design from Figma to HTML code
 
@@ -90,6 +104,17 @@ Certainly! Here are the step-by-step instructions to convert a design from Figma
 
 Remember that the complexity of the design and your familiarity with HTML, CSS, and JavaScript will influence the level of customization and detail required during the conversion process. The steps provided here serve as a general guideline, and you may need to adapt them based on your specific design and coding requirements.
 
+## Behance.net
+- [Shopee Redesign UX/UI research Case Study](https://www.behance.net/gallery/124732313/Shopee-Redesign-UXUI-research-Case-Study)
+- [Sarawak Layer Cake Website Design](https://www.behance.net/gallery/155042793/Sarawak-Layer-Cake-Website-Design)
+- [XPLOR Travel App](https://www.behance.net/gallery/141838429/XPLOR-Travel-App)
+- [Mobile Web Menu - Mamak](https://www.behance.net/gallery/152300087/Mobile-Web-Menu-Mamak)
+- ["Who Says?" Food Ordering App Design](https://www.behance.net/gallery/121617927/Who-Says-Food-Ordering-App-Design)
+- [become invisible braces - website design](https://www.behance.net/gallery/134905001/become-invisible-braces-website-design)
+- [Redesign website UI/UX | Real estate](https://www.behance.net/gallery/167882205/Redesign-website-UIUX-Real-estate?tracking_source=search_projects%7Cfigma+website)
+- [Furniture website](https://www.behance.net/gallery/170249129/Furniture-website?tracking_source=search_projects%7Cfigma+website+web+design)
+- [Crypto Web3 Landing Page Design](https://www.behance.net/gallery/170581621/Crypto-Web3-Landing-Page-Design?tracking_source=search_projects%7Cmalaysia+website)
+- 
 ## Useful links
 - [Figma UI Design Tutorial: Get Started in Just 24 Minutes!](https://youtu.be/FTFaQWZBqQ8)
 - [Landing Page Design Tutorial | Web Design in Figma](https://youtu.be/V_cioLTaDvQ)
