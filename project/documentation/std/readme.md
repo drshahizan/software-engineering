@@ -8,44 +8,45 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Software Test Documentation (STD)
-The IEEE Software Requirements Specifications (SRS) document is a standard document format developed by the Institute of Electrical and Electronics Engineers (IEEE) that provides a comprehensive description of the software requirements for a particular software system. The SRS document serves as a key communication tool between the software developers and the clients or stakeholders, who are responsible for defining the software's functionality, performance, and other non-functional requirements.
+IEEE Software Test Documentation (STD) is a standardized framework that provides guidelines for creating comprehensive test documentation for software projects. It encompasses various artifacts and processes, including test plans, test cases, test procedures, and test results. The STD outlines the necessary documentation to be produced throughout the testing lifecycle, ensuring that testing activities are well-documented, organized, and repeatable. It promotes effective communication among project stakeholders, facilitates test execution and reporting, and enables traceability between requirements, test cases, and defects. By following the IEEE STD guidelines, software development teams can ensure the quality, reliability, and thoroughness of their testing efforts, ultimately leading to higher-quality software products.
 
-## 🔗 [Instructions](instruction.md)
-To produce the Software Requirements Specifications (SRS) document, you are required to complete two tasks:
+## Guidelines for creating an IEEE Software Test Documentation (STD) document
 
-- **Task 1**: involves stakeholders, task delegation and project execution.
-- **Task 2**: involves preparing the Software Requirements Specifications (SRS) document.
+When creating an IEEE Software Test Documentation (STD) document, it is important to follow the guidelines set forth by the IEEE standards. Here are some key guidelines to consider:
 
-## 🔗 [List of Groups](srs-group.md)
-A team project for IEEE Software Requirements Specifications documentation involves multiple users working together to create a comprehensive document that outlines the functional and non-functional requirements of the software system. The project typically involves a Project Management Group, Requirements Gathering Group, Design Group, Development Group, Testing Group, and Documentation Group. Each group member has specific responsibilities and tasks, such as planning, organizing, gathering requirements, designing, implementing, testing, and documenting the software system. By working together, the groups can ensure that the software development process is efficient, effective, and produces high-quality software systems that meet the needs of their users. Effective communication, collaboration, and coordination between the groups are essential to ensure that the project meets its objectives and is delivered on time and within budget. The team project for IEEE Software Requirements Specifications documentation plays a vital role in ensuring that the software system meets the required standards and criteria and meets the expectations of its users.
+1. **Identify the document scope:** Clearly define the purpose, objectives, and scope of the STD document. This includes specifying the software system being tested, the test levels, and any specific areas of focus.
 
-## Guidelines for creating an IEEE Software Requirements Specifications (SRS) document:
-1. **Identify and involve all relevant stakeholders**: Make sure that all stakeholders, including clients, users, developers, and testers, are involved in the requirements gathering process.
-2. **Define the scope of the software system**: Clearly define the scope of the software system and identify the business needs that the software system must meet.
-3. **Use clear and concise language**: Use clear and concise language to describe the software requirements, avoiding technical jargon and ambiguous terms.
-4. **Organize the document into sections**: Organize the SRS document into sections that correspond to the different types of requirements, such as functional and non-functional requirements.
-5. **Use a consistent format**: Use a consistent format for each section of the document, including headings, subheadings, and numbering.
-6. **Use examples to illustrate requirements**: Use examples to illustrate the requirements and make them more concrete.
-7. **Include diagrams and visual aids**: Use diagrams and visual aids, such as flowcharts or use cases, to help explain complex requirements.
-8. **Define acceptance criteria**: Clearly define acceptance criteria for each requirement to ensure that the software system meets the client's expectations.
-9. **Review and validate the document**: Review and validate the SRS document with stakeholders to ensure that it accurately reflects their requirements and expectations.
-By following these guidelines, you can create a well-organized and comprehensive IEEE SRS document that accurately reflects the requirements of the software system and serves as an effective communication tool between stakeholders.
+2. **Document organization:** Structure the document in a logical manner, with clear sections and headings. Include an introduction, overview, and a table of contents for easy navigation.
+
+3. **Test plans:** Provide a comprehensive test plan that outlines the test strategy, objectives, and test coverage. Include information about the test environment, resources, and schedules.
+
+4. **Test cases and procedures:** Document detailed test cases that cover the functional and non-functional requirements of the software. Include step-by-step procedures, expected results, and any specific test data or conditions. Organize the test cases in a clear and systematic manner.
+
+5. **Traceability:** Establish traceability between the test cases, requirements, and other relevant artifacts. Include a traceability matrix that links the test cases to the corresponding requirements, ensuring complete coverage and effective tracking.
+
+6. **Test results and reporting:** Document the test execution results, including pass/fail status, actual results, and any deviations or issues encountered. Provide a summary of the test results and a comprehensive report with detailed findings and recommendations.
+
+7. **Version control and revision history:** Maintain version control for the STD document and clearly document any revisions or updates made to the document over time. This ensures traceability and allows for easy reference to previous versions.
+
+8. **Review and approval:** Ensure the STD document undergoes thorough review and approval by relevant stakeholders, including testers, developers, and project managers. Incorporate feedback and address any concerns or suggestions raised during the review process.
+
+By following these guidelines, software development teams can create a well-structured and comprehensive IEEE Software Test Documentation (STD) document that effectively supports the testing process and ensures high-quality software products.
 
 ## List of Activities
 The IEEE Software Requirements Specifications (SRS) document typically includes the following activities:
 
-| No | Topic | Description | 
-| :-----: | ------ | ------ |
-| 1 | Requirements gathering | Gathering information from stakeholders about the software system's functional and non-functional requirements, including performance, security, reliability, and usability.|
-| 2 | Requirements analysis | Analyzing the requirements to identify any conflicts, ambiguities, or inconsistencies.|
-| 3 | Requirements specification | Specifying the requirements in a clear and unambiguous manner, using appropriate language and notation.|
-| 4 | Requirements validation | Validating the requirements with stakeholders to ensure that they accurately reflect their needs and expectations.|
-| 5 | Requirements management | Managing changes to the requirements throughout the software development life cycle, including identifying and documenting any changes and ensuring that all stakeholders are informed.|
-| 6 | Traceability management | Establishing traceability between the requirements and other system artifacts, such as design documents, test cases, and user manuals, to ensure that all requirements are met.|
-| 7 | Quality assurance | Ensuring that the SRS document meets the required quality standards, including completeness, correctness, and consistency.|
-| 8 | Communication and collaboration | Communicating and collaborating with stakeholders throughout the requirements engineering process to ensure that their needs and expectations are understood and met.|
-
-By carrying out these activities, the IEEE SRS document can serve as a key communication tool between stakeholders and software developers, ensuring that the software system meets the requirements and expectations of its users.
+| No | Topic | Description |
+|----|------------------|------------------------------------------------------------------------------------------------|
+| 1  | Test Plan        | Outlines the overall testing strategy, objectives, test coverage, test environment, and schedules.|
+| 2  | Test Cases       | Detailed documentation of specific test scenarios, including input data, expected results, and execution steps.|
+| 3  | Test Procedures  | Step-by-step instructions for executing test cases and conducting the testing activities.        |
+| 4  | Test Results     | Records the outcomes of test executions, including pass/fail status, actual results, and any deviations or issues encountered.|
+| 5  | Traceability Matrix | Establishes a mapping between requirements, test cases, and other relevant artifacts to ensure coverage and traceability. |
+| 6  | Test Incident Reports | Documents any issues, defects, or incidents encountered during testing, including detailed descriptions, severity, and priority. |
+| 7  | Test Summary Report | Provides a comprehensive overview of the testing activities, including a summary of results, metrics, and recommendations for further actions. |
+| 8  | Test Logs        | Records detailed information about test executions, including date, time, tester name, and any additional notes or observations. |
+| 9  | Test Environment | Describes the hardware, software, and configuration details of the test environment used for testing. |
+| 10 | Test Deliverables | Lists all the test-related documents and artifacts that are part of the Software Test Documentation package. |
 
 ## SRS Document
 The SRS document typically contains the following sections:
