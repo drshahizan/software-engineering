@@ -34,6 +34,12 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
+## Document
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Document SRS||
+|2| Draw.io||
+
 ## Stakeholder
 <table>
   <tr>
