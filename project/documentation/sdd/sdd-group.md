@@ -20,7 +20,7 @@ The following information pertains to the group responsible for implementing the
 
 ## Section 1
 
-| No | Topic | Description | Activity | Document |
+| No | Topic | Description | Project | Document |
 | :-----: | ------ | ------ | :------: | :------: |
 | 1 | Curiousity | KTDI Events Management System |<a href="sec01/curiousity" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="sec01/curiosity" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
 | 2 | Lastminpotential | Faculty of Computing Feedback System |<a href="sec01/lastminpotential" ><img src="../../../images/task.png" width="24px" height="24px" ></a> |<a href="https://drive.google.com/drive/folders/1Jd9PpRl-T7ZPukk70ngpkfTASOn2Dczd?usp=sharing" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a>  |
@@ -31,7 +31,7 @@ The following information pertains to the group responsible for implementing the
 
 ## Section 2
 
-| No | Topic | Description | Activity | Document |
+| No | Topic | Description | Project | Document |
 | :-----: | ------ | ------ | :------: | :------: |
 | 1 | Allen | KTDI Mini Mart Online System |<a href="sec02/allen" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="https://drive.google.com/drive/folders/1VLxRNwSyDmoDCzRIjD04Sygidz8Imp8A?usp=sharing" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
 | 2 | Alpha | College Room Rental System |<a href="sec02/alpha" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="https://drive.google.com/drive/folders/13ORkXGqhQvWlCVeE8A95KMH4q6KokaPY?usp=sharing" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
