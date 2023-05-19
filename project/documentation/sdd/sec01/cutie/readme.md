@@ -38,6 +38,14 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
+## Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Document SDD | <a href="" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|3| Figma| <a href="" ><img src="../../../../../images/figma.svg" width="24px" height="24px" ></a>|
+|4| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+
 ## Stakeholder
 <table>
   <tr>
@@ -76,16 +84,7 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/05/2023| Jaslene Yu | Project Manager | Create project plan | Complete |
-| 2 | 03/05/2023| All Members |Project Members | Conduct meeting regarding proposal | Complete |
-| 3 | 03/05/2023| Tiew Chuan Rong |  UX Designer | Create System Architecture | Complete |
-| 4 | 03/05/2023 | Tiew Chuan Shen | Main Developer | List out software and hardware required | Complete | 
-| 5 | 03/05/2023 | Wong Jun Ji | Quality Assurance & Developer Assistant | Predict the risk of system development | Complete |
-| 6 | 03/05/2023 | Nicole Lim Tze Yee | Business Analyst & Developer Assistant | Determine the budget needed during system development | Complete |
-| 7 | 04/05/2023 | All Members | Project Members | Submit project proposal | Complete |
-| 8 | 07/05/2023 | All Members | Project Members | Determine stakeholder | Complete |
-| 9 | 12/05/2023 | Jaslene Yu | Project Manager | Contact stakeholder | Complete |
-|10 | 21/05/2023 | All Members | Project Members | First interview with stakeholder | Pending |
+| 1 | | | | | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

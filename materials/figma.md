@@ -47,14 +47,14 @@ Remember that these steps provide a general overview of using Figma for web desi
 
 | Diagram Type                  | Description |
 |-------------------------------|--------------------------------------------------------------------------------------------------|
-| Wireframes                    | Basic, low-fidelity layouts that outline the structure and content of web pages.                 |
-| Flowcharts                    | Visual representations of the user flow and navigation paths within a website or application.    |
-| Sitemaps                      | Hierarchical diagrams that show the structure and organization of web pages in a website.        |
-| User Journeys                 | Visualizations of the steps and actions a user takes to accomplish a specific goal on a website. |
-| Site Architecture Diagrams    | Diagrams that depict the overall structure, relationships, and hierarchy of web pages in a site. |
-| Responsive Design Layouts     | Designs that demonstrate how a website layout adapts and responds to different screen sizes.      |
-| User Flows                    | Diagrams illustrating the flow of actions and interactions a user goes through on a website.     |
-| Information Architecture      | Diagrams that outline the organization and categorization of content on a website.               |
+| [Wireframes](https://youtu.be/D4NyQ5iOMF0) | Basic, low-fidelity layouts that outline the structure and content of web pages. |
+| [Flowcharts](https://youtu.be/DNBIcBdKnQo) | Visual representations of the user flow and navigation paths within a website or application. |
+| [Sitemaps](https://youtu.be/RmcnsKAk-Y0) | Hierarchical diagrams that show the structure and organization of web pages in a website. |
+| [User Journeys](https://youtu.be/xK-2IE93HgQ) | Visualizations of the steps and actions a user takes to accomplish a specific goal on a website. |
+| [Site Architecture Diagrams](https://youtu.be/W8vBqSsH2Jo) | Diagrams that depict the overall structure, relationships, and hierarchy of web pages in a site. |
+| [Responsive Design Layouts](https://youtu.be/gwiX0oASlEw) | Designs that demonstrate how a website layout adapts and responds to different screen sizes. |
+| [User Flows](https://youtu.be/cvYhuowazh0) | Diagrams illustrating the flow of actions and interactions a user goes through on a website. |
+| [Information Architecture](https://youtu.be/j0y8YBhDjIA) | Diagrams that outline the organization and categorization of content on a website. |
 | Component Structure Diagrams  | Visual representations of how design components are structured and nested within a web design.   |
 | Accessibility Diagrams        | Diagrams that highlight accessibility considerations and guidelines for web design.              |
 | Interaction Diagrams          | Visual representations of user interactions and micro-interactions within a web design.          |
@@ -89,6 +89,13 @@ Certainly! Here are the step-by-step instructions to convert a design from Figma
 12. **Deploy and publish**: Once you're satisfied with the HTML code, deploy it to your web server or hosting platform to make it publicly accessible. Publish the HTML code as a website or integrate it into your web development workflow as needed.
 
 Remember that the complexity of the design and your familiarity with HTML, CSS, and JavaScript will influence the level of customization and detail required during the conversion process. The steps provided here serve as a general guideline, and you may need to adapt them based on your specific design and coding requirements.
+
+## Useful links
+- [Figma UI Design Tutorial: Get Started in Just 24 Minutes!](https://youtu.be/FTFaQWZBqQ8)
+- [Landing Page Design Tutorial | Web Design in Figma](https://youtu.be/V_cioLTaDvQ)
+- [Learn Figma In Under 10 Minutes!](https://youtu.be/nZ57MPVbHUg)
+- [Belajar Dasar Figma untuk Pemula - Tutorial Bahasa Indonesia}(https://youtu.be/PJIKqnftfPw)
+- [Menguasai FIGMA untuk Pemula + Bikin UI Desain Food Delivery](https://youtu.be/0JeyMBOPLqw)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
