@@ -106,8 +106,6 @@ Remember that the complexity of the design and your familiarity with HTML, CSS, 
 
 ## Behance.net
 
-<a href="SDD-Group1.pdf" ><img src="../images/ui-design.svg" width="64px" height="64px" ></a>
-
 | No | Title                                     | Link                                                  |
 |----|-------------------------------------------|-------------------------------------------------------|
 | 1  | Hostel Management System | <a href="https://www.behance.net/gallery/168568615/Hostel-Management-System" ><img src="../images/ui-design.svg" width="64px" height="64px" ></a> |
