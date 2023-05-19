@@ -105,7 +105,11 @@ Certainly! Here are the step-by-step instructions to convert a design from Figma
 Remember that the complexity of the design and your familiarity with HTML, CSS, and JavaScript will influence the level of customization and detail required during the conversion process. The steps provided here serve as a general guideline, and you may need to adapt them based on your specific design and coding requirements.
 
 ## Behance.net
+- [Hostel Management System](https://www.behance.net/gallery/168568615/Hostel-Management-System?tracking_source=search_projects%7Chostel+system)
+- [Hostelworld - Case study](https://www.behance.net/gallery/150747885/Hostelworld-Case-study?tracking_source=search_projects%7Chostel+system)
+- [SCAD-Hostel Management](https://www.behance.net/gallery/165411173/SCAD-Hostel-Management?tracking_source=search_projects%7Chostel+system)
 - [Shopee Redesign UX/UI research Case Study](https://www.behance.net/gallery/124732313/Shopee-Redesign-UXUI-research-Case-Study)
+- [NIFT Hostel- Student Management System- APP Design](https://www.behance.net/gallery/168712459/NIFT-Hostel-Student-Management-System-APP-Design?tracking_source=search_projects%7Chostel+system)
 - [Sarawak Layer Cake Website Design](https://www.behance.net/gallery/155042793/Sarawak-Layer-Cake-Website-Design)
 - [XPLOR Travel App](https://www.behance.net/gallery/141838429/XPLOR-Travel-App)
 - [Mobile Web Menu - Mamak](https://www.behance.net/gallery/152300087/Mobile-Web-Menu-Mamak)
@@ -114,7 +118,9 @@ Remember that the complexity of the design and your familiarity with HTML, CSS, 
 - [Redesign website UI/UX | Real estate](https://www.behance.net/gallery/167882205/Redesign-website-UIUX-Real-estate?tracking_source=search_projects%7Cfigma+website)
 - [Furniture website](https://www.behance.net/gallery/170249129/Furniture-website?tracking_source=search_projects%7Cfigma+website+web+design)
 - [Crypto Web3 Landing Page Design](https://www.behance.net/gallery/170581621/Crypto-Web3-Landing-Page-Design?tracking_source=search_projects%7Cmalaysia+website)
-- 
+- [Jawahar Bhawan, IIT Roorkee - Website Redesign](https://www.behance.net/gallery/151947687/Jawahar-Bhawan-IIT-Roorkee-Website-Redesign?tracking_source=search_projects%7Chostel+website)
+- [Student Hostel Landing page](https://www.behance.net/gallery/103300127/Student-Hostel-Landing-page?tracking_source=search_projects%7Chostel+website)
+
 ## Useful links
 - [Figma UI Design Tutorial: Get Started in Just 24 Minutes!](https://youtu.be/FTFaQWZBqQ8)
 - [Landing Page Design Tutorial | Web Design in Figma](https://youtu.be/V_cioLTaDvQ)
