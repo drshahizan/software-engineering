@@ -48,16 +48,32 @@ The IEEE Software Requirements Specifications (SRS) document typically includes 
 | 9  | Test Environment | Describes the hardware, software, and configuration details of the test environment used for testing. |
 | 10 | Test Deliverables | Lists all the test-related documents and artifacts that are part of the Software Test Documentation package. |
 
-## SRS Document
-The SRS document typically contains the following sections:
-1. **Introduction**: This section provides an overview of the software system and the purpose of the SRS document.
-2. **Overall Description**: This section describes the software system's context, its users, and the business needs that the software system must meet.
-3. **Specific Requirements**: This section contains a detailed description of the software system's functional and non-functional requirements, including performance, security, reliability, and usability.
-4. **External Interface Requirements**: This section describes the interfaces between the software system and external systems or devices, including hardware, software, and communication protocols.
-5. **System Features**: This section describes the software system's features, including the user interface, data management, and system functionality.
-6. **Other Non-Functional Requirements**: This section contains additional non-functional requirements, such as legal, regulatory, or ethical requirements.
-7. **Appendices**: This section contains any additional information that is relevant to the SRS document, such as glossary terms, acronyms, or references.
-The IEEE SRS document provides a structured and standardized way of documenting software requirements that facilitates communication between stakeholders, reduces misunderstandings, and improves the overall quality of the software system.
+## STD Document
+The IEEE Software Test Documentation (STD) typically contains the following sections:
+
+1. **Introduction**: Provides an overview of the document, its purpose, and its intended audience.
+
+2. **Test Plan**: Outlines the overall testing strategy, objectives, test coverage, test environment, and schedules.
+
+3. **Test Cases**: Documents specific test scenarios, including input data, expected results, and execution steps.
+
+4. **Test Procedures**: Provides step-by-step instructions for executing test cases and conducting the testing activities.
+
+5. **Test Results**: Records the outcomes of test executions, including pass/fail status, actual results, and any deviations or issues encountered.
+
+6. **Traceability Matrix**: Establishes a mapping between requirements, test cases, and other relevant artifacts to ensure coverage and traceability.
+
+7. **Test Incident Reports**: Documents any issues, defects, or incidents encountered during testing, including detailed descriptions, severity, and priority.
+
+8. **Test Summary Report**: Provides a comprehensive overview of the testing activities, including a summary of results, metrics, and recommendations for further actions.
+
+9. **Test Logs**: Records detailed information about test executions, including date, time, tester name, and any additional notes or observations.
+
+10. **Test Environment**: Describes the hardware, software, and configuration details of the test environment used for testing.
+
+11. **Test Deliverables**: Lists all the test-related documents and artifacts that are part of the Software Test Documentation package.
+
+Each of these sections plays a vital role in documenting the testing activities, ensuring clarity, traceability, and effective communication throughout the software testing process.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
