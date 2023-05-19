@@ -43,10 +43,26 @@ To use Figma for web design, follow these general steps:
 
 Remember that these steps provide a general overview of using Figma for web design. The specific details and techniques will vary based on your design requirements, preferences, and the complexity of your project. Figma offers extensive documentation and tutorials to help you explore its features in-depth and further refine your web design skills.
 
+## Figma and FigJam
+
+Figma and FigJam are both collaborative design tools developed by Figma, but they serve different purposes:
+
+| Item | Figma | FigJam |
+|------------|----------------------------------------------|--------------------------------------------|
+| Purpose    | Design and prototyping tool for UI/UX         | Collaborative whiteboarding and brainstorming tool |
+| Features   | Vector editing, layout tools, design components, prototyping | Sticky notes, shapes, drawings, connectors, real-time collaboration |
+| Use Cases  | Designing digital products, websites, mobile apps | Brainstorming sessions, retrospectives, visual collaboration |
+| Collaboration | Real-time collaboration, multiple designers can work together | Real-time cursor tracking, comments, voting |
+| Templates  | Design-focused templates                      | Pre-made templates for brainstorming and collaboration |
+| Integration | Can integrate with other design and development tools | Integrated within the Figma platform for seamless switching |
+| Access     | Cloud-based, accessible from anywhere           | Cloud-based, accessible from anywhere         |
+
+Please note that the table provides a general overview, and there may be additional features or nuances specific to each tool.
+
 ## Various types of diagrams that can be created using Figma for web design:
 
-| Diagram Type                  | Description |
-|-------------------------------|--------------------------------------------------------------------------------------------------|
+| Diagram Type | Description |
+|-------------------------------|---------------------------------|
 | [Wireframes](https://youtu.be/D4NyQ5iOMF0) | Basic, low-fidelity layouts that outline the structure and content of web pages. |
 | [Flowcharts](https://youtu.be/DNBIcBdKnQo) | Visual representations of the user flow and navigation paths within a website or application. |
 | [Sitemaps](https://youtu.be/RmcnsKAk-Y0) | Hierarchical diagrams that show the structure and organization of web pages in a website. |
@@ -55,10 +71,10 @@ Remember that these steps provide a general overview of using Figma for web desi
 | [Responsive Design Layouts](https://youtu.be/gwiX0oASlEw) | Designs that demonstrate how a website layout adapts and responds to different screen sizes. |
 | [User Flows](https://youtu.be/cvYhuowazh0) | Diagrams illustrating the flow of actions and interactions a user goes through on a website. |
 | [Information Architecture](https://youtu.be/j0y8YBhDjIA) | Diagrams that outline the organization and categorization of content on a website. |
-| Component Structure Diagrams  | Visual representations of how design components are structured and nested within a web design.   |
-| Accessibility Diagrams        | Diagrams that highlight accessibility considerations and guidelines for web design.              |
-| Interaction Diagrams          | Visual representations of user interactions and micro-interactions within a web design.          |
-| Collaboration Workflows       | Diagrams illustrating the collaborative processes and workflows involved in web design projects.|
+| Component Structure Diagrams  | Visual representations of how design components are structured and nested within a web design. |
+| Accessibility Diagrams | Diagrams that highlight accessibility considerations and guidelines for web design. |
+| Interaction Diagrams | Visual representations of user interactions and micro-interactions within a web design. |
+| Collaboration Workflows | Diagrams illustrating the collaborative processes and workflows involved in web design projects.|
 
 ### Convert a design from Figma to HTML code
 
