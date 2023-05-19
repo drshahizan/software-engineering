@@ -90,6 +90,13 @@ Certainly! Here are the step-by-step instructions to convert a design from Figma
 
 Remember that the complexity of the design and your familiarity with HTML, CSS, and JavaScript will influence the level of customization and detail required during the conversion process. The steps provided here serve as a general guideline, and you may need to adapt them based on your specific design and coding requirements.
 
+## Useful links
+- [Figma UI Design Tutorial: Get Started in Just 24 Minutes!](https://youtu.be/FTFaQWZBqQ8)
+- [Landing Page Design Tutorial | Web Design in Figma](https://youtu.be/V_cioLTaDvQ)
+- [Learn Figma In Under 10 Minutes!](https://youtu.be/nZ57MPVbHUg)
+- [Belajar Dasar Figma untuk Pemula - Tutorial Bahasa Indonesia}(https://youtu.be/PJIKqnftfPw)
+- [Menguasai FIGMA untuk Pemula + Bikin UI Desain Food Delivery](https://youtu.be/0JeyMBOPLqw)
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
