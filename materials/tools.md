@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # Tools
 ## Figma
-Figma is a cloud-based design and prototyping tool used for creating user interfaces, user experience (UI/UX) designs, and interactive prototypes. It provides a collaborative platform where multiple designers and stakeholders can work together in real-time on design projects. Figma offers a wide range of features and functionalities, including vector editing tools, design components, interactive animations, and version control [**More info...**](figma.md).
+Figma is a cloud-based design and prototyping tool used for creating user interfaces, user experience (UI/UX) designs, and interactive prototypes. It provides a collaborative platform where multiple designers and stakeholders can work together in real-time on design projects. Figma offers a wide range of features and functionalities, including vector editing tools, design components, interactive animations, and version control [**[More info...]**](figma.md).
 
 
 ### Five great tools for creating diagrams and flowcharts
