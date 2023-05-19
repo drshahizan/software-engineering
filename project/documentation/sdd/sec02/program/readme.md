@@ -33,6 +33,13 @@ Don't forget to hit the :star: if you like this repo.
     <td>QA/Test Engineer</td>
   </tr>
 </table>
+## Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Document SDD | <a href="" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|3| Figma| <a href="" ><img src="../../../../../images/figma.svg" width="24px" height="24px" ></a>|
+|4| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 <table>
@@ -73,20 +80,8 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/05/2023| All members |  | Start writing raw information for the proposal | Complete | 
-| 2 | 02/05/2023| Nur Arini Fatihah Binti Mohd Sabir | UX/UI Designer | Contact the Academic Advisor, our first stakeholder | Complete |
-| 3 | 02/05/2023| Wan Nur Sofea Binti Mohd Hasbullah | Main Developer | Prepare interview questions | Complete |
-| 4 | 02/05/2023| All members |  | Conduct a meeting with the first stakeholder | Complete | 
-| 5 | 03/05/2023 | All members | | Gather information and start writing detailed content for the proposal |  Complete| 
-| 6 | 03/05/2023 | All members | | Create a use case diagram using draw.io |  Complete| 
-| 7 | 07/05/2023 | Maisarah Binti Rizal | QA/Test Engineer | Contact our second stakeholder, third-year student| Complete | 
-| 8 | 07/05/2023 | All members | |  Conduct a meeting with the second stakeholder, a third-year student |  Complete | 
-| 9 | 07/05/2023 | Mulyani Binti Saripuddin | QA/Test Engineer | Contact our third stakeholder, another third-year student | Complete | 
-| 10 | 08/05/2023 | All members | | Conduct a meeting with the third stakeholder, another third-year student |  Complete | 
-| 11 | 09/05/2023 | Wan Nur Sofea Binti Mohd Hasbullah | | Contact our fourth stakeholder, an administrative officer | Complete |
-| 12 | 15/05/2023 | All members | | Conduct a meeting with the fourth stakeholder, an administrative officer |  Complete | 
- 
- 
+| 1 | | | | | 
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
