@@ -10,6 +10,8 @@ Don't forget to hit the :star: if you like this repo.
 # Software Test Documentation (STD)
 IEEE Software Test Documentation (STD) is a standardized framework that provides guidelines for creating comprehensive test documentation for software projects. It encompasses various artifacts and processes, including test plans, test cases, test procedures, and test results. The STD outlines the necessary documentation to be produced throughout the testing lifecycle, ensuring that testing activities are well-documented, organized, and repeatable. It promotes effective communication among project stakeholders, facilitates test execution and reporting, and enables traceability between requirements, test cases, and defects. By following the IEEE STD guidelines, software development teams can ensure the quality, reliability, and thoroughness of their testing efforts, ultimately leading to higher-quality software products.
 
+## 🔗 [List of Groups](std-group.md)
+
 ## Guidelines for creating an IEEE Software Test Documentation (STD) document
 
 When creating an IEEE Software Test Documentation (STD) document, it is important to follow the guidelines set forth by the IEEE standards. Here are some key guidelines to consider:
