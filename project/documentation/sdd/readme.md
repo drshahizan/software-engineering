@@ -7,56 +7,81 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Software Requirements Specifications 
-The IEEE Software Requirements Specifications (SRS) document is a standard document format developed by the Institute of Electrical and Electronics Engineers (IEEE) that provides a comprehensive description of the software requirements for a particular software system. The SRS document serves as a key communication tool between the software developers and the clients or stakeholders, who are responsible for defining the software's functionality, performance, and other non-functional requirements.
+# System Design Descriptions (SDD)
+IEEE System Design Descriptions (SDD) provide a standardized framework for documenting the design aspects of a system. SDD encompasses various components, including the system architectural design, detailed description of components, data design, and user interface design. The SDD document aims to provide a comprehensive overview of the system's design, including its structure, functionality, interfaces, and dependencies. By following the IEEE guidelines for creating SDD, software development teams can ensure that the system design is well-documented, facilitating effective communication, collaboration, and understanding among project stakeholders. The SDD serves as a reference document throughout the development lifecycle, aiding in system understanding, maintenance, and future enhancements.
 
-## 🔗 [Instructions](instruction.md)
-To produce the Software Requirements Specifications (SRS) document, you are required to complete two tasks:
+## 🔗 [List of Groups](sdd-group.md)
 
-- **Task 1**: involves stakeholders, task delegation and project execution.
-- **Task 2**: involves preparing the Software Requirements Specifications (SRS) document.
+## Guidelines for creating an IEEE System Design Descriptions (SDD) document
 
-## 🔗 [List of Groups](srs-group.md)
-A team project for IEEE Software Requirements Specifications documentation involves multiple users working together to create a comprehensive document that outlines the functional and non-functional requirements of the software system. The project typically involves a Project Management Group, Requirements Gathering Group, Design Group, Development Group, Testing Group, and Documentation Group. Each group member has specific responsibilities and tasks, such as planning, organizing, gathering requirements, designing, implementing, testing, and documenting the software system. By working together, the groups can ensure that the software development process is efficient, effective, and produces high-quality software systems that meet the needs of their users. Effective communication, collaboration, and coordination between the groups are essential to ensure that the project meets its objectives and is delivered on time and within budget. The team project for IEEE Software Requirements Specifications documentation plays a vital role in ensuring that the software system meets the required standards and criteria and meets the expectations of its users.
+When creating an IEEE System Design Descriptions (SDD) document, it is essential to follow the guidelines set forth by the IEEE standards. Here are some key guidelines to consider:
 
-## Guidelines for creating an IEEE Software Requirements Specifications (SRS) document:
-1. **Identify and involve all relevant stakeholders**: Make sure that all stakeholders, including clients, users, developers, and testers, are involved in the requirements gathering process.
-2. **Define the scope of the software system**: Clearly define the scope of the software system and identify the business needs that the software system must meet.
-3. **Use clear and concise language**: Use clear and concise language to describe the software requirements, avoiding technical jargon and ambiguous terms.
-4. **Organize the document into sections**: Organize the SRS document into sections that correspond to the different types of requirements, such as functional and non-functional requirements.
-5. **Use a consistent format**: Use a consistent format for each section of the document, including headings, subheadings, and numbering.
-6. **Use examples to illustrate requirements**: Use examples to illustrate the requirements and make them more concrete.
-7. **Include diagrams and visual aids**: Use diagrams and visual aids, such as flowcharts or use cases, to help explain complex requirements.
-8. **Define acceptance criteria**: Clearly define acceptance criteria for each requirement to ensure that the software system meets the client's expectations.
-9. **Review and validate the document**: Review and validate the SRS document with stakeholders to ensure that it accurately reflects their requirements and expectations.
-By following these guidelines, you can create a well-organized and comprehensive IEEE SRS document that accurately reflects the requirements of the software system and serves as an effective communication tool between stakeholders.
+1. **Identify the document scope:** Clearly define the purpose, objectives, and scope of the SDD document. Specify the system being designed, its intended functionality, and any specific design considerations.
+
+2. **Document organization:** Structure the document in a logical manner with clear sections and headings. Include an introduction, overview, and a table of contents for easy navigation and reference.
+
+3. **System Architectural Design:** Describe the overall architecture of the system, including its components, modules, and their interactions. Provide diagrams, schematics, and any necessary technical details to ensure a comprehensive understanding of the system's structure.
+
+4. **Detailed Description of Components:** Document each system component in detail, including its purpose, functionality, interfaces, and dependencies. Explain the relationships and interactions between components, and how they contribute to the overall system behavior.
+
+5. **Data Design:** Outline the data structures, database schema, and storage mechanisms used in the system. Describe how data is organized, accessed, and managed, ensuring data integrity and efficient data processing.
+
+6. **User Interface Design:** Specify the design of the user interface, including layout, navigation, and interactive elements. Describe the user experience guidelines and considerations that have been incorporated into the design.
+
+7. **Traceability:** Establish traceability between the system design components and other project artifacts, such as requirements, test cases, and implementation code. Ensure that all design decisions and requirements are properly documented and accounted for.
+
+8. **Review and approval:** Conduct thorough reviews of the SDD document with relevant stakeholders, including architects, designers, and project managers. Incorporate feedback and address any concerns or suggestions raised during the review process.
+
+By following these guidelines, software development teams can create a well-structured and comprehensive IEEE System Design Descriptions (SDD) document, facilitating effective communication, collaboration, and understanding of the system design throughout the development process.
 
 ## List of Activities
-The IEEE Software Requirements Specifications (SRS) document typically includes the following activities:
+The IEEE System Design Descriptions (SDD) document typically includes the following activities:
 
-| No | Topic | Description | 
-| :-----: | ------ | ------ |
-| 1 | Requirements gathering | Gathering information from stakeholders about the software system's functional and non-functional requirements, including performance, security, reliability, and usability.|
-| 2 | Requirements analysis | Analyzing the requirements to identify any conflicts, ambiguities, or inconsistencies.|
-| 3 | Requirements specification | Specifying the requirements in a clear and unambiguous manner, using appropriate language and notation.|
-| 4 | Requirements validation | Validating the requirements with stakeholders to ensure that they accurately reflect their needs and expectations.|
-| 5 | Requirements management | Managing changes to the requirements throughout the software development life cycle, including identifying and documenting any changes and ensuring that all stakeholders are informed.|
-| 6 | Traceability management | Establishing traceability between the requirements and other system artifacts, such as design documents, test cases, and user manuals, to ensure that all requirements are met.|
-| 7 | Quality assurance | Ensuring that the SRS document meets the required quality standards, including completeness, correctness, and consistency.|
-| 8 | Communication and collaboration | Communicating and collaborating with stakeholders throughout the requirements engineering process to ensure that their needs and expectations are understood and met.|
+| No | Topic | Description |
+|----|-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | System Introduction               | Provides an overview of the system being designed, including its purpose, goals, and high-level requirements. |
+| 2  | System Architecture               | Describes the overall system architecture, including its components, modules, and their relationships. |
+| 3  | Component Description             | Provides detailed descriptions of each system component, including its purpose, functionality, interfaces, and dependencies. |
+| 4  | Data Design                       | Outlines the data structures, database schema, and storage mechanisms used in the system. |
+| 5  | Interface Design                  | Describes the interfaces between system components, including communication protocols, data formats, and interaction patterns. |
+| 6  | System Behavior                   | Specifies the expected behavior of the system, including its response to various inputs, error handling, and system states. |
+| 7  | System Configuration and Deployment | Defines the system's hardware and software requirements, installation procedures, and configuration settings. |
+| 8  | Security Considerations           | Addresses the security aspects of the system, including access controls, authentication, encryption, and data privacy measures. |
+| 9  | Performance and Scalability       | Considers the system's performance requirements, scalability, and optimization strategies. |
+| 10 | Maintenance and Support           | Outlines the strategies and procedures for system maintenance, including versioning, bug fixing, and user support. |
+| 11 | Constraints and Assumptions       | Lists any constraints or assumptions made during the system design process, such as hardware limitations, third-party dependencies, or specific operating environments. |
+| 12 | Glossary                          | Provides definitions and explanations of technical terms and acronyms used in the SDD document. |
 
-By carrying out these activities, the IEEE SRS document can serve as a key communication tool between stakeholders and software developers, ensuring that the software system meets the requirements and expectations of its users.
+Each of these activities plays a crucial role in documenting the system design in an IEEE System Design Descriptions (SDD) document. They ensure that the design aspects of the system are comprehensively captured, facilitating effective communication, implementation, and maintenance of the system.
 
 ## SRS Document
-The SRS document typically contains the following sections:
-1. **Introduction**: This section provides an overview of the software system and the purpose of the SRS document.
-2. **Overall Description**: This section describes the software system's context, its users, and the business needs that the software system must meet.
-3. **Specific Requirements**: This section contains a detailed description of the software system's functional and non-functional requirements, including performance, security, reliability, and usability.
-4. **External Interface Requirements**: This section describes the interfaces between the software system and external systems or devices, including hardware, software, and communication protocols.
-5. **System Features**: This section describes the software system's features, including the user interface, data management, and system functionality.
-6. **Other Non-Functional Requirements**: This section contains additional non-functional requirements, such as legal, regulatory, or ethical requirements.
-7. **Appendices**: This section contains any additional information that is relevant to the SRS document, such as glossary terms, acronyms, or references.
-The IEEE SRS document provides a structured and standardized way of documenting software requirements that facilitates communication between stakeholders, reduces misunderstandings, and improves the overall quality of the software system.
+The IEEE System Design Descriptions (SDD) document typically contains the following sections:
+
+1. **Introduction**: Provides an overview of the document, its purpose, and its intended audience.
+
+2. **System Architecture**: Describes the overall architecture of the system, including its components, modules, and their relationships.
+
+3. **Component Descriptions**: Provides detailed descriptions of each system component, including its purpose, functionality, interfaces, and dependencies.
+
+4. **Data Design**: Outlines the data structures, database schema, and storage mechanisms used in the system.
+
+5. **Interface Design**: Describes the interfaces between system components, including communication protocols, data formats, and interaction patterns.
+
+6. **System Behavior**: Specifies the expected behavior of the system, including its response to various inputs, error handling, and system states.
+
+7. **System Configuration and Deployment**: Defines the system's hardware and software requirements, installation procedures, and configuration settings.
+
+8. **Security Considerations**: Addresses the security aspects of the system, including access controls, authentication, encryption, and data privacy measures.
+
+9. **Performance and Scalability**: Considers the system's performance requirements, scalability, and optimization strategies.
+
+10. **Maintenance and Support**: Outlines the strategies and procedures for system maintenance, including versioning, bug fixing, and user support.
+
+11. **Constraints and Assumptions**: Lists any constraints or assumptions made during the system design process, such as hardware limitations, third-party dependencies, or specific operating environments.
+
+12. **Glossary**: Provides definitions and explanations of technical terms and acronyms used in the SDD document.
+
+Each of these sections plays a vital role in documenting the system design in an IEEE System Design Descriptions (SDD) document, ensuring that all relevant aspects of the system are captured and communicated effectively.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
