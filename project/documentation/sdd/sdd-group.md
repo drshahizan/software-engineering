@@ -22,7 +22,7 @@ The following information pertains to the group responsible for implementing the
 
 | No | Topic | Description | Activity | Document |
 | :-----: | ------ | ------ | :------: | :------: |
-| 1 | Curiousity | KTDI Events Management System |<a href="sec01/curiousity" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="https://drive.google.com/drive/folders/1aYNPTLyEzhnXa1N3ZhKtyqyPSq3My5vw?usp=sharing" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
+| 1 | Curiousity | KTDI Events Management System |<a href="sec01/curiousity" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="sec01/curiosity" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
 | 2 | Lastminpotential | Faculty of Computing Feedback System |<a href="sec01/lastminpotential" ><img src="../../../images/task.png" width="24px" height="24px" ></a> |<a href="https://drive.google.com/drive/folders/1Jd9PpRl-T7ZPukk70ngpkfTASOn2Dczd?usp=sharing" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a>  |
 | 3 | Limapuluh | UTM Student Feedback System |<a href="sec01/limapuluh" ><img src="../../../images/task.png" width="24px" height="24px" ></a> |<a href="https://drive.google.com/drive/folders/165mLbTsRNmratunYS83trkycvVrxzZxc?usp=sharing" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a>  |
 | 4 | Cutie | UTM Student Attendance Management System |<a href="sec01/cutie" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="https://drive.google.com/drive/folders/1Cc6jUmvTntoEq5_M8lMJhg6jELg_-IfI?usp=sharing" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
