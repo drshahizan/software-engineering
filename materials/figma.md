@@ -108,7 +108,7 @@ Remember that the complexity of the design and your familiarity with HTML, CSS, 
 
 | No | Title                                     | Link                                                  |
 |----|-------------------------------------------|-------------------------------------------------------|
-| 1  | Hostel Management System | [![Link](https://img.icons8.com/material/24/000000/link--v1.png)](https://www.behance.net/gallery/168568615/Hostel-Management-System?tracking_source=search_projects%7Chostel+system) |
+| 1  | Hostel Management System | [![Link](../images/ui-design.svg)](https://www.behance.net/gallery/168568615/Hostel-Management-System?tracking_source=search_projects%7Chostel+system) |
 | 2  | Hostelworld - Case study | [![Link](https://img.icons8.com/material/24/000000/link--v1.png)](https://www.behance.net/gallery/150747885/Hostelworld-Case-study?tracking_source=search_projects%7Chostel+system) |
 | 3  | SCAD-Hostel Management | [![Link](https://img.icons8.com/material/24/000000/link--v1.png)](https://www.behance.net/gallery/165411173/SCAD-Hostel-Management?tracking_source=search_projects%7Chostel+system) |
 | 4  | Shopee Redesign UX/UI research Case Study | [![Link](https://img.icons8.com/material/24/000000/link--v1.png)](https://www.behance.net/gallery/124732313/Shopee-Redesign-UXUI-research-Case-Study) |
