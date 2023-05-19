@@ -20,6 +20,20 @@ Figma also supports plugins, which extend the tool's functionality by allowing u
 
 Figma is a versatile and collaborative design tool that provides a cloud-based platform for creating, prototyping, and iterating on digital designs. Its focus on real-time collaboration, intuitive interface, and powerful feature set make it a popular choice among designers and design teams for creating exceptional user experiences.
 
+## Figma and FigJam
+
+Figma and FigJam are both collaborative design tools developed by Figma, but they serve different purposes:
+
+| Item | Figma | FigJam |
+|------------|----------------------------------------------|--------------------------------------------|
+| Purpose    | Design and prototyping tool for UI/UX | Collaborative whiteboarding and brainstorming tool |
+| Features   | Vector editing, layout tools, design components, prototyping | Sticky notes, shapes, drawings, connectors, real-time collaboration |
+| Use Cases  | Designing digital products, websites, mobile apps | Brainstorming sessions, retrospectives, visual collaboration |
+| Collaboration | Real-time collaboration, multiple designers can work together | Real-time cursor tracking, comments, voting |
+| Templates  | Design-focused templates | Pre-made templates for brainstorming and collaboration |
+| Integration | Can integrate with other design and development tools | Integrated within the Figma platform for seamless switching |
+| Access | Cloud-based, accessible from anywhere | Cloud-based, accessible from anywhere |
+
 ## Figma for web design
 To use Figma for web design, follow these general steps:
 
@@ -45,8 +59,8 @@ Remember that these steps provide a general overview of using Figma for web desi
 
 ## Various types of diagrams that can be created using Figma for web design:
 
-| Diagram Type                  | Description |
-|-------------------------------|--------------------------------------------------------------------------------------------------|
+| Diagram Type | Description |
+|-------------------------------|---------------------------------|
 | [Wireframes](https://youtu.be/D4NyQ5iOMF0) | Basic, low-fidelity layouts that outline the structure and content of web pages. |
 | [Flowcharts](https://youtu.be/DNBIcBdKnQo) | Visual representations of the user flow and navigation paths within a website or application. |
 | [Sitemaps](https://youtu.be/RmcnsKAk-Y0) | Hierarchical diagrams that show the structure and organization of web pages in a website. |
@@ -55,10 +69,10 @@ Remember that these steps provide a general overview of using Figma for web desi
 | [Responsive Design Layouts](https://youtu.be/gwiX0oASlEw) | Designs that demonstrate how a website layout adapts and responds to different screen sizes. |
 | [User Flows](https://youtu.be/cvYhuowazh0) | Diagrams illustrating the flow of actions and interactions a user goes through on a website. |
 | [Information Architecture](https://youtu.be/j0y8YBhDjIA) | Diagrams that outline the organization and categorization of content on a website. |
-| Component Structure Diagrams  | Visual representations of how design components are structured and nested within a web design.   |
-| Accessibility Diagrams        | Diagrams that highlight accessibility considerations and guidelines for web design.              |
-| Interaction Diagrams          | Visual representations of user interactions and micro-interactions within a web design.          |
-| Collaboration Workflows       | Diagrams illustrating the collaborative processes and workflows involved in web design projects.|
+| Component Structure Diagrams  | Visual representations of how design components are structured and nested within a web design. |
+| Accessibility Diagrams | Diagrams that highlight accessibility considerations and guidelines for web design. |
+| Interaction Diagrams | Visual representations of user interactions and micro-interactions within a web design. |
+| Collaboration Workflows | Diagrams illustrating the collaborative processes and workflows involved in web design projects.|
 
 ### Convert a design from Figma to HTML code
 
@@ -89,6 +103,26 @@ Certainly! Here are the step-by-step instructions to convert a design from Figma
 12. **Deploy and publish**: Once you're satisfied with the HTML code, deploy it to your web server or hosting platform to make it publicly accessible. Publish the HTML code as a website or integrate it into your web development workflow as needed.
 
 Remember that the complexity of the design and your familiarity with HTML, CSS, and JavaScript will influence the level of customization and detail required during the conversion process. The steps provided here serve as a general guideline, and you may need to adapt them based on your specific design and coding requirements.
+
+## Behance.net
+
+| No | Title                                     | Link                                                  |
+|----|-------------------------------------------|-------------------------------------------------------|
+| 1  | Hostel Management System | [![Link](https://img.icons8.com/material/24/000000/link--v1.png)](https://www.behance.net/gallery/168568615/Hostel-Management-System?tracking_source=search_projects%7Chostel+system) |
+| 2  | Hostelworld - Case study | [![Link](https://img.icons8.com/material/24/000000/link--v1.png)](https://www.behance.net/gallery/150747885/Hostelworld-Case-study?tracking_source=search_projects%7Chostel+system) |
+| 3  | SCAD-Hostel Management | [![Link](https://img.icons8.com/material/24/000000/link--v1.png)](https://www.behance.net/gallery/165411173/SCAD-Hostel-Management?tracking_source=search_projects%7Chostel+system) |
+| 4  | Shopee Redesign UX/UI research Case Study | [![Link](https://img.icons8.com/material/24/000000/link--v1.png)](https://www.behance.net/gallery/124732313/Shopee-Redesign-UXUI-research-Case-Study) |
+| 5  | NIFT Hostel- Student Management System- APP Design | [![Link](https://img.icons8.com/material/24/000000/link--v1.png)](https://www.behance.net/gallery/168712459/NIFT-Hostel-Student-Management-System-APP-Design?tracking_source=search_projects%7Chostel+system) |
+| 6  | Sarawak Layer Cake Website Design | [![Link](https://img.icons8.com/material/24/000000/link--v1.png)](https://www.behance.net/gallery/155042793/Sarawak-Layer-Cake-Website-Design) |
+| 7  | XPLOR Travel App | [![Link](https://img.icons8.com/material/24/000000/link--v1.png)](https://www.behance.net/gallery/141838429/XPLOR-Travel-App) |
+| 8  | Mobile Web Menu - Mamak | [![Link](https://img.icons8.com/material/24/000000/link--v1.png)](https://www.behance.net/gallery/152300087/Mobile-Web-Menu-Mamak) |
+| 9  | "Who Says?" Food Ordering App Design | [![Link](https://img.icons8.com/material/24/000000/link--v1.png)](https://www.behance.net/gallery/121617927/Who-Says-Food-Ordering-App-Design) |
+| 10 | become invisible braces - website design | [![Link](https://img.icons8.com/material/24/000000/link--v1.png)](https://www.behance.net/gallery/134905001/become-invisible-braces-website-design) |
+| 11 | Redesign website UI/UX - Real estate | [![Link](https://img.icons8.com/material/24/000000/link--v1.png)](https://www.behance.net/gallery/167882205/Redesign-website-UIUX-Real-estate?tracking_source=search_projects%7Cfigma+website) |
+| 12 | Furniture website|[![Link](https://img.icons8.com/material/24/000000/link--v1.png)](https://www.behance.net/gallery/170249129/Furniture-website?tracking_source=search_projects%7Cfigma+website+web+design) |
+| 13 | Crypto Web3 Landing Page Design |[![Link](https://img.icons8.com/material/24/000000/link--v1.png)](https://www.behance.net/gallery/170581621/Crypto-Web3-Landing-Page-Design?tracking_source=search_projects%7Cmalaysia+website) |
+| 14 | Jawahar Bhawan, IIT Roorkee - Website Redesign |[![Link](https://img.icons8.com/material/24/000000/link--v1.png)](https://www.behance.net/gallery/151947687/Jawahar-Bhawan-IIT-Roorkee-Website-Redesign?tracking_source=search_projects%7Chostel+website) |
+| 15 | Student Hostel Landing page |[![Link](https://img.icons8.com/material/24/000000/link--v1.png)](https://www.behance.net/gallery/103300127/Student-Hostel-Landing-page?tracking_source=search_projects%7Chostel+website) |
 
 ## Useful links
 - [Figma UI Design Tutorial: Get Started in Just 24 Minutes!](https://youtu.be/FTFaQWZBqQ8)
