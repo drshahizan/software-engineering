@@ -22,24 +22,24 @@ The following information pertains to the group responsible for implementing the
 
 | No | Group | Description | Document |
 | :-----: | ------ | ------ | :------: |
-| 1  | Curiousity       | KTDI Events Management System           | <a href="https://drive.google.com/drive/folders/1aYNPTLyEzhnXa1N3ZhKtyqyPSq3My5vw?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
-| 2  | Lastminpotential | Faculty of Computing Feedback System    | <a href="https://drive.google.com/drive/folders/1Jd9PpRl-T7ZPukk70ngpkfTASOn2Dczd?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
-| 3  | Limapuluh        | UTM Student Feedback System             | <a href="https://drive.google.com/drive/folders/165mLbTsRNmratunYS83trkycvVrxzZxc?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
-| 4  | Cutie            | UTM Student Attendance Management System | <a href="https://drive.google.com/drive/folders/1Cc6jUmvTntoEq5_M8lMJhg6jELg_-IfI?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
-| 5  | Systema          | Student Engagement                     | <a href="https://drive.google.com/drive/folders/1oOTv_M35HU2o4OQtKXo2ISYAOgdxs9-5?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
-| 6  | Stakeholder      | Student Accomodation System in KTDI     | <a href="https://drive.google.com/drive/folders/1xP1JuvAbcXbyt3EyxCFSW0-bMcZxaPd5?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
+| 1  | Curiousity       | KTDI Events Management System           | <a href="https://drive.google.com/drive/folders/1aYNPTLyEzhnXa1N3ZhKtyqyPSq3My5vw?usp=sharing" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
+| 2  | Lastminpotential | Faculty of Computing Feedback System    | <a href="https://drive.google.com/drive/folders/1Jd9PpRl-T7ZPukk70ngpkfTASOn2Dczd?usp=sharing" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
+| 3  | Limapuluh        | UTM Student Feedback System             | <a href="https://drive.google.com/drive/folders/165mLbTsRNmratunYS83trkycvVrxzZxc?usp=sharing" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
+| 4  | Cutie            | UTM Student Attendance Management System | <a href="https://drive.google.com/drive/folders/1Cc6jUmvTntoEq5_M8lMJhg6jELg_-IfI?usp=sharing" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
+| 5  | Systema          | Student Engagement                     | <a href="https://drive.google.com/drive/folders/1oOTv_M35HU2o4OQtKXo2ISYAOgdxs9-5?usp=sharing" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
+| 6  | Stakeholder      | Student Accomodation System in KTDI     | <a href="https://drive.google.com/drive/folders/1xP1JuvAbcXbyt3EyxCFSW0-bMcZxaPd5?usp=sharing" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
 
 ## Section 2
 
 | No | Group | Description | Document |
 | :-----: | ------ | ------ | :------: |
-| 1  | Allen       | KTDI Mini Mart Online System                  | <a href="https://drive.google.com/drive/folders/1VLxRNwSyDmoDCzRIjD04Sygidz8Imp8A?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
-| 2  | Alpha       | College Room Rental System                     | <a href="https://drive.google.com/drive/folders/13ORkXGqhQvWlCVeE8A95KMH4q6KokaPY?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
-| 3  | Beta        | Food Ordering System at Arked Angkasa, UTM    | <a href="https://drive.google.com/drive/folders/1rMeCcmN_1bdhgX7RLZXZXZDiChRnBuxn?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
-| 4  | Engineering | Parcel Delivery Service                        | <a href="https://drive.google.com/drive/folders/1IGaLvSRuANvc2j9oh9FFVY87RtCi0OaJ?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
-| 5  | Program     | Academic Consultation System                   | <a href="https://drive.google.com/drive/folders/1qMErQsLvpeDmBhWP44ltDzrNxc8GQe2s?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
-| 6  | Software    | Student Health and Wellness Management System  | <a href="https://drive.google.com/drive/folders/1wirG--meSpZ3Qbykf8V2CYOd2Y3FSdC2?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
-| 7  | Tempest     | Badal Hajj and Umrah Management System        | <a href="https://drive.google.com/drive/folders/1-zEGx_rXI_ZN3VAy71IBjJdcihMaBt5i?usp=sharing" ><img src="../../../images/drive_google.png" width="24px" height="24px" ></a> |
+| 1  | Allen       | KTDI Mini Mart Online System                  | <a href="https://drive.google.com/drive/folders/1VLxRNwSyDmoDCzRIjD04Sygidz8Imp8A?usp=sharing" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
+| 2  | Alpha       | College Room Rental System                     | <a href="https://drive.google.com/drive/folders/13ORkXGqhQvWlCVeE8A95KMH4q6KokaPY?usp=sharing" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
+| 3  | Beta        | Food Ordering System at Arked Angkasa, UTM    | <a href="https://drive.google.com/drive/folders/1rMeCcmN_1bdhgX7RLZXZXZDiChRnBuxn?usp=sharing" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
+| 4  | Engineering | Parcel Delivery Service                        | <a href="https://drive.google.com/drive/folders/1IGaLvSRuANvc2j9oh9FFVY87RtCi0OaJ?usp=sharing" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
+| 5  | Program     | Academic Consultation System                   | <a href="https://drive.google.com/drive/folders/1qMErQsLvpeDmBhWP44ltDzrNxc8GQe2s?usp=sharing" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
+| 6  | Software    | Student Health and Wellness Management System  | <a href="https://drive.google.com/drive/folders/1wirG--meSpZ3Qbykf8V2CYOd2Y3FSdC2?usp=sharing" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
+| 7  | Tempest     | Badal Hajj and Umrah Management System        | <a href="https://drive.google.com/drive/folders/1-zEGx_rXI_ZN3VAy71IBjJdcihMaBt5i?usp=sharing" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
