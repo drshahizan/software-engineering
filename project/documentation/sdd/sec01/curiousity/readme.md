@@ -78,35 +78,8 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 08/04/2023 | Low Ying Xi | Project Manager | Create project plan | Complete |
-| 2 | 16/04/2023 | Ng Shu Yu | Documentation Specialist | Gather user requirements | Complete | 
-| 3 | 21/04/2023 | Camily Tang Jia Lei | Developer | Create proposal | Complete | 
-| 4 | 02/05/2023 | Low Ying Xi | Project Manager | Contact stakeholders | Complete |
-| 5 | 02/05/2023 | Low Ying Xi | Project Manager | Create interview questions | Complete |
-| 6 | 02/05/2023 | Camily Tang Jia Lei | Developer | Implement software functionality | Incomplete |  
-| 7 | 03/05/2023 | Koh Li Hui | User Experience Designer | Requirement Analysis | Incomplete |
-| 8 | 03/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei | Project Manger, Documentation Specialist, Developer | Meeting with Hanie Azyuni Binti Mazle (JKM KTDI)| Complete | 
-| 9 | 04/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei | Project Manger, Documentation Specialist, Developer | Meeting with Lim Shi Kai (JKM KTDI) | Complete |
-| 10 | 10/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with Nadia Syahadah Binti Saharudin | Incomplete |
-| 11 | 11/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with LT KOL Prof. Madya Dr. Mohd Noor Azli Bin Haji. Ali Khan (KTDI Administrator) | Incomplete |
-| 12 | 14/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with Hamizah Amalina Binti Amlan (Pembantu Felo KTDI) | Incomplete |
-| 13 | 15/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | SRS Planning | Incomplete |
-| 14 | 16/05/2023 | Ng Shu Yu | Documentation Specialist | Create system documentation | Ongoing |
-| 15 | 11/05/2023-25/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Creates UML Diagram, User Diagram, User Journey Maps, User Stories and Prototype. | Ongoing |
-| 16 | 20/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer |Technical Design and Architecture- creates a technical design and architecture diagram | Incomplete |
-| 17 | 21/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer |Second Meeting with Stakeholders for Review the Requirement and Draft of the Design | Incomplete |
-| 18 | 22/05/2023 |  Ng Shu Yu | Documentation Specialist | Create Design Document | Incomplete |
-| 19 | 23/05/2023-1/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer |Develop the Interface Layer - each member with at least 1 modul to complete | Incomplete | 
-| 20 | 1/06/2023- 10/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer |Develop Application Layer - continue from the interface layer design | Incomplete |
-| 21 | 11/06/2023 |Low Ying Xi, Camily Tang Jia Lei, Koh Li Hui |Project Manger, Developer, User Experience Designer| Integrates the code and perform integration testing | Incomplete |
-| 22 | 13/06/2023 |  Ng Shu Yu | Documentation Specialist | Create Development Document | Incomplete |
-| 23 | 15/06/2023 | Low Ying Xi, Camily Tang Jia Lei, Koh Li Hui | Project Manger,  Developer, User Experience Designer | Conduct Box Testing- resolves defects and bugs | Incomplete |
-| 24 | 15/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui|  Project Manger, Documentation Specialist, Developer, User Experience Designer | Conduct Usability Testing- ensure meets user requirements | Incomplete |
-| 25 | 17/06/2023 |  Ng Shu Yu | Documentation Specialist | Create testing Document | Incomplete |
-| 26 | 20/06/2023 |Camily Tang Jia Lei|Developer| Deploy the application to the production environment | Incomplete |
-| 27 | 21/06/2023 | Ng Shu Yu | Documentation Specialist | Create Deployment Document | Incomplete |
-| 28 | 25/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui |  Project Manger, Documentation Specialist, Developer, User Experience Designer | Provide ongoing maintenance and support | Incomplete |
-| 29 | 27/06/2023 | Ng Shu Yu | Documentation Specialist | Create Maintenance Document | Incomplete |
+| 1 | |  | |  |  |
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
