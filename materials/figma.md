@@ -47,12 +47,12 @@ Remember that these steps provide a general overview of using Figma for web desi
 
 | Diagram Type                  | Description |
 |-------------------------------|--------------------------------------------------------------------------------------------------|
-| Wireframes                    | Basic, low-fidelity layouts that outline the structure and content of web pages.                 |
-| Flowcharts                    | Visual representations of the user flow and navigation paths within a website or application.    |
-| Sitemaps                      | Hierarchical diagrams that show the structure and organization of web pages in a website.        |
-| User Journeys                 | Visualizations of the steps and actions a user takes to accomplish a specific goal on a website. |
-| Site Architecture Diagrams    | Diagrams that depict the overall structure, relationships, and hierarchy of web pages in a site. |
-| Responsive Design Layouts     | Designs that demonstrate how a website layout adapts and responds to different screen sizes.      |
+| [Wireframes](https://youtu.be/D4NyQ5iOMF0) | Basic, low-fidelity layouts that outline the structure and content of web pages. |
+| [Flowcharts](https://youtu.be/DNBIcBdKnQo) | Visual representations of the user flow and navigation paths within a website or application. |
+| [Sitemaps](https://youtu.be/RmcnsKAk-Y0) | Hierarchical diagrams that show the structure and organization of web pages in a website. |
+| [User Journeys](https://youtu.be/xK-2IE93HgQ) | Visualizations of the steps and actions a user takes to accomplish a specific goal on a website. |
+| [Site Architecture Diagrams](https://youtu.be/W8vBqSsH2Jo) | Diagrams that depict the overall structure, relationships, and hierarchy of web pages in a site. |
+| [Responsive Design Layouts](https://youtu.be/gwiX0oASlEw) | Designs that demonstrate how a website layout adapts and responds to different screen sizes.      |
 | User Flows                    | Diagrams illustrating the flow of actions and interactions a user goes through on a website.     |
 | Information Architecture      | Diagrams that outline the organization and categorization of content on a website.               |
 | Component Structure Diagrams  | Visual representations of how design components are structured and nested within a web design.   |
