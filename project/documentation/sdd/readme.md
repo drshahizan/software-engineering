@@ -54,7 +54,7 @@ The IEEE System Design Descriptions (SDD) document typically includes the follow
 
 Each of these activities plays a crucial role in documenting the system design in an IEEE System Design Descriptions (SDD) document. They ensure that the design aspects of the system are comprehensively captured, facilitating effective communication, implementation, and maintenance of the system.
 
-## SRS Document
+## SDD Document
 The IEEE System Design Descriptions (SDD) document typically contains the following sections:
 
 1. **Introduction**: Provides an overview of the document, its purpose, and its intended audience.
