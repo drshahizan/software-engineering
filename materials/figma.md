@@ -20,6 +20,20 @@ Figma also supports plugins, which extend the tool's functionality by allowing u
 
 Figma is a versatile and collaborative design tool that provides a cloud-based platform for creating, prototyping, and iterating on digital designs. Its focus on real-time collaboration, intuitive interface, and powerful feature set make it a popular choice among designers and design teams for creating exceptional user experiences.
 
+## Figma and FigJam
+
+Figma and FigJam are both collaborative design tools developed by Figma, but they serve different purposes:
+
+| Item | Figma | FigJam |
+|------------|----------------------------------------------|--------------------------------------------|
+| Purpose    | Design and prototyping tool for UI/UX | Collaborative whiteboarding and brainstorming tool |
+| Features   | Vector editing, layout tools, design components, prototyping | Sticky notes, shapes, drawings, connectors, real-time collaboration |
+| Use Cases  | Designing digital products, websites, mobile apps | Brainstorming sessions, retrospectives, visual collaboration |
+| Collaboration | Real-time collaboration, multiple designers can work together | Real-time cursor tracking, comments, voting |
+| Templates  | Design-focused templates | Pre-made templates for brainstorming and collaboration |
+| Integration | Can integrate with other design and development tools | Integrated within the Figma platform for seamless switching |
+| Access | Cloud-based, accessible from anywhere | Cloud-based, accessible from anywhere |
+
 ## Figma for web design
 To use Figma for web design, follow these general steps:
 
@@ -42,22 +56,6 @@ To use Figma for web design, follow these general steps:
 9. **Export assets**: Once your web design is complete, you can export assets from Figma for development. Export individual elements or entire artboards in various formats, such as PNG, SVG, or CSS, depending on the needs of your development process.
 
 Remember that these steps provide a general overview of using Figma for web design. The specific details and techniques will vary based on your design requirements, preferences, and the complexity of your project. Figma offers extensive documentation and tutorials to help you explore its features in-depth and further refine your web design skills.
-
-## Figma and FigJam
-
-Figma and FigJam are both collaborative design tools developed by Figma, but they serve different purposes:
-
-| Item | Figma | FigJam |
-|------------|----------------------------------------------|--------------------------------------------|
-| Purpose    | Design and prototyping tool for UI/UX         | Collaborative whiteboarding and brainstorming tool |
-| Features   | Vector editing, layout tools, design components, prototyping | Sticky notes, shapes, drawings, connectors, real-time collaboration |
-| Use Cases  | Designing digital products, websites, mobile apps | Brainstorming sessions, retrospectives, visual collaboration |
-| Collaboration | Real-time collaboration, multiple designers can work together | Real-time cursor tracking, comments, voting |
-| Templates  | Design-focused templates                      | Pre-made templates for brainstorming and collaboration |
-| Integration | Can integrate with other design and development tools | Integrated within the Figma platform for seamless switching |
-| Access     | Cloud-based, accessible from anywhere           | Cloud-based, accessible from anywhere         |
-
-Please note that the table provides a general overview, and there may be additional features or nuances specific to each tool.
 
 ## Various types of diagrams that can be created using Figma for web design:
 
