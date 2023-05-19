@@ -104,6 +104,13 @@ Certainly! Here are the step-by-step instructions to convert a design from Figma
 
 Remember that the complexity of the design and your familiarity with HTML, CSS, and JavaScript will influence the level of customization and detail required during the conversion process. The steps provided here serve as a general guideline, and you may need to adapt them based on your specific design and coding requirements.
 
+## Behance.net
+- [Shopee Redesign UX/UI research Case Study](https://www.behance.net/gallery/124732313/Shopee-Redesign-UXUI-research-Case-Study)
+- ["Who Says?" Food Ordering App Design](https://www.behance.net/gallery/121617927/Who-Says-Food-Ordering-App-Design)
+- [become invisible braces - website design](https://www.behance.net/gallery/134905001/become-invisible-braces-website-design)
+- [Redesign website UI/UX | Real estate](https://www.behance.net/gallery/167882205/Redesign-website-UIUX-Real-estate?tracking_source=search_projects%7Cfigma+website)
+- [Furniture website](https://www.behance.net/gallery/170249129/Furniture-website?tracking_source=search_projects%7Cfigma+website+web+design)
+- [Crypto Web3 Landing Page Design](https://www.behance.net/gallery/170581621/Crypto-Web3-Landing-Page-Design?tracking_source=search_projects%7Cmalaysia+website)
 ## Useful links
 - [Figma UI Design Tutorial: Get Started in Just 24 Minutes!](https://youtu.be/FTFaQWZBqQ8)
 - [Landing Page Design Tutorial | Web Design in Figma](https://youtu.be/V_cioLTaDvQ)
