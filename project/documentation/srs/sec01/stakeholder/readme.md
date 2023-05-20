@@ -71,12 +71,6 @@ Don't forget to hit the :star: if you like this repo.
     <td>KTDI Fellow</td>
     <td>Delivering the manual KTDI merits system and quota active application form for hostel application.</td>
   </tr>
-    <tr>
-    <td>Oh Kai Xuan</td>
-    <td>Student</td>
-    <td>KTDI Resident</td>
-    <td>Giving the feedbacks for the current KTDI room maintenance system and providing the ideas for improvement.</td>
-  </tr>
   </tr>
     <tr>
     <td>Ms Rosnani Binti Katip</td>
@@ -98,8 +92,8 @@ Don't forget to hit the :star: if you like this repo.
 | 6 | 3/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | Second meeting with KTDI Assistant Administrative Officer | Complete |
 | 7 | 5/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | SRS documentation | Partially Complete |
 | 8 | 9/05/2023 | Neo Zheng Weng, Nicholas | Designer, Developer Assistant | Design the use case diagram | Complete(Interim) |
-| 9 | 11/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas,Muhammad Danial, Low Jie Sheng | Group members | Meet with KTDI fellow | Partially Complete |
-| 10 | 13/05/2023 | Low Jie Sheng, Danial | Developer Assistances | Design the activity diagram | Complete(Interim) |
+| 9 | 11/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | Meet with KTDI fellow | Complete |
+| 10 | 13/05/2023 | Low Jie Sheng, Muhammad Danial | Developer Assistances | Design the activity diagram | Complete(Interim) |
 | 11 | 14/05/2023 | Joseph Lau Yeo Kai | Main Developer | Design the sequence diagram | Complete(Interim) |
 | 12 | 
 
