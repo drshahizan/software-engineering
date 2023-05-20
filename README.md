@@ -79,6 +79,7 @@ Diagrams are visual representations of information or data that help convey comp
 | :-----: |  ------ | :-----: | 
 | 1 | Figma |  <a href="./materials/figma.md" ><img src="./images/figma.svg" width="24px" height="24px" ></a> | 
 | 2 | Draw.io| <a href="./materials/uml/drawio/1-draw-io.md" ><img src="./images/drawio.svg" width="24px" height="24px" ></a> | 
+| 3 | Github Pages| <a href="./materials/uml/drawio/1-draw-io.md" ><img src="./images/drawio.svg" width="24px" height="24px" ></a> | 
 
 
 ## Contribution 🛠️
