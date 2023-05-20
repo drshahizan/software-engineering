@@ -104,7 +104,7 @@ Step-by-step instructions to convert a design from Figma to HTML code:
 
 Remember that the complexity of the design and your familiarity with HTML, CSS, and JavaScript will influence the level of customization and detail required during the conversion process. The steps provided here serve as a general guideline, and you may need to adapt them based on your specific design and coding requirements.
 
-## Behance.net
+## Behance.net - System and Website
 
 | No | Title                                     | Link                                                  |
 |----|-------------------------------------------|:-------------------------------------------------------:|
@@ -123,6 +123,13 @@ Remember that the complexity of the design and your familiarity with HTML, CSS, 
 | 13 | Crypto Web3 Landing Page Design |<a href="https://www.behance.net/gallery/170581621/Crypto-Web3-Landing-Page-Design" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
 | 14 | Jawahar Bhawan, IIT Roorkee - Website Redesign |<a href="https://www.behance.net/gallery/151947687/Jawahar-Bhawan-IIT-Roorkee-Website-Redesign" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
 | 15 | Student Hostel Landing page |<a href="https://www.behance.net/gallery/103300127/Student-Hostel-Landing-page" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
+
+## Behance.net - Data Science
+
+| No | Title                                     | Link                                                  |
+|----|-------------------------------------------|:-------------------------------------------------------:|
+| 1  | Redesign of an Automatic Machine Learning Platform | <a href="https://www.behance.net/gallery/133395797/Redesign-of-an-Automatic-Machine-Learning-Platform" ><img src="../images/ui-design.png" width="24px" height="24px" ></a> |
+
 
 ## Useful links
 - [Figma UI Design Tutorial: Get Started in Just 24 Minutes!](https://youtu.be/FTFaQWZBqQ8)
