@@ -69,7 +69,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>Describe the flow of payment during registration and the problem behind it</td>
   </tr>
     <tr>
-    <td>En Muhammad Iman Firdaus Bin Baharuddin</td>
+    <td>En Mohd Aiman bin Misah</td>
     <td>End User</td>
     <td>Client</td>
     <td>Tells more about the problem they have during the registration</td>
