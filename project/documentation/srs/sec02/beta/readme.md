@@ -18,11 +18,11 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>MUHAMMAD DANIEL HAKIM BIN SYAHRULNIZAM</td>
-    <td>Requirements Analyst/Project Manager</td>
+    <td>Requirements Analyst</td>
   </tr>
   <tr>
     <td>MUHAMMAD ARIFF DANISH BIN HASHNAN</td>
-    <td>Software Developer</td>
+    <td>Developer</td>
   </tr>
     <tr>
     <td>MUHAMMAD IMAN FIRDAUS BIN BAHARUDDIN</td>
@@ -37,6 +37,14 @@ Don't forget to hit the :star: if you like this repo.
     <td>Documentation Specialist</td>
   </tr>
 </table>
+
+## Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Document SRS| <a href="" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+
 
 ## Stakeholder
 <table>
@@ -96,12 +104,17 @@ Don't forget to hit the :star: if you like this repo.
 
 | No |   Date     |  Member Name |  Role	| Task| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1  | 20/04/2023 | Daniel | Project Manager | Create project plan | Complete |
-| 2  | 21/04/2023 | Daniel, Iman, Ariff, Safwan, Che Marhumi  |                 | Unformal meeting | Complete | 
-| 3  | 01/05/2023 | Daniel, Iman, Ariff, Safwan, Che Marhumi
-| 4  | 02/05/2023 | Daniel, Iman, Ariff, Safwan, Che Marhumi  |                 | Meeting with stakeholder, Puan Munirah and her assistant, Encik Mohd |Complete| 
-| 5  | 02/05/2023 | Daniel, Iman, Ariff, Safwan, Che Marhumi  |                 | Meeting with stakeholder, Encik Amran and his assistant, Puan Azira |Complete|
-| 6  | | | | | 
+| 1  | 20/04/2023 |Daniel|Requirements Analyst|Create project plan|Complete|
+| 2  | 21/04/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist   |Unformal meeting|Complete|
+| 3  | 22/04/2023 |Ariff,Che Marhumi|Developer,Documentation Specialist   |Creating proposal|Complete| 
+| 4  | 01/05/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Online meeting|Complete|
+| 5  | 02/05/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi  |Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Meeting with stakeholder, Puan Munirah and her assistant, Encik Mohd |Complete| 
+| 6  | 02/05/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi  |Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist   |Meeting with stakeholder, Encik Amran and his assistant, Puan Azira |Complete|
+| 7  | 03/05/2023 |Daniel, Ariff,Che Marhumi|Requirements Analyst,Developer,Documentation Specialist|Compliting proposal|Complete|
+| 8  | 05/05/2023 |Safwan|Quality Assurance|Checking all menu,quality the food and beverages,methods of payment|Complete|
+| 9  | 10/05/2023 |Daniel, Ariff,Che Marhumi|Requirements Analyst,Developer,Documentation Specialist|Planning SRS|Incomplete|
+| 9  | 11/05/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist |Create UML Diagram|Complete|
+
 
 
 ## Contribution 🛠️

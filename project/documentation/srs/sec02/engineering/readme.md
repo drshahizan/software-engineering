@@ -17,22 +17,29 @@ Don't forget to hit the :star: if you like this repo.
     <th>Role</th>
   </tr>
   <tr>
-    <td>1.Thevan Raju A/L Jeganath</td>
-    <td>Front-end Developer</td>
-  </tr>
-  <tr>
-    <td>2.Nurul Erina binti Zainuddin</td>
+    <td>1 . Nurul Erina binti Zainuddin</td>
     <td>Project Manager</td>
   </tr>
     <tr>
-    <td>3.Nik Zulaikhaa Binti Zuraidi Afandi </td>
+    <td>2 . Nik Zulaikhaa Binti Zuraidi Afandi </td>
     <td>Software Architect</td>
   </tr>
     <tr>
-    <td>4.Aliatul Izzah Binti Jasman</td>
+    <td>3 . Thevan Raju A/L Jeganath</td>
+    <td>Front-end Developer</td>
+  </tr>
+    <tr>
+    <td>4 . Aliatul Izzah Binti Jasman</td>
     <td>Back-end Developer</td>
   </tr>
 </table>
+
+## Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Document SRS| <a href="" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 One Stop Parcel Center & Cengal Parcel Point
@@ -61,6 +68,21 @@ One Stop Parcel Center & Cengal Parcel Point
     <td>Head of Management</td>
     <td>Overall manages the security of parcels received through Shopee Express, and manage the staff as well as the informations about the parcels being secure</td>
   </tr>
+   <tr>
+    <td>Johnny Sii How Yong</td>
+    <td>KTDI Student</td>
+    <td>Deliver guy</td>
+    <td> Should handle packages with care, ensuring they are properly secured and protected during transportation,ensure that parcels are delivered to the    correct recipients within the specified time frame, verify the recipient's identity or obtain a signature upon delivery, confirming that the package has reached the intended recipient and should ensure the security and confidentiality of the parcels they handle. 
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Vania</td>
+    <td>KTDI Student</td>
+    <td>Deliver girl</td>
+    <td> Should handle packages with care, ensuring they are properly secured and protected during transportation,ensure that parcels are delivered to the    correct recipients within the specified time frame, verify the recipient's identity or obtain a signature upon delivery, confirming that the package has reached the intended recipient and should ensure the security and confidentiality of the parcels they handle. 
+    </td>
+  </tr>
   
 </table>
 
@@ -68,12 +90,21 @@ One Stop Parcel Center & Cengal Parcel Point
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/01/2023| Dr MSO | Project Manager | Create project plan | Complete |
-| 2| 02/052023|Erina,Thevan,Nik,Izzah|All member|Had meeting with stackholder |Complete|
-| 3| | | | | 
-| 4| | | | | 
-| 5| | | | | 
-
+| 1| 20/04/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Project planning |Complete|
+| 2| 21/04/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Define the problem |Complete|
+| 3| 22/04/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Find stakeholder |Complete|
+| 4| 24/04/2023|Nik|Software Architect|Gather requirement |Complete|
+| 5| 27/04/2023|Erina|Project Manager|Prepare questions |Complete|
+| 6| 02/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Had meeting with stackholder (OPC) |Complete|
+| 7| 03/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Update project planning |Complete|
+| 8| 03/05/2023|Erina,Thevan,Nik,Izzah|All member| Create proposal with gathered information|Complete|  
+| 9| 04/05/2023|Izzah,Thevan|Front-end& Back-end developer| Create usercase diagram with gathered requirement|Complete|   
+| 10| 05/05/2023|Erina,Nik|Project Manager,Software architect| Update Proposal |Complete| 
+| 11| 06/05/2023|Erina,Nik|Project Manager,Software architect| Contact Stackholder 4 (Johnny) |Complete| 
+| 12| 07/05/2023|Erina,Thevan,Nik,Izzah|All members|Create interview questions for stackholder 4 and 5 |Complete|
+| 13| 13/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Had meeting with stackholder via Google Meet (Johnny) |Complete|
+| 14| 14/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Follow-up with stackholder |Complete|
+| 15| 15/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Develop UML Activity Diagram and Sequence Diagram | Complete|
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

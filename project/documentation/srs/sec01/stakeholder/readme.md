@@ -38,6 +38,13 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
+## Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Document SRS| <a href="https://docs.google.com/document/d/1hkVBCH3fNHX0tRtb3SKbOWGHEqSBGgY5/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/drawio/stakeholder/UML.drawio" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+
 ## Stakeholder
 <table>
   <tr>
@@ -64,18 +71,12 @@ Don't forget to hit the :star: if you like this repo.
     <td>KTDI Fellow</td>
     <td>Delivering the manual KTDI merits system and quota active application form for hostel application.</td>
   </tr>
-    <tr>
-    <td>Oh Kai Xuan</td>
-    <td>Student</td>
-    <td>KTDI Resident</td>
-    <td>Giving the feedbacks for the current KTDI room maintenance system and providing the ideas for improvement.</td>
-  </tr>
   </tr>
     <tr>
     <td>Ms Rosnani Binti Katip</td>
     <td>KTDI Staff</td>
-    <td></td>
-    <td>Providing the manual KTDI Google forms.</td>
+    <td>KTDI Officer</td>
+    <td>Providing the manual KTDI forms.</td>
   </tr>
 </table>
 
@@ -83,16 +84,18 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 13/04/2023 | Neo Zheng Weng | Project Manager | Create project plan | Complete |
+| 1 | 18/04/2023 | Neo Zheng Weng | Project Manager | Create project plan | Complete |
 | 2 | 19/04/2023 | Wong Khai Shian Nicholas | Requirements Analyst | Determine the user requirements | Partially Complete |
-| 3 | 20/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas, Muhammad Danial, Joseph Lau, Low Jie Sheng | Group members | First meeting with KTDI Assistant Administrative Officer | Complete |
-| 4 | 21/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas, Muhammad Danial, Joseph Lau, Low Jie Sheng | Group members | Prepare proposal | Complete |
-| 5 | 22/04/2023 | Neo Zheng Weng | Designer | Design the system architecture | Complete |
-| 6 | 3/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial | Group members | Second meeting with KTDI Assistant Administrative Officer | Complete |
-| 7 | 5/05/2023 | Neo Zheng Weng | Designer | Draw the UML case diagram | Partially Complete |
-| 8 | 11/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas,Muhammad Danial | Group members | Meet with KTDI fellow | Partially Complete |
-| 9 |
-
+| 3 | 20/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas, Muhammad Danial, Joseph Lau Yeo Kai, Low Jie Sheng | Group members | First meeting with KTDI Assistant Administrative Officer | Complete |
+| 4 | 21/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas, Muhammad Danial, Joseph Lau Yeo Kai, Low Jie Sheng | Group members | Prepare proposal | Complete |
+| 5 | 24/04/2023 | Neo Zheng Weng | Designer | Design the system architecture | Complete |
+| 6 | 3/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | Second meeting with KTDI Assistant Administrative Officer | Complete |
+| 7 | 5/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | SRS documentation | Partially Complete |
+| 8 | 9/05/2023 | Neo Zheng Weng, Nicholas | Designer, Developer Assistant | Design the use case diagram | Complete(Interim) |
+| 9 | 11/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | Meet with KTDI fellow | Complete |
+| 10 | 13/05/2023 | Low Jie Sheng, Muhammad Danial | Developer Assistances | Design the activity diagram | Complete(Interim) |
+| 11 | 14/05/2023 | Joseph Lau Yeo Kai | Main Developer | Design the sequence diagram | Complete(Interim) |
+| 12 | 
 
 
 ## Contribution 🛠️

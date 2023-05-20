@@ -72,9 +72,9 @@ The Faculty of Computing Feedback System will provide measurable benefits to all
 -  Strengthen institutional reputation: By investing in the Faculty of Computing Feedback System, the faculty can demonstrate its commitment to providing high-quality education and support to its stakeholders. This will lead to a stronger institutional reputation and increased stakeholder trust.
 
 ### 4. Scope: 
-<p>A feedback system on lecturer, facilities, and equipment can provide valuable insights to help improve the overall quality of education in a school, college, or university.Here are scope for each aspect:</p>
+<p>A feedback system on acedemic, facilities, and equipment can provide valuable insights to help improve the overall quality of education in a school, college, or university.Here are scope for each aspect:</p>
 <ul>
-  <li>Lecturer Feedback:</li>
+  <li>Acedemic Feedback:</li>
     <ul>
       <li>The feedback system can be used to collect feedback on the teaching quality of lecturers. Students can provide feedback on the clarity of lectures, the effectiveness of teaching methods, and the overall engagement of the lecturer.</li>
       <li>This feedback can be used to identify areas where a lecturer may need additional support or training, or to recognize outstanding lecturers who are making a positive impact on students' learning experiences.</li>

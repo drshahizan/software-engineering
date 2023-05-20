@@ -33,6 +33,13 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
+## Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Document SRS| <a href="" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+
 ## Stakeholder
 <table>
   <tr>
@@ -42,33 +49,41 @@ Don't forget to hit the :star: if you like this repo.
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td>1. SALMI BINTI ABD.MAJID</td>
+    <td>Owner</td>
+    <td>Dewi Kayangan Enterprise Owner</td>
+    <td>Provides us insights about the mini mart and suggestions for the system</td>
+  </tr>
+    <tr>
+    <td>2. DR TARMIZI BIN ADAM </td>
     <td>Lecturer</td>
-    <td></td>
-    <td></td>
+    <td>Pensyarah Kanan (Senior Lecturer)</td>
+    <td>Provides requirements and advices regarding about the software</td>
   </tr>
     <tr>
-    <td>2</td>
-    <td>Undergraduate student</td>
-    <td></td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>3</td>
-    <td>Postgraduate student</td>
-    <td></td>
-    <td></td>
+    <td>3. AUM JEEVAN A/L AUM NIRANGKAR</td>
+    <td>Student</td>
+    <td>Undergraduate Student</td>
+    <td>Recommended us softwares needed to be used for our project and gave us ideas on developing an ideal project</td>
   </tr>
 </table>
 ## Tasks involved in developing SRC documentation:
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/01/2023 | Dr MSO | Project Manager | Create project plan | Complete |
-| 2 | 09/05/2023 | Navachander, Vinesh, Navasarathy, Azhar | Group Members | Contact Stakeholders | Incomplete |
-| 3 | 09/05/2023 | Azhar, Navachander | Requirements Analyst and Documentation Specialist | Assign task to group members | Incomplete | 
-| 4 | | | | | 
-| 5 | | | | | 
+| 1 | 09/05/2023 | VINESH A/L VIJAYAKUMAR & MUHAMMAD NUR AZHAR BIN MOHD YAZID | Main developer & Requirements Analyst| Contacted stakeholders and booked a meeting | Complete | 
+| 2 | 10/05/2023 | All Members | Project Members | Met our 1st stakeholder | Complete |
+| 3 | 11/05/2023 | All Members | Project Members | Met our 2nd and 3rd stakeholders | Complete |
+| 4 | 11/05/2023 | NAVACHANDER NAVASANTAR | Documentation Specialist | Assign task to project members for proposal| Complete | 
+| 5 | 12/05/2023 | All Members | Project Members | Updation of proposal | Partially Complete | 
+| 6 | 12/05/2023 | NAVACHANDER NAVASANTAR | Documantation Specialist | Assign task to project members for SRS Documentation | Incomplete | 
+| 6 | 14/05/2023 | All Members | Project Members | Updation of SRS Documentation | Incomplete | 
+| 7 | | | | | 
+| 8 | | | | | 
+| 9 | | | | | 
+| 10 | | | | | 
+| 11 | | | | | 
+| 12 | | | | | 
 
 
 ## Contribution 🛠️

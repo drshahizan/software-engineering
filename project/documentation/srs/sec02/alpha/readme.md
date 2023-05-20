@@ -34,6 +34,13 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
+## Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Document SRS| <a href="" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+
 ## Stakeholder
 <table>
   <tr>
@@ -44,18 +51,18 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>1. En. Hamdan bin Abdul Ghani</td>
-    <td>Administrator of Kolej Tun Dr Ismail</td>
-    <td></td>
+    <td>Penolong Pegawai Tadbir Kanan Kolej Tun Dr Ismail</td>
+    <td>Administrator</td>
     <td>Provide information about the college room rental procedure.</td>
   </tr>
     <tr>
     <td>2. Puan Rosnani bt Katip</td>
-    <td>Staff Kolej Tun Dr Ismail</td>
+    <td>Pembantu Tadbir (P/O) Kolej Tun Dr Ismail</td>
     <td>Registrar</td>
     <td>Provide information about the software (Google Form) that they currently use for the college room rental registration.</td>
   </tr>
     <tr>
-    <td>3 Wan Nur Sofea binti Mohd Hasbullah</td>
+    <td>3 </td>
     <td>Residents of Kolej Tun Dr Ismail</td>
     <td>Student</td>
     <td>Provide feedback on the current procedure.</td>
@@ -71,6 +78,11 @@ Don't forget to hit the :star: if you like this repo.
 | 3 | 02/05/2023 | Nur Farah Adibah Binti Idris  | Main Developer | Implement software functionality | Incomplete |
 | 4 | 02/05/2023 | Nur Aleysha Qurratu'aini Binti Mat Salleh | Quality Assurance Engineer | Create testing plan and execute tests | Incomplete | 
 | 5 | 02/05/2023 | Nadhrah NurSabrina Binti Zulaini | Assistant Developer | Create system documentation |Incomplete | 
+| 6 | 03/05/2023 | All members |  | Gather information and start writing detailed content for the proposal |Complete | 
+| 7 | 18/04/2023 |Farah, Aleysha, NurSabrina|  |  Meeting with stakeholder 1 (En. Hamdan bin Abdul Ghani)|Complete | 
+| 8 | 18/04/2023 | Farah, Aleysha, NurSabrina |  | Meeting with stakeholder 2 (Puan Rosnani bt Katip)|Complete | 
+| 9 | 11/05/2023 | Nur Aleysha Qurratu'aini Binti Mat Salleh |   Assistant Developer  | Create a use case diagram using draw.io |Complete | 
+| 10 | 11/05/2023 | All members |   | Meeting with Stakeholder 3 ( ) |Incomplete | 
 
 
 ## Contribution 🛠️
