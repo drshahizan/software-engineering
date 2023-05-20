@@ -129,7 +129,7 @@ Remember that the complexity of the design and your familiarity with HTML, CSS, 
 | No | Title                                     | Link                                                  |
 |----|-------------------------------------------|:-------------------------------------------------------:|
 | 1  | Redesign of an Automatic Machine Learning Platform | <a href="https://www.behance.net/gallery/133395797/Redesign-of-an-Automatic-Machine-Learning-Platform" ><img src="../images/ui-design.png" width="24px" height="24px" ></a> |
-
+| 2  | Vision | <a href="https://www.behance.net/gallery/135358231/VISION" ><img src="../images/ui-design.png" width="24px" height="24px" ></a> |
 
 ## Useful links
 - [Figma UI Design Tutorial: Get Started in Just 24 Minutes!](https://youtu.be/FTFaQWZBqQ8)
