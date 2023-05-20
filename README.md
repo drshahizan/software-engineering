@@ -81,6 +81,7 @@ Diagrams are visual representations of information or data that help convey comp
 | 3 | Github Pages| <a href="https://github.com/drshahizan/learn-github/blob/main/materials/pages.md" ><img src="./images/github.svg" width="24px" height="24px" ></a> | 
 | 4 | Behance| <a href="https://www.behance.net/" ><img src="./images/behance.svg" width="24px" height="24px" ></a> | 
 | 5 | Visual Studio Code| <a href="https://code.visualstudio.com/" ><img src="./images/vsc.svg" width="24px" height="24px" ></a> | 
+| 6 | Bootstrap Studio| <a href="https://bootstrapstudio.io/" ><img src="./images/vsc.svg" width="24px" height="24px" ></a> | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
