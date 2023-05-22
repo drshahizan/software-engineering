@@ -95,6 +95,7 @@ One Stop Parcel Center & Cengal Parcel Point
 | 1 | 22/5/2023|Nik |Software Architect |Purpose | complete| 
 | 2 | 22/5/2023 |Izzah |Back-end Developer | Scope| complete| 
 | 3 | 22/5/2023  |Thevan |Front-end Developer |Def, acro, abb | complete| 
+| 4 | 22/5/2023 |Erina |Project Manager |Ref & overview | complete| 
 
 
 
