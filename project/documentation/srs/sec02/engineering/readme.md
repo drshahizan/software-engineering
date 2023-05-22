@@ -62,12 +62,6 @@ One Stop Parcel Center & Cengal Parcel Point
     <td>Head of Management</td>
   <td>Responsible on managing the staffs, ensuring smooth operations, and manage the budget as well. Also responsible on making sure that the informations stated at the parcel and the data is well protected and secure</td>
   </tr>
-    <tr>
-    <td>Muhammad Amirul</td>
-    <td>Cengal Parcel Point</td>
-    <td>Head of Management</td>
-    <td>Overall manages the security of parcels received through Shopee Express, and manage the staff as well as the informations about the parcels being secure</td>
-  </tr>
    <tr>
     <td>Johnny Sii How Yong</td>
     <td>KTDI Student</td>
