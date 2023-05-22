@@ -103,7 +103,7 @@ Don't forget to hit the :star: if you like this repo.
 | 11 | 13/05/2023 | Low Jie Sheng, Muhammad Danial | Developer Assistances | Design the activity diagram | Complete |
 | 12 | 14/05/2023 | Joseph Lau Yeo Kai | Main Developer | Design the sequence diagram | Complete |
 | 13 | 18/05/2023 | Neo Zheng Weng | Project manager | Meeting with KTDI staff | Partially complete |
-| 14 | 
+| 14 | 22/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng  | Group members | Meeting with KTDI students |  Complete |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
