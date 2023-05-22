@@ -78,6 +78,12 @@ Don't forget to hit the :star: if you like this repo.
     <td>KTDI Operation Assistant</td>
     <td>Providing the manual KTDI forms.</td>
   </tr>
+     <tr>
+    <td>Muhammad Izzat Haziq bin Rumaizi</td>
+    <td>Student</td>
+    <td>KTDI Resident</td>
+    <td>Giving the feedbacks for the current KTDI accommodation system and providing the ideas for the upgraded accommodation system.</td>
+  </tr>
 </table>
 
 ## Tasks involved in developing SRC documentation:
