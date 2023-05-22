@@ -82,7 +82,7 @@ Don't forget to hit the :star: if you like this repo.
 | 7 | 18/04/2023 |Farah, Aleysha, NurSabrina|  |  Meeting with stakeholder 1 (En. Hamdan bin Abdul Ghani)|Complete | 
 | 8 | 18/04/2023 | Farah, Aleysha, NurSabrina |  | Meeting with stakeholder 2 (Puan Rosnani bt Katip)|Complete | 
 | 9 | 11/05/2023 | Nur Aleysha Qurratu'aini Binti Mat Salleh |   Assistant Developer  | Create a use case diagram using draw.io |Complete | 
-| 10 | 11/05/2023 | All members |   | Meeting with Stakeholder 3 ( ) |Incomplete | 
+| 10 | 11/05/2023 | All members |   | Meeting with Stakeholder 3 ( Jevanaraj A/L Balasuntharam) |Complete | 
 
 
 ## Contribution 🛠️
