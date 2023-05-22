@@ -135,7 +135,7 @@ Remember that the complexity of the design and your familiarity with HTML, CSS, 
 - [Figma UI Design Tutorial: Get Started in Just 24 Minutes!](https://youtu.be/FTFaQWZBqQ8)
 - [Landing Page Design Tutorial | Web Design in Figma](https://youtu.be/V_cioLTaDvQ)
 - [Learn Figma In Under 10 Minutes!](https://youtu.be/nZ57MPVbHUg)
-- [Belajar Dasar Figma untuk Pemula - Tutorial Bahasa Indonesia}(https://youtu.be/PJIKqnftfPw)
+- [Belajar Dasar Figma untuk Pemula - Tutorial Bahasa Indonesia](https://youtu.be/PJIKqnftfPw)
 - [Menguasai FIGMA untuk Pemula + Bikin UI Desain Food Delivery](https://youtu.be/0JeyMBOPLqw)
 
 ## Contribution 🛠️
