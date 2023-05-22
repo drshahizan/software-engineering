@@ -75,7 +75,7 @@ Don't forget to hit the :star: if you like this repo.
     <tr>
     <td>Ms Rosnani Binti Katip</td>
     <td>KTDI Staff</td>
-    <td>KTDI Officer</td>
+    <td>KTDI Operation Assistant</td>
     <td>Providing the manual KTDI forms.</td>
   </tr>
 </table>
@@ -85,18 +85,19 @@ Don't forget to hit the :star: if you like this repo.
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 18/04/2023 | Neo Zheng Weng | Project Manager | Create project plan | Complete |
-| 2 | 19/04/2023 | Wong Khai Shian Nicholas | Requirements Analyst | Determine the user requirements | Partially Complete |
-| 3 | 20/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas, Muhammad Danial, Joseph Lau Yeo Kai, Low Jie Sheng | Group members | First meeting with KTDI Assistant Administrative Officer | Complete |
+| 2 | 19/04/2023 | Wong Khai Shian Nicholas | Requirements Analyst | Determine and analyse the user requirements | Partially Complete |
+| 3 | 20/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas, Joseph Lau Yeo Kai, Low Jie Sheng | Group members | First meeting with KTDI Senior Assistant Administrative Officer | Complete |
 | 4 | 21/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas, Muhammad Danial, Joseph Lau Yeo Kai, Low Jie Sheng | Group members | Prepare proposal | Complete |
 | 5 | 24/04/2023 | Neo Zheng Weng | Designer | Design the system architecture | Complete |
-| 6 | 3/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | Second meeting with KTDI Assistant Administrative Officer | Complete |
-| 7 | 5/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | SRS documentation | Partially Complete |
-| 8 | 9/05/2023 | Neo Zheng Weng, Nicholas | Designer, Developer Assistant | Design the use case diagram | Complete(Interim) |
-| 9 | 11/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | Meet with KTDI fellow | Complete |
-| 10 | 13/05/2023 | Low Jie Sheng, Muhammad Danial | Developer Assistances | Design the activity diagram | Complete(Interim) |
-| 11 | 14/05/2023 | Joseph Lau Yeo Kai | Main Developer | Design the sequence diagram | Complete(Interim) |
-| 12 | 
-
+| 6 | 28/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas, Low Jie Sheng, Joseph Lau Yeo Kai, Muhammad Danial | Group members | Meeting with KTDI resident(Student) | 
+| 7 | 3/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | Second meeting with KTDI Assistant Administrative Officer | Complete |
+| 8 | 5/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | SRS documentation | Partially Complete |
+| 9 | 9/05/2023 | Neo Zheng Weng, Nicholas | Designer, Developer Assistant | Design the use case diagram | Complete |
+| 10 | 11/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | Meeting with KTDI fellow | Complete |
+| 11 | 13/05/2023 | Low Jie Sheng, Muhammad Danial | Developer Assistances | Design the activity diagram | Complete |
+| 12 | 14/05/2023 | Joseph Lau Yeo Kai | Main Developer | Design the sequence diagram | Complete |
+| 13 | 18/05/2023 | Neo Zheng Weng | Project manager | Meeting with KTDI staff | Partially complete |
+| 14 | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
