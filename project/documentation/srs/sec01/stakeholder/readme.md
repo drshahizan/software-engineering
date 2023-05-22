@@ -89,7 +89,7 @@ Don't forget to hit the :star: if you like this repo.
 | 3 | 20/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas, Joseph Lau Yeo Kai, Low Jie Sheng | Group members | First meeting with KTDI Senior Assistant Administrative Officer | Complete |
 | 4 | 21/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas, Muhammad Danial, Joseph Lau Yeo Kai, Low Jie Sheng | Group members | Prepare proposal | Complete |
 | 5 | 24/04/2023 | Neo Zheng Weng | Designer | Design the system architecture | Complete |
-| 6 | 28/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas, Low Jie Sheng, Joseph Lau Yeo Kai, Muhammad Danial | Group members | Meeting with KTDI resident(Student) | 
+| 6 | 28/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas, Low Jie Sheng, Joseph Lau Yeo Kai, Muhammad Danial | Group members | Meeting with KTDI resident(Student) | Complete |
 | 7 | 3/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | Second meeting with KTDI Assistant Administrative Officer | Complete |
 | 8 | 5/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | SRS documentation | Partially Complete |
 | 9 | 9/05/2023 | Neo Zheng Weng, Nicholas | Designer, Developer Assistant | Design the use case diagram | Complete |
