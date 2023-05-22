@@ -86,11 +86,11 @@ Don't forget to hit the :star: if you like this repo.
 | 4 | 02/05/2023| All members |  | Conduct a meeting with the first stakeholder | Complete | 
 | 5 | 03/05/2023 | All members | | Gather information and start writing detailed content for the proposal |  Complete| 
 | 6 | 03/05/2023 | All members | | Create a use case diagram using draw.io |  Complete| 
-| 7 | 07/05/2023 | Maisarah Binti Rizal | QA/Test Engineer | Contact our second stakeholder, third-year student| Complete | 
+| 7 | 07/05/2023 | Maisarah Binti Rizal | Technical Lead | Contact our second stakeholder, third-year student| Complete | 
 | 8 | 07/05/2023 | All members | |  Conduct a meeting with the second stakeholder, a third-year student |  Complete | 
 | 9 | 07/05/2023 | Mulyani Binti Saripuddin | QA/Test Engineer | Contact our third stakeholder, another third-year student | Complete | 
 | 10 | 08/05/2023 | All members | | Conduct a meeting with the third stakeholder, another third-year student |  Complete | 
-| 11 | 09/05/2023 | Wan Nur Sofea Binti Mohd Hasbullah | | Contact our fourth stakeholder, an administrative officer | Complete |
+| 11 | 09/05/2023 | Wan Nur Sofea Binti Mohd Hasbullah | Main Developer | Contact our fourth stakeholder, an administrative officer | Complete |
 | 12 | 15/05/2023 | All members | | Conduct a meeting with the fourth stakeholder, an administrative officer |  Complete | 
  
  
