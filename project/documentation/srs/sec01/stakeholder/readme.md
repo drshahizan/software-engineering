@@ -73,10 +73,10 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   </tr>
     <tr>
-    <td>Ms Rosnani Binti Katip</td>
+    <td>Mr Mohamad Bin Yunos</td>
     <td>KTDI Staff</td>
     <td>KTDI Operation Assistant</td>
-    <td>Providing the manual KTDI forms.</td>
+    <td>Providing the manual KTDI forms and insights on current application system.</td>
   </tr>
      <tr>
     <td>Muhammad Izzat Haziq bin Rumaizi</td>
