@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--
+    Name: Ong Yi Yan
+    Matrix No: A22EC0101
+    Github id: ONGYIYAN
+    Project 1: Personal Portfolio Website
+    -->
+    <title>My Personal Portfolio</title>
+    <style>
+        body {
+            background-image: url('https://webgradients.com/public/webgradients_png/052%20Kind%20Steel.png');
+            max-width: 1400px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+        img.center {
+            border-radius: 50%;
+            border: black;
+
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 100px;
+        }
+
+        h1 {
+            font-family: georgia;
+            font-size: 100px;
+            text-align: justify;
+            height: 600px;
+        }
+
+        table {
+            table-layout: fixed;
+            width: 1400px;
+        }
+
+        th,
+        td {
+            padding: 15px;
+        }
+
+        table,
+        th,
+        td {
+            border: 0.5px solid grey;
+            border-collapse: collapse;
+        }
+
+        th {
+            color: #900C3F;
+            font-size: 30px;
+        }
+
+        td {
+            font-size: 20px;
+            text-align: justify;
+        }
+    </style>
+</head>
+
+<body>
+    <h1><br>My name is Ong Yi Yan.<br><br>Welcome to my website.<img
+            src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZlZTk0MjQzMzQ4MDJiYWMwMDQ5NzAxMjM2ZDIzODM5NWQ0NmNjZSZjdD1z/KecDcIs9qrqennrxGQ/giphy.gif"
+            width="100px" alt="click" />
+    </h1>
+    <table>
+        <tr>
+            <section id="introduction">
+                <th>INTRODUCTION</th>
+            </section>
+            <section id="skills"></section>
+            <th>SKILLS</th>
+            </section>
+            <section id="contactme"></section>
+            <th>CONTACT ME</th>
+            </section>
+        </tr>
+        <tr>
+            <td rowspan="3" width="300px"><img class="center" src="https://i.ibb.co/m9hy29f/Me.jpg"
+                    alt="My Profile Picture" />A first-year student who is currently pursuing Bachelor Degree of
+                Computer Science (Data Engineering) at University of Technology, Malaysia. I'm currently taking Software
+                Engineering (WBL) course and learning web programming. You can <a href="#contactme">contact me</a> if
+                you want to know me better.</td>
+            <td height="10px" width="200px">
+                <ul>
+                    <li>C++</li>
+                    <li>HTML</li>
+                </ul>
+            </td>
+            <td rowspan="3">
+                <form>
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" /><br />
+                    <br>
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" /><br />
+                    <br>
+                    <label for="message">Message:</label>
+                    <textarea id="message" name="message"></textarea><br />
+                    <br>
+                    <input type="submit" value="Submit" />
+                </form>
+            </td>
+        </tr>
+        <tr>
+            <th>EDUCATION</th>
+        </tr>
+        <tr>
+            <td>
+                <ul><b>2021 until now</b></ul>
+                <li>
+                    University of Technology Malaysia
+                </li>
+                <ul><b>2016-2020</b></ul>
+                <li>SMK Ledang</li>
+                <ul><b>2010-2015</b></ul>
+                <li>SJK(C) Chi Ming</li>
+            </td>
+
+        </tr>
+    </table>
+    <br>
+</body>
+
+</html>

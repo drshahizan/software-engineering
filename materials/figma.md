@@ -9,7 +9,6 @@ Don't forget to hit the :star: if you like this repo.
 
 # Figma
 Figma is a web-based design and prototyping tool that allows users to create and collaborate on interface designs for websites, mobile applications, and other digital products. It was developed by Figma Inc. and launched in 2016. Figma has gained popularity among designers and design teams due to its intuitive interface, powerful features, and real-time collaboration capabilities.
-
 One of the standout features of Figma is its cloud-based nature. Unlike traditional design tools that require software installation and local file storage, Figma operates entirely in the browser, making it platform-independent and accessible from any device with an internet connection. This allows for seamless collaboration among team members, as they can work simultaneously on the same design project, see real-time updates, and provide feedback in the form of comments.
 
 Figma offers a wide range of design tools and features to support the design process. These include vector editing tools, pre-built design components, layout grids, prototyping capabilities, and a comprehensive library of design assets. The vector editing tools allow designers to create and manipulate shapes, icons, and illustrations, while the pre-built components and design assets help streamline the design process by providing a library of reusable elements.
@@ -19,6 +18,8 @@ The prototyping features in Figma enable designers to create interactive and ani
 Figma also supports plugins, which extend the tool's functionality by allowing users to integrate with other design tools, automate repetitive tasks, and enhance the overall design workflow. Users can install plugins developed by Figma or third-party developers to customize their experience and optimize their design process.
 
 Figma is a versatile and collaborative design tool that provides a cloud-based platform for creating, prototyping, and iterating on digital designs. Its focus on real-time collaboration, intuitive interface, and powerful feature set make it a popular choice among designers and design teams for creating exceptional user experiences.
+
+💻 **[Download](https://www.figma.com/downloads/)**
 
 ## Figma and FigJam
 
@@ -104,39 +105,23 @@ Step-by-step instructions to convert a design from Figma to HTML code:
 
 Remember that the complexity of the design and your familiarity with HTML, CSS, and JavaScript will influence the level of customization and detail required during the conversion process. The steps provided here serve as a general guideline, and you may need to adapt them based on your specific design and coding requirements.
 
-## Behance.net - System and Website
 
-| No | Title                                     | Link                                                  |
-|----|-------------------------------------------|:-------------------------------------------------------:|
-| 1  | Hostel Management System | <a href="https://www.behance.net/gallery/168568615/Hostel-Management-System" ><img src="../images/ui-design.png" width="24px" height="24px" ></a> |
-| 2  | Hostelworld - Case study | <a href="https://www.behance.net/gallery/150747885/Hostelworld-Case-study" ><img src="../images/ui-design.png" width="24px" height="24px" ></a> |
-| 3  | SCAD-Hostel Management | <a href="https://www.behance.net/gallery/165411173/SCAD-Hostel-Management" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
-| 4  | Shopee Redesign UX/UI research Case Study | <a href="https://www.behance.net/gallery/124732313/Shopee-Redesign-UXUI-research-Case-Study" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
-| 5  | NIFT Hostel- Student Management System- APP Design | <a href="https://www.behance.net/gallery/168712459/NIFT-Hostel-Student-Management-System-APP-Design" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
-| 6  | Sarawak Layer Cake Website Design | <a href="https://www.behance.net/gallery/155042793/Sarawak-Layer-Cake-Website-Design" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
-| 7  | XPLOR Travel App | <a href="https://www.behance.net/gallery/141838429/XPLOR-Travel-App" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
-| 8  | Mobile Web Menu - Mamak | <a href="https://www.behance.net/gallery/152300087/Mobile-Web-Menu-Mamak" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
-| 9  | "Who Says?" Food Ordering App Design | <a href="https://www.behance.net/gallery/121617927/Who-Says-Food-Ordering-App-Design" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
-| 10 | become invisible braces - website design | <a href="https://www.behance.net/gallery/134905001/become-invisible-braces-website-design" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
-| 11 | Redesign website UI/UX - Real estate | <a href="https://www.behance.net/gallery/167882205/Redesign-website-UIUX-Real-estate" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
-| 12 | Furniture website|<a href="https://www.behance.net/gallery/170249129/Furniture-website" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
-| 13 | Crypto Web3 Landing Page Design |<a href="https://www.behance.net/gallery/170581621/Crypto-Web3-Landing-Page-Design" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
-| 14 | Jawahar Bhawan, IIT Roorkee - Website Redesign |<a href="https://www.behance.net/gallery/151947687/Jawahar-Bhawan-IIT-Roorkee-Website-Redesign" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
-| 15 | Student Hostel Landing page |<a href="https://www.behance.net/gallery/103300127/Student-Hostel-Landing-page" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
+## Youtube
 
-## Behance.net - Data Science
 
-| No | Title                                     | Link                                                  |
-|----|-------------------------------------------|:-------------------------------------------------------:|
-| 1  | Redesign of an Automatic Machine Learning Platform | <a href="https://www.behance.net/gallery/133395797/Redesign-of-an-Automatic-Machine-Learning-Platform" ><img src="../images/ui-design.png" width="24px" height="24px" ></a> |
-| 2  | Vision | <a href="https://www.behance.net/gallery/135358231/VISION" ><img src="../images/ui-design.png" width="24px" height="24px" ></a> |
-
-## Useful links
-- [Figma UI Design Tutorial: Get Started in Just 24 Minutes!](https://youtu.be/FTFaQWZBqQ8)
-- [Landing Page Design Tutorial | Web Design in Figma](https://youtu.be/V_cioLTaDvQ)
-- [Learn Figma In Under 10 Minutes!](https://youtu.be/nZ57MPVbHUg)
-- [Belajar Dasar Figma untuk Pemula - Tutorial Bahasa Indonesia}(https://youtu.be/PJIKqnftfPw)
-- [Menguasai FIGMA untuk Pemula + Bikin UI Desain Food Delivery](https://youtu.be/0JeyMBOPLqw)
+| No | Title                                                    | Link                                               |
+|----|----------------------------------------------------------|:----------------------------------------------------:|
+| 1  | Learn how to use Figma prototypes correctly! | <a href="https://youtu.be/_yVgc34ZejI"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
+| 2  | The CORRECT (and lazy) way to prototype - Figma Tutorial | <a href="https://youtu.be/L22lDu3QX2c"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
+| 3  | How to Prototype in Figma: Smart Animate, Prototyping and Scrolls (Tutorial) | <a href="https://youtu.be/LX7Mfj-1tiA"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
+| 4  | Reduce Prototypes by 50% (Simple trick) - Figma Tutorial | <a href="https://youtu.be/5GzLA_JkZ14"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
+| 5  | Figma Noob to Pro! 01: Basics                             | <a href="https://youtu.be/CjeLMOj0DW0"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
+| 6  | Figma UI Design Tutorial: Get Started in Just 24 Minutes! | <a href="https://youtu.be/FTFaQWZBqQ8"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
+| 7  | Landing Page Design Tutorial - Web Design in Figma        | <a href="https://youtu.be/V_cioLTaDvQ"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
+| 8  | Learn Figma In Under 10 Minutes! | <a href="https://youtu.be/To_ADCVSg5g"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
+| 9  | Belajar Dasar Figma untuk Pemula - Tutorial Bahasa Indonesia | <a href="http://localhost/exercise/7%20Array/Lesson%207h.php"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
+| 10 | Menguasai FIGMA untuk Pemula + Bikin UI Desain Food Delivery | <a href="https://youtu.be/0JeyMBOPLqw"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
+| 11 | Prototype & Test in 10 minutes or less | <a href="https://youtu.be/pijzYKAOluw"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

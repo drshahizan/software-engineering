@@ -37,10 +37,10 @@ Don't forget to hit the :star: if you like this repo.
 ## Documentation
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Document SRS| <a href="" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|1| Document SRS| <a href="https://docs.google.com/document/d/10gvMoqZI62MOTXbXjc-9j_9U0HgUAkaB/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
 |2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
-|3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
-
+|3| Borang Badal Haji| <a href="https://drive.google.com/drive/folders/1xm0X4yxzjBrGPt_EeF4PT4udWYxdx8PS?usp=share_link" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+|4| Borang Umrah| <a href="https://drive.google.com/drive/folders/1cNg7cQG-RONHfL7_yHy9h5DZDWGfi-1k?usp=share_link" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 <table>
@@ -63,13 +63,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>Describe the flow of work and the problems that the staff has during the registration</td>
   </tr>
   <tr>
-    <td>Puan Sari Ariza binti Sukiman</td>
-    <td>Middle Management Cahaya Ad Din</td>
-    <td>Accountant</td>
-    <td>Describe the flow of payment during registration and the problem behind it</td>
-  </tr>
-    <tr>
-    <td>En Muhammad Iman Firdaus Bin Baharuddin</td>
+    <td>En Mohd Aiman bin Misah</td>
     <td>End User</td>
     <td>Client</td>
     <td>Tells more about the problem they have during the registration</td>
