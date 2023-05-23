@@ -62,12 +62,6 @@ One Stop Parcel Center & Cengal Parcel Point
     <td>Head of Management</td>
   <td>Responsible on managing the staffs, ensuring smooth operations, and manage the budget as well. Also responsible on making sure that the informations stated at the parcel and the data is well protected and secure</td>
   </tr>
-    <tr>
-    <td>Muhammad Amirul</td>
-    <td>Cengal Parcel Point</td>
-    <td>Head of Management</td>
-    <td>Overall manages the security of parcels received through Shopee Express, and manage the staff as well as the informations about the parcels being secure</td>
-  </tr>
    <tr>
     <td>Johnny Sii How Yong</td>
     <td>KTDI Student</td>
@@ -105,6 +99,10 @@ One Stop Parcel Center & Cengal Parcel Point
 | 13| 13/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Had meeting with stackholder via Google Meet (Johnny) |Complete|
 | 14| 14/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Follow-up with stackholder |Complete|
 | 15| 15/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Develop UML Activity Diagram and Sequence Diagram | Complete|
+| 16| 22/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Update SRS Document| Complete|
+| 17| 23/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Second meeting with stakeholder (OPC)| Complete|
+| 18| 23/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Second meeting with stakeholder (Johnny)| Complete|
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

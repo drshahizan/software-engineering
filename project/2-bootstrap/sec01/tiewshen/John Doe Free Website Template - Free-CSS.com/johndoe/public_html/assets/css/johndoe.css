@@ -272,9 +272,7 @@ select {
 button,
 [type="button"],
 [type="reset"],
-[type="submit"] {
-  -webkit-appearance: button;
-}
+[type="submit"] 
 
 button:not(:disabled),
 [type="button"]:not(:disabled),
@@ -300,9 +298,7 @@ input[type="checkbox"] {
 input[type="date"],
 input[type="time"],
 input[type="datetime-local"],
-input[type="month"] {
-  -webkit-appearance: listbox;
-}
+input[type="month"] 
 
 textarea {
   overflow: auto;
@@ -339,7 +335,7 @@ progress {
 
 [type="search"] {
   outline-offset: -2px;
-  -webkit-appearance: none;
+ 
 }
 
 [type="search"]::-webkit-search-decoration {
@@ -11506,8 +11502,8 @@ pre .code {
   position: relative;
   height: 80vh;
   min-height: 600px;
-  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/header.jpg);
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/header.jpg);
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://avatars.githubusercontent.com/u/129257370?s=400&u=1ae84325dd5266dec47c09f190c8abf911f8423f&v=4);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://avatars.githubusercontent.com/u/129257370?s=400&u=1ae84325dd5266dec47c09f190c8abf911f8423f&v=4);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

@@ -68,7 +68,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>3 Sudashen Rao</td>
     <td>Student</td>
     <td>Faculty of Computing Student (Undergraduate)</td>
-    <td></td>
+    <td>Provide recommendations and functions that students need in a Student Engagement System</td>
   </tr>
 </table>
 ## Tasks involved in developing SRC documentation:

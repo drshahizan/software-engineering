@@ -41,9 +41,9 @@ Don't forget to hit the :star: if you like this repo.
 ## Documentation
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Document SRS| <a href="" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
-|3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+|1| Document SRS| <a href="https://docs.google.com/document/d/1IYG7GiCYAsp6VpTwAMfNKDYWtK1Ys9vY/edit"><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="Use Case Diagram (1)-Use Case Diagram.drawio.png"><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|3| Others| <a href="https://drive.google.com/drive/folders/1wirG--meSpZ3Qbykf8V2CYOd2Y3FSdC2" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 <table>
@@ -72,16 +72,17 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provide perspective and feedback regarding the system to ensure it fufill the needs as a KTDI student</td>
   </tr>
     <tr>
-    <td>4.</td>
+    <td>4. Dr Noor Hafizah Zaihanah bte Mohd Nur</td>
+    <td>PKU Staff</td>
     <td>Mental Health Officer</td>
-    <td></td>
-    <td></td>
+    <td>Provide expertise and guidance on mental health content and resources for the website.</td>
   </tr>
     <tr>
-    <td>5.</td>
-    <td>Asistant Dentist</td>
-    <td></td>
-    <td></td>
+    <td>5. Dr Norannieza bte Muzlan</td>
+    <td>PKU Staff</td>
+    <td>Dentist</td>
+    <td>Provide dental expertise and guidance on oral health content and resources for the website.
+</td>
   </tr>
 </table>
 
@@ -97,15 +98,15 @@ Don't forget to hit the :star: if you like this repo.
 | 6| 02/05/2023| Goh Jiale | Main Developer | Implement software functionally | Incomplete | 
 | 7| 03/05/2023| All Group Members |  | 1st Interview with Puan Nazlin | Complete | 
 | 8| 03/05/2023 | All Group Members |  | 1st Interview with Dr Mohd. Firdaus | Complete |
-| 9| 03/05/2023 | Goh Jiale and Ong Yi Yan | Main Developer and Requirement Analysis | Create interview notes for review | Incomplete |
+| 9| 03/05/2023 | Goh Jiale and Ong Yi Yan | Main Developer and Requirement Analysis | Create interview notes for review | Complete |
 | 10| 12/05/2023 | All Group Members | | SRS Planning | Complete |
-| 11| 14/05/2023 | Tang Yan Qing | Documentation Specialists | Create system documentation | Incomplete |
+| 11| 14/05/2023 | Tang Yan Qing | Documentation Specialists | Create system documentation | Complete |
 | 12| 15/05/2023 | Lee Yik Hong, Koh Su Xuan and Ong Yi Yan | User Experience Designer, Quality assurance and Requirement Analysis | Design User Case | Complete |
-| 13| 18/05/2023 | All Group Members |  | 1st Interview with Lim Shi Kai | Incomplete |
-| 14| 20/05/2023 | All Group Members |  | 1st Interview with Mental Health Officer | Incomplete |
-| 15| 20/05/2023 | All Group Members |  | 1st Interview with Asistant Dentist | Incomplete |
+| 13| 18/05/2023 | All Group Members |  | 1st Interview with Lim Shi Kai | Complete |
+| 14| 20/05/2023 | All Group Members |  | 1st Interview with Mental Health Dr | Complete |
+| 15| 20/05/2023 | All Group Members |  | 1st Interview with Dentist | Complete |
 | 16| 22/05/2023 | Tang Yan Qing, Koh Su Xuan and Lee Yik Hong | Documentation Specialists, Quality assurance and User Experience Designer | Create interview notes for review | Incomplete |
-| 17| 23/05/2023 | All Group Members |  | Discussion and assign task for system features part based on user case design | Incomplete |
+| 17| 23/05/2023 | All Group Members |  | Discussion and assign task for system features part based on user case design | Complete |
 | 18| 25/05/2023 | Tang Yan Qing | Documentation Specialists | Create Software Design Document | Incomplete |
 | 19| 28/05/2023 | All Group Members |  | 2nd meeting with Puan Nazlin | Incomplete |
 | 20| 28/05/2023 | All Group Members |  | 2nd meeting with Lim Shi Kai | Incomplete |

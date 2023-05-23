@@ -92,7 +92,13 @@ One Stop Parcel Center & Cengal Parcel Point
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | | | | | 
+| 1 | 22/5/2023|Nik |Software Architect |Purpose | complete| 
+| 2 | 22/5/2023 |Izzah |Back-end Developer | Scope| complete| 
+| 3 | 22/5/2023  |Thevan |Front-end Developer |Def, acro, abb | complete| 
+| 4 | 22/5/2023 |Erina |Project Manager |Ref & overview | complete| 
+
+
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
