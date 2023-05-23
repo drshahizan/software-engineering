@@ -118,7 +118,7 @@ Remember that the complexity of the design and your familiarity with HTML, CSS, 
 | 5  | Figma Noob to Pro! 01: Basics                             | <a href="https://youtu.be/CjeLMOj0DW0"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
 | 6  | Figma UI Design Tutorial: Get Started in Just 24 Minutes! | <a href="https://youtu.be/FTFaQWZBqQ8"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
 | 7  | Landing Page Design Tutorial - Web Design in Figma        | <a href="https://youtu.be/V_cioLTaDvQ"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
-| 8  | Learn Figma In Under 10 Minutes! | <a href="https://youtu.be/PJIKqnftfPw"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
+| 8  | Learn Figma In Under 10 Minutes! | <a href="https://youtu.be/To_ADCVSg5g"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
 | 9  | Belajar Dasar Figma untuk Pemula - Tutorial Bahasa Indonesia | <a href="http://localhost/exercise/7%20Array/Lesson%207h.php"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
 | 10 | Menguasai FIGMA untuk Pemula + Bikin UI Desain Food Delivery | <a href="https://youtu.be/0JeyMBOPLqw"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
 | 11 | Prototype & Test in 10 minutes or less | <a href="https://youtu.be/pijzYKAOluw"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
