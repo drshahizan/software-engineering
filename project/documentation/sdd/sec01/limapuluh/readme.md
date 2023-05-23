@@ -60,18 +60,17 @@ Don't forget to hit the :star: if you like this repo.
     <th>Position</th>
     <th>Responsibility</th>
   </tr>
-  <tr>
-    <td>-</td>
+<tr>
+    <td>Wong Yit Khee</td>
     <td>Student</td>
-    <td>Faculty of Computing (Undergraduate)</td>
-    <td>--</td>
+    <td>Faculty of Computing (PHD Student)</td>
+    <td>Providing honest, specific, and timely feedback, participating actively, and collaborating respectfully to help improve the educational experience for future students.</td>
   </tr>
-  <tr>
-  <tr>
-    <td>-</td>
+<tr>
+    <td>Muhammad Nazirul Asyraaf</td>
     <td>Student</td>
-    <td>Faculty of Computing (Undergraduate)</td>
-    <td>--</td>
+    <td>Faculty of Computing (PHD Student)</td>
+    <td>Providing honest, specific, and timely feedback, participating actively, and collaborating respectfully to help improve the educational experience for future students.</td>
   </tr>
     <tr>
     <td>Dr Noorfa Haszlinna binti Mustaffa</td>
