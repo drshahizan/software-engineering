@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # Guide: Intro to Behance
 
-![Introduction to web programming](href="https://help.behance.net/hc/article_attachments/7476408127899/Screen_Shot_2022-07-20_at_12.20.50_PM.png")
+![Introduction to web programming](https://help.behance.net/hc/article_attachments/7476408127899/Screen_Shot_2022-07-20_at_12.20.50_PM.png)
 <a href="https://help.behance.net/hc/article_attachments/7476408127899/Screen_Shot_2022-07-20_at_12.20.50_PM.png"><img src="https://help.behance.net/hc/article_attachments/7476408127899/Screen_Shot_2022-07-20_at_12.20.50_PM.png" width="100px"></a>
 
 ## Description
