@@ -9,15 +9,9 @@ Don't forget to hit the :star: if you like this repo.
 
 # Figma
 Figma is a web-based design and prototyping tool that allows users to create and collaborate on interface designs for websites, mobile applications, and other digital products. It was developed by Figma Inc. and launched in 2016. Figma has gained popularity among designers and design teams due to its intuitive interface, powerful features, and real-time collaboration capabilities.
-
-<<<<<<< HEAD
 One of the standout features of Figma is its cloud-based nature. Unlike traditional design tools that require software installation and local file storage, Figma operates entirely in the browser, making it platform-independent and accessible from any device with an internet connection. This allows for seamless collaboration among team members, as they can work simultaneously on the same design project, see real-time updates, and provide feedback in the form of comments.
 
 Figma offers a wide range of design tools and features to support the design process. These include vector editing tools, pre-built design components, layout grids, prototyping capabilities, and a comprehensive library of design assets. The vector editing tools allow designers to create and manipulate shapes, icons, and illustrations, while the pre-built components and design assets help streamline the design process by providing a library of reusable elements.
-=======
-## Description
-Behance, part of Adobe, is the leading online platform to showcase & discover creative work. Creative people around the world join Behance, entering a community made with their original work and creative process in mind.
->>>>>>> a884e6040ddd0fb09b8b642bd3680a58b85d839d
 
 The prototyping features in Figma enable designers to create interactive and animated prototypes of their designs. They can define transitions, gestures, and interactions to simulate the user experience and test the functionality of the design before implementation. This helps in identifying any usability issues or areas of improvement early in the design process.
 
