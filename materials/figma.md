@@ -19,6 +19,8 @@ Figma also supports plugins, which extend the tool's functionality by allowing u
 
 Figma is a versatile and collaborative design tool that provides a cloud-based platform for creating, prototyping, and iterating on digital designs. Its focus on real-time collaboration, intuitive interface, and powerful feature set make it a popular choice among designers and design teams for creating exceptional user experiences.
 
+💻 **[Download](https://www.figma.com/downloads/)**
+
 ## Figma and FigJam
 
 Figma and FigJam are both collaborative design tools developed by Figma, but they serve different purposes:
@@ -109,6 +111,7 @@ Remember that the complexity of the design and your familiarity with HTML, CSS, 
 - [The CORRECT (and lazy) way to prototype | Figma Tutorial](https://youtu.be/L22lDu3QX2c)
 - [How to Prototype in Figma: Smart Animate, Prototyping and Scrolls (Tutorial)](https://youtu.be/LX7Mfj-1tiA)
 - [Reduce Prototypes by 50% (Simple trick) | Figma Tutorial](https://youtu.be/5GzLA_JkZ14)
+- [Figma Noob to Pro! 01: Basics](https://youtu.be/CjeLMOj0DW0)
 - [Figma UI Design Tutorial: Get Started in Just 24 Minutes!](https://youtu.be/FTFaQWZBqQ8)
 - [Landing Page Design Tutorial | Web Design in Figma](https://youtu.be/V_cioLTaDvQ)
 - [Learn Figma In Under 10 Minutes!](https://youtu.be/nZ57MPVbHUg)
