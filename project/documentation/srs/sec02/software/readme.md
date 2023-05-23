@@ -72,16 +72,17 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provide perspective and feedback regarding the system to ensure it fufill the needs as a KTDI student</td>
   </tr>
     <tr>
-    <td>4.</td>
+    <td>4. Dr Noor Hafizah Zaihanah bte Mohd Nur</td>
+    <td>PKU Staff</td>
     <td>Mental Health Officer</td>
-    <td></td>
-    <td></td>
+    <td>Provide expertise and guidance on mental health content and resources for the website.</td>
   </tr>
     <tr>
-    <td>5.</td>
-    <td>Asistant Dentist</td>
-    <td></td>
-    <td></td>
+    <td>5. Dr Norannieza bte Muzlan</td>
+    <td>PKU Staff</td>
+    <td>Dentist</td>
+    <td>Provide dental expertise and guidance on oral health content and resources for the website.
+</td>
   </tr>
 </table>
 
