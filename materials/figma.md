@@ -10,7 +10,9 @@ Don't forget to hit the :star: if you like this repo.
 # Guide: Intro to Behance
 
 ![Introduction to web programming](https://help.behance.net/hc/article_attachments/7476408127899/Screen_Shot_2022-07-20_at_12.20.50_PM.png)
-<a href="https://help.behance.net/hc/article_attachments/7476408127899/Screen_Shot_2022-07-20_at_12.20.50_PM.png"><img src="https://help.behance.net/hc/article_attachments/7476408127899/Screen_Shot_2022-07-20_at_12.20.50_PM.png" width="100px"></a>
+<p align="left">
+<img src="https://help.behance.net/hc/article_attachments/7476408127899/Screen_Shot_2022-07-20_at_12.20.50_PM.png"  height="300" />
+</p>
 
 ## Description
 Behance, part of Adobe, is the leading online platform to showcase & discover creative work. Creative people around the world join Behance, entering a community made with their original work and creative process in mind.
