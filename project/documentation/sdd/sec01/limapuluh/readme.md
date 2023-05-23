@@ -42,12 +42,6 @@ Don't forget to hit the :star: if you like this repo.
     <td>Lee Soon Der</td>
     <td>User Experience Designer</td>
   </tr>
-   <tr>
-    <td>Encik Mohamed Fairuz bin Dahalan</td>
-    <td>University Staff</td>
-    <td>IT Technical Staff</td>
-    <td>Providing feedback on the proposal, ensuring compliance with university policies and procedures, and facilitating the implementation and rollout of the system.</td>
-  </tr>
 </table>
 
 ## Documentation
@@ -88,6 +82,12 @@ Don't forget to hit the :star: if you like this repo.
     <td>Professor Madya Dr. Mohd Nihra Haruzuan bin Mohamad Said</td>
     <td>University Staff</td>
     <td>CDex Staff</td>
+    <td>Providing feedback on the proposal, ensuring compliance with university policies and procedures, and facilitating the implementation and rollout of the system.</td>
+  </tr>
+  <tr>
+    <td>Encik Mohamed Fairuz bin Dahalan</td>
+    <td>University Staff</td>
+    <td>IT Technical Staff</td>
     <td>Providing feedback on the proposal, ensuring compliance with university policies and procedures, and facilitating the implementation and rollout of the system.</td>
   </tr>
 </table>
