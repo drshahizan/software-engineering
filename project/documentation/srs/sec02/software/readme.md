@@ -42,7 +42,7 @@ Don't forget to hit the :star: if you like this repo.
 | No | Name |File | 
 | -----:| ----- | :------: | 
 |1| Document SRS| <a href="" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="" ><img src="Use Case Diagram (1)-Use Case Diagram.drawio.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <img src="Use Case Diagram (1)-Use Case Diagram.drawio.png" width="24px" height="24px" ></a>|
 |3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
