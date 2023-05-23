@@ -107,6 +107,7 @@ Remember that the complexity of the design and your familiarity with HTML, CSS, 
 ## Useful links
 - [Learn how to use Figma prototypes correctly!](https://youtu.be/_yVgc34ZejI)
 - [The CORRECT (and lazy) way to prototype | Figma Tutorial](https://youtu.be/L22lDu3QX2c)
+- [How to Prototype in Figma: Smart Animate, Prototyping and Scrolls (Tutorial)](https://youtu.be/LX7Mfj-1tiA)
 - [Reduce Prototypes by 50% (Simple trick) | Figma Tutorial](https://youtu.be/5GzLA_JkZ14)
 - [Figma UI Design Tutorial: Get Started in Just 24 Minutes!](https://youtu.be/FTFaQWZBqQ8)
 - [Landing Page Design Tutorial | Web Design in Figma](https://youtu.be/V_cioLTaDvQ)
