@@ -38,7 +38,7 @@ Don't forget to hit the :star: if you like this repo.
 | No | Name |File | 
 | -----:| ----- | :------: | 
 |1| Document SRS| <a href="https://docs.google.com/document/d/1K5BUQ4Y9mUT3usQTCvz8gkTchpclQgj0/edit?usp=sharing&ouid=109771361949126453388&rtpof=true&sd=true" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/tree/main/project/drawio/Alpha" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
 |3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
