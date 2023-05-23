@@ -12,6 +12,20 @@ Don't forget to hit the :star: if you like this repo.
 ## Description
 Behance, part of Adobe, is the leading online platform to showcase & discover creative work. Creative people around the world join Behance, entering a community made with their original work and creative process in mind.
 
+Behance.net is an online platform and social media network that focuses on showcasing and discovering creative work in various fields, including graphic design, illustration, photography, architecture, fashion, and more. It was launched in 2006 by Scott Belsky and Matias Corea and has since become one of the leading platforms for creative professionals to showcase their portfolios and connect with other like-minded individuals.
+
+The primary purpose of Behance is to provide a space for creatives to exhibit their work, gain exposure, and attract potential clients or job opportunities. Users can create individual profiles and upload their projects, which can consist of images, videos, interactive media, and written descriptions. Each project is displayed in a visually appealing and organized manner, allowing visitors to browse through portfolios, appreciate the artwork, and leave comments or appreciations.
+
+One of the notable features of Behance is the "Work in Progress" section, where artists can share their ongoing projects, receive feedback, and document their creative process. This interactive element fosters collaboration and engagement among the Behance community.
+
+Behance also serves as a networking platform, enabling users to follow and connect with other creatives, including designers, artists, photographers, and agencies. This connection-building aspect helps individuals to expand their professional network, seek inspiration, and explore collaborations.
+
+Additionally, Behance provides tools and features for employers and recruiters to discover talented individuals. Companies can search for specific skills or browse portfolios to find suitable candidates for job openings or freelance projects.
+
+In recent years, Behance has introduced curated galleries, featuring outstanding projects and collections across various disciplines. These galleries highlight exceptional work, trends, and emerging talents, providing exposure and recognition to creators.
+
+Behance.net has become a popular platform for both established professionals and aspiring artists, serving as a hub for creative inspiration, collaboration, and professional growth. It has a vast and diverse community of creatives from around the world, making it an invaluable resource for anyone interested in exploring and appreciating the world of design and visual arts.
+
 ## Projects
 A [Project](https://help.behance.net/hc/en-us/articles/204483644-What-is-a-Project-) is a grouping of images, videos, and other digital content with a related theme or process. Every project has a unique URL that can be shared across the web, as well as a View and Appreciation counter so you can track how many people have seen your project and given you kudos on a job well done. Here is an [example of a Project](https://www.behance.net/gallery/60441657/Behance-Year-in-Review-2017-Our-10-Year-Anniversary) created by the Behance Design Team.
 
@@ -20,6 +34,34 @@ Behance members can **Follow** your profile and you can, in turn, follow other u
 
 ## For You Feed
 The [For You](https://help.behance.net/hc/en-us/articles/204484454-What-is-the-For-You-feed-) feed is the home screen for signed-in Behance creatives. As you follow more profiles, you'll start to see more projects appear in your feed. To view a Project that appears in your For You feed, simply click the Project Cover and the full contents of the project will open for you to view.
+
+## A system development project on Behance.net, 
+You can create a portfolio and include the following items:
+
+1. **Project Overview:** Provide a concise and engaging introduction to your system development project. Describe the purpose, scope, and goals of the project.
+
+2. **Problem Statement:** Clearly define the problem or challenge that the system development project aims to address. Explain the significance and impact of solving this problem.
+
+3. **User Research:** Detail the methods and techniques used to gather insights about the target users and their needs. Include any user interviews, surveys, or observations conducted during the research phase.
+
+4. **User Personas:** Create personas that represent the different user types or stakeholders involved in the system. Include their characteristics, goals, and pain points to demonstrate a deep understanding of the target audience.
+
+5. **User Journey Mapping:** Visualize the user's journey through the system, highlighting key touchpoints and interactions. Show how the system improves or streamlines the user experience.
+
+6. **Wireframes and Prototypes:** Showcase the wireframes and interactive prototypes created during the design process. Highlight key screens and features, explaining the rationale behind the design decisions.
+
+7. **Development Process:** Describe the software development methodologies, tools, and technologies used to build the system. Include details about the programming languages, frameworks, and libraries employed.
+
+8. **System Architecture:** Provide an overview of the system's architecture, including the different components and their interactions. Use diagrams or flowcharts to illustrate the system's structure.
+
+9. **Testing and Quality Assurance:** Discuss the testing strategies and methodologies implemented to ensure the system's reliability, security, and performance. Highlight any testing frameworks or tools utilized.
+
+10. **Deployment and Launch:** Explain how the system was deployed and made available to users. Discuss any challenges faced during the deployment process and how they were addressed.
+
+11. **Results and Impact:** Present the outcomes and impact of the system development project. Include any metrics, feedback from users, or testimonials that demonstrate the success of the system.
+
+12. **Lessons Learned:** Reflect on the lessons learned during the project. Discuss any challenges, setbacks, or successes that have contributed to your growth as a system developer.
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
