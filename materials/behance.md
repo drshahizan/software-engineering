@@ -115,6 +115,33 @@ You can follow these steps:
 
 By following these steps, you'll be able to create a prototype system using Figma and showcase it on Behance.net, allowing others to view and appreciate your design work and interactive elements.
 
+## Behance.net - System and Website
+
+| No | Title                                     | Link                                                  |
+|----|-------------------------------------------|:-------------------------------------------------------:|
+| 1  | Hostel Management System | <a href="https://www.behance.net/gallery/168568615/Hostel-Management-System" ><img src="../images/ui-design.png" width="24px" height="24px" ></a> |
+| 2  | Hostelworld - Case study | <a href="https://www.behance.net/gallery/150747885/Hostelworld-Case-study" ><img src="../images/ui-design.png" width="24px" height="24px" ></a> |
+| 3  | SCAD-Hostel Management | <a href="https://www.behance.net/gallery/165411173/SCAD-Hostel-Management" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
+| 4  | Shopee Redesign UX/UI research Case Study | <a href="https://www.behance.net/gallery/124732313/Shopee-Redesign-UXUI-research-Case-Study" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
+| 5  | NIFT Hostel- Student Management System- APP Design | <a href="https://www.behance.net/gallery/168712459/NIFT-Hostel-Student-Management-System-APP-Design" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
+| 6  | Sarawak Layer Cake Website Design | <a href="https://www.behance.net/gallery/155042793/Sarawak-Layer-Cake-Website-Design" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
+| 7  | XPLOR Travel App | <a href="https://www.behance.net/gallery/141838429/XPLOR-Travel-App" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
+| 8  | Mobile Web Menu - Mamak | <a href="https://www.behance.net/gallery/152300087/Mobile-Web-Menu-Mamak" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
+| 9  | "Who Says?" Food Ordering App Design | <a href="https://www.behance.net/gallery/121617927/Who-Says-Food-Ordering-App-Design" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
+| 10 | become invisible braces - website design | <a href="https://www.behance.net/gallery/134905001/become-invisible-braces-website-design" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
+| 11 | Redesign website UI/UX - Real estate | <a href="https://www.behance.net/gallery/167882205/Redesign-website-UIUX-Real-estate" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
+| 12 | Furniture website|<a href="https://www.behance.net/gallery/170249129/Furniture-website" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
+| 13 | Crypto Web3 Landing Page Design |<a href="https://www.behance.net/gallery/170581621/Crypto-Web3-Landing-Page-Design" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
+| 14 | Jawahar Bhawan, IIT Roorkee - Website Redesign |<a href="https://www.behance.net/gallery/151947687/Jawahar-Bhawan-IIT-Roorkee-Website-Redesign" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
+| 15 | Student Hostel Landing page |<a href="https://www.behance.net/gallery/103300127/Student-Hostel-Landing-page" ><img src="../images/ui-design.png" width="24px" height="24px" ></a>|
+
+## Behance.net - Data Science
+
+| No | Title                                     | Link                                                  |
+|----|-------------------------------------------|:-------------------------------------------------------:|
+| 1  | Redesign of an Automatic Machine Learning Platform | <a href="https://www.behance.net/gallery/133395797/Redesign-of-an-Automatic-Machine-Learning-Platform" ><img src="../images/ui-design.png" width="24px" height="24px" ></a> |
+| 2  | Vision | <a href="https://www.behance.net/gallery/135358231/VISION" ><img src="../images/ui-design.png" width="24px" height="24px" ></a> |
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
