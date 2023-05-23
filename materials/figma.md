@@ -121,17 +121,17 @@ Remember that the complexity of the design and your familiarity with HTML, CSS, 
 
 | No | Title                                                    | Link                                               |
 |----|----------------------------------------------------------|----------------------------------------------------|
-| 1  | Learn how to use Figma prototypes correctly!              | ![YouTube](https://example.com/youtube-icon.png)    |
-| 2  | The CORRECT (and lazy) way to prototype - Figma Tutorial | ![YouTube](https://example.com/youtube-icon.png)    |
-| 3  | How to Prototype in Figma: Smart Animate, Prototyping and Scrolls (Tutorial) | ![YouTube](https://example.com/youtube-icon.png)    |
-| 4  | Reduce Prototypes by 50% (Simple trick) - Figma Tutorial | ![YouTube](https://example.com/youtube-icon.png)    |
-| 5  | Figma Noob to Pro! 01: Basics                             | ![YouTube](https://example.com/youtube-icon.png)    |
-| 6  | Figma UI Design Tutorial: Get Started in Just 24 Minutes! | ![YouTube](https://example.com/youtube-icon.png)    |
-| 7  | Landing Page Design Tutorial - Web Design in Figma        | ![YouTube](https://example.com/youtube-icon.png)    |
-| 8  | Learn Figma In Under 10 Minutes!                          | ![YouTube](https://example.com/youtube-icon.png)    |
-| 9  | Belajar Dasar Figma untuk Pemula - Tutorial Bahasa Indonesia | ![YouTube](https://example.com/youtube-icon.png)    |
-| 10 | Menguasai FIGMA untuk Pemula + Bikin UI Desain Food Delivery | ![YouTube](https://example.com/youtube-icon.png)    |
-| 11 | Prototype & Test in 10 minutes or less                     | ![YouTube](https://example.com/youtube-icon.png)    |
+| 1  | Learn how to use Figma prototypes correctly!              | <a href="http://localhost/exercise/7%20Array/Lesson%207h.php"><img src="../../images/youtube64.png" width="24px" height="24px" ></a> |
+| 2  | The CORRECT (and lazy) way to prototype - Figma Tutorial | <a href="http://localhost/exercise/7%20Array/Lesson%207h.php"><img src="../../images/youtube64.png" width="24px" height="24px" ></a> |
+| 3  | How to Prototype in Figma: Smart Animate, Prototyping and Scrolls (Tutorial) | <a href="http://localhost/exercise/7%20Array/Lesson%207h.php"><img src="../../images/youtube64.png" width="24px" height="24px" ></a> |
+| 4  | Reduce Prototypes by 50% (Simple trick) - Figma Tutorial | <a href="http://localhost/exercise/7%20Array/Lesson%207h.php"><img src="../../images/youtube64.png" width="24px" height="24px" ></a> |
+| 5  | Figma Noob to Pro! 01: Basics                             | <a href="http://localhost/exercise/7%20Array/Lesson%207h.php"><img src="../../images/youtube64.png" width="24px" height="24px" ></a> |
+| 6  | Figma UI Design Tutorial: Get Started in Just 24 Minutes! | <a href="http://localhost/exercise/7%20Array/Lesson%207h.php"><img src="../../images/youtube64.png" width="24px" height="24px" ></a> |
+| 7  | Landing Page Design Tutorial - Web Design in Figma        | <a href="http://localhost/exercise/7%20Array/Lesson%207h.php"><img src="../../images/youtube64.png" width="24px" height="24px" ></a> |
+| 8  | Learn Figma In Under 10 Minutes!                          | <a href="http://localhost/exercise/7%20Array/Lesson%207h.php"><img src="../../images/youtube64.png" width="24px" height="24px" ></a> |
+| 9  | Belajar Dasar Figma untuk Pemula - Tutorial Bahasa Indonesia | <a href="http://localhost/exercise/7%20Array/Lesson%207h.php"><img src="../../images/youtube64.png" width="24px" height="24px" ></a> |
+| 10 | Menguasai FIGMA untuk Pemula + Bikin UI Desain Food Delivery | <a href="http://localhost/exercise/7%20Array/Lesson%207h.php"><img src="../../images/youtube64.png" width="24px" height="24px" ></a> |
+| 11 | Prototype & Test in 10 minutes or less                     | <a href="http://localhost/exercise/7%20Array/Lesson%207h.php"><img src="../../images/youtube64.png" width="24px" height="24px" ></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
