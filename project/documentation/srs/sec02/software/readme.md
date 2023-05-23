@@ -41,8 +41,8 @@ Don't forget to hit the :star: if you like this repo.
 ## Documentation
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Document SRS| <a href="https://docs.google.com/document/d/1IYG7GiCYAsp6VpTwAMfNKDYWtK1Ys9vY/edit"><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="Use Case Diagram (1)-Use Case Diagram.drawio.png"><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|1| Document SRS| <a href="https://docs.google.com/document/d/1IYG7GiCYAsp6VpTwAMfNKDYWtK1Ys9vY/preview"><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/assets/128159572/17806571-b0f2-4fd5-9f93-defea1f81143"><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
 |3| Others| <a href="https://drive.google.com/drive/folders/1wirG--meSpZ3Qbykf8V2CYOd2Y3FSdC2" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder

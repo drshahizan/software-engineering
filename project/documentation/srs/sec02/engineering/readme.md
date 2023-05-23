@@ -38,7 +38,7 @@ Don't forget to hit the :star: if you like this repo.
 | No | Name |File | 
 | -----:| ----- | :------: | 
 |1| Document SRS| <a href="https://docs.google.com/document/d/1QwTmrv05YVPvNGPW8TU8pXrzIWOASwcdghV6dd_Xpos/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/Engineering/drawio" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
 |3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
@@ -71,8 +71,8 @@ One Stop Parcel Center & Cengal Parcel Point
   </tr>
   
   <tr>
-    <td>Vania</td>
-    <td>KTDI Student</td>
+    <td>Nur Hazwani Binti Mohammad Sobri</td>
+    <td>KTHO Student</td>
     <td>Deliver girl</td>
     <td> Should handle packages with care, ensuring they are properly secured and protected during transportation,ensure that parcels are delivered to the    correct recipients within the specified time frame, verify the recipient's identity or obtain a signature upon delivery, confirming that the package has reached the intended recipient and should ensure the security and confidentiality of the parcels they handle. 
     </td>
@@ -101,7 +101,7 @@ One Stop Parcel Center & Cengal Parcel Point
 | 15| 15/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Develop UML Activity Diagram and Sequence Diagram | Complete|
 | 16| 22/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Update SRS Document| Complete|
 | 17| 23/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Second meeting with stakeholder (OPC)| Complete|
-| 18| 24/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Second meeting with stakeholder (Johnny)| Complete|
+| 18| 24/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Second meeting with stakeholder (Johnny)| Incomplete|
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
