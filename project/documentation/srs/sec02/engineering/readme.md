@@ -71,8 +71,8 @@ One Stop Parcel Center & Cengal Parcel Point
   </tr>
   
   <tr>
-    <td>Vania</td>
-    <td>KTDI Student</td>
+    <td>Nur Hazwani Binti Mohammad Sobri</td>
+    <td>KTHO Student</td>
     <td>Deliver girl</td>
     <td> Should handle packages with care, ensuring they are properly secured and protected during transportation,ensure that parcels are delivered to the    correct recipients within the specified time frame, verify the recipient's identity or obtain a signature upon delivery, confirming that the package has reached the intended recipient and should ensure the security and confidentiality of the parcels they handle. 
     </td>
