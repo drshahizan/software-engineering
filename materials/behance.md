@@ -35,7 +35,32 @@ Behance members can **Follow** your profile and you can, in turn, follow other u
 ## For You Feed
 The [For You](https://help.behance.net/hc/en-us/articles/204484454-What-is-the-For-You-feed-) feed is the home screen for signed-in Behance creatives. As you follow more profiles, you'll start to see more projects appear in your feed. To view a Project that appears in your For You feed, simply click the Project Cover and the full contents of the project will open for you to view.
 
-## A system development project on Behance.net, 
+## Add a system development project on Behance.net
+Follow these step-by-step instructions:
+
+1. **Create an Account:** Visit Behance.net and create a new account if you don't already have one. You can sign up using your email address or link your account with your Adobe ID.
+
+2. **Navigate to Your Profile:** After signing in, click on your profile picture or username at the top right corner of the page to access your profile.
+
+3. **Click on "Create Project":** On your profile page, you'll find a button labeled "Create Project." Click on it to start the project creation process.
+
+4. **Choose Project Type:** Select the project type that best aligns with your system development project. You can choose options like "Web Design," "App Design," or "Interaction Design," depending on the nature of your project.
+
+5. **Project Details:** Provide a title for your project that accurately represents the system development project. Write a concise and engaging project overview that briefly describes the purpose, goals, and significance of the project.
+
+6. **Add Images and Media:** Click on the "Add Images" or "Add Media" button to upload visuals related to your system development project. This can include screenshots, wireframes, prototypes, diagrams, and any other relevant images or media.
+
+7. **Write Project Description:** Use the project description section to provide a more detailed account of your system development project. You can explain the problem statement, user research, development process, and any other aspects you want to highlight. Use markdown to format the text and make it more readable.
+
+8. **Tagging and Categorization:** Add relevant tags to your project to help others find it easily. Choose categories that best represent the focus and field of your system development project.
+
+9. **Save and Publish:** Once you have filled in all the necessary information and uploaded your content, click on the "Save" or "Publish" button to make your project live on Behance.net. You can preview the project before publishing to ensure everything looks as intended.
+
+10. **Engage with the Community:** After publishing your project, engage with the Behance community by exploring other projects, leaving comments, and appreciating the work of fellow creatives. This will help you connect with like-minded individuals and potentially gain more exposure for your system development project.
+
+By following these steps, you'll be able to effectively add your system development project to Behance.net and showcase your work to a wider audience of creative professionals and potential clients.
+
+## A system development project on Behance.net
 You can create a portfolio and include the following items:
 
 1. **Project Overview:** Provide a concise and engaging introduction to your system development project. Describe the purpose, scope, and goals of the project.
@@ -62,6 +87,33 @@ You can create a portfolio and include the following items:
 
 12. **Lessons Learned:** Reflect on the lessons learned during the project. Discuss any challenges, setbacks, or successes that have contributed to your growth as a system developer.
 
+## Create a prototype system using Figma and showcase it on Behance.net
+You can follow these steps:
+
+1. **Designing in Figma:**
+   - Install Figma: If you haven't already, download and install Figma from the official website (https://www.figma.com/).
+   - Create a New Project: Open Figma and create a new project for your system development prototype.
+   - Design Screens: Use Figma's design tools to create the individual screens and interfaces for your system. This includes designing buttons, forms, menus, and any other interactive elements.
+   - Link Screens: Connect the screens together using Figma's prototyping features. Define the interactions and transitions between screens to create a seamless user experience.
+   - Add Interactions: Utilize Figma's interactive features to add interactions such as button clicks, dropdown selections, and navigation flows. This helps simulate the functionality of the system.
+   - Test and Refine: Continuously test your prototype within Figma to ensure the interactions and user flows work as intended. Make necessary refinements to improve the overall user experience.
+
+2. **Preparing the Prototype for Behance:**
+   - Export Screens: Once your prototype is complete and tested, export each screen as individual images or use Figma's export features to generate assets.
+   - Prepare a Presentation: Create a visually appealing presentation to showcase your system development prototype. You can use presentation tools like Figma itself, PowerPoint, or any design software of your choice.
+   - Include Descriptions: Write clear and concise descriptions for each screen, explaining the purpose and functionality of the elements and interactions. Add markdown formatting to enhance readability.
+
+3. **Uploading to Behance:**
+   - Sign in to Behance: Visit Behance.net and sign in to your account.
+   - Create a New Project: Click on your profile picture or username, then select "Create Project" to start a new project.
+   - Choose Project Type: Select the project type that best aligns with your system development prototype, such as "Web Design" or "Interaction Design."
+   - Project Details: Provide a title for your project that accurately represents the prototype. Write an overview of the prototype and include any relevant details about the design process and target users.
+   - Upload Screens: Add the exported screens of your prototype as images to the project. You can upload multiple images to showcase different screens and interactions.
+   - Add Descriptions: Use the project description section to provide explanations and insights about the prototype. Describe the problem it solves, its key features, and any design decisions you made.
+   - Tagging and Categorization: Add relevant tags and choose appropriate categories to help users discover your prototype easily.
+   - Save and Publish: Once you have filled in all the necessary information, click on the "Save" or "Publish" button to make your prototype project live on Behance.net.
+
+By following these steps, you'll be able to create a prototype system using Figma and showcase it on Behance.net, allowing others to view and appreciate your design work and interactive elements.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
