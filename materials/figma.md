@@ -106,21 +106,11 @@ Step-by-step instructions to convert a design from Figma to HTML code:
 Remember that the complexity of the design and your familiarity with HTML, CSS, and JavaScript will influence the level of customization and detail required during the conversion process. The steps provided here serve as a general guideline, and you may need to adapt them based on your specific design and coding requirements.
 
 
-## Useful links
-- [Learn how to use Figma prototypes correctly!](https://youtu.be/_yVgc34ZejI)
-- [The CORRECT (and lazy) way to prototype | Figma Tutorial](https://youtu.be/L22lDu3QX2c)
-- [How to Prototype in Figma: Smart Animate, Prototyping and Scrolls (Tutorial)](https://youtu.be/LX7Mfj-1tiA)
-- [Reduce Prototypes by 50% (Simple trick) | Figma Tutorial](https://youtu.be/5GzLA_JkZ14)
-- [Figma Noob to Pro! 01: Basics](https://youtu.be/CjeLMOj0DW0)
-- [Figma UI Design Tutorial: Get Started in Just 24 Minutes!](https://youtu.be/FTFaQWZBqQ8)
-- [Landing Page Design Tutorial | Web Design in Figma](https://youtu.be/V_cioLTaDvQ)
-- [Learn Figma In Under 10 Minutes!](https://youtu.be/nZ57MPVbHUg)
-- [Belajar Dasar Figma untuk Pemula - Tutorial Bahasa Indonesia](https://youtu.be/PJIKqnftfPw)
-- [Menguasai FIGMA untuk Pemula + Bikin UI Desain Food Delivery](https://youtu.be/0JeyMBOPLqw)
-- [Prototype & Test in 10 minutes or less](https://youtu.be/pijzYKAOluw)
+## Youtube
+
 
 | No | Title                                                    | Link                                               |
-|----|----------------------------------------------------------|----------------------------------------------------|
+|----|----------------------------------------------------------|:----------------------------------------------------:|
 | 1  | Learn how to use Figma prototypes correctly! | <a href="https://youtu.be/_yVgc34ZejI"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
 | 2  | The CORRECT (and lazy) way to prototype - Figma Tutorial | <a href="https://youtu.be/L22lDu3QX2c"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
 | 3  | How to Prototype in Figma: Smart Animate, Prototyping and Scrolls (Tutorial) | <a href="https://youtu.be/LX7Mfj-1tiA"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
