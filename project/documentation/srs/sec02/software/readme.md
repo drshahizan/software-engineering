@@ -98,15 +98,15 @@ Don't forget to hit the :star: if you like this repo.
 | 6| 02/05/2023| Goh Jiale | Main Developer | Implement software functionally | Incomplete | 
 | 7| 03/05/2023| All Group Members |  | 1st Interview with Puan Nazlin | Complete | 
 | 8| 03/05/2023 | All Group Members |  | 1st Interview with Dr Mohd. Firdaus | Complete |
-| 9| 03/05/2023 | Goh Jiale and Ong Yi Yan | Main Developer and Requirement Analysis | Create interview notes for review | Incomplete |
+| 9| 03/05/2023 | Goh Jiale and Ong Yi Yan | Main Developer and Requirement Analysis | Create interview notes for review | Complete |
 | 10| 12/05/2023 | All Group Members | | SRS Planning | Complete |
-| 11| 14/05/2023 | Tang Yan Qing | Documentation Specialists | Create system documentation | Incomplete |
+| 11| 14/05/2023 | Tang Yan Qing | Documentation Specialists | Create system documentation | Complete |
 | 12| 15/05/2023 | Lee Yik Hong, Koh Su Xuan and Ong Yi Yan | User Experience Designer, Quality assurance and Requirement Analysis | Design User Case | Complete |
-| 13| 18/05/2023 | All Group Members |  | 1st Interview with Lim Shi Kai | Incomplete |
-| 14| 20/05/2023 | All Group Members |  | 1st Interview with Mental Health Officer | Incomplete |
-| 15| 20/05/2023 | All Group Members |  | 1st Interview with Asistant Dentist | Incomplete |
+| 13| 18/05/2023 | All Group Members |  | 1st Interview with Lim Shi Kai | Complete |
+| 14| 20/05/2023 | All Group Members |  | 1st Interview with Mental Health Dr | Complete |
+| 15| 20/05/2023 | All Group Members |  | 1st Interview with Dentist | Complete |
 | 16| 22/05/2023 | Tang Yan Qing, Koh Su Xuan and Lee Yik Hong | Documentation Specialists, Quality assurance and User Experience Designer | Create interview notes for review | Incomplete |
-| 17| 23/05/2023 | All Group Members |  | Discussion and assign task for system features part based on user case design | Incomplete |
+| 17| 23/05/2023 | All Group Members |  | Discussion and assign task for system features part based on user case design | Complete |
 | 18| 25/05/2023 | Tang Yan Qing | Documentation Specialists | Create Software Design Document | Incomplete |
 | 19| 28/05/2023 | All Group Members |  | 2nd meeting with Puan Nazlin | Incomplete |
 | 20| 28/05/2023 | All Group Members |  | 2nd meeting with Lim Shi Kai | Incomplete |
