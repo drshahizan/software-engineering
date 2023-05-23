@@ -62,14 +62,8 @@ Don't forget to hit the :star: if you like this repo.
     <td>Staff</td>
     <td>Describe the flow of work and the problems that the staff has during the registration</td>
   </tr>
-  <tr>
-    <td>Puan Sari Ariza binti Sukiman</td>
-    <td>Middle Management Cahaya Ad Din</td>
-    <td>Accountant</td>
-    <td>Describe the flow of payment during registration and the problem behind it</td>
-  </tr>
     <tr>
-    <td>En Muhammad Iman Firdaus Bin Baharuddin</td>
+    <td>En Mohd Aiman Bin Misah</td>
     <td>End User</td>
     <td>Client</td>
     <td>Tells more about the problem they have during the registration</td>
