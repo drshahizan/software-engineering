@@ -105,7 +105,7 @@ Don't forget to hit the :star: if you like this repo.
 | 13| 18/05/2023 | All Group Members |  | 1st Interview with Lim Shi Kai | Complete |
 | 14| 20/05/2023 | All Group Members |  | 1st Interview with Mental Health Dr | Complete |
 | 15| 20/05/2023 | All Group Members |  | 1st Interview with Dentist | Complete |
-| 16| 22/05/2023 | Tang Yan Qing, Koh Su Xuan and Lee Yik Hong | Documentation Specialists, Quality assurance and User Experience Designer | Create interview notes for review | Incomplete |
+| 16| 22/05/2023 | Tang Yan Qing, Koh Su Xuan and Lee Yik Hong | Documentation Specialists, Quality assurance and User Experience Designer | Create interview notes for review | Complete |
 | 17| 23/05/2023 | All Group Members |  | Discussion and assign task for system features part based on user case design | Complete |
 | 18| 25/05/2023 | Tang Yan Qing | Documentation Specialists | Create Software Design Document | Incomplete |
 | 19| 28/05/2023 | All Group Members |  | 2nd meeting with Puan Nazlin | Incomplete |
