@@ -11,13 +11,6 @@ Don't forget to hit the :star: if you like this repo.
 
 The following information pertains to the group responsible for implementing the IEEE Software Requirements Specifications documentation. This group is tasked with creating a document that outlines the functional and non-functional requirements of the software system. They are responsible for gathering the necessary requirements, designing the system, implementing and testing the software, and documenting the software development process. Effective communication, collaboration, and coordination between the group members are critical to ensuring that the project meets its objectives and is delivered on time and within budget. The group should adhere to the guidelines outlined by the IEEE for Software Requirements Specifications documentation and use clear and concise language, appropriate notation, and a structured format to ensure that the document is easily understood by all stakeholders involved in the software development process.
 
-## Sample SRS
-
-| No | Title | Document |
-| :-----: | ------  | :------: |
-| 1 | MengajiOnetoOne Salary Management System | <a href="SRS-Group1.pdf" ><img src="../../../images/pdf64.png" width="24px" height="24px" ></a> |
-| 2 | Vending Machine Inventory Management System | <a href="SRS-Group2.pdf" ><img src="../../../images/pdf64.png" width="24px" height="24px" ></a> |
-
 ## Section 1
 
 | No | Topic | Description | Activity | Document |
