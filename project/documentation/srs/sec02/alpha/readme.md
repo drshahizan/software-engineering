@@ -34,6 +34,14 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
+## Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Document SRS| <a href="https://docs.google.com/document/d/1K5BUQ4Y9mUT3usQTCvz8gkTchpclQgj0/edit?usp=sharing&ouid=109771361949126453388&rtpof=true&sd=true" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/tree/main/project/drawio/Alpha" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|3| Google Drive| <a href="https://drive.google.com/drive/folders/1ERPd7xwwLWaI4YWpnOIB1q48y3nP6lFU" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+|4| Sticky Notes| <a href="https://jamboard.google.com/d/1yxRnUzK0eBlYsowkIQ3jPBOpH8cnhPoiXicmMu4oi_g/viewer?f=0" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+
 ## Stakeholder
 <table>
   <tr>
@@ -55,7 +63,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provide information about the software (Google Form) that they currently use for the college room rental registration.</td>
   </tr>
     <tr>
-    <td>3 </td>
+    <td>3. Jevanaraj A/L Balasuntharam</td>
     <td>Residents of Kolej Tun Dr Ismail</td>
     <td>Student</td>
     <td>Provide feedback on the current procedure.</td>
@@ -75,7 +83,7 @@ Don't forget to hit the :star: if you like this repo.
 | 7 | 18/04/2023 |Farah, Aleysha, NurSabrina|  |  Meeting with stakeholder 1 (En. Hamdan bin Abdul Ghani)|Complete | 
 | 8 | 18/04/2023 | Farah, Aleysha, NurSabrina |  | Meeting with stakeholder 2 (Puan Rosnani bt Katip)|Complete | 
 | 9 | 11/05/2023 | Nur Aleysha Qurratu'aini Binti Mat Salleh |   Assistant Developer  | Create a use case diagram using draw.io |Complete | 
-| 10 | 11/05/2023 | All members |   | Meeting with Stakeholder 3 ( ) |Incomplete | 
+| 10 | 11/05/2023 | All members |   | Meeting with Stakeholder 3 ( Jevanaraj A/L Balasuntharam) |Complete | 
 
 
 ## Contribution 🛠️
