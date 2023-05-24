@@ -82,11 +82,11 @@ Don't forget to hit the :star: if you like this repo.
 | 6| 04/05/2023|Danial | Assistant Developer | Interview with stakeholder (Client) | Complete |
 | 7|07/05/2023 |Luqman, Danial, Anas, Kugen |Main Developer, Assistant Developer, UI/UX Designer, Scrum Master | Create Proposal |Complete |
 |8| 12/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| SRS Documentation Planning | Complete |
-|9| 12/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Create SRS documentation System | Incomplete |
-|10| 12/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Creates UML Diagram,User Diagram,User Journey Maps Diagram,User Stories and Prototype| Incomplete |
-|11| 15/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Gather Required Diagrams | Incomplete |
-|12|01/06/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Follow-up with Stakeholder | Incomplete |
-|13|02/06/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Update Documentation | Incomplete |
+|9| 12/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Create SRS documentation System | Complete|
+|10| 12/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Creates UML Diagram,User Diagram,User Journey Maps Diagram,User Stories and Prototype| Complete |
+|11| 15/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Gather Required Diagrams | Complete |
+|12|01/06/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Update Documentation | Complete |
+|13|02/06/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Follow up with stakeholder | Incomplete |
 
 
 
