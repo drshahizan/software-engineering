@@ -96,7 +96,8 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | | | | | 
+| 1 | 23/5/2023 | All members | - | System Design Planning | Complete |
+| 2 | 24/5/2023 | Lee Soon Der | User Experience Designer | Detailed User Flow Planning | Complete |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
