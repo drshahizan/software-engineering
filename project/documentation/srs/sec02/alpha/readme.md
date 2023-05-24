@@ -76,8 +76,8 @@ Don't forget to hit the :star: if you like this repo.
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 12/04/2023 | Salini Ravinthiran | Business Analyst | Find stakeholder | Partially Complete |
 | 2 | 14/04/2023 | Nadhrah NurSabrina Binti Zulaini | Documentation Specialist | Gather user requirement | Complete |
-| 3 | 16/04/2023 | Salini Ravinthiran | Business Analyst | Create interview questions | Complete |
-| 4 | 14/04/2023 | Nur Farah Adibah Binti Idris | Project Manager | Contact stakeholders | Complete |
+| 3 | 14/04/2023 | Nur Farah Adibah Binti Idris | Project Manager | Contact stakeholders | Complete |
+| 4 | 16/04/2023 | Salini Ravinthiran | Business Analyst | Create interview questions | Complete |
 | 5 | 18/04/2023 | Farah, Aleysha, Sabrina |  |  Meeting with stakeholder 1 (En. Hamdan bin Abdul Ghani) | Complete | 
 | 6 | 19/04/2023 | Farah, Aleysha, Sabrina |  | Meeting with stakeholder 2 (Puan Rosnani bt Katip) | Complete |
 | 7 | 29/04/2023 | Farah, Aleysha, Salini, Sabrina |  | Gather information and start writing detailed content for the proposal | Complete | 
