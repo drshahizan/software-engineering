@@ -68,6 +68,8 @@ This course is designed to give students an introduction to an engineering appro
 | :-----: |  ------ | :-----: | 
 | 1 | Proposal |  <a href="./proposal/materials/groups.md" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
 | 2 | System Requirements Specification (SRS)| <a href="project/documentation/srs/srs-group.md" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
+| 3 | System Design Descriptions (SDD) | <a href="project/documentation/sdd/sdd-group.md" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
+| 4 | System Test Descriptions (STD)| <a href="project/documentation/std/std-group.md" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
 
 ## Tools
 Diagrams are visual representations of information or data that help convey complex concepts, processes or systems in a clear and concise manner. Flowcharts are diagrams that use shapes and arrows to illustrate the steps in a process or algorithm. System architecture diagrams show the structure of a system and its components, illustrating how they interact with each other. There are many tools available for creating diagrams, including web-based applications like Diagrams.net, PlantUML, Mermaid.js, and Vega-Lite, as well as desktop software like yEd Graph Editor and Graphviz. Other tools like Structurizr and C4-PlantUML are designed specifically for creating system architecture diagrams, while Nomnoml and Mermaid.js can create various types of diagrams including UML diagrams and flowcharts. [**[More info...]**](./materials/tools.md).

@@ -34,6 +34,14 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
+## Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Document SRS| <a href="" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+
+
+
 ## Stakeholder
 <table>
   <tr>
@@ -74,7 +82,7 @@ Don't forget to hit the :star: if you like this repo.
     </tr>
 </table>
 
-## Tasks involved in developing SRC documentation:
+## Tasks involved in developing SRS documentation:
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
