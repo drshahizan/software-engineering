@@ -92,7 +92,7 @@ Don't forget to hit the :star: if you like this repo.
 | 4 | 02/05/2023 | Low Ying Xi | Project Manager | Contact stakeholders | Complete |
 | 5 | 02/05/2023 | Low Ying Xi | Project Manager | Create interview questions | Complete |
 | 6 | 02/05/2023 | Camily Tang Jia Lei | Developer | Implement software functionality | Incomplete |  
-| 7 | 03/05/2023 | Koh Li Hui | User Experience Designer | Requirement Analysis | Incomplete |
+| 7 | 03/05/2023 | Koh Li Hui | User Experience Designer | Requirement Analysis | Ongoing |
 | 8 | 03/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei | Project Manger, Documentation Specialist, Developer | Meeting with Hanie Azyuni Binti Mazle (JKM KTDI)| Complete | 
 | 9 | 04/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei | Project Manger, Documentation Specialist, Developer | Meeting with Lim Shi Kai (JKM KTDI) | Complete |
 | 10 | 24/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with Nadia Syahadah Binti Saharudin | Complete |
