@@ -71,6 +71,7 @@ This course is designed to give students an introduction to an engineering appro
 | 3 | System Design Descriptions (SDD) | <a href="project/documentation/sdd/sdd-group.md" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
 | 4 | System Test Descriptions (STD)| <a href="project/documentation/std/std-group.md" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
 
+
 ## Tools
 Diagrams are visual representations of information or data that help convey complex concepts, processes or systems in a clear and concise manner. Flowcharts are diagrams that use shapes and arrows to illustrate the steps in a process or algorithm [**[More info...]**](./materials/tools.md).
 

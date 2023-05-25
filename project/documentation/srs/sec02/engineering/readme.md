@@ -38,8 +38,8 @@ Don't forget to hit the :star: if you like this repo.
 | No | Name |File | 
 | -----:| ----- | :------: | 
 |1| Document SRS| <a href="https://docs.google.com/document/d/1QwTmrv05YVPvNGPW8TU8pXrzIWOASwcdghV6dd_Xpos/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/Engineering/drawio" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
-|3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="https://docs.google.com/document/d/1NpMAvd4UISR8lwYTdvrfAGGaJ1wg_S-kOi-0zARvnwQ/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|3| Others| <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/Engineering/photo" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 One Stop Parcel Center & Cengal Parcel Point
@@ -101,7 +101,10 @@ One Stop Parcel Center & Cengal Parcel Point
 | 15| 15/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Develop UML Activity Diagram and Sequence Diagram | Complete|
 | 16| 22/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Update SRS Document| Complete|
 | 17| 23/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Second meeting with stakeholder (OPC)| Complete|
-| 18| 24/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Second meeting with stakeholder (Johnny)| Incomplete|
+| 18| 24/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Second meeting with stakeholder (Johnny)| Complete|
+| 19| 24/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Develop draft of low fidelity Wireframes | Complete |
+| 20| 25/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Develop low fidelity Wireframes | In progress |
+| 21| 26/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Develop high fidelity Wireframes | Incomplete |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
