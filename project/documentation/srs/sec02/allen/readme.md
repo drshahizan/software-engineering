@@ -78,8 +78,8 @@ Don't forget to hit the :star: if you like this repo.
 | 5 | 12/05/2023 | All Members | Project Members | Updation of proposal | Partially Complete | 
 | 6 | 12/05/2023 | NAVACHANDER NAVASANTAR | Documantation Specialist | Assign task to project members for SRS Documentation | Incomplete | 
 | 6 | 14/05/2023 | All Members | Project Members | Updation of SRS Documentation | Incomplete | 
-| 7 | | | | | 
-| 8 | | | | | 
+| 7 | 17/05/2023 | All Members | Project Members | Creating UML Diagram | Ongoing |
+| 8 | 20/05/2023 | All Members | Project Members | Create System Docuentation (SD) | Ongoing |
 | 9 | | | | | 
 | 10 | | | | | 
 | 11 | | | | | 
