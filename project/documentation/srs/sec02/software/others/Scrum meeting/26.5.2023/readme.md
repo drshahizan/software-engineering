@@ -25,4 +25,4 @@
    - Time given for task is too urgent,
 
 ## Meeting Photo
-<img src="https://ibb.co/pxzDfZY](https://github.com/drshahizan/software-engineering/blob/main/project/documentation/srs/sec02/software/others/Scrum%20meeting/26.5.2023/Scrum%20meeting%202%20pic.png">
+<img src="https://ibb.co/pxzDfZY">
