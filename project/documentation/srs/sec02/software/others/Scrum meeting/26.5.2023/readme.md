@@ -25,4 +25,4 @@
    - Time given for task is too urgent,
 
 ## Meeting Photo
-<img src="WhatsApp Image 2023-05-25 at 09.56.40.jpg">
+<img src="https://ibb.co/pxzDfZY">
