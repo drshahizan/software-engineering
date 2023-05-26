@@ -23,3 +23,5 @@
 3. **Obstacles or challenges hindering progress:**
    - Not enough time due to other courses being busy
 
+## Meeting Photo
+<img src="WhatsApp Image 2023-05-25 at 09.56.40.jpg">
