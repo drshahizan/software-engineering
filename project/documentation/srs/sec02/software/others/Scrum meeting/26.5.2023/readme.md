@@ -25,4 +25,4 @@
    - Time given for task is too urgent,
 
 ## Meeting Photo
-<img src="[https://ibb.co/pxzDfZY](https://ibb.co/pxzDfZY)">
+<img src="https://ibb.co/pxzDfZY">
