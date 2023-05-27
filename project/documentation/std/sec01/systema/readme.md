@@ -37,14 +37,6 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-## Documentation
-| No | Name |File | 
-| -----:| ----- | :------: | 
-|1| Document STD | <a href="" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
-|3| Figma| <a href="" ><img src="../../../../../images/figma.svg" width="24px" height="24px" ></a>|
-|4| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
-
 ## Stakeholder
 <table>
   <tr>
@@ -76,7 +68,16 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | | | | | 
+| 1 | 19/04/2023 | Bernice Lim Jing Xuan | Project Manager | Create project plan | Complete |
+| 2 | 20/04/2023 | Chai Yu Tong | Developer | Create proposal | Complete | 
+| 3 | 02/05/2023 | Chai Yu Tong | Developer | Contact stakeholder 1 | Complete | 
+| 4 | 02/05/2023 | Bernice Lim Jing Xuan | Project Manager | Contact stakeholder 2 | Complete |
+| 5 | 06/05/2023 | Bernice Lim Jing Xuan | Project Manager | Contact stakeholder 3 | Complete |
+| 6 | 06/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 1 | Complete |
+| 7 | 07/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 2 | Complete |
+| 8 | 11/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 3 | ToDo |
+| 9 | 12/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Analysis Requirements | ToDo |
+| 10 | 15/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer |  SRS Planning | ToDo |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

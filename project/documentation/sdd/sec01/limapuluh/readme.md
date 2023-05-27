@@ -44,14 +44,6 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-## Documentation
-| No | Name |File | 
-| -----:| ----- | :------: | 
-|1| Document SDD | <a href="" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
-|3| Figma| <a href="" ><img src="../../../../../images/figma.svg" width="24px" height="24px" ></a>|
-|4| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
-
 ## Stakeholder
 <table>
   <tr>
@@ -60,17 +52,18 @@ Don't forget to hit the :star: if you like this repo.
     <th>Position</th>
     <th>Responsibility</th>
   </tr>
-<tr>
-    <td>Wong Yit Khee</td>
+  <tr>
+    <td>-</td>
     <td>Student</td>
-    <td>Faculty of Computing (PHD Student)</td>
-    <td>Providing honest, specific, and timely feedback, participating actively, and collaborating respectfully to help improve the educational experience for future students.</td>
+    <td>Faculty of Computing (Undergraduate)</td>
+    <td>--</td>
   </tr>
-<tr>
-    <td>Muhammad Nazirul Asyraaf</td>
+  <tr>
+  <tr>
+    <td>-</td>
     <td>Student</td>
-    <td>Faculty of Computing (PHD Student)</td>
-    <td>Providing honest, specific, and timely feedback, participating actively, and collaborating respectfully to help improve the educational experience for future students.</td>
+    <td>Faculty of Computing (Undergraduate)</td>
+    <td>--</td>
   </tr>
     <tr>
     <td>Dr Noorfa Haszlinna binti Mustaffa</td>
@@ -84,19 +77,23 @@ Don't forget to hit the :star: if you like this repo.
     <td>CDex Staff</td>
     <td>Providing feedback on the proposal, ensuring compliance with university policies and procedures, and facilitating the implementation and rollout of the system.</td>
   </tr>
-  <tr>
-    <td>Encik Mohamed Fairuz bin Dahalan</td>
-    <td>University Staff</td>
-    <td>IT Technical Staff</td>
-    <td>Providing feedback on the proposal, ensuring compliance with university policies and procedures, and facilitating the implementation and rollout of the system.</td>
-  </tr>
 </table>
 
 ## Tasks involved in developing SRC documentation:
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | | | | | 
+| 1. | 28/04/2023 | Yong Wern Jie | Project Manager |  Create Project Plan | Complete |
+| 2. | 30/04/2023 | All members | - | Find Stakeholder | Complete |
+| 3. | 02/05/2023 | All members | - | Interview with stakeholders | Partially Complete | 
+| 4. | 02/05/2023 | Soh Han Wei | Requirement Analyst | Gather User Requirements | Partially Complete |
+| 5. | 02/05/2023 | Lim Jing Yong  | Documentation Specialist | Create Proposal | Complete |
+| 6. | 12/05/2023 | All members | - | Create UML Diagram | Incomplete |
+| 7. | 19/05/2023 | Lim Jing Yong & Soh Han Wei | Documentation Specialist & Requirement Analyst | Create SRS Document | Incomplete |
+| 8. | 31/06/2023 | Marcus Joey Sayner | Software Developer | System Development | Incomplete |
+| 9. | 02/07/2023 | Lee Soon Der | User Experience Designer | Create System Architecture Design | Incomplete |
+
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

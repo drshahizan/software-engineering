@@ -22,11 +22,11 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>2. Nur Farah Adibah Binti Idris </td>
-    <td> Main Developer </td>
+    <td> Main Developer & Project Manager </td>
   </tr>
     <tr>
     <td>3. Nadhrah NurSabrina Binti Zulaini </td>
-    <td> Database Administrator & Assistant Developer </td>
+    <td> Documentation Specialist & Assistant Developer </td>
   </tr>
     <tr>
     <td>4. Nur Aleysha Qurratu'aini Binti Mat Salleh </td>
@@ -74,16 +74,24 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 02/05/2023| Salini Ravinthiran | Business Analyst | Gather user requirement | Partially Complete |
-| 2 | 02/05/2023 | Nur Farah Adibah Binti Idris  | Main Developer | Create system architecture design | Complete |
-| 3 | 02/05/2023 | Nur Farah Adibah Binti Idris  | Main Developer | Implement software functionality | Incomplete |
-| 4 | 02/05/2023 | Nur Aleysha Qurratu'aini Binti Mat Salleh | Quality Assurance Engineer | Create testing plan and execute tests | Incomplete | 
-| 5 | 02/05/2023 | Nadhrah NurSabrina Binti Zulaini | Assistant Developer | Create system documentation |Incomplete | 
-| 6 | 03/05/2023 | All members |  | Gather information and start writing detailed content for the proposal |Complete | 
-| 7 | 18/04/2023 |Farah, Aleysha, NurSabrina|  |  Meeting with stakeholder 1 (En. Hamdan bin Abdul Ghani)|Complete | 
-| 8 | 18/04/2023 | Farah, Aleysha, NurSabrina |  | Meeting with stakeholder 2 (Puan Rosnani bt Katip)|Complete | 
-| 9 | 11/05/2023 | Nur Aleysha Qurratu'aini Binti Mat Salleh |   Assistant Developer  | Create a use case diagram using draw.io |Complete | 
-| 10 | 11/05/2023 | All members |   | Meeting with Stakeholder 3 ( Jevanaraj A/L Balasuntharam) |Complete | 
+| 1 | 12/04/2023 | Salini Ravinthiran | Business Analyst | Find stakeholder | Partially Complete |
+| 2 | 14/04/2023 | Nadhrah NurSabrina Binti Zulaini | Documentation Specialist | Gather user requirement | Complete |
+| 3 | 14/04/2023 | Nur Farah Adibah Binti Idris | Project Manager | Contact stakeholders | Complete |
+| 4 | 16/04/2023 | Salini Ravinthiran | Business Analyst | Create interview questions | Complete |
+| 5 | 18/04/2023 | Farah, Aleysha, Sabrina |  |  Meeting with stakeholder 1 (En. Hamdan bin Abdul Ghani) | Complete | 
+| 6 | 19/04/2023 | Farah, Aleysha, Sabrina |  | Meeting with stakeholder 2 (Puan Rosnani bt Katip) | Complete |
+| 7 | 29/04/2023 | Farah, Aleysha, Salini, Sabrina |  | Gather information and start writing detailed content for the proposal | Complete | 
+| 8 | 01/05/2023 | Farah, Aleysha, Sabrina, Salini | | Creating proposal | Complete |
+| 9 | 02/05/2023 | Nur Farah Adibah Binti Idris  | Main Developer | Create system architecture design | Complete |
+| 10 | 02/05/2023 | Nur Farah Adibah Binti Idris  | Main Developer | Implement software functionality | Incomplete |
+| 11 | 03/05/2023 | Nur Aleysha Qurratu'aini Binti Mat Salleh | Quality Assurance Engineer | Create testing plan and execute tests | Incomplete | 
+| 12 | 09/05/2023 | Nur Aleysha Qurratu'aini Binti Mat Salleh |  Assistant Developer | Create a use case diagram using draw.io | Complete | 
+| 13 | 15/05/2023 | Salini, Aleysha, Farah, Sabrina |  | SRS Planning | Complete |
+| 14 | 16/05/2023 | Nadhrah NurSabrina Binti Zulaini | Documentation Specialist | Create system documentation | Ongoing |
+| 15 | 16/05/2023 - 29/05/2023 | Farah, Sabrina, Aleysha, Salini |  | Creates UML Diagram, User Diagram, User Journey Maps, User Stories and Prototype | Ongoing |
+| 16 | 21/05/2023 | Aleysha, Sabrina, Farah, Salini |  | Meeting with Stakeholder 3 ( Jevanaraj A/L Balasuntharam) | Complete | 
+| 17 | 24/05/2023 | Aleysha, Farah, Sabrina, Salini |  | Second Meeting with Stakeholder 2 (Puan Rosnani) for Review the Requirement and Draft of the Interface Design | Complete |
+| 18 | 30/05/2023 | Nadhrah NurSabrina Binti Zulaini | Documentation Specialist | Create Development Document | Incomplete |
 
 
 ## Contribution 🛠️
