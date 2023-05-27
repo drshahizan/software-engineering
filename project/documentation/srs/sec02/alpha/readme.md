@@ -89,9 +89,10 @@ Don't forget to hit the :star: if you like this repo.
 | 13 | 15/05/2023 | Salini, Aleysha, Farah, Sabrina |  | SRS Planning | Complete |
 | 14 | 16/05/2023 | Nadhrah NurSabrina Binti Zulaini | Documentation Specialist | Create system documentation | Ongoing |
 | 15 | 16/05/2023 - 29/05/2023 | Farah, Sabrina, Aleysha, Salini |  | Creates UML Diagram, User Diagram, User Journey Maps, User Stories and Prototype | Ongoing |
-| 16 | 21/05/2023 | Aleysha, Sabrina, Farah, Salini |  | Meeting with Stakeholder 3 ( Jevanaraj A/L Balasuntharam) | Complete | 
-| 17 | 24/05/2023 | Aleysha, Farah, Sabrina, Salini |  | Second Meeting with Stakeholder 2 (Puan Rosnani) for Review the Requirement and Draft of the Interface Design | Complete |
-| 18 | 30/05/2023 | Nadhrah NurSabrina Binti Zulaini | Documentation Specialist | Create Development Document | Incomplete |
+| 16 | 21/05/2023 | Salini| Business Analyst | Create stakeholders interview questions| Complete |
+| 17 | 21/05/2023 | Aleysha, Sabrina, Farah, Salini |  | Meeting with Stakeholder 3 ( Jevanaraj A/L Balasuntharam) | Complete | 
+| 18 | 24/05/2023 | Aleysha, Farah, Sabrina, Salini |  | Second Meeting with Stakeholder 2 (Puan Rosnani) for Review the Requirement and Draft of the Interface Design | Complete |
+| 19 | 30/05/2023 | Nadhrah NurSabrina Binti Zulaini | Documentation Specialist | Create Development Document | Incomplete |
 
 
 ## Contribution 🛠️
