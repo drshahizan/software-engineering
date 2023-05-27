@@ -27,4 +27,4 @@
    - More communication among teammates is required
 
 ## Meeting Photo
-<img src="" alt="Scrum-meeting-3-pic" border="0">
+<img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/project/documentation/srs/sec02/software/others/Scrum%20meeting/27.5.2023/Screenshot%20(382).png" alt="Scrum-meeting-3-pic" border="0">
