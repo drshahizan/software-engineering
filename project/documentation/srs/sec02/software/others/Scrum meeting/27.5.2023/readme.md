@@ -13,6 +13,7 @@
 1. **Achievements since the previous meeting:**
    - Update UI Low-fidelity design (Goh)
    - Update Use Case Description (Goh, Lee, Tang, Ong, Koh)
+   - Update Module Description (Koh)
    - Deeper understanding on the relationship between UI and Use Case Description (ALL)
 
 2. **Tasks currently being worked on before the next meeting:**
