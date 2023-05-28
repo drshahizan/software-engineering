@@ -93,8 +93,11 @@ Don't forget to hit the :star: if you like this repo.
 | 11 | 09/05/2023 | Wan Nur Sofea Binti Mohd Hasbullah | Main Developer | Contact our fourth stakeholder, an administrative officer | Complete |
 | 12 | 15/05/2023 | All members | Main Developer, Technical Lead, UX/UI Designer, QA/Test Engineer | Conduct a meeting with the fourth stakeholder, an administrative officer |  Complete | 
 | 13 | 22/05/2023 | All members | Main Developer, Technical Lead, UX/UI Designer, QA/Test Engineer | Start the SRS Documentation |  Incomplete | 
-| 14 | 25/05/2023 | All members | Main Developer, Technical Lead, UX/UI Designer, QA/Test Engineer | Create draft for low fidelity on sticky note. |  Incomplete | 
+| 14 | 25/05/2023 | All members | Main Developer, Technical Lead, UX/UI Designer, QA/Test Engineer | Create draft for low fidelity on sticky notes. |  Incomplete | 
 | 15 | 25/05/2023 | All members | Main Developer, Technical Lead, UX/UI Designer, QA/Test Engineer | Start to create high fidelity on figma.  |  Incomplete | 
+| 16 | 27/05/2023 | All members | Main Developer, Technical Lead, UX/UI Designer, QA/Test Engineer | Created full low fidelity on sticky notes and make correction from previous draft. |  Complete | 
+| 17 | 27/05/2023 | All members | Main Developer, Technical Lead, UX/UI Designer, QA/Test Engineer | Created flowchart on draw.io |  Incomplete | 
+| 18 | 27/05/2023 | All members | Main Developer, Technical Lead, UX/UI Designer, QA/Test Engineer | Created UML diagram on draw.io |  Incomplete | 
  
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
