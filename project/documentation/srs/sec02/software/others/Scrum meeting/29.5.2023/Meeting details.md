@@ -25,4 +25,4 @@
    - We are uncertain about what steps to take next
 
 ## Meeting Photo
-<img src="WhatsApp Image 2023-05-25 at 09.56.40.jpg">
+<img src="https://github.com/drshahizan/software-engineering/assets/128159572/8e6c53c5-4218-4437-a3ec-e21c0d243c18">
