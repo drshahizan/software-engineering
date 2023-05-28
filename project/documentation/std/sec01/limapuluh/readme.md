@@ -13,57 +13,23 @@ Don't forget to hit the :star: if you like this repo.
 ## Group Members
 <table>
   <tr>
-    <th>No.</th>
-    <th>Name</th>
-    <th>Role</th>
-  </tr>
-  <tr>
-    <td>1.</td>
-    <td>Yong Wern Jie</td>
-    <td>Project Manager</td>
-  </tr>
-  <tr>
-    <td>2.</td>
-    <td>Marcus Joey Sayner</td>
-    <td>Software Developer</td>
-  </tr>
-  <tr>
-    <td>3.</td>
-    <td>Lim Jing Yong</td>
-    <td>Documentation Specialist</td>
-  </tr>
-  <tr>
-    <td>4.</td>
-    <td>Soh Han Wei</td>
-    <td>Requirement Analyst</td>
-  </tr>
-  <tr>
-    <td>5.</td>
-    <td>Lee Soon Der</td>
-    <td>User Experience Designer</td>
-  </tr>
-</table>
-
-## Stakeholder
-<table>
-  <tr>
     <th>Name</th>
     <th>Stakeholder</th>
     <th>Position</th>
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>-</td>
+    <td>Wong Yit Khee</td>
     <td>Student</td>
-    <td>Faculty of Computing (Undergraduate)</td>
-    <td>--</td>
+    <td>Faculty of Computing (PHD Student)</td>
+    <td>Providing honest, specific, and timely feedback, participating actively, and collaborating respectfully to help improve the educational experience for future students.</td>
   </tr>
   <tr>
   <tr>
-    <td>-</td>
+    <td>Muhammad Nazirul Asyraaf</td>
     <td>Student</td>
-    <td>Faculty of Computing (Undergraduate)</td>
-    <td>--</td>
+    <td>Faculty of Computing (PHD Student)</td>
+    <td>Providing honest, specific, and timely feedback, participating actively, and collaborating respectfully to help improve the educational experience for future students.</td>
   </tr>
     <tr>
     <td>Dr Noorfa Haszlinna binti Mustaffa</td>
@@ -75,6 +41,12 @@ Don't forget to hit the :star: if you like this repo.
     <td>Professor Madya Dr. Mohd Nihra Haruzuan bin Mohamad Said</td>
     <td>University Staff</td>
     <td>CDex Staff</td>
+    <td>Providing feedback on the proposal, ensuring compliance with university policies and procedures, and facilitating the implementation and rollout of the system.</td>
+  </tr>
+  <tr>
+    <td>Encik Mohamed Fairuz bin Dahalan</td>
+    <td>University Staff</td>
+    <td>IT Technical Staff</td>
     <td>Providing feedback on the proposal, ensuring compliance with university policies and procedures, and facilitating the implementation and rollout of the system.</td>
   </tr>
 </table>
