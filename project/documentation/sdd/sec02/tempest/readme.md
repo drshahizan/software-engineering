@@ -82,8 +82,14 @@ Don't forget to hit the :star: if you like this repo.
 |8| 12/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Create SRS documentation System | Incomplete |
 |9| 13/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Creates UML Diagram,User Diagram,User Journey Maps Diagram,User Stories and Prototype| Incomplete |
 |10| 15/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Gather Required Diagrams | Incomplete |
-|11|01/06/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Follow-up with Stakeholder | Incomplete |
-|12|02/06/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Update Documentation | Incomplete |
+|11|20/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Update Documentation | Incomplete |
+|12|22/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| SDD Documentation Planning | Complete |
+|13|22/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Distribution task : Information Architecture, User Flow, Low Fidelity, High Fidelity, Typography and Design| Complete |
+|14|23/05/2023|Luqman| Main Developer | Low Fidelity | Complete |
+|15|25/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Stand-Up Meeting : Discussion about additional features | Complete |
+|16|25/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Sketching the rough idea of the additional features | Complete |
+|17|27/05/2023| Anas |Scrum Master| High Fidelity | Complete |
+|-|-|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Follow up with stakeholder | Incomplete |
 
 
 
