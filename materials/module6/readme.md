@@ -13,7 +13,7 @@ System architectural design in software engineering refers to the process of cre
 ### Table of Contents
 
 - [MVC](p1.md)
-- [Use Case Diagram](p2.md)
+- [Case study](p2.md)
 - [Structural Models](p3.md)
 
 
