@@ -107,6 +107,7 @@ One Stop Parcel Center & Cengal Parcel Point
 | 21| 26/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Develop high fidelity Wireframes | Incomplete |
 | 22| 26/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Meeting with stackholder via Google Meet (Nur Hazwani) | Complete |
 | 23| 26/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Update SRS Document | In Progress |
+| 24| 29/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Decide the colour code for system design | Complete |
 
 
 ## Contribution 🛠️
