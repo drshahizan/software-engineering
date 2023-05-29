@@ -7,14 +7,14 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Module 5: Requirements Analysis and modelling ME
-
+# Module 6: Architectural Design
+System architectural design in software engineering refers to the process of creating a high-level structure and organization for a software system. It involves identifying the key components of the system, their interactions, and how they work together to achieve the desired functionality. The architectural design considers factors like system requirements, scalability, security, performance, and maintainability. It may include the use of diagrams, such as UML diagrams or flowcharts, to visualize the system's structure and relationships. A well-designed architecture provides a solid foundation for the development team, ensuring that the system meets the desired objectives and can be easily extended or modified in the future.
 
 ### Table of Contents
 
-- [Requirements Modeling Concept](p1-intro.md)
-- [Use Case Diagram](p2-use-case.md)
-- [Structural Models](p3-struc-model.md)
+- [Requirements Modeling Concept](p1.md)
+- [Use Case Diagram](p2.md)
+- [Structural Models](p3.md)
 
 
 ## Contribution 🛠️
