@@ -115,7 +115,10 @@ Don't forget to hit the :star: if you like this repo.
 | 9  | 05/05/2023 |Safwan|Quality Assurance|Checking all menu, quality the food and beverages, methods of payment|Complete|
 | 10  | 10/05/2023 |Daniel, Ariff,Che Marhumi|Requirements Analyst, Developer, Documentation Specialist|Planning SRS|Incomplete|
 | 11 | 11/05/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst, Developer,User Experience Designer, Quality Assurance, Documentation Specialist |Create UML Diagram|Complete|
-| 12 | 22/05/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer, User Experience Designer, Quality Assurance, Documentation Specialist |Provide SRS document|Incomplete|
+| 12 | 13/05/2023 |Iman, Safwan|User Experience Designer, Quality Assurance|Low Fidelity|Incomplete|
+| 13 | 13/05/2023 |Daniel, Ariff|Requirements Analyst,Developer|High Fidelity|Incomplete|
+
+
 
 
 
