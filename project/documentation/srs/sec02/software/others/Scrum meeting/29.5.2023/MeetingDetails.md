@@ -27,4 +27,4 @@
    - Use Case Adjustment due to not same PIC in use case and low fidelity part (Lee)
 
 ## Meeting Photo
-<img src="https://github.com/drshahizan/software-engineering/assets/128159572/8e6c53c5-4218-4437-a3ec-e21c0d243c18">
+<img src="Screenshot%20(143).png">
