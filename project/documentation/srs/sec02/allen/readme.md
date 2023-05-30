@@ -80,10 +80,6 @@ Don't forget to hit the :star: if you like this repo.
 | 6 | 14/05/2023 | All Members | Project Members | Updation of SRS Documentation | Incomplete | 
 | 7 | 17/05/2023 | All Members | Project Members | Creating UML Diagram | Ongoing |
 | 8 | 20/05/2023 | All Members | Project Members | Create System Docuentation (SD) | Ongoing |
-| 9 | | | | | 
-| 10 | | | | | 
-| 11 | | | | | 
-| 12 | | | | | 
 
 
 ## Contribution 🛠️
