@@ -36,8 +36,8 @@ Don't forget to hit the :star: if you like this repo.
 ## Documentation
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Document SRS| <a href="" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|1| Document SRS| <a href="https://docs.google.com/document/d/1SVXydTjl-7bWs_2QEXZc8l11XHcp8jw3/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/Allen" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
 |3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
@@ -78,8 +78,8 @@ Don't forget to hit the :star: if you like this repo.
 | 5 | 12/05/2023 | All Members | Project Members | Updation of proposal | Partially Complete | 
 | 6 | 12/05/2023 | NAVACHANDER NAVASANTAR | Documantation Specialist | Assign task to project members for SRS Documentation | Incomplete | 
 | 6 | 14/05/2023 | All Members | Project Members | Updation of SRS Documentation | Incomplete | 
-| 7 | | | | | 
-| 8 | | | | | 
+| 7 | 17/05/2023 | All Members | Project Members | Creating UML Diagram | Ongoing |
+| 8 | 20/05/2023 | All Members | Project Members | Create System Docuentation (SD) | Ongoing |
 | 9 | | | | | 
 | 10 | | | | | 
 | 11 | | | | | 

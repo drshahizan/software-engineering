@@ -8,6 +8,10 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Tools
+## Figma
+Figma is a cloud-based design and prototyping tool used for creating user interfaces, user experience (UI/UX) designs, and interactive prototypes. It provides a collaborative platform where multiple designers and stakeholders can work together in real-time on design projects. Figma offers a wide range of features and functionalities, including vector editing tools, design components, interactive animations, and version control [**[More info...]**](figma.md).
+
+
 ### Five great tools for creating diagrams and flowcharts
 
 1. [Diagrams.net](https://www.diagrams.net/): Diagrams.net (formerly known as Draw.io) is a web-based diagramming tool that supports a variety of diagram types, including flowcharts, network diagrams, and more. It has a simple interface and supports Markdown syntax for creating diagrams.

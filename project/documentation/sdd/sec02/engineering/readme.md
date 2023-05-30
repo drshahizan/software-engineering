@@ -34,15 +34,6 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-## Documentation
-| No | Name |File | 
-| -----:| ----- | :------: | 
-|1| Document SDD | <a href="" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
-|3| Figma| <a href="" ><img src="../../../../../images/figma.svg" width="24px" height="24px" ></a>|
-|4| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
-
-
 ## Stakeholder
 One Stop Parcel Center & Cengal Parcel Point
 <table>
@@ -92,7 +83,21 @@ One Stop Parcel Center & Cengal Parcel Point
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | | | | | 
+| 1| 20/04/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Project planning |Complete|
+| 2| 21/04/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Define the problem |Complete|
+| 3| 22/04/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Find stakeholder |Complete|
+| 4| 24/04/2023|Nik|Software Architect|Gather requirement |Complete|
+| 5| 27/04/2023|Erina|Project Manager|Prepare questions |Complete|
+| 6| 02/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Had meeting with stackholder (OPC) |Complete|
+| 7| 03/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Update project planning |Complete|
+| 8| 03/05/2023|Erina,Thevan,Nik,Izzah|All member| Create proposal with gathered information|Complete|  
+| 9| 04/05/2023|Izzah,Thevan|Front-end& Back-end developer| Create usercase diagram with gathered requirement|Complete|   
+| 10| 05/05/2023|Erina,Nik|Project Manager,Software architect| Update Proposal |Complete| 
+| 11| 06/05/2023|Erina,Nik|Project Manager,Software architect| Contact Stackholder 4 (Johnny) |Complete| 
+| 12| 07/05/2023|Erina,Thevan,Nik,Izzah|All members|Create interview questions for stackholder 4 and 5 |Complete|
+| 13| 13/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Had meeting with stackholder via Google Meet (Johnny) |Complete|
+| 14| 14/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Follow-up with stackholder |Complete|
+| 15| 15/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Develop UML Activity Diagram and Sequence Diagram | Complete|
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

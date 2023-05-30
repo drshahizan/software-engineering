@@ -13,65 +13,23 @@ Don't forget to hit the :star: if you like this repo.
 ## Group Members
 <table>
   <tr>
-    <th>No.</th>
-    <th>Name</th>
-    <th>Role</th>
-  </tr>
-  <tr>
-    <td>1.</td>
-    <td>Yong Wern Jie</td>
-    <td>Project Manager</td>
-  </tr>
-  <tr>
-    <td>2.</td>
-    <td>Marcus Joey Sayner</td>
-    <td>Software Developer</td>
-  </tr>
-  <tr>
-    <td>3.</td>
-    <td>Lim Jing Yong</td>
-    <td>Documentation Specialist</td>
-  </tr>
-  <tr>
-    <td>4.</td>
-    <td>Soh Han Wei</td>
-    <td>Requirement Analyst</td>
-  </tr>
-  <tr>
-    <td>5.</td>
-    <td>Lee Soon Der</td>
-    <td>User Experience Designer</td>
-  </tr>
-</table>
-
-## Documentation
-| No | Name |File | 
-| -----:| ----- | :------: | 
-|1| Document STD | <a href="" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
-|3| Figma| <a href="" ><img src="../../../../../images/figma.svg" width="24px" height="24px" ></a>|
-|4| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
-
-## Stakeholder
-<table>
-  <tr>
     <th>Name</th>
     <th>Stakeholder</th>
     <th>Position</th>
     <th>Responsibility</th>
   </tr>
   <tr>
-    <td>-</td>
+    <td>Wong Yit Khee</td>
     <td>Student</td>
-    <td>Faculty of Computing (Undergraduate)</td>
-    <td>--</td>
+    <td>Faculty of Computing (PHD Student)</td>
+    <td>Providing honest, specific, and timely feedback, participating actively, and collaborating respectfully to help improve the educational experience for future students.</td>
   </tr>
   <tr>
   <tr>
-    <td>-</td>
+    <td>Muhammad Nazirul Asyraaf</td>
     <td>Student</td>
-    <td>Faculty of Computing (Undergraduate)</td>
-    <td>--</td>
+    <td>Faculty of Computing (PHD Student)</td>
+    <td>Providing honest, specific, and timely feedback, participating actively, and collaborating respectfully to help improve the educational experience for future students.</td>
   </tr>
     <tr>
     <td>Dr Noorfa Haszlinna binti Mustaffa</td>
@@ -85,13 +43,28 @@ Don't forget to hit the :star: if you like this repo.
     <td>CDex Staff</td>
     <td>Providing feedback on the proposal, ensuring compliance with university policies and procedures, and facilitating the implementation and rollout of the system.</td>
   </tr>
+  <tr>
+    <td>Encik Mohamed Fairuz bin Dahalan</td>
+    <td>University Staff</td>
+    <td>IT Technical Staff</td>
+    <td>Providing feedback on the proposal, ensuring compliance with university policies and procedures, and facilitating the implementation and rollout of the system.</td>
+  </tr>
 </table>
 
 ## Tasks involved in developing SRC documentation:
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | | | | | 
+| 1. | 28/04/2023 | Yong Wern Jie | Project Manager |  Create Project Plan | Complete |
+| 2. | 30/04/2023 | All members | - | Find Stakeholder | Complete |
+| 3. | 02/05/2023 | All members | - | Interview with stakeholders | Complete | 
+| 4. | 02/05/2023 | Soh Han Wei | Requirement Analyst | Gather User Requirements | Complete |
+| 5. | 02/05/2023 | Lim Jing Yong  | Documentation Specialist | Create Proposal | Complete |
+| 6. | 12/05/2023 | All members | - | Create UML Diagram | Complete |
+| 7. | 19/05/2023 | Lim Jing Yong & Soh Han Wei | Documentation Specialist & Requirement Analyst | Create SRS Document | Complete |
+| 8. | 18/05/2023 | Lee Soon Der | User Experience Designer | Create System Architecture Design | Partially Complete |
+| 9. | 18/05/2023 | All members | - | Create System Design Document | Partially Complete |
+
 
 
 ## Contribution 🛠️

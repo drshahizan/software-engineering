@@ -34,14 +34,6 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-## Documentation
-| No | Name |File | 
-| -----:| ----- | :------: | 
-|1| Document SDD | <a href="" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
-|3| Figma| <a href="" ><img src="../../../../../images/figma.svg" width="24px" height="24px" ></a>|
-|4| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
-
 ## Stakeholder
 <table>
   <tr>
@@ -80,7 +72,24 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | | | | | 
+| 1 | 17/04/2023| Luqman Hakim | Main Developer | Create project plan | Complete |
+| 2| 17/04/2023| Luqman Hakim|Main Developer |Find and Identify stakeholder | Complete |
+| 3| 02/05/2023|Danial | Assistant Developer|Preparation of interview questions | Complete|
+| 4|03/05/2023 |Luqman, Danial, Anas, Kugen |Main Developer, Assistant Developer, UI/UX Designer, Scrum Master | Interview with stakeholder|Complete |
+| 5| 04/05/2023|Luqman, Anas, Danial, Kugen |Main Developer,Assistant Developer, UI/UX Designer, Scrum Master |Project Discussion| Complete |
+| 6|07/05/2023 |Luqman, Danial, Anas, Kugen |Main Developer, Assistant Developer, UI/UX Designer, Scrum Master | Create Proposal |Complete |
+|7| 12/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| SRS Documentation Planning | Incomplete |
+|8| 12/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Create SRS documentation System | Incomplete |
+|9| 13/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Creates UML Diagram,User Diagram,User Journey Maps Diagram,User Stories and Prototype| Incomplete |
+|10| 15/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Gather Required Diagrams | Incomplete |
+|11|20/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Update Documentation | Incomplete |
+|12|22/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| SDD Documentation Planning | Complete |
+|13|22/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Distribution task : Information Architecture, User Flow, Low Fidelity, High Fidelity, Typography and Design| Complete |
+|14|23/05/2023|Luqman| Main Developer | Low Fidelity | Complete |
+|15|25/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Stand-Up Meeting : Discussion about additional features | Complete |
+|16|25/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Sketching the rough idea of the additional features | Complete |
+|17|27/05/2023| Anas |Scrum Master| High Fidelity | Complete |
+|-|-|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Follow up with stakeholder | Incomplete |
 
 
 

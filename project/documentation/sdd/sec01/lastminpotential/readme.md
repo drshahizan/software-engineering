@@ -34,14 +34,6 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-## Documentation
-| No | Name |File | 
-| -----:| ----- | :------: | 
-|1| Document SDD | <a href="" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
-|3| Figma| <a href="" ><img src="../../../../../images/figma.svg" width="24px" height="24px" ></a>|
-|4| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
-
 <img src="interviewWithDean.jpg" alt="Meeting with Dean of Faculty of Computing">
 
 ## Stakeholder
@@ -76,7 +68,17 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | | | | | 
+| 1 | 20/04/2023| Tan Jun Yuan | Project Manager | Create project plan | Complete |
+| 2 | 24/04/2023 | Goh Jing Yang, Loo Jia Chang | UI/ UX Designer, Main Developer | Gather user requirements | Complete |
+| 3 | 28/04/2023 | Chen Pyng Haw | Documentation Specialist | Create proposal | Complete |
+| 4 | 7/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Meeting with stakeholder 1,  PROF. TS. DR. WAN MOHD NASIR WAN NADIR | Complete |
+| 5 | 11/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Meeting with stakeholder 2, Ooi Wei Sian | Completed |
+| 6 | 12/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | SRS Documentation draf | Pending |
+| 7 | 14/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | UML diagram (actor, use case, sequence, activity diagram | Pending |
+| 8 | 19/05/2023 |  |  | Create system documentation | Incomplete |
+| 9 | 23/05/2023 |  |  | Discussion and assign task for system features part based on user case design | Incomplete |
+| 10 | 22/06/2023 |  |  | Create Software Maintanence Document | Incomplete |
+
 
 
 ## Contribution 🛠️
