@@ -1,9 +1,13 @@
-<?php
-$t = date("H");
+<!DOCTYPE html>
+<html>
+<body>
 
-if ($t < "20") {
-  echo "Have a good day!";
-} else {
-  echo "Have a good night!";
-}
+<?php
+$color = "red";
+echo "My car is " . $color . "<br>";
+echo "My house is " . $COLOR . "<br>";
+echo "My boat is " . $coLOR . "<br>";
 ?>
+
+</body>
+</html>
