@@ -7,7 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo "Hungry";?>
-    
+<?php
+$x = 5;
+$y = 4;
+echo $x + $y;
+?>
 </body>
 </html>
