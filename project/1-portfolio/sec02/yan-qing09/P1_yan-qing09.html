@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Personal Portfolio</title>
+    <!--
+    Name: TANG YAN QING
+    Matrix No: A22EC0109
+    Github id: yan-qing09
+    
+    Project 1: Personal Portfolio Website
+    -->
+    <style>
+      body {
+        background-color: #eeeec3;
+        border:5px solid rgb(152, 111, 0);
+        padding:20px;
+        margin-left:200px;
+        margin-right:200px;
+        font-size:15px;
+      }
+
+      h1,
+      h2 {
+        color: black;
+      }
+
+      td,
+      tr{
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        padding:5px;
+      }
+
+      li{
+        font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      }
+
+      textarea,
+      input[type] {
+        font-size: 15px;
+        padding: 5px;
+        border: 1px solid black;
+        border-radius: 10px;
+      }
+
+      .contact-button {
+        display: inline-block;
+        background-color: #b6e18b;
+        color: black;
+        text-decoration:none;
+        padding: 5px 10px;
+        border-radius: 5px;
+        border:1px solid greenyellow;
+        font-size: 15px;
+        font-weight: bold;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+    </style>
+  </head>
+  <body>
+    <!-- Introduction Section -->
+    <section>
+      <p style="font-size:30px; margin-top:10px; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif"><strong>Introduction</strong></p>
+      <center>
+      <img
+        src="https://avatars.githubusercontent.com/u/128120717?v=4"
+        alt="My Profile Picture"
+        width="150"
+        height="150"
+      />
+      <br/>
+      <a href=#contact class="contact-button">Contact Me</a>
+      </center>
+      <p style="text-align:justify; font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif">
+        My name is Tang Yan Qing, a First Year Student in Bachelor's Degree in Computer Science(Data Engineering), Universiti Teknologi Malaysia(UTM).</p>
+      <p style="text-align:justify; font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif">
+        Check out my <a href="#skills">skills</a> and
+        <a href="#experience">experience</a> below.
+      </p>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills">
+      <h2 style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif">Skills</h2>
+      <ul>
+        <li>HTML</li>
+        <li>C++</li>
+      </ul>
+    </section>
+
+    <!-- Experience Section -->
+    <section id="experience">
+      <h2 style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif">Experience</h2>
+      <ul>
+        <li>Universiti Teknologi Malaysia (2022 - Present)</li>
+        <li>SMK Skudai (2016 - 2020)</li>
+        <li>SJK(C) Kuo Kuang 2 (2010 - 2015)</li>
+      </ul>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+      <fieldset style="border:2px solid grey">
+        <legend><h2 style="font-family:cursive">Contact</h2></legend>
+          <form>
+            <table>
+              <tr>
+                <td><label for="name">Name:</label></td>
+                <td><input type="text" id="name" name="name" /></td>
+              </tr>
+              <tr>
+                <td><label for="email">Email:</label></td>
+                <td><input type="email" id="email" name="email" /></td>
+              </tr>
+              <tr>
+                <td style="vertical-align:top"><label for="message">Message:</label></td>
+                <td><textarea id="message" name="message" cols="40" rows="5"></textarea></td>
+              </tr>
+            </table>
+            <input type="submit" value="Submit" style="margin-top:10px; margin-left:200px;" />
+          </form>
+      </fieldset>    
+    </section>
+  </body>
+</html>

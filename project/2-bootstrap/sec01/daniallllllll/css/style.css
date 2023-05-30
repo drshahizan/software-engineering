@@ -1,0 +1,177 @@
+/*
+	Default Styles
+*/
+
+* { margin: 0; padding: 0; outline: 0; }
+
+body { 
+	font: 12px/18px Arial,sans-serif; 
+	color: #fff; 
+	text-align: left; 
+	background: #000 url(images/background.gif) repeat-x 0 0;
+}
+
+a { color: #efca4b; text-decoration: underline; }
+a:hover { cursor: pointer; text-decoration: none; }
+a img { border: 0; }
+
+.fl { float: left; display: inline; }
+.fr { float: right; display:inline; }
+.ac { text-align: center; }
+.ar { text-align: right; }
+.al { text-align: left; }
+.cl { clear: both; height: 0; line-height: 0; font-size: 0; text-indent: -4000px; }
+.hidden { display: none; }
+.notext { font-size: 0; line-height: 0; text-indent: -4000px; }
+.shell { width: 953px; margin: 0 auto; }
+
+.separator { 
+	height: 1px;
+	width: 100%;
+	border-top: 1px dashed #333;
+	font-size: 0; 
+	line-height: 0;
+	text-indent: -4000px;
+}
+
+h1 a,h2,h3,h4 { font-family: Georgia, Times, serif; color: #ffc500; }
+h2 { font-size: 17px; }
+p { padding-bottom: 15px; }
+
+
+/*
+	Header
+*/
+
+#header { background: url(images/moon.png) no-repeat 0 0; height: 88px; padding-top: 45px; }
+#navigation { float: right; display: inline; width: 486px; }
+#navigation ul { list-style: none outside; }
+#navigation li { float: left; display: inline; margin-right: 10px; background: none; }
+#navigation li.last { margin: 0; }
+
+#navigation li a, 
+#navigation li a span { 
+	float: left; 
+	display: inline; 
+	height: 31px; 
+	text-transform: lowercase; 
+	padding-left: 13px; 
+	text-decoration: none;
+	font: 13px/26px "Lucida Sans", Lucida, Arial, sans-serif;
+	color: #fff;
+	background-position: 0 0;
+	background-repeat: no-repeat;
+}
+
+#navigation li a span em { 
+	font-style: normal; 
+	display: inline-block; 
+	height: 31px;
+	background-position: center bottom; 
+	background-repeat: no-repeat; 
+}
+
+#navigation li a span { padding-left: 0; padding-right: 13px; background-position: right 0; }
+
+#navigation li a:hover,
+#navigation li a.active,
+#navigation li a:hover span,
+#navigation li a.active span { background-image: url(images/navigation.gif); color: #ffc500; }
+
+#navigation li a:hover span em, #navigation li a.active span em { background-image: url(images/nav-pointer.gif); }
+
+h1#logo { font: 26px/26px Georgia, Times, serif; margin-left: 120px; }
+h1#logo a { text-decoration: none; }
+h1#logo a:hover { text-decoration: underline; }
+h2#description { margin-left: 120px; font: 13px/13px "Lucida Sans", Lucida, Arial, sans-serif; color: #a4abbd; margin-top: 5px; }
+
+
+/*
+	Features
+*/
+
+#features { position: relative; margin-top: -15px;  }
+
+#features .next, 
+#features .previous { 
+	display: block; 
+	height: 55px; 
+	width: 55px; 
+	background: url(images/prev.gif) no-repeat 0 0; 
+	position: absolute; 
+	top: 135px; 
+	left: 29px; 
+}
+
+#features .next { background-image: url(images/next.gif); position: absolute; top: 135px; left: 868px; }
+
+#frame { 
+	height: 335px;
+	width: 726px; 
+	padding: 8px; 
+	background: url(images/features-frame.png) no-repeat 0 0; 
+	margin: 0 auto; 
+	margin-bottom: 35px;
+} 
+
+/*
+	Content
+*/
+
+#content { border-top: 1px dashed #333; border-bottom: 1px dashed #333; }
+#content ul { list-style: none outside; padding: 10px 0 35px 0; }
+
+#content ul li { 
+	display: block;
+	padding-left: 7px;
+	line-height: 12px;
+	padding-bottom: 10px; 
+	margin-left: 3px; 
+	background: url(images/list-bg.gif) no-repeat 0 4px; 
+}
+
+#content ul li a { color: #6b7ead; line-height: 12px; }
+
+.col-left { float: left; display: inline; width: 440px; border-right: 1px dashed #333; padding: 20px 20px 5px 0; }
+.col-right { float: right; display: inline; width: 435px; padding: 20px 20px 5px 0; }
+
+.contact { padding-top: 15px; }
+.contact label { display: block; margin-bottom: 5px; padding-left: 3px; }
+
+.contact .field { 
+	width: 395px; 
+	border: 0; 
+	background: url(images/contact-field.gif) no-repeat 0 0; 
+	padding: 7px 5px 6px; 
+	color: #fff; 
+	margin-bottom: 15px; 
+}
+
+.contact textarea { 
+	height: 116px; 
+	width: 395px; 
+	border: 0; 
+	background: url(images/contact-textarea.gif) no-repeat 0 0; 
+	padding: 7px 5px 6px; 
+	color: #fff; 
+	overflow: auto;
+}
+
+.contact .btn { 
+	cursor: pointer; 
+	display: block; 
+	margin: 10px 32px 0 auto; 
+	height: 22px; 
+	width: 72px; 
+	color: #1e2128; 
+	border: 0; 
+	background: url(images/contact-button.gif) no-repeat 0 0; 
+}
+
+
+/*
+	Footer
+*/
+
+#footer { padding: 15px 0 50px; color: #d1c1c1; font-family: Verdana; font-size: 9px; }
+#footer a{ color: #d1c1c1; }

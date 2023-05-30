@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>My Personal Portfolio</title>
+  <style>
+    body
+    {
+      background-color:rgb(0, 255, 251);
+      font-family:Georgia, 'Times New Roman', Times, serif;
+      margin-left: 20%;
+      margin-right: 20%;
+    }
+    .center {
+			display: block;
+			margin: auto;
+		}
+    table {
+			border-collapse: collapse;
+			width: 100%;
+			margin-bottom: 20px;
+			background-color: #f9f9f9;
+		}
+
+		th, td {
+			border: 1px solid chartreuse;
+			padding: 8px;
+			text-align: left;
+		}
+
+		th {
+			background-color: #333;
+			color: white;
+		}
+  </style>
+</head>
+
+<body>
+  <!-- Introduction Section -->
+  <section>
+    <strong><h1>My Personal Portfolio</h1></strong>
+    <img src="https://avatars.githubusercontent.com/u/128201537?v=4"alt="My Image" class="center" width="300"length="300">
+
+    <br><br><br><br>
+      <p>Hello, my name safwan and I'm a Computer Science student majoring in Data Engineering at UTM.</p>
+      <p>
+      <p> I am eager to stay up to date with the latest advancements in technology and to continually improve my skills.</p>
+
+      <p>Passionate about working with data and creating solutions to process, store, and analyze large data sets</p>
+      Check out my <a href="#education">education</a> and <a href="#skills">skills</a> and
+      <a href="#experience">experience</a> below, or
+      <a href="#contact">contact me.</a>
+      <P><button onclick="window.location.href='https://www.linkedin.com/in/safwan-azmi-23b118268';">LinkedIn</button>  <button onclick="window.location.href='https://github.com/safwan031';">Github</button></P>
+    </fieldset>
+  </section>
+  <br><br><br>
+  <!-- Education Section -->
+  <section id="education">
+    <h2>Education</h2>
+    <ul>
+      <li>SM Teknik Tuanku Jaafar, Negeri Sembilan</li>
+      <li>Pusat Asasi UiTM, Dengkil</li>
+      <li>Universiti Teknologi Malaysia</li>
+    </ul>
+  </section>
+
+
+  <!-- Skills Section -->
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>C language</li>
+      <li>C++ language</li>
+      <li>HTML</li>
+    </ul>
+  </section>
+
+  <!-- Experience Section -->
+  <section id="experience">
+    <h2>Experience</h2>
+    <ul>
+      <li></li>
+
+    </ul>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <h2>Contact</h2>
+    <form>
+      <table>
+        <tr>
+          <th style="width: 20%;"><label for="name">Name:</label></th>
+          <td><input type="text" id="name" name="name" style="width: 1000px" /><br /></td>
+        </tr>
+        <tr>
+          <th><label for="email">Email:</label></th>
+          <td><input type="email" id="email" name="email" style="width: 1000px" /><br /></td>
+        </tr>
+        <tr>
+          <th><label for="message">Message:</label></th>
+          <td><textarea id="message" name="message" style="width: 1000px"></textarea><br /></td>
+        </tr>
+      </table>
+      <input type="submit" value="Submit" />
+    </form>
+  </section>
+</body>
+
+</html>
