@@ -1,69 +1,59 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE HTML>  
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=<, initial-scale=1.0">
-    <title>Document</title>
 </head>
-<body>
-    <?php echo "Hello World";?>
-    <?php echo "Hello World";?>
+<body>  
 
-    <?php
-    $x = 5;
-    $y = 4;
-    echo $x + $y;
-    ?>
+<?php
+// define variables and set to empty values
+$name = $email = $gender = $comment = $website = "";
 
-    <?php
-    echo "<h2>PHP is Fun!</h2>";
-    echo "Hello world!<br>";
-    echo "I'm about to learn PHP!<br>";
-    echo "This ", "string ", "was ", "made ", "with multiple parameters.";
-    ?>
-    
-    <?php
-    $x = 10;  
-    echo --$x;
-    ?> 
-    
-    <?php
-    $favcolor = "red";
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+  $name = test_input($_POST["name"]);
+  $email = test_input($_POST["email"]);
+  $website = test_input($_POST["website"]);
+  $comment = test_input($_POST["comment"]);
+  $gender = test_input($_POST["gender"]);
+}
 
-    switch ($favcolor) {
-    case "red":
-        echo "Your favorite color is red!";
-        break;
-    case "blue":
-        echo "Your favorite color is blue!";
-        break;
-    case "green":
-        echo "Your favorite color is green!";
-        break;
-    default:
-        echo "Your favorite color is neither red, blue, nor green!";
-    }
-    ?>
-    <?php
-        // define variables and set to empty values
-        $name = $email = $gender = $comment = $website = "";
+function test_input($data) {
+  $data = trim($data);
+  $data = stripslashes($data);
+  $data = htmlspecialchars($data);
+  return $data;
+}
+?>
 
-        if ($_SERVER["REQUEST_METHOD"] == "POST") {
-        $name = test_input($_POST["name"]);
-        $email = test_input($_POST["email"]);
-        $website = test_input($_POST["website"]);
-        $comment = test_input($_POST["comment"]);
-        $gender = test_input($_POST["gender"]);
-        }
+<h2>PHP Form Validation Example</h2>
+<form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">  
+  Name: <input type="text" name="name">
+  <br><br>
+  E-mail: <input type="text" name="email">
+  <br><br>
+  Website: <input type="text" name="website">
+  <br><br>
+  Comment: <textarea name="comment" rows="5" cols="40"></textarea>
+  <br><br>
+  Gender:
+  <input type="radio" name="gender" value="female">Female
+  <input type="radio" name="gender" value="male">Male
+  <input type="radio" name="gender" value="other">Other
+  <br><br>
+  <input type="submit" name="submit" value="Submit">  
+</form>
 
-        function test_input($data) {
-        $data = trim($data);
-        $data = stripslashes($data);
-        $data = htmlspecialchars($data);
-        return $data;
-        }
-        ?>
+<?php
+echo "<h2>Your Input:</h2>";
+echo $name;
+echo "<br>";
+echo $email;
+echo "<br>";
+echo $website;
+echo "<br>";
+echo $comment;
+echo "<br>";
+echo $gender;
+?>
 
 </body>
 </html>
