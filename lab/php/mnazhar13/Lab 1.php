@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo "Hungry";?>
+    <?php echo "Dah siap?";?>
     
 </body>
 </html>
