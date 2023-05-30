@@ -62,6 +62,15 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
+## Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Document SDD| <a href="" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Figma| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|3| Borang Badal Haji| <a href="https://drive.google.com/drive/folders/1xm0X4yxzjBrGPt_EeF4PT4udWYxdx8PS?usp=share_link" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+|4| Borang Umrah| <a href="https://drive.google.com/drive/folders/1cNg7cQG-RONHfL7_yHy9h5DZDWGfi-1k?usp=share_link" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+
+
 ## Tasks involved in developing SRC documentation:
 
 | No | Date | Member Name | Role	| Task	| Status	| 
