@@ -84,7 +84,7 @@ Diagrams are visual representations of information or data that help convey comp
 | 4 | Behance| <a href="./materials/behance.md" ><img src="./images/behance.svg" width="24px" height="24px" ></a> | 
 | 5 | Visual Studio Code| <a href="https://code.visualstudio.com/" ><img src="./images/vsc.svg" width="24px" height="24px" ></a> | 
 | 6 | Bootstrap Studio| <a href="https://bootstrapstudio.io/" ><img src="./images/bootstrap-studio.png" width="24px" height="24px" ></a> | 
-| 7 | Carbon| <a href="https://carbon.now.sh/" ><img src="./images/bcarbon.svg" width="24px" height="24px" ></a> | 
+| 7 | Carbon| <a href="https://carbon.now.sh/" ><img src="./images/carbon.svg" width="24px" height="24px" ></a> | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
