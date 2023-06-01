@@ -1,0 +1,48 @@
+Synthview/Fontspring Webfont End User License Agreement Version 2.0 - October 25, 2012
+
+
+By downloading and/or installing and/or embedding the licensed font software from Fontspring ("Webfont") in any HTML websites or webpages ("Websites"), the purchaser or designated licensee ("Licensee") agrees to be bound by the terms and conditions of this end user license agreement ("EULA"). This EULA, in conjunction with the receipt (“Receipt”) that accompanies each purchase from Fontspring or its distributors, constitutes the complete agreement (“Agreement”) between the Licensee and Fontspring.
+This Agreement allows for using the Webfont within Websites with the following rights, requirements and restrictions:
+
+1. Rights
+Licensee may only link the Webfont to Websites using the @font-face selector in CSS files.
+
+2. Requirements/Restrictions
+a. Licensee must use the provided Webfont from Fontspring. Linking to the full, CFF OpenType or TrueType font designed for desktop installation is prohibited.
+b. Licensee must include the entire commented header in the provided CSS file.
+c. Webfont may be simultaneously installed on no more than the number of website domains specified in the Receipt.
+d. Webfont may only be installed on Websites owned or directly controlled by the Licensee.
+e. Agencies freelancers or any kind of entity responsible for multiple clients’ Websites, for example web design agencies, freelance designers or hosting providers, may not share a single Webfont license across multiple clients’ Websites.
+f. Webfont may be used in a Website where visitors produce “Styled Content”, by directly or indirectly selecting a Webfont and entering or editing text using that Webfont, at the condition the Website may not enable or facilitate the Styled Content being used outside said Website, including but not limited to producing merchandise, PDF documents, image files, or personalized physical objects.
+
+3. Third parties and Transferability
+Licensee may temporarily provide the Webfont to a website developer or other agent who is working on behalf of the Licensee, only if they agree to use the Font exclusively for Licensee’s work, agree to the terms of this Agreement, and retain no copies of the Font upon completion of the work.
+Licensee may not otherwise distribute the Webfont to third parties or make the Webfont publicly accessible except by embedding or linking in accordance with this EULA.
+
+4. Terms
+Rights granted by this Agreement are perpetual. Fontspring will not charge additional fees post purchase, annually or otherwise.
+
+
+5. Other Usage
+Licenses for desktop use, computer applications and games, installable interactive books, software, mobile applications and games, Ebooks and Epubs, product creation websites, website template distribution (excepted webfonts sold 0$), website templates (excepted webfonts sold 0$), and other uses not allowed by this Agreement may be available for an additional fee. Contact Fontspring at support@fontspring.com for more information.
+
+6. Modifications
+Licensee may not modify the Webfont or create derivative works based on the Webfont without prior written consent from Fontspring or the owning foundry except to generate files necessary for embedding or linking in accordance with this EULA.
+
+7. Copyright
+Licensee agrees that the Font is the exclusive property of the owning foundry and is protected by copyright and intellectual property laws. Licensee may be held legally responsible for any infringements on the foundry's rights caused by failure to abide by the terms of this Agreement.
+
+8. Termination
+Licensee agrees that the Agreement shall automatically terminate, without notice from Fontspring or the owning foundry, if Licensee fails to comply with any provision contained herein.
+
+9. Disclaimer and Limited Warranty
+Fontspring warrants the Product to be free from defects in materials and workmanship under normal use for a period of twenty one (21) days from the date of delivery as shown on Receipt. Fontspring's entire liability and Licensee’s exclusive remedy as to a defective product shall
+be, at Fontspring's option, either return of purchase price or replacement of any such product that is returned to Fontspring with a copy of the invoice. Fontspring shall have no responsibility to replace the product or refund the purchase price if failure results from accident, abuse
+or misapplication, or if any product is lost or damaged due to theft, fire, or negligence. Any replacement product will be warranted for twenty one (21) days. This warranty gives Licensee specific legal rights. Licensee may have other rights, which vary from state to state.
+EXCEPT AS EXPRESSLY PROVIDED ABOVE, THE PRODUCT, IS PROVIDED “AS IS”. FONTSPRING MAKES NO WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+The entire risk as to the quality and performance of the Product rests upon Licensee. Neither Fontspring nor the Foundry warrants that the functions contained in the Product will meet Licensee’s requirements or that the operation of the software will be uninterrupted or error free.
+FONTSPRING SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, OR INCIDENTAL DAMAGES (INCLUDING DAMAGES FROM LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, AND THE LIKE) ARISING OUT OF THE USE OF OR INABILITY TO USE THE PRODUCT EVEN IF Fontspring OR THE FOUNDRY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+Because some states do not allow the exclusion or limitation of liability for consequential or incidental damages, the above limitation may not apply to Licensee.
+
+10. APPLICABLE LAW AND ASSIGNMENT OF JURISDICTION 
+You accept this Web  EULA to be exclusively governed by French law. In the absence of an amicable settlement, any dispute that may arise due to the interpretation or execution of the present EULA shall be submitted to the competent jurisdiction of the Paris court of first instance of general jurisdiction (Tribunal de grande instance de Paris - 75).

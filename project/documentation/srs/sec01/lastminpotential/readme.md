@@ -81,12 +81,13 @@ Don't forget to hit the :star: if you like this repo.
 | 3 | 28/04/2023 | Chen Pyng Haw | Documentation Specialist | Create proposal | Complete |
 | 4 | 7/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Meeting with stakeholder 1,  PROF. TS. DR. WAN MOHD NASIR WAN NADIR | Complete |
 | 5 | 11/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Meeting with stakeholder 2, Ooi Wei Sian | Completed |
-| 6 | 12/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | SRS Documentation draf | Pending |
-| 7 | 14/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | UML diagram (actor, use case, sequence, activity diagram | Pending |
+| 6 | 12/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | SRS Documentation draf | Complete |
+| 7 | 14/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | UML diagram (actor, use case, sequence, activity diagram | Complete |
 | 8 | 19/05/2023 | Chen Pyng Haw | Documentation Specialist | Create system documentation | Incomplete |
-| 9 | 21/05/2023 | Goh Jing Yang | UI/UX Designer | UI design | Incomplete | 
+| 9 | 21/05/2023 | Goh Jing Yang | UI/UX Designer | Low Fedility Wire frames | Complete | 
 | 10 | 23/05/2023 | Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Discussion and assign task for system features part based on user case design | Incomplete |
-| 11 | 22/06/2023 | Loo Jia Chang | Main Developer | Create Software Maintanence Document | Incomplete | 
+| 11 | 1/06/2023 | Goh Jing Yang | UI/UX Designer | HIgh Fedility UI Design | Complete | 
+| 12 | 22/06/2023 | Loo Jia Chang | Main Developer | Create Software Maintanence Document | Incomplete | 
 
 
 
@@ -95,5 +96,7 @@ Please create an [Issue](https://github.com/drshahizan/software-engineering/issu
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
+![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+
 

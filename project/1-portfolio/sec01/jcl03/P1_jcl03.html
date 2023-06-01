@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<!--
+Name:Loo Jia Chang
+Matrix No: A22EC0074
+Github id: jcl03
+
+Project 1: Personal Portfolio Website
+-->
+
+<head>
+    <title>Portfolio</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            margin-left: 10%;
+            margin-right: 10%;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+        }
+
+
+        nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+        }
+
+
+        nav ul li {
+            margin: 0 10px;
+        }
+
+
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        #skills {
+            margin: 20px;
+            padding: 20px;
+        }
+
+        #skills h2 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        #skills li {
+            font-size: 18px;
+            line-height: 1.5;
+            margin-bottom: 5px;
+        }
+
+
+    </style>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="Education">Education</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <img src="https://th.bing.com/th/id/OIP.bfMdkMqrWk4BTwykbn_OPgHaIY?pid=ImgDet&rs=1" alt="Profile Picture"
+            style="float: left;" >
+        <p style="font-size: 50px; line-height: 2px;">Hi guys, I am Jia Chang</p>
+        <p>Hello and welcome to my portfolio! My name is Loo Jia Chang,
+            and I'm a <a href="https://comp.utm.my/bachelor-of-computer-science-data-engineering/">Bachelor of Computer
+                Science (Data Engineering)</a> with
+            Honours student at <a
+                href="https://www.bing.com/search?q=utm&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=utm&sc=6-3&sk=&cvid=B77968DB832842939372DFE6EA4C0B5F&ghsh=0&ghacc=0&ghpl=">
+                University Teknologi Malaysia</a>. Originally from Kajang, Selangor,
+            I'm passionate about utilizing technology to solve complex problems and make a positive impact
+            on the world.
+        </p>
+    </section>
+
+    <section id="skills">
+        <em><h1>Skills</h1></em>
+        <hr>
+        <p>
+        <h3>Programming</h3>
+            <ul>
+                <li>C++</li>
+                <li>SQL</li>
+                <li>PHP</li>
+                <li>Python</li>
+            </ul>
+        <h3>Other</h3>
+            <ul>
+                <li>Arduino</li>
+                <li>Raspberry Pi</li>
+            </ul>
+        </p>
+    </section>
+    <section id="Education">
+        <em><h1>Education</h1></em>
+        <hr>
+            <p>
+            <h3>Primary School (2010-2015)</h3>
+                <ul>
+                    <li>SJK(C) Sin Ming Semenyih</li>
+                    <li>SJK(C) Yu Hua Kajang</li>
+                </ul>
+            <h3>Secondary School (2016-2020)</h3>
+                <ul>
+                    <li>SMJK Yu Hua</li>
+                </ul>
+            <h3>Pre-U (2021/2022)</h3>
+                <ul>
+                    <li>Foundation in Physical Science UTM KL</li>
+                </ul>
+            <h3>University (2022 - Now)</h3>
+                <ul>
+                    <li>Bachelor's Degree in Computer Science (Data Engineering) with Honours UTM JB</li>
+                </ul>
+            </p>
+          
+    </section>
+    <fieldset style="background-color: aqua;">
+        <section id="contact">
+            <h2>Leave your contact information to reach me</h2>
+            <form>
+                <div style="display: flex; flex-direction: column; align-items: flex-start;">
+                    <label style="margin-bottom: 5px;">Name:</label>
+                    <input type="text" name="name" style="margin-bottom: 15px;">
+                    <label style="margin-bottom: 5px;">Email:</label>
+                    <input type="email" name="email" style="margin-bottom: 15px;">
+                    <label style="margin-bottom: 5px;">Message:</label>
+                    <textarea name="message" style="margin-bottom: 15px;"></textarea>
+                    <button type="submit">Send</button>
+                </div>
+            </form>
+        </section>
+    </fieldset>
+    </p>
+    <footer>
+        <p>&copy; 2021 JiaChang</p>
+    </footer>
+</body>
+
+</html>

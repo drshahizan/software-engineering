@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Portfolio Website</title>
+    <!--
+        Name:LOW YING XI
+        Matrix No:A22EC0187
+        Github id:lowyingxi
+
+        Project 1: Personal Portfolio Website 
+        -->
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: sans-serif;
+        }
+
+        .second {
+            position: relative;
+            width: 100%;
+            height: 200px;
+            background: #eff4fd;
+        }
+
+        .third {
+            margin-left: 8%;
+            margin-top: 15%;
+        }
+
+        .third h1 {
+            font-size: 50px;
+            color: #212121;
+            margin-bottom: 20px;
+        }
+
+        .third p {
+            color: #555;
+            line-height: 22px;
+        }
+
+        .third a {
+            background: #212121;
+            padding: 10x 18px;
+            text-decoration: none;
+            font-weight: bold;
+            color: #fff;
+            display: inline-block;
+            margin: 30px 0;
+            border-radius: 20px;
+        }
+
+        nav {
+            display: flex;
+            width: 84%;
+            margin: auto;
+            padding: 20px 0;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        nav ul li {
+            display: inline-block;
+            list-style: none;
+            margin: 10px 20px;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: black;
+            font-weight: bold;
+        }
+
+        .image {
+            width: 5px;
+            height: 20px;
+            position: absolute;
+            bottom: 0;
+            right: 500px;
+        }
+
+        .timeline-area {
+            margin: 90px auto;
+            width: 360px;
+            border-left: 2px solid black;
+            padding: 0 20px 0 30px;
+        }
+
+        .d {
+            background-color: black;
+            padding: 10px 25px;
+            font-size: 16px;
+            border: 1px solid black;
+            line-height: 1.7;
+            position: relative;
+            height: 110px;
+            margin-bottom: 20px;
+            color: #fff;
+        }
+
+        .container {
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            height: 100%;
+            padding: 20px 100px;
+        }
+
+        .content {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .left {
+            height: 100%
+        }
+
+        .right {
+            padding: 25px 40px;
+        }
+
+        .h {
+            position: relative;
+            padding-bottom: 10px;
+            margin-bottom: 10px;
+        }
+
+        .h:after {
+            content: '';
+            position: absolute;
+            left: 50%;
+            bottom: 0;
+            transform: translateX(-50%);
+            height: 4px;
+            width: 50px;
+            border-radius: 2px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="second">
+        <nav>
+            <img src="https://yt3.ggpht.com/LqzeYyyYFw7mMpOSqqgowcEoPbxUVLK0v_Rox5z-KwjQvhQnBA0tohWHHjjXTwTkPFbX03pQmw=s600-c-k-c0x00ffffff-no-rj-rp-mo"
+                style="width: 10%; height: 10%;">
+            <ul>
+                <li><a href="#main">MAIN</a></li>
+                <li><a href="#experience">EXPERIENCE</a></li>
+                <li><a href="#skill">SKILL</a></li>
+                <li><a href="#contact">CONTACT</a></li>
+            </ul>
+        </nav>
+        <section id="main">
+            <div class="third">
+                <h1>I'm YingXi</h1>
+                <p>This is my personal portfolio website</p>
+                <p>I'm currently studying for Bachelor of Computer Science (Data Engineering) with honours.
+                    <br>My research
+                    interests include artificial intelligence, machine learning, data science, big data analytics,<br>
+                    computer vision and image processing. I am passionate about technology and
+                    data science. <br>I have always been fascinated by the potential of using data to derive insights
+                    and
+                    make informed <br>decisions. Other than that, I am eager to learn more knowledge in the sector of
+                    technology.</br>
+                </p>
+                <a href="https://www.linkedin.com/in/low-ying-xi-075a00260/">. View More on LinkedIn .</a>
+            </div>
+
+            <div class="image">
+                <img src="https://avatars.githubusercontent.com/u/129196789?v=4" alt="girl" width="340px"
+                    height="350px">
+            </div>
+        </section>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <section id="experience" class="timeline-area">
+            <h2>EXPERIENCE</h2>
+            <div class="d">
+                <h3>SMK Tun Perak</h3>
+                <h4>2016-2020</h4>
+            </div>
+            <div class="d">
+                <h3>Selangor Matriculation College</h3>
+                <h4>2021-2022</h4>
+            </div>
+            <div class="d">
+                <h3>Working as service crew</h3>
+                <h4>2022</h4>
+            </div>
+            <div class="d">
+                <h3>University of Technology Malaysia</h3>
+                <h4>2022-present</h4>
+            </div>
+        </section>
+        <br></br>
+        <br></br>
+        <br></br>
+        <section id="skill">
+            <div class="content">
+                <ul style="margin: 10px;">
+                    <h2>Skill</h2>
+                    <li>C++ & html</li><br>
+                    <li>Canva</li><br>
+                    <li>Excel, Word, Powerpoint</li><br>
+                    <li>Basic Video Editing</li></br>
+                </ul>
+            </div>
+        </section>
+        <section id="contact"></section>
+        <div class="content">
+            <h2>Contact Me</h2>
+            <input type="text" class="field" placeholder="Your Name"><br></br>
+            <input type="email" class="field" placeholder="Your Email"><br></br>
+            <textarea class="field" placeholder="Message"></textarea><br></br>
+            <input type="submit" value="submit">
+
+
+
+        </div>
+    </div>
+
+
+
+</body>
+
+</html>

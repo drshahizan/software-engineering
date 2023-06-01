@@ -84,15 +84,14 @@ Don't forget to hit the :star: if you like this repo.
 | 8 | 01/05/2023 | Farah, Aleysha, Sabrina, Salini | | Creating proposal | Complete |
 | 9 | 02/05/2023 | Nur Farah Adibah Binti Idris  | Main Developer | Create system architecture design | Complete |
 | 10 | 02/05/2023 | Nur Farah Adibah Binti Idris  | Main Developer | Implement software functionality | Incomplete |
-| 11 | 03/05/2023 | Nur Aleysha Qurratu'aini Binti Mat Salleh | Quality Assurance Engineer | Create testing plan and execute tests | Incomplete | 
-| 12 | 09/05/2023 | Nur Aleysha Qurratu'aini Binti Mat Salleh |  Assistant Developer | Create a use case diagram using draw.io | Complete | 
-| 13 | 15/05/2023 | Salini, Aleysha, Farah, Sabrina |  | SRS Planning | Complete |
-| 14 | 16/05/2023 | Nadhrah NurSabrina Binti Zulaini | Documentation Specialist | Create system documentation | Ongoing |
-| 15 | 16/05/2023 - 29/05/2023 | Farah, Sabrina, Aleysha, Salini |  | Creates UML Diagram, User Diagram, User Journey Maps, User Stories and Prototype | Ongoing |
-| 16 | 21/05/2023 | Salini| Business Analyst | Create stakeholders interview questions| Complete |
-| 17 | 21/05/2023 | Aleysha, Sabrina, Farah, Salini |  | Meeting with Stakeholder 3 ( Jevanaraj A/L Balasuntharam) | Complete | 
-| 18 | 24/05/2023 | Aleysha, Farah, Sabrina, Salini |  | Second Meeting with Stakeholder 2 (Puan Rosnani) for Review the Requirement and Draft of the Interface Design | Complete |
-| 19 | 30/05/2023 | Nadhrah NurSabrina Binti Zulaini | Documentation Specialist | Create Development Document | Incomplete |
+| 11 | 09/05/2023 | Nur Aleysha Qurratu'aini Binti Mat Salleh |  Assistant Developer | Create a use case diagram using draw.io | Complete | 
+| 12 | 15/05/2023 | Salini, Aleysha, Farah, Sabrina |  | SRS Planning | Complete |
+| 13 | 16/05/2023 | Nadhrah NurSabrina Binti Zulaini | Documentation Specialist | Create system documentation | Ongoing |
+| 14 | 16/05/2023 - 29/05/2023 | Farah, Sabrina, Aleysha, Salini |  | Creates UML Diagram, User Diagram, User Journey Maps, User Stories and Prototype | Ongoing |
+| 15 | 21/05/2023 | Salini| Business Analyst | Create stakeholders interview questions| Complete |
+| 16 | 21/05/2023 | Aleysha, Sabrina, Farah, Salini |  | Meeting with Stakeholder 3 ( Jevanaraj A/L Balasuntharam) | Complete | 
+| 17 | 24/05/2023 | Aleysha, Farah, Sabrina, Salini |  | Second Meeting with Stakeholder 2 (Puan Rosnani) for Review the Requirement and Draft of the Interface Design | Complete |
+| 18 | 30/05/2023 | Nadhrah NurSabrina Binti Zulaini | Documentation Specialist | Create Development Document | Incomplete |
 
 
 ## Contribution 🛠️
@@ -100,5 +99,7 @@ Please create an [Issue](https://github.com/drshahizan/software-engineering/issu
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
+![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+
 

@@ -105,11 +105,13 @@ Don't forget to hit the :star: if you like this repo.
 | 13 | 18/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai | Project manager, Main developer | Meeting with KTDI staff | Complete |
 | 14 | 22/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng  | Group members | Meeting with KTDI students |  Complete |
 | 15 | 23/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhhammad Danial, Low Jie Sheng | Group members | Design the UI of system | Partially Complete |
-
+| 16 | 28/05/2023 | Joseph Lau Yeo Kai,Muhhammad Danial, Low Jie Sheng | Main Developer,Quality Assurance Analyst,Documentation Specialist | Design the sequence diagram & activity diagram | Complete |
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
+![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+
 

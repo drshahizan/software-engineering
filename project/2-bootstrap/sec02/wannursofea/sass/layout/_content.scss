@@ -1,0 +1,33 @@
+/*
+ * Content Styles
+ */
+
+.page{
+	padding: 50px 0;
+	h1,h2,h3,h4,h5,h6{
+		color: white;
+	}
+
+	.section-title{
+		text-align: left;
+		color: #787377;
+		@include em(48);
+		margin-bottom: 30px;
+	}
+	p{margin-bottom: 30px}
+}
+figure{
+	img{
+		max-width: 100%;
+	}
+}
+img{
+	max-width: 100%;
+}
+
+.container{
+	@media screen and (max-width: 990px){
+		padding-left: 30px!important;
+		padding-right: 30px!important;
+	}
+}

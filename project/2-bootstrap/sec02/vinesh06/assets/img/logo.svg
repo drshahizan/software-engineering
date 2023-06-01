@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="260px" height="260px" viewBox="0 0 260 260">
+<filter filterUnits="objectBoundingBox" x="0.00" y="0.00" width="100.00" height="100.00" id="filter0">
+<feImage x="40" y="0" width="220" height="220" preserveApectRatio="none" xlink:href="#symbol0"/>
+<feComposite in="grImage1" in2="SourceAlpha" operator="in" result="grOverlay1"/>
+<feBlend in="grOverlay1" in2="SourceGraphic" mode="normal" result="gradientOverlay1"/>
+</filter>
+<filter filterUnits="objectBoundingBox" x="0.00" y="0.00" width="100.00" height="100.00" id="filter1">
+<feImage x="20" y="20" width="220" height="220" preserveApectRatio="none" xlink:href="#symbol1"/>
+<feComposite in="grImage1" in2="SourceAlpha" operator="in" result="grOverlay1"/>
+<feBlend in="grOverlay1" in2="SourceGraphic" mode="normal" result="gradientOverlay1"/>
+</filter>
+<filter filterUnits="objectBoundingBox" x="0.00" y="0.00" width="100.00" height="100.00" id="filter2">
+<feImage x="0" y="40" width="220" height="220" preserveApectRatio="none" xlink:href="#symbol2"/>
+<feComposite in="grImage1" in2="SourceAlpha" operator="in" result="grOverlay1"/>
+<feBlend in="grOverlay1" in2="SourceGraphic" mode="normal" result="gradientOverlay1"/>
+</filter>
+<linearGradient id="linear_PSgrad_0" x1="100%" y1="83.7254%" x2="0%" y2="16.2746%">
+    <stop offset="0%" stop-color="rgb(235,40,201)" stop-opacity="1" />
+    <stop offset="100%" stop-color="rgb(236,82,56)" stop-opacity="1" />
+</linearGradient>
+
+<linearGradient id="linear_PSgrad_1" x1="12.3223%" y1="0%" x2="87.6777%" y2="100%">
+    <stop offset="0%" stop-color="rgb(255,47,247)" stop-opacity="1" />
+    <stop offset="100%" stop-color="rgb(143,114,251)" stop-opacity="1" />
+</linearGradient>
+
+<linearGradient id="linear_PSgrad_2" x1="100%" y1="95.0202%" x2="0%" y2="4.9798%">
+    <stop offset="0%" stop-color="rgb(61,220,185)" stop-opacity="1" />
+    <stop offset="100%" stop-color="rgb(31,157,235)" stop-opacity="1" />
+</linearGradient>
+
+<defs>
+<rect x="0" y="0" width="220" height="220" id="symbol0" fill="url(#linear_PSgrad_0)"/><rect x="0" y="0" width="220" height="220" id="symbol1" fill="url(#linear_PSgrad_1)"/><rect x="0" y="0" width="220" height="220" id="symbol2" fill="url(#linear_PSgrad_2)"/></defs>
+<rect x="40" y="0" width="220" height="220" fill="rgb(241,23,224)" opacity="0.90" filter="url(#filter0)"/><rect x="20" y="20" width="220" height="220" fill="rgb(251,108,108)" opacity="0.90" filter="url(#filter1)"/><rect x="0" y="40" width="220" height="220" fill="rgb(0,196,223)" opacity="0.90" filter="url(#filter2)"/></svg>

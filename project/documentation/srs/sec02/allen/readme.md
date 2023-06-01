@@ -80,10 +80,6 @@ Don't forget to hit the :star: if you like this repo.
 | 6 | 14/05/2023 | All Members | Project Members | Updation of SRS Documentation | Incomplete | 
 | 7 | 17/05/2023 | All Members | Project Members | Creating UML Diagram | Ongoing |
 | 8 | 20/05/2023 | All Members | Project Members | Create System Docuentation (SD) | Ongoing |
-| 9 | | | | | 
-| 10 | | | | | 
-| 11 | | | | | 
-| 12 | | | | | 
 
 
 ## Contribution 🛠️
@@ -91,5 +87,7 @@ Please create an [Issue](https://github.com/drshahizan/software-engineering/issu
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
+![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+
 

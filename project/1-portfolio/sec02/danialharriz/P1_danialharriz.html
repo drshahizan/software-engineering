@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>My Personal Portfolio</title>
+  <style>
+    body
+    {
+      background-color: beige;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin-left: 20%;
+      margin-right: 20%;
+    }
+
+    h1 
+    {
+      font-size: 40px;
+    }
+
+    img 
+    {
+      border: 3px solid black;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Introduction Section -->
+  <section>
+    <h1>My Personal Portfolio</h1>
+    <img hspace="150px" src="https://raw.githubusercontent.com/danialharriz/image/main/IMG_5859.jpg?token=GHSAT0AAAAAACAFIEVK725JGUN5NFWP3KHQZBNDNTA"
+      alt="My Profile Picture" width="300" height="400">
+
+    <br><br><br><br>
+    <fieldset style="background-color: blanchedalmond; width: fit-content;" >
+      <p>Hi, my name Danial Harriz and I'm a Computer Science student majoring in Data Engineering at UTM.</p>
+      <p>
+      <p>A tech geek.</p>
+
+      <p>Interested in everything technology and eager to dive deeper into Computer Science</p>
+      Check out my <a href="#education">education</a> and <a href="#skills">skills</a> and
+      <a href="#experience">experience</a> below, or
+      <a href="#contact">contact me.</a>
+
+      </p>
+    </fieldset>
+  </section>
+  <br><br><br>
+  <!-- Education Section -->
+  <section id="education">
+    <h2>Education</h2>
+    <ul>
+      <li>SM Lok Yuk Likas, Kota Kinabalu</li>
+      <li>Pusat Asasi UiTM, Dengkil</li>
+      <li>Now enrolled at Universiti Teknologi Malaysia</li>
+    </ul>
+  </section>
+
+
+  <!-- Skills Section -->
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>C++</li>
+      <li>HTML</li>
+    </ul>
+  </section>
+
+  <!-- Experience Section -->
+  <section id="experience">
+    <h2>Experience</h2>
+    <ul>
+      <li>Crew of CYBERLYMPICS 22'</li>
+
+    </ul>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <h2>Contact</h2>
+    <form>
+      <table>
+        <tr>
+          <td style="width: 40%;"><label for="name">Name:</label></td>
+          <td><input type="text" id="name" name="name" /><br /></td>
+        </tr>
+        <tr>
+          <td><label for="email">Email:</label></td>
+          <td><input type="email" id="email" name="email" /><br /></td>
+        </tr>
+        <tr>
+          <td><label for="message">Message:</label></td>
+          <td><textarea id="message" name="message"></textarea><br /></td>
+        </tr>
+      </table>
+      <input type="submit" value="Submit" />
+    </form>
+  </section>
+</body>
+
+</html>

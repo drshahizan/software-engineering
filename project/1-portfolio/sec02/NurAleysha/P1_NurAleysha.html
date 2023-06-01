@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Portfolio Website</title>
+
+    <!--
+        Name: Nur Aleysha Qurratu'aini Binti Mat Salleh
+        Matrix No: A22EC0241
+        Github id: NurAleysha
+
+        Project 1: Personal Portfolio Website
+        -->
+</head>
+
+<body>
+    <style>
+        .medBorder {
+            height: 100%;
+            background-color: whiteS;
+            border: 2px outset black;
+            padding: 10px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        body {
+            background-color: lavenderblush;
+        }
+
+        img {
+            border: 5px solid gray;
+        }
+    </style>
+    <div class="medBorder">
+        <h1 style="text-align: center">MY PERSONAL INFORMATION</h1>
+        <section>
+            <h2>Introduction</h2>
+            <img src="https://raw.githubusercontent.com/NurAleysha/Mypicture/main/photo_6114141922068119045_y.png"
+                height="250px" width="250px"><br>
+            <p>Hi there, my name is Nur Aleysha Qurratu'aini Binti Mat Salleh. <br>
+                I am a first year student of Computer Science (Date
+                Engineering) at Universiti Teknologi Malaysia (UTM).<br>
+                Nice to meet you!
+            </p>
+            <p> You can contact me <a href="#contactme">here.</a></p>
+        </section>
+
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>JavaScript</li>
+                <li>C++</li>
+                <li>HTML</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Experience</h2>
+            <ul>
+                <li>Melaka Matriculation College (2021-2022)</li>
+                <li>Currently enrolled at Univeristy of Teknology Malaysia</li>
+            </ul>
+        </section>
+
+        <section id="contactme">
+            <fieldset style="width: 500px">
+                <legend><b>Contact</b></legend>
+                <table height="140px">
+                    <tr>
+                        <td><label for="name">Name:</label>
+                            <input type="text" id="email" name="name" /><br>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><label for="email">Email:</label>
+                            <input type="email" id="email" name="email" /><br>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><label for="message">Message:</label>
+                            <textarea id="message" name="message"></textarea><br>
+                        </td>
+                    </tr>
+                </table>
+            </fieldset>
+            <input type="submit" value="Submit" />
+        </section>
+    </div>
+</body>
+
+</html>

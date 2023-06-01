@@ -103,11 +103,13 @@ One Stop Parcel Center & Cengal Parcel Point
 | 17| 23/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Second meeting with stakeholder (OPC)| Complete|
 | 18| 24/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Second meeting with stakeholder (Johnny)| Complete|
 | 19| 24/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Develop draft of low fidelity Wireframes | Complete |
-| 20| 25/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Develop of low fidelity Wireframes | In Progress |
-| 21| 26/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Develop high fidelity Wireframes | Incomplete |
+| 20| 25/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Develop of low fidelity Wireframes | Complete |
+| 21| 26/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Discussion of developing high fidelity Wireframes | Complete |
 | 22| 26/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Meeting with stackholder via Google Meet (Nur Hazwani) | Complete |
-| 23| 26/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Update SRS Document | In Progress |
+| 23| 26/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Update SRS Document | Complete |
 | 24| 29/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Decide the colour code for system design | Complete |
+| 24| 31/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Develop high fidelity wireframes| In progress |
+
 
 
 ## Contribution 🛠️
@@ -115,5 +117,7 @@ Please create an [Issue](https://github.com/drshahizan/software-engineering/issu
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
+![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+
 

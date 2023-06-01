@@ -1,0 +1,129 @@
+/*
+ * Header Styles
+ */
+
+.site-header{
+	z-index: 999;
+	@include clearfix;
+	.container{
+		padding: 50px 0;
+		border-bottom: 1px solid rgba(255,255,255,.3);
+		@include clearfix;
+	}
+	.header-collapse &{
+		position: absolute;
+		left:0;
+		width: 100%;
+		top: 0;
+	}
+
+}
+
+#branding{
+	float: left;
+	.logo,.logo-copy{
+		display: inline-block;
+		vertical-align: middle;
+	}
+	.logo{ margin-right: 10px }
+	.site-title{
+		color: white;
+		@include em(14);
+		font-family: $primary-font;
+		text-transform: uppercase;
+		margin: 0;
+		line-height: 1;
+
+		a{ color: white }
+	}
+	.site-description{
+		@include em(13);
+	}
+}
+
+.main-navigation{
+	float: right;
+
+	.menu-toggle{
+		background-color: transparent;
+		border: none;
+		color: white;
+		display: inline-block;
+		display: none;
+		outline: none;
+
+		@media screen and (max-width: 990px){ display: block }
+		@media screen and (min-width: 991px){ display: none!important }
+
+	}
+
+	.menu{
+		list-style: none;
+		padding-left: 0;
+		margin: 0;
+		display: inline-block;
+
+		@media screen and (min-width: 991px){ display: block!important }
+		@media screen and (max-width: 990px){ display: none }
+	}
+	.menu-item{
+		margin: 0 15px;
+		display: inline-block;
+
+		a{
+			display: block;
+			padding: 10px 0;
+			position: relative;
+			@include em(12);
+			text-transform: uppercase;
+			color: white;
+
+			&:after{
+				content:" ";
+				height:2px;
+				width: 100%;
+				position: absolute;
+				bottom: 0;
+				left:0;
+				background-color: $accent-color;
+				background: $gradient;
+				opacity: 0;
+				transition: .3s ease;
+			}
+
+		}
+
+		&.current-menu-item a:after,&:hover a:after{
+			opacity: 1;
+		}
+	}
+}
+
+.mobile-navigation{
+	position: relative;
+	clear: both;
+	padding: 20px 0;
+	display:none;
+
+	@media screen and (min-width: 991px){ display: none!important }
+
+	.menu{
+		list-style: none;
+		padding-left: 0;
+		margin:0;
+		background: $bg-color;
+	}
+	.menu-item{
+		text-align: center;
+		a{
+			display: block;
+			padding: 20px;
+			font-family: $primary-font;
+			text-transform: uppercase;
+			@include em(12);
+			color: white;
+
+		}
+		&.current-menu-item a,&:hover a{color: $accent-color!important}
+	}
+}
