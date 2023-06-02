@@ -37,8 +37,8 @@ Don't forget to hit the :star: if you like this repo.
 ## Documentation
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Document SRS| <a href="" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="" ><img src="[../../../../../images/drawio.svg](https://app.diagrams.net/#G1vg-nVVLj8wD-G-0kdyXber8yaMZKHua6#%7B%22pageId%22%3A%22HwsaDun9NWlqgjsMZAeN%22%7D)" width="24px" height="24px" ></a>|
+|1| Document SRS| <a href="https://docs.google.com/document/d/18NUuhr4QC2U0nWMCm7V6GgPZznmsA4sk/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="https://app.diagrams.net/#G1vg-nVVLj8wD-G-0kdyXber8yaMZKHua6#%7B%22pageId%22%3A%22HwsaDun9NWlqgjsMZAeN%22%7D" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
 
 
 
