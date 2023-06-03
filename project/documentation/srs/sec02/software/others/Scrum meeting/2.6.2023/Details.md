@@ -1,5 +1,5 @@
 ## Meeting Details
-- **Date:** 3/6/2023
+- **Date:** 2/6/2023
 - **Venue:** Google Meet
 
 ## Participants
