@@ -23,5 +23,4 @@
    - Not enough time due to other courses being busy
   
 
-## Meeting Photo
-<img src="https://i.ibb.co/pKc4gF4/Scrum-meeting-30-5-pic.png" alt="Scrum-meeting-30-5-pic" border="0">
+## Meeting Photo![WhatsApp Image 2023-06-03 at 20 49 40](https://github.com/drshahizan/software-engineering/assets/129137382/60d8ce5f-d051-4391-91c3-fa7ca370b926)

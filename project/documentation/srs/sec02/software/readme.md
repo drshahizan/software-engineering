@@ -42,8 +42,9 @@ Don't forget to hit the :star: if you like this repo.
 | No | Name |File | 
 | -----:| ----- | :------: | 
 |1| Document SRS| <a href="https://docs.google.com/document/d/1IYG7GiCYAsp6VpTwAMfNKDYWtK1Ys9vY/preview"><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/assets/128159572/17806571-b0f2-4fd5-9f93-defea1f81143"><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
-|3| Others| <a href="https://github.com/drshahizan/software-engineering/tree/main/project/documentation/srs/sec02/software/others" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/documentation/srs/sec02/software/Use%20Case%20Diagram%20(3)-Use%20Case%20Diagram.drawio.png"><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|3| Others| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/documentation/srs/sec02/software/Use%20Case%20Diagram%20(3)-Use%20Case%20Diagram.drawio.png" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+|4| Daily Scrum|<a href="https://github.com/drshahizan/software-engineering/tree/main/project/documentation/srs/sec02/software/others/Scrum%20meeting" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 <table>
@@ -107,7 +108,10 @@ Don't forget to hit the :star: if you like this repo.
 | 15| 20/05/2023 | All Group Members |  | 1st Interview with Dentist | Complete |
 | 16| 22/05/2023 | Tang Yan Qing, Koh Su Xuan and Lee Yik Hong | Documentation Specialists, Quality assurance and User Experience Designer | Create interview notes for review | Complete |
 | 17| 23/05/2023 | All Group Members |  | Discussion and assign task for system features part based on user case design | Complete |
+| 18| 23/05/2023 | All Group Members |  | Start design low fidelity | Complete |
 | 18| 24/05/2023 | All Group Members |  | Redesign system and draw low fadality | Complete |
+| 19| 25/05/2023 | All Group Members |  | Start Daily Scrum | Complete |
+| 20| 25/05/2023 | All Group Members |  | Start design high fidelity | Incomplete |
 | 18| 25/05/2023 | Tang Yan Qing | Documentation Specialists | Create Software Design Document | Incomplete |
 | 19| 28/05/2023 | All Group Members |  | 2nd meeting with Puan Nazlin | Incomplete |
 | 20| 28/05/2023 | All Group Members |  | 2nd meeting with Lim Shi Kai | Incomplete |

@@ -47,7 +47,7 @@ Don't forget to hit the :star: if you like this repo.
 ## Documentation
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Document SRS| <a href="https://docs.google.com/document/d/1MoiExIdS3nKnUEuDTeOu3UFDEozOwKlU/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|1| Document SRS| <a href="https://docs.google.com/document/d/1K3_CkCSf5IU8hNavu1Bdei6vOGWvDCpo/edit#" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
 |2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/tree/main/project/drawio/limapuluh" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
 |3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
@@ -99,12 +99,12 @@ Don't forget to hit the :star: if you like this repo.
 | 1. | 28/04/2023 | Yong Wern Jie | Project Manager |  Create Project Plan | Complete |
 | 2. | 30/04/2023 | All members | - | Find Stakeholder | Complete |
 | 3. | 02/05/2023 | All members | - | Interview with stakeholders | Partially Complete | 
-| 4. | 02/05/2023 | Soh Han Wei | Requirement Analyst | Gather User Requirements | Partially Complete |
+| 4. | 02/05/2023 | Soh Han Wei | Requirement Analyst | Gather User Requirements | Complete |
 | 5. | 02/05/2023 | Lim Jing Yong  | Documentation Specialist | Create Proposal | Complete |
 | 6. | 12/05/2023 | All members | - | Create UML Diagrams | Complete |
-| 7. | 19/05/2023 | Lim Jing Yong & Soh Han Wei | Documentation Specialist & Requirement Analyst | Create SRS Document | Partially Complete |
-| 8. | 31/06/2023 | Marcus Joey Sayner | Software Developer | System Development | Incomplete |
-| 9. | 02/07/2023 | Lee Soon Der | User Experience Designer | Create System Design Document | Partially complete |
+| 7. | 19/05/2023 | Lim Jing Yong & Soh Han Wei | Documentation Specialist & Requirement Analyst | Create SRS Document | Complete |
+| 8. | 02/07/2023 | Lee Soon Der | User Experience Designer | Create System Design Document | Partially Complete |
+| 9. | 24/05/2023 | All members | - | Designing the System | Partially Complete |
 
 
 

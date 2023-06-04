@@ -38,7 +38,7 @@ Don't forget to hit the :star: if you like this repo.
 | No | Name |File | 
 | -----:| ----- | :------: | 
 |1| Document SRS| <a href="https://drive.google.com/drive/folders/1qMErQsLvpeDmBhWP44ltDzrNxc8GQe2s?usp=sharing" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/program/usecasediagram.png" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
 |3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
@@ -92,12 +92,13 @@ Don't forget to hit the :star: if you like this repo.
 | 10 | 08/05/2023 | All members | Main Developer, Technical Lead, UX/UI Designer, QA/Test Engineer | Conduct a meeting with the third stakeholder, another third-year student |  Complete | 
 | 11 | 09/05/2023 | Wan Nur Sofea Binti Mohd Hasbullah | Main Developer | Contact our fourth stakeholder, an administrative officer | Complete |
 | 12 | 15/05/2023 | All members | Main Developer, Technical Lead, UX/UI Designer, QA/Test Engineer | Conduct a meeting with the fourth stakeholder, an administrative officer |  Complete | 
-| 13 | 22/05/2023 | All members | Main Developer, Technical Lead, UX/UI Designer, QA/Test Engineer | Start the SRS Documentation |  Incomplete | 
-| 14 | 25/05/2023 | All members | Main Developer, Technical Lead, UX/UI Designer, QA/Test Engineer | Create draft for low fidelity on sticky notes. |  Incomplete | 
+| 13 | 22/05/2023 | All members | Main Developer, Technical Lead, UX/UI Designer, QA/Test Engineer | Create SRS Documentation |  Incomplete | 
+| 14 | 25/05/2023 | All members | Main Developer, Technical Lead, UX/UI Designer, QA/Test Engineer | Create draft for low fidelity on sticky notes. |  Complete | 
 | 15 | 25/05/2023 | All members | Main Developer, Technical Lead, UX/UI Designer, QA/Test Engineer | Start to create high fidelity on figma.  |  Incomplete | 
 | 16 | 27/05/2023 | All members | Main Developer, Technical Lead, UX/UI Designer, QA/Test Engineer | Created full low fidelity on sticky notes and make correction from previous draft. |  Complete | 
 | 17 | 27/05/2023 | All members | Main Developer, Technical Lead, UX/UI Designer, QA/Test Engineer | Created flowchart on draw.io |  Incomplete | 
 | 18 | 27/05/2023 | All members | Main Developer, Technical Lead, UX/UI Designer, QA/Test Engineer | Created UML diagram on draw.io |  Incomplete | 
+| 19 | 27/05/2023 | All members | Main Developer, Technical Lead, UX/UI Designer, QA/Test Engineer | Created UX/UI Design in Figma |  Incomplete | 
  
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
