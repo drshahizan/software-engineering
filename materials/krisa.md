@@ -27,13 +27,13 @@ Beberapa pertimbangan utama perlu diambil kira bagi menjamin kejayaan pelaksanaa
 | Bab | Tajuk | Pautan |
 |:----:|----------------------------|:------:|
 | 1 | Pengenalan kepada Metodologi Kejuruteraan Sistem Aplikasi |<a href="krisa/bab1.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
-| 2 | Fasa Permulaan Projek |<a href=""><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
-| 3 | Fasa Analisis |<a href=""><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
-| 4 | Fasa Rekabentuk |<a href=""><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
-| 5 | Pembangunan |<a href=""><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
-| 6 | Fasa Ujian Penerimaan |<a href=""><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
-| 7 | Fasa Pelaksanaan |<a href=""><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
-| 8 | Pengiraan Saiz Sistem Aplikasi |<a href=""><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
+| 2 | Fasa Permulaan Projek |<a href="krisa/bab2.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
+| 3 | Fasa Analisis |<a href="krisa/bab3.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
+| 4 | Fasa Rekabentuk |<a href="krisa/bab4.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
+| 5 | Pembangunan |<a href="krisa/bab5.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
+| 6 | Fasa Ujian Penerimaan |<a href="krisa/bab6.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
+| 7 | Fasa Pelaksanaan |<a href="krisa/bab7.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
+| 8 | Pengiraan Saiz Sistem Aplikasi |<a href="krisa/bab8.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
