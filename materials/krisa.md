@@ -26,7 +26,7 @@ Beberapa pertimbangan utama perlu diambil kira bagi menjamin kejayaan pelaksanaa
 ## Bab dalam Buku
 | Bab | Tajuk | Pautan |
 |:----:|----------------------------|:------:|
-| 1 | Pengenalan kepada Metodologi Kejuruteraan Sistem Aplikasi |<a href=""><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
+| 1 | Pengenalan kepada Metodologi Kejuruteraan Sistem Aplikasi |<a href="krisa/bab1.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
 | 2 | Fasa Permulaan Projek |<a href=""><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
 | 3 | Fasa Analisis |<a href=""><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
 | 4 | Fasa Rekabentuk |<a href=""><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
