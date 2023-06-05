@@ -23,25 +23,16 @@ d) Jaminan Kualiti Perisian (SQA)
 e) Faktor Keselamatan ICT
 f) Kepentingan Pengukuran Saiz Sistem
 
-**Jadual 1: Rangka Kerja Metodologi Kejuruteraan Pembangunan Sistem Aplikasi**
-
-|   | Fasa                                       | Aktiviti                                       | Dokumen Serahan                                 |
-|---|--------------------------------------------|------------------------------------------------|-------------------------------------------------|
-| F1 | Permulaan dan Keperluan Projek             | [F1.1] Penyediaan Pelan Pembangunan Sistem     | D01 Pelan Pembangunan Sistem                    |
-|    |                                            | [F1.2] Penentuan Keperluan Bisnes              | D02 Spesifikasi Keperluan Bisnes (BRS)          |
-| F2 | Analisis                                   | [F2.1] Pemodelan Use Case (Fungsian)           | D03 Spesifikasi Keperluan Sistem (SRS)          |
-|    |                                            | [F2.2] Pemodelan Fungsi Sistem (DFD)           |                                                 |
-| F3 | Reka bentuk                                | [F3.1]Reka bentuk Arkitek                      | D04 Spesifikasi Reka bentuk Sistem (SDS)        |
-|    |                                            | [F3.2]Penentuan Teknologi                      | D05 Pelan Migrasi Data                          |
-|    |                                            | [F3.3]Reka bentuk Pangkalan Data               | D06 Spesifikasi Migrasi Data                    |
-| F4 | Pembangunan                                | [F4.1] Pembangunan Pangkalan Data              | D09 Dokumentasi Pangkalan Data                  |
-|    |                                            | [F4.2] Pengaturcaraan Aplikasi                 | D10 Dokumentasi Kod Sumber                      |
-| F5 | Pengujian                                  | [F5.1] Penyediaan Pelan Induk Pengujian        | D12 Pelan Induk Pengujian                       |
-|    |                                            | [F5.2] Penyediaan Dokumentasi Persediaan Ujian | D13 Pelan Ujian Penerimaan (UAT/PAT)            |
-| F6 | Pelaksanaan                                | [F6.1] Pelaksanaan Migrasi Data                | D15 Laporan Migrasi Data                        |
-|    |                                            | [F6.2] Ujian Penerimaan Akhir (FAT)            | D16 Laporan Penamatan Ujian                     |
-|    |                                            | [F6.3] Penyediaan Manual Pengguna              | D17 Manual Pengguna Sistem                      |
-|    |                                            | [F5.4] Serahan Sistem Aplikasi                 | D18 Laporan Serahan Sistem                      |
+| Bab | Tajuk | Pautan |
+|:----:|----------------------------|------|
+| 1 | Pengenalan kepada Metodologi Kejuruteraan Sistem Aplikasi |      |
+| 2 | Fasa Permulaan Projek                             |      |
+| 3 | Fasa Analisis                                     |      |
+| 4 | Fasa Rekabentuk                                   |      |
+| 5 | Pembangunan                                       |      |
+| 6 | Fasa Ujian Penerimaan                             |      |
+| 7 | Fasa Pelaksanaan                                  |      |
+| 8 | Pengiraan Saiz Sistem Aplikasi                     |      |
 
 
 
