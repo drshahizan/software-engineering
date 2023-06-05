@@ -42,7 +42,7 @@ Beberapa pertimbangan utama perlu diambil kira bagi menjamin kejayaan pelaksanaa
 
 | No | Title                                                    | Link                                               |
 |----|----------------------------------------------------------|:----------------------------------------------------:|
-| 1  | Learn how to use Figma prototypes correctly! | <a href="https://youtu.be/_yVgc34ZejI"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
+| 1  | Learn how to use Figma prototypes correctly! | <a href="https://youtu.be/_yVgc34ZejI"><img src="../images/pdf.svg" width="24px" height="24px" ></a> |
 | 2  | The CORRECT (and lazy) way to prototype - Figma Tutorial | <a href="https://youtu.be/L22lDu3QX2c"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
 | 3  | How to Prototype in Figma: Smart Animate, Prototyping and Scrolls (Tutorial) | <a href="https://youtu.be/LX7Mfj-1tiA"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
 | 4  | Reduce Prototypes by 50% (Simple trick) - Figma Tutorial | <a href="https://youtu.be/5GzLA_JkZ14"><img src="../images/youtube64.png" width="24px" height="24px" ></a> |
