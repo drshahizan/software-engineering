@@ -34,9 +34,7 @@ f) Kepentingan Pengukuran Saiz Sistem
 | F3 | Reka bentuk                                | [F3.1]Reka bentuk Arkitek                      | D04 Spesifikasi Reka bentuk Sistem (SDS)        |
 |    |                                            | [F3.2]Penentuan Teknologi                      | D05 Pelan Migrasi Data                          |
 |    |                                            | [F3.3]Reka bentuk Pangkalan Data               | D06 Spesifikasi Migrasi Data                    |
-| F4 | Pemb
-
-angunan                                | [F4.1] Pembangunan Pangkalan Data              | D09 Dokumentasi Pangkalan Data                  |
+| F4 | Pembangunan                                | [F4.1] Pembangunan Pangkalan Data              | D09 Dokumentasi Pangkalan Data                  |
 |    |                                            | [F4.2] Pengaturcaraan Aplikasi                 | D10 Dokumentasi Kod Sumber                      |
 | F5 | Pengujian                                  | [F5.1] Penyediaan Pelan Induk Pengujian        | D12 Pelan Induk Pengujian                       |
 |    |                                            | [F5.2] Penyediaan Dokumentasi Persediaan Ujian | D13 Pelan Ujian Penerimaan (UAT/PAT)            |
