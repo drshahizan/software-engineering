@@ -12,7 +12,7 @@ Buku ini ditulis dengan mengambil kira amalan terbaik teknik dan kaedah yang dig
 
 Metodologi KRISA meliputi 6 fasa utama yang perlu difahami, diguna pakai dan dilaksanakan oleh agensi. Setiap fasa menerangkan aktiviti, teknik dan pendekatan, serta dokumentasi serahan. Rajah 1 Rangka Kerja Panduan Kejuruteraaan Sistem Aplikasi Sektor Awam dan Jadual 1 menyenaraikan fasa, aktiviti dan dokumen serahan.
 
-![Rajah 1: Rangka Kerja Panduan Kejuruteraaan Sistem Aplikasi Sektor Awam](rajah.png)
+![Rajah 1: Rangka Kerja Panduan Kejuruteraaan Sistem Aplikasi Sektor Awam](krisa/rajah.png)
 
 Beberapa pertimbangan utama perlu diambil kira bagi menjamin kejayaan pelaksanaan projek pembangunan sistem aplikasi, di samping memastikan sistem aplikasi yang dibangunkan adalah berkualiti dan memenuhi keperluan pengguna. Pertimbangan- pertimbangan tersebut adalah:
 
