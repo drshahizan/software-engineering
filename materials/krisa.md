@@ -16,12 +16,12 @@ Metodologi KRISA meliputi 6 fasa utama yang perlu difahami, diguna pakai dan dil
 
 Beberapa pertimbangan utama perlu diambil kira bagi menjamin kejayaan pelaksanaan projek pembangunan sistem aplikasi, di samping memastikan sistem aplikasi yang dibangunkan adalah berkualiti dan memenuhi keperluan pengguna. Pertimbangan- pertimbangan tersebut adalah:
 
-a) Tadbir Urus Pengurusan Projek ICT
-b) Penglibatan Pemegang Taruh
-c) Pengurusan Kawalan Pindaan
-d) Jaminan Kualiti Perisian (SQA)
-e) Faktor Keselamatan ICT
-f) Kepentingan Pengukuran Saiz Sistem
+- Tadbir Urus Pengurusan Projek ICT
+- Penglibatan Pemegang Taruh
+- Pengurusan Kawalan Pindaan
+- Jaminan Kualiti Perisian (SQA)
+- Faktor Keselamatan ICT
+- Kepentingan Pengukuran Saiz Sistem
 
 | Bab | Tajuk | Pautan |
 |:----:|----------------------------|------|
