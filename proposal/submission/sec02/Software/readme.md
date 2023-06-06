@@ -266,7 +266,7 @@ c. **Software Resources** :
     - Used for collaborating with other members during the development of the system. It provides tools such as code hosting which make it simpler for teams to collaborate on projects
   - Bootstrap Studio
     - RM 0/year
-    - Used for developing the interface of the system. It provides a big library of pre-built components which makes it simpler to develop a user-friendly and aesthetically pleasing website
+    - Used for developing the interface of the system. It provides a big library of pre-built components which makes it simpler to develop a user-friendly and aesthetically pleasing system
   - System server
     - RM 2,500/year
     - Used for hosting the system
