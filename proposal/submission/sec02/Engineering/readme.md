@@ -54,7 +54,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ### 1. Executive Summary:
 
-The parcel delivery management system for a One Stop Parcel System of University Technology Malaysia is a web-based application that will provide a streamlined and user-friendly interface for students, faculty, and staff to send and receive parcels on campus. The system will include real-time tracking of parcel deliveries, integration with the university's existing student and faculty database, secure payment processing for parcel deliveries, and a notification system to inform users when a parcel has arrived. The system will also integrate with the university's existing security system for parcel pickup.
+The parcel delivery management system for a One Stop Parcel System of Universiti Teknologi Malaysia is a web-based application that will provide a streamlined and user-friendly interface for students, faculty, and staff to send and receive parcels on campus. The system will include real-time tracking of parcel deliveries, integration with the university's existing student and faculty database, secure payment processing for parcel deliveries, and a notification system to inform users when a parcel has arrived. The system will also integrate with the university's existing security system for parcel pickup.
 
 The project timeline for the parcel system is estimated at 14 weeks, including requirements gathering and analysis, system design and development, and system deployment and training. 
 
@@ -62,7 +62,7 @@ The proposed parcel delivery management system will provide numerous benefits to
 
 ### 2. Background:
 
-University Technology Malaysia (UTM) have large campuses with many buildings and locations, which can make it challenging for UTM students, faculty, and staff to send and receive parcels efficiently. In addition, traditional parcel delivery methods require individuals to wait in long lines or travel to Kolej Rahman Putra which can be time-consuming and inconvenient. Traditional parcel delivery method require students to place or recieve order in Telegram group which make students to overlook the thousand of messages and wait for too long to accpet their delivery orders.
+Universiti Teknologi Malaysia (UTM) have large campuses with many buildings and locations, which can make it challenging for UTM students, faculty, and staff to send and receive parcels efficiently. In addition, traditional parcel delivery methods require individuals to wait in long lines or travel to Kolej Rahman Putra which can be time-consuming and inconvenient. Traditional parcel delivery method require students to place or recieve order in Telegram group which make students to overlook the thousand of messages and wait for too long to accpet their delivery orders.
 
 To address these challenges, a parcel system can be implemented to streamline the parcel delivery process and provide a more user-friendly experience for students, faculty, and staff. The proposed parcel system will be a web-based application that will be accessible to all members of the university community, allowing them to easily send and receive parcels on campus.
 
