@@ -308,27 +308,27 @@ Also known as structural testing, is a testing technique where the tester is awa
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 6. Budget:
-The development of the KTDI Event Management System for 50 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at **RM 1,074,000**, as outlined below:
+The development of the KTDI Event Management System for 16000 users within a year will involve various costs, including hardware, software, personnel, and testing. The budget for this project is estimated at **RM 193,000**, as outlined below:
 
-- **Hardware Costs: RM 400,000** <br>
+- **Hardware Costs: RM 19,500** <br>
 This includes the cost of servers, storage, networking equipment, and other hardware required to support the system. This cost will vary depending on the specific hardware configuration chosen, but it is essential to ensure that the system can handle the expected number of users and data volumes.
 
-- **Software Costs: RM 150,000** <br>
+- **Software Costs: RM 16,000** <br>
 This includes the cost of licences for any third-party software required, such as operating systems, databases, and development tools. It also includes the cost of any software development needed for the project, such as custom modules or integrations.
 
-- **Personnel Costs: RM 264,000** <br>
+- **Personnel Costs: RM 125,000** <br>
 This includes the cost of the development team, project managers, and quality assurance specialists. The team size and composition will vary depending on the complexity of the project, but it is essential to ensure that the team has the necessary skills and experience to complete the project on time and within budget.
 
-- **Testing Costs: RM 80,000** <br>
+- **Testing Costs: RM 5,000** <br>
 This includes the cost of testing the software to ensure that it meets the specified requirements and is free of defects. This cost will depend on the testing approach chosen, such as manual or automated testing.
 
-- **Other Expenses: RM 80,000** <br>
-This includes the cost of rent for office space, utilities, marketing and advertising, and testing.
-
-- **Contingency Plan: RM 100,000** <br>
+- **Contingency Plan: RM 17,000** <br>
 It is always recommended to have a contingency plan for unexpected expenses that may arise during the project. This can include budget reserves or adjusting the scope of the project if necessary.
 
-In conclusion, the estimated budget for the development of the KTDI Event Management System is RM 1,074,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingencies. Any changes in the budget will be communicated to stakeholders and project sponsors.
+- **Other Expenses: RM 10,500** <br>
+This includes the cost of rent for office space, utilities, marketing and advertising, and testing.
+
+In conclusion, the estimated budget for the development of the KTDI Event Management System is RM 193,000. The budget will cover the costs associated with hardware, software, personnel, testing, and contingencies. Any changes in the budget will be communicated to stakeholders and project sponsors.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
@@ -452,35 +452,35 @@ The block diagram for the proposed system architecture is as follows:
 To successfully deliver the KTDI Event Management System, the following resources are required:
 
 **Staff**
-- 1 Project Manager: RM 84,000/project
-- 1 User Experience Designer: RM 60,000/project
-- 1 Main Developer: RM 60,000/project
-- 1 Documentation Specialist: RM 60,000/project <br>
-**Total Staff Cost: RM 264,000/project**
+- 1 Project Manager: RM 60,000/project
+- 1 Main Developer: RM 30,000/project
+- 1 User Experience Designer: RM 20,000/project
+- 1 Documentation Specialist: RM 15,000/project <br>
+**Total Staff Cost: RM 125,000/project**
 
 **Equipment:**
-- Servers: RM 200,000
-- Workstations and Laptops: RM 100,000
-- Networking and Cabling: RM 50,000
-- Security and Backup: RM 50,000 <br>
-**Total Equipment Cost: RM 400,000**
+- Servers: RM 8,000
+- Workstations and Laptops: RM 6,000
+- Networking and Cabling: RM 4,000
+- Security and Backup: RM 1,500 <br>
+**Total Equipment Cost: RM 19,500**
 
 **Software:**
-- Relational Database Management System (RDBMS): RM 50,000
-- Web Server: RM 20,000
-- Mobile Application Development Framework: RM 30,000
-- Data Analytics Tools: RM 50,000 <br>
-**Total Software Cost: RM 150,000**
+- Relational Database Management System (RDBMS): RM 4,000
+- Web Server: RM 4,000
+- Mobile Application Development Framework: RM 5,000
+- Data Analytics Tools: RM 3,000 <br>
+**Total Software Cost: RM 16,000**
 
 **Other Expenses:**
-- Rent for Office Space: RM 24,000
-- Utilities: RM 6,000
-- Marketing and Advertising: RM 50,000
-- Testing: RM 80,000
-- Contingency: RM 100,000 <br>
-**Total Other Expenses: RM 260,000**
+- Rent for Office Space: RM 5,000
+- Utilities: RM 2,500
+- Marketing and Advertising: RM 3,000
+- Testing: RM 5,000
+- Contingency: RM 17,000 <br>
+**Total Other Expenses: RM 325,000**
 
-**Total Resources Cost: RM 1,074,000**
+**Total Resources Cost: RM 193,000**
 
 Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
 
