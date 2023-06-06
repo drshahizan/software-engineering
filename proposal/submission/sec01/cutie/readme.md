@@ -271,10 +271,8 @@ The development of UTM Student Attendance Management System for around 20,000 us
   <li>show the percentage of students’ status</li></ul>
   <li>Heat maps</li><ul>
   <li>show the overall attendance rates of students in a particular course or class.</li></ul>
-  <li>Python</li> 
-  <li>Java </li></ul>
   <li>Hardware and Software Requirements:</li><ul>
-  <li>Computers/Laptops</li>
+  <li>Computers/Laptops</li><ul>
   <li>Servers</li>
   <li>Network infrastructure (switches, routers, storage, etc.)</li>
   <li>Printers and scanners</li>
