@@ -203,12 +203,14 @@ We will use various tools and frameworks such as Tableau and Google Data Studio 
 #### System Architecture Diagram:
 The proposed system architecture can be visualized using the following flowchart :  
 
-![Flowchart](https://user-images.githubusercontent.com/128119778/236140460-219fc052-e07f-41e2-9ee8-d48059df6fc6.png)  
+
+![Flowchart](https://github.com/drshahizan/software-engineering/assets/128119778/b58a27ad-2d3c-4df7-b612-e00a706c8e26)  
 
 
 Diagram that represents our proposed system architecture :
 
-![SystemAchitecture](https://github.com/drshahizan/software-engineering/assets/128119778/2575e5db-931a-4b5d-8af9-35b8d5639821)
+
+![SystemAchitecture](https://github.com/drshahizan/software-engineering/assets/128119778/f5760ad0-e1f1-45e1-8b37-26aa5c1276f0)
 
 In summary, the proposed system architecture for Student Health and Wellness Management System will be a four-tier architecture consisting of the presentation tier, application tier, data tier and also security tier. It will utilize modern system and mobile technologies, a relational database management system, encryption technologies, and authentication and authorization mechanisms to ensure data security and privacy. To guarantee data security and privacy, it will make use of modern online technologies, a relational database management system, encryption technologies, and authentication and authorisation procedures. Multiple tools and frameworks will be used collaboratively for data visualisation and analysis.
 
