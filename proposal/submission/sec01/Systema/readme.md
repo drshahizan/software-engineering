@@ -288,7 +288,7 @@ Block Diagram:
       
   4. Software:
       + User interface: HTML, CSS, JavaScript, and ReactJS: RM 150,000
-      + Server-side technology: Node.js and Express.js: RM 100,000
+      + Server-side technology: PHP and Apache: RM 100,000
       + Database: MySQL RDBMS: RM 100,000
       <br>*Total Cost: RM 350,000*
       
