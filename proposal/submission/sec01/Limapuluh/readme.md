@@ -294,21 +294,18 @@ Resources required will be split into 4 parts and given details:
 | Task | Software |
 | -------------------------------- | ------------------------------ |
 | Web Development | Bootstrap Studio |
-| Data Source | Google Form |
-| Data Transformation | R Programming |
-| Machine Learning Algorithms| R Programming |
-| Data Visualization Tools | R Programming |
-| Programming Languages | C++ |
-| Frameworks | Flask |
-| Database Management | SQLAlchemy |
-| Libraries | Scikit-learn & NLTK |
-| Hardware & Software Requirements | Amazon Web Services & MySQL database | 
-| Data Security Measures | Active Directory & OpenSSL & OpenVAS |
+| Propotyping | Figma |
+| Data Source | ePPP System |
+| Data Schema | Draw.io |
+| Programming Languages | HTML, CSS |
+| Libraries | Bootstrap |
+| Database Management | PHPMyAdmin & XAMPP |
+| Hardware Requirements | RAM : > 8GB, Storage : > 100GB, Display : 1920x1080 |
+| Software Requirements | Operating System : Windows 11, IDE : Visual Studio Code, Web Server : Google, Version Control : Git |
   
 <ul>
   <li><h3>Data Sources</h3><p>The student feedback system will collect feedback data from online surveys (Google Form) only, and the data will be stored in a database management system. The data schema will be designed to capture various data points, including demographic information, course information, feedback ratings, and open-ended comments. The schema will be flexible to accommodate future changes in data requirements.</p></li>
   <li><h3>Data Transformations</h3><p>Software R Programming will be used to preprocess and clean data before analysis. Techniques such as data imputation and normalization will be applied to handle missing data and ensure consistency.</p></li>
-  <li><h3>Machine Learning Algorithms</h3><p>Machine learning algorithms, such as regression analysis and clustering, will be used to analyze feedback data and identify patterns and trends. Natural language processing techniques will be applied to analyze open-ended comments. This function will also be carried out using R programming.</p></li>
   <li><h3>Data Visualization Tools</h3><p>Data visualization tools which is also R programming, will be used to present feedback data in interactive and meaningful ways. Dashboards will be created to provide real-time feedback to students and faculty.</p></li>
   <li><h3>Programming Languages, Frameworks, and Libraries</h3><p>The system will be developed using C++ as the main programming language. Flask will be used as the web framework, and SQLAlchemy will be used for database management. Libraries such as Scikit-learn and NLTK will be used for machine learning and natural language processing.</p></li>
   <li><h3>Hardware and Software Requirements</h3><p>The system will require a server with a minimum of 4 GB RAM and 100 GB storage. The system will be hosted on Amazon Web Services (AWS) and will use a MySQL database.</p></li>
