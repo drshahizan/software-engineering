@@ -210,11 +210,11 @@ In conclusion, the Agile software process model is an ideal choice for the propo
   
 ### 6. Budget:
 <ul>
-  <li><h3>Software Developments</h3><p>We are expected to spend around RM20000 to RM40000 on software development. This budget would cover the cost of developing a basic system with limited features. We would be utilizing open-source technologies or existing software frameworks to reduce development costs.</p></li>
-  <li><h3>Hardware Requirements</h3><p>Our hardware requirements can range from RM4000 to RM20000. This budget would cover the cost of renting or purchasing basic server equipment to run the system. We will also opt for cloud-based services that offer scalable hardware resources.</p></li>
-  <li><h3>Personnel Costs</h3><p>Personnel costs with a minimal budget would range from RM40000 to RM90000. This budget would cover the cost of hiring developers, designers, and testers on a part-time basis. We also will consider hiring student interns or utilizing volunteers for our system.</p></li>
-  <li><h3>Testing Expenses</h3><p>Testing expenses with a minimal budget can range from RM4000 to RM20000. This budget would cover the cost of hiring testers or using automated testing tools. We will also use user testing and feedback to identify and fix issues with the system.</p></li>
-  <li><h3>Contingency Funds</h3><p>Our funds for unexpected events will be ranging around RM6000 to RM13600, which is 10% to 20% of the total expenses. This amount will be set aside for any unforseen expenses that may arise during development process.</p></li>
+  <li><h3>Software Developments - RM20000 </h3><p>We are expected to spend around RM20000 on software development. This budget would cover the cost of developing a basic system with limited features. We would be utilizing open-source technologies or existing software frameworks to reduce development costs.</p></li>
+  <li><h3>Hardware Requirements - RM4000 </h3><p>Our hardware requirements can range from RM4000. This budget would cover the cost of renting or purchasing basic server equipment to run the system. We will also opt for cloud-based services that offer scalable hardware resources.</p></li>
+  <li><h3>Personnel Costs - RM40000 </h3><p>Personnel costs with a minimal budget would range from RM40000. This budget would cover the cost of hiring developers, designers, and testers on a part-time basis. We also will consider hiring student interns or utilizing volunteers for our system.</p></li>
+  <li><h3>Testing Expenses - RM4000 </h3><p>Testing expenses with a minimal budget can range from RM4000. This budget would cover the cost of hiring testers or using automated testing tools. We will also use user testing and feedback to identify and fix issues with the system.</p></li>
+  <li><h3>Contingency Funds - RM6000 </h3><p>Our funds for unexpected events will be ranging around RM6000, which is 10% to 20% of the total expenses. This amount will be set aside for any unforseen expenses that may arise during development process.</p></li>
 </ul>
 
 ### 7. System Architecture:
