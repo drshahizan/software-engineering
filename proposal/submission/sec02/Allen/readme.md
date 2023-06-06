@@ -27,7 +27,7 @@
 - KTDI MINIMARKET ONLINE SYSTEM is a proposed project that aims to transform the retail operations of the mini mart. The main objective is to enhance competitiveness and improve the customer experience by establishing an online presence. The project goals include increasing customer convenience, expanding the customer base, optimizing operational efficiency, driving sales growth, and fostering customer loyalty. The proposed system will feature an intuitive interface, enabling users to browse products, place orders, and make secure online payments. It will also streamline inventory management, order fulfillment, and sales tracking processes. The expected outcomes include expanding the customer reach, improving the overall shopping experience, enhancing efficiency and accuracy, gaining a competitive edge, and achieving sustainable business growth. Successful implementation requires collaboration among the stakeholders and mini mart mnagement. This project offers a promising opportunity for the mini mart to thrive in the digital age, and it should be pursued to fully realize its potential and succeed in the ever-evolving retail landscape.
 
 ### 2. Background:
-- This proposal aims to introduce an online system for KTDI Dewi Kayangan Enterprise, leveraging technology to enhance the shopping experience and drive business growth. The existing traditional brick-and-mortar model poses limitations, such as limited customer reach and reliance on physical transactions. By implementing an online system, the mini mart seeks to overcome these challenges and unlock numerous benefits.
+- This proposal aims to introduce an online system for KTDI MINIMARKET ONLINE SYSTEM, leveraging technology to enhance the shopping experience and drive business growth. The existing traditional brick-and-mortar model poses limitations, such as limited customer reach and reliance on physical transactions. By implementing an online system, the mini mart seeks to overcome these challenges and unlock numerous benefits.
 - The proposed software solution will enable customers to conveniently browse products, place orders, and make secure online payments from the comfort of their homes. This increased convenience will attract a wider customer base, expanding the mini mart's reach and creating new sales opportunities. This optimization will prevent stockouts and overstocking, leading to enhanced operational efficiency and reduced costs. Additionally, the system will provide valuable insights into customer preferences and purchasing patterns, enabling the mini mart to tailor its offerings and marketing strategies accordingly.
 
 ### 3. Objectives:
@@ -134,17 +134,17 @@ Here is an estimated budget for developing the KTDI DEWI KAYANGAN ENTERPRISE ONL
 - Software licenses for development tools and software: RM45,000
 - Web hosting and domain registration fees: RM9,000
 2. Personnel costs:
-- Project manager: RM70,500
-- Business analyst: RM45,000
-- Front-end developer: RM54,000
-- Back-end developer: RM 112,500
-- Quality assurance engineer: RM67,500
+- Project manager: RM10,000
+- Business analyst: RM6,000
+- Front-end developer: RM20,000
+- Back-end developer: RM20,000
+- Quality assurance engineer: RM 35,000
 3. Testing costs:
 - Automated testing tools and software: RM22,500
 - Manual testing costs: RM 22,500
 4. Contingency:
 - Contingency fund: RM45,000
-- Total estimated budget: RM 832,000
+- Total estimated budget: RM325,000
 
 It is important to note that this is an estimated budget and actual costs may vary depending on various factors such as team size, expertise, and time duration. It is recommended to regularly monitor and update the budget to ensure that the project is completed within the allocated budget and timelines.
 ### 7. System Architecture:
@@ -152,7 +152,7 @@ It is important to note that this is an estimated budget and actual costs may va
 The KTDI Minimarket Online System is a web-based application for managing the operations of a mini mart. It allows customers to browse and purchase products online, while providing the mini mart staff with tools for inventory management, order processing, and sales analysis.
 - Data Storage and Management:
 The system will utilize a Relational Database Management System (RDBMS) for storing and managing data. The database will be hosted on a dedicated database server, ensuring data integrity and security. Regular backups will be performed to prevent data loss.
-- The proposed system architecture for the KTDI Dewi Kayangan Enterprise Online System will be a multi-tier architecture consisting of a presentation layer, application layer, and data layer as the following:
+- The proposed system architecture for the KTDI MINIMARKET ONLINE SYSTEM will be a multi-tier architecture consisting of a presentation layer, application layer, and data layer as the following:
 
 - Programming languages: 
  
@@ -314,11 +314,11 @@ The system may need to integrate with security and compliance tools to ensure th
 - "Order Details" table, which includes columns for the order ID, product ID, quantity ordered, and price per unit.
 - "Payments" table, which includes columns for the payment ID, order ID, payment amount, payment method, and date and time of the payment.
 
-The schema can be designed and implemented using a database management system, such as MySQL or PostgreSQL, and can be accessed and manipulated using programming languages such as PHP or Python.
+The schema can be designed and implemented using a database management system, such as MySQL or PostgreSQL, and can be accessed and manipulated using programming languages such as PHP.
 
 
 #### Data Transformations:
-Data transformation refers to the process of converting data from one format, structure, or representation to another format, structure, or representation. In the context of developing KTDI Dewi Kayangan Enterprise Online System, data transformation may be necessary to:
+Data transformation refers to the process of converting data from one format, structure, or representation to another format, structure, or representation. In the context of developing KTDI MINIMARKET ONLINE SYSTEM, data transformation may be necessary to:
 
 1. Convert data from the mini mart's existing systems or databases into a format that is compatible with the new online system.
 
@@ -413,7 +413,7 @@ Other than that, examples of data transformation that are planned to do are:
 
 #### Hardware Requirements:
 
-- Computer or laptop with at least 8GB of RAM and a multi-core processor (estimated cost: RM 2,000-4,000)
+- Computer or laptop with at least  M1 PRO CHIP 8-CORE CPU 24 UNIFIED MEMORY 2TB STORAGE(MAC BOOK PRO)  (estimated cost: RM5200-RM10,799 )
 
 - High-speed internet connection (estimated cost: RM 200-400 per month)
 
@@ -493,7 +493,7 @@ Other than that, examples of data transformation that are planned to do are:
 
 ### 12. Conclusion:
 
-Developing an online system for KTDI mini mart, which are Dewi Kayangan Enterprise can provide many benefits for both the business owner and the customers. The conclusion that can be made are:
+Developing an online system for KTDI MINIMARKET ONLINE SYSTEM, which are Dewi Kayangan Enterprise can provide many benefits for both the business owner and the customers. The conclusion that can be made are:
 
 - Increased convenience: An online mini mart system allows customers to purchase items from the comfort of their own home, making the shopping experience more convenient and accessible.
 
