@@ -263,7 +263,7 @@ Total Estimated Cost: RM 1,900,000
 ## 10. Technical Specification
  - Platform: The system should be web-based and accessible from any device with an internet connection, such as desktops, laptops, tablets, and smartphones. The system should be compatible with multiple operating systems and web browsers.
 
-- Programming languages and technologies: The system can be built using a combination of technologies such as HTML, CSS, JavaScript, PHP, Python, and MySQL. The system can also use frameworks such as Laravel, React, Angular, and Vue.js.
+- Programming languages and technologies: The system can be built using a combination of technologies such as HTML, CSS, JavaScript, PHP, MariaDB, and MySQL. The system can also use frameworks such as Laravel, React, Angular, and Vue.js.
 
 - User Interface: The user interface should be easy to navigate and visually appealing, with features such as menus, search bars, and order tracking. The system can use responsive web design to optimize the user experience on different devices.
 
