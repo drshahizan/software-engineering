@@ -111,23 +111,25 @@ Don't forget to hit the :star: if you like this repo.
 | 18| 23/05/2023 | All Group Members |  | Start design low fidelity | Complete |
 | 18| 24/05/2023 | All Group Members |  | Redesign system and draw low fadality | Complete |
 | 19| 25/05/2023 | All Group Members |  | Start Daily Scrum | Complete |
-| 20| 25/05/2023 | All Group Members |  | Start design high fidelity | Incomplete |
-| 18| 25/05/2023 | Tang Yan Qing | Documentation Specialists | Create Software Design Document | Incomplete |
-| 19| 28/05/2023 | All Group Members |  | 2nd meeting with Puan Nazlin | Incomplete |
-| 20| 28/05/2023 | All Group Members |  | 2nd meeting with Lim Shi Kai | Incomplete |
-| 21| 29/05/2023 | Goh Jiale and Lee Yik hong | Main Developer and User Experience Designer | Create interview notes for review | Incomplete |
-| 22| 30/05/2023 | All Group Members |  | Discussion on software design based on interview feedback | Incomplete |
-| 23| 5/06/2023 | Tang Yan Qing | Documentation Specialists | Create Software Testing Document | Incomplete |
-| 24| 6/06/2023 | All Group Members |  | 2nd meeting with Dr Mohd. Firdaus | Incomplete |
-| 25| 8/06/2023 | All Group Members |  | 3rd meeting with Lim Shi Kai | Incomplete |
-| 26| 10/06/2023 | Ong Yi Yan and Lee Yik hong | Requirement Analysis and User Experience Designer | Create interview notes for review | Incomplete |
-| 27| 12/06/2023 | All Group Members |  | Discussion on deployment details and conclude interview feedback to improve system | Incomplete |
-| 28| 15/06/2023 | Tang Yan Qing | Documentation Specialists | Create Software Deployment Document | Incomplete |
-| 29| 18/06/2023 | All Group Members |  | 3rd meeting with Puan Nazlin | Incomplete |
-| 30| 20/06/2023 | All Group Members |  | 3rd meeting with Dr Mohd. Firdaus | Incomplete |
-| 31| 22/06/2023 | Goh Jiale and Ong Yi Yan | Main Developer and Requirement Analysis | Create interview notes for review | Incomplete |
-| 32| 25/06/2023 | All Group Members |  | Discussion on Maintanence Requirement in system based on interview feedback | Incomplete |
-| 33| 27/06/2023 | Tang Yan Qing | Documentation Specialists | Create Software Maintanence Document | Incomplete |
+| 20| 25/05/2023 | All Group Members |  | Start design high fidelity | Complete |
+| 21| 06/06/2023 | All Group Members |  | Finalize SRS Documentation | Complete |
+| 22| 06/06/2023 | All Group Members |  | Done Architectural Flow, Users Flow and UI Design | Complete |
+| 18|  | Tang Yan Qing | Documentation Specialists | Create Software Design Document | Incomplete |
+| 19|  | All Group Members |  | 2nd meeting with Puan Nazlin | Incomplete |
+| 20|  | All Group Members |  | 2nd meeting with Lim Shi Kai | Incomplete |
+| 21|  | Goh Jiale and Lee Yik hong | Main Developer and User Experience Designer | Create interview notes for review | Incomplete |
+| 22|  | All Group Members |  | Discussion on software design based on interview feedback | Incomplete |
+| 23|  | Tang Yan Qing | Documentation Specialists | Create Software Testing Document | Incomplete |
+| 24|  | All Group Members |  | 2nd meeting with Dr Mohd. Firdaus | Incomplete |
+| 25|  | All Group Members |  | 3rd meeting with Lim Shi Kai | Incomplete |
+| 26|  | Ong Yi Yan and Lee Yik hong | Requirement Analysis and User Experience Designer | Create interview notes for review | Incomplete |
+| 27|  | All Group Members |  | Discussion on deployment details and conclude interview feedback to improve system | Incomplete |
+| 28|  | Tang Yan Qing | Documentation Specialists | Create Software Deployment Document | Incomplete |
+| 29|  | All Group Members |  | 3rd meeting with Puan Nazlin | Incomplete |
+| 30|  | All Group Members |  | 3rd meeting with Dr Mohd. Firdaus | Incomplete |
+| 31|  | Goh Jiale and Ong Yi Yan | Main Developer and Requirement Analysis | Create interview notes for review | Incomplete |
+| 32|  | All Group Members |  | Discussion on Maintanence Requirement in system based on interview feedback | Incomplete |
+| 33|  | Tang Yan Qing | Documentation Specialists | Create Software Maintanence Document | Incomplete |
 
 
 ## Contribution 🛠️

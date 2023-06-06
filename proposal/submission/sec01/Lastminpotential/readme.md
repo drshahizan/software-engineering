@@ -13,10 +13,27 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ### Prepared by: Lastminpotential
-  1. Goh Jing Yang A22EC0052
-  2. Loo Jia Chang A22EC0074
-  3. TAN JUN YUAN A22EC0107
-  4. Chen Pyng Haw A22EC0042
+
+<table>
+  <tr>
+    <th>Goh Jing Yang</th>
+    <th>Loo Jia Chang</th>
+    <th>Tan Jun Yuan</th>
+    <th>Chen Pyng Haw</th>
+  </tr>
+  <tr align="center">
+    <td>A22EC0052</td>
+    <td>A22EC0074</td>
+    <td>A22EC0107</td>
+    <td>A22EC0042</td>
+  </tr>
+  <tr>
+    <td><img src="photo/BerniceLimJX.png" style="margin: 0 auto;width: 200px"></td>
+    <td><img src="photo/Yutongchai.jpg" style="margin: 0 auto;width: 200px"></td>
+    <td><img src="photo/Jesslyn19.jpg" style="margin: 0 auto;width: 200px"></td>
+    <td><img src="photo/cph.png" style="margin: 0 auto;width: 200px"></td>
+  </tr>
+  </table>
 
 ### Table of Contents
  |No.  | Content |
@@ -105,7 +122,8 @@ The Faculty of Computing Feedback System will provide measurable benefits to all
 
 ### 5. Software Process Model:
 <p>Agile methodology is the optimal software process model for the creation of the Faculty Feedback System. Software development using the agile methodology is flexible and iterative, allowing for ongoing input and adaption. It is appropriate for this project since it enables us to release functional software frequently and fast in response to changes.</p>
-<img style="margin: 0 auto;width: 1000px" alt="image" src="https://mobile-jon.com/wp-content/uploads/2021/04/Agile-Methodology.jpg">
+<img style="margin: 0 auto;width: 1000px" alt="image" src="https://github.com/drshahizan/software-engineering/assets/129271114/7c28b08c-83d3-4897-9144-298e286a5f36"
+>
 Agile methodology is a flexible and iterative approach to project management that emphasizes collaboration, frequent feedback, and rapid prototyping. Here's a more detailed breakdown of how the agile methodology will be used for the development of this system:
  
 
@@ -142,13 +160,14 @@ During the launch phase, the quality assurance team will conduct tests to ensure
 
 ### 6. Budget:
 <ul>
-<li>Software development: This includes the cost of designing, developing, and testing the software for the system. This can include the cost of software development tools, licenses, and resources such as developers and testers.The budget for software development would rangfe from RM 30000-Rm42000.</li>
+<li>Software development: This includes the cost of designing, developing, and testing the software for the system. This can include the cost of software development tools, licenses, and resources such as developers and testers.The budget for software development would rangfe from RM 30000-RM42000.</li>
 <li>Hardware: This includes the cost of servers, storage, and other hardware required to host and run the software.We expect to spend around RM12000-RM24000 for hardware.</li>
 <li>Infrastructure: This includes the cost of setting up and maintaining the network infrastructure required for the system, such as routers, switches, and firewalls.Budget for this part will be around RM 5100-RM 21000.</li>
 <li>Implementation and integration: This includes the cost of implementing and integrating the system with existing institutional systems, such as learning management systems or student information systems.Budget for this part is around RM 12000-RM 24000</li>
 <li>Maintenance and support: This includes the cost of ongoing maintenance and support for the system, such as bug fixes, upgrades, and technical support.Budget for maintenance and support will be around RM 21000-RM 30000</li>
 <li>Training: We expect to spend around RM 15000-RM 21000 for this part.This includes the cost of training users and administrators on how to use the system.</li>
 <li>Miscellaneous expenses: This includes other expenses that may be required for the development and implementation of the system, such as travel expenses, legal fees, and project management costs.We expect to spend around RM15000-RM30000 for this section.</li>
+<li>Total budget will be around RM 110100-RM 192000.
 </ul>
 
 ### 7. System Architecture:

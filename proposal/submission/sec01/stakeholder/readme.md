@@ -140,8 +140,6 @@ The scope refers to the boundaries of the project and outlines the features and 
 
 - Support and maintenance: <br>Residents or students should be able to report problems any problem faced in the accommodation system, such as bugs through the system's help desk and there should be a dedicated team working to quickly resolve these problems.
 
-- Agile methodology: <br>Agile methodology is used for the software process model in the system development due to its flexibility in updating the stakeholders' requirements and sastification. Modification will be done several times until the best system is developed. 
-  
 - The system will be limited to Kolej Tun Dr Ismail (KTDI) only and the decision phase of the final result on room application will be done by the AIMS system of UTM. Also, the data privacy and security of the users maybe a concern as our proposed system will not cover it.
 
 ---
@@ -239,8 +237,10 @@ MySQL will be used as the Relational Database Management System (RDBMS) to store
 Hardware and software requirements are crucial components of our proposed system architecture. Managing the KTDI's student accomodation system's hardware and software requirements could be done as follows:
 
 i. Hardware requirements 
-- Server: For database management.
-- Cloud hosting service: For the web platform.
+- A computer with a processor of at least 2 GHz or higher.
+- A minimum of 16 GB RAM.
+- Sufficient storage space to store the system files and database.
+- A stable internet connection.
   
 ii. Software requirements 
 - ReactJS as the font-end JavaScript library for development of interactive website user interface.
@@ -250,11 +250,11 @@ ii. Software requirements
 - PHP Laravel framework as the server-side technology.
 - D3.js and Chart.js as the data visualization library to create interactive charts and present data.
 - Git for version control.
-- R studio and Microsoft Excel as data analysis tools to preprocess the data.
+- Microsoft Excel as data analysis tools to preprocess the data.
 - Tableau and PowerBI as the business intelligence (BI) tools to create insights from the data.
   
 #### Data Analysis and Visualization:
-- Data analysis tools: <br>We will use R programming language (R Studio) and Microsoft Excel to clean and preprocess the data, perform statistical analysis and also create data models.
+- Data analysis tools: <br>We will use Microsoft Excel to clean and preprocess the data, perform statistical analysis and also create data models.
 - Data visualisation tools: <br>We will use D3.js and Chart.js to create interactive charts and graph to visualise room type applicable based on hostel merit in a meaningful and attractive way.
 - Business intelligence (BI) tools: <br>We will use Tableau, PowerBI to perform advanced analytics, create reports and generate insights from the data.
 
@@ -334,7 +334,6 @@ II. Equipment Resources:<br>
 III. Software Resources:<br>
 - Integrated Development Environment (IDE) for software development:
   - Visual Studio Code
-  - R Studio
   - BootStrap Studio
   
 IV. Other Expenses:<br>
@@ -362,13 +361,13 @@ IV. Other Expenses:<br>
 - Hardware and software requirements
  <ul>i. Hardware Requirements:<br>
   •	A computer with a processor of at least 2 GHz or higher<br>
-  •	A minimum of 8 GB RAM<br>
+  •	A minimum of 16 GB RAM<br>
   •	Sufficient storage space to store the system files and database<br>
   •	A stable internet connection</ul>
   
  <ul>ii. Software Requirements:<br>
   •	An operating system such as Windows, Linux, or macOS<br>
-  •	A code editor such as Visual Studio Code, R Studio and Bootstrap Studio</ul>
+  •	A code editor such as Visual Studio Code and Bootstrap Studio</ul>
   
 - Data security:<br> Several steps that can be taken to ensure the security of the Kolej Tun Dr Ismail (KTDI) Student Accommodation System, including secure login procedures, data encryption, routine backups and disaster recovery plans.For example,We can ask them to create the best and strong possible password in order to protect their data to be leak by irresponsible parties. The most recent security patches for software and applications should be continuously updated to fix vulnerabilities. Users should be instructed on the best data security practises, which a user guideline will be provided by us and the system can be protected by putting in place physical security measures.
 
