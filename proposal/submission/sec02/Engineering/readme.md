@@ -73,7 +73,7 @@ Overall, the proposed parcel system is expected to provide numerous benefits to 
 ### 3. Objectives:
 Our proposed parcel system aims to achieve the following objectives:
 
-1. To develop a web-based parcel delivery system for the university community.
+1. To develop a web-based application parcel delivery system for the university community.
 2. To integrate the system with the university's existing security system to enhance parcel delivery security.
 3. To provide real-time tracking of parcel deliveries to increase transparency and reduce delivery times.
 4. To offer a streamlined and user-friendly interface for parcel senders and receivers.
