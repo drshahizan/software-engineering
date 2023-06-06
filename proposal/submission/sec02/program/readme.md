@@ -46,8 +46,6 @@ These are the current system interface from academic advisor view:
 <img src="https://user-images.githubusercontent.com/128214992/236150766-f7463dd2-f294-448b-8de4-a01469125d4a.jpg" width="400" height=auto>
 <img src="https://user-images.githubusercontent.com/128214992/236150893-9ba55c91-8924-441a-a1ca-a777cb205d7d.jpg" width="400" height=auto>
 <img src="https://user-images.githubusercontent.com/128214992/236149794-9e95df6d-4400-4dad-b1fe-065e96ca9fc6.jpg" width="400" height=auto>
-<img src="https://user-images.githubusercontent.com/128214992/236150477-dc2944e5-74bf-48ce-bf6f-927d3fcca888.jpg" width="400" height=auto>
-<img src="https://user-images.githubusercontent.com/128214992/236149827-df6b0303-4ccf-4d44-9dbd-d5ae4ebe322f.jpg" width="400" height=auto>
 
 
 ### 3. Objectives:
