@@ -480,7 +480,7 @@ To successfully deliver the KTDI Event Management System, the following resource
 - Marketing and Advertising: RM 3,000
 - Testing: RM 5,000
 - Contingency: RM 17,000 <br>
-**Total Other Expenses: RM 325,000**
+**Total Other Expenses: RM 32,500**
 
 **Total Resources Cost: RM 193,000**
 
