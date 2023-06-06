@@ -400,7 +400,7 @@ The Staff Office KTDI, Fellow, and Assistant Fellow interfaces can view whether 
     </table>
 
 The block diagram for the proposed system architecture is as follows:
-<img src="system_architecture_dg.jpg" alt="SystemArchitecture"></img>
+<img src="System architecture.jpg" alt="SystemArchitecture"></img>
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
