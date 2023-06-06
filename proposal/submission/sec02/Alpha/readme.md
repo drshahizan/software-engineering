@@ -167,11 +167,11 @@ Overall, the estimated budget for the development of the college room rental sys
 The proposed system architecture for this college room rental services is
 a three tier architecture which organises applications into three logical and physical computing tiers that is:
  - **presentation tier** or user interface that will present information and handle user interface for users.In this tier,  HTML, CSS, and JavaScript, along with a framework like React or Angular can be used  for building the user interface.
-- **application tier** that processes user requests and updates the price and number of days to be processed. By using a framework like Flask or Express.js for building RESTful APIs with a server-side language such as Node.js or Python.
-- **data tier** that will store and manage all the rental data. Depending on the requirements of the system, relational database management system (RDBMS) like MySQL or PostgreSQL, or MongoDB(a NoSQL database) 
+- **application tier** that processes user requests and updates the price and number of days to be processed. By using a framework for building RESTful APIs with a server-side language such as .
+- **data tier** that will store and manage all the rental data. Depending on the requirements of the system, relational database management system (RDBMS) like MySQL
 
 #### Data Storage, Management and Analysis
-For this system, the data tier will be responsible to store and manage the database management system of the rental data . As data integrity, security, and scalability is extremely important, the database will be designed. Tools and frameworks like Python's pandas library or R programming language that is capable of analysing and visualising data will be used to implement data analysis.
+For this system, the data tier will be responsible to store and manage the database management system of the rental data . As data integrity, security, and scalability is extremely important, the database will be designed. Tools and frameworks that is capable of analysing and visualising data will be used to implement data analysis.
 
 As for the software and hardware requirements that are needed to support this system, a server or cloud based infrastructure that can handle the expected workload traffic with sufficient resources will be required.
 
@@ -182,16 +182,14 @@ This college rental system will use various tools and frameworks such as:
 - HTML: tocreate structure of web page
 - CSS: to control presentation and visual styling 
 - Bootstrap: front-end development framework
-- MangoDB: To store data(ability to handle large volumes of unstructured data)
-- Node.js: to handle incoming HTTP requests, process data, and respond with dynamic HTML content
-- Microsoft Azure: Cloud Hosting and Deployment
+- Figma : Creating prototype 
 
 #### Flowchart and Block Diagram
 
 ##### Flowchart
 ![FlowchartSystemArchitecture](FlowchartSystemArchitecture.drawio.png)
 1. Client: The client tier is the user interface where users interact with the system. In this case, the client tier consists of a web browser that sends requests to the web server.
-2. Web Server: The web server tier receives HTTP requests from the client tier and responds with HTML content that is rendered by the browser. The web server also handles static files, such as CSS and JavaScript. 
+2. Web Server: The web server tier receives HTTP requests from the client tier and responds with HTML content that is rendered by the browser. The web server also handles static files, such as CSS. 
 3. Application Server: The application server tier is responsible for handling the business logic of the system. It receives requests from the web server and processes them by retrieving data from the database server and returning dynamic HTML content to the web server.
 4. Database Server: The database server tier stores and manages the system's data. It receives requests from the application server and returns data to the application server for processing.
 
