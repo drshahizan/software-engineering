@@ -118,8 +118,8 @@ This is cost will cover any activities associated with developing and deploying 
 **Data Analysis**:
   The app will not require complex data analysis since it primarily serves as a scheduling tool. However, basic data analysis such as appointment statistics and user activity tracking can be implemented using PHP's built-in analytics tools. 
 
-**Hardware and Software Requirements**:
-  The hardware requirements for the app are minimal, with a basic web server and a MongoDB database server being sufficient. The software requirements include Node.js, MongoDB, and any necessary libraries and frameworks.
+**Hardware Requirements**:
+  The hardware requirements for the app are minimal, with a basic web server and aPHP database server being sufficient. 
 
 **Data Visualization**:
 The app does require complex data analysis, data visualization tools are not necessary.
@@ -128,9 +128,8 @@ The app does require complex data analysis, data visualization tools are not nec
 The following tools and technologies will be used to develop and deploy the academic support app:
 - HTML: For front-end development
 - CSS: For styling and layout
-- Node.js: For back-end development and server-side logic
-- MongoDB: For data storage and management
-- Amazon Web Services (AWS) or Microsoft Azure: For cloud hosting and deployment
+- PHP: For data storage and management
+- Figma: For software development
 
 ### 8. Risks Assessment:
 
