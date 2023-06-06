@@ -16,15 +16,15 @@ Don't forget to hit the :star: if you like this repo.
 
 <table>
   <tr>
+    <th>Tan Jun Yuan</th>
     <th>Goh Jing Yang</th>
     <th>Loo Jia Chang</th>
-    <th>Tan Jun Yuan</th>
     <th>Chen Pyng Haw</th>
   </tr>
   <tr align="center">
+    <td>A22EC0107</td>
     <td>A22EC0052</td>
     <td>A22EC0074</td>
-    <td>A22EC0107</td>
     <td>A22EC0042</td>
   </tr>
   <tr>
