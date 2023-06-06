@@ -125,9 +125,9 @@ example of grantt chart based on our project(dates are just example):
 - Maintenance - Maintenance logs, bug reports, feature requests, working software
 
 ### 6. Budget:
-Developing an online mini mart system like KTDI DEWI KAYANGAN ENTERPRISE ONLINE SYSTEM will require a significant investment of resources. The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
+Developing an online mini mart system like KTDI MINIMARKET ONLINE SYSTEM will require a significant investment of resources. The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
 
-Here is an estimated budget for developing the KTDI DEWI KAYANGAN ENTERPRISE ONLINE SYSTEM:
+Here is an estimated budget for developing the KTDI MINIMARKET ONLINE SYSTEM:
 
 1. Hardware and software costs:
 - Desktop computers and laptops for the development team: RM90,000
@@ -415,7 +415,7 @@ Other than that, examples of data transformation that are planned to do are:
 
 - Computer or laptop with at least  M1 PRO CHIP 8-CORE CPU 24 UNIFIED MEMORY 2TB STORAGE(MAC BOOK PRO)  (estimated cost: RM5200-RM10,799 )
 
-- High-speed internet connection (estimated cost: RM 200-400 per month)
+- High-speed internet connection with at least 500MB/s (estimated cost: RM 200-400 per month)
 
 - Server hardware for hosting the website (estimated cost: RM 4,000-20,000)
 #### Software Requirements:
