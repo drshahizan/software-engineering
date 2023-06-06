@@ -149,13 +149,13 @@ This could include post-launch support and bug fixes for 6 months after the webs
 - Security: **RM 20,000**\
 This might involve setting in place security measures like firewalls, encryption and frequent security audits to safeguard user data and prevent any cyberattacks. The cost of security implementation might differ based on the website needs as well as the providing services chosen.
 
-- Personnel: **RM 370,000**\
+- Personnel: **RM 267,000**\
 This could include salaries or fees for the development team members such as developer,user experience designer, quality assurance tester, documentation specialists and requirements analyst designer. The cost for a development team will vary according to their expertise and skill.
 
 - Contingency: **RM50,000**\
 This could include additional funds set aside for any potential expenses or changes in project scope that might occur throughout the website's development and maintenance phases. Such a budget can assist with dealing with possible delays, revisions in the project's scope or any other sudden changes that need additional financial resources. 
 
-In conclusion, the estimated budget is **RM 570,000** which covers the costs for hardware, software, testing, maintenance, security, personnel and contingency. Any potential budget alterations must be relayed to stakeholders and project sponsors.
+In conclusion, the estimated budget is **RM 467,000** which covers the costs for hardware, software, testing, maintenance, security, personnel and contingency. Any potential budget alterations must be relayed to stakeholders and project sponsors.
 
 ### 7. System Architecture:  
 
@@ -208,12 +208,11 @@ In general, every project can be influenced by risk so they required a special a
 In conclusion, the potential risks that might face during the development and maintenance of student health and wellness website are security risks, technical risks, user experience risks, compliance risks and budget and timeline risks. To ensure the creation of a successful student health and wellness website, a complete risk assessment should be carried out in order to identify, evaluate and address any potential concerns.
 
 ### 9. Resources:
-a. **Staff Resources** : 
-  - Main Developer : Goh Jiale
-    - RM 150,000/year
+ - Main Developer : Goh Jiale
+    - RM 72,000/year
     - Mainly responsible for designing and developing the website as well as troubleshooting and fixing issues
   - User Experience Designer : Lee Yik Hong
-    - Rm 65,000/year
+    - Rm 60,000/year
     - Mainly responsible for designing user interface and user flows 
   - Quality Assurance Tester : Koh Su Xuan
     - RM 45,000/year
@@ -224,7 +223,7 @@ a. **Staff Resources** :
   - Documentation Specialists : Tang Yan Qing
     - RM 35,000/year
     - Mainly responsible for developing user manuals and system documentation
-<p>Total Staff Cost: RM 370,000/year</p>
+<p>Total Staff Cost: RM 267,000/year</p>
 
 b. **Hardware Resources** :
   - Computer and laptop for each team member
@@ -269,7 +268,7 @@ d. **Other Resources** :
     - RM 50,000/year
 <p>Total Other Cost: RM 145,000/year</p>
 
-In conclusion, the total estimated cost is ***RM 570,000/year***.
+In conclusion, the total estimated cost is ***RM 467,000/year***.
 
 ### 10. Technical Specifications:
 <table>
