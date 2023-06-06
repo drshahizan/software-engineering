@@ -105,7 +105,7 @@ Hardware : RM 10,000
 - Hardware cost typically refers to the cost of physical equipment required for the project, such as servers, computers, networking equipment, and other related hardware. In the context of a software development project like the Badal Hajj and Umrah Management System, the hardware cost may include development computers, testing infrastructure, servers, networking equipment and other hardware such as printers and scanners.
 
 Software : RM 13,000
-- Software cost typically refers to the cost of software required for the project, such as development tools, operating systems, database management systems, and other related software. In the context of a software development project like the Badal Hajj and Umrah Management System, the software cost may include Integrated Development Environment (IDE), database management system, web server, and other software such as project management software.
+- Software cost typically refers to the cost of software required for the project, such as development tools, operating systems, database management systems, and other related software. In the context of a software development project like the Badal Hajj and Umrah Management System, the software cost may include database management system, web server, and other software such as project management software.
 
 Personnel : RM 20,000
 - Personnel cost typically refers to the cost of the people involved in the project, including salaries, benefits, and other related expenses. The personnel is hired based on their qualifications, skills,  experience, and expertise in software development.
