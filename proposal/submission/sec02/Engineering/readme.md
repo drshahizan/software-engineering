@@ -120,7 +120,7 @@ The proposed scope for the parcel system is expected to provide numerous benefit
 
 2. Design: Once the requirements are gathered, the next stage will involve designing the system architecture, user interface, and database schema. This stage will also include developing wireframes and mockups to help visualize the system.
 
-3. Development: The third stage will involve actual development of the parcel system. This will include coding, database setup, and integration with third-party services such as payment gateways and security systems.
+3. Development: The third stage will involve actual development of the parcel system. This will include coding, database setup.
 
 4. Testing: The fourth stage will involve testing the system to ensure that it meets the requirements and is free of errors and bugs. This will include unit testing, integration testing, and user acceptance testing.
 
