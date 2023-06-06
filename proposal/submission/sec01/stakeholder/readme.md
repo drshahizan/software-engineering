@@ -104,18 +104,18 @@ Our proposed student accommodation system aims to achieve the following objectiv
 **Relevant:** The condition of equipments in KTDI residence will always be sustainable and well maintained.<br>
 **Time-bound:** The objective will be achieved within the second year of the project.
 
-4. **Specific:** To increase the satisfaction of KTDI room allocating and managing process by 20%.<br>
+4. **Specific:** To increase the satisfaction of KTDI room applying and managing process by 20%.<br>
 **Measurable:** Survey is carried out for both the students, KTDI staff, fellows and KTDI administrator as before and after the new system is put into place.<br>
-**Achievable:** To make the housing allocation and management process faster and more accurate, create an easy-to-use interface and automate it.<br>
-**Relevant:**  Improve the room distribution and management process, students will have a better experience and are more likely to stay in UTM.<br>
+**Achievable:** Create an user friendly interface and automate it to make the housing application and management process faster and more accurate.<br>
+**Relevant:**  Improve the room application and management process, students will have a better experience and are more likely to stay in-campus.<br>
 **Time-bound:** The objective will be achieved within the first three years of the project.
 
-These SMART objectives for our introduced student accommodation system in KTDI are all specific, measurable, achievable, relevant and time-bound. They offer a clear road map for reaching the intended results and are in line with the project's goals and objectives.
+These SMART objectives for our introduced Student Accommodation System in KTDI are all specific, measurable, achievable, relevant and time-bound. They offer a clear road map for reaching the intended results and are in line with the project's goals and objectives.
   
 ---
 
 ### 4. Scope
-The scope refers to the boundaries of the project and outlines the features and functionalities of the system, including its goals, objectives and requirements as well as the expected outcomes and benefits. Detailed explanations of the features and functionality of our proposed student accommodation system in KTDI are as follows:
+The scope refers to the boundaries of the project and outlines the features and functionalities of the system, including its goals, objectives and requirements as well as the expected outcomes and benefits. Detailed explanations of the features and functionality of our proposed Student Accommodation System in KTDI are as follows:
 
 - User registration: <br>By entering personal information and setting up a password with UTM ID, new user can register as our website user before using the KTDI system.
 
@@ -270,7 +270,6 @@ ii. Software requirements
 ---
 
 ### 8. Risks Assessment
-
 A project, programme, or organization's potential risks must be identified, evaluated, and prioritised as part of the risk assessment process. It is a crucial component of risk management, which seeks to reduce the likelihood and effect of prospective dangers. Both quantitative and qualitative ways of expressing the outcomes of this procedure are possible. To help minimise any potential risk-related repercussions, risk assessment is a necessary component of a larger risk management plan.
 
 The risk assessments that related to the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) are:
@@ -371,7 +370,7 @@ IV. Other Expenses:<br>
   •	An operating system such as Windows, Linux, or macOS<br>
   •	A code editor such as Visual Studio Code and Bootstrap Studio</ul>
   
-- Data security:<br> Several steps that can be taken to ensure the security of the Kolej Tun Dr Ismail (KTDI) Student Accommodation System, including secure login procedures, data encryption, routine backups and disaster recovery plans.For example,We can ask them to create the best and strong possible password in order to protect their data to be leak by irresponsible parties. The most recent security patches for software and applications should be continuously updated to fix vulnerabilities. Users should be instructed on the best data security practises, which a user guideline will be provided by us and the system can be protected by putting in place physical security measures.
+- Data security:<br> Several steps that can be taken to ensure the security of the Kolej Tun Dr Ismail (KTDI) Student Accommodation System, including secure login procedures, data encryption, routine backups and disaster recovery plans. For example, the users are asked to create the best and strongest possible password in order to protect their data from being leaked by irresponsible parties. The most recent security patches for software and applications should be continuously updated to fix vulnerabilities. Users should be instructed on the best data security practises, which a user guideline will be provided by us and the system can be protected by putting in place physical security measures.
 
 
 ---
