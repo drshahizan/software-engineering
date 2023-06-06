@@ -15,7 +15,7 @@ Don't forget to hit the :star: if you like this repo.
 | No | Group | Title | Document |
 | :-----: | ------ | ------ | :------: | 
 | 1 | Curiousity | KTDI Events Management System |<a href="../submission/sec01/Curiousity" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
-| 2 | Lastminpotential | UTM Library Management System |<a href="../submission/sec01/Lastminpotential" ><img src="../../images/task.png" width="24px" height="24px" ></a> |
+| 2 | Lastminpotential | Faculty of Computing Feedback System |<a href="../submission/sec01/Lastminpotential" ><img src="../../images/task.png" width="24px" height="24px" ></a> |
 | 3 | Limapuluh | UTM Student Feedback System |<a href="../submission/sec01/Limapuluh" ><img src="../../images/task.png" width="24px" height="24px" ></a> |
 | 4 | Cutie | UTM Student Attendance Management System |<a href="../submission/sec01/cutie" ><img src="../../images/task.png" width="24px" height="24px" ></a> | <
 | 5 | Systema | UTM Faculty of Computing Student Engagement System | <a href="../submission/sec01/Systema" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
