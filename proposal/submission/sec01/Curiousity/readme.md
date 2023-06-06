@@ -54,13 +54,15 @@ Don't forget to hit the :star: if you like this repo.
 <body style="text-align: justify;">
 
 ### 1. Executive Summary:
-Our proposed Kolej Tun Dr. Ismail (KTDI) Event Management System is a comprehensive solution that aims to simplify and streamline the processes of event management for the KTDI Student Residential College Committee (JKM) at University Technology Malaysia (UTM), KTDI office staff, and fellow KTDI.
+Our proposed Kolej Tun Dr. Ismail (KTDI) Event Management System is a comprehensive solution that aims to simplify and streamline the processes of event management for the KTDI Student Residential College Committee (JKM) at University Technology Malaysia (UTM), KTDI staff members, as well as the students in UTM Johor.
 
-Our system offers a range of key features that assist our stakeholders in event preparation and post-activity processes. One such key feature is the inclusion of a calendar for annual events. This feature enables JKM KTDI to plan and schedule their events for the year in advance, avoiding scheduling conflicts. Another feature is the ability to handle the necessary documents for each activity, ensuring that all required paperwork is organised and easily accessible.
+Our system offers a range of key features that assist our stakeholders in event preparation and post-activity processes. One such key feature is the inclusion of a calendar for annual events. JKM KTDI will be able to plan and schedule their events for the semester in advance, avoiding scheduling conflicts. This feature also enables student to view event details and register for events. On the other hand, KTDI staff members are only able to view the event details.
 
-Additionally, our system enables JKM KTDI to distribute tasks to team members, allowing for efficient delegation and a smoother planning process. With our system's visible progress feature, event planners can track their team’s progress and stay on top of their goals throughout the planning process. Lastly, after the event is over, allow them to complete their activity with post-event reporting.
+Furthermore, our system has an attendance and feedback feature that enables the students who attended the event to offer insightful feedback on the events for potential future improvements. Students who participate in events are also given KTDI merit, which is automatically updated in the system to make it easier for the office to identify which students should be given preference when booking hostel space for the upcoming semester.
 
-Overall, our system is designed to make event planning and execution as seamless as possible, allowing JKM KTDI to focus on delivering a successful event.
+Additionally, our system enables JKM KTDI to distribute tasks to team members, allowing for efficient delegation and a smoother planning process. It helps JKM KTDI to handle the necessary documents for each activity, ensuring that all required paperwork is organised and easily accessible. With our system, the JKM KTDI and KTDI staff members can track their JKM KTDI's event progress and stay on top of their goals throughout the planning process. Lastly, after the event is over, it allows them to complete their activity with post-event reporting.
+
+To summarise, our system is designed to make event management and execution as seamless as possible, allowing JKM KTDI to focus on delivering a successful event, KTDI staff members to monitor progress, and for the students to participate actively on the events held.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
