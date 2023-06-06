@@ -71,6 +71,7 @@ The Academic Support Services System will provide a web-based platform that allo
    The ideal software process model for this project is the Agile methodology. The Agile methodology is ideal for this project because it allows for flexibility and adaptability to changing requirements. This is important because the system will be continuously improved based on feedback from students and lecturers.
 
 <img src="https://user-images.githubusercontent.com/128196055/235509164-0d5157b4-b28e-46a5-b02a-db9fd7601fa3.jpg" width="400" height=auto>
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/program/usecasediagram%20(2).png"width="400" height=auto>
 
 The Agile methodology is an iterative and incremental approach to software development that focuses on delivering working software frequently. The methodology is based on four core values:
 
