@@ -67,13 +67,15 @@ To summarise, our system is designed to make event management and execution as s
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 2. Background:
-Events are an essential part of the Kolej Tun Dr. Ismail (KTDI) college. However, the current process of event preparation and post-activity processes is time-consuming and less productive. The KTDI Event Management System is designed to solve the problems and inconveniences faced by stakeholders in activity preparation and improve the effectiveness of event preparation. 
+Events are an essential part of the Kolej Tun Dr. Ismail (KTDI) college. However, the current process of event preparation, registration, and post-activity processes is time-consuming and less productive. The KTDI Event Management System is designed to solve the problems and inconveniences faced by stakeholders in activity preparation and improve the effectiveness of event preparation. 
 
-One of the issues faced by stakeholders is the problem of event dates crashing, which occurs due to the manual event preparation process. Our proposed system addresses this challenge by introducing a calendar for annual events. This feature enables KTDI Student Residential College Committee (JKM) to plan and schedule their events for the year in advance, avoiding scheduling conflicts and allowing for the allocation of resources accordingly. With the calendar for annual events, JKM KTDI can quickly identify which dates are already reserved and which are available, making it easier to plan and organise events in a systematic manner.
+One of the issues faced by JKM KTDI is the problem of event dates crashing, which occurs due to the manual event preparation process. Our proposed system addresses this challenge by introducing a calendar for annual events. This feature enables KTDI Student Residential College Committee (JKM) to plan and schedule their events for the semester in advance, avoiding scheduling conflicts and allowing for the allocation of resources accordingly. With the calendar for annual events, JKM KTDI can quickly identify which dates are already reserved and which are available, making it easier to plan and organise events in a systematic manner.
 
-The stakeholders are required to go through a laborious process of seeking approval from multiple parties through paperwork. For instance, the JKM KTDI has to manually fill in the programme approval form to reserve locations and facilities in KTDI, followed by obtaining approvals from the programme director, fellow KTDI, and KTDI principal, and finally submitting the proposal to Student Affairs. Our system aims to simplify this process by managing all necessary documents for each activity with just a click of the mouse. By using a paperless method, the system can promote environmental protection and prevent the loss or destruction of physical documents.
+Additionally, JKM KTDI and KTDI staff members need to conduct multiple meetings to ensure team progression, which can be time-consuming. The KTDI Event Management System helps by enabling the assignment of tasks and tracking progress, thus reducing the number of long and tedious meetings held. Furthermore, the system allows for post-event reporting, providing a centralised platform for storing event photos. Hence, ensuring that KTDI events' management is accurate, efficient, and productive. 
 
-Additionally, the stakeholders need to conduct multiple meetings to ensure team progression, which can be time-consuming. The KTDI Event Management System helps by enabling the assignment of tasks and tracking progress, thus reducing the number of long and tedious meetings held. Furthermore, the system allows for post-event reporting, providing a centralised platform for storing event photos. Hence, ensuring that KTDI events' management is accurate, efficient, and productive. 
+Furthermore, JKM KTDI is required to manually compute the merit points of KTDI students, which determines their active quota for priority in booking the hostel for the upcoming semester. However, this process is time-consuming and prone to human errors during calculation. The KTDI Event Management System alleviates this burden by automatically updating the accumulated merit points, thereby simplifying the tasks of JKM KTDI members involved in determining the active quota.
+
+On the contrary, students often encounter difficulties in finding college events due to the overwhelming number of events being shared on social media platforms like WhatsApp and Telegram. This flood of information makes it challenging for students to distinguish between different events. However, with the KTDI Event Management System, students gain access to a centralized calendar where they can easily locate and register for the events they find interesting. This system eliminates the need for students to engage in laborious tasks of scrolling through countless events organized by various clubs or colleges.
 
 In summary, the KTDI Event Management System proposal seeks to address the challenges associated with the current manual event management process by introducing a modern, organised, and user-friendly solution that provides measurable benefits and enhances the overall experience of all stakeholders. The proposed system has the potential to make the event management process more streamlined and manageable, leading to more successful and enjoyable events.
 
@@ -81,24 +83,25 @@ In summary, the KTDI Event Management System proposal seeks to address the chall
 
 ### 3. Objectives:
 #### Specific: 
-* To digitise and automate the paperwork process for JKM’s event planning and project management within KTDI.
-* To reduce paper usage and increase efficiency in managing event-related documents.
+* Develop a KTDI Event Management System that is simple to use and includes functions like a calendar for yearly events, task delegation, and automated merit point record. 
+* Enhance communication and information access by providing a centralised platform for students to view event details and register for activities.
 
 #### Measurable: 
-* To reduce paper usage by a minimum of 50% within the first year of the system’s implementation.
-* To decrease the time required to process paperwork by the KTDI college staff and fellow members by at least 30%.
-* To increase the accuracy and completeness of event-related paperwork by 25%.
+* Track the increase in the number of student registrations for events through the system.
+* Measure the time saved in event scheduling and resource allocation processes after implementing the system.
+* To increase the accuracy and completeness of event-related documents by 25%.
 
 #### Achievable: 
-* To achieve widespread adoption of the event management system by at least 80% of JKM KTDI committee members within the first year.
-* To provide comprehensive training and support to users of the system (JKM KTDI, KTDI college office staff, and fellow members) to ensure successful implementation.
+* To achieve widespread adoption of the event management system by 100% of JKM KTDI committee members within the first year.
+* To provide comprehensive training and support to users of the system (JKM KTDI, staff members, UTM Students) to ensure successful implementation.
+* Provide a user-friendly interface that simplifies event management tasks for JKM KTDI and KTDI staff members.
 
 #### Relevant: 
-* To align with sustainability goals by reducing paper usage and promoting digital processes.
-* To support the commitment to providing efficient and effective administrative services to JKM KTDI, KTDI college office staff, and fellow members.
+* To align with sustainability goals by promoting digital processes.
+* To support the commitment to providing efficient and effective administrative services to JKM KTDI and KTDI staff members.
 
 #### Time-Bound: 
-* To fully implement the event management system within the JKM KTDI, KTDI college office staff, and fellow members by the end of the current academic year.
+* To fully implement the event management system within the JKM KTDI, KTDI staff members, and UTM students by the end of the current academic year.
 * To achieve the above-stated measurable objectives within the first year of implementation.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
