@@ -271,8 +271,8 @@ Resources divided into 4 different types which are staff,equipment,software and 
 Technical specification is important in this proposed system as the company should know all the hardware and software that will be used in this system. This is all the technical specification that will be used in this system:
 
 - Platform: The system would need to be web-based and app-based that can connect and accessible from any device with and internet connection such as desktop, laptop, tablet and smartphone. The system also should be compatible with variety of operating system such as Windows, macOS, android, iOS and HarmonyOS.
-- Programming languages and technologies: all the language that will be used are Java, Python, and PHP for the backend language. For the Frontend language are HTML, CSS, JavaScript, React, Angular, and Vue.js.
-- Database Management Systems: MySQL, PostgreSQL, and MongoDB are the choices for managing the system's data. They offer reliable, scalable, and secure database solutions for storing and retrieving data.
+- Programming languages and technologies: all the language that will be used are PHP for the backend language. For the Frontend language are HTML, CSS, JavaScript.
+- Database Management Systems: MySQL and MariaDB are the choices for managing the system's data. They offer reliable, scalable, and secure database solutions for storing and retrieving data.
 - Payment Gateway Integration: Payment gateway integrations can be achieved using APIs provided by popular payment gateway providers such as online banking and Touch and Go. Client also can use the ATM machine for the payment and take the picture of the receipt for the evident.
 - Security Measures: The system's security will be enhanced using technologies like SSL certificates, encryption algorithms, and firewalls to protect user data and prevent unauthorized access.
 - Analytics: Analytics and data visualization will be implemented using tools such as Google Analytics, Power BI, or Tableau to track user behavior, generate reports, and provide insights to system administrators.
