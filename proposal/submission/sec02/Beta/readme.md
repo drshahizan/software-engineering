@@ -20,6 +20,7 @@ Don't forget to hit the :star: if you like this repo.
   5. CHE MARHUMI BIN CHE AB RAHIM (A22EC0147)
   
 <img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/proposal/submission/sec02/Beta/photo1683105260png.png" alt="Alt text" width="500" height="350">
+  <img src="https://user-images.githubusercontent.com/128231261/237552978-4c76efcf-a681-4050-873c-6246115205de.jpg"alt="Alt text" width="500" height="350">
 
 
 ### Table of Contents
