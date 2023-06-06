@@ -1,5 +1,5 @@
 
-#  Proposal: College Room Rental System
+#  Proposal: KTDI College Room Rental System
 
 ## College Room Rental System
 
