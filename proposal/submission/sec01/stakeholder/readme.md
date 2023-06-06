@@ -335,43 +335,41 @@ II. Equipment Resources:<br>
 III. Software Resources:<br>
 - Integrated Development Environment (IDE) for software development:
   - Visual Studio Code
-  - BootStrap Studio
   
 IV. Other Expenses:<br>
 - Cloud Hosting Fees: Cloud service such as Google Cloud.
+- Rental fees for preparing a working space.
 
 ---
 
 ### 10. Technical Specifications
-- Data Sources:<br>Data on students registration, room allocation, payment transactions, room management and communication logs may need to be gathered and stored by the system. These data sources might include a mix of streamed data from payment management and structured data from databases that will be collect from students based on their UTM id and they can update their profile before they select their room at KTDI.
+- Data Sources:<br>Data on students application, room allocation, payment transactions, room management and maintenance subsystem may need to be gathered and stored by the system. These data sources might include a mix of streamed data from payment management and structured data from databases that will be collect from students based on their UTM id and they can update their profile before they select their room at KTDI.
 
-  
-- Data Schema:<br>The system's required functionality, such as centralised dashboard,students registration, payment processing, room allocation, room management, security, user management and reporting and analytics should be supported by the data schema. The schema ought to be created to make it simple to access and retrieve the data.
+- Data Schema:<br>The system's required functionality, such as centralised dashboard, hostel application, payment processing, room allocation, room management, security, user management and reporting and analytics should be supported by the data schema. The schema ought to be created to make it simple to access and retrieve the data.
 
+- Data Transformations:<br> In order to guarantee the data's accuracy, consistency and completeness, the system might need to alter it. Validating payment transactions, updating room availability, and producing reports are a few examples of transformations. A number of technologies, including computer languages like JavaScript and SQL. Bootstrap then functions as the framework to design our system for KTDI and it could be used to do these modifications.
   
-- Data Transformations:<br> In order to guarantee the data's accuracy, consistency and completeness, the system might need to alter it. Validating payment transactions, updating room availability, and producing reports are a few examples of transformations. A number of technologies, including computer languages like JavaScript, R, and MySQL,Bootstrap function as the framework to design our system for KTDI and it could be used to do these modifications.
+- Data Visualization Tools:<br> For the management team to receive insights or trends, the system may need to produce data visualisations. These visualisations could show patterns in maintenance requests, payment transaction trends, or occupancy rates. Hence, programmes like Tableau or Power BI are considered.
+  
+- Programming Languages:<br> PHP for the backend development; HTML, CSS and JavaScript with React for the frontend development.
 
-  
-- Machine Learning Algorithms:<br> The KTDI Student Accommodation System may not immediately benefit from the use of machine learning methods. However, the system could use UTM portal as web based program to assign rooms in accordance with student preferences and accessibility.
+- Frameworks and Libraries:<br> Bootstrap as web development framework, which is an open-source toolkit with HTML, JS, and CSS; D3.js with Chart.js is used for data processing and visualisation.
 
-  
-- Data Visualization Tools:<br> For the management team to receive insights or trends, the system may need to produce data visualisations. These visualisations could show patterns in maintenance requests, payment transaction trends, or occupancy rates. To make these visualisations, one may use programmes like Tableau or Power BI.
-  
-- Programming Languages, Frameworks and Libraries:<br>Developers utilise Bootstrap as framework, PHP for the backend, HTML, CSS and JavaScript with React for the frontend and D3.js with Chart.js for data processing and visualisation for the Kolej Tun Dr Ismail (KTDI) student accommodation system. These technologies are helpful to developers since they are well-documented and frequently used in the field.
-  
-- Hardware and software requirements
- <ul>i. Hardware Requirements:<br>
-  •	A computer with a processor of at least 2 GHz or higher<br>
-  •	A minimum of 16 GB RAM<br>
-  •	Sufficient storage space to store the system files and database<br>
-  •	A stable internet connection</ul>
-  
- <ul>ii. Software Requirements:<br>
-  •	An operating system such as Windows, Linux, or macOS<br>
-  •	A code editor such as Visual Studio Code and Bootstrap Studio</ul>
-  
-- Data security:<br> Several steps that can be taken to ensure the security of the Kolej Tun Dr Ismail (KTDI) Student Accommodation System, including secure login procedures, data encryption, routine backups and disaster recovery plans. For example, the users are asked to create the best and strongest possible password in order to protect their data from being leaked by irresponsible parties. The most recent security patches for software and applications should be continuously updated to fix vulnerabilities. Users should be instructed on the best data security practises, which a user guideline will be provided by us and the system can be protected by putting in place physical security measures.
+These technologies are helpful in developing our proposed system since they are well-documented and frequently used in the field of software development.
 
+ - Hardware Requirements:<br>
+  -	A computer with a processor of at least 2 GHz which is good enough for web browsing.<br>
+  -	A minimum of 16 GB RAM memory to ensure the extra speed and smooth functioning.<br>
+  -	A minimum of 100 GB storage space to store the system files and database.<br>
+  -	A screen with resolution of at least 1920x1080 to display a sharper picture.</ul>
+  
+ - Software Requirements:<br>
+  - An operating system such as Windows, Linux, or macOS.<br>
+  - A database management system such as MySQL to add, access, and process data stored in a computer database.<br>
+  -	A Integrated Development Environment (IDE) such as Visual Studio Code for code editing.<br>
+  - A code hosting platform such as GitHub for version control and collaboration.</ul>
+  
+- Data security:<br> Several steps will be implemented to ensure the security of the Kolej Tun Dr Ismail (KTDI) Student Accommodation System, including secure login procedures, data encryption, routine backups and disaster recovery plans. For example, the users are asked to create the best and strongest possible password to protect their data from being leaked by irresponsible parties. The most recent security patches for software and applications should be continuously updated to fix vulnerabilities. Users should be instructed on the best data security practices, which will be provided with a user guideline, and the system can be protected by putting in place physical security measures.
 
 ---
 
