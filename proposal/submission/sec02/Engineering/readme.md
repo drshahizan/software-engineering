@@ -184,11 +184,9 @@ Overall, a thorough risk assessment should be conducted to identify and mitigate
 
 1. Software Development Life Cycle (SDLC) methodologies: There are several SDLC methodologies that can be used in developing the parcel system, such as Agile, Waterfall, and DevOps. Understanding these methodologies and selecting the most appropriate one for the project can be helpful in guiding the development process.
 
-2. Payment Gateways and Shipping Providers: Understanding the different payment gateways and shipping providers available can be helpful in designing the parcel system's payment and shipping functionality.
+2. Cloud Services: Utilizing cloud services such as Google Cloud and Github provide scalable and cost-effective infrastructure for the parcel system.
 
-3. Cloud Services: Utilizing cloud services such as AWS, Google Cloud, or Microsoft Azure can provide scalable and cost-effective infrastructure for the parcel system.
-
-4. Software Development Tools: Utilizing software development tools such as Git can be helpful in streamlining the development process and ensuring code quality.
+3. Software Development Tools: Utilizing software development tools such as Git can be helpful in streamlining the development process and ensuring code quality.
 
 
 
