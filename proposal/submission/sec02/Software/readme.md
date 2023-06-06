@@ -208,7 +208,7 @@ The proposed system architecture can be visualized using the following flowchart
 
 Diagram that represents our proposed system architecture :
 
-![SystemAchitecture](https://user-images.githubusercontent.com/128119778/236140524-f8a3d4af-3bc0-4ea2-a0fc-d5d803b864f2.png)
+![SystemAchitecture](https://github.com/drshahizan/software-engineering/assets/128119778/2575e5db-931a-4b5d-8af9-35b8d5639821)
 
 In summary, the proposed system architecture for Student Health and Wellness Management System will be a four-tier architecture consisting of the presentation tier, application tier, data tier and also security tier. It will utilize modern system and mobile technologies, a relational database management system, encryption technologies, and authentication and authorization mechanisms to ensure data security and privacy. To guarantee data security and privacy, it will make use of modern online technologies, a relational database management system, encryption technologies, and authentication and authorisation procedures. Multiple tools and frameworks will be used collaboratively for data visualisation and analysis.
 
