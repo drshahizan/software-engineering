@@ -148,29 +148,29 @@ Agile methodology is most suitable for this project because it guarantees short 
 ---
 
 ### 6. Budget:
-For the student health and wellness management system which involves around 2000 users in Kolej Tun Dr. Ismail (KTDI), the estimated budget is **RM 570,000**. The budget includes the costs for 6 months of development and 6 months of maintenance for the system.
+For the student health and wellness management system which involves around 2000 users in Kolej Tun Dr. Ismail (KTDI), the estimated budget is **RM 457,000**. The budget includes the costs for 6 months of development and 6 months of maintenance for the system.
 - Hardware: **RM 45,000**\
-This could include purchasing or renting servers, storage devices, networking equipment, computers and other hardware necessary for the development and maintenance of the system. The cost might differ depending on the latest requirements of the system and the hardware components chosen.
+This could include purchasing or renting servers, storage devices, networking equipment, computers and other hardware necessary for the development and maintenance of the website. The cost might differ depending on the latest requirements of the website and the hardware components chosen.
 
-- Software: **RM 10,000**\
-This could include purchasing or licensing software such as operating systems, system development tools, and security software. The cost of software might differ depending on the latest requirements of the system, the number of licenses required, and the software tools and platforms chosen. To save on software costs, an open-source solution like the MySQL and PHP (LAMP) stack is a suitable alternative, with no cost initially required.
+- Software: **RM 0**\
+This could include purchasing or licensing software such as operating systems, web development tools, and security software. The cost of software might differ depending on the latest requirements of the website, the number of licenses required, and the software tools and platforms chosen. To save on software costs, an open-source solution like the MySQL and xamp is a suitable alternative, with no cost initially required.
 
 - Testing: **RM 15,000**\
-It requires specialized tests such as functional, performance and security tests to ensure the system functions correctly and meets the requirements. These tests require purchasing and installing specialized test equipment, software and other services that come with their own costs.
+It requires specialized tests such as functional, performance and security tests to ensure the website functions correctly and meets the requirements. These tests require purchasing and installing specialized test equipment, software and other services that come with their own costs.
 
 - Maintenance: **RM 60,000**\
-This could include post-launch support and bug fixes for 6 months after the system is developed. This budget not only covers the cost of fixing any issues that arise during the maintenance period, but also the addition of new features and the development of any technical upgrades that are required to ensure the system is secure and up-to-date.
+This could include post-launch support and bug fixes for 6 months after the website is developed. This budget not only covers the cost of fixing any issues that arise during the maintenance period, but also the addition of new features and the development of any technical upgrades that are required to ensure the website is secure and up-to-date.
 
 - Security: **RM 20,000**\
-This might involve setting in place security measures like firewalls, encryption and frequent security audits to safeguard user data and prevent any cyberattacks. The cost of security implementation might differ based on the system needs as well as the providing services chosen.
+This might involve setting in place security measures like firewalls, encryption and frequent security audits to safeguard user data and prevent any cyberattacks. The cost of security implementation might differ based on the website needs as well as the providing services chosen.
 
 - Personnel: **RM 267,000**\
 This could include salaries or fees for the development team members such as developer,user experience designer, quality assurance tester, documentation specialists and requirements analyst designer. The cost for a development team will vary according to their expertise and skill.
 
 - Contingency: **RM50,000**\
-This could include additional funds set aside for any potential expenses or changes in project scope that might occur throughout the system's development and maintenance phases. Such a budget can assist with dealing with possible delays, revisions in the project's scope or any other sudden changes that need additional financial resources. 
+This could include additional funds set aside for any potential expenses or changes in project scope that might occur throughout the website's development and maintenance phases. Such a budget can assist with dealing with possible delays, revisions in the project's scope or any other sudden changes that need additional financial resources. 
 
-In conclusion, the estimated budget is **RM 467,000** which covers the costs for hardware, software, testing, maintenance, security, personnel and contingency. Any potential budget alterations must be relayed to stakeholders and project sponsors.
+In conclusion, the estimated budget is **RM 457,000** which covers the costs for hardware, software, testing, maintenance, security, personnel and contingency. Any potential budget alterations must be relayed to stakeholders and project sponsors.
 
 ---
 
@@ -218,15 +218,13 @@ In summary, the proposed system architecture for Student Health and Wellness Man
 In general, every project can be influenced by risk so they required a special assessment procedure of the potential risks that could lead to the project's failure or loss if they occur. To develop a student health and wellness management system, the possible risks are: 
 | Potential Risks                     | Explanations                                        | Plans/Strategies         |
 | ------------------------------ | -------------------------------------------- | ----------------- |
-| **Security risks**              | The system may contain sensitive information such as student health information like lab test results which could be targeted by hackers. This could result in the theft of personal medical information, leading to identity theft and other forms of fraud.   | <ul><li>Implementing robust security measures such as SSL certificates, two-factor authentication, encryption and frequent system security updates. </li> <li>Constantly evaluating the system's security to find any weaknesses.</li></ul> |
-| **Technical risks**         | The system may experience technical issues such as system failures, compatibility issues and downtime. | <ul><li>Utilizing tools and technologies that are industry standard, carrying out extensive testing and quality assurance throughout the development process. </li> <li>Making sure that the system is scalable and can manage possible increases in user numbers and data volume.</li></ul>    |
+| **Security risks**              | The system may contain sensitive information such as student health information like lab test results which could be targeted by hackers. This could result in the theft of personal medical information, leading to identity theft and other forms of fraud.   | <ul><li>Implementing robust security measures such as SSL certificates, two-factor authentication, encryption and frequent website security updates. </li> <li>Constantly evaluating the website's security to find any weaknesses.</li></ul> |
+| **Technical risks**         | The website may experience technical issues such as system failures, compatibility issues and downtime. | <ul><li>Utilizing tools and technologies that are industry standard, carrying out extensive testing and quality assurance throughout the development process. </li> <li>Making sure that the system is scalable and can manage possible increases in user numbers and data volume.</li></ul>    |
 | **User experience risks** | The system may not meet the expectations of users, leading to dissatisfaction and low adoption rates.           | <ul><li>Gathering user feedback and conducting research with usability testing throughout the development phase to reduce experience risks and create an accessible portal for all users. </li> <li> Installing feedback channels and periodically requesting user input can allow for bugs and usability issues to be identified and addressed before the system is complete.</li></ul> |
 | **Compliance risks**   | The system may not comply with regulatory requirements, such as data protection laws or healthcare regulations like PDPA, leading to penalties, fines, and legal action.         |<ul><li> Regularly evaluating and monitoring the system to guarantee that it adheres to all applicable laws and regulations. </li> <li>Staying up to date on any modifications to laws and industry standards is vital and it should be implemented while maintaining full compliance.</li></ul>|
 | **Budget and timeline risks**           | During the development and maintenance of the system, the allocated budget or timeline might exceed due to any potential challenges.   | <ul><li>Establishing a reasonable timeline and budget to complete the system. </li> <li>Regular assessing the project to review its progress and uncover potential strategies that can help to reduce costs and hasten the development process. </li></ul>|
 
 In conclusion, the potential risks that might face during the development and maintenance of student health and wellness system are security risks, technical risks, user experience risks, compliance risks and budget and timeline risks. To ensure the creation of a successful student health and wellness system, a complete risk assessment should be carried out in order to identify, evaluate and address any potential concerns.
-
----
 
 ### 9. Resources:
  - Main Developer : Goh Jiale
@@ -267,16 +265,13 @@ c. **Software Resources** :
   - Bootstrap Studio
     - RM 0/year
     - Used for developing the interface of the system. It provides a big library of pre-built components which makes it simpler to develop a user-friendly and aesthetically pleasing system
-  - System server
-    - RM 2,500/year
-    - Used for hosting the system
-  - Relational Database Management System (RDBMS)
-    - RM 4,000/year
-    - Used for managing the database for the system
+  - Figma
+    - RM 0/year
+    - Used for UI design
   - Cloud Service
-    - RM 3,500/year
+    - RM 0/year
     - Used for providing access to computing resources over the internet
-<p>Total Software Cost: RM 10,000/year</p>
+<p>Total Software Cost: RM 0/year</p>
 
 d. **Other Resources** :
   - Testing fees
@@ -289,7 +284,7 @@ d. **Other Resources** :
     - RM 50,000/year
 <p>Total Other Cost: RM 145,000/year</p>
 
-In conclusion, the total estimated cost is ***RM 467,000/year***.
+In conclusion, the total estimated cost is ***RM 457,000/year***.
 
 ---
 
