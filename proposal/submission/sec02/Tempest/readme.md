@@ -116,6 +116,8 @@ Testing : RM 10,000
 Back-up funds: RM 30,000
 - Backup funds are an important part of project management and are typically set aside to provide a cushion against unexpected expenses that may impact the project's budget. The exact amount of backup funds required will depend on the project's size, complexity, and risk profile. It is important to budget for backup funds to ensure that the project can be completed successfully even in the event of unexpected expenses.
 
+Total Budget : RM 83,000
+
 ## 7. System Architecture:
 The Badal Hajj and Umrah Management System is a web-based application that facilitates the management of Hajj and Umrah pilgrimages for individuals or groups. The system architecture consists of the following components:
 
