@@ -702,12 +702,13 @@ The development team of this project will create test cases and scenarios to cov
         </tr>
         <tr>
           <td>Task Page</td>
-            <ul>
-              <li>Distribute task</li>
-              <li>Update progress</li>
-              <li>View progress</li>
-            </ul> 
-          </td>
+            <td>
+              <ul>
+                <li>Distribute task</li>
+                <li>Update progress</li>
+                <li>View progress</li>
+              </ul> 
+            </td>
           <td>JKM, KTDI Staff</td>
         </tr>
         <tr>
