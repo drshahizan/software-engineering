@@ -174,7 +174,7 @@ Here is the phases of agile model that can be applied to the development of a st
 </ul>
 
 ### 6. Budget
-There will be a number of costs associated with the creation of a student engagement system that will serve about 40,000 users, including hardware, software, personnel, testing, contingency, and others. This project is expected to cost **RM 126,000**, as shown in the following breakdown:
+There will be a number of costs associated with the creation of a student engagement system that will serve about 40,000 users, including hardware, software, personnel, testing, contingency, and others. This project is expected to cost **RM 176,000**, as shown in the following breakdown:
 </p>
 
 #### Hardware: RM 80,000
@@ -204,7 +204,7 @@ There will be a number of costs associated with the creation of a student engage
 
 #### Others: RM 50,000
 
-In conclusion, it is anticipated that RM 126,000 will be needed to develop the student engagement system. Costs associated with staff, testing, hardware, software, and contingency will all be covered by the budget. Stakeholders and project sponsors will be informed of any budget changes.
+In conclusion, it is anticipated that RM 176,000 will be needed to develop the student engagement system. Costs associated with staff, testing, hardware, software, and contingency will all be covered by the budget. Stakeholders and project sponsors will be informed of any budget changes.
 
 
 
