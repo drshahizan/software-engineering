@@ -185,15 +185,13 @@ Technical specifications play a vital role in the success of any project. Here a
 
 2. **Data schema**: The data schema will be designed to store data in a structured format that can be easily queried and analyzed. The schema will be flexible enough to accommodate changes in data sources or requirements.
 
-3. **Data transformations**: The data will be transformed using ETL (Extract, Transform, Load) processes to clean, preprocess, and enrich the data. The data transformations will be designed to handle missing values, outliers, and other anomalies in the data.
+3. **Machine learning algorithms**: Machine learning algorithms will be used to extract insights from the data. The algorithms will include supervised and unsupervised learning techniques, such as classification, regression, clustering, and anomaly detection.
 
-4. **Machine learning algorithms**: Machine learning algorithms will be used to extract insights from the data. The algorithms will include supervised and unsupervised learning techniques, such as classification, regression, clustering, and anomaly detection.
+4. **Data visualization tools**: The data will be visualized using interactive dashboards and charts. The visualization tools will be selected based on their ability to handle large volumes of data and provide real-time insights.
 
-5. **Data visualization tools**: The data will be visualized using interactive dashboards and charts. The visualization tools will be selected based on their ability to handle large volumes of data and provide real-time insights.
+5. **Programming languages, frameworks, and libraries**: The project will be developed using a combination of programming languages, frameworks, and libraries, HTML, CSS and Figma.
 
-6. **Programming languages, frameworks, and libraries**: The project will be developed using a combination of programming languages, frameworks, and libraries, HTML, CSS and Figma.
-
-7. **Hardware and software requirements**: The proposed system will require a robust hardware and software infrastructure. The hardware requirements will include high-performance servers with sufficient RAM, storage, and processing power. The software requirements will include operating systems, databases, web servers, and other software components.
+6. **Hardware and software requirements**: The proposed system will require a robust hardware and software infrastructure. The hardware requirements will include high-performance servers with sufficient RAM, storage, and processing power. The software requirements will include operating systems, databases, web servers, and other software components.
 
 ### 11. Timeline and Deliverables: 
 1. **Milestone 1: Project Planning and Requirements Gathering**
