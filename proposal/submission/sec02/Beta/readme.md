@@ -151,7 +151,7 @@ It's essential to note that these are just estimates, and the actual cost may va
 ## 7. System Architecture:
 Case Diagram of Food Ordering System at UTM:
   
-<img src="https://user-images.githubusercontent.com/129138344/235473667-dc36d5a2-8026-4b8d-80ff-711d471ef2b3.png" alt="Alt text" width="400" height="500">
+<img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/project/documentation/srs/sec02/beta/UML%20Diagram/casediagram.drawio.png" alt="Use Case Diagram" width="450" height="600" style="border: 1px solid black;">
 The Customer actor can perform the following use cases:
 
 - **Register/Login:** This use case allows the Customer to register or login to their account.
@@ -275,94 +275,13 @@ Total Estimated Cost: RM 1,900,000
 
 ## 11. Timeline and Deliverables: 
 
-### Phase 1: Planning and Analysis (Week 1-2)
+| Phase | Milestones and Deliverables | Resources Required |
+|-------|----------------------------|--------------------|
+| Phase 1: Planning and Analysis (Week 1-2) | - Feasibility study report <br> - Project proposal document <br> - Project team assembled with assigned roles <br> - Project plan | - Feasibility study report templates <br> - Project management software <br> - Collaboration tools for remote communication |
+| Phase 2: Design and Prototyping (Week 3-6) | - SRS document <br> - User requirements and functional specifications document <br> - User interface design prototypes or mockups <br> - Database schema and architecture document <br> - Technical specifications and framework choices document | - Wireframing and prototyping tools <br> - Collaboration tools for remote communication <br> - Database design software <br> - Technical specification templates |
+| Phase 3: Development and Testing (Week 7-11) | - SDD document <br> - Fully functional food ordering system <br> - Payment gateway integration <br> - Order management system <br> - Test cases and bug reports | - Web development frameworks and tools <br> - Payment gateway integration software <br> - Testing software and tools <br> - Collaboration tools for remote communication |
+| Phase 4: Documentation and Deployment (Week 12-14) | - STD document <br> - Deployed food ordering system <br> - User manuals and maintenance plan <br> - Support documentation | - Documentation templates <br> - Web hosting or cloud platform <br> - User training materials <br> - Collaboration tools for remote communication |
 
-- Conduct a feasibility study to identify the need for a food ordering system and how it can benefit your university
-- Write a project proposal outlining the objectives, scope, and expected outcomes of the project
-- Assemble a project team and allocate roles and responsibilities
-- Identify the key stakeholders and gather their input and feedback
-- Create a project plan outlining timelines, milestones, and deliverables
-
-### Milestones and Deliverables:
-
-- Feasibility study report
-- Project proposal document
-- Project team assembled with assigned roles
-- Project plan
-
-### Resources Required:
-
-- Feasibility study report templates
-- Project management software
-- Collaboration tools for remote communication
-
-### Phase 2: Design and Prototyping (Week 3-6)
-
-- Write the software requirements specification (SRS)
-- Define user requirements and functional specifications
-- Create wireframes, mockups, or prototypes of the user interface design
-- Define the database schema and architecture
-- Identify the technical specifications and choose the appropriate technologies and frameworks
-- Conduct user testing and gather feedback to refine the design
-  
-### Milestones and Deliverables:
-
-- SRS document
-- User requirements and functional specifications document
-- User interface design prototypes or mockups
-- Database schema and architecture document
-- Technical specifications and framework choices document
-
-### Resources Required:
-
-- Wireframing and prototyping tools
-- Collaboration tools for remote communication
-- Database design software
-- Technical specification templates
-
-### Phase 3: Development and Testing (Week 7-11)
-
-- Write software design document (SDD)
-- Implement frontend and backend functionalities based on the design and technical specifications
-- Develop the payment gateway and order management system
-- Test the system to ensure its functionality, security, and performance
-- Fix bugs and errors based on user feedback
-
-### Milestones and Deliverables:
-
-- SDD document
-- Fully functional food ordering system
-- Payment gateway integration
-- Order management system
-- Test cases and bug reports
-
-### Resources Required:
-
-- Web development frameworks and tools
-- Payment gateway integration software
-- Testing software and tools
-- Collaboration tools for remote communication
-
-### Phase 4: Documentation and Deployment (Week 12-14)
-
-- Write the software testing document (STD)
-- Deploy the system on a web server or cloud platform
-- Provide user training and support
-- Establish a maintenance plan and bug fixing
-
-### Milestones and Deliverables:
-
-- STD document
-- Deployed food ordering system
-- User manuals and maintenance plan
-- Support documentation
-
-### Resources Required:
-
-- Documentation templates
-- Web hosting or cloud platform
-- User training materials
-- Collaboration tools for remote communication
 
 
 ## 12. Conclusion:
