@@ -28,7 +28,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>A22EC0042</td>
   </tr>
   <tr>
-    <td><img src="photo/BerniceLimJX.png" style="margin: 0 auto;width: 200px"></td>
+    <td><img src="photo/tjy.jpg" style="margin: 0 auto;width: 200px"></td>
     <td><img src="photo/Yutongchai.jpg" style="margin: 0 auto;width: 200px"></td>
     <td><img src="photo/Jesslyn19.jpg" style="margin: 0 auto;width: 200px"></td>
     <td><img src="photo/cph.png" style="margin: 0 auto;width: 200px"></td>
