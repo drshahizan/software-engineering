@@ -130,7 +130,7 @@ Testing methodologies such as unit testing, integration testing, system testing,
 </ol>
 
 ### 9. Resources:
-The development of UTM Student Attendance Management System for around 20,000 users in UTM will involve many costs that are required, such as team salaries, software tool, hardware and infrastructure, training and professional development and other expenses that are unexpected. So the budget for this project in 1 year is estimated at RM 498,900 and the details are stated below: 
+The development of UTM Student Attendance Management System for around 20,000 users in UTM will involve many costs that are required, such as team salaries, software tool, hardware and infrastructure, training and professional development and other expenses that are unexpected. So the budget for this project in 3 months is estimated at RM 198 400 and the details are stated below: 
 #### Staff: RM 55 500
 <table>
 <tr>
