@@ -157,7 +157,7 @@ The following tools and technologies will be used to develop and deploy the acad
 **Staff**:
 
 1. Main Developer: responsible for managing the project, ensuring that it is delivered on time, within budget, and to the required quality. The project manager will need to have experience in managing software development projects and be proficient in project management tools and methodologies.
-2. UX/UI Designer:  responsible for designing and developing the user interface of the academic support app using HTML and CSS. Responsible for developing the server-side logic, API, and database using Node.js and MongoDB.
+2. UX/UI Designer:  responsible for designing and developing the user interface of the academic support app using HTML and CSS. Responsible for developing the server-side logic, Figma and Draw.io.
 3. QA/ Test Engineer: responsible for testing the app and ensuring that it meets the functional and non-functional requirements.
 4. Technical Lead: responsible for analyzing the app usage and providing insights to improve the app.
 
@@ -170,11 +170,9 @@ The following tools and technologies will be used to develop and deploy the acad
 **Software**:
 
 1. HTML and CSS editor such as Visual Studio Code or Sublime Text
-2. Node.js and MongoDB for server-side development
-3. Project management software such as Trello or Asana
+2. Draw.io for server-side development
+3. Project management software such as Figma
 4. Version control software such as Git and GitHub
-5. Testing tools such as Mocha and Chai
-6. Data visualization and analysis tools such as Tableau or Power BI
 
 <!--**Other Expenses**:
 
@@ -197,7 +195,7 @@ Technical specifications play a vital role in the success of any project. Here a
 
 5. **Data visualization tools**: The data will be visualized using interactive dashboards and charts. The visualization tools will be selected based on their ability to handle large volumes of data and provide real-time insights.
 
-6. **Programming languages, frameworks, and libraries**: The project will be developed using a combination of programming languages, frameworks, and libraries, including Python, Flask, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, and Plotly.
+6. **Programming languages, frameworks, and libraries**: The project will be developed using a combination of programming languages, frameworks, and libraries, HTML, CSS and Figma.
 
 7. **Hardware and software requirements**: The proposed system will require a robust hardware and software infrastructure. The hardware requirements will include high-performance servers with sufficient RAM, storage, and processing power. The software requirements will include operating systems, databases, web servers, and other software components.
 
