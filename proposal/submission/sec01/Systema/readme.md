@@ -313,7 +313,7 @@ Block Diagram:
 | Frameworks | ReactJS |
 | Libraries | Bootstrap, jQuery |
 | Hardware Requirements | <ul><li>Processor: A multi-core processor</li><li>RAM: 8GB or higehr</li><li>Storage: 50GB or higher</li><li>Display: Resolution of 1920x1080 or higher</li></ul> |
-| Software Requirements | <ul><li>Operating system: Windows 10 or higher</li><li>IDE: Visual Studio Code, Bootstrap Studio</li><li>Web server: Node.js and Express.js</li><li>Database: MySQL</li><li> Version control: Git</li></ul> |
+| Software Requirements | <ul><li>Operating system: Windows 10 or higher</li><li>IDE: Visual Studio Code, Bootstrap Studio</li><li>Web server: Google Web Server</li><li>Database: MySQL</li><li> Version control: Git</li></ul> |
 
 
 ### 11. Timeline and Deliverables
