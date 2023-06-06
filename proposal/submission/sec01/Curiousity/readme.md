@@ -680,39 +680,50 @@ The development team of this project will create test cases and scenarios to cov
       </thead>
       <tbody>
         <tr>
-          <td>Login Page</td>
+          <td>Login/Sign Up Page</td>
           <td>Authentication</td>
-          <td>JKM, KTDI College Office Staff, Fellow members</td>
+          <td>JKM, KTDI Staff, Student</td>
         </tr>
         <tr>
-          <td>Calendar</td>
-          <td>Scheduling</td>
-          <td>JKM, KTDI College Office Staff, Fellow members</td>
+          <td>Home Page</td>
+          <td>Navigation</td>
+          <td>JKM, KTDI Staff, Student</td>
         </tr>
         <tr>
-          <td>Event Menu</td>
-          <td>Venue / Location Booking System</td>
-          <td>JKM, KTDI College Office Staff</td>
+          <td>Event Calendar Page</td>
+          <td>
+            <ul>
+              <li>Scheduling</li>
+              <li>Update event</li>
+              <li>Register event</li>
+            </ul> 
+          </td>
+          <td>JKM, KTDI Staff, Student</td>
         </tr>
         <tr>
-          <td>Event Menu</td>
-          <td>Paperwork Management Process</td>
-          <td>JKM, KTDI College Office Staff, Fellow members</td>
+          <td>Task Page</td>
+            <ul>
+              <li>Distribute task</li>
+              <li>Update progress</li>
+              <li>View progress</li>
+            </ul> 
+          </td>
+          <td>JKM, KTDI Staff</td>
         </tr>
         <tr>
-          <td>Event Menu</td>
-          <td>Status Progress</td>
-          <td>JKM, KTDI College Office Staff, Fellow members</td>
+          <td>Active Quota Page</td>
+          <td>View student quota</td>
+          <td>JKM, KTDI Staff</td>
         </tr>
         <tr>
-          <td>Event Menu</td>
-          <td>Status Approval</td>
-          <td>JKM, KTDI College Office Staff, Fellow members</td>
-        </tr>
-        <tr>
-          <td>Record Section</td>
-          <td>Upload Document Function</td>
-          <td>JKM, KTDI College Office Staff, Fellow members</td>
+          <td>Profile Page</td>
+          <td>
+            <ul>
+              <li>View personal details</li>
+              <li>View registered events</li>
+            </ul>
+          </td>
+          <td>JKM, KTDI Staff, Student</td>
         </tr>
       </tbody>
     </table>
