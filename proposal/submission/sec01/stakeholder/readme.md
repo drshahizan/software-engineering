@@ -239,8 +239,10 @@ MySQL will be used as the Relational Database Management System (RDBMS) to store
 Hardware and software requirements are crucial components of our proposed system architecture. Managing the KTDI's student accomodation system's hardware and software requirements could be done as follows:
 
 i. Hardware requirements 
-- Server: For database management.
-- Cloud hosting service: For the web platform.
+- A computer with a processor of at least 2 GHz or higher.
+- A minimum of 8 GB RAM.
+- Sufficient storage space to store the system files and database.
+- A stable internet connection.
   
 ii. Software requirements 
 - ReactJS as the font-end JavaScript library for development of interactive website user interface.
