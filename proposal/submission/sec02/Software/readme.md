@@ -100,7 +100,7 @@ Agile methodology is most suitable for this project because it guarantees short 
 
 
 <div align="justify">
-    <img src="https://user-images.githubusercontent.com/128198038/236139357-9e0a01b8-516e-4881-8f1e-9190ea92fcf0.png" alt="alt text" />
+    <img src="https://i.ibb.co/jbXQbC8/Software-Process-Model.png" alt="Software-Process-Model" border="0">
 </div>
 
 #### Gathering Requirements Phase:
