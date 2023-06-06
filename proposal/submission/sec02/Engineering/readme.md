@@ -157,7 +157,7 @@ Overall, the cost of developing a basic parcel delivery system for a university 
 
 2. Application Layer: This layer will consist of the server-side logic that powers the parcel system. The application layer will be built using a modern web framework such as Ruby on Rails or Django. This layer will be responsible for handling user requests, processing data, and communicating with the database.
 
-3. Database Layer: This layer will consist of the database system that stores all the data related to the parcel system. The database will be designed using a relational database management system such as PostgreSQL or MySQL. The database will store information such as user accounts, parcel information, and transaction history.
+3. Database Layer: This layer will consist of the database system that stores all the data related to the parcel system. The database will be designed using a relational database management system such as MySQL. The database will store information such as user accounts, parcel information, and transaction history.
 
 4. Integration Layer: This layer will consist of APIs and other integration points that allow the parcel system to communicate with other systems and services. This layer may include integrations with payment gateways, shipping providers, and other third-party services.
 
