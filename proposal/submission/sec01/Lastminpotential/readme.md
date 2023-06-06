@@ -18,7 +18,7 @@ Don't forget to hit the :star: if you like this repo.
   3. Tan Jun Yuan A22EC0107
   4. Chen Pyng Haw A22EC0042
 
-<img src="interviewWithDean.jpg" alt="Meeting with Dean of Faculty of Computing">
+<img src="interviewWithDean.jpg" alt="Meeting with Dean of Faculty of Computing" width="100" height="48" >
 
 ### Table of Contents
  |No.  | Content |
