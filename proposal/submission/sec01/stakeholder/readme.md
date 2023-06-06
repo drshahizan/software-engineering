@@ -140,8 +140,6 @@ The scope refers to the boundaries of the project and outlines the features and 
 
 - Support and maintenance: <br>Residents or students should be able to report problems any problem faced in the accommodation system, such as bugs through the system's help desk and there should be a dedicated team working to quickly resolve these problems.
 
-- Agile methodology: <br>Agile methodology is used for the software process model in the system development due to its flexibility in updating the stakeholders' requirements and sastification. Modification will be done several times until the best system is developed. 
-  
 - The system will be limited to Kolej Tun Dr Ismail (KTDI) only and the decision phase of the final result on room application will be done by the AIMS system of UTM. Also, the data privacy and security of the users maybe a concern as our proposed system will not cover it.
 
 ---
@@ -239,8 +237,10 @@ MySQL will be used as the Relational Database Management System (RDBMS) to store
 Hardware and software requirements are crucial components of our proposed system architecture. Managing the KTDI's student accomodation system's hardware and software requirements could be done as follows:
 
 i. Hardware requirements 
-- Server: For database management.
-- Cloud hosting service: For the web platform.
+- A computer with a processor of at least 2 GHz or higher.
+- A minimum of 8 GB RAM.
+- Sufficient storage space to store the system files and database.
+- A stable internet connection.
   
 ii. Software requirements 
 - ReactJS as the font-end JavaScript library for development of interactive website user interface.
