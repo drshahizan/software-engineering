@@ -14,23 +14,23 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Group | Title | Document |
 | :-----: | ------ | ------ | :------: | 
-| 1 | Curiousity | UTM Events Management System |<a href="submission/sec01/Curiousity" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
-| 2 | Lastminpotential | UTM Library Management System |<a href="submission/sec01/Lastminpotential" ><img src="../../images/task.png" width="24px" height="24px" ></a> |
-| 3 | Limapuluh | UTM Student Feedback System |<a href="submission/sec01/Limapuluh" ><img src="../../images/task.png" width="24px" height="24px" ></a> |
-| 4 | Cutie | UTM Student Attendance Management System |<a href="submission/sec01/cutie" ><img src="../../images/task.png" width="24px" height="24px" ></a> | <
-| 5 | Systema | Student Engagement | <a href="submission/sec01/Systema" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
-| 6 | Stakeholder | Student Accomodation System in KTDI |<a href="submission/sec01/stakeholder" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
+| 1 | Curiousity | KTDI Events Management System |<a href="../submission/sec01/Curiousity" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
+| 2 | Lastminpotential | Faculty of Computing Feedback System |<a href="../submission/sec01/Lastminpotential" ><img src="../../images/task.png" width="24px" height="24px" ></a> |
+| 3 | Limapuluh | UTM Student Feedback System |<a href="../submission/sec01/Limapuluh" ><img src="../../images/task.png" width="24px" height="24px" ></a> |
+| 4 | Cutie | UTM Student Attendance Management System |<a href="../submission/sec01/cutie" ><img src="../../images/task.png" width="24px" height="24px" ></a> | <
+| 5 | Systema | UTM Faculty of Computing Student Engagement System | <a href="../submission/sec01/Systema" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
+| 6 | Stakeholder | Student Accomodation System in KTDI |<a href="../submission/sec01/stakeholder" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
 
 ## Section 2
 
 | No | Group | Title | Document |
 | :-----: | ------ | ------ | :------: | 
-| 1 | Allen | KTDI Dewi Kayangan Enterprise Online System |<a href="submission/sec02/Allen" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
-| 2 | Alpha | College Room Rental System |<a href="submission/sec02/Alpha" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
-| 3 | Beta | Food Ordering System in UTM |<a href="submission/sec02/Beta" ><img src="../../images/task.png" width="24px" height="24px" ></a> |
-| 4 | Engineering | Parcel Delivery Service |<a href="submission/sec02/Engineering" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
-| 5 | Program | Academic Consultation System|<a href="submission/sec02/program" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
-| 6 | Software| Student Health and Wellness Management System |<a href="submission/sec02/Software" ><img src="../../images/task.png" width="24px" height="24px" ></a> | | | 7 | Tempest | Badal Hajj and Umrah Management System|<a href="submission/sec02/Tempest" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
+| 1 | Allen | KTDI Dewi Kayangan Enterprise Online System |<a href="../submission/sec02/Allen" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
+| 2 | Alpha | College Room Rental System |<a href="../submission/sec02/Alpha" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
+| 3 | Beta | Food Ordering System in UTM |<a href="../submission/sec02/Beta" ><img src="../../images/task.png" width="24px" height="24px" ></a> |
+| 4 | Engineering | Parcel Delivery Service |<a href="../submission/sec02/Engineering" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
+| 5 | Program | Academic Consultation System|<a href="../submission/sec02/program" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
+| 6 | Software| Student Health and Wellness Management System |<a href="../submission/sec02/Software" ><img src="../../images/task.png" width="24px" height="24px" ></a> | | | 7 | Tempest | Badal Hajj and Umrah Management System|<a href="../submission/sec02/Tempest" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
