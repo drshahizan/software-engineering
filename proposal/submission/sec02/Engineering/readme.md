@@ -274,7 +274,7 @@ Overall, a thorough risk assessment should be conducted to identify and mitigate
 - Deliverable: Completed PDMS website and delivery personnel dashboard with training and support materials
 
 #### Overall Deliverable
-Completed Parcel Delivery Management System with a working website for users, a delivery personnel dashboard, and training and support materials for users and delivery personnel.
+Completed Parcel Delivery Management System with a working application for user and rider while the website version is designed for admin.
 
 
 
