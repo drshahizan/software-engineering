@@ -88,7 +88,7 @@ Our proposed parcel system aims to achieve the following objectives:
 
 3. Integration: The system will integrate with the university's existing student and faculty database, security system, and payment gateway, ensuring a seamless user experience.
 
-4. Payment Processing: The system will provide secure payment processing for parcel deliveries, allowing users to pay for parcel delivery online using their credit card or other payment methods.
+4. Payment Processing: The system will provide secure payment processing for parcel deliveries, user directly contact rider to proceed the payment.
 
 5. Notifications: The system will include a notification system to inform users when a parcel has arrived and is ready for pickup.
 
