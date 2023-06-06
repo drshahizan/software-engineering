@@ -144,13 +144,14 @@ During the launch phase, the quality assurance team will conduct tests to ensure
 
 ### 6. Budget:
 <ul>
-<li>Software development: This includes the cost of designing, developing, and testing the software for the system. This can include the cost of software development tools, licenses, and resources such as developers and testers.The budget for software development would rangfe from RM 30000-Rm42000.</li>
+<li>Software development: This includes the cost of designing, developing, and testing the software for the system. This can include the cost of software development tools, licenses, and resources such as developers and testers.The budget for software development would rangfe from RM 30000-RM42000.</li>
 <li>Hardware: This includes the cost of servers, storage, and other hardware required to host and run the software.We expect to spend around RM12000-RM24000 for hardware.</li>
 <li>Infrastructure: This includes the cost of setting up and maintaining the network infrastructure required for the system, such as routers, switches, and firewalls.Budget for this part will be around RM 5100-RM 21000.</li>
 <li>Implementation and integration: This includes the cost of implementing and integrating the system with existing institutional systems, such as learning management systems or student information systems.Budget for this part is around RM 12000-RM 24000</li>
 <li>Maintenance and support: This includes the cost of ongoing maintenance and support for the system, such as bug fixes, upgrades, and technical support.Budget for maintenance and support will be around RM 21000-RM 30000</li>
 <li>Training: We expect to spend around RM 15000-RM 21000 for this part.This includes the cost of training users and administrators on how to use the system.</li>
 <li>Miscellaneous expenses: This includes other expenses that may be required for the development and implementation of the system, such as travel expenses, legal fees, and project management costs.We expect to spend around RM15000-RM30000 for this section.</li>
+<li>Total budget will be around RM 110100-RM 192000.
 </ul>
 
 ### 7. System Architecture:
