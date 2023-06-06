@@ -372,12 +372,12 @@ The system can also help restaurants manage their orders efficiently, reducing t
 
 Overall, a food ordering system can help businesses increase their sales, improve customer satisfaction, and reduce operational costs. With the right technical specifications and features, a food ordering system can be an excellent investment for any restaurant looking to stay competitive in today's digital marketplace.
 
-
+  
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
-
+  
 ![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
 
