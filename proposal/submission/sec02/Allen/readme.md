@@ -1,6 +1,6 @@
 #  Proposal 
 
-## KTDI DEWI KAYANGAN ENTERPRISE ONLINE SYSTEM
+## KTDI MINIMARKET ONLINE SYSTEM
 
 
 ### Prepared by: 
@@ -67,7 +67,7 @@ Limitations or constraints that may affect the project could include factors suc
 ### 5. Software Process Model:
 The goal of a software process model is to provide a framework for software development that ensures the project is completed within the allocated budget, schedule, and quality standards. The software process model defines the set of activities that must be performed during the software development lifecycle.
 
-For the KTDI DEWI KAYANGAN ENTERPRISE ONLINE SYSTEM, the ideal software process model is the Agile software development process. The justification for this choice is that the Agile methodology emphasizes the iterative and incremental development of software, which is particularly well-suited for complex projects with evolving requirements. In addition, Agile methodology allows for rapid prototyping and customer feedback, which is essential in developing a mini mart online system.
+For the KTDI MINIMARKET ONLINE SYSTEM, the ideal software process model is the Agile software development process. The justification for this choice is that the Agile methodology emphasizes the iterative and incremental development of software, which is particularly well-suited for complex projects with evolving requirements. In addition, Agile methodology allows for rapid prototyping and customer feedback, which is essential in developing a mini mart online system.
 
 The Agile software development process involves the following phases:
 
@@ -134,10 +134,9 @@ Here is an estimated budget for developing the KTDI DEWI KAYANGAN ENTERPRISE ONL
 - Software licenses for development tools and software: RM45,000
 - Web hosting and domain registration fees: RM9,000
 2. Personnel costs:
-- Project manager: RM67,500
+- Project manager: RM70,500
 - Business analyst: RM45,000
-- UX/UI designer: RM54,000
-- Front-end developer: RM 112,500
+- Front-end developer: RM54,000
 - Back-end developer: RM 112,500
 - Quality assurance engineer: RM67,500
 3. Testing costs:
@@ -150,7 +149,7 @@ Here is an estimated budget for developing the KTDI DEWI KAYANGAN ENTERPRISE ONL
 It is important to note that this is an estimated budget and actual costs may vary depending on various factors such as team size, expertise, and time duration. It is recommended to regularly monitor and update the budget to ensure that the project is completed within the allocated budget and timelines.
 ### 7. System Architecture:
 - Overview:
-The KTDI Dewi Kayangan Enterprise Online System is a web-based application for managing the operations of a mini mart. It allows customers to browse and purchase products online, while providing the mini mart staff with tools for inventory management, order processing, and sales analysis.
+The KTDI Minimarket Online System is a web-based application for managing the operations of a mini mart. It allows customers to browse and purchase products online, while providing the mini mart staff with tools for inventory management, order processing, and sales analysis.
 - Data Storage and Management:
 The system will utilize a Relational Database Management System (RDBMS) for storing and managing data. The database will be hosted on a dedicated database server, ensuring data integrity and security. Regular backups will be performed to prevent data loss.
 - The proposed system architecture for the KTDI Dewi Kayangan Enterprise Online System will be a multi-tier architecture consisting of a presentation layer, application layer, and data layer as the following:
@@ -262,8 +261,6 @@ Backup Systems: Storage devices or cloud services for regular data backups.
 
 Integrated Development Environment (IDE): Software tools such as Visual Studio Code, PHPStorm, or Sublime Text for coding and development.
 
-Laravel Framework: The PHP framework for building the web application.
-
 Database Management System: MySQL or other RDBMS for data storage and retrieval.
 
 Version Control System: Git or SVN for managing source code versions.
@@ -343,7 +340,7 @@ Other than that, examples of data transformation that are planned to do are:
 
 - Combining product data with external data sources, such as weather or demographic data, to identify patterns or correlations that can help the mini mart optimize its product offerings and promotions.
 
-- Data transformation can be performed using a variety of tools and techniques, including ETL (extract, transform, load) processes, scripting languages like Python or Ruby, or specialized data transformation software.
+- Data transformation can be performed using a variety of tools and techniques, including ETL (extract, transform, load) processes or specialized data transformation software.
 #### Machine Learning Algorithms:
 
 ##### Product recommendations
@@ -394,21 +391,11 @@ Other than that, examples of data transformation that are planned to do are:
 
 - PHP: a server-side scripting language that is commonly used for web development. It is often used to create dynamic web pages and database-driven applications.
 
-- Python: a versatile programming language that can be used for a variety of tasks, including web development. It is often used for backend development and data processing.
-
-- Ruby: a dynamic, object-oriented programming language that is often used for web development. It is often used with the Ruby on Rails web application framework.
-
 - Java: a popular programming language for web development, particularly for enterprise applications. It is often used with the Spring Framework and other Java-based web development frameworks.
 
 - TypeScript: a superset of JavaScript that adds additional features, such as static typing, to improve code maintainability and scalability.
 
 #### Frameworks:
-
-- Django: a high-level Python web framework that follows the model-view-controller (MVC) architectural pattern. It includes a built-in admin panel, user authentication, and a powerful ORM for working with databases.
-
-- Ruby on Rails: a popular web framework for building database-driven web applications. It emphasizes convention over configuration and uses the Model-View-Controller (MVC) architecture.
-
-- Laravel: a PHP web framework that follows the Model-View-Controller (MVC) architectural pattern. It includes a built-in ORM for working with databases, as well as tools for user authentication and authorization.
 
 - Express.js: a popular Node.js web framework that is designed for building web applications and APIs. It is known for its simplicity and flexibility.
 
@@ -416,23 +403,11 @@ Other than that, examples of data transformation that are planned to do are:
 
 #### Libraries:
 
-##### jQuery
-- A popular JavaScript library that simplifies the process of manipulating the DOM and handling events. It can be used to build interactive and responsive user interfaces.
-
 ##### Bootstrap
 - A front-end framework that provides a set of pre-built HTML, CSS, and JavaScript components. It can be used to create responsive and mobile-first web pages and interfaces.
 
 ##### Chart.js
 - A JavaScript library for creating data visualization charts. It supports a wide range of chart types, including line, bar, pie, and radar charts.
-
-##### React
-- A JavaScript library for building user interfaces. It uses a component-based architecture and provides a way to manage state and handle user events.
-
-##### NumPy
-- A Python library for working with arrays and matrices. It provides a range of mathematical functions and tools for manipulating data.
-
-##### Pandas
-- A Python library for working with data sets. It provides tools for reading and writing data to and from different file formats, as well as for cleaning, filtering, and aggregating data.
 
 ### Hardware and Software Requirements
 
