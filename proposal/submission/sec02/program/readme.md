@@ -44,7 +44,7 @@
 These are the current system interface from academic advisor view:
 
 <img src="https://raw.githubusercontent.com/mysarahzal/mysarahzal/main/WhatsApp%20Image%202023-06-06%20at%2016.05.50.jpg" width="400" height=auto>
-<img src="[https://user-images.githubusercontent.com/128214992/236150893-9ba55c91-8924-441a-a1ca-a777cb205d7d.jpg" width="400" height=auto>
+<img src="https://raw.githubusercontent.com/mysarahzal/mysarahzal/main/photo_2023-06-06_16-13-33.jpg" width="400" height=auto>
 <img src="![photo_2023-05-04_16-00-32 (3)](https://github.com/drshahizan/software-engineering/assets/128214992/a71da13a-a100-4e86-9f99-2bf65cd9fcb9)" width="400" height=auto>
 
 
