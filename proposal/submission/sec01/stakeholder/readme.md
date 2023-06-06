@@ -313,10 +313,10 @@ I. Staff Resources:<br>
 - UI/UX System Designer: Neo Zheng Weng<br>Responsible for designing user interfaces and user experience for the application.
   
 - Developer Assistant:<br><ul>
- - 1. Neo Zheng Weng
- - 2. Muhammad Danial
- - 3. Wong Khai Shian Nicholas
- - 4. Low Jie Sheng<br></ul>
+  1. Neo Zheng Weng
+  2. Muhammad Danial
+  3. Wong Khai Shian Nicholas
+  4. Low Jie Sheng<br></ul>
   Responsible for assisting the main developer in software architecture designing and also software development tasks such as coding, testing, and deployment.
   
 - Requirements Analyst: Wong Khai Shian Nicholas<br>Responsible for analyzing the project requirements and documenting the functional and non-functional requirements of the software application.
@@ -333,12 +333,13 @@ II. Equipment Resources:<br>
 - Networking equipment such as routers, switches, and cables for setting up the development and production environments.
   
 III. Software Resources:<br>
-- Integrated Development Environment (IDE) for software development:
-  - Visual Studio Code
+- Integrated Development Environment (IDE) for software development: Visual Studio Code
+- Database management system: MySQL
+- Code hosting platform: GitHub
+- Cloud hosting fees: Cloud service such as Google Cloud.
   
 IV. Other Expenses:<br>
-- Cloud Hosting Fees: Cloud service such as Google Cloud.
-- Rental fees for preparing a working space.
+- Rental fees: Preparing a working space.
 
 ---
 
@@ -358,16 +359,17 @@ IV. Other Expenses:<br>
 These technologies are helpful in developing our proposed system since they are well-documented and frequently used in the field of software development.
 
  - Hardware Requirements:<br>
-  -	A computer with a processor of at least 2 GHz which is good enough for web browsing.<br>
-  -	A minimum of 16 GB RAM memory to ensure the extra speed and smooth functioning.<br>
-  -	A minimum of 100 GB storage space to store the system files and database.<br>
-  -	A screen with resolution of at least 1920x1080 to display a sharper picture.</ul>
+    -	A computer with a processor of at least 2 GHz which is good enough for web browsing.<br>
+    -	A minimum of 16 GB RAM memory to ensure the extra speed and smooth functioning.<br>
+    -	A minimum of 100 GB storage space to store the system files and database.<br>
+    -	A screen with resolution of at least 1920x1080 to display a sharper picture.</ul>
   
  - Software Requirements:<br>
-  - An operating system such as Windows, Linux, or macOS.<br>
-  - A database management system such as MySQL to add, access, and process data stored in a computer database.<br>
-  -	A Integrated Development Environment (IDE) such as Visual Studio Code for code editing.<br>
-  - A code hosting platform such as GitHub for version control and collaboration.</ul>
+    - An operating system such as Windows, Linux, or macOS.<br>
+    - A database management system such as MySQL to add, access, and process data stored in a computer database.<br>
+    -	A Integrated Development Environment (IDE) such as Visual Studio Code for code editing.<br>
+    - A code hosting platform such as GitHub for version control and collaboration.
+    - A cloud service such as Google Cloud to store the documentation.</ul>
   
 - Data security:<br> Several steps will be implemented to ensure the security of the Kolej Tun Dr Ismail (KTDI) Student Accommodation System, including secure login procedures, data encryption, routine backups and disaster recovery plans. For example, the users are asked to create the best and strongest possible password to protect their data from being leaked by irresponsible parties. The most recent security patches for software and applications should be continuously updated to fix vulnerabilities. Users should be instructed on the best data security practices, which will be provided with a user guideline, and the system can be protected by putting in place physical security measures.
 
