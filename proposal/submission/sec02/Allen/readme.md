@@ -1,6 +1,6 @@
 #  Proposal 
 
-## KTDI MINIMARKET ONLINE SYSTEM
+## KTDI MINIMARKET SYSTEM
 
 
 ### Prepared by: 
@@ -24,10 +24,10 @@
 - [Conclusion](#12-conclusion)
   
 ### 1. Executive Summary
-- KTDI MINIMARKET ONLINE SYSTEM is a proposed project that aims to transform the retail operations of the mini mart. The main objective is to enhance competitiveness and improve the customer experience by establishing an online presence. The project goals include increasing customer convenience, expanding the customer base, optimizing operational efficiency, driving sales growth, and fostering customer loyalty. The proposed system will feature an intuitive interface, enabling users to browse products, place orders, and make secure online payments. It will also streamline inventory management, order fulfillment, and sales tracking processes. The expected outcomes include expanding the customer reach, improving the overall shopping experience, enhancing efficiency and accuracy, gaining a competitive edge, and achieving sustainable business growth. Successful implementation requires collaboration among the stakeholders and mini mart mnagement. This project offers a promising opportunity for the mini mart to thrive in the digital age, and it should be pursued to fully realize its potential and succeed in the ever-evolving retail landscape.
+- KTDI MINIMARKET  SYSTEM is a proposed project that aims to transform the retail operations of the mini mart. The main objective is to enhance competitiveness and improve the customer experience by establishing an online presence. The project goals include increasing customer convenience, expanding the customer base, optimizing operational efficiency, driving sales growth, and fostering customer loyalty. The proposed system will feature an intuitive interface, enabling users to browse products, place orders, and make secure online payments. It will also streamline inventory management, order fulfillment, and sales tracking processes. The expected outcomes include expanding the customer reach, improving the overall shopping experience, enhancing efficiency and accuracy, gaining a competitive edge, and achieving sustainable business growth. Successful implementation requires collaboration among the stakeholders and mini mart mnagement. This project offers a promising opportunity for the mini mart to thrive in the digital age, and it should be pursued to fully realize its potential and succeed in the ever-evolving retail landscape.
 
 ### 2. Background:
-- This proposal aims to introduce an online system for KTDI MINIMARKET ONLINE SYSTEM, leveraging technology to enhance the shopping experience and drive business growth. The existing traditional brick-and-mortar model poses limitations, such as limited customer reach and reliance on physical transactions. By implementing an online system, the mini mart seeks to overcome these challenges and unlock numerous benefits.
+- This proposal aims to introduce an online system for KTDI MINIMARKET  SYSTEM, leveraging technology to enhance the shopping experience and drive business growth. The existing traditional brick-and-mortar model poses limitations, such as limited customer reach and reliance on physical transactions. By implementing an online system, the mini mart seeks to overcome these challenges and unlock numerous benefits.
 - The proposed software solution will enable customers to conveniently browse products, place orders, and make secure online payments from the comfort of their homes. This increased convenience will attract a wider customer base, expanding the mini mart's reach and creating new sales opportunities. This optimization will prevent stockouts and overstocking, leading to enhanced operational efficiency and reduced costs. Additionally, the system will provide valuable insights into customer preferences and purchasing patterns, enabling the mini mart to tailor its offerings and marketing strategies accordingly.
 
 ### 3. Objectives:
@@ -67,7 +67,7 @@ Limitations or constraints that may affect the project could include factors suc
 ### 5. Software Process Model:
 The goal of a software process model is to provide a framework for software development that ensures the project is completed within the allocated budget, schedule, and quality standards. The software process model defines the set of activities that must be performed during the software development lifecycle.
 
-For the KTDI MINIMARKET ONLINE SYSTEM, the ideal software process model is the Agile software development process. The justification for this choice is that the Agile methodology emphasizes the iterative and incremental development of software, which is particularly well-suited for complex projects with evolving requirements. In addition, Agile methodology allows for rapid prototyping and customer feedback, which is essential in developing a mini mart online system.
+For the KTDI MINIMARKET  SYSTEM, the ideal software process model is the Agile software development process. The justification for this choice is that the Agile methodology emphasizes the iterative and incremental development of software, which is particularly well-suited for complex projects with evolving requirements. In addition, Agile methodology allows for rapid prototyping and customer feedback, which is essential in developing a mini mart online system.
 
 The Agile software development process involves the following phases:
 
@@ -125,9 +125,9 @@ example of grantt chart based on our project(dates are just example):
 - Maintenance - Maintenance logs, bug reports, feature requests, working software
 
 ### 6. Budget:
-Developing an online mini mart system like KTDI MINIMARKET ONLINE SYSTEM will require a significant investment of resources. The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
+Developing an online mini mart system like KTDI MINIMARKET  SYSTEM will require a significant investment of resources. The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
 
-Here is an estimated budget for developing the KTDI MINIMARKET ONLINE SYSTEM:
+Here is an estimated budget for developing the KTDI MINIMARKET  SYSTEM:
 
 1. Hardware and software costs:
 - Desktop computers and laptops for the development team: RM90,000
@@ -149,10 +149,10 @@ Here is an estimated budget for developing the KTDI MINIMARKET ONLINE SYSTEM:
 It is important to note that this is an estimated budget and actual costs may vary depending on various factors such as team size, expertise, and time duration. It is recommended to regularly monitor and update the budget to ensure that the project is completed within the allocated budget and timelines.
 ### 7. System Architecture:
 - Overview:
-The KTDI Minimarket Online System is a web-based application for managing the operations of a mini mart. It allows customers to browse and purchase products online, while providing the mini mart staff with tools for inventory management, order processing, and sales analysis.
+The KTDI Minimarket  System is a web-based application for managing the operations of a mini mart. It allows customers to browse and purchase products online, while providing the mini mart staff with tools for inventory management, order processing, and sales analysis.
 - Data Storage and Management:
 The system will utilize a Relational Database Management System (RDBMS) for storing and managing data. The database will be hosted on a dedicated database server, ensuring data integrity and security. Regular backups will be performed to prevent data loss.
-- The proposed system architecture for the KTDI MINIMARKET ONLINE SYSTEM will be a multi-tier architecture consisting of a presentation layer, application layer, and data layer as the following:
+- The proposed system architecture for the KTDI MINIMARKET  SYSTEM will be a multi-tier architecture consisting of a presentation layer, application layer, and data layer as the following:
 
 - Programming languages: 
  
@@ -493,7 +493,7 @@ Other than that, examples of data transformation that are planned to do are:
 
 ### 12. Conclusion:
 
-Developing an online system for KTDI MINIMARKET ONLINE SYSTEM, which are Dewi Kayangan Enterprise can provide many benefits for both the business owner and the customers. The conclusion that can be made are:
+Developing an online system for KTDI MINIMARKET  SYSTEM, which are Dewi Kayangan Enterprise can provide many benefits for both the business owner and the customers. The conclusion that can be made are:
 
 - Increased convenience: An online mini mart system allows customers to purchase items from the comfort of their own home, making the shopping experience more convenient and accessible.
 
