@@ -195,8 +195,6 @@ Technical specifications play a vital role in the success of any project. Here a
 
 7. **Hardware and software requirements**: The proposed system will require a robust hardware and software infrastructure. The hardware requirements will include high-performance servers with sufficient RAM, storage, and processing power. The software requirements will include operating systems, databases, web servers, and other software components.
 
-8. **Data security measures**: The project will implement various data security measures, including data encryption, access controls, and secure data transfer protocols. The project will comply with relevant data privacy regulations and guidelines, such as GDPR and CCPA
-
 ### 11. Timeline and Deliverables: 
 1. **Milestone 1: Project Planning and Requirements Gathering**
 - Deadline: Week 1-2
