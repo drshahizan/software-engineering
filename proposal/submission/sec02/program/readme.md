@@ -43,7 +43,7 @@
   
 These are the current system interface from academic advisor view:
 
-<img src="https://user-images.githubusercontent.com/128214992/236150766-f7463dd2-f294-448b-8de4-a01469125d4a.jpg" width="400" height=auto>
+<img src="https://raw.githubusercontent.com/mysarahzal/mysarahzal/main/WhatsApp%20Image%202023-06-06%20at%2016.05.50.jpg" width="400" height=auto>
 <img src="[https://user-images.githubusercontent.com/128214992/236150893-9ba55c91-8924-441a-a1ca-a777cb205d7d.jpg" width="400" height=auto>
 <img src="https://user-images.githubusercontent.com/128214992/5e6c0bd9-4f26-4736-9e14-5f6d14e7dae1.jpg" width="400" height=auto>
 
