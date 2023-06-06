@@ -214,9 +214,9 @@ In conclusion, it is anticipated that RM 126,000 will be needed to develop the s
 
 The student engagement system for university users will be made up of a client-server architecture with a web-based front-end and a back-end server that manages data storage, retrieval, and processing. The architecture will include the following layers:
 
-- Presentation layer: The user interface of the website will be created and built using HTML, CSS, and JavaScript in this layer.  
+- Presentation layer: The user interface of the website will be created using HTML, CSS, and JavaScript in this layer. The user interface of the website will be built using the front-end framework ReactJS.
 
-- The application layer will handle user requests, conduct data processing, and return responses. The server-side technologies for processing user requests and data management will be PHP and Apache.
+- The application layer will handle user requests, conduct data processing, and return responses. The server-side technologies for processing user requests and data management will be Node.js and Express.js.
 
 - Data layer: This layer will manage and store the system's data. The relational database management system (RDBMS) that will be utilised to store user information, posts, comments, and other important data is MySQL.
 
@@ -228,7 +228,7 @@ The following hardware and software are needed for managing and storing data:
 
 - Hardware: A server or hosting service with enough processing power and storage space to meet the website's data management and storage requirements.
 
-- Software: PHP and Apache for server-side processing, with MySQL serving as the RDBMS.
+- Software: Express.js and Node.js for server-side processing, with MySQL serving as the RDBMS.
 
 #### Data Analysis and Visualization
 
@@ -266,19 +266,19 @@ Block Diagram:
 
 
   1. Staff:
-      + 1 Project Manager: RM 540,000/year
-      + 1 Quality assurance specialist & Web Developer: RM 324,000/year
-      + 1 Business Analyst & User Interface Designer: RM 324,000/year
-      + 1 Support Engineer & Data Analyst: RM 324,000/year
-      + 1 Technical Writer & User Experience Designer: RM 288,000/year
-      <br>*Total Cost: RM 1,800,000*
+      + 1 Project Manager: RM 2,000/year
+      + 1 Quality assurance specialist & Web Developer: RM 2,000/year
+      + 1 Business Analyst & User Interface Designer: RM 2,000/year
+      + 1 Support Engineer & Data Analyst: RM 2,000/year
+      + 1 Technical Writer & User Experience Designer: RM 2,000/year
+      <br>*Total Cost: RM 10,000*
   2. Hardware
-      + Server Hardware: RM 400,000
-      + Network Hardware: RM 200,000
-      + Storage Hardware: RM 200,000
-      + Cloud computing providers: RM 200,000
-      + Scalability: RM 200,000
-      <br>*Total Cost: RM 1,200,000*
+      + Server Hardware: RM 40,000
+      + Network Hardware: RM 10,000
+      + Storage Hardware: RM 10,000
+      + Cloud computing providers: RM 10,000
+      + Scalability: RM 10,000
+      <br>*Total Cost: RM 80,000*
       
   3. Equipment:
       + Computers and laptops for the project team: RM 150,000
@@ -287,21 +287,21 @@ Block Diagram:
       <br>*Total Cost: RM 220,000*
       
   4. Software:
-      + User interface: HTML, CSS, JavaScript: RM 150,000
-      + Server-side technology: PHP and Apache: RM 100,000
-      + Database: MySQL RDBMS: RM 100,000
-      <br>*Total Cost: RM 350,000*
+      + User interface: HTML, CSS, JavaScript, and ReactJS: RM 5,000
+      + Server-side technology: Node.js and Express.js: RM 2,000
+      + Database: MySQL RDBMS: RM 3,000
+      <br>*Total Cost: RM 10,000*
       
   5. Other Expenses:
-      + Testing fees: RM 150,000
-      + Contingency fees: RM 150,000
-      + Web hosting fees: RM 100,000
-      + Domain registration fees: RM 1,000
-      + Marketing and advertising expenses: RM 50,000
-      + Training and support expenses: RM 300,000
-      <br>*Total Cost: RM 751,000*
+      + Testing fees: RM 8,000
+      + Contingency fees: RM 8,000
+      + Web hosting fees: RM 2,000
+      + Domain registration fees: RM 2,000
+      + Marketing and advertising expenses: RM 3,000
+      + Training and support expenses: RM 3,000
+      <br>*Total Cost: RM 26,000*
       
-  <br><br><b>Grand Total: RM 4,321,000</b>
+  <br><br><b>Grand Total: RM 126,000</b>
 
 
 ### 10. Technical Specifications
@@ -310,10 +310,11 @@ Block Diagram:
 | Data Sources | <ul><li>Student datas from myUTM</li><li>Club and faculties events data</li></ul>|
 | Data Schema | The data schema will have tables that store of students information, clubs details, data from different faculties and departments in UTM.|
 | Data Transformation | The data will be transformed into insights to understand students likings and interest.|
-| Programming Languages | HTML，CSS，JavaScript, PHP, MySQL|
+| Programming Languages | HTML，CSS，MySQL|
+| Frameworks | ReactJS |
 | Libraries | Bootstrap, jQuery |
 | Hardware Requirements | <ul><li>Processor: A multi-core processor</li><li>RAM: 8GB or higehr</li><li>Storage: 50GB or higher</li><li>Display: Resolution of 1920x1080 or higher</li></ul> |
-| Software Requirements | <ul><li>Operating system: Windows 10 or higher</li><li>IDE: Visual Studio Code, Bootstrap Studio</li><li>Web server: Apache, Google Web Server</li><li>Database: MySQL</li><li> Version control: Git</li></ul> |
+| Software Requirements | <ul><li>Operating system: Windows 10 or higher</li><li>IDE: Visual Studio Code, Bootstrap Studio</li><li>Web server: Google Web Server</li><li>Database: MySQL</li><li> Version control: Git</li></ul> |
 
 
 ### 11. Timeline and Deliverables
