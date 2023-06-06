@@ -145,15 +145,15 @@ The scope refers to the boundaries of the project and outlines the features and 
 
 ### 5. Software Process Model
   
-Software process model in developing the Kolej Tun Dr Ismail (KTDI) project's student accommodation system is to create a user friendly and high-quality system within the allotted time and budget which fulfils our stakeholders' requirements. Therefore, we have decided to employ the <b>Agile methodology</b> as our software development process model in order to accomplish our proposed system. This method places a focus on cooperation and participation from stakeholders throughout the development process, creating a system that is more adaptable and responsive.
+The software process model in developing the Kolej Tun Dr Ismail (KTDI) project's student accommodation system is to create a user-friendly and high-quality system within the allotted time and budget which fulfils our stakeholders' requirements. Therefore, we have decided to employ the <b>Agile methodology</b> as our software development process model to accomplish our proposed system. This method focuses on cooperation and participation from stakeholders throughout the development process, creating a more adaptable and responsive system.
 
-Furthermore, because of the nature of student rooms and development flexibility as well as continuous team collaboration, the Agile methodology is perfect for projects like ours where requirements and priorities may change frequently. Agile methodology allows us to guarantee that the system is continually updated and enhanced depending on inputs from stakeholders while our project progress moves forward. This will enable the Student Accommodation System in KTDI project to produce a system that always satisfies their changing needs and reaches the expectations.
+Furthermore, because of the nature of student rooms, development flexibility, and continuous team collaboration, the Agile methodology is perfect for projects like ours where requirements and priorities may change frequently. Agile methodology allows us to guarantee that the system is continually updated and enhanced depending on inputs from stakeholders while our project progress moves forward. This will enable the Student Accommodation System in the KTDI project to produce a system that always satisfies their changing needs and reaches expectations.
 
 <p align="center"><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/agile.PNG" width="500px" height="410px"></p>
 
 Agile methodology for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) as stated below:
 
-1. _**Planning Phase:**_ The project scope, objectives and also related stakeholders in this project are identified. This will also include the timeline and milestones, identify project risks and allocate project resources appropriately. The team developes a blueprint to foresee the final system and upcoming challenges. The ghant chart is created so the project progress or task progress of each member will always be on the track and follow the timeline set. This phase only takes 1 week of time and will be lead by the project manager to control all the activities. 
+1. _**Planning Phase:**_ The project scope, objectives and related stakeholders are identified. This will also include the timeline and milestones, identify risks, and allocate resources appropriately. The team develops a blueprint to foresee the final system and upcoming challenges. The Gantt chart is created so each member's project progress or task progress will always be on track and follow the timeline set. This phase only takes 1 week and will be lead by the project manager to control all the activities. 
 
 2. _**Requirements Gathering Phase:**_ The project requirement analyst team works with the indentified stakeholders to identify and prioritise user requirements of student accommodation system. The team will develop user stories and create the product as backlog items. The team then identifies acceptance criteria for each user story and break down user stories into smaller tasks, which are then added to the sprint backlog. The project development team and the stakeholders then meet to review and finalise the sprint backlog to get a complete system requirements. This phase takes 1 week in order to carry out the interview session with the stakeholders and keep in touch with them for the latest requirements. The requirement analysis will in charge of the collection and documentation of requirements for the project.
 
@@ -230,16 +230,16 @@ The proposed architecture for the student accommodation system project at Kolej 
     
 
 #### Data Storage and Management:
-MySQL will be used as the Relational Database Management System (RDBMS) to store and manage the website data. All the data collected will be stored and organised in the form of table which representing a specific type of data such as maintainance records, student records, room records and accommodation application records. 
+MySQL will be used as the Relational Database Management System (RDBMS) to store and manage the website data. All the data collected will be stored and organised in the form of a table representing a specific type of data, such as maintenance records, student records, room records and accommodation application records. 
   
 #### Hardware and Software Requirements:
-Hardware and software requirements are crucial components of our proposed system architecture. Managing the KTDI's student accomodation system's hardware and software requirements could be done as follows:
+Hardware and software requirements are crucial components of our proposed system architecture. Managing the KTDI's student accommodation system's hardware and software requirements could be done as follows:
 
 i. Hardware requirements 
-- A computer with a processor of at least 2 GHz or higher.
-- A minimum of 16 GB RAM.
-- Sufficient storage space to store the system files and database.
-- A stable internet connection.
+- A computer with a processor of at least 2 GHz, which is good enough for web browsing.
+-	A minimum of 16 GB RAM memory ensures extra speed and smooth functioning.
+-	A minimum of 100 GB storage space to store the system files and database.
+-	A screen with a resolution of at least 1920x1080 to display a sharper picture.
   
 ii. Software requirements 
 - ReactJS as the font-end JavaScript library for development of interactive website user interface.
@@ -247,10 +247,8 @@ ii. Software requirements
 - MySQL as the Relational Database Management System (RDBMS) to store and manage the data.
 - Apache HTTP Server as the web server software.
 - PHP Laravel framework as the server-side technology.
-- D3.js and Chart.js as the data visualization library to create interactive charts and present data.
-- Git for version control.
-- Microsoft Excel as data analysis tools to preprocess the data.
-- Tableau and PowerBI as the business intelligence (BI) tools to create insights from the data.
+- GitHub for code hosting and version control.
+- Google Cloud as a cloud hosting to store the documentation.
   
 #### Data Analysis and Visualization:
 - Data analysis tools: <br>We will use Microsoft Excel to clean and preprocess the data, perform statistical analysis and also create data models.
@@ -258,49 +256,49 @@ ii. Software requirements
 - Business intelligence (BI) tools: <br>We will use Tableau, PowerBI to perform advanced analytics, create reports and generate insights from the data.
 
 #### System Architecture Diagram:
-- Use case diagram of the introduced system:
-<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/UML-use_case1.drawio.png">
-
 - The proposed system architecture can be visualized using the following flowchart:
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/flowchart_diagram.PNG" width=500px height=300px>
 
 - High-level diagram that represents our proposed system architecture:
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/level_diagram.PNG" width=850px height=400px>
-  
+
+- Functionalities of the introduced system:
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/UML-use_case1.drawio.png">
+
 ---
 
 ### 8. Risks Assessment
 A project, programme, or organization's potential risks must be identified, evaluated, and prioritised as part of the risk assessment process. It is a crucial component of risk management, which seeks to reduce the likelihood and effect of prospective dangers. Both quantitative and qualitative ways of expressing the outcomes of this procedure are possible. To help minimise any potential risk-related repercussions, risk assessment is a necessary component of a larger risk management plan.
 
-The risk assessments that related to the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) are:
+The risk assessments related to the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) are:
 
 - User adoption risk: 
-  - User adoption and commitment are the key to make the Student Accommodation System to be succeeded. The Student Accommodation System will not provide the desired benefits if staff and students are not using it efficiently. 
+  - User adoption and commitment are the keys to make the student accommodation system to be succeeded. The developed system will not provide the desired benefits if the target users, such as staff, admin, fellow and students are not using it efficiently. 
 
-- Changes in project requirement:
+- Changes in project requirements:
   - Scope creep: As project requirements change over time, the project's scope will be extended, which could cause delays or the budget to be exceeded.
-  - Incomplete or inaccurate specifications could lead to a poorly designed of Student Accomodation System that doesn't satisfy the needs or expectations of the users.
-  - Conflicts among the Stakeholders: Stakeholders will have different ideas and needs, which can lead to the conflicts that will cause the decision-making of stakeholders become slower.
+  - Incomplete or inaccurate specifications could lead to a poorly designed of web application system that doesn't satisfy the needs or expectations of the users.
+  - Conflicts among the stakeholders: Stakeholders will have different ideas and needs, which can lead to conflicts that will cause the decision-making in the developing process to become slower.
 
 - Resource Constraints:
-  - Technical risk: <br>Technical problems that happened in Student Accommodation System would include hardware breakdowns, software glitches, and system outages, which can lead to system downtime, data loss, or system crashes.
+  - Technical risk: <br>Technical problems faced by system development include hardware breakdowns, software glitches, and system outages, which can lead to system downtime, data loss, or system crashes.
   - Financial risk: <br>The Student Accommodation System in Kolej Tun Dr Ismail (KTDI) needs a lot of money to implement and operate, and it's impossible to use the small income to cover those large amounts of costs.
  
-To mitigate these risks, the following strategies will be employed:
+To mitigate these risks, the following strategies will be employed for each risk:
 
 - User adoption risk: 
-  - Users can be trained and supported. The surveys and feedback sessions will be held to improve the Student Accomodation System and incentives or rewards can be given to users who successfully adopt and use the system. These are all the actions that can help to reduce the risks associated with user adoption.
+  - Users can be trained and supported. The surveys and feedback sessions will be held to improve the Student Accomodation System in KTDI and incentives or rewards can be given to users who successfully adopt and use the system. These are all the actions that can help to reduce the risks associated with user adoption.
 
-- Changes in project requirement:
+- Changes in project requirements:
   - The project requirements should be precisely stated, completed, and well-documented.
-  - Create a change management strategy that show details on how modifications to the project scope will be handled, including what will be documented, reviewed, and approved.
-  - To prevent conflicts, effectively communicate changes to the project's requirements to all parties involved, including the project team, users, and management.ALL parties that involved, inlcuding the project team, users, software engineer, survey team, project budget must communicate effectively to discuss the project requirements so that conflicts will not happened.
+  - Create a changing management strategy that show details on how modifications to the project scope will be handled, including what will be documented, reviewed and approved.
+  - To prevent conflicts, effectively communicate changes to the project's requirements to all audiences involved, including the project team and users. We must communicate effectively to discuss the project requirements so that conflicts will not be happened.
 
 - Resource Constraints:
-  - Technical risk: <br>For Student Accommodation System, Kolej Tun Dr Ismail(KTDI) should put in place routine data backups and disaster recovery plans, as well as routine maintenance,software and hardware updates to reduce the technical risks. They should also employ qualified Information Technology Specialist to run and maintain the system.
-  - Financial risk: <br>To reduce financial risks, they should create a thorough financial strategy that takes into consideration the initial expenditures as well as recurring expenses of the Student Accommodation System. It's important to regularly examine and modify financial predictions to take any changes in enrollment or other monetary issues into consideration.
+  - Technical risk: <br>Student Accommodation System in KTDI should put in place routine data backups and disaster recovery plans, as well as routine maintenance, software and hardware updates to reduce the technical risks. A qualified Information Technology specialist should be employed to run and support the maintenance of the system.
+  - Financial risk: <br>To reduce financial risks,  the project manager should create a thorough financial strategy that takes into consideration the initial expenditures as well as recurring expenses of the proposed system. It's important to regularly examine and modify financial predictions to take any changes in enrollment or other monetary issues into consideration.
 
-In general, it's necessary to identify and reduce these risks if we want the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) to be more successful. We can reduce any negative effects and increase the advantages of the system by taking a proactive approach to risk management.
+In general, it's necessary to identify and reduce these risks to ensure the Student Accommodation System in KTDI to be developed in more successful. We as the project team can reduce any negative effects and increase the advantages of the system by taking a proactive approach to risk management.
 
 ---
 
