@@ -168,7 +168,7 @@ The proposed system architecture for this college room rental services is
 a three tier architecture which organises applications into three logical and physical computing tiers that is:
  - **presentation tier** or user interface that will present information and handle user interface for users.In this tier,  HTML, CSS, and JavaScript, along with a framework like React or Angular can be used  for building the user interface.
 - **application tier** that processes user requests and updates the price and number of days to be processed. By using a framework for building RESTful APIs with a server-side language such as .
-- **data tier** that will store and manage all the rental data. Depending on the requirements of the system, relational database management system (RDBMS) like MySQL
+- **data tier** that will store and manage all the rental data. Depending on the requirements of the system, relational database management system (RDBMS) like MySQL 
 
 #### Data Storage, Management and Analysis
 For this system, the data tier will be responsible to store and manage the database management system of the rental data . As data integrity, security, and scalability is extremely important, the database will be designed. Tools and frameworks that is capable of analysing and visualising data will be used to implement data analysis.
@@ -183,6 +183,7 @@ This college rental system will use various tools and frameworks such as:
 - CSS: to control presentation and visual styling 
 - Bootstrap: front-end development framework
 - Figma : Creating prototype 
+- Xampp : Implementing PHP
 
 #### Flowchart and Block Diagram
 
