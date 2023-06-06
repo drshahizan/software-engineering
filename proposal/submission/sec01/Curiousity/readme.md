@@ -108,34 +108,23 @@ In summary, the KTDI Event Management System proposal seeks to address the chall
 
 ### 4. Scope: 
 ### Limitation: 
-Our proposed system, KTDI Event Management System, is designed to provide a web-based platform specifically for the management of events within Kolej Tun Dr. Ismail (KTDI). The system is intended for use by the Student Residential College Committee (JKM) and the KTDI office staff, as well as fellow members involved in event planning and execution. However, the system will not be accessible to the general student population or other external organisers.
+Our proposed system, KTDI Event Management System, is designed to provide a web-based platform specifically for the management of events within Kolej Tun Dr. Ismail (KTDI). The system is intended for use by the Student Residential College Committee (JKM), the KTDI staff members, as well as the students.
 
 ### Features:
 ### JKM KTDI
-* <b>Streamline event preparation and post activity process</b><br>
-The system's ability to streamline the event preparation and post-activity process will make it easier for the JKM KTDI committee to manage their events. By providing a centralised platform, the committee can upload and get approval for event proposals, apply for facility rentals, and track the progress of each unit involved in the event. This feature will save time and reduce the risk of errors during the event planning process.
+* <b>Event Calendar</b><br>
+The calendar for events feature is an essential tool that enables JKM KTDI to plan their events efficiently. With this feature, the committee can schedule events that is going to be held within the semester. This feature ensures that the events do not clash with each other, and they can allocate their resources efficiently to ensure the success of each event. Besides, they can utilise this feature to upload registration link for the students. The calendar feature provides a centralised platform for JKM KTDI members to stay updated on upcoming events. This accessibility ensures that all members are well-informed and can plan their tasks accordingly. By having a clear overview of the event schedule, members can effectively manage their time and responsibilities, contributing to the smooth execution of each event.
 
-* <b>Calendar for annual events</b><br>
-The calendar for annual events feature is an essential tool that enables JKM KTDI to plan their events efficiently. With this feature, the committee can schedule events and book appointments or meetings required for each event. This feature ensures that the events do not clash with each other, and they can allocate their resources efficiently to ensure the success of each event. By using the calendar, members can easily view upcoming events, appointments, and meetings, making it easier for them to plan their schedules and work accordingly.
+* <b>Active Quota<b><br>
+The system incorporates an active quota feature that provides a comprehensive view of the students currently residing in KTDI college, their respective college merit points earned through event participation, and the total merit points accumulated. This information plays a crucial role in determining the priority for students' hostel booking in the upcoming year. By considering the merit points earned through event participation, the active quota feature incentivizes student engagement and active involvement in college activities. Students who actively participate and contribute to events have the opportunity to earn more merit points, increasing their chances of securing preferred hostel accommodations.
 
-* <b>Handling the necessary documents for each activity</b><br>
-This feature allows each member to upload their progress updates and necessary documents for their respective tasks. By setting deadlines for each task, members can ensure that they are on track with their work, and the overall progress of the event is visible to all members. This feature makes it easier for the higher authorities to monitor the progress of the event and identify areas that need improvement.
+* <b>Task distribution</b><br>
+The system's ability to streamline the event preparation and post-activity process will make it easier for the JKM KTDI committee to manage their events. By providing this system, the committee can upload relevant documents and track the progress of each unit involved in the event. This feature will save time and reduce the risk of errors during the event planning process. The JKM members can ensure that they are on track with their work, and the overall progress of the event is visible to all members. This feature makes it easier for the higher authorities to monitor the progress of the event and identify areas that need improvement.
 
-* <b>Distribution of tasks to members</b><br>
-The distribution of tasks is a critical aspect of event planning, and the system makes it easier by assigning a Head of Unit (person-in-charge) for each unit department. The head of the unit will assign tasks to each member, ensuring that tasks are distributed efficiently and that each member is aware of their responsibilities. This feature will reduce the risk of confusion and ensure that tasks are completed on time, contributing to the success of the event.
 
-* <b>Visible progress</b><br>
-The ability to track the progress of each task and who completed it is a valuable feature that ensures accountability among the members. This feature enables higher authorities to monitor the progress of the event and, if necessary, take corrective actions to ensure that it is completed successfully. Members can also view their progress and the progress of others, enabling them to coordinate their work and achieve their goals.
-
-* <b>Post-Event Report</b><br>
-The post-event report feature enables the JKM KTDI committee to easily access the post-event report and pictures of each event held during the year. This feature will be useful when preparing their annual report, as it will contain all the necessary information required for the report. The report will also serve as a valuable tool for future reference, enabling the committee to evaluate the success of their events and identify areas that need improvement.
-
-### KTDI Office Staff and Fellow Members 
-* <b>Approval</b><br>
-The approval feature allows JKM KTDI members to streamline the approval process for event proposals and facility rentals. KTDI office staff can use the system to approve the need to rent facilities and venues for event purposes and sign the necessary documents digitally. Fellow members can also sign the documents digitally for event proposals, making it easier to get the necessary approvals in a timely manner.
-
-* <b>Calendar</b><br>
-The calendar feature of the system will enable fellow members of KTDI to schedule appointments and meetings necessary for the event planning process. They can easily view the calendar to check available dates for scheduling and book appointments or meetings accordingly. The calendar can be used to ensure that there are no scheduling conflicts and that all fellow members of each event are aware of the event planning schedule. Additionally, fellow members can also check meetings that are already scheduled to keep themselves informed of the progress of the event planning process. The ability to view the calendar and schedule appointments will ensure that all fellow members are on the same page and that event planning tasks are completed efficiently. This feature will help save time and increase productivity during the event planning process.
+### KTDI Staff Members
+* <b>Event Calendar</b><br>
+The calendar feature of the system will enable staff members of KTDI to view progress and upcoming events held by JKM KTDI. By utilising the calendar, the staff members can stay informed about upcoming events, important dates, and the overall event schedule. This eliminate the need for staff members to search for event updates or rely on multiple sources of information. Instead, they can conveniently access the calendar within the system, gaining a comprehensive overview of the planned events. This streamlines communication and coordination within the KTDI organization, ensuring that staff members are well-informed and aligned with the activities and objectives of JKM KTDI.
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
