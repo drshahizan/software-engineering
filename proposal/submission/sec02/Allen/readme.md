@@ -1,6 +1,6 @@
 #  Proposal 
 
-## KTDI DEWI KAYANGAN ENTERPRISE ONLINE SYSTEM
+## KTDI MINIMARKET SYSTEM
 
 
 ### Prepared by: 
@@ -24,10 +24,10 @@
 - [Conclusion](#12-conclusion)
   
 ### 1. Executive Summary
-- KTDI Dewi Kayangan Enterprise (Mini Mart) Online System is a proposed project that aims to transform the retail operations of the mini mart. The main objective is to enhance competitiveness and improve the customer experience by establishing an online presence. The project goals include increasing customer convenience, expanding the customer base, optimizing operational efficiency, driving sales growth, and fostering customer loyalty. The proposed system will feature an intuitive interface, enabling users to browse products, place orders, and make secure online payments. It will also streamline inventory management, order fulfillment, and sales tracking processes. The expected outcomes include expanding the customer reach, improving the overall shopping experience, enhancing efficiency and accuracy, gaining a competitive edge, and achieving sustainable business growth. Successful implementation requires collaboration among the stakeholders and mini mart mnagement. This project offers a promising opportunity for the mini mart to thrive in the digital age, and it should be pursued to fully realize its potential and succeed in the ever-evolving retail landscape.
+- KTDI MINIMARKET  SYSTEM is a proposed project that aims to transform the retail operations of the mini mart. The main objective is to enhance competitiveness and improve the customer experience by establishing an online presence. The project goals include increasing customer convenience, expanding the customer base, optimizing operational efficiency, driving sales growth, and fostering customer loyalty. The proposed system will feature an intuitive interface, enabling users to browse products, place orders, and make secure online payments. It will also streamline inventory management, order fulfillment, and sales tracking processes. The expected outcomes include expanding the customer reach, improving the overall shopping experience, enhancing efficiency and accuracy, gaining a competitive edge, and achieving sustainable business growth. Successful implementation requires collaboration among the stakeholders and mini mart mnagement. This project offers a promising opportunity for the mini mart to thrive in the digital age, and it should be pursued to fully realize its potential and succeed in the ever-evolving retail landscape.
 
 ### 2. Background:
-- This proposal aims to introduce an online system for KTDI Dewi Kayangan Enterprise, leveraging technology to enhance the shopping experience and drive business growth. The existing traditional brick-and-mortar model poses limitations, such as limited customer reach and reliance on physical transactions. By implementing an online system, the mini mart seeks to overcome these challenges and unlock numerous benefits.
+- This proposal aims to introduce an online system for KTDI MINIMARKET  SYSTEM, leveraging technology to enhance the shopping experience and drive business growth. The existing traditional brick-and-mortar model poses limitations, such as limited customer reach and reliance on physical transactions. By implementing an online system, the mini mart seeks to overcome these challenges and unlock numerous benefits.
 - The proposed software solution will enable customers to conveniently browse products, place orders, and make secure online payments from the comfort of their homes. This increased convenience will attract a wider customer base, expanding the mini mart's reach and creating new sales opportunities. This optimization will prevent stockouts and overstocking, leading to enhanced operational efficiency and reduced costs. Additionally, the system will provide valuable insights into customer preferences and purchasing patterns, enabling the mini mart to tailor its offerings and marketing strategies accordingly.
 
 ### 3. Objectives:
@@ -67,7 +67,7 @@ Limitations or constraints that may affect the project could include factors suc
 ### 5. Software Process Model:
 The goal of a software process model is to provide a framework for software development that ensures the project is completed within the allocated budget, schedule, and quality standards. The software process model defines the set of activities that must be performed during the software development lifecycle.
 
-For the KTDI DEWI KAYANGAN ENTERPRISE ONLINE SYSTEM, the ideal software process model is the Agile software development process. The justification for this choice is that the Agile methodology emphasizes the iterative and incremental development of software, which is particularly well-suited for complex projects with evolving requirements. In addition, Agile methodology allows for rapid prototyping and customer feedback, which is essential in developing a mini mart online system.
+For the KTDI MINIMARKET  SYSTEM, the ideal software process model is the Agile software development process. The justification for this choice is that the Agile methodology emphasizes the iterative and incremental development of software, which is particularly well-suited for complex projects with evolving requirements. In addition, Agile methodology allows for rapid prototyping and customer feedback, which is essential in developing a mini mart online system.
 
 The Agile software development process involves the following phases:
 
@@ -125,35 +125,34 @@ example of grantt chart based on our project(dates are just example):
 - Maintenance - Maintenance logs, bug reports, feature requests, working software
 
 ### 6. Budget:
-Developing an online mini mart system like KTDI DEWI KAYANGAN ENTERPRISE ONLINE SYSTEM will require a significant investment of resources. The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
+Developing an online mini mart system like KTDI MINIMARKET  SYSTEM will require a significant investment of resources. The budget section should outline the costs associated with the development of the software, including hardware, software, personnel, and testing. It should also include any contingency plans for unexpected expenses.
 
-Here is an estimated budget for developing the KTDI DEWI KAYANGAN ENTERPRISE ONLINE SYSTEM:
+Here is an estimated budget for developing the KTDI MINIMARKET  SYSTEM:
 
 1. Hardware and software costs:
 - Desktop computers and laptops for the development team: RM90,000
 - Software licenses for development tools and software: RM45,000
 - Web hosting and domain registration fees: RM9,000
 2. Personnel costs:
-- Project manager: RM67,500
-- Business analyst: RM45,000
-- UX/UI designer: RM54,000
-- Front-end developer: RM 112,500
-- Back-end developer: RM 112,500
-- Quality assurance engineer: RM67,500
+- Project manager: RM10,000
+- Business analyst: RM6,000
+- Front-end developer: RM20,000
+- Back-end developer: RM20,000
+- Quality assurance engineer: RM 35,000
 3. Testing costs:
 - Automated testing tools and software: RM22,500
 - Manual testing costs: RM 22,500
 4. Contingency:
 - Contingency fund: RM45,000
-- Total estimated budget: RM 832,000
+- Total estimated budget: RM325,000
 
 It is important to note that this is an estimated budget and actual costs may vary depending on various factors such as team size, expertise, and time duration. It is recommended to regularly monitor and update the budget to ensure that the project is completed within the allocated budget and timelines.
 ### 7. System Architecture:
 - Overview:
-The KTDI Dewi Kayangan Enterprise Online System is a web-based application for managing the operations of a mini mart. It allows customers to browse and purchase products online, while providing the mini mart staff with tools for inventory management, order processing, and sales analysis.
+The KTDI Minimarket  System is a web-based application for managing the operations of a mini mart. It allows customers to browse and purchase products online, while providing the mini mart staff with tools for inventory management, order processing, and sales analysis.
 - Data Storage and Management:
 The system will utilize a Relational Database Management System (RDBMS) for storing and managing data. The database will be hosted on a dedicated database server, ensuring data integrity and security. Regular backups will be performed to prevent data loss.
-- The proposed system architecture for the KTDI Dewi Kayangan Enterprise Online System will be a multi-tier architecture consisting of a presentation layer, application layer, and data layer as the following:
+- The proposed system architecture for the KTDI MINIMARKET  SYSTEM will be a multi-tier architecture consisting of a presentation layer, application layer, and data layer as the following:
 
 - Programming languages: 
  
@@ -262,8 +261,6 @@ Backup Systems: Storage devices or cloud services for regular data backups.
 
 Integrated Development Environment (IDE): Software tools such as Visual Studio Code, PHPStorm, or Sublime Text for coding and development.
 
-Laravel Framework: The PHP framework for building the web application.
-
 Database Management System: MySQL or other RDBMS for data storage and retrieval.
 
 Version Control System: Git or SVN for managing source code versions.
@@ -317,11 +314,11 @@ The system may need to integrate with security and compliance tools to ensure th
 - "Order Details" table, which includes columns for the order ID, product ID, quantity ordered, and price per unit.
 - "Payments" table, which includes columns for the payment ID, order ID, payment amount, payment method, and date and time of the payment.
 
-The schema can be designed and implemented using a database management system, such as MySQL or PostgreSQL, and can be accessed and manipulated using programming languages such as PHP or Python.
+The schema can be designed and implemented using a database management system, such as MySQL or PostgreSQL, and can be accessed and manipulated using programming languages such as PHP.
 
 
 #### Data Transformations:
-Data transformation refers to the process of converting data from one format, structure, or representation to another format, structure, or representation. In the context of developing KTDI Dewi Kayangan Enterprise Online System, data transformation may be necessary to:
+Data transformation refers to the process of converting data from one format, structure, or representation to another format, structure, or representation. In the context of developing KTDI MINIMARKET ONLINE SYSTEM, data transformation may be necessary to:
 
 1. Convert data from the mini mart's existing systems or databases into a format that is compatible with the new online system.
 
@@ -343,7 +340,7 @@ Other than that, examples of data transformation that are planned to do are:
 
 - Combining product data with external data sources, such as weather or demographic data, to identify patterns or correlations that can help the mini mart optimize its product offerings and promotions.
 
-- Data transformation can be performed using a variety of tools and techniques, including ETL (extract, transform, load) processes, scripting languages like Python or Ruby, or specialized data transformation software.
+- Data transformation can be performed using a variety of tools and techniques, including ETL (extract, transform, load) processes or specialized data transformation software.
 #### Machine Learning Algorithms:
 
 ##### Product recommendations
@@ -394,21 +391,11 @@ Other than that, examples of data transformation that are planned to do are:
 
 - PHP: a server-side scripting language that is commonly used for web development. It is often used to create dynamic web pages and database-driven applications.
 
-- Python: a versatile programming language that can be used for a variety of tasks, including web development. It is often used for backend development and data processing.
-
-- Ruby: a dynamic, object-oriented programming language that is often used for web development. It is often used with the Ruby on Rails web application framework.
-
 - Java: a popular programming language for web development, particularly for enterprise applications. It is often used with the Spring Framework and other Java-based web development frameworks.
 
 - TypeScript: a superset of JavaScript that adds additional features, such as static typing, to improve code maintainability and scalability.
 
 #### Frameworks:
-
-- Django: a high-level Python web framework that follows the model-view-controller (MVC) architectural pattern. It includes a built-in admin panel, user authentication, and a powerful ORM for working with databases.
-
-- Ruby on Rails: a popular web framework for building database-driven web applications. It emphasizes convention over configuration and uses the Model-View-Controller (MVC) architecture.
-
-- Laravel: a PHP web framework that follows the Model-View-Controller (MVC) architectural pattern. It includes a built-in ORM for working with databases, as well as tools for user authentication and authorization.
 
 - Express.js: a popular Node.js web framework that is designed for building web applications and APIs. It is known for its simplicity and flexibility.
 
@@ -416,31 +403,19 @@ Other than that, examples of data transformation that are planned to do are:
 
 #### Libraries:
 
-##### jQuery
-- A popular JavaScript library that simplifies the process of manipulating the DOM and handling events. It can be used to build interactive and responsive user interfaces.
-
 ##### Bootstrap
 - A front-end framework that provides a set of pre-built HTML, CSS, and JavaScript components. It can be used to create responsive and mobile-first web pages and interfaces.
 
 ##### Chart.js
 - A JavaScript library for creating data visualization charts. It supports a wide range of chart types, including line, bar, pie, and radar charts.
 
-##### React
-- A JavaScript library for building user interfaces. It uses a component-based architecture and provides a way to manage state and handle user events.
-
-##### NumPy
-- A Python library for working with arrays and matrices. It provides a range of mathematical functions and tools for manipulating data.
-
-##### Pandas
-- A Python library for working with data sets. It provides tools for reading and writing data to and from different file formats, as well as for cleaning, filtering, and aggregating data.
-
 ### Hardware and Software Requirements
 
 #### Hardware Requirements:
 
-- Computer or laptop with at least 8GB of RAM and a multi-core processor (estimated cost: RM 2,000-4,000)
+- Computer or laptop with at least  M1 PRO CHIP 8-CORE CPU 24 UNIFIED MEMORY 2TB STORAGE(MAC BOOK PRO)  (estimated cost: RM5200-RM10,799 )
 
-- High-speed internet connection (estimated cost: RM 200-400 per month)
+- High-speed internet connection with at least 500MB/s (estimated cost: RM 200-400 per month)
 
 - Server hardware for hosting the website (estimated cost: RM 4,000-20,000)
 #### Software Requirements:
@@ -518,7 +493,7 @@ Other than that, examples of data transformation that are planned to do are:
 
 ### 12. Conclusion:
 
-Developing an online system for KTDI mini mart, which are Dewi Kayangan Enterprise can provide many benefits for both the business owner and the customers. The conclusion that can be made are:
+Developing an online system for KTDI MINIMARKET  SYSTEM, which are Dewi Kayangan Enterprise can provide many benefits for both the business owner and the customers. The conclusion that can be made are:
 
 - Increased convenience: An online mini mart system allows customers to purchase items from the comfort of their own home, making the shopping experience more convenient and accessible.
 

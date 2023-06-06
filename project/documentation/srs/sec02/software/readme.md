@@ -42,8 +42,8 @@ Don't forget to hit the :star: if you like this repo.
 | No | Name |File | 
 | -----:| ----- | :------: | 
 |1| Document SRS| <a href="https://docs.google.com/document/d/1IYG7GiCYAsp6VpTwAMfNKDYWtK1Ys9vY/preview"><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/documentation/srs/sec02/software/Use%20Case%20Diagram%20(3)-Use%20Case%20Diagram.drawio.png"><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
-|3| Others| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/documentation/srs/sec02/software/Use%20Case%20Diagram%20(3)-Use%20Case%20Diagram.drawio.png" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/documentation/srs/sec02/software/%5BNEW%5D%20Use%20Case%20Diagram-Overview.drawio.png"><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|3| Others| <a href="https://github.com/drshahizan/software-engineering/tree/main/project/documentation/srs/sec02/software/others" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 |4| Daily Scrum|<a href="https://github.com/drshahizan/software-engineering/tree/main/project/documentation/srs/sec02/software/others/Scrum%20meeting" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder

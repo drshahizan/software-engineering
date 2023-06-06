@@ -43,11 +43,9 @@
   
 These are the current system interface from academic advisor view:
 
-<img src="https://user-images.githubusercontent.com/128214992/236150766-f7463dd2-f294-448b-8de4-a01469125d4a.jpg" width="400" height=auto>
-<img src="https://user-images.githubusercontent.com/128214992/236150893-9ba55c91-8924-441a-a1ca-a777cb205d7d.jpg" width="400" height=auto>
-<img src="https://user-images.githubusercontent.com/128214992/236149794-9e95df6d-4400-4dad-b1fe-065e96ca9fc6.jpg" width="400" height=auto>
-<img src="https://user-images.githubusercontent.com/128214992/236150477-dc2944e5-74bf-48ce-bf6f-927d3fcca888.jpg" width="400" height=auto>
-<img src="https://user-images.githubusercontent.com/128214992/236149827-df6b0303-4ccf-4d44-9dbd-d5ae4ebe322f.jpg" width="400" height=auto>
+<img src="https://raw.githubusercontent.com/mysarahzal/mysarahzal/main/WhatsApp%20Image%202023-06-06%20at%2016.05.50.jpg" width="400" height=auto>
+<img src="https://raw.githubusercontent.com/mysarahzal/mysarahzal/main/photo_2023-06-06_16-13-33.jpg" width="400" height=auto>
+<img src="https://github.com/mysarahzal/mysarahzal/blob/main/photo_2023-06-06_16-14-36.jpg" width="400" height=auto>
 
 
 ### 3. Objectives:
@@ -73,6 +71,7 @@ The Academic Support Services System will provide a web-based platform that allo
    The ideal software process model for this project is the Agile methodology. The Agile methodology is ideal for this project because it allows for flexibility and adaptability to changing requirements. This is important because the system will be continuously improved based on feedback from students and lecturers.
 
 <img src="https://user-images.githubusercontent.com/128196055/235509164-0d5157b4-b28e-46a5-b02a-db9fd7601fa3.jpg" width="400" height=auto>
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/program/usecasediagram%20(2).png"width="800" height=auto>
 
 The Agile methodology is an iterative and incremental approach to software development that focuses on delivering working software frequently. The methodology is based on four core values:
 
@@ -113,16 +112,13 @@ This is cost will cover any activities associated with developing and deploying 
 ### 7. System Architecture:
 
 **Architecture**:
-  The proposed academic support app will consist of a client-server architecture, with the front-end developed using HTML and CSS and the back-end using Node.js and MongoDB. The app will be hosted on a cloud platform such as Amazon Web Services (AWS) or Microsoft Azure.
-
- **Data Storage and Management**:
-  The app will use MongoDB, a NoSQL document-oriented database, to store student and lecturer data, appointment schedules, and other relevant information. MongoDB is a scalable, flexible, and highly available database that can handle large amounts of data.
+  The proposed academic support app will consist of a client-server architecture, with the front-end developed using HTML and CSS.
 
 **Data Analysis**:
-  The app will not require complex data analysis since it primarily serves as a scheduling tool. However, basic data analysis such as appointment statistics and user activity tracking can be implemented using MongoDB's built-in analytics tools. 
+  The app will not require complex data analysis since it primarily serves as a scheduling tool. However, basic data analysis such as appointment statistics and user activity tracking can be implemented using PHP's built-in analytics tools. 
 
-**Hardware and Software Requirements**:
-  The hardware requirements for the app are minimal, with a basic web server and a MongoDB database server being sufficient. The software requirements include Node.js, MongoDB, and any necessary libraries and frameworks.
+**Hardware Requirements**:
+  The hardware requirements for the app are minimal, with a basic web server and aPHP database server being sufficient. 
 
 **Data Visualization**:
 The app does require complex data analysis, data visualization tools are not necessary.
@@ -131,9 +127,8 @@ The app does require complex data analysis, data visualization tools are not nec
 The following tools and technologies will be used to develop and deploy the academic support app:
 - HTML: For front-end development
 - CSS: For styling and layout
-- Node.js: For back-end development and server-side logic
-- MongoDB: For data storage and management
-- Amazon Web Services (AWS) or Microsoft Azure: For cloud hosting and deployment
+- PHP: For data storage and management
+- Figma: For software development
 
 ### 8. Risks Assessment:
 
@@ -157,7 +152,7 @@ The following tools and technologies will be used to develop and deploy the acad
 **Staff**:
 
 1. Main Developer: responsible for managing the project, ensuring that it is delivered on time, within budget, and to the required quality. The project manager will need to have experience in managing software development projects and be proficient in project management tools and methodologies.
-2. UX/UI Designer:  responsible for designing and developing the user interface of the academic support app using HTML and CSS. Responsible for developing the server-side logic, API, and database using Node.js and MongoDB.
+2. UX/UI Designer:  responsible for designing and developing the user interface of the academic support app using HTML and CSS. Responsible for developing the server-side logic, Figma and Draw.io.
 3. QA/ Test Engineer: responsible for testing the app and ensuring that it meets the functional and non-functional requirements.
 4. Technical Lead: responsible for analyzing the app usage and providing insights to improve the app.
 
@@ -169,12 +164,10 @@ The following tools and technologies will be used to develop and deploy the acad
 
 **Software**:
 
-1. HTML and CSS editor such as Visual Studio Code or Sublime Text
-2. Node.js and MongoDB for server-side development
-3. Project management software such as Trello or Asana
-4. Version control software such as Git and GitHub
-5. Testing tools such as Mocha and Chai
-6. Data visualization and analysis tools such as Tableau or Power BI
+1. HTML and CSS editor such as Visual Studio Code 
+2. Draw.io for server-side development
+3. Project management software such as Figma
+4. Version control software such as GitHub
 
 <!--**Other Expenses**:
 
@@ -191,17 +184,13 @@ Technical specifications play a vital role in the success of any project. Here a
 
 2. **Data schema**: The data schema will be designed to store data in a structured format that can be easily queried and analyzed. The schema will be flexible enough to accommodate changes in data sources or requirements.
 
-3. **Data transformations**: The data will be transformed using ETL (Extract, Transform, Load) processes to clean, preprocess, and enrich the data. The data transformations will be designed to handle missing values, outliers, and other anomalies in the data.
+3. **Machine learning algorithms**: Machine learning algorithms will be used to extract insights from the data. The algorithms will include supervised and unsupervised learning techniques, such as classification, regression, clustering, and anomaly detection.
 
-4. **Machine learning algorithms**: Machine learning algorithms will be used to extract insights from the data. The algorithms will include supervised and unsupervised learning techniques, such as classification, regression, clustering, and anomaly detection.
+4. **Data visualization tools**: The data will be visualized using interactive dashboards and charts. The visualization tools will be selected based on their ability to handle large volumes of data and provide real-time insights.
 
-5. **Data visualization tools**: The data will be visualized using interactive dashboards and charts. The visualization tools will be selected based on their ability to handle large volumes of data and provide real-time insights.
+5. **Programming languages, frameworks, and libraries**: The project will be developed using a combination of programming languages, frameworks, and libraries, HTML, CSS and Figma.
 
-6. **Programming languages, frameworks, and libraries**: The project will be developed using a combination of programming languages, frameworks, and libraries, including Python, Flask, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, and Plotly.
-
-7. **Hardware and software requirements**: The proposed system will require a robust hardware and software infrastructure. The hardware requirements will include high-performance servers with sufficient RAM, storage, and processing power. The software requirements will include operating systems, databases, web servers, and other software components.
-
-8. **Data security measures**: The project will implement various data security measures, including data encryption, access controls, and secure data transfer protocols. The project will comply with relevant data privacy regulations and guidelines, such as GDPR and CCPA
+6. **Hardware and software requirements**: The proposed system will require a robust hardware and software infrastructure. The hardware requirements will include high-performance servers with sufficient RAM, storage, and processing power. The software requirements will include operating systems, databases, web servers, and other software components.
 
 ### 11. Timeline and Deliverables: 
 1. **Milestone 1: Project Planning and Requirements Gathering**
