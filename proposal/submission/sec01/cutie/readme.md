@@ -8,7 +8,7 @@
   4. Tiew Chuan Shen (A22EC0113)
   5. Wong Jun Ji (A22EC0117)
   
-  <a href="https://ibb.co/1TC04ny"><img src="https://i.ibb.co/yqzNxRv/Image-20230504004651.jpg" alt="Image-20230504004651" border="0"></a>
+  <img width="523" alt="image" src="https://github.com/drshahizan/software-engineering/assets/129235052/348d623a-30e2-429f-9794-31359c96b5f6">
 
 ### Table of Contents
  |No.  | Content |
@@ -141,23 +141,23 @@ The development of UTM Student Attendance Management System for around 20,000 us
 </tr>
 <tr>
 <td>Project Manager</td>
-<td>9 000</td>
+<td align="right">9 000</td>
 </tr>
 <tr>
 <td>Business Analysts</td>
-<td>6 000</td>
+<td align="right">6 000</td>
 </tr>
 <tr>
 <td>UI/UX Designer</td>
-<td>10 000</td>
+<td align="right">10 000</td>
 </tr>
 <tr>
 <td>Main Developers</td>
-<td>5 000</td>
+<td align="right">5 000</td>
 </tr>
 <tr>
 <td>Quality Assurance </td>
-<td>7 000</td>
+<td align="right">7 000</td>
 </tr>
 </table>
 
@@ -169,23 +169,23 @@ The development of UTM Student Attendance Management System for around 20,000 us
 </tr>
 <tr>
 <td>Computer/Laptops</td>
-<td>15 000</td>
+<td align="right">15 000</td>
 </tr>
 <tr>
 <td>Servers</td>
-<td>180 000</td>
+<td align="right">180 000</td>
 </tr>
 <tr>
 <td>Network Infrastructure</td>
-<td>70 000</td>
+<td align="right">70 000</td>
 </tr>
 <tr>
 <td>Printers and Scanners</td>
-<td>4 000</td>
+<td align="right">4 000</td>
 </tr>
 <tr>
 <td>Mobile Devices </td>
-<td>6 000</td>
+<td align="right">6 000</td>
 </tr>
 </table>
 
@@ -198,35 +198,35 @@ The development of UTM Student Attendance Management System for around 20,000 us
 </tr>
 <tr>
 <td>Integrated Development Environment (IDE)</td>
-<td>1 500</td>
+<td align="right">1 500</td>
 </tr>
 <tr>
 <td>Database management system</td>
-<td>14 000</td>
+<td align="right">14 000</td>
 </tr>
 <tr>
 <td>Security Software</td>
-<td>1 000</td>
+<td align="right">1 000</td>
 </tr>
 <tr>
 <td>Project Management Software</td>
-<td>600</td>
+<td align="right">600</td>
 </tr>
 <tr>
 <td>Testing Tools</td>
-<td>13 000</td>
+<td align="right">13 000</td>
 </tr>
 <tr>
 <td>Cloud Storage</td>
-<td>1 700</td>
+<td align="right">1 700</td>
 </tr>
 <tr>
 <td>Version Control Software</td>
-<td>4000</td>
+<td align="right">4000</td>
 </tr>
 <tr>
 <td>Web Server</td>
-<td>700</td>
+<td align="right">700</td>
 </tr>
 </table>
 
@@ -238,19 +238,19 @@ The development of UTM Student Attendance Management System for around 20,000 us
 </tr>
 <tr>
 <td>Rental fees (office)</td>
-<td>18 000</td>
+<td align="right">18 000</td>
 </tr>
 <tr>
 <td>Bills (Internet, phone, utilities, petrol, etc.)</td>
-<td>3 000</td>
+<td align="right">3 000</td>
 </tr>
 <tr>
 <td>Insurance</td>
-<td>7 000</td>
+<td align="right">7 000</td>
 </tr>
 <tr>
 <td>Unexpected costs</td>
-<td>2 000</td>
+<td align="right">2 000</td>
 </tr>
 </table>
 
@@ -271,10 +271,8 @@ The development of UTM Student Attendance Management System for around 20,000 us
   <li>show the percentage of students’ status</li></ul>
   <li>Heat maps</li><ul>
   <li>show the overall attendance rates of students in a particular course or class.</li></ul>
-  <li>Python</li> 
-  <li>Java </li></ul>
   <li>Hardware and Software Requirements:</li><ul>
-  <li>Computers/Laptops</li>
+  <li>Computers/Laptops</li><ul>
   <li>Servers</li>
   <li>Network infrastructure (switches, routers, storage, etc.)</li>
   <li>Printers and scanners</li>
