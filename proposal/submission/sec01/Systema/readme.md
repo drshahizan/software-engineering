@@ -216,7 +216,7 @@ The student engagement system for university users will be made up of a client-s
 
 - Presentation layer: The user interface of the website will be created using HTML, CSS, and JavaScript in this layer. The user interface of the website will be built using the front-end framework ReactJS.
 
-- The application layer will handle user requests, conduct data processing, and return responses. The server-side technologies for processing user requests and data management will be Node.js and Express.js.
+- The application layer will handle user requests, conduct data processing, and return responses. The server-side technologies for processing user requests and data management will be PHP and Apache.
 
 - Data layer: This layer will manage and store the system's data. The relational database management system (RDBMS) that will be utilised to store user information, posts, comments, and other important data is MySQL.
 
@@ -228,7 +228,7 @@ The following hardware and software are needed for managing and storing data:
 
 - Hardware: A server or hosting service with enough processing power and storage space to meet the website's data management and storage requirements.
 
-- Software: Express.js and Node.js for server-side processing, with MySQL serving as the RDBMS.
+- Software: PHP and Apache for server-side processing, with MySQL serving as the RDBMS.
 
 #### Data Analysis and Visualization
 
