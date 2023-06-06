@@ -126,26 +126,29 @@ In conclusion, the suggested meal ordering method is best suited to the Agile de
 ## 6. Budget:
 
 The budget for developing a food ordering system can vary depending on several factors, such as the complexity of the system, the features and functionalities required, the development platform, and the development team's location and expertise. 
+| Category | Description | Revised Cost |
+|----------|-------------|--------------|
+| Staff | 2 Programmers | RM 50,000/year each |
+|        | 1 System Analyst | RM 60,000/year |
+|        | 1 Project Manager | RM 100,000/year |
+|        | Total Staff Cost | RM 260,000/year |
+| Equipment | Servers | RM 80,000 |
+|           | Workstations and Laptops | RM 50,000 |
+|           | Networking and Cabling | RM 20,000 |
+|           | Security and Backup | RM 20,000 |
+|           | Total Equipment Cost | RM 170,000 |
+| Software | Relational Database Management System (RDBMS) | RM 15,000 |
+|          | Web Server | RM 5,000 |
+|          | Mobile Application Development Framework | RM 10,000 |
+|          | Data Analytics Tools | RM 15,000 |
+|          | Total Software Cost | RM 45,000 |
+| Other Expenses | Rent for Office Space | RM 50,000/year |
+|                | Utilities | RM 10,000/year |
+|                | Marketing and Advertising | RM 30,000 |
+|                | Contingency | RM 100,000 |
+|                | Total Other Expenses | RM 190,000 |
+| Total Estimated Cost | - | RM 665,000 |
 
-- System Design and Development : RM50,000.
-  
-This includes the cost of designing the system architecture, creating wireframes, and developing the system's front-end and back-end.
-
-- Database Management : RM20,000.
-
-This includes the cost of setting up and managing the database, including configuring security and backup systems.
-
-- Payment Gateway Integration : RM20,000.
-
-This includes the cost of integrating a payment gateway system into the food ordering system, enabling customers to make online payments.
-
-- Mobile Application Development : If a mobile application is required, the cost can range from RM10,000 to RM50,000.
-
-- Testing and Quality Assurance : RM20,000.
-
-This includes the cost of testing the system for bugs and errors and ensuring that the system meets the quality standards.
-
-It's essential to note that these are just estimates, and the actual cost may vary based on the specific requirements of the project. Additionally, ongoing maintenance costs and server hosting costs may also need to be considered.
 
 
 ## 7. System Architecture:
