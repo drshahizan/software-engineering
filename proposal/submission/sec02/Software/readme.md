@@ -231,7 +231,7 @@ b. **Hardware Resources** :
     - RM 40,200/year
   - Internet connectivity
     - RM 2,500/year
-  - Servers for hosting the website
+  - Servers for hosting the system
     - RM 1,500/year
   - Security and backup
     - RM 800/year
