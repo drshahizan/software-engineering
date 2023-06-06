@@ -8,7 +8,7 @@
   4. Tiew Chuan Shen (A22EC0113)
   5. Wong Jun Ji (A22EC0117)
   
-  <a href="https://ibb.co/1TC04ny"><img src="https://i.ibb.co/yqzNxRv/Image-20230504004651.jpg" alt="Image-20230504004651" border="0"></a>
+  <img width="523" alt="image" src="https://github.com/drshahizan/software-engineering/assets/129235052/348d623a-30e2-429f-9794-31359c96b5f6">
 
 ### Table of Contents
  |No.  | Content |
