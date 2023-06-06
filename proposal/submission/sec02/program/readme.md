@@ -165,10 +165,10 @@ The following tools and technologies will be used to develop and deploy the acad
 
 **Software**:
 
-1. HTML and CSS editor such as Visual Studio Code or Sublime Text
+1. HTML and CSS editor such as Visual Studio Code 
 2. Draw.io for server-side development
 3. Project management software such as Figma
-4. Version control software such as Git and GitHub
+4. Version control software such as GitHub
 
 <!--**Other Expenses**:
 
