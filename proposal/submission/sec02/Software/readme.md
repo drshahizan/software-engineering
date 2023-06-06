@@ -100,7 +100,7 @@ Agile methodology is most suitable for this project because it guarantees short 
 
 
 <div align="justify">
-    <img src="https://user-images.githubusercontent.com/128198038/236139357-9e0a01b8-516e-4881-8f1e-9190ea92fcf0.png" alt="alt text" />
+    <img src="https://i.ibb.co/jbXQbC8/Software-Process-Model.png" alt="Software-Process-Model" border="0">
 </div>
 
 #### Gathering Requirements Phase:
@@ -148,12 +148,12 @@ Agile methodology is most suitable for this project because it guarantees short 
 ---
 
 ### 6. Budget:
-For the student health and wellness management system which involves around 2000 users in Kolej Tun Dr. Ismail (KTDI), the estimated budget is **RM 570,000**. The budget includes the costs for 6 months of development and 6 months of maintenance for the system.
+For the student health and wellness management system which involves around 2000 users in Kolej Tun Dr. Ismail (KTDI), the estimated budget is **RM 457,000**. The budget includes the costs for 6 months of development and 6 months of maintenance for the system.
 - Hardware: **RM 45,000**\
 This could include purchasing or renting servers, storage devices, networking equipment, computers and other hardware necessary for the development and maintenance of the system. The cost might differ depending on the latest requirements of the system and the hardware components chosen.
 
-- Software: **RM 10,000**\
-This could include purchasing or licensing software such as operating systems, system development tools, and security software. The cost of software might differ depending on the latest requirements of the system, the number of licenses required, and the software tools and platforms chosen. To save on software costs, an open-source solution like the MySQL and PHP (LAMP) stack is a suitable alternative, with no cost initially required.
+- Software: **RM 0**\
+This could include purchasing or licensing software such as operating systems, system development tools, and security software. The cost of software might differ depending on the latest requirements of the system, the number of licenses required, and the software tools and platforms chosen. To save on software costs, an open-source solution like the MySQL and XAMPP is a suitable alternative, with no cost initially required.
 
 - Testing: **RM 15,000**\
 It requires specialized tests such as functional, performance and security tests to ensure the system functions correctly and meets the requirements. These tests require purchasing and installing specialized test equipment, software and other services that come with their own costs.
@@ -170,7 +170,7 @@ This could include salaries or fees for the development team members such as dev
 - Contingency: **RM50,000**\
 This could include additional funds set aside for any potential expenses or changes in project scope that might occur throughout the system's development and maintenance phases. Such a budget can assist with dealing with possible delays, revisions in the project's scope or any other sudden changes that need additional financial resources. 
 
-In conclusion, the estimated budget is **RM 467,000** which covers the costs for hardware, software, testing, maintenance, security, personnel and contingency. Any potential budget alterations must be relayed to stakeholders and project sponsors.
+In conclusion, the estimated budget is **RM 457,000** which covers the costs for hardware, software, testing, maintenance, security, personnel and contingency. Any potential budget alterations must be relayed to stakeholders and project sponsors.
 
 ---
 
@@ -203,12 +203,13 @@ We will use various tools and frameworks such as Tableau and Google Data Studio 
 #### System Architecture Diagram:
 The proposed system architecture can be visualized using the following flowchart :  
 
-![Flowchart](https://user-images.githubusercontent.com/128119778/236140460-219fc052-e07f-41e2-9ee8-d48059df6fc6.png)  
+<img src="https://github.com/drshahizan/software-engineering/assets/128119778/b58a27ad-2d3c-4df7-b612-e00a706c8e26" alt="Software-Process-Model" border="0" width="500" height="400">
 
 
 Diagram that represents our proposed system architecture :
 
-![SystemAchitecture](https://user-images.githubusercontent.com/128119778/236140524-f8a3d4af-3bc0-4ea2-a0fc-d5d803b864f2.png)
+<img src="https://github.com/drshahizan/software-engineering/assets/128119778/f5760ad0-e1f1-45e1-8b37-26aa5c1276f0" alt="Software-Process-Model" border="0" width="700" height="800">
+
 
 In summary, the proposed system architecture for Student Health and Wellness Management System will be a four-tier architecture consisting of the presentation tier, application tier, data tier and also security tier. It will utilize modern system and mobile technologies, a relational database management system, encryption technologies, and authentication and authorization mechanisms to ensure data security and privacy. To guarantee data security and privacy, it will make use of modern online technologies, a relational database management system, encryption technologies, and authentication and authorisation procedures. Multiple tools and frameworks will be used collaboratively for data visualisation and analysis.
 
@@ -225,8 +226,6 @@ In general, every project can be influenced by risk so they required a special a
 | **Budget and timeline risks**           | During the development and maintenance of the system, the allocated budget or timeline might exceed due to any potential challenges.   | <ul><li>Establishing a reasonable timeline and budget to complete the system. </li> <li>Regular assessing the project to review its progress and uncover potential strategies that can help to reduce costs and hasten the development process. </li></ul>|
 
 In conclusion, the potential risks that might face during the development and maintenance of student health and wellness system are security risks, technical risks, user experience risks, compliance risks and budget and timeline risks. To ensure the creation of a successful student health and wellness system, a complete risk assessment should be carried out in order to identify, evaluate and address any potential concerns.
-
----
 
 ### 9. Resources:
  - Main Developer : Goh Jiale
@@ -267,16 +266,13 @@ c. **Software Resources** :
   - Bootstrap Studio
     - RM 0/year
     - Used for developing the interface of the system. It provides a big library of pre-built components which makes it simpler to develop a user-friendly and aesthetically pleasing system
-  - System server
-    - RM 2,500/year
-    - Used for hosting the system
-  - Relational Database Management System (RDBMS)
-    - RM 4,000/year
-    - Used for managing the database for the system
+  - Figma
+    - RM 0/year
+    - Used for UI design
   - Cloud Service
-    - RM 3,500/year
+    - RM 0/year
     - Used for providing access to computing resources over the internet
-<p>Total Software Cost: RM 10,000/year</p>
+<p>Total Software Cost: RM 0/year</p>
 
 d. **Other Resources** :
   - Testing fees
@@ -289,7 +285,7 @@ d. **Other Resources** :
     - RM 50,000/year
 <p>Total Other Cost: RM 145,000/year</p>
 
-In conclusion, the total estimated cost is ***RM 467,000/year***.
+In conclusion, the total estimated cost is ***RM 457,000/year***.
 
 ---
 

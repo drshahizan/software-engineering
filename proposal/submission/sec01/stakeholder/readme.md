@@ -61,13 +61,12 @@ Don't forget to hit the :star: if you like this repo.
 ---
 
 ### 1. Executive Summary
-The Student Accommodation System proposal for Kolej Tun Dr Ismail (KTDI) is aimed at addressing the challenges that students and staff face when managing student accommodation. The current process for applying for and managing accommodation is unintegrated and time-consuming, which can result in delays, errors, and frustration for students and staff alike.
+The Student Accommodation System for Kolej Tun Dr Ismail (KTDI) addresses the challenges students and staff face when managing and applying for student accommodation. The existing housing application and management process must be more time-consuming and integrated because it can cause delays, mistakes, and dissatisfaction for students and staff.
 
-To address these challenges, the proposed software system will provide an online platform that allows students to apply for accommodation, make payments, and track the status of their application. KTDI staff will be able to manage room availability and allocation, communicate with students, and access relevant data and reports through a centralized dashboard.In terms of maintenance, we guarantee that KTDI rooms will continue to be kept in good condition owing to the maintenance system, giving students a comfortable and secure living environment.
+As a result, the proposed web application software system will offer a website where students can request accommodations, make payments, and check the status of their requests. KTDI administrator will be able to manage room availability and allocation and access relevant data and reports through a centralized dashboard. At the same time, the regular staff will be able to manage all of the applications submitted by the students via the website developed, and the fellow could also control KTDI merits throughout this system. In terms of maintenance, it is guaranteed that KTDI rooms will remain in good condition owing to the maintenance request and tracking functionality of the proposed accommodation system, giving students a comfortable and secure living environment.
+The system will be designed to be user-friendly and accessible, with clear instructions and prompts throughout the process. It will also incorporate automated communication channels, such as email notifications, to keep students updated on the status of their applications and requests.
 
-The system will be designed to be user-friendly and accessible, with clear instructions and prompts throughout the process. It will also incorporate automated communication channels, such as email notifications, to keep students and staff updated on the status of their applications and requests.
-
-The expected outcomes of the project include improved students and also KTDI staffs satisfaction, as the software system will provide a more convenient and streamlined process for managing accommodation. KTDI staff will also benefit from increased efficiency, as the system will reduce the need for manual data entry and administrative tasks. Finally, the system is expected to reduce errors and delays in the accommodation management process, resulting in a more reliable and efficient system overall. 
+The project's expected outcomes include improved students and KTDI staff satisfaction, as the software system will provide a more convenient and streamlined process for managing and applying accommodation. KTDI staff will also benefit from increased efficiency, as the system will reduce the need for manual data entry and administrative tasks. Finally, the system is expected to reduce errors and delays in the accommodation application process, resulting in a more reliable and efficient system overall.
 
 ---
   
@@ -259,10 +258,13 @@ ii. Software requirements
 - Business intelligence (BI) tools: <br>We will use Tableau, PowerBI to perform advanced analytics, create reports and generate insights from the data.
 
 #### System Architecture Diagram:
-The proposed system architecture can be visualized using the following flowchart:
+- Use case diagram of the introduced system:
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/UML-use_case1.drawio.png">
+
+- The proposed system architecture can be visualized using the following flowchart:
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/flowchart_diagram.PNG" width=500px height=300px>
 
-High-level diagram that represents our proposed system architecture:<br>
+- High-level diagram that represents our proposed system architecture:
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/level_diagram.PNG" width=850px height=400px>
   
 ---

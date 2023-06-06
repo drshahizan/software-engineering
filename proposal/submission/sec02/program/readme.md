@@ -43,9 +43,9 @@
   
 These are the current system interface from academic advisor view:
 
-<img src="https://user-images.githubusercontent.com/128214992/236150766-f7463dd2-f294-448b-8de4-a01469125d4a.jpg" width="400" height=auto>
-<img src="https://user-images.githubusercontent.com/128214992/236150893-9ba55c91-8924-441a-a1ca-a777cb205d7d.jpg" width="400" height=auto>
-<img src="![photo_2023-05-04_16-00-32 (3)](https://github.com/drshahizan/software-engineering/assets/128214992/5e6c0bd9-4f26-4736-9e14-5f6d14e7dae1)" width="400" height=auto>
+<img src="https://raw.githubusercontent.com/mysarahzal/mysarahzal/main/WhatsApp%20Image%202023-06-06%20at%2016.05.50.jpg" width="400" height=auto>
+<img src="https://raw.githubusercontent.com/mysarahzal/mysarahzal/main/photo_2023-06-06_16-13-33.jpg" width="400" height=auto>
+<img src="https://github.com/mysarahzal/mysarahzal/blob/main/photo_2023-06-06_16-14-36.jpg" width="400" height=auto>
 
 
 ### 3. Objectives:
@@ -71,6 +71,7 @@ The Academic Support Services System will provide a web-based platform that allo
    The ideal software process model for this project is the Agile methodology. The Agile methodology is ideal for this project because it allows for flexibility and adaptability to changing requirements. This is important because the system will be continuously improved based on feedback from students and lecturers.
 
 <img src="https://user-images.githubusercontent.com/128196055/235509164-0d5157b4-b28e-46a5-b02a-db9fd7601fa3.jpg" width="400" height=auto>
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/program/usecasediagram%20(2).png"width="800" height=auto>
 
 The Agile methodology is an iterative and incremental approach to software development that focuses on delivering working software frequently. The methodology is based on four core values:
 
