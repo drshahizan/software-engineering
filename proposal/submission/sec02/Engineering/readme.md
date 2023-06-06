@@ -32,7 +32,7 @@ Don't forget to hit the :star: if you like this repo.
   <td>3.</td> <td> ALIATUL IZZAH BINTI JASMAN </td> <td> A22EC0136 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Engineering/photo/izzah.jpg" width=150,height=300> </td> 
   </tr>
 <tr>
-  <td>4.</td> <td> THEVAN RAJU A/L JEGANATHi </td> <td>A22EC0286 </td><td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Engineering/photo/thevan.jpg" width=150px, height=200px> </td>
+  <td>4.</td> <td> THEVAN RAJU A/L JEGANATH </td> <td>A22EC0286 </td><td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Engineering/photo/thevan.jpg" width=150px, height=200px> </td>
   </tr>
 </table>
   
