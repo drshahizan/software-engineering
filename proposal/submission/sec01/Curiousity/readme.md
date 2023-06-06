@@ -327,15 +327,13 @@ In conclusion, the estimated budget for the development of the KTDI Event Manage
 <hr style="border:0.5px solid gray;height:0.5px;">
 
 ### 7. System Architecture:
-The proposed system architecture for the KTDI event management system is a web-based system built using modern technologies and frameworks. The system will have a multi-tier architecture consisting of a presentation layer and  application layer. The presentation layer will be responsible for displaying the user interface and handling user interactions. The application layer will be responsible for implementing the business logic of the system and handling user requests. The system will require users to enter their email and password to gain access, limiting use to JKM KTDI members, staff of the office KTDI, fellows, and assistant fellows.
+The proposed system architecture for the KTDI event management system is a web-based system built using modern technologies and frameworks. The system will have a multi-tier architecture consisting of a presentation layer and  application layer. The presentation layer will be responsible for displaying the user interface and handling user interactions. The application layer will be responsible for implementing the business logic of the system and handling user requests. The system will require users to enter their email and password to gain access, limiting use to JKM KTDI members, KTDI staff, and students. All the users can register for their account using UTM email address for only one account and can reset their password in the system.
 
-The system will have two interfaces catering to different roles: the JKM interface and the Staff Office KTDI and Fellow interface. JKM members will be able to create spaces for handling the necessary documents for each activity. Within these spaces, they can distribute tasks to different members, and progress is visible to all members, staff, fellows, and assistant fellows involved.
+The system will have three interfaces catering to different roles: the JKM interface ,KTDI Staff interface and Student interface. JKM members will be able to create spaces for handling the prepartion for each activity. Within these spaces, they can distribute tasks to different members, and progress is visible to all members, and staff involved. Users can upload their event-related documents to the system as the update to the task progress. JKM members can use this system to record the activities for record-keeping purposes. This may include the registration list, attendance and feedback lists and students' merit list that can serve as a reference for future JKM batches, fellows, and assistant fellows.
 
-Users can upload their event-related documents to the system, and a feature allows them to send the documents to the appropriate approver. The person in charge can decide whether to approve the documents or not. If the approval is rejected, one can leave comment for improvement and correction at the comment section
+KTDI staff can view the event that will be organised at KTDI by JKM KTDI in the Event Calander page. KTDI staff can view the documents uploaded and check the progress of each unit of the activity. They can also access the record section to view the activities that have been organised. 
 
-JKM members can use this system to record completed activities for record-keeping purposes. This may include generating reports for each unit and feedback reports that can serve as a reference for future JKM batches, fellows, and assistant fellows.
-
-The Staff Office KTDI, Fellow, and Assistant Fellow interfaces can view whether there are any documents that need approval and check the progress of each unit of the activity. They can also access the report and record section to view past activities that have been organised. 
+Student can use this system to register for the event in KTDI and view the detail of the event. They can use it to submit attendance and feedback to JKM members. Students can view their merit earned from each event that they have attended.
 
 <table style="border-collapse: collapse;">
       <thead>
@@ -347,17 +345,13 @@ The Staff Office KTDI, Fellow, and Assistant Fellow interfaces can view whether 
       </thead>
       <tbody>
         <tr>
-          <td rowspan="5">Presentation Layer</td>
+          <td rowspan="4">Presentation Layer</td>
           <td>HTML</td>
           <td>Markdown language that used to structure content and create a basic layout, in line with the design of the system's user interface</td>
         </tr>
         <tr>
           <td>CSS</td>
           <td>Style sheet language that used to describe the presentation of HTML documents by styling and formatting the HTML content.</td>
-        </tr>
-        <tr>
-          <td>JavaScript</td>
-          <td>Programming language that used to add interactive and dynamic effects to the interface of web pages, as well as provide some functionality in the web pages.</td>
         </tr>
         <tr>
           <td>Bootstrap</td>
@@ -389,7 +383,7 @@ The Staff Office KTDI, Fellow, and Assistant Fellow interfaces can view whether 
     </table>
 
 The block diagram for the proposed system architecture is as follows:
-<img src="system_architecture_dg.jpg" alt="SystemArchitecture"></img>
+<img src="System architecture.jpg" alt="SystemArchitecture"></img>
 
 <hr style="border:0.5px solid gray;height:0.5px;">
 
