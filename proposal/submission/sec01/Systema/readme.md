@@ -202,7 +202,7 @@ There will be a number of costs associated with the creation of a student engage
 - These expenses could include unforeseen hardware or software failures, scope changes, or development timeline delays.
 - The project's contingency fund is included to ensure that it can proceed even in the event of unforeseen difficulties or setbacks that can have an impact on student engagement.
 
-#### Others: RM 10,000
+#### Others: RM 50,000
 
 In conclusion, it is anticipated that RM 126,000 will be needed to develop the student engagement system. Costs associated with staff, testing, hardware, software, and contingency will all be covered by the budget. Stakeholders and project sponsors will be informed of any budget changes.
 
@@ -281,10 +281,10 @@ Block Diagram:
       <br>*Total Cost: RM 80,000*
       
   3. Equipment:
-      + Computers and laptops for the project team: RM 150,000
-      + Servers and hosting services for the website: RM 50,000
+      + Computers and laptops for the project team: RM 10,000
+      + Servers and hosting services for the website: RM 10,000
       + Internet connectivity: RM 20,000
-      <br>*Total Cost: RM 220,000*
+      <br>*Total Cost: RM 40,000*
       
   4. Software:
       + User interface: HTML, CSS, JavaScript, and ReactJS: RM 5,000
@@ -301,7 +301,7 @@ Block Diagram:
       + Training and support expenses: RM 3,000
       <br>*Total Cost: RM 26,000*
       
-  <br><br><b>Grand Total: RM 126,000</b>
+  <br><br><b>Grand Total: RM 176,000</b>
 
 
 ### 10. Technical Specifications
