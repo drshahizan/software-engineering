@@ -15,8 +15,10 @@ Don't forget to hit the :star: if you like this repo.
 ### Prepared by: Lastminpotential
   1. Goh Jing Yang A22EC0052
   2. Loo Jia Chang A22EC0074
-  3. TAN JUN YUAN A22EC0107
+  3. Tan Jun Yuan A22EC0107
   4. Chen Pyng Haw A22EC0042
+
+<img src="interviewWithDean.jpg" alt="Meeting with Dean of Faculty of Computing">
 
 ### Table of Contents
  |No.  | Content |
