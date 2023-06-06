@@ -255,7 +255,7 @@ Resources divided into 4 different types which are staff,equipment,software and 
 
 #### Software : 
 
-1. Visual Studio Code as a main IDE
+1.Visual Studio Code as a main IDE
 
 2.Data visualization tools which are Power BI or Tableau
 
