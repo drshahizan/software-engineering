@@ -157,13 +157,11 @@ Overall, the cost of developing a basic parcel delivery system for a university 
   
 1. Front-end Layer: This layer will consist of a web-based user interface that allows users to interact with the parcel system. The front-end will be built using modern web technologies such as HTML, CSS, and JavaScript.
 
-2. Application Layer: This layer will consist of the server-side logic that powers the parcel system. The application layer will be built using a modern web framework such as Ruby on Rails or Django. This layer will be responsible for handling user requests, processing data, and communicating with the database.
+2. Database Layer: This layer will consist of the database system that stores all the data related to the parcel system. The database will be designed using a relational database management system such as MySQL. The database will store information such as user accounts, parcel information, and transaction history.
 
-3. Database Layer: This layer will consist of the database system that stores all the data related to the parcel system. The database will be designed using a relational database management system such as MySQL. The database will store information such as user accounts, parcel information, and transaction history.
+3. Integration Layer: This layer will consist of APIs and other integration points that allow the parcel system to communicate with other systems and services. This layer may include integrations with payment gateways, shipping providers, and other third-party services.
 
-4. Integration Layer: This layer will consist of APIs and other integration points that allow the parcel system to communicate with other systems and services. This layer may include integrations with payment gateways, shipping providers, and other third-party services.
-
-5. Infrastructure Layer: This layer will consist of the hardware and software infrastructure that supports the parcel system. This may include servers, load balancers, firewalls, and other networking equipment.
+4. Infrastructure Layer: This layer will consist of the hardware and software infrastructure that supports the parcel system. This may include servers, load balancers, firewalls, and other networking equipment.
 
 The proposed system architecture will be designed to be scalable, secure, and maintainable, allowing for easy expansion and growth as the parcel system evolves over time.
   
