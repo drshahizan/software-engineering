@@ -149,6 +149,8 @@ The cost of developing a basic parcel delivery system for a university in Malays
 5. Technology stack: RM 15,000 (The is range from RM 10,000 to RM 20,000)
   The cost of the technology stack includes the cost of using technologies such as cloud computing, data analytics, and machine learning.
 
+ Total estimate cost : RM94,000
+ 
 Overall, the cost of developing a basic parcel delivery system for a university in Malaysia can be divided into these categories, with a total cost ranging from RM 50,000 to RM 100,000. It's important to note that these are estimates and that the actual cost can vary depending on the specific needs of the university and the level of customization required.
 
 ### 7. System Architecture:
