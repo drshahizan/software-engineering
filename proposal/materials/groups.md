@@ -30,7 +30,8 @@ Don't forget to hit the :star: if you like this repo.
 | 3 | Beta | Food Ordering System in UTM |<a href="../submission/sec02/Beta" ><img src="../../images/task.png" width="24px" height="24px" ></a> |
 | 4 | Engineering | Parcel Delivery Service |<a href="../submission/sec02/Engineering" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
 | 5 | Program | Academic Consultation System|<a href="../submission/sec02/program" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
-| 6 | Software| Student Health and Wellness Management System |<a href="../submission/sec02/Software" ><img src="../../images/task.png" width="24px" height="24px" ></a> | | | 7 | Tempest | Badal Hajj and Umrah Management System|<a href="../submission/sec02/Tempest" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
+| 6 | Software| Student Health and Wellness Management System |<a href="../submission/sec02/Software" ><img src="../../images/task.png" width="24px" height="24px"> </a>| | 
+| 7 | Tempest | Badal Hajj and Umrah Management System|<a href="../submission/sec02/Tempest" ><img src="../../images/task.png" width="24px" height="24px" ></a> | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

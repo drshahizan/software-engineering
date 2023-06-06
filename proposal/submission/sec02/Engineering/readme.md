@@ -32,7 +32,7 @@ Don't forget to hit the :star: if you like this repo.
   <td>3.</td> <td> ALIATUL IZZAH BINTI JASMAN </td> <td> A22EC0136 </td> <td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Engineering/photo/izzah.jpg" width=150,height=300> </td> 
   </tr>
 <tr>
-  <td>4.</td> <td> THEVAN RAJU A/L JEGANATHi </td> <td>A22EC0286 </td><td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Engineering/photo/thevan.jpg" width=150px, height=200px> </td>
+  <td>4.</td> <td> THEVAN RAJU A/L JEGANATH </td> <td>A22EC0286 </td><td><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Engineering/photo/thevan.jpg" width=150px, height=200px> </td>
   </tr>
 </table>
   
@@ -54,7 +54,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ### 1. Executive Summary:
 
-The parcel delivery management system for a One Stop Parcel System of University Technology Malaysia is a web-based application that will provide a streamlined and user-friendly interface for students, faculty, and staff to send and receive parcels on campus. The system will include real-time tracking of parcel deliveries, integration with the university's existing student and faculty database, secure payment processing for parcel deliveries, and a notification system to inform users when a parcel has arrived. The system will also integrate with the university's existing security system for parcel pickup.
+The parcel delivery management system for a One Stop Parcel System of Universiti Teknologi Malaysia is a web-based application that will provide a streamlined and user-friendly interface for students, faculty, and staff to send and receive parcels on campus. The system will include real-time tracking of parcel deliveries, integration with the university's existing student and faculty database, secure payment processing for parcel deliveries, and a notification system to inform users when a parcel has arrived. The system will also integrate with the university's existing security system for parcel pickup.
 
 The project timeline for the parcel system is estimated at 14 weeks, including requirements gathering and analysis, system design and development, and system deployment and training. 
 
@@ -62,7 +62,7 @@ The proposed parcel delivery management system will provide numerous benefits to
 
 ### 2. Background:
 
-University Technology Malaysia (UTM) have large campuses with many buildings and locations, which can make it challenging for UTM students, faculty, and staff to send and receive parcels efficiently. In addition, traditional parcel delivery methods require individuals to wait in long lines or travel to Kolej Rahman Putra which can be time-consuming and inconvenient. Traditional parcel delivery method require students to place or recieve order in Telegram group which make students to overlook the thousand of messages and wait for too long to accpet their delivery orders.
+Universiti Teknologi Malaysia (UTM) have large campuses with many buildings and locations, which can make it challenging for UTM students, faculty, and staff to send and receive parcels efficiently. In addition, traditional parcel delivery methods require individuals to wait in long lines or travel to Kolej Rahman Putra which can be time-consuming and inconvenient. Traditional parcel delivery method require students to place or recieve order in Telegram group which make students to overlook the thousand of messages and wait for too long to accpet their delivery orders.
 
 To address these challenges, a parcel system can be implemented to streamline the parcel delivery process and provide a more user-friendly experience for students, faculty, and staff. The proposed parcel system will be a web-based application that will be accessible to all members of the university community, allowing them to easily send and receive parcels on campus.
 
@@ -73,7 +73,7 @@ Overall, the proposed parcel system is expected to provide numerous benefits to 
 ### 3. Objectives:
 Our proposed parcel system aims to achieve the following objectives:
 
-1. To develop a web-based parcel delivery system for the university community.
+1. To develop a web-based application parcel delivery system for the university community.
 2. To integrate the system with the university's existing security system to enhance parcel delivery security.
 3. To provide real-time tracking of parcel deliveries to increase transparency and reduce delivery times.
 4. To offer a streamlined and user-friendly interface for parcel senders and receivers.
@@ -88,7 +88,7 @@ Our proposed parcel system aims to achieve the following objectives:
 
 3. Integration: The system will integrate with the university's existing student and faculty database, security system, and payment gateway, ensuring a seamless user experience.
 
-4. Payment Processing: The system will provide secure payment processing for parcel deliveries, allowing users to pay for parcel delivery online using their credit card or other payment methods.
+4. Payment Processing: The system will provide secure payment processing for parcel deliveries, user directly contact rider to proceed the payment.
 
 5. Notifications: The system will include a notification system to inform users when a parcel has arrived and is ready for pickup.
 
@@ -120,7 +120,7 @@ The proposed scope for the parcel system is expected to provide numerous benefit
 
 2. Design: Once the requirements are gathered, the next stage will involve designing the system architecture, user interface, and database schema. This stage will also include developing wireframes and mockups to help visualize the system.
 
-3. Development: The third stage will involve actual development of the parcel system. This will include coding, database setup, and integration with third-party services such as payment gateways and security systems.
+3. Development: The third stage will involve actual development of the parcel system. This will include coding, database setup.
 
 4. Testing: The fourth stage will involve testing the system to ensure that it meets the requirements and is free of errors and bugs. This will include unit testing, integration testing, and user acceptance testing.
 
@@ -149,19 +149,19 @@ The cost of developing a basic parcel delivery system for a university in Malays
 5. Technology stack: RM 15,000 (The is range from RM 10,000 to RM 20,000)
   The cost of the technology stack includes the cost of using technologies such as cloud computing, data analytics, and machine learning.
 
+ Total estimate cost : RM94,000
+ 
 Overall, the cost of developing a basic parcel delivery system for a university in Malaysia can be divided into these categories, with a total cost ranging from RM 50,000 to RM 100,000. It's important to note that these are estimates and that the actual cost can vary depending on the specific needs of the university and the level of customization required.
 
 ### 7. System Architecture:
   
 1. Front-end Layer: This layer will consist of a web-based user interface that allows users to interact with the parcel system. The front-end will be built using modern web technologies such as HTML, CSS, and JavaScript.
 
-2. Application Layer: This layer will consist of the server-side logic that powers the parcel system. The application layer will be built using a modern web framework such as Ruby on Rails or Django. This layer will be responsible for handling user requests, processing data, and communicating with the database.
+2. Database Layer: This layer will consist of the database system that stores all the data related to the parcel system. The database will be designed using a relational database management system such as MySQL. The database will store information such as user accounts, parcel information, and transaction history.
 
-3. Database Layer: This layer will consist of the database system that stores all the data related to the parcel system. The database will be designed using a relational database management system such as PostgreSQL or MySQL. The database will store information such as user accounts, parcel information, and transaction history.
+3. Integration Layer: This layer will consist of APIs and other integration points that allow the parcel system to communicate with other systems and services. This layer may include integrations with payment gateways, shipping providers, and other third-party services.
 
-4. Integration Layer: This layer will consist of APIs and other integration points that allow the parcel system to communicate with other systems and services. This layer may include integrations with payment gateways, shipping providers, and other third-party services.
-
-5. Infrastructure Layer: This layer will consist of the hardware and software infrastructure that supports the parcel system. This may include servers, load balancers, firewalls, and other networking equipment.
+4. Infrastructure Layer: This layer will consist of the hardware and software infrastructure that supports the parcel system. This may include servers, load balancers, firewalls, and other networking equipment.
 
 The proposed system architecture will be designed to be scalable, secure, and maintainable, allowing for easy expansion and growth as the parcel system evolves over time.
   
@@ -184,11 +184,9 @@ Overall, a thorough risk assessment should be conducted to identify and mitigate
 
 1. Software Development Life Cycle (SDLC) methodologies: There are several SDLC methodologies that can be used in developing the parcel system, such as Agile, Waterfall, and DevOps. Understanding these methodologies and selecting the most appropriate one for the project can be helpful in guiding the development process.
 
-2. Payment Gateways and Shipping Providers: Understanding the different payment gateways and shipping providers available can be helpful in designing the parcel system's payment and shipping functionality.
+2. Cloud Services: Utilizing cloud services such as Google Cloud and Github provide scalable and cost-effective infrastructure for the parcel system.
 
-3. Cloud Services: Utilizing cloud services such as AWS, Google Cloud, or Microsoft Azure can provide scalable and cost-effective infrastructure for the parcel system.
-
-4. Software Development Tools: Utilizing software development tools such as Git can be helpful in streamlining the development process and ensuring code quality.
+3. Software Development Tools: Utilizing software development tools such as Git can be helpful in streamlining the development process and ensuring code quality.
 
 
 
@@ -204,13 +202,10 @@ Overall, a thorough risk assessment should be conducted to identify and mitigate
 
 2. **Software Requirements:**
 
-  - A server-side programming language such as Python, PHP, or Java for building the back-end of the system
+  - A server-side programming language such as PHP, or HTML for building the back-end of the system
   - A database management system such as MySQL, PostgreSQL, or Microsoft SQL Server for storing system data
-  - A front-end framework or library such as React, Angular, or Vue.js for building the user interface
-  - An API integration tool such as Stripe, PayPal, or FedEx for integrating with third-party services
   - A version control system such as Git for managing code changes and collaboration among the development team
-  - Testing frameworks and tools such as Jest, Mocha, or Selenium for ensuring system reliability and functionality
-  - Security tools and frameworks such as OWASP, SSL, or HTTPS for protecting user data and payment information
+
 
   3. **Data security measures that will be implemented.**
   

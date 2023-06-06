@@ -12,6 +12,8 @@
 
 <img src="Software member grp photo.jpg" width= 75% height=75%>
 
+---
+
 ### Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Executive Summary](#1-executive-summary)
@@ -26,16 +28,23 @@
 - [Technical Specifications](#10-technical-specifications)
 - [Timeline and Deliverables](#11-timeline-and-deliverables)
 - [Conclusion](#12-conclusion)
+
+---
   
+ 
 ### 1. Executive Summary
-The Student Health and Wellness System is an esteemed software engineering course project with the cooperation of Pusat Kesihatan University (PKU). Aimed at assisting students in their university lives, this website will offer a plethora of resources and tools to assist students in taking care of their physical, mental, and emotional health. However, for this Student Health and Wellness System project, it seems that this is the first implementation of this system, and it will only include student Kolej Tun Dr. Ismail (KTDI) as our sample user that is included in this system. Key features of this web-based system include personal health information, mental health testing, patient queue status and wait time, emergency calls, health tips, and announcements. The revolutionary student health and wellness website is an active platform with immense potential to significantly improve the lives of university students. By providing accurate sources and data, as well as offering resources and services to help them maintain their physical and mental health, this website will help students achieve all they can while living a happy and healthy life.
+The Student Health and Wellness System is an esteemed software engineering course project with the cooperation of Pusat Kesihatan Universiti (PKU). Aimed at assisting students in their university lives, this mobile application will offer a plethora of resources and tools to assist students in taking care of their physical, mental, and emotional health. However, for this Student Health and Wellness System project, it seems that this is the first implementation of this system, and it will only include student Kolej Tun Dr. Ismail (KTDI) as our sample user that is included in this system. Key features of this mobile application system include personal health information, mental health testing, patient queue status and wait time, emergency calls, health tips, and announcements. The revolutionary student health and wellness website is an active platform with immense potential to significantly improve the lives of university students. By providing accurate sources and data, as well as offering resources and services to help them maintain their physical and mental health, this website will help students achieve all they can while living a happy and healthy life.
+
+---
 
 ### 2. Background:
-Seeking medical attention as a university student can be overwhelming, given the complex and cumbersome process. Unfortunately, some students have to travel long distances just to reach Pusat Kesihatan University for medical services. This results in prolonged wait times and ineffective utilisation of time. Fortunately, the Student Health and Wellness Project is designed to simplify this ordeal and enable quick access to medical care for students in need.
+Seeking medical attention as a university student can be overwhelming, given the complex and cumbersome process. Unfortunately, some students have to travel long distances just to reach Pusat Kesihatan Universiti for medical services. This results in prolonged wait times and ineffective utilisation of time. Fortunately, the Student Health and Wellness Project is designed to simplify this ordeal and enable quick access to medical care for students in need.
 
 This Student Health and Wellness system is used to increase efficiency and productivity at PKU which lacks staff. Through this particular system, students at this university can determine the wait time and waiting people for each medical department from time to time at PKU and have online consultations for minor health issues with medical officers when they are free in between 24 hours. In fact, this will decrease the time spent by students waiting for their consultation and offer a more reliable and accessible spot for students to acquire medical care. Nonetheless, this system also operates as a data storage where users can store their medical files, boosting productivity for future diagnoses.
 
 The Student Health and Wellness System will not only offer invaluable health-related information to students but will also strive to improve the healthcare experience of university goers by emphasising increased health awareness and ultimately fostering a healthier overall campus atmosphere. By giving students the necessary tools for maintaining sound physical and psychological well-being, the website is poised to revolutionise the healthcare landscape for students and beyond.
+
+---
 
 ### 3. Objectives:
 - To improve the overall wellbeing of university students by using an innovative strategy to provide direct access to medical resources, introduce personalised health tracking tools, and offer reliable health tips and advice.
@@ -53,6 +62,8 @@ The Student Health and Wellness System will not only offer invaluable health-rel
 - To enable PKU to better understand the health needs of the student population and provide targeted interventions through the collection and analysis of data inside the system.
 
 > Example: This will increase the efficiency of diagnosing health needs and infections among students by 20% and increase the healthcare service to students by 25%.
+
+---
 
 ### 4. Scope: 
 The project proposal focuses exclusively on developing a software application to manage student health and wellness. Our primary objective is to design, implement, and maintain this system while avoiding hardware or infrastructure upgrades, as well as changes in existing policies or procedures.
@@ -72,6 +83,8 @@ For this system, it will include the features below:
 - Announcement of PKU for any activities held.
 
 In final analysis, the proposed Student Health and Wellness System is a broad, but controlled program requiring strict adherence to applicable laws, regulations, and policies. Moreover, intricate and diverse processing must be applied to guarantee maximum efficiency. This necessitates a delicate balance between elaborate, detailed sentences and much simpler, straightforward ones. Ultimately, this strenuous undertaking assures the creation of an effective Student Health and Wellness System.
+
+---
 
 ### 5. Software Process Model:
 #### Goal of Software Model Process
@@ -132,6 +145,8 @@ Agile methodology is most suitable for this project because it guarantees short 
 - The duration of this phase after week 15, KOH SU XUAN as Quality Assurance Testor responsible for tracking process from time-to-time.
 - As a result of this phase, the users will be able to use the system smoothly and give feedback to improve it, and maintenance will be done to make sure the system is up-to-date.
 
+---
+
 ### 6. Budget:
 For the student health and wellness management website which involves around 2000 users in Kolej Tun Dr. Ismail (KTDI), the estimated budget is **RM 570,000**. The budget includes the costs for 6 months of development and 6 months of maintenance for the website.
 - Hardware: **RM 45,000**\
@@ -149,19 +164,21 @@ This could include post-launch support and bug fixes for 6 months after the webs
 - Security: **RM 20,000**\
 This might involve setting in place security measures like firewalls, encryption and frequent security audits to safeguard user data and prevent any cyberattacks. The cost of security implementation might differ based on the website needs as well as the providing services chosen.
 
-- Personnel: **RM 370,000**\
+- Personnel: **RM 267,000**\
 This could include salaries or fees for the development team members such as developer,user experience designer, quality assurance tester, documentation specialists and requirements analyst designer. The cost for a development team will vary according to their expertise and skill.
 
 - Contingency: **RM50,000**\
 This could include additional funds set aside for any potential expenses or changes in project scope that might occur throughout the website's development and maintenance phases. Such a budget can assist with dealing with possible delays, revisions in the project's scope or any other sudden changes that need additional financial resources. 
 
-In conclusion, the estimated budget is **RM 570,000** which covers the costs for hardware, software, testing, maintenance, security, personnel and contingency. Any potential budget alterations must be relayed to stakeholders and project sponsors.
+In conclusion, the estimated budget is **RM 467,000** which covers the costs for hardware, software, testing, maintenance, security, personnel and contingency. Any potential budget alterations must be relayed to stakeholders and project sponsors.
+
+---
 
 ### 7. System Architecture:  
 
 This section will discuss on the proposed system architecture of Student Health and Wellness Management System particularly about a wide variety of tools and technologies that will be used to develop and deploy the system including the elaboration on the way of the data in the system being stored, managed and analyzed and the tools and frameworks that used to realise data visualization and analysis. Moreover, the hardware and software requirements that are needed to support the implementation of this system will also be clarified.  
 
-The proposed system architecture for Student Health and Wellness Management System will use a four-tier architecture which are the presentation tier, application tier, data tier and security tier. The presentation tier will have a web-based user interface that allows students and Pusat Kesihatan University (PKU) to interact with the system. The application tier will in charge of handling the business logic and data processing and the data tier will store and manage the data while for the security tier will involve into controlling the access and manage the permission.  
+The proposed system architecture for Student Health and Wellness Management System will use a four-tier architecture which are the presentation tier, application tier, data tier and security tier. The presentation tier will have a web-based user interface that allows students and Pusat Kesihatan Universiti (PKU) to interact with the system. The application tier will in charge of handling the business logic and data processing and the data tier will store and manage the data while for the security tier will involve into controlling the access and manage the permission.  
 
 For the web-based user interface, we will use HTML, CSS, JavaScript and PHP. The application tier will be developed using Bootstrap framework, which is easy to be used and suitable for building a high-performance website for the project. We will use a relational database management system (RDBMS) to store the system data in which MySQL was chosen due to its stability, reliability, and cost-effectiveness. Lastly, the security tier will be developed using SSL/TLS encryption to protect the confidentiality and integrity of data-in-transit.  
 
@@ -195,6 +212,8 @@ Diagram that represents our proposed system architecture :
 
 In summary, the proposed system architecture for Student Health and Wellness Management System will be a four-tier architecture consisting of the presentation tier, application tier, data tier and also security tier. It will utilize modern web and mobile technologies, a relational database management system, encryption technologies, and authentication and authorization mechanisms to ensure data security and privacy. To guarantee data security and privacy, it will make use of modern online technologies, a relational database management system, encryption technologies, and authentication and authorisation procedures. Multiple tools and frameworks will be used collaboratively for data visualisation and analysis.
 
+---
+
 ### 8. Risks Assessment:
 In general, every project can be influenced by risk so they required a special assessment procedure of the potential risks that could lead to the project's failure or loss if they occur. To develop a student health and wellness management website, the possible risks are: 
 | Potential Risks                     | Explanations                                        | Plans/Strategies         |
@@ -207,13 +226,14 @@ In general, every project can be influenced by risk so they required a special a
 
 In conclusion, the potential risks that might face during the development and maintenance of student health and wellness website are security risks, technical risks, user experience risks, compliance risks and budget and timeline risks. To ensure the creation of a successful student health and wellness website, a complete risk assessment should be carried out in order to identify, evaluate and address any potential concerns.
 
+---
+
 ### 9. Resources:
-a. **Staff Resources** : 
-  - Main Developer : Goh Jiale
-    - RM 150,000/year
+ - Main Developer : Goh Jiale
+    - RM 72,000/year
     - Mainly responsible for designing and developing the website as well as troubleshooting and fixing issues
   - User Experience Designer : Lee Yik Hong
-    - Rm 65,000/year
+    - Rm 60,000/year
     - Mainly responsible for designing user interface and user flows 
   - Quality Assurance Tester : Koh Su Xuan
     - RM 45,000/year
@@ -224,14 +244,14 @@ a. **Staff Resources** :
   - Documentation Specialists : Tang Yan Qing
     - RM 35,000/year
     - Mainly responsible for developing user manuals and system documentation
-<p>Total Staff Cost: RM 370,000/year</p>
+<p>Total Staff Cost: RM 267,000/year</p>
 
 b. **Hardware Resources** :
   - Computer and laptop for each team member
     - RM 40,200/year
   - Internet connectivity
     - RM 2,500/year
-  - Servers for hosting the website
+  - Servers for hosting the system
     - RM 1,500/year
   - Security and backup
     - RM 800/year
@@ -269,7 +289,9 @@ d. **Other Resources** :
     - RM 50,000/year
 <p>Total Other Cost: RM 145,000/year</p>
 
-In conclusion, the total estimated cost is ***RM 570,000/year***.
+In conclusion, the total estimated cost is ***RM 467,000/year***.
+
+---
 
 ### 10. Technical Specifications:
 <table>
@@ -353,6 +375,8 @@ In conclusion, the total estimated cost is ***RM 570,000/year***.
   </tr>
 </table>
 
+---
+
 ### 11. Timeline and Deliverables: 
 <img src="https://user-images.githubusercontent.com/128159572/235585376-b25f2b58-b38e-43a6-be29-42e555828e48.jpeg">
 
@@ -394,6 +418,8 @@ In conclusion, the total estimated cost is ***RM 570,000/year***.
   <li>Completes System Testing Document</li></td>
   </tr>
 </table>
+
+---
 
 ### 12. Conclusion:
 In a nutshell, our proposed system, the Student Health and Awareness Management System, not only increases the efficiency of Pusat Kesihatan Universiti but also reduces the time students have to wait for medical treatment or advice. This system is crucial in creating a communication channel between PKU staff and students as well as raising students' awareness of mental and physical health. Therefore, we urge decision-makers in UTM to approve this proposal and proceed with the project. We understand that there might be some drawbacks when implementing this system, such as data breaches, identity theft, or compatibility issues, but we believe that this system is needed for PKU to improve productivity, patient experience, and data management.
