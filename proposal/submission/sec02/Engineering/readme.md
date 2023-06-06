@@ -204,13 +204,10 @@ Overall, a thorough risk assessment should be conducted to identify and mitigate
 
 2. **Software Requirements:**
 
-  - A server-side programming language such as Python, PHP, or Java for building the back-end of the system
+  - A server-side programming language such as PHP, or HTML for building the back-end of the system
   - A database management system such as MySQL, PostgreSQL, or Microsoft SQL Server for storing system data
-  - A front-end framework or library such as React, Angular, or Vue.js for building the user interface
-  - An API integration tool such as Stripe, PayPal, or FedEx for integrating with third-party services
   - A version control system such as Git for managing code changes and collaboration among the development team
-  - Testing frameworks and tools such as Jest, Mocha, or Selenium for ensuring system reliability and functionality
-  - Security tools and frameworks such as OWASP, SSL, or HTTPS for protecting user data and payment information
+
 
   3. **Data security measures that will be implemented.**
   
