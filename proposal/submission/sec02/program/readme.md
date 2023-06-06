@@ -113,13 +113,10 @@ This is cost will cover any activities associated with developing and deploying 
 ### 7. System Architecture:
 
 **Architecture**:
-  The proposed academic support app will consist of a client-server architecture, with the front-end developed using HTML and CSS and the back-end using Node.js and MongoDB. The app will be hosted on a cloud platform such as Amazon Web Services (AWS) or Microsoft Azure.
-
- **Data Storage and Management**:
-  The app will use MongoDB, a NoSQL document-oriented database, to store student and lecturer data, appointment schedules, and other relevant information. MongoDB is a scalable, flexible, and highly available database that can handle large amounts of data.
+  The proposed academic support app will consist of a client-server architecture, with the front-end developed using HTML and CSS.
 
 **Data Analysis**:
-  The app will not require complex data analysis since it primarily serves as a scheduling tool. However, basic data analysis such as appointment statistics and user activity tracking can be implemented using MongoDB's built-in analytics tools. 
+  The app will not require complex data analysis since it primarily serves as a scheduling tool. However, basic data analysis such as appointment statistics and user activity tracking can be implemented using PHP's built-in analytics tools. 
 
 **Hardware and Software Requirements**:
   The hardware requirements for the app are minimal, with a basic web server and a MongoDB database server being sufficient. The software requirements include Node.js, MongoDB, and any necessary libraries and frameworks.
