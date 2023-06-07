@@ -31,5 +31,5 @@
 
 ## Meeting Photo
 
-
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/documentation/srs/sec02/software/others/Scrum%20meeting/7.6.23/Scrum%20meeting%207-6%20pic.png">
 
