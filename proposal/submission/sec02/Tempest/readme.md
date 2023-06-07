@@ -77,7 +77,7 @@ The Badal Hajj and Umrah management system proposed in this project will include
 
 ## 5. Software Process Model:
 
-<img src = "https://images.ctfassets.net/4zfc07om50my/5wMHnK8XxK9kW99mebdp94/2cc919cd11ba35f6db993977fd0ff674/Agile.png" width = "500px">
+<img src = "https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Tempest/AGile.drawio.png" width = "500px">
 
 The Agile Model is an iterative and incremental approach to software development that emphasizes flexibility, collaboration, and rapid delivery of working software. In this model, requirements and solutions evolve through the collaborative effort of cross-functional teams and end-users.
 
@@ -135,7 +135,7 @@ Overall, the system architecture is designed to be scalable and maintainable, wi
 
 ### Case Diagram :
 
-![image](https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Tempest/BadalHajjUC-Page-1-Page-1.drawio.png)
+![image](https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Tempest/BadalHajjUC-Page-1.drawio.png)
 
 As shown in the diagram, the actions that can be performed by different actors have been divided into subsystems. The User subsystem includes actions related to booking and selecting packages and accommodations, confirming or cancelling bookings, and viewing receipts. The System Admin subsystem includes actions related to managing packages and accommodations, updating bookings, and viewing bookings and details. The Top Management subsystem includes actions related to viewing payment reports, generating invoices, and managing accounts. The Finance Department subsystem includes actions related to viewing payment reports, generating invoices, and managing accounts.
 
