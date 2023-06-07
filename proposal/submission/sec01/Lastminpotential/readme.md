@@ -29,7 +29,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td><img src="photo/tjy.jpg" style="margin: 0 auto;width: 200px"></td>
-    <td><img src="[photo_2022-10-29_23-41-27 (2).jpg](https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Lastminpotential/photo/jy.jpg)" style="margin: 0 auto;width: 200px"></td>
+    <td><img src="photo/jy.jpg" style="margin: 0 auto;width: 200px"></td>
     <td><img src="photo_2022-10-29_23-41-27 (2).jpg" style="margin: 0 auto;width: 200px"></td>
     <td><img src="photo/cph.png" style="margin: 0 auto;width: 200px"></td>
   </tr>
