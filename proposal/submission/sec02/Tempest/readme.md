@@ -135,7 +135,7 @@ Overall, the system architecture is designed to be scalable and maintainable, wi
 
 ### Case Diagram :
 
-![image](https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Tempest/BadalHajjUC-Page-1-Page-1.drawio.png)
+![image](https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Tempest/BadalHajjUC-Page-1.drawio.png)
 
 As shown in the diagram, the actions that can be performed by different actors have been divided into subsystems. The User subsystem includes actions related to booking and selecting packages and accommodations, confirming or cancelling bookings, and viewing receipts. The System Admin subsystem includes actions related to managing packages and accommodations, updating bookings, and viewing bookings and details. The Top Management subsystem includes actions related to viewing payment reports, generating invoices, and managing accounts. The Finance Department subsystem includes actions related to viewing payment reports, generating invoices, and managing accounts.
 
