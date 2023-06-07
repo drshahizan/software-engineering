@@ -443,9 +443,16 @@ These technologies are helpful in developing our proposed system since they are 
 
 In conclusion, the proposed Student Accommodation System is a crucial solution to the challenges faced by Kolej Tun Dr Ismail (KTDI) in managing student housing. The system aims to improve data analysis, automate processes, give flexibility for students selecting their room, and provide a better user experience for students. The proposed system offers benefits such as increased student satisfaction, improved staff productivity, and a more reliable and efficient system.
 
-During the development of the system, challenges may arise, such as data privacy concerns and system integration issues. However, we believe that the benefits of the system outweigh the challenges, and we will work together as a team to produce system that will help KTDI staffs reducing their workload.
+This system will help to increase student satisfaction. By allowing the features of choosing students' own desired rooms through an user-friendly platform, the system will provide an easier way for students to customize their rooms that meet their needs. As a result, students will have a higher satistaction level towards the hostel application.
+
+The method can also greatly increase employee productivity. The technology lessens the administrative load on staff members, allowing them to concentrate on more important responsibilities by automating procedures including room allocation, maintenance requests, and billing. In addition to saving time, this improved efficiency enables employees to offer students better support and assistance, raising KTDI's overall level of service.
+
+The Student Accommodation System provides a housing management system that is more dependable and effective in addition to increasing staff productivity and student happiness. KTDI might learn important information about housing patterns, occupancy rates, and maintenance requirements with increased data analytic skills. Making educated judgements about resource allocation, capacity planning, and maintenance scheduling using this data will lead to a more efficient process.
+
+The system's development and deployment may face difficulties, though, and this must be acknowledged. In order to guarantee the confidentiality and security of student information, data privacy issues must be addressed. When integrating the new system with the current processes and infrastructure, problems with system integration could also appear. However, by taking proactive measures to overcome these issues and cooperating as a team, the system's advantages may be realised and will ultimately surpass any early obstacles.
 
 We encourage KTDI decision-makers to invest in this system to provide a more practical and efficient way of managing student housing, promoting academic success and overall well-being. The Student Accommodation System will help KTDI maintain its position as a leading accommodation college in UTM while improving the university's reputation. We look forward to working with KTDI to design and implement this system, enhancing the student experience and improving the operations of the KTDI itself.
+
 
 
 ## Contribution 🛠️
