@@ -20,6 +20,7 @@ Don't forget to hit the :star: if you like this repo.
   5. CHE MARHUMI BIN CHE AB RAHIM (A22EC0147)
   
 <img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/proposal/submission/sec02/Beta/photo1683105260png.png" alt="Alt text" width="500" height="350">
+  <img src="https://user-images.githubusercontent.com/128231261/237552978-4c76efcf-a681-4050-873c-6246115205de.jpg"alt="Alt text" width="500" height="350">
 
 
 ### Table of Contents
@@ -125,32 +126,35 @@ In conclusion, the suggested meal ordering method is best suited to the Agile de
 ## 6. Budget:
 
 The budget for developing a food ordering system can vary depending on several factors, such as the complexity of the system, the features and functionalities required, the development platform, and the development team's location and expertise. 
+| Category | Description | Revised Cost |
+|----------|-------------|--------------|
+| Staff | 2 Programmers | RM 50,000/year each |
+|        | 1 System Analyst | RM 60,000/year |
+|        | 1 Project Manager | RM 100,000/year |
+|        | Total Staff Cost | RM 260,000/year |
+| Equipment | Servers | RM 80,000 |
+|           | Workstations and Laptops | RM 50,000 |
+|           | Networking and Cabling | RM 20,000 |
+|           | Security and Backup | RM 20,000 |
+|           | Total Equipment Cost | RM 170,000 |
+| Software | Relational Database Management System (RDBMS) | RM 15,000 |
+|          | Web Server | RM 5,000 |
+|          | Mobile Application Development Framework | RM 10,000 |
+|          | Data Analytics Tools | RM 15,000 |
+|          | Total Software Cost | RM 45,000 |
+| Other Expenses | Rent for Office Space | RM 50,000/year |
+|                | Utilities | RM 10,000/year |
+|                | Marketing and Advertising | RM 30,000 |
+|                | Contingency | RM 100,000 |
+|                | Total Other Expenses | RM 190,000 |
+| Total Estimated Cost | - | RM 665,000 |
 
-- System Design and Development : RM50,000.
-  
-This includes the cost of designing the system architecture, creating wireframes, and developing the system's front-end and back-end.
-
-- Database Management : RM20,000.
-
-This includes the cost of setting up and managing the database, including configuring security and backup systems.
-
-- Payment Gateway Integration : RM20,000.
-
-This includes the cost of integrating a payment gateway system into the food ordering system, enabling customers to make online payments.
-
-- Mobile Application Development : If a mobile application is required, the cost can range from RM10,000 to RM50,000.
-
-- Testing and Quality Assurance : RM20,000.
-
-This includes the cost of testing the system for bugs and errors and ensuring that the system meets the quality standards.
-
-It's essential to note that these are just estimates, and the actual cost may vary based on the specific requirements of the project. Additionally, ongoing maintenance costs and server hosting costs may also need to be considered.
 
 
 ## 7. System Architecture:
 Case Diagram of Food Ordering System at UTM:
   
-<img src="https://user-images.githubusercontent.com/129138344/235473667-dc36d5a2-8026-4b8d-80ff-711d471ef2b3.png" alt="Alt text" width="400" height="500">
+<img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/project/documentation/srs/sec02/beta/UML%20Diagram/casediagram.drawio.png" alt="Use Case Diagram" width="450" height="600" style="border: 1px solid black;">
 The Customer actor can perform the following use cases:
 
 - **Register/Login:** This use case allows the Customer to register or login to their account.
@@ -226,43 +230,43 @@ Overall, the risks associated with the development of the food ordering system w
 
 
 ### Staff:
-- 3 Programmers: RM 144,000/year each
-- 1 System Analyst: RM 120,000/year
-- 1 Project Manager: RM 250,000/year
+- 3 Programmers: RM 25,000/year each
+- 1 System Analyst: RM 35,000/year
+- 1 Project Manager: RM 40,000/year
 
-Total Staff Cost: RM 802,000/year
+Total Staff Cost: RM 100,000/year
 
 ### Equipment:
-- Servers: RM 200,000
-- Workstations and Laptops: RM 100,000
-- Networking and Cabling: RM 50,000
-- Security and Backup: RM 50,000
+- Servers: RM 50,000
+- Workstations and Laptops: RM 50,000
+- Security and Backup: RM 15,000
 
-Total Equipment Cost: RM 400,000
+Total Equipment Cost: RM 115,000
 
 ### Software:
-- Relational Database Management System (RDBMS): RM 50,000
+- Relational Database Management System (RDBMS): RM 25,000
 - Web Server: RM 20,000
-- Mobile Application Development Framework: RM 30,000
-- Data Analytics Tools: RM 50,000
+- Mobile Application Development Framework: RM 15,000
+- Data Analytics Tools: RM 25,000
 
-Total Software Cost: RM 150,000
+Total Software Cost: RM 85,000
 
 ### Other Expenses:
-- Rent for Office Space: RM 120,000/year
+- Rent for Office Space: RM 50,000/year
 - Utilities: RM 30,000/year
-- Marketing and Advertising: RM 100,000
-- Contingency: RM 360,000
-- Total Other Expenses: RM 610,000
+- Marketing and Advertising: RM 20,000
+- Contingency: RM 300,000
 
-Total Estimated Cost: RM 1,900,000
+Total Other Expenses: RM 400,000
+
+Total Estimated Cost: RM 700,000
 
 > Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
 
 ## 10. Technical Specification
  - Platform: The system should be web-based and accessible from any device with an internet connection, such as desktops, laptops, tablets, and smartphones. The system should be compatible with multiple operating systems and web browsers.
 
-- Programming languages and technologies: The system can be built using a combination of technologies such as HTML, CSS, JavaScript, PHP, Python, and MySQL. The system can also use frameworks such as Laravel, React, Angular, and Vue.js.
+- Programming languages and technologies: The system can be built using a combination of technologies such as HTML, CSS, JavaScript, PHP, MariaDB, and MySQL. The system can also use frameworks such as Laravel, React, Angular, and Vue.js.
 
 - User Interface: The user interface should be easy to navigate and visually appealing, with features such as menus, search bars, and order tracking. The system can use responsive web design to optimize the user experience on different devices.
 
@@ -274,94 +278,13 @@ Total Estimated Cost: RM 1,900,000
 
 ## 11. Timeline and Deliverables: 
 
-### Phase 1: Planning and Analysis (Week 1-2)
+| Phase | Milestones and Deliverables | Resources Required |
+|-------|----------------------------|--------------------|
+| Phase 1: Planning and Analysis (Week 1-2) | - Feasibility study report <br> - Project proposal document <br> - Project team assembled with assigned roles <br> - Project plan | - Feasibility study report templates <br> - Project management software <br> - Collaboration tools for remote communication |
+| Phase 2: Design and Prototyping (Week 3-6) | - SRS document <br> - User requirements and functional specifications document <br> - User interface design prototypes or mockups <br> - Database schema and architecture document <br> - Technical specifications and framework choices document | - Wireframing and prototyping tools <br> - Collaboration tools for remote communication <br> - Database design software <br> - Technical specification templates |
+| Phase 3: Development and Testing (Week 7-11) | - SDD document <br> - Fully functional food ordering system <br> - Payment gateway integration <br> - Order management system <br> - Test cases and bug reports | - Web development frameworks and tools <br> - Payment gateway integration software <br> - Testing software and tools <br> - Collaboration tools for remote communication |
+| Phase 4: Documentation and Deployment (Week 12-14) | - STD document <br> - Deployed food ordering system <br> - User manuals and maintenance plan <br> - Support documentation | - Documentation templates <br> - Web hosting or cloud platform <br> - User training materials <br> - Collaboration tools for remote communication |
 
-- Conduct a feasibility study to identify the need for a food ordering system and how it can benefit your university
-- Write a project proposal outlining the objectives, scope, and expected outcomes of the project
-- Assemble a project team and allocate roles and responsibilities
-- Identify the key stakeholders and gather their input and feedback
-- Create a project plan outlining timelines, milestones, and deliverables
-
-### Milestones and Deliverables:
-
-- Feasibility study report
-- Project proposal document
-- Project team assembled with assigned roles
-- Project plan
-
-### Resources Required:
-
-- Feasibility study report templates
-- Project management software
-- Collaboration tools for remote communication
-
-### Phase 2: Design and Prototyping (Week 3-6)
-
-- Write the software requirements specification (SRS)
-- Define user requirements and functional specifications
-- Create wireframes, mockups, or prototypes of the user interface design
-- Define the database schema and architecture
-- Identify the technical specifications and choose the appropriate technologies and frameworks
-- Conduct user testing and gather feedback to refine the design
-  
-### Milestones and Deliverables:
-
-- SRS document
-- User requirements and functional specifications document
-- User interface design prototypes or mockups
-- Database schema and architecture document
-- Technical specifications and framework choices document
-
-### Resources Required:
-
-- Wireframing and prototyping tools
-- Collaboration tools for remote communication
-- Database design software
-- Technical specification templates
-
-### Phase 3: Development and Testing (Week 7-11)
-
-- Write software design document (SDD)
-- Implement frontend and backend functionalities based on the design and technical specifications
-- Develop the payment gateway and order management system
-- Test the system to ensure its functionality, security, and performance
-- Fix bugs and errors based on user feedback
-
-### Milestones and Deliverables:
-
-- SDD document
-- Fully functional food ordering system
-- Payment gateway integration
-- Order management system
-- Test cases and bug reports
-
-### Resources Required:
-
-- Web development frameworks and tools
-- Payment gateway integration software
-- Testing software and tools
-- Collaboration tools for remote communication
-
-### Phase 4: Documentation and Deployment (Week 12-14)
-
-- Write the software testing document (STD)
-- Deploy the system on a web server or cloud platform
-- Provide user training and support
-- Establish a maintenance plan and bug fixing
-
-### Milestones and Deliverables:
-
-- STD document
-- Deployed food ordering system
-- User manuals and maintenance plan
-- Support documentation
-
-### Resources Required:
-
-- Documentation templates
-- Web hosting or cloud platform
-- User training materials
-- Collaboration tools for remote communication
 
 
 ## 12. Conclusion:
@@ -371,12 +294,12 @@ The system can also help restaurants manage their orders efficiently, reducing t
 
 Overall, a food ordering system can help businesses increase their sales, improve customer satisfaction, and reduce operational costs. With the right technical specifications and features, a food ordering system can be an excellent investment for any restaurant looking to stay competitive in today's digital marketplace.
 
-
+  
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
-
+  
 ![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
 

@@ -11,7 +11,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Badal Hajj and Umrah Management System
 
-<img src = "https://raw.githubusercontent.com/drshahizan/software-engineering/main/proposal/submission/sec02/Tempest/Gray%20Minimalist%20Photo%20Collage%20Instagram%20Post%20(1).png" width = "500px">
+<img src = "https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Tempest/Gray%20Minimalist%20Photo%20Collage%20Instagram%20Post%20(2).png" width = "500px">
 
 ## Group Tempest :
 1.Muhammad Anas Bin Mohd Pikri (A21SC0464)
@@ -105,7 +105,7 @@ Hardware : RM 10,000
 - Hardware cost typically refers to the cost of physical equipment required for the project, such as servers, computers, networking equipment, and other related hardware. In the context of a software development project like the Badal Hajj and Umrah Management System, the hardware cost may include development computers, testing infrastructure, servers, networking equipment and other hardware such as printers and scanners.
 
 Software : RM 13,000
-- Software cost typically refers to the cost of software required for the project, such as development tools, operating systems, database management systems, and other related software. In the context of a software development project like the Badal Hajj and Umrah Management System, the software cost may include Integrated Development Environment (IDE), database management system, web server, and other software such as project management software.
+- Software cost typically refers to the cost of software required for the project, such as development tools, operating systems, database management systems, and other related software. In the context of a software development project like the Badal Hajj and Umrah Management System, the software cost may include database management system, web server, and other software such as project management software.
 
 Personnel : RM 20,000
 - Personnel cost typically refers to the cost of the people involved in the project, including salaries, benefits, and other related expenses. The personnel is hired based on their qualifications, skills,  experience, and expertise in software development.
@@ -115,6 +115,8 @@ Testing : RM 10,000
 
 Back-up funds: RM 30,000
 - Backup funds are an important part of project management and are typically set aside to provide a cushion against unexpected expenses that may impact the project's budget. The exact amount of backup funds required will depend on the project's size, complexity, and risk profile. It is important to budget for backup funds to ensure that the project can be completed successfully even in the event of unexpected expenses.
+
+Total Budget : RM 83,000
 
 ## 7. System Architecture:
 The Badal Hajj and Umrah Management System is a web-based application that facilitates the management of Hajj and Umrah pilgrimages for individuals or groups. The system architecture consists of the following components:
@@ -133,7 +135,7 @@ Overall, the system architecture is designed to be scalable and maintainable, wi
 
 ### Case Diagram :
 
-![image](https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Tempest/badalhajj.drawio%20(1).png?raw=true)
+![image](https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Tempest/BadalHajjUC-Page-1-Page-1.drawio.png)
 
 As shown in the diagram, the actions that can be performed by different actors have been divided into subsystems. The User subsystem includes actions related to booking and selecting packages and accommodations, confirming or cancelling bookings, and viewing receipts. The System Admin subsystem includes actions related to managing packages and accommodations, updating bookings, and viewing bookings and details. The Top Management subsystem includes actions related to viewing payment reports, generating invoices, and managing accounts. The Finance Department subsystem includes actions related to viewing payment reports, generating invoices, and managing accounts.
 
@@ -255,7 +257,7 @@ Resources divided into 4 different types which are staff,equipment,software and 
 
 #### Software : 
 
-1. Visual Studio Code as a main IDE
+1.Visual Studio Code as a main IDE
 
 2.Data visualization tools which are Power BI or Tableau
 
@@ -271,8 +273,8 @@ Resources divided into 4 different types which are staff,equipment,software and 
 Technical specification is important in this proposed system as the company should know all the hardware and software that will be used in this system. This is all the technical specification that will be used in this system:
 
 - Platform: The system would need to be web-based and app-based that can connect and accessible from any device with and internet connection such as desktop, laptop, tablet and smartphone. The system also should be compatible with variety of operating system such as Windows, macOS, android, iOS and HarmonyOS.
-- Programming languages and technologies: all the language that will be used are Java, Python, and PHP for the backend language. For the Frontend language are HTML, CSS, JavaScript, React, Angular, and Vue.js.
-- Database Management Systems: MySQL, PostgreSQL, and MongoDB are the choices for managing the system's data. They offer reliable, scalable, and secure database solutions for storing and retrieving data.
+- Programming languages and technologies: all the language that will be used are PHP for the backend language. For the Frontend language are HTML, CSS, JavaScript.
+- Database Management Systems: MySQL and MariaDB are the choices for managing the system's data. They offer reliable, scalable, and secure database solutions for storing and retrieving data.
 - Payment Gateway Integration: Payment gateway integrations can be achieved using APIs provided by popular payment gateway providers such as online banking and Touch and Go. Client also can use the ATM machine for the payment and take the picture of the receipt for the evident.
 - Security Measures: The system's security will be enhanced using technologies like SSL certificates, encryption algorithms, and firewalls to protect user data and prevent unauthorized access.
 - Analytics: Analytics and data visualization will be implemented using tools such as Google Analytics, Power BI, or Tableau to track user behavior, generate reports, and provide insights to system administrators.
