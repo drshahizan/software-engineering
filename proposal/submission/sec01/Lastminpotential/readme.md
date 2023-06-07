@@ -30,7 +30,7 @@ Don't forget to hit the :star: if you like this repo.
   <tr>
     <td><img src="photo/tjy.jpg" style="margin: 0 auto;width: 200px"></td>
     <td><img src="photo/Yutongchai.jpg" style="margin: 0 auto;width: 200px"></td>
-    <td><img src="photo/Jesslyn19.jpg" style="margin: 0 auto;width: 200px"></td>
+    <td><img src="https://github.com/account" style="margin: 0 auto;width: 200px"></td>
     <td><img src="photo/cph.png" style="margin: 0 auto;width: 200px"></td>
   </tr>
   </table>
