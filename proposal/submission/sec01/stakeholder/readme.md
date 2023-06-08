@@ -439,7 +439,7 @@ These technologies are helpful in developing our proposed system since they are 
 
 ### 12. Conclusion
 
-In conclusion, the proposed Student Accommodation System is a crucial solution to the challenges faced by Kolej Tun Dr Ismail (KTDI) in managing student housing. The system aims to improve data analysis, automate processes, give flexibility for students selecting their room, and provide a better user experience for students. The proposed system offers benefits such as increased student satisfaction, improved staff productivity, and a more reliable and efficient system.
+In conclusion, the proposed Student Accommodation System is a crucial solution to the challenges faced by Kolej Tun Dr Ismail (KTDI) in managing student housing operation and application. The system aims to improve data analysis, automate processes, give flexibility for students selecting their room, and provide a better user experience for students. The proposed system offers benefits such as increased student satisfaction, improved staff productivity, and a more reliable and efficient system.
 
 This system will help to increase student satisfaction. By allowing the features of choosing students' own desired rooms through an user-friendly platform, the system will provide an easier way for students to customize their rooms that meet their needs. As a result, students will have a higher satistaction level towards the hostel application.
 
