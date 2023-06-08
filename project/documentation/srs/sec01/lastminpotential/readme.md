@@ -67,9 +67,16 @@ Don't forget to hit the :star: if you like this repo.
     <tr>
     <td>Assoc. Prof. Dr. Mohd Shahizan bin Othman</td>
     <td>Faculty staff</td>
-    <td>Assoc. Professor</td>
+    <td>Lecturer</td>
     <td>Provide expectation of the system, and problem faced by public currently</td>
   </tr>
+   <tr>
+    <td></td>
+    <td>Faculty staff</td>
+    <td>IT Supporting Staff</td>
+    <td>Provide expectation of the system, and problem faced by public currently</td>
+  </tr>
+  
 </table>
 
 ## Tasks involved in developing SRC documentation:
@@ -88,8 +95,9 @@ Don't forget to hit the :star: if you like this repo.
 | 10 | 23/05/2023 | Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Discussion and assign task for system features part based on user case design | Incomplete |
 | 11 | 25/05/2023| Tan Jun Yuan, Chen Pyng Haw | Project Manager, Documentation Specialist | Meeting with stakeholder 3, Assoc. Prof. Dr. Mohd Shahizan bin Othman | Completed |
 | 12 | 1/06/2023 | Goh Jing Yang | UI/UX Designer | HIgh Fedility UI Design | Complete | 
-| 13 | 5/06/2023 | Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Finalise system documentation | Complete | 
-| 14 | 22/06/2023 | Loo Jia Chang | Main Developer | Create Software Maintanence Document | Incomplete | 
+| 13 | 25/05/2023| Tan Jun Yuan, Chen Pyng Haw | Project Manager, Documentation Specialist | Meeting with stakeholder 4,  | Completed |
+| 14 | 5/06/2023 | Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Finalise system documentation | Complete | 
+| 15 | 22/06/2023 | Loo Jia Chang | Main Developer | Create Software Maintanence Document | Incomplete | 
 
 
 
