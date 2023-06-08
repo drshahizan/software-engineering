@@ -95,7 +95,7 @@ Don't forget to hit the :star: if you like this repo.
 | 10 | 23/05/2023 | Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Discussion and assign task for system features part based on user case design | Incomplete |
 | 11 | 25/05/2023| Tan Jun Yuan, Chen Pyng Haw | Project Manager, Documentation Specialist | Meeting with stakeholder 3, Assoc. Prof. Dr. Mohd Shahizan bin Othman | Completed |
 | 12 | 1/06/2023 | Goh Jing Yang | UI/UX Designer | HIgh Fedility UI Design | Complete | 
-| 13 | 25/05/2023| Tan Jun Yuan, Chen Pyng Haw | Project Manager, Documentation Specialist | Meeting with stakeholder 4,  | Completed |
+| 13 | 2/06/2023| Tan Jun Yuan, Chen Pyng Haw | Project Manager, Documentation Specialist | Meeting with stakeholder 4,  | Completed |
 | 14 | 5/06/2023 | Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Finalise system documentation | Complete | 
 | 15 | 22/06/2023 | Loo Jia Chang | Main Developer | Create Software Maintanence Document | Incomplete | 
 
