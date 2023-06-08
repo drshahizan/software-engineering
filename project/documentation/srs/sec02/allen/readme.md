@@ -83,8 +83,8 @@ Don't forget to hit the :star: if you like this repo.
 | 9 | 20/05/2023 | All Members | Project Members | Create System Documentation (SD) | Ongoing |
 | 10 | 31/05/2023 | All Members | Project Members | Do Low Fidelity Wideframe | Complete |
 | 11 | 1/06/2023 | All Members | Project Members | Do High Fidelity Wideframe | Ongoing |
-| 12 | 05/056/2023 | All Members | Project Members | Create design of the system | Ongoing |
-| 13 | 05/056/2023 | All Members | Project Members | Scrum Meeting| Complete |
+| 12 | 05/06/2023 | All Members | Project Members | Create design of the system | Ongoing |
+| 13 | 05/06/2023 | All Members | Project Members | Scrum Meeting| Complete |
 
 
 ## Contribution 🛠️
