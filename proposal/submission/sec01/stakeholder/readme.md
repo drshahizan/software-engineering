@@ -61,26 +61,25 @@ Don't forget to hit the :star: if you like this repo.
 ---
 
 ### 1. Executive Summary
-The Student Accommodation System proposal for Kolej Tun Dr Ismail (KTDI) is aimed at addressing the challenges that students and staff face when managing student accommodation. The current process for applying for and managing accommodation is unintegrated and time-consuming, which can result in delays, errors, and frustration for students and staff alike.
+The Student Accommodation System for Kolej Tun Dr Ismail (KTDI) addresses the challenges students and staff face when managing and applying for student accommodation. The existing housing application and management process must be more time-consuming and integrated because it can cause delays, mistakes, and dissatisfaction for students and staff.
 
-To address these challenges, the proposed software system will provide an online platform that allows students to apply for accommodation, make payments, and track the status of their application. KTDI staff will be able to manage room availability and allocation, communicate with students, and access relevant data and reports through a centralized dashboard.In terms of maintenance, we guarantee that KTDI rooms will continue to be kept in good condition owing to the maintenance system, giving students a comfortable and secure living environment.
+As a result, the proposed web application software system will offer a website where students can request accommodations, make payments, and check the status of their requests. KTDI administrator will be able to manage room availability and allocation and access relevant data and reports through a centralized dashboard. At the same time, the regular staff will be able to manage all of the applications submitted by the students via the website developed, and the fellow could also control KTDI merits throughout this system. In terms of maintenance, it is guaranteed that KTDI rooms will remain in good condition owing to the maintenance request and tracking functionality of the proposed accommodation system, giving students a comfortable and secure living environment.
+The system will be designed to be user-friendly and accessible, with clear instructions and prompts throughout the process. It will also incorporate automated communication channels, such as email notifications, to keep students updated on the status of their applications and requests.
 
-The system will be designed to be user-friendly and accessible, with clear instructions and prompts throughout the process. It will also incorporate automated communication channels, such as email notifications, to keep students and staff updated on the status of their applications and requests.
-
-The expected outcomes of the project include improved students and also KTDI staffs satisfaction, as the software system will provide a more convenient and streamlined process for managing accommodation. KTDI staff will also benefit from increased efficiency, as the system will reduce the need for manual data entry and administrative tasks. Finally, the system is expected to reduce errors and delays in the accommodation management process, resulting in a more reliable and efficient system overall. 
+The project's expected outcomes include improved students and KTDI staff satisfaction, as the software system will provide a more convenient and streamlined process for managing and applying accommodation. KTDI staff will also benefit from increased efficiency, as the system will reduce the need for manual data entry and administrative tasks. Finally, the system is expected to reduce errors and delays in the accommodation application process, resulting in a more reliable and efficient system overall.
 
 ---
   
 ### 2. Background
-Managing student accommodations in Kolej Tun Dr Ismail (KTDI) is a complex and challenging task. The current process is less flexible for students and KTDI staffs when managing room applications, allocations, and rent payments is vulnerable, inconsistencies, and time-consuming for both students and KTDI staffs. Students face difficulties in selecting suitable rooms based on their preferences and accessibility, while KTDI staffs struggle with the workload of managing hundreds of applications and allocating rooms manually.
+Managing student accommodations in Kolej Tun Dr Ismail (KTDI) is a complex and challenging task. The current process is less flexible for KTDI staff and administrator when managing room applications, allocations, and rent payments which are vulnerable, inconsistencies, and time-consuming. Students face difficulties in applying hostel while selecting suitable room based on their preferences and accessibility due to the quota active set by the fellow, while KTDI staffs struggle with the workload of managing hundreds of applications daily and at the same time for the administration worker in allocating rooms manually.
 
-To solve these issues, we propose a modern and intuitive Student Accommodation System that automates the room selection process, from application to allocation, and provides a seamless experience for students and KTDI staffs. With the use of the latest technology and industry best practices, the system aims to simplify the process of applying for hostels online, selecting preferred rooms, and allocating suitable accommodations based on student preferences and accessibility needs.
+To solve these issues, we propose a modern and intuitive Student Accommodation System that automates the room selection process, from application to allocation, and provides a seamless experience for students and KTDI staff. With the use of the latest technology and industry best practices, the system aims to simplify the process of applying for hostels online, selecting preferred rooms, and allocating suitable accommodations based on student preferences and their college merits.
 
-The proposed system includes several key features, such as a user-friendly interface that integrates with other university systems like billing and student information, enhanced data analysis capabilities, and features that enable tracking maintenance requests, scheduling repairs and replacements, and ensuring compliance with safety regulations. These features aim to improve the overall management and maintenance of student accommodations, creating a comfortable and safe living environment for students and enhancing their academic success and overall well-being.
+The proposed system includes several key features, such as a user-friendly interface that integrates with other university systems like billing and student information, enhanced data analysis capabilities, and features that enable tracking maintenance requests, scheduling repairs and replacements, and registering electrical appliances. These features aim to improve the overall management and application of student accommodation, creating a comfortable and safe living environment for students and later enhancing their academic success and overall well-being.
 
-The Student Accommodation System will also bring significant benefits to the students also KTDI staffs, such as increased efficiency, time-saving, and reduced errors during the allocation process. The online application process will simplify the application process for students, making it easier and more convenient for them to select their preferred rooms. The enhanced data analysis capabilities will provide administrators with insights into occupancy rates, student preferences, and college merits, enabling them to make informed decisions about future room allocation. The maintenance system will ensure that the rooms remains well-maintained, creating a comfortable and safe living environment for students.
+The Student Accommodation System will also bring significant benefits to the stakeholders, such as increased efficiency, time-saving, and reduced errors during the application and management process. The online application process will simplify the application process for students, making it easier and more convenient for them to select their preferred rooms. The enhanced data analysis capabilities will provide administrator with insights into occupancy rates, maintenance records, revenue reports and college merits, enabling KTDI to make informed decisions about future room allocation. The maintenance system will ensure that the rooms remain well-maintained, supplying students with a cosy and secure living space during their studies.
 
-In summary, the proposed Student Accommodation System aims to streamline the room rental process in Kolej Tun Dr Ismail (KTDI), improving the student experience and providing administrators with more effective working operations. By automating the allocation process, enhancing data analysis capabilities, and improving maintenance systems, the system will create a more strategic and efficient approach to managing student accommodations, enhancing the reputation of the university, and promoting student academic success and overall well-being.
+In summary, the proposed Student Accommodation System aims to streamline the room rental and management process in Kolej Tun Dr Ismail (KTDI), improving the student experience and providing administrator, staff, and fellow with more effective working operations. By automating the allocation process, enhancing data analysis capabilities, and improving maintenance systems, the system is with potential to create a more strategic and efficient approach to manage and apply student accommodation with ease, enhance the reputation of the university, and promote academic achievement and general experience of students in the university.
 
 ---
 
@@ -105,26 +104,26 @@ Our proposed student accommodation system aims to achieve the following objectiv
 **Relevant:** The condition of equipments in KTDI residence will always be sustainable and well maintained.<br>
 **Time-bound:** The objective will be achieved within the second year of the project.
 
-4. **Specific:** To increase the satisfaction of KTDI room allocating and managing process by 20%.<br>
+4. **Specific:** To increase the satisfaction of KTDI room applying and managing process by 20%.<br>
 **Measurable:** Survey is carried out for both the students, KTDI staff, fellows and KTDI administrator as before and after the new system is put into place.<br>
-**Achievable:** To make the housing allocation and management process faster and more accurate, create an easy-to-use interface and automate it.<br>
-**Relevant:**  Improve the room distribution and management process, students will have a better experience and are more likely to stay in UTM.<br>
+**Achievable:** Create an user friendly interface and automate it to make the housing application and management process faster and more accurate.<br>
+**Relevant:**  Improve the room application and management process, students will have a better experience and are more likely to stay in-campus.<br>
 **Time-bound:** The objective will be achieved within the first three years of the project.
 
-These SMART objectives for our introduced student accommodation system in KTDI are all specific, measurable, achievable, relevant and time-bound. They offer a clear road map for reaching the intended results and are in line with the project's goals and objectives.
+These SMART objectives for our introduced Student Accommodation System in KTDI are all specific, measurable, achievable, relevant and time-bound. They offer a clear road map for reaching the intended results and are in line with the project's goals and objectives.
   
 ---
 
 ### 4. Scope
-The scope refers to the boundaries of the project and outlines the features and functionalities of the system, including its goals, objectives and requirements as well as the expected outcomes and benefits. Detailed explanations of the features and functionality of our proposed student accommodation system in KTDI are as follows:
+The scope refers to the boundaries of the project and outlines the features and functionalities of the system, including its goals, objectives and requirements as well as the expected outcomes and benefits. Detailed explanations of the features and functionality of our proposed Student Accommodation System in KTDI are as follows:
 
-- User registration: <br>By entering personal information and setting up a password with UTM ID, new user can register as our website user before using the KTDI system.
+- User registration: <br>By entering personal information and setting up a password with UTM ID or UTM email, new user can register as our website user before using the KTDI system.
 
-- Centralised Dashboard: <br>In both the user interfaces of the students, fellows, KTDI staff and also the adminstrative department or KTDI department will have a well looking dashboard to provide the users a easier and effective way to access their needs via the tools provided. The dashboard can provide students with current allocated college merits, college activities, personal information and hostel information such as dormitory fees according to room type, room location and hostel block.
+- Centralised Dashboard: <br>In both the user interfaces of the students, fellows, KTDI staff and also the adminstrative department or KTDI department will have a well looking dashboard to provide the users a easier and effective way to access their needs via the tools provided. The dashboard can provide students with current allocated college merits, personal information and hostel information such as facilities and services surround it, KTDI location and overview of college history.
 
-- Hostel application: <br>Before letting a student to apply, the system should confirm their identity and determine whether they qualify for accommodation application based on the KTDI merits and year of study. This application is only opened to the senior year students.
+- Hostel application: <br>Before letting a student to apply, the system should confirm their identity and determine whether they qualify for accommodation application based on the KTDI merits and year of study.
 
-- KTDI college merit calculator: <br>The fellows could manage and collect the student college merits based on the college activities that participated by them. The final report on students' college merit marks will be generated automatically. Whoever meet the minimum requirement of college merit marks will be given the priorities to apply KTDI hostel.
+- KTDI college merit calculator: <br>The fellows could manage and collect the student college merits based on the college activities that participated by them. The final report on students' college merit marks will be generated automatically. Whoever meets the minimum requirement of college merit marks will be given the priority to apply to the KTDI hostel.
 
 - Room allocation: <br>According on the students' choices, room availability and KTDI merits, the automated system can assign rooms to them using the room allocation tool. The system should include elements including the student's academic programme, year of study and any unique requirements or requests, such as health condition in order to take note in the allocation process. This process will prioritise the students with higher hostel merits to prefer their desired available hostel block as well as room number. The system should provide a calendar view of the real time room availability and assist students to select their preferred room and check-in and check-out dates.
 
@@ -134,9 +133,9 @@ The scope refers to the boundaries of the project and outlines the features and 
 
 - User management: <br>Administrators can manage user accounts for students, staff and other users via the user management tool. To make sure that users only have access to the functions and information they required, the system offers capabilities like account creation, modification and deletion as well as role-based access control.
 
-- Security: <br>To log in the system, the students have to enter their UTM id and the password set. Same concept will be implemeted for the KTDI staff, fellows and KTDI administrators.
+- Security: <br>To log in the system, the students have to enter their UTM id and the password set. Same concept will be implemeted for the KTDI staff, fellows and administrator.
 
-- Reporting and analytics: <br>Administrators will be allowed to monitor and analyze the occupancy rates, revenue and maintenance issues of the accommodation system. Reports from the system should include occupancy rates based on the study programme or room type, revenue by time period and building or room-specific maintenance issues.
+- Reporting and analytics: <br>Administrator will be allowed to monitor and analyze the occupancy rates, revenue and maintenance issues of the accommodation system. Reports from the system should include occupancy rates based on the study programme or room type, revenue by time period and building or room-specific maintenance issues.
 
 - Support and maintenance: <br>Residents or students should be able to report problems any problem faced in the accommodation system, such as bugs through the system's help desk and there should be a dedicated team working to quickly resolve these problems.
 
@@ -146,15 +145,15 @@ The scope refers to the boundaries of the project and outlines the features and 
 
 ### 5. Software Process Model
   
-Software process model in developing the Kolej Tun Dr Ismail (KTDI) project's student accommodation system is to create a user friendly and high-quality system within the allotted time and budget which fulfils our stakeholders' requirements. Therefore, we have decided to employ the <b>Agile methodology</b> as our software development process model in order to accomplish our proposed system. This method places a focus on cooperation and participation from stakeholders throughout the development process, creating a system that is more adaptable and responsive.
+The software process model in developing the Kolej Tun Dr Ismail (KTDI) project's student accommodation system is to create a user-friendly and high-quality system within the allotted time and budget which fulfils our stakeholders' requirements. Therefore, we have decided to employ the <b>Agile methodology</b> as our software development process model to accomplish our proposed system. This method focuses on cooperation and participation from stakeholders throughout the development process, creating a more adaptable and responsive system.
 
-Furthermore, because of the nature of student rooms and development flexibility as well as continuous team collaboration, the Agile methodology is perfect for projects like ours where requirements and priorities may change frequently. Agile methodology allows us to guarantee that the system is continually updated and enhanced depending on inputs from stakeholders while our project progress moves forward. This will enable the Student Accommodation System in KTDI project to produce a system that always satisfies their changing needs and reaches the expectations.
+Furthermore, because of the nature of student rooms, development flexibility, and continuous team collaboration, the Agile methodology is perfect for projects like ours where requirements and priorities may change frequently. Agile methodology allows us to guarantee that the system is continually updated and enhanced depending on inputs from stakeholders while our project progress moves forward. This will enable the Student Accommodation System in the KTDI project to produce a system that always satisfies their changing needs and reaches expectations.
 
 <p align="center"><img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/agile.PNG" width="500px" height="410px"></p>
 
 Agile methodology for developing the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) as stated below:
 
-1. _**Planning Phase:**_ The project scope, objectives and also related stakeholders in this project are identified. This will also include the timeline and milestones, identify project risks and allocate project resources appropriately. The team developes a blueprint to foresee the final system and upcoming challenges. The ghant chart is created so the project progress or task progress of each member will always be on the track and follow the timeline set. This phase only takes 1 week of time and will be lead by the project manager to control all the activities. 
+1. _**Planning Phase:**_ The project scope, objectives and related stakeholders are identified. This will also include the timeline and milestones, identify risks, and allocate resources appropriately. The team develops a blueprint to foresee the final system and upcoming challenges. The Gantt chart is created so each member's project progress or task progress will always be on track and follow the timeline set. This phase only takes 1 week and will be lead by the project manager to control all the activities. 
 
 2. _**Requirements Gathering Phase:**_ The project requirement analyst team works with the indentified stakeholders to identify and prioritise user requirements of student accommodation system. The team will develop user stories and create the product as backlog items. The team then identifies acceptance criteria for each user story and break down user stories into smaller tasks, which are then added to the sprint backlog. The project development team and the stakeholders then meet to review and finalise the sprint backlog to get a complete system requirements. This phase takes 1 week in order to carry out the interview session with the stakeholders and keep in touch with them for the latest requirements. The requirement analysis will in charge of the collection and documentation of requirements for the project.
 
@@ -231,16 +230,16 @@ The proposed architecture for the student accommodation system project at Kolej 
     
 
 #### Data Storage and Management:
-MySQL will be used as the Relational Database Management System (RDBMS) to store and manage the website data. All the data collected will be stored and organised in the form of table which representing a specific type of data such as maintainance records, student records, room records and accommodation application records. 
+MySQL will be used as the Relational Database Management System (RDBMS) to store and manage the website data. All the data collected will be stored and organised in the form of a table representing a specific type of data, such as maintenance records, student records, room records and accommodation application records. 
   
 #### Hardware and Software Requirements:
-Hardware and software requirements are crucial components of our proposed system architecture. Managing the KTDI's student accomodation system's hardware and software requirements could be done as follows:
+Hardware and software requirements are crucial components of our proposed system architecture. Managing the KTDI's student accommodation system's hardware and software requirements could be done as follows:
 
 i. Hardware requirements 
-- A computer with a processor of at least 2 GHz or higher.
-- A minimum of 16 GB RAM.
-- Sufficient storage space to store the system files and database.
-- A stable internet connection.
+- A computer with a processor of at least 2 GHz, which is good enough for web browsing.
+-	A minimum of 16 GB RAM memory ensures extra speed and smooth functioning.
+-	A minimum of 100 GB storage space to store the system files and database.
+-	A screen with a resolution of at least 1920x1080 to display a sharper picture.
   
 ii. Software requirements 
 - ReactJS as the font-end JavaScript library for development of interactive website user interface.
@@ -248,10 +247,8 @@ ii. Software requirements
 - MySQL as the Relational Database Management System (RDBMS) to store and manage the data.
 - Apache HTTP Server as the web server software.
 - PHP Laravel framework as the server-side technology.
-- D3.js and Chart.js as the data visualization library to create interactive charts and present data.
-- Git for version control.
-- Microsoft Excel as data analysis tools to preprocess the data.
-- Tableau and PowerBI as the business intelligence (BI) tools to create insights from the data.
+- GitHub for code hosting and version control.
+- Google Cloud as a cloud hosting to store the documentation.
   
 #### Data Analysis and Visualization:
 - Data analysis tools: <br>We will use Microsoft Excel to clean and preprocess the data, perform statistical analysis and also create data models.
@@ -259,47 +256,49 @@ ii. Software requirements
 - Business intelligence (BI) tools: <br>We will use Tableau, PowerBI to perform advanced analytics, create reports and generate insights from the data.
 
 #### System Architecture Diagram:
-The proposed system architecture can be visualized using the following flowchart:
+- The proposed system architecture can be visualized using the following flowchart:
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/flowchart_diagram.PNG" width=500px height=300px>
 
-High-level diagram that represents our proposed system architecture:<br>
+- High-level diagram that represents our proposed system architecture:
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/level_diagram.PNG" width=850px height=400px>
-  
+
+- Functionalities of the introduced system:
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/diagram/UML-use_case1.drawio.png">
+
 ---
 
 ### 8. Risks Assessment
-
 A project, programme, or organization's potential risks must be identified, evaluated, and prioritised as part of the risk assessment process. It is a crucial component of risk management, which seeks to reduce the likelihood and effect of prospective dangers. Both quantitative and qualitative ways of expressing the outcomes of this procedure are possible. To help minimise any potential risk-related repercussions, risk assessment is a necessary component of a larger risk management plan.
 
-The risk assessments that related to the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) are:
+The risk assessments related to the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) are:
 
 - User adoption risk: 
-  - User adoption and commitment are the key to make the Student Accommodation System to be succeeded. The Student Accommodation System will not provide the desired benefits if staff and students are not using it efficiently. 
+  - User adoption and commitment are the keys to make the student accommodation system to be succeeded. The developed system will not provide the desired benefits if the target users, such as staff, admin, fellow and students are not using it efficiently. 
 
-- Changes in project requirement:
+- Changes in project requirements:
   - Scope creep: As project requirements change over time, the project's scope will be extended, which could cause delays or the budget to be exceeded.
-  - Incomplete or inaccurate specifications could lead to a poorly designed of Student Accomodation System that doesn't satisfy the needs or expectations of the users.
-  - Conflicts among the Stakeholders: Stakeholders will have different ideas and needs, which can lead to the conflicts that will cause the decision-making of stakeholders become slower.
+  - Incomplete or inaccurate specifications could lead to a poorly designed of web application system that doesn't satisfy the needs or expectations of the users.
+  - Conflicts among the stakeholders: Stakeholders will have different ideas and needs, which can lead to conflicts that will cause the decision-making in the developing process to become slower.
 
 - Resource Constraints:
-  - Technical risk: <br>Technical problems that happened in Student Accommodation System would include hardware breakdowns, software glitches, and system outages, which can lead to system downtime, data loss, or system crashes.
+  - Technical risk: <br>Technical problems faced by system development include hardware breakdowns, software glitches, and system outages, which can lead to system downtime, data loss, or system crashes.
   - Financial risk: <br>The Student Accommodation System in Kolej Tun Dr Ismail (KTDI) needs a lot of money to implement and operate, and it's impossible to use the small income to cover those large amounts of costs.
  
-To mitigate these risks, the following strategies will be employed:
+To mitigate these risks, the following strategies will be employed for each risk:
 
 - User adoption risk: 
-  - Users can be trained and supported. The surveys and feedback sessions will be held to improve the Student Accomodation System and incentives or rewards can be given to users who successfully adopt and use the system. These are all the actions that can help to reduce the risks associated with user adoption.
+  - Users can be trained and supported. The surveys and feedback sessions will be held to improve the Student Accomodation System in KTDI and incentives or rewards can be given to users who successfully adopt and use the system. These are all the actions that can help to reduce the risks associated with user adoption.
 
-- Changes in project requirement:
+- Changes in project requirements:
   - The project requirements should be precisely stated, completed, and well-documented.
-  - Create a change management strategy that show details on how modifications to the project scope will be handled, including what will be documented, reviewed, and approved.
-  - To prevent conflicts, effectively communicate changes to the project's requirements to all parties involved, including the project team, users, and management.ALL parties that involved, inlcuding the project team, users, software engineer, survey team, project budget must communicate effectively to discuss the project requirements so that conflicts will not happened.
+  - Create a changing management strategy that show details on how modifications to the project scope will be handled, including what will be documented, reviewed and approved.
+  - To prevent conflicts, effectively communicate changes to the project's requirements to all audiences involved, including the project team and users. We must communicate effectively to discuss the project requirements so that conflicts will not be happened.
 
 - Resource Constraints:
-  - Technical risk: <br>For Student Accommodation System, Kolej Tun Dr Ismail(KTDI) should put in place routine data backups and disaster recovery plans, as well as routine maintenance,software and hardware updates to reduce the technical risks. They should also employ qualified Information Technology Specialist to run and maintain the system.
-  - Financial risk: <br>To reduce financial risks, they should create a thorough financial strategy that takes into consideration the initial expenditures as well as recurring expenses of the Student Accommodation System. It's important to regularly examine and modify financial predictions to take any changes in enrollment or other monetary issues into consideration.
+  - Technical risk: <br>Student Accommodation System in KTDI should put in place routine data backups and disaster recovery plans, as well as routine maintenance, software and hardware updates to reduce the technical risks. A qualified Information Technology specialist should be employed to run and support the maintenance of the system.
+  - Financial risk: <br>To reduce financial risks,  the project manager should create a thorough financial strategy that takes into consideration the initial expenditures as well as recurring expenses of the proposed system. It's important to regularly examine and modify financial predictions to take any changes in enrollment or other monetary issues into consideration.
 
-In general, it's necessary to identify and reduce these risks if we want the Student Accommodation System in Kolej Tun Dr Ismail (KTDI) to be more successful. We can reduce any negative effects and increase the advantages of the system by taking a proactive approach to risk management.
+In general, it's necessary to identify and reduce these risks to ensure the Student Accommodation System in KTDI to be developed in more successful. We as the project team can reduce any negative effects and increase the advantages of the system by taking a proactive approach to risk management.
 
 ---
 
@@ -312,10 +311,10 @@ I. Staff Resources:<br>
 - UI/UX System Designer: Neo Zheng Weng<br>Responsible for designing user interfaces and user experience for the application.
   
 - Developer Assistant:<br><ul>
- - 1. Neo Zheng Weng
- - 2. Muhammad Danial
- - 3. Wong Khai Shian Nicholas
- - 4. Low Jie Sheng<br></ul>
+  1. Neo Zheng Weng
+  2. Muhammad Danial
+  3. Wong Khai Shian Nicholas
+  4. Low Jie Sheng<br></ul>
   Responsible for assisting the main developer in software architecture designing and also software development tasks such as coding, testing, and deployment.
   
 - Requirements Analyst: Wong Khai Shian Nicholas<br>Responsible for analyzing the project requirements and documenting the functional and non-functional requirements of the software application.
@@ -332,45 +331,45 @@ II. Equipment Resources:<br>
 - Networking equipment such as routers, switches, and cables for setting up the development and production environments.
   
 III. Software Resources:<br>
-- Integrated Development Environment (IDE) for software development:
-  - Visual Studio Code
-  - BootStrap Studio
+- Integrated Development Environment (IDE) for software development: Visual Studio Code
+- Database management system: MySQL
+- Code hosting platform: GitHub
+- Cloud hosting fees: Cloud service such as Google Cloud.
   
 IV. Other Expenses:<br>
-- Cloud Hosting Fees: Cloud service such as Google Cloud.
+- Rental fees: Preparing a working space.
 
 ---
 
 ### 10. Technical Specifications
-- Data Sources:<br>Data on students registration, room allocation, payment transactions, room management and communication logs may need to be gathered and stored by the system. These data sources might include a mix of streamed data from payment management and structured data from databases that will be collect from students based on their UTM id and they can update their profile before they select their room at KTDI.
+- Data Sources:<br>Data on students application, room allocation, payment transactions, room management and maintenance subsystem may need to be gathered and stored by the system. These data sources might include a mix of streamed data from payment management and structured data from databases that will be collect from students based on their UTM id and they can update their profile before they select their room at KTDI.
 
-  
-- Data Schema:<br>The system's required functionality, such as centralised dashboard,students registration, payment processing, room allocation, room management, security, user management and reporting and analytics should be supported by the data schema. The schema ought to be created to make it simple to access and retrieve the data.
+- Data Schema:<br>The system's required functionality, such as centralised dashboard, hostel application, payment processing, room allocation, room management, security, user management and reporting and analytics should be supported by the data schema. The schema ought to be created to make it simple to access and retrieve the data.
 
+- Data Transformations:<br> In order to guarantee the data's accuracy, consistency and completeness, the system might need to alter it. Validating payment transactions, updating room availability, and producing reports are a few examples of transformations. A number of technologies, including computer languages like JavaScript and SQL. Bootstrap then functions as the framework to design our system for KTDI and it could be used to do these modifications.
   
-- Data Transformations:<br> In order to guarantee the data's accuracy, consistency and completeness, the system might need to alter it. Validating payment transactions, updating room availability, and producing reports are a few examples of transformations. A number of technologies, including computer languages like JavaScript, R, and MySQL,Bootstrap function as the framework to design our system for KTDI and it could be used to do these modifications.
+- Data Visualization Tools:<br> For the management team to receive insights or trends, the system may need to produce data visualisations. These visualisations could show patterns in maintenance requests, payment transaction trends, or occupancy rates. Hence, programmes like Tableau or Power BI are considered.
+  
+- Programming Languages:<br> PHP for the backend development; HTML, CSS and JavaScript with React for the frontend development.
 
-  
-- Machine Learning Algorithms:<br> The KTDI Student Accommodation System may not immediately benefit from the use of machine learning methods. However, the system could use UTM portal as web based program to assign rooms in accordance with student preferences and accessibility.
+- Frameworks and Libraries:<br> Bootstrap as web development framework, which is an open-source toolkit with HTML, JS, and CSS; D3.js with Chart.js is used for data processing and visualisation.
 
-  
-- Data Visualization Tools:<br> For the management team to receive insights or trends, the system may need to produce data visualisations. These visualisations could show patterns in maintenance requests, payment transaction trends, or occupancy rates. To make these visualisations, one may use programmes like Tableau or Power BI.
-  
-- Programming Languages, Frameworks and Libraries:<br>Developers utilise Bootstrap as framework, PHP for the backend, HTML, CSS and JavaScript with React for the frontend and D3.js with Chart.js for data processing and visualisation for the Kolej Tun Dr Ismail (KTDI) student accommodation system. These technologies are helpful to developers since they are well-documented and frequently used in the field.
-  
-- Hardware and software requirements
- <ul>i. Hardware Requirements:<br>
-  •	A computer with a processor of at least 2 GHz or higher<br>
-  •	A minimum of 16 GB RAM<br>
-  •	Sufficient storage space to store the system files and database<br>
-  •	A stable internet connection</ul>
-  
- <ul>ii. Software Requirements:<br>
-  •	An operating system such as Windows, Linux, or macOS<br>
-  •	A code editor such as Visual Studio Code and Bootstrap Studio</ul>
-  
-- Data security:<br> Several steps that can be taken to ensure the security of the Kolej Tun Dr Ismail (KTDI) Student Accommodation System, including secure login procedures, data encryption, routine backups and disaster recovery plans.For example,We can ask them to create the best and strong possible password in order to protect their data to be leak by irresponsible parties. The most recent security patches for software and applications should be continuously updated to fix vulnerabilities. Users should be instructed on the best data security practises, which a user guideline will be provided by us and the system can be protected by putting in place physical security measures.
+These technologies are helpful in developing our proposed system since they are well-documented and frequently used in the field of software development.
 
+ - Hardware Requirements:<br>
+    -	A computer with a processor of at least 2 GHz which is good enough for web browsing.<br>
+    -	A minimum of 16 GB RAM memory to ensure the extra speed and smooth functioning.<br>
+    -	A minimum of 100 GB storage space to store the system files and database.<br>
+    -	A screen with resolution of at least 1920x1080 to display a sharper picture.</ul>
+  
+ - Software Requirements:<br>
+    - An operating system such as Windows, Linux, or macOS.<br>
+    - A database management system such as MySQL to add, access, and process data stored in a computer database.<br>
+    -	A Integrated Development Environment (IDE) such as Visual Studio Code for code editing.<br>
+    - A code hosting platform such as GitHub for version control and collaboration.
+    - A cloud service such as Google Cloud to store the documentation.</ul>
+  
+- Data security:<br> Several steps will be implemented to ensure the security of the Kolej Tun Dr Ismail (KTDI) Student Accommodation System, including secure login procedures, data encryption, routine backups and disaster recovery plans. For example, the users are asked to create the best and strongest possible password to protect their data from being leaked by irresponsible parties. The most recent security patches for software and applications should be continuously updated to fix vulnerabilities. Users should be instructed on the best data security practices, which will be provided with a user guideline, and the system can be protected by putting in place physical security measures.
 
 ---
 
@@ -444,9 +443,16 @@ IV. Other Expenses:<br>
 
 In conclusion, the proposed Student Accommodation System is a crucial solution to the challenges faced by Kolej Tun Dr Ismail (KTDI) in managing student housing. The system aims to improve data analysis, automate processes, give flexibility for students selecting their room, and provide a better user experience for students. The proposed system offers benefits such as increased student satisfaction, improved staff productivity, and a more reliable and efficient system.
 
-During the development of the system, challenges may arise, such as data privacy concerns and system integration issues. However, we believe that the benefits of the system outweigh the challenges, and we will work together as a team to produce system that will help KTDI staffs reducing their workload.
+This system will help to increase student satisfaction. By allowing the features of choosing students' own desired rooms through an user-friendly platform, the system will provide an easier way for students to customize their rooms that meet their needs. As a result, students will have a higher satistaction level towards the hostel application.
+
+The method can also greatly increase employee productivity. The technology lessens the administrative load on staff members, allowing them to concentrate on more important responsibilities by automating procedures including room allocation, maintenance requests, and billing. In addition to saving time, this improved efficiency enables employees to offer students better support and assistance, raising KTDI's overall level of service.
+
+The Student Accommodation System provides a housing management system that is more dependable and effective in addition to increasing staff productivity and student happiness. KTDI might learn important information about housing patterns, occupancy rates, and maintenance requirements with increased data analytic skills. Making educated judgements about resource allocation, capacity planning, and maintenance scheduling using this data will lead to a more efficient process.
+
+The system's development and deployment may face difficulties, though, and this must be acknowledged. In order to guarantee the confidentiality and security of student information, data privacy issues must be addressed. When integrating the new system with the current processes and infrastructure, problems with system integration could also appear. However, by taking proactive measures to overcome these issues and cooperating as a team, the system's advantages may be realised and will ultimately surpass any early obstacles.
 
 We encourage KTDI decision-makers to invest in this system to provide a more practical and efficient way of managing student housing, promoting academic success and overall well-being. The Student Accommodation System will help KTDI maintain its position as a leading accommodation college in UTM while improving the university's reputation. We look forward to working with KTDI to design and implement this system, enhancing the student experience and improving the operations of the KTDI itself.
+
 
 
 ## Contribution 🛠️

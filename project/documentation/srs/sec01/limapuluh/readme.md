@@ -49,7 +49,7 @@ Don't forget to hit the :star: if you like this repo.
 | -----:| ----- | :------: | 
 |1| Document SRS| <a href="https://docs.google.com/document/d/1K3_CkCSf5IU8hNavu1Bdei6vOGWvDCpo/edit#" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
 |2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/tree/main/project/drawio/limapuluh" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
-|3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+|3| Others| <a href="https://docs.google.com/document/d/17rDLRi8BLhC8uBXQAgug8DlBHpm6-DU_5dR3mRfwYkY/edit" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 <table>

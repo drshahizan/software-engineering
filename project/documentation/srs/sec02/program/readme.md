@@ -38,7 +38,7 @@ Don't forget to hit the :star: if you like this repo.
 | No | Name |File | 
 | -----:| ----- | :------: | 
 |1| Document SRS| <a href="https://drive.google.com/drive/folders/1qMErQsLvpeDmBhWP44ltDzrNxc8GQe2s?usp=sharing" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/program/usecasediagram-Simplified.drawio.png" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/program/usecasediagram-Simplified.drawio%20(1).png" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
 |3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
