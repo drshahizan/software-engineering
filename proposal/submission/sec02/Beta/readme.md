@@ -98,7 +98,7 @@ In summary, this food ordering system can streamline the entire food ordering pr
   
 
 ## 5. Software Process Model:
-  <img src="https://eastcode-storage.s3.eu-central-1.amazonaws.com/b2dfa9149d2815bf4d71ad451ba48dcf-1f418d9951f74b57ba000d495a772f9f-methodology-agile.png" alt="Alt text" width="500" height="300">
+  <img src="https://i.ibb.co/1JMHz4h/Agile.png" alt="Alt text" width="500" height="500">
 
 A planned and methodical approach to software development that provides high-quality, dependable, and maintainable software is what the software process model aims to achieve. It outlines the procedures, actions, and activities needed to create software, from gathering requirements to testing, releasing, and maintaining it.
 
