@@ -137,9 +137,9 @@ The scope refers to the boundaries of the project and outlines the features and 
 
 - Reporting and analytics: <br>Administrator will be allowed to monitor and analyze the occupancy rates, revenue and maintenance issues of the accommodation system. Reports from the system should include occupancy rates based on the study programme or room type, revenue by time period and building or room-specific maintenance issues.
 
-- Support and maintenance: <br>Residents or students should be able to report problems any problem faced in the accommodation system, such as bugs through the system's help desk and there should be a dedicated team working to quickly resolve these problems.
+- Support and maintenance: <br>KTDI residents or students should be able to report problems any problem faced in the accommodation system, such as bugs through the system's help desk and there should be a dedicated team working to quickly resolve these problems.
 
-- The system will be limited to Kolej Tun Dr Ismail (KTDI) only and the decision phase of the final result on room application will be done by the AIMS system of UTM. Also, the data privacy and security of the users maybe a concern as our proposed system will not cover it.
+- The student accommodation system will be limited to operation of Kolej Tun Dr Ismail (KTDI) only but not all the hostels in UTM and the full process of room application management will be continued with the help of AIMS2000 system of UTM which will also be used by the KTDI administrator. Besides, our proposed system could only be accessed by the KTDI members and also UTM students.
 
 ---
 
