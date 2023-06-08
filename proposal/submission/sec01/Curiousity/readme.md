@@ -181,7 +181,7 @@ The team will begin coding and integrating the various system components during 
 Unit testing, integration testing, system testing, and user acceptance testing are a few of the tests the system will go through at this stage. To make sure the system follows the requirements and operates as intended, the main developer will test the system. The team will conduct user acceptance testing in conjunction with stakeholders to ensure that the system meets users' needs and expectations.
 
 #### 5. Deployment Phase: 
-The main developer will deploy the system to the production environment during this phase, making it accessible to the users (JKM KTDI and KTDI college office staff and fellow members). The system will undergo final testing and validation to make sure it is ready for use. To ensure the system is successfully adopted, users and support personnel will receive training, and any required documentation will be made available.
+The main developer will deploy the system to the production environment during this phase, making it accessible to the users (JKM KTDI, KTDI staff members, and students). The system will undergo final testing and validation to make sure it is ready for use. To ensure the system is successfully adopted, users and support personnel will receive training, and any required documentation will be made available.
 
 #### 6. Maintenance Phase
 The team will ensure the system's upkeep and maintenance during this phase, including bug fixes, software updates, and any necessary improvements. The objective is to maintain the system's smooth operation and adapt to the users' changing needs. The team will carry out routine assessments to make sure the system keeps up with the project's goals and stakeholder expectations.
