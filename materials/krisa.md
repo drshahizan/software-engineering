@@ -66,22 +66,10 @@ Beberapa pertimbangan utama perlu diambil kira bagi menjamin kejayaan pelaksanaa
 |  1.  | D01 Dokumen Pelan Pembangunan Sistem (PPS)  | <a href="krisa/D01.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a> |
 |  2.  | D02 Dokumen Spesifikasi Keperluan Bisnes BRS| <a href="krisa/D02.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a> |
 |  3.  | D03 Dokumen Spesifikasi Keperluan Sistem SRS | <a href="krisa/D03.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a> |
-|  4.  | D04 Dokumen Spesifikasi Rekabentuk Sistem SDS| - |
-|  5.  | D05 Dokumen Pelan Migrasi Data              | <a href="krisa/D05.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a> |
-|  6.  | D06 Dokumen Spesifikasi Migrasi Data         | <a href="krisa/D06.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a> |
-|  7.  | D07 Dokumen Pelan Integrasi Sistem           | <a href="krisa/D07.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a> |
-|  8.  | D08 Dokumen Spesifikasi Integrasi Sistem     | <a href="krisa/D08.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a> |
-|  9.  | D09 Dokumentasi Pangkalan Data               | -                                     |
-| 10.  | D10 Dokumentasi Kod Sumber                   | -                                     |
-| 11.  | D11 Dokumen Laporan Ujian Sistem             | -                                     |
-| 12.  | D12 Dokumen Pelan Induk Pengujian            | -                                     |
-| 13.  | D13 Dokumen Pelan Ujian Penerimaan UAT-PAT   | -                                     |
-| 14.  | D14 Dokumen Laporan Ujian Penerimaan UAT PAT | -                                     |
-| 15.  | D15 Dokumen Laporan Migrasi Data             | -                                     |
-| 16.  | D16 Dokumen Laporan Penamatan Ujian          | -                                     |
-| 17.  | D17 Dokumen Manual Pengguna Sistem           | -                                     |
-| 18.  | D18 Dokumen Laporan Serahan Sistem           | -                                     |
-
+|  5.  | D05 Dokumen Pelan Migrasi Data | <a href="krisa/D05.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a> |
+|  6.  | D06 Dokumen Spesifikasi Migrasi Data | <a href="krisa/D06.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a> |
+|  7.  | D07 Dokumen Pelan Integrasi Sistem | <a href="krisa/D07.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a> |
+|  8.  | D08 Dokumen Spesifikasi Integrasi Sistem | <a href="krisa/D08.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
