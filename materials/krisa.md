@@ -63,7 +63,7 @@ Beberapa pertimbangan utama perlu diambil kira bagi menjamin kejayaan pelaksanaa
 
 | Bil. | Tajuk Dokumen                               | Link                                  |
 |-----:|--------------------------------------------|---------------------------------------|
-|  1.  | D01 Dokumen Pelan Pembangunan Sistem (PPS)  | [Link](/images/pdfdocument/krisa/ContohPenyelesaian/D01-PELAN_PEMBANGUNAN_SISTEM.pdf) |
+|  1.  | D01 Dokumen Pelan Pembangunan Sistem (PPS)  | <a href="https://sqa.mampu.gov.my/images/pdfdocument/krisa/ContohPenyelesaian/D01-PELAN_PEMBANGUNAN_SISTEM.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a> |
 |  2.  | D02 Dokumen Spesifikasi Keperluan Bisnes BRS| [Link](/images/pdfdocument/krisa/ContohPenyelesaian/D02-SPESIFIKASI_KEPERLUAN_BISNES.pdf) |
 |  3.  | D03 Dokumen Spesifikasi Keperluan Sistem SRS | [Link](/images/pdfdocument/krisa/ContohPenyelesaian/D03-SPESIFIKASI_KEPERLUAN_SISTEM.pdf) |
 |  4.  | D04 Dokumen Spesifikasi Rekabentuk Sistem SDS| -                                     |
