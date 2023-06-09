@@ -40,7 +40,7 @@ Apologies for the mistake. Here's the updated table with the third column (Link 
 
 | Bil. | Tajuk Dokumen | Link (Word) |
 |------|------------------------------|:-------------------------:|
-| 1.   | D01 Dokumen Pelan Pembangunan Sistem (PPS) | [Word](/images/BC_KRISA_FasaRekabentuk/day3/D01_DOKUMEN_PELAN_PEMBANGUNAN_SISTEM_PPS.docx) |
+| 1.   | D01 Dokumen Pelan Pembangunan Sistem (PPS) | <a href="krisa/D01.docx"><img src="../images/word.svg" width="24px" height="24px" ></a>|
 | 2.   | D02 Dokumen Spesifikasi Keperluan Bisnes BRS | [Word](/images/BC_KRISA_FasaRekabentuk/day3/D02_DOKUMEN_SPESIFIKASI_KEPERLUAN_BISNES_BRS.docx) |
 | 3.   | D03 Dokumen Spesifikasi Keperluan Sistem SRS | [Word](/images/BC_KRISA_FasaRekabentuk/day3/D03_DOKUMEN_SPESIFIKASI_KEPERLUAN_SISTEM_SRS.docx) |
 | 4.   | D04 Dokumen Spesifikasi Rekabentuk Sistem SDS | [Word](/images/BC_KRISA_FasaRekabentuk/day3/D04_DOKUMEN_SPESIFIKASI_REKABENTUK_SISTEM_SDS.docx) |
