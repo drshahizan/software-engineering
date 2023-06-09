@@ -1,0 +1,48 @@
+@startuml
+actor "Faculty of Computing's Students" as Student
+actor "Faculty of Computing's Lecturers" as Lecturer
+actor "Faculty of Computing's Student Representative Council Members" as SRC
+actor Administrators
+
+boundary "Registration Page" as RegistrationPage
+entity "User Database" as UserDatabase
+control "User Registration Controller" as RegistrationController
+
+Student -> RegistrationPage: Clicks on "Sign up"
+RegistrationPage --> Student: Displays page to choose user type
+
+Student -> RegistrationController: Chooses Student / Lecturer
+Lecturer -> RegistrationController: Chooses Student / Lecturer
+SRC -> RegistrationController: Chooses SRC
+Administrators -> RegistrationController: Chooses Admin
+
+RegistrationPage --> Student: Displays suitable sign up page to choose user type based on user type
+Student -> RegistrationController: Fills in required details
+
+Student -> RegistrationController: Clicks on "Sign up" button
+RegistrationController -> RegistrationController: Validates registration form
+
+activate RegistrationController
+alt Valid details
+    RegistrationController -> UserDatabase: Add user account
+    UserDatabase --> RegistrationController: User account added
+    RegistrationController --> Student: Redirects to login page
+else Invalid details
+    RegistrationController --> Student: Displays invalid sign up message
+    RegistrationController --> RegistrationPage: Displays sign-up page again
+
+    Student -> RegistrationController: Re-enters correct details
+    RegistrationController -> RegistrationController: Re-validates registration form
+
+    activate RegistrationController
+    alt Valid details (Retry)
+        RegistrationController -> UserDatabase: Add user account
+        UserDatabase --> RegistrationController: User account added
+        RegistrationController --> Student: Redirects to login page
+    else Invalid details (Retry)
+        RegistrationController --> Student: Displays invalid sign up message
+        RegistrationController --> RegistrationPage: Displays sign-up page again
+    end
+    deactivate RegistrationController
+end
+@enduml

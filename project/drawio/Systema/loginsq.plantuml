@@ -1,0 +1,48 @@
+@startuml
+actor "Faculty of Computing’s Students" as Student
+actor "Faculty of Computing’s Lecturers" as Lecturer
+actor "Faculty of Computing’s Student Representative Council Members" as CouncilMember
+actor Administrators as Admin
+
+boundary "Login Page" as LoginPage
+control "Login Controller" as LoginController
+boundary "Dashboard Page" as DashboardPage
+database "User Account Database" as UserDatabase
+
+Student -> LoginPage: Open login page
+LoginPage -> LoginController: Display login form
+Student -> LoginController: Enter username/email and password
+LoginController -> UserDatabase: Verify credentials
+alt Valid credentials
+    UserDatabase --> LoginController: User data
+    LoginController -> DashboardPage: Redirect to dashboard
+    DashboardPage --> Student: Display dashboard
+else Invalid credentials
+    UserDatabase --> LoginController: Invalid credentials
+    LoginController --> LoginPage: Display error message
+    Student --> LoginPage: Enter new username/email and password
+    loop until valid credentials
+        Student -> LoginController: Enter new username/email and password
+        LoginController -> UserDatabase: Verify credentials
+        alt Valid credentials
+            UserDatabase --> LoginController: User data
+            LoginController -> DashboardPage: Redirect to dashboard
+            DashboardPage --> Student: Display dashboard
+        else Invalid credentials
+            UserDatabase --> LoginController: Invalid credentials
+            LoginController --> LoginPage: Display error message
+            Student --> LoginPage: Enter new username/email and password
+        end
+    end
+else User account not verified
+    UserDatabase --> LoginController: Account not verified
+    LoginController --> LoginPage: Display verification error message
+    Student --> LoginPage: Verify email address
+end
+
+
+alt Technical issues/errors
+    LoginController --> LoginPage: Display technical error message
+    Student --> LoginPage: Seek support or assistance
+end
+@enduml
