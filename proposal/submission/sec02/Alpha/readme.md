@@ -106,7 +106,7 @@ Room booking: Room booking features allows students to book rooms based on avail
 
 ### 5. Software Process Model:
 
-<img src=https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/agile%20method.png></img>
+<img src=https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/agile.drawio.png></img>
 
 
 Agile methodology is a software development process model that emphasises the importance of collaboration, flexibility, and iterative development. In the context of creating a college room rental system, an Agile approach can be used to develop the system in a way that meets the changing needs and requirements of the stakeholders.
