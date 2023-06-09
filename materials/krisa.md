@@ -35,6 +35,21 @@ Beberapa pertimbangan utama perlu diambil kira bagi menjamin kejayaan pelaksanaa
 | 7 | Fasa Pelaksanaan |<a href="krisa/bab7.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
 | 8 | Pengiraan Saiz Sistem Aplikasi |<a href="krisa/bab8.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
 
+**Senarai Templat Dokumen KRISA**
+
+| Bil. | Tajuk Dokumen | Link (PDF) | Link (Word) |
+|------|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.   | D01 Dokumen Pelan Pembangunan Sistem (PPS) | [PDF](/images/pdfdocument/template_pembangunan_sistem/D01_DOKUMEN_PELAN_PEMBANGUNAN_SISTEM_PPS.pdf)                                 | [Word](/images/BC_KRISA_FasaRekabentuk/day3/D01_DOKUMEN_PELAN_PEMBANGUNAN_SISTEM_PPS.docx)                                                  |
+| 2.   | D02 Dokumen Spesifikasi Keperluan Bisnes BRS | [PDF](/images/pdfdocument/template_pembangunan_sistem/D02_DOKUMEN_SPESIFIKASI_KEPERLUAN_BISNES_BRS.pdf)                               | [Word](/images/BC_KRISA_FasaRekabentuk/day3/D02_DOKUMEN_SPESIFIKASI_KEPERLUAN_BISNES_BRS.docx)                                             |
+| 3.   | D03 Dokumen Spesifikasi Keperluan Sistem SRS | [PDF](/images/pdfdocument/template_pembangunan_sistem/D03_DOKUMEN_SPESIFIKASI_KEPERLUAN_SISTEM_SRS.pdf)                               | [Word](/images/BC_KRISA_FasaRekabentuk/day3/D03_DOKUMEN_SPESIFIKASI_KEPERLUAN_SISTEM_SRS.docx)                                             |
+| 4.   | D04 Dokumen Spesifikasi Rekabentuk Sistem SDS | [PDF](/images/pdfdocument/template_pembangunan_sistem/D04_DOKUMEN_SPESIFIKASI_REKABENTUK_SISTEM_SDS.pdf)                             | [Word](/images/BC_KRISA_FasaRekabentuk/day3/D04_DOKUMEN_SPESIFIKASI_REKABENTUK_SISTEM_SDS.docx)                                             |
+| 5.   | D05 Dokumen Pelan Migrasi Data               | [PDF](/images/pdfdocument/template_pembangunan_sistem/D05_DOKUMEN_PELAN_MIGRASI_DATA.pdf)                                             | [Word](/images/BC_KRISA_FasaRekabentuk/day3/D05_DOKUMEN_PELAN_MIGRASI_DATA.docx)                                                            |
+| 6.   | D06 Dokumen Spesifikasi Migrasi Data          | [PDF](/images/pdfdocument/template_pembangunan_sistem/D06_DOKUMEN_SPESIFIKASI_MIGRASI_DATA.pdf)                                         | [Word](/images/BC_KRISA_FasaRekabentuk/day3/D06_DOKUMEN_SPESIFIKASI_MIGRASI_DATA.docx)                                                       |
+| 7.   | D07 Dokumen Pelan Integrasi Sistem           | [PDF](/images/pdfdocument/template_pembangunan_sistem/D07_DOKUMEN_PELAN_INTEGRASI_SISTEM.pdf)                                          | [Word](/images/BC_KRISA_FasaRekabentuk/day3/D07_DOKUMEN_PELAN_INTEGRASI_SISTEM.docx)                                                         |
+| 8.   | D08 Dokumen Spesifikasi Integrasi Sistem      | [PDF](/images/pdfdocument/template_pembangunan_sistem/D08_DOKUMEN_SPESIFIKASI_INTEGRASI_SISTEM.pdf)                                      | [Word](/images/BC_KRISA_FasaRekabentuk/day3/D08_DOKUMEN_SPESIFIKASI_INTEGRASI_SISTEM.docx)                                                    |
+
+
+
 ## Senarai Contoh Penyelesaian Dokumen KRISA
 
 | Bil. | Tajuk Dokumen                               | Link                                  |
