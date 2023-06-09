@@ -87,6 +87,9 @@
                 <mxCell id="38" value="Show details product page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
                     <mxGeometry x="190" y="500" width="160" height="30" as="geometry"/>
                 </mxCell>
+                <mxCell id="39" value="UC004:Sequence Diagram" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="40" width="500" height="790" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
