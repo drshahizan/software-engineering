@@ -228,41 +228,26 @@ Overall, the risks associated with the development of the food ordering system w
 
 ## 9. Resources:
 
-
-### Staff:
-- 3 Programmers: RM 25,000/year each
-- 1 System Analyst: RM 35,000/year
-- 1 Project Manager: RM 40,000/year
-
-Total Staff Cost: RM 100,000/year
+### Personnel:
+- Project manager: accountable for directing the system's development and execution.
+- Developers: programmers with expertise to create the website or mobile app as well as the software.
+- UX/UI Designers: To develop a user interface and user experience that is appealing.
+- Quality Assurance Tester: accountable for thorough testing to guarantee the system runs faultlessly and is bug-free. 
 
 ### Equipment:
-- Servers: RM 50,000
-- Workstations and Laptops: RM 50,000
-- Security and Backup: RM 15,000
-
-Total Equipment Cost: RM 115,000
+- Laptop that is powerful enough to run various code for development.
+- Web servers and database servers to host the food ordering system.
 
 ### Software:
-- Relational Database Management System (RDBMS): RM 25,000
-- Web Server: RM 20,000
-- Mobile Application Development Framework: RM 15,000
-- Data Analytics Tools: RM 25,000
-
-Total Software Cost: RM 85,000
+- Development Resources: Visual Studio Code, HTML, CSS, JavaScript, PHP.
+- User Interface (UI) and User Experience (UX) Design: Software like  Figma to design an intuitive and visually appealing interface.
+- Database management system: MySQL
+- Version control software : GitHub
 
 ### Other Expenses:
-- Rent for Office Space: RM 50,000/year
-- Utilities: RM 30,000/year
-- Marketing and Advertising: RM 20,000
-- Contingency: RM 300,000
+- Contingency
 
-Total Other Expenses: RM 400,000
-
-Total Estimated Cost: RM 700,000
-
-> Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
-
+  
 ## 10. Technical Specification
  - Platform: The system should be web-based and accessible from any device with an internet connection, such as desktops, laptops, tablets, and smartphones. The system should be compatible with multiple operating systems and web browsers.
 
