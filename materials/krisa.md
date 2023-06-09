@@ -65,12 +65,12 @@ Beberapa pertimbangan utama perlu diambil kira bagi menjamin kejayaan pelaksanaa
 |-----:|--------------------------------------------|---------------------------------------|
 |  1.  | D01 Dokumen Pelan Pembangunan Sistem (PPS)  | <a href="krisa/D01.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a> |
 |  2.  | D02 Dokumen Spesifikasi Keperluan Bisnes BRS| <a href="krisa/D02.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a> |
-|  3.  | D03 Dokumen Spesifikasi Keperluan Sistem SRS | [Link](/images/pdfdocument/krisa/ContohPenyelesaian/D03-SPESIFIKASI_KEPERLUAN_SISTEM.pdf) |
-|  4.  | D04 Dokumen Spesifikasi Rekabentuk Sistem SDS| -                                     |
-|  5.  | D05 Dokumen Pelan Migrasi Data              | [Link](/images/pdfdocument/krisa/ContohPenyelesaian/D05_DOKUMEN_PELAN_MIGRASI_DATA.pdf) |
-|  6.  | D06 Dokumen Spesifikasi Migrasi Data         | [Link](/images/pdfdocument/krisa/ContohPenyelesaian/D06_DOKUMEN_SPESIFIKASI_MIGRASI_DATA.pdf) |
-|  7.  | D07 Dokumen Pelan Integrasi Sistem           | [Link](/images/pdfdocument/krisa/ContohPenyelesaian/D07_DOKUMEN_PELAN_INTEGRASI_SISTEM.pdf) |
-|  8.  | D08 Dokumen Spesifikasi Integrasi Sistem     | [Link](/images/pdfdocument/krisa/ContohPenyelesaian/D08_DOKUMEN_SPESIFIKASI_INTEGRASI_SISTEM.pdf) |
+|  3.  | D03 Dokumen Spesifikasi Keperluan Sistem SRS | <a href="krisa/D03.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a> |
+|  4.  | D04 Dokumen Spesifikasi Rekabentuk Sistem SDS| - |
+|  5.  | D05 Dokumen Pelan Migrasi Data              | <a href="krisa/D05.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a> |
+|  6.  | D06 Dokumen Spesifikasi Migrasi Data         | <a href="krisa/D06.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a> |
+|  7.  | D07 Dokumen Pelan Integrasi Sistem           | <a href="krisa/D07.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a> |
+|  8.  | D08 Dokumen Spesifikasi Integrasi Sistem     | <a href="krisa/D08.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a> |
 |  9.  | D09 Dokumentasi Pangkalan Data               | -                                     |
 | 10.  | D10 Dokumentasi Kod Sumber                   | -                                     |
 | 11.  | D11 Dokumen Laporan Ujian Sistem             | -                                     |
