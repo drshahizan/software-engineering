@@ -35,6 +35,30 @@ Beberapa pertimbangan utama perlu diambil kira bagi menjamin kejayaan pelaksanaa
 | 7 | Fasa Pelaksanaan |<a href="krisa/bab7.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
 | 8 | Pengiraan Saiz Sistem Aplikasi |<a href="krisa/bab8.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
 
+## Senarai Contoh Penyelesaian Dokumen KRISA
+
+| Bil. | Tajuk Dokumen                               | Link                                  |
+|-----:|--------------------------------------------|---------------------------------------|
+|  1.  | D01 Dokumen Pelan Pembangunan Sistem (PPS)  | [Link](/images/pdfdocument/krisa/ContohPenyelesaian/D01-PELAN_PEMBANGUNAN_SISTEM.pdf) |
+|  2.  | D02 Dokumen Spesifikasi Keperluan Bisnes BRS| [Link](/images/pdfdocument/krisa/ContohPenyelesaian/D02-SPESIFIKASI_KEPERLUAN_BISNES.pdf) |
+|  3.  | D03 Dokumen Spesifikasi Keperluan Sistem SRS | [Link](/images/pdfdocument/krisa/ContohPenyelesaian/D03-SPESIFIKASI_KEPERLUAN_SISTEM.pdf) |
+|  4.  | D04 Dokumen Spesifikasi Rekabentuk Sistem SDS| -                                     |
+|  5.  | D05 Dokumen Pelan Migrasi Data              | [Link](/images/pdfdocument/krisa/ContohPenyelesaian/D05_DOKUMEN_PELAN_MIGRASI_DATA.pdf) |
+|  6.  | D06 Dokumen Spesifikasi Migrasi Data         | [Link](/images/pdfdocument/krisa/ContohPenyelesaian/D06_DOKUMEN_SPESIFIKASI_MIGRASI_DATA.pdf) |
+|  7.  | D07 Dokumen Pelan Integrasi Sistem           | [Link](/images/pdfdocument/krisa/ContohPenyelesaian/D07_DOKUMEN_PELAN_INTEGRASI_SISTEM.pdf) |
+|  8.  | D08 Dokumen Spesifikasi Integrasi Sistem     | [Link](/images/pdfdocument/krisa/ContohPenyelesaian/D08_DOKUMEN_SPESIFIKASI_INTEGRASI_SISTEM.pdf) |
+|  9.  | D09 Dokumentasi Pangkalan Data               | -                                     |
+| 10.  | D10 Dokumentasi Kod Sumber                   | -                                     |
+| 11.  | D11 Dokumen Laporan Ujian Sistem             | -                                     |
+| 12.  | D12 Dokumen Pelan Induk Pengujian            | -                                     |
+| 13.  | D13 Dokumen Pelan Ujian Penerimaan UAT-PAT   | -                                     |
+| 14.  | D14 Dokumen Laporan Ujian Penerimaan UAT PAT | -                                     |
+| 15.  | D15 Dokumen Laporan Migrasi Data             | -                                     |
+| 16.  | D16 Dokumen Laporan Penamatan Ujian          | -                                     |
+| 17.  | D17 Dokumen Manual Pengguna Sistem           | -                                     |
+| 18.  | D18 Dokumen Laporan Serahan Sistem           | -                                     |
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
