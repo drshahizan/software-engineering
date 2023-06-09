@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="6bnkY7PMMWQHFfjJnFAi" name="Page-1">
-        <mxGraphModel dx="561" dy="-1776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
+        <mxGraphModel dx="3697" dy="-1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -128,6 +128,9 @@
                         </Array>
                         <mxPoint x="1440" y="2733" as="sourcePoint"/>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="111" value="act Login" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-10" y="2330" width="1480" height="1070" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="rl7IALHXFbVUzaYWkvSd" name="Page-1">
-        <mxGraphModel dx="1651" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+        <mxGraphModel dx="4510" dy="2786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -369,6 +369,12 @@
                 </mxCell>
                 <mxCell id="235" value="manage" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
                     <mxGeometry x="870" y="164" width="70" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="238" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;class Domain Model&amp;nbsp;&lt;/b&gt;&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;fillColor=none;gradientColor=none;fontSize=12;align=center;labelX=327.64;" vertex="1" parent="1">
+                    <mxGeometry x="-550" y="-415" width="2060" height="1068" as="geometry"/>
+                </mxCell>
+                <mxCell id="260" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="680" width="1510" height="40" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
