@@ -153,7 +153,7 @@ For the student health and wellness management system which involves around 2000
 This could include purchasing or renting servers, storage devices, networking equipment, computers and other hardware necessary for the development and maintenance of the system. The cost might differ depending on the latest requirements of the system and the hardware components chosen.
 
 - Software: **RM 0**\
-This could include purchasing or licensing software such as operating systems, system development tools, and security software. The cost of software might differ depending on the latest requirements of the system, the number of licenses required, and the software tools and platforms chosen. To save on software costs, an open-source solution like the MySQL and XAMPP is a suitable alternative, with no cost initially required.
+This could include purchasing or licensing software such as operating systems, system development tools, and security software. The cost of software might differ depending on the latest requirements of the system, and the software tools and platforms chosen but since the software tools and platforms used are free, there is initially no fee required.
 
 - Testing: **RM 15,000**\
 It requires specialized tests such as functional, performance and security tests to ensure the system functions correctly and meets the requirements. These tests require purchasing and installing specialized test equipment, software and other services that come with their own costs.

@@ -38,7 +38,7 @@ Don't forget to hit the :star: if you like this repo.
 | -----:| ----- | :------: | 
 |1| Document SRS| <a href="https://docs.google.com/document/d/1SVXydTjl-7bWs_2QEXZc8l11XHcp8jw3/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
 |2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/Allen" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
-|3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+|3| Others| <a href="https://drive.google.com/drive/folders/1qIE-RGUjnxqmSpEHlOGuq-NOl-Z2rYA1?usp=sharing" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 <table>
@@ -75,11 +75,16 @@ Don't forget to hit the :star: if you like this repo.
 | 2 | 10/05/2023 | All Members | Project Members | Met our 1st stakeholder | Complete |
 | 3 | 11/05/2023 | All Members | Project Members | Met our 2nd and 3rd stakeholders | Complete |
 | 4 | 11/05/2023 | NAVACHANDER NAVASANTAR | Documentation Specialist | Assign task to project members for proposal| Complete | 
-| 5 | 12/05/2023 | All Members | Project Members | Updation of proposal | Partially Complete | 
+| 5 | 12/05/2023 | All Members | Project Members | Updation of proposal |  Complete | 
 | 6 | 12/05/2023 | NAVACHANDER NAVASANTAR | Documantation Specialist | Assign task to project members for SRS Documentation | Incomplete | 
 | 6 | 14/05/2023 | All Members | Project Members | Updation of SRS Documentation | Incomplete | 
-| 7 | 17/05/2023 | All Members | Project Members | Creating UML Diagram | Ongoing |
-| 8 | 20/05/2023 | All Members | Project Members | Create System Docuentation (SD) | Ongoing |
+| 7 | 17/05/2023 | All Members | Project Members | Creates UML Diagram, User Diagram,Activity Diagram. | Partially Complete |
+| 8 | 19/05/2023 | All Members | Project Members | SRS Documentation Use Case Diagram Description | Ongoing |
+| 9 | 20/05/2023 | All Members | Project Members | Create System Documentation (SD) | Ongoing |
+| 10 | 31/05/2023 | All Members | Project Members | Do Low Fidelity Wideframe | Complete |
+| 11 | 1/06/2023 | All Members | Project Members | Do High Fidelity Wideframe | Ongoing |
+| 12 | 05/06/2023 | All Members | Project Members | Create design of the system | Ongoing |
+| 13 | 05/06/2023 | All Members | Project Members | Scrum Meeting| Complete |
 
 
 ## Contribution 🛠️
