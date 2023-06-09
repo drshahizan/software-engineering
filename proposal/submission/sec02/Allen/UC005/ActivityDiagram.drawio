@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2023-06-09T00:00:00Z" agent="5.0 (Windows)" etag="abcdefg123456789">
+  <diagram name="Page 1" id="abcdefg123456789">
+    <mxGraphModel dx="780" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="20" width="740" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="" style="group" vertex="1" connectable="0" parent="2">
+          <mxGeometry x="10" y="10" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="" style="group" vertex="1" connectable="0" parent="2">
+          <mxGeometry x="200" y="10" width="530" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="" style="group" vertex="1" connectable="0" parent="4">
+          <mxGeometry x="10" y="10" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="" style="group" vertex="1" connectable="0" parent="4">
+          <mxGeometry x="160" y="10" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="" style="group" vertex="1" connectable="0" parent="4">
+          <mxGeometry x="530" y="10" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E5FF;" vertex="1" connectable="0" parent="3">
+          <mxGeometry x="20" y="20" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Homepage\nor Categories" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E5FF;" vertex="1" connectable="0" parent="6">
+          <mxGeometry x="20" y="10" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Filter Products" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E5FF;" vertex="1" connectable="0" parent="6">
+          <mxGeometry x="190" y="10" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Sort Products" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E5FF;" vertex="1" connectable="0" parent="6">
+          <mxGeometry x="360" y="10" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Product List" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E5FF;" vertex="1" connectable="0" parent="6">
+          <mxGeometry x="530" y="10" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Product Page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E5FF;" vertex="1" connectable="0" parent="7">
+          <mxGeometry x="20" y="10" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="150" width="740" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="" style="group" vertex="1" connectable="0" parent="14">
+          <mxGeometry x="10" y="10" width="340" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="" style="group" vertex="1" connectable="0" parent="14">
+          <mxGeometry x="370" y="10" width="360" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="No Products Found" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E5FF;" vertex="1" connectable="0" parent="15">
+          <mxGeometry x="20" y="10" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Product Details" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E5FF;" vertex="1" connectable="0" parent="16">
+          <mxGeometry x="20" y="10" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="" style="group" vertex="1" connectable="0" parent="16">
+          <mxGeometry x="20" y="70" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="Browsing History" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E5FF;" vertex="1" connectable="0" parent="16">
+          <mxGeometry x="360" y="10" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="" style="group" vertex="1" connectable="0" parent="16">
+          <mxGeometry x="360" y="70" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="Alternative Categories or Products" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E5FF;" vertex="1" connectable="0" parent="15">
+          <mxGeometry x="20" y="70" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="Temporary Unavailability" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9E5FF;" vertex="1" connectable="0" parent="14">
+          <mxGeometry x="20" y="70" width="300" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
