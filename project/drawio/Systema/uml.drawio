@@ -1,9 +1,12 @@
 <mxfile host="65bd71144e">
     <diagram id="Nh9DbsmlWs0bwRpxvXcd" name="User Information">
-        <mxGraphModel dx="4270" dy="1967" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="1611" dy="2536" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
+                <mxCell id="106" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="-80" width="610" height="1780" as="geometry"/>
+                </mxCell>
                 <mxCell id="62" style="edgeStyle=none;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="7" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="70.11111111111109" y="600.1111111111111" as="targetPoint"/>
@@ -491,15 +494,6 @@
                         <mxPoint x="980" y="1010" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="tSZ_nWoEUUv1tOyuo0Gb-106" style="edgeStyle=none;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="1000" y="1040" as="sourcePoint"/>
-                        <Array as="points">
-                            <mxPoint x="740" y="1310"/>
-                        </Array>
-                        <mxPoint x="324.02342786614213" y="1393.6580445020759" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
                 <mxCell id="tSZ_nWoEUUv1tOyuo0Gb-107" style="edgeStyle=none;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" target="NdrQbTK8zsEzTxqzjizh-31" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="1000" y="1050" as="sourcePoint"/>
@@ -546,6 +540,9 @@
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="940" y="780" as="sourcePoint"/>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="109" value="&lt;span id=&quot;docs-internal-guid-2df2812c-7fff-d0e8-8f27-13e273a5526e&quot;&gt;&lt;br&gt;&lt;p style=&quot;line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 20pt; font-family: Arial; color: rgb(31, 35, 40); background-color: rgb(255, 255, 255); font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;UTM Faculty of Computing Student Engagement System&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20pt; font-family: Arial; color: rgb(31, 35, 40); background-color: rgb(255, 255, 255); font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="220" y="-70" width="350" height="100" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

@@ -76,7 +76,7 @@ Don't forget to hit the :star: if you like this repo.
 | 3 | 11/05/2023 | All Members | Project Members | Met our 2nd and 3rd stakeholders | Complete |
 | 4 | 11/05/2023 | NAVACHANDER NAVASANTAR | Documentation Specialist | Assign task to project members for proposal| Complete | 
 | 5 | 12/05/2023 | All Members | Project Members | Updation of proposal |  Complete | 
-| 6 | 12/05/2023 | NAVACHANDER NAVASANTAR | Documantation Specialist | Assign task to project members for SRS Documentation | Incomplete | 
+| 6 | 12/05/2023 | NAVACHANDER NAVASANTAR | Documantation Specialist | Assign task to project members for SRS Documentation | Complete | 
 | 6 | 14/05/2023 | All Members | Project Members | Updation of SRS Documentation | Incomplete | 
 | 7 | 17/05/2023 | All Members | Project Members | Creates UML Diagram, User Diagram,Activity Diagram. | Partially Complete |
 | 8 | 19/05/2023 | All Members | Project Members | SRS Documentation Use Case Diagram Description | Ongoing |
