@@ -24,7 +24,7 @@ Beberapa pertimbangan utama perlu diambil kira bagi menjamin kejayaan pelaksanaa
 - Kepentingan Pengukuran Saiz Sistem
 
 ## Bab dalam Buku
-| Bab | Tajuk | Pautan |
+| Bab | Tajuk | Fail |
 |:----:|----------------------------|:------:|
 | 1 | Pengenalan kepada Metodologi Kejuruteraan Sistem Aplikasi |<a href="krisa/bab1.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
 | 2 | Fasa Permulaan Projek |<a href="krisa/bab2.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a>|
@@ -37,7 +37,7 @@ Beberapa pertimbangan utama perlu diambil kira bagi menjamin kejayaan pelaksanaa
 
 ## Senarai Templat Dokumen KRISA
 
-| Bil. | Tajuk Dokumen | Link (Word) |
+| Bil. | Tajuk Dokumen | Fail |
 |------|------------------------------|:-------------------------:|
 | 1.   | D01 Dokumen Pelan Pembangunan Sistem (PPS) | <a href="krisa/D01.docx"><img src="../images/word.svg" width="24px" height="24px" ></a>|
 | 2.   | D02 Dokumen Spesifikasi Keperluan Bisnes BRS | <a href="krisa/D02.docx"><img src="../images/word.svg" width="24px" height="24px" ></a>|
@@ -60,7 +60,7 @@ Beberapa pertimbangan utama perlu diambil kira bagi menjamin kejayaan pelaksanaa
 
 ## Senarai Contoh Penyelesaian Dokumen KRISA
 
-| Bil. | Tajuk Dokumen                               | Link                                  |
+| Bil. | Tajuk Dokumen                               | Fail                                  |
 |-----:|--------------------------------------------|---------------------------------------|
 |  1.  | D01 Dokumen Pelan Pembangunan Sistem (PPS)  | <a href="krisa/D01.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a> |
 |  2.  | D02 Dokumen Spesifikasi Keperluan Bisnes BRS| <a href="krisa/D02.pdf"><img src="../images/pdf.svg" width="24px" height="24px" ></a> |
