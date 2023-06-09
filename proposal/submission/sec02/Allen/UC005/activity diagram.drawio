@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="PaMcSHe_9nZht5fnbbpC" name="Page-1">
-        <mxGraphModel dx="471" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="243" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -113,13 +113,13 @@
                 <mxCell id="85" value="Access Cart" style="rounded=1;whiteSpace=wrap;html=1;" parent="5" vertex="1">
                     <mxGeometry x="80" y="720" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="94" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5" source="87" target="90">
+                <mxCell id="94" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="5" source="87" target="90" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="87" value="View Cart" style="rounded=1;whiteSpace=wrap;html=1;" parent="5" vertex="1">
                     <mxGeometry x="80" y="820" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="95" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5" source="90" target="89">
+                <mxCell id="95" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="5" source="90" target="89" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="90" value="Update quantites or remove items" style="rounded=1;whiteSpace=wrap;html=1;" parent="5" vertex="1">
@@ -152,6 +152,9 @@
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="660" y="420.33333333333326" as="targetPoint"/>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="96" value="UC005:Activity Diagram" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="30" width="870" height="1230" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
