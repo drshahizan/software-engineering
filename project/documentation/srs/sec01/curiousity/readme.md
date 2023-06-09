@@ -39,8 +39,7 @@ Don't forget to hit the :star: if you like this repo.
 | -----:| ----- | :------: | 
 |1| Document SRS| <a href="https://docs.google.com/document/d/18NUuhr4QC2U0nWMCm7V6GgPZznmsA4sk/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
 |2| Draw.io| <a href="https://app.diagrams.net/#G1vg-nVVLj8wD-G-0kdyXber8yaMZKHua6#%7B%22pageId%22%3A%22HwsaDun9NWlqgjsMZAeN%22%7D" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
-
-
+|3| Others| <a href="https://drive.google.com/drive/folders/1QeC8S468pCBZWLXVhhhXpWEOMtfRFafI?usp=drive_link" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 <table>
@@ -100,7 +99,7 @@ Don't forget to hit the :star: if you like this repo.
 | 12 | 20/05/2023 | Camily Tang Jia Lei | Developer | Identify software functionality | Complete |  
 | 13 | 20/05/2023 | Koh Li Hui | User Experience Designer | Requirement Analysis | Complete |
 | 14 | 16/05/2023 | Ng Shu Yu | Documentation Specialist | Create system documentation | Ongoing |
-| 15 | 11/05/2023-25/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Creates UML Diagram, User Diagram, User Journey Maps, User Stories and Prototype. | Ongoing |
+| 15 | 11/05/2023-25/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Creates UML Diagram, User Diagram, User Journey Maps, User Stories and Prototype. | Complete |
 | 16 | 26/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer |Second Meeting with Stakeholders for Review the Requirement and Draft of the Design | Incomplete |
 | 17 | 27/05/2023 |  Ng Shu Yu | Documentation Specialist | Create Design Document | Incomplete |
 | 18 | 30/05/2023-10/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer |Develop the Interface Layer - each member with at least 1 modul to complete | Incomplete | 

@@ -1,4 +1,4 @@
-# Student Engagement
+# UTM Faculty of Computing Student Engagement System
 ### Prepared by: Systema
   <table>
   <tr>
@@ -174,37 +174,38 @@ Here is the phases of agile model that can be applied to the development of a st
 </ul>
 
 ### 6. Budget
-There will be a number of costs associated with the creation of a student engagement system that will serve about 40,000 users, including hardware, software, personnel, testing, contingency, and others. This project is expected to cost **RM 4,321,000**, as shown in the following breakdown:
+There will be a number of costs associated with the creation of a student engagement system that will serve about 40,000 users, including hardware, software, personnel, testing, contingency, and others. This project is expected to cost **RM 176,000**, as shown in the following breakdown:
 </p>
 
-#### Hardware: RM 1,200,000
+#### Hardware: RM 80,000
 - The cost of obtaining and maintaining the hardware infrastructure required to operate the student engagement system, including servers, storage devices, network devices, and other essential hardware components, is included in the hardware budget.
 - The hardware should be able to support a large number of users, with high-speed internet connectivity and large enough storage capacity.
 - In order to meet any potential future increases in the number of users, the hardware should also be expandable.
 
-#### Software: RM 350,000
+#### Software: RM 10,000
 - The cost of purchasing and licencing software platforms and tools required for the creation of the student engagement system such as collaboration and communication tools, is included in the software budget.
 - The software licenses should be carefully selected to ensure compatibility, functionality, and security.
 - To ensure engagement and adoption by the users of the student engagement system, the software should be user-friendly and easily navigatable.
 
-#### Personnel: RM 1,800,000
+#### Personnel: RM 10,000
 - The development team's salary and benefits, including those for the project manager, system analyst, programmers, and testers, are covered by the personnel budget.
 - The development team should have experience and skill in developing student engagement systems, with a focus on creating user-friendly and captivating systems that promote collaboration and communication among students, and other features of the student engagement system.
 - To make sure that the system can track and analyse student engagement metrics efficiently, the development team should also have experience with data analysis and visualisation.
 
-#### Testing: RM 150,000
+#### Testing: RM 8,000
 - The cost of performing functional, performance, and security testing of the student engagement system is covered by the testing budget.
 - The testing should include user acceptance testing to verify that the system meets the needs and expectations of users.
 - Stress testing should be done as part of the testing to make sure the system can manage a large number of users without experiencing performance problems.
 
-#### Contingency: RM 150,000
+#### Contingency: RM 8,000
 - A small amount of money is set aside in the contingency budget to pay for any unforeseen costs that might occur throughout the development process. 
 - These expenses could include unforeseen hardware or software failures, scope changes, or development timeline delays.
 - The project's contingency fund is included to ensure that it can proceed even in the event of unforeseen difficulties or setbacks that can have an impact on student engagement.
 
-#### Others: RM 671,000
+#### Others: RM 50,000
 
-In conclusion, it is anticipated that RM 4,321,000 will be needed to develop the student engagement system. Costs associated with staff, testing, hardware, software, and contingency will all be covered by the budget. Stakeholders and project sponsors will be informed of any budget changes.
+In conclusion, it is anticipated that RM 176,000 will be needed to develop the student engagement system. Costs associated with staff, testing, hardware, software, and contingency will all be covered by the budget. Stakeholders and project sponsors will be informed of any budget changes.
+
 
 
 ### 7. System Architecture
@@ -213,9 +214,9 @@ In conclusion, it is anticipated that RM 4,321,000 will be needed to develop the
 
 The student engagement system for university users will be made up of a client-server architecture with a web-based front-end and a back-end server that manages data storage, retrieval, and processing. The architecture will include the following layers:
 
-- Presentation layer: The user interface of the website will be created using HTML, CSS, and JavaScript in this layer. The user interface of the website will be built using the front-end framework ReactJS.
+- Presentation layer: The user interface of the website will be created and built using HTML, CSS, and JavaScript in this layer.  
 
-- The application layer will handle user requests, conduct data processing, and return responses. The server-side technologies for processing user requests and data management will be Node.js and Express.js.
+- The application layer will handle user requests, conduct data processing, and return responses. The server-side technologies for processing user requests and data management will be PHP and Apache.  
 
 - Data layer: This layer will manage and store the system's data. The relational database management system (RDBMS) that will be utilised to store user information, posts, comments, and other important data is MySQL.
 
@@ -227,17 +228,7 @@ The following hardware and software are needed for managing and storing data:
 
 - Hardware: A server or hosting service with enough processing power and storage space to meet the website's data management and storage requirements.
 
-- Software: Express.js and Node.js for server-side processing, with MySQL serving as the RDBMS.
-
-#### Data Analysis and Visualization
-
-Various tools and frameworks can be used to analyse and visualise the data produced by the student engagement website. The following are some of the tools and frameworks that can be used for data analysis and visualisation:
-
-- Business intelligence (BI) tools: Based on the data produced by the website, visualisations, reports, and dashboards may be made using programmes like Tableau, Power BI, and QlikView.
-
-- Data visualisation libraries: Interactive and aesthetically pleasing charts and graphs based on the data can be produced using libraries like D3.js, Highcharts, and Chart.js.
-
-- Data analysis tools: Advanced data analysis tasks like sentiment analysis, trend analysis, and predictive modelling can be carried out using tools like Python, R, and Excel.
+- Software: Express.js and Node.js for server-side processing, with MySQL serving as the RDBMS.  
 
 #### Flowchart and Block Diagram:
 
@@ -265,55 +256,54 @@ Block Diagram:
 
 
   1. Staff:
-      + 1 Project Manager: RM 540,000/year
-      + 1 Quality assurance specialist & Web Developer: RM 324,000/year
-      + 1 Business Analyst & User Interface Designer: RM 324,000/year
-      + 1 Support Engineer & Data Analyst: RM 324,000/year
-      + 1 Technical Writer & User Experience Designer: RM 288,000/year
-      <br>*Total Cost: RM 1,800,000*
+      + 1 Project Manager: RM 2,000/year
+      + 1 Quality assurance specialist & Web Developer: RM 2,000/year
+      + 1 Business Analyst & User Interface Designer: RM 2,000/year
+      + 1 Support Engineer & Data Analyst: RM 2,000/year
+      + 1 Technical Writer & User Experience Designer: RM 2,000/year
+      <br>*Total Cost: RM 10,000*
   2. Hardware
-      + Server Hardware: RM 400,000
-      + Network Hardware: RM 200,000
-      + Storage Hardware: RM 200,000
-      + Cloud computing providers: RM 200,000
-      + Scalability: RM 200,000
-      <br>*Total Cost: RM 1,200,000*
+      + Server Hardware: RM 40,000
+      + Network Hardware: RM 10,000
+      + Storage Hardware: RM 10,000
+      + Cloud computing providers: RM 10,000
+      + Scalability: RM 10,000
+      <br>*Total Cost: RM 80,000*
       
   3. Equipment:
-      + Computers and laptops for the project team: RM 150,000
-      + Servers and hosting services for the website: RM 50,000
+      + Computers and laptops for the project team: RM 10,000
+      + Servers and hosting services for the website: RM 10,000
       + Internet connectivity: RM 20,000
-      <br>*Total Cost: RM 220,000*
+      <br>*Total Cost: RM 40,000*
       
   4. Software:
-      + User interface: HTML, CSS, JavaScript, and ReactJS: RM 150,000
-      + Server-side technology: Node.js and Express.js: RM 100,000
-      + Database: MySQL RDBMS: RM 100,000
-      <br>*Total Cost: RM 350,000*
+      + User interface: HTML, CSS, JavaScript: RM 5,000
+      + Server-side technology: PHP and Apache: RM 2,000
+      + Database: MySQL RDBMS: RM 3,000
+      <br>*Total Cost: RM 10,000*
       
   5. Other Expenses:
-      + Testing fees: RM 150,000
-      + Contingency fees: RM 150,000
-      + Web hosting fees: RM 100,000
-      + Domain registration fees: RM 1,000
-      + Marketing and advertising expenses: RM 50,000
-      + Training and support expenses: RM 300,000
-      <br>*Total Cost: RM 751,000*
+      + Testing fees: RM 8,000
+      + Contingency fees: RM 8,000
+      + Web hosting fees: RM 2,000
+      + Domain registration fees: RM 2,000
+      + Marketing and advertising expenses: RM 3,000
+      + Training and support expenses: RM 3,000
+      <br>*Total Cost: RM 26,000*
       
-  <br><br><b>Grand Total: RM 4,321,000</b>
+  <br><br><b>Grand Total: RM 176,000</b>
 
 
 ### 10. Technical Specifications
 |           |           |
 |-----------------------|-------------------------------------------------------------------------|
-| Data Sources | <ul><li>Student datas from myUTM</li><li>Club and faculties events data</li><li>Road condition data</li></ul>|
+| Data Sources | <ul><li>Student datas from myUTM</li><li>Club and faculties events data</li></ul>|
 | Data Schema | The data schema will have tables that store of students information, clubs details, data from different faculties and departments in UTM.|
 | Data Transformation | The data will be transformed into insights to understand students likings and interest.|
-| Programming Languages | JavaScript，HTML，CSS，MySQL|
-| Frameworks | ReactJS |
+| Programming Languages | HTML，CSS，JavaScript, PHP, MySQL|
 | Libraries | Bootstrap, jQuery |
-| Hardware Requirements | <ul><li>Processor: A multi-core processor</li><li>RAM: 4GB or higehr</li><li>Storage: 50GB or higher</li><li>Display: Resolution of 1920x1080 or higher</li></ul> |
-| Software Requirements | <ul><li>Operating system: Windows 7 or higher</li><li>IDE: Visual Studio Code, Bootstrap Studio</li><li>Web server: Node.js and Express.js</li><li>Database: MySQL</li><li> Version control: Git</li></ul> |
+| Hardware Requirements | <ul><li>Processor: A multi-core processor</li><li>RAM: 8GB or higehr</li><li>Storage: 50GB or higher</li><li>Display: Resolution of 1920x1080 or higher</li></ul> |
+| Software Requirements | <ul><li>Operating system: Windows 10 or higher</li><li>IDE: Visual Studio Code, Bootstrap Studio</li><li>Web server: Apache</li><li>Database: MySQL</li><li> Version control: Git</li></ul> |  
 
 
 ### 11. Timeline and Deliverables
