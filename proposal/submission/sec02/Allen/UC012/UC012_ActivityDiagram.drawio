@@ -34,7 +34,7 @@
                 <mxCell id="4" value="Administrator" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
                     <mxGeometry x="660" y="128" width="344.5" height="642" as="geometry"/>
                 </mxCell>
-                <mxCell id="qjr2F4XpUvaXnPlqDPw9-41" value="&lt;font color=&quot;#000000&quot;&gt;ActivityDiagram_UC012&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=170;height=30;fillColor=#FFFFFF;" parent="1" vertex="1">
+                <mxCell id="qjr2F4XpUvaXnPlqDPw9-41" value="&lt;font color=&quot;#ffffff&quot; style=&quot;background-color: rgb(24, 20, 29);&quot;&gt;ActivityDiagram_UC012&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=170;height=30;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="120" y="80" width="920" height="730" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" value="Make the decision&#10; to allow product&#10; to be refundable&#10; or vice versa" style="" parent="1" vertex="1">
@@ -72,7 +72,7 @@
                 <mxCell id="qjr2F4XpUvaXnPlqDPw9-58" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="740" y="520" width="40" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="qjr2F4XpUvaXnPlqDPw9-60" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#F0F0F0;fillColor=#FFFFFF;direction=south;" parent="1" vertex="1">
+                <mxCell id="qjr2F4XpUvaXnPlqDPw9-60" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=#000000;fillColor=#FFFFFF;direction=south;" parent="1" vertex="1">
                     <mxGeometry x="875" y="630" width="85" height="10" as="geometry"/>
                 </mxCell>
                 <mxCell id="qjr2F4XpUvaXnPlqDPw9-64" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="qjr2F4XpUvaXnPlqDPw9-50" target="qjr2F4XpUvaXnPlqDPw9-72" edge="1">
