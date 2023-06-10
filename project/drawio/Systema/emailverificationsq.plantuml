@@ -1,0 +1,45 @@
+@startuml
+title Email Verification - Sequence Diagram
+
+actor "Faculty of Computing’s Students" as Student
+actor "Faculty of Computing’s Lecturers" as Lecturer
+actor "Faculty of Computing’s Student Representative Council Members" as SRCMember
+actor Administrators as Admin
+
+boundary "Registration Form" as RegistrationForm
+control System as System
+boundary "User's Email" as UserEmail
+boundary "Confirmation Page" as ConfirmationPage
+control Support as Support
+entity "User Account" as UserAccount
+
+== Main Flow ==
+
+Student -> RegistrationForm: Complete registration form
+RegistrationForm -> System: Generate verification link
+System -> UserEmail: Send verification email
+UserEmail -> Student: Receive verification email
+Student -> UserEmail: Clicks verification link
+UserEmail -> System: Verification request
+activate System
+System -> System: Verify link authenticity
+alt Verification link valid and not expired
+    System -> UserAccount: Mark account as verified
+    UserAccount --> System: Account marked as verified
+    System -> ConfirmationPage: Redirect to confirmation page
+else Verification link expired
+    UserEmail -> Student: Display expired link error message
+    Student -> RegistrationForm: Request new verification email
+    RegistrationForm -> System: Generate verification link (new)
+    System -> UserEmail: Send verification email (new)
+    UserEmail -> Student: Receive verification email (new)
+    Student -> UserEmail: Clicks verification link (new)
+    UserEmail -> System: Verification request (new)
+    activate System
+    System -> System: Verify link authenticity (new)
+else Verification link invalid
+    UserEmail -> Student: Display invalid link error message (new)
+    Student -> Support: Contact support for assistance 
+end
+deactivate System
+@enduml

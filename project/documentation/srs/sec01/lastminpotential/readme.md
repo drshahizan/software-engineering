@@ -38,7 +38,7 @@ Don't forget to hit the :star: if you like this repo.
 | No | Name |File | 
 | -----:| ----- | :------: | 
 |1| Document SRS| <a href="https://docs.google.com/document/d/1jfBbDYkAjSAF77_U29OZU7EHhaHH_0LA/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/drawio/lastminpotential/UML.drawio" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
 |3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 <img src="interviewWithDean.jpg" alt="Meeting with Dean of Faculty of Computing">
@@ -65,11 +65,18 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provide expectation of the system, and problem faced by public currently</td>
   </tr>
     <tr>
+    <td>Assoc. Prof. Dr. Mohd Shahizan bin Othman</td>
+    <td>Faculty staff</td>
+    <td>Lecturer</td>
+    <td>Provide expectation of the system, and problem faced by public currently</td>
+  </tr>
+   <tr>
     <td></td>
     <td>Faculty staff</td>
-    <td></td>
-    <td></td>
+    <td>IT Supporting Staff</td>
+    <td>Provide expectation of the system, and problem faced by public currently</td>
   </tr>
+  
 </table>
 
 ## Tasks involved in developing SRC documentation:
@@ -83,11 +90,14 @@ Don't forget to hit the :star: if you like this repo.
 | 5 | 11/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Meeting with stakeholder 2, Ooi Wei Sian | Completed |
 | 6 | 12/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | SRS Documentation draf | Complete |
 | 7 | 14/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | UML diagram (actor, use case, sequence, activity diagram | Complete |
-| 8 | 19/05/2023 | Chen Pyng Haw | Documentation Specialist | Create system documentation | Incomplete |
+| 8 | 19/05/2023 | Chen Pyng Haw | Documentation Specialist | Create system documentation | Complete |
 | 9 | 21/05/2023 | Goh Jing Yang | UI/UX Designer | Low Fedility Wire frames | Complete | 
 | 10 | 23/05/2023 | Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Discussion and assign task for system features part based on user case design | Incomplete |
-| 11 | 1/06/2023 | Goh Jing Yang | UI/UX Designer | HIgh Fedility UI Design | Complete | 
-| 12 | 22/06/2023 | Loo Jia Chang | Main Developer | Create Software Maintanence Document | Incomplete | 
+| 11 | 25/05/2023| Tan Jun Yuan, Chen Pyng Haw | Project Manager, Documentation Specialist | Meeting with stakeholder 3, Assoc. Prof. Dr. Mohd Shahizan bin Othman | Completed |
+| 12 | 1/06/2023 | Goh Jing Yang | UI/UX Designer | HIgh Fedility UI Design | Complete | 
+| 13 | 2/06/2023| Tan Jun Yuan, Chen Pyng Haw | Project Manager, Documentation Specialist | Meeting with stakeholder 4,  | Completed |
+| 14 | 5/06/2023 | Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Finalise system documentation | Complete | 
+| 15 | 22/06/2023 | Loo Jia Chang | Main Developer | Create Software Maintanence Document | Incomplete | 
 
 
 

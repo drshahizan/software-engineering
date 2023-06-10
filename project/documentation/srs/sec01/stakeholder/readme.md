@@ -96,7 +96,7 @@ Don't forget to hit the :star: if you like this repo.
 | 4 | 21/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas, Muhammad Danial, Joseph Lau Yeo Kai, Low Jie Sheng | Group members | Prepare proposal | Complete |
 | 5 | 24/04/2023 | Neo Zheng Weng | Designer | Design the system architecture | Complete |
 | 6 | 3/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | 2nd meeting with KTDI assistant administrative officer | Complete |
-| 7 | 5/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | SRS documentation | Partially Complete |
+| 7 | 5/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | SRS documentation | Complete |
 | 8 | 9/05/2023 | Neo Zheng Weng | Designer | Design the use case diagram | Complete | 
 | 9 | 11/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | Meeting with KTDI fellow | Complete |
 | 10 | 14/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | 3rd meeting with KTDI senior assistant | Complete |

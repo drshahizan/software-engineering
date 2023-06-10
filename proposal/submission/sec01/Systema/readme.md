@@ -230,16 +230,6 @@ The following hardware and software are needed for managing and storing data:
 
 - Software: Express.js and Node.js for server-side processing, with MySQL serving as the RDBMS.  
 
-#### Data Analysis and Visualization
-
-Various tools and frameworks can be used to analyse and visualise the data produced by the student engagement website. The following are some of the tools and frameworks that can be used for data analysis and visualisation:
-
-- Business intelligence (BI) tools: Based on the data produced by the website, visualisations, reports, and dashboards may be made using programmes like Tableau, Power BI, and QlikView.
-
-- Data visualisation libraries: Interactive and aesthetically pleasing charts and graphs based on the data can be produced using libraries like D3.js, Highcharts, and Chart.js.
-
-- Data analysis tools: Advanced data analysis tasks like sentiment analysis, trend analysis, and predictive modelling can be carried out using tools like Python, R, and Excel.
-
 #### Flowchart and Block Diagram:
 
 The following is a flowchart and block diagram of the system architecture for the social media website for university students:
@@ -250,7 +240,7 @@ Flowchart:
 Block Diagram:  
 <p align="center"><img src="blockdiagram.svg"></p>
 
-<img src="uml.svg" style="background-color:white;">
+<img src="uml.png">
 
 ### 8. Risks Assessment
 | Potential Risks | Plan / Strategies |
