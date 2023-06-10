@@ -18,7 +18,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   <tr>
     <td>1. Danial Harriz bin Mohd Asineh @ Mohd Asneh</td>
-    <td>Assisntant Developer</td>
+    <td>Assistant Developer</td>
   </tr>
   <tr>
     <td>2. Muhammad Anas bin Mohd Pikri</td>
@@ -54,19 +54,22 @@ Don't forget to hit the :star: if you like this repo.
     <td>Staff</td>
     <td>Describe the flow of work and the problems that the staff has during the registration</td>
   </tr>
-  <tr>
-    <td>Puan Sari Ariza binti Sukiman</td>
-    <td>Middle Management Cahaya Ad Din</td>
-    <td>Accountant</td>
-    <td>Describe the flow of payment during registration and the problem behind it</td>
-  </tr>
     <tr>
-    <td>En Muhammad Iman Firdaus Bin Baharuddin</td>
+    <td>En Mohd Aiman bin Misah</td>
     <td>End User</td>
     <td>Client</td>
     <td>Tells more about the problem they have during the registration</td>
   </tr>
 </table>
+
+## Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Document SDD| <a href="" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Figma| <a href="https://www.figma.com/files/project/93492418/Badal-Hajj-and-Umrah-Management-System?fuid=1235142099190224213" ><img src="../../../../../images/figma.svg" width="24px" height="24px" ></a>|
+|3| Borang Badal Haji| <a href="https://drive.google.com/drive/folders/1xm0X4yxzjBrGPt_EeF4PT4udWYxdx8PS?usp=share_link" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+|4| Borang Umrah| <a href="https://drive.google.com/drive/folders/1cNg7cQG-RONHfL7_yHy9h5DZDWGfi-1k?usp=share_link" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+
 
 ## Tasks involved in developing SRC documentation:
 
@@ -77,18 +80,16 @@ Don't forget to hit the :star: if you like this repo.
 | 3| 02/05/2023|Danial | Assistant Developer|Preparation of interview questions | Complete|
 | 4|03/05/2023 |Luqman, Danial, Anas, Kugen |Main Developer, Assistant Developer, UI/UX Designer, Scrum Master | Interview with stakeholder|Complete |
 | 5| 04/05/2023|Luqman, Anas, Danial, Kugen |Main Developer,Assistant Developer, UI/UX Designer, Scrum Master |Project Discussion| Complete |
-| 6|07/05/2023 |Luqman, Danial, Anas, Kugen |Main Developer, Assistant Developer, UI/UX Designer, Scrum Master | Create Proposal |Complete |
-|7| 12/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| SRS Documentation Planning | Incomplete |
-|8| 12/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Create SRS documentation System | Incomplete |
-|9| 13/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Creates UML Diagram,User Diagram,User Journey Maps Diagram,User Stories and Prototype| Incomplete |
-|10| 15/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Gather Required Diagrams | Incomplete |
-|11|20/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Update Documentation | Incomplete |
-|12|22/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| SDD Documentation Planning | Complete |
-|13|22/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Distribution task : Information Architecture, User Flow, Low Fidelity, High Fidelity, Typography and Design| Complete |
-|14|23/05/2023|Luqman| Main Developer | Low Fidelity | Complete |
-|15|25/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Stand-Up Meeting : Discussion about additional features | Complete |
-|16|25/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Sketching the rough idea of the additional features | Complete |
-|17|27/05/2023| Anas |Scrum Master| High Fidelity | Complete |
+|6|22/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| SDD Documentation Planning | Complete |
+|7|22/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Distribution task : Information Architecture, User Flow, Low Fidelity, High Fidelity, Typography and Design| Complete |
+|8|23/05/2023|Luqman| Main Developer | Low Fidelity | Complete |
+|9|25/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Stand-Up Meeting : Discussion about additional features | Complete |
+|10|25/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Sketching the rough idea of the additional features | Complete |
+|11|27/05/2023| Anas |Scrum Master| High Fidelity | Complete |
+|12|27/05/2023| Danial |Assistant Developer| Information Architecture and User Flow | Complete |
+|13|27/05/2023| Kugen |UI/UX Designer| Typography and Design | Incomplete |
+|14|08/06/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Scrum meeting : Discussion about  prototype design | Complete |
+|15|08/06/2023|Luqman| Main Developer | Prototype Design | Complete |
 |-|-|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Follow up with stakeholder | Incomplete |
 
 
@@ -98,5 +99,7 @@ Please create an [Issue](https://github.com/drshahizan/software-engineering/issu
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
+![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+
 

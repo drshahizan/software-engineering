@@ -45,14 +45,13 @@ This course is designed to give students an introduction to an engineering appro
 | 6 | [UML and tools](/materials/uml) | A UML (Unified Modeling Language) diagram is a visual representation of a system or process that uses standardized symbols and notations to depict the structure, behavior, and relationships between different components of the system. It provides a clear and concise way to communicate and document the design and architecture of a software system, enabling stakeholders to understand and analyze the system's various aspects.  | | |
 | 7 | [5 : Requirements Analysis and modelling ME](/materials/module5/) | Use case modelling and specification, domain modelling, activity diagram, sequence diagram, state chart/state machine diagram |<a href="https://github.com/drshahizan/software-engineering/blob/main/materials/sec01/mod5.md" ><img src="./images/markdownp.png" width="24px" height="24px" ></a>| <a href="https://github.com/drshahizan/software-engineering/blob/main/materials/sec02/mod5.md" ><img src="./images/markdownh.png" width="24px" height="24px" ></a> |
 | 8 | [Figma](./materials/figma.md) | Learn Figma |
-| 9 | [KRISA](https://sqa.mampu.gov.my/index.php/ms/garis-panduan/garis-panduan-pembangunan-aplikasi-krisa) | Metodologi KRISA meliputi 6 fasa utama yang perlu difahami, diguna pakai dan dilaksanakan oleh agensi. Setiap fasa menerangkan aktiviti, teknik dan pendekatan, serta dokumentasi serahan. |
+| 9 | [KRISA](./materials/krisa.md) | Metodologi KRISA meliputi 6 fasa utama yang perlu difahami, diguna pakai dan dilaksanakan oleh agensi. Setiap fasa menerangkan aktiviti, teknik dan pendekatan, serta dokumentasi serahan. |
 | 9 | [6: Architectural Design](/materials/module6/) | Architectural design and detailed design, Architectural design decision, architectural view, component diagram in relation to architectural view, architectural pattern: Model-View-Controller (MVC), layered, repository, client server and pipe filter |<a href="https://github.com/drshahizan/software-engineering/blob/main/materials/sec01/mod6.md" ><img src="./images/markdownp.png" width="24px" height="24px" ></a>| <a href="https://github.com/drshahizan/software-engineering/blob/main/materials/sec02/mod6.md" ><img src="./images/markdownh.png" width="24px" height="24px" ></a> |
 | 10 | 7: Object-Oriented Detailed Design | Relationships among analysis, design and implementation, object-oriented design using UML, object-oriented design principles, elaborating UML diagrams from analysis.|<a href="https://github.com/drshahizan/software-engineering/blob/main/materials/sec01/mod7.md" ><img src="./images/markdownp.png" width="24px" height="24px" ></a>| <a href="https://github.com/drshahizan/software-engineering/blob/main/materials/sec02/mod7.md" ><img src="./images/markdownh.png" width="24px" height="24px" ></a> |
 | 11 | | Software Engineering project – Design model. Produce design document* that includes all the required design models |
 | 12 | 8: Software verification, validation and testing | Introduction to verification and validation, verification and validation planning, software inspections. System testing, Component testing, Test case design, Test Case Design using Black-box and white box |<a href="https://github.com/drshahizan/software-engineering/blob/main/materials/sec01/mod8.md" ><img src="./images/markdownp.png" width="24px" height="24px" ></a>| <a href="https://github.com/drshahizan/software-engineering/blob/main/materials/sec02/mod8.md" ><img src="./images/markdownh.png" width="24px" height="24px" ></a> |
-| 13 | | Software Engineering project – Test case design. Produce testing document* that includes all the required test cases |
-| 14 | | **TENTATIVE - ALTERNATIVE ASSESSMENT (TBC)**|
-| 15 | | Project demonstration and hand over. |
+| 13 | | Software Engineering project – Test case design. Produce testing document that includes all the required test cases |
+| 14 | | Project demonstration and hand over. |
 
 
 ## Project
@@ -84,10 +83,14 @@ Diagrams are visual representations of information or data that help convey comp
 | 4 | Behance| <a href="./materials/behance.md" ><img src="./images/behance.svg" width="24px" height="24px" ></a> | 
 | 5 | Visual Studio Code| <a href="https://code.visualstudio.com/" ><img src="./images/vsc.svg" width="24px" height="24px" ></a> | 
 | 6 | Bootstrap Studio| <a href="https://bootstrapstudio.io/" ><img src="./images/bootstrap-studio.png" width="24px" height="24px" ></a> | 
+| 7 | Carbon| <a href="https://carbon.now.sh/" ><img src="./images/carbon.svg" width="24px" height="24px" ></a> | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
+![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+
+

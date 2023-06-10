@@ -37,7 +37,7 @@ The following information pertains to the group responsible for implementing the
 | 2 | Alpha | College Room Rental System |<a href="https://github.com/users/drshahizan/projects/18" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="sec02/alpha" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
 | 3 | Beta | Food Ordering System at Arked Angkasa, UTM |<a href="https://github.com/users/drshahizan/projects/19" ><img src="../../../images/task.png" width="24px" height="24px" ></a> |<a href="hsec02/beta" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
 | 4 | Engineering | Parcel Delivery Service |<a href="https://github.com/users/drshahizan/projects/20" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="sec02/engineering" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
-| 5 | Program | Academic Consultation System|<a href="https://github.com/users/drshahizan/projects/21" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="hsec02/program" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
+| 5 | Program | Academic Consultation System|<a href="https://github.com/users/drshahizan/projects/21" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="sec02/program" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
 | 6 | Software| Student Health and Wellness Management System |<a href="https://github.com/users/drshahizan/projects/22" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="sec02/software" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
 | 7 | Tempest | Badal Hajj and Umrah Management System|<a href="https://github.com/users/drshahizan/projects/23" ><img src="../../../images/task.png" width="24px" height="24px" ></a> | <a href="sec02/tempest" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
 
@@ -47,5 +47,7 @@ Please create an [Issue](https://github.com/drshahizan/software-engineering/issu
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
+![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+
 

@@ -1,5 +1,5 @@
 
-#  Proposal: College Room Rental System
+#  Proposal: KTDI College Room Rental System
 
 ## College Room Rental System
 
@@ -106,7 +106,7 @@ Room booking: Room booking features allows students to book rooms based on avail
 
 ### 5. Software Process Model:
 
-<img src=https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/agile%20method.png></img>
+<img src=https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Alpha/agile.drawio.png width=350px, height=350px></img>
 
 
 Agile methodology is a software development process model that emphasises the importance of collaboration, flexibility, and iterative development. In the context of creating a college room rental system, an Agile approach can be used to develop the system in a way that meets the changing needs and requirements of the stakeholders.
@@ -167,11 +167,11 @@ Overall, the estimated budget for the development of the college room rental sys
 The proposed system architecture for this college room rental services is
 a three tier architecture which organises applications into three logical and physical computing tiers that is:
  - **presentation tier** or user interface that will present information and handle user interface for users.In this tier,  HTML, CSS, and JavaScript, along with a framework like React or Angular can be used  for building the user interface.
-- **application tier** that processes user requests and updates the price and number of days to be processed. By using a framework like Flask or Express.js for building RESTful APIs with a server-side language such as Node.js or Python.
-- **data tier** that will store and manage all the rental data. Depending on the requirements of the system, relational database management system (RDBMS) like MySQL or PostgreSQL, or MongoDB(a NoSQL database) 
+- **application tier** that processes user requests and updates the price and number of days to be processed. By using a framework for building RESTful APIs with a server-side language such as .
+- **data tier** that will store and manage all the rental data. Depending on the requirements of the system, relational database management system (RDBMS) like MySQL 
 
 #### Data Storage, Management and Analysis
-For this system, the data tier will be responsible to store and manage the database management system of the rental data . As data integrity, security, and scalability is extremely important, the database will be designed. Tools and frameworks like Python's pandas library or R programming language that is capable of analysing and visualising data will be used to implement data analysis.
+For this system, the data tier will be responsible to store and manage the database management system of the rental data . As data integrity, security, and scalability is extremely important, the database will be designed. Tools and frameworks that is capable of analysing and visualising data will be used to implement data analysis.
 
 As for the software and hardware requirements that are needed to support this system, a server or cloud based infrastructure that can handle the expected workload traffic with sufficient resources will be required.
 
@@ -182,16 +182,15 @@ This college rental system will use various tools and frameworks such as:
 - HTML: tocreate structure of web page
 - CSS: to control presentation and visual styling 
 - Bootstrap: front-end development framework
-- MangoDB: To store data(ability to handle large volumes of unstructured data)
-- Node.js: to handle incoming HTTP requests, process data, and respond with dynamic HTML content
-- Microsoft Azure: Cloud Hosting and Deployment
+- Figma : Creating prototype 
+- Xampp : Implementing PHP
 
 #### Flowchart and Block Diagram
 
 ##### Flowchart
 ![FlowchartSystemArchitecture](FlowchartSystemArchitecture.drawio.png)
 1. Client: The client tier is the user interface where users interact with the system. In this case, the client tier consists of a web browser that sends requests to the web server.
-2. Web Server: The web server tier receives HTTP requests from the client tier and responds with HTML content that is rendered by the browser. The web server also handles static files, such as CSS and JavaScript. 
+2. Web Server: The web server tier receives HTTP requests from the client tier and responds with HTML content that is rendered by the browser. The web server also handles static files, such as CSS. 
 3. Application Server: The application server tier is responsible for handling the business logic of the system. It receives requests from the web server and processes them by retrieving data from the database server and returning dynamic HTML content to the web server.
 4. Database Server: The database server tier stores and manages the system's data. It receives requests from the application server and returns data to the application server for processing.
 
@@ -221,10 +220,7 @@ The resources required for the proposed college room rental system project can b
 - Main Developer: Responsible for overall project management, system architecture design, and leading the development team.
 - Assistant Developer: will be responsible for supporting the main developer in the development of the college room rental system .
 - Business Analyst: Gather and analyse user requirements, and translating them into technical requirements.
-- Quality Assurance Engineer: Ensure the quality and functionality of the system, including testing, bug reporting, and documentation.
 - UI/UX Designer: Design and Implement the user interface of the system, including user experience design, usability testing, and graphical design.
-- Database Administrator: maintain and manage the database management system to ensure data scalability, integrity and security.
-
 
 #### Equipment:
 - Server or Cloud-based Infrastructure: To handle the expected workload and traffic, the system will need a server or cloud-based infrastructure with sufficient resources . The specific hardware requirements will depend on the expected workload and traffic which may include servers, storage, networking equipment as well as other hardware components.
@@ -233,8 +229,6 @@ The resources required for the proposed college room rental system project can b
 - Development Tools: The development team will require a suite of software tools to design, develop, and test the system which may include project management software, code editors, version control systems, and integrated development environments (IDEs).
 - Web Frameworks: The development team will require web frameworks to build the application tier of the system. This may include Flask or Express.js for building RESTful APIs.
 - Front-End Frameworks: The development team will require front-end frameworks like React or Angular for building the user interface of the system.
-- Quality Assurance Tools: Tools for testing and quality assurance, including bug reporting software, automated testing frameworks, and documentation tools will be required to use.
-- Database Management System: As the system will require a database management system to store and manage rental data, a relational database management system (RDBMS) such as PostgreSQL or MySQL, or a NoSQL database like MongoDB may be included.
 
 
 #### Other Expenses:
@@ -323,7 +317,9 @@ Please create an [Issue](https://github.com/drshahizan/software-engineering/issu
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
+![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+
 
   
  

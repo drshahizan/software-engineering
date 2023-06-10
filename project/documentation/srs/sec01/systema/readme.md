@@ -41,8 +41,8 @@ Don't forget to hit the :star: if you like this repo.
 | No | Name |File | 
 | -----:| ----- | :------: | 
 |1| Document SRS| <a href="https://docs.google.com/document/d/1UxmRYZFCNrQxG7QrHjzH8VrpwF1Cs9DjMGbELYGB2vU/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
-|3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/tree/main/project/drawio/Systema" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|3| Others| <a href="https://drive.google.com/drive/folders/1tFg97thwtAA7GkEP6Mo2TRNNIZ8P3YSi" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 <table>
@@ -84,15 +84,23 @@ Don't forget to hit the :star: if you like this repo.
 | 7 | 07/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 2 | Complete |
 | 8 | 11/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 3 | Complete |
 | 9 | 12/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Analysis Requirements | ToDo |
-| 10 | 15/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer |  SRS Planning | In Progress |
+| 10 | 15/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer |  SRS Planning | Complete |
 | 11 | 15/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Creare UML Class Diagram | Complete |
-| 12 | 20/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | SRS Documentation Use Case Diagram Description | In Progress |
-| 13 | 29/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Plan Low Fidelity Wireframe | In Progress |
+| 12 | 20/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | SRS Documentation Use Case Diagram Description | Complete |
+| 13 | 29/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Plan Low Fidelity Wireframe | Complete |
+| 14 | 31/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Do Low Fidelity Wireframe | Complete |
+| 15 | 31/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Do High Fidelity Wireframe | Complete |
+| 16 | 01/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Create design of the system | Complete |
+| 17 | 08/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Scrum Meeting 1 | Complete |
+| 18 | 09/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Create user flow of the system | ToDo |
+| 19 | 09/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Create information architecture of the system | ToDo |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
+![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+
 

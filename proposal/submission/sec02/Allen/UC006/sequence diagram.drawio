@@ -1,0 +1,85 @@
+<mxfile host="65bd71144e">
+    <diagram id="svSEaXq6_SZsIZfI6RL0" name="Page-1">
+        <mxGraphModel dx="878" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="45" value="User" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="120" width="20" height="900" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="45" vertex="1">
+                    <mxGeometry x="5" y="70" width="10" height="540" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="In cart" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="450" y="120" width="100" height="900" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="48" vertex="1">
+                    <mxGeometry x="45" y="70" width="10" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="102" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="48" vertex="1">
+                    <mxGeometry x="45" y="390" width="10" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="KTDI Minimart Online System" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="620" y="120" width="100" height="910" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="49" vertex="1">
+                    <mxGeometry x="45" y="270" width="10" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="Click &quot;View Cart&quot;" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
+                    <mxGeometry x="-0.0001" width="80" relative="1" as="geometry">
+                        <mxPoint x="130" y="220" as="sourcePoint"/>
+                        <mxPoint x="500" y="220" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="55" value="Review Cart Contents" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" source="45" target="48" edge="1">
+                    <mxGeometry width="80" relative="1" as="geometry">
+                        <mxPoint x="130" y="407" as="sourcePoint"/>
+                        <mxPoint x="495" y="375" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="270" y="440"/>
+                            <mxPoint x="410" y="440"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="57" value="" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.524;exitY=0.335;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.029;entryY=0.101;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="48" target="56" edge="1">
+                    <mxGeometry x="0.9385" y="29" width="80" relative="1" as="geometry">
+                        <mxPoint x="510" y="419" as="sourcePoint"/>
+                        <mxPoint x="660" y="422" as="targetPoint"/>
+                        <mxPoint x="1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="77" value="Display Available Options" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.009;exitY=0.898;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="56" edge="1">
+                    <mxGeometry x="-0.0006" relative="1" as="geometry">
+                        <mxPoint x="660" y="660" as="sourcePoint"/>
+                        <mxPoint x="120" y="659" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="99" value="Display Cart Contents" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" target="45" edge="1">
+                    <mxGeometry x="-0.0039" relative="1" as="geometry">
+                        <mxPoint x="500" y="262" as="sourcePoint"/>
+                        <mxPoint x="130" y="260" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="101" value="Proceed Checkout&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="400" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="103" value="Empty Items display messages" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.009;exitY=0.898;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+                    <mxGeometry x="-0.0006" relative="1" as="geometry">
+                        <mxPoint x="665.0900000000001" y="560.3999999999999" as="sourcePoint"/>
+                        <mxPoint x="500" y="560" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="104" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" parent="1" vertex="1">
+                    <mxGeometry x="370" y="510" width="340" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="105" value="UC006:Sequence Diagram" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="60" width="710" height="980" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

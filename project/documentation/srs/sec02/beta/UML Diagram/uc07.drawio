@@ -1,0 +1,193 @@
+<mxfile host="65bd71144e">
+    <diagram id="XinJews3FzDu8VK1dXPB" name="Page-1">
+        <mxGraphModel dx="729" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="90" width="20" height="690" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="720" y="80" width="55" height="710" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Payment&lt;br&gt;provider" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7" vertex="1">
+                    <mxGeometry x="10" y="60" width="45" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Customer&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="130" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="90" width="60" height="700" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="payment page&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9" vertex="1">
+                    <mxGeometry y="55" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="9" vertex="1">
+                    <mxGeometry x="24.970000000000027" y="150.03" width="10" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Display payment &lt;br&gt;option" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="9" target="22" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="29.970000000000027" y="130.03" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="59.97000000000003" y="130.03"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=8;" parent="9" vertex="1">
+                    <mxGeometry x="24.980000000000018" y="410" width="10" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="Generate QR Code &lt;br&gt;Payment" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=8;" parent="9" target="47" edge="1">
+                    <mxGeometry x="0.0008" relative="1" as="geometry">
+                        <mxPoint x="29.980000000000018" y="390" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="59.98000000000002" y="390"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="90" width="50" height="700" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="payment controller&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="10" vertex="1">
+                    <mxGeometry x="-5" y="55" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;" parent="1" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="200" y="210" as="sourcePoint"/>
+                        <mxPoint x="330" y="210" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;" parent="1" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="200" y="294.7" as="sourcePoint"/>
+                        <mxPoint x="330" y="294.7" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Proceed to payment&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="220" y="190" width="80" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Select Payment Method&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="205" y="270" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;" parent="1" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="200" y="470" as="sourcePoint"/>
+                        <mxPoint x="330" y="470" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="32" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;" parent="1" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="200" y="400" as="sourcePoint"/>
+                        <mxPoint x="330" y="400" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="34" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Enter billing Address&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="195" y="380" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Select QR pay option&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="440" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Enter&amp;nbsp; card detail&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="335" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;" parent="1" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="200" y="540" as="sourcePoint"/>
+                        <mxPoint x="330" y="540" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="44" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;" parent="1" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="200" y="370" as="sourcePoint"/>
+                        <mxPoint x="330" y="370" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="51" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;" parent="1" source="4" target="65" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="280" y="570" as="sourcePoint"/>
+                        <mxPoint x="410" y="570" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="345" y="570"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="52" value="Authorize Payment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="550" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="Scan QR Code using mobile app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="205" y="520" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=8;width=30;height=20;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="320" width="320" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontSize=8;exitX=1.005;exitY=0.38;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.01;entryY=0.376;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="54" target="54" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="320" y="460" as="sourcePoint"/>
+                        <mxPoint x="160" y="440" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="58" value="[mobile payment]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="320" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="[QR Pay]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="420" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;" parent="1" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="200" y="640" as="sourcePoint"/>
+                        <mxPoint x="330" y="640" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="61" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;" parent="1" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="200" y="620" as="sourcePoint"/>
+                        <mxPoint x="330" y="620" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="62" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Review payment detail&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="215" y="600" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="submit payment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="620" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;" parent="1" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="330" y="670" as="sourcePoint"/>
+                        <mxPoint x="590" y="670" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="65" value="" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=7;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="90" width="60" height="690" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Devive&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="65" vertex="1">
+                    <mxGeometry y="55" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;" parent="1" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="590" y="690" as="sourcePoint"/>
+                        <mxPoint x="750" y="690" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="69" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;" parent="1" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="470" y="720" as="sourcePoint"/>
+                        <mxPoint x="585" y="720" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="70" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Request Payment Process&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="660" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Process Payment&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+                    <mxGeometry x="410" y="640" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="Info&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+                    <mxGeometry x="495" y="690" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="sd use case 7" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+                    <mxGeometry x="105" y="55" width="730" height="770" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
