@@ -113,7 +113,7 @@ Don't forget to hit the :star: if you like this repo.
 | 7  | 02/05/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi  |Requirements Analyst, Developer, User Experience Designer, Quality Assurance, Documentation Specialist   |Meeting with stakeholder, Faizun Nai'm (UTM student), Muhammad Harith (UTM student) and Muhammad Wafi Qayyum (UTM student)|Complete|
 | 8  | 03/05/2023 |Daniel, Ariff,Che Marhumi|Requirements Analyst, Developer, Documentation Specialist|Provide proposal document|Complete|
 | 9  | 05/05/2023 |Safwan|Quality Assurance|Checking all menu, quality the food and beverages, methods of payment|Complete|
-| 10  | 10/05/2023 |Daniel, Ariff,Che Marhumi|Requirements Analyst, Developer, Documentation Specialist|Planning SRS|Incomplete|
+| 10  | 10/05/2023 |Daniel, Ariff,Che Marhumi|Requirements Analyst, Developer, Documentation Specialist|Planning SRS|Complete|
 | 11 | 11/05/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst, Developer,User Experience Designer, Quality Assurance, Documentation Specialist |Create UML Diagram|Complete|
 | 12 | 13/05/2023 |Iman, Safwan|User Experience Designer, Quality Assurance|Low Fidelity|Incomplete|
 | 13 | 13/05/2023 |Daniel, Ariff|Requirements Analyst,Developer|High Fidelity|Incomplete|
