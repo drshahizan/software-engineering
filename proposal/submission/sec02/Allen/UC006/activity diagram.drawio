@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="PaMcSHe_9nZht5fnbbpC" name="Page-1">
-        <mxGraphModel dx="1383" dy="1049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="743" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -67,6 +67,9 @@
                 <mxCell id="107" value="Customer want to continue ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="5">
                     <mxGeometry x="90" y="400" width="80" height="80" as="geometry"/>
                 </mxCell>
+                <mxCell id="130" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5" source="109" target="111">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
                 <mxCell id="109" value="Navigates back to product browsing&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5">
                     <mxGeometry x="70" y="520" width="120" height="60" as="geometry"/>
                 </mxCell>
@@ -78,11 +81,17 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="131" value="" style="edgeStyle=none;html=1;" edge="1" parent="5" source="111" target="114">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
                 <mxCell id="111" value="Add items in the cart" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5">
                     <mxGeometry x="70" y="620" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="113" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5">
                     <mxGeometry x="100" y="480" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="132" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5" source="114" target="121">
+                    <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="114" value="Review Cart Content" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5">
                     <mxGeometry x="70" y="720" width="120" height="60" as="geometry"/>
