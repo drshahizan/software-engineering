@@ -4,7 +4,7 @@
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="FMrM_4cMwFXPyNiu1CsQ-1" value="ActivityDiagram_UC014" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=170;height=30;" parent="1" vertex="1">
+                <mxCell id="FMrM_4cMwFXPyNiu1CsQ-1" value="UC014_ActivityDiagram" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=170;height=30;" parent="1" vertex="1">
                     <mxGeometry x="70" y="40" width="680" height="900" as="geometry"/>
                 </mxCell>
                 <mxCell id="FMrM_4cMwFXPyNiu1CsQ-2" value="User" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
@@ -13,14 +13,11 @@
                 <mxCell id="FMrM_4cMwFXPyNiu1CsQ-3" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#FFFFFF;" parent="FMrM_4cMwFXPyNiu1CsQ-2" vertex="1">
                     <mxGeometry x="120" y="42" width="30" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="FMrM_4cMwFXPyNiu1CsQ-4" value="Go to KTDI Minimarket&#10; System Homepage&#10;and click &#10;&quot;Settings&quot;" style="strokeColor=#FFFFFF;" parent="FMrM_4cMwFXPyNiu1CsQ-2" vertex="1">
+                <mxCell id="FMrM_4cMwFXPyNiu1CsQ-4" value="Go to KTDI Minimarket&#10; System Homepage&#10;and click &#10;&quot;Settings&quot;" style="strokeColor=#000000;fillColor=none;" parent="FMrM_4cMwFXPyNiu1CsQ-2" vertex="1">
                     <mxGeometry x="60" y="110" width="150" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="FMrM_4cMwFXPyNiu1CsQ-5" value="Click the&#10;&quot;Manage Notifications&quot;&#10; button" style="" parent="FMrM_4cMwFXPyNiu1CsQ-2" vertex="1">
                     <mxGeometry x="60" y="220" width="150" height="50" as="geometry"/>
-                </mxCell>
-                <mxCell id="FMrM_4cMwFXPyNiu1CsQ-6" value="" style="endArrow=open;strokeColor=#FFFFFF;endFill=1;rounded=0" parent="FMrM_4cMwFXPyNiu1CsQ-2" source="FMrM_4cMwFXPyNiu1CsQ-4" target="FMrM_4cMwFXPyNiu1CsQ-5" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="FMrM_4cMwFXPyNiu1CsQ-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="FMrM_4cMwFXPyNiu1CsQ-2" source="FMrM_4cMwFXPyNiu1CsQ-3" target="FMrM_4cMwFXPyNiu1CsQ-4" edge="1">
                     <mxGeometry width="160" relative="1" as="geometry">
@@ -28,16 +25,10 @@
                         <mxPoint x="455.5" y="272" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="FMrM_4cMwFXPyNiu1CsQ-10" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#FFFFFF;" parent="FMrM_4cMwFXPyNiu1CsQ-2" vertex="1">
-                    <mxGeometry x="120" y="760" width="30" height="30" as="geometry"/>
-                </mxCell>
                 <mxCell id="FMrM_4cMwFXPyNiu1CsQ-11" value="Go back to the&#10;KTDI Minimarket&#10; System Homepage" style="" parent="FMrM_4cMwFXPyNiu1CsQ-2" vertex="1">
                     <mxGeometry x="55" y="680" width="160" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="FMrM_4cMwFXPyNiu1CsQ-12" value="" style="endArrow=open;strokeColor=#FFFFFF;endFill=1;rounded=0" parent="FMrM_4cMwFXPyNiu1CsQ-2" source="FMrM_4cMwFXPyNiu1CsQ-11" target="FMrM_4cMwFXPyNiu1CsQ-10" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="FMrM_4cMwFXPyNiu1CsQ-14" value="Enable&#10;notifications" style="rhombus;fillColor=#18141D;strokeColor=#FFFFFF;" parent="FMrM_4cMwFXPyNiu1CsQ-2" vertex="1">
+                <mxCell id="FMrM_4cMwFXPyNiu1CsQ-14" value="Enable&#10;notifications" style="rhombus;fillColor=none;strokeColor=#000000;" parent="FMrM_4cMwFXPyNiu1CsQ-2" vertex="1">
                     <mxGeometry x="70" y="480" width="130" height="67" as="geometry"/>
                 </mxCell>
                 <mxCell id="FMrM_4cMwFXPyNiu1CsQ-15" value="Notifications will&#10; be sent by ring or&#10; vibrate" style="" parent="FMrM_4cMwFXPyNiu1CsQ-2" vertex="1">
@@ -99,7 +90,7 @@
                         <mxPoint x="480" y="550" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="FMrM_4cMwFXPyNiu1CsQ-32" value="Allow access to&#10;the device" style="rhombus;fillColor=#18141D;strokeColor=#FFFFFF;" parent="FMrM_4cMwFXPyNiu1CsQ-2" vertex="1">
+                <mxCell id="FMrM_4cMwFXPyNiu1CsQ-32" value="Allow access to&#10;the device" style="rhombus;fillColor=none;strokeColor=#000000;" parent="FMrM_4cMwFXPyNiu1CsQ-2" vertex="1">
                     <mxGeometry x="70" y="330" width="130" height="67" as="geometry"/>
                 </mxCell>
                 <mxCell id="FMrM_4cMwFXPyNiu1CsQ-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="FMrM_4cMwFXPyNiu1CsQ-2" source="FMrM_4cMwFXPyNiu1CsQ-32" target="FMrM_4cMwFXPyNiu1CsQ-14" edge="1">
@@ -130,8 +121,23 @@
                 <mxCell id="FMrM_4cMwFXPyNiu1CsQ-39" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="FMrM_4cMwFXPyNiu1CsQ-2" vertex="1">
                     <mxGeometry x="200" y="338" width="40" height="30" as="geometry"/>
                 </mxCell>
+                <mxCell id="-NaCsfxZiiGNQ8eI94FF-1" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="FMrM_4cMwFXPyNiu1CsQ-2" source="FMrM_4cMwFXPyNiu1CsQ-4" target="FMrM_4cMwFXPyNiu1CsQ-5">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="230" y="300" as="sourcePoint"/>
+                        <mxPoint x="390" y="300" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="-NaCsfxZiiGNQ8eI94FF-2" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#18141D;" vertex="1" parent="FMrM_4cMwFXPyNiu1CsQ-2">
+                    <mxGeometry x="120" y="770" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="-NaCsfxZiiGNQ8eI94FF-3" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="FMrM_4cMwFXPyNiu1CsQ-2" source="FMrM_4cMwFXPyNiu1CsQ-11" target="-NaCsfxZiiGNQ8eI94FF-2">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="230" y="600" as="sourcePoint"/>
+                        <mxPoint x="390" y="600" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
                 <mxCell id="FMrM_4cMwFXPyNiu1CsQ-25" value="System" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-                    <mxGeometry x="430" y="99" width="280" height="811" as="geometry"/>
+                    <mxGeometry x="430" y="100" width="280" height="811" as="geometry"/>
                 </mxCell>
                 <mxCell id="FMrM_4cMwFXPyNiu1CsQ-26" value="Displays the access&#10;allowance, the option to&#10;enable or disable&#10;notifications" style="" parent="FMrM_4cMwFXPyNiu1CsQ-25" vertex="1">
                     <mxGeometry x="87.25" y="201" width="145" height="90" as="geometry"/>
