@@ -4,10 +4,10 @@
 
 
 ### Prepared by: 
-  1. VINESH A/L VIJAYAKUMAR A22EC0290   <img src = "https://media.licdn.com/dms/image/D4E03AQHcn9Dzx7IoiQ/profile-displayphoto-shrink_800_800/0/1668328534661?e=1688601600&v=beta&t=dDc0ao0xv8p-aGXlVdJ-N-60kfX7r1ufX2lW-lz1frA" width = "60px">
-  2. NAVACHANDER NAVASANTAR A22EC0226   <img src = "https://media.licdn.com/dms/image/D5603AQEPbcYJcRNy7Q/profile-displayphoto-shrink_800_800/0/1673794317263?e=1688601600&v=beta&t=p2G6r2tcX_y2SgZ8eeGjCiSGxEpVRhnpog7SExsN8-o" width = "60px">
-  3. NAVASARATHY A/L S.GANESWARAN A22EC0091  <img src = "https://media.licdn.com/dms/image/D4E03AQHxPCQ91yzuqQ/profile-displayphoto-shrink_800_800/0/1674014703202?e=1688601600&v=beta&t=-pGH_Trs9V34-5t_tJS0X9rIj6fI--5I_RLJV0KvvS8" width = "60px">
-  4. MUHAMMAD NUR AZHAR BIN MOHD YAZID A22EC0220  <img src = "https://media.licdn.com/dms/image/D5603AQGwbQdRkV3tZg/profile-displayphoto-shrink_800_800/0/1673971061480?e=1688601600&v=beta&t=kJm2UaAiaorkSss_arSmuo-xc-ywMbB7YfZRajz9gjs" width = "60px">
+  1. VINESH A/L VIJAYAKUMAR A22EC0290   
+  2. NAVACHANDER NAVASANTAR A22EC0226  
+  3. NAVASARATHY A/L S.GANESWARAN A22EC0091  
+  4. MUHAMMAD NUR AZHAR BIN MOHD YAZID A22EC0220 
 
 ### Table of Contents
 - [Executive Summary](#1-executive-summary)
