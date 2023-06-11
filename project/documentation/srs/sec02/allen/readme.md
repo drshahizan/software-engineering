@@ -77,9 +77,9 @@ Don't forget to hit the :star: if you like this repo.
 | 4 | 11/05/2023 | NAVACHANDER NAVASANTAR | Documentation Specialist | Assign task to project members for proposal| Complete | 
 | 5 | 12/05/2023 | All Members | Project Members | Updation of proposal |  Complete | 
 | 6 | 12/05/2023 | NAVACHANDER NAVASANTAR | Documantation Specialist | Assign task to project members for SRS Documentation | Complete | 
-| 6 | 14/05/2023 | All Members | Project Members | Updation of SRS Documentation | Incomplete | 
-| 7 | 17/05/2023 | All Members | Project Members | Creates UML Diagram, User Diagram,Activity Diagram. | Partially Complete |
-| 8 | 19/05/2023 | All Members | Project Members | SRS Documentation Use Case Diagram Description | Ongoing |
+| 6 | 14/05/2023 | All Members | Project Members | Updation of SRS Documentation | Complete | 
+| 7 | 17/05/2023 | All Members | Project Members | Creates UML Diagram, User Diagram,Activity Diagram. | Complete |
+| 8 | 19/05/2023 | All Members | Project Members | SRS Documentation Use Case Diagram Description | Complete |
 | 9 | 20/05/2023 | All Members | Project Members | Create System Documentation (SD) | Ongoing |
 | 10 | 31/05/2023 | All Members | Project Members | Do Low Fidelity Wideframe | Complete |
 | 11 | 1/06/2023 | All Members | Project Members | Do High Fidelity Wideframe | Ongoing |
