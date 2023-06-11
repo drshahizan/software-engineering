@@ -147,6 +147,9 @@
                         <mxPoint x="660" y="420.33333333333326" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="117" value="UC005:Activity Diagram" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="50" width="870" height="1230" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
