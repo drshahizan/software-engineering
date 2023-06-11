@@ -111,7 +111,7 @@ One Stop Parcel Center & Cengal Parcel Point
 | 25| 04/06/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Develop high fidelity wireframes| Complete |
 | 26| 06/06/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Update project proposal| Complete |
 | 27| 08/06/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Update SRS Document| Complete |
-
+| 28| 09/06/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Complete SRS Document| Complete |
 
 
 ## Contribution 🛠️
