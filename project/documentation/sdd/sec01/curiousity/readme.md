@@ -86,7 +86,7 @@ Don't forget to hit the :star: if you like this repo.
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 5/06/2023| Low Ying Xi | Project Manager | Gather user requirement | Complete |
-| 2 | 12/06/2023 | Low Ying Xi  | Project Manager | Create system architecture design | Incomplete |
+| 2 | 15/06/2023 | Low Ying Xi  | Project Manager | Create system architecture design | Incomplete |
 | 3 | 15/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui  | Project Manger, Documentation Specialist, Developer, User Experience Designer | Create detailed description of modules | Incomplete |
 | 4 | 16/06/2023 | Ng Shu Yu | Documentation Specialist | Cretae Data Design | Incomplete |
 | 5 |  17/06/2023 | Camily Tang Jia Lei, Koh Li Hui |Developer, User Experience Designer | Create User Interfaces Design | Incomplete |
