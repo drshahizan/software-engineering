@@ -51,9 +51,16 @@ These are the current system interface from academic advisor view:
 ### 3. Objectives:
 The objectives of this proposal are to:
 
-- Provide students with a more personalized and effective academic support system
-- Enable lecturers to provide individualized attention to students without disrupting their class schedule
-- Improve students' academic performance and engagement through one-on-one interactions with their lecturers
+1. Provide students with a more personalized and effective academic support system:
+The objective is to enhance the academic support system by implementing an Academic Consultation System that caters to the individual needs of students. This system will enable students to schedule and attend one-on-one consultations with their lecturers, allowing for personalized guidance, feedback, and assistance. By offering a tailored support system, students will have the opportunity to address specific academic challenges, seek clarification on topics, and receive guidance to improve their understanding and performance.
+
+2. Enable lecturers to provide individualized attention to students without disrupting their class schedule:
+The objective is to empower lecturers to offer individualized attention and support to students without compromising their regular teaching responsibilities. The Academic Consultation System will facilitate appointment scheduling, allowing lecturers to allocate dedicated time slots for consultations. By managing consultations separately from class time, lecturers can focus on their teaching commitments while ensuring students receive the personalized attention they need outside the classroom. This objective aims to strike a balance between lecturers' availability and their commitment to students' academic growth.
+
+3. Improve students' academic performance and engagement through one-on-one interactions with their lecturers:
+The objective is to foster improved academic performance and engagement among students by facilitating meaningful one-on-one interactions with their lecturers. The Academic Consultation System will enable students to have dedicated consultations, where they can address specific concerns, receive guidance on assignments and projects, and gain a deeper understanding of course material. By providing this personalized attention, students are likely to experience increased motivation, higher levels of engagement, and improved academic outcomes, leading to overall academic success.
+
+These objectives collectively aim to enhance the academic support system, prioritize individualized attention, and promote student success through effective one-on-one interactions between students and lecturers.
 
 ### 4. Scope: 
 
