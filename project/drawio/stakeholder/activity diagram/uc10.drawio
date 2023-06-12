@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="54u3BHvAAAAYU6rbUI84" name="Page-1">
-        <mxGraphModel dx="1590" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1378" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -104,59 +104,59 @@
                 <mxCell id="26" value="Provides instructions on how to proceed" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="720" y="382" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="1" edge="1">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="780" y="380" as="sourcePoint"/>
-                        <mxPoint x="400" y="100" as="targetPoint"/>
-                        <Array as="points">
-                            <mxPoint x="590" y="100"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="28" value="Choose retry or contact admin" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="280" y="80" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="1" edge="1">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="336" y="140" as="sourcePoint"/>
-                        <mxPoint x="286" y="170" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="30" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="1" edge="1">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="337" y="140" as="sourcePoint"/>
-                        <mxPoint x="387" y="170" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="31" value="If retry" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="246" y="169" width="80" height="31" as="geometry"/>
-                </mxCell>
-                <mxCell id="32" value="if contact admin" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="327" y="169" width="123" height="31" as="geometry"/>
-                </mxCell>
-                <mxCell id="33" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="286" y="200" as="sourcePoint"/>
-                        <mxPoint x="286" y="220" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="34" value="Click &quot;Generate report&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="223" y="219" width="114" height="39" as="geometry"/>
-                </mxCell>
-                <mxCell id="35" value="Provide details error and seek help" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="340" y="217" width="114" height="39" as="geometry"/>
-                </mxCell>
-                <mxCell id="36" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="390" y="200" as="sourcePoint"/>
-                        <mxPoint x="390" y="220" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
                 <mxCell id="38" value="Fellow,Administrator" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="70" width="390" height="760" as="geometry"/>
+                    <mxGeometry x="30" width="433" height="760" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Choose retry or contact admin" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;" parent="38" vertex="1">
+                    <mxGeometry x="211" y="500" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.375;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="38" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="265" y="560" as="sourcePoint"/>
+                        <mxPoint x="242" y="590" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="30" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="38" edge="1" source="28">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="311" y="560" as="sourcePoint"/>
+                        <mxPoint x="361" y="590" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="31" value="If retry" style="rhombus;whiteSpace=wrap;html=1;" parent="38" vertex="1">
+                    <mxGeometry x="202" y="590" width="80" height="31" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Click &quot;Generate report&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="38" vertex="1">
+                    <mxGeometry x="190" y="640" width="114" height="39" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="endArrow=classic;html=1;" parent="38" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="240" y="621" as="sourcePoint"/>
+                        <mxPoint x="240" y="641" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="32" value="if contact admin" style="rhombus;whiteSpace=wrap;html=1;" parent="38" vertex="1">
+                    <mxGeometry x="298" y="590" width="123" height="31" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="Provide details error and seek help" style="rounded=0;whiteSpace=wrap;html=1;" parent="38" vertex="1">
+                    <mxGeometry x="310" y="640" width="114" height="39" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="" style="endArrow=classic;html=1;" parent="38" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="361" y="621" as="sourcePoint"/>
+                        <mxPoint x="361" y="641" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="39" value="System" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="460" width="390" height="760" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="28" source="26">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="820" y="860" as="sourcePoint"/>
+                        <mxPoint x="470" y="580" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="590" y="530"/>
+                        </Array>
+                    </mxGeometry>
                 </mxCell>
             </root>
         </mxGraphModel>
