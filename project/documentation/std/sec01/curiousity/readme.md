@@ -34,6 +34,13 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
+## Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Document STD| <a href="https://docs.google.com/document/d/1a376KQdLW--Bxmo5r83nIQQj5E8YYfpwpwyhyPMroL8/edit?usp=sharing" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+
 ## Stakeholder
 <table>
   <tr>
@@ -74,11 +81,18 @@ Don't forget to hit the :star: if you like this repo.
     </tr>
 </table>
 
-## Tasks involved in developing SDD documentation:
+## Tasks involved in developing STD documentation:
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 |   |   |   |   |   |
+| 1 | 13/06/2023| Low Ying Xi | Project Manager | Create STD Document | Complete |
+| 2 | 16/06/2023 | Low Ying Xi  | Project Manager | Create test plan | Incomplete |
+| 3 | 15/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui  | Project Manger, Documentation Specialist, Developer, User Experience Designer | Create test cases | Incomplete |
+| 4 | 20/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Create test procedures | Incomplete |
+| 5 |  20/06/2023 | Camily Tang Jia Lei, Koh Li Hui |Developer, User Experience Designer | Create test results | Incomplete |
+| 6 |  20/06/2023 | Camily Tang Jia Lei, Koh Li Hui |Developer, User Experience Designer | Create traceability matrix | Incomplete |   
+| 7 | 20/05/2023 | Ng Shu Yu | Documentation Specialist | Finalize the SDD |Incomplete | 
+
 
 
 ## Contribution 🛠️
