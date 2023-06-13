@@ -96,6 +96,7 @@ Don't forget to hit the :star: if you like this repo.
 |11 | 17/05/2023 | All Members | Project Members | Design UML Diagram | Complete |
 |12 | 18/05/2023 | All Members | Project Members | System Requirements Specification Discussion | Complete |
 |13 | 19/05/2023 | All Members | Project Members | System Requirements Specification | Partially complete |
+|14 | 25/05/2023 | All Members | Project Members | System Design Documentation Discussion| Partially complete |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
