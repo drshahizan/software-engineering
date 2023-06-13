@@ -58,8 +58,8 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
     <tr>
     <td>Dr Mohd Shahizan Othman</td>
-    <td>Lecturer</td>
-    <td></td>
+    <td>Public User</td>
+    <td>Lecturer of Faculty of computing</td>
     <td>Provide own opinion and expectation of the system</td>
   </tr>
 </table>
