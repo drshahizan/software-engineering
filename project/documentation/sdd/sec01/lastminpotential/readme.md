@@ -57,10 +57,10 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provide expectation of the system, and problem faced by public currently</td>
   </tr>
     <tr>
+    <td>Dr Mohd Shahizan Othman</td>
+    <td>Lecturer</td>
     <td></td>
-    <td>Faculty staff</td>
-    <td></td>
-    <td></td>
+    <td>Provide own opinion and expectation of the system</td>
   </tr>
 </table>
 
