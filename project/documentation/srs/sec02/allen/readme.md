@@ -80,13 +80,14 @@ Don't forget to hit the :star: if you like this repo.
 | 6 | 14/05/2023 | All Members | Project Members | Updation of SRS Documentation | Complete | 
 | 7 | 17/05/2023 | All Members | Project Members | Creates UML Diagram, User Diagram,Activity Diagram. | Complete |
 | 8 | 19/05/2023 | All Members | Project Members | SRS Documentation Use Case Diagram Description | Complete |
-| 9 | 20/05/2023 | All Members | Project Members | Create System Documentation (SD) | Ongoing |
+| 9 | 20/05/2023 | All Members | Project Members | Create System Documentation (SRS) | Ongoing |
 | 10 | 31/05/2023 | All Members | Project Members | Do Low Fidelity Wideframe | Complete |
 | 11 | 1/06/2023 | All Members | Project Members | Do High Fidelity Wideframe | Ongoing |
 | 12 | 05/06/2023 | All Members | Project Members | Create design of the system | Ongoing |
 | 13 | 05/06/2023 | All Members | Project Members | Scrum Meeting| Complete |
-
-
+| 14 | 12/06/2023 | All Members | Project Members | Scrum Meeting 2| Complete |
+| 15 | 20/06/2023 | All Members | Project Members | Create System Documentation (SDD) | Ongoing |
+| 16 | 22/06/2023 | All Members | Project Members | Create System Documentation (STD) | Ongoing |
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
