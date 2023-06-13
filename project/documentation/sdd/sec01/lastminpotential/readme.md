@@ -72,12 +72,15 @@ Don't forget to hit the :star: if you like this repo.
 | 2 | 24/04/2023 | Goh Jing Yang, Loo Jia Chang | UI/ UX Designer, Main Developer | Gather user requirements | Complete |
 | 3 | 28/04/2023 | Chen Pyng Haw | Documentation Specialist | Create proposal | Complete |
 | 4 | 7/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Meeting with stakeholder 1,  PROF. TS. DR. WAN MOHD NASIR WAN NADIR | Complete |
-| 5 | 11/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Meeting with stakeholder 2, Ooi Wei Sian | Completed |
-| 6 | 12/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | SRS Documentation draf | Pending |
-| 7 | 14/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | UML diagram (actor, use case, sequence, activity diagram | Pending |
-| 8 | 19/05/2023 |  |  | Create system documentation | Incomplete |
-| 9 | 23/05/2023 |  |  | Discussion and assign task for system features part based on user case design | Incomplete |
-| 10 | 22/06/2023 |  |  | Create Software Maintanence Document | Incomplete |
+| 5 | 11/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Meeting with stakeholder 2, Ooi Wei Sian | Complete |
+| 6 | 12/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | SRS Documentation draf | Complete |
+| 7 | 13/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Meeting with stakeholder 2, Ooi Wei Sian  | Complete |
+| 8 | 14/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | UML diagram (actor, use case, sequence, activity diagram | Complete |
+| 9 | 19/05/2023 | Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Create system documentation | Pending |
+| 10 | 23/05/2023 | Goh Jing Yang, Loo Jia Chang | UI/UX Designer, Main Developer | Design low fidelity | Complete |
+| 11 | 30/05/2023 | Tan Jun Yuan, Chen Pyng Haw | Project Manager， Documentation Specialist | Design high fidelity | Complete |
+| 12 | 06/06/2023 | Tan Jun Yuan, Chen Pyng Haw | Project Manager， Documentation Specialist | Meeting with stakeholder 3, Dr Mohd Shahizan Othman | Complete |
+| 13 | 22/06/2023 |  |  | Create Software Maintanence Document | Incomplete |
 
 
 
