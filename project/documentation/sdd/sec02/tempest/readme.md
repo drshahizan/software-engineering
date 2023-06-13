@@ -65,7 +65,7 @@ Don't forget to hit the :star: if you like this repo.
 ## Documentation
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Document SDD| <a href="" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|1| Document SDD| <a href="https://docs.google.com/document/d/1K2Qi3slGgb55GVH3L77NezoQBvgSlP_35AhlF6R2jow/edit?usp=sharing" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
 |2| Figma| <a href="https://www.figma.com/files/project/93492418/Badal-Hajj-and-Umrah-Management-System?fuid=1235142099190224213" ><img src="../../../../../images/figma.svg" width="24px" height="24px" ></a>|
 |3| Borang Badal Haji| <a href="https://drive.google.com/drive/folders/1xm0X4yxzjBrGPt_EeF4PT4udWYxdx8PS?usp=share_link" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 |4| Borang Umrah| <a href="https://drive.google.com/drive/folders/1cNg7cQG-RONHfL7_yHy9h5DZDWGfi-1k?usp=share_link" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
