@@ -93,8 +93,9 @@ Don't forget to hit the :star: if you like this repo.
 | 8 | 07/05/2023 | All Members | Project Members | Determine stakeholder | Complete |
 | 9 | 12/05/2023 | Jaslene Yu | Project Manager | Contact stakeholder | Complete |
 |10 | 16/05/2023 | All Members | Project Members | First interview with stakeholder | Complete |
-|11 | 18/05/2023 | All Members | Project Members | System Requirements Specification Discussion | Complete |
-|12 | 19/05/2023 | All Members | Project Members | System Requirements Specification | Partially complete |
+|11 | 17/05/2023 | All Members | Project Members | Design UML Diagram | Complete |
+|12 | 18/05/2023 | All Members | Project Members | System Requirements Specification Discussion | Complete |
+|13 | 19/05/2023 | All Members | Project Members | System Requirements Specification | Partially complete |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
