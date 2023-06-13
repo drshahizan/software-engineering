@@ -42,7 +42,7 @@ Don't forget to hit the :star: if you like this repo.
 | No | Name |File | 
 | -----:| ----- | :------: | 
 |1| Document SDD| <a href="https://docs.google.com/document/d/1hgE6D9UJe7pOdCiTL0gmtr_hoUJgMCb-/edit?usp=sharing&ouid=106160364288849413048&rtpof=true&sd=true" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Figma| <a href="https://www.figma.com/file/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=0%3A1&t=QX8DjwGAeKqD4Ylr-1" width="24px" height="24px" ></a>|
+|2| Figma| <a href="https://www.figma.com/file/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=0%3A1&t=QX8DjwGAeKqD4Ylr-1"><img src="../../../../../images/figma.svg" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 <table>
