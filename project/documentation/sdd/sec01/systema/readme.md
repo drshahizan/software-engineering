@@ -58,7 +58,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provide recommendations to help SRC in collecting students complaints</td>
   </tr>
     <tr>
-    <td>3 Sudashen Rao</td>
+    <td>3 Sudashan Rao A/L Themudu</td>
     <td>Student</td>
     <td>Faculty of Computing Student (Undergraduate)</td>
     <td></td>
@@ -75,10 +75,21 @@ Don't forget to hit the :star: if you like this repo.
 | 5 | 06/05/2023 | Bernice Lim Jing Xuan | Project Manager | Contact stakeholder 3 | Complete |
 | 6 | 06/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 1 | Complete |
 | 7 | 07/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 2 | Complete |
-| 8 | 11/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 3 | ToDo |
-| 9 | 12/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Analysis Requirements | ToDo |
-| 10 | 15/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer |  SRS Planning | ToDo |
-
+| 8 | 11/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Interview stakeholder 3 | Complete |
+| 9 | 12/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Analysis Requirements | Complete |
+| 10 | 15/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer |  SRS Planning | Complete |
+| 11 | 20/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Plan Low Fidelity Wireframe | Complete |
+| 12 | 29/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | SRS Documentation Use Case Diagram Description | Complete |
+| 13 | 31/05/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Do low fidelity wireframe | Complete |
+| 14 | 01/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer |Do high fidelity wireframe | Complete |
+| 15 | 06/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | 
+Create prototype of the system | Complete |
+| 16 | 09/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Scrum Meeting 1 | Complete |
+| 17 | 08/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | 
+Create information architecture of system | ToDo |
+| 18 | 09/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Scrum Meeting 2 | ToDo |
+| 19 | 09/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Create information architecture of system  | ToDo |
+| 20 | 09/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Create user flow of system  | ToDo |
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
