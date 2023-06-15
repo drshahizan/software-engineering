@@ -33,10 +33,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-## Documentation
-| No | Name |File | 
-| -----:| ----- | :------: | 
-|1| Document SDD| <a href="https://docs.google.com/document/d/11HX8mUGf6qTk4LPr0Zj7UkCY2THUcnFH/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+
 
 ## Stakeholder
 <table>
