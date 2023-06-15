@@ -86,7 +86,7 @@ Don't forget to hit the :star: if you like this repo.
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 13/06/2023| Low Ying Xi | Project Manager | Create STD Document | Complete |
-| 2 | 16/06/2023 | Low Ying Xi  | Project Manager | Create test plan | Incomplete |
+| 2 | 15/06/2023 | Low Ying Xi  | Project Manager | Distribute task | Complete |
 | 3 | 15/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui  | Project Manger, Documentation Specialist, Developer, User Experience Designer | Create test cases | Incomplete |
 | 4 | 20/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Create test procedures | Incomplete |
 | 5 |  20/06/2023 | Camily Tang Jia Lei, Koh Li Hui |Developer, User Experience Designer | Create test results | Incomplete |
