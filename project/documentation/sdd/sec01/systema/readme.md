@@ -61,7 +61,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>3 Sudashan Rao A/L Themudu</td>
     <td>Student</td>
     <td>Faculty of Computing Student (Undergraduate)</td>
-    <td></td>
+    <td>Provide recommendations about functions,options and services that might be needed by Faculty Computuing's students and sharing more opinions on what he espected while using the Student Engagement System</td>
   </tr>
 </table>
 ## Tasks involved in developing SRC documentation:
