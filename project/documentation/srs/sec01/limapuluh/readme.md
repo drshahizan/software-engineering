@@ -104,8 +104,8 @@ Don't forget to hit the :star: if you like this repo.
 | 6. | 12/05/2023 | All members | - | Create UML Diagrams | Complete |
 | 7. | 19/05/2023 | Lim Jing Yong & Soh Han Wei | Documentation Specialist & Requirement Analyst | Create SRS Document | Complete |
 | 8. | 02/07/2023 | Lee Soon Der | User Experience Designer | Create System Design Document | Partially Complete |
-| 9. | 24/05/2023 | All members | - | Designing the System | Partially Complete |
-
+| 9. | 24/05/2023 | All members | - | Designing the System | Complete |
+| 10. | 07/05/2023| Lee Soon Der | User Experience Designer | Prototyping | Complete |
 
 
 ## Contribution 🛠️

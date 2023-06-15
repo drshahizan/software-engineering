@@ -105,8 +105,13 @@ Don't forget to hit the :star: if you like this repo.
 | 13 | 18/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai | Project manager, Main developer | Meeting with KTDI staff | Complete |
 | 14 | 22/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng  | Group members | Meeting with KTDI students |  Complete |
 | 15 | 24/05/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas | Designer, Developer assistant | Design information architecture | Complete |
-| 16 | 25/05/2023 | Joseph Lau Yeo Kai, Muhhammad Danial, Low Jie Sheng, Neo Zheng Weng, Wong Khai Shian Nicholas | Group members | Scrum meeting | Complete |
-| 17 | 
+| 16 | 25/05/2023 | Joseph Lau Yeo Kai, Muhammad Danial, Low Jie Sheng, Neo Zheng Weng, Wong Khai Shian Nicholas | Group members | Scrum meeting | Complete |
+| 17 | 30/05/2023 | Joseph Lau Yeo Kai | Main developer | Low fedelity UI | Complete |
+| 18 | 1/06/2023 | Wong Khai Shian Nicholas, Neo Zheng Weng, Joseph Lau Yeo Kai, Low Jie Sheng, Muhammad Danial | Group members | High fedelity UI | Complete |
+| 19 | 6/06/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | UI prototype | Complete |
+| 20 | 13/06/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | SDD documentation | In progress |
+| 21 | 20/06/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | STD documentation | To do |
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
