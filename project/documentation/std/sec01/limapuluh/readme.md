@@ -47,7 +47,7 @@ Don't forget to hit the :star: if you like this repo.
 ## Documentation
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Document STD| <a href="https://docs.google.com/document/d/1rVZkqkyOBOXEdbZ0mExWLbbw0nMVxIkhZUHJxk9X3g8/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|1| Document STD| <a href="https://docs.google.com/document/d/1YphQxo6uX6sIaVZcXveb659h7__7CS87/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
 
 ## Stakeholders
 
