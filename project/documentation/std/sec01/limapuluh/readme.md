@@ -13,6 +13,46 @@ Don't forget to hit the :star: if you like this repo.
 ## Group Members
 <table>
   <tr>
+    <th>No.</th>
+    <th>Name</th>
+    <th>Role</th>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>Yong Wern Jie</td>
+    <td>Project Manager</td>
+  </tr>
+  <tr>
+    <td>2.</td>
+    <td>Marcus Joey Sayner</td>
+    <td>Software Developer</td>
+  </tr>
+  <tr>
+    <td>3.</td>
+    <td>Lim Jing Yong</td>
+    <td>Documentation Specialist</td>
+  </tr>
+  <tr>
+    <td>4.</td>
+    <td>Soh Han Wei</td>
+    <td>Requirement Analyst</td>
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td>Lee Soon Der</td>
+    <td>User Experience Designer</td>
+  </tr>
+</table>
+
+## Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Document STD| <a href="https://docs.google.com/document/d/1rVZkqkyOBOXEdbZ0mExWLbbw0nMVxIkhZUHJxk9X3g8/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+
+## Stakeholders
+
+<table>
+  <tr>
     <th>Name</th>
     <th>Stakeholder</th>
     <th>Position</th>
