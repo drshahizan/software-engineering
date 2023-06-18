@@ -32,14 +32,21 @@ Please answer the following case study question to assess your knowledge in UML.
 A folder structure:
 
 ```
-📁submission
+🗂️submission
+├─ 🗂️sec01
+├── 📄readme.md
+├── 📁drshahizan
+│   ├── 📄uc1.md
+│   ├── ...
+│   └── 📄uc5.md
+├── 📁your github id
+├─ 🗂️sec02
 ├── 📄readme.md
 ├── 📁drshahizan
 │   ├── 📄uc1.md
 │   ├── ...
 │   └── 📄uc5.md
 └── 📁your github id
-
 ```
 
 ## Contribution 🛠️
