@@ -6,13 +6,11 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Case Study Question
-
 # Case Study: Hospital Management System
 
 **Actor:** Hospital Staff, Patients
 
-**Purpose:** The Hospital Management System aims to streamline patient admissions, appointments, medical records, and billing processes in XYZ Hospital, improving operational efficiency and enhancing the overall patient experience.
+**Purpose:** The Hospital Management System aims to streamline patient admissions, appointments, medical records, and billing processes in MSO Hospital, improving operational efficiency and enhancing the overall patient experience.
 
 **Preconditions:**
 - Hospital staff has access to the Hospital Management System.
