@@ -28,7 +28,7 @@ Throughout the order fulfillment process, the website keeps the customer informe
 In summary, the e-commerce website streamlines the customer journey by providing an intuitive browsing experience, secure payment processing, and efficient order fulfillment. By effectively managing inventory and automating the order processing workflow, the website enhances the company's online presence, boosts customer satisfaction, and drives business growth in the competitive e-commerce landscape.
 
 ## Question
-Based on the Hospital Management System case study, create a use case diagram that includes essential elements such as use cases, actors, relationships, and other components commonly found in use case diagrams.
+Based on the case study, create a use case diagram that includes essential elements such as use cases, actors, relationships, and other components commonly found in use case diagrams.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
