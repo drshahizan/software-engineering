@@ -55,7 +55,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provide information about the software (Google Form) that they currently use for the college room rental registration.</td>
   </tr>
     <tr>
-    <td>3 </td>
+    <td>3. Jevanaraj A/L Balasuntharam </td>
     <td>Residents of Kolej Tun Dr Ismail</td>
     <td>Student</td>
     <td>Provide feedback on the current procedure.</td>
@@ -75,8 +75,8 @@ Don't forget to hit the :star: if you like this repo.
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 19/06/2023| Nur Farah Adibah Binti Idris | Main Developer | Create STD Document | Incomplete |
-| 2 | 02/05/2023 |   |  |  |  |
-| 3 | 02/05/2023 |   |  |  |  |
+| 2 | 19/06/2023 |   | Discuss on STD documentation |  |  |
+| 3 | 19/06/2023 |   | Distribute task |  |  |
 | 4 | 02/05/2023 | Nur Aleysha Qurratu'aini Binti Mat Salleh |  | Incomplete | 
 | 5 | 02/05/2023 | Nadhrah NurSabrina Binti Zulaini | Assistant Developer | |Incomplete | 
 | 6 | 03/05/2023 | All members |  |  |Complete | 
