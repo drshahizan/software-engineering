@@ -34,7 +34,12 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-<img src="interviewWithDean.jpg" alt="Meeting with Dean of Faculty of Computing">
+## Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Document SDD| <a href="[https://docs.google.com/document/d/1WGhhNeAzyUHr1NQiJZkYlMmllKr_gQ-6TjUTykMYNow/edit?usp=sharing](https://docs.google.com/document/d/1yksjX8seJ0aIpHPS68waP8K2WtaSVqgVWY2DmzzF8Rc/edit?usp=sharing)" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 <table>
