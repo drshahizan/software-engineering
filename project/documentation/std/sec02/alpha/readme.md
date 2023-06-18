@@ -74,7 +74,7 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 02/05/2023| Nur Farah Adibah Binti Idris | Main Developer | Create STD Document | Incomplete |
+| 1 | 19/06/2023| Nur Farah Adibah Binti Idris | Main Developer | Create STD Document | Incomplete |
 | 2 | 02/05/2023 |   |  |  |  |
 | 3 | 02/05/2023 |   |  |  |  |
 | 4 | 02/05/2023 | Nur Aleysha Qurratu'aini Binti Mat Salleh |  | Incomplete | 
