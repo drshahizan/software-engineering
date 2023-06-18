@@ -19,3 +19,20 @@ Additionally, the Hospital Management System will empower the medical staff to m
 Lastly, the Hospital Management System will address the billing process, automating the generation of billing statements. The billing department will log into the system and access the patient's records to generate accurate billing statements. The system will integrate the patient's medical treatment information and calculate the charges accordingly. This automation will reduce errors and streamline the billing process, ensuring prompt and accurate invoicing for the patients.
 
 In conclusion, the Hospital Management System will revolutionize the hospital's operations by providing seamless management of patient admissions, appointments, medical records, and billing. The system will improve efficiency, enhance patient care, and facilitate accurate billing processes, leading to a better overall hospital experience for both patients and staff.
+
+## Question
+Based on the Hospital Management System case study, create a use case diagram that includes essential elements such as use cases, actors, relationships, and other components commonly found in use case diagrams.
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+
+
+
+
+
+
