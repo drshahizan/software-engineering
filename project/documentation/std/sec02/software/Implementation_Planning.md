@@ -43,3 +43,40 @@
 9. Communication and Stakeholder Engagement:
 - Maintain regular communication with stakeholders, including PKU admin, KTDI MPP and PKU Doctor to gather feedback, address concerns, and keep them updated on the project's progress.
 - Schedule regular demos or presentations to showcase the implemented features and gather feedback for further improvements.
+
+<h2>Resource Requirement</h2>
+1. Development Resources:
+- Skilled app developers (front-end and back-end)
+- UI/UX designers for creating an intuitive user interface
+- Project manager to oversee the development process
+- Development tools and software
+
+2. Server Infrastructure:
+- Sufficient hosting resources to handle app traffic
+- Scalable infrastructure to accommodate increasing user base
+- Database servers for storing user data securely
+- Regular backups and disaster recovery plan
+  
+3. Data Security and Privacy:
+- Robust security measures to protect sensitive user information
+- Compliance with relevant data protection regulations (e.g., GDPR)
+- Encryption mechanisms for data transmission and storage
+- Regular security audits and vulnerability assessments
+
+4. Integration with University Systems:
+- Collaboration with the university's IT department for integration]
+- Access to relevant student data (with proper consent and privacy safeguards)
+- Compatibility with existing university systems and databases
+
+5. Testing Resources:
+- Dedicated testing team to ensure app functionality and quality
+- Test devices (smartphones, tablets) representing various platforms (iOS, Android)
+- Test accounts with different user roles (students, clinic staff, administrators)
+- Test data sets to simulate different scenarios (e.g., appointment scheduling, health records)
+- Test automation tools for efficient and thorough testing
+- Performance testing resources to check app responsiveness under load
+
+6. User Feedback and Iterative Improvements:
+- User feedback mechanisms (surveys, feedback forms) to collect suggestions and bug reports
+- Continuous improvement cycles based on user feedback and testing results
+- Regular app updates and bug fixes
