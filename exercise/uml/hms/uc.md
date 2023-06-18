@@ -6,7 +6,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Case Study: Hospital Management System
+# Case Study 1a: Hospital Management System
 
 In a bustling hospital, there is a need for an efficient management system that can handle patient admissions, appointments, medical records, and billing. The hospital aims to streamline its operations, improve patient care, and ensure accurate billing processes. To achieve these goals, they plan to develop a comprehensive Hospital Management System.
 
