@@ -6,8 +6,6 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `uc1.md`.
-
 ## Case Study Question
 
 # Case Study 1: Hospital Management System
@@ -27,6 +25,9 @@ In conclusion, the Hospital Management System will revolutionize the hospital's 
 
 ## Question
 Based on the Hospital Management System case study, create a use case diagram that includes essential elements such as use cases, actors, relationships, and other components commonly found in use case diagrams.
+
+## Submission
+Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `uc1.md`.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
