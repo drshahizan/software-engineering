@@ -29,6 +29,19 @@ Based on the Hospital Management System case study, create a use case diagram th
 ## Submission
 Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `uc1.md`.
 
+A folder structure:
+
+```
+📁submission
+├── 📄readme.md
+├── 📁drshahizan
+│   ├── 📄uc1.md
+│   ├── ...
+│   └── 📄uc5.md
+└── 📁your github id
+
+```
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
