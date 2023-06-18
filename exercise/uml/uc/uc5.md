@@ -6,26 +6,24 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Case Study 2: E-commerce Website
+# Case Study 5: Automated Teller Machine (ATM) System
 
 ## Description
-An established retail company has decided to expand its business by launching an e-commerce website. The objective is to create an online platform that allows customers to browse and purchase products, while also providing efficient inventory management and order processing functionalities. The e-commerce website aims to enhance the company's reach, improve customer experience, and streamline the overall sales process.
+An established bank is implementing an ATM (Automated Teller Machine) system to provide customers with convenient access to banking services. The ATM system enables customers to perform various transactions, including cash withdrawals, balance inquiries, and fund transfers. The objective is to offer a user-friendly and secure platform that enhances customer banking experience, reduces waiting time, and ensures reliable and efficient service delivery.
 
-In this scenario, a potential customer visits the e-commerce website to explore available products. The website offers a user-friendly interface where customers can browse through various product categories, view detailed product descriptions, and add desired items to their shopping carts. The website also allows customers to create user accounts, which provide additional features such as saving payment and shipping information for future purchases.
+In this scenario, a customer visits an ATM to perform cash withdrawals. The customer inserts their bank card into the ATM's card reader and enters their Personal Identification Number (PIN) for authentication. The ATM system verifies the entered PIN and grants access to the customer's account. The customer is then presented with a menu of available transaction options.
 
-When a customer is ready to make a purchase, they proceed to the checkout process. The website presents a summary of the items in the customer's shopping cart, including prices, quantities, and a total amount. The customer can review the order details and make any necessary modifications, such as updating quantities or removing items.
+If the customer chooses the cash withdrawal option, they can specify the desired amount. The ATM system checks the account balance to ensure sufficient funds are available. If the requested amount is within the available balance, the system dispenses the requested cash and updates the account balance accordingly. If the requested amount exceeds the available balance, the system notifies the customer of the insufficient funds and prompts them to choose a different amount or transaction.
 
-After reviewing the order, the website prompts the customer to choose a shipping method from the available options. The customer selects their preferred shipping method, which can include choices like standard shipping, expedited shipping, or in-store pickup. The website calculates the shipping cost based on the chosen method and updates the total amount accordingly.
+In addition to cash withdrawals, the ATM system also allows customers to inquire about their account balances. The customer selects the balance inquiry option from the menu, and the system retrieves and displays the current balance for the selected account. This information provides customers with real-time visibility of their account status and helps them make informed financial decisions.
 
-Next, the website prompts the customer to select a payment method. The available payment options may include credit card, debit card, digital wallets, or other secure payment gateways. The customer chooses their preferred payment method and enters the necessary payment information. The website securely processes the payment and validates the provided information.
+Furthermore, the ATM system supports fund transfers between accounts. If the customer chooses the fund transfer option, they are prompted to provide the necessary details, such as the recipient's account number and the transfer amount. The system validates the provided information and executes the fund transfer, debiting the customer's account and crediting the recipient's account. The system generates a transaction record and provides the customer with a confirmation receipt.
 
-Upon successful payment processing, the website generates an order confirmation, which includes details such as the order number, purchased items, shipping address, and estimated delivery date. Simultaneously, the website updates the inventory to reflect the purchased items, ensuring accurate stock management.
+To ensure security and protect customer information, the ATM system implements encryption and authentication mechanisms. Customer data, including PINs and account details, are securely stored and transmitted within the system. The ATM system also incorporates physical security measures, such as surveillance cameras and card skimming prevention, to deter fraudulent activities and safeguard customer assets.
 
-The e-commerce website then sends an order confirmation email to the customer's registered email address, providing a digital receipt and summarizing the order information. The email also includes relevant contact details and customer support information for any queries or concerns.
+Additionally, the ATM system offers a range of self-service functionalities to enhance customer convenience. These include features such as account statement printing, PIN change, and bill payment options. Customers can select these options from the menu and follow the system's prompts to complete the desired transactions.
 
-Throughout the order fulfillment process, the website keeps the customer informed about the progress. This includes sending status updates, such as order processing, shipment tracking details, and notifications for any delays or changes to the estimated delivery date. These proactive notifications help maintain transparency and build trust with customers.
-
-In summary, the e-commerce website streamlines the customer journey by providing an intuitive browsing experience, secure payment processing, and efficient order fulfillment. By effectively managing inventory and automating the order processing workflow, the website enhances the company's online presence, boosts customer satisfaction, and drives business growth in the competitive e-commerce landscape.
+In summary, the ATM system provides customers with a convenient and secure platform for cash withdrawals, balance inquiries, and fund transfers. By offering self-service banking capabilities, the system reduces waiting times at physical branches and enhances customer satisfaction. The ATM system's encryption and authentication measures ensure data security, while its self-service functionalities provide customers with flexibility and control over their banking transactions.
 
 ## Question
 Based on the case study, create a use case diagram that includes essential elements such as use cases, actors, relationships, and other components commonly found in use case diagrams.
