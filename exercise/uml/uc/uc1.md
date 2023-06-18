@@ -6,8 +6,17 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-Please answer the case study question to test your knowledge in UML. You must place your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or folder [`submission/sec02/`](../submission/sec01), create a folder called your `github_id`. please name the file as uc1.md
+Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `uc1.md`.
 
+## Case Study Question
+
+Please answer the following case study question to assess your knowledge in UML.
+
+You are required to submit your answer file in the submission folder. Within the `submission/sec01` or `submission/sec02` folder, create a folder with your GitHub ID. Name the file as `uc1.md`.
+
+---
+
+Feel free to let me know if you need any further assistance!
 # Case Study 1: Hospital Management System
 
 ## Description
