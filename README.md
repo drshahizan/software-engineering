@@ -28,9 +28,9 @@ This course is designed to give students an introduction to an engineering appro
 6. [Project 2: Student Portfolio Showcase (Bootstrap)](./project/2-bootstrap/readme.md)
 7. [Student Portfolio Showcase](https://drshahizan.github.io/) 
 8. [Book](./materials/book.md)
-9. [Software Requirements Document (SRD): Academic Course Registration System](./materials/SRD-sample.md) 🆕
-10. [Class exercise: Module 4](./materials/module4) 🆕
-11. [UML Exercise]()
+9. [Software Requirements Document (SRD): Academic Course Registration System](./materials/SRD-sample.md) 
+10. [Class exercise: Module 4](./materials/module4) 
+11. [UML Exercise](./exercise)🔥🆕
 
 ## Weekly Schedule
 
