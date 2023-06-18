@@ -6,26 +6,24 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Case Study 2: E-commerce Website
+# Case Study 3: Flight Reservation System
 
 ## Description
-An established retail company has decided to expand its business by launching an e-commerce website. The objective is to create an online platform that allows customers to browse and purchase products, while also providing efficient inventory management and order processing functionalities. The e-commerce website aims to enhance the company's reach, improve customer experience, and streamline the overall sales process.
+An airline company is looking to develop a Flight Reservation System to facilitate ticket bookings, seat assignments, and flight schedule management. The aim is to provide a seamless and efficient platform for customers to reserve flights, select preferred seats, and access up-to-date flight schedules. The Flight Reservation System is expected to streamline the booking process, improve customer experience, and optimize flight operations.
 
-In this scenario, a potential customer visits the e-commerce website to explore available products. The website offers a user-friendly interface where customers can browse through various product categories, view detailed product descriptions, and add desired items to their shopping carts. The website also allows customers to create user accounts, which provide additional features such as saving payment and shipping information for future purchases.
+In this scenario, a potential traveler visits the airline's website or mobile app to make a flight reservation. The system offers a user-friendly interface where customers can search for available flights by entering their departure and destination cities, along with the desired travel dates. The system retrieves the flight options based on the input and presents the customer with a list of available flights, including departure and arrival times, fares, and the number of available seats.
 
-When a customer is ready to make a purchase, they proceed to the checkout process. The website presents a summary of the items in the customer's shopping cart, including prices, quantities, and a total amount. The customer can review the order details and make any necessary modifications, such as updating quantities or removing items.
+The customer selects a desired flight from the list and proceeds to make a reservation. The system prompts the customer to provide passenger details such as names, contact information, and any special requirements. The customer enters the required information and proceeds to the seat selection process.
 
-After reviewing the order, the website prompts the customer to choose a shipping method from the available options. The customer selects their preferred shipping method, which can include choices like standard shipping, expedited shipping, or in-store pickup. The website calculates the shipping cost based on the chosen method and updates the total amount accordingly.
+The Flight Reservation System displays an interactive seating layout for the selected flight, allowing the customer to choose their preferred seat. The system provides real-time seat availability information, enabling the customer to make informed decisions. Once the seat selection is complete, the system validates the reservation details and calculates the total fare, including any additional services or fees.
 
-Next, the website prompts the customer to select a payment method. The available payment options may include credit card, debit card, digital wallets, or other secure payment gateways. The customer chooses their preferred payment method and enters the necessary payment information. The website securely processes the payment and validates the provided information.
+After confirming the reservation, the system generates a unique reservation code and issues an electronic ticket to the customer. The ticket contains essential information such as the flight details, passenger names, seat assignments, and travel dates. Simultaneously, the system updates the flight's seat inventory, ensuring accurate seat management and preventing overbooking.
 
-Upon successful payment processing, the website generates an order confirmation, which includes details such as the order number, purchased items, shipping address, and estimated delivery date. Simultaneously, the website updates the inventory to reflect the purchased items, ensuring accurate stock management.
+As the travel date approaches, the Flight Reservation System plays a vital role in managing flight schedules. It provides an interface for airline staff to input and update flight schedules, including departure times, arrival times, and any schedule changes or cancellations. This real-time schedule management ensures that accurate flight information is available to both customers and airline personnel.
 
-The e-commerce website then sends an order confirmation email to the customer's registered email address, providing a digital receipt and summarizing the order information. The email also includes relevant contact details and customer support information for any queries or concerns.
+Additionally, the Flight Reservation System allows customers to access their reservations and make changes if necessary. Customers can modify their travel dates, update passenger information, or request additional services such as special meals or baggage allowances. The system validates and processes these change requests, keeping the reservation and flight information up to date.
 
-Throughout the order fulfillment process, the website keeps the customer informed about the progress. This includes sending status updates, such as order processing, shipment tracking details, and notifications for any delays or changes to the estimated delivery date. These proactive notifications help maintain transparency and build trust with customers.
-
-In summary, the e-commerce website streamlines the customer journey by providing an intuitive browsing experience, secure payment processing, and efficient order fulfillment. By effectively managing inventory and automating the order processing workflow, the website enhances the company's online presence, boosts customer satisfaction, and drives business growth in the competitive e-commerce landscape.
+In summary, the Flight Reservation System streamlines the flight reservation process, providing customers with a user-friendly interface to search, select, and book flights. The system also enables customers to choose their preferred seats and access up-to-date flight schedules. By automating seat management, issuing electronic tickets, and facilitating schedule updates, the system enhances the airline's operational efficiency and improves the overall customer experience.
 
 ## Question
 Based on the case study, create a use case diagram that includes essential elements such as use cases, actors, relationships, and other components commonly found in use case diagrams.
