@@ -6,26 +6,26 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Case Study 2: E-commerce Website
+# Case Study 2: Library Management System
 
 ## Description
-An established retail company has decided to expand its business by launching an e-commerce website. The objective is to create an online platform that allows customers to browse and purchase products, while also providing efficient inventory management and order processing functionalities. The e-commerce website aims to enhance the company's reach, improve customer experience, and streamline the overall sales process.
+A public library is in need of a Library Management System to efficiently manage book borrowing, cataloging, and member registration processes. The goal is to provide library staff and members with a streamlined system that automates tasks, simplifies book searching, ensures accurate cataloging, and facilitates member registration. The Library Management System aims to enhance the overall library experience, improve resource utilization, and enable effective administration of library operations.
 
-In this scenario, a potential customer visits the e-commerce website to explore available products. The website offers a user-friendly interface where customers can browse through various product categories, view detailed product descriptions, and add desired items to their shopping carts. The website also allows customers to create user accounts, which provide additional features such as saving payment and shipping information for future purchases.
+In this scenario, a library member visits the library and wants to borrow a book. The member approaches the library counter and provides their library card. The library staff logs into the Library Management System and retrieves the member's information by scanning their library card barcode or manually entering their details. The system validates the member's credentials and displays their borrowing privileges, such as the maximum number of books they can borrow and the loan duration.
 
-When a customer is ready to make a purchase, they proceed to the checkout process. The website presents a summary of the items in the customer's shopping cart, including prices, quantities, and a total amount. The customer can review the order details and make any necessary modifications, such as updating quantities or removing items.
+The library staff assists the member in finding the desired book by using the system's book search functionality. The member can search for books by title, author, genre, or keywords. The system retrieves the relevant books from the library's catalog and displays their availability status, including information on the book's location within the library.
 
-After reviewing the order, the website prompts the customer to choose a shipping method from the available options. The customer selects their preferred shipping method, which can include choices like standard shipping, expedited shipping, or in-store pickup. The website calculates the shipping cost based on the chosen method and updates the total amount accordingly.
+Once the member selects a book, the library staff checks its availability and verifies if it is available for borrowing. If the book is available, the library staff updates the book's status as "borrowed" in the system and assigns it to the member. The system records the borrowing details, including the due date for returning the book.
 
-Next, the website prompts the customer to select a payment method. The available payment options may include credit card, debit card, digital wallets, or other secure payment gateways. The customer chooses their preferred payment method and enters the necessary payment information. The website securely processes the payment and validates the provided information.
+If the member is not yet registered, they can request library membership. The library staff assists the member in completing the registration process. The staff enters the member's personal information, such as their name, address, contact details, and assigns them a unique library membership ID. The system records the member's information, allowing for easy access to their borrowing history and enabling personalized services such as book recommendations or reservations.
 
-Upon successful payment processing, the website generates an order confirmation, which includes details such as the order number, purchased items, shipping address, and estimated delivery date. Simultaneously, the website updates the inventory to reflect the purchased items, ensuring accurate stock management.
+In addition to book borrowing and member registration, the Library Management System also provides cataloging capabilities. The library staff can use the system to catalog new books, including adding book details such as title, author, ISBN, publication year, and subject categories. The system generates a unique barcode or identifier for each book, facilitating efficient book tracking and inventory management.
 
-The e-commerce website then sends an order confirmation email to the customer's registered email address, providing a digital receipt and summarizing the order information. The email also includes relevant contact details and customer support information for any queries or concerns.
+Furthermore, the Library Management System enables the library staff to manage book returns. When a member returns a borrowed book, the staff scans the book's barcode using the system, verifies its condition, and updates the book's status as "available" in the system. The system automatically adjusts the member's borrowing limit and updates the member's borrowing history.
 
-Throughout the order fulfillment process, the website keeps the customer informed about the progress. This includes sending status updates, such as order processing, shipment tracking details, and notifications for any delays or changes to the estimated delivery date. These proactive notifications help maintain transparency and build trust with customers.
+The system also assists in managing library fines and notifications. If a member fails to return a book within the due date, the system calculates the fine based on predefined rules and sends a notification to the member. The system keeps track of fine payments and generates reports for the library administration.
 
-In summary, the e-commerce website streamlines the customer journey by providing an intuitive browsing experience, secure payment processing, and efficient order fulfillment. By effectively managing inventory and automating the order processing workflow, the website enhances the company's online presence, boosts customer satisfaction, and drives business growth in the competitive e-commerce landscape.
+In summary, the Library Management System provides an efficient solution for book borrowing, cataloging, and member registration processes. By automating these tasks, the system enables library staff to handle operations effectively, enhances book searching capabilities, and facilitates member services. The system improves resource utilization, ensures accurate cataloging, and enables seamless management of library operations for an enhanced library experience.
 
 ## Question
 Based on the case study, create a use case diagram that includes essential elements such as use cases, actors, relationships, and other components commonly found in use case diagrams.
@@ -37,8 +37,6 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 ![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
-
 
 
 
