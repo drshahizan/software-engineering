@@ -10,7 +10,7 @@ Don't forget to hit the :star: if you like this repo.
 | No | Topic |  File |
 | :-----: |  ------ | :-----: | 
 | 1 | Use case |  <a href="./project/proposal" ><img src="../images/ad.png" width="24px" height="24px" ></a> | 
-| 2 | Activity diagram| <a href="./assignment/API/submission/readme.md" ><img src="../images/ad.png" width="24px" height="24px" ></a> | 
+| 2 | Activity diagram| <a href="./uml/ad.md" ><img src="../images/ad.png" width="24px" height="24px" ></a> | 
 | 3 | Sequence diagram | <a href="./assignment/data-scraping/submission" ><img src="../images/ad.png" width="24px" height="24px" ></a> | 
 | 4 | Django | <a href="https://github.com/drshahizan/learn-django/blob/main/materials/assignment/submission" ><img src="../images/ad.png" width="24px" height="24px" ></a> | 
 | 5 | MongoDB | <a href="/materials/mongodb/submission/readme.md" ><img src="../images/ad.png" width="24px" height="24px" ></a> | 
