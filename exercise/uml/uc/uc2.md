@@ -30,6 +30,29 @@ In summary, the e-commerce website streamlines the customer journey by providing
 ## Question
 Based on the case study, create a use case diagram that includes essential elements such as use cases, actors, relationships, and other components commonly found in use case diagrams.
 
+### Submission
+Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `uc2.md`.
+
+### Folder structure
+
+```
+🗂️submission
+├─ 🗂️sec01
+├── 📄readme.md
+├── 📁drshahizan
+│   ├── 📄uc1.md
+│   ├── ...
+│   └── 📄uc5.md
+├── 📁your github id
+├─ 🗂️sec02
+├── 📄readme.md
+├── 📁drshahizan
+│   ├── 📄uc1.md
+│   ├── ...
+│   └── 📄uc5.md
+└── 📁your github id
+```
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
