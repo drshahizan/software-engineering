@@ -13,3 +13,14 @@ Don't forget to hit the :star: if you like this repo.
 | Flight Reservation System         | A flight reservation system for ticket bookings, seat assignments, and flight schedules.|
 | Library Management System         | A library management system for book borrowing, cataloging, andmember registration.|
 | ATM (Automated Teller Machine)    | An ATM system for cash withdrawals, balance inquiries, and fund transfers.|
+
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+
+
