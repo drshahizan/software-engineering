@@ -8,11 +8,47 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Case Study Question
 
-# Case Study 1: MSO Hospital Management System
+# Case Study: Hospital Management System
 
-## Description
+**Actor:** Hospital Staff, Patients
 
-The MSO Hospital is a large healthcare facility that serves a diverse patient population. Due to the increasing number of patients, the hospital has decided to implement a Hospital Management System to streamline various processes related to patient admissions, appointments, medical records, and billing. The system aims to improve the efficiency of hospital staff and enhance the overall patient experience. Hospital staff, including doctors, nurses, and administrative personnel, are the primary users of the system, while patients interact with it indirectly through the services provided by the staff. The preconditions for using the system include hospital staff having access to the system, patient information being available in the system, and the hospital having the necessary medical and billing infrastructure. The main flow of activities involves hospital staff logging into the system, selecting the desired function (such as admissions, appointments, medical records, or billing), performing specific actions based on the selected function, and the system validating and updating the data accordingly. For example, staff can enter patient information for admissions, schedule appointments, access and update medical records, and create bills based on services provided. The postconditions include the updated patient information, accessibility of records for future reference, and the provision of necessary medical services and billing information to patients. By implementing the Hospital Management System, MSO Hospital aims to improve operational efficiency, accuracy of records, and patient satisfaction.
+**Purpose:** The Hospital Management System aims to streamline patient admissions, appointments, medical records, and billing processes in XYZ Hospital, improving operational efficiency and enhancing the overall patient experience.
+
+**Preconditions:**
+- Hospital staff has access to the Hospital Management System.
+- Patient information is available in the system.
+- The hospital has the necessary medical and billing infrastructure.
+
+**Main Flow:**
+1. Hospital staff logs into the Hospital Management System.
+2. Staff selects the desired function (e.g., admissions, appointments, medical records, billing).
+3. The system presents the corresponding interface for the selected function.
+4. Staff performs the necessary actions based on the selected function:
+   - Admissions:
+     - Enter patient information for admission.
+     - Assign a room or bed to the patient.
+     - Generate an admission ID.
+   - Appointments:
+     - Check the availability of doctors.
+     - Schedule appointments for patients.
+     - Send appointment reminders.
+   - Medical Records:
+     - Access patient medical records.
+     - Update medical history, diagnoses, and treatment plans.
+     - Request lab tests and radiology examinations.
+   - Billing:
+     - Create bills for patients based on services provided.
+     - Calculate charges for medications, procedures, and consultations.
+     - Process payments and generate invoices.
+5. The system validates the entered information and performs necessary checks.
+6. If all information is valid, the system updates the corresponding data (e.g., patient records, appointment schedules, billing records).
+
+**Postconditions:**
+- Patient admissions, appointments, medical records, and billing information are updated in the system.
+- Hospital staff can access updated patient information for future reference.
+- Patients receive the necessary medical services and are billed accordingly.
+
+The Hospital Management System allows hospital staff to efficiently manage patient-related processes, ensuring accurate records and improved patient care. It enables staff to perform tasks such as patient admissions, appointment scheduling, medical record management, and billing. The system validates and updates the data to ensure accuracy and completeness. By implementing this system, XYZ Hospital aims to enhance operational efficiency, maintain comprehensive patient records, and provide better services to patients.
 
 ## Question
 Based on the Hospital Management System case study, create a use case description for the MSO Hospital Management System.
