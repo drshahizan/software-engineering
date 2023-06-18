@@ -6,8 +6,9 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Case Study 1a: Hospital Management System
+# Case Study 1: Hospital Management System
 
+## Description
 In a bustling hospital, there is a need for an efficient management system that can handle patient admissions, appointments, medical records, and billing. The hospital aims to streamline its operations, improve patient care, and ensure accurate billing processes. To achieve these goals, they plan to develop a comprehensive Hospital Management System.
 
 In this system, the front desk staff will have the ability to manage patient admissions seamlessly. When a patient arrives at the hospital, the front desk staff will select the "Admissions" option in the system. They will then enter the patient's personal and insurance information, which will be validated by the system. Once validated, a unique patient ID will be assigned, and an admission record will be generated. The front desk staff will assign a room to the patient and update their status as "Admitted" in the system. This information will be reflected in the patient's record, and the system will also update the availability of beds. The front desk staff will provide the patient with necessary forms and instructions, and the relevant departments will be notified of the new admission.
