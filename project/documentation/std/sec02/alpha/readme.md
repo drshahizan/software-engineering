@@ -74,16 +74,16 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 19/06/2023| Nur Farah Adibah Binti Idris | Main Developer | Create STD Document | Incomplete |
+| 1 | 19/06/2023| Farah | Main Developer | Create STD Document | Incomplete |
 | 2 | 19/06/2023 |   |  | Discuss on STD documentation |  |
 | 3 | 19/06/2023 |   |  | Distribute task |  |
-| 4 | 02/05/2023 | Nur Aleysha Qurratu'aini Binti Mat Salleh |  |  | |
-| 5 | 02/05/2023 | Nadhrah NurSabrina Binti Zulaini | Assistant Developer | |Incomplete | 
-| 6 | 03/05/2023 | All members |  |  |Complete | 
-| 7 | 18/04/2023 |Farah, Aleysha, NurSabrina|  |  | | 
-| 8 | 18/04/2023 | Farah, Aleysha, NurSabrina |  | | | 
-| 9 | 11/05/2023 | Nur Aleysha Qurratu'aini Binti Mat Salleh |   Assistant Developer  |  | | 
-| 10 | 11/05/2023 | All members |   |  | | 
+| 4 | 02/05/2023 |  |  |  | |
+| 5 | 02/05/2023 | |  | | | 
+| 6 | 03/05/2023 |  |  |  | | 
+| 7 | 18/04/2023 ||  |  | | 
+| 8 | 18/04/2023 |  |  | | | 
+| 9 | 11/05/2023 |  |    |  | | 
+| 10 | 11/05/2023 |  |   |  | | 
 
 
 ## Contribution 🛠️
