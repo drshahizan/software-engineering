@@ -77,7 +77,7 @@ Don't forget to hit the :star: if you like this repo.
 | 1 | 19/06/2023| Nur Farah Adibah Binti Idris | Main Developer | Create STD Document | Incomplete |
 | 2 | 19/06/2023 |   |  | Discuss on STD documentation |  |
 | 3 | 19/06/2023 |   |  | Distribute task |  |
-| 4 | 02/05/2023 | Nur Aleysha Qurratu'aini Binti Mat Salleh |  | Incomplete | 
+| 4 | 02/05/2023 | Nur Aleysha Qurratu'aini Binti Mat Salleh |  |  | |
 | 5 | 02/05/2023 | Nadhrah NurSabrina Binti Zulaini | Assistant Developer | |Incomplete | 
 | 6 | 03/05/2023 | All members |  |  |Complete | 
 | 7 | 18/04/2023 |Farah, Aleysha, NurSabrina|  |  | | 
