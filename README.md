@@ -31,6 +31,7 @@ This course is designed to give students an introduction to an engineering appro
 8. [Book](./materials/book.md)
 9. [Software Requirements Document (SRD): Academic Course Registration System](./materials/SRD-sample.md) 🆕
 10. [Class exercise: Module 4](./materials/module4) 🆕
+11. [UML Exercise]()
 
 ## Weekly Schedule
 
