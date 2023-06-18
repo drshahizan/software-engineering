@@ -46,10 +46,10 @@ Don't forget to hit the :star: if you like this repo.
 - Hospital staff can access updated patient information for future reference.
 - Patients receive the necessary medical services and are billed accordingly.
 
-The Hospital Management System allows hospital staff to efficiently manage patient-related processes, ensuring accurate records and improved patient care. It enables staff to perform tasks such as patient admissions, appointment scheduling, medical record management, and billing. The system validates and updates the data to ensure accuracy and completeness. By implementing this system, XYZ Hospital aims to enhance operational efficiency, maintain comprehensive patient records, and provide better services to patients.
+The Hospital Management System allows hospital staff to efficiently manage patient-related processes, ensuring accurate records and improved patient care. It enables staff to perform tasks such as patient admissions, appointment scheduling, medical record management, and billing. The system validates and updates the data to ensure accuracy and completeness. By implementing this system, MSO Hospital aims to enhance operational efficiency, maintain comprehensive patient records, and provide better services to patients.
 
 ## Question
-Based on the Hospital Management System case study, create a use case description for the MSO Hospital Management System.
+Based on the Hospital Management System case study, create a activity diagram for the MSO Hospital Management System.
 
 ### Submission
 Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `ucd1.md`.
