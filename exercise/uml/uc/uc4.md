@@ -6,7 +6,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Case Study 2: Library Management System
+# Case Study 4: Library Management System
 
 ## Description
 A public library is in need of a Library Management System to efficiently manage book borrowing, cataloging, and member registration processes. The goal is to provide library staff and members with a streamlined system that automates tasks, simplifies book searching, ensures accurate cataloging, and facilitates member registration. The Library Management System aims to enhance the overall library experience, improve resource utilization, and enable effective administration of library operations.
