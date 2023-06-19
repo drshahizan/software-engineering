@@ -1,5 +1,10 @@
 <h1>Implementation Planning Draft<h1>
-  
+
+<h2>Objectives</h2>
+The objective of project implementation is to successfully execute and complete a project in accordance with the previously established objectives, scope, timeframe, and budget. 
+Processing...
+
+
 <h2>Task Breakdown</h2>
   
 1. Review the Acceptance Criteria:
@@ -45,7 +50,8 @@
 - Schedule regular demos or presentations to showcase the implemented features and gather feedback for further improvements.
 
 <h2>Resource Requirement</h2>
-1. Development Resources:
+
+1. Development Resources:  
 - Skilled app developers (front-end and back-end)
 - UI/UX designers for creating an intuitive user interface
 - Project manager to oversee the development process
