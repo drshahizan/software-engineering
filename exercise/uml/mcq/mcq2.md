@@ -7,34 +7,43 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Case Study: Online Bookstore System
+# Case Study: Library Management System
 
 ## Introduction
-An online bookstore system is a web-based application that allows users to browse and purchase books online. The system provides features such as searching for books, adding them to a shopping cart, and completing the purchase transaction. The system consists of two main actors: User and Admin. Users can search for books based on various criteria, view book details, add books to their cart, manage the cart contents, and proceed to checkout. Admins are responsible for managing the book inventory and user accounts. They can add, update, or remove books from the system's inventory and manage user registration, login, and account deletion.
+A Library Management System (LMS) is a software application that automates the management of library resources, including books, magazines, and other materials. The LMS provides functionality for library staff and patrons to perform tasks such as searching for books, borrowing and returning items, managing user accounts, and generating reports. Let's explore the system requirements and model them using UML diagrams.
 
 ## Use Case Diagram
-The use case diagram illustrates the interactions between actors and the system's functionality. It showcases use cases such as "Search Books," "View Book Details," "Add to Cart," "Manage Cart," and "Checkout" for the User actor. The Admin actor has use cases like "Manage Inventory" and "Manage Users."
+The use case diagram represents the interactions between actors and the system's functionality. It showcases use cases such as "Search Books," "Borrow Item," "Return Item," "Manage User Account," and "Generate Reports" for both library staff and patrons.
 
 ## Activity Diagram
-The activity diagram represents the flow of activities within the system. It showcases the steps involved in processes such as searching for books, adding books to the cart, managing the cart contents, and completing the checkout process.
+The activity diagram depicts the flow of activities within the system. It showcases the steps involved in processes such as searching for books, borrowing and returning items, managing user accounts, and generating reports.
 
 ## Sequence Diagram
-The sequence diagram depicts the interaction between objects over time. It illustrates the sequence of messages exchanged between objects during processes such as searching for books, adding them to the cart, and completing the purchase transaction.
+The sequence diagram illustrates the interaction between objects over time. It showcases the sequence of messages exchanged between objects during processes such as borrowing and returning items.
 
 ## System Description
-The online bookstore system enables users to search for books by title, author, or genre. Upon selecting a book, users can view detailed information such as the book's description, price, and availability. They can add books to their shopping cart for purchase and manage the contents of the cart by adding or removing items. When ready, users can proceed to checkout and complete the purchase transaction.
+The Library Management System involves two main actors: Library Staff and Patrons. Library Staff is responsible for managing the library's collection, while Patrons are the individuals who borrow and return items.
 
-Admins have access to additional functionality. They can manage the book inventory by adding new books, updating existing book details, or removing books from the system. Admins are also responsible for managing user accounts, including user registration, login, and account deletion.
+The main functionality of the system includes:
+
+1. **Search Books**: Both library staff and patrons can search for books based on various criteria such as title, author, or category.
+2. **Borrow Item**: Patrons can borrow books by selecting the desired item and providing their library account details.
+3. **Return Item**: Patrons can return borrowed items by submitting them to the library staff.
+4. **Manage User Account**: Patrons can manage their account details, including updating personal information and viewing borrowing history.
+5. **Manage Library Collection**: Library staff can add new books, update existing book details, and remove items from the library collection.
+6. **Generate Reports**: Library staff can generate reports on various aspects, such as borrowing statistics, overdue items, and popular books.
+
+The Library Management System aims to provide an efficient and user-friendly interface for patrons to access library resources, borrow items seamlessly, and facilitate effective library management for staff.
 
 ## Multiple Choice Questions
 
-1. What is the purpose of the use case diagram in the online bookstore system?
-   - a. To show the detailed steps of the checkout process.
-   - b. To depict the interactions between actors and the system's functionality.
+1. What is the purpose of the use case diagram in the Library Management System?
+   - a. To depict the interactions between library staff and patrons.
+   - b. To show the detailed steps of the borrowing process.
    - c. To represent the flow of activities within the system.
    - d. To illustrate the sequence of messages exchanged between objects.
 
-2. Which UML diagram is used to represent the behavior of a single use case?
+2. Which UML diagram is best suited to represent the behavior of a single use case?
    - a. Class diagram.
    - b. Sequence diagram.
    - c. Activity diagram.
@@ -46,50 +55,82 @@ Admins have access to additional functionality. They can manage the book invento
    - c. Diamond shape.
    - d. Arrow.
 
-4. What does the sequence diagram illustrate in the online bookstore system?
+4. What does the sequence diagram illustrate in the Library Management System?
    - a. The flow of control between activities.
    - b. The interaction between objects over time.
    - c. The relationships between classes and their attributes.
    - d. The structure of the system components.
 
-5. Which actor is responsible for managing the book inventory in the online bookstore system?
-   - a. User.
-   - b. Admin.
-   - c. Book.
-   - d. Cart.
+5. Which actor is responsible for managing the library collection in the Library Management System?
+   - a. Library Staff.
+   - b. Patrons.
+   - c. Books.
+   - d. Reports.
 
-6. What is the purpose of the "Search Books" use case in the online bookstore system?
-   - a. To allow users to add books to their shopping cart.
-   - b. To enable users to view detailed information about a selected book.
-   - c. To provide admins with the ability to manage the book inventory.
-   - d. To allow users to search for books based on various criteria.
+6. What is the purpose of the "Borrow Item" use case in the Library Management System?
+   - a. To allow patrons to search for books.
+   - b. To enable patrons to borrow library items.
+   - c. To provide library staff with access to patron account details.
+   - d. To generate reports on borrowing statistics.
 
-7. Which diagram is best suited to depict the flow of activities within a single use case?
+7. Which diagram is most suitable for depicting the flow of activities within a single use case?
    - a. Use case diagram.
    - b. Class diagram.
    - c. Activity diagram.
    - d. State machine diagram.
 
-8. Which diagram would be most useful for modeling the relationships between classes in the online bookstore system?
+8. Which diagram would be most useful for modeling the relationships between classes in the Library Management System?
    - a. Use case diagram.
    - b. Class diagram.
    - c. Activity diagram.
    - d. State machine diagram.
 
-9. What is the purpose of the "Checkout" use case in the online bookstore system?
-   - a. To allow users to search for books.
-   - b. To enable users to view book details.
-   - c. To add books to the shopping cart.
-   - d. To complete the purchase transaction.
+9. What is the purpose of the "Return Item" use case in the Library Management System?
+   - a. To allow patrons to search for books.
+   - b. To enable patrons to borrow library items.
+   - c. To provide library staff with access to patron account details.
+   - d. To facilitate the return of borrowed items.
 
-10. Who is responsible for managing user accounts in the online bookstore system?
-    - a. User.
-    - b. Admin.
-    - c. Book.
-    - d. Cart.
+10. Who is responsible for managing user accounts in the Library Management System?
+    - a. Library Staff.
+    - b. Patrons.
+    - c. Books.
+    - d. Reports.
+
+11. What is the main functionality of the Library Management System?
+    - a. Searching for books.
+    - b. Generating reports.
+    - c. Managing user accounts.
+    - d. All of the above.
+
+12. Which actor can borrow items in the Library Management System?
+    - a. Library Staff.
+    - b. Patrons.
+    - c. Books.
+    - d. Reports.
+
+13. What does the activity diagram represent in the Library Management System?
+    - a. Interactions between actors and the system's functionality.
+    - b. The flow of activities within the system.
+    - c. The interaction between objects over time.
+    - d. The structure of the system components.
+
+14. Which UML diagram illustrates the interaction between objects over time?
+    - a. Use case diagram.
+    - b. Sequence diagram.
+    - c. Activity diagram.
+    - d. State machine diagram.
+
+15. Which functionality of the Library Management System allows library staff to add,
+
+ update, and remove books?
+    - a. Search Books.
+    - b. Borrow Item.
+    - c. Manage User Account.
+    - d. Manage Library Collection.
 
 ### Submission
-Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `mcq1.md`.
+Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `mcq2.md`.
 
 ### Folder structure
 
