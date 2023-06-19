@@ -72,8 +72,8 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provide recommendations and functions that students need in a Student Engagement System</td>
   </tr>
 </table>
-## Tasks involved in developing SRC documentation:
 
+## Tasks involved in developing SRC documentation
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 19/04/2023 | Bernice Lim Jing Xuan | Project Manager | Create project plan | Complete |
