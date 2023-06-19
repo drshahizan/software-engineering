@@ -89,7 +89,7 @@ Admins have access to additional functionality. They can manage the book invento
     - d. Cart.
 
 ### Submission
-Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `uc1.md`.
+Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `mcq1.md`.
 
 ### Folder structure
 
