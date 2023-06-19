@@ -217,7 +217,7 @@ The following hardware and software are needed for managing and storing data:
 
 - Hardware: A server or hosting service with enough processing power and storage space to meet the website's data management and storage requirements.
 
-- Software: Express.js and Node.js for server-side processing, with MySQL serving as the RDBMS.  
+- Software: PHP for server-side processing, with MySQL serving as the RDBMS.  
 
 #### Flowchart and Block Diagram:
 
