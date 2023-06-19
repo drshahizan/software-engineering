@@ -17,7 +17,7 @@ Don't forget to hit the :star: if you like this repo.
 | 4 | Use case | Flight Reservation System | <a href="./uml/uc/uc3.md" ><img src="../images/ad.png" width="24px" height="24px" ></a> | 
 | 5 | Use case | Library Management System | <a href="./uml/uc/uc4.md" ><img src="../images/ad.png" width="24px" height="24px" ></a> | 
 | 6 | Use case | ATM (Automated Teller Machine) | <a href="./uml/uc/uc5.md" ><img src="../images/ad.png" width="24px" height="24px" ></a> | 
-| 6 | Use case | Hospital Management System | <a href="./uml/uc/uc6.md" ><img src="../images/ad.png" width="24px" height="24px" ></a> | 
+| 7 | Use case | Hospital Management System | <a href="./uml/uc/uc6.md" ><img src="../images/ad.png" width="24px" height="24px" ></a> | 
 
 
 ## Contribution 🛠️
