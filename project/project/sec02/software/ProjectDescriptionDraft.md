@@ -60,11 +60,11 @@
 ---
 
 ### 5. Results and Achievements:
-- Present the outcomes and achievements of the project.
-- Share any quantitative or qualitative data that demonstrates the success of the software solution.
-- Discuss any feedback received from stakeholders or users during the evaluation process.
+-Improved accessibility and convenience for students: The project provides students with easy access to their medical reports, allowing them to view their health information conveniently from any location with internet access.
+-Streamlined appointment management: Students can make appointments with healthcare providers directly through the system, reducing the need for manual scheduling and improving the overall efficiency of the appointment process.
+-Enhanced mental health awareness: The inclusion of a mental health self-test empowers students to assess their mental well-being and seek appropriate support if needed, promoting a proactive approach to mental health care.
+-Promoted health education: The provision of health tips within the system ensures that students have access to valuable health information, enabling them to make informed decisions and adopt healthy lifestyle practices.
 
----
 
 ### 6. Conclusion:
 - Summarize the overall project experience and lessons learned.
