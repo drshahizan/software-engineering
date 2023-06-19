@@ -29,66 +29,64 @@ Admins have access to additional functionality. They can manage the book invento
 ## Multiple Choice Questions
 
 1. What is the purpose of the use case diagram in the online bookstore system?
-   a. To show the detailed steps of the checkout process.
-   b. To depict the interactions between actors and the system's functionality.
-   c. To represent the flow of activities within the system.
-   d. To illustrate the sequence of messages exchanged between objects.
+   - a. To show the detailed steps of the checkout process.
+   - b. To depict the interactions between actors and the system's functionality.
+   - c. To represent the flow of activities within the system.
+   - d. To illustrate the sequence of messages exchanged between objects.
 
 2. Which UML diagram is used to represent the behavior of a single use case?
-   a. Class diagram.
-   b. Sequence diagram.
-   c. Activity diagram.
-   d. State machine diagram.
+   - a. Class diagram.
+   - b. Sequence diagram.
+   - c. Activity diagram.
+   - d. State machine diagram.
 
 3. In the activity diagram, what symbol is used to represent a decision point or conditional statement?
-   a. Circle with a cross inside.
-   b. Rectangle with rounded corners.
-   c. Diamond shape.
-   d. Arrow.
+   - a. Circle with a cross inside.
+   - b. Rectangle with rounded corners.
+   - c. Diamond shape.
+   - d. Arrow.
 
 4. What does the sequence diagram illustrate in the online bookstore system?
-   a. The flow of control between activities.
-   b. The interaction between objects over time.
-   c. The relationships between classes and their attributes.
-   d. The structure of the system components.
+   - a. The flow of control between activities.
+   - b. The interaction between objects over time.
+   - c. The relationships between classes and their attributes.
+   - d. The structure of the system components.
 
 5. Which actor is responsible for managing the book inventory in the online bookstore system?
-   a. User.
-   b. Admin.
-   c. Book.
-   d. Cart.
+   - a. User.
+   - b. Admin.
+   - c. Book.
+   - d. Cart.
 
 6. What is the purpose of the "Search Books" use case in the online bookstore system?
-   a. To allow users to add books to their shopping cart.
-   b. To enable users to view detailed information about a selected book.
-   c. To provide admins with the ability to manage the book inventory.
-   d. To allow users to search for books based on various criteria.
+   - a. To allow users to add books to their shopping cart.
+   - b. To enable users to view detailed information about a selected book.
+   - c. To provide admins with the ability to manage the book inventory.
+   - d. To allow users to search for books based on various criteria.
 
-7. Which diagram
-
- is best suited to depict the flow of activities within a single use case?
-   a. Use case diagram.
-   b. Class diagram.
-   c. Activity diagram.
-   d. State machine diagram.
+7. Which diagram is best suited to depict the flow of activities within a single use case?
+   - a. Use case diagram.
+   - b. Class diagram.
+   - c. Activity diagram.
+   - d. State machine diagram.
 
 8. Which diagram would be most useful for modeling the relationships between classes in the online bookstore system?
-   a. Use case diagram.
-   b. Class diagram.
-   c. Activity diagram.
-   d. State machine diagram.
+   - a. Use case diagram.
+   - b. Class diagram.
+   - c. Activity diagram.
+   - d. State machine diagram.
 
 9. What is the purpose of the "Checkout" use case in the online bookstore system?
-   a. To allow users to search for books.
-   b. To enable users to view book details.
-   c. To add books to the shopping cart.
-   d. To complete the purchase transaction.
+   - a. To allow users to search for books.
+   - b. To enable users to view book details.
+   - c. To add books to the shopping cart.
+   - d. To complete the purchase transaction.
 
 10. Who is responsible for managing user accounts in the online bookstore system?
-    a. User.
-    b. Admin.
-    c. Book.
-    d. Cart.
+    - a. User.
+    - b. Admin.
+    - c. Book.
+    - d. Cart.
 
 ### Submission
 Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `uc1.md`.
