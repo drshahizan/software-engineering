@@ -7,23 +7,88 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Case Study Question 1: Hospital Management System
+# Case Study: Online Bookstore System
 
-## Description
-In a bustling hospital, there is a need for an efficient management system that can handle patient admissions, appointments, medical records, and billing. The hospital aims to streamline its operations, improve patient care, and ensure accurate billing processes. To achieve these goals, they plan to develop a comprehensive Hospital Management System.
+## Introduction
+An online bookstore system is a web-based application that allows users to browse and purchase books online. The system provides features such as searching for books, adding them to a shopping cart, and completing the purchase transaction. The system consists of two main actors: User and Admin. Users can search for books based on various criteria, view book details, add books to their cart, manage the cart contents, and proceed to checkout. Admins are responsible for managing the book inventory and user accounts. They can add, update, or remove books from the system's inventory and manage user registration, login, and account deletion.
 
-In this system, the front desk staff will have the ability to manage patient admissions seamlessly. When a patient arrives at the hospital, the front desk staff will select the "Admissions" option in the system. They will then enter the patient's personal and insurance information, which will be validated by the system. Once validated, a unique patient ID will be assigned, and an admission record will be generated. The front desk staff will assign a room to the patient and update their status as "Admitted" in the system. This information will be reflected in the patient's record, and the system will also update the availability of beds. The front desk staff will provide the patient with necessary forms and instructions, and the relevant departments will be notified of the new admission.
+## Use Case Diagram
+The use case diagram illustrates the interactions between actors and the system's functionality. It showcases use cases such as "Search Books," "View Book Details," "Add to Cart," "Manage Cart," and "Checkout" for the User actor. The Admin actor has use cases like "Manage Inventory" and "Manage Users."
 
-Another crucial aspect of the Hospital Management System will be the ability to schedule patient appointments. The receptionist will log into the system and select the "Appointments" option. They will be able to view the available doctors and their schedules. Upon confirming the patient's preferred doctor and appointment date, the system will check the doctor's availability. If the time slot is available, the system will schedule the appointment and generate a confirmation message with the appointment details. The receptionist will then inform the patient about the scheduled appointment, ensuring effective coordination and reduced waiting times.
+## Activity Diagram
+The activity diagram represents the flow of activities within the system. It showcases the steps involved in processes such as searching for books, adding books to the cart, managing the cart contents, and completing the checkout process.
 
-Additionally, the Hospital Management System will empower the medical staff to manage patient medical records efficiently. The medical staff, upon logging into the system, will be able to access and update the patient's medical history, diagnosis, and treatment information. They can input the latest observations, treatments, and request additional tests or procedures if necessary. By saving the changes to the patient's record, the system will ensure that the medical information is up to date and easily accessible by the authorized personnel. The system will also generate notifications for the relevant departments or specialists, ensuring smooth coordination and continuity of care.
+## Sequence Diagram
+The sequence diagram depicts the interaction between objects over time. It illustrates the sequence of messages exchanged between objects during processes such as searching for books, adding them to the cart, and completing the purchase transaction.
 
-Lastly, the Hospital Management System will address the billing process, automating the generation of billing statements. The billing department will log into the system and access the patient's records to generate accurate billing statements. The system will integrate the patient's medical treatment information and calculate the charges accordingly. This automation will reduce errors and streamline the billing process, ensuring prompt and accurate invoicing for the patients.
+## System Description
+The online bookstore system enables users to search for books by title, author, or genre. Upon selecting a book, users can view detailed information such as the book's description, price, and availability. They can add books to their shopping cart for purchase and manage the contents of the cart by adding or removing items. When ready, users can proceed to checkout and complete the purchase transaction.
 
-In conclusion, the Hospital Management System will revolutionize the hospital's operations by providing seamless management of patient admissions, appointments, medical records, and billing. The system will improve efficiency, enhance patient care, and facilitate accurate billing processes, leading to a better overall hospital experience for both patients and staff.
+Admins have access to additional functionality. They can manage the book inventory by adding new books, updating existing book details, or removing books from the system. Admins are also responsible for managing user accounts, including user registration, login, and account deletion.
 
-## Question
-Based on the Hospital Management System case study, create a use case diagram that includes essential elements such as use cases, actors, relationships, and other components commonly found in use case diagrams.
+## Multiple Choice Questions
+
+1. What is the purpose of the use case diagram in the online bookstore system?
+   a. To show the detailed steps of the checkout process.
+   b. To depict the interactions between actors and the system's functionality.
+   c. To represent the flow of activities within the system.
+   d. To illustrate the sequence of messages exchanged between objects.
+
+2. Which UML diagram is used to represent the behavior of a single use case?
+   a. Class diagram.
+   b. Sequence diagram.
+   c. Activity diagram.
+   d. State machine diagram.
+
+3. In the activity diagram, what symbol is used to represent a decision point or conditional statement?
+   a. Circle with a cross inside.
+   b. Rectangle with rounded corners.
+   c. Diamond shape.
+   d. Arrow.
+
+4. What does the sequence diagram illustrate in the online bookstore system?
+   a. The flow of control between activities.
+   b. The interaction between objects over time.
+   c. The relationships between classes and their attributes.
+   d. The structure of the system components.
+
+5. Which actor is responsible for managing the book inventory in the online bookstore system?
+   a. User.
+   b. Admin.
+   c. Book.
+   d. Cart.
+
+6. What is the purpose of the "Search Books" use case in the online bookstore system?
+   a. To allow users to add books to their shopping cart.
+   b. To enable users to view detailed information about a selected book.
+   c. To provide admins with the ability to manage the book inventory.
+   d. To allow users to search for books based on various criteria.
+
+7. Which diagram
+
+ is best suited to depict the flow of activities within a single use case?
+   a. Use case diagram.
+   b. Class diagram.
+   c. Activity diagram.
+   d. State machine diagram.
+
+8. Which diagram would be most useful for modeling the relationships between classes in the online bookstore system?
+   a. Use case diagram.
+   b. Class diagram.
+   c. Activity diagram.
+   d. State machine diagram.
+
+9. What is the purpose of the "Checkout" use case in the online bookstore system?
+   a. To allow users to search for books.
+   b. To enable users to view book details.
+   c. To add books to the shopping cart.
+   d. To complete the purchase transaction.
+
+10. Who is responsible for managing user accounts in the online bookstore system?
+    a. User.
+    b. Admin.
+    c. Book.
+    d. Cart.
 
 ### Submission
 Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `uc1.md`.
