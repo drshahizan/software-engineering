@@ -52,7 +52,8 @@ Objectives of project implementation:
 - Address any bugs or issues discovered during testing and ensure the system is stable, reliable, and performs well under varying loads.
 
 8. UI Design:
-- Conduct user research and usability studies to understand the needs, preferences, and expectations of the students, staff, and administrators using the accommodation system.- Create UI wireframes, mockups, or prototypes using design tools or UI/UX software to visualize the layout, navigation, and interactions of the system.
+- Conduct user research and usability studies to understand the needs, preferences, and expectations of the students, staff, and administrators using the accommodation system.
+- Create UI wireframes, mockups, or prototypes using design tools or UI/UX software to visualize the layout, navigation, and interactions of the system.
 - Design an intuitive and visually appealing user interface that aligns with the university's branding guidelines and enhances the overall user experience.
 
 9. Version Control using GitHub:
