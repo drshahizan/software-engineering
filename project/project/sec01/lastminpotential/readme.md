@@ -35,7 +35,11 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-<img src="interviewWithDean.jpg" alt="Meeting with Dean of Faculty of Computing">
+## Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Project Document | <a href="https://docs.google.com/document/d/1X75pPbh5WDZcD1I6FS-6yC4SBbgDf41LpIdUpKBW8Hw/edit?usp=sharing" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 <table>
@@ -58,11 +62,18 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provide expectation of the system, and problem faced by public currently</td>
   </tr>
     <tr>
-    <td></td>
+    <td>Assoc. Prof. Dr. Mohd Shahizan bin Othman</td>
     <td>Faculty staff</td>
-    <td></td>
-    <td></td>
+    <td>Lecturer</td>
+    <td>Provide expectation of the system, and problem faced by public currently</td>
   </tr>
+   <tr>
+    <td>Ts. Mohd Hazri bin Ishak</td>
+    <td>Faculty staff</td>
+    <td>IT Supporting Staff</td>
+    <td>Provide expectation and suggestion for the system, and problem faced by public currently</td>
+  </tr>
+  
 </table>
 
 ## Tasks involved in developing SRC documentation:
@@ -74,11 +85,16 @@ Don't forget to hit the :star: if you like this repo.
 | 3 | 28/04/2023 | Chen Pyng Haw | Documentation Specialist | Create proposal | Complete |
 | 4 | 7/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Meeting with stakeholder 1,  PROF. TS. DR. WAN MOHD NASIR WAN NADIR | Complete |
 | 5 | 11/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Meeting with stakeholder 2, Ooi Wei Sian | Completed |
-| 6 | 12/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | SRS Documentation draf | Pending |
-| 7 | 14/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | UML diagram (actor, use case, sequence, activity diagram | Pending |
-| 8 | 19/05/2023 |  |  | Create system documentation | Incomplete |
-| 9 | 23/05/2023 |  |  | Discussion and assign task for system features part based on user case design | Incomplete |
-| 10 | 22/06/2023 |  |  | Create Software Maintanence Document | Incomplete |
+| 6 | 12/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | SRS Documentation draf | Complete |
+| 7 | 14/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | UML diagram (actor, use case, sequence, activity diagram | Complete |
+| 8 | 19/05/2023 | Chen Pyng Haw | Documentation Specialist | Create system documentation | Complete |
+| 9 | 21/05/2023 | Goh Jing Yang | UI/UX Designer | Create Low Fedility Wire frames | Complete | 
+| 10 | 23/05/2023 | Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Discussion and assign task for system features part based on user case design | Complete |
+| 11 | 25/05/2023| Tan Jun Yuan, Chen Pyng Haw | Project Manager, Documentation Specialist | Meeting with stakeholder 3, Assoc. Prof. Dr. Mohd Shahizan bin Othman | Completed |
+| 12 | 1/06/2023 | Goh Jing Yang | UI/UX Designer | Create High Fedility UI Design | Complete | 
+| 13 | 2/06/2023| Tan Jun Yuan, Chen Pyng Haw | Project Manager, Documentation Specialist | Meeting with stakeholder 4, Ts. Mohd Hazri bin Ishak | Complete |
+| 14 | 5/06/2023 | Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Finalise system documentation | Complete | 
+| 15 | 10/06/2023 | Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Finalise UI Deisgn | On-going | 
 
 
 
