@@ -8,9 +8,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Project: List of Groups
-
-The following information pertains to the group responsible for implementing the IEEE Software Requirements Specifications documentation. This group is tasked with creating a document that outlines the functional and non-functional requirements of the software system. They are responsible for gathering the necessary requirements, designing the system, implementing and testing the software, and documenting the software development process. Effective communication, collaboration, and coordination between the group members are critical to ensuring that the project meets its objectives and is delivered on time and within budget. The group should adhere to the guidelines outlined by the IEEE for Software Requirements Specifications documentation and use clear and concise language, appropriate notation, and a structured format to ensure that the document is easily understood by all stakeholders involved in the software development process.
+# Project
 
 
 ## Section 1
