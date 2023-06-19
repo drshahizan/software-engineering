@@ -27,7 +27,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
     <tr>
     <td>3. Nadhrah NurSabrina Binti Zulaini </td>
-    <td> Database Administrator & Assistant Developer </td>
+    <td> Documentation Specialist & Assistant Developer </td>
   </tr>
     <tr>
     <td>4. Nur Aleysha Qurratu'aini Binti Mat Salleh </td>
