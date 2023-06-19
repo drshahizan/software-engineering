@@ -12,8 +12,8 @@ Don't forget to hit the :star: if you like this repo.
 ## Multiple-choice questions
 | No | Topic |  Title |File |
 | :-----: |  ------ | ------ | :-----: | 
-| 1 | Use case | Hospital Management System | <a href="./uml/mcq/mcq1.md" ><img src="../images/ad.png" width="24px" height="24px" ></a> |
-| 2 | Use case description| MSO Hospital Management System | <a href="./uml/mcq/mcq2.md" ><img src="../images/ad.png" width="24px" height="24px" ></a> | 
+| 1 | UML | Online Bookstore System | <a href="./uml/mcq/mcq1.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> |
+| 2 | UML | Library Management System | <a href="./uml/mcq/mcq2.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
 
 ## Structured question
 | No | Topic |  Title |File |
