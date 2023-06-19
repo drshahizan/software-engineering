@@ -95,6 +95,7 @@ Don't forget to hit the :star: if you like this repo.
 | 17 | 08/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Scrum Meeting 1 | Complete |
 | 18 | 09/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Create user flow of the system | ToDo |
 | 19 | 09/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | Create information architecture of the system | ToDo |
+| 19 | 19/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | SDD Documentation Complete Package Diagram | In Progress |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
