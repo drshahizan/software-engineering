@@ -14,7 +14,7 @@ Don't forget to hit the :star: if you like this repo.
 | :-----: |  ------ | ------ | :-----: | 
 | 1 | UML | Online Bookstore System | <a href="./uml/mcq/mcq1.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> |
 | 2 | UML | Library Management System | <a href="./uml/mcq/mcq2.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
-| 3 | UML | Library Management System | <a href="./uml/mcq/mcq3.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
+| 3 | UML | Online Shopping System | <a href="./uml/mcq/mcq3.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
 
 ## Structured question
 | No | Topic |  Title |File |
