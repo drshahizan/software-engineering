@@ -27,7 +27,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
     <tr>
     <td>3. Nadhrah NurSabrina Binti Zulaini </td>
-    <td> Database Administrator & Assistant Developer </td>
+    <td> Documentation Specialist & Assistant Developer </td>
   </tr>
     <tr>
     <td>4. Nur Aleysha Qurratu'aini Binti Mat Salleh </td>
@@ -53,7 +53,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>2. Puan Rosnani bt Katip</td>
     <td>Pembantu Tadbir (P/O) Kolej Tun Dr Ismail</td>
     <td>Registrar</td>
-    <td>Provide information about the software (Google Form) that they currently use for the college room rental registration.</td>
+    <td>Provide information about the software (Google Form) that they currently use for college room rental registration.</td>
   </tr>
     <tr>
     <td>3. Jevanaraj A/L Balasuntharam </td>
@@ -76,15 +76,15 @@ Don't forget to hit the :star: if you like this repo.
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 19/06/2023| Farah | Main Developer | Create STD Document | Incomplete |
-| 2 | 19/06/2023 |   |  | Discuss on STD documentation |  |
-| 3 | 19/06/2023 |   |  | Distribute task |  |
-| 4 | 02/05/2023 |  |  |  | |
-| 5 | 02/05/2023 | |  | | | 
-| 6 | 03/05/2023 |  |  |  | | 
-| 7 | 18/04/2023 ||  |  | | 
-| 8 | 18/04/2023 |  |  | | | 
-| 9 | 11/05/2023 |  |    |  | | 
-| 10 | 11/05/2023 |  |   |  | | 
+| 2 | 19/06/2023 | Farah, Salini, Aleysha, Sabrina   | all members | Discuss on STD documentation | Incomplete |
+| 3 | 19/06/2023 | Farah  | Main Developer | Distribute task | Incomplete |
+| 4 | 22/06/2023 | Aleysha | Quality Assurance Engineer & Assistant Developer | Create test cases | Incomplete |
+| 5 | 22/06/2023 | Salini | Business Analyst & UI/UX Designer | Create test procedures | Incomplete | 
+| 6 | 23/06/2023 | Sabrina | Documentation Specialist & Assistant Developer | Create test results | Incomplete | 
+| 7 | 23/06/2023 | Farah | Main Developer | Create traceability matrix | Incomplete | 
+| 8 | 24/06/2023 | Sabrina | Documentation Specialist & Assistant Developer | Finalize the STD | Incomplete | 
+| 9 | |  |    |  | | 
+| 10 |  |  |   |  | | 
 
 ## Project Objective: 
 1. Simplifying the room rental procedure by making it easy for students to find available rooms, view details about the rooms, and complete the rental process without any trouble. The system should provide clear information about the rental terms and conditions, as well as any fees associated with the rental.
