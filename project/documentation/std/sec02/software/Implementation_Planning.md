@@ -58,6 +58,8 @@ The objective of project implementation is to successfully execute and complete 
 - Maintain regular communication with stakeholders, including PKU admin, KTDI MPP and PKU Doctor to gather feedback, address concerns, and keep them updated on the project's progress.
 - Schedule regular demos or presentations to showcase the implemented features and gather feedback for further improvements.
 
+<h2>Timeline</h2>
+
 <h2>Resource Requirement</h2>
 
 1. Development Resources:  
