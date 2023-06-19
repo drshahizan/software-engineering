@@ -38,96 +38,96 @@ The Library Management System aims to provide an efficient and user-friendly int
 ## Multiple Choice Questions
 
 1. What is the purpose of the use case diagram in the Library Management System?
-   a. To depict the interactions between library staff and patrons.
-   b. To show the detailed steps of the borrowing process.
-   c. To represent the flow of activities within the system.
-   d. To illustrate the sequence of messages exchanged between objects.
+   - a. To depict the interactions between library staff and patrons.
+   - b. To show the detailed steps of the borrowing process.
+   - c. To represent the flow of activities within the system.
+   - d. To illustrate the sequence of messages exchanged between objects.
 
 2. Which UML diagram is best suited to represent the behavior of a single use case?
-   a. Class diagram.
-   b. Sequence diagram.
-   c. Activity diagram.
-   d. State machine diagram.
+   - a. Class diagram.
+   - b. Sequence diagram.
+   - c. Activity diagram.
+   - d. State machine diagram.
 
 3. In the activity diagram, what symbol is used to represent a decision point or conditional statement?
-   a. Circle with a cross inside.
-   b. Rectangle with rounded corners.
-   c. Diamond shape.
-   d. Arrow.
+   - a. Circle with a cross inside.
+   - b. Rectangle with rounded corners.
+   - c. Diamond shape.
+   - d. Arrow.
 
 4. What does the sequence diagram illustrate in the Library Management System?
-   a. The flow of control between activities.
-   b. The interaction between objects over time.
-   c. The relationships between classes and their attributes.
-   d. The structure of the system components.
+   - a. The flow of control between activities.
+   - b. The interaction between objects over time.
+   - c. The relationships between classes and their attributes.
+   - d. The structure of the system components.
 
 5. Which actor is responsible for managing the library collection in the Library Management System?
-   a. Library Staff.
-   b. Patrons.
-   c. Books.
-   d. Reports.
+   - a. Library Staff.
+   - b. Patrons.
+   - c. Books.
+   - d. Reports.
 
 6. What is the purpose of the "Borrow Item" use case in the Library Management System?
-   a. To allow patrons to search for books.
-   b. To enable patrons to borrow library items.
-   c. To provide library staff with access to patron account details.
-
-
-   d. To generate reports on borrowing statistics.
+   - a. To allow patrons to search for books.
+   - b. To enable patrons to borrow library items.
+   - c. To provide library staff with access to patron account details.
+   - d. To generate reports on borrowing statistics.
 
 7. Which diagram is most suitable for depicting the flow of activities within a single use case?
-   a. Use case diagram.
-   b. Class diagram.
-   c. Activity diagram.
-   d. State machine diagram.
+   - a. Use case diagram.
+   - b. Class diagram.
+   - c. Activity diagram.
+   - d. State machine diagram.
 
 8. Which diagram would be most useful for modeling the relationships between classes in the Library Management System?
-   a. Use case diagram.
-   b. Class diagram.
-   c. Activity diagram.
-   d. State machine diagram.
+   - a. Use case diagram.
+   - b. Class diagram.
+   - c. Activity diagram.
+   - d. State machine diagram.
 
 9. What is the purpose of the "Return Item" use case in the Library Management System?
-   a. To allow patrons to search for books.
-   b. To enable patrons to borrow library items.
-   c. To provide library staff with access to patron account details.
-   d. To facilitate the return of borrowed items.
+   - a. To allow patrons to search for books.
+   - b. To enable patrons to borrow library items.
+   - c. To provide library staff with access to patron account details.
+   - d. To facilitate the return of borrowed items.
 
 10. Who is responsible for managing user accounts in the Library Management System?
-    a. Library Staff.
-    b. Patrons.
-    c. Books.
-    d. Reports.
+    - a. Library Staff.
+    - b. Patrons.
+    - c. Books.
+    - d. Reports.
 
 11. What is the main functionality of the Library Management System?
-    a. Searching for books.
-    b. Generating reports.
-    c. Managing user accounts.
-    d. All of the above.
+    - a. Searching for books.
+    - b. Generating reports.
+    - c. Managing user accounts.
+    - d. All of the above.
 
 12. Which actor can borrow items in the Library Management System?
-    a. Library Staff.
-    b. Patrons.
-    c. Books.
-    d. Reports.
+    - a. Library Staff.
+    - b. Patrons.
+    - c. Books.
+    - d. Reports.
 
 13. What does the activity diagram represent in the Library Management System?
-    a. Interactions between actors and the system's functionality.
-    b. The flow of activities within the system.
-    c. The interaction between objects over time.
-    d. The structure of the system components.
+    - a. Interactions between actors and the system's functionality.
+    - b. The flow of activities within the system.
+    - c. The interaction between objects over time.
+    - d. The structure of the system components.
 
 14. Which UML diagram illustrates the interaction between objects over time?
-    a. Use case diagram.
-    b. Sequence diagram.
-    c. Activity diagram.
-    d. State machine diagram.
+    - a. Use case diagram.
+    - b. Sequence diagram.
+    - c. Activity diagram.
+    - d. State machine diagram.
 
-15. Which functionality of the Library Management System allows library staff to add, update, and remove books?
-    a. Search Books.
-    b. Borrow Item.
-    c. Manage User Account.
-    d. Manage Library Collection.
+15. Which functionality of the Library Management System allows library staff to add,
+
+ update, and remove books?
+    - a. Search Books.
+    - b. Borrow Item.
+    - c. Manage User Account.
+    - d. Manage Library Collection.
 
 ### Submission
 Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `mcq2.md`.
