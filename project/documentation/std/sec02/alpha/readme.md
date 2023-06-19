@@ -86,6 +86,16 @@ Don't forget to hit the :star: if you like this repo.
 | 9 | 11/05/2023 |  |    |  | | 
 | 10 | 11/05/2023 |  |   |  | | 
 
+## Project Objective: 
+1. Simplifying the room rental procedure by making it easy for students to find available rooms, view details about the rooms, and complete the rental process without any trouble. The system should provide clear information about the rental terms and conditions, as well as any fees associated with the rental.
+
+2. Enhancing security by maintaining the security of user information and ensuring that the payment procedure is carried out safely.
+
+3. Streamlining administrative tasks by helping automate administrative processes like handling rental agreements, accepting payments, and producing reports.
+
+4. Improve user experience by providing a better user experience by offering features such as room choices, and user feedback. The system will ensure that any issues or concerns can be addressed in a timely manner.
+
+#### - Include sections such as project objectives, tasks breakdown, timeline, resource requirements, and any other relevant information you deem necessary.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
