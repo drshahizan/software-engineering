@@ -120,6 +120,51 @@ The main goal of the system is to simplify the college room rental process and e
 - Highlight any specific tools, technologies, or frameworks employed during the project.
 
 ## 3. Implementation:
+
+Tasks and Activities:
+
+1. Requirement Gathering: The group conducted meetings with college administrators, students, and staff to understand their needs and gather requirements for the room rental system. This involved identifying key features, user roles, and system constraints.
+
+2. System Design: Based on the gathered requirements, the group created a system design that included the three-tier architecture. The design involved defining the data model, user interfaces, application logic, and integration points.
+
+3. Database Design: The group designed the database schema to store information about students, rooms, bookings, payments, and user feedback. This involved creating tables, defining relationships, and establishing data integrity constraints.
+
+4. User Interface Development: The group developed the user interfaces for different system stakeholders, including the student registration form, room search and booking interface, payment processing screens, and administrative functions. The interfaces were designed to be intuitive, user-friendly, and responsive.
+
+5. Application Development: The group implemented the application logic using appropriate programming languages and frameworks. This involved developing modules for student registration, room searching and booking, payment processing, room cancellation, user feedback and review, and administrative functions.
+
+6. Integration and Testing: The group integrated the different software components and conducted comprehensive testing to ensure the system's functionality and performance. This involved unit testing, integration testing, and system testing to identify and fix any issues or bugs.
+
+7. Deployment and User Training: Once the system was tested and deemed stable, the group deployed it to a web server and conducted user training sessions for college staff and students. This ensured that users understood how to use the system effectively and efficiently.
+
+Software Components or Modules:
+
+1. Student Registration: This module allows students to create their accounts, provide personal information, and authenticate themselves for accessing the system.
+
+2. Room Search and Booking: This module enables students to search for available rooms based on their preferences (e.g., location, occupancy) and make bookings for specific dates and durations.
+
+3. Payment Processing: This module facilitates online payment for room bookings. It integrates with payment gateways to securely process transactions and update booking statuses upon successful payment.
+
+4. Room Cancellation: This module allows students to cancel their room bookings within a specified timeframe. It handles the cancellation process, updates the booking status, and initiates refund processes if applicable.
+
+5. User Feedback and Review: This module enables students to provide feedback and reviews for their room experiences. It allows them to rate and comment on various aspects of the rooms, providing valuable insights for future users.
+
+6. Administrative Functions: This module provides administrative features for college staff, such as managing room availability, reviewing booking requests, generating reports, and resolving any system-related issues.
+
+Challenges Faced and Solutions:
+
+1. Scalability: Ensuring that the system can handle a large number of concurrent users and room bookings was a challenge. To address this, the group implemented performance optimizations, such as database indexing, caching, and load balancing techniques.
+
+2. Payment Security: Integrating a secure payment processing system while complying with industry standards and regulations was challenging. The group addressed this by collaborating with reputable payment gateway providers and following best practices for secure payment handling.
+
+3. User Experience: Designing a user-friendly interface that catered to the diverse needs of students and staff was a challenge. The group conducted user testing sessions and gathered feedback to iteratively improve the interface and enhance the overall user experience.
+
+4. Data Integrity: Ensuring data consistency and integrity across multiple modules and database tables was a challenge. The group implemented appropriate data validation and transaction handling mechanisms to maintain data integrity and prevent data anomalies.
+
+5. System Integration: Integrating the different software components and ensuring seamless communication between modules posed a challenge. The group used well-defined APIs, standardized data formats, and thorough integration testing to address this challenge and achieve smooth system integration.
+
+Throughout the implementation phase, the group maintained open communication, regularly reviewed progress, and addressed challenges collaboratively. They also conducted thorough testing at each stage to identify and rectify any issues promptly, ensuring the successful development and deployment of the Kolej Tun Dr. Ismail College room rental system.
+
 - Detail the specific tasks and activities undertaken by your group.
 - Provide an overview of the software components or modules developed.
 - Describe any challenges faced during the implementation phase and how you addressed them.
