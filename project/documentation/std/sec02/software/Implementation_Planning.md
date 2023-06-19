@@ -1,8 +1,17 @@
 <h1>Implementation Planning Draft<h1>
 
 <h2>Objectives</h2>
-The objective of project implementation is to successfully execute and complete a project in accordance with the previously established objectives, scope, timeframe, and budget. 
-Processing...
+The objective of project implementation is to successfully execute and complete a project in accordance with the previously established objectives, scope, timeframe, and budget. The project plan will be put into practise, and resources, tasks, and activities will be coordinated and managed to get the desired results. 
+
+#### The objectives of project implementation will include :
+
+- Executing the project in a way that yields the expected outcomes or deliverables and achieves the planned objectives.
+- Ensuring the project is completed within the boundaries of the defined scope, and controlling any changes or deviations from the scope through efficient change control procedures.
+- Adhering to the schedule and timeline for the project, finishing tasks and activities within the allotted timeframes, and reaching project milestones.
+- Efficiently allocating and managing project resources, including personnel, budget, tools, and materials.
+- Engaging and communicating with project stakeholders, including clients such as student, medical officer and doctors by providing routine updates, resolving concerns or issues, and soliciting feedback to make sure the stakeholders' expectations and requirements are met.
+- Identifying, evaluating and mitigating project risks throughout the implementation process.
+- Ennsuring that the deliverables and results of the project adhere to the specified quality standards.
 
 
 <h2>Task Breakdown</h2>
