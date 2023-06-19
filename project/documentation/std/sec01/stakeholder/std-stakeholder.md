@@ -63,4 +63,30 @@ Objectives of project implementation:
 - Utilize version control features to tag and manage releases, allowing easy rollback and traceability of changes.
 
 ### 3. Timeline
+
 ### 4. Resource Requirements
+1. Project Manager: Neo Zheng Weng
+- Ensure prompt project completion by supervising the whole implementation process.
+- Effectively coordinate tasks and resource allocation.
+- To produce a user interface that is clear and aesthetically appealing, engage in UI/UX design activities.
+- Work together with stakeholders to get input and make sure they are happy.
+    
+2. Requirements Analyst & Developer Assistant: Wong Khai Shian Nicholas
+- To obtain specific needs for the accommodation system, conduct in-depth interviews, surveys, and workshops with key stakeholders.
+- Analyse current accomodation procedures to find problems and potential improvements.
+- Collaborate with the primary developer to help with the development duties.
+
+
+3. Documentation Specialist & Developer Assistant: Muhammad Danial
+- Create the system's documentation, which should include user manuals, technical specifications, and release notes.
+- Collaborate with the primary developer to help with the development duties.
+  
+4. IT Support & Main Developer: Joseph Lau Yeo Kai
+- Take the initiative in system integration, database design, and application development.
+- Make sure that resources are used effectively and that quality standards are followed.
+- Throughout the project, offer IT assistance and troubleshoot technological problems.
+ 
+5. Quality Assurance Analyst & Developer Assistant: Low Jie Sheng
+- To make sure the system works well and satisfies the requirements, do thorough testing, including unit, integration, and system testing.
+- Collaborate with the primary developer to help with the development duties.
+
