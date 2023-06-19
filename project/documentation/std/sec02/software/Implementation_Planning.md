@@ -11,7 +11,7 @@ The objective of project implementation is to successfully execute and complete 
 - Efficiently allocating and managing project resources, including personnel, budget, tools, and materials.
 - Engaging and communicating with project stakeholders, including clients such as student, medical officer and doctors by providing routine updates, resolving concerns or issues, and soliciting feedback to make sure the stakeholders' expectations and requirements are met.
 - Identifying, evaluating and mitigating project risks throughout the implementation process.
-- Ennsuring that the deliverables and results of the project adhere to the specified quality standards.
+- Ensuring that the deliverables and results of the project adhere to the specified quality standards.
 
 
 <h2>Task Breakdown</h2>
