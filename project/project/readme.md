@@ -22,7 +22,7 @@ The following information pertains to the group responsible for implementing the
 | 3 | Limapuluh | UTM Student Feedback System |<a href="https://github.com/users/drshahizan/projects/13" ><img src="../../images/task.png" width="24px" height="24px" ></a> |<a href="sec01/limapuluh" ><img src="../../images/data_folder.png" width="24px" height="24px" ></a>  |
 | 4 | Cutie | UTM Student Attendance Management System |<a href="https://github.com/users/drshahizan/projects/15" ><img src="../../images/task.png" width="24px" height="24px" ></a> | <a href="sec01/cutie" ><img src="../../images/data_folder.png" width="24px" height="24px" ></a> |
 | 5 | Systema | Student Engagement | <a href="https://github.com/users/drshahizan/projects/14" ><img src="../../images/task.png" width="24px" height="24px" ></a> | <a href="sec01/systema" ><img src="../../images/data_folder.png" width="24px" height="24px" ></a> |
-| 6 | Stakeholder | Student Accomodation System in KTDI |<a href="https://github.com/users/drshahizan/projects/16" ><img src="../../images/task.png" width="24px" height="24px" ></a> | <a href="sec01/stakeholder" ><img src="../../../images/data_folder.png" width="24px" height="24px" ></a> |
+| 6 | Stakeholder | Student Accomodation System in KTDI |<a href="https://github.com/users/drshahizan/projects/16" ><img src="../../images/task.png" width="24px" height="24px" ></a> | <a href="sec01/stakeholder" ><img src="../../images/data_folder.png" width="24px" height="24px" ></a> |
 
 ## Section 2
 
