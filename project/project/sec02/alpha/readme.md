@@ -113,6 +113,10 @@ Don't forget to hit the :star: if you like this repo.
 
 ## 6. Conclusion:
 - Summarize the overall project experience and lessons learned.
+  
+The Kolej Tun Dr. Ismail College room rental system project aims to simplify the room rental process for students and staff by developing a web-based system that automates the process of renting college rooms. The system will consist of a three-tier architecture with a presentation tier, application tier, and data tier.
+The system included features such as student registration, room searching and booking, payment processing, room cancellation, user feedback and review, and administrative functions. 
+
 - Reflect on the challenges faced and how they were overcome.
 - Highlight any future improvements or recommendations for further development. 
 
