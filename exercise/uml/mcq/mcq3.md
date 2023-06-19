@@ -7,130 +7,195 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Case Study: Library Management System
+# Case Study: Online Shopping System
 
 ## Introduction
-A Library Management System (LMS) is a software application that automates the management of library resources, including books, magazines, and other materials. The LMS provides functionality for library staff and patrons to perform tasks such as searching for books, borrowing and returning items, managing user accounts, and generating reports. Let's explore the system requirements and model them using UML diagrams.
+An Online Shopping System enables users to browse and purchase products from various vendors through a web-based platform. The system provides functionality for users to search for products, add them to a shopping cart, proceed to checkout, and complete the purchase transaction. It also allows vendors to manage their inventory, process orders, and track sales. Let's explore the system requirements and model them using Structural and Behavioral UML diagrams.
 
 ## Use Case Diagram
-The use case diagram represents the interactions between actors and the system's functionality. It showcases use cases such as "Search Books," "Borrow Item," "Return Item," "Manage User Account," and "Generate Reports" for both library staff and patrons.
+The use case diagram showcases the interactions between actors and the system's functionality. It includes use cases such as "Search Products," "Add to Cart," "Proceed to Checkout," "Process Order," and "Manage Inventory" for both users and vendors.
+
+## Class Diagram
+The class diagram represents the structure and relationships between classes and their attributes in the Online Shopping System. It includes classes such as "User," "Vendor," "Product," "Shopping Cart," "Order," and "Payment," along with their associations and multiplicity.
 
 ## Activity Diagram
-The activity diagram depicts the flow of activities within the system. It showcases the steps involved in processes such as searching for books, borrowing and returning items, managing user accounts, and generating reports.
+The activity diagram depicts the flow of activities within the system. It showcases the steps involved in processes such as searching for products, adding items to the shopping cart, proceeding to checkout, and processing orders.
 
 ## Sequence Diagram
-The sequence diagram illustrates the interaction between objects over time. It showcases the sequence of messages exchanged between objects during processes such as borrowing and returning items.
+The sequence diagram illustrates the interaction between objects over time. It showcases the sequence of messages exchanged between objects during processes such as adding items to the shopping cart, completing the checkout process, and processing orders.
 
 ## System Description
-The Library Management System involves two main actors: Library Staff and Patrons. Library Staff is responsible for managing the library's collection, while Patrons are the individuals who borrow and return items.
+The Online Shopping System involves two main actors: Users and Vendors. Users are the individuals who browse and purchase products, while Vendors are the sellers who offer products for sale.
 
 The main functionality of the system includes:
 
-1. **Search Books**: Both library staff and patrons can search for books based on various criteria such as title, author, or category.
-2. **Borrow Item**: Patrons can borrow books by selecting the desired item and providing their library account details.
-3. **Return Item**: Patrons can return borrowed items by submitting them to the library staff.
-4. **Manage User Account**: Patrons can manage their account details, including updating personal information and viewing borrowing history.
-5. **Manage Library Collection**: Library staff can add new books, update existing book details, and remove items from the library collection.
-6. **Generate Reports**: Library staff can generate reports on various aspects, such as borrowing statistics, overdue items, and popular books.
+1. **Search Products**: Users can search for products based on various criteria such as keywords, categories, or price range.
+2. **Add to Cart**: Users can add selected products to their shopping cart for later purchase.
+3. **Proceed to Checkout**: Users can review the items in their cart, enter shipping and payment details, and proceed to complete the purchase.
+4. **Process Order**: Vendors receive orders placed by users, update inventory, and arrange shipment.
+5. **Manage Inventory**: Vendors can add new products, update existing product details, and track inventory levels.
+6. **Track Sales**: Vendors can generate reports to analyze sales data and monitor their business performance.
 
-The Library Management System aims to provide an efficient and user-friendly interface for patrons to access library resources, borrow items seamlessly, and facilitate effective library management for staff.
+The Online Shopping System aims to provide a seamless and convenient shopping experience for users while offering a platform for vendors to showcase and sell their products effectively.
 
 ## Multiple Choice Questions
 
-1. What is the purpose of the use case diagram in the Library Management System?
-   - a. To depict the interactions between library staff and patrons.
-   - b. To show the detailed steps of the borrowing process.
-   - c. To represent the flow of activities within the system.
-   - d. To illustrate the sequence of messages exchanged between objects.
+### Structural UML Diagrams:
 
-2. Which UML diagram is best suited to represent the behavior of a single use case?
-   - a. Class diagram.
-   - b. Sequence diagram.
+1. Which UML diagram represents the structure and relationships between classes in the Online Shopping System?
+   - a. Use case diagram.
+   - b. Class diagram.
    - c. Activity diagram.
-   - d. State machine diagram.
+   - d. Sequence diagram.
 
-3. In the activity diagram, what symbol is used to represent a decision point or conditional statement?
-   - a. Circle with a cross inside.
-   - b. Rectangle with rounded corners.
-   - c. Diamond shape.
-   - d. Arrow.
-
-4. What does the sequence diagram illustrate in the Library Management System?
-   - a. The flow of control between activities.
+2. What does the class diagram illustrate in the Online Shopping System?
+   - a. The flow of activities within the system.
    - b. The interaction between objects over time.
    - c. The relationships between classes and their attributes.
    - d. The structure of the system components.
 
-5. Which actor is responsible for managing the library collection in the Library Management System?
-   - a. Library Staff.
-   - b. Patrons.
-   - c. Books.
-   - d. Reports.
-
-6. What is the purpose of the "Borrow Item" use case in the Library Management System?
-   - a. To allow patrons to search for books.
-   - b. To enable patrons to borrow library items.
-   - c. To provide library staff with access to patron account details.
-   - d. To generate reports on borrowing statistics.
-
-7. Which diagram is most suitable for depicting the flow of activities within a single use case?
+3. Which UML diagram showcases the organization and dependencies of system components?
    - a. Use case diagram.
-   - b. Class diagram.
-   - c. Activity diagram.
-   - d. State machine diagram.
+   - b. Component diagram.
+   - c. Composite structure diagram.
+   - d. Deployment diagram.
 
-8. Which diagram would be most useful for modeling the relationships between classes in the Library Management System?
+4. What is the purpose of the object diagram in the Online Shopping System?
+   - a. To depict the interactions between actors and the system's functionality.
+   - b. To show the detailed steps of the purchase transaction.
+   - c. To represent instances of classes and their relationships at a specific time.
+   - d. To illustrate the sequence of messages exchanged between objects.
+
+5. Which diagram would be most suitable for modeling the physical deployment of software components onto hardware nodes?
    - a. Use case diagram.
-   - b. Class diagram.
-   - c. Activity diagram.
-   - d. State machine diagram.
+   - b. Component diagram.
+   - c. Composite structure diagram.
+   - d. Deployment diagram.
 
-9. What is the purpose of the "Return Item" use case in the Library Management System?
-   - a. To allow patrons to search for books.
-   - b. To enable patrons to borrow library items.
-   - c. To provide library staff with access to patron account details.
-   - d. To facilitate the return of borrowed items.
+### Behavioral UML Diagrams:
 
-10. Who is responsible for managing user accounts in the Library Management System?
-    - a. Library Staff.
-    - b. Patrons.
-    - c. Books.
-    - d. Reports.
+6. What is the purpose of the activity diagram in the Online Shopping System?
+   - a. To depict the interactions between users and vendors.
+   - b. To show the detailed steps of the search process.
+   - c. To represent the flow of activities within the system.
+   - d. To illustrate the sequence of messages exchanged between objects.
 
-11. What is the main functionality of the Library Management System?
-    - a. Searching for books.
-    - b. Generating reports.
-    - c. Managing user accounts.
-    - d. All of the above.
+7. Which UML diagram represents the interaction between objects over time?
+   - a. Use case diagram.
+   - b. Component diagram.
+   - c. Interaction overview diagram.
+   - d. Sequence diagram.
 
-12. Which actor can borrow items in the Library Management System?
-    - a. Library Staff.
-    - b. Patrons.
-    - c. Books.
-    - d. Reports.
+8. In the sequence diagram, what does the arrow represent?
+   - a. Decision point or conditional statement.
+   - b. Control flow between activities.
+   - c. The interaction between objects.
+   - d. A specific point in time.
 
-13. What does the activity diagram represent in the Library Management System?
-    - a. Interactions between actors and the system's functionality.
-    - b. The flow of activities within the system.
-    - c. The interaction between objects over time.
-    - d. The structure of the system components.
+9. What is the purpose of the state diagram in the Online Shopping System?
+   - a. To depict the interactions between users and vendors.
+   - b. To show the detailed steps of the purchase transaction.
+   - c. To represent the flow of activities within the system.
+   - d. To illustrate the behavior of an object or system over time.
 
-14. Which UML diagram illustrates the interaction between objects over time?
+10. Which UML diagram showcases the timing constraints and behavior of objects in the Online Shopping System?
     - a. Use case diagram.
-    - b. Sequence diagram.
+    - b. Communication diagram.
+    - c. Timing diagram.
+    - d. State diagram.
+
+11. Which diagram is most suitable for representing the flow of activities within a use case in the Online Shopping System?
+    - a. Use case diagram.
+    - b. Class diagram.
     - c. Activity diagram.
-    - d. State machine diagram.
+    - d. State diagram.
 
-15. Which functionality of the Library Management System allows library staff to add,
+12. What does the use case diagram illustrate in the Online Shopping System?
+    - a. The flow of activities within the system.
+    - b. The interaction between objects over time.
+    - c. The relationships between classes and their attributes.
+    - d. The interactions between actors and the system's functionality.
 
- update, and remove books?
-    - a. Search Books.
-    - b. Borrow Item.
-    - c. Manage User Account.
-    - d. Manage Library Collection.
+13. Which UML diagram is used to represent the structure and relationships between classes in the Online Shopping System?
+    - a. Use case diagram.
+    - b. Class diagram.
+    - c. Activity diagram.
+    - d. Sequence diagram.
+
+14. What is the purpose of the communication diagram in the Online Shopping System?
+    - a. To depict the interactions between actors and the system's functionality.
+    - b. To show the detailed steps of the purchase transaction.
+    - c. To represent instances of classes and their relationships at a specific time.
+    - d. To illustrate the sequence of messages exchanged between objects.
+
+15. Which UML diagram showcases the organization and dependencies of system components in the Online Shopping System?
+    - a. Use case diagram.
+    - b. Component diagram.
+    - c. Composite structure diagram.
+    - d. Deployment diagram.
+
+16. In the class diagram, what does the association represent?
+    - a. Decision point or conditional statement.
+    - b. Control flow between activities.
+    - c. The interaction between objects.
+    - d. A relationship between classes.
+
+17. What is the purpose of the composite structure diagram in the Online Shopping System?
+    - a. To depict the interactions between actors and the system's functionality.
+    - b. To show the internal structure of a class, including its parts and collaborations.
+    - c. To represent instances of classes and their relationships at a specific time.
+    - d. To illustrate the behavior of an object or system over time.
+
+18. Which UML diagram represents the physical deployment of software components onto hardware nodes in the Online Shopping System?
+    - a. Use case diagram.
+    - b. Component diagram.
+    - c. Composite structure diagram.
+    - d. Deployment diagram.
+
+19. What does the object diagram illustrate in the Online Shopping System?
+    - a. The flow of activities within the system.
+    - b. The interaction between objects over time.
+    - c. The relationships between classes and their attributes.
+    - d. Instances of classes and their relationships at a specific time.
+
+20. Which diagram is most suitable for modeling the detailed steps and interactions during the purchase transaction in the Online Shopping System?
+    - a. Use case diagram.
+    - b. Class diagram.
+    - c. Activity diagram.
+    - d. Sequence diagram.
+
+21. What is the purpose of the timing diagram in the Online Shopping System?
+    - a. To depict the interactions between actors and the system's functionality.
+    - b. To show the internal structure of a class, including its parts and collaborations.
+    - c. To represent the timing constraints and behavior of objects.
+    - d. To illustrate the sequence of messages exchanged between objects.
+
+22. Which UML diagram represents the flow of activities within the Online Shopping System?
+    - a. Use case diagram.
+    - b. Component diagram.
+    - c. Activity diagram.
+    - d. State diagram.
+
+23. In the sequence diagram, what does the lifeline represent?
+    - a. Decision point or conditional statement.
+    - b. Control flow between activities.
+    - c. The interaction between objects.
+    - d. The lifespan of an object.
+
+24. What is the purpose of the interaction overview diagram in the Online Shopping System?
+    - a. To depict the interactions between actors and the system's functionality.
+    - b. To show the internal structure of a class, including its parts and collaborations.
+    - c. To represent the flow of activities within the system.
+    - d. To illustrate the interactions and control flow between objects.
+
+25. Which UML diagram showcases the behavior and transitions of an object or system in the Online Shopping System?
+    - a. Use case diagram.
+    - b. Class diagram.
+    - c. Activity diagram.
+    - d. State diagram.
 
 ### Submission
-Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `mcq2.md`.
+Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `mcq3.md`.
 
 ### Folder structure
 
