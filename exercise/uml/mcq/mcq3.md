@@ -122,9 +122,7 @@ The Online Shopping System aims to provide a seamless and convenient shopping ex
     - c. Activity diagram.
     - d. Sequence diagram.
 
-14. What is the purpose of the communication diagram in the Online
-
- Shopping System?
+14. What is the purpose of the communication diagram in the Online Shopping System?
     - a. To depict the interactions between actors and the system's functionality.
     - b. To show the detailed steps of the purchase transaction.
     - c. To represent instances of classes and their relationships at a specific time.
