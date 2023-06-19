@@ -61,8 +61,7 @@ The objective of project implementation is to successfully execute and complete 
 <br/>
 
 ## Timeline
-![Gantt chart](https://github.com/drshahizan/software-engineering/assets/128159572/66678b70-0e54-4d4f-8ebc-504b5e91c56e)
-
+![Gantt chart (1)](https://github.com/drshahizan/software-engineering/assets/128159572/412de734-ff2f-49df-a4f5-85a99ea99d11)
 <br/>
 
 ## Resource Requirement
