@@ -2,8 +2,14 @@
 ### 1. Objectives
 Project implementation is crucial to put plans into practise, accomplish project goals, produce deliverables, efficiently manage resources, react to changes, track progress, involve stakeholders, and promote learning and development. It serves as a link between concepts and outcomes, transforming project ideas into concrete results.
 
-### 3. Timeline
-### 4. Resource Requirements
+The project implementation objectives are the desired outcomes that we do hope to achieve during the project execution phase. These objectives act as a guide and provide a clear direction for us to ensure the project's success. 
+
+Objectives of project implementation:
+1. Timely completion: The project should be finished within the timeframe specified, with all deadlines and milestones met.
+2. Budget adherence: Carry out the project while staying within the specified budget and managing resources effectively to avoid cost overruns.
+3. High-quality delivery: Ensure that the project is carried out in accordance with the set standards and specifications, resulting in an extraordinary hostel system.
+4. Stakeholder satisfaction: Aim to meet the expectations and needs of project stakeholders, such as client (KTDI admin), and end users (UTM students, KTDI staff and KTDI fellow).
+5. Efficient resource utilisation: Maximise productivity while minimising waste by optimising the use of resources such as personnel, equipment, and materials.
 
 ### 2.Tasks Breakdown
 
@@ -44,3 +50,6 @@ Project implementation is crucial to put plans into practise, accomplish project
 - Conduct comprehensive testing, including unit testing, integration testing, and system testing, to ensure the system functions correctly and meets the specified requirements.
 - Perform usability testing to validate the user experience and gather feedback for further improvements.
 - Address any bugs or issues discovered during testing and ensure the system is stable, reliable, and performs well under varying loads.
+
+### 3. Timeline
+### 4. Resource Requirements
