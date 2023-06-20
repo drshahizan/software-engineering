@@ -74,15 +74,20 @@ Don't forget to hit the :star: if you like this repo.
 | 2 | 10/05/2023 | All Members | Project Members | Met our 1st stakeholder | Complete |
 | 3 | 11/05/2023 | All Members | Project Members | Met our 2nd and 3rd stakeholders | Complete |
 | 4 | 11/05/2023 | NAVACHANDER NAVASANTAR | Documentation Specialist | Assign task to project members for proposal| Complete | 
-| 5 | 12/05/2023 | All Members | Project Members | Updation of proposal | Partially Complete | 
-| 6 | 12/05/2023 | NAVACHANDER NAVASANTAR | Documantation Specialist | Assign task to project members for SRS Documentation | Incomplete | 
-| 6 | 14/05/2023 | All Members | Project Members | Updation of SRS Documentation | Incomplete | 
-| 7 | | | | | 
-| 8 | | | | | 
-| 9 | | | | | 
-| 10 | | | | | 
-| 11 | | | | | 
-| 12 | | | | | 
+| 5 | 12/05/2023 | All Members | Project Members | Updation of proposal |  Complete | 
+| 6 | 12/05/2023 | NAVACHANDER NAVASANTAR | Documantation Specialist | Assign task to project members for SRS Documentation | Complete | 
+| 6 | 14/05/2023 | All Members | Project Members | Updation of SRS Documentation | Complete | 
+| 7 | 17/05/2023 | All Members | Project Members | Creates UML Diagram, User Diagram,Activity Diagram. | Complete |
+| 8 | 19/05/2023 | All Members | Project Members | SRS Documentation Use Case Diagram Description | Complete |
+| 9 | 20/05/2023 | All Members | Project Members | Create System Documentation (SRS) | Ongoing |
+| 10 | 31/05/2023 | All Members | Project Members | Do Low Fidelity Wideframe | Complete |
+| 11 | 1/06/2023 | All Members | Project Members | Do High Fidelity Wideframe | Ongoing |
+| 12 | 05/06/2023 | All Members | Project Members | Create design of the system | Ongoing |
+| 13 | 05/06/2023 | All Members | Project Members | Scrum Meeting| Complete |
+| 14 | 12/06/2023 | All Members | Project Members | Scrum Meeting 2| Complete |
+| 15 | 20/06/2023 | All Members | Project Members | Create System Documentation (SDD) | Ongoing |
+| 16 | 22/06/2023 | All Members | Project Members | Create System Documentation (STD) | Ongoing |
+
 
 
 ## Contribution 🛠️
