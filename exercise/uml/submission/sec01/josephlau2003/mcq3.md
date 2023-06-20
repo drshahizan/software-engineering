@@ -1,4 +1,4 @@
-## MCQ Set: 2
+## MCQ Set: 3
 
 **Name: JOSEPH LAU YEO KAI**
 
@@ -7,23 +7,31 @@
 **Section: 01**
 
 ## Answer
-1. A
+1. B
 2. C
-3. C
-4. B
-5. A
-6. B
-7. C
-8. B
+3. B
+4. C
+5. D
+6. C
+7. D
+8. C
 9. D
-10. A
-11. D
-12. B
+10. C
+11. C
+12. D
 13. B
-14. B
-15. D
-
-
+14. D
+15. B
+16. D
+17. B
+18. D
+19. D
+20. D
+21. C
+22. C
+23. D
+24. C
+25. D
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
 
