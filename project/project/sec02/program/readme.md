@@ -109,8 +109,55 @@ In conclusion, this project holds immense significance for students, lecturers, 
 - Highlight any specific tools, technologies, or frameworks employed during the project.
 
 ## 3. Implementation:
-- Detail the specific tasks and activities undertaken by your group.
-- Provide an overview of the software components or modules developed.
+Requirements Gathering:
+
+Determine the goals and objectives of the academic consultation system.
+Identify the target audience (e.g., students, professors, advisors).
+Define the features and functionality required, such as scheduling appointments, communication channels, file sharing, etc.
+System Architecture:
+
+Design the overall system architecture, including backend and frontend components.
+Choose appropriate technologies for each component (e.g., programming languages, frameworks, databases).
+Backend Development:
+
+Implement the server-side logic responsible for handling requests and managing data.
+Set up a database to store user information, appointment details, messages, etc.
+Develop APIs (Application Programming Interfaces) for communication between frontend and backend.
+Frontend Development:
+
+Design and develop a user-friendly interface for different user roles (e.g., students, professors, advisors).
+Implement features such as appointment scheduling, messaging, file sharing, notifications, etc.
+Utilize appropriate frontend technologies such as HTML, CSS, JavaScript, and frontend frameworks like React, Angular, or Vue.js.
+Authentication and Authorization:
+
+Implement a secure user authentication system.
+Utilize techniques like password hashing, session management, and JWT (JSON Web Tokens).
+Define user roles and permissions to control access to different system functionalities.
+Appointment Management:
+
+Develop a mechanism for users to schedule appointments with professors or advisors.
+Implement features like availability checking, calendar integration, and notification reminders.
+Ensure proper handling of conflicts, cancellations, and rescheduling.
+Communication and Messaging:
+
+Set up a real-time communication system between users (e.g., students, professors, advisors).
+Implement features like instant messaging, chat history, and notifications.
+Consider using technologies like WebSockets or real-time communication frameworks like Socket.io.
+File Sharing:
+
+Provide a secure mechanism for users to share files and documents.
+Implement file upload/download functionality and ensure proper access control.
+Consider options like cloud storage integration or server-side file management.
+Testing and Quality Assurance:
+
+Conduct thorough testing to ensure the system functions as expected.
+Perform unit tests, integration tests, and end-to-end tests.
+Identify and fix any bugs or issues before deployment.
+Deployment and Maintenance:
+
+Deploy the system on a suitable hosting environment or cloud platform.
+Monitor system performance and ensure scalability and reliability.
+Regularly update and maintain the system to incorporate new features, security patches, and bug fixes.
 - Describe any challenges faced during the implementation phase and how you addressed them.
 
 ## 4. Testing and Quality Assurance:
