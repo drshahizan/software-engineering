@@ -1,14 +1,14 @@
 <mxfile host="65bd71144e">
     <diagram id="lte9NGJQB8r7DApe3pEH" name="Page-1">
-        <mxGraphModel dx="1015" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+        <mxGraphModel dx="587" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
                     <mxGeometry x="290" y="30" width="380" height="760" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="Admission Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="310" y="90" width="110" height="30" as="geometry"/>
+                <mxCell id="2" value="Patient Admission Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="90" width="150" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="310" y="120" width="340" height="200" as="geometry"/>
@@ -28,8 +28,8 @@
                 <mxCell id="8" value="UC005: Notify New Admission" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="320" y="250" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="Admission Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="310" y="340" width="110" height="30" as="geometry"/>
+                <mxCell id="9" value="Appointment Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="340" width="130" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="310" y="370" width="290" height="100" as="geometry"/>
@@ -43,7 +43,7 @@
                 <mxCell id="16" value="&lt;h3 style=&quot;font-size: 17px;&quot;&gt;Hospital Management System&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
                     <mxGeometry x="355" y="40" width="250" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" value="Manage Record Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="17" value="Medical Records Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="310" y="490" width="150" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -55,8 +55,8 @@
                 <mxCell id="20" value="UC009: Generate Notification" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="460" y="550" width="120" height="57.5" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="Admission Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="310" y="640" width="110" height="30" as="geometry"/>
+                <mxCell id="21" value="Billing Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="640" width="100" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="310" y="670" width="290" height="100" as="geometry"/>
