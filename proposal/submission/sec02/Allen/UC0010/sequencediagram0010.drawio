@@ -1,0 +1,78 @@
+<mxfile host="65bd71144e">
+    <diagram id="-HYoioWi9R5INo8XJpM0" name="Page-1">
+        <mxGraphModel dx="1327" dy="1635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="User" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="120" width="20" height="900" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="2">
+                    <mxGeometry x="5" y="70" width="10" height="540" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Payment Gateway" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="120" width="100" height="900" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="4">
+                    <mxGeometry x="45" y="70" width="10" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="4">
+                    <mxGeometry x="45" y="390" width="10" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="KTDI Minimart Online System" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="620" y="120" width="100" height="910" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="7">
+                    <mxGeometry x="45" y="270" width="10" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Select Payment Method" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+                    <mxGeometry x="-0.0001" width="80" relative="1" as="geometry">
+                        <mxPoint x="130" y="220" as="sourcePoint"/>
+                        <mxPoint x="500" y="220" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="Transmit Payment Information" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="2" target="4">
+                    <mxGeometry width="80" relative="1" as="geometry">
+                        <mxPoint x="130" y="407" as="sourcePoint"/>
+                        <mxPoint x="495" y="375" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="270" y="440"/>
+                            <mxPoint x="410" y="440"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.524;exitY=0.335;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.029;entryY=0.101;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4" target="8">
+                    <mxGeometry x="0.9385" y="29" width="80" relative="1" as="geometry">
+                        <mxPoint x="510" y="419" as="sourcePoint"/>
+                        <mxPoint x="660" y="422" as="targetPoint"/>
+                        <mxPoint x="1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="Payment Cancelled" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.009;exitY=0.898;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8">
+                    <mxGeometry x="-0.0006" relative="1" as="geometry">
+                        <mxPoint x="660" y="660" as="sourcePoint"/>
+                        <mxPoint x="120" y="659" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="Send Authorization" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="525" y="400" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Failed Authorization" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.009;exitY=0.898;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+                    <mxGeometry x="-0.0006" relative="1" as="geometry">
+                        <mxPoint x="665.0900000000001" y="560.3999999999999" as="sourcePoint"/>
+                        <mxPoint x="500" y="560" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+                    <mxGeometry x="370" y="480" width="330" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="UC009:Sequence Diagram" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="70" width="710" height="970" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
