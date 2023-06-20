@@ -47,30 +47,7 @@ Lastly, the Hospital Management System will address the billing process, automat
 In conclusion, the Hospital Management System will revolutionize the hospital's operations by providing seamless management of patient admissions, appointments, medical records, and billing. The system will improve efficiency, enhance patient care, and facilitate accurate billing processes, leading to a better overall hospital experience for both patients and staff.
 
 ## Question
-Based on the Hospital Management System case study, create a use case diagram that includes essential elements such as use cases, actors, relationships, and other components commonly found in use case diagrams.
-
-### Submission
-Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `uc1.md`.
-
-### Folder structure
-
-```
-🗂️submission
-├─ 🗂️sec01
-├── 📄readme.md
-├── 📁drshahizan
-│   ├── 📄uc1.md
-│   ├── ...
-│   └── 📄uc5.md
-├── 📁your github id
-├─ 🗂️sec02
-├── 📄readme.md
-├── 📁drshahizan
-│   ├── 📄uc1.md
-│   ├── ...
-│   └── 📄uc5.md
-└── 📁your github id
-```
+Based on the Hospital Management System case study, create a **use case diagram** that includes essential elements such as use cases, actors, relationships, and other components commonly found in use case diagrams.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
