@@ -16,7 +16,9 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 01**
 
 ## Answer
-<img src = "struc1.jpg" width = 400png height = 200png>
+<p style:textalign="center">
+<img src = "struc1.jpg" width = 700png height = 400png>
+</p>
 
 </html>
 
