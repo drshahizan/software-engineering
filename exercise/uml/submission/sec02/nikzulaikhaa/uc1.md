@@ -7,13 +7,13 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set:
+## Set 1:
 
-**Name:**
+**Name:Nik Zulaikhaa Binti Zuraidi Afandi**
 
-**Matrix No:**
+**Matrix No:A22EC0232**
 
-**Section:**
+**Section:02**
 
 ## Answer
 
