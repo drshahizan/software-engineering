@@ -107,6 +107,8 @@ Don't forget to hit the :star: if you like this repo.
 | 8. | 02/07/2023 | Lee Soon Der | User Experience Designer | Create System Design Document | Partially Complete |
 | 9. | 24/05/2023 | All members | - | Designing the System | Complete |
 | 10. | 07/05/2023| Lee Soon Der | User Experience Designer | Prototyping | Complete |
+| 11. | 20/06/2023 | All members| - | Complete Project Summary | Incomplete |
+| 12. | 20/06/2023 | Marcus Joey Sayner | Software Developer | Create System Testing Documentation | Incomplete |
 
 
 ## Contribution 🛠️

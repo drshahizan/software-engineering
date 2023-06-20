@@ -28,3 +28,7 @@
 - Summarize the overall project experience and lessons learned.
 - Reflect on the challenges faced and how they were overcome.
 - Highlight any future improvements or recommendations for further development.
+
+## Figma:
+### Overall flow:
+https://www.figma.com/proto/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=0-1&scaling=min-zoom&starting-point-node-id=171%3A377
