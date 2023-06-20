@@ -4,6 +4,8 @@
 
 **Section:02**
 
+***USE CASE DESCRIPTION***
+
 **1. Use Case: Log into the System**
    - Actors: Hospital Staff
    - Preconditions: The Hospital Staff has access credentials for the system.
