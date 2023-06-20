@@ -42,7 +42,7 @@ Don't forget to hit the :star: if you like this repo.
 ## Documentation
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Document SDD| <a href="https://docs.google.com/document/d/1z2MTQhtCGxNOgXiJt_E3BG9wN40uWtly/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|1| Document SDD| <a href="https://docs.google.com/document/d/1x8wI4iyAO2i65-GcWjOFYKX29X5chyArNLyaI90yp3s/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
 |2| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
