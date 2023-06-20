@@ -16,7 +16,7 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 02**
 
 ## Answer
-![image](https://github.com/drshahizan/software-engineering/assets/128159572/30196f62-f3a0-4f88-ad51-eafdb0d1849c)
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
