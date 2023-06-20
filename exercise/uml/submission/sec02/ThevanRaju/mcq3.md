@@ -39,7 +39,7 @@ Don't forget to hit the :star: if you like this repo.
 21. C
 22. C
 23. D
-24.
+24. C
 25.
 
 
