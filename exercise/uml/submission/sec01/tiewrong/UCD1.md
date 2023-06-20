@@ -17,6 +17,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Answer
 | MSO Hospital Management System |
+|-----:|
 | Use Case | 
 
 ## Contribution 🛠️
