@@ -7,65 +7,30 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set:
+## MCQ Set 2:
 
-**Name:**
+**Name: Lim Jing Yong**
 
-**Matrix No:**
+**Matrix No: A22EC0182**
 
-**Section:**
+**Section: 01**
 
 ## Answer
-1. B
+1. A
 2. C
-3. B
-4. C
-5. D
-6. C
-7. D
-8. C
-9. B
-10. C
-11. C
-12. D
+3. C
+4. B
+5. A
+6. B
+7. C
+8. B
+9. D
+10. A
+11. A
+12. B
 13. B
-14. D
-15. B
-16. D
-17. B
-18. D
-19. D
-20. C
-21. C
-22. C
-23. D
-24. C
-25. D
-26.
-27.
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
-41.
-42.
-43.
-44.
-45.
-46.
-47.
-48.
-49.
-50.
+14. B
+15. D
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
