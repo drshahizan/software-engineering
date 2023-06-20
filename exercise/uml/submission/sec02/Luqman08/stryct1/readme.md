@@ -16,7 +16,8 @@ Don't forget to hit the :star: if you like this repo.
 **Section:** 02
 
 ## Answer
-![struct1 drawio (1)](https://github.com/drshahizan/software-engineering/assets/128146716/242f4aee-d44d-45e2-a0ee-d6e915291fb4)
+![struct1 drawio (2)](https://github.com/drshahizan/software-engineering/assets/128146716/16f83936-77f2-4a76-9985-5ed8d08cd3d2)
+
 
 
 ## Contribution 🛠️
