@@ -7,10 +7,12 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# JavaScript: Fundamental
+# MCQ Title:
 
 **Name:**
+
 **Matrix No:**
+
 **Section:**
 
 ## Set A
