@@ -41,7 +41,7 @@ Don't forget to hit the :star: if you like this repo.
       Receptionist
       Medical Staff
       Billing Officer
-    </td>
+   
   </tr>
   <tr>
     <td>
@@ -55,10 +55,10 @@ Don't forget to hit the :star: if you like this repo.
             3. Hospital staff perform specific actions based on the selected function. 
       <br>
             4. System validate and update the data accordingly.
-        </td>
+        
       <br>
       
-    </td>
+    
   </tr>
   <tr>
     <td>
