@@ -6,6 +6,7 @@
 
 **Section:** 02
 
-## Answer
 
+## Answer
+<img src="https://github.com/drshahizan/software-engineering/assets/128119778/36553cd3-db1c-450e-baaf-ad9522da7e44" width="500" height="400">
 
