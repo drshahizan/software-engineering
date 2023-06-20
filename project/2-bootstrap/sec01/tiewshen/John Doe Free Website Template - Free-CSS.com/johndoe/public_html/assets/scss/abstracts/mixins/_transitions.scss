@@ -1,4 +1,0 @@
-@mixin custom-transition($duration) {
-    transition: $duration + s;
-    -webkit-transition: $duration + s;
-}

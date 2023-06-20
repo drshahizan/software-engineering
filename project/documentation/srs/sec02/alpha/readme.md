@@ -4,7 +4,8 @@
 <a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/issues"><img src="https://img.shields.io/github/issues/drshahizan/software-engineering" alt="Issues Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/software-engineering?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/software-engineering)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fsoftware-engineering&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+
 
 Don't forget to hit the :star: if you like this repo.
 
@@ -39,7 +40,7 @@ Don't forget to hit the :star: if you like this repo.
 | -----:| ----- | :------: | 
 |1| Document SRS| <a href="https://docs.google.com/document/d/1K5BUQ4Y9mUT3usQTCvz8gkTchpclQgj0/edit?usp=sharing&ouid=109771361949126453388&rtpof=true&sd=true" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
 |2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/tree/main/project/drawio/Alpha" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
-|3| Google Drive| <a href="https://drive.google.com/drive/folders/1ERPd7xwwLWaI4YWpnOIB1q48y3nP6lFU" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+|3| Google Drive| <a href="https://drive.google.com/drive/folders/1ERPd7xwwLWaI4YWpnOIB1q48y3nP6lFU" ><img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg" width="24px" height="24px" ></a>|
 |4| Sticky Notes| <a href="https://jamboard.google.com/d/1yxRnUzK0eBlYsowkIQ3jPBOpH8cnhPoiXicmMu4oi_g/viewer?f=0" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
@@ -99,7 +100,7 @@ Please create an [Issue](https://github.com/drshahizan/software-engineering/issu
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
-![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
 
 

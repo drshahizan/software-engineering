@@ -1,0 +1,191 @@
+<mxfile host="65bd71144e">
+    <diagram id="OdqSd6lVVnoyxml4-NTZ" name="Page-1">
+        <mxGraphModel dx="743" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="67" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="100" width="850" height="730" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="319" width="390" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Admin and Reporting Subsystem" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="299" width="190" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="8" target="12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;GenerateReport&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="525" y="329" width="115" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;View&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Report&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="339" width="93.75" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="ManageUserAccount" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="670" y="394" width="143.75" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="DownloadReport" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="525" y="394" width="115" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="1MI2ZEN4fQsg_Cg3KRiz-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="499" width="390" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="1MI2ZEN4fQsg_Cg3KRiz-19" value="Feedback Subsystem" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="479" width="140" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="1MI2ZEN4fQsg_Cg3KRiz-20" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;View Feedback&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="540" y="519" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="1MI2ZEN4fQsg_Cg3KRiz-21" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;Submit Feedback&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="716.25" y="519" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="1MI2ZEN4fQsg_Cg3KRiz-22" value="Manage Feedback" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="540" y="569" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6gGd-4hqSGFSwwDLIa4Z-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="499" width="390" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="6gGd-4hqSGFSwwDLIa4Z-26" value="Personalised Dashboard Subsystem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="479" width="210" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="6gGd-4hqSGFSwwDLIa4Z-27" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MakePost&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="519" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6gGd-4hqSGFSwwDLIa4Z-28" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;EditPost&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="296.25" y="519" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6gGd-4hqSGFSwwDLIa4Z-29" value="DeletePost" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="569" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="149" width="323.6170212765957" height="119" as="geometry">
+                        <mxPoint y="30" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="139" width="390" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="User Information Subsystem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="119" width="170" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;ProfileUpdate&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="159" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;ForumAndPostDrafts&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="716.25" y="159" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="ProfileDelete" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="209" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="SRCInformationBoardUpdate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="716.25" y="209" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="319" width="390" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="Processing Subsystem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="299" width="140" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;PostFiltration&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="205" y="339" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;FeedbackValidation&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="205" y="389" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="139" width="390" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="Registration and Authentication Subsystem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="119" width="250" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;SignUp&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="159" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;EmailVerification&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="159" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;ResetPassword&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="209" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;Login&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="209" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="679" width="390" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="Anonymous Forum Subsystem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="659" width="190" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;EditForum&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="699" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;CreateForum&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="296.25" y="699" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="CommentsForum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="749" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="Student Engagement System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="80" width="250" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="spb4pV8sifdFAEmtfc9e" name="Page-1">
+        <mxGraphModel dx="1109" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="Registration and Authentication Subsystem" style="shape=folder;fontStyle=1;tabWidth=260;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="60" width="430" height="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;" vertex="1" parent="4">
+                    <mxGeometry width="430.00000000000006" height="223.18840579710144" relative="1" as="geometry">
+                        <mxPoint y="30" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="SignUp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4">
+                    <mxGeometry x="155" y="47.826086956521735" width="120" height="23.913043478260867" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="EmailVerification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4">
+                    <mxGeometry x="155" y="95.65217391304347" width="120" height="22.318840579710145" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="ResetPassword" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4">
+                    <mxGeometry x="155" y="143.47826086956522" width="120" height="25.507246376811594" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4">
+                    <mxGeometry x="155" y="191.30434782608694" width="120" height="27.10144927536232" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;User Information Module&lt;/font&gt;" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="1090" width="190" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;" vertex="1" parent="6">
+                    <mxGeometry width="190" height="98" relative="1" as="geometry">
+                        <mxPoint y="30" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="ProfileUpdate" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="6">
+                    <mxGeometry x="35" y="40" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="SRCInformationBoardUpdate" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="6">
+                    <mxGeometry x="35" y="80" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;User Information Module&lt;/font&gt;" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="1100" width="190" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;" vertex="1" parent="14">
+                    <mxGeometry width="190" height="98" relative="1" as="geometry">
+                        <mxPoint y="30" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="ProfileUpdate" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="14">
+                    <mxGeometry x="35" y="40" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="SRCInformationBoardUpdate" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="14">
+                    <mxGeometry x="35" y="80" width="120" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

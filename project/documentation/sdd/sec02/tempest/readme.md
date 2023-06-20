@@ -4,7 +4,8 @@
 <a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/issues"><img src="https://img.shields.io/github/issues/drshahizan/software-engineering" alt="Issues Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/software-engineering?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/software-engineering)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fsoftware-engineering&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+
 
 Don't forget to hit the :star: if you like this repo.
 
@@ -65,7 +66,7 @@ Don't forget to hit the :star: if you like this repo.
 ## Documentation
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Document SDD| <a href="" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|1| Document SDD| <a href="https://docs.google.com/document/d/1K2Qi3slGgb55GVH3L77NezoQBvgSlP_35AhlF6R2jow/edit?usp=sharing" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
 |2| Figma| <a href="https://www.figma.com/files/project/93492418/Badal-Hajj-and-Umrah-Management-System?fuid=1235142099190224213" ><img src="../../../../../images/figma.svg" width="24px" height="24px" ></a>|
 |3| Borang Badal Haji| <a href="https://drive.google.com/drive/folders/1xm0X4yxzjBrGPt_EeF4PT4udWYxdx8PS?usp=share_link" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 |4| Borang Umrah| <a href="https://drive.google.com/drive/folders/1cNg7cQG-RONHfL7_yHy9h5DZDWGfi-1k?usp=share_link" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
@@ -89,7 +90,8 @@ Don't forget to hit the :star: if you like this repo.
 |12|27/05/2023| Danial |Assistant Developer| Information Architecture and User Flow | Complete |
 |13|27/05/2023| Kugen |UI/UX Designer| Typography and Design | Incomplete |
 |14|08/06/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Scrum meeting : Discussion about  prototype design | Complete |
-|15|08/06/2023|Luqman| Main Developer | Prototype Design | Complete |
+|15|11/06/2023|Luqman| Main Developer | UI design for client | Complete |
+|16|11/06/2023|Luqman| Main Developer | UI design for management | Complete |
 |-|-|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Follow up with stakeholder | Incomplete |
 
 
@@ -99,7 +101,7 @@ Please create an [Issue](https://github.com/drshahizan/software-engineering/issu
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
-![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
 
 
