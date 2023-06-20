@@ -42,7 +42,7 @@ Don't forget to hit the :star: if you like this repo.
 ## Documentation
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Project Description| <a href="project/project/sec01/stakeholder/project-description.md" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|1| Project Description| <a href="project/project/sec01/stakeholder/project-description.md" ><img src="./images/document.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 <table>
