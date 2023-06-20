@@ -17,6 +17,8 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Answer
 
+<img src="https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec02/danialharriz/UseCase1.drawio.png" alt="Alt Text" width="500" height="400">
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
