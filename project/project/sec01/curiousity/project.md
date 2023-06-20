@@ -21,7 +21,13 @@
 ## Methodology
 
 ## Implementation
+### Timeline process
+-Gantt Chart
 
+### Requirement Collection Phase
+- Stakeholder
+- Analysis
+- User Case Diagram
 ## Testing and Quality Assurance
 
 

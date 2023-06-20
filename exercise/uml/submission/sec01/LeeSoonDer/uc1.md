@@ -6,20 +6,18 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fsoftware-engineering&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 Don't forget to hit the :star: if you like this repo.
-<!DOCTYPE html>
-<html lang="en">
-## Set: 1
 
-**Name: Kek Jesslyn**
+## Set:
 
-**Matrix No: A22EC0057**
+**Name:Lee Soon Der**
 
-**Section: 01**
+**Matrix No:A22EC0065**
+
+**Section:01**
 
 ## Answer
-<img src = "struc1.jpg" ; width = 200png ; height = 200png>
+![image](https://github.com/drshahizan/software-engineering/assets/129196395/0de4754c-4978-4ba8-857e-f0293f99486f)
 
-</html>
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
@@ -28,5 +26,4 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
 
