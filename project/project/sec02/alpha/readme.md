@@ -113,7 +113,6 @@ Tasks and Activities:
 7. Deployment and User Training: Once the system was tested and deemed stable, the group deployed it to a web server and conducted user training sessions for college staff and students. This ensured that users understood how to use the system effectively and efficiently.
 
 Software Components or Modules:
-Software Components or Modules:
 
 1. Registration and Authentication Subsystem: This module provides essential functionality for students, allowing them to register, login, reset passwords, and recover forgotten passwords. 
 
