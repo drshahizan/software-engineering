@@ -7,17 +7,16 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set 1:
+## Set:
 
-**Name:Nik Zulaikhaa Binti Zuraidi Afandi**
+**Name: Wan Nur Sofea Binti Mohd Hasbullah**
 
-**Matrix No:A22EC0232**
+**Matrix No: A22EC0115**
 
-**Section:02**
+**Section: 02**
 
 ## Answer
 
-![photo_2023-06-20_12-23-52](https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec02/nikzulaikhaa/img/use%20case%201.drawio.png)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
