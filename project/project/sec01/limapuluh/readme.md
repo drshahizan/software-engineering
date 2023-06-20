@@ -158,16 +158,18 @@ Agile allows for continuous feedback and enables the development team to respond
 Tools, Technologies, and Frameworks:
 The choice of tools, technologies, and frameworks will depend on the specific requirements and preferences of the project team. However, some commonly used tools and technologies for developing web-based systems like the University Technology Malaysia Student Feedback System may include:
 
-Task	Software
-Web Development	Bootstrap Studio
-Propotyping	Figma
-Data Source	ePPP System
-Data Schema	Draw.io
-Programming Languages	HTML, CSS
-Libraries	Bootstrap
-Database Management	PHPMyAdmin & XAMPP
-Hardware Requirements	RAM : > 8GB, Storage : > 100GB, Display : 1920x1080
-Software Requirements	Operating System : Windows 11, IDE : Visual Studio Code, Web Server : Google, Version Control : Git
+| Task                 | Software                    |
+|----------------------|-----------------------------|
+| Web Development      | Bootstrap Studio            |
+| Prototyping          | Figma                       |
+| Data Source          | ePPP System                 |
+| Data Schema          | Draw.io                     |
+| Programming Languages| HTML, CSS                   |
+| Libraries            | Bootstrap                   |
+| Database Management  | PHPMyAdmin & XAMPP          |
+| Hardware Requirements| RAM: > 8GB, Storage: > 100GB, Display: 1920x1080 |
+| Software Requirements| Operating System: Windows 11, IDE: Visual Studio Code, Web Server: Google, Version Control: Git |
+
 
 ## 3. Implementation:
 - <b>Create Project Plan</b>: Set up a meeting with all group member to decide the software system to be develop. Determine the role of each member and have a rough plan for this project.
