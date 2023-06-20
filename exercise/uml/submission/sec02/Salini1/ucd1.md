@@ -44,10 +44,10 @@
     <tr>
         <td>
             <b>Postconditions: </b> <br>
-            1. Patient information updated <br>
-            2. Accessible records for future reference <br>
+            1. Patient information is recorded <br>
+            2. Patients records is accessable for future reference <br>
             3. Provision of necessary medical services <br>
-            4. Billing information to patients
+            4. Billing information is provided to patients
         </td>
     </tr>
 </table>
