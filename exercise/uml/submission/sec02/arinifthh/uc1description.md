@@ -19,7 +19,7 @@
       
       2. Patient information is available in the system.
       
-      3. The hospital has the necessary medical and billing infrastructure. </td>
+      3. The hospital has the necessary medical and billing infrastructure.
   </tr>
     <tr>
     <td>Main Flow of Activities:
