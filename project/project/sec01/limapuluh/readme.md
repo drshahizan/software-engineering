@@ -115,7 +115,6 @@ Don't forget to hit the :star: if you like this repo.
 - Highlight any specific tools, technologies, or frameworks employed during the project.
 
 Requirement Analysis:
-
 Gather requirements by conducting interviews and meetings with stakeholders, including students, faculty, and administrative staff.
 Identify the key features and functionalities of the Student Feedback System.
 Document the requirements in a clear and concise manner.
@@ -125,14 +124,14 @@ Design the overall system architecture and modules based on the identified requi
 Define the data model and database schema.
 Create wireframes or prototypes to visualize the user interface and interactions.
 Validate the design with stakeholders and incorporate their feedback.
-Development:
 
+Development:
 Select a suitable software development life cycle model, such as Agile, to guide the development process.
 Break down the project into smaller tasks or user stories.
 Prioritize the tasks and create a development roadmap.
 Implement the system using a programming language (e.g., Python, Java, or .NET) and relevant technologies.
-Testing:
 
+Testing:
 Conduct comprehensive testing to ensure the system functions as intended.
 Perform unit testing to check the functionality of individual components.
 Conduct integration testing to verify the interaction between different modules.
@@ -144,12 +143,13 @@ Prepare the system for deployment by configuring servers, databases, and necessa
 Ensure compatibility with the target environment and perform any required optimizations.
 Deploy the system to a production environment following best practices and security guidelines.
 Conduct a final round of testing in the production environment.
-Maintenance and Support:
 
+Maintenance and Support:
 Provide ongoing maintenance and support to address any issues or enhancements.
 Regularly monitor system performance and security.
 Collect feedback from users and stakeholders to identify areas for improvement.
 Release updates and new features based on user feedback and evolving requirements.
+
 Software Development Life Cycle Model:
 For the University Technology Malaysia Student Feedback System project, the Agile software development methodology will be adopted. Agile emphasizes iterative and incremental development, allowing for flexibility and adaptability throughout the project. It involves frequent collaboration with stakeholders and prioritizes delivering working software in short cycles known as sprints.
 
