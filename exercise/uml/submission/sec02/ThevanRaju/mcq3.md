@@ -31,7 +31,7 @@ Don't forget to hit the :star: if you like this repo.
 13. B
 14. D
 15. B
-16.
+16. D
 17.
 18.
 19.
