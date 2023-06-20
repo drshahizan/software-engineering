@@ -16,8 +16,8 @@ Don't forget to hit the :star: if you like this repo.
 **Section:** 01
 
 ## Answer
-|MSO Hospital Management System|
-|Use Case| UC001|
+| MSO Hospital Management System |
+| Use Case | UC001 |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
