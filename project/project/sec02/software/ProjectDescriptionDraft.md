@@ -3,9 +3,13 @@
 
 
 ### 1. Introduction:
-- Briefly explain the purpose and objectives of the project.
-- Describe the problem statement or the need the project aims to address.
-- Outline the significance and potential impact of the project.
+The Student Health and Wellness Management System project's goal is to provide a comprehensive software programme that meets university students' needs for health and wellness. The project seeks to provide an effective and user-friendly solution to overcome the current difficulties and limits in controlling student health. By putting this approach into place, we hope to improve student access to healthcare services, improve general health, and foster a more wholesome campus environment.
+
+<h4>Problem Statement:</h4>
+University students currently confront a number of difficulties in adequately managing their health and wellbeing demands. Healthcare services are frequently fragmented and ineffective because existing systems frequently lack integration and accessibility. Timely and accurate medical support is further hampered by a lack of resources and communication problems. By supplying a centralised platform that streamlines student health management, communication, and support, this project aims to close these gaps.
+
+<h4>Significance and Potential Impact:</h4>
+The Student Health and Wellness Management System is crucial for the university community. Applying this strategy should have a positive impact on numerous levels. First of all, it will motivate students to take care of their health by making health monitoring, setting appointments, and receiving health advice easy to access. Second, while waiting to see a doctor in PKU, students can save time by taking advantage of the system's characteristics for keeping patients waiting. The system's SOS number feature will also ensure prompt response in critical medical emergencies, possibly saving lives. The ultimate objective of this effort is to foster a more resilient and healthy student body, which will improve academic performance and overall wellness at the university.
 
 ---
 
@@ -111,6 +115,17 @@ By addressing these challenges and maintaining close collaboration with stakehol
 
 
 ### 6. Conclusion:
-- Summarize the overall project experience and lessons learned.
-- Reflect on the challenges faced and how they were overcome.
-- Highlight any future improvements or recommendations for further development.
+
+Throughout the Student Health and Wellness Management System project, we have gained valuable experience and insights into developing a software solution to address the health and wellness needs of university students. We have encountered several challenges along the way, but through effective collaboration and problem-solving, we have been able to overcome them and achieve our objectives.
+
+Finding and communicating with our current stakeholder during the project was one of the biggest challenges, as it is difficult for students to work on projects with PKU staff members such as the PKU administrator, PKU general health doctor, PKU dentist, and PKU mental health doctor. However, we were able to get beyond these technological obstacles and accomplish flawless integration thanks to strong coordination with stakeholders and the use of an agile approach.
+
+Additionally, designing the SRS documentation with a variety of use cases and diagrams was another challenge. We did our best to create formal SRS documentation by daily scrum due to our lack of knowledge in order to ensure the advancement of all of our members. Nevertheless, in order to maintain a culture of continuous improvement in our project, we additionally assign separate tasks to each member of the daily scrum for SRS documentation. 
+
+Nonetheless, we continue to confront the issue of designing our project's user flow, architectural flow, high fidelity, and UI design. With the lecturer's direction and the cooperation of each team member, we were able to use Figma to complete the task successfully.
+
+Throughout the project, we have learned the importance of continuous communication and feedback from stakeholders. Regular meetings and feedback sessions helped us refine the system's features and functionalities based on their needs and requirements.
+
+Looking ahead, we recommend further development and improvement of the Student Health and Wellness Management System. This could include expanding the system's capabilities, such as incorporating personalized health recommendations based on individual health data, integrating wearable devices for real-time health tracking, and incorporating artificial intelligence algorithms for more accurate health predictions and early intervention.
+
+In conclusion, the Student Health and Wellness Management System project has been a valuable undertaking, addressing the health and wellness needs of university students. By overcoming challenges, leveraging stakeholder input, and adhering to best practices, we have developed a system that has the potential to significantly impact the well-being and academic success of students. Continued refinement and future enhancements will ensure the system remains relevant and effective in supporting the health and wellness goals of the university community.
