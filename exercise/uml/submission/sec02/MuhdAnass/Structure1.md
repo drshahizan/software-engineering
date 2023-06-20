@@ -16,7 +16,7 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 02**
 
 ## Answer
-exercise/uml/submission/sec02/MuhdAnass/SE file.drawio.png
+![SE file drawio](https://github.com/drshahizan/software-engineering/assets/116987481/2260888b-1949-44df-a5c3-84d4991f267c)
 
 
 ## Contribution 🛠️
