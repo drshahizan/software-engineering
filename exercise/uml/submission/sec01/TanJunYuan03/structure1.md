@@ -7,21 +7,16 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set: 1
+## Set:
 
-**Name: Kek Jesslyn**
+**Name:TAN JUN YUAN**
 
-**Matrix No: A22EC0057**
+**Matrix No:A22EC0107**
 
-**Section: 01**
+**Section:01**
 
 ## Answer
-<p style:textalign="center">
-<img src = "struc1.jpg" width = 700png height = 400png>
-</p>
-
-</html>
-
+<img src="structure1answer.jpg" alt="ANSWER">
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
 
