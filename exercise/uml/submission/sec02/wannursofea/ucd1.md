@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Case Study 1: MSO Hospital Management System 
+## Set: CMSO Hospital Management System (use case description) 
 
 **Name: Wan Nur Sofea Binti Mohd Hasbullah**
 
