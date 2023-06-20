@@ -7,8 +7,6 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Case Study Question
-
 # Case Study 1: MSO Hospital Management System
 
 ## Description
