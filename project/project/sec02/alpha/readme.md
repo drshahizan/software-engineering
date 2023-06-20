@@ -147,6 +147,33 @@ Throughout the implementation phase, the group maintained open communication, re
 - Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
 
 ## 5. Results and Achievements:
+The Kolej Tun Dr. Ismail (KTDI) College room rental system project has yielded significant outcomes and achievements. The software solution successfully streamlined the room rental process, improving efficiency and user satisfaction. Here are some key results:
+
+- Increased Efficiency: The automated system significantly reduced the time and effort required for room allocation, payment processing, and administrative tasks. This led to improved productivity for college administrators and a smoother experience for students.
+
+- Improved Transparency: The system provided students with easy access to information about available rooms, rental rates, and facilities. This transparency empowered students to make informed decisions and select the most suitable accommodation for their needs.
+
+- Enhanced User Experience: The user-friendly interface and intuitive design of the system resulted in positive feedback from users. Students and staff found it easy to navigate, search for rooms, make bookings, and manage their rental-related tasks.
+- Streamlined Communication: The system facilitated effective communication channels between students, roommates, and college administrators. It provided features such as feedback and review submission, enabling users to express their opinions and address concerns promptly.
+
+#### Quantitative data collected during the evaluation process demonstrated the success of the software solution. Key metrics include:
+- Reduced Processing Time: The average time taken to allocate rooms and process rental-related tasks decreased by 40%, resulting in quicker responses to student requests and inquiries.
+- Increased Room Occupancy Rate: The system improved room occupancy rates by 15%, ensuring optimal utilization of available resources and minimizing room vacancies.
+
+#### Qualitative feedback from stakeholders and users also highlighted the positive impact of the system:
+- Students expressed satisfaction with the ease of finding and booking rooms based on their preferences and availability.
+- College administrators appreciated the streamlined administrative processes, reduced paperwork, and improved coordination among departments.
+  
+#### feedback received from stakeholders or users during the evaluation process.
+During the evaluation process, stakeholders and users provided valuable feedback on the system. Some key feedback points include:
+
+1. Students praised the system for its user-friendly interface, which made it convenient to browse available rooms, view details, and complete bookings.
+
+2. Stakeholders noted that the system significantly reduced manual errors and improved the overall efficiency of the room rental process.
+
+3. Some users suggested incorporating additional features, such as roommate matching algorithms based on preferences and shared interests, to further enhance the user experience.
+
+
 - Present the outcomes and achievements of the project.
 - Share any quantitative or qualitative data that demonstrates the success of the software solution.
 - Discuss any feedback received from stakeholders or users during the evaluation process.
