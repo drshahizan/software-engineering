@@ -16,7 +16,7 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 02**
 
 ## Answer
-
+<img src="UC2.drawio.png" alt="Alt text" title="Optional title">
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
