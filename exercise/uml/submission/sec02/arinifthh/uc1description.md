@@ -1,9 +1,9 @@
-UC Set: 1
-Name: Nur Arini Fatihah Binti Mohd Sabir
+## UC Set: 1
+**Name:** Nur Arini Fatihah Binti Mohd Sabir
 
-Matrix No: A22EC0244
+**Matrix No:** A22EC0244
 
-Section: 02
+**Section:** 02
 
 <table>
   <tr>
@@ -14,16 +14,16 @@ Section: 02
   </tr>
     <tr>
     <td>Pre-condition:
-1. Hospital staff have access to the Hospital Management System.
-2. Patient information is available in the system.
-3. The hospital has the necessary medical and billing infrastructure.</td>
+      1. Hospital staff have access to the Hospital Management System.
+      2. Patient information is available in the system.
+      3. The hospital has the necessary medical and billing infrastructure.</td>
   </tr>
     <tr>
     <td>Main Flow of Activities:
-1. The hospital staff logs into the Hospital Management System using their unique credentials.
-2. The staff selects the "Admissions" function from the system's menu.
-3. The system presents a form or interface for entering patient information.
-4. The staff enters the required details, such as patient's personal information, medical history, insurance details, and reason for admission.
+      1. The hospital staff logs into the Hospital Management System using their unique credentials.
+      2. The staff selects the "Admissions" function from the system's menu.
+      3. The system presents a form or interface for entering patient information.
+      4. The staff enters the required details, such as patient's personal information, medical history, insurance details, and reason             for admission.
 5. The system validates the entered information for accuracy and completeness.
 6. If any required fields are missing or contain invalid data, the system displays appropriate error messages and prompts the staff to correct them.
 7. Once all the necessary information is provided and validated, the staff submits the admission request.
