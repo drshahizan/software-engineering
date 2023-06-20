@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set: MSO Hospital Management System (use case description)
+## Set: Case Study 1: MSO Hospital Management System 
 
 **Name: Wan Nur Sofea Binti Mohd Hasbullah**
 
