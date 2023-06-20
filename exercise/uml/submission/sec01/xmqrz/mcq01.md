@@ -9,63 +9,23 @@ Don't forget to hit the :star: if you like this repo.
 
 ## MCQ Set:
 
-**Name:GOH JING YANG
+**Name:** Marcus Joey Sayner
 
-**Matrix No:A22EC0052
+**Matrix No:** A22EC0193
 
-**Section:01
+**Section:** 01
 
 ## Answer
-1.B
-2.C
-3.C
-4.B
-5.B
-6.D
-7.C
-8.B
-9.D
-10.B
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
-41.
-42.
-43.
-44.
-45.
-46.
-47.
-48.
-49.
-50.
+1. B
+2. C
+3. C
+4. B
+5. B
+6. D
+7. C
+8. B
+9. D
+10. B
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

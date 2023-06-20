@@ -1,22 +1,32 @@
 ## MCQ Set: 1
 
-**Name: NEO ZHENG WENG**
+**Name: JOSEPH LAU YEO KAI**
 
-**Matrix No: A22EC0093**
+**Matrix No: A22EC0055**
 
 **Section: 01**
 
 ## Answer
-1. b
-2. c
-3. c
-4. b
-5. b
-6. d
-7. c
-8. b
-9. d
-10. b
+1.B
+
+2.C
+
+3.C
+
+4.B
+
+5.B
+
+6.D
+
+7.C
+
+8.B
+
+9.D
+
+10.B
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

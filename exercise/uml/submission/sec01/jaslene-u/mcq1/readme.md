@@ -7,25 +7,25 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set:
+## MCQ Set: 1
 
-**Name:GOH JING YANG
+**Name: JASLENE YU**
 
-**Matrix No:A22EC0052
+**Matrix No: A22EC0171**
 
-**Section:01
+**Section: 01**
 
 ## Answer
-1.B
-2.C
-3.C
-4.B
-5.B
-6.D
-7.C
-8.B
-9.D
-10.B
+1. B
+2. C
+3. C
+4. B
+5. B
+6. D
+7. C
+8. A
+9. D
+10. B
 11.
 12.
 13.
