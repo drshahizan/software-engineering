@@ -152,9 +152,6 @@ Throughout the implementation phase, the group maintained open communication, re
 - Discuss any feedback received from stakeholders or users during the evaluation process.
 
 ## 6. Conclusion:
-- Summarize the overall project experience and lessons learned.
-- Reflect on the challenges faced and how they were overcome.
-- Highlight any future improvements or recommendations for further development.
 
   In conclusion, the Kolej Tun Dr. Ismail (KTDI) College room rental system project aimed to simplify the room rental process by developing a web-based system. Throughout the project, we faced challenges in gathering requirements, managing system complexity, integrating data, and designing a user-friendly interface. However, we overcame these challenges by maintaining clear and continuous communication with stakeholders, conducting thorough planning and documentation, adopting an agile development approach, and prioritizing user-centric design.
 
@@ -163,6 +160,10 @@ From this project, we learned the importance of effective communication, compreh
 Looking to the future, we recommend enhancing the payment and billing system with secure and convenient payment gateways and automating billing processes. Implementing advanced reporting and analytics features would provide valuable insights for decision-making and optimization. Developing a mobile application would improve accessibility and convenience for users, while continuous user feedback through surveys or satisfaction assessments would help drive ongoing system improvement.
 
 By leveraging the project experience and applying the lessons learned, the KTDI College room rental system can continue to evolve, providing a streamlined and user-friendly experience for students and staff.
+
+- Summarize the overall project experience and lessons learned.
+- Reflect on the challenges faced and how they were overcome.
+- Highlight any future improvements or recommendations for further development.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
