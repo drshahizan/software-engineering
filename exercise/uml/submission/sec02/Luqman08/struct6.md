@@ -7,15 +7,16 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set: MSO Hospital Management System (activity diagram)
+## Set:
 
-**Name: Wan Nur Sofea Binti Mohd Hasbullah**
+**Name:** Muhammad Luqman Hakim Bin Mohd Rizaudin
 
-**Matrix No: A22EC0115**
+**Matrix No:** A22EC0086
 
-**Section: 02**
+**Section:** 02
 
 ## Answer
+![struct6 drawio](https://github.com/drshahizan/software-engineering/assets/128146716/3d1edc86-2161-4491-b4e9-68af8c6034f3)
 
 
 ## Contribution 🛠️
@@ -25,4 +26,5 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
+
 
