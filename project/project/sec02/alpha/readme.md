@@ -113,7 +113,7 @@ The project aims to solve the problems associated with renting rooms to college 
 
 ## 3. Implementation:
 
-Tasks and Activities:
+#### Tasks and Activities:
 
 1. Requirement Gathering: The group conducted meetings with college administrators, students, and staff to understand their needs and gather requirements for the room rental system. This involved identifying key features, user roles, and system constraints.
 
@@ -129,23 +129,23 @@ Tasks and Activities:
 
 7. Deployment and User Training: Once the system was tested and deemed stable, the group deployed it to a web server and conducted user training sessions for college staff and students. This ensured that users understood how to use the system effectively and efficiently.
 
-Software Components or Modules:
+#### Software Components or Modules:
 
 1. Registration and Authentication Subsystem: This module provides essential functionality for students, allowing them to register, login, reset passwords, and recover forgotten passwords. 
 
 3. Room Rental Subsystem: This module enables students to search for available rooms based on their preferences (e.g., type of room ), view room details, make reservation for rooms,cancel their room bookings,facilitates online payment for room bookings, file complaints. this module also enables administrator to  manage the student bookings.
 
-4. Administration Subsystem: This module provides essential functionalities for both the registrar and the administrator. It enables the registrar to efficiently manage rooms within the college, while allowing the administrator to address and resolve complaints effectively.
+4. Administration Subsystem: This module provides essential functionalities for both the registrar and the administrator. It enables the registrar to efficiently manage rooms within the college while allowing the administrator to address and resolve complaints effectively.
   
-5. Payment Management Subsystem: This module allows allows the registrar to manage payments, while enabling the administrator to accept payments and manage payment information.
+5. Payment Management Subsystem: This module allows the registrar to manage payments while enabling the administrator to accept payments and manage payment information.
 
-6. Reporting Subsystem: This module enables the registrar to approve applications, while allowing the administrator to review applications and generate financial reports. 
+6. Reporting Subsystem: This module enables the registrar to approve applications while allowing the administrator to review applications and generate financial reports. 
 
 
 
-Challenges Faced and Solutions:
+#### Challenges Faced and Solutions:
 
-1. Scalability: Ensuring that the system can handle a large number of concurrent users and room bookings was a challenge. To address this, the group implemented performance optimizations, such as database indexing, caching, and load balancing techniques.
+1. Scalability: Ensuring that the system can handle a large number of concurrent users and room bookings was a challenge. To address this, the group implemented performance optimizations, such as database indexing, caching, and load-balancing techniques.
 
 2. Payment Security: Integrating a secure payment processing system while complying with industry standards and regulations was challenging. The group addressed this by collaborating with reputable payment gateway providers and following best practices for secure payment handling.
 
