@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set:
+## Set: Hospital Management System
 
 **Name: Wan Nur Sofea Binti Mohd Hasbullah**
 
