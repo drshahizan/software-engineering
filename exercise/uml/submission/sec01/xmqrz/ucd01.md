@@ -1,4 +1,3 @@
-
 Use Case: Admit Patient
 
 Primary Actor: Hospital Staff
