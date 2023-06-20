@@ -83,6 +83,13 @@ The main goal of the system is to simplify the college room rental process and e
 
 
 - Describe the problem statement or the need the project aims to address.
+The project aims to solve the problems associated with renting rooms to college students. Currently, the process is inefficient and causes confusion. The key issues include:
+
+1. Room Allocation: Assigning suitable rooms to students based on their preferences and availability is difficult and can lead to dissatisfaction and conflicts.
+2. Transparency and Accessibility: Students struggle to access information about available rooms, rates, and facilities, which hampers their decision-making process.
+3. Administrative Burden: Managing room rentals manually is time-consuming for college administrators, resulting in a waste of resources.
+4. Communication and Conflict Resolution: Inadequate communication channels and dispute resolution mechanisms contribute to conflicts between roommates and students and the administration.
+5. Optimization and Resource Utilization: The current systems lack tools to monitor room occupancy, optimize allocation, and effectively use available resources.
 
 - Outline the significance and potential impact of the project.
 
