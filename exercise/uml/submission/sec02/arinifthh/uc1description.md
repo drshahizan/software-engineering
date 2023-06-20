@@ -23,15 +23,25 @@
   </tr>
     <tr>
     <td>Main Flow of Activities:
+      
       1. The hospital staff logs into the Hospital Management System using their unique credentials.
+      
       2. The staff selects the "Admissions" function from the system's menu.
+      
       3. The system presents a form or interface for entering patient information.
+      
       4. The staff enters the required details, such as patient's personal information, medical history, insurance details, and reason             for admission.
+      
 5. The system validates the entered information for accuracy and completeness.
-6. If any required fields are missing or contain invalid data, the system displays appropriate error messages and prompts the staff to correct them.
+   
+6. If any required fields are missing or contain invalid data, the system displays appropriate error messages and prompts the staff to correct them,
+   
 7. Once all the necessary information is provided and validated, the staff submits the admission request.
+   
 8. The system updates the patient's admission status and generates a unique identification number for the admission.
+    
 9. The system notifies relevant staff members, such as assigned doctors and nurses, about the new admission.
+    
 10. The staff receives confirmation of the successful admission and can proceed with other tasks.
 </td>
   </tr>
