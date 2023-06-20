@@ -1,0 +1,49 @@
+<mxfile host="65bd71144e">
+    <diagram id="HhfXsZfurZ6SfM8BcAbz" name="Page-1">
+        <mxGraphModel dx="832" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="SCOPE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="365" y="220" width="120" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Personalised Dashboard" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="100" width="100" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Course specific forums &amp;amp; discussion boards" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="340" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Student Directory" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="100" width="100" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Feedback System" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="340" width="100" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="endArrow=classic;html=1;entryX=0.92;entryY=0.802;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" target="3">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="365" y="220" as="sourcePoint"/>
+                        <mxPoint x="415" y="170" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="" style="endArrow=classic;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" target="4">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="365" y="320" as="sourcePoint"/>
+                        <mxPoint x="282" y="280.20000000000005" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="" style="endArrow=classic;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" target="5">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="485" y="220" as="sourcePoint"/>
+                        <mxPoint x="410.536284039689" y="267.65677821459894" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="" style="endArrow=classic;html=1;entryX=0.064;entryY=0.186;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" target="6">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="485" y="320" as="sourcePoint"/>
+                        <mxPoint x="557.290072219273" y="275.99734734479034" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
