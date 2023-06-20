@@ -4,7 +4,8 @@
 <a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/issues"><img src="https://img.shields.io/github/issues/drshahizan/software-engineering" alt="Issues Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/software-engineering?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/software-engineering)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fsoftware-engineering&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+
 
 Don't forget to hit the :star: if you like this repo.
 
@@ -38,7 +39,7 @@ Don't forget to hit the :star: if you like this repo.
 | -----:| ----- | :------: | 
 |1| Document SRS| <a href="https://docs.google.com/document/d/1SVXydTjl-7bWs_2QEXZc8l11XHcp8jw3/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
 |2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/Allen" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
-|3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+|3| Others| <a href="https://drive.google.com/drive/folders/1qIE-RGUjnxqmSpEHlOGuq-NOl-Z2rYA1?usp=sharing" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 <table>
@@ -75,19 +76,25 @@ Don't forget to hit the :star: if you like this repo.
 | 2 | 10/05/2023 | All Members | Project Members | Met our 1st stakeholder | Complete |
 | 3 | 11/05/2023 | All Members | Project Members | Met our 2nd and 3rd stakeholders | Complete |
 | 4 | 11/05/2023 | NAVACHANDER NAVASANTAR | Documentation Specialist | Assign task to project members for proposal| Complete | 
-| 5 | 12/05/2023 | All Members | Project Members | Updation of proposal | Partially Complete | 
-| 6 | 12/05/2023 | NAVACHANDER NAVASANTAR | Documantation Specialist | Assign task to project members for SRS Documentation | Incomplete | 
-| 6 | 14/05/2023 | All Members | Project Members | Updation of SRS Documentation | Incomplete | 
-| 7 | 17/05/2023 | All Members | Project Members | Creating UML Diagram | Ongoing |
-| 8 | 20/05/2023 | All Members | Project Members | Create System Docuentation (SD) | Ongoing |
-
-
+| 5 | 12/05/2023 | All Members | Project Members | Updation of proposal |  Complete | 
+| 6 | 12/05/2023 | NAVACHANDER NAVASANTAR | Documantation Specialist | Assign task to project members for SRS Documentation | Complete | 
+| 6 | 14/05/2023 | All Members | Project Members | Updation of SRS Documentation | Complete | 
+| 7 | 17/05/2023 | All Members | Project Members | Creates UML Diagram, User Diagram,Activity Diagram. | Complete |
+| 8 | 19/05/2023 | All Members | Project Members | SRS Documentation Use Case Diagram Description | Complete |
+| 9 | 20/05/2023 | All Members | Project Members | Create System Documentation (SRS) | Ongoing |
+| 10 | 31/05/2023 | All Members | Project Members | Do Low Fidelity Wideframe | Complete |
+| 11 | 1/06/2023 | All Members | Project Members | Do High Fidelity Wideframe | Ongoing |
+| 12 | 05/06/2023 | All Members | Project Members | Create design of the system | Ongoing |
+| 13 | 05/06/2023 | All Members | Project Members | Scrum Meeting| Complete |
+| 14 | 12/06/2023 | All Members | Project Members | Scrum Meeting 2| Complete |
+| 15 | 20/06/2023 | All Members | Project Members | Create System Documentation (SDD) | Ongoing |
+| 16 | 22/06/2023 | All Members | Project Members | Create System Documentation (STD) | Ongoing |
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
-![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
 
 

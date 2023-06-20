@@ -1,0 +1,78 @@
+<mxfile host="65bd71144e">
+    <diagram id="dAtgNJ84Ovg59wK5OS12" name="Page-1">
+        <mxGraphModel dx="768" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="43" value="User" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="120" width="20" height="900" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="43">
+                    <mxGeometry x="5" y="70" width="10" height="540" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="Order Status" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="120" width="100" height="900" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="45">
+                    <mxGeometry x="45" y="70" width="10" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="45">
+                    <mxGeometry x="45" y="390" width="10" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="KTDI Minimart Online System" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="620" y="120" width="100" height="910" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="48">
+                    <mxGeometry x="45" y="270" width="10" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="Navigate Order Confirmation" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+                    <mxGeometry x="-0.0001" width="80" relative="1" as="geometry">
+                        <mxPoint x="130" y="220" as="sourcePoint"/>
+                        <mxPoint x="500" y="220" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="51" value="Display Order Details" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="43" target="45">
+                    <mxGeometry width="80" relative="1" as="geometry">
+                        <mxPoint x="130" y="407" as="sourcePoint"/>
+                        <mxPoint x="495" y="375" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="270" y="440"/>
+                            <mxPoint x="410" y="440"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="52" value="" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.524;exitY=0.335;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.029;entryY=0.101;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="45" target="49">
+                    <mxGeometry x="0.9385" y="29" width="80" relative="1" as="geometry">
+                        <mxPoint x="510" y="419" as="sourcePoint"/>
+                        <mxPoint x="660" y="422" as="targetPoint"/>
+                        <mxPoint x="1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="53" value="Send Confirmation Notification" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.009;exitY=0.898;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="49">
+                    <mxGeometry x="-0.0006" relative="1" as="geometry">
+                        <mxPoint x="660" y="660" as="sourcePoint"/>
+                        <mxPoint x="120" y="658.9999999999998" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="55" value="Confirm Order" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="535" y="400" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="Edit Order" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.009;exitY=0.898;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+                    <mxGeometry x="-0.0006" relative="1" as="geometry">
+                        <mxPoint x="665.0900000000001" y="560.4000000000001" as="sourcePoint"/>
+                        <mxPoint x="500" y="560" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="57" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="485" width="340" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="UC0011:Sequence Diagram" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="85" width="710" height="980" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

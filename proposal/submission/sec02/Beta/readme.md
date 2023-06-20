@@ -3,7 +3,8 @@
 <a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/issues"><img src="https://img.shields.io/github/issues/drshahizan/software-engineering" alt="Issues Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/software-engineering?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/software-engineering)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fsoftware-engineering&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+
 
 Don't forget to hit the :star: if you like this repo.
 
@@ -98,7 +99,7 @@ In summary, this food ordering system can streamline the entire food ordering pr
   
 
 ## 5. Software Process Model:
-  <img src="https://eastcode-storage.s3.eu-central-1.amazonaws.com/b2dfa9149d2815bf4d71ad451ba48dcf-1f418d9951f74b57ba000d495a772f9f-methodology-agile.png" alt="Alt text" width="500" height="300">
+  <img src="https://i.ibb.co/1JMHz4h/Agile.png" alt="Alt text" width="500" height="500">
 
 A planned and methodical approach to software development that provides high-quality, dependable, and maintainable software is what the software process model aims to achieve. It outlines the procedures, actions, and activities needed to create software, from gathering requirements to testing, releasing, and maintaining it.
 
@@ -126,26 +127,29 @@ In conclusion, the suggested meal ordering method is best suited to the Agile de
 ## 6. Budget:
 
 The budget for developing a food ordering system can vary depending on several factors, such as the complexity of the system, the features and functionalities required, the development platform, and the development team's location and expertise. 
+| Category | Description | Revised Cost |
+|----------|-------------|--------------|
+| Staff | 2 Programmers | RM 50,000/year each |
+|        | 1 System Analyst | RM 60,000/year |
+|        | 1 Project Manager | RM 100,000/year |
+|        | Total Staff Cost | RM 260,000/year |
+| Equipment | Servers | RM 80,000 |
+|           | Workstations and Laptops | RM 50,000 |
+|           | Networking and Cabling | RM 20,000 |
+|           | Security and Backup | RM 20,000 |
+|           | Total Equipment Cost | RM 170,000 |
+| Software | Relational Database Management System (RDBMS) | RM 15,000 |
+|          | Web Server | RM 5,000 |
+|          | Mobile Application Development Framework | RM 10,000 |
+|          | Data Analytics Tools | RM 15,000 |
+|          | Total Software Cost | RM 45,000 |
+| Other Expenses | Rent for Office Space | RM 50,000/year |
+|                | Utilities | RM 10,000/year |
+|                | Marketing and Advertising | RM 30,000 |
+|                | Contingency | RM 100,000 |
+|                | Total Other Expenses | RM 190,000 |
+| Total Estimated Cost | - | RM 665,000 |
 
-- System Design and Development : RM50,000.
-  
-This includes the cost of designing the system architecture, creating wireframes, and developing the system's front-end and back-end.
-
-- Database Management : RM20,000.
-
-This includes the cost of setting up and managing the database, including configuring security and backup systems.
-
-- Payment Gateway Integration : RM20,000.
-
-This includes the cost of integrating a payment gateway system into the food ordering system, enabling customers to make online payments.
-
-- Mobile Application Development : If a mobile application is required, the cost can range from RM10,000 to RM50,000.
-
-- Testing and Quality Assurance : RM20,000.
-
-This includes the cost of testing the system for bugs and errors and ensuring that the system meets the quality standards.
-
-It's essential to note that these are just estimates, and the actual cost may vary based on the specific requirements of the project. Additionally, ongoing maintenance costs and server hosting costs may also need to be considered.
 
 
 ## 7. System Architecture:
@@ -225,41 +229,26 @@ Overall, the risks associated with the development of the food ordering system w
 
 ## 9. Resources:
 
-
-### Staff:
-- 3 Programmers: RM 144,000/year each
-- 1 System Analyst: RM 120,000/year
-- 1 Project Manager: RM 250,000/year
-
-Total Staff Cost: RM 802,000/year
+### Personnel:
+- Project manager: accountable for directing the system's development and execution.
+- Developers: programmers with expertise to create the website or mobile app as well as the software.
+- UX/UI Designers: To develop a user interface and user experience that is appealing.
+- Quality Assurance Tester: accountable for thorough testing to guarantee the system runs faultlessly and is bug-free. 
 
 ### Equipment:
-- Servers: RM 200,000
-- Workstations and Laptops: RM 100,000
-- Networking and Cabling: RM 50,000
-- Security and Backup: RM 50,000
-
-Total Equipment Cost: RM 400,000
+- Laptop that is powerful enough to run various code for development.
+- Web servers and database servers to host the food ordering system.
 
 ### Software:
-- Relational Database Management System (RDBMS): RM 50,000
-- Web Server: RM 20,000
-- Mobile Application Development Framework: RM 30,000
-- Data Analytics Tools: RM 50,000
-
-Total Software Cost: RM 150,000
+- Development Resources: Visual Studio Code, HTML, CSS, JavaScript, PHP.
+- User Interface (UI) and User Experience (UX) Design: Software like  Figma to design an intuitive and visually appealing interface.
+- Database management system: MySQL
+- Version control software : GitHub
 
 ### Other Expenses:
-- Rent for Office Space: RM 120,000/year
-- Utilities: RM 30,000/year
-- Marketing and Advertising: RM 100,000
-- Contingency: RM 360,000
-- Total Other Expenses: RM 610,000
+- Contingency
 
-Total Estimated Cost: RM 1,900,000
-
-> Note: All costs mentioned above are estimates and are subject to change based on actual expenses incurred during the project.
-
+  
 ## 10. Technical Specification
  - Platform: The system should be web-based and accessible from any device with an internet connection, such as desktops, laptops, tablets, and smartphones. The system should be compatible with multiple operating systems and web browsers.
 
@@ -297,7 +286,7 @@ Please create an [Issue](https://github.com/drshahizan/software-engineering/issu
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
   
-![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
 
 

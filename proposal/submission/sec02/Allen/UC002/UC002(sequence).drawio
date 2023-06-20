@@ -1,0 +1,150 @@
+<mxfile host="65bd71144e">
+    <diagram id="svSEaXq6_SZsIZfI6RL0" name="Page-1">
+        <mxGraphModel dx="1643" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="45" value="User" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="120" width="20" height="900" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="45">
+                    <mxGeometry x="5" y="70" width="10" height="810" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="Click reset link" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="45">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="15" y="390" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="40" y="390"/>
+                        </Array>
+                        <mxPoint x="15" y="410" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="70" value="Insert new password" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=1.025;exitY=0.432;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="45" source="47">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="20" y="420" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="40" y="420"/>
+                            <mxPoint x="40" y="440"/>
+                        </Array>
+                        <mxPoint x="15" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="46" value="Login page" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="120" width="100" height="900" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="46">
+                    <mxGeometry x="45" y="80" width="10" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="46">
+                    <mxGeometry x="46" y="500" width="10" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="Validation of user" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="120" width="100" height="900" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="48">
+                    <mxGeometry x="45" y="270" width="10" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="48">
+                    <mxGeometry x="45" y="490" width="10" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="48">
+                    <mxGeometry x="45" y="600" width="10" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="Authentication server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="620" y="120" width="100" height="910" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="49">
+                    <mxGeometry x="45" y="160" width="10" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="49">
+                    <mxGeometry x="45" y="270" width="10" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="49">
+                    <mxGeometry x="45" y="600" width="10" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="login()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.014;entryY=0.496;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.067;exitY=0.037;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="47" target="50">
+                    <mxGeometry width="80" relative="1" as="geometry">
+                        <mxPoint x="130" y="220" as="sourcePoint"/>
+                        <mxPoint x="320" y="220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="53" value="Forget password" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.052;entryY=0.247;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="47" target="52">
+                    <mxGeometry width="80" relative="1" as="geometry">
+                        <mxPoint x="130" y="300" as="sourcePoint"/>
+                        <mxPoint x="660" y="300" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="55" value="Insert registered email" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1.055;exitY=0.267;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.02;entryY=0.089;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="47" target="54">
+                    <mxGeometry width="80" relative="1" as="geometry">
+                        <mxPoint x="130" y="407" as="sourcePoint"/>
+                        <mxPoint x="490" y="406" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="57" value="Check registered email" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.009;entryY=0.098;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.037;exitY=0.163;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="54" target="56">
+                    <mxGeometry x="-0.0592" y="2" width="80" relative="1" as="geometry">
+                        <mxPoint x="530" y="428" as="sourcePoint"/>
+                        <mxPoint x="640" y="420" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="59" value="Send reset password link to registered email" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.256;exitY=0.414;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="54" target="47">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="400" y="490" as="sourcePoint"/>
+                        <mxPoint x="420" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="58" value="Email valid" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.013;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.036;exitY=0.199;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="56" target="54">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="660" y="450" as="sourcePoint"/>
+                        <mxPoint x="510" y="470" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="71" value="Check password is valid or not" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1.005;exitY=0.494;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.014;entryY=0.666;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="47" target="56">
+                    <mxGeometry width="80" relative="1" as="geometry">
+                        <mxPoint x="130" y="590" as="sourcePoint"/>
+                        <mxPoint x="660" y="590" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="74" value="Passoword valid" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.118;exitY=0.764;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.984;entryY=0.116;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="56" target="73">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="660" y="620" as="sourcePoint"/>
+                        <mxPoint x="510" y="619" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="76" value="Login using new password" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.005;exitY=0.377;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.034;entryY=0.53;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="73" target="75">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="490" y="640" as="sourcePoint"/>
+                        <mxPoint x="340" y="640" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="77" value="Password invalid" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.009;exitY=0.898;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="56" target="73">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="660" y="660" as="sourcePoint"/>
+                        <mxPoint x="510" y="659" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="78" value="Insert new password again" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.022;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.046;entryY=0.605;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="73" target="47">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="490" y="680" as="sourcePoint"/>
+                        <mxPoint x="130" y="680" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="81" value="Email invalid" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.019;exitY=0.199;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.962;entryY=0.199;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="79" target="80">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="670" y="730" as="sourcePoint"/>
+                        <mxPoint x="510" y="730" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="82" value="Display error message" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.038;exitY=0.605;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="80" target="47">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="480" y="750" as="sourcePoint"/>
+                        <mxPoint x="420" y="750" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="83" value="UC002" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="36" y="60" width="724" height="990" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

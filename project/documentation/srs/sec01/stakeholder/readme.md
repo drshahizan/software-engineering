@@ -4,7 +4,8 @@
 <a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/issues"><img src="https://img.shields.io/github/issues/drshahizan/software-engineering" alt="Issues Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/software-engineering?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/software-engineering)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fsoftware-engineering&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+
 
 Don't forget to hit the :star: if you like this repo.
 
@@ -96,7 +97,7 @@ Don't forget to hit the :star: if you like this repo.
 | 4 | 21/04/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas, Muhammad Danial, Joseph Lau Yeo Kai, Low Jie Sheng | Group members | Prepare proposal | Complete |
 | 5 | 24/04/2023 | Neo Zheng Weng | Designer | Design the system architecture | Complete |
 | 6 | 3/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | 2nd meeting with KTDI assistant administrative officer | Complete |
-| 7 | 5/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | SRS documentation | Partially Complete |
+| 7 | 5/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | SRS documentation | Complete |
 | 8 | 9/05/2023 | Neo Zheng Weng | Designer | Design the use case diagram | Complete | 
 | 9 | 11/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | Meeting with KTDI fellow | Complete |
 | 10 | 14/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | 3rd meeting with KTDI senior assistant | Complete |
@@ -105,14 +106,19 @@ Don't forget to hit the :star: if you like this repo.
 | 13 | 18/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai | Project manager, Main developer | Meeting with KTDI staff | Complete |
 | 14 | 22/05/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng  | Group members | Meeting with KTDI students |  Complete |
 | 15 | 24/05/2023 | Neo Zheng Weng, Wong Khai Shian Nicholas | Designer, Developer assistant | Design information architecture | Complete |
-| 16 | 25/05/2023 | Joseph Lau Yeo Kai, Muhhammad Danial, Low Jie Sheng, Neo Zheng Weng, Wong Khai Shian Nicholas | Group members | Scrum meeting | Complete |
-| 17 | 
+| 16 | 25/05/2023 | Joseph Lau Yeo Kai, Muhammad Danial, Low Jie Sheng, Neo Zheng Weng, Wong Khai Shian Nicholas | Group members | Scrum meeting | Complete |
+| 17 | 30/05/2023 | Joseph Lau Yeo Kai | Main developer | Low fedelity UI | Complete |
+| 18 | 1/06/2023 | Wong Khai Shian Nicholas, Neo Zheng Weng, Joseph Lau Yeo Kai, Low Jie Sheng, Muhammad Danial | Group members | High fedelity UI | Complete |
+| 19 | 6/06/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | UI prototype | Complete |
+| 20 | 13/06/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | SDD documentation | In progress |
+| 21 | 20/06/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | STD documentation | To do |
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
-![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
 
 
