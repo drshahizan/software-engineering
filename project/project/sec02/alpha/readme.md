@@ -156,12 +156,15 @@ Throughout the implementation phase, the group maintained open communication, re
 
 ## 6. Conclusion:
 - Summarize the overall project experience and lessons learned.
-  
-The Kolej Tun Dr. Ismail College room rental system project aims to simplify the room rental process for students and staff by developing a web-based system that automates the process of renting college rooms. The system will consist of a three-tier architecture with a presentation tier, application tier, and data tier.
-The system included features such as student registration, room searching and booking, payment processing, room cancellation, user feedback and review, and administrative functions. 
-
 - Reflect on the challenges faced and how they were overcome.
-- Highlight any future improvements or recommendations for further development. 
+- Highlight any future improvements or recommendations for further development.
+  In conclusion, the Kolej Tun Dr. Ismail (KTDI) College room rental system project aimed to simplify the room rental process by developing a web-based system. Throughout the project, we faced challenges in gathering requirements, managing system complexity, integrating data, and designing a user-friendly interface. However, we overcame these challenges by maintaining clear and continuous communication with stakeholders, conducting thorough planning and documentation, adopting an agile development approach, and prioritizing user-centric design.
+
+From this project, we learned the importance of effective communication, comprehensive planning, and user research in ensuring project success. We also recognized the value of flexibility and adaptability in addressing changing requirements. By incorporating user feedback and conducting usability tests, we developed an intuitive and appealing interface that enhanced user satisfaction.
+
+Looking to the future, we recommend enhancing the payment and billing system with secure and convenient payment gateways and automating billing processes. Implementing advanced reporting and analytics features would provide valuable insights for decision-making and optimization. Developing a mobile application would improve accessibility and convenience for users, while continuous user feedback through surveys or satisfaction assessments would help drive ongoing system improvement.
+
+By leveraging the project experience and applying the lessons learned, the KTDI College room rental system can continue to evolve, providing a streamlined and user-friendly experience for students and staff.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
