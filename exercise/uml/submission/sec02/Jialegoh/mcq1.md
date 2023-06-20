@@ -9,23 +9,23 @@ Don't forget to hit the :star: if you like this repo.
 
 ## MCQ Set:
 
-**Name:**
+**Name: Goh Jiale** 
 
-**Matrix No:**
+**Matrix No: A22EA0043**
 
-**Section:**
+**Section: 2**
 
 ## Answer
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. B
+2. B
+3. C
+4. B
+5. B
+6. D
+7. C
+8. B
+9. D
+10. B
 
 
 ## Contribution 🛠️
