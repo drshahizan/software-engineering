@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Instructions
 - Please use the [answer template](temp_struc.md).
-- Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `mcq3.md`.
+- Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `uc1.md`.
 
 ### Folder structure
 
