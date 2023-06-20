@@ -28,7 +28,7 @@ Don't forget to hit the :star: if you like this repo.
 10. A
 11. D
 12. B
-13.
+13. B
 14.
 15.
 
