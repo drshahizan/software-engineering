@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
-    <diagram id="XR7Iuy5aEf35qMzlzGAB" name="Page-1">
-        <mxGraphModel dx="729" dy="1383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <diagram id="hDuOlyqi38zF9CnokgGX" name="Page-1">
+        <mxGraphModel dx="730" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -56,20 +56,20 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="13" value="Send Authorization" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                <mxCell id="14" value="Send Authorization" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
                     <mxGeometry x="525" y="400" width="120" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" value="Failed Authorization" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.009;exitY=0.898;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+                <mxCell id="15" value="Failed Authorization" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.009;exitY=0.898;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
                     <mxGeometry x="-0.0006" relative="1" as="geometry">
                         <mxPoint x="665.0900000000001" y="560.3999999999999" as="sourcePoint"/>
                         <mxPoint x="500" y="560" as="targetPoint"/>
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="15" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+                <mxCell id="16" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
                     <mxGeometry x="370" y="480" width="330" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="UC0010:Sequence Diagram" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+                <mxCell id="17" value="UC009:Sequence Diagram" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
                     <mxGeometry x="70" y="70" width="710" height="970" as="geometry"/>
                 </mxCell>
             </root>
