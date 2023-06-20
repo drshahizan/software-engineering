@@ -142,9 +142,6 @@ Throughout the implementation phase, the group maintained open communication, re
 
 
 ## 4. Testing and Quality Assurance:
-- Explain the testing strategies and techniques employed.
-- Discuss the types of testing conducted (e.g., unit testing, integration testing, etc.).
-- Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
 Testing and quality assurance play a crucial role in ensuring the reliability and robustness of the software. The following are the testing strategies and techniques employed in the project. 
 
 1. Testing Strategies and Techniques:
