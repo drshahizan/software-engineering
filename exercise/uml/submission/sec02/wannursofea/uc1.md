@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set: Hospital Management System (use case)
+## Case Study Question 1: Hospital Management System
 
 **Name: Wan Nur Sofea Binti Mohd Hasbullah**
 
