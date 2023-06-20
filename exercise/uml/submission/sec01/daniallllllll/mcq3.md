@@ -7,40 +7,40 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set: 2
+## MCQ Set:3
 
-**Name: Nicole Lim Tze Yee**
+**Name:**MUHAMMAD DANIAL BIN AHMAD SYAHIR**
 
-**Matrix No: A22EC0123**
+**Matrix No:**A22EC0206**
 
-**Section: 01**
+**Section:**01**
 
 ## Answer
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
+1.B
+2.A
+3.B
+4.C
+5.D
+6.C
+7.D
+8.C
+9.D
+10.C
+11.C
+12.D
+13.B
+14.D
+15.B
+16.D
+17.B
+18.D
+19.D
+20.C
+21.C
+22.C
+23.D
+24.C
+25.D
 26.
 27.
 28.
@@ -74,6 +74,5 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
 
 

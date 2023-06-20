@@ -1,28 +1,37 @@
-## MCQ Set: 2
+## MCQ Set: 1
 
-**Name: JOSEPH LAU YEO KAI**
+**Name: CAMILY TANG JIA LEI**
 
-**Matrix No: A22EC0055**
+**Matrix No: A22EC0039**
 
 **Section: 01**
 
 ## Answer
-1. A
-2. C
-3. C
-4. B
-5. A
-6. B
-7. C
-8. B
-9. D
-10. A
-11. D
-12. B
-13. B
-14. B
-15. D
-
+1. b.
+2. c. 
+3. b.
+4. c.
+5. d.
+6. c.
+7. d.
+8. b.
+9. b.
+10. c.
+11. c.
+12. d.
+13. b.
+14. d.
+15. b.
+16. d.
+17. b.
+18. d.
+19. d.
+20. d.
+21. c.
+22. c.
+23. d.
+24. c.
+25. d.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
@@ -31,4 +40,3 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
