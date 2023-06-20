@@ -9,14 +9,15 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Set:
 
-**Name: Kek Jesslyn**
+**Name:Lee Soon Der**
 
-**Matrix No: A22EC0057**
+**Matrix No:A22EC0065**
 
-**Section: 01**
+**Section:01**
 
 ## Answer
-<img src = "struc1.jpg" ; width = 200png ; height = 200png>
+![image](https://github.com/drshahizan/software-engineering/assets/129196395/fc2527ea-27fb-42a5-b5db-77855e1f4b30)
+
 
 
 ## Contribution 🛠️
@@ -26,5 +27,4 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
 
