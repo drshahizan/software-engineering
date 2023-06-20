@@ -25,7 +25,7 @@ Don't forget to hit the :star: if you like this repo.
 7. C
 8. B
 9. D
-10.
+10. B
 
 
 ## Contribution 🛠️
