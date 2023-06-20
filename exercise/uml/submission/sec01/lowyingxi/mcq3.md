@@ -1,4 +1,4 @@
-## MCQ Set: 1
+## MCQ Set: 2
 
 **Name: LOW YING XI**
 
@@ -8,16 +8,30 @@
 
 ## Answer
 1. B
-2. B
-3. C
-4. B
-5. B
-6. D
-7. C
-8. B
-9. D
-10. B
-
+2. C
+3. B
+4. C
+5. D
+6. C
+7. D
+8. C
+9. A
+10. C
+11. C
+12. D
+13. B
+14. D
+15. B
+16. A
+17. B
+18. B
+19. D
+20. D
+21. C
+22. C
+23. D
+24. D
+25. D
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
