@@ -53,9 +53,21 @@
 ---
 
 ### 4. Testing and Quality Assurance:
-- Explain the testing strategies and techniques employed.
-- Discuss the types of testing conducted (e.g., unit testing, integration testing, etc.).
-- Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
+####Testing Strategies and Techniques:
+
+- Functional Testing: This technique focuses on validating the functionality of the student wellness and health management app. It involves verifying whether the app meets the specified requirements and performs the intended tasks accurately. Test cases will be created to cover various scenarios, such as registering a new student, scheduling appointments, and accessing health records.
+
+- Usability Testing: This strategy aims to evaluate the user-friendliness and intuitiveness of the app's interface. It involves gathering feedback from actual users, particularly students staying at KTDI, regarding their experience while navigating the app. This feedback can be collected through surveys, interviews, or user observation sessions. The app's design, layout, and overall user experience will be assessed to ensure it meets the students' expectations.
+
+- Performance Testing: This technique focuses on evaluating the app's performance under different load conditions. It includes stress testing to determine the system's stability and responsiveness when handling a large number of concurrent users. Additionally, load testing will be conducted to assess how the app performs under expected peak usage. Performance metrics, such as response time, resource utilization, and throughput, will be measured and analyzed to ensure the app can handle the anticipated workload.
+
+- Security Testing: This strategy aims to identify and mitigate potential security vulnerabilities in the app. It involves conducting tests to assess the app's resistance to unauthorized access, data breaches, and other security threats. Techniques such as penetration testing, vulnerability scanning, and code review will be employed to uncover any weaknesses in the system. The app will also be evaluated for compliance with security standards and best practices.
+  
+- Unit Testing: This testing focuses on verifying the individual components or modules of the app in isolation. It ensures that each unit performs as expected and meets the specified requirements. Unit tests will be written to cover functions, methods, and classes within the app, allowing for quick identification and resolution of any defects at the code level.
+
+- Integration Testing: This type of testing verifies the interaction between different modules or components of the app. It ensures that the integration of these modules is seamless and that they function correctly when working together. Integration tests will be conducted to validate data flow, communication protocols, and interoperability between various app features.
+
+- System Testing: This testing assesses the behavior and performance of the entire system as a whole. It includes end-to-end testing of the student wellness and health management app in a simulated production-like environment. System tests will cover different scenarios, including user interactions, data synchronization, and integration with external systems such as the PKU UTM clinic's backend.
 
 ---
 
