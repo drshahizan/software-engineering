@@ -14,8 +14,11 @@
   </tr>
     <tr>
     <td>Pre-condition:
+      
       1. Hospital staff have access to the Hospital Management System.
+      
       2. Patient information is available in the system.
+      
       3. The hospital has the necessary medical and billing infrastructure.</td>
   </tr>
     <tr>
