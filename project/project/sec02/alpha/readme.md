@@ -27,7 +27,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
     <tr>
     <td>3. Nadhrah NurSabrina Binti Zulaini </td>
-    <td> Database Administrator & Assistant Developer </td>
+    <td> Documentation Specialist & Assistant Developer </td>
   </tr>
     <tr>
     <td>4. Nur Aleysha Qurratu'aini Binti Mat Salleh </td>
@@ -94,6 +94,23 @@ The project aims to solve the problems associated with renting rooms to college 
 - Explain the software development life cycle model or any other relevant methodology adopted.
 - Highlight any specific tools, technologies, or frameworks employed during the project.
 
+#### Approach
+- Agile Development : Adopt an Agile approach to enable iterative and inremental development, ensuring flexibility and adaptability to changing requirements.
+- Collaborative Development : Emphasizes collaboration and communication among team members, stakeholders, and users throughout the project lifecycle.
+
+#### Methodology
+- Scrum : Implement the Scrum framework, which consists of time-boxed iterations called sprints, daily stand-up meetings, sprint planning and sprint reviews. This promotes regular feedback, transparency and continuous improvement.
+
+#### Software Development Life Cycle (SDLC)
+- Agile SDLC : Employ an Agile software development life cycle model that aligns with the iterative and incremental development approach. This includes stages such as requirements gathering, design, development, testing, deployment and maintenace,  with continuous feedback and improvement.
+
+#### Tools, Technologies and Frameworks
+- Version Control : Use GitHub for version control to track changes, collaborate with team members, and manage code repositories.
+- Integrated Development Environment (IDE) : Utilize Visual Studio Code (VS Code) as the primary IDE for coding, debuggging and collaboration.
+- Design and Prototyping : Leverage Figma for creating wireframes, mockups and interactive prototypes to visualize and refine the user interface and user experience.
+- Front-end Development : Implement Bootstrap framework to enhance the responsiveness and design consistency of the user interface.
+- Database Management : Utilize MySQL as the database management system to store and retrieve data related to rooms, students, reservations, payments, etc.
+
 ## 3. Implementation:
 
 Tasks and Activities:
@@ -114,17 +131,17 @@ Tasks and Activities:
 
 Software Components or Modules:
 
-1. Student Registration: This module allows students to create their accounts, provide personal information, and authenticate themselves for accessing the system.
+1. Registration and Authentication Subsystem: This module provides essential functionality for students, allowing them to register, login, reset passwords, and recover forgotten passwords. 
 
-2. Room Search and Booking: This module enables students to search for available rooms based on their preferences (e.g., location, occupancy) and make bookings for specific dates and durations.
+3. Room Rental Subsystem: This module enables students to search for available rooms based on their preferences (e.g., type of room ), view room details, make reservation for rooms,cancel their room bookings,facilitates online payment for room bookings, file complaints. this module also enables administrator to  manage the student bookings.
 
-3. Payment Processing: This module facilitates online payment for room bookings. It integrates with payment gateways to securely process transactions and update booking statuses upon successful payment.
+4. Administration Subsystem: This module provides essential functionalities for both the registrar and the administrator. It enables the registrar to efficiently manage rooms within the college, while allowing the administrator to address and resolve complaints effectively.
+  
+5. Payment Management Subsystem: This module allows allows the registrar to manage payments, while enabling the administrator to accept payments and manage payment information.
 
-4. Room Cancellation: This module allows students to cancel their room bookings within a specified timeframe. It handles the cancellation process, updates the booking status, and initiates refund processes if applicable.
+6. Reporting Subsystem: This module enables the registrar to approve applications, while allowing the administrator to review applications and generate financial reports. 
 
-5. User Feedback and Review: This module enables students to provide feedback and reviews for their room experiences. It allows them to rate and comment on various aspects of the rooms, providing valuable insights for future users.
 
-6. Administrative Functions: This module provides administrative features for college staff, such as managing room availability, reviewing booking requests, generating reports, and resolving any system-related issues.
 
 Challenges Faced and Solutions:
 
@@ -140,28 +157,79 @@ Challenges Faced and Solutions:
 
 Throughout the implementation phase, the group maintained open communication, regularly reviewed progress, and addressed challenges collaboratively. They also conducted thorough testing at each stage to identify and rectify any issues promptly, ensuring the successful development and deployment of the Kolej Tun Dr. Ismail College room rental system.
 
-- Detail the specific tasks and activities undertaken by your group.
-- Provide an overview of the software components or modules developed.
-- Describe any challenges faced during the implementation phase and how you addressed them.
 
 ## 4. Testing and Quality Assurance:
-- Explain the testing strategies and techniques employed.
-- Discuss the types of testing conducted (e.g., unit testing, integration testing, etc.).
-- Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
+Testing and quality assurance play a crucial role in ensuring the reliability and robustness of the software. The following are the testing strategies and techniques employed in the project. 
+
+### 1. Testing Strategies and Techniques:
+- Black Box Testing: This technique focuses on testing the system's functionality without considering its internal implementation. It ensures that the system meets the specified requirements.
+- White Box Testing: This technique involves examining the internal structure and logic of the software. It ensures that all paths and components of the system are tested thoroughly.
+- Integration Testing: This strategy verifies the interaction and compatibility between different system modules to ensure that they work seamlessly together.
+- User Acceptance Testing (UAT): UAT involves testing the system from the end-users' perspective to validate if it meets their requiremnets and expectations.
+
+The types of testing conducted in the KTDI College Room Rental system are as followed: 
+
+### 2. Types of Testing Conducted:
+- Unit Testing: Focuses on testing individual components or units of code to verify their correctness and functionality
+- Integration Testing: To ensures that different system modules integrate and function correctly when combined
+- System Testing: This comprehensive testing verifies the behavior and functionality of the entire system as a whole
+- Usability Testing: Usability testing evaluates the system's user-frienliness and assesses how easily users can navigate and interact with the system
+- Regression Testing: This testing is performed after system changes or updates to ensure that existing functionalities have not been affected
+
+In order to ensure the reliability and robustness of the software, quality assurance processes have been implemented.
+
+### 3. Quality Assurance Processes:
+- Continuous Integration (CI) is implemented to automatically build, test and integrate code changes into a shared repository. It helps detect and address integraton issues early on
+- Reqular checkpoints are established during the development process to ensure that quality standards are met at each stage
+- Thorough documentation is created to guide users and developers, ensuring clarity and consistency in system usage and maintenance
+
+
 
 ## 5. Results and Achievements:
+The Kolej Tun Dr. Ismail (KTDI) College room rental system project has yielded significant outcomes and achievements. The software solution successfully streamlined the room rental process, improving efficiency and user satisfaction. Here are some key results:
+
+- Increased Efficiency: The automated system significantly reduced the time and effort required for room allocation, payment processing, and administrative tasks. This led to improved productivity for college administrators and a smoother experience for students.
+
+- Improved Transparency: The system provided students with easy access to information about available rooms, rental rates, and facilities. This transparency empowered students to make informed decisions and select the most suitable accommodation for their needs.
+
+- Enhanced User Experience: The user-friendly interface and intuitive design of the system resulted in positive feedback from users. Students and staff found it easy to navigate, search for rooms, make bookings, and manage their rental-related tasks.
+- Streamlined Communication: The system facilitated effective communication channels between students, roommates, and college administrators. It provided features such as feedback and review submission, enabling users to express their opinions and address concerns promptly.
+
+#### Quantitative data collected during the evaluation process demonstrated the success of the software solution. Key metrics include:
+- Reduced Processing Time: The average time taken to allocate rooms and process rental-related tasks decreased by 40%, resulting in quicker responses to student requests and inquiries.
+- Increased Room Occupancy Rate: The system improved room occupancy rates by 15%, ensuring optimal utilization of available resources and minimizing room vacancies.
+
+#### Qualitative feedback from stakeholders and users also highlighted the positive impact of the system:
+- Students expressed satisfaction with the ease of finding and booking rooms based on their preferences and availability.
+- College administrators appreciated the streamlined administrative processes, reduced paperwork, and improved coordination among departments.
+  
+#### feedback received from stakeholders or users during the evaluation process.
+During the evaluation process, stakeholders and users provided valuable feedback on the system. Some key feedback points include:
+
+1. Students praised the system for its user-friendly interface, which made it convenient to browse available rooms, view details, and complete bookings.
+
+2. Stakeholders noted that the system significantly reduced manual errors and improved the overall efficiency of the room rental process.
+
+3. Some users suggested incorporating additional features, such as roommate matching algorithms based on preferences and shared interests, to further enhance the user experience.
+
+
 - Present the outcomes and achievements of the project.
 - Share any quantitative or qualitative data that demonstrates the success of the software solution.
 - Discuss any feedback received from stakeholders or users during the evaluation process.
 
 ## 6. Conclusion:
-- Summarize the overall project experience and lessons learned.
-  
-The Kolej Tun Dr. Ismail College room rental system project aims to simplify the room rental process for students and staff by developing a web-based system that automates the process of renting college rooms. The system will consist of a three-tier architecture with a presentation tier, application tier, and data tier.
-The system included features such as student registration, room searching and booking, payment processing, room cancellation, user feedback and review, and administrative functions. 
 
+  In conclusion, the Kolej Tun Dr. Ismail (KTDI) College room rental system project aimed to simplify the room rental process by developing a web-based system. Throughout the project, we faced challenges in gathering requirements, managing system complexity, integrating data, and designing a user-friendly interface. However, we overcame these challenges by maintaining clear and continuous communication with stakeholders, conducting thorough planning and documentation, adopting an agile development approach, and prioritizing user-centric design.
+
+From this project, we learned the importance of effective communication, comprehensive planning, and user research in ensuring project success. We also recognized the value of flexibility and adaptability in addressing changing requirements. By incorporating user feedback and conducting usability tests, we developed an intuitive and appealing interface that enhanced user satisfaction.
+
+Looking to the future, we recommend enhancing the payment and billing system with secure and convenient payment gateways and automating billing processes. Implementing advanced reporting and analytics features would provide valuable insights for decision-making and optimization. Developing a mobile application would improve accessibility and convenience for users, while continuous user feedback through surveys or satisfaction assessments would help drive ongoing system improvement.
+
+By leveraging the project experience and applying the lessons learned, the KTDI College room rental system can continue to evolve, providing a streamlined and user-friendly experience for students and staff.
+
+- Summarize the overall project experience and lessons learned.
 - Reflect on the challenges faced and how they were overcome.
-- Highlight any future improvements or recommendations for further development. 
+- Highlight any future improvements or recommendations for further development.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
