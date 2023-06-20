@@ -71,27 +71,19 @@ The main goal of the system is to simplify the college room rental process and e
 
 ### Objective
 
-1. Simplifying the room rental procedure by making it easy for students to find available rooms, view details about the rooms, and complete the rental process without any trouble. The system should provide clear information about the rental terms and conditions, as well as any fees associated with the rental.
+- Simplifying the room rental procedure by making it easy for students to find available rooms, view details about the rooms, and complete the rental process without any trouble. The system should provide clear information about the rental terms and conditions, as well as any fees associated with the rental.
+- Enhancing security by maintaining the security of user information and ensuring that the payment procedure is carried out safely.
+- Streamlining administrative tasks by helping automate administrative processes like handling rental agreements, accepting payments, and producing reports.
+- Improve user experience by providing a better user experience by offering features such as room choices, and user feedback. The system will ensure that any issues or concerns can be addressed in a timely manner.
 
-2. Enhancing security by maintaining the security of user information and ensuring that the payment procedure is carried out safely.
-
-3. Streamlining administrative tasks by helping automate administrative processes like handling rental agreements, accepting payments, and producing reports.
-
-4. Improve user experience by providing a better user experience by offering features such as room choices, and user feedback. The system will ensure that any issues or concerns can be addressed in a timely manner.
-
-
-
-
-- Describe the problem statement or the need the project aims to address.
+### Problem statement or the need the project aims to address.
 The project aims to solve the problems associated with renting rooms to college students. Currently, the process is inefficient and causes confusion. The key issues include:
+- Room Allocation: Assigning suitable rooms to students based on their preferences and availability is difficult and can lead to dissatisfaction and conflicts.-- - Transparency and Accessibility: Students struggle to access information about available rooms, rates, and facilities, which hampers their decision-making process.
+- Administrative Burden: Managing room rentals manually is time-consuming for college administrators, resulting in a waste of resources.
+- Communication and Conflict Resolution: Inadequate communication channels and dispute resolution mechanisms contribute to conflicts between roommates and students and the administration.
+- Optimization and Resource Utilization: The current systems lack tools to monitor room occupancy, optimize allocation, and effectively use available resources.
 
-1. Room Allocation: Assigning suitable rooms to students based on their preferences and availability is difficult and can lead to dissatisfaction and conflicts.
-2. Transparency and Accessibility: Students struggle to access information about available rooms, rates, and facilities, which hampers their decision-making process.
-3. Administrative Burden: Managing room rentals manually is time-consuming for college administrators, resulting in a waste of resources.
-4. Communication and Conflict Resolution: Inadequate communication channels and dispute resolution mechanisms contribute to conflicts between roommates and students and the administration.
-5. Optimization and Resource Utilization: The current systems lack tools to monitor room occupancy, optimize allocation, and effectively use available resources.
-
-- Outline the significance and potential impact of the project.
+ ### Significance and potential impact of the project.
 
   The college room rental system seeks to solve these problems by automating the rental process, making it easier for students to find and rent rooms, and for staff to manage their rental properties. The system will be accessible from any device with an internet connection, making it convenient for students to search for available rooms and make reservations at any time.
   The college room rental system has the potential to transform the rental process in colleges, making it more efficient, secure, and convenient for all stakeholders involved. The proposal seeks to provide a comprehensive overview of the system, its features, and its benefits, and to outline a detailed plan for its development and implementation.
