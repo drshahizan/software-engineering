@@ -117,9 +117,10 @@ Don't forget to hit the :star: if you like this repo.
 Requirement Analysis:
 Gather requirements by conducting interviews and meetings with stakeholders, including students, faculty, and administrative staff.
 Identify the key features and functionalities of the Student Feedback System.
-Document the requirements in a clear and concise manner.
-System Design:
 
+Document the requirements in a clear and concise manner.
+
+System Design:
 Design the overall system architecture and modules based on the identified requirements.
 Define the data model and database schema.
 Create wireframes or prototypes to visualize the user interface and interactions.
@@ -137,8 +138,8 @@ Perform unit testing to check the functionality of individual components.
 Conduct integration testing to verify the interaction between different modules.
 Carry out system testing to evaluate the system as a whole.
 Debug and fix any issues or defects identified during testing.
-Deployment:
 
+Deployment:
 Prepare the system for deployment by configuring servers, databases, and necessary infrastructure.
 Ensure compatibility with the target environment and perform any required optimizations.
 Deploy the system to a production environment following best practices and security guidelines.
