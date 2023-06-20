@@ -209,7 +209,7 @@ Information Architecture for Lecturer:
 
 Information Architecture for Admin:
 
-[image](https://github.com/drshahizan/software-engineering/assets/129196395/aeb752f7-1012-4297-8274-c77693250756)
+![image](https://github.com/drshahizan/software-engineering/assets/129196395/aeb752f7-1012-4297-8274-c77693250756)
 
 User Flow:
 
