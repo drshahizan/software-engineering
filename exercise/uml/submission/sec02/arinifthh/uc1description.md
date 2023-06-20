@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <th>Use case: MSO Hospital Management System</th>
+    <td>Use case: MSO Hospital Management System</td>
   </tr>
     <tr>
     <td>Actors: Hospital staff( (Doctors, Nurses, Administrative Personnel)</td>
