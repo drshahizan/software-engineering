@@ -7,7 +7,31 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Case Study Question 1: Hospital Management System
+## Instructions
+- Please use the [Answer template](temp_struc.md).
+- Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `mcq3.md`.
+
+### Folder structure
+
+```
+🗂️submission
+├─ 🗂️sec01
+├── 📄readme.md
+├── 📁drshahizan
+│   ├── 📄mcq1.md
+│   ├── ...
+│   └── 📄mcq5.md
+├── 📁your github id
+├─ 🗂️sec02
+├── 📄readme.md
+├── 📁drshahizan
+│   ├── 📄mcq1.md
+│   ├── ...
+│   └── 📄mcq5.md
+└── 📁your github id
+```
+
+# Case Study Question 1: Hospital Management System
 
 ## Description
 In a bustling hospital, there is a need for an efficient management system that can handle patient admissions, appointments, medical records, and billing. The hospital aims to streamline its operations, improve patient care, and ensure accurate billing processes. To achieve these goals, they plan to develop a comprehensive Hospital Management System.
