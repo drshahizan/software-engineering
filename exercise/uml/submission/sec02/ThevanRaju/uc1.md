@@ -7,17 +7,17 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set:
+## Set 1:
 
-**Name:ANAS**
+**Name:THEVAN RAJU A/L JEGANATH**
 
-**Matrix No:  A21SC0464**
+**Matrix No:A22EC0286**
 
-**Section: 02**
+**Section:02**
 
 ## Answer
-![SE file drawio](https://github.com/drshahizan/software-engineering/assets/116987481/2260888b-1949-44df-a5c3-84d4991f267c)
 
+![USECASE.drawio.png](https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec02/ThevanRaju/USECASE.drawio.png)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
@@ -26,5 +26,4 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
 
