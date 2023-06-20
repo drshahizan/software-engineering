@@ -9,15 +9,14 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Set:
 
-**Name: Kek Jesslyn**
+**Name: Yeoh Chong Yi**
 
-**Matrix No: A22EC0057**
+**Matrix No: A22EC0295**
 
 **Section: 01**
 
 ## Answer
-<img src = "" ; with = 200png ; height = 200png>
-
+![uc1](uc1.png)  
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
