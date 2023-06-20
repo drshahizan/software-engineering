@@ -44,7 +44,7 @@
     </tr>
     <tr>
         <td>
-            <b>Postconditions: </b>
+            <b>Postconditions: </b> <br>
             1. Patient information updated <br>
             2. Accessible records for future reference <br>
             3. Provision of necessary medical services <br>
