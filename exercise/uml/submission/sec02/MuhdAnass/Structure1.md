@@ -16,7 +16,7 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 02**
 
 ## Answer
-
+<img src = "exercise/uml/submission/sec02/MuhdAnass/SE file.drawio.png" , width = "500" height="400">
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
