@@ -7,13 +7,13 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set:
+## MCQ Set: 3
 
-**Name:**
+**Name:THEVAN RAJU A/L JEGANATH**
 
-**Matrix No:**
+**Matrix No: A22EC0286**
 
-**Section:**
+**Section:02**
 
 ## Answer
 1.
