@@ -7,17 +7,30 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set: 1
+## MCQ Set:
 
-**Name: NEO ZHENG WENG**
+**Name: Wong Jun Ji**
 
-**Matrix No: A22EC0093**
+**Matrix No: A22EC0117**
 
 **Section: 01**
 
 ## Answer
-![uc1](https://github.com/drshahizan/software-engineering/assets/118497269/d18dcdd0-1ba5-45eb-b740-baaeca9fcf96)
-
+1. A
+2. C
+3. C
+4. B
+5. A
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

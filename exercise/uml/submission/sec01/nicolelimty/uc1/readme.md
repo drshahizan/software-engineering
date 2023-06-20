@@ -9,14 +9,17 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Set: 1
 
-**Name: NEO ZHENG WENG**
+**Name: Nicole Lim Tze Yee**
 
-**Matrix No: A22EC0093**
+**Matrix No: A22EC0123**
 
 **Section: 01**
 
 ## Answer
-![uc1](https://github.com/drshahizan/software-engineering/assets/118497269/d18dcdd0-1ba5-45eb-b740-baaeca9fcf96)
+<img width="478" alt="image" src="https://github.com/drshahizan/software-engineering/assets/129235052/e3387a9f-addd-4fa7-93a0-8fa33d7bc870">
+
+## Use Case Description
+https://docs.google.com/document/d/11r9_aEaw0355vqluQs_dxvVGp5E8o9QfQ7uhMexlTC4/edit
 
 
 ## Contribution 🛠️
@@ -26,4 +29,6 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
+
+
 
