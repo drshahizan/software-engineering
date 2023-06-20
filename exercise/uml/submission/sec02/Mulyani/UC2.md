@@ -65,6 +65,21 @@ Don't forget to hit the :star: if you like this repo.
     <br>10.The staff can choose to print or save the admission details as necessary.
     </td>
   </tr>
+   <tr>
+        <td>
+            <b>Alternate Flow </b> <br>
+            1. If the system detects errors or missing information, the system displays an error message and highlights the fields that require correction. <br>
+            2. The staff corrects the errors or provides the missing information. <br>
+            3. The system re-validates the entered information and repeats step 6 until all information is valid. <br>
+        </td>
+    </tr>
+  <tr>
+        <td>
+            <b>Exception Flow </b> <br>
+            1. If there is a system failure, the staff may not be able to access the Hospital Management System, and the use case cannot proceed until the issue is resolved. <br>
+            2. If the hospital's medical or billing infrastructure is not available or functioning properly, the staff may not be able to provide the necessary medical services or billing information to the patient. <br>
+        </td>
+    </tr>
 </table>
 
 
