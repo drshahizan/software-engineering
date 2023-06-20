@@ -45,11 +45,6 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-## Documentation
-| No | Name |File | 
-| -----:| ----- | :------: | 
-|1| Document STD| <a href="https://docs.google.com/document/d/1YphQxo6uX6sIaVZcXveb659h7__7CS87/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-
 ## Stakeholders
 
 <table>
