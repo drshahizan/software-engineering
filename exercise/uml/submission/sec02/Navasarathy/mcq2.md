@@ -7,13 +7,13 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set:
+## MCQ Set 2:
 
-**Name:**
+**Name:** Navasarathy
 
-**Matrix No:**
+**Matrix No:** A22EC0091
 
-**Section:**
+**Section:** 02
 
 ## Answer
 1. A 
