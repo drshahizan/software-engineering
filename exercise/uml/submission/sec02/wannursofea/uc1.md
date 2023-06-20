@@ -7,16 +7,16 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set: 1
+## Set:
 
-**Name: Goh Jiale**
+**Name: Wan Nur Sofea Binti Mohd Hasbullah**
 
-**Matrix No: A22EA0043**
+**Matrix No: A22EC0115**
 
-**Section: 2**
+**Section: 02**
 
 ## Answer
-![uc1(1)](https://github.com/drshahizan/software-engineering/assets/129137382/7830e3c6-dfff-45cb-b544-8bd258ce7f41)
+<img src="uc1.jpg">
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
@@ -25,5 +25,4 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
 
