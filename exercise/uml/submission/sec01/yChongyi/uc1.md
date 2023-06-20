@@ -6,20 +6,17 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fsoftware-engineering&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 Don't forget to hit the :star: if you like this repo.
-<!DOCTYPE html>
-<html lang="en">
-## Set: 1
 
-**Name: Kek Jesslyn**
+## Set:
 
-**Matrix No: A22EC0057**
+**Name: Yeoh Chong Yi**
+
+**Matrix No: A22EC0295**
 
 **Section: 01**
 
 ## Answer
-<img src = "struc1.jpg" ; width = 200png ; height = 200png>
-
-</html>
+![uc1](uc1.png)  
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
