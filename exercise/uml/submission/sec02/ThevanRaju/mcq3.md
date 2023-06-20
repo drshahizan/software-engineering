@@ -22,7 +22,7 @@ Don't forget to hit the :star: if you like this repo.
 4. C
 5. D
 6. C
-7.
+7. D
 8.
 9.
 10.
