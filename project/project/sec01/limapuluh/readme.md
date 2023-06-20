@@ -174,13 +174,13 @@ The choice of tools, technologies, and frameworks will depend on the specific re
 
 ## 3. Implementation:
 ### Detail the specific tasks and activities undertaken by our group:
-- <b>1.Create Project Plan</b>: Set up a meeting with all group member to decide the software system to be develop. Determine the role of each member and have a rough plan for this project.
+- <b>Create Project Plan</b>: Set up a meeting with all group member to decide the software system to be develop. Determine the role of each member and have a rough plan for this project.
   ![image](https://github.com/drshahizan/software-engineering/assets/129196395/1b3433fe-681f-4a9f-b821-742af882a2be)
-- <b>2.Find Stakeholders</b>: Deciding who's is our stakeholder for our system that called Student Feedback System in Faculty of Computing, University Technology Malaysia.
+- <b>Find Stakeholders</b>: Deciding who's is our stakeholder for our system that called Student Feedback System in Faculty of Computing, University Technology Malaysia.
   ![image](https://github.com/drshahizan/software-engineering/assets/129196395/e8a75f2a-ed89-40ea-b231-6ca9b27e83de)
-- <b>3.Create Proposal</b>: We create a proposal to briefly describe the student feedback system.
+- <b>Create Proposal</b>: We create a proposal to briefly describe the student feedback system.
   <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec01/Limapuluh"></a>
-- <b>4.Create UML Diagram</b>: Create Use case Diagram,Class Diagram,Sequence diagram and Activity Diagram.
+- <b>Create UML Diagram</b>: Create Use case Diagram,Class Diagram,Sequence diagram and Activity Diagram.
   
  Sequence Diagram: ![image](https://github.com/drshahizan/software-engineering/assets/129196395/0e0f0681-72a0-4f77-ba98-1d9312739084)
  
@@ -189,15 +189,15 @@ The choice of tools, technologies, and frameworks will depend on the specific re
  Use Case Diagram: ![image](https://github.com/drshahizan/software-engineering/assets/129196395/bf6ff114-0cde-4cc7-aa1d-8b355c9b5b5e)
  
  Activity Diagram: ![image](https://github.com/drshahizan/software-engineering/assets/129196395/538e6299-4fdf-4ba4-990e-60eb67c034e1)
-- <b>5.Create SRS Documentation</b>: Use Cases and extra to-do parts in SRS documentation identified
+- <b>Create SRS Documentation</b>: Use Cases and extra to-do parts in SRS documentation identified
 
 ![image](https://github.com/drshahizan/software-engineering/assets/129196395/59a3f779-4d4d-49c0-943b-3581085b4537)
 
 Link of SRS:<a href="https://docs.google.com/document/d/1MoiExIdS3nKnUEuDTeOu3UFDEozOwKlU/edit" >
-- <b>6.Planning for interface design</b>:Rough Planning of Interfaces to be Designed.
+- <b>Planning for interface design</b>:Rough Planning of Interfaces to be Designed.
 
 ![image](https://github.com/drshahizan/software-engineering/assets/129196395/54e47177-1eed-4f1c-8bd0-892d3876a447)
-- <b>7.Develop detailed system interface </b>: Develop Information Architecture,User Flow,Low Fidelity Wireframes,High Fidelity Wireframes,Design System & Typography and UI Design
+- <b>Develop detailed system interface </b>: Develop Information Architecture,User Flow,Low Fidelity Wireframes,High Fidelity Wireframes,Design System & Typography and UI Design
   
 Information Architecture for Student:
 
@@ -229,11 +229,11 @@ Design System & Typography:
 
 Ui Screen:<a href="https://www.figma.com/proto/aKf4uX8pu5sRzju2a2GI15/Student-Feedback-System-Design?type=design&node-id=69-130&scaling=scale-down&page-id=3%3A32&starting-point-node-id=69%3A130" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>
   
-- <b>8.Create System Design Documentation</b>:We create a system design documentation to outlines the design of student feedback system.It provide a clear and detailed description of how the system will be structured and how its components will interact.
+- <b>Create System Design Documentation</b>:We create a system design documentation to outlines the design of student feedback system.It provide a clear and detailed description of how the system will be structured and how its components will interact.
 
 <a href="https://docs.google.com/document/d/1QB1w7Om8emCXuDQylUCc1Qq2EBegsS_-/edit" ><https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-yzsll&psig=AOvVaw2doGyGT-Bu11ad6-jcrehp&ust=1687344281595000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCb3rvV0f8CFQAAAAAdAAAAABAE></a>
   
-- <b>9.Create System Test Documentation</b>:
+- <b>Create System Test Documentation</b>:
 
 ### An overview of the software components or modules developed:
 
