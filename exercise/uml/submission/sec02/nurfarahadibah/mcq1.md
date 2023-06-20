@@ -9,11 +9,11 @@ Don't forget to hit the :star: if you like this repo.
 
 ## MCQ Set:
 
-**Name:**
+**Name: NUR FARAH ADIBAH BINTI IDRIS**
 
-**Matrix No:**
+**Matrix No: A22EC0245**
 
-**Section:**
+**Section: 02**
 
 ## Answer
 1. B
