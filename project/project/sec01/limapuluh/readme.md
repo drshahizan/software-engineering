@@ -116,6 +116,16 @@ Don't forget to hit the :star: if you like this repo.
 
 ## 3. Implementation:
 - Detail the specific tasks and activities undertaken by your group.
+- <b>Create Project Plan</b>: Set up a meeting with all group member to decide the software system to be develop. Determine the role of each member and have a rough plan for this project.
+  ![image](https://github.com/drshahizan/software-engineering/assets/129196395/1b3433fe-681f-4a9f-b821-742af882a2be)
+- <b>Find Stakeholders</b>: Deciding who's is our stakeholder for our system that called Student Feedback System in Faculty of Computing, University Technology Malaysia.
+  ![image](https://github.com/drshahizan/software-engineering/assets/129196395/e8a75f2a-ed89-40ea-b231-6ca9b27e83de)
+
+- <b>Requirement Analysis</b>: We analyzed the project requirements and made sure we had a clear understanding of the desired software functionality.
+<b>Design and Architecture</b>: We created a software design and architecture that aligned with the project requirements and best practices. This involved defining the software components, their interactions, and the overall structure of the system.
+<b>Development</b>: We implemented the software components according to the design and architecture. Each team member worked on specific modules or functionalities, following coding standards and guidelines.
+<b>Testing</b>: We conducted comprehensive testing to ensure the correctness and reliability of the software. This involved unit testing, integration testing, and system testing. We also performed bug fixing and debugging to address any issues identified during testing.
+<b>Documentation</b>: We documented the implementation details, including the code documentation, user manuals, and system documentation. This helped in the future maintenance and understanding of the software.
 - Provide an overview of the software components or modules developed.
 - Describe any challenges faced during the implementation phase and how you addressed them.
 
