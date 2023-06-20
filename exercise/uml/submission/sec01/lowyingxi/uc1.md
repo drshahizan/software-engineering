@@ -8,4 +8,4 @@
 
 ## Answer
 
-<img src="uc_exercise1.jpg" alt=""/></a>
+<img src="drawio/uc_exercise1.jpg" alt=""/></a>

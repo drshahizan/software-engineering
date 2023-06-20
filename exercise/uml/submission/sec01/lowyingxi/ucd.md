@@ -8,4 +8,4 @@
 
 ## Answer
 
-<img src="ucd.png" alt=""/></a>
+<img src="drawio/ucd.png" alt=""/></a>
