@@ -9,7 +9,31 @@ Don't forget to hit the :star: if you like this repo.
 
 # Case Study: Online Bookstore System
 
-## Introduction
+## Instructions
+- Please use the [MCQ template](temp_mcq.md).
+- Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `mcq1.md`.
+
+### Folder structure
+
+```
+🗂️submission
+├─ 🗂️sec01
+├── 📄readme.md
+├── 📁drshahizan
+│   ├── 📄mcq1.md
+│   ├── ...
+│   └── 📄mcq5.md
+├── 📁your github id
+├─ 🗂️sec02
+├── 📄readme.md
+├── 📁drshahizan
+│   ├── 📄mcq1.md
+│   ├── ...
+│   └── 📄mcq5.md
+└── 📁your github id
+```
+
+## Case Study: Introduction
 An online bookstore system is a web-based application that allows users to browse and purchase books online. The system provides features such as searching for books, adding them to a shopping cart, and completing the purchase transaction. The system consists of two main actors: User and Admin. Users can search for books based on various criteria, view book details, add books to their cart, manage the cart contents, and proceed to checkout. Admins are responsible for managing the book inventory and user accounts. They can add, update, or remove books from the system's inventory and manage user registration, login, and account deletion.
 
 ## Use Case Diagram
@@ -87,30 +111,6 @@ Admins have access to additional functionality. They can manage the book invento
     - b. Admin.
     - c. Book.
     - d. Cart.
-
-### Submission
-- Please use the [MCQ template](temp_mcq.md).
-- Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `mcq1.md`.
-
-### Folder structure
-
-```
-🗂️submission
-├─ 🗂️sec01
-├── 📄readme.md
-├── 📁drshahizan
-│   ├── 📄uc1.md
-│   ├── ...
-│   └── 📄uc5.md
-├── 📁your github id
-├─ 🗂️sec02
-├── 📄readme.md
-├── 📁drshahizan
-│   ├── 📄uc1.md
-│   ├── ...
-│   └── 📄uc5.md
-└── 📁your github id
-```
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
