@@ -7,27 +7,27 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set: 3
+## MCQ Set:
 
-**Name:THEVAN RAJU A/L JEGANATH**
+**Name:** Nadhrah NurSabrina Binti Zulaini
 
-**Matrix No: A22EC0286**
+**Matrix No:** A22EC0224
 
-**Section:02**
+**Section:** 02
 
 ## Answer
-1. B
+1. A
 2. C
 3. B
 4. C
 5. D
-6. C
+6. B
 7. D
 8. C
 9. D
 10. C
 11. C
-12. D
+12. C
 13. B
 14. D
 15. B
@@ -42,7 +42,6 @@ Don't forget to hit the :star: if you like this repo.
 24. C
 25. D
 
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
 
@@ -50,6 +49,5 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
 
 

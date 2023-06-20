@@ -7,11 +7,11 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set: 3
+## MCQ Set:
 
-**Name:THEVAN RAJU A/L JEGANATH**
+**Name: NUR FARAH ADIBAH BINTI IDRIS**
 
-**Matrix No: A22EC0286**
+**Matrix No: A2EC0245**
 
 **Section:02**
 
@@ -19,7 +19,7 @@ Don't forget to hit the :star: if you like this repo.
 1. B
 2. C
 3. B
-4. C
+4. D
 5. D
 6. C
 7. D
@@ -31,7 +31,7 @@ Don't forget to hit the :star: if you like this repo.
 13. B
 14. D
 15. B
-16. D
+16. C
 17. B
 18. D
 19. D
@@ -41,7 +41,7 @@ Don't forget to hit the :star: if you like this repo.
 23. D
 24. C
 25. D
-
+   
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
@@ -50,6 +50,4 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
-
 
