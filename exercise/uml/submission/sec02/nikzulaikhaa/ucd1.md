@@ -16,63 +16,51 @@ Don't forget to hit the :star: if you like this repo.
 **Section:2**
 
 ## Answer
-
 <table>
   <tr>
- 
-      <b>
-        Use Case Description : Hospital Management System
-      </b>
-    
+    <td>
+      <b>Use Case Description: MSO Hospital Management System</b>
+    </td>
   </tr>
   <tr>
-
-      <b>
-        ID : 001
-      </b>
-   
+        <td>
+            <b>ID:</b> 001
+        </td>
+    </tr>
+    <tr>
+  <tr>
+    <td>
+      <b>Actors:</b>
+      Hospital staff
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <b>Preconditions:</b>
+     <br>1.  The hospital staff has logged into the MSO Hospital Management System.
+     <br>2.  The necessary patient information is available in the system. 
+     <br>3.  The hospital has the required medical and billing infrastructure. 
+    </td>
   </tr>
   <tr>
- 
-      <b>
-        Actors:
-      </b>
-      Front Desk Officer
-      Receptionist
-      Medical Staff
-      Billing Officer
-   
-  </tr>
-  <tr>
- 
-      <b>
-        Preconditions:
-      </b>
-      <br>
-            1. Hospital staff log into the system. 
-      <br>
-            2. Hospital staff select the desired function  such as admissions, appointments, medical   records, or billing. <br>
-            3. Hospital staff perform specific actions based on the selected function. 
-      <br>
+        <td>
+            <b>Flow of events: </b> <br>
+            1. Hospital staff log into the system. <br>
+            2. Hospital staff select the desired function  such as admissions, appointments, medical records, or billing. <br>
+            3. Hospital staff perform specific actions based on the selected function. <br>
             4. System validate and update the data accordingly.
-       
-      
-    
-  </tr>
+        </td>
+    </tr>
   <tr>
-    
-      <b>
-        Postconditions:
-      </b>
-      <br>1.  The patient's admission information is recorded in the system.
+    <td>
+      <b>Postconditions:</b>
+     <br>1.  The patient's admission information is recorded in the system.
      <br>2.  The patient's medical records are accessible and up-to-date.
      <br>3.  The patient is provided with necessary medical services.
      <br>4. The patient is provided with billing information for the services rendered. 
-    
+    </td>
   </tr>
 </table>
-
-
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
@@ -81,4 +69,5 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
+
 
