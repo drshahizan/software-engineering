@@ -114,17 +114,17 @@ Tasks and Activities:
 
 Software Components or Modules:
 
-1. Student Registration: This module allows students to create their accounts, provide personal information, and authenticate themselves for accessing the system.
+1. Registration and Authentication Subsystem: This module provides essential functionality for students, allowing them to register, login, reset passwords, and recover forgotten passwords. 
 
-2. Room Search and Booking: This module enables students to search for available rooms based on their preferences (e.g., location, occupancy) and make bookings for specific dates and durations.
+3. Room Rental Subsystem: This module enables students to search for available rooms based on their preferences (e.g., type of room ), view room details, make reservation for rooms,cancel their room bookings,facilitates online payment for room bookings, file complaints. this module also enables administrator to  manage the student bookings.
 
-3. Payment Processing: This module facilitates online payment for room bookings. It integrates with payment gateways to securely process transactions and update booking statuses upon successful payment.
+4. Administration Subsystem: This module provides essential functionalities for both the registrar and the administrator. It enables the registrar to efficiently manage rooms within the college, while allowing the administrator to address and resolve complaints effectively.
+  
+5. Payment Management Subsystem: This module allows allows the registrar to manage payments, while enabling the administrator to accept payments and manage payment information.
 
-4. Room Cancellation: This module allows students to cancel their room bookings within a specified timeframe. It handles the cancellation process, updates the booking status, and initiates refund processes if applicable.
+6. Reporting Subsystem: This module enables the registrar to approve applications, while allowing the administrator to review applications and generate financial reports. 
 
-5. User Feedback and Review: This module enables students to provide feedback and reviews for their room experiences. It allows them to rate and comment on various aspects of the rooms, providing valuable insights for future users.
 
-6. Administrative Functions: This module provides administrative features for college staff, such as managing room availability, reviewing booking requests, generating reports, and resolving any system-related issues.
 
 Challenges Faced and Solutions:
 
