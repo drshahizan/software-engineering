@@ -29,7 +29,7 @@ Don't forget to hit the :star: if you like this repo.
 11. D
 12. B
 13. B
-14.
+14. B
 15.
 
 
