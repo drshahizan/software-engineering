@@ -16,9 +16,9 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 02**
 
 ## Answer
-1.D
-2.C
-3.C
+1. D
+2. C
+3. C
 4.A
 5.A
 6.B
