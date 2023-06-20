@@ -140,9 +140,6 @@ Challenges Faced and Solutions:
 
 Throughout the implementation phase, the group maintained open communication, regularly reviewed progress, and addressed challenges collaboratively. They also conducted thorough testing at each stage to identify and rectify any issues promptly, ensuring the successful development and deployment of the Kolej Tun Dr. Ismail College room rental system.
 
-- Detail the specific tasks and activities undertaken by your group.
-- Provide an overview of the software components or modules developed.
-- Describe any challenges faced during the implementation phase and how you addressed them.
 
 ## 4. Testing and Quality Assurance:
 - Explain the testing strategies and techniques employed.
