@@ -86,6 +86,53 @@ Don't forget to hit the :star: if you like this repo.
 | 10 | 08/05/2023 | All members | | Conduct a meeting with the third stakeholder, another third-year student |  Complete | 
 | 11 | 09/05/2023 | Wan Nur Sofea Binti Mohd Hasbullah | | Contact our fourth stakeholder, an administrative officer | Complete |
 | 12 | 15/05/2023 | All members | | Conduct a meeting with the fourth stakeholder, an administrative officer |  Complete | 
+
+
+## 1. Introduction:
+Introduction:
+
+The purpose of this project is to develop an Academic Consultation System that aims to revolutionize the way students receive academic support and guidance. By leveraging technology and personalized interactions, this system seeks to address the existing challenges faced by students in accessing individualized attention from their lecturers. Through this project, we aim to create a more effective and personalized academic support system that enhances students' learning experiences and promotes their overall academic success.
+
+Problem Statement:
+Currently, students often encounter difficulties in seeking timely and personalized academic support due to the limitations of traditional methods. Overcrowded classrooms, limited office hours, and conflicting schedules hinder their access to individualized attention from lecturers. As a result, students may struggle to grasp complex concepts, face challenges in completing assignments, and experience a lack of engagement and motivation. These issues hinder their academic performance and inhibit their overall learning potential.
+
+Project Significance and Potential Impact:
+The Academic Consultation System presented in this project addresses these challenges by providing a dedicated platform for students to schedule and attend one-on-one consultations with their lecturers. By implementing this system, students will have the opportunity to receive personalized guidance, seek clarification on course material, and obtain valuable feedback on their academic progress. This personalized support will foster a more engaging and productive learning environment, leading to improved academic performance and increased student success rates.
+
+Furthermore, this project recognizes the importance of lecturers' time and commitments. By enabling lecturers to manage consultations separately from their teaching schedules, the system ensures that they can provide individualized attention to students without disrupting their regular classroom activities. This balance will enhance lecturers' ability to support students effectively and create a positive impact on student learning outcomes.
+
+In conclusion, this project holds immense significance for students, lecturers, and the academic community as a whole. By addressing the problem of limited access to personalized academic support, the Academic Consultation System has the potential to improve student engagement, enhance academic performance, and ultimately contribute to the overall success and growth of students in their educational journeys.
+
+## 2. Methodology:
+- Describe the approach and methodologies utilized to tackle the project.
+- Explain the software development life cycle model or any other relevant methodology adopted.
+- Highlight any specific tools, technologies, or frameworks employed during the project.
+
+## 3. Implementation:
+- Detail the specific tasks and activities undertaken by your group.
+- Provide an overview of the software components or modules developed.
+- Describe any challenges faced during the implementation phase and how you addressed them.
+
+## 4. Testing and Quality Assurance:
+- Explain the testing strategies and techniques employed.
+- Discuss the types of testing conducted (e.g., unit testing, integration testing, etc.).
+- Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
+
+## 5. Results and Achievements:
+- Present the outcomes and achievements of the project.
+- Share any quantitative or qualitative data that demonstrates the success of the software solution.
+- Discuss any feedback received from stakeholders or users during the evaluation process.
+
+## 6. Conclusion:
+In conclusion, the development and implementation of the Academic Consultation System have provided valuable insights and lessons learned. Throughout this project, we encountered several challenges, but through effective collaboration and problem-solving, we were able to overcome them and achieve our objectives.
+
+One of the main lessons learned from this project is the importance of stakeholder engagement and feedback. By actively involving students and lecturers in the design and testing phases, we gained valuable insights into their specific needs and preferences. This iterative approach allowed us to fine-tune the system and tailor it to meet their requirements, resulting in a more user-friendly and effective platform.
+
+Additionally, we recognized the significance of addressing technical challenges during the development process. From ensuring seamless integration with existing systems to optimizing performance and scalability, our team invested considerable effort in overcoming technical obstacles. Through thorough testing and continuous improvement, we were able to create a robust and reliable Academic Consultation System.
+
+Looking forward, there are several areas where the system can be further enhanced. First, incorporating data analytics capabilities can provide valuable insights into student consultation patterns, enabling administrators and lecturers to identify trends and proactively address student needs. Second, integrating additional communication channels, such as video conferencing or chat functionality, can offer more flexibility and convenience for consultations. Lastly, expanding the system's accessibility by developing mobile applications or responsive design can cater to the evolving needs and preferences of users.
+
+In conclusion, the development and implementation of the Academic Consultation System have proven to be a transformative endeavor, providing students with personalized academic support, enabling lecturers to engage with students more effectively, and fostering a conducive learning environment. By reflecting on the challenges faced and embracing continuous improvement, we are confident that the system will have a lasting impact on student success and serve as a valuable resource within our academic institution.
  
  
 ## Contribution 🛠️
