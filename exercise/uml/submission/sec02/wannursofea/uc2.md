@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set:
+## Set: E-commerce Website (use case)
 
 **Name: Wan Nur Sofea Binti Mohd Hasbullah**
 
@@ -16,34 +16,6 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 02**
 
 ## Answer
-**Use case: Patient Admission**
-
-ID: UC001
-
-
-**Actors:**
-
-1. Patient
-2. Hospital Staff
-
-
-**Preconditions:**
-1. The hospital staffs have access to Hospital Management System.
-2. The patient information is available in the system.
-3.  The hospital has the necessary medical and billing infrastructure.
-
-**Flow of events:**
-
-1. The hospital staff logs into the system.
-2. The hospital staff selects the desired function in the system such as admissions, appointments, medical records, or, billing.
-3. The system validates and updates the data.
-
- 
-**Postconditions:**
-
-1. The system updated the patient’s information.
-2. The users have access to the system records.
-3. The users have the provision of necessary medical services and billing information to patients.
 
 
 ## Contribution 🛠️

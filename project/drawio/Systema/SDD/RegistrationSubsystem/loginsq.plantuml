@@ -1,0 +1,62 @@
+@startuml
+title Login - Sequence Diagram
+
+actor "Faculty of Computing’s Students" as Student
+actor "Faculty of Computing’s Lecturers" as Lecturer
+actor "Faculty of Computing’s Student Representative Council Members" as SRCMember
+actor Administrators as Admin
+
+boundary "Login Page" as LoginPage
+control "Login Controller" as LoginController
+boundary "Dashboard Page" as DashboardPage
+entity "User" as User
+control "Authentication Service" as AuthService
+database "User Repository" as UserRepository
+database "User Database" as UserDatabase
+
+Student -> LoginPage: Open login page
+LoginPage -> LoginController: Display login form
+Student -> LoginController: Enter username/email and password
+LoginController -> AuthService: Authenticate credentials
+AuthService -> UserRepository: Retrieve user by username/email
+UserRepository -> UserDatabase: Query user data
+UserDatabase --> UserRepository: User data
+UserRepository --> AuthService: User data
+AuthService -> AuthService: Validate password
+alt Valid credentials
+    AuthService -> User: Create user session
+    User -> DashboardPage: Redirect to dashboard
+    DashboardPage --> Student: Display dashboard
+else Invalid credentials
+    AuthService --> LoginController: Invalid credentials
+    LoginController --> LoginPage: Display error message
+    Student --> LoginPage: Enter new username/email and password
+    loop until valid credentials
+        Student -> LoginController: Enter new username/email and password
+        LoginController -> AuthService: Authenticate credentials
+        AuthService -> UserRepository: Retrieve user by username/email
+        UserDatabase -> UserDatabase: Query user data
+        UserDatabase --> UserRepository: User data
+        UserRepository --> AuthService: User data
+        AuthService -> AuthService: Validate password
+        alt Valid credentials
+            AuthService -> User: Create user session
+            User -> DashboardPage: Redirect to dashboard
+            DashboardPage --> Student: Display dashboard
+        else Invalid credentials
+            AuthService --> LoginController: Invalid credentials
+            LoginController --> LoginPage: Display error message
+            Student --> LoginPage: Enter new username/email and password
+        end
+    end
+else User account not verified
+    AuthService --> LoginController: Account not verified
+    LoginController --> LoginPage: Display verification error message
+    Student --> LoginPage: Verify email address
+end
+
+alt Technical issues/errors
+    LoginController --> LoginPage: Display technical error message
+    Student --> LoginPage: Seek support or assistance
+end
+@enduml

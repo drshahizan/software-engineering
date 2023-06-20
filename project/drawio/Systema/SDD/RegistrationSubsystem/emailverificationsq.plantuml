@@ -1,0 +1,50 @@
+@startuml
+title Email Verification - Sequence Diagram
+
+actor "Faculty of Computing’s Students" as Student
+actor "Faculty of Computing’s Lecturers" as Lecturer
+actor "Faculty of Computing’s Student Representative Council Members" as SRCMember
+actor Administrators as Admin
+
+boundary "Registration Form" as RegistrationForm
+control "RegistrationController" as RegController
+boundary "User's Email" as UserEmail
+boundary "Confirmation Page" as ConfirmationPage
+control "VerificationController" as VerifController
+entity "User Account" as UserAccount
+control "AuthenticationService" as AuthService
+entity "User Repository" as UserRepository
+database "User Table" as UserTable
+database "User Database" as UserDatabase
+
+RegistrationForm -> RegController: Complete registration form
+RegController -> AuthService: Generate verification link
+AuthService -> UserEmail: Send verification email
+UserEmail -> Student: Receive verification email
+Student -> UserEmail: Clicks verification link
+UserEmail -> VerifController: Verification request
+activate VerifController
+VerifController -> AuthService: Verify link authenticity
+activate AuthService
+alt Verification link valid and not expired
+    AuthService -> UserRepository: Update user account status
+    UserRepository --> AuthService: User account updated
+    AuthService -> ConfirmationPage: Redirect to confirmation page
+else Verification link expired
+    UserEmail -> Student: Display expired link error message
+    Student -> RegistrationForm: Request new verification email
+    RegistrationForm -> RegController: Generate verification link (new)
+    RegController -> AuthService: Send verification email (new)
+    AuthService -> UserEmail: Receive verification email (new)
+    UserEmail -> Student: Display new verification email message
+    Student -> UserEmail: Clicks verification link (new)
+    UserEmail -> VerifController: Verification request (new)
+    activate VerifController
+    VerifController -> AuthService: Verify link authenticity (new)
+else Verification link invalid
+    UserEmail -> Student: Display invalid link error message (new)
+    Student -> ConfirmationPage: Contact support for assistance
+end
+deactivate AuthService
+deactivate VerifController
+@enduml
