@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set:1
+## Set:01
 
 **Name:Bernice Lim Jing Xuan**
 
@@ -16,7 +16,7 @@ Don't forget to hit the :star: if you like this repo.
 **Section:01**
 
 ## Answer
-< img src="UseCase1.jpg" width=300px height=300px >
+<img src="UseCase1.jpg" width=300px height=300px>
 
 
 ## Contribution 🛠️
