@@ -9,11 +9,11 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Set:
 
-**Name:**
+**Name: Muhammad Anas Bin Mohd Pikri**
 
-**Matrix No:**
+**Matrix No: A21SC0464**
 
-**Section:**
+**Section: 02**
 
 ## Answer
 
