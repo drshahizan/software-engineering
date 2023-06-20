@@ -101,7 +101,7 @@ Don't forget to hit the :star: if you like this repo.
 | 8. | 18/05/2023 | Lee Soon Der | User Experience Designer | Create System Architecture Design | Complete |
 | 9. | 18/05/2023 | All members | - | Create System Design Document | Partially Complete |
 | 10. | 07/06/2023 | Lee Soon Der | User Experience Designer | Prototyping | Complete |
-
+| 11. | 20/06/2023 | All members| - | Complete Project Summary | Incomplete |
 
 
 ## Contribution 🛠️
