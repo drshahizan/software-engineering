@@ -66,9 +66,9 @@ This course is designed to give students an introduction to an engineering appro
 | No | Topic |  File |
 | :-----: |  ------ | :-----: | 
 | 1 | Proposal |  <a href="./proposal/materials/groups.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
-| 2 | System Requirements Specification (SRS)| <a href="project/documentation/srs/srs-group.md" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
-| 3 | System Design Descriptions (SDD) | <a href="project/documentation/sdd/sdd-group.md" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
-| 4 | System Test Descriptions (STD)| <a href="project/documentation/std/std-group.md" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
+| 2 | System Requirements Specification (SRS)| <a href="project/documentation/srs/srs-group.md" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
+| 3 | System Design Descriptions (SDD) | <a href="project/documentation/sdd/sdd-group.md" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
+| 4 | System Test Descriptions (STD)| <a href="project/documentation/std/std-group.md" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
 | 5 | Project| <a href="project/project/" ><img src="./images/document.png" width="24px" height="24px" ></a> | 
 
 
