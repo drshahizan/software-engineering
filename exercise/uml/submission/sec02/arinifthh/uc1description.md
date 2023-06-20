@@ -47,10 +47,15 @@
   </tr>
     <tr>
     <td>Postconditions:
+      
       1. The patient's admission details, including personal and medical information, are recorded in the system.
+      
       2. The patient's admission status is updated, indicating the successful admission.
+      
       3. The assigned doctors and nurses receive notification about the new admission.
+      
       4. The patient receives necessary medical services based on the admission.
+      
       5. The patient's billing information is recorded, enabling accurate billing for the services provided.</td>
   </tr>
 </table>
