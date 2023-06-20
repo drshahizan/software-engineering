@@ -23,7 +23,7 @@ Don't forget to hit the :star: if you like this repo.
       <b>
         Use Case Description : Hospital Management System
       </b>
-    </td>
+    
   </tr>
   <tr>
     <td>
@@ -69,8 +69,7 @@ Don't forget to hit the :star: if you like this repo.
      <br>2.  The patient's medical records are accessible and up-to-date.
      <br>3.  The patient is provided with necessary medical services.
      <br>4. The patient is provided with billing information for the services rendered. 
-      
-    </td>
+    
   </tr>
 </table>
 
