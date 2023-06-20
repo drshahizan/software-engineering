@@ -16,83 +16,107 @@ Don't forget to hit the :star: if you like this repo.
 **Section:** 02
 
 ## Answer
-## Use Case: System Login
+<table>
+  <tr>
+    <th>Use Case: System Login</th>
+  </tr>
+  <tr>
+    <td>
+      <strong>Actors:</strong> Hospital Staff<br>
+      <strong>Preconditions:</strong> The Hospital Staff possesses valid login credentials for the system.<br>
+      <strong>Main Flow of Events:</strong>
+      <ol>
+        <li>The Hospital Staff initiates the login process.</li>
+        <li>The system displays a login screen.</li>
+        <li>The Hospital Staff enters their username and password.</li>
+        <li>The system verifies the provided credentials.</li>
+        <li>If the credentials are valid, the system grants access to the staff.</li>
+      </ol>
+      <strong>Postconditions:</strong> The Hospital Staff successfully logs into the Hospital Management System and gains access to their authorized functions.
+    </td>
+  </tr>
 
-*Actors: Hospital Staff*
+  <tr>
+    <th>Use Case: Manage Patient Admissions</th>
+  </tr>
+  <tr>
+    <td>
+      <strong>Actors:</strong> Hospital Staff<br>
+      <strong>Preconditions:</strong> The Hospital Staff is logged into the system.<br>
+      <strong>Main Flow of Events:</strong>
+      <ol>
+        <li>The Hospital Staff selects the "Admissions" function within the system.</li>
+        <li>The system presents an admissions form.</li>
+        <li>The Hospital Staff enters the necessary patient information, including personal details and insurance information.</li>
+        <li>The system validates the entered information.</li>
+        <li>If the information is valid, the system generates a unique patient ID and creates an admission record.</li>
+        <li>The Hospital Staff assigns a room to the patient and updates their status as "Admitted" in the system.</li>
+        <li>The system updates the patient's record and bed availability.</li>
+        <li>The Hospital Staff provides the patient with required forms and instructions.</li>
+        <li>Relevant departments are notified of the new admission.</li>
+      </ol>
+      <strong>Postconditions:</strong> The patient is admitted, their information is recorded within the system, and the relevant departments are informed.
+    </td>
+  </tr>
 
-Preconditions: The Hospital Staff possesses valid login credentials for the system.
+  <tr>
+    <th>Use Case: Schedule Appointments</th>
+  </tr>
+  <tr>
+    <td>
+      <strong>Actors:</strong> Hospital Staff, Patients<br>
+      <strong>Preconditions:</strong> The Hospital Staff is logged into the system.<br>
+      <strong>Main Flow of Events:</strong>
+      <ol>
+        <li>The Hospital Staff selects the "Appointments" function within the system.</li>
+        <li>The system displays a list of available doctors and their schedules.</li>
+        <li>The Hospital Staff confirms the patient's preferred doctor and selects an appointment date.</li>
+        <li>The system checks the doctor's availability for the chosen date.</li>
+        <li>If the selected time slot is available, the system schedules the appointment.</li>
+        <li>The system generates a confirmation message containing the appointment details.</li>
+        <li>The Hospital Staff informs the patient about the scheduled appointment.</li>
+      </ol>
+      <strong>Postconditions:</strong> The patient has a scheduled appointment with the designated doctor, and the Hospital Staff has notified the patient accordingly.
+    </td>
+  </tr>
 
-Main Flow of Events:
-1. The Hospital Staff initiates the login process.
-2. The system displays a login screen.
-3. The Hospital Staff enters their username and password.
-4. The system verifies the provided credentials.
-5. If the credentials are valid, the system grants access to the staff.
+  <tr>
+    <th>Use Case: Manage Medical Records</th>
+  </tr>
+  <tr>
+    <td>
+      <strong>Actors:</strong> Hospital Staff<br>
+      <strong>Preconditions:</strong> The Hospital Staff is logged into the system.<br>
+      <strong>Main Flow of Events:</strong>
+      <ol>
+        <li>The Hospital Staff selects the "Medical Records" function within the system.</li>
+        <li>The system presents the patient's medical record.</li>
+        <li>The Hospital Staff can access and update the patient's medical history, diagnosis, and treatment information.</li>
+        <li>The Hospital Staff can input the latest observations, treatments, and request additional tests or procedures.</li>
+        <li>The system saves the changes made to the patient's record.</li>
+        <li>The system generates notifications for relevant departments or specialists, if necessary.</li>
+      </ol>
+      <strong>Postconditions:</strong> The patient's medical record is updated, and relevant departments or specialists receive notifications, as needed.
+    </td>
+  </tr>
 
-Postconditions: The Hospital Staff successfully logs into the Hospital Management System and gains access to their authorized functions.
-
-## Use Case: Manage Patient Admissions
-
-*Actors: Hospital Staff*
-
-Preconditions: The Hospital Staff is logged into the system.
-
-Main Flow of Events:
-1. The Hospital Staff selects the "Admissions" function within the system.
-2. The system presents an admissions form.
-3. The Hospital Staff enters the necessary patient information, including personal details and insurance information.
-4. The system validates the entered information.
-5. If the information is valid, the system generates a unique patient ID and creates an admission record.
-6. The Hospital Staff assigns a room to the patient and updates their status as "Admitted" in the system.
-7. The system updates the patient's record and bed availability.
-8. The Hospital Staff provides the patient with required forms and instructions.
-9. Relevant departments are notified of the new admission.
-
-Postconditions: The patient is admitted, their information is recorded within the system, and the relevant departments are informed.
-
-## Use Case: Schedule Appointments
-
-*Actors: Hospital Staff, Patients*
-
-Preconditions: The Hospital Staff is logged into the system.
-
-Main Flow of Events:
-1. The Hospital Staff selects the "Appointments" function within the system.
-2. The system displays a list of available doctors and their schedules.
-3. The Hospital Staff confirms the patient's preferred doctor and selects an appointment date.
-4. The system checks the doctor's availability for the chosen date.
-5. If the selected time slot is available, the system schedules the appointment.
-6. The system generates a confirmation message containing the appointment details.
-7. The Hospital Staff informs the patient about the scheduled appointment.
-
-Postconditions: The patient has a scheduled appointment with the designated doctor, and the Hospital Staff has notified the patient accordingly.
-
-## Use Case: Manage Medical Records
-
-*Actors: Hospital Staff*
-
-Preconditions: The Hospital Staff is logged into the system.
-
-Main Flow of Events:
-1. The Hospital Staff selects the "Medical Records" function within the system.
-2. The system presents the patient's medical record.
-3. The Hospital Staff can access and update the patient's medical history, diagnosis, and treatment information.
-4. The Hospital Staff can input the latest observations, treatments, and request additional tests or procedures.
-5. The system saves the changes made to the patient's record.
-6. The system generates notifications for relevant departments or specialists, if necessary.
-
-Postconditions: The patient's medical record is updated, and relevant departments or specialists receive notifications, as needed.
-
-## Use Case: Create Bills
-
-*Actors: Hospital Staff*
-
-Preconditions: The Hospital Staff is logged into the system.
-
-Main Flow of Events:
-1. The Hospital Staff selects the "Billing" function within the system.
-2. The system retrieves the patient's medical treatment information.
-3. The Hospital Staff generates the bill
+  <tr>
+    <th>Use Case: Create Bills</th>
+  </tr>
+  <tr>
+    <td>
+      <strong>Actors:</strong> Hospital Staff<br>
+      <strong>Preconditions:</strong> The Hospital Staff is logged into the system.<br>
+      <strong>Main Flow of Events:</strong>
+      <ol>
+        <li>The Hospital Staff selects the "Billing" function within the system.</li>
+        <li>The system retrieves the patient's medical treatment information.</li>
+        <li>The Hospital Staff generates the bill.</li>
+      </ol>
+      <strong>Postconditions:</strong> The bill is created for the patient's medical services.
+    </td>
+  </tr>
+</table>
 
 
 
