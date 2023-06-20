@@ -1,10 +1,10 @@
 ## MCQ Set:
 
-**Name:**Tiew Chuan Rong
+**Name:** Tiew Chuan Rong
 
-**Matrix No:**A22EC0112
+**Matrix No:** A22EC0112
 
-**Section:**01
+**Section:** 01
 
 ## Answer
 1.b
