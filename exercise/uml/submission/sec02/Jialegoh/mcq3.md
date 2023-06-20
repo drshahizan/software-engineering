@@ -16,14 +16,14 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 2**
 
 ## Answer
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
+1. B
+2. C
+3. B
+4. C
+5. D
+6. C
+7. D
+8. B
 9. 
 10. 
 11. 
