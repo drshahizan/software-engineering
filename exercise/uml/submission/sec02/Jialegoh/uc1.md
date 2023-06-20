@@ -16,9 +16,7 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 2**
 
 ## Answer
-![uc1](https://github.com/drshahizan/software-engineering/assets/129137382/8a30f2e7-c1e0-443f-9193-caaefe5fbfbd)
-
-
+![uc1(1)](https://github.com/drshahizan/software-engineering/assets/129137382/7830e3c6-dfff-45cb-b544-8bd258ce7f41)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
