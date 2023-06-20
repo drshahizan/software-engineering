@@ -138,10 +138,10 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Prototype Main Menu | <a href="[https://docs.google.com/document/d/1QB1w7Om8emCXuDQylUCc1Qq2EBegsS_-/edit](https://www.figma.com/proto/aKf4uX8pu5sRzju2a2GI15/Student-Feedback-System-Design?type=design&node-id=69-130&scaling=scale-down&page-id=3%3A32&starting-point-node-id=69%3A130)" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Prototype Student | <a href="[https://docs.google.com/document/d/1QB1w7Om8emCXuDQylUCc1Qq2EBegsS_-/edit](https://www.figma.com/proto/aKf4uX8pu5sRzju2a2GI15/Student-Feedback-System-Design?type=design&node-id=69-130&scaling=scale-down&page-id=3%3A32&starting-point-node-id=69%3A130)" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|3| Prototype Lecturer | <a href="[https://docs.google.com/document/d/1QB1w7Om8emCXuDQylUCc1Qq2EBegsS_-/edit](https://www.figma.com/proto/aKf4uX8pu5sRzju2a2GI15/Student-Feedback-System-Design?type=design&node-id=138-30&scaling=scale-down&page-id=18%3A3&starting-point-node-id=138%3A30)" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|4| Prototype Administrator | <a href="[https://docs.google.com/document/d/1QB1w7Om8emCXuDQylUCc1Qq2EBegsS_-/edit](https://www.figma.com/proto/aKf4uX8pu5sRzju2a2GI15/Student-Feedback-System-Design?type=design&node-id=174-99&scaling=min-zoom&page-id=18%3A2&starting-point-node-id=174%3A99)" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|1| Prototype Main Menu | <a href="https://www.figma.com/proto/aKf4uX8pu5sRzju2a2GI15/Student-Feedback-System-Design?type=design&node-id=69-130&scaling=scale-down&page-id=3%3A32&starting-point-node-id=69%3A130" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Prototype Student | <a href="https://www.figma.com/proto/aKf4uX8pu5sRzju2a2GI15/Student-Feedback-System-Design?type=design&node-id=69-130&scaling=scale-down&page-id=3%3A32&starting-point-node-id=69%3A130" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|3| Prototype Lecturer | <a href="https://www.figma.com/proto/aKf4uX8pu5sRzju2a2GI15/Student-Feedback-System-Design?type=design&node-id=138-30&scaling=scale-down&page-id=18%3A3&starting-point-node-id=138%3A30" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|4| Prototype Administrator | <a href="https://www.figma.com/proto/aKf4uX8pu5sRzju2a2GI15/Student-Feedback-System-Design?type=design&node-id=174-99&scaling=min-zoom&page-id=18%3A2&starting-point-node-id=174%3A99" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
