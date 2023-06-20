@@ -7,6 +7,29 @@
 
 Don't forget to hit the :star: if you like this repo.
 
+## Instructions
+- Please use the [MCQ template](temp_mcq.md).
+- Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `mcq2.md`.
+
+### Folder structure
+
+```
+🗂️submission
+├─ 🗂️sec01
+├── 📄readme.md
+├── 📁drshahizan
+│   ├── 📄mcq1.md
+│   ├── ...
+│   └── 📄mcq5.md
+├── 📁your github id
+├─ 🗂️sec02
+├── 📄readme.md
+├── 📁drshahizan
+│   ├── 📄mcq1.md
+│   ├── ...
+│   └── 📄mcq5.md
+└── 📁your github id
+```
 # Case Study: Library Management System
 
 ## Introduction
@@ -121,36 +144,11 @@ The Library Management System aims to provide an efficient and user-friendly int
     - c. Activity diagram.
     - d. State machine diagram.
 
-15. Which functionality of the Library Management System allows library staff to add,
-
- update, and remove books?
+15. Which functionality of the Library Management System allows library staff to add, update, and remove books?
     - a. Search Books.
     - b. Borrow Item.
     - c. Manage User Account.
     - d. Manage Library Collection.
-
-### Submission
-Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `mcq2.md`.
-
-### Folder structure
-
-```
-🗂️submission
-├─ 🗂️sec01
-├── 📄readme.md
-├── 📁drshahizan
-│   ├── 📄uc1.md
-│   ├── ...
-│   └── 📄uc5.md
-├── 📁your github id
-├─ 🗂️sec02
-├── 📄readme.md
-├── 📁drshahizan
-│   ├── 📄uc1.md
-│   ├── ...
-│   └── 📄uc5.md
-└── 📁your github id
-```
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

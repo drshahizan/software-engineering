@@ -47,7 +47,6 @@ The key features of the student engagement website include:
 - A personalized dashboard that displays a student's academic schedule, assignments, and other relevant information in a user-friendly interface.
 - Course-specific forums and discussion boards that allow students to engage with their peers and faculty members in discussions related to specific courses.
 - A student directory that enables students to connect with each other based on shared interests or academic programs.
-- A notification system that keeps students informed about important academic events and deadlines, such as exam schedules and registration deadlines.
 - A feedback system that allows students to provide feedback on courses, instructors, and other aspects of their academic experience.
 
 <br>
@@ -85,7 +84,7 @@ The major objectives of building a student engagement website for Faculty Comput
   Overall, the development of a student engagement website aims to provide a comprehensive platform that supports Faculty Computing's students throughout their academic journey, enhances their learning experience, and fosters a sense of community within the academic community.<br>
 
 ### 4. Scope
-<p align="center"><img src="scope.png" width="400px" height="300px"></p>
+<p align="center"><img src="scope.svg" width="400px" height="300px"></p>
 <p>
 <ol>
   <li><b>Personalised dashboard</b>:

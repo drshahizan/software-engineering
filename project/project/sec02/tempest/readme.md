@@ -55,33 +55,44 @@ Don't forget to hit the :star: if you like this repo.
     <td>Staff</td>
     <td>Describe the flow of work and the problems that the staff has during the registration</td>
   </tr>
-  <tr>
-    <td>Puan Sari Ariza binti Sukiman</td>
-    <td>Middle Management Cahaya Ad Din</td>
-    <td>Accountant</td>
-    <td>Describe the flow of payment during registration and the problem behind it</td>
-  </tr>
     <tr>
-    <td>En Muhammad Iman Firdaus Bin Baharuddin</td>
+    <td>En Mohd Aiman bin Misah</td>
     <td>End User</td>
     <td>Client</td>
     <td>Tells more about the problem they have during the registration</td>
   </tr>
 </table>
 
-## Tasks involved in developing SRC documentation:
+## 1. Introduction:
+- Briefly explain the purpose and objectives of the project.
+- Describe the problem statement or the need the project aims to address.
+- Outline the significance and potential impact of the project.
 
-| No | Date | Member Name | Role	| Task	| Status	| 
-| -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 17/04/2023| Luqman Hakim | Main Developer | Create project plan | Complete |
-| 2|17/04/2023| Luqman Hakim|Main Developer |Find and Identify stakeholder | Complete |
-| 3|02/05/2023|Danial | Assistant Developer|Preparation of interview questions | Complete|
-| 4|03/05/2023 |Luqman, Danial, Anas, Kugen |Main Developer, Assistant Developer, UI/UX Designer, Scrum Master | Interview with stakeholder|Complete |
-| 5|04/05/2023|Luqman, Anas, Danial, Kugen |Main Developer,Assistant Developer, UI/UX Designer, Scrum Master |Project Discussion| Complete |
-| 6|15/06/2023|Luqman, Anas, Danial, Kugen |Main Developer,Assistant Developer, UI/UX Designer, Scrum Master |STD Documentation Planning | Incomplete |
-| 7|16/06/2023|Luqman, Anas, Danial, Kugen |Main Developer,Assistant Developer, UI/UX Designer, Scrum Master |Create STD Documentation | Incomplete |
-| 8|23/06/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Update Documentation | Incomplete |
-| 9|25/06/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Follow-up with Stakeholder | Incomplete |
+## 2. Methodology:
+- Describe the approach and methodologies utilized to tackle the project.
+- Explain the software development life cycle model or any other relevant methodology adopted.
+- Highlight any specific tools, technologies, or frameworks employed during the project.
+
+## 3. Implementation:
+- Detail the specific tasks and activities undertaken by your group.
+- Provide an overview of the software components or modules developed.
+- Describe any challenges faced during the implementation phase and how you addressed them.
+
+## 4. Testing and Quality Assurance:
+- Explain the testing strategies and techniques employed.
+- Discuss the types of testing conducted (e.g., unit testing, integration testing, etc.).
+- Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
+
+## 5. Results and Achievements:
+- Present the outcomes and achievements of the project.
+- Share any quantitative or qualitative data that demonstrates the success of the software solution.
+- Discuss any feedback received from stakeholders or users during the evaluation process.
+
+## 6. Conclusion:
+- Summarize the overall project experience and lessons learned.
+- Reflect on the challenges faced and how they were overcome.
+- Highlight any future improvements or recommendations for further development.
+
 
 
 

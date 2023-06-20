@@ -40,7 +40,7 @@ Don't forget to hit the :star: if you like this repo.
 | -----:| ----- | :------: | 
 |1| Document SRS| <a href="https://docs.google.com/document/d/1K5BUQ4Y9mUT3usQTCvz8gkTchpclQgj0/edit?usp=sharing&ouid=109771361949126453388&rtpof=true&sd=true" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
 |2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/tree/main/project/drawio/Alpha" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
-|3| Google Drive| <a href="https://drive.google.com/drive/folders/1ERPd7xwwLWaI4YWpnOIB1q48y3nP6lFU" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+|3| Google Drive| <a href="https://drive.google.com/drive/folders/1ERPd7xwwLWaI4YWpnOIB1q48y3nP6lFU" ><img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg" width="24px" height="24px" ></a>|
 |4| Sticky Notes| <a href="https://jamboard.google.com/d/1yxRnUzK0eBlYsowkIQ3jPBOpH8cnhPoiXicmMu4oi_g/viewer?f=0" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder

@@ -7,6 +7,30 @@
 
 Don't forget to hit the :star: if you like this repo.
 
+## Instructions
+- Please use the [answer template](temp_struc.md).
+- Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `uc5.md`.
+
+### Folder structure
+
+```
+🗂️submission
+├─ 🗂️sec01
+├── 📄readme.md
+├── 📁drshahizan
+│   ├── 📄mcq1.md
+│   ├── ...
+│   └── 📄mcq5.md
+├── 📁your github id
+├─ 🗂️sec02
+├── 📄readme.md
+├── 📁drshahizan
+│   ├── 📄mcq1.md
+│   ├── ...
+│   └── 📄mcq5.md
+└── 📁your github id
+```
+
 # Case Study 5: Automated Teller Machine (ATM) System
 
 ## Description
@@ -29,29 +53,6 @@ In summary, the ATM system provides customers with a convenient and secure platf
 ## Question
 Based on the case study, create a use case diagram that includes essential elements such as use cases, actors, relationships, and other components commonly found in use case diagrams.
 
-### Submission
-Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `uc5.md`.
-
-### Folder structure
-
-```
-🗂️submission
-├─ 🗂️sec01
-├── 📄readme.md
-├── 📁drshahizan
-│   ├── 📄uc1.md
-│   ├── ...
-│   └── 📄uc5.md
-├── 📁your github id
-├─ 🗂️sec02
-├── 📄readme.md
-├── 📁drshahizan
-│   ├── 📄uc1.md
-│   ├── ...
-│   └── 📄uc5.md
-└── 📁your github id
-```
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
@@ -59,9 +60,3 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
-
-
-
-
-

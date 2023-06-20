@@ -7,7 +7,31 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Case Study Question 1: Hospital Management System
+## Instructions
+- Please use the [answer template](temp_struc.md).
+- Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `uc1.md`.
+
+### Folder structure
+
+```
+🗂️submission
+├─ 🗂️sec01
+├── 📄readme.md
+├── 📁drshahizan
+│   ├── 📄mcq1.md
+│   ├── ...
+│   └── 📄mcq5.md
+├── 📁your github id
+├─ 🗂️sec02
+├── 📄readme.md
+├── 📁drshahizan
+│   ├── 📄mcq1.md
+│   ├── ...
+│   └── 📄mcq5.md
+└── 📁your github id
+```
+
+# Case Study Question 1: Hospital Management System
 
 ## Description
 In a bustling hospital, there is a need for an efficient management system that can handle patient admissions, appointments, medical records, and billing. The hospital aims to streamline its operations, improve patient care, and ensure accurate billing processes. To achieve these goals, they plan to develop a comprehensive Hospital Management System.
@@ -23,30 +47,7 @@ Lastly, the Hospital Management System will address the billing process, automat
 In conclusion, the Hospital Management System will revolutionize the hospital's operations by providing seamless management of patient admissions, appointments, medical records, and billing. The system will improve efficiency, enhance patient care, and facilitate accurate billing processes, leading to a better overall hospital experience for both patients and staff.
 
 ## Question
-Based on the Hospital Management System case study, create a use case diagram that includes essential elements such as use cases, actors, relationships, and other components commonly found in use case diagrams.
-
-### Submission
-Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../submission/sec01) or [`submission/sec02`](../submission/sec02) folder, create a folder with your GitHub ID. Name the file as `uc1.md`.
-
-### Folder structure
-
-```
-🗂️submission
-├─ 🗂️sec01
-├── 📄readme.md
-├── 📁drshahizan
-│   ├── 📄uc1.md
-│   ├── ...
-│   └── 📄uc5.md
-├── 📁your github id
-├─ 🗂️sec02
-├── 📄readme.md
-├── 📁drshahizan
-│   ├── 📄uc1.md
-│   ├── ...
-│   └── 📄uc5.md
-└── 📁your github id
-```
+Based on the Hospital Management System case study, create a **use case diagram** that includes essential elements such as use cases, actors, relationships, and other components commonly found in use case diagrams.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
@@ -55,9 +56,3 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
-
-
-
-
-

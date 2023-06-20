@@ -42,7 +42,7 @@ Don't forget to hit the :star: if you like this repo.
 ## Documentation
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Document STD| <a href="https://docs.google.com/document/d/1zrjllO9HgAggGch5ggfGTJpOpJUFXUd4/edit?usp=sharing&ouid=106160364288849413048&rtpof=true&sd=true" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|1| Project Description| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/stakeholder/project-description.md" ><img src="./images/document.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 <table>
