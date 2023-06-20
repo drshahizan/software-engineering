@@ -9,11 +9,11 @@ Don't forget to hit the :star: if you like this repo.
 
 ## MCQ Set:
 
-**Name:**
+**Name: Danial Harriz bin Mohd Asineh @ Mohd Asneh**
 
-**Matrix No:**
+**Matrix No: A22EC0152**
 
-**Section:**
+**Section: 02**
 
 ## Answer
 1.
