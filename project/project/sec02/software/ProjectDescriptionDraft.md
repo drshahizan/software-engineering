@@ -46,9 +46,27 @@
 ---
 
 ### 3. Implementation:
-- Detail the specific tasks and activities undertaken by your group.
-- Provide an overview of the software components or modules developed.
-- Describe any challenges faced during the implementation phase and how you addressed them.
+#### During the implementation phase of the Student Health and Wellness Management System, our group performed the following tasks and activities:
+  - System Design: Based on the gathered requirements, we created a system design that outlined the overall architecture and modules of the system. We identified the necessary software components and modules to be developed to meet the stakeholders' needs.
+  - Development: The development team began coding the software components and modules outlined in the system design. The development was carried out in an iterative manner, ensuring regular feedback and collaboration with the stakeholders to validate the progress.
+  - Meeting with stakeholders: We arranged meetings with all the stakeholders, including the student, psychologist, dentist, medical officer, and administrator. These meetings were conducted to gather their opinions, understand their expectations, and ensure that our implementation and design met their needs. We actively involved the stakeholders in the decision-making process to ensure their satisfaction.
+
+#### Software Components/Modules:The Student Health and Wellness Management System consists of the following 7 modules:
+  - Authentication system: Handles user authentication and secure access to the system.
+  - Account Management system: Manages user profiles, permissions, and preferences.
+  - Patient Queue Management system: Allows students and doctors to view the estimated patient waiting time and people remaining (amount of pending patients).
+  - Health Tips system: Provides students with relevant health-related information and advice.
+  - Mental Health Support system: Allows students to do self-test and book appointments.
+  - Dental Health Appointment system: Allows students to book appointments with dentists.
+  - Feedback system: Collects feedback from students and doctors to improve the system.
+
+#### Challenges Faced and Solutions:
+  - Integration with the existing student information system: The challenge was to ensure seamless integration with the current system. We addressed this by closely working with the administrators to understand their requirements and align our implementation accordingly.
+  - Security and privacy concerns: Compliance with applicable laws and regulations, such as the Personal Data Protection Act, posed challenges in terms of securing personal health information. We addressed this by implementing robust security measures, including encryption, access controls, and regular security audits.
+  - User experience and usability: Ensuring a user-friendly interface and intuitive workflows for students was a challenge. We conducted user testing sessions and gathered feedback to iteratively improve the system's usability and user experience.
+  - Stakeholder collaboration: Managing different stakeholders with diverse requirements and priorities required effective communication and coordination. We scheduled regular meetings, provided progress updates, and actively sought feedback to ensure their requirements were met.
+
+By addressing these challenges and maintaining close collaboration with stakeholders, we successfully implemented the Student Health and Wellness Management System, meeting the defined requirements and goals.
 
 ---
 
