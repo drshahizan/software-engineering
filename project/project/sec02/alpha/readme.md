@@ -144,7 +144,7 @@ Throughout the implementation phase, the group maintained open communication, re
 ## 4. Testing and Quality Assurance:
 Testing and quality assurance play a crucial role in ensuring the reliability and robustness of the software. The following are the testing strategies and techniques employed in the project. 
 
-1. Testing Strategies and Techniques:
+### 1. Testing Strategies and Techniques:
 - Black Box Testing: This technique focuses on testing the system's functionality without considering its internal implementation. It ensures that the system meets the specified requirements.
 - White Box Testing: This technique involves examining the internal structure and logic of the software. It ensures that all paths and components of the system are tested thoroughly.
 - Integration Testing: This strategy verifies the interaction and compatibility between different system modules to ensure that they work seamlessly together.
@@ -152,7 +152,7 @@ Testing and quality assurance play a crucial role in ensuring the reliability an
 
 The types of testing conducted in the KTDI College Room Rental system are as followed: 
 
-2. Types of Testing Conducted:
+### 2. Types of Testing Conducted:
 - Unit Testing: Focuses on testing individual components or units of code to verify their correctness and functionality
 - Integration Testing: To ensures that different system modules integrate and function correctly when combined
 - System Testing: This comprehensive testing verifies the behavior and functionality of the entire system as a whole
@@ -161,7 +161,7 @@ The types of testing conducted in the KTDI College Room Rental system are as fol
 
 In order to ensure the reliability and robustness of the software, quality assurance processes have been implemented.
 
-3. Quality Assurance Processes:
+### 3. Quality Assurance Processes:
 - Continuous Integration (CI) is implemented to automatically build, test and integrate code changes into a shared repository. It helps detect and address integraton issues early on
 - Reqular checkpoints are established during the development process to ensure that quality standards are met at each stage
 - Thorough documentation is created to guide users and developers, ensuring clarity and consistency in system usage and maintenance
