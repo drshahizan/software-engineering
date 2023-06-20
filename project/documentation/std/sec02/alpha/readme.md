@@ -104,8 +104,7 @@ Don't forget to hit the :star: if you like this repo.
    infrastructure to host the application, storage devices for data management, and network infrastructure for seamless communication.
 
 3. Software: The development team will require appropriate software tools and technologies to build and deploy the room rental system. This may include programming 
-   languages (such as HTML, CSS, JavaScript, and backend languages like Python, PHP, or Java), web development frameworks, database management systems (e.g., MySQL, 
-   PostgreSQL), and version control systems for collaborative development.
+   languages (such as HTML, CSS, JavaScript, and backend languages like PHP), web development frameworks, database management systems (e.g., MySQL), and version control systems for collaborative development.
 
 4. User Feedback and Testing: Conducting user testing and gathering feedback from college staff and students is essential for improving the system. This may require 
    arranging user testing sessions, collecting feedback through surveys or interviews, and allocating resources to analyze and incorporate user suggestions.
@@ -114,7 +113,7 @@ Don't forget to hit the :star: if you like this repo.
    staff and students will be necessary to ensure they can effectively utilize the system. This may include preparing training materials and allocating trainers or 
    experts to conduct the training sessions.
 
-6. Time and Budget: Sufficient time and budget allocation will be crucial to ensure the successful completion of the project. This includes defining project 
+6. Time and Budget: Sufficient time and budget allocation will be crucial to ensure the successful completion of the project. This includes defining the project 
    milestones, estimating development and testing efforts, and monitoring progress to meet the targeted timeline and budget.
 
 By allocating the necessary resources, both in terms of human resources, hardware, software tools, user feedback, documentation, and training, the KTDI College room rental system project can be effectively executed, ensuring the development of a robust and user-friendly web-based system.
@@ -122,7 +121,7 @@ By allocating the necessary resources, both in terms of human resources, hardwar
 #### - Include sections such as project objectives, tasks breakdown, timeline, resource requirements, and any other relevant information you deem necessary.
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions, or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
