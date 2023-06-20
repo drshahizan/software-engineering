@@ -16,7 +16,34 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 02**
 
 ## Answer
-<img src="https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec02/nurfarahadibah/ucdes1.png" alt="Alt text" title="Optional title">
+
+Use case ID: UC001
+
+
+#### Actors:
+Hospital Staff
+
+
+#### Preconditions:
+- hospital staff having access to the system
+- patient information is available in the system
+- the hospital has the necessary medical and billing infrastructure.
+
+
+
+#### Flow of events:
+- Hospital staff logging into the system
+- Select the desired function (such as admissions, appointments, medical records, or billing)
+- Perform specific actions based on the selected function
+- The System will validate and update the data accordingly
+
+
+#### Postconditions:
+- nupdated patient information
+- accessibility of records for future reference
+- the provision of necessary medical services and billing information to patients.
+
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
