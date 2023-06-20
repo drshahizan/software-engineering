@@ -20,7 +20,7 @@ Don't forget to hit the :star: if you like this repo.
 2. C
 3. B
 4. C
-5.
+5. D
 6.
 7.
 8.
