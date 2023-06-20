@@ -1,6 +1,6 @@
 
 
-1. Use Case: Log into the System
+**1. Use Case: Log into the System**
    - Actors: Hospital Staff
    - Preconditions: The Hospital Staff has access credentials for the system.
    - Main Flow of Events:
@@ -11,7 +11,7 @@
      5. If the credentials are valid, the system grants access to the staff.
    - Postconditions: The Hospital Staff is logged into the Hospital Management System and can perform various functions based on their role.
 
-2. Use Case: Manage Admissions
+**2. Use Case: Manage Admissions**
    - Actors: Hospital Staff
    - Preconditions: The Hospital Staff is logged into the system.
    - Main Flow of Events:
@@ -26,7 +26,7 @@
      9. The relevant departments are notified of the new admission.
    - Postconditions: The patient is admitted, their information is recorded in the system, and the relevant departments are informed.
 
-3. Use Case: Schedule Appointments
+**3. Use Case: Schedule Appointments**
    - Actors: Hospital Staff, Patients
    - Preconditions: The Hospital Staff is logged into the system.
    - Main Flow of Events:
@@ -39,7 +39,7 @@
      7. The Hospital Staff informs the patient about the scheduled appointment.
    - Postconditions: The patient has a scheduled appointment with the chosen doctor, and the Hospital Staff has informed the patient accordingly.
 
-4. Use Case: Manage Medical Records
+**4. Use Case: Manage Medical Records**
    - Actors: Hospital Staff
    - Preconditions: The Hospital Staff is logged into the system.
    - Main Flow of Events:
@@ -51,7 +51,7 @@
      6. The system generates notifications for relevant departments or specialists, if necessary.
    - Postconditions: The patient's medical record is updated, and relevant departments or specialists are notified as needed.
 
-5. Use Case: Create Bills
+**5. Use Case: Create Bills**
    - Actors: Hospital Staff
    - Preconditions: The Hospital Staff is logged into the system.
    - Main Flow of Events:
