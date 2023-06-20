@@ -49,7 +49,7 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Document SDD| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/documentation/sdd/sec01/limapuluh/Limapuluh_SDD_V1.0.pdf ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|1| Document SDD| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/documentation/sdd/sec01/limapuluh/Limapuluh_SDD_V1.0.pdf" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 <table>
