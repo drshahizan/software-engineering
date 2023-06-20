@@ -158,6 +158,7 @@ Throughout the implementation phase, the group maintained open communication, re
 - Summarize the overall project experience and lessons learned.
 - Reflect on the challenges faced and how they were overcome.
 - Highlight any future improvements or recommendations for further development.
+
   In conclusion, the Kolej Tun Dr. Ismail (KTDI) College room rental system project aimed to simplify the room rental process by developing a web-based system. Throughout the project, we faced challenges in gathering requirements, managing system complexity, integrating data, and designing a user-friendly interface. However, we overcame these challenges by maintaining clear and continuous communication with stakeholders, conducting thorough planning and documentation, adopting an agile development approach, and prioritizing user-centric design.
 
 From this project, we learned the importance of effective communication, comprehensive planning, and user research in ensuring project success. We also recognized the value of flexibility and adaptability in addressing changing requirements. By incorporating user feedback and conducting usability tests, we developed an intuitive and appealing interface that enhanced user satisfaction.
