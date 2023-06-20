@@ -40,6 +40,3 @@
      5. Staff reviews the generated bill and provides it to the patient for payment.
    - Postconditions: A bill is generated for the services provided, and the patient can proceed with the payment.
 
-By implementing the Hospital Management System, MSO Hospital aims to streamline various processes such as patient admissions, 
-appointment scheduling, medical record management, and billing. These use cases help improve operational efficiency, accuracy of records, 
-and ultimately enhance the overall patient experience within the healthcare facility.
