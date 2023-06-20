@@ -7,30 +7,30 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set:
+## MCQ Set: 2
 
-**Name:**
+**Name:**LEE YIK HONG
 
-**Matrix No:**
+**Matrix No:**A21BE0376
 
-**Section:**
+**Section:**02
 
 ## Answer
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
+1. c
+2. a
+3. c
+4. a
+5. a 
+6. b
+7. b
+8. a
+9. d
+10. a
+11. a
+12. b
+13. b
+14. b
+15. d
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
