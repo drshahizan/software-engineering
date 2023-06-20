@@ -9,11 +9,11 @@ Don't forget to hit the :star: if you like this repo.
 
 ## MCQ Set:
 
-**Name:**
+**Name:** Marcus Joey Sayner
 
-**Matrix No:**
+**Matrix No:** A22EC0193
 
-**Section:**
+**Section:** 01
 
 ## Answer
 1. B
