@@ -71,21 +71,6 @@ Don't forget to hit the :star: if you like this repo.
 |3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 
-## Tasks involved in developing STD documentation:
-
-| No | Date | Member Name | Role	| Task	| Status	| 
-| -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 19/06/2023| Farah | Main Developer | Create STD Document | Incomplete |
-| 2 | 19/06/2023 |   |  | Discuss on STD documentation |  |
-| 3 | 19/06/2023 |   |  | Distribute task |  |
-| 4 | 02/05/2023 |  |  |  | |
-| 5 | 02/05/2023 | |  | | | 
-| 6 | 03/05/2023 |  |  |  | | 
-| 7 | 18/04/2023 ||  |  | | 
-| 8 | 18/04/2023 |  |  | | | 
-| 9 | 11/05/2023 |  |    |  | | 
-| 10 | 11/05/2023 |  |   |  | | 
-
 ## 1. Introduction:
 - Briefly explain the purpose and objectives of the project.
   The Kolej Tun Dr. Ismail College room rental system project aims to develop a web-based system that allows students to easily request and rent college rooms. The system will automatically calculate the rental price based on the type of room and the number of days the student will stay. After the application is approved, the student will then pay for the room. 
