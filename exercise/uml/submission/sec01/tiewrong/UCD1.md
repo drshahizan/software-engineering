@@ -7,16 +7,15 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set: 1
+## Set:
 
-**Name: NEO ZHENG WENG**
+**Name:** Tiew Chuan Rong
 
-**Matrix No: A22EC0093**
+**Matrix No:** A22EC0112
 
-**Section: 01**
+**Section:** 01
 
 ## Answer
-![uc1](https://github.com/drshahizan/software-engineering/assets/118497269/d18dcdd0-1ba5-45eb-b740-baaeca9fcf96)
 
 
 ## Contribution 🛠️
