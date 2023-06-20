@@ -7,16 +7,20 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set:
+## Set: 1
 
-**Name:**
+**Name: Kek Jesslyn**
 
-**Matrix No:**
+**Matrix No: A22EC0057**
 
-**Section:**
+**Section: 01**
 
 ## Answer
+<p align="center">
+<img src = "struc1.jpg" width = 700px height = 400px>
+</p>
 
+</html>
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

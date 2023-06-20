@@ -9,13 +9,14 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Set:
 
-**Name:**
+**Name: Yong Wern Jie**
 
-**Matrix No:**
+**Matrix No: A22EC0121**
 
-**Section:**
+**Section: 01**
 
 ## Answer
+<img src="uc1.png" alt="Use case 1">
 
 
 ## Contribution 🛠️

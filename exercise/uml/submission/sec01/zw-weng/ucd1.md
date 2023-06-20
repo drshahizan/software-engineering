@@ -7,16 +7,15 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set: 1
+## Set Case Study 1:
 
 **Name: NEO ZHENG WENG**
 
 **Matrix No: A22EC0093**
 
-**Section: 01**
+**Section: 03**
 
 ## Answer
-![uc1](https://github.com/drshahizan/software-engineering/assets/118497269/d18dcdd0-1ba5-45eb-b740-baaeca9fcf96)
 
 
 ## Contribution 🛠️

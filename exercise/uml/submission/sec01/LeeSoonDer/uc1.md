@@ -7,16 +7,16 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set: 1
+## Set:
 
-**Name: NEO ZHENG WENG**
+**Name:Lee Soon Der**
 
-**Matrix No: A22EC0093**
+**Matrix No:A22EC0065**
 
-**Section: 01**
+**Section:01**
 
 ## Answer
-![uc1](https://github.com/drshahizan/software-engineering/assets/118497269/d18dcdd0-1ba5-45eb-b740-baaeca9fcf96)
+![image](https://github.com/drshahizan/software-engineering/assets/129196395/0de4754c-4978-4ba8-857e-f0293f99486f)
 
 
 ## Contribution 🛠️

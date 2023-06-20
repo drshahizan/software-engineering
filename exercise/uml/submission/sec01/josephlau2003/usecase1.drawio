@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net" modified="2023-06-20T04:25:29.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KN0_i6AQ4lATiebeetMH" version="21.3.6" type="github">
+  <diagram name="Page-1" id="GB1s6uM45wI3Iao5mb-d">
+    <mxGraphModel dx="1290" dy="191" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_M6udmbpdaJvZWGWNVab-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="207" y="641" width="450" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="_M6udmbpdaJvZWGWNVab-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_M6udmbpdaJvZWGWNVab-22" target="_M6udmbpdaJvZWGWNVab-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="103" y="695" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_M6udmbpdaJvZWGWNVab-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_M6udmbpdaJvZWGWNVab-5" target="_M6udmbpdaJvZWGWNVab-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_M6udmbpdaJvZWGWNVab-5" value="Receptionist" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="121" y="783" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_M6udmbpdaJvZWGWNVab-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_M6udmbpdaJvZWGWNVab-7" target="_M6udmbpdaJvZWGWNVab-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_M6udmbpdaJvZWGWNVab-7" value="Medical Staff" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="703" y="857" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_M6udmbpdaJvZWGWNVab-10" value="Hotel Management System" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="326.5" y="641" width="211" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="_M6udmbpdaJvZWGWNVab-11" value="Admissions" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="378.5" y="705" width="107" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="_M6udmbpdaJvZWGWNVab-12" value="Appointments" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="372.38" y="785" width="119.25" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="_M6udmbpdaJvZWGWNVab-13" value="Medical Records" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="373.25" y="857" width="117.5" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="_M6udmbpdaJvZWGWNVab-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_M6udmbpdaJvZWGWNVab-17" target="_M6udmbpdaJvZWGWNVab-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_M6udmbpdaJvZWGWNVab-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_M6udmbpdaJvZWGWNVab-17" target="_M6udmbpdaJvZWGWNVab-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_M6udmbpdaJvZWGWNVab-17" value="Billing Department" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="125" y="946" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_M6udmbpdaJvZWGWNVab-20" value="Billing" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="368" y="947" width="117.5" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="_M6udmbpdaJvZWGWNVab-22" value="Front Desk Staff" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="703" y="696" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
