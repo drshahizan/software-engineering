@@ -64,10 +64,9 @@ Don't forget to hit the :star: if you like this repo.
 </table>
 
 ## 1. Introduction:
-- Briefly explain the purpose and objectives of the project.
   The Kolej Tun Dr. Ismail College room rental system project aims to develop a web-based system that allows students to easily request and rent college rooms. The system will automatically calculate the rental price based on the type of room and the number of days the student will stay. After the application is approved, the student will then pay for the room. 
 
-The main goal of the system is to simplify the college room rental process and ensure timely and accurate payment processing. The system will be developed using a web-based architecture and require full-stack web development expertise. The project team will consist of a main developer, a business analyst, a quality assurance engineer, a UI/UX designer, a database administrator, and an assistant developer. The project will require workstations, a server or cloud infrastructure, and various software tools such as an IDE, front-end, web frameworks, and testing frameworks. The project will also require other expenses such as internet access and office supplies.
+  The main goal of the system is to simplify the college room rental process and ensure timely and accurate payment processing. The system will be developed using a web-based architecture and require full-stack web development expertise. The project team will consist of a main developer, a business analyst, a quality assurance engineer, a UI/UX designer, a database administrator, and an assistant developer. The project will require workstations, a server or cloud infrastructure, and various software tools such as an IDE, front-end, web frameworks, and testing frameworks. The project will also require other expenses such as internet access and office supplies.
 
 ### Objective
 
@@ -85,7 +84,6 @@ The project aims to solve the problems associated with renting rooms to college 
 - Optimization and Resource Utilization: The current systems lack tools to monitor room occupancy, optimize allocation, and effectively use available resources.
 
  ### Significance and potential impact of the project.
-
   The college room rental system seeks to solve these problems by automating the rental process, making it easier for students to find and rent rooms, and for staff to manage their rental properties. The system will be accessible from any device with an internet connection, making it convenient for students to search for available rooms and make reservations at any time.
   The college room rental system has the potential to transform the rental process in colleges, making it more efficient, secure, and convenient for all stakeholders involved. The proposal seeks to provide a comprehensive overview of the system, its features, and its benefits, and to outline a detailed plan for its development and implementation.
 
