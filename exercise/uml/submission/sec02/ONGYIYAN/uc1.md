@@ -7,15 +7,17 @@
 
 Don't forget to hit the :star: if you like this repo.
 
+## Set:
 
+**Name: ONG YI YAN**
 
-**Name:** LEE YIK HONG 
+**Matrix No: A22EC0101**
 
-**Matrix No:** A21BE0376
+**Section: 02**
 
-**Section:** 02
+## Answer
+![usecase1](https://github.com/drshahizan/software-engineering/assets/128159572/1d7e68c1-009f-44de-be8b-50bb0b0831cd)
 
-<img src = https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec02/YIKHONGLEE/SE%20(WBL)%20UC1%20CLASS%20EXERCISE.png>
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
@@ -24,7 +26,5 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
-
 
 

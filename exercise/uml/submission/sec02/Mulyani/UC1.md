@@ -7,15 +7,16 @@
 
 Don't forget to hit the :star: if you like this repo.
 
+## Set: 1
 
+**Name:** Mulyani Binti Saripuddin
 
-**Name:** LEE YIK HONG 
-
-**Matrix No:** A21BE0376
+**Matrix No:** A22EC0223
 
 **Section:** 02
 
-<img src = https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec02/YIKHONGLEE/SE%20(WBL)%20UC1%20CLASS%20EXERCISE.png>
+## Answer
+![q1 drawio](https://github.com/drshahizan/software-engineering/assets/128196055/b3a9bc1b-826e-447f-913e-9305111b1333)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
