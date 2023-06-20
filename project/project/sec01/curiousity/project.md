@@ -1,4 +1,4 @@
-# Ko
+# KTDI Event Management System
 ### 💫Table of Contents
 * [Table of Contents](#table-of-contents)
 * [Introduction](#introduction)
