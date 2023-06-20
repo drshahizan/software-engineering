@@ -16,3 +16,4 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 01**
 
 ## Answer
+<img alt="UCD1" src="https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec01/kohlihui/UCD1.png?raw=true">
