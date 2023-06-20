@@ -53,7 +53,7 @@
 ---
 
 ### 4. Testing and Quality Assurance:
-####Testing Strategies and Techniques:
+#### Testing Strategies and Techniques:
 
 - Functional Testing: This technique focuses on validating the functionality of the student wellness and health management app. It involves verifying whether the app meets the specified requirements and performs the intended tasks accurately. Test cases will be created to cover various scenarios, such as registering a new student, scheduling appointments, and accessing health records.
 
@@ -68,6 +68,20 @@
 - Integration Testing: This type of testing verifies the interaction between different modules or components of the app. It ensures that the integration of these modules is seamless and that they function correctly when working together. Integration tests will be conducted to validate data flow, communication protocols, and interoperability between various app features.
 
 - System Testing: This testing assesses the behavior and performance of the entire system as a whole. It includes end-to-end testing of the student wellness and health management app in a simulated production-like environment. System tests will cover different scenarios, including user interactions, data synchronization, and integration with external systems such as the PKU UTM clinic's backend.
+
+#### Quality Assurance Processes:
+
+- Requirements Validation: The quality assurance process begins by ensuring that all requirements for the student wellness and health management app are clear, unambiguous, and achievable. The QA team will work closely with stakeholders to review and validate the requirements, making necessary clarifications or modifications as needed.
+
+- Code Reviews: Regular code reviews will be conducted to identify and rectify any coding errors, potential bugs, or inefficiencies in the app's codebase. This process helps ensure adherence to coding standards, maintainability, and reliability of the software.
+
+- Continuous Integration and Deployment: Continuous integration and deployment practices will be implemented to promote early detection of defects and seamless integration of new features or updates. This process involves automated build and test runs, allowing for quick identification and resolution of any issues that arise during the development process.
+
+- Error and Exception Handling: Robust error and exception handling mechanisms will be implemented within the app. This includes capturing and logging errors, providing meaningful error messages to users, and gracefully recovering from unexpected situations. Proper error handling ensures the app remains stable and reliable even when errors occur.
+
+- User Acceptance Testing (UAT): Before deploying the app to production, a UAT phase will be conducted. This involves involving a group of students from KTDI to extensively test the app in a real-world environment. Their feedback and observations will be considered to identify any usability issues or functional gaps that need to be addressed before the final release.
+
+- Bug Tracking and Resolution: Throughout the testing and quality assurance process, a robust bug tracking system will be utilized to capture and manage reported issues. Each bug will be assigned a priority, severity, and assigned to the relevant team member for resolution. Regular bug triaging and follow-up will ensure that all identified issues are resolved promptly.
 
 ---
 
