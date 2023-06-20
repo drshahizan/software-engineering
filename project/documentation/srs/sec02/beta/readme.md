@@ -4,7 +4,8 @@
 <a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/issues"><img src="https://img.shields.io/github/issues/drshahizan/software-engineering" alt="Issues Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/software-engineering?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/software-engineering)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fsoftware-engineering&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+
 
 Don't forget to hit the :star: if you like this repo.
 
@@ -113,7 +114,7 @@ Don't forget to hit the :star: if you like this repo.
 | 7  | 02/05/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi  |Requirements Analyst, Developer, User Experience Designer, Quality Assurance, Documentation Specialist   |Meeting with stakeholder, Faizun Nai'm (UTM student), Muhammad Harith (UTM student) and Muhammad Wafi Qayyum (UTM student)|Complete|
 | 8  | 03/05/2023 |Daniel, Ariff,Che Marhumi|Requirements Analyst, Developer, Documentation Specialist|Provide proposal document|Complete|
 | 9  | 05/05/2023 |Safwan|Quality Assurance|Checking all menu, quality the food and beverages, methods of payment|Complete|
-| 10  | 10/05/2023 |Daniel, Ariff,Che Marhumi|Requirements Analyst, Developer, Documentation Specialist|Planning SRS|Incomplete|
+| 10  | 10/05/2023 |Daniel, Ariff,Che Marhumi|Requirements Analyst, Developer, Documentation Specialist|Planning SRS|Complete|
 | 11 | 11/05/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst, Developer,User Experience Designer, Quality Assurance, Documentation Specialist |Create UML Diagram|Complete|
 | 12 | 13/05/2023 |Iman, Safwan|User Experience Designer, Quality Assurance|Low Fidelity|Incomplete|
 | 13 | 13/05/2023 |Daniel, Ariff|Requirements Analyst,Developer|High Fidelity|Incomplete|
@@ -127,7 +128,7 @@ Please create an [Issue](https://github.com/drshahizan/software-engineering/issu
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
-![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
 
 

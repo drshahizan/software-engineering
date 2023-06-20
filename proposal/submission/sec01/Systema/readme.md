@@ -47,8 +47,6 @@ The key features of the student engagement website include:
 - A personalized dashboard that displays a student's academic schedule, assignments, and other relevant information in a user-friendly interface.
 - Course-specific forums and discussion boards that allow students to engage with their peers and faculty members in discussions related to specific courses.
 - A student directory that enables students to connect with each other based on shared interests or academic programs.
-- A notification system that keeps students informed about important academic events and deadlines, such as exam schedules and registration deadlines.
-- A virtual events calendar that promotes student engagement in extracurricular activities, clubs, and other events on campus.
 - A feedback system that allows students to provide feedback on courses, instructors, and other aspects of their academic experience.
 
 <br>
@@ -86,7 +84,7 @@ The major objectives of building a student engagement website for Faculty Comput
   Overall, the development of a student engagement website aims to provide a comprehensive platform that supports Faculty Computing's students throughout their academic journey, enhances their learning experience, and fosters a sense of community within the academic community.<br>
 
 ### 4. Scope
-<p align="center"><img src="scope.png" width="400px" height="300px"></p>
+<p align="center"><img src="scope.svg" width="400px" height="300px"></p>
 <p>
 <ol>
   <li><b>Personalised dashboard</b>:
@@ -102,16 +100,6 @@ The major objectives of building a student engagement website for Faculty Comput
   <li><b>Student directory</b>:
     <ul>
       <li>A student directory could help increase student engagement by providing a platform for students to connect with each other and build relationships outside of the classroom. It could also help develop important skills related to networking, teamwork, and interpersonal communication.</li><br>
-    </ul>
-  </li>
-  <li><b>Notification system</b>:
-    <ul>
-      <li>A notification system would allow students to receive important updates and reminders about their academic experience, be highly customizable, and provide a centralized dashboard to help them stay organized and manage their time more effectively. This feature could help reduce stress and improve overall student well-being.</li><br>
-    </ul>
-  </li>
-  <li><b>Virtual events calendar</b>:
-    <ul>
-      <li>A virtual events calendar could be integrated into a student engagement system to provide a centralized platform for students to discover and participate in a wide range of academic and social events. It could include guest lectures, workshops, cultural events, sporting events, and student society meetings. It could also help students broaden their horizons and explore new interests.</li><br>
     </ul>
   </li>
   <li><b>Feedback system</b>:
@@ -216,7 +204,7 @@ The student engagement system for university users will be made up of a client-s
 
 - Presentation layer: The user interface of the website will be created and built using HTML, CSS, and JavaScript in this layer.  
 
-- The application layer will handle user requests, conduct data processing, and return responses. The server-side technologies for processing user requests and data management will be PHP and Apache.  
+- Application layer: The application layer will handle user requests, conduct data processing, and return responses. The server-side technologies for processing user requests and data management will be PHP and Apache.  
 
 - Data layer: This layer will manage and store the system's data. The relational database management system (RDBMS) that will be utilised to store user information, posts, comments, and other important data is MySQL.
 
@@ -228,7 +216,7 @@ The following hardware and software are needed for managing and storing data:
 
 - Hardware: A server or hosting service with enough processing power and storage space to meet the website's data management and storage requirements.
 
-- Software: Express.js and Node.js for server-side processing, with MySQL serving as the RDBMS.  
+- Software: PHP for server-side processing, with MySQL serving as the RDBMS.  
 
 #### Flowchart and Block Diagram:
 
@@ -297,13 +285,13 @@ Block Diagram:
 ### 10. Technical Specifications
 |           |           |
 |-----------------------|-------------------------------------------------------------------------|
-| Data Sources | <ul><li>Student datas from myUTM</li><li>Club and faculties events data</li></ul>|
-| Data Schema | The data schema will have tables that store of students information, clubs details, data from different faculties and departments in UTM.|
-| Data Transformation | The data will be transformed into insights to understand students likings and interest.|
+| Data Sources          | <ul><li>Student datas from myUTM</li><li>Club and faculties events data</li></ul>|
+| Data Schema           | The data schema will have tables that store of students information, clubs details, data from different faculties and departments in UTM.|
+| Data Transformation   | The data will be transformed into insights to understand students likings and interest.|
 | Programming Languages | HTML，CSS，JavaScript, PHP, MySQL|
-| Libraries | Bootstrap, jQuery |
+| Libraries             | Bootstrap, jQuery |
 | Hardware Requirements | <ul><li>Processor: A multi-core processor</li><li>RAM: 8GB or higehr</li><li>Storage: 50GB or higher</li><li>Display: Resolution of 1920x1080 or higher</li></ul> |
-| Software Requirements | <ul><li>Operating system: Windows 10 or higher</li><li>IDE: Visual Studio Code, Bootstrap Studio</li><li>Web server: Apache</li><li>Database: MySQL</li><li> Version control: Git</li></ul> |  
+| Software Requirements | <ul><li>Operating system: Windows 10 or higher</li><li>IDE: Visual Studio Code, Bootstrap Studio</li><li>Database: MySQL</li><li> Version control: Git</li></ul> |  
 
 
 ### 11. Timeline and Deliverables

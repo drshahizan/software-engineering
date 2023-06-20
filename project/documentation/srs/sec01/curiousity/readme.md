@@ -4,7 +4,8 @@
 <a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/issues"><img src="https://img.shields.io/github/issues/drshahizan/software-engineering" alt="Issues Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/software-engineering?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/software-engineering)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fsoftware-engineering&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+
 
 Don't forget to hit the :star: if you like this repo.
 
@@ -96,16 +97,10 @@ Don't forget to hit the :star: if you like this repo.
 | 9 | 11/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with LT KOL Prof. Madya Dr. Mohd Noor Azli Bin Haji. Ali Khan (KTDI Administrator) | Complete |
 | 10 | 14/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Contact with Hamizah Amalina Binti Amlan (Pembantu Felo KTDI) | Complete |
 | 11 | 15/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | SRS Planning | Complete |
-| 12 | 20/05/2023 | Camily Tang Jia Lei | Developer | Identify software functionality | Complete |  
-| 13 | 20/05/2023 | Koh Li Hui | User Experience Designer | Requirement Analysis | Complete |
-| 14 | 16/05/2023 | Ng Shu Yu | Documentation Specialist | Create system documentation | Ongoing |
-| 15 | 11/05/2023-25/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Creates UML Diagram, User Diagram, User Journey Maps, User Stories and Prototype. | Complete |
-| 16 | 26/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer |Second Meeting with Stakeholders for Review the Requirement and Draft of the Design | Incomplete |
-| 17 | 27/05/2023 |  Ng Shu Yu | Documentation Specialist | Create Design Document | Incomplete |
-| 18 | 30/05/2023-10/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer |Develop the Interface Layer - each member with at least 1 modul to complete | Incomplete | 
-| 19 | 5/06/2023- 15/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer |Develop Application Layer - continue from the interface layer design | Incomplete |
-| 20 | 13/06/2023 |Low Ying Xi, Camily Tang Jia Lei, Koh Li Hui |Project Manger, Developer, User Experience Designer| Integrates the code and perform integration testing | Incomplete |
-| 21 | 14/06/2023 |  Ng Shu Yu | Documentation Specialist | Create Development Document | Incomplete |
+| 12 | 15/05/2023 | Camily Tang Jia Lei | Developer | Identify software functionality | Complete |  
+| 13 | 15/05/2023 | Koh Li Hui | User Experience Designer | Requirement Analysis | Complete |
+| 14 | 15/05/2023 - 05/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Creates UML Diagram, User Diagram, User Journey Maps and User Stories. | Complete |
+| 15 | 10/06/2023 | Ng Shu Yu | Documentation Specialist | Create system documentation | Complete |
 
 
 ## Contribution 🛠️
@@ -113,7 +108,7 @@ Please create an [Issue](https://github.com/drshahizan/software-engineering/issu
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
-![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
 
 
