@@ -17,7 +17,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Answer
 
-<img src= "https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec02/danialharriz/ad1.drawio.png">
+<img src= "https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec02/danialharriz/Images/ad1.drawio.png">
 
 
 ## Contribution 🛠️
