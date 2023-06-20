@@ -56,6 +56,6 @@
       
       4. The patient receives necessary medical services based on the admission.
       
-      5. The patient's billing information is recorded, enabling accurate billing for the services provided.</td>
+      5. The patient's billing information is recorded, enabling accurate billing for the services provided.
   </tr>
 </table>
