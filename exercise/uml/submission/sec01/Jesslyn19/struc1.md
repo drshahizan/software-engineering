@@ -16,7 +16,7 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 01**
 
 ## Answer
-<img src = "struc1.jpg" width = 200png height = 200png>
+<img src = "struc1.jpg" width = 400png height = 200png>
 
 </html>
 
