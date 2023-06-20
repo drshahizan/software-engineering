@@ -7,25 +7,25 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set:
+## MCQ Set: 1
 
-**Name:**
+**Name: Muhammad Anas Bin Mohd Pikri**
 
-**Matrix No:**
+**Matrix No: A21SC0464**
 
-**Section:**
+**Section: 02**
 
 ## Answer
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1.C
+2.B
+3.C
+4.A
+5.B
+6.D
+7.C
+8.B
+9.D
+10.B
 11.
 12.
 13.
