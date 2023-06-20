@@ -9,13 +9,57 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Set:
 
-**Name: ONG YI YAN**
+**Name:** Nadhrah NurSabrina Binti Zulaini
 
-**Matrix No: A22EC0101**
+**Matrix No:** A22EC0224
 
-**Section: 02**
+**Section:** 02
 
 ## Answer
+<table>
+    <tr>
+        <td>
+            <b>Use case: MSO Hospital Management System</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>ID:</b> 001
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Actors: </b>
+            Hospital staff
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Pre-condition: </b> <br>
+            1. Hospital staff have access to the system <br>
+            2. Patient information available in the system <br>
+            3. Hospital have necessary medical and billing infrastructure
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Flow of events: </b> <br>
+            1. Hospital staff log into the system. <br>
+            2. Hospital staff select the desired function  such as admissions, appointments, medical records, or billing. <br>
+            3. Hospital staff perform specific actions based on the selected function. <br>
+            4. System validate and update the data accordingly.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Postconditions: </b> <br>
+            1. Patient information updated <br>
+            2. Accessible records for future reference <br>
+            3. Provision of necessary medical services <br>
+            4. Billing information to patients
+        </td>
+    </tr>
+</table>
 
 
 ## Contribution 🛠️
@@ -25,7 +69,5 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
-
 
 
