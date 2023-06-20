@@ -19,21 +19,21 @@ Don't forget to hit the :star: if you like this repo.
 
 <table>
   <tr>
-    <td>
+ 
       <b>
         Use Case Description : Hospital Management System
       </b>
     
   </tr>
   <tr>
-    <td>
+
       <b>
         ID : 001
       </b>
    
   </tr>
   <tr>
-    <td>
+ 
       <b>
         Actors:
       </b>
@@ -44,7 +44,7 @@ Don't forget to hit the :star: if you like this repo.
    
   </tr>
   <tr>
-    <td>
+ 
       <b>
         Preconditions:
       </b>
@@ -55,13 +55,12 @@ Don't forget to hit the :star: if you like this repo.
             3. Hospital staff perform specific actions based on the selected function. 
       <br>
             4. System validate and update the data accordingly.
-        
-      <br>
+       
       
     
   </tr>
   <tr>
-    <td>
+    
       <b>
         Postconditions:
       </b>
