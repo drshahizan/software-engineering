@@ -1,4 +1,3 @@
-
 Use Case: Admit Patient
 
 Primary Actor: Hospital Staff
@@ -20,11 +19,13 @@ Once all the information is validated, the system updates the patient's record i
 The system generates an admission ID or number for the patient, which serves as a unique identifier for their admission.
 If necessary, the system may also generate and print an admission form or wristband with the patient's details and admission ID.
 The system notifies the staff about the successful admission process and provides them with the admission details for future reference.
+
 Postconditions:
 
 The patient's admission details are stored in the system's database.
 The patient is officially admitted to the hospital and can receive the necessary medical services.
 The staff can access the patient's admission information for further treatment, documentation, and billing purposes.
+
 Alternative Flows:
 
 If the system encounters technical issues during the admission process (e.g., server error), it notifies the staff and prompts them to retry or contact technical support.
