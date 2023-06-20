@@ -17,6 +17,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Answer
 
+![photo_2023-06-20_12-23-52](https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec02/nikzulaikhaa/img/use%20case%201.drawio.png)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
