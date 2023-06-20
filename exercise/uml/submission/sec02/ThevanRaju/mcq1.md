@@ -11,7 +11,7 @@ Don't forget to hit the :star: if you like this repo.
 
 **Name:THEVAN RAJU A/L JEGANATH**
 
-**Matrix No:A22EC0286**
+**Matrix No: A22EC0286**
 
 **Section:02**
 
@@ -20,7 +20,7 @@ Don't forget to hit the :star: if you like this repo.
 2. C
 3. C
 4. B
-5.
+5. B
 6.
 7.
 8.
