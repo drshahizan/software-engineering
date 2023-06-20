@@ -1,5 +1,5 @@
-## Project Implementation Plan
-### 1. Objectives
+# Project Implementation Plan
+## 1. Objectives
 Project implementation is crucial to put plans into practise, accomplish project goals, produce deliverables, efficiently manage resources, react to changes, track progress, involve stakeholders, and promote learning and development. It serves as a link between concepts and outcomes, transforming project ideas into concrete results.
 
 The project implementation objectives are the desired outcomes that we do hope to achieve during the project execution phase. These objectives act as a guide and provide a clear direction for us to ensure the project's success. 
@@ -11,8 +11,7 @@ Objectives of project implementation:
 4. Stakeholder satisfaction: Aim to meet the expectations and needs of project stakeholders, such as client (KTDI admin), and end users (UTM students, KTDI staff and KTDI fellow).
 5. Efficient resource utilisation: Maximise productivity while minimising waste by optimising the use of resources such as personnel, equipment, and materials.
 
-### 2.Tasks Breakdown
-
+## 2.Tasks Breakdown
 1. Requirement Gathering and Analysis:
 - Conduct in-depth interviews, surveys, and workshops with key stakeholders (KTDI staff, administrators, students) to gather detailed requirements for the accommodation system.
 - Analyze existing accommodation processes and identify pain points and areas for improvement.
@@ -62,9 +61,10 @@ Objectives of project implementation:
 - Monitor the repository for updates, address conflicts, and merge changes after review and testing.
 - Utilize version control features to tag and manage releases, allowing easy rollback and traceability of changes.
 
-### 3. Timeline
+## 3. Timeline
 
-### 4. Resource Requirements
+## 4. Resource Requirements
+### Personel resources:
 1. Project Manager: Neo Zheng Weng
 - Ensure prompt project completion by supervising the whole implementation process.
 - Effectively coordinate tasks and resource allocation.
@@ -75,7 +75,6 @@ Objectives of project implementation:
 - To obtain specific needs for the accommodation system, conduct in-depth interviews, surveys, and workshops with key stakeholders.
 - Analyse current accomodation procedures to find problems and potential improvements.
 - Collaborate with the primary developer to help with the development duties.
-
 
 3. Documentation Specialist & Developer Assistant: Muhammad Danial
 - Create the system's documentation, which should include user manuals, technical specifications, and release notes.
@@ -89,4 +88,5 @@ Objectives of project implementation:
 5. Quality Assurance Analyst & Developer Assistant: Low Jie Sheng
 - To make sure the system works well and satisfies the requirements, do thorough testing, including unit, integration, and system testing.
 - Collaborate with the primary developer to help with the development duties.
+
 
