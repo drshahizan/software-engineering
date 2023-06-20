@@ -1,4 +1,3 @@
-
 <a href="https://github.com/drshahizan/learn-php/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/learn-php" alt="Stars Badge"/></a>
 <a href="https://github.com/drshahizan/learn-php/network/members"><img src="https://img.shields.io/github/forks/drshahizan/learn-php" alt="Forks Badge"/></a>
 <a href="https://github.com/drshahizan/learn-php/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/learn-php" alt="Pull Requests Badge"/></a>
@@ -17,7 +16,7 @@ Don't forget to hit the :star: if you like this repo.
 **Section:01**
 
 ## Answer
-<img src="UseCase1.jpg" width=400px height=400px>
+< img src="UseCase1.jpg" width=300px height=300px >
 
 
 ## Contribution 🛠️
