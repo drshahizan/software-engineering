@@ -31,171 +31,172 @@ Don't forget to hit the :star: if you like this repo.
 └── 📁your github id
 ```
 
-# Case Study: Software Verification, Validation, and Testing
+# Case Study: Software Verification and Validation
 
 ## Background
-Company MSO is a leading software development firm that specializes in developing enterprise-level applications. They are currently working on a new software project, "Project ABC," which aims to provide a comprehensive customer relationship management (CRM) solution for businesses. As part of the software development life cycle, MSO needs to ensure that Project ABC undergoes rigorous verification, validation, and testing processes to deliver a high-quality, reliable, and error-free software product.
+ABC Solutions is a software development company specializing in e-commerce solutions. They have recently developed an online shopping platform called "ShopEase" to provide a seamless shopping experience for customers. As part of their quality assurance process, ABC Solutions implements software verification and validation techniques to ensure the reliability and functionality of their software.
 
 ## Verification
-Verification involves checking if the software adheres to its specified requirements and standards. To verify Project ABC, MSO performs a thorough review of the software design and requirements documents. They examine the software architecture, functional specifications, and user interface design to ensure consistency and correctness. Additionally, they use static analysis tools to identify potential coding errors and adherence to coding standards.
+Verification activities at ABC Solutions aim to confirm that the software is built according to its specifications and requirements. They perform code inspections and conduct reviews to ensure adherence to coding standards and best practices. Additionally, they use static code analysis tools to identify potential defects, coding errors, and security vulnerabilities. Verification activities help ABC Solutions verify the accuracy of the software design and implementation.
 
 ## Validation
-Validation focuses on evaluating the software during the development process to ensure it meets the customer's expectations and requirements. In the case of Project ABC, MSO conducts user acceptance testing (UAT) to validate the software's functionality, usability, and performance. They involve end-users and stakeholders in the UAT process, collecting feedback and making necessary adjustments based on their input. The validation phase ensures that Project ABC is suitable for its intended purpose and aligns with the needs of its target users.
-
-## Testing
-Testing is a critical component of software development, involving the execution of software to identify defects, bugs, and other issues. MSO employs various testing techniques to ensure the reliability and robustness of Project ABC. They conduct unit testing to validate individual software components, integration testing to verify the interaction between different modules, and system testing to evaluate the overall system behavior. Additionally, they perform regression testing to ensure that new changes or updates do not break existing functionalities.
+Validation activities focus on assessing whether the developed software meets the needs and expectations of the end-users. ABC Solutions conducts usability testing, where real users navigate the ShopEase platform to evaluate its ease of use, intuitiveness, and overall user experience. They gather feedback from users to validate that the software effectively addresses their requirements and ensures customer satisfaction. Validation activities ensure that ShopEase is a user-friendly and customer-centric e-commerce platform.
 
 ## Case Study Questions
 
-1. Which phase of the software development life cycle involves checking if the software adheres to its specified requirements and standards?
-   - A) Verification
-   - B) Validation
-   - C) Testing
-   - D) Deployment
+1. What is the goal of software verification at ABC Solutions?
+   - A) Assess user satisfaction with the software
+   - B) Validate that the software meets customer requirements
+   - C) Ensure adherence to coding standards and best practices
+   - D) Evaluate the software's ease of use and intuitiveness
 
-2. What is the primary goal of software validation?
-   - A) Ensuring adherence to coding standards
-   - B) Evaluating software performance
-   - C) Verifying software requirements
-   - D) Meeting customer expectations
+2. Which technique is used by ABC Solutions to identify potential defects, coding errors, and security vulnerabilities?
+   - A) Usability testing
+   - B) Code inspections and reviews
+   - C) Static code analysis
+   - D) Performance testing
 
-3. Which type of testing focuses on evaluating the interaction between different software modules?
-   - A) Unit testing
-   - B) Integration testing
-   - C) System testing
-   - D) Regression testing
+3. What is the primary focus of software validation at ABC Solutions?
+   - A) Adherence to coding standards and best practices
+   - B) Assessing the accuracy of the software design and implementation
+   - C) Meeting the needs and expectations of end-users
+   - D) Identifying potential security vulnerabilities
 
-4. Which testing technique helps identify defects that may arise due to new changes or updates in the software?
-   - A) Unit testing
-   - B) Integration testing
-   - C) System testing
-   - D) Regression testing
+4. How does ABC Solutions gather feedback from users during the validation process?
+   - A) Code inspections and reviews
+   - B) Performance testing
+   - C) Usability testing
+   - D) Static code analysis
 
-5. Company MSO involves end-users and stakeholders in the testing process to validate the software's functionality and usability. This process is known as:
-   - A) Verification testing
-   - B) Unit testing
-   - C) User acceptance testing
-   - D) Regression testing
+5. What is the purpose of verification activities at ABC Solutions?
+   - A) Evaluate the software's ease of use and intuitiveness
+   - B) Validate that the software meets customer requirements
+   - C) Identify potential defects, coding errors, and security vulnerabilities
+   - D) Assess user satisfaction with the software
 
-6. What is the main focus of software verification?
-   - A) Evaluating software performance
-   - B) Ensuring software meets customer requirements
-   - C) Checking adherence to coding standards
-   - D) Verifying software design and specifications
+6. Which technique is used by ABC Solutions to ensure adherence to coding standards and best practices?
+   - A) Usability testing
+   - B) Code inspections and reviews
+   - C) Static code analysis
+   - D) Performance testing
 
-7. MSO uses static analysis tools during the verification process primarily to:
-   - A) Identify coding errors
-   - B) Evaluate user interface design
-   - C) Test software performance
-   - D) Validate software requirements
+7. What is the primary focus of validation activities at ABC Solutions?
+   - A) Assessing the accuracy of the software design and implementation
+   - B) Identifying potential security vulnerabilities
+   - C) Meeting the needs and expectations of end-users
+   - D) Ensuring adherence to coding standards and best practices
 
-8. Which type of testing evaluates the overall behavior and performance of the software system?
-   - A) Unit testing
-   - B) Integration testing
-   - C) System testing
-   - D) Acceptance testing
+8. How does ABC Solutions ensure that the ShopEase platform is user-friendly and customer-centric?
+   - A) Through code inspections and reviews
+   - B) By conducting performance testing
+   - C) Via usability testing and gathering user feedback
+   - D) With the help of static code analysis tools
 
-9. During which phase of the software development life cycle is user acceptance testing typically performed?
-   - A) Verification
-   - B) Validation
-   - C) Testing
-   - D) Deployment
+9. Which goal is associated with software verification at ABC Solutions?
+   - A) Meeting the needs and expectations of end-users
+   - B) Assessing the accuracy of the software design and implementation
+   - C) Ensuring adherence to coding standards and
 
-10. What is the purpose of regression testing?
-    - A) Validating software requirements
-    - B) Verifying software design and specifications
-    - C) Evaluating user interface design
-    - D) Ensuring new changes do not break existing functionalities
+ best practices
+   - D) Identifying potential security vulnerabilities
 
-11. Which testing technique focuses on testing individual software components in isolation?
-    - A) Unit testing
-    - B) Integration testing
-    - C) System testing
-    - D) Acceptance testing
+10. What technique is employed by ABC Solutions to evaluate the ease of use, intuitiveness, and overall user experience of the ShopEase platform?
+    - A) Usability testing
+    - B) Code inspections and reviews
+    - C) Static code analysis
+    - D) Performance testing
 
-12. MSO is conducting a comprehensive review of the software design and requirements documents during the software development process. This review is part of:
-    - A) Verification
-    - B) Validation
-    - C) Testing
-    - D) Deployment
+11. What is the purpose of code inspections and reviews during the verification process?
+    - A) Assess user satisfaction with the software
+    - B) Validate that the software meets customer requirements
+    - C) Ensure adherence to coding standards and best practices
+    - D) Identify potential security vulnerabilities
 
-13. The primary goal of software validation is to:
-    - A) Verify adherence to coding standards
-    - B) Test software performance
-    - C) Evaluate user interface design
-    - D) Ensure software meets customer expectations
+12. How does ABC Solutions assess whether the developed software meets the needs and expectations of the end-users?
+    - A) Through code inspections and reviews
+    - B) By conducting performance testing
+    - C) Via usability testing and gathering user feedback
+    - D) With the help of static code analysis tools
 
-14. Which testing technique helps identify defects in the interaction between different software modules?
-    - A) Unit testing
-    - B) Integration testing
-    - C) System testing
-    - D) Regression testing
+13. Which purpose is associated with software validation at ABC Solutions?
+    - A) Meeting the needs and expectations of end-users
+    - B) Assessing the accuracy of the software design and implementation
+    - C) Ensuring adherence to coding standards and best practices
+    - D) Identifying potential security vulnerabilities
 
-15. Regression testing is primarily focused on:
-    - A) Verifying adherence to coding standards
-    - B) Evaluating software performance
-    - C) Validating software requirements
-    - D) Ensuring new changes do not break existing functionalities
+14. What technique is used by ABC Solutions to identify potential defects, coding errors, and security vulnerabilities?
+    - A) Usability testing
+    - B) Code inspections and reviews
+    - C) Static code analysis
+    - D) Performance testing
 
-16. Which phase of the software development life cycle involves the execution of software to identify defects and bugs?
-    - A) Verification
-    - B) Validation
-    - C) Testing
-    - D) Deployment
+15. What is the primary focus of software verification at ABC Solutions?
+    - A) Assessing the accuracy of the software design and implementation
+    - B) Identifying potential security vulnerabilities
+    - C) Meeting the needs and expectations of end-users
+    - D) Ensuring adherence to coding standards and best practices
 
-17. MSO conducts user acceptance testing (UAT) to validate the software's:
-    - A) Performance and scalability
-    - B) Adherence to coding standards
-    - C) Interaction between different modules
-    - D) Functionality and usability
+16. How does ABC Solutions gather feedback from users during the validation process?
+    - A) Code inspections and reviews
+    - B) Performance testing
+    - C) Usability testing
+    - D) Static code analysis
 
-18. The purpose of integration testing is to:
-    - A) Verify adherence to coding standards
-    - B) Test individual software components in isolation
-    - C) Evaluate the overall system behavior
-    - D) Ensure new changes do not break existing functionalities
+17. What is the purpose of validation activities at ABC Solutions?
+    - A) Evaluate the software's ease of use and intuitiveness
+    - B) Validate that the software meets customer requirements
+    - C) Identify potential defects, coding errors, and security vulnerabilities
+    - D) Assess user satisfaction with the software
 
-19. Which testing technique evaluates the overall behavior and performance of the software system?
-    - A) Unit testing
-    - B) Integration testing
-    - C) System testing
-    - D) Acceptance testing
+18. Which technique is used by ABC Solutions to ensure adherence to coding standards and best practices?
+    - A) Usability testing
+    - B) Code inspections and reviews
+    - C) Static code analysis
+    - D) Performance testing
 
-20. What is the primary focus of software verification?
-    - A) Evaluating software performance
-    - B) Ensuring software meets customer requirements
-    - C) Checking adherence to coding standards
-    - D) Verifying software design and specifications
+19. What is the primary focus of verification activities at ABC Solutions?
+    - A) Assessing the accuracy of the software design and implementation
+    - B) Identifying potential security vulnerabilities
+    - C) Meeting the needs and expectations of end-users
+    - D) Ensuring adherence to coding standards and best practices
 
-21. Static analysis tools are primarily used during the verification process to:
-    - A) Identify coding errors
-    - B) Evaluate user interface design
-    - C) Test software performance
-    - D) Validate software requirements
+20. How does ABC Solutions ensure that the ShopEase platform is user-friendly and customer-centric?
+    - A) Through code inspections and reviews
+    - B) By conducting performance testing
+    - C) Via usability testing and gathering user feedback
+    - D) With the help of static code analysis tools
 
-22. User acceptance testing (UAT) is performed to:
-    - A) Verify adherence to coding standards
-    - B) Test software performance
-    - C) Evaluate user interface design
-    - D) Validate the software's functionality and usability
+21. Which goal is associated with software verification at ABC Solutions?
+    - A) Meeting the needs and expectations of end-users
+    - B) Assessing the accuracy of the software design and implementation
+    - C) Ensuring adherence to coding standards and best practices
+    - D) Identifying potential security vulnerabilities
 
-23. Which testing technique focuses on testing individual software components in isolation?
-    - A) Unit testing
-    - B) Integration testing
-    - C) System testing
-    - D) Acceptance testing
+22. What technique is employed by ABC Solutions to evaluate the ease of use, intuitiveness, and overall user experience of the Shop
 
-24. During which phase of the software development life cycle is user acceptance testing typically performed?
-    - A) Verification
-    - B) Validation
-    - C) Testing
-    - D) Deployment
+Ease platform?
+    - A) Usability testing
+    - B) Code inspections and reviews
+    - C) Static code analysis
+    - D) Performance testing
 
-25. What is the purpose of regression testing?
-    - A) Validating software requirements
-    - B) Verifying software design and specifications
-    - C) Evaluating user interface design
-    - D) Ensuring new changes do not break existing functionalities
+23. What is the purpose of code inspections and reviews during the verification process?
+    - A) Assess user satisfaction with the software
+    - B) Validate that the software meets customer requirements
+    - C) Ensure adherence to coding standards and best practices
+    - D) Identify potential security vulnerabilities
+
+24. How does ABC Solutions assess whether the developed software meets the needs and expectations of the end-users?
+    - A) Through code inspections and reviews
+    - B) By conducting performance testing
+    - C) Via usability testing and gathering user feedback
+    - D) With the help of static code analysis tools
+
+25. Which purpose is associated with software validation at ABC Solutions?
+    - A) Meeting the needs and expectations of end-users
+    - B) Assessing the accuracy of the software design and implementation
+    - C) Ensuring adherence to coding standards and best practices
+    - D) Identifying potential security vulnerabilities
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
