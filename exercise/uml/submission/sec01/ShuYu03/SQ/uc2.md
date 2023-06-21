@@ -7,4 +7,4 @@
 **Section: 01**
 
 ## Answer
-<img src="" alt=""/></a>
+<img src="drawio_image/uc2.jpg" alt=""/></a>
