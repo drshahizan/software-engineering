@@ -7,16 +7,16 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set Case Study 1: MSO Hospital Management System
+## Set: Case Study: Hospital Management System
 
 **Name: NEO ZHENG WENG**
 
 **Matrix No: A22EC0093**
 
-**Section: 03**
+**Section: 01**
 
 ## Answer
-[View Use Case Description](https://docs.google.com/document/d/1cys1aHrKdTbdcAxp-wV7jZpr-cSMoTAw4kDKakf7mrA/edit?usp=sharing)
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
