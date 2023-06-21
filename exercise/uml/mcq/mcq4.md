@@ -31,192 +31,171 @@ Don't forget to hit the :star: if you like this repo.
 └── 📁your github id
 ```
 
-# Case Study: Online Shopping System
+# Case Study: Software Verification, Validation, and Testing
 
-## Introduction
-An Online Shopping System enables users to browse and purchase products from various vendors through a web-based platform. The system provides functionality for users to search for products, add them to a shopping cart, proceed to checkout, and complete the purchase transaction. It also allows vendors to manage their inventory, process orders, and track sales. Let's explore the system requirements and model them using Structural and Behavioral UML diagrams.
+## Background
+Company MSO is a leading software development firm that specializes in developing enterprise-level applications. They are currently working on a new software project, "Project ABC," which aims to provide a comprehensive customer relationship management (CRM) solution for businesses. As part of the software development life cycle, MSO needs to ensure that Project ABC undergoes rigorous verification, validation, and testing processes to deliver a high-quality, reliable, and error-free software product.
 
-## Use Case Diagram
-The use case diagram showcases the interactions between actors and the system's functionality. It includes use cases such as "Search Products," "Add to Cart," "Proceed to Checkout," "Process Order," and "Manage Inventory" for both users and vendors.
+## Verification
+Verification involves checking if the software adheres to its specified requirements and standards. To verify Project ABC, MSO performs a thorough review of the software design and requirements documents. They examine the software architecture, functional specifications, and user interface design to ensure consistency and correctness. Additionally, they use static analysis tools to identify potential coding errors and adherence to coding standards.
 
-## Class Diagram
-The class diagram represents the structure and relationships between classes and their attributes in the Online Shopping System. It includes classes such as "User," "Vendor," "Product," "Shopping Cart," "Order," and "Payment," along with their associations and multiplicity.
+## Validation
+Validation focuses on evaluating the software during the development process to ensure it meets the customer's expectations and requirements. In the case of Project ABC, MSO conducts user acceptance testing (UAT) to validate the software's functionality, usability, and performance. They involve end-users and stakeholders in the UAT process, collecting feedback and making necessary adjustments based on their input. The validation phase ensures that Project ABC is suitable for its intended purpose and aligns with the needs of its target users.
 
-## Activity Diagram
-The activity diagram depicts the flow of activities within the system. It showcases the steps involved in processes such as searching for products, adding items to the shopping cart, proceeding to checkout, and processing orders.
+## Testing
+Testing is a critical component of software development, involving the execution of software to identify defects, bugs, and other issues. MSO employs various testing techniques to ensure the reliability and robustness of Project ABC. They conduct unit testing to validate individual software components, integration testing to verify the interaction between different modules, and system testing to evaluate the overall system behavior. Additionally, they perform regression testing to ensure that new changes or updates do not break existing functionalities.
 
-## Sequence Diagram
-The sequence diagram illustrates the interaction between objects over time. It showcases the sequence of messages exchanged between objects during processes such as adding items to the shopping cart, completing the checkout process, and processing orders.
+## Case Study Questions
 
-## System Description
-The Online Shopping System involves two main actors: Users and Vendors. Users are the individuals who browse and purchase products, while Vendors are the sellers who offer products for sale.
+1. Which phase of the software development life cycle involves checking if the software adheres to its specified requirements and standards?
+   - A) Verification
+   - B) Validation
+   - C) Testing
+   - D) Deployment
 
-The main functionality of the system includes:
+2. What is the primary goal of software validation?
+   - A) Ensuring adherence to coding standards
+   - B) Evaluating software performance
+   - C) Verifying software requirements
+   - D) Meeting customer expectations
 
-1. **Search Products**: Users can search for products based on various criteria such as keywords, categories, or price range.
-2. **Add to Cart**: Users can add selected products to their shopping cart for later purchase.
-3. **Proceed to Checkout**: Users can review the items in their cart, enter shipping and payment details, and proceed to complete the purchase.
-4. **Process Order**: Vendors receive orders placed by users, update inventory, and arrange shipment.
-5. **Manage Inventory**: Vendors can add new products, update existing product details, and track inventory levels.
-6. **Track Sales**: Vendors can generate reports to analyze sales data and monitor their business performance.
+3. Which type of testing focuses on evaluating the interaction between different software modules?
+   - A) Unit testing
+   - B) Integration testing
+   - C) System testing
+   - D) Regression testing
 
-The Online Shopping System aims to provide a seamless and convenient shopping experience for users while offering a platform for vendors to showcase and sell their products effectively.
+4. Which testing technique helps identify defects that may arise due to new changes or updates in the software?
+   - A) Unit testing
+   - B) Integration testing
+   - C) System testing
+   - D) Regression testing
 
-## Multiple Choice Questions
+5. Company MSO involves end-users and stakeholders in the testing process to validate the software's functionality and usability. This process is known as:
+   - A) Verification testing
+   - B) Unit testing
+   - C) User acceptance testing
+   - D) Regression testing
 
-### Structural UML Diagrams:
+6. What is the main focus of software verification?
+   - A) Evaluating software performance
+   - B) Ensuring software meets customer requirements
+   - C) Checking adherence to coding standards
+   - D) Verifying software design and specifications
 
-1. Which UML diagram represents the structure and relationships between classes in the Online Shopping System?
-   - a. Use case diagram.
-   - b. Class diagram.
-   - c. Activity diagram.
-   - d. Sequence diagram.
+7. XYZ uses static analysis tools during the verification process primarily to:
+   - A) Identify coding errors
+   - B) Evaluate user interface design
+   - C) Test software performance
+   - D) Validate software requirements
 
-2. What does the class diagram illustrate in the Online Shopping System?
-   - a. The flow of activities within the system.
-   - b. The interaction between objects over time.
-   - c. The relationships between classes and their attributes.
-   - d. The structure of the system components.
+8. Which type of testing evaluates the overall behavior and performance of the software system?
+   - A) Unit testing
+   - B) Integration testing
+   - C) System testing
+   - D) Acceptance testing
 
-3. Which UML diagram showcases the organization and dependencies of system components?
-   - a. Use case diagram.
-   - b. Component diagram.
-   - c. Composite structure diagram.
-   - d. Deployment diagram.
+9. During which phase of the software development life cycle is user acceptance testing typically performed?
+   - A) Verification
+   - B) Validation
+   - C) Testing
+   - D) Deployment
 
-4. What is the purpose of the object diagram in the Online Shopping System?
-   - a. To depict the interactions between actors and the system's functionality.
-   - b. To show the detailed steps of the purchase transaction.
-   - c. To represent instances of classes and their relationships at a specific time.
-   - d. To illustrate the sequence of messages exchanged between objects.
+10. What is the purpose of regression testing?
+    - A) Validating software requirements
+    - B) Verifying software design and specifications
+    - C) Evaluating user interface design
+    - D) Ensuring new changes do not break existing functionalities
 
-5. Which diagram would be most suitable for modeling the physical deployment of software components onto hardware nodes?
-   - a. Use case diagram.
-   - b. Component diagram.
-   - c. Composite structure diagram.
-   - d. Deployment diagram.
+11. Which testing technique focuses on testing individual software components in isolation?
+    - A) Unit testing
+    - B) Integration testing
+    - C) System testing
+    - D) Acceptance testing
 
-### Behavioral UML Diagrams:
+12. XYZ is conducting a comprehensive review of the software design and requirements documents during the software development process. This review is part of:
+    - A) Verification
+    - B) Validation
+    - C) Testing
+    - D) Deployment
 
-6. What is the purpose of the activity diagram in the Online Shopping System?
-   - a. To depict the interactions between users and vendors.
-   - b. To show the detailed steps of the search process.
-   - c. To represent the flow of activities within the system.
-   - d. To illustrate the sequence of messages exchanged between objects.
+13. The primary goal of software validation is to:
+    - A) Verify adherence to coding standards
+    - B) Test software performance
+    - C) Evaluate user interface design
+    - D) Ensure software meets customer expectations
 
-7. Which UML diagram represents the interaction between objects over time?
-   - a. Use case diagram.
-   - b. Component diagram.
-   - c. Interaction overview diagram.
-   - d. Sequence diagram.
+14. Which testing technique helps identify defects in the interaction between different software modules?
+    - A) Unit testing
+    - B) Integration testing
+    - C) System testing
+    - D) Regression testing
 
-8. In the sequence diagram, what does the arrow represent?
-   - a. Decision point or conditional statement.
-   - b. Control flow between activities.
-   - c. The interaction between objects.
-   - d. A specific point in time.
+15. Regression testing is primarily focused on:
+    - A) Verifying adherence to coding standards
+    - B) Evaluating software performance
+    - C) Validating software requirements
+    - D) Ensuring new changes do not break existing functionalities
 
-9. What is the purpose of the state diagram in the Online Shopping System?
-   - a. To depict the interactions between users and vendors.
-   - b. To show the detailed steps of the purchase transaction.
-   - c. To represent the flow of activities within the system.
-   - d. To illustrate the behavior of an object or system over time.
+16. Which phase of the software development life cycle involves the execution of software to identify defects and bugs?
+    - A) Verification
+    - B) Validation
+    - C) Testing
+    - D) Deployment
 
-10. Which UML diagram showcases the timing constraints and behavior of objects in the Online Shopping System?
-    - a. Use case diagram.
-    - b. Communication diagram.
-    - c. Timing diagram.
-    - d. State diagram.
+17. XYZ conducts user acceptance testing (UAT) to validate the software's:
+    - A) Performance and scalability
+    - B) Adherence to coding standards
+    - C) Interaction between different modules
+    - D) Functionality and usability
 
-11. Which diagram is most suitable for representing the flow of activities within a use case in the Online Shopping System?
-    - a. Use case diagram.
-    - b. Class diagram.
-    - c. Activity diagram.
-    - d. State diagram.
+18. The purpose of integration testing is to:
+    - A) Verify adherence to coding standards
+    - B) Test individual software components in isolation
+    - C) Evaluate the overall system behavior
+    - D) Ensure new changes do not break existing functionalities
 
-12. What does the use case diagram illustrate in the Online Shopping System?
-    - a. The flow of activities within the system.
-    - b. The interaction between objects over time.
-    - c. The relationships between classes and their attributes.
-    - d. The interactions between actors and the system's functionality.
+19. Which testing technique evaluates the overall behavior and performance of the software system?
+    - A) Unit testing
+    - B) Integration testing
+    - C) System testing
+    - D) Acceptance testing
 
-13. Which UML diagram is used to represent the structure and relationships between classes in the Online Shopping System?
-    - a. Use case diagram.
-    - b. Class diagram.
-    - c. Activity diagram.
-    - d. Sequence diagram.
+20. What is the primary focus of software verification?
+    - A) Evaluating software performance
+    - B) Ensuring software meets customer requirements
+    - C) Checking adherence to coding standards
+    - D) Verifying software design and specifications
 
-14. What is the purpose of the communication diagram in the Online Shopping System?
-    - a. To depict the interactions between actors and the system's functionality.
-    - b. To show the detailed steps of the purchase transaction.
-    - c. To represent instances of classes and their relationships at a specific time.
-    - d. To illustrate the sequence of messages exchanged between objects.
+21. Static analysis tools are primarily used during the verification process to:
+    - A) Identify coding errors
+    - B) Evaluate user interface design
+    - C) Test software performance
+    - D) Validate software requirements
 
-15. Which UML diagram showcases the organization and dependencies of system components in the Online Shopping System?
-    - a. Use case diagram.
-    - b. Component diagram.
-    - c. Composite structure diagram.
-    - d. Deployment diagram.
+22. User acceptance testing (UAT) is performed to:
+    - A) Verify adherence to coding standards
+    - B) Test software performance
+    - C) Evaluate user interface design
+    - D) Validate the software's functionality and usability
 
-16. In the class diagram, what does the association represent?
-    - a. Decision point or conditional statement.
-    - b. Control flow between activities.
-    - c. The interaction between objects.
-    - d. A relationship between classes.
+23. Which testing technique focuses on testing individual software components in isolation?
+    - A) Unit testing
+    - B) Integration testing
+    - C) System testing
+    - D) Acceptance testing
 
-17. What is the purpose of the composite structure diagram in the Online Shopping System?
-    - a. To depict the interactions between actors and the system's functionality.
-    - b. To show the internal structure of a class, including its parts and collaborations.
-    - c. To represent instances of classes and their relationships at a specific time.
-    - d. To illustrate the behavior of an object or system over time.
+24. During which phase of the software development life cycle is user acceptance testing typically performed?
+    - A) Verification
+    - B) Validation
+    - C) Testing
+    - D) Deployment
 
-18. Which UML diagram represents the physical deployment of software components onto hardware nodes in the Online Shopping System?
-    - a. Use case diagram.
-    - b. Component diagram.
-    - c. Composite structure diagram.
-    - d. Deployment diagram.
-
-19. What does the object diagram illustrate in the Online Shopping System?
-    - a. The flow of activities within the system.
-    - b. The interaction between objects over time.
-    - c. The relationships between classes and their attributes.
-    - d. Instances of classes and their relationships at a specific time.
-
-20. Which diagram is most suitable for modeling the detailed steps and interactions during the purchase transaction in the Online Shopping System?
-    - a. Use case diagram.
-    - b. Class diagram.
-    - c. Activity diagram.
-    - d. Sequence diagram.
-
-21. What is the purpose of the timing diagram in the Online Shopping System?
-    - a. To depict the interactions between actors and the system's functionality.
-    - b. To show the internal structure of a class, including its parts and collaborations.
-    - c. To represent the timing constraints and behavior of objects.
-    - d. To illustrate the sequence of messages exchanged between objects.
-
-22. Which UML diagram represents the flow of activities within the Online Shopping System?
-    - a. Use case diagram.
-    - b. Component diagram.
-    - c. Activity diagram.
-    - d. State diagram.
-
-23. In the sequence diagram, what does the lifeline represent?
-    - a. Decision point or conditional statement.
-    - b. Control flow between activities.
-    - c. The interaction between objects.
-    - d. The lifespan of an object.
-
-24. What is the purpose of the interaction overview diagram in the Online Shopping System?
-    - a. To depict the interactions between actors and the system's functionality.
-    - b. To show the internal structure of a class, including its parts and collaborations.
-    - c. To represent the flow of activities within the system.
-    - d. To illustrate the interactions and control flow between objects.
-
-25. Which UML diagram showcases the behavior and transitions of an object or system in the Online Shopping System?
-    - a. Use case diagram.
-    - b. Class diagram.
-    - c. Activity diagram.
-    - d. State diagram.
+25. What is the purpose of regression testing?
+    - A) Validating software requirements
+    - B) Verifying software design and specifications
+    - C) Evaluating user interface design
+    - D) Ensuring new changes do not break existing functionalities
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
