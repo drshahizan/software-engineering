@@ -31,168 +31,83 @@ Don't forget to hit the :star: if you like this repo.
 └── 📁your github id
 ```
 
-# Case Study: Software Verification and Validation
+# Case Study: Software Inspection vs. Testing
 
 ## Background
-ABC Solutions is a software development company specializing in e-commerce solutions. They have recently developed an online shopping platform called "ShopEase" to provide a seamless shopping experience for customers. As part of their quality assurance process, ABC Solutions implements software verification and validation techniques to ensure the reliability and functionality of their software.
+ABC Software Solutions is developing a new e-commerce platform called "ShopEasy" to provide an intuitive and seamless online shopping experience for customers. As part of their quality assurance process, ABC Software Solutions utilizes both software inspection and testing to ensure the reliability and functionality of the platform.
 
-## Verification
-Verification activities at ABC Solutions aim to confirm that the software is built according to its specifications and requirements. They perform code inspections and conduct reviews to ensure adherence to coding standards and best practices. Additionally, they use static code analysis tools to identify potential defects, coding errors, and security vulnerabilities. Verification activities help ABC Solutions verify the accuracy of the software design and implementation.
+## Software Inspection
+Software inspection is a static technique used by ABC Software Solutions to review and analyze the code and design artifacts of the ShopEasy platform. The inspection team, consisting of experienced developers and quality analysts, carefully examines the software documentation, requirements, and code to identify potential defects, inconsistencies, and adherence to coding standards. The inspection process aims to detect and rectify issues early in the development lifecycle, minimizing the likelihood of errors and improving the overall quality of the software.
 
-## Validation
-Validation activities focus on assessing whether the developed software meets the needs and expectations of the end-users. ABC Solutions conducts usability testing, where real users navigate the ShopEase platform to evaluate its ease of use, intuitiveness, and overall user experience. They gather feedback from users to validate that the software effectively addresses their requirements and ensures customer satisfaction. Validation activities ensure that ShopEase is a user-friendly and customer-centric e-commerce platform.
+## Software Testing
+ABC Software Solutions conducts various testing activities to validate the functionality and performance of the ShopEasy platform. They employ techniques such as functional testing, where different features and functionalities of the platform are tested to ensure they meet the specified requirements. Additionally, ABC Software Solutions performs performance testing to evaluate how the system performs under different loads and stress conditions. This helps ensure that the platform can handle high volumes of traffic and transactions without compromising its responsiveness or stability.
 
-## Case Study Questions
+## Comparison
+While both software inspection and testing play crucial roles in the quality assurance process, they differ in their approach and purpose. Software inspection focuses on reviewing and analyzing the code and design artifacts to detect potential defects and ensure adherence to coding standards. It is a static technique that does not involve executing the software. On the other hand, software testing involves executing the software and validating its functionality, performance, and other characteristics against predefined criteria.
 
-1. What is the goal of software verification at ABC Solutions?
-   - A) Assess user satisfaction with the software
-   - B) Validate that the software meets customer requirements
-   - C) Ensure adherence to coding standards and best practices
-   - D) Evaluate the software's ease of use and intuitiveness
+ABC Software Solutions recognizes the value of both inspection and testing in their quality assurance efforts. By combining these techniques, they can detect and eliminate defects at different stages of the software development lifecycle, ensuring a robust and reliable e-commerce platform for their customers.
 
-2. Which technique is used by ABC Solutions to identify potential defects, coding errors, and security vulnerabilities?
-   - A) Usability testing
-   - B) Code inspections and reviews
-   - C) Static code analysis
+## Multiple Choice Questions
+
+1. What is the primary goal of software inspection?
+   - A) Execute the software and validate its functionality
+   - B) Review and analyze the code and design artifacts
+   - C) Validate the performance and responsiveness of the software
+   - D) Test the software under different load conditions
+
+2. Which team is involved in software inspection?
+   - A) Marketing and sales team
+   - B) Quality analysts and experienced developers
+   - C) Customer support team
+   - D) Network administrators
+
+3. What is the main purpose of software testing?
+   - A) Review and analyze the code and design artifacts
+   - B) Detect potential defects and inconsistencies
+   - C) Validate the functionality and performance of the software
+   - D) Ensure adherence to coding standards
+
+4. What is the key difference between software inspection and testing?
+   - A) Inspection involves executing the software, while testing does not
+   - B) Inspection focuses on reviewing code, while testing focuses on documentation
+   - C) Inspection ensures adherence to coding standards, while testing validates functionality
+   - D) Inspection is performed by customers, while testing is performed by developers
+
+5. Which type of testing evaluates the system's performance under different loads and stress conditions?
+   - A) Unit testing
+   - B) Functional testing
+   - C) Regression testing
    - D) Performance testing
 
-3. What is the primary focus of software validation at ABC Solutions?
-   - A) Adherence to coding standards and best practices
-   - B) Assessing the accuracy of the software design and implementation
-   - C) Meeting the needs and expectations of end-users
-   - D) Identifying potential security vulnerabilities
+6. What is the primary focus of software inspection?
+   - A) Validating the functionality of the software
+   - B) Reviewing and analyzing code and design artifacts
+   - C) Executing the software and identifying defects
+   - D) Testing the software under different load conditions
 
-4. How does ABC Solutions gather feedback from users during the validation process?
-   - A) Code inspections and reviews
-   - B) Performance testing
-   - C) Usability testing
-   - D) Static code analysis
+7. Who is typically involved in the software inspection process?
+   - A) Project managers
+   - B) Quality analysts and experienced developers
+   - C) End-users
+   - D) IT administrators
 
-5. What is the purpose of verification activities at ABC Solutions?
-   - A) Evaluate the software's ease of use and intuitiveness
-   - B) Validate that the software meets customer requirements
-   - C) Identify potential defects, coding errors, and security vulnerabilities
-   - D) Assess user satisfaction with the software
+8. What is the primary purpose of functional testing?
+   - A) Reviewing and analyzing code and design artifacts
+   - B) Executing the software and identifying defects
+   - C) Validating the functionality of the software
+   - D) Testing the software under different load conditions
 
-6. Which technique is used by ABC Solutions to ensure adherence to coding standards and best practices?
-   - A) Usability testing
-   - B) Code inspections and reviews
-   - C) Static code analysis
-   - D) Performance testing
+9. Which technique is considered a static technique?
+   - A) Performance testing
+   - B) Unit testing
+   - C) Functional testing
+   - D) Software inspection
 
-7. What is the primary focus of validation activities at ABC Solutions?
-   - A) Assessing the accuracy of the software design and implementation
-   - B) Identifying potential security vulnerabilities
-   - C) Meeting the needs and expectations of end-users
-   - D) Ensuring adherence to coding standards and best practices
-
-8. How does ABC Solutions ensure that the ShopEase platform is user-friendly and customer-centric?
-   - A) Through code inspections and reviews
-   - B) By conducting performance testing
-   - C) Via usability testing and gathering user feedback
-   - D) With the help of static code analysis tools
-
-9. Which goal is associated with software verification at ABC Solutions?
-   - A) Meeting the needs and expectations of end-users
-   - B) Assessing the accuracy of the software design and implementation
-   - C) Ensuring adherence to coding standards and best practices
-   - D) Identifying potential security vulnerabilities
-
-10. What technique is employed by ABC Solutions to evaluate the ease of use, intuitiveness, and overall user experience of the ShopEase platform?
-    - A) Usability testing
-    - B) Code inspections and reviews
-    - C) Static code analysis
-    - D) Performance testing
-
-11. What is the purpose of code inspections and reviews during the verification process?
-    - A) Assess user satisfaction with the software
-    - B) Validate that the software meets customer requirements
-    - C) Ensure adherence to coding standards and best practices
-    - D) Identify potential security vulnerabilities
-
-12. How does ABC Solutions assess whether the developed software meets the needs and expectations of the end-users?
-    - A) Through code inspections and reviews
-    - B) By conducting performance testing
-    - C) Via usability testing and gathering user feedback
-    - D) With the help of static code analysis tools
-
-13. Which purpose is associated with software validation at ABC Solutions?
-    - A) Meeting the needs and expectations of end-users
-    - B) Assessing the accuracy of the software design and implementation
-    - C) Ensuring adherence to coding standards and best practices
-    - D) Identifying potential security vulnerabilities
-
-14. What technique is used by ABC Solutions to identify potential defects, coding errors, and security vulnerabilities?
-    - A) Usability testing
-    - B) Code inspections and reviews
-    - C) Static code analysis
-    - D) Performance testing
-
-15. What is the primary focus of software verification at ABC Solutions?
-    - A) Assessing the accuracy of the software design and implementation
-    - B) Identifying potential security vulnerabilities
-    - C) Meeting the needs and expectations of end-users
-    - D) Ensuring adherence to coding standards and best practices
-
-16. How does ABC Solutions gather feedback from users during the validation process?
-    - A) Code inspections and reviews
-    - B) Performance testing
-    - C) Usability testing
-    - D) Static code analysis
-
-17. What is the purpose of validation activities at ABC Solutions?
-    - A) Evaluate the software's ease of use and intuitiveness
-    - B) Validate that the software meets customer requirements
-    - C) Identify potential defects, coding errors, and security vulnerabilities
-    - D) Assess user satisfaction with the software
-
-18. Which technique is used by ABC Solutions to ensure adherence to coding standards and best practices?
-    - A) Usability testing
-    - B) Code inspections and reviews
-    - C) Static code analysis
-    - D) Performance testing
-
-19. What is the primary focus of verification activities at ABC Solutions?
-    - A) Assessing the accuracy of the software design and implementation
-    - B) Identifying potential security vulnerabilities
-    - C) Meeting the needs and expectations of end-users
-    - D) Ensuring adherence to coding standards and best practices
-
-20. How does ABC Solutions ensure that the ShopEase platform is user-friendly and customer-centric?
-    - A) Through code inspections and reviews
-    - B) By conducting performance testing
-    - C) Via usability testing and gathering user feedback
-    - D) With the help of static code analysis tools
-
-21. Which goal is associated with software verification at ABC Solutions?
-    - A) Meeting the needs and expectations of end-users
-    - B) Assessing the accuracy of the software design and implementation
-    - C) Ensuring adherence to coding standards and best practices
-    - D) Identifying potential security vulnerabilities
-
-22. What technique is employed by ABC Solutions to evaluate the ease of use, intuitiveness, and overall user experience of the ShopEase platform?
-    - A) Usability testing
-    - B) Code inspections and reviews
-    - C) Static code analysis
-    - D) Performance testing
-
-23. What is the purpose of code inspections and reviews during the verification process?
-    - A) Assess user satisfaction with the software
-    - B) Validate that the software meets customer requirements
-    - C) Ensure adherence to coding standards and best practices
-    - D) Identify potential security vulnerabilities
-
-24. How does ABC Solutions assess whether the developed software meets the needs and expectations of the end-users?
-    - A) Through code inspections and reviews
-    - B) By conducting performance testing
-    - C) Via usability testing and gathering user feedback
-    - D) With the help of static code analysis tools
-
-25. Which purpose is associated with software validation at ABC Solutions?
-    - A) Meeting the needs and expectations of end-users
-    - B) Assessing the accuracy of the software design and implementation
-    - C) Ensuring adherence to coding standards and best practices
-    - D) Identifying potential security vulnerabilities
+10. What is the main difference between software inspection and testing in terms of their approach?
+    - A) Inspection involves executing the software, while testing does not
+    - B) Inspection focuses on code review, while testing focuses on user feedback
+    - C) Inspection is a static technique, while testing is an active technique
+    - D) Inspection is performed by developers, while testing is performed by customers
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
