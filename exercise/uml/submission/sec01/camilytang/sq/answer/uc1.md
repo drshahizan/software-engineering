@@ -7,7 +7,7 @@
 **Section: 01**
 
 ## Answer
-<img src="camilytang/images/uc01.jpg" alt="UC01 Image">
+<img src="uml/mcq/submission/sec01/camilytang/sq/images/uc1.jpg" alt="UC01 Image">
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
