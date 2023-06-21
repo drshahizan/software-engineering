@@ -7,7 +7,7 @@
 **Section: 01**
 
 ## Answer
-<img src="image/uc.jpg" alt=""/></a>
+<img src="image/uc1.jpg" alt=""/></a>
 
 
 ## Contribution 🛠️
