@@ -31,13 +31,34 @@ Don't forget to hit the :star: if you like this repo.
 └── 📁your github id
 ```
 
-# Case Study 1: Hospital Management System
+# Case Study: Software Verification, Validation, and Testing
 
-## Description
-The administrator enters the patient’s name, address, date of birth and emergency contact details into the system. If the patient has only public health insurance, the administrator enters the patient’s medicare number, and the system verifies this with government health database. If the patient also has private health insurance, then the administrator enters also the patient’s private health insurance details, and the system verifies these details with the private health insurance system. When these details are verified as correct, the system saves the patient's details and confirms the registration.
+## Background
+XYZ Corporation is a leading provider of enterprise software solutions. They have recently developed a new Customer Relationship Management (CRM) software called "CRM Pro" to help businesses manage their customer interactions effectively. As part of their commitment to delivering high-quality software, XYZ Corporation has implemented a robust verification, validation, and testing process.
 
-## Question
-Based on the case study, create a **use case diagram** that includes essential elements such as use cases, actors, relationships, and other components commonly found in use case diagrams.
+## Verification
+XYZ Corporation performs thorough verification activities to ensure the accuracy and completeness of the CRM Pro software. They conduct reviews of the software design, specifications, and coding standards. This includes analyzing the architecture, checking for adherence to industry best practices, and ensuring compliance with relevant regulatory requirements. They utilize tools for static code analysis and conduct code inspections to identify any potential defects, inconsistencies, or code quality issues.
+
+## Validation
+Validation is a critical aspect of the software development process for XYZ Corporation. They aim to validate that the CRM Pro software meets the specific needs of their customers and aligns with their expectations. Through a series of user-centric activities, such as usability testing and user acceptance testing (UAT), XYZ Corporation gathers feedback from end-users and stakeholders. This feedback helps identify areas for improvement, validate the software's functionality, and ensure it effectively addresses customer requirements.
+
+## Testing
+Testing is a fundamental component of XYZ Corporation's software development life cycle. They implement various testing techniques to detect defects and ensure the reliability of the CRM Pro software. This includes functional testing to verify that the software meets specified requirements, integration testing to validate the interaction between different system components, and performance testing to evaluate the system's responsiveness under varying workloads. Additionally, XYZ Corporation conducts security testing to identify vulnerabilities and protect customer data from potential threats.
+
+## Case Study Questions
+
+1. What is the purpose of software verification in the context of XYZ Corporation's CRM Pro software?
+2. How does XYZ Corporation validate that the CRM Pro software meets customer expectations and requirements?
+3. Which testing technique is used by XYZ Corporation to validate the interaction between different components of the CRM Pro software?
+4. What activities does XYZ Corporation perform during the verification process to ensure the accuracy and completeness of the CRM Pro software?
+5. How does XYZ Corporation gather feedback from end-users and stakeholders to validate the functionality of the CRM Pro software?
+6. What types of testing are conducted by XYZ Corporation to detect defects and ensure the reliability of the CRM Pro software?
+7. How does XYZ Corporation ensure the security of customer data in the CRM Pro software?
+8. What role does usability testing play in XYZ Corporation's validation process for the CRM Pro software?
+9. How does XYZ Corporation utilize static code analysis tools during the verification phase of the CRM Pro software development?
+10. Which testing technique does XYZ Corporation employ to evaluate the responsiveness of the CRM Pro software under varying workloads?
+
+Please note that the questions are open-ended, allowing for more detailed responses and discussions.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
