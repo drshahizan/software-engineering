@@ -237,9 +237,11 @@ Ui Screen:<a href="https://www.figma.com/proto/aKf4uX8pu5sRzju2a2GI15/Student-Fe
 
 ### An overview of the software components or modules developed:
 
-- Component Model:
+- Component Model: ![image](https://github.com/drshahizan/software-engineering/assets/129235577/b2071865-4a92-4e93-a59a-e4144317c1ac)
 
-- Complete Package Diagram:
+
+- Complete Package Diagram: ![image](https://github.com/drshahizan/software-engineering/assets/129235577/a9720ae1-f289-4bef-88da-ec58e1814be2)
+
   
 
 ### The challenges faced during the implementation phase:
