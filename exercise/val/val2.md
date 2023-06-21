@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Instructions
 - Please use the [answer template](temp_struc.md).
-- Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../uml/submission/sec01) or [`submission/sec02`](../uml/submission/sec02) folder, create a folder with your GitHub ID. Name the file as `uc6.md`.
+- Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../uml/submission/sec01) or [`submission/sec02`](../uml/submission/sec02) folder, create a folder with your GitHub ID. Name the file as `val2.md`.
 
 ### Folder structure
 
@@ -31,34 +31,23 @@ Don't forget to hit the :star: if you like this repo.
 └── 📁your github id
 ```
 
-# Case Study: Software Verification, Validation, and Testing
+# Case Study: Software Verification and Validation
 
 ## Background
-XYZ Corporation is a leading provider of enterprise software solutions. They have recently developed a new Customer Relationship Management (CRM) software called "CRM Pro" to help businesses manage their customer interactions effectively. As part of their commitment to delivering high-quality software, XYZ Corporation has implemented a robust verification, validation, and testing process.
+XYZ Healthcare Solutions is developing a new patient management system called "MediCare" to streamline the administrative processes in hospitals and clinics. To ensure the quality and reliability of the software, XYZ Healthcare Solutions implements software verification and validation processes throughout the development lifecycle.
 
-## Verification
-XYZ Corporation performs thorough verification activities to ensure the accuracy and completeness of the CRM Pro software. They conduct reviews of the software design, specifications, and coding standards. This includes analyzing the architecture, checking for adherence to industry best practices, and ensuring compliance with relevant regulatory requirements. They utilize tools for static code analysis and conduct code inspections to identify any potential defects, inconsistencies, or code quality issues.
+## Goal
+The primary goal of software verification in XYZ Healthcare Solutions' MediCare project is to verify that the software components and functionalities are implemented correctly according to the specified requirements. Verification activities aim to identify and eliminate defects, coding errors, and inconsistencies to ensure the accuracy and reliability of the software.
 
-## Validation
-Validation is a critical aspect of the software development process for XYZ Corporation. They aim to validate that the CRM Pro software meets the specific needs of their customers and aligns with their expectations. Through a series of user-centric activities, such as usability testing and user acceptance testing (UAT), XYZ Corporation gathers feedback from end-users and stakeholders. This feedback helps identify areas for improvement, validate the software's functionality, and ensure it effectively addresses customer requirements.
+## Techniques
+XYZ Healthcare Solutions employs various techniques for software verification. They conduct unit testing, where individual units of the software, such as functions or modules, are tested in isolation to validate their functionality. Integration testing is performed to assess the interaction and compatibility of different software components, ensuring that they work seamlessly together. Additionally, XYZ Healthcare Solutions utilizes code reviews and inspections to detect coding errors, ensure adherence to coding standards, and maintain code quality.
 
-## Testing
-Testing is a fundamental component of XYZ Corporation's software development life cycle. They implement various testing techniques to detect defects and ensure the reliability of the CRM Pro software. This includes functional testing to verify that the software meets specified requirements, integration testing to validate the interaction between different system components, and performance testing to evaluate the system's responsiveness under varying workloads. Additionally, XYZ Corporation conducts security testing to identify vulnerabilities and protect customer data from potential threats.
+## Purpose
+The purpose of software validation in the MediCare project is to ensure that the software meets the intended purpose and satisfies the needs of the end-users and stakeholders. XYZ Healthcare Solutions conducts user acceptance testing (UAT) where real users engage with the software to validate its usability, functionality, and performance in real-life scenarios. The feedback gathered during validation activities helps identify any gaps or areas for improvement and ensures that MediCare provides a reliable and user-friendly patient management solution.
 
-## Case Study Questions
+## Structured Question
 
-1. What is the purpose of software verification in the context of XYZ Corporation's CRM Pro software?
-2. How does XYZ Corporation validate that the CRM Pro software meets customer expectations and requirements?
-3. Which testing technique is used by XYZ Corporation to validate the interaction between different components of the CRM Pro software?
-4. What activities does XYZ Corporation perform during the verification process to ensure the accuracy and completeness of the CRM Pro software?
-5. How does XYZ Corporation gather feedback from end-users and stakeholders to validate the functionality of the CRM Pro software?
-6. What types of testing are conducted by XYZ Corporation to detect defects and ensure the reliability of the CRM Pro software?
-7. How does XYZ Corporation ensure the security of customer data in the CRM Pro software?
-8. What role does usability testing play in XYZ Corporation's validation process for the CRM Pro software?
-9. How does XYZ Corporation utilize static code analysis tools during the verification phase of the CRM Pro software development?
-10. Which testing technique does XYZ Corporation employ to evaluate the responsiveness of the CRM Pro software under varying workloads?
-
-Please note that the questions are open-ended, allowing for more detailed responses and discussions.
+How does XYZ Healthcare Solutions ensure the accuracy and reliability of the MediCare software through software verification and validation? Provide an overview of the techniques used for verification and explain how they help identify and eliminate defects. Furthermore, describe the purpose and significance of user acceptance testing in the validation process, highlighting its role in ensuring usability, functionality, and performance of the software in real-life scenarios.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

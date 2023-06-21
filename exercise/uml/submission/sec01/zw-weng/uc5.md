@@ -7,16 +7,17 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set:
+## Set: Case Study 5: Automated Teller Machine (ATM) System
 
-**Name: NUR FARAH ADIBAH BINTI IDRIS**
+**Name: NEO ZHENG WENG**
 
-**Matrix No: A22EC020466**
+**Matrix No: A22EC0093**
 
-**Section: 02**
+**Section: 01**
 
 ## Answer
-<img src="https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec02/nurfarahadibah/ActDiagram.drawio.png" alt="Alt text" title="Optional title">
+![uc5](https://github.com/drshahizan/software-engineering/assets/118497269/b086d4a0-c01a-4847-ab29-fc5c3d606ce1)
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

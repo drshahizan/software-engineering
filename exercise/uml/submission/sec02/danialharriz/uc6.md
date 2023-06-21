@@ -9,14 +9,17 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Set:
 
-**Name: NUR FARAH ADIBAH BINTI IDRIS**
+**Name: Danial Harriz**
 
-**Matrix No: A22EC020466**
+**Matrix No: A22EC0152**
 
 **Section: 02**
 
 ## Answer
-<img src="https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec02/nurfarahadibah/ActDiagram.drawio.png" alt="Alt text" title="Optional title">
+
+![uc6 drawio](https://github.com/drshahizan/software-engineering/assets/118705607/2f577644-381d-4f31-87c7-76e84da4a5f2)
+
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

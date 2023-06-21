@@ -7,16 +7,17 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set:
+## Set: Case Study 4: Library Management System
 
-**Name: NUR FARAH ADIBAH BINTI IDRIS**
+**Name: NEO ZHENG WENG**
 
-**Matrix No: A22EC020466**
+**Matrix No: A22EC0093**
 
-**Section: 02**
+**Section: 01**
 
 ## Answer
-<img src="https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec02/nurfarahadibah/ActDiagram.drawio.png" alt="Alt text" title="Optional title">
+![uc4](https://github.com/drshahizan/software-engineering/assets/118497269/8f710f96-313b-4238-9d34-5ef51d031f10)
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

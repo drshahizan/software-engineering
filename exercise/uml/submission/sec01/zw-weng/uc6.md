@@ -7,16 +7,17 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set:
+## Set: Case Study 1: Hospital Management System
 
-**Name: NUR FARAH ADIBAH BINTI IDRIS**
+**Name: NEO ZHENG WENG**
 
-**Matrix No: A22EC020466**
+**Matrix No: A22EC0093**
 
-**Section: 02**
+**Section: 01**
 
 ## Answer
-<img src="https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec02/nurfarahadibah/ActDiagram.drawio.png" alt="Alt text" title="Optional title">
+![uc6](https://github.com/drshahizan/software-engineering/assets/118497269/5224ad1b-f0ee-4688-903e-9311da2a3a6d)
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
@@ -25,5 +26,4 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
 

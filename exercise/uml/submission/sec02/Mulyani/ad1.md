@@ -7,16 +7,17 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set:
+## Set: 1
 
-**Name: NUR FARAH ADIBAH BINTI IDRIS**
+**Name:** Mulyani Binti Saripuddin
 
-**Matrix No: A22EC020466**
+**Matrix No:** A22EC0223
 
-**Section: 02**
+**Section:** 02
 
 ## Answer
-<img src="https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec02/nurfarahadibah/ActDiagram.drawio.png" alt="Alt text" title="Optional title">
+![q1 drawio (1)](https://github.com/drshahizan/software-engineering/assets/128196055/b1cf1808-93e7-4063-8136-faea5688a117)
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
@@ -25,5 +26,7 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
+
+
 
 
