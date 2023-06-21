@@ -95,9 +95,7 @@ Validation activities focus on assessing whether the developed software meets th
 9. Which goal is associated with software verification at ABC Solutions?
    - A) Meeting the needs and expectations of end-users
    - B) Assessing the accuracy of the software design and implementation
-   - C) Ensuring adherence to coding standards and
-
- best practices
+   - C) Ensuring adherence to coding standards and best practices
    - D) Identifying potential security vulnerabilities
 
 10. What technique is employed by ABC Solutions to evaluate the ease of use, intuitiveness, and overall user experience of the ShopEase platform?
@@ -172,9 +170,7 @@ Validation activities focus on assessing whether the developed software meets th
     - C) Ensuring adherence to coding standards and best practices
     - D) Identifying potential security vulnerabilities
 
-22. What technique is employed by ABC Solutions to evaluate the ease of use, intuitiveness, and overall user experience of the Shop
-
-Ease platform?
+22. What technique is employed by ABC Solutions to evaluate the ease of use, intuitiveness, and overall user experience of the ShopEase platform?
     - A) Usability testing
     - B) Code inspections and reviews
     - C) Static code analysis
