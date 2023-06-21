@@ -7,7 +7,8 @@
 **Section: 01**
 
 ## Answer
-<div class="photo"><img src="images/uc1.jpg"></div>
+<img src="../sq/images/uc1.jpg" alt="UC01 Image">
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
