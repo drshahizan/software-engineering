@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set Case Study 1:
+## Set Case Study 1: MSO Hospital Management System
 
 **Name: NEO ZHENG WENG**
 
@@ -16,7 +16,7 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 03**
 
 ## Answer
-
+(https://docs.google.com/document/d/1cys1aHrKdTbdcAxp-wV7jZpr-cSMoTAw4kDKakf7mrA/edit?usp=sharing)[View Use Case Description]
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
