@@ -16,6 +16,7 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 01**
 
 ## Answer
+![uc2](https://github.com/drshahizan/software-engineering/assets/118497269/cbea6cd2-9050-4ab6-b71b-bb4ce82c8f23)
 
 
 ## Contribution 🛠️
