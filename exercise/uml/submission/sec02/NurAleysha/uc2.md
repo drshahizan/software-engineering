@@ -7,17 +7,16 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set 8:
+## Set: 1
 
-**Name: THEVAN RAJU A/L JEGANATH**
+**Name: NUR ALEYSHA QURRATU'AINI BINTI MAT SALLEH**
 
-**Matrix No: A22EC0286**
+**Matrix No: A22EC0241**
 
-**Section:02**
+**Section: 02**
 
 ## Answer
-
-![usecase6.drawio.png](https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec02/ThevanRaju/usecase6.drawio.png)
+<img src="uc2.png" alt="Alt text" title="Optional title">
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
@@ -26,7 +25,5 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
-
 
 
