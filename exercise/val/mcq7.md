@@ -31,168 +31,86 @@ Don't forget to hit the :star: if you like this repo.
 └── 📁your github id
 ```
 
-# Case Study: Software Verification and Validation
+# Case Study: Software Testing Strategies
 
 ## Background
-ABC Solutions is a software development company specializing in e-commerce solutions. They have recently developed an online shopping platform called "ShopEase" to provide a seamless shopping experience for customers. As part of their quality assurance process, ABC Solutions implements software verification and validation techniques to ensure the reliability and functionality of their software.
+XYZ Software Solutions is developing a new mobile banking application called "BankEase" to provide customers with convenient and secure banking services. To ensure the reliability and functionality of the application, XYZ Software Solutions employs various software testing strategies, including requirement-based testing, black-box testing, and white-box testing.
 
-## Verification
-Verification activities at ABC Solutions aim to confirm that the software is built according to its specifications and requirements. They perform code inspections and conduct reviews to ensure adherence to coding standards and best practices. Additionally, they use static code analysis tools to identify potential defects, coding errors, and security vulnerabilities. Verification activities help ABC Solutions verify the accuracy of the software design and implementation.
+## Requirement-based Testing
+In the requirement-based testing strategy, XYZ Software Solutions focuses on designing test cases that directly correspond to the specified requirements of the BankEase application. Testers thoroughly analyze the functional and non-functional requirements and create test cases that cover all the identified scenarios. This approach ensures that the application meets the intended purpose and behaves as expected under different conditions.
 
-## Validation
-Validation activities focus on assessing whether the developed software meets the needs and expectations of the end-users. ABC Solutions conducts usability testing, where real users navigate the ShopEase platform to evaluate its ease of use, intuitiveness, and overall user experience. They gather feedback from users to validate that the software effectively addresses their requirements and ensures customer satisfaction. Validation activities ensure that ShopEase is a user-friendly and customer-centric e-commerce platform.
+## Black-box Testing
+Black-box testing is another strategy employed by XYZ Software Solutions. In this approach, testers do not have access to the internal workings of the BankEase application. Instead, they focus on testing the application's functionality based on the inputs and outputs without considering the internal code structure. Testers design test cases that cover various scenarios and use different test data to evaluate the application's behavior and validate its expected outputs.
 
-## Case Study Questions
+## White-box Testing
+Alongside black-box testing, XYZ Software Solutions also utilizes white-box testing to assess the internal structure and logic of the BankEase application. Testers have access to the application's internal code and design test cases that target specific code paths, conditions, and branches. This approach helps uncover potential coding errors and ensures that all components of the application are thoroughly tested.
 
-1. What is the goal of software verification at ABC Solutions?
-   - A) Assess user satisfaction with the software
-   - B) Validate that the software meets customer requirements
-   - C) Ensure adherence to coding standards and best practices
-   - D) Evaluate the software's ease of use and intuitiveness
+## Test Cases, Test Data, Test Results, and Test Reports
+XYZ Software Solutions designs comprehensive test cases for each testing strategy. Test cases include input values, expected outputs, and steps to execute the test. Testers create diverse test data to cover various scenarios and edge cases, ensuring that the BankEase application is robust and reliable. After executing the test cases, testers record the actual results and compare them with the expected outputs. Any discrepancies or defects found during testing are reported and documented in the test reports, providing valuable insights for further analysis and improvement.
 
-2. Which technique is used by ABC Solutions to identify potential defects, coding errors, and security vulnerabilities?
-   - A) Usability testing
-   - B) Code inspections and reviews
-   - C) Static code analysis
-   - D) Performance testing
+## Multiple Choice Questions
 
-3. What is the primary focus of software validation at ABC Solutions?
-   - A) Adherence to coding standards and best practices
-   - B) Assessing the accuracy of the software design and implementation
-   - C) Meeting the needs and expectations of end-users
-   - D) Identifying potential security vulnerabilities
+1. What is the main focus of requirement-based testing?
+   - A) Accessing the internal code structure
+   - B) Evaluating the application's behavior based on inputs and outputs
+   - C) Designing test cases based on specified requirements
+   - D) Testing the application's functionality without considering requirements
 
-4. How does ABC Solutions gather feedback from users during the validation process?
-   - A) Code inspections and reviews
-   - B) Performance testing
-   - C) Usability testing
-   - D) Static code analysis
+2. What is the key characteristic of black-box testing?
+   - A) Accessing the internal code structure
+   - B) Focusing on the application's requirements
+   - C) Designing test cases based on specific code paths
+   - D) Testing the application based on inputs and outputs
 
-5. What is the purpose of verification activities at ABC Solutions?
-   - A) Evaluate the software's ease of use and intuitiveness
-   - B) Validate that the software meets customer requirements
-   - C) Identify potential defects, coding errors, and security vulnerabilities
-   - D) Assess user satisfaction with the software
+3. What is the purpose of white-box testing?
+   - A) Evaluating the application's behavior based on inputs and outputs
+   - B) Designing test cases based on specified requirements
+   - C) Accessing the internal code structure and logic
+   - D) Testing the application's functionality without considering requirements
 
-6. Which technique is used by ABC Solutions to ensure adherence to coding standards and best practices?
-   - A) Usability testing
-   - B) Code inspections and reviews
-   - C) Static code analysis
-   - D) Performance testing
+4. How are test cases designed in requirement-based testing?
+   - A) Based on specific code paths and conditions
+   - B) By analyzing the internal code structure
+   - C) To cover the specified requirements of the application
+   - D) Without considering the application's functionality
 
-7. What is the primary focus of validation activities at ABC Solutions?
-   - A) Assessing the accuracy of the software design and implementation
-   - B) Identifying potential security vulnerabilities
-   - C) Meeting the needs and expectations of end-users
-   - D) Ensuring adherence to coding standards and best practices
+5. What is the main difference between black-box testing and white-box testing?
+   - A) Black-box testing focuses on requirements, while white-box testing accesses the internal code structure
+   - B) Black-box testing designs test cases based on specific code paths, while white-box testing evaluates inputs and outputs
+   - C) Black-box testing evaluates inputs and outputs, while white-box testing accesses the internal code structure
+   - D) Black-box testing focuses on the application's functionality
 
-8. How does ABC Solutions ensure that the ShopEase platform is user-friendly and customer-centric?
-   - A) Through code inspections and reviews
-   - B) By conducting performance testing
-   - C) Via usability testing and gathering user feedback
-   - D) With the help of static code analysis tools
+, while white-box testing designs test cases based on specified requirements
 
-9. Which goal is associated with software verification at ABC Solutions?
-   - A) Meeting the needs and expectations of end-users
-   - B) Assessing the accuracy of the software design and implementation
-   - C) Ensuring adherence to coding standards and best practices
-   - D) Identifying potential security vulnerabilities
+6. What type of testing focuses on uncovering potential coding errors?
+   - A) Requirement-based testing
+   - B) Black-box testing
+   - C) White-box testing
+   - D) Both black-box and white-box testing
 
-10. What technique is employed by ABC Solutions to evaluate the ease of use, intuitiveness, and overall user experience of the ShopEase platform?
-    - A) Usability testing
-    - B) Code inspections and reviews
-    - C) Static code analysis
-    - D) Performance testing
+7. How is test data used in software testing?
+   - A) To design test cases based on specified requirements
+   - B) To access the internal code structure of the application
+   - C) To evaluate the behavior of the application based on inputs and outputs
+   - D) To document and report the actual test results
 
-11. What is the purpose of code inspections and reviews during the verification process?
-    - A) Assess user satisfaction with the software
-    - B) Validate that the software meets customer requirements
-    - C) Ensure adherence to coding standards and best practices
-    - D) Identify potential security vulnerabilities
+8. What are test results?
+   - A) Inputs and outputs used in software testing
+   - B) Expected outputs of the application
+   - C) The actual outputs compared to the expected outputs
+   - D) Test cases designed based on specified requirements
 
-12. How does ABC Solutions assess whether the developed software meets the needs and expectations of the end-users?
-    - A) Through code inspections and reviews
-    - B) By conducting performance testing
-    - C) Via usability testing and gathering user feedback
-    - D) With the help of static code analysis tools
+9. What is the purpose of test reports?
+   - A) To access the internal code structure of the application
+   - B) To evaluate the behavior of the application based on inputs and outputs
+   - C) To document and report the actual test results and any discrepancies or defects found during testing
+   - D) To design test cases based on specified requirements
 
-13. Which purpose is associated with software validation at ABC Solutions?
-    - A) Meeting the needs and expectations of end-users
-    - B) Assessing the accuracy of the software design and implementation
-    - C) Ensuring adherence to coding standards and best practices
-    - D) Identifying potential security vulnerabilities
-
-14. What technique is used by ABC Solutions to identify potential defects, coding errors, and security vulnerabilities?
-    - A) Usability testing
-    - B) Code inspections and reviews
-    - C) Static code analysis
-    - D) Performance testing
-
-15. What is the primary focus of software verification at ABC Solutions?
-    - A) Assessing the accuracy of the software design and implementation
-    - B) Identifying potential security vulnerabilities
-    - C) Meeting the needs and expectations of end-users
-    - D) Ensuring adherence to coding standards and best practices
-
-16. How does ABC Solutions gather feedback from users during the validation process?
-    - A) Code inspections and reviews
-    - B) Performance testing
-    - C) Usability testing
-    - D) Static code analysis
-
-17. What is the purpose of validation activities at ABC Solutions?
-    - A) Evaluate the software's ease of use and intuitiveness
-    - B) Validate that the software meets customer requirements
-    - C) Identify potential defects, coding errors, and security vulnerabilities
-    - D) Assess user satisfaction with the software
-
-18. Which technique is used by ABC Solutions to ensure adherence to coding standards and best practices?
-    - A) Usability testing
-    - B) Code inspections and reviews
-    - C) Static code analysis
-    - D) Performance testing
-
-19. What is the primary focus of verification activities at ABC Solutions?
-    - A) Assessing the accuracy of the software design and implementation
-    - B) Identifying potential security vulnerabilities
-    - C) Meeting the needs and expectations of end-users
-    - D) Ensuring adherence to coding standards and best practices
-
-20. How does ABC Solutions ensure that the ShopEase platform is user-friendly and customer-centric?
-    - A) Through code inspections and reviews
-    - B) By conducting performance testing
-    - C) Via usability testing and gathering user feedback
-    - D) With the help of static code analysis tools
-
-21. Which goal is associated with software verification at ABC Solutions?
-    - A) Meeting the needs and expectations of end-users
-    - B) Assessing the accuracy of the software design and implementation
-    - C) Ensuring adherence to coding standards and best practices
-    - D) Identifying potential security vulnerabilities
-
-22. What technique is employed by ABC Solutions to evaluate the ease of use, intuitiveness, and overall user experience of the ShopEase platform?
-    - A) Usability testing
-    - B) Code inspections and reviews
-    - C) Static code analysis
-    - D) Performance testing
-
-23. What is the purpose of code inspections and reviews during the verification process?
-    - A) Assess user satisfaction with the software
-    - B) Validate that the software meets customer requirements
-    - C) Ensure adherence to coding standards and best practices
-    - D) Identify potential security vulnerabilities
-
-24. How does ABC Solutions assess whether the developed software meets the needs and expectations of the end-users?
-    - A) Through code inspections and reviews
-    - B) By conducting performance testing
-    - C) Via usability testing and gathering user feedback
-    - D) With the help of static code analysis tools
-
-25. Which purpose is associated with software validation at ABC Solutions?
-    - A) Meeting the needs and expectations of end-users
-    - B) Assessing the accuracy of the software design and implementation
-    - C) Ensuring adherence to coding standards and best practices
-    - D) Identifying potential security vulnerabilities
+10. Which testing strategy focuses on evaluating the application's functionality without considering the requirements?
+    - A) Requirement-based testing
+    - B) Black-box testing
+    - C) White-box testing
+    - D) Both black-box and white-box testing
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
