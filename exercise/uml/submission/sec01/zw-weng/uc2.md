@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set: Case Study: Hospital Management System
+## Set: Case Study 2: E-commerce Website
 
 **Name: NEO ZHENG WENG**
 
@@ -16,7 +16,7 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 01**
 
 ## Answer
-![ud1](https://github.com/drshahizan/software-engineering/assets/118497269/54d36cdd-2247-4690-9c27-384797db5ac4)
+![uc2](https://github.com/drshahizan/software-engineering/assets/118497269/cbea6cd2-9050-4ab6-b71b-bb4ce82c8f23)
 
 
 ## Contribution 🛠️
