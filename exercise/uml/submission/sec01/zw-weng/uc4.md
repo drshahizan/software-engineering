@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set: Case Study 3: Flight Reservation System
+## Set: Case Study 4: Library Management System
 
 **Name: NEO ZHENG WENG**
 
@@ -16,7 +16,6 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 01**
 
 ## Answer
-![uc3](https://github.com/drshahizan/software-engineering/assets/118497269/ce9462aa-ab42-47f2-bbc1-e2cb1c4139b2)
 
 
 ## Contribution 🛠️
