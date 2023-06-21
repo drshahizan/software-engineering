@@ -83,7 +83,7 @@ Testing is a critical component of software development, involving the execution
    - C) Checking adherence to coding standards
    - D) Verifying software design and specifications
 
-7. XYZ uses static analysis tools during the verification process primarily to:
+7. MSO uses static analysis tools during the verification process primarily to:
    - A) Identify coding errors
    - B) Evaluate user interface design
    - C) Test software performance
@@ -113,7 +113,7 @@ Testing is a critical component of software development, involving the execution
     - C) System testing
     - D) Acceptance testing
 
-12. XYZ is conducting a comprehensive review of the software design and requirements documents during the software development process. This review is part of:
+12. MSO is conducting a comprehensive review of the software design and requirements documents during the software development process. This review is part of:
     - A) Verification
     - B) Validation
     - C) Testing
@@ -143,7 +143,7 @@ Testing is a critical component of software development, involving the execution
     - C) Testing
     - D) Deployment
 
-17. XYZ conducts user acceptance testing (UAT) to validate the software's:
+17. MSO conducts user acceptance testing (UAT) to validate the software's:
     - A) Performance and scalability
     - B) Adherence to coding standards
     - C) Interaction between different modules
