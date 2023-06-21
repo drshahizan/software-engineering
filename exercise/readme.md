@@ -17,7 +17,7 @@ Don't forget to hit the :star: if you like this repo.
 | 3 | UML | Online Shopping System | <a href="./uml/mcq/mcq3.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
 | 4 | 4 V | Software development firm | <a href="./val/mcq4.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
 | 5 | 4 V | ShopEase | <a href="./val/mcq5.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
-| 6 | 4 V | ShopEase | <a href="./val/mcq6.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
+| 6 | 4 V | ShopEasy | <a href="./val/mcq6.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
 
 ## Structured question
 | Set | Topic |  Title |File |
