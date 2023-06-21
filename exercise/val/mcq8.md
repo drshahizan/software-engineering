@@ -34,83 +34,81 @@ Don't forget to hit the :star: if you like this repo.
 # Case Study: Software Testing Strategies
 
 ## Background
-XYZ Software Solutions is developing a new mobile banking application called "BankEase" to provide customers with convenient and secure banking services. To ensure the reliability and functionality of the application, XYZ Software Solutions employs various software testing strategies, including requirement-based testing, black-box testing, and white-box testing.
+ABC Software Solutions has developed a new web-based project management tool called "ProjectTrack" to assist organizations in managing their projects effectively. To ensure the reliability, performance, usability, and acceptance of the software, ABC Software Solutions has implemented various testing strategies, including stress testing, performance testing, usability testing, and acceptance testing.
 
-## Requirement-based Testing
-In the requirement-based testing strategy, XYZ Software Solutions focuses on designing test cases that directly correspond to the specified requirements of the BankEase application. Testers thoroughly analyze the functional and non-functional requirements and create test cases that cover all the identified scenarios. This approach ensures that the application meets the intended purpose and behaves as expected under different conditions.
+## Stress Testing
+Stress testing is an essential aspect of ABC Software Solutions' testing strategy. The team simulates high user loads and tests the application's performance under extreme conditions. By subjecting ProjectTrack to heavy workloads and exceeding its capacity limits, they evaluate the software's stability, responsiveness, and reliability. This testing strategy helps identify potential bottlenecks and vulnerabilities, ensuring that the application can handle demanding scenarios without crashing or degrading performance.
 
-## Black-box Testing
-Black-box testing is another strategy employed by XYZ Software Solutions. In this approach, testers do not have access to the internal workings of the BankEase application. Instead, they focus on testing the application's functionality based on the inputs and outputs without considering the internal code structure. Testers design test cases that cover various scenarios and use different test data to evaluate the application's behavior and validate its expected outputs.
+## Performance Testing
+Performance testing is another critical component of ABC Software Solutions' testing approach. The team assesses ProjectTrack's response time, resource usage, scalability, and reliability under normal operating conditions. By conducting performance tests, they gather valuable insights into the software's efficiency, its ability to handle concurrent users, and its responsiveness to user actions. This testing strategy enables them to optimize the application's performance and provide a smooth and efficient user experience.
 
-## White-box Testing
-Alongside black-box testing, XYZ Software Solutions also utilizes white-box testing to assess the internal structure and logic of the BankEase application. Testers have access to the application's internal code and design test cases that target specific code paths, conditions, and branches. This approach helps uncover potential coding errors and ensures that all components of the application are thoroughly tested.
+## Usability Testing
+Usability testing plays a significant role in ensuring the user-friendliness and effectiveness of ProjectTrack. ABC Software Solutions conducts usability tests with a focus on the application's interface, navigation, and overall user experience. Testers observe users as they perform common tasks and collect feedback on the software's ease of use, intuitiveness, and clarity. This testing strategy helps identify any usability issues, allowing for necessary improvements to enhance user satisfaction and productivity.
 
-## Test Cases, Test Data, Test Results, and Test Reports
-XYZ Software Solutions designs comprehensive test cases for each testing strategy. Test cases include input values, expected outputs, and steps to execute the test. Testers create diverse test data to cover various scenarios and edge cases, ensuring that the BankEase application is robust and reliable. After executing the test cases, testers record the actual results and compare them with the expected outputs. Any discrepancies or defects found during testing are reported and documented in the test reports, providing valuable insights for further analysis and improvement.
+## Acceptance Testing
+ABC Software Solutions performs acceptance testing to ensure that ProjectTrack meets the specified requirements and is ready for deployment. The software is tested in a real-world environment to validate its functionality, usability, and adherence to business needs. This testing strategy involves end-users or client representatives who verify that the application aligns with their expectations and fulfills the intended purpose. Acceptance testing ensures that ProjectTrack is approved for release and meets the user's requirements.
 
 ## Multiple Choice Questions
 
-1. What is the main focus of requirement-based testing?
-   - A) Accessing the internal code structure
-   - B) Evaluating the application's behavior based on inputs and outputs
-   - C) Designing test cases based on specified requirements
-   - D) Testing the application's functionality without considering requirements
+1. Which testing strategy evaluates the software's stability and responsiveness under high user loads and extreme conditions?
+   - A) Stress testing
+   - B) Performance testing
+   - C) Usability testing
+   - D) Acceptance testing
 
-2. What is the key characteristic of black-box testing?
-   - A) Accessing the internal code structure
-   - B) Focusing on the application's requirements
-   - C) Designing test cases based on specific code paths
-   - D) Testing the application based on inputs and outputs
+2. What is the primary focus of performance testing?
+   - A) Testing the software's stability under high user loads
+   - B) Evaluating the software's response time and resource usage
+   - C) Assessing the software's interface and user experience
+   - D) Verifying the software meets specified requirements
 
-3. What is the purpose of white-box testing?
-   - A) Evaluating the application's behavior based on inputs and outputs
-   - B) Designing test cases based on specified requirements
-   - C) Accessing the internal code structure and logic
-   - D) Testing the application's functionality without considering requirements
+3. Which testing strategy ensures the software is user-friendly and effective?
+   - A) Stress testing
+   - B) Performance testing
+   - C) Usability testing
+   - D) Acceptance testing
 
-4. How are test cases designed in requirement-based testing?
-   - A) Based on specific code paths and conditions
-   - B) By analyzing the internal code structure
-   - C) To cover the specified requirements of the application
-   - D) Without considering the application's functionality
+4. What is the main objective of usability testing?
+   - A) Evaluating the software's stability under high user loads
+   - B) Assessing the software's response time and resource usage
+   - C) Testing the software's ease of use and overall user experience
+   - D) Verifying the software meets specified requirements
 
-5. What is the main difference between black-box testing and white-box testing?
-   - A) Black-box testing focuses on requirements, while white-box testing accesses the internal code structure
-   - B) Black-box testing designs test cases based on specific code paths, while white-box testing evaluates inputs and outputs
-   - C) Black-box testing evaluates inputs and outputs, while white-box testing accesses the internal code structure
-   - D) Black-box testing focuses on the application's functionality
+5. Which testing strategy involves end-users or client representatives?
+   - A) Stress testing
+   - B) Performance testing
+   - C) Usability testing
+   - D) Acceptance testing
 
-, while white-box testing designs test cases based on specified requirements
+6. What is the purpose of stress testing?
+   - A) To evaluate the software's ease of use and overall user experience
+   - B) To assess the software's response time and resource usage
+   - C) To verify the software meets specified requirements
+   - D) To test the software's stability under high user loads and extreme conditions
 
-6. What type of testing focuses on uncovering potential coding errors?
-   - A) Requirement-based testing
-   - B) Black-box testing
-   - C) White-box testing
-   - D) Both black-box and white-box testing
+7. Which testing strategy focuses on the software's response time, scalability, and reliability under normal operating conditions?
+   - A) Stress testing
+   - B) Performance testing
+   - C) Usability testing
+   - D) Acceptance testing
 
-7. How is test data used in software testing?
-   - A) To design test cases based on specified requirements
-   - B) To access the internal code structure of the application
-   - C) To evaluate the behavior of the application based on inputs and outputs
-   - D) To document and report the actual test results
+8. What is the primary goal of acceptance testing?
+   - A) To evaluate the software's stability under high user loads and extreme conditions
+   - B) To assess the software's response time and resource usage
+   - C) To verify the software meets specified requirements and is ready for deployment
+   - D) To test the software's ease of use and overall user experience
 
-8. What are test results?
-   - A) Inputs and outputs used in software testing
-   - B) Expected outputs of the application
-   - C) The actual outputs compared to the expected outputs
-   - D) Test cases designed based on specified requirements
+9. Which testing strategy helps identify potential bottlenecks and vulnerabilities?
+   - A) Stress testing
+   - B) Performance testing
+   - C) Usability testing
+   - D) Acceptance testing
 
-9. What is the purpose of test reports?
-   - A) To access the internal code structure of the application
-   - B) To evaluate the behavior of the application based on inputs and outputs
-   - C) To document and report the actual test results and any discrepancies or defects found during testing
-   - D) To design test cases based on specified requirements
-
-10. Which testing strategy focuses on evaluating the application's functionality without considering the requirements?
-    - A) Requirement-based testing
-    - B) Black-box testing
-    - C) White-box testing
-    - D) Both black-box and white-box testing
+10. What is the purpose of performance testing?
+    - A) To evaluate the software's stability under high user loads and extreme conditions
+    - B) To assess the software's response time, resource usage, scalability, and reliability
+    - C) To test the software's ease of use and overall user experience
+    - D) To verify the software meets specified requirements and is ready for deployment
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
