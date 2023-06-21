@@ -86,6 +86,201 @@ Don't forget to hit the :star: if you like this repo.
 | 10 | 08/05/2023 | All members | | Conduct a meeting with the third stakeholder, another third-year student |  Complete | 
 | 11 | 09/05/2023 | Wan Nur Sofea Binti Mohd Hasbullah | | Contact our fourth stakeholder, an administrative officer | Complete |
 | 12 | 15/05/2023 | All members | | Conduct a meeting with the fourth stakeholder, an administrative officer |  Complete | 
+
+
+## 1. Introduction:
+### Purpose and Objectives
+The purpose of this project is to develop an Academic Consultation System that aims to revolutionize the way students receive academic support and guidance. By leveraging technology and personalized interactions, this system seeks to address the existing challenges faced by students in accessing individualized attention from their lecturers. Through this project, we aim to create a more effective and personalized academic support system that enhances students' learning experiences and promotes their overall academic success.
+
+### Problem Statement:
+Currently, students often encounter difficulties in seeking timely and personalized academic support due to the limitations of traditional methods. Overcrowded classrooms, limited office hours, and conflicting schedules hinder their access to individualized attention from lecturers. As a result, students may struggle to grasp complex concepts, face challenges in completing assignments, and experience a lack of engagement and motivation. These issues hinder their academic performance and inhibit their overall learning potential.
+
+### Project Significance and Potential Impact:
+The Academic Consultation System presented in this project addresses these challenges by providing a dedicated platform for students to schedule and attend one-on-one consultations with their lecturers. By implementing this system, students will have the opportunity to receive personalized guidance, seek clarification on course material, and obtain valuable feedback on their academic progress. This personalized support will foster a more engaging and productive learning environment, leading to improved academic performance and increased student success rates.
+
+Furthermore, this project recognizes the importance of lecturers' time and commitments. By enabling lecturers to manage consultations separately from their teaching schedules, the system ensures that they can provide individualized attention to students without disrupting their regular classroom activities. This balance will enhance lecturers' ability to support students effectively and create a positive impact on student learning outcomes.
+
+## 2. Methodology:
+- Describe the approach and methodologies utilized to tackle the project.
+- Explain the software development life cycle model or any other relevant methodology adopted.
+- Highlight any specific tools, technologies, or frameworks employed during the project.
+  
+The project adopted the Agile methodology for software development, which focuses on iterative and incremental development, flexibility, and collaboration. The Agile manifesto values individuals and interactions over processes and tools, working software over comprehensive documentation, customer collaboration over contract negotiation, and responding to change over following a plan.
+
+Here is a breakdown of the activities for each phase of the Agile methodology in the context of the project:
+
+1. Planning:
+   - Define the project scope: Clearly define the objectives, requirements, and boundaries of the project.
+   - Establish the project team: Identify the necessary roles and responsibilities within the team.
+   - Create the product backlog: Develop a prioritized list of user stories and features that need to be implemented.
+
+2. Requirements Analysis:
+   - Gather user requirements: Engage with stakeholders and end-users to understand their needs and expectations.
+   - Create user stories: Convert user requirements into concise, user-centric descriptions of functionality.
+   - Prioritize user stories: Collaboratively determine the order in which user stories should be implemented based on business value and dependencies.
+
+3. Design:
+   - Create wireframes: Design low-fidelity representations of the user interface to visualize the layout and structure.
+   - Design database schema: Determine the structure and relationships of the data in the application.
+   - Create UI mockups: Develop high-fidelity visual representations of the user interface to demonstrate the final look and feel.
+
+4. Development:
+   - Implement features: Write code to develop the functionalities specified in the user stories.
+   - Conduct code reviews: Regularly review the code to ensure quality, readability, and adherence to coding standards.
+   - Conduct unit tests: Write and execute tests to verify the individual units of code.
+
+5. Testing:
+   - Conduct integration testing: Test the interaction between various components and modules of the software.
+   - Conduct acceptance testing: Validate that the software meets the specified requirements and is ready for deployment.
+   - Resolve defects: Address any issues or bugs identified during testing and ensure they are fixed.
+
+6. Deployment:
+   - Deploy software to production: Release the software to the production environment for end-users.
+   - Train users: Provide training and documentation to users to ensure they can effectively use the software.
+   - Provide support: Offer ongoing support and maintenance for the software, addressing any user concerns or issues.
+
+In terms of tools, technologies, and frameworks, the project utilized the following:
+
+- Figma: Used for creating wireframes and UI mockups, allowing for collaborative design.
+- GitHub: Employed for version control and collaboration among the development team.
+- draw.io: Utilized for creating diagrams and visual representations of the system architecture.
+- HTML and CSS: Used for front-end web development to structure and style the user interface.
+- PHP: Employed as a server-side scripting language for implementing back-end functionalities.
+
+## 3. Implementation:
+Requirements Gathering:
+
+1.Determine the goals and objectives of the academic consultation system.
+Identify the target audience (e.g., students, professors, advisors).
+Define the features and functionality required, such as scheduling appointments, communication channels, file sharing, etc.
+System Architecture:
+
+2.Design the overall system architecture, including backend and frontend components.
+Choose appropriate technologies for each component (e.g., programming languages, frameworks, databases).
+Backend Development:
+
+3.Implement the server-side logic responsible for handling requests and managing data.
+Set up a database to store user information, appointment details, messages, etc.
+Develop APIs (Application Programming Interfaces) for communication between frontend and backend.
+Frontend Development:
+
+4.Design and develop a user-friendly interface for different user roles (e.g., students, professors, advisors).
+Implement features such as appointment scheduling, messaging, file sharing, notifications, etc.
+Utilize appropriate frontend technologies such as HTML, CSS, JavaScript, and frontend frameworks like React, Angular, or Vue.js.
+Authentication and Authorization:
+
+5.Implement a secure user authentication system.
+Utilize techniques like password hashing, session management, and JWT (JSON Web Tokens).
+Define user roles and permissions to control access to different system functionalities.
+Appointment Management:
+
+6.Develop a mechanism for users to schedule appointments with professors or advisors.
+Implement features like availability checking, calendar integration, and notification reminders.
+Ensure proper handling of conflicts, cancellations, and rescheduling.
+Communication and Messaging:
+
+7.Set up a real-time communication system between users (e.g., students, professors, advisors).
+Implement features like instant messaging, chat history, and notifications.
+Consider using technologies like WebSockets or real-time communication frameworks like Socket.io.
+File Sharing:
+
+8.Provide a secure mechanism for users to share files and documents.
+Implement file upload/download functionality and ensure proper access control.
+Consider options like cloud storage integration or server-side file management.
+Testing and Quality Assurance:
+
+9.Conduct thorough testing to ensure the system functions as expected.
+Perform unit tests, integration tests, and end-to-end tests.
+Identify and fix any bugs or issues before deployment.
+Deployment and Maintenance:
+
+10.Deploy the system on a suitable hosting environment or cloud platform.
+Monitor system performance and ensure scalability and reliability.
+Regularly update and maintain the system to incorporate new features, security patches, and bug fixes.
+
+- Describe any challenges faced during the implementation phase and how you addressed them.
+
+## 4. Testing and Quality Assurance:
+### Functional Requirements:
+
+1. Authentication Subsystem:
+  - The system should provide a sign-in and log-in functionality for users.
+  - Users should be able to reset their passwords securely.
+
+2. Account Subsystem:
+  - Users with appropriate permissions should be able to view and manage student's personal information.
+  - Users should be able to view academic advisor's personal information.
+
+3. Report Subsystem:
+  - Users should be able to view academic reports for students.
+  - Users with appropriate permissions should be able to manage academic reports.
+  - Users should be able to download academic reports.
+  - Users should be able to file complaints regarding academic reports.
+    
+4. Schedule Subsystem:
+  - Users should be able to view timetables.
+  - Users should be able to download timetables.
+  - Users with appropriate permissions should be able to manage and edit timetables.
+
+5. Appointment Subsystem:
+  - Users should be able to view available appointment slots.
+  - Users with appropriate permissions should be able to manage and edit appointment slots.
+  - Users should be able to download appointment slots.
+  - Users should be able to view a calendar of appointments.
+  - Users with appropriate permissions should be able to edit and manage the calendar.
+    
+6. Summary Subsystem:
+  - Users should be able to view an academic dashboard for students.
+  - Users with appropriate permissions should be able to manage the academic dashboard.
+  - Users should be able to generate summaries of students' academic performance.
+
+7.Notification Subsystem:
+  - Users should receive notifications related to system updates, academic events, or changes in their academic status.
+  - Users should be able to customize their notification settings.
+  - Users should be able to view and manage notifications.
+    
+### Non-functional Requirements:
+
+1. Performance:
+  - The system should be responsive and provide fast response times, even with a large number of concurrent users.
+  - System components should be optimized for efficient resource utilization.
+    
+2. Security:
+  - The system should ensure secure authentication and authorization mechanisms.
+  - Confidential student and user information should be protected through encryption and access controls.
+  - Security measures should be implemented to prevent unauthorized access, data breaches, and data loss.
+    
+3. Usability:
+  - The user interface should be intuitive, user-friendly, and accessible.
+  - The system should provide clear and concise error messages to guide users in case of incorrect inputs or system errors.
+
+4. Reliability:
+  - The system should be highly reliable, with minimal downtime and maximum availability.
+  - Data integrity and consistency should be maintained even during system failures or disruptions.
+
+5. Assumptions and Constraints:
+  - The system will be developed and deployed on a specific platform or operating system.
+  - The system will be accessible to authorized users through web browsers or mobile applications.
+  - The system will integrate with existing databases, systems, or APIs as required.
+  - The project has a specific budget and timeline for development and implementation.
+  - The system will comply with relevant laws, regulations, and data privacy requirements.
+  - These requirements, assumptions, and constraints provide a foundation for the design and development of the system, ensuring that it meets the desired functionality,       performance, security, usability, and other quality attributes.
+
+## 5. Results and Achievements:
+- Present the outcomes and achievements of the project.
+- Share any quantitative or qualitative data that demonstrates the success of the software solution.
+- Discuss any feedback received from stakeholders or users during the evaluation process.
+
+## 6. Conclusion:
+In conclusion, the development and implementation of the Academic Consultation System have provided valuable insights and lessons learned. Throughout this project, we encountered several challenges, but through effective collaboration and problem-solving, we were able to overcome them and achieve our objectives.
+
+One of the main lessons learned from this project is the importance of stakeholder engagement and feedback. By actively involving students and lecturers in the design and testing phases, we gained valuable insights into their specific needs and preferences. This iterative approach allowed us to fine-tune the system and tailor it to meet their requirements, resulting in a more user-friendly and effective platform.
+
+Additionally, we recognized the significance of addressing technical challenges during the development process. From ensuring seamless integration with existing systems to optimizing performance and scalability, our team invested considerable effort in overcoming technical obstacles. Through thorough testing and continuous improvement, we were able to create a robust and reliable Academic Consultation System.
+
+Looking forward, there are several areas where the system can be further enhanced. First, incorporating data analytics capabilities can provide valuable insights into student consultation patterns, enabling administrators and lecturers to identify trends and proactively address student needs. Second, integrating additional communication channels, such as video conferencing or chat functionality, can offer more flexibility and convenience for consultations. Lastly, expanding the system's accessibility by developing mobile applications or responsive design can cater to the evolving needs and preferences of users.
+
+In conclusion, the development and implementation of the Academic Consultation System have proven to be a transformative endeavor, providing students with personalized academic support, enabling lecturers to engage with students more effectively, and fostering a conducive learning environment. By reflecting on the challenges faced and embracing continuous improvement, we are confident that the system will have a lasting impact on student success and serve as a valuable resource within our academic institution.
  
  
 ## Contribution 🛠️
