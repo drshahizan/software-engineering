@@ -8,5 +8,4 @@
 
 
 ## Answer
-<img src="https://github.com/drshahizan/software-engineering/assets/128119778/36553cd3-db1c-450e-baaf-ad9522da7e44" width="500" height="400">
-
+<img src="https://github.com/drshahizan/software-engineering/assets/128119778/c3721223-c027-4a51-b097-bf47f5eb3ffe" width="500" height="400">

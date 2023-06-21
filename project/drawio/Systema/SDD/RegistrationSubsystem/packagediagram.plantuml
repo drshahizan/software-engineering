@@ -1,0 +1,48 @@
+@startuml
+!define VIEW_LAYER_COLOR #98FB98
+!define DOMAIN_LAYER_COLOR #ADD8E6
+!define DATA_ACCESS_LAYER_COLOR #FFA07A
+
+package "Registration and Authentication Subsystem" {
+  package "View Layer" <<View>> {
+    [Sign Up]
+    [Email Verification]
+    [Reset Password]
+    [Login]
+  }
+  
+  package "Domain Layer" <<Domain>> {
+    [User]
+    [Authentication Service]
+    [User Repository]
+  }
+  
+  package "Data Access Layer" <<Data Access>> {
+    [User Database] as userDB
+    [User Table]
+  }
+
+  [Sign Up] --> [User]
+  [Email Verification] --> [User]
+  [Reset Password] --> [User]
+  [Login] --> [User]
+  
+  [User] --> [Authentication Service]
+  [Authentication Service] --> [User Repository]
+  
+  [User Repository] --> [User Database]
+  [User Database] --> [User Table]
+  
+  [User] ..> [User Table]
+  
+  [User] --> [Sign Up]
+  [User] --> [Email Verification]
+  [User] --> [Reset Password]
+  [User] --> [Login]
+  
+  [Authentication Service] --> [Sign Up]
+  [Authentication Service] --> [Email Verification]
+  [Authentication Service] --> [Reset Password]
+  [Authentication Service] --> [Login]
+}
+@enduml
