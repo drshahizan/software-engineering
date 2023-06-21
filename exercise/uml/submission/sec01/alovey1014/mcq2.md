@@ -1,3 +1,12 @@
+## MCQ Set: 2
+
+**Name:WONG QIAO YING**
+
+**Matrix No:A22EC0118**
+
+**Section:01**
+
+## Answer
 1. a
 2. c
 3. c
