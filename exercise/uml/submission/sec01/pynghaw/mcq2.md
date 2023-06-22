@@ -16,16 +16,21 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 01**
 
 ## Answer
-1.B
-2.C
-3.C
-4.B
-5.B
-6.D
-7.C
-8.D
-9.D
-10.B
+1. A
+2. A
+3. C
+4. B
+5. A
+6. B
+7. C
+8. B
+9. D
+10. A
+11. D
+12. B
+13. B
+14. B
+15. D
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
