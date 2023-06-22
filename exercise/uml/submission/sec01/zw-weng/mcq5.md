@@ -36,11 +36,11 @@ Don't forget to hit the :star: if you like this repo.
 18. b
 19. c
 20. c
-21.
-22.
-23.
-24.
-25.
+21. b
+22. a
+23. c
+24. c
+25. b
 
 
 ## Contribution 🛠️
