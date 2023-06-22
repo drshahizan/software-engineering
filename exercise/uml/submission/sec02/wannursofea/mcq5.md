@@ -16,56 +16,31 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 02**
 
 ## Answer
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
-41.
-42.
-43.
-44.
-45.
-46.
-47.
-48.
-49.
-50.
+1. A
+2. B
+3. B
+4. D
+5. C
+6. C
+7. A
+8. C
+9. B
+10. D
+11. A
+12. A
+13. D
+14. B
+15. D
+16. C
+17. D
+18. C
+19. B
+20. D
+21. A
+22. D 
+23. A
+24. B
+25. D
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
