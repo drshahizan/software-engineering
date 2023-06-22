@@ -30,16 +30,19 @@ Don't forget to hit the :star: if you like this repo.
 │   └── 📄mcq5.md
 └── 📁your github id
 ```
-# Case Study 1: MSO Hospital Management System
-
+# UML class diagram: Animal
+Consider the following UML class diagram.
 <p align="center">
 <img src="cd.png"  height="400" />
 </p>
 
 ## Question
-Based on the Hospital Management System case study, create a **use case description** for the MSO Hospital Management System.
-
-
+1. What is the relationship between Vertebrate and Animal?
+2. What is the relationship between Snake and Animal?
+3. What is the association type between Mongoose and Snake?
+4. According to the class diagram, can 2 mongooses eat 1 snake?
+5. Identify one thing wrong with this diagram.
+   
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
