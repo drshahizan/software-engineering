@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set:
+## MCQ Set: 4
 
 **Name: Danial Harriz**
 
@@ -16,7 +16,7 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 02**
 
 ## Answer
-1. A
+1. B
 2. B
 3. B
 4. D
@@ -24,22 +24,22 @@ Don't forget to hit the :star: if you like this repo.
 6. D
 7. A
 8. C
-9. C
+9. B
 10. D
 11. A
-12. A
+12. B
 13. D
 14. B
 15. D
 16. C
 17. D
 18. C
-19. B
+19. C
 20. D
 21. A
 22. D
 23. A
-24. C
+24. B
 25. D
 
 
