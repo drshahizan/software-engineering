@@ -21,11 +21,11 @@ Don't forget to hit the :star: if you like this repo.
 3. B
 4. D
 5. C
-6. 
-7. 
-8. 
-9. 
-10. 
+6. C
+7. A
+8. C
+9. B
+10. D
 11. 
 12. 
 13. 
