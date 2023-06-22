@@ -19,7 +19,7 @@ Don't forget to hit the :star: if you like this repo.
 **Section:** 02
 
 ## Answer
-![Structure 1](file:///C:/Users/Izzah%20Alia/Downloads/set1.png)
+![Structure 1](https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec02/izzah/set1.png)
 
 
 
