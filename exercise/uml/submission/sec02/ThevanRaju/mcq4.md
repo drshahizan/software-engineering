@@ -19,8 +19,8 @@ Don't forget to hit the :star: if you like this repo.
 1. A
 2. D
 3. B
-4. 
-5. 
+4. D
+5. C
 6. 
 7. 
 8. 
