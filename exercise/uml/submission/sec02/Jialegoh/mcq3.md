@@ -31,16 +31,16 @@ Don't forget to hit the :star: if you like this repo.
 13. C
 14. D
 15. B
-16.D
-17.D
-18.C
-19.A
-20.B
-21.C
-22.C
-23.D
-24.C
-25.D
+16. D
+17. D
+18. C
+19. A
+20. B
+21. C
+22. C
+23. D
+24. C
+25. D
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
