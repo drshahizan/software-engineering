@@ -1,10 +1,10 @@
 ## MCQ Set: 5
 
-**Name:**MUHAMMAD NUR AZHAR BIN MOHD YAZID
+**Name:** MUHAMMAD NUR AZHAR BIN MOHD YAZID
 
-**Matrix No:**A22EC0220
+**Matrix No:** A22EC0220
 
-**Section:**02
+**Section:** 02
 
 ## Answer
 1. D
