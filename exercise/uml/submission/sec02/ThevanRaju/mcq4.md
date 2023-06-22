@@ -31,12 +31,12 @@ Don't forget to hit the :star: if you like this repo.
 13. D
 14. B
 15. D
-16. 
-17. 
-18. 
-19. 
-20. 
-21. 
+16. C
+17. D
+18. C
+19. C
+20. C
+21. A
 22. 
 23. 
 24. 
