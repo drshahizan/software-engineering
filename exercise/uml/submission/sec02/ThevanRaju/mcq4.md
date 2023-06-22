@@ -18,7 +18,7 @@ Don't forget to hit the :star: if you like this repo.
 ## Answer
 1. A
 2. D
-3. 
+3. B
 4. 
 5. 
 6. 
