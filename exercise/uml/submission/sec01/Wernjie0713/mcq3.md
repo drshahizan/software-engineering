@@ -7,41 +7,40 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set: 5, 4 V	ShopEase
+## MCQ Set: 3
 
-**Name:**
+**Name: YONG WERN JIE**
 
-**Matrix No:**
+**Matrix No: A22EC0121**
 
-**Section:**
+**Section: 01**
 
 ## Answer
-1. C
+1. B
 2. C
-3. C
+3. B
 4. C
-5. C
-6. A
-7. C
-8. C
-9. C
-10. A
+5. D
+6. C
+7. D
+8. B
+9. D
+10. C
 11. C
 12. C
-13. C
-14. A
-15. D
-16. C
+13. B
+14. D
+15. B
+16. D
 17. B
-18. C
+18. D
 19. D
 20. C
 21. C
-22. A
+22. C
 23. C
-24. C
-25. A
-
+24. D
+25. D
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

@@ -34,6 +34,8 @@ Don't forget to hit the :star: if you like this repo.
 | 8 | Use case | Hospital Management System | <a href="./uml/uc/uc6.md" ><img src="../images/ucase.png" width="24px" height="24px" ></a> | 
 | 9 | 4 V | CRM Pro | <a href="./val/val1.md" ><img src="../images/test.png" width="24px" height="24px" ></a> | 
 | 10 | 4 V | MediCare | <a href="./val/val2.md" ><img src="../images/test.png" width="24px" height="24px" ></a> | 
+| 11 | Class diagram| Animal | <a href="./uml/uc/cd1.md" ><img src="../images/ad.png" width="24px" height="24px" ></a> | 
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

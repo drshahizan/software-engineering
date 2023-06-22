@@ -7,40 +7,40 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set: 5, 4 V	ShopEase
+## MCQ Set: 5
 
-**Name:**
+**Name: NEO ZHENG WENG**
 
-**Matrix No:**
+**Matrix No: A22EC0093**
 
-**Section:**
+**Section: 01**
 
 ## Answer
-1. C
-2. C
-3. C
-4. C
-5. C
-6. A
-7. C
-8. C
-9. C
-10. A
-11. C
-12. C
-13. C
-14. A
-15. D
-16. C
-17. B
-18. C
-19. D
-20. C
-21. C
-22. A
-23. C
-24. C
-25. A
+1. c
+2. c
+3. c
+4. c
+5. c
+6. b
+7. c
+8. c
+9. c
+10. a
+11. c
+12. c
+13. a
+14. c
+15. c
+16. c
+17. a
+18. b
+19. c
+20. c
+21. b
+22. a
+23. c
+24. c
+25. b
 
 
 ## Contribution 🛠️
@@ -50,5 +50,4 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
 

@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set: 5, 4 V	ShopEase
+## MCQ Set:
 
 **Name:**
 
@@ -16,32 +16,17 @@ Don't forget to hit the :star: if you like this repo.
 **Section:**
 
 ## Answer
-1. C
-2. C
-3. C
-4. C
-5. C
-6. A
-7. C
-8. C
-9. C
-10. A
-11. C
-12. C
-13. C
-14. A
-15. D
-16. C
-17. B
-18. C
-19. D
-20. C
-21. C
-22. A
-23. C
-24. C
-25. A
-
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+   
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
