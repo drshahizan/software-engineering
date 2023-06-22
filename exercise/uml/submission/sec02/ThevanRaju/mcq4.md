@@ -26,11 +26,11 @@ Don't forget to hit the :star: if you like this repo.
 8. C
 9. B
 10. D
-11. 
-12. 
-13. 
-14. 
-15. 
+11. A
+12. A
+13. D
+14. B
+15. D
 16. 
 17. 
 18. 
