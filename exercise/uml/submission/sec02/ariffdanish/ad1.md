@@ -8,4 +8,6 @@
 
 ## Answer
 
-<img src="https://i.ibb.co/2jXC6qY/ad1.png" alt="ad1" width="800" height="600">
+<a href="https://ibb.co/RHfbBM4"><img src="https://i.ibb.co/VBR9Qhp/ad1.png" alt="ad1" border="0" style="width: 100%;">
+
+

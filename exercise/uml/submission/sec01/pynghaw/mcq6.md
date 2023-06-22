@@ -1,15 +1,15 @@
-## MCQ Set 6:
+## MCQ Set: 6
 
-**Name: Koh Li Hui**
+**Name: Chen Pyng Haw**
 
-**Matrix No: A22EC0059**
+**Matrix No: A22EC0042**
 
 **Section: 01**
 
 ## Answer
 1. B
 2. B
-3. B
+3. C
 4. C
 5. D
 6. B
@@ -17,3 +17,5 @@
 8. C
 9. D
 10. C
+
+
