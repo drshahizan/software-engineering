@@ -7,18 +7,18 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set: 3
+## MCQ Set: Software Verification, Validation, and Testing
 
-**Name:THEVAN RAJU A/L JEGANATH**
+**Name: NUR FARAH ADIBAH BINTI IDRIS**
 
-**Matrix No: A22EC0286**
+**Matrix No: A2EC0245**
 
 **Section:02**
 
 ## Answer
 1. A
 2. D
-3. B
+3. C
 4. D
 5. C
 6. C
@@ -33,15 +33,15 @@ Don't forget to hit the :star: if you like this repo.
 15. D
 16. C
 17. D
-18. C
+18. A
 19. C
 20. C
 21. A
-22. 
-23. 
-24. 
-25. 
-
+22. D
+23. A
+24. B
+25. D
+   
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
@@ -50,7 +50,4 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
-
-
 

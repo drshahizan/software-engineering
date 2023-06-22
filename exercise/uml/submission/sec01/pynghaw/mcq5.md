@@ -1,8 +1,8 @@
-## MCQ Set 5:
+## MCQ Set: 5
 
-**Name: Koh Li Hui**
+**Name: Chen Pyng Haw**
 
-**Matrix No: A22EC0059**
+**Matrix No: A22EC0042**
 
 **Section: 01**
 
@@ -10,12 +10,12 @@
 1. B
 2. C
 3. C
-4. C
+4. C 
 5. B
 6. B
-7. C
+7. A
 8. C
-9. B
+9. C
 10. A
 11. C
 12. C
@@ -23,8 +23,8 @@
 14. C
 15. D
 16. C
-17. B
-18. B
+17. D
+18. C
 19. D
 20. C
 21. C

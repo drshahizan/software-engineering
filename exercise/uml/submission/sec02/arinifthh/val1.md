@@ -1,22 +1,22 @@
-## MCQ Set: 4
+## MCQ Set:
 
-**Name: CHE MARHUMI BIN CHE AB RAHIM**
+**Name:** Nur Arini Fatihah Binti Mohd Sabir
 
-**Matrix No: A22EC0147**
+**Matrix No:** A22EC0244
 
-**Section: 02**
+**Section:** 02
 
 ## Answer
 1. A
 2. D
-3. B
+3. C
 4. D
 5. C
-6. D
+6. C
 7. A
 8. C
 9. B
-10. D
+10. A
 11. A
 12. A
 13. D
@@ -24,9 +24,9 @@
 15. D
 16. C
 17. D
-18. D
+18. A
 19. C
-20. D
+20. C
 21. A
 22. D
 23. A

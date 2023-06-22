@@ -1,21 +1,21 @@
 ## MCQ Set: 5
 
-**Name: CHE MARHUMI BIN CHE AB RAHIM**
+**Name:** MUHAMMAD NUR AZHAR BIN MOHD YAZID
 
-**Matrix No: A22EC0147**
+**Matrix No:** A22EC0220
 
-**Section: 02**
+**Section:** 02
 
 ## Answer
-1. C
+1. D
 2. C
 3. C
 4. C
-5. B
+5. C
 6. B
 7. C
 8. C
-9. B
+9. C
 10. A
 11. C
 12. C
@@ -23,12 +23,12 @@
 14. C
 15. A
 16. C
-17. B
+17. D
 18. B
-19. D
+19. A
 20. C
 21. B
 22. A
 23. C
 24. C
-25.  A  
+25. A

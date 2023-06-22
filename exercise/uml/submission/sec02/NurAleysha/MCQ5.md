@@ -7,42 +7,41 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set: 3
+## MCQ Set:
 
-**Name:THEVAN RAJU A/L JEGANATH**
+**Name: NUR ALEYSHA QURRATU'AINI BINTI MAT SALLEH**
 
-**Matrix No: A22EC0286**
+**Matrix No: A22EC0241**
 
-**Section:02**
+**Section: 02**
 
 ## Answer
-1. A
-2. D
-3. B
-4. D
-5. C
-6. C
-7. A
+1. B
+2. C
+3. C
+4. C
+5. A
+6. B
+7. C
 8. C
-9. B
-10. D
+9. C
+10. A
 11. A
-12. A
-13. D
-14. B
+12. C
+13. A
+14. C
 15. D
 16. C
-17. D
-18. C
-19. C
+17. A
+18. B
+19. D
 20. C
-21. A
-22. 
-23. 
-24. 
-25. 
-
-
+21. B
+22. A
+23. C
+24. C
+25. A
+    
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
 
@@ -50,7 +49,5 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
-
 
 
