@@ -32,9 +32,9 @@ Don't forget to hit the :star: if you like this repo.
 ```
 # Case Study 1: MSO Hospital Management System
 
-## Description
-
-The MSO Hospital is a large healthcare facility that serves a diverse patient population. Due to the increasing number of patients, the hospital has decided to implement a Hospital Management System to streamline various processes related to patient admissions, appointments, medical records, and billing. The system aims to improve the efficiency of hospital staff and enhance the overall patient experience. Hospital staff, including doctors, nurses, and administrative personnel, are the primary users of the system, while patients interact with it indirectly through the services provided by the staff. The preconditions for using the system include hospital staff having access to the system, patient information being available in the system, and the hospital having the necessary medical and billing infrastructure. The main flow of activities involves hospital staff logging into the system, selecting the desired function (such as admissions, appointments, medical records, or billing), performing specific actions based on the selected function, and the system validating and updating the data accordingly. For example, staff can enter patient information for admissions, schedule appointments, access and update medical records, and create bills based on services provided. The postconditions include the updated patient information, accessibility of records for future reference, and the provision of necessary medical services and billing information to patients. By implementing the Hospital Management System, MSO Hospital aims to improve operational efficiency, accuracy of records, and patient satisfaction.
+<p align="center">
+<img src="cd.png"  height="200" />
+</p>
 
 ## Question
 Based on the Hospital Management System case study, create a **use case description** for the MSO Hospital Management System.
