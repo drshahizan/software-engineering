@@ -78,9 +78,7 @@ XYZ Software Solutions designs comprehensive test cases for each testing strateg
    - A) Black-box testing focuses on requirements, while white-box testing accesses the internal code structure
    - B) Black-box testing designs test cases based on specific code paths, while white-box testing evaluates inputs and outputs
    - C) Black-box testing evaluates inputs and outputs, while white-box testing accesses the internal code structure
-   - D) Black-box testing focuses on the application's functionality
-
-, while white-box testing designs test cases based on specified requirements
+   - D) Black-box testing focuses on the application's functionality, while white-box testing designs test cases based on specified requirements
 
 6. What type of testing focuses on uncovering potential coding errors?
    - A) Requirement-based testing
