@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set: 3
+## MCQ Set: 4
 
 **Name:THEVAN RAJU A/L JEGANATH**
 
@@ -37,10 +37,10 @@ Don't forget to hit the :star: if you like this repo.
 19. C
 20. C
 21. A
-22. 
-23. 
-24. 
-25. 
+22. D
+23. A
+24. B
+25. D
 
 
 ## Contribution 🛠️
