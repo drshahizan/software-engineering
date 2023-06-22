@@ -1,4 +1,4 @@
-## MCQ Set: 4
+## MCQ Set: 5
 
 **Name: CAMILY TANG JIA LEI**
 
@@ -7,31 +7,31 @@
 **Section: 01**
 
 ## Answer
-1. a.
-2. d.
-3. b.
-4. a.
-5. c.
+1. b.
+2. c.
+3. c.
+4. c.
+5. b.
 6. b.
-7. a.
+7. c.
 8. c.
-9. c.
-10. d.
-11. a.
-12. a.
-13. b.
-14. a.
-15. d.
+9. a.
+10. a.
+11. c.
+12. c.
+13. a.
+14. c.
+15. a.
 16. c.
-17. d.
-18. d.
+17. b.
+18. c.
 19. c.
-20. d.
+20. c.
 21. a.
-22. d.
-23. a.
-24. b.
-25. d.
+22. a
+23. c.
+24. a.
+25. a.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
