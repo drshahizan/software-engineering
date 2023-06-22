@@ -105,15 +105,23 @@ Don't forget to hit the :star: if you like this repo.
 | 12. | 20/06/2023 | Marcus Joey Sayner | Software Developer | Create System Testing Documentation | Incomplete |
 
 ## 1. Introduction:
-- Briefly explain the purpose and objectives of the project.
-- Describe the problem statement or the need the project aims to address.
-- Outline the significance and potential impact of the project.
+The purpose of this project is to develop a student feedback system that allows students to provide feedback on their educational experiences and enables faculty members and administrators to collect, analyze, and take action based on this feedback. The system aims to enhance the overall learning environment by fostering open communication, identifying areas for improvement, and promoting student engagement.
+
+Problem Statement:
+
+In traditional educational settings, obtaining comprehensive and timely feedback from students has often been a challenging and time-consuming process. Feedback mechanisms are often limited to periodic surveys or informal discussions, which may not capture the diverse perspectives and experiences of students. This project aims to address these limitations by providing a centralized platform that enables students to provide feedback in a convenient and structured manner.
+
+Significance and Potential Impact:
+
+The implementation of a student feedback system has the potential to bring about several significant benefits. Firstly, it promotes a culture of transparency and accountability by facilitating open communication between students and faculty members. This can lead to improvements in teaching methodologies, course materials, and overall educational practices.
+
+Secondly, the system provides a valuable source of data for faculty members and administrators to identify trends, patterns, and areas of concern within the educational system. By analyzing the feedback collected, it becomes possible to pinpoint specific issues and take proactive measures to address them, thereby enhancing the learning experience for all students.
+
+Lastly, the student feedback system has the potential to create a positive impact on student engagement and satisfaction. By providing students with a platform to voice their opinions, concerns, and suggestions, it empowers them to actively participate in shaping their educational journey. This fosters a sense of ownership and involvement, leading to increased motivation and a stronger sense of belonging within the academic community.
+
+In conclusion, this project aims to develop a student feedback system that addresses the limitations of traditional feedback mechanisms and promotes a culture of continuous improvement within the educational institution. The significance and potential impact of this system lie in its ability to enhance communication, drive positive change, and create a more engaging and satisfying learning environment for students.
 
 ## 2. Methodology:
-- Describe the approach and methodologies utilized to tackle the project.
-- Explain the software development life cycle model or any other relevant methodology adopted.
-- Highlight any specific tools, technologies, or frameworks employed during the project.
-
 Requirement Analysis:
 Gather requirements by conducting interviews and meetings with stakeholders, including students, faculty, and administrative staff.
 Identify the key features and functionalities of the Student Feedback System.
