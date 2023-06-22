@@ -33,7 +33,7 @@ Don't forget to hit the :star: if you like this repo.
 # Case Study 1: MSO Hospital Management System
 
 <p align="center">
-<img src="cd.png"  height="200" />
+<img src="cd.png"  height="400" />
 </p>
 
 ## Question
