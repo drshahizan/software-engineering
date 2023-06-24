@@ -83,9 +83,7 @@ Don't forget to hit the :star: if you like this repo.
 23. In the sequence diagram, what does the lifeline represent?
     - **Answer: d. The lifespan of an object.**
 
-24. What is the purpose of the interaction overview
-
- diagram in the Online Shopping System?
+24. What is the purpose of the interaction overview diagram in the Online Shopping System?
     - **Answer: d. To illustrate the interactions and control flow between objects.**
 
 25. Which UML diagram showcases the behavior and transitions of an object or system in the Online Shopping System?
