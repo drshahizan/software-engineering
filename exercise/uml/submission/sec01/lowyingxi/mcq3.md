@@ -15,18 +15,18 @@
 6. C
 7. D
 8. C
-9. A
+9. A x ans:D To illustrate the behavior of an object or system over time.
 10. C
 11. C
 12. D
 13. B
-14. D
+14. D x ans:C To represent instances of classes and their relationships at a specific time.
 15. B
 16. A
 17. B
-18. B
-19. D
-20. D
+18. B x ans:D Deploymemnt diagram
+19. D x ans:C Instances of classes and their relationships at a specific time.
+20. D x ans:C  activity diagram
 21. C
 22. C
 23. D

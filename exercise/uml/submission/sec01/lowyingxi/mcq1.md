@@ -8,7 +8,7 @@
 
 ## Answer
 1. B
-2. B
+2. B x ans:C activity diagram
 3. C
 4. B
 5. B

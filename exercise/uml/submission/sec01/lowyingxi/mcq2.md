@@ -8,7 +8,7 @@
 
 ## Answer
 1. A
-2. B
+2. B x ans:C activity diagram
 3. C
 4. B
 5. A
@@ -16,7 +16,7 @@
 7. C
 8. B
 9. D
-10. B
+10. B x ans:A library staff
 11. D
 12. B
 13. B
