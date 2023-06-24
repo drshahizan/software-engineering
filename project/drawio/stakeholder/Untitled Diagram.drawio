@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T17:47:31.016Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="JugvY6hBeojPUls_l2kK" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T17:49:35.105Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Hi4dzBxlLVxkTUYvQVJv" version="21.5.0" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="1985" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1358" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -154,7 +154,7 @@
         <mxCell id="QNsSBelghBEUMRZPqjNF-56" value="Staff" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-51">
           <mxGeometry x="226" y="35" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QNsSBelghBEUMRZPqjNF-57" value="&#xa;&lt;span style=&quot;color: rgb(240, 240, 240); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;+View payment history&lt;/span&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-51">
+        <mxCell id="QNsSBelghBEUMRZPqjNF-57" value="+View payment history" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-51">
           <mxGeometry x="201" y="66" width="162" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QNsSBelghBEUMRZPqjNF-58" value="+Dowmload payment receipts" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-51">
