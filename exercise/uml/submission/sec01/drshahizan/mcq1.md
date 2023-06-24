@@ -10,56 +10,37 @@ Don't forget to hit the :star: if you like this repo.
 ## MCQ 1
 
 ## Answer
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
-41.
-42.
-43.
-44.
-45.
-46.
-47.
-48.
-49.
-50.
+Sure! Here are the answers to the multiple-choice questions:
+
+1. What is the purpose of the use case diagram in the online bookstore system?
+   - **Answer: b. To depict the interactions between actors and the system's functionality.**
+
+2. Which UML diagram is used to represent the behavior of a single use case?
+   - **Answer: c. Activity diagram.**
+
+3. In the activity diagram, what symbol is used to represent a decision point or conditional statement?
+   - **Answer: c. Diamond shape.**
+
+4. What does the sequence diagram illustrate in the online bookstore system?
+   - **Answer: b. The interaction between objects over time.**
+
+5. Which actor is responsible for managing the book inventory in the online bookstore system?
+   - **Answer: b. Admin.**
+
+6. What is the purpose of the "Search Books" use case in the online bookstore system?
+   - **Answer: d. To allow users to search for books based on various criteria.**
+
+7. Which diagram is best suited to depict the flow of activities within a single use case?
+   - **Answer: c. Activity diagram.**
+
+8. Which diagram would be most useful for modeling the relationships between classes in the online bookstore system?
+   - **Answer: b. Class diagram.**
+
+9. What is the purpose of the "Checkout" use case in the online bookstore system?
+   - **Answer: d. To complete the purchase transaction.**
+
+10. Who is responsible for managing user accounts in the online bookstore system?
+    - **Answer: b. Admin.**
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
