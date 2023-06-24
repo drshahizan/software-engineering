@@ -7,40 +7,53 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ 1
+## MCQ 2
 
 ## Answer
-Sure! Here are the answers to the multiple-choice questions:
+1. What is the purpose of the use case diagram in the Library Management System?
+   - **Answer: a. To depict the interactions between library staff and patrons.**
 
-1. What is the purpose of the use case diagram in the online bookstore system?
-   - **Answer: b. To depict the interactions between actors and the system's functionality.**
-
-2. Which UML diagram is used to represent the behavior of a single use case?
+2. Which UML diagram is best suited to represent the behavior of a single use case?
    - **Answer: c. Activity diagram.**
 
 3. In the activity diagram, what symbol is used to represent a decision point or conditional statement?
    - **Answer: c. Diamond shape.**
 
-4. What does the sequence diagram illustrate in the online bookstore system?
+4. What does the sequence diagram illustrate in the Library Management System?
    - **Answer: b. The interaction between objects over time.**
 
-5. Which actor is responsible for managing the book inventory in the online bookstore system?
-   - **Answer: b. Admin.**
+5. Which actor is responsible for managing the library collection in the Library Management System?
+   - **Answer: a. Library Staff.**
 
-6. What is the purpose of the "Search Books" use case in the online bookstore system?
-   - **Answer: d. To allow users to search for books based on various criteria.**
+6. What is the purpose of the "Borrow Item" use case in the Library Management System?
+   - **Answer: b. To enable patrons to borrow library items.**
 
-7. Which diagram is best suited to depict the flow of activities within a single use case?
+7. Which diagram is most suitable for depicting the flow of activities within a single use case?
    - **Answer: c. Activity diagram.**
 
-8. Which diagram would be most useful for modeling the relationships between classes in the online bookstore system?
+8. Which diagram would be most useful for modeling the relationships between classes in the Library Management System?
    - **Answer: b. Class diagram.**
 
-9. What is the purpose of the "Checkout" use case in the online bookstore system?
-   - **Answer: d. To complete the purchase transaction.**
+9. What is the purpose of the "Return Item" use case in the Library Management System?
+   - **Answer: d. To facilitate the return of borrowed items.**
 
-10. Who is responsible for managing user accounts in the online bookstore system?
-    - **Answer: b. Admin.**
+10. Who is responsible for managing user accounts in the Library Management System?
+    - **Answer: a. Library Staff.**
+
+11. What is the main functionality of the Library Management System?
+    - **Answer: d. All of the above.**
+
+12. Which actor can borrow items in the Library Management System?
+    - **Answer: b. Patrons.**
+
+13. What does the activity diagram represent in the Library Management System?
+    - **Answer: b. The flow of activities within the system.**
+
+14. Which UML diagram illustrates the interaction between objects over time?
+    - **Answer: b. Sequence diagram.**
+
+15. Which functionality of the Library Management System allows library staff to add, update, and remove books?
+    - **Answer: d. Manage Library Collection.**
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
