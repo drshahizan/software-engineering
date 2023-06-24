@@ -10,7 +10,6 @@ Don't forget to hit the :star: if you like this repo.
 ## MCQ 1
 
 ## Answer
-Sure! Here are the answers to the multiple-choice questions:
 
 1. What is the purpose of the use case diagram in the online bookstore system?
    - **Answer: b. To depict the interactions between actors and the system's functionality.**
