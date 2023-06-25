@@ -43,7 +43,7 @@ As for the agency, there are two main users, namely; the clerk and the manager. 
 3. Scenario is a technique used during requirement elicitation activities to analyse real-life example of how a system can be used. Suggest a suitable scenario for the clients to make reservations who wish to travel on tours. [6 marks]
 
 ### Scenario: Make a tour reservation
-| Column | Description |
+  | Column | Description |
 |-----------------------------|----------------------------------|
 | **Pre-conditions:**         |-  |
 |        |-  |
