@@ -73,6 +73,8 @@ As for the agency, there are two main users, namely; the clerk and the manager. 
 | 5. The cancellation will be updated in the customer information. |
 | 6. The updated information will be displayed to the client. |
 
+7. Draw **an activity diagram** for use case of **Reserve a Tour** where it starts with user search for a suitable tour. The system will list all the tour information. If the client wants to book the tour, she/he will enter password and id. The client then proceeds to choose the specific tour and lastly submit the information. The **Reserve a Tour** activity will be ended if the clients do not want to book any tour. [5 marks]
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
@@ -81,9 +83,3 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
-
-
-
-
-
