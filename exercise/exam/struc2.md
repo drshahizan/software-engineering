@@ -31,37 +31,24 @@ Don't forget to hit the :star: if you like this repo.
 └── 📁your github id
 ```
 
-# Case Study: Citra Tours & Travel Agency
+# Case Study: VecInsured
 
-Your company has been appointed to develop a Web-based application for the **Citra Tours & Travel Agency**. The application mainly provides online reservation functionality and tours information for prospect clients who wish to travel on tours. The registered users (clients) can access the online system to make a tour reservation, view information about the tours available, and cancel a previous reservation that he/she made. Also, the clients can sent any enquiries, complaints or suggestions through the email facilities in the system sent to the manager of **Citra’s** agency. 
+>An insurance company wants to develop a system calls VecInsured to computerize its company vehicle insurance policy management. The VecInsured system should be able to add the information of a new vehicle, add information of a new driver and calculate the premium for the insurance. It should be able to check the validity of the insured vehicle information with the Jabatan Pengangkutan Jalan (JPJ) system. The VecInsured system can also check if the insured vehicle has any summon with JPJ system. It also enables the customer to pay the insurance using credit card or online banking payment.
 
-As for the agency, there are two main users, namely; the clerk and the manager. The clerk should correspond in using the application to administrate the reservation operations. The clerk should be able to add, delete and update the related information on the clients and the tours. The clerk should also be able to confirm and process the requested tour reservations made by the clients. The clerk should be then sent back the issued receipts o the clients through email, containing information on payment and tour reservation details. For security purposes, the clerk should be provided a login ID and password by the manager to be able to access the database of the **Citra’s** travel agency.
+1. Draw a use case diagram based on the information above. (10 marks)
 
-## Question
-1. Identify the most suitable software process model in developing the proposed online tour reservation system for Citra’s travel agency. Justify and give reasons on your chosen process model.[4 marks]
-2. Elicit THREE (3) Functional requirements and TWO (2) Non-Functional requirements for the proposed online tour reservation system. [10 marks]
-3. Scenario is a technique used during requirement elicitation activities to analyse real-life example of how a system can be used. Suggest a suitable scenario for the clients to make reservations who wish to travel on tours. [6 marks]
+>“Add a new vehicle” is a use case in VecInsured system to add a new vehicle to an existing policy. A customer calls a clerk at the insurance company and gives his policy number. The clerk enters this information, and the system displays the basic insurance policy. The clerk then checks the information to make sure the premiums are current and the policy is active. The customer gives the make, model, year, and vehicle identification number (VIN) of the car to be added. The clerk enters this information, and the system ensures that the given data is valid. Next, the customer selects the types of coverage desired and the amount of each. The clerk enters the information, and the system records it and validates the requested amount against the policy limits. After all of the overages have been entered, the system ensures the total coverage against all other ranges, including other cars on the policy. Finally, the customer must identify all drivers and the percentage of time they drive the car. 
 
-### Scenario: Make a tour reservation
-| Column | Description |
-|-----------------------------|----------------------------------|
-| **Pre-conditions:**         |-  |
-|        |-  |
-|        |-  |
-|                             |-  |
-| **Normal Event(s):**        |-  |
-|                             |-  |
-|                             |-  |
-|                             |-  |
-| **Abnormal Event(s):**      |-  |
-|                             |-  |
-|                             |-  |
-|                             |-  |
-| **Post-conditions:**        |-  |
-|                             |-  |
+2. Create an activity diagram based on the given activities. (10 marks)
 
-4. Identify suitable actors and FIVE (5) use cases, and then draw a use case diagram for the Tours and Travels Reservation System for Citra Agency. [5 marks]
-5. Identify FIVE (5) suitable classes for domain model based on the above description for Tours and Travels Reservation System for Citra Agency. [5 marks]
+>VecInsured system manages the information of agents hired by the insurance company.  Agents are the one who sells insurance policies. Insurance policy is written by an agent for an insured person. Insured person is someone who purchases an insurance policy. The insurance policy consists of one or many insured persons and one or many insured vehicles. An insured vehicle can have a summon history. There are two coverage types offered by the insurance policy that are standard and comprehensive coverage. 
+
+3. Draw a domain model for VecInsured system with a suitable relationships (association, generalization and aggregation) based on the given description. (10 marks)
+
+>Initially, an insurance policy is in created state after the insured person has purchased it. The state of the policy is active based on the starting and ending period of the insurance policy. If there is an accident happens, the state will change to claim. The claim is only in the state of approved when the amount of the claim is less than the insurance coverage limit. 
+
+4. Based on the description, create a state chart diagram for the insurance policy. (10 marks)
+
 
 
 ## Contribution 🛠️
