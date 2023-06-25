@@ -36,6 +36,12 @@ Don't forget to hit the :star: if you like this repo.
 | 10 | 4 V | MediCare | <a href="./val/val2.md" ><img src="../images/test.png" width="24px" height="24px" ></a> | 
 | 11 | Class diagram| Animal | <a href="./uml/uc/cd1.md" ><img src="../images/ad.png" width="24px" height="24px" ></a> | 
 
+## Exam question collection
+
+| Set | Topic |  Title |File |
+| :-----: |  ------ | ------ | :-----: | 
+| 1 | Use case | Hospital Management System | <a href="./uml/uc/uc1.md" ><img src="../images/ucase.png" width="24px" height="24px" ></a> |
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
