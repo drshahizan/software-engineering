@@ -43,7 +43,7 @@ As for the agency, there are two main users, namely; the clerk and the manager. 
 3. Scenario is a technique used during requirement elicitation activities to analyse real-life example of how a system can be used. Suggest a suitable scenario for the clients to make reservations who wish to travel on tours. [6 marks]
 
 ### Scenario: Make a tour reservation
-  | Column | Description |
+| Column | Description |
 |-----------------------------|----------------------------------|
 | **Pre-conditions:**         |-  |
 |        |-  |
@@ -62,8 +62,6 @@ As for the agency, there are two main users, namely; the clerk and the manager. 
 
 4. Identify suitable actors and FIVE (5) use cases, and then draw a use case diagram for the Tours and Travels Reservation System for Citra Agency. [5 marks]
 5. Identify FIVE (5) suitable classes for domain model based on the above description for Tours and Travels Reservation System for Citra Agency. [5 marks]
-
-
 
 
 ## Contribution 🛠️
