@@ -42,7 +42,7 @@ As for the agency, there are two main users, namely; the clerk and the manager. 
 2. Elicit THREE (3) Functional requirements and TWO (2) Non-Functional requirements for the proposed online tour reservation system. [10 marks]
 3. Scenario is a technique used during requirement elicitation activities to analyse real-life example of how a system can be used. Suggest a suitable scenario for the clients to make reservations who wish to travel on tours. [6 marks]
 
-Scenario: Make a tour reservation
+### Scenario: Make a tour reservation
 | Column | Description |
 |-----------------------------|----------------------------------|
 | **Pre-conditions:**         |-  |
@@ -59,6 +59,9 @@ Scenario: Make a tour reservation
 |                             |-  |
 | **Post-conditions:**        |-  |
 |                             |-  |
+
+4. Identify suitable actors and FIVE (5) use cases, and then draw a use case diagram for the Tours and Travels Reservation System for Citra Agency. [5 marks]
+5. Identify FIVE (5) suitable classes for domain model based on the above description for Tours and Travels Reservation System for Citra Agency. [5 marks]
 
 
 
