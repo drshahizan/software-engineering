@@ -33,13 +33,32 @@ Don't forget to hit the :star: if you like this repo.
 
 # Case Study: Citra Tours & Travel Agency
 
->Your company has been appointed to develop a Web-based application for the **Citra Tours & Travel Agency**. The application mainly provides online reservation functionality and tours information for prospect clients who wish to travel on tours. The registered users (clients) can access the online system to make a tour reservation, view information about the tours available, and cancel a previous reservation that he/she made. Also, the clients can sent any enquiries, complaints or suggestions through the email facilities in the system sent to the manager of **Citra’s** agency. 
->
->As for the agency, there are two main users, namely; the clerk and the manager. The clerk should correspond in using the application to administrate the reservation operations. The clerk should be able to add, delete and update the related information on the clients and the tours. The clerk should also be able to confirm and process the requested tour reservations made by the clients. The clerk should be then sent back the issued receipts o the clients through email, containing information on payment and tour reservation details. For security purposes, the clerk should be provided a login ID and password by the manager to be able to access the database of the **Citra’s** travel agency.
+Your company has been appointed to develop a Web-based application for the **Citra Tours & Travel Agency**. The application mainly provides online reservation functionality and tours information for prospect clients who wish to travel on tours. The registered users (clients) can access the online system to make a tour reservation, view information about the tours available, and cancel a previous reservation that he/she made. Also, the clients can sent any enquiries, complaints or suggestions through the email facilities in the system sent to the manager of **Citra’s** agency. 
+
+As for the agency, there are two main users, namely; the clerk and the manager. The clerk should correspond in using the application to administrate the reservation operations. The clerk should be able to add, delete and update the related information on the clients and the tours. The clerk should also be able to confirm and process the requested tour reservations made by the clients. The clerk should be then sent back the issued receipts o the clients through email, containing information on payment and tour reservation details. For security purposes, the clerk should be provided a login ID and password by the manager to be able to access the database of the **Citra’s** travel agency.
 
 ## Question
-1. Identify the most suitable software process model in developing the proposed online tour reservation system for Citra’s travel agency. Justify and give reasons on your chosen process model. 									[4 marks]
-2. Elicit THREE (3) Functional requirements and TWO (2) Non-Functional requirements for the proposed online tour reservation system. 				           [10 marks]
+1. Identify the most suitable software process model in developing the proposed online tour reservation system for Citra’s travel agency. Justify and give reasons on your chosen process model.[4 marks]
+2. Elicit THREE (3) Functional requirements and TWO (2) Non-Functional requirements for the proposed online tour reservation system. [10 marks]
+3. Scenario is a technique used during requirement elicitation activities to analyse real-life example of how a system can be used. Suggest a suitable scenario for the clients to make reservations who wish to travel on tours. [6 marks]
+
+Scenario: Make a tour reservation
+| Column | Description |
+|-----------------------------|----------------------------------|
+| **Pre-conditions:**         |-  |
+|        |-  |
+|        |-  |
+|                             |-  |
+| **Normal Event(s):**        |-  |
+|                             |-  |
+|                             |-  |
+|                             |-  |
+| **Abnormal Event(s):**      |-  |
+|                             |-  |
+|                             |-  |
+|                             |-  |
+| **Post-conditions:**        |-  |
+|                             |-  |
 
 
 
