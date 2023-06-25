@@ -64,7 +64,7 @@ As for the agency, there are two main users, namely; the clerk and the manager. 
 5. Identify FIVE (5) suitable classes for domain model based on the above description for Tours and Travels Reservation System for Citra Agency. [5 marks]
 6. Draw a sequence diagram for a Cancel Reservation scenario based on basic flow below: [5 marks]
 
-| **Basic Flow:Cancel Reservation**                         |
+| **Basic Flow:Cancel Reservation** |
 |--------------------------------------------------------|
 | 1. The scenario starts with the client entering their ID and password to access the reservation system.     |
 | 2. The client's information is validated by the system. |
@@ -72,6 +72,12 @@ As for the agency, there are two main users, namely; the clerk and the manager. 
 | 4. The client chooses which reservation they want to cancel. |
 | 5. The cancellation will be updated in the customer information. |
 | 6. The updated information will be displayed to the client. |
+
+    | **Basic Flow:Cancel Reservation** |
+    |--------------------------------------------------------|
+    | 1. The scenario starts with the client entering their ID and password to access the reservation system.     |
+
+
 
 7. Draw **an activity diagram** for use case of **Reserve a Tour** where it starts with user search for a suitable tour. The system will list all the tour information. If the client wants to book the tour, she/he will enter password and id. The client then proceeds to choose the specific tour and lastly submit the information. The **Reserve a Tour** activity will be ended if the clients do not want to book any tour. [5 marks]
 
