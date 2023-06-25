@@ -31,34 +31,17 @@ Don't forget to hit the :star: if you like this repo.
 └── 📁your github id
 ```
 
-# Case Study: Software Verification, Validation, and Testing
+# Case Study: Citra Tours & Travel Agency
 
-## Background
-XYZ Corporation is a leading provider of enterprise software solutions. They have recently developed a new Customer Relationship Management (CRM) software called "CRM Pro" to help businesses manage their customer interactions effectively. As part of their commitment to delivering high-quality software, XYZ Corporation has implemented a robust verification, validation, and testing process.
+>Your company has been appointed to develop a Web-based application for the **Citra Tours & Travel Agency**. The application mainly provides online reservation functionality and tours information for prospect clients who wish to travel on tours. The registered users (clients) can access the online system to make a tour reservation, view information about the tours available, and cancel a previous reservation that he/she made. Also, the clients can sent any enquiries, complaints or suggestions through the email facilities in the system sent to the manager of **Citra’s** agency. 
 
-## Verification
-XYZ Corporation performs thorough verification activities to ensure the accuracy and completeness of the CRM Pro software. They conduct reviews of the software design, specifications, and coding standards. This includes analyzing the architecture, checking for adherence to industry best practices, and ensuring compliance with relevant regulatory requirements. They utilize tools for static code analysis and conduct code inspections to identify any potential defects, inconsistencies, or code quality issues.
+As for the agency, there are two main users, namely; the clerk and the manager. The clerk should correspond in using the application to administrate the reservation operations. The clerk should be able to add, delete and update the related information on the clients and the tours. The clerk should also be able to confirm and process the requested tour reservations made by the clients. The clerk should be then sent back the issued receipts o the clients through email, containing information on payment and tour reservation details. For security purposes, the clerk should be provided a login ID and password by the manager to be able to access the database of the **Citra’s** travel agency.
 
-## Validation
-Validation is a critical aspect of the software development process for XYZ Corporation. They aim to validate that the CRM Pro software meets the specific needs of their customers and aligns with their expectations. Through a series of user-centric activities, such as usability testing and user acceptance testing (UAT), XYZ Corporation gathers feedback from end-users and stakeholders. This feedback helps identify areas for improvement, validate the software's functionality, and ensure it effectively addresses customer requirements.
+## Question
+1. Identify the most suitable software process model in developing the proposed online tour reservation system for Citra’s travel agency. Justify and give reasons on your chosen process model. 									[4 marks]
 
-## Testing
-Testing is a fundamental component of XYZ Corporation's software development life cycle. They implement various testing techniques to detect defects and ensure the reliability of the CRM Pro software. This includes functional testing to verify that the software meets specified requirements, integration testing to validate the interaction between different system components, and performance testing to evaluate the system's responsiveness under varying workloads. Additionally, XYZ Corporation conducts security testing to identify vulnerabilities and protect customer data from potential threats.
 
-## Case Study Questions
 
-1. What is the purpose of software verification in the context of XYZ Corporation's CRM Pro software?
-2. How does XYZ Corporation validate that the CRM Pro software meets customer expectations and requirements?
-3. Which testing technique is used by XYZ Corporation to validate the interaction between different components of the CRM Pro software?
-4. What activities does XYZ Corporation perform during the verification process to ensure the accuracy and completeness of the CRM Pro software?
-5. How does XYZ Corporation gather feedback from end-users and stakeholders to validate the functionality of the CRM Pro software?
-6. What types of testing are conducted by XYZ Corporation to detect defects and ensure the reliability of the CRM Pro software?
-7. How does XYZ Corporation ensure the security of customer data in the CRM Pro software?
-8. What role does usability testing play in XYZ Corporation's validation process for the CRM Pro software?
-9. How does XYZ Corporation utilize static code analysis tools during the verification phase of the CRM Pro software development?
-10. Which testing technique does XYZ Corporation employ to evaluate the responsiveness of the CRM Pro software under varying workloads?
-
-Please note that the questions are open-ended, allowing for more detailed responses and discussions.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
