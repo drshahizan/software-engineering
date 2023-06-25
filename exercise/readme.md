@@ -38,9 +38,9 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Exam question collection
 
-| Set | Topic |  Title |File |
-| :-----: |  ------ | ------ | :-----: | 
-| 1 | Use case | Hospital Management System | <a href="./uml/uc/uc1.md" ><img src="../images/ucase.png" width="24px" height="24px" ></a> |
+| Set | Topic |File |
+| :-----: |  ------   | :-----: | 
+| 1 | Use case  | <a href="./uml/uc/uc1.md" ><img src="../images/ucase.png" width="24px" height="24px" ></a> |
 
 
 ## Contribution 🛠️
