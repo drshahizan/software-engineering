@@ -40,7 +40,7 @@ Don't forget to hit the :star: if you like this repo.
 
 | Set | Topic |File |
 | :-----: |  ------   | :-----: | 
-| 1 | Use case  | <a href="./uml/uc/uc1.md" ><img src="../images/ucase.png" width="24px" height="24px" ></a> |
+| 1 | Use case  | <a href="./exam/struc1.md" ><img src="../images/ucase.png" width="24px" height="24px" ></a> |
 
 
 ## Contribution 🛠️
