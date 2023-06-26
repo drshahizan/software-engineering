@@ -181,11 +181,12 @@ The choice of tools, technologies, and frameworks will depend on the specific re
 
 
 ## 3. Implementation:
-### A)Detail the specific tasks and activities undertaken by our group:
+### A) Detail the specific tasks and activities undertaken by our group:
 - <b>Create Project Plan</b>: Set up a meeting with all group member to decide the software system to be develop. Determine the role of each member and have a rough plan for this project.
   ![image](https://github.com/drshahizan/software-engineering/assets/129196395/1b3433fe-681f-4a9f-b821-742af882a2be)
 - <b>Find Stakeholders</b>: Deciding who's is our stakeholder for our system that called Student Feedback System in Faculty of Computing, University Technology Malaysia.
-  ![image](https://github.com/drshahizan/software-engineering/assets/129196395/e8a75f2a-ed89-40ea-b231-6ca9b27e83de)
+  ![image](https://github.com/drshahizan/software-engineering/assets/129235577/fc6e13d4-1b99-42a8-82b2-4fcbfb08fb85)
+
 - <b>Create Proposal</b>: We create a proposal to briefly describe the student feedback system.
   
 - <b>Create UML Diagram</b>: Create Use case Diagram,Class Diagram,Sequence diagram and Activity Diagram.
@@ -243,13 +244,15 @@ Design System & Typography:
  
 - <b>Create System Test Documentation</b>
 
-### B)An overview of the software components or modules developed:
+### B) An overview of the software components or modules developed:
 
-- Component Model: ![image](https://github.com/drshahizan/software-engineering/assets/129235577/b2071865-4a92-4e93-a59a-e4144317c1ac)
+- Component Model:
+![image](https://github.com/drshahizan/software-engineering/assets/129235577/b2071865-4a92-4e93-a59a-e4144317c1ac)
   
-- Complete Package Diagram: ![image](https://github.com/drshahizan/software-engineering/assets/129235577/a9720ae1-f289-4bef-88da-ec58e1814be2)
+- Complete Package Diagram:
+![image](https://github.com/drshahizan/software-engineering/assets/129235577/a9720ae1-f289-4bef-88da-ec58e1814be2)
 
-### C)The challenges faced during the implementation phase:
+### C) The challenges faced during the implementation phase:
 - Integration Issues: As different team members worked on separate modules, integrating all theindividual components posed challenges. We addressed this by regularly conducting integration testing and maintaining clear communication among team members by doing scrumpt meetings to ensure seamless integration.
 - Changing Requirements: Throughout the implementation phase, there were instances where the requirements evolved or changed. We addressed this challenge by maintaining flexibility in our design and implementation, embracing agile methodologies, and having open communication with the project stakeholders to adapt to the changing requirements.
 
@@ -291,7 +294,7 @@ Design System & Typography:
 ## 5. Results and Achievements:
 We are pleased to present the significant outcomes and achievements of our Student Feedback System project. The software solution has proven to be highly successful in enhancing the feedback process for students, faculty, and administration. The design theme of our system closely resembles our university and gives users a sense of familiarity which took effect and allowed users to enjoy using our newly updated Student Feedback System.
 
-We collected both quantitative and qualitative data during the evaluation process, which demonstrates the effectiveness of our system. Quantitatively, more students are willing to participate in using the Student Feedback System compared to before. This signifies the software's ability to streamline the feedback process and encourage active participation from the student body. Qualitatively, the feedback received from stakeholders and users has been overwhelmingly positive and we are glad that our project has received such success.
+We collected both quantitative and qualitative data during the evaluation process, which demonstrates the effectiveness of our system. Quantitatively, more students are said to be more willing to participate in using the Student Feedback System compared to before. This signifies the software's ability to streamline the feedback process and encourage active participation from the student body. Qualitatively, the feedback received from stakeholders and users has been overwhelmingly positive regarding the design choices and functionalities we provided which the old ePPP system does not have. For example, functionalities such as being able to review previous submitted feedback, being one of the supposedly crucial functionality, attracts our users' eye and is commended for solving inconveniences in the old system. We are glad that our project has received such success.
 
 During the evaluation process, we actively sought feedback from various stakeholders, including students, lecturers, and administrators, to gauge their opinions and gather valuable insights. Students expressed their appreciation for the Student Feedback System, highlighting its user-friendly interface, accessibility across devices, and seamless submission process. They emphasized the system's contribution to their ability to provide detailed and timely feedback, leading to a more enriching learning experience. Lecturers found the system to be a valuable tool in understanding student perspectives, facilitating improvements in their teaching methodologies, and identifying areas for course refinement. They praised the system's comprehensive analytics and reporting capabilities, which provided them with actionable insights and helped them make data-driven decisions. Administrators recognized the Student Feedback System as an effective means of measuring teaching effectiveness and gauging student satisfaction. They lauded its ability to generate detailed reports and aggregate feedback, enabling them to identify trends and implement targeted interventions. The feedback received from these stakeholders played a pivotal role in refining and enhancing the system, ensuring its alignment with the unique requirements and expectations of each user group.
 
