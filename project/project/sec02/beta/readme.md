@@ -191,7 +191,7 @@ By leveraging the Agile methodology, we can effectively address the specific req
   <li><b>Compatibility Testing</b>: Compatibility testing verifies that the food ordering system works seamlessly across different platforms, browsers, and devices. Testers ensure that the system functions correctly on popular web browsers (Chrome, Firefox, Safari, etc.), operating systems (Windows, iOS, Android), and mobile devices (phones, tablets). This ensures a consistent experience for all users.</li><br>
  
 </ol> 
-- Discuss the types of testing conducted (e.g., unit testing, integration testing, etc.).
+
 ### Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
   <ol>
   <li><b>Requirement Analysis</b>: Quality assurance starts with a thorough analysis of the system's requirements. QA professionals collaborate with stakeholders to define clear and comprehensive requirements, ensuring that they are accurate, unambiguous, and aligned with the business objectives. This step helps prevent misunderstandings and reduces the likelihood of functional gaps or misinterpretations during development.</li><br>
