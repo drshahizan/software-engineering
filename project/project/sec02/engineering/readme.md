@@ -139,7 +139,31 @@ The Parcel Delivery System has the potential to revolutionize our organization's
 
 
 ## 2. Methodology:
+The approach and methodologies utilized for the development of the Parcel Delivery System are as follows:
 
+1. Agile Development: Adopt an Agile approach to enable iterative and incremental development, allowing for flexibility and adaptability to evolving requirements. This methodology promotes collaboration, frequent feedback, and continuous improvement throughout the project lifecycle.
+
+2. Scrum: Implement the Scrum framework, which consists of time-boxed iterations called sprints, daily stand-up meetings, sprint planning, and sprint reviews. This approach facilitates efficient project management, prioritization of tasks, and regular communication among team members, stakeholders, and users.
+
+3. Software Development Life Cycle (SDLC): Follow an Agile SDLC model that aligns with the iterative and incremental development approach. The SDLC stages include requirements gathering, design, development, testing, deployment, and maintenance. This ensures a systematic and structured approach to the development process, with continuous feedback and improvement at each stage.
+
+Tools, Technologies, and Frameworks:
+
+Several tools, technologies, and frameworks will be employed during the development of the Parcel Delivery System. These include:
+
+1. Version Control: Use Git and GitHub for version control, allowing for effective collaboration, code management, and tracking of changes.
+
+2. Integrated Development Environment (IDE): Utilize a suitable IDE such as Visual Studio Code (VS Code) for coding, debugging, and collaboration among the development team.
+
+3. Design and Prototyping: Leverage tools like Figma for creating wireframes, mockups, and interactive prototypes. This aids in visualizing and refining the user interface (UI) and user experience (UX) of the system.
+
+4. Front-end Development: Utilize modern front-end technologies such as HTML, CSS, and JavaScript, along with popular frameworks like React or Angular, to build a responsive and user-friendly web interface for the Parcel Delivery System.
+
+5. Back-end Development: Employ a suitable programming language like Python or Node.js for server-side development. Utilize frameworks like Django or Express.js to handle data processing, API integrations, and business logic implementation.
+
+6. Database Management: Utilize a reliable database management system (DBMS) such as MySQL  to store and retrieve data related to parcels, users, delivery details, and other relevant information.
+
+By adopting this methodology and utilizing appropriate tools and technologies, the development team can ensure efficient collaboration, effective project management, and the delivery of a robust and user-friendly Parcel Delivery System.
 
 
 ## 3. Implementation:
