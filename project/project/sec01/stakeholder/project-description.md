@@ -14,8 +14,13 @@
 - Provide an overview of the software components or modules developed.
 - Describe any challenges faced during the implementation phase and how you addressed them.
 
-### 3.1 User Interface Design
+## Information Architecture
+- [View our Information Architecture](https://www.figma.com/file/8A6rSJ9SMKn2oQ3BkmWdLM/Information-Architecture?type=whiteboard&node-id=0%3A1&t=oXyeua8TtdOi9the-1)
+![Image](https://github.com/drshahizan/software-engineering/assets/118497269/3befc7eb-0755-4f31-8fe3-17d607da99d6)
 
+## Typography
+### Authentication module
+- **Roboto**: Light, Regular, Medium, Bold
 
 ## 4. Testing and Quality Assurance:
 - Explain the testing strategies and techniques employed.
