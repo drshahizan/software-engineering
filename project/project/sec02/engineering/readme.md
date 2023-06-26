@@ -123,7 +123,8 @@ The primary objective of the Parcel Delivery System is to streamline and enhance
 
 ## 3. Implementation:
 Low Fidelity Wireframes:
-![low(1)](https://github.com/drshahizan/software-engineering/assets/128160230/24e263d6-a3d9-4a18-b349-9d512f20a53c)
+![low(1)](https://github.com/drshahizan/software-engineering/assets/128160230/f2b3cbe9-4ab1-4f0f-88cc-59c9068fd51f)
+
 
 High Fidelity Wireframes:
 ![12](https://github.com/drshahizan/software-engineering/assets/128160230/aad223d9-bbd4-4925-9252-59752b8f0adb)
