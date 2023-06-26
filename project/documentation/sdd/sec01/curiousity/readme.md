@@ -88,11 +88,11 @@ Don't forget to hit the :star: if you like this repo.
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 13/06/2023| Low Ying Xi | Project Manager | Create SDD document | Complete |
 | 2 | 15/06/2023| Low Ying Xi | Project Manager | Distribute task | Complete |
-| 3 | 16/06/2023 | Low Ying Xi  | Project Manager | Create system architecture design | Incomplete |
-| 4 | 16/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui  | Project Manger, Documentation Specialist, Developer, User Experience Designer | Create detailed description of modules | Incomplete |
-| 5 | 16/06/2023 | Ng Shu Yu | Documentation Specialist | Cretae Data Design | Incomplete |
-| 6 |  17/06/2023 | Camily Tang Jia Lei, Koh Li Hui |Developer, User Experience Designer | Create User Interfaces Design | Incomplete |
-| 7 |  17/06/2023 | Camily Tang Jia Lei, Koh Li Hui |Developer, User Experience Designer | Create Requirement Matrix | Incomplete |   
+| 3 | 16/06/2023 | Low Ying Xi  | Project Manager | Create system architecture design | Complete |
+| 4 | 16/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui  | Project Manger, Documentation Specialist, Developer, User Experience Designer | Create detailed description of modules | Complete |
+| 5 | 16/06/2023 | Ng Shu Yu | Documentation Specialist | Cretae Data Design | Complete |
+| 6 |  17/06/2023 | Camily Tang Jia Lei, Koh Li Hui |Developer, User Experience Designer | Create User Interfaces Design | Complete |
+| 7 |  17/06/2023 | Camily Tang Jia Lei, Koh Li Hui |Developer, User Experience Designer | Create Requirement Matrix | Complete |   
 | 8 | 20/06/2023 | Ng Shu Yu | Documentation Specialist | Finalize the SDD |Incomplete | 
 
 
