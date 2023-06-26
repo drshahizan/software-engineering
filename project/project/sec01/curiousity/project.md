@@ -218,15 +218,12 @@ Solutions:
 - Event descriptions
 
 ### 3. Software Components & Modules
-- Provide an overview of the software components or modules developed.
 #### Component Model:
 <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/component%20diagram.jpg?raw=true" alt="usecase" height="500px"></img>
 #### Use Case Diagram:
 <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/use%20case.jpg?raw=true" alt="usecase" height="500px"></img>
 #### Complete Package Diagram:
 <img src="complete_package_diagram.jpg" alt="package" height="500px"></img>
-
-- Analysis
 
 ### 4. Design Phase
 - low fidenity
