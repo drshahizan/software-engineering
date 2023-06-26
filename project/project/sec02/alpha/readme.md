@@ -203,6 +203,7 @@ Time: 2 pm
 
 #### Meeting with stakeholder 2 (Puan Rosnani bt Katip)
 First meeting
+
 <img src="https://user-images.githubusercontent.com/128108090/237021925-f29b22b3-10ce-46c7-b927-3e447dd3cae8.jpg" alt=""  height="350px" weight="200px"/></a>
 
 Venue: Pejabat KTDI M01
@@ -210,6 +211,7 @@ Date: 19 April 2023
 Time: 2:35 pm
 
 Second meeting
+
 <img src="https://user-images.githubusercontent.com/128160553/240615112-ad98b302-8925-4fd5-a384-5041335f1785.jpg" alt="" height="350px" weight="200px"/></a>
 
 Venue: Pejabat KTDI M01
