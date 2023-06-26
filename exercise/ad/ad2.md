@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Instructions
 - Please use the [answer template](temp_struc.md).
-- Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../uml/submission/sec01) or [`submission/sec02`](../uml/submission/sec02) folder, create a folder with your GitHub ID. Name the file as `val1.md`.
+- Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../uml/submission/sec01) or [`submission/sec02`](../uml/submission/sec02) folder, create a folder with your GitHub ID. Name the file as `ad2.md`.
 
 ### Folder structure
 
@@ -31,34 +31,57 @@ Don't forget to hit the :star: if you like this repo.
 └── 📁your github id
 ```
 
-# Case Study: Software Verification, Validation, and Testing
+# Case Study: Hospital Management System
 
-## Background
-XYZ Corporation is a leading provider of enterprise software solutions. They have recently developed a new Customer Relationship Management (CRM) software called "CRM Pro" to help businesses manage their customer interactions effectively. As part of their commitment to delivering high-quality software, XYZ Corporation has implemented a robust verification, validation, and testing process.
+## Overview
+A Hospital Management System is being developed to streamline the operations and improve patient care in a healthcare facility. The system follows the 4 + 1 View Model of software architecture to ensure a modular and scalable design. Let's delve into the case study and explore various aspects of the system.
 
-## Verification
-XYZ Corporation performs thorough verification activities to ensure the accuracy and completeness of the CRM Pro software. They conduct reviews of the software design, specifications, and coding standards. This includes analyzing the architecture, checking for adherence to industry best practices, and ensuring compliance with relevant regulatory requirements. They utilize tools for static code analysis and conduct code inspections to identify any potential defects, inconsistencies, or code quality issues.
+### Logical View
+The logical view of the Hospital Management System focuses on the functional aspects of the system. It encompasses components such as patient registration, appointment scheduling, medical records management, billing, and inventory management. The logical view ensures that the system's functionality is well-structured and easy to maintain.
 
-## Validation
-Validation is a critical aspect of the software development process for XYZ Corporation. They aim to validate that the CRM Pro software meets the specific needs of their customers and aligns with their expectations. Through a series of user-centric activities, such as usability testing and user acceptance testing (UAT), XYZ Corporation gathers feedback from end-users and stakeholders. This feedback helps identify areas for improvement, validate the software's functionality, and ensure it effectively addresses customer requirements.
+### Development View
+The development view in the Hospital Management System deals with the software development aspects. It includes components such as programming languages, frameworks, databases, and development tools. The development view ensures that the system is developed using industry best practices and facilitates collaboration among developers.
 
-## Testing
-Testing is a fundamental component of XYZ Corporation's software development life cycle. They implement various testing techniques to detect defects and ensure the reliability of the CRM Pro software. This includes functional testing to verify that the software meets specified requirements, integration testing to validate the interaction between different system components, and performance testing to evaluate the system's responsiveness under varying workloads. Additionally, XYZ Corporation conducts security testing to identify vulnerabilities and protect customer data from potential threats.
+### Process View
+The process view illustrates the dynamic behavior of the Hospital Management System. It showcases how different components interact during runtime. For instance, it captures the flow of activities when a patient schedules an appointment, undergoes medical procedures, and receives billing information. The process view helps in understanding the system's behavior and performance.
 
-## Case Study Questions
+### Physical View
+The physical view of the Hospital Management System focuses on the deployment and distribution of system components. It includes hardware infrastructure, network configuration, servers, and databases. The physical view ensures that the system is deployed in an optimized manner, considering factors such as scalability, reliability, and security.
 
-1. What is the purpose of software verification in the context of XYZ Corporation's CRM Pro software?
-2. How does XYZ Corporation validate that the CRM Pro software meets customer expectations and requirements?
-3. Which testing technique is used by XYZ Corporation to validate the interaction between different components of the CRM Pro software?
-4. What activities does XYZ Corporation perform during the verification process to ensure the accuracy and completeness of the CRM Pro software?
-5. How does XYZ Corporation gather feedback from end-users and stakeholders to validate the functionality of the CRM Pro software?
-6. What types of testing are conducted by XYZ Corporation to detect defects and ensure the reliability of the CRM Pro software?
-7. How does XYZ Corporation ensure the security of customer data in the CRM Pro software?
-8. What role does usability testing play in XYZ Corporation's validation process for the CRM Pro software?
-9. How does XYZ Corporation utilize static code analysis tools during the verification phase of the CRM Pro software development?
-10. Which testing technique does XYZ Corporation employ to evaluate the responsiveness of the CRM Pro software under varying workloads?
+### Use Case View
+The use case view identifies the functional requirements from the user's perspective. It captures various use cases such as patient registration, appointment booking, medical report generation, and inventory management. The use case view helps in understanding the system's interactions with different user roles and their corresponding functionalities.
 
-Please note that the questions are open-ended, allowing for more detailed responses and discussions.
+## Structured Questions
+
+1. What is the primary focus of the logical view in the Hospital Management System?
+   
+2. Which view in the 4 + 1 View Model of software architecture deals with software development aspects?
+
+3. What does the process view of the Hospital Management System illustrate?
+
+4. Which view in the 4 + 1 View Model of software architecture focuses on the deployment and distribution of system components?
+
+5. What is the purpose of the use case view in the Hospital Management System?
+
+6. Which components are included in the logical view of the Hospital Management System?
+
+7. What does the development view of the Hospital Management System include?
+
+8. How does the process view help in understanding the Hospital Management System?
+
+9. What aspects are covered in the physical view of the Hospital Management System?
+
+10. Which view focuses on capturing the functional requirements from the user's perspective?
+
+11. How does the logical view ensure the system's functionality is well-organized?
+
+12. What is the significance of the development view in the Hospital Management System?
+
+13. How does the process view showcase the dynamic behavior of the system?
+
+14. What does the physical view consider in the deployment and distribution of system components?
+
+15. Which view in the 4 + 1 View Model ensures modularity and scalability of the Hospital Management System?
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
