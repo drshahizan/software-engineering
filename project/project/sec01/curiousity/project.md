@@ -169,7 +169,6 @@ Solutions:
 - Distribution of tasks to members
 - Post-event report
 
-
 #### Meeting with JKM KTDI (Lim Shi Kai)
 <img src="https://user-images.githubusercontent.com/129201809/236986877-e485f15d-3268-41da-9e4f-f854e21eaec6.jpg" alt="Sky" height="500px"></img><br>
 At 9 a.m. of 4 May 2023, we had a meeting with Shi Kai at M01, KTDI to discuss about the requirements, wants, and needs of JKM KTDI in doing their pre, during, and post event preparation.
@@ -182,8 +181,6 @@ Problems:
 Solutions:
 - Calendar for annual event
 - Plan events for the year in advance
-
-
 
 #### Meeting with student (Nadia Syahadah Binti Saharudin)
 <img src="https://user-images.githubusercontent.com/129201809/240615920-b4dbd2b9-b736-4289-85e4-da75df7c90d7.jpg" alt="Sky" height="500px"></img><br>
@@ -222,6 +219,7 @@ Solutions:
 - Component Model:
 #### Use Case Diagram:
 <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/use%20case.jpg?raw=true" alt="usecase" height="500px"></img>
+
 #### Complete Package Diagram:
 <img src="complete_package_diagram.jpg" alt="package" height="500px"></img>
 
@@ -231,22 +229,22 @@ Solutions:
 - low fidenity
 
 ### 5. Design System
-#### Colour Codes
+#### Colour Codes:
 <img src="color.jpg" alt="color" height="100px"></img>
 
-#### Components
+#### Components:
 <img src="component.jpg" alt="component" height="350px"></img>
 
-#### Home Screen
+#### Home Screen:
 <img src="homepage.png" alt="homepage" height="350px"></img>
 
-#### Flow for Students
+#### Flow for Students:
 <img src="student_flow.png" alt="student" height="350px"></img>
 
-#### Flow for JKM KTDI
+#### Flow for JKM KTDI:
 <img src="jkm_flow.png" alt="jkm" height="500px"></img>
 
-#### Flow for KTDI Staff
+#### Flow for KTDI Staff:
 <img src="staff_flow.png" alt="staff" height="500px"></img>
 
 ### 6. Challenges
