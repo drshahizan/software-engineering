@@ -226,7 +226,7 @@ Solutions:
 - Component Model:
 - Use Case Diagram:
 #### Complete Package Diagram:
-<img src="complete_package_diagram.jpg" alt="color" height="100px"></img>
+<img src="complete_package_diagram.jpg" alt="color" height="500px"></img>
 
 - Analysis
 
