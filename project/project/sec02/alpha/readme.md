@@ -241,7 +241,7 @@ Time: 8.30pm
 ## 6. Testing and Quality Assurance:
 Testing and quality assurance play a crucial role in ensuring the reliability and robustness of the software. The following are the testing strategies and techniques employed in the project. 
 
-#### 4.1 Testing Strategies and Techniques
+#### 6.1 Testing Strategies and Techniques
 
 | Strategy                         | Technique                                        |
 |----------------------------------|--------------------------------------------------|
@@ -250,7 +250,7 @@ Testing and quality assurance play a crucial role in ensuring the reliability an
 | Integration Testing              | Verifying interaction between system modules     |
 | User Acceptance Testing (UAT)    | Testing from the end-users perspective           |
 
-#### 4.2 Types of Testing Conducted
+#### 6.2 Types of Testing Conducted
 
 | Type of Testing    | Description                                                            |
 |--------------------|------------------------------------------------------------------------|
@@ -262,7 +262,7 @@ Testing and quality assurance play a crucial role in ensuring the reliability an
 
 In order to ensure the reliability and robustness of the software, quality assurance processes have been implemented.
 
-#### 4.3 Quality Assurance Processes:
+#### 6.3 Quality Assurance Processes:
 - Continuous Integration (CI) is implemented to automatically build, test and integrate code changes into a shared repository. It helps detect and address integration issues early on
 - Regular checkpoints are established during the development process to ensure that quality standards are met at each stage
 - Thorough documentation is created to guide users and developers, ensuring clarity and consistency in system usage and maintenance
