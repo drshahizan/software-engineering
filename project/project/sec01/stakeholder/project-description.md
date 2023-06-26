@@ -26,15 +26,13 @@
 - **Montserrat**: Regular, Medium. Semibold, Bold
 
 ## User Interface Design
-- Student user interfaces:
+- Student user interfaces: 32 pages
+- Fellow user interfaces: 13 pages
+- Staff user interfaces: 21 pages
+- Admin user interfaces: 18 pages
+- Authentication user interfaces: 9 pages
 
-- Fellow user interfaces:
-
-- Staff user interfaces:
-
-- Admin user interfaces:
-
-
+- [View our system UI here](https://www.figma.com/file/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=0%3A1&mode=design&t=h7kBojJadeGGPpzn-1)
 
 ## User Prototype
 - [Interact with our system prototype](https://www.figma.com/proto/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=1058-6947&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1058%3A6947&mode=design)
