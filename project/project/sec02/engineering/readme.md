@@ -120,6 +120,19 @@ The primary objective of the Parcel Delivery System is to streamline and enhance
 3. Enhancing security: Implement robust security measures to protect parcel and user data from unauthorized access and cyber threats.
 4. Improve user experience: Create an intuitive and engaging interface with clear instructions, informative feedback, and proactive notifications for a seamless and satisfying user experience.
 
+## Problem Statement
+
+The current parcel delivery process within our organization faces several challenges. Manual tracking and management of parcels result in errors, delays, and inefficiencies. Lack of real-time tracking and communication hampers the ability to provide accurate and timely updates to customers. Additionally, the absence of an integrated system makes it difficult to manage and monitor the entire delivery process effectively. 
+
+## Solution Overview
+
+The Parcel Delivery System will be a web-based application accessible through desktop and mobile devices. It will feature a user-friendly interface for administrators, delivery personnel, and customers. The system will incorporate functionalities such as parcel creation, real-time tracking, delivery scheduling, notifications, and reporting.
+
+Administrators will have access to a dashboard where they can manage parcel assignments, track deliveries, and generate reports. Delivery personnel will utilize a mobile application to receive assigned parcels, update delivery status, and communicate with administrators and customers. Customers will have a web portal to track their parcels, receive notifications, and provide feedback.
+
+## Significance and Potential Impact
+
+The Parcel Delivery System has the potential to revolutionize our organization's parcel management and delivery operations. By automating and optimizing the process, we can expect significant improvements in efficiency, accuracy, and customer satisfaction. The system will provide real-time visibility, enhance communication, and streamline administrative tasks, resulting in faster and more reliable deliveries. The proposal aims to outline the system's features, benefits, and implementation plan, demonstrating its potential to transform our parcel delivery operations and meet the evolving needs of our organization and customers.
 
 
 
