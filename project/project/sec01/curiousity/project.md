@@ -43,6 +43,8 @@
 - Analysis
 - User Case Diagram
 
+###Challenges
+- Describe any challenges faced during the implementation phase and how you addressed them
 ## Testing and Quality Assurance
 - Explain the testing strategies and techniques employed.
 
