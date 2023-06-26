@@ -59,10 +59,10 @@ A hospital wants to develop a comprehensive Hospital Management System to stream
 ### Multiple-Choice Questions (MCQs):
 
 1. Which component of the Hospital Management System handles the presentation layer and user interaction?
-   a) User Interface
-   b) Business Logic
-   c) Data Access Logic
-   d) Database
+   -a) User Interface
+   -b) Business Logic
+   -c) Data Access Logic
+   -d) Database
 
 2. Which programming languages are commonly used for implementing the business logic of a Hospital Management System?
    a) HTML and CSS
