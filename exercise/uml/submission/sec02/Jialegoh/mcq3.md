@@ -24,23 +24,23 @@ Don't forget to hit the :star: if you like this repo.
 6. C
 7. D
 8. B
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
+9. D
+10. C
+11. D
+12. C
+13. C
+14. D
+15. B
+16. D
+17. D
+18. C
+19. A
+20. B
+21. C
+22. C
+23. D
+24. C
+25. D
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

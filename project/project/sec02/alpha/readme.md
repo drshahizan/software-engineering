@@ -9,6 +9,24 @@
 
 Don't forget to hit the :star: if you like this repo.
 
+### 🔖Table of Contents🔖
+* [Table of Contents](#table-of-contents)
+* [Introduction](#introduction)
+* [Objective](#objective)
+* [Problem Statement](#problem-statement-or-the-need-the-project-aims-to-address)
+* [Potential Impact](#significance-and-potential-impact-of-the-project)
+* [Methodology](#2-methodology)
+* [Implementation](#3-implementation)
+* [Timeline process](#timeline-process)
+* [Requirement collection](#requirement-collection)
+* [Software components & modules](#software-components-or-modules)
+* [Design phase](#design-phase)
+* [Design system](#design-system)
+* [Challenges](#challenges-faced-and-solutions)
+* [Testing and Quality Assurance](#4-testing-and-quality-assurance)
+* [Results and Archievements](#5-results-and-achievements)
+* [Conclusion](#6-conclusion)
+
 # Activity: Group Alpha
 
 ## Group Members
@@ -63,7 +81,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-## 1. Introduction:
+## Introduction
   The Kolej Tun Dr. Ismail College room rental system project aims to develop a web-based system that allows students to easily request and rent college rooms. The system will automatically calculate the rental price based on the type of room and the number of days the student will stay. After the application is approved, the student will then pay for the room. 
 
   The main goal of the system is to simplify the college room rental process and ensure timely and accurate payment processing. The system will be developed using a web-based architecture and require full-stack web development expertise. The project team will consist of a main developer, a business analyst, a quality assurance engineer, a UI/UX designer, a database administrator, and an assistant developer. The project will require workstations, a server or cloud infrastructure, and various software tools such as an IDE, front-end, web frameworks, and testing frameworks. The project will also require other expenses such as internet access and office supplies.
@@ -76,12 +94,13 @@ Don't forget to hit the :star: if you like this repo.
 - Improve user experience by providing a better user experience by offering features such as room choices, and user feedback. The system will ensure that any issues or concerns can be addressed in a timely manner.
 
 ### Problem statement or the need the project aims to address.
-The project aims to solve the problems associated with renting rooms to college students. Currently, the process is inefficient and causes confusion. The key issues include:
-- Room Allocation: Assigning suitable rooms to students based on their preferences and availability is difficult and can lead to dissatisfaction and conflicts.
-- Transparency and Accessibility: Students struggle to access information about available rooms, rates, and facilities, which hampers their decision-making process.
-- Administrative Burden: Managing room rentals manually is time-consuming for college administrators, resulting in a waste of resources.
-- Communication and Conflict Resolution: Inadequate communication channels and dispute resolution mechanisms contribute to conflicts between roommates and students and the administration.
-- Optimization and Resource Utilization: The current systems lack tools to monitor room occupancy, optimize allocation, and effectively use available resources.
+| Problem                                         | Solution                                                     |
+|-------------------------------------------------|--------------------------------------------------------------|
+| Room Allocation                                 | Automate room assignment based on student preferences and availability.                                             |
+| Transparency and Accessibility                  | Provide students with access to information on available rooms, rates, and facilities through a user-friendly interface. |
+| Administrative Burden                           | Automate administrative tasks such as rental agreements, payment processing, and report generation.                   |
+| Communication and Conflict Resolution           | Implement communication channels and dispute resolution mechanisms to facilitate better interaction and conflict resolution. |
+| Optimization and Resource Utilization           | Monitor room occupancy, optimize allocation and effectively utilize available resources through data-driven insights.   |
 
  ### Significance and potential impact of the project.
   The college room rental system seeks to solve these problems by automating the rental process, making it easier for students to find and rent rooms, and for staff to manage their rental properties. The system will be accessible from any device with an internet connection, making it convenient for students to search for available rooms and make reservations at any time.

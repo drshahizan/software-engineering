@@ -64,9 +64,11 @@ Don't forget to hit the :star: if you like this repo.
 </table>
 
 ## 1. Introduction:
-- Briefly explain the purpose and objectives of the project.
-- Describe the problem statement or the need the project aims to address.
-- Outline the significance and potential impact of the project.
+- Our proposed Badal Hajj and Umrah Management System is an innovative solution designed to facilitate and simplify the registration and handling of bulk data process for the management of the company. The system leverages cutting-edge technologies and best practices to deliver a seamless user experience that enables clients to easily register their information using the system and can get the all document needed in a short period of time. For the user experience on the management side, they can easily monitor and handle bulk data without losing or overlooking client information. Key features of this system include real-time processed documents, automatic data handling and management and real-time payment. Ultimately, our Badal Hajj and Umrah Management System will deliver measurable value to all stakeholders, including an increase in client satisfaction, improved workflow of the management and enhanced management of bulk data. By investing in this system, the company will have a smooth and better workflow thus increasing the efficiency of the company.
+  
+- Badal Hajj is the act of performing Hajj for other people that cannot do Hajj on their own under some circumstances. The time for doing the Badal Hajj is as same as Hajj which is once a year unlike doing Umrah. However, the current manual system which is 80% handled by humans can be cumbersome, time-consuming and error-prone. The process is characterized by long waiting, paper-based form, use of WhatsApp to send and get the information and human error likely to occur due to managing bulk data. This manual system often results in delays, errors and frustration for both company and the client, leading to a negative impact on the overall company's name.
+  
+- The proposed Badal Hajj and Umrah Management System have the potential to significantly improve the overall workflow experience for the company and client. By reducing the management burden of manual processes, the proposed system will save time, reduce errors and increase client satisfaction. Additionally, the system will provide valuable help to manage all the data that have been received by the client. Overall, the proposed system has the potential to smooth out and simplify the workflow thus can increase the company management efficiency.
 
 ## 2. Methodology:
 - Describe the approach and methodologies utilized to tackle the project.
