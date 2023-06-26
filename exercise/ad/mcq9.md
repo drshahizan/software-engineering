@@ -96,9 +96,7 @@ The use case view focuses on capturing the functional requirements of the system
    - d. Use cases and user authentication
 
 8. The process view of the online shopping application illustrates:
-   - a. The flow of
-
- activities when a user adds items to the cart
+   - a. The flow of activities when a user adds items to the cart
    - b. The hardware and network infrastructure
    - c. The deployment and distribution of the system components
    - d. The functional requirements from the user's perspective
