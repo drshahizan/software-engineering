@@ -114,21 +114,22 @@ Don't forget to hit the :star: if you like this repo.
 - Highlight any specific tools, technologies, or frameworks employed during the project.
 
 #### Approach
-- Agile Development : Adopt an Agile approach to enable iterative and inremental development, ensuring flexibility and adaptability to changing requirements.
-- Collaborative Development : Emphasizes collaboration and communication among team members, stakeholders, and users throughout the project lifecycle.
+- Agile Development: Adopt an Agile approach to enable iterative and inremental development, ensuring flexibility and adaptability to changing requirements.
+- Collaborative Development: Emphasizes collaboration and communication among team members, stakeholders, and users throughout the project lifecycle.
 
 #### Methodology
-- Scrum : Implement the Scrum framework, which consists of time-boxed iterations called sprints, daily stand-up meetings, sprint planning and sprint reviews. This promotes regular feedback, transparency and continuous improvement.
+- Scrum: Implement the Scrum framework, which consists of time-boxed iterations called sprints, daily stand-up meetings, sprint planning, and sprint reviews. This promotes regular feedback, transparency and continuous improvement.
 
 #### Software Development Life Cycle (SDLC)
-- Agile SDLC : Employ an Agile software development life cycle model that aligns with the iterative and incremental development approach. This includes stages such as requirements gathering, design, development, testing, deployment and maintenace,  with continuous feedback and improvement.
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/agile.png" alt=""/></a>
+- Agile SDLC: Employ an Agile software development life cycle model that aligns with the iterative and incremental development approach. This includes stages such as requirements gathering, design, development, testing, deployment and maintenance,  with continuous feedback and improvement.
 
-#### Tools, Technologies and Frameworks
-- Version Control : Use GitHub for version control to track changes, collaborate with team members, and manage code repositories.
-- Integrated Development Environment (IDE) : Utilize Visual Studio Code (VS Code) as the primary IDE for coding, debuggging and collaboration.
-- Design and Prototyping : Leverage Figma for creating wireframes, mockups and interactive prototypes to visualize and refine the user interface and user experience.
-- Front-end Development : Implement Bootstrap framework to enhance the responsiveness and design consistency of the user interface.
-- Database Management : Utilize MySQL as the database management system to store and retrieve data related to rooms, students, reservations, payments, etc.
+#### Tools, Technologies, and Frameworks
+- Version Control: Use GitHub for version control to track changes, collaborate with team members, and manage code repositories.
+- Integrated Development Environment (IDE): Utilize Visual Studio Code (VS Code) as the primary IDE for coding, debugging, and collaboration.
+- Design and Prototyping: Leverage Figma for creating wireframes, mockups and interactive prototypes to visualize and refine the user interface and user experience.
+- Front-end Development: Implement Bootstrap framework to enhance the responsiveness and design consistency of the user interface.
+- Database Management: Utilize MySQL as the database management system to store and retrieve data related to rooms, students, reservations, payments, etc.
 
 ## 3. Implementation:
 
