@@ -195,7 +195,10 @@ High Fidelity Wireframes:
 ## 7. Prototype:
 
 ## 8. Documentations:
-
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Proposal | <a href="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Engineering" ><img src="" width="24px" height="24px" ></a>|
+|2| SRS | <a href="https://docs.google.com/document/d/1QwTmrv05YVPvNGPW8TU8pXrzIWOASwcdghV6dd_Xpos/edit" ><img src="" width="24px" height="24px" ></a>|
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
