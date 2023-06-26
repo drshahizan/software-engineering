@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Instructions
 - Please use the [answer template](temp_struc.md).
-- Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../uml/submission/sec01) or [`submission/sec02`](../uml/submission/sec02) folder, create a folder with your GitHub ID. Name the file as `ad3.md`.
+- Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../uml/submission/sec01) or [`submission/sec02`](../uml/submission/sec02) folder, create a folder with your GitHub ID. Name the file as `ad4.md`.
 
 ### Folder structure
 
@@ -31,56 +31,152 @@ Don't forget to hit the :star: if you like this repo.
 └── 📁your github id
 ```
 
-## Scenario: Online Banking System
+# Case Study: Hospital Management System
 
-A banking organization is developing an Online Banking System to provide its customers with convenient and secure access to their accounts and banking services. The system follows the 4 + 1 View Model of software architecture to ensure a comprehensive and well-structured design.
+## Problem Statement:
+A hospital wants to develop a comprehensive Hospital Management System to streamline their administrative and medical processes. The system should include modules for patient management, appointment scheduling, medical records management, billing and invoicing, and inventory management. The system should have an intuitive user interface and ensure data accuracy, security, and efficiency.
 
-### Logical View
-The logical view of the Online Banking System focuses on the functional aspects of the system. It includes components such as user authentication, account management, funds transfer, bill payment, and transaction history. The logical view ensures that the system's functionality is well-organized and easy to maintain.
+## Architectural Design:
 
-### Development View
-The development view in the Online Banking System deals with the software development aspects. It encompasses programming languages, frameworks, databases, and development tools used to build the system. The development view ensures that the system is developed using industry best practices and enables collaboration among developers.
+| Component          | Description                                                                                   | Tool/Software Recommendation     |
+|--------------------|-----------------------------------------------------------------------------------------------|----------------------------------|
+| User Interface     | Develop a web-based interface using HTML, CSS, and JavaScript. The interface should provide forms and pages for patient registration, appointment scheduling, medical records management, billing, and inventory management. It should communicate with the backend components through REST APIs.                           | React, Angular, Vue.js            |
+| Business Logic     | Implement the business logic using a server-side programming language like Java or Python. The logic should handle patient management, appointment scheduling, medical records management, billing, and inventory management. It should enforce business rules, validate inputs, and coordinate operations between different modules. Use appropriate design patterns to maintain modularity and scalability. | Java Spring Boot, Django, Node.js |
+| Data Access Logic  | Develop a data access layer to interact with the database. Use an object-relational mapping (ORM) framework like Hibernate or Django ORM to handle database operations. Implement methods to retrieve and store patient-related data, appointments, medical records, billing information, and inventory details.                           | Hibernate, Django ORM, Sequelize |
+| Database           | Use a relational database management system (RDBMS) such as MySQL, PostgreSQL, or Oracle. Create tables to store patient information, appointments, medical records, billing details, and inventory records. Establish appropriate relationships between tables using primary and foreign keys for data integrity and efficient querying.                              | MySQL, PostgreSQL, Oracle         |
 
-### Process View
-The process view illustrates the dynamic behavior of the Online Banking System. It showcases the interactions between different components during runtime, such as user login, transaction processing, and security checks. The process view helps in understanding the system's behavior, performance, and scalability.
+## System Workflow:
 
-### Physical View
-The physical view of the Online Banking System focuses on the deployment and distribution of system components. It includes hardware infrastructure, network configuration, servers, databases, and security measures. The physical view ensures that the system is deployed in an optimized and secure manner.
+- Hospital staff, such as receptionists and doctors, access the web-based user interface to perform various tasks.
+- When registering a new patient, the user interface captures patient details and sends them to the backend through a REST API.
+- The business logic component receives the patient data, performs validation, and instructs the data access logic to store the patient details in the database.
+- For appointment scheduling, the user interface displays available slots, and upon selection, sends the appointment details to the backend. The business logic validates the appointment and instructs the data access logic to update the appointment schedule.
+- Medical records management involves capturing patient diagnoses, treatments, and test results. The business logic coordinates with the data access logic to store and retrieve medical records from the database.
+- For billing and invoicing, the business logic calculates charges based on treatments, medications, and other services provided. It interacts with the data access logic to store billing details and generate invoices.
+- Inventory management involves tracking the availability of medical supplies, equipment, and medications. The business logic updates inventory records based on usage and communicates with the data access logic to ensure accurate inventory management.
+- The user interface component displays patient details, appointment schedules, medical records, billing information, and inventory status to the hospital staff.
 
-### Use Case View
-The use case view identifies the functional requirements from the user's perspective. It captures various use cases such as customer registration, balance inquiry, fund transfer, bill payment, and account statement generation. The use case view helps in understanding the system's interactions with different user roles and their corresponding functionalities.
+### Multiple-Choice Questions (MCQs):
 
-Structured Questions:
+1. Which component of the Hospital Management System handles the presentation layer and user interaction?
+   a) User Interface
+   b) Business Logic
+   c) Data Access Logic
+   d) Database
 
-1. What is the primary focus of the logical view in the Online Banking System?
+2. Which programming languages are commonly used for implementing the business logic of a Hospital Management System?
+   a) HTML and CSS
+   b) JavaScript and Python
+   c) Java and PHP
+   d) C++ and Ruby
 
-2. Which view in the 4 + 1 View Model of software architecture deals with software development aspects?
+3. Which component is responsible for interacting with the database in the Hospital Management System?
+   a) User Interface
+   b) Business Logic
+   c) Data Access Logic
+   d) Database
 
-3. What does the process view of the Online Banking System illustrate?
+4. Which tool or software is commonly used to develop the user interface of a web-based Hospital Management System?
+   a) React
+   b) Django ORM
+   c) Hibernate
+   d) MySQL
 
-4. Which view in the 4 + 1 View Model of software architecture focuses on the deployment and distribution of system components?
+5. What type of database management system is recommended for storing patient information in the Hospital Management System?
+   a) Relational Database Management System (RDBMS)
+   b) NoSQL Database
+   c) Object-Oriented Database
+   d) File-based Database
 
-5. What is the purpose of the use case view in the Online Banking System?
+6. Which component of the Hospital Management System handles tasks such as patient registration, appointment scheduling, and medical records management?
+   a) User Interface
+   b) Business Logic
+   c) Data Access Logic
+   d) Database
 
-6. Which components are included in the logical view of the Online Banking System?
+7. Which design pattern is commonly used to maintain modularity and scalability in the business logic component?
+   a) Model-View-Controller (MVC)
+   b) Singleton
+   c) Observer
+   d) Factory
 
-7. What does the development view of the Online Banking System include?
+8. Which component is responsible for retrieving and storing patient-related data from the database?
+   a) User Interface
+   b) Business Logic
+   c) Data Access Logic
+   d) Database
 
-8. How does the process view help in understanding the Online Banking System?
+9. Which programming language is commonly used to implement the data access logic of a Hospital Management System?
+   a) JavaScript
+   b) Python
+   c) Java
+   d) C#
 
-9. What aspects are covered in the physical view of the Online Banking System?
+10. Which component of the Hospital Management System stores patient information, appointments, medical records, billing details, and inventory records?
+    a) User Interface
+    b) Business Logic
+    c) Data Access Logic
+    d) Database
 
-10. Which view focuses on capturing the functional requirements from the user's perspective?
+11. Which tool or software is commonly used to handle database operations in the data access logic component?
+    a) Django ORM
+    b) Sequelize
+    c) Hibernate
+    d) Spring Boot
 
-11. How does the logical view ensure the system's functionality is well-organized?
+12. Which component of the Hospital Management System enforces business rules and validates inputs?
+    a) User Interface
+    b) Business Logic
+    c) Data Access Logic
+    d) Database
 
-12. What is the significance of the development view in the Online Banking System?
+13. Which component of the Hospital Management System ensures secure and efficient access to the database?
+    a) User Interface
+    b) Business Logic
+    c) Data Access Logic
+    d) Database
 
-13. How does the process view showcase the dynamic behavior of the system?
+14. Which component of the Hospital Management System provides an intuitive and user-friendly experience for hospital staff?
+    a) User Interface
+    b) Business Logic
+    c) Data Access Logic
+    d) Database
 
-14. What does the physical view consider in the deployment and distribution of system components?
+15. Which component of the Hospital Management System updates inventory records based on usage and ensures accurate inventory management?
+    a) User Interface
+    b) Business Logic
+    c) Data Access Logic
+    d) Database
 
-15. Which view in the 4 + 1 View Model ensures modularity and scalability of the Online Banking System?
+### Structured Questions:
+
+1. Explain the role of the User Interface component in the Hospital Management System.
+
+2. How does the Business Logic component coordinate operations between different modules in the Hospital Management System?
+
+3. Describe the purpose of the Data Access Logic component in the Hospital Management System.
+
+4. Which types of patient-related data are typically stored in the database of a Hospital Management System?
+
+5. Discuss the benefits of using a relational database management system (RDBMS) for storing patient information in the Hospital Management System.
+
+6. Explain how the user interface captures patient details during the registration process.
+
+7. Outline the steps involved in appointment scheduling and how the system handles it.
+
+8. Describe the role of the Business Logic component in medical records management in the Hospital Management System.
+
+9. How does the Business Logic component calculate charges for billing and invoicing in the Hospital Management System?
+
+10. Discuss the importance of inventory management in a Hospital Management System and how it is handled by the system.
+
+## Benefits of the Architecture:
+- Modular design allows for the independent development and maintenance of different components, ensuring scalability and flexibility.
+- The user interface provides a user-friendly and intuitive experience for hospital staff, enabling easy interaction with the system.
+- Business logic enforces business rules, maintains data integrity, and ensures accurate execution of hospital processes.
+- Data access logic provides efficient and secure access to the database, ensuring proper storage and retrieval of hospital-related data.
+- The database stores patient information, appointments, medical records, billing details, and inventory records in a structured and secure manner.
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
