@@ -183,7 +183,6 @@ Don't forget to hit the :star: if you like this repo.
 | Data Integrity                            | Implemented data validation and transaction handling mechanisms to ensure data consistency and integrity.      |
 | System Integration                        | Utilized well-defined APIs, standardized data formats, and thorough integration testing for seamless integration. |
 
-Throughout the implementation phase, the group maintained open communication, regularly reviewed progress, and addressed challenges collaboratively. They also conducted thorough testing at each stage to identify and rectify any issues promptly, ensuring the successful development and deployment of the Kolej Tun Dr. Ismail College room rental system.
 
 
 ## 4. Testing and Quality Assurance:
