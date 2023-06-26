@@ -119,10 +119,6 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
 ## Implementation
 
 ### Timeline process
-<<<<<<< Updated upstream
-- Detail the specific tasks and activities undertaken by your group.
-- Gantt Chart
-=======
 | No | Date | Member Name | Role	| Task	|
 | -----:| ----- | ------ | ------ | ------ |
 | 1 | 08/04/2023 | Low Ying Xi | Project Manager | Create project plan |
@@ -156,7 +152,6 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
 | 29 | 24/06/2023 | Camily Tang Jia Lei, Koh Li Hui |Developer, User Experience Designer | Create traceability matrix |  
 | 30 | 26/06/2023 | Ng Shu Yu | Documentation Specialist | Finalize the STD document |
 | 31 | 27/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Project Presentation |
->>>>>>> Stashed changes
 
 ### Requirement collection
 <b> 1. Meeting with JKM KTDI (Hanie Azyuni binti Mazle) </b>
