@@ -180,7 +180,17 @@ By leveraging the Agile methodology, we can effectively address the specific req
 - Describe any challenges faced during the implementation phase and how you addressed them.
 
 ## 4. Testing and Quality Assurance:
-- Explain the testing strategies and techniques employed.
+### Testing strategies and techniques employed.
+  <ol>
+  <li><b>Functional Testing</b>: This type of testing focuses on verifying the system's features and functionalities. Testers evaluate whether users can perform tasks such as searching for restaurants, selecting menu items, adding them to the cart, placing orders, and making payments without any issues.</li><br>
+  
+  <li><b>Usability Testing</b>: Usability testing ensures that the food ordering system is user-friendly and intuitive. Testers assess factors such as navigation, menu layout, order customization options, responsiveness, and overall user experience. They may also gather feedback from real users to identify any areas for improvement.</li><br>
+  
+  <li><b>Performance Testing</b>: Performance testing is crucial to determine how well the food ordering system performs under different loads and conditions. Testers simulate various scenarios, such as multiple users placing orders simultaneously, to measure the system's response time, throughput, and scalability. This helps ensure that the system can handle peak loads without performance degradation.</li><br>
+  
+  <li><b>Compatibility Testing</b>: Compatibility testing verifies that the food ordering system works seamlessly across different platforms, browsers, and devices. Testers ensure that the system functions correctly on popular web browsers (Chrome, Firefox, Safari, etc.), operating systems (Windows, iOS, Android), and mobile devices (phones, tablets). This ensures a consistent experience for all users.</li><br>
+ 
+</ol> 
 - Discuss the types of testing conducted (e.g., unit testing, integration testing, etc.).
 ### Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
   <ol>
