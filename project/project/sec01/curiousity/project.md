@@ -35,8 +35,32 @@ THe purpose of our project of building a KTDI Event Management System is aimed t
 ## Implementation
 
 ### Timeline process
-- Detail the specific tasks and activities undertaken by your group.
-- Gantt Chart
+| No | Date | Member Name | Role	| Task	|
+| -----:| ----- | ------ | ------ | ------ |
+| 1 | 08/04/2023 | Low Ying Xi | Project Manager | Create project plan |
+| 2 | 16/04/2023 | Ng Shu Yu | Documentation Specialist | Gather user requirements |
+| 3 | 21/04/2023 | Camily Tang Jia Lei | Developer | Create proposal |
+| 4 | 02/05/2023 | Low Ying Xi | Project Manager | Contact stakeholders |
+| 5 | 02/05/2023 | Low Ying Xi | Project Manager | Create interview questions |
+| 6 | 03/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei | Project Manger, Documentation Specialist, Developer | Meeting with 1st stakeholder, Hanie Azyuni Binti Mazle (JKM KTDI)|
+| 7 | 04/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei | Project Manger, Documentation Specialist, Developer | Meeting with 2nd stakeholder, Lim Shi Kai (JKM KTDI) |
+| 8 | 10/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with 3rd stakeholder, Nadia Syahadah Binti Saharudin |
+| 9 | 11/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with 4nd stakeholder, LT KOL Prof. Madya Dr. Mohd Noor Azli Bin Haji. Ali Khan (KTDI Administrator) |
+| 10 | 14/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Contact with 5th stakeholder, Hamizah Amalina Binti Amlan (Pembantu Felo KTDI) | 
+| 11 | 15/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | SRS Planning |
+| 12 | 15/05/2023 | Camily Tang Jia Lei | Developer | Identify software functionality |   
+| 13 | 15/05/2023 | Koh Li Hui | User Experience Designer | User Requirement Analysis | 
+| 14 | 15/05/2023 - 05/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Creates UML Diagram, User Diagram, User Journey Maps and User Stories. |
+| 15 | 10/06/2023 | Ng Shu Yu | Documentation Specialist | Create system documentation | 
+| 16 | 13/06/2023| Low Ying Xi | Project Manager | Create SDD document | 
+| 17 | 15/06/2023| Low Ying Xi | Project Manager | Distribute task on managing SDD document | 
+| 18 | 16/06/2023 | Low Ying Xi  | Project Manager | Create system architecture design | 
+| 19 | 16/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui  | Project Manger, Documentation Specialist, Developer, User Experience Designer | Create detailed description of modules |
+| 20 | 16/06/2023 | Ng Shu Yu | Documentation Specialist | Create Data Design |
+| 21 | 17/06/2023 | Camily Tang Jia Lei, Koh Li Hui |Developer, User Experience Designer | Create User Interfaces Design |
+| 22 | 17/06/2023 | Camily Tang Jia Lei, Koh Li Hui |Developer, User Experience Designer | Create Requirement Matrix |  
+| 23 | 20/06/2023 | Ng Shu Yu | Documentation Specialist | Finalize the SDD |
+ 
 
 ### Software components & modules
 - Provide an overview of the software components or modules developed.
