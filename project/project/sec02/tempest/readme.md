@@ -107,9 +107,9 @@ Don't forget to hit the :star: if you like this repo.
 |5| Draw.io| <a href="https://github.com/drshahizan/software-engineering/tree/main/project/documentation/srs/sec02/tempest/drawio" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/fa23f96100aedccb8c634fba496ebcfc9968b9ee/images/drawio.svg" width="24px" height="24px" ></a>|
 |6| Borang Badal Haji| <a href="https://drive.google.com/drive/folders/1xm0X4yxzjBrGPt_EeF4PT4udWYxdx8PS?usp=share_link" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
 |7| Borang Umrah| <a href="https://drive.google.com/drive/folders/1cNg7cQG-RONHfL7_yHy9h5DZDWGfi-1k?usp=share_link" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
-|8| Low Fidelity| <a href="https://drive.google.com/drive/folders/1cNg7cQG-RONHfL7_yHy9h5DZDWGfi-1k?usp=share_link" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.pngg" width="24px" height="24px" ></a>|
+|8| Low Fidelity| <a href="https://drive.google.com/drive/folders/1cNg7cQG-RONHfL7_yHy9h5DZDWGfi-1k?usp=share_link" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
 |9| Project PDF| <a href="https://drive.google.com/drive/folders/1cNg7cQG-RONHfL7_yHy9h5DZDWGfi-1k?usp=share_link" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
-|10| High Fidelity| <a href="https://www.figma.com/file/14yOLT8pXoP32SdUMzbycj/High-Fidelity?type=design&mode=design&t=paIO4RrD2YTAGP86-1" ><img src="./images/figma.svg" width="24px" height="24px" ></a>|
+|10| High Fidelity| <a href="https://www.figma.com/file/14yOLT8pXoP32SdUMzbycj/High-Fidelity?type=design&mode=design&t=paIO4RrD2YTAGP86-1" ><img src="[./images/figma.svg](https://raw.githubusercontent.com/drshahizan/software-engineering/fa23f96100aedccb8c634fba496ebcfc9968b9ee/images/figma.svg)" width="24px" height="24px" ></a>|
 
 ## Design Prototype
 | No | Name |File | 
