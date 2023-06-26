@@ -42,8 +42,7 @@ We utilised Agile software development process model for our KTDI event manageme
 
 The agile process model was chosen because it enables frequent feedback and changes to be made to the software while it is being developed. Since this system is being created for a university, it is likely that the requirements will change and be updated as the project moves forwards. The Agile process model is well suited to handle such changes and still deliver a high-quality product on time.
 
-### Software development life cycle model: Agile process mode
-The Agile process model consists of the following phases:
+### Software development life cycle model: Agile Process Model
 <img src="https://agilie.com/_next/image?url=/api/imageproxy?url=https%3A%2F%2Fd12zh9bqbty5wp.cloudfront.net%2Fimages%2Ff9e66e179b6747ae54108f82f8ade8b3c25d76fd30afde6c395822c530196169-1674685166733.png&w=1920&q=75" alt="Agile" height="500px"></img>
 
 #### 1. Planning Phase: 
