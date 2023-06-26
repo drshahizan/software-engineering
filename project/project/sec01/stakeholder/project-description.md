@@ -182,8 +182,13 @@ The followings are the specific tools, technologies, or frameworks which are emp
 2. **Main system module**
 - Montserrat: Regular, Medium. Semibold, Bold
 
-### Color Code:
-
+### Color Scheme:
+- 2C62EE <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/118497269/0337df56-798c-46bb-b489-7c1e572419c9" height="30" /></a>
+- 9D1CCF <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/118497269/a9d3943d-7061-4430-8c9c-a89936caa644" height="30" /></a>
+- 3D70F5 <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/118497269/58e2efd3-243b-4e8f-b0b1-b6bd7857ee93" height="30" /></a>
+- ECF1FF <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/118497269/e54afc09-b083-4cbc-98a2-f9bf356950ca" height="30" /></a>
+- 484848 <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/118497269/19b189e5-9d68-44d9-bf96-79a88a254706" height="30" /></a>
+- FFFFFF (White)
 
 ### User Interface Design:
 - Student user interfaces: 32 pages
@@ -218,7 +223,7 @@ The followings are the specific tools, technologies, or frameworks which are emp
 
 ## Conclusion:
 <div id="header" align="center">
-  <img src="https://www.boffinweb.com/assets/img/web3-2.gif" width="300" height="200"/>
+  <img src="https://inforgala.com/wp-content/uploads/2022/01/64843-web-development.gif" width="300" height="200"/>
 </div>
 
 - Summarize the overall project experience and lessons learned.
