@@ -220,9 +220,10 @@ Solutions:
 ### 3. Software Components & Modules
 - Provide an overview of the software components or modules developed.
 - Component Model:
-- Use Case Diagram:
+#### Use Case Diagram:
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/use%20case.jpg?raw=true" alt="usecase" height="500px"></img>
 #### Complete Package Diagram:
-<img src="complete_package_diagram.jpg" alt="color" height="500px"></img>
+<img src="complete_package_diagram.jpg" alt="package" height="500px"></img>
 
 - Analysis
 
@@ -249,7 +250,14 @@ Solutions:
 <img src="staff_flow.png" alt="staff" height="500px"></img>
 
 ### 6. Challenges
-- Describe any challenges faced during the implementation phase and how you addressed them
+| No | Challenge | Solution |
+| --- | --- | --- |
+| 1. | Finding of stakeholders | Contact appropriate stakeholders found on the KTDI website and the Gantt chart in college |
+| 2. | Rapid requirement changes | Conduct rapid meetings with stakeholders and team members |
+| 3. | Busy schedules of the developers | Improve time management |
+| 4. | New to Figma | Adapt to Figma through practice and continuous design updates |
+| 5. | Project documentation | Maintain accurate and up-to-date documentation throughout the lifecycle by updating GitHub with the necessary documents |
+
 
 ## Testing and Quality Assurance
 - Explain the testing strategies and techniques employed.
