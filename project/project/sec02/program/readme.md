@@ -148,57 +148,72 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 - PHP: Employed as a server-side scripting language for implementing back-end functionalities.
 
 ## 3. Implementation:
-Requirements Gathering:
 
-1.Determine the goals and objectives of the academic consultation system.
-Identify the target audience (e.g., students, professors, advisors).
-Define the features and functionality required, such as scheduling appointments, communication channels, file sharing, etc.
-System Architecture:
+## 3. Implementation:
+### A) Detail the specific tasks and activities undertaken by our group:
+- <b>Create Project Plan</b>: Set up a meeting with all group member to decide the software system to be develop. Determine the role of each member and have a rough plan for this project.
+ 
+- <b>Find Stakeholders</b>: Deciding who's is our stakeholder for our system that called Student Feedback System in Faculty of Computing, University Technology Malaysia.
+  
 
-2.Design the overall system architecture, including backend and frontend components.
-Choose appropriate technologies for each component (e.g., programming languages, frameworks, databases).
-Backend Development:
+- <b>Create Proposal</b>: We create a proposal to briefly describe the student feedback system.
+  
+- <b>Create UML Diagram</b>: Create Use case Diagram,Class Diagram,Sequence diagram and Activity Diagram.
+  
+Sequence Diagram:<br>
+ 
+ 
+Class Diagram:<br>
+ 
 
-3.Implement the server-side logic responsible for handling requests and managing data.
-Set up a database to store user information, appointment details, messages, etc.
-Develop APIs (Application Programming Interfaces) for communication between frontend and backend.
-Frontend Development:
+Use Case Diagram:<br>
+ 
+Activity Diagram:<br>
+ 
+ 
+- <b>Create SRS Documentation</b>: Use Cases and extra to-do parts in SRS documentation identified
 
-4.Design and develop a user-friendly interface for different user roles (e.g., students, professors, advisors).
-Implement features such as appointment scheduling, messaging, file sharing, notifications, etc.
-Utilize appropriate frontend technologies such as HTML, CSS, JavaScript, and frontend frameworks like React, Angular, or Vue.js.
-Authentication and Authorization:
 
-5.Implement a secure user authentication system.
-Utilize techniques like password hashing, session management, and JWT (JSON Web Tokens).
-Define user roles and permissions to control access to different system functionalities.
-Appointment Management:
+- <b>Planning for interface design</b>:Rough Planning of Interfaces to be Designed.
 
-6.Develop a mechanism for users to schedule appointments with professors or advisors.
-Implement features like availability checking, calendar integration, and notification reminders.
-Ensure proper handling of conflicts, cancellations, and rescheduling.
-Communication and Messaging:
 
-7.Set up a real-time communication system between users (e.g., students, professors, advisors).
-Implement features like instant messaging, chat history, and notifications.
-Consider using technologies like WebSockets or real-time communication frameworks like Socket.io.
-File Sharing:
+- <b>Develop detailed system interface </b>: Develop Information Architecture,User Flow,Low Fidelity Wireframes,High Fidelity Wireframes,Design System & Typography and UI Design
+  
+Information Architecture for Student:
 
-8.Provide a secure mechanism for users to share files and documents.
-Implement file upload/download functionality and ensure proper access control.
-Consider options like cloud storage integration or server-side file management.
-Testing and Quality Assurance:
 
-9.Conduct thorough testing to ensure the system functions as expected.
-Perform unit tests, integration tests, and end-to-end tests.
-Identify and fix any bugs or issues before deployment.
-Deployment and Maintenance:
 
-10.Deploy the system on a suitable hosting environment or cloud platform.
-Monitor system performance and ensure scalability and reliability.
-Regularly update and maintain the system to incorporate new features, security patches, and bug fixes.
+Information Architecture for Lecturer:
 
-- Describe any challenges faced during the implementation phase and how you addressed them.
+Information Architecture for Admin:
+
+
+
+User Flow:
+
+
+
+Low Fidelity Wireframes:
+
+
+
+High Fidelity Wireframes:
+
+
+Design System & Typography:
+
+- <b>Create System Design Documentation</b>
+
+- <b>Create System Test Documentation</b>
+- Component Model:
+
+  
+- Complete Package Diagram:
+
+
+### C) The challenges faced during the implementation phase:
+- Integration Issues: As different team members worked on separate modules, integrating all theindividual components posed challenges. We addressed this by regularly conducting integration testing and maintaining clear communication among team members by doing scrumpt meetings to ensure seamless integration.
+- Changing Requirements: Throughout the implementation phase, there were instances where the requirements evolved or changed. We addressed this challenge by maintaining flexibility in our design and implementation, embracing agile methodologies, and having open communication with the project stakeholders to adapt to the changing requirements.
 
 ## 4. Testing and Quality Assurance:
 ### Functional Requirements:
