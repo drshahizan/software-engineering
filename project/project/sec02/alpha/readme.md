@@ -9,6 +9,25 @@
 
 Don't forget to hit the :star: if you like this repo.
 
+### 🔖Table of Contents🔖
+* [Table of Contents](#table-of-contents)
+* [1. Introduction](#introduction)
+* [Purpose](#1-purpose)
+* [Objective](#2-objective)
+* [Problem Statement](#3-problem-statement)
+* [Potential Impact](#4-potential-impact)
+* [Methodology](#methodology)
+* [Implementation](#implementation)
+* [Timeline process](#1-timeline-process)
+* [Requirement collection](#2-requirement-collection)
+* [Software components & modules](#3-software-components-modules)
+* [Design phase](#4-design-phase)
+* [Design system](#5-design-system)
+* [Challenges](#6-challenges)
+* [Testing and Quality Assurance](#testing-and-quality-assurance)
+* [Results and Archievements](#results-and-archievements)
+* [Conclusion](#conclusion)
+
 # Activity: Group Alpha
 
 ## Group Members
