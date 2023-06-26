@@ -82,7 +82,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-## 1. Introduction:
+## Introduction
   The Kolej Tun Dr. Ismail College room rental system project aims to develop a web-based system that allows students to easily request and rent college rooms. The system will automatically calculate the rental price based on the type of room and the number of days the student will stay. After the application is approved, the student will then pay for the room. 
 
   The main goal of the system is to simplify the college room rental process and ensure timely and accurate payment processing. The system will be developed using a web-based architecture and require full-stack web development expertise. The project team will consist of a main developer, a business analyst, a quality assurance engineer, a UI/UX designer, a database administrator, and an assistant developer. The project will require workstations, a server or cloud infrastructure, and various software tools such as an IDE, front-end, web frameworks, and testing frameworks. The project will also require other expenses such as internet access and office supplies.
