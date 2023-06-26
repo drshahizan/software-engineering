@@ -24,7 +24,7 @@ Don't forget to hit the :star: if you like this repo.
 * [Design system](#design-system)
 * [Challenges](#challenges-faced-and-solutions)
 * [Testing and Quality Assurance](#4-testing-and-quality-assurance)
-* [Results and Archievements](#5-results-and-archievements)
+* [Results and Archievements](#5-results-and-achievements)
 * [Conclusion](#6-conclusion)
 
 # Activity: Group Alpha
