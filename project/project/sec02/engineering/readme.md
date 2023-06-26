@@ -116,6 +116,8 @@ The Parcel Delivery System project aims to develop a web-based system that optim
 The primary objective of the Parcel Delivery System is to streamline and enhance the entire parcel delivery process. The system aims to achieve the following goals:
 
 1. Simplify Parcel Management: The system will provide a centralized platform for managing parcel operations, including creating new parcels, assigning them to delivery personnel, and tracking their progress.
+2. Improve Tracking and Visibility: The system will enable real-time tracking of parcels, allowing both administrators and customers to have full visibility into the delivery process. This will help reduce parcel loss, improve accountability, and provide timely updates to customers.
+
 
 
 
