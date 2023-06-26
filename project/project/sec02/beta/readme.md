@@ -130,10 +130,49 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 The purpose of our food ordering system is to provide a convenient and user-friendly platform for customers to place their food orders, eliminating the need for long queues and reducing waiting times. Our objective is to streamline the process of ordering food, ensuring efficiency and customer satisfaction. By leveraging technology, we aim to bridge the gap between restaurants and customers, making it easier for individuals to enjoy their favorite meals without the hassle of traditional ordering methods.The traditional methods of ordering food often involve enduring long queues, especially during peak hours, which can lead to frustration and wasted time for customers. Our project aims to address this challenge by developing a robust food ordering system that allows customers to bypass lengthy queues. By providing an online platform, we offer a convenient alternative that saves time and eliminates the need for physical queuing, ultimately enhancing the overall dining experience.The significance of our food ordering system lies in its potential to revolutionize the way people order food, particularly by minimizing waiting times. By offering a user-friendly application, we empower customers to explore a wide range of restaurants and menus, customize their orders, and conveniently place them with just a few taps on their mobile devices. With our system, customers no longer need to wait in long queues, enabling them to save valuable time and enjoy their meals without unnecessary delays.This reduction in waiting times not only benefits customers but also improves operational efficiency for restaurants. By streamlining the ordering process, restaurants can serve customers more effectively, ensuring prompt order preparation and minimizing congestion during peak hours.By implementing this food ordering system, we envision a future where customers can easily explore a variety of culinary options, place their orders efficiently, and enjoy their favorite meals without enduring long queues or unnecessary waiting times.
 
 ## 2. Methodology:
-<img src="https://i.ibb.co/1JMHz4h/Agile.png" alt="Alt text" width="500" height="400">
-- Describe the approach and methodologies utilized to tackle the project.
-- Explain the software development life cycle model or any other relevant methodology adopted.
-- Highlight any specific tools, technologies, or frameworks employed during the project.
+<div id="header" align="center">
+  <img src="https://dribbble.com/shots/5487982-Developers-Gif" width="300" height="200"/>
+</div>
+
+To develop our Food Ordering System, we have chosen the Agile methodology as our software development process model. The Agile approach enables us to create a user-friendly and high-quality system within the allocated time and budget, while effectively addressing the requirements of our stakeholders.
+
+By leveraging the Agile methodology, we can effectively address the specific requirements of the food ordering system, including the need for adaptability and ongoing collaboration with stakeholders. The Agile approach enables us to continuously enhance and update the system based on valuable feedback, ensuring that our Food Ordering System remains relevant, user-friendly, and exceeds the expectations of our customers.
+<div id="header" align="center">
+ <img src="https://i.ibb.co/1JMHz4h/Agile.png" alt="Alt text" width="500" height="400">
+</div>
+
+1. Planning Phase:
+  - Identify project scope, objectives, stakeholders.
+  - Establish timeline, milestones, and allocate resources.
+  - Develop a blueprint and create a Gantt chart.
+  - Led by the project manager.
+2. Requirements Gathering and Analysis Phase::
+  - Engage with stakeholders to understand their needs and priorities.
+  - Document user requirements and translate them into actionable user stories.
+  - Collaborate with stakeholders to define acceptance criteria for each user story.
+  - Continuously review and refine the backlog in collaboration with stakeholders.
+3. Design Phase:
+  - Develop a high-level software architecture design that aligns with the project requirements.
+ - Design the database schema to ensure efficient data storage and retrieval.
+ - Create detailed design documents that outline the system's functionality and interactions.
+ - Utilize Figma to create wireframes and prototypes for the user interface, ensuring a user-friendly experience.
+ - Review the design with the development team and stakeholders for feedback and validation.
+4. Development Phase:
+  - Collaboratively develop software components based on the sprint backlog.
+  - Conduct code reviews, write unit tests, and perform unit testing.
+  - Update code documentation and conduct daily stand-up meetings.
+  - Backend development led by the main developer, frontend led by UI/UX designer.
+5. Testing Phase:
+  - Develop a testing plan.
+  - Perform functional, integration, and acceptability testing.
+  - Report and fix flaws using a bug-tracking program.
+  - Managed by the quality assurance analyst.
+6. Deployment Phase:
+  - Prepare for the system's deployment by ensuring readiness and compliance with stakeholder criteria.
+  - Conduct final testing and quality assurance to ensure a smooth transition to the live environment.
+  - Provide training and support to stakeholders, enabling them to effectively use and manage the food ordering system.
+  - Continuously monitor the system's performance, gather feedback, and make improvements based on user satisfaction and emerging needs.
+  - Offer ongoing support and maintenance to address any issues and meet stakeholder demands.
 
 ## 3. Implementation:
 - Detail the specific tasks and activities undertaken by your group.
