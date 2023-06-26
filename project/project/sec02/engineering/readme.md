@@ -157,11 +157,8 @@ Several tools, technologies, and frameworks will be employed during the developm
 
 3. Design and Prototyping: Leverage tools like Figma for creating wireframes, mockups, and interactive prototypes. This aids in visualizing and refining the user interface (UI) and user experience (UX) of the system.
 
-4. Front-end Development: Utilize modern front-end technologies such as HTML, CSS, and JavaScript, along with popular frameworks like React or Angular, to build a responsive and user-friendly web interface for the Parcel Delivery System.
-
-5. Back-end Development: Employ a suitable programming language like Python or Node.js for server-side development. Utilize frameworks like Django or Express.js to handle data processing, API integrations, and business logic implementation.
-
-6. Database Management: Utilize a reliable database management system (DBMS) such as MySQL  to store and retrieve data related to parcels, users, delivery details, and other relevant information.
+4. Front-end Development: Utilize modern front-end technologies such as HTML, CSS, and JavaScript, along with popular frameworks like Bootstrap, to build a responsive and user-friendly web interface for the Parcel Delivery System.
+5. Database Management: Utilize a reliable database management system (DBMS) such as MySQL  to store and retrieve data related to parcels, users, delivery details, and other relevant information.
 
 By adopting this methodology and utilizing appropriate tools and technologies, the development team can ensure efficient collaboration, effective project management, and the delivery of a robust and user-friendly Parcel Delivery System.
 
