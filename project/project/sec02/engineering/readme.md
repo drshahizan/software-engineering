@@ -160,6 +160,7 @@ Meeting With Stakeholder:
   </tr>
   
 </table>
+![all stakeholder](https://github.com/drshahizan/software-engineering/assets/128160230/8e088fc8-7841-4cdb-be97-c6d15f007085)
 
 
 Sticky Note(Project Planning):
