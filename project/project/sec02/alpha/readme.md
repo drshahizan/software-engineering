@@ -12,21 +12,20 @@ Don't forget to hit the :star: if you like this repo.
 ### 🔖Table of Contents🔖
 * [Table of Contents](#table-of-contents)
 * [Introduction](#introduction)
-* [Purpose](#1-purpose)
-* [Objective](#2-objective)
-* [Problem Statement](#3-problem-statement)
-* [Potential Impact](#4-potential-impact)
-* [Methodology](#methodology)
-* [Implementation](#implementation)
-* [Timeline process](#1-timeline-process)
-* [Requirement collection](#2-requirement-collection)
-* [Software components & modules](#3-software-components-modules)
-* [Design phase](#4-design-phase)
-* [Design system](#5-design-system)
-* [Challenges](#6-challenges)
-* [Testing and Quality Assurance](#testing-and-quality-assurance)
-* [Results and Archievements](#results-and-archievements)
-* [Conclusion](#conclusion)
+* [Objective](#objective)
+* [Problem Statement](#problem-statement-or-the-need-the-project-aims-to-address)
+* [Potential Impact](#significance-and-potential-impact-of-the-project)
+* [Methodology](#2-methodology)
+* [Implementation](#3-implementation)
+* [Timeline process](#timeline-process)
+* [Requirement collection](#requirement-collection)
+* [Software components & modules](#software-components-or-modules)
+* [Design phase](#design-phase)
+* [Design system](#design-system)
+* [Challenges](#challenges-faced-and-solutions)
+* [Testing and Quality Assurance](#4-testing-and-quality-assurance)
+* [Results and Archievements](#5-results-and-achievements)
+* [Conclusion](#6-conclusion)
 
 # Activity: Group Alpha
 
@@ -94,13 +93,15 @@ Don't forget to hit the :star: if you like this repo.
 - Streamlining administrative tasks by helping automate administrative processes like handling rental agreements, accepting payments, and producing reports.
 - Improve user experience by providing a better user experience by offering features such as room choices, and user feedback. The system will ensure that any issues or concerns can be addressed in a timely manner.
 
-### Problem statement or the need the project aims to address.
-The project aims to solve the problems associated with renting rooms to college students. Currently, the process is inefficient and causes confusion. The key issues include:
-- Room Allocation: Assigning suitable rooms to students based on their preferences and availability is difficult and can lead to dissatisfaction and conflicts.
-- Transparency and Accessibility: Students struggle to access information about available rooms, rates, and facilities, which hampers their decision-making process.
-- Administrative Burden: Managing room rentals manually is time-consuming for college administrators, resulting in a waste of resources.
-- Communication and Conflict Resolution: Inadequate communication channels and dispute resolution mechanisms contribute to conflicts between roommates and students and the administration.
-- Optimization and Resource Utilization: The current systems lack tools to monitor room occupancy, optimize allocation, and effectively use available resources.
+### Problem statement
+
+| Problem                                         | Solution                                                     |
+|-------------------------------------------------|--------------------------------------------------------------|
+| Room Allocation                                 | Automate room assignment based on student preferences and availability.                                             |
+| Transparency and Accessibility                  | Provide students with access to information on available rooms, rates, and facilities through a user-friendly interface. |
+| Administrative Burden                           | Automate administrative tasks such as rental agreements, payment processing, and report generation.                   |
+| Communication and Conflict Resolution           | Implement communication channels and dispute resolution mechanisms to facilitate better interaction and conflict resolution. |
+| Optimization and Resource Utilization           | Monitor room occupancy, optimize allocation and effectively utilize available resources through data-driven insights.   |
 
  ### Significance and potential impact of the project.
   The college room rental system seeks to solve these problems by automating the rental process, making it easier for students to find and rent rooms, and for staff to manage their rental properties. The system will be accessible from any device with an internet connection, making it convenient for students to search for available rooms and make reservations at any time.
@@ -114,23 +115,26 @@ The project aims to solve the problems associated with renting rooms to college 
 - Highlight any specific tools, technologies, or frameworks employed during the project.
 
 #### Approach
-- Agile Development : Adopt an Agile approach to enable iterative and inremental development, ensuring flexibility and adaptability to changing requirements.
-- Collaborative Development : Emphasizes collaboration and communication among team members, stakeholders, and users throughout the project lifecycle.
+- Agile Development: Adopt an Agile approach to enable iterative and incremental development, ensuring flexibility and adaptability to changing requirements.
+- Collaborative Development: Emphasizes collaboration and communication among team members, stakeholders, and users throughout the project lifecycle.
 
 #### Methodology
-- Scrum : Implement the Scrum framework, which consists of time-boxed iterations called sprints, daily stand-up meetings, sprint planning and sprint reviews. This promotes regular feedback, transparency and continuous improvement.
+- Scrum: Implement the Scrum framework, which consists of time-boxed iterations called sprints, daily stand-up meetings, sprint planning, and sprint reviews. This promotes regular feedback, transparency, and continuous improvement.
 
 #### Software Development Life Cycle (SDLC)
-- Agile SDLC : Employ an Agile software development life cycle model that aligns with the iterative and incremental development approach. This includes stages such as requirements gathering, design, development, testing, deployment and maintenace,  with continuous feedback and improvement.
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/agile.png" alt=""/></a>
+- Agile SDLC: Employ an Agile software development life cycle model that aligns with the iterative and incremental development approach. This includes stages such as requirements gathering, design, development, testing, deployment, and maintenance,  with continuous feedback and improvement.
 
-#### Tools, Technologies and Frameworks
-- Version Control : Use GitHub for version control to track changes, collaborate with team members, and manage code repositories.
-- Integrated Development Environment (IDE) : Utilize Visual Studio Code (VS Code) as the primary IDE for coding, debuggging and collaboration.
-- Design and Prototyping : Leverage Figma for creating wireframes, mockups and interactive prototypes to visualize and refine the user interface and user experience.
-- Front-end Development : Implement Bootstrap framework to enhance the responsiveness and design consistency of the user interface.
-- Database Management : Utilize MySQL as the database management system to store and retrieve data related to rooms, students, reservations, payments, etc.
+#### Tools, Technologies, and Frameworks
+- Version Control: Use GitHub for version control to track changes, collaborate with team members, and manage code repositories.
+- Integrated Development Environment (IDE): Utilize Visual Studio Code (VS Code) as the primary IDE for coding, debugging, and collaboration.
+- Design and Prototyping: Leverage Figma for creating wireframes, mockups and interactive prototypes to visualize and refine the user interface and user experience.
+- Front-end Development: Implement Bootstrap framework to enhance the responsiveness and design consistency of the user interface.
+- Database Management: Utilize MySQL as the database management system to store and retrieve data related to rooms, students, reservations, payments, etc.
 
 ## 3. Implementation:
+#### Timeline:
+[View our project timeline and tasks](https://github.com/users/drshahizan/projects/18/views/1)
 
 #### Tasks and Activities:
 
@@ -149,10 +153,15 @@ The project aims to solve the problems associated with renting rooms to college 
 7. Deployment and User Training: Once the system was tested and deemed stable, the group deployed it to a web server and conducted user training sessions for college staff and students. This ensured that users understood how to use the system effectively and efficiently.
 
 #### Software Components or Modules:
+##### Use case Diagram
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/useCasediagram.drawio.png" alt=""/></a>
 
-1. Registration and Authentication Subsystem: This module provides essential functionality for students, allowing them to register, login, reset passwords, and recover forgotten passwords. 
+##### Class Domain Model Diagram
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/classDomainModel.drawio.png" alt=""/></a>
 
-3. Room Rental Subsystem: This module enables students to search for available rooms based on their preferences (e.g., type of room ), view room details, make reservation for rooms,cancel their room bookings,facilitates online payment for room bookings, file complaints. this module also enables administrator to  manage the student bookings.
+1. Registration and Authentication Subsystem: This module provides essential functionality for students, allowing them to register, log in, reset passwords, and recover forgotten passwords. 
+
+3. Room Rental Subsystem: This module enables students to search for available rooms based on their preferences (e.g., type of room ), view room details, make a reservation for rooms, cancel their room bookings, facilitate online payment for room bookings, and file complaints. this module also enables administrators to  manage student bookings.
 
 4. Administration Subsystem: This module provides essential functionalities for both the registrar and the administrator. It enables the registrar to efficiently manage rooms within the college while allowing the administrator to address and resolve complaints effectively.
   
@@ -164,15 +173,15 @@ The project aims to solve the problems associated with renting rooms to college 
 
 #### Challenges Faced and Solutions:
 
-1. Scalability: Ensuring that the system can handle a large number of concurrent users and room bookings was a challenge. To address this, the group implemented performance optimizations, such as database indexing, caching, and load-balancing techniques.
+## Challenges and Solutions
 
-2. Payment Security: Integrating a secure payment processing system while complying with industry standards and regulations was challenging. The group addressed this by collaborating with reputable payment gateway providers and following best practices for secure payment handling.
-
-3. User Experience: Designing a user-friendly interface that catered to the diverse needs of students and staff was a challenge. The group conducted user testing sessions and gathered feedback to iteratively improve the interface and enhance the overall user experience.
-
-4. Data Integrity: Ensuring data consistency and integrity across multiple modules and database tables was a challenge. The group implemented appropriate data validation and transaction handling mechanisms to maintain data integrity and prevent data anomalies.
-
-5. System Integration: Integrating the different software components and ensuring seamless communication between modules posed a challenge. The group used well-defined APIs, standardized data formats, and thorough integration testing to address this challenge and achieve smooth system integration.
+| Challenge                                 | Solution                                                                                                     |
+|-------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Scalability                               | Implemented performance optimizations such as database indexing, caching, and load-balancing techniques.      |
+| Payment Security                          | Collaborated with reputable payment gateway providers and followed best practices for secure payment handling. |
+| User Experience                           | Conducted user testing sessions and gathered feedback to iteratively improve the interface and user experience.|
+| Data Integrity                            | Implemented data validation and transaction handling mechanisms to ensure data consistency and integrity.      |
+| System Integration                        | Utilized well-defined APIs, standardized data formats, and thorough integration testing for seamless integration. |
 
 Throughout the implementation phase, the group maintained open communication, regularly reviewed progress, and addressed challenges collaboratively. They also conducted thorough testing at each stage to identify and rectify any issues promptly, ensuring the successful development and deployment of the Kolej Tun Dr. Ismail College room rental system.
 
@@ -184,7 +193,7 @@ Testing and quality assurance play a crucial role in ensuring the reliability an
 - Black Box Testing: This technique focuses on testing the system's functionality without considering its internal implementation. It ensures that the system meets the specified requirements.
 - White Box Testing: This technique involves examining the internal structure and logic of the software. It ensures that all paths and components of the system are tested thoroughly.
 - Integration Testing: This strategy verifies the interaction and compatibility between different system modules to ensure that they work seamlessly together.
-- User Acceptance Testing (UAT): UAT involves testing the system from the end-users' perspective to validate if it meets their requiremnets and expectations.
+- User Acceptance Testing (UAT): UAT involves testing the system from the end-users perspective to validate if it meets their requirements and expectations.
 
 The types of testing conducted in the KTDI College Room Rental system are as followed: 
 
@@ -192,14 +201,14 @@ The types of testing conducted in the KTDI College Room Rental system are as fol
 - Unit Testing: Focuses on testing individual components or units of code to verify their correctness and functionality
 - Integration Testing: To ensures that different system modules integrate and function correctly when combined
 - System Testing: This comprehensive testing verifies the behavior and functionality of the entire system as a whole
-- Usability Testing: Usability testing evaluates the system's user-frienliness and assesses how easily users can navigate and interact with the system
+- Usability Testing: Usability testing evaluates the system's user-friendliness and assesses how easily users can navigate and interact with the system
 - Regression Testing: This testing is performed after system changes or updates to ensure that existing functionalities have not been affected
 
 In order to ensure the reliability and robustness of the software, quality assurance processes have been implemented.
 
 ### 3. Quality Assurance Processes:
-- Continuous Integration (CI) is implemented to automatically build, test and integrate code changes into a shared repository. It helps detect and address integraton issues early on
-- Reqular checkpoints are established during the development process to ensure that quality standards are met at each stage
+- Continuous Integration (CI) is implemented to automatically build, test and integrate code changes into a shared repository. It helps detect and address integration issues early on
+- Regular checkpoints are established during the development process to ensure that quality standards are met at each stage
 - Thorough documentation is created to guide users and developers, ensuring clarity and consistency in system usage and maintenance
 
 
