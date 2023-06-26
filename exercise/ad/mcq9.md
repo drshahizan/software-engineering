@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Instructions
 - Please use the [MCQ template](temp_mcq.md).
-- Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../uml/submission/sec01) or [`submission/sec02`](../uml/submission/sec02) folder, create a folder with your GitHub ID. Name the file as `mcq5.md`.
+- Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../uml/submission/sec01) or [`submission/sec02`](../uml/submission/sec02) folder, create a folder with your GitHub ID. Name the file as `mcq9.md`.
 
 ### Folder structure
 
@@ -31,171 +31,119 @@ Don't forget to hit the :star: if you like this repo.
 └── 📁your github id
 ```
 
-# Case Study: Software Verification, Validation, and Testing
+# Case Study: Online Shopping Application
 
-## Background
-Company MSO is a leading software development firm that specializes in developing enterprise-level applications. They are currently working on a new software project, "Project ABC," which aims to provide a comprehensive customer relationship management (CRM) solution for businesses. As part of the software development life cycle, MSO needs to ensure that Project ABC undergoes rigorous verification, validation, and testing processes to deliver a high-quality, reliable, and error-free software product.
+## Overview
+An online shopping application is being developed to provide customers with a convenient way to browse and purchase products online. The application is designed using the 4 + 1 View Model of software architecture, which separates concerns into different views to ensure modularity and scalability. Let's explore the different views and their respective responsibilities in this case study.
 
-## Verification
-Verification involves checking if the software adheres to its specified requirements and standards. To verify Project ABC, MSO performs a thorough review of the software design and requirements documents. They examine the software architecture, functional specifications, and user interface design to ensure consistency and correctness. Additionally, they use static analysis tools to identify potential coding errors and adherence to coding standards.
+### Logical View
+The logical view of the application focuses on the functionality and behavior of the system. It includes components such as the shopping cart, product catalog, user authentication, and order processing. The logical view ensures that the application's functionality is well-organized and easy to maintain.
 
-## Validation
-Validation focuses on evaluating the software during the development process to ensure it meets the customer's expectations and requirements. In the case of Project ABC, MSO conducts user acceptance testing (UAT) to validate the software's functionality, usability, and performance. They involve end-users and stakeholders in the UAT process, collecting feedback and making necessary adjustments based on their input. The validation phase ensures that Project ABC is suitable for its intended purpose and aligns with the needs of its target users.
+### Development View
+The development view concentrates on the software development aspects of the application. It includes components like code modules, development tools, and libraries. The development view ensures that the application is built using best practices and facilitates collaboration among developers.
 
-## Testing
-Testing is a critical component of software development, involving the execution of software to identify defects, bugs, and other issues. MSO employs various testing techniques to ensure the reliability and robustness of Project ABC. They conduct unit testing to validate individual software components, integration testing to verify the interaction between different modules, and system testing to evaluate the overall system behavior. Additionally, they perform regression testing to ensure that new changes or updates do not break existing functionalities.
+### Process View
+The process view illustrates the dynamic behavior of the system. It describes how the different components interact with each other during runtime. In the case of the online shopping application, the process view would showcase the flow of activities when a user adds items to the cart, proceeds to checkout, and completes the purchase.
 
-## Case Study Questions
+### Physical View
+The physical view deals with the deployment and distribution of the system components. It includes hardware, network infrastructure, and the physical environment. In the case of the online shopping application, the physical view would describe the server architecture, load balancing mechanisms, and database servers.
 
-1. Which phase of the software development life cycle involves checking if the software adheres to its specified requirements and standards?
-   - A) Verification
-   - B) Validation
-   - C) Testing
-   - D) Deployment
+### Use Case View
+The use case view focuses on capturing the functional requirements of the system from the user's perspective. It identifies different use cases and how they interact with the system. For the online shopping application, typical use cases would be user registration, product search, and order placement.
 
-2. What is the primary goal of software validation?
-   - A) Ensuring adherence to coding standards
-   - B) Evaluating software performance
-   - C) Verifying software requirements
-   - D) Meeting customer expectations
+## MCQ Questions
 
-3. Which type of testing focuses on evaluating the interaction between different software modules?
-   - A) Unit testing
-   - B) Integration testing
-   - C) System testing
-   - D) Regression testing
+1. Which view in the 4 + 1 View Model of software architecture focuses on the functionality and behavior of the system?
+   - a. Logical View
+   - b. Development View
+   - c. Process View
+   - d. Physical View
 
-4. Which testing technique helps identify defects that may arise due to new changes or updates in the software?
-   - A) Unit testing
-   - B) Integration testing
-   - C) System testing
-   - D) Regression testing
+2. Which view in the 4 + 1 View Model of software architecture concentrates on the software development aspects of the application?
+   - a. Logical View
+   - b. Development View
+   - c. Process View
+   - d. Physical View
 
-5. Company MSO involves end-users and stakeholders in the testing process to validate the software's functionality and usability. This process is known as:
-   - A) Verification testing
-   - B) Unit testing
-   - C) User acceptance testing
-   - D) Regression testing
+3. Which view in the 4 + 1 View Model of software architecture illustrates the dynamic behavior of the system?
+   - a. Logical View
+   - b. Development View
+   - c. Process View
+   - d. Physical View
 
-6. What is the main focus of software verification?
-   - A) Evaluating software performance
-   - B) Ensuring software meets customer requirements
-   - C) Checking adherence to coding standards
-   - D) Verifying software design and specifications
+4. Which view in the 4 + 1 View Model of software architecture deals with the deployment and distribution of the system components?
+   - a. Logical View
+   - b. Development View
+   - c. Process View
+   - d. Physical View
 
-7. MSO uses static analysis tools during the verification process primarily to:
-   - A) Identify coding errors
-   - B) Evaluate user interface design
-   - C) Test software performance
-   - D) Validate software requirements
+5. Which view in the 4 + 1 View Model of software architecture focuses on capturing the functional requirements of the system from the user's perspective?
+   - a. Logical View
+   - b. Development View
+   - c. Process View
+   - d. Use Case View
 
-8. Which type of testing evaluates the overall behavior and performance of the software system?
-   - A) Unit testing
-   - B) Integration testing
-   - C) System testing
-   - D) Acceptance testing
+6. The logical view of the online shopping application includes components such as:
+   - a. Code modules and development tools
+   - b. Hardware and network infrastructure
+   - c. Shopping cart and product catalog
+   - d. Use cases and user authentication
 
-9. During which phase of the software development life cycle is user acceptance testing typically performed?
-   - A) Verification
-   - B) Validation
-   - C) Testing
-   - D) Deployment
+7. The development view of the online shopping application includes components such as:
+   - a. Code modules and development tools
+   - b. Hardware and network infrastructure
+   - c. Shopping cart and product catalog
+   - d. Use cases and user authentication
 
-10. What is the purpose of regression testing?
-    - A) Validating software requirements
-    - B) Verifying software design and specifications
-    - C) Evaluating user interface design
-    - D) Ensuring new changes do not break existing functionalities
+8. The process view of the online shopping application illustrates:
+   - a. The flow of
 
-11. Which testing technique focuses on testing individual software components in isolation?
-    - A) Unit testing
-    - B) Integration testing
-    - C) System testing
-    - D) Acceptance testing
+ activities when a user adds items to the cart
+   - b. The hardware and network infrastructure
+   - c. The deployment and distribution of the system components
+   - d. The functional requirements from the user's perspective
 
-12. MSO is conducting a comprehensive review of the software design and requirements documents during the software development process. This review is part of:
-    - A) Verification
-    - B) Validation
-    - C) Testing
-    - D) Deployment
+9. The physical view of the online shopping application deals with:
+   - a. The flow of activities when a user adds items to the cart
+   - b. The hardware and network infrastructure
+   - c. The deployment and distribution of the system components
+   - d. The functional requirements from the user's perspective
 
-13. The primary goal of software validation is to:
-    - A) Verify adherence to coding standards
-    - B) Test software performance
-    - C) Evaluate user interface design
-    - D) Ensure software meets customer expectations
+10. The use case view of the online shopping application focuses on:
+    - a. The flow of activities when a user adds items to the cart
+    - b. The hardware and network infrastructure
+    - c. The deployment and distribution of the system components
+    - d. The functional requirements from the user's perspective
 
-14. Which testing technique helps identify defects in the interaction between different software modules?
-    - A) Unit testing
-    - B) Integration testing
-    - C) System testing
-    - D) Regression testing
+11. Which view ensures that the application's functionality is well-organized and easy to maintain?
+    - a. Logical View
+    - b. Development View
+    - c. Process View
+    - d. Physical View
 
-15. Regression testing is primarily focused on:
-    - A) Verifying adherence to coding standards
-    - B) Evaluating software performance
-    - C) Validating software requirements
-    - D) Ensuring new changes do not break existing functionalities
+12. Which view ensures that the application is built using best practices and facilitates collaboration among developers?
+    - a. Logical View
+    - b. Development View
+    - c. Process View
+    - d. Physical View
 
-16. Which phase of the software development life cycle involves the execution of software to identify defects and bugs?
-    - A) Verification
-    - B) Validation
-    - C) Testing
-    - D) Deployment
+13. Which view showcases the flow of activities when a user adds items to the cart, proceeds to checkout, and completes the purchase?
+    - a. Logical View
+    - b. Development View
+    - c. Process View
+    - d. Physical View
 
-17. MSO conducts user acceptance testing (UAT) to validate the software's:
-    - A) Performance and scalability
-    - B) Adherence to coding standards
-    - C) Interaction between different modules
-    - D) Functionality and usability
+14. Which view describes the server architecture, load balancing mechanisms, and database servers?
+    - a. Logical View
+    - b. Development View
+    - c. Process View
+    - d. Physical View
 
-18. The purpose of integration testing is to:
-    - A) Verify adherence to coding standards
-    - B) Test individual software components in isolation
-    - C) Evaluate the overall system behavior
-    - D) Ensure new changes do not break existing functionalities
-
-19. Which testing technique evaluates the overall behavior and performance of the software system?
-    - A) Unit testing
-    - B) Integration testing
-    - C) System testing
-    - D) Acceptance testing
-
-20. What is the primary focus of software verification?
-    - A) Evaluating software performance
-    - B) Ensuring software meets customer requirements
-    - C) Checking adherence to coding standards
-    - D) Verifying software design and specifications
-
-21. Static analysis tools are primarily used during the verification process to:
-    - A) Identify coding errors
-    - B) Evaluate user interface design
-    - C) Test software performance
-    - D) Validate software requirements
-
-22. User acceptance testing (UAT) is performed to:
-    - A) Verify adherence to coding standards
-    - B) Test software performance
-    - C) Evaluate user interface design
-    - D) Validate the software's functionality and usability
-
-23. Which testing technique focuses on testing individual software components in isolation?
-    - A) Unit testing
-    - B) Integration testing
-    - C) System testing
-    - D) Acceptance testing
-
-24. During which phase of the software development life cycle is user acceptance testing typically performed?
-    - A) Verification
-    - B) Validation
-    - C) Testing
-    - D) Deployment
-
-25. What is the purpose of regression testing?
-    - A) Validating software requirements
-    - B) Verifying software design and specifications
-    - C) Evaluating user interface design
-    - D) Ensuring new changes do not break existing functionalities
+15. Which view focuses on capturing the functional requirements of the system from the user's perspective?
+    - a. Logical View
+    - b. Development View
+    - c. Process View
+    - d. Use Case View
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
