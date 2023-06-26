@@ -254,9 +254,39 @@ Design System & Typography:
 - Changing Requirements: Throughout the implementation phase, there were instances where the requirements evolved or changed. We addressed this challenge by maintaining flexibility in our design and implementation, embracing agile methodologies, and having open communication with the project stakeholders to adapt to the changing requirements.
 
 ## 4. Testing and Quality Assurance:
-- Explain the testing strategies and techniques employed.
-- Discuss the types of testing conducted (e.g., unit testing, integration testing, etc.).
-- Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
+- The testing method combines manual testing technology with automated testing tools. We used a black-box testing strategy that focused on equivalence partitioning (EP) and boundary value analysis (BVA). By taking into account various input scenarios and boundary conditions, we can ensure comprehensive testing coverage.
+
+- We carefully designed test cases for manual testing based on the software requirements and functions. Each test case was assigned a unique test case ID, which can be found in the STD documentation's respective sub-sections. We examined the test steps in test cases to determine which inputs required equivalence partitioning and boundary value analysis. 
+
+- Equivalence partitioning (EP) was used at specific points in the test cases where the input data had different equivalence classes. Instead of testing every possible input value in detail, we aim to cover a wide range of scenarios by selecting representative values from each equivalence class. This technology assists us in optimising testing work and ensuring adequate testing coverage.
+
+- Because input ranges typically represent key points in software, boundary value analysis (BVA) was used to test their boundaries. We used BVA in test case steps where the input data already had defined boundaries. By testing the values at the lower and upper bounds, as well as the values inside and outside these bounds, we aim to verify how the software handles boundary conditions.
+
+- We use automated testing tools to help us with our testing work because they allow us to efficiently execute test scripts and repetitive or complex tests. These tools aid in the simplification of the testing process, the improvement of overall test coverage, and the consistency of test execution. 
+
+- The type of testing that we used are unit testing. Unit testing is a type of testing that focuses on testing individual units or components of software in isolation. The objective of unit testing is to verify that each unit functions correctly according to its design and meets the expected behavior. The primary purpose of unit testing is to catch bugs and defects early in the development process. It helps ensure that individual units of code work as intended and provides confidence in the correctness and reliability of the code. Unit tests should be isolated, meaning that the unit being tested should be decoupled from other units and external dependencies. This is achieved by replacing external dependencies with mock objects or stubs that simulate the behavior of the actual dependencies. Unit testing aims to achieve high test coverage, which means that a significant portion of the code is exercised by the unit tests. The goal is to test all possible execution paths and edge cases within the unit to maximize the chances of detecting defects.
+
+- To ensure the reliability and robustness of the software, various quality assurance processes can be implemented.
+  <ol>
+    <li>Developing a comprehensive test plan that outlines the testing objectives, scope, and approach to be followed. The plan may also include testing schedules, resource allocation and testing environment.</li>
+
+    <li>Creating well-defined test cases covering different functions, input combinations and potential error conditions. Test cases should be designed to verify software according to specified requirements. </li>
+
+    <li>Executing the test case according to the test plan, and record the results. Test execution includes running the tests, recording the results and identifying any defects or problems encountered during the test.</li>
+
+    <li>Establishing a process to track and manage defects found in the testing process. This includes reporting and recording problems, prioritizing them according to their severity, and working with developers to deal with and solve identified defects.</li>
+
+    <li>Generate a test report summarizing test activities, including test coverage, test results and any unresolved problems. These reports are helpful for stakeholders to understand the current status of the software quality and make wise decisions. </li>
+
+    <li>Ensuring that the test environment is very similar to the production environment, so as to accurately replicate the real world conditions. This includes establishing and maintaining test databases, networks, hardware and software configurations.</li>
+
+    <li>Through continuous integration and deployment practice, testing is integrated into the software development process. This helps to automate the execution of tests and detect problems early in the development life cycle. </li>
+  </ol>
+
+- Test case template that we use for each test case:
+  ![image](https://github.com/drshahizan/software-engineering/assets/89129564/64f950e4-cfb5-436e-b32d-3bc311416efd)
+
+
 
 ## 5. Results and Achievements:
 We are pleased to present the significant outcomes and achievements of our Student Feedback System project. The software solution has proven to be highly successful in enhancing the feedback process for students, faculty, and administration. The design theme of our system closely resembles our university and gives users a sense of familiarity which took effect and allowed users to enjoy using our newly updated Student Feedback System.
