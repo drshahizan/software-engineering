@@ -50,7 +50,18 @@ THe purpose of our project of building a KTDI Event Management System is aimed t
 - Gantt Chart
 
 ### Requirement collection
-- Stalkholder meeting
+1. Meeting with stakholder (JKM KTDI - Hanie Azyuni binti Mazle)
+On 8 p.m., 3rd May 2023, we met Hanie at M01, KTDI for a meeting regarding their requirements, wants, and needs to be implemented into our system.
+
+#### Outcome
+Problems:
+- Laborious process of seeking approval from multiple parties through paperwork.
+- Management of works between members.
+
+Solution:
+- Handling necessary documents for each activity.
+- Distribution of tasks to members
+- Post-event report
 
 ### Software components & modules
 - Provide an overview of the software components or modules developed.
