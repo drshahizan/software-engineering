@@ -93,7 +93,8 @@ Don't forget to hit the :star: if you like this repo.
 - Streamlining administrative tasks by helping automate administrative processes like handling rental agreements, accepting payments, and producing reports.
 - Improve user experience by providing a better user experience by offering features such as room choices, and user feedback. The system will ensure that any issues or concerns can be addressed in a timely manner.
 
-### Problem statement or the need the project aims to address.
+### Problem statement
+
 | Problem                                         | Solution                                                     |
 |-------------------------------------------------|--------------------------------------------------------------|
 | Room Allocation                                 | Automate room assignment based on student preferences and availability.                                             |
@@ -114,15 +115,15 @@ Don't forget to hit the :star: if you like this repo.
 - Highlight any specific tools, technologies, or frameworks employed during the project.
 
 #### Approach
-- Agile Development: Adopt an Agile approach to enable iterative and inremental development, ensuring flexibility and adaptability to changing requirements.
+- Agile Development: Adopt an Agile approach to enable iterative and incremental development, ensuring flexibility and adaptability to changing requirements.
 - Collaborative Development: Emphasizes collaboration and communication among team members, stakeholders, and users throughout the project lifecycle.
 
 #### Methodology
-- Scrum: Implement the Scrum framework, which consists of time-boxed iterations called sprints, daily stand-up meetings, sprint planning, and sprint reviews. This promotes regular feedback, transparency and continuous improvement.
+- Scrum: Implement the Scrum framework, which consists of time-boxed iterations called sprints, daily stand-up meetings, sprint planning, and sprint reviews. This promotes regular feedback, transparency, and continuous improvement.
 
 #### Software Development Life Cycle (SDLC)
 <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/agile.png" alt=""/></a>
-- Agile SDLC: Employ an Agile software development life cycle model that aligns with the iterative and incremental development approach. This includes stages such as requirements gathering, design, development, testing, deployment and maintenance,  with continuous feedback and improvement.
+- Agile SDLC: Employ an Agile software development life cycle model that aligns with the iterative and incremental development approach. This includes stages such as requirements gathering, design, development, testing, deployment, and maintenance,  with continuous feedback and improvement.
 
 #### Tools, Technologies, and Frameworks
 - Version Control: Use GitHub for version control to track changes, collaborate with team members, and manage code repositories.
@@ -153,7 +154,7 @@ Don't forget to hit the :star: if you like this repo.
 
 1. Registration and Authentication Subsystem: This module provides essential functionality for students, allowing them to register, login, reset passwords, and recover forgotten passwords. 
 
-3. Room Rental Subsystem: This module enables students to search for available rooms based on their preferences (e.g., type of room ), view room details, make reservation for rooms,cancel their room bookings,facilitates online payment for room bookings, file complaints. this module also enables administrator to  manage the student bookings.
+3. Room Rental Subsystem: This module enables students to search for available rooms based on their preferences (e.g., type of room ), view room details, make a reservation for rooms, cancel their room bookings, facilitate online payment for room bookings, and file complaints. this module also enables administrators to  manage student bookings.
 
 4. Administration Subsystem: This module provides essential functionalities for both the registrar and the administrator. It enables the registrar to efficiently manage rooms within the college while allowing the administrator to address and resolve complaints effectively.
   
@@ -185,7 +186,7 @@ Testing and quality assurance play a crucial role in ensuring the reliability an
 - Black Box Testing: This technique focuses on testing the system's functionality without considering its internal implementation. It ensures that the system meets the specified requirements.
 - White Box Testing: This technique involves examining the internal structure and logic of the software. It ensures that all paths and components of the system are tested thoroughly.
 - Integration Testing: This strategy verifies the interaction and compatibility between different system modules to ensure that they work seamlessly together.
-- User Acceptance Testing (UAT): UAT involves testing the system from the end-users' perspective to validate if it meets their requiremnets and expectations.
+- User Acceptance Testing (UAT): UAT involves testing the system from the end-users perspective to validate if it meets their requirements and expectations.
 
 The types of testing conducted in the KTDI College Room Rental system are as followed: 
 
@@ -193,14 +194,14 @@ The types of testing conducted in the KTDI College Room Rental system are as fol
 - Unit Testing: Focuses on testing individual components or units of code to verify their correctness and functionality
 - Integration Testing: To ensures that different system modules integrate and function correctly when combined
 - System Testing: This comprehensive testing verifies the behavior and functionality of the entire system as a whole
-- Usability Testing: Usability testing evaluates the system's user-frienliness and assesses how easily users can navigate and interact with the system
+- Usability Testing: Usability testing evaluates the system's user-friendliness and assesses how easily users can navigate and interact with the system
 - Regression Testing: This testing is performed after system changes or updates to ensure that existing functionalities have not been affected
 
 In order to ensure the reliability and robustness of the software, quality assurance processes have been implemented.
 
 ### 3. Quality Assurance Processes:
-- Continuous Integration (CI) is implemented to automatically build, test and integrate code changes into a shared repository. It helps detect and address integraton issues early on
-- Reqular checkpoints are established during the development process to ensure that quality standards are met at each stage
+- Continuous Integration (CI) is implemented to automatically build, test and integrate code changes into a shared repository. It helps detect and address integration issues early on
+- Regular checkpoints are established during the development process to ensure that quality standards are met at each stage
 - Thorough documentation is created to guide users and developers, ensuring clarity and consistency in system usage and maintenance
 
 
