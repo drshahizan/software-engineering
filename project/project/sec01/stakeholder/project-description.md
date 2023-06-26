@@ -6,22 +6,28 @@
 
 ## Table of Content 
 
-## Introduction:
-Purpose:
+## Introduction
+<div id="header" align="center">
+  <img src="https://cdn.dribbble.com/users/2277441/screenshots/8633668/media/a5fd4dd336bae0bba5bf3a078b00a33c.gif" width="300" height="200"/>
+</div>
+
+**Purpose**:
 The purpose of the Student Accommodation System project is to develop a web application software system that streamlines and integrates the management and application process for student accommodations at Kolej Tun Dr Ismail (KTDI), Universiti Teknologi Malaysia (UTM). The system aims to provide a more efficient and convenient experience for UTM students and KTDI staff.
 
-Problem Statement:
+**Problem Statement**:
 The existing accommodation application and management process at KTDI is time-consuming, prone to mistakes, and lacks integration. Students face difficulties in applying for accommodations and selecting suitable rooms as well as are frustrated with the long process of room action application, while staff struggle with manual room allocation and record-keeping.
 
-Significant Impact:
+**Significant Impact**:
 1. Improved Student Satisfaction: Simplifying the application process and enabling room selection based on preferences enhances the student experience and satisfaction.
 2. Enhanced Staff Efficiency: Automating room allocation and providing centralized access to data reduces administrative burdens and improves staff productivity.
 3. Reduced Errors and Delays: Automation and streamlined communication minimize errors, eliminate delays, and improve overall efficiency.
 4. Optimal Resource Allocation: Data analysis capabilities enable informed decision-making, optimizing the allocation of accommodations and resources.
 5. Positive University Reputation: A well-functioning accommodation system demonstrates a commitment to student welfare and enhances the university's reputation, attracting more students.
 
-## 2. Methodology:
-Approach and Methodologies:
+## Methodology
+<div id="header" align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*aaKtW5AvYw2XsFmgAWXkWg.gif" width="300" height="200"/>
+</div>
 
 To develop the Student Accommodation System for Kolej Tun Dr Ismail (KTDI), we have chosen the **Agile methodology** as our software development process model. The aim is to create a user-friendly and high-quality system within the allocated time and budget, while meeting the requirements of our stakeholders.
 
@@ -32,7 +38,9 @@ To develop the Student Accommodation System for Kolej Tun Dr Ismail (KTDI), we h
 5. Stakeholder Engagement: Stakeholders are actively involved, providing input, feedback, and validation at different stages to ensure the system meets their evolving needs and expectations.
 
 By utilizing the Agile methodology, we can effectively address the unique aspects of student accommodations, including the need for development flexibility and ongoing team collaboration. The Agile approach allows us to continually update and enhance the system based on stakeholder inputs, ensuring that the Student Accommodation System evolves to meet their changing needs and surpass their expectations.
-
+<div id="header" align="center">
+  <img src="https://github.com/drshahizan/software-engineering/raw/main/proposal/submission/sec01/stakeholder/diagram/agile.PNG" width="350" height="300"/>
+</div>
 1. Planning Phase:
   - Identify project scope, objectives, stakeholders.
   - Establish timeline, milestones, and allocate resources.
@@ -80,30 +88,32 @@ By utilizing the Agile methodology, we can effectively address the unique aspect
 
 <!-- Highlight any specific tools, technologies, or frameworks employed during the project.-->
 
-## 3. Implementation:(joseph)
+## Implementation
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif" width="300" height="200"/>
+</div>
+
 - Detail the specific tasks and activities undertaken by your group.
 - Provide an overview of the software components or modules developed.
 - Describe any challenges faced during the implementation phase and how you addressed them.
 
----
-
+## System Design
 <div id="header" align="center">
-  <h1>System Design</h1>
-  <img src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif" width="350" height="250"/>
+  <img src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif" width="300" height="200"/>
 </div>
 
-## Information Architecture
+### Information Architecture
 - [View our Information Architecture](https://www.figma.com/file/8A6rSJ9SMKn2oQ3BkmWdLM/Information-Architecture?type=whiteboard&node-id=0%3A1&t=oXyeua8TtdOi9the-1)
 ![Image](https://github.com/drshahizan/software-engineering/assets/118497269/3befc7eb-0755-4f31-8fe3-17d607da99d6)
 
-## Typography
-### Authentication module
-- **Roboto**: Light, Regular, Medium, Bold
+### Typography
+1. **Authentication module**
+- Roboto: Light, Regular, Medium, Bold
 
-### Main system module
-- **Montserrat**: Regular, Medium. Semibold, Bold
+2. **Main system module**
+- Montserrat: Regular, Medium. Semibold, Bold
 
-## User Interface Design
+### User Interface Design
 - Student user interfaces: 32 pages
 - Fellow user interfaces: 13 pages
 - Staff user interfaces: 21 pages
@@ -112,10 +122,9 @@ By utilizing the Agile methodology, we can effectively address the unique aspect
 
 - [View our system UI here](https://www.figma.com/file/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=0%3A1&mode=design&t=h7kBojJadeGGPpzn-1)
 
-## User Prototype
+### User Prototype
 - [Interact with our system prototype](https://www.figma.com/proto/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=1058-6947&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1058%3A6947&mode=design)
 
----
 
 ## 4. Testing and Quality Assurance:
 - Explain the testing strategies and techniques employed.
