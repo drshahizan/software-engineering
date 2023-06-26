@@ -284,7 +284,8 @@ Design System & Typography:
   </ol>
 
 - Test case template that we use for each test case:
-  ![image](https://github.com/drshahizan/software-engineering/assets/89129564/fefb4ba8-5336-4da8-b348-05f99ada18eb)
+  ![image](https://github.com/drshahizan/software-engineering/assets/89129564/64f950e4-cfb5-436e-b32d-3bc311416efd)
+
 
 
 ## 5. Results and Achievements:
