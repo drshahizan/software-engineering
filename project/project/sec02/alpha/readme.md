@@ -13,7 +13,7 @@ Don't forget to hit the :star: if you like this repo.
 * [Table of Contents](#table-of-contents)
 * [Introduction](#introduction)
 * [Objective](#objective)
-* [Problem Statement](#problem-statement-or-the-need-the-project-aims-to-address)
+* [Problem Statement](#problem-statement)
 * [Potential Impact](#significance-and-potential-impact-of-the-project)
 * [Methodology](#2-methodology)
 * [Implementation](#3-implementation)
