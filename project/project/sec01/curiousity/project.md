@@ -234,16 +234,16 @@ Solutions:
 
 ### 5. Design system
 #### Colour Codes
-<img src="color.jpg" alt="color" height="500px"></img>
+<img src="color.jpg" alt="color" height="100px"></img>
 
 #### Components
-<img src="component.jpg" alt="component" height="500px"></img>
+<img src="component.jpg" alt="component" height="350px"></img>
 
 #### Home Screen
-<img src="homepage.png" alt="homepage" height="500px"></img>
+<img src="homepage.png" alt="homepage" height="350px"></img>
 
 #### Flow for Students
-<img src="student_flow.png" alt="student" height="500px"></img>
+<img src="student_flow.png" alt="student" height="350px"></img>
 
 #### Flow for JKM KTDI
 <img src="jkm_flow.png" alt="jkm" height="500px"></img>
