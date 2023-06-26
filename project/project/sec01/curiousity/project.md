@@ -118,7 +118,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
 
 ## Implementation
 
-### Timeline process
+### 1. Timeline Process
 | No | Date | Member Name | Role	| Task	|
 | -----:| ----- | ------ | ------ | ------ |
 | 1 | 08/04/2023 | Low Ying Xi | Project Manager | Create project plan |
@@ -153,7 +153,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
 | 30 | 26/06/2023 | Ng Shu Yu | Documentation Specialist | Finalize the STD document |
 | 31 | 27/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Project Presentation |
 
-### Requirement collection
+### 2. Requirement Collection
 Meeting with stakeholders <br><br>
 
 #### Meeting with JKM KTDI (Hanie Azyuni binti Mazle) 
@@ -195,9 +195,6 @@ Problems:
 Solutions:
 - Organized registration link in our system
 
-
-
-
 #### Meeting with KTDI Principal (LT KOL Prof. Madya Dr. Mohd Noor Azli Bin Haji. Ali Khan)
 <img src="https://user-images.githubusercontent.com/129201809/238513654-63fbed05-d986-42ae-a51d-76c0cb0b504a.jpg" alt="Principal" height="500px"></img><br>
 At 4 p.m. of 11 May 2023, we had a meeting with Prof. Madya Dr. Mohd Noor Azli at the KTDI office to discuss about the requirements, wants, and needs as a KTDI staff member in event preparation as well as the post-event operations.
@@ -207,7 +204,6 @@ Problems:
 
 Solutions:
 - Calculate active quota (systematic)
-
 
 #### Meeting with Pembantu Felo (Hamizah Amalina Binti Amlan)
 At 14 May 2023, we contacted with Hamizah Amalina via WhatsApp to discuss about the the problem they faced as a KTDI staff member in event preparation as well as the post-event operations.
@@ -221,7 +217,7 @@ Solutions:
 - Event calendar for semesters events
 - Event descriptions
 
-### 3. Software components & modules
+### 3. Software Components & Modules
 - Provide an overview of the software components or modules developed.
 #### Component Model:
 <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/component%20diagram.jpg?raw=true" alt="usecase" height="500px"></img>
@@ -232,10 +228,10 @@ Solutions:
 
 - Analysis
 
-### 4. Design phase
+### 4. Design Phase
 - low fidenity
 
-### 5. Design system
+### 5. Design System
 #### Colour Codes
 <img src="color.jpg" alt="color" height="100px"></img>
 
