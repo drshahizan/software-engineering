@@ -7,9 +7,18 @@
 ## Table of Content 
 
 ## Introduction:
-- Briefly explain the purpose and objectives of the project.
-- Describe the problem statement or the need the project aims to address.
-- Outline the significance and potential impact of the project.
+Purpose:
+The purpose of the Student Accommodation System project is to develop a web application software system that streamlines and integrates the management and application process for student accommodations at Kolej Tun Dr Ismail (KTDI), Universiti Teknologi Malaysia (UTM). The system aims to provide a more efficient and convenient experience for UTM students and KTDI staff.
+
+Problem Statement:
+The existing accommodation application and management process at KTDI is time-consuming, prone to mistakes, and lacks integration. Students face difficulties in applying for accommodations and selecting suitable rooms as well as are frustrated with the long process of room action application, while staff struggle with manual room allocation and record-keeping.
+
+Significant Impact:
+1. Improved Student Satisfaction: Simplifying the application process and enabling room selection based on preferences enhances the student experience and satisfaction.
+2. Enhanced Staff Efficiency: Automating room allocation and providing centralized access to data reduces administrative burdens and improves staff productivity.
+3. Reduced Errors and Delays: Automation and streamlined communication minimize errors, eliminate delays, and improve overall efficiency.
+4. Optimal Resource Allocation: Data analysis capabilities enable informed decision-making, optimizing the allocation of accommodations and resources.
+5. Positive University Reputation: A well-functioning accommodation system demonstrates a commitment to student welfare and enhances the university's reputation, attracting more students.
 
 ## 2. Methodology:
 - Describe the approach and methodologies utilized to tackle the project.
