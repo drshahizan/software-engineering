@@ -19,11 +19,22 @@
 THe purpose of our project of building a KTDI Event Management System is aimed to simplify and streamline the processes of event management held by KTDI Student Residential College Committee (JKM) at UTM Johor. The system offers a variety of key features that assist our stakeholders, JKM KTDI, KTDI staff members, as well as the students around UTM Johor, in respective tasks for event preparation and post-activity processes. 
 
 ### 2. Objective
+1. To develop a KTDI Event Management System that is simple to use, which includes multiple functions like calendar for events in a semester, task delegation, and automated merit point record.
+2. To enhance communication and information access by providing a centralised platform for students to view event details and register for activities that they are interested in.
+3. To help JKM KTDI to track the number of student registrations for events through the system.
+4. To provide comprehensive training and support to users of the system (JKM KTDI, KTDI staff members, UTM students) to ensure successful implementation. 
 
 ### 3. Problem Statement
+1. One of the many problems faced by JKM KTDI is the crashing of event dates, due to manual event preparation processes. 
+2. Besides, they will need to conduct multiple meetings to ensure team progression, which can be time-consuming.
+3. Furthermore, JKM KTDI is also required to manually compute the merit points of KTDI students, which determines their active quota for priority in booking the hostel for the upcoming semester. 
+4. On the contrary, students often encounter difficulties in finding college events due to the overwhelming number of events being shared on social meida platforms like WhatsApp and Telegram.
 
 ### 4. Potential Impact
-
+1. Avoid clashing of events via the event calendar and to view upcoming events held in KTDI.
+2. Task delegation for JKM KTDI.
+3. Tracking of students' registration, attendance and feedback for the events.
+4. Automatic update of KTDI merit points.
 
 ## Methodology
 - Describe the approach and methodologies utilized to tackle the project.
