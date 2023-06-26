@@ -69,7 +69,7 @@ By utilizing the Agile methodology, we can effectively address the unique aspect
 5. Testing Phase:
   - Develop a testing plan.
   - Perform functional, integration, and acceptability testing.
-  - Report and fix flaws using a bug tracking program.
+  - Report and fix flaws using a bug-tracking program.
   - Managed by the quality assurance analyst.
 6. Deployment Phase:
   - Collaborate with the development team to ensure readiness.
@@ -97,7 +97,48 @@ By utilizing the Agile methodology, we can effectively address the unique aspect
 - Detail the specific tasks and activities undertaken by your group.
 - Provide an overview of the software components or modules developed.
 - Describe any challenges faced during the implementation phase and how you addressed them.
-**Timeline**:
+### Timeline:
+
+### Stakeholders:
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Stakeholder</th>
+    <th>Position</th>
+    <th>Responsibility</th>
+  </tr>
+  <tr>
+    <td>Mr Hamdan Bin Abd Ghani</td>
+    <td>KTDI Administration</td>
+    <td>Senior Assistant Administrative Officer</td>
+    <td>Providing the overview of the current KTDI room application and allocation system.</td>
+  </tr>
+    <tr>
+    <td>Hayden Huan Kee Jiun</td>
+    <td>Student</td>
+    <td>KTDI Resident</td>
+    <td>Giving the feedbacks for the current KTDI accommodation system and providing the ideas for the upgraded accommodation system.</td>
+  </tr>
+    <tr>
+    <td>Ts. Dr. Hadafi Fitri Bin Mohd Latif</td>
+    <td>KTDI Fellow Council</td>
+    <td>KTDI Fellow</td>
+    <td>Delivering the manual KTDI merits system and quota active application form for hostel application.</td>
+  </tr>
+    <tr>
+    <td>Oh Kai Xuan</td>
+    <td>Student</td>
+    <td>KTDI Resident</td>
+    <td>Giving the feedbacks for the current KTDI room maintenance system and providing the ideas for improvement.</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>Ms Rosnani Binti Katip</td>
+    <td>KTDI Staff</td>
+    <td>KTDI Officer</td>
+    <td>Providing the manual KTDI forms.</td>
+  </tr>
+</table>
 
 **Use case diagram**:
 <div id="header" align="center">
@@ -109,7 +150,13 @@ By utilizing the Agile methodology, we can effectively address the unique aspect
   <img src="https://github.com/drshahizan/software-engineering/assets/118497269/f0a934e8-90e5-40c4-9a74-38503bcd46be"/>
 </div>
 
-**Challenges**:
+### Challenges:
+| No | Challenge | Solution | 
+| :------: | ----- | :------: | 
+| 1 | Gathering and Structuring Requirements | Engaged with key stakeholders by conducting interviews to gather insights and understand their needs. |
+| 2 | User Interface Design | Conducted user research, gathering feedback from end-users, and iterating on the design based on their input to help us to create a user-friendly and intuitive interface. |
+| 3 | Changing Requirements | Always maintained open and regular communication channels with stakeholders, including students, administrators, and staff as well as fellow to to gather feedback, understand evolving requirements, and address any concerns or changes promptly. |
+| 4 | Team Integration | i) Clearly defined the roles and responsibilities of team members by assigning specific tasks and deliverables to each team member based on their expertise and strengths. ii) Conducted scrum meeting every week either online or physically to discuss about the project progress and things have been done for each member. | 
 
 ## System Design
 <div id="header" align="center">
