@@ -149,7 +149,6 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 
 ## 3. Implementation:
 
-## 3. Implementation:
 ### A) Detail the specific tasks and activities undertaken by our group:
 - <b>Create Project Plan</b>: Set up a meeting with all group member to decide the software system to be develop. Determine the role of each member and have a rough plan for this project.
  
