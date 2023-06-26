@@ -12,7 +12,7 @@
 </div>
 
 **Purpose**:
-The Student Accommodation System project aims to develop a web application software system that streamlines and integrates the management and application process for student accommodations at Kolej Tun Dr Ismail (KTDI), Universiti Teknologi Malaysia (UTM). The system aims to provide a more efficient and convenient experience for UTM students and KTDI staff.
+The Student Accommodation System project aims to develop a web application software system that streamlines and integrates student accommodations' management and application process at Kolej Tun Dr Ismail (KTDI), Universiti Teknologi Malaysia (UTM). The system aims to provide a more efficient and convenient experience for UTM students and KTDI staff.
 
 **Problem Statement**:
 The existing accommodation application and management process at KTDI is time-consuming, prone to mistakes, and lacks integration. Students face difficulties in applying for accommodations and selecting suitable rooms and are frustrated with the long process of room action application, while staff struggle with manual room allocation and record-keeping.
@@ -218,7 +218,13 @@ The followings are the specific tools, technologies, or frameworks which are emp
 
 ### Testing Strategies/Techniques:
 
+
 ### Types of Testing:
+In this project, our team has used **unit testing** as an important part of our project's testing type. It involves testing individual units or components of the software to ensure they work correctly. The main goals of unit testing are to check that each unit behaves as expected and to detect bugs early in the development process.
+
+During unit testing, we isolated each unit of code and verified its behavior. This allows us to identify and fix issues in a focused manner. Then, we validated that units produce the correct outputs for given inputs and handle exceptional cases properly. Besides, unit testing also helps with refactoring and maintenance. It provides a safety net when making changes to the code, ensuring that modifications don't introduce new bugs and that the units still function correctly. Additionally, unit tests act as living documentation, providing insights into how the code is supposed to work.
+
+By performing unit testing, we could catch bugs early on, which saves time and effort in the long run. It improves the overall quality of our code by making it more reliable and robust. Unit tests also aid in collaboration among team members, as they provide clear specifications for the expected behavior of the code. Thus, unit testing helps us ensure that individual units of code work correctly, detect bugs early, support refactoring and maintenance, and improve the overall quality of our software.
 
 ### Quality Assurance Process:
 
