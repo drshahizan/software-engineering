@@ -26,8 +26,6 @@ package "Admin and Reporting Subsystem"{
 [Managing Services] --> [Manage User UI]
 [Managing Services] --> [Report UI]
 [Managing Services] --> [Manage Feedback UI]
-
-  [Managing Services] --> "Data Access Layer"
-}
+[Managing Services] --> "Data Access Layer"
 
 @enduml
