@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Instructions
 - Please use the [answer template](temp_struc.md).
-- Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../uml/submission/sec01) or [`submission/sec02`](../uml/submission/sec02) folder, create a folder with your GitHub ID. Name the file as `val2.md`.
+- Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../uml/submission/sec01) or [`submission/sec02`](../uml/submission/sec02) folder, create a folder with your GitHub ID. Name the file as `ad3.md`.
 
 ### Folder structure
 
@@ -31,23 +31,56 @@ Don't forget to hit the :star: if you like this repo.
 └── 📁your github id
 ```
 
-# Case Study: Software Verification and Validation
+## Scenario: Online Banking System
 
-## Background
-XYZ Healthcare Solutions is developing a new patient management system called "MediCare" to streamline the administrative processes in hospitals and clinics. To ensure the quality and reliability of the software, XYZ Healthcare Solutions implements software verification and validation processes throughout the development lifecycle.
+A banking organization is developing an Online Banking System to provide its customers with convenient and secure access to their accounts and banking services. The system follows the 4 + 1 View Model of software architecture to ensure a comprehensive and well-structured design.
 
-## Goal
-The primary goal of software verification in XYZ Healthcare Solutions' MediCare project is to verify that the software components and functionalities are implemented correctly according to the specified requirements. Verification activities aim to identify and eliminate defects, coding errors, and inconsistencies to ensure the accuracy and reliability of the software.
+### Logical View
+The logical view of the Online Banking System focuses on the functional aspects of the system. It includes components such as user authentication, account management, funds transfer, bill payment, and transaction history. The logical view ensures that the system's functionality is well-organized and easy to maintain.
 
-## Techniques
-XYZ Healthcare Solutions employs various techniques for software verification. They conduct unit testing, where individual units of the software, such as functions or modules, are tested in isolation to validate their functionality. Integration testing is performed to assess the interaction and compatibility of different software components, ensuring that they work seamlessly together. Additionally, XYZ Healthcare Solutions utilizes code reviews and inspections to detect coding errors, ensure adherence to coding standards, and maintain code quality.
+### Development View
+The development view in the Online Banking System deals with the software development aspects. It encompasses programming languages, frameworks, databases, and development tools used to build the system. The development view ensures that the system is developed using industry best practices and enables collaboration among developers.
 
-## Purpose
-The purpose of software validation in the MediCare project is to ensure that the software meets the intended purpose and satisfies the needs of the end-users and stakeholders. XYZ Healthcare Solutions conducts user acceptance testing (UAT) where real users engage with the software to validate its usability, functionality, and performance in real-life scenarios. The feedback gathered during validation activities helps identify any gaps or areas for improvement and ensures that MediCare provides a reliable and user-friendly patient management solution.
+### Process View
+The process view illustrates the dynamic behavior of the Online Banking System. It showcases the interactions between different components during runtime, such as user login, transaction processing, and security checks. The process view helps in understanding the system's behavior, performance, and scalability.
 
-## Structured Question
+### Physical View
+The physical view of the Online Banking System focuses on the deployment and distribution of system components. It includes hardware infrastructure, network configuration, servers, databases, and security measures. The physical view ensures that the system is deployed in an optimized and secure manner.
 
-How does XYZ Healthcare Solutions ensure the accuracy and reliability of the MediCare software through software verification and validation? Provide an overview of the techniques used for verification and explain how they help identify and eliminate defects. Furthermore, describe the purpose and significance of user acceptance testing in the validation process, highlighting its role in ensuring usability, functionality, and performance of the software in real-life scenarios.
+### Use Case View
+The use case view identifies the functional requirements from the user's perspective. It captures various use cases such as customer registration, balance inquiry, fund transfer, bill payment, and account statement generation. The use case view helps in understanding the system's interactions with different user roles and their corresponding functionalities.
+
+Structured Questions:
+
+1. What is the primary focus of the logical view in the Online Banking System?
+
+2. Which view in the 4 + 1 View Model of software architecture deals with software development aspects?
+
+3. What does the process view of the Online Banking System illustrate?
+
+4. Which view in the 4 + 1 View Model of software architecture focuses on the deployment and distribution of system components?
+
+5. What is the purpose of the use case view in the Online Banking System?
+
+6. Which components are included in the logical view of the Online Banking System?
+
+7. What does the development view of the Online Banking System include?
+
+8. How does the process view help in understanding the Online Banking System?
+
+9. What aspects are covered in the physical view of the Online Banking System?
+
+10. Which view focuses on capturing the functional requirements from the user's perspective?
+
+11. How does the logical view ensure the system's functionality is well-organized?
+
+12. What is the significance of the development view in the Online Banking System?
+
+13. How does the process view showcase the dynamic behavior of the system?
+
+14. What does the physical view consider in the deployment and distribution of system components?
+
+15. Which view in the 4 + 1 View Model ensures modularity and scalability of the Online Banking System?
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

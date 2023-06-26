@@ -37,7 +37,9 @@ Don't forget to hit the :star: if you like this repo.
 ## Documentation
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Document STD| <a href="https://docs.google.com/document/d/1YpbgimonDKQwNtbctKyVZZjjHt4PfW1Z/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|1| Document SRS| <a href="https://docs.google.com/document/d/1SVXydTjl-7bWs_2QEXZc8l11XHcp8jw3" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Document SDD| <a href="https://docs.google.com/document/d/1W1x0oqTvwYGFxdoNChM5-ybu_OKQI4jUeotlEEBs560" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|3| Document STD| <a href="https://docs.google.com/document/d/1YpbgimonDKQwNtbctKyVZZjjHt4PfW1Z/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 <table>
