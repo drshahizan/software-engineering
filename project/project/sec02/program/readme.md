@@ -153,7 +153,40 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 - <b>Create Project Plan</b>: Set up a meeting with all group member to decide the software system to be develop. Determine the role of each member and have a rough plan for this project.
  
 - <b>Find Stakeholders</b>: Deciding who's is our stakeholder for our system that called Student Feedback System in Faculty of Computing, University Technology Malaysia.
-  
+  ## Stakeholder
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Stakeholder</th>
+    <th>Position</th>
+    <th>Responsibility</th>
+  </tr>
+  <tr>
+    <td>1 Dr. Nor Azizah Ali</td>
+    <td>Academic Advisor</td>
+    <td>Lecturer</td>
+    <td>Provide feedback on usability of system from a lecturer perspective, suggest new features for lecturer use</td>
+  </tr>
+    <tr>
+    <td>2 Masnawi bin Miskam</td>
+    <td>Administration</td>
+    <td>Administritative Officer</td>
+    <td>Provide feedback on usability of system from an administrator perspective, share the required information in students' profile stored by administration</td>
+  </tr>
+    <tr>
+    <td>3 Nurul Asyikin Binti Muhamad</td>
+    <td>Student in Faculty of Computing</td>
+    <td>3rd Year Student</td>
+    <td>Provide feedback on usability of system from a student perspective, suggest additional features benefits to students</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>4 Kevin EE</td>
+    <td>Student in Faculty of Computing</td>
+    <td>3rd Year Student</td>
+    <td>Provide feedback on usability of system from a student perspective</td>
+  </tr>
+</table>
 
 - <b>Create Proposal</b>: We create a proposal to briefly describe the student feedback system.
   
