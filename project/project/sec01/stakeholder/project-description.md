@@ -97,6 +97,19 @@ By utilizing the Agile methodology, we can effectively address the unique aspect
 - Detail the specific tasks and activities undertaken by your group.
 - Provide an overview of the software components or modules developed.
 - Describe any challenges faced during the implementation phase and how you addressed them.
+**Timeline**:
+
+**Use case diagram**:
+<div id="header" align="center">
+  <img src="https://github.com/drshahizan/software-engineering/assets/118497269/fa57cef2-a8a4-4692-ba40-5683ab57e230"/>
+</div>
+
+**Class/Domain diagram**:
+<div id="header" align="center">
+  <img src="https://github.com/drshahizan/software-engineering/assets/118497269/f0a934e8-90e5-40c4-9a74-38503bcd46be"/>
+</div>
+
+**Challenges**:
 
 ## System Design
 <div id="header" align="center">
