@@ -173,15 +173,15 @@ Don't forget to hit the :star: if you like this repo.
 
 #### Challenges Faced and Solutions:
 
-1. Scalability: Ensuring that the system can handle a large number of concurrent users and room bookings was a challenge. To address this, the group implemented performance optimizations, such as database indexing, caching, and load-balancing techniques.
+## Challenges and Solutions
 
-2. Payment Security: Integrating a secure payment processing system while complying with industry standards and regulations was challenging. The group addressed this by collaborating with reputable payment gateway providers and following best practices for secure payment handling.
-
-3. User Experience: Designing a user-friendly interface that catered to the diverse needs of students and staff was a challenge. The group conducted user testing sessions and gathered feedback to iteratively improve the interface and enhance the overall user experience.
-
-4. Data Integrity: Ensuring data consistency and integrity across multiple modules and database tables was a challenge. The group implemented appropriate data validation and transaction handling mechanisms to maintain data integrity and prevent data anomalies.
-
-5. System Integration: Integrating the different software components and ensuring seamless communication between modules posed a challenge. The group used well-defined APIs, standardized data formats, and thorough integration testing to address this challenge and achieve smooth system integration.
+| Challenge                                 | Solution                                                                                                     |
+|-------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Scalability                               | Implemented performance optimizations such as database indexing, caching, and load-balancing techniques.      |
+| Payment Security                          | Collaborated with reputable payment gateway providers and followed best practices for secure payment handling. |
+| User Experience                           | Conducted user testing sessions and gathered feedback to iteratively improve the interface and user experience.|
+| Data Integrity                            | Implemented data validation and transaction handling mechanisms to ensure data consistency and integrity.      |
+| System Integration                        | Utilized well-defined APIs, standardized data formats, and thorough integration testing for seamless integration. |
 
 Throughout the implementation phase, the group maintained open communication, regularly reviewed progress, and addressed challenges collaboratively. They also conducted thorough testing at each stage to identify and rectify any issues promptly, ensuring the successful development and deployment of the Kolej Tun Dr. Ismail College room rental system.
 
