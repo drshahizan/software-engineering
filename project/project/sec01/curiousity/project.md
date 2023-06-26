@@ -118,12 +118,12 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
 - Gantt Chart
 
 ### Requirement collection
-1. Meeting with JKM KTDI (Hanie Azyuni binti Mazle)
+<b> 1. Meeting with JKM KTDI (Hanie Azyuni binti Mazle) </b>
 On 8 p.m. of 3 May 2023, we had a meeting we Hanie at M01, KTDI to discuss about the requirements, wants, and needs of JKM KTDI in doing their pre, during, and post event preparation.
 
 #### Outcome:
 Problems: 
--Laborious process of seeking approval from multiple parties through paperwork.
+- Laborious process of seeking approval from multiple parties through paperwork.
 - Management of works between members
 
 Solutions:
