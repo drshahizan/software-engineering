@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Instructions
 - Please use the [MCQ template](temp_mcq.md).
-- Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../uml/submission/sec01) or [`submission/sec02`](../uml/submission//sec02) folder, create a folder with your GitHub ID. Name the file as `mcq8.md`.
+- Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../uml/submission/sec01) or [`submission/sec02`](../uml/submission//sec02) folder, create a folder with your GitHub ID. Name the file as `mcq10.md`.
 
 ### Folder structure
 
@@ -30,85 +30,177 @@ Don't forget to hit the :star: if you like this repo.
 │   └── 📄mcq5.md
 └── 📁your github id
 ```
+# Case Study: E-commerce Platform
 
-# Case Study: Software Testing Strategies
+## Overview
+An e-commerce platform is being developed to provide online shopping services to customers. The system follows the 4 + 1 View Model of software architecture to ensure a modular and scalable design. Let's explore the case study and answer the multiple-choice questions related to the architecture.
 
-## Background
-ABC Software Solutions has developed a new web-based project management tool called "ProjectTrack" to assist organizations in managing their projects effectively. To ensure the reliability, performance, usability, and acceptance of the software, ABC Software Solutions has implemented various testing strategies, including stress testing, performance testing, usability testing, and acceptance testing.
+### Logical View
+The logical view of the e-commerce platform focuses on the functional aspects of the system. It includes components such as product catalog management, shopping cart, order processing, payment gateway integration, and customer account management. The logical view ensures that the system's functionality is well-structured and easy to maintain.
 
-## Stress Testing
-Stress testing is an essential aspect of ABC Software Solutions' testing strategy. The team simulates high user loads and tests the application's performance under extreme conditions. By subjecting ProjectTrack to heavy workloads and exceeding its capacity limits, they evaluate the software's stability, responsiveness, and reliability. This testing strategy helps identify potential bottlenecks and vulnerabilities, ensuring that the application can handle demanding scenarios without crashing or degrading performance.
+### Development View
+The development view in the e-commerce platform deals with the software development aspects. It includes components such as programming languages, frameworks, databases, and development tools. The development view ensures that the system is developed using industry best practices and facilitates collaboration among developers.
 
-## Performance Testing
-Performance testing is another critical component of ABC Software Solutions' testing approach. The team assesses ProjectTrack's response time, resource usage, scalability, and reliability under normal operating conditions. By conducting performance tests, they gather valuable insights into the software's efficiency, its ability to handle concurrent users, and its responsiveness to user actions. This testing strategy enables them to optimize the application's performance and provide a smooth and efficient user experience.
+### Process View
+The process view illustrates the dynamic behavior of the e-commerce platform. It showcases how different components interact during runtime, such as user authentication, product search, order placement, and payment processing. The process view helps in understanding the system's behavior and performance.
 
-## Usability Testing
-Usability testing plays a significant role in ensuring the user-friendliness and effectiveness of ProjectTrack. ABC Software Solutions conducts usability tests with a focus on the application's interface, navigation, and overall user experience. Testers observe users as they perform common tasks and collect feedback on the software's ease of use, intuitiveness, and clarity. This testing strategy helps identify any usability issues, allowing for necessary improvements to enhance user satisfaction and productivity.
+### Physical View
+The physical view of the e-commerce platform focuses on the deployment and distribution of system components. It includes hardware infrastructure, network configuration, servers, databases, and load balancing mechanisms. The physical view ensures that the system is deployed in an optimized manner, considering factors such as scalability, reliability, and security.
 
-## Acceptance Testing
-ABC Software Solutions performs acceptance testing to ensure that ProjectTrack meets the specified requirements and is ready for deployment. The software is tested in a real-world environment to validate its functionality, usability, and adherence to business needs. This testing strategy involves end-users or client representatives who verify that the application aligns with their expectations and fulfills the intended purpose. Acceptance testing ensures that ProjectTrack is approved for release and meets the user's requirements.
+### Use Case View
+The use case view identifies the functional requirements from the user's perspective. It captures various use cases such as user registration, product browsing, adding items to the cart, placing an order, and tracking order status. The use case view helps in understanding the system's interactions with different user roles and their corresponding functionalities.
 
-## Multiple Choice Questions
+## Multiple-Choice Questions
 
-1. Which testing strategy evaluates the software's stability and responsiveness under high user loads and extreme conditions?
-   - A) Stress testing
-   - B) Performance testing
-   - C) Usability testing
-   - D) Acceptance testing
+1. Which view of the 4 + 1 View Model focuses on the functional aspects of the e-commerce platform?
+   - (a) Logical View
+   - (b) Development View
+   - (c) Process View
+   - (d) Physical View
 
-2. What is the primary focus of performance testing?
-   - A) Testing the software's stability under high user loads
-   - B) Evaluating the software's response time and resource usage
-   - C) Assessing the software's interface and user experience
-   - D) Verifying the software meets specified requirements
+2. What does the logical view of the e-commerce platform primarily include?
+   - (a) Hardware infrastructure
+   - (b) User authentication
+   - (c) Network configuration
+   - (d) Load balancing mechanisms
 
-3. Which testing strategy ensures the software is user-friendly and effective?
-   - A) Stress testing
-   - B) Performance testing
-   - C) Usability testing
-   - D) Acceptance testing
+3. Which view in the 4 + 1 View Model deals with the software development aspects?
+   - (a) Logical View
+   - (b) Development View
+   - (c) Process View
+   - (d) Physical View
 
-4. What is the main objective of usability testing?
-   - A) Evaluating the software's stability under high user loads
-   - B) Assessing the software's response time and resource usage
-   - C) Testing the software's ease of use and overall user experience
-   - D) Verifying the software meets specified requirements
+4. What does the development view of the e-commerce platform encompass?
+   - (a) Product catalog management
+   - (b) Shopping cart
+   - (c) Programming languages and frameworks
+   - (d) User registration
 
-5. Which testing strategy involves end-users or client representatives?
-   - A) Stress testing
-   - B) Performance testing
-   - C) Usability testing
-   - D) Acceptance testing
+5. Which view showcases the dynamic behavior of the e-commerce platform?
+   - (a) Logical View
+   - (b) Development View
+   - (c) Process View
+   - (d) Physical View
 
-6. What is the purpose of stress testing?
-   - A) To evaluate the software's ease of use and overall user experience
-   - B) To assess the software's response time and resource usage
-   - C) To verify the software meets specified requirements
-   - D) To test the software's stability under high user loads and extreme conditions
+6. What is the primary focus of the physical view in the e-commerce platform?
+   - (a) User authentication
+   - (b) Hardware infrastructure
+   - (c) Payment processing
+   - (d) Product search
 
-7. Which testing strategy focuses on the software's response time, scalability, and reliability under normal operating conditions?
-   - A) Stress testing
-   - B) Performance testing
-   - C) Usability testing
-   - D) Acceptance testing
+7. What does the process view of the e-commerce platform illustrate?
+   - (a) Order placement and tracking
+   - (b) Programming languages and frameworks
+   - (c) Network configuration
+   - (d) User authentication
 
-8. What is the primary goal of acceptance testing?
-   - A) To evaluate the software's stability under high user loads and extreme conditions
-   - B) To assess the software's response time and resource usage
-   - C) To verify the software meets specified requirements and is ready for deployment
-   - D) To test the software's ease of use and overall user experience
+8. Which view focuses on the deployment and distribution of system components?
+   - (a) Logical View
+   - (b) Development View
+   - (c) Process View
+   - (d) Physical View
 
-9. Which testing strategy helps identify potential bottlenecks and vulnerabilities?
-   - A) Stress testing
-   - B) Performance testing
-   - C) Usability testing
-   - D) Acceptance testing
+9. What does the use case view of the e-commerce platform capture?
+   - (a) Functional requirements from the user's perspective
+   - (b) Programming languages and frameworks
+   - (c) Hardware infrastructure
+   - (d) Network configuration
 
-10. What is the purpose of performance testing?
-    - A) To evaluate the software's stability under high user loads and extreme conditions
-    - B) To assess the software's response time, resource usage, scalability, and reliability
-    - C) To test the software's ease of use and overall user experience
-    - D) To verify the software meets specified requirements and is ready for deployment
+10. What does the logical view ensure in the e-commerce platform?
+    - (a) Scalability and reliability
+    - (b) Functional organization and maintainability
+    - (c) Deployment and distribution of components
+    - (d) Dynamic behavior and interactions
+
+11. Which components are included in the logical view of the e-commerce platform?
+    - (a) Payment gateway integration and customer account management
+    - (b) Programming languages and frameworks
+    - (c) Hardware infrastructure
+    - (d) Load balancing mechanisms
+
+12. What does the development view of the e-commerce platform focus on?
+    - (a) Functional aspects of the system
+    - (b) Dynamic behavior and interactions
+    - (c) Software development aspects
+    - (d) Deployment and distribution of components
+
+13. How does the process view help in understanding the e-commerce platform?
+    - (a) By showcasing the interactions between different components during runtime
+    - (b) By focusing on hardware infrastructure and network configuration
+    - (c) By facilitating collaboration among developers
+    - (d) By ensuring optimized deployment and distribution
+
+14. What aspects are covered in the physical view of the e-commerce platform?
+    - (a) Functional organization and maintainability
+    - (b) Dynamic behavior and interactions
+    - (c) Deployment and distribution of components
+    - (d) User authentication and payment processing
+
+15. Which view in the 4 + 1 View Model captures the functional requirements from the user's perspective?
+    - (a) Logical View
+    - (b) Development View
+    - (c) Process View
+    - (d) Use Case View
+
+16. What is the purpose of the physical view in the e-commerce platform?
+    - (a) To ensure the system's functionality is well-organized
+    - (b) To capture the functional requirements from the user's perspective
+    - (c) To showcase the dynamic behavior of the system
+    - (d) To focus on the deployment and distribution of components
+
+17. How does the logical view in the e-commerce platform ensure maintainability?
+    - (a) By facilitating collaboration among developers
+    - (b) By structuring and organizing components based on their functionality
+    - (c) By showcasing the dynamic behavior of the system
+    - (d) By considering hardware infrastructure and network configuration
+
+18. What is the significance of the development view in the e-commerce platform?
+    - (a) It ensures the system's functionality is well-organized
+    - (b) It focuses on the deployment and distribution of components
+    - (c) It deals with the software development aspects of the system
+    - (d) It captures the functional requirements from the user's perspective
+
+19. How does the process view of the e-commerce platform showcase the dynamic behavior?
+    - (a) By structuring and organizing components based on their functionality
+    - (b) By focusing on hardware infrastructure and network configuration
+    - (c) By illustrating the interactions between different components during runtime
+    - (d) By ensuring optimized deployment and distribution
+
+20. What does the physical view consider in the deployment and distribution of components?
+    - (a) Functional organization and maintainability
+    - (b) Dynamic behavior and interactions
+    - (c) Hardware infrastructure, network configuration, and servers
+    - (d) User authentication and payment processing
+
+21. Which view in the 4 + 1 View Model ensures modularity and scalability of the e-commerce platform?
+    - (a) Logical View
+    - (b) Development View
+    - (c) Process View
+    - (d) Physical View
+
+22. What is the primary focus of the logical view in the e-commerce platform?
+    - (a) Hardware infrastructure and network configuration
+    - (b) User authentication and payment processing
+    - (c) Functional organization and maintainability
+    - (d) Dynamic behavior and interactions
+
+23. What does the development view of the e-commerce platform include?
+    - (a) Payment gateway integration and customer account management
+    - (b) Programming languages, frameworks, and databases
+    - (c) User authentication and order placement
+    - (d) Hardware infrastructure and network configuration
+
+24. How does the process view of the e-commerce platform help in understanding the system?
+    - (a) By ensuring the system's functionality is well-organized
+    - (b) By showcasing the dynamic behavior and interactions during runtime
+    - (c) By focusing on the deployment and distribution of system components
+    - (d) By capturing the functional requirements from the user's perspective
+
+25. Which view in the 4 + 1 View Model focuses on the deployment and distribution of system components?
+    - (a) Logical View
+    - (b) Development View
+    - (c) Process View
+    - (d) Physical View
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
