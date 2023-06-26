@@ -16,6 +16,7 @@
 
 ## Introduction
 ### 1. Purpose
+THe purpose of our project of building a KTDI Event Management System is aimed to simplify and streamline the processes of event management held by KTDI Student Residential College Committee (JKM) at UTM Johor. The system offers a variety of key features that assist our stakeholders, JKM KTDI, KTDI staff members, as well as the students around UTM Johor, in respective tasks for event preparation and post-activity processes. 
 
 ### 2. Objective
 
