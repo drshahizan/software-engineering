@@ -190,16 +190,16 @@ The choice of tools, technologies, and frameworks will depend on the specific re
   
 - <b>Create UML Diagram</b>: Create Use case Diagram,Class Diagram,Sequence diagram and Activity Diagram.
   
-Sequence Diagram:
+Sequence Diagram:<br>
  ![image](https://github.com/drshahizan/software-engineering/assets/129196395/0e0f0681-72a0-4f77-ba98-1d9312739084)
  
-Class Diagram: 
+Class Diagram:<br>
  ![image](https://github.com/drshahizan/software-engineering/assets/129196395/0b679cd2-f979-49ca-9393-a1c8468a44d3)
 
-Use Case Diagram:
+Use Case Diagram:<br>
  ![image](https://github.com/drshahizan/software-engineering/assets/129196395/bf6ff114-0cde-4cc7-aa1d-8b355c9b5b5e)
  
-Activity Diagram: 
+Activity Diagram:<br>
  ![image](https://github.com/drshahizan/software-engineering/assets/129196395/538e6299-4fdf-4ba4-990e-60eb67c034e1)
  
 - <b>Create SRS Documentation</b>: Use Cases and extra to-do parts in SRS documentation identified
