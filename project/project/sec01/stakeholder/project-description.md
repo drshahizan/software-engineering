@@ -225,9 +225,9 @@ Equivalence Partitioning is a technique used to divide the input data into group
 By using Equivalence Partitioning, we can ensure that test cases cover different input partitions, increasing the likelihood of detecting defects within each partition.
 
 2. **Boundary Value Analysis (BVA)**:
-Boundary Value Analysis is a technique used to test the system's behavior at the boundaries of input ranges. It focuses on selecting test cases at or just beyond the boundaries to verify how the system handles these boundary values. In our project, Boundary Value Analysis is conducted as the next example:
+Boundary Value Analysis is a technique used to test the system's behaviour at the boundaries of input ranges. It focuses on selecting test cases at or beyond boundaries to verify how the system handles these boundary values. In our project, Boundary Value Analysis is conducted as the next example:
 
-- Maximum and Minimum Room Capacity: We can test the system's behavior when assigning the maximum and minimum capacity for rooms. By selecting test cases with values just below and above these boundaries, we can ensure that the system handles capacity constraints correctly.
+- Maximum and Minimum Room Capacity: We can test the system's behaviour when assigning room maximum and minimum capacity. We can ensure that the system handles capacity constraints correctly by selecting test cases with values just below and above these boundaries.
 
 By using Boundary Value Analysis, we can focus on critical values that are likely to cause issues and ensure that the system handles these boundary conditions accurately.
 
@@ -236,28 +236,24 @@ Our team has used **unit testing** as an important part of our project's testing
 
 During unit testing, we isolated each unit of code and verified its behaviour. This allows us to identify and fix issues in a focused manner. Then, we validated that units produce the correct outputs for given inputs and handle exceptional cases properly. Besides, unit testing also helps with refactoring and maintenance. It provides a safety net when making changes to the code, ensuring that modifications don't introduce new bugs and that the units still function correctly. Additionally, unit tests act as living documentation, providing insights into how the code is supposed to work.
 
-By performing unit testing, we could catch bugs early, saving time and effort in the long run. It improves the overall quality of our code by making it more reliable and robust. Unit tests also aid in collaboration among team members, as they provide clear specifications for the expected behaviour of the code. Thus, unit testing helps us ensure that individual units of code work correctly, detect bugs early, support refactoring and maintenance, and improve the overall quality of our software.
+Also, we could catch bugs early by performing unit testing, saving time and effort in the long run. It improves the overall quality of our code by making it more reliable and robust. Unit tests also aid in collaboration among team members, as they provide clear specifications for the expected behaviour of the code. Thus, unit testing helps us ensure that individual units of code work correctly, detect bugs early, support refactoring and maintenance, and improve the overall quality of our software.
 
 ### Quality Assurance Process:
-We have implemented the following quality assurance processes to ensure the reliability and robustness of the software product.
+To ensure the reliability and robustness of the software product, we have implemented the following quality assurance processes:
 
-1. Requirement Analysis and Validation: We thoroughly analyzed and validated the requirements to ensure their accuracy, completeness, and alignment with stakeholders' needs. This involves engaging with stakeholders, conducting interviews, and reviewing requirements documentation (SRS).
+1. Requirement Analysis and Validation: Thoroughly analyze and validate requirements to ensure clarity and alignment with stakeholders' needs.
+2. Test Planning and Strategy: Develop a comprehensive test plan that outlines testing objectives, scope, timelines, and resource allocation.
+3. Test Case Development: Create well-defined test cases that cover various scenarios, including positive and negative test cases, boundary conditions, and edge cases.
+4. Test Execution and Defect Management: Execute test cases and systematically track and manage defects using a defect tracking system or tool.
+5. Regression Testing: Perform regression testing to ensure that new changes or bug fixes do not affect existing functionalities.
+6. User Acceptance Testing (UAT): Engage end-users in testing to validate the software's usability, functionality, and user experience.
+7. Compatibility Testing: Test the software across different platforms, browsers, and devices to ensure compatibility and consistent performance.
+8. Usability Testing: Evaluate the software's ease of use, user interface, and overall user experience to ensure it meets user expectations.
+10. Code Reviews and Quality Checks: Perform code reviews to ensure adherence to coding standards, identify potential bugs, and improve code quality.
+11. Documentation Review: Review and validate the accuracy and completeness of software documentation, including user manuals, installation guides, and release notes.
+12. Continuous Integration and Deployment: Implement a continuous integration and deployment pipeline to automate testing, build, and deployment processes, ensuring frequent and reliable releases.
 
-2. Test Planning and Strategy: We developed a comprehensive test plan (Proposal) that outlines the testing objectives, scope, approach, schedules, resource allocation, and testing environment requirements. This plan guides our testing efforts and ensures appropriate test coverage.
-
-3. Test Case Development: We created well-defined test cases that cover various functions, input combinations, and potential error conditions. These test cases are designed to verify the software against specified requirements and ensure adequate test coverage.
-
-4. Test Execution and Defect Management: We executed test cases according to the test plan, record test results, and identify any defects or problems encountered during testing. Defects are reported, tracked, and managed using a defect management system to ensure timely resolution.
-
-5. Regression Testing: We conducted regression testing after software changes or updates to ensure that previously tested functionalities remain intact. This helps us identify and fix any regression defects that may arise due to system changes.
-
-6. Performance and Load Testing: We evaluated the system's behavior under normal and peak load conditions to identify performance bottlenecks, scalability issues, and resource constraints. This testing ensures that the software can handle expected user loads without degradation in performance.
-
-7. User Acceptance Testing (UAT): We involved end-users in the testing process to validate the system's usability, functionality, and user experience. UAT helps to ensure that the software meets users' expectations and requirements.
-
-8. Code Reviews and Quality Checks: We conducted code reviews to assess the quality and maintainability of the software code. This involves reviewing the code for adherence to coding standards, identifying potential bugs, and ensuring best practices are followed.
-
-9. Continuous Integration and Deployment: We implemented a continuous integration and deployment process to automate the execution of tests and detect problems early in the development life cycle. This helps ensure that changes are integrated smoothly and issues are identified and resolved promptly.
+By implementing these quality assurance processes, we strive to deliver a reliable and robust student accommodation system that meets high quality, functionality, and user satisfaction standards.
 
 
 ## Results and Achievements
