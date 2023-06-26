@@ -142,10 +142,10 @@ By leveraging the Agile methodology, we can effectively address the specific req
 </div>
 
 1. Planning Phase:
-  - Identify project scope, objectives, stakeholders.
-  - Establish timeline, milestones, and allocate resources.
-  - Develop a blueprint and create a Gantt chart.
-  - Led by the project manager.
+  - The project scope, objectives, and stakeholders are identified and defined.
+  - A timeline is established, along with milestones and resource allocation.
+  - A blueprint is developed, and a Gantt chart is created to visualize the project plan.
+  - The project manager takes the lead in overseeing these activities
 2. Requirements Gathering and Analysis Phase::
   - Engage with stakeholders to understand their needs and priorities.
   - Document user requirements and translate them into actionable user stories.
