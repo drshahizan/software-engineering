@@ -14,7 +14,7 @@ Don't forget to hit the :star: if you like this repo.
 * [Introduction](#introduction)
 * [Objective](#objective)
 * [Problem Statement](#problem-statement-or-the-need-the-project-aims-to-address)
-* [Potential Impact](#potential-impact)
+* [Potential Impact](#significance-and-potential-impact-of-the-project)
 * [Methodology](#2-methodology)
 * [Implementation](#3-implementation)
 * [Timeline process](#timeline-process)
