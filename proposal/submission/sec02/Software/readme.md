@@ -99,10 +99,7 @@ Agile methodology is most suitable for this project because it guarantees short 
 
 
 
-<div align="justify">
-    <img src="https://i.ibb.co/jbXQbC8/Software-Process-Model.png" alt="Software-Process-Model" border="0">
-</div>
-
+<img src="https://i.ibb.co/RQy1XhT/Proposal-SPM-drawio.png" alt="Proposal-SPM-drawio" border="0">
 #### Gathering Requirements Phase:
 - Find and identify the best stakeholders. For examples, PKU UTM administrative personnel, PKU UTM medical professionals, and UTM students.
 - Determine which features are necessary for Student Health and Wellness Management System and which may be added later by analysing and prioritising the requirements. For instances, health tips, SOS emergency call button, Dental Pre-appointment Form and Online Mental Consultation.

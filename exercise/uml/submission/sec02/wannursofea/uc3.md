@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set: MSO Hospital Management System (activity diagram)
+## Set: Flight Reservation System(use case)
 
 **Name: Wan Nur Sofea Binti Mohd Hasbullah**
 
@@ -16,7 +16,7 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 02**
 
 ## Answer
-
+<img src="uc3.jpg">
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

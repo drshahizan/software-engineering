@@ -26,9 +26,9 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Topic | Description | Timeline | Project |
 | :-----: | ------ | ------ | :------: | :------: |
-| 1 | Allen | KTDI Mini Mart Online System |<a href="https://github.com/users/drshahizan/projects/17" ><img src="../../images/task.png" width="24px" height="24px" ></a> | <a href="sec02/allen"><img src="../../images/data_folder.png" width="24px" height="24px" ></a> |
+| 1 | Allen | KTDI Mini Market System |<a href="https://github.com/users/drshahizan/projects/17" ><img src="../../images/task.png" width="24px" height="24px" ></a> | <a href="sec02/allen"><img src="../../images/data_folder.png" width="24px" height="24px" ></a> |
 | 2 | Alpha | College Room Rental System |<a href="https://github.com/users/drshahizan/projects/18" ><img src="../../images/task.png" width="24px" height="24px" ></a> | <a href="sec02/alpha" ><img src="../../images/data_folder.png" width="24px" height="24px" ></a> |
-| 3 | Beta | Food Ordering System at Arked Angkasa, UTM |<a href="https://github.com/users/drshahizan/projects/19" ><img src="../../images/task.png" width="24px" height="24px" ></a> |<a href="hsec02/beta" ><img src="../../images/data_folder.png" width="24px" height="24px" ></a> |
+| 3 | Beta | Food Ordering System at Arked Angkasa, UTM |<a href="https://github.com/users/drshahizan/projects/19" ><img src="../../images/task.png" width="24px" height="24px" ></a> |<a href="sec02/beta" ><img src="../../images/data_folder.png" width="24px" height="24px" ></a> |
 | 4 | Engineering | Parcel Delivery Service |<a href="https://github.com/users/drshahizan/projects/20" ><img src="../../images/task.png" width="24px" height="24px" ></a> | <a href="sec02/engineering" ><img src="../../images/data_folder.png" width="24px" height="24px" ></a> |
 | 5 | Program | Academic Consultation System|<a href="https://github.com/users/drshahizan/projects/21" ><img src="../../images/task.png" width="24px" height="24px" ></a> | <a href="sec02/program" ><img src="../../images/data_folder.png" width="24px" height="24px" ></a> |
 | 6 | Software| Student Health and Wellness Management System |<a href="https://github.com/users/drshahizan/projects/22" ><img src="../../images/task.png" width="24px" height="24px" ></a> | <a href="sec02/software" ><img src="../../images/data_folder.png" width="24px" height="24px" ></a> |

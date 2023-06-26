@@ -15,6 +15,14 @@ Don't forget to hit the :star: if you like this repo.
 | 1 | UML | Online Bookstore System | <a href="./uml/mcq/mcq1.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> |
 | 2 | UML | Library Management System | <a href="./uml/mcq/mcq2.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
 | 3 | UML | Online Shopping System | <a href="./uml/mcq/mcq3.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
+| 4 | 4 V | Software development firm | <a href="./val/mcq4.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
+| 5 | 4 V | ShopEase | <a href="./val/mcq5.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
+| 6 | 4 V | ShopEasy | <a href="./val/mcq6.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
+| 7 | 4 V | BankEase | <a href="./val/mcq7.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
+| 8 | 4 V | ProjectTrack | <a href="./val/mcq8.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
+| 9 | AD | Online Shopping Application | <a href="./ad/mcq9.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
+| 10 | AD | E-commerce Platform | <a href="./ad/mcq10.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
+| 11 | AD | Online Banking System | <a href="./ad/mcq11.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
 
 ## Structured question
 | Set | Topic |  Title |File |
@@ -27,7 +35,19 @@ Don't forget to hit the :star: if you like this repo.
 | 6 | Use case | Library Management System | <a href="./uml/uc/uc4.md" ><img src="../images/ucase.png" width="24px" height="24px" ></a> | 
 | 7 | Use case | ATM (Automated Teller Machine) | <a href="./uml/uc/uc5.md" ><img src="../images/ucase.png" width="24px" height="24px" ></a> | 
 | 8 | Use case | Hospital Management System | <a href="./uml/uc/uc6.md" ><img src="../images/ucase.png" width="24px" height="24px" ></a> | 
+| 9 | Class diagram| Animal | <a href="./uml/uc/cd1.md" ><img src="../images/test.png" width="24px" height="24px" ></a> | 
+| 10 | 4 V | CRM Pro | <a href="./val/val1.md" ><img src="../images/test.png" width="24px" height="24px" ></a> | 
+| 11 | 4 V | MediCare | <a href="./val/val2.md" ><img src="../images/test.png" width="24px" height="24px" ></a> | 
+| 12 | Architectural Design | Hospital Management System | <a href="./ad/ad2.md" ><img src="../images/test.png" width="24px" height="24px" ></a> | 
+| 13 | Architectural Design | Online Banking System | <a href="./ad/ad3.md" ><img src="../images/test.png" width="24px" height="24px" ></a> | 
+| 14 | Architectural Design | Hospital Management System | <a href="./ad/ad4.md" ><img src="../images/test.png" width="24px" height="24px" ></a> | 
 
+## Exam question collection
+
+| Set | Topic |File |
+| :-----: |  ------   | :-----: | 
+| 1 | Use case  | <a href="./exam/struc1.md" ><img src="../images/ucase.png" width="24px" height="24px" ></a> |
+| 2 | Use case  | <a href="./exam/struc2.md" ><img src="../images/ucase.png" width="24px" height="24px" ></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
