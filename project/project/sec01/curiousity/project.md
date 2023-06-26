@@ -224,9 +224,10 @@ Solutions:
 ### 3. Software components & modules
 - Provide an overview of the software components or modules developed.
 - Component Model:
-- Use Case Diagram:
+#### Use Case Diagram:
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/use%20case.jpg?raw=true" alt="usecase" height="500px"></img>
 #### Complete Package Diagram:
-<img src="complete_package_diagram.jpg" alt="color" height="500px"></img>
+<img src="complete_package_diagram.jpg" alt="package" height="500px"></img>
 
 - Analysis
 
