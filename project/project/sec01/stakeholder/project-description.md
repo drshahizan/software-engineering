@@ -22,6 +22,13 @@
 ### Authentication module
 - **Roboto**: Light, Regular, Medium, Bold
 
+### Main system module
+- **Montserrat**: Regular, Medium. Semibold, Bold
+
+### User Interface Design
+
+### User Prototype
+
 ## 4. Testing and Quality Assurance:
 - Explain the testing strategies and techniques employed.
 - Discuss the types of testing conducted (e.g., unit testing, integration testing, etc.).
