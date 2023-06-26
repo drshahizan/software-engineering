@@ -233,14 +233,23 @@ Solutions:
 - low fidenity
 
 ### 5. Design system
-- colour
-- typography
-- iconography
-- components
-- Home screen 
-- Flow for students
-- Flow for JKM
-- Flow for staff
+#### Colour Codes
+<img src="color.jpg" alt="color" height="500px"></img>
+
+#### Components
+<img src="component.jpg" alt="component" height="500px"></img>
+
+#### Home Screen
+<img src="homepage.png" alt="homepage" height="500px"></img>
+
+#### Flow for Students
+<img src="student_flow.png" alt="student" height="500px"></img>
+
+#### Flow for JKM KTDI
+<img src="jkm_flow.png" alt="jkm" height="500px"></img>
+
+#### Flow for KTDI Staff
+<img src="staff_flow.png" alt="staff" height="500px"></img>
 
 ### 6. Challenges
 - Describe any challenges faced during the implementation phase and how you addressed them
@@ -253,7 +262,9 @@ Solutions:
 - Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
 
 ## Results and Archievements
-- Present the outcomes and achievements of the project.
+### 1. Project Outcome: Figma
+<a href="https://www.figma.com/proto/j19tAaFoStbu6fxeleYlf3/KTDI-Event-Management-System?page-id=27%3A7&type=design&node-id=24-85&viewport=326%2C-303%2C0.04&scaling=scale-down&starting-point-node-id=24%3A85&mode=design"><img src="figma.jpg" width="50px" height="50px" ></a>
+
 - Share any quantitative or qualitative data that demonstrates the success of the software solution.
 - Discuss any feedback received from stakeholders or users during the evaluation process.
 
