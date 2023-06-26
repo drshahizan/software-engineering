@@ -28,6 +28,14 @@
 ## User Interface Design
 - Student user interfaces:
 
+- Fellow user interfaces:
+
+- Staff user interfaces:
+
+- Admin user interfaces:
+
+
+
 ## User Prototype
 - [Interact with our system prototype](https://www.figma.com/proto/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=1058-6947&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1058%3A6947&mode=design)
 
