@@ -183,14 +183,16 @@ Don't forget to hit the :star: if you like this repo.
 | System Integration                        | Utilized well-defined APIs, standardized data formats, and thorough integration testing for seamless integration. |
 
 ## 4. Design Phase and System
-#### Information Architecture
-<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/classDomainModel.drawio.png" alt=""/></a>
-#### Information Architecture
+#### 4.1 Information Architecture
 - Admin
 <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/(A)Information%20System.png" alt=""/></a>
 - Student
 <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/(S)Information%20System%20(1).jpg" alt=""/></a>
-
+#### 4.2 User Flow
+- Admin
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/User%20Flow1.png" alt=""/></a>
+- Student
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/User%20Flow2.png" alt=""/></a>
 
 ## 5. Requirement Collection
 ### Meeting with stakeholders
