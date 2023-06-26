@@ -1,0 +1,172 @@
+<mxfile host="app.diagrams.net" modified="2023-06-24T17:49:35.105Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Hi4dzBxlLVxkTUYvQVJv" version="21.5.0" type="github">
+  <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
+    <mxGraphModel dx="1358" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="1672d66443f91eb5-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;Student Accomodation in KTDI management system&lt;/b&gt;&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;fillColor=none;gradientColor=none;fontSize=12;align=center;labelX=327.64;" parent="1" vertex="1">
+          <mxGeometry x="330" y="270" width="1380" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-2" value="Authentication Module Subsystem" style="shape=folder;xSize=90;align=left;spacingLeft=10;align=left;verticalAlign=top;spacingLeft=5;spacingTop=-4;tabWidth=188;tabHeight=20;tabPosition=left;html=1;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="372" y="340" width="410" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-3" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;shape=folder;spacingLeft=10;tabWidth=40;tabHeight=14;tabPosition=left;fontSize=10;html=1;whiteSpace=wrap;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-2">
+          <mxGeometry x="15" y="40" width="175" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-4" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;shape=folder;spacingLeft=10;tabWidth=80;tabHeight=20;tabPosition=left;fontSize=10;html=1;whiteSpace=wrap;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-2">
+          <mxGeometry x="220" y="40" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-7" value="+Sign in or sign up" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-2">
+          <mxGeometry x="9" y="58" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-8" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-2">
+          <mxGeometry y="32" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-9" value="Password" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-2">
+          <mxGeometry x="219" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-10" value="+Change or update password" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-2">
+          <mxGeometry x="220" y="58" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-11" value="Centralise Dashboard Module Subsystem" style="shape=folder;xSize=90;align=left;spacingLeft=10;align=left;verticalAlign=top;spacingLeft=5;spacingTop=-4;tabWidth=230;tabHeight=20;tabPosition=left;html=1;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="340" width="410" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-12" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;shape=folder;spacingLeft=10;tabWidth=40;tabHeight=14;tabPosition=left;fontSize=10;html=1;whiteSpace=wrap;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-11">
+          <mxGeometry x="15" y="40" width="175" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-13" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;shape=folder;spacingLeft=10;tabWidth=80;tabHeight=20;tabPosition=left;fontSize=10;html=1;whiteSpace=wrap;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-11">
+          <mxGeometry x="220" y="40" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-14" value="+Update and view" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-11">
+          <mxGeometry x="9" y="58" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-15" value="Profile" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-11">
+          <mxGeometry x="3" y="32" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-16" value="Hostel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-11">
+          <mxGeometry x="219" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-17" value="+Update and view" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-11">
+          <mxGeometry x="190" y="58" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-18" value="Reporting and Analytic Module Subsystem" style="shape=folder;xSize=90;align=left;spacingLeft=10;align=left;verticalAlign=top;spacingLeft=5;spacingTop=-4;tabWidth=230;tabHeight=20;tabPosition=left;html=1;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="340" width="410" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-19" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;shape=folder;spacingLeft=10;tabWidth=40;tabHeight=14;tabPosition=left;fontSize=10;html=1;whiteSpace=wrap;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-18">
+          <mxGeometry x="15" y="40" width="175" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-20" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;shape=folder;spacingLeft=10;tabWidth=80;tabHeight=20;tabPosition=left;fontSize=10;html=1;whiteSpace=wrap;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-18">
+          <mxGeometry x="220" y="40" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-21" value="+View occupancy record" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-18">
+          <mxGeometry x="9" y="58" width="151" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-22" value="Room" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-18">
+          <mxGeometry x="3" y="32" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-23" value="Students" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-18">
+          <mxGeometry x="219" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-24" value="+View quota active" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-18">
+          <mxGeometry x="202" y="58" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-28" value="+View maintenance record" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-18">
+          <mxGeometry x="-10" y="120" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-29" value="+Enter merits" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-18">
+          <mxGeometry x="214" y="86" width="108" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-27" value="+View revenue report" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="428" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-30" value="Room management Module Subsystem" style="shape=folder;xSize=90;align=left;spacingLeft=10;align=left;verticalAlign=top;spacingLeft=5;spacingTop=-4;tabWidth=230;tabHeight=20;tabPosition=left;html=1;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="660" width="410" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-31" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;shape=folder;spacingLeft=10;tabWidth=65;tabHeight=20;tabPosition=left;fontSize=10;html=1;whiteSpace=wrap;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-30">
+          <mxGeometry x="15" y="40" width="175" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-32" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;shape=folder;spacingLeft=10;tabWidth=80;tabHeight=20;tabPosition=left;fontSize=10;html=1;whiteSpace=wrap;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-30">
+          <mxGeometry x="220" y="40" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-33" value="+Apply changing or cancellation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-30">
+          <mxGeometry x="9" y="58" width="181" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-34" value="Students" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-30">
+          <mxGeometry x="15" y="32" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-35" value="Staff" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-30">
+          <mxGeometry x="219" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-36" value="+Manage application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-30">
+          <mxGeometry x="202" y="58" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-37" value="+Register electrical appliances" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-30">
+          <mxGeometry x="3" y="86" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-39" value="+Check in or check out" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-30">
+          <mxGeometry x="4" y="113" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-40" value="+Maintenance request or tracking" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="803" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-41" value="Room Application Module Subsystem" style="shape=folder;xSize=90;align=left;spacingLeft=10;align=left;verticalAlign=top;spacingLeft=5;spacingTop=-4;tabWidth=230;tabHeight=20;tabPosition=left;html=1;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="680" width="410" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-42" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;shape=folder;spacingLeft=10;tabWidth=65;tabHeight=20;tabPosition=left;fontSize=10;html=1;whiteSpace=wrap;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-41">
+          <mxGeometry x="15" y="40" width="175" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-43" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;shape=folder;spacingLeft=10;tabWidth=80;tabHeight=20;tabPosition=left;fontSize=10;html=1;whiteSpace=wrap;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-41">
+          <mxGeometry x="220" y="40" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-44" value="+Apply hostel room" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-41">
+          <mxGeometry x="-20" y="56" width="181" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-45" value="Students" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-41">
+          <mxGeometry x="15" y="32" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-46" value="Administrator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-41">
+          <mxGeometry x="226" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-47" value="+Application approvement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-41">
+          <mxGeometry x="210" y="56" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-48" value="+Select room preference" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-41">
+          <mxGeometry x="-10" y="83" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-49" value="+View real time availability room" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-41">
+          <mxGeometry x="9" y="113" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-50" value="+Room allocation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-41">
+          <mxGeometry x="195" y="83" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-51" value="Payment Management Module Subsystem" style="shape=folder;xSize=90;align=left;spacingLeft=10;align=left;verticalAlign=top;spacingLeft=5;spacingTop=-4;tabWidth=240;tabHeight=17;tabPosition=left;html=1;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="683" width="410" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-52" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;shape=folder;spacingLeft=10;tabWidth=65;tabHeight=20;tabPosition=left;fontSize=10;html=1;whiteSpace=wrap;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-51">
+          <mxGeometry x="15" y="40" width="175" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-53" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;shape=folder;spacingLeft=10;tabWidth=80;tabHeight=20;tabPosition=left;fontSize=10;html=1;whiteSpace=wrap;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-51">
+          <mxGeometry x="220" y="40" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-55" value="Students" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-51">
+          <mxGeometry x="15" y="32" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-56" value="Staff" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-51">
+          <mxGeometry x="226" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-57" value="+View payment history" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-51">
+          <mxGeometry x="201" y="66" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-58" value="+Dowmload payment receipts" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-51">
+          <mxGeometry x="-1" y="83" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-59" value="+View payment history" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="QNsSBelghBEUMRZPqjNF-51">
+          <mxGeometry x="-10" y="113" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNsSBelghBEUMRZPqjNF-54" value="+Make payment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="739" width="181" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
