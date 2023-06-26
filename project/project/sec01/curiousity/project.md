@@ -154,7 +154,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
 | 31 | 27/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Project Presentation |
 
 ### Requirement collection
-1. <br>Meeting with JKM KTDI (Hanie Azyuni binti Mazle) </b><br>
+1. <b>Meeting with JKM KTDI (Hanie Azyuni binti Mazle) </b><br>
 At 8 p.m. of 3 May 2023, we had a meeting with Hanie at M01, KTDI to discuss about the requirements, wants, and needs of JKM KTDI in doing their pre, during, and post event preparation.
 
 #### Outcome:
@@ -167,7 +167,7 @@ Solutions:
 - Distribution of tasks to members
 - Post-event report
 
-2. <br>Meeting with JKM KTDI (Lim Shi Kai) </b><br>
+2. <b>Meeting with JKM KTDI (Lim Shi Kai) </b><br>
 At 9 a.m. of 4 May 2023, we had a meeting with Shi Kai at M01, KTDI to discuss about the requirements, wants, and needs of JKM KTDI in doing their pre, during, and post event preparation.
 
 #### Outcome:
@@ -180,7 +180,7 @@ Solutions:
 - Calendar for annual event
 - Plan events for the year in advance
 
-3. <br>Meeting with student (Nadia Syahadah Binti Saharudin) </b><br>
+3. <b>Meeting with student (Nadia Syahadah Binti Saharudin) </b><br>
 At 9 p.m. of 10 May 2023, we had a meeting with Nadia at M25, KTDI to discuss about the requirements, wants, and needs of a student in joining events.
 
 #### Outcome:
