@@ -24,7 +24,7 @@ Don't forget to hit the :star: if you like this repo.
 * [Design phase](#4-design-phase)
 * [Design system](#5-design-system)
 * [Challenges](#6-challenges)
-* [Testing and Quality Assurance](#testing-and-quality-assurance)
+* [Testing and Quality Assurance](#4-testing-and-quality-assurance)
 * [Results and Archievements](#results-and-archievements)
 * [Conclusion](#conclusion)
 
