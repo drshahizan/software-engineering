@@ -21,9 +21,64 @@ Significant Impact:
 5. Positive University Reputation: A well-functioning accommodation system demonstrates a commitment to student welfare and enhances the university's reputation, attracting more students.
 
 ## 2. Methodology:
-- Describe the approach and methodologies utilized to tackle the project.
-- Explain the software development life cycle model or any other relevant methodology adopted.
-- Highlight any specific tools, technologies, or frameworks employed during the project.
+Approach and Methodologies:
+
+To develop the Student Accommodation System for Kolej Tun Dr Ismail (KTDI), we have chosen the **Agile methodology** as our software development process model. The aim is to create a user-friendly and high-quality system within the allocated time and budget, while meeting the requirements of our stakeholders.
+
+1. Agile Methodology: We adopt the Agile methodology, which emphasizes cooperation and active stakeholder participation throughout the development process.
+2. Adaptability and Responsiveness: The Agile approach suits the project's dynamic nature, enabling flexibility and continuous collaboration to accommodate changing requirements and priorities.
+3. Iterative Development: We employ iterative development cycles, breaking the project into manageable increments to deliver value in each iteration.
+4. Continuous Improvement: The Agile process promotes continuous improvement, with regular feedback loops and opportunities for refinement and adjustment.
+5. Stakeholder Engagement: Stakeholders are actively involved, providing input, feedback, and validation at different stages to ensure the system meets their evolving needs and expectations.
+
+By utilizing the Agile methodology, we can effectively address the unique aspects of student accommodations, including the need for development flexibility and ongoing team collaboration. The Agile approach allows us to continually update and enhance the system based on stakeholder inputs, ensuring that the Student Accommodation System evolves to meet their changing needs and surpass their expectations.
+
+1. Planning Phase:
+  - Identify project scope, objectives, stakeholders.
+  - Establish timeline, milestones, and allocate resources.
+  - Develop a blueprint and create a Gantt chart.
+  - Led by the project manager.
+2. Requirements Gathering Phase:
+  - Work with stakeholders to identify and prioritize user requirements.
+  - Develop user stories and create product backlog items.
+  - Identify acceptance criteria for each user story.
+  - Break down user stories into smaller tasks and add them to the sprint backlog.
+  - Review and finalize the sprint backlog with stakeholders.
+  - Requirement analysis led by the project requirement analyst team.
+3. Design Phase:
+  - Develop high-level software architecture design.
+  - Design the database schema.
+  - Create detailed design documents.
+  - Develop wireframes and prototypes for the user interface.
+  - Review the design with the development team and stakeholders.
+  - Led by the system designer and main developer.
+4. Development Phase:
+  - Collaboratively develop software components based on the sprint backlog.
+  - Conduct code reviews, write unit tests, and perform unit testing.
+  - Update code documentation and conduct daily stand-up meetings.
+  - Backend development led by the main developer, frontend led by UI/UX designer.
+5. Testing Phase:
+  - Develop a testing plan.
+  - Perform functional, integration, and acceptability testing.
+  - Report and fix flaws using a bug tracking program.
+  - Managed by the quality assurance analyst.
+6. Deployment Phase:
+  - Collaborate with the development team to ensure readiness.
+  - Conduct final testing and compliance with stakeholder criteria.
+  - Train stakeholders and provide continuous support.
+  - Led by the project manager and developers.
+7. Review and Maintenance Phase:
+  - Examine the finished program and gather stakeholder feedback.
+  - Improve the system based on feedback and ensure user satisfaction.
+  - Managed by the maintenance team with guidance from IT support.
+8. Launch Phase:
+  - Conduct final testing and quality assurance.
+  - Launch the software in a real-world setting.
+  - Provide ongoing support to meet stakeholder demands and goals.
+  - Involvement of all team members.
+
+
+<!-- Highlight any specific tools, technologies, or frameworks employed during the project.-->
 
 ## 3. Implementation:(joseph)
 - Detail the specific tasks and activities undertaken by your group.
