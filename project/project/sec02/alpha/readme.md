@@ -95,12 +95,13 @@ Don't forget to hit the :star: if you like this repo.
 - Improve user experience by providing a better user experience by offering features such as room choices, and user feedback. The system will ensure that any issues or concerns can be addressed in a timely manner.
 
 ### Problem statement or the need the project aims to address.
-The project aims to solve the problems associated with renting rooms to college students. Currently, the process is inefficient and causes confusion. The key issues include:
-- Room Allocation: Assigning suitable rooms to students based on their preferences and availability is difficult and can lead to dissatisfaction and conflicts.
-- Transparency and Accessibility: Students struggle to access information about available rooms, rates, and facilities, which hampers their decision-making process.
-- Administrative Burden: Managing room rentals manually is time-consuming for college administrators, resulting in a waste of resources.
-- Communication and Conflict Resolution: Inadequate communication channels and dispute resolution mechanisms contribute to conflicts between roommates and students and the administration.
-- Optimization and Resource Utilization: The current systems lack tools to monitor room occupancy, optimize allocation, and effectively use available resources.
+| Problem                                         | Solution                                                     |
+|-------------------------------------------------|--------------------------------------------------------------|
+| Room Allocation                                 | Automate room assignment based on student preferences and availability.                                             |
+| Transparency and Accessibility                  | Provide students with access to information on available rooms, rates, and facilities through a user-friendly interface. |
+| Administrative Burden                           | Automate administrative tasks such as rental agreements, payment processing, and report generation.                   |
+| Communication and Conflict Resolution           | Implement communication channels and dispute resolution mechanisms to facilitate better interaction and conflict resolution. |
+| Optimization and Resource Utilization           | Monitor room occupancy, optimize allocation and effectively utilize available resources through data-driven insights.   |
 
  ### Significance and potential impact of the project.
   The college room rental system seeks to solve these problems by automating the rental process, making it easier for students to find and rent rooms, and for staff to manage their rental properties. The system will be accessible from any device with an internet connection, making it convenient for students to search for available rooms and make reservations at any time.
