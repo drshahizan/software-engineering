@@ -36,7 +36,7 @@ Don't forget to hit the :star: if you like this repo.
 </table>
 
 ## Stakeholder
-One Stop Parcel Center & Cengal Parcel Point
+One Stop Parcel Center 
 <table>
   <tr>
     <th>Name</th>
