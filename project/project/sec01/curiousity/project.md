@@ -49,14 +49,30 @@ THe purpose of our project of building a KTDI Event Management System is aimed t
 - Detail the specific tasks and activities undertaken by your group.
 - Gantt Chart
 
+### Requirement collection
+- Stalkholder meeting
+
 ### Software components & modules
 - Provide an overview of the software components or modules developed.
-- Stakeholder
 - Analysis
 - User Case Diagram
 
+### Design phase
+- low fidenity
+
+### Design system
+- colour
+- typography
+- iconography
+- components
+- Home screen 
+- Flow for students
+- Flow for JKM
+- Flow for staff
+
 ### Challenges
 - Describe any challenges faced during the implementation phase and how you addressed them
+
 ## Testing and Quality Assurance
 - Explain the testing strategies and techniques employed.
 
