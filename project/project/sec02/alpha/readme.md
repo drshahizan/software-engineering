@@ -11,7 +11,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ### 🔖Table of Contents🔖
 * [Table of Contents](#table-of-contents)
-* [1. Introduction](#introduction)
+* [Introduction](#introduction)
 * [Purpose](#1-purpose)
 * [Objective](#2-objective)
 * [Problem Statement](#3-problem-statement)
