@@ -225,7 +225,8 @@ Solutions:
 - Provide an overview of the software components or modules developed.
 - Component Model:
 - Use Case Diagram:
-- Complete Package Diagram:
+#### Complete Package Diagram:
+<img src="complete_package_diagram.jpg" alt="color" height="500px"></img>
 
 - Analysis
 
