@@ -3,31 +3,31 @@ class Admin {
     - id: int
     - username: string
     - password: string
-    + login(): void
+    + login(string id, string password): void
     + logout(): void
   }
 
   class ManageUser {
-    + suspendUser(): void
+    + suspendUser(bool confirmSuspend): bool
   }
 
   class ManageFeedback {
-    + viewFeedback(): void
-    + updateStatusFeedback(): void
-    + deleteFeedback(): void
+    + viewFeedback(string feedbackID): void
+    + updateStatusFeedback(string feedbackID): bool
+    + deleteFeedback(string feedbackID): void
   }
 
 
 
   class PostFiltration {
-    + filterPosts(): void
+    + filterPosts(string postID): bool
   }
 
   class Report {
     - id: int
     - title: string
     - description: string
-    + generateReport(): void
+    + generateReport(int startDate, int endDate, bool userType): void
     + deleteReport(): void
     + archiveReport(): void
     + downloadReport(): void
