@@ -183,12 +183,42 @@ Don't forget to hit the :star: if you like this repo.
 | System Integration                        | Utilized well-defined APIs, standardized data formats, and thorough integration testing for seamless integration. |
 
 ## 4. Design Phase and System
+#### Information Architecture
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/classDomainModel.drawio.png" alt=""/></a>
+#### Information Architecture
+- Admin
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/(A)Information%20System.png" alt=""/></a>
+- Student
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/(S)Information%20System%20(1).jpg" alt=""/></a>
 
 
 ## 5. Requirement Collection
+### Meeting with stakeholders
 
+#### Meeting with  stakeholder 1 (En. Hamdan bin Abdul Ghani)
+<img src="https://user-images.githubusercontent.com/128108090/237020517-786c33dd-dd00-44ae-bf06-efdc71fb2270.jpg" alt=""  height="350px" weight="200px"/></a>
+Venue: Pejabat KTDI M01
+Date: 18 April 2023
+Time: 2 pm
 
+#### Meeting with stakeholder 2 (Puan Rosnani bt Katip)
+First meeting
+<img src="https://user-images.githubusercontent.com/128108090/237021925-f29b22b3-10ce-46c7-b927-3e447dd3cae8.jpg" alt=""  height="350px" weight="200px"/></a>
+Venue: Pejabat KTDI M01
+Date: 19 April 2023
+Time: 2:35 pm
 
+Second meeting
+<img src="https://user-images.githubusercontent.com/128160553/240615112-ad98b302-8925-4fd5-a384-5041335f1785.jpg" alt="" height="350px" weight="200px"/></a>
+Venue: Pejabat KTDI M01
+Date: 24 May 2023
+Time: 3:30 pm
+
+#### Meeting with stakeholder 3 (Jevanaraj A/L Balasuntharam)
+<img src="https://user-images.githubusercontent.com/128107791/239741938-94169d51-2815-41e0-b170-b341ea53cdfe.png" alt="" height="350px" weight="200px"/></a>
+Venue: Webex meet 
+Date: 21/5/2023
+Time: 8.30pm
 
 
 ## 6. Testing and Quality Assurance:
