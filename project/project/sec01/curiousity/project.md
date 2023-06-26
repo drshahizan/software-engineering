@@ -25,15 +25,20 @@
 
 
 ## Methodology
-- - Describe the approach and methodologies utilized to tackle the project.
+- Describe the approach and methodologies utilized to tackle the project.
 
 - Explain the software development life cycle model or any other relevant methodology adopted.
 
 - Highlight any specific tools, technologies, or frameworks employed during the project.
 ## Implementation
+
+
 ### Timeline process
+- Detail the specific tasks and activities undertaken by your group.
 -Gantt Chart
 
+### Software components/Module
+- Provide an overview of the software components or modules developed.
 ### Requirement Collection Phase
 - Stakeholder
 - Analysis
