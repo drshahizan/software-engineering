@@ -188,24 +188,28 @@ Don't forget to hit the :star: if you like this repo.
 ## 4. Testing and Quality Assurance:
 Testing and quality assurance play a crucial role in ensuring the reliability and robustness of the software. The following are the testing strategies and techniques employed in the project. 
 
-### 1. Testing Strategies and Techniques:
-- Black Box Testing: This technique focuses on testing the system's functionality without considering its internal implementation. It ensures that the system meets the specified requirements.
-- White Box Testing: This technique involves examining the internal structure and logic of the software. It ensures that all paths and components of the system are tested thoroughly.
-- Integration Testing: This strategy verifies the interaction and compatibility between different system modules to ensure that they work seamlessly together.
-- User Acceptance Testing (UAT): UAT involves testing the system from the end-users perspective to validate if it meets their requirements and expectations.
+#### 4.1 Testing Strategies and Techniques
 
-The types of testing conducted in the KTDI College Room Rental system are as followed: 
+| Strategy                         | Technique                                        |
+|----------------------------------|--------------------------------------------------|
+| Black Box Testing                | Testing the system's functionality               |
+| White Box Testing                | Examining the internal structure and logic       |
+| Integration Testing              | Verifying interaction between system modules     |
+| User Acceptance Testing (UAT)    | Testing from the end-users perspective           |
 
-### 2. Types of Testing Conducted:
-- Unit Testing: Focuses on testing individual components or units of code to verify their correctness and functionality
-- Integration Testing: To ensures that different system modules integrate and function correctly when combined
-- System Testing: This comprehensive testing verifies the behavior and functionality of the entire system as a whole
-- Usability Testing: Usability testing evaluates the system's user-friendliness and assesses how easily users can navigate and interact with the system
-- Regression Testing: This testing is performed after system changes or updates to ensure that existing functionalities have not been affected
+#### 4.2 Types of Testing Conducted
+
+| Type of Testing    | Description                                                            |
+|--------------------|------------------------------------------------------------------------|
+| Unit Testing       | Testing individual components or units of code                          |
+| Integration Testing| Verifying the integration and compatibility between system modules       |
+| System Testing     | Comprehensive testing of the entire system as a whole                    |
+| Usability Testing  | Evaluating the user-friendliness and ease of use of the system           |
+| Regression Testing | Ensuring existing functionalities have not been affected by changes      |
 
 In order to ensure the reliability and robustness of the software, quality assurance processes have been implemented.
 
-### 3. Quality Assurance Processes:
+#### 4.3 Quality Assurance Processes:
 - Continuous Integration (CI) is implemented to automatically build, test and integrate code changes into a shared repository. It helps detect and address integration issues early on
 - Regular checkpoints are established during the development process to ensure that quality standards are met at each stage
 - Thorough documentation is created to guide users and developers, ensuring clarity and consistency in system usage and maintenance
@@ -230,7 +234,7 @@ The Kolej Tun Dr. Ismail (KTDI) College room rental system project has yielded s
 - Students expressed satisfaction with the ease of finding and booking rooms based on their preferences and availability.
 - College administrators appreciated the streamlined administrative processes, reduced paperwork, and improved coordination among departments.
   
-#### feedback received from stakeholders or users during the evaluation process.
+#### Feedback received from stakeholders or users during the evaluation process.
 During the evaluation process, stakeholders and users provided valuable feedback on the system. Some key feedback points include:
 
 1. Students praised the system for its user-friendly interface, which made it convenient to browse available rooms, view details, and complete bookings.
