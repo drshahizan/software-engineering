@@ -37,7 +37,7 @@ Don't forget to hit the :star: if you like this repo.
 | 9 | 4 V | CRM Pro | <a href="./val/val1.md" ><img src="../images/test.png" width="24px" height="24px" ></a> | 
 | 10 | 4 V | MediCare | <a href="./val/val2.md" ><img src="../images/test.png" width="24px" height="24px" ></a> | 
 | 11 | Class diagram| Animal | <a href="./uml/uc/cd1.md" ><img src="../images/ad.png" width="24px" height="24px" ></a> | 
-| 12 | Architectural Design | Animal | <a href="./ad/cd1.md" ><img src="../images/ad.png" width="24px" height="24px" ></a> | 
+| 12 | Architectural Design | Animal | <a href="./ad/ad2.md" ><img src="../images/ad.png" width="24px" height="24px" ></a> | 
 
 ## Exam question collection
 
