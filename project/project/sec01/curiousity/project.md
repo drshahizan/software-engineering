@@ -119,7 +119,18 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
 - Gantt Chart
 
 ### Requirement collection
-- Stalkholder meeting
+1. Meeting with JKM KTDI (Hanie Azyuni binti Mazle)
+On 8 p.m. of 3 May 2023, we had a meeting we Hanie at M01, KTDI to discuss about the requirements, wants, and needs of JKM KTDI in doing their pre, during, and post event preparation.
+
+#### Outcome:
+Problems: 
+-Laborious process of seeking approval from multiple parties through paperwork.
+- Management of works between members
+
+Solutions:
+- Handling necessary documents for each activity
+- Distribution of tasks to members
+- Post-event report
 
 ### 3. Software components & modules
 - Provide an overview of the software components or modules developed.
