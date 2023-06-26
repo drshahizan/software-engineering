@@ -39,8 +39,9 @@ To develop the Student Accommodation System for Kolej Tun Dr Ismail (KTDI), we h
 
 By utilizing the Agile methodology, we can effectively address the unique aspects of student accommodations, including the need for development flexibility and ongoing team collaboration. The Agile approach allows us to continually update and enhance the system based on stakeholder inputs, ensuring that the Student Accommodation System evolves to meet their changing needs and surpass their expectations.
 <div id="header" align="center">
-  <img src="https://github.com/drshahizan/software-engineering/raw/main/proposal/submission/sec01/stakeholder/diagram/agile.PNG" width="350" height="300"/>
+  <img src="https://github.com/drshahizan/software-engineering/raw/main/proposal/submission/sec01/stakeholder/diagram/agile.PNG" width="350" height="280"/>
 </div>
+
 1. Planning Phase:
   - Identify project scope, objectives, stakeholders.
   - Establish timeline, milestones, and allocate resources.
@@ -102,18 +103,18 @@ By utilizing the Agile methodology, we can effectively address the unique aspect
   <img src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif" width="300" height="200"/>
 </div>
 
-### Information Architecture
+### Information Architecture:
 - [View our Information Architecture](https://www.figma.com/file/8A6rSJ9SMKn2oQ3BkmWdLM/Information-Architecture?type=whiteboard&node-id=0%3A1&t=oXyeua8TtdOi9the-1)
 ![Image](https://github.com/drshahizan/software-engineering/assets/118497269/3befc7eb-0755-4f31-8fe3-17d607da99d6)
 
-### Typography
+### Typography:
 1. **Authentication module**
 - Roboto: Light, Regular, Medium, Bold
 
 2. **Main system module**
 - Montserrat: Regular, Medium. Semibold, Bold
 
-### User Interface Design
+### User Interface Design:
 - Student user interfaces: 32 pages
 - Fellow user interfaces: 13 pages
 - Staff user interfaces: 21 pages
@@ -122,25 +123,21 @@ By utilizing the Agile methodology, we can effectively address the unique aspect
 
 - [View our system UI here](https://www.figma.com/file/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=0%3A1&mode=design&t=h7kBojJadeGGPpzn-1)
 
-### User Prototype
+### User Prototype:
 - [Interact with our system prototype](https://www.figma.com/proto/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=1058-6947&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1058%3A6947&mode=design)
 
 
-## 4. Testing and Quality Assurance:
+## Testing and Quality Assurance
 - Explain the testing strategies and techniques employed.
 - Discuss the types of testing conducted (e.g., unit testing, integration testing, etc.).
 - Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
 
-## 5. Results and Achievements:
+## Results and Achievements:
 - Present the outcomes and achievements of the project.
 - Share any quantitative or qualitative data that demonstrates the success of the software solution.
 - Discuss any feedback received from stakeholders or users during the evaluation process.
 
-## 6. Conclusion:
+## Conclusion:
 - Summarize the overall project experience and lessons learned.
 - Reflect on the challenges faced and how they were overcome.
 - Highlight any future improvements or recommendations for further development.
-
-## Figma:
-### Overall flow:
-https://www.figma.com/proto/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=0-1&scaling=min-zoom&starting-point-node-id=171%3A377
