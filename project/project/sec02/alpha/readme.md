@@ -153,8 +153,14 @@ Don't forget to hit the :star: if you like this repo.
 7. Deployment and User Training: Once the system was tested and deemed stable, the group deployed it to a web server and conducted user training sessions for college staff and students. This ensured that users understood how to use the system effectively and efficiently.
 
 #### Software Components or Modules:
+##### Use case Diagram
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/useCasediagram.drawio.png" alt=""/></a>
 
-1. Registration and Authentication Subsystem: This module provides essential functionality for students, allowing them to register, login, reset passwords, and recover forgotten passwords. 
+##### Class Domain Model Diagram
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/classDomainModel.drawio.png
+" alt=""/></a>
+
+1. Registration and Authentication Subsystem: This module provides essential functionality for students, allowing them to register, log in, reset passwords, and recover forgotten passwords. 
 
 3. Room Rental Subsystem: This module enables students to search for available rooms based on their preferences (e.g., type of room ), view room details, make a reservation for rooms, cancel their room bookings, facilitate online payment for room bookings, and file complaints. this module also enables administrators to  manage student bookings.
 
