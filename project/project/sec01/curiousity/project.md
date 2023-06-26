@@ -118,7 +118,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
 
 ## Implementation
 
-### Timeline process
+### 1. Timeline Process
 | No | Date | Member Name | Role	| Task	|
 | -----:| ----- | ------ | ------ | ------ |
 | 1 | 08/04/2023 | Low Ying Xi | Project Manager | Create project plan |
@@ -153,7 +153,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
 | 30 | 26/06/2023 | Ng Shu Yu | Documentation Specialist | Finalize the STD document |
 | 31 | 27/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Project Presentation |
 
-### Requirement collection
+### 2. Requirement Collection
 Meeting with stakeholders <br><br>
 
 #### Meeting with JKM KTDI (Hanie Azyuni binti Mazle) 
@@ -169,7 +169,6 @@ Solutions:
 - Distribution of tasks to members
 - Post-event report
 
-
 #### Meeting with JKM KTDI (Lim Shi Kai)
 <img src="https://user-images.githubusercontent.com/129201809/236986877-e485f15d-3268-41da-9e4f-f854e21eaec6.jpg" alt="Sky" height="500px"></img><br>
 At 9 a.m. of 4 May 2023, we had a meeting with Shi Kai at M01, KTDI to discuss about the requirements, wants, and needs of JKM KTDI in doing their pre, during, and post event preparation.
@@ -183,8 +182,6 @@ Solutions:
 - Calendar for annual event
 - Plan events for the year in advance
 
-
-
 #### Meeting with student (Nadia Syahadah Binti Saharudin)
 <img src="https://user-images.githubusercontent.com/129201809/240615920-b4dbd2b9-b736-4289-85e4-da75df7c90d7.jpg" alt="Sky" height="500px"></img><br>
 At 9 p.m. of 10 May 2023, we had a meeting with Nadia at M25, KTDI to discuss about the requirements, wants, and needs of a student in joining events.
@@ -195,9 +192,6 @@ Problems:
 Solutions:
 - Organized registration link in our system
 
-
-
-
 #### Meeting with KTDI Principal (LT KOL Prof. Madya Dr. Mohd Noor Azli Bin Haji. Ali Khan)
 <img src="https://user-images.githubusercontent.com/129201809/238513654-63fbed05-d986-42ae-a51d-76c0cb0b504a.jpg" alt="Principal" height="500px"></img><br>
 At 4 p.m. of 11 May 2023, we had a meeting with Prof. Madya Dr. Mohd Noor Azli at the KTDI office to discuss about the requirements, wants, and needs as a KTDI staff member in event preparation as well as the post-event operations.
@@ -207,7 +201,6 @@ Problems:
 
 Solutions:
 - Calculate active quota (systematic)
-
 
 #### Meeting with Pembantu Felo (Hamizah Amalina Binti Amlan)
 At 14 May 2023, we contacted with Hamizah Amalina via WhatsApp to discuss about the the problem they faced as a KTDI staff member in event preparation as well as the post-event operations.
@@ -221,38 +214,46 @@ Solutions:
 - Event calendar for semesters events
 - Event descriptions
 
-### 3. Software components & modules
-- Provide an overview of the software components or modules developed.
-- Component Model:
-- Use Case Diagram:
-- Complete Package Diagram:
+### 3. Software Components & Modules
+#### Component Model:
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/component%20diagram.jpg?raw=true" alt="usecase" height="500px"></img>
+#### Use Case Diagram:
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/use%20case.jpg?raw=true" alt="usecase" height="500px"></img>
 
-- Analysis
+#### Complete Package Diagram:
+<img src="complete_package_diagram.jpg" alt="package" height="500px"></img>
 
-### 4. Design phase
+### 4. Design Phase
 - low fidenity
 
-### 5. Design system
-#### Colour Codes
+### 5. Design System
+#### Colour Codes:
 <img src="color.jpg" alt="color" height="100px"></img>
 
-#### Components
+#### Components:
 <img src="component.jpg" alt="component" height="350px"></img>
 
-#### Home Screen
+#### Home Screen:
 <img src="homepage.png" alt="homepage" height="350px"></img>
 
-#### Flow for Students
+#### Flow for Students:
 <img src="student_flow.png" alt="student" height="350px"></img>
 
-#### Flow for JKM KTDI
+#### Flow for JKM KTDI:
 <img src="jkm_flow.png" alt="jkm" height="500px"></img>
 
-#### Flow for KTDI Staff
+#### Flow for KTDI Staff:
 <img src="staff_flow.png" alt="staff" height="500px"></img>
 
 ### 6. Challenges
-- Describe any challenges faced during the implementation phase and how you addressed them
+| No | Challenge | Solution |
+| --- | --- | --- |
+| 1. | Finding of stakeholders | Contact appropriate stakeholders found on the KTDI website and the Gantt chart in college |
+| 2. | Rapid requirement changes | Conduct rapid meetings with stakeholders and team members |
+| 3. | Busy schedules of the developers | Improve time management |
+| 4. | New to Figma | Adapt to Figma through practice and continuous design updates |
+| 5. | Project documentation | Maintain accurate and up-to-date documentation throughout the lifecycle by updating GitHub with the necessary documents |
+
 
 ## Testing and Quality Assurance
 - Explain the testing strategies and techniques employed.
@@ -262,7 +263,7 @@ Solutions:
 - Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
 
 ## Results and Archievements
-### 1. Project Outcome: Figma
+### 1. Project Outcome: Figma Prototype
 <a href="https://www.figma.com/proto/j19tAaFoStbu6fxeleYlf3/KTDI-Event-Management-System?page-id=27%3A7&type=design&node-id=24-85&viewport=326%2C-303%2C0.04&scaling=scale-down&starting-point-node-id=24%3A85&mode=design"><img src="figma.jpg" width="50px" height="50px" ></a>
 
 - Share any quantitative or qualitative data that demonstrates the success of the software solution.
@@ -272,5 +273,3 @@ Solutions:
 - Summarize the overall project experience and lessons learned.
 - Reflect on the challenges faced and how they were overcome.
 - Highlight any future improvements or recommendations for further development.
-
-## Prototype

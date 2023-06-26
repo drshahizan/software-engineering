@@ -1,5 +1,12 @@
-# Project Description
-## 1. Introduction:
+# Student Accommodation System in KTDI
+<div id="header" align="center">
+  <h2>Team stakeholder</h2>
+  <img src="https://user-images.githubusercontent.com/118497269/241292086-c5ae852a-52cb-469f-8a2f-6b86594898a0.jpg" width="350" height="250"/>
+</div>
+
+## Table of Content 
+
+## Introduction:
 - Briefly explain the purpose and objectives of the project.
 - Describe the problem statement or the need the project aims to address.
 - Outline the significance and potential impact of the project.
@@ -13,6 +20,38 @@
 - Detail the specific tasks and activities undertaken by your group.
 - Provide an overview of the software components or modules developed.
 - Describe any challenges faced during the implementation phase and how you addressed them.
+
+---
+
+<div id="header" align="center">
+  <h1>System Design</h1>
+  <img src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif" width="350" height="250"/>
+</div>
+
+## Information Architecture
+- [View our Information Architecture](https://www.figma.com/file/8A6rSJ9SMKn2oQ3BkmWdLM/Information-Architecture?type=whiteboard&node-id=0%3A1&t=oXyeua8TtdOi9the-1)
+![Image](https://github.com/drshahizan/software-engineering/assets/118497269/3befc7eb-0755-4f31-8fe3-17d607da99d6)
+
+## Typography
+### Authentication module
+- **Roboto**: Light, Regular, Medium, Bold
+
+### Main system module
+- **Montserrat**: Regular, Medium. Semibold, Bold
+
+## User Interface Design
+- Student user interfaces: 32 pages
+- Fellow user interfaces: 13 pages
+- Staff user interfaces: 21 pages
+- Admin user interfaces: 18 pages
+- Authentication user interfaces: 9 pages
+
+- [View our system UI here](https://www.figma.com/file/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=0%3A1&mode=design&t=h7kBojJadeGGPpzn-1)
+
+## User Prototype
+- [Interact with our system prototype](https://www.figma.com/proto/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=1058-6947&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1058%3A6947&mode=design)
+
+---
 
 ## 4. Testing and Quality Assurance:
 - Explain the testing strategies and techniques employed.

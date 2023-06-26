@@ -96,8 +96,14 @@ Don't forget to hit the :star: if you like this repo.
 |10 | 16/05/2023 | All Members | Project Members | First interview with stakeholder | Complete |
 |11 | 17/05/2023 | All Members | Project Members | Design UML Diagram | Complete |
 |12 | 18/05/2023 | All Members | Project Members | System Requirements Specification Discussion | Complete |
-|13 | 19/05/2023 | All Members | Project Members | System Requirements Specification | Partially complete |
-|14 | 25/05/2023 | All Members | Project Members | System Design Documentation Planning | Partially complete |
+|13 | 19/05/2023 | All Members | Project Members | System Requirements Specification | Complete |
+|14 | 25/05/2023 | All Members | Project Members | System Design | Complete |
+|15 | 28/05/2023 | All Members | Project Members | Create low fidelity | Complete|
+|16 | 31/05/2023 | All Members | Projects Members | Create High fidelity | Complete|
+|17 | 12/06/2023 | All Members | Project Members | System Design Document Discussion | Complete|
+|18 | 13/06/2023 | All Members | Projects Members |  System Design Document | Complete|
+|19 | 19/06/2023 | All Members | Projects Members | System Testing Document | Partially complete 
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
