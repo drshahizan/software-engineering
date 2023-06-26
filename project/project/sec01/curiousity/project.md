@@ -154,6 +154,8 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
 | 31 | 27/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Project Presentation |
 
 ### Requirement collection
+Meeting with stakeholders <br><br>
+
 <img src="https://user-images.githubusercontent.com/129201809/236988075-7de16aa3-4a6a-489a-a324-8e9d31c543b4.jpg" alt="Hanie" height="500px"></img>
 
 #### Meeting with JKM KTDI (Hanie Azyuni binti Mazle) 
