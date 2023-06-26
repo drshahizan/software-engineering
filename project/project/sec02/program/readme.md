@@ -237,6 +237,7 @@ Low Fidelity Wireframes:
 
 
 High Fidelity Wireframes:
+![Screenshot 2023-06-27 071714](https://github.com/drshahizan/software-engineering/assets/128214992/f6fcc6f0-f97b-4430-8ece-8c5c03ff1b87)
 
 
 Design System & Typography:
