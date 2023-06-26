@@ -225,6 +225,7 @@ High Fidelity Wireframes:
 
 Design System and Typography:
 ![colour](https://github.com/drshahizan/software-engineering/assets/128160230/a062c854-1215-49ef-9e73-8d51ec5cae8c)
+![font](https://github.com/drshahizan/software-engineering/assets/128160230/15a895c9-ae2e-4511-9673-753b21d087a4)
 
 ## 4. Testing and Quality Assurance:
 
