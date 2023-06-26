@@ -1,5 +1,12 @@
-# Project Description
-## 1. Introduction:
+# Student Accommodation System in KTDI
+<div id="header" align="center">
+  <h2>Team stakeholder</h2>
+  <img src="https://user-images.githubusercontent.com/118497269/241292086-c5ae852a-52cb-469f-8a2f-6b86594898a0.jpg" width="350" height="250"/>
+</div>
+
+## Table of Content 
+
+## Introduction:
 - Briefly explain the purpose and objectives of the project.
 - Describe the problem statement or the need the project aims to address.
 - Outline the significance and potential impact of the project.
