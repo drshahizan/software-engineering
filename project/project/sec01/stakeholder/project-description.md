@@ -212,21 +212,53 @@ The followings are the specific tools, technologies, or frameworks which are emp
   <img src="https://media.istockphoto.com/id/1147369741/vector/isometric-flat-vector-concept-of-qa-quality-assurance-software-app-testing.jpg?s=612x612&w=0&k=20&c=YfJJxwgoQNEK_ZAByVl3Xj4r3HeRwNgazduDH9ve4I0=" width="300" height="200"/>
 </div>
 
-- Explain the testing strategies and techniques employed.
-- Discuss the types of testing conducted (e.g., unit testing, integration testing, etc.).
-- Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
-
 ### Testing Strategies/Techniques:
+Our project has implemented the **black-box** testing strategy, specifically the Equivalence Partitioning (EP) and Boundary Value Analysis (BVA) techniques to provide complete test coverage.
 
+1. **Equivalence Partitioning (EP)**:
+Equivalence Partitioning is a technique used to divide the input data into groups or partitions that are expected to exhibit similar behavior. By selecting representative test cases from each partition, we can effectively test the system's response within that partition. For instance, Equivalence Partitioning is applied in our project as follows:
+
+- Room Types: We can divide room types into partitions such as single rooms, double rooms, and shared rooms. Each partition represents a distinct behavior or characteristic, and we can create test cases to validate the system's handling of different room types.
+
+- Payment Amounts: We can partition payment amounts into groups such as full payment, partial payment, and outstanding payments. This technique allows us to select representative test cases to verify the system's behavior for different payment scenarios.
+
+By using Equivalence Partitioning, we can ensure that test cases cover different input partitions, increasing the likelihood of detecting defects within each partition.
+
+2. **Boundary Value Analysis (BVA)**:
+Boundary Value Analysis is a technique used to test the system's behavior at the boundaries of input ranges. It focuses on selecting test cases at or just beyond the boundaries to verify how the system handles these boundary values. In our project, Boundary Value Analysis is conducted as the next example:
+
+- Maximum and Minimum Room Capacity: We can test the system's behavior when assigning the maximum and minimum capacity for rooms. By selecting test cases with values just below and above these boundaries, we can ensure that the system handles capacity constraints correctly.
+
+By using Boundary Value Analysis, we can focus on critical values that are likely to cause issues and ensure that the system handles these boundary conditions accurately.
 
 ### Types of Testing:
-In this project, our team has used **unit testing** as an important part of our project's testing type. It involves testing individual units or components of the software to ensure they work correctly. The main goals of unit testing are to check that each unit behaves as expected and to detect bugs early in the development process.
+Our team has used **unit testing** as an important part of our project's testing type. It involves testing individual units or components of the software to ensure they work correctly. The main goals of unit testing are to check that each unit behaves as expected and to detect bugs early in the development process.
 
-During unit testing, we isolated each unit of code and verified its behavior. This allows us to identify and fix issues in a focused manner. Then, we validated that units produce the correct outputs for given inputs and handle exceptional cases properly. Besides, unit testing also helps with refactoring and maintenance. It provides a safety net when making changes to the code, ensuring that modifications don't introduce new bugs and that the units still function correctly. Additionally, unit tests act as living documentation, providing insights into how the code is supposed to work.
+During unit testing, we isolated each unit of code and verified its behaviour. This allows us to identify and fix issues in a focused manner. Then, we validated that units produce the correct outputs for given inputs and handle exceptional cases properly. Besides, unit testing also helps with refactoring and maintenance. It provides a safety net when making changes to the code, ensuring that modifications don't introduce new bugs and that the units still function correctly. Additionally, unit tests act as living documentation, providing insights into how the code is supposed to work.
 
-By performing unit testing, we could catch bugs early on, which saves time and effort in the long run. It improves the overall quality of our code by making it more reliable and robust. Unit tests also aid in collaboration among team members, as they provide clear specifications for the expected behavior of the code. Thus, unit testing helps us ensure that individual units of code work correctly, detect bugs early, support refactoring and maintenance, and improve the overall quality of our software.
+By performing unit testing, we could catch bugs early, saving time and effort in the long run. It improves the overall quality of our code by making it more reliable and robust. Unit tests also aid in collaboration among team members, as they provide clear specifications for the expected behaviour of the code. Thus, unit testing helps us ensure that individual units of code work correctly, detect bugs early, support refactoring and maintenance, and improve the overall quality of our software.
 
 ### Quality Assurance Process:
+We have implemented the following quality assurance processes to ensure the reliability and robustness of the software product.
+
+1. Requirement Analysis and Validation: We thoroughly analyzed and validated the requirements to ensure their accuracy, completeness, and alignment with stakeholders' needs. This involves engaging with stakeholders, conducting interviews, and reviewing requirements documentation (SRS).
+
+2. Test Planning and Strategy: We developed a comprehensive test plan (Proposal) that outlines the testing objectives, scope, approach, schedules, resource allocation, and testing environment requirements. This plan guides our testing efforts and ensures appropriate test coverage.
+
+3. Test Case Development: We created well-defined test cases that cover various functions, input combinations, and potential error conditions. These test cases are designed to verify the software against specified requirements and ensure adequate test coverage.
+
+4. Test Execution and Defect Management: We executed test cases according to the test plan, record test results, and identify any defects or problems encountered during testing. Defects are reported, tracked, and managed using a defect management system to ensure timely resolution.
+
+5. Regression Testing: We conducted regression testing after software changes or updates to ensure that previously tested functionalities remain intact. This helps us identify and fix any regression defects that may arise due to system changes.
+
+6. Performance and Load Testing: We evaluated the system's behavior under normal and peak load conditions to identify performance bottlenecks, scalability issues, and resource constraints. This testing ensures that the software can handle expected user loads without degradation in performance.
+
+7. User Acceptance Testing (UAT): We involved end-users in the testing process to validate the system's usability, functionality, and user experience. UAT helps to ensure that the software meets users' expectations and requirements.
+
+8. Code Reviews and Quality Checks: We conducted code reviews to assess the quality and maintainability of the software code. This involves reviewing the code for adherence to coding standards, identifying potential bugs, and ensuring best practices are followed.
+
+9. Continuous Integration and Deployment: We implemented a continuous integration and deployment process to automate the execution of tests and detect problems early in the development life cycle. This helps ensure that changes are integrated smoothly and issues are identified and resolved promptly.
+
 
 ## Results and Achievements
 <div id="header" align="center">
