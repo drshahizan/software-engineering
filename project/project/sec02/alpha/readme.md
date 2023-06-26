@@ -19,7 +19,7 @@ Don't forget to hit the :star: if you like this repo.
 * [Implementation](#3-implementation)
 * [Timeline process](#timeline-process)
 * [Requirement collection](#requirement-collection)
-* [Software components & modules](#software-components-modules)
+* [Software components & modules](#software-components-or-modules)
 * [Design phase](#design-phase)
 * [Design system](#design-system)
 * [Challenges](#challenges-faced-and-solutions)
