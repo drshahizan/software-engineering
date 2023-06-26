@@ -224,7 +224,8 @@ High Fidelity Wireframes:
 ![2](https://github.com/drshahizan/software-engineering/assets/128160230/d0519e29-cbbf-40d1-a42b-71bb86767982)
 
 Design System and Typography:
-![colour](https://github.com/drshahizan/software-engineering/assets/128160230/a062c854-1215-49ef-9e73-8d51ec5cae8c)
+![colour2](https://github.com/drshahizan/software-engineering/assets/128160230/2993df3a-8b2f-4502-8cbf-72d4c0f598a9)
+
 ![font2](https://github.com/drshahizan/software-engineering/assets/128160230/057bef3e-6120-40d8-a59e-b24b059cfe89)
 
 
