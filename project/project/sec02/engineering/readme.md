@@ -118,7 +118,8 @@ The Parcel Delivery System project aims to develop a web-based system that optim
 
 High Fidelity Wireframes:
 ![12](https://github.com/drshahizan/software-engineering/assets/128160230/aad223d9-bbd4-4925-9252-59752b8f0adb)
-![1](https://github.com/drshahizan/software-engineering/assets/128160230/f41685bc-d369-4787-b5d3-33727f635a4b)
+![2](https://github.com/drshahizan/software-engineering/assets/128160230/d0519e29-cbbf-40d1-a42b-71bb86767982)
+
 
 ## 4. Testing and Quality Assurance:
 
