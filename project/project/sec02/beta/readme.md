@@ -120,9 +120,7 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 
 ## 1. Introduction:
-- Briefly explain the purpose and objectives of the project.
-- Describe the problem statement or the need the project aims to address.
-- Outline the significance and potential impact of the project.
+The purpose of our food ordering system is to provide a convenient and user-friendly platform for customers to place their food orders, eliminating the need for long queues and reducing waiting times. Our objective is to streamline the process of ordering food, ensuring efficiency and customer satisfaction. By leveraging technology, we aim to bridge the gap between restaurants and customers, making it easier for individuals to enjoy their favorite meals without the hassle of traditional ordering methods.
 
 ## 2. Methodology:
 - Describe the approach and methodologies utilized to tackle the project.
