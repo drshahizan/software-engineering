@@ -117,6 +117,10 @@ The primary objective of the Parcel Delivery System is to streamline and enhance
 
 1. Simplify Parcel Management: The system will provide a centralized platform for managing parcel operations, including creating new parcels, assigning them to delivery personnel, and tracking their progress.
 2. Improve Tracking and Visibility: The system will enable real-time tracking of parcels, allowing both administrators and customers to have full visibility into the delivery process. This will help reduce parcel loss, improve accountability, and provide timely updates to customers.
+3. Enhancing security: Implement robust security measures to protect parcel and user data from unauthorized access and cyber threats.
+4. Improve user experience: Create an intuitive and engaging interface with clear instructions, informative feedback, and proactive notifications for a seamless and satisfying user experience.
+
+
 
 
 
