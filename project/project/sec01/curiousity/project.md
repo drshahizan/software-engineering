@@ -37,13 +37,12 @@ THe purpose of our project of building a KTDI Event Management System is aimed t
 4. Automatic update of KTDI merit points.
 
 ## Methodology
-- Describe the approach and methodologies utilized to tackle the project.
-
+### Approach and Methodology
 We utilised Agile software development process model for our KTDI event management system. The Agile process model is an adaptable and iterative method of developing software that places a focus on teamwork, client satisfaction, and the quick delivery of functional software. This process model emphasises delivering value to the user (JKM) at each iteration and is appropriate for projects with varying requirements and uncertainties.
 
 The agile process model was chosen because it enables frequent feedback and changes to be made to the software while it is being developed. Since this system is being created for a university, it is likely that the requirements will change and be updated as the project moves forwards. The Agile process model is well suited to handle such changes and still deliver a high-quality product on time.
 
-- Explain the software development life cycle model or any other relevant methodology adopted.
+### Software development life cycle model: Agile process mode
 The Agile process model consists of the following phases:
 <img src="https://agilie.com/_next/image?url=/api/imageproxy?url=https%3A%2F%2Fd12zh9bqbty5wp.cloudfront.net%2Fimages%2Ff9e66e179b6747ae54108f82f8ade8b3c25d76fd30afde6c395822c530196169-1674685166733.png&w=1920&q=75" alt="Agile" height="500px"></img>
 
@@ -65,7 +64,7 @@ The main developer will deploy the system to the production environment during t
 #### 6. Maintenance Phase
 The team will ensure the system's upkeep and maintenance during this phase, including bug fixes, software updates, and any necessary improvements. The objective is to maintain the system's smooth operation and adapt to the users' changing needs. The team will carry out routine assessments to make sure the system keeps up with the project's goals and stakeholder expectations.
 
-- Highlight any specific tools, technologies, or frameworks employed during the project.
+### Specific Tools, Technologies, and Frameworks
 <table style="border-collapse: collapse;">
       <thead>
         <tr>
