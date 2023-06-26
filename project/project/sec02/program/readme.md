@@ -202,7 +202,8 @@ Use Case Diagram:<br>
  <img src="https://github.com/drshahizan/software-engineering/assets/128196055/22a484f3-d06f-43ac-8ebb-109d6e3249a6" width="400" height=auto >
 
 Activity Diagram:<br>
- 
+ ![image](https://github.com/drshahizan/software-engineering/assets/128214992/0b0c8d5b-674b-4916-a374-63da5b416546)
+
  
 - <b>Create SRS Documentation</b>: Use Cases and extra to-do parts in SRS documentation identified
 
