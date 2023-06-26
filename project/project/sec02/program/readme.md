@@ -205,6 +205,7 @@ Design System & Typography:
 
 - <b>Create System Test Documentation</b>
 - Component Model:
+![Component Diagram](https://github.com/drshahizan/software-engineering/assets/128212534/f0e4c4bf-eccd-49e6-a5d7-6158e056dcbc)
 
   
 - Complete Package Diagram:
