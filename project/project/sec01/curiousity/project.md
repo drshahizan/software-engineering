@@ -223,8 +223,11 @@ Solutions:
 
 ### 3. Software components & modules
 - Provide an overview of the software components or modules developed.
+- Component Model:
+- Use Case Diagram:
+- Complete Package Diagram:
+
 - Analysis
-- User Case Diagram
 
 ### 4. Design phase
 - low fidenity
