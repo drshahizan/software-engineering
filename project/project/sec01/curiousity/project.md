@@ -253,13 +253,14 @@ Solutions:
 <img src="staff_flow.png" alt="staff" height="500px"></img>
 
 ### 6. Challenges
-| No | Challenge | Solution | 
-| -----:| ----- | ------ | ------ | ------ |
-| 1. | Finding of stakeholders | Contact appriopraite stakeholders that is found on the KTDI website and the gantt chart in college |
-| 2. | Rapid requirement changes | Rapid meetings with stakeholders and members |
+| No | Challenge | Solution |
+| --- | --- | --- |
+| 1. | Finding of stakeholders | Contact appropriate stakeholders found on the KTDI website and the Gantt chart in college |
+| 2. | Rapid requirement changes | Conduct rapid meetings with stakeholders and team members |
 | 3. | Busy schedules of the developers | Improve time management |
-| 4. | New to Figma | Adapt to figma in weeks through practices and continuous design updates |
-| 5. | Project documentation | Maintaining an accurate and up-to-date documentation throughouut the lifecycle by updating GitHub with the necessary documents |
+| 4. | New to Figma | Adapt to Figma through practice and continuous design updates |
+| 5. | Project documentation | Maintain accurate and up-to-date documentation throughout the lifecycle by updating GitHub with the necessary documents |
+
 
 ## Testing and Quality Assurance
 - Explain the testing strategies and techniques employed.
