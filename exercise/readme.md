@@ -20,6 +20,7 @@ Don't forget to hit the :star: if you like this repo.
 | 6 | 4 V | ShopEasy | <a href="./val/mcq6.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
 | 7 | 4 V | BankEase | <a href="./val/mcq7.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
 | 8 | 4 V | ProjectTrack | <a href="./val/mcq8.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
+| 9 | AD | Online Shopping Application | <a href="./ad/mcq9.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
 
 ## Structured question
 | Set | Topic |  Title |File |
