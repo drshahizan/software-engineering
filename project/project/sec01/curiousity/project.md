@@ -154,6 +154,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
 | 31 | 27/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Project Presentation |
 
 ### Requirement collection
+<img src="https://user-images.githubusercontent.com/129201809/236988075-7de16aa3-4a6a-489a-a324-8e9d31c543b4.jpg" alt="Hanie" height="500px"></img>
 1. <b>Meeting with JKM KTDI (Hanie Azyuni binti Mazle) </b><br>
 At 8 p.m. of 3 May 2023, we had a meeting with Hanie at M01, KTDI to discuss about the requirements, wants, and needs of JKM KTDI in doing their pre, during, and post event preparation.
 
@@ -167,8 +168,8 @@ Solutions:
 - Distribution of tasks to members
 - Post-event report
 
-<img src="https://user-images.githubusercontent.com/129201809/236988075-7de16aa3-4a6a-489a-a324-8e9d31c543b4.jpg" alt="Hanie" height="500px"></img>
 
+<img src="https://user-images.githubusercontent.com/129201809/236986877-e485f15d-3268-41da-9e4f-f854e21eaec6.jpg" alt="Sky" height="500px"></img>
 2. <b>Meeting with JKM KTDI (Lim Shi Kai) </b><br>
 At 9 a.m. of 4 May 2023, we had a meeting with Shi Kai at M01, KTDI to discuss about the requirements, wants, and needs of JKM KTDI in doing their pre, during, and post event preparation.
 
@@ -182,8 +183,8 @@ Solutions:
 - Calendar for annual event
 - Plan events for the year in advance
 
-<img src="https://user-images.githubusercontent.com/129201809/236986877-e485f15d-3268-41da-9e4f-f854e21eaec6.jpg" alt="Sky" height="500px"></img>
 
+<img src="https://user-images.githubusercontent.com/129201809/240615920-b4dbd2b9-b736-4289-85e4-da75df7c90d7.jpg" alt="Sky" height="500px"></img>
 3. <b>Meeting with student (Nadia Syahadah Binti Saharudin) </b><br>
 At 9 p.m. of 10 May 2023, we had a meeting with Nadia at M25, KTDI to discuss about the requirements, wants, and needs of a student in joining events.
 
@@ -194,9 +195,9 @@ Problems:
 Solutions:
 - Organized registration link in our system
 
-<img src="https://user-images.githubusercontent.com/129201809/240615920-b4dbd2b9-b736-4289-85e4-da75df7c90d7.jpg" alt="Sky" height="500px"></img>
 
 
+<img src="https://user-images.githubusercontent.com/129201809/238513654-63fbed05-d986-42ae-a51d-76c0cb0b504a.jpg" alt="Principal" height="500px"></img>
 4. <br>Meeting with KTDI Principal (LT KOL Prof. Madya Dr. Mohd Noor Azli Bin Haji. Ali Khan) </b><br>
 At 4 p.m. of 11 May 2023, we had a meeting with Prof. Madya Dr. Mohd Noor Azli at the KTDI office to discuss about the requirements, wants, and needs as a KTDI staff member in event preparation as well as the post-event operations.
 
@@ -207,7 +208,6 @@ Problems:
 Solutions:
 - Calculate active quota (systematic)
 
-<img src="https://user-images.githubusercontent.com/129201809/238513654-63fbed05-d986-42ae-a51d-76c0cb0b504a.jpg" alt="Sky" height="500px"></img>
 
 5. <br>Meeting with Pembantu Felo (Hamizah Amalina Binti Amlan) </b><br>
 At 14 May 2023, we contacted with Hamizah Amalina via WhatsApp to discuss about the the problem they faced as a KTDI staff member in event preparation as well as the post-event operations.
@@ -219,10 +219,8 @@ Problems:
 
 Solutions:
 - Task delegations
-- Event calendar for semester events
+- Event calendar for semesters events
 - Event descriptions
-
-<img src="https://user-images.githubusercontent.com/129201809/238513654-63fbed05-d986-42ae-a51d-76c0cb0b504a.jpg" alt="Sky" height="500px"></img>
 
 ### 3. Software components & modules
 - Provide an overview of the software components or modules developed.
