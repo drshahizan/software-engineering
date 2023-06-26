@@ -270,7 +270,7 @@ In order to ensure the reliability and robustness of the software, quality assur
 
 
 ## 7. Results and Achievements:
-The Kolej Tun Dr. Ismail (KTDI) College room rental system project has yielded significant outcomes and achievements. The software solution successfully streamlined the room rental process, improving efficiency and user satisfaction. Here are some key results:
+The Kolej Tun Dr. Ismail (KTDI) College room rental system project has yielded significant outcomes and achievements. The software solution successfully streamlined the room rental process, improving efficiency and user satisfaction.
 
 - Increased Efficiency: The automated system significantly reduced the time and effort required for room allocation, payment processing, and administrative tasks. This led to improved productivity for college administrators and a smoother experience for students.
 
@@ -297,9 +297,7 @@ During the evaluation process, stakeholders and users provided valuable feedback
 3. Some users suggested incorporating additional features, such as roommate matching algorithms based on preferences and shared interests, to further enhance the user experience.
 
 
-- Present the outcomes and achievements of the project.
-- Share any quantitative or qualitative data that demonstrates the success of the software solution.
-- Discuss any feedback received from stakeholders or users during the evaluation process.
+
 
 ## 8. Conclusion:
 
@@ -311,9 +309,6 @@ Looking to the future, we recommend enhancing the payment and billing system wit
 
 By leveraging the project experience and applying the lessons learned, the KTDI College room rental system can continue to evolve, providing a streamlined and user-friendly experience for students and staff.
 
-- Summarize the overall project experience and lessons learned.
-- Reflect on the challenges faced and how they were overcome.
-- Highlight any future improvements or recommendations for further development.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
