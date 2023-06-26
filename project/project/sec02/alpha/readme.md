@@ -192,7 +192,8 @@ Don't forget to hit the :star: if you like this repo.
 - Admin
 <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/User%20Flow1.png" alt=""/></a>
 - Student
-<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/User%20Flow2.png" alt=""/></a>
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/User%20Flow2.png" alt=""/></a>
+
 
 ## 5. Requirement Collection
 ### Meeting with stakeholders
