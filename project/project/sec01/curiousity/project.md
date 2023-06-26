@@ -252,7 +252,12 @@ Solutions:
 <img src="staff_flow.png" alt="staff" height="500px"></img>
 
 ### 6. Challenges
-- Describe any challenges faced during the implementation phase and how you addressed them
+| No | Challenge | Solution | 
+|1.| Finding of stakeholders | Contact appriopraite stakeholders that is found on the KTDI website and the gantt chart in college |
+|2.| Rapid requirement changes | Rapid meetings with stakeholders and members |
+|3.| Busy schedules of the developers | Improve time management |
+|4.| New to Figma | Adapt to figma in weeks through practices and continuous design updates |
+|5.| Project documentation | Maintaining an accurate and up-to-date documentation throughouut the lifecycle by updating GitHub with the necessary documents |
 
 ## Testing and Quality Assurance
 - Explain the testing strategies and techniques employed.
