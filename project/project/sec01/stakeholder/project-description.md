@@ -98,6 +98,7 @@ By utilizing the Agile methodology, we can effectively address the unique aspect
 - Provide an overview of the software components or modules developed.
 - Describe any challenges faced during the implementation phase and how you addressed them.
 ### Timeline:
+[View our project timeline and tasks](https://github.com/users/drshahizan/projects/16/views/5)
 
 ### Stakeholders:
 <table>
@@ -140,6 +141,7 @@ By utilizing the Agile methodology, we can effectively address the unique aspect
   </tr>
 </table>
 
+### Software Components/Modules
 **Use case diagram**:
 <div id="header" align="center">
   <img src="https://github.com/drshahizan/software-engineering/assets/118497269/fa57cef2-a8a4-4692-ba40-5683ab57e230"/>
