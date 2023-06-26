@@ -111,6 +111,13 @@ One Stop Parcel Center
 ## 1. Introduction:
 The Parcel Delivery System project aims to develop a web-based system that optimizes the process of parcel management and delivery in College KTDI. The system will provide an efficient and user-friendly platform for managing parcel operations within One Parcel System and KTDI. It will automate key tasks such as parcel tracking, delivery scheduling, and communication between stakeholders, resulting in improved efficiency, accuracy, and customer satisfaction.
 
+### Objective
+
+The primary objective of the Parcel Delivery System is to streamline and enhance the entire parcel delivery process. The system aims to achieve the following goals:
+
+1. Simplify Parcel Management: The system will provide a centralized platform for managing parcel operations, including creating new parcels, assigning them to delivery personnel, and tracking their progress.
+
+
 
 ## 2. Methodology:
 
