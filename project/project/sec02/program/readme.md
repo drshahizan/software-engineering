@@ -199,7 +199,8 @@ Class Diagram:<br>
  
 
 Use Case Diagram:<br>
- 
+ <img src="https://github.com/drshahizan/software-engineering/assets/128196055/22a484f3-d06f-43ac-8ebb-109d6e3249a6" width="400" height=auto >
+
 Activity Diagram:<br>
  
  
