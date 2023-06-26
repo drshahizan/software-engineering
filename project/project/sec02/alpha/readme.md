@@ -137,19 +137,17 @@ Don't forget to hit the :star: if you like this repo.
 
 #### Tasks and Activities:
 
-1. Requirement Gathering: The group conducted meetings with college administrators, students, and staff to understand their needs and gather requirements for the room rental system. This involved identifying key features, user roles, and system constraints.
+1. Requirement Gathering: we conducted meetings with college administrators, students, and staff to understand their needs and gather requirements for the room rental system. This involved identifying key features, user roles, and system constraints.
 
-2. System Design: Based on the gathered requirements, the group created a system design that included the three-tier architecture. The design involved defining the data model, user interfaces, application logic, and integration points.
+2. System Design: Based on the gathered requirements, we created a system design that included the three-tier architecture. The design involved defining the data model, user interfaces, application logic, and integration points.
 
-3. Database Design: The group designed the database schema to store information about students, rooms, bookings, payments, and user feedback. This involved creating tables, defining relationships, and establishing data integrity constraints.
+3. Database Design: we designed the database schema to store information about students, rooms, bookings, payments, and user feedback. This involved creating tables, defining relationships, and establishing data integrity constraints.
 
-4. User Interface Development: The group developed the user interfaces for different system stakeholders, including the student registration form, room search and booking interface, payment processing screens, and administrative functions. The interfaces were designed to be intuitive, user-friendly, and responsive.
+4. User Interface Development: we developed the user interfaces for different system stakeholders, including the student registration form, room search and booking interface, payment processing screens, and administrative functions. The interfaces were designed to be intuitive, user-friendly, and responsive.
 
-5. Application Development: The group implemented the application logic using appropriate programming languages and frameworks. This involved developing modules for student registration, room searching and booking, payment processing, room cancellation, user feedback and review, and administrative functions.
+5. Integration and Testing: we integrated the different software components and conducted comprehensive testing to ensure the system's functionality and performance. This involved unit testing, integration testing, and system testing to identify and fix any issues or bugs.
 
-6. Integration and Testing: The group integrated the different software components and conducted comprehensive testing to ensure the system's functionality and performance. This involved unit testing, integration testing, and system testing to identify and fix any issues or bugs.
-
-7. Deployment and User Training: Once the system was tested and deemed stable, the group deployed it to a web server and conducted user training sessions for college staff and students. This ensured that users understood how to use the system effectively and efficiently.
+6. Deployment and User Training: Once the system was tested and deemed stable, the group deployed it to a web server and conducted user training sessions for college staff and students. This ensured that users understood how to use the system effectively and efficiently.
 
 #### Software Components or Modules:
 ##### Use case Diagram
