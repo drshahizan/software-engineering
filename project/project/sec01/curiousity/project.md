@@ -6,9 +6,9 @@
 * [Objective](#2-objective)
 * [Problem Statement](#3-problem-statement)
 * [Potential Impact](#4-potential-impact)
-* [Methodology](#Methodology)
-* [Introduction](#introduction)
-* [Purpose](#1-purpose)
+* [Methodology](#methodology)
+* [Implementation](#implementation)
+* [Timeline process](#1-timeline-process)
 * [Objective](#2-objective)
 * [Problem Statement](#3-problem-statement)
 * [Potential Statement](#4-potential-impact)
@@ -34,22 +34,22 @@ THe purpose of our project of building a KTDI Event Management System is aimed t
 
 ## Implementation
 
-### Timeline process
+### 1. Timeline process
 - Detail the specific tasks and activities undertaken by your group.
 - Gantt Chart
 
-### Requirement collection
+### 2. Requirement collection
 - Stalkholder meeting
 
-### Software components & modules
+### 3. Software components & modules
 - Provide an overview of the software components or modules developed.
 - Analysis
 - User Case Diagram
 
-### Design phase
+### 4. Design phase
 - low fidenity
 
-### Design system
+### 5. Design system
 - colour
 - typography
 - iconography
@@ -59,7 +59,7 @@ THe purpose of our project of building a KTDI Event Management System is aimed t
 - Flow for JKM
 - Flow for staff
 
-### Challenges
+### 6. Challenges
 - Describe any challenges faced during the implementation phase and how you addressed them
 
 ## Testing and Quality Assurance
