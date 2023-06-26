@@ -263,7 +263,7 @@ Solutions:
 - Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
 
 ## Results and Archievements
-### 1. Project Outcome: Figma
+### 1. Project Outcome: Figma Prototype
 <a href="https://www.figma.com/proto/j19tAaFoStbu6fxeleYlf3/KTDI-Event-Management-System?page-id=27%3A7&type=design&node-id=24-85&viewport=326%2C-303%2C0.04&scaling=scale-down&starting-point-node-id=24%3A85&mode=design"><img src="figma.jpg" width="50px" height="50px" ></a>
 
 - Share any quantitative or qualitative data that demonstrates the success of the software solution.
@@ -273,5 +273,3 @@ Solutions:
 - Summarize the overall project experience and lessons learned.
 - Reflect on the challenges faced and how they were overcome.
 - Highlight any future improvements or recommendations for further development.
-
-## Prototype
