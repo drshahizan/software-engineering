@@ -122,6 +122,11 @@ The primary objective of the Parcel Delivery System is to streamline and enhance
 ## 2. Methodology:
 
 ## 3. Implementation:
+
+Meeting With Stakeholder:
+
+
+
 Sticky Note(Project Planning):
 ![sticky note project planning](https://github.com/drshahizan/software-engineering/assets/128160230/f76917d1-b45a-4809-8eef-0cad7a180bd8)
 
