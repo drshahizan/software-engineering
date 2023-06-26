@@ -18,14 +18,13 @@ Don't forget to hit the :star: if you like this repo.
 * [Methodology](#2-methodology)
 * [Implementation](#3-implementation)
 * [Timeline process](#timeline-process)
-* [Requirement collection](#requirement-collection)
+* [Design phase and System](#4-design-phase-and-system)
+* [Requirement collection](#5-requirement-collection)
 * [Software components & modules](#software-components-or-modules)
-* [Design phase](#design-phase)
-* [Design system](#design-system)
 * [Challenges](#challenges-faced-and-solutions)
-* [Testing and Quality Assurance](#4-testing-and-quality-assurance)
-* [Results and Archievements](#5-results-and-achievements)
-* [Conclusion](#6-conclusion)
+* [Testing and Quality Assurance](#6-testing-and-quality-assurance)
+* [Results and Archievements](#7-results-and-achievements)
+* [Conclusion](#8-conclusion)
 
 # Activity: Group Alpha
 
@@ -183,9 +182,16 @@ Don't forget to hit the :star: if you like this repo.
 | Data Integrity                            | Implemented data validation and transaction handling mechanisms to ensure data consistency and integrity.      |
 | System Integration                        | Utilized well-defined APIs, standardized data formats, and thorough integration testing for seamless integration. |
 
+## 4. Design Phase and System
 
 
-## 4. Testing and Quality Assurance:
+## 5. Requirement Collection
+
+
+
+
+
+## 6. Testing and Quality Assurance:
 Testing and quality assurance play a crucial role in ensuring the reliability and robustness of the software. The following are the testing strategies and techniques employed in the project. 
 
 #### 4.1 Testing Strategies and Techniques
@@ -216,7 +222,7 @@ In order to ensure the reliability and robustness of the software, quality assur
 
 
 
-## 5. Results and Achievements:
+## 7. Results and Achievements:
 The Kolej Tun Dr. Ismail (KTDI) College room rental system project has yielded significant outcomes and achievements. The software solution successfully streamlined the room rental process, improving efficiency and user satisfaction. Here are some key results:
 
 - Increased Efficiency: The automated system significantly reduced the time and effort required for room allocation, payment processing, and administrative tasks. This led to improved productivity for college administrators and a smoother experience for students.
@@ -248,7 +254,7 @@ During the evaluation process, stakeholders and users provided valuable feedback
 - Share any quantitative or qualitative data that demonstrates the success of the software solution.
 - Discuss any feedback received from stakeholders or users during the evaluation process.
 
-## 6. Conclusion:
+## 8. Conclusion:
 
   In conclusion, the Kolej Tun Dr. Ismail (KTDI) College room rental system project aimed to simplify the room rental process by developing a web-based system. Throughout the project, we faced challenges in gathering requirements, managing system complexity, integrating data, and designing a user-friendly interface. However, we overcame these challenges by maintaining clear and continuous communication with stakeholders, conducting thorough planning and documentation, adopting an agile development approach, and prioritizing user-centric design.
 
