@@ -194,6 +194,14 @@ High Fidelity Wireframes:
 
 ## 7. Prototype:
 
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Prototype Main Menu | <a href="https://www.figma.com/proto/8TEqAZrupIZEwPDU8mHWvK/Main?type=design&node-id=28-732&scaling=contain&page-id=0%3A1&starting-point-node-id=28%3A732&show-proto-sidebar=1&mode=design" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
+|2| Prototype Admin | <a href="https://www.figma.com/proto/8TEqAZrupIZEwPDU8mHWvK/Main?type=design&node-id=27-836&scaling=contain&page-id=0%3A1&starting-point-node-id=27%3A845&show-proto-sidebar=1&mode=design" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
+|3| Prototype User | <a href="https://www.figma.com/proto/8TEqAZrupIZEwPDU8mHWvK/Main?type=design&node-id=27-812&scaling=contain&page-id=0%3A1&starting-point-node-id=27%3A812&show-proto-sidebar=1&mode=design" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
+|4| Prototype Rider | <a href="https://www.figma.com/proto/8TEqAZrupIZEwPDU8mHWvK/Main?type=design&node-id=27-823&scaling=contain&page-id=0%3A1&starting-point-node-id=27%3A823&show-proto-sidebar=1&mode=design" width="24px" height="24px" ></a>|
+
+
 ## 8. Documentations:
 | No | Name |File | 
 | -----:| ----- | :------: | 
