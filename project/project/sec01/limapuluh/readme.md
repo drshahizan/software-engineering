@@ -283,6 +283,10 @@ Design System & Typography:
     <li>Through continuous integration and deployment practice, testing is integrated into the software development process. This helps to automate the execution of tests and detect problems early in the development life cycle. </li>
   </ol>
 
+- Test case template that we use for each test case:
+  ![image](https://github.com/drshahizan/software-engineering/assets/89129564/fefb4ba8-5336-4da8-b348-05f99ada18eb)
+
+
 ## 5. Results and Achievements:
 We are pleased to present the significant outcomes and achievements of our Student Feedback System project. The software solution has proven to be highly successful in enhancing the feedback process for students, faculty, and administration. The design theme of our system closely resembles our university and gives users a sense of familiarity which took effect and allowed users to enjoy using our newly updated Student Feedback System.
 
