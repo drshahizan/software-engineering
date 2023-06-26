@@ -147,6 +147,8 @@ The approach and methodologies utilized for the development of the Parcel Delive
 
 3. Software Development Life Cycle (SDLC): Follow an Agile SDLC model that aligns with the iterative and incremental development approach. The SDLC stages include requirements gathering, design, development, testing, deployment, and maintenance. This ensures a systematic and structured approach to the development process, with continuous feedback and improvement at each stage.
 
+4. User-Centered Design: Utilize a user-centered design (UCD) approach to ensure that the system's design and functionality meet the needs and expectations of users. This approach involves conducting user research, creating user personas and scenarios, and testing the system with users to gather feedback and refine the design.
+
 ### Tools, Technologies, and Frameworks:
 
 Several tools, technologies, and frameworks will be employed during the development of the Parcel Delivery System. These include:
