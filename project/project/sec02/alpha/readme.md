@@ -133,6 +133,7 @@ Don't forget to hit the :star: if you like this repo.
 - Database Management: Utilize MySQL as the database management system to store and retrieve data related to rooms, students, reservations, payments, etc.
 
 ## 3. Implementation:
+[Project Timeline](https://github.com/users/drshahizan/projects/18/views/1)
 
 #### Tasks and Activities:
 
