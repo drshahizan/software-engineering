@@ -14,6 +14,13 @@
 - Provide an overview of the software components or modules developed.
 - Describe any challenges faced during the implementation phase and how you addressed them.
 
+---
+
+<div id="header" align="center">
+  <h1>System Design</h1>
+  <img src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif" width="350" height="250"/>
+</div>
+
 ## Information Architecture
 - [View our Information Architecture](https://www.figma.com/file/8A6rSJ9SMKn2oQ3BkmWdLM/Information-Architecture?type=whiteboard&node-id=0%3A1&t=oXyeua8TtdOi9the-1)
 ![Image](https://github.com/drshahizan/software-engineering/assets/118497269/3befc7eb-0755-4f31-8fe3-17d607da99d6)
@@ -36,6 +43,8 @@
 
 ## User Prototype
 - [Interact with our system prototype](https://www.figma.com/proto/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=1058-6947&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1058%3A6947&mode=design)
+
+---
 
 ## 4. Testing and Quality Assurance:
 - Explain the testing strategies and techniques employed.
