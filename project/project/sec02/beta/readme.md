@@ -130,10 +130,49 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 The purpose of our food ordering system is to provide a convenient and user-friendly platform for customers to place their food orders, eliminating the need for long queues and reducing waiting times. Our objective is to streamline the process of ordering food, ensuring efficiency and customer satisfaction. By leveraging technology, we aim to bridge the gap between restaurants and customers, making it easier for individuals to enjoy their favorite meals without the hassle of traditional ordering methods.The traditional methods of ordering food often involve enduring long queues, especially during peak hours, which can lead to frustration and wasted time for customers. Our project aims to address this challenge by developing a robust food ordering system that allows customers to bypass lengthy queues. By providing an online platform, we offer a convenient alternative that saves time and eliminates the need for physical queuing, ultimately enhancing the overall dining experience.The significance of our food ordering system lies in its potential to revolutionize the way people order food, particularly by minimizing waiting times. By offering a user-friendly application, we empower customers to explore a wide range of restaurants and menus, customize their orders, and conveniently place them with just a few taps on their mobile devices. With our system, customers no longer need to wait in long queues, enabling them to save valuable time and enjoy their meals without unnecessary delays.This reduction in waiting times not only benefits customers but also improves operational efficiency for restaurants. By streamlining the ordering process, restaurants can serve customers more effectively, ensuring prompt order preparation and minimizing congestion during peak hours.By implementing this food ordering system, we envision a future where customers can easily explore a variety of culinary options, place their orders efficiently, and enjoy their favorite meals without enduring long queues or unnecessary waiting times.
 
 ## 2. Methodology:
-<img src="https://i.ibb.co/1JMHz4h/Agile.png" alt="Alt text" width="500" height="400">
-- Describe the approach and methodologies utilized to tackle the project.
-- Explain the software development life cycle model or any other relevant methodology adopted.
-- Highlight any specific tools, technologies, or frameworks employed during the project.
+<div id="header" align="center">
+  <img src="https://dribbble.com/shots/5487982-Developers-Gif" width="300" height="200"/>
+</div>
+
+To develop our Food Ordering System, we have chosen the Agile methodology as our software development process model. The Agile approach enables us to create a user-friendly and high-quality system within the allocated time and budget, while effectively addressing the requirements of our stakeholders.
+
+By leveraging the Agile methodology, we can effectively address the specific requirements of the food ordering system, including the need for adaptability and ongoing collaboration with stakeholders. The Agile approach enables us to continuously enhance and update the system based on valuable feedback, ensuring that our Food Ordering System remains relevant, user-friendly, and exceeds the expectations of our customers.
+<div id="header" align="center">
+ <img src="https://i.ibb.co/1JMHz4h/Agile.png" alt="Alt text" width="500" height="400">
+</div>
+
+1. Planning Phase:
+  - The project scope, objectives, and stakeholders are identified and defined.
+  - A timeline is established, along with milestones and resource allocation.
+  - A blueprint is developed, and a Gantt chart is created to visualize the project plan.
+  - The project manager takes the lead in overseeing these activities
+2. Requirements Gathering and Analysis Phase::
+  - Engage with stakeholders to understand their needs and priorities.
+  - Document user requirements and translate them into actionable user stories.
+  - Collaborate with stakeholders to define acceptance criteria for each user story.
+  - Continuously review and refine the backlog in collaboration with stakeholders.
+3. Design Phase:
+  - Develop a high-level software architecture design that aligns with the project requirements.
+ - Design the database schema to ensure efficient data storage and retrieval.
+ - Create detailed design documents that outline the system's functionality and interactions.
+ - Utilize Figma to create wireframes and prototypes for the user interface, ensuring a user-friendly experience.
+ - Review the design with the development team and stakeholders for feedback and validation.
+4. Development Phase:
+  - Collaboratively develop software components based on the sprint backlog.
+  - Conduct code reviews, write unit tests, and perform unit testing.
+  - Update code documentation and conduct daily stand-up meetings.
+  - Backend development led by the main developer, frontend led by UI/UX designer.
+5. Testing Phase:
+  - Develop a testing plan.
+  - Perform functional, integration, and acceptability testing.
+  - Report and fix flaws using a bug-tracking program.
+  - Managed by the quality assurance analyst.
+6. Deployment Phase:
+  - Prepare for the system's deployment by ensuring readiness and compliance with stakeholder criteria.
+  - Conduct final testing and quality assurance to ensure a smooth transition to the live environment.
+  - Provide training and support to stakeholders, enabling them to effectively use and manage the food ordering system.
+  - Continuously monitor the system's performance, gather feedback, and make improvements based on user satisfaction and emerging needs.
+  - Offer ongoing support and maintenance to address any issues and meet stakeholder demands.
 
 ## 3. Implementation:
 - Detail the specific tasks and activities undertaken by your group.
@@ -141,9 +180,28 @@ The purpose of our food ordering system is to provide a convenient and user-frie
 - Describe any challenges faced during the implementation phase and how you addressed them.
 
 ## 4. Testing and Quality Assurance:
-- Explain the testing strategies and techniques employed.
-- Discuss the types of testing conducted (e.g., unit testing, integration testing, etc.).
-- Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
+### Testing strategies and techniques employed.
+  <ol>
+  <li><b>Functional Testing</b>: This type of testing focuses on verifying the system's features and functionalities. Testers evaluate whether users can perform tasks such as searching for restaurants, selecting menu items, adding them to the cart, placing orders, and making payments without any issues.</li><br>
+  
+  <li><b>Usability Testing</b>: Usability testing ensures that the food ordering system is user-friendly and intuitive. Testers assess factors such as navigation, menu layout, order customization options, responsiveness, and overall user experience. They may also gather feedback from real users to identify any areas for improvement.</li><br>
+  
+  <li><b>Performance Testing</b>: Performance testing is crucial to determine how well the food ordering system performs under different loads and conditions. Testers simulate various scenarios, such as multiple users placing orders simultaneously, to measure the system's response time, throughput, and scalability. This helps ensure that the system can handle peak loads without performance degradation.</li><br>
+  
+  <li><b>Compatibility Testing</b>: Compatibility testing verifies that the food ordering system works seamlessly across different platforms, browsers, and devices. Testers ensure that the system functions correctly on popular web browsers (Chrome, Firefox, Safari, etc.), operating systems (Windows, iOS, Android), and mobile devices (phones, tablets). This ensures a consistent experience for all users.</li><br>
+ 
+</ol> 
+
+### Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
+  <ol>
+  <li><b>Requirement Analysis</b>: Quality assurance starts with a thorough analysis of the system's requirements. QA professionals collaborate with stakeholders to define clear and comprehensive requirements, ensuring that they are accurate, unambiguous, and aligned with the business objectives. This step helps prevent misunderstandings and reduces the likelihood of functional gaps or misinterpretations during development.</li><br>
+  
+  <li><b>Test Planning and Strategy</b>: A well-defined test plan is crucial for effective quality assurance. It outlines the testing scope, objectives, resources, timelines, and test methodologies to be used. The QA team collaborates with project stakeholders and developers to define a comprehensive testing strategy that covers all aspects of the food ordering system, including functionality, performance, security, and usability.</li><br>
+  
+  <li><b>Test Case Development</b>: Test cases are detailed instructions or scenarios that outline the steps to be performed and the expected results for each test. QA professionals develop test cases based on the requirements and test plan, covering various scenarios and user interactions. Well-designed test cases ensure thorough coverage of the system's functionalities and provide a foundation for accurate testing.</li><br>
+  
+  <li><b>Test Execution and Defect Tracking</b>: QA teams execute test cases to validate the system's behavior and identify defects or issues. Testers meticulously follow the test scripts and document any deviations from the expected results. Defect tracking systems are used to record and prioritize identified issues, allowing developers to address them promptly.</li><br>
+</ol>
 
 ## 5. Results and Achievements:
 We take great pleasure in showcasing the important results and accomplishments of our Food Ordering System project. The software system has excelled at improving the ordering process for patrons, restaurant personnel, and management. Our system's design is based heavily on the culinary experience, which makes consumers feel satisfied and convenient.

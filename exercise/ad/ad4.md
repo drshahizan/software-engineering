@@ -59,94 +59,94 @@ A hospital wants to develop a comprehensive Hospital Management System to stream
 ### Multiple-Choice Questions (MCQs):
 
 1. Which component of the Hospital Management System handles the presentation layer and user interaction?
-   -a) User Interface
-   -b) Business Logic
-   -c) Data Access Logic
-   -d) Database
+   - a) User Interface
+   - b) Business Logic
+   - c) Data Access Logic
+   - d) Database
 
 2. Which programming languages are commonly used for implementing the business logic of a Hospital Management System?
-   a) HTML and CSS
-   b) JavaScript and Python
-   c) Java and PHP
-   d) C++ and Ruby
+   - a) HTML and CSS
+   - b) JavaScript and Python
+   - c) Java and PHP
+   - d) C++ and Ruby
 
 3. Which component is responsible for interacting with the database in the Hospital Management System?
-   a) User Interface
-   b) Business Logic
-   c) Data Access Logic
-   d) Database
+   - a) User Interface
+   - b) Business Logic
+   - c) Data Access Logic
+   - d) Database
 
 4. Which tool or software is commonly used to develop the user interface of a web-based Hospital Management System?
-   a) React
-   b) Django ORM
-   c) Hibernate
-   d) MySQL
+   - a) React
+   - b) Django ORM
+   - c) Hibernate
+   - d) MySQL
 
 5. What type of database management system is recommended for storing patient information in the Hospital Management System?
-   a) Relational Database Management System (RDBMS)
-   b) NoSQL Database
-   c) Object-Oriented Database
-   d) File-based Database
+   - a) Relational Database Management System (RDBMS)
+   - b) NoSQL Database
+   - c) Object-Oriented Database
+   - d) File-based Database
 
 6. Which component of the Hospital Management System handles tasks such as patient registration, appointment scheduling, and medical records management?
-   a) User Interface
-   b) Business Logic
-   c) Data Access Logic
-   d) Database
+   - a) User Interface
+   - b) Business Logic
+   - c) Data Access Logic
+   - d) Database
 
 7. Which design pattern is commonly used to maintain modularity and scalability in the business logic component?
-   a) Model-View-Controller (MVC)
-   b) Singleton
-   c) Observer
-   d) Factory
+   - a) Model-View-Controller (MVC)
+   - b) Singleton
+   - c) Observer
+   - d) Factory
 
 8. Which component is responsible for retrieving and storing patient-related data from the database?
-   a) User Interface
-   b) Business Logic
-   c) Data Access Logic
-   d) Database
+   - a) User Interface
+   - b) Business Logic
+   - c) Data Access Logic
+   - d) Database
 
 9. Which programming language is commonly used to implement the data access logic of a Hospital Management System?
-   a) JavaScript
-   b) Python
-   c) Java
-   d) C#
+   - a) JavaScript
+   - b) Python
+   - c) Java
+   - d) C#
 
 10. Which component of the Hospital Management System stores patient information, appointments, medical records, billing details, and inventory records?
-    a) User Interface
-    b) Business Logic
-    c) Data Access Logic
-    d) Database
+    - a) User Interface
+    - b) Business Logic
+    - c) Data Access Logic
+    - d) Database
 
 11. Which tool or software is commonly used to handle database operations in the data access logic component?
-    a) Django ORM
-    b) Sequelize
-    c) Hibernate
-    d) Spring Boot
+    - a) Django ORM
+    - b) Sequelize
+    - c) Hibernate
+    - d) Spring Boot
 
 12. Which component of the Hospital Management System enforces business rules and validates inputs?
-    a) User Interface
-    b) Business Logic
-    c) Data Access Logic
-    d) Database
+    - a) User Interface
+    - b) Business Logic
+    - c) Data Access Logic
+    - d) Database
 
 13. Which component of the Hospital Management System ensures secure and efficient access to the database?
-    a) User Interface
-    b) Business Logic
-    c) Data Access Logic
-    d) Database
+    - a) User Interface
+    - b) Business Logic
+    - c) Data Access Logic
+    - d) Database
 
 14. Which component of the Hospital Management System provides an intuitive and user-friendly experience for hospital staff?
-    a) User Interface
-    b) Business Logic
-    c) Data Access Logic
-    d) Database
+    - a) User Interface
+    - b) Business Logic
+    - c) Data Access Logic
+    - d) Database
 
 15. Which component of the Hospital Management System updates inventory records based on usage and ensures accurate inventory management?
-    a) User Interface
-    b) Business Logic
-    c) Data Access Logic
-    d) Database
+    - a) User Interface
+    - b) Business Logic
+    - c) Data Access Logic
+    - d) Database
 
 ### Structured Questions:
 
