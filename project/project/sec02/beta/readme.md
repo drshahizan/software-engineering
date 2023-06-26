@@ -120,7 +120,7 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 
 ## 1. Introduction:
-The purpose of our food ordering system is to provide a convenient and user-friendly platform for customers to place their food orders, eliminating the need for long queues and reducing waiting times. Our objective is to streamline the process of ordering food, ensuring efficiency and customer satisfaction. By leveraging technology, we aim to bridge the gap between restaurants and customers, making it easier for individuals to enjoy their favorite meals without the hassle of traditional ordering methods.
+The purpose of our food ordering system is to provide a convenient and user-friendly platform for customers to place their food orders, eliminating the need for long queues and reducing waiting times. Our objective is to streamline the process of ordering food, ensuring efficiency and customer satisfaction. By leveraging technology, we aim to bridge the gap between restaurants and customers, making it easier for individuals to enjoy their favorite meals without the hassle of traditional ordering methods.The traditional methods of ordering food often involve enduring long queues, especially during peak hours, which can lead to frustration and wasted time for customers. Our project aims to address this challenge by developing a robust food ordering system that allows customers to bypass lengthy queues. By providing an online platform, we offer a convenient alternative that saves time and eliminates the need for physical queuing, ultimately enhancing the overall dining experience.
 
 ## 2. Methodology:
 - Describe the approach and methodologies utilized to tackle the project.
