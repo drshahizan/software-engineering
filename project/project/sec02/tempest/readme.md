@@ -1,4 +1,3 @@
-
 <a href="https://github.com/drshahizan/software-engineering/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/software-engineering" alt="Stars Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/network/members"><img src="https://img.shields.io/github/forks/drshahizan/software-engineering" alt="Forks Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
@@ -63,39 +62,60 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-## 1. Introduction:
-- Our proposed Badal Hajj and Umrah Management System is an innovative solution designed to facilitate and simplify the registration and handling of bulk data process for the management of the company. The system leverages cutting-edge technologies and best practices to deliver a seamless user experience that enables clients to easily register their information using the system and can get the all document needed in a short period of time. For the user experience on the management side, they can easily monitor and handle bulk data without losing or overlooking client information. Key features of this system include real-time processed documents, automatic data handling and management and real-time payment. Ultimately, our Badal Hajj and Umrah Management System will deliver measurable value to all stakeholders, including an increase in client satisfaction, improved workflow of the management and enhanced management of bulk data. By investing in this system, the company will have a smooth and better workflow thus increasing the efficiency of the company.
-  
-- Badal Hajj is the act of performing Hajj for other people that cannot do Hajj on their own under some circumstances. The time for doing the Badal Hajj is as same as Hajj which is once a year unlike doing Umrah. However, the current manual system which is 80% handled by humans can be cumbersome, time-consuming and error-prone. The process is characterized by long waiting, paper-based form, use of WhatsApp to send and get the information and human error likely to occur due to managing bulk data. This manual system often results in delays, errors and frustration for both company and the client, leading to a negative impact on the overall company's name.
-  
-- The proposed Badal Hajj and Umrah Management System have the potential to significantly improve the overall workflow experience for the company and client. By reducing the management burden of manual processes, the proposed system will save time, reduce errors and increase client satisfaction. Additionally, the system will provide valuable help to manage all the data that have been received by the client. Overall, the proposed system has the potential to smooth out and simplify the workflow thus can increase the company management efficiency.
+## Overall Project Summary
 
-## 2. Methodology:
-- Describe the approach and methodologies utilized to tackle the project.
-- Explain the software development life cycle model or any other relevant methodology adopted.
-- Highlight any specific tools, technologies, or frameworks employed during the project.
+![1](https://github.com/drshahizan/software-engineering/assets/128146716/e97b543b-ca95-44c6-9555-b4381462dca9)
+![2](https://github.com/drshahizan/software-engineering/assets/128146716/55a65960-34d8-4251-a79c-a52d82c65bfd)
+![3](https://github.com/drshahizan/software-engineering/assets/128146716/84b297a8-c868-43bf-ad58-6449605e7d79)
+![4](https://github.com/drshahizan/software-engineering/assets/128146716/11cc41fa-34ef-4039-946d-d0a2df2324f0)
+![5](https://github.com/drshahizan/software-engineering/assets/128146716/fe8be326-c321-4883-82ea-f16b436dcf1f)
+![6](https://github.com/drshahizan/software-engineering/assets/128146716/1eadb323-5624-4d1d-8018-09f877ca2c72)
+![7](https://github.com/drshahizan/software-engineering/assets/128146716/6af52242-3a99-40cb-9918-2373f1ebe807)
+![8](https://github.com/drshahizan/software-engineering/assets/128146716/e83291dc-3eb8-40cf-a4aa-f148cc528479)
+![9](https://github.com/drshahizan/software-engineering/assets/128146716/7311f42b-826b-4075-86db-028cf7cf0b6b)
+![10](https://github.com/drshahizan/software-engineering/assets/128146716/5dd31726-97a8-4b95-8ed5-f16c2e6e1758)
+![11](https://github.com/drshahizan/software-engineering/assets/128146716/8d29268c-1a1c-4301-86e1-fb7e0030feff)
+![12](https://github.com/drshahizan/software-engineering/assets/128146716/3aec3155-b6ac-4a4f-bfc5-4a630069f2a3)
+![13](https://github.com/drshahizan/software-engineering/assets/128146716/bec8914b-9baa-4a7d-9473-48bbc364bfe2)
+![14](https://github.com/drshahizan/software-engineering/assets/128146716/9f83fb4d-d053-4501-b1d8-bfce9599430d)
+![15](https://github.com/drshahizan/software-engineering/assets/128146716/4ce4a344-0aee-49ec-89bd-8156d44d5e52)
+![16](https://github.com/drshahizan/software-engineering/assets/128146716/3a37f5c7-9d43-4a6c-953e-03b8ecd905f1)
+![17](https://github.com/drshahizan/software-engineering/assets/128146716/b71d92d0-e596-47a8-a381-e95464e70da9)
+![18](https://github.com/drshahizan/software-engineering/assets/128146716/25d4cab7-881e-401b-b769-146eb556f4eb)
+![19](https://github.com/drshahizan/software-engineering/assets/128146716/a22a320f-2c8b-4b15-8d42-1d22949bd44a)
+![20](https://github.com/drshahizan/software-engineering/assets/128146716/5ab60251-2578-46f4-9ee6-59892f61d171)
+![21](https://github.com/drshahizan/software-engineering/assets/128146716/88934a07-e2b1-41dd-ab41-f2bdadde802c)
+![22](https://github.com/drshahizan/software-engineering/assets/128146716/4684abd0-a62b-405e-9d89-3a39b49c6752)
+![23](https://github.com/drshahizan/software-engineering/assets/128146716/c7d52a8c-45a6-41ae-8b7a-5ff96fd1669a)
+![24](https://github.com/drshahizan/software-engineering/assets/128146716/3c4345f9-243b-4e6f-98b9-004dc86e2c8d)
+![25](https://github.com/drshahizan/software-engineering/assets/128146716/12a44295-1ae1-4696-a537-ed82859edff8)
+![26](https://github.com/drshahizan/software-engineering/assets/128146716/fa1cefab-8057-44fc-809e-7ce1d73ddb34)
+![27](https://github.com/drshahizan/software-engineering/assets/128146716/317334e7-4ac0-4fe6-9838-abb01810d435)
+![28](https://github.com/drshahizan/software-engineering/assets/128146716/81431715-c507-407b-9ada-71ffe75ff2aa)
+![29](https://github.com/drshahizan/software-engineering/assets/128146716/d9937044-88ed-42bf-9460-0a8e5139b5d2)
+![30](https://github.com/drshahizan/software-engineering/assets/128146716/01d447df-2312-4979-a361-60aeb8201e2f)
+![31](https://github.com/drshahizan/software-engineering/assets/128146716/56e17d2f-3e94-4798-b484-f8eddad42e7a)
 
-## 3. Implementation:
-- Detail the specific tasks and activities undertaken by your group.
-- Provide an overview of the software components or modules developed.
-- Describe any challenges faced during the implementation phase and how you addressed them.
 
-## 4. Testing and Quality Assurance:
-- Explain the testing strategies and techniques employed.
-- Discuss the types of testing conducted (e.g., unit testing, integration testing, etc.).
-- Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
+## All Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Proposal| <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/Tempest" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| SRS Documentation| <a href="https://docs.google.com/document/d/10gvMoqZI62MOTXbXjc-9j_9U0HgUAkaB/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|3| SDD Documentation| <a href="https://docs.google.com/document/d/1K2Qi3slGgb55GVH3L77NezoQBvgSlP_35AhlF6R2jow/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|4| STD Dodumentation| <a href="https://docs.google.com/document/d/1z9bRBwo4C8FDRjve47uwQt6wyxI6S2xL/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|5| Draw.io| <a href="https://github.com/drshahizan/software-engineering/tree/main/project/documentation/srs/sec02/tempest/drawio" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|6| Borang Badal Haji| <a href="https://drive.google.com/drive/folders/1xm0X4yxzjBrGPt_EeF4PT4udWYxdx8PS?usp=share_link" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+|7| Borang Umrah| <a href="https://drive.google.com/drive/folders/1cNg7cQG-RONHfL7_yHy9h5DZDWGfi-1k?usp=share_link" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+|8| Low Fidelity| <a href="https://drive.google.com/drive/folders/1cNg7cQG-RONHfL7_yHy9h5DZDWGfi-1k?usp=share_link" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+|9| Project PDF| <a href="https://drive.google.com/drive/folders/1cNg7cQG-RONHfL7_yHy9h5DZDWGfi-1k?usp=share_link" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+|10| High Fidelity| <a href="https://www.figma.com/file/14yOLT8pXoP32SdUMzbycj/High-Fidelity?type=design&mode=design&t=paIO4RrD2YTAGP86-1" ><img src="../../../../../images/figma.svg" width="24px" height="24px" ></a>|
 
-## 5. Results and Achievements:
-- Present the outcomes and achievements of the project.
-- Share any quantitative or qualitative data that demonstrates the success of the software solution.
-- Discuss any feedback received from stakeholders or users during the evaluation process.
-
-## 6. Conclusion:
-- Summarize the overall project experience and lessons learned.
-- Reflect on the challenges faced and how they were overcome.
-- Highlight any future improvements or recommendations for further development.
-
-
+## Design Prototype
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| UI - Client| <a href="https://www.figma.com/proto/bxZ5VHV7AgqrPldNkQLjce/client-UI?type=design&scaling=scale-down&page-id=0%3A1&starting-point-node-id=6%3A8&node-id=6-8&mode=design" ><img src="../../../../../images/figma.svg" width="24px" height="24px" ></a>|
+|2| UI - Management| <a href="https://www.figma.com/proto/r9ZZSRqizWzXMz3Xdq5Oc9/management-dashboard?type=design&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A5&node-id=2-5&mode=design" ><img src="../../../../../images/figma.svg" width="24px" height="24px" ></a>|
 
 
 
