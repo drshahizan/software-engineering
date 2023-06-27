@@ -15,23 +15,6 @@ User registration- The system will require user to register and create an accoun
 Non-functionality requiremwnt:<br>
 System security- The system should ensure secure handling of user personal and payment information and protect clients data from unauthorized access.
 <br>Usability-The system should have an intuitive and user-friendly interface, allowing clients to navigate through tour information, make reservations, and cancel bookings easily.<br><br>
-3)### Scenario: Make a tour reservation
-| Column | Description |
-|-----------------------------|----------------------------------|
-| **Pre-conditions:**         |- register an account and log in to the account |
-|        |- The client has valid payment method |
-|        |-  |
-|                             |-  |
-| **Normal Event(s):**        |-  |
-|                             |-  |
-|                             |-  |
-|                             |-  |
-| **Abnormal Event(s):**      |-  |
-|                             |-  |
-|                             |-  |
-|                             |-  |
-| **Post-conditions:**        |-  |
-|                             |-  |
-
-   
-
+3)**Pre-conditions:**         - register an account and log in to the account <br>
+ -The client has valid payment method 
+  
