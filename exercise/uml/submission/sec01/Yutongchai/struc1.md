@@ -41,3 +41,8 @@
    | - The client receives the email receipt confirming their tour reservation.
      - The system updates the tour's availability and reservation status accordingly. |
      - 
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
