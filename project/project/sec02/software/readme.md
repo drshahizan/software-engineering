@@ -39,90 +39,22 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-## Stakeholder
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Stakeholder</th>
-    <th>Position</th>
-    <th>Responsibility</th>
-  </tr>
-  <tr>
-    <td>1. Dr. Mohd Firdaus Akmal bin Azman</td>
-    <td>PKU Staff</td>
-    <td>Medical Officer</td>
-    <td>Provides guidance and expertise on health-related matters to the software system team.</td>
-  </tr>
-    <tr>
-    <td>2. Puan Nazlin binti Ali</td>
-    <td>Administrator</td>
-    <td>Administrative Officer</td>
-    <td>Ensures that the software system compliance with the requirements set by PKU. </td>
-  </tr>
-    <tr>
-    <td>3. Lim Shi Kai</td>
-    <td>JKM KTDI</td>
-    <td>Ketua Biro Akademik & Tugas-tugas Khas & Pengarah Program</td>
-    <td>Provide perspective and feedback regarding the system to ensure it fufill the needs as a KTDI student</td>
-  </tr>
-    <tr>
-    <td>4. Dr Noor Hafizah Zaihanah bte Mohd Nur</td>
-    <td>PKU Staff</td>
-    <td>Mental Health Officer</td>
-    <td>Provide expertise and guidance on mental health content and resources for the website.</td>
-  </tr>
-    <tr>
-    <td>5. Dr Norannieza bte Muzlan</td>
-    <td>PKU Staff</td>
-    <td>Dentist</td>
-    <td>Provide dental expertise and guidance on oral health content and resources for the website.
-</td>
-  </tr>
-</table>
+## Link to Presentation
+https://www.canva.com/design/DAFmkBQJ1x0/2QoD64CS4Nz4u8QPskMj5g/edit?utm_content=DAFmkBQJ1x0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-## Tasks involved in developing SRS documentation:
-
-| No | Date | Member Name | Role	| Task	| Status	| 
-| -----:| ----- | ------ | ------ | ------ | ------ |
-| 1| 11/04/2023| Ong Yi Yan | Requirement Analysis | Gather user requirement | Complete |
-| 2| 11/04/2023| Koh Su Xuan and Lee Yik Hong | Quality Assurance Tester and User Experience Designer | Create proposal | Complete | 
-| 3| 01/05/2023| Goh Jiale | Main Developer | Assign Task | Complete | 
-| 4| 18/04/2023| Ong Yi Yan and Goh Jiale | Requirement Analysis and Main Developer | Contact stakeholder | Complete |
-| 5| 02/05/2023| Tang Yan Qing | Documentation Specialists | Create interview questions | Complete | 
-| 6| 02/05/2023| Goh Jiale | Main Developer | Implement software functionally | Incomplete | 
-| 7| 03/05/2023| All Group Members |  | 1st Interview with Puan Nazlin | Complete | 
-| 8| 03/05/2023 | All Group Members |  | 1st Interview with Dr Mohd. Firdaus | Complete |
-| 9| 03/05/2023 | Goh Jiale and Ong Yi Yan | Main Developer and Requirement Analysis | Create interview notes for review | Complete |
-| 10| 12/05/2023 | All Group Members | | SRS Planning | Complete |
-| 11| 14/05/2023 | Tang Yan Qing | Documentation Specialists | Create system documentation | Complete |
-| 12| 15/05/2023 | Lee Yik Hong, Koh Su Xuan and Ong Yi Yan | User Experience Designer, Quality assurance and Requirement Analysis | Design User Case | Complete |
-| 13| 18/05/2023 | All Group Members |  | 1st Interview with Lim Shi Kai | Complete |
-| 14| 20/05/2023 | All Group Members |  | 1st Interview with Mental Health Dr | Complete |
-| 15| 20/05/2023 | All Group Members |  | 1st Interview with Dentist | Complete |
-| 16| 22/05/2023 | Tang Yan Qing, Koh Su Xuan and Lee Yik Hong | Documentation Specialists, Quality assurance and User Experience Designer | Create interview notes for review | Complete |
-| 17| 23/05/2023 | All Group Members |  | Discussion and assign task for system features part based on user case design | Complete |
-| 18| 23/05/2023 | All Group Members |  | Start design low fidelity | Complete |
-| 18| 24/05/2023 | All Group Members |  | Redesign system and draw low fadality | Complete |
-| 19| 25/05/2023 | All Group Members |  | Start Daily Scrum | Complete |
-| 20| 25/05/2023 | All Group Members |  | Start design high fidelity | Complete |
-| 21| 06/06/2023 | All Group Members |  | Finalize SRS Documentation | Complete |
-| 22| 06/06/2023 | All Group Members |  | Done Architectural Flow, Users Flow and UI Design | Complete |
-| 18|  | Tang Yan Qing | Documentation Specialists | Create Software Design Document | Incomplete |
-| 19|  | All Group Members |  | 2nd meeting with Puan Nazlin | Incomplete |
-| 20|  | All Group Members |  | 2nd meeting with Lim Shi Kai | Incomplete |
-| 21|  | Goh Jiale and Lee Yik hong | Main Developer and User Experience Designer | Create interview notes for review | Incomplete |
-| 22|  | All Group Members |  | Discussion on software design based on interview feedback | Incomplete |
-| 23|  | Tang Yan Qing | Documentation Specialists | Create Software Testing Document | Incomplete |
-| 24|  | All Group Members |  | 2nd meeting with Dr Mohd. Firdaus | Incomplete |
-| 25|  | All Group Members |  | 3rd meeting with Lim Shi Kai | Incomplete |
-| 26|  | Ong Yi Yan and Lee Yik hong | Requirement Analysis and User Experience Designer | Create interview notes for review | Incomplete |
-| 27|  | All Group Members |  | Discussion on deployment details and conclude interview feedback to improve system | Incomplete |
-| 28|  | Tang Yan Qing | Documentation Specialists | Create Software Deployment Document | Incomplete |
-| 29|  | All Group Members |  | 3rd meeting with Puan Nazlin | Incomplete |
-| 30|  | All Group Members |  | 3rd meeting with Dr Mohd. Firdaus | Incomplete |
-| 31|  | Goh Jiale and Ong Yi Yan | Main Developer and Requirement Analysis | Create interview notes for review | Incomplete |
-| 32|  | All Group Members |  | Discussion on Maintanence Requirement in system based on interview feedback | Incomplete |
-| 33|  | Tang Yan Qing | Documentation Specialists | Create Software Maintanence Document | Incomplete |
+## Slide
+![se 1](https://github.com/drshahizan/software-engineering/assets/129137382/363b9a80-bf88-4e22-a663-892f665dbb25)
+![se 2](https://github.com/drshahizan/software-engineering/assets/129137382/a1ce618d-009d-4296-8696-b9005e6a5724)
+![se 3](https://github.com/drshahizan/software-engineering/assets/129137382/306219c9-2633-4368-8f4a-dba4b03683b3)
+![se 4](https://github.com/drshahizan/software-engineering/assets/129137382/d617e039-3a8e-4c0c-ab63-72380e040e6c)
+![se 5](https://github.com/drshahizan/software-engineering/assets/129137382/d81aa8bb-af1b-4774-8a1d-8fc4e84d3de7)
+![se 6](https://github.com/drshahizan/software-engineering/assets/129137382/4631490d-2854-4ee0-a997-696cdf66bc5d)
+![se 7](https://github.com/drshahizan/software-engineering/assets/129137382/64c0bfd1-de8e-42be-a091-32c76ad98192)
+![se 8](https://github.com/drshahizan/software-engineering/assets/129137382/fafa8dde-cd13-4699-9453-7601f162e02b)
+![se 9](https://github.com/drshahizan/software-engineering/assets/129137382/a23ce2aa-d8ea-420a-9be8-36f71a3b0837)
+![se 10](https://github.com/drshahizan/software-engineering/assets/129137382/8c24876d-718c-41d3-926e-6a11d31dfc0a)
+![se 11](https://github.com/drshahizan/software-engineering/assets/129137382/6d1068ae-bd7f-4025-b335-296bdd7b8b8c)
+![se 12](https://github.com/drshahizan/software-engineering/assets/129137382/c0ae1fdb-f84d-4eee-8b06-d62a31c955e6)
 
 
 ## Contribution 🛠️

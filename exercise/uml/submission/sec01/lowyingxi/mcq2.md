@@ -7,17 +7,21 @@
 **Section: 01**
 
 ## Answer
-1. B
-2. B
+1. A
+2. B x ans:C activity diagram
 3. C
 4. B
-5. B
-6. D
+5. A
+6. B
 7. C
 8. B
 9. D
-10. B
-
+10. B x ans:A library staff
+11. D
+12. B
+13. B
+14. B
+15. D
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

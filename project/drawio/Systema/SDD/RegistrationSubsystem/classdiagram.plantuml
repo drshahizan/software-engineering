@@ -1,0 +1,108 @@
+@startuml
+class "User" {
+  - username: String
+  - password: String
+  - email: String
+  + getUsername(): String
+  + setEmail(email: String): void
+  + register(): boolean
+  + login(): boolean
+}
+
+class "Student" {
+  + register(): boolean
+  + login(): boolean
+}
+
+class "Lecturer" {
+  + register(): boolean
+  + login(): boolean
+}
+
+class "SRCMember" {
+  + verificationCode: String
+  + register(verificationCode: String): boolean
+  + login(): boolean
+}
+
+class "Administrator" {
+  + verificationCode: String
+  + register(verificationCode: String): boolean
+  + login(): boolean
+}
+
+class "UserRepository" {
+  - users: List<User>
+  + createUser(user: User): boolean
+  + updateUser(user: User): boolean
+  + deleteUser(user: User): boolean
+  + findUserByUsername(username: String): User
+  + findUserByEmail(email: String): User
+}
+
+class "UserController" {
+  - userRepository: UserRepository
+  + registerUser(username: String, password: String, email: String, role: String, verificationCode: String): boolean
+  + updateUser(user: User): boolean
+  + deleteUser(user: User): boolean
+  + findUserByUsername(username: String): User
+  + findUserByEmail(email: String): User
+}
+
+class "AuthenticationService" {
+  + register(user: User): boolean
+  + verifyEmail(user: User): boolean
+  + login(username: String, password: String): boolean
+}
+
+class "AuthenticationController" {
+  - authService: AuthenticationService
+  - userRepository: UserRepository
+  + register(username: String, password: String, email: String, role: String, verificationCode: String): boolean
+  + verifyEmail(username: String): boolean
+  + login(username: String, password: String): boolean
+}
+
+class "View" {
+  + showRegistrationForm(): void
+  + showVerificationForm(): void
+  + showLoginForm(): void
+}
+
+class "RegistrationView" {
+  - controller: UserController
+  + showRegistrationForm(): void
+  + processRegistrationForm(): void
+}
+
+class "VerificationView" {
+  - controller: AuthenticationController
+  + showVerificationForm(): void
+  + processVerificationForm(): void
+}
+
+class "LoginView" {
+  - controller: AuthenticationController
+  + showLoginForm(): void
+  + processLoginForm(): void
+}
+
+"User" --> "UserController"
+"Student" --> "UserController"
+"Lecturer" --> "UserController"
+"SRCMember" --> "UserController"
+"Administrator" --> "UserController"
+"UserController" --> "UserRepository"
+
+"UserController" ..> "RegistrationView"
+"AuthenticationController" ..> "VerificationView"
+"AuthenticationController" ..> "LoginView"
+
+"UserController" --> "AuthenticationController"
+"AuthenticationController" --> "AuthenticationService"
+"AuthenticationService" --> "UserRepository"
+
+"RegistrationView" --> "View"
+"VerificationView" --> "View"
+"LoginView" --> "View"
+@enduml

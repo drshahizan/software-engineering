@@ -86,6 +86,8 @@ Don't forget to hit the :star: if you like this repo.
 | 10 | 08/05/2023 | All members | | Conduct a meeting with the third stakeholder, another third-year student |  Complete | 
 | 11 | 09/05/2023 | Wan Nur Sofea Binti Mohd Hasbullah | | Contact our fourth stakeholder, an administrative officer | Complete |
 | 12 | 15/05/2023 | All members | | Conduct a meeting with the fourth stakeholder, an administrative officer |  Complete | 
+| 13 | 16/05/2023 | All members || Discuss the use case to be included in the system | Complete |   
+| 14 | 20/05/2023 | All members | | Complete the Software Requirements Specification (SRS) documentation | Complete |
  
  
 ## Contribution 🛠️
