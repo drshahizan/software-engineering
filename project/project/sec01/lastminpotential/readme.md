@@ -80,8 +80,6 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| No | Date | Member Name | Role	| Task	| Status	| 
-| -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 20/04/2023| Tan Jun Yuan | Project Manager | Create project plan | Complete |
 | 2 | 24/04/2023 | Goh Jing Yang, Loo Jia Chang | UI/ UX Designer, Main Developer | Gather user requirements | Complete |
 | 3 | 28/04/2023 | Chen Pyng Haw | Documentation Specialist | Create proposal | Complete |
