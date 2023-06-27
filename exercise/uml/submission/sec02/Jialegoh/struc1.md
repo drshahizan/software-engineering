@@ -21,8 +21,15 @@ Other than that, it also can ensure continuous improvement and learning througho
 
 2. Functional Requirement :
    - User Registeration and Authentication. As a client based system, it should provide functionality for clients to register their user accounts with their name, contact number, address and so on. This also need to provide with the user authentication, that can ensure only registered users can access the reservation and tour information.
-   - Tour 
+  
+   - Tour Information and Booking. Users should be able to search and filter tours based on their preferences and make reservations for selected tours. The system should handle the booking process, including capturing user details, tour selections, and payment information.
+     
+   - Reservation Management. The clerk should be able to update reservation statuses, handle cancellations, and issue receipts to users via email. Additionally, the system should provide alerts or notifications to the clerk for any pending or upcoming reservations.
 
+Non-Functional Requirement :
+- Usability and User Experience. The system should have an intuitive and user-friendly interface to ensure ease of use for both clients and clerks. It should be visually appealing, with clear navigation and appropriate feedback messages. The system should also be responsive, providing a seamless experience across different devices and screen sizes.
+
+- Performance and Scalability. The system should be able to handle a significant number of concurrent users without performance degradation. It should be capable of processing tour reservations and generating receipts promptly. Additionally, the system should be designed to accommodate future growth and scalability, allowing for the addition of more tours, users, and system load.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
