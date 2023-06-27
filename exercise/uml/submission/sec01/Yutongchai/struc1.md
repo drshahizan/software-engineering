@@ -20,23 +20,24 @@
       The system should ensure the confidentiality and integrity of user data, including login credentials and personal information.
    b. *Performance*
       The system should be able to handle a significant number of concurrent users, providing a responsive and efficient user experience even during peak hours.
-3. | Scenario: Make a tour reservation|
-   | Pre-conditions:|
+3.
+   | Scenario: Make a tour reservation |
+   | Pre-conditions: |
    | - The client has registered as a user on the online tour reservation system.
-     - The client has logged in using their credentials.|
-   | Normal Event:|
+     - The client has logged in using their credentials. |
+   | Normal Event: |
    |  - The client searches for available tours based on their preferences, such as destination, dates, or activities.
      - The system displays a list of suitable tours along with relevant information like itinerary, pricing, and availability.
      - The client selects a specific tour from the list.
      - The system prompts the client to enter their ID and password for verification.
      - The client enters the required information.
      - The system validates the client's information and confirms the tour reservation.
-     - The system generates an email receipt containing payment details and tour reservation information, which is sent to the client.|
+     - The system generates an email receipt containing payment details and tour reservation information, which is sent to the client. |
    | Abnormal Event: |
    | - The client's login credentials are incorrect or invalid.
      - The selected tour is no longer available or fully booked.
-     - The client's payment is declined or encounters an error during the transaction.|
-   | Post-conditions:|
+     - The client's payment is declined or encounters an error during the transaction. |
+   | Post-conditions: |
    | - The client receives the email receipt confirming their tour reservation.
-     - The system updates the tour's availability and reservation status accordingly.|
+     - The system updates the tour's availability and reservation status accordingly. |
      - 
