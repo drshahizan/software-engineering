@@ -17,10 +17,10 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Answer
 
-Software Process Model Selection:
+# Software Process Model Selection:
 The most suitable software process model for developing the proposed online tour reservation system for Citra's travel agency is the Agile software development model. The Agile model emphasizes flexibility, collaboration, and incremental development, which align well with the dynamic nature of the project requirements and the need for continuous feedback and adjustments.
 
-Justification:
+# Justification:
 
 Flexibility: The Agile model allows for changes and iterations throughout the development process, which is essential in a project where requirements may evolve or need clarification. As the Citra Tours & Travel Agency may have evolving business needs and user preferences, the Agile model enables the development team to quickly respond to these changes and incorporate them into the system.
 
@@ -35,12 +35,12 @@ Tour Reservation: Clients should be able to browse available tours, select a des
 
 Reservation Cancellation: Clients should have the ability to cancel their previous tour reservations. The system should update the reservation status and provide appropriate notifications to the client.
 
-Non-Functional Requirements:
+# Non-Functional Requirements:
 Security: The system should ensure secure access and data protection, particularly for client information, login credentials, and payment details.
 
 Performance: The application should be responsive and perform well even during peak usage times. It should handle multiple concurrent users and provide quick response times for search, reservation, and cancellation operations.
 
-Scenario: Make a tour reservation
+# Scenario: Make a tour reservation
 Pre-conditions:
 
 The client is registered and logged into the system.
@@ -60,9 +60,8 @@ Post-conditions:
 
 The client receives a confirmation email with the tour reservation details and payment information.
 
-Use Case Diagram:
+# Use Case Diagram:
 ![image](https://github.com/drshahizan/software-engineering/assets/129279940/3770b983-9ccf-4f05-9e42-1570ab5b9ee1)
-
 
 
 Domain Model Classes:
@@ -71,11 +70,12 @@ Tour
 Reservation
 Payment
 Receipt
-Sequence Diagram for Cancel Reservation:
+
+$ Sequence Diagram for Cancel Reservation:
 ![image](https://github.com/drshahizan/software-engineering/assets/129279940/0277c5a0-2054-42b2-996d-20fb38ebe580)
 
 
-Activity Diagram for Reserve a Tour:
+$ Activity Diagram for Reserve a Tour:
 ![image](https://github.com/drshahizan/software-engineering/assets/129279940/8a5c074b-84b2-4324-ab07-7d0260126441)
 
 ## Contribution 🛠️
