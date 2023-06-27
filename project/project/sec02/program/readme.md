@@ -101,10 +101,6 @@ The Academic Consultation System presented in this project addresses these chall
 Furthermore, this project recognizes the importance of lecturers' time and commitments. By enabling lecturers to manage consultations separately from their teaching schedules, the system ensures that they can provide individualized attention to students without disrupting their regular classroom activities. This balance will enhance lecturers' ability to support students effectively and create a positive impact on student learning outcomes.
 
 ## 2. Methodology:
-- Describe the approach and methodologies utilized to tackle the project.
-- Explain the software development life cycle model or any other relevant methodology adopted.
-- Highlight any specific tools, technologies, or frameworks employed during the project.
-  
 The project adopted the Agile methodology for software development, which focuses on iterative and incremental development, flexibility, and collaboration. The Agile manifesto values individuals and interactions over processes and tools, working software over comprehensive documentation, customer collaboration over contract negotiation, and responding to change over following a plan.
 
 Here is a breakdown of the activities for each phase of the Agile methodology in the context of the project:
