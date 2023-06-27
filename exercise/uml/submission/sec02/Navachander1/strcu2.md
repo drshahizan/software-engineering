@@ -24,7 +24,8 @@ Don't forget to hit the :star: if you like this repo.
 
 3. ![image](https://github.com/drshahizan/software-engineering/assets/128206862/d2374c6b-3872-4fd5-ac94-c0d08a6e3475)
 
-4. ![image](https://github.com/drshahizan/software-engineering/assets/128206862/42e061a5-abf0-4f9e-84f2-adf0647974df)
+4. ![image](https://github.com/drshahizan/software-engineering/assets/128206862/fc6035f3-4a81-4bad-a59d-9562cd2d2933)
+
 
 
 
