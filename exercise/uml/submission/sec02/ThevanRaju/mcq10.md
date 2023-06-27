@@ -16,19 +16,20 @@ Don't forget to hit the :star: if you like this repo.
 **Section:02**
 
 ## Answer
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
+1. A
+2. B
+3. B
+4. C
+5. C
+6. B
+7. A
+8. D
+9. A
+10. B
+11. A
+12. C
+13. A
+14. 
     
 
 
