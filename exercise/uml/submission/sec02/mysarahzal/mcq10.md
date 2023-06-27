@@ -7,28 +7,40 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set: Structure 2
+## MCQ Set:10
 
-**Name: Marcus Joey Sayner**
+**Name:MAISARAH BINTI RIZAL**
 
-**Matrix No: A22EC0193**
+**Matrix No:A22EC0192**
 
-**Section:01**
+**Section:02**
 
 ## Answer
-
-### Use Case Diagram
-![image](https://github.com/drshahizan/software-engineering/assets/129279940/a4f6b68b-8989-4734-b402-db417def2944)
-
-### Activity Diagram: Add a New Vehicle
-![image](https://github.com/drshahizan/software-engineering/assets/129279940/3dab15cb-f91b-4dc0-81c5-483cf8aa8211)
-
-### Domain Model: VecInsured System
-![image](https://github.com/drshahizan/software-engineering/assets/129279940/0ee35baa-4ee0-4f3d-acf3-0b7d84e432e3)
-
-### State Chart Diagram: Insurance Policy
-![image](https://github.com/drshahizan/software-engineering/assets/129279940/0cdf5208-df01-44ed-9d11-8c7c778d5c25)
-
+1. A
+2. B
+3. B
+4. C
+5. C
+6. B
+7. A
+8. D
+9. A
+10. B
+11. A
+12. C
+13. A
+14. D
+15. D
+16. D
+17. B
+18. C
+19. C
+20. C
+21. A
+22. C
+23. B
+24. B
+25. D
 
 
 ## Contribution 🛠️

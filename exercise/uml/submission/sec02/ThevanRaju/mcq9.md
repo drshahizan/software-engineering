@@ -7,27 +7,30 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set: Structure 2
+## MCQ Set: 9
 
-**Name: Marcus Joey Sayner**
+**Name:THEVAN RAJU A/L JEGANATH**
 
-**Matrix No: A22EC0193**
+**Matrix No: A22EC0286**
 
-**Section:01**
+**Section:02**
 
 ## Answer
-
-### Use Case Diagram
-![image](https://github.com/drshahizan/software-engineering/assets/129279940/a4f6b68b-8989-4734-b402-db417def2944)
-
-### Activity Diagram: Add a New Vehicle
-![image](https://github.com/drshahizan/software-engineering/assets/129279940/3dab15cb-f91b-4dc0-81c5-483cf8aa8211)
-
-### Domain Model: VecInsured System
-![image](https://github.com/drshahizan/software-engineering/assets/129279940/0ee35baa-4ee0-4f3d-acf3-0b7d84e432e3)
-
-### State Chart Diagram: Insurance Policy
-![image](https://github.com/drshahizan/software-engineering/assets/129279940/0cdf5208-df01-44ed-9d11-8c7c778d5c25)
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
 
 
 
@@ -38,5 +41,8 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
+
+
+
 
 

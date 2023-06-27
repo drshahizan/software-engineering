@@ -7,22 +7,28 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set: Case Study: Citra Tours & Travel Agency
+## MCQ 9:
 
-**Name: NEO ZHENG WENG**
+**Name:** Navachander Navasantar
 
-**Matrix No: A22EC0093**
+**Matrix No:** A22EC0226
 
-**Section: 01**
+**Section:** 02
 
 ## Answer
-1. Waterfall model is the most suitable software process model.
 
-## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
-
-You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
-
+1. A
+2. B
+3. C
+4. B
+5. C
+6. C
+7. A
+8. D
+9. B
+10. A
+11. A
+12. B
+13. C
+14. B
+15. A

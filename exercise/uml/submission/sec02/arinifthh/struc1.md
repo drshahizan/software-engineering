@@ -30,19 +30,37 @@
    user experience. It should be capable of handling peak loads during high-demand periods without significant slowdowns or downtime, 
    ensuring smooth reservation processes for clients.
 
-3. | Column | Description |
-|-----------------------------|----------------------------------|
-| **Pre-conditions:**         |-  |
-|                             |-  |
-|                             |-  |
-|                             |-  |
-| **Normal Event(s):**        |-  |
-|                             |-  |
-|                             |-  |
-|                             |-  |
-| **Abnormal Event(s):**      |-  |
-|                             |-  |
-|                             |-  |
-|                             |-  |
-| **Post-conditions:**        |-  |
-|                             |-  |
+3. <table>
+    <tr>
+    <td>Pre-condition:
+      1.The client has access to the Citra Tours & Travel website.
+      2. The client has reviewed the available tour options and selected a desired tour package.
+      3. The client has the necessary personal information and payment method available.
+  </tr>
+    <tr>
+    <td>Normal Events
+      1. The client fills in the reservation form with accurate personal details and selects preferred travel dates.
+      2. The system validates the availability of the chosen tour package and dates.
+      3. The system calculates the total cost of the tour package based on selected options.
+      4. The client reviews the reservation summary and proceeds to payment.
+      5. The client successfully completes the payment process.
+      6. The system generates a booking confirmation and receipt.
+      7. The confirmation email is sent to the client's registered email address.
+</td>
+  </tr>
+  <tr>
+    <td>Abnormal Events
+      1. The selected tour package or travel dates are not available, and the client is notified of the unavailability.
+      2. The payment transaction fails or encounters an error during processing.
+      3. The system experiences technical issues that prevent the generation and sending of the confirmation email.
+</td>
+  </tr>
+    <tr>
+    <td>Postconditions:
+      1. The client has successfully made a tour reservation with Citra Tours & Travel.
+      2. The client has received a booking confirmation and receipt via email.
+      3. The client's payment has been processed and confirmed.
+      4. The client has the necessary information to contact Citra Tours & Travel for any inquiries or requests related to the reservation.
+  </tr>
+</table>
+
