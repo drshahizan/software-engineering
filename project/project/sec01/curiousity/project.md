@@ -251,7 +251,9 @@ Solutions:
 
 ### 4. Design Phase
 
-- low fidenity
+#### Low fidenity
+
+<img src="generallowfidenity.jpg" alt="color" height="100px"></img>
 
 ### 5. Design System
 
