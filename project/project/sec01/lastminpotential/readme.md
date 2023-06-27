@@ -70,7 +70,7 @@ Don't forget to hit the :star: if you like this repo.
    <tr>
     <td>Ts. Mohd Hazri bin Ishak</td>
     <td>Faculty staff</td>
-    <td>IT Supporting Staff</td>
+    <td>Facility Manager</td>
     <td>Provide expectation and suggestion for the system, and problem faced by public currently</td>
   </tr>
   
