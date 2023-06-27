@@ -28,6 +28,13 @@ Don't forget to hit the :star: if you like this repo.
   ii. Performance - The system should be able to handle large number of concurrent users, ensuring fast response times and minimal downtime. It should be able to scale to accommodate increasing user demand without compromising performance.
 
 3.  
+| Column | Description |
+|--------|-------------|
+| Pre-conditions: | The client has acces to a devide with internet connection. |
+|| The client has registered an account |
+| Normal Event(s): | The clinet logs into their account on the website. |
+| Abnormal Event(s): |  |
+| Post-conditions: |  |
 
 
 
