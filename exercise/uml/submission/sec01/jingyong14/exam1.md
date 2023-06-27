@@ -40,7 +40,29 @@ Don't forget to hit the :star: if you like this repo.
 || Client proceeds with payment and system process the transaction. |
 || Reservation details are sent to client through their email. |
 | Abnormal Event(s): | The selected tour is not available due to max capacity or cancellation. An error message is displayed and suggests alternative tour options. |
-| Post-conditions: |  |
+|| Payment fails due to incorrect payment details. System prompts client to try re-entering the information again |
+|| System is disconnected due to connection issues. Client is notified to try again later. |
+| Post-conditions: | Client successfully reserved a tour and received confirmation email. |
+|| Client's account is updated with the reservation detail |
+
+4. Actors : Client, Clerk, Manager
+
+![WhatsApp Image 2023-06-27 at 11 45 39 AM](https://github.com/drshahizan/software-engineering/assets/129235577/8c615438-ed98-4b38-8557-66e59881072f)
+
+5. Classes
+- Client
+- Tour
+- Reservation
+- Clerk
+- Manager
+
+6. Sequence Diagram
+
+![WhatsApp Image 2023-06-27 at 11 54 43 AM](https://github.com/drshahizan/software-engineering/assets/129235577/ba28464d-8a7c-40b6-b7b5-8aa50a320039)
+
+7. Activity Diagram
+
+![WhatsApp Image 2023-06-27 at 12 04 32 PM](https://github.com/drshahizan/software-engineering/assets/129235577/11151cfe-3392-4f98-b2b4-4f3a7571c904)
 
 
 
