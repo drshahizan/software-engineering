@@ -24,7 +24,7 @@ Don't forget to hit the :star: if you like this repo.
 | **Pre-conditions:**         |-The client has registered for an account on the online tour reservation system.|
 |        |-The client has logged into their account.|
 |        |-The client has sufficient funds or payment methods available for making the reservation.|
-         |-The system has available tours and their details stored in the database.|
+|        |-The system has available tours and their details stored in the database.|
 | **Normal Event(s):**        |-The client selects "Make a Reservation" from the main menu.|
 |                             |-The system displays a list of available tours with their details.  |
 |                             |-The client selects a desired tour from the list.  |
@@ -78,6 +78,7 @@ Don't forget to hit the :star: if you like this repo.
      | Manager |
      +---------+
 5. Five suitable  classes for the domain model are Client, Tour, Reservation, Clerk, and Receipt.
+
 6. 
 Client       System
    |             |
