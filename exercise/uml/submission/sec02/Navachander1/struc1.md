@@ -9,11 +9,11 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Set:
 
-**Name:**Navachander
+**Name:** Navachander
 
-**Matrix No:**A22EC0226
+**Matrix No:** A22EC0226
 
-**Section:**02
+**Section:** 02
 
 ## Answer
 
@@ -39,12 +39,14 @@ Security. The system should ensure secure storage and transmission of sensitive 
 |                             | The system validates the reservation details, confirm the booking, and sends a confirmation email to the client |
 | **Abnormal Event(s):**      | Selected tour is fully booked or unavailable  |
 |                             | The client provides invalid or incomplete information during the reservation process  |
-
 | **Post-conditions:**        | Client has successfully made a tour reservation |
 |                             | The system has updated the availability status of the selected tour  |
 
 4. Actors are client, assistant, and manager. User cases are user registration, tour search and reservation, reservation cancellation, tour information update, and enquiries.
-   [struc1.md](https://github.com/drshahizan/software-engineering/files/11877402/struc1.md)
+  
+![image](https://github.com/drshahizan/software-engineering/assets/128206862/01b7d0c5-a97e-4a9c-bf1b-55c3ff9f4747)
+
+5. Client, Tour, Reservation, Assistant, and Manager.
 
 
 
