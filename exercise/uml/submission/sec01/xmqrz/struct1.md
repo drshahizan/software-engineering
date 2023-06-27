@@ -67,17 +67,17 @@ The client receives a confirmation email with the tour reservation details and p
 
 Actors:
 
-Client (Registered User)
-Clerk
-Manager
+1. Client (Registered User)
+2. Clerk
+3. Manager
 
 Use Cases:
 
-Register User
-Browse Tours
-Make Tour Reservation
-Cancel Tour Reservation
-Manage Tour Information
+1. Register User
+2. Browse Tours
+3. Make Tour Reservation
+4. Cancel Tour Reservation
+5. Manage Tour Information
 
 Use Case Diagram :
 
@@ -85,11 +85,11 @@ Use Case Diagram :
 
 Classes for Domain Model:
 
-User
-Tour
-Reservation
-Payment
-Receipt
+1. User
+2. Tour
+3. Reservation
+4. Payment
+5. Receipt
 
 Sequence Diagram for Cancel Reservation :
 
