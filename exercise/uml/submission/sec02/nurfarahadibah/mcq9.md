@@ -9,28 +9,29 @@ Don't forget to hit the :star: if you like this repo.
 
 ## MCQ Set:
 
-**Name: Lee Soon Der**
+**Name:**
 
-**Matrix No: A22EC0065**
+**Matrix No:**
 
-**Section:01**
+**Section:**
 
 ## Answer
-1.a
-2.b
-3.c
-4.d
-5.d
-6.c
-7.a
-8.a
-9.b
-10.c
-11.a
-12.b
-13.c
-14.b
-15.a
+1. A
+2. B
+3. C
+4. D
+5. D
+6. C 
+7. A
+8. A
+9. C
+10. D
+11. A
+12. B
+13. C
+14. D
+15. D
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

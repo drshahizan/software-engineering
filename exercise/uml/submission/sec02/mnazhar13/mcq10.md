@@ -1,10 +1,10 @@
-## MCQ Set:
+## MCQ Set: 10
 
-**Name:** Nur Arini Fatihah Binti Mohd Sabir
+**Name: MUHAMMAD NUR AZHAR BIN MOHD YAZID**
 
-**Matrix No:** A22EC0244
+**Matrix No: A22EC0220**
 
-**Section:** 02
+**Section: 2**
 
 ## Answer
 1. A
@@ -23,7 +23,7 @@
 14. C
 15. D
 16. D
-17. B
+17. A
 18. C
 19. C
 20. C
@@ -32,4 +32,5 @@
 23. B
 24. B
 25. D
+
 

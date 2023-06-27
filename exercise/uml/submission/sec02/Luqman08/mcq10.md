@@ -9,28 +9,38 @@ Don't forget to hit the :star: if you like this repo.
 
 ## MCQ Set:
 
-**Name: Lee Soon Der**
+**Name:**Muhammad Luqman Hakim Bin Mohd Rizaudin
 
-**Matrix No: A22EC0065**
+**Matrix No:**A22EC0086
 
-**Section:01**
+**Section:**02
 
 ## Answer
-1.a
-2.b
-3.c
-4.d
-5.d
-6.c
-7.a
-8.a
-9.b
-10.c
-11.a
-12.b
-13.c
-14.b
-15.a
+1. a
+2. d
+3. b
+4. c
+5. c
+6. c
+7. d
+8. d
+9. a
+10. b
+11. a
+12. d
+13. a
+14. c
+15. d
+16. d
+17. b
+18. c
+19. a
+20. c
+21. d
+22. c
+23. b
+24. b
+25. d
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
@@ -39,4 +49,5 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
+
 

@@ -9,28 +9,33 @@ Don't forget to hit the :star: if you like this repo.
 
 ## MCQ Set:
 
-**Name: Lee Soon Der**
+**Name: Anas**
 
-**Matrix No: A22EC0065**
+**Matrix No: A21SC0464**
 
-**Section:01**
+**Section: 02**
 
 ## Answer
-1.a
-2.b
-3.c
-4.d
-5.d
-6.c
-7.a
-8.a
-9.b
-10.c
-11.a
-12.b
-13.c
-14.b
-15.a
+1. A
+2. B
+3. C
+4. D
+5. D
+6. C
+7. A
+8. A
+9. B
+10. D
+11. A
+12. B
+13. C
+14. D
+15. D
+16. A
+17. B
+18. C
+19. D
+20. D
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
@@ -39,4 +44,5 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
+
 

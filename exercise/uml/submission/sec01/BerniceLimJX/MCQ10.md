@@ -7,30 +7,41 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set:
+## MCQ Set:10
 
-**Name: Lee Soon Der**
+**Name:Bernice Lim Jing Xuan**
 
-**Matrix No: A22EC0065**
+**Matrix No:A22EC0038**
 
 **Section:01**
 
 ## Answer
-1.a
-2.b
-3.c
-4.d
-5.d
-6.c
-7.a
-8.a
-9.b
-10.c
-11.a
-12.b
-13.c
-14.b
-15.a
+1.A
+2.B
+3.B
+4.C
+5.C
+6.B
+7.A
+8.D
+9.A
+10.B
+11.A
+12.C
+13.A
+14.C
+15.D
+16.D
+17.B
+18.C
+19.C
+20.C
+21.D
+22.C
+23.B
+24.B
+25.D
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
