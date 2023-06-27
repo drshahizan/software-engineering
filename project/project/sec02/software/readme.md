@@ -39,6 +39,9 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
+## Link to Presentation
+https://www.canva.com/design/DAFmkBQJ1x0/2QoD64CS4Nz4u8QPskMj5g/edit?utm_content=DAFmkBQJ1x0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Stakeholder
 <table>
   <tr>
