@@ -320,9 +320,7 @@ By implementing these quality assurance processes, we strive to deliver a reliab
   <img src="https://www.drsandeeppatil.com/static/media/6.6620ed2b.gif" width="300" height="200"/>
 </div>
 
-- Present the outcomes and achievements of the project.
-- Share any quantitative or qualitative data that demonstrates the success of the software solution.
-- Discuss any feedback received from stakeholders or users during the evaluation process.
+Outcomes: [KTDI Student Accommodation System](https://www.figma.com/proto/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=1058-6947&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1058%3A6947&mode=design)
 
 ## Conclusion:
 <div id="header" align="center">
