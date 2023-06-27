@@ -36,10 +36,10 @@ Don't forget to hit the :star: if you like this repo.
 |        |-The client has a registered account on Citra Tours & Travel Agency's online reservation system.  |
 |        |-The client has logged into their account using their unique login ID and password.  |
 |                             |-The client has reviewed the available tour options and has selected a specific tour they wish to reserve.  |
-| **Normal Event(s):**        |-  |
+| **Normal Event(s):**        |-The client enters the required details for the reservation, such as the number of participants, preferred dates, and any special requests.  |
+|                             |- The client confirms the reservation and proceeds to the payment section.|
 |                             |-  |
-|                             |-  |
-|                             |-  |
+|                             |- The system generates a reservation confirmation and provides the client with a booking reference number. |
 | **Abnormal Event(s):**      |-  |
 |                             |-  |
 |                             |-  |
