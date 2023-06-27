@@ -103,8 +103,7 @@ Don't forget to hit the :star: if you like this repo.
 | 21 | 19/06/2023 | Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Finalise UI Deisgn | On-going | 
 
 ## Introduction
-Purpose and objective:
-The purpose of a faculty feedback system is to gather input and evaluations from students and staff members about their experiences with faculty from different perspective such as curriculum delivery, facilities and equipment.The system serves as a structured mechanism for students and faculty staff members to provide constructive feedback and share their perspectives on various aspects of the learning environment. The main objective of this system is quality improvement to enhance the quality of the learning and teaching environment by identifying areas that require improvement.
+<b>Purpose and objective</b>:The purpose of a faculty feedback system is to gather input and evaluations from students and staff members about their experiences with faculty from different perspective such as curriculum delivery, facilities and equipment.The system serves as a structured mechanism for students and faculty staff members to provide constructive feedback and share their perspectives on various aspects of the learning environment. The main objective of this system is quality improvement to enhance the quality of the learning and teaching environment by identifying areas that require improvement.
 
 
 
