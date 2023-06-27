@@ -102,6 +102,13 @@ Don't forget to hit the :star: if you like this repo.
 | 20 | 15/06/2023 | Chen Pyng Haw | Documentation Specialist | Create STD Documentation draft | Complete | 
 | 21 | 19/06/2023 | Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Finalise UI Deisgn | On-going | 
 
+<style>
+mark { 
+  background-color: yellow;
+  color: black;
+}
+</style>
+
 ## Introduction
 <b>Purpose and objective:</b>
 <p>The purpose of a faculty feedback system is <mark>to gather input and evaluations from students and staff members about their experiences with faculty from different perspective</mark> such as curriculum delivery, facilities and equipment.The system serves as a structured mechanism for students and faculty staff members to provide constructive feedback and share their perspectives on various aspects of the learning environment. The main objective of this system is <mark>quality improvement to enhance the quality of the learning and teaching environment</mark> by identifying areas that require improvement.</p>
