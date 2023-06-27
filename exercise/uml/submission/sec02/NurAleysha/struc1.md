@@ -84,7 +84,12 @@ Don't forget to hit the :star: if you like this repo.
                 |     Manager      |
                 +------------------+
 
-5.
+5. Suitable classes for the domain model based on the description:<br>
+      a) Client<br>
+      b) Clerk<br>
+      c) Manager<br>
+      d) Tour<br>
+      e) Reservation<br>
 
 
 
