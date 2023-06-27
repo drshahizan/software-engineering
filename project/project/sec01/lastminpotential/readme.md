@@ -112,10 +112,13 @@ Don't forget to hit the :star: if you like this repo.
 The next issue is quality enhancement. The Faculty of Computing strives to provide a high-quality learning environment, but without a feedback system, it becomes challenging to assess the effectiveness of faculty and identify areas that require improvement. A comprehensive feedback system helps identify strengths and weaknesses, enabling targeted interventions and support for faculty development to enhance the quality of learning and teaching environment.
 </p>
 
-<b>significance and potential impact of the project:</b>
+<b>Significance and potential impact of the project:</b>
 <p>Faculty Growth and Success - By addressing the identified needs and improving teaching and learning environment quality, the project can contribute to the overall growth and success of the faculty. A well-implemented faculty feedback system can positively impact key faculty metrics, such as student retention, graduation rates, alumni satisfaction, and post-graduation outcomes. This, in turn, can enhance the faculty's reputation.
 
-Improved Teaching Quality - By collecting feedback from students, the project enables faculty to identify areas where faculty members excel and areas that need improvement. This information can be used to provide targeted support and professional development opportunities to enhance teaching effectiveness, ultimately leading to improved educational outcomes.
+Improved Teaching Quality - By collecting feedback from students toward their lecturer performance, the faculty of computing feedback system enables faculty to identify areas where lecturer excel and areas that need improvement. This information can be used to provide targeted support and professional development opportunities to enhance teaching effectiveness, ultimately leading to improved educational outcomes.
+
+Improved quality of learning and teaching environment - The faculty of computing feedback system helps to improve the quality of the learning and teaching environment by identifying strengths and weaknesses, providing tailored support and professional development, facilitating communication and collaboration, fostering continuous improvement and innovation. The project collectively contributes to an enhanced educational experience for students and creates a positive and effective teaching environment.
+
 </p>
 
 
