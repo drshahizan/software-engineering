@@ -284,7 +284,7 @@ Solutions:
 <img src="img/generallowfidenity.jpg" alt="" height="500px"></img>
 
 #### Student Low Fidelity:
-<img src="img/studentuilowfidenity.jpg" alt="" height="500px"></img>
+<img src="img/studentuilowfidelity.jpg" alt="" height="500px"></img>
 
 #### JKM Low Fidelity:
 <img src="img/JKMUIlowfidenity.jpg" alt="" height="500px"></img>
