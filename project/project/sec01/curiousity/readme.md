@@ -38,10 +38,10 @@ Don't forget to hit the :star: if you like this repo.
 ## Documentation
 | No | Name |  File |
 | :-----: |  ------ | :-----: | 
-| 1 | Proposal |  <a href="" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
-| 2 | System Requirements Specification (SRS)| <a href="" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
-| 3 | System Design Descriptions (SDD) | <a href="" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
-| 4 | System Test Descriptions (STD)| <a href="" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
+| 1 | Proposal |  <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec01/Curiousity" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
+| 2 | System Requirements Specification (SRS)| <a href="https://docs.google.com/document/d/18NUuhr4QC2U0nWMCm7V6GgPZznmsA4sk/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
+| 3 | System Design Descriptions (SDD) | <a href="https://docs.google.com/document/d/1WGhhNeAzyUHr1NQiJZkYlMmllKr_gQ-6TjUTykMYNow/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
+| 4 | System Test Descriptions (STD)| <a href="https://docs.google.com/document/d/1a376KQdLW--Bxmo5r83nIQQj5E8YYfpwpwyhyPMroL8/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
 | 5 | Figma |  <a href="" ><img src="./images/figma.svg" width="24px" height="24px" ></a> |  
 
 # KTDI Event Management System
