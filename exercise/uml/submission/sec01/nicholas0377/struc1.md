@@ -45,31 +45,53 @@ Don't forget to hit the :star: if you like this repo.
         
 5. Five suitable  classes for the domain model are Client, Tour, Reservation, Clerk, and Receipt.
 
-        +---------+         +---------+
-        |  Client |         | Manager |
-        +---------+         +---------+
-            |     ^              |
-            |     |              |
-            v     |              |
-      +-------+   |              |
-      |Reservation|              |
-      +-------+   |              |
-            |     |              |
-            v     |              |
-        +-------+  |              |
-        |  Clerk  |  |              |
-        +-------+  |              |
-            |     |              |
-            v     |              |
-+------------------+              |
-| Manage Reservation|              |
-+------------------+              |
-            |     |              |
-            v     |              |
-        +---------+              |
-        |Update Tour|              |
-        |Information|              |
-        +---------+              |
+           +---------+
+           |  Client |
+           +---------+
+               |     ^
+               |     |
+               v     |
+         +-------+   |
+         |Reservation|
+         +-------+
+               |
+               v
+           +-------+
+           |  Clerk |
+           +-------+
+             |   |   |
+             |   v   |
++------------------+|
+| Manage Reservation||
++------------------+
+             |   |
+             v   |
+        +---------+
+        |Manager  |
+        +---------+
+6.
+Client                      System
+   |                            |
+   |    1. Enter ID & Password  |
+   |--------------------------->|
+   |                            |
+   |       2. Validate Info     |
+   |<---------------------------|
+   |                            |
+   |        3. Display Reservations  |
+   |<---------------------------|
+   |                            |
+   |   4. Choose Reservation    |
+   |--------------------------->|
+   |                            |
+   |   5. Update Information   |
+   |--------------------------->|
+   |                            |
+   |                            |
+   |   6. Display Updated Info  |
+   |<---------------------------|
+   |                            |
+
 
 
        
