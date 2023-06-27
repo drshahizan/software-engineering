@@ -19,12 +19,13 @@ Don't forget to hit the :star: if you like this repo.
 1. Agile Model. This is because by using agile method, this can ensure close collaboration between the development team and the clients. For example, the clients can actively participate in the progress such as providing feedback, clarifying requirements, and suggesting improvements.
 Other than that, it also can ensure continuous improvement and learning throughout the development process.
 
-2. Functional Requirement :
-   - User Registeration and Authentication. As a client based system, it should provide functionality for clients to register their user accounts with their name, contact number, address and so on. This also need to provide with the user authentication, that can ensure only registered users can access the reservation and tour information.
-  
-   - Tour Information and Booking. Users should be able to search and filter tours based on their preferences and make reservations for selected tours. The system should handle the booking process, including capturing user details, tour selections, and payment information.
+2. Answer:
+Functional Requirement :
+- User Registeration and Authentication. As a client based system, it should provide functionality for clients to register their user accounts with their name, contact number, address and so on. This also need to provide with the user authentication, that can ensure only registered users can access the reservation and tour information.
+
+- Tour Information and Booking. Users should be able to search and filter tours based on their preferences and make reservations for selected tours. The system should handle the booking process, including capturing user details, tour selections, and payment information.
      
-   - Reservation Management. The clerk should be able to update reservation statuses, handle cancellations, and issue receipts to users via email. Additionally, the system should provide alerts or notifications to the clerk for any pending or upcoming reservations.
+- Reservation Management. The clerk should be able to update reservation statuses, handle cancellations, and issue receipts to users via email. Additionally, the system should provide alerts or notifications to the clerk for any pending or upcoming reservations.
 
 Non-Functional Requirement :
 - Usability and User Experience. The system should have an intuitive and user-friendly interface to ensure ease of use for both clients and clerks. It should be visually appealing, with clear navigation and appropriate feedback messages. The system should also be responsive, providing a seamless experience across different devices and screen sizes.
