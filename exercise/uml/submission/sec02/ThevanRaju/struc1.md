@@ -29,7 +29,23 @@ Don't forget to hit the :star: if you like this repo.
 | 1. Security: The system should ensure secure access and protect sensitive client information. It should implement proper authentication and authorization mechanisms to prevent unauthorized access to client data.     |
 | 2. Performance: The system should be able to handle multiple concurrent users and provide a responsive and seamless user experience, especially during peak reservation periods. It should have fast response times and be scalable to accommodate increasing demand.|
 
-3. 
+3. ### Scenario: Make a tour reservation
+| Column | Description |
+|-----------------------------|----------------------------------|
+| **Pre-conditions:**         |-  |
+|        |-  |
+|        |-  |
+|                             |-  |
+| **Normal Event(s):**        |-  |
+|                             |-  |
+|                             |-  |
+|                             |-  |
+| **Abnormal Event(s):**      |-  |
+|                             |-  |
+|                             |-  |
+|                             |-  |
+| **Post-conditions:**        |-  |
+|                             |-  |
 4. 
 
 
