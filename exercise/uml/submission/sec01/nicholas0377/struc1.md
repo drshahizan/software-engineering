@@ -45,7 +45,43 @@ Don't forget to hit the :star: if you like this repo.
         
 5. Five suitable  classes for the domain model are Client, Tour, Reservation, Clerk, and Receipt.
 
-6. 
+        +---------+
+        |  Client |
+        +---------+
+           |     ^
+           |     |
+           v     |
+     +-------+   |
+     |  Make |---+
+     |Reservation|
+     +-------+
+
+         |
+         v
+
+     +-------+
+     |  Clerk |
+     +-------+
+     |   |   |
+     |   v   |
+     |+-----+|
+     ||Manage||
+     ||Reservation|
+     |+-----+|
+     |   |   |
+     |   v   |
+     |+---------+        +----------------+
+     ||Update |        |Generate   |
+     ||Tour   |<------>|Receipt     |
+     ||Information|        +----------------+
+     |+---------+
+         |
+         v
+     +---------+
+     | Manager |
+     +---------+
+
+
 
 
 ## Contribution 🛠️
