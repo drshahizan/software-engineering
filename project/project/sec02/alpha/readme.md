@@ -192,6 +192,9 @@ Don't forget to hit the :star: if you like this repo.
 - Student
 <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/User%20Flow2.png" alt=""/></a>
 
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Prototype Main Menu | <a href="https://www.figma.com/file/5xL6W7I4NvNIKzQeaiJYiC/Design?type=design&node-id=0-1&mode=design&t=VI4X0svpI7E9EGEJ-0" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
 
 ## 5. Requirement Collection
 ### Meeting with stakeholders
