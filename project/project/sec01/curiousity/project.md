@@ -241,6 +241,7 @@ Solutions:
 <img src="img/staffuilowfidenity.jpg.jpg" alt="color" height="700px"></img>
 
 <img src="img/studentuilowfidelity.jpg.jpg" alt="color" height="700px"></img>
+
 ### 5. Design system
 #### Colour Codes
 <img src="color.jpg" alt="color" height="100px"></img>
