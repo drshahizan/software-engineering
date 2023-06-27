@@ -34,4 +34,4 @@
 |                             |- The system updates the availability of seats/packages for the booked tour. |
 
 4.
-   <img alt="struc_uc" src="https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec01/kohlihui/struc1_uc.png?raw=true">
+<img alt="struc_uc" src="https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec01/kohlihui/struc1_uc.png?raw=true">
