@@ -19,11 +19,11 @@ Don't forget to hit the :star: if you like this repo.
 1.  
 ![struct2ucdiagram](struc2uc.png)  
 2.  
-![struct2act](struc2act.png) 
+![struct2act](struc2act.png)   
 3.  
-![struct2adomainmodel](struc2domainmodel.png) 
+![struct2adomainmodel](struc2domainmodel.png)   
 4.  
-![struct2state](struc2state.png)
+![struct2state](struc2state.png)  
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
