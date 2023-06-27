@@ -109,7 +109,7 @@ Don't forget to hit the :star: if you like this repo.
 | 18 | 1/06/2023 | Wong Khai Shian Nicholas, Neo Zheng Weng, Joseph Lau Yeo Kai, Low Jie Sheng, Muhammad Danial | Group members | High fedelity UI | Complete |
 | 19 | 6/06/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | UI prototype | Complete |
 | 20 | 13/06/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | SDD documentation | In progress |
-| 21 | 20/06/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | STD documentation | To do |
+| 21 | 20/06/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | STD documentation | In progress |
 
 
 ## Contribution 🛠️
