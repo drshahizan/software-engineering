@@ -146,12 +146,12 @@ Documentation - Produce srs, sdd and std.
 </p>
 
 <b>Specific tools, technologies, or frameworks employed during the project:</b>
--Figma
--Drawio
--UML code
--Visual studio code
--Github
--Behance
+<p>-Figma</p>
+<p>-Drawio</p>
+<p>-UML code</p>
+<p>-Visual studio code</p>
+<p>-Github</p>
+<p>-Behance</p>
 
 
 
