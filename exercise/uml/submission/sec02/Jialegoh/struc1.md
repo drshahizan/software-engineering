@@ -19,8 +19,7 @@ Don't forget to hit the :star: if you like this repo.
 1. Agile Model. This is because by using agile method, this can ensure close collaboration between the development team and the clients. For example, the clients can actively participate in the progress such as providing feedback, clarifying requirements, and suggesting improvements.
 Other than that, it also can ensure continuous improvement and learning throughout the development process.
 
-2. 
-Functional Requirement :
+2. Functional Requirement :
 - User Registeration and Authentication. As a client based system, it should provide functionality for clients to register their user accounts with their name, contact number, address and so on. This also need to provide with the user authentication, that can ensure only registered users can access the reservation and tour information.
 
 - Tour Information and Booking. Users should be able to search and filter tours based on their preferences and make reservations for selected tours. The system should handle the booking process, including capturing user details, tour selections, and payment information.
