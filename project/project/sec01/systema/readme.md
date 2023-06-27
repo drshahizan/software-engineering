@@ -57,24 +57,25 @@ Overall, the development of a student engagement website aligns with the evolvin
 
 
 ## 2. Methodology:
-![https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Systema/agile.png]
-We are using agile method as this is a software process model that emphasizes iterative and incremental development, flexibility, and collaboration between team members and stakeholders. It is particularly suitable for projects where the requirements are likely to evolve over time.
+### Software Process Model
 <!--- Describe the approach and methodologies utilized to tackle the project.
  Explain the software development life cycle model or any other relevant methodology adopted.
  Highlight any specific tools, technologies, or frameworks employed during the project. -->
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Systema/agile.png" height="50%" width="50%">
+We are using agile method as this is a software process model that emphasizes iterative and incremental development, flexibility, and collaboration between team members and stakeholders. It is particularly suitable for projects where the requirements are likely to evolve over time.
 
 ## 3. Implementation:
 <!--- Detail the specific tasks and activities undertaken by your group.
 - Provide an overview of the software components or modules developed.
 - Describe any challenges faced during the implementation phase and how you addressed them. -->
 ### First Stakeholer: Jasmine Alisha -  Student Representative Council (SRC)
-![Image](https://user-images.githubusercontent.com/129290170/236827544-b0c72886-55d0-4c0a-9c35-11f7423e0715.jpg)
+<img src="https://user-images.githubusercontent.com/129290170/236827544-b0c72886-55d0-4c0a-9c35-11f7423e0715.jpg" height="30%" width="60%">
 
 ### Second Stakeholder: Dr.Layla - Senior Lecturer
-![Image](https://user-images.githubusercontent.com/129290170/236829034-0e3369e6-729a-4535-9e51-c98e47ebe17f.jpg)
+<img src="https://user-images.githubusercontent.com/129290170/236829034-0e3369e6-729a-4535-9e51-c98e47ebe17f.jpg" height="30%" width="60%">
 
 ### Third Stakehodler: Sudashan Rio - Undergraduate Student
-![Image](https://user-images.githubusercontent.com/129236451/238515408-8649c734-92ee-42f7-a27b-4bb271fffdcf.png)
+<img src="https://user-images.githubusercontent.com/129236451/238515408-8649c734-92ee-42f7-a27b-4bb271fffdcf.png" height="30%" width="60%">
 
 ### Activities and Timeline 
 | No | Date | Member Name | Role	| Task	| Status	| 

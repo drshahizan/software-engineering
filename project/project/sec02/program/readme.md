@@ -238,7 +238,8 @@ High Fidelity Wireframes:
 
 Figma Prototyping:
 
-<a href="https://www.figma.com/proto/DBtAK206tikRXizDURZSSs/Academic-Consultation-System-UI%2FUX-(Community)?type=design&node-id=125-697&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A275"><img src="figma.jpg" width="50px" height="50px" ></a>
+<a href="https://www.figma.com/proto/DBtAK206tikRXizDURZSSs/Academic-Consultation-System-UI%2FUX-(Community)?type=design&node-id=125-697&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A275"><img src="https://github.com/drshahizan/software-engineering/assets/128214992/f3a3711c-3c85-4624-aaea-42267096b194
+" width="50px" height="50px" ></a>
 
 Design System & Typography:
 
