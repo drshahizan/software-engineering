@@ -16,21 +16,21 @@ Don't forget to hit the :star: if you like this repo.
 **Section:02**
 
 ## Answer
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
+1. A
+2. B
+3. C
+4. D
+5. D
+6. C
+7. A
+8. A
+9. B
+10. D
+11. A
+12. B
+13. C
+14. D
+15. D
 
 
 
