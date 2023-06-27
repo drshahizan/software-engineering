@@ -7,13 +7,13 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set: 9
+## MCQ Set:
 
-**Name:THEVAN RAJU A/L JEGANATH**
+**Name:**
 
-**Matrix No: A22EC0286**
+**Matrix No:**
 
-**Section:02**
+**Section:**
 
 ## Answer
 1. A
@@ -21,17 +21,16 @@ Don't forget to hit the :star: if you like this repo.
 3. C
 4. D
 5. D
-6. C
+6. C 
 7. A
 8. A
-9. B
+9. C
 10. D
 11. A
 12. B
 13. C
 14. D
 15. D
-
 
 
 ## Contribution 🛠️
@@ -41,8 +40,4 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
-
-
-
 

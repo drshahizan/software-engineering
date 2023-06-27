@@ -48,24 +48,29 @@ Don't forget to hit the :star: if you like this repo.
         +---------+         +---------+
         |  Client |         | Manager |
         +---------+         +---------+
-           |     ^              |
-           |     |              |
-           v     |              |
-     +-------+   |              |
-     |Reservation|              |
-     +-------+   |              |
-           |     |              |
-           v     |              |
-        +---------+         +-------+
-        |  Clerk  |         | Update|
-        +---------+         | Tour  |
-           |     ^         |Information|
-           |     |         +-------+
-           v     |
-     +-----------+
-     | Manage    |
-     | Reservation|
-     +-----------+
+            |     ^              |
+            |     |              |
+            v     |              |
+      +-------+   |              |
+      |Reservation|              |
+      +-------+   |              |
+            |     |              |
+            v     |              |
+        +-------+  |              |
+        |  Clerk  |  |              |
+        +-------+  |              |
+            |     |              |
+            v     |              |
++------------------+              |
+| Manage Reservation|              |
++------------------+              |
+            |     |              |
+            v     |              |
+        +---------+              |
+        |Update Tour|              |
+        |Information|              |
+        +---------+              |
+
 
        
 
