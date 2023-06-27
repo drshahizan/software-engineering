@@ -299,6 +299,10 @@ Additionally, continuous monitoring and evaluation of the system's performance a
 
 Overall, the Faculty of Computing Feedback System has provided a valuable solution for streamlining the feedback collection process and improving the quality of education and services provided by the faculty. The successful implementation of the system demonstrates the commitment to continuous improvement and meeting the needs of students, faculty, and staff.
 
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Prototype Main Menu | <a href="https://www.figma.com/files/team/1242686865890023554" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

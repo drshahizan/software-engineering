@@ -12,7 +12,7 @@ Don't forget to hit the :star: if you like this repo.
 # Activity: Group Curiousity
 
 ## Group Members
-<img src="group.jpg" height="350px" >
+<img src="img/group.jpg" height="350px" >
 <table>
   <tr>
     <th>Name</th>
@@ -269,34 +269,46 @@ Solutions:
 
 ### 3. Software components & modules
 - Provide an overview of the software components or modules developed.
-- Component Model:
-- Use Case Diagram:
+
+#### Component Diagram:
+<img src="img/component_diagram.jpg" alt="component" height="500px"></img>
+
+#### Use Case Diagram:
+<img src="img/use_case.jpg" alt="use" height="500px"></img>
+
 #### Complete Package Diagram:
-<img src="complete_package_diagram.jpg" alt="color" height="500px"></img>
+<img src="img/complete_package_diagram.jpg" alt="complete" height="500px"></img>
 
 - Analysis
 
 ### 4. Design phase
-- low fidelity
+#### General Low Fidelity:
+<img src="img/generallowfidenity.jpg" alt="" height="500px"></img>
+
+#### JKM Low Fidelity:
+<img src="img/JKMUIlowfidenity.jpg" alt="" height="500px"></img>
+
+#### Staff Low Fidelity:
+<img src="img/staffuilowfidenity.jpg" alt="" height="500px"></img>
 
 ### 5. Design system
-#### Colour Codes
-<img src="color.jpg" alt="color" height="100px"></img>
+#### Colour Codes:
+<img src="img/color.jpg" alt="color" height="100px"></img>
 
-#### Components
-<img src="component.jpg" alt="component" height="350px"></img>
+#### Components:
+<img src="img/component.jpg" alt="component" height="350px"></img>
 
-#### Home Screen
-<img src="homepage.png" alt="homepage" height="350px"></img>
+#### Home Screen:
+<img src="img/homepage.png" alt="homepage" height="350px"></img>
 
-#### Flow for Students
-<img src="student_flow.png" alt="student" height="350px"></img>
+#### Flow for Students:
+<img src="img/student_flow.png" alt="student" height="350px"></img>
 
-#### Flow for JKM KTDI
-<img src="jkm_flow.png" alt="jkm" height="500px"></img>
+#### Flow for JKM KTDI:
+<img src="img/jkm_flow.png" alt="jkm" height="500px"></img>
 
-#### Flow for KTDI Staff
-<img src="staff_flow.png" alt="staff" height="500px"></img>
+#### Flow for KTDI Staff:
+<img src="img/staff_flow.png" alt="staff" height="500px"></img>
 
 ### 6. Challenges
 | No | Challenge | Solution |
@@ -317,7 +329,7 @@ Solutions:
 
 ## Results and Archievements
 ### 1. Project Outcome: Figma Prototype
-<a href="https://www.figma.com/proto/j19tAaFoStbu6fxeleYlf3/KTDI-Event-Management-System?page-id=27%3A7&type=design&node-id=24-85&viewport=326%2C-303%2C0.04&scaling=scale-down&starting-point-node-id=24%3A85&mode=design"><img src="figma.jpg" width="50px" height="50px" ></a>
+<a href="https://www.figma.com/proto/j19tAaFoStbu6fxeleYlf3/KTDI-Event-Management-System?page-id=27%3A7&type=design&node-id=24-85&viewport=326%2C-303%2C0.04&scaling=scale-down&starting-point-node-id=24%3A85&mode=design"><img src="img/figma.jpg" width="50px" height="50px" ></a>
 
 - Share any quantitative or qualitative data that demonstrates the success of the software solution.
 - Discuss any feedback received from stakeholders or users during the evaluation process.

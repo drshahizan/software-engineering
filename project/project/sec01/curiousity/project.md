@@ -232,7 +232,15 @@ Solutions:
 - Analysis
 
 ### 4. Design phase
-- low fidelity
+
+#### low fidelity
+<img src="img/generallowfidenity.jpg" alt="color" height="500px"></img>
+
+<img src="img/JKMUIlowfidenity.jpg" alt="color" height="700px"></img>
+
+<img src="img/staffuilowfidenity.jpg" alt="color" height="700px"></img>
+
+<img src="img/studentuilowfidelity.jpg" alt="color" height="700px"></img>
 
 ### 5. Design system
 #### Colour Codes

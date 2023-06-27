@@ -198,13 +198,14 @@ Don't forget to hit the :star: if you like this repo.
 
 #### 4.5 Prototype
 - Sign up / Log in flow
-  <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/(S)Information%20System%20(1).jpg](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/log%20in.png" alt=""/></a>
+  <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/log%20in.png" alt=""/></a>
 
 - Student flow
  <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/Student%20flow.png" alt=""/></a>
 
 - Admin flow
   <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/admin%20flow.png" alt=""/></a>
+  <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/admin%20room%20avai.png" alt=""/></a>
 
 ## 5. Requirement Collection
 ### Meeting with stakeholders
