@@ -57,32 +57,8 @@
    5. EmailNotification
       
 8. Sequence diagram for Cancel Reservation scenario:
-   Client          System
-  |                 |
-  |    Enter ID     |
-  |   and Password  |
-  |---------------> |
-  |                 |
-  |  Validate User  |
-  |   Information   |
-  | <---------------|
-  |                 |
-  | Display Reservations |
-  | <---------------|
-  |                 |
-  | Choose Reservation   |
-  |   for Cancellation   |
-  |---------------> |
-  |                 |
-  | Update Customer Info |
-  |   (Cancellation)     |
-  |---------------> |
-  |                 |
-  |   Display Updated   |
-  |    Information      |
-  | <---------------|
 
-10. activity diagram for Reserve a Tour: 
 
-   
+9. activity diagram for Reserve a Tour:
+   ![Activity Diagram](Yutongchai/reserve_tour.png)
     
