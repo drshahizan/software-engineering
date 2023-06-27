@@ -27,7 +27,8 @@ Don't forget to hit the :star: if you like this repo.
 ![image](https://github.com/drshahizan/software-engineering/assets/129279940/0ee35baa-4ee0-4f3d-acf3-0b7d84e432e3)
 
 ### State Chart Diagram: Insurance Policy
-![image](https://github.com/drshahizan/software-engineering/assets/129279940/4b237159-8b3d-4fdf-82ed-cd00c90e3bf2)
+![image](https://github.com/drshahizan/software-engineering/assets/129279940/0cdf5208-df01-44ed-9d11-8c7c778d5c25)
+
 
 
 ## Contribution 🛠️

@@ -48,6 +48,10 @@ Security. The system should ensure secure storage and transmission of sensitive 
 
 5. Client, Tour, Reservation, Assistant, and Manager.
 
+6. ![image](https://github.com/drshahizan/software-engineering/assets/128206862/6679a81e-09b1-4357-af93-b2e357320722)
+
+
+7. ![image](https://github.com/drshahizan/software-engineering/assets/128206862/a39df994-b908-4f59-bf1c-1a87cb7daf88)
 
 
 

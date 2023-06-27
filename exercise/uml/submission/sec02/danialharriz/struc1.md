@@ -32,7 +32,42 @@ Don't forget to hit the :star: if you like this repo.
   
 3) Luqman is an avid traveller who likes to travel the world. He decided for his upcoming vacation, he would use the online tour reservation app that was developed by Citra Tours and Travel Agency. Below is the scenario.
 
-   - luq
+   1. Luqman visit the Citra Tours and Travel Agency website.
+   2. He browses through the different tours that are available.
+   3. He clicks on the details of each tour to get the details such as itinerary and prices.
+   4. He selects his preferred dates for the vacation and goes to the reservation page.
+   5. On this page, Luqman will fill in the form for the required personal information.
+   6. Luqman reviews the provided information, ensuring it is accurate, and clicks on the "Confirm Reservation" button.
+   7. The system validates the availability of the tour on the chosen dates and confirms Alice's reservation, displaying a confirmation message on the screen.
+   8. Luqman receives an email notification with her reservation details, including the tour name, dates, total price, and payment instructions.
+   9. Luqman proceeds to make the payment.
+   10. Once the payment is successfully processed, Luqman receives another email containing the receipt for his reservation which will be used for future reference.
+
+4) The actors :
+  - Client
+  - Clerk
+  - System Administrator
+
+   Five Use Cases :
+  - User Registration: Allows a client to create a new account in the system.
+  - Browse Tours: Enables a client to view available tours and their details.
+  - Make Tour Reservation: Allows a client to select a tour, choose preferred dates, and make a reservation.
+  - Manage Reservations: Allows a clerk to manage tour reservations made by clients, including confirmation and updating reservation statuses.
+  - System Administration: Allows the system administrator to perform system administration tasks, such as user and account management.
+
+  - ![struc1 drawio](https://github.com/drshahizan/software-engineering/assets/118705607/898d8e3e-974a-44c9-a424-92dbe8238a82)
+
+5) - Client
+   - Clerk
+   - Manager
+   - Tour
+   - Reservation
+  
+6) 
+   
+
+
+    
 
 
 ## Contribution 🛠️
