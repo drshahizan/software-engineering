@@ -31,6 +31,26 @@ Non-Functional Requirement :
 
 - Performance and Scalability. The system should be able to handle a significant number of concurrent users without performance degradation. It should be capable of processing tour reservations and generating receipts promptly. Additionally, the system should be designed to accommodate future growth and scalability, allowing for the addition of more tours, users, and system load.
 
+3. ### Scenario: Make a tour reservation
+| Column | Description |
+|-----------------------------|----------------------------------|
+| **Pre-conditions:**         |- The client is registered and logged into the system.  |
+|                             |- The client has selected a desired tour package.  |
+|                             |- The selected tour package is available on the chosen date.  |
+|                             |- The client has valid payment information.  |
+| **Normal Event(s):**        |- The client selects the desired tour package and date. |
+|                             |- The system checks the availability of the selected tour.  |
+|                             |- The client provides the number of travelers. |
+|                             |- The client confirms the reservation details and proceeds to payment.  |
+|                             |- The client enters the payment information and submits the payment.  |
+|                             |- The system verifies the payment and generates a reservation confirmation.  |
+|                             |- The reservation confirmation is sent to the client's email address.  |
+| **Abnormal Event(s):**      |- The selected tour is not available on the chosen date. |
+|                             |- The client's payment transaction fails.  |
+|                             |- The client encounters technical issues during the reservation process.  |
+| **Post-conditions:**        |- The tour reservation is confirmed and recorded in the system.  |
+|                             |- The client receives a reservation confirmation via email.  |
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
 
