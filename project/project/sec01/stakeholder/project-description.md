@@ -234,7 +234,7 @@ The implemented Student Accommodation System comprised several software componen
 | FFFFFF | (White) |
 
 ### Low Fedility Prototype:
-
+- [View our low fedility here](https://github.com/drshahizan/software-engineering/issues/87)
 
 ### User Interface Design:
 - Student user interfaces: 32 pages
