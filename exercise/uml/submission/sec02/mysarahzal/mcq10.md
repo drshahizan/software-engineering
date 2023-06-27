@@ -7,19 +7,41 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set:
+## MCQ Set:10
 
-**Name:LEE SOON DER**
+**Name:MAISARAH BINTI RIZAL**
 
-**Matrix No:A22EC0065**
+**Matrix No:A22EC0192**
 
-**Section:01**
+**Section:02**
 
 ## Answer
+1. A
+2. B
+3. B
+4. C
+5. C
+6. B
+7. A
+8. D
+9. A
+10. B
+11. A
+12. C
+13. A
+14. D
+15. D
+16. D
+17. B
+18. C
+19. C
+20. C
+21. A
+22. C
+23. B
+24. B
+25. D
 
-1) The agile software develpment model is the most suitable software process model in developing the proposed online tour reservation system for Citra’s travel agency. Agile follows an iterative and incremental approach, where the system is developed in small increments or sprints.So, it is suitable to develop a online reservation system as it allows for delivery continuos response and functionin features. The cuser can also provide feedback at each stage and also enable the development team to develop the changes quickly and efficiently throughout the development process. This ensures that the system remains up-to-date and relevant to the user's needs.
-
-2) 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
@@ -28,4 +50,5 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
+
 

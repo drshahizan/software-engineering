@@ -44,18 +44,18 @@ Don't forget to hit the :star: if you like this repo.
    10. Once the payment is successfully processed, Luqman receives another email containing the receipt for his reservation which will be used for future reference.
 
 4) The actors :
-  - Client
-  - Clerk
-  - System Administrator
+   - Client
+   - Clerk
+   - System Administrator
 
    Five Use Cases :
-  - User Registration: Allows a client to create a new account in the system.
-  - Browse Tours: Enables a client to view available tours and their details.
-  - Make Tour Reservation: Allows a client to select a tour, choose preferred dates, and make a reservation.
-  - Manage Reservations: Allows a clerk to manage tour reservations made by clients, including confirmation and updating reservation statuses.
-  - System Administration: Allows the system administrator to perform system administration tasks, such as user and account management.
+   - User Registration: Allows a client to create a new account in the system.
+   - Browse Tours: Enables a client to view available tours and their details.
+   - Make Tour Reservation: Allows a client to select a tour, choose preferred dates, and make a reservation.
+   - Manage Reservations: Allows a clerk to manage tour reservations made by clients, including confirmation and updating reservation statuses.
+   - System Administration: Allows the system administrator to perform system administration tasks, such as user and account management.
 
-  - ![struc1 drawio](https://github.com/drshahizan/software-engineering/assets/118705607/898d8e3e-974a-44c9-a424-92dbe8238a82)
+![struc1 drawio](https://github.com/drshahizan/software-engineering/assets/118705607/898d8e3e-974a-44c9-a424-92dbe8238a82)
 
 5) - Client
    - Clerk

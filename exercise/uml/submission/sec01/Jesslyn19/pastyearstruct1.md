@@ -7,20 +7,19 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set:
+## Set: Past Year 01
 
-**Name:LEE SOON DER**
+**Name: Kek Jesslyn**
 
-**Matrix No:A22EC0065**
+**Matrix No: A22EC0057**
 
-**Section:01**
+**Section: 01**
 
 ## Answer
-
-1) The agile software develpment model is the most suitable software process model in developing the proposed online tour reservation system for Citra’s travel agency. Agile follows an iterative and incremental approach, where the system is developed in small increments or sprints.So, it is suitable to develop a online reservation system as it allows for delivery continuos response and functionin features. The cuser can also provide feedback at each stage and also enable the development team to develop the changes quickly and efficiently throughout the development process. This ensures that the system remains up-to-date and relevant to the user's needs.
-
-2) 
-
+1. Agile Software Process Model. In this model, planning is incremental and it is easier to change the process to reflect changing customer requirements.
+   This is important as some of the customer might be unsatisfied with some of the interface and with this model, changes can be made during the process as the all the process are not fixed.
+   Not only that, the cost of accommodating changing customer requirements is reduced. The amount of analysis and documentation that has to be redone is much less than is required with the waterfall model.
+2. 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
 
