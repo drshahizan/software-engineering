@@ -71,8 +71,10 @@ Don't forget to hit the :star: if you like this repo.
    iii. Manager  
    iv. Tour  
    v. TourReservation  
-6. ![struct1sq](struct1sq.png)   
-7. ![struct1act](struct1act.png)  
+6.  
+![struct1sq](struct1sq.png)   
+7.  
+![struct1act](struct1act.png)  
 
 
 ## Contribution 🛠️

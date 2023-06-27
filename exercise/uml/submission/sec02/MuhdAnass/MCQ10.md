@@ -18,25 +18,29 @@ Don't forget to hit the :star: if you like this repo.
 ## Answer
 1. A
 2. B
-3. C
-4. D
-5. D
-6. C
+3. B
+4. C
+5. C
+6. B
 7. A
-8. A
-9. B
-10. D
+8. D
+9. A
+10. B
 11. A
-12. B
-13. C
+12. C
+13. A
 14. D
-15. D
+15. A
 16. A
-17. B
-18. C
-19. D
-20. D
-21. 
+17. C
+18. B
+19. C
+20. A
+21. A
+22. C
+23. B
+24. B
+25. D
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

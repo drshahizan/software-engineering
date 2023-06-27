@@ -7,36 +7,65 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set:
+## MCQ Set: 9
 
-**Name: Anas**
+**Name: Nicole Lim Tze Yee**
 
-**Matrix No: A21SC0464**
+**Matrix No: A22EC0123**
 
-**Section: 02**
+**Section: 01**
 
 ## Answer
-1. A
-2. B
-3. C
-4. D
-5. D
-6. C
-7. A
-8. A
-9. B
-10. D
-11. A
-12. B
-13. C
-14. D
-15. D
-16. A
-17. B
-18. C
-19. D
-20. D
-21. 
+1. a
+2. b
+3. c
+4. d
+5. d
+6. c
+7. a
+8. a
+9. b
+10. d
+11. a
+12. b
+13. c
+14. d
+15. d
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

@@ -7,36 +7,40 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set:
+## MCQ Set:10
 
-**Name: Anas**
+**Name:**MUHAMMAD DANIAL BIN AHMAD SYAHIR**
 
-**Matrix No: A21SC0464**
+**Matrix No:**A22EC0206**
 
-**Section: 02**
+**Section:**01
 
 ## Answer
-1. A
-2. B
-3. C
-4. D
-5. D
-6. C
-7. A
-8. A
-9. B
-10. D
-11. A
-12. B
-13. C
-14. D
-15. D
-16. A
-17. B
-18. C
-19. D
-20. D
-21. 
+1.A
+2.B
+3.B
+4.C
+5.D
+6.B
+7.A
+8.C
+9.A
+10.B
+11.A
+12.D
+13.A
+14.D
+15.A
+16.D
+17.B
+18.C
+19.C
+20.D
+21.B
+22.C
+23.B
+24.B
+25.D
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

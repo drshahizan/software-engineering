@@ -7,36 +7,31 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set:
+## Set: Structure 1
 
-**Name: Anas**
+**Name: JASLENE YU**
 
-**Matrix No: A21SC0464**
+**Matrix No: A22EC0171**
 
-**Section: 02**
+**Section: 01**
 
 ## Answer
-1. A
-2. B
-3. C
-4. D
-5. D
-6. C
-7. A
-8. A
-9. B
-10. D
-11. A
-12. B
-13. C
-14. D
-15. D
-16. A
-17. B
-18. C
-19. D
-20. D
-21. 
+1. Agile Developement model.It is an incremental development model where the development is built piece by piece. This model helps the developer to reduce cost where the developer no need to redone too much analysis and documentation compares to other development model. Besides, it is easier to get the feedback from the customer in agile development. This is because this model allow the developers to put part of the software that has been done to the user in order to get feedback from them. Thus, the users are able to response to the feature and provide the feedback in short duration. Hence, rapid delivery and deployment can be reached.
+2.  <br> *Functional Requirement*
+   - User registration and login :
+     User shall be able to register an account and login to the system in order to access the registration system.
+   - Registration overview :
+     User shall be able to view the information about the tour available.
+   - Registration managemant :
+     User shall be able to do a reservation in the system and cancel a registration made. <br>
+     *Non-functional Requirement*
+   - Speed of the system :
+     User response time of the system should be fast
+   - Reliability :
+     The system should have shorty mean time to failure
+    
+  
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

@@ -9,11 +9,11 @@ Don't forget to hit the :star: if you like this repo.
 
 ## MCQ Set:
 
-**Name: Anas**
+**Name:**
 
-**Matrix No: A21SC0464**
+**Matrix No:**
 
-**Section: 02**
+**Section:**
 
 ## Answer
 1. A
@@ -31,12 +31,7 @@ Don't forget to hit the :star: if you like this repo.
 13. C
 14. D
 15. D
-16. A
-17. B
-18. C
-19. D
-20. D
-21. 
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

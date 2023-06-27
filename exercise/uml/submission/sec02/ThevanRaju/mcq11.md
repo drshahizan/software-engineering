@@ -7,36 +7,45 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set:
+## MCQ Set: 11
 
-**Name: Anas**
+**Name:THEVAN RAJU A/L JEGANATH**
 
-**Matrix No: A21SC0464**
+**Matrix No: A22EC0286**
 
-**Section: 02**
+**Section:02**
 
 ## Answer
-1. A
-2. B
-3. C
-4. D
-5. D
-6. C
-7. A
-8. A
-9. B
-10. D
-11. A
-12. B
-13. C
-14. D
-15. D
-16. A
-17. B
-18. C
-19. D
-20. D
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17.    
+18. 
+19. 
+20. 
 21. 
+22. 
+23. 
+24. 
+25. 
+    
+
+
+
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
@@ -45,5 +54,10 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
+
+
+
+
+
 
 

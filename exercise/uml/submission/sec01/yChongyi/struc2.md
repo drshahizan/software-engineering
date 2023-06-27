@@ -7,36 +7,23 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set:
+## Set:
 
-**Name: Anas**
+**Name: Yeoh Chong Yi**
 
-**Matrix No: A21SC0464**
+**Matrix No: A22EC0295**
 
-**Section: 02**
+**Section: 01**
 
 ## Answer
-1. A
-2. B
-3. C
-4. D
-5. D
-6. C
-7. A
-8. A
-9. B
-10. D
-11. A
-12. B
-13. C
-14. D
-15. D
-16. A
-17. B
-18. C
-19. D
-20. D
-21. 
+1.  
+![struct2ucdiagram](struc2uc.png)  
+2.  
+![struct2act](struc2act.png)   
+3.  
+![struct2adomainmodel](struc2domainmodel.png)   
+4.  
+![struct2state](struc2state.png)  
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
