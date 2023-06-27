@@ -7,15 +7,19 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set:
+## Set: 1
 
-**Name:**
+**Name: THEVAN RAJU A/L JEGANATH**
 
-**Matrix No:**
+**Matrix No: A22EC0286**
 
-**Section:**
+**Section: 02**
 
 ## Answer
+1. The most suitable software process model for developing the proposed online tour reservation system for Citra's travel agency is the Agile methodology, specifically Scrum. Scrum is a highly iterative and flexible approach that emphasizes collaboration, adaptability, and delivering incremental value to the customer. Given the dynamic nature of the travel industry and the need for frequent updates and changes, Scrum provides the necessary flexibility to incorporate evolving requirements and customer feedback throughout the development process. With Scrum, the development team can work in short iterations called sprints, allowing for regular feedback, continuous improvement, and early delivery of working software. This iterative and incremental approach aligns well with the agency's requirement to have a functional system up and running quickly while maintaining the ability to adapt to changing market needs.
+2. 
+
+
 
 
 ## Contribution 🛠️
