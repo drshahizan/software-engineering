@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set:
+## MCQ Set: 2
 
 **Name: Wong Jun Ji**
 
@@ -21,16 +21,16 @@ Don't forget to hit the :star: if you like this repo.
 3. C
 4. B
 5. A
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
+6. B
+7. C
+8. B
+9. D
+10. A
+11. A
+12. B
+13. B
+14. B
+15. D
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

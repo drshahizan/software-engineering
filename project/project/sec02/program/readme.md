@@ -101,10 +101,6 @@ The Academic Consultation System presented in this project addresses these chall
 Furthermore, this project recognizes the importance of lecturers' time and commitments. By enabling lecturers to manage consultations separately from their teaching schedules, the system ensures that they can provide individualized attention to students without disrupting their regular classroom activities. This balance will enhance lecturers' ability to support students effectively and create a positive impact on student learning outcomes.
 
 ## 2. Methodology:
-- Describe the approach and methodologies utilized to tackle the project.
-- Explain the software development life cycle model or any other relevant methodology adopted.
-- Highlight any specific tools, technologies, or frameworks employed during the project.
-  
 The project adopted the Agile methodology for software development, which focuses on iterative and incremental development, flexibility, and collaboration. The Agile manifesto values individuals and interactions over processes and tools, working software over comprehensive documentation, customer collaboration over contract negotiation, and responding to change over following a plan.
 
 Here is a breakdown of the activities for each phase of the Agile methodology in the context of the project:
@@ -148,57 +144,119 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 - PHP: Employed as a server-side scripting language for implementing back-end functionalities.
 
 ## 3. Implementation:
-Requirements Gathering:
 
-1.Determine the goals and objectives of the academic consultation system.
-Identify the target audience (e.g., students, professors, advisors).
-Define the features and functionality required, such as scheduling appointments, communication channels, file sharing, etc.
-System Architecture:
+### A) Detail the specific tasks and activities undertaken by our group:
+- <b>Create Project Plan</b>: Set up a meeting with all group member to decide the software system to be develop. Determine the role of each member and have a rough plan for this project.
+ 
+- <b>Find Stakeholders</b>: Deciding who's is our stakeholder for our system that called Student Feedback System in Faculty of Computing, University Technology Malaysia.
+  ## Stakeholder
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Stakeholder</th>
+    <th>Position</th>
+    <th>Responsibility</th>
+  </tr>
+  <tr>
+    <td>1 Dr. Nor Azizah Ali</td>
+    <td>Academic Advisor</td>
+    <td>Lecturer</td>
+    <td>Provide feedback on usability of system from a lecturer perspective, suggest new features for lecturer use</td>
+  </tr>
+    <tr>
+    <td>2 Masnawi bin Miskam</td>
+    <td>Administration</td>
+    <td>Administritative Officer</td>
+    <td>Provide feedback on usability of system from an administrator perspective, share the required information in students' profile stored by administration</td>
+  </tr>
+    <tr>
+    <td>3 Nurul Asyikin Binti Muhamad</td>
+    <td>Student in Faculty of Computing</td>
+    <td>3rd Year Student</td>
+    <td>Provide feedback on usability of system from a student perspective, suggest additional features benefits to students</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>4 Kevin EE</td>
+    <td>Student in Faculty of Computing</td>
+    <td>3rd Year Student</td>
+    <td>Provide feedback on usability of system from a student perspective</td>
+  </tr>
+</table>
 
-2.Design the overall system architecture, including backend and frontend components.
-Choose appropriate technologies for each component (e.g., programming languages, frameworks, databases).
-Backend Development:
+- <b>Create Proposal</b>: We create a proposal to briefly describe the student feedback system.
+  
+- <b>Create UML Diagram</b>: Create Use case Diagram,Class Diagram,Sequence diagram and Activity Diagram.
+  
+Sequence Diagram:<br>
+ 
+ 
+Class Diagram:<br>
+ 
 
-3.Implement the server-side logic responsible for handling requests and managing data.
-Set up a database to store user information, appointment details, messages, etc.
-Develop APIs (Application Programming Interfaces) for communication between frontend and backend.
-Frontend Development:
+Use Case Diagram:<br>
+ <img src="https://github.com/drshahizan/software-engineering/assets/128196055/22a484f3-d06f-43ac-8ebb-109d6e3249a6" width="400" height=auto >
 
-4.Design and develop a user-friendly interface for different user roles (e.g., students, professors, advisors).
-Implement features such as appointment scheduling, messaging, file sharing, notifications, etc.
-Utilize appropriate frontend technologies such as HTML, CSS, JavaScript, and frontend frameworks like React, Angular, or Vue.js.
-Authentication and Authorization:
+Activity Diagram:<br>
+ ![image](https://github.com/drshahizan/software-engineering/assets/128214992/0b0c8d5b-674b-4916-a374-63da5b416546)
 
-5.Implement a secure user authentication system.
-Utilize techniques like password hashing, session management, and JWT (JSON Web Tokens).
-Define user roles and permissions to control access to different system functionalities.
-Appointment Management:
+ 
+- <b>Create SRS Documentation</b>: Use Cases and extra to-do parts in SRS documentation identified
 
-6.Develop a mechanism for users to schedule appointments with professors or advisors.
-Implement features like availability checking, calendar integration, and notification reminders.
-Ensure proper handling of conflicts, cancellations, and rescheduling.
-Communication and Messaging:
 
-7.Set up a real-time communication system between users (e.g., students, professors, advisors).
-Implement features like instant messaging, chat history, and notifications.
-Consider using technologies like WebSockets or real-time communication frameworks like Socket.io.
-File Sharing:
+- <b>Planning for interface design</b>:Rough Planning of Interfaces to be Designed.
 
-8.Provide a secure mechanism for users to share files and documents.
-Implement file upload/download functionality and ensure proper access control.
-Consider options like cloud storage integration or server-side file management.
-Testing and Quality Assurance:
 
-9.Conduct thorough testing to ensure the system functions as expected.
-Perform unit tests, integration tests, and end-to-end tests.
-Identify and fix any bugs or issues before deployment.
-Deployment and Maintenance:
+- <b>Develop detailed system interface </b>: Develop Information Architecture,User Flow,Low Fidelity Wireframes,High Fidelity Wireframes,Design System & Typography and UI Design
+  
+Information Architecture for Student:
 
-10.Deploy the system on a suitable hosting environment or cloud platform.
-Monitor system performance and ensure scalability and reliability.
-Regularly update and maintain the system to incorporate new features, security patches, and bug fixes.
 
-- Describe any challenges faced during the implementation phase and how you addressed them.
+
+Information Architecture for Lecturer:
+
+Information Architecture for Admin:
+
+
+
+User Flow:
+
+
+
+Low Fidelity Wireframes:
+
+<img src="https://user-images.githubusercontent.com/128196055/241563936-d49f1c1d-41b2-4cfe-8642-4b26ee3a2557.jpeg" width="400" height=auto >
+<img src="https://user-images.githubusercontent.com/128196055/241563955-c0cc2382-ebd9-4397-89cc-6dd99b4e1968.jpeg" width="400" height=auto >
+<img src="https://user-images.githubusercontent.com/128196055/241563957-2af9a4bb-388f-4106-b941-6211ec88fcea.jpeg" width="400" height=auto >
+<img src="https://user-images.githubusercontent.com/128196055/241563956-3d7e23de-fde1-46cf-9bc2-5e08423fb2fa.jpeg" width="400" height=auto >
+<img src="https://user-images.githubusercontent.com/128196055/241563954-d8f71c17-ca08-486a-97f7-04ab63296066.jpeg" width="400" height=auto >
+
+
+High Fidelity Wireframes:
+
+![Screenshot 2023-06-27 071714](https://github.com/drshahizan/software-engineering/assets/128214992/f6fcc6f0-f97b-4430-8ece-8c5c03ff1b87)
+
+Figma Prototyping:
+
+<a href="https://www.figma.com/proto/DBtAK206tikRXizDURZSSs/Academic-Consultation-System-UI%2FUX-(Community)?type=design&node-id=125-697&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A275"><img src="https://github.com/drshahizan/software-engineering/assets/128214992/f3a3711c-3c85-4624-aaea-42267096b194
+" width="50px" height="50px" ></a>
+
+Design System & Typography:
+
+- <b>Create System Design Documentation</b>
+
+- <b>Create System Test Documentation</b>
+- Component Model:
+![Component Diagram](https://github.com/drshahizan/software-engineering/assets/128212534/77cc1110-c06a-4ddf-96f5-59ec548d6244)
+
+
+  
+- Complete Package Diagram:
+
+
+### C) The challenges faced during the implementation phase:
+- Integration Issues: As different team members worked on separate modules, integrating all theindividual components posed challenges. We addressed this by regularly conducting integration testing and maintaining clear communication among team members by doing scrumpt meetings to ensure seamless integration.
+- Changing Requirements: Throughout the implementation phase, there were instances where the requirements evolved or changed. We addressed this challenge by maintaining flexibility in our design and implementation, embracing agile methodologies, and having open communication with the project stakeholders to adapt to the changing requirements.
 
 ## 4. Testing and Quality Assurance:
 ### Functional Requirements:

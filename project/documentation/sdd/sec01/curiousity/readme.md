@@ -39,7 +39,7 @@ Don't forget to hit the :star: if you like this repo.
 | No | Name |File | 
 | -----:| ----- | :------: | 
 |1| Document SDD| <a href="https://docs.google.com/document/d/1WGhhNeAzyUHr1NQiJZkYlMmllKr_gQ-6TjUTykMYNow/edit?usp=sharing" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="https://app.diagrams.net/#G1DulmzgGtCdsVXz7s9y1iCIcD4upDSlWa" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
 |3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
@@ -88,12 +88,12 @@ Don't forget to hit the :star: if you like this repo.
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 13/06/2023| Low Ying Xi | Project Manager | Create SDD document | Complete |
 | 2 | 15/06/2023| Low Ying Xi | Project Manager | Distribute task | Complete |
-| 3 | 16/06/2023 | Low Ying Xi  | Project Manager | Create system architecture design | Incomplete |
-| 4 | 16/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui  | Project Manger, Documentation Specialist, Developer, User Experience Designer | Create detailed description of modules | Incomplete |
-| 5 | 16/06/2023 | Ng Shu Yu | Documentation Specialist | Cretae Data Design | Incomplete |
-| 6 |  17/06/2023 | Camily Tang Jia Lei, Koh Li Hui |Developer, User Experience Designer | Create User Interfaces Design | Incomplete |
-| 7 |  17/06/2023 | Camily Tang Jia Lei, Koh Li Hui |Developer, User Experience Designer | Create Requirement Matrix | Incomplete |   
-| 8 | 20/06/2023 | Ng Shu Yu | Documentation Specialist | Finalize the SDD |Incomplete | 
+| 3 | 16/06/2023 | Low Ying Xi  | Project Manager | Create system architecture design, component model and use case diagram | Complete |
+| 4 | 16/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui  | Project Manger, Documentation Specialist, Developer, User Experience Designer | Create detailed description of components and modules | Complete |
+| 5 | 16/06/2023 | Koh Li Hui | User Experience Designer | Cretae Data Design | Complete |
+| 6 |  17/06/2023 | Camily Tang Jia Lei |Developer | Create User Interfaces Design  | Complete |
+| 7 |  17/06/2023 | Camily Tang Jia Lei |Developer | Create Requirement Matrix | Complete |
+| 8 | 27/06/2023 | Ng Shu Yu | Documentation Specialist | Finalize the SDD | Incomplete | 
 
 
 ## Contribution 🛠️

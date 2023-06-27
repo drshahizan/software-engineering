@@ -1,0 +1,59 @@
+@startuml
+actor "Faculty of Computing's Students" as Student
+actor "Faculty of Computing's Lecturers" as Lecturer
+actor "Faculty of Computing's Student Representative Council Members" as SRC
+actor Administrators
+
+boundary "Registration Page" as RegistrationPage
+database "User Database" as UserDatabase
+database "User Table" as UserTable
+control "User Registration Controller" as RegistrationController
+control "View Controller" as ViewController
+control "Authentication Service" as AuthService
+control "User Repository" as UserRepository
+
+Student -> ViewController: Clicks on "Sign up"
+ViewController --> Student: Displays page to choose user type
+
+Student -> RegistrationController: Chooses Student / Lecturer
+Lecturer -> RegistrationController: Chooses Student / Lecturer
+SRC -> RegistrationController: Chooses SRC
+Administrators -> RegistrationController: Chooses Admin
+
+ViewController --> Student: Displays suitable sign-up page to choose user type based on user type
+Student -> ViewController: Fills in required details
+
+Student -> RegistrationController: Clicks on "Sign up" button
+RegistrationController -> RegistrationController: Validates registration form
+
+activate RegistrationController
+alt Valid details
+    RegistrationController -> UserTable: Add user account
+    UserTable --> RegistrationController: User account added
+    RegistrationController -> AuthService: Register user
+    AuthService --> RegistrationController: User registration successful
+    RegistrationController --> Student: Option to go back to login page
+else Invalid details
+    RegistrationController --> Student: Displays invalid sign-up message
+    RegistrationController --> RegistrationPage: Displays sign-up page again
+
+    Student -> ViewController: Re-enters correct details
+    ViewController -> RegistrationController: Fills in required details
+
+    ViewController -> RegistrationController: Clicks on "Sign up" button
+    RegistrationController -> RegistrationController: Re-validates registration form
+
+    activate RegistrationController
+    alt Valid details (Retry)
+        RegistrationController -> UserTable: Add user account
+        UserTable --> RegistrationController: User account added
+        RegistrationController -> AuthService: Register user
+        AuthService --> RegistrationController: User registration successful
+        RegistrationController --> Student: Option to go back to login page
+    else Invalid details (Retry)
+        RegistrationController --> Student: Displays invalid sign-up message
+        RegistrationController --> RegistrationPage: Displays sign-up page again
+    end
+    deactivate RegistrationController
+end
+@enduml

@@ -39,6 +39,13 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
+## Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Document STD| <a href= https://docs.google.com/document/d/102OtP1xkI_MDDosiycvG1h0gtotl2rCj8_pEDPo0Q9Q/edit><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="https://www.figma.com/file/vJFZ4ywOpGf74nWp6hwt9T/Student-Attendance-System?type=design&node-id=363-2343&mode=design&t=m4y8c3Yml9LuHyYV-0" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+
 ## Stakeholder
 <table>
   <tr>

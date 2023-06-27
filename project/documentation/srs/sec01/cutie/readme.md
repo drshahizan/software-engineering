@@ -43,7 +43,7 @@ Don't forget to hit the :star: if you like this repo.
 | No | Name |File | 
 | -----:| ----- | :------: | 
 |1| Document SRS| <a href="https://docs.google.com/document/d/1gYnT_O2jhI0c_1Fj7zSzKu-DS3WszlASZqaUI4-x3eQ/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="https://www.figma.com/file/vJFZ4ywOpGf74nWp6hwt9T/Student-Attendance-System?type=design&node-id=363-2343&mode=design&t=m4y8c3Yml9LuHyYV-0" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
 |3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
@@ -96,8 +96,14 @@ Don't forget to hit the :star: if you like this repo.
 |10 | 16/05/2023 | All Members | Project Members | First interview with stakeholder | Complete |
 |11 | 17/05/2023 | All Members | Project Members | Design UML Diagram | Complete |
 |12 | 18/05/2023 | All Members | Project Members | System Requirements Specification Discussion | Complete |
-|13 | 19/05/2023 | All Members | Project Members | System Requirements Specification | Partially complete |
-|14 | 25/05/2023 | All Members | Project Members | System Design Documentation Planning | Partially complete |
+|13 | 19/05/2023 | All Members | Project Members | System Requirements Specification | Complete |
+|14 | 25/05/2023 | All Members | Project Members | System Design | Complete |
+|15 | 28/05/2023 | All Members | Project Members | Create low fidelity | Complete|
+|16 | 31/05/2023 | All Members | Projects Members | Create High fidelity | Complete|
+|17 | 12/06/2023 | All Members | Project Members | System Design Document Discussion | Complete|
+|18 | 13/06/2023 | All Members | Projects Members |  System Design Document | Complete|
+|19 | 19/06/2023 | All Members | Projects Members | System Testing Document | Partially complete 
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
