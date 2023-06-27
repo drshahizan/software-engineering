@@ -17,7 +17,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Answer
 
-Software Process Model:
+Software Process Model Selection:
 The most suitable software process model for developing the proposed online tour reservation system for Citra's travel agency is the Agile software development model. The Agile model emphasizes flexibility, collaboration, and incremental development, which align well with the dynamic nature of the project requirements and the need for continuous feedback and adjustments.
 
 Justification:
@@ -29,7 +29,6 @@ Incremental Development: The Agile model focuses on delivering working software 
 Collaboration: The Agile model promotes close collaboration between the development team, the agency's clerk, and the manager. Regular interactions and feedback sessions help ensure that the system aligns with the agency's requirements and business goals. The clerk and the manager can actively participate in the development process, providing insights and clarifications, which leads to a better understanding of the system's functionality.
 
 Functional Requirements:
-
 User Registration: Clients should be able to register themselves on the application by providing necessary details such as name, contact information, and email address.
 
 Tour Reservation: Clients should be able to browse available tours, select a desired tour, specify the number of participants, and make a reservation for the chosen tour.
@@ -37,18 +36,15 @@ Tour Reservation: Clients should be able to browse available tours, select a des
 Reservation Cancellation: Clients should have the ability to cancel their previous tour reservations. The system should update the reservation status and provide appropriate notifications to the client.
 
 Non-Functional Requirements:
-
 Security: The system should ensure secure access and data protection, particularly for client information, login credentials, and payment details.
 
 Performance: The application should be responsive and perform well even during peak usage times. It should handle multiple concurrent users and provide quick response times for search, reservation, and cancellation operations.
 
 Scenario: Make a tour reservation
-
 Pre-conditions:
 
 The client is registered and logged into the system.
 The client has searched and selected a desired tour.
-
 Normal Event(s):
 
 The client selects the number of participants for the tour.
@@ -57,47 +53,29 @@ The client proceeds to the payment section and provides the necessary payment de
 The system validates the payment and confirms the tour reservation.
 The system generates an electronic receipt containing payment and tour reservation details.
 The receipt is emailed to the client for reference.
-
 Abnormal Event(s):
 
 If the payment validation fails, the client is notified and prompted to provide valid payment details.
 Post-conditions:
 
 The client receives a confirmation email with the tour reservation details and payment information.
+Use Case Diagram:
+![image](https://github.com/drshahizan/software-engineering/assets/129279940/3770b983-9ccf-4f05-9e42-1570ab5b9ee1)
 
-Actors:
 
-1. Client (Registered User)
-2. Clerk
-3. Manager
+Domain Model Classes:
+User
+Tour
+Reservation
+Payment
+Receipt
+Sequence Diagram for Cancel Reservation:
+![image](https://github.com/drshahizan/software-engineering/assets/129279940/0277c5a0-2054-42b2-996d-20fb38ebe580)
 
-Use Cases:
 
-1. Register User
-2. Browse Tours
-3. Make Tour Reservation
-4. Cancel Tour Reservation
-5. Manage Tour Information
+Activity Diagram for Reserve a Tour:
+![image](https://github.com/drshahizan/software-engineering/assets/129279940/8a5c074b-84b2-4324-ab07-7d0260126441)
 
-Use Case Diagram :
-
-![image](https://github.com/drshahizan/software-engineering/assets/129279940/21fe3867-a0a6-4961-8522-a41460ea51d9)
-
-Classes for Domain Model:
-
-1. User
-2. Tour
-3. Reservation
-4. Payment
-5. Receipt
-
-Sequence Diagram for Cancel Reservation :
-
-![image](https://github.com/drshahizan/software-engineering/assets/129279940/f7b8226b-20a7-4165-8bde-a516bd0b6913)
-
-Activity Diagram for Reserve a Tour :
-
-![image](https://github.com/drshahizan/software-engineering/assets/129279940/fb6029e2-d300-49d0-a519-1502dc2ca9cb)
 
 
 ## Contribution 🛠️
