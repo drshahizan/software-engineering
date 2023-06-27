@@ -253,7 +253,10 @@ Solutions:
 
 #### Low fidenity
 
-<img src="generallowfidenity.jpg" alt="color" height="100px"></img>
+<img src="generallowfidenity.jpg" alt="color" height="500px"></img>
+
+<img src="JKMUIlowfidenity.jpg" alt="color" height="500px"></img>
+
 
 ### 5. Design System
 
