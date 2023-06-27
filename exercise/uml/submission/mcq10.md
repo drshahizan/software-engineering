@@ -1,8 +1,8 @@
 ## MCQ Set: 10
 
-**Name: Chen Pyng Haw**
+**Name: WONG KHAI SHIAN NICHOLAS**
 
-**Matrix No: A22EC0042**
+**Matrix No: A22EC0292**
 
 **Section: 01**
 
@@ -11,16 +11,16 @@
 2. B
 3. B
 4. C
-5. B
-6. A
-7. D
-8. A
-9. B
-10. A
-11. C
-12. A
-13. B
-14. B
+5. C
+6. B
+7. B
+8. C
+9. A
+10. B
+11. A
+12. C
+13. A
+14. C
 15. D
 16. D
 17. B
@@ -32,6 +32,3 @@
 23. B
 24. B
 25. D
-    
-
-
