@@ -257,6 +257,7 @@ Solutions:
 
 <img src="JKMUIlowfidenity.jpg" alt="color" height="500px"></img>
 
+<img src="staffuilowfidenity.jpg" alt="color" height="500px"></img>
 
 ### 5. Design System
 
