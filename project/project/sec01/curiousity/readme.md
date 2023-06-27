@@ -42,7 +42,7 @@ Don't forget to hit the :star: if you like this repo.
 | 2 | System Requirements Specification (SRS)| <a href="https://docs.google.com/document/d/18NUuhr4QC2U0nWMCm7V6GgPZznmsA4sk/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
 | 3 | System Design Descriptions (SDD) | <a href="https://docs.google.com/document/d/1WGhhNeAzyUHr1NQiJZkYlMmllKr_gQ-6TjUTykMYNow/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
 | 4 | System Test Descriptions (STD)| <a href="https://docs.google.com/document/d/1a376KQdLW--Bxmo5r83nIQQj5E8YYfpwpwyhyPMroL8/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
-| 5 | Figma |  <a href="" ><img src="./images/figma.svg" width="24px" height="24px" ></a> |  
+| 5 | Figma |  <a href="https://www.figma.com/proto/j19tAaFoStbu6fxeleYlf3/KTDI-Event-Management-System?page-id=27%3A7&type=design&node-id=24-85&viewport=326%2C-303%2C0.04&scaling=scale-down&starting-point-node-id=24%3A85&mode=design" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/9351bd712f05648b3c117eec85186a261de98c92/project/project/sec01/curiousity/img/figma.svg" width="24px" height="24px" ></a> |  
 
 # KTDI Event Management System
 ### 💫Table of Contents
