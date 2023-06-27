@@ -38,9 +38,9 @@ Don't forget to hit the :star: if you like this repo.
 ## Documentation
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Project| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/project.md" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
-|3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+|1| Project| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/project.md" ><img src="" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="" ><img src="" width="24px" height="24px" ></a>|
+|3| Others| <a href="" ><img src="" width="24px" height="24px" ></a>|
 
 
 ## Contribution 🛠️
