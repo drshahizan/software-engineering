@@ -24,7 +24,7 @@ Don't forget to hit the :star: if you like this repo.
 | **Pre-conditions:**         |-The client has registered for an account on the online tour reservation system.|
 |        |-The client has logged into their account.|
 |        |-The client has sufficient funds or payment methods available for making the reservation.|
-         |-The system has available tours and their details stored in the database.|
+|        |-The system has available tours and their details stored in the database.|
 | **Normal Event(s):**        |-The client selects "Make a Reservation" from the main menu.|
 |                             |-The system displays a list of available tours with their details.  |
 |                             |-The client selects a desired tour from the list.  |
@@ -42,6 +42,9 @@ Don't forget to hit the :star: if you like this repo.
 | **Post-conditions:**        |-The client's reservation is successfully recorded in the system's database.  |
 |                             |-The client receives a reservation receipt via email with payment and tour reservation details.  |
 4.  Suitable actor is Client, Clerk, and Manager. For the use case are Register Account, Make Reservation, Manage Reservation, Update Tour Information, Generate Receipt.
+        
+5. Five suitable  classes for the domain model are Client, Tour, Reservation, Clerk, and Receipt.
+
         +---------+
         |  Client |
         +---------+
@@ -49,7 +52,6 @@ Don't forget to hit the :star: if you like this repo.
            |     |
            v     |
      +-------+   |
-     |  Make |---+
      |Reservation|
      +-------+
 
@@ -77,27 +79,10 @@ Don't forget to hit the :star: if you like this repo.
      +---------+
      | Manager |
      +---------+
-5. Five suitable  classes for the domain model are Client, Tour, Reservation, Clerk, and Receipt.
-6. 
-Client       System
-   |             |
-   |   1. Enter ID and password   |
-   |--------------------------->|
-   |             |
-   |   2. Validate information   |
-   |--------------------------->|
-   |             |
-   |    3. Display reservations  |
-   |<---------------------------|
-   |             |
-   |   4. Choose reservation to cancel   |
-   |--------------------------->|
-   |             |
-   |      5. Update cancellation     |
-   |--------------------------->|
-   |             |
-   |    6. Display updated information  |
-   |<---------------------------|
+
+
+
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
