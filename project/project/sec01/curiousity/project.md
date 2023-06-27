@@ -234,13 +234,13 @@ Solutions:
 ### 4. Design phase
 
 #### low fidelity
-<img src="img/generallowfidenity.jpgcolor.jpg" alt="color" height="500px"></img>
+<img src="img/generallowfidenity.jpg" alt="color" height="500px"></img>
 
-<img src="img/JKMUIlowfidenity.jpg.jpg" alt="color" height="700px"></img>
+<img src="img/JKMUIlowfidenity.jpg" alt="color" height="700px"></img>
 
-<img src="img/staffuilowfidenity.jpg.jpg" alt="color" height="700px"></img>
+<img src="img/staffuilowfidenity.jpg" alt="color" height="700px"></img>
 
-<img src="img/studentuilowfidelity.jpg.jpg" alt="color" height="700px"></img>
+<img src="img/studentuilowfidelity.jpg" alt="color" height="700px"></img>
 
 ### 5. Design system
 #### Colour Codes
