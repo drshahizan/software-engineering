@@ -102,7 +102,7 @@ Don't forget to hit the :star: if you like this repo.
 | 20 | 15/06/2023 | Chen Pyng Haw | Documentation Specialist | Create STD Documentation draft | Complete | 
 | 21 | 19/06/2023 | Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Finalise UI Deisgn | On-going | 
 
-## Introduction
+## 1.Introduction
 <b>Purpose and objective:</b>
 <p>The purpose of a faculty feedback system is to gather input and evaluations from students and staff members about their experiences with faculty from different perspective such as curriculum delivery, facilities and equipment.The system serves as a structured mechanism for students and faculty staff members to provide constructive feedback and share their perspectives on various aspects of the learning environment. The main objective of this system is quality improvement to enhance the quality of the learning and teaching environment by identifying areas that require improvement.</p>
 
@@ -119,6 +119,25 @@ Improved Teaching Quality - By collecting feedback from students toward their le
 
 Improved quality of learning and teaching environment - The faculty of computing feedback system helps to improve the quality of the learning and teaching environment by identifying strengths and weaknesses, providing tailored support and professional development, facilitating communication and collaboration, fostering continuous improvement and innovation. The project collectively contributes to an enhanced educational experience for students and creates a positive and effective teaching environment.
 
+</p>
+
+## 2.Methodology
+
+<b>The approach and methodologies utilized to tackle the project:</b>
+
+<p>Define Project Scope and Prioritize Features - Begin by defining the scope of the project, including the key features and functionalities of the faculty feedback system. Prioritize these features based on their importance and potential impact. This can be done through collaboration with stakeholders, including students, faculty, and administrators.
+
+Create a Product Backlog - Develop a product backlog that includes all the desired features, improvements, and enhancements. This backlog serves as a prioritized list of items that need to be addressed.
+
+Development - Project is divided into smaller tasks and distributed to all the group members equally through the team meeting. A due date is set for all members to finish their task. Prioritize the items from the product backlog and select a subset to work on during each sprint.
+
+Collaborative Planning,Review and continuous Adaptation - Hold a review session to demonstrate the completed features and gather feedback from team members for continuous improvement.All members will evaluate the tasks that have been done together to find out the area that need to do improvement. The team member that is responsible for that task will do the modification after the evaluation is done.
+
+System design - Identify all the modules and use cases in the system based on project scope and prioritize features. Then, create the low fidelity, high fidelity and the prototype to provide a visual representation of the user interface (UI) of the faculty of computing feedback system, which helps in designing and refining the layout, navigation, and overall look and feel of the system.
+
+Continuous Integration and Testing - Implement continuous integration practices to ensure that changes and updates to the faculty feedback system are integrated smoothly and tested thoroughly.
+
+Documentation - Produce srs, sdd and std.
 </p>
 
 
