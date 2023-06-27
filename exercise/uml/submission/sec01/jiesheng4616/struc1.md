@@ -30,7 +30,17 @@ Don't forget to hit the :star: if you like this repo.
 - To ensure simplicity of use for both customers and the clerk, the system should feature an intuitive and user-friendly interface. To help consumers make reservations quickly and without difficulty, it should include clear directions, logical navigation, and well-organized trip information.
 - A variety of users, including those with disabilities, should be able to utilise the system with ease. It should abide by accessibility guidelines, including those that call for alternative text for images, good colour contrast for reading, and keyboard assistance.
 
-
+| Column | Description |
+|-----------------------------|----------------------------------|
+| **Pre-conditions:**         |- John can browse the website using a suitable device and an internet connection.|
+|                             |- John doesn't currently have a user account with Citra Tours & Travel.|       
+| **Normal Event(s):**        |- John enters his name, address, and email address to set up a new account.|
+|                             |- John uses his just made account to enter the system.|
+| **Abnormal Event(s):**      |- The desired tour is sold out or not available.|
+|                             |- There is a problem with the payment processing.|
+|                             |- The reservation receipt and confirmation are not produced by the system.|
+| **Post-conditions:**        |- John has successfully registered for a user account on the website of Citra Tours & Travel.|
+|                             |- John's payment was safely processed by the system. |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

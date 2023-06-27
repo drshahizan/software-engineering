@@ -32,3 +32,17 @@
 |                             |- The system may experience technical issues or undergo maintenance in the reservation process.  |
 | **Post-conditions:**        |- The user is successfully making a tour reservation. |
 |                             |- The system updates the availability of seats/packages for the booked tour. |
+
+4. #### Use case diagram:
+<img alt="struc_uc" src="https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec01/kohlihui/struc1_uc.png?raw=true">
+
+5. #### Domain class model:
+  1. Tour
+  2. Reservation
+  3. User
+  4. Payment
+  5. Receipt
+
+6. #### Sequence diagram:
+
+7. #### Activity diagram:

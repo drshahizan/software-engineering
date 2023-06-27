@@ -21,7 +21,38 @@ Don't forget to hit the :star: if you like this repo.
 
 2: One of the many functional requirements in the system is user registration and authentication. The system allows new users to create an account by providing necessary personal infomation. It only allows registered users to access into the system. Next, it would be the tour reservation and viewing information about the tours avaialble. The system displays a comprehensive information to the users regarding tours that are available, price, and other related documents. Not only that, there is also the option for users to cancel a previous reservation. If the user felt like there are better deals or any other relevant reasons, as long as the tour date has not reached, they are free to cancel the tour anytime. Another one will be that clients can send any inquiries, complaints and suggestions through the email facilities in the system. In this case, if the client wants has any disagreement, or unsatistified with that the agency is providing, they can freely voice out their opinions. On top of that, there is a reservation management for clerks, They can add, delete, and update the related information on the clients about the tour they registered. They can also confirm and process the tours booked by clients. Lasly, the clerks can send the issued receipt to the client which contains payment information, and tour reservation details. In terms of a non-functional requirement, the system requires performance. The system should be able to handle multiple concurrent users at the same time without significant performance degredation. Besides, the response time for loading the tour information and processing the reservations should be fast and seamless. Another non-functional requirement is security. In order to ensure only the clerk can access Citra's travel agency's database, they are provided special credentials which includes a login ID and password from the manager. This way, the system have proper access controls and authentication mechanisms to prevent unauthorised access to senstive data by outside users.
 
-3: Tom Hanks is a client who wishes to make a reservation to have a fun and healing time with a theme of "Beach Gateway" with his family members. He visits the Citra Tour and Agency website and navigate throughs the tour section. He found out that the website provides many different themes and packages for a tour. He clicks on the one which is beach themed to view more details. The tour displays information about the destination, duration, acitivities, pricing, and available dates. He scrolls through it carefully, and picks the one he likes the most. Upon clicking "Book Now", it takes him to the reservation form. Tom excitedly fill in the details such as the number of participants, preferred trvavel dates, and the package. He After submitting the reservation request, Tom receives an email confirmation with a unique reservation ID. The system updates the availability of the tour and marks Tom's request as pending. A clerk from the agency reviews the reservation and process the payment. Tom then receives another email containing the payment details, total cost, and a receipt for the reservation. The system updates Tom's reservation to "Paid". On the day of departure, Tom and his family memebrs arrived at the designated meeting point and embark their journey on their dream beach-themed tour.
+3: Tom Hanks is a client who just got his monthly pay and wishes to make a reservation to have a fun and healing time with a theme of "Beach Gateway" with his family members. 
+
+### Scenario: Make a tour reservation
+| Column | Description |
+|-----------------------------|----------------------------------|
+| **Pre-conditions:**         | Tom has access to the internet and a device capable of web browsing.  |
+|        | Tom is a registered user to the Citra Tours and Travel Agency website.  |
+| **Normal Event(s):**        | Tom visits the Citra Tour and Agency website and navigate throughs the tour section.  |
+|                             | Tom found out that the website provides many different themes and packages for a tour.  |
+|                             | Tom clicks on the one which is beach themed to view more details.  |
+|                             |The system displays information about the destination, duration, acitivities, pricing, and available dates.  |
+|                             | Tom found out that the website provides many different themes and packages for a tour.  |
+|                             | Tom clicks on the one which is beach themed to view more details.  |
+|                             |The system displays information about the destination, duration, acitivities, pricing, and available dates.  |
+|                             | Tom scrolls through  the system carefully, and picks the one he likes the most.  |
+|                             | Tom clicks on "Book Now", it takes him to the reservation form.  |
+|                             | The system displays the reservation form.  |
+|                             | Tom excitedly fill in the details such as the number of participants, preferred trvavel dates, and the package.   |
+|                             | After submitting the reservation request, Tom receives an email confirmation with a unique reservation ID.  |
+|                             | The system updates the availability of the tour and marks Tom's request as pending. |
+|                             | A clerk from the agency reviews the reservation and process the payment.  |
+|                             | Tom then receives another email containing the payment details, total cost, and a receipt for the reservation.   |
+|                             | The system updates Tom's reservation to "Paid". |
+
+| **Abnormal Event(s):**      | The client encounters technical issues while filling out the reservation form and is unable to submit the request.  |
+|                             | The system fails to generate a unique reservation ID or encounters errors while sending the confirmation email. |
+|                             | The payment processing encounters an error, and the reservation status remains unpaid or in a pending state.  |
+|                             | Tom does not receive the confirmation email or any subsequent communication from the agency.  |
+| **Post-conditions:**        | Tom has successfully made a tour reservation with a unique reservation ID.  |
+|                             | Tom has received a confirmation email with payment details and a receipt for the reservation. |
+|                             | The reservation status is "Confirmed" and "Paid" in the system, indicating a successful reservation and payment. |
+|                             | The agency has recorded the reservation and is prepared to provide the tour experience on the specified dates. |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
