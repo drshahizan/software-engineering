@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set: 9
+## MCQ Set: 10
 
 **Name: Low Jie Sheng**
 
@@ -18,19 +18,29 @@ Don't forget to hit the :star: if you like this repo.
 ## Answer
 1. A
 2. B
-3. C
+3. B
 4. C
-5. D
-6. C
+5. A
+6. B
 7. A
-8. A
-9. B
-10. C
+8. C
+9. A
+10. B
 11. A
-12. D
-13. B
+12. C
+13. A
 14. C
-15. A
+15. D
+16. D
+17. B
+18. C
+19. C
+20. C
+21. A
+22. C
+23. B
+24. B
+25. C
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

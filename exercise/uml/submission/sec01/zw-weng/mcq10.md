@@ -7,30 +7,40 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set: 9
+## MCQ Set: 10
 
-**Name: Low Jie Sheng**
+**Name: NEO ZHENG WENG**
 
-**Matrix No: A22EC0075**
+**Matrix No: A22EC0093**
 
 **Section: 01**
 
 ## Answer
-1. A
-2. B
-3. C
-4. C
-5. D
-6. C
-7. A
-8. A
-9. B
-10. C
-11. A
-12. D
-13. B
-14. C
-15. A
+1. a
+2. b
+3. b
+4. c
+5. c
+6. b
+7. a
+8. d
+9. a
+10. b
+11. a
+12. c
+13. a
+14. c
+15. d
+16. d
+17. b
+18. c
+19. c
+20. c
+21. d
+22. b
+23. b
+24. b
+25. d
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
