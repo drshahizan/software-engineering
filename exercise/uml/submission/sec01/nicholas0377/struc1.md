@@ -42,63 +42,11 @@ Don't forget to hit the :star: if you like this repo.
 | **Post-conditions:**        |-The client's reservation is successfully recorded in the system's database.  |
 |                             |-The client receives a reservation receipt via email with payment and tour reservation details.  |
 4.  Suitable actor is Client, Clerk, and Manager. For the use case are Register Account, Make Reservation, Manage Reservation, Update Tour Information, Generate Receipt.
-        +---------+
-        |  Client |
-        +---------+
-           |     ^
-           |     |
-           v     |
-     +-------+   |
-     |  Make |---+
-     |Reservation|
-     +-------+
-
-         |
-         v
-
-     +-------+
-     |  Clerk |
-     +-------+
-     |   |   |
-     |   v   |
-     |+-----+|
-     ||Manage||
-     ||Reservation|
-     |+-----+|
-     |   |   |
-     |   v   |
-     |+---------+        +----------------+
-     ||Update |        |Generate   |
-     ||Tour   |<------>|Receipt     |
-     ||Information|        +----------------+
-     |+---------+
-         |
-         v
-     +---------+
-     | Manager |
-     +---------+
+        
 5. Five suitable  classes for the domain model are Client, Tour, Reservation, Clerk, and Receipt.
 
 6. 
-Client       System
-   |             |
-   |   1. Enter ID and password   |
-   |--------------------------->|
-   |             |
-   |   2. Validate information   |
-   |--------------------------->|
-   |             |
-   |    3. Display reservations  |
-   |<---------------------------|
-   |             |
-   |   4. Choose reservation to cancel   |
-   |--------------------------->|
-   |             |
-   |      5. Update cancellation     |
-   |--------------------------->|
-   |             |
-   |    6. Display updated information  |
-   |<---------------------------|
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
