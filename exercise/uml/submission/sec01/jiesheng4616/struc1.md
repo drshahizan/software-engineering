@@ -34,16 +34,13 @@ Don't forget to hit the :star: if you like this repo.
 |-----------------------------|----------------------------------|
 | **Pre-conditions:**         |- John can browse the website using a suitable device and an internet connection.|
 |                             |- John doesn't currently have a user account with Citra Tours & Travel.|       
-| **Normal Event(s):**        |-  |
-|                             |-  |
-|                             |-  |
-|                             |-  |
-| **Abnormal Event(s):**      |-  |
-|                             |-  |
-|                             |-  |
-|                             |-  |
-| **Post-conditions:**        |-  |
-|                             |-  |
+| **Normal Event(s):**        |- John enters his name, address, and email address to set up a new account.|
+|                             |- John uses his just made account to enter the system.|
+| **Abnormal Event(s):**      |- The desired tour is sold out or not available.|
+|                             |- There is a problem with the payment processing.|
+|                             |- The reservation receipt and confirmation are not produced by the system.|
+| **Post-conditions:**        |- John has successfully registered for a user account on the website of Citra Tours & Travel.|
+|                             |- John's payment was safely processed by the system. |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
