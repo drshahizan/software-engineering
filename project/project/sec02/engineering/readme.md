@@ -122,7 +122,7 @@ The primary objective of the Parcel Delivery System is to streamline and enhance
 
 ### Problem Statement
 
-The current parcel delivery process within our organization faces several challenges. Manual tracking and management of parcels result in errors, delays, and inefficiencies. Lack of real-time tracking and communication hampers the ability to provide accurate and timely updates to customers. Additionally, the absence of an integrated system makes it difficult to manage and monitor the entire delivery process effectively. 
+The current parcel delivery process within our organization faces several challenges. Manual tracking and delivery of parcels result in errors, delays, and inefficiencies. Lack of real-time tracking and communication hampers the ability to provide accurate and timely updates to customers. Additionally, the absence of an integrated system makes it difficult to manage and monitor the entire delivery process effectively. 
 
 ### Solution Overview
 
