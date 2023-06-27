@@ -49,16 +49,16 @@
    d. View Tours Information
    e. Send Enquiries  
 
-6. Classes for Domain Model:
+5. Classes for Domain Model:
    a. User
    b. Tour
    c. Reservation
    d. Payment
    5. EmailNotification
       
-8. Sequence diagram for Cancel Reservation scenario:
+6. Sequence diagram for Cancel Reservation scenario:
+   ![Sequence Diagram](Yutongchai/sd.png)
 
-
-9. activity diagram for Reserve a Tour:
+8. activity diagram for Reserve a Tour:
    ![Activity Diagram](Yutongchai/reserve_tour.png)
     
