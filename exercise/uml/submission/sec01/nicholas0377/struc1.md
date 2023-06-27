@@ -52,7 +52,6 @@ Don't forget to hit the :star: if you like this repo.
            |     |
            v     |
      +-------+   |
-     |  Make |---+
      |Reservation|
      +-------+
 
@@ -80,6 +79,7 @@ Don't forget to hit the :star: if you like this repo.
      +---------+
      | Manager |
      +---------+
+
 
 
 
