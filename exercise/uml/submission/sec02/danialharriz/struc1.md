@@ -7,17 +7,33 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set:
+## Set: Structure 1 
 
-**Name:**
+**Name: Danial Harriz bin Mohd Asineh @ Mohd Asneh**
 
-**Matrix No:**
+**Matrix No: A22EC0152**
 
-**Section:**
+**Section: 02**
 
 ## Answer
 
-1) The agile software develpment model is the most suitable software process model in developing the proposed online tour reservation system for Citra’s travel agency. Agile follows an iterative and incremental approach, where the system is developed in small increments or sprints.So, it is suitable to develop a online reservation system as it allows for delivery continuos response and functionin features. The cuser can also provide feedback at each stage and also enable the development team to develop the changes quickly and efficiently throughout the development process. This ensures that the system remains up-to-date and relevant to the user's needs.
+1) The most suitable software development model is the Agile one. There are a few reasons for this. First, this software development model emphasizes iterative and incremental development where frequent feedback between the development team, and the stakeholders.
+   Next, this model is very suitable for a travel application that relies heavily on user satisfaction as it is a customer-centric approach. The system will definitely be able to meet the user's expectations as the clients will be involved throughout the development process.
+   Lastly, this software process model uses iterative and incremental development which makes it easier to incorporate changes.
+
+2) Functional Requirements :
+   - User Registration
+   - Tour Reservation
+   - Manage Reservation
+  
+   Non-functional Requirements :
+   - Performance of the app
+   - Security
+  
+3) Luqman is an avid traveller who likes to travel the world. He decided for his upcoming vacation, he would use the online tour reservation app that was developed by Citra Tours and Travel Agency. Below is the scenario.
+
+   - luq
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
@@ -26,4 +42,5 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
+
 

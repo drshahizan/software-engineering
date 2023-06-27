@@ -7,15 +7,50 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set:
+## Set: 1
 
-**Name:**
+**Name: THEVAN RAJU A/L JEGANATH**
 
-**Matrix No:**
+**Matrix No: A22EC0286**
 
-**Section:**
+**Section: 02**
 
 ## Answer
+1. The most suitable software process model for developing the proposed online tour reservation system for Citra's travel agency is the Agile methodology, specifically Scrum. Scrum is a highly iterative and flexible approach that emphasizes collaboration, adaptability, and delivering incremental value to the customer. Given the dynamic nature of the travel industry and the need for frequent updates and changes, Scrum provides the necessary flexibility to incorporate evolving requirements and customer feedback throughout the development process. With Scrum, the development team can work in short iterations called sprints, allowing for regular feedback, continuous improvement, and early delivery of working software. This iterative and incremental approach aligns well with the agency's requirement to have a functional system up and running quickly while maintaining the ability to adapt to changing market needs.
+2.
+| **Functional Requirements** |
+|--------------------------------------------------------|
+| 1. User Registration: The system should allow prospective clients to register as users by providing their personal information, including name, contact details, and email address.     |
+| 2. Tour Reservation: Registered clients should be able to browse through the available tours, select a preferred tour, and make a reservation by providing the desired dates, number of participants, and any specific preferences.|
+| 3. Reservation Management: The system should provide the clerk with the ability to view, confirm, and process tour reservations made by clients. The clerk should also be able to update reservation details, such as tour dates, participant count, and special requests.   |
+
+| **Non-Functional Requirements:** |
+|--------------------------------------------------------|
+| 1. Security: The system should ensure secure access and protect sensitive client information. It should implement proper authentication and authorization mechanisms to prevent unauthorized access to client data.     |
+| 2. Performance: The system should be able to handle multiple concurrent users and provide a responsive and seamless user experience, especially during peak reservation periods. It should have fast response times and be scalable to accommodate increasing demand.|
+
+3. ### Scenario: Make a tour reservation
+| Column | Description |
+|-----------------------------|----------------------------------|
+| **Pre-conditions:**         |-  |
+|        |-  |
+|        |-  |
+|                             |-  |
+| **Normal Event(s):**        |-  |
+|                             |-  |
+|                             |-  |
+|                             |-  |
+| **Abnormal Event(s):**      |-  |
+|                             |-  |
+|                             |-  |
+|                             |-  |
+| **Post-conditions:**        |-  |
+|                             |-  |
+4. 
+
+
+
+
 
 
 ## Contribution 🛠️

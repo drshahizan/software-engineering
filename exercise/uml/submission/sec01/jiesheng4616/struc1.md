@@ -16,6 +16,20 @@ Don't forget to hit the :star: if you like this repo.
 **Section:01**
 
 ## Answer
+1. Agile software development model.
+- Agile encourages flexibility and agility to meet changing needs. Agile development process enables the development team to effectively respond to these changes, guaranteeing that the system is current and functional throughout its development lifecycle.
+- Throughout the development process, Agile places a strong emphasis on client participation and cooperation. The application's success depends heavily on the input and feedback of Citra's travel agency, which is the main stakeholder in this situation. The Agile model makes it easier for the client and the development team to communicate often, ensuring that the system satisfies their needs.
+- Agile permits incremental development, which is ideal for a project like an online tour reservation where needs and priorities may change over time. By delivering working software in iterations, it enables the development team to get feedback and make changes as needed.
+
+2. Functional requirement
+- Users should be able to search and filter tours using specified parameters like destination, length, pricing range, departure dates, or tour type.
+- Each tour's specifics, including its destination, length, schedule, lodging alternatives, transportation information, and any added services or facilities, should be displayed in detail by the system.
+- Users should be able to alter information in the system, such as dates, participant numbers, or preferred lodging options, and the cancellation process should be simple.
+
+   Non-functional requirement
+- To ensure simplicity of use for both customers and the clerk, the system should feature an intuitive and user-friendly interface. To help consumers make reservations quickly and without difficulty, it should include clear directions, logical navigation, and well-organized trip information.
+- A variety of users, including those with disabilities, should be able to utilise the system with ease. It should abide by accessibility guidelines, including those that call for alternative text for images, good colour contrast for reading, and keyboard assistance.
+
 
 
 ## Contribution 🛠️
