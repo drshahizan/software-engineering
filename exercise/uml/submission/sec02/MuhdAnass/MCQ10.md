@@ -7,13 +7,13 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set: 10
+## MCQ Set:
 
-**Name:THEVAN RAJU A/L JEGANATH**
+**Name: Anas**
 
-**Matrix No: A22EC0286**
+**Matrix No: A21SC0464**
 
-**Section:02**
+**Section: 02**
 
 ## Answer
 1. A
@@ -29,23 +29,18 @@ Don't forget to hit the :star: if you like this repo.
 11. A
 12. C
 13. A
-14. C
-15. D
-16. D
-17. B
-18. C
+14. D
+15. A
+16. A
+17. C
+18. B
 19. C
-20. C
+20. A
 21. A
 22. C
 23. B
 24. B
 25. D
-    
-
-
-
-
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
@@ -54,9 +49,5 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
-
-
-
 
 

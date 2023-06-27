@@ -17,6 +17,34 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Answer
 
+1. Incremental Development
+Justification: This model can reduce the cost of accommodating changing customer requirements. The amount of analysis and documentation process is reduced and less than the amount required by waterfall model. Secondly, this model helps the development team easier obtain the feedback from customers which customers can review and give opinion on the demo of the software. Thirdly, this model requires rapid delivery and deployment   
+
+
+## Question
+
+1. Identify the most suitable software process model in developing the proposed online tour reservation system for Citra’s travel agency. Justify and give reasons on your chosen process model.[4 marks]
+2. Elicit THREE (3) Functional requirements and TWO (2) Non-Functional requirements for the proposed online tour reservation system. [10 marks]
+3. Scenario is a technique used during requirement elicitation activities to analyse real-life example of how a system can be used. Suggest a suitable scenario for the clients to make reservations who wish to travel on tours. [6 marks]
+
+### Scenario: Make a tour reservation
+
+| Column | Description |
+|-----------------------------|----------------------------------|
+| **Pre-conditions:**         |-  |
+|        |-  |
+|        |-  |
+|                             |-  |
+| **Normal Event(s):**        |-  |
+|                             |-  |
+|                             |-  |
+|                             |-  |
+| **Abnormal Event(s):**      |-  |
+|                             |-  |
+|                             |-  |
+|                             |-  |
+| **Post-conditions:**        |-  |
+|                             |-  |
 
 ## Contribution 🛠️
 
