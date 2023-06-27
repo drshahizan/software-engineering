@@ -18,21 +18,21 @@ Don't forget to hit the :star: if you like this repo.
 ## Answer
 1. The most suitable software process model for developing the proposed online tour reservation system for Citra's travel agency would be the Agile software development model.
 
-   Flexibility: The Agile model allows for flexibility and adaptability throughout the development process. Given that the requirements of the travel agency may change or evolve over time, Agile's iterative and incremental approach enables the development team to quickly respond to those changes and incorporate them into the system.
-   Customer Collaboration: Agile emphasizes continuous collaboration with the customer or client. In this case, Citra's travel agency would be actively involved throughout the development process, providing feedback, clarifying requirements, and ensuring that the system meets their needs effectively.
-   Iterative Development: The Agile model breaks the development process into small iterations or sprints. Each iteration delivers a working increment of the system, allowing the travel agency to review and provide feedback on the system's functionality and make any necessary adjustments or additions.
-   Early Delivery of Value: Agile focuses on delivering working software in shorter cycles. This means that the travel agency can start utilizing and benefiting from the system earlier in the development process, allowing for earlier reservations and improved efficiency in managing tour operations.
+   - Flexibility: The Agile model allows for flexibility and adaptability throughout the development process. Given that the requirements of the travel agency may change or evolve over time, Agile's iterative and incremental approach enables the development team to          quickly respond to those changes and incorporate them into the system.
+   - Customer Collaboration: Agile emphasizes continuous collaboration with the customer or client. In this case, Citra's travel agency would be actively involved throughout the development process, providing feedback, clarifying requirements, and ensuring that the system meets their needs effectively.
+   - Iterative Development: The Agile model breaks the development process into small iterations or sprints. Each iteration delivers a working increment of the system, allowing the travel agency to review and provide feedback on the system's functionality and make any necessary adjustments or additions.
+   - Early Delivery of Value: Agile focuses on delivering working software in shorter cycles. This means that the travel agency can start utilizing and benefiting from the system earlier in the development process, allowing for earlier reservations and improved efficiency in managing tour operations.
 
 2. Functional Requirements:
 
-   User Registration: The system should allow clients to register as users by providing necessary details such as name, contact information, and login credentials.
-   Tour Reservation: The system should provide a user-friendly interface for clients to search for available tours, select desired dates, and make reservations. The system should handle the reservation process, including checking tour availability, capturing payment details, and issuing confirmation receipts.
-   Reservation Management: The system should allow the clerk to view and manage tour reservations made by clients. This includes confirming reservations, updating reservation details if necessary, and generating receipts for clients.
+   - User Registration: The system should allow clients to register as users by providing necessary details such as name, contact information, and login credentials.
+   - Tour Reservation: The system should provide a user-friendly interface for clients to search for available tours, select desired dates, and make reservations. The system should handle the reservation process, including checking tour availability, capturing payment details, and issuing confirmation receipts.
+   - Reservation Management: The system should allow the clerk to view and manage tour reservations made by clients. This includes confirming reservations, updating reservation details if necessary, and generating receipts for clients.
 
    Non-Functional Requirements:
 
-   Security: The system should ensure secure transmission and storage of client and reservation information, including implementing appropriate encryption, access controls, and data protection measures.
-   Performance: The system should be able to handle a large number of concurrent users, providing fast response times and handling peak loads during periods of high demand without significant performance degradation.
+   - Security: The system should ensure secure transmission and storage of client and reservation information, including implementing appropriate encryption, access controls, and data protection measures.
+   - Performance: The system should be able to handle a large number of concurrent users, providing fast response times and handling peak loads during periods of high demand without significant performance degradation.
 
 3. Pre-conditions:
 
