@@ -30,7 +30,9 @@ Don't forget to hit the :star: if you like this repo.
    - Performance of the app
    - Security
   
-3) Luqman is an avid traveller who likes to travel the world. He decided for his upcoming vacation, he would use the online tour reservation app that was developed by Citra Tours and Travel Agency. Below is the suitable scneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+3) Luqman is an avid traveller who likes to travel the world. He decided for his upcoming vacation, he would use the online tour reservation app that was developed by Citra Tours and Travel Agency. Below is the scenario.
+
+   - luq
 
 
 ## Contribution 🛠️
