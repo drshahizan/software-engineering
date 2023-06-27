@@ -140,7 +140,7 @@ Continuous Integration and Testing - Implement continuous integration practices 
 Documentation - Produce srs, sdd and std.
 </p>
 
-<b>the software development life cycle model or any other relevant methodology adopted:</b>
+<b>The software development life cycle model or any other relevant methodology adopted:</b>
 
 <p>The software development life cycle (SDLC) model adopted for the development of the faculty of computing feedback system is Agile method as Agile's benefits lie in its flexibility, stakeholder collaboration, early value delivery, faster time-to-market, and emphasis on continuous improvement and quality. These advantages contribute to the success of the project and the development of a faculty feedback system that effectively addresses the needs of educational institutions and their stakeholders.
 </p>
