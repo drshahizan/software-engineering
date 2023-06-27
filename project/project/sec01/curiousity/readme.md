@@ -38,7 +38,7 @@ Don't forget to hit the :star: if you like this repo.
 ## Documentation
 | No | Name |  File |
 | :-----: |  ------ | :-----: | 
-| 1 | Proposal |  <a href="" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
+| 1 | Proposal |  <a href="" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
 | 2 | System Requirements Specification (SRS)| <a href="" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
 | 3 | System Design Descriptions (SDD) | <a href="" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
 | 4 | System Test Descriptions (STD)| <a href="" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
