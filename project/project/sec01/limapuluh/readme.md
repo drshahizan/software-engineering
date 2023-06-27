@@ -11,6 +11,8 @@ Don't forget to hit the :star: if you like this repo.
 
 # Activity: Group Limapuluh
 
+<img src="https://i.imgur.com/rYx5Yvw.jpg" alt="img" style="width:500px;height:350px">
+
 ## Group Members
 <table>
   <tr>
