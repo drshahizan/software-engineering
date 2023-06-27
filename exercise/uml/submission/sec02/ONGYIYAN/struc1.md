@@ -24,8 +24,7 @@ Reservation Management: The system should allow the clerk to view, confirm, upda
 **Non-Functional Requirements:**
 Security: The system should ensure secure transmission and storage of sensitive information, implementing robust authentication and encryption mechanisms.
 Performance: The system should have fast response times, handle concurrent user interactions, and be available with minimal downtime to provide a seamless user experience.
-3. 
-**Scenario: Mark and Lisa, a couple planning their honeymoon, want to make a reservation for a romantic getaway tour.**
+3. **Scenario: Mark and Lisa, a couple planning their honeymoon, want to make a reservation for a romantic getaway tour.**
 Mark and Lisa visit the Citra Tours & Travel Agency website and explore the "Romantic Getaways" section.
 They select the "Tropical Paradise Retreat" tour package, indicating their desired travel dates and the number of participants.
 The system displays available options, showcasing luxurious resorts, scenic locations, and activities tailored for couples.
