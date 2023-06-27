@@ -36,11 +36,13 @@ Don't forget to hit the :star: if you like this repo.
 </table>
 
 ## Documentation
-| No | Name |File | 
-| -----:| ----- | :------: | 
-|1| Project| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/project.md" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="../../../../../images/drawio.svg" ><img src="" width="24px" height="24px" ></a>|
-|3| Others| <a href="../../../../../images/data_folder.png" ><img src="" width="24px" height="24px" ></a>|
+| No | Name |  File |
+| :-----: |  ------ | :-----: | 
+| 1 | Proposal |  <a href="" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
+| 2 | System Requirements Specification (SRS)| <a href="" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
+| 3 | System Design Descriptions (SDD) | <a href="" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
+| 4 | System Test Descriptions (STD)| <a href="" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
+| 5 | Figma |  <a href="" ><img src="./images/figma.svg" width="24px" height="24px" ></a> |  
 
 # KTDI Event Management System
 ### 💫Table of Contents
