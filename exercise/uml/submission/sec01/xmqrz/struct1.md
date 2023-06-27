@@ -59,8 +59,9 @@ If the payment validation fails, the client is notified and prompted to provide 
 Post-conditions:
 
 The client receives a confirmation email with the tour reservation details and payment information.
-Use Case Diagram:
-![image](https://github.com/drshahizan/software-engineering/assets/129279940/3770b983-9ccf-4f05-9e42-1570ab5b9ee1)
+
+<p>Use Case Diagram:
+![image](https://github.com/drshahizan/software-engineering/assets/129279940/3770b983-9ccf-4f05-9e42-1570ab5b9ee1)</p>
 
 
 Domain Model Classes:
@@ -70,13 +71,10 @@ Reservation
 Payment
 Receipt
 Sequence Diagram for Cancel Reservation:
-![image](https://github.com/drshahizan/software-engineering/assets/129279940/0277c5a0-2054-42b2-996d-20fb38ebe580)
+![image](https://github.com/drshahizan/software-engineering/assets/129279940/0277c5a0-2054-42b2-996d-20fb38ebe580)</p>
 
-
-Activity Diagram for Reserve a Tour:
-![image](https://github.com/drshahizan/software-engineering/assets/129279940/8a5c074b-84b2-4324-ab07-7d0260126441)
-
-
+<p>Activity Diagram for Reserve a Tour:
+![image](https://github.com/drshahizan/software-engineering/assets/129279940/8a5c074b-84b2-4324-ab07-7d0260126441)</p>
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
