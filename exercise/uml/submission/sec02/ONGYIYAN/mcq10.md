@@ -1,8 +1,8 @@
-## MCQ Set:
+## MCQ Set: 10
 
-**Name:** Nur Arini Fatihah Binti Mohd Sabir
+**Name:** Ong Yi Yan
 
-**Matrix No:** A22EC0244
+**Matrix No:** A22EC0101
 
 **Section:** 02
 
@@ -13,7 +13,7 @@
 4. C
 5. C
 6. B
-7. D
+7. A
 8. D
 9. A
 10. B
@@ -24,12 +24,12 @@
 15. D
 16. D
 17. B
-18. C
+18. B
 19. C
 20. C
-21. D
-22. C
-23. B
+21. C
+22. A
+23. C
 24. B
-25. D
+25. B
 
