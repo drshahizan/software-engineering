@@ -20,19 +20,20 @@ Don't forget to hit the :star: if you like this repo.
 1) The most suitable software process model for developing the proposed online tour reservation system for Citra's travel agency is the Agile model becauseAgile model encourages iterative development, which enables the system to be developed in small phases or iterations. This is useful for an online tour reservation system since it enables the company to immediately launch a usable product and then continuously add new features and upgrades depending on customer feedback and modifying requirements. It enables a quicker time-to-market and guarantees that the system is current and in line with customer demands. Other than that, Flexibility and adaptability is one of the benefits. The Agile methodology is well known for being able to change with the needs of the project. Customer expectations, market trends, and tour information can change quickly in the tourism sector. The development team may quickly incorporate modifications and updates into the system by using the Agile a model. It enables frequent iterations, ongoing development, and the capacity to act quickly in response to market circumstances. 
 2) Functional Requirements:
 
-1. User Registration: The system should allow clients to register and create an account. This requirement involves capturing and storing client information such as name, contact details, and login credentials.
+- User Registration: The system should allow clients to register and create an account. This requirement involves capturing and storing client information such as name, contact details, and login credentials.
 
-2. Tour Reservation: The system should provide functionality for clients to search for available tours, select a desired tour, and make a reservation. This requirement includes capturing details such as tour dates, number of participants, and any specific preferences.
+- Tour Reservation: The system should provide functionality for clients to search for available tours, select a desired tour, and make a reservation. This requirement includes capturing details such as tour dates, number of participants, and any specific preferences.
 
-3. Reservation Cancellation: The system should allow clients to cancel their tour reservations if needed. This requirement involves providing a cancellation feature that updates the reservation status and availability of the tour.
+- Reservation Cancellation: The system should allow clients to cancel their tour reservations if needed. This requirement involves providing a cancellation feature that updates the reservation status and availability of the tour.
 
 Non-Functional Requirements:
 
-1. Usability: The system should have a user-friendly interface that is easy to navigate and understand. It should provide clear instructions, intuitive controls, and a visually appealing design to enhance the user experience.
+- Usability: The system should have a user-friendly interface that is easy to navigate and understand. It should provide clear instructions, intuitive controls, and a visually appealing design to enhance the user experience.
 
-2. Security: The system should ensure the security and confidentiality of client information. This includes secure storage of personal data, encryption of sensitive information, and secure communication protocols to protect against unauthorized access or data breaches. Additionally, access to sensitive operations, such as reservation cancellation, should be properly authenticated and authorized.
+- Security: The system should ensure the security and confidentiality of client information. This includes secure storage of personal data, encryption of sensitive information, and secure communication protocols to protect against unauthorized access or data breaches. Additionally, access to sensitive operations, such as reservation cancellation, should be properly authenticated and authorized.
 
 3) Scenario
+   
 Pre-conditions:
 - The client has registered and logged into the system.
 - The system has available tour options.
@@ -53,6 +54,7 @@ Post-conditions:
 - The tour reservation is successfully made or an appropriate error message is displayed.
 - The client has the option to make another reservation or perform other actions in the system.
 - The system maintains the updated availability status of the tours.
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

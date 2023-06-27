@@ -75,6 +75,29 @@ Post-conditions:
 1-The client successfully makes a tour reservation.
 
 2-The client receives a receipt containing payment and reservation details.
+## Q4
+Actors:
+
+Client
+
+Clerk
+
+Manager
+
+Use Cases:
+
+Register Account
+
+Log In
+
+Search for Tour
+
+Make Reservation
+
+Cancel Reservation
+
+<img src="https://raw.githubusercontent.com/MuhammadImanFirdaus/Photos/main/se.png" alt=""/></a>
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
 

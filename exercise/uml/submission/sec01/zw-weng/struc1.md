@@ -16,7 +16,7 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 01**
 
 ## Answer
-
+1. Waterfall model is the most suitable software process model.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

@@ -28,6 +28,19 @@ Don't forget to hit the :star: if you like this repo.
   ii. Performance - The system should be able to handle large number of concurrent users, ensuring fast response times and minimal downtime. It should be able to scale to accommodate increasing user demand without compromising performance.
 
 3.  
+| Column | Description |
+|--------|-------------|
+| Pre-conditions: | The client has acces to a devide with internet connection. |
+|| The client has registered an account |
+| Normal Event(s): | The client logs into their account on the website. |
+|| The client nagivates the "Tours" section to explore available options. |
+|| The client selects a tour of interest and view the pricing. |
+|| The client selects a date and input important details such as personal informations. |
+|| System validates availability of selected options and calculate total cost |
+|| Client proceeds with payment and system process the transaction. |
+|| Reservation details are sent to client through their email. |
+| Abnormal Event(s): | The selected tour is not available due to max capacity or cancellation. An error message is displayed and suggests alternative tour options. |
+| Post-conditions: |  |
 
 
 

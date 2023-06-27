@@ -20,29 +20,69 @@
       The system should ensure the confidentiality and integrity of user data, including login credentials and personal information.
    b. *Performance*
       The system should be able to handle a significant number of concurrent users, providing a responsive and efficient user experience even during peak hours.
-3.
-   | Scenario: Make a tour reservation |
-   | Pre-conditions: |
-   | - The client has registered as a user on the online tour reservation system.
-     - The client has logged in using their credentials. |
-   | Normal Event: |
-   |  - The client searches for available tours based on their preferences, such as destination, dates, or activities.
-     - The system displays a list of suitable tours along with relevant information like itinerary, pricing, and availability.
-     - The client selects a specific tour from the list.
-     - The system prompts the client to enter their ID and password for verification.
-     - The client enters the required information.
-     - The system validates the client's information and confirms the tour reservation.
-     - The system generates an email receipt containing payment details and tour reservation information, which is sent to the client. |
-   | Abnormal Event: |
-   | - The client's login credentials are incorrect or invalid.
-     - The selected tour is no longer available or fully booked.
-     - The client's payment is declined or encounters an error during the transaction. |
-   | Post-conditions: |
-   | - The client receives the email receipt confirming their tour reservation.
-     - The system updates the tour's availability and reservation status accordingly. |
-     - 
 
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+3.
+### Scenario: Make a tour reservation
+| Column | Description |
+|-----------------------------|----------------------------------|
+| **Pre-conditions:**         |- The client has registered as a user on the online tour reservation system |
+|        |- The client has logged in using their credential |
+| **Normal Event(s):**        |- The client searches for available tours based on their preferences, such as destination, dates, or activities. |
+|                             |- The system displays a list of suitable tours along with relevant information like itinerary, pricing, and availability. |
+|                             |- The client selects a specific tour from the list. |
+|                             |- The system prompts the client to enter their ID and password for verification. |
+| **Abnormal Event(s):**      |- The client's login credentials are incorrect or invalid. |
+|                             |- The selected tour is no longer available or fully booked. |
+|                             |- The client's payment is declined or encounters an error during the transaction. |
+| **Post-conditions:**        |- The client receives the email receipt confirming their tour reservation.  |
+|                             |- The system updates the tour's availability and reservation status accordingly.  |
+
+4. Suitable actors:
+   - Client
+   - Clerk
+   - Manager
+     
+   Use case:
+   a. Register as User
+   b. Make Tour Reservation
+   c. Cancel Reservation
+   d. View Tours Information
+   e. Send Enquiries  
+
+6. Classes for Domain Model:
+   a. User
+   b. Tour
+   c. Reservation
+   d. Payment
+   5. EmailNotification
+      
+8. Sequence diagram for Cancel Reservation scenario:
+   Client          System
+  |                 |
+  |    Enter ID     |
+  |   and Password  |
+  |---------------> |
+  |                 |
+  |  Validate User  |
+  |   Information   |
+  | <---------------|
+  |                 |
+  | Display Reservations |
+  | <---------------|
+  |                 |
+  | Choose Reservation   |
+  |   for Cancellation   |
+  |---------------> |
+  |                 |
+  | Update Customer Info |
+  |   (Cancellation)     |
+  |---------------> |
+  |                 |
+  |   Display Updated   |
+  |    Information      |
+  | <---------------|
+
+10. activity diagram for Reserve a Tour: 
+
+   
+    

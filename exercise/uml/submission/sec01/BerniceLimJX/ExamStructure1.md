@@ -7,18 +7,24 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set:
+## Set:1
 
-**Name:**
+**Name:Bernice Lim Jing Xuan**
 
-**Matrix No:**
+**Matrix No:A22EC0038**
 
-**Section:**
+**Section:01**
 
 ## Answer
-
-1) The agile software develpment model is the most suitable software process model in developing the proposed online tour reservation system for Citra’s travel agency. Agile follows an iterative and incremental approach, where the system is developed in small increments or sprints.So, it is suitable to develop a online reservation system as it allows for delivery continuos response and functionin features. The cuser can also provide feedback at each stage and also enable the development team to develop the changes quickly and efficiently throughout the development process. This ensures that the system remains up-to-date and relevant to the user's needs.
-
+<ol>
+  <li>Agile model is the most suitable model to be chosen.This is because agile model supports incremental development.Since the requirements and needs of the travel agency may envolve changes by time , an incremntal development approach allows ofr flexibility in doing changes.
+  Next, the reason choosing agile model is because agile model emphasises customer collaboration throughout the development process.In this case , Citra Tour and Travel Agency and its customer are actively involved in the development process.This may make sure the developed system meets the customer requirements as well.</li>
+  <li><ul>
+    <li>User Registration and Login : The system should allow the customers to reguister their account with the travel agency by providing necessary details such as name ,phone number anmd address and also email,The registred user should be able to loog in to access their account and perform other related actions.</li>
+    <li>Tour reservation: The system should provide an interface for customers to browse and search available tio==ours ,view details and booking for their wanted tours.The system should validate the availability of seats and slots for the selected tour and allow user to select the number of people for booking.</li>
+    <li>Reservation Management: The adminshopuld</li>
+  </ul>
+</ol>
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
 

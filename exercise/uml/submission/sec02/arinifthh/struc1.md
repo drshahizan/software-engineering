@@ -7,10 +7,7 @@
 **Section:** 02
 
 ## Answer
-1. The most suitable software process model for developing the proposed online tour reservation system for Citra's travel agency would be
-   the iterative and incremental model. The iterative and incremental model involves developing software in multiple iterations,
-    where each iteration includes the planning, requirements analysis, design, implementation, and testing phases. This model allows for
-    flexibility and adaptability as it emphasizes the delivery of a working system incrementally.
+1. the suitable software process model for developing the proposed online tour reservation system for Citra's travel agency is the Agile Scrum model.The Agile Scrum model is an iterative and incremental approach that is well-suited for projects with evolving requirements and a need for frequent collaboration and feedback. It consists of short development iterations called sprints, where the development team works on delivering small increments of functionality. 
    
 2. Functional Requirements:
    User Registration: The system should allow prospective clients to register and create user accounts.
@@ -36,8 +33,8 @@
 3. | Column | Description |
 |-----------------------------|----------------------------------|
 | **Pre-conditions:**         |-  |
-|        |-  |
-|        |-  |
+|                             |-  |
+|                             |-  |
 |                             |-  |
 | **Normal Event(s):**        |-  |
 |                             |-  |

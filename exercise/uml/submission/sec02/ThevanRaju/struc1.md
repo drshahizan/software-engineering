@@ -32,10 +32,10 @@ Don't forget to hit the :star: if you like this repo.
 3. ### Scenario: Make a tour reservation
 | Column | Description |
 |-----------------------------|----------------------------------|
-| **Pre-conditions:**         |-  |
-|        |-  |
-|        |-  |
-|                             |-  |
+| **Pre-conditions:**         |- The client has access to Citra Tours & Travel Agency's online reservation system.  |
+|        |-The client has a registered account on Citra Tours & Travel Agency's online reservation system.  |
+|        |-The client has logged into their account using their unique login ID and password.  |
+|                             |-The client has reviewed the available tour options and has selected a specific tour they wish to reserve.  |
 | **Normal Event(s):**        |-  |
 |                             |-  |
 |                             |-  |
