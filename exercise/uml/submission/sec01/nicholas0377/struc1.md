@@ -44,8 +44,7 @@ Don't forget to hit the :star: if you like this repo.
 4.  Suitable actor is Client, Clerk, and Manager. For the use case are Register Account, Make Reservation, Manage Reservation, Update Tour Information, Generate Receipt.
         
 5. Five suitable  classes for the domain model are Client, Tour, Reservation, Clerk, and Receipt.
-
-                 +---------+
+      +---------+
       |  Client |
       +---------+
           |     ^
