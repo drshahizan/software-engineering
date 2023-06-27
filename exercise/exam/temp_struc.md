@@ -9,11 +9,11 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Set:
 
-**Name:LOW JIE SHENG**
+**Name:**
 
-**Matrix No:A22EC0075**
+**Matrix No:**
 
-**Section:01**
+**Section:**
 
 ## Answer
 
