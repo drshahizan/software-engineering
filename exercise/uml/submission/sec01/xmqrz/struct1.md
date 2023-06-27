@@ -65,11 +65,11 @@ The client receives a confirmation email with the tour reservation details and p
 
 
 Domain Model Classes:
-User
-Tour
-Reservation
-Payment
-Receipt
+1. User
+2. Tour
+3. Reservation
+4. Payment
+5. Receipt
 
 ### Sequence Diagram for Cancel Reservation:
 ![image](https://github.com/drshahizan/software-engineering/assets/129279940/0277c5a0-2054-42b2-996d-20fb38ebe580)
