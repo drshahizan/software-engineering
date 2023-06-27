@@ -122,7 +122,7 @@ The primary objective of the Parcel Delivery System is to streamline and enhance
 
 ### Problem Statement
 
-The current parcel delivery process within our organization faces several challenges. Manual tracking and management of parcels result in errors, delays, and inefficiencies. Lack of real-time tracking and communication hampers the ability to provide accurate and timely updates to customers. Additionally, the absence of an integrated system makes it difficult to manage and monitor the entire delivery process effectively. 
+The current parcel delivery process within our organization faces several challenges. Manual tracking and delivery of parcels result in errors, delays, and inefficiencies. Lack of real-time tracking and communication hampers the ability to provide accurate and timely updates to customers. Additionally, the absence of an integrated system makes it difficult to manage and monitor the entire delivery process effectively. 
 
 ### Solution Overview
 
@@ -159,7 +159,7 @@ Several tools, technologies, and frameworks will be employed during the developm
 
 3. Design and Prototyping: Leverage tools like Figma for creating wireframes, mockups, and interactive prototypes. This aids in visualizing and refining the user interface (UI) and user experience (UX) of the system.
 
-4. Front-end Development: Utilize modern front-end technologies such as HTML, CSS, and JavaScript, along with popular frameworks like Bootstrap, to build a responsive and user-friendly web interface for the Parcel Delivery System.
+4. Front-end Development: Utilize modern front-end technologies such as HTML, and CSS, along with popular frameworks like Bootstrap, to build a responsive and user-friendly web interface for the Parcel Delivery System.
 5. Database Management: Utilize a reliable database management system (DBMS) such as MySQL  to store and retrieve data related to parcels, users, delivery details, and other relevant information.
 
 
