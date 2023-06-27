@@ -21,7 +21,8 @@
    b. *Performance*
       The system should be able to handle a significant number of concurrent users, providing a responsive and efficient user experience even during peak hours.
 
-3.### Scenario: Make a tour reservation
+3.
+### Scenario: Make a tour reservation
 | Column | Description |
 |-----------------------------|----------------------------------|
 | **Pre-conditions:**         |- The client has registered as a user on the online tour reservation system |
@@ -35,6 +36,53 @@
 |                             |- The client's payment is declined or encounters an error during the transaction. |
 | **Post-conditions:**        |- The client receives the email receipt confirming their tour reservation.  |
 |                             |- The system updates the tour's availability and reservation status accordingly.  |
+
+4. Suitable actors:
+   - Client
+   - Clerk
+   - Manager
+     
+   Use case:
+   a. Register as User
+   b. Make Tour Reservation
+   c. Cancel Reservation
+   d. View Tours Information
+   e. Send Enquiries  
+
+6. Classes for Domain Model:
+   a. User
+   b. Tour
+   c. Reservation
+   d. Payment
+   5. EmailNotification
+      
+8. Sequence diagram for Cancel Reservation scenario:
+   Client          System
+  |                 |
+  |    Enter ID     |
+  |   and Password  |
+  |---------------> |
+  |                 |
+  |  Validate User  |
+  |   Information   |
+  | <---------------|
+  |                 |
+  | Display Reservations |
+  | <---------------|
+  |                 |
+  | Choose Reservation   |
+  |   for Cancellation   |
+  |---------------> |
+  |                 |
+  | Update Customer Info |
+  |   (Cancellation)     |
+  |---------------> |
+  |                 |
+  |   Display Updated   |
+  |    Information      |
+  | <---------------|
+
+10. activity diagram for Reserve a Tour: 
 
    
     
