@@ -218,7 +218,7 @@ Documentation - Produce srs, sdd and std.
 </table>
 
 ## Testing and Quality Assurance
-# Testing Strategies and Techniques Employed:
+### Testing Strategies and Techniques Employed:
 
 - Functional Testing: This strategy focuses on verifying the functional requirements of the faculty feedback system. Testers design test cases to ensure that all expected functionalities, such as submitting feedback, viewing reports, and generating analytics, work correctly.
 
@@ -228,7 +228,7 @@ Documentation - Produce srs, sdd and std.
 
 - Security Testing: This technique focuses on identifying potential vulnerabilities and weaknesses in the faculty feedback system's security measures. Testers assess the system for any loopholes that could lead to unauthorized access, data breaches, or other security risks. Measures such as encryption, authentication, and access controls are thoroughly tested.
 
-# Types of Testing Conducted:
+### Types of Testing Conducted:
 
 - Unit Testing: This type of testing focuses on testing individual components or modules of the faculty feedback system in isolation. Developers write unit tests to verify the correctness of each unit's behavior, ensuring that it functions as intended.
 
@@ -257,7 +257,7 @@ To ensure the reliability and robustness of the faculty feedback system, the fol
 
 By employing these testing strategies, conducting various types of testing, and implementing robust quality assurance processes, the faculty feedback system can be thoroughly tested, ensuring its reliability, functionality, security, and usability.
 
-# Outcomes and Achievements of the Project:
+### Outcomes and Achievements of the Project:
 
 - Improved Feedback Collection: The faculty feedback system successfully implemented an automated process for collecting feedback from students. This eliminated the need for manual paper-based surveys, resulting in improved efficiency and accuracy in gathering feedback data.
 
@@ -265,7 +265,7 @@ By employing these testing strategies, conducting various types of testing, and 
 
 - Increased Transparency and Accountability: The faculty feedback system fostered transparency and accountability within the educational institution. By providing a platform for students to provide feedback on their learning experiences, it promoted open communication and encouraged faculty members to actively engage in continuous improvement.
 
-# Quantitative and Qualitative Data Demonstrating Success:
+### Quantitative and Qualitative Data Demonstrating Success:
 
 - Increased Feedback Participation: The implementation of the faculty feedback system resulted in a significant increase in feedback participation rates compared to the previous manual process. Quantitative data showed a 30% increase in the number of students providing feedback, indicating improved engagement and willingness to share their opinions.
 
@@ -276,7 +276,7 @@ By employing these testing strategies, conducting various types of testing, and 
 
 
 
-# Feedback from Stakeholders and Users:
+### Feedback from Stakeholders and Users:
 
 - Faculty Feedback: Faculty members appreciated the transparency and constructive feedback provided through the system. They acknowledged the value of student input in identifying strengths and weaknesses in their teaching methods. Faculty members also mentioned that the system helped them understand student expectations better and tailor their approaches accordingly.
 

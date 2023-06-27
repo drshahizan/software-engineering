@@ -232,7 +232,7 @@ Solutions:
 - Analysis
 
 ### 4. Design phase
-- low fidenity
+- low fidelity
 
 ### 5. Design system
 #### Colour Codes

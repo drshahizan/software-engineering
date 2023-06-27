@@ -175,6 +175,7 @@ By leveraging the Agile methodology, we can effectively address the specific req
   - Offer ongoing support and maintenance to address any issues and meet stakeholder demands.
 
 ## 3. Implementation:
+[View our project timeline and tasks](https://github.com/users/drshahizan/projects/19/views/5)
 - Detail the specific tasks and activities undertaken by your group.
 - Provide an overview of the software components or modules developed.
 - Describe any challenges faced during the implementation phase and how you addressed them.
