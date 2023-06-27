@@ -1,10 +1,10 @@
-## MCQ Set: 9
+## MCQ Set:
 
-**Name: CHAI YU TONG**
+**Name:** MUHAMMAD SAFWAN BIN MOHD AZMI
 
-**Matrix No: A22EC0145**
+**Matrix No:** A22EC0221
 
-**Section: 01**
+**Section:** 02
 
 ## Answer
 1. A
@@ -22,4 +22,3 @@
 13. C
 14. D
 15. D
-
