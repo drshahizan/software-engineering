@@ -22,13 +22,13 @@
 |-----------------------------|----------------------------------|
 | **Pre-conditions:**         |- Users must log in the system |
 |                             |- The system should have a list of available tours with relevant information such as dates, destinations, and available seats.  |
-| **Normal Event(s):**        |-  |
-|                             |-  |
-|                             |-  |
-|                             |-  |
-| **Abnormal Event(s):**      |-  |
-|                             |-  |
-|                             |-  |
-|                             |-  |
-| **Post-conditions:**        |-  |
-|                             |-  |
+| **Normal Event(s):**        |-  The user selects the desired tour from the available options. |
+|                             |- The user provides necessary information for the reservation, such as the number of passengers and contact information. |
+|                             |- The system confirms the reservation and provides a booking reference or confirmation number. |
+|                             |- The user proceeds with the payment process to secure the reservation.  |
+|                             |- The system generates a confirmation email or receipt with the reservation details. |
+| **Abnormal Event(s):**      |- The users select the seats or packages which were already booked by other users. |
+|                             |- The user encounters an issue during the payment process, such as declined credit card, transaction timeout, or technical errors with the payment gateway. |
+|                             |- The system may experience technical issues or undergo maintenance in the reservation process.  |
+| **Post-conditions:**        |- The user is successfully making a tour reservation. |
+|                             |- The system updates the availability of seats/packages for the booked tour. |

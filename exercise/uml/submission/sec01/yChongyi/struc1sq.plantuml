@@ -1,0 +1,14 @@
+@startuml
+actor Client
+participant "Reservation System" as System
+
+Client -> System: Enter ID and password
+Client -> System: Validate information
+Client -> System: Request reservations
+System -> System: Retrieve client's reservations
+System --> Client: Display reservations
+Client -> System: Choose reservation to cancel
+Client -> System: Update cancellation
+System -> System: Update customer information
+System --> Client: Display updated information
+@enduml

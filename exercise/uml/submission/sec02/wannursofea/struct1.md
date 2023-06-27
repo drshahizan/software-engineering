@@ -31,9 +31,6 @@ Don't forget to hit the :star: if you like this repo.
 | Column | Description |
 |-----------------------------|----------------------------------|
 | **Pre-conditions:**         |- must have the registration information in the system  |
-|        |-  |
-|        |-  |
-|                             |-  |
 | **Normal Event(s):**        |1. Clients browse the tours availabe based on options and destinations.  
 |                             |2. Clients select a tour that meet their interest and budjet.  |
 |                             |3. System displays the available based on the tour selected. |
@@ -46,6 +43,8 @@ Don't forget to hit the :star: if you like this repo.
 |                             |2. System suggests clients another tour that may interest them |
 | **Post-conditions:**        |1. Clients have make the payment for the reserved tour.  |
 |                             |2. System has confirmed the reservation and make the selected reservation as booked.  |
+
+4. ![Citra](https://github.com/drshahizan/software-engineering/assets/128212534/4805af3d-a745-4e78-b76e-91b8dd959c0f)
 
 
 ## Contribution 🛠️

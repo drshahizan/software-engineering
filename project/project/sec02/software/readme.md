@@ -49,6 +49,12 @@ https://www.canva.com/design/DAFmkBQJ1x0/2QoD64CS4Nz4u8QPskMj5g/edit?utm_content
 ![se 4](https://github.com/drshahizan/software-engineering/assets/129137382/d617e039-3a8e-4c0c-ab63-72380e040e6c)
 ![se 5](https://github.com/drshahizan/software-engineering/assets/129137382/d81aa8bb-af1b-4774-8a1d-8fc4e84d3de7)
 ![se 6](https://github.com/drshahizan/software-engineering/assets/129137382/4631490d-2854-4ee0-a997-696cdf66bc5d)
+![se 7](https://github.com/drshahizan/software-engineering/assets/129137382/64c0bfd1-de8e-42be-a091-32c76ad98192)
+![se 8](https://github.com/drshahizan/software-engineering/assets/129137382/fafa8dde-cd13-4699-9453-7601f162e02b)
+![se 9](https://github.com/drshahizan/software-engineering/assets/129137382/a23ce2aa-d8ea-420a-9be8-36f71a3b0837)
+![se 10](https://github.com/drshahizan/software-engineering/assets/129137382/8c24876d-718c-41d3-926e-6a11d31dfc0a)
+![se 11](https://github.com/drshahizan/software-engineering/assets/129137382/6d1068ae-bd7f-4025-b335-296bdd7b8b8c)
+![se 12](https://github.com/drshahizan/software-engineering/assets/129137382/c0ae1fdb-f84d-4eee-8b06-d62a31c955e6)
 
 
 ## Contribution 🛠️
