@@ -29,7 +29,18 @@ Don't forget to hit the :star: if you like this repo.
 11. A
 12. C
 13. A
-14. 
+14. C
+15. D
+16. D
+17. B
+18. C
+19. C
+20. C
+21. A
+22. C
+23. B
+24. B
+25. D
     
 
 
