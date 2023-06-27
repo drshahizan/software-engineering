@@ -47,7 +47,7 @@ Step 5: Data access logic. The data access logic interacts with the system's dat
 
 9. The business logic compoents tracks the treatments, medications, and other services provided to the patient during their visit or stay at the hospital. It retrives this information from the database through the data access logic component. Then, it applies the appriopriate pricing and cost calculation rules to determine the charges for each treatment, mediacation, or service. The business logic component generates biling details and creates invoices based on the calculated charges.
 
-10. The importance of a inventory management is that it ensures adequate supplies. It ensures the hospital has sufficient supplies to meet patient needs, help prevent shortages, and ensure the items are available when needed for patient care and treatment. Besides. it also allow for emergency preparedness. Hospitla needs a sufficient amount of supplies in case of natural disasters, outbreaks, or any other unforeseen circumstances.
+10. The importance of a inventory management is that it ensures adequate supplies. It ensures the hospital has sufficient supplies to meet patient needs, help prevent shortages, and ensure the items are available when needed for patient care and treatment. Besides. it also allow for emergency preparedness. Hospital needs a sufficient amount of supplies in case of natural disasters, outbreaks, or any other unforeseen circumstances.
 
 The handling of the inventory is first by inventory tracking. The system tracks the availability, location, and status of medical supplies, equipments, and medications. Then system records the usage of the inventory items, tracking the items which are used by whom, and for what purposes. 
 
