@@ -283,13 +283,13 @@ Solutions:
 
 ### 4. Design phase
 #### General Low Fidelity:
-<img src="img/generallowfidenity.jpg" alt="" height="400px"></img>
+<img src="img/generallowfidenity.jpg" alt="" height="500px"></img>
 
 #### JKM Low Fidelity:
-<img src="img/JKMUIlowfidenity.jpg" alt="" height="400px"></img>
+<img src="img/JKMUIlowfidenity.jpg" alt="" height="500px"></img>
 
 #### Staff Low Fidelity:
-<img src="img/staffuilowfidenity.jpg" alt="" height="400px"></img>
+<img src="img/staffuilowfidenity.jpg" alt="" height="500px"></img>
 
 ### 5. Design system
 #### Colour Codes:
