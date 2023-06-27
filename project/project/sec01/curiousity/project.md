@@ -249,6 +249,7 @@ Solutions:
 
 <img src="complete_package_diagram.jpg" alt="package" height="500px"></img>
 
+
 ### 4. Design Phase
 
 #### Low fidenity
