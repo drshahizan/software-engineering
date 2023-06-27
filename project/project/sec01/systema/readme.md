@@ -67,6 +67,15 @@ We are using agile method as this is a software process model that emphasizes it
 <!--- Detail the specific tasks and activities undertaken by your group.
 - Provide an overview of the software components or modules developed.
 - Describe any challenges faced during the implementation phase and how you addressed them. -->
+### First Stakeholer: Jasmine Alisha -  Student Representative Council (SRC)
+![Image](https://user-images.githubusercontent.com/129290170/236827544-b0c72886-55d0-4c0a-9c35-11f7423e0715.jpg)
+
+### Second Stakeholder: Dr.Layla - Senior Lecturer
+![Image](https://user-images.githubusercontent.com/129290170/236829034-0e3369e6-729a-4535-9e51-c98e47ebe17f.jpg)
+
+### Third Stakehodler: Sudashan Rio - Undergraduate Student
+![Image](https://user-images.githubusercontent.com/129236451/238515408-8649c734-92ee-42f7-a27b-4bb271fffdcf.png)
+
 ### Activities and Timeline 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
