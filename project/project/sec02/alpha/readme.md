@@ -13,19 +13,18 @@ Don't forget to hit the :star: if you like this repo.
 * [Table of Contents](#table-of-contents)
 * [Introduction](#introduction)
 * [Objective](#objective)
-* [Problem Statement](#problem-statement-or-the-need-the-project-aims-to-address)
+* [Problem Statement](#problem-statement)
 * [Potential Impact](#significance-and-potential-impact-of-the-project)
 * [Methodology](#2-methodology)
 * [Implementation](#3-implementation)
 * [Timeline process](#timeline-process)
-* [Requirement collection](#requirement-collection)
+* [Design phase and System](#4-design-phase-and-system)
+* [Requirement collection](#5-requirement-collection)
 * [Software components & modules](#software-components-or-modules)
-* [Design phase](#design-phase)
-* [Design system](#design-system)
 * [Challenges](#challenges-faced-and-solutions)
-* [Testing and Quality Assurance](#4-testing-and-quality-assurance)
-* [Results and Archievements](#5-results-and-achievements)
-* [Conclusion](#6-conclusion)
+* [Testing and Quality Assurance](#6-testing-and-quality-assurance)
+* [Results and Archievements](#7-results-and-achievements)
+* [Conclusion](#8-conclusion)
 
 # Activity: Group Alpha
 
@@ -133,24 +132,22 @@ Don't forget to hit the :star: if you like this repo.
 - Database Management: Utilize MySQL as the database management system to store and retrieve data related to rooms, students, reservations, payments, etc.
 
 ## 3. Implementation:
-#### Timeline:
+#### Timeline Process:
 [View our project timeline and tasks](https://github.com/users/drshahizan/projects/18/views/1)
 
 #### Tasks and Activities:
 
-1. Requirement Gathering: The group conducted meetings with college administrators, students, and staff to understand their needs and gather requirements for the room rental system. This involved identifying key features, user roles, and system constraints.
+1. Requirement Gathering: we conducted meetings with college administrators, students, and staff to understand their needs and gather requirements for the room rental system. This involved identifying key features, user roles, and system constraints.
 
-2. System Design: Based on the gathered requirements, the group created a system design that included the three-tier architecture. The design involved defining the data model, user interfaces, application logic, and integration points.
+2. System Design: Based on the gathered requirements, we created a system design that included the three-tier architecture. The design involved defining the data model, user interfaces, application logic, and integration points.
 
-3. Database Design: The group designed the database schema to store information about students, rooms, bookings, payments, and user feedback. This involved creating tables, defining relationships, and establishing data integrity constraints.
+3. Database Design: we designed the database schema to store information about students, rooms, bookings, payments, and user feedback. This involved creating tables, defining relationships, and establishing data integrity constraints.
 
-4. User Interface Development: The group developed the user interfaces for different system stakeholders, including the student registration form, room search and booking interface, payment processing screens, and administrative functions. The interfaces were designed to be intuitive, user-friendly, and responsive.
+4. User Interface Development: we developed the user interfaces for different system stakeholders, including the student registration form, room search and booking interface, payment processing screens, and administrative functions. The interfaces were designed to be intuitive, user-friendly, and responsive.
 
-5. Application Development: The group implemented the application logic using appropriate programming languages and frameworks. This involved developing modules for student registration, room searching and booking, payment processing, room cancellation, user feedback and review, and administrative functions.
+5. Integration and Testing: we integrated the different software components and conducted comprehensive testing to ensure the system's functionality and performance. This involved unit testing, integration testing, and system testing to identify and fix any issues or bugs.
 
-6. Integration and Testing: The group integrated the different software components and conducted comprehensive testing to ensure the system's functionality and performance. This involved unit testing, integration testing, and system testing to identify and fix any issues or bugs.
-
-7. Deployment and User Training: Once the system was tested and deemed stable, the group deployed it to a web server and conducted user training sessions for college staff and students. This ensured that users understood how to use the system effectively and efficiently.
+6. Deployment and User Training: Once the system was tested and deemed stable, the group deployed it to a web server and conducted user training sessions for college staff and students. This ensured that users understood how to use the system effectively and efficiently.
 
 #### Software Components or Modules:
 ##### Use case Diagram
@@ -183,37 +180,109 @@ Don't forget to hit the :star: if you like this repo.
 | Data Integrity                            | Implemented data validation and transaction handling mechanisms to ensure data consistency and integrity.      |
 | System Integration                        | Utilized well-defined APIs, standardized data formats, and thorough integration testing for seamless integration. |
 
+## 4. Design Phase and System
+#### 4.1 Information Architecture
+- Admin
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/(A)Information%20System.png" alt=""/></a>
+- Student
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/(S)Information%20System%20(1).jpg" alt=""/></a>
+#### 4.2 User Flow
+- Admin
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/User%20Flow1.png" alt=""/></a>
+- Student
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/User%20Flow2.png" alt=""/></a>
+
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Prototype Main Menu | <a href="https://www.figma.com/proto/5xL6W7I4NvNIKzQeaiJYiC/Design?type=design&node-id=145-84&scaling=scale-down&page-id=0%3A1&starting-point-node-id=145%3A84&show-proto-sidebar=1" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
+
+#### 4.5 Prototype
+- Sign up / Log in flow
+  <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/log%20in.png" alt=""/></a>
+
+- Student flow
+ <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/Student%20flow.png" alt=""/></a>
+
+- Admin flow
+  <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/admin%20flow.png" alt=""/></a>
+  <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/admin%20room%20avai.png" alt=""/></a>
+
+## 5. Requirement Collection
+### Meeting with stakeholders
+
+#### Meeting with  stakeholder 1 (En. Hamdan bin Abdul Ghani)
+<img src="https://user-images.githubusercontent.com/128108090/237020517-786c33dd-dd00-44ae-bf06-efdc71fb2270.jpg" alt=""  height="350px" weight="200px"/></a>
+
+Venue: Pejabat KTDI M01
+
+Date: 18 April 2023
+
+Time: 2 pm
+
+#### Meeting with stakeholder 2 (Puan Rosnani bt Katip)
+First meeting
+
+<img src="https://user-images.githubusercontent.com/128108090/237021925-f29b22b3-10ce-46c7-b927-3e447dd3cae8.jpg" alt=""  height="350px" weight="200px"/></a>
+
+Venue: Pejabat KTDI M01
+
+Date: 19 April 2023
+
+Time: 2:35 pm
+
+Second meeting
+
+<img src="https://user-images.githubusercontent.com/128160553/240615112-ad98b302-8925-4fd5-a384-5041335f1785.jpg" alt="" height="350px" weight="200px"/></a>
+
+Venue: Pejabat KTDI M01
+
+Date: 24 May 2023
+
+Time: 3:30 pm
+
+#### Meeting with stakeholder 3 (Jevanaraj A/L Balasuntharam)
+<img src="https://user-images.githubusercontent.com/128107791/239741938-94169d51-2815-41e0-b170-b341ea53cdfe.png" alt="" height="350px" weight="200px"/></a>
+
+Venue: Webex meet 
+
+Date: 21/5/2023
+
+Time: 8.30pm
 
 
-## 4. Testing and Quality Assurance:
+## 6. Testing and Quality Assurance:
 Testing and quality assurance play a crucial role in ensuring the reliability and robustness of the software. The following are the testing strategies and techniques employed in the project. 
 
-### 1. Testing Strategies and Techniques:
-- Black Box Testing: This technique focuses on testing the system's functionality without considering its internal implementation. It ensures that the system meets the specified requirements.
-- White Box Testing: This technique involves examining the internal structure and logic of the software. It ensures that all paths and components of the system are tested thoroughly.
-- Integration Testing: This strategy verifies the interaction and compatibility between different system modules to ensure that they work seamlessly together.
-- User Acceptance Testing (UAT): UAT involves testing the system from the end-users perspective to validate if it meets their requirements and expectations.
+#### 6.1 Testing Strategies and Techniques
 
-The types of testing conducted in the KTDI College Room Rental system are as followed: 
+| Strategy                         | Technique                                        |
+|----------------------------------|--------------------------------------------------|
+| Black Box Testing                | Testing the system's functionality               |
+| White Box Testing                | Examining the internal structure and logic       |
+| Integration Testing              | Verifying interaction between system modules     |
+| User Acceptance Testing (UAT)    | Testing from the end-users perspective           |
 
-### 2. Types of Testing Conducted:
-- Unit Testing: Focuses on testing individual components or units of code to verify their correctness and functionality
-- Integration Testing: To ensures that different system modules integrate and function correctly when combined
-- System Testing: This comprehensive testing verifies the behavior and functionality of the entire system as a whole
-- Usability Testing: Usability testing evaluates the system's user-friendliness and assesses how easily users can navigate and interact with the system
-- Regression Testing: This testing is performed after system changes or updates to ensure that existing functionalities have not been affected
+#### 6.2 Types of Testing Conducted
+
+| Type of Testing    | Description                                                            |
+|--------------------|------------------------------------------------------------------------|
+| Unit Testing       | Testing individual components or units of code                          |
+| Integration Testing| Verifying the integration and compatibility between system modules       |
+| System Testing     | Comprehensive testing of the entire system as a whole                    |
+| Usability Testing  | Evaluating the user-friendliness and ease of use of the system           |
+| Regression Testing | Ensuring existing functionalities have not been affected by changes      |
 
 In order to ensure the reliability and robustness of the software, quality assurance processes have been implemented.
 
-### 3. Quality Assurance Processes:
+#### 6.3 Quality Assurance Processes:
 - Continuous Integration (CI) is implemented to automatically build, test and integrate code changes into a shared repository. It helps detect and address integration issues early on
 - Regular checkpoints are established during the development process to ensure that quality standards are met at each stage
 - Thorough documentation is created to guide users and developers, ensuring clarity and consistency in system usage and maintenance
 
 
 
-## 5. Results and Achievements:
-The Kolej Tun Dr. Ismail (KTDI) College room rental system project has yielded significant outcomes and achievements. The software solution successfully streamlined the room rental process, improving efficiency and user satisfaction. Here are some key results:
+## 7. Results and Achievements:
+The Kolej Tun Dr. Ismail (KTDI) College room rental system project has yielded significant outcomes and achievements. The software solution successfully streamlined the room rental process, improving efficiency and user satisfaction.
 
 - Increased Efficiency: The automated system significantly reduced the time and effort required for room allocation, payment processing, and administrative tasks. This led to improved productivity for college administrators and a smoother experience for students.
 
@@ -230,7 +299,7 @@ The Kolej Tun Dr. Ismail (KTDI) College room rental system project has yielded s
 - Students expressed satisfaction with the ease of finding and booking rooms based on their preferences and availability.
 - College administrators appreciated the streamlined administrative processes, reduced paperwork, and improved coordination among departments.
   
-#### feedback received from stakeholders or users during the evaluation process.
+#### Feedback received from stakeholders or users during the evaluation process.
 During the evaluation process, stakeholders and users provided valuable feedback on the system. Some key feedback points include:
 
 1. Students praised the system for its user-friendly interface, which made it convenient to browse available rooms, view details, and complete bookings.
@@ -240,11 +309,9 @@ During the evaluation process, stakeholders and users provided valuable feedback
 3. Some users suggested incorporating additional features, such as roommate matching algorithms based on preferences and shared interests, to further enhance the user experience.
 
 
-- Present the outcomes and achievements of the project.
-- Share any quantitative or qualitative data that demonstrates the success of the software solution.
-- Discuss any feedback received from stakeholders or users during the evaluation process.
 
-## 6. Conclusion:
+
+## 8. Conclusion:
 
   In conclusion, the Kolej Tun Dr. Ismail (KTDI) College room rental system project aimed to simplify the room rental process by developing a web-based system. Throughout the project, we faced challenges in gathering requirements, managing system complexity, integrating data, and designing a user-friendly interface. However, we overcame these challenges by maintaining clear and continuous communication with stakeholders, conducting thorough planning and documentation, adopting an agile development approach, and prioritizing user-centric design.
 
@@ -254,9 +321,6 @@ Looking to the future, we recommend enhancing the payment and billing system wit
 
 By leveraging the project experience and applying the lessons learned, the KTDI College room rental system can continue to evolve, providing a streamlined and user-friendly experience for students and staff.
 
-- Summarize the overall project experience and lessons learned.
-- Reflect on the challenges faced and how they were overcome.
-- Highlight any future improvements or recommendations for further development.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

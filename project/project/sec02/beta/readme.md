@@ -142,10 +142,10 @@ By leveraging the Agile methodology, we can effectively address the specific req
 </div>
 
 1. Planning Phase:
-  - Identify project scope, objectives, stakeholders.
-  - Establish timeline, milestones, and allocate resources.
-  - Develop a blueprint and create a Gantt chart.
-  - Led by the project manager.
+  - The project scope, objectives, and stakeholders are identified and defined.
+  - A timeline is established, along with milestones and resource allocation.
+  - A blueprint is developed, and a Gantt chart is created to visualize the project plan.
+  - The project manager takes the lead in overseeing these activities
 2. Requirements Gathering and Analysis Phase::
   - Engage with stakeholders to understand their needs and priorities.
   - Document user requirements and translate them into actionable user stories.
@@ -175,6 +175,7 @@ By leveraging the Agile methodology, we can effectively address the specific req
   - Offer ongoing support and maintenance to address any issues and meet stakeholder demands.
 
 ## 3. Implementation:
+[View our project timeline and tasks](https://github.com/users/drshahizan/projects/19/views/5)
 - Detail the specific tasks and activities undertaken by your group.
 - Provide an overview of the software components or modules developed.
 - Describe any challenges faced during the implementation phase and how you addressed them.
@@ -220,3 +221,13 @@ During the project, we encountered several challenges that required careful navi
 To optimize the food ordering system, it is crucial to focus on teamwork, stakeholder engagement, and system enhancements. Effective collaboration among team members through project management tools and regular communication ensures a cohesive approach. Engaging stakeholders through thorough interviews and involving them in the design process leads to a system that caters to their specific needs. Continual enhancements, such as personalization features and streamlined processes, based on user feedback, ensure an optimal user experience. By integrating teamwork, stakeholder engagement, and system improvements, the food ordering system can evolve and deliver a seamless and satisfying experience for users while meeting stakeholders' expectations.
 
 In conclusion, to optimize the food ordering system, it is essential to prioritize teamwork, stakeholder engagement, and user-centric improvements. By fostering effective collaboration, engaging stakeholders throughout the design process, and enhancing the system based on user feedback, a more cohesive and user-friendly experience can be achieved. This approach not only benefits the team by promoting collaboration and flexibility but also ensures that the food ordering system meets stakeholders' expectations and delivers a seamless and satisfying experience to users.
+
+## 7. Figma:
+<a href="https://www.figma.com/proto/kKC8pg0ilTBncv1txpu6Yp/Login-(Community)?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1" target="_blank">
+  <span style="pointer-events: none;">
+    <img src="https://logowik.com/content/uploads/images/figma.jpg" alt="Figma Logo" width="24px" height="24px">
+  </span>
+  Our Prototype in Figma Platform
+</a>
+
+
