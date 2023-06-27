@@ -17,4 +17,18 @@
    1. Security. The system should employ strong security measures to protect user personal data and financial transactions.
    2. Performance. The system should be able to handle multiple concurrent user requests without any significant delay.
 
-
+3. ### Scenario: Make a tour reservation
+| Column | Description |
+|-----------------------------|----------------------------------|
+| **Pre-conditions:**         |- Users must log in the system |
+|                             |- The system should have a list of available tours with relevant information such as dates, destinations, and available seats.  |
+| **Normal Event(s):**        |-  |
+|                             |-  |
+|                             |-  |
+|                             |-  |
+| **Abnormal Event(s):**      |-  |
+|                             |-  |
+|                             |-  |
+|                             |-  |
+| **Post-conditions:**        |-  |
+|                             |-  |
