@@ -7,13 +7,13 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ Set:
+## MCQ Set: 10
 
-**Name:**
+**Name: Nicole Lim Tze Yee**
 
-**Matrix No:**
+**Matrix No: A22EC0123**
 
-**Section:**
+**Section: 01**
 
 ## Answer
 1. a
