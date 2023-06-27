@@ -155,7 +155,16 @@ The followings are the specific tools, technologies, or frameworks which are emp
   </tr>
 </table>
 
+<div>
 <img src= "https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/stakeholder%20hamdan.jpg?raw=true" style="max-width:100%;">
+</div>
+
+<div>
+<img src= "https://github.com/drshahizan/software-engineering/assets/118497269/2f5d9f58-c06e-4c21-8408-f7c2aeafec0d" style="max-width:100%;">
+</div>
+
+<div>
+<img src= "https://github.com/drshahizan/software-engineering/assets/118497269/147ca606-6bbc-46d9-8df7-f15e13278204" style="max-width:100%;">
 </div>
 
 ### Software Components/Modules:
