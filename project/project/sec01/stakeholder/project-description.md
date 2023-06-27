@@ -329,6 +329,10 @@ By implementing these quality assurance processes, we strive to deliver a reliab
   <img src="https://inforgala.com/wp-content/uploads/2022/01/64843-web-development.gif" width="300" height="200"/>
 </div>
 
-- Summarize the overall project experience and lessons learned.
-- Reflect on the challenges faced and how they were overcome.
-- Highlight any future improvements or recommendations for further development.
+Throughout this project, we have successfully designed a user friendly Student Accommodation System for our client, Kolej Tun Dr Ismail (KTDI) which will improve the satisfactory and user experience of our end-users in managing and applying hostel. The overall project experience was both challenging and rewarding, as we embarked on a journey to create a solution that caters to the needs of students and other stakeholders.
+
+In terms of lessons learned, effective project management and communication were crucial to project success. Regular team meetings, clear task allocation, and effective coordination helped us stay on track and meet project milestones. We also learned the importance of adaptability and flexibility in accommodating changes and unforeseen circumstances. Our ability to adapt and adjust our plans allowed us to overcome obstacles and ensure the project's successful completion.
+
+One of the main challenges we faced was gathering and understanding the requirements of various stakeholders. This involved extensive communication and collaboration with students, administrators, and other relevant parties. By actively engaging with them and conducting thorough requirement gathering sessions, we were able to gain a comprehensive understanding of their expectations and incorporate them into the system design.
+
+Looking ahead, there are several recommendations for further development and improvement of the student accommodation system. First, enhancing the user experience should be a priority. This can be achieved by gathering continuous feedback from users, conducting usability testing, and implementing user-centered design principles. By understanding the needs and preferences of the end-users, we can refine the user interface, streamline workflows, and create a more intuitive and efficient system. For example, via implementing additional features, such as system notifications, could enhance the system's functionality and convenience for users. It is also essential to prioritize ongoing maintenance and support to address any technical issues that may arise and ensure the system's long-term reliability.
