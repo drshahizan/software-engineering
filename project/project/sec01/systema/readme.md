@@ -58,11 +58,11 @@ Overall, the development of a student engagement website aligns with the evolvin
 
 ## 2. Methodology:
 ### Software Process Model
-<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Systema/agile.png" height="50%" width="50%">
-We are using agile method as this is a software process model that emphasizes iterative and incremental development, flexibility, and collaboration between team members and stakeholders. It is particularly suitable for projects where the requirements are likely to evolve over time.
 <!--- Describe the approach and methodologies utilized to tackle the project.
  Explain the software development life cycle model or any other relevant methodology adopted.
  Highlight any specific tools, technologies, or frameworks employed during the project. -->
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Systema/agile.png" height="50%" width="50%">
+We are using agile method as this is a software process model that emphasizes iterative and incremental development, flexibility, and collaboration between team members and stakeholders. It is particularly suitable for projects where the requirements are likely to evolve over time.
 
 ## 3. Implementation:
 <!--- Detail the specific tasks and activities undertaken by your group.
