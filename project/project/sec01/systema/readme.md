@@ -57,7 +57,8 @@ Overall, the development of a student engagement website aligns with the evolvin
 
 
 ## 2. Methodology:
-![https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Systema/agile.png]
+### Software Process Model
+![Agile](https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Systema/agile.png)
 We are using agile method as this is a software process model that emphasizes iterative and incremental development, flexibility, and collaboration between team members and stakeholders. It is particularly suitable for projects where the requirements are likely to evolve over time.
 <!--- Describe the approach and methodologies utilized to tackle the project.
  Explain the software development life cycle model or any other relevant methodology adopted.
@@ -69,7 +70,7 @@ We are using agile method as this is a software process model that emphasizes it
 - Describe any challenges faced during the implementation phase and how you addressed them. -->
 ### First Stakeholer: Jasmine Alisha -  Student Representative Council (SRC)
 ![Image](https://user-images.githubusercontent.com/129290170/236827544-b0c72886-55d0-4c0a-9c35-11f7423e0715.jpg)
-
+<img src="https://user-images.githubusercontent.com/129290170/236827544-b0c72886-55d0-4c0a-9c35-11f7423e0715.jpg" height="30%" width="60%">
 ### Second Stakeholder: Dr.Layla - Senior Lecturer
 ![Image](https://user-images.githubusercontent.com/129290170/236829034-0e3369e6-729a-4535-9e51-c98e47ebe17f.jpg)
 
