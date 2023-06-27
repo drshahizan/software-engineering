@@ -236,6 +236,9 @@ High Fidelity Wireframes:
 
 ![Screenshot 2023-06-27 071714](https://github.com/drshahizan/software-engineering/assets/128214992/f6fcc6f0-f97b-4430-8ece-8c5c03ff1b87)
 
+Figma Prototyping:
+
+<a href="[https://www.figma.com/proto/j19tAaFoStbu6fxeleYlf3/KTDI-Event-Management-System?page-id=27%3A7&type=design&node-id=24-85&viewport=326%2C-303%2C0.04&scaling=scale-down&starting-point-node-id=24%3A85&mode=design](https://www.figma.com/proto/DBtAK206tikRXizDURZSSs/Academic-Consultation-System-UI%2FUX-(Community)?type=design&node-id=125-697&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A275&mode=design)"><img src="figma.jpg" width="50px" height="50px" ></a>
 
 Design System & Typography:
 
