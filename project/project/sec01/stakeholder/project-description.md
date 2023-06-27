@@ -320,15 +320,17 @@ By implementing these quality assurance processes, we strive to deliver a reliab
   <img src="https://www.drsandeeppatil.com/static/media/6.6620ed2b.gif" width="300" height="200"/>
 </div>
 
-- Present the outcomes and achievements of the project.
-- Share any quantitative or qualitative data that demonstrates the success of the software solution.
-- Discuss any feedback received from stakeholders or users during the evaluation process.
+Outcomes: [KTDI Student Accommodation System](https://www.figma.com/proto/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=1058-6947&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1058%3A6947&mode=design)
 
 ## Conclusion:
 <div id="header" align="center">
   <img src="https://inforgala.com/wp-content/uploads/2022/01/64843-web-development.gif" width="300" height="200"/>
 </div>
 
-- Summarize the overall project experience and lessons learned.
-- Reflect on the challenges faced and how they were overcome.
-- Highlight any future improvements or recommendations for further development.
+Throughout this project, we have successfully designed a user friendly Student Accommodation System for our client, Kolej Tun Dr Ismail (KTDI) which will improve the satisfactory and user experience of our end-users in managing and applying hostel. The overall project experience was both challenging and rewarding, as we embarked on a journey to create a solution that caters to the needs of students and other stakeholders.
+
+In terms of lessons learned, effective project management and communication were crucial to project success. Regular team meetings, clear task allocation, and effective coordination helped us stay on track and meet project milestones. We also learned the importance of adaptability and flexibility in accommodating changes and unforeseen circumstances. Our ability to adapt and adjust our plans allowed us to overcome obstacles and ensure the project's successful completion.
+
+One of the main challenges we faced was gathering and understanding the requirements of various stakeholders. This involved extensive communication and collaboration with students, administrators, and other relevant parties. By actively engaging with them and conducting thorough requirement gathering sessions, we were able to gain a comprehensive understanding of their expectations and incorporate them into the system design.
+
+Looking ahead, there are several areas where the student accommodation system can be further improved. User feedback and continuous evaluation should be solicited to identify areas of improvement and enhance user experience. Implementing additional features, such as AI user chatbox integration or room application notifications, could enhance the system's functionality and convenience for users. It is also essential to prioritize ongoing maintenance and support to address any technical issues that may arise and ensure the system's long-term reliability.

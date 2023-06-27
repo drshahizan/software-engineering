@@ -1,8 +1,8 @@
-## MCQ Set: 9
+## MCQ Set:
 
-**Name:** Koh Su Xuan
+**Name:** Nur Arini Fatihah Binti Mohd Sabir
 
-**Matrix No:** A22EC0060
+**Matrix No:** A22EC0244
 
 **Section:** 02
 
@@ -15,7 +15,7 @@
 6. C
 7. A
 8. A
-9. C
+9. B
 10. D
 11. A
 12. B

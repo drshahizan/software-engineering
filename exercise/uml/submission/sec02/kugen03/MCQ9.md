@@ -1,10 +1,10 @@
 ## MCQ Set: 9
 
-**Name:** Koh Su Xuan
+**Name: Kugen a/l Kalidas**
 
-**Matrix No:** A22EC0060
+**Matrix No:A22EC0178**
 
-**Section:** 02
+**Section:02**
 
 ## Answer
 1. A
@@ -15,8 +15,8 @@
 6. C
 7. A
 8. A
-9. C
-10. D
+9. B
+10.D
 11. A
 12. B
 13. C

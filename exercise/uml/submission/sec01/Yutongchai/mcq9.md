@@ -1,10 +1,10 @@
 ## MCQ Set: 9
 
-**Name:** Koh Su Xuan
+**Name: CHAI YU TONG**
 
-**Matrix No:** A22EC0060
+**Matrix No: A22EC0145**
 
-**Section:** 02
+**Section: 01**
 
 ## Answer
 1. A
@@ -15,10 +15,11 @@
 6. C
 7. A
 8. A
-9. C
+9. B
 10. D
 11. A
 12. B
 13. C
 14. D
 15. D
+
