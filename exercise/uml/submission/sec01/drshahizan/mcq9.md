@@ -10,84 +10,51 @@ Don't forget to hit the :star: if you like this repo.
 ## MCQ 9
 
 ## Answer
-### Structural UML Diagrams:
 
-1. Which UML diagram represents the structure and relationships between classes in the Online Shopping System?
-   - **Answer: b. Class diagram.**
+1. Which view in the 4 + 1 View Model of software architecture focuses on the functionality and behavior of the system?
+   - Answer: a. Logical View
 
-2. What does the class diagram illustrate in the Online Shopping System?
-   - **Answer: c. The relationships between classes and their attributes.**
+2. Which view in the 4 + 1 View Model of software architecture concentrates on the software development aspects of the application?
+   - Answer: b. Development View
 
-3. Which UML diagram showcases the organization and dependencies of system components?
-   - **Answer: b. Component diagram.**
+3. Which view in the 4 + 1 View Model of software architecture illustrates the dynamic behavior of the system?
+   - Answer: c. Process View
 
-4. What is the purpose of the object diagram in the Online Shopping System?
-   - **Answer: c. To represent instances of classes and their relationships at a specific time.**
+4. Which view in the 4 + 1 View Model of software architecture deals with the deployment and distribution of the system components?
+   - Answer: d. Physical View
 
-5. Which diagram would be most suitable for modeling the physical deployment of software components onto hardware nodes?
-   - **Answer: d. Deployment diagram.**
+5. Which view in the 4 + 1 View Model of software architecture focuses on capturing the functional requirements of the system from the user's perspective?
+   - Answer: d. Use Case View
 
-### Behavioral UML Diagrams:
+6. The logical view of the online shopping application includes components such as:
+   - Answer: c. Shopping cart and product catalog
 
-6. What is the purpose of the activity diagram in the Online Shopping System?
-   - **Answer: c. To represent the flow of activities within the system.**
+7. The development view of the online shopping application includes components such as:
+   - Answer: a. Code modules and development tools
 
-7. Which UML diagram represents the interaction between objects over time?
-   - **Answer: d. Sequence diagram.**
+8. The process view of the online shopping application illustrates:
+   - Answer: a. The flow of activities when a user adds items to the cart
 
-8. In the sequence diagram, what does the arrow represent?
-   - **Answer: c. The interaction between objects.**
+9. The physical view of the online shopping application deals with:
+   - Answer: b. The hardware and network infrastructure
 
-9. What is the purpose of the state diagram in the Online Shopping System?
-   - **Answer: d. To illustrate the behavior of an object or system over time.**
+10. The use case view of the online shopping application focuses on:
+    - Answer: d. The functional requirements from the user's perspective
 
-10. Which UML diagram showcases the timing constraints and behavior of objects in the Online Shopping System?
-    - **Answer: c. Timing diagram.**
+11. Which view ensures that the application's functionality is well-organized and easy to maintain?
+    - Answer: a. Logical View
 
-11. Which diagram is most suitable for representing the flow of activities within a use case in the Online Shopping System?
-    - **Answer: c. Activity diagram.**
+12. Which view ensures that the application is built using best practices and facilitates collaboration among developers?
+    - Answer: b. Development View
 
-12. What does the use case diagram illustrate in the Online Shopping System?
-    - **Answer: d. The interactions between actors and the system's functionality.**
+13. Which view showcases the flow of activities when a user adds items to the cart, proceeds to checkout, and completes the purchase?
+    - Answer: c. Process View
 
-13. Which UML diagram is used to represent the structure and relationships between classes in the Online Shopping System?
-    - **Answer: b. Class diagram.**
+14. Which view describes the server architecture, load balancing mechanisms, and database servers?
+    - Answer: d. Physical View
 
-14. What is the purpose of the communication diagram in the Online Shopping System?
-    - **Answer: c. To represent instances of classes and their relationships at a specific time.**
-
-15. Which UML diagram showcases the organization and dependencies of system components in the Online Shopping System?
-    - **Answer: b. Component diagram.**
-
-16. In the class diagram, what does the association represent?
-    - **Answer: d. A relationship between classes.**
-
-17. What is the purpose of the composite structure diagram in the Online Shopping System?
-    - **Answer: b. To show the internal structure of a class, including its parts and collaborations.**
-
-18. Which UML diagram represents the physical deployment of software components onto hardware nodes in the Online Shopping System?
-    - **Answer: d. Deployment diagram.**
-
-19. What does the object diagram illustrate in the Online Shopping System?
-    - **Answer: c. Instances of classes and their relationships at a specific time.**
-
-20. Which diagram is most suitable for modeling the detailed steps and interactions during the purchase transaction in the Online Shopping System?
-    - **Answer: c. Activity diagram.**
-
-21. What is the purpose of the timing diagram in the Online Shopping System?
-    - **Answer: c. To represent the timing constraints and behavior of objects.**
-
-22. Which UML diagram represents the flow of activities within the Online Shopping System?
-    - **Answer: c. Activity diagram.**
-
-23. In the sequence diagram, what does the lifeline represent?
-    - **Answer: d. The lifespan of an object.**
-
-24. What is the purpose of the interaction overview diagram in the Online Shopping System?
-    - **Answer: d. To illustrate the interactions and control flow between objects.**
-
-25. Which UML diagram showcases the behavior and transitions of an object or system in the Online Shopping System?
-    - **Answer: d. State diagram.**
+15. Which view focuses on capturing the functional requirements of the system from the user's perspective?
+    - Answer: d. Use Case View
 
 
 ## Contribution 🛠️
