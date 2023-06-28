@@ -68,16 +68,8 @@ We are using agile method as this is a software process model that emphasizes it
 <!--- Detail the specific tasks and activities undertaken by your group.
 - Provide an overview of the software components or modules developed.
 - Describe any challenges faced during the implementation phase and how you addressed them. -->
-### First Stakeholer: Jasmine Alisha -  Student Representative Council (SRC)
-<img src="https://user-images.githubusercontent.com/129290170/236827544-b0c72886-55d0-4c0a-9c35-11f7423e0715.jpg" height="30%" width="60%">
 
-### Second Stakeholder: Dr.Layla - Senior Lecturer
-<img src="https://user-images.githubusercontent.com/129290170/236829034-0e3369e6-729a-4535-9e51-c98e47ebe17f.jpg" height="30%" width="60%">
-
-### Third Stakehodler: Sudashan Rio - Undergraduate Student
-<img src="https://user-images.githubusercontent.com/129236451/238515408-8649c734-92ee-42f7-a27b-4bb271fffdcf.png" height="30%" width="60%">
-
-### Activities and Timeline 
+## Activities and Timeline 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 19/04/2023 | Bernice Lim Jing Xuan | Project Manager | Create project plan | Complete |
@@ -104,6 +96,30 @@ We are using agile method as this is a software process model that emphasizes it
 | 22 | 19/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | SDD Documentation Complete Package Diagram | Complete |
 | 23 | 20/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | SDD Documentation Component Diagram | Complete |
 | 24 | 26/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | SDD Documentation Subsystem and Class Diagram | Complete |
+
+### First Stakeholer: Jasmine Alisha -  Student Representative Council (SRC)
+<img src="https://user-images.githubusercontent.com/129290170/236827544-b0c72886-55d0-4c0a-9c35-11f7423e0715.jpg" height="30%" width="60%">
+
+### Second Stakeholder: Dr.Layla - Senior Lecturer
+<img src="https://user-images.githubusercontent.com/129290170/236829034-0e3369e6-729a-4535-9e51-c98e47ebe17f.jpg" height="30%" width="60%">
+
+### Third Stakehodler: Sudashan Rio - Undergraduate Student
+<img src="https://user-images.githubusercontent.com/129236451/238515408-8649c734-92ee-42f7-a27b-4bb271fffdcf.png" height="30%" width="60%">
+
+### Software Component/ Modules:
+- Modules
+- Use Case Diagram
+- Class/Domain Diagram
+  
+## Challenges:
+## System Design:
+- Information Architecture
+- Low Fidelity Wireframes
+- High Fudelity Wireframes
+- Typography
+- Colour Scheme
+- User Prototype
+
 
 ## 4. Testing and Quality Assurance:
 - Explain the testing strategies and techniques employed.
