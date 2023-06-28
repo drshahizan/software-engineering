@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ 3
+## MCQ 9
 
 ## Answer
 ### Structural UML Diagrams:
