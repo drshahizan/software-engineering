@@ -163,16 +163,16 @@ We are using agile method as this is a software process model that emphasizes it
 - Discuss the types of testing conducted (e.g., unit testing, integration testing, etc.).
 - Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
 
-###Testing Strategies/Techniques:
+### Testing Strategies/Techniques:
 Our project has implemented the black-box testing strategy, specifically the Equivalence Partitioning (EP) and Boundary Value Analysis (BVA) techniques to provide comprehensive test coverage.
 
-1. Equivalence Partitioning (EP):
+1. <b><i>Equivalence Partitioning (EP):<\b><\i>
    - Feedback Priority: We divide the feedback priority into three partitions: high priority, medium priority, and low priority. Each partition represents a distinct behavior or characteristic of the system's handling of different priority levels. Test cases are created to validate the system's response within each partition.
    - Feedback Length: We partition the feedback length into three groups: short feedback, medium-length feedback, and long feedback. This technique allows us to select representative test cases to verify how the system handles feedback of different lengths.
 
    By employing Equivalence Partitioning, we ensure that test cases cover different input partitions, increasing the likelihood of detecting defects within each partition.
 
-2. Boundary Value Analysis (BVA):
+2. <b><i>Boundary Value Analysis (BVA):<\b><\i>
    - Minimum and Maximum Feedback Length: We focus on testing the system's behavior when handling feedback at the boundaries of the length limits. Specifically, we create test cases for feedback lengths just below and above the minimum and maximum limits. This approach allows us to verify how the system accurately handles feedback near these critical boundaries.
 
    By using Boundary Value Analysis, we concentrate on critical values that are likely to cause issues and ensure that the system effectively handles these boundary conditions.
