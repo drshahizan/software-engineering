@@ -108,11 +108,23 @@ We are using agile method as this is a software process model that emphasizes it
 
 ### Software Component/ Modules:
 - Modules
+| Module | Function | Description |  
+| -----:| ----- | ------ |
+|Registration and Authentication | UC001 Sign Up 
+UC002 Email Verification
+UC003 Reset Password
+UC004 Login| Users can sign up using their UTM email.                                                           
+Users can verify the email used to sign up.
+Users can reset their password. 
+Users can login with their username and password.
+|
+
+
 - Use Case Diagram
 - Class/Domain Diagram
   
-## Challenges:
-## System Design:
+### Challenges:
+### System Design:
 - Information Architecture
 - Low Fidelity Wireframes
 - High Fudelity Wireframes
