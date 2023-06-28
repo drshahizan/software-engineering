@@ -107,7 +107,6 @@ We are using agile method as this is a software process model that emphasizes it
 <img src="https://user-images.githubusercontent.com/129236451/238515408-8649c734-92ee-42f7-a27b-4bb271fffdcf.png" height="30%" width="60%">
 
 ### Software Component/ Modules:
-- Modules
   1. Registration and Authentication Module
      - UC001 Sign Up: Users can sign up using their UTM email
      - UC002 Email Verification: Users can verify the email used to sign up
