@@ -107,18 +107,44 @@ We are using agile method as this is a software process model that emphasizes it
 <img src="https://user-images.githubusercontent.com/129236451/238515408-8649c734-92ee-42f7-a27b-4bb271fffdcf.png" height="30%" width="60%">
 
 ### Software Component/ Modules:
+- Modules
+  1. Registration and Authentication Module
+     UC001 Sign Up: Users can sign up using their UTM email
+     UC002 Email Verification: Users can verify the email used to sign up
+     UC003 Reset Password: Users can reset their password
+     UC004 Login： Users can login with their username and password
+     
+  2. User Information Module
+     UC005 Update Profile: Users can edit their profile
+     UC006 Delete Profile： Users can delete their profile
+     UC007 Forum and Post Draft： Users can save their forum/post into the draft box if they have not posted it
+     UC008 Update SRC Information Board：Student Representative Council (SRC) can get access to update the information board
+     
+   3. Processing Module
+      UC009 Posts Filtration: Posts submitted by users will undergo content filtering
+     UC010 Validate Feedback: Users' feedback will be reviewed and validated by the team in order to make improvements
 
-| Module | Function | Description |  
-| -----:| ----- | ------ |
-| Registration and Authentication | UC001 Sign Up 
-UC002 Email Verification
-UC003 Reset Password
-UC004 Login| Users can sign up using their UTM email.      
-Users can verify the email used to sign up.
-Users can reset their password. 
-Users can login with their username and password. |
+   4. Admin and Reporting Module
+      UC011 Generate Report: Admins can generate report based on dates
+      UC012 View Report：Admins can view report after generating report
+      UC013 Manage Report：Admins can manage report
+      UC014 Download Report: Admins can download report
 
+   5. Personalized dashboard Module
+      UC015 Make Post: Users can make posts in their dashboard
+      UC016 Edit Post: Users can edit posted posts
+      UC017 Delete Post: Users can delete any posts that they do not want
 
+   6. Feedback Module
+      UC018 View Feedback: Users can have a glance at their posted feedback
+      UC019 Submit Feedback: Users can submit their feedback
+      UC020 Manage Feedback: Users can manage submitted feedback
+
+   7. Anonymous Forum Module
+      UC021 Create Forum: Users are able to create a forum
+      UC022 Forum Comments: Users are allowed to comment at any post
+      UC023 Edit Forum: Users are allowed to edit their post after posting it
+      
 - Use Case Diagram
 - Class/Domain Diagram
   
