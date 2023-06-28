@@ -156,8 +156,7 @@ We are using agile method as this is a software process model that emphasizes it
 - Typography
 - Colour Scheme
 - User Prototype
-  [Interact with our system prototype]
-  (https://www.figma.com/file/xoLv2jya85swQCl30HYeFQ/Student-Engagement-System-Design?type=design&node-id=65%3A1843&mode=design&t=xW9h06NpXfnp1qxj-1)
+  [Interact with our system prototype](https://www.figma.com/file/xoLv2jya85swQCl30HYeFQ/Student-Engagement-System-Design?type=design&node-id=65%3A1843&mode=design&t=xW9h06NpXfnp1qxj-1)
 
 
 ## 4. Testing and Quality Assurance:
