@@ -107,17 +107,16 @@ We are using agile method as this is a software process model that emphasizes it
 <img src="https://user-images.githubusercontent.com/129236451/238515408-8649c734-92ee-42f7-a27b-4bb271fffdcf.png" height="30%" width="60%">
 
 ### Software Component/ Modules:
-- Modules
+
 | Module | Function | Description |  
 | -----:| ----- | ------ |
-|Registration and Authentication | UC001 Sign Up 
+| Registration and Authentication | UC001 Sign Up 
 UC002 Email Verification
 UC003 Reset Password
-UC004 Login| Users can sign up using their UTM email.                                                           
+UC004 Login| Users can sign up using their UTM email.      
 Users can verify the email used to sign up.
 Users can reset their password. 
-Users can login with their username and password.
-|
+Users can login with their username and password. |
 
 
 - Use Case Diagram
