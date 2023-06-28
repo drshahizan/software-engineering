@@ -7,55 +7,34 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## MCQ 9
+## MCQ 10
 
 ## Answer
-
-1. Which view in the 4 + 1 View Model of software architecture focuses on the functionality and behavior of the system?
-   - Answer: a. Logical View
-
-2. Which view in the 4 + 1 View Model of software architecture concentrates on the software development aspects of the application?
-   - Answer: b. Development View
-
-3. Which view in the 4 + 1 View Model of software architecture illustrates the dynamic behavior of the system?
-   - Answer: c. Process View
-
-4. Which view in the 4 + 1 View Model of software architecture deals with the deployment and distribution of the system components?
-   - Answer: d. Physical View
-
-5. Which view in the 4 + 1 View Model of software architecture focuses on capturing the functional requirements of the system from the user's perspective?
-   - Answer: d. Use Case View
-
-6. The logical view of the online shopping application includes components such as:
-   - Answer: c. Shopping cart and product catalog
-
-7. The development view of the online shopping application includes components such as:
-   - Answer: a. Code modules and development tools
-
-8. The process view of the online shopping application illustrates:
-   - Answer: a. The flow of activities when a user adds items to the cart
-
-9. The physical view of the online shopping application deals with:
-   - Answer: b. The hardware and network infrastructure
-
-10. The use case view of the online shopping application focuses on:
-    - Answer: d. The functional requirements from the user's perspective
-
-11. Which view ensures that the application's functionality is well-organized and easy to maintain?
-    - Answer: a. Logical View
-
-12. Which view ensures that the application is built using best practices and facilitates collaboration among developers?
-    - Answer: b. Development View
-
-13. Which view showcases the flow of activities when a user adds items to the cart, proceeds to checkout, and completes the purchase?
-    - Answer: c. Process View
-
-14. Which view describes the server architecture, load balancing mechanisms, and database servers?
-    - Answer: d. Physical View
-
-15. Which view focuses on capturing the functional requirements of the system from the user's perspective?
-    - Answer: d. Use Case View
-
+1. (a) Logical View
+2. (b) User authentication
+3. (b) Development View
+4. (c) Programming languages and frameworks
+5. (c) Process View
+6. (b) Hardware infrastructure
+7. (a) Order placement and tracking
+8. (d) Physical View
+9. (a) Functional requirements from the user's perspective
+10. (b) Functional organization and maintainability
+11. (a) Payment gateway integration and customer account management
+12. (c) Software development aspects
+13. (a) By showcasing the interactions between different components during runtime
+14. (c) Deployment and distribution of components
+15. (d) Use Case View
+16. (d) To focus on the deployment and distribution of components
+17. (b) By structuring and organizing components based on their functionality
+18. (c) It deals with the software development aspects of the system
+19. (c) By illustrating the interactions between different components during runtime
+20. (c) Hardware infrastructure, network configuration, and servers
+21. (a) Logical View
+22. (c) Functional organization and maintainability
+23. (b) Programming languages, frameworks, and databases
+24. (b) By showcasing the dynamic behavior and interactions during runtime
+25. (d) Physical View
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
