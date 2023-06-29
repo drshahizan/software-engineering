@@ -327,7 +327,7 @@ In conclusion, this project has been a rewarding experience that has equipped us
 |1| Proposal | <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec01/Limapuluh" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Book-icon2.png/640px-Book-icon2.png" width="24px" height="24px" ></a>|
 |2| SRS | <a href="https://docs.google.com/document/d/1K3_CkCSf5IU8hNavu1Bdei6vOGWvDCpo/edit" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Book-icon2.png/640px-Book-icon2.png" width="24px" height="24px" ></a>|
 |3| SDD | <a href="https://github.com/drshahizan/software-engineering/blob/main/project/documentation/sdd/sec01/limapuluh/Limapuluh_SDD_V1.0.pdf" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Book-icon2.png/640px-Book-icon2.png" width="24px" height="24px" ></a>|
-|4| STD | <a href="https://docs.google.com/document/d/1YphQxo6uX6sIaVZcXveb659h7__7CS87/edit" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Book-icon2.png/640px-Book-icon2.png" width="24px" height="24px" ></a>|
+|4| STD | <a href="https://github.com/drshahizan/software-engineering/blob/main/project/documentation/std/sec01/limapuluh/Limapuluh_STD_V1.0.pdf" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Book-icon2.png/640px-Book-icon2.png" width="24px" height="24px" ></a>|
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
