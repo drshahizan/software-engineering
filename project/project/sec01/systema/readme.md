@@ -68,16 +68,8 @@ We are using agile method as this is a software process model that emphasizes it
 <!--- Detail the specific tasks and activities undertaken by your group.
 - Provide an overview of the software components or modules developed.
 - Describe any challenges faced during the implementation phase and how you addressed them. -->
-### First Stakeholer: Jasmine Alisha -  Student Representative Council (SRC)
-<img src="https://user-images.githubusercontent.com/129290170/236827544-b0c72886-55d0-4c0a-9c35-11f7423e0715.jpg" height="30%" width="60%">
 
-### Second Stakeholder: Dr.Layla - Senior Lecturer
-<img src="https://user-images.githubusercontent.com/129290170/236829034-0e3369e6-729a-4535-9e51-c98e47ebe17f.jpg" height="30%" width="60%">
-
-### Third Stakehodler: Sudashan Rio - Undergraduate Student
-<img src="https://user-images.githubusercontent.com/129236451/238515408-8649c734-92ee-42f7-a27b-4bb271fffdcf.png" height="30%" width="60%">
-
-### Activities and Timeline 
+## Activities and Timeline 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
 | 1 | 19/04/2023 | Bernice Lim Jing Xuan | Project Manager | Create project plan | Complete |
@@ -105,10 +97,115 @@ We are using agile method as this is a software process model that emphasizes it
 | 23 | 20/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | SDD Documentation Component Diagram | Complete |
 | 24 | 26/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | SDD Documentation Subsystem and Class Diagram | Complete |
 
+### First Stakeholer: Jasmine Alisha -  Student Representative Council (SRC)
+<img src="https://user-images.githubusercontent.com/129290170/236827544-b0c72886-55d0-4c0a-9c35-11f7423e0715.jpg" height="30%" width="60%">
+
+### Second Stakeholder: Dr.Layla - Senior Lecturer
+<img src="https://user-images.githubusercontent.com/129290170/236829034-0e3369e6-729a-4535-9e51-c98e47ebe17f.jpg" height="30%" width="60%">
+
+### Third Stakehodler: Sudashan Rio - Undergraduate Student
+<img src="https://user-images.githubusercontent.com/129236451/238515408-8649c734-92ee-42f7-a27b-4bb271fffdcf.png" height="30%" width="60%">
+
+### Software Component/ Modules:
+  1. Registration and Authentication Module
+     - UC001 Sign Up: Users can sign up using their UTM email
+     - UC002 Email Verification: Users can verify the email used to sign up
+     - UC003 Reset Password: Users can reset their password
+     - UC004 Login： Users can login with their username and password
+     
+  3. User Information Module
+     - UC005 Update Profile: Users can edit their profile
+     - UC006 Delete Profile： Users can delete their profile
+     - UC007 Forum and Post Draft： Users can save their forum/post into the draft box if they have not posted it
+     - UC008 Update SRC Information Board：Student Representative Council (SRC) can get access to update the information board
+     
+   4. Processing Module
+      - UC009 Posts Filtration: Posts submitted by users will undergo content filtering
+      - UC010 Validate Feedback: Users' feedback will be reviewed and validated by the team in order to make improvements
+
+   5. Admin and Reporting Module
+      - UC011 Generate Report: Admins can generate report based on dates
+      - UC012 View Report：Admins can view report after generating report
+      - UC013 Manage Report：Admins can manage report
+      - UC014 Download Report: Admins can download report
+
+   6. Personalized dashboard Module
+      - UC015 Make Post: Users can make posts in their dashboard
+      - UC016 Edit Post: Users can edit posted posts
+      - UC017 Delete Post: Users can delete any posts that they do not want
+
+   7. Feedback Module
+      - UC018 View Feedback: Users can have a glance at their posted feedback
+      - UC019 Submit Feedback: Users can submit their feedback
+      - UC020 Manage Feedback: Users can manage submitted feedback
+
+   8. Anonymous Forum Module
+      - UC021 Create Forum: Users are able to create a forum
+      - UC022 Forum Comments: Users are allowed to comment at any post
+      - UC023 Edit Forum: Users are allowed to edit their post after posting it
+      
+- Use Case Diagram
+- Class/Domain Diagram
+  
+### Challenges:
+### System Design:
+- Information Architecture
+- Low Fidelity Wireframes
+- High Fidelity Wireframes
+- Typography
+- Colour Scheme
+- User Prototype
+  - [Interact with our system prototype](https://www.figma.com/file/xoLv2jya85swQCl30HYeFQ/Student-Engagement-System-Design?type=design&node-id=65%3A1843&mode=design&t=xW9h06NpXfnp1qxj-1)
+
+
 ## 4. Testing and Quality Assurance:
 - Explain the testing strategies and techniques employed.
 - Discuss the types of testing conducted (e.g., unit testing, integration testing, etc.).
 - Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
+
+### Testing Strategies/Techniques:
+Our project has implemented the black-box testing strategy, specifically the Equivalence Partitioning (EP) and Boundary Value Analysis (BVA) techniques to provide comprehensive test coverage.
+
+1. Equivalence Partitioning (EP):
+   - Feedback Priority: We divide the feedback priority into three partitions: high priority, medium priority, and low priority. Each partition represents a distinct behavior or characteristic of the system's handling of different priority levels. Test cases are created to validate the system's response within each partition.
+   - Feedback Length: We partition the feedback length into three groups: short feedback, medium-length feedback, and long feedback. This technique allows us to select representative test cases to verify how the system handles feedback of different lengths.
+
+   By employing Equivalence Partitioning, we ensure that test cases cover different input partitions, increasing the likelihood of detecting defects within each partition.
+
+2. Boundary Value Analysis (BVA):
+   - Minimum and Maximum Feedback Length: We focus on testing the system's behavior when handling feedback at the boundaries of the length limits. Specifically, we create test cases for feedback lengths just below and above the minimum and maximum limits. This approach allows us to verify how the system accurately handles feedback near these critical boundaries.
+
+   By using Boundary Value Analysis, we concentrate on critical values that are likely to cause issues and ensure that the system effectively handles these boundary conditions.
+
+These testing techniques contribute to a robust and reliable feedback system by ensuring that various scenarios and edge cases are thoroughly tested. Equivalence Partitioning allows us to cover different behavior patterns, while Boundary Value Analysis focuses on critical values at the limits of input ranges. Together, these strategies enhance the test coverage and help identify potential defects within the feedback system.
+
+### Types of Testing:
+Unit testing has been a fundamental component of our project's testing approach. It involves the thorough examination of individual units or components of the software to ensure their correct functionality. The primary objectives of unit testing are to verify the expected behavior of each unit and identify bugs at an early stage during the development process.
+
+During the unit testing phase, we focused on isolating each unit of code and meticulously assessing its behavior. This targeted approach allowed us to detect and address issues more effectively. We rigorously validated the outputs generated by each unit for a given set of inputs, ensuring that they complied with the expected outcomes. Moreover, exceptional cases and edge scenarios were taken into consideration to ascertain proper handling by the units. Unit testing also played a crucial role in facilitating refactoring and maintenance activities. It served as a safety net, guaranteeing that modifications introduced no new bugs and that the units continued to operate correctly. Additionally, unit tests served as living documentation, providing valuable insights into the intended functionality of the code.
+
+By incorporating unit testing into our development process, we were able to detect bugs early on, resulting in significant time and effort savings. It contributed to an overall improvement in the quality of our code, bolstering its reliability and robustness. Moreover, unit testing promoted collaboration among team members by providing clear specifications for the expected behavior of the code. In summary, unit testing played a pivotal role in ensuring the correctness of individual code units, early bug detection, support for refactoring and maintenance, and overall enhancement of the software's quality.
+
+### Quality Assurance Process
+
+In our project, we have implemented several quality assurance processes to ensure the reliability and robustness of the software. These processes include:
+
+1. Requirement Analysis and Validation: Thoroughly analyzing and validating requirements to ensure clarity and alignment with stakeholders' needs. This process helps to identify any ambiguities or inconsistencies in the requirements, ensuring that the software development team has a clear understanding of what needs to be implemented.
+
+2. Test Planning and Strategy: Developing a comprehensive test plan that outlines testing objectives, scope, timelines, and resource allocation specific to the software. This process ensures that testing activities are well-defined and properly aligned with project goals, enabling effective test coverage and resource management.
+
+3. Test Case Development: Creating well-defined test cases that cover various scenarios, including positive and negative test cases, boundary conditions, and edge cases. This process helps in systematically testing different aspects of the software's functionality, ensuring that it behaves as expected under different conditions.
+
+4. Test Execution and Defect Management: Executing test cases and systematically tracking and managing defects using a defect tracking system or tool. This process ensures that all identified defects are properly documented, assigned, and tracked until they are resolved, contributing to a more robust and stable software system.
+
+5. Regression Testing: Performing regression testing to ensure that new changes or bug fixes do not affect existing functionalities. This process helps in identifying any unintended side effects or regressions caused by new development, ensuring that the software maintains its overall reliability and stability.
+
+6. User Acceptance Testing (UAT): Engaging end-users in testing the software to validate its usability, functionality, and user experience. This process involves gathering feedback from actual users and incorporating their perspectives to ensure that the software meets their expectations and performs reliably in real-world scenarios.
+
+7. Code Reviews and Quality Checks: Conducting code reviews to ensure adherence to coding standards, identify potential bugs, and improve code quality. This process involves thorough examination of the codebase by experienced developers, promoting best practices and reducing the likelihood of introducing bugs or vulnerabilities.
+
+By implementing these quality assurance processes, we strive to deliver a software product that is reliable, robust, and meets high-quality standards. These processes help in identifying and addressing issues early in the development lifecycle, minimizing risks, and ensuring a higher level of confidence in the software's performance.
+
 
 ## 5. Results and Achievements:
 - Present the outcomes and achievements of the project.

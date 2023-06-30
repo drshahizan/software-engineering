@@ -196,6 +196,44 @@ Don't forget to hit the :star: if you like this repo.
 | -----:| ----- | :------: | 
 |1| Prototype Main Menu | <a href="https://www.figma.com/proto/5xL6W7I4NvNIKzQeaiJYiC/Design?type=design&node-id=145-84&scaling=scale-down&page-id=0%3A1&starting-point-node-id=145%3A84&show-proto-sidebar=1" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
 
+#### 4.3 Low Fidelity
+
+
+- Student
+
+![Image](https://github.com/drshahizan/software-engineering/assets/128107791/72257c84-db03-46b9-93da-335be267749d)
+
+
+
+![Image](https://github.com/drshahizan/software-engineering/assets/128107791/f3071de6-4e4b-4e2b-8ef6-25a2b7b116c2)
+
+
+
+
+![Image](https://github.com/drshahizan/software-engineering/assets/128107791/3f4b4dfd-4bdc-47be-9f44-0c67c89abe95)
+![Image](https://github.com/drshahizan/software-engineering/assets/128107791/285b3dc1-45d4-44ca-b375-9791d061d906)
+
+![Image](https://github.com/drshahizan/software-engineering/assets/128107791/3f4b4dfd-4bdc-47be-9f44-0c67c89abe95)
+
+
+#### 4.4  High Fidelity
+- Student
+  
+![Image](https://github.com/drshahizan/software-engineering/assets/128107791/47051c70-1e23-4f30-9e04-7ae3df55cc27)
+
+
+
+![Image](https://github.com/drshahizan/software-engineering/assets/128107791/0736de6a-d418-4094-9346-af9f55d45188)
+
+
+
+![Image](https://github.com/drshahizan/software-engineering/assets/128107791/beab6136-c28b-4393-be54-74a31bd9d09c)
+
+
+
+
+
+
 #### 4.5 Prototype
 - Sign up / Log in flow
   <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/log%20in.png" alt=""/></a>

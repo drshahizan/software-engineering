@@ -1,6 +1,7 @@
 ## Set: 1
 
 **Name: Tiew Chuan Shen**
+
 **Matrix No: A22EC0113**
 
 **Section: 01**
@@ -103,7 +104,6 @@ Client          System           Clerk
   |                |               |
 ```
 
-Note: This is a basic sequence diagram, and additional details and interactions can be added based on the specific implementation and system behavior.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
