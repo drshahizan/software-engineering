@@ -257,6 +257,7 @@ Information Architecture for Admin:
 
 
 User Flow:
+![FlowChart drawio (21)](https://github.com/drshahizan/software-engineering/assets/128196055/50f19326-9254-46c7-b9f7-18f96f656c53)
 
 
 
