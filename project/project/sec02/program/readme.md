@@ -35,6 +35,16 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
+## Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Proposal | <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/program" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Document SRS| <a href="https://docs.google.com/document/d/1hiLRm3jYrVzw8qR02eJ4fPx0opQGERAg/edit?rtpof=true" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|3| Document SDD| <a href="https://docs.google.com/document/d/1H_E53Q_lN9H0LWUnIBm3KGp29_nsCnBwvxTQVypJ46E/edit?usp=sharing" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|4| Document STD| <a href="https://docs.google.com/document/d/1O9BgazCy0P2WQckn1uQQ2f2tliQre5_6zR4EDoSp1wY/edit?usp=sharing" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|5| Figma| <a href="https://www.figma.com/proto/DBtAK206tikRXizDURZSSs/Academic-Consultation-System-UI%2FUX-(Community)?type=design&node-id=125-697&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A275" ><img src="![image](https://github.com/drshahizan/software-engineering/assets/128214992/f0692142-d03a-4009-be9a-1674531769a3)
+" width="24px" height="24px" ></a>|
+
 ## Stakeholder
 <table>
   <tr>
