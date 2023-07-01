@@ -13,7 +13,8 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Group Members
 
-Group photo here 
+![group photo](https://github.com/drshahizan/software-engineering/assets/129287788/ce838130-35d5-43b5-9775-3f4b753567e4)
+
 <table>
   <tr>
     <th>Name</th>
@@ -133,7 +134,23 @@ In later stages of development, the UI module transitions to high fidelity desig
 The authentication module handles user authentication and security within the Attendance System. It includes functionalities such as login, password management, and access control. The module ensures secure access to the system, encrypts sensitive information, and manages user sessions.
 //+paste ui design 
   
-#### *Challenge faced*  //paste from gdocs
+#### Challenge faced
+##### 1. Technical Compatibility
+###### Challenge:
+Integrating the different modules and ensuring their compatibility with each other posed a challenge. The UI module developed in early stages with low fidelity using sticky notes needed to be seamlessly integrated with the high fidelity designs created in Figma. Additionally, ensuring compatibility between the authentication module and UI module required careful consideration.
+###### Solution:
+Regular communication and collaboration among the development team members helped address this challenge. Meetings were conducted online to discuss the technical requirements, dependencies, and potential conflicts. Prototypes and ideas were shared to ensure smooth integration between modules. Thorough testing and debugging were performed during the integration phase to identify and resolve any compatibility issues.
+##### 2. User Experience (UX) Design
+###### Challenge:
+Creating a user-friendly and intuitive interface that meets the needs of different user roles was also a challenge. Balancing the system’s functionality with an optimal user experience required careful consideration of user workflows, information architecture, and usability principles.
+###### Solution:
+To overcome this challenge, user research and feedback were collected throughout the implementation phase. The UI/UX team conducted usability testing and incorporated iterative design improvements based on user feedback. Collaboration between UI/UX designers and the development team ensured that the implemented UI modules align with the desired user experience.
+##### 3. Project Management and Collaboration
+###### Challenge:
+Coordinating the efforts of the development team, ensuring effective communication, and managing the project timeline posed great challenges. WIth multiple modules being developed at the same time, keeping track of progress, resolving dependencies, and maintaining consistency required efficient project management.
+###### Solution:
+Agile project management methodologies, specifically Scrum was employed to streamline the development process. Regular team meetings and sprint sessions were conducted to track progress, address issues and prioritize tasks. Clear communication channels were established, and collaboration tools, such as Google Meets and WhatsApp were used to facilitate efficient communication among team members.
+
 </li>
 
 </ol>
