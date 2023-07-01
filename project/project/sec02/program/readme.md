@@ -178,6 +178,8 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 
 ### A) Detail the specific tasks and activities undertaken by our group:
 - <b>Create Project Plan</b>: Set up a meeting with all group member to decide the software system to be develop. Determine the role of each member and have a rough plan for this project.
+![Image](https://user-images.githubusercontent.com/128196055/246129016-686b476a-9eb0-4446-980f-2a0b193df236.PNG)
+![Image](https://user-images.githubusercontent.com/128212534/244259760-60d5131f-cc04-4828-879a-d07f5ef3c6de.png)
  
 - <b>Find Stakeholders</b>: Deciding who's is our stakeholder for our system that called Student Feedback System in Faculty of Computing, University Technology Malaysia.
   ## Stakeholder
@@ -215,7 +217,7 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
   </tr>
 </table>
 
-- <b>Create Proposal</b>: We create a proposal to briefly describe the student feedback system.
+- <b>Create Proposal</b>: We create a proposal to briefly describe the student feedback system.<a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/program" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/1999131.png" width="24px" height="24px" ></a>
   
 - <b>Create UML Diagram</b>: Create Use case Diagram,Class Diagram,Sequence diagram and Activity Diagram.
   
@@ -268,8 +270,18 @@ Low Fidelity Wireframes:
 
 
 High Fidelity Wireframes:
+1. Student
+- ![Image](https://github.com/drshahizan/software-engineering/assets/128196055/778f0dc1-dc92-4dfc-80ed-9a2f29c42869)
 
-![Screenshot 2023-06-27 071714](https://github.com/drshahizan/software-engineering/assets/128214992/f6fcc6f0-f97b-4430-8ece-8c5c03ff1b87)
+
+
+2. Lecturer
+- ![Image](https://github.com/drshahizan/software-engineering/assets/128196055/b3d2af82-8a94-49c2-9bc0-2d26c8922be5)
+
+
+
+3. Administrator
+- ![Image](https://github.com/drshahizan/software-engineering/assets/128196055/615caf60-6264-4b73-a6cb-78435a3d9930)
 
 
 Design System & Typography:
