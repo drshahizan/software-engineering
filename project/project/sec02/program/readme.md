@@ -284,7 +284,7 @@ Design System & Typography:
 ![Component Diagram](https://github.com/drshahizan/software-engineering/assets/128212534/77cc1110-c06a-4ddf-96f5-59ec548d6244)
 
 
-  
+
 - Complete Package Diagram:
 ![SDD drawio (1)](https://github.com/drshahizan/software-engineering/assets/128196055/a14143fe-544c-4b73-bf87-c263520badc3)
 
@@ -296,70 +296,73 @@ Design System & Typography:
 - Changing Requirements: Throughout the implementation phase, there were instances where the requirements evolved or changed. We addressed this challenge by maintaining flexibility in our design and implementation, embracing agile methodologies, and having open communication with the project stakeholders to adapt to the changing requirements.
 
 ## 4. Testing and Quality Assurance:
+### Testing Template 
+ ![WhatsApp Image 2023-07-02 at 12 47 22 AM](https://github.com/drshahizan/software-engineering/assets/128196055/45240d1d-c56e-40c8-a87c-ac63c5ce9b21)
+ 
 ### Functional Requirements:
 
 1. Authentication Subsystem:
-  - The system should provide a sign-in and log-in functionality for users.
-  - Users should be able to reset their passwords securely.
+    - The system should provide a sign-in and log-in functionality for users.
+    - Users should be able to reset their passwords securely.
 
 2. Account Subsystem:
-  - Users with appropriate permissions should be able to view and manage student's personal information.
-  - Users should be able to view academic advisor's personal information.
+    - Users with appropriate permissions should be able to view and manage student's personal information.
+    - Users should be able to view academic advisor's personal information.
 
 3. Report Subsystem:
-  - Users should be able to view academic reports for students.
-  - Users with appropriate permissions should be able to manage academic reports.
-  - Users should be able to download academic reports.
-  - Users should be able to file complaints regarding academic reports.
+    - Users should be able to view academic reports for students.
+    - Users with appropriate permissions should be able to manage academic reports.
+    - Users should be able to download academic reports.
+    - Users should be able to file complaints regarding academic reports.
     
 4. Schedule Subsystem:
-  - Users should be able to view timetables.
-  - Users should be able to download timetables.
-  - Users with appropriate permissions should be able to manage and edit timetables.
+    - Users should be able to view timetables.
+    - Users should be able to download timetables.
+    - Users with appropriate permissions should be able to manage and edit timetables.
 
 5. Appointment Subsystem:
-  - Users should be able to view available appointment slots.
-  - Users with appropriate permissions should be able to manage and edit appointment slots.
-  - Users should be able to download appointment slots.
-  - Users should be able to view a calendar of appointments.
-  - Users with appropriate permissions should be able to edit and manage the calendar.
+    - Users should be able to view available appointment slots.
+    - Users with appropriate permissions should be able to manage and edit appointment slots.
+    - Users should be able to download appointment slots.
+    - Users should be able to view a calendar of appointments.
+    - Users with appropriate permissions should be able to edit and manage the calendar.
     
 6. Summary Subsystem:
-  - Users should be able to view an academic dashboard for students.
-  - Users with appropriate permissions should be able to manage the academic dashboard.
-  - Users should be able to generate summaries of students' academic performance.
+    - Users should be able to view an academic dashboard for students.
+    - Users with appropriate permissions should be able to manage the academic dashboard.
+    - Users should be able to generate summaries of students' academic performance.
 
-7.Notification Subsystem:
-  - Users should receive notifications related to system updates, academic events, or changes in their academic status.
-  - Users should be able to customize their notification settings.
-  - Users should be able to view and manage notifications.
+7. Notification Subsystem:
+    - Users should receive notifications related to system updates, academic events, or changes in their academic status.
+    - Users should be able to customize their notification settings.
+    - Users should be able to view and manage notifications.
     
 ### Non-functional Requirements:
 
 1. Performance:
-  - The system should be responsive and provide fast response times, even with a large number of concurrent users.
-  - System components should be optimized for efficient resource utilization.
+    - The system should be responsive and provide fast response times, even with a large number of concurrent users.
+    - System components should be optimized for efficient resource utilization.
     
 2. Security:
-  - The system should ensure secure authentication and authorization mechanisms.
-  - Confidential student and user information should be protected through encryption and access controls.
-  - Security measures should be implemented to prevent unauthorized access, data breaches, and data loss.
+    - The system should ensure secure authentication and authorization mechanisms.
+    - Confidential student and user information should be protected through encryption and access controls.
+    - Security measures should be implemented to prevent unauthorized access, data breaches, and data loss.
     
 3. Usability:
-  - The user interface should be intuitive, user-friendly, and accessible.
-  - The system should provide clear and concise error messages to guide users in case of incorrect inputs or system errors.
+    - The user interface should be intuitive, user-friendly, and accessible.
+    - The system should provide clear and concise error messages to guide users in case of incorrect inputs or system errors.
 
 4. Reliability:
-  - The system should be highly reliable, with minimal downtime and maximum availability.
-  - Data integrity and consistency should be maintained even during system failures or disruptions.
+    - The system should be highly reliable, with minimal downtime and maximum availability.
+    - Data integrity and consistency should be maintained even during system failures or disruptions.
 
 5. Assumptions and Constraints:
-  - The system will be developed and deployed on a specific platform or operating system.
-  - The system will be accessible to authorized users through web browsers or mobile applications.
-  - The system will integrate with existing databases, systems, or APIs as required.
-  - The project has a specific budget and timeline for development and implementation.
-  - The system will comply with relevant laws, regulations, and data privacy requirements.
-  - These requirements, assumptions, and constraints provide a foundation for the design and development of the system, ensuring that it meets the desired functionality,       performance, security, usability, and other quality attributes.
+    - The system will be developed and deployed on a specific platform or operating system.
+    - The system will be accessible to authorized users through web browsers or mobile applications.
+    - The system will integrate with existing databases, systems, or APIs as required.
+    - The project has a specific budget and timeline for development and implementation.
+    - The system will comply with relevant laws, regulations, and data privacy requirements.
+    - These requirements, assumptions, and constraints provide a foundation for the design and development of the system, ensuring that it meets the desired functionality,       performance, security, usability, and other quality attributes.
 
 ## 5. Results and Achievements:
 - Present the outcomes and achievements of the project.
