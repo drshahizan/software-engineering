@@ -44,7 +44,6 @@ Don't forget to hit the :star: if you like this repo.
 |2| Document SRS| <a href="https://docs.google.com/document/d/1hiLRm3jYrVzw8qR02eJ4fPx0opQGERAg/edit?rtpof=true" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/docx-9.png" width="24px" height="24px" ></a>|
 |3| Document SDD| <a href="https://docs.google.com/document/d/1H_E53Q_lN9H0LWUnIBm3KGp29_nsCnBwvxTQVypJ46E/edit?usp=sharing" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/docx-9.png" width="24px" height="24px" ></a>|
 |4| Document STD| <a href="https://docs.google.com/document/d/1O9BgazCy0P2WQckn1uQQ2f2tliQre5_6zR4EDoSp1wY/edit?usp=sharing" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/docx-9.png" width="24px" height="24px" ></a>|
-|5| Figma| <a href="https://www.figma.com/proto/DBtAK206tikRXizDURZSSs/Academic-Consultation-System-UI%2FUX-(Community)?type=design&node-id=125-697&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A275" ><img src="https://github.com/drshahizan/software-engineering/blob/ff60d5d37be6a34234ea420eb3c1901f1e08d25b/project/documentation/sdd/sec02/program/figma.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 <table>
@@ -97,6 +96,27 @@ Don't forget to hit the :star: if you like this repo.
 | 10 | 08/05/2023 | All members | | Conduct a meeting with the third stakeholder, another third-year student |  Complete | 
 | 11 | 09/05/2023 | Wan Nur Sofea Binti Mohd Hasbullah | | Contact our fourth stakeholder, an administrative officer | Complete |
 | 12 | 15/05/2023 | All members | | Conduct a meeting with the fourth stakeholder, an administrative officer |  Complete | 
+
+belum habis modify lagi
+# Academic Consultation System
+### 💫Table of Contents
+* [Table of Contents](#table-of-contents)
+* [Introduction](#introduction)
+* [Purpose and Objectives](#1-purpose-and-objectives)
+* [Problem Statement](#2-problem-statement)
+* [Potential Impact](#4-potential-impact)
+* [Methodology](#methodology)
+* [Implementation](#implementation)
+* [Timeline process](#1-timeline-process)
+* [Requirement collection](#2-requirement-collection)
+* [Software components & modules](#3-software-components-modules)
+* [Design phase](#4-design-phase)
+* [Design system](#5-design-system)
+* [Challenges](#6-challenges)
+* [Testing and Quality Assurance](#testing-and-quality-assurance)
+* [Results and Archievements](#results-and-archievements)
+* [Conclusion](#conclusion)
+* [Prototype](#prototype)
 
 
 ## 1. Introduction:
@@ -356,6 +376,8 @@ Looking forward, there are several areas where the system can be further enhance
 
 In conclusion, the development and implementation of the Academic Consultation System have proven to be a transformative endeavor, providing students with personalized academic support, enabling lecturers to engage with students more effectively, and fostering a conducive learning environment. By reflecting on the challenges faced and embracing continuous improvement, we are confident that the system will have a lasting impact on student success and serve as a valuable resource within our academic institution.
  
+## 7. Prototype:
+|5| Figma| <a href="https://www.figma.com/proto/DBtAK206tikRXizDURZSSs/Academic-Consultation-System-UI%2FUX-(Community)?type=design&node-id=125-697&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A275" ><img src="https://github.com/drshahizan/software-engineering/blob/ff60d5d37be6a34234ea420eb3c1901f1e08d25b/project/documentation/sdd/sec02/program/figma.png" width="24px" height="24px" ></a>|
  
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
