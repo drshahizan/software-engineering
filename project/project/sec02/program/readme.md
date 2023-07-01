@@ -259,6 +259,9 @@ Design System & Typography:
 
   
 - Complete Package Diagram:
+![SDD drawio (1)](https://github.com/drshahizan/software-engineering/assets/128196055/a14143fe-544c-4b73-bf87-c263520badc3)
+
+
 
 
 ### C) The challenges faced during the implementation phase:
