@@ -203,6 +203,8 @@ Sequence Diagram:<br>
  
  
 Class Diagram:<br>
+<img src = "https://github.com/drshahizan/software-engineering/assets/128196055/cccc27c3-b25a-4384-beeb-ecdd9d451cd9" width="600" height=auto>
+
  
 
 Use Case Diagram:<br>
