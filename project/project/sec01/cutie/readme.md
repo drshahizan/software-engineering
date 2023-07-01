@@ -130,25 +130,25 @@ Our team had conducted user research to understand the needs and preferences of 
 </ol>
 
 ## Testing and Quality Assurance
-<b>Testing Strategies and Techniques</b>
+#### <b>Testing Strategies and Techniques</b>
 We had employed a combination of manual and automated testing strategies to ensure the quality and reliability of the Attendance System.Test-driven development (TDD) approach was followed, where test cases were created before writing the actual code. This helped in driving the development process and ensuring that the code met the specified requirements.
 
-<b>Types of testing conducted</b><br><br>
-User Acceptance Testing (UAT):<br>
+#### <b>Types of testing conducted</b><br><br>
+1)User Acceptance Testing (UAT):<br>
 Stakeholders and end-users were involved in UAT to validate the system’s usability, functionality, and adherence to their requirements. Feedback from UAT sessions was collected and incorporated into the system’s refinement.<br><br>
-Usability Testing:<br>
+2)Usability Testing:<br>
 The team conducted usability tests to evaluate the ease of use and intuitiveness of the user interface. Feedback from users was collected to identify any usability issues and make iterative improvements to the system’s design.<br><br>
-Integration Testing:<br>
+3)Integration Testing:<br>
 The integration of various modules was tested to ensure proper communication and data flow between them. Integration tests were performed to verify the interaction of backend APIs with the frontend user interface.
 
-<b>Quality Assurance Processes</b><br><br>
-Documentation and Knowledge Sharing:<br>
+#### <b>Quality Assurance Processes</b><br><br>
+1)Documentation and Knowledge Sharing:<br>
 Comprehensive documentation was maintained to provide guidelines for testing procedures, test cases, and quality assurance processes. This documentation served as a reference for future maintenance and enhancement activities and ensured knowledge sharing among team members.<br><br>
-Prototype Validation:<br>
+2)Prototype Validation:<br>
 The team regularly shared low-fidelity prototypes and design mock-ups with stakeholders and users for validation and feedback. THis process helped identify design flaws, usability issues, and potential improvements early on.<br><br>
 Peer Review and Collaboration:<br>
 The team promoted a collaborative environment where members reviewed each other’s work, provided constructive feedback, and ensured adherence to project goals and standards.<br><br>
-Project Evaluation:<br>
+3)Project Evaluation:<br>
 At the end of the project, the team conducted a comprehensive evaluation to assess the overall success of the project. This involved reviewing project objectives, stakeholder feedback, and any quantitative or qualitative data collected during the testing phase.
 
 
