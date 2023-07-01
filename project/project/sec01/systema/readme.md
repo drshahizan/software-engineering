@@ -225,9 +225,15 @@ Class Diagram:
   
 ### Challenges:
 ### System Design:
-- Information Architecture
-- Low Fidelity Wireframes
-- High Fidelity Wireframes
+<br>
+Information Architecture:<br>
+<img src="https://i.imgur.com/w5aY9rD.png" alt="img" style="width:450px;height:350px"><br>
+Low Fidelity Wireframes:<br>
+<img src="https://i.imgur.com/0gs7Zly.jpg" style="width:450px;height:350px"><br>
+High Fidelity Wireframes:<br>
+<img src="https://i.imgur.com/dPvXSaR.png" style="width:450px;height:350px"><br>
+<img src="https://i.imgur.com/2A6BFku.png" style="width:450px;height:350px"><br>
+<img src="https://i.imgur.com/DZIIVuZ.png" style="width:450px;height:350px"><br>
 - Typography
 - Colour Scheme
 - User Prototype
