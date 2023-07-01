@@ -42,6 +42,7 @@ Group photo here
 </table>
 
 ## Documentation
+
 | No | Name |  File |
 | :-----: |  ------ | :-----: | 
 | 1 | Proposal |  <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec01/cutie" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
@@ -82,6 +83,7 @@ This project adopted an Agile software development methodology, specifically the
 
 ## Implementation
 <ol><li><b>Tasks and activities : </b>
+  
 | No | Date | Member Name | Role	| Task	|  
 | -----:| ----- | ------ | ------ | ------ |
 | 1 | 01/05/2023| Jaslene Yu | Project Manager | Create project plan |
