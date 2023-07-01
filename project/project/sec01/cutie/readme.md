@@ -12,6 +12,8 @@ Don't forget to hit the :star: if you like this repo.
 # Activity: Group Cutie
 
 ## Group Members
+
+Group photo here 
 <table>
   <tr>
     <th>Name</th>
@@ -39,54 +41,100 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-## Stakeholder
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Stakeholder</th>
-    <th>Position</th>
-    <th>Responsibility</th>
-  </tr>
-  <tr>
-    <td>1 Lim Jing Yong</td>
-    <td>Student</td>
-    <td>First Year Data Engineering Student</td>
-    <td>Provide feedback. The student can test the system during development and provides feedback regarding usability, functionality and design. This feedback can help us to identify bugs or issues that need to be addressed.</td>
-  </tr>
-  <tr>
-    <td>2 Liow Zhi Heng</td>
-    <td>Student</td>
-    <td>First Year Graphic and Design Student</td>
-    <td>Provide feedback. The student can test the system during development and provides feedback regarding usability, functionality and design. This feedback can help us to identify bugs or issues that need to be addressed.</td>
-  </tr>
-    <tr>
-    <td>3 Dr Nur Eiliyah Wong </td>
-    <td>Faculty Staff</td>
-    <td>Lecturer</td>
-    <td>Defining requirements. Lecturer can provide valuable input for the attendance system. Valuable input can be specified as what attendance data they need to track (Students, name, ID, location, etc), how they want the attendance to be marked (by scanning QR code/ by entering random number generated), and what reporting and analysis capabilities they require.</td>
-  </tr>
-    <tr>
-    <td>4</td>
-    <td>Faculty Staff</td>
-    <td>UTM Digital Staff</td>
-    <td>Providing technical expertise. The stakeholder can help us to understand the architecture, boundaries, design, etc of the existing system. The stakeholder can provide technical expertise and knowledge about the current system.</td>
-  </tr>
-</table>
+## Documentation
+| No | Name |  File |
+| :-----: |  ------ | :-----: | 
+| 1 | Proposal |  <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec01/cutie" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
+| 2 | System Requirements Specification (SRS)| <a href="https://docs.google.com/document/d/1gYnT_O2jhI0c_1Fj7zSzKu-DS3WszlASZqaUI4-x3eQ/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
+| 3 | System Design Descriptions (SDD) | <a href="https://docs.google.com/document/d/1x8wI4iyAO2i65-GcWjOFYKX29X5chyArNLyaI90yp3s/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
+| 4 | System Test Descriptions (STD)| <a href="https://docs.google.com/document/d/102OtP1xkI_MDDosiycvG1h0gtotl2rCj8_pEDPo0Q9Q/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
+| 5 | Figma |  <a href="https://www.figma.com/file/vJFZ4ywOpGf74nWp6hwt9T/Student-Attendance-System?type=design&node-id=363-2343&mode=design&t=YfCBMEY8f4tnIwUT-0" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/9351bd712f05648b3c117eec85186a261de98c92/project/project/sec01/curiousity/img/figma.svg" width="24px" height="24px" ></a> |  
 
-## Tasks involved in developing SRC documentation:
+# Student Management System
 
-| No | Date | Member Name | Role	| Task	| Status	| 
-| -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/05/2023| Jaslene Yu | Project Manager | Create project plan | Complete |
-| 2 | 03/05/2023| All Members |Project Members | Conduct meeting regarding proposal | Complete |
-| 3 | 03/05/2023| Tiew Chuan Rong |  UX Designer | Create System Architecture | Complete |
-| 4 | 03/05/2023 | Tiew Chuan Shen | Main Developer | List out software and hardware required | Complete | 
-| 5 | 03/05/2023 | Wong Jun Ji | Quality Assurance & Developer Assistant | Predict the risk of system development | Complete |
-| 6 | 03/05/2023 | Nicole Lim Tze Yee | Business Analyst & Developer Assistant | Determine the budget needed during system development | Complete |
-| 7 | 04/05/2023 | All Members | Project Members | Submit project proposal | Complete |
-| 8 | 07/05/2023 | All Members | Project Members | Determine stakeholder | Complete |
-| 9 | 12/05/2023 | Jaslene Yu | Project Manager | Contact stakeholder | Complete |
-|10 | 21/05/2023 | All Members | Project Members | First interview with stakeholder | Pending |
+## Introduction
+  In today's world, technology has become an integral part of our daily lives, including education. Digital attendance management systems are widely used in educational institutions to manage student attendance. For example, UTM uses UTM Digital to track and manage student attendance. However, some features are inefficient, and fail to meet the needs of modern-day educational institutions.
+The proposed digital student attendance management system aims to address the weaknesses of the existing attendance systems by providing an efficient and effective way to manage student attendance. The software will be designed to be user-friendly, intuitive, and easy to use, allowing teachers and administrators to manage attendance with ease.
+The proposed software will enable lecturers to take attendance quickly and easily using a range of devices, including smartphones, tablets, and laptops. The system will also provide real-time attendance reports, allowing teachers and administrators to monitor attendance trends and take corrective action as needed.
+The benefits of the proposed system are numerous. The software will improve accuracy and reliability, reduce the workload of teachers, and provide a more comprehensive and efficient way to manage attendance. Moreover, the system will identify areas for improvement, leading to better student engagement.
+
+#### Objective
+  We aim to identify the existing bugs and inefficiencies in the current system, which will be addressed in the new design.
+<ol><li><b>Implement new attendance marking options:</b></li><ul>
+ <li>In addition to the current attendance marking system using QR codes, alternative methods such as typing in a line of random generated code should be an option for students in case their device faces camera issues.</li></ul>
+<li><b>Implement location based check-ins:</b></li><ul> 
+<li>Students are often able to mark their attendance without actually attending the class through the help of their friends. With the implementation of location based check-ins, we can ensure  the students that have marked their location are actually attending the class.</li></ul>
+<li><b>Implement biometric authentication:</b> </li><ul>
+<li>Biometric authentication, such as facial recognition or fingerprint scanning. This helps to prevent attendance fraud and increase accuracy.</li></ul>
+<li><b>Generate a table:</b></li><ul>
+<li>Records the attendance of the students, displays their attending time in order, and highlights students who are late to class. The table eases the management of student attendance for the lecturers.</li></ul></ol>
+  This project holds significant potential impact by saving time, reducing errors, and providing real-time attendance data for effective decision making.
+
+## Methodology
+
+This project adopted an Agile software development methodology, specifically the Scrum framework. This allowed our team to iteratively plan, develop, and deliver the Attendance System in incremental stages. The use of Scrum facilitated effective collaboration within our team and ensured continuous feedback from stakeholders. 
+<br>
+<img width="465" alt="image" src="https://user-images.githubusercontent.com/129235052/235556623-d14c5c2e-9fa6-4c44-b8ff-9290ced8e78e.png">
+
+#### *Copy from phases we did in proposal*
+
+#### *Specific tools....( from docs )*
+
+## Implementation
+<ol><li><b>Tasks and activities : </b>
+| No | Date | Member Name | Role	| Task	|  
+| -----:| ----- | ------ | ------ | ------ |
+| 1 | 01/05/2023| Jaslene Yu | Project Manager | Create project plan |
+| 2 | 03/05/2023| All Members |Project Members | Conduct meeting regarding proposal | 
+| 3 | 03/05/2023| Tiew Chuan Rong |  UX Designer | Create System Architecture |
+| 4 | 03/05/2023 | Tiew Chuan Shen | Main Developer | List out software and hardware required | 
+| 5 | 03/05/2023 | Wong Jun Ji | Quality Assurance & Developer Assistant | Predict the risk of system development | 
+| 6 | 03/05/2023 | Nicole Lim Tze Yee | Business Analyst & Developer Assistant | Determine the budget needed during system development |
+| 7 | 04/05/2023 | All Members | Project Members | Submit project proposal | 
+| 8 | 07/05/2023 | All Members | Project Members | Determine stakeholder | 
+| 9 | 12/05/2023 | Jaslene Yu | Project Manager | Contact stakeholder | 
+|10 | 16/05/2023 | All Members | Project Members | First interview with stakeholder |
+|11 | 17/05/2023 | All Members | Project Members | Design UML Diagram | 
+|12 | 18/05/2023 | All Members | Project Members | System Requirements Specification Discussion | 
+|13 | 19/05/2023 | All Members | Project Members | System Requirements Specification | 
+|14 | 25/05/2023 | All Members | Project Members | System Design | 
+|15 | 28/05/2023 | All Members | Project Members | Create low fidelity | 
+|16 | 31/05/2023 | All Members | Projects Members | Create High fidelity | 
+|17 | 12/06/2023 | All Members | Project Members | System Design Document Discussion | 
+|18 | 13/06/2023 | All Members | Projects Members |  System Design Document | Complete|
+|19 | 15/06/2023 | All Members | Projects Members | System Testing Document Discussion |
+|20 | 19/06/2023 | All Members | Projects Members | System Testing Document | 
+</li>
+<li> <b>Requirement Gathering : </b><br>
+Our team conducted meetings with our stakeholders to understand their requirements and expectations from the Attendance System. All of the requirements we gathered, including functionality, user roles, and system constraints are documented.
+
+#### *Paste Stakeholder photo, info here*</li>
+<li><b>System Design : </b><br>
+Our team had collaborated with our stakeholders to create a system design that aligned with their requirements. We had defined the system architecture, including the backend, database, and user interface components. We had also created high-level and detailed design documentation, specifying the system’s modules, their interactions, and data flow.
+
+#### *Paste Component model (sdd, Use case diagram (proposal , package diagram (sdd here*
+</li>
+
+<li><b>UI/UX Design : </b><br>
+Our team had conducted user research to understand the needs and preferences of different user groups. Low-fidelity wireframes using sticky notes to visualize the basic layout and functionality of the user interface had been created. Then, we incorporated feedback from our stakeholders and users to iteratively improve the UI design. The low-fidelity wireframes are then translated into high-fidelity designs using the Figma design tool. Collaboration with the development team had ensured that the UI designs were implementable.
+  
+  #### *LOW & HIGH Fidelity design and description in docs*
+</li>
+<li><b>Challenges Faced </b>
+  
+#### *Paste from gdocs* 
+</li>
+
+</ol>
+
+## Testing and Quality Assurance
+#### *Paste from gdocs* 
+
+#### Results and Archievements
+#### *Paste from gdocs* 
+
+#### Conclusion
+#### *Paste from gdocs* 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
