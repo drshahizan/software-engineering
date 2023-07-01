@@ -78,7 +78,18 @@ This project adopted an Agile software development methodology, specifically the
 <br>
 <img width="465" alt="image" src="https://user-images.githubusercontent.com/129235052/235556623-d14c5c2e-9fa6-4c44-b8ff-9290ced8e78e.png">
 
-#### *Copy from phases we did in proposal*
+The phases involved in the AGILE software process model are:
+#### 1. Planning Phase: 
+The planning phase involves defining the scope of the project, identifying the stakeholders, and creating a project roadmap. The duration for this phase is two weeks, and the project manager (Jaslene Yu)  is responsible for this phase's deliverables, which include the project roadmap and stakeholder analysis.
+#### 2. Analysis Phase: 
+The analysis phase involves gathering requirements and identifying user stories. The duration for this phase is four weeks, and the business analyst (Nicole Lim Tze Yee) is responsible for this phase's deliverables, which include the requirements document and user stories.
+#### 3. Design Phase: 
+The design phase involves creating the system architecture, wireframes, and prototypes. The duration for this phase is six weeks, and the UI/UX designer (Tiew Chuan Rong)  is responsible for this phase's deliverables, which include the system architecture, wireframes, and prototypes. 
+#### 4. Implementation Phase: 
+The implementation phase involves developing and testing the software. The duration for this phase is eight weeks, and the developer (Tiew Chuan Shen)  is responsible for this phase's deliverables, which include working software and test reports. The person in charge for this phase is Tiew Chuan Shen.
+#### 5. Review Phase: 
+The review phase involves reviewing the software and identifying areas for improvement. The duration for this phase is two weeks, and the quality assurance team (Wong Jun Ji)  is responsible for this phase's deliverables, which include the review report and the list of improvements. <br>
+Testing methodologies such as unit testing, integration testing, system testing, and acceptance testing are used to assure the quality and functionality of the system. The project management practices for this project include regular communication, project tracking, risk management and change management. Lastly, the quality assurance processes for this project are code reviews, testing and continuous integration.
 
 #### *Specific tools....( from docs )*
 
