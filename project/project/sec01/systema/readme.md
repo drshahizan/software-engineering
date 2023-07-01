@@ -214,8 +214,8 @@ These are the used tools and technologies for developing our Student Engagement 
    8. Anonymous Forum Module
       - UC021 Create Forum: Users are able to create a forum
       - UC022 Forum Comments: Users are allowed to comment at any post
-      - UC023 Edit Forum: Users are allowed to edit their post after posting it
-    <br>
+      - UC023 Edit Forum: Users are allowed to edit their post after posting it<br>
+<br>
 Use Case Diagram:
  <br>
 <img src="https://i.imgur.com/mF1nwcz.png" alt="img" style="width:350px;height:500px">
