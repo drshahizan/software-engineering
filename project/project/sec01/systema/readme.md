@@ -12,6 +12,7 @@ Don't forget to hit the :star: if you like this repo.
 # Project: Group Systema
 
 <img src="https://i.imgur.com/2ukWq8F.jpg" alt="img" style="width:350px;height:350px">
+
 ## Group Members
 <table>
   <tr>
