@@ -234,10 +234,10 @@ High Fidelity Wireframes:<br>
 <img src="https://i.imgur.com/dPvXSaR.png" style="width:450px;height:350px"><br>
 <img src="https://i.imgur.com/2A6BFku.png" style="width:450px;height:350px"><br>
 <img src="https://i.imgur.com/DZIIVuZ.png" style="width:450px;height:350px"><br>
-- Typography
-- Colour Scheme
-- User Prototype
-  - [Interact with our system prototype](https://www.figma.com/file/xoLv2jya85swQCl30HYeFQ/Student-Engagement-System-Design?type=design&node-id=65%3A1843&mode=design&t=xW9h06NpXfnp1qxj-1)
+Typography<br>
+Colour Scheme<br>
+User Prototype:<br>
+Interact with our system prototype: (https://www.figma.com/file/xoLv2jya85swQCl30HYeFQ/Student-Engagement-System-Design?type=design&node-id=65%3A1843&mode=design&t=xW9h06NpXfnp1qxj-1)
 
 
 ## 4. Testing and Quality Assurance:
