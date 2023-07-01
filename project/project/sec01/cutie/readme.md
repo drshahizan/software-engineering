@@ -132,10 +132,10 @@ Our team had conducted user research to understand the needs and preferences of 
 ## Testing and Quality Assurance
 #### *Paste from gdocs* 
 
-#### Results and Archievements
+## Results and Archievements
 #### *Paste from gdocs* 
 
-#### Conclusion
+## Conclusion
 #### *Paste from gdocs* 
 
 ## Contribution 🛠️
