@@ -1,3 +1,60 @@
+
+<a href="https://github.com/drshahizan/software-engineering/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/software-engineering" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/software-engineering/network/members"><img src="https://img.shields.io/github/forks/drshahizan/software-engineering" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/software-engineering/issues"><img src="https://img.shields.io/github/issues/drshahizan/software-engineering" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/software-engineering/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/software-engineering?color=2b9348"></a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fsoftware-engineering&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+
+
+Don't forget to hit the :star: if you like this repo.
+
+# Project: Group Systema
+
+
+## Group Members
+<table>
+  <tr>
+    <th>No.</th>
+    <th>Name</th>
+    <th>Role</th>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>Bernice Lim Jing Xuan</td>
+    <td>Project Manager</td>
+  </tr>
+  <tr>
+    <td>2.</td>
+    <td>Chai Yu Tong</td>
+    <td>Developer</td>
+  </tr>
+  <tr>
+    <td>3.</td>
+    <td>Kek Jesslyn</td>
+    <td>Support Engineer</td>
+  </tr>
+  <tr>
+    <td>4.</td>
+    <td>Wong Qiao Ying</td>
+    <td>UI/UX Designer</td>
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td>Yeoh Chong Yi</td>
+    <td>Technical Writer</td>
+  </tr>
+</table>
+
+## Documentation
+| No | Name |  File |
+| :-----: |  ------ | :-----: | 
+| 1 | Proposal |  <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec01/systema" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
+| 2 | System Requirements Specification (SRS)| <a href="https://docs.google.com/document/d/1UxmRYZFCNrQxG7QrHjzH8VrpwF1Cs9DjMGbELYGB2vU/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
+| 3 | System Design Descriptions (SDD) | <a href="https://docs.google.com/document/d/1ZAhvWcL0xh_LSv_PMEcaST6nnbT_biHk/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
+| 4 | System Test Descriptions (STD)| <a href="https://docs.google.com/document/d/1Yt3tCnSIXsN3v5-A7byXm0uLhwLEIxawGTR2LrUj7L8/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
+| 5 | Figma |  <a href="https://www.figma.com/file/xoLv2jya85swQCl30HYeFQ/Student-Engagement-System-Design?type=design&node-id=65-1843&mode=design&t=rtAtprcK5GmkKs3P-0" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/9351bd712f05648b3c117eec85186a261de98c92/project/project/sec01/curiousity/img/figma.svg" width="24px" height="24px" ></a> |  
+
 ## 1. Introduction:
 
 ### Purpose And Objectives  
