@@ -200,7 +200,8 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 - <b>Create UML Diagram</b>: Create Use case Diagram,Class Diagram,Sequence diagram and Activity Diagram.
   
 Sequence Diagram:<br>
- 
+ ![usecasediagram-Sequence Diagram drawio](https://github.com/drshahizan/software-engineering/assets/128214992/bd353ec2-8ebe-4b52-9d7a-c15275eea3ea)
+
  
 Class Diagram:<br>
 <img src = "https://github.com/drshahizan/software-engineering/assets/128196055/cccc27c3-b25a-4384-beeb-ecdd9d451cd9" width="600" height=auto>
