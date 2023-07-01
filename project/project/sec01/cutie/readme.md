@@ -119,12 +119,21 @@ Our team had collaborated with our stakeholders to create a system design that a
 
 <li><b>UI/UX Design : </b><br>
 Our team had conducted user research to understand the needs and preferences of different user groups. Low-fidelity wireframes using sticky notes to visualize the basic layout and functionality of the user interface had been created. Then, we incorporated feedback from our stakeholders and users to iteratively improve the UI design. The low-fidelity wireframes are then translated into high-fidelity designs using the Figma design tool. Collaboration with the development team had ensured that the UI designs were implementable.
+
+#### Software Components/Modules Developed
+##### User Interface (UI) Module
+The UI module is responsible for providing an intuitive and user-friendly interface for users to interact with the Attendance System. It includes features such as login/authentication screens, attendance recording forms, report generation interfaces, and administrative setting panels. The UI module undergoes two stages of development: low fidelity and high fidelity.
+
+1.1	Low Fidelity UI:
+In the earlier stages of development, The UI module utilizes low fidelity designs. These designs are basic wireframes or sketches that outline the structure, layout and flow of the user interface. The wireframes are sketched on sticky notes so that it can be rearranged on a board or a wall.
+
+1.2	High Fidelity UI:
+In later stages of development, the UI module transitions to high fidelity designs created using the Figma design tool. Figma provides a digital design environment that allows designers to create polished and visually appealing interfaces. High fidelity UI designs in Figma incorporate detailed visual elements, typography and colors.
+##### Authentication Module:
+The authentication module handles user authentication and security within the Attendance System. It includes functionalities such as login, password management, and access control. The module ensures secure access to the system, encrypts sensitive information, and manages user sessions.
+//+paste ui design 
   
-  #### *LOW & HIGH Fidelity design and description in docs*
-</li>
-<li><b>Challenges Faced </b>
-  
-#### *Paste from gdocs* 
+#### *Challenge faced*  //paste from gdocs
 </li>
 
 </ol>
