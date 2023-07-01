@@ -216,8 +216,10 @@ These are the used tools and technologies for developing our Student Engagement 
       - UC022 Forum Comments: Users are allowed to comment at any post
       - UC023 Edit Forum: Users are allowed to edit their post after posting it
       
-- Use Case Diagram
-- Class/Domain Diagram
+Use Case Diagram:
+<img src="https://i.imgur.com/mF1nwcz.png" alt="img" style="width:350px;height:500px">
+Class Diagram:
+<img src="https://i.imgur.com/oz2D12h.png" alt="img" style="width:500px;height:350px">
   
 ### Challenges:
 ### System Design:
