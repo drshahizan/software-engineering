@@ -118,8 +118,23 @@ Overall, the development of a student engagement website aligns with the evolvin
 <!--- Describe the approach and methodologies utilized to tackle the project.
  Explain the software development life cycle model or any other relevant methodology adopted.
  Highlight any specific tools, technologies, or frameworks employed during the project. -->
-<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Systema/agile.png" height="50%" width="50%">
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Systema/agile.png" height="30%" width="30%">
 We are using agile method as this is a software process model that emphasizes iterative and incremental development, flexibility, and collaboration between team members and stakeholders. It is particularly suitable for projects where the requirements are likely to evolve over time.
+Agile methodology is ideal for developing a student engagement system with a personalized dashboard, anonymous forum, feedback system, and reporting module. It allows for iterative development, flexibility to accommodate changing requirements, collaboration among team members and stakeholders, and continuous testing and feedback. This approach ensures the system evolves effectively and meets the needs of University Teknologi Malaysia Faculty of Computing's students,lecturers,SRC Members and administrators.
+Tools, Technologies, and Frameworks:
+These are the used tools and technologies for developing our Student Engagement System:
+
+| Task                 | Software                    |
+|----------------------|-----------------------------|
+| Web Development      | Bootstrap Studio            |
+| Prototyping          | Figma                       |
+| Data Source          | ELearning Website, Facebook |
+| Data Schema          | Draw.io                     |
+| Programming Languages| HTML, CSS                   |
+| Libraries            | Bootstrap                   |
+| Database Management  | PHPMyAdmin & XAMPP          |
+| Hardware Requirements| RAM: > 8GB and above, Storage: > 50GB and above, Display: 1920x1080 and higher |
+| Software Requirements| Operating System: Windows 10 or higher, IDE: Visual Studio Code, Bootstrap Studio, Web Server: Google, Version Control: Git |
 
 ## 3. Implementation:
 <!--- Detail the specific tasks and activities undertaken by your group.
