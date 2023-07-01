@@ -146,9 +146,9 @@ The integration of various modules was tested to ensure proper communication and
 Comprehensive documentation was maintained to provide guidelines for testing procedures, test cases, and quality assurance processes. This documentation served as a reference for future maintenance and enhancement activities and ensured knowledge sharing among team members.<br><br>
 2)Prototype Validation:<br>
 The team regularly shared low-fidelity prototypes and design mock-ups with stakeholders and users for validation and feedback. THis process helped identify design flaws, usability issues, and potential improvements early on.<br><br>
-Peer Review and Collaboration:<br>
+3)Peer Review and Collaboration:<br>
 The team promoted a collaborative environment where members reviewed each other’s work, provided constructive feedback, and ensured adherence to project goals and standards.<br><br>
-3)Project Evaluation:<br>
+4)Project Evaluation:<br>
 At the end of the project, the team conducted a comprehensive evaluation to assess the overall success of the project. This involved reviewing project objectives, stakeholder feedback, and any quantitative or qualitative data collected during the testing phase.
 
 
