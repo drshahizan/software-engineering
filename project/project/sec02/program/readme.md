@@ -219,6 +219,69 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
   </tr>
 </table>
 
+**Make an interview with our first stakeholder, Dr. Nor Azizah Ali** 
+
+Time & Date : 10:00 a.m. (2 May 2023)
+Venue : 438-20 (N28)
+
+
+![Image](https://user-images.githubusercontent.com/128214992/235604729-373f61de-9ce5-4887-90c8-0f0a5983f10e.jpg)
+
+**From the meeting,Dr. Azizah gave us a few recommendations to be added into the system such as:**
+1.  Academic advisor will get a notification regarding the students performance if it decreases continuously in three semesters.
+2.  Add dashboard to easily display and analyze students performance by providing graphs based on their academic performance.
+3. This system will make it easier for AA to schedule and manage appointments with students, ensuring that they can provide timely and effective guidance.
+4. The ability to view students' academic dashboards and summaries will help AA better understand their progress and provide personalized support
+
+
+**Make an interview with our second stakeholder, Nurul Asyikin binti Muhammad** 
+
+Time & Date : 11:00 a.m. (7 May 2023)
+Venue : N24 Lounge
+
+![Image](https://user-images.githubusercontent.com/93176591/237020470-362ba2d2-0d01-4c9d-8040-de7903945d30.jpg)
+
+From the meeting, Asyikin gave us a few recommendations to be added into the system such as:
+- The system's calendar feature will allow student to see the availability of advisors and choose appointment slots that best fit their schedules.
+- Good to having an online platform where they can easily schedule appointments with academic advisors, saving their time and effort.
+- The academic dashboard and summary will provide a clear overview of student academic performance, making it easier to track their progress and identify areas for improvement.
+
+**Make an interview with our third stakeholder, Kelvin Ee**
+
+Time & Date : 10:00 a.m. (2 May 2023)
+Venue : Online Platform via Google Meet
+
+
+
+
+![Image](https://user-images.githubusercontent.com/128196055/237020811-431db32d-fcc3-4d63-ba16-685afcd6eef7.PNG)
+
+Outcome:
+- message interface to ease the communication between student and their academic advisor
+- The system's user-friendly interface and intuitive navigation will make it easy for student to interact with the platform and access the information they need
+- The system will provide student with a convenient way to connect with their academic advisors, eliminating the need for physical visits or long wait times
+- The system's features, such as appointment reminders and notifications, will ensure that we don't miss any important meetings or deadlines.
+
+**Make an interview with our fourth stakeholder, Encik Masnawi Bin Miskam**
+
+Time & Date : 4:15 a.m. (15 May 2023)
+Venue : Online Platform via Google Meet
+
+
+
+![Image](https://github.com/drshahizan/software-engineering/assets/128214992/a98d4dd6-bf09-4e9f-a2f7-cc0cd2ee5f6f)
+
+Problem 1: Lack of Student Details for Administrators
+- Administrators in the academic consultation system do not have access to sufficient information about students.
+- There is a lack of detailed student profiles, including relevant personal information and health-related details.
+
+Solution:
+1. Comprehensive Student Profile:
+- Develop a comprehensive student profile feature within the academic consultation system.
+- Allow administrators to access and update detailed information about students, including personal information, academic records, health conditions, emergency contacts, and other relevant data.
+
+
+
 - <b>Create Proposal</b>: We create a proposal to briefly describe the student feedback system.<a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/program" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/1999131.png" width="24px" height="24px" ></a>
   
 - <b>Create UML Diagram</b>: Create Use case Diagram,Class Diagram,Sequence diagram and Activity Diagram.
