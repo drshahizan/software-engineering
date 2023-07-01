@@ -244,12 +244,15 @@ Activity Diagram:<br>
 - <b>Develop detailed system interface </b>: Develop Information Architecture,User Flow,Low Fidelity Wireframes,High Fidelity Wireframes,Design System & Typography and UI Design
   
 Information Architecture for Student:
-
-
+![FlowChart drawio (16)](https://github.com/drshahizan/software-engineering/assets/128196055/5f8e4cbb-0819-4557-a832-5c709d167dad)
 
 Information Architecture for Lecturer:
+![FlowChart drawio (19)](https://github.com/drshahizan/software-engineering/assets/128196055/3a2d6816-8da7-4956-aef3-914c51bafcc8)
+
 
 Information Architecture for Admin:
+![FlowChart drawio (20)](https://github.com/drshahizan/software-engineering/assets/128196055/bd107480-7e49-4d3e-9aa4-66e64ef2259f)
+
 
 
 
@@ -260,10 +263,7 @@ User Flow:
 Low Fidelity Wireframes:
 
 <img src="https://user-images.githubusercontent.com/128196055/241563936-d49f1c1d-41b2-4cfe-8642-4b26ee3a2557.jpeg" width="400" height=auto >
-<img src="https://user-images.githubusercontent.com/128196055/241563955-c0cc2382-ebd9-4397-89cc-6dd99b4e1968.jpeg" width="400" height=auto >
-<img src="https://user-images.githubusercontent.com/128196055/241563957-2af9a4bb-388f-4106-b941-6211ec88fcea.jpeg" width="400" height=auto >
-<img src="https://user-images.githubusercontent.com/128196055/241563956-3d7e23de-fde1-46cf-9bc2-5e08423fb2fa.jpeg" width="400" height=auto >
-<img src="https://user-images.githubusercontent.com/128196055/241563954-d8f71c17-ca08-486a-97f7-04ab63296066.jpeg" width="400" height=auto >
+
 
 
 High Fidelity Wireframes:
