@@ -49,7 +49,7 @@ Don't forget to hit the :star: if you like this repo.
 ## Documentation
 | No | Name |  File |
 | :-----: |  ------ | :-----: | 
-| 1 | Proposal |  <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec01/systema" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
+| 1 | Proposal |  <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec01/Systema" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
 | 2 | System Requirements Specification (SRS)| <a href="https://docs.google.com/document/d/1UxmRYZFCNrQxG7QrHjzH8VrpwF1Cs9DjMGbELYGB2vU/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
 | 3 | System Design Descriptions (SDD) | <a href="https://docs.google.com/document/d/1ZAhvWcL0xh_LSv_PMEcaST6nnbT_biHk/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
 | 4 | System Test Descriptions (STD)| <a href="https://docs.google.com/document/d/1Yt3tCnSIXsN3v5-A7byXm0uLhwLEIxawGTR2LrUj7L8/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
