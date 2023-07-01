@@ -102,7 +102,8 @@ Don't forget to hit the :star: if you like this repo.
 |16 | 31/05/2023 | All Members | Projects Members | Create High fidelity | Complete|
 |17 | 12/06/2023 | All Members | Project Members | System Design Document Discussion | Complete|
 |18 | 13/06/2023 | All Members | Projects Members |  System Design Document | Complete|
-|19 | 19/06/2023 | All Members | Projects Members | System Testing Document | Complete|
+|19 | 15/06/2023 | All Members | Projects Members | System Testing Document Discussion |Complete|
+|20 | 19/06/2023 | All Members | Projects Members | System Testing Document | Complete|
 
 
 ## Contribution 🛠️
