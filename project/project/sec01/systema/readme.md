@@ -237,11 +237,7 @@ High Fidelity Wireframes:<br>
 <img src="https://i.imgur.com/DZIIVuZ.png" style="width:450px;height:350px"><br>
 
 ### Typography:
-1. **Authentication module**
-- Roboto: Light, Regular, Medium, Bold
-
-2. **Main system module**
-- Montserrat: Regular, Medium. Semibold, Bold
+- Sans Serif: Regular, Medium, Semibold, Bold
 
 ### Color Scheme:
 | Color code | Display |
