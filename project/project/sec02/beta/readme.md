@@ -170,7 +170,8 @@ By leveraging the Agile methodology, we can effectively address the specific req
   - Offer ongoing support and maintenance to address any issues and meet stakeholder demands.
 
 ## 3. Implementation:
-[View our project timeline and tasks](https://github.com/users/drshahizan/projects/19/views/5)
+**_Project Timeline:_** <a href="https://github.com/users/drshahizan/projects/19/views/1" ><img src="https://cdn-icons-png.flaticon.com/512/3448/3448449.png" width="24px" height="30px" ></a> 
+
 - Detail the specific tasks and activities undertaken by your group.
 - Provide an overview of the software components or modules developed.
 - Describe any challenges faced during the implementation phase and how you addressed them.
@@ -217,7 +218,7 @@ To optimize the food ordering system, it is crucial to focus on teamwork, stakeh
 
 In conclusion, to optimize the food ordering system, it is essential to prioritize teamwork, stakeholder engagement, and user-centric improvements. By fostering effective collaboration, engaging stakeholders throughout the design process, and enhancing the system based on user feedback, a more cohesive and user-friendly experience can be achieved. This approach not only benefits the team by promoting collaboration and flexibility but also ensures that the food ordering system meets stakeholders' expectations and delivers a seamless and satisfying experience to users.
 
-## 7. Figma:
+## 7. Figma Prototype:
 <a href="https://www.figma.com/proto/kKC8pg0ilTBncv1txpu6Yp/Login-(Community)?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1" target="_blank">
   <span style="pointer-events: none;">
     <img src="https://logowik.com/content/uploads/images/figma.jpg" alt="Figma Logo" width="24px" height="24px">
@@ -233,4 +234,11 @@ In conclusion, to optimize the food ordering system, it is essential to prioriti
 | 3 | System Design Descriptions (SDD) | <a href="https://docs.google.com/document/d/1gna8Y_3pXq2pYxGWBdGKjZ8hy1BKsWuh/edit" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> | 
 | 4 | System Test Descriptions (STD)| <a href="https://docs.google.com/document/d/1mIybNY1HmJNrAwAN5GM3z6VCQVPPYu1e/edit" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> | 
 
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
 
