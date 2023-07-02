@@ -256,7 +256,7 @@ High Fidelity Wireframes:<br>
 | FFFFFF | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/96631869/39542c05-cb45-4a22-af1f-073174cb9c0f" height="30" width="30"  /></a> |
 
 ### User Prototype:<br>
-[Interact with our system prototype: ](https://www.figma.com/file/xoLv2jya85swQCl30HYeFQ/Student-Engagement-System-Design?type=design&node-id=65%3A1843&mode=design&t=xW9h06NpXfnp1qxj-1)
+[Interact with our system prototype](https://www.figma.com/file/xoLv2jya85swQCl30HYeFQ/Student-Engagement-System-Design?type=design&node-id=65%3A1843&mode=design&t=xW9h06NpXfnp1qxj-1)
 
 
 ## 4. Testing and Quality Assurance:
