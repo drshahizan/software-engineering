@@ -34,7 +34,12 @@ Don't forget to hit the :star: if you like this repo.
     <td>Back-end Developer</td>
   </tr>
 </table>
-
+## Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Document SDD| <a href="https://docs.google.com/document/d/1x2cAEcIkgSorcYdHs-nrblTG7TMmpZbY39GXgxQNhdU/edit?usp=sharing" ><img src="https://cdn1.iconfinder.com/data/icons/file-format-presentations-flat-filled/64/file_format_document-14-512.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 One Stop Parcel Center & Cengal Parcel Point
