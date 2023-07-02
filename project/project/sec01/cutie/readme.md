@@ -127,6 +127,10 @@ Our team conducted meetings with our stakeholders to understand their requiremen
 Our team had collaborated with our stakeholders to create a system design that aligned with their requirements. We had defined the system architecture, including the backend, database, and user interface components. We had also created high-level and detailed design documentation, specifying the system’s modules, their interactions, and data flow.
 
 #### *Paste Component model (sdd, Use case diagram (proposal , package diagram (sdd here*
+#### Use case diagrem:
+![image](https://github.com/drshahizan/software-engineering/assets/129280403/3ae871d5-8510-4163-b0ee-af4c2cc59a42)
+
+
 </li>
 
 <li><b>UI/UX Design : </b><br>
