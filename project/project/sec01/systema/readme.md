@@ -219,7 +219,7 @@ These are the used tools and technologies for developing our Student Engagement 
 <br>
 Use Case Diagram:
  <br>
-<img src="https://i.imgur.com/mF1nwcz.png" alt="img" style="width:350px;height:500px">
+<img src="https://i.imgur.com/mF1nwcz.png" alt="img" style="width:350px;height:800px">
 Class Diagram:
  <br>
 <img src="https://i.imgur.com/oz2D12h.png" alt="img" style="width:500px;height:350px">
