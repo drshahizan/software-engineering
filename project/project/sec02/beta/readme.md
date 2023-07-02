@@ -228,12 +228,11 @@ To optimize the food ordering system, it is crucial to focus on teamwork, stakeh
 In conclusion, to optimize the food ordering system, it is essential to prioritize teamwork, stakeholder engagement, and user-centric improvements. By fostering effective collaboration, engaging stakeholders throughout the design process, and enhancing the system based on user feedback, a more cohesive and user-friendly experience can be achieved. This approach not only benefits the team by promoting collaboration and flexibility but also ensures that the food ordering system meets stakeholders' expectations and delivers a seamless and satisfying experience to users.
 
 ## 7. Figma Prototype:
-<a href="https://www.figma.com/proto/kKC8pg0ilTBncv1txpu6Yp/Login-(Community)?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1" target="_blank">
-  <span style="pointer-events: none;">
-    <img src="https://logowik.com/content/uploads/images/figma.jpg" alt="Figma Logo" width="24px" height="24px">
-  </span>
-  Our Prototype in Figma Platform
-</a>
+| No | Topic |  File |
+| :-----: |  ------ | :-----: | 
+| 1 | User Interface |<a href="https://www.figma.com/proto/kKC8pg0ilTBncv1txpu6Yp/Login-(Community)?type=design&node-id=264-1457&t=C0ACIzImp0oFrqMX-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=264%3A1457" ><img src="https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png" width="24px" height="24px" ></a> |
+| 2 | Administrator Interface (Sdap Kitchen) | <a href="https://www.figma.com/proto/kKC8pg0ilTBncv1txpu6Yp/Login-(Community)?type=design&node-id=447-1816&t=C0ACIzImp0oFrqMX-0&scaling=contain&page-id=346%3A265&starting-point-node-id=447%3A1816" ><img src="https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png" width="24px" height="24px" ></a> | 
+| 3 | Administrator Interface (Deen Corner | <a href="https://www.figma.com/proto/kKC8pg0ilTBncv1txpu6Yp/Login-(Community)?type=design&node-id=526-6186&t=C0ACIzImp0oFrqMX-0&scaling=contain&page-id=526%3A3723&starting-point-node-id=526%3A6186" ><img src="https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png" width="24px" height="24px" ></a> | 
 
 ## 8. Documentation:
 | No | Topic |  File |
