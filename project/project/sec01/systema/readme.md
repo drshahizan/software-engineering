@@ -253,7 +253,7 @@ High Fidelity Wireframes:<br>
 | 000000 | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/96631869/41224964-dccb-43d5-9e6a-358d55ebfbb4" height="30" width="30" /></a> |
 | D02424 | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/96631869/cc628f9b-1588-4c14-a0a9-c65e846cc09e" height="30" width="30"/></a> |
 | FFC327 | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/96631869/36911d30-ba89-4796-954d-dce34301a0ce" height="30" width="30"  /></a>  |
-| FFFFFF | (White) |
+| FFFFFF | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/96631869/39542c05-cb45-4a22-af1f-073174cb9c0f" height="30" width="30"  /></a> |
 
 ### User Prototype:<br>
 [Interact with our system prototype: ](https://www.figma.com/file/xoLv2jya85swQCl30HYeFQ/Student-Engagement-System-Design?type=design&node-id=65%3A1843&mode=design&t=xW9h06NpXfnp1qxj-1)
