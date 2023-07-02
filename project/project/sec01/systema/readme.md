@@ -239,19 +239,10 @@ High Fidelity Wireframes:<br>
 <img src="https://i.imgur.com/DZIIVuZ.png" style="width:450px;height:350px"><br>
 
 ### Typography:
-- Sans Serif: Regular, Medium, Semibold, Bold
+<img src="https://imgur.com/2YDUsTT" width="400px" height="600px">
 
 ### Color Scheme:
-| Color code | Display |
-| :--------: | ----- |
-| 4044ED | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/96631869/3b3dbdf4-ef75-449e-8d7f-ab3bfd05cd35" height="30" width="30" /></a> |
-| CFE0E8 | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/96631869/e959674f-2221-4bbc-acd6-1495b4ef417b" height="30" width="30"/></a> |
-| DAEBE8 | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/96631869/ded49a4a-9bab-45a6-8051-8d1d494e7857" height="30" width="30"/></a> |
-| CCCCCC | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/96631869/ab6a7eff-444e-434f-b2b9-92b9b8fc18ff" height="30" width="30"/></a> |
-| 000000 | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/96631869/41224964-dccb-43d5-9e6a-358d55ebfbb4" height="30" width="30" /></a> |
-| D02424 | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/96631869/cc628f9b-1588-4c14-a0a9-c65e846cc09e" height="30" width="30"/></a> |
-| FFC327 | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/96631869/36911d30-ba89-4796-954d-dce34301a0ce" height="30" width="30"  /></a>  |
-| FFFFFF | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/96631869/39542c05-cb45-4a22-af1f-073174cb9c0f" height="30" width="30"  /></a> |
+<img src="https://imgur.com/HWUFYKz" width="400px" height="600px">
 
 ### User Prototype:<br>
 [Interact with our system prototype](https://www.figma.com/file/xoLv2jya85swQCl30HYeFQ/Student-Engagement-System-Design?type=design&node-id=65%3A1843&mode=design&t=xW9h06NpXfnp1qxj-1)
