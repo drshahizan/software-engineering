@@ -246,7 +246,7 @@ High Fidelity Wireframes:<br>
 ### Color Scheme:
 | Color code | Display |
 | :--------: | ----- |
-| 4044ED | <a><img align="center" src="https://icolorpalette.com/color/1f23ea" height="30" /></a> |
+| 4044ED | <a><img align="center" src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/colou1.webp" height="30" /></a> |
 | CFE0E8 | <a><img align="center" src="xx" height="30" /></a> |
 | DAEBE8 | <a><img align="center" src="xx" height="30" /></a> |
 | CCCCCC | <a><img align="center" src="xx" height="30" /></a> |
