@@ -239,10 +239,10 @@ High Fidelity Wireframes:<br>
 <img src="https://i.imgur.com/DZIIVuZ.png" style="width:450px;height:350px"><br>
 
 ### Typography:
-<img src="https://i.imgur.com/2YDUsTT.png" width="400px" height="600px">
+<img src="https://i.imgur.com/2YDUsTT.png" width="550px" height="400px">
 
 ### Color Scheme:
-<img src="https://i.imgur.com/HWUFYKz.png" width="400px" height="600px">
+<img src="https://i.imgur.com/HWUFYKz.png" width="400px" height="500px">
 
 ### User Prototype:<br>
 [Interact with our system prototype](https://www.figma.com/file/xoLv2jya85swQCl30HYeFQ/Student-Engagement-System-Design?type=design&node-id=65%3A1843&mode=design&t=xW9h06NpXfnp1qxj-1)
