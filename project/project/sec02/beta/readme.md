@@ -112,27 +112,33 @@ Don't forget to hit the :star: if you like this repo.
 | 13 | 08/06/2023 |Daniel, Ariff|Requirements Analyst,Developer|High fidelity for admin|Complete|
 | 14 | 10/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|SDD documentation|Incomplete|
 | 15 | 15/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|STD documentation|Incomplete|
-| 13 | 20/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Scrum meeting|Complete|
-| 13 | 21/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Scrum meeting|Complete|
+| 16 | 20/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Scrum meeting|Complete|
+| 17 | 22/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Update SDD Documentation|Complete|
+| 18 | 23/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Update STD Documentation|Complete|
+| 19 | 01/07/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Discussion about Project Details|Complete|
+| 20 | 02/07/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Update Project Documentation Details|Complete|
+| 21 | 02/07/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Project Documentation|Incomplete|
 
-## Submission
-| No | Topic |  File |
-| :-----: |  ------ | :-----: | 
-| 1 | Proposal |  <a href="./proposal/materials/groups.md" ><img src="![document](https://github.com/drshahizan/software-engineering/assets/129138344/f7bf122b-7d6a-413c-b24c-0788ae0f1885)" width="24px" height="24px" ></a> | 
-| 2 | System Requirements Specification (SRS)| <a href="[project/documentation/srs/srs-group.md](https://drive.google.com/file/d/1vDPmSlIR5M2pV-nBO67lgZFeKwwqQ6zq/view?usp=drive_link)" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
-| 3 | System Design Descriptions (SDD) | <a href="project/documentation/sdd/sdd-group.md" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
-| 4 | System Test Descriptions (STD)| <a href="project/documentation/std/std-group.md" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
+
+
+
+
+
 
 # PROJECT DOCUMENTATION:
 ## 1. Introduction:
 The purpose of our food ordering system is to provide a convenient and user-friendly platform for customers to place their food orders, eliminating the need for long queues and reducing waiting times. Our objective is to streamline the process of ordering food, ensuring efficiency and customer satisfaction. By leveraging technology, we aim to bridge the gap between restaurants and customers, making it easier for individuals to enjoy their favorite meals without the hassle of traditional ordering methods.The traditional methods of ordering food often involve enduring long queues, especially during peak hours, which can lead to frustration and wasted time for customers. Our project aims to address this challenge by developing a robust food ordering system that allows customers to bypass lengthy queues. By providing an online platform, we offer a convenient alternative that saves time and eliminates the need for physical queuing, ultimately enhancing the overall dining experience.The significance of our food ordering system lies in its potential to revolutionize the way people order food, particularly by minimizing waiting times. By offering a user-friendly application, we empower customers to explore a wide range of restaurants and menus, customize their orders, and conveniently place them with just a few taps on their mobile devices. With our system, customers no longer need to wait in long queues, enabling them to save valuable time and enjoy their meals without unnecessary delays.This reduction in waiting times not only benefits customers but also improves operational efficiency for restaurants. By streamlining the ordering process, restaurants can serve customers more effectively, ensuring prompt order preparation and minimizing congestion during peak hours.By implementing this food ordering system, we envision a future where customers can easily explore a variety of culinary options, place their orders efficiently, and enjoy their favorite meals without enduring long queues or unnecessary waiting times.
 
 ## 2. Methodology:
-<div id="header" align="center">
-  <img src="https://dribbble.com/shots/5487982-Developers-Gif" width="300" height="200"/>
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif" alt="image" width="400" height="300" style="border: 5px solid purple;">
 </div>
-
-To develop our Food Ordering System, we have chosen the Agile methodology as our software development process model. The Agile approach enables us to create a user-friendly and high-quality system within the allocated time and budget, while effectively addressing the requirements of our stakeholders.
+<p> 
+  
+  To develop our Food Ordering System, we have chosen the Agile methodology as our software development process model. The Agile approach enables us to create a user-friendly and high-quality system within the allocated time and budget, while effectively addressing the requirements of 
+  our stakeholders. 
+  
+</p>
 
 By leveraging the Agile methodology, we can effectively address the specific requirements of the food ordering system, including the need for adaptability and ongoing collaboration with stakeholders. The Agile approach enables us to continuously enhance and update the system based on valuable feedback, ensuring that our Food Ordering System remains relevant, user-friendly, and exceeds the expectations of our customers.
 <div id="header" align="center">
@@ -173,7 +179,8 @@ By leveraging the Agile methodology, we can effectively address the specific req
   - Offer ongoing support and maintenance to address any issues and meet stakeholder demands.
 
 ## 3. Implementation:
-[View our project timeline and tasks](https://github.com/users/drshahizan/projects/19/views/5)
+**_Project Timeline:_** <a href="https://github.com/users/drshahizan/projects/19/views/1" ><img src="https://cdn-icons-png.flaticon.com/512/3448/3448449.png" width="24px" height="30px" ></a> 
+
 - Detail the specific tasks and activities undertaken by your group.
 - Provide an overview of the software components or modules developed.
 - Describe any challenges faced during the implementation phase and how you addressed them.
@@ -220,7 +227,7 @@ To optimize the food ordering system, it is crucial to focus on teamwork, stakeh
 
 In conclusion, to optimize the food ordering system, it is essential to prioritize teamwork, stakeholder engagement, and user-centric improvements. By fostering effective collaboration, engaging stakeholders throughout the design process, and enhancing the system based on user feedback, a more cohesive and user-friendly experience can be achieved. This approach not only benefits the team by promoting collaboration and flexibility but also ensures that the food ordering system meets stakeholders' expectations and delivers a seamless and satisfying experience to users.
 
-## 7. Figma:
+## 7. Figma Prototype:
 <a href="https://www.figma.com/proto/kKC8pg0ilTBncv1txpu6Yp/Login-(Community)?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1" target="_blank">
   <span style="pointer-events: none;">
     <img src="https://logowik.com/content/uploads/images/figma.jpg" alt="Figma Logo" width="24px" height="24px">
@@ -228,4 +235,19 @@ In conclusion, to optimize the food ordering system, it is essential to prioriti
   Our Prototype in Figma Platform
 </a>
 
+## 8. Documentation:
+| No | Topic |  File |
+| :-----: |  ------ | :-----: | 
+| 1 | Proposal |<a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/Beta" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> |
+| 2 | System Requirements Specification (SRS)| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/documentation/srs/sec02/beta/Food%20Ordering%20System-SRS_Group%20(Beta).docx%20(2).pdf" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> | 
+| 3 | System Design Descriptions (SDD) | <a href="https://docs.google.com/document/d/1gna8Y_3pXq2pYxGWBdGKjZ8hy1BKsWuh/edit" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> | 
+| 4 | System Test Descriptions (STD)| <a href="https://docs.google.com/document/d/1mIybNY1HmJNrAwAN5GM3z6VCQVPPYu1e/edit" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> | 
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
 
