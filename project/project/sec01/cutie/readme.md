@@ -154,7 +154,7 @@ In later stages of development, the UI module transitions to high fidelity desig
 ##### Authentication Module:
 The authentication module handles user authentication and security within the Attendance System. It includes functionalities such as login, password management, and access control. The module ensures secure access to the system, encrypts sensitive information, and manages user sessions.
 //+paste ui design 
-#### Design System
+#### UI/UX Design 
 
 Student:
 ![image](https://github.com/drshahizan/software-engineering/assets/129280403/d05c2b29-9cb9-4a92-ba0c-78d7fee29beb)
