@@ -34,10 +34,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>Back-end Developer</td>
   </tr>
 </table>
-## Documentation
-| No | Name |File | 
-| -----:| ----- | :------: | 
-|1| Document SDD| <a href="https://docs.google.com/document/d/1x2cAEcIkgSorcYdHs-nrblTG7TMmpZbY39GXgxQNhdU/edit?usp=sharing" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+
 
 ## Stakeholder
 One Stop Parcel Center & Cengal Parcel Point
