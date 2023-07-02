@@ -130,6 +130,11 @@ Our team had collaborated with our stakeholders to create a system design that a
 #### Use case diagrem:
 ![image](https://github.com/drshahizan/software-engineering/assets/129280403/3ae871d5-8510-4163-b0ee-af4c2cc59a42)
 
+#### Activity diagram:
+![image](https://github.com/drshahizan/software-engineering/assets/129280403/ea1e2d67-9c13-4728-892f-aba1f2c663f9)
+
+
+
 
 </li>
 
@@ -145,9 +150,26 @@ In the earlier stages of development, The UI module utilizes low fidelity design
 
 1.2	High Fidelity UI:
 In later stages of development, the UI module transitions to high fidelity designs created using the Figma design tool. Figma provides a digital design environment that allows designers to create polished and visually appealing interfaces. High fidelity UI designs in Figma incorporate detailed visual elements, typography and colors.
+
 ##### Authentication Module:
 The authentication module handles user authentication and security within the Attendance System. It includes functionalities such as login, password management, and access control. The module ensures secure access to the system, encrypts sensitive information, and manages user sessions.
 //+paste ui design 
+#### Design System
+
+Student:
+![image](https://github.com/drshahizan/software-engineering/assets/129280403/d05c2b29-9cb9-4a92-ba0c-78d7fee29beb)
+
+Lecturer:
+![image](https://github.com/drshahizan/software-engineering/assets/129280403/9c6633c2-9e66-4642-b8dc-c1c5303f179e)
+
+Admin:
+![image](https://github.com/drshahizan/software-engineering/assets/129280403/7408cf89-9356-4fb5-b287-56079831c6bf)
+
+![image](https://github.com/drshahizan/software-engineering/assets/129280403/f9af3314-4bb4-4128-bd85-8727feeb2e90)
+
+
+
+
   
 #### Challenge faced
 ##### 1. Technical Compatibility
