@@ -217,10 +217,10 @@ These are the used tools and technologies for developing our Student Engagement 
       - UC022 Forum Comments: Users are allowed to comment at any post
       - UC023 Edit Forum: Users are allowed to edit their post after posting it<br>
 <br>
-Use Case Diagram:
+**Use Case Diagram:**
  <br>
 <img src="https://github.com/drshahizan/software-engineering/assets/96631869/47e6cc19-7155-4bb9-ba3c-62eda5e1aaf3" alt="img" >
-Class Diagram:
+**Class Diagram:**
  <br>
 <img src="https://github.com/drshahizan/software-engineering/assets/96631869/4cb5a9de-a6f9-48d8-b4f6-dc47ae9d889f" alt="img">
   
