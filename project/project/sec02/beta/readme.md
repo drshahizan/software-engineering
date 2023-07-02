@@ -115,17 +115,15 @@ Don't forget to hit the :star: if you like this repo.
 | 13 | 20/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Scrum meeting|Complete|
 | 13 | 21/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Scrum meeting|Complete|
 
+## Submission
+| No | Topic |  File |
+| :-----: |  ------ | :-----: | 
+| 1 | Proposal |  <a href="./proposal/materials/groups.md" ><img src="![document](https://github.com/drshahizan/software-engineering/assets/129138344/f7bf122b-7d6a-413c-b24c-0788ae0f1885)" width="24px" height="24px" ></a> | 
+| 2 | System Requirements Specification (SRS)| <a href="[project/documentation/srs/srs-group.md](https://drive.google.com/file/d/1vDPmSlIR5M2pV-nBO67lgZFeKwwqQ6zq/view?usp=drive_link)" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
+| 3 | System Design Descriptions (SDD) | <a href="project/documentation/sdd/sdd-group.md" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
+| 4 | System Test Descriptions (STD)| <a href="project/documentation/std/std-group.md" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
 
-
-## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
-
-You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
-
-
+# PROJECT DOCUMENTATION:
 ## 1. Introduction:
 The purpose of our food ordering system is to provide a convenient and user-friendly platform for customers to place their food orders, eliminating the need for long queues and reducing waiting times. Our objective is to streamline the process of ordering food, ensuring efficiency and customer satisfaction. By leveraging technology, we aim to bridge the gap between restaurants and customers, making it easier for individuals to enjoy their favorite meals without the hassle of traditional ordering methods.The traditional methods of ordering food often involve enduring long queues, especially during peak hours, which can lead to frustration and wasted time for customers. Our project aims to address this challenge by developing a robust food ordering system that allows customers to bypass lengthy queues. By providing an online platform, we offer a convenient alternative that saves time and eliminates the need for physical queuing, ultimately enhancing the overall dining experience.The significance of our food ordering system lies in its potential to revolutionize the way people order food, particularly by minimizing waiting times. By offering a user-friendly application, we empower customers to explore a wide range of restaurants and menus, customize their orders, and conveniently place them with just a few taps on their mobile devices. With our system, customers no longer need to wait in long queues, enabling them to save valuable time and enjoy their meals without unnecessary delays.This reduction in waiting times not only benefits customers but also improves operational efficiency for restaurants. By streamlining the ordering process, restaurants can serve customers more effectively, ensuring prompt order preparation and minimizing congestion during peak hours.By implementing this food ordering system, we envision a future where customers can easily explore a variety of culinary options, place their orders efficiently, and enjoy their favorite meals without enduring long queues or unnecessary waiting times.
 
