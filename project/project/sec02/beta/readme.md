@@ -247,6 +247,14 @@ In conclusion, to optimize the food ordering system, it is essential to prioriti
 ![Image](https://user-images.githubusercontent.com/128231261/250364333-2acf0f8b-16af-43bd-8cb6-b08aa83d35f0.png)
 ![Image](https://user-images.githubusercontent.com/128231261/250364335-5f74b32e-129f-49ee-89bb-3f25cb33ed9c.png)
 ![Image](https://user-images.githubusercontent.com/128231261/250364334-8bd2a8d4-e4b8-47da-80b2-2ee3376322e1.png)
+![Image](https://github.com/drshahizan/software-engineering/assets/128123046/88ebc7e9-5bb9-485b-891b-95389d02b084)
+![Image](https://github.com/drshahizan/software-engineering/assets/128123046/1271d3f4-1967-4575-b26f-93c3515f35e5)
+![Image](https://github.com/drshahizan/software-engineering/assets/128123046/eec1da8d-adb3-43e5-b076-b662f441a58a)
+![Image](https://github.com/drshahizan/software-engineering/assets/128123046/a8e7306f-31ed-4d75-b927-046cea5cb5e9)
+![Image](https://github.com/drshahizan/software-engineering/assets/128123046/e72a7758-7d67-4e4c-90e4-14d4c358dec3)
+![Image](https://github.com/drshahizan/software-engineering/assets/128123046/e2256d0e-2221-4fb6-bf18-ea495c8f59c2)
+![Image](https://github.com/drshahizan/software-engineering/assets/128123046/fd774a0c-0b6e-4542-bb2c-39f7d100c2fd)
+
 
 
 
