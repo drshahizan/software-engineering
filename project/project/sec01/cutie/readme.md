@@ -131,7 +131,8 @@ Our team had collaborated with our stakeholders to create a system design that a
 ![image](https://github.com/drshahizan/software-engineering/assets/129280403/3ae871d5-8510-4163-b0ee-af4c2cc59a42)
 
 #### Activity diagram:
-![image](https://github.com/drshahizan/software-engineering/assets/129280403/b27f4a05-4bf9-4ed4-89a6-50d8258606a3)
+![image](https://github.com/drshahizan/software-engineering/assets/129280403/ea1e2d67-9c13-4728-892f-aba1f2c663f9)
+
 
 
 
