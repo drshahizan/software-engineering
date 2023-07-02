@@ -101,7 +101,7 @@ belum habis modify lagi
 # Academic Consultation System
 ### 💫Table of Contents
 * [Table of Contents](#table-of-contents)
-* [Introduction](#introduction)
+* [Introduction](#1.-Introduction:)
 * [Purpose and Objectives](#1-purpose-and-objectives)
 * [Problem Statement](#2-problem-statement)
 * [Potential Impact](#4-potential-impact)
@@ -132,7 +132,7 @@ The Academic Consultation System presented in this project addresses these chall
 Furthermore, this project recognizes the importance of lecturers' time and commitments. By enabling lecturers to manage consultations separately from their teaching schedules, the system ensures that they can provide individualized attention to students without disrupting their regular classroom activities. This balance will enhance lecturers' ability to support students effectively and create a positive impact on student learning outcomes.
 
 ## 2. Methodology:
-![AGILE_METHODOLOGY_InterQuality_image_1](https://github.com/drshahizan/software-engineering/assets/128196055/e65aaf00-ed91-409a-be66-3bad98259b75)
+<img src="https://github.com/drshahizan/software-engineering/assets/128196055/e65aaf00-ed91-409a-be66-3bad98259b75" width="400" height=auto>
 
 The project adopted the Agile methodology for software development, which focuses on iterative and incremental development, flexibility, and collaboration. The Agile manifesto values individuals and interactions over processes and tools, working software over comprehensive documentation, customer collaboration over contract negotiation, and responding to change over following a plan.
 
@@ -180,9 +180,9 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 
 ### A) Detail the specific tasks and activities undertaken by our group:
 - <b>Create Project Plan</b>: Set up a meeting with all group member to decide the software system to be develop. Determine the role of each member and have a rough plan for this project.
-![Image](https://user-images.githubusercontent.com/128196055/246129016-686b476a-9eb0-4446-980f-2a0b193df236.PNG)
-![Image](https://user-images.githubusercontent.com/128212534/244259760-60d5131f-cc04-4828-879a-d07f5ef3c6de.png)
- 
+ <img src="https://user-images.githubusercontent.com/128196055/246129016-686b476a-9eb0-4446-980f-2a0b193df236.PNG" width="400" height=auto>
+<img src="https://user-images.githubusercontent.com/128212534/244259760-60d5131f-cc04-4828-879a-d07f5ef3c6de.png" width="400" height=auto>
+
 - <b>Find Stakeholders</b>: Deciding who's is our stakeholder for our system that called Student Feedback System in Faculty of Computing, University Technology Malaysia.
   ## Stakeholder
 <table>
@@ -224,8 +224,7 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 Time & Date : 10:00 a.m. (2 May 2023)
 Venue : 438-20 (N28)
 
-
-![Image](https://user-images.githubusercontent.com/128214992/235604729-373f61de-9ce5-4887-90c8-0f0a5983f10e.jpg)
+<img src="https://user-images.githubusercontent.com/128214992/235604729-373f61de-9ce5-4887-90c8-0f0a5983f10e.jpg" width="400" height=auto>
 
 **From the meeting,Dr. Azizah gave us a few recommendations to be added into the system such as:**
 1.  Academic advisor will get a notification regarding the students performance if it decreases continuously in three semesters.
@@ -239,7 +238,7 @@ Venue : 438-20 (N28)
 Time & Date : 11:00 a.m. (7 May 2023)
 Venue : N24 Lounge
 
-![Image](https://user-images.githubusercontent.com/93176591/237020470-362ba2d2-0d01-4c9d-8040-de7903945d30.jpg)
+<img src="https://user-images.githubusercontent.com/93176591/237020470-362ba2d2-0d01-4c9d-8040-de7903945d30.jpg" width="400" height=auto>
 
 From the meeting, Asyikin gave us a few recommendations to be added into the system such as:
 - The system's calendar feature will allow student to see the availability of advisors and choose appointment slots that best fit their schedules.
@@ -251,10 +250,7 @@ From the meeting, Asyikin gave us a few recommendations to be added into the sys
 Time & Date : 10:00 a.m. (2 May 2023)
 Venue : Online Platform via Google Meet
 
-
-
-
-![Image](https://user-images.githubusercontent.com/128196055/237020811-431db32d-fcc3-4d63-ba16-685afcd6eef7.PNG)
+<img src="https://user-images.githubusercontent.com/128196055/237020811-431db32d-fcc3-4d63-ba16-685afcd6eef7.PNG" width="400" height=auto>
 
 Outcome:
 - message interface to ease the communication between student and their academic advisor
@@ -267,9 +263,7 @@ Outcome:
 Time & Date : 4:15 a.m. (15 May 2023)
 Venue : Online Platform via Google Meet
 
-
-
-![Image](https://github.com/drshahizan/software-engineering/assets/128214992/a98d4dd6-bf09-4e9f-a2f7-cc0cd2ee5f6f)
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/a98d4dd6-bf09-4e9f-a2f7-cc0cd2ee5f6f" width="400" height=auto>
 
 Problem 1: Lack of Student Details for Administrators
 - Administrators in the academic consultation system do not have access to sufficient information about students.
@@ -283,24 +277,22 @@ Solution:
 
 
 - <b>Create Proposal</b>: We create a proposal to briefly describe the student feedback system.<a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/program" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/1999131.png" width="24px" height="24px" ></a>
-  
+
 - <b>Create UML Diagram</b>: Create Use case Diagram,Class Diagram,Sequence diagram and Activity Diagram.
   
 Sequence Diagram:<br>
- ![usecasediagram-Sequence Diagram drawio](https://github.com/drshahizan/software-engineering/assets/128214992/bd353ec2-8ebe-4b52-9d7a-c15275eea3ea)
-
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/bd353ec2-8ebe-4b52-9d7a-c15275eea3ea" width="1000" height=auto>
  
 Class Diagram:<br>
-<img src = "https://github.com/drshahizan/software-engineering/assets/128196055/cccc27c3-b25a-4384-beeb-ecdd9d451cd9" width="600" height=auto>
+<img src = "https://github.com/drshahizan/software-engineering/assets/128196055/cccc27c3-b25a-4384-beeb-ecdd9d451cd9" width="1000" height=auto>
 
  
 
 Use Case Diagram:<br>
- <img src="https://github.com/drshahizan/software-engineering/assets/128196055/22a484f3-d06f-43ac-8ebb-109d6e3249a6" width="400" height=auto >
+<img src="https://github.com/drshahizan/software-engineering/assets/128196055/22a484f3-d06f-43ac-8ebb-109d6e3249a6" width="1000" height=auto >
 
 Activity Diagram:<br>
-![usecasediagram-Schedule drawio (1)](https://github.com/drshahizan/software-engineering/assets/128214992/909dda81-becb-4b18-aaca-f858ac586b9d)
-
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/909dda81-becb-4b18-aaca-f858ac586b9d" width="600" height=auto >
  
 - <b>Create SRS Documentation</b>: Use Cases and extra to-do parts in SRS documentation identified
 
@@ -336,17 +328,17 @@ Low Fidelity Wireframes:
 
 High Fidelity Wireframes:
 1. Student
-- ![Image](https://github.com/drshahizan/software-engineering/assets/128196055/778f0dc1-dc92-4dfc-80ed-9a2f29c42869)
+- ![image](https://github.com/drshahizan/software-engineering/assets/128214992/758b80b3-b1a8-4676-ac74-264f7e9729af)
 
 
 
 2. Lecturer
-- ![Image](https://github.com/drshahizan/software-engineering/assets/128196055/b3d2af82-8a94-49c2-9bc0-2d26c8922be5)
+- ![image](https://github.com/drshahizan/software-engineering/assets/128214992/02171e9f-3c8e-4440-8c6e-816315e07dee)
 
 
 
 3. Administrator
-- ![Image](https://github.com/drshahizan/software-engineering/assets/128196055/615caf60-6264-4b73-a6cb-78435a3d9930)
+- ![image](https://github.com/drshahizan/software-engineering/assets/128214992/ef2630d5-aaa2-446b-8993-1f03f9ffd17f)
 
 
 Design System & Typography:
