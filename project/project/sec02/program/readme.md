@@ -358,7 +358,8 @@ Design System & Typography:
 <a href="https://docs.google.com/document/d/1O9BgazCy0P2WQckn1uQQ2f2tliQre5_6zR4EDoSp1wY/edit?usp=sharing" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/docx-9.png" width="24px" height="24px" ></a>
 
 - Component Model:
-![Component Diagram](https://github.com/drshahizan/software-engineering/assets/128212534/77cc1110-c06a-4ddf-96f5-59ec548d6244)
+![Component Diagram](https://github.com/drshahizan/software-engineering/assets/128212534/d147b353-5c81-4e91-a00a-d58296600188)
+
 
 
 
