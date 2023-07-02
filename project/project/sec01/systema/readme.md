@@ -246,15 +246,16 @@ High Fidelity Wireframes:<br>
 ### Color Scheme:
 | Color code | Display |
 | :--------: | ----- |
-| 4044ED | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/118497269/0337df56-798c-46bb-b489-7c1e572419c9" height="30" /></a> |
-| CFE0E8 | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/118497269/a9d3943d-7061-4430-8c9c-a89936caa644" height="30" /></a> |
-| DAEBE8 | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/118497269/58e2efd3-243b-4e8f-b0b1-b6bd7857ee93" height="30" /></a> |
-| CCCCCCC | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/118497269/e54afc09-b083-4cbc-98a2-f9bf356950ca" height="30" /></a> |
-| 000000 | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/118497269/19b189e5-9d68-44d9-bf96-79a88a254706" height="30" /></a> |
-|D02424 | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/118497269/3e6bd154-d4be-4f71-8c16-186b4c9c9106" height="30" /></a> |
+| 4044ED | <a><img align="center" src="xx" height="30" /></a> |
+| CFE0E8 | <a><img align="center" src="xx" height="30" /></a> |
+| DAEBE8 | <a><img align="center" src="xx" height="30" /></a> |
+| CCCCCC | <a><img align="center" src="xx" height="30" /></a> |
+| 000000 | <a><img align="center" src="xx" height="30" /></a> |
+| D02424 | <a><img align="center" src="xx" height="30" /></a> |
 | FFC327 | (White) |
-User Prototype:<br>
-Interact with our system prototype: (https://www.figma.com/file/xoLv2jya85swQCl30HYeFQ/Student-Engagement-System-Design?type=design&node-id=65%3A1843&mode=design&t=xW9h06NpXfnp1qxj-1)
+
+### User Prototype:<br>
+[Interact with our system prototype: ](https://www.figma.com/file/xoLv2jya85swQCl30HYeFQ/Student-Engagement-System-Design?type=design&node-id=65%3A1843&mode=design&t=xW9h06NpXfnp1qxj-1)
 
 
 ## 4. Testing and Quality Assurance:
