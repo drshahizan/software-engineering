@@ -127,13 +127,13 @@ These are the used tools and technologies for developing our Student Engagement 
 
 | Task                 | Software                    |
 |----------------------|-----------------------------|
-| Web Development      | <a href="https://bootstrapstudio.io/" ><img src="./images/bootstrap-studio.png" width="24px" height="24px" ></a>|
-| Prototyping          | <a href="./materials/figma.md" ><img src="./images/figma.svg" width="24px" height="24px" ></a>|
+| Web Development      | Bootstrap Studio |
+| Prototyping          | Figma |
 | Data Source          | ELearning Website, Facebook |
-| Data Schema          | <a href="./materials/uml/drawio/1-draw-io.md" ><img src="./images/drawio.svg" width="24px" height="24px" ></a>|
-| Programming Languages| HTML, CSS                   |
-| Libraries            | <a href="https://bootstrapstudio.io/" ><img src="./images/bootstrap-studio.png" width="24px" height="24px" ></a>|
-| Database Management  | PHPMyAdmin & XAMPP          |
+| Data Schema          | draw.io |
+| Programming Languages| HTML, CSS |
+| Libraries            | Bootstrap Studio |
+| Database Management  | PHPMyAdmin & XAMPP |
 | Hardware Requirements| RAM: > 8GB and above, Storage: > 50GB and above, Display: 1920x1080 and higher |
 | Software Requirements| Operating System: Windows 10 or higher, IDE: Visual Studio Code, Bootstrap Studio, Web Server: Google, Version Control: Git |
 
