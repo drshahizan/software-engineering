@@ -115,13 +115,6 @@ Don't forget to hit the :star: if you like this repo.
 | 13 | 20/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Scrum meeting|Complete|
 | 13 | 21/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Scrum meeting|Complete|
 
-## Submission
-| No | Topic |  File |
-| :-----: |  ------ | :-----: | 
-| 1 | Proposal |  <a href="./proposal/materials/groups.md" ><img src="![document](https://github.com/drshahizan/software-engineering/assets/129138344/f7bf122b-7d6a-413c-b24c-0788ae0f1885)" width="24px" height="24px" ></a> | 
-| 2 | System Requirements Specification (SRS)| <a href="[project/documentation/srs/srs-group.md](https://drive.google.com/file/d/1vDPmSlIR5M2pV-nBO67lgZFeKwwqQ6zq/view?usp=drive_link)" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
-| 3 | System Design Descriptions (SDD) | <a href="project/documentation/sdd/sdd-group.md" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
-| 4 | System Test Descriptions (STD)| <a href="project/documentation/std/std-group.md" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
 
 # PROJECT DOCUMENTATION:
 ## 1. Introduction:
@@ -227,5 +220,13 @@ In conclusion, to optimize the food ordering system, it is essential to prioriti
   </span>
   Our Prototype in Figma Platform
 </a>
+
+## 8. Documentation:
+| No | Topic |  File |
+| :-----: |  ------ | :-----: | 
+| 1 | Proposal |<a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/Beta" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> |
+| 2 | System Requirements Specification (SRS)| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/documentation/srs/sec02/beta/Food%20Ordering%20System-SRS_Group%20(Beta).docx%20(2).pdf" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> | 
+| 3 | System Design Descriptions (SDD) | <a href="https://docs.google.com/document/d/1gna8Y_3pXq2pYxGWBdGKjZ8hy1BKsWuh/edit" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> | 
+| 4 | System Test Descriptions (STD)| <a href="https://docs.google.com/document/d/1mIybNY1HmJNrAwAN5GM3z6VCQVPPYu1e/edit" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> | 
 
 
