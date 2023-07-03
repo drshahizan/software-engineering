@@ -389,7 +389,7 @@ Solutions:
 -	Method: execute each test case manually
 -	Type of Testing involved: Unit testing.
 -	Goal: to identify and fix defects at the earliest stage possible.
-- <img src="" alt="unit_test" height="500px"></img>
+- <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/unit_testing.png?raw=true" alt="unit_test" height="500px"></img>
 
 #### Quality Assurance
 - Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
