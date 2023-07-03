@@ -380,12 +380,17 @@ Solutions:
 
 
 ## Testing and Quality Assurance
+#### Testing
 - Aim: to identify any defects, errors, or issues that may impact its functionality, usability, security, or performance.
 - Process: designing and executing test cases, listing the detailed steps on each test case, and comparing the actual results with the expected results.
 - Strategy or Technique involved: Black box testing with boundary value analysis (BVA) and equivalence partitioning (EP) techniques.
   <img src="" alt="test" height="500px"></img>
+-	Method: execute each test case manually
+-	Type of Testing involved: Unit testing.
+-	Goal: to identify and fix defects at the earliest stage possible.
+- <img src="" alt="unit_test" height="500px"></img>
 
-- Discuss the types of testing conducted (e.g., unit testing, integration testing, etc.).
+#### Quality Assurance
 - Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
 
 ## Results and Archievements
