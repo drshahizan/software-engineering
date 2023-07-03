@@ -345,6 +345,11 @@ During unit testing, we isolated each unit of code and verified its behaviour. T
 
 Also, we could catch bugs early by performing unit testing, saving time and effort in the long run. It improves the overall quality of our code by making it more reliable and robust. Unit tests also aid in collaboration among team members, as they provide clear specifications for the expected behaviour of the code. Thus, unit testing helps us ensure that individual units of code work correctly, detect bugs early, support refactoring and maintenance, and improve the overall quality of our software.
 
+<div id="header" align="center">
+  <h4>Testing Record Template</h4>
+  <img src="https://github.com/drshahizan/software-engineering/assets/118497269/937c9436-70a0-4717-84cc-a6069437abc5" width="800" height="280"/>
+</div>
+
 ### Quality Assurance Process:
 To ensure the reliability and robustness of the software product, we have implemented the following quality assurance processes:
 
