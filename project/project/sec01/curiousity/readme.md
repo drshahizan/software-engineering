@@ -392,7 +392,7 @@ Solutions:
   <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/unit_testing.png?raw=true" alt="unit_test" height="500px"></img>
 
 #### Quality Assurance
--	To ensure the reliability and robustness of the KTDI Event Management system, we have implemented several quality assurance processes.
+To ensure the reliability and robustness of the KTDI Event Management system, we have implemented several quality assurance processes.
 1.	Requirement analysis and validation: We have conducted requirement analysis and validated the requirements through discussions to ensure they are clear, complete, and aligned with the stakeholders' expectations.
 2.	Test planning and strategy: We have developed a comprehensive test plan and strategy by defining the testing approach and techniques to be used to ensure that the testing process is organized and covers all critical aspects of the system.
 3.	Test case development: We have designed and developed test cases that cover all functional and non-functional aspects of the event management system to ensure comprehensive coverage.
