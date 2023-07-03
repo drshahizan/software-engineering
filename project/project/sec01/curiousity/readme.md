@@ -8,7 +8,8 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Activity: Group Curiousity
+# Project : Group Curiousity
+<img src="img/ktdiems.jpg" height="500px" >
 
 ## Group Members
 <img src="img/group.jpg" height="350px" >
@@ -22,16 +23,16 @@ Don't forget to hit the :star: if you like this repo.
     <td>Project Manager</td>
   </tr>
   <tr>
-    <td>2. Koh Li Hui</td>
-    <td>User Experience Designer</td>
-  </tr>
-    <tr>
-    <td>3. Camily Tang Jia Lei</td>
+    <td>2. Camily Tang Jia Lei</td>
     <td>Developer</td>
   </tr>
-    <tr>
-    <td>4. Ng Shu Yu</td>
+  <tr>
+    <td>3. Ng Shu Yu</td>
     <td>Documentation Specialist</td>
+  </tr>
+  <tr>
+    <td>4. Koh Li Hui</td>
+    <td>User Experience Designer</td>
   </tr>
 </table>
 
@@ -380,12 +381,17 @@ Solutions:
 
 
 ## Testing and Quality Assurance
+#### Testing
 - Aim: to identify any defects, errors, or issues that may impact its functionality, usability, security, or performance.
 - Process: designing and executing test cases, listing the detailed steps on each test case, and comparing the actual results with the expected results.
 - Strategy or Technique involved: Black box testing with boundary value analysis (BVA) and equivalence partitioning (EP) techniques.
   <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/testing_pic.png?raw=true" alt="test" height="500px"></img>
+-	Method: execute each test case manually
+-	Type of Testing involved: Unit testing.
+-	Goal: to identify and fix defects at the earliest stage possible.
+  <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/unit_testing.png?raw=true" alt="unit_test" height="500px"></img>
 
-- Discuss the types of testing conducted (e.g., unit testing, integration testing, etc.).
+#### Quality Assurance
 - Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
 
 ## Results and Archievements
