@@ -183,7 +183,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
           </td>
         </tr>
         <tr>
-          <td>Week 3</td>
+          <td><b>Week 3</b></td>
           <td>
           <ul>
           <li>Contact stakeholders</li>
@@ -194,7 +194,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
           </td>
         </tr>
         <tr>
-          <td>Week 4</td>
+          <td><b>Week 4</b></td>
           <td>
           <ul>
           <li>Meeting with 3rd stakeholder, Nadia Syahadah Binti Saharudin</li>
@@ -205,7 +205,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
           </td>
         </tr>
         <tr>
-          <td>Week 5</td>
+          <td><b>Week 5</b></td>
           <td>
           <ul>
           <li>Create SRS Document</li>
@@ -216,7 +216,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
           </td>
         </tr>
         <tr>
-          <td>Week 6</td>
+          <td><b>Week 6</b></td>
           <td>
           <ul>
           <li>Creates UML Diagram, User Diagram, User Journey Maps and User Stories.</li>
@@ -224,7 +224,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
           </td>
         </tr>
         <tr>
-          <td>Week 7 - Week 8</td>
+          <td><b>Week 7 - Week 8</b></td>
           <td>
           <ul>
           <li>Create SDD Document</li>
@@ -234,7 +234,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
           </td>
         </tr>
         <tr>
-          <td>Week 9 - Week 10</td>
+          <td><b>Week 9 - Week 10</b></td>
           <td>
           <ul>
           <li>Create STD Document</li>
@@ -245,7 +245,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
           </td>
         </tr>
         <tr>
-          <td>Week 11</td>
+          <td><b>Week 11</b></td>
           <td>
           <ul>
           <li>Demo presentation</li>
