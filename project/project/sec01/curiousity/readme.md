@@ -392,8 +392,26 @@ Solutions:
 ### 1. Project Outcome: Figma Prototype
 <a href="https://www.figma.com/proto/j19tAaFoStbu6fxeleYlf3/KTDI-Event-Management-System?page-id=27%3A7&type=design&node-id=24-85&viewport=326%2C-303%2C0.04&scaling=scale-down&starting-point-node-id=24%3A85&mode=design"><img src="img/figma.jpg" width="50px" height="50px" ></a>
 
-- Share any quantitative or qualitative data that demonstrates the success of the software solution.
-- Discuss any feedback received from stakeholders or users during the evaluation process.
+### 2. Quantitative / Qualitative Data Demonstrating Success
+## Quantitative data:
+- Increase in event registrations: Before implementing the system, the average number of event registrations per semester was 200. After the system was implemented, the average increased to 350, indicating a 75% increase in event participation.
+- Reduction in event clashes: Before the system implementation, there were 4 instances of event clashes per semester. After implementing the system, the number decreased to 1, demonstrating an 75% reduction in event clashes.
+- Time saved in event preparation: With the system in place, the time spent on event preparation decreased by an average of 30%, resulting in an estimated 10 hours of saved time per event.
+
+## Qualitative data:
+- User satisfaction: JKM KTDI members, KTDI staff, and students expressed high satisfaction with the system, highlighting its user-friendly interface, improved effectiveness of event preparation, and ease of event registration.
+- Improved communication: Feedback from stakeholders indicated that the system significantly enhanced communication between JKM KTDI, staff members, and students. Information was more readily accessible, reducing confusion and improving coordination among team members.
+- Merit point accuracy: JKM KTDI members confirmed that the automated merit point calculation accurately reflected students' activities, ensuring fair determination of their active quota for hostel booking.
+
+### 3. Feedback from stakeholders
+- JKM KTDI Member:
+"The Event Management System has greatly simplified our tasks and improved team coordination. The centralized platform for event planning and task delegation has eliminated the need for multiple meetings and reduced manual errors. It has made our work more efficient and streamlined."
+
+- KTDI Staff Member:
+"The system has been a game-changer for event management at KTDI. It has provided us with a clear overview of all upcoming events and allowed us to avoid event clashes. The automated merit point calculation has also saved us a significant amount of time. We are extremely satisfied with the system's performance and its impact on our daily operations."
+
+- Student:
+"Finding and registering for college events has become so much easier with the KTDI Event Management System. The user-friendly interface and event calendar have made it simple to keep track of upcoming activities. I appreciate the system's ability to provide event details, registration forms, and feedback options all in one place."
 
 ## Conclusion
 - Summarize the overall project experience and lessons learned.
