@@ -62,7 +62,7 @@ Don't forget to hit the :star: if you like this repo.
 * [Design system](#5-design-system)
 * [Challenges](#6-challenges)
 * [Testing and Quality Assurance](#testing-and-quality-assurance)
-* [Results and Archievements](#results-and-archievements)
+* [Results and Achievements](#results-and-achievements)
 * [Conclusion](#conclusion)
 
 
