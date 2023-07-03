@@ -164,39 +164,96 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
 
 ## Implementation
 ### Timeline process
-| No | Date | Member Name | Role  | Task  |
-| -----:| ----- | ------ | ------ | ------ |
-| 1 | 08/04/2023 | Low Ying Xi | Project Manager | Create project plan |
-| 2 | 16/04/2023 | Ng Shu Yu | Documentation Specialist | Gather user requirements |
-| 3 | 21/04/2023 | Camily Tang Jia Lei | Developer | Create proposal |
-| 4 | 02/05/2023 | Low Ying Xi | Project Manager | Contact stakeholders |
-| 5 | 02/05/2023 | Low Ying Xi | Project Manager | Create interview questions |
-| 6 | 03/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei | Project Manger, Documentation Specialist, Developer | Meeting with 1st stakeholder, Hanie Azyuni Binti Mazle (JKM KTDI)|
-| 7 | 04/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei | Project Manger, Documentation Specialist, Developer | Meeting with 2nd stakeholder, Lim Shi Kai (JKM KTDI) |
-| 8 | 10/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with 3rd stakeholder, Nadia Syahadah Binti Saharudin |
-| 9 | 11/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with 4nd stakeholder, LT KOL Prof. Madya Dr. Mohd Noor Azli Bin Haji. Ali Khan (KTDI Administrator) |
-| 10 | 14/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Contact with 5th stakeholder, Hamizah Amalina Binti Amlan (Pembantu Felo KTDI) | 
-| 11 | 15/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | SRS Planning |
-| 12 | 15/05/2023 | Camily Tang Jia Lei | Developer | Identify software functionality |   
-| 13 | 15/05/2023 | Koh Li Hui | User Experience Designer | User Requirement Analysis | 
-| 14 | 15/05/2023 - 05/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Creates UML Diagram, User Diagram, User Journey Maps and User Stories. |
-| 15 | 10/06/2023 | Ng Shu Yu | Documentation Specialist | Create system documentation | 
-| 16 | 13/06/2023| Low Ying Xi | Project Manager | Create SDD document | 
-| 17 | 15/06/2023| Low Ying Xi | Project Manager | Distribute task on managing SDD document | 
-| 18 | 16/06/2023 | Low Ying Xi  | Project Manager | Create system architecture design | 
-| 19 | 16/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui  | Project Manger, Documentation Specialist, Developer, User Experience Designer | Create detailed description of modules |
-| 20 | 16/06/2023 | Ng Shu Yu | Documentation Specialist | Create Data Design |
-| 21 | 17/06/2023 | Camily Tang Jia Lei, Koh Li Hui |Developer, User Experience Designer | Create User Interfaces Design |
-| 22 | 17/06/2023 | Camily Tang Jia Lei, Koh Li Hui |Developer, User Experience Designer | Create Requirement Matrix |  
-| 23 | 20/06/2023 | Ng Shu Yu | Documentation Specialist | Finalize the SDD document |
-| 24 | 20/06/2023| Low Ying Xi | Project Manager | Create STD Document |
-| 25 | 20/06/2023 | Low Ying Xi  | Project Manager | Distribute task |
-| 26 | 21/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui  | Project Manger, Documentation Specialist, Developer, User Experience Designer | Create test cases |
-| 27 | 22/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Create test procedures |
-| 28 | 23/06/2023 | Camily Tang Jia Lei, Koh Li Hui |Developer, User Experience Designer | Create test results |
-| 29 | 24/06/2023 | Camily Tang Jia Lei, Koh Li Hui |Developer, User Experience Designer | Create traceability matrix |  
-| 30 | 26/06/2023 | Ng Shu Yu | Documentation Specialist | Finalize the STD document |
-| 31 | 27/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Project Presentation |
+<table style="border-collapse: collapse;">
+      <thead>
+        <tr>
+          <th>Week</th>
+          <th>Task</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Week 1 - Week 2</td>
+          <td>
+          <ul>
+          <li>Project planning</li>
+          <li>Gather user requirements for system development</li>
+          <li>Create proposal on our system</li>
+          </ul>
+          </td>
+        </tr>
+        <tr>
+          <td>Week 3</td>
+          <td>
+          <ul>
+          <li>Contact stakeholders</li>
+          <li>Create interview questions</li>
+          <li>Meeting with 1st stakeholder, Hanie Azyuni Binti Mazle (JKM KTDI)</li>
+          <li>Meeting with 2nd stakeholder, Lim Shi Kai (JKM KTDI)</li>
+          </ul>
+          </td>
+        </tr>
+        <tr>
+          <td>Week 4</td>
+          <td>
+          <ul>
+          <li>Meeting with 3rd stakeholder, Nadia Syahadah Binti Saharudin</li>
+          <li>Meeting with 4nd stakeholder, LT KOL Prof. Madya Dr. Mohd Noor Azli Bin Haji. Ali Khan (KTDI Administrator)</li>
+          <li>Contact with 5th stakeholder, Hamizah Amalina Binti Amlan (Pembantu Felo KTDI)</li>
+          <li>Meeting with 2nd stakeholder, Lim Shi Kai (JKM KTDI)</li>
+          </ul>
+          </td>
+        </tr>
+        <tr>
+          <td>Week 5</td>
+          <td>
+          <ul>
+          <li>Create SRS Document</li>
+          <li>SRS Planning</li>
+          <li>User Requirement Analysis</li>
+          <li>Identify software functionality</li>
+          </ul>
+          </td>
+        </tr>
+        <tr>
+          <td>Week 6</td>
+          <td>
+          <ul>
+          <li>Creates UML Diagram, User Diagram, User Journey Maps and User Stories.</li>
+          </ul>
+          </td>
+        </tr>
+        <tr>
+          <td>Week 7 - Week 8</td>
+          <td>
+          <ul>
+          <li>Create SDD Document</li>
+          <li>SDD Planning</li>
+          <li>Create system architecture design, detailed description of modules, data design, user interfaces design, requirement matrix</li>
+          </ul>
+          </td>
+        </tr>
+        <tr>
+          <td>Week 9</td>
+          <td>
+          <ul>
+          <li>Create STD Document</li>
+          <li>STD Planning</li>
+          <li>Create test cases, test procedures, test results, traceability matrix</li>
+          <li>Conduct test approach analysis</li>
+          </ul>
+          </td>
+        </tr>
+        <tr>
+          <td>Week 10</td>
+          <td>
+          <ul>
+          <li>Demo presentation</li>
+          </ul>
+          </td>
+        </tr>
+      </tbody>
+</table>
 
 ### Requirement collection
 Meeting with stakeholders <br><br>
