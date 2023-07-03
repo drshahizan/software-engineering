@@ -234,7 +234,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
           </td>
         </tr>
         <tr>
-          <td>Week 9</td>
+          <td>Week 9 - Week10</td>
           <td>
           <ul>
           <li>Create STD Document</li>
@@ -245,7 +245,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
           </td>
         </tr>
         <tr>
-          <td>Week 10</td>
+          <td>Week 11</td>
           <td>
           <ul>
           <li>Demo presentation</li>
