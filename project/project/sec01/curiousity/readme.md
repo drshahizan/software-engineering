@@ -394,7 +394,7 @@ Solutions:
 #### Quality Assurance
 - Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
 
-## Results and Archievements
+## Results and Achievements
 ### 1. Project Outcome: Figma Prototype
 <a href="https://www.figma.com/proto/j19tAaFoStbu6fxeleYlf3/KTDI-Event-Management-System?page-id=27%3A7&type=design&node-id=24-85&viewport=326%2C-303%2C0.04&scaling=scale-down&starting-point-node-id=24%3A85&mode=design"><img src="img/figma.jpg" width="70px" height="70px" ></a>
 
