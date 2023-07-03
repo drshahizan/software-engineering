@@ -419,9 +419,13 @@ Solutions:
 - **Student:**
 "Finding and registering for college events has become so much easier with the KTDI Event Management System. The user-friendly interface and event calendar have made it simple to keep track of upcoming activities. I appreciate the system's ability to provide event details, registration forms, and feedback options all in one place."
 
-<img src="img/conclusion1.jpg" height="600px" >
 
 ## Conclusion
+
+<img src="img/conclusion1.jpg" height="600px" >
+
+<img src="img/conclusion2.jpg" height="600px" >
+
 - Summarize the overall project experience and lessons learned.
 - Reflect on the challenges faced and how they were overcome.
 - Highlight any future improvements or recommendations for further development.
