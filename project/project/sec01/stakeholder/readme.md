@@ -1,4 +1,3 @@
-
 <a href="https://github.com/drshahizan/software-engineering/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/software-engineering" alt="Stars Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/network/members"><img src="https://img.shields.io/github/forks/drshahizan/software-engineering" alt="Forks Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
@@ -295,10 +294,19 @@ The implemented Student Accommodation System comprised several software componen
 
 ### User Interface Design:
 - Student user interfaces: 32 pages
+ ![KTDI (5)](https://github.com/drshahizan/software-engineering/assets/118497269/d5efbc2a-6895-49dd-ab44-61e18e4818ba)
+
 - Fellow user interfaces: 13 pages
+  ![KTDI](https://github.com/drshahizan/software-engineering/assets/118497269/4d8dae34-eb80-4184-8cfd-86f1ea3e3df5)
+  
 - Staff user interfaces: 21 pages
-- Admin user interfaces: 18 pages
+  ![KTDI (5)](https://github.com/drshahizan/software-engineering/assets/118497269/5a085ee4-04c6-4cd7-8220-d396adc7f14b)
+
+- Admin user interfaces: 22 pages
+  ![KTDI (4)](https://github.com/drshahizan/software-engineering/assets/118497269/e02ed2be-940a-4977-b7c3-8a761f3e43f1)
+
 - Authentication user interfaces: 9 pages
+  ![KTDI (3)](https://github.com/drshahizan/software-engineering/assets/118497269/e784dd47-f208-4c90-9d12-7f18f524623f)
 
 - [View our system UI here](https://www.figma.com/file/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=0%3A1&mode=design&t=Ukz44HLf9hqVg9yG-1)
 
