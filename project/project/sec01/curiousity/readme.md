@@ -392,7 +392,13 @@ Solutions:
   <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/unit_testing.png?raw=true" alt="unit_test" height="500px"></img>
 
 #### Quality Assurance
-- Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
+-	To ensure the reliability and robustness of the KTDI Event Management system, we have implemented several quality assurance processes.
+1.	Requirement analysis and validation: We have conducted requirement analysis and validated the requirements through discussions to ensure they are clear, complete, and aligned with the stakeholders' expectations.
+2.	Test planning and strategy: We have developed a comprehensive test plan and strategy by defining the testing approach and techniques to be used to ensure that the testing process is organized and covers all critical aspects of the system.
+3.	Test case development: We have designed and developed test cases that cover all functional and non-functional aspects of the event management system to ensure comprehensive coverage.
+4.	Document creation: We have created comprehensive system documentation, including SRS, SDD and STD to ensure the performance of our system will always be optimized.
+5.	Continuous improvement: We are continuously gathering feedback from users and stakeholders in order to identify areas for improvement and also enhance the quality and reliability of our system.
+
 
 ## Results and Achievements
 ### 1. Project Outcome: Figma Prototype
