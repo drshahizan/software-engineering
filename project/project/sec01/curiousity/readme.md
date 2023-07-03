@@ -173,7 +173,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
       </thead>
       <tbody>
         <tr>
-          <td rowspan="3">Week 1 - Week 2</td>
+          <td>Week 1 - Week 2</td>
           <td>
           <ul>
           <li>Project planning</li>
