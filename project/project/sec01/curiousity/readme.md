@@ -163,7 +163,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
     </table>
 
 ## Implementation
-### Timeline process
+### 1. Timeline process
 <table style="border-collapse: collapse;">
       <thead>
         <tr>
@@ -255,7 +255,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
       </tbody>
 </table>
 
-### Requirement collection
+### 2. Requirement collection
 Meeting with stakeholders <br><br>
 
 #### Meeting with JKM KTDI (Hanie Azyuni binti Mazle) 
