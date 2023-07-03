@@ -43,19 +43,17 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-## Documentation
-| No | Name |  File |
-| :-----: |  ------ | :-----: | 
-| 1 | Proposal |  <a href="" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
-| 2 | System Requirements Specification (SRS)| <a href="" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
-| 3 | System Design Descriptions (SDD) | <a href="" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
-| 4 | System Test Descriptions (STD)| <a href="" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
-| 5 | Figma |  <a href="https://www.figma.com/file/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=0%3A1&mode=design&t=Ukz44HLf9hqVg9yG-1" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/9351bd712f05648b3c117eec85186a261de98c92/project/project/sec01/curiousity/img/figma.svg" width="24px" height="24px" ></a> |  
-| 6 | Others | <a href="https://drive.google.com/drive/u/0/folders/1-CqNmsNezmZvxZJc1SPlz5SWGm7NJucu" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a> |
-
 ## Table of Content 
+- [Introduction](#1-introduction)
+- [Methodology](#2-methodology)
+- [Implementation](#3-implementation)
+- [System Design](#4-system-design)
+- [Testing and Quality Assurance](#5-testing-and-quality-assurance)
+- [Results and Achievements](#6-results-and-achievements)
+- [Conclusion](#7-conclusion)
+- [Documentation](#8-documentation)
 
-## Introduction
+## 1. Introduction
 <div id="header" align="center">
   <img src="https://cdn.dribbble.com/users/2277441/screenshots/8633668/media/a5fd4dd336bae0bba5bf3a078b00a33c.gif" width="300" height="200"/>
 </div>
@@ -73,67 +71,23 @@ The existing accommodation application and management process at KTDI is time-co
 4. Optimal Resource Allocation: Data analysis capabilities enable informed decision-making, optimizing the allocation of accommodations and resources.
 5. Positive University Reputation: A well-functioning accommodation system demonstrates a commitment to student welfare and enhances the university's reputation, attracting more students.
 
-## Methodology
+## 2. Methodology
 <div id="header" align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*aaKtW5AvYw2XsFmgAWXkWg.gif" width="300" height="200"/>
 </div>
 
 To develop the Student Accommodation System for Kolej Tun Dr Ismail (KTDI), we have chosen the **Agile methodology** as our software development process model. The aim is to create a user-friendly and high-quality system within the allocated time and budget while meeting the requirements of our stakeholders.
 
-1. Agile Methodology: We adopt the Agile methodology, which emphasizes cooperation and active stakeholder participation throughout the development process.
-2. Adaptability and Responsiveness: The Agile approach suits the project's dynamic nature, enabling flexibility and continuous collaboration to accommodate changing requirements and priorities.
-3. Iterative Development: We employ iterative development cycles, breaking the project into manageable increments to deliver value in each iteration.
-4. Continuous Improvement: The Agile process promotes continuous improvement, with regular feedback loops and opportunities for refinement and adjustment.
-5. Stakeholder Engagement: Stakeholders are actively involved, providing input, feedback, and validation at different stages to ensure the system meets their evolving needs and expectations.
+1. **Agile Methodology**: We adopt the Agile methodology, which emphasizes cooperation and active stakeholder participation throughout the development process.
+2. **Adaptability and Responsiveness**: The Agile approach suits the project's dynamic nature, enabling flexibility and continuous collaboration to accommodate changing requirements and priorities.
+3. **Iterative Development**: We employ iterative development cycles, breaking the project into manageable increments to deliver value in each iteration.
+4. **Continuous Improvement**: The Agile process promotes continuous improvement, with regular feedback loops and opportunities for refinement and adjustment.
+5. **Stakeholder Engagement**: Stakeholders are actively involved, providing input, feedback, and validation at different stages to ensure the system meets their evolving needs and expectations.
 
 By utilizing the Agile methodology, we can effectively address the unique aspects of student accommodations, including the need for development flexibility and ongoing team collaboration. The Agile approach allows us to continually update and enhance the system based on stakeholder inputs, ensuring that the Student Accommodation System evolves to meet their changing needs and surpass their expectations.
 <div id="header" align="center">
   <img src="https://github.com/drshahizan/software-engineering/raw/main/proposal/submission/sec01/stakeholder/diagram/agile.PNG" width="350" height="280"/>
 </div>
-
-1. **Planning Phase**:
-  - Identify project scope, objectives, and stakeholders.
-  - Establish timeline, milestones and allocate resources.
-  - Develop a blueprint and create a Gantt chart.
-  - Led by the project manager.
-2. **Requirements Gathering Phase**:
-  - Work with stakeholders to identify and prioritize user requirements.
-  - Develop user stories and create product backlog items.
-  - Identify acceptance criteria for each user story.
-  - Break down user stories into smaller tasks and add them to the sprint backlog.
-  - Review and finalize the sprint backlog with stakeholders.
-  - Requirement analysis led by the project requirement analyst team.
-3. **Design Phase**:
-  - Develop high-level software architecture design.
-  - Design the database schema.
-  - Create detailed design documents.
-  - Develop wireframes and prototypes for the user interface.
-  - Review the design with the development team and stakeholders.
-  - Led by the system designer and main developer.
-4. **Development Phase**:
-  - Collaboratively develop software components based on the sprint backlog.
-  - Conduct code reviews, write unit tests, and perform unit testing.
-  - Update code documentation and conduct daily stand-up meetings.
-  - Backend development led by the main developer, frontend led by UI/UX designer.
-5. **Testing Phase**:
-  - Develop a testing plan.
-  - Perform functional, integration, and acceptability testing.
-  - Report and fix flaws using a bug-tracking program.
-  - Managed by the quality assurance analyst.
-6. **Deployment Phase**:
-  - Collaborate with the development team to ensure readiness.
-  - Conduct final testing and compliance with stakeholder criteria.
-  - Train stakeholders and provide continuous support.
-  - Led by the project manager and developers.
-7. **Review and Maintenance Phase**:
-  - Examine the finished program and gather stakeholder feedback.
-  - Improve the system based on feedback and ensure user satisfaction.
-  - Managed by the maintenance team with guidance from IT support.
-8. **Launch Phase**:
-  - Conduct final testing and quality assurance.
-  - Launch the software in a real-world setting.
-  - Provide ongoing support to meet stakeholder demands and goals.
-  - Involvement of all team members.
 
 ### Specific Tools, Technologies, or Frameworks
 The followings are the specific tools, technologies, or frameworks which are employed in our project:
@@ -144,7 +98,7 @@ The followings are the specific tools, technologies, or frameworks which are emp
 - Figma <a href="" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="30" /></a>
 - Behance <a href="" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145799.png" height="30" /></a>
   
-## Implementation
+## 3. Implementation
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif" width="300" height="200"/>
 </div>
@@ -193,16 +147,29 @@ The followings are the specific tools, technologies, or frameworks which are emp
   </tr>
 </table>
 
-<div>
-<img src= "https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/stakeholder%20hamdan.jpg?raw=true" style="max-width:100%;">
+<div align="center">
+  <h4>Interview with Mr Hamdan Bin Abd Ghani</h4>
+<img src= "https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/stakeholder/photo/stakeholder%20hamdan.jpg?raw=true"  width="450" height="300">
 </div>
 
-<div>
-<img src= "https://github.com/drshahizan/software-engineering/assets/118497269/2f5d9f58-c06e-4c21-8408-f7c2aeafec0d" style="max-width:100%;">
+<div align="center">
+  <h4>Online Interview with Hayden Huan Kee Jiun</h4>
+<img src= "https://github.com/drshahizan/software-engineering/assets/129279911/8d2b7514-7cbc-4803-97ba-d81e96ff77d2" width="500" height="300">
 </div>
 
-<div>
-<img src= "https://github.com/drshahizan/software-engineering/assets/118497269/147ca606-6bbc-46d9-8df7-f15e13278204" style="max-width:100%;">
+<div align="center">
+  <h4>Online Interview with Ts. Dr. Hadafi Fitri Bin Mohd Latif</h4>
+<img src= "https://github.com/drshahizan/software-engineering/assets/118497269/2f5d9f58-c06e-4c21-8408-f7c2aeafec0d" width="500" height="300">
+</div>
+
+<div align="center">
+  <h4>Interview with Mr Mohamad Bin Yunos</h4>
+<img src= "https://github.com/drshahizan/software-engineering/assets/118497269/147ca606-6bbc-46d9-8df7-f15e13278204" width="450" height="300">
+</div>
+
+<div align="center">
+  <h4>Online Interview with Muhammad Izzat Haziq bin Rumaizi</h4>
+<img src= "https://github.com/drshahizan/software-engineering/assets/129279911/ee202b44-05f3-471b-b882-1489663ba6a6" width="500" height="300">
 </div>
 
 ### Software Components/Modules:
@@ -267,7 +234,7 @@ The implemented Student Accommodation System comprised several software componen
 | 3 | Changing Requirements | Always maintained open and regular communication channels with stakeholders, including students, administrators, and staff as well as fellow to gather feedback, understand evolving requirements, and address any concerns or changes promptly. |
 | 4 | Team Integration | i) Clearly defined the roles and responsibilities of team members by assigning specific tasks and deliverables to each team member based on their expertise and strengths. ii) Conducted scrum meetings every week, either online or physically to discuss the project progress and things that have been done for each member. | 
 
-## System Design
+## 4. System Design
 <div id="header" align="center">
   <img src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif" width="300" height="200"/>
 </div>
@@ -293,10 +260,10 @@ The implemented Student Accommodation System comprised several software componen
 | 2C62EE | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/118497269/0337df56-798c-46bb-b489-7c1e572419c9" height="30" /></a> |
 | 9D1CCF | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/118497269/a9d3943d-7061-4430-8c9c-a89936caa644" height="30" /></a> |
 | 3D70F5 | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/118497269/58e2efd3-243b-4e8f-b0b1-b6bd7857ee93" height="30" /></a> |
-| ECF1FF | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/118497269/e54afc09-b083-4cbc-98a2-f9bf356950ca" height="30" /></a> |
+| FFFFFF | <a><img align="center" src="https://w7.pngwing.com/pngs/278/819/png-transparent-computer-icons-button-white-circle-blue-white-white-circle-thumbnail.png" height="30" /></a> |
 | 484848 | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/118497269/19b189e5-9d68-44d9-bf96-79a88a254706" height="30" /></a> |
 | 1B2648 | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/118497269/3e6bd154-d4be-4f71-8c16-186b4c9c9106" height="30" /></a> |
-| FFFFFF | (White) |
+| ECF1FF | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/118497269/e54afc09-b083-4cbc-98a2-f9bf356950ca" height="30" /></a> |
 
 ### Low Fedility Prototype:
 - [View our low fedility here](https://github.com/drshahizan/software-engineering/issues/87)
@@ -314,7 +281,7 @@ The implemented Student Accommodation System comprised several software componen
 - [Interact with our system prototype](https://www.figma.com/proto/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=1058-6947&t=jUcaTvMXSKLu6sNc-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1058%3A6947&mode=design)
 
 
-## Testing and Quality Assurance
+## 5. Testing and Quality Assurance
 <div id="header" align="center">
   <img src="https://media.istockphoto.com/id/1147369741/vector/isometric-flat-vector-concept-of-qa-quality-assurance-software-app-testing.jpg?s=612x612&w=0&k=20&c=YfJJxwgoQNEK_ZAByVl3Xj4r3HeRwNgazduDH9ve4I0=" width="300" height="200"/>
 </div>
@@ -363,7 +330,7 @@ To ensure the reliability and robustness of the software product, we have implem
 By implementing these quality assurance processes, we strive to deliver a reliable and robust student accommodation system that meets high quality, functionality, and user satisfaction standards.
 
 
-## Results and Achievements
+## 6. Results and Achievements
 <div id="header" align="center">
   <img src="https://www.drsandeeppatil.com/static/media/6.6620ed2b.gif" width="300" height="200"/>
 </div>
@@ -391,7 +358,7 @@ By implementing these quality assurance processes, we strive to deliver a reliab
 - Students praised the system for its user-friendly interface, which made it easier for them to browse available rooms, submit requests, and access important information.
 - Hostel staff and hostel fellows found the system valuable for managing hostel operations, recording college merits, and addressing student concerns in a timely manner.
 
-## Conclusion:
+## 7. Conclusion
 <div id="header" align="center">
   <img src="https://inforgala.com/wp-content/uploads/2022/01/64843-web-development.gif" width="300" height="200"/>
 </div>
@@ -404,6 +371,15 @@ One of the main challenges we faced was gathering and understanding the requirem
 
 Looking ahead, there are several areas where the student accommodation system can be further improved. User feedback and continuous evaluation should be solicited to identify areas of improvement and enhance user experience. Implementing additional features, such as AI user chatbox integration or room application notifications, could enhance the system's functionality and convenience for users. It is also essential to prioritize ongoing maintenance and support to address any technical issues that may arise and ensure the system's long-term reliability.
 
+## 8. Documentation
+| No | Name |  File |
+| :-----: |  ------ | :-----: | 
+| 1 | Proposal |  <a href="" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
+| 2 | System Requirements Specification (SRS)| <a href="" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
+| 3 | System Design Descriptions (SDD) | <a href="" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
+| 4 | System Test Descriptions (STD)| <a href="" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
+| 5 | Figma |  <a href="https://www.figma.com/file/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=0%3A1&mode=design&t=Ukz44HLf9hqVg9yG-1" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/9351bd712f05648b3c117eec85186a261de98c92/project/project/sec01/curiousity/img/figma.svg" width="24px" height="24px" ></a> |  
+| 6 | Others | <a href="https://drive.google.com/drive/u/0/folders/1-CqNmsNezmZvxZJc1SPlz5SWGm7NJucu" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
