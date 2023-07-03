@@ -17,7 +17,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Answer
 
-1. Incremental Development
+1. Waterfall Development
 Justification: This model can reduce the cost of accommodating changing customer requirements. The amount of analysis and documentation process is reduced and less than the amount required by waterfall model. Secondly, this model helps the development team easier obtain the feedback from customers which customers can review and give opinion on the demo of the software. Thirdly, this model requires rapid delivery and deployment   
 
 

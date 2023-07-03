@@ -22,16 +22,16 @@ Don't forget to hit the :star: if you like this repo.
     <td>Project Manager</td>
   </tr>
   <tr>
-    <td>2. Koh Li Hui</td>
-    <td>User Experience Designer</td>
-  </tr>
-    <tr>
-    <td>3. Camily Tang Jia Lei</td>
+    <td>2. Camily Tang Jia Lei</td>
     <td>Developer</td>
   </tr>
-    <tr>
-    <td>4. Ng Shu Yu</td>
+  <tr>
+    <td>3. Ng Shu Yu</td>
     <td>Documentation Specialist</td>
+  </tr>
+  <tr>
+    <td>4. Koh Li Hui</td>
+    <td>User Experience Designer</td>
   </tr>
 </table>
 
