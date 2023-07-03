@@ -315,10 +315,14 @@ By implementing these quality assurance processes, we strive to deliver a softwa
    > The project provided and opportunity to enhance our collaboration and teamwork skills. We laarnt to communicate with each other, share responsibilities, resolve conflicts, and work together to achieve project goals. This also involves using version control systems (e.g., Git) to manage changes in this project.
 3. Quality Assurance and Testing
    > We gained an understanding of the importance of testing and quality assurance in software development. We used different testing methodologies, techniques, and tools to verify that the software meets the desired requirements.
-4. Client and user interaction
+4. Client and User Interaction
    > We learnt how to interact with external stakeholders effectively. We gathered requirements, provide progress updates, seek feedback, and iterate based on their input.
-5. Documentation and communication
-   > Throughout the project, we developed skills in documenting our work, especially in external documentation. We learnt to write clear and concise explanations, user manuals, and technical documentation that can help others understand and maintain the software. 
+5. Documentation and Communication
+   > Throughout the project, we developed skills in documenting our work, especially in external documentation. We learnt to write clear and concise explanations, user manuals, and technical documentation that can help others understand and maintain the software.
+
+### Future Improvements and Recommendations
+1. User Feedback and Usability
+   >  Gather feedback from users or stakeholders to understand their needs and identify areas for improvement in terms of usability and user experience. Consider conducting user testing sessions to gather insights and iterate on the design and functionality of the software.
 
 - Summarize the overall project experience and lessons learned.
 - Reflect on the challenges faced and how they were overcome.
