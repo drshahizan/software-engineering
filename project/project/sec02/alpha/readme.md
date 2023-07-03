@@ -30,7 +30,8 @@ Don't forget to hit the :star: if you like this repo.
 
 <div id="header" align="center">
   <h2>Team stakeholder</h2>
-  <img src="" width="350" height="250"/>
+  <img src="![gmbr](https://github.com/drshahizan/software-engineering/assets/128108090/f7ae414e-b8f5-4276-bb60-a8a86f5094b3)
+" width="350" height="250"/>
 </div>
 
 ## Group Members
