@@ -22,6 +22,4 @@
 3. **Obstacles or challenges hindering progress:**
    - Rushing for Final Exam
 
-## Meeting Photo
-<img src="https://i.ibb.co/hyW5BH3/Scrum-meeting-2-pic.png" alt="Scrum-meeting-2-pic" border="0">
 
