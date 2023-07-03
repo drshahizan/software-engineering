@@ -204,9 +204,15 @@ Don't forget to hit the :star: if you like this repo.
 |1| Prototype Main Menu | <a href="https://www.figma.com/proto/5xL6W7I4NvNIKzQeaiJYiC/Design?type=design&node-id=145-84&scaling=scale-down&page-id=0%3A1&starting-point-node-id=145%3A84&show-proto-sidebar=1" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
 
 #### 4.3 Initial Sketching
-<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/Sketching1.jpg" alt="" height="650px" width="700px"/></a>
+
+##### Home page
 
 <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/Sketching2.jpg" alt="" height="650px" width="700px"/></a>
+
+##### Admin Page
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/Sketching1.jpg" alt="" height="650px" width="700px"/></a>
+
+##### Student Page
 
 <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/Sketching3.jpg" alt="" height="650px" width="700px"/></a>
 
