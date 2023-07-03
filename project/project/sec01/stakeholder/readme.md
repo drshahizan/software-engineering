@@ -235,8 +235,12 @@ The implemented Student Accommodation System comprised several software componen
 </div>
 
 ### Information Architecture:
-- [View our Information Architecture](https://www.figma.com/file/8A6rSJ9SMKn2oQ3BkmWdLM/Information-Architecture?type=whiteboard&node-id=0%3A1&t=oXyeua8TtdOi9the-1)
+- [View our Information Architecture](https://www.figma.com/file/8A6rSJ9SMKn2oQ3BkmWdLM/Information-Architecture?type=whiteboard&node-id=0%3A1&t=IqobYcQhmw09ZYdP-1)
 ![Image](https://github.com/drshahizan/software-engineering/assets/118497269/3befc7eb-0755-4f31-8fe3-17d607da99d6)
+
+### User Flow:
+- [View our User Flow](https://www.figma.com/file/RDZDGvCphV482ovKyq5vPD/User-flow?type=whiteboard&node-id=0%3A1&t=IqobYcQhmw09ZYdP-1)
+<img width="16384" alt="User flow" src="https://github.com/drshahizan/software-engineering/assets/118497269/9387e161-6592-4eaf-96f8-c927399de620">
 
 ### Typography:
 1. **Authentication module**
