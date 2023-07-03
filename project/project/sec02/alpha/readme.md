@@ -30,7 +30,7 @@ Don't forget to hit the :star: if you like this repo.
 
 <div id="header" align="center">
   <h2>Team Alpha</h2>
-  <img src="https://user-images.githubusercontent.com/128160553/240615112-ad98b302-8925-4fd5-a384-5041335f1785.jpg" width="400" height="350"/>
+  <img src="https://user-images.githubusercontent.com/128160553/240615112-ad98b302-8925-4fd5-a384-5041335f1785.jpg" width="500" height="250"/>
 </div>
 
 ## Group Members
