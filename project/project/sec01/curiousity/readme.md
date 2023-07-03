@@ -8,7 +8,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Activity: Group Curiousity
+# Project : Group Curiousity
 <img src="img/ktdiems.jpg" height="500px" >
 
 ## Group Members
