@@ -86,7 +86,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-## Tasks involved in developing SRC documentation:
+## Tasks involved in developing SDD documentation:
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
