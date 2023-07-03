@@ -173,7 +173,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
       </thead>
       <tbody>
         <tr>
-          <td>Week 1 - Week 2</td>
+          <td><b>Week 1 - Week 2</b></td>
           <td>
           <ul>
           <li>Project planning</li>
@@ -234,7 +234,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
           </td>
         </tr>
         <tr>
-          <td>Week 9 - Week10</td>
+          <td>Week 9 - Week 10</td>
           <td>
           <ul>
           <li>Create STD Document</li>
