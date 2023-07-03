@@ -127,6 +127,9 @@ Don't forget to hit the :star: if you like this repo.
 
 # PROJECT DOCUMENTATION:
 ## 1. Introduction:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/drshahizan/software-engineering/2d0793e73dffe06ecadf0fde82c5ff59a31af689/proposal/submission/sec02/Beta/image/photo_2023-07-03_21-05-01.jpg" alt="arkedangkasa" width="400" height="300" style="border: 5px solid purple;">
+</div>
 Experience the future of dining with our Food Ordering System at Arked Angkasa, UTM. This system revolutionizes the way UTM students and staff order food and beverages from two prominent food stalls: Sdap Kitchen and Deen Corner.
 
 Sdap Kitchen offers mouthwatering Nasi Lemak and Nasi Kandar, while Deen Corner serves a variety of refreshing drinks like Milo Ais and Teh O Ais. Our system, designed using Figma and following the agile methodology, ensures a seamless and user-friendly experience.
