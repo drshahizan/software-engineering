@@ -60,13 +60,13 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provide accurate and up-to-date information about their menu items, pricing, and availability. </td>
   </tr>
    <tr>
-    <td>MOHD. 'ALA BIN MOHD ANUAR</td>
+    <td> ENCIK MOHD. 'ALA BIN MOHD ANUAR</td>
     <td>Adminstrator of Restaurant "Sdap Kitchen"</td>
     <td>Assistant</td>
     <td>Provide accurate and up-to-date information about their menu items, pricing, and availability</td>
   </tr>
    <tr>
-    <td>NOOR AZIRA BINTI JAMALI</td>
+    <td> PUAN NOOR AZIRA BINTI JAMALI</td>
     <td>Adminstrator of Restaurant "Deen Corner"</td>
     <td>Assistant</td>
     <td>Provide accurate and up-to-date information about their menu items, pricing, and availability</td>
