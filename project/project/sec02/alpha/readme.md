@@ -29,8 +29,8 @@ Don't forget to hit the :star: if you like this repo.
 # Activity: Group Alpha
 
 <div id="header" align="center">
-  <h2>Team stakeholder</h2>
-  <img src="https://user-images.githubusercontent.com/128160553/240615112-ad98b302-8925-4fd5-a384-5041335f1785.jpg" width="350" height="250"/>
+  <h2>Team Alpha</h2>
+  <img src="https://user-images.githubusercontent.com/128160553/240615112-ad98b302-8925-4fd5-a384-5041335f1785.jpg" width="400" height="350"/>
 </div>
 
 ## Group Members
