@@ -382,22 +382,22 @@ Solutions:
 
 ## Testing and Quality Assurance
 #### Testing
-- Aim: to identify any defects, errors, or issues that may impact its functionality, usability, security, or performance.
-- Process: designing and executing test cases, listing the detailed steps on each test case, and comparing the actual results with the expected results.
-- Strategy or Technique involved: Black box testing with boundary value analysis (BVA) and equivalence partitioning (EP) techniques.
+- <b>Aim:</b> to identify any defects, errors, or issues that may impact its functionality, usability, security, or performance.
+- <b>Process:</b> designing and executing test cases, listing the detailed steps on each test case, and comparing the actual results with the expected results.
+- <b>Strategy or Technique involved:</b> Black box testing with boundary value analysis (BVA) and equivalence partitioning (EP) techniques.
   <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/testing_pic.png?raw=true" alt="test" height="500px"></img>
--	Method: execute each test case manually
--	Type of Testing involved: Unit testing.
--	Goal: to identify and fix defects at the earliest stage possible.
+-	<b>Method:</b> execute each test case manually
+-	<b>Type of Testing involved:</b> Unit testing.
+-	<b>Goal:</b> to identify and fix defects at the earliest stage possible.
   <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/unit_testing.png?raw=true" alt="unit_test" height="500px"></img>
 
 #### Quality Assurance
 To ensure the reliability and robustness of the KTDI Event Management system, we have implemented several quality assurance processes.
-1.	Requirement analysis and validation: We have conducted requirement analysis and validated the requirements through discussions to ensure they are clear, complete, and aligned with the stakeholders' expectations.
-2.	Test planning and strategy: We have developed a comprehensive test plan and strategy by defining the testing approach and techniques to be used to ensure that the testing process is organized and covers all critical aspects of the system.
-3.	Test case development: We have designed and developed test cases that cover all functional and non-functional aspects of the event management system to ensure comprehensive coverage.
-4.	Document creation: We have created comprehensive system documentation, including SRS, SDD and STD to ensure the performance of our system will always be optimized.
-5.	Continuous improvement: We are continuously gathering feedback from users and stakeholders in order to identify areas for improvement and also enhance the quality and reliability of our system.
+1.	<b>Requirement analysis and validation:</b> We have conducted requirement analysis and validated the requirements through discussions to ensure they are clear, complete, and aligned with the stakeholders' expectations.
+2.	<b>Test planning and strategy:</b> We have developed a comprehensive test plan and strategy by defining the testing approach and techniques to be used to ensure that the testing process is organized and covers all critical aspects of the system.
+3.	<b>Test case development:</b> We have designed and developed test cases that cover all functional and non-functional aspects of the event management system to ensure comprehensive coverage.
+4.	<b>Document creation:</b> We have created comprehensive system documentation, including SRS, SDD and STD to ensure the performance of our system will always be optimized.
+5.	<b>Continuous improvement:</b> We are continuously gathering feedback from users and stakeholders in order to identify areas for improvement and also enhance the quality and reliability of our system.
 
 
 ## Results and Achievements
