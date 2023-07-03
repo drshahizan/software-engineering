@@ -435,6 +435,15 @@ To ensure the reliability and robustness of the KTDI Event Management system, we
 <img src="img/conclusion3.jpg" height="600px" >
 
 <img src="img/conclusion4.jpg" height="600px" >
+
+<img src="img/conclusion5.jpg" height="600px" >
+
+<img src="img/conclusion6.jpg" height="600px" >
+
+<img src="img/conclusion7.jpg" height="600px" >
+
+<img src="img/conclusion8.jpg" height="600px" >
+
 - Summarize the overall project experience and lessons learned.
 - Reflect on the challenges faced and how they were overcome.
 - Highlight any future improvements or recommendations for further development.
