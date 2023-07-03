@@ -167,8 +167,8 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
 <table style="border-collapse: collapse;">
       <thead>
         <tr>
-          <th width="20%">Week</th>
-          <th width="80%">Task</th>
+          <th width="15%">Week</th>
+          <th width="85%">Task</th>
         </tr>
       </thead>
       <tbody>
