@@ -9,6 +9,11 @@
 
 Don't forget to hit the :star: if you like this repo.
 
+<div id="header" align="center">
+  <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/INTRODUCTION.png" alt="" height="350px" width="1000px"/></a>
+</div>
+
+
 ### 🔖Table of Contents🔖
 * [Table of Contents](#table-of-contents)
 * [Introduction](#introduction)
@@ -253,45 +258,36 @@ Don't forget to hit the :star: if you like this repo.
 ## 5. Requirement Collection
 ### Meeting with stakeholders
 
-#### Meeting with  stakeholder 1 (En. Hamdan bin Abdul Ghani)
-<img src="https://user-images.githubusercontent.com/128108090/237020517-786c33dd-dd00-44ae-bf06-efdc71fb2270.jpg" alt=""  height="350px" weight="200px"/></a>
+<div id="header" align="center">
+  <b>Meeting with  stakeholder 1 (En. Hamdan bin Abdul Ghani)</b><br>
+  <img src="https://user-images.githubusercontent.com/128108090/237020517-786c33dd-dd00-44ae-bf06-efdc71fb2270.jpg" alt=""  height="350px" weight="200px"/></a>
+  
+  Venue: Pejabat KTDI M01, Date: 18 April 2023, Time: 2 pm
+</div>
 
-Venue: Pejabat KTDI M01
+<div id="header" align="center">
+  <b>Meeting with stakeholder 2 (Puan Rosnani bt Katip)</b><br>
+  First meeting<br>
+  
+  <img src="https://user-images.githubusercontent.com/128108090/237021925-f29b22b3-10ce-46c7-b927-3e447dd3cae8.jpg" alt=""  height="350px" weight="200px"/></a>
+  
+  Venue: Pejabat KTDI M01, Date: 19 April 2023, Time: 2:35 pm
+</div>
 
-Date: 18 April 2023
+<div id="header" align="center">
+  Second meeting
+  
+  <img src="https://user-images.githubusercontent.com/128160553/240615112-ad98b302-8925-4fd5-a384-5041335f1785.jpg" alt="" height="350px" weight="200px"/></a>
 
-Time: 2 pm
+  Venue: Pejabat KTDI M01, Date: 24 May 2023, Time: 3:30 pm
+</div>
 
-#### Meeting with stakeholder 2 (Puan Rosnani bt Katip)
-First meeting
-
-<img src="https://user-images.githubusercontent.com/128108090/237021925-f29b22b3-10ce-46c7-b927-3e447dd3cae8.jpg" alt=""  height="350px" weight="200px"/></a>
-
-Venue: Pejabat KTDI M01
-
-Date: 19 April 2023
-
-Time: 2:35 pm
-
-Second meeting
-
-<img src="https://user-images.githubusercontent.com/128160553/240615112-ad98b302-8925-4fd5-a384-5041335f1785.jpg" alt="" height="350px" weight="200px"/></a>
-
-Venue: Pejabat KTDI M01
-
-Date: 24 May 2023
-
-Time: 3:30 pm
-
-#### Meeting with stakeholder 3 (Jevanaraj A/L Balasuntharam)
-<img src="https://user-images.githubusercontent.com/128107791/239741938-94169d51-2815-41e0-b170-b341ea53cdfe.png" alt="" height="350px" weight="200px"/></a>
-
-Venue: Webex meet 
-
-Date: 21/5/2023
-
-Time: 8.30pm
-
+<div id="header" align="center">
+  <b> Meeting with stakeholder 3 (Jevanaraj A/L Balasuntharam) </b><br>
+  <img src="https://user-images.githubusercontent.com/128107791/239741938-94169d51-2815-41e0-b170-b341ea53cdfe.png" alt="" height="350px" weight="200px"/></a>
+  
+  Venue: Webex meet, Date: 21/5/2023, Time: 8.30pm
+</div>
 
 ## 6. Testing and Quality Assurance:
 Testing and quality assurance play a crucial role in ensuring the reliability and robustness of the software. The following are the testing strategies and techniques employed in the project. 
