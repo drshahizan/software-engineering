@@ -9,7 +9,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Project : Group Curiousity
-<img src="img/ktdiems.jpg" height="500px" >
+<img src="img/ktdiems.jpg" height="700px" >
 
 ## Group Members
 <img src="img/group.jpg" height="350px" >
@@ -418,6 +418,8 @@ Solutions:
 
 - **Student:**
 "Finding and registering for college events has become so much easier with the KTDI Event Management System. The user-friendly interface and event calendar have made it simple to keep track of upcoming activities. I appreciate the system's ability to provide event details, registration forms, and feedback options all in one place."
+
+<img src="img/conclusion1.jpg" height="700px" >
 
 ## Conclusion
 - Summarize the overall project experience and lessons learned.
