@@ -385,7 +385,7 @@ Solutions:
 - Aim: to identify any defects, errors, or issues that may impact its functionality, usability, security, or performance.
 - Process: designing and executing test cases, listing the detailed steps on each test case, and comparing the actual results with the expected results.
 - Strategy or Technique involved: Black box testing with boundary value analysis (BVA) and equivalence partitioning (EP) techniques.
-  <img src="" alt="test" height="500px"></img>
+  <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/testing_pic.png?raw=true" alt="test" height="500px"></img>
 -	Method: execute each test case manually
 -	Type of Testing involved: Unit testing.
 -	Goal: to identify and fix defects at the earliest stage possible.
