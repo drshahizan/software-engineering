@@ -234,6 +234,31 @@ The implemented Student Accommodation System comprised several software componen
 | 3 | Changing Requirements | Always maintained open and regular communication channels with stakeholders, including students, administrators, and staff as well as fellow to gather feedback, understand evolving requirements, and address any concerns or changes promptly. |
 | 4 | Team Integration | i) Clearly defined the roles and responsibilities of team members by assigning specific tasks and deliverables to each team member based on their expertise and strengths. ii) Conducted scrum meetings every week, either online or physically to discuss the project progress and things that have been done for each member. | 
 
+### Scrum Meetings:
+<div id="header" align="center">
+  <h4>Scrum Meeting on Brainstorming Design Ideas</h4>
+  <h6>Venue: Computer Security Lab</h6>
+  <img src="https://github.com/drshahizan/software-engineering/assets/118497269/92875bab-4922-4cd5-92c5-0f14bd44b449" width="350" height="250"/>
+</div>
+
+<div id="header" align="center">
+  <h4>Scrum Meeting on System User Interfaces(UI) Discussion</h4>
+  <h6>Venue: Computer Security Lab</h6>
+  <img src="https://github.com/drshahizan/software-engineering/assets/129279911/df65e0be-82bd-44b7-ad69-3aa4c45dd590" width="350" height="250"/>
+</div>
+
+<div id="header" align="center">
+  <h4>Scrum Meeting on Designing UI</h4>
+  <h6>Venue: Google Meet</h6>
+  <img src="https://github.com/drshahizan/software-engineering/assets/129279911/30268a21-4a7f-40de-a2ff-48fc10dc6685" width="500" height="300"/>
+</div>
+
+<div id="header" align="center">
+  <h4>Scrum Meeting on Developing Prototype</h4>
+  <h6>Venue: Google Meet</h6>
+  <img src="https://github.com/drshahizan/software-engineering/assets/129279911/50780c83-8502-4321-bef8-8f04f0a5d61d" width="500" height="300"/>
+</div>
+
 ## 4. System Design
 <div id="header" align="center">
   <img src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif" width="300" height="200"/>
