@@ -381,7 +381,7 @@ Solutions:
 
 
 ## Testing and Quality Assurance
-#### Testing
+### Testing
 - <b>Aim:</b> to identify any defects, errors, or issues that may impact its functionality, usability, security, or performance.
 - <b>Process:</b> designing and executing test cases, listing the detailed steps on each test case, and comparing the actual results with the expected results.
 - <b>Strategy or Technique involved:</b> Black box testing with boundary value analysis (BVA) and equivalence partitioning (EP) techniques.
@@ -391,7 +391,7 @@ Solutions:
 -	<b>Goal:</b> to identify and fix defects at the earliest stage possible.
   <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/unit_testing.png?raw=true" alt="unit_test" height="500px"></img>
 
-#### Quality Assurance
+### Quality Assurance
 To ensure the reliability and robustness of the KTDI Event Management system, we have implemented several quality assurance processes.
 1.	<b>Requirement analysis and validation:</b> We have conducted requirement analysis and validated the requirements through discussions to ensure they are clear, complete, and aligned with the stakeholders' expectations.
 2.	<b>Test planning and strategy:</b> We have developed a comprehensive test plan and strategy by defining the testing approach and techniques to be used to ensure that the testing process is organized and covers all critical aspects of the system.
