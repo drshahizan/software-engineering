@@ -62,6 +62,11 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
+## Design Prototype
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| UI KTDI Room Rental System| <a href="https://www.figma.com/proto/5xL6W7I4NvNIKzQeaiJYiC/Design?type=design&node-id=145-84&t=M4eFk3YReU2WcRv0-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=145%3A84&show-proto-sidebar=1"><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/fa23f96100aedccb8c634fba496ebcfc9968b9ee/images/figma.svg" width="24px" height="24px" ></a>|
+
 ## Stakeholder
 <table>
   <tr>
@@ -204,9 +209,15 @@ Don't forget to hit the :star: if you like this repo.
 |1| Prototype Main Menu | <a href="https://www.figma.com/proto/5xL6W7I4NvNIKzQeaiJYiC/Design?type=design&node-id=145-84&scaling=scale-down&page-id=0%3A1&starting-point-node-id=145%3A84&show-proto-sidebar=1" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
 
 #### 4.3 Initial Sketching
-<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/Sketching1.jpg" alt="" height="650px" width="700px"/></a>
+
+##### Home page
 
 <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/Sketching2.jpg" alt="" height="650px" width="700px"/></a>
+
+##### Admin Page
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/Sketching1.jpg" alt="" height="650px" width="700px"/></a>
+
+##### Student Page
 
 <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/Sketching3.jpg" alt="" height="650px" width="700px"/></a>
 
@@ -233,18 +244,11 @@ Don't forget to hit the :star: if you like this repo.
 #### 4.5  High Fidelity
 - Student
   
-![Image](https://github.com/drshahizan/software-engineering/assets/128107791/47051c70-1e23-4f30-9e04-7ae3df55cc27)
+<img src="https://github.com/drshahizan/software-engineering/assets/128107791/47051c70-1e23-4f30-9e04-7ae3df55cc27" alt="" height="750px" width="1050px"/></a>
 
+<img src="https://github.com/drshahizan/software-engineering/assets/128107791/0736de6a-d418-4094-9346-af9f55d45188" alt="" height="750px" width="1050px"/></a>
 
-
-![Image](https://github.com/drshahizan/software-engineering/assets/128107791/0736de6a-d418-4094-9346-af9f55d45188)
-
-
-
-![Image](https://github.com/drshahizan/software-engineering/assets/128107791/beab6136-c28b-4393-be54-74a31bd9d09c)
-
-
-
+<img src="https://github.com/drshahizan/software-engineering/assets/128107791/beab6136-c28b-4393-be54-74a31bd9d09c" alt="" height="750px" width="1050px"/></a>
 
 
 

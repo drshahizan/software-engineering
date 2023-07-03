@@ -225,6 +225,11 @@ The implemented Student Accommodation System comprised several software componen
   <img src="https://github.com/drshahizan/software-engineering/assets/118497269/f0a934e8-90e5-40c4-9a74-38503bcd46be"/>
 </div>
 
+**Component diagram**:
+<div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/jiesheng4616/jiesheng4616/main/feb3868e-9a0d-4e45-a94c-d0ea865bbdd2.jpg"/>
+</div>
+
 ### Challenges:
 | No | Challenge | Solution | 
 | :------: | ----- | :------: | 
@@ -412,10 +417,10 @@ Looking ahead, there are several areas where the student accommodation system ca
 ## 8. Documentation
 | No | Name |  File |
 | :-----: |  ------ | :-----: | 
-| 1 | Proposal |  <a href="" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
-| 2 | System Requirements Specification (SRS)| <a href="" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
-| 3 | System Design Descriptions (SDD) | <a href="" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
-| 4 | System Test Descriptions (STD)| <a href="" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
+| 1 | Proposal |  <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec01/stakeholder" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
+| 2 | System Requirements Specification (SRS)| <a href="https://docs.google.com/document/d/1hkVBCH3fNHX0tRtb3SKbOWGHEqSBGgY5/edit?usp=sharing&ouid=106160364288849413048&rtpof=true&sd=true" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
+| 3 | System Design Descriptions (SDD) | <a href="https://docs.google.com/document/d/1hgE6D9UJe7pOdCiTL0gmtr_hoUJgMCb-/edit?usp=sharing&ouid=106160364288849413048&rtpof=true&sd=true" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
+| 4 | System Test Descriptions (STD)| <a href="https://docs.google.com/document/d/1zrjllO9HgAggGch5ggfGTJpOpJUFXUd4/edit?usp=sharing&ouid=106160364288849413048&rtpof=true&sd=true" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
 | 5 | Figma |  <a href="https://www.figma.com/file/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=0%3A1&mode=design&t=Ukz44HLf9hqVg9yG-1" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/9351bd712f05648b3c117eec85186a261de98c92/project/project/sec01/curiousity/img/figma.svg" width="24px" height="24px" ></a> |  
 | 6 | Others | <a href="https://drive.google.com/drive/u/0/folders/1-CqNmsNezmZvxZJc1SPlz5SWGm7NJucu" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a> |
 
