@@ -153,6 +153,11 @@ The followings are the specific tools, technologies, or frameworks which are emp
 </div>
 
 <div align="center">
+  <h4>Online Interview with Hayden Huan Kee Jiun</h4>
+<img src= "https://github.com/drshahizan/software-engineering/assets/129279911/8d2b7514-7cbc-4803-97ba-d81e96ff77d2" width="500" height="300">
+</div>
+
+<div align="center">
   <h4>Online Interview with Ts. Dr. Hadafi Fitri Bin Mohd Latif</h4>
 <img src= "https://github.com/drshahizan/software-engineering/assets/118497269/2f5d9f58-c06e-4c21-8408-f7c2aeafec0d" width="500" height="300">
 </div>
@@ -160,6 +165,11 @@ The followings are the specific tools, technologies, or frameworks which are emp
 <div align="center">
   <h4>Interview with Mr Mohamad Bin Yunos</h4>
 <img src= "https://github.com/drshahizan/software-engineering/assets/118497269/147ca606-6bbc-46d9-8df7-f15e13278204" width="450" height="300">
+</div>
+
+<div align="center">
+  <h4>Online Interview with Muhammad Izzat Haziq bin Rumaizi</h4>
+<img src= "https://github.com/drshahizan/software-engineering/assets/129279911/ee202b44-05f3-471b-b882-1489663ba6a6" width="500" height="300">
 </div>
 
 ### Software Components/Modules:
