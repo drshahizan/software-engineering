@@ -15,6 +15,44 @@ Don't forget to hit the :star: if you like this repo.
   <img src="https://user-images.githubusercontent.com/118497269/241292086-c5ae852a-52cb-469f-8a2f-6b86594898a0.jpg" width="350" height="250"/>
 </div>
 
+## Group Members
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Role</th>
+  </tr>
+  <tr>
+    <td>Neo Zheng Weng</td>
+    <td>Project Manager & UI/UX System Designer</td>
+  </tr>
+  <tr>
+    <td>Wong Khai Shian Nicholas</td>
+    <td>Requirements Analyst & Developer Assistant</td>
+  </tr>
+    <tr>
+    <td>Muhammad Danial</td>
+    <td>Documentation Specialist & Developer Assistant</td>
+  </tr>
+    <tr>
+    <td>Joseph Lau Yeo Kai</td>
+    <td>IT Support & Main Developer</td>
+  </tr>
+  <tr>
+  <td>Low Jie Sheng</td>
+  <td>Quality Assurance Analyst & Developer assistant</td>
+  </tr>
+</table>
+
+## Documentation
+| No | Name |  File |
+| :-----: |  ------ | :-----: | 
+| 1 | Proposal |  <a href="" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
+| 2 | System Requirements Specification (SRS)| <a href="" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
+| 3 | System Design Descriptions (SDD) | <a href="" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
+| 4 | System Test Descriptions (STD)| <a href="" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
+| 5 | Figma |  <a href="https://www.figma.com/file/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=0%3A1&mode=design&t=Ukz44HLf9hqVg9yG-1" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/9351bd712f05648b3c117eec85186a261de98c92/project/project/sec01/curiousity/img/figma.svg" width="24px" height="24px" ></a> |  
+| 6 | Others | <a href="https://drive.google.com/drive/u/0/folders/1-CqNmsNezmZvxZJc1SPlz5SWGm7NJucu" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a> |
+
 ## Table of Content 
 
 ## Introduction
@@ -235,8 +273,12 @@ The implemented Student Accommodation System comprised several software componen
 </div>
 
 ### Information Architecture:
-- [View our Information Architecture](https://www.figma.com/file/8A6rSJ9SMKn2oQ3BkmWdLM/Information-Architecture?type=whiteboard&node-id=0%3A1&t=oXyeua8TtdOi9the-1)
+- [View our Information Architecture](https://www.figma.com/file/8A6rSJ9SMKn2oQ3BkmWdLM/Information-Architecture?type=whiteboard&node-id=0%3A1&t=IqobYcQhmw09ZYdP-1)
 ![Image](https://github.com/drshahizan/software-engineering/assets/118497269/3befc7eb-0755-4f31-8fe3-17d607da99d6)
+
+### User Flow:
+- [View our User Flow](https://www.figma.com/file/RDZDGvCphV482ovKyq5vPD/User-flow?type=whiteboard&node-id=0%3A1&t=IqobYcQhmw09ZYdP-1)
+<img width="16384" alt="User flow" src="https://github.com/drshahizan/software-engineering/assets/118497269/9387e161-6592-4eaf-96f8-c927399de620">
 
 ### Typography:
 1. **Authentication module**
@@ -266,10 +308,10 @@ The implemented Student Accommodation System comprised several software componen
 - Admin user interfaces: 18 pages
 - Authentication user interfaces: 9 pages
 
-- [View our system UI here](https://www.figma.com/file/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=0%3A1&mode=design&t=h7kBojJadeGGPpzn-1)
+- [View our system UI here](https://www.figma.com/file/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=0%3A1&mode=design&t=Ukz44HLf9hqVg9yG-1)
 
 ### User Prototype:
-- [Interact with our system prototype](https://www.figma.com/proto/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=1058-6947&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1058%3A6947&mode=design)
+- [Interact with our system prototype](https://www.figma.com/proto/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=1058-6947&t=jUcaTvMXSKLu6sNc-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1058%3A6947&mode=design)
 
 
 ## Testing and Quality Assurance
