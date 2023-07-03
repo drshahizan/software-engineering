@@ -119,9 +119,6 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ## 2. Methodology:
-- Describe the approach and methodologies utilized to tackle the project.
-- Explain the software development life cycle model or any other relevant methodology adopted.
-- Highlight any specific tools, technologies, or frameworks employed during the project.
 
 #### Approach
 - Agile Development: Adopt an Agile approach to enable iterative and incremental development, ensuring flexibility and adaptability to changing requirements.
@@ -206,7 +203,14 @@ Don't forget to hit the :star: if you like this repo.
 | -----:| ----- | :------: | 
 |1| Prototype Main Menu | <a href="https://www.figma.com/proto/5xL6W7I4NvNIKzQeaiJYiC/Design?type=design&node-id=145-84&scaling=scale-down&page-id=0%3A1&starting-point-node-id=145%3A84&show-proto-sidebar=1" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
 
-#### 4.3 Low Fidelity
+#### 4.3 Initial Sketching
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/Sketching1.jpg" alt="" height="750px" width="800px"/></a>
+
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/Sketching2.jpg" alt="" height="750px" width="800px"/></a>
+
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/Sketching3.jpg" alt="" height="750px" width="800px"/></a>
+
+#### 4.4 Low Fidelity
 
 
 - Student
@@ -226,7 +230,7 @@ Don't forget to hit the :star: if you like this repo.
 ![Image](https://github.com/drshahizan/software-engineering/assets/128107791/3f4b4dfd-4bdc-47be-9f44-0c67c89abe95)
 
 
-#### 4.4  High Fidelity
+#### 4.5  High Fidelity
 - Student
   
 ![Image](https://github.com/drshahizan/software-engineering/assets/128107791/47051c70-1e23-4f30-9e04-7ae3df55cc27)
@@ -244,7 +248,7 @@ Don't forget to hit the :star: if you like this repo.
 
 
 
-#### 4.5 Prototype
+#### 4.6 Prototype
 - Sign up / Log in flow
   <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/log%20in.png" alt=""/></a>
 
