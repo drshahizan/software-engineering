@@ -239,18 +239,11 @@ Don't forget to hit the :star: if you like this repo.
 #### 4.5  High Fidelity
 - Student
   
-![Image](https://github.com/drshahizan/software-engineering/assets/128107791/47051c70-1e23-4f30-9e04-7ae3df55cc27)
+<img src="https://github.com/drshahizan/software-engineering/assets/128107791/47051c70-1e23-4f30-9e04-7ae3df55cc27" alt="" height="750px" width="1050px"/></a>
 
+<img src="https://github.com/drshahizan/software-engineering/assets/128107791/0736de6a-d418-4094-9346-af9f55d45188" alt="" height="750px" width="1050px"/></a>
 
-
-![Image](https://github.com/drshahizan/software-engineering/assets/128107791/0736de6a-d418-4094-9346-af9f55d45188)
-
-
-
-![Image](https://github.com/drshahizan/software-engineering/assets/128107791/beab6136-c28b-4393-be54-74a31bd9d09c)
-
-
-
+<img src="https://github.com/drshahizan/software-engineering/assets/128107791/beab6136-c28b-4393-be54-74a31bd9d09c" alt="" height="750px" width="1050px"/></a>
 
 
 
