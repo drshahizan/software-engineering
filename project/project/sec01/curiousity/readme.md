@@ -56,7 +56,7 @@ Don't forget to hit the :star: if you like this repo.
 * [Implementation](#implementation)
 * [Timeline process](#1-timeline-process)
 * [Requirement collection](#2-requirement-collection)
-* [Software components & modules](#3-software-components-&-modules)
+* [Software components & modules](#3-software-components--modules)
 * [Design phase](#4-design-phase)
 * [Design system](#5-design-system)
 * [Challenges](#6-challenges)
