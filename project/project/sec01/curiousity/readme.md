@@ -399,12 +399,12 @@ Solutions:
 <a href="https://www.figma.com/proto/j19tAaFoStbu6fxeleYlf3/KTDI-Event-Management-System?page-id=27%3A7&type=design&node-id=24-85&viewport=326%2C-303%2C0.04&scaling=scale-down&starting-point-node-id=24%3A85&mode=design"><img src="img/figma.jpg" width="50px" height="50px" ></a>
 
 ### 2. Quantitative / Qualitative Data Demonstrating Success
-## Quantitative data:
+#### Quantitative data:
 - Increase in event registrations: Before implementing the system, the average number of event registrations per semester was 200. After the system was implemented, the average increased to 350, indicating a 75% increase in event participation.
 - Reduction in event clashes: Before the system implementation, there were 4 instances of event clashes per semester. After implementing the system, the number decreased to 1, demonstrating an 75% reduction in event clashes.
 - Time saved in event preparation: With the system in place, the time spent on event preparation decreased by an average of 30%, resulting in an estimated 10 hours of saved time per event.
 
-## Qualitative data:
+#### Qualitative data:
 - User satisfaction: JKM KTDI members, KTDI staff, and students expressed high satisfaction with the system, highlighting its user-friendly interface, improved effectiveness of event preparation, and ease of event registration.
 - Improved communication: Feedback from stakeholders indicated that the system significantly enhanced communication between JKM KTDI, staff members, and students. Information was more readily accessible, reducing confusion and improving coordination among team members.
 - Merit point accuracy: JKM KTDI members confirmed that the automated merit point calculation accurately reflected students' activities, ensuring fair determination of their active quota for hostel booking.
