@@ -8,7 +8,8 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Activity: Group Curiousity
+# Project : Group Curiousity
+<img src="img/ktdiems.jpg" height="500px" >
 
 ## Group Members
 <img src="img/group.jpg" height="350px" >
@@ -22,16 +23,16 @@ Don't forget to hit the :star: if you like this repo.
     <td>Project Manager</td>
   </tr>
   <tr>
-    <td>2. Koh Li Hui</td>
-    <td>User Experience Designer</td>
-  </tr>
-    <tr>
-    <td>3. Camily Tang Jia Lei</td>
+    <td>2. Camily Tang Jia Lei</td>
     <td>Developer</td>
   </tr>
-    <tr>
-    <td>4. Ng Shu Yu</td>
+  <tr>
+    <td>3. Ng Shu Yu</td>
     <td>Documentation Specialist</td>
+  </tr>
+  <tr>
+    <td>4. Koh Li Hui</td>
+    <td>User Experience Designer</td>
   </tr>
 </table>
 
@@ -56,7 +57,7 @@ Don't forget to hit the :star: if you like this repo.
 * [Implementation](#implementation)
 * [Timeline process](#1-timeline-process)
 * [Requirement collection](#2-requirement-collection)
-* [Software components & modules](#3-software-components-modules)
+* [Software components & modules](#3-software-components--modules)
 * [Design phase](#4-design-phase)
 * [Design system](#5-design-system)
 * [Challenges](#6-challenges)
@@ -163,7 +164,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
     </table>
 
 ## Implementation
-### Timeline process
+### 1. Timeline process
 <table style="border-collapse: collapse;">
       <thead>
         <tr>
@@ -255,7 +256,7 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
       </tbody>
 </table>
 
-### Requirement collection
+### 2. Requirement collection
 Meeting with stakeholders <br><br>
 
 #### Meeting with JKM KTDI (Hanie Azyuni binti Mazle) 
