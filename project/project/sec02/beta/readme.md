@@ -72,19 +72,19 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provide accurate and up-to-date information about their menu items, pricing, and availability</td>
   </tr>
     <tr>
-    <td>DANIEL HARRIZ BIN MOHD ASINEH @ MOHD ASNEH</td>
+    <td>MUHAMMAD FAIZUN NAI'M BIN MD.FAUZAN</td>
     <td>Customer</td>
     <td>UTM student</td>
     <td>Provide feedback on the ordering process, menu and quality of the food</td>
   </tr>
    <tr>
-    <td>MUHAMMAD LUQMAN HAKIM BIN MOHD RIZAUDIN</td>
+    <td>MUHAMMAD HARITH BIN MOHD KAMAL</td>
     <td>Customer</td>
     <td>UTM student</td>
     <td>Provide feedback on the user interfaces</td>
   </tr>
   <tr>
-    <td>MUHAMMAD NUR AZHAR BIN MOHD YAZID</td>
+    <td>MUHAMMAD WAFFI QAYYUM BIN DIN</td>
     <td>Customer</td>
     <td>UTM student</td>
     <td>Provide feedback on the payment methods</td>
