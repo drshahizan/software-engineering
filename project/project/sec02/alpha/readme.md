@@ -28,6 +28,11 @@ Don't forget to hit the :star: if you like this repo.
 
 # Activity: Group Alpha
 
+<div id="header" align="center">
+  <h2>Team stakeholder</h2>
+  <img src="" width="350" height="250"/>
+</div>
+
 ## Group Members
 <table>
   <tr>
