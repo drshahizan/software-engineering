@@ -1,0 +1,295 @@
+<mxfile host="app.diagrams.net" modified="2023-06-09T11:20:21.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="OMOsDiXbiDZzZCiWhXnu" version="21.3.7" type="device">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="548" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="929.6099999999999" y="1160" as="sourcePoint" />
+            <mxPoint x="929.6099999999999" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="1160" as="sourcePoint" />
+            <mxPoint x="569.5" y="1025" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="1160" as="sourcePoint" />
+            <mxPoint x="729.9999999999999" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.607;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="222.84000000000003" y="1161.02" as="sourcePoint" />
+            <mxPoint x="224.57999999999998" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="64.81" y="280" as="sourcePoint" />
+            <mxPoint x="64.81" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-6" value="Registrar" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="55" y="175" width="25" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="60" y="280" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="1160" as="sourcePoint" />
+            <mxPoint x="64.92" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-9" value="Admin Portal Room Management" style="html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="165" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="224.7" y="290" as="sourcePoint" />
+            <mxPoint x="224.7" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="10" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-12" value="Go to &quot;Admin Portal Room&lt;br&gt;Management&quot; page" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="TGBqp4v4OE_49LAyhRmw-7" target="TGBqp4v4OE_49LAyhRmw-11">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="35" y="340" as="sourcePoint" />
+            <mxPoint x="265" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="310" />
+              <mxPoint x="110" y="300" />
+              <mxPoint x="130" y="380" />
+              <mxPoint x="55" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-13" value="Room Availability page" style="html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.667;exitY=0.023;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0400000000001" y="1161.3799999999999" as="sourcePoint" />
+            <mxPoint x="399.58" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.28999999999996" y="290" as="sourcePoint" />
+            <mxPoint x="399.28999999999996" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="395" y="280" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-17" value="Click &quot;Room&lt;br&gt;Availability&quot;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="TGBqp4v4OE_49LAyhRmw-16">
+          <mxGeometry x="-0.0028" width="80" relative="1" as="geometry">
+            <mxPoint x="230" y="350" as="sourcePoint" />
+            <mxPoint x="310" y="350" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-18" value="Room Detail&lt;br&gt;page" style="html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="510" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="569.5799999999999" y="640" as="sourcePoint" />
+            <mxPoint x="569.5799999999999" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="TGBqp4v4OE_49LAyhRmw-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="569.29" y="290" as="sourcePoint" />
+            <mxPoint x="569.29" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="565" y="340" width="10" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-22" value="System" style="html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="670" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="729.57" y="650" as="sourcePoint" />
+            <mxPoint x="729.57" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="TGBqp4v4OE_49LAyhRmw-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="729.29" y="290" as="sourcePoint" />
+            <mxPoint x="729.29" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="725" y="350" width="10" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-27" value="Display list&lt;br&gt;of available&lt;br&gt;rooms and&lt;br&gt;current status" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="TGBqp4v4OE_49LAyhRmw-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="404" y="370.0000000000001" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="438" y="370" />
+              <mxPoint x="438" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-28" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" target="TGBqp4v4OE_49LAyhRmw-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="480" as="sourcePoint" />
+            <mxPoint x="315" y="430.09000000000003" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="480" />
+              <mxPoint x="290" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-29" value="sd UC12" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fontSize=16;width=70;height=30;" vertex="1" parent="1">
+          <mxGeometry x="10" y="100" width="1060" height="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-32" value="Retrieves the room&amp;nbsp;&lt;br&gt;details" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry x="-0.0083" width="80" relative="1" as="geometry">
+            <mxPoint x="575" y="500" as="sourcePoint" />
+            <mxPoint x="725" y="500.34000000000015" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="500.34000000000003" />
+              <mxPoint x="720" y="515.34" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-33" value="Display the room&lt;br&gt;details" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="725" y="545.3400000000001" as="sourcePoint" />
+            <mxPoint x="575" y="545.34" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="545.34" />
+              <mxPoint x="625" y="535.34" />
+              <mxPoint x="625" y="445.34000000000003" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-34" value="Click a room&lt;br&gt;to manage" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="TGBqp4v4OE_49LAyhRmw-21">
+          <mxGeometry x="-0.0023" width="80" relative="1" as="geometry">
+            <mxPoint x="405" y="470" as="sourcePoint" />
+            <mxPoint x="555" y="470.34000000000015" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="470.34000000000003" />
+              <mxPoint x="550" y="485.34000000000003" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-35" value="Assign room to student" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry x="-0.0023" width="80" relative="1" as="geometry">
+            <mxPoint x="575" y="790" as="sourcePoint" />
+            <mxPoint x="725" y="790.3400000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="790.34" />
+              <mxPoint x="720" y="805.34" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-36" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="730" y="650" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-37" value="Validate room&lt;br&gt;availability&lt;br&gt;information" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="TGBqp4v4OE_49LAyhRmw-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="735" y="630" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="765" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="730" y="720" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-39" value="Update room&lt;br&gt;record and&lt;br&gt;availability status" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="TGBqp4v4OE_49LAyhRmw-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="735" y="700" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="765" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-40" value="Notification page" style="html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="870" y="162.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="925" y="820" width="10" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-42" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="TGBqp4v4OE_49LAyhRmw-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="860" as="sourcePoint" />
+            <mxPoint x="930" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-44" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1060" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-45" value="Notify&lt;br&gt;Student" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="TGBqp4v4OE_49LAyhRmw-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="935" y="1040" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="965" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-46" value="Update room details&lt;br&gt;and availability" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry x="-0.0083" width="80" relative="1" as="geometry">
+            <mxPoint x="575" y="610" as="sourcePoint" />
+            <mxPoint x="725" y="610.3400000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="610.34" />
+              <mxPoint x="720" y="625.34" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="730" y="830" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-48" value="Validate student&lt;br&gt;information" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="TGBqp4v4OE_49LAyhRmw-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="735" y="810" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="765" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-51" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="730" y="910" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-52" value="Update room&lt;br&gt;assignment" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="TGBqp4v4OE_49LAyhRmw-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="735" y="890" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="765" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGBqp4v4OE_49LAyhRmw-53" value="Confirm the room assignment" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="TGBqp4v4OE_49LAyhRmw-41">
+          <mxGeometry x="-0.0023" width="80" relative="1" as="geometry">
+            <mxPoint x="575" y="1020" as="sourcePoint" />
+            <mxPoint x="725" y="1020.3400000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="1020.34" />
+              <mxPoint x="720" y="1035.3400000000001" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
