@@ -37,13 +37,6 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-## Documentation
-| No | Name |File | 
-| -----:| ----- | :------: | 
-|1| Proposal | <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/program" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/1999131.png" width="24px" height="24px" ></a>|
-|2| Document SRS| <a href="https://docs.google.com/document/d/1hiLRm3jYrVzw8qR02eJ4fPx0opQGERAg/edit?rtpof=true" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/docx-9.png" width="24px" height="24px" ></a>|
-|3| Document SDD| <a href="https://docs.google.com/document/d/1H_E53Q_lN9H0LWUnIBm3KGp29_nsCnBwvxTQVypJ46E/edit?usp=sharing" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/docx-9.png" width="24px" height="24px" ></a>|
-|4| Document STD| <a href="https://docs.google.com/document/d/1O9BgazCy0P2WQckn1uQQ2f2tliQre5_6zR4EDoSp1wY/edit?usp=sharing" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/docx-9.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 <table>
@@ -275,10 +268,11 @@ Solution:
 - Allow administrators to access and update detailed information about students, including personal information, academic records, health conditions, emergency contacts, and other relevant data.
 
 
+#### <b>Create Proposal</b>: We create a proposal to briefly describe the student feedback system.<a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/program" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/1999131.png" width="24px" height="24px" ></a>
 
-- <b>Create Proposal</b>: We create a proposal to briefly describe the student feedback system.<a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/program" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/1999131.png" width="24px" height="24px" ></a>
-
-- <b>Create UML Diagram</b>: Create Use case Diagram,Class Diagram,Sequence diagram and Activity Diagram.
+- Sketching
+<img src="https://user-images.githubusercontent.com/128196055/241563936-d49f1c1d-41b2-4cfe-8642-4b26ee3a2557.jpeg" width="400" height=auto >
+- <c>Create UML Diagram</b>: Create Use case Diagram,Class Diagram,Sequence diagram and Activity Diagram.
   
 Sequence Diagram:<br>
 <img src="https://github.com/drshahizan/software-engineering/assets/128214992/bd353ec2-8ebe-4b52-9d7a-c15275eea3ea" width="1000" height=auto>
@@ -322,7 +316,6 @@ User Flow:
 
 Low Fidelity Wireframes:
 
-<img src="https://user-images.githubusercontent.com/128196055/241563936-d49f1c1d-41b2-4cfe-8642-4b26ee3a2557.jpeg" width="400" height=auto >
 
 
 
@@ -454,6 +447,13 @@ In conclusion, the development and implementation of the Academic Consultation S
 |2| UI/UX (Academic Advisor)| <a href="https://www.figma.com/proto/DBtAK206tikRXizDURZSSs/Academic-Consultation-System-UI%2FUX-(Community)?type=design&node-id=512-13187&t=dQ1CDHjSFPR3E8KR-8&scaling=scale-down&page-id=512%3A10294&starting-point-node-id=512%3A10516&show-proto-sidebar=1&hide-ui=1" ><img src="https://github.com/drshahizan/software-engineering/blob/ff60d5d37be6a34234ea420eb3c1901f1e08d25b/project/documentation/sdd/sec02/program/figma.png" width="24px" height="24px" ></a>|
 |3| UI/UX (Administrator)| <a href="https://www.figma.com/proto/DBtAK206tikRXizDURZSSs/Academic-Consultation-System-UI%2FUX-(Community)?type=design&node-id=512-19312&t=bLVGIu7GNhior3iG-8&scaling=scale-down&page-id=512%3A10295&starting-point-node-id=512%3A19312&hide-ui=1" ><img src="https://github.com/drshahizan/software-engineering/blob/ff60d5d37be6a34234ea420eb3c1901f1e08d25b/project/documentation/sdd/sec02/program/figma.png" width="24px" height="24px" ></a>|
 
+## 8. Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Proposal | <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/program" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/1999131.png" width="24px" height="24px" ></a>|
+|2| Document SRS| <a href="https://docs.google.com/document/d/1hiLRm3jYrVzw8qR02eJ4fPx0opQGERAg/edit?rtpof=true" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/docx-9.png" width="24px" height="24px" ></a>|
+|3| Document SDD| <a href="https://docs.google.com/document/d/1H_E53Q_lN9H0LWUnIBm3KGp29_nsCnBwvxTQVypJ46E/edit?usp=sharing" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/docx-9.png" width="24px" height="24px" ></a>|
+|4| Document STD| <a href="https://docs.google.com/document/d/1O9BgazCy0P2WQckn1uQQ2f2tliQre5_6zR4EDoSp1wY/edit?usp=sharing" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/docx-9.png" width="24px" height="24px" ></a>|
  
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
