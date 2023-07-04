@@ -255,8 +255,9 @@ The followings are the specific tools, technologies, or frameworks which are emp
 We have used icons found from Figma Community. The following is the main source of our icons used:
 ![Cover](https://github.com/drshahizan/software-engineering/assets/118497269/0e22275d-7736-4dbd-a865-360f117c8018)
 
-### Low Fedility Prototype:
-- [View our low fedility here](https://github.com/drshahizan/software-engineering/issues/87)
+### Low Fidelity Prototype:
+- [View our low fidelity here](https://www.figma.com/file/sV7ZoY0kP1AwFlNVJPop4g/Low-Fidelity?type=whiteboard&node-id=0%3A1&t=aeNtLQzVbg8zp0sY-1)
+![Low Fidelity](https://github.com/drshahizan/software-engineering/assets/118497269/75c0ce59-db17-4005-b417-116dfcdc0ad1)
 
 ### User Interface Design:
 - Student user interfaces: 32 pages
@@ -304,34 +305,40 @@ Boundary Value Analysis is a technique used to test the system's behaviour at th
 
 By using Boundary Value Analysis, we can focus on critical values that are likely to cause issues and ensure that the system handles these boundary conditions accurately.
 
-### Types of Testing:
-Our team has used **unit testing** as an important part of our project's testing type. It involves testing individual units or components of the software to ensure they work correctly. The main goals of unit testing are to check that each unit behaves as expected and to detect bugs early in the development process.
-
-During unit testing, we isolated each unit of code and verified its behaviour. This allows us to identify and fix issues in a focused manner. Then, we validated that units produce the correct outputs for given inputs and handle exceptional cases properly. Besides, unit testing also helps with refactoring and maintenance. It provides a safety net when making changes to the code, ensuring that modifications don't introduce new bugs and that the units still function correctly. Additionally, unit tests act as living documentation, providing insights into how the code is supposed to work.
-
-Also, we could catch bugs early by performing unit testing, saving time and effort in the long run. It improves the overall quality of our code by making it more reliable and robust. Unit tests also aid in collaboration among team members, as they provide clear specifications for the expected behaviour of the code. Thus, unit testing helps us ensure that individual units of code work correctly, detect bugs early, support refactoring and maintenance, and improve the overall quality of our software.
-
 <div id="header" align="center">
-  <h4>Testing Record Template</h4>
+  <h4>Testing Template</h4>
   <img src="https://github.com/drshahizan/software-engineering/assets/118497269/937c9436-70a0-4717-84cc-a6069437abc5" width="800" height="280"/>
 </div>
 
+### Types of Testing:
+- **Unit testing** is an essential part of our project's testing strategy.
+- It involves testing individual units or components of the software in isolation.
+- The **main goals** of unit testing are:
+  - Checking that each unit behaves as expected.
+  - Detecting and fixing issues in a focused manner.
+  - Validating correct outputs for given inputs and handling exceptional cases.
+  - Supporting refactoring and maintenance by providing a safety net for component changes.
+  - Acting as living documentation, providing insights into system functionality.
+- **Benefits** of unit testing include:
+  - Catching issue early, saving time and effort in the long run.
+  - Improving overall system quality by making it more reliable and robust.
+  - Facilitating collaboration among team members by providing clear specifications.
+
+<div id="header" align="center">
+  <h6>Source: https://www.telerik.com/blogs/top-9-reasons-to-unit-test-your-csharp-code</h6>
+  <img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2022/2022-04/top-reasons-to-unit-test-your-csharp-code.png?sfvrsn=c1fd1c8e_4" width="450" height="300"/>
+</div>
+
 ### Quality Assurance Process:
-To ensure the reliability and robustness of the software product, we have implemented the following quality assurance processes:
+To ensure the reliability and robustness of the software product that meets high quality, functionality, and user satisfaction standards, we have implemented the following quality assurance processes:
 
-1. Requirement Analysis and Validation: Thoroughly analyze and validate requirements to ensure clarity and alignment with stakeholders' needs.
-2. Test Planning and Strategy: Develop a comprehensive test plan that outlines testing objectives, scope, timelines, and resource allocation.
-3. Test Case Development: Create well-defined test cases that cover various scenarios, including positive and negative test cases, boundary conditions, and edge cases.
-4. Test Execution and Defect Management: Execute test cases and systematically track and manage defects using a defect tracking system or tool.
-5. Regression Testing: Perform regression testing to ensure that new changes or bug fixes do not affect existing functionalities.
-6. User Acceptance Testing (UAT): Engage end-users in testing to validate the software's usability, functionality, and user experience.
-7. Compatibility Testing: Test the software across different platforms, browsers, and devices to ensure compatibility and consistent performance.
-8. Usability Testing: Evaluate the software's ease of use, user interface, and overall user experience to ensure it meets user expectations.
-10. Code Reviews and Quality Checks: Perform code reviews to ensure adherence to coding standards, identify potential bugs, and improve code quality.
-11. Documentation Review: Review and validate the accuracy and completeness of software documentation, including user manuals, installation guides, and release notes.
-12. Continuous Integration and Deployment: Implement a continuous integration and deployment pipeline to automate testing, build, and deployment processes, ensuring frequent and reliable releases.
-
-By implementing these quality assurance processes, we strive to deliver a reliable and robust student accommodation system that meets high quality, functionality, and user satisfaction standards.
+1. **Requirement Analysis and Validation:** Thoroughly analyze and validate requirements to ensure clarity and alignment with stakeholders' needs.
+2. **Test Planning and Strategy:** Develop a comprehensive test plan that outlines testing objectives, scope, timelines, and resource allocation.
+3. **Test Case Development:** Create well-defined test cases that cover various scenarios, including positive and negative test cases, boundary conditions, and functional and non-functional aspects.
+4. **User Acceptance Testing (UAT):** Engage end-users in testing to validate the software's usability, functionality, and user experience.
+5. **Usability Testing**: Evaluate the software's ease of use, user interface, and overall user experience to ensure it meets user expectations.
+6. **Documentation Review:** Review and validate the accuracy and completeness of software documentation, including SRS, SDD, and STD.
+7. **Continuous Integration:** Implement a continuous integration pipeline to gather comments from the stakeholders and discuss within members in order to improve the quality of the system.
 
 
 ## 6. Results and Achievements
@@ -339,24 +346,26 @@ By implementing these quality assurance processes, we strive to deliver a reliab
   <img src="https://www.drsandeeppatil.com/static/media/6.6620ed2b.gif" width="300" height="200"/>
 </div>
 
-**Outcomes**: [KTDI Student Accommodation System](https://www.figma.com/proto/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=1058-6947&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1058%3A6947&mode=design)
+### Outcomes:
+[KTDI Student Accommodation System](https://www.figma.com/proto/LNaSVME1vsPegIMkaz7p9W/KTDI?type=design&node-id=1058-6947&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1058%3A6947&mode=design)
 
-🎖️**Achievements**:
-- Improved Administrative Efficiency: The software solution has significantly improved administrative efficiency for the hostel staff and administrators. They can easily manage room allocations, process payments, and generate reports, leading to time savings and reduced manual effort.
+### 🎖️Achievements:
+
+- **Improved Administrative Efficiency**: The software solution has significantly improved administrative efficiency for the hostel staff and administrators. They can easily manage room allocations, process payments, and generate reports, leading to time savings and reduced manual effort.
   
-- Enhanced Student Experience: The system has greatly enhanced the experience for students using the accommodation facilities. They can conveniently search for available rooms, view detailed information about each room, and submit accommodation requests online. This streamlined process has improved transparency and empowered students in making informed choices.
+- **Enhanced Student Experience**: The system has greatly enhanced the experience for students using the accommodation facilities. They can conveniently search for available rooms, view detailed information about each room, and submit accommodation requests online. This streamlined process has improved transparency and empowered students in making informed choices.
 
-- Increased Transparency and Communication: The software solution has improved transparency and communication among all stakeholders. Students can easily view their accommodation details, payment status, and important announcements. Hostel staff, administrators, and hostel fellows can communicate with students through the system, ensuring important information reaches them promptly.
+- **Increased Transparency and Communication**: The software solution has improved transparency and communication among all stakeholders. Students can easily view their accommodation details, payment status, and important announcements. Hostel staff, administrators, and hostel fellows can communicate with students through the system, ensuring important information reaches them promptly.
 
-- Data Accuracy and Reporting: The system has improved data accuracy and reporting capabilities. It eliminates manual data entry errors, ensuring accurate records of room allocations, payments, and other relevant information. This enables administrators to generate accurate reports on occupancy rates, payment records, and other metrics.
+- **Data Accuracy and Reporting**: The system has improved data accuracy and reporting capabilities. It eliminates manual data entry errors, ensuring accurate records of room allocations, payments, and other relevant information. This enables administrators to generate accurate reports on occupancy rates, payment records, and other metrics.
 
-🗃️**Quantitative and Qualitative Data** further demonstrate the success of our software solution:
+### 🗃️Quantitative and Qualitative Data:
 
-- Quantitative Data: We have observed a reduction in administrative processing time by approximately 40%, thanks to the automation of room allocation and payment processes. Additionally, data accuracy has improved, with a decrease in data entry errors by approximately 90% based on our internal analysis.
+- **Quantitative Data**: We have observed a reduction in administrative processing time by approximately 40%, thanks to the automation of room allocation and payment processes. Additionally, data accuracy has improved, with a decrease in data entry errors by approximately 90% based on our internal analysis.
 
-- Qualitative Feedback: Feedback from stakeholders, including administrators, students, hostel staff, and hostel fellows, has been positive. Administrators appreciate the system's comprehensive features, reporting capabilities, and improved efficiency. Students value the system's user-friendly interface, transparency, and ease of submitting accommodation requests. Hostel staff and hostel fellows commend the system for streamlining communication and facilitating effective management.
+- **Qualitative Feedback**: Feedback from stakeholders, including administrators, students, hostel staff, and hostel fellows, has been positive. Administrators appreciate the system's comprehensive features, reporting capabilities, and improved efficiency. Students value the system's user-friendly interface, transparency, and ease of submitting accommodation requests. Hostel staff and hostel fellows commend the system for streamlining communication and facilitating effective management.
 
-💬During the evaluation process, we actively sought **feedback from stakeholders** to ensure their needs were met. Some feedback received includes:
+### 💬Feedback from Stakeholders:
 
 - Administrators appreciated the system's automated payment reminders and the ability to generate detailed reports on occupancy rates and payment statuses.
 - Students praised the system for its user-friendly interface, which made it easier for them to browse available rooms, submit requests, and access important information.
