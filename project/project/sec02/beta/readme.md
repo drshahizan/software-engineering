@@ -194,6 +194,9 @@ By leveraging the Agile methodology, we can effectively address the specific req
 
 ## 4. Testing and Quality Assurance:
 ### Testing strategies and techniques employed.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/grafana/k6-action/master/k6.gif" alt="arkedangkasa" width="400" height="300" style="border: 5px solid purple;">
+</div>
   <ol>
   <li><b>Functional Testing</b>: This type of testing focuses on verifying the system's features and functionalities. Testers evaluate whether users can perform tasks such as searching for restaurants, selecting menu items, adding them to the cart, placing orders, and making payments without any issues.</li><br>
   
@@ -217,6 +220,9 @@ By leveraging the Agile methodology, we can effectively address the specific req
 </ol>
 
 ## 5. Results and Achievements:
+<div align="center">
+  <img src="https://media.tenor.com/Bx6tTwt9PNwAAAAC/nasilemak-bungkus.gif" alt="arkedangkasa" width="400" height="300" style="border: 5px solid purple;">
+</div>
 We take great pleasure in showcasing the important results and accomplishments of our Food Ordering System project. The software system has excelled at improving the ordering process for patrons, restaurant personnel, and management. Our system's design is based heavily on the culinary experience, which makes consumers feel satisfied and convenient.
 
 During the evaluation process, we gathered both quantitative and qualitative data, which shows how effective our system is. When compared to conventional ordering methods, we quantifiably saw a rise in the number of customers using the food ordering system. This shows that the software may simplify the ordering process and motivate a variety of customers to actively participate. Qualitatively, the responses we've had from users and stakeholders about the design decisions and functions we made, which enhanced the overall meal ordering experience, have been overwhelmingly positive. Examples of elements that have been praised for improving the ordering experience include a user-friendly interface, clear menu navigation, personalised recommendations, and practical payment methods. We are thrilled with how well our project has done.
@@ -226,6 +232,9 @@ In order to measure their thoughts and gain insightful information, we actively 
 In conclusion, our meals Ordering System project has effectively revolutionised the way people buy meals, offering convenience, adaptability, and effectiveness to customers while assisting restaurant employees and management in streamlining operations and fostering business growth. Our project has had a positive impact, and we are excited to make more improvements based on user input and changing customer preferences.
 
 ## 6. Conclusion:
+<div align="center">
+  <img src="https://thumbs.gfycat.com/ShamelessRaggedErin-size_restricted.gif" alt="arkedangkasa" width="300" height="200" style="border: 5px solid purple;">
+</div>
 Throughout the development of our food ordering system, we gained valuable insights and experiences. The project provided us with a deeper understanding of the complexities involved in creating a user-friendly and efficient platform. We recognized the importance of effective communication and collaboration among team members, as well as the significance of user feedback in shaping the system's functionality.
 
 During the project, we encountered several challenges that required careful navigation. One major hurdle was understanding the diverse needs and preferences of different stakeholders, including both customers and restaurant owners. Conducting thorough stakeholder interviews and gathering comprehensive feedback helped us address these challenges. We actively listened to their perspectives, identified pain points, and iteratively refined our UI/UX design to meet their requirements.Another challenge was ensuring a seamless and intuitive user experience while navigating through the ordering process. We conducted usability tests and gathered user feedback to identify potential areas of confusion or friction. Iterative design improvements and refining the user interface based on user preferences and behaviors helped us overcome these challenges.
