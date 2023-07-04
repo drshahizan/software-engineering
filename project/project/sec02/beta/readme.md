@@ -256,7 +256,7 @@ In conclusion, to optimize the food ordering system, it is essential to prioriti
 | 1 | Proposal |<a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/Beta" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> |
 | 2 | System Requirements Specification (SRS)| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/documentation/srs/sec02/beta/System%20Requirement%20Specification.docx.pdf" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> | 
 | 3 | System Design Descriptions (SDD) | <a href="https://docs.google.com/document/d/1gna8Y_3pXq2pYxGWBdGKjZ8hy1BKsWuh/edit" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> | 
-| 4 | System Test Descriptions (STD)| <a href="https://docs.google.com/document/d/1mIybNY1HmJNrAwAN5GM3z6VCQVPPYu1e/edit" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> | 
+| 4 | System Test Descriptions (STD)| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/documentation/std/sec02/beta/System%20Test%20Description%20(STD)%20Documentation.docx.pdf" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> | 
 
 ## Project Documentation Update
 
