@@ -164,7 +164,9 @@ Release updates and new features based on user feedback and evolving requirement
 Software Development Life Cycle Model:
 For the University Technology Malaysia Student Feedback System project, the Agile software development methodology will be adopted. Agile emphasizes iterative and incremental development, allowing for flexibility and adaptability throughout the project. It involves frequent collaboration with stakeholders and prioritizes delivering working software in short cycles known as sprints.
 
-Agile allows for continuous feedback and enables the development team to respond to changing requirements effectively. It promotes close collaboration between developers, testers, and end-users, resulting in a high-quality system that aligns with the stakeholders' expectations.
+<img src="https://www.credencys.com/wp-content/uploads/2023/02/Agile-Methodologyin-Software-Development.png">
+
+Agile allows for continuous feedback and enables the development team to respond to changing requirements effectively. It promotes close collaboration between developers, testers, and end-users,such as doing scrum meeting to result in a high-quality system that aligns with the stakeholders' expectations.
 
 Tools, Technologies, and Frameworks:
 The choice of tools, technologies, and frameworks will depend on the specific requirements and preferences of the project team. However, some commonly used tools and technologies for developing web-based systems like the University Technology Malaysia Student Feedback System may include:
