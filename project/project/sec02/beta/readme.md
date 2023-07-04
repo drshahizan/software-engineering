@@ -110,14 +110,14 @@ Don't forget to hit the :star: if you like this repo.
 | 11 | 13/05/2023 |Iman, Safwan|User Experience Designer,Quality Assurance|Low fidelity progression|Complete|
 | 12 | 13/05/2023 |Daniel, Ariff,Che Marhumi|Requirements Analyst,Developer,Documentation Specialist|High fidelity progression|Complete|
 | 13 | 08/06/2023 |Daniel, Ariff|Requirements Analyst,Developer|High fidelity for admin|Complete|
-| 14 | 10/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|SDD documentation|Incomplete|
-| 15 | 15/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|STD documentation|Incomplete|
+| 14 | 10/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|SDD documentation|Complete|
+| 15 | 15/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|STD documentation|Complete|
 | 16 | 20/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Scrum meeting|Complete|
 | 17 | 22/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Update SDD Documentation|Complete|
 | 18 | 23/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Update STD Documentation|Complete|
 | 19 | 01/07/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Discussion about Project Details|Complete|
 | 20 | 02/07/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Update Project Documentation Details|Complete|
-| 21 | 02/07/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Project Documentation|Incomplete|
+| 21 | 02/07/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Project Documentation|Complete|
 
 
 
