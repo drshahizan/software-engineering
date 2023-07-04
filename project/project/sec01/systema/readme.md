@@ -1,3 +1,61 @@
+
+<a href="https://github.com/drshahizan/software-engineering/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/software-engineering" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/software-engineering/network/members"><img src="https://img.shields.io/github/forks/drshahizan/software-engineering" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/software-engineering/issues"><img src="https://img.shields.io/github/issues/drshahizan/software-engineering" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/software-engineering/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/software-engineering?color=2b9348"></a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fsoftware-engineering&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+
+
+Don't forget to hit the :star: if you like this repo.
+
+# Project: Group Systema
+
+<img src="https://i.imgur.com/2ukWq8F.jpg" alt="img" style="width:350px;height:350px">
+
+## Group Members
+<table>
+  <tr>
+    <th>No.</th>
+    <th>Name</th>
+    <th>Role</th>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>Bernice Lim Jing Xuan</td>
+    <td>Project Manager</td>
+  </tr>
+  <tr>
+    <td>2.</td>
+    <td>Chai Yu Tong</td>
+    <td>Developer</td>
+  </tr>
+  <tr>
+    <td>3.</td>
+    <td>Kek Jesslyn</td>
+    <td>Support Engineer</td>
+  </tr>
+  <tr>
+    <td>4.</td>
+    <td>Wong Qiao Ying</td>
+    <td>UI/UX Designer</td>
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td>Yeoh Chong Yi</td>
+    <td>Technical Writer</td>
+  </tr>
+</table>
+
+## Documentation
+| No | Name |  File |
+| :-----: |  ------ | :-----: | 
+| 1 | Proposal |  <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec01/Systema" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
+| 2 | System Requirements Specification (SRS)| <a href="https://docs.google.com/document/d/1UxmRYZFCNrQxG7QrHjzH8VrpwF1Cs9DjMGbELYGB2vU/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
+| 3 | System Design Descriptions (SDD) | <a href="https://docs.google.com/document/d/1ZAhvWcL0xh_LSv_PMEcaST6nnbT_biHk/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
+| 4 | System Test Descriptions (STD)| <a href="https://docs.google.com/document/d/1Yt3tCnSIXsN3v5-A7byXm0uLhwLEIxawGTR2LrUj7L8/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
+| 5 | Figma |  <a href="https://www.figma.com/file/xoLv2jya85swQCl30HYeFQ/Student-Engagement-System-Design?type=design&node-id=65-1843&mode=design&t=rtAtprcK5GmkKs3P-0" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/9351bd712f05648b3c117eec85186a261de98c92/project/project/sec01/curiousity/img/figma.svg" width="24px" height="24px" ></a> |  
+
 ## 1. Introduction:
 
 ### Purpose And Objectives  
@@ -61,8 +119,23 @@ Overall, the development of a student engagement website aligns with the evolvin
 <!--- Describe the approach and methodologies utilized to tackle the project.
  Explain the software development life cycle model or any other relevant methodology adopted.
  Highlight any specific tools, technologies, or frameworks employed during the project. -->
-<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Systema/agile.png" height="50%" width="50%">
+<img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Systema/agile.png" height="30%" width="30%">
 We are using agile method as this is a software process model that emphasizes iterative and incremental development, flexibility, and collaboration between team members and stakeholders. It is particularly suitable for projects where the requirements are likely to evolve over time.
+Agile methodology is ideal for developing a student engagement system with a personalized dashboard, anonymous forum, feedback system, and reporting module. It allows for iterative development, flexibility to accommodate changing requirements, collaboration among team members and stakeholders, and continuous testing and feedback. This approach ensures the system evolves effectively and meets the needs of University Teknologi Malaysia Faculty of Computing's students,lecturers,SRC Members and administrators.
+Tools, Technologies, and Frameworks:
+These are the used tools and technologies for developing our Student Engagement System:
+
+| Task                 | Software                    |
+|----------------------|-----------------------------|
+| Web Development      | Bootstrap Studio |
+| Prototyping          | Figma |
+| Data Source          | ELearning Website, Facebook |
+| Data Schema          | draw.io |
+| Programming Languages| HTML, CSS |
+| Libraries            | Bootstrap Studio |
+| Database Management  | PHPMyAdmin & XAMPP |
+| Hardware Requirements| RAM: > 8GB and above, Storage: > 50GB and above, Display: 1920x1080 and higher |
+| Software Requirements| Operating System: Windows 10 or higher, IDE: Visual Studio Code, Bootstrap Studio, Web Server: Google, Version Control: Git |
 
 ## 3. Implementation:
 <!--- Detail the specific tasks and activities undertaken by your group.
@@ -96,6 +169,9 @@ We are using agile method as this is a software process model that emphasizes it
 | 22 | 19/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | SDD Documentation Complete Package Diagram | Complete |
 | 23 | 20/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | SDD Documentation Component Diagram | Complete |
 | 24 | 26/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | SDD Documentation Subsystem and Class Diagram | Complete |
+| 25 | 29/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | SDD Documentation  | Complete |
+| 26 | 30/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | STD Planning | Complete |
+| 27 | 01/07/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | STD Test Case | Complete |
 
 ### First Stakeholer: Jasmine Alisha -  Student Representative Council (SRC)
 <img src="https://user-images.githubusercontent.com/129290170/236827544-b0c72886-55d0-4c0a-9c35-11f7423e0715.jpg" height="30%" width="60%">
@@ -142,27 +218,40 @@ We are using agile method as this is a software process model that emphasizes it
    8. Anonymous Forum Module
       - UC021 Create Forum: Users are able to create a forum
       - UC022 Forum Comments: Users are allowed to comment at any post
-      - UC023 Edit Forum: Users are allowed to edit their post after posting it
-      
-- Use Case Diagram
-- Class/Domain Diagram
+      - UC023 Edit Forum: Users are allowed to edit their post after posting it<br>
+<br>
+
+**Use Case Diagram:**
+ <br>
+<img src="https://github.com/drshahizan/software-engineering/assets/96631869/47e6cc19-7155-4bb9-ba3c-62eda5e1aaf3" alt="img" >
+
+**Class Diagram:**
+ <br>
+<img src="https://github.com/drshahizan/software-engineering/assets/96631869/4cb5a9de-a6f9-48d8-b4f6-dc47ae9d889f" alt="img">
   
 ### Challenges:
 ### System Design:
-- Information Architecture
-- Low Fidelity Wireframes
-- High Fidelity Wireframes
-- Typography
-- Colour Scheme
-- User Prototype
-  - [Interact with our system prototype](https://www.figma.com/file/xoLv2jya85swQCl30HYeFQ/Student-Engagement-System-Design?type=design&node-id=65%3A1843&mode=design&t=xW9h06NpXfnp1qxj-1)
+<br>
+Information Architecture:<br>
+<img src="https://i.imgur.com/w5aY9rD.png" alt="img" style="width:450px;height:350px"><br>
+Low Fidelity Wireframes:<br>
+<img src="https://i.imgur.com/0gs7Zly.jpg" style="width:450px;height:350px"><br>
+High Fidelity Wireframes:<br>
+<img src="https://i.imgur.com/dPvXSaR.png" style="width:450px;height:350px"><br>
+<img src="https://i.imgur.com/2A6BFku.png" style="width:450px;height:350px"><br>
+<img src="https://i.imgur.com/DZIIVuZ.png" style="width:450px;height:350px"><br>
+
+### Typography:
+<img src="https://i.imgur.com/2YDUsTT.png" width="550px" height="400px">
+
+### Color Scheme:
+<img src="https://i.imgur.com/HWUFYKz.png" width="400px" height="500px">
+
+### User Prototype:<br>
+[Interact with our system prototype](https://www.figma.com/file/xoLv2jya85swQCl30HYeFQ/Student-Engagement-System-Design?type=design&node-id=65%3A1843&mode=design&t=xW9h06NpXfnp1qxj-1)
 
 
 ## 4. Testing and Quality Assurance:
-- Explain the testing strategies and techniques employed.
-- Discuss the types of testing conducted (e.g., unit testing, integration testing, etc.).
-- Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
-
 ### Testing Strategies/Techniques:
 Our project has implemented the black-box testing strategy, specifically the Equivalence Partitioning (EP) and Boundary Value Analysis (BVA) techniques to provide comprehensive test coverage.
 
@@ -208,11 +297,33 @@ By implementing these quality assurance processes, we strive to deliver a softwa
 
 
 ## 5. Results and Achievements:
-- Present the outcomes and achievements of the project.
-- Share any quantitative or qualitative data that demonstrates the success of the software solution.
-- Discuss any feedback received from stakeholders or users during the evaluation process.
+  We are pleased to present the outstanding results and achievements of our Student Engagement System project. Our software solution has significantly enhanced student engagement for students, lecturers, SRC Members and Admin of Faculty Of Computing in University Teknologi Malaysia(UTM), delivering a highly successful outcome. The system's design theme was carefully crafted to mirror our UTM Faculty Of Computing, providing users with a familiar and enjoyable experience that greatly influenced their engagement.
+
+  Throughout the evaluation process, we collected both quantitative and qualitative data, which effectively demonstrated the system's effectiveness. In terms of quantitative results, we observed a substantial increase in student willingness to actively participate in the Student Engagement System. This improvement signifies the software's ability to streamline engagement processes and foster increased student involvement. On the qualitative side, stakeholders and users expressed overwhelmingly positive feedback regarding the system's design choices and functionalities. Their input was gathered through various channels, including social media platforms like Facebook and Instagram, as well as through discussions with friends, lecturers, and other stakeholders.
+
+  During the evaluation phase, we actively sought feedback from a wide range of stakeholders, including students, lecturers, and SRC Member. Their opinions and insights played a crucial role in shaping our system's development and refining its features. Students expressed their appreciation for the Student Engagement System's user-friendly interface, which enabled easy access across multiple devices. They particularly emphasized how the system contributed to their active participation and engagement, leading to a more enriching learning experience. Lecturers found the system to be an invaluable tool for understanding student preferences, improving teaching methodologies, and refining course content. They highly praised the system's comprehensive analytics and reporting capabilities, which provided them with actionable insights for data-driven decision-making. Administrators acknowledged the Student Engagement System as an effective means of measuring engagement levels and assessing student satisfaction. They were especially impressed by its ability to generate detailed reports and aggregate engagement data, allowing them to identify emerging trends and implement targeted interventions.
+
+  The feedback received from these diverse stakeholders played a pivotal role in the continuous refinement and enhancement of the system. It ensured that the Student Engagement System met the unique requirements and expectations of each user group. By actively incorporating user suggestions and insights, we were able to tailor the system to cater to the specific needs of  students, lecturers, SRC Members and Admin of Faculty Of Computing in University Teknologi Malaysia(UTM). The successful outcome of our project is a testament to the collaborative efforts and effective engagement between the development team and the stakeholders involved.
+
+  In conclusion, our Student Engagement System has yielded remarkable results and achievements. Through its user-friendly design and innovative functionalities, it has significantly enhanced student engagement and satisfaction. The system's success is evidenced by increased student participation, positive feedback from stakeholders, and its ability to provide valuable insights for teaching improvement and decision-making. We are proud of the outcomes we have achieved and are committed to continually improving and refining the system to further enhance student engagement within our university.
 
 ## 6. Conclusion:
+### Overall Project Experience & Lessons Learned
+1. Project Management
+   > The team members gained insights into project planning, scheduling, and resource allocation such as breaking down large tasks into manageable ones, estimating effort and time required, prioritizing work, and managing dependencies between different components. This includes learning how to use project management tools effectively.
+2. Collaboration and Teamwork
+   > The project provided and opportunity to enhance our collaboration and teamwork skills. We laarnt to communicate with each other, share responsibilities, resolve conflicts, and work together to achieve project goals. This also involves using version control systems (e.g., Git) to manage changes in this project.
+3. Quality Assurance and Testing
+   > We gained an understanding of the importance of testing and quality assurance in software development. We used different testing methodologies, techniques, and tools to verify that the software meets the desired requirements.
+4. Client and User Interaction
+   > We learnt how to interact with external stakeholders effectively. We gathered requirements, provide progress updates, seek feedback, and iterate based on their input.
+5. Documentation and Communication
+   > Throughout the project, we developed skills in documenting our work, especially in external documentation. We learnt to write clear and concise explanations, user manuals, and technical documentation that can help others understand and maintain the software.
+
+### Future Improvements and Recommendations
+1. User Feedback and Usability
+   >  Gather feedback from users or stakeholders to understand their needs and identify areas for improvement in terms of usability and user experience. Consider conducting user testing sessions to gather insights and iterate on the design and functionality of the software.
+
 - Summarize the overall project experience and lessons learned.
 - Reflect on the challenges faced and how they were overcome.
 - Highlight any future improvements or recommendations for further development.

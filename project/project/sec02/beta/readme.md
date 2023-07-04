@@ -60,31 +60,31 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provide accurate and up-to-date information about their menu items, pricing, and availability. </td>
   </tr>
    <tr>
-    <td>MOHD. 'ALA BIN MOHD ANUAR</td>
+    <td> ENCIK MOHD. 'ALA BIN MOHD ANUAR</td>
     <td>Adminstrator of Restaurant "Sdap Kitchen"</td>
     <td>Assistant</td>
     <td>Provide accurate and up-to-date information about their menu items, pricing, and availability</td>
   </tr>
    <tr>
-    <td>NOOR AZIRA BINTI JAMALI</td>
+    <td> PUAN NOOR AZIRA BINTI JAMALI</td>
     <td>Adminstrator of Restaurant "Deen Corner"</td>
     <td>Assistant</td>
     <td>Provide accurate and up-to-date information about their menu items, pricing, and availability</td>
   </tr>
     <tr>
-    <td>DANIEL HARRIZ BIN MOHD ASINEH @ MOHD ASNEH</td>
+    <td>MUHAMMAD FAIZUN NAI'M BIN MD.FAUZAN</td>
     <td>Customer</td>
     <td>UTM student</td>
     <td>Provide feedback on the ordering process, menu and quality of the food</td>
   </tr>
    <tr>
-    <td>MUHAMMAD LUQMAN HAKIM BIN MOHD RIZAUDIN</td>
+    <td>MUHAMMAD HARITH BIN MOHD KAMAL</td>
     <td>Customer</td>
     <td>UTM student</td>
     <td>Provide feedback on the user interfaces</td>
   </tr>
   <tr>
-    <td>MUHAMMAD NUR AZHAR BIN MOHD YAZID</td>
+    <td>MUHAMMAD WAFFI QAYYUM BIN DIN</td>
     <td>Customer</td>
     <td>UTM student</td>
     <td>Provide feedback on the payment methods</td>
@@ -110,31 +110,42 @@ Don't forget to hit the :star: if you like this repo.
 | 11 | 13/05/2023 |Iman, Safwan|User Experience Designer,Quality Assurance|Low fidelity progression|Complete|
 | 12 | 13/05/2023 |Daniel, Ariff,Che Marhumi|Requirements Analyst,Developer,Documentation Specialist|High fidelity progression|Complete|
 | 13 | 08/06/2023 |Daniel, Ariff|Requirements Analyst,Developer|High fidelity for admin|Complete|
-| 14 | 10/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|SDD documentation|Incomplete|
-| 15 | 15/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|STD documentation|Incomplete|
-| 13 | 20/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Scrum meeting|Complete|
-| 13 | 21/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Scrum meeting|Complete|
+| 14 | 10/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|SDD documentation|Complete|
+| 15 | 15/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|STD documentation|Complete|
+| 16 | 20/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Scrum meeting|Complete|
+| 17 | 22/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Update SDD Documentation|Complete|
+| 18 | 23/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Update STD Documentation|Complete|
+| 19 | 01/07/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Discussion about Project Details|Complete|
+| 20 | 02/07/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Update Project Documentation Details|Complete|
+| 21 | 02/07/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Project Documentation|Complete|
 
 
 
-## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
-
-You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
 
 
+
+
+# PROJECT DOCUMENTATION:
 ## 1. Introduction:
-The purpose of our food ordering system is to provide a convenient and user-friendly platform for customers to place their food orders, eliminating the need for long queues and reducing waiting times. Our objective is to streamline the process of ordering food, ensuring efficiency and customer satisfaction. By leveraging technology, we aim to bridge the gap between restaurants and customers, making it easier for individuals to enjoy their favorite meals without the hassle of traditional ordering methods.The traditional methods of ordering food often involve enduring long queues, especially during peak hours, which can lead to frustration and wasted time for customers. Our project aims to address this challenge by developing a robust food ordering system that allows customers to bypass lengthy queues. By providing an online platform, we offer a convenient alternative that saves time and eliminates the need for physical queuing, ultimately enhancing the overall dining experience.The significance of our food ordering system lies in its potential to revolutionize the way people order food, particularly by minimizing waiting times. By offering a user-friendly application, we empower customers to explore a wide range of restaurants and menus, customize their orders, and conveniently place them with just a few taps on their mobile devices. With our system, customers no longer need to wait in long queues, enabling them to save valuable time and enjoy their meals without unnecessary delays.This reduction in waiting times not only benefits customers but also improves operational efficiency for restaurants. By streamlining the ordering process, restaurants can serve customers more effectively, ensuring prompt order preparation and minimizing congestion during peak hours.By implementing this food ordering system, we envision a future where customers can easily explore a variety of culinary options, place their orders efficiently, and enjoy their favorite meals without enduring long queues or unnecessary waiting times.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/drshahizan/software-engineering/2d0793e73dffe06ecadf0fde82c5ff59a31af689/proposal/submission/sec02/Beta/image/photo_2023-07-03_21-05-01.jpg" alt="arkedangkasa" width="400" height="300" style="border: 5px solid purple;">
+</div>
+Experience the future of dining with our Food Ordering System at Arked Angkasa, UTM. This system revolutionizes the way UTM students and staff order food and beverages from two prominent food stalls: Sdap Kitchen and Deen Corner.
+
+Sdap Kitchen offers mouthwatering Nasi Lemak and Nasi Kandar, while Deen Corner serves a variety of refreshing drinks like Milo Ais and Teh O Ais. Our system, designed using Figma and following the agile methodology, ensures a seamless and user-friendly experience.
+
+Despite challenges like tight schedules, our dedicated team, **Beta** completed the project in three months. With our Food Ordering System, say goodbye to long queues and enjoy quick and efficient ordering. Join us in this journey to transform dining at Arked Angkasa, UTM.
 
 ## 2. Methodology:
-<div id="header" align="center">
-  <img src="https://dribbble.com/shots/5487982-Developers-Gif" width="300" height="200"/>
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif" alt="image" width="400" height="300" style="border: 5px solid purple;">
 </div>
-
-To develop our Food Ordering System, we have chosen the Agile methodology as our software development process model. The Agile approach enables us to create a user-friendly and high-quality system within the allocated time and budget, while effectively addressing the requirements of our stakeholders.
+<p> 
+  
+  To develop our Food Ordering System, we have chosen the Agile methodology as our software development process model. The Agile approach enables us to create a user-friendly and high-quality system within the allocated time and budget, while effectively addressing the requirements of 
+  our stakeholders. 
+  
+</p>
 
 By leveraging the Agile methodology, we can effectively address the specific requirements of the food ordering system, including the need for adaptability and ongoing collaboration with stakeholders. The Agile approach enables us to continuously enhance and update the system based on valuable feedback, ensuring that our Food Ordering System remains relevant, user-friendly, and exceeds the expectations of our customers.
 <div id="header" align="center">
@@ -175,13 +186,17 @@ By leveraging the Agile methodology, we can effectively address the specific req
   - Offer ongoing support and maintenance to address any issues and meet stakeholder demands.
 
 ## 3. Implementation:
-[View our project timeline and tasks](https://github.com/users/drshahizan/projects/19/views/5)
+**_Project Timeline:_** <a href="https://github.com/users/drshahizan/projects/19/views/1" ><img src="https://cdn-icons-png.flaticon.com/512/3448/3448449.png" width="24px" height="30px" ></a> 
+
 - Detail the specific tasks and activities undertaken by your group.
 - Provide an overview of the software components or modules developed.
 - Describe any challenges faced during the implementation phase and how you addressed them.
 
 ## 4. Testing and Quality Assurance:
 ### Testing strategies and techniques employed.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/grafana/k6-action/master/k6.gif" alt="arkedangkasa" width="400" height="300" style="border: 5px solid purple;">
+</div>
   <ol>
   <li><b>Functional Testing</b>: This type of testing focuses on verifying the system's features and functionalities. Testers evaluate whether users can perform tasks such as searching for restaurants, selecting menu items, adding them to the cart, placing orders, and making payments without any issues.</li><br>
   
@@ -205,6 +220,9 @@ By leveraging the Agile methodology, we can effectively address the specific req
 </ol>
 
 ## 5. Results and Achievements:
+<div align="center">
+  <img src="https://media.tenor.com/Bx6tTwt9PNwAAAAC/nasilemak-bungkus.gif" alt="arkedangkasa" width="400" height="300" style="border: 5px solid purple;">
+</div>
 We take great pleasure in showcasing the important results and accomplishments of our Food Ordering System project. The software system has excelled at improving the ordering process for patrons, restaurant personnel, and management. Our system's design is based heavily on the culinary experience, which makes consumers feel satisfied and convenient.
 
 During the evaluation process, we gathered both quantitative and qualitative data, which shows how effective our system is. When compared to conventional ordering methods, we quantifiably saw a rise in the number of customers using the food ordering system. This shows that the software may simplify the ordering process and motivate a variety of customers to actively participate. Qualitatively, the responses we've had from users and stakeholders about the design decisions and functions we made, which enhanced the overall meal ordering experience, have been overwhelmingly positive. Examples of elements that have been praised for improving the ordering experience include a user-friendly interface, clear menu navigation, personalised recommendations, and practical payment methods. We are thrilled with how well our project has done.
@@ -214,6 +232,9 @@ In order to measure their thoughts and gain insightful information, we actively 
 In conclusion, our meals Ordering System project has effectively revolutionised the way people buy meals, offering convenience, adaptability, and effectiveness to customers while assisting restaurant employees and management in streamlining operations and fostering business growth. Our project has had a positive impact, and we are excited to make more improvements based on user input and changing customer preferences.
 
 ## 6. Conclusion:
+<div align="center">
+  <img src="https://thumbs.gfycat.com/ShamelessRaggedErin-size_restricted.gif" alt="arkedangkasa" width="300" height="200" style="border: 5px solid purple;">
+</div>
 Throughout the development of our food ordering system, we gained valuable insights and experiences. The project provided us with a deeper understanding of the complexities involved in creating a user-friendly and efficient platform. We recognized the importance of effective communication and collaboration among team members, as well as the significance of user feedback in shaping the system's functionality.
 
 During the project, we encountered several challenges that required careful navigation. One major hurdle was understanding the diverse needs and preferences of different stakeholders, including both customers and restaurant owners. Conducting thorough stakeholder interviews and gathering comprehensive feedback helped us address these challenges. We actively listened to their perspectives, identified pain points, and iteratively refined our UI/UX design to meet their requirements.Another challenge was ensuring a seamless and intuitive user experience while navigating through the ordering process. We conducted usability tests and gathered user feedback to identify potential areas of confusion or friction. Iterative design improvements and refining the user interface based on user preferences and behaviors helped us overcome these challenges.
@@ -222,12 +243,71 @@ To optimize the food ordering system, it is crucial to focus on teamwork, stakeh
 
 In conclusion, to optimize the food ordering system, it is essential to prioritize teamwork, stakeholder engagement, and user-centric improvements. By fostering effective collaboration, engaging stakeholders throughout the design process, and enhancing the system based on user feedback, a more cohesive and user-friendly experience can be achieved. This approach not only benefits the team by promoting collaboration and flexibility but also ensures that the food ordering system meets stakeholders' expectations and delivers a seamless and satisfying experience to users.
 
-## 7. Figma:
-<a href="https://www.figma.com/proto/kKC8pg0ilTBncv1txpu6Yp/Login-(Community)?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1" target="_blank">
-  <span style="pointer-events: none;">
-    <img src="https://logowik.com/content/uploads/images/figma.jpg" alt="Figma Logo" width="24px" height="24px">
-  </span>
-  Our Prototype in Figma Platform
-</a>
+## 7. Figma Prototype:
+| No | Topic |  File |
+| :-----: |  ------ | :-----: | 
+| 1 | User Interface |<a href="https://www.figma.com/proto/kKC8pg0ilTBncv1txpu6Yp/Login-(Community)?type=design&node-id=264-1457&t=C0ACIzImp0oFrqMX-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=264%3A1457" ><img src="https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png" width="24px" height="24px" ></a> |
+| 2 | Administrator Interface (Sdap Kitchen) | <a href="https://www.figma.com/proto/kKC8pg0ilTBncv1txpu6Yp/Login-(Community)?type=design&node-id=447-1816&t=C0ACIzImp0oFrqMX-0&scaling=contain&page-id=346%3A265&starting-point-node-id=447%3A1816" ><img src="https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png" width="24px" height="24px" ></a> | 
+| 3 | Administrator Interface (Deen Corner | <a href="https://www.figma.com/proto/kKC8pg0ilTBncv1txpu6Yp/Login-(Community)?type=design&node-id=526-6186&t=C0ACIzImp0oFrqMX-0&scaling=contain&page-id=526%3A3723&starting-point-node-id=526%3A6186" ><img src="https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png" width="24px" height="24px" ></a> | 
 
+## 8. Documentation:
+| No | Topic |  File |
+| :-----: |  ------ | :-----: | 
+| 1 | Proposal |<a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/Beta" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> |
+| 2 | System Requirements Specification (SRS)| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/documentation/srs/sec02/beta/System%20Requirement%20Specification.docx.pdf" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> | 
+| 3 | System Design Descriptions (SDD) | <a href="https://docs.google.com/document/d/1gna8Y_3pXq2pYxGWBdGKjZ8hy1BKsWuh/edit" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> | 
+| 4 | System Test Descriptions (STD)| <a href="https://docs.google.com/document/d/1mIybNY1HmJNrAwAN5GM3z6VCQVPPYu1e/edit" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> | 
+
+## Project Documentation Update
+![Image](https://user-images.githubusercontent.com/128231261/250364332-4c97fbd1-0e00-461c-b778-6d7940539430.png)
+![Image](https://user-images.githubusercontent.com/128231261/250364333-2acf0f8b-16af-43bd-8cb6-b08aa83d35f0.png)
+![Image](https://user-images.githubusercontent.com/128231261/250364335-5f74b32e-129f-49ee-89bb-3f25cb33ed9c.png)
+![Image](https://user-images.githubusercontent.com/128231261/250364334-8bd2a8d4-e4b8-47da-80b2-2ee3376322e1.png)
+
+
+
+![Image](https://github.com/drshahizan/software-engineering/assets/128231261/4ab046fb-3fe1-464c-b3e2-9cf3e62de733)
+![Image](https://github.com/drshahizan/software-engineering/assets/128231261/0979181e-ffd1-43d0-b54e-251ce4b8e75c)
+![Image](https://github.com/drshahizan/software-engineering/assets/128231261/92f2d4a1-197b-44aa-b024-d29298269d75)
+![Image](https://github.com/drshahizan/software-engineering/assets/128231261/9d2c4f94-214f-422f-8279-1081a7372ef0)
+
+
+
+
+![Image](https://github.com/drshahizan/software-engineering/assets/128231261/bd453453-d04e-4501-a61d-5114a9dca6e9)
+![Image](https://github.com/drshahizan/software-engineering/assets/128231261/db2d8ecd-fc48-4ee8-8d1f-fbbffd0898ed)
+![Image](https://github.com/drshahizan/software-engineering/assets/128231261/25fc104e-0837-4cda-8218-f35cb91fa65b)
+
+
+
+
+
+![Image](https://github.com/drshahizan/software-engineering/assets/128231261/5b0c8a31-f70d-4dc5-a2df-abf5d01ed6a5)
+![Image](https://github.com/drshahizan/software-engineering/assets/128231261/281465df-20ed-4e20-9bbb-debf83775315)
+![Image](https://github.com/drshahizan/software-engineering/assets/128231261/4a695da1-ef6f-4df9-bb9a-fc61191f47b2)
+![Image](https://github.com/drshahizan/software-engineering/assets/128231261/e9f69583-62fb-4307-8371-32d137fb221b)
+![Image](https://github.com/drshahizan/software-engineering/assets/128231261/d2deeb78-6b5c-4823-b60f-f92ff4d1da48)
+![Image](https://github.com/drshahizan/software-engineering/assets/128231261/8315e682-c25c-4b59-825d-cc1ed0495bd0)
+![Image](https://github.com/drshahizan/software-engineering/assets/128231261/6a5164e2-f9e1-4b12-bdc6-132543c57757)
+![Image](https://github.com/drshahizan/software-engineering/assets/128231261/261a2008-0e3c-42bd-9a66-1dd9ed2c904e)
+![Image](https://github.com/drshahizan/software-engineering/assets/128231261/79df593d-3b82-47ff-bc98-80bb74e7439b)
+![Image](https://github.com/drshahizan/software-engineering/assets/128231261/c75796ec-fb41-44cb-a96d-a39a0d7b6526)
+
+
+
+
+
+
+
+
+
+
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
 

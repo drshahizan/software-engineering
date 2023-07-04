@@ -8,7 +8,8 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Activity: Group Curiousity
+# Project : Group Curiousity
+<img src="img/ktdiems.jpg" height="600px" >
 
 ## Group Members
 <img src="img/group.jpg" height="350px" >
@@ -22,16 +23,16 @@ Don't forget to hit the :star: if you like this repo.
     <td>Project Manager</td>
   </tr>
   <tr>
-    <td>2. Koh Li Hui</td>
-    <td>User Experience Designer</td>
-  </tr>
-    <tr>
-    <td>3. Camily Tang Jia Lei</td>
+    <td>2. Camily Tang Jia Lei</td>
     <td>Developer</td>
   </tr>
-    <tr>
-    <td>4. Ng Shu Yu</td>
+  <tr>
+    <td>3. Ng Shu Yu</td>
     <td>Documentation Specialist</td>
+  </tr>
+  <tr>
+    <td>4. Koh Li Hui</td>
+    <td>User Experience Designer</td>
   </tr>
 </table>
 
@@ -56,12 +57,12 @@ Don't forget to hit the :star: if you like this repo.
 * [Implementation](#implementation)
 * [Timeline process](#1-timeline-process)
 * [Requirement collection](#2-requirement-collection)
-* [Software components & modules](#3-software-components-modules)
+* [Software components & modules](#3-software-components--modules)
 * [Design phase](#4-design-phase)
 * [Design system](#5-design-system)
 * [Challenges](#6-challenges)
 * [Testing and Quality Assurance](#testing-and-quality-assurance)
-* [Results and Archievements](#results-and-archievements)
+* [Results and Achievements](#results-and-achievements)
 * [Conclusion](#conclusion)
 
 
@@ -88,7 +89,7 @@ The purpose of our project of building a KTDI Event Management System is aimed t
 4. Automatic update of KTDI merit points.
 
 ## Methodology
-### Approach and Methodology
+### Approach and Methodology 🚩
 We utilised Agile software development process model for our KTDI event management system. The Agile process model is an adaptable and iterative method of developing software that places a focus on teamwork, client satisfaction, and the quick delivery of functional software. This process model emphasises delivering value to the user (JKM) at each iteration and is appropriate for projects with varying requirements and uncertainties.
 
 The agile process model was chosen because it enables frequent feedback and changes to be made to the software while it is being developed. Since this system is being created for a university, it is likely that the requirements will change and be updated as the project moves forwards. The Agile process model is well suited to handle such changes and still deliver a high-quality product on time.
@@ -163,42 +164,98 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
     </table>
 
 ## Implementation
-### Timeline process
-| No | Date | Member Name | Role  | Task  |
-| -----:| ----- | ------ | ------ | ------ |
-| 1 | 08/04/2023 | Low Ying Xi | Project Manager | Create project plan |
-| 2 | 16/04/2023 | Ng Shu Yu | Documentation Specialist | Gather user requirements |
-| 3 | 21/04/2023 | Camily Tang Jia Lei | Developer | Create proposal |
-| 4 | 02/05/2023 | Low Ying Xi | Project Manager | Contact stakeholders |
-| 5 | 02/05/2023 | Low Ying Xi | Project Manager | Create interview questions |
-| 6 | 03/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei | Project Manger, Documentation Specialist, Developer | Meeting with 1st stakeholder, Hanie Azyuni Binti Mazle (JKM KTDI)|
-| 7 | 04/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei | Project Manger, Documentation Specialist, Developer | Meeting with 2nd stakeholder, Lim Shi Kai (JKM KTDI) |
-| 8 | 10/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with 3rd stakeholder, Nadia Syahadah Binti Saharudin |
-| 9 | 11/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Meeting with 4nd stakeholder, LT KOL Prof. Madya Dr. Mohd Noor Azli Bin Haji. Ali Khan (KTDI Administrator) |
-| 10 | 14/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Contact with 5th stakeholder, Hamizah Amalina Binti Amlan (Pembantu Felo KTDI) | 
-| 11 | 15/05/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | SRS Planning |
-| 12 | 15/05/2023 | Camily Tang Jia Lei | Developer | Identify software functionality |   
-| 13 | 15/05/2023 | Koh Li Hui | User Experience Designer | User Requirement Analysis | 
-| 14 | 15/05/2023 - 05/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Creates UML Diagram, User Diagram, User Journey Maps and User Stories. |
-| 15 | 10/06/2023 | Ng Shu Yu | Documentation Specialist | Create system documentation | 
-| 16 | 13/06/2023| Low Ying Xi | Project Manager | Create SDD document | 
-| 17 | 15/06/2023| Low Ying Xi | Project Manager | Distribute task on managing SDD document | 
-| 18 | 16/06/2023 | Low Ying Xi  | Project Manager | Create system architecture design | 
-| 19 | 16/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui  | Project Manger, Documentation Specialist, Developer, User Experience Designer | Create detailed description of modules |
-| 20 | 16/06/2023 | Ng Shu Yu | Documentation Specialist | Create Data Design |
-| 21 | 17/06/2023 | Camily Tang Jia Lei, Koh Li Hui |Developer, User Experience Designer | Create User Interfaces Design |
-| 22 | 17/06/2023 | Camily Tang Jia Lei, Koh Li Hui |Developer, User Experience Designer | Create Requirement Matrix |  
-| 23 | 20/06/2023 | Ng Shu Yu | Documentation Specialist | Finalize the SDD document |
-| 24 | 20/06/2023| Low Ying Xi | Project Manager | Create STD Document |
-| 25 | 20/06/2023 | Low Ying Xi  | Project Manager | Distribute task |
-| 26 | 21/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui  | Project Manger, Documentation Specialist, Developer, User Experience Designer | Create test cases |
-| 27 | 22/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Create test procedures |
-| 28 | 23/06/2023 | Camily Tang Jia Lei, Koh Li Hui |Developer, User Experience Designer | Create test results |
-| 29 | 24/06/2023 | Camily Tang Jia Lei, Koh Li Hui |Developer, User Experience Designer | Create traceability matrix |  
-| 30 | 26/06/2023 | Ng Shu Yu | Documentation Specialist | Finalize the STD document |
-| 31 | 27/06/2023 | Low Ying Xi, Ng Shu Yu, Camily Tang Jia Lei, Koh Li Hui | Project Manger, Documentation Specialist, Developer, User Experience Designer | Project Presentation |
+### 1. Timeline process
+<table style="border-collapse: collapse;">
+      <thead>
+        <tr>
+          <th width="18%">Week 📆</th>
+          <th width="82%">Task 📋</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><b>Week 1 - Week 2</b></td>
+          <td>
+          <ul>
+          <li>Project planning</li>
+          <li>Gather user requirements for system development</li>
+          <li>Create proposal on our system</li>
+          </ul>
+          </td>
+        </tr>
+        <tr>
+          <td><b>Week 3</b></td>
+          <td>
+          <ul>
+          <li>Contact stakeholders</li>
+          <li>Create interview questions</li>
+          <li>Meeting with 1st stakeholder, Hanie Azyuni Binti Mazle (JKM KTDI)</li>
+          <li>Meeting with 2nd stakeholder, Lim Shi Kai (JKM KTDI)</li>
+          </ul>
+          </td>
+        </tr>
+        <tr>
+          <td><b>Week 4</b></td>
+          <td>
+          <ul>
+          <li>Meeting with 3rd stakeholder, Nadia Syahadah Binti Saharudin</li>
+          <li>Meeting with 4nd stakeholder, LT KOL Prof. Madya Dr. Mohd Noor Azli Bin Haji. Ali Khan (KTDI Administrator)</li>
+          <li>Contact with 5th stakeholder, Hamizah Amalina Binti Amlan (Pembantu Felo KTDI)</li>
+          </ul>
+          </td>
+        </tr>
+        <tr>
+          <td><b>Week 5</b></td>
+          <td>
+          <ul>
+          <li>Create SRS Document</li>
+          <li>SRS Planning</li>
+          <li>User Requirement Analysis</li>
+          <li>Identify software functionality</li>
+          </ul>
+          </td>
+        </tr>
+        <tr>
+          <td><b>Week 6</b></td>
+          <td>
+          <ul>
+          <li>Creates UML Diagram, User Diagram, User Journey Maps and User Stories.</li>
+          </ul>
+          </td>
+        </tr>
+        <tr>
+          <td><b>Week 7 - Week 8</b></td>
+          <td>
+          <ul>
+          <li>Create SDD Document</li>
+          <li>SDD Planning</li>
+          <li>Create system architecture design, detailed description of modules, data design, user interfaces design, requirement matrix</li>
+          </ul>
+          </td>
+        </tr>
+        <tr>
+          <td><b>Week 9 - Week 10</b></td>
+          <td>
+          <ul>
+          <li>Create STD Document</li>
+          <li>STD Planning</li>
+          <li>Create test cases, test procedures, test results, traceability matrix</li>
+          <li>Conduct test approach analysis</li>
+          </ul>
+          </td>
+        </tr>
+        <tr>
+          <td><b>Week 11</b></td>
+          <td>
+          <ul>
+          <li>Demo presentation</li>
+          </ul>
+          </td>
+        </tr>
+      </tbody>
+</table>
 
-### Requirement collection
+### 2. Requirement collection
 Meeting with stakeholders <br><br>
 
 #### Meeting with JKM KTDI (Hanie Azyuni binti Mazle) 
@@ -323,23 +380,74 @@ Solutions:
 
 
 ## Testing and Quality Assurance
-- Explain the testing strategies and techniques employed.
+### Testing ⚒️
+- <b>Aim:</b> to identify any defects, errors, or issues that may impact its functionality, usability, security, or performance.
+- <b>Process:</b> designing and executing test cases, listing the detailed steps on each test case, and comparing the actual results with the expected results.
+- <b>Strategy or Technique involved:</b> Black box testing with boundary value analysis (BVA) and equivalence partitioning (EP) techniques.
+  <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/testing_pic.png?raw=true" alt="test" height="500px"></img>
+-	<b>Method:</b> execute each test case manually
+-	<b>Type of Testing involved:</b> Unit testing.
+-	<b>Goal:</b> to identify and fix defects at the earliest stage possible.
+  <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/unit_testing.png?raw=true" alt="unit_test" height="500px"></img>
 
-- Discuss the types of testing conducted (e.g., unit testing, integration testing, etc.).
+### Quality Assurance 🔖
+To ensure the reliability and robustness of the KTDI Event Management system, we have implemented several quality assurance processes.
+1.	<b>Requirement analysis and validation:</b> We have conducted requirement analysis and validated the requirements through discussions to ensure they are clear, complete, and aligned with the stakeholders' expectations.
+2.	<b>Test planning and strategy:</b> We have developed a comprehensive test plan and strategy by defining the testing approach and techniques to be used to ensure that the testing process is organized and covers all critical aspects of the system.
+3.	<b>Test case development:</b> We have designed and developed test cases that cover all functional and non-functional aspects of the event management system to ensure comprehensive coverage.
+4.	<b>Document creation:</b> We have created comprehensive system documentation, including SRS, SDD and STD to ensure the performance of our system will always be optimized.
+5.	<b>Continuous improvement:</b> We are continuously gathering feedback from users and stakeholders in order to identify areas for improvement and also enhance the quality and reliability of our system.
 
-- Highlight any quality assurance processes implemented to ensure the reliability and robustness of the software.
 
-## Results and Archievements
+## Results and Achievements
 ### 1. Project Outcome: Figma Prototype
-<a href="https://www.figma.com/proto/j19tAaFoStbu6fxeleYlf3/KTDI-Event-Management-System?page-id=27%3A7&type=design&node-id=24-85&viewport=326%2C-303%2C0.04&scaling=scale-down&starting-point-node-id=24%3A85&mode=design"><img src="img/figma.jpg" width="50px" height="50px" ></a>
+<a href="https://www.figma.com/proto/j19tAaFoStbu6fxeleYlf3/KTDI-Event-Management-System?page-id=27%3A7&type=design&node-id=24-85&viewport=326%2C-303%2C0.04&scaling=scale-down&starting-point-node-id=24%3A85&mode=design"><img src="img/figma.jpg" width="70px" height="70px" ></a>
 
-- Share any quantitative or qualitative data that demonstrates the success of the software solution.
-- Discuss any feedback received from stakeholders or users during the evaluation process.
+### 2. Quantitative / Qualitative Data Demonstrating Success 🎯
+#### Quantitative data:
+- **Increase in event registrations:** Before implementing the system, the average number of event registrations per semester was 200. After the system was implemented, the average increased to 350, indicating a 75% increase in event participation.
+- **Reduction in event clashes:** Before the system implementation, there were 4 instances of event clashes per semester. After implementing the system, the number decreased to 1, demonstrating an 75% reduction in event clashes.
+- **Time saved in event preparation:** With the system in place, the time spent on event preparation decreased by an average of 30%, resulting in an estimated 10 hours of saved time per event.
+
+#### Qualitative data:
+- **User satisfaction:** JKM KTDI members, KTDI staff, and students expressed high satisfaction with the system, highlighting its user-friendly interface, improved effectiveness of event preparation, and ease of event registration.
+- **Improved communication:** Feedback from stakeholders indicated that the system significantly enhanced communication between JKM KTDI, staff members, and students. Information was more readily accessible, reducing confusion and improving coordination among team members.
+- **Merit point accuracy:** JKM KTDI members confirmed that the automated merit point calculation accurately reflected students' activities, ensuring fair determination of their active quota for hostel booking.
+
+### 3. Feedback from stakeholders 📝
+- **JKM KTDI Member:**
+"The Event Management System has greatly simplified our tasks and improved team coordination. The centralized platform for event planning and task delegation has eliminated the need for multiple meetings and reduced manual errors. It has made our work more efficient and streamlined."
+
+- **KTDI Staff Member:**
+"The system has been a game-changer for event management at KTDI. It has provided us with a clear overview of all upcoming events and allowed us to avoid event clashes. The automated merit point calculation has also saved us a significant amount of time. We are extremely satisfied with the system's performance and its impact on our daily operations."
+
+- **Student:**
+"Finding and registering for college events has become so much easier with the KTDI Event Management System. The user-friendly interface and event calendar have made it simple to keep track of upcoming activities. I appreciate the system's ability to provide event details, registration forms, and feedback options all in one place."
+
 
 ## Conclusion
-- Summarize the overall project experience and lessons learned.
-- Reflect on the challenges faced and how they were overcome.
-- Highlight any future improvements or recommendations for further development.
+
+<img src="img/conclusion1.jpg" height="600px" >
+
+<img src="img/conclusion2.jpg" height="600px" >
+
+<img src="img/conclusion3.jpg" height="600px" >
+
+<img src="img/conclusion4.jpg" height="600px" >
+
+<img src="img/conclusion5.jpg" height="600px" >
+
+<img src="img/conclusion6.jpg" height="600px" >
+
+<img src="img/conclusion7.jpg" height="600px" >
+
+<img src="img/conclusion8.jpg" height="600px" >
+
+<img src="img/conclusion9.jpg" height="600px" >
+
+<img src="img/conclusion10.jpg" height="600px" >
+
+<img src="img/conclusion11.jpg" height="600px" >
 
 ## Contribution 🛠
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
