@@ -150,12 +150,7 @@ Our team conducted meetings with our stakeholders to understand their requiremen
     <td>Lecturer</td>
     <td>Defining requirements. Lecturer can provide valuable input for the attendance system. Valuable input can be specified as what attendance data they need to track (Students, name, ID, location, etc), how they want the attendance to be marked (by scanning QR code/ by entering random number generated), and what reporting and analysis capabilities they require.</td>
   </tr>
-    <tr>
-    <td>4</td>
-    <td>Faculty Staff</td>
-    <td>UTM Digital Staff</td>
-    <td>Providing technical expertise. The stakeholder can help us to understand the architecture, boundaries, design, etc of the existing system. The stakeholder can provide technical expertise and knowledge about the current system.</td>
-  </tr>
+   
 </table>
 #### *Paste Stakeholder photo, info here*</li>
 <li><b>System Design : </b><br>
