@@ -89,7 +89,7 @@ The purpose of our project of building a KTDI Event Management System is aimed t
 4. Automatic update of KTDI merit points.
 
 ## Methodology
-### Approach and Methodology
+### Approach and Methodology 🚩
 We utilised Agile software development process model for our KTDI event management system. The Agile process model is an adaptable and iterative method of developing software that places a focus on teamwork, client satisfaction, and the quick delivery of functional software. This process model emphasises delivering value to the user (JKM) at each iteration and is appropriate for projects with varying requirements and uncertainties.
 
 The agile process model was chosen because it enables frequent feedback and changes to be made to the software while it is being developed. Since this system is being created for a university, it is likely that the requirements will change and be updated as the project moves forwards. The Agile process model is well suited to handle such changes and still deliver a high-quality product on time.
@@ -168,8 +168,8 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
 <table style="border-collapse: collapse;">
       <thead>
         <tr>
-          <th width="18%">Week</th>
-          <th width="82%">Task</th>
+          <th width="18%">Week 📆</th>
+          <th width="82%">Task 📋</th>
         </tr>
       </thead>
       <tbody>
@@ -201,7 +201,6 @@ The team will ensure the system's upkeep and maintenance during this phase, incl
           <li>Meeting with 3rd stakeholder, Nadia Syahadah Binti Saharudin</li>
           <li>Meeting with 4nd stakeholder, LT KOL Prof. Madya Dr. Mohd Noor Azli Bin Haji. Ali Khan (KTDI Administrator)</li>
           <li>Contact with 5th stakeholder, Hamizah Amalina Binti Amlan (Pembantu Felo KTDI)</li>
-          <li>Meeting with 2nd stakeholder, Lim Shi Kai (JKM KTDI)</li>
           </ul>
           </td>
         </tr>
@@ -381,7 +380,7 @@ Solutions:
 
 
 ## Testing and Quality Assurance
-### Testing
+### Testing ⚒️
 - <b>Aim:</b> to identify any defects, errors, or issues that may impact its functionality, usability, security, or performance.
 - <b>Process:</b> designing and executing test cases, listing the detailed steps on each test case, and comparing the actual results with the expected results.
 - <b>Strategy or Technique involved:</b> Black box testing with boundary value analysis (BVA) and equivalence partitioning (EP) techniques.
@@ -391,7 +390,7 @@ Solutions:
 -	<b>Goal:</b> to identify and fix defects at the earliest stage possible.
   <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/unit_testing.png?raw=true" alt="unit_test" height="500px"></img>
 
-### Quality Assurance
+### Quality Assurance 🔖
 To ensure the reliability and robustness of the KTDI Event Management system, we have implemented several quality assurance processes.
 1.	<b>Requirement analysis and validation:</b> We have conducted requirement analysis and validated the requirements through discussions to ensure they are clear, complete, and aligned with the stakeholders' expectations.
 2.	<b>Test planning and strategy:</b> We have developed a comprehensive test plan and strategy by defining the testing approach and techniques to be used to ensure that the testing process is organized and covers all critical aspects of the system.
@@ -404,7 +403,7 @@ To ensure the reliability and robustness of the KTDI Event Management system, we
 ### 1. Project Outcome: Figma Prototype
 <a href="https://www.figma.com/proto/j19tAaFoStbu6fxeleYlf3/KTDI-Event-Management-System?page-id=27%3A7&type=design&node-id=24-85&viewport=326%2C-303%2C0.04&scaling=scale-down&starting-point-node-id=24%3A85&mode=design"><img src="img/figma.jpg" width="70px" height="70px" ></a>
 
-### 2. Quantitative / Qualitative Data Demonstrating Success
+### 2. Quantitative / Qualitative Data Demonstrating Success 🎯
 #### Quantitative data:
 - **Increase in event registrations:** Before implementing the system, the average number of event registrations per semester was 200. After the system was implemented, the average increased to 350, indicating a 75% increase in event participation.
 - **Reduction in event clashes:** Before the system implementation, there were 4 instances of event clashes per semester. After implementing the system, the number decreased to 1, demonstrating an 75% reduction in event clashes.
@@ -415,7 +414,7 @@ To ensure the reliability and robustness of the KTDI Event Management system, we
 - **Improved communication:** Feedback from stakeholders indicated that the system significantly enhanced communication between JKM KTDI, staff members, and students. Information was more readily accessible, reducing confusion and improving coordination among team members.
 - **Merit point accuracy:** JKM KTDI members confirmed that the automated merit point calculation accurately reflected students' activities, ensuring fair determination of their active quota for hostel booking.
 
-### 3. Feedback from stakeholders
+### 3. Feedback from stakeholders 📝
 - **JKM KTDI Member:**
 "The Event Management System has greatly simplified our tasks and improved team coordination. The centralized platform for event planning and task delegation has eliminated the need for multiple meetings and reduced manual errors. It has made our work more efficient and streamlined."
 
