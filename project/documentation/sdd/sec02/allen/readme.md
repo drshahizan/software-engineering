@@ -37,7 +37,7 @@ Don't forget to hit the :star: if you like this repo.
 ## Documentation
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Document SDD| <a href="https://docs.google.com/document/d/11HX8mUGf6qTk4LPr0Zj7UkCY2THUcnFH/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|1| Document SDD| <a href="https://docs.google.com/document/d/1W1x0oqTvwYGFxdoNChM5-ybu_OKQI4jUeotlEEBs560/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
 |2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/Allen" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
 |3| Others| <a href="https://drive.google.com/drive/folders/1qIE-RGUjnxqmSpEHlOGuq-NOl-Z2rYA1?usp=sharing" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 

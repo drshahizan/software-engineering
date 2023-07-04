@@ -1,0 +1,39 @@
+@startuml
+mainframe sd Manage User
+
+actor Admin
+participant "System" as Sys
+participant User
+participant Database
+
+Admin -> Sys: Request User Suspension
+activate Sys
+
+Sys -> Database: Check User Status
+activate Database
+Database --> Sys: User Active
+deactivate Database
+
+alt User Active
+    Sys -> User: Notify Suspension
+    activate User
+    User -> Sys: Confirmation
+    deactivate User
+
+    Sys -> Database: Suspend User
+    activate Database
+    Database --> Sys: User Suspended
+    deactivate Database
+
+    Sys -> User: Update Suspension Status
+    activate User
+    User -> Sys: Confirmation
+    deactivate User
+else User Inactive
+    Sys --> Admin: User Already Suspended
+end
+
+Sys -> Admin: User Suspended Successfully
+deactivate Sys
+
+@enduml

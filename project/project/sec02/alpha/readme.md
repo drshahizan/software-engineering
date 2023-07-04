@@ -9,11 +9,16 @@
 
 Don't forget to hit the :star: if you like this repo.
 
+<div id="header" align="center">
+  <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/INTRODUCTION.png" alt="" height="350px" width="1000px"/></a>
+</div>
+
+
 ### 🔖Table of Contents🔖
 * [Table of Contents](#table-of-contents)
 * [Introduction](#introduction)
 * [Objective](#objective)
-* [Problem Statement](#problem-statement-or-the-need-the-project-aims-to-address)
+* [Problem Statement](#problem-statement)
 * [Potential Impact](#significance-and-potential-impact-of-the-project)
 * [Methodology](#2-methodology)
 * [Implementation](#3-implementation)
@@ -27,6 +32,11 @@ Don't forget to hit the :star: if you like this repo.
 * [Conclusion](#8-conclusion)
 
 # Activity: Group Alpha
+
+<div id="header" align="center">
+  <h2>Team Alpha</h2>
+  <img src="https://user-images.githubusercontent.com/128160553/240615112-ad98b302-8925-4fd5-a384-5041335f1785.jpg" width="500" height="350"/>
+</div>
 
 ## Group Members
 <table>
@@ -51,6 +61,11 @@ Don't forget to hit the :star: if you like this repo.
     <td> Quality Assurance Engineer & Assistant Developer </td>
   </tr>
 </table>
+
+## Design Prototype
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| UI KTDI Room Rental System| <a href="https://www.figma.com/proto/5xL6W7I4NvNIKzQeaiJYiC/Design?type=design&node-id=145-84&t=M4eFk3YReU2WcRv0-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=145%3A84&show-proto-sidebar=1"><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/fa23f96100aedccb8c634fba496ebcfc9968b9ee/images/figma.svg" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 <table>
@@ -109,9 +124,6 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ## 2. Methodology:
-- Describe the approach and methodologies utilized to tackle the project.
-- Explain the software development life cycle model or any other relevant methodology adopted.
-- Highlight any specific tools, technologies, or frameworks employed during the project.
 
 #### Approach
 - Agile Development: Adopt an Agile approach to enable iterative and incremental development, ensuring flexibility and adaptability to changing requirements.
@@ -137,19 +149,17 @@ Don't forget to hit the :star: if you like this repo.
 
 #### Tasks and Activities:
 
-1. Requirement Gathering: The group conducted meetings with college administrators, students, and staff to understand their needs and gather requirements for the room rental system. This involved identifying key features, user roles, and system constraints.
+1. Requirement Gathering: we conducted meetings with college administrators, students, and staff to understand their needs and gather requirements for the room rental system. This involved identifying key features, user roles, and system constraints.
 
-2. System Design: Based on the gathered requirements, the group created a system design that included the three-tier architecture. The design involved defining the data model, user interfaces, application logic, and integration points.
+2. System Design: Based on the gathered requirements, we created a system design that included the three-tier architecture. The design involved defining the data model, user interfaces, application logic, and integration points.
 
-3. Database Design: The group designed the database schema to store information about students, rooms, bookings, payments, and user feedback. This involved creating tables, defining relationships, and establishing data integrity constraints.
+3. Database Design: we designed the database schema to store information about students, rooms, bookings, payments, and user feedback. This involved creating tables, defining relationships, and establishing data integrity constraints.
 
-4. User Interface Development: The group developed the user interfaces for different system stakeholders, including the student registration form, room search and booking interface, payment processing screens, and administrative functions. The interfaces were designed to be intuitive, user-friendly, and responsive.
+4. User Interface Development: we developed the user interfaces for different system stakeholders, including the student registration form, room search and booking interface, payment processing screens, and administrative functions. The interfaces were designed to be intuitive, user-friendly, and responsive.
 
-5. Application Development: The group implemented the application logic using appropriate programming languages and frameworks. This involved developing modules for student registration, room searching and booking, payment processing, room cancellation, user feedback and review, and administrative functions.
+5. Integration and Testing: we integrated the different software components and conducted comprehensive testing to ensure the system's functionality and performance. This involved unit testing, integration testing, and system testing to identify and fix any issues or bugs.
 
-6. Integration and Testing: The group integrated the different software components and conducted comprehensive testing to ensure the system's functionality and performance. This involved unit testing, integration testing, and system testing to identify and fix any issues or bugs.
-
-7. Deployment and User Training: Once the system was tested and deemed stable, the group deployed it to a web server and conducted user training sessions for college staff and students. This ensured that users understood how to use the system effectively and efficiently.
+6. Deployment and User Training: Once the system was tested and deemed stable, the group deployed it to a web server and conducted user training sessions for college staff and students. This ensured that users understood how to use the system effectively and efficiently.
 
 #### Software Components or Modules:
 ##### Use case Diagram
@@ -194,49 +204,98 @@ Don't forget to hit the :star: if you like this repo.
 - Student
 <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/User%20Flow2.png" alt=""/></a>
 
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Prototype Main Menu | <a href="https://www.figma.com/proto/5xL6W7I4NvNIKzQeaiJYiC/Design?type=design&node-id=145-84&scaling=scale-down&page-id=0%3A1&starting-point-node-id=145%3A84&show-proto-sidebar=1" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
+
+#### 4.3 Initial Sketching
+
+##### Home page
+
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/Sketching2.jpg" alt="" height="650px" width="700px"/></a>
+
+##### Admin Page
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/Sketching1.jpg" alt="" height="650px" width="700px"/></a>
+
+##### Student Page
+
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/Sketching3.jpg" alt="" height="650px" width="700px"/></a>
+
+#### 4.4 Low Fidelity
+
+
+- Student
+
+![Image](https://github.com/drshahizan/software-engineering/assets/128107791/72257c84-db03-46b9-93da-335be267749d)
+
+
+
+![Image](https://github.com/drshahizan/software-engineering/assets/128107791/f3071de6-4e4b-4e2b-8ef6-25a2b7b116c2)
+
+
+
+
+![Image](https://github.com/drshahizan/software-engineering/assets/128107791/3f4b4dfd-4bdc-47be-9f44-0c67c89abe95)
+![Image](https://github.com/drshahizan/software-engineering/assets/128107791/285b3dc1-45d4-44ca-b375-9791d061d906)
+
+![Image](https://github.com/drshahizan/software-engineering/assets/128107791/3f4b4dfd-4bdc-47be-9f44-0c67c89abe95)
+
+
+#### 4.5  High Fidelity
+- Student
+  
+<img src="https://github.com/drshahizan/software-engineering/assets/128107791/47051c70-1e23-4f30-9e04-7ae3df55cc27" alt="" height="750px" width="1050px"/></a>
+
+<img src="https://github.com/drshahizan/software-engineering/assets/128107791/0736de6a-d418-4094-9346-af9f55d45188" alt="" height="750px" width="1050px"/></a>
+
+<img src="https://github.com/drshahizan/software-engineering/assets/128107791/beab6136-c28b-4393-be54-74a31bd9d09c" alt="" height="750px" width="1050px"/></a>
+
+
+
+#### 4.6 Prototype
+- Sign up / Log in flow
+  <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/log%20in.png" alt=""/></a>
+
+- Student flow
+ <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/Student%20flow.png" alt=""/></a>
+
+- Admin flow
+  <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/admin%20flow.png" alt=""/></a>
+  <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/admin%20room%20avai.png" alt=""/></a>
 
 ## 5. Requirement Collection
 ### Meeting with stakeholders
 
-#### Meeting with  stakeholder 1 (En. Hamdan bin Abdul Ghani)
-<img src="https://user-images.githubusercontent.com/128108090/237020517-786c33dd-dd00-44ae-bf06-efdc71fb2270.jpg" alt=""  height="350px" weight="200px"/></a>
+<div id="header" align="center">
+  <b>Meeting with  stakeholder 1 (En. Hamdan bin Abdul Ghani)</b><br>
+  <img src="https://user-images.githubusercontent.com/128108090/237020517-786c33dd-dd00-44ae-bf06-efdc71fb2270.jpg" alt=""  height="350px" weight="200px"/></a>
+  
+  Venue: Pejabat KTDI M01, Date: 18 April 2023, Time: 2 pm
+</div>
 
-Venue: Pejabat KTDI M01
+<div id="header" align="center">
+  <b>Meeting with stakeholder 2 (Puan Rosnani bt Katip)</b><br>
+  First meeting<br>
+  
+  <img src="https://user-images.githubusercontent.com/128108090/237021925-f29b22b3-10ce-46c7-b927-3e447dd3cae8.jpg" alt=""  height="350px" weight="200px"/></a>
+  
+  Venue: Pejabat KTDI M01, Date: 19 April 2023, Time: 2:35 pm
+</div>
 
-Date: 18 April 2023
+<div id="header" align="center">
+  Second meeting
+  
+  <img src="https://user-images.githubusercontent.com/128160553/240615112-ad98b302-8925-4fd5-a384-5041335f1785.jpg" alt="" height="350px" weight="200px"/></a>
 
-Time: 2 pm
+  Venue: Pejabat KTDI M01, Date: 24 May 2023, Time: 3:30 pm
+</div>
 
-#### Meeting with stakeholder 2 (Puan Rosnani bt Katip)
-First meeting
-
-<img src="https://user-images.githubusercontent.com/128108090/237021925-f29b22b3-10ce-46c7-b927-3e447dd3cae8.jpg" alt=""  height="350px" weight="200px"/></a>
-
-Venue: Pejabat KTDI M01
-
-Date: 19 April 2023
-
-Time: 2:35 pm
-
-Second meeting
-
-<img src="https://user-images.githubusercontent.com/128160553/240615112-ad98b302-8925-4fd5-a384-5041335f1785.jpg" alt="" height="350px" weight="200px"/></a>
-
-Venue: Pejabat KTDI M01
-
-Date: 24 May 2023
-
-Time: 3:30 pm
-
-#### Meeting with stakeholder 3 (Jevanaraj A/L Balasuntharam)
-<img src="https://user-images.githubusercontent.com/128107791/239741938-94169d51-2815-41e0-b170-b341ea53cdfe.png" alt="" height="350px" weight="200px"/></a>
-
-Venue: Webex meet 
-
-Date: 21/5/2023
-
-Time: 8.30pm
-
+<div id="header" align="center">
+  <b> Meeting with stakeholder 3 (Jevanaraj A/L Balasuntharam) </b><br>
+  <img src="https://user-images.githubusercontent.com/128107791/239741938-94169d51-2815-41e0-b170-b341ea53cdfe.png" alt="" height="350px" weight="200px"/></a>
+  
+  Venue: Webex meet, Date: 21/5/2023, Time: 8.30pm
+</div>
 
 ## 6. Testing and Quality Assurance:
 Testing and quality assurance play a crucial role in ensuring the reliability and robustness of the software. The following are the testing strategies and techniques employed in the project. 
@@ -270,7 +329,7 @@ In order to ensure the reliability and robustness of the software, quality assur
 
 
 ## 7. Results and Achievements:
-The Kolej Tun Dr. Ismail (KTDI) College room rental system project has yielded significant outcomes and achievements. The software solution successfully streamlined the room rental process, improving efficiency and user satisfaction. Here are some key results:
+The Kolej Tun Dr. Ismail (KTDI) College room rental system project has yielded significant outcomes and achievements. The software solution successfully streamlined the room rental process, improving efficiency and user satisfaction.
 
 - Increased Efficiency: The automated system significantly reduced the time and effort required for room allocation, payment processing, and administrative tasks. This led to improved productivity for college administrators and a smoother experience for students.
 
@@ -297,9 +356,7 @@ During the evaluation process, stakeholders and users provided valuable feedback
 3. Some users suggested incorporating additional features, such as roommate matching algorithms based on preferences and shared interests, to further enhance the user experience.
 
 
-- Present the outcomes and achievements of the project.
-- Share any quantitative or qualitative data that demonstrates the success of the software solution.
-- Discuss any feedback received from stakeholders or users during the evaluation process.
+
 
 ## 8. Conclusion:
 
@@ -311,9 +368,6 @@ Looking to the future, we recommend enhancing the payment and billing system wit
 
 By leveraging the project experience and applying the lessons learned, the KTDI College room rental system can continue to evolve, providing a streamlined and user-friendly experience for students and staff.
 
-- Summarize the overall project experience and lessons learned.
-- Reflect on the challenges faced and how they were overcome.
-- Highlight any future improvements or recommendations for further development.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

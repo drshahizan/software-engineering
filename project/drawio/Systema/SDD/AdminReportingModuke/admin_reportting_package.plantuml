@@ -1,6 +1,6 @@
 @startuml admin_and_reporting_package_diagram
 
-package "Admin and Reporting Subsystem"{
+package "Admin and Reporting Module"{
   package "Domain Layer" <<Domain>> {
     [Admin]
     [Managing Services]
