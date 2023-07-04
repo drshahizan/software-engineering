@@ -10,6 +10,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Activity: Group Program
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/0e3e638e-127b-46ce-a3e6-594b852be2c0" width="800" height=auto>
 
 ## Group Members
 <img src="https://user-images.githubusercontent.com/128214992/235843037-31e5d853-95de-4675-8a95-12832052dd16.jpg" width="400" height=auto>
