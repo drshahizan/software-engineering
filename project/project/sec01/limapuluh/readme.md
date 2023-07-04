@@ -11,7 +11,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # Activity: Group Limapuluh
 
-<img src="https://i.imgur.com/rYx5Yvw.jpg" alt="img" style="width:500px;height:350px"> <img src="https://user-images.githubusercontent.com/89129564/240784261-edef2a7c-5f44-4d43-a7a9-a3954fa23359.jpg" alt="img" style="width:500px;height:350px"> <img src="https://user-images.githubusercontent.com/129235577/245982373-827f0039-7d9f-4683-b413-0057ecdf6296.jpg" alt="img" style="width:500px;height:350px"> <img src="https://user-images.githubusercontent.com/129235577/244254046-0462665d-32f8-477b-9f60-f5daff151188.jpg" alt="img" style="width:500px;height:350px">
+<img src="https://i.imgur.com/rYx5Yvw.jpg" alt="img" style="width:500px;height:350px"> <img src="https://user-images.githubusercontent.com/89129564/240784261-edef2a7c-5f44-4d43-a7a9-a3954fa23359.jpg" alt="img" style="width:500px;height:350px"> <img src="https://user-images.githubusercontent.com/129235577/245982373-827f0039-7d9f-4683-b413-0057ecdf6296.jpg" alt="img" style="width:500px;height:350px"> <img src="https://user-images.githubusercontent.com/129235577/244254046-0462665d-32f8-477b-9f60-f5daff151188.jpg" alt="img" style="width:500px;height:350px"><img src="https://github.com/drshahizan/software-engineering/assets/129196395/00b045a6-ede8-430a-8c7d-5e7967d40227" alt="img" style="width:500px;height:350px">
 
 ## Group Members
 <table>
@@ -128,7 +128,7 @@ Requirement Analysis:
 Gather requirements by conducting interviews and meetings with stakeholders, including students, faculty, and administrative staff.
 Identify the key features and functionalities of the Student Feedback System.
 
-Document the requirements in a clear and concise manner.
+<img src="https://github.com/drshahizan/software-engineering/assets/129196395/8bed095e-0504-46bd-b222-10d134093114" alt="img" style="width:500px;height:350px">
 
 System Design:
 Design the overall system architecture and modules based on the identified requirements.
@@ -140,7 +140,7 @@ Development:
 Select a suitable software development life cycle model, such as Agile, to guide the development process.
 Break down the project into smaller tasks or user stories.
 Prioritize the tasks and create a development roadmap.
-Implement the system using a programming language (e.g., Python, Java, or .NET) and relevant technologies.
+Implement the system using a programming language and relevant technologies.
 
 Testing:
 Conduct comprehensive testing to ensure the system functions as intended.
