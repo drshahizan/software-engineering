@@ -57,7 +57,7 @@ Don't forget to hit the :star: if you like this repo.
 |3| Prototype Administrator| <a href="https://www.figma.com/proto/j0nAd3Ph1MnHZljmIi8kTk/UI-Design?type=design&node-id=169-32026&t=kHR7XsjA8CP5Sn6o-0&scaling=scale-down&page-id=1%3A4&starting-point-node-id=169%3A32026" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/fa23f96100aedccb8c634fba496ebcfc9968b9ee/images/figma.svg" width="24px" height="24px" ></a>|
 
 ## Link to Presentation
-https://www.canva.com/design/DAFmkBQJ1x0/2QoD64CS4Nz4u8QPskMj5g/edit?utm_content=DAFmkBQJ1x0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+[https://www.canva.com/design/DAFmkBQJ1x0/awqYswnS1zlDonCLZXw-dg/view?utm_content=DAFmkBQJ1x0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink]
 
 ## Slide
 ![1](https://github.com/drshahizan/software-engineering/assets/129137382/124e980c-2b65-442d-be4e-178ab5f0d05f)
