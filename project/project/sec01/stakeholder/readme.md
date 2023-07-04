@@ -251,6 +251,10 @@ The followings are the specific tools, technologies, or frameworks which are emp
 | 1B2648 | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/118497269/3e6bd154-d4be-4f71-8c16-186b4c9c9106" height="30" /></a> |
 | ECF1FF | <a><img align="center" src="https://github.com/drshahizan/software-engineering/assets/118497269/e54afc09-b083-4cbc-98a2-f9bf356950ca" height="30" /></a> |
 
+### Iconography
+We have used icons found from Figma Community. The following is the main source of our icons used:
+![Cover](https://github.com/drshahizan/software-engineering/assets/118497269/0e22275d-7736-4dbd-a865-360f117c8018)
+
 ### Low Fedility Prototype:
 - [View our low fedility here](https://github.com/drshahizan/software-engineering/issues/87)
 
