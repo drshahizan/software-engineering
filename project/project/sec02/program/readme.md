@@ -1,4 +1,3 @@
-
 <a href="https://github.com/drshahizan/software-engineering/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/software-engineering" alt="Stars Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/network/members"><img src="https://img.shields.io/github/forks/drshahizan/software-engineering" alt="Forks Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
@@ -13,7 +12,7 @@ Don't forget to hit the :star: if you like this repo.
 <img src="https://github.com/drshahizan/software-engineering/assets/128214992/0e3e638e-127b-46ce-a3e6-594b852be2c0" width="1000" height=auto>
 
 ## Group Members
-<img src="https://github.com/drshahizan/software-engineering/assets/128214992/36c7951b-5c35-4c4d-8aa2-818784338a6f" width="1000" height=auto>
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/70205fca-5085-47b9-bb78-48f08c99f4b7" width="1000" height=auto>
 
 ## Stakeholder
 <table>
@@ -50,25 +49,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-## Tasks involved in developing SRC documentation:
-
-| No | Date | Member Name | Role	| Task	| Status	| 
-| -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 01/05/2023| All members |  | Start writing raw information for the proposal | Complete | 
-| 2 | 02/05/2023| Nur Arini Fatihah Binti Mohd Sabir | UX/UI Designer | Contact the Academic Advisor, our first stakeholder | Complete |
-| 3 | 02/05/2023| Wan Nur Sofea Binti Mohd Hasbullah | Main Developer | Prepare interview questions | Complete |
-| 4 | 02/05/2023| All members |  | Conduct a meeting with the first stakeholder | Complete | 
-| 5 | 03/05/2023 | All members | | Gather information and start writing detailed content for the proposal |  Complete| 
-| 6 | 03/05/2023 | All members | | Create a use case diagram using draw.io |  Complete| 
-| 7 | 07/05/2023 | Maisarah Binti Rizal | QA/Test Engineer | Contact our second stakeholder, third-year student| Complete | 
-| 8 | 07/05/2023 | All members | |  Conduct a meeting with the second stakeholder, a third-year student |  Complete | 
-| 9 | 07/05/2023 | Mulyani Binti Saripuddin | QA/Test Engineer | Contact our third stakeholder, another third-year student | Complete | 
-| 10 | 08/05/2023 | All members | | Conduct a meeting with the third stakeholder, another third-year student |  Complete | 
-| 11 | 09/05/2023 | Wan Nur Sofea Binti Mohd Hasbullah | | Contact our fourth stakeholder, an administrative officer | Complete |
-| 12 | 15/05/2023 | All members | | Conduct a meeting with the fourth stakeholder, an administrative officer |  Complete | 
-
-# Academic Consultation System
-### 💫Table of Contents
+# 💫Table of Contents
 * [Table of Contents](#table-of-contents)
 * [Introduction](#Introduction:)
 * [Methodology](#methodology)
@@ -76,7 +57,6 @@ Don't forget to hit the :star: if you like this repo.
 * [Testing and Quality Assurance](#testing-and-quality-assurance)
 * [Results and Achievements](#results-and-archievements)
 * [Conclusion](#conclusion)
-
 
 ## 1. Introduction:
 ### Purpose and Objectives
@@ -136,14 +116,9 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 - PHP: Employed as a server-side scripting language for implementing back-end functionalities.
 
 ## 3. Implementation:
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/83dae4fe-422a-42fa-b118-e7b8e7baf504" width="1000" height=auto>
 
-### A) Detail the specific tasks and activities undertaken by our group:
-- <b>Create Project Plan</b>: Set up a meeting with all group member to decide the software system to be develop. Determine the role of each member and have a rough plan for this project.
- <img src="https://user-images.githubusercontent.com/128196055/246129016-686b476a-9eb0-4446-980f-2a0b193df236.PNG" width="400" height=auto>
-<img src="https://user-images.githubusercontent.com/128212534/244259760-60d5131f-cc04-4828-879a-d07f5ef3c6de.png" width="400" height=auto>
-
-- <b>Find Stakeholders</b>: Deciding who's is our stakeholder for our system that called Student Feedback System in Faculty of Computing, University Technology Malaysia.
-  ## Stakeholder
+### Stakeholder
 <table>
   <tr>
     <th>Name</th>
@@ -178,7 +153,7 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
   </tr>
 </table>
 
-**Make an interview with our first stakeholder, Dr. Nor Azizah Ali** 
+**1. First stakeholder-Dr. Nor Azizah Ali** 
 
 Time & Date : 10:00 a.m. (2 May 2023)
 Venue : 438-20 (N28)
@@ -192,7 +167,7 @@ Venue : 438-20 (N28)
 4. The ability to view students' academic dashboards and summaries will help AA better understand their progress and provide personalized support
 
 
-**Make an interview with our second stakeholder, Nurul Asyikin binti Muhammad** 
+**2. Second stakeholder-Nurul Asyikin binti Muhammad** 
 
 Time & Date : 11:00 a.m. (7 May 2023)
 Venue : N24 Lounge
@@ -204,7 +179,7 @@ From the meeting, Asyikin gave us a few recommendations to be added into the sys
 - Good to having an online platform where they can easily schedule appointments with academic advisors, saving their time and effort.
 - The academic dashboard and summary will provide a clear overview of student academic performance, making it easier to track their progress and identify areas for improvement.
 
-**Make an interview with our third stakeholder, Kelvin Ee**
+**Third stakeholder-Kelvin Ee**
 
 Time & Date : 10:00 a.m. (2 May 2023)
 Venue : Online Platform via Google Meet
@@ -217,7 +192,7 @@ Outcome:
 - The system will provide student with a convenient way to connect with their academic advisors, eliminating the need for physical visits or long wait times
 - The system's features, such as appointment reminders and notifications, will ensure that we don't miss any important meetings or deadlines.
 
-**Make an interview with our fourth stakeholder, Encik Masnawi Bin Miskam**
+**Fourth stakeholder-Encik Masnawi Bin Miskam**
 
 Time & Date : 4:15 a.m. (15 May 2023)
 Venue : Online Platform via Google Meet
@@ -233,59 +208,45 @@ Solution:
 - Develop a comprehensive student profile feature within the academic consultation system.
 - Allow administrators to access and update detailed information about students, including personal information, academic records, health conditions, emergency contacts, and other relevant data.
 
-
-#### <b>Create Proposal</b>: We create a proposal to briefly describe the student feedback system.<a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/program" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/1999131.png" width="24px" height="24px" ></a>
-
-- Sketching
-<img src="https://user-images.githubusercontent.com/128196055/241563936-d49f1c1d-41b2-4cfe-8642-4b26ee3a2557.jpeg" width="400" height=auto >
-- <c>Create UML Diagram</b>: Create Use case Diagram,Class Diagram,Sequence diagram and Activity Diagram.
+### Software Components & Modules
   
-Sequence Diagram:<br>
+**Sequence Diagram**
 <img src="https://github.com/drshahizan/software-engineering/assets/128214992/bd353ec2-8ebe-4b52-9d7a-c15275eea3ea" width="1000" height=auto>
  
-Class Diagram:<br>
-<img src = "https://github.com/drshahizan/software-engineering/assets/128196055/cccc27c3-b25a-4384-beeb-ecdd9d451cd9" width="1000" height=auto>
+**Class Diagram**
+<img src = "https://github.com/drshahizan/software-engineering/assets/128196055/cccc27c3-b25a-4384-beeb-ecdd9d451cd9" width="1000" height=auto> 
 
- 
-
-Use Case Diagram:<br>
+**Use Case Diagram**
 <img src="https://github.com/drshahizan/software-engineering/assets/128196055/22a484f3-d06f-43ac-8ebb-109d6e3249a6" width="1000" height=auto >
 
-Activity Diagram:<br>
+**Activity Diagram**
+
 <img src="https://github.com/drshahizan/software-engineering/assets/128214992/909dda81-becb-4b18-aaca-f858ac586b9d" width="600" height=auto >
- 
-- <b>Create SRS Documentation</b>: Use Cases and extra to-do parts in SRS documentation identified
-
-
-- <b>Planning for interface design</b>:Rough Planning of Interfaces to be Designed.
-
-
-- <b>Develop detailed system interface </b>: Develop Information Architecture,User Flow,Low Fidelity Wireframes,High Fidelity Wireframes,Design System & Typography and UI Design
   
-Information Architecture for Student:
+**Information Architecture for Student**
 ![FlowChart drawio (16)](https://github.com/drshahizan/software-engineering/assets/128196055/5f8e4cbb-0819-4557-a832-5c709d167dad)
 
-Information Architecture for Lecturer:
+**Information Architecture for Lecturer**
 ![FlowChart drawio (19)](https://github.com/drshahizan/software-engineering/assets/128196055/3a2d6816-8da7-4956-aef3-914c51bafcc8)
 
-
-Information Architecture for Admin:
+**Information Architecture for Admin**
 ![FlowChart drawio (20)](https://github.com/drshahizan/software-engineering/assets/128196055/bd107480-7e49-4d3e-9aa4-66e64ef2259f)
 
-
-
-
-User Flow:
+**User Flow**
 ![FlowChart drawio (21)](https://github.com/drshahizan/software-engineering/assets/128196055/50f19326-9254-46c7-b9f7-18f96f656c53)
 
+- Component Model:
+![Component Diagram](https://github.com/drshahizan/software-engineering/assets/128212534/d147b353-5c81-4e91-a00a-d58296600188)
+
+- Complete Package Diagram:
+![SDD drawio (1)](https://github.com/drshahizan/software-engineering/assets/128196055/a14143fe-544c-4b73-bf87-c263520badc3)
 
 
-Low Fidelity Wireframes:
+### Design Phase
 
+**Low Fidelity Prototype**
 
-
-
-High Fidelity Wireframes:
+**High Fidelity Prototypes**
 1. Student
 - ![image](https://github.com/drshahizan/software-engineering/assets/128214992/758b80b3-b1a8-4676-ac74-264f7e9729af)
 
@@ -300,27 +261,11 @@ High Fidelity Wireframes:
 - ![image](https://github.com/drshahizan/software-engineering/assets/128214992/ef2630d5-aaa2-446b-8993-1f03f9ffd17f)
 
 
-Design System & Typography:
-
-- <b>Create System Design Documentation</b>
-<a href="https://docs.google.com/document/d/1H_E53Q_lN9H0LWUnIBm3KGp29_nsCnBwvxTQVypJ46E/edit?usp=sharing" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/docx-9.png" width="24px" height="24px" ></a>
-
-- <b>Create System Test Documentation</b>
-<a href="https://docs.google.com/document/d/1O9BgazCy0P2WQckn1uQQ2f2tliQre5_6zR4EDoSp1wY/edit?usp=sharing" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/docx-9.png" width="24px" height="24px" ></a>
-
-- Component Model:
-![Component Diagram](https://github.com/drshahizan/software-engineering/assets/128212534/d147b353-5c81-4e91-a00a-d58296600188)
+### Design System
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/cf473da7-e45f-4c61-a66d-9f2569a564bb" width="1000" height=auto>
 
 
-
-
-- Complete Package Diagram:
-![SDD drawio (1)](https://github.com/drshahizan/software-engineering/assets/128196055/a14143fe-544c-4b73-bf87-c263520badc3)
-
-
-
-
-### C) The challenges faced during the implementation phase:
+### The challenges faced during the implementation phase:
 - Integration Issues: As different team members worked on separate modules, integrating all theindividual components posed challenges. We addressed this by regularly conducting integration testing and maintaining clear communication among team members by doing scrumpt meetings to ensure seamless integration.
 - Changing Requirements: Throughout the implementation phase, there were instances where the requirements evolved or changed. We addressed this challenge by maintaining flexibility in our design and implementation, embracing agile methodologies, and having open communication with the project stakeholders to adapt to the changing requirements.
 
