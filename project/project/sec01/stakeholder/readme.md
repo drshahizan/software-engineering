@@ -227,7 +227,7 @@ The implemented Student Accommodation System comprised several software componen
 
 **Component diagram**:
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/jiesheng4616/jiesheng4616/main/feb3868e-9a0d-4e45-a94c-d0ea865bbdd2.jpg"/>
+  <img src="https://raw.githubusercontent.com/jiesheng4616/jiesheng4616/main/xxl.drawio.png"/>
 </div>
 
 ### Challenges:
