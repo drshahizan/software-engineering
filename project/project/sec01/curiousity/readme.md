@@ -210,7 +210,6 @@ Don't forget to hit the :star: if you like this repo.
 ### 2. Requirement collection
 <img src="img/reqcollection.jpg" height="600px" >
 
-
 #### Meeting with JKM KTDI (Hanie Azyuni binti Mazle) 
 <img src="img/stakeholder1.jpg" height="600px" >
 
