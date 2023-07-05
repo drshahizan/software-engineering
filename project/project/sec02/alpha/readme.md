@@ -158,7 +158,7 @@ Don't forget to hit the :star: if you like this repo.
 
 #### Software Components or Modules:
 ##### Use case Diagram
-<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/useCasediagram.drawio.png" alt=""/></a>
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/useCase.drawio.png" alt=""/></a>
 
 ##### Class Domain Model Diagram
 <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/classDomainModel.drawio.png" alt=""/></a>
