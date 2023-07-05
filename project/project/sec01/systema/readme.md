@@ -45,6 +45,8 @@
 ![34](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0034.jpg)
 ![35](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0035.jpg)
 
+## Link to Presentation
+https://docs.google.com/presentation/d/16SgsDvl8idsYkd5b54facOLDETNoXA7OtwZUe_F1Edw/edit?usp=sharing
 
 <!---## Group Members
 <table>
