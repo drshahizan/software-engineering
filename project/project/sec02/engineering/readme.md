@@ -128,14 +128,6 @@ Don't forget to hit the :star: if you like this repo.
     <td>One Stop Parcel Center</td>
     <td>Head of Management</td>
   <td>Responsible on managing the staffs, ensuring smooth operations, and manage the budget as well. Also responsible on making sure that the informations stated at the parcel and the data is well protected and secure</td>
-  </tr>
-   <tr>
-    <td>Johnny Sii How Yong</td>
-    <td>KTDI Student</td>
-    <td>Deliver guy</td>
-    <td> Should handle packages with care, ensuring they are properly secured and protected during transportation,ensure that parcels are delivered to the    correct recipients within the specified time frame, verify the recipient's identity or obtain a signature upon delivery, confirming that the package has reached the intended recipient and should ensure the security and confidentiality of the parcels they handle. 
-    </td>
-  </tr>
   
  
   
