@@ -62,11 +62,6 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-## Design Prototype
-| No | Name |File | 
-| -----:| ----- | :------: | 
-|1| UI KTDI Room Rental System| <a href="https://www.figma.com/proto/5xL6W7I4NvNIKzQeaiJYiC/Design?type=design&node-id=145-84&t=M4eFk3YReU2WcRv0-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=145%3A84&show-proto-sidebar=1"><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/fa23f96100aedccb8c634fba496ebcfc9968b9ee/images/figma.svg" width="24px" height="24px" ></a>|
-
 ## Stakeholder
 <table>
   <tr>
