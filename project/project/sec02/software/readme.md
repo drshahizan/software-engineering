@@ -1,4 +1,3 @@
-![Project SE (5)](https://github.com/drshahizan/software-engineering/assets/128159572/881192c1-1951-4e09-89ff-71fb4004b11b)![13](https://github.com/drshahizan/software-engineering/assets/128159572/7a27594a-006e-4495-bbe1-62b015ddd26d)
 <a href="https://github.com/drshahizan/software-engineering/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/software-engineering" alt="Stars Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/network/members"><img src="https://img.shields.io/github/forks/drshahizan/software-engineering" alt="Forks Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
