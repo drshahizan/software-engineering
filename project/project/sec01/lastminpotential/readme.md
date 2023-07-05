@@ -46,21 +46,9 @@ Don't forget to hit the :star: if you like this repo.
 ## Project Summary
 
 ## 1.Introduction
-<b>Purpose and objective:</b>
-<p>The purpose of a faculty feedback system is to gather input and evaluations from students and staff members about their experiences with faculty from different perspective such as curriculum delivery, facilities and equipment.The system serves as a structured mechanism for students and faculty staff members to provide constructive feedback and share their perspectives on various aspects of the learning environment. The main objective of this system is quality improvement to enhance the quality of the learning and teaching environment by identifying areas that require improvement.</p>
-
-<b>Problem statement or the need the project aims to address:</b>
-<p>The project aims to address the need for a reliable and effective faculty feedback system in educational institutions. The problem statement revolves around the issues such as lack of user input. Without a structured feedback system, students or faculty staff may not have a formal channel to express their opinions, concerns, and suggestions regarding the learning environment. This lack of user input can hinder the faculty's ability to understand and meet students' and faculty members' needs, leading to potential dissatisfaction or disengagement.
-
-The next issue is quality enhancement. The Faculty of Computing strives to provide a high-quality learning environment, but without a feedback system, it becomes challenging to assess the effectiveness of faculty and identify areas that require improvement. A comprehensive feedback system helps identify strengths and weaknesses, enabling targeted interventions and support for faculty development to enhance the quality of learning and teaching environment.
-</p>
-
-<b>Significance and potential impact of the project:</b>
-<p>Faculty Growth and Success - By addressing the identified needs and improving teaching and learning environment quality, the project can contribute to the overall growth and success of the faculty. A well-implemented faculty feedback system can positively impact key faculty metrics, such as student retention, graduation rates, alumni satisfaction, and post-graduation outcomes. This, in turn, can enhance the faculty's reputation.
-
-Improved Teaching Quality - By collecting feedback from students toward their lecturer performance, the faculty of computing feedback system enables faculty to identify areas where lecturer excel and areas that need improvement. This information can be used to provide targeted support and professional development opportunities to enhance teaching effectiveness, ultimately leading to improved educational outcomes.
-
-Improved quality of learning and teaching environment - The faculty of computing feedback system helps to improve the quality of the learning and teaching environment by identifying strengths and weaknesses, providing tailored support and professional development, facilitating communication and collaboration, fostering continuous improvement and innovation. The project collectively contributes to an enhanced educational experience for students and creates a positive and effective teaching environment.
+<img src="Screenshot 2023-07-05 222813.png">
+<img src="Screenshot 2023-07-05 222830.png">
+<img src="Screenshot 2023-07-05 222855.png">
 
 </p>
 
