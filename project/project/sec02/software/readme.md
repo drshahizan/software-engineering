@@ -60,7 +60,7 @@ Don't forget to hit the :star: if you like this repo.
 [https://www.canva.com/design/DAFmkBQJ1x0/awqYswnS1zlDonCLZXw-dg/view?utm_content=DAFmkBQJ1x0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink]
 
 ## Slide
-![1](https://github.com/drshahizan/software-engineering/assets/129137382/124e980c-2b65-442d-be4e-178ab5f0d05f)
+![1](https://github.com/drshahizan/software-engineering/assets/128159572/4a7d7fce-54ef-4067-a094-388dfa10f463)
 ![2](https://github.com/drshahizan/software-engineering/assets/129137382/c80a53ae-26f6-4f0f-b88d-be077f8c53e7)
 ![3](https://github.com/drshahizan/software-engineering/assets/129137382/f7c6c6f3-729f-4623-921b-632cc56ff3ee)
 ![4](https://github.com/drshahizan/software-engineering/assets/129137382/24c1e11c-47a5-4e05-8142-e8e87ebc5b4f)
