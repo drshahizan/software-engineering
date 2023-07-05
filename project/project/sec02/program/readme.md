@@ -166,6 +166,9 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 
 
 **Low Fidelity Prototype**
+Log In/Sign In
+
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/24a5da68-6dfa-4fe0-939f-5de37aac9a8c" width="1000" height=auto>
 
 **High Fidelity Prototypes**
 1. Student
