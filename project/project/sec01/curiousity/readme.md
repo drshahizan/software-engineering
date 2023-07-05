@@ -33,8 +33,7 @@ Don't forget to hit the :star: if you like this repo.
 * [Potential Impact](#4-potential-impact)
 * [Methodology](#methodology)
 * [Implementation](#implementation)
-* [Timeline process]
-(#1-timeline-process)
+* [Timeline process](#1-timeline-process)
 * [Requirement collection](#2-requirement-collection)
 * [Software components & modules](#3-software-components--modules)
 * [Design phase](#4-design-phase)
