@@ -172,6 +172,18 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 
 <img src="https://github.com/drshahizan/software-engineering/assets/128214992/24a5da68-6dfa-4fe0-939f-5de37aac9a8c" width="800" height=auto>
 
+**Student**
+
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/66ee8ac8-95dd-48cf-9ce2-1e4e3f24f64e" width="800" height=auto>
+
+**Academic Advisor**
+
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/5f57cd59-d8b5-412b-bca9-0295046f2986" width="800" height=auto>
+
+**Administrator**
+
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/e0ec86ee-032f-47ac-abbf-50d5448b51f4" width="800" height=auto>
+
 ### High Fidelity Prototypes
 **Student**
 
