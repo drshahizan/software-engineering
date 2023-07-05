@@ -12,6 +12,7 @@ Don't forget to hit the :star: if you like this repo.
 # Project: Group Systema
 
 <img src="https://github.com/drshahizan/software-engineering/assets/96631869/719b8f4d-5ddc-435f-9b92-4a5ed5541802" alt="img">
+<img src="https://i.imgur.com/YvtTeUI.png" alt="img">
 
 ## Group Members
 <table>
