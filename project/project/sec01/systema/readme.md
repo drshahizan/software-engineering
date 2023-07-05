@@ -51,6 +51,8 @@ https://docs.google.com/presentation/d/16SgsDvl8idsYkd5b54facOLDETNoXA7OtwZUe_F1
 ![33](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0033.jpg)
 ![34](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0034.jpg)
 ![35](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0035.jpg)
+<img src="https://github.com/drshahizan/software-engineering/assets/96631869/7ff79462-16c5-4335-8de5-61752b910ac2">
+
 
 
 <!---## Group Members
