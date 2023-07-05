@@ -123,78 +123,78 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
   </tr>
 </table>
 
-![11](https://github.com/drshahizan/software-engineering/assets/128214992/18ef0f31-7f92-4618-a732-cae6cfbdb654)
-![12](https://github.com/drshahizan/software-engineering/assets/128214992/c698aeea-ecab-4897-adbc-a346efd7ad0d)
-![13](https://github.com/drshahizan/software-engineering/assets/128214992/276df216-bbf5-4dca-8388-a5d3f6877a74)
-![14](https://github.com/drshahizan/software-engineering/assets/128214992/d47b9bc9-10d0-4811-b311-69a9a36aebe6)
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/18ef0f31-7f92-4618-a732-cae6cfbdb654" width="800" height=auto>
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/c698aeea-ecab-4897-adbc-a346efd7ad0d" width="800" height=auto>
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/276df216-bbf5-4dca-8388-a5d3f6877a74" width="800" height=auto>
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/d47b9bc9-10d0-4811-b311-69a9a36aebe6" width="800" height=auto>
 
 
 ![3](https://github.com/drshahizan/software-engineering/assets/128214992/c25b20a9-514e-4d39-8cd2-324a52b33e77)
 
   
-**Sequence Diagram**
-<img src="https://github.com/drshahizan/software-engineering/assets/128214992/bd353ec2-8ebe-4b52-9d7a-c15275eea3ea" width="1000" height=auto>
+### Sequence Diagram
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/bd353ec2-8ebe-4b52-9d7a-c15275eea3ea" width="800" height=auto>
  
-**Class Diagram**
-<img src = "https://github.com/drshahizan/software-engineering/assets/128196055/cccc27c3-b25a-4384-beeb-ecdd9d451cd9" width="1000" height=auto> 
+### Class Diagram
+<img src = "https://github.com/drshahizan/software-engineering/assets/128196055/cccc27c3-b25a-4384-beeb-ecdd9d451cd9" width="800" height=auto> 
 
-**Use Case Diagram**
-<img src="https://github.com/drshahizan/software-engineering/assets/128196055/22a484f3-d06f-43ac-8ebb-109d6e3249a6" width="1000" height=auto >
+### Use Case Diagram
+<img src="https://github.com/drshahizan/software-engineering/assets/128196055/22a484f3-d06f-43ac-8ebb-109d6e3249a6" width="800" height=auto >
 
-**Activity Diagram**
+### Activity Diagram
 
-<img src="https://github.com/drshahizan/software-engineering/assets/128214992/909dda81-becb-4b18-aaca-f858ac586b9d" width="600" height=auto >
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/909dda81-becb-4b18-aaca-f858ac586b9d" width="800" height=auto >
   
-**Information Architecture for Student**
-![FlowChart drawio (16)](https://github.com/drshahizan/software-engineering/assets/128196055/5f8e4cbb-0819-4557-a832-5c709d167dad)
+### Information Architecture for Student
+<img src="https://github.com/drshahizan/software-engineering/assets/128196055/5f8e4cbb-0819-4557-a832-5c709d167dad" width="800" height=auto>
 
-**Information Architecture for Lecturer**
-![FlowChart drawio (19)](https://github.com/drshahizan/software-engineering/assets/128196055/3a2d6816-8da7-4956-aef3-914c51bafcc8)
+### Information Architecture for Lecturer
+<img src="https://github.com/drshahizan/software-engineering/assets/128196055/3a2d6816-8da7-4956-aef3-914c51bafcc8" width="800" height=auto>
 
-**Information Architecture for Admin**
-![FlowChart drawio (20)](https://github.com/drshahizan/software-engineering/assets/128196055/bd107480-7e49-4d3e-9aa4-66e64ef2259f)
+### Information Architecture for Admin
+<img src="https://github.com/drshahizan/software-engineering/assets/128196055/bd107480-7e49-4d3e-9aa4-66e64ef2259f" width="800" height=auto>
 
-**User Flow**
-![FlowChart drawio (21)](https://github.com/drshahizan/software-engineering/assets/128196055/50f19326-9254-46c7-b9f7-18f96f656c53)
+### User Flow
+<img src="https://github.com/drshahizan/software-engineering/assets/128196055/50f19326-9254-46c7-b9f7-18f96f656c53" width="800" height=auto>
 
-**Component Model**
-![Component Diagram](https://github.com/drshahizan/software-engineering/assets/128212534/d147b353-5c81-4e91-a00a-d58296600188)
+### Component Model
+<img src="https://github.com/drshahizan/software-engineering/assets/128212534/d147b353-5c81-4e91-a00a-d58296600188" width="800" height=auto>
 
-**Complete Package Diagram**
-![SDD drawio (1)](https://github.com/drshahizan/software-engineering/assets/128196055/a14143fe-544c-4b73-bf87-c263520badc3)
+### Complete Package Diagram
+<img src="https://github.com/drshahizan/software-engineering/assets/128196055/a14143fe-544c-4b73-bf87-c263520badc3" width="800" height=auto>
 
 
 ![4 - Copy](https://github.com/drshahizan/software-engineering/assets/128214992/7c0f19b5-6da7-4dad-ae96-fa84d9009451)
 
 
-**Low Fidelity Prototype**
-Log In/Sign In
+### Low Fidelity Prototype
+**Log In/Sign In**
 
-<img src="https://github.com/drshahizan/software-engineering/assets/128214992/24a5da68-6dfa-4fe0-939f-5de37aac9a8c" width="1000" height=auto>
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/24a5da68-6dfa-4fe0-939f-5de37aac9a8c" width="800" height=auto>
 
-**High Fidelity Prototypes**
-1. Student
+### High Fidelity Prototypes
+**Student**
 
-<img src="https://github.com/drshahizan/software-engineering/assets/128214992/aed46b20-67db-4b08-9dc3-c586c5414033" width="1000" height=auto>
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/aed46b20-67db-4b08-9dc3-c586c5414033" width="800" height=auto>
 
-2. Academic Advisor
+**Academic Advisor**
 
-<img src="https://github.com/drshahizan/software-engineering/assets/128214992/1468f943-4d33-492f-8854-68f39738f729" width="1000" height=auto>
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/1468f943-4d33-492f-8854-68f39738f729" width="800" height=auto>
 
-3. Administrator
+**Administrator**
 
-<img src="https://github.com/drshahizan/software-engineering/assets/128214992/cd09a991-9c76-4893-9594-b7fa034a7260" width="1000" height=auto>
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/cd09a991-9c76-4893-9594-b7fa034a7260" width="800" height=auto>
 
 ![5](https://github.com/drshahizan/software-engineering/assets/128214992/f90e478d-e9d1-4e00-a3ec-cedc936e3ac1)
 
-<img src="https://github.com/drshahizan/software-engineering/assets/128214992/cf473da7-e45f-4c61-a66d-9f2569a564bb" width="1000" height=auto>
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/cf473da7-e45f-4c61-a66d-9f2569a564bb" width="800" height=auto>
 
 
 ![Watercolor Twitter Header (1)](https://github.com/drshahizan/software-engineering/assets/128214992/e90f5dd4-466a-419f-8b2b-2592f19f1666)
 
-![image](https://github.com/drshahizan/software-engineering/assets/128214992/5ca8cc04-5a9d-45ba-b57f-99fbc24de61b)
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/5ca8cc04-5a9d-45ba-b57f-99fbc24de61b" width="800" height=auto>
 
-![image](https://github.com/drshahizan/software-engineering/assets/128214992/ea50e4be-051e-428b-a191-d725c108fc86)
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/ea50e4be-051e-428b-a191-d725c108fc86" width="800" height=auto>
 
 ## 4. Testing and Quality Assurance
 ### Testing Template (Black Box Testing)
