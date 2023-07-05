@@ -82,9 +82,8 @@ Don't forget to hit the :star: if you like this repo.
 | 5 | 22/06/2023 | Salini | Business Analyst & UI/UX Designer | Create test procedures | Complete | 
 | 6 | 23/06/2023 | Sabrina | Documentation Specialist & Assistant Developer | Create test results | Complete | 
 | 7 | 23/06/2023 | Farah | Main Developer | Create traceability matrix | Complete | 
-| 8 | 24/06/2023 | Sabrina | Documentation Specialist & Assistant Developer | Finalize the STD | Incomplete | 
-| 9 | |  |    |  | | 
-| 10 |  |  |   |  | | 
+| 8 | 24/06/2023 | Sabrina | Documentation Specialist & Assistant Developer | Finalize the STD | Complete | 
+
 
 ## Project Objective: 
 1. Simplifying the room rental procedure by making it easy for students to find available rooms, view details about the rooms, and complete the rental process without any trouble. The system should provide clear information about the rental terms and conditions, as well as any fees associated with the rental.
