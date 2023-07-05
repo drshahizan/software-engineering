@@ -121,10 +121,6 @@ One Stop Parcel Center
 | 28| 09/06/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Complete SRS Document| Complete |
 
 
-## 6. Conclusion:
-
-Throughout the course of this project, our team embarked on the development of a comprehensive parcel delivery system specifically catered to the needs of KTDI students at UTM. This project presented us with a unique opportunity to leverage technology and logistics to enhance the overall student experience by providing a seamless and efficient delivery service for their parcels. We faced numerous obstacles, including changing requirements, tight timelines, and unexpected technical issues. However, we approached each challenge with a positive attitude and a determination to overcome it. Our team's commitment to delivering a quality solution never wavered, and we continued to work tirelessly to ensure that the system was delivered on time and to the highest standard.
-
 
 
 ## 7. Prototype:
