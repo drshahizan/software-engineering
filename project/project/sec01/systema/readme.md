@@ -9,10 +9,10 @@
 
 ![1](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0001.jpg)
 ![2](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0002.jpg)
-![3](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Exported%20Slide/Slide3.JPG)
-![4](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Exported%20Slide/Slide4.JPG)
-![5](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Exported%20Slide/Slide5.JPG)
-![6](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Exported%20Slide/Slide6.JPG)
+![3](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0003.jpg)
+![4](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0004.jpg)
+![5](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0005.jpg)
+![6](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0006.jpg)
 
 
 <!---## Group Members
