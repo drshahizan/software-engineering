@@ -200,7 +200,8 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 ![func1](https://github.com/drshahizan/software-engineering/assets/128196055/7972e87b-58cf-42fb-8efa-283a10d21c4b)
 ![func2](https://github.com/drshahizan/software-engineering/assets/128196055/7009cd58-90d2-4dd8-a80f-5e3e844077fc)
 
-![nonfunc](https://github.com/drshahizan/software-engineering/assets/128196055/b4dc1e27-2e97-4cab-9b61-4e19745102f7)
+![nonfu](https://github.com/drshahizan/software-engineering/assets/128196055/9abe98c7-013b-474b-af45-a0c6061b893d)
+
 
 
 ## 5. Results and Achievements
