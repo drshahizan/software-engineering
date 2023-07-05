@@ -38,8 +38,8 @@ https://docs.google.com/presentation/d/16SgsDvl8idsYkd5b54facOLDETNoXA7OtwZUe_F1
 ![23](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0023.jpg)
 ![24](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0024.jpg)
 ![25](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0025.jpg)
+<img src="https://github.com/drshahizan/software-engineering/assets/96631869/47419c03-98d4-4478-b56a-c4c8630f6158">
 <img src="https://github.com/drshahizan/software-engineering/assets/96631869/1c65f721-49c5-42dc-85b4-e585a6661650">
-![27](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0027.jpg)
 ![28](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0028.jpg)
 ![29](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0029.jpg)
 ![30](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0030.jpg)
