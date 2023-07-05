@@ -127,11 +127,8 @@ One Stop Parcel Center
   
   
 
-![all stakeholder](https://github.com/drshahizan/software-engineering/assets/128160230/924f3b49-a3f7-43f8-9fdd-b084f0b59b25)
 
-Sequence Diagram:
 
-![sequence](https://github.com/drshahizan/software-engineering/assets/128160230/5f66c2cb-bb8d-4b2e-9ce0-0f9d055761c1)
 
 Sticky Note(Project Planning):
 ![sticky note project planning](https://github.com/drshahizan/software-engineering/assets/128160230/f76917d1-b45a-4809-8eef-0cad7a180bd8)
