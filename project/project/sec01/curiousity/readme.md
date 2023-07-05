@@ -300,6 +300,7 @@ To ensure the reliability and robustness of the KTDI Event Management system, we
 ### 1. Project Outcome: Figma Prototype
 <a href="https://www.figma.com/proto/j19tAaFoStbu6fxeleYlf3/KTDI-Event-Management-System?page-id=27%3A7&type=design&node-id=24-85&viewport=326%2C-303%2C0.04&scaling=scale-down&starting-point-node-id=24%3A85&mode=design"><img src="img/figma.jpg" width="70px" height="70px" ></a>
 
+
 ### 2. Quantitative / Qualitative Data Demonstrating Success 🎯
 #### Quantitative data:
 - **Increase in event registrations:** Before implementing the system, the average number of event registrations per semester was 200. After the system was implemented, the average increased to 350, indicating a 75% increase in event participation.
@@ -310,6 +311,7 @@ To ensure the reliability and robustness of the KTDI Event Management system, we
 - **User satisfaction:** JKM KTDI members, KTDI staff, and students expressed high satisfaction with the system, highlighting its user-friendly interface, improved effectiveness of event preparation, and ease of event registration.
 - **Improved communication:** Feedback from stakeholders indicated that the system significantly enhanced communication between JKM KTDI, staff members, and students. Information was more readily accessible, reducing confusion and improving coordination among team members.
 - **Merit point accuracy:** JKM KTDI members confirmed that the automated merit point calculation accurately reflected students' activities, ensuring fair determination of their active quota for hostel booking.
+
 
 ### 3. Feedback from stakeholders 📝
 - **JKM KTDI Member:**
