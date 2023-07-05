@@ -1,19 +1,12 @@
 
-<a href="https://github.com/drshahizan/software-engineering/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/software-engineering" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/network/members"><img src="https://img.shields.io/github/forks/drshahizan/software-engineering" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/issues"><img src="https://img.shields.io/github/issues/drshahizan/software-engineering" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/software-engineering?color=2b9348"></a>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fsoftware-engineering&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+![test](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Exported%20Slide/Slide1.JPG)
+
+<img src="https://github.com/drshahizan/software-engineering/assets/96631869/719b8f4d-5ddc-435f-9b92-4a5ed5541802" alt="img">
+
+![test](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Exported%20Slide/Slide3.JPG)
 
 
-Don't forget to hit the :star: if you like this repo.
-
-# Project: Group Systema
-
-<img src="https://i.imgur.com/2ukWq8F.jpg" alt="img" style="width:350px;height:350px">
-
-## Group Members
+<!---## Group Members
 <table>
   <tr>
     <th>No.</th>
@@ -118,7 +111,7 @@ Overall, the development of a student engagement website aligns with the evolvin
 ### Software Process Model
 <!--- Describe the approach and methodologies utilized to tackle the project.
  Explain the software development life cycle model or any other relevant methodology adopted.
- Highlight any specific tools, technologies, or frameworks employed during the project. -->
+ Highlight any specific tools, technologies, or frameworks employed during the project. 
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Systema/agile.png" height="30%" width="30%">
 We are using agile method as this is a software process model that emphasizes iterative and incremental development, flexibility, and collaboration between team members and stakeholders. It is particularly suitable for projects where the requirements are likely to evolve over time.
 Agile methodology is ideal for developing a student engagement system with a personalized dashboard, anonymous forum, feedback system, and reporting module. It allows for iterative development, flexibility to accommodate changing requirements, collaboration among team members and stakeholders, and continuous testing and feedback. This approach ensures the system evolves effectively and meets the needs of University Teknologi Malaysia Faculty of Computing's students,lecturers,SRC Members and administrators.
@@ -140,7 +133,7 @@ These are the used tools and technologies for developing our Student Engagement 
 ## 3. Implementation:
 <!--- Detail the specific tasks and activities undertaken by your group.
 - Provide an overview of the software components or modules developed.
-- Describe any challenges faced during the implementation phase and how you addressed them. -->
+- Describe any challenges faced during the implementation phase and how you addressed them. 
 
 ## Activities and Timeline 
 | No | Date | Member Name | Role	| Task	| Status	| 
@@ -173,6 +166,7 @@ These are the used tools and technologies for developing our Student Engagement 
 | 26 | 30/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | STD Planning | Complete |
 | 27 | 01/07/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | STD Test Case | Complete |
 
+<img src="https://github.com/drshahizan/software-engineering/assets/96631869/b857e38c-6d1d-4f3f-9e15-2201d3e6cbd4">
 ### First Stakeholer: Jasmine Alisha -  Student Representative Council (SRC)
 <img src="https://user-images.githubusercontent.com/129290170/236827544-b0c72886-55d0-4c0a-9c35-11f7423e0715.jpg" height="30%" width="60%">
 
@@ -326,4 +320,4 @@ By implementing these quality assurance processes, we strive to deliver a softwa
 
 - Summarize the overall project experience and lessons learned.
 - Reflect on the challenges faced and how they were overcome.
-- Highlight any future improvements or recommendations for further development.
+- Highlight any future improvements or recommendations for further development. --->

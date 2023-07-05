@@ -23,7 +23,7 @@ Don't forget to hit the :star: if you like this repo.
 <img src="image/7.jpg" height="600px" >
 
 ## Stakeholder
-One Stop Parcel Center 
+
 <table>
   <tr>
     <th>Name</th>

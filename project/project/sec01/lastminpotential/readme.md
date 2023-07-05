@@ -9,9 +9,8 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Activity: Faculty of Computing Feedback System
-
-## Group Members
+# Project: Faculty of Computing Feedback System
+## Lastminpotential Group Members
 <table>
   <tr>
     <th>Name</th>
@@ -38,69 +37,13 @@ Don't forget to hit the :star: if you like this repo.
 ## Documentation
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Project Document | <a href="https://docs.google.com/document/d/1Xctm8z7md7DfWMzgJC1dlcZ0_jI5PI-cp1skFjDWkgk/edit?usp=sharing" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+|1| Proposal| <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec01/Lastminpotential" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
+|2| SRS Documentation| <a href="https://docs.google.com/document/d/1jfBbDYkAjSAF77_U29OZU7EHhaHH_0LA/edit" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
+|3| SDD Documentation| <a href="https://docs.google.com/document/d/1yksjX8seJ0aIpHPS68waP8K2WtaSVqgVWY2DmzzF8Rc/edit?usp=sharing" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
+|4| STD Dodumentation| <a href="https://docs.google.com/document/d/1X75pPbh5WDZcD1I6FS-6yC4SBbgDf41LpIdUpKBW8Hw/edit?usp=sharing" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
+|6| Prototype| <a href="https://www.figma.com/proto/eW49Cmu9mwtyl8ct9taeLB/Faculty-of-Computing-feedback-system?page-id=0%3A1&type=design&node-id=118-407&viewport=-1459%2C-7417%2C1.04&scaling=scale-down&starting-point-node-id=118%3A407&show-proto-sidebar=1&mode=design&t=3TA0NZS7FPOXFvid-1" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/fa23f96100aedccb8c634fba496ebcfc9968b9ee/images/figma.svg" width="24px" height="24px" ></a>|
 
-## Stakeholder
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Stakeholder</th>
-    <th>Position</th>
-    <th>Responsibility</th>
-  </tr>
-  <tr>
-    <td>PROF. TS. DR. WAN MOHD NASIR WAN NADIR</td>
-    <td>Faculty management</td>
-    <td>Dean</td>
-    <td>Provide an overview of the existing system and the expectation of this system</td>
-  </tr>
-    <tr>
-    <td>Ooi Wei Sian</td>
-    <td>Public User</td>
-    <td>Student of Faculty of computing</td>
-    <td>Provide expectation of the system, and problem faced by public currently</td>
-  </tr>
-    <tr>
-    <td>Assoc. Prof. Dr. Mohd Shahizan bin Othman</td>
-    <td>Faculty staff</td>
-    <td>Lecturer</td>
-    <td>Provide expectation of the system, and problem faced by public currently</td>
-  </tr>
-   <tr>
-    <td>Ts. Mohd Hazri bin Ishak</td>
-    <td>Faculty staff</td>
-    <td>Facility Manager</td>
-    <td>Provide expectation and suggestion for the system, and problem faced by public currently</td>
-  </tr>
-  
-</table>
-
-## Tasks involved in developing SRC documentation:
-
-| No | Date | Member Name | Role	| Task	| Status	| 
-| -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 20/04/2023| Tan Jun Yuan | Project Manager | Create project plan | Complete |
-| 2 | 24/04/2023 | Goh Jing Yang, Loo Jia Chang | UI/ UX Designer, Main Developer | Gather user requirements | Complete |
-| 3 | 28/04/2023 | Chen Pyng Haw | Documentation Specialist | Create proposal | Complete |
-| 4 | 7/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Meeting with stakeholder 1,  PROF. TS. DR. WAN MOHD NASIR WAN NADIR | Complete |
-| 5 | 11/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Meeting with stakeholder 2, Ooi Wei Sian | Completed |
-| 6 | 16/05/2023| Tan Jun Yuan, Chen Pyng Haw | Project Manager, Documentation Specialist | Meeting with stakeholder 3, Assoc. Prof. Dr. Mohd Shahizan bin Othman | Completed | 
-| 7 | 18/05/2023| Tan Jun Yuan, Chen Pyng Haw | Project Manager, Documentation Specialist | Meeting with stakeholder 4, Ts. Mohd Hazri bin Ishak | Complete |
-| 8 | 20/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Create SRS Documentation Draft | Complete |
-| 9 | 23/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Introduction of SRS Documentation | Complete |
-| 10 | 25/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | UML diagram (actor, use case, sequence, activity diagram | Complete |
-| 11 | 25/05/2023| Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Specific Requirement of SRS documentation | Complete |
-| 12 | 27/05/2023 | Goh Jing Yang | UI/UX Designer | Create Low Fidelity Wire frames | Complete | 
-| 13 | 28/05/2023 | Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Discussion and assign task for system features part based on user case design | Complete |
-| 14 | 30/05/2023 | Goh Jing Yang | UI/UX Designer | Create High Fidelity UI Design | Complete |
-| 15 | 1/06/2023 | Chen Pyng Haw | Documentation Specialist | Create SDD documentation draft| Complete |
-| 16 | 3/06/2023| Tan Jun Yuan, Chen Pyng Haw | Project Manager, Documentation Specialist | System Architectural Design od SDD Cocumentation | In progress |
-| 17 | 6/05/2023| Tan Jun Yuan, Chen Pyng Haw | Project Manager, Documentation Specialist | Detailed Description of Components | In progress |
-| 18 | 9/05/2023| Goh Jing Yang, Loo Jia Chang | UI/UX Designer, Main Developer | Data Design | In progress |
-| 19 | 11/05/2023| Goh Jing Yang, Loo Jia Chang | UI/UX Designer, Main Developer | User Interface Design | In progress |
-| 20 | 15/06/2023 | Chen Pyng Haw | Documentation Specialist | Create STD Documentation draft | Complete | 
-| 21 | 19/06/2023 | Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Finalise UI Deisgn | On-going | 
+## Project Summary
 
 ## 1.Introduction
 <b>Purpose and objective:</b>
