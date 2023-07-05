@@ -170,16 +170,15 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 **High Fidelity Prototypes**
 1. Student
 
-![image](https://github.com/drshahizan/software-engineering/assets/128214992/758b80b3-b1a8-4676-ac74-264f7e9729af)
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/aed46b20-67db-4b08-9dc3-c586c5414033" width="1000" height=auto>
 
-2. Lecturer
+2. Academic Advisor
 
-![image](https://github.com/drshahizan/software-engineering/assets/128214992/02171e9f-3c8e-4440-8c6e-816315e07dee)
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/1468f943-4d33-492f-8854-68f39738f729" width="1000" height=auto>
 
 3. Administrator
 
-![image](https://github.com/drshahizan/software-engineering/assets/128214992/ef2630d5-aaa2-446b-8993-1f03f9ffd17f)
-
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/cd09a991-9c76-4893-9594-b7fa034a7260" width="1000" height=auto>
 
 ![5](https://github.com/drshahizan/software-engineering/assets/128214992/f90e478d-e9d1-4e00-a3ec-cedc936e3ac1)
 
