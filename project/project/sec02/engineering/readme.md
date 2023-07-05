@@ -72,6 +72,7 @@ One Stop Parcel Center
 <img src="image/16.jpg" height="600px" >
 <img src="image/17.jpg" height="600px" >
 <img src="image/18.jpg" height="600px" >
+<img src="image/19.jpg" height="600px" >
 ## Tasks involved in developing SRC documentation:
 
 | No | Date | Member Name | Role	| Task	| Status	| 
