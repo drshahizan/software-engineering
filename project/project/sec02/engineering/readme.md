@@ -85,7 +85,7 @@ One Stop Parcel Center
 <img src="image/22.jpg" height="600px" >
 <img src="image/27.jpg" height="600px" >
 <img src="image/28.jpg" height="600px" >
-<img src="image/29.jpg" height="600px" >
+
 <img src="image/30.jpg" height="600px" >
 ## Tasks involved in developing SRC documentation:
 
