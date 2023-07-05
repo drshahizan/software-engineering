@@ -85,9 +85,9 @@ Don't forget to hit the :star: if you like this repo.
 | 20 | 15/06/2023 | Chen Pyng Haw | Documentation Specialist | Create STD Documentation draft | Complete | 
 | 21 | 19/06/2023 | Tan Jun Yuan, Goh Jing Yang, Loo Jia Chang, Chen Pyng Haw | Project Manager, UI/UX Designer, Main Developer, Documentation Specialist | Finalise UI Deisgn | On-going | 
 
-<img src="Screenshot 2023-07-05 222855.png">
-<img src="Screenshot 2023-07-05 222855.png">
-<img src="Screenshot 2023-07-05 222855.png">
+<img src="Screenshot 2023-07-05 224909.png">
+<img src="Screenshot 2023-07-05 224920.png">
+<img src="Screenshot 2023-07-05 224942.png">
 <img src="Screenshot 2023-07-05 222855.png">
 <img src="Screenshot 2023-07-05 222855.png">
 <img src="Screenshot 2023-07-05 222855.png">
