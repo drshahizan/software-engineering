@@ -216,9 +216,7 @@ Don't forget to hit the :star: if you like this repo.
 #### Meeting with JKM KTDI (Lim Shi Kai)
 <img src="img/stakeholder2.jpg" height="600px" >
 
-
-
-#### Meeting with student (Nadia Syahadah Binti Saharudin)
+#### Meeting with Student (Nadia Syahadah Binti Saharudin)
 <img src="img/stakeholder3.jpg" height="600px" >
 
 #### Meeting with KTDI Principal (LT KOL Prof. Madya Dr. Mohd Noor Azli Bin Haji. Ali Khan)
@@ -331,6 +329,8 @@ To ensure the reliability and robustness of the KTDI Event Management system, we
 
 ## Conclusion
 
+<img src="img/conclusion.jpg" height="600px" >
+
 <img src="img/conclusion1.jpg" height="600px" >
 
 <img src="img/conclusion2.jpg" height="600px" >
@@ -350,8 +350,6 @@ To ensure the reliability and robustness of the KTDI Event Management system, we
 <img src="img/conclusion9.jpg" height="600px" >
 
 <img src="img/conclusion10.jpg" height="600px" >
-
-<img src="img/conclusion11.jpg" height="600px" >
 
 ## Contribution 🛠
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
