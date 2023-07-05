@@ -117,13 +117,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>One Stop Parcel Center</td>
     <td>Head of Management</td>
   <td>Responsible on managing the staffs, ensuring smooth operations, and manage the budget as well. Also responsible on making sure that the informations stated at the parcel and the data is well protected and secure</td>
-  </tr>
-   <tr>
-    <td>Johnny Sii How Yong</td>
-    <td>KTDI Student</td>
-    <td>Deliver guy</td>
-   
-  </tr>
+
   
   
   
