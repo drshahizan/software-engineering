@@ -79,7 +79,6 @@ Don't forget to hit the :star: if you like this repo.
 |4| STD Documentation| <a href="https://github.com/drshahizan/software-engineering/tree/main/project/documentation/std/sec02/alpha" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
 |5| Draw.io| <a href="https://github.com/drshahizan/software-engineering/tree/main/project/drawio/Alpha" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/fa23f96100aedccb8c634fba496ebcfc9968b9ee/images/drawio.svg" width="24px" height="24px" ></a>|
 |6| Use Case Diagram| <a href="" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/fa23f96100aedccb8c634fba496ebcfc9968b9ee/images/drawio.svg" width="24px" height="24px" ></a>|
-list semua benda table di sini
 
 ## Prototype
 | No | Name |File | 
