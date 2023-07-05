@@ -1,4 +1,4 @@
-<a href="https://github.com/drshahizan/software-engineering/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/software-engineering" alt="Stars Badge"/></a>
+![image](https://github.com/drshahizan/software-engineering/assets/128159572/9e19f75e-7455-4b04-913d-43327f7423d1)<a href="https://github.com/drshahizan/software-engineering/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/software-engineering" alt="Stars Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/network/members"><img src="https://img.shields.io/github/forks/drshahizan/software-engineering" alt="Forks Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/issues"><img src="https://img.shields.io/github/issues/drshahizan/software-engineering" alt="Issues Badge"/></a>
@@ -83,7 +83,7 @@ Don't forget to hit the :star: if you like this repo.
 ![24](https://github.com/drshahizan/software-engineering/assets/128159572/23283916-4ecd-42b5-9e4f-dc5da466917f)
 ![25](https://github.com/drshahizan/software-engineering/assets/128159572/79a82afb-03e3-4d69-9a9c-6904d2776b57)
 ![Project SE (6)](https://github.com/drshahizan/software-engineering/assets/128159572/03e130ef-9300-4361-a195-340f2ca91dbe)
-![_27](https://github.com/drshahizan/software-engineering/assets/128159572/c33efc64-72e1-4808-9ff0-7d185de02ac0)
+![_27](https://github.com/drshahizan/software-engineering/assets/128159572/3a749346-aeef-4033-ba70-f6929ff2db22)
 ![28](https://github.com/drshahizan/software-engineering/assets/128159572/aa23dd8f-550f-4a01-9b90-d00632de511b)
 ![_29](https://github.com/drshahizan/software-engineering/assets/128159572/a6791923-ea96-4980-a164-1e8337281deb)
 ![30](https://github.com/drshahizan/software-engineering/assets/128159572/95b4ad87-b4fa-4380-82fe-247f659f5b2e)
