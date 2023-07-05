@@ -21,9 +21,11 @@ Don't forget to hit the :star: if you like this repo.
 * [Implementation](#implementation)
 * [Testing and Quality Assurance](#testing-and-quality-assurance)
 * [Results and Achievements](#results-and-archievements)
+* [Prototype](#prototype)
+* [Documentation](#documentation)
 * [Conclusion](#conclusion)
 
-## 1. Introduction:
+## 1. Introduction
 ### Purpose and Objectives
 The purpose of this project is to develop an Academic Consultation System that aims to revolutionize the way students receive academic support and guidance. By leveraging technology and personalized interactions, this system seeks to address the existing challenges faced by students in accessing individualized attention from their lecturers. Through this project, we aim to create a more effective and personalized academic support system that enhances students' learning experiences and promotes their overall academic success.
 
@@ -35,7 +37,7 @@ The Academic Consultation System presented in this project addresses these chall
 
 Furthermore, this project recognizes the importance of lecturers' time and commitments. By enabling lecturers to manage consultations separately from their teaching schedules, the system ensures that they can provide individualized attention to students without disrupting their regular classroom activities. This balance will enhance lecturers' ability to support students effectively and create a positive impact on student learning outcomes.
 
-## 2. Methodology:
+## 2. Methodology
 <img src="https://github.com/drshahizan/software-engineering/assets/128196055/e65aaf00-ed91-409a-be66-3bad98259b75" width="400" height=auto>
 
 The project adopted the Agile methodology for software development, which focuses on iterative and incremental development, flexibility, and collaboration. The Agile manifesto values individuals and interactions over processes and tools, working software over comprehensive documentation, customer collaboration over contract negotiation, and responding to change over following a plan.
@@ -80,7 +82,7 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 - HTML and CSS: Used for front-end web development to structure and style the user interface.
 - PHP: Employed as a server-side scripting language for implementing back-end functionalities.
 
-## 3. Implementation:
+## 3. Implementation
 <img src="https://github.com/drshahizan/software-engineering/assets/128214992/83dae4fe-422a-42fa-b118-e7b8e7baf504" width="1000" height=auto>
 
 ![2](https://github.com/drshahizan/software-engineering/assets/128214992/7c6bf374-4f3c-4f6b-bca1-a41677c560fa)
@@ -189,7 +191,9 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 - Integration Issues: As different team members worked on separate modules, integrating all theindividual components posed challenges. We addressed this by regularly conducting integration testing and maintaining clear communication among team members by doing scrumpt meetings to ensure seamless integration.
 - Changing Requirements: Throughout the implementation phase, there were instances where the requirements evolved or changed. We addressed this challenge by maintaining flexibility in our design and implementation, embracing agile methodologies, and having open communication with the project stakeholders to adapt to the changing requirements.
 
-## 4. Testing and Quality Assurance:
+![image](https://github.com/drshahizan/software-engineering/assets/128214992/ea50e4be-051e-428b-a191-d725c108fc86)
+
+## 4. Testing and Quality Assurance
 ### Testing Template (Black Box Testing)
  ![WhatsApp Image 2023-07-02 at 12 47 22 AM](https://github.com/drshahizan/software-engineering/assets/128196055/45240d1d-c56e-40c8-a87c-ac63c5ce9b21)
  
@@ -255,21 +259,21 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
     - This project has a specific budget and timeline for development and implementation.
     - These requirements, assumptions, and constraints provide a foundation for the design and development of the system, ensuring that it meets the desired functionality,       performance, security, usability, and other quality attributes.
 
-## 5. Results and Achievements:
+## 5. Results and Achievements
 
 ![Screenshot (281)](https://github.com/drshahizan/software-engineering/assets/128212534/ba4a4d50-0fba-43eb-81fa-978221945a01)
 ![Screenshot (283)](https://github.com/drshahizan/software-engineering/assets/128212534/e3971b1d-f0e0-4e9a-a5d9-8f46c23b327a)
 ![Screenshot (282)](https://github.com/drshahizan/software-engineering/assets/128212534/1dcdaa8a-1730-41fb-b467-4340872b243f)
 
 
-###  Prototype:
+## 6. Prototype
 | No | Name |File | 
 | -----:| ----- | :------: | 
 |1| UI/UX (Student)| <a href="https://www.figma.com/proto/DBtAK206tikRXizDURZSSs/Academic-Consultation-System-UI%2FUX-(Community)?type=design&node-id=125-697&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A275" ><img src="https://github.com/drshahizan/software-engineering/blob/ff60d5d37be6a34234ea420eb3c1901f1e08d25b/project/documentation/sdd/sec02/program/figma.png" width="24px" height="24px" ></a>|
 |2| UI/UX (Academic Advisor)| <a href="https://www.figma.com/proto/DBtAK206tikRXizDURZSSs/Academic-Consultation-System-UI%2FUX-(Community)?type=design&node-id=512-13187&t=dQ1CDHjSFPR3E8KR-8&scaling=scale-down&page-id=512%3A10294&starting-point-node-id=512%3A10516&show-proto-sidebar=1&hide-ui=1" ><img src="https://github.com/drshahizan/software-engineering/blob/ff60d5d37be6a34234ea420eb3c1901f1e08d25b/project/documentation/sdd/sec02/program/figma.png" width="24px" height="24px" ></a>|
 |3| UI/UX (Administrator)| <a href="https://www.figma.com/proto/DBtAK206tikRXizDURZSSs/Academic-Consultation-System-UI%2FUX-(Community)?type=design&node-id=512-19312&t=bLVGIu7GNhior3iG-8&scaling=scale-down&page-id=512%3A10295&starting-point-node-id=512%3A19312&hide-ui=1" ><img src="https://github.com/drshahizan/software-engineering/blob/ff60d5d37be6a34234ea420eb3c1901f1e08d25b/project/documentation/sdd/sec02/program/figma.png" width="24px" height="24px" ></a>|
 
-###  Documentation
+## 7.  Documentation
 | No | Name |File | 
 | -----:| ----- | :------: | 
 |1| Proposal | <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/program" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/1999131.png" width="24px" height="24px" ></a>|
@@ -277,7 +281,7 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 |3| Document SDD| <a href="https://docs.google.com/document/d/1H_E53Q_lN9H0LWUnIBm3KGp29_nsCnBwvxTQVypJ46E/edit?usp=sharing" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/docx-9.png" width="24px" height="24px" ></a>|
 |4| Document STD| <a href="https://docs.google.com/document/d/1O9BgazCy0P2WQckn1uQQ2f2tliQre5_6zR4EDoSp1wY/edit?usp=sharing" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/docx-9.png" width="24px" height="24px" ></a>|
 
-## 6. Conclusion:
+## 8. Conclusion
 In conclusion, the development and implementation of the Academic Consultation System have provided valuable insights and lessons learned. Throughout this project, we encountered several challenges, but through effective collaboration and problem-solving, we were able to overcome them and achieve our objectives.
 
 One of the main lessons learned from this project is the importance of stakeholder engagement and feedback. By actively involving students and lecturers in the design and testing phases, we gained valuable insights into their specific needs and preferences. This iterative approach allowed us to fine-tune the system and tailor it to meet their requirements, resulting in a more user-friendly and effective platform.
