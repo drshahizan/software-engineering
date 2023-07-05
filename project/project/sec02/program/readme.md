@@ -14,41 +14,6 @@ Don't forget to hit the :star: if you like this repo.
 ## Group Members
 <img src="https://github.com/drshahizan/software-engineering/assets/128214992/70205fca-5085-47b9-bb78-48f08c99f4b7" width="1000" height=auto>
 
-## Stakeholder
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Stakeholder</th>
-    <th>Position</th>
-    <th>Responsibility</th>
-  </tr>
-  <tr>
-    <td>1 Dr. Nor Azizah Ali</td>
-    <td>Academic Advisor</td>
-    <td>Lecturer</td>
-    <td>Provide feedback on usability of system from a lecturer perspective, suggest new features for lecturer use</td>
-  </tr>
-    <tr>
-    <td>2 Masnawi bin Miskam</td>
-    <td>Administration</td>
-    <td>Administritative Officer</td>
-    <td>Provide feedback on usability of system from an administrator perspective, share the required information in students' profile stored by administration</td>
-  </tr>
-    <tr>
-    <td>3 Nurul Asyikin Binti Muhamad</td>
-    <td>Student in Faculty of Computing</td>
-    <td>3rd Year Student</td>
-    <td>Provide feedback on usability of system from a student perspective, suggest additional features benefits to students</td>
-  </tr>
-  </tr>
-    <tr>
-    <td>4 Kevin EE</td>
-    <td>Student in Faculty of Computing</td>
-    <td>3rd Year Student</td>
-    <td>Provide feedback on usability of system from a student perspective</td>
-  </tr>
-</table>
-
 # 💫Table of Contents
 * [Table of Contents](#table-of-contents)
 * [Introduction](#Introduction:)
@@ -118,7 +83,8 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 ## 3. Implementation:
 <img src="https://github.com/drshahizan/software-engineering/assets/128214992/83dae4fe-422a-42fa-b118-e7b8e7baf504" width="1000" height=auto>
 
-### Stakeholder
+![2](https://github.com/drshahizan/software-engineering/assets/128214992/7c6bf374-4f3c-4f6b-bca1-a41677c560fa)
+
 <table>
   <tr>
     <th>Name</th>
@@ -153,62 +119,14 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
   </tr>
 </table>
 
-**1. First stakeholder-Dr. Nor Azizah Ali** 
-
-Time & Date : 10:00 a.m. (2 May 2023)
-Venue : 438-20 (N28)
-
-<img src="https://user-images.githubusercontent.com/128214992/235604729-373f61de-9ce5-4887-90c8-0f0a5983f10e.jpg" width="400" height=auto>
-
-**From the meeting,Dr. Azizah gave us a few recommendations to be added into the system such as:**
-1.  Academic advisor will get a notification regarding the students performance if it decreases continuously in three semesters.
-2.  Add dashboard to easily display and analyze students performance by providing graphs based on their academic performance.
-3. This system will make it easier for AA to schedule and manage appointments with students, ensuring that they can provide timely and effective guidance.
-4. The ability to view students' academic dashboards and summaries will help AA better understand their progress and provide personalized support
+![11](https://github.com/drshahizan/software-engineering/assets/128214992/18ef0f31-7f92-4618-a732-cae6cfbdb654)
+![12](https://github.com/drshahizan/software-engineering/assets/128214992/c698aeea-ecab-4897-adbc-a346efd7ad0d)
+![13](https://github.com/drshahizan/software-engineering/assets/128214992/276df216-bbf5-4dca-8388-a5d3f6877a74)
+![14](https://github.com/drshahizan/software-engineering/assets/128214992/d47b9bc9-10d0-4811-b311-69a9a36aebe6)
 
 
-**2. Second stakeholder-Nurul Asyikin binti Muhammad** 
+![3](https://github.com/drshahizan/software-engineering/assets/128214992/c25b20a9-514e-4d39-8cd2-324a52b33e77)
 
-Time & Date : 11:00 a.m. (7 May 2023)
-Venue : N24 Lounge
-
-<img src="https://user-images.githubusercontent.com/93176591/237020470-362ba2d2-0d01-4c9d-8040-de7903945d30.jpg" width="400" height=auto>
-
-From the meeting, Asyikin gave us a few recommendations to be added into the system such as:
-- The system's calendar feature will allow student to see the availability of advisors and choose appointment slots that best fit their schedules.
-- Good to having an online platform where they can easily schedule appointments with academic advisors, saving their time and effort.
-- The academic dashboard and summary will provide a clear overview of student academic performance, making it easier to track their progress and identify areas for improvement.
-
-**Third stakeholder-Kelvin Ee**
-
-Time & Date : 10:00 a.m. (2 May 2023)
-Venue : Online Platform via Google Meet
-
-<img src="https://user-images.githubusercontent.com/128196055/237020811-431db32d-fcc3-4d63-ba16-685afcd6eef7.PNG" width="400" height=auto>
-
-Outcome:
-- message interface to ease the communication between student and their academic advisor
-- The system's user-friendly interface and intuitive navigation will make it easy for student to interact with the platform and access the information they need
-- The system will provide student with a convenient way to connect with their academic advisors, eliminating the need for physical visits or long wait times
-- The system's features, such as appointment reminders and notifications, will ensure that we don't miss any important meetings or deadlines.
-
-**Fourth stakeholder-Encik Masnawi Bin Miskam**
-
-Time & Date : 4:15 a.m. (15 May 2023)
-Venue : Online Platform via Google Meet
-
-<img src="https://github.com/drshahizan/software-engineering/assets/128214992/a98d4dd6-bf09-4e9f-a2f7-cc0cd2ee5f6f" width="400" height=auto>
-
-Problem 1: Lack of Student Details for Administrators
-- Administrators in the academic consultation system do not have access to sufficient information about students.
-- There is a lack of detailed student profiles, including relevant personal information and health-related details.
-
-Solution:
-1. Comprehensive Student Profile:
-- Develop a comprehensive student profile feature within the academic consultation system.
-- Allow administrators to access and update detailed information about students, including personal information, academic records, health conditions, emergency contacts, and other relevant data.
-
-### Software Components & Modules
   
 **Sequence Diagram**
 <img src="https://github.com/drshahizan/software-engineering/assets/128214992/bd353ec2-8ebe-4b52-9d7a-c15275eea3ea" width="1000" height=auto>
@@ -235,37 +153,39 @@ Solution:
 **User Flow**
 ![FlowChart drawio (21)](https://github.com/drshahizan/software-engineering/assets/128196055/50f19326-9254-46c7-b9f7-18f96f656c53)
 
-- Component Model:
+**Component Model**
 ![Component Diagram](https://github.com/drshahizan/software-engineering/assets/128212534/d147b353-5c81-4e91-a00a-d58296600188)
 
-- Complete Package Diagram:
+**Complete Package Diagram**
 ![SDD drawio (1)](https://github.com/drshahizan/software-engineering/assets/128196055/a14143fe-544c-4b73-bf87-c263520badc3)
 
 
-### Design Phase
+![4 - Copy](https://github.com/drshahizan/software-engineering/assets/128214992/7c0f19b5-6da7-4dad-ae96-fa84d9009451)
+
 
 **Low Fidelity Prototype**
 
 **High Fidelity Prototypes**
 1. Student
-- ![image](https://github.com/drshahizan/software-engineering/assets/128214992/758b80b3-b1a8-4676-ac74-264f7e9729af)
 
-
+![image](https://github.com/drshahizan/software-engineering/assets/128214992/758b80b3-b1a8-4676-ac74-264f7e9729af)
 
 2. Lecturer
-- ![image](https://github.com/drshahizan/software-engineering/assets/128214992/02171e9f-3c8e-4440-8c6e-816315e07dee)
 
-
+![image](https://github.com/drshahizan/software-engineering/assets/128214992/02171e9f-3c8e-4440-8c6e-816315e07dee)
 
 3. Administrator
-- ![image](https://github.com/drshahizan/software-engineering/assets/128214992/ef2630d5-aaa2-446b-8993-1f03f9ffd17f)
+
+![image](https://github.com/drshahizan/software-engineering/assets/128214992/ef2630d5-aaa2-446b-8993-1f03f9ffd17f)
 
 
-### Design System
+![5](https://github.com/drshahizan/software-engineering/assets/128214992/f90e478d-e9d1-4e00-a3ec-cedc936e3ac1)
+
 <img src="https://github.com/drshahizan/software-engineering/assets/128214992/cf473da7-e45f-4c61-a66d-9f2569a564bb" width="1000" height=auto>
 
 
-### The challenges faced during the implementation phase:
+![Watercolor Twitter Header (1)](https://github.com/drshahizan/software-engineering/assets/128214992/e90f5dd4-466a-419f-8b2b-2592f19f1666)
+
 - Integration Issues: As different team members worked on separate modules, integrating all theindividual components posed challenges. We addressed this by regularly conducting integration testing and maintaining clear communication among team members by doing scrumpt meetings to ensure seamless integration.
 - Changing Requirements: Throughout the implementation phase, there were instances where the requirements evolved or changed. We addressed this challenge by maintaining flexibility in our design and implementation, embracing agile methodologies, and having open communication with the project stakeholders to adapt to the changing requirements.
 
