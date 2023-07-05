@@ -120,19 +120,6 @@ One Stop Parcel Center
 
 
 
-### Tools, Technologies, and Frameworks:
-
-Several tools, technologies, and frameworks will be employed during the development of the Parcel Delivery System. These include:
-
-1. Version Control: Use Git and GitHub for version control, allowing for effective collaboration, code management, and tracking of changes.
-
-2. Integrated Development Environment (IDE): Utilize a suitable IDE such as Visual Studio Code (VS Code) for coding, debugging, and collaboration among the development team.
-
-3. Design and Prototyping: Leverage tools like Figma for creating wireframes, mockups, and interactive prototypes. This aids in visualizing and refining the user interface (UI) and user experience (UX) of the system.
-
-4. Front-end Development: Utilize modern front-end technologies such as HTML, and CSS, along with popular frameworks like Bootstrap, to build a responsive and user-friendly web interface for the Parcel Delivery System.
-5. Database Management: Utilize a reliable database management system (DBMS) such as MySQL  to store and retrieve data related to parcels, users, delivery details, and other relevant information.
-
 
 By leveraging these methodology, tools, technologies, and frameworks, the development team can build a robust, scalable, and secure Parcel Delivery System that meets the needs of KTDI students at UTM. The use of modern technologies and proven methodologies ensures the system's efficiency and reliability, providing a seamless and hassle-free experience for users. Overall, the use of these methodologies and practices ensured that the Parcel Delivery System was developed efficiently, effectively, and with a focus on the needs of users.
 
