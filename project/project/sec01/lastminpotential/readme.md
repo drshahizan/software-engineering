@@ -94,12 +94,8 @@ Don't forget to hit the :star: if you like this repo.
 <img src="Screenshot 2023-07-05 225550.png">
 <img src="Screenshot 2023-07-05 225601.png">
 <img src="Screenshot 2023-07-05 225616.png">
-<img src="Screenshot 2023-07-05 225833.png">
-<img src="Screenshot 2023-07-05 222855.png">
-<img src="Screenshot 2023-07-05 222855.png">
-<img src="Screenshot 2023-07-05 222855.png">
-<img src="Screenshot 2023-07-05 222855.png">
-<img src="Screenshot 2023-07-05 222855.png">
+<img src="Screenshot 2023-07-05 230126.png">
+
 
 
 ## 2.Methodology
