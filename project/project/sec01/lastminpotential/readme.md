@@ -88,6 +88,12 @@ Don't forget to hit the :star: if you like this repo.
 <img src="Screenshot 2023-07-05 224909.png">
 <img src="Screenshot 2023-07-05 224920.png">
 <img src="Screenshot 2023-07-05 224942.png">
+<img src="Screenshot 2023-07-05 225306.png">
+<img src="Screenshot 2023-07-05 225322.png">
+<img src="Screenshot 2023-07-05 225338.png">
+<img src="Screenshot 2023-07-05 222855.png">
+<img src="Screenshot 2023-07-05 222855.png">
+<img src="Screenshot 2023-07-05 222855.png">
 <img src="Screenshot 2023-07-05 222855.png">
 <img src="Screenshot 2023-07-05 222855.png">
 <img src="Screenshot 2023-07-05 222855.png">
