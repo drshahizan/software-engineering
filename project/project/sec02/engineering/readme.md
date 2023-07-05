@@ -97,6 +97,44 @@ Don't forget to hit the :star: if you like this repo.
 |3| Prototype User | <a href="https://www.figma.com/proto/8TEqAZrupIZEwPDU8mHWvK/Main?type=design&node-id=27-812&scaling=contain&page-id=0%3A1&starting-point-node-id=27%3A812&show-proto-sidebar=1&mode=design" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
 |4| Prototype Rider | <a href="https://www.figma.com/proto/8TEqAZrupIZEwPDU8mHWvK/Main?type=design&node-id=27-823&scaling=contain&page-id=0%3A1&starting-point-node-id=27%3A823&show-proto-sidebar=1&mode=design" width="24px" height="24px" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
 
+## Stakeholder
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Stakeholder</th>
+    <th>Position</th>
+    <th>Responsibility</th>
+  </tr>
+  <tr>
+    <td>Amira Ellyana binti Jasmin</td>
+    <td>One Stop Parcel Center</td>
+    <td>Management</td>
+    <td>Responsible on managing and ensuring that the parcels arrive in good conditions, grouped the parcels in category and labelled for easier finding in their database</td>
+  </tr>
+    <tr>
+    <td>Syazwan bin Saad</td>
+    <td>One Stop Parcel Center</td>
+    <td>Head of Management</td>
+  <td>Responsible on managing the staffs, ensuring smooth operations, and manage the budget as well. Also responsible on making sure that the informations stated at the parcel and the data is well protected and secure</td>
+  </tr>
+   <tr>
+    <td>Johnny Sii How Yong</td>
+    <td>KTDI Student</td>
+    <td>Deliver guy</td>
+    <td> Should handle packages with care, ensuring they are properly secured and protected during transportation,ensure that parcels are delivered to the    correct recipients within the specified time frame, verify the recipient's identity or obtain a signature upon delivery, confirming that the package has reached the intended recipient and should ensure the security and confidentiality of the parcels they handle. 
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Nur Hazwani Binti Mohammad Sobri</td>
+    <td>KTHO Student</td>
+    <td>Deliver girl</td>
+    <td> Should handle packages with care, ensuring they are properly secured and protected during transportation,ensure that parcels are delivered to the    correct recipients within the specified time frame, verify the recipient's identity or obtain a signature upon delivery, confirming that the package has reached the intended recipient and should ensure the security and confidentiality of the parcels they handle. 
+    </td>
+  </tr>
+  
+</table>
 
 ## 8. Documentations:
 | No | Name |File | 
