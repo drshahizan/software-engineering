@@ -89,7 +89,7 @@ Don't forget to hit the :star: if you like this repo.
 ![_28_2](https://github.com/drshahizan/software-engineering/assets/128159572/0ee9f999-8fe4-43d2-b5c0-1fe7addb4f56)
 ![_29](https://github.com/drshahizan/software-engineering/assets/128159572/a6791923-ea96-4980-a164-1e8337281deb)
 ![30](https://github.com/drshahizan/software-engineering/assets/128159572/95b4ad87-b4fa-4380-82fe-247f659f5b2e)
-![32](https://github.com/drshahizan/software-engineering/assets/128159572/3edee296-7838-4925-b81d-321caf8bcdcf)
+![Project SE (8)](https://github.com/drshahizan/software-engineering/assets/128159572/d4e45c8d-a90f-479b-9a3f-58203e8d5ae7)
 ![33](https://github.com/drshahizan/software-engineering/assets/128159572/bad3e89c-1d68-41df-9808-24d9bc8f6156)
 ![low](https://github.com/drshahizan/software-engineering/assets/128159572/89bace39-a624-4556-a11b-f09b59b30ee6)
 ![high](https://github.com/drshahizan/software-engineering/assets/128159572/9f98cbdd-5283-4ada-8ed8-2a9a7744a6d9)
