@@ -264,11 +264,14 @@ Don't forget to hit the :star: if you like this repo.
 #### Home Screen:
 <img src="img/design-system2.jpg" alt="home" height="600px"></img>
 
-#### Flow for JKM KTDI and KTDI Staff:
-<img src="img/design-system3.jpg" alt="jkmstaff" height="600px"></img>
+#### Flow for JKM KTDI:
+<img src="img/design-system3.jpg" alt="jkm" height="600px"></img>
+
+#### Flow for KTDI Staff:
+<img src="img/design-system4.jpg" alt="jkmstaff" height="600px"></img>
 
 #### Flow for Students:
-<img src="img/design-system4.jpg" alt="students" height="600px"></img>
+<img src="img/design-system5.jpg" alt="students" height="600px"></img>
 
 
 ### 6. Challenges
@@ -277,55 +280,31 @@ Don't forget to hit the :star: if you like this repo.
 <img src="img/challenges1.jpg" alt="staff" height="600px"></img>
 
 ## Testing and Quality Assurance
+<img src="img/testing.jpg" height="600px"></img>
+
 ### Testing ⚒️
-- <b>Aim:</b> to identify any defects, errors, or issues that may impact its functionality, usability, security, or performance.
-- <b>Process:</b> designing and executing test cases, listing the detailed steps on each test case, and comparing the actual results with the expected results.
-- <b>Strategy or Technique involved:</b> Black box testing with boundary value analysis (BVA) and equivalence partitioning (EP) techniques.
-  <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/testing_pic.png?raw=true" alt="test" height="500px"></img>
--	<b>Method:</b> execute each test case manually
--	<b>Type of Testing involved:</b> Unit testing.
--	<b>Goal:</b> to identify and fix defects at the earliest stage possible.
-  <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/unit_testing.png?raw=true" alt="unit_test" height="500px"></img>
+<img src="img/testing1.jpg" height="600px"></img>
 
 ### Quality Assurance 🔖
-To ensure the reliability and robustness of the KTDI Event Management system, we have implemented several quality assurance processes.
-1.	<b>Requirement analysis and validation:</b> We have conducted requirement analysis and validated the requirements through discussions to ensure they are clear, complete, and aligned with the stakeholders' expectations.
-2.	<b>Test planning and strategy:</b> We have developed a comprehensive test plan and strategy by defining the testing approach and techniques to be used to ensure that the testing process is organized and covers all critical aspects of the system.
-3.	<b>Test case development:</b> We have designed and developed test cases that cover all functional and non-functional aspects of the event management system to ensure comprehensive coverage.
-4.	<b>Document creation:</b> We have created comprehensive system documentation, including SRS, SDD and STD to ensure the performance of our system will always be optimized.
-5.	<b>Continuous improvement:</b> We are continuously gathering feedback from users and stakeholders in order to identify areas for improvement and also enhance the quality and reliability of our system.
-
+<img src="img/quality1.jpg" height="600px"></img>
 
 ## Results and Achievements
+<img src="img/resukts.jpg" height="600px"></img>
 ### 1. Project Outcome: Figma Prototype
-<a href="https://www.figma.com/proto/j19tAaFoStbu6fxeleYlf3/KTDI-Event-Management-System?page-id=27%3A7&type=design&node-id=24-85&viewport=326%2C-303%2C0.04&scaling=scale-down&starting-point-node-id=24%3A85&mode=design"><img src="img/figma.jpg" width="70px" height="70px" ></a>
+<a href="https://www.figma.com/proto/j19tAaFoStbu6fxeleYlf3/KTDI-Event-Management-System?page-id=27%3A7&type=design&node-id=24-85&viewport=326%2C-303%2C0.04&scaling=scale-down&starting-point-node-id=24%3A85&mode=design"><img src="img/figma.jpg" width="100px" height="100px" ></a>
 
 
 ### 2. Quantitative / Qualitative Data Demonstrating Success 🎯
-#### Quantitative data:
-- **Increase in event registrations:** Before implementing the system, the average number of event registrations per semester was 200. After the system was implemented, the average increased to 350, indicating a 75% increase in event participation.
-- **Reduction in event clashes:** Before the system implementation, there were 4 instances of event clashes per semester. After implementing the system, the number decreased to 1, demonstrating an 75% reduction in event clashes.
-- **Time saved in event preparation:** With the system in place, the time spent on event preparation decreased by an average of 30%, resulting in an estimated 10 hours of saved time per event.
-
-#### Qualitative data:
-- **User satisfaction:** JKM KTDI members, KTDI staff, and students expressed high satisfaction with the system, highlighting its user-friendly interface, improved effectiveness of event preparation, and ease of event registration.
-- **Improved communication:** Feedback from stakeholders indicated that the system significantly enhanced communication between JKM KTDI, staff members, and students. Information was more readily accessible, reducing confusion and improving coordination among team members.
-- **Merit point accuracy:** JKM KTDI members confirmed that the automated merit point calculation accurately reflected students' activities, ensuring fair determination of their active quota for hostel booking.
+#### Quantitative and Qualitative data:
+<img src="img/results.jpg" height="600px"></img>
 
 
 ### 3. Feedback from stakeholders 📝
-- **JKM KTDI Member:**
-"The Event Management System has greatly simplified our tasks and improved team coordination. The centralized platform for event planning and task delegation has eliminated the need for multiple meetings and reduced manual errors. It has made our work more efficient and streamlined."
-
-- **KTDI Staff Member:**
-"The system has been a game-changer for event management at KTDI. It has provided us with a clear overview of all upcoming events and allowed us to avoid event clashes. The automated merit point calculation has also saved us a significant amount of time. We are extremely satisfied with the system's performance and its impact on our daily operations."
-
-- **Student:**
-"Finding and registering for college events has become so much easier with the KTDI Event Management System. The user-friendly interface and event calendar have made it simple to keep track of upcoming activities. I appreciate the system's ability to provide event details, registration forms, and feedback options all in one place."
+<img src="img/feedback.jpg" height="600px"></img>
+<img src="img/feedback1.jpg" height="600px"></img>
 
 
 ## Conclusion
-
 <img src="img/conclusion.jpg" height="600px" >
 
 <img src="img/conclusion1.jpg" height="600px" >
