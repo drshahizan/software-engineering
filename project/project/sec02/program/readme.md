@@ -219,7 +219,8 @@ UI/UX For Administrator
 ![Screenshot (282)](https://github.com/drshahizan/software-engineering/assets/128212534/1dcdaa8a-1730-41fb-b467-4340872b243f)
 
 Achievements
-![Academic consultation system](https://github.com/drshahizan/software-engineering/assets/128212534/8ffdc2fd-da48-41b8-bb81-cbd5afb9331a)
+![11](https://github.com/drshahizan/software-engineering/assets/128212534/11777cb7-3f25-430a-a6d1-e63cc5bf4cbf)
+
 
 ## 6. Prototype
 | No | Name |File | 
@@ -237,15 +238,9 @@ Achievements
 |4| Document STD| <a href="https://docs.google.com/document/d/1O9BgazCy0P2WQckn1uQQ2f2tliQre5_6zR4EDoSp1wY/edit?usp=sharing" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/docx-9.png" width="24px" height="24px" ></a>|
 
 ## 8. Conclusion
-In conclusion, the development and implementation of the Academic Consultation System have provided valuable insights and lessons learned. Throughout this project, we encountered several challenges, but through effective collaboration and problem-solving, we were able to overcome them and achieve our objectives.
+![image](https://github.com/drshahizan/software-engineering/assets/128212534/a643f009-6562-4c54-99a2-20f478fa43b9)
+![13](https://github.com/drshahizan/software-engineering/assets/128212534/7768200e-bb92-4b5e-8a50-82cc428ff617)
 
-One of the main lessons learned from this project is the importance of stakeholder engagement and feedback. By actively involving students and lecturers in the design and testing phases, we gained valuable insights into their specific needs and preferences. This iterative approach allowed us to fine-tune the system and tailor it to meet their requirements, resulting in a more user-friendly and effective platform.
-
-Additionally, we recognized the significance of addressing technical challenges during the development process. From ensuring seamless integration with existing systems to optimizing performance and scalability, our team invested considerable effort in overcoming technical obstacles. Through thorough testing and continuous improvement, we were able to create a robust and reliable Academic Consultation System.
-
-Looking forward, there are several areas where the system can be further enhanced. First, incorporating data analytics capabilities can provide valuable insights into student consultation patterns, enabling administrators and lecturers to identify trends and proactively address student needs. Second, integrating additional communication channels, such as video conferencing or chat functionality, can offer more flexibility and convenience for consultations. Lastly, expanding the system's accessibility by developing mobile applications or responsive design can cater to the evolving needs and preferences of users.
-
-In conclusion, the development and implementation of the Academic Consultation System have proven to be a transformative endeavor, providing students with personalized academic support, enabling lecturers to engage with students more effectively, and fostering a conducive learning environment. By reflecting on the challenges faced and embracing continuous improvement, we are confident that the system will have a lasting impact on student success and serve as a valuable resource within our academic institution.
  
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
