@@ -34,13 +34,6 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-## Documentation
-| No | Name |File | 
-| -----:| ----- | :------: | 
-|1| Document SRS| <a href="https://docs.google.com/document/d/1SVXydTjl-7bWs_2QEXZc8l11XHcp8jw3" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Document SDD| <a href="https://docs.google.com/document/d/1W1x0oqTvwYGFxdoNChM5-ybu_OKQI4jUeotlEEBs560" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|3| Document STD| <a href="https://docs.google.com/document/d/1YpbgimonDKQwNtbctKyVZZjjHt4PfW1Z/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-
 ## Stakeholder
 <table>
   <tr>
@@ -167,10 +160,10 @@ Integration and Testing: We integrated the various software components of the KT
 Deployment and User Training: Once the system passed testing, it was deployed to the mini mart's infrastructure, and user training sessions were conducted for mini mart staff. This ensured that staff members were proficient in using the system to perform their roles effectively.
 
 
-####Use case Diagram
+#### Use case Diagram
 ![diagram](https://github.com/drshahizan/software-engineering/assets/128206862/86bc2562-9387-4213-bcfb-3c902811518b)
 
-####Class diagram
+#### Class diagram
 
 ![classdiagram](https://github.com/drshahizan/software-engineering/assets/128206862/37c32588-f6ad-4e22-9069-f4dd01c08fc1)
 
@@ -251,11 +244,20 @@ The successful implementation of the KTDI Minimart System showcases our ability 
 
 Overall, the KTDI Minimart Project has been a valuable and fulfilling experience, allowing us to apply our skills, learn, and make a positive impact. It serves as a testament to our dedication, teamwork, and commitment to excellence. We are proud of our accomplishments and look forward to future opportunities to contribute to society through our knowledge and expertise.
 
-Prototype:
+## 7. Prototype:
 
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Prototype Main Menu | <a href="https://www.figma.com/file/0lFbiZOhr0WmPYLxyT6NOh/KTDI-Mini-Mart-App?type=design&mode=design&t=j8UJMM6orUabA2YB-0" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
+|1| Prototype Main Menu | <a href="https://www.figma.com/file/0lFbiZOhr0WmPYLxyT6NOh/KTDI-Mini-Mart-App?type=design&node-id=1169%3A1435&mode=design&t=eoJyjvstKSCXNTGW-1" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
+
+## 8. Documentations:
+
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Proposal | <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/Allen" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Book-icon2.png/640px-Book-icon2.png" width="24px" height="24px" ></a>|
+|2| SRS | <a href="https://docs.google.com/document/d/1SVXydTjl-7bWs_2QEXZc8l11XHcp8jw3/edit" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Book-icon2.png/640px-Book-icon2.png" width="24px" height="24px" ></a>|
+|3| SDD | <a href="https://docs.google.com/document/d/1W1x0oqTvwYGFxdoNChM5-ybu_OKQI4jUeotlEEBs560/edit" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Book-icon2.png/640px-Book-icon2.png" width="24px" height="24px" ></a>|
+|4| STD | <a href="https://docs.google.com/document/d/1YpbgimonDKQwNtbctKyVZZjjHt4PfW1Z/edit" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Book-icon2.png/640px-Book-icon2.png" width="24px" height="24px" ></a>|
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
@@ -264,6 +266,3 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
-
-
