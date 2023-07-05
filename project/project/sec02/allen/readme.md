@@ -89,6 +89,7 @@ Don't forget to hit the :star: if you like this repo.
 | 14 | 12/06/2023 | All Members | Project Members | Scrum Meeting 2| Complete |
 | 15 | 20/06/2023 | All Members | Project Members | Create System Documentation (SDD) | Ongoing |
 | 16 | 22/06/2023 | All Members | Project Members | Create System Documentation (STD) | Ongoing |
+| 17 | 28/06/2023 | All Members | Project Members | Project Summary | Ongoing |
 
 
 
@@ -166,10 +167,10 @@ Integration and Testing: We integrated the various software components of the KT
 Deployment and User Training: Once the system passed testing, it was deployed to the mini mart's infrastructure, and user training sessions were conducted for mini mart staff. This ensured that staff members were proficient in using the system to perform their roles effectively.
 
 
-####Use case Diagram
+#### Use case Diagram
 ![diagram](https://github.com/drshahizan/software-engineering/assets/128206862/86bc2562-9387-4213-bcfb-3c902811518b)
 
-####Class diagram
+#### Class diagram
 
 ![classdiagram](https://github.com/drshahizan/software-engineering/assets/128206862/37c32588-f6ad-4e22-9069-f4dd01c08fc1)
 

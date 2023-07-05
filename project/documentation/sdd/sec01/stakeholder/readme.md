@@ -86,7 +86,7 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-## Tasks involved in developing SRC documentation:
+## Tasks involved in developing SDD documentation:
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
@@ -98,12 +98,12 @@ Don't forget to hit the :star: if you like this repo.
 | 6 | 6/06/2023 | All members | Group members | UI prototype | Complete |
 | 7 | 13/06/2023 | Neo Zheng Weng | Project manager | Create SDD template | Complete |
 | 8 | 15/06/2023 | Neo Zheng Weng | Project manager | Distribute SDD tasks | Complete |
-| 9 | 15/06/2023 | All members | Group members | SDD documentation | In progress |
-| 10 | 17/06/2023 | Neo Zheng Weng | System designer | System architectural design | In progress |
-| 11 | 17/06/2023 | Muhammad Danial | Developer assistant | Complete package diagram | In progress |
-| 12 | 17/06/2023 | Joseph Lau Yeo Kai | Main developer | Data design | In progress |
-| 13 | 17/06/2023 | Wong Khai Shian Nicholas | Developer assistant | User interface design | In progress |
-| 14 | 17/06/2023 | Low Jie Sheng | Developer assistant | Detailed description P002/003 | In progress |
+| 9 | 15/06/2023 | All members | Group members | SDD documentation | Complete |
+| 10 | 17/06/2023 | Neo Zheng Weng | System designer | System architectural design | Complete |
+| 11 | 17/06/2023 | Muhammad Danial | Developer assistant | Complete package diagram | Complete |
+| 12 | 17/06/2023 | Joseph Lau Yeo Kai | Main developer | Data design | Complete |
+| 13 | 17/06/2023 | Wong Khai Shian Nicholas | Developer assistant | User interface design | Complete |
+| 14 | 17/06/2023 | Low Jie Sheng | Developer assistant | Detailed description P002/003 | Complete |
 
 
 

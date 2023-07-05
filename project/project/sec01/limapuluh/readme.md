@@ -11,7 +11,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # Activity: Group Limapuluh
 
-<img src="https://i.imgur.com/rYx5Yvw.jpg" alt="img" style="width:500px;height:350px">
+<img src="https://i.imgur.com/rYx5Yvw.jpg" alt="img" style="width:500px;height:350px"> <img src="https://user-images.githubusercontent.com/89129564/240784261-edef2a7c-5f44-4d43-a7a9-a3954fa23359.jpg" alt="img" style="width:500px;height:350px"> <img src="https://user-images.githubusercontent.com/129235577/245982373-827f0039-7d9f-4683-b413-0057ecdf6296.jpg" alt="img" style="width:500px;height:350px"> <img src="https://user-images.githubusercontent.com/129235577/244254046-0462665d-32f8-477b-9f60-f5daff151188.jpg" alt="img" style="width:500px;height:350px"><img src="https://github.com/drshahizan/software-engineering/assets/129196395/00b045a6-ede8-430a-8c7d-5e7967d40227" alt="img" style="width:500px;height:350px">
 
 ## Group Members
 <table>
@@ -107,28 +107,28 @@ Don't forget to hit the :star: if you like this repo.
 | 12. | 20/06/2023 | All members| - | Complete Project Summary | Complete |
 
 ## 1. Introduction:
-The purpose of this project is to develop a student feedback system that allows students to provide feedback on their educational experiences and enables faculty members and administrators to collect, analyze, and take action based on this feedback. The system aims to enhance the overall learning environment by fostering open communication, identifying areas for improvement, and promoting student engagement.
+The purpose of this project is to modify the existing ePPP system and develop a student feedback system that allows students to provide feedback on their educational experiences. The modified system will enable faculty members and administrators to collect, analyze, and take action based on this feedback, thereby enhancing the overall learning environment.
 
 Problem Statement:
 
-In traditional educational settings, obtaining comprehensive and timely feedback from students has often been a challenging and time-consuming process. Feedback mechanisms are often limited to periodic surveys or informal discussions, which may not capture the diverse perspectives and experiences of students. This project aims to address these limitations by providing a centralized platform that enables students to provide feedback in a convenient and structured manner.
+The current feedback mechanisms in the ePPP system are limited and do not capture the diverse perspectives and experiences of students. Obtaining comprehensive and timely feedback has been a challenging and time-consuming process. This project aims to address these limitations by providing a centralized platform that allows students to provide feedback in a convenient and structured manner.
 
 Significance and Potential Impact:
 
-The implementation of a student feedback system has the potential to bring about several significant benefits. Firstly, it promotes a culture of transparency and accountability by facilitating open communication between students and faculty members. This can lead to improvements in teaching methodologies, course materials, and overall educational practices.
+The implementation of the modified student feedback system has several significant benefits. Firstly, it promotes a culture of transparency and accountability by facilitating open communication between students and faculty members. This can lead to improvements in teaching methodologies, course materials, and overall educational practices within the ePPP system.
 
-Secondly, the system provides a valuable source of data for faculty members and administrators to identify trends, patterns, and areas of concern within the educational system. By analyzing the feedback collected, it becomes possible to pinpoint specific issues and take proactive measures to address them, thereby enhancing the learning experience for all students.
+Secondly, the modified system provides valuable data for faculty members and administrators to identify trends, patterns, and areas of concern. By analyzing the feedback collected, it becomes possible to pinpoint specific issues and take proactive measures to address them, thereby enhancing the learning experience for all students using the ePPP system.
 
-Lastly, the student feedback system has the potential to create a positive impact on student engagement and satisfaction. By providing students with a platform to voice their opinions, concerns, and suggestions, it empowers them to actively participate in shaping their educational journey. This fosters a sense of ownership and involvement, leading to increased motivation and a stronger sense of belonging within the academic community.
+Lastly, the student feedback system has the potential to create a positive impact on student engagement and satisfaction within the ePPP system. By providing students with a platform to voice their opinions, concerns, and suggestions, it empowers them to actively participate in shaping their educational journey. This fosters a sense of ownership and involvement, leading to increased motivation and a stronger sense of belonging within the academic community of the ePPP system.
 
-In conclusion, this project aims to develop a student feedback system that addresses the limitations of traditional feedback mechanisms and promotes a culture of continuous improvement within the educational institution. The significance and potential impact of this system lie in its ability to enhance communication, drive positive change, and create a more engaging and satisfying learning environment for students.
+In conclusion, this project aims to modify the ePPP system and develop a student feedback system that overcomes the limitations of traditional feedback mechanisms. The significance and potential impact of this system lie in its ability to enhance communication, drive positive change, and create a more engaging and satisfying learning environment for students using the ePPP system.
 
 ## 2. Methodology:
 Requirement Analysis:
 Gather requirements by conducting interviews and meetings with stakeholders, including students, faculty, and administrative staff.
 Identify the key features and functionalities of the Student Feedback System.
 
-Document the requirements in a clear and concise manner.
+<img src="https://github.com/drshahizan/software-engineering/assets/129196395/8bed095e-0504-46bd-b222-10d134093114" alt="img" style="width:500px;height:350px">
 
 System Design:
 Design the overall system architecture and modules based on the identified requirements.
@@ -140,7 +140,7 @@ Development:
 Select a suitable software development life cycle model, such as Agile, to guide the development process.
 Break down the project into smaller tasks or user stories.
 Prioritize the tasks and create a development roadmap.
-Implement the system using a programming language (e.g., Python, Java, or .NET) and relevant technologies.
+Implement the system using a programming language and relevant technologies.
 
 Testing:
 Conduct comprehensive testing to ensure the system functions as intended.
@@ -164,7 +164,9 @@ Release updates and new features based on user feedback and evolving requirement
 Software Development Life Cycle Model:
 For the University Technology Malaysia Student Feedback System project, the Agile software development methodology will be adopted. Agile emphasizes iterative and incremental development, allowing for flexibility and adaptability throughout the project. It involves frequent collaboration with stakeholders and prioritizes delivering working software in short cycles known as sprints.
 
-Agile allows for continuous feedback and enables the development team to respond to changing requirements effectively. It promotes close collaboration between developers, testers, and end-users, resulting in a high-quality system that aligns with the stakeholders' expectations.
+<img src="https://www.credencys.com/wp-content/uploads/2023/02/Agile-Methodologyin-Software-Development.png">
+
+Agile allows for continuous feedback and enables the development team to respond to changing requirements effectively. It promotes close collaboration between developers, testers, and end-users,such as doing scrum meeting to result in a high-quality system that aligns with the stakeholders' expectations.
 
 Tools, Technologies, and Frameworks:
 The choice of tools, technologies, and frameworks will depend on the specific requirements and preferences of the project team. However, some commonly used tools and technologies for developing web-based systems like the University Technology Malaysia Student Feedback System may include:
@@ -255,7 +257,7 @@ Design System & Typography:
 ![image](https://github.com/drshahizan/software-engineering/assets/129235577/a9720ae1-f289-4bef-88da-ec58e1814be2)
 
 ### C) The challenges faced during the implementation phase:
-- Integration Issues: As different team members worked on separate modules, integrating all theindividual components posed challenges. We addressed this by regularly conducting integration testing and maintaining clear communication among team members by doing scrumpt meetings to ensure seamless integration.
+- Integration Issues: As different team members worked on separate modules, integrating all the individual components posed challenges. We addressed this by regularly conducting integration testing and maintaining clear communication among team members by doing scrumpt meetings to ensure seamless integration.
 - Changing Requirements: Throughout the implementation phase, there were instances where the requirements evolved or changed. We addressed this challenge by maintaining flexibility in our design and implementation, embracing agile methodologies, and having open communication with the project stakeholders to adapt to the changing requirements.
 
 ## 4. Testing and Quality Assurance:
@@ -301,15 +303,15 @@ We collected both quantitative and qualitative data during the evaluation proces
 During the evaluation process, we actively sought feedback from various stakeholders, including students, lecturers, and administrators, to gauge their opinions and gather valuable insights. Students expressed their appreciation for the Student Feedback System, highlighting its user-friendly interface, accessibility across devices, and seamless submission process. They emphasized the system's contribution to their ability to provide detailed and timely feedback, leading to a more enriching learning experience. Lecturers found the system to be a valuable tool in understanding student perspectives, facilitating improvements in their teaching methodologies, and identifying areas for course refinement. They praised the system's comprehensive analytics and reporting capabilities, which provided them with actionable insights and helped them make data-driven decisions. Administrators recognized the Student Feedback System as an effective means of measuring teaching effectiveness and gauging student satisfaction. They lauded its ability to generate detailed reports and aggregate feedback, enabling them to identify trends and implement targeted interventions. The feedback received from these stakeholders played a pivotal role in refining and enhancing the system, ensuring its alignment with the unique requirements and expectations of each user group.
 
 ## 6. Conclusion:
-Throughout the course of this project, we have successfully developed a student feedback system that has the potential to greatly enhance the educational experience within our institution. The journey has been a valuable learning experience, allowing us to gain insights into the complexities of developing and implementing a system that addresses the needs of both students and faculty members.
+Throughout the course of this project, we have successfully modified the ePPP system and developed a student feedback system that has the potential to greatly enhance the educational experience within our institution. This journey has been a valuable learning experience, allowing us to gain insights into the complexities of developing and implementing a system that addresses the needs of both students and faculty members.
 
-One of the main challenges we encountered was designing a user-friendly interface that caters to the diverse range of users, including students, lecturers, and administrators. Through user testing and feedback, we were able to iterate on the design and create an intuitive interface that meets the requirements of all stakeholders. Additionally, ensuring data security and privacy was a priority throughout the development process, and we implemented robust measures to protect sensitive information.
+One of the main challenges we encountered was designing a user-friendly interface that caters to the diverse range of users, including students, lecturers, and administrators. Through user testing and feedback, we were able to iterate on the design and create an intuitive interface that meets the requirements of all stakeholders. Additionally, ensuring data security and privacy remained a priority throughout the development process, and we implemented robust measures to protect sensitive information.
 
 The project also provided us with valuable insights into the importance of effective communication and collaboration within a team. Regular meetings, clear task allocation, and open discussions allowed us to overcome challenges and ensure the smooth progression of the project. We learned the importance of adaptability and flexibility in the face of changing requirements and unexpected hurdles.
 
 Looking forward, there are several areas where the student feedback system can be further improved. Firstly, incorporating advanced analytics and data visualization tools can provide more comprehensive insights and aid in decision-making processes. Additionally, expanding the system to support multi-platform accessibility, such as mobile devices, would further enhance user convenience and engagement. Furthermore, continuous monitoring and evaluation of the system's performance and user satisfaction will enable us to address any emerging issues and implement necessary refinements.
 
-In conclusion, this project has been a rewarding experience that has equipped us with valuable technical and teamwork skills. The student feedback system we have developed holds immense potential to foster a culture of continuous improvement, open communication, and student-centered education. By reflecting on the challenges we faced and the lessons we learned, we are confident in the positive impact this system will have on the overall educational experience within our institution. We remain committed to further refining and expanding the system to meet the evolving needs and expectations of our users.
+In conclusion, this project has been a rewarding experience that has equipped us with valuable technical and teamwork skills. The student feedback system we have developed holds immense potential to foster a culture of continuous improvement, open communication, and student-centered education within our institution. By reflecting on the challenges we faced and the lessons we learned, we are confident in the positive impact this system will have on the overall educational experience. We remain committed to further refining and expanding the system to meet the evolving needs and expectations of our users, ensuring a seamless and enriching feedback process for all stakeholders involved.
 
 ## 7. Prototype:
 

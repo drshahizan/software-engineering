@@ -75,13 +75,13 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 19/06/2023| Farah | Main Developer | Create STD Document | Incomplete |
-| 2 | 19/06/2023 | Farah, Salini, Aleysha, Sabrina   | all members | Discuss on STD documentation | Incomplete |
-| 3 | 19/06/2023 | Farah  | Main Developer | Distribute task | Incomplete |
-| 4 | 22/06/2023 | Aleysha | Quality Assurance Engineer & Assistant Developer | Create test cases | Incomplete |
-| 5 | 22/06/2023 | Salini | Business Analyst & UI/UX Designer | Create test procedures | Incomplete | 
-| 6 | 23/06/2023 | Sabrina | Documentation Specialist & Assistant Developer | Create test results | Incomplete | 
-| 7 | 23/06/2023 | Farah | Main Developer | Create traceability matrix | Incomplete | 
+| 1 | 19/06/2023| Farah | Main Developer | Create STD Document | Complete |
+| 2 | 19/06/2023 | Farah, Salini, Aleysha, Sabrina   | all members | Discuss on STD documentation | Complete |
+| 3 | 19/06/2023 | Farah  | Main Developer | Distribute task | Complete |
+| 4 | 22/06/2023 | Aleysha | Quality Assurance Engineer & Assistant Developer | Create test cases | Complete |
+| 5 | 22/06/2023 | Salini | Business Analyst & UI/UX Designer | Create test procedures | Complete | 
+| 6 | 23/06/2023 | Sabrina | Documentation Specialist & Assistant Developer | Create test results | Complete | 
+| 7 | 23/06/2023 | Farah | Main Developer | Create traceability matrix | Complete | 
 | 8 | 24/06/2023 | Sabrina | Documentation Specialist & Assistant Developer | Finalize the STD | Incomplete | 
 | 9 | |  |    |  | | 
 | 10 |  |  |   |  | | 
