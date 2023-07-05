@@ -9,6 +9,10 @@
 | 4 | System Test Descriptions (STD)| <a href="https://docs.google.com/document/d/1Yt3tCnSIXsN3v5-A7byXm0uLhwLEIxawGTR2LrUj7L8/edit"><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px"></a> | 
 | 5 | Figma |  <a href="https://www.figma.com/file/xoLv2jya85swQCl30HYeFQ/Student-Engagement-System-Design?type=design&node-id=65-1843&mode=design&t=rtAtprcK5GmkKs3P-0" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/9351bd712f05648b3c117eec85186a261de98c92/project/project/sec01/curiousity/img/figma.svg" width="24px" height="24px" ></a> |  
 
+## Link to Presentation
+https://docs.google.com/presentation/d/16SgsDvl8idsYkd5b54facOLDETNoXA7OtwZUe_F1Edw/edit?usp=sharing
+
+## Slides
 ![1](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0001.jpg)
 ![2](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0002.jpg)
 ![3](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0003.jpg)
@@ -45,8 +49,6 @@
 ![34](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0034.jpg)
 ![35](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0035.jpg)
 
-## Link to Presentation
-https://docs.google.com/presentation/d/16SgsDvl8idsYkd5b54facOLDETNoXA7OtwZUe_F1Edw/edit?usp=sharing
 
 <!---## Group Members
 <table>
