@@ -33,7 +33,8 @@ Don't forget to hit the :star: if you like this repo.
 * [Potential Impact](#4-potential-impact)
 * [Methodology](#methodology)
 * [Implementation](#implementation)
-* [Timeline process](#1-timeline-process)
+* [Timeline process]
+(#1-timeline-process)
 * [Requirement collection](#2-requirement-collection)
 * [Software components & modules](#3-software-components--modules)
 * [Design phase](#4-design-phase)
@@ -65,7 +66,6 @@ Don't forget to hit the :star: if you like this repo.
 
 ### Software development life cycle model: Agile Process Model
 <img src="img/methodology1.jpg" height="600px" >
-<img src="img/methodology2.jpg" height="600px" >
 
 ### Specific Tools, Technologies, and Frameworks
 <table style="border-collapse: collapse;">
@@ -209,6 +209,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ### 2. Requirement collection
 <img src="img/reqcollection.jpg" height="600px" >
+
 
 #### Meeting with JKM KTDI (Hanie Azyuni binti Mazle) 
 <img src="img/stakeholder1.jpg" height="600px" >
