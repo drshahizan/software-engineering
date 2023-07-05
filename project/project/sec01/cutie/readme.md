@@ -152,7 +152,8 @@ Our team conducted meetings with our stakeholders to understand their requiremen
   </tr>
 </table>
 </li>
-![meeting wif zh](https://github.com/drshahizan/software-engineering/assets/129287788/b942c960-ba8e-4e89-8d7f-ecaeab7c9c58)
+
+![zhmeeting](https://github.com/drshahizan/software-engineering/assets/129287788/a0776b60-b517-4396-98f5-c58c1987e483)
 <li><b>System Design : </b><br>
 Our team had collaborated with our stakeholders to create a system design that aligned with their requirements. We had defined the system architecture, including the backend, database, and user interface components. We had also created high-level and detailed design documentation, specifying the system’s modules, their interactions, and data flow.
 
