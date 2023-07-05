@@ -11,29 +11,8 @@ Don't forget to hit the :star: if you like this repo.
 
 # Activity: Group Engineering
 <img src="image/1.jpg" height="600px" >
-## Group Members
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Role</th>
-  </tr>
-  <tr>
-    <td>1 . Nurul Erina binti Zainuddin</td>
-    <td>Project Manager</td>
-  </tr>
-    <tr>
-    <td>2 . Nik Zulaikhaa Binti Zuraidi Afandi </td>
-    <td>Software Architect</td>
-  </tr>
-    <tr>
-    <td>3 . Thevan Raju A/L Jeganath</td>
-    <td>Front-end Developer</td>
-  </tr>
-    <tr>
-    <td>4 . Aliatul Izzah Binti Jasman</td>
-    <td>Back-end Developer</td>
-  </tr>
-</table>
+
+<img src="image/2.jpg" height="600px" >
 
 ## Stakeholder
 One Stop Parcel Center 
