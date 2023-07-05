@@ -2,6 +2,9 @@
 ![1](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Exported%20Slide/Slide1.JPG)
 ![2](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Exported%20Slide/Slide2.JPG)
 ![3](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Exported%20Slide/Slide3.JPG)
+![4](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Exported%20Slide/Slide4.JPG)
+![5](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Exported%20Slide/Slide5.JPG)
+![6](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Exported%20Slide/Slide6.JPG)
 
 
 <!---## Group Members
