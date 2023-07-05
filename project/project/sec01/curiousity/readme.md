@@ -227,7 +227,7 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ### 3. Software components & modules
-- Provide an overview of the software components or modules developed.
+<img src="img/software-components.jpg" height="600px" >
 
 #### Component Diagram:
 <img src="img/component-diagram.jpg" alt="component" height="600px"></img>
@@ -266,9 +266,9 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ### 6. Challenges
-<img src="img/challenges.png" alt="staff" height="600px"></img>
+<img src="img/challenges.jpg" alt="staff" height="600px"></img>
 
-<img src="img/challenges1.png" alt="staff" height="600px"></img>
+<img src="img/challenges1.jpg" alt="staff" height="600px"></img>
 
 ## Testing and Quality Assurance
 ### Testing ⚒️
