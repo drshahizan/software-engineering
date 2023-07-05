@@ -81,7 +81,7 @@ Don't forget to hit the :star: if you like this repo.
 |6| Use Case Diagram| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/drawio/Alpha/useCase.drawio.png" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/fa23f96100aedccb8c634fba496ebcfc9968b9ee/images/drawio.svg" width="24px" height="24px" ></a>|
 |7| Related Documents/Resources | <a href="https://drive.google.com/drive/folders/1ERPd7xwwLWaI4YWpnOIB1q48y3nP6lFU" ><img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg" width="24px" height="24px" ></a>|
 |8| Project Timeline| <a href="https://github.com/users/drshahizan/projects/18/views/1" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
-|9| Project Presentation PDF| <a href="" ><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="24px" height="24px" ></a>|
+|9| Project Presentation PDF| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM.pdf" ><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="24px" height="24px" ></a>|
 
 ## Design Phase
 | No | Name |File | 
