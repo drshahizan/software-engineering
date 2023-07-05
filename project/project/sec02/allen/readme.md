@@ -34,13 +34,6 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
-## Documentation
-| No | Name |File | 
-| -----:| ----- | :------: | 
-|1| Document SRS| <a href="https://docs.google.com/document/d/1SVXydTjl-7bWs_2QEXZc8l11XHcp8jw3" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Document SDD| <a href="https://docs.google.com/document/d/1W1x0oqTvwYGFxdoNChM5-ybu_OKQI4jUeotlEEBs560" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|3| Document STD| <a href="https://docs.google.com/document/d/1YpbgimonDKQwNtbctKyVZZjjHt4PfW1Z/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-
 ## Stakeholder
 <table>
   <tr>
@@ -251,11 +244,23 @@ The successful implementation of the KTDI Minimart System showcases our ability 
 
 Overall, the KTDI Minimart Project has been a valuable and fulfilling experience, allowing us to apply our skills, learn, and make a positive impact. It serves as a testament to our dedication, teamwork, and commitment to excellence. We are proud of our accomplishments and look forward to future opportunities to contribute to society through our knowledge and expertise.
 
-Prototype:
+## 7. Prototype:
 
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Prototype Main Menu | <a href="https://www.figma.com/file/0lFbiZOhr0WmPYLxyT6NOh/KTDI-Mini-Mart-App?type=design&mode=design&t=j8UJMM6orUabA2YB-0" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
+|1| Prototype Main Menu | <a href="https://www.figma.com/proto/aKf4uX8pu5sRzju2a2GI15/Student-Feedback-System-Design?type=design&node-id=29-2&scaling=scale-down&page-id=21%3A2&starting-point-node-id=29%3A2" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
+|2| Prototype Student | <a href="https://www.figma.com/proto/aKf4uX8pu5sRzju2a2GI15/Student-Feedback-System-Design?type=design&node-id=69-130&scaling=scale-down&page-id=3%3A32&starting-point-node-id=69%3A130" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
+|3| Prototype Lecturer | <a href="https://www.figma.com/proto/aKf4uX8pu5sRzju2a2GI15/Student-Feedback-System-Design?type=design&node-id=138-30&scaling=scale-down&page-id=18%3A3&starting-point-node-id=138%3A30" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
+|4| Prototype Administrator | <a href="https://www.figma.com/proto/aKf4uX8pu5sRzju2a2GI15/Student-Feedback-System-Design?type=design&node-id=174-99&scaling=min-zoom&page-id=18%3A2&starting-point-node-id=174%3A99" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
+
+## 8. Documentations:
+
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Proposal | <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec01/Limapuluh" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Book-icon2.png/640px-Book-icon2.png" width="24px" height="24px" ></a>|
+|2| SRS | <a href="https://docs.google.com/document/d/1K3_CkCSf5IU8hNavu1Bdei6vOGWvDCpo/edit" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Book-icon2.png/640px-Book-icon2.png" width="24px" height="24px" ></a>|
+|3| SDD | <a href="https://github.com/drshahizan/software-engineering/blob/main/project/documentation/sdd/sec01/limapuluh/Limapuluh_SDD_V1.0.pdf" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Book-icon2.png/640px-Book-icon2.png" width="24px" height="24px" ></a>|
+|4| STD | <a href="https://github.com/drshahizan/software-engineering/blob/main/project/documentation/std/sec01/limapuluh/Limapuluh_STD_V1.0.pdf" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Book-icon2.png/640px-Book-icon2.png" width="24px" height="24px" ></a>|
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
@@ -264,6 +269,3 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
-
-
