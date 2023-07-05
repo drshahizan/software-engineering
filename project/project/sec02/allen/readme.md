@@ -248,10 +248,7 @@ Overall, the KTDI Minimart Project has been a valuable and fulfilling experience
 
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Prototype Main Menu | <a href="https://www.figma.com/proto/aKf4uX8pu5sRzju2a2GI15/Student-Feedback-System-Design?type=design&node-id=29-2&scaling=scale-down&page-id=21%3A2&starting-point-node-id=29%3A2" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
-|2| Prototype Student | <a href="https://www.figma.com/proto/aKf4uX8pu5sRzju2a2GI15/Student-Feedback-System-Design?type=design&node-id=69-130&scaling=scale-down&page-id=3%3A32&starting-point-node-id=69%3A130" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
-|3| Prototype Lecturer | <a href="https://www.figma.com/proto/aKf4uX8pu5sRzju2a2GI15/Student-Feedback-System-Design?type=design&node-id=138-30&scaling=scale-down&page-id=18%3A3&starting-point-node-id=138%3A30" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
-|4| Prototype Administrator | <a href="https://www.figma.com/proto/aKf4uX8pu5sRzju2a2GI15/Student-Feedback-System-Design?type=design&node-id=174-99&scaling=min-zoom&page-id=18%3A2&starting-point-node-id=174%3A99" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
+|1| Prototype Main Menu | <a href="[https://www.figma.com/proto/aKf4uX8pu5sRzju2a2GI15/Student-Feedback-System-Design?type=design&node-id=29-2&scaling=scale-down&page-id=21%3A2&starting-point-node-id=29%3A2](https://www.figma.com/file/0lFbiZOhr0WmPYLxyT6NOh/KTDI-Mini-Mart-App?type=design&node-id=1169%3A1435&mode=design&t=eoJyjvstKSCXNTGW-1)" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
 
 ## 8. Documentations:
 
