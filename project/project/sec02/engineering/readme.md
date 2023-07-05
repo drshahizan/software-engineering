@@ -106,13 +106,8 @@ Don't forget to hit the :star: if you like this repo.
     <th>Position</th>
     <th>Responsibility</th>
   </tr>
-  <tr>
-    <td>Amira Ellyana binti Jasmin</td>
-    <td>One Stop Parcel Center</td>
-    <td>Management</td>
-    <td>Responsible on managing and ensuring that the parcels arrive in good conditions, grouped the parcels in category and labelled for easier finding in their database</td>
-  </tr>
-    
+
+
 
   
   
