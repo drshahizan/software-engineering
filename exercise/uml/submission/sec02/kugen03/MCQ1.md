@@ -7,14 +7,14 @@
 **Section:02**
 
 ## Answer
-1.B
-2.C
-3.C
-4.B
-5.B
-6.D
-7.C
-8.B
-9.D
-10.B
+1.B<br>
+2.C<br>
+3.C<br>
+4.B<br>
+5.B<br>
+6.D<br>
+7.C<br>
+8.B<br>
+9.D<br>
+10.B<br>
 
