@@ -83,9 +83,9 @@ Don't forget to hit the :star: if you like this repo.
 | 12 | 05/06/2023 | All Members | Project Members | Create design of the system | Complete |
 | 13 | 05/06/2023 | All Members | Project Members | Scrum Meeting| Complete |
 | 14 | 12/06/2023 | All Members | Project Members | Scrum Meeting 2| Complete |
-| 15 | 20/06/2023 | All Members | Project Members | Create System Documentation (SDD) | Ongoing |
-| 16 | 22/06/2023 | All Members | Project Members | Create System Documentation (STD) | Ongoing |
-| 17 | 28/06/2023 | All Members | Project Members | Project Summary | Ongoing |
+| 15 | 20/06/2023 | All Members | Project Members | Create System Documentation (SDD) | Complete |
+| 16 | 22/06/2023 | All Members | Project Members | Create System Documentation (STD) | Complete |
+| 17 | 28/06/2023 | All Members | Project Members | Project Summary | Complete |
 
 
 
