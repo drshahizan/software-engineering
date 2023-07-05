@@ -73,7 +73,7 @@ Don't forget to hit the :star: if you like this repo.
 ## All Documentation
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Proposal| <a href="https://github.com/drshahizan/software-engineering/blob/main/proposal/materials/groups.md" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
+|1| Proposal| <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/Alpha" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
 |2| SRS Documentation| <a href="https://drive.google.com/drive/folders/13ORkXGqhQvWlCVeE8A95KMH4q6KokaPY" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
 |3| SDD Documentation| <a href="https://docs.google.com/document/d/1BpR_R0cggi0d6TTINGjbK67qb-gE-hvnIOiUzpvXb90/edit" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
 |4| STD Documentation| <a href="https://docs.google.com/document/d/1CRnKd_Ki_7D9XXST1HG627Bahwv80qcfQonZ4v4X-pY/edit" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
