@@ -10,7 +10,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Activity: Group Engineering
-
+<img src="image/1.jpg" height="600px" >
 ## Group Members
 <table>
   <tr>
