@@ -44,30 +44,28 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Project Summary
 
-<img src="Screenshot 2023-07-05 222813.png">
-<img src="Screenshot 2023-07-05 222830.png">
-<img src="Screenshot 2023-07-05 222855.png">
-<img src="Screenshot 2023-07-05 223419.png">
-<img src="Screenshot 2023-07-05 223431.png">
-<img src="Screenshot 2023-07-05 223447.png">
-<img src="Screenshot 2023-07-05 223954.png">
-<img src="Screenshot 2023-07-05 224018.png">
-<img src="Screenshot 2023-07-05 224039.png">
-<img src="Screenshot 2023-07-05 224359.png">
-<img src="Screenshot 2023-07-05 224416.png">
-<img src="Screenshot 2023-07-05 224433.png">
-<img src="Screenshot 2023-07-05 224909.png">
-<img src="Screenshot 2023-07-05 224920.png">
-<img src="Screenshot 2023-07-05 224942.png">
-<img src="Screenshot 2023-07-05 225306.png">
-<img src="Screenshot 2023-07-05 225322.png">
-<img src="Screenshot 2023-07-05 225338.png">
-<img src="Screenshot 2023-07-05 225550.png">
-<img src="Screenshot 2023-07-05 225601.png">
-<img src="Screenshot 2023-07-05 225616.png">
-<img src="Screenshot 2023-07-05 230126.png">
-
-
+<img src="slide/Screenshot 2023-07-05 222813.png">
+<img src="slide/Screenshot 2023-07-05 222830.png">
+<img src="slide/Screenshot 2023-07-05 222855.png">
+<img src="slide/Screenshot 2023-07-05 223419.png">
+<img src="slide/Screenshot 2023-07-05 223431.png">
+<img src="slide/Screenshot 2023-07-05 223447.png">
+<img src="slide/Screenshot 2023-07-05 223954.png">
+<img src="slide/Screenshot 2023-07-05 224018.png">
+<img src="slide/Screenshot 2023-07-05 224039.png">
+<img src="slide/Screenshot 2023-07-05 224359.png">
+<img src="slide/Screenshot 2023-07-05 224416.png">
+<img src="slide/Screenshot 2023-07-05 224433.png">
+<img src="slide/Screenshot 2023-07-05 224909.png">
+<img src="slide/Screenshot 2023-07-05 224920.png">
+<img src="slide/Screenshot 2023-07-05 224942.png">
+<img src="slide/Screenshot 2023-07-05 225306.png">
+<img src="slide/Screenshot 2023-07-05 225322.png">
+<img src="slide/Screenshot 2023-07-05 225338.png">
+<img src="slide/Screenshot 2023-07-05 225550.png">
+<img src="slide/Screenshot 2023-07-05 225601.png">
+<img src="slide/Screenshot 2023-07-05 225616.png">
+<img src="slide/Screenshot 2023-07-05 230126.png">
 
 ## 2.Methodology
 
