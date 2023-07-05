@@ -222,64 +222,53 @@ Don't forget to hit the :star: if you like this repo.
 #### Meeting with KTDI Principal (LT KOL Prof. Madya Dr. Mohd Noor Azli Bin Haji. Ali Khan)
 <img src="img/stakeholder4.jpg" height="600px" >
 
-
 #### Meeting with Pembantu Felo (Hamizah Amalina Binti Amlan)
 <img src="img/stakeholder5.jpg" height="600px" >
+
 
 ### 3. Software components & modules
 - Provide an overview of the software components or modules developed.
 
 #### Component Diagram:
-<img src="img/component_diagram.jpg" alt="component" height="500px"></img>
+<img src="img/component-diagram.jpg" alt="component" height="500px"></img>
 
 #### Use Case Diagram:
-<img src="img/use_case.jpg" alt="use" height="500px"></img>
+<img src="img/use-case.jpg" alt="use" height="500px"></img>
 
 #### Complete Package Diagram:
-<img src="img/complete_package_diagram.jpg" alt="complete" height="500px"></img>
+<img src="img/complete-package.jpg" alt="complete" height="500px"></img>
 
-- Analysis
 
 ### 4. Design phase
+<img src="img/design-phase.png" alt="staff" height="500px"></img>
+
 #### General Low Fidelity:
-<img src="img/generallowfidenity.jpg" alt="" height="500px"></img>
+<img src="img/sreen1.png" alt="staff" height="500px"></img>
 
-#### Student Low Fidelity:
-<img src="img/studentuilowfidelity.jpg" alt="" height="500px"></img>
+#### JKM KTDI, KTDI Stadd and Student Low Fidelity:
+<img src="img/screen2.png" alt="staff" height="500px"></img>
 
-#### JKM Low Fidelity:
-<img src="img/JKMUIlowfidenity.jpg" alt="" height="500px"></img>
-
-#### Staff Low Fidelity:
-<img src="img/staffuilowfidenity.jpg" alt="" height="500px"></img>
 
 ### 5. Design system
-#### Colour Codes:
-<img src="img/color.jpg" alt="color" height="100px"></img>
+<img src="img/design-system.jpg" alt="color" height="100px"></img>
 
-#### Components:
-<img src="img/component.jpg" alt="component" height="350px"></img>
+#### Colour Codes and Components:
+<img src="img/design-system1.jpg" alt="color" height="100px"></img>
 
 #### Home Screen:
-<img src="img/homepage.png" alt="homepage" height="350px"></img>
+<img src="img/design-system2.jpg" alt="color" height="100px"></img>
+
+#### Flow for JKM KTDI and KTDI Staff:
+<img src="img/design-system3.jpg" alt="color" height="100px"></img>
 
 #### Flow for Students:
-<img src="img/student_flow.png" alt="student" height="350px"></img>
-#### Flow for JKM KTDI:
-<img src="img/jkm_flow.png" alt="jkm" height="500px"></img>
+<img src="img/design-system4.jpg" alt="color" height="100px"></img>
 
-#### Flow for KTDI Staff:
-<img src="img/staff_flow.png" alt="staff" height="500px"></img>
 
 ### 6. Challenges
-| No | Challenge | Solution |
-| --- | --- | --- |
-| 1. | Finding of stakeholders | Contact appropriate stakeholders found on the KTDI website and the Gantt chart in college |
-| 2. | Rapid requirement changes | Conduct rapid meetings with stakeholders and team members |
-| 3. | Busy schedules of the developers | Improve time management |
-| 4. | New to Figma | Adapt to Figma through practice and continuous design updates |
-| 5. | Project documentation | Maintain accurate and up-to-date documentation throughout the lifecycle by updating GitHub with the necessary documents |
+<img src="img/challenges.png" alt="staff" height="500px"></img>
 
+<img src="img/challenges1.png" alt="staff" height="500px"></img>
 
 ## Testing and Quality Assurance
 ### Testing ⚒️
