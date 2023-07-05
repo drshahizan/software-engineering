@@ -9,28 +9,6 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-<div id="header" align="center">
-  <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/INTRODUCTION.png" alt="" height="350px" width="1000px"/></a>
-</div>
-
-
-### 🔖Table of Contents🔖
-* [Table of Contents](#table-of-contents)
-* [Introduction](#introduction)
-* [Objective](#objective)
-* [Problem Statement](#problem-statement)
-* [Potential Impact](#significance-and-potential-impact-of-the-project)
-* [Methodology](#2-methodology)
-* [Implementation](#3-implementation)
-* [Timeline process](#timeline-process)
-* [Design phase and System](#4-design-phase-and-system)
-* [Requirement collection](#5-requirement-collection)
-* [Software components & modules](#software-components-or-modules)
-* [Challenges](#challenges-faced-and-solutions)
-* [Testing and Quality Assurance](#6-testing-and-quality-assurance)
-* [Results and Archievements](#7-results-and-achievements)
-* [Conclusion](#8-conclusion)
-
 # Activity: Group Alpha
 
 <div id="header" align="center">
@@ -90,6 +68,10 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
+list semua benda table di sini
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Prototype Main Menu | <a href="https://www.figma.com/proto/5xL6W7I4NvNIKzQeaiJYiC/Design?type=design&node-id=145-84&scaling=scale-down&page-id=0%3A1&starting-point-node-id=145%3A84&show-proto-sidebar=1" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
 
 ![1](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/1.png)
 ![2](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/2.png)
@@ -117,38 +99,6 @@ Don't forget to hit the :star: if you like this repo.
 ![24](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/24.png)
 ![25](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/25.png)
 ![26](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/26.png)
-
-## Introduction
-  
-
-
-## 2. Methodology:
-
-
-
-## 3. Implementation:
-
-
-## 4. Design Phase and System
-
-
-| No | Name |File | 
-| -----:| ----- | :------: | 
-|1| Prototype Main Menu | <a href="https://www.figma.com/proto/5xL6W7I4NvNIKzQeaiJYiC/Design?type=design&node-id=145-84&scaling=scale-down&page-id=0%3A1&starting-point-node-id=145%3A84&show-proto-sidebar=1" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
-
-
-
-## 5. Requirement Collection
-
-
-## 6. Testing and Quality Assurance:
-
-
-## 7. Results and Achievements:
-
-
-## 8. Conclusion:
-
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
