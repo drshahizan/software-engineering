@@ -174,7 +174,7 @@ The followings are the specific tools, technologies, or frameworks which are emp
 ### Software Components/Modules:
 **Component diagram**:
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/jiesheng4616/jiesheng4616/main/xxl.drawio.png"/>
+  <img src="https://raw.githubusercontent.com/jiesheng4616/jiesheng4616/main/xxl.drawio%20(1).png"/>
 </div>
 
 **Use case diagram**:

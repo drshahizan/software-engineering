@@ -10,6 +10,9 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Activity: Group Allen
+
+<img src="https://user-images.githubusercontent.com/128206862/248917279-fda5ac3c-38a9-4050-8501-5249a05eb78e.jpg" alt="img" style="width:500px;height:350px"> <img src="https://user-images.githubusercontent.com/128206862/248917582-5a9a6ff1-c233-43d1-a513-fd75ec03ce1a.jpg" alt="img" style="width:500px;height:350px"> <img src="https://user-images.githubusercontent.com/128206862/248918222-7424eb92-a10e-492d-981d-7a25f4f42d51.jpg" alt="img" style="width:500px;height:350px"> 
+
 ## Group Members
 <table>
   <tr>
@@ -110,6 +113,9 @@ Competitive Edge: Embracing digital transformation through the KTDI Minimart Sys
 Sustainable Business Growth: The combination of increased customer reach, improved shopping experience, operational efficiency, and sales growth contributes to sustainable business growth. The system sets a foundation for long-term success and adaptability in the evolving retail landscape.
 
 ## 2. Methodology:
+
+<img src="https://assets.asana.biz/transform/f3519623-44e4-4506-8e1f-38cb74819c58/inline-agile-agile-methodology-1-2x">
+
 Requirement Analysis:
 Gather the necessary requirements by conducting interviews and meetings with stakeholders, including mini mart management, staff, and potential customers. Identify the essential features and functionalities of the KTDI Minimart System and document these requirements clearly and concisely.
 
