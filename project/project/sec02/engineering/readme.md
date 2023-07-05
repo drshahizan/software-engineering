@@ -112,11 +112,7 @@ Don't forget to hit the :star: if you like this repo.
     <td>Management</td>
     <td>Responsible on managing and ensuring that the parcels arrive in good conditions, grouped the parcels in category and labelled for easier finding in their database</td>
   </tr>
-    <tr>
-    <td>Syazwan bin Saad</td>
-    <td>One Stop Parcel Center</td>
-    <td>Head of Management</td>
-  <td>Responsible on managing the staffs, ensuring smooth operations, and manage the budget as well. Also responsible on making sure that the informations stated at the parcel and the data is well protected and secure</td>
+    
 
   
   
