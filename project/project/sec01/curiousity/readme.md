@@ -246,13 +246,13 @@ Don't forget to hit the :star: if you like this repo.
 <img src="img/screen1.jpg" alt="general" height="600px"></img>
 
 #### JKM KTDI Low Fidelity:
-<img src="img/screen2.png" alt="staff" height="600px"></img>
+<img src="img/screen2.png" alt="jkm" height="600px"></img>
 
 #### KTDI Staff Low Fidelity:
 <img src="img/screen3.png" alt="staff" height="600px"></img>
 
 #### Student Low Fidelity:
-<img src="img/screen4.png" alt="staff" height="600px"></img>
+<img src="img/screen4.png" alt="student" height="600px"></img>
 
 
 ### 5. Design system
