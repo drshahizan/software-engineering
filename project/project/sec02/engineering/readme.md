@@ -117,24 +117,8 @@ One Stop Parcel Center
 | 28| 09/06/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Complete SRS Document| Complete |
 
 
-### Significance and Potential Impact
-
-The Parcel Delivery System has the potential to revolutionize our organization's parcel management and delivery operations. By automating and optimizing the process, we can expect significant improvements in efficiency, accuracy, and customer satisfaction. The system will provide real-time visibility, enhance communication, and streamline administrative tasks, resulting in faster and more reliable deliveries. The proposal aims to outline the system's features, benefits, and implementation plan, demonstrating its potential to transform our parcel delivery operations and meet the evolving needs of our organization and customers.
 
 
-
-
-
-## 2. Methodology:
-The approach and methodologies utilized for the development of the Parcel Delivery System are as follows:
-
-1. Agile Development: Adopt an Agile approach to enable iterative and incremental development, allowing for flexibility and adaptability to evolving requirements. This methodology promotes collaboration, frequent feedback, and continuous improvement throughout the project lifecycle.
-
-2. Scrum: Implement the Scrum framework, which consists of time-boxed iterations called sprints, daily stand-up meetings, sprint planning, and sprint reviews. This approach facilitates efficient project management, prioritization of tasks, and regular communication among team members, stakeholders, and users.
-
-3. Software Development Life Cycle (SDLC): Follow an Agile SDLC model that aligns with the iterative and incremental development approach. The SDLC stages include requirements gathering, design, development, testing, deployment, and maintenance. This ensures a systematic and structured approach to the development process, with continuous feedback and improvement at each stage.
-
-4. User-Centered Design: Utilize a user-centered design (UCD) approach to ensure that the system's design and functionality meet the needs and expectations of users. This approach involves conducting user research, creating user personas and scenarios, and testing the system with users to gather feedback and refine the design.
 
 ### Tools, Technologies, and Frameworks:
 
