@@ -140,28 +140,8 @@ Meeting With Stakeholder:
     <td>Responsible on managing and ensuring that the parcels arrive in good conditions, grouped the parcels in category and labelled for easier finding in their database</td>
   </tr>
     <tr>
-    <td>Syazwan bin Saad</td>
-    <td>One Stop Parcel Center</td>
-    <td>Head of Management</td>
-  <td>Responsible on managing the staffs, ensuring smooth operations, and manage the budget as well. Also responsible on making sure that the informations stated at the parcel and the data is well protected and secure</td>
-  </tr>
-   <tr>
-    <td>Johnny Sii How Yong</td>
-    <td>KTDI Student</td>
-    <td>Deliver guy</td>
-    <td> Should handle packages with care, ensuring they are properly secured and protected during transportation,ensure that parcels are delivered to the    correct recipients within the specified time frame, verify the recipient's identity or obtain a signature upon delivery, confirming that the package has reached the intended recipient and should ensure the security and confidentiality of the parcels they handle. 
-    </td>
-  </tr>
   
-  <tr>
-    <td>Nur Hazwani Binti Mohammad Sobri</td>
-    <td>KTHO Student</td>
-    <td>Deliver girl</td>
-    <td> Should handle packages with care, ensuring they are properly secured and protected during transportation,ensure that parcels are delivered to the    correct recipients within the specified time frame, verify the recipient's identity or obtain a signature upon delivery, confirming that the package has reached the intended recipient and should ensure the security and confidentiality of the parcels they handle. 
-    </td>
-  </tr>
   
-</table>
 
 ![all stakeholder](https://github.com/drshahizan/software-engineering/assets/128160230/924f3b49-a3f7-43f8-9fdd-b084f0b59b25)
 
