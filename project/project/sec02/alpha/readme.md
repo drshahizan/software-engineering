@@ -68,7 +68,20 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
+
+
+## All Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Proposal| <a href="https://github.com/drshahizan/software-engineering/blob/main/proposal/materials/groups.md" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
+|2| SRS Documentation| <a href="https://drive.google.com/drive/folders/13ORkXGqhQvWlCVeE8A95KMH4q6KokaPY" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
+|3| SDD Documentation| <a href="https://github.com/drshahizan/software-engineering/tree/main/project/documentation/sdd/sec02/alpha" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
+|4| STD Documentation| <a href="https://github.com/drshahizan/software-engineering/tree/main/project/documentation/std/sec02/alpha" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
+|5| Draw.io| <a href="https://github.com/drshahizan/software-engineering/tree/main/project/drawio/Alpha" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/fa23f96100aedccb8c634fba496ebcfc9968b9ee/images/drawio.svg" width="24px" height="24px" ></a>|
+|6| Use Case Diagram| <a href="" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/fa23f96100aedccb8c634fba496ebcfc9968b9ee/images/drawio.svg" width="24px" height="24px" ></a>|
 list semua benda table di sini
+
+## Prototype
 | No | Name |File | 
 | -----:| ----- | :------: | 
 |1| Prototype Main Menu | <a href="https://www.figma.com/proto/5xL6W7I4NvNIKzQeaiJYiC/Design?type=design&node-id=145-84&scaling=scale-down&page-id=0%3A1&starting-point-node-id=145%3A84&show-proto-sidebar=1" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
