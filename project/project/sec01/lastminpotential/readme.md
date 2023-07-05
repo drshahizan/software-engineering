@@ -52,9 +52,9 @@ Don't forget to hit the :star: if you like this repo.
 <img src="Screenshot 2023-07-05 223419.png">
 <img src="Screenshot 2023-07-05 223431.png">
 <img src="Screenshot 2023-07-05 223447.png">
-<img src="Screenshot 2023-07-05 222855.png">
-<img src="Screenshot 2023-07-05 222855.png">
-<img src="Screenshot 2023-07-05 222855.png">
+<img src="Screenshot 2023-07-05 223954.png">
+<img src="Screenshot 2023-07-05 224018.png">
+<img src="Screenshot 2023-07-05 224039.png">
 <img src="Screenshot 2023-07-05 222855.png">
 <img src="Screenshot 2023-07-05 222855.png">
 <img src="Screenshot 2023-07-05 222855.png">
