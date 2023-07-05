@@ -188,8 +188,7 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 
 ![Watercolor Twitter Header (1)](https://github.com/drshahizan/software-engineering/assets/128214992/e90f5dd4-466a-419f-8b2b-2592f19f1666)
 
-- Integration Issues: As different team members worked on separate modules, integrating all theindividual components posed challenges. We addressed this by regularly conducting integration testing and maintaining clear communication among team members by doing scrumpt meetings to ensure seamless integration.
-- Changing Requirements: Throughout the implementation phase, there were instances where the requirements evolved or changed. We addressed this challenge by maintaining flexibility in our design and implementation, embracing agile methodologies, and having open communication with the project stakeholders to adapt to the changing requirements.
+![image](https://github.com/drshahizan/software-engineering/assets/128214992/5ca8cc04-5a9d-45ba-b57f-99fbc24de61b)
 
 ![image](https://github.com/drshahizan/software-engineering/assets/128214992/ea50e4be-051e-428b-a191-d725c108fc86)
 
