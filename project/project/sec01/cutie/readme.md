@@ -150,6 +150,12 @@ Our team conducted meetings with our stakeholders to understand their requiremen
     <td>Lecturer</td>
     <td>Defining requirements. Lecturer can provide valuable input for the attendance system. Valuable input can be specified as what attendance data they need to track (Students, name, ID, location, etc), how they want the attendance to be marked (by scanning QR code/ by entering random number generated), and what reporting and analysis capabilities they require.</td>
   </tr>
+  <tr>
+    <td>4 Admin</td>
+    <td>Admin</td>
+    <td>..</td>
+    <td>..</td>
+  </tr>
 </table>
 </li>
 
