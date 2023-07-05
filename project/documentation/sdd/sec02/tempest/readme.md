@@ -88,10 +88,12 @@ Don't forget to hit the :star: if you like this repo.
 |10|25/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Sketching the rough idea of the additional features | Complete |
 |11|27/05/2023| Anas |Scrum Master| High Fidelity | Complete |
 |12|27/05/2023| Danial |Assistant Developer| Information Architecture and User Flow | Complete |
-|13|27/05/2023| Kugen |UI/UX Designer| Typography and Design | Incomplete |
+|13|27/05/2023| Kugen |UI/UX Designer| Typography and Design | Complete |
 |14|08/06/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Scrum meeting : Discussion about  prototype design | Complete |
 |15|11/06/2023|Luqman| Main Developer | UI design for client | Complete |
 |16|11/06/2023|Luqman| Main Developer | UI design for management | Complete |
+|17|20/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Update Documentation | Complete |
+|18|20/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Finalize Documentation | Complete |
 |-|-|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Follow up with stakeholder | Incomplete |
 
 
