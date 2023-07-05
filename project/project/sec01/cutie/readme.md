@@ -50,12 +50,14 @@ Don't forget to hit the :star: if you like this repo.
 | 2 | System Requirements Specification (SRS)| <a href="https://docs.google.com/document/d/1gYnT_O2jhI0c_1Fj7zSzKu-DS3WszlASZqaUI4-x3eQ/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
 | 3 | System Design Descriptions (SDD) | <a href="https://docs.google.com/document/d/1x8wI4iyAO2i65-GcWjOFYKX29X5chyArNLyaI90yp3s/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
 | 4 | System Test Descriptions (STD)| <a href="https://docs.google.com/document/d/102OtP1xkI_MDDosiycvG1h0gtotl2rCj8_pEDPo0Q9Q/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
-| 5 | Figma |  <a href="https://www.figma.com/file/vJFZ4ywOpGf74nWp6hwt9T/Student-Attendance-System?type=design&node-id=363-2343&mode=design&t=YfCBMEY8f4tnIwUT-0" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/9351bd712f05648b3c117eec85186a261de98c92/project/project/sec01/curiousity/img/figma.svg" width="24px" height="24px" ></a> |  
+| 5 | Figma Prototype (Students) |  <a href="https://www.figma.com/proto/vJFZ4ywOpGf74nWp6hwt9T/Student-Attendance-System?type=design&node-id=363-2428&t=wsJm8d0F3Go2kd27-1&scaling=scale-down&page-id=363%3A2343&starting-point-node-id=363%3A2428&show-proto-sidebar=1&mode=design" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/9351bd712f05648b3c117eec85186a261de98c92/project/project/sec01/curiousity/img/figma.svg" width="24px" height="24px" ></a> | 
+| 6 | Figma Prototype (Lecturers) |  <a href="https://www.figma.com/proto/vJFZ4ywOpGf74nWp6hwt9T/Student-Attendance-System?type=design&node-id=167-812&t=9soYHLXnoCy6Hi2h-1&scaling=scale-down&page-id=166%3A1446&starting-point-node-id=167%3A812&mode=design" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/9351bd712f05648b3c117eec85186a261de98c92/project/project/sec01/curiousity/img/figma.svg" width="24px" height="24px" ></a> | 
+| 7 | Figma Prototype (Administrators) |  <a href="https://www.figma.com/proto/vJFZ4ywOpGf74nWp6hwt9T/Student-Attendance-System?type=design&node-id=351-1120&t=jM5l7l2ySweuwmbM-1&scaling=min-zoom&page-id=307%3A1081&starting-point-node-id=351%3A1120&show-proto-sidebar=1&mode=design" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/9351bd712f05648b3c117eec85186a261de98c92/project/project/sec01/curiousity/img/figma.svg" width="24px" height="24px" ></a> | 
 
 # Student Management System
 
 ## Introduction
-  In today's world, technology has become an integral part of our daily lives, including education. Digital attendance management systems are widely used in educational institutions to manage student attendance. For example, UTM uses UTM Digital to track and manage student attendance. However, some features are inefficient, and fail to meet the needs of modern-day educational institutions.
+  In today's world, technology has become an integral part of our daily lives, including education. Digital attendance management systems are widely used in educational institutions to manage student attendance. For example, UTM uses UTM Digital to track and manage student attendance. However, some features are inefficient and fail to meet the needs of modern-day educational institutions.
 The proposed digital student attendance management system aims to address the weaknesses of the existing attendance systems by providing an efficient and effective way to manage student attendance. The software will be designed to be user-friendly, intuitive, and easy to use, allowing teachers and administrators to manage attendance with ease.
 The proposed software will enable lecturers to take attendance quickly and easily using a range of devices, including smartphones, tablets, and laptops. The system will also provide real-time attendance reports, allowing teachers and administrators to monitor attendance trends and take corrective action as needed.
 The benefits of the proposed system are numerous. The software will improve accuracy and reliability, reduce the workload of teachers, and provide a more comprehensive and efficient way to manage attendance. Moreover, the system will identify areas for improvement, leading to better student engagement.
@@ -63,9 +65,9 @@ The benefits of the proposed system are numerous. The software will improve accu
 #### Objective
   We aim to identify the existing bugs and inefficiencies in the current system, which will be addressed in the new design.
 <ol><li><b>Implement new attendance marking options:</b></li><ul>
- <li>In addition to the current attendance marking system using QR codes, alternative methods such as typing in a line of random generated code should be an option for students in case their device faces camera issues.</li></ul>
-<li><b>Implement location based check-ins:</b></li><ul> 
-<li>Students are often able to mark their attendance without actually attending the class through the help of their friends. With the implementation of location based check-ins, we can ensure  the students that have marked their location are actually attending the class.</li></ul>
+ <li>In addition to the current attendance marking system using QR codes, alternative methods such as typing in a line of randomly generated code should be an option for students in case their device faces camera issues.</li></ul>
+<li><b>Implement location-based check-ins:</b></li><ul> 
+<li>Students are often able to mark their attendance without actually attending the class through the help of their friends. With the implementation of location-based check-ins, we can ensure  the students that have marked their location are actually attending the class.</li></ul>
 <li><b>Implement biometric authentication:</b> </li><ul>
 <li>Biometric authentication, such as facial recognition or fingerprint scanning. This helps to prevent attendance fraud and increase accuracy.</li></ul>
 <li><b>Generate a table:</b></li><ul>
@@ -122,6 +124,34 @@ Testing methodologies such as unit testing, integration testing, system testing,
 <li> <b>Requirement Gathering : </b><br>
 Our team conducted meetings with our stakeholders to understand their requirements and expectations from the Attendance System. All of the requirements we gathered, including functionality, user roles, and system constraints are documented.
 
+## Stakeholder
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Stakeholder</th>
+    <th>Position</th>
+    <th>Responsibility</th>
+  </tr>
+  <tr>
+    <td>1 Lim Jing Yong</td>
+    <td>Student</td>
+    <td>First Year Data Engineering Student</td>
+    <td>Provide feedback. The student can test the system during development and provides feedback regarding usability, functionality and design. This feedback can help us to identify bugs or issues that need to be addressed.</td>
+  </tr>
+  <tr>
+    <td>2 Liow Zhi Heng</td>
+    <td>Student</td>
+    <td>First Year Graphic and Design Student</td>
+    <td>Provide feedback. The student can test the system during development and provides feedback regarding usability, functionality and design. This feedback can help us to identify bugs or issues that need to be addressed.</td>
+  </tr>
+    <tr>
+    <td>3 Dr Nur Eiliyah Wong </td>
+    <td>Faculty Staff</td>
+    <td>Lecturer</td>
+    <td>Defining requirements. Lecturer can provide valuable input for the attendance system. Valuable input can be specified as what attendance data they need to track (Students, name, ID, location, etc), how they want the attendance to be marked (by scanning QR code/ by entering random number generated), and what reporting and analysis capabilities they require.</td>
+  </tr>
+   
+</table>
 #### *Paste Stakeholder photo, info here*</li>
 <li><b>System Design : </b><br>
 Our team had collaborated with our stakeholders to create a system design that aligned with their requirements. We had defined the system architecture, including the backend, database, and user interface components. We had also created high-level and detailed design documentation, specifying the system’s modules, their interactions, and data flow.

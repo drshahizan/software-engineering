@@ -198,6 +198,11 @@ The implemented Student Accommodation System comprised several software componen
   <img src="https://github.com/drshahizan/software-engineering/assets/118497269/f0a934e8-90e5-40c4-9a74-38503bcd46be"/>
 </div>
 
+**Component diagram**:
+<div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/jiesheng4616/jiesheng4616/main/xxl.drawio.png"/>
+</div>
+
 ### Challenges:
 | No | Challenge | Solution | 
 | :------: | ----- | :------: | 

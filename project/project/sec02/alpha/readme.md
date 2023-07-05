@@ -9,6 +9,11 @@
 
 Don't forget to hit the :star: if you like this repo.
 
+<div id="header" align="center">
+  <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/INTRODUCTION.png" alt="" height="350px" width="1000px"/></a>
+</div>
+
+
 ### 🔖Table of Contents🔖
 * [Table of Contents](#table-of-contents)
 * [Introduction](#introduction)
@@ -27,6 +32,11 @@ Don't forget to hit the :star: if you like this repo.
 * [Conclusion](#8-conclusion)
 
 # Activity: Group Alpha
+
+<div id="header" align="center">
+  <h2>Team Alpha</h2>
+  <img src="https://user-images.githubusercontent.com/128160553/240615112-ad98b302-8925-4fd5-a384-5041335f1785.jpg" width="500" height="350"/>
+</div>
 
 ## Group Members
 <table>
@@ -109,9 +119,6 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ## 2. Methodology:
-- Describe the approach and methodologies utilized to tackle the project.
-- Explain the software development life cycle model or any other relevant methodology adopted.
-- Highlight any specific tools, technologies, or frameworks employed during the project.
 
 #### Approach
 - Agile Development: Adopt an Agile approach to enable iterative and incremental development, ensuring flexibility and adaptability to changing requirements.
@@ -196,7 +203,20 @@ Don't forget to hit the :star: if you like this repo.
 | -----:| ----- | :------: | 
 |1| Prototype Main Menu | <a href="https://www.figma.com/proto/5xL6W7I4NvNIKzQeaiJYiC/Design?type=design&node-id=145-84&scaling=scale-down&page-id=0%3A1&starting-point-node-id=145%3A84&show-proto-sidebar=1" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
 
-#### 4.3 Low Fidelity
+#### 4.3 Initial Sketching
+
+##### Home page
+
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/Sketching2.jpg" alt="" height="650px" width="700px"/></a>
+
+##### Admin Page
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/Sketching1.jpg" alt="" height="650px" width="700px"/></a>
+
+##### Student Page
+
+<img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/Sketching3.jpg" alt="" height="650px" width="700px"/></a>
+
+#### 4.4 Low Fidelity
 
 
 - Student
@@ -216,25 +236,18 @@ Don't forget to hit the :star: if you like this repo.
 ![Image](https://github.com/drshahizan/software-engineering/assets/128107791/3f4b4dfd-4bdc-47be-9f44-0c67c89abe95)
 
 
-#### 4.4  High Fidelity
+#### 4.5  High Fidelity
 - Student
   
-![Image](https://github.com/drshahizan/software-engineering/assets/128107791/47051c70-1e23-4f30-9e04-7ae3df55cc27)
+<img src="https://github.com/drshahizan/software-engineering/assets/128107791/47051c70-1e23-4f30-9e04-7ae3df55cc27" alt="" height="750px" width="1050px"/></a>
+
+<img src="https://github.com/drshahizan/software-engineering/assets/128107791/0736de6a-d418-4094-9346-af9f55d45188" alt="" height="750px" width="1050px"/></a>
+
+<img src="https://github.com/drshahizan/software-engineering/assets/128107791/beab6136-c28b-4393-be54-74a31bd9d09c" alt="" height="750px" width="1050px"/></a>
 
 
 
-![Image](https://github.com/drshahizan/software-engineering/assets/128107791/0736de6a-d418-4094-9346-af9f55d45188)
-
-
-
-![Image](https://github.com/drshahizan/software-engineering/assets/128107791/beab6136-c28b-4393-be54-74a31bd9d09c)
-
-
-
-
-
-
-#### 4.5 Prototype
+#### 4.6 Prototype
 - Sign up / Log in flow
   <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/log%20in.png" alt=""/></a>
 
@@ -248,45 +261,36 @@ Don't forget to hit the :star: if you like this repo.
 ## 5. Requirement Collection
 ### Meeting with stakeholders
 
-#### Meeting with  stakeholder 1 (En. Hamdan bin Abdul Ghani)
-<img src="https://user-images.githubusercontent.com/128108090/237020517-786c33dd-dd00-44ae-bf06-efdc71fb2270.jpg" alt=""  height="350px" weight="200px"/></a>
+<div id="header" align="center">
+  <b>Meeting with  stakeholder 1 (En. Hamdan bin Abdul Ghani)</b><br>
+  <img src="https://user-images.githubusercontent.com/128108090/237020517-786c33dd-dd00-44ae-bf06-efdc71fb2270.jpg" alt=""  height="350px" weight="200px"/></a>
+  
+  Venue: Pejabat KTDI M01, Date: 18 April 2023, Time: 2 pm
+</div>
 
-Venue: Pejabat KTDI M01
+<div id="header" align="center">
+  <b>Meeting with stakeholder 2 (Puan Rosnani bt Katip)</b><br>
+  First meeting<br>
+  
+  <img src="https://user-images.githubusercontent.com/128108090/237021925-f29b22b3-10ce-46c7-b927-3e447dd3cae8.jpg" alt=""  height="350px" weight="200px"/></a>
+  
+  Venue: Pejabat KTDI M01, Date: 19 April 2023, Time: 2:35 pm
+</div>
 
-Date: 18 April 2023
+<div id="header" align="center">
+  Second meeting
+  
+  <img src="https://user-images.githubusercontent.com/128160553/240615112-ad98b302-8925-4fd5-a384-5041335f1785.jpg" alt="" height="350px" weight="200px"/></a>
 
-Time: 2 pm
+  Venue: Pejabat KTDI M01, Date: 24 May 2023, Time: 3:30 pm
+</div>
 
-#### Meeting with stakeholder 2 (Puan Rosnani bt Katip)
-First meeting
-
-<img src="https://user-images.githubusercontent.com/128108090/237021925-f29b22b3-10ce-46c7-b927-3e447dd3cae8.jpg" alt=""  height="350px" weight="200px"/></a>
-
-Venue: Pejabat KTDI M01
-
-Date: 19 April 2023
-
-Time: 2:35 pm
-
-Second meeting
-
-<img src="https://user-images.githubusercontent.com/128160553/240615112-ad98b302-8925-4fd5-a384-5041335f1785.jpg" alt="" height="350px" weight="200px"/></a>
-
-Venue: Pejabat KTDI M01
-
-Date: 24 May 2023
-
-Time: 3:30 pm
-
-#### Meeting with stakeholder 3 (Jevanaraj A/L Balasuntharam)
-<img src="https://user-images.githubusercontent.com/128107791/239741938-94169d51-2815-41e0-b170-b341ea53cdfe.png" alt="" height="350px" weight="200px"/></a>
-
-Venue: Webex meet 
-
-Date: 21/5/2023
-
-Time: 8.30pm
-
+<div id="header" align="center">
+  <b> Meeting with stakeholder 3 (Jevanaraj A/L Balasuntharam) </b><br>
+  <img src="https://user-images.githubusercontent.com/128107791/239741938-94169d51-2815-41e0-b170-b341ea53cdfe.png" alt="" height="350px" weight="200px"/></a>
+  
+  Venue: Webex meet, Date: 21/5/2023, Time: 8.30pm
+</div>
 
 ## 6. Testing and Quality Assurance:
 Testing and quality assurance play a crucial role in ensuring the reliability and robustness of the software. The following are the testing strategies and techniques employed in the project. 

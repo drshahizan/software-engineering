@@ -11,7 +11,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # Activity: Group Limapuluh
 
-<img src="https://i.imgur.com/rYx5Yvw.jpg" alt="img" style="width:500px;height:350px">
+<img src="https://i.imgur.com/rYx5Yvw.jpg" alt="img" style="width:500px;height:350px"> <img src="https://user-images.githubusercontent.com/89129564/240784261-edef2a7c-5f44-4d43-a7a9-a3954fa23359.jpg" alt="img" style="width:500px;height:350px"> <img src="https://user-images.githubusercontent.com/129235577/245982373-827f0039-7d9f-4683-b413-0057ecdf6296.jpg" alt="img" style="width:500px;height:350px"> <img src="https://user-images.githubusercontent.com/129235577/244254046-0462665d-32f8-477b-9f60-f5daff151188.jpg" alt="img" style="width:500px;height:350px"><img src="https://github.com/drshahizan/software-engineering/assets/129196395/00b045a6-ede8-430a-8c7d-5e7967d40227" alt="img" style="width:500px;height:350px">
 
 ## Group Members
 <table>
@@ -128,7 +128,7 @@ Requirement Analysis:
 Gather requirements by conducting interviews and meetings with stakeholders, including students, faculty, and administrative staff.
 Identify the key features and functionalities of the Student Feedback System.
 
-Document the requirements in a clear and concise manner.
+<img src="https://github.com/drshahizan/software-engineering/assets/129196395/8bed095e-0504-46bd-b222-10d134093114" alt="img" style="width:500px;height:350px">
 
 System Design:
 Design the overall system architecture and modules based on the identified requirements.
@@ -140,7 +140,7 @@ Development:
 Select a suitable software development life cycle model, such as Agile, to guide the development process.
 Break down the project into smaller tasks or user stories.
 Prioritize the tasks and create a development roadmap.
-Implement the system using a programming language (e.g., Python, Java, or .NET) and relevant technologies.
+Implement the system using a programming language and relevant technologies.
 
 Testing:
 Conduct comprehensive testing to ensure the system functions as intended.
@@ -164,7 +164,9 @@ Release updates and new features based on user feedback and evolving requirement
 Software Development Life Cycle Model:
 For the University Technology Malaysia Student Feedback System project, the Agile software development methodology will be adopted. Agile emphasizes iterative and incremental development, allowing for flexibility and adaptability throughout the project. It involves frequent collaboration with stakeholders and prioritizes delivering working software in short cycles known as sprints.
 
-Agile allows for continuous feedback and enables the development team to respond to changing requirements effectively. It promotes close collaboration between developers, testers, and end-users, resulting in a high-quality system that aligns with the stakeholders' expectations.
+<img src="https://www.credencys.com/wp-content/uploads/2023/02/Agile-Methodologyin-Software-Development.png">
+
+Agile allows for continuous feedback and enables the development team to respond to changing requirements effectively. It promotes close collaboration between developers, testers, and end-users,such as doing scrum meeting to result in a high-quality system that aligns with the stakeholders' expectations.
 
 Tools, Technologies, and Frameworks:
 The choice of tools, technologies, and frameworks will depend on the specific requirements and preferences of the project team. However, some commonly used tools and technologies for developing web-based systems like the University Technology Malaysia Student Feedback System may include:
@@ -255,7 +257,7 @@ Design System & Typography:
 ![image](https://github.com/drshahizan/software-engineering/assets/129235577/a9720ae1-f289-4bef-88da-ec58e1814be2)
 
 ### C) The challenges faced during the implementation phase:
-- Integration Issues: As different team members worked on separate modules, integrating all theindividual components posed challenges. We addressed this by regularly conducting integration testing and maintaining clear communication among team members by doing scrumpt meetings to ensure seamless integration.
+- Integration Issues: As different team members worked on separate modules, integrating all the individual components posed challenges. We addressed this by regularly conducting integration testing and maintaining clear communication among team members by doing scrumpt meetings to ensure seamless integration.
 - Changing Requirements: Throughout the implementation phase, there were instances where the requirements evolved or changed. We addressed this challenge by maintaining flexibility in our design and implementation, embracing agile methodologies, and having open communication with the project stakeholders to adapt to the changing requirements.
 
 ## 4. Testing and Quality Assurance:
