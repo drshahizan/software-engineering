@@ -117,35 +117,6 @@ One Stop Parcel Center
 | 28| 09/06/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Complete SRS Document| Complete |
 
 
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-Sticky Note(Project Planning):
-![sticky note project planning](https://github.com/drshahizan/software-engineering/assets/128160230/f76917d1-b45a-4809-8eef-0cad7a180bd8)
-
-
-
-
-
-
-
-
-## 4. Testing and Quality Assurance:
-
-In the project focused on developing a parcel delivery system for KTDI students at UTM, we employed a comprehensive testing approach that combined manual testing techniques with automated testing tools. The manual testing involved designing test cases based on software requirements and functions, assigning unique test case IDs, and analyzing test steps for equivalence partitioning and boundary value analysis. Equivalence partitioning allowed us to cover a range of input scenarios by selecting representative values from each equivalence class, while boundary value analysis helped us test the boundaries of input ranges. Additionally, we utilized automated testing tools to execute test scripts efficiently, handle repetitive or complex tests, simplify the testing process, improve test coverage, and ensure consistent test execution. Unit testing was also employed to verify the correctness and expected behavior of individual software components, catch bugs early, and ensure code reliability. 
-
-The manual testing approach enabled us to identify potential issues early in the development process, ensuring that they were addressed promptly before they could affect the system's performance. The use of automated testing tools allowed us to execute tests more efficiently and consistently, reducing the likelihood of human error and ensuring that all test cases were executed accurately. To ensure the reliability and robustness of the software, we developed a comprehensive test plan, created well-defined test cases, executed tests, tracked and managed defects, generated test reports, maintained a test environment similar to production, and integrated testing into the software development process through continuous integration and deployment practices.
-
 ## 5. Results and Achievements:
 
 
