@@ -1,12 +1,11 @@
 
 ![test](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Exported%20Slide/Slide1.JPG)
 
-# Project: Group Systema
-
 <img src="https://github.com/drshahizan/software-engineering/assets/96631869/719b8f4d-5ddc-435f-9b92-4a5ed5541802" alt="img">
+![test](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Exported%20Slide/Slide3.JPG)
 
 
-## Group Members
+<!---## Group Members
 <table>
   <tr>
     <th>No.</th>
@@ -111,7 +110,7 @@ Overall, the development of a student engagement website aligns with the evolvin
 ### Software Process Model
 <!--- Describe the approach and methodologies utilized to tackle the project.
  Explain the software development life cycle model or any other relevant methodology adopted.
- Highlight any specific tools, technologies, or frameworks employed during the project. -->
+ Highlight any specific tools, technologies, or frameworks employed during the project. 
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Systema/agile.png" height="30%" width="30%">
 We are using agile method as this is a software process model that emphasizes iterative and incremental development, flexibility, and collaboration between team members and stakeholders. It is particularly suitable for projects where the requirements are likely to evolve over time.
 Agile methodology is ideal for developing a student engagement system with a personalized dashboard, anonymous forum, feedback system, and reporting module. It allows for iterative development, flexibility to accommodate changing requirements, collaboration among team members and stakeholders, and continuous testing and feedback. This approach ensures the system evolves effectively and meets the needs of University Teknologi Malaysia Faculty of Computing's students,lecturers,SRC Members and administrators.
@@ -133,7 +132,7 @@ These are the used tools and technologies for developing our Student Engagement 
 ## 3. Implementation:
 <!--- Detail the specific tasks and activities undertaken by your group.
 - Provide an overview of the software components or modules developed.
-- Describe any challenges faced during the implementation phase and how you addressed them. -->
+- Describe any challenges faced during the implementation phase and how you addressed them. 
 
 ## Activities and Timeline 
 | No | Date | Member Name | Role	| Task	| Status	| 
@@ -320,4 +319,4 @@ By implementing these quality assurance processes, we strive to deliver a softwa
 
 - Summarize the overall project experience and lessons learned.
 - Reflect on the challenges faced and how they were overcome.
-- Highlight any future improvements or recommendations for further development.
+- Highlight any future improvements or recommendations for further development. --->
