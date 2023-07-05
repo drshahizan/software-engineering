@@ -155,7 +155,7 @@ The budget for developing a food ordering system can vary depending on several f
 ## 7. System Architecture:
 Case Diagram of Food Ordering System at UTM:
   
-<img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/project/documentation/srs/sec02/beta/UML%20Diagram/casediagram.drawio.png" alt="Use Case Diagram" width="450" height="600" style="border: 1px solid black;">
+<img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/proposal/submission/sec02/Beta/image/casediagram.png" alt="Use Case Diagram" width="450" height="600" style="border: 1px solid black;">
 The Customer actor can perform the following use cases:
 
 - **Register/Login:** This use case allows the Customer to register or login to their account.

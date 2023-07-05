@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="mbqDmZgXnPuwwgB2iTlj" name="Page-1">
-        <mxGraphModel dx="1590" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1378" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -40,9 +40,6 @@
                         <mxPoint x="400" y="380" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="11" value="Payment receipt available?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="358" y="380" width="80" height="80" as="geometry"/>
-                </mxCell>
                 <mxCell id="12" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="400" y="460" as="sourcePoint"/>
@@ -60,8 +57,11 @@
                 </mxCell>
                 <mxCell id="15" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="400" y="547" as="sourcePoint"/>
+                        <mxPoint x="400" y="540" as="sourcePoint"/>
                         <mxPoint x="80" y="570" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="240" y="550"/>
+                        </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="16" value="Selects payment receipt to download" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -70,44 +70,41 @@
                 <mxCell id="17" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="78" y="630" as="sourcePoint"/>
-                        <mxPoint x="398" y="655" as="targetPoint"/>
+                        <mxPoint x="398" y="660" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="240" y="640"/>
+                        </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="19" value="Generate and provide downloable payment receipt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="338" y="650" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="350" y="660" width="108" height="55" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="1" edge="1">
+                <mxCell id="20" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="403" y="710" as="sourcePoint"/>
-                        <mxPoint x="83" y="733" as="targetPoint"/>
+                        <mxPoint x="403" y="717" as="sourcePoint"/>
+                        <mxPoint x="80" y="746" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="253" y="722"/>
+                            <mxPoint x="253" y="729"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="21" value="Download payment receipt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="20" y="730" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="20" y="743" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="22" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="80" y="790" as="sourcePoint"/>
-                        <mxPoint x="80" y="810" as="targetPoint"/>
+                        <mxPoint x="80" y="804" as="sourcePoint"/>
+                        <mxPoint x="80" y="824" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="23" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-                    <mxGeometry x="65" y="810" width="30" height="30" as="geometry"/>
+                    <mxGeometry x="65" y="823" width="30" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="24" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="440" y="420" as="sourcePoint"/>
-                        <mxPoint x="490" y="420" as="targetPoint"/>
+                        <mxPoint x="460" y="420" as="sourcePoint"/>
+                        <mxPoint x="510" y="420" as="targetPoint"/>
                     </mxGeometry>
-                </mxCell>
-                <mxCell id="25" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-                    <mxGeometry x="440" y="395" width="40" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="26" value="Display &quot;Error&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-                    <mxGeometry x="480" y="395" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="1" source="26" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -126,6 +123,15 @@
                 </mxCell>
                 <mxCell id="30" value="System" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="320" width="320" height="860" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="Display &quot;Error&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="30" vertex="1">
+                    <mxGeometry x="180" y="395" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Payment receipt available?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="30" vertex="1">
+                    <mxGeometry x="18" y="380" width="124" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="30" vertex="1">
+                    <mxGeometry x="140" y="395" width="40" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

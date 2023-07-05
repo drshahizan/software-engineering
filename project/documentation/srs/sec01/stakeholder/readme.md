@@ -110,8 +110,8 @@ Don't forget to hit the :star: if you like this repo.
 | 17 | 30/05/2023 | Joseph Lau Yeo Kai | Main developer | Low fedelity UI | Complete |
 | 18 | 1/06/2023 | Wong Khai Shian Nicholas, Neo Zheng Weng, Joseph Lau Yeo Kai, Low Jie Sheng, Muhammad Danial | Group members | High fedelity UI | Complete |
 | 19 | 6/06/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | UI prototype | Complete |
-| 20 | 13/06/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | SDD documentation | In progress |
-| 21 | 20/06/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | STD documentation | To do |
+| 20 | 13/06/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | SDD documentation | Complete |
+| 21 | 20/06/2023 | Neo Zheng Weng, Joseph Lau Yeo Kai, Wong Khai Shian Nicholas, Muhammad Danial, Low Jie Sheng | Group members | STD documentation | Complete |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

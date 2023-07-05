@@ -3,12 +3,10 @@ class Admin {
     - id: int
     - username: string
     - password: string
-    + login(string id, string password): void
-    + logout(): void
   }
 
   class ManageUser {
-    + suspendUser(bool confirmSuspend): bool
+    + suspendUser(string userID, bool confirmSuspend): bool
   }
 
   class ManageFeedback {
@@ -16,8 +14,6 @@ class Admin {
     + updateStatusFeedback(string feedbackID): bool
     + deleteFeedback(string feedbackID): void
   }
-
-
 
   class PostFiltration {
     + filterPosts(string postID): bool
@@ -27,7 +23,7 @@ class Admin {
     - id: int
     - title: string
     - description: string
-    + generateReport(int startDate, int endDate, bool userType): void
+    + generateReport(int startDate, int endDate, bool userType): bool
     + deleteReport(): void
     + archiveReport(): void
     + downloadReport(): void
@@ -40,4 +36,5 @@ ManageUser --> Admin
 ManageFeedback --> Admin
 PostFiltration --> Admin
 Report --> Admin
+
 @enduml 

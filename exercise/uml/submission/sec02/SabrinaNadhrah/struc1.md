@@ -35,16 +35,16 @@ Don't forget to hit the :star: if you like this repo.
 3. ### Scenario: Make a tour reservation
 | Column | Description |
 |-----------------------------|----------------------------------|
-| **Pre-conditions:**         |-  |
+| **Pre-conditions:**         |- The client is registered and logged in to the online reservation system. |
+|                             |- The client has selected a tour they wish to reserve. |
+|                             |- The client has provided necessary personal information and payment details. |
 |                             |-  |
-|                             |-  |
-|                             |-  |
-| **Normal Event(s):**        |-  |
-|                             |-  |
-|                             |-  |
-|                             |-  |
-| **Abnormal Event(s):**      |-  |
-|                             |-  |
+| **Normal Event(s):**        |- The client selects the desired tour and chooses the number of participants. |
+|                             |- The client enters the preferred dates and any additional preferences |
+|                             |- The system validates the availability of the tour and confirms the reservation |
+|                             |- The system generates a receipt and sends it to the client's registered email address |
+| **Abnormal Event(s):**      |- The selected tour is fully booked, and the system notifies the client of the unavailability. |
+|                             |- The client encounters an error during the reservation process, and the system prompts them to retry or contact support |
 |                             |-  |
 |                             |-  |
 | **Post-conditions:**        |-  |

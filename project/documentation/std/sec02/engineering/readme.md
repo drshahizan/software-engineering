@@ -35,6 +35,13 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
+## Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Document STD| <a href="https://docs.google.com/document/d/1b-8oCmWQ_TRkXWrncgN7PBGZYuQzMTXzV9yoaYEa_gk/edit?usp=sharing" ><img src="https://cdn-icons-png.flaticon.com/512/888/888108.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+
 ## Stakeholder
 One Stop Parcel Center & Cengal Parcel Point
 <table>
