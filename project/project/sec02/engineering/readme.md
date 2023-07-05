@@ -137,10 +137,6 @@ Sticky Note(Project Planning):
 ![sticky note project planning](https://github.com/drshahizan/software-engineering/assets/128160230/f76917d1-b45a-4809-8eef-0cad7a180bd8)
 
 
-Low Fidelity Wireframes:
-
-![low(1)](https://github.com/drshahizan/software-engineering/assets/128160230/f7b6c1cd-661b-43df-86dc-6b2dd0f24018)
-![low(2)](https://github.com/drshahizan/software-engineering/assets/128160230/b8610495-b7ac-4ff7-9d48-583a5b758cde)
 
 
 
