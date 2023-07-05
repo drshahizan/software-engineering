@@ -108,26 +108,6 @@ Don't forget to hit the :star: if you like this repo.
 
 <img src="image/30.jpg" height="600px" >
 
-## Stakeholder
-
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Stakeholder</th>
-    <th>Position</th>
-    <th>Responsibility</th>
-  </tr>
-  <tr>
-    <td>Amira Ellyana binti Jasmin</td>
-    <td>One Stop Parcel Center</td>
-    <td>Management</td>
-    <td>Responsible on managing and ensuring that the parcels arrive in good conditions, grouped the parcels in category and labelled for easier finding in their database</td>
-  </tr>
-  
-  
- 
-  
-</table>
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
