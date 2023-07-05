@@ -200,31 +200,8 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 ![func1](https://github.com/drshahizan/software-engineering/assets/128196055/7972e87b-58cf-42fb-8efa-283a10d21c4b)
 ![func2](https://github.com/drshahizan/software-engineering/assets/128196055/7009cd58-90d2-4dd8-a80f-5e3e844077fc)
 
+![nonfunc](https://github.com/drshahizan/software-engineering/assets/128196055/b4dc1e27-2e97-4cab-9b61-4e19745102f7)
 
-    
-### Non-functional Requirements:
-
-1. Performance:
-    - The system is responsive and provide fast response times.
-    
-2. Security:
-    - The system ensure secure authentication and authorization mechanisms.
-    - Confidential student and user information protected through encryption and access controls.
-    
-3. Usability:
-    - The user interface should is intuitive, user-friendly, and accessible.
-    - The system provide clear and concise error messages to guide users in case of incorrect inputs or system errors.
-
-4. Reliability:
-    - The systembe highly reliable, with minimal downtime and maximum availability.
-    - Data integrity and consistency should be even during system failures or disruptions.
-
-5. Assumptions and Constraints:
-    - The system is developed and deployed on a specific platform or operating system.
-    - The system is accessible to authorized users through web browsers.
-    - The system is integrate with existing databases, systems, or APIs as required.
-    - This project has a specific budget and timeline for development and implementation.
-    - These requirements, assumptions, and constraints provide a foundation for the design and development of the system, ensuring that it meets the desired functionality,       performance, security, usability, and other quality attributes.
 
 ## 5. Results and Achievements
 
