@@ -264,6 +264,7 @@ In conclusion, this project has been an invaluable experience for our team, equi
 | -----:| ----- | :------: | 
 |1| Proposal | <a href="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Engineering" ><img src="https://cdn-icons-png.flaticon.com/512/1509/1509612.png" width="24px" height="24px" ></a>|
 |2| SRS | <a href="https://docs.google.com/document/d/1QwTmrv05YVPvNGPW8TU8pXrzIWOASwcdghV6dd_Xpos/edit" ><img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" width="24px" height="24px" ></a>|
+|4| STD | <a href="https://docs.google.com/document/d/1b-8oCmWQ_TRkXWrncgN7PBGZYuQzMTXzV9yoaYEa_gk/edit?usp=sharing" ><img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" width="24px" height="24px" ></a>|
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
