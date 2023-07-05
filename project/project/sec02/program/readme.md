@@ -14,16 +14,17 @@ Don't forget to hit the :star: if you like this repo.
 ## Group Members
 <img src="https://github.com/drshahizan/software-engineering/assets/128214992/70205fca-5085-47b9-bb78-48f08c99f4b7" width="1000" height=auto>
 
-# 💫Table of Contents
-* [Table of Contents](#table-of-contents)
-* [Introduction](#Introduction:)
-* [Methodology](#methodology)
-* [Implementation](#implementation)
-* [Testing and Quality Assurance](#testing-and-quality-assurance)
-* [Results and Achievements](#results-and-archievements)
-* [Prototype](#prototype)
-* [Documentation](#documentation)
-* [Conclusion](#conclusion)
+## 💫Table of Contents
+- [Group Members](#Group-Members)
+- [Table of Contents](#table-of-contents)
+- [Introduction](#Introduction:)
+- [Methodology](#methodology)
+- [Implementation](#implementation)
+- [Testing and Quality Assurance](#testing-and-quality-assurance)
+- [Results and Achievements](#results-and-archievements)
+- [Prototype](#prototype)
+- [Documentation](#documentation)
+- [Conclusion](#conclusion)
 
 ## 1. Introduction
 ### Purpose and Objectives
