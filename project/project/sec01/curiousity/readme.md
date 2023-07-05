@@ -230,45 +230,45 @@ Don't forget to hit the :star: if you like this repo.
 - Provide an overview of the software components or modules developed.
 
 #### Component Diagram:
-<img src="img/component-diagram.jpg" alt="component" height="500px"></img>
+<img src="img/component-diagram.jpg" alt="component" height="600px"></img>
 
 #### Use Case Diagram:
-<img src="img/use-case.jpg" alt="use" height="500px"></img>
+<img src="img/use-case.jpg" alt="use" height="600px"></img>
 
 #### Complete Package Diagram:
-<img src="img/complete-package.jpg" alt="complete" height="500px"></img>
+<img src="img/complete-package.jpg" alt="complete" height="600px"></img>
 
 
 ### 4. Design phase
-<img src="img/design-phase.png" alt="staff" height="500px"></img>
+<img src="img/design-phase.jpg" alt="staff" height="600px"></img>
 
 #### General Low Fidelity:
-<img src="img/sreen1.png" alt="staff" height="500px"></img>
+<img src="img/screen1.jpg" alt="general" height="600px"></img>
 
 #### JKM KTDI, KTDI Stadd and Student Low Fidelity:
-<img src="img/screen2.png" alt="staff" height="500px"></img>
+<img src="img/screen2.jpg" alt="staff" height="600px"></img>
 
 
 ### 5. Design system
-<img src="img/design-system.jpg" alt="color" height="100px"></img>
+<img src="img/design-system.jpg" alt="design" height="600px"></img>
 
 #### Colour Codes and Components:
-<img src="img/design-system1.jpg" alt="color" height="100px"></img>
+<img src="img/design-system1.jpg" alt="colorcomponent" height="600px"></img>
 
 #### Home Screen:
-<img src="img/design-system2.jpg" alt="color" height="100px"></img>
+<img src="img/design-system2.jpg" alt="home" height="600px"></img>
 
 #### Flow for JKM KTDI and KTDI Staff:
-<img src="img/design-system3.jpg" alt="color" height="100px"></img>
+<img src="img/design-system3.jpg" alt="jkmstaff" height="600px"></img>
 
 #### Flow for Students:
-<img src="img/design-system4.jpg" alt="color" height="100px"></img>
+<img src="img/design-system4.jpg" alt="students" height="600px"></img>
 
 
 ### 6. Challenges
-<img src="img/challenges.png" alt="staff" height="500px"></img>
+<img src="img/challenges.png" alt="staff" height="600px"></img>
 
-<img src="img/challenges1.png" alt="staff" height="500px"></img>
+<img src="img/challenges1.png" alt="staff" height="600px"></img>
 
 ## Testing and Quality Assurance
 ### Testing ⚒️
