@@ -17,14 +17,14 @@ Don't forget to hit the :star: if you like this repo.
 ## 💫Table of Contents
 - [Group Members](#Group-Members)
 - [Table of Contents](#table-of-contents)
-- [Introduction](#Introduction:)
-- [Methodology](#methodology)
-- [Implementation](#implementation)
-- [Testing and Quality Assurance](#testing-and-quality-assurance)
-- [Results and Achievements](#results-and-archievements)
-- [Prototype](#prototype)
-- [Documentation](#documentation)
-- [Conclusion](#conclusion)
+- [Introduction](#1-introduction:)
+- [Methodology](#2-methodology)
+- [Implementation](#3=implementation)
+- [Testing and Quality Assurance](#4-testing-and-quality-assurance)
+- [Results and Achievements](#5-results-and-archievements)
+- [Prototype](#6-prototype)
+- [Documentation](#7-documentation)
+- [Conclusion](#8-conclusion)
 
 ## 1. Introduction
 ### Purpose and Objectives
