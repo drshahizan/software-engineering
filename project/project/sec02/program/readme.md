@@ -15,13 +15,13 @@ Don't forget to hit the :star: if you like this repo.
 <img src="https://github.com/drshahizan/software-engineering/assets/128214992/70205fca-5085-47b9-bb78-48f08c99f4b7" width="1000" height=auto>
 
 ## 💫Table of Contents
-- [Group Members](#Group-Members)
+- [Group Members](#group-members)
 - [Table of Contents](#table-of-contents)
-- [Introduction](#1-introduction:)
+- [Introduction](#1-introduction)
 - [Methodology](#2-methodology)
-- [Implementation](#3=implementation)
+- [Implementation](#3-implementation)
 - [Testing and Quality Assurance](#4-testing-and-quality-assurance)
-- [Results and Achievements](#5-results-and-archievements)
+- [Results and Achievements](#5-results-and-achievements)
 - [Prototype](#6-prototype)
 - [Documentation](#7-documentation)
 - [Conclusion](#8-conclusion)
@@ -84,6 +84,7 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 - PHP: Employed as a server-side scripting language for implementing back-end functionalities.
 
 ## 3. Implementation
+
 <img src="https://github.com/drshahizan/software-engineering/assets/128214992/83dae4fe-422a-42fa-b118-e7b8e7baf504" width="1000" height=auto>
 
 ![2](https://github.com/drshahizan/software-engineering/assets/128214992/7c6bf374-4f3c-4f6b-bca1-a41677c560fa)
@@ -221,7 +222,7 @@ Log In/Sign In
 |2| UI/UX (Academic Advisor)| <a href="https://www.figma.com/proto/DBtAK206tikRXizDURZSSs/Academic-Consultation-System-UI%2FUX-(Community)?type=design&node-id=512-13187&t=dQ1CDHjSFPR3E8KR-8&scaling=scale-down&page-id=512%3A10294&starting-point-node-id=512%3A10516&show-proto-sidebar=1&hide-ui=1" ><img src="https://github.com/drshahizan/software-engineering/blob/ff60d5d37be6a34234ea420eb3c1901f1e08d25b/project/documentation/sdd/sec02/program/figma.png" width="24px" height="24px" ></a>|
 |3| UI/UX (Administrator)| <a href="https://www.figma.com/proto/DBtAK206tikRXizDURZSSs/Academic-Consultation-System-UI%2FUX-(Community)?type=design&node-id=512-19312&t=bLVGIu7GNhior3iG-8&scaling=scale-down&page-id=512%3A10295&starting-point-node-id=512%3A19312&hide-ui=1" ><img src="https://github.com/drshahizan/software-engineering/blob/ff60d5d37be6a34234ea420eb3c1901f1e08d25b/project/documentation/sdd/sec02/program/figma.png" width="24px" height="24px" ></a>|
 
-## 7.  Documentation
+## 7. Documentation
 | No | Name |File | 
 | -----:| ----- | :------: | 
 |1| Proposal | <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/program" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/1999131.png" width="24px" height="24px" ></a>|
