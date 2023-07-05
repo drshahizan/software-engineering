@@ -256,7 +256,7 @@ Overall, the KTDI Minimart Project has been a valuable and fulfilling experience
 | -----:| ----- | :------: | 
 |1| Proposal | <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/Allen" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Book-icon2.png/640px-Book-icon2.png" width="24px" height="24px" ></a>|
 |2| SRS | <a href="https://docs.google.com/document/d/1SVXydTjl-7bWs_2QEXZc8l11XHcp8jw3/edit" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Book-icon2.png/640px-Book-icon2.png" width="24px" height="24px" ></a>|
-|3| SDD | <a href="https://github.com/drshahizan/software-engineering/blob/main/project/documentation/sdd/sec01/limapuluh/Limapuluh_SDD_V1.0.pdf" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Book-icon2.png/640px-Book-icon2.png" width="24px" height="24px" ></a>|
+|3| SDD | <a href="https://docs.google.com/document/d/1W1x0oqTvwYGFxdoNChM5-ybu_OKQI4jUeotlEEBs560/edit" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Book-icon2.png/640px-Book-icon2.png" width="24px" height="24px" ></a>|
 |4| STD | <a href="https://docs.google.com/document/d/1YpbgimonDKQwNtbctKyVZZjjHt4PfW1Z/edit" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Book-icon2.png/640px-Book-icon2.png" width="24px" height="24px" ></a>|
 
 ## Contribution 🛠️
