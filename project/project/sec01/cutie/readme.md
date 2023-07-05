@@ -151,8 +151,8 @@ Our team conducted meetings with our stakeholders to understand their requiremen
     <td>Defining requirements. Lecturer can provide valuable input for the attendance system. Valuable input can be specified as what attendance data they need to track (Students, name, ID, location, etc), how they want the attendance to be marked (by scanning QR code/ by entering random number generated), and what reporting and analysis capabilities they require.</td>
   </tr>
 </table>
-![image](https://github.com/drshahizan/software-engineering/assets/129287788/9584883e-eeb2-4110-9fdf-74a17dbe637e)
 </li>
+![meeting wif zh](https://github.com/drshahizan/software-engineering/assets/129287788/b942c960-ba8e-4e89-8d7f-ecaeab7c9c58)
 <li><b>System Design : </b><br>
 Our team had collaborated with our stakeholders to create a system design that aligned with their requirements. We had defined the system architecture, including the backend, database, and user interface components. We had also created high-level and detailed design documentation, specifying the system’s modules, their interactions, and data flow.
 
