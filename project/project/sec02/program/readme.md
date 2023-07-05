@@ -195,45 +195,13 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 
 ## 4. Testing and Quality Assurance
 ### Testing Template (Black Box Testing)
- ![WhatsApp Image 2023-07-02 at 12 47 22 AM](https://github.com/drshahizan/software-engineering/assets/128196055/45240d1d-c56e-40c8-a87c-ac63c5ce9b21)
- 
-### Functional Requirements:
+![temp](https://github.com/drshahizan/software-engineering/assets/128196055/22e0d918-f57d-4da6-a84a-56021f61f83f)
 
-1. Authentication Subsystem:
-    - The system provide a sign-in and log-in functionality for users.
-    - Users able to reset their passwords securely.
 
-2. Account Subsystem:
-    - Users able to view and manage student's personal information.
-    - Users able to view academic advisor's personal information.
+![func1](https://github.com/drshahizan/software-engineering/assets/128196055/7972e87b-58cf-42fb-8efa-283a10d21c4b)
+![func2](https://github.com/drshahizan/software-engineering/assets/128196055/7009cd58-90d2-4dd8-a80f-5e3e844077fc)
 
-3. Report Subsystem:
-    - Users able to view academic reports for students.
-    - Users able to manage academic reports.
-    - Users able to download academic reports.
-    - Users able to file complaints regarding academic reports.
-    
-4. Schedule Subsystem:
-    - Users able to view timetables.
-    - Users able to download timetables.
-    - Users able to manage and edit timetables.
 
-5. Appointment Subsystem:
-    - Users able to view available appointment slots.
-    - Users able to manage and edit appointment slots.
-    - Users able to download appointment slots.
-    - Users able to view a calendar of appointments.
-    - Users able to edit and manage the calendar.
-    
-6. Summary Subsystem:
-    - Users able to view an academic dashboard for students.
-    - Users able to manage the academic dashboard.
-    - Users able to generate summaries of students' academic performance.
-
-7. Notification Subsystem:
-    - Users receive notifications related to system updates, academic events, or changes in their academic status.
-    - Users able to customize their notification settings.
-    - Users able to view and manage notifications.
     
 ### Non-functional Requirements:
 
