@@ -121,7 +121,6 @@ One Stop Parcel Center
 
 
 
-By leveraging these methodology, tools, technologies, and frameworks, the development team can build a robust, scalable, and secure Parcel Delivery System that meets the needs of KTDI students at UTM. The use of modern technologies and proven methodologies ensures the system's efficiency and reliability, providing a seamless and hassle-free experience for users. Overall, the use of these methodologies and practices ensured that the Parcel Delivery System was developed efficiently, effectively, and with a focus on the needs of users.
 
 
 ## 3. Implementation:
