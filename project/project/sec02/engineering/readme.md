@@ -143,9 +143,6 @@ Low Fidelity Wireframes:
 ![low(2)](https://github.com/drshahizan/software-engineering/assets/128160230/b8610495-b7ac-4ff7-9d48-583a5b758cde)
 
 
-High Fidelity Wireframes:
-![12](https://github.com/drshahizan/software-engineering/assets/128160230/aad223d9-bbd4-4925-9252-59752b8f0adb)
-![2](https://github.com/drshahizan/software-engineering/assets/128160230/d0519e29-cbbf-40d1-a42b-71bb86767982)
 
 
 
