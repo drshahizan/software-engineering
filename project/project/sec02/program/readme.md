@@ -14,16 +14,17 @@ Don't forget to hit the :star: if you like this repo.
 ## Group Members
 <img src="https://github.com/drshahizan/software-engineering/assets/128214992/70205fca-5085-47b9-bb78-48f08c99f4b7" width="1000" height=auto>
 
-# 💫Table of Contents
-* [Table of Contents](#table-of-contents)
-* [Introduction](#Introduction:)
-* [Methodology](#methodology)
-* [Implementation](#implementation)
-* [Testing and Quality Assurance](#testing-and-quality-assurance)
-* [Results and Achievements](#results-and-archievements)
-* [Prototype](#prototype)
-* [Documentation](#documentation)
-* [Conclusion](#conclusion)
+## 💫Table of Contents
+- [Group Members](#group-members)
+- [Table of Contents](#table-of-contents)
+- [Introduction](#1-introduction)
+- [Methodology](#2-methodology)
+- [Implementation](#3-implementation)
+- [Testing and Quality Assurance](#4-testing-and-quality-assurance)
+- [Results and Achievements](#5-results-and-achievements)
+- [Prototype](#6-prototype)
+- [Documentation](#7-documentation)
+- [Conclusion](#8-conclusion)
 
 ## 1. Introduction
 ### Purpose and Objectives
@@ -83,6 +84,7 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 - PHP: Employed as a server-side scripting language for implementing back-end functionalities.
 
 ## 3. Implementation
+
 <img src="https://github.com/drshahizan/software-engineering/assets/128214992/83dae4fe-422a-42fa-b118-e7b8e7baf504" width="1000" height=auto>
 
 ![2](https://github.com/drshahizan/software-engineering/assets/128214992/7c6bf374-4f3c-4f6b-bca1-a41677c560fa)
@@ -166,20 +168,22 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 
 
 **Low Fidelity Prototype**
+Log In/Sign In
+
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/24a5da68-6dfa-4fe0-939f-5de37aac9a8c" width="1000" height=auto>
 
 **High Fidelity Prototypes**
 1. Student
 
-![image](https://github.com/drshahizan/software-engineering/assets/128214992/758b80b3-b1a8-4676-ac74-264f7e9729af)
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/aed46b20-67db-4b08-9dc3-c586c5414033" width="1000" height=auto>
 
-2. Lecturer
+2. Academic Advisor
 
-![image](https://github.com/drshahizan/software-engineering/assets/128214992/02171e9f-3c8e-4440-8c6e-816315e07dee)
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/1468f943-4d33-492f-8854-68f39738f729" width="1000" height=auto>
 
 3. Administrator
 
-![image](https://github.com/drshahizan/software-engineering/assets/128214992/ef2630d5-aaa2-446b-8993-1f03f9ffd17f)
-
+<img src="https://github.com/drshahizan/software-engineering/assets/128214992/cd09a991-9c76-4893-9594-b7fa034a7260" width="1000" height=auto>
 
 ![5](https://github.com/drshahizan/software-engineering/assets/128214992/f90e478d-e9d1-4e00-a3ec-cedc936e3ac1)
 
@@ -188,8 +192,7 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 
 ![Watercolor Twitter Header (1)](https://github.com/drshahizan/software-engineering/assets/128214992/e90f5dd4-466a-419f-8b2b-2592f19f1666)
 
-- Integration Issues: As different team members worked on separate modules, integrating all theindividual components posed challenges. We addressed this by regularly conducting integration testing and maintaining clear communication among team members by doing scrumpt meetings to ensure seamless integration.
-- Changing Requirements: Throughout the implementation phase, there were instances where the requirements evolved or changed. We addressed this challenge by maintaining flexibility in our design and implementation, embracing agile methodologies, and having open communication with the project stakeholders to adapt to the changing requirements.
+![image](https://github.com/drshahizan/software-engineering/assets/128214992/5ca8cc04-5a9d-45ba-b57f-99fbc24de61b)
 
 ![image](https://github.com/drshahizan/software-engineering/assets/128214992/ea50e4be-051e-428b-a191-d725c108fc86)
 
@@ -201,31 +204,9 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 ![func1](https://github.com/drshahizan/software-engineering/assets/128196055/7972e87b-58cf-42fb-8efa-283a10d21c4b)
 ![func2](https://github.com/drshahizan/software-engineering/assets/128196055/7009cd58-90d2-4dd8-a80f-5e3e844077fc)
 
+![nonfu](https://github.com/drshahizan/software-engineering/assets/128196055/9abe98c7-013b-474b-af45-a0c6061b893d)
 
-    
-### Non-functional Requirements:
 
-1. Performance:
-    - The system is responsive and provide fast response times.
-    
-2. Security:
-    - The system ensure secure authentication and authorization mechanisms.
-    - Confidential student and user information protected through encryption and access controls.
-    
-3. Usability:
-    - The user interface should is intuitive, user-friendly, and accessible.
-    - The system provide clear and concise error messages to guide users in case of incorrect inputs or system errors.
-
-4. Reliability:
-    - The systembe highly reliable, with minimal downtime and maximum availability.
-    - Data integrity and consistency should be even during system failures or disruptions.
-
-5. Assumptions and Constraints:
-    - The system is developed and deployed on a specific platform or operating system.
-    - The system is accessible to authorized users through web browsers.
-    - The system is integrate with existing databases, systems, or APIs as required.
-    - This project has a specific budget and timeline for development and implementation.
-    - These requirements, assumptions, and constraints provide a foundation for the design and development of the system, ensuring that it meets the desired functionality,       performance, security, usability, and other quality attributes.
 
 ## 5. Results and Achievements
 
@@ -241,7 +222,7 @@ In terms of tools, technologies, and frameworks, the project utilized the follow
 |2| UI/UX (Academic Advisor)| <a href="https://www.figma.com/proto/DBtAK206tikRXizDURZSSs/Academic-Consultation-System-UI%2FUX-(Community)?type=design&node-id=512-13187&t=dQ1CDHjSFPR3E8KR-8&scaling=scale-down&page-id=512%3A10294&starting-point-node-id=512%3A10516&show-proto-sidebar=1&hide-ui=1" ><img src="https://github.com/drshahizan/software-engineering/blob/ff60d5d37be6a34234ea420eb3c1901f1e08d25b/project/documentation/sdd/sec02/program/figma.png" width="24px" height="24px" ></a>|
 |3| UI/UX (Administrator)| <a href="https://www.figma.com/proto/DBtAK206tikRXizDURZSSs/Academic-Consultation-System-UI%2FUX-(Community)?type=design&node-id=512-19312&t=bLVGIu7GNhior3iG-8&scaling=scale-down&page-id=512%3A10295&starting-point-node-id=512%3A19312&hide-ui=1" ><img src="https://github.com/drshahizan/software-engineering/blob/ff60d5d37be6a34234ea420eb3c1901f1e08d25b/project/documentation/sdd/sec02/program/figma.png" width="24px" height="24px" ></a>|
 
-## 7.  Documentation
+## 7. Documentation
 | No | Name |File | 
 | -----:| ----- | :------: | 
 |1| Proposal | <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/program" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/program/img/1999131.png" width="24px" height="24px" ></a>|
