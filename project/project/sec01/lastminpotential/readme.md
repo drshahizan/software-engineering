@@ -49,7 +49,16 @@ Don't forget to hit the :star: if you like this repo.
 <img src="Screenshot 2023-07-05 222813.png">
 <img src="Screenshot 2023-07-05 222830.png">
 <img src="Screenshot 2023-07-05 222855.png">
-
+<img src="Screenshot 2023-07-05 223419.png">
+<img src="Screenshot 2023-07-05 223431.png">
+<img src="Screenshot 2023-07-05 223447.png">
+<img src="Screenshot 2023-07-05 222855.png">
+<img src="Screenshot 2023-07-05 222855.png">
+<img src="Screenshot 2023-07-05 222855.png">
+<img src="Screenshot 2023-07-05 222855.png">
+<img src="Screenshot 2023-07-05 222855.png">
+<img src="Screenshot 2023-07-05 222855.png">
+<img src="Screenshot 2023-07-05 222855.png">
 </p>
 
 ## 2.Methodology
