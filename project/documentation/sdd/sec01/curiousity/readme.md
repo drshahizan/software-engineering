@@ -40,7 +40,6 @@ Don't forget to hit the :star: if you like this repo.
 | -----:| ----- | :------: | 
 |1| Document SDD| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/documentation/sdd/sec01/curiousity/Curiousity_SDD.pdf" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
 |2| Draw.io| <a href="https://app.diagrams.net/#G1DulmzgGtCdsVXz7s9y1iCIcD4upDSlWa" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
-|3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 <table>
