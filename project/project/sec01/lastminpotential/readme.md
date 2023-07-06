@@ -9,7 +9,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Project: Faculty of Computing Feedback System
-## Lastminpotential Group Members
+## Group: Lastminpotential
 <table>
   <tr>
     <th>Name</th>
