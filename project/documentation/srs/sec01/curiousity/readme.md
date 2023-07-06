@@ -40,6 +40,7 @@ Don't forget to hit the :star: if you like this repo.
 | -----:| ----- | :------: | 
 |1| Document SRS| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/documentation/srs/sec01/curiousity/Curiousity_SRS.pdf" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
 |2| Draw.io| <a href="https://app.diagrams.net/#G1vg-nVVLj8wD-G-0kdyXber8yaMZKHua6#%7B%22pageId%22%3A%22HwsaDun9NWlqgjsMZAeN%22%7D" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|3| Others| <a href="https://drive.google.com/drive/folders/1QeC8S468pCBZWLXVhhhXpWEOMtfRFafI?usp=drive_link" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
 <table>
