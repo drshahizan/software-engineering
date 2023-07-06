@@ -191,13 +191,13 @@ By leveraging the Agile methodology, we can effectively address the specific req
 **Main Activity Diagram as a Customer:**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/project/documentation/sdd/sec02/beta/diagram/General%20Activity%20Diagram.png" alt="arkedangkasa" width="400" height="600" style="border: 5px solid purple;">
+  <img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/project/documentation/sdd/sec02/beta/diagram/General%20Activity%20Diagram.png" alt="arkedangkasa" width="400" height="610" style="border: 5px solid purple;">
 </div>
 
 **Main Activity Diagram as a Administrator and Assistant:**
 
 <div align="center">
-  <img src="http://www.plantuml.com/plantuml/png/rPBDIWD1383lUOeSTm--GFVIWXUXQb7qFdJI6jWcIv9LV7jdnjRI8jwzp0_Vbv1CPkcHBER32Eq0i5Zb0mjxM0erJ99nvSw5Ik1Qzom3y0wx1_h0HyjaFSOR2NQVv3qWBbwva1_g0o1MlztmbYBnw8LJfdmLMeAVA8pfdV127xxXndHBxh-obocdE8KzHugv4HgTi1Fj_xOaymvExhcBJGMo_t-TjBNMUgzsbFogn9krweIXvr7XdNZOl0rMkNoCCdQTe-RtqEcO7fPbhn_d2m00" alt="arkedangkasa" width="500" height="550" style="border: 5px solid purple;">
+  <img src="http://www.plantuml.com/plantuml/png/rPBDIWD1383lUOeSTm--GFVIWXUXQb7qFdJI6jWcIv9LV7jdnjRI8jwzp0_Vbv1CPkcHBER32Eq0i5Zb0mjxM0erJ99nvSw5Ik1Qzom3y0wx1_h0HyjaFSOR2NQVv3qWBbwva1_g0o1MlztmbYBnw8LJfdmLMeAVA8pfdV127xxXndHBxh-obocdE8KzHugv4HgTi1Fj_xOaymvExhcBJGMo_t-TjBNMUgzsbFogn9krweIXvr7XdNZOl0rMkNoCCdQTe-RtqEcO7fPbhn_d2m00" alt="arkedangkasa" width="620" height="600" style="border: 5px solid purple;">
 </div>
 
 ## 4. Testing and Quality Assurance:
@@ -263,7 +263,7 @@ In conclusion, to optimize the food ordering system, it is essential to prioriti
 | :-----: |  ------ | :-----: | 
 | 1 | Proposal |<a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/Beta" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> |
 | 2 | System Requirements Specification (SRS)| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/documentation/srs/sec02/beta/System%20Requirement%20Specification.docx.pdf" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> | 
-| 3 | System Design Descriptions (SDD) | <a href="https://docs.google.com/document/d/1gna8Y_3pXq2pYxGWBdGKjZ8hy1BKsWuh/edit" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> | 
+| 3 | System Design Descriptions (SDD) | <a href="https://github.com/drshahizan/software-engineering/blob/main/project/documentation/sdd/sec02/beta/System%20Design%20Descriptions-SDD.docx.pdf" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> | 
 | 4 | System Test Descriptions (STD)| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/documentation/std/sec02/beta/System%20Test%20Description%20(STD)%20Documentation.docx.pdf" ><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="24px" height="24px" ></a> | 
 
 ## Project Documentation Update
