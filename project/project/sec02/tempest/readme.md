@@ -96,6 +96,57 @@ Don't forget to hit the :star: if you like this repo.
 ![30](https://github.com/drshahizan/software-engineering/assets/128146716/01d447df-2312-4979-a361-60aeb8201e2f)
 ![31](https://github.com/drshahizan/software-engineering/assets/128146716/56e17d2f-3e94-4798-b484-f8eddad42e7a)
 
+## Group Activity SRS
+| No | Date | Member Name | Role	| Task	| Status	| 
+| -----:| ----- | ------ | ------ | ------ | ------ |
+| 1 | 17/04/2023| Luqman Hakim | Main Developer | Create project plan | Complete |
+| 2| 17/04/2023| Luqman Hakim|Main Developer |Find and Identify stakeholder | Complete |
+| 3| 02/05/2023|Danial | Assistant Developer|Preparation of interview questions | Complete|
+| 4|03/05/2023 |Luqman, Danial, Anas, Kugen |Main Developer, Assistant Developer, UI/UX Designer, Scrum Master | Interview with stakeholder (CEO and Staff) |Complete |
+| 5| 04/05/2023|Luqman, Anas, Danial, Kugen |Main Developer,Assistant Developer, UI/UX Designer, Scrum Master |Project Discussion| Complete |
+| 6| 04/05/2023|Danial | Assistant Developer | Interview with stakeholder (Client) | Complete |
+| 7|07/05/2023 |Luqman, Danial, Anas, Kugen |Main Developer, Assistant Developer, UI/UX Designer, Scrum Master | Create Proposal |Complete |
+|8| 12/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| SRS Documentation Planning | Complete |
+|9| 12/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Create SRS documentation System | Complete|
+|10| 12/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Creates UML Diagram,User Diagram,User Journey Maps Diagram,User Stories and Prototype| Complete |
+|11| 15/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Gather Required Diagrams | Complete |
+|12|20/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Update Documentation | Complete |
+|13|20/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Finalize Documentation | Complete |
+
+## Group Activity SDD
+| No | Date | Member Name | Role	| Task	| Status	| 
+| -----:| ----- | ------ | ------ | ------ | ------ |
+| 1 | 17/04/2023| Luqman Hakim | Main Developer | Create project plan | Complete |
+| 2| 17/04/2023| Luqman Hakim|Main Developer |Find and Identify stakeholder | Complete |
+| 3| 02/05/2023|Danial | Assistant Developer|Preparation of interview questions | Complete|
+| 4|03/05/2023 |Luqman, Danial, Anas, Kugen |Main Developer, Assistant Developer, UI/UX Designer, Scrum Master | Interview with stakeholder|Complete |
+| 5| 04/05/2023|Luqman, Anas, Danial, Kugen |Main Developer,Assistant Developer, UI/UX Designer, Scrum Master |Project Discussion| Complete |
+|6|22/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| SDD Documentation Planning | Complete |
+|7|22/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Distribution task : Information Architecture, User Flow, Low Fidelity, High Fidelity, Typography and Design| Complete |
+|8|23/05/2023|Luqman| Main Developer | Low Fidelity | Complete |
+|9|25/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Stand-Up Meeting : Discussion about additional features | Complete |
+|10|25/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Sketching the rough idea of the additional features | Complete |
+|11|27/05/2023| Anas |Scrum Master| High Fidelity | Complete |
+|12|27/05/2023| Danial |Assistant Developer| Information Architecture and User Flow | Complete |
+|13|27/05/2023| Kugen |UI/UX Designer| Typography and Design | Complete |
+|14|08/06/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Scrum meeting : Discussion about  prototype design | Complete |
+|15|11/06/2023|Luqman| Main Developer | UI design for client | Complete |
+|16|11/06/2023|Luqman| Main Developer | UI design for management | Complete |
+|17|20/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Update Documentation | Complete |
+|18|20/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Finalize Documentation | Complete |
+
+## Group Activity STD
+| No | Date | Member Name | Role	| Task	| Status	| 
+| -----:| ----- | ------ | ------ | ------ | ------ |
+| 1 | 17/04/2023| Luqman Hakim | Main Developer | Create project plan | Complete |
+| 2|17/04/2023| Luqman Hakim|Main Developer |Find and Identify stakeholder | Complete |
+| 3|02/05/2023|Danial | Assistant Developer|Preparation of interview questions | Complete|
+| 4|03/05/2023 |Luqman, Danial, Anas, Kugen |Main Developer, Assistant Developer, UI/UX Designer, Scrum Master | Interview with stakeholder|Complete |
+| 5|04/05/2023|Luqman, Anas, Danial, Kugen |Main Developer,Assistant Developer, UI/UX Designer, Scrum Master |Project Discussion| Complete |
+| 6|15/06/2023|Luqman, Anas, Danial, Kugen |Main Developer,Assistant Developer, UI/UX Designer, Scrum Master |STD Documentation Planning | Complete |
+| 7|16/06/2023|Luqman, Anas, Danial, Kugen |Main Developer,Assistant Developer, UI/UX Designer, Scrum Master |Create STD Documentation | Complete |
+| 8|23/06/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Update Documentation | Complete |
+| 9|20/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Finalize Documentation | Complete |
 
 ## All Documentation
 | No | Name |File | 
@@ -107,9 +158,12 @@ Don't forget to hit the :star: if you like this repo.
 |5| Draw.io| <a href="https://github.com/drshahizan/software-engineering/tree/main/project/documentation/srs/sec02/tempest/drawio" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/fa23f96100aedccb8c634fba496ebcfc9968b9ee/images/drawio.svg" width="24px" height="24px" ></a>|
 |6| Borang Badal Haji| <a href="https://drive.google.com/drive/folders/1xm0X4yxzjBrGPt_EeF4PT4udWYxdx8PS?usp=share_link" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
 |7| Borang Umrah| <a href="https://drive.google.com/drive/folders/1cNg7cQG-RONHfL7_yHy9h5DZDWGfi-1k?usp=share_link" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
-|8| Low Fidelity| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/tempest/low%20fidelity_merged.pdf" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
-|9| Project PDF| <a href="https://drive.google.com/file/d/1WWLXXJvLs9-tKGFfzzio0vRRzILjCXoy/view?usp=sharing" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
-|10| High Fidelity| <a href="https://www.figma.com/file/14yOLT8pXoP32SdUMzbycj/High-Fidelity?type=design&mode=design&t=paIO4RrD2YTAGP86-1" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/fa23f96100aedccb8c634fba496ebcfc9968b9ee/images/figma.svg" width="24px" height="24px" ></a>|
+|8| Low Fidelity| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/tempest/LOW%20FIDELTY%20(SE).pdf" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
+|9| Sticky Notes| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/tempest/STICKY%20NOTES%20(SE).pdf" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
+|10| Project PDF| <a href="https://drive.google.com/file/d/1WWLXXJvLs9-tKGFfzzio0vRRzILjCXoy/view?usp=sharing" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
+|11| High Fidelity| <a href="https://www.figma.com/file/14yOLT8pXoP32SdUMzbycj/High-Fidelity?type=design&mode=design&t=paIO4RrD2YTAGP86-1" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/fa23f96100aedccb8c634fba496ebcfc9968b9ee/images/figma.svg" width="24px" height="24px" ></a>|
+|12| Project Timeline| <a href="https://github.com/users/drshahizan/projects/23" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
+|13| Pictures| <a href="https://drive.google.com/drive/folders/1sMyUGVDlOr-ABP3iYlg7yDIldHxCrpgK?usp=sharing" ><img src="https://www.freeiconspng.com/thumbs/photography-icon-png/photo-album-icon-png-14.png" width="24px" height="24px" ></a>|
 
 ## Design Prototype
 | No | Name |File | 

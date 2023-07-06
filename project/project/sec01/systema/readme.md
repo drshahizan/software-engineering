@@ -1,19 +1,61 @@
+# Activity: Group Systema
 
-<a href="https://github.com/drshahizan/software-engineering/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/software-engineering" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/network/members"><img src="https://img.shields.io/github/forks/drshahizan/software-engineering" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/issues"><img src="https://img.shields.io/github/issues/drshahizan/software-engineering" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/software-engineering/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/software-engineering?color=2b9348"></a>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fsoftware-engineering&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+## Documentation
+| No | Name |  File |
+| :-----: |  ------ | :-----: | 
+| 1 | Proposal |  <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec01/Systema" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
+| 2 | System Requirements Specification (SRS)| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/documents/Systema_SRS.pdf" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px"></a> | 
+| 3 | System Design Descriptions (SDD) | <a href="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/documents/Systema_SDD.pdf"><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px"></a> | 
+| 4 | System Test Descriptions (STD)| <a href="https://docs.google.com/document/d/1Yt3tCnSIXsN3v5-A7byXm0uLhwLEIxawGTR2LrUj7L8/edit"><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px"></a> | 
+| 5 | Figma |  <a href="https://www.figma.com/file/xoLv2jya85swQCl30HYeFQ/Student-Engagement-System-Design?type=design&node-id=65-1843&mode=design&t=rtAtprcK5GmkKs3P-0" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/9351bd712f05648b3c117eec85186a261de98c92/project/project/sec01/curiousity/img/figma.svg" width="24px" height="24px" ></a> |  
+
+## Presentation Slide Link
+https://docs.google.com/presentation/d/16SgsDvl8idsYkd5b54facOLDETNoXA7OtwZUe_F1Edw/edit?usp=sharing
+
+## Slides
+![1](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0001.jpg)
+![2](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0002.jpg)
+![3](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0003.jpg)
+![4](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0004.jpg)
+![5](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0005.jpg)
+![6](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0006.jpg)
+![7](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0007.jpg)
+![8](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0008.jpg)
+![9](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0009.jpg)
+![10](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0010.jpg)
+![11](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0011.jpg)
+![12](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0012.jpg)
+![13](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0013.jpg)
+![14](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0014.jpg)
+![15](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0015.jpg)
+![16](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0016.jpg)
+![17](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0017.jpg)
+![18](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0018.jpg)
+![19](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0019.jpg)
+![20](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0020.jpg)
+![21](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0021.jpg)
+![22](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0022.jpg)
+![23](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0023.jpg)
+![24](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0024.jpg)
+![25](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0025.jpg)
+<img src="https://github.com/drshahizan/software-engineering/assets/96631869/47419c03-98d4-4478-b56a-c4c8630f6158">
+<img src="https://github.com/drshahizan/software-engineering/assets/96631869/1c65f721-49c5-42dc-85b4-e585a6661650">
+![28](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0028.jpg)
+![29](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0029.jpg)
+![30](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0030.jpg)
+![31](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0031.jpg)
+<img src="https://github.com/drshahizan/software-engineering/assets/96631869/5f000991-e15b-4739-bb15-15c7344ef5e8">
+<img src="https://github.com/drshahizan/software-engineering/assets/96631869/1a8222b1-9f08-4b55-8cd1-d878fef058a3">
+<img src="https://github.com/drshahizan/software-engineering/assets/96631869/426cdf78-0010-47ad-8364-6356c13e16b3">
+<img src="https://github.com/drshahizan/software-engineering/assets/96631869/8ca0ca23-bc75-4b9e-997e-3043f4c7a714">
+<img src="https://github.com/drshahizan/software-engineering/assets/96631869/a900ec85-61ec-4866-8f4c-345d6aa4f78b">
+![34](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0034.jpg)
+![35](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0035.jpg)
+<img src="https://github.com/drshahizan/software-engineering/assets/96631869/7ff79462-16c5-4335-8de5-61752b910ac2">
 
 
-Don't forget to hit the :star: if you like this repo.
 
-# Project: Group Systema
-
-<img src="https://i.imgur.com/2ukWq8F.jpg" alt="img" style="width:350px;height:350px">
-
-## Group Members
+<!---## Group Members
 <table>
   <tr>
     <th>No.</th>
@@ -118,7 +160,7 @@ Overall, the development of a student engagement website aligns with the evolvin
 ### Software Process Model
 <!--- Describe the approach and methodologies utilized to tackle the project.
  Explain the software development life cycle model or any other relevant methodology adopted.
- Highlight any specific tools, technologies, or frameworks employed during the project. -->
+ Highlight any specific tools, technologies, or frameworks employed during the project. 
 <img src="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec01/Systema/agile.png" height="30%" width="30%">
 We are using agile method as this is a software process model that emphasizes iterative and incremental development, flexibility, and collaboration between team members and stakeholders. It is particularly suitable for projects where the requirements are likely to evolve over time.
 Agile methodology is ideal for developing a student engagement system with a personalized dashboard, anonymous forum, feedback system, and reporting module. It allows for iterative development, flexibility to accommodate changing requirements, collaboration among team members and stakeholders, and continuous testing and feedback. This approach ensures the system evolves effectively and meets the needs of University Teknologi Malaysia Faculty of Computing's students,lecturers,SRC Members and administrators.
@@ -140,7 +182,7 @@ These are the used tools and technologies for developing our Student Engagement 
 ## 3. Implementation:
 <!--- Detail the specific tasks and activities undertaken by your group.
 - Provide an overview of the software components or modules developed.
-- Describe any challenges faced during the implementation phase and how you addressed them. -->
+- Describe any challenges faced during the implementation phase and how you addressed them. 
 
 ## Activities and Timeline 
 | No | Date | Member Name | Role	| Task	| Status	| 
@@ -173,6 +215,7 @@ These are the used tools and technologies for developing our Student Engagement 
 | 26 | 30/06/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | STD Planning | Complete |
 | 27 | 01/07/2023 | Bernice Lim Jing Xuan, Chai Yu Tong, Kek Jesslyn, Wong Qiao Ying, Yeoh Chong Yi | Project Manager, Developer, Support Engineer, UI/UX Designer, Technical Writer | STD Test Case | Complete |
 
+<img src="https://github.com/drshahizan/software-engineering/assets/96631869/b857e38c-6d1d-4f3f-9e15-2201d3e6cbd4">
 ### First Stakeholer: Jasmine Alisha -  Student Representative Council (SRC)
 <img src="https://user-images.githubusercontent.com/129290170/236827544-b0c72886-55d0-4c0a-9c35-11f7423e0715.jpg" height="30%" width="60%">
 
@@ -326,4 +369,4 @@ By implementing these quality assurance processes, we strive to deliver a softwa
 
 - Summarize the overall project experience and lessons learned.
 - Reflect on the challenges faced and how they were overcome.
-- Highlight any future improvements or recommendations for further development.
+- Highlight any future improvements or recommendations for further development. --->

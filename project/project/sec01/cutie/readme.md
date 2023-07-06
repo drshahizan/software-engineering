@@ -10,11 +10,10 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Activity: Group Cutie
+![1](https://github.com/drshahizan/software-engineering/assets/129287788/6b144bc8-c277-478a-9411-0446e7012d69)
+![2](https://github.com/drshahizan/software-engineering/assets/129287788/bfe49348-46e2-4b3d-8c60-62b1bc98bd44)
 
 ## Group Members
-
-![group photo](https://github.com/drshahizan/software-engineering/assets/129287788/ce838130-35d5-43b5-9775-3f4b753567e4)
-
 <table>
   <tr>
     <th>Name</th>
@@ -56,44 +55,15 @@ Don't forget to hit the :star: if you like this repo.
 
 # Student Management System
 
-## Introduction
-  In today's world, technology has become an integral part of our daily lives, including education. Digital attendance management systems are widely used in educational institutions to manage student attendance. For example, UTM uses UTM Digital to track and manage student attendance. However, some features are inefficient and fail to meet the needs of modern-day educational institutions.
-The proposed digital student attendance management system aims to address the weaknesses of the existing attendance systems by providing an efficient and effective way to manage student attendance. The software will be designed to be user-friendly, intuitive, and easy to use, allowing teachers and administrators to manage attendance with ease.
-The proposed software will enable lecturers to take attendance quickly and easily using a range of devices, including smartphones, tablets, and laptops. The system will also provide real-time attendance reports, allowing teachers and administrators to monitor attendance trends and take corrective action as needed.
-The benefits of the proposed system are numerous. The software will improve accuracy and reliability, reduce the workload of teachers, and provide a more comprehensive and efficient way to manage attendance. Moreover, the system will identify areas for improvement, leading to better student engagement.
+![3](https://github.com/drshahizan/software-engineering/assets/129287788/c8626e6f-73c9-4c0f-b317-35d302e125a7)
+![4](https://github.com/drshahizan/software-engineering/assets/129287788/857119ff-2baa-48f7-8b45-f60e8118d095)
+![5](https://github.com/drshahizan/software-engineering/assets/129287788/4d9e3474-1024-4eb3-bb57-d588c3754073)
+![6](https://github.com/drshahizan/software-engineering/assets/129287788/0c578630-13ae-4b34-a3f3-78c6d790acd4)
+![7](https://github.com/drshahizan/software-engineering/assets/129287788/ebab7130-e2d6-405c-a5a6-9087ecbde492)
 
-#### Objective
-  We aim to identify the existing bugs and inefficiencies in the current system, which will be addressed in the new design.
-<ol><li><b>Implement new attendance marking options:</b></li><ul>
- <li>In addition to the current attendance marking system using QR codes, alternative methods such as typing in a line of randomly generated code should be an option for students in case their device faces camera issues.</li></ul>
-<li><b>Implement location-based check-ins:</b></li><ul> 
-<li>Students are often able to mark their attendance without actually attending the class through the help of their friends. With the implementation of location-based check-ins, we can ensure  the students that have marked their location are actually attending the class.</li></ul>
-<li><b>Implement biometric authentication:</b> </li><ul>
-<li>Biometric authentication, such as facial recognition or fingerprint scanning. This helps to prevent attendance fraud and increase accuracy.</li></ul>
-<li><b>Generate a table:</b></li><ul>
-<li>Records the attendance of the students, displays their attending time in order, and highlights students who are late to class. The table eases the management of student attendance for the lecturers.</li></ul></ol>
-  This project holds significant potential impact by saving time, reducing errors, and providing real-time attendance data for effective decision making.
 
-## Methodology
-
-This project adopted an Agile software development methodology, specifically the Scrum framework. This allowed our team to iteratively plan, develop, and deliver the Attendance System in incremental stages. The use of Scrum facilitated effective collaboration within our team and ensured continuous feedback from stakeholders. 
-<br>
-<img width="465" alt="image" src="https://user-images.githubusercontent.com/129235052/235556623-d14c5c2e-9fa6-4c44-b8ff-9290ced8e78e.png">
-
-The phases involved in the AGILE software process model are:
-#### 1. Planning Phase: 
-The planning phase involves defining the scope of the project, identifying the stakeholders, and creating a project roadmap. The duration for this phase is two weeks, and the project manager (Jaslene Yu)  is responsible for this phase's deliverables, which include the project roadmap and stakeholder analysis.
-#### 2. Analysis Phase: 
-The analysis phase involves gathering requirements and identifying user stories. The duration for this phase is four weeks, and the business analyst (Nicole Lim Tze Yee) is responsible for this phase's deliverables, which include the requirements document and user stories.
-#### 3. Design Phase: 
-The design phase involves creating the system architecture, wireframes, and prototypes. The duration for this phase is six weeks, and the UI/UX designer (Tiew Chuan Rong)  is responsible for this phase's deliverables, which include the system architecture, wireframes, and prototypes. 
-#### 4. Implementation Phase: 
-The implementation phase involves developing and testing the software. The duration for this phase is eight weeks, and the developer (Tiew Chuan Shen)  is responsible for this phase's deliverables, which include working software and test reports. The person in charge for this phase is Tiew Chuan Shen.
-#### 5. Review Phase: 
-The review phase involves reviewing the software and identifying areas for improvement. The duration for this phase is two weeks, and the quality assurance team (Wong Jun Ji)  is responsible for this phase's deliverables, which include the review report and the list of improvements. <br>
-Testing methodologies such as unit testing, integration testing, system testing, and acceptance testing are used to assure the quality and functionality of the system. The project management practices for this project include regular communication, project tracking, risk management and change management. Lastly, the quality assurance processes for this project are code reviews, testing and continuous integration.
-
-#### *Specific tools....( from docs )*
+![8](https://github.com/drshahizan/software-engineering/assets/129287788/f62ac95f-a2c9-44c4-8013-9f0db897afd9)
+![9](https://github.com/drshahizan/software-engineering/assets/129287788/ff9e22ce-59e4-497a-b008-7b29299952d1)
 
 ## Implementation
 <ol><li><b>Tasks and activities : </b>
@@ -150,76 +120,47 @@ Our team conducted meetings with our stakeholders to understand their requiremen
     <td>Lecturer</td>
     <td>Defining requirements. Lecturer can provide valuable input for the attendance system. Valuable input can be specified as what attendance data they need to track (Students, name, ID, location, etc), how they want the attendance to be marked (by scanning QR code/ by entering random number generated), and what reporting and analysis capabilities they require.</td>
   </tr>
-   
+  <tr>
+    <td>4 Mohd Fazli bin Abd Hakim</td>
+    <td>Admin</td>
+    <td>Assistant Information Technology Officer</td>
+    <td>Provide an overview of the existing system and the expectation of this system</td>
+  </tr>
 </table>
-#### *Paste Stakeholder photo, info here*</li>
+</li>
+
+![11](https://github.com/drshahizan/software-engineering/assets/129287788/a4e0ee4b-579b-446f-bea4-d420bbc3fab5)
+![12](https://github.com/drshahizan/software-engineering/assets/129287788/78122b8e-b44f-45b3-a366-445dccccea6b)
+
+
 <li><b>System Design : </b><br>
 Our team had collaborated with our stakeholders to create a system design that aligned with their requirements. We had defined the system architecture, including the backend, database, and user interface components. We had also created high-level and detailed design documentation, specifying the system’s modules, their interactions, and data flow.
 
-#### *Paste Component model (sdd, Use case diagram (proposal , package diagram (sdd here*
-#### Use case diagrem:
-![image](https://github.com/drshahizan/software-engineering/assets/129280403/3ae871d5-8510-4163-b0ee-af4c2cc59a42)
-
-#### Activity diagram:
-![image](https://github.com/drshahizan/software-engineering/assets/129280403/ea1e2d67-9c13-4728-892f-aba1f2c663f9)
-
-
-
+![13](https://github.com/drshahizan/software-engineering/assets/129287788/2c88df52-97cd-40c9-ac97-06d884b9859e)
+![14](https://github.com/drshahizan/software-engineering/assets/129287788/d72bbc67-9206-48b6-a3e3-d5e6b6f33f8b)
+![15](https://github.com/drshahizan/software-engineering/assets/129287788/94995144-73f0-44ae-81ce-52159cdf91e4)
 
 </li>
 
-<li><b>UI/UX Design : </b><br>
-Our team had conducted user research to understand the needs and preferences of different user groups. Low-fidelity wireframes using sticky notes to visualize the basic layout and functionality of the user interface had been created. Then, we incorporated feedback from our stakeholders and users to iteratively improve the UI design. The low-fidelity wireframes are then translated into high-fidelity designs using the Figma design tool. Collaboration with the development team had ensured that the UI designs were implementable.
 
-#### Software Components/Modules Developed
-##### User Interface (UI) Module
-The UI module is responsible for providing an intuitive and user-friendly interface for users to interact with the Attendance System. It includes features such as login/authentication screens, attendance recording forms, report generation interfaces, and administrative setting panels. The UI module undergoes two stages of development: low fidelity and high fidelity.
+![16](https://github.com/drshahizan/software-engineering/assets/129287788/4b6a0053-b8ce-442f-8234-2b8c45cbe619)
 
 1.1	Low Fidelity UI:
 In the earlier stages of development, The UI module utilizes low fidelity designs. These designs are basic wireframes or sketches that outline the structure, layout and flow of the user interface. The wireframes are sketched on sticky notes so that it can be rearranged on a board or a wall.
+![17](https://github.com/drshahizan/software-engineering/assets/129287788/263d97b5-c67c-48e7-a733-0ca869d02932)
+![18](https://github.com/drshahizan/software-engineering/assets/129287788/5e3e63f9-116d-40a5-a4ce-ffbb50ae1540)
+![19](https://github.com/drshahizan/software-engineering/assets/129287788/14a9089d-34e5-49b9-8bb8-fd30b39cf321)
+![20](https://github.com/drshahizan/software-engineering/assets/129287788/878dcf6f-9151-4ce3-9115-0515b5140d7f)
 
 1.2	High Fidelity UI:
 In later stages of development, the UI module transitions to high fidelity designs created using the Figma design tool. Figma provides a digital design environment that allows designers to create polished and visually appealing interfaces. High fidelity UI designs in Figma incorporate detailed visual elements, typography and colors.
-
-##### Authentication Module:
-The authentication module handles user authentication and security within the Attendance System. It includes functionalities such as login, password management, and access control. The module ensures secure access to the system, encrypts sensitive information, and manages user sessions.
-//+paste ui design 
-#### UI/UX Design 
-
-Student:
-![image](https://github.com/drshahizan/software-engineering/assets/129280403/d05c2b29-9cb9-4a92-ba0c-78d7fee29beb)
-
-Lecturer:
-![image](https://github.com/drshahizan/software-engineering/assets/129280403/9c6633c2-9e66-4642-b8dc-c1c5303f179e)
-
-Admin:
-![image](https://github.com/drshahizan/software-engineering/assets/129280403/7408cf89-9356-4fb5-b287-56079831c6bf)
-
-![image](https://github.com/drshahizan/software-engineering/assets/129280403/f9af3314-4bb4-4128-bd85-8727feeb2e90)
-
-
-
-
+![21](https://github.com/drshahizan/software-engineering/assets/129287788/0475f064-d927-46f5-abfd-a63a15e18d56)
+![22](https://github.com/drshahizan/software-engineering/assets/129287788/c3dde1a4-a052-4947-b159-cbd92eb9e4c4)
+![23](https://github.com/drshahizan/software-engineering/assets/129287788/cbcf82cf-0b74-4805-aca4-fefd3c44e830)
   
-#### Challenge faced
-##### 1. Technical Compatibility
-###### Challenge:
-Integrating the different modules and ensuring their compatibility with each other posed a challenge. The UI module developed in early stages with low fidelity using sticky notes needed to be seamlessly integrated with the high fidelity designs created in Figma. Additionally, ensuring compatibility between the authentication module and UI module required careful consideration.
-###### Solution:
-Regular communication and collaboration among the development team members helped address this challenge. Meetings were conducted online to discuss the technical requirements, dependencies, and potential conflicts. Prototypes and ideas were shared to ensure smooth integration between modules. Thorough testing and debugging were performed during the integration phase to identify and resolve any compatibility issues.
-##### 2. User Experience (UX) Design
-###### Challenge:
-Creating a user-friendly and intuitive interface that meets the needs of different user roles was also a challenge. Balancing the system’s functionality with an optimal user experience required careful consideration of user workflows, information architecture, and usability principles.
-###### Solution:
-To overcome this challenge, user research and feedback were collected throughout the implementation phase. The UI/UX team conducted usability testing and incorporated iterative design improvements based on user feedback. Collaboration between UI/UX designers and the development team ensured that the implemented UI modules align with the desired user experience.
-##### 3. Project Management and Collaboration
-###### Challenge:
-Coordinating the efforts of the development team, ensuring effective communication, and managing the project timeline posed great challenges. WIth multiple modules being developed at the same time, keeping track of progress, resolving dependencies, and maintaining consistency required efficient project management.
-###### Solution:
-Agile project management methodologies, specifically Scrum was employed to streamline the development process. Regular team meetings and sprint sessions were conducted to track progress, address issues and prioritize tasks. Clear communication channels were established, and collaboration tools, such as Google Meets and WhatsApp were used to facilitate efficient communication among team members.
-
-</li>
-
+![24](https://github.com/drshahizan/software-engineering/assets/129287788/0338a334-43d0-4d29-a243-43e419adcf8d)
+![25](https://github.com/drshahizan/software-engineering/assets/129287788/96e78868-7218-4465-ad89-4a9d42bd2b45)
+![26](https://github.com/drshahizan/software-engineering/assets/129287788/45c906fa-b6d5-4084-8265-5859a483895b)
 </ol>
 
 ## Testing and Quality Assurance
@@ -245,43 +186,14 @@ The team promoted a collaborative environment where members reviewed each other�
 At the end of the project, the team conducted a comprehensive evaluation to assess the overall success of the project. This involved reviewing project objectives, stakeholder feedback, and any quantitative or qualitative data collected during the testing phase.
 
 
-
-## Results and Archievements
-### User Satisfaction:
-Feedback from stakeholders and users has been overwhelmingly positive. Through user testing and feedback sessions, the project team gathered valuable insights that guided the system’s development. Users have expressed satisfaction with the system’s ease of use and intuitive interface.
-### Data Analysis and Reporting:
-The Attendance Management System includes reporting and analytics capabilities, enabling administrators to generate comprehensive attendance reports. These reports provide valuable insights into attendance trends, patterns, and statistics, supporting data-driven decision-making and resource planning.
-### Stakeholder Engagement:
-Throughout the project’s evaluation process, stakeholders have actively engaged with the project team. Their involvement and feedback have been instrumental in shaping the system’s features, ensuring it aligns with their specific needs and requirements.
-### Enhanced Accuracy:
-The implementation of biometric and location verification mechanisms in the Attendance System has significantly improved the accuracy of attendance records. By requiring students to physically scan their biometrics (fingerprints or facial recognition) and verifying their location, the system ensures that attendance is marked only when students are physically present in the designated area.
-### Prevention of Attendance Fraud:
-The use of biometric and location verification has effectively prevented attendance fraud. Students are unable to scan their attendance from elsewhere or have someone else mark attendance on their behalf, as the system verifies their identity and location in real-time.
-### Increased Accountability:
-With the implementation of biometric and location verification as stated above, students are held accountable for their attendance. The system promotes a sense of responsibility and discourages absenteeism or attempts to cheat the attendance system, as each student’s presence is verified through their unique biometric information and location
-
-
-## Conclusion
-The Attendance Management System project has been a valuable experience to all team members, offering several key lessons and insights. Overall, the project has successfully addressed the challenges of accuracy and attendance fraud that exists in the system for a very long time. 
-### Project Experience and Lessons Learned:
-The project has provided us with an opportunity to involve ourselves in the development of a comprehensive attendance management system that promotes accuracy, accountability and transparency. The project also emphasized the significance of user feedback and stakeholder involvement in ensuring the success and acceptance of the system.
-
-### Overcoming Challenges:
-During the implementation phase of the project, several challenges were encountered. Here are the challenges our team  faced and how we overcame them.
-#### 1) User Acceptance and Adoption
-Updating the old system and implementing a more strict way to mark attendance can sometimes be met with resistance. To overcome this challenge, we focused on user experience design and conducted user testing sessions. By involving stakeholders, such as students and faculty members, throughout the development process, we gathered valuable feedback and made iterative improvements to the system. This approach ensured that the final solution was intuitive, user-friendly, and aligned with the needs and expectations of the end users.
-#### 2) Security and Privacy Concerns:
-Implementing biometric and location verification raised concerns about data security and privacy. We addressed these concerns by implementing robust security measures, such as encryption protocols, secure data storage, and adherence to data protection regulations. Additionally, we were transparent with users about the purpose and handling of their data, providing clear privacy policies and obtaining necessary consent. By prioritizing data security and privacy throughout the development process, we had successfully instilled trust and confidence in the system
-
-### Future Improvements and Recommendations:
-While our Attendance System has certainly achieved its objectives, there are always areas for future improvement and development. Some recommendations include:
-#### 1) User Feedback and Continuous Improvement
-Regularly soliciting feedback from users, including students and faculty members, is vital for identifying areas of improvement and addressing any emerging challenges. Conduction user surveys, feedback sessions, or focus groups can provide valuable insights for refining the system’s creatures, user interface, and overall user experience.
-
-#### 2) Accessibility Considerations
-Taking into account accessibility considerations is essential to ensure that the attendance system is usable by all students, including those with disabilities. Incorporating features such as screen reader compatibility and color contrast options can improve accessibility and inclusivity.
-#### 3) Advanced Reporting and Analytics
-Enhancing the reporting and analytics capabilities of the attendance system would provide valuable insights into attendance patterns, trends, and student engagement. By leveraging data analytics techniques, such as machine learning algorithms, the system could identify patterns of irregular attendance, early signs of academic disengagement, and potential intervention opportunities for faculty and academic advisors
+![27](https://github.com/drshahizan/software-engineering/assets/129287788/e25bd80d-dbbe-4786-92d2-c64545285f0a)
+![28](https://github.com/drshahizan/software-engineering/assets/129287788/d24764c0-fba4-46b1-86c8-1fe93c25baf4)
+![29](https://github.com/drshahizan/software-engineering/assets/129287788/792f6a67-3c94-44cc-8157-78faa109556c)
+![30](https://github.com/drshahizan/software-engineering/assets/129287788/f52b3cba-eb44-4d74-9d82-3746a74b1c68)
+![31](https://github.com/drshahizan/software-engineering/assets/129287788/36baf1d9-15d6-4f2f-ae53-1bdc171ef4f2)
+![32](https://github.com/drshahizan/software-engineering/assets/129287788/04c76e1d-50aa-4b5a-a906-dee3efd0fd14)
+![33](https://github.com/drshahizan/software-engineering/assets/129287788/42f413ee-25ac-43dd-88be-c1fa5a10ae37)
+![34](https://github.com/drshahizan/software-engineering/assets/129287788/ece417bd-73dc-4fdc-b0e0-c9999a1cad20)
 
 
 ## Contribution 🛠️
