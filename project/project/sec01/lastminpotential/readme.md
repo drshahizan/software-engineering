@@ -42,31 +42,6 @@ Don't forget to hit the :star: if you like this repo.
 |4| STD Dodumentation| <a href="https://docs.google.com/document/d/1X75pPbh5WDZcD1I6FS-6yC4SBbgDf41LpIdUpKBW8Hw/edit?usp=sharing" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
 |6| Prototype| <a href="https://www.figma.com/proto/eW49Cmu9mwtyl8ct9taeLB/Faculty-of-Computing-feedback-system?page-id=0%3A1&type=design&node-id=118-407&viewport=-1459%2C-7417%2C1.04&scaling=scale-down&starting-point-node-id=118%3A407&show-proto-sidebar=1&mode=design&t=3TA0NZS7FPOXFvid-1" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/fa23f96100aedccb8c634fba496ebcfc9968b9ee/images/figma.svg" width="24px" height="24px" ></a>|
 
-## Project Summary
-
-<img src="slide/Screenshot 2023-07-05 222813.png">
-<img src="slide/Screenshot 2023-07-05 222830.png">
-<img src="slide/Screenshot 2023-07-05 222855.png">
-<img src="slide/Screenshot 2023-07-05 223419.png">
-<img src="slide/Screenshot 2023-07-05 223431.png">
-<img src="slide/Screenshot 2023-07-05 223447.png">
-<img src="slide/Screenshot 2023-07-05 223954.png">
-<img src="slide/Screenshot 2023-07-05 224018.png">
-<img src="slide/Screenshot 2023-07-05 224039.png">
-<img src="slide/Screenshot 2023-07-05 224359.png">
-<img src="slide/Screenshot 2023-07-05 224416.png">
-<img src="slide/Screenshot 2023-07-05 224433.png">
-<img src="slide/Screenshot 2023-07-05 224909.png">
-<img src="slide/Screenshot 2023-07-05 224920.png">
-<img src="slide/Screenshot 2023-07-05 224942.png">
-<img src="slide/Screenshot 2023-07-05 225306.png">
-<img src="slide/Screenshot 2023-07-05 225322.png">
-<img src="slide/Screenshot 2023-07-05 225338.png">
-<img src="slide/Screenshot 2023-07-05 225550.png">
-<img src="slide/Screenshot 2023-07-05 225601.png">
-<img src="slide/Screenshot 2023-07-05 225616.png">
-<img src="slide/Screenshot 2023-07-05 230126.png">
-
 <b>Specific tasks and activities undertaken by your group.</b>
 
 | No | Date | Member Name | Role	| Task	| Status	| 
@@ -128,6 +103,33 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
   
 </table>
+
+
+## Project Summary
+
+<img src="slide/Screenshot 2023-07-05 222813.png">
+<img src="slide/Screenshot 2023-07-05 222830.png">
+<img src="slide/Screenshot 2023-07-05 222855.png">
+<img src="slide/Screenshot 2023-07-05 223419.png">
+<img src="slide/Screenshot 2023-07-05 223431.png">
+<img src="slide/Screenshot 2023-07-05 223447.png">
+<img src="slide/Screenshot 2023-07-05 223954.png">
+<img src="slide/Screenshot 2023-07-05 224018.png">
+<img src="slide/Screenshot 2023-07-05 224039.png">
+<img src="slide/Screenshot 2023-07-05 224359.png">
+<img src="slide/Screenshot 2023-07-05 224416.png">
+<img src="slide/Screenshot 2023-07-05 224433.png">
+<img src="slide/Screenshot 2023-07-05 224909.png">
+<img src="slide/Screenshot 2023-07-05 224920.png">
+<img src="slide/Screenshot 2023-07-05 224942.png">
+<img src="slide/Screenshot 2023-07-05 225306.png">
+<img src="slide/Screenshot 2023-07-05 225322.png">
+<img src="slide/Screenshot 2023-07-05 225338.png">
+<img src="slide/Screenshot 2023-07-05 225550.png">
+<img src="slide/Screenshot 2023-07-05 225601.png">
+<img src="slide/Screenshot 2023-07-05 225616.png">
+<img src="slide/Screenshot 2023-07-05 230126.png">
+
 
 ## Testing and Quality Assurance
 ### Testing Strategies and Techniques Employed:
