@@ -42,7 +42,7 @@ Don't forget to hit the :star: if you like this repo.
 |4| STD Dodumentation| <a href="https://docs.google.com/document/d/1X75pPbh5WDZcD1I6FS-6yC4SBbgDf41LpIdUpKBW8Hw/edit?usp=sharing" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
 |6| Prototype| <a href="https://www.figma.com/proto/eW49Cmu9mwtyl8ct9taeLB/Faculty-of-Computing-feedback-system?page-id=0%3A1&type=design&node-id=118-407&viewport=-1459%2C-7417%2C1.04&scaling=scale-down&starting-point-node-id=118%3A407&show-proto-sidebar=1&mode=design&t=3TA0NZS7FPOXFvid-1" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/fa23f96100aedccb8c634fba496ebcfc9968b9ee/images/figma.svg" width="24px" height="24px" ></a>|
 
-<b>Specific tasks and activities undertaken by your group.</b>
+<b>Group Activity</b>
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
