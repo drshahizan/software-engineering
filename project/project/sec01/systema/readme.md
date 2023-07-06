@@ -38,16 +38,21 @@ https://docs.google.com/presentation/d/16SgsDvl8idsYkd5b54facOLDETNoXA7OtwZUe_F1
 ![23](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0023.jpg)
 ![24](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0024.jpg)
 ![25](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0025.jpg)
-![26](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0026.jpg)
-![27](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0027.jpg)
+<img src="https://github.com/drshahizan/software-engineering/assets/96631869/47419c03-98d4-4478-b56a-c4c8630f6158">
+<img src="https://github.com/drshahizan/software-engineering/assets/96631869/1c65f721-49c5-42dc-85b4-e585a6661650">
 ![28](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0028.jpg)
 ![29](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0029.jpg)
 ![30](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0030.jpg)
 ![31](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0031.jpg)
-![32](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0032.jpg)
-![33](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0033.jpg)
+<img src="https://github.com/drshahizan/software-engineering/assets/96631869/5f000991-e15b-4739-bb15-15c7344ef5e8">
+<img src="https://github.com/drshahizan/software-engineering/assets/96631869/1a8222b1-9f08-4b55-8cd1-d878fef058a3">
+<img src="https://github.com/drshahizan/software-engineering/assets/96631869/426cdf78-0010-47ad-8364-6356c13e16b3">
+<img src="https://github.com/drshahizan/software-engineering/assets/96631869/8ca0ca23-bc75-4b9e-997e-3043f4c7a714">
+<img src="https://github.com/drshahizan/software-engineering/assets/96631869/a900ec85-61ec-4866-8f4c-345d6aa4f78b">
 ![34](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0034.jpg)
 ![35](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/systema/Project%20Slide/Systema_page-0035.jpg)
+<img src="https://github.com/drshahizan/software-engineering/assets/96631869/7ff79462-16c5-4335-8de5-61752b910ac2">
+
 
 
 <!---## Group Members

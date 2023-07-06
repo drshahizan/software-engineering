@@ -96,7 +96,9 @@ Don't forget to hit the :star: if you like this repo.
 | 12 | 15/05/2023 | All members | | Conduct a meeting with the fourth stakeholder, an administrative officer |  Complete | 
 | 13 | 16/05/2023 | All members || Discuss the use case to be included in the system | Complete |   
 | 14 | 20/05/2023 | All members | | Complete the Software Requirements Specification (SRS) documentation | Complete |
- 
+| 15 | 10/06/2023 | All members | | Complete the Software Design Description (SDS) documentation | Complete |
+| 16 | 15/06/2023 | All members | | Complete the Software Testing Documentation (STD) documentation | Complete |
+| 17 | 20/06/2023 | All members | | Complete the Behance | Complete |
  
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

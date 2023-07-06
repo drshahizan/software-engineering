@@ -73,23 +73,23 @@ Don't forget to hit the :star: if you like this repo.
 ## All Documentation
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Proposal| <a href="https://github.com/drshahizan/software-engineering/blob/main/proposal/materials/groups.md" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
+|1| Proposal| <a href="https://github.com/drshahizan/software-engineering/tree/main/proposal/submission/sec02/Alpha" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
 |2| SRS Documentation| <a href="https://drive.google.com/drive/folders/13ORkXGqhQvWlCVeE8A95KMH4q6KokaPY" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
-|3| SDD Documentation| <a href="https://github.com/drshahizan/software-engineering/tree/main/project/documentation/sdd/sec02/alpha" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
-|4| STD Documentation| <a href="https://github.com/drshahizan/software-engineering/tree/main/project/documentation/std/sec02/alpha" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
+|3| SDD Documentation| <a href="https://docs.google.com/document/d/1BpR_R0cggi0d6TTINGjbK67qb-gE-hvnIOiUzpvXb90/edit" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
+|4| STD Documentation| <a href="https://docs.google.com/document/d/1CRnKd_Ki_7D9XXST1HG627Bahwv80qcfQonZ4v4X-pY/edit" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
 |5| Draw.io| <a href="https://github.com/drshahizan/software-engineering/tree/main/project/drawio/Alpha" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/fa23f96100aedccb8c634fba496ebcfc9968b9ee/images/drawio.svg" width="24px" height="24px" ></a>|
 |6| Use Case Diagram| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/drawio/Alpha/useCase.drawio.png" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/fa23f96100aedccb8c634fba496ebcfc9968b9ee/images/drawio.svg" width="24px" height="24px" ></a>|
 |7| Related Documents/Resources | <a href="https://drive.google.com/drive/folders/1ERPd7xwwLWaI4YWpnOIB1q48y3nP6lFU" ><img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg" width="24px" height="24px" ></a>|
 |8| Project Timeline| <a href="https://github.com/users/drshahizan/projects/18/views/1" ><img src="https://raw.githubusercontent.com/drshahizan/software-engineering/main/images/document1.png" width="24px" height="24px" ></a>|
-|9| Project Presentation PDF| <a href="" ><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="24px" height="24px" ></a>|
+|9| Project Presentation PDF| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM.pdf" ><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="24px" height="24px" ></a>|
 
 ## Design Phase
 | No | Name |File | 
 | -----:| ----- | :------: | 
 |1| Information Architecture| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/(A)Information%20System.pdf" ><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="24px" height="24px" ></a>|
 |2| User Flow| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/User%20Flow1.pdf" ><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="24px" height="24px" ></a>|
-|3| Low Fidelity| <a href="" ><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="24px" height="24px" ></a>|
-|4| High Fidelity | <a href="" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
+|3| Low Fidelity| <a href="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/lowfidelity.pdf" ><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="24px" height="24px" ></a>|
+|4| High Fidelity | <a href="https://www.figma.com/file/FE88d0AZqBAUUx8Kztl34U/high-fidelity?type=design&node-id=0-1&mode=design&t=KHHpQeAxtje1l074-0" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
 |5| Prototype Main Menu | <a href="https://www.figma.com/proto/5xL6W7I4NvNIKzQeaiJYiC/Design?type=design&node-id=145-84&scaling=scale-down&page-id=0%3A1&starting-point-node-id=145%3A84&show-proto-sidebar=1" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
 
 ## Overall Project Summary
@@ -120,6 +120,26 @@ Don't forget to hit the :star: if you like this repo.
 ![24](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/24.png)
 ![25](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/25.png)
 ![26](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/26.png)
+![27](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/27.png)
+![28](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/28.png)
+![29](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/29.png)
+![30](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/30.png)
+![31](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/31.png)
+![32](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/32.png)
+![33](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/33.png)
+![34](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/34.png)
+![35](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/35.png)
+![36](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/36.png)
+![37](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/37.png)
+![38](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/38.png)
+![39](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/39.png)
+![40](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/40.png)
+![41](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/41.png)
+![42](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/42.png)
+![43](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/43.png)
+![44](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/44.png)
+![45](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/45.png)
+![46](https://github.com/drshahizan/software-engineering/blob/main/project/project/sec02/alpha/KTDI%20ROOM%20RENTAL%20SYSTEM/46.png)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
