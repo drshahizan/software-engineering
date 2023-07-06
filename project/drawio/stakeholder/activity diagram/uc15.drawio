@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="GiLhtcjvvZcC565XbQnH" name="Page-1">
-        <mxGraphModel dx="1378" dy="1825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="457" dy="1883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -73,14 +73,14 @@
                 <mxCell id="22" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="780" y="380" as="sourcePoint"/>
-                        <mxPoint x="400" y="100" as="targetPoint"/>
+                        <mxPoint x="420" y="100" as="targetPoint"/>
                         <Array as="points">
                             <mxPoint x="590" y="100"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="23" value="Choose refresh or try again" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="280" y="80" width="120" height="60" as="geometry"/>
+                <mxCell id="23" value="Choose refresh or try again" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="257" y="60" width="160" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="24" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
