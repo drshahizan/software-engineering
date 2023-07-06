@@ -1,13 +1,10 @@
-## Use Case Description: MSO Hospital Management System 
+## Set: 1 
 
-| Use case: Enter Patient Info  |
-| ----------------------------- |
-| ID: UC001                     |
-| Actors: <br> Front Desk Staff |
-| Preconditions:                |
-| Flow of events:<br> 1. Staff enter patient's name. <br>2. Staff enter patient's IC number.<br>3. Staff enter patient insurance information.|
-| Postconditions: |
+**Name: WONG QIAO YING**
 
+**Matrix No: A22EC0118**
 
+**Section: 01**
 
-
+## Answer
+<a href="https://docs.google.com/document/d/1JSYy7wo9MhRlWQ_MTMxuLu6LDHWH1y9rmIsdUSh7pPI/edit?usp=sharing">Use Case Description: MSO Hospital Management System</a>

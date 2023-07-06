@@ -1,0 +1,40 @@
+@startuml admin_reporting_classdiagram
+class Admin {
+    - id: int
+    - username: string
+    - password: string
+  }
+
+  class ManageUser {
+    + suspendUser(string userID, bool confirmSuspend): bool
+  }
+
+  class ManageFeedback {
+    + viewFeedback(string feedbackID): void
+    + updateStatusFeedback(string feedbackID): bool
+    + deleteFeedback(string feedbackID): void
+  }
+
+  class PostFiltration {
+    + filterPosts(string postID): bool
+  }
+
+  class Report {
+    - id: int
+    - title: string
+    - description: string
+    + generateReport(int startDate, int endDate, bool userType): bool
+    + deleteReport(): void
+    + archiveReport(): void
+    + downloadReport(): void
+  }
+
+
+Admin --> ManageUser
+Admin --> ManageFeedback
+ManageUser --> Admin
+ManageFeedback --> Admin
+PostFiltration --> Admin
+Report --> Admin
+
+@enduml 

@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "C:/MinGW/bin/g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "windows-gcc-x86",
+            "compilerArgs": [
+                "-lbgi ",
+                "-lgdi32 ",
+                "-lcomdlg32 ",
+                "-luuid ",
+                "-loleaut32 ",
+                "-lole32"
+            ]
+        }
+    ],
+    "version": 4
+}

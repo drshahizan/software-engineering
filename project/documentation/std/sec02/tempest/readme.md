@@ -69,6 +69,14 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
+## Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Document STD| <a href="https://docs.google.com/document/d/1z9bRBwo4C8FDRjve47uwQt6wyxI6S2xL/edit?usp=sharing&ouid=101274812867810218448&rtpof=true&sd=true" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Figma| <a href="https://www.figma.com/files/project/93492418/Badal-Hajj-and-Umrah-Management-System?fuid=1235142099190224213" ><img src="../../../../../images/figma.svg" width="24px" height="24px" ></a>|
+|3| Borang Badal Haji| <a href="https://drive.google.com/drive/folders/1xm0X4yxzjBrGPt_EeF4PT4udWYxdx8PS?usp=share_link" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+|4| Borang Umrah| <a href="https://drive.google.com/drive/folders/1cNg7cQG-RONHfL7_yHy9h5DZDWGfi-1k?usp=share_link" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+
 ## Tasks involved in developing SRC documentation:
 
 | No | Date | Member Name | Role	| Task	| Status	| 
@@ -78,10 +86,11 @@ Don't forget to hit the :star: if you like this repo.
 | 3|02/05/2023|Danial | Assistant Developer|Preparation of interview questions | Complete|
 | 4|03/05/2023 |Luqman, Danial, Anas, Kugen |Main Developer, Assistant Developer, UI/UX Designer, Scrum Master | Interview with stakeholder|Complete |
 | 5|04/05/2023|Luqman, Anas, Danial, Kugen |Main Developer,Assistant Developer, UI/UX Designer, Scrum Master |Project Discussion| Complete |
-| 6|15/06/2023|Luqman, Anas, Danial, Kugen |Main Developer,Assistant Developer, UI/UX Designer, Scrum Master |STD Documentation Planning | Incomplete |
-| 7|16/06/2023|Luqman, Anas, Danial, Kugen |Main Developer,Assistant Developer, UI/UX Designer, Scrum Master |Create STD Documentation | Incomplete |
-| 8|23/06/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Update Documentation | Incomplete |
-| 9|25/06/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Follow-up with Stakeholder | Incomplete |
+| 6|15/06/2023|Luqman, Anas, Danial, Kugen |Main Developer,Assistant Developer, UI/UX Designer, Scrum Master |STD Documentation Planning | Complete |
+| 7|16/06/2023|Luqman, Anas, Danial, Kugen |Main Developer,Assistant Developer, UI/UX Designer, Scrum Master |Create STD Documentation | Complete |
+| 8|23/06/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Update Documentation | Complete |
+| 9|20/05/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Finalize Documentation | Complete |
+| -|25/06/2023|Luqman, Danial, Anas, Kugen | Main Developer, Assistant Developer, UI/UX Designer, Scrum Master| Follow-up with Stakeholder | Incomplete |
 
 
 

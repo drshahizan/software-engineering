@@ -18,6 +18,9 @@ Don't forget to hit the :star: if you like this repo.
 ## Answer
 <img width="478" alt="image" src="https://github.com/drshahizan/software-engineering/assets/129235052/e3387a9f-addd-4fa7-93a0-8fa33d7bc870">
 
+## Use Case Description
+https://docs.google.com/document/d/11r9_aEaw0355vqluQs_dxvVGp5E8o9QfQ7uhMexlTC4/edit
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

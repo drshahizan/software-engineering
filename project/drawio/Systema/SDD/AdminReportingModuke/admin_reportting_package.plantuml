@@ -1,0 +1,31 @@
+@startuml admin_and_reporting_package_diagram
+
+package "Admin and Reporting Module"{
+  package "Domain Layer" <<Domain>> {
+    [Admin]
+    [Managing Services]
+}
+
+  package "View Layer" <<View>> {
+    [Report UI]
+    [Post Filtration UI]
+    [Manage User UI]
+    [Manage Feedback UI]
+}
+  
+  package "Data Access Layer" <<Data Access>> {
+    [Report Repository]
+    [Post Filtration Repository]
+    [Manage User Repository]
+    [Manage Feedback Repository]
+  }
+
+
+[Admin] --> [Managing Services]
+[Managing Services] --> [Post Filtration UI]
+[Managing Services] --> [Manage User UI]
+[Managing Services] --> [Report UI]
+[Managing Services] --> [Manage Feedback UI]
+[Managing Services] --> "Data Access Layer"
+
+@enduml

@@ -1,0 +1,75 @@
+body,
+html{
+   height:100%;
+}
+.pimg1{
+    background-image: url(https://github.com/drshahizan/software-engineering/blob/main/lab/css/lab14/submission/Chasers/mal1.jpeg?raw=true);
+    background-size:cover ;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:100%;
+    overflow: hidden;
+    position:relative;
+    
+}
+
+.ptext{
+    text-align: center;
+    color:white;
+    font-size:30px;
+    letter-spacing:8px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    height:100%;
+    width:100%;
+    top:0;
+    left:0;
+    position:relative;
+}
+
+.border{
+    border:3px solid black;
+    background-color: black;
+    padding:15px;
+}
+
+.section-light{
+    text-align: center;
+    background-color: white;
+    padding:80px 150px 80px 150px;
+}
+
+.pimg2{
+    background-image: url(https://github.com/drshahizan/software-engineering/blob/main/lab/css/lab14/submission/Chasers/mal2.jpeg?raw=true);
+    background-size:cover ;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:100%;
+    
+}
+
+.trans{
+    border:0;
+    background-color: transparent;
+}
+
+.section-dark{
+    text-align:center;
+    background-color: black;
+    color:aliceblue;
+    padding: 50px 130px;
+}
+
+.pimg3{
+    background-image: url(https://github.com/drshahizan/software-engineering/blob/main/lab/css/lab14/submission/Chasers/mal3.jpeg?raw=true);
+    background-size:cover ;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:100%;
+   
+}

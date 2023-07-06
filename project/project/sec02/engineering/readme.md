@@ -10,33 +10,20 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Activity: Group Engineering
+<img src="image/1.jpg" height="600px" >
 
-## Group Members
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Role</th>
-  </tr>
-  <tr>
-    <td>1 . Nurul Erina binti Zainuddin</td>
-    <td>Project Manager</td>
-  </tr>
-    <tr>
-    <td>2 . Nik Zulaikhaa Binti Zuraidi Afandi </td>
-    <td>Software Architect</td>
-  </tr>
-    <tr>
-    <td>3 . Thevan Raju A/L Jeganath</td>
-    <td>Front-end Developer</td>
-  </tr>
-    <tr>
-    <td>4 . Aliatul Izzah Binti Jasman</td>
-    <td>Back-end Developer</td>
-  </tr>
-</table>
+<img src="image/2.jpg" height="550px" >
+
+<img src="image/3.jpg" height="600px" >
+
+<img src="image/4.jpg" height="600px" >
+
+<img src="image/5.jpg" height="600px" >
+<img src="image/6.jpg" height="600px" >
+<img src="image/7.jpg" height="600px" >
 
 ## Stakeholder
-One Stop Parcel Center & Cengal Parcel Point
+
 <table>
   <tr>
     <th>Name</th>
@@ -56,12 +43,6 @@ One Stop Parcel Center & Cengal Parcel Point
     <td>Head of Management</td>
   <td>Responsible on managing the staffs, ensuring smooth operations, and manage the budget as well. Also responsible on making sure that the informations stated at the parcel and the data is well protected and secure</td>
   </tr>
-    <tr>
-    <td>Muhammad Amirul</td>
-    <td>Cengal Parcel Point</td>
-    <td>Head of Management</td>
-    <td>Overall manages the security of parcels received through Shopee Express, and manage the staff as well as the informations about the parcels being secure</td>
-  </tr>
    <tr>
     <td>Johnny Sii How Yong</td>
     <td>KTDI Student</td>
@@ -71,8 +52,8 @@ One Stop Parcel Center & Cengal Parcel Point
   </tr>
   
   <tr>
-    <td>Vania</td>
-    <td>KTDI Student</td>
+    <td>Nur Hazwani Binti Mohammad Sobri</td>
+    <td>KTHO Student</td>
     <td>Deliver girl</td>
     <td> Should handle packages with care, ensuring they are properly secured and protected during transportation,ensure that parcels are delivered to the    correct recipients within the specified time frame, verify the recipient's identity or obtain a signature upon delivery, confirming that the package has reached the intended recipient and should ensure the security and confidentiality of the parcels they handle. 
     </td>
@@ -80,25 +61,53 @@ One Stop Parcel Center & Cengal Parcel Point
   
 </table>
 
-## Tasks involved in developing SRC documentation:
+<img src="image/8.jpg" height="600px" >
+<img src="image/9.jpg" height="600px" >
+<img src="image/10.jpg" height="600px" >
+<img src="image/11.jpg" height="600px" >
+<img src="image/12.jpg" height="600px" >
+<img src="image/13.jpg" height="600px" >
+<img src="image/14.jpg" height="600px" >
+<img src="image/15.jpg" height="600px" >
+<img src="image/16.jpg" height="600px" >
+<img src="image/17.jpg" height="600px" >
+<img src="image/18.jpg" height="600px" >
+<img src="image/19.jpg" height="600px" >
 
-| No | Date | Member Name | Role	| Task	| Status	| 
-| -----:| ----- | ------ | ------ | ------ | ------ |
-| 1| 20/04/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Project planning |Complete|
-| 2| 21/04/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Define the problem |Complete|
-| 3| 22/04/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Find stakeholder |Complete|
-| 4| 24/04/2023|Nik|Software Architect|Gather requirement |Complete|
-| 5| 27/04/2023|Erina|Project Manager|Prepare questions |Complete|
-| 6| 02/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Had meeting with stackholder (OPC) |Complete|
-| 7| 03/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Update project planning |Complete|
-| 8| 03/05/2023|Erina,Thevan,Nik,Izzah|All member| Create proposal with gathered information|Complete|  
-| 9| 04/05/2023|Izzah,Thevan|Front-end& Back-end developer| Create usercase diagram with gathered requirement|Complete|   
-| 10| 05/05/2023|Erina,Nik|Project Manager,Software architect| Update Proposal |Complete| 
-| 11| 06/05/2023|Erina,Nik|Project Manager,Software architect| Contact Stackholder 4 (Johnny) |Complete| 
-| 12| 07/05/2023|Erina,Thevan,Nik,Izzah|All members|Create interview questions for stackholder 4 and 5 |Complete|
-| 13| 13/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Had meeting with stackholder via Google Meet (Johnny) |Complete|
-| 14| 14/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Follow-up with stackholder |Complete|
-| 15| 15/05/2023|Erina,Thevan,Nik,Izzah|Project Manager,Software Architect,Front-end Developer,Back-end Developer|Develop UML Activity Diagram and Sequence Diagram | Complete|
+<img src="image/20.jpg" height="600px" >
+<img src="image/21.jpg" height="600px" >
+
+<img src="image/23.jpg" height="600px" >
+<img src="image/24.jpg" height="600px" >
+<img src="image/25.jpg" height="600px" >
+<img src="image/26.jpg" height="600px" >
+
+<img src="image/22.jpg" height="600px" >
+<img src="image/27.jpg" height="600px" >
+<img src="image/28.jpg" height="600px" >
+<img src="image/31.png" height="600px" >
+
+
+## 7. Prototype:
+
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Prototype Main Menu | <a href="https://www.figma.com/proto/8TEqAZrupIZEwPDU8mHWvK/Main?type=design&node-id=28-732&scaling=contain&page-id=0%3A1&starting-point-node-id=28%3A732&show-proto-sidebar=1&mode=design" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
+|2| Prototype Admin | <a href="https://www.figma.com/proto/8TEqAZrupIZEwPDU8mHWvK/Main?type=design&node-id=27-836&scaling=contain&page-id=0%3A1&starting-point-node-id=27%3A845&show-proto-sidebar=1&mode=design" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
+|3| Prototype User | <a href="https://www.figma.com/proto/8TEqAZrupIZEwPDU8mHWvK/Main?type=design&node-id=27-812&scaling=contain&page-id=0%3A1&starting-point-node-id=27%3A812&show-proto-sidebar=1&mode=design" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
+|4| Prototype Rider | <a href="https://www.figma.com/proto/8TEqAZrupIZEwPDU8mHWvK/Main?type=design&node-id=27-823&scaling=contain&page-id=0%3A1&starting-point-node-id=27%3A823&show-proto-sidebar=1&mode=design" width="24px" height="24px" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="24px" height="24px" ></a>|
+
+
+## 8. Documentations:
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Proposal | <a href="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/Engineering" ><img src="https://cdn-icons-png.flaticon.com/512/1509/1509612.png" width="24px" height="24px" ></a>|
+|2| SRS | <a href="https://docs.google.com/document/d/1QwTmrv05YVPvNGPW8TU8pXrzIWOASwcdghV6dd_Xpos/edit" ><img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" width="24px" height="24px" ></a>|
+|3| SDD | <a href="https://docs.google.com/document/d/1x2cAEcIkgSorcYdHs-nrblTG7TMmpZbY39GXgxQNhdU/edit?usp=sharing" ><img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" width="24px" height="24px" ></a>|
+|4| STD | <a href="https://docs.google.com/document/d/1b-8oCmWQ_TRkXWrncgN7PBGZYuQzMTXzV9yoaYEa_gk/edit?usp=sharing" ><img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" width="24px" height="24px" ></a>|
+
+<img src="image/30.jpg" height="600px" >
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

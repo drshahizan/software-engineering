@@ -35,6 +35,14 @@ Don't forget to hit the :star: if you like this repo.
   </tr>
 </table>
 
+## Documentation
+| No | Name |File | 
+| -----:| ----- | :------: | 
+|1| Document SDD| <a href="https://docs.google.com/document/d/1H_E53Q_lN9H0LWUnIBm3KGp29_nsCnBwvxTQVypJ46E/edit?usp=sharing" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Document STD| <a href="https://docs.google.com/document/d/1O9BgazCy0P2WQckn1uQQ2f2tliQre5_6zR4EDoSp1wY/edit?usp=sharing" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|3| Draw.io| <a href="https://github.com/drshahizan/software-engineering/blob/main/proposal/submission/sec02/program/usecasediagram-Simplified.drawio%20(1).png" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|4| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+
 ## Stakeholder
 <table>
   <tr>
@@ -86,7 +94,11 @@ Don't forget to hit the :star: if you like this repo.
 | 10 | 08/05/2023 | All members | | Conduct a meeting with the third stakeholder, another third-year student |  Complete | 
 | 11 | 09/05/2023 | Wan Nur Sofea Binti Mohd Hasbullah | | Contact our fourth stakeholder, an administrative officer | Complete |
 | 12 | 15/05/2023 | All members | | Conduct a meeting with the fourth stakeholder, an administrative officer |  Complete | 
- 
+| 13 | 16/05/2023 | All members || Discuss the use case to be included in the system | Complete |   
+| 14 | 20/05/2023 | All members | | Complete the Software Requirements Specification (SRS) documentation | Complete |
+| 15 | 10/06/2023 | All members | | Complete the Software Design Description (SDS) documentation | Complete |
+| 16 | 15/06/2023 | All members | | Complete the Software Testing Documentation (STD) documentation | Complete |
+| 17 | 20/06/2023 | All members | | Complete the Behance | Complete |
  
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.

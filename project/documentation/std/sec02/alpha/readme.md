@@ -66,25 +66,24 @@ Don't forget to hit the :star: if you like this repo.
 ## Documentation
 | No | Name |File | 
 | -----:| ----- | :------: | 
-|1| Document STD| <a href="" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
-|3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
+|1| Document STD| <a href="https://docs.google.com/document/d/1CRnKd_Ki_7D9XXST1HG627Bahwv80qcfQonZ4v4X-pY/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="https://github.com/drshahizan/software-engineering/tree/main/project/drawio/Alpha" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|3| Google Drive| <a href="https://drive.google.com/drive/folders/1ERPd7xwwLWaI4YWpnOIB1q48y3nP6lFU" ><img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg" width="24px" height="24px" ></a>|
 
 
 ## Tasks involved in developing STD documentation:
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
-| 1 | 19/06/2023| Farah | Main Developer | Create STD Document | Incomplete |
-| 2 | 19/06/2023 | Farah, Salini, Aleysha, Sabrina   | all members | Discuss on STD documentation | Incomplete |
-| 3 | 19/06/2023 | Farah  | Main Developer | Distribute task | Incomplete |
-| 4 | 22/06/2023 | Aleysha | Quality Assurance Engineer & Assistant Developer | Create test cases | Incomplete |
-| 5 | 22/06/2023 | Salini | Business Analyst & UI/UX Designer | Create test procedures | Incomplete | 
-| 6 | 23/06/2023 | Sabrina | Documentation Specialist & Assistant Developer | Create test results | Incomplete | 
-| 7 | 23/06/2023 | Farah | Main Developer | Create traceability matrix | Incomplete | 
-| 8 | 24/06/2023 | Sabrina | Documentation Specialist & Assistant Developer | Finalize the STD | Incomplete | 
-| 9 | |  |    |  | | 
-| 10 |  |  |   |  | | 
+| 1 | 19/06/2023| Farah | Main Developer | Create STD Document | Complete |
+| 2 | 19/06/2023 | Farah, Salini, Aleysha, Sabrina   | all members | Discuss on STD documentation | Complete |
+| 3 | 19/06/2023 | Farah  | Main Developer | Distribute task | Complete |
+| 4 | 22/06/2023 | Aleysha | Quality Assurance Engineer & Assistant Developer | Create test cases | Complete |
+| 5 | 22/06/2023 | Salini | Business Analyst & UI/UX Designer | Create test procedures | Complete | 
+| 6 | 23/06/2023 | Sabrina | Documentation Specialist & Assistant Developer | Create test results | Complete | 
+| 7 | 23/06/2023 | Farah | Main Developer | Create traceability matrix | Complete | 
+| 8 | 24/06/2023 | Sabrina | Documentation Specialist & Assistant Developer | Finalize the STD | Complete | 
+
 
 ## Project Objective: 
 1. Simplifying the room rental procedure by making it easy for students to find available rooms, view details about the rooms, and complete the rental process without any trouble. The system should provide clear information about the rental terms and conditions, as well as any fees associated with the rental.
