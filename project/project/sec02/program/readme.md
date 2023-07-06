@@ -39,49 +39,16 @@ The Academic Consultation System presented in this project addresses these chall
 Furthermore, this project recognizes the importance of lecturers' time and commitments. By enabling lecturers to manage consultations separately from their teaching schedules, the system ensures that they can provide individualized attention to students without disrupting their regular classroom activities. This balance will enhance lecturers' ability to support students effectively and create a positive impact on student learning outcomes.
 
 ## 2. Methodology
-<img src="https://github.com/drshahizan/software-engineering/assets/128196055/e65aaf00-ed91-409a-be66-3bad98259b75" width="400" height=auto>
+<p align = "center"> 
+<img src="https://github.com/drshahizan/software-engineering/assets/128196055/e65aaf00-ed91-409a-be66-3bad98259b75" width="600" height=auto>
+</p>
 
-The project adopted the Agile methodology for software development, which focuses on iterative and incremental development, flexibility, and collaboration. The Agile manifesto values individuals and interactions over processes and tools, working software over comprehensive documentation, customer collaboration over contract negotiation, and responding to change over following a plan.
+![meth1](https://github.com/drshahizan/software-engineering/assets/128196055/d543c467-f350-4894-b46f-b8fe726c32e7)
 
-Here is a breakdown of the activities for each phase of the Agile methodology in the context of the project:
+![meth2](https://github.com/drshahizan/software-engineering/assets/128196055/a5aaed18-f131-4f31-9d04-e625c63dff9c)
 
-1. Planning:
-   - Define the project scope: Clearly define the objectives, requirements, and boundaries of the project.
-   - Establish the project team: Identify the necessary roles and responsibilities within the team.
-   - Create the product backlog: Develop a prioritized list of user stories and features that need to be implemented.
+![tools](https://github.com/drshahizan/software-engineering/assets/128196055/895efdb6-4f07-40fa-a82a-d2e2a4f71b0b)
 
-2. Requirements Analysis:
-   - Gather user requirements: Engage with stakeholders and end-users to understand their needs and expectations.
-   - Create user stories: Convert user requirements into concise, user-centric descriptions of functionality.
-   - Prioritize user stories: Collaboratively determine the order in which user stories should be implemented based on business value and dependencies.
-
-3. Design:
-   - Create wireframes: Design low-fidelity representations of the user interface to visualize the layout and structure.
-   - Design database schema: Determine the structure and relationships of the data in the application.
-   - Create UI mockups: Develop high-fidelity visual representations of the user interface to demonstrate the final look and feel.
-
-4. Development:
-   - Implement features: Write code to develop the functionalities specified in the user stories.
-   - Conduct code reviews: Regularly review the code to ensure quality, readability, and adherence to coding standards.
-   - Conduct unit tests: Write and execute tests to verify the individual units of code.
-
-5. Testing:
-   - Conduct integration testing: Test the interaction between various components and modules of the software.
-   - Conduct acceptance testing: Validate that the software meets the specified requirements and is ready for deployment.
-   - Resolve defects: Address any issues or bugs identified during testing and ensure they are fixed.
-
-6. Deployment:
-   - Deploy software to production: Release the software to the production environment for end-users.
-   - Train users: Provide training and documentation to users to ensure they can effectively use the software.
-   - Provide support: Offer ongoing support and maintenance for the software, addressing any user concerns or issues.
-
-In terms of tools, technologies, and frameworks, the project utilized the following:
-
-- Figma: Used for creating wireframes and UI mockups, allowing for collaborative design.
-- GitHub: Employed for version control and collaboration among the development team.
-- draw.io: Utilized for creating diagrams and visual representations of the system architecture.
-- HTML and CSS: Used for front-end web development to structure and style the user interface.
-- PHP: Employed as a server-side scripting language for implementing back-end functionalities.
 
 ## 3. Implementation
 
