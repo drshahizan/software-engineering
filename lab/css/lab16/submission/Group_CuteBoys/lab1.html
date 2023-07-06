@@ -1,1 +1,242 @@
+<!DOCTYPE html>
+<html>
+<header>
+  <!--
+  Lab 16: Form Layout
+  Group:
+  1. Name: Lee Soon Der, Matrix No: A22EC0065, Github ID: LeeSoonDer
+  2. Name: Wong Jun Ji, Matrix No: A22EC0117, Github ID: jjwong2003
+  3. Name: Cheng Pyng Haw, Matrix No: A22EC0042, Github ID: pynghaw
+  4. Name: Goh Jing Yang, Matrix No: A22EC0052, Github ID: jinyang26
+  -->
 
+
+  <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed" rel="stylesheet" type="text/css" />
+
+</header>
+
+<style>
+  body {
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #title {
+    text-align: center;
+  }
+
+  #description {
+    text-align: center;
+    font-weight: bold
+  }
+
+  .master-div-style {
+    background-color: rgb(243, 243, 243);
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .form-rows {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 10px;
+    padding: 1%;
+    margin-bottom: 20px;
+  }
+
+  label {
+    text-align: right;
+    font-size: 110%;
+    font-weight: bold
+  }
+
+  .labels {
+    text-align: right;
+    padding-right: 20px;
+    font-weight: bold
+  }
+
+  .fields {
+    text-align: left;
+  }
+
+  .input-fields {
+    width: 50%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+
+  input {
+    padding: 10px;
+  }
+
+  select {
+    padding: 10px;
+  }
+
+  .user-selection {
+    float: left;
+    margin-right: 8px;
+  }
+
+  ul {
+    padding: 0;
+    margin: 0;
+  }
+
+  #event-details {
+    padding: 20px;
+  }
+
+  .button {
+    padding: 10px;
+    background-color: greenyellow;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 50%;
+  }
+</style>
+
+<body>
+  <main>
+    <h1 id="title">Survey Form</h1>
+    <div class="master-div-style">
+      <p id="description">
+        Please tell us about something good that happened to you today.
+      </p>
+      <form id="survey-form" action="/do-something">
+        <div class="form-rows">
+          <div class="labels">
+            <label for="name" id="name-label">Name</label>
+          </div>
+          <div class="fields">
+            <input type="text" id="name" class="input-fields" placeholder="Enter your name" required />
+          </div>
+        </div>
+        <div class="form-rows">
+          <div class="labels">
+            <label for="email" id="email-label">Email</label>
+          </div>
+          <div class="fields">
+            <input type="email" id="email" class="input-fields" placeholder="Enter your email address" required />
+          </div>
+        </div>
+        <div class="form-rows">
+          <div class="labels">
+            <label for="number" id="number-label">On a scale of 1-10, how good was it?</label>
+          </div>
+          <div class="fields">
+            <input type="number" id="number" class="input-fields" placeholder="Enter a number between 1 and 10" min="1"
+              max="10" />
+          </div>
+        </div>
+        <div class="form-rows">
+          <div class="labels">
+            <label for="dropdown" id="dropdown-label">Where did it happen?</label>
+          </div>
+          <div class="fields">
+            <select name="Location of positive event" id="dropdown" class="dropdown">
+              <option value="home">At home</option>
+              <option value="work">At work</option>
+              <option value="outside">On the street</option>
+              <option value="other">Other</option>
+            </select>
+          </div>
+        </div>
+        <div class="form-rows">
+          <div class="labels">
+            <label for="time-of-day">At what time of day did it happen?</label>
+          </div>
+          <div class="fields">
+            <ul id="time-of-day" style="list-style: none">
+              <li class="radio">
+                <label>
+                  Morning
+                  <input name="time-radio" type="radio" value="1" class="user-selection" />
+                </label>
+              </li>
+              <li class="radio">
+                <label>
+                  Afternoon
+                  <input name="time-radio" type="radio" value="2" class="user-selection" />
+                </label>
+              </li>
+              <li class="radio">
+                <label>
+                  Evening
+                  <input name="time-radio" type="radio" value="3" class="user-selection" />
+                </label>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="form-rows">
+          <div class="labels">
+            <label for="feelings">
+              What emotions did you experience?
+              <br />
+              (Select all that apply)
+            </label>
+          </div>
+          <div class="fields">
+            <ul id="feelings" style="list-style: none">
+              <li class="radio">
+                <label>
+                  <input name="feeling-check" value="1" type="checkbox" class="user-selection" />
+                  Excited
+                </label>
+              </li>
+              <li class="radio">
+                <label>
+                  <input name="feeling-check" value="2" type="checkbox" class="user-selection" />
+                  Humbled
+                </label>
+              </li>
+              <li class="radio">
+                <label>
+                  <input name="feeling-check" value="3" type="checkbox" class="user-selection" />
+                  Elated
+                </label>
+              </li>
+              <li class="radio">
+                <label>
+                  <input name="feeling-check" value="4" type="checkbox" class="user-selection" />
+                  Loved
+                </label>
+              </li>
+              <li class="radio">
+                <label>
+                  <input name="feeling-check" value="5" type="checkbox" class="user-selection" />
+                  Enthusiastic
+                </label>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="form-rows">
+          <div class="labels">
+            <label for="event-details">
+              Please describe your positive experience.
+            </label>
+          </div>
+          <div class="fields">
+            <textarea id="event-details" class="input-fields" style="
+                  height: 50px;
+                  resize: vertical;
+                  font-family: Open Sans Condensed;
+                " name="event-details" cols="1" rows="1" placeholder="Enter your experience here..."></textarea>
+          </div>
+        </div>
+        <button class="button" id="submit" type="submit">Submit</button>
+      </form>
+    </div>
+  </main>
+</body>
+
+</html>
