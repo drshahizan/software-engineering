@@ -67,41 +67,7 @@ Don't forget to hit the :star: if you like this repo.
 <img src="slide/Screenshot 2023-07-05 225616.png">
 <img src="slide/Screenshot 2023-07-05 230126.png">
 
-## 2.Methodology
-
-<b>The approach and methodologies utilized to tackle the project:</b>
-
-<p>Define Project Scope and Prioritize Features - Begin by defining the scope of the project, including the key features and functionalities of the faculty feedback system. Prioritize these features based on their importance and potential impact. This can be done through collaboration with stakeholders, including students, faculty, and administrators.
-
-Create a Product Backlog - Develop a product backlog that includes all the desired features, improvements, and enhancements. This backlog serves as a prioritized list of items that need to be addressed.
-
-Development - Project is divided into smaller tasks and distributed to all the group members equally through the team meeting. A due date is set for all members to finish their task. Prioritize the items from the product backlog and select a subset to work on during each sprint.
-
-Collaborative Planning,Review and continuous Adaptation - Hold a review session to demonstrate the completed features and gather feedback from team members for continuous improvement.All members will evaluate the tasks that have been done together to find out the area that need to do improvement. The team member that is responsible for that task will do the modification after the evaluation is done.
-
-System design - Identify all the modules and use cases in the system based on project scope and prioritize features. Then, create the low fidelity, high fidelity and the prototype to provide a visual representation of the user interface (UI) of the faculty of computing feedback system, which helps in designing and refining the layout, navigation, and overall look and feel of the system.
-
-Continuous Integration and Testing - Implement continuous integration practices to ensure that changes and updates to the faculty feedback system are integrated smoothly and tested thoroughly.
-
-Documentation - Produce srs, sdd and std.
-</p>
-
-<b>The software development life cycle model or any other relevant methodology adopted:</b>
-
-<p>The software development life cycle (SDLC) model adopted for the development of the faculty of computing feedback system is Agile method as Agile's benefits lie in its flexibility, stakeholder collaboration, early value delivery, faster time-to-market, and emphasis on continuous improvement and quality. These advantages contribute to the success of the project and the development of a faculty feedback system that effectively addresses the needs of educational institutions and their stakeholders.
-</p>
-
-<b>Specific tools, technologies, or frameworks employed during the project:</b>
-<p>-Figma</p>
-<p>-Drawio</p>
-<p>-UML code</p>
-<p>-Visual studio code</p>
-<p>-Github</p>
-<p>-Behance</p>
-
-## Implementation
-
-<b>specific tasks and activities undertaken by your group.</b>
+<b>Specific tasks and activities undertaken by your group.</b>
 
 | No | Date | Member Name | Role	| Task	| Status	| 
 | -----:| ----- | ------ | ------ | ------ | ------ |
