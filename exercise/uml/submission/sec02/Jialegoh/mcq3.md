@@ -19,27 +19,27 @@ Don't forget to hit the :star: if you like this repo.
 1. B
 2. C
 3. B
-4. C
+4. D (C)
 5. D
 6. C
 7. D
-8. B
+8. C
 9. D
 10. C
-11. D
-12. C
-13. C
-14. D
+11. C
+12. D
+13. B
+14. C
 15. B
-16. D
-17. D
-18. C
-19. A
-20. B
+16. D 
+17. B
+18. D
+19. D 
+20. C
 21. C
 22. C
 23. D
-24. C
+24. D
 25. D
 
 ## Contribution 🛠️
