@@ -24,22 +24,22 @@ Don't forget to hit the :star: if you like this repo.
 6. C
 7. D
 8. C
-9. B
+9. D
 10. C
 11. C
 12. D
 13. B
-14. D
+14. C
 15. B
 16. D
 17. B
 18. D
-19. D
+19. C
 20. C
 21. C
 22. C
 23. D
-24. C
+24. D
 25. D
 
 ## Contribution 🛠️
