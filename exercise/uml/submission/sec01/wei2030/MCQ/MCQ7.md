@@ -19,10 +19,10 @@ Don't forget to hit the :star: if you like this repo.
 1. C
 2. D
 3. C
-4. D
+4. C
 5. C
-6. D
-7. A
+6. C
+7. D
 8. C
 9. C
 10. D
