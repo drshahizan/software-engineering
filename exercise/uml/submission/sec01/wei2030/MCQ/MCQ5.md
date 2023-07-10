@@ -29,13 +29,13 @@ Don't forget to hit the :star: if you like this repo.
 11. C
 12. C
 13. A
-14. C
+14. B
 15. D
 16. C
 17. B
-18. C
+18. B
 19. D
-20. B
+20. C
 21. C
 22. A
 23. C
