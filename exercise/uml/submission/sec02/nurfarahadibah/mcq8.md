@@ -9,23 +9,23 @@ Don't forget to hit the :star: if you like this repo.
 
 ## MCQ Set:
 
-**Name:**
+**Name: NUR FARAH ADIBAH BINTI IDRIS**
 
-**Matrix No:**
+**Matrix No: A22EC0245**
 
-**Section:**
+**Section:02**
 
 ## Answer
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. A
+2. B
+3. C
+4. C
+5. D
+6. D
+7. B
+8. C
+9. A 
+10. B
    
 
 ## Contribution 🛠️
