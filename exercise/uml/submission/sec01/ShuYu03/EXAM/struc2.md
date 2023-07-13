@@ -11,7 +11,7 @@
 <img src="img/2_1.png" alt="" height="300"/></a>
 
 2. 
-<img src="img/2_2.png" alt="" height="500"/></a>
+<img src="img/2_2.png" alt="" height="600"/></a>
 
 3. 
 <img src="img/2_3.png" alt="" height="500"/></a>
