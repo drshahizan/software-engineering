@@ -28,8 +28,8 @@
 12. The development view ensures that the system is developed using industry best
     practices and facilitates collaboration among developers.
 13. It showcases how different components interact during runtime. For instance, it
-    captures the flow of activities when a patient schedules an appointment, undergoes
-    medical procedures, and receives billing information.
+    captures the flow of activities when a patient schedules an appointment,    
+    undergoes medical procedures, and receives billing information.
 14. The physical view ensures that the system is deployed in an optimized manner,
     considering factors such as scalability, reliability, and security.
 15. Physical view
