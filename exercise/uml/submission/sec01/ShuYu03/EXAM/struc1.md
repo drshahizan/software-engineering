@@ -50,9 +50,9 @@
    - Reservation
 
 6. 
-<img src="img/1_6.png" alt="" height="800"/></a>
+<img src="img/1_6.png" alt="" height="600"/></a>
 
 7. 
-<img src="img/1_7.png" alt="" height="600"/></a>
+<img src="img/1_7.png" alt="" height="500"/></a>
 
 
