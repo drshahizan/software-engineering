@@ -8,7 +8,7 @@
 
 ## Answer
 1. 
-<img src="img/2_1.png" alt="" height="400"/></a>
+<img src="img/2_1.png" alt="" height="300"/></a>
 
 2. 
 <img src="img/2_2.png" alt="" height="500"/></a>
