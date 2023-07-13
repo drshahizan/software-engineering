@@ -12,6 +12,7 @@
 2. Generalization
 3. Aggregation
 4. No, because the relationship between mongooses and snake is one to many.
-5. '<<interface>>' must be above class name
-   eg. <<interface>>
-          Animal
+5. "<< interface >>" must be above class name
+   
+   eg.   << interface >>
+             Animal
