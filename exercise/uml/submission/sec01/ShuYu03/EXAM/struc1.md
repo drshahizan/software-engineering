@@ -41,7 +41,7 @@
 |                             |- The system updates the database with the client's reservation details. |
 
 4. 
-<img src="img/1_4.png" alt="" height="100px" /></a>
+<img src="img/1_4.png" alt="" height="300" /></a>
 
 5. - Client
    - Clerk
