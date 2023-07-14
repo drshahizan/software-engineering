@@ -22,7 +22,6 @@ Don't forget to hit the :star: if you like this repo.
 | 8 | Software verification, validation and testing | ProjectTrack | <a href="./val/mcq8.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
 | 9 | Architectural Design | Online Shopping Application | <a href="./ad/mcq9.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
 | 10 | Architectural Design | E-commerce Platform | <a href="./ad/mcq10.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
-| 11 | Architectural Design | Online Banking System | <a href="./ad/mcq11.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
 
 ## Structured question
 | Set | Topic |  Title |File |
