@@ -17,7 +17,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Answer
 1. B
-2. B
+2. C
 3. C
 4. B
 5. B

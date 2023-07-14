@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set: 1
+## Set: 2
 
 **Name: Yong Wern Jie**
 
@@ -16,7 +16,7 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 01**
 
 ## Answer
-<img src="uc1.png" alt="Use case 1">
+<img src="uc2.png" alt="Use case 2">
 
 
 ## Contribution 🛠️
