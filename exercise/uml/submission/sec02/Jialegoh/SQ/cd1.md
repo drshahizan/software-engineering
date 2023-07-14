@@ -17,15 +17,19 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Answer
 1. Vertebrate is the extension class of the animal.
-Answer :　Vertebrate is a subclass of Animal.
+- Answer :　Vertebrate is a subclass of Animal.
+
 2. Snake is one of the instantiate of animal.
-Answer :　Snake is a subclass of Animal.
+- Answer :　Snake is a subclass of Animal.
+
 3. The association type between Mongoose and Snake is multiplicity(Multiplicity reflected above connecting lines).
-Answer :　Dependency association
+- Answer :　Dependency association
+
 4. only 1 mangooses eat many snake, so no 2 monsooses eat 1 snake.
-Answer :　No. The relationship between Mongoose and Snake is one-to-zero-or-more.
+- Answer :　No. The relationship between Mongoose and Snake is one-to-zero-or-more.
+
 5. Multiplicity cannot have arrow.
-Answer :　Becuase Animal is an interface, the relationship from Vertebrate should be dashed.
+- Answer :　Becuase Animal is an interface, the relationship from Vertebrate should be dashed.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
