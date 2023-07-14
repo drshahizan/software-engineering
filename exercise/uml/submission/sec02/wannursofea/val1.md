@@ -21,7 +21,11 @@ Don't forget to hit the :star: if you like this repo.
 3. The company uses the integration testing technique to validate the interaction between different system components.
 4. The corporation uses software verification.
 5. Through a series of user-centric activities such as usability testing and user acceptance testing, the corporation can gather feedback from end-users and stakeholders.
-6. The corporation conducts the security testing to detect defects and ensure the reliability of the CRM Pro Software.
+6. The corporation conducts security testing to detect defects and ensure the reliability of the CRM Pro Software.
+7. The corporation ensures the security of customer data by conducting security testing.
+8. Usability testing is used by the corporation to validate whether the software meets the specific needs of their customers and to align their expectations.
+9. Static code analysis tool is utilised to identify any potential defects, inconsistencies or code quality issues. They also conducted code inspections for the same reason.
+10. Performance testing is used to evaluate the CRM Pro software's responsiveness under varying workloads.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
