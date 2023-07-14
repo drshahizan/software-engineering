@@ -27,7 +27,7 @@ Don't forget to hit the :star: if you like this repo.
 9. D
 10. C
 11. C
-12. C
+12. D
 13. B
 14. D
 15. B
@@ -35,10 +35,10 @@ Don't forget to hit the :star: if you like this repo.
 17. B
 18. D
 19. D
-20. C
+20. D
 21. C
 22. C
-23. C
+23. D
 24. D
 25. D
 
