@@ -36,8 +36,8 @@ Don't forget to hit the :star: if you like this repo.
 18. C
 19. C
 20. C
-21. D
-22. B
+21. A
+22. C
 23. B
 24. B
 25. D
