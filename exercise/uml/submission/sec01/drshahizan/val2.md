@@ -10,11 +10,11 @@ Don't forget to hit the :star: if you like this repo.
 ## Case Study: MediCare
 
 ## Answer
-1. How does XYZ Healthcare Solutions ensure the accuracy and reliability of the MediCare software through software verification and validation?
+### 1. How does XYZ Healthcare Solutions ensure the accuracy and reliability of the MediCare software through software verification and validation?
 
 To ensure the accuracy and reliability of the MediCare software, XYZ Healthcare Solutions employs software verification and validation processes. Verification activities aim to identify and eliminate defects, coding errors, and inconsistencies to ensure the accuracy and reliability of the software. Techniques such as **unit testing**, **integration testing**, and **code reviews/inspections** are used to achieve this. Verification ensures that the software components and functionalities are implemented correctly according to the specified requirements.
 
-2. What techniques are used for software verification in XYZ Healthcare Solutions' MediCare project and how do they help identify and eliminate defects?
+### 2. What techniques are used for software verification in XYZ Healthcare Solutions' MediCare project and how do they help identify and eliminate defects?
 
 XYZ Healthcare Solutions employs various techniques for software verification, including **unit testing**, **integration testing**, and **code reviews/inspections**.
 
@@ -26,7 +26,7 @@ XYZ Healthcare Solutions employs various techniques for software verification, i
 
 These techniques help identify and eliminate defects by systematically testing and reviewing the software components. They catch coding errors, inconsistencies, or functional issues early in the development process, allowing for timely fixes and improvements. By verifying the correctness and quality of the software components, these techniques contribute to the overall accuracy and reliability of the MediCare software.
 
-3. What is the purpose and significance of user acceptance testing (UAT) in the validation process?
+### 3. What is the purpose and significance of user acceptance testing (UAT) in the validation process?
 
 The purpose of **user acceptance testing (UAT)** in the validation process is to ensure that the software meets the intended purpose and satisfies the needs of end-users and stakeholders. UAT validates the **usability**, **functionality**, and **performance** of the software in real-life scenarios. It simulates the actual usage environment, allowing real users to engage with the software and provide feedback.
 
