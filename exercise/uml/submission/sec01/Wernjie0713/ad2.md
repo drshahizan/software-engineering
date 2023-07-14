@@ -30,7 +30,7 @@ Don't forget to hit the :star: if you like this repo.
 12. It ensures that the system is developed using industry best practices and facilitates collaboration among developers.
 13. It showcases how different components interact during runtime.
 14. It consider factors such as scalability, reliability, and security.
-15. Physical view
+15. Physical view.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
