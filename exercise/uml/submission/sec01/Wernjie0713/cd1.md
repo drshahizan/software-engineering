@@ -17,7 +17,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Answer
 1. What is the relationship between Vertebrate and Animal?
-   -Inheritance, Vertebrate is child class and Animal is parent class.
+   - Inheritance, Vertebrate is child class and Animal is parent class.
    
 2. What is the relationship between Snake and Animal?
    - Inheritance, Snake is child class and Animal is parent class.
