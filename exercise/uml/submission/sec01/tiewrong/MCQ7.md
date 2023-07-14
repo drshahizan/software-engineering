@@ -1,19 +1,19 @@
-## MCQ Set:
+## MCQ Set: 7
 
-**Name:**
+**Name:** Tiew Chuan Rong
 
-**Matrix No:**
+**Matrix No:** A22EC0112
 
-**Section:**
+**Section:** 01
 
 ## Answer
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1.C
+2.D
+3.C
+4.C
+5.C
+6.B
+7.C
+8.C
+9.C
+10.D
