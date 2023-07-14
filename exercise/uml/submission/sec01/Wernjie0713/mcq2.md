@@ -16,7 +16,7 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 01**
 
 ## Answer
-1. B
+1. A
 2. C
 3. C
 4. B
