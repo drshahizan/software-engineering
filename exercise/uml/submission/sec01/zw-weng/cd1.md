@@ -16,7 +16,11 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 01**
 
 ## Answer
-
+1. Animal is a type of Vertebrate. This is an inheritance relationship.
+2. Snake is a type of Animal, and it is also a type of Vertebrate. This is a multiple-level inheritance relationship.
+3. Aggregation.
+4. No. It is because the multiplicity specifies that mongooses can only be 1.
+5. Some of the attributes are not specified with its data type.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
