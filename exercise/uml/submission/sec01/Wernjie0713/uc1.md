@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set: 1
+## Set: Use Case Diagram 1
 
 **Name: Yong Wern Jie**
 
