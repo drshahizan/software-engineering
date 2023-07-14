@@ -13,15 +13,15 @@ Don't forget to hit the :star: if you like this repo.
 | Set | Topic |  Title | File | Answer |
 | :-----: |  ------ | ------ | :-----: | :-----: |
 | 1 | UML | Online Bookstore System | <a href="./uml/mcq/mcq1.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="./uml/submission/sec01/drshahizan/mcq1.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
-| 2 | UML | Library Management System | <a href="./uml/mcq/mcq2.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
-| 3 | UML | Online Shopping System | <a href="./uml/mcq/mcq3.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
-| 4 | Software verification, validation and testing | Software development firm | <a href="./val/mcq4.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
-| 5 | Software verification, validation and testing | ShopEase | <a href="./val/mcq5.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
-| 6 | Software verification, validation and testing | ShopEasy | <a href="./val/mcq6.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
-| 7 | Software verification, validation and testing | BankEase | <a href="./val/mcq7.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
-| 8 | Software verification, validation and testing | ProjectTrack | <a href="./val/mcq8.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
-| 9 | Architectural Design | Online Shopping Application | <a href="./ad/mcq9.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
-| 10 | Architectural Design | E-commerce Platform | <a href="./ad/mcq10.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | 
+| 2 | UML | Library Management System | <a href="./uml/mcq/mcq2.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="./uml/submission/sec01/drshahizan/mcq2.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 3 | UML | Online Shopping System | <a href="./uml/mcq/mcq3.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="./uml/submission/sec01/drshahizan/mcq3.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 4 | Software verification, validation and testing | Software development firm | <a href="./val/mcq4.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="./uml/submission/sec01/drshahizan/mcq4.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 5 | Software verification, validation and testing | ShopEase | <a href="./val/mcq5.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="./uml/submission/sec01/drshahizan/mcq5.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 6 | Software verification, validation and testing | ShopEasy | <a href="./val/mcq6.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="./uml/submission/sec01/drshahizan/mcq6.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 7 | Software verification, validation and testing | BankEase | <a href="./val/mcq7.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="./uml/submission/sec01/drshahizan/mcq7.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 8 | Software verification, validation and testing | ProjectTrack | <a href="./val/mcq8.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="./uml/submission/sec01/drshahizan/mcq8.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 9 | Architectural Design | Online Shopping Application | <a href="./ad/mcq9.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="./uml/submission/sec01/drshahizan/mcq9.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 10 | Architectural Design | E-commerce Platform | <a href="./ad/mcq10.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="./uml/submission/sec01/drshahizan/mcq10.md" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
 
 ## Structured question
 | Set | Topic |  Title |File |
