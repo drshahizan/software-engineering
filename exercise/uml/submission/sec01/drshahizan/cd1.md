@@ -10,17 +10,13 @@ Don't forget to hit the :star: if you like this repo.
 ## Case Study: UML class diagram: Animal
 
 ## Answer
-1. What is the relationship between Vertebrate and Animal?
-Vertebrate is a subclass of Animal.
-2. What is the relationship between Snake and Animal?
-Snake is a subclass of Animal.
-3. What is the association type between Mongoose and Snake?
-Dependency association.
-4. According to the class diagram, can 2 mongooses eat 1 snake?
-No. The relationship between Mongoose and Snake is one-to-zero-or-more.
-5. Identify one thing wrong with this diagram.
-Because Animal is an interface, the relationship from Vertebrate should
-be dashed.
+| Question                                                                                                                    | Answer                                                                                                                                                                                                                                        |
+|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. What is the relationship between Vertebrate and Animal?                                                                   | Vertebrate is a **subclass** of Animal.                                                                                                                                                                                                      |
+| 2. What is the relationship between Snake and Animal?                                                                        | Snake is a **subclass** of Animal.                                                                                                                                                                                                           |
+| 3. What is the association type between Mongoose and Snake?                                                                  | **Dependency association**.                                                                                                                                                                                                                  |
+| 4. According to the class diagram, can 2 mongooses eat 1 snake?                                                             | No. The relationship between Mongoose and Snake is **one-to-zero-or-more**.                                                                                                                                                                  |
+| 5. Identify one thing wrong with this diagram.                                                                              | Because Animal is an interface, the relationship from Vertebrate should be **dashed**.                                                                                                                                                      |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
