@@ -10,6 +10,7 @@ Don't forget to hit the :star: if you like this repo.
 ## Instructions
 - Please use the [MCQ template](temp_mcq.md).
 - Please answer the following case study question to assess your knowledge in UML. You are required to submit your answer file in the submission folder. Within the [`submission/sec01`](../uml/submission/sec01) or [`submission/sec02`](../uml/submission//sec02) folder, create a folder with your GitHub ID. Name the file as `mcq5.md`.
+- [Answer](https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec01/drshahizan/mcq5.md)
 
 ### Folder structure
 
