@@ -35,4 +35,4 @@
 
 14. Physical view shows the system's hardware and how the software components are distributed across processor of the sytem. It ensures the system is deployed in optimized manner, considering factors such as scalability, reliability, and security.
 
-5. Logical view
+15. Logical view

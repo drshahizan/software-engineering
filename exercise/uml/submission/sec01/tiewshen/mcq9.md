@@ -1,26 +1,24 @@
-## MCQ Set:
+**Name: Tiew Chuan Shen**
 
-**Name:**
+**Matrix No: A22EC0113**
 
-**Matrix No:**
-
-**Section:**
+**Section: 01**
 
 ## Answer
 1. a
 2. b
 3. c
-4. b
-5. a
-6. b
-7. c
-8. b
-9. d
-10. b
-11. d
+4. d
+5. d
+6. c
+7. a
+8. a
+9. c ->(b)
+10. d
+11. a
 12. b
-13. b
-14. b
+13. c
+14. d
 15. d
 
 ## Contribution 🛠️

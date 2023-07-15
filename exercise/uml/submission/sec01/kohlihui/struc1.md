@@ -34,7 +34,7 @@
 |                             |- The system updates the availability of seats/packages for the booked tour. |
 
 4. #### Use case diagram:
-<img alt="struc_uc" src="https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec01/kohlihui/struc1_uc.png?raw=true">
+<img alt="struc_uc" src="https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec01/kohlihui/Image/struc1_uc.png?raw=true">
 
 5. #### Domain class model:
    1. Tour

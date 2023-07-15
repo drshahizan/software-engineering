@@ -1,37 +1,27 @@
 ## MCQ Set:
 
-**Name: Tiew Chuan Shen**
+**Name:**
 
-**Matrix No: A22EC0113**
+**Matrix No:**
 
-**Section: 03**
+**Section:**
 
 ## Answer
-1. b
-2. c
-3. b
-4. c
-5. d
-6. c
-7. d
-8. c
-9. b
-10. c
-11. c
-12. d
+1. a
+2. b ->(c)
+3. c
+4. b
+5. a
+6. b
+7. c
+8. b
+9. d
+10. b ->(a)
+11. d
+12. b
 13. b
-14. d
-15. b
-16. d
-17. b
-18. d
-19. d
-20. a
-21. c
-22. c
-23. d
-24. d
-25. d
+14. b
+15. d
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.

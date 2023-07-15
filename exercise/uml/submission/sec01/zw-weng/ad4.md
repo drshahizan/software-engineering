@@ -1,4 +1,3 @@
-
 <a href="https://github.com/drshahizan/learn-php/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/learn-php" alt="Stars Badge"/></a>
 <a href="https://github.com/drshahizan/learn-php/network/members"><img src="https://img.shields.io/github/forks/drshahizan/learn-php" alt="Forks Badge"/></a>
 <a href="https://github.com/drshahizan/learn-php/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/learn-php" alt="Pull Requests Badge"/></a>
@@ -8,14 +7,40 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set:
+## Set: Case Study: Hospital Management System
 
-**Name: Koh Li Hui**
+**Name: NEO ZHENG WENG**
 
-**Matrix No: A22EC0059**
+**Matrix No: A22EC0093**
 
 **Section: 01**
 
 ## Answer
-<img alt="uc1" src="https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec01/kohlihui/Image/UC1.png?raw=true">
+### MCQ
+1. A
+2. C
+3. C
+4. A
+5. A
+6. B
+7. A
+8. C
+9. C
+10. D
+11. D
+12. B
+13. C
+14. A
+15. B
+
+### STRUCTURED
+1. 
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
 
