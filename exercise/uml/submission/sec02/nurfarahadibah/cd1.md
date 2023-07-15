@@ -19,15 +19,15 @@ Don't forget to hit the :star: if you like this repo.
 
   ## Question
 1. What is the relationship between Vertebrate and Animal?
-  Inheritance, the vertebrate is a derived class from Animal
+- Inheritance, the vertebrate is a derived class from Animal
 2. What is the relationship between Snake and Animal?
-  Inheritance, the Snake is derived class from Animal
+- Inheritance, the Snake is derived class from Animal
 3. What is the association type between Mongoose and Snake?
-  One to many 
+- One to many 
 4. According to the class diagram, can 2 mongooses eat 1 snake?
-  no, The relationship between mongoose and snake is one to many
+- no, The relationship between mongoose and snake is one to many
 5. Identify one thing wrong with this diagram.
-The relationship from vertebrate should be in dashed line because Animal is an interface
+- The relationship from vertebrate should be in dashed line because Animal is an interface
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
