@@ -1,4 +1,4 @@
-@startuml admin_reporting_classdiagram
+@startuml
 class Admin {
     - id: int
     - username: string
@@ -9,15 +9,6 @@ class Admin {
     + suspendUser(string userID, bool confirmSuspend): bool
   }
 
-  class ManageFeedback {
-    + viewFeedback(string feedbackID): void
-    + updateStatusFeedback(string feedbackID): bool
-    + deleteFeedback(string feedbackID): void
-  }
-
-  class PostFiltration {
-    + filterPosts(string postID): bool
-  }
 
   class Report {
     - id: int
@@ -31,10 +22,6 @@ class Admin {
 
 
 Admin --> ManageUser
-Admin --> ManageFeedback
 ManageUser --> Admin
-ManageFeedback --> Admin
-PostFiltration --> Admin
 Report --> Admin
-
-@enduml 
+@enduml
