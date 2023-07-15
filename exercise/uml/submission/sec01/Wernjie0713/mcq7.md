@@ -20,12 +20,12 @@ Don't forget to hit the :star: if you like this repo.
 2. D
 3. C
 4. C
-5. C
+5. A
 6. C
 7. B
 8. C
 9. C
-10. A
+10. B
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
