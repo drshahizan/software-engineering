@@ -16,7 +16,18 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 01**
 
 ## Answer
-1. 
+1. Focuses on the functionality and behaviour of the system, ensuring the system functionality is well organised and easy to maintain.
+2. Development view.
+3. It illustrates the dynamic behaviour of the system, showing how different components interact during runtime, and capturing the flow of activities and information exchange.
+4. Physical view.
+5. Identify the functional requirements from the user's perspective, capturing various use cases and understanding the system's interactions with different user roles and their corresponding functionalities.
+6. Patient registration.
+7. Programming languages.
+8. By illustrating the system's dynamic behavior, and how the interactions between different components during runtime, help in understanding the system's behavior, and performance.
+9. Deployment and distribution of system components.
+10. Use case view.
+11. By structuring components such as patient registration, appointment scheduling, medical records management, billing, and inventory management in a coherent manner, making it easier to understand and maintain the system's behavior and functionality.
+12. It deals with software development aspects, including programming languages, frameworks, databases, and development tools, ensuring the system is developed using industry best practices, promotes modularity and code reusability, and facilitates collaboration among developers.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-php/issues) for any improvements, suggestions or errors in the content.
