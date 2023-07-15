@@ -39,3 +39,20 @@
 |                             |- In case of a system error or technical issue during the reservation process, the client is presented with an error message and instructed to try again later. |
 | **Post-conditions:**        |- The client successfully completes the tour reservation process. |
 |                             |- The system updates the database with the client's reservation details. |
+
+4. 
+<img src="img/1_4.png" alt="" height="400"/></a>
+
+5. - Client
+   - Clerk
+   - Manager
+   - Tour 
+   - Reservation
+
+6. 
+<img src="img/1_6.png" alt="" height="500"/></a>
+
+7. 
+<img src="img/1_7.png" alt="" height="500"/></a>
+
+

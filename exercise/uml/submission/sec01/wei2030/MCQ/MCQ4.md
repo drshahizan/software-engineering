@@ -16,26 +16,26 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 01**
 
 ## Answer
-1. B
+1. A
 2. D
-3. B
-4. B
-5. D
-6. C
+3. C
+4. D
+5. C
+6. D
 7. A
 8. C
 9. B
 10. D
 11. A
-12. A
+12. B
 13. D
 14. B
 15. D
-16. C
+16. B
 17. D
-18. A
+18. 
 19. C
-20. C
+20. D
 21. A
 22. D
 23. A

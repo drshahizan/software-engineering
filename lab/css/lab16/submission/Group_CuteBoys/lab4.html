@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lab4 UTMtravel</title>
+    <!--
+       Lab 16: Form Layout
+      Group:
+      1. Name: Lee Soon Der, Matrix No: A22EC0065, Github ID: LeeSoonDer
+      2. Name: Wong Jun Ji, Matrix No: A22EC0117, Github ID: jjwong2003
+      3. Name: Cheng Pyng Haw, Matrix No: A22EC0042, Github ID: pynghaw
+      4. Name: Goh Jing Yang, Matrix No: A22EC0052, Github ID: jinyang26
+      -->
+  </head>
+
+<style>
+  body {
+    background-image: url(mal3.jpeg);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .container {
+    display: grid;
+    grid-template-rows: auto auto;
+  }
+
+  h2 {
+    padding-left: 5%;
+  }
+
+  a {
+    color: white;
+    text-decoration: none;
+  }
+
+  ul {
+    position: absolute;
+    top: 3%;
+    right: 5%;
+    list-style: none;
+    display: flex;
+  }
+
+  .btn {
+    border: 2px solid red;
+    padding: 10px;
+    color: red;
+  }
+
+  .btn:hover {
+    background-color: red;
+    color: white;
+  }
+
+  li {
+    margin-right: 50px;
+  }
+
+  .cover {
+    color: red;
+    font-size: 120%;
+    margin-top: 15%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  input[type="search"] {
+    width: 320px;
+    padding: 15px;
+    border: none;
+  }
+
+  input[type="submit"] {
+    background-color: rgb(249, 91, 91);
+    color: white;
+    width: 90px;
+    border: none;
+  }
+
+  .flex-form {
+    display: flex;
+    justify-content: center;
+  }
+</style>
+
+  <body>
+    <div class="container">
+      <header>
+        <h2>
+          <a href="#"><i class="ion-plane"></i> UTMtravel</a>
+        </h2>
+        <nav>
+          <ul>
+            <li>
+                <a class="btn" href="#" title="Register / Log In"
+                  >Register/Log In</a
+                >
+              </li>
+            <li>
+              <a href="#" title="Hotels">Hotels</a>
+            </li>
+            <li>
+              <a href="#" title="Flights">Flights</a>
+            </li>
+            <li>
+              <a href="#" title="Tours">Tours</a>
+            </li>
+            
+          </ul>
+        </nav>
+      </header>
+
+      <div class="cover">
+        <h1>Discover what's out there.</h1>
+        <form class="flex-form">
+          <label for="from">
+            <i class="ion-location"></i>
+          </label>
+          <input type="search" placeholder="Where do you want to go?" />
+          <input type="submit" value="Search" />
+        </form>
+       
+      </div>
+    </div>
+  </body>
+</html>

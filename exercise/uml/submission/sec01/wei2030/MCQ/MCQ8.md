@@ -16,15 +16,15 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 01**
 
 ## Answer
-1. B
-2. D
+1. A
+2. B
 3. C
 4. C
-5. C
+5. D
 6. D
 7. B
 8. C
-9. C
+9. A
 10. B
 
 ## Contribution 🛠️
