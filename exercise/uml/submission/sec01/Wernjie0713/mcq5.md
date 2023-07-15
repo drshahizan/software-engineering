@@ -30,7 +30,7 @@ Don't forget to hit the :star: if you like this repo.
 12. C
 13. A
 14. C
-15. C
+15. D
 16. C
 17. B
 18. B
