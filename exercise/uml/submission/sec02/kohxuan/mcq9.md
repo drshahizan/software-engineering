@@ -15,10 +15,13 @@
 6. C
 7. A
 8. A
-9. C
+9. C *B
 10. D
 11. A
 12. B
 13. C
 14. D
 15. D
+
+Question: https://github.com/drshahizan/software-engineering/blob/main/exercise/ad/mcq9.md
+Answer: https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec01/drshahizan/mcq9.md

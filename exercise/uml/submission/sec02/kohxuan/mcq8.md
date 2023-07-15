@@ -17,3 +17,6 @@
 8. C
 9. A
 10. B
+
+Question: https://github.com/drshahizan/software-engineering/blob/main/exercise/val/mcq8.md
+Answer: https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec01/drshahizan/mcq8.md

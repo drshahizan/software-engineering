@@ -8,7 +8,7 @@
 
 ## Answer
 1. A
-2. D
+2. D *C
 3. B
 4. D
 5. C
@@ -33,3 +33,5 @@
 24. B
 25. D
 
+Question: https://github.com/drshahizan/software-engineering/blob/main/exercise/val/mcq4.md
+Answer: https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec01/drshahizan/mcq4.md

@@ -13,7 +13,7 @@
 4. C
 5. C
 6. B
-7. D
+7. D *A
 8. D
 9. A
 10. B
@@ -27,8 +27,11 @@
 18. C
 19. C
 20. C
-21. D
+21. D *A
 22. C
 23. B
 24. B
 25. D
+
+Question: https://github.com/drshahizan/software-engineering/blob/main/exercise/ad/mcq10.md
+Answer: https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec01/drshahizan/mcq10.md

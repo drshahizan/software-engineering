@@ -17,3 +17,6 @@
 8. B
 9. D
 10. B
+
+Question: https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/mcq/mcq1.md
+Answer: https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec01/drshahizan/mcq1.md

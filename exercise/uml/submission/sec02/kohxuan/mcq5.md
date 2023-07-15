@@ -21,15 +21,18 @@
 12. C
 13. A
 14. C
-15. D
+15. D *C
 16. C
 17. B
 18. B
-19. D
+19. D *C
 20. C
 21. C
 22. A
 23. C
 24. C
 25. A
+
+Question: https://github.com/drshahizan/software-engineering/blob/main/exercise/val/mcq5.md
+Answer: https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec01/drshahizan/mcq5.md
 
