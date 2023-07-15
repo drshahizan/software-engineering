@@ -17,5 +17,5 @@ Don't forget to hit the :star: if you like this repo.
 **Section: 01**
 
 ## Answer
-<img alt="uc1" src="https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec01/kohlihui/UC1.png?raw=true">
+<img alt="uc1" src="https://github.com/drshahizan/software-engineering/blob/main/exercise/uml/submission/sec01/kohlihui/Image/UC1.png?raw=true">
 
