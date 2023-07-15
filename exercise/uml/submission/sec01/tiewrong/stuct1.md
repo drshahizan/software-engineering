@@ -18,18 +18,18 @@ System security- The system should ensure secure handling of user personal and p
 3)**Pre-conditions:**
 - register an account and log in to the account <br>
 -The client has valid payment method <br>
-   **Normal event:**
+ <br>  **Normal event:**
    - The client browse through the system
    - After browsing the system the client will select desire tour
    - The client will provide information like tour date, number of participant and personal information
    - System will check the availability of the selected tour and  confirm the reservation if available
    - The client will press the confirm button to confirm the reservation
    - Client will complete payment process after confirm the reservation
-     **Abnormal events:**
+    br> **Abnormal events:**
      - The selected tour is not available for the specified date.
      - The clients encounter error during the reservation process
      - The payment proccess error
-     **Post condition:**
+   <br>  **Post condition:**
      - The client will receive the reservation confirmation and payment detail
      - The client will also receive tour detail
      - The reservation is recorded in the system
