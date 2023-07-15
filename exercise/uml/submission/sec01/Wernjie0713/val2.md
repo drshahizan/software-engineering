@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Set: Software Verification, Validation, and Testing 1
+## Set: Software Verification, Validation, and Testing 2
 
 **Name: Yong Wern Jie**
 
