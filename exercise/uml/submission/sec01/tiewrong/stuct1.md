@@ -25,7 +25,7 @@ System security- The system should ensure secure handling of user personal and p
    - System will check the availability of the selected tour and  confirm the reservation if available
    - The client will press the confirm button to confirm the reservation
    - Client will complete payment process after confirm the reservation
-    br> **Abnormal events:**
+     <br> **Abnormal events:**
      - The selected tour is not available for the specified date.
      - The clients encounter error during the reservation process
      - The payment proccess error
