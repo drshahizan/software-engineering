@@ -30,7 +30,8 @@ This course is designed to give students an introduction to an engineering appro
 7. [Student Portfolio Showcase](https://drshahizan.github.io/) 
 8. [Book](./materials/book.md)
 9. [Software Requirements Document (SRD): Academic Course Registration System](./materials/SRD-sample.md) 
-10. [Class exercise: Module 4](./materials/module4) 
+10. [Class exercise: Module 4](./materials/module4)
+11. 🆕 [Carry marks](./images/SE_CM.pdf)
 
 ## Weekly Schedule
 
