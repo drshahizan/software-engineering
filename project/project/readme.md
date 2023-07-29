@@ -13,8 +13,8 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Section 1
 
-| No | Topic | Description | Timeline | Project |
-| :-----: | ------ | ------ | :------: | :------: |
+| No | Topic | Description | Timeline | Project | Video |
+| :-----: | ------ | ------ | :------: | :------: | :------: |
 | 1 | Curiousity | KTDI Events Management System |<a href="https://github.com/users/drshahizan/projects/11" ><img src="../../images/task.png" width="24px" height="24px" ></a> | <a href="sec01/curiousity" ><img src="../../images/data_folder.png" width="24px" height="24px" ></a> |
 | 2 | Limapuluh | UTM Student Feedback System |<a href="https://github.com/users/drshahizan/projects/13" ><img src="../../images/task.png" width="24px" height="24px" ></a> |<a href="sec01/limapuluh" ><img src="../../images/data_folder.png" width="24px" height="24px" ></a>  |
 | 3 | Systema | UTM Faculty of Computing Student Engagement System | <a href="https://github.com/users/drshahizan/projects/14" ><img src="../../images/task.png" width="24px" height="24px" ></a> | <a href="sec01/systema" ><img src="../../images/data_folder.png" width="24px" height="24px" ></a> |
@@ -24,8 +24,8 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Section 2
 
-| No | Topic | Description | Timeline | Project |
-| :-----: | ------ | ------ | :------: | :------: |
+| No | Topic | Description | Timeline | Project |  Video |
+| :-----: | ------ | ------ | :------: | :------: | :------: |
 | 1 | Software| Student Health and Wellness Management System |<a href="https://github.com/users/drshahizan/projects/22" ><img src="../../images/task.png" width="24px" height="24px" ></a> | <a href="sec02/software" ><img src="../../images/data_folder.png" width="24px" height="24px" ></a> |
 | 2 | Alpha | College Room Rental System |<a href="https://github.com/users/drshahizan/projects/18" ><img src="../../images/task.png" width="24px" height="24px" ></a> | <a href="sec02/alpha" ><img src="../../images/data_folder.png" width="24px" height="24px" ></a> |
 | 3 | Engineering | Parcel Delivery Service |<a href="https://github.com/users/drshahizan/projects/20" ><img src="../../images/task.png" width="24px" height="24px" ></a> | <a href="sec02/engineering" ><img src="../../images/data_folder.png" width="24px" height="24px" ></a> |
